@@ -1,5 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                xmlns:local="clr-namespace:AideDeJeu.Views"
+                x:Class="AideDeJeu.Views.MainPage"
+                  x:Name="This"
+                IsPresented="False"
+                >
+    <MasterDetailPage.Master>
+        <ContentPage Title=" ">
+            <StackLayout Orientation="Vertical">
+                <!--<StackLayout Orientation="Horizontal">
+                    <Button Clicked="OnPlay" Image="ic_play.png" />
+                    <Button Clicked="OnStop" Image="ic_stop.png" />
+                </StackLayout>-->
+                <ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Title}" TextColor="Black" Command="{Binding Path=BindingContext.OpenUrl, Source={x:Reference Name=This}}" CommandParameter="{Binding Url}" />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <ContentPage.ToolbarItems>
+                <ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
+                <ToolbarItem Name="Blog" Text="Blog" Order="Primary" Icon="ic_blog.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Blog/" />
+                <ToolbarItem Name="Wikis" Text="Wikis" Order="Primary" Icon="ic_wikis.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/" />
+                <ToolbarItem Name="Forum" Text="Forum" Order="Primary" Icon="ic_forum.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Forum/" />
+
+                <ToolbarItem Name="Gallery2" Text="Galerie" Order="Secondary" Icon="ic_gallery.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Media/" />
+                <ToolbarItem Name="Plays2" Text="Parties" Order="Secondary" Icon="ic_plays.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/Parties.MainPage.ashx" />
+                <ToolbarItem Name="Search2" Text="Rechercher" Order="Secondary" Icon="ic_search.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/search/default.aspx" />
+                <!--<ToolbarItem Text="Profil" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/forum/yaf_cp_profile.aspx" />
+                <ToolbarItem Text="Messages privés" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/forum/default.aspx?g=cp_pm" />
+                <ToolbarItem Text="Connexion" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/login.aspx" />
+                <ToolbarItem Text="Déconnexion" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/logout.aspx" />
+                <ToolbarItem Text="Inscription" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/register.aspx" />-->
+            </ContentPage.ToolbarItems>
+            <Grid>
+                <!--<WebView x:Name="MainView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Navigating="OnNavigating" Source="{Binding Source}" />-->
+                <ActivityIndicator x:Name="aiProgress" Color="Black" IsRunning="True" IsVisible="True" />
+            </Grid>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
+
+<!--<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:views="clr-namespace:AideDeJeu.Views"
             x:Class="AideDeJeu.Views.MainPage">
@@ -26,4 +75,4 @@
             </x:Arguments>
         </NavigationPage>
     </TabbedPage.Children>
-</TabbedPage>
+</TabbedPage>-->
