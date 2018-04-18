@@ -13,13 +13,32 @@
                     <Button Clicked="OnPlay" Image="ic_play.png" />
                     <Button Clicked="OnStop" Image="ic_stop.png" />
                 </StackLayout>-->
-                <ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
+                <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <TextCell Text="{Binding Title}" TextColor="Black" Command="{Binding Path=BindingContext.OpenUrl, Source={x:Reference Name=This}}" CommandParameter="{Binding Url}" />
                         </DataTemplate>
                     </ListView.ItemTemplate>
-                </ListView>
+                </ListView>-->
+                <Label Text="Liste" />
+                <Picker HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sorts</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Label Text="Classe" />
+                <Picker HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Barde</x:String>
+                        <x:String>Clerc</x:String>
+                        <x:String>Druide</x:String>
+                        <x:String>Ensorceleur</x:String>
+                        <x:String>Magicien</x:String>
+                        <x:String>Paladin</x:String>
+                        <x:String>Rôdeur</x:String>
+                        <x:String>Sorcier</x:String>
+                    </Picker.Items>
+                </Picker>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
@@ -41,8 +60,34 @@
                 <ToolbarItem Text="Inscription" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/register.aspx" />-->
             </ContentPage.ToolbarItems>
             <Grid>
+                <ListView x:Name="ItemsListView" 
+                ItemsSource="{Binding Items}"
+                VerticalOptions="FillAndExpand"
+                 HasUnevenRows="true"
+                 RefreshCommand="{Binding LoadItemsCommand}"
+                 IsPullToRefreshEnabled="true"
+                 IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                 CachingStrategy="RecycleElement"
+                 ItemSelected="OnItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10">
+                                    <Label Text="{Binding Text}" 
+                       LineBreakMode="NoWrap" 
+                       Style="{DynamicResource ListItemTextStyle}" 
+                       FontSize="16" />
+                                    <Label Text="{Binding Description}" 
+                       LineBreakMode="NoWrap"
+                       Style="{DynamicResource ListItemDetailTextStyle}"
+                       FontSize="13" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
                 <!--<WebView x:Name="MainView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Navigating="OnNavigating" Source="{Binding Source}" />-->
-                <ActivityIndicator x:Name="aiProgress" Color="Black" IsRunning="True" IsVisible="True" />
+                <!--<ActivityIndicator x:Name="aiProgress" Color="Black" IsRunning="True" IsVisible="True" />-->
             </Grid>
         </ContentPage>
     </MasterDetailPage.Detail>
