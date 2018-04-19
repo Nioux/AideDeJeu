@@ -20,12 +20,12 @@
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>-->
-                <Label Text="Liste" />
+                <!--<Label Text="Liste" />
                 <Picker HorizontalOptions="FillAndExpand">
                     <Picker.Items>
                         <x:String>Sorts</x:String>
                     </Picker.Items>
-                </Picker>
+                </Picker>-->
                 <Label Text="Classe" />
                 <Picker HorizontalOptions="FillAndExpand">
                     <Picker.Items>
@@ -39,6 +39,36 @@
                         <x:String>Sorcier</x:String>
                     </Picker.Items>
                 </Picker>
+                <Label Text="Niveau min" />
+                <Picker HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sorts mineurs</x:String>
+                        <x:String>1</x:String>
+                        <x:String>2</x:String>
+                        <x:String>3</x:String>
+                        <x:String>4</x:String>
+                        <x:String>5</x:String>
+                        <x:String>6</x:String>
+                        <x:String>7</x:String>
+                        <x:String>8</x:String>
+                        <x:String>9</x:String>
+                    </Picker.Items>
+                </Picker>
+                <Label Text="Niveau max" />
+                <Picker HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sorts mineurs</x:String>
+                        <x:String>1</x:String>
+                        <x:String>2</x:String>
+                        <x:String>3</x:String>
+                        <x:String>4</x:String>
+                        <x:String>5</x:String>
+                        <x:String>6</x:String>
+                        <x:String>7</x:String>
+                        <x:String>8</x:String>
+                        <x:String>9</x:String>
+                    </Picker.Items>
+                </Picker>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
@@ -46,13 +76,14 @@
         <ContentPage>
             <ContentPage.ToolbarItems>
                 <ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
-                <ToolbarItem Name="Blog" Text="Blog" Order="Primary" Icon="ic_blog.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Blog/" />
+                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
+                <!--<ToolbarItem Name="Blog" Text="Blog" Order="Primary" Icon="ic_blog.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Blog/" />
                 <ToolbarItem Name="Wikis" Text="Wikis" Order="Primary" Icon="ic_wikis.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/" />
                 <ToolbarItem Name="Forum" Text="Forum" Order="Primary" Icon="ic_forum.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Forum/" />
 
                 <ToolbarItem Name="Gallery2" Text="Galerie" Order="Secondary" Icon="ic_gallery.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Media/" />
                 <ToolbarItem Name="Plays2" Text="Parties" Order="Secondary" Icon="ic_plays.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/Parties.MainPage.ashx" />
-                <ToolbarItem Name="Search2" Text="Rechercher" Order="Secondary" Icon="ic_search.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/search/default.aspx" />
+                <ToolbarItem Name="Search2" Text="Rechercher" Order="Secondary" Icon="ic_search.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/search/default.aspx" />-->
                 <!--<ToolbarItem Text="Profil" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/forum/yaf_cp_profile.aspx" />
                 <ToolbarItem Text="Messages privés" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/forum/default.aspx?g=cp_pm" />
                 <ToolbarItem Text="Connexion" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/login.aspx" />
@@ -77,10 +108,10 @@
                        LineBreakMode="NoWrap" 
                        Style="{DynamicResource ListItemTextStyle}" 
                        FontSize="16" />
-                                    <Label Text="{Binding Description}" 
+                                    <!--<Label Text="{Binding Description}" 
                        LineBreakMode="NoWrap"
                        Style="{DynamicResource ListItemDetailTextStyle}"
-                       FontSize="13" />
+                       FontSize="13" />-->
                                 </StackLayout>
                             </ViewCell>
                         </DataTemplate>
