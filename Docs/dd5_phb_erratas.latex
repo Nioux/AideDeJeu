@@ -1,0 +1,374 @@
+% Changing book to article will make the footers match on each page,
+% rather than alternate every other.
+%
+% Note that the article class does not have chapters.
+\documentclass[letterpaper,10pt,twoside,twocolumn,openany]{book}
+
+% Use babel or polyglossia to automatically redefine macros for terms
+% Armor Class, Level, etc...
+% Default output is in English; captions are located in lib/dndstring-captions.sty.
+% If no captions exist for a language, English will be used.
+%1. To load a language with babel:
+%	\usepackage[<lang>]{babel}
+%2. To load a language with polyglossia:
+%	\usepackage{polyglossia}
+%	\setdefaultlanguage{<lang>}
+\usepackage[english]{babel}
+%usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{soul}
+\usepackage{dnd}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+}
+
+% Start document
+\begin{document}
+
+% Your content goes here
+
+% Comment this out if you're using the article class.
+\chapter{Erratas du Player's Handbook v1.0}
+
+\subsection{Page 20 - Droite}
+\textit{\textbf{Variante raciale.}} ... Choisissez l'une de ces \st{variantesraciales} \underline{variantes raciales} ...
+
+\subsection{Page 21 - Gauche}
+\textit{\textbf{Pied léger.}} Votre vitesse de base passe à \underline{10,5} mètres.
+
+\subsection{Page 41 - Droite}
+\header{Ascendance draconique}
+\begin{dndtable}[>{\hsize=0.5\hsize}X >{\hsize=1\hsize}X >{\hsize=1.5\hsize}X]
+   	\textbf{Dragon} & \textbf{Type de dégâts} & \textbf{Souffle} \\
+   	Airain & Feu & Ligne de 1,5 sur \underline{9 mètres} (jet de sauvegarde de Dex.)  \\
+   	...  & ... & ... \\
+   	Vert & Poison & Cône de \underline{4,5 m} (jet de sauvegarde de Con.)	 
+\end{dndtable}
+
+\subsection{Page 47 - Gauche}
+\header{Le barbare}
+\begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=0.75\hsize}Y >{\hsize=2\hsize}X >{\hsize=0.75\hsize}Y >{\hsize=0.75\hsize}Y]
+   	\textbf{Niveau} & \textbf{Bonus de maîtrise} & \textbf{Aptitudes} & \textbf{Rages} & \textbf{Dégâts de rage} \\
+   	... & ... & ... & ... & ...\\
+    3 & +2 & \underline{Voie} primitive & 3 & +2 \\
+   	... & ... & ... & ... & ...
+\end{dndtable}
+
+\subsection{Page 47 - Droite}
+\subsubsection{La création rapide}
+(en plus petit non souligné)
+
+\subsection{Page 52 - Droite}
+\subsubsection{Maîtrises}
+\textbf{Armes :} armes courantes, arbalète de poing, \underline{épée longue}, rapière, épée courte
+
+\subsection{Page 59 - Droite}
+\header{Sorts du domaine de la guerre}
+\begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=1.25\hsize}X]
+   	\textbf{Niveau de clerc} & \textbf{Sorts} \\
+    1 & bouclier de \underline{la} foi, faveur divine \\
+   	... & ... 
+\end{dndtable}
+
+\subsection{Page 60 - Droite}
+\subsubsection{Canalisation d'énergie divine : aube radieuse}
+Si une créature rate son jet de sauvegarde, elle subit des dégâts radiants égaux \st{l} à 2d10 + votre niveau de clerc, la moitié seulement si elle réussit. Une créature qui bénéficie d'un \underline{abri} total vis-à-vis de vous n'est pas affectée.	
+
+\subsection{Page 62 - Gauche}
+\header{Sorts du domaine du savoir}
+\begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=1.25\hsize}X]
+   	\textbf{Niveau de clerc} & \textbf{Sorts} \\
+    1 & identification, \underline{injonction} \\
+   	... & ... 
+\end{dndtable}
+
+\subsection{Page 63 - Gauche}
+\subsubsection{Canalisation d'énergie divine : fureur destructrice}
+Quand vous lancez \underline{les dés} pour infliger des dégâts de foudre ou de tonnerre, vous pouvez utiliser la canalisation d'énergie divine pour infliger les dégâts maximaux au lieu de lancer \underline{les dés}.
+
+\subsection{Page 66 - Droite}
+\header{Formes sauvages}
+\begin{dndtable}[>{\hsize=0.5\hsize}Y >{\hsize=0.5\hsize}Y >{\hsize=2\hsize}X >{\hsize=1\hsize}X]
+   	\textbf{Niveau} & \textbf{ID} & \textbf{Limitations} & \textbf{Exemple} \\
+   	... & ... & ... & ...\\ 
+    8 & \underline{1} & - & Aigle géant
+\end{dndtable}
+
+
+\subsection{Page 69 - Droite}
+\begin{paperbox}{Les druides et les dieux}
+... Dans les \textit{Royaumes Oubliés} par exemple, un cercle regroupe généralement des druides dévoués à Sylvanus, \underline{Mailikki}, Eldath, Chauntéa et même aux sévères dieux de la fureur comme Talos, Malar, Aurile et Umberlie. ...
+\end{paperbox}
+
+\subsection{Page 74 - Droite}
+\subsubsection{Pic de magie sauvage}
+Un pic de magie sauvage ne peut se produire qu'une seule fois par tour.
+
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 78 - Gauche}
+\subsection{Second souffle}
+\subsection{Sursaut d'activité}
+(en plus grand et souligné)
+
+\subsection{Page 80 - Droite}
+\textit{\textbf{Dés de supériorité.}} Vous récupérez tous les dés dépensés lorsque vous terminez \underline{un court repos ou} un long repos.
+
+\subsection{Page 81 - Droite}
+\textit{\textbf{Feinte.}} L'avantage est perdu si vous ne l'utilisez pas durant le tour où vous l'avez obtenu.
+\textit{(errata officiel du PH 1.22)}
+\newline
+\textit{\textbf{Fente.}} 
+\st{Quand vous touchez une creature avec une attaque armee} Lorsque vous effectuez un jet d'attaque avec une arme de mêlée durant votre tour
+
+\newpage
+
+\subsection{Page 84 - Droite}
+\subsubsection{Préparer et lancer des sorts}
+\st{Choisissez dans la liste des sorts de magicien des sorts que vous pouvez lancer afin de les preparer} Choisissez dans votre grimoire les sorts que vous allez préparer. 
+\begin{commentbox}{Avis des traducteurs}
+Pour préparer la liste de sorts de magiciens que vous pourrez lancer, choisissez dans votre grimoire un nombre de sorts égal à votre modificateur d'Intelligence + votre niveau de magicien (un sort au minimum).
+\end{commentbox}
+
+\subsection{Page 87 - Droite}
+\subsubsection{Evocation améliorée}
+Le bonus aux dégâts s'applique à un seul jet de dégâts du sort, pas à plusieurs jets.
+\newline
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 88 - Droite}
+\subsubsection{Invocation mineure}
+L'objet invoqué disparaît également s'il inflige des dégâts.
+\newline
+\textit{(errata officiel du PH 1.22)}
+
+\subsubsection{Nécromancien érudit}
+(sans s à Nécromancien)
+
+
+\subsection{Page 95 - Gauche}
+\textit{\textbf{Fouet aqueux.}} Vous pouvez dépenser 2 points de ki par une action \st{bonus} pour créer un fouet constitué d'eau qui tire et pousse une créature afin de la déséquilibrer.
+
+\subsection{Page 101 - Droite}
+\subsubsection{Préceptes de la vengeance}
+... Un paladin qui prête un tel serment \underline{est} prêt à tout sacrifier ...
+
+\newpage
+
+\subsection{Page 107 - Droite}
+\subsubsection{Compagnon du rôdeur}
+Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosité de 1/4 ou moins
+
+
+\subsection{Page 114 - Droite}
+\subsubsection{La création rapide}
+... Ensuite, choisissez l'historique de charlatan, puis les tours de magie \textit{explosion occulte} et \textit{contact glacial} ainsi que les sorts de niveau 1 \st{rayon contagieux} \textit{\underline{charme-personne}} et \textit{carreau ensorcelé}.
+\newline
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 115 - Gauche}
+\subsection{Magie de pacte}
+... Consultez le chapitre 10 pour connaître les règles générales régissant les incantations et le chapitre 11 pour obtenir la liste des sorts du \st{barde} \underline{sorcier}.
+
+\subsubsection{Emplacements de sorts}
+... Pour lancer le sort de niveau 1 \st{vague tonnante} \underline{carreau ensorcelé}, vous devez utiliser un de ces emplacements de sort et vous le lancez comme un sort de niveau 3.
+
+\subsection{Page 115 - Droite}
+\subsection{Invocations occultes}
+... Une fois que vous atteignez certains niveaux de sorcier, vous apprenez \st{deux} \underline{de} nouvelles invocations occultes de votre choix, comme indiqué dans la colonne Invocations occultes du tableau d'évolution du sorcier.
+
+\newpage
+
+\subsection{Page 116 - Droite}
+\begin{paperbox}{Votre pacte}
+\textbf{\textit{Pacte de la chaîne.}} ... La nature du Grand Ancien étant impénétrable, la forme par défaut de votre familier ne revêt aucune \st{importante} \underline{importance}.
+\end{paperbox}
+\subsubsection{Présence féerique}
+... dans un cube de 3 mètres d'\underline{arête} ...
+
+\subsection{Page 131 - Droite}
+\subsection{Criminel}
+(souligné)
+
+\subsection{Page 145}
+\header{Armures}
+\begin{dndtable}[>{\hsize=2.25\hsize}X >{\hsize=0.25\hsize}X >{\hsize=0.5\hsize}X]
+   	\textbf{Armure} & \textbf{...} & \textbf{Force} \\
+   	... & ... & ...  \\
+    Cotte de mailles & ... & \underline{For 13} \\
+    Clibanion & ... & \underline{For 15} \\
+    Harnois & ... & \underline{For 15} \\
+   	... & ... & ... 
+\end{dndtable}
+
+\subsection{Page 147}
+\subsubsection{Armes improvisées}
+... s'il utilise \underline{un} objet similaire pour attaquer.
+
+\subsection{Page 151 - Droite}
+\begin{paperbox}{Paquetages d'équipement}
+\textbf{\textit{Paquetage d'ecclésiastique (19 po).}} ... 2 jours de \st{raton} \underline{rations} et une outre.
+\end{paperbox}
+
+\subsection{Page 152 - Droite}
+\textbf{\textit{Matériel d'escalade}}
+\newline
+apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
+
+\subsection{Page 163 - Droite}
+\subsection{Points d'expérience}
+(souligné)
+
+\subsection{Page 165 - Gauche}
+\header{Lanceurs de sorts multiclassés : emplacements de sorts par \underline{niveau de sort}}
+\begin{dndtable}[XXX]
+   	\textbf{Niveau} & \textbf{...} & \textbf{9} \\
+   	... & ... & ...  \\
+\end{dndtable}
+
+\subsection{Page 167 - Droite}
+\subsection{Explorateur de donjons}
+\begin{itemize}
+  \item \st{Vous pouvez chercher des pieges en vous deplacant a un rythme normal et non lent.}
+\end{itemize}
+
+\textit{(Sage Advice Compendium v2.2)}
+
+\subsection{Page 168 - Droite}
+\subsection{Maître-arbalétrier}
+\begin{itemize}
+  \item Quand vous utilisez l'action attaquer et que vous attaquez avec une arme à une main, vous pouvez utiliser une action bonus pour attaquer avec une arbalète de poing \st{chargee} que vous tenez en main.
+\end{itemize}
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 170 - Gauche}
+\subsection{Sentinelle}
+\begin{itemize}
+  \item Vous pouvez effectuer des attaques d'opportunité contre les créatures \st{situees a 1,50 metres ou moins de vous,} même si elles utilisent l'action se désengager avant de quitter votre zone d'allonge.
+\end{itemize}
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 174 - Gauche}
+... lors de certains tests de caractéristiques. \st{caracteristiques.}
+
+\subsection{Page 177 - Gauche}
+\begin{paperbox}{Se cacher}
+...
+\newline
+Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir \underline{clairement} et vous révélez votre cachette si vous faites du bruit, en criant un avertissement ou en renversant un vase, par exemple.
+\end{paperbox}
+
+\subsection{Page 182 - Droite}
+\textbf{\textit{Saut en hauteur.}} \underline{Un saut en hauteur est au minimum de 0 mètre.}
+\newline
+\textit{(errata officiel du PH 1.22)}
+\begin{commentbox}{Avis des traducteurs}
+"...atteindre une hauteur en mètres égale à 1 + le tiers de votre modificateur de Force (0 mètre au minimum)..."
+\end{commentbox}
+
+\subsection{Page 220 - Droite}
+\subsubsection{Contact glacial}
+(dans l'ordre alphabétique devrait être p 227)
+
+\subsection{Page 222 - Gauche}
+\subsubsection{Chaîne d'éclairs}
+\textbf{Portée :} \underline{45 mètres}
+
+\subsection{Page 243 - Gauche}
+\subsubsection{Frappe ardente - assommante - aveuglante}
+Lors de la prochaine attaque armée \underline{au corps à corps} qui...
+
+\subsection{Page 244 - Droite}
+\subsubsection{Glyphe de protection}
+Lorsque vous lancez ce sort, vous tracez un glyphe qui libèrera plus tard un effet magique.
+\newline
+\textit{(remplace la première phrase)}
+\newline
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 256 - Droite}
+\subsubsection{Mains brûlantes}
+\textbf{Portée :} \st{contact} \underline{personnelle} (cône de 4,50 mètres)
+
+\subsection{Page 260 - Droite}
+\subsubsection{Monture fantôme}
+\textbf{Durée d'incantation :} 1 \st{action} \underline{minute}
+
+\subsection{Page 263 - Droite}
+\subsubsection{Mur prismatique}
+\st{Un sceptre d annulation detruit un mur prismatique, mais un champ d antimagie en est incapable.} \textit{Champ d'antimagie} n'a aucun effet sur le mur et \textit{dissipation de la magie} fonctionne uniquement sur la couche violette.
+\newline
+\textit{(errata officiel du PH 1.22)}
+
+\subsection{Page 266 - Gauche}
+\subsubsection{Parole divine}
+\textit{Evocation de niveau 7}
+\newline
+\textbf{Durée d'incantation :} 1 action bonus
+\newline
+\textbf{Portée :} 9 mètres
+\newline
+\textbf{Composantes :} V
+\newline
+\textbf{Durée :} instantanée
+\newline
+Vous prononcez une parole divine, emplie de la puissance qui a façonné le monde à l'aube de la création. Choisissez autant de créatures que vous le souhaitez parmi celles que vous voyez, dans la portée du sort. Chaque créature qui vous entend doit réussir un jet de sauvegarde de Charisme, sans quoi elle subit un effet selon la valeur actuelle de ses points de vie.
+\begin{itemize}
+  \item 50 pv ou moins : assourdie pendant 1 minute
+  \item 40 pv ou moins : assourdie et aveuglée pendant 10 minutes
+  \item 30 pv ou moins : aveuglée, assourdie et étourdie pendant 1 heure
+  \item 20 pv ou moins : tuée sur le coup
+\end{itemize}
+Indépendamment de ses points de vie actuels, un céleste, un élémentaire, une fée ou un fiélon qui échoue son jet est retourné à son plan d'origine (s'il n'y est pas déjà) et il ne peut revenir sur votre plan pendant 24 heures, peu importe le moyen, à l'exception du sort \textit{souhait}. 
+
+\subsection{Page 276 - Gauche}
+\subsubsection{Résurrection suprême}
+Si la créature était un mort-vivant, elle revient sous la forme qu'elle avait avant de devenir un mort-vivant.
+\newline
+\textit{(nouvelle phrase à la fin du second paragraphe)}
+\newline
+\textit{(errata officiel du PH 1.22)}
+
+
+\subsection{Page 304 - Gauche}
+\begin{monsterbox}{Aigle géant}
+  \begin{hangingpar}
+    \textit{Bête de taille \underline{Grande}, Neutre Bon}
+  \end{hangingpar}
+\end{monsterbox}
+
+\subsection{Page 316}
+\subsubsection{Colonne 1}
+
+repos, \st{186} \underline{86}
+\newline
+\st{repos court} \underline{court repos}. (voir repos)
+\newline
+\st{repos long} \underline{long repos}. (voir repos)
+\newline
+
+\subsubsection{Colonne 5}
+vision dans le noir, \st{183, 199} \underline{185}
+
+\subsection{Crédits}
+\textbf{}
+
+\textbf{DD5 :} Wizards of the Coast, Gale Force Nine, Black Book Editions
+
+\textbf{Liste des erratas :} Toute la dream team qui a alimenté la liste sur le forum BBE, ainsi que les correcteurs / traducteurs pour leurs ajustements / précisions ;-)
+
+\textbf{Sort ajouté :} Le sort de clerc manquant a été copié sur celui du site AideDD
+
+\textbf{Template LaTeX :} evanbergeron https://github.com/evanbergeron/DND-5e-LaTeX-Template
+
+\textbf{Formatage des erratas :} Moi ;-)
+
+% End document
+\end{document}
