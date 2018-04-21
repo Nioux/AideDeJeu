@@ -35,13 +35,19 @@
 % Your content goes here
 
 % Comment this out if you're using the article class.
-\chapter{Erratas du Player's Handbook v1.0}
+\chapter{Erratas du Player's Handbook v1.01}
 
 \subsection{Page 20 - Droite}
 \textit{\textbf{Variante raciale.}} ... Choisissez l'une de ces \st{variantesraciales} \underline{variantes raciales} ...
 
 \subsection{Page 21 - Gauche}
 \textit{\textbf{Pied léger.}} Votre vitesse de base passe à \underline{10,5} mètres.
+
+\subsection{Page 21 - Droite}
+\subsubsection{Elfe noir (drow)}
+\textbf{Augmentation de caractéristiques.}
+\newline
+\textit{(doit être en gras)}
 
 \subsection{Page 41 - Droite}
 \header{Ascendance draconique}
@@ -297,7 +303,7 @@ Lorsque vous lancez ce sort, vous tracez un glyphe qui libèrera plus tard un ef
 \subsubsection{Mains brûlantes}
 \textbf{Portée :} \st{contact} \underline{personnelle} (cône de 4,50 mètres)
 
-\subsection{Page 260 - Droite}
+\subsection{Page 260 - Gauche}
 \subsubsection{Monture fantôme}
 \textbf{Durée d'incantation :} 1 \st{action} \underline{minute}
 
@@ -347,7 +353,7 @@ Si la créature était un mort-vivant, elle revient sous la forme qu'elle avait 
 \subsection{Page 316}
 \subsubsection{Colonne 1}
 
-repos, \st{186} \underline{86}
+repos, \st{86} \underline{186}
 \newline
 \st{repos court} \underline{court repos}. (voir repos)
 \newline
