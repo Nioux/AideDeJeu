@@ -13,16 +13,22 @@ namespace AideDeJeuLib
 {
     public class Scrappers
     {
+        public HttpClient GetHttpClient()
+        {
+            var client = new HttpClient();
+            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
+            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
+            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
+            client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
+            client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
+            return client;
+        }
+
         public async Task<IEnumerable<string>> GetSpellIds(string classe, int niveauMin = 0, int niveauMax = 9)
         {
             string html = null;
-            using (var client = new HttpClient())
+            using (var client = GetHttpClient())
             {
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
-                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
-                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
                 // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
                 // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
                 // https://www.aidedd.org/regles/sorts/
@@ -37,13 +43,8 @@ namespace AideDeJeuLib
         public async Task<IEnumerable<Spell>> GetSpells(IEnumerable<string> spellIds)
         {
             string html = null;
-            using (var client = new HttpClient())
+            using (var client = GetHttpClient())
             {
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
-                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
-                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
                 var content = new MultipartFormDataContent();
                 content.Add(new StringContent("card"), "format");
                 foreach (var spellId in spellIds)
@@ -80,7 +81,7 @@ namespace AideDeJeuLib
             }
             return newSpells;
         }
-        public async Task<string> OnGetAsync(Dictionary<string, string> context)
+        public async Task<string> OnGetAsync(IReadOnlyDictionary<string, string> context)
         {
             var client = new HttpClient();
             //client.DefaultRequestHeaders.UserAgent.Add(new System.Net.Http.Headers.ProductInfoHeaderValue(new System.Net.Http.Headers.ProductHeaderValue("Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0")));
@@ -147,7 +148,7 @@ namespace AideDeJeuLib
                 newSpell.NoOverflow = spell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
                 newSpell.Source = spell.SelectSingleNode("div[@class='source']").InnerText;
                 newSpells.Add(newSpell);
-                cardDatas.AddRange(ToCardDatas(context, newSpell));
+                cardDatas.AddRange(Converters.ToCardDatas(context, newSpell));
             }
             //Debug.WriteLine(htmlSpell);
 
@@ -187,418 +188,6 @@ namespace AideDeJeuLib
 
         }
 
-        public CardContent TextToCardContent(string text)
-        {
-            if (text.StartsWith("•"))
-            {
-                return new BulletCardContent(text.Substring(1));
-            }
-            else if (text.Trim(new char[] { ' ', '\n' }) == ".")
-            {
-                return new EmptyCardContent();
-            }
-            else
-            {
-                return new TextCardContent(text);
-            }
-        }
-
-        public string[] SplitText(string text)
-        {
-            var texts = new List<string>();
-            string str = "";
-            bool autoreturn = true;
-            foreach (var car in text)
-            {
-                if (car == '\n')
-                {
-                    texts.Add(str);
-                    str = "";
-                    autoreturn = true;
-                }
-                else if (car == '.')
-                {
-                    if (autoreturn)
-                    {
-                        texts.Add(str + '.');
-                        str = "";
-                    }
-                    else
-                    {
-                        str += car;
-                    }
-                }
-                else if (car == '•')
-                {
-                    texts.Add(str);
-                    str = "•";
-                    autoreturn = false;
-                }
-                else
-                {
-                    str += car;
-                }
-            }
-            if (str.Length > 0)
-            {
-                texts.Add(str);
-            }
-            return texts.ToArray();
-        }
-
-        public CardContent[] ToContents(HtmlNode description)
-        {
-            var contents = new List<CardContent>();
-            string currentText = "";
-            foreach (var content in description.ChildNodes)
-            {
-                //Debug.WriteLine(content.NodeType + " " + content.Name + " " + content.InnerText);
-                if (content.NodeType == HtmlNodeType.Element && content.Name == "strong")
-                {
-                    if (currentText.Length > 0)
-                    {
-                        contents.Add(TextToCardContent(currentText));
-                        currentText = "";
-                    }
-                    contents.Add(new SectionCardContent(content.InnerText));
-                }
-                else if (content.NodeType == HtmlNodeType.Element && content.Name == "em")
-                {
-                    currentText += "<em>" + content.InnerText + "</em>";
-                }
-                else if (content.NodeType == HtmlNodeType.Text)
-                {
-                    var texts = SplitText(content.InnerText);
-                    for (int i = 0; i < texts.Length - 1; i++)
-                    {
-                        contents.Add(TextToCardContent(currentText + texts[i]));
-                        currentText = "";
-                    }
-                    currentText += texts[texts.Length - 1];
-                }
-            }
-            if (currentText.Length > 0)
-            {
-                contents.Add(TextToCardContent(currentText));
-                currentText = "";
-            }
-            return contents.ToArray();
-        }
-
-        public CardData ToBaseCardData(Dictionary<string, string> context, Spell spell)
-        {
-            string color = context["color"];
-            string backgroundImage = context["background_image"];
-            var cardData = new CardData();
-            cardData.Count = 1;
-            cardData.Color = color;
-            cardData.Title = spell.Title;
-            cardData.TitleSize = "10";
-            cardData.Icon = "white-book-" + spell.Level;
-            cardData.IconBack = "robe";
-            cardData.BackgroundImage = backgroundImage;
-            cardData.Tags = new string[]
-            {
-                "sort",
-                "magicien",
-            };
-            return cardData;
-        }
-        public CardData[] ToCardDatas(Dictionary<string, string> context, Spell spell)
-        {
-            var cardDatas = new List<CardData>();
-            var cardData = ToBaseCardData(context, spell);
-
-            var contents = new List<CardContent>();
-            contents.AddRange(new CardContent[]
-            {
-                new SubtitleCardContent(spell.LevelType),
-                new RuleCardContent(),
-                new PropertyCardContent("Temps d'incantation", spell.CastingTime),
-                new PropertyCardContent("Portée", spell.Range),
-                new PropertyCardContent("Composants", spell.Components),
-                new RuleCardContent(),
-                //new FillCardContent(1),
-                //new TextCardContent(spell.Description),
-            });
-            var description = ToContents(spell.DescriptionDiv);
-            foreach (var line in description)
-            {
-                int size = contents.Sum(cc => cc.Height);
-                if (line.Height == 0)
-                {
-
-                }
-                else if (size + line.Height <= 295)
-                {
-                    contents.Add(line);
-                }
-                else
-                {
-                    CardContent section = null;
-                    if (contents.LastOrDefault() is SectionCardContent)
-                    {
-                        section = contents.LastOrDefault();
-                        contents.RemoveAt(contents.Count - 1);
-                    }
-                    cardData.Contents = contents.ToArray();
-                    cardDatas.Add(cardData);
-
-                    cardData = ToBaseCardData(context, spell);
-                    contents = new List<CardContent>();
-                    if (section != null)
-                    {
-                        contents.Add(section);
-                    }
-                    contents.Add(line);
-                }
-            }
-            cardData.Contents = contents.ToArray();
-            cardDatas.Add(cardData);
-
-            if (cardDatas.Count > 1)
-            {
-                for (int i = 0; i < cardDatas.Count; i++)
-                {
-                    cardDatas[i].Title += string.Format(" ({0}/{1})", i + 1, cardDatas.Count);
-                }
-            }
-            return cardDatas.ToArray();
-        }
-
-        public class Spell
-        {
-            public string Title { get; set; }
-            public string TitleUS { get; set; }
-            public string LevelType { get; set; }
-            public string Level { get; set; }
-            public string Type { get; set; }
-            public string CastingTime { get; set; }
-            public string Range { get; set; }
-            public string Components { get; set; }
-            public string Duration { get; set; }
-            public string Description { get; set; }
-            public string DescriptionText { get; set; }
-            public HtmlNode DescriptionDiv { get; set; }
-            public string Overflow { get; set; }
-            public string NoOverflow { get; set; }
-            public string Source { get; set; }
-        }
-
-        /*public class CardDataOwner
-        {
-            public CardData[] CardDatas { get; set; }
-        }*/
-        [DataContract]
-        public class CardData
-        {
-            [DataMember(Name = "count")]
-            public int Count { get; set; }
-            [DataMember(Name = "color")]
-            public string Color { get; set; }
-            [DataMember(Name = "title")]
-            public string Title { get; set; }
-            [DataMember(Name = "title_size")]
-            public string TitleSize { get; set; }
-            [DataMember(Name = "icon")]
-            public string Icon { get; set; }
-            [DataMember(Name = "icon_back")]
-            public string IconBack { get; set; }
-            [DataMember(Name = "contents")]
-            public string[] ContentsToString { get { return Contents.Select(cc => cc.ToString()).ToArray(); } }
-            [IgnoreDataMember]
-            public CardContent[] Contents { get; set; }
-            [DataMember(Name = "tags")]
-            public string[] Tags { get; set; }
-            [DataMember(Name = "background_image")]
-            public string BackgroundImage { get; set; }
-        }
-
-        public interface CardContent
-        {
-            int Height { get; }
-        }
-
-        public class SubtitleCardContent : CardContent
-        {
-            public string Subtitle { get; set; }
-
-            public SubtitleCardContent(string subtitle)
-            {
-                Subtitle = subtitle;
-            }
-
-            public override string ToString()
-            {
-                return "subtitle | " + Subtitle;
-            }
-
-            public int Height { get { return 12; } }
-        }
-
-        public class RuleCardContent : CardContent
-        {
-            public override string ToString()
-            {
-                return "rule";
-            }
-
-            public int Height { get { return 15; } }
-        }
-
-        public class PropertyCardContent : CardContent
-        {
-            public string Name { get; set; }
-
-            public string Value { get; set; }
-
-            public PropertyCardContent(string name, string value)
-            {
-                Name = name;
-                Value = value;
-            }
-
-            public override string ToString()
-            {
-                return "property | " + Name + " | " + Value;
-            }
-
-            public int Height { get { return ((Name.Length + Value.Length) / 35 + 1) * 15; } }
-        }
-
-        public class FillCardContent : CardContent
-        {
-            public int Fill { get; set; }
-
-            public FillCardContent(int fill)
-            {
-                Fill = fill;
-            }
-
-            public override string ToString()
-            {
-                return "fill | " + Fill;
-            }
-
-            public int Height { get { return 1; } }
-        }
-
-        public class TextCardContent : CardContent
-        {
-            public string Text { get; set; }
-
-            public TextCardContent(string text)
-            {
-                Text = text;
-            }
-
-            public override string ToString()
-            {
-                return "text | " + Text;
-            }
-
-            public int Height { get { return (Text.Length / 35 + 1) * 15 + 6; } }
-        }
-
-        public class SectionCardContent : CardContent
-        {
-            public string Section { get; set; }
-
-            public SectionCardContent(string section)
-            {
-                Section = section;
-            }
-
-            public override string ToString()
-            {
-                return "section | " + Section;
-            }
-
-            public int Height { get { return 20; } }
-        }
-
-        public class DescriptionCardContent : CardContent
-        {
-            public string Quality { get; set; }
-
-            public string Text { get; set; }
-
-            public DescriptionCardContent(string quality, string text)
-            {
-                Quality = quality;
-                Text = text;
-            }
-
-            public override string ToString()
-            {
-                return "description | " + Quality + " | " + Text;
-            }
-
-            public int Height { get { return ((Quality.Length + Text.Length) / 35 + 1) * 15 + 6; } }
-        }
-
-        public class BulletCardContent : CardContent
-        {
-            public string Text { get; set; }
-
-            public BulletCardContent(string text)
-            {
-                Text = text;
-            }
-
-            public override string ToString()
-            {
-                return "bullet | " + Text;
-            }
-
-            public int Height { get { return (Text.Length / 30 + 1) * 15; } }
-        }
-
-        public class BoxesCardContent : CardContent
-        {
-            public int Count { get; set; }
-
-            public int Size { get; set; }
-
-            public BoxesCardContent(int count, int size)
-            {
-                Count = count;
-                Size = size;
-            }
-
-            public override string ToString()
-            {
-                return "boxes | " + Count + " | " + Size;
-            }
-
-            public int Height { get { return 16; } }
-        }
-
-        public class DndstatsCardContent : CardContent
-        {
-            public int Strength { get; set; }
-            public int Dexterity { get; set; }
-            public int Constitution { get; set; }
-            public int Intelligence { get; set; }
-            public int Wisdom { get; set; }
-            public int Charisma { get; set; }
-            public override string ToString()
-            {
-                return "dndstats | " + Strength + " | " + Dexterity + " | " + Constitution + " | " + Intelligence + " | " + Wisdom + " | " + Charisma;
-            }
-
-            public int Height { get { return 20; } }
-        }
-
-        public class EmptyCardContent : CardContent
-        {
-            public override string ToString()
-            {
-                return "";
-            }
-
-            public int Height { get { return 0; } }
-        }
 
     }
 }
