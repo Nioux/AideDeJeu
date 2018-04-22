@@ -64,6 +64,21 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\LinLibertine_R.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_RB.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_RBI.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_RI.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_RZ.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_RZI.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aBL.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aBS.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aDRS.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aRL.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aS.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aSI.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aSZI.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_aZL.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_DR.ttf" />
+    <AndroidAsset Include="Assets\LinLibertine_I.ttf" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>

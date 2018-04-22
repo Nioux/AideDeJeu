@@ -103,6 +103,21 @@
     </AppxManifest>
     <None Include="AideDeJeu.UWP_TemporaryKey.pfx" />
     <Content Include="Assets\Fonts\LinLibertine_R.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_RB.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_RBI.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_RI.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_RZ.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_RZI.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aBL.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aBS.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aDRS.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aRL.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aS.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aSI.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aSZI.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_aZL.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_DR.ttf" />
+    <Content Include="Assets\Fonts\LinLibertine_I.ttf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\Default.rd.xml" />

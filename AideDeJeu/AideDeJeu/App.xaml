@@ -65,6 +65,26 @@
             <Color x:Key="monstertan">#FDF1DC</Color>
             <Color x:Key="monstertandark">#F0DBB5</Color>
 
+            <Style TargetType="ContentPage">
+                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+            </Style>
+
+            <OnPlatform x:Key="LinuxLibertineCapitals" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine Capitals" />
+                <On Platform="Android" Value="LinLibertine_aS.ttf#Linux Libertine Capitals" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_aS.ttf#Linux Libertine Capitals" />
+            </OnPlatform>
+
+            <OnPlatform x:Key="LinuxLibertine" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine" />
+                <On Platform="Android" Value="LinLibertine_R.ttf#Linux Libertine" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+            </OnPlatform>
+
+            <Style TargetType="Label">
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
+            </Style>
+
             <Style TargetType="Label"  x:Key="section">
                 <Setter Property="FontSize" Value="Large" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
@@ -78,21 +98,10 @@
             <Style TargetType="Label" x:Key="subsubsection">
                 <Setter Property="FontSize" Value="Small" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 
-            <Style TargetType="ContentPage">
-                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
-            </Style>
 
-            <OnPlatform x:Key="LibertineR" x:TypeArguments="x:String">
-                <On Platform="iOS" Value="Lobster-Regular" />
-                <On Platform="Android" Value="LinLibertine_R.ttf#Linux Libertine" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
-            </OnPlatform>
-            <Style TargetType="Label">
-                <Setter Property="FontFamily" Value="{DynamicResource LibertineR}" />
-            </Style>
-            
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource Primary}" />
                 <Setter Property="BarTextColor" Value="White" />
