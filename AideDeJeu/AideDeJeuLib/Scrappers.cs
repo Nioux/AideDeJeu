@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace AideDeJeuLib
@@ -40,6 +41,83 @@ namespace AideDeJeuLib
             return pack.DocumentNode.SelectNodes("//input[@name='select_sorts[]']").Select(node => node.GetAttributeValue("value", ""));
         }
 
+        public async Task<IEnumerable<Spell>> GetSpells(string classe = "", int niveauMin = 0, int niveauMax = 9, string ecole = "", string rituel = "", string source = "srd")
+        {
+            string html = null;
+            using (var client = GetHttpClient())
+            {
+                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
+                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
+                // https://www.aidedd.org/regles/sorts/
+
+                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min=1{1}&max=1{2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source));
+            }
+            var pack = new HtmlDocument();
+            pack.LoadHtml(html);
+            var tdssort = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
+            var spells = new List<Spell>();
+            foreach (var tdsort in tdssort)
+            {
+                var thssort = tdsort.Elements("td").ToArray();
+                if (thssort.Length > 0)
+                {
+                    Spell spell = new Spell();
+                    spell.Title = thssort[0].InnerText;
+                    var href = thssort[0].Element("a").GetAttributeValue("href", "");
+                    var regex = new Regex("vf=(?<id>.*)");
+                    spell.Id = regex.Match(href).Groups["id"].Value;
+                    spell.Level = thssort[1].InnerText;
+                    spell.Type = thssort[2].InnerText;
+                    spell.CastingTime = thssort[3].InnerText;
+                    spell.Concentration = thssort[4].InnerText;
+                    spell.Rituel = thssort[5].InnerText;
+                    spells.Add(spell);
+                }
+            }
+            return spells;
+        }
+
+        public async Task<Spell> GetSpell(string id)
+        {
+            string html = null;
+            using (var client = GetHttpClient())
+            {
+                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
+                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
+                // https://www.aidedd.org/regles/sorts/
+
+                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vf={0}", id));
+            }
+            var pack = new HtmlDocument();
+            pack.LoadHtml(html);
+            var newSpells = new List<Spell>();
+            var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
+            var newSpell = HtmlDivToSpell(divSpell);
+
+            return newSpell;
+        }
+
+        public Spell HtmlDivToSpell(HtmlNode divSpell)
+        {
+            var newSpell = new Spell();
+            newSpell.Title = divSpell.SelectSingleNode("h1").InnerText;
+            newSpell.TitleUS = divSpell.SelectSingleNode("div[@class='trad']").InnerText;
+            newSpell.LevelType = divSpell.SelectSingleNode("h2/em").InnerText;
+            newSpell.Level = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
+            newSpell.Type = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];
+            newSpell.CastingTime = divSpell.SelectSingleNode("div[@class='paragraphe']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+            newSpell.Range = divSpell.SelectSingleNode("div[strong/text()='Portée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+            newSpell.Components = divSpell.SelectSingleNode("div[strong/text()='Composantes']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+            newSpell.Duration = divSpell.SelectSingleNode("div[strong/text()='Durée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+            newSpell.DescriptionDiv = divSpell.SelectSingleNode("div[contains(@class,'description')]");
+            newSpell.Overflow = divSpell.SelectSingleNode("div[@class='overflow']")?.InnerText;
+            newSpell.NoOverflow = divSpell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
+            newSpell.Source = divSpell.SelectSingleNode("div[@class='source']").InnerText;
+
+            return newSpell;
+        }
+
+
         public async Task<IEnumerable<Spell>> GetSpells(IEnumerable<string> spellIds)
         {
             string html = null;
@@ -57,7 +135,6 @@ namespace AideDeJeuLib
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var newSpells = new List<Spell>();
-            var cardDatas = new List<CardData>();
             var spells = pack.DocumentNode.SelectNodes("//div[contains(@class,'blocCarte')]").ToList();
             foreach (var spell in spells)
             {

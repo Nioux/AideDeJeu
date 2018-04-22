@@ -26,7 +26,9 @@ namespace AideDeJeu.Views
             if (item == null)
                 return;
 
-            await Navigation.PushAsync(new SpellDetailPage(new SpellDetailViewModel(item)));
+            var spellvm = new SpellDetailViewModel(item);
+            spellvm.LoadItemCommand.Execute(null);
+            await Navigation.PushAsync(new SpellDetailPage(spellvm));
 
             // Manually deselect item.
             ItemsListView.SelectedItem = null;
@@ -34,7 +36,7 @@ namespace AideDeJeu.Views
 
         async void AddItem_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
+            //await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
         }
 
         protected override void OnAppearing()
