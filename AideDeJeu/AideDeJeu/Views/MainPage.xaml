@@ -104,9 +104,9 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Padding="10">
-                                    <Label Text="{Binding Text}" 
+                                    <Label Text="{Binding Title}" 
                        LineBreakMode="NoWrap" 
-                       Style="{DynamicResource ListItemTextStyle}" 
+                       Style="{DynamicResource subsubsection}" 
                        FontSize="16" />
                                     <!--<Label Text="{Binding Description}" 
                        LineBreakMode="NoWrap"

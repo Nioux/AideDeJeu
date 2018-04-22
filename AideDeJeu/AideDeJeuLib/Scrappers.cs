@@ -72,8 +72,8 @@ namespace AideDeJeuLib
                 newSpell.Components = spell.SelectSingleNode("div[strong/text()='Composantes']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
                 newSpell.Duration = spell.SelectSingleNode("div[strong/text()='Durée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
                 newSpell.DescriptionDiv = spell.SelectSingleNode("div[contains(@class,'description')]");
-                newSpell.Description = newSpell.DescriptionDiv.InnerHtml;
-                newSpell.DescriptionText = newSpell.DescriptionDiv.InnerText;
+                //newSpell.DescriptionHtml = newSpell.DescriptionDiv.InnerHtml;
+                //newSpell.Description = newSpell.DescriptionDiv.InnerText;
                 newSpell.Overflow = spell.SelectSingleNode("div[@class='overflow']")?.InnerText;
                 newSpell.NoOverflow = spell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
                 newSpell.Source = spell.SelectSingleNode("div[@class='source']").InnerText;
@@ -143,7 +143,7 @@ namespace AideDeJeuLib
                 newSpell.Components = spell.SelectSingleNode("div[strong/text()='Composantes']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
                 newSpell.Duration = spell.SelectSingleNode("div[strong/text()='Durée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
                 newSpell.DescriptionDiv = spell.SelectSingleNode("div[contains(@class,'description')]");
-                newSpell.Description = newSpell.DescriptionDiv.InnerHtml;
+                //newSpell.Description = newSpell.DescriptionDiv.InnerHtml;
                 newSpell.Overflow = spell.SelectSingleNode("div[@class='overflow']")?.InnerText;
                 newSpell.NoOverflow = spell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
                 newSpell.Source = spell.SelectSingleNode("div[@class='source']").InnerText;

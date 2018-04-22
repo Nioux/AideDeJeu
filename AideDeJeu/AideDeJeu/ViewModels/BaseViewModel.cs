@@ -7,12 +7,14 @@ using Xamarin.Forms;
 
 using AideDeJeu.Models;
 using AideDeJeu.Services;
+using AideDeJeuLib;
 
 namespace AideDeJeu.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>() ?? new MockDataStore();
+        public IDataStore<Spell> SpellDataStore => DependencyService.Get<IDataStore<Spell>>() ?? new SpellDataStore();
 
         bool isBusy = false;
         public bool IsBusy

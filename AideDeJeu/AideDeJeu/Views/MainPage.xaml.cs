@@ -1,5 +1,6 @@
 ﻿using AideDeJeu.Models;
 using AideDeJeu.ViewModels;
+using AideDeJeuLib;
 using System;
 
 using Xamarin.Forms;
@@ -10,22 +11,22 @@ namespace AideDeJeu.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MainPage : MasterDetailPage //TabbedPage
     {
-        ItemsViewModel viewModel;
+        SpellsViewModel viewModel;
 
         public MainPage ()
 		{
 			InitializeComponent ();
 
-            BindingContext = viewModel = new ItemsViewModel();
+            BindingContext = viewModel = new SpellsViewModel();
         }
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
         {
-            var item = args.SelectedItem as Item;
+            var item = args.SelectedItem as Spell;
             if (item == null)
                 return;
 
-            await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
+            await Navigation.PushAsync(new SpellDetailPage(new SpellDetailViewModel(item)));
 
             // Manually deselect item.
             ItemsListView.SelectedItem = null;

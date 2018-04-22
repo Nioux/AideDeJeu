@@ -7,6 +7,7 @@ namespace AideDeJeuLib
 {
     public class Spell
     {
+        public string Id { get; set; }
         public string Title { get; set; }
         public string TitleUS { get; set; }
         public string LevelType { get; set; }
@@ -16,8 +17,8 @@ namespace AideDeJeuLib
         public string Range { get; set; }
         public string Components { get; set; }
         public string Duration { get; set; }
-        public string Description { get; set; }
-        public string DescriptionText { get; set; }
+        public string DescriptionHtml { get { return DescriptionDiv.InnerHtml; } }
+        public string Description { get { return DescriptionDiv.InnerHtml.Replace("<br>", "\r\n").Replace("<strong>","").Replace("</strong>", "").Replace("<em>", "").Replace("</em>", ""); } }
         public HtmlNode DescriptionDiv { get; set; }
         public string Overflow { get; set; }
         public string NoOverflow { get; set; }

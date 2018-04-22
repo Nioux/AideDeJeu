@@ -23,6 +23,8 @@
             <Color x:Key="titlered">#58180D</Color>	<!--% titles-->
             <Color x:Key="titlegold">#C9AD6A</Color> <!--% titlerules-->
             <Color x:Key="rulered">#9C2B1B</Color>		<!--% triangular rule in statsblock-->
+            <Color x:Key="contentblack">#000000</Color> <!--% ajout -->
+
 
             <!--% Trim (affects tables and paperboxes)-->
             <Color x:Key="PhbLightGreen">#E0E5C1</Color> <!--% PHB Part 1-->
@@ -68,17 +70,35 @@
             <Style TargetType="ContentPage">
                 <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
             </Style>
+            <Style TargetType="StackLayout">
+                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+            </Style>
+            <Style TargetType="ScrollView">
+                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+            </Style>
 
             <OnPlatform x:Key="LinuxLibertineCapitals" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
                 <On Platform="Android" Value="LinLibertine_aS.ttf#Linux Libertine Capitals" />
-                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_aS.ttf#Linux Libertine Capitals" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
             </OnPlatform>
 
             <OnPlatform x:Key="LinuxLibertine" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine" />
                 <On Platform="Android" Value="LinLibertine_R.ttf#Linux Libertine" />
                 <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+            </OnPlatform>
+
+            <OnPlatform x:Key="LinuxLibertineBold" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine" />
+                <On Platform="Android" Value="LinLibertine_RB.ttf#Linux Libertine" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_RB.ttf#Linux Libertine" />
+            </OnPlatform>
+
+            <OnPlatform x:Key="LinuxLibertineItal" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine" />
+                <On Platform="Android" Value="LinLibertine_RI.ttf#Linux Libertine" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_RI.ttf#Linux Libertine" />
             </OnPlatform>
 
             <Style TargetType="Label">
@@ -88,23 +108,43 @@
             <Style TargetType="Label"  x:Key="section">
                 <Setter Property="FontSize" Value="Large" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 
             <Style TargetType="Label" x:Key="subsection">
-                <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
-            </Style>
-
-            <Style TargetType="Label" x:Key="subsubsection">
-                <Setter Property="FontSize" Value="Small" />
+                <Setter Property="FontSize" Value="Large" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 
+            <Style TargetType="Label" x:Key="subsubsection">
+                <Setter Property="FontSize" Value="Large" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
+            </Style>
+
+            <Style TargetType="Label" x:Key="content">
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
+            </Style>
+
+            <Style TargetType="Label" x:Key="contentbold">
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBold}" />
+            </Style>
+
+            <Style TargetType="Label" x:Key="contentital">
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineItal}" />
+            </Style>
 
             <Style TargetType="NavigationPage">
-                <Setter Property="BarBackgroundColor" Value="{StaticResource Primary}" />
-                <Setter Property="BarTextColor" Value="White" />
+                <Setter Property="BarBackgroundColor" Value="{StaticResource titlered}" />
+                <Setter Property="BarTextColor" Value="{StaticResource bgtan}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
             </Style>
         </ResourceDictionary>
     </Application.Resources>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AideDeJeu.Views.SpellDetailPage"
+             Title="{Binding Title}">
+    <ScrollView>
+        <StackLayout Orientation="Vertical" Padding="15">
+            <Label Text="{Binding Item.Title}" Style="{StaticResource Key=subsubsection}" />
+
+            <Label Text=" " />
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="{Binding Item.Type}" Style="{StaticResource Key=contentital}" />
+                <Label Text="{Binding Item.Level, StringFormat='de niveau {0}'}" Style="{StaticResource Key=contentital}" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Durée d'incantation :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="{Binding Item.CastingTime}" Style="{StaticResource Key=content}" />
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Portée :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="{Binding Item.Range}" Style="{StaticResource Key=content}" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Composantes :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="{Binding Item.Components}" Style="{StaticResource Key=content}" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Durée :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="{Binding Item.Duration}" Style="{StaticResource Key=content}" />
+            </StackLayout>
+
+            <Label Text=" " />
+
+            <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
+
+            <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
