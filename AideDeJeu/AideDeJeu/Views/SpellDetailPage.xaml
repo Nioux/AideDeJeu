@@ -15,29 +15,29 @@
             </StackLayout>
 
             <StackLayout Orientation="Horizontal">
-                <Label Text="Durée d'incantation :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="Durée d'incantation :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.CastingTime}" Style="{StaticResource Key=content}" />
             </StackLayout>
 
 
             <StackLayout Orientation="Horizontal">
-                <Label Text="Portée :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="Portée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.Range}" Style="{StaticResource Key=content}" />
             </StackLayout>
 
             <StackLayout Orientation="Horizontal">
-                <Label Text="Composantes :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="Composantes :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.Components}" Style="{StaticResource Key=content}" />
             </StackLayout>
 
             <StackLayout Orientation="Horizontal">
-                <Label Text="Durée :" Style="{StaticResource Key=contentbold}" />
+                <Label Text="Durée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.Duration}" Style="{StaticResource Key=content}" />
             </StackLayout>
 
             <Label Text=" " />
 
-            <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />
 
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
         </StackLayout>

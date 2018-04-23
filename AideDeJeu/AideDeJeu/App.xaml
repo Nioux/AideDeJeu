@@ -101,6 +101,12 @@
                 <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_RI.ttf#Linux Libertine" />
             </OnPlatform>
 
+            <OnPlatform x:Key="LinuxLibertineBoldItal" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine" />
+                <On Platform="Android" Value="LinLibertine_RBI.ttf#Linux Libertine" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_RBI.ttf#Linux Libertine" />
+            </OnPlatform>
+
             <Style TargetType="Label">
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
@@ -139,6 +145,12 @@
                 <Setter Property="FontSize" Value="Medium" />
                 <Setter Property="TextColor" Value="{StaticResource contentblack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineItal}" />
+            </Style>
+
+            <Style TargetType="Label" x:Key="contentboldital">
+                <Setter Property="FontSize" Value="Medium" />
+                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBoldItal}" />
             </Style>
 
             <Style TargetType="NavigationPage">

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace AideDeJeuLib
 {
@@ -20,7 +21,26 @@ namespace AideDeJeuLib
         public string Components { get; set; }
         public string Duration { get; set; }
         public string DescriptionHtml { get { return DescriptionDiv?.InnerHtml; } }
-        public string Description { get { return DescriptionDiv?.InnerHtml?.Replace("<br>", "\r\n")?.Replace("<strong>","")?.Replace("</strong>", "")?.Replace("<em>", "")?.Replace("</em>", ""); } }
+        public string Description
+        {
+            get
+            {
+                string html = DescriptionDiv?.InnerText?.Replace("\n", "\r\n\r\n");
+                //string html = DescriptionDiv?.InnerHtml;
+                //html = html?.Replace("<br>", "\r\n");
+                //html = html?.Replace("<strong>", "");
+                //html = html?.Replace("</strong>", "");
+                //html = html?.Replace("<em>", "");
+                //html = html?.Replace("</em>", "");
+                //if (html != null)
+                //{
+                //    var regex = new Regex("<a href=.*?>");
+                //    html = regex.Replace(html, "");
+                //}
+                //html = html?.Replace("</a>", "");
+                return html;
+            }
+        }
         public HtmlNode DescriptionDiv { get; set; }
         public string Overflow { get; set; }
         public string NoOverflow { get; set; }
