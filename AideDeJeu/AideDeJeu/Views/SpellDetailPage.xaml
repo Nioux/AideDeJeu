@@ -9,31 +9,36 @@
 
             <Label Text=" " />
 
-            <StackLayout Orientation="Horizontal">
+            <Label FormattedText="{Binding TypeLevel}" />
+            <!--<StackLayout Orientation="Horizontal">
                 <Label Text="{Binding Item.Type}" Style="{StaticResource Key=contentital}" />
                 <Label Text="{Binding Item.Level, StringFormat='de niveau {0}'}" Style="{StaticResource Key=contentital}" />
-            </StackLayout>
+            </StackLayout>-->
 
-            <StackLayout Orientation="Horizontal">
+            <Label FormattedText="{Binding CastingTime}" />
+            <!--<StackLayout Orientation="Horizontal">
                 <Label Text="Durée d'incantation :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.CastingTime}" Style="{StaticResource Key=content}" />
-            </StackLayout>
+            </StackLayout>-->
 
 
-            <StackLayout Orientation="Horizontal">
+            <Label FormattedText="{Binding Range}" />
+            <!--<StackLayout Orientation="Horizontal">
                 <Label Text="Portée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.Range}" Style="{StaticResource Key=content}" />
-            </StackLayout>
+            </StackLayout>-->
 
-            <StackLayout Orientation="Horizontal">
+            <Label FormattedText="{Binding Components}" />
+            <!--<StackLayout Orientation="Horizontal">
                 <Label Text="Composantes :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.Components}" Style="{StaticResource Key=content}" />
-            </StackLayout>
+            </StackLayout>-->
 
-            <StackLayout Orientation="Horizontal">
+            <Label FormattedText="{Binding Duration}" />
+            <!--<StackLayout Orientation="Horizontal">
                 <Label Text="Durée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
                 <Label Text="{Binding Item.Duration}" Style="{StaticResource Key=content}" />
-            </StackLayout>
+            </StackLayout>-->
 
             <Label Text=" " />
 
