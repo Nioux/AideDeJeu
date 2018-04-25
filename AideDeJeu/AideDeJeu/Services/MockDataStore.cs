@@ -69,7 +69,7 @@ namespace AideDeJeu.Services
             items = spells.Select(spell => new Item() { Text = spell.Title, Description = spell.DescriptionText }).ToList();
             return await Task.FromResult(items);
         }
-        public async Task<IEnumerable<Item>> GetItemsAsync(string classe, int minLevel, int maxLevel)
+        public async Task<IEnumerable<Item>> GetItemsAsync(string classe, int minLevel, int maxLevel, string ecole, string rituel, string source)
         {
             return await GetItemsAsync();
         }

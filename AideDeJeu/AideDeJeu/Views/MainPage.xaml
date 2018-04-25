@@ -8,7 +8,7 @@
                 >
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Vertical" Padding="15">
                 <!--<StackLayout Orientation="Horizontal">
                     <Button Clicked="OnPlay" Image="ic_play.png" />
                     <Button Clicked="OnStop" Image="ic_stop.png" />
@@ -26,50 +26,24 @@
                         <x:String>Sorts</x:String>
                     </Picker.Items>
                 </Picker>-->
-                <Label Text="Classe" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Value}" SelectedItem="{Binding Key}"  SelectedIndex="{Binding Classe}">
-                    <!--<Picker.Items>
-                        <x:String> </x:String>
-                        <x:String>Barde</x:String>
-                        <x:String>Clerc</x:String>
-                        <x:String>Druide</x:String>
-                        <x:String>Ensorceleur</x:String>
-                        <x:String>Magicien</x:String>
-                        <x:String>Paladin</x:String>
-                        <x:String>Rôdeur</x:String>
-                        <x:String>Sorcier</x:String>
-                    </Picker.Items>-->
-                </Picker>
-                <Label Text="Niveau min" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedItem="{Binding Key}"  SelectedIndex="{Binding NiveauMin}">
-                    <!--<Picker.Items>
-                        <x:String>Sorts mineurs</x:String>
-                        <x:String>1</x:String>
-                        <x:String>2</x:String>
-                        <x:String>3</x:String>
-                        <x:String>4</x:String>
-                        <x:String>5</x:String>
-                        <x:String>6</x:String>
-                        <x:String>7</x:String>
-                        <x:String>8</x:String>
-                        <x:String>9</x:String>
-                    </Picker.Items>-->
-                </Picker>
-                <Label Text="Niveau max" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedItem="{Binding Key}"  SelectedIndex="{Binding NiveauMax}">
-                    <!--<Picker.Items>
-                        <x:String>Sorts mineurs</x:String>
-                        <x:String>1</x:String>
-                        <x:String>2</x:String>
-                        <x:String>3</x:String>
-                        <x:String>4</x:String>
-                        <x:String>5</x:String>
-                        <x:String>6</x:String>
-                        <x:String>7</x:String>
-                        <x:String>8</x:String>
-                        <x:String>9</x:String>
-                    </Picker.Items>-->
-                </Picker>
+
+                <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Classe}" />
+
+                <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding NiveauMin}" />
+
+                <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding NiveauMax}" />
+
+                <Label Text="École" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Ecole}" />
+
+                <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Rituel}" />
+
+                <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Source}" />
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>

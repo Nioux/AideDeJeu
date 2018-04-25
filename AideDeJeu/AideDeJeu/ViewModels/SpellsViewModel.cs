@@ -19,15 +19,15 @@ namespace AideDeJeu.ViewModels
 
         public List<KeyValuePair<string, string>> Classes { get; set; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("b", "Barde"),
-            new KeyValuePair<string, string>("c", "Clerc"),
-            new KeyValuePair<string, string>("d", "Druide"),
-            new KeyValuePair<string, string>("s", "Ensorceleur"),
-            new KeyValuePair<string, string>("w", "Magicien"),
-            new KeyValuePair<string, string>("p", "Paladin"),
-            new KeyValuePair<string, string>("r", "Rôdeur"),
-            new KeyValuePair<string, string>("k", "Sorcier"),
+            new KeyValuePair<string, string>("", "Toutes" ),
+            new KeyValuePair<string, string>("b", "Barde" ),
+            new KeyValuePair<string, string>("c", "Clerc" ),
+            new KeyValuePair<string, string>("d", "Druide" ),
+            new KeyValuePair<string, string>("s", "Ensorceleur" ),
+            new KeyValuePair<string, string>("w", "Magicien" ),
+            new KeyValuePair<string, string>("p", "Paladin" ),
+            new KeyValuePair<string, string>("r", "Rôdeur" ),
+            new KeyValuePair<string, string>("k", "Sorcier" ),
         };
 
         public List<KeyValuePair<int, string>> Niveaux { get; set; } = new List<KeyValuePair<int, string>>()
@@ -42,6 +42,33 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<int, string>(7, "Niveau 7"),
             new KeyValuePair<int, string>(8, "Niveau 8"),
             new KeyValuePair<int, string>(9, "Niveau 9"),
+        };
+
+        public List<KeyValuePair<string, string>> Ecoles { get; set; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Toutes"),
+            new KeyValuePair<string, string>("abjuration", "Abjuration"),
+            new KeyValuePair<string, string>("divination", "Divination"),
+            new KeyValuePair<string, string>("enchantement", "Enchantement"),
+            new KeyValuePair<string, string>("evocation", "Évocation"),
+            new KeyValuePair<string, string>("illusion", "Illusion"),
+            new KeyValuePair<string, string>("invocation", "Invocation"),
+            new KeyValuePair<string, string>("necromancie", "Nécromancie"),
+            new KeyValuePair<string, string>("transmutation", "Transmutation"),
+        };
+
+        public List<KeyValuePair<string, string>> Rituels { get; set; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Tous"),
+            new KeyValuePair<string, string>("1", "Rituel"),
+        };
+
+        public List<KeyValuePair<string, string>> Sources { get; set; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Toutes"),
+            new KeyValuePair<string, string>("srd", "SRD"),
+            new KeyValuePair<string, string>("ph", "PHB"),
+            new KeyValuePair<string, string>("sup", "SCAG, XGtE"),
         };
 
         private int _Classe = 0;
@@ -91,12 +118,52 @@ namespace AideDeJeu.ViewModels
                 LoadItemsCommand.Execute(null);
             }
         }
+        private int _Ecole = 0;
+        public int Ecole
+        {
+            get
+            {
+                return _Ecole;
+            }
+            set
+            {
+                SetProperty(ref _Ecole, value);
+                LoadItemsCommand.Execute(null);
+            }
+        }
+        private int _Rituel = 0;
+        public int Rituel
+        {
+            get
+            {
+                return _Rituel;
+            }
+            set
+            {
+                SetProperty(ref _Rituel, value);
+                LoadItemsCommand.Execute(null);
+            }
+        }
+        private int _Source = 0;
+        public int Source
+        {
+            get
+            {
+                return _Source;
+            }
+            set
+            {
+                SetProperty(ref _Source, value);
+                LoadItemsCommand.Execute(null);
+            }
+        }
+
 
         public Command LoadItemsCommand { get; set; }
 
         public SpellsViewModel()
         {
-            Title = "Browse";
+            //Title = "Browse";
             Items = new ObservableCollection<Spell>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 
@@ -126,9 +193,8 @@ namespace AideDeJeu.ViewModels
                 //<option value="r">Rôdeur</option>
                 //<option value="k">Sorcier</option>
 
-                string[] classes = new string[] { "", "b", "c", "d", "s", "w", "p", "r", "k"  };
                 Items.Clear();
-                var items = await SpellDataStore.GetItemsAsync(classe: classes[Classe], niveauMin: NiveauMin, niveauMax: NiveauMax);
+                var items = await SpellDataStore.GetItemsAsync(classe: Classes[Classe].Key, niveauMin: NiveauMin, niveauMax: NiveauMax, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
                 foreach (var item in items)
                 {
                     Items.Add(item);

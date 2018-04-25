@@ -66,10 +66,10 @@ namespace AideDeJeu.Services
             return await Task.FromResult(items);
         }
 
-        public async Task<IEnumerable<Spell>> GetItemsAsync(string classe, int niveauMin, int niveauMax)
+        public async Task<IEnumerable<Spell>> GetItemsAsync(string classe, int niveauMin, int niveauMax, string ecole, string rituel, string source)
         {
             var scrapper = new Scrappers();
-            items = (await scrapper.GetSpells(classe, niveauMin, niveauMax)).ToList();
+            items = (await scrapper.GetSpells(classe: classe, niveauMin: niveauMin, niveauMax: niveauMax, ecole: ecole, rituel: rituel, source: source)).ToList();
 
             return await Task.FromResult(items);
         }
