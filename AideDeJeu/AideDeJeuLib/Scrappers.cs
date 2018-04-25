@@ -1,4 +1,5 @@
-﻿using HtmlAgilityPack;
+﻿using Akavache;
+using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -9,6 +10,7 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Reactive.Linq;
 
 namespace AideDeJeuLib
 {
@@ -77,7 +79,7 @@ namespace AideDeJeuLib
             return spells;
         }
 
-        public async Task<Spell> GetSpell(string id)
+        public async Task<Spell> GetSpellFromSource(string id)
         {
             string html = null;
             using (var client = GetHttpClient())
@@ -93,8 +95,15 @@ namespace AideDeJeuLib
             var newSpells = new List<Spell>();
             var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
             var newSpell = HtmlDivToSpell(divSpell);
-
             return newSpell;
+        }
+
+        public async Task<Spell> GetSpell(string id)
+        {
+            BlobCache.ApplicationName = "AkavacheExperiment";
+            //await BlobCache.UserAccount.InsertObject(id, newSpell);
+            var truc = await BlobCache.UserAccount.GetOrFetchObject<Spell>(id, () => GetSpellFromSource(id));
+            return truc;
         }
 
         public Spell HtmlDivToSpell(HtmlNode divSpell)

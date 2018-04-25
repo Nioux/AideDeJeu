@@ -1,6 +1,7 @@
 ﻿using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -20,8 +21,20 @@ namespace AideDeJeuLib
         public string Range { get; set; }
         public string Components { get; set; }
         public string Duration { get; set; }
-        public string DescriptionHtml { get { return DescriptionDiv?.InnerHtml; } }
-        public string Description
+        public string DescriptionHtml
+        {
+            get
+            {
+                return DescriptionDiv?.InnerHtml;
+            }
+            set
+            {
+                HtmlDocument doc = new HtmlDocument();
+                doc.LoadHtml(value);
+                DescriptionDiv = doc.DocumentNode;
+            }
+        }
+        public string DescriptionText
         {
             get
             {
@@ -41,6 +54,7 @@ namespace AideDeJeuLib
                 return html;
             }
         }
+        [IgnoreDataMember]
         public HtmlNode DescriptionDiv { get; set; }
         public string Overflow { get; set; }
         public string NoOverflow { get; set; }

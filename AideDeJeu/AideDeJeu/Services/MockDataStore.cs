@@ -65,7 +65,7 @@ namespace AideDeJeu.Services
         {
             var scrapper = new Scrappers();
             var spells = await scrapper.GetSpells(await scrapper.GetSpellIds("c"));
-            items = spells.Select(spell => new Item() { Text = spell.Title, Description = spell.Description }).ToList();
+            items = spells.Select(spell => new Item() { Text = spell.Title, Description = spell.DescriptionText }).ToList();
             return await Task.FromResult(items);
         }
     }

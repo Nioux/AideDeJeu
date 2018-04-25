@@ -12,7 +12,6 @@ namespace AideDeJeu
 		{
 			InitializeComponent();
 
-
             MainPage = new NavigationPage(new MainPage());
         }
 
