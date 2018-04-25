@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using System.Reactive.Linq;
 
 namespace AideDeJeu.ViewModels
 {
@@ -122,6 +123,7 @@ namespace AideDeJeu.ViewModels
             {
                 //Items.Clear();
                 var item = await new Scrappers().GetSpell(Item.Id);
+                await Akavache.BlobCache.UserAccount.Flush();
                 Item = item;
                 //foreach (var item in items)
                 //{

@@ -28,30 +28,30 @@
                 </Picker>-->
 
                 <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Classe}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Classe}" />
 
                 <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding NiveauMin}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMin}" />
 
                 <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding NiveauMax}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMax}" />
 
                 <Label Text="École" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Ecole}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Ecole}" />
 
                 <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Rituel}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Rituel}" />
 
                 <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources}" ItemDisplayBinding="{Binding Value}" SelectedIndex="{Binding Source}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
         <ContentPage>
             <ContentPage.ToolbarItems>
-                <ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
-                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
+                <!--<ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
+                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />-->
                 <!--<ToolbarItem Name="Blog" Text="Blog" Order="Primary" Icon="ic_blog.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Blog/" />
                 <ToolbarItem Name="Wikis" Text="Wikis" Order="Primary" Icon="ic_wikis.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/" />
                 <ToolbarItem Name="Forum" Text="Forum" Order="Primary" Icon="ic_forum.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Forum/" />
