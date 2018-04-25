@@ -35,20 +35,27 @@
 % Your content goes here
 
 % Comment this out if you're using the article class.
-\chapter{Erratas du Player's Handbook v1.01}
+\chapter{Erratas du Player's Handbook v1.02}
 
+\nopagebreak
 \subsection{Page 20 - Droite}
 \textit{\textbf{Variante raciale.}} ... Choisissez l'une de ces \st{variantesraciales} \underline{variantes raciales} ...
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 21 - Gauche}
 \textit{\textbf{Pied léger.}} Votre vitesse de base passe à \underline{10,5} mètres.
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 21 - Droite}
 \subsubsection{Elfe noir (drow)}
 \textbf{Augmentation de caractéristiques.}
 \newline
 \textit{(doit être en gras)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 41 - Droite}
 \header{Ascendance draconique}
 \begin{dndtable}[>{\hsize=0.5\hsize}X >{\hsize=1\hsize}X >{\hsize=1.5\hsize}X]
@@ -57,7 +64,9 @@
    	...  & ... & ... \\
    	Vert & Poison & Cône de \underline{4,5 m} (jet de sauvegarde de Con.)	 
 \end{dndtable}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 47 - Gauche}
 \header{Le barbare}
 \begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=0.75\hsize}Y >{\hsize=2\hsize}X >{\hsize=0.75\hsize}Y >{\hsize=0.75\hsize}Y]
@@ -66,15 +75,21 @@
     3 & +2 & \underline{Voie} primitive & 3 & +2 \\
    	... & ... & ... & ... & ...
 \end{dndtable}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 47 - Droite}
 \subsubsection{La création rapide}
 (en plus petit non souligné)
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 52 - Droite}
 \subsubsection{Maîtrises}
 \textbf{Armes :} armes courantes, arbalète de poing, \underline{épée longue}, rapière, épée courte
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 59 - Droite}
 \header{Sorts du domaine de la guerre}
 \begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=1.25\hsize}X]
@@ -82,11 +97,15 @@
     1 & bouclier de \underline{la} foi, faveur divine \\
    	... & ... 
 \end{dndtable}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 60 - Droite}
 \subsubsection{Canalisation d'énergie divine : aube radieuse}
 Si une créature rate son jet de sauvegarde, elle subit des dégâts radiants égaux \st{l} à 2d10 + votre niveau de clerc, la moitié seulement si elle réussit. Une créature qui bénéficie d'un \underline{abri} total vis-à-vis de vous n'est pas affectée.	
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 62 - Gauche}
 \header{Sorts du domaine du savoir}
 \begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=1.25\hsize}X]
@@ -94,11 +113,15 @@ Si une créature rate son jet de sauvegarde, elle subit des dégâts radiants é
     1 & identification, \underline{injonction} \\
    	... & ... 
 \end{dndtable}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 63 - Gauche}
 \subsubsection{Canalisation d'énergie divine : fureur destructrice}
 Quand vous lancez \underline{les dés} pour infliger des dégâts de foudre ou de tonnerre, vous pouvez utiliser la canalisation d'énergie divine pour infliger les dégâts maximaux au lieu de lancer \underline{les dés}.
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 66 - Droite}
 \header{Formes sauvages}
 \begin{dndtable}[>{\hsize=0.5\hsize}Y >{\hsize=0.5\hsize}Y >{\hsize=2\hsize}X >{\hsize=1\hsize}X]
@@ -106,49 +129,62 @@ Quand vous lancez \underline{les dés} pour infliger des dégâts de foudre ou d
    	... & ... & ... & ...\\ 
     8 & \underline{1} & - & Aigle géant
 \end{dndtable}
+\pagebreak[0]
 
-
+\nopagebreak
 \subsection{Page 69 - Droite}
 \begin{paperbox}{Les druides et les dieux}
 ... Dans les \textit{Royaumes Oubliés} par exemple, un cercle regroupe généralement des druides dévoués à Sylvanus, \underline{Mailikki}, Eldath, Chauntéa et même aux sévères dieux de la fureur comme Talos, Malar, Aurile et Umberlie. ...
 \end{paperbox}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 74 - Droite}
 \subsubsection{Pic de magie sauvage}
 Un pic de magie sauvage ne peut se produire qu'une seule fois par tour.
 
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 78 - Gauche}
 \subsection{Second souffle}
 \subsection{Sursaut d'activité}
 (en plus grand et souligné)
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 80 - Droite}
 \textit{\textbf{Dés de supériorité.}} Vous récupérez tous les dés dépensés lorsque vous terminez \underline{un court repos ou} un long repos.
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 81 - Droite}
 \textit{\textbf{Feinte.}} L'avantage est perdu si vous ne l'utilisez pas durant le tour où vous l'avez obtenu.
 \textit{(errata officiel du PH 1.22)}
 \newline
 \textit{\textbf{Fente.}} 
 \st{Quand vous touchez une creature avec une attaque armee} Lorsque vous effectuez un jet d'attaque avec une arme de mêlée durant votre tour
+\pagebreak[0]
 
-\newpage
-
+\nopagebreak
 \subsection{Page 84 - Droite}
 \subsubsection{Préparer et lancer des sorts}
 \st{Choisissez dans la liste des sorts de magicien des sorts que vous pouvez lancer afin de les preparer} Choisissez dans votre grimoire les sorts que vous allez préparer. 
 \begin{commentbox}{Avis des traducteurs}
 Pour préparer la liste de sorts de magiciens que vous pourrez lancer, choisissez dans votre grimoire un nombre de sorts égal à votre modificateur d'Intelligence + votre niveau de magicien (un sort au minimum).
 \end{commentbox}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 87 - Droite}
 \subsubsection{Evocation améliorée}
 Le bonus aux dégâts s'applique à un seul jet de dégâts du sort, pas à plusieurs jets.
 \newline
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 88 - Droite}
 \subsubsection{Invocation mineure}
 L'objet invoqué disparaît également s'il inflige des dégâts.
@@ -157,52 +193,75 @@ L'objet invoqué disparaît également s'il inflige des dégâts.
 
 \subsubsection{Nécromancien érudit}
 (sans s à Nécromancien)
+\pagebreak[0]
 
-
+\nopagebreak
 \subsection{Page 95 - Gauche}
 \textit{\textbf{Fouet aqueux.}} Vous pouvez dépenser 2 points de ki par une action \st{bonus} pour créer un fouet constitué d'eau qui tire et pousse une créature afin de la déséquilibrer.
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 101 - Droite}
 \subsubsection{Préceptes de la vengeance}
 ... Un paladin qui prête un tel serment \underline{est} prêt à tout sacrifier ...
+\pagebreak[0]
 
-\newpage
-
+\nopagebreak
 \subsection{Page 107 - Droite}
 \subsubsection{Compagnon du rôdeur}
 Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosité de 1/4 ou moins
+\pagebreak[0]
 
-
+\nopagebreak
 \subsection{Page 114 - Droite}
 \subsubsection{La création rapide}
 ... Ensuite, choisissez l'historique de charlatan, puis les tours de magie \textit{explosion occulte} et \textit{contact glacial} ainsi que les sorts de niveau 1 \st{rayon contagieux} \textit{\underline{charme-personne}} et \textit{carreau ensorcelé}.
 \newline
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 115 - Gauche}
 \subsection{Magie de pacte}
 ... Consultez le chapitre 10 pour connaître les règles générales régissant les incantations et le chapitre 11 pour obtenir la liste des sorts du \st{barde} \underline{sorcier}.
 
 \subsubsection{Emplacements de sorts}
 ... Pour lancer le sort de niveau 1 \st{vague tonnante} \underline{carreau ensorcelé}, vous devez utiliser un de ces emplacements de sort et vous le lancez comme un sort de niveau 3.
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 115 - Droite}
 \subsection{Invocations occultes}
 ... Une fois que vous atteignez certains niveaux de sorcier, vous apprenez \st{deux} \underline{de} nouvelles invocations occultes de votre choix, comme indiqué dans la colonne Invocations occultes du tableau d'évolution du sorcier.
+\pagebreak[0]
 
-\newpage
-
+\nopagebreak
 \subsection{Page 116 - Droite}
 \begin{paperbox}{Votre pacte}
 \textbf{\textit{Pacte de la chaîne.}} ... La nature du Grand Ancien étant impénétrable, la forme par défaut de votre familier ne revêt aucune \st{importante} \underline{importance}.
 \end{paperbox}
 \subsubsection{Présence féerique}
 ... dans un cube de 3 mètres d'\underline{arête} ...
+\pagebreak[0]
 
+\nopagebreak
+\subsection{Page 121 - Droite}
+\header{Taille et poids aléatoires}
+\begin{dndtable}[XY]
+   	\textbf{Race} & \textbf{Taille de base (m)} \\
+   	... & ...  \\
+    Gnome & \underline{0,90} \\
+   	... & ...  
+\end{dndtable}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 131 - Droite}
 \subsection{Criminel}
 (souligné)
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 145}
 \header{Armures}
 \begin{dndtable}[>{\hsize=2.25\hsize}X >{\hsize=0.25\hsize}X >{\hsize=0.5\hsize}X]
@@ -213,32 +272,44 @@ Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosi
     Harnois & ... & \underline{For 15} \\
    	... & ... & ... 
 \end{dndtable}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 147}
 \subsubsection{Armes improvisées}
 ... s'il utilise \underline{un} objet similaire pour attaquer.
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 151 - Droite}
 \begin{paperbox}{Paquetages d'équipement}
 \textbf{\textit{Paquetage d'ecclésiastique (19 po).}} ... 2 jours de \st{raton} \underline{rations} et une outre.
 \end{paperbox}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 152 - Droite}
 \textbf{\textit{Matériel d'escalade}}
 \newline
 apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 163 - Droite}
 \subsection{Points d'expérience}
 (souligné)
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 165 - Gauche}
 \header{Lanceurs de sorts multiclassés : emplacements de sorts par \underline{niveau de sort}}
 \begin{dndtable}[XXX]
    	\textbf{Niveau} & \textbf{...} & \textbf{9} \\
    	... & ... & ...  \\
 \end{dndtable}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 167 - Droite}
 \subsection{Explorateur de donjons}
 \begin{itemize}
@@ -246,31 +317,41 @@ apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
 \end{itemize}
 
 \textit{(Sage Advice Compendium v2.2)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 168 - Droite}
 \subsection{Maître-arbalétrier}
 \begin{itemize}
   \item Quand vous utilisez l'action attaquer et que vous attaquez avec une arme à une main, vous pouvez utiliser une action bonus pour attaquer avec une arbalète de poing \st{chargee} que vous tenez en main.
 \end{itemize}
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 170 - Gauche}
 \subsection{Sentinelle}
 \begin{itemize}
   \item Vous pouvez effectuer des attaques d'opportunité contre les créatures \st{situees a 1,50 metres ou moins de vous,} même si elles utilisent l'action se désengager avant de quitter votre zone d'allonge.
 \end{itemize}
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 174 - Gauche}
 ... lors de certains tests de caractéristiques. \st{caracteristiques.}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 177 - Gauche}
 \begin{paperbox}{Se cacher}
 ...
 \newline
 Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir \underline{clairement} et vous révélez votre cachette si vous faites du bruit, en criant un avertissement ou en renversant un vase, par exemple.
 \end{paperbox}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 182 - Droite}
 \textbf{\textit{Saut en hauteur.}} \underline{Un saut en hauteur est au minimum de 0 mètre.}
 \newline
@@ -278,19 +359,27 @@ Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir \underl
 \begin{commentbox}{Avis des traducteurs}
 "...atteindre une hauteur en mètres égale à 1 + le tiers de votre modificateur de Force (0 mètre au minimum)..."
 \end{commentbox}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 220 - Droite}
 \subsubsection{Contact glacial}
 (dans l'ordre alphabétique devrait être p 227)
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 222 - Gauche}
 \subsubsection{Chaîne d'éclairs}
 \textbf{Portée :} \underline{45 mètres}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 243 - Gauche}
 \subsubsection{Frappe ardente - assommante - aveuglante}
 Lors de la prochaine attaque armée \underline{au corps à corps} qui...
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 244 - Droite}
 \subsubsection{Glyphe de protection}
 Lorsque vous lancez ce sort, vous tracez un glyphe qui libèrera plus tard un effet magique.
@@ -298,21 +387,29 @@ Lorsque vous lancez ce sort, vous tracez un glyphe qui libèrera plus tard un ef
 \textit{(remplace la première phrase)}
 \newline
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 256 - Droite}
 \subsubsection{Mains brûlantes}
 \textbf{Portée :} \st{contact} \underline{personnelle} (cône de 4,50 mètres)
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 260 - Gauche}
 \subsubsection{Monture fantôme}
 \textbf{Durée d'incantation :} 1 \st{action} \underline{minute}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 263 - Droite}
 \subsubsection{Mur prismatique}
 \st{Un sceptre d annulation detruit un mur prismatique, mais un champ d antimagie en est incapable.} \textit{Champ d'antimagie} n'a aucun effet sur le mur et \textit{dissipation de la magie} fonctionne uniquement sur la couche violette.
 \newline
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 266 - Gauche}
 \subsubsection{Parole divine}
 \textit{Evocation de niveau 7}
@@ -333,7 +430,9 @@ Vous prononcez une parole divine, emplie de la puissance qui a façonné le mond
   \item 20 pv ou moins : tuée sur le coup
 \end{itemize}
 Indépendamment de ses points de vie actuels, un céleste, un élémentaire, une fée ou un fiélon qui échoue son jet est retourné à son plan d'origine (s'il n'y est pas déjà) et il ne peut revenir sur votre plan pendant 24 heures, peu importe le moyen, à l'exception du sort \textit{souhait}. 
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 276 - Gauche}
 \subsubsection{Résurrection suprême}
 Si la créature était un mort-vivant, elle revient sous la forme qu'elle avait avant de devenir un mort-vivant.
@@ -341,15 +440,18 @@ Si la créature était un mort-vivant, elle revient sous la forme qu'elle avait 
 \textit{(nouvelle phrase à la fin du second paragraphe)}
 \newline
 \textit{(errata officiel du PH 1.22)}
+\pagebreak[0]
 
-
+\nopagebreak
 \subsection{Page 304 - Gauche}
 \begin{monsterbox}{Aigle géant}
   \begin{hangingpar}
     \textit{Bête de taille \underline{Grande}, Neutre Bon}
   \end{hangingpar}
 \end{monsterbox}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Page 316}
 \subsubsection{Colonne 1}
 
@@ -362,7 +464,9 @@ repos, \st{86} \underline{186}
 
 \subsubsection{Colonne 5}
 vision dans le noir, \st{183, 199} \underline{185}
+\pagebreak[0]
 
+\nopagebreak
 \subsection{Crédits}
 \textbf{}
 
@@ -375,6 +479,6 @@ vision dans le noir, \st{183, 199} \underline{185}
 \textbf{Template LaTeX :} evanbergeron https://github.com/evanbergeron/DND-5e-LaTeX-Template
 
 \textbf{Formatage des erratas :} Moi ;-)
-
+\pagebreak[0]
 % End document
 \end{document}
