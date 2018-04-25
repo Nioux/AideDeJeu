@@ -8,6 +8,7 @@ using Xamarin.Forms;
 using AideDeJeu.Models;
 using AideDeJeu.Services;
 using AideDeJeuLib;
+using AideDeJeuLib.Spells;
 
 namespace AideDeJeu.ViewModels
 {

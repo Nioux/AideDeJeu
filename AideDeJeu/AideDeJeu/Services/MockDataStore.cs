@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 using AideDeJeu.Models;
 using AideDeJeuLib;
+using AideDeJeuLib.Spells;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Services.MockDataStore))]
 namespace AideDeJeu.Services
@@ -68,5 +69,10 @@ namespace AideDeJeu.Services
             items = spells.Select(spell => new Item() { Text = spell.Title, Description = spell.DescriptionText }).ToList();
             return await Task.FromResult(items);
         }
+        public async Task<IEnumerable<Item>> GetItemsAsync(string classe, int minLevel, int maxLevel)
+        {
+            return await GetItemsAsync();
+        }
+
     }
 }

@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Models;
 using AideDeJeu.ViewModels;
 using AideDeJeuLib;
+using AideDeJeuLib.Spells;
 using System;
 
 using Xamarin.Forms;

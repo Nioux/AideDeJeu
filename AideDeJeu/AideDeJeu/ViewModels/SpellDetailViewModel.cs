@@ -1,13 +1,10 @@
-﻿using System;
+﻿using AideDeJeu.Tools;
+using AideDeJeuLib.Spells;
+using System;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using AideDeJeu.Models;
-using AideDeJeuLib;
-using HtmlAgilityPack;
 using Xamarin.Forms;
-using Xamarin.Forms.Internals;
-using AideDeJeu.Tools;
 
 namespace AideDeJeu.ViewModels
 {
@@ -48,7 +45,8 @@ namespace AideDeJeu.ViewModels
             {
                 var fd = FormatedTextHelpers.FontData.FromResource("contentital");
                 var fs = new FormattedString();
-                fs.Spans.Add(new Span() { Text = string.Format("{0} de niveau {1}", Item.Type, Item.Level), FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor});
+                var capType = Item.Type.First().ToString().ToUpper() + Item.Type.Substring(1);
+                fs.Spans.Add(new Span() { Text = string.Format("{0} de niveau {1}", capType, Item.Level), FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor});
                 return fs;
             }
         }

@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Runtime.Serialization;
-using System.Text;
 
-namespace AideDeJeuLib
+namespace AideDeJeuLib.Cards
 {
-    /*public class CardDataOwner
-    {
-        public CardData[] CardDatas { get; set; }
-    }*/
     [DataContract]
     public class CardData
     {

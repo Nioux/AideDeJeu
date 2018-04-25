@@ -2,17 +2,13 @@
 using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
 using System.Linq;
 using System.Net.Http;
-using System.Runtime.Serialization;
-using System.Runtime.Serialization.Json;
+using System.Reactive.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using System.Reactive.Linq;
 
-namespace AideDeJeuLib
+namespace AideDeJeuLib.Spells
 {
     public class Scrappers
     {
@@ -25,22 +21,6 @@ namespace AideDeJeuLib
             client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
             client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
             return client;
-        }
-
-        public async Task<IEnumerable<string>> GetSpellIds(string classe, int niveauMin = 0, int niveauMax = 9)
-        {
-            string html = null;
-            using (var client = GetHttpClient())
-            {
-                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
-                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
-                // https://www.aidedd.org/regles/sorts/
-
-                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min=1{1}&max=1{2}", classe, niveauMin, niveauMax));
-            }
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
-            return pack.DocumentNode.SelectNodes("//input[@name='select_sorts[]']").Select(node => node.GetAttributeValue("value", ""));
         }
 
         public async Task<IEnumerable<Spell>> GetSpells(string classe = "", int niveauMin = 0, int niveauMax = 9, string ecole = "", string rituel = "", string source = "srd")
@@ -92,40 +72,32 @@ namespace AideDeJeuLib
             }
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
-            var newSpells = new List<Spell>();
             var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
-            var newSpell = HtmlDivToSpell(divSpell);
-            return newSpell;
+            return Spell.FromHtml(divSpell);
         }
 
         public async Task<Spell> GetSpell(string id)
         {
             BlobCache.ApplicationName = "AkavacheExperiment";
             //await BlobCache.UserAccount.InsertObject(id, newSpell);
-            var truc = await BlobCache.UserAccount.GetOrFetchObject<Spell>(id, () => GetSpellFromSource(id));
-            return truc;
+            return await BlobCache.UserAccount.GetOrFetchObject<Spell>(id, () => GetSpellFromSource(id));
         }
 
-        public Spell HtmlDivToSpell(HtmlNode divSpell)
+        public async Task<IEnumerable<string>> GetSpellIds(string classe, int niveauMin = 0, int niveauMax = 9)
         {
-            var newSpell = new Spell();
-            newSpell.Title = divSpell.SelectSingleNode("h1").InnerText;
-            newSpell.TitleUS = divSpell.SelectSingleNode("div[@class='trad']").InnerText;
-            newSpell.LevelType = divSpell.SelectSingleNode("h2/em").InnerText;
-            newSpell.Level = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
-            newSpell.Type = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];
-            newSpell.CastingTime = divSpell.SelectSingleNode("div[@class='paragraphe']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-            newSpell.Range = divSpell.SelectSingleNode("div[strong/text()='Portée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-            newSpell.Components = divSpell.SelectSingleNode("div[strong/text()='Composantes']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-            newSpell.Duration = divSpell.SelectSingleNode("div[strong/text()='Durée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-            newSpell.DescriptionDiv = divSpell.SelectSingleNode("div[contains(@class,'description')]");
-            newSpell.Overflow = divSpell.SelectSingleNode("div[@class='overflow']")?.InnerText;
-            newSpell.NoOverflow = divSpell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
-            newSpell.Source = divSpell.SelectSingleNode("div[@class='source']").InnerText;
+            string html = null;
+            using (var client = GetHttpClient())
+            {
+                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
+                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
+                // https://www.aidedd.org/regles/sorts/
 
-            return newSpell;
+                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min=1{1}&max=1{2}", classe, niveauMin, niveauMax));
+            }
+            var pack = new HtmlDocument();
+            pack.LoadHtml(html);
+            return pack.DocumentNode.SelectNodes("//input[@name='select_sorts[]']").Select(node => node.GetAttributeValue("value", ""));
         }
-
 
         public async Task<IEnumerable<Spell>> GetSpells(IEnumerable<string> spellIds)
         {
@@ -167,6 +139,7 @@ namespace AideDeJeuLib
             }
             return newSpells;
         }
+        /*
         public async Task<string> OnGetAsync(IReadOnlyDictionary<string, string> context)
         {
             var client = new HttpClient();
@@ -191,16 +164,16 @@ namespace AideDeJeuLib
             // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
             // https://www.aidedd.org/regles/sorts/
 
-            /*
-            <option value="b">Barde</option>
-            <option value="c">Clerc</option>
-            <option value="d">Druide</option>
-            <option value="s">Ensorceleur</option>
-            <option value="w">Magicien</option>
-            <option value="p">Paladin</option>
-            <option value="r">Rôdeur</option>
-            <option value="k">Sorcier</option>
-            */
+            
+            //<option value="b">Barde</option>
+            //<option value="c">Clerc</option>
+            //<option value="d">Druide</option>
+            //<option value="s">Ensorceleur</option>
+            //<option value="w">Magicien</option>
+            //<option value="p">Paladin</option>
+            //<option value="r">Rôdeur</option>
+            //<option value="k">Sorcier</option>
+            
             string c = context["c"];
             var htmlSpellBook = await client.GetStringAsync("https://www.aidedd.org/adj/livre-sorts/?c=" + c + "&min=10&max=19");
             var pack = new HtmlDocument();
@@ -273,7 +246,7 @@ namespace AideDeJeuLib
             //}
 
         }
-
+        */
 
     }
 }

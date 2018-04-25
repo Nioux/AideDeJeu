@@ -8,12 +8,90 @@ using Xamarin.Forms;
 using AideDeJeu.Models;
 using AideDeJeu.Views;
 using AideDeJeuLib;
+using AideDeJeuLib.Spells;
+using System.Collections.Generic;
 
 namespace AideDeJeu.ViewModels
 {
     public class SpellsViewModel : BaseViewModel
     {
         public ObservableCollection<Spell> Items { get; set; }
+
+        public List<KeyValuePair<string, string>> Classes { get; set; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Toutes"),
+            new KeyValuePair<string, string>("b", "Barde"),
+            new KeyValuePair<string, string>("c", "Clerc"),
+            new KeyValuePair<string, string>("d", "Druide"),
+            new KeyValuePair<string, string>("s", "Ensorceleur"),
+            new KeyValuePair<string, string>("w", "Magicien"),
+            new KeyValuePair<string, string>("p", "Paladin"),
+            new KeyValuePair<string, string>("r", "Rôdeur"),
+            new KeyValuePair<string, string>("k", "Sorcier"),
+        };
+
+        public List<KeyValuePair<int, string>> Niveaux { get; set; } = new List<KeyValuePair<int, string>>()
+        {
+            new KeyValuePair<int, string>(0, "Sorts mineurs"),
+            new KeyValuePair<int, string>(1, "Niveau 1"),
+            new KeyValuePair<int, string>(2, "Niveau 2"),
+            new KeyValuePair<int, string>(3, "Niveau 3"),
+            new KeyValuePair<int, string>(4, "Niveau 4"),
+            new KeyValuePair<int, string>(5, "Niveau 5"),
+            new KeyValuePair<int, string>(6, "Niveau 6"),
+            new KeyValuePair<int, string>(7, "Niveau 7"),
+            new KeyValuePair<int, string>(8, "Niveau 8"),
+            new KeyValuePair<int, string>(9, "Niveau 9"),
+        };
+
+        private int _Classe = 0;
+        public int Classe
+        {
+            get
+            {
+                return _Classe;
+            }
+            set
+            {
+                SetProperty(ref _Classe, value);
+                LoadItemsCommand.Execute(null);
+            }
+        }
+        private int _NiveauMin = 0;
+        public int NiveauMin
+        {
+            get
+            {
+                return _NiveauMin;
+            }
+            set
+            {
+                SetProperty(ref _NiveauMin, value);
+                if (_NiveauMax < _NiveauMin)
+                {
+                    SetProperty(ref _NiveauMax, value, nameof(NiveauMax));
+                }
+                LoadItemsCommand.Execute(null);
+            }
+        }
+        private int _NiveauMax = 9;
+        public int NiveauMax
+        {
+            get
+            {
+                return _NiveauMax;
+            }
+            set
+            {
+                SetProperty(ref _NiveauMax, value);
+                if (_NiveauMax < _NiveauMin)
+                {
+                    SetProperty(ref _NiveauMin, value, nameof(NiveauMin));
+                }
+                LoadItemsCommand.Execute(null);
+            }
+        }
+
         public Command LoadItemsCommand { get; set; }
 
         public SpellsViewModel()
@@ -39,8 +117,18 @@ namespace AideDeJeu.ViewModels
 
             try
             {
+                //<option value="b">Barde</option>
+                //<option value="c">Clerc</option>
+                //<option value="d">Druide</option>
+                //<option value="s">Ensorceleur</option>
+                //<option value="w">Magicien</option>
+                //<option value="p">Paladin</option>
+                //<option value="r">Rôdeur</option>
+                //<option value="k">Sorcier</option>
+
+                string[] classes = new string[] { "", "b", "c", "d", "s", "w", "p", "r", "k"  };
                 Items.Clear();
-                var items = await SpellDataStore.GetItemsAsync(true);
+                var items = await SpellDataStore.GetItemsAsync(classe: classes[Classe], niveauMin: NiveauMin, niveauMax: NiveauMax);
                 foreach (var item in items)
                 {
                     Items.Add(item);

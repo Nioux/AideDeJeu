@@ -6,6 +6,7 @@ using Xamarin.Forms.Xaml;
 using AideDeJeu.Models;
 using AideDeJeu.ViewModels;
 using AideDeJeuLib;
+using AideDeJeuLib.Spells;
 
 namespace AideDeJeu.Views
 {

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 using AideDeJeu.Models;
 using AideDeJeuLib;
+using AideDeJeuLib.Spells;
 
 [assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Services.SpellDataStore))]
 namespace AideDeJeu.Services
@@ -64,5 +65,14 @@ namespace AideDeJeu.Services
             //items = spells.Select(spell => new Item() { Text = spell.Title, Description = spell.DescriptionText }).ToList();
             return await Task.FromResult(items);
         }
+
+        public async Task<IEnumerable<Spell>> GetItemsAsync(string classe, int niveauMin, int niveauMax)
+        {
+            var scrapper = new Scrappers();
+            items = (await scrapper.GetSpells(classe, niveauMin, niveauMax)).ToList();
+
+            return await Task.FromResult(items);
+        }
+
     }
 }

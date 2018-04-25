@@ -27,8 +27,9 @@
                     </Picker.Items>
                 </Picker>-->
                 <Label Text="Classe" />
-                <Picker HorizontalOptions="FillAndExpand">
-                    <Picker.Items>
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes}" ItemDisplayBinding="{Binding Value}" SelectedItem="{Binding Key}"  SelectedIndex="{Binding Classe}">
+                    <!--<Picker.Items>
+                        <x:String> </x:String>
                         <x:String>Barde</x:String>
                         <x:String>Clerc</x:String>
                         <x:String>Druide</x:String>
@@ -37,11 +38,11 @@
                         <x:String>Paladin</x:String>
                         <x:String>Rôdeur</x:String>
                         <x:String>Sorcier</x:String>
-                    </Picker.Items>
+                    </Picker.Items>-->
                 </Picker>
                 <Label Text="Niveau min" />
-                <Picker HorizontalOptions="FillAndExpand">
-                    <Picker.Items>
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedItem="{Binding Key}"  SelectedIndex="{Binding NiveauMin}">
+                    <!--<Picker.Items>
                         <x:String>Sorts mineurs</x:String>
                         <x:String>1</x:String>
                         <x:String>2</x:String>
@@ -52,11 +53,11 @@
                         <x:String>7</x:String>
                         <x:String>8</x:String>
                         <x:String>9</x:String>
-                    </Picker.Items>
+                    </Picker.Items>-->
                 </Picker>
                 <Label Text="Niveau max" />
-                <Picker HorizontalOptions="FillAndExpand">
-                    <Picker.Items>
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux}" ItemDisplayBinding="{Binding Value}" SelectedItem="{Binding Key}"  SelectedIndex="{Binding NiveauMax}">
+                    <!--<Picker.Items>
                         <x:String>Sorts mineurs</x:String>
                         <x:String>1</x:String>
                         <x:String>2</x:String>
@@ -67,7 +68,7 @@
                         <x:String>7</x:String>
                         <x:String>8</x:String>
                         <x:String>9</x:String>
-                    </Picker.Items>
+                    </Picker.Items>-->
                 </Picker>
             </StackLayout>
         </ContentPage>

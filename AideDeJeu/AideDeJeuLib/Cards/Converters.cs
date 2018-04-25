@@ -1,11 +1,9 @@
-﻿using HtmlAgilityPack;
-using System;
+﻿using AideDeJeuLib.Spells;
+using HtmlAgilityPack;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Text;
 
-namespace AideDeJeuLib
+namespace AideDeJeuLib.Cards
 {
     public static class Converters
     {
