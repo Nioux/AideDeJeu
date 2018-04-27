@@ -123,7 +123,6 @@ namespace AideDeJeu.ViewModels
             {
                 //Items.Clear();
                 var item = await new Scrappers().GetSpell(Item.Id);
-                await Akavache.BlobCache.UserAccount.Flush();
                 Item = item;
                 //foreach (var item in items)
                 //{

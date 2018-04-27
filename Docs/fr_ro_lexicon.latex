@@ -1,0 +1,218 @@
+
+\documentclass[letterpaper,10pt,twoside,twocolumn,openany]{book}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{soul}
+\usepackage{dnd}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+}
+
+\begin{document}
+
+\header{Lieux}
+\begin{dndtable}[XX]
+   	\textbf{FR} & \textbf{EN} \\
+      Auberge de Feldepost&Feldepost Inn \\
+      Barbe d'Ulgoth&Ulgoth's Beard \\
+      Bérégost&Beregost \\
+      Bois de Lars&Larswood \\
+      Bois de l'Est&The East Wood \\
+      Bois-Froid&Cold Wood \\
+      Bois-Manteau&Cloakwood \\
+      Brynnlaw&Brynnlaw \\
+      Calimshan&Calimshan \\
+      Camp des Bandits&Bandit Camp \\
+      Carnaval&Carnival \\
+      Château-Suif&Candlekeep \\
+      Contrées du Mitan&Heartlands \\
+      Côte des Epées&Sword Coast \\
+      Côte des Epées Nord&North Sword Coast \\
+      Côte des Epées Sud&South Sword Coast \\
+      Cour Gardée&Guarded Compound \\
+      Croisée des Chemins&Crossroads \\
+      Dix-Cités&Ten Towns \\
+      Eauprofonde&Waterdeep \\
+      Ecole d'Ulcaster&Ulcaster School \\
+      Éternelle-Rencontre&Evermeet \\
+      Féérûne&Faerun \\
+      Fermes sur le Chiontar&Farms over Chiontar \\
+      Flammevin&Firewine \\
+      Forteresse Gnoll&Gnoll Stronghold \\
+      Franc-Marché&Trademeet \\
+      Gullykin&Gullykin \\
+      Gué du Troll&Trollford \\
+      Haute Haie&High Hedge \\
+      Havredest&Easthaven \\
+      Île Perdue&Werewolf Isle \\
+      Île de Ruathym&Ruathym Island \\
+      Iles Sélénae&Moonshae Islands \\
+      Imnesvale&Imnesvale \\
+      L'Antre des Sept Vaux&Den of the Seven Vales \\
+      L'Arbre de Vie&The Tree of Life \\
+      L'Auberge de Brasamical&Friendly Arm Inn \\
+      La Bonté Marine&Sea Bounty \\
+      La Couronne de Cuivre&Copper Coronet \\
+      La Lanterne Assourdie&Low Lantern \\
+      La Porte de Baldur&Baldur's Gate \\
+      La Rune Tordue&The Twisted Rune \\
+      Lac du Pêcheur&Wilderness Lake \\
+      Lancevent&Windspear \\
+      Le Multivers&Multiverse \\
+\end{dndtable}
+
+\header{Lieux}
+\begin{dndtable}[XX]
+   	\textbf{FR} & \textbf{EN} \\
+      Les Quais&Docks \\
+      Les Royaumes&The Realms \\
+      Les bas-Quartiers&Slums \\
+      Lunargent&Silverymoon \\
+      Massif du Troll&Troll Mountains \\
+      Mines de Bois-Manteau&Cloakwood Mines \\
+      Mines de Nashkel&Nashkel Mines \\
+      Montagnes des Grouilleux&Dragon's Run \\
+      Monts de la Marche&Marching Mountains \\
+      Monument des Basilics&Basilisk Monument \\
+      Morneglace&Gloomfrost \\
+      Myth Rynn&Myth Rynn \\
+      Nashkel&Nashkel \\
+      Ombre-Terre&Underdark \\
+      Ombre-Ville&Undercity \\
+      Outreterre&Outlands \\
+      Passe de Nashkel&Nashkel Pass \\
+      Passe du Petit Croc&Small Teeth Pass \\
+      Pics Brumeux&Cloupeaks \\
+      Pics Brumeux&The Cloudpeaks \\
+      Pics Brumeux Ouest&Western Cloudpeaks \\
+      Plaines de Flammevin&Firewine Plains \\
+      Pont de Flammevin&Firewine Bridge \\
+      Pont vers la Porte de Baldur&Bridge to Baldur's Gate \\
+      Port-Ponant&Westgate \\
+      Promenade de Waukyne&Waukeen's Promenade \\
+      Rashéménie&Rashemen \\
+      Refuge des Zombies&Zombie Retreat \\
+      Repos de Gorion&Gorion's Rest \\
+      Rivière Chiontar&River Chiontar \\
+      Rivière de l'Ours&Ogre's Reach \\
+      Route de Bérégost&Beregost Wilderness \\
+      Salle des Fêtes&Festhall \\
+      Sigil&Sigil \\
+      Sud du Travers du Ver&South of Wyrm's Crossing \\
+      Suldanessalar&Suldanessalar \\
+      Terres du Sud&Southern Wastelands \\
+      Tour de Durlag&Durlag's Tower \\
+      Tour de Garde&Watcher Keep \\
+      Val de Bise&Icewind Dale \\
+      Valombre&Shadowvale \\
+      Valpeld&Peldvale \\
+      Village des Xvarts&Xvart Village \\
+      
+\end{dndtable}
+
+\header{Places}
+\begin{dndtable}[XX]
+   	\textbf{EN} & \textbf{FR} \\
+      Baldur's Gate&La Porte de Baldur \\
+      Bandit Camp&Camp des Bandits \\
+      Basilisk Monument&Monument des Basilics \\
+      Beregost&Bérégost \\
+      Beregost Wilderness&Route de Bérégost \\
+      Bridge to Baldur's Gate&Pont vers la Porte de Baldur \\
+      Brynnlaw&Brynnlaw \\
+      Calimshan&Calimshan \\
+      Candlekeep&Château-Suif \\
+      Carnival&Carnaval \\
+      Cloakwood&Bois-Manteau \\
+      Cloakwood Mines&Mines de Bois-Manteau \\
+      Cloupeaks&Pics Brumeux \\
+      Cold Wood&Bois-Froid \\
+      Copper Coronet&La Couronne de Cuivre \\
+      Crossroads&Croisée des Chemins \\
+      Den of the Seven Vales&L'Antre des Sept Vaux \\
+      Docks&Les Quais \\
+      Dragon's Run&Montagnes des Grouilleux \\
+      Durlag's Tower&Tour de Durlag \\
+      Easthaven&Havredest \\
+      Evermeet&Éternelle-Rencontre \\
+      Faerun&Féérûne \\
+      Farms over Chiontar&Fermes sur le Chiontar \\
+      Feldepost Inn&Auberge de Feldepost \\
+      Festhall&Salle des Fêtes \\
+      Firewine&Flammevin \\
+      Firewine Bridge&Pont de Flammevin \\
+      Firewine Plains&Plaines de Flammevin \\
+      Friendly Arm Inn&L'Auberge de Brasamical \\
+      Gloomfrost&Morneglace \\
+      Gnoll Stronghold&Forteresse Gnoll \\
+      Gorion's Rest&Repos de Gorion \\
+      Guarded Compound&Cour Gardée \\
+      Gullykin&Gullykin \\
+      Heartlands&Contrées du Mitan \\
+      High Hedge&Haute Haie \\
+      Icewind Dale&Val de Bise \\
+      Imnesvale&Imnesvale \\
+      Larswood&Bois de Lars \\
+      Low Lantern&La Lanterne Assourdie \\
+      Marching Mountains&Monts de la Marche \\
+      Moonshae Islands&Iles Sélénae \\
+      Multiverse&Le Multivers \\
+\end{dndtable}
+
+\header{Places}
+\begin{dndtable}[XX]
+   	\textbf{EN} & \textbf{FR} \\
+      Myth Rynn&Myth Rynn \\
+      Nashkel&Nashkel \\
+      Nashkel Mines&Mines de Nashkel \\
+      Nashkel Pass&Passe de Nashkel \\
+      North Sword Coast&Côte des Epées Nord \\
+      Ogre's Reach&Rivière de l'Ours \\
+      Outlands&Outreterre \\
+      Peldvale&Valpeld \\
+      Rashemen&Rashéménie \\
+      River Chiontar&Rivière Chiontar \\
+      Ruathym Island&Île de Ruathym \\
+      Sea Bounty&La Bonté Marine \\
+      Shadowvale&Valombre \\
+      Sigil&Sigil \\
+      Silverymoon&Lunargent \\
+      Slums&Les bas-Quartiers \\
+      Small Teeth Pass&Passe du Petit Croc \\
+      South Sword Coast&Côte des Epées Sud \\
+      South of Wyrm's Crossing&Sud du Travers du Ver \\
+      Southern Wastelands&Terres du Sud \\
+      Suldanessalar&Suldanessalar \\
+      Sword Coast&Côte des Epées \\
+      Ten Towns&Dix-Cités \\
+      The Cloudpeaks&Pics Brumeux \\
+      The East Wood&Bois de l'Est \\
+      The Realms&Les Royaumes \\
+      The Tree of Life&L'Arbre de Vie \\
+      The Twisted Rune&La Rune Tordue \\
+      Trademeet&Franc-Marché \\
+      Troll Mountains&Massif du Troll \\
+      Trollford&Gué du Troll \\
+      Ulcaster School&Ecole d'Ulcaster \\
+      Ulgoth's Beard&Barbe d'Ulgoth \\
+      Undercity&Ombre-Ville \\
+      Underdark&Ombre-Terre \\
+      Watcher Keep&Tour de Garde \\
+      Waterdeep&Eauprofonde \\
+      Waukeen's Promenade&Promenade de Waukyne \\
+      Werewolf Isle&Île Perdue \\
+      Western Cloudpeaks&Pics Brumeux Ouest \\
+      Westgate&Port-Ponant \\
+      Wilderness Lake&Lac du Pêcheur \\
+      Windspear&Lancevent \\
+      Xvart Village&Village des Xvarts \\
+      Zombie Retreat&Refuge des Zombies \\
+      
+\end{dndtable}
+
+\end{document}
+	

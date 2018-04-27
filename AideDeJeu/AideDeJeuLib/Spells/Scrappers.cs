@@ -80,7 +80,9 @@ namespace AideDeJeuLib.Spells
         {
             BlobCache.ApplicationName = "AkavacheExperiment";
             //await BlobCache.UserAccount.InsertObject(id, newSpell);
-            return await BlobCache.UserAccount.GetOrFetchObject<Spell>(id, () => GetSpellFromSource(id));
+            var spell = await BlobCache.LocalMachine.GetOrFetchObject<Spell>(id, () => GetSpellFromSource(id));
+            await BlobCache.LocalMachine.Flush();
+            return spell;
         }
 
         public async Task<IEnumerable<string>> GetSpellIds(string classe, int niveauMin = 0, int niveauMax = 9)
