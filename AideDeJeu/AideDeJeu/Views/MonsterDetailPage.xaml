@@ -76,6 +76,8 @@
 
             <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
 
+            <Image Source="{Binding Image}" />
+
         </StackLayout>
     </ScrollView>
 </ContentPage>

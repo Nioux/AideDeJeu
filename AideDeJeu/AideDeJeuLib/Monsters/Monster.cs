@@ -69,6 +69,48 @@ namespace AideDeJeuLib.Monsters
             monster.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens')]")?.NextSibling?.InnerText;
             monster.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues')]")?.NextSibling?.InnerText;
             monster.Power = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;
+
+            List<string> actions = new List<string>();
+            List<string> beforeActions = null;
+            List<string> commonActions = null;
+            List<string> legendaryActions = null;
+            var p = divSansSerif.SelectSingleNode("p");
+            while(p != null)
+            {
+                if(p.NodeType == HtmlNodeType.Element && p.Name == "p")
+                {
+                    actions.Add(p.InnerText);
+                }
+                else if(p.NodeType == HtmlNodeType.Element && p.Name == "div")
+                {
+                    if(p.InnerText == "ACTIONS")
+                    {
+                        beforeActions = actions;
+                        actions = new List<string>();
+                    }
+                    else if (p.InnerText == "ACTIONS LÉGENDAIRES")
+                    {
+                        commonActions = actions;
+                        actions = new List<string>();
+                    }
+                }
+                p = p.NextSibling;
+            }
+            if(commonActions == null)
+            {
+                if(beforeActions == null)
+                {
+                    beforeActions = actions;
+                }
+                else
+                {
+                    commonActions = actions;
+                }
+            }
+            else
+            {
+                legendaryActions = actions;
+            }
             return monster;
         }
 
