@@ -36,19 +36,19 @@ namespace AideDeJeuLib.Monsters
 
 
 
-        public static Monster FromHtml(HtmlNode nodeMonster)
+        public static Monster FromHtml(HtmlNode divBloc)
         {
             var monster = new Monster();
-            var divMonster = nodeMonster.SelectSingleNode("div[@class='monstre']");
+            var divMonster = divBloc.SelectSingleNode("div[contains(@class,'monstre')]");
             monster.Name = divMonster.SelectSingleNode("h1").InnerText;
-            monster.NameVO = divMonster.SelectSingleNode("div[@class='trad']/a").InnerText;
-            var divSansSerif = divMonster.SelectSingleNode("div[@class='sansSerif']");
+            monster.NameVO = divMonster.SelectSingleNode("div[contains(@class,'trad')]/a").InnerText;
+            var divSansSerif = divMonster.SelectSingleNode("div[contains(@class,'sansSerif')]");
             var typeSizeAlignment = divSansSerif.SelectSingleNode("h2/em").InnerText;
             var matchesTypeSizeAlignment = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)").Match(typeSizeAlignment);
             monster.Type = matchesTypeSizeAlignment.Groups["type"].Value;
             monster.Size = matchesTypeSizeAlignment.Groups["size"].Value;
             monster.Alignment = matchesTypeSizeAlignment.Groups["alignment"].Value;
-            var divRed = divSansSerif.SelectSingleNode("div[@class='red']");
+            var divRed = divSansSerif.SelectSingleNode("div[contains(@class,'red')]");
             monster.Strength = divRed.SelectSingleNode("strong").NextSibling.InnerText;
             //monster.LevelType = nodeSpell.SelectSingleNode("h2/em").InnerText;
             //monster.Level = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
