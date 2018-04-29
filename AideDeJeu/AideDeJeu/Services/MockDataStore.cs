@@ -64,7 +64,7 @@ namespace AideDeJeu.Services
 
         public async Task<IEnumerable<Item>> GetItemsAsync(bool forceRefresh = false)
         {
-            var scrapper = new Scrappers();
+            var scrapper = new SpellsScrappers();
             var spells = await scrapper.GetSpells(await scrapper.GetSpellIds("c"));
             items = spells.Select(spell => new Item() { Text = spell.Title, Description = spell.DescriptionText }).ToList();
             return await Task.FromResult(items);

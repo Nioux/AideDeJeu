@@ -20,6 +20,15 @@
     <Compile Update="Views\AboutPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\MonstersPage.xaml.cs">
+      <DependentUpon>MonstersPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\MonsterDetailPage.xaml.cs">
+      <DependentUpon>MonsterDetailPage.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\SpellDetailPage.xaml.cs">
       <DependentUpon>SpellDetailPage.xaml</DependentUpon>
     </Compile>
@@ -29,8 +38,9 @@
     <Compile Update="Views\ItemsPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\MainPage.xaml.cs">
+    <Compile Update="Views\SpellsPage.xaml.cs">
       <SubType>Code</SubType>
+      <DependentUpon>SpellsPage.xaml</DependentUpon>
     </Compile>
     <Compile Update="Views\NewItemPage.xaml.cs">
       <SubType>Code</SubType>

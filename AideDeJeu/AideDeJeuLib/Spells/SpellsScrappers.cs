@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace AideDeJeuLib.Spells
 {
-    public class Scrappers
+    public class SpellsScrappers
     {
         public HttpClient GetHttpClient()
         {

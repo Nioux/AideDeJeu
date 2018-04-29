@@ -58,7 +58,7 @@ namespace AideDeJeu.Services
 
         public async Task<IEnumerable<Spell>> GetItemsAsync(bool forceRefresh = false)
         {
-            var scrapper = new Scrappers();
+            var scrapper = new SpellsScrappers();
             //items = (await scrapper.GetSpells(await scrapper.GetSpellIds(""))).ToList();
             items = (await scrapper.GetSpells()).ToList();
 
@@ -68,7 +68,7 @@ namespace AideDeJeu.Services
 
         public async Task<IEnumerable<Spell>> GetItemsAsync(string classe, int niveauMin, int niveauMax, string ecole, string rituel, string source)
         {
-            var scrapper = new Scrappers();
+            var scrapper = new SpellsScrappers();
             items = (await scrapper.GetSpells(classe: classe, niveauMin: niveauMin, niveauMax: niveauMax, ecole: ecole, rituel: rituel, source: source)).ToList();
 
             return await Task.FromResult(items);

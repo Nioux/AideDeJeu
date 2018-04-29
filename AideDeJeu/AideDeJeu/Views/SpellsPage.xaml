@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                xmlns:local="clr-namespace:AideDeJeu.Views"
+                x:Class="AideDeJeu.Views.SpellsPage"
+                  x:Name="This"
+                IsPresented="False"
+                >
+    <MasterDetailPage.Master>
+        <ContentPage Title=" ">
+            <StackLayout Orientation="Vertical" Padding="15">
+                <!--<StackLayout Orientation="Horizontal">
+                    <Button Clicked="OnPlay" Image="ic_play.png" />
+                    <Button Clicked="OnStop" Image="ic_stop.png" />
+                </StackLayout>-->
+                <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Title}" TextColor="Black" Command="{Binding Path=BindingContext.OpenUrl, Source={x:Reference Name=This}}" CommandParameter="{Binding Url}" />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>-->
+                <!--<Label Text="Liste" />
+                <Picker HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sorts</x:String>
+                    </Picker.Items>
+                </Picker>-->
+
+                <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Classe}" />
+
+                <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMin}" />
+
+                <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMax}" />
+
+                <Label Text="École" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Ecole}" />
+
+                <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Rituel}" />
+
+                <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <ContentPage.ToolbarItems>
+                <!--<ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
+                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />-->
+                <!--<ToolbarItem Name="Blog" Text="Blog" Order="Primary" Icon="ic_blog.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Blog/" />
+                <ToolbarItem Name="Wikis" Text="Wikis" Order="Primary" Icon="ic_wikis.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/" />
+                <ToolbarItem Name="Forum" Text="Forum" Order="Primary" Icon="ic_forum.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Forum/" />
+
+                <ToolbarItem Name="Gallery2" Text="Galerie" Order="Secondary" Icon="ic_gallery.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Media/" />
+                <ToolbarItem Name="Plays2" Text="Parties" Order="Secondary" Icon="ic_plays.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Wiki/Parties.MainPage.ashx" />
+                <ToolbarItem Name="Search2" Text="Rechercher" Order="Secondary" Icon="ic_search.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/search/default.aspx" />-->
+                <!--<ToolbarItem Text="Profil" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/forum/yaf_cp_profile.aspx" />
+                <ToolbarItem Text="Messages privés" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/forum/default.aspx?g=cp_pm" />
+                <ToolbarItem Text="Connexion" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/login.aspx" />
+                <ToolbarItem Text="Déconnexion" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/logout.aspx" />
+                <ToolbarItem Text="Inscription" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/register.aspx" />-->
+            </ContentPage.ToolbarItems>
+            <Grid>
+                <ListView x:Name="ItemsListView" 
+                ItemsSource="{Binding Items}"
+                VerticalOptions="FillAndExpand"
+                 HasUnevenRows="true"
+                 RefreshCommand="{Binding LoadItemsCommand}"
+                 IsPullToRefreshEnabled="true"
+                 IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                 CachingStrategy="RecycleElement"
+                 ItemSelected="OnItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10">
+                                    <Label Text="{Binding Title}" 
+                       LineBreakMode="NoWrap" 
+                       Style="{DynamicResource subsubsection}" 
+                       FontSize="16" />
+                                    <!--<Label Text="{Binding Description}" 
+                       LineBreakMode="NoWrap"
+                       Style="{DynamicResource ListItemDetailTextStyle}"
+                       FontSize="13" />-->
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <!--<WebView x:Name="MainView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Navigating="OnNavigating" Source="{Binding Source}" />-->
+                <!--<ActivityIndicator x:Name="aiProgress" Color="Black" IsRunning="True" IsVisible="True" />-->
+            </Grid>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
+
+<!--<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:views="clr-namespace:AideDeJeu.Views"
+            x:Class="AideDeJeu.Views.MainPage">
+    <TabbedPage.Children>
+        <NavigationPage Title="Browse">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_feed.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:ItemsPage />
+            </x:Arguments>
+        </NavigationPage>
+        
+        <NavigationPage Title="About">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_about.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:AboutPage />
+            </x:Arguments>
+        </NavigationPage>
+    </TabbedPage.Children>
+</TabbedPage>-->
