@@ -1,17 +1,12 @@
-﻿using System;
-
+﻿
+using AideDeJeu.ViewModels;
+using AideDeJeuLib.Monsters;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-using AideDeJeu.Models;
-using AideDeJeu.ViewModels;
-using AideDeJeuLib;
-using AideDeJeuLib.Spells;
-using AideDeJeuLib.Monsters;
-
 namespace AideDeJeu.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MonsterDetailPage : ContentPage
 	{
         MonsterDetailViewModel viewModel;

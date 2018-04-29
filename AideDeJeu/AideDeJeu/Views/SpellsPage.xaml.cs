@@ -1,6 +1,4 @@
-﻿using AideDeJeu.Models;
-using AideDeJeu.ViewModels;
-using AideDeJeuLib;
+﻿using AideDeJeu.ViewModels;
 using AideDeJeuLib.Spells;
 using System;
 
@@ -9,7 +7,7 @@ using Xamarin.Forms.Xaml;
 
 namespace AideDeJeu.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class SpellsPage : MasterDetailPage //TabbedPage
     {
         SpellsViewModel viewModel;

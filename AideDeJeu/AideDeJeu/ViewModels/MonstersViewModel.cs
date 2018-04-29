@@ -5,10 +5,6 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
-using AideDeJeu.Models;
-using AideDeJeu.Views;
-using AideDeJeuLib;
-using AideDeJeuLib.Spells;
 using System.Collections.Generic;
 using AideDeJeuLib.Monsters;
 

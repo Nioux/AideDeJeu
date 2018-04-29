@@ -5,9 +5,6 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 
-using AideDeJeu.Models;
-using AideDeJeu.Views;
-using AideDeJeuLib;
 using AideDeJeuLib.Spells;
 using System.Collections.Generic;
 
@@ -194,7 +191,7 @@ namespace AideDeJeu.ViewModels
                 //<option value="k">Sorcier</option>
 
                 Items.Clear();
-                var items = await SpellDataStore.GetItemsAsync(classe: Classes[Classe].Key, niveauMin: NiveauMin, niveauMax: NiveauMax, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: NiveauMin, niveauMax: NiveauMax, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
                 foreach (var item in items)
                 {
                     Items.Add(item);

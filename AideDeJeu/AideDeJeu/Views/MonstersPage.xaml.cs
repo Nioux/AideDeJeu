@@ -1,8 +1,5 @@
-﻿using AideDeJeu.Models;
-using AideDeJeu.ViewModels;
-using AideDeJeuLib;
+﻿using AideDeJeu.ViewModels;
 using AideDeJeuLib.Monsters;
-using AideDeJeuLib.Spells;
 using System;
 
 using Xamarin.Forms;
@@ -10,7 +7,7 @@ using Xamarin.Forms.Xaml;
 
 namespace AideDeJeu.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MonstersPage : MasterDetailPage //TabbedPage
     {
         MonstersViewModel viewModel;

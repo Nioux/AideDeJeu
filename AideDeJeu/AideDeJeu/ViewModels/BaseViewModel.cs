@@ -5,17 +5,17 @@ using System.Runtime.CompilerServices;
 
 using Xamarin.Forms;
 
-using AideDeJeu.Models;
-using AideDeJeu.Services;
-using AideDeJeuLib;
 using AideDeJeuLib.Spells;
+using AideDeJeuLib.Monsters;
 
 namespace AideDeJeu.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>() ?? new MockDataStore();
-        public IDataStore<Spell> SpellDataStore => DependencyService.Get<IDataStore<Spell>>() ?? new SpellDataStore();
+        //public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>() ?? new MockDataStore();
+        //public IDataStore<Spell> SpellDataStore => DependencyService.Get<IDataStore<Spell>>() ?? new SpellDataStore();
+        public SpellsScrappers SpellsScrappers => DependencyService.Get<SpellsScrappers>() ?? new SpellsScrappers();
+        public MonstersScrappers MonsterScrappers => DependencyService.Get<MonstersScrappers>() ?? new MonstersScrappers();
 
         bool isBusy = false;
         public bool IsBusy

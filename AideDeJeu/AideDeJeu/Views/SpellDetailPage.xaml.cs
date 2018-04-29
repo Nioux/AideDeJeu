@@ -1,16 +1,12 @@
-﻿using System;
-
+﻿
+using AideDeJeu.ViewModels;
+using AideDeJeuLib.Spells;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-using AideDeJeu.Models;
-using AideDeJeu.ViewModels;
-using AideDeJeuLib;
-using AideDeJeuLib.Spells;
-
 namespace AideDeJeu.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class SpellDetailPage : ContentPage
 	{
         SpellDetailViewModel viewModel;
