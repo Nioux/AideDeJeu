@@ -1,49 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.MonsterDetailPage"
              Title="{Binding Title}">
-    <ScrollView>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView Orientation="Vertical">
         <StackLayout Orientation="Vertical" Padding="15">
             <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsubsection}" />
 
             <Label Text=" " />
 
-            <Label FormattedText="{Binding TypeLevel}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="{Binding Item.Type}" Style="{StaticResource Key=contentital}" />
-                <Label Text="{Binding Item.Level, StringFormat='de niveau {0}'}" Style="{StaticResource Key=contentital}" />
-            </StackLayout>-->
+            <Label FormattedText="{Binding TypeSizeAlignment}" />
+            
+            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
+            
+            <Label FormattedText="{Binding ArmorClass}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding HitPoints}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding Speed}" Style="{StaticResource Key=content}" />
+            
+            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Text="FOR" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="0" Text="{Binding Item.Strength}" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="1" Text="DEX" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="1" Text="{Binding Item.Dexterity}" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="2" Text="CON" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="2" Text="{Binding Item.Constitution}" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="3" Text="INT" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="3" Text="{Binding Item.Intelligence}" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="4" Text="SAG" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="4" Text="{Binding Item.Wisdom}" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="5" Text="CHA" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="5" Text="{Binding Item.Charisma}" Style="{StaticResource Key=content}" />
+            </Grid>
+            
+            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
 
-            <Label FormattedText="{Binding CastingTime}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Durée d'incantation :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.CastingTime}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
-
-
-            <Label FormattedText="{Binding Range}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Portée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.Range}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
-
-            <Label FormattedText="{Binding Components}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Composantes :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.Components}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
-
-            <Label FormattedText="{Binding Duration}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Durée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.Duration}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
-
-            <Label Text=" " />
-
-            <Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />
-
+            <Label FormattedText="{Binding SavingThrows}" IsVisible="{Binding Item.SavingThrows, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding Skills}" IsVisible="{Binding Item.Skills, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding Senses}" IsVisible="{Binding Item.Senses, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding Languages}" IsVisible="{Binding Item.Languages, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <!--<Label FormattedText="{Binding Power}" Style="{StaticResource Key=content}" />-->
+            <Label FormattedText="{Binding Challenge}" IsVisible="{Binding Item.Challenge, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            
+            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
+            
+            <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
+            <Label Text="{Binding Item.Picture}" Style="{StaticResource Key=content}" />
+            <Label Text="{Binding Item.Legendary}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
         </StackLayout>
     </ScrollView>
