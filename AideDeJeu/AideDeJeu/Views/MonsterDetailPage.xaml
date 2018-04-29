@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
              x:Class="AideDeJeu.Views.MonsterDetailPage"
              Title="{Binding Title}">
     <ContentPage.Resources>
@@ -9,50 +10,55 @@
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
-    <ScrollView Orientation="Vertical">
+    <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
         <StackLayout Orientation="Vertical" Padding="15">
+            
+            <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
+            
             <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsubsection}" />
 
             <Label Text=" " />
 
             <Label FormattedText="{Binding TypeSizeAlignment}" />
-            
-            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
+
+            <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
+
+            <!--<BoxView WidthRequest="100" HeightRequest="2" Color="#922610" />-->
             
             <Label FormattedText="{Binding ArmorClass}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding HitPoints}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Speed}" Style="{StaticResource Key=content}" />
-            
-            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
-            
+
+            <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
+
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="auto" />
-                    <ColumnDefinition Width="auto" />
-                    <ColumnDefinition Width="auto" />
-                    <ColumnDefinition Width="auto" />
-                    <ColumnDefinition Width="auto" />
-                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="auto" />
-                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
-                <Label Grid.Row="0" Grid.Column="0" Text="FOR" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="1" Grid.Column="0" Text="{Binding Item.Strength}" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="0" Grid.Column="1" Text="DEX" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="1" Grid.Column="1" Text="{Binding Item.Dexterity}" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="0" Grid.Column="2" Text="CON" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="1" Grid.Column="2" Text="{Binding Item.Constitution}" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="0" Grid.Column="3" Text="INT" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="1" Grid.Column="3" Text="{Binding Item.Intelligence}" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="0" Grid.Column="4" Text="SAG" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="1" Grid.Column="4" Text="{Binding Item.Wisdom}" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="0" Grid.Column="5" Text="CHA" Style="{StaticResource Key=content}" />
-                <Label Grid.Row="1" Grid.Column="5" Text="{Binding Item.Charisma}" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="0" Text="FOR" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="0" Text="{Binding Item.Strength}" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="1" Text="DEX" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="1" Text="{Binding Item.Dexterity}" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="2" Text="CON" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="2" Text="{Binding Item.Constitution}" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="3" Text="INT" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="3" Text="{Binding Item.Intelligence}" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="4" Text="SAG" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="4" Text="{Binding Item.Wisdom}" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="0" Grid.Column="5" Text="CHA" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
+                <Label Grid.Row="1" Grid.Column="5" Text="{Binding Item.Charisma}" HorizontalTextAlignment="Center" Style="{StaticResource Key=content}" />
             </Grid>
-            
-            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
+
+            <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
 
             <Label FormattedText="{Binding SavingThrows}" IsVisible="{Binding Item.SavingThrows, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Skills}" IsVisible="{Binding Item.Skills, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
@@ -60,13 +66,16 @@
             <Label FormattedText="{Binding Languages}" IsVisible="{Binding Item.Languages, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <!--<Label FormattedText="{Binding Power}" Style="{StaticResource Key=content}" />-->
             <Label FormattedText="{Binding Challenge}" IsVisible="{Binding Item.Challenge, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
-            
-            <BoxView WidthRequest="100" HeightRequest="2" Color="Red" />
-            
+
+            <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
+
             <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Picture}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Legendary}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
+
+            <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
+
         </StackLayout>
     </ScrollView>
 </ContentPage>
