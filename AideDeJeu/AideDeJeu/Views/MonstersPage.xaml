@@ -27,20 +27,29 @@
                     </Picker.Items>
                 </Picker>-->
 
-                <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Classe}" />
+                <Label Text="Catégorie" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Categories, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Category}" />
 
-                <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMin}" />
+                <Label Text="Type" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Types, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Type}" />
 
-                <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMax}" />
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="FP minimum" Style="{StaticResource Key=subsubsection}" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding MinPower}" />
+                    </StackLayout>
 
-                <Label Text="École" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Ecole}" />
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="FP maximum" Style="{StaticResource Key=subsubsection}" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding MaxPower}" />
+                    </StackLayout>
+                </StackLayout>
 
-                <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Rituel}" />
+                <Label Text="Taille" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sizes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Size}" />
+
+                <Label Text="Légendaire" Style="{StaticResource Key=subsubsection}" />
+                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Legendaries, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Legendary}" />
 
                 <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
                 <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />

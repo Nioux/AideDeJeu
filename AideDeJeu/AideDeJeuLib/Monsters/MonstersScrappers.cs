@@ -22,14 +22,14 @@ namespace AideDeJeuLib.Monsters
             return client;
         }
 
-        public async Task<IEnumerable<Monster>> GetMonsters(string categorie = "", string type = "", string niveauMin = "", string niveauMax = "", string taille = "", string legendaire = "", string source = "srd")
+        public async Task<IEnumerable<Monster>> GetMonsters(string category = "", string type = "", string minPower = "", string maxPower = "", string size = "", string legendary = "", string source = "srd")
         {
             string html = null;
             using (var client = GetHttpClient())
             {
                 // https://www.aidedd.org/regles/monstres/?min=.25&max=20&c=M&sz=TP&lg=si&t=Humano%C3%AFde&s=srd
 
-                html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/regles/monstres/?c={categorie}&t={type}&min={niveauMin}&max={niveauMax}&sz={taille}&lg={legendaire}&s={source}", categorie, type, niveauMin, niveauMax, taille, legendaire, source));
+                html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/regles/monstres/?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source));
             }
             var pack = new HtmlDocument();
             pack.LoadHtml(html);

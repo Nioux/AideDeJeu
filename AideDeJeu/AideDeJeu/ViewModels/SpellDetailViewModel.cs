@@ -121,13 +121,8 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                //Items.Clear();
-                var item = await new SpellsScrappers().GetSpell(Item.Id);
+                var item = await SpellsScrappers.GetSpell(Item.Id);
                 Item = item;
-                //foreach (var item in items)
-                //{
-                //    Items.Add(item);
-                //}
             }
             catch (Exception ex)
             {
