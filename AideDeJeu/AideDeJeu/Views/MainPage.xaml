@@ -5,17 +5,21 @@
                 x:Class="AideDeJeu.Views.MainPage"
                   x:Name="This"
                 IsPresented="False"
+                  Title="Aide de Jeu"
                 >
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <ContentPage>
+        <ContentPage Title="Aide de Jeu">
             <ContentPage.ToolbarItems>
             </ContentPage.ToolbarItems>
-            <Grid>
-            </Grid>
+            <StackLayout Orientation="Vertical">
+                <Button Text="Liste des sorts" Clicked="OnSpellsClicked" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
+                <Button Text="Liste des monstres" Clicked="OnMonstersClicked" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
+                <Button Text="À propos de ..." Clicked="OnAboutClicked" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
+            </StackLayout>
         </ContentPage>
     </MasterDetailPage.Detail>
 </MasterDetailPage>

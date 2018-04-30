@@ -10,5 +10,20 @@ namespace AideDeJeu.Views
 		{
 			InitializeComponent ();
         }
+
+        void OnSpellsClicked()
+        {
+            Navigation.PushAsync(new SpellsPage());
+        }
+
+        void OnMonstersClicked()
+        {
+            Navigation.PushAsync(new MonstersPage());
+        }
+
+        void OnAboutClicked()
+        {
+            Navigation.PushAsync(new AboutPage());
+        }
     }
 }

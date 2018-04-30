@@ -5,9 +5,10 @@
                 x:Class="AideDeJeu.Views.MonstersPage"
                   x:Name="This"
                 IsPresented="False"
+                  Title="Liste des monstres"
                 >
     <MasterDetailPage.Master>
-        <ContentPage Title=" ">
+        <ContentPage Title="Liste des monstres">
             <ScrollView Orientation="Vertical">
                 <StackLayout Orientation="Vertical" Padding="15">
                     <!--<StackLayout Orientation="Horizontal">
@@ -59,7 +60,7 @@
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <ContentPage>
+        <ContentPage Title="Liste des monstres">
             <ContentPage.ToolbarItems>
                 <!--<ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
                 <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />-->

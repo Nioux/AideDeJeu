@@ -5,9 +5,10 @@
                 x:Class="AideDeJeu.Views.SpellsPage"
                   x:Name="This"
                 IsPresented="False"
+                  Title="Liste des sorts"
                 >
     <MasterDetailPage.Master>
-        <ContentPage Title=" ">
+        <ContentPage Title="Liste des sorts">
             <ScrollView Orientation="Vertical">
                 <StackLayout Orientation="Vertical" Padding="15">
                     <!--<StackLayout Orientation="Horizontal">
@@ -50,7 +51,7 @@
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <ContentPage>
+        <ContentPage Title="Liste des sorts">
             <ContentPage.ToolbarItems>
                 <!--<ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
                 <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />-->

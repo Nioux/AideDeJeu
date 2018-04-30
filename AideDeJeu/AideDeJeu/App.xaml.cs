@@ -12,7 +12,7 @@ namespace AideDeJeu
 		{
 			InitializeComponent();
 
-            MainPage = new NavigationPage(new MonstersPage()); // MainPage());
+            MainPage = new NavigationPage(new MainPage());
         }
 
 		protected override void OnStart ()
