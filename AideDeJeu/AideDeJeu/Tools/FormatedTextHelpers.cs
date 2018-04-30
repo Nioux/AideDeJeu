@@ -10,42 +10,94 @@ namespace AideDeJeu.Tools
 {
     public static class FormatedTextHelpers
     {
-        public static void HtmlToFormatedString(HtmlNode parentNode, FormattedString fs, FontAttributes attributes = FontAttributes.None)
+        public static void HtmlNodesToFormatedString(HtmlNodeCollection nodes, FormattedString fs, FontAttributes attributes = FontAttributes.None)
         {
-            foreach (var node in parentNode.ChildNodes)
+            if (nodes != null)
             {
-                if (node.NodeType == HtmlNodeType.Text)
+                foreach (var node in nodes)
                 {
-                    var resname = "content";
-                    if (attributes.HasFlag(FontAttributes.Bold))
-                    {
-                        resname += "bold";
-                    }
-                    if (attributes.HasFlag(FontAttributes.Italic))
-                    {
-                        resname += "ital";
-                    }
-                    var fd = FontData.FromResource(resname);
-                    fs.Spans.Add(new Span() { FontFamily = fd.FontFamily, FontAttributes = attributes | fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor, Text = node.InnerText });
-                }
-                else if (node.NodeType == HtmlNodeType.Element && node.Name == "br")
-                {
-                    fs.Spans.Add(new Span() { Text = "\r\n" });
-                }
-                else if (node.NodeType == HtmlNodeType.Element && node.Name == "strong")
-                {
-                    HtmlToFormatedString(node, fs, attributes | FontAttributes.Bold);
-                }
-                else if (node.NodeType == HtmlNodeType.Element && node.Name == "em")
-                {
-                    HtmlToFormatedString(node, fs, attributes | FontAttributes.Italic);
-                }
-                else if (node.NodeType == HtmlNodeType.Element)
-                {
-                    HtmlToFormatedString(node, fs, attributes);
+                    HtmlNodeToFormatedString(node, fs, attributes);
                 }
             }
         }
+
+        public static void HtmlNodeToFormatedString(HtmlNode node, FormattedString fs, FontAttributes attributes = FontAttributes.None)
+        {
+            if (node.NodeType == HtmlNodeType.Text)
+            {
+                var resname = "content";
+                if (attributes.HasFlag(FontAttributes.Bold))
+                {
+                    resname += "bold";
+                }
+                if (attributes.HasFlag(FontAttributes.Italic))
+                {
+                    resname += "ital";
+                }
+                var fd = FontData.FromResource(resname);
+                fs.Spans.Add(new Span() { FontFamily = fd.FontFamily, FontAttributes = attributes | fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor, Text = node.InnerText });
+            }
+            else if (node.NodeType == HtmlNodeType.Element && node.Name == "br")
+            {
+                fs.Spans.Add(new Span() { Text = "\r\n" });
+            }
+            else if (node.NodeType == HtmlNodeType.Element && node.Name == "strong")
+            {
+                HtmlNodesToFormatedString(node.ChildNodes, fs, attributes | FontAttributes.Bold);
+            }
+            else if (node.NodeType == HtmlNodeType.Element && node.Name == "em")
+            {
+                HtmlNodesToFormatedString(node.ChildNodes, fs, attributes | FontAttributes.Italic);
+            }
+            else if (node.NodeType == HtmlNodeType.Element)
+            {
+                HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
+            }
+        }
+
+        //public static void HtmlToFormatedString(HtmlNode parentNode, FormattedString fs, FontAttributes attributes = FontAttributes.None)
+        //{
+        //    if (parentNode.NodeType == HtmlNodeType.Element)
+        //    {
+        //        foreach (var node in parentNode.ChildNodes)
+        //        {
+        //            if (node.NodeType == HtmlNodeType.Text)
+        //            {
+        //                var resname = "content";
+        //                if (attributes.HasFlag(FontAttributes.Bold))
+        //                {
+        //                    resname += "bold";
+        //                }
+        //                if (attributes.HasFlag(FontAttributes.Italic))
+        //                {
+        //                    resname += "ital";
+        //                }
+        //                var fd = FontData.FromResource(resname);
+        //                fs.Spans.Add(new Span() { FontFamily = fd.FontFamily, FontAttributes = attributes | fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor, Text = node.InnerText });
+        //            }
+        //            else if (node.NodeType == HtmlNodeType.Element && node.Name == "br")
+        //            {
+        //                fs.Spans.Add(new Span() { Text = "\r\n" });
+        //            }
+        //            else if (node.NodeType == HtmlNodeType.Element && node.Name == "strong")
+        //            {
+        //                HtmlToFormatedString(node, fs, attributes | FontAttributes.Bold);
+        //            }
+        //            else if (node.NodeType == HtmlNodeType.Element && node.Name == "em")
+        //            {
+        //                HtmlToFormatedString(node, fs, attributes | FontAttributes.Italic);
+        //            }
+        //            else if (node.NodeType == HtmlNodeType.Element)
+        //            {
+        //                HtmlToFormatedString(node, fs, attributes);
+        //            }
+        //        }
+        //    }
+        //    else if (parentNode.NodeType == HtmlNodeType.Text)
+        //    {
+
+        //    }
+        //}
 
         public class FontData
         {

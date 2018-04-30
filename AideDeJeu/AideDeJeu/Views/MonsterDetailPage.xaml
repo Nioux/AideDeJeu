@@ -8,6 +8,8 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:HtmlNodeToFormattedStringConverter x:Key="HtmlNodeToFormattedStringConverter" />
+            <tools:HtmlNodesToFormattedStringConverter x:Key="HtmlNodesToFormattedStringConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
@@ -15,9 +17,9 @@
             
             <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
             
-            <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsubsection}" />
+            <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsection}" />
 
-            <Label Text=" " />
+            <!--<Label Text=" " />-->
 
             <Label FormattedText="{Binding TypeSizeAlignment}" />
 
@@ -62,6 +64,9 @@
 
             <Label FormattedText="{Binding SavingThrows}" IsVisible="{Binding Item.SavingThrows, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Skills}" IsVisible="{Binding Item.Skills, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding DamageResistances}" IsVisible="{Binding Item.DamageResistances, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding DamageImmunities}" IsVisible="{Binding Item.DamageImmunities, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding ConditionImmunities}" IsVisible="{Binding Item.ConditionImmunities, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Senses}" IsVisible="{Binding Item.Senses, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Languages}" IsVisible="{Binding Item.Languages, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <!--<Label FormattedText="{Binding Power}" Style="{StaticResource Key=content}" />-->
@@ -69,14 +74,28 @@
 
             <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
 
+            <Label FormattedText="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" />
+
+            <Label Text="Actions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
+            <Label FormattedText="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
+
+            <Label Text="Actions légendaires" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+            <Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+            <!--<ListView ItemsSource="{Binding Item.SpecialFeatures}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Label BindingContext="{Binding}" FormattedText="{Binding Converter={StaticResource HtmlNodeToFormattedStringConverter}}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
+            <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
+
             <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
-            <Label Text="{Binding Item.Picture}" Style="{StaticResource Key=content}" />
+            <!--<Label Text="{Binding Item.Picture}" Style="{StaticResource Key=content}" />-->
             <Label Text="{Binding Item.Legendary}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
 
-            <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
-
-            <Image Source="{Binding Image}" />
+            <Image Source="{Binding Item.Picture}" />
 
         </StackLayout>
     </ScrollView>

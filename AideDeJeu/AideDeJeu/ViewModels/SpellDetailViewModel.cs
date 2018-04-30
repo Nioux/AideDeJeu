@@ -34,7 +34,7 @@ namespace AideDeJeu.ViewModels
                 var fs = new FormattedString();
                 if (Item?.DescriptionDiv != null)
                 {
-                    FormatedTextHelpers.HtmlToFormatedString(Item?.DescriptionDiv, fs, FontAttributes.None);
+                    FormatedTextHelpers.HtmlNodeToFormatedString(Item?.DescriptionDiv, fs, FontAttributes.None);
                 }
                 return fs;
             }

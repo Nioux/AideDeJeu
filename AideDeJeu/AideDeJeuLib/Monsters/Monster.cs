@@ -28,11 +28,18 @@ namespace AideDeJeuLib.Monsters
         public string Charisma { get; set; }
         public string SavingThrows { get; set; }
         public string Skills { get; set; }
+        public string DamageImmunities { get; set; }
+        public string ConditionImmunities { get; set; }
+        public string DamageResistances { get; set; }
         public string Senses { get; set; }
         public string Languages { get; set; }
         public string Challenge { get; set; }
         public string Description { get; set; }
         public string Picture { get; set; }
+
+        public List<HtmlNode> SpecialFeatures { get; set; }
+        public List<HtmlNode> Actions { get; set; }
+        public List<HtmlNode> LegendaryActions { get; set; }
 
 
 
@@ -66,51 +73,67 @@ namespace AideDeJeuLib.Monsters
 
             monster.SavingThrows = divRed?.SelectSingleNode("strong[contains(text(),'Jets de sauvegarde')]")?.NextSibling?.InnerText;
             monster.Skills = divRed?.SelectSingleNode("strong[contains(text(),'Compétences')]")?.NextSibling?.InnerText;
+            monster.DamageResistances = divRed?.SelectSingleNode("strong[contains(text(),'Résistances aux dégâts')]")?.NextSibling?.InnerText;
+            monster.DamageImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux dégâts')]")?.NextSibling?.InnerText;
+            monster.ConditionImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux conditions')]")?.NextSibling?.InnerText;
             monster.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens')]")?.NextSibling?.InnerText;
             monster.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues')]")?.NextSibling?.InnerText;
-            monster.Power = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;
+            monster.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;
 
-            List<string> actions = new List<string>();
-            List<string> beforeActions = null;
-            List<string> commonActions = null;
-            List<string> legendaryActions = null;
-            var p = divSansSerif.SelectSingleNode("p");
-            while(p != null)
+            List<HtmlNode> nodes = new List<HtmlNode>();
+            List<HtmlNode> specialFeatures = null;
+            List<HtmlNode> actions = null;
+            List<HtmlNode> legendaryActions = null;
+            var node = divSansSerif.SelectSingleNode("p");
+            while(node != null)
             {
-                if(p.NodeType == HtmlNodeType.Element && p.Name == "p")
+                if(node.NodeType == HtmlNodeType.Element && node.Name == "div")
                 {
-                    actions.Add(p.InnerText);
-                }
-                else if(p.NodeType == HtmlNodeType.Element && p.Name == "div")
-                {
-                    if(p.InnerText == "ACTIONS")
+                    if(node.InnerText == "ACTIONS")
                     {
-                        beforeActions = actions;
-                        actions = new List<string>();
+                        specialFeatures = nodes;
+                        nodes = new List<HtmlNode>();
                     }
-                    else if (p.InnerText == "ACTIONS LÉGENDAIRES")
+                    else if (node.InnerText == "ACTIONS LÉGENDAIRES")
                     {
-                        commonActions = actions;
-                        actions = new List<string>();
+                        actions = nodes;
+                        nodes = new List<HtmlNode>();
                     }
-                }
-                p = p.NextSibling;
-            }
-            if(commonActions == null)
-            {
-                if(beforeActions == null)
-                {
-                    beforeActions = actions;
                 }
                 else
                 {
-                    commonActions = actions;
+                    nodes.Add(node);
+                }
+                node = node.NextSibling;
+            }
+            if(actions == null)
+            {
+                if(specialFeatures == null)
+                {
+                    specialFeatures = nodes;
+                }
+                else
+                {
+                    actions = nodes;
                 }
             }
             else
             {
-                legendaryActions = actions;
+                legendaryActions = nodes;
             }
+
+            monster.SpecialFeatures = specialFeatures;
+            monster.Actions = actions;
+            monster.LegendaryActions = legendaryActions;
+
+            var divDescription = divBloc?.SelectSingleNode("div[contains(@class,'description')]");
+            monster.Description = divDescription?.InnerText;
+
+            var divSource = divBloc?.SelectSingleNode("div[contains(@class,'source')]");
+            monster.Source = divSource?.InnerText;
+
+            var img = divBloc?.SelectSingleNode("div[contains(@class,'center')]/img[contains(@class,'picture')]");
+            monster.Picture = img?.GetAttributeValue("src", null);
             return monster;
         }
 

@@ -25,6 +25,9 @@ namespace AideDeJeu.ViewModels
                 OnPropertyChanged(nameof(Speed));
                 OnPropertyChanged(nameof(SavingThrows));
                 OnPropertyChanged(nameof(Skills));
+                OnPropertyChanged(nameof(DamageResistances));
+                OnPropertyChanged(nameof(DamageImmunities));
+                OnPropertyChanged(nameof(ConditionImmunities));
                 OnPropertyChanged(nameof(Senses));
                 OnPropertyChanged(nameof(Languages));
                 OnPropertyChanged(nameof(Challenge));
@@ -84,7 +87,7 @@ namespace AideDeJeu.ViewModels
                 var fd = FormatedTextHelpers.FontData.FromResource("content");
                 var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
                 var fs = new FormattedString();
-                fs.Spans.Add(new Span() { Text = "Jets de sauvegarde : ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = "Jets de sauvegarde ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
                 fs.Spans.Add(new Span() { Text = Item.SavingThrows, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
                 return fs;
             }
@@ -97,11 +100,53 @@ namespace AideDeJeu.ViewModels
                 var fd = FormatedTextHelpers.FontData.FromResource("content");
                 var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
                 var fs = new FormattedString();
-                fs.Spans.Add(new Span() { Text = "Compétences : ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = "Compétence ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
                 fs.Spans.Add(new Span() { Text = Item.Skills, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
                 return fs;
             }
         }
+
+
+        public FormattedString DamageImmunities
+        {
+            get
+            {
+                var fd = FormatedTextHelpers.FontData.FromResource("content");
+                var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
+                var fs = new FormattedString();
+                fs.Spans.Add(new Span() { Text = "Immunité contre les dégâts ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = Item.DamageImmunities, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
+                return fs;
+            }
+        }
+
+        public FormattedString ConditionImmunities
+        {
+            get
+            {
+                var fd = FormatedTextHelpers.FontData.FromResource("content");
+                var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
+                var fs = new FormattedString();
+                fs.Spans.Add(new Span() { Text = "Immunité contre les états ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = Item.ConditionImmunities, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
+                return fs;
+            }
+        }
+
+        public FormattedString DamageResistances
+        {
+            get
+            {
+                var fd = FormatedTextHelpers.FontData.FromResource("content");
+                var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
+                var fs = new FormattedString();
+                fs.Spans.Add(new Span() { Text = "Résistance aux dégâts ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = Item.DamageResistances, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
+                return fs;
+            }
+        }
+
+
 
         public FormattedString Senses
         {
@@ -110,7 +155,7 @@ namespace AideDeJeu.ViewModels
                 var fd = FormatedTextHelpers.FontData.FromResource("content");
                 var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
                 var fs = new FormattedString();
-                fs.Spans.Add(new Span() { Text = "Sens : ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = "Sens ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
                 fs.Spans.Add(new Span() { Text = Item.Senses, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
                 return fs;
             }
@@ -123,7 +168,7 @@ namespace AideDeJeu.ViewModels
                 var fd = FormatedTextHelpers.FontData.FromResource("content");
                 var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
                 var fs = new FormattedString();
-                fs.Spans.Add(new Span() { Text = "Langues : ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = "Langues ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
                 fs.Spans.Add(new Span() { Text = Item.Languages, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
                 return fs;
             }
@@ -136,11 +181,13 @@ namespace AideDeJeu.ViewModels
                 var fd = FormatedTextHelpers.FontData.FromResource("content");
                 var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
                 var fs = new FormattedString();
-                fs.Spans.Add(new Span() { Text = "Puissance : ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = "Dangerosité ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
                 fs.Spans.Add(new Span() { Text = Item.Challenge, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
                 return fs;
             }
         }
+
+
 
         //public FormattedString Description
         //{
