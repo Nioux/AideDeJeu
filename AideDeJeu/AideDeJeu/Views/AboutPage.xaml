@@ -37,6 +37,7 @@
                         <FormattedString>
                             <FormattedString.Spans>
                                 <Span Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
+                                <Span Text="Son contenu provient du site AideDD, et est traduit du SRD" />
                             </FormattedString.Spans>
                         </FormattedString>
                     </Label.FormattedText>

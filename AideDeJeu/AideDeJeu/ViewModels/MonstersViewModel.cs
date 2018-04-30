@@ -170,7 +170,7 @@ namespace AideDeJeu.ViewModels
                 LoadItemsCommand.Execute(null);
             }
         }
-        private int _Source = 0;
+        private int _Source = 1;
         public int Source
         {
             get

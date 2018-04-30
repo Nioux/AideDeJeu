@@ -54,7 +54,7 @@
                     <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Legendaries, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Legendary}" />
 
                     <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
-                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" IsEnabled="False"/>
                 </StackLayout>
             </ScrollView>
         </ContentPage>
