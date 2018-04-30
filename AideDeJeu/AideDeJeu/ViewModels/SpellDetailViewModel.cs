@@ -5,7 +5,6 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using System.Reactive.Linq;
 
 namespace AideDeJeu.ViewModels
 {

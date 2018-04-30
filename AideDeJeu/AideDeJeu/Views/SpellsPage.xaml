@@ -8,43 +8,45 @@
                 >
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <StackLayout Orientation="Vertical" Padding="15">
-                <!--<StackLayout Orientation="Horizontal">
+            <ScrollView Orientation="Vertical">
+                <StackLayout Orientation="Vertical" Padding="15">
+                    <!--<StackLayout Orientation="Horizontal">
                     <Button Clicked="OnPlay" Image="ic_play.png" />
                     <Button Clicked="OnStop" Image="ic_stop.png" />
                 </StackLayout>-->
-                <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
+                    <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <TextCell Text="{Binding Title}" TextColor="Black" Command="{Binding Path=BindingContext.OpenUrl, Source={x:Reference Name=This}}" CommandParameter="{Binding Url}" />
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>-->
-                <!--<Label Text="Liste" />
+                    <!--<Label Text="Liste" />
                 <Picker HorizontalOptions="FillAndExpand">
                     <Picker.Items>
                         <x:String>Sorts</x:String>
                     </Picker.Items>
                 </Picker>-->
 
-                <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Classe}" />
+                    <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Classes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Classe}" />
 
-                <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMin}" />
+                    <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMin}" />
 
-                <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMax}" />
+                    <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding NiveauMax}" />
 
-                <Label Text="École" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Ecole}" />
+                    <Label Text="École" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Ecoles, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Ecole}" />
 
-                <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Rituel}" />
+                    <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Rituels, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Rituel}" />
 
-                <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
-            </StackLayout>
+                    <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
+                </StackLayout>
+            </ScrollView>
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>

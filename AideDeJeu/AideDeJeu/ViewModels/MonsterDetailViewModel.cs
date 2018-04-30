@@ -1,12 +1,9 @@
 ﻿using AideDeJeu.Tools;
-using AideDeJeuLib.Spells;
+using AideDeJeuLib.Monsters;
 using System;
 using System.Diagnostics;
-using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using System.Reactive.Linq;
-using AideDeJeuLib.Monsters;
 
 namespace AideDeJeu.ViewModels
 {

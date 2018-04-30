@@ -8,52 +8,54 @@
                 >
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <StackLayout Orientation="Vertical" Padding="15">
-                <!--<StackLayout Orientation="Horizontal">
+            <ScrollView Orientation="Vertical">
+                <StackLayout Orientation="Vertical" Padding="15">
+                    <!--<StackLayout Orientation="Horizontal">
                     <Button Clicked="OnPlay" Image="ic_play.png" />
                     <Button Clicked="OnStop" Image="ic_stop.png" />
                 </StackLayout>-->
-                <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
+                    <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <TextCell Text="{Binding Title}" TextColor="Black" Command="{Binding Path=BindingContext.OpenUrl, Source={x:Reference Name=This}}" CommandParameter="{Binding Url}" />
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>-->
-                <!--<Label Text="Liste" />
+                    <!--<Label Text="Liste" />
                 <Picker HorizontalOptions="FillAndExpand">
                     <Picker.Items>
                         <x:String>Sorts</x:String>
                     </Picker.Items>
                 </Picker>-->
 
-                <Label Text="Catégorie" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Categories, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Category}" />
+                    <Label Text="Catégorie" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Categories, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Category}" />
 
-                <Label Text="Type" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Types, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Type}" />
+                    <Label Text="Type" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Types, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Type}" />
 
-                <StackLayout Orientation="Horizontal">
-                    <StackLayout Orientation="Vertical">
-                        <Label Text="FP minimum" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding MinPower}" />
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="FP minimum" Style="{StaticResource Key=subsubsection}" />
+                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding MinPower}" />
+                        </StackLayout>
+
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="FP maximum" Style="{StaticResource Key=subsubsection}" />
+                            <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding MaxPower}" />
+                        </StackLayout>
                     </StackLayout>
 
-                    <StackLayout Orientation="Vertical">
-                        <Label Text="FP maximum" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding MaxPower}" />
-                    </StackLayout>
+                    <Label Text="Taille" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sizes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Size}" />
+
+                    <Label Text="Légendaire" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Legendaries, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Legendary}" />
+
+                    <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
                 </StackLayout>
-
-                <Label Text="Taille" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sizes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Size}" />
-
-                <Label Text="Légendaire" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Legendaries, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Legendary}" />
-
-                <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
-                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Source}" />
-            </StackLayout>
+            </ScrollView>
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>

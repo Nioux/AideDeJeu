@@ -1,10 +1,8 @@
-﻿using Akavache;
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
-using System.Reactive.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
@@ -28,8 +26,6 @@ namespace AideDeJeuLib.Spells
             string html = null;
             using (var client = GetHttpClient())
             {
-                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
-                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
                 // https://www.aidedd.org/regles/sorts/
 
                 html = await client.GetStringAsync(string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min=1{1}&max=1{2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source));
@@ -59,14 +55,13 @@ namespace AideDeJeuLib.Spells
             return spells;
         }
 
-        public async Task<Spell> GetSpellFromSource(string id)
+        public async Task<Spell> GetSpell(string id)
         {
             string html = null;
             using (var client = GetHttpClient())
             {
                 // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
                 // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
-                // https://www.aidedd.org/regles/sorts/
 
                 html = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vf={0}", id));
             }
@@ -74,15 +69,6 @@ namespace AideDeJeuLib.Spells
             pack.LoadHtml(html);
             var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
             return Spell.FromHtml(divSpell);
-        }
-
-        public async Task<Spell> GetSpell(string id)
-        {
-            BlobCache.ApplicationName = "AkavacheExperiment";
-            //await BlobCache.UserAccount.InsertObject(id, newSpell);
-            var spell = await BlobCache.LocalMachine.GetOrFetchObject<Spell>(id, () => GetSpellFromSource(id));
-            await BlobCache.LocalMachine.Flush();
-            return spell;
         }
 
         public async Task<IEnumerable<string>> GetSpellIds(string classe, int niveauMin = 0, int niveauMax = 9)

@@ -26,7 +26,6 @@ namespace AideDeJeu.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Splat.Resource.String.library_name = global::AideDeJeu.Droid.Resource.String.library_name;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::AideDeJeu.Droid.Resource.Attribute.actionBarSize;
 		}
 		
