@@ -4,8 +4,6 @@
                 xmlns:local="clr-namespace:AideDeJeu.Views"
                 x:Class="AideDeJeu.Views.MainPage"
                   x:Name="This"
-                IsPresented="False"
-                  Title="Aide de Jeu"
                 >
     <MasterDetailPage.Master>
         <ContentPage Title=" ">

@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using System;
+using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace AideDeJeu.Views
@@ -11,19 +12,19 @@ namespace AideDeJeu.Views
 			InitializeComponent ();
         }
 
-        void OnSpellsClicked()
+        async void OnSpellsClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new SpellsPage());
+            await Navigation.PushAsync(new SpellsPage());
         }
 
-        void OnMonstersClicked()
+        async void OnMonstersClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new MonstersPage());
+            await Navigation.PushAsync(new MonstersPage());
         }
 
-        void OnAboutClicked()
+        async void OnAboutClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new AboutPage());
+            await Navigation.PushAsync(new AboutPage());
         }
     }
 }
