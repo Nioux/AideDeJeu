@@ -40,7 +40,7 @@ namespace AideDeJeuLib.Spells
                 if (thssort.Length > 0)
                 {
                     Spell spell = new Spell();
-                    spell.Title = thssort[0].InnerText;
+                    spell.Name = thssort[0].InnerText;
                     var href = thssort[0].Element("a").GetAttributeValue("href", "");
                     var regex = new Regex("vf=(?<id>.*)");
                     spell.Id = regex.Match(href).Groups["id"].Value;
@@ -108,8 +108,8 @@ namespace AideDeJeuLib.Spells
             foreach (var spell in spells)
             {
                 var newSpell = new Spell();
-                newSpell.Title = spell.SelectSingleNode("h1").InnerText;
-                newSpell.TitleUS = spell.SelectSingleNode("div[@class='trad']").InnerText;
+                newSpell.Name = spell.SelectSingleNode("h1").InnerText;
+                newSpell.NameUS = spell.SelectSingleNode("div[@class='trad']").InnerText;
                 newSpell.LevelType = spell.SelectSingleNode("h2/em").InnerText;
                 newSpell.Level = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
                 newSpell.Type = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];

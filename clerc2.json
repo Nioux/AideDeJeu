@@ -1,0 +1,348 @@
+[
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - abjuration",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | 9 mètres",
+      "property | Composants | V, S, M (un petit bout de vêtement blanc)",
+      "rule",
+      "text | Votre sort emplit vos alliés de robustesse et de résolution.",
+      "text |  Choisissez jusqu'à trois créatures à portée.",
+      "text |  Les points de vie maximums et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Aide (1/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "section | Aux niveaux supérieurs",
+      "text |  Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les points de vie de l'une des cibles augmentent de 5 par niveau d'emplacement au-dessus du deuxième."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Aide (2/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - évocation",
+      "rule",
+      "property | Temps d'incantation | 1 action bonus",
+      "property | Portée | 18 mètres",
+      "property | Composants | V, S",
+      "rule",
+      "text | Vous créez une arme spectrale qui flotte dans l'air, dans la portée et pour la durée du sort ou jusqu'à ce que vous incantiez ce sort à nouveau.",
+      "text |  Lorsque vous lancez ce sort, vous pouvez faire une attaque au corps à corps avec un sort contre une créature à 1,50 mètre ou moins de l'arme."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Arme spirituelle (1/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "text |  Une attaque réussie inflige des dégâts de force équivalents à 1d8 + le modificateur de votre caractéristique pour lancer des sorts.",
+      "text | En tant qu'action bonus lors de votre tour, vous pouvez déplacer l'arme jusqu'à 6 mètres et réitérer l'attaque contre une créature à 1,50 mètre ou moins de l'arme.",
+      "text | L'arme peut prendre la forme de votre choix.",
+      "text |  Les clercs d'une divinité associée à une arme particulière (tel que Saint-Cuthbert connu pour sa masse d'armes ou Thor pour son marteau) peuvent faire en sorte que l'effet du sort prenne la forme de l'arme en question."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Arme spirituelle (2/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "section | Aux niveaux supérieurs",
+      "text |  Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts infligés augmentent de 1d8 pour chaque niveau d'emplacement pair supérieur au niveau 2."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Arme spirituelle (3/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - divination (rituel)",
+      "rule",
+      "property | Temps d'incantation | 1 minute",
+      "property | Portée | personnelle",
+      "property | Composants | V, S, M (jeu de bâtonnets ou d'osselets spécialement inscrits valant au moins 25 po)",
+      "rule",
+      "text | Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dragon, en retournant des cartes ornées ou en usant d'autres outils divinatoires, vous recevez un présage de la part d'une entité surnaturelle à propos du résultat des actions que vous planifiez d'entreprendre au cours des 30 prochaines minutes."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Augure (1/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "text |  Le MD choisit de répondre à l'aide des présages suivants :",
+      "bullet |  Fortune : l'action a de bonnes chances d'être bénéfique.",
+      "bullet |  Péril : l'action aura des répercussions néfastes.",
+      "bullet |  Péril et fortune : les deux sont possibles.",
+      "bullet |  Rien : dans le cas où l'action ne devrait pas avoir de conséquences favorables ou néfastes.Le sort ne considère pas les circonstances qui pourraient changer l'issue de la divination, comme l'incantation additionnelle de sorts ou la perte ou le gain d'un nouveau compagnon."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Augure (2/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "text | Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25 % de recevoir une réponse aléatoire, et ce, à chaque incantation après la première.",
+      "text |  Le MD fait ce jet en secret."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Augure (3/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - enchantement",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | 18 mètres",
+      "property | Composants | V, S, M (un petit morceau de fer droit)",
+      "rule",
+      "text | Choisissez un humanoïde visible dans la portée du sort.",
+      "text |  La cible doit réussir un jet de sauvegarde de Sagesse sans quoi elle est paralysée pour la durée du sort.",
+      "text |  À la fin de chacun de ses tours de jeu, la cible peut faire un autre jet de sauvegarde de Sagesse.",
+      "text |  Si elle réussit, le sort prend fin."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Immobilisation de personne (1/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "section | Aux niveaux supérieurs",
+      "text |  Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez cibler un humanoïde supplémentaire pour chaque niveau d'emplacement supérieur au niveau 2.",
+      "text |  Les humanoïdes doivent être situés à 9 mètres ou moins les uns des autres."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Immobilisation de personne (2/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - abjuration",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | contact",
+      "property | Composants | V, S, M (une paire d'anneaux de platine d'une valeur d'au moins de 50 po chacun, que vous et la cible devez porter durant la durée du sort)",
+      "rule",
+      "text | Ce sort protège une créature consentante que vous touchez et crée une connexion mystique entre vous et la cible jusqu'à ce que le sort se termine."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Lien de protection (1/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "text |  Aussi longtemps que la cible n'est pas éloignée de plus de 18 mètres de vous, elle gagne un bonus de +1 à la CA, +1 aux jets de sauvegarde et obtient une résistance à tous les dégâts.",
+      "text |  De plus, chaque fois qu'elle subit des dégâts, vous recevez la même quantité de dégâts.",
+      "text | Le sort se termine si vous tombez à 0 point de vie ou si vous et la cible êtes séparés de plus de 18 mètres de distance.",
+      "text |  Le sort prend également fin s'il est lancé à nouveau sur l'une des créatures connectées.",
+      "text |  Vous pouvez également rompre le sort au prix d'une action."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Lien de protection (2/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - évocation",
+      "rule",
+      "property | Temps d'incantation | 10 minutes",
+      "property | Portée | 9 mètres",
+      "property | Composants | V",
+      "rule",
+      "text | Jusqu'à six créatures de votre choix visibles dans la portée du sort récupèrent chacune des points de vie équivalant à 2d8 + le modificateur de votre caractéristique pour lancer des sorts.",
+      "text |  Ce sort n'a pas d'effet sur les morts-vivants et les créatures artificielles."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Prière de guérison (1/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "section | Aux niveaux supérieurs",
+      "text |  Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les points de vie récupérés augmentent de 1d8 pour chaque niveau d'emplacement supérieur au niveau 2."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Prière de guérison (2/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - abjuration",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | contact",
+      "property | Composants | V, S",
+      "rule",
+      "text | Vous touchez une créature et vous pouvez mettre fin à une maladie ou à une condition l'affligeant.",
+      "text |  La condition peut être aveuglé, assourdi, paralysé ou empoisonné."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Restauration partielle",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 2 - illusion (rituel)",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | 36 mètres",
+      "property | Composants | V, S",
+      "rule",
+      "text | Pour la durée du sort, aucun son ne peut être créé au sein (ou passer à travers) d'une sphère de 6 mètres de rayon centrée sur le point que vous choisissez dans la portée du sort.",
+      "text |  Toute créature ou objet se trouvant entièrement à l'intérieur de la sphère est immunisé contre les dégâts de tonnerre et les créatures sont en plus assourdies."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Silence (1/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "text | Lancer un sort qui comprend une composante verbale à l'intérieur de la sphère est impossible."
+    ],
+    "count": 1,
+    "icon": "white-book-2",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Silence (2/2)",
+    "title_size": "10"
+  }
+]

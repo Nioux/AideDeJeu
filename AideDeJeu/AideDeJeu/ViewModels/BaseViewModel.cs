@@ -12,8 +12,6 @@ namespace AideDeJeu.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        //public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>() ?? new MockDataStore();
-        //public IDataStore<Spell> SpellDataStore => DependencyService.Get<IDataStore<Spell>>() ?? new SpellDataStore();
         public SpellsScrappers SpellsScrappers => DependencyService.Get<SpellsScrappers>() ?? new SpellsScrappers();
         public MonstersScrappers MonsterScrappers => DependencyService.Get<MonstersScrappers>() ?? new MonstersScrappers();
 

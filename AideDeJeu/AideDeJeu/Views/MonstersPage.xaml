@@ -11,23 +11,6 @@
         <ContentPage Title="Liste des monstres">
             <ScrollView Orientation="Vertical">
                 <StackLayout Orientation="Vertical" Padding="15">
-                    <!--<StackLayout Orientation="Horizontal">
-                    <Button Clicked="OnPlay" Image="ic_play.png" />
-                    <Button Clicked="OnStop" Image="ic_stop.png" />
-                </StackLayout>-->
-                    <!--<ListView x:Name="NavigationView" ItemsSource="{Binding MainMenu}">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <TextCell Text="{Binding Title}" TextColor="Black" Command="{Binding Path=BindingContext.OpenUrl, Source={x:Reference Name=This}}" CommandParameter="{Binding Url}" />
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>-->
-                    <!--<Label Text="Liste" />
-                <Picker HorizontalOptions="FillAndExpand">
-                    <Picker.Items>
-                        <x:String>Sorts</x:String>
-                    </Picker.Items>
-                </Picker>-->
 
                     <Label Text="Catégorie" Style="{StaticResource Key=subsubsection}" />
                     <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding Categories, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Category}" />

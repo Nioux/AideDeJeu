@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 
 namespace AideDeJeuLib.Monsters
 {
-    public class Monster
+    public class Monster : Item
     {
         public string Id { get; set; }
         public string Name { get; set; }

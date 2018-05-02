@@ -7,11 +7,11 @@ using System.Text.RegularExpressions;
 
 namespace AideDeJeuLib.Spells
 {
-    public class Spell
+    public class Spell : Item
     {
         public string Id { get; set; }
-        public string Title { get; set; }
-        public string TitleUS { get; set; }
+        public string Name { get; set; }
+        public string NameUS { get; set; }
         public string LevelType { get; set; }
         public string Level { get; set; }
         public string Type { get; set; }
@@ -50,8 +50,8 @@ namespace AideDeJeuLib.Spells
         public static Spell FromHtml(HtmlNode nodeSpell)
         {
             var spell = new Spell();
-            spell.Title = nodeSpell.SelectSingleNode("h1").InnerText;
-            spell.TitleUS = nodeSpell.SelectSingleNode("div[@class='trad']").InnerText;
+            spell.Name = nodeSpell.SelectSingleNode("h1").InnerText;
+            spell.NameUS = nodeSpell.SelectSingleNode("div[@class='trad']").InnerText;
             spell.LevelType = nodeSpell.SelectSingleNode("h2/em").InnerText;
             spell.Level = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
             spell.Type = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];

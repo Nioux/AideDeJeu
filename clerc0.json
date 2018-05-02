@@ -1,0 +1,179 @@
+[
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 0 - divination",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | contact",
+      "property | Composants | V, S",
+      "rule",
+      "text | Vous touchez une créature consentante.",
+      "text |  Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de caractéristique de son choix.",
+      "text |  Elle peut lancer le dé avant ou après avoir effectué son jet de caractéristique.",
+      "text |  Le sort prend alors fin."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Assistance",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 0 - évocation",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | 18 mètres",
+      "property | Composants | V, S",
+      "rule",
+      "text | Un rayonnement semblable à des flammes descend sur une créature que vous pouvez voir dans la portée du sort.",
+      "text |  La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts radiants.",
+      "text |  La cible ne gagne aucun bénéfice d'abri pour ce jet de sauvegarde.",
+      "text | Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8), et le niveau 17 (4d8)."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Flamme sacrée",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 0 - évocation",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | contact",
+      "property | Composants | V, M (une luciole ou de la mousse phosphorescente)",
+      "rule",
+      "text | Vous touchez un objet qui ne dépasse pas 3 mètres dans toutes les dimensions.",
+      "text |  Jusqu'à la fin du sort, l'objet émet une lumière vive dans un rayon de 6 mètres et une lumière faible sur 6 mètres supplémentaires.",
+      "text |  La lumière est de la couleur que vous voulez."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Lumière (1/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "text |  Couvrir complètement l'objet avec quelque chose d'opaque bloque la lumière.",
+      "text |  Le sort se termine si vous le lancez de nouveau ou si vous le dissipez par une action.",
+      "text | Si vous ciblez un objet tenu ou porté par une créature hostile, cette créature doit réussir un jet de sauvegarde de Dextérité pour éviter le sort."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Lumière (2/2)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 0 - Abjuration",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | contact",
+      "property | Composants | V, S, M (une cape miniature)",
+      "rule",
+      "text | Vous touchez une créature consentante.",
+      "text |  Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de sauvegarde de son choix.",
+      "text |  Elle peut lancer le dé avant ou après avoir effectué son jet de sauvegarde.",
+      "text |  Le sort prend alors fin."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Résistance",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "subtitle | niveau 0 - transmutation",
+      "rule",
+      "property | Temps d'incantation | 1 action",
+      "property | Portée | 9 mètres",
+      "property | Composants | V",
+      "rule",
+      "text | Vous simulez une chose extraordinaire, un signe de puissance surnaturelle.",
+      "text |  Vous créez un des effets magiques suivants dans la limite de portée du sort :",
+      "bullet |  Votre voix devient trois fois plus puissante que la normale pour 1 minute.",
+      "bullet |  Vous faîtes vaciller des flammes, augmentez ou diminuez leur intensité, ou bien encore vous changez leur couleur pendant 1 minute."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Thaumaturgie (1/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "bullet |  Vous causez des tremblements inoffensifs dans le sol pendant 1 minute.",
+      "bullet |  Vous créez un son instantané qui provient d'un point de votre choix dans la limite de portée du sort, tel qu'un grondement de tonnerre, le cri d'un corbeau ou des chuchotements de mauvais augure.",
+      "bullet |  Vous provoquez instantanément l'ouverture ou le claquement brusque d'une porte ou d'une fenêtre non verrouillée."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Thaumaturgie (2/3)",
+    "title_size": "10"
+  },
+  {
+    "background_image": "https://image.noelshack.com/fichiers/2018/16/1/1523909387-clerc.png",
+    "color": "blue",
+    "contents": [
+      "bullet |  Vous altérez l'apparence de vos yeux pendant 1 minute.",
+	  "text | Si vous lancez ce sort plusieurs fois, vous pouvez avoir activement jusqu'à trois de ses effets à la fois, et vous pouvez rompre un effet au prix d'une action."
+    ],
+    "count": 1,
+    "icon": "white-book-0",
+    "icon_back": "robe",
+    "tags": [
+      "sort",
+      "magicien"
+    ],
+    "title": "Thaumaturgie (3/3)",
+    "title_size": "10"
+  }
+]

@@ -7,12 +7,13 @@ using Xamarin.Forms;
 
 using AideDeJeuLib.Spells;
 using System.Collections.Generic;
+using AideDeJeuLib;
 
 namespace AideDeJeu.ViewModels
 {
     public class SpellsViewModel : BaseViewModel
     {
-        public ObservableCollection<Spell> Items { get; set; }
+        public ObservableCollection<Item> Items { get; set; }
 
         public List<KeyValuePair<string, string>> Classes { get; set; } = new List<KeyValuePair<string, string>>()
         {
@@ -161,7 +162,7 @@ namespace AideDeJeu.ViewModels
         public SpellsViewModel()
         {
             //Title = "Browse";
-            Items = new ObservableCollection<Spell>();
+            Items = new ObservableCollection<Item>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
 
             //MessagingCenter.Subscribe<NewItemPage, Spell>(this, "AddItem", async (obj, item) =>
@@ -172,7 +173,7 @@ namespace AideDeJeu.ViewModels
             //});
         }
 
-        async Task ExecuteLoadItemsCommand()
+        public async Task ExecuteLoadItemsCommand()
         {
             if (IsBusy)
                 return;

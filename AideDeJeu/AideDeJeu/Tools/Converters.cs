@@ -83,4 +83,31 @@ namespace AideDeJeu.Tools
         }
     }
 
+    public class ItemsTypeTemplateConverter : IValueConverter
+    {
+        public ControlTemplate SpellsTemplate { get; set; }
+        public ControlTemplate MonstersTemplate { get; set; }
+
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            var itemType = value as ViewModels.ItemsViewModel.ItemType?;
+            if (itemType == ViewModels.ItemsViewModel.ItemType.Spell)
+            {
+                return SpellsTemplate;
+            }
+            if (itemType == ViewModels.ItemsViewModel.ItemType.Monster)
+            {
+                return MonstersTemplate;
+            }
+            return null;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return null;
+        }
+    }
+
+
+
 }

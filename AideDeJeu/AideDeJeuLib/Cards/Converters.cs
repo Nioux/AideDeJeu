@@ -112,7 +112,7 @@ namespace AideDeJeuLib.Cards
             var cardData = new CardData();
             cardData.Count = 1;
             cardData.Color = color;
-            cardData.Title = spell.Title;
+            cardData.Title = spell.Name;
             cardData.TitleSize = "10";
             cardData.Icon = "white-book-" + spell.Level;
             cardData.IconBack = "robe";

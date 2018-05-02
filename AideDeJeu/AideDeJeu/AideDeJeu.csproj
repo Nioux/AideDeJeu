@@ -33,6 +33,9 @@
     <Compile Update="Views\SpellDetailPage.xaml.cs">
       <DependentUpon>SpellDetailPage.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\ItemsPage.xaml.cs">
+      <DependentUpon>ItemsPage.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\SpellsPage.xaml.cs">
       <SubType>Code</SubType>
       <DependentUpon>SpellsPage.xaml</DependentUpon>

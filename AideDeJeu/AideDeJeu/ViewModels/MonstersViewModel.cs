@@ -7,12 +7,13 @@ using Xamarin.Forms;
 
 using System.Collections.Generic;
 using AideDeJeuLib.Monsters;
+using AideDeJeuLib;
 
 namespace AideDeJeu.ViewModels
 {
     public class MonstersViewModel : BaseViewModel
     {
-        public ObservableCollection<Monster> Items { get; set; }
+        public ObservableCollection<Item> Items { get; set; }
 
         public List<KeyValuePair<string, string>> Categories { get; set; } = new List<KeyValuePair<string, string>>()
         {
@@ -189,11 +190,11 @@ namespace AideDeJeu.ViewModels
 
         public MonstersViewModel()
         {
-            Items = new ObservableCollection<Monster>();
+            Items = new ObservableCollection<Item>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
         }
 
-        async Task ExecuteLoadItemsCommand()
+        public async Task ExecuteLoadItemsCommand()
         {
             if (IsBusy)
                 return;
