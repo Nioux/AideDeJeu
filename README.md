@@ -6,4 +6,5 @@ Ce site contient plusieurs ressources pour vos parties du plus ancien et plus c�
 * une liste des [erratas du PHB au format PDF](https://github.com/Nioux/AideDeJeu/blob/master/Docs/dd5_phb_erratas.pdf)
 * un [lexique français-anglais et anglais-français](https://github.com/Nioux/AideDeJeu/blob/master/Docs/fr_ro_lexicon.pdf) des termes géographiques des Royaumes Oubliés
 
-L'application est disponible sur [Google Play](https://play.google.com/store/apps/details?id=com.nioux.aidedejeu)
+[![Google Play](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.Android/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.nioux.aidedejeu)
+
