@@ -42,6 +42,15 @@
                         </FormattedString>
                     </Label.FormattedText>
                 </Label>
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="Les icones proviennent du site Game-icons.net" />
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
                 <Button Margin="0,10,0,0" Text="Site web" Command="{Binding OpenWebCommand}" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
             </StackLayout>
         </ScrollView>

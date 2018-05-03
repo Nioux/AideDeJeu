@@ -82,8 +82,9 @@
     <MasterDetailPage.Detail>
         <ContentPage Title="Liste des sorts">
             <ContentPage.ToolbarItems>
-                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding SwitchToSpells}" />
-                <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="ic_home.png" Command="{Binding SwitchToMonsters}" />
+                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
+                <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
+                <ToolbarItem Name="About" Text="A propos de" Order="Primary" Icon="wooden_sign.png" Command="{Binding SwitchToMonsters}" />
                 <!--<ToolbarItem Name="Home" Text="Accueil" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />
                 <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="ic_home.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/" />-->
                 <!--<ToolbarItem Name="Blog" Text="Blog" Order="Primary" Icon="ic_blog.png" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/Blog/" />
