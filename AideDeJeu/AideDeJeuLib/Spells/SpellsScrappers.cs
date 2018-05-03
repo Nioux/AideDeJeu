@@ -109,7 +109,7 @@ namespace AideDeJeuLib.Spells
             {
                 var newSpell = new Spell();
                 newSpell.Name = spell.SelectSingleNode("h1").InnerText;
-                newSpell.NameUS = spell.SelectSingleNode("div[@class='trad']").InnerText;
+                newSpell.NameVO = spell.SelectSingleNode("div[@class='trad']").InnerText;
                 newSpell.LevelType = spell.SelectSingleNode("h2/em").InnerText;
                 newSpell.Level = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
                 newSpell.Type = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];

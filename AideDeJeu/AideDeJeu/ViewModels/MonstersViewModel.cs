@@ -128,7 +128,7 @@ namespace AideDeJeu.ViewModels
                 LoadItemsCommand.Execute(null);
             }
         }
-        private int _MaxPower = 9;
+        private int _MaxPower = 11;
         public int MaxPower
         {
             get

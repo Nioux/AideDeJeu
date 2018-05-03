@@ -11,6 +11,7 @@ namespace AideDeJeuLib.Monsters
         public string Id { get; set; }
         public string Name { get; set; }
         public string NameVO { get; set; }
+        public string NamePHB { get; set; }
         public string Power { get; set; }
         public string Type { get; set; }
         public string Size { get; set; }
@@ -48,7 +49,12 @@ namespace AideDeJeuLib.Monsters
             var monster = new Monster();
             var divMonster = divBloc?.SelectSingleNode("div[contains(@class,'monstre')]");
             monster.Name = divMonster?.SelectSingleNode("h1").InnerText;
-            monster.NameVO = divMonster?.SelectSingleNode("div[contains(@class,'trad')]/a")?.InnerText;
+
+            var altNames = divMonster.SelectSingleNode("div[@class='trad']").InnerText;
+            var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
+            monster.NameVO = matchNames.Groups["vo"].Value;
+            monster.NamePHB = matchNames.Groups["alt"].Value;
+
             var divSansSerif = divMonster?.SelectSingleNode("div[contains(@class,'sansSerif')]");
             var typeSizeAlignment = divSansSerif?.SelectSingleNode("h2/em")?.InnerText;
             if (typeSizeAlignment != null)

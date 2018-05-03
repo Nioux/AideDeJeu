@@ -18,6 +18,8 @@
             <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
             
             <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsection}" />
+            <Label Text="{Binding Item.NameVO}" Style="{StaticResource Key=content}" />
+            <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=content}" />
 
             <!--<Label Text=" " />-->
 

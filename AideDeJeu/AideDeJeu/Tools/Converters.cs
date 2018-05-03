@@ -108,6 +108,30 @@ namespace AideDeJeu.Tools
         }
     }
 
+    public class ItemTypeConverter<T> : IValueConverter
+    {
+        public T Spells { get; set; }
+        public T Monsters { get; set; }
 
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            var itemType = value as ViewModels.ItemsViewModel.ItemType?;
+            if (itemType == ViewModels.ItemsViewModel.ItemType.Spell)
+            {
+                return Spells;
+            }
+            if (itemType == ViewModels.ItemsViewModel.ItemType.Monster)
+            {
+                return Monsters;
+            }
+            return null;
+        }
 
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return null;
+        }
+    }
+
+    public class ItemTypeToStringConverter : ItemTypeConverter<string> { }
 }

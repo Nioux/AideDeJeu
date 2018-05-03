@@ -17,7 +17,8 @@ namespace AideDeJeu.Views
 		{
 			InitializeComponent ();
 
-            BindingContext = viewModel = new ItemsViewModel();
+            BindingContext = viewModel = new ItemsViewModel(Navigation);
+            
         }
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
@@ -54,5 +55,7 @@ namespace AideDeJeu.Views
             if (viewModel.Items.Count == 0)
                 viewModel.LoadItemsCommand.Execute(null);
         }
+
+        
     }
 }

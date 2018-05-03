@@ -56,14 +56,16 @@ namespace AideDeJeu.ViewModels
 
         public Command SwitchToSpells { get; set; }
         public Command SwitchToMonsters { get; set; }
+        public Command AboutCommand { get; set; }
 
-        public ItemsViewModel()
+        public ItemsViewModel(INavigation navigation)
         {
             //Title = "Browse";
             //Items = new ObservableCollection<Item>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
             SwitchToSpells = new Command(() => ItemsType = ItemType.Spell);
             SwitchToMonsters = new Command(() => ItemsType = ItemType.Monster);
+            AboutCommand = new Command(async() => await navigation.PushAsync(new Views.AboutPage()));
         }
 
         async Task ExecuteLoadItemsCommand()
@@ -72,7 +74,7 @@ namespace AideDeJeu.ViewModels
             {
                 await Spells.ExecuteLoadItemsCommand();
             }
-            if (ItemsType == ItemType.Monster)
+            else if (ItemsType == ItemType.Monster)
             {
                 await Monsters.ExecuteLoadItemsCommand();
             }

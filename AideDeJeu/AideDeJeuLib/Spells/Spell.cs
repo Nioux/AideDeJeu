@@ -11,7 +11,8 @@ namespace AideDeJeuLib.Spells
     {
         public string Id { get; set; }
         public string Name { get; set; }
-        public string NameUS { get; set; }
+        public string NameVO { get; set; }
+        public string NamePHB { get; set; }
         public string LevelType { get; set; }
         public string Level { get; set; }
         public string Type { get; set; }
@@ -51,7 +52,10 @@ namespace AideDeJeuLib.Spells
         {
             var spell = new Spell();
             spell.Name = nodeSpell.SelectSingleNode("h1").InnerText;
-            spell.NameUS = nodeSpell.SelectSingleNode("div[@class='trad']").InnerText;
+            var altNames = nodeSpell.SelectSingleNode("div[@class='trad']").InnerText;
+            var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
+            spell.NameVO = matchNames.Groups["vo"].Value;
+            spell.NamePHB = matchNames.Groups["alt"].Value;
             spell.LevelType = nodeSpell.SelectSingleNode("h2/em").InnerText;
             spell.Level = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
             spell.Type = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];

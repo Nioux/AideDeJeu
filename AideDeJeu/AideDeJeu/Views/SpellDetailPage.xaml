@@ -5,7 +5,9 @@
              Title="{Binding Title}">
     <ScrollView>
         <StackLayout Orientation="Vertical" Padding="15">
-            <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsubsection}" />
+            <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsection}" />
+            <Label Text="{Binding Item.NameVO}" Style="{StaticResource Key=content}" />
+            <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=content}" />
 
             <Label Text=" " />
 
