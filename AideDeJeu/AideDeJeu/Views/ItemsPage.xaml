@@ -78,13 +78,13 @@
         </ResourceDictionary>
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
-        <ContentPage Title="Liste des sorts 3">
+        <ContentPage Title=" ">
             <ContentView ControlTemplate="{Binding ItemsType, Converter={StaticResource ItemsTypeTemplateConverter}}" BindingContext="{Binding}" />
             <!--<ContentView ControlTemplate="{StaticResource SpellsMasterDataTemplate}" BindingContext="{Binding}" />-->
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <ContentPage Title="Liste des sorts 2">
+        <ContentPage Title="">
             <ContentPage.ToolbarItems>
                 <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
                 <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
