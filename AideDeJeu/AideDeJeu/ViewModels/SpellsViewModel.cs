@@ -23,18 +23,18 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("k", "Sorcier" ),
         };
 
-        public List<KeyValuePair<int, string>> Niveaux { get; set; } = new List<KeyValuePair<int, string>>()
+        public List<KeyValuePair<string, string>> Niveaux { get; set; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<int, string>(0, "Sorts mineurs"),
-            new KeyValuePair<int, string>(1, "Niveau 1"),
-            new KeyValuePair<int, string>(2, "Niveau 2"),
-            new KeyValuePair<int, string>(3, "Niveau 3"),
-            new KeyValuePair<int, string>(4, "Niveau 4"),
-            new KeyValuePair<int, string>(5, "Niveau 5"),
-            new KeyValuePair<int, string>(6, "Niveau 6"),
-            new KeyValuePair<int, string>(7, "Niveau 7"),
-            new KeyValuePair<int, string>(8, "Niveau 8"),
-            new KeyValuePair<int, string>(9, "Niveau 9"),
+            new KeyValuePair<string, string>("Z", "Sorts mineurs"),
+            new KeyValuePair<string, string>("1", "Niveau 1"),
+            new KeyValuePair<string, string>("2", "Niveau 2"),
+            new KeyValuePair<string, string>("3", "Niveau 3"),
+            new KeyValuePair<string, string>("4", "Niveau 4"),
+            new KeyValuePair<string, string>("5", "Niveau 5"),
+            new KeyValuePair<string, string>("6", "Niveau 6"),
+            new KeyValuePair<string, string>("7", "Niveau 7"),
+            new KeyValuePair<string, string>("8", "Niveau 8"),
+            new KeyValuePair<string, string>("9", "Niveau 9"),
         };
 
         public List<KeyValuePair<string, string>> Ecoles { get; set; } = new List<KeyValuePair<string, string>>()
@@ -167,7 +167,7 @@ namespace AideDeJeu.ViewModels
             try
             {
                 AllItems.Clear();
-                var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: NiveauMin, niveauMax: NiveauMax, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
                 foreach (var item in items)
                 {
                     AllItems.Add(item);

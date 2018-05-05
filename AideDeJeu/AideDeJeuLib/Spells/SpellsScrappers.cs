@@ -21,14 +21,15 @@ namespace AideDeJeuLib.Spells
             return client;
         }
 
-        public async Task<IEnumerable<Spell>> GetSpells(string classe = "", int niveauMin = 0, int niveauMax = 9, string ecole = "", string rituel = "", string source = "srd")
+        public async Task<IEnumerable<Spell>> GetSpells(string classe = "", string niveauMin = "", string niveauMax = "", string ecole = "", string rituel = "", string source = "srd")
         {
             string html = null;
             using (var client = GetHttpClient())
             {
                 // https://www.aidedd.org/regles/sorts/
 
-                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min=1{1}&max=1{2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source));
+                var url = string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
+                html = await client.GetStringAsync(url);
             }
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
