@@ -16,10 +16,15 @@ namespace AideDeJeu.Views
         public ItemsPage ()
 		{
 			InitializeComponent ();
-
             BindingContext = viewModel = new ItemsViewModel(Navigation);
-            
         }
+
+        protected override bool OnBackButtonPressed()
+        {
+            IsPresented = !IsPresented;
+            return true;
+        }
+
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
         {
@@ -55,7 +60,5 @@ namespace AideDeJeu.Views
             if (viewModel.Items.Count == 0)
                 viewModel.LoadItemsCommand.Execute(null);
         }
-
-        
     }
 }
