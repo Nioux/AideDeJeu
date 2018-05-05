@@ -8,10 +8,6 @@ namespace AideDeJeuLib.Monsters
 {
     public class Monster : Item
     {
-        public string Id { get; set; }
-        public string Name { get; set; }
-        public string NameVO { get; set; }
-        public string NamePHB { get; set; }
         public string Power { get; set; }
         public string Type { get; set; }
         public string Size { get; set; }

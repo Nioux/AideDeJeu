@@ -23,7 +23,9 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
+                CurrentViewModel.SearchText = "";
                 SetProperty(ref _ItemsType, value);
+                CurrentViewModel.SearchText = "";
                 OnPropertyChanged(nameof(CurrentViewModel));
                 LoadItemsCommand.Execute(null);
             }
@@ -47,19 +49,23 @@ namespace AideDeJeu.ViewModels
         public ObservableCollection<Item> Items { get; private set; } = new ObservableCollection<Item>();
 
         public Command LoadItemsCommand { get; private set; }
+        public Command<Item> GotoItemCommand { get; private set; }
 
         public Command SwitchToSpells { get; private set; }
         public Command SwitchToMonsters { get; private set; }
         public Command AboutCommand { get; private set; }
+        public Command<string> SearchCommand { get; private set; }
 
         public MainViewModel(INavigator navigator)
         {
-            Spells = new SpellsViewModel(Items);
-            Monsters = new MonstersViewModel(Items);
+            Spells = new SpellsViewModel(navigator, Items);
+            Monsters = new MonstersViewModel(navigator, Items);
             LoadItemsCommand = new Command(async () => await CurrentViewModel.ExecuteLoadItemsCommandAsync());
+            GotoItemCommand = new Command<Item>(async (item) => await CurrentViewModel.ExecuteGotoItemCommandAsync(item));
             SwitchToSpells = new Command(() => ItemsType = ItemType.Spell);
             SwitchToMonsters = new Command(() => ItemsType = ItemType.Monster);
             AboutCommand = new Command(async() => await navigator.GotoAboutPageAsync());
+            SearchCommand = new Command<string>((text) => CurrentViewModel.SearchText = text);
         }
     }
 }

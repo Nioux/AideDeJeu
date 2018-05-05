@@ -27,30 +27,15 @@
                             <FormattedString.Spans>
                                 <Span Text="Aide de Jeu" FontAttributes="Bold" FontSize="22" />
                                 <Span Text=" " />
-                                <Span Text="1.01" ForegroundColor="{StaticResource LightTextColor}" />
+                                <Span Text="1.02" ForegroundColor="{StaticResource LightTextColor}" />
                             </FormattedString.Spans>
                         </FormattedString>
                     </Label.FormattedText>
                 </Label>
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <FormattedString.Spans>
-                                <Span Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
-                                <Span Text="Son contenu provient du site AideDD, et est traduit du SRD" />
-                            </FormattedString.Spans>
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <FormattedString.Spans>
-                                <Span Text="Les icones proviennent du site Game-icons.net" />
-                            </FormattedString.Spans>
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
+                <Label Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
+                <Label Text="Son contenu provient du site AideDD, et est traduit du SRD" />
+                <Label Text="Les icones proviennent du site Game-icons.net" />
+
                 <Button Margin="0,10,0,0" Text="Site web" Command="{Binding OpenWebCommand}" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
             </StackLayout>
         </ScrollView>

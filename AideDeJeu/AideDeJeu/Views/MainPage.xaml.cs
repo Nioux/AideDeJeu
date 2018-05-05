@@ -30,26 +30,27 @@ namespace AideDeJeu.Views
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
         {
-            if (args.SelectedItem is Spell)
-            {
-                var item = args.SelectedItem as Spell;
-                if (item == null)
-                    return;
+            viewModel.GotoItemCommand.Execute(args.SelectedItem);
+            //if (args.SelectedItem is Spell)
+            //{
+            //    var item = args.SelectedItem as Spell;
+            //    if (item == null)
+            //        return;
 
-                var vm = new SpellDetailViewModel(item);
-                vm.LoadItemCommand.Execute(null);
-                await Navigation.PushAsync(new SpellDetailPage(vm));
-            }
-            else if (args.SelectedItem is Monster)
-            {
-                var item = args.SelectedItem as Monster;
-                if (item == null)
-                    return;
+            //    var vm = new SpellDetailViewModel(item);
+            //    vm.LoadItemCommand.Execute(null);
+            //    await Navigation.PushAsync(new SpellDetailPage(vm));
+            //}
+            //else if (args.SelectedItem is Monster)
+            //{
+            //    var item = args.SelectedItem as Monster;
+            //    if (item == null)
+            //        return;
 
-                var vm = new MonsterDetailViewModel(item);
-                vm.LoadItemCommand.Execute(null);
-                await Navigation.PushAsync(new MonsterDetailPage(vm));
-            }
+            //    var vm = new MonsterDetailViewModel(item);
+            //    vm.LoadItemCommand.Execute(null);
+            //    await Navigation.PushAsync(new MonsterDetailPage(vm));
+            //}
 
             // Manually deselect item.
             ItemsListView.SelectedItem = null;

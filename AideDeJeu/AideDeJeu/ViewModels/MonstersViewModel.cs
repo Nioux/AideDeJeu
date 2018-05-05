@@ -181,8 +181,8 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public MonstersViewModel(ObservableCollection<Item> items)
-            : base(items)
+        public MonstersViewModel(INavigator navigator, ObservableCollection<Item> items)
+            : base(navigator, items)
         {
         }
 
@@ -195,12 +195,13 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                Items.Clear();
+                AllItems.Clear();
                 var monsters = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
                 foreach (var monster in monsters)
                 {
-                    Items.Add(monster);
+                    AllItems.Add(monster);
                 }
+                FilterItems();
             }
             catch (Exception ex)
             {
@@ -211,5 +212,11 @@ namespace AideDeJeu.ViewModels
                 IsBusy = false;
             }
         }
+
+        public override async Task ExecuteGotoItemCommandAsync(Item item)
+        {
+            await Navigator.GotoMonsterDetailPageAsync(item as Monster);
+        }
+
     }
 }

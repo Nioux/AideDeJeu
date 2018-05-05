@@ -9,10 +9,6 @@ namespace AideDeJeuLib.Spells
 {
     public class Spell : Item
     {
-        public string Id { get; set; }
-        public string Name { get; set; }
-        public string NameVO { get; set; }
-        public string NamePHB { get; set; }
         public string LevelType { get; set; }
         public string Level { get; set; }
         public string Type { get; set; }

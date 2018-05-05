@@ -152,8 +152,8 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public SpellsViewModel(ObservableCollection<Item> items)
-            : base(items)
+        public SpellsViewModel(INavigator navigator, ObservableCollection<Item> items)
+            : base(navigator, items)
         {
         }
 
@@ -166,12 +166,13 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                Items.Clear();
+                AllItems.Clear();
                 var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: NiveauMin, niveauMax: NiveauMax, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
                 foreach (var item in items)
                 {
-                    Items.Add(item);
+                    AllItems.Add(item);
                 }
+                FilterItems();
             }
             catch (Exception ex)
             {
@@ -182,5 +183,11 @@ namespace AideDeJeu.ViewModels
                 IsBusy = false;
             }
         }
+
+        public override async Task ExecuteGotoItemCommandAsync(Item item)
+        {
+            await Navigator.GotoSpellDetailPageAsync(item as Spell);
+        }
+
     }
 }

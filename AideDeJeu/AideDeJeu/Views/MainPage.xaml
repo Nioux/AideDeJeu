@@ -105,8 +105,12 @@
                 <ToolbarItem Text="Inscription" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/register.aspx" />-->
             </ContentPage.ToolbarItems>
             <StackLayout Orientation="Vertical">
-                <SearchBar />
-
+                <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                    <SearchBar.Behaviors>
+                        <tools:TextChangedBehavior />
+                    </SearchBar.Behaviors>
+                </SearchBar>
+                
                 <ListView x:Name="ItemsListView" 
                 ItemsSource="{Binding Items}"
                 VerticalOptions="FillAndExpand"
