@@ -1,20 +1,15 @@
-﻿using System;
+﻿using AideDeJeuLib;
+using AideDeJeuLib.Spells;
+using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-using Xamarin.Forms;
-
-using AideDeJeuLib.Spells;
-using System.Collections.Generic;
-using AideDeJeuLib;
-
 namespace AideDeJeu.ViewModels
 {
-    public class SpellsViewModel : BaseViewModel
+    public class SpellsViewModel : ItemsViewModel
     {
-        public ObservableCollection<Item> Items { get; set; }
-
         public List<KeyValuePair<string, string>> Classes { get; set; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes" ),
@@ -157,23 +152,12 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public Command LoadItemsCommand { get; set; }
-
-        public SpellsViewModel()
+        public SpellsViewModel(ObservableCollection<Item> items)
+            : base(items)
         {
-            //Title = "Browse";
-            Items = new ObservableCollection<Item>();
-            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
-
-            //MessagingCenter.Subscribe<NewItemPage, Spell>(this, "AddItem", async (obj, item) =>
-            //{
-            //    var _item = item as Item;
-            //    Items.Add(_item);
-            //    await DataStore.AddItemAsync(_item);
-            //});
         }
 
-        public async Task ExecuteLoadItemsCommand()
+        public override async Task ExecuteLoadItemsCommandAsync()
         {
             if (IsBusy)
                 return;
@@ -182,15 +166,6 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                //<option value="b">Barde</option>
-                //<option value="c">Clerc</option>
-                //<option value="d">Druide</option>
-                //<option value="s">Ensorceleur</option>
-                //<option value="w">Magicien</option>
-                //<option value="p">Paladin</option>
-                //<option value="r">Rôdeur</option>
-                //<option value="k">Sorcier</option>
-
                 Items.Clear();
                 var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: NiveauMin, niveauMax: NiveauMax, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
                 foreach (var item in items)

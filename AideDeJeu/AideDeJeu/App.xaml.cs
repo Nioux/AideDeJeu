@@ -12,8 +12,7 @@ namespace AideDeJeu
 		{
 			InitializeComponent();
 
-            //MainPage = new ItemsPage();
-            MainPage = new NavigationPage(new ItemsPage());
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart ()

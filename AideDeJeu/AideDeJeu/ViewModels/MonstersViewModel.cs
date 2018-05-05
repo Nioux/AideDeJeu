@@ -1,20 +1,15 @@
-﻿using System;
+﻿using AideDeJeuLib;
+using AideDeJeuLib.Monsters;
+using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-using Xamarin.Forms;
-
-using System.Collections.Generic;
-using AideDeJeuLib.Monsters;
-using AideDeJeuLib;
-
 namespace AideDeJeu.ViewModels
 {
-    public class MonstersViewModel : BaseViewModel
+    public class MonstersViewModel : ItemsViewModel
     {
-        public ObservableCollection<Item> Items { get; set; }
-
         public List<KeyValuePair<string, string>> Categories { get; set; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes" ),
@@ -186,15 +181,12 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public Command LoadItemsCommand { get; set; }
-
-        public MonstersViewModel()
+        public MonstersViewModel(ObservableCollection<Item> items)
+            : base(items)
         {
-            Items = new ObservableCollection<Item>();
-            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
         }
 
-        public async Task ExecuteLoadItemsCommand()
+        public override async Task ExecuteLoadItemsCommandAsync()
         {
             if (IsBusy)
                 return;
@@ -204,10 +196,10 @@ namespace AideDeJeu.ViewModels
             try
             {
                 Items.Clear();
-                var items = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
-                foreach (var item in items)
+                var monsters = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
+                foreach (var monster in monsters)
                 {
-                    Items.Add(item);
+                    Items.Add(monster);
                 }
             }
             catch (Exception ex)

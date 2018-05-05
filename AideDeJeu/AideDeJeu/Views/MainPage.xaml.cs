@@ -1,30 +1,64 @@
-﻿using System;
+﻿using AideDeJeu.ViewModels;
+using AideDeJeuLib.Monsters;
+using AideDeJeuLib.Spells;
+using System;
+
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace AideDeJeu.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MainPage : MasterDetailPage
     {
+        MainViewModel viewModel;
+
         public MainPage ()
 		{
 			InitializeComponent ();
+            BindingContext = viewModel = new MainViewModel(Navigation);
         }
 
-        async void OnSpellsClicked(object sender, EventArgs e)
+        protected override bool OnBackButtonPressed()
         {
-            await Navigation.PushAsync(new SpellsPage());
+            IsPresented = !IsPresented;
+            return true;
         }
 
-        async void OnMonstersClicked(object sender, EventArgs e)
+
+        async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
         {
-            await Navigation.PushAsync(new MonstersPage());
+            if (args.SelectedItem is Spell)
+            {
+                var item = args.SelectedItem as Spell;
+                if (item == null)
+                    return;
+
+                var vm = new SpellDetailViewModel(item);
+                vm.LoadItemCommand.Execute(null);
+                await Navigation.PushAsync(new SpellDetailPage(vm));
+            }
+            else if (args.SelectedItem is Monster)
+            {
+                var item = args.SelectedItem as Monster;
+                if (item == null)
+                    return;
+
+                var vm = new MonsterDetailViewModel(item);
+                vm.LoadItemCommand.Execute(null);
+                await Navigation.PushAsync(new MonsterDetailPage(vm));
+            }
+
+            // Manually deselect item.
+            ItemsListView.SelectedItem = null;
         }
 
-        async void OnAboutClicked(object sender, EventArgs e)
+        protected override void OnAppearing()
         {
-            await Navigation.PushAsync(new AboutPage());
+            base.OnAppearing();
+
+            if (viewModel.Items.Count == 0)
+                viewModel.LoadItemsCommand.Execute(null);
         }
     }
 }
