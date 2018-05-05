@@ -90,12 +90,12 @@ namespace AideDeJeu.Tools
 
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            var itemType = value as ViewModels.ItemsViewModel.ItemType?;
-            if (itemType == ViewModels.ItemsViewModel.ItemType.Spell)
+            var itemType = value as ViewModels.MainViewModel.ItemType?;
+            if (itemType == ViewModels.MainViewModel.ItemType.Spell)
             {
                 return SpellsTemplate;
             }
-            if (itemType == ViewModels.ItemsViewModel.ItemType.Monster)
+            if (itemType == ViewModels.MainViewModel.ItemType.Monster)
             {
                 return MonstersTemplate;
             }
@@ -115,12 +115,12 @@ namespace AideDeJeu.Tools
 
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            var itemType = value as ViewModels.ItemsViewModel.ItemType?;
-            if (itemType == ViewModels.ItemsViewModel.ItemType.Spell)
+            var itemType = value as ViewModels.MainViewModel.ItemType?;
+            if (itemType == ViewModels.MainViewModel.ItemType.Spell)
             {
                 return Spells;
             }
-            if (itemType == ViewModels.ItemsViewModel.ItemType.Monster)
+            if (itemType == ViewModels.MainViewModel.ItemType.Monster)
             {
                 return Monsters;
             }

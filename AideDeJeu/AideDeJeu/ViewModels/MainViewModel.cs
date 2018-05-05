@@ -11,7 +11,7 @@ using AideDeJeuLib;
 
 namespace AideDeJeu.ViewModels
 {
-    public class ItemsViewModel : BaseViewModel
+    public class MainViewModel : BaseViewModel
     {
         public enum ItemType
         {
@@ -58,7 +58,7 @@ namespace AideDeJeu.ViewModels
         public Command SwitchToMonsters { get; set; }
         public Command AboutCommand { get; set; }
 
-        public ItemsViewModel(INavigation navigation)
+        public MainViewModel(INavigation navigation)
         {
             //Title = "Browse";
             //Items = new ObservableCollection<Item>();

@@ -11,12 +11,12 @@ namespace AideDeJeu.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ItemsPage : MasterDetailPage //TabbedPage
     {
-        ItemsViewModel viewModel;
+        MainViewModel viewModel;
 
         public ItemsPage ()
 		{
 			InitializeComponent ();
-            BindingContext = viewModel = new ItemsViewModel(Navigation);
+            BindingContext = viewModel = new MainViewModel(Navigation);
         }
 
         protected override bool OnBackButtonPressed()

@@ -104,7 +104,9 @@
                 <ToolbarItem Text="Déconnexion" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/logout.aspx" />
                 <ToolbarItem Text="Inscription" Order="Secondary" Command="{Binding OpenUrl}" CommandParameter="http://www.pathfinder-fr.org/members/register.aspx" />-->
             </ContentPage.ToolbarItems>
-            <Grid>
+            <StackLayout Orientation="Vertical">
+                <SearchBar />
+
                 <ListView x:Name="ItemsListView" 
                 ItemsSource="{Binding Items}"
                 VerticalOptions="FillAndExpand"
@@ -133,7 +135,7 @@
                 </ListView>
                 <!--<WebView x:Name="MainView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Navigating="OnNavigating" Source="{Binding Source}" />-->
                 <!--<ActivityIndicator x:Name="aiProgress" Color="Black" IsRunning="True" IsVisible="True" />-->
-            </Grid>
+            </StackLayout>
         </ContentPage>
     </MasterDetailPage.Detail>
 </MasterDetailPage>
