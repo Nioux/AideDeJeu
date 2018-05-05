@@ -41,10 +41,22 @@ namespace AideDeJeuLib.Spells
                 if (thssort.Length > 0)
                 {
                     Spell spell = new Spell();
-                    spell.Name = thssort[0].InnerText;
-                    var href = thssort[0].Element("a").GetAttributeValue("href", "");
+                    var aname = thssort[0].Element("a");
+                    var spanname = aname.Element("span");
+                    if(spanname != null)
+                    {
+                        spell.NamePHB = spanname.GetAttributeValue("title", "");
+                        spell.Name = spanname.Element("strong").InnerText;
+                    }
+                    else
+                    {
+                        spell.NamePHB = aname.Element("strong").InnerText;
+                        spell.Name = aname.Element("strong").InnerText;
+                    }
+                    var href = aname.GetAttributeValue("href", "");
                     var regex = new Regex("vf=(?<id>.*)");
                     spell.Id = regex.Match(href).Groups["id"].Value;
+
                     spell.Level = thssort[1].InnerText;
                     spell.Type = thssort[2].InnerText;
                     spell.CastingTime = thssort[3].InnerText;
