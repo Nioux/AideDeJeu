@@ -52,14 +52,14 @@ namespace AideDeJeu.ViewModels
         public Command SwitchToMonsters { get; private set; }
         public Command AboutCommand { get; private set; }
 
-        public MainViewModel(INavigation navigation)
+        public MainViewModel(INavigator navigator)
         {
             Spells = new SpellsViewModel(Items);
             Monsters = new MonstersViewModel(Items);
             LoadItemsCommand = new Command(async () => await CurrentViewModel.ExecuteLoadItemsCommandAsync());
             SwitchToSpells = new Command(() => ItemsType = ItemType.Spell);
             SwitchToMonsters = new Command(() => ItemsType = ItemType.Monster);
-            AboutCommand = new Command(async() => await navigation.PushAsync(new Views.AboutPage()));
+            AboutCommand = new Command(async() => await navigator.GotoAboutPageAsync());
         }
     }
 }

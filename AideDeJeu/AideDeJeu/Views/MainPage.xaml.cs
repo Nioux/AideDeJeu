@@ -12,11 +12,13 @@ namespace AideDeJeu.Views
 	public partial class MainPage : MasterDetailPage
     {
         MainViewModel viewModel;
+        INavigator Navigator;
 
         public MainPage ()
 		{
 			InitializeComponent ();
-            BindingContext = viewModel = new MainViewModel(Navigation);
+            Navigator = new Navigator(Navigation);
+            BindingContext = viewModel = new MainViewModel(Navigator);
         }
 
         protected override bool OnBackButtonPressed()
