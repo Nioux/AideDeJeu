@@ -41,8 +41,21 @@ namespace AideDeJeuLib.Monsters
                 if (tds.Length > 0)
                 {
                     var monster = new Monster();
-                    monster.Name = tds[0].InnerText;
-                    var href = tds[0].Element("a").GetAttributeValue("href", "");
+                    var aname = tds[0].Element("a");
+                    var spanname = aname.Element("span");
+                    if (spanname != null)
+                    {
+                        monster.NamePHB = spanname.GetAttributeValue("title", "");
+                        monster.Name = spanname.Element("strong").InnerText;
+                    }
+                    else
+                    {
+                        monster.NamePHB = aname.Element("strong").InnerText;
+                        monster.Name = aname.Element("strong").InnerText;
+                    }
+
+                    //monster.Name = tds[0].InnerText;
+                    var href = aname.GetAttributeValue("href", "");
                     var regex = new Regex("vf=(?<id>.*)");
                     monster.Id = regex.Match(href).Groups["id"].Value;
                     monster.Power = tds[1].InnerText;

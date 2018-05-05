@@ -39,7 +39,8 @@ namespace AideDeJeu.ViewModels
 
         public List<KeyValuePair<string, string>> Powers { get; set; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("0", "0" ),
+            new KeyValuePair<string, string>("Z", "0" ),
+            new KeyValuePair<string, string>(".12", "1/8" ),
             new KeyValuePair<string, string>(".25", "1/4" ),
             new KeyValuePair<string, string>(".5", "1/2" ),
             new KeyValuePair<string, string>("1", "1" ),
