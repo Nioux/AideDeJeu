@@ -263,3 +263,4 @@ __pycache__/
 /clerc.json
 /AideDeJeu/AideDeJeu.Android/zipalign.bat
 /Ignore
+/AideDeJeu/AideDeJeuWeb/Properties/PublishProfiles/AideDeJeuWeb - Web Deploy.pubxml

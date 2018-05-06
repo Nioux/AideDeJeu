@@ -109,10 +109,10 @@ namespace AideDeJeuLib.Cards
         {
             //string color = context["color"];
             //string backgroundImage = context["background_image"];
-            string color = "red";
+            //string color = "maroon";
             var cardData = new CardData();
             cardData.Count = 1;
-            cardData.Color = color;
+            //cardData.Color = color;
             cardData.Title = spell.NamePHB;
             cardData.TitleSize = "10";
             cardData.Icon = "white-book-" + spell.Level;
