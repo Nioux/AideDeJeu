@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AideDeJeuLib.Cards;
 using AideDeJeuLib.Spells;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,13 +13,22 @@ namespace AideDeJeuWeb.Controllers
     {
         // GET api/values
         [HttpGet]
-        public async Task<IEnumerable<Spell>> Get()
+        public async Task<IEnumerable<CardData>> Get()
         {
             var scrapper = new SpellsScrappers();
-            var spells = await scrapper.GetSpells();
+            var spellIds = await scrapper.GetSpellIds("c");
+            var spells = await scrapper.GetSpells(spellIds);
+
+
+            var cardDatas = new List<CardData>();
+            foreach (var spell in spells)
+            {
+                cardDatas.AddRange(Converters.ToCardDatas(spell));
+            }
+            return cardDatas;
             //var spellIds = spells.Select(spell => spell.Id);
             //var fullspells = await scrapper.GetSpells(spellIds);
-            return spells;
+            //return spells;
             //return await scrapper.GetSpellIds("");
             //return await new SpellsScrappers().GetSpells();
             //return new string[] { "value1", "value2" };

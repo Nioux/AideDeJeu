@@ -84,7 +84,7 @@ namespace AideDeJeuLib.Spells
             return Spell.FromHtml(divSpell);
         }
 
-        public async Task<IEnumerable<string>> GetSpellIds(string classe, int niveauMin = 0, int niveauMax = 9)
+        public async Task<IEnumerable<string>> GetSpellIds(string classe, string niveauMin = "Z", string niveauMax = "9")
         {
             string html = null;
             using (var client = GetHttpClient())
@@ -93,7 +93,7 @@ namespace AideDeJeuLib.Spells
                 // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
                 // https://www.aidedd.org/regles/sorts/
 
-                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min=1{1}&max=1{2}", classe, niveauMin, niveauMax));
+                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min={1}&max={2}", classe, niveauMin, niveauMax));
             }
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
@@ -120,26 +120,28 @@ namespace AideDeJeuLib.Spells
             var spells = pack.DocumentNode.SelectNodes("//div[contains(@class,'blocCarte')]").ToList();
             foreach (var spell in spells)
             {
-                var newSpell = new Spell();
-                newSpell.Name = spell.SelectSingleNode("h1").InnerText;
-                newSpell.NameVO = spell.SelectSingleNode("div[@class='trad']").InnerText;
-                newSpell.LevelType = spell.SelectSingleNode("h2/em").InnerText;
-                newSpell.Level = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
-                newSpell.Type = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];
-                newSpell.CastingTime = spell.SelectSingleNode("div[@class='paragraphe']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-                newSpell.Range = spell.SelectSingleNode("div[strong/text()='Portée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-                newSpell.Components = spell.SelectSingleNode("div[strong/text()='Composantes']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-                newSpell.Duration = spell.SelectSingleNode("div[strong/text()='Durée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
-                newSpell.DescriptionDiv = spell.SelectSingleNode("div[contains(@class,'description')]");
-                //newSpell.DescriptionHtml = newSpell.DescriptionDiv.InnerHtml;
-                //newSpell.Description = newSpell.DescriptionDiv.InnerText;
-                newSpell.Overflow = spell.SelectSingleNode("div[@class='overflow']")?.InnerText;
-                newSpell.NoOverflow = spell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
-                newSpell.Source = spell.SelectSingleNode("div[@class='source']").InnerText;
+                //var newSpell = new Spell();
+                var newSpell = Spell.FromHtml(spell);
+                //newSpell.Name = spell.SelectSingleNode("h1").InnerText;
+                //newSpell.NameVO = spell.SelectSingleNode("div[@class='trad']").InnerText;
+                //newSpell.LevelType = spell.SelectSingleNode("h2/em").InnerText;
+                //newSpell.Level = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
+                //newSpell.Type = newSpell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];
+                //newSpell.CastingTime = spell.SelectSingleNode("div[@class='paragraphe']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+                //newSpell.Range = spell.SelectSingleNode("div[strong/text()='Portée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+                //newSpell.Components = spell.SelectSingleNode("div[strong/text()='Composantes']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+                //newSpell.Duration = spell.SelectSingleNode("div[strong/text()='Durée']").InnerText.Split(new string[] { " : " }, StringSplitOptions.None)[1];
+                //newSpell.DescriptionDiv = spell.SelectSingleNode("div[contains(@class,'description')]");
+                ////newSpell.DescriptionHtml = newSpell.DescriptionDiv.InnerHtml;
+                ////newSpell.Description = newSpell.DescriptionDiv.InnerText;
+                //newSpell.Overflow = spell.SelectSingleNode("div[@class='overflow']")?.InnerText;
+                //newSpell.NoOverflow = spell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
+                //newSpell.Source = spell.SelectSingleNode("div[@class='source']").InnerText;
                 newSpells.Add(newSpell);
             }
             return newSpells;
         }
+
         /*
         public async Task<string> OnGetAsync(IReadOnlyDictionary<string, string> context)
         {

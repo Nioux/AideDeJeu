@@ -105,18 +105,19 @@ namespace AideDeJeuLib.Cards
             return contents.ToArray();
         }
 
-        public static CardData ToBaseCardData(IReadOnlyDictionary<string, string> context, Spell spell)
+        public static CardData ToBaseCardData(Spell spell)
         {
-            string color = context["color"];
-            string backgroundImage = context["background_image"];
+            //string color = context["color"];
+            //string backgroundImage = context["background_image"];
+            string color = "red";
             var cardData = new CardData();
             cardData.Count = 1;
             cardData.Color = color;
-            cardData.Title = spell.Name;
+            cardData.Title = spell.NamePHB;
             cardData.TitleSize = "10";
             cardData.Icon = "white-book-" + spell.Level;
             cardData.IconBack = "robe";
-            cardData.BackgroundImage = backgroundImage;
+            //cardData.BackgroundImage = backgroundImage;
             cardData.Tags = new string[]
             {
                 "sort",
@@ -124,10 +125,10 @@ namespace AideDeJeuLib.Cards
             };
             return cardData;
         }
-        public static CardData[] ToCardDatas(IReadOnlyDictionary<string, string> context, Spell spell)
+        public static CardData[] ToCardDatas(Spell spell)
         {
             var cardDatas = new List<CardData>();
-            var cardData = ToBaseCardData(context, spell);
+            var cardData = ToBaseCardData(spell);
 
             var contents = new List<CardContent>();
             contents.AddRange(new CardContent[]
@@ -164,7 +165,7 @@ namespace AideDeJeuLib.Cards
                     cardData.Contents = contents.ToArray();
                     cardDatas.Add(cardData);
 
-                    cardData = ToBaseCardData(context, spell);
+                    cardData = ToBaseCardData(spell);
                     contents = new List<CardContent>();
                     if (section != null)
                     {
