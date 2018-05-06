@@ -62,6 +62,8 @@ namespace AideDeJeu.Views
             paint.Color = SKColors.Black;
 
             canvas.DrawPath(path, paint);
+            paint.Dispose();
+            path.Dispose();
         }
 
         void PaintRedBar(object sender, SKPaintSurfaceEventArgs args)
@@ -85,6 +87,8 @@ namespace AideDeJeu.Views
             };
 
             canvas.DrawPath(path, paint);
+            paint.Dispose();
+            path.Dispose();
 
             //paint.Style = SKPaintStyle.Stroke;
             //paint.StrokeWidth = 2;
