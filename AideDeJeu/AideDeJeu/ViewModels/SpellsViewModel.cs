@@ -1,9 +1,11 @@
-﻿using AideDeJeuLib;
+﻿using AideDeJeu.Tools;
+using AideDeJeuLib;
 using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace AideDeJeu.ViewModels
@@ -168,7 +170,9 @@ namespace AideDeJeu.ViewModels
             {
                 AllItems.Clear();
                 var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
-                foreach (var item in items)
+                var aitems = items.ToArray();
+                Array.Sort(aitems, new ItemComparer());
+                foreach (var item in aitems)
                 {
                     AllItems.Add(item);
                 }

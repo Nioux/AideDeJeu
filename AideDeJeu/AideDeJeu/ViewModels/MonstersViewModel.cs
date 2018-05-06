@@ -1,9 +1,11 @@
-﻿using AideDeJeuLib;
+﻿using AideDeJeu.Tools;
+using AideDeJeuLib;
 using AideDeJeuLib.Monsters;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace AideDeJeu.ViewModels
@@ -197,10 +199,12 @@ namespace AideDeJeu.ViewModels
             try
             {
                 AllItems.Clear();
-                var monsters = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
-                foreach (var monster in monsters)
+                var items = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
+                var aitems = items.ToArray();
+                Array.Sort(aitems, new ItemComparer());
+                foreach (var item in aitems)
                 {
-                    AllItems.Add(monster);
+                    AllItems.Add(item);
                 }
                 FilterItems();
             }

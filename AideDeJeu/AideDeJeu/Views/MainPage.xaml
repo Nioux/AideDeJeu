@@ -124,7 +124,7 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Padding="10">
-                                    <Label Text="{Binding Name}" 
+                                    <Label Text="{Binding NamePHB}" 
                        LineBreakMode="NoWrap" 
                        Style="{DynamicResource subsubsection}" 
                        FontSize="16" />

@@ -267,7 +267,7 @@ namespace AideDeJeu.ViewModels
 
         public MonsterDetailViewModel(Monster item = null)
         {
-            Title = item?.Name;
+            Title = item?.NamePHB;
             Item = item;
             LoadItemCommand = new Command(async () => await ExecuteLoadItemCommand());
         }

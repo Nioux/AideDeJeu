@@ -49,7 +49,7 @@ namespace AideDeJeuLib.Monsters
             var altNames = divMonster.SelectSingleNode("div[@class='trad']").InnerText;
             var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
             monster.NameVO = matchNames.Groups["vo"].Value;
-            monster.NamePHB = matchNames.Groups["alt"].Value;
+            monster.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? monster.Name : matchNames.Groups["alt"].Value;
 
             var divSansSerif = divMonster?.SelectSingleNode("div[contains(@class,'sansSerif')]");
             var typeSizeAlignment = divSansSerif?.SelectSingleNode("h2/em")?.InnerText;
