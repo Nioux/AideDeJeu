@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AideDeJeu.Tools;
+using System;
 using System.Windows.Input;
 
 using Xamarin.Forms;
@@ -15,5 +16,12 @@ namespace AideDeJeu.ViewModels
         }
 
         public ICommand OpenWebCommand { get; }
+
+        public string Version {
+            get
+            {
+                return DependencyService.Get<IAppVersion>().GetVersion();
+            }
+        }
     }
 }

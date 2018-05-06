@@ -21,17 +21,8 @@
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
-                <Label FontSize="22">
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <FormattedString.Spans>
-                                <Span Text="Aide de Jeu" FontAttributes="Bold" FontSize="22" />
-                                <Span Text=" " />
-                                <Span Text="1.04" ForegroundColor="{StaticResource LightTextColor}" />
-                            </FormattedString.Spans>
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
+                <Label Text="Aide de Jeu" FontSize="22" FontAttributes="Bold" />
+                <Label Text="{Binding Version}" FontAttributes="Bold" FontSize="22" />
                 <Label Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
                 <Label Text="Son contenu provient du site AideDD, et est traduit du SRD" />
                 <Label Text="Les icones proviennent du site Game-icons.net" />
