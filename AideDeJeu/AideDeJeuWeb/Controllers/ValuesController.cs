@@ -12,11 +12,11 @@ namespace AideDeJeuWeb.Controllers
     public class ValuesController : Controller
     {
         // GET api/values
-        [HttpGet]
-        public async Task<IEnumerable<CardData>> Get()
+        [HttpGet("{classe}")]
+        public async Task<IEnumerable<CardData>> Get(string classe)
         {
             var scrapper = new SpellsScrappers();
-            var spellIds = await scrapper.GetSpellIds("c");
+            var spellIds = await scrapper.GetSpellIds(classe);
             var spells = await scrapper.GetSpells(spellIds);
 
 

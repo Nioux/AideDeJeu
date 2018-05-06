@@ -118,11 +118,11 @@ namespace AideDeJeuLib.Cards
             cardData.Icon = "white-book-" + spell.Level;
             cardData.IconBack = "robe";
             //cardData.BackgroundImage = backgroundImage;
-            cardData.Tags = new string[]
-            {
-                "sort",
-                "magicien",
-            };
+            //cardData.Tags = new string[]
+            //{
+            //    "sort",
+            //    "magicien",
+            //};
             return cardData;
         }
         public static CardData[] ToCardDatas(Spell spell)
