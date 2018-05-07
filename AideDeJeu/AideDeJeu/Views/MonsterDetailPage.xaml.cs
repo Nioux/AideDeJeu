@@ -28,6 +28,8 @@ namespace AideDeJeu.Views
             var item = new Monster
             {
                 Name = "",
+                NameVO = "",
+                NamePHB = "",
                 //Description = "This is an item description."
             };
 

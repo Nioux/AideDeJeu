@@ -40,7 +40,7 @@ namespace AideDeJeu.ViewModels
             Items.Clear();
             foreach (var item in AllItems)
             {
-                if (item.Name.ToLower().Contains(SearchText.ToLower()))
+                if (item.NamePHB.ToLower().Contains(SearchText.ToLower()))
                 {
                     Items.Add(item);
                 }

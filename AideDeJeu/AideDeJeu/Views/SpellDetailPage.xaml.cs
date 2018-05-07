@@ -25,6 +25,8 @@ namespace AideDeJeu.Views
             var item = new Spell
             {
                 Name = "",
+                NameVO = "",
+                NamePHB = "",
                 //Description = "This is an item description."
             };
 
