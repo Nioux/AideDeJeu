@@ -135,9 +135,10 @@ namespace AideDeJeuLib.Cards
             {
                 new SubtitleCardContent(spell.LevelType),
                 new RuleCardContent(),
-                new PropertyCardContent("Temps d'incantation", spell.CastingTime),
+                new PropertyCardContent("Durée d'incantation", spell.CastingTime),
                 new PropertyCardContent("Portée", spell.Range),
-                new PropertyCardContent("Composants", spell.Components),
+                new PropertyCardContent("Composantes", spell.Components),
+                new PropertyCardContent("Durée", spell.Duration),
                 new RuleCardContent(),
                 //new FillCardContent(1),
                 //new TextCardContent(spell.Description),
