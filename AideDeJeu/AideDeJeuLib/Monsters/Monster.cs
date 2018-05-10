@@ -25,6 +25,7 @@ namespace AideDeJeuLib.Monsters
         public string Charisma { get; set; }
         public string SavingThrows { get; set; }
         public string Skills { get; set; }
+        public string DamageVulnerabilities { get; set; }
         public string DamageImmunities { get; set; }
         public string ConditionImmunities { get; set; }
         public string DamageResistances { get; set; }
@@ -75,9 +76,12 @@ namespace AideDeJeuLib.Monsters
 
             monster.SavingThrows = divRed?.SelectSingleNode("strong[contains(text(),'Jets de sauvegarde')]")?.NextSibling?.InnerText;
             monster.Skills = divRed?.SelectSingleNode("strong[contains(text(),'Compétences')]")?.NextSibling?.InnerText;
+            
+            monster.DamageVulnerabilities = divRed?.SelectSingleNode("strong[contains(text(),'Vulnérabilités aux dégâts')]")?.NextSibling?.InnerText;
             monster.DamageResistances = divRed?.SelectSingleNode("strong[contains(text(),'Résistances aux dégâts')]")?.NextSibling?.InnerText;
             monster.DamageImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux dégâts')]")?.NextSibling?.InnerText;
             monster.ConditionImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux conditions')]")?.NextSibling?.InnerText;
+
             monster.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens')]")?.NextSibling?.InnerText;
             monster.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues')]")?.NextSibling?.InnerText;
             monster.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;

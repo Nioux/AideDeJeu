@@ -22,6 +22,7 @@ namespace AideDeJeu.ViewModels
                 OnPropertyChanged(nameof(Speed));
                 OnPropertyChanged(nameof(SavingThrows));
                 OnPropertyChanged(nameof(Skills));
+                OnPropertyChanged(nameof(DamageVulnerabilities));
                 OnPropertyChanged(nameof(DamageResistances));
                 OnPropertyChanged(nameof(DamageImmunities));
                 OnPropertyChanged(nameof(ConditionImmunities));
@@ -103,6 +104,19 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+
+        public FormattedString DamageVulnerabilities
+        {
+            get
+            {
+                var fd = FormatedTextHelpers.FontData.FromResource("content");
+                var fdb = FormatedTextHelpers.FontData.FromResource("contentbold");
+                var fs = new FormattedString();
+                fs.Spans.Add(new Span() { Text = "Vulnérabilité aux dégâts ", FontFamily = fdb.FontFamily, FontAttributes = fdb.FontAttributes, FontSize = fdb.FontSize, ForegroundColor = fdb.TextColor });
+                fs.Spans.Add(new Span() { Text = Item.DamageVulnerabilities, FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor });
+                return fs;
+            }
+        }
 
         public FormattedString DamageImmunities
         {

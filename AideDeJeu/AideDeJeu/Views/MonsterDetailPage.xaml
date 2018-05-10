@@ -66,6 +66,7 @@
 
             <Label FormattedText="{Binding SavingThrows}" IsVisible="{Binding Item.SavingThrows, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Skills}" IsVisible="{Binding Item.Skills, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <Label FormattedText="{Binding DamageVulnerabilities}" IsVisible="{Binding Item.DamageVulnerabilities, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding DamageResistances}" IsVisible="{Binding Item.DamageResistances, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding DamageImmunities}" IsVisible="{Binding Item.DamageImmunities, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding ConditionImmunities}" IsVisible="{Binding Item.ConditionImmunities, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
