@@ -48,6 +48,20 @@ namespace AideDeJeu.ViewModels
         }
         public ObservableCollection<Item> Items { get; private set; } = new ObservableCollection<Item>();
 
+        private Item _SelectedItem;
+        public Item SelectedItem
+        {
+            get
+            {
+                return _SelectedItem;
+            }
+            set
+            {
+                SetProperty(ref _SelectedItem, value);
+                GotoItemCommand.Execute(_SelectedItem);
+            }
+        }
+
         public Command LoadItemsCommand { get; private set; }
         public Command<Item> GotoItemCommand { get; private set; }
 
