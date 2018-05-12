@@ -46,7 +46,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
-    <MtouchArch>ARM64</MtouchArch>
+    <MtouchArch>ARMv7s, ARM64</MtouchArch>
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
@@ -98,20 +98,8 @@
     </BundleResource>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Default-568h%402x.png" />
-    <BundleResource Include="Resources\Default-Portrait.png" />
-    <BundleResource Include="Resources\Default-Portrait%402x.png" />
-    <BundleResource Include="Resources\Default.png" />
-    <BundleResource Include="Resources\Default%402x.png" />
-    <BundleResource Include="Resources\Icon-60%402x.png" />
     <BundleResource Include="Resources\Icon-60%403x.png" />
-    <BundleResource Include="Resources\Icon-76.png" />
-    <BundleResource Include="Resources\Icon-76%402x.png" />
-    <BundleResource Include="Resources\Icon-Small-40.png" />
-    <BundleResource Include="Resources\Icon-Small-40%402x.png" />
     <BundleResource Include="Resources\Icon-Small-40%403x.png" />
-    <BundleResource Include="Resources\Icon-Small.png" />
-    <BundleResource Include="Resources\Icon-Small%402x.png" />
     <BundleResource Include="Resources\Icon-Small%403x.png" />
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
@@ -158,9 +146,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AideDeJeu\AideDeJeu.csproj">
-      <Project>{D9922DC7-810A-445E-B965-BF7E48E8B0D5}</Project>
+      <Project>{C0597D88-5C09-4314-80A3-64712B02D0E9}</Project>
       <Name>AideDeJeu</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Media.xcassets\Contents.json" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Contents.json" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-40.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-60.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-58.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-87.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-80.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-120.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-180.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-20.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-29.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-76.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-152.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-167.png" />
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-1024.png" />
+    <ImageAsset Include="Media.xcassets\icon.imageset\Contents.json" />
+    <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Media.xcassets\icon.imageset\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
