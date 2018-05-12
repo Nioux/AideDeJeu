@@ -20,7 +20,7 @@ namespace AideDeJeu.ViewModels
         public string Version {
             get
             {
-                return DependencyService.Get<IAppVersion>().GetVersion();
+                return DependencyService.Get<INativeAPI>().GetVersion();
             }
         }
     }

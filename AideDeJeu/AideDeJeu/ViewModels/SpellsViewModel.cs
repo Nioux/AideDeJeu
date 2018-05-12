@@ -1,4 +1,5 @@
-﻿using AideDeJeu.Tools;
+﻿using AideDeJeu.Services;
+using AideDeJeu.Tools;
 using AideDeJeuLib;
 using AideDeJeuLib.Spells;
 using System;
@@ -170,7 +171,18 @@ namespace AideDeJeu.ViewModels
             {
                 AllItems.Clear();
                 var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
-                var aitems = items.ToArray();
+
+                //try
+                //{
+                ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
+                await helper.AddOrUpdateSpellsAsync(items);
+                var items2 = await helper.GetSpellsAsync();
+                //}
+                //catch(Exception ex)
+                //{
+                //    Debug.WriteLine(ex);
+                //}
+                var aitems = items2.ToArray();
                 Array.Sort(aitems, new ItemComparer());
                 foreach (var item in aitems)
                 {

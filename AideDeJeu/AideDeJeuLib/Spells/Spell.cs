@@ -1,6 +1,8 @@
 ﻿using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.Serialization;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -26,9 +28,16 @@ namespace AideDeJeuLib.Spells
             }
             set
             {
-                HtmlDocument doc = new HtmlDocument();
-                doc.LoadHtml(value);
-                DescriptionDiv = doc.DocumentNode;
+                if (value != null)
+                {
+                    HtmlDocument doc = new HtmlDocument();
+                    doc.LoadHtml(value);
+                    DescriptionDiv = doc.DocumentNode;
+                }
+                else
+                {
+                    DescriptionDiv = null;
+                }
             }
         }
         public string DescriptionText
@@ -39,7 +48,9 @@ namespace AideDeJeuLib.Spells
             }
         }
         [IgnoreDataMember]
+        [NotMapped]
         public HtmlNode DescriptionDiv { get; set; }
+
         public string Overflow { get; set; }
         public string NoOverflow { get; set; }
         public string Source { get; set; }

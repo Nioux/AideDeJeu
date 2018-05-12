@@ -1,6 +1,9 @@
 ﻿using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -35,8 +38,33 @@ namespace AideDeJeuLib.Monsters
         public string Description { get; set; }
         public string Picture { get; set; }
 
+        [IgnoreDataMember]
+        [NotMapped]
         public List<HtmlNode> SpecialFeatures { get; set; }
+        //public List<string> SpecialFeaturesPersist
+        //{
+        //    get
+        //    {
+        //        return SpecialFeatures.Select(node => node.OuterHtml).ToList();
+        //    }
+        //    set
+        //    {
+        //        List<HtmlNode> nodes = new List<HtmlNode>();
+        //        foreach (var str in value)
+        //        {
+        //            HtmlDocument doc = new HtmlDocument();
+        //            doc.LoadHtml(str);
+        //            nodes.Add(doc.DocumentNode);
+        //        }
+        //        SpecialFeatures = nodes;
+        //    }
+        //}
+
+        [IgnoreDataMember]
+        [NotMapped]
         public List<HtmlNode> Actions { get; set; }
+        [IgnoreDataMember]
+        [NotMapped]
         public List<HtmlNode> LegendaryActions { get; set; }
 
 
