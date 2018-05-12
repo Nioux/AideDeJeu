@@ -1,6 +1,7 @@
 {
   "images": [
     {
+      "filename": "black-book.pdf",
       "idiom": "universal"
     },
     {
@@ -12,7 +13,6 @@
       "idiom": "universal"
     },
     {
-      "filename": "Icon-512.png",
       "scale": "3x",
       "idiom": "universal"
     },

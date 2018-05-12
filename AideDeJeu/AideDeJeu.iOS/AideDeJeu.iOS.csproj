@@ -166,22 +166,8 @@
     <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-152.png" />
     <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-167.png" />
     <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-1024.png" />
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Contents.json" />
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Default.png" />
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Default%402x.png" />
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Default-568h%402x.png" />
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Default-Portrait.png" />
-    <ImageAsset Include="Media.xcassets\LaunchImage.launchimage\Default-Portrait%402x.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-60%402x.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-76.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-76%402x.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-Small.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-Small%402x.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-Small-40.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon-1.appiconset\Icon-Small-40%402x.png" />
     <ImageAsset Include="Media.xcassets\icon.imageset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\icon.imageset\Icon-512.png" />
+    <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Media.xcassets\icon.imageset\" />
