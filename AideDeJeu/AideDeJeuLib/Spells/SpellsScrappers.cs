@@ -126,7 +126,9 @@ namespace AideDeJeuLib.Spells
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
-            return Spell.FromHtml(divSpell);
+            var spell = Spell.FromHtml(divSpell);
+            spell.Id = id;
+            return spell;
         }
 
         public async Task<IEnumerable<string>> GetSpellIds(string classe, string niveauMin = "Z", string niveauMax = "9")

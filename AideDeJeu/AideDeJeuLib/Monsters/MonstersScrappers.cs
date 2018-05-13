@@ -128,7 +128,9 @@ namespace AideDeJeuLib.Monsters
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var divBloc = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
-            return Monster.FromHtml(divBloc);
+            var monster = Monster.FromHtml(divBloc);
+            monster.Id = id;
+            return monster;
         }
 
     }
