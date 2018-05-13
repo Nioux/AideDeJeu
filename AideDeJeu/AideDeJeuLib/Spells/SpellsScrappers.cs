@@ -8,29 +8,73 @@ using System.Threading.Tasks;
 
 namespace AideDeJeuLib.Spells
 {
-    public class SpellsScrappers
+    public class SpellsScrappers : IDisposable
     {
+        private HttpClient _Client = null;
         public HttpClient GetHttpClient()
         {
-            var client = new HttpClient();
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
-            client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
-            client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
-            return client;
+            if (_Client == null)
+            {
+                var client = new HttpClient();
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
+                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
+                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
+                _Client = client;
+            }
+            return _Client;
         }
+
+        #region IDisposable Support
+        private bool disposedValue = false; // Pour détecter les appels redondants
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!disposedValue)
+            {
+                if (disposing)
+                {
+                    // TODO: supprimer l'état managé (objets managés).
+                    if (_Client != null)
+                    {
+                        _Client.Dispose();
+                        _Client = null;
+                    }
+                }
+
+                // TODO: libérer les ressources non managées (objets non managés) et remplacer un finaliseur ci-dessous.
+                // TODO: définir les champs de grande taille avec la valeur Null.
+
+                disposedValue = true;
+            }
+        }
+
+        // TODO: remplacer un finaliseur seulement si la fonction Dispose(bool disposing) ci-dessus a du code pour libérer les ressources non managées.
+        // ~SpellsScrappers() {
+        //   // Ne modifiez pas ce code. Placez le code de nettoyage dans Dispose(bool disposing) ci-dessus.
+        //   Dispose(false);
+        // }
+
+        // Ce code est ajouté pour implémenter correctement le modèle supprimable.
+        public void Dispose()
+        {
+            // Ne modifiez pas ce code. Placez le code de nettoyage dans Dispose(bool disposing) ci-dessus.
+            Dispose(true);
+            // TODO: supprimer les marques de commentaire pour la ligne suivante si le finaliseur est remplacé ci-dessus.
+            // GC.SuppressFinalize(this);
+        }
+        #endregion
 
         public async Task<IEnumerable<Spell>> GetSpells(string classe = "", string niveauMin = "", string niveauMax = "", string ecole = "", string rituel = "", string source = "srd")
         {
             string html = null;
-            using (var client = GetHttpClient())
-            {
-                // https://www.aidedd.org/regles/sorts/
+            var client = GetHttpClient();
+            // https://www.aidedd.org/regles/sorts/
 
-                var url = string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
-                html = await client.GetStringAsync(url);
-            }
+            var url = string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
+            html = await client.GetStringAsync(url);
+
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var tdssort = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
@@ -71,13 +115,12 @@ namespace AideDeJeuLib.Spells
         public async Task<Spell> GetSpell(string id)
         {
             string html = null;
-            using (var client = GetHttpClient())
-            {
-                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
-                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
+            var client = GetHttpClient();
+            // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
+            // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
 
-                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vf={0}", id));
-            }
+            html = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vf={0}", id));
+
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
@@ -87,14 +130,13 @@ namespace AideDeJeuLib.Spells
         public async Task<IEnumerable<string>> GetSpellIds(string classe, string niveauMin = "Z", string niveauMax = "9")
         {
             string html = null;
-            using (var client = GetHttpClient())
-            {
-                // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
-                // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
-                // https://www.aidedd.org/regles/sorts/
+            var client = GetHttpClient();
+            // https://www.aidedd.org/dnd/sorts.php?vo=ray-of-frost
+            // https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
+            // https://www.aidedd.org/regles/sorts/
 
-                html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min={1}&max={2}", classe, niveauMin, niveauMax));
-            }
+            html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min={1}&max={2}", classe, niveauMin, niveauMax));
+
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             return pack.DocumentNode.SelectNodes("//input[@name='select_sorts[]']").Select(node => node.GetAttributeValue("value", ""));
@@ -103,17 +145,16 @@ namespace AideDeJeuLib.Spells
         public async Task<IEnumerable<Spell>> GetSpells(IEnumerable<string> spellIds)
         {
             string html = null;
-            using (var client = GetHttpClient())
+            var client = GetHttpClient();
+            var content = new MultipartFormDataContent();
+            content.Add(new StringContent("card"), "format");
+            foreach (var spellId in spellIds)
             {
-                var content = new MultipartFormDataContent();
-                content.Add(new StringContent("card"), "format");
-                foreach (var spellId in spellIds)
-                {
-                    content.Add(new StringContent(spellId), "select_sorts[]");
-                }
-                var response = await client.PostAsync("http://www.aidedd.org/dnd/sorts.php", content);
-                html = await response.Content.ReadAsStringAsync();
+                content.Add(new StringContent(spellId), "select_sorts[]");
             }
+            var response = await client.PostAsync("http://www.aidedd.org/dnd/sorts.php", content);
+            html = await response.Content.ReadAsStringAsync();
+
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var newSpells = new List<Spell>();

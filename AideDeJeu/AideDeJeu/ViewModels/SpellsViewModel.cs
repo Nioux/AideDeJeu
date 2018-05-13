@@ -170,7 +170,11 @@ namespace AideDeJeu.ViewModels
             try
             {
                 AllItems.Clear();
-                var items = await SpellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                IEnumerable<Spell> items = null;
+                using (var spellsScrappers = new SpellsScrappers())
+                {
+                    items = await spellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                }
 
                 //try
                 //{

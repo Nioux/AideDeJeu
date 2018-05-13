@@ -1,4 +1,5 @@
-﻿using AideDeJeuLib.Spells;
+﻿using AideDeJeuLib.Monsters;
+using AideDeJeuLib.Spells;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -39,6 +40,31 @@ namespace AideDeJeu.Services
                     spell => context.Spells.Any(dbSpell => dbSpell.Id == spell.Id) == false
                 );
                 await context.Spells.AddRangeAsync(newSpells);
+                await context.SaveChangesAsync();
+            }
+        }
+
+        public async Task<IEnumerable<Monster>> GetMonstersAsync()
+        {
+            using (var context = CreateContext())
+            {
+                //We use OrderByDescending because Posts are generally displayed from most recent to oldest
+                return await context.Monsters
+                                    .AsNoTracking()
+                                    .OrderByDescending(monster => monster.Id)
+                                    .ToListAsync();
+            }
+        }
+
+        public async Task AddOrUpdateMonstersAsync(IEnumerable<Monster> monsters)
+        {
+            using (var context = CreateContext())
+            {
+                // add posts that do not exist in the database
+                var newMonsters = monsters.Where(
+                    monster => context.Monsters.Any(dbMonster => dbMonster.Id == monster.Id) == false
+                );
+                await context.Monsters.AddRangeAsync(newMonsters);
                 await context.SaveChangesAsync();
             }
         }

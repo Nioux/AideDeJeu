@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AideDeJeu.Views.AboutPage"
              xmlns:vm="clr-namespace:AideDeJeu.ViewModels;"
-             Title="{Binding Title}">
+             Title="{Binding Title}" 
+             IsBusy="{Binding IsBusy}">
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
     </ContentPage.BindingContext>
@@ -21,7 +22,11 @@
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
-                <Label Text="Aide de Jeu" FontSize="22" FontAttributes="Bold" />
+                <Label Text="Aide de Jeu" FontSize="22" FontAttributes="Bold">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding UpdateDataCommand}" />
+                    </Label.GestureRecognizers>
+                </Label>
                 <Label Text="{Binding Version}" FontAttributes="Bold" FontSize="22" />
                 <Label Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
                 <Label Text="Son contenu provient du site AideDD, et est traduit du SRD" />

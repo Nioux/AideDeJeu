@@ -120,8 +120,11 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                var item = await SpellsScrappers.GetSpell(Item.Id);
-                Item = item;
+                using (var spellsScrappers = new SpellsScrappers())
+                {
+                    var item = await spellsScrappers.GetSpell(Item.Id);
+                    Item = item;
+                }
             }
             catch (Exception ex)
             {

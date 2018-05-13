@@ -9,28 +9,73 @@ using System.Threading.Tasks;
 
 namespace AideDeJeuLib.Monsters
 {
-    public class MonstersScrappers
+    public class MonstersScrappers : IDisposable
     {
+        private HttpClient _Client = null;
         public HttpClient GetHttpClient()
         {
-            var client = new HttpClient();
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
-            client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
-            client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
-            return client;
+            if (_Client == null)
+            {
+                var client = new HttpClient();
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("text/html"));
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xhtml+xml"));
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/xml"));
+                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr"));
+                client.DefaultRequestHeaders.AcceptLanguage.Add(new System.Net.Http.Headers.StringWithQualityHeaderValue("fr-FR"));
+                _Client = client;
+            }
+            return _Client;
         }
+
+        #region IDisposable Support
+        private bool disposedValue = false; // Pour détecter les appels redondants
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (!disposedValue)
+            {
+                if (disposing)
+                {
+                    // TODO: supprimer l'état managé (objets managés).
+                    if (_Client != null)
+                    {
+                        _Client.Dispose();
+                        _Client = null;
+                    }
+                }
+
+                // TODO: libérer les ressources non managées (objets non managés) et remplacer un finaliseur ci-dessous.
+                // TODO: définir les champs de grande taille avec la valeur Null.
+
+                disposedValue = true;
+            }
+        }
+
+        // TODO: remplacer un finaliseur seulement si la fonction Dispose(bool disposing) ci-dessus a du code pour libérer les ressources non managées.
+        // ~SpellsScrappers() {
+        //   // Ne modifiez pas ce code. Placez le code de nettoyage dans Dispose(bool disposing) ci-dessus.
+        //   Dispose(false);
+        // }
+
+        // Ce code est ajouté pour implémenter correctement le modèle supprimable.
+        public void Dispose()
+        {
+            // Ne modifiez pas ce code. Placez le code de nettoyage dans Dispose(bool disposing) ci-dessus.
+            Dispose(true);
+            // TODO: supprimer les marques de commentaire pour la ligne suivante si le finaliseur est remplacé ci-dessus.
+            // GC.SuppressFinalize(this);
+        }
+        #endregion
+
 
         public async Task<IEnumerable<Monster>> GetMonsters(string category = "", string type = "", string minPower = "", string maxPower = "", string size = "", string legendary = "", string source = "srd")
         {
             string html = null;
-            using (var client = GetHttpClient())
-            {
-                // https://www.aidedd.org/regles/monstres/?min=.25&max=20&c=M&sz=TP&lg=si&t=Humano%C3%AFde&s=srd
+            var client = GetHttpClient();
+            // https://www.aidedd.org/regles/monstres/?min=.25&max=20&c=M&sz=TP&lg=si&t=Humano%C3%AFde&s=srd
 
-                html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/regles/monstres/?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source));
-            }
+            html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/regles/monstres/?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source));
+
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var trs = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
@@ -72,12 +117,11 @@ namespace AideDeJeuLib.Monsters
         public async Task<Monster> GetMonster(string id)
         {
             string html = null;
-            using (var client = GetHttpClient())
-            {
-                // https://www.aidedd.org/dnd/monstres.php?vf=aarakocra
+            var client = GetHttpClient();
+            // https://www.aidedd.org/dnd/monstres.php?vf=aarakocra
 
-                html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/dnd/monstres.php?vf={id}", id));
-            }
+            html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/dnd/monstres.php?vf={id}", id));
+
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
             var divBloc = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();

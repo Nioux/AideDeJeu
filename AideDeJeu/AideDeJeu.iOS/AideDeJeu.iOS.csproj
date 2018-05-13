@@ -151,23 +151,57 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Media.xcassets\Contents.json" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-40.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-60.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-58.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-87.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-80.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-120.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-180.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-20.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-29.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-76.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-152.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-167.png" />
-    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-1024.png" />
-    <ImageAsset Include="Media.xcassets\icon.imageset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf" />
+    <ImageAsset Include="Media.xcassets\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-40.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-60.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-58.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-87.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-80.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-120.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-180.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-20.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-29.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-76.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-152.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-167.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\AppIcon.appiconset\Icon-1024.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\icon.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Media.xcassets\icon.imageset\" />
