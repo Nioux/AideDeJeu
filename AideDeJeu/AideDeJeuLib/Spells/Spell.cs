@@ -58,11 +58,19 @@ namespace AideDeJeuLib.Spells
         public static Spell FromHtml(HtmlNode nodeSpell)
         {
             var spell = new Spell();
+            spell.Html = nodeSpell.OuterHtml;
             spell.Name = nodeSpell.SelectSingleNode("h1").InnerText;
-            var altNames = nodeSpell.SelectSingleNode("div[@class='trad']").InnerText;
-            var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
-            spell.NameVO = matchNames.Groups["vo"].Value;
-            spell.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? spell.Name : matchNames.Groups["alt"].Value;
+            var altNames = nodeSpell.SelectSingleNode("div[@class='trad']")?.InnerText;
+            if (altNames != null)
+            {
+                var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
+                spell.NameVO = matchNames.Groups["vo"].Value;
+                spell.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? spell.Name : matchNames.Groups["alt"].Value;
+            }
+            else
+            {
+                spell.NamePHB = spell.Name;
+            }
             spell.LevelType = nodeSpell.SelectSingleNode("h2/em").InnerText;
             spell.Level = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
             spell.Type = spell.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];

@@ -178,15 +178,15 @@ namespace AideDeJeu.ViewModels
 
                 //try
                 //{
-                ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
-                await helper.AddOrUpdateSpellsAsync(items);
-                var items2 = await helper.GetSpellsAsync();
+                //ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
+                //await helper.AddOrUpdateSpellsAsync(items);
+                //var items2 = await helper.GetSpellsAsync();
                 //}
                 //catch(Exception ex)
                 //{
                 //    Debug.WriteLine(ex);
                 //}
-                var aitems = items2.ToArray();
+                var aitems = items.ToArray();
                 Array.Sort(aitems, new ItemComparer());
                 foreach (var item in aitems)
                 {

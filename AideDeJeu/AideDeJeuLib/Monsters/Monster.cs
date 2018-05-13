@@ -72,13 +72,21 @@ namespace AideDeJeuLib.Monsters
         public static Monster FromHtml(HtmlNode divBloc)
         {
             var monster = new Monster();
+            monster.Html = divBloc.OuterHtml;
             var divMonster = divBloc?.SelectSingleNode("div[contains(@class,'monstre')]");
             monster.Name = divMonster?.SelectSingleNode("h1").InnerText;
 
-            var altNames = divMonster.SelectSingleNode("div[@class='trad']").InnerText;
-            var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
-            monster.NameVO = matchNames.Groups["vo"].Value;
-            monster.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? monster.Name : matchNames.Groups["alt"].Value;
+            var altNames = divMonster.SelectSingleNode("div[@class='trad']")?.InnerText;
+            if (altNames != null)
+            {
+                var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
+                monster.NameVO = matchNames.Groups["vo"].Value;
+                monster.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? monster.Name : matchNames.Groups["alt"].Value;
+            }
+            else
+            {
+                monster.NamePHB = monster.Name;
+            }
 
             var divSansSerif = divMonster?.SelectSingleNode("div[contains(@class,'sansSerif')]");
             var typeSizeAlignment = divSansSerif?.SelectSingleNode("h2/em")?.InnerText;

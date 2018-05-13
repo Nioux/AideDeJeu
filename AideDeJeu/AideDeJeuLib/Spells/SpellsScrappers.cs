@@ -72,12 +72,14 @@ namespace AideDeJeuLib.Spells
             var client = GetHttpClient();
             // https://www.aidedd.org/regles/sorts/
 
-            var url = string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
+            //var url = string.Format("https://www.aidedd.org/regles/sorts/?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
+            var url = string.Format("https://www.aidedd.org/dnd-filters/sorts.php?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
             html = await client.GetStringAsync(url);
 
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
-            var tdssort = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
+            //var tdssort = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
+            var tdssort = pack.DocumentNode.SelectSingleNode("//table[contains(@class,'liste')]").Elements("tr").ToList();
             var spells = new List<Spell>();
             foreach (var tdsort in tdssort)
             {
@@ -85,27 +87,27 @@ namespace AideDeJeuLib.Spells
                 if (thssort.Length > 0)
                 {
                     Spell spell = new Spell();
-                    var aname = thssort[0].Element("a");
+                    var aname = thssort[1].Element("a");
                     var spanname = aname.Element("span");
                     if(spanname != null)
                     {
                         spell.NamePHB = spanname.GetAttributeValue("title", "");
-                        spell.Name = spanname.Element("strong").InnerText;
+                        spell.Name = spanname.InnerText;
                     }
                     else
                     {
-                        spell.NamePHB = aname.Element("strong").InnerText;
-                        spell.Name = aname.Element("strong").InnerText;
+                        spell.NamePHB = aname.InnerText;
+                        spell.Name = aname.InnerText;
                     }
                     var href = aname.GetAttributeValue("href", "");
                     var regex = new Regex("vf=(?<id>.*)");
                     spell.Id = regex.Match(href).Groups["id"].Value;
 
-                    spell.Level = thssort[1].InnerText;
-                    spell.Type = thssort[2].InnerText;
-                    spell.CastingTime = thssort[3].InnerText;
-                    spell.Concentration = thssort[4].InnerText;
-                    spell.Rituel = thssort[5].InnerText;
+                    spell.Level = thssort[2].InnerText;
+                    spell.Type = thssort[3].InnerText;
+                    spell.CastingTime = thssort[4].InnerText;
+                    spell.Concentration = thssort[5].InnerText;
+                    spell.Rituel = thssort[6].InnerText;
                     spells.Add(spell);
                 }
             }

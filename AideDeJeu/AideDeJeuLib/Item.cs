@@ -12,5 +12,6 @@ namespace AideDeJeuLib
         public string Name { get; set; }
         public string NameVO { get; set; }
         public string NamePHB { get; set; }
+        public string Html { get; set; }
     }
 }

@@ -74,11 +74,14 @@ namespace AideDeJeuLib.Monsters
             var client = GetHttpClient();
             // https://www.aidedd.org/regles/monstres/?min=.25&max=20&c=M&sz=TP&lg=si&t=Humano%C3%AFde&s=srd
 
-            html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/regles/monstres/?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source));
+            //html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/regles/monstres/?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source));
+            var url = string.Format($"https://www.aidedd.org/dnd-filters/monstres.php?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source);
+            html = await client.GetStringAsync(url);
 
             var pack = new HtmlDocument();
             pack.LoadHtml(html);
-            var trs = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
+            //var trs = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
+            var trs = pack.DocumentNode.SelectSingleNode("//table[contains(@class,'liste')]").Elements("tr").ToList();
             var monsters = new List<Monster>();
             foreach (var tr in trs)
             {
@@ -86,28 +89,28 @@ namespace AideDeJeuLib.Monsters
                 if (tds.Length > 0)
                 {
                     var monster = new Monster();
-                    var aname = tds[0].Element("a");
+                    var aname = tds[1].Element("a");
                     var spanname = aname.Element("span");
                     if (spanname != null)
                     {
                         monster.NamePHB = spanname.GetAttributeValue("title", "");
-                        monster.Name = spanname.Element("strong").InnerText;
+                        monster.Name = spanname.InnerText;
                     }
                     else
                     {
-                        monster.NamePHB = aname.Element("strong").InnerText;
-                        monster.Name = aname.Element("strong").InnerText;
+                        monster.NamePHB = aname.InnerText;
+                        monster.Name = aname.InnerText;
                     }
 
                     //monster.Name = tds[0].InnerText;
                     var href = aname.GetAttributeValue("href", "");
                     var regex = new Regex("vf=(?<id>.*)");
                     monster.Id = regex.Match(href).Groups["id"].Value;
-                    monster.Power = tds[1].InnerText;
-                    monster.Type = tds[2].InnerText;
-                    monster.Size = tds[3].InnerText;
-                    monster.Alignment = tds[4].InnerText;
-                    monster.Legendary = tds[5].InnerText;
+                    monster.Power = tds[2].InnerText;
+                    monster.Type = tds[3].InnerText;
+                    monster.Size = tds[4].InnerText;
+                    monster.Alignment = tds[5].InnerText;
+                    monster.Legendary = tds[6].InnerText;
                     monsters.Add(monster);
                 }
             }

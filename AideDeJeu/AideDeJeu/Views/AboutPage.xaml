@@ -8,6 +8,9 @@
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
     </ContentPage.BindingContext>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="truc" />
+    </ContentPage.ToolbarItems>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
