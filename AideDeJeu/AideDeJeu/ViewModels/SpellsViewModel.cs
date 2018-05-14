@@ -16,19 +16,19 @@ namespace AideDeJeu.ViewModels
         public List<KeyValuePair<string, string>> Classes { get; set; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes" ),
-            new KeyValuePair<string, string>("b", "Barde" ),
-            new KeyValuePair<string, string>("c", "Clerc" ),
-            new KeyValuePair<string, string>("d", "Druide" ),
-            new KeyValuePair<string, string>("s", "Ensorceleur" ),
-            new KeyValuePair<string, string>("w", "Magicien" ),
-            new KeyValuePair<string, string>("p", "Paladin" ),
-            new KeyValuePair<string, string>("r", "Rôdeur" ),
-            new KeyValuePair<string, string>("k", "Sorcier" ),
+            new KeyValuePair<string, string>("Barde", "Barde" ),
+            new KeyValuePair<string, string>("Clerc", "Clerc" ),
+            new KeyValuePair<string, string>("Druide", "Druide" ),
+            new KeyValuePair<string, string>("Ensorceleur", "Ensorceleur" ),
+            new KeyValuePair<string, string>("Magicien", "Magicien" ),
+            new KeyValuePair<string, string>("Paladin", "Paladin" ),
+            new KeyValuePair<string, string>("Rôdeur", "Rôdeur" ),
+            new KeyValuePair<string, string>("Sorcier", "Sorcier" ),
         };
 
         public List<KeyValuePair<string, string>> Niveaux { get; set; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("Z", "Sorts mineurs"),
+            new KeyValuePair<string, string>("0", "Sorts mineurs"),
             new KeyValuePair<string, string>("1", "Niveau 1"),
             new KeyValuePair<string, string>("2", "Niveau 2"),
             new KeyValuePair<string, string>("3", "Niveau 3"),
@@ -46,24 +46,24 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("abjuration", "Abjuration"),
             new KeyValuePair<string, string>("divination", "Divination"),
             new KeyValuePair<string, string>("enchantement", "Enchantement"),
-            new KeyValuePair<string, string>("evocation", "Évocation"),
+            new KeyValuePair<string, string>("vocation", "Évocation"),
             new KeyValuePair<string, string>("illusion", "Illusion"),
             new KeyValuePair<string, string>("invocation", "Invocation"),
-            new KeyValuePair<string, string>("necromancie", "Nécromancie"),
+            new KeyValuePair<string, string>("cromancie", "Nécromancie"),
             new KeyValuePair<string, string>("transmutation", "Transmutation"),
         };
 
         public List<KeyValuePair<string, string>> Rituels { get; set; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Tous"),
-            new KeyValuePair<string, string>("1", "Rituel"),
+            new KeyValuePair<string, string>("(rituel)", "Rituel"),
         };
 
         public List<KeyValuePair<string, string>> Sources { get; set; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("srd", "SRD"),
-            new KeyValuePair<string, string>("ph", "PHB"),
+            new KeyValuePair<string, string>("(SRD)", "SRD"),
+            new KeyValuePair<string, string>("Player's Handbook", "PHB"),
             new KeyValuePair<string, string>("sup", "SCAG, XGtE"),
         };
 
@@ -171,11 +171,15 @@ namespace AideDeJeu.ViewModels
             {
                 AllItems.Clear();
                 IEnumerable<Spell> items = null;
-                using (var spellsScrappers = new SpellsScrappers())
-                {
-                    items = await spellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
-                }
+                //using (var spellsScrappers = new SpellsScrappers())
+                //{
+                //    items = await spellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                //}
 
+                ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
+                items = await helper.GetSpellsAsync(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                
+                
                 //try
                 //{
                 //ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();

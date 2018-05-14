@@ -19,14 +19,22 @@ namespace AideDeJeu.Services
             return postDatabaseContext;
         }
 
-        public async Task<IEnumerable<Spell>> GetSpellsAsync()
+        public async Task<IEnumerable<Spell>> GetSpellsAsync(string classe, string niveauMin, string niveauMax, string ecole, string rituel, string source)
         {
             using (var context = CreateContext())
             {
                 //We use OrderByDescending because Posts are generally displayed from most recent to oldest
                 return await context.Spells
                                     .AsNoTracking()
-                                    .OrderByDescending(spell => spell.Id)
+                                    .Where(spell => 
+                                        (int.Parse(spell.Level) >= int.Parse(niveauMin)) && 
+                                        (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
+                                        spell.Type.Contains(ecole) &&
+                                        spell.Source.Contains(source) &&
+                                        spell.Type.Contains(classe) &&
+                                        spell.Type.Contains(rituel)
+                                        )
+                                    .OrderByDescending(spell => spell.NamePHB)
                                     .ToListAsync();
             }
         }
