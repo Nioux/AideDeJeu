@@ -36,7 +36,22 @@ namespace AideDeJeuLib.Monsters
         public string Languages { get; set; }
         public string Challenge { get; set; }
         public string Description { get; set; }
-        public string Picture { get; set; }
+        private string _Picture = null;
+        public string Picture
+        {
+            get
+            {
+                if(_Picture != null)
+                {
+                    return "https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/Monsters" + _Picture.Substring(_Picture.LastIndexOf('/'));
+                }
+                return null;
+            }
+            set
+            {
+                _Picture = value;
+            }
+        }
 
         [IgnoreDataMember]
         [NotMapped]
