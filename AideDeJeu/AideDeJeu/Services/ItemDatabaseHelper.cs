@@ -31,7 +31,7 @@ namespace AideDeJeu.Services
                                         (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
                                         spell.Type.Contains(ecole) &&
                                         spell.Source.Contains(source) &&
-                                        spell.Type.Contains(classe) &&
+                                        spell.Source.Contains(classe) &&
                                         spell.Type.Contains(rituel)
                                         )
                                     .OrderByDescending(spell => spell.NamePHB)
