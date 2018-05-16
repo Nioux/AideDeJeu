@@ -35,7 +35,7 @@
 % Your content goes here
 
 % Comment this out if you're using the article class.
-\chapter{Erratas du Player's Handbook v1.02}
+\chapter{Erratas du Player's Handbook v1.03}
 
 \nopagebreak
 \subsection{Page 20 - Droite}
@@ -422,14 +422,14 @@ Lorsque vous lancez ce sort, vous tracez un glyphe qui libèrera plus tard un ef
 \newline
 \textbf{Durée :} instantanée
 \newline
-Vous prononcez une parole divine, emplie de la puissance qui a façonné le monde à l'aube de la création. Choisissez autant de créatures que vous le souhaitez parmi celles que vous voyez, dans la portée du sort. Chaque créature qui vous entend doit réussir un jet de sauvegarde de Charisme, sans quoi elle subit un effet selon la valeur actuelle de ses points de vie.
+Vous prononcez une parole divine, empreinte de la puissance qui a façonné le monde à l'aube de la création. Choisissez autant de créatures situées à portée et dans votre champ de vision que vous le désirez. Chacune de celles qui vous entendent doit faire un jet de sauvegarde de Charisme. En cas d'échec, la créature souffre d'un effet basé sur ses points de vie actuels.
 \begin{itemize}
-  \item 50 pv ou moins : assourdie pendant 1 minute
-  \item 40 pv ou moins : assourdie et aveuglée pendant 10 minutes
-  \item 30 pv ou moins : aveuglée, assourdie et étourdie pendant 1 heure
-  \item 20 pv ou moins : tuée sur le coup
+  \item 50 points de vie ou moins: sourde pour une minute.
+  \item 40 points de vie ou moins: aveugle et sourde pour dix minutes.
+  \item 30 points de vie ou moins: aveugle, sourde et étourdie pour une heure.
+  \item 20 points de vie ou moins: morte sur-le-champ.
 \end{itemize}
-Indépendamment de ses points de vie actuels, un céleste, un élémentaire, une fée ou un fiélon qui échoue son jet est retourné à son plan d'origine (s'il n'y est pas déjà) et il ne peut revenir sur votre plan pendant 24 heures, peu importe le moyen, à l'exception du sort \textit{souhait}. 
+Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fielon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un \textit{souhait}. 
 \pagebreak[0]
 
 \nopagebreak
@@ -472,9 +472,9 @@ vision dans le noir, \st{183, 199} \underline{185}
 
 \textbf{DD5 :} Wizards of the Coast, Gale Force Nine, Black Book Editions
 
-\textbf{Liste des erratas :} Toute la dream team qui a alimenté la liste sur le forum BBE, ainsi que les correcteurs / traducteurs pour leurs ajustements / précisions ;-)
+\textbf{Liste des erratas :} Toute la dream team qui a alimenté la liste sur le forum BBE, ainsi que les correcteurs / traducteurs pour leurs ajustements / précisions, ainsi que les forumeurs d'AideDD ;-)
 
-\textbf{Sort ajouté :} Le sort de clerc manquant a été copié sur celui du site AideDD
+\textbf{Sort ajouté :} Le sort de clerc manquant a été copié sur celui du forum du site AideDD
 
 \textbf{Template LaTeX :} evanbergeron https://github.com/evanbergeron/DND-5e-LaTeX-Template
 
