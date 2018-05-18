@@ -1,4 +1,5 @@
-﻿using AideDeJeuLib.Monsters;
+﻿using AideDeJeu.Tools;
+using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -55,12 +56,15 @@ namespace AideDeJeu.Services
         {
             using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
+                var powerComparer = new PowerComparer();
                 return await context.Monsters
                                     .AsNoTracking()
                                     .Where(monster =>
                                         monster.Type.Contains(type) &&
                                         (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                                        monster.Source.Contains(source)
+                                        monster.Source.Contains(source) &&
+                                        powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
+                                        powerComparer.Compare(monster.Challenge, maxPower) <= 0
                                         )
                                     //.OrderByDescending(monster => monster.Id)
                                     .ToListAsync().ConfigureAwait(false);
