@@ -17,14 +17,8 @@ namespace AideDeJeu.Views
         public MainPage ()
 		{
 			InitializeComponent ();
-            Navigator = new Navigator(Navigation);
+            Navigator = new Navigator((Detail as NavigationPage).Navigation);
             BindingContext = viewModel = new MainViewModel(Navigator);
-        }
-
-        protected override bool OnBackButtonPressed()
-        {
-            IsPresented = !IsPresented;
-            return true;
         }
 
         protected override void OnAppearing()

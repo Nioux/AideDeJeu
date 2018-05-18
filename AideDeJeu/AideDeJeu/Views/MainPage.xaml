@@ -82,43 +82,47 @@
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <ContentPage Title="">
-            <ContentPage.ToolbarItems>
-                <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
-                <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
-                <ToolbarItem Name="About" Text="À propos de..." Order="Primary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
-            </ContentPage.ToolbarItems>
-            <StackLayout Orientation="Vertical">
-                <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
-                    <SearchBar.Behaviors>
-                        <tools:TextChangedBehavior />
-                    </SearchBar.Behaviors>
-                </SearchBar>
+        <NavigationPage>
+            <x:Arguments>
+                <ContentPage Title="">
+                    <ContentPage.ToolbarItems>
+                        <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
+                        <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
+                        <ToolbarItem Name="About" Text="À propos de..." Order="Primary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
+                    </ContentPage.ToolbarItems>
+                    <StackLayout Orientation="Vertical">
+                        <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                            <SearchBar.Behaviors>
+                                <tools:TextChangedBehavior />
+                            </SearchBar.Behaviors>
+                        </SearchBar>
 
-                <ListView x:Name="ItemsListView" 
+                        <ListView x:Name="ItemsListView" 
                     ItemsSource="{Binding Items}"
                     VerticalOptions="FillAndExpand"
                     HasUnevenRows="true"
                     IsRefreshing="{Binding IsBusy, Mode=OneWay}"
                     CachingStrategy="RecycleElement"
                     SelectedItem="{Binding SelectedItem}">
-                    <!--RefreshCommand="{Binding LoadItemsCommand}"
+                            <!--RefreshCommand="{Binding LoadItemsCommand}"
                     IsPullToRefreshEnabled="true"-->
 
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-                                <StackLayout Padding="10">
-                                    <Label Text="{Binding NamePHB}" 
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Padding="10">
+                                            <Label Text="{Binding NamePHB}" 
                                         LineBreakMode="NoWrap" 
                                         Style="{DynamicResource subsubsection}" 
                                         FontSize="16" />
-                                </StackLayout>
-                            </ViewCell>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-            </StackLayout>
-        </ContentPage>
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackLayout>
+                </ContentPage>
+            </x:Arguments>
+        </NavigationPage>
     </MasterDetailPage.Detail>
 </MasterDetailPage>
