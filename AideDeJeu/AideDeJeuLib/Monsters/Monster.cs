@@ -83,24 +83,32 @@ namespace AideDeJeuLib.Monsters
         public List<HtmlNode> LegendaryActions { get; set; }
 
 
-
-        public static Monster FromHtml(HtmlNode divBloc)
+        public void ParseHtml()
         {
-            var monster = new Monster();
-            monster.Html = divBloc.OuterHtml;
+            var pack = new HtmlDocument();
+            pack.LoadHtml(this.Html);
+            var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
+            ParseNode(divSpell);
+        }
+
+        //public static Monster FromHtml(HtmlNode divBloc)
+        //{
+        public void ParseNode(HtmlNode divBloc)
+        {
+            //monster.Html = divBloc.OuterHtml;
             var divMonster = divBloc?.SelectSingleNode("div[contains(@class,'monstre')]");
-            monster.Name = divMonster?.SelectSingleNode("h1").InnerText;
+            this.Name = divMonster?.SelectSingleNode("h1").InnerText;
 
             var altNames = divMonster.SelectSingleNode("div[@class='trad']")?.InnerText;
             if (altNames != null)
             {
                 var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
-                monster.NameVO = matchNames.Groups["vo"].Value;
-                monster.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? monster.Name : matchNames.Groups["alt"].Value;
+                this.NameVO = matchNames.Groups["vo"].Value;
+                this.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? this.Name : matchNames.Groups["alt"].Value;
             }
             else
             {
-                monster.NamePHB = monster.Name;
+                this.NamePHB = this.Name;
             }
 
             var divSansSerif = divMonster?.SelectSingleNode("div[contains(@class,'sansSerif')]");
@@ -108,34 +116,34 @@ namespace AideDeJeuLib.Monsters
             if (typeSizeAlignment != null)
             {
                 var matchesTypeSizeAlignment = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)").Match(typeSizeAlignment);
-                monster.Type = matchesTypeSizeAlignment?.Groups["type"]?.Value?.Trim();
-                monster.Size = matchesTypeSizeAlignment?.Groups["size"]?.Value?.Trim();
-                monster.Alignment = matchesTypeSizeAlignment?.Groups["alignment"]?.Value?.Trim();
+                this.Type = matchesTypeSizeAlignment?.Groups["type"]?.Value?.Trim();
+                this.Size = matchesTypeSizeAlignment?.Groups["size"]?.Value?.Trim();
+                this.Alignment = matchesTypeSizeAlignment?.Groups["alignment"]?.Value?.Trim();
             }
             var divRed = divSansSerif?.SelectSingleNode("div[contains(@class,'red')]");
-            monster.ArmorClass = divRed?.SelectSingleNode("strong[contains(text(),'armure')]")?.NextSibling?.InnerText;
-            monster.HitPoints = divRed?.SelectSingleNode("strong[contains(text(),'Points de vie')]")?.NextSibling?.InnerText;
-            monster.Speed = divRed?.SelectSingleNode("strong[contains(text(),'Vitesse')]")?.NextSibling?.InnerText;
+            this.ArmorClass = divRed?.SelectSingleNode("strong[contains(text(),'armure')]")?.NextSibling?.InnerText;
+            this.HitPoints = divRed?.SelectSingleNode("strong[contains(text(),'Points de vie')]")?.NextSibling?.InnerText;
+            this.Speed = divRed?.SelectSingleNode("strong[contains(text(),'Vitesse')]")?.NextSibling?.InnerText;
 
-            monster.Strength = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'FOR')]")?.NextSibling?.NextSibling?.InnerText;
-            monster.Dexterity = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'DEX')]")?.NextSibling?.NextSibling?.InnerText;
-            monster.Constitution = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'CON')]")?.NextSibling?.NextSibling?.InnerText;
-            monster.Intelligence = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'INT')]")?.NextSibling?.NextSibling?.InnerText;
-            monster.Wisdom = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'SAG')]")?.NextSibling?.NextSibling?.InnerText;
-            monster.Charisma = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'CHA')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Strength = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'FOR')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Dexterity = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'DEX')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Constitution = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'CON')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Intelligence = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'INT')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Wisdom = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'SAG')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Charisma = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'CHA')]")?.NextSibling?.NextSibling?.InnerText;
 
 
-            monster.SavingThrows = divRed?.SelectSingleNode("strong[contains(text(),'Jets de sauvegarde')]")?.NextSibling?.InnerText;
-            monster.Skills = divRed?.SelectSingleNode("strong[contains(text(),'Compétences')]")?.NextSibling?.InnerText;
+            this.SavingThrows = divRed?.SelectSingleNode("strong[contains(text(),'Jets de sauvegarde')]")?.NextSibling?.InnerText;
+            this.Skills = divRed?.SelectSingleNode("strong[contains(text(),'Compétences')]")?.NextSibling?.InnerText;
             
-            monster.DamageVulnerabilities = divRed?.SelectSingleNode("strong[contains(text(),'Vulnérabilités aux dégâts')]")?.NextSibling?.InnerText;
-            monster.DamageResistances = divRed?.SelectSingleNode("strong[contains(text(),'Résistances aux dégâts')]")?.NextSibling?.InnerText;
-            monster.DamageImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux dégâts')]")?.NextSibling?.InnerText;
-            monster.ConditionImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux conditions')]")?.NextSibling?.InnerText;
+            this.DamageVulnerabilities = divRed?.SelectSingleNode("strong[contains(text(),'Vulnérabilités aux dégâts')]")?.NextSibling?.InnerText;
+            this.DamageResistances = divRed?.SelectSingleNode("strong[contains(text(),'Résistances aux dégâts')]")?.NextSibling?.InnerText;
+            this.DamageImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux dégâts')]")?.NextSibling?.InnerText;
+            this.ConditionImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux conditions')]")?.NextSibling?.InnerText;
 
-            monster.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens')]")?.NextSibling?.InnerText;
-            monster.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues')]")?.NextSibling?.InnerText;
-            monster.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;
+            this.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens')]")?.NextSibling?.InnerText;
+            this.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues')]")?.NextSibling?.InnerText;
+            this.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;
 
             List<HtmlNode> nodes = new List<HtmlNode>();
             List<HtmlNode> specialFeatures = null;
@@ -179,20 +187,26 @@ namespace AideDeJeuLib.Monsters
                 legendaryActions = nodes;
             }
 
-            monster.SpecialFeatures = specialFeatures;
-            monster.Actions = actions;
-            monster.LegendaryActions = legendaryActions;
+            this.SpecialFeatures = specialFeatures;
+            this.Actions = actions;
+            this.LegendaryActions = legendaryActions;
 
             var divDescription = divBloc?.SelectSingleNode("div[contains(@class,'description')]");
-            monster.Description = divDescription?.InnerText;
+            this.Description = divDescription?.InnerText;
 
             var divSource = divBloc?.SelectSingleNode("div[contains(@class,'source')]");
-            monster.Source = divSource?.InnerText;
+            this.Source = divSource?.InnerText;
 
             var img = divBloc?.SelectSingleNode("div[contains(@class,'center')]/img[contains(@class,'picture')]");
-            monster.Picture = img?.GetAttributeValue("src", null);
-            return monster;
+            this.Picture = img?.GetAttributeValue("src", null);
         }
 
+        public static Monster FromHtml(HtmlNode node)
+        {
+            var monster = new Monster();
+            monster.Html = node.OuterHtml;
+            monster.ParseNode(node);
+            return monster;
+        }
     }
 }

@@ -11,17 +11,17 @@ namespace AideDeJeu.Services
 {
     public class ItemDatabaseHelper<T> where T : ItemDatabaseContext
     {
-        protected T CreateContext()
+        protected async Task<T> CreateContextAsync()
         {
             T postDatabaseContext = (T)Activator.CreateInstance(typeof(T));
-            postDatabaseContext.Database.EnsureCreated();
-            postDatabaseContext.Database.Migrate();
+            await postDatabaseContext.Database.EnsureCreatedAsync().ConfigureAwait(false);
+            await postDatabaseContext.Database.MigrateAsync().ConfigureAwait(false);
             return postDatabaseContext;
         }
 
         public async Task<IEnumerable<Spell>> GetSpellsAsync(string classe, string niveauMin, string niveauMax, string ecole, string rituel, string source)
         {
-            using (var context = CreateContext())
+            using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
                 //We use OrderByDescending because Posts are generally displayed from most recent to oldest
                 return await context.Spells
@@ -34,27 +34,27 @@ namespace AideDeJeu.Services
                                         spell.Source.Contains(classe) &&
                                         spell.Type.Contains(rituel)
                                         )
-                                    .OrderByDescending(spell => spell.NamePHB)
-                                    .ToListAsync();
+                                    //.OrderByDescending(spell => spell.NamePHB)
+                                    .ToListAsync().ConfigureAwait(false);
             }
         }
 
         public async Task AddOrUpdateSpellsAsync(IEnumerable<Spell> spells)
         {
-            using (var context = CreateContext())
+            using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
                 // add posts that do not exist in the database
                 var newSpells = spells.Where(
                     spell => context.Spells.Any(dbSpell => dbSpell.Id == spell.Id) == false
                 );
-                await context.Spells.AddRangeAsync(newSpells);
-                await context.SaveChangesAsync();
+                await context.Spells.AddRangeAsync(newSpells).ConfigureAwait(false);
+                await context.SaveChangesAsync().ConfigureAwait(false);
             }
         }
 
         public async Task<IEnumerable<Monster>> GetMonstersAsync(string category, string type, string minPower, string maxPower, string size, string legendary, string source)
         {
-            using (var context = CreateContext())
+            using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
                 //We use OrderByDescending because Posts are generally displayed from most recent to oldest
                 return await context.Monsters
@@ -64,21 +64,21 @@ namespace AideDeJeu.Services
                                         //("[" + monster.Size.Trim().ToUpper() + "]").Contains("[" + size.ToUpper() + "]") &&
                                         monster.Source.Contains(source)
                                         )
-                                    .OrderByDescending(monster => monster.Id)
-                                    .ToListAsync();
+                                    //.OrderByDescending(monster => monster.Id)
+                                    .ToListAsync().ConfigureAwait(false);
             }
         }
 
         public async Task AddOrUpdateMonstersAsync(IEnumerable<Monster> monsters)
         {
-            using (var context = CreateContext())
+            using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
                 // add posts that do not exist in the database
                 var newMonsters = monsters.Where(
                     monster => context.Monsters.Any(dbMonster => dbMonster.Id == monster.Id) == false
                 );
-                await context.Monsters.AddRangeAsync(newMonsters);
-                await context.SaveChangesAsync();
+                await context.Monsters.AddRangeAsync(newMonsters).ConfigureAwait(false);
+                await context.SaveChangesAsync().ConfigureAwait(false);
             }
         }
     }
