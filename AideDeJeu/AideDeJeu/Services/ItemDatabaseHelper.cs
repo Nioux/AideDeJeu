@@ -23,7 +23,6 @@ namespace AideDeJeu.Services
         {
             using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
-                //We use OrderByDescending because Posts are generally displayed from most recent to oldest
                 return await context.Spells
                                     .AsNoTracking()
                                     .Where(spell => 
@@ -56,12 +55,11 @@ namespace AideDeJeu.Services
         {
             using (var context = await CreateContextAsync().ConfigureAwait(false))
             {
-                //We use OrderByDescending because Posts are generally displayed from most recent to oldest
                 return await context.Monsters
                                     .AsNoTracking()
                                     .Where(monster =>
                                         monster.Type.Contains(type) &&
-                                        //("[" + monster.Size.Trim().ToUpper() + "]").Contains("[" + size.ToUpper() + "]") &&
+                                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
                                         monster.Source.Contains(source)
                                         )
                                     //.OrderByDescending(monster => monster.Id)

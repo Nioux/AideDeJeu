@@ -152,7 +152,7 @@ namespace AideDeJeu.ViewModels
                 }
             }
         }
-        private int _MaxPower = 18;
+        private int _MaxPower = 28;
         public int MaxPower
         {
             get
