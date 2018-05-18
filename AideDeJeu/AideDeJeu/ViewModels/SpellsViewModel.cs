@@ -76,8 +76,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Classe, value);
-                LoadItemsCommand.Execute(null);
+                if (_Classe != value)
+                {
+                    SetProperty(ref _Classe, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _NiveauMin = 0;
@@ -89,12 +92,15 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _NiveauMin, value);
-                if (_NiveauMax < _NiveauMin)
+                if (_NiveauMin != value)
                 {
-                    SetProperty(ref _NiveauMax, value, nameof(NiveauMax));
+                    SetProperty(ref _NiveauMin, value);
+                    if (_NiveauMax < _NiveauMin)
+                    {
+                        SetProperty(ref _NiveauMax, value, nameof(NiveauMax));
+                    }
+                    LoadItemsCommand.Execute(null);
                 }
-                LoadItemsCommand.Execute(null);
             }
         }
         private int _NiveauMax = 9;
@@ -106,12 +112,15 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _NiveauMax, value);
-                if (_NiveauMax < _NiveauMin)
+                if (_NiveauMax != value)
                 {
-                    SetProperty(ref _NiveauMin, value, nameof(NiveauMin));
+                    SetProperty(ref _NiveauMax, value);
+                    if (_NiveauMax < _NiveauMin)
+                    {
+                        SetProperty(ref _NiveauMin, value, nameof(NiveauMin));
+                    }
+                    LoadItemsCommand.Execute(null);
                 }
-                LoadItemsCommand.Execute(null);
             }
         }
         private int _Ecole = 0;
@@ -123,8 +132,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Ecole, value);
-                LoadItemsCommand.Execute(null);
+                if (_Ecole != value)
+                {
+                    SetProperty(ref _Ecole, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _Rituel = 0;
@@ -136,8 +148,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Rituel, value);
-                LoadItemsCommand.Execute(null);
+                if (_Rituel != value)
+                {
+                    SetProperty(ref _Rituel, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _Source = 1;
@@ -149,8 +164,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Source, value);
-                LoadItemsCommand.Execute(null);
+                if (_Source != value)
+                {
+                    SetProperty(ref _Source, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
 

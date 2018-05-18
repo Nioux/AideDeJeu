@@ -52,13 +52,18 @@ namespace AideDeJeu.Services
             }
         }
 
-        public async Task<IEnumerable<Monster>> GetMonstersAsync()
+        public async Task<IEnumerable<Monster>> GetMonstersAsync(string category, string type, string minPower, string maxPower, string size, string legendary, string source)
         {
             using (var context = CreateContext())
             {
                 //We use OrderByDescending because Posts are generally displayed from most recent to oldest
                 return await context.Monsters
                                     .AsNoTracking()
+                                    .Where(monster =>
+                                        monster.Type.Contains(type) &&
+                                        //("[" + monster.Size.Trim().ToUpper() + "]").Contains("[" + size.ToUpper() + "]") &&
+                                        monster.Source.Contains(source)
+                                        )
                                     .OrderByDescending(monster => monster.Id)
                                     .ToListAsync();
             }

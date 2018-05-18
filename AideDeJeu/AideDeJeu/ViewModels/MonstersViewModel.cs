@@ -1,4 +1,5 @@
-﻿using AideDeJeu.Tools;
+﻿using AideDeJeu.Services;
+using AideDeJeu.Tools;
 using AideDeJeuLib;
 using AideDeJeuLib.Monsters;
 using System;
@@ -41,19 +42,35 @@ namespace AideDeJeu.ViewModels
 
         public List<KeyValuePair<string, string>> Powers { get; set; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("Z", "0" ),
-            new KeyValuePair<string, string>(".12", "1/8" ),
-            new KeyValuePair<string, string>(".25", "1/4" ),
-            new KeyValuePair<string, string>(".5", "1/2" ),
-            new KeyValuePair<string, string>("1", "1" ),
-            new KeyValuePair<string, string>("2", "2" ),
-            new KeyValuePair<string, string>("4", "4" ),
-            new KeyValuePair<string, string>("6", "6" ),
-            new KeyValuePair<string, string>("8", "8" ),
-            new KeyValuePair<string, string>("10", "10" ),
-            new KeyValuePair<string, string>("15", "15" ),
-            new KeyValuePair<string, string>("20", "20" ),
-            new KeyValuePair<string, string>("30", "30" ),
+            new KeyValuePair<string, string>(" 0 (0 PX)", "0" ),
+            new KeyValuePair<string, string>(" 1/8 (25 PX)", "1/8" ),
+            new KeyValuePair<string, string>(" 1/4 (50 PX)", "1/4" ),
+            new KeyValuePair<string, string>(" 1/2 (100 PX)", "1/2" ),
+            new KeyValuePair<string, string>(" 1 (200 PX)", "1" ),
+            new KeyValuePair<string, string>(" 2 (450 PX)", "2" ),
+            new KeyValuePair<string, string>(" 3 (700 PX)", "3" ),
+            new KeyValuePair<string, string>(" 4 (1100 PX)", "4" ),
+            new KeyValuePair<string, string>(" 5 (1800 PX)", "5" ),
+            new KeyValuePair<string, string>(" 6 (2300 PX)", "6" ),
+            new KeyValuePair<string, string>(" 7 (2900 PX)", "7" ),
+            new KeyValuePair<string, string>(" 8 (3900 PX)", "8" ),
+            new KeyValuePair<string, string>(" 9 (5000 PX)", "9" ),
+            new KeyValuePair<string, string>(" 10 (5900 PX)", "10" ),
+            new KeyValuePair<string, string>(" 11 (7200 PX)", "11" ),
+            new KeyValuePair<string, string>(" 12 (8400 PX)", "12" ),
+            new KeyValuePair<string, string>(" 13 (10000 PX)", "13" ),
+            new KeyValuePair<string, string>(" 14 (11500 PX)", "14" ),
+            new KeyValuePair<string, string>(" 15 (13000 PX)", "15" ),
+            new KeyValuePair<string, string>(" 16 (15000 PX)", "16" ),
+            new KeyValuePair<string, string>(" 17 (18000 PX)", "17" ),
+            new KeyValuePair<string, string>(" 18 (20000 PX)", "18" ),
+            new KeyValuePair<string, string>(" 19 (22000 PX)", "19" ),
+            new KeyValuePair<string, string>(" 20 (25000 PX)", "20" ),
+            new KeyValuePair<string, string>(" 21 (33000 PX)", "21" ),
+            new KeyValuePair<string, string>(" 22 (41000 PX)", "22" ),
+            new KeyValuePair<string, string>(" 23 (50000 PX)", "23" ),
+            new KeyValuePair<string, string>(" 24 (62000 PX)", "24" ),
+            new KeyValuePair<string, string>(" 30 (155000 PX)", "30" ),
         };
 
         public List<KeyValuePair<string, string>> Sizes { get; set; } = new List<KeyValuePair<string, string>>()
@@ -77,8 +94,8 @@ namespace AideDeJeu.ViewModels
         public List<KeyValuePair<string, string>> Sources { get; set; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("srd", "SRD"),
-            new KeyValuePair<string, string>("mm", "MM"),
+            new KeyValuePair<string, string>("(SRD)", "SRD"),
+            new KeyValuePair<string, string>("Monster Manual", "MM"),
             new KeyValuePair<string, string>("sup", "VGtM, MToF"),
             new KeyValuePair<string, string>("supno", "AL, AideDD"),
         };
@@ -92,8 +109,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Category, value);
-                LoadItemsCommand.Execute(null);
+                if (_Category != value)
+                {
+                    SetProperty(ref _Category, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _Type = 0;
@@ -105,8 +125,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Type, value);
-                LoadItemsCommand.Execute(null);
+                if (_Type != value)
+                {
+                    SetProperty(ref _Type, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _MinPower = 0;
@@ -118,15 +141,18 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _MinPower, value);
-                if (_MaxPower < _MinPower)
+                if (_MinPower != value)
                 {
-                    SetProperty(ref _MaxPower, value, nameof(MaxPower));
+                    SetProperty(ref _MinPower, value);
+                    if (_MaxPower < _MinPower)
+                    {
+                        SetProperty(ref _MaxPower, value, nameof(MaxPower));
+                    }
+                    LoadItemsCommand.Execute(null);
                 }
-                LoadItemsCommand.Execute(null);
             }
         }
-        private int _MaxPower = 11;
+        private int _MaxPower = 18;
         public int MaxPower
         {
             get
@@ -135,12 +161,15 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _MaxPower, value);
-                if (_MaxPower < _MinPower)
+                if (_MaxPower != value)
                 {
-                    SetProperty(ref _MinPower, value, nameof(MinPower));
+                    SetProperty(ref _MaxPower, value);
+                    if (_MaxPower < _MinPower)
+                    {
+                        SetProperty(ref _MinPower, value, nameof(MinPower));
+                    }
+                    LoadItemsCommand.Execute(null);
                 }
-                LoadItemsCommand.Execute(null);
             }
         }
         private int _Size = 0;
@@ -152,8 +181,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Size, value);
-                LoadItemsCommand.Execute(null);
+                if (_Size != value)
+                {
+                    SetProperty(ref _Size, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _Legendary = 0;
@@ -165,8 +197,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Legendary, value);
-                LoadItemsCommand.Execute(null);
+                if (_Legendary != value)
+                {
+                    SetProperty(ref _Legendary, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
         private int _Source = 1;
@@ -178,8 +213,11 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                SetProperty(ref _Source, value);
-                LoadItemsCommand.Execute(null);
+                if (_Source != value)
+                {
+                    SetProperty(ref _Source, value);
+                    LoadItemsCommand.Execute(null);
+                }
             }
         }
 
@@ -199,7 +237,11 @@ namespace AideDeJeu.ViewModels
             try
             {
                 AllItems.Clear();
-                var items = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
+                //var items = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
+
+                ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
+                var items = await helper.GetMonstersAsync(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary: Legendaries[Legendary].Key, source: Sources[Source].Key);
+
                 var aitems = items.ToArray();
                 Array.Sort(aitems, new ItemComparer());
                 foreach (var item in aitems)
