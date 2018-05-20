@@ -4,6 +4,8 @@ using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
@@ -28,6 +30,22 @@ namespace AideDeJeu.ViewModels
             get
             {
                 return DependencyService.Get<INativeAPI>().GetVersion();
+            }
+        }
+
+        public string OGL
+        {
+            get
+            {
+                var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
+                //var names = assembly.GetManifestResourceNames();
+                using (var stream = assembly.GetManifestResourceStream("AideDeJeu.OGL.txt"))
+                {
+                    using (var reader = new System.IO.StreamReader(stream))
+                    {
+                        return reader.ReadToEnd();
+                    }
+                }
             }
         }
 

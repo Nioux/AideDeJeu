@@ -11,7 +11,7 @@
     <!--<ContentPage.ToolbarItems>
         <ToolbarItem Text="truc" />
     </ContentPage.ToolbarItems>-->
-    <Grid>
+    <Grid ColumnSpacing="0">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
@@ -20,24 +20,36 @@
             <ColumnDefinition Width="Auto" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <StackLayout BackgroundColor="Black" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout BackgroundColor="Black" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
-                <ContentView BackgroundColor="Black" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
-                    <Image BackgroundColor="Black" Source="black_book.png" VerticalOptions="Center" HeightRequest="64" />
+        <StackLayout BackgroundColor="{StaticResource titlered}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout BackgroundColor="{StaticResource titlered}" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView BackgroundColor="{StaticResource titlered}" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
+                    <Image BackgroundColor="{StaticResource titlered}" Source="black_book.png" VerticalOptions="Center" HeightRequest="64" />
                 </ContentView>
             </StackLayout>
         </StackLayout>
-        <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="Black" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout BackgroundColor="Black" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
-                <Label Text="Aide de Jeu " FontSize="32" FontAttributes="Bold" TextColor="{StaticResource bgtan}" />
-                <Label Text="{Binding Version, StringFormat='Version {0}'}" TextColor="{StaticResource bgtan}" />
+        <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="{StaticResource titlered}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout BackgroundColor="{StaticResource titlered}" Padding="20,20,20,20" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Aide de Jeu " FontSize="32" FontAttributes="Bold" TextColor="{StaticResource bgtan}" HorizontalOptions="Center"/>
+                <Label Text="{Binding Version, StringFormat='Version {0}'}" TextColor="{StaticResource bgtan}" HorizontalOptions="Center"/>
             </StackLayout>
         </StackLayout>
         <ScrollView Grid.Row="1" Grid.ColumnSpan="2">
-            <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
-                <Label Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
-                <Label Text="Son contenu provient du site AideDD, et est traduit du SRD" />
-                <Label Text="Il est soumis à la licence OGL" />
+            <StackLayout Orientation="Vertical" Padding="16,20,16,20" Spacing="10">
+                
+                <Label Text="Cette application est une aide de jeu pour le plus grand des jeux de rôle au monde" />
+
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Les sources de cette application sont libres et disponibles sur " />
+                            <Span Text="github.com/Nioux/AideDeJeu" FontAttributes="Bold" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://github.com/Nioux/AideDeJeu" />
+                    </Label.GestureRecognizers>
+                </Label>
+
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
@@ -50,9 +62,34 @@
                     </Label.GestureRecognizers>
                 </Label>
 
-                
-                <Button Margin="0,10,0,0" Text="Site web" Command="{Binding OpenWebCommand}" CommandParameter="https://nioux.github.io/AideDeJeu/" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Les polices de caractères proviennent du site " />
+                            <Span Text="dafont.com" FontAttributes="Bold" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.dafont.com/fr/" />
+                    </Label.GestureRecognizers>
+                </Label>
 
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Le contenu provient du site " />
+                            <Span Text="AideDD.org" FontAttributes="Bold" />
+                            <Span Text=", traduit du SRD" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.aidedd.org/" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <Label Text="Il est soumis à la licence OGL" />
+
+                <Label Text="{Binding OGL}" />
 
             </StackLayout>
         </ScrollView>
