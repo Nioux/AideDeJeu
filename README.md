@@ -1,6 +1,6 @@
 # Aide de Jeu
 
-Ce site contient plusieurs ressources pour vos parties du plus ancien et plus célèbre des jeux de rôle
+Ce site contient plusieurs ressources pour vos parties du plus grand jeu de rôle au monde
 
 * l'[application écrite en Xamarin](https://github.com/Nioux/AideDeJeu/tree/master/AideDeJeu)
 * une liste des [erratas du PHB au format PDF](https://github.com/Nioux/AideDeJeu/blob/master/Docs/dd5_phb_erratas.pdf)
