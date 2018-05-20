@@ -1,6 +1,8 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib.Spells;
 using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
@@ -18,6 +20,7 @@ namespace AideDeJeu.ViewModels
             {
                 SetProperty(ref _Item, value);
                 OnPropertyChanged(nameof(Description));
+                OnPropertyChanged(nameof(DescriptionList));
                 OnPropertyChanged(nameof(TypeLevel));
                 OnPropertyChanged(nameof(CastingTime));
                 OnPropertyChanged(nameof(Range));
@@ -36,6 +39,21 @@ namespace AideDeJeu.ViewModels
                     FormatedTextHelpers.HtmlNodeToFormatedString(Item?.DescriptionDiv, fs, FontAttributes.None);
                 }
                 return fs;
+            }
+        }
+
+        public ObservableCollection<FormattedString> DescriptionList
+        {
+            get
+            {
+                var list = new ObservableCollection<FormattedString>();
+                list.Add(TypeLevel);
+                list.Add(CastingTime);
+                list.Add(Range);
+                list.Add(Components);
+                list.Add(Duration);
+                list.Add(TypeLevel);
+                return list;
             }
         }
 

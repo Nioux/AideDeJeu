@@ -28,5 +28,11 @@ namespace AideDeJeu.Views
             if (viewModel.Items.Count == 0)
                 viewModel.LoadItemsCommand.Execute(null);
         }
+
+        private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            if (e.Item == null) return;
+            ((ListView)sender).SelectedItem = null;
+        }
     }
 }

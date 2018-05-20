@@ -44,6 +44,17 @@
 
             <Label Text=" " />
 
+            <!--<ListView HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" ItemsSource="{Binding DescriptionList}" ItemTapped="ListView_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <Label BindingContext="{Binding}" FormattedText="{Binding}" Style="{StaticResource Key=content}" />
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
             <Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />
 
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />

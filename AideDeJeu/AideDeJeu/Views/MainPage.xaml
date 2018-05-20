@@ -103,7 +103,8 @@
                     HasUnevenRows="true"
                     IsRefreshing="{Binding IsBusy, Mode=OneWay}"
                     CachingStrategy="RecycleElement"
-                    SelectedItem="{Binding SelectedItem}">
+                    SelectedItem="{Binding SelectedItem}"
+                                  ItemTapped="ItemsListView_ItemTapped">
                             <!--RefreshCommand="{Binding LoadItemsCommand}"
                     IsPullToRefreshEnabled="true"-->
 

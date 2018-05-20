@@ -33,5 +33,11 @@ namespace AideDeJeu.Views
             viewModel = new SpellDetailViewModel(item);
             BindingContext = viewModel;
         }
+
+        private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            if (e.Item == null) return;
+            ((ListView)sender).SelectedItem = null;
+        }
     }
 }

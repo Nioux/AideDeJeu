@@ -16,26 +16,44 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
         <StackLayout BackgroundColor="Black" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
             <StackLayout BackgroundColor="Black" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
-                <ContentView BackgroundColor="Black" Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                <ContentView BackgroundColor="Black" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
                     <Image BackgroundColor="Black" Source="black_book.png" VerticalOptions="Center" HeightRequest="64" />
                 </ContentView>
             </StackLayout>
         </StackLayout>
-        <ScrollView Grid.Row="1">
+        <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="Black" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout BackgroundColor="Black" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Aide de Jeu " FontSize="32" FontAttributes="Bold" TextColor="{StaticResource bgtan}" />
+                <Label Text="{Binding Version, StringFormat='Version {0}'}" TextColor="{StaticResource bgtan}" />
+            </StackLayout>
+        </StackLayout>
+        <ScrollView Grid.Row="1" Grid.ColumnSpan="2">
             <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
-                <Label Text="Aide de Jeu" FontSize="22" FontAttributes="Bold">
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding UpdateDataCommand}" />
-                    </Label.GestureRecognizers>
-                </Label>
-                <Label Text="{Binding Version}" FontAttributes="Bold" FontSize="22" />
                 <Label Text="Cette application est une aide de jeu pour le plus célèbre des jeux de rôle" />
                 <Label Text="Son contenu provient du site AideDD, et est traduit du SRD" />
-                <Label Text="Les icones proviennent du site Game-icons.net" />
+                <Label Text="Il est soumis à la licence OGL" />
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Les icones proviennent du site " />
+                            <Span Text="Game-icons.net" FontAttributes="Bold" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="http://game-icons.net" />
+                    </Label.GestureRecognizers>
+                </Label>
 
-                <Button Margin="0,10,0,0" Text="Site web" Command="{Binding OpenWebCommand}" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
+                
+                <Button Margin="0,10,0,0" Text="Site web" Command="{Binding OpenWebCommand}" CommandParameter="https://nioux.github.io/AideDeJeu/" BackgroundColor="{StaticResource titlered}" TextColor="{StaticResource bgtan}" />
+
+
             </StackLayout>
         </ScrollView>
     </Grid>

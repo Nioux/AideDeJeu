@@ -17,7 +17,7 @@ namespace AideDeJeu.ViewModels
         {
             Title = "À propos de ...";
 
-            OpenWebCommand = new Command(() => Device.OpenUri(new Uri("https://nioux.github.io/AideDeJeu/")));
+            OpenWebCommand = new Command<string>((param) => Device.OpenUri(new Uri(param)));
             UpdateDataCommand = new Command(async() => await ExecuteUpdateDataCommandAsync());
         }
 
