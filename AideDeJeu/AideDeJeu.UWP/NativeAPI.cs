@@ -1,14 +1,20 @@
 ﻿using AideDeJeu.Tools;
 using System.IO;
+using System.Reflection;
+using Windows.ApplicationModel;
 
-[assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.Droid.Version_Android))]
-namespace AideDeJeu.Droid
+[assembly: Xamarin.Forms.Dependency(typeof(AideDeJeu.UWP.Version_UWP))]
+namespace AideDeJeu.UWP
 {
-    public class Version_Android : INativeAPI
+    public class Version_UWP : INativeAPI
     {
         public string GetVersion()
         {
-            return "";
+            Package package = Package.Current;
+            PackageId packageId = package.Id;
+            PackageVersion version = packageId.Version;
+
+            return string.Format("{0}.{1}", version.Major, version.Minor);
         }
 
         public int GetBuild()
@@ -18,7 +24,21 @@ namespace AideDeJeu.Droid
 
         public string GetDatabasePath(string databaseName)
         {
-            return Path.Combine(Windows.Storage.ApplicationData.Current.LocalFolder.Path, databaseName);
+            var documentsDirectoryPath = Windows.Storage.ApplicationData.Current.LocalFolder.Path;
+            var path = Path.Combine(documentsDirectoryPath, databaseName);
+
+            if (!File.Exists(path))
+            {
+                var assembly = typeof(Version_UWP).GetTypeInfo().Assembly;
+                using (var inStream = assembly.GetManifestResourceStream("AideDeJeu.UWP.Assets." + databaseName))
+                {
+                    using (var outStream = new FileStream(path, FileMode.Create))
+                    {
+                        inStream.CopyTo(outStream);
+                    }
+                }
+            }
+            return path;
         }
     }
 }

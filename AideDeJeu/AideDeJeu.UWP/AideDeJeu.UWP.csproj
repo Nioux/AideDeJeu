@@ -102,9 +102,9 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <Content Include="..\..\Data\database.db">
+    <EmbeddedResource Include="..\..\Data\database.db">
       <Link>Assets\database.db</Link>
-    </Content>
+    </EmbeddedResource>
     <None Include="AideDeJeu.UWP_TemporaryKey.pfx" />
     <Content Include="Assets\Fonts\LinLibertine_R.ttf" />
     <Content Include="Assets\Fonts\LinLibertine_RB.ttf" />
