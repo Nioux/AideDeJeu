@@ -96,6 +96,7 @@
     <BundleResource Include="Resources\Fonts\LinLibertine_R.ttf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </BundleResource>
+    <Compile Include="NativeAPI.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Icon-60%403x.png" />
@@ -114,7 +115,7 @@
       <Version>1.60.0</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>3.0.0.446417</Version>
+      <Version>3.0.0.482510</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
@@ -148,6 +149,10 @@
     <ProjectReference Include="..\AideDeJeu\AideDeJeu.csproj">
       <Project>{C0597D88-5C09-4314-80A3-64712B02D0E9}</Project>
       <Name>AideDeJeu</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AideDeJeuLib\AideDeJeuLib.csproj">
+      <Project>{948BB32D-BAB8-485D-8A6F-BE5391E824A3}</Project>
+      <Name>AideDeJeuLib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -202,9 +207,18 @@
     <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json" />
+    <ImageAsset Include="Media.xcassets\dragon_head.imageset\Contents.json" />
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\Contents.json" />
+    <ImageAsset Include="Media.xcassets\dragon_head.imageset\dragon_head.png" />
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell_book.png" />
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden_sign.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Media.xcassets\icon.imageset\" />
+    <Folder Include="Media.xcassets\spell_book.imageset\" />
+    <Folder Include="Media.xcassets\dragon_head.imageset\" />
+    <Folder Include="Media.xcassets\wooden_sign.imageset\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
