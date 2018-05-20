@@ -207,12 +207,24 @@
     <ImageAsset Include="Media.xcassets\icon.imageset\black-book.pdf">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\dragon_head.imageset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\Contents.json" />
-    <ImageAsset Include="Media.xcassets\dragon_head.imageset\dragon_head.png" />
-    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell_book.png" />
-    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden_sign.png" />
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\dragon_head.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\dragon_head.imageset\dragon_head.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\spell_book.imageset\spell_book.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Media.xcassets\wooden_sign.imageset\wooden_sign.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Media.xcassets\icon.imageset\" />
