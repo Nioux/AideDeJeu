@@ -174,7 +174,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.4" />
     <PackageReference Include="Xamarin.Forms">
-      <Version>3.0.0.446417</Version>
+      <Version>3.0.0.482510</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
