@@ -179,45 +179,28 @@ namespace AideDeJeu.ViewModels
         {
         }
 
-        private string SpellsJson
+        private IEnumerable<Spell> _AllSpells = null;
+        private IEnumerable<Spell> AllSpells
         {
             get
             {
-                var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
-                //var names = assembly.GetManifestResourceNames();
-                using (var stream = assembly.GetManifestResourceStream("AideDeJeu.spells.json"))
+                if(_AllSpells == null)
                 {
-                    using (var reader = new System.IO.StreamReader(stream))
+                    var serializer = new DataContractJsonSerializer(typeof(IEnumerable<Spell>));
+                    var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
+                    //var names = assembly.GetManifestResourceNames();
+                    using (var stream = assembly.GetManifestResourceStream("AideDeJeu.spells.json"))
                     {
-                        return reader.ReadToEnd();
+                        _AllSpells = serializer.ReadObject(stream) as IEnumerable<Spell>;
                     }
                 }
-            }
-        }
-
-        private IEnumerable<Spell> _Spells = null;
-        private IEnumerable<Spell> Spells
-        {
-            get
-            {
-                if(_Spells == null)
-                {
-                    DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(IEnumerable<Spell>));
-                    MemoryStream stream = new MemoryStream();
-                    var writer = new StreamWriter(stream);
-                    writer.Write(SpellsJson);
-                    writer.Flush();
-                    stream.Seek(0, SeekOrigin.Begin);
-
-                    _Spells = serializer.ReadObject(stream) as IEnumerable<Spell>;
-                }
-                return _Spells;
+                return _AllSpells;
             }
         }
 
         public IEnumerable<Spell> GetSpells(string classe, string niveauMin, string niveauMax, string ecole, string rituel, string source)
         {
-            return Spells.Where(spell =>
+            return AllSpells.Where(spell =>
                             (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
                             (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
                             spell.Type.Contains(ecole) &&

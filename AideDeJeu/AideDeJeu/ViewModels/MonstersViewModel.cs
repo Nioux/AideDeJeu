@@ -233,46 +233,29 @@ namespace AideDeJeu.ViewModels
 
 
 
-        private string MonstersJson
+        private IEnumerable<Monster> _AllMonsters = null;
+        private IEnumerable<Monster> AllMonsters
         {
             get
             {
-                var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
-                //var names = assembly.GetManifestResourceNames();
-                using (var stream = assembly.GetManifestResourceStream("AideDeJeu.monsters.json"))
+                if (_AllMonsters == null)
                 {
-                    using (var reader = new System.IO.StreamReader(stream))
+                    var serializer = new DataContractJsonSerializer(typeof(IEnumerable<Monster>));
+                    var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
+                    //var names = assembly.GetManifestResourceNames();
+                    using (var stream = assembly.GetManifestResourceStream("AideDeJeu.monsters.json"))
                     {
-                        return reader.ReadToEnd();
+                        _AllMonsters = serializer.ReadObject(stream) as IEnumerable<Monster>;
                     }
                 }
-            }
-        }
-
-        private IEnumerable<Monster> _Monsters = null;
-        private IEnumerable<Monster> Monsters
-        {
-            get
-            {
-                if (_Monsters == null)
-                {
-                    DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(IEnumerable<Monster>));
-                    MemoryStream stream = new MemoryStream();
-                    var writer = new StreamWriter(stream);
-                    writer.Write(MonstersJson);
-                    writer.Flush();
-                    stream.Seek(0, SeekOrigin.Begin);
-
-                    _Monsters = serializer.ReadObject(stream) as IEnumerable<Monster>;
-                }
-                return _Monsters;
+                return _AllMonsters;
             }
         }
 
         public IEnumerable<Monster> GetMonsters(string category, string type, string minPower, string maxPower, string size, string legendary, string source)
         {
             var powerComparer = new PowerComparer();
-            return Monsters.Where(monster =>
+            return AllMonsters.Where(monster =>
                             monster.Type.Contains(type) &&
                             (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
                             monster.Source.Contains(source) &&
