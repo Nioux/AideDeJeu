@@ -1,12 +1,14 @@
-﻿using AideDeJeu.Services;
-using AideDeJeu.Tools;
+﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
 using AideDeJeuLib.Monsters;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization.Json;
 using System.Threading.Tasks;
 
 namespace AideDeJeu.ViewModels
@@ -227,6 +229,61 @@ namespace AideDeJeu.ViewModels
         {
         }
 
+
+
+
+
+        private string MonstersJson
+        {
+            get
+            {
+                var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
+                //var names = assembly.GetManifestResourceNames();
+                using (var stream = assembly.GetManifestResourceStream("AideDeJeu.monsters.json"))
+                {
+                    using (var reader = new System.IO.StreamReader(stream))
+                    {
+                        return reader.ReadToEnd();
+                    }
+                }
+            }
+        }
+
+        private IEnumerable<Monster> _Monsters = null;
+        private IEnumerable<Monster> Monsters
+        {
+            get
+            {
+                if (_Monsters == null)
+                {
+                    DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(IEnumerable<Monster>));
+                    MemoryStream stream = new MemoryStream();
+                    var writer = new StreamWriter(stream);
+                    writer.Write(MonstersJson);
+                    writer.Flush();
+                    stream.Seek(0, SeekOrigin.Begin);
+
+                    _Monsters = serializer.ReadObject(stream) as IEnumerable<Monster>;
+                }
+                return _Monsters;
+            }
+        }
+
+        public IEnumerable<Monster> GetMonsters(string category, string type, string minPower, string maxPower, string size, string legendary, string source)
+        {
+            var powerComparer = new PowerComparer();
+            return Monsters.Where(monster =>
+                            monster.Type.Contains(type) &&
+                            (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
+                            monster.Source.Contains(source) &&
+                            powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
+                            powerComparer.Compare(monster.Challenge, maxPower) <= 0
+                            )
+                        .OrderBy(monster => monster.NamePHB)
+                        .ToList();
+        }
+
+
         public override async Task ExecuteLoadItemsCommandAsync()
         {
             if (IsBusy)
@@ -239,12 +296,13 @@ namespace AideDeJeu.ViewModels
                 AllItems.Clear();
                 //var items = await new MonstersScrappers().GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary:Legendaries[Legendary].Key, source: Sources[Source].Key);
 
-                ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
-                var items = await helper.GetMonstersAsync(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary: Legendaries[Legendary].Key, source: Sources[Source].Key);
+                //ItemDatabaseHelper helper = new ItemDatabaseHelper();
+                //var items = await helper.GetMonstersAsync(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary: Legendaries[Legendary].Key, source: Sources[Source].Key);
+                var items = GetMonsters(category: Categories[Category].Key, type: Types[Type].Key, minPower: Powers[MinPower].Key, maxPower: Powers[MaxPower].Key, size: Sizes[Size].Key, legendary: Legendaries[Legendary].Key, source: Sources[Source].Key);
 
-                var aitems = items.ToArray();
-                Array.Sort(aitems, new ItemComparer());
-                foreach (var item in aitems)
+                //var aitems = items.ToArray();
+                //Array.Sort(aitems, new ItemComparer());
+                foreach (var item in items)
                 {
                     AllItems.Add(item);
                 }

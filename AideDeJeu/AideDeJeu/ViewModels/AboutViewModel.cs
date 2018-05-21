@@ -1,5 +1,4 @@
-﻿using AideDeJeu.Services;
-using AideDeJeu.Tools;
+﻿using AideDeJeu.Tools;
 using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
 using System;
@@ -52,36 +51,36 @@ namespace AideDeJeu.ViewModels
         private int countUpdateData = 0;
         private async Task ExecuteUpdateDataCommandAsync()
         {
-            if (countUpdateData++ != 5) return;
+            //if (countUpdateData++ != 5) return;
 
-            IsBusy = true;
-            var helper = new ItemDatabaseHelper<ItemDatabaseContext>();
+            //IsBusy = true;
+            //var helper = new ItemDatabaseHelper();
 
-            using (var spellsScrappers = new SpellsScrappers())
-            {
-                var partialSpells = await spellsScrappers.GetSpells();
-                var spells = new List<Spell>();
-                foreach (var partialSpell in partialSpells)
-                {
-                    var spell = await spellsScrappers.GetSpell(partialSpell.Id);
-                    spells.Add(spell);
-                }
-                await helper.AddOrUpdateSpellsAsync(spells);
-            }
+            //using (var spellsScrappers = new SpellsScrappers())
+            //{
+            //    var partialSpells = await spellsScrappers.GetSpells();
+            //    var spells = new List<Spell>();
+            //    foreach (var partialSpell in partialSpells)
+            //    {
+            //        var spell = await spellsScrappers.GetSpell(partialSpell.Id);
+            //        spells.Add(spell);
+            //    }
+            //    await helper.AddOrUpdateSpellsAsync(spells);
+            //}
 
-            using (var monstersScrappers = new MonstersScrappers())
-            {
-                var partialMonsters = await monstersScrappers.GetMonsters();
-                var monsters = new List<Monster>();
-                foreach (var partialMonster in partialMonsters)
-                {
-                    var monster = await monstersScrappers.GetMonster(partialMonster.Id);
-                    monsters.Add(monster);
-                }
-                await helper.AddOrUpdateMonstersAsync(monsters);
-            }
+            //using (var monstersScrappers = new MonstersScrappers())
+            //{
+            //    var partialMonsters = await monstersScrappers.GetMonsters();
+            //    var monsters = new List<Monster>();
+            //    foreach (var partialMonster in partialMonsters)
+            //    {
+            //        var monster = await monstersScrappers.GetMonster(partialMonster.Id);
+            //        monsters.Add(monster);
+            //    }
+            //    await helper.AddOrUpdateMonstersAsync(monsters);
+            //}
 
-            IsBusy = false;
+            //IsBusy = false;
         }
     }
 }

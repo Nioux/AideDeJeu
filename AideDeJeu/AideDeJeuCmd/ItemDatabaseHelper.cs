@@ -10,11 +10,17 @@ using System.Threading.Tasks;
 
 namespace AideDeJeu.Services
 {
-    public class ItemDatabaseHelper<T> where T : ItemDatabaseContext
+    public class ItemDatabaseHelper
     {
-        protected async Task<T> CreateContextAsync()
+        private string DatabasePath = null;
+        public ItemDatabaseHelper(string databasePath = null)
         {
-            T postDatabaseContext = (T)Activator.CreateInstance(typeof(T));
+            DatabasePath = databasePath;
+        }
+
+        protected async Task<ItemDatabaseContext> CreateContextAsync()
+        {
+            ItemDatabaseContext postDatabaseContext = (ItemDatabaseContext)Activator.CreateInstance(typeof(ItemDatabaseContext), DatabasePath);
             await postDatabaseContext.Database.EnsureCreatedAsync().ConfigureAwait(false);
             await postDatabaseContext.Database.MigrateAsync().ConfigureAwait(false);
             return postDatabaseContext;
@@ -34,7 +40,7 @@ namespace AideDeJeu.Services
                                         spell.Source.Contains(classe) &&
                                         spell.Type.Contains(rituel)
                                         )
-                                    //.OrderByDescending(spell => spell.NamePHB)
+                                    .OrderBy(spell => spell.NamePHB)
                                     .ToListAsync().ConfigureAwait(false);
             }
         }
@@ -66,7 +72,7 @@ namespace AideDeJeu.Services
                                         powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
                                         powerComparer.Compare(monster.Challenge, maxPower) <= 0
                                         )
-                                    //.OrderByDescending(monster => monster.Id)
+                                    .OrderBy(monster => monster.NamePHB)
                                     .ToListAsync().ConfigureAwait(false);
             }
         }

@@ -1,12 +1,13 @@
-﻿using AideDeJeu.Services;
-using AideDeJeu.Tools;
-using AideDeJeuLib;
+﻿using AideDeJeuLib;
 using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
+using System.Reflection;
+using System.Runtime.Serialization.Json;
 using System.Threading.Tasks;
 
 namespace AideDeJeu.ViewModels
@@ -178,6 +179,57 @@ namespace AideDeJeu.ViewModels
         {
         }
 
+        private string SpellsJson
+        {
+            get
+            {
+                var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
+                //var names = assembly.GetManifestResourceNames();
+                using (var stream = assembly.GetManifestResourceStream("AideDeJeu.spells.json"))
+                {
+                    using (var reader = new System.IO.StreamReader(stream))
+                    {
+                        return reader.ReadToEnd();
+                    }
+                }
+            }
+        }
+
+        private IEnumerable<Spell> _Spells = null;
+        private IEnumerable<Spell> Spells
+        {
+            get
+            {
+                if(_Spells == null)
+                {
+                    DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(IEnumerable<Spell>));
+                    MemoryStream stream = new MemoryStream();
+                    var writer = new StreamWriter(stream);
+                    writer.Write(SpellsJson);
+                    writer.Flush();
+                    stream.Seek(0, SeekOrigin.Begin);
+
+                    _Spells = serializer.ReadObject(stream) as IEnumerable<Spell>;
+                }
+                return _Spells;
+            }
+        }
+
+        public IEnumerable<Spell> GetSpells(string classe, string niveauMin, string niveauMax, string ecole, string rituel, string source)
+        {
+            return Spells.Where(spell =>
+                            (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
+                            (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
+                            spell.Type.Contains(ecole) &&
+                            spell.Source.Contains(source) &&
+                            spell.Source.Contains(classe) &&
+                            spell.Type.Contains(rituel)
+                            )
+                        .OrderBy(spell => spell.NamePHB)
+                        .ToList();
+        }
+
+
         public override async Task ExecuteLoadItemsCommandAsync()
         {
             if (IsBusy)
@@ -194,10 +246,11 @@ namespace AideDeJeu.ViewModels
                 //    items = await spellsScrappers.GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
                 //}
 
-                ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
-                items = await helper.GetSpellsAsync(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
-                
-                
+                //ItemDatabaseHelper helper = new ItemDatabaseHelper();
+                //items = await helper.GetSpellsAsync(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                items = GetSpells(classe: Classes[Classe].Key, niveauMin: Niveaux[NiveauMin].Key, niveauMax: Niveaux[NiveauMax].Key, ecole: Ecoles[Ecole].Key, rituel: Rituels[Rituel].Key, source: Sources[Source].Key);
+                //items = Spells;
+
                 //try
                 //{
                 //ItemDatabaseHelper<ItemDatabaseContext> helper = new ItemDatabaseHelper<ItemDatabaseContext>();
@@ -208,9 +261,9 @@ namespace AideDeJeu.ViewModels
                 //{
                 //    Debug.WriteLine(ex);
                 //}
-                var aitems = items.ToArray();
-                Array.Sort(aitems, new ItemComparer());
-                foreach (var item in aitems)
+                //var aitems = items.ToArray();
+                //Array.Sort(aitems, new ItemComparer());
+                foreach (var item in items)
                 {
                     AllItems.Add(item);
                 }
