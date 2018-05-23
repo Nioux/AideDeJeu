@@ -112,7 +112,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="SkiaSharp.Views.Forms">
-      <Version>1.60.0</Version>
+      <Version>1.60.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
       <Version>3.0.0.482510</Version>
@@ -149,10 +149,6 @@
     <ProjectReference Include="..\AideDeJeu\AideDeJeu.csproj">
       <Project>{C0597D88-5C09-4314-80A3-64712B02D0E9}</Project>
       <Name>AideDeJeu</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\AideDeJeuLib\AideDeJeuLib.csproj">
-      <Project>{948BB32D-BAB8-485D-8A6F-BE5391E824A3}</Project>
-      <Name>AideDeJeuLib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -227,9 +223,9 @@
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Media.xcassets\dragon_head.imageset\" />
     <Folder Include="Media.xcassets\icon.imageset\" />
     <Folder Include="Media.xcassets\spell_book.imageset\" />
-    <Folder Include="Media.xcassets\dragon_head.imageset\" />
     <Folder Include="Media.xcassets\wooden_sign.imageset\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
