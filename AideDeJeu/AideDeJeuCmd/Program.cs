@@ -15,6 +15,7 @@ namespace AideDeJeuCmd
     {
         static async Task Main(string[] args)
         {
+            string baseDir = @"..\..\..\..\..\Data\";
             //var documentsDirectoryPath = @"database.db"; // Windows.Storage.ApplicationData.Current.LocalFolder.Path;
             //ItemDatabaseHelper helper = new ItemDatabaseHelper(documentsDirectoryPath);
             //var spells = await helper.GetSpellsAsync(classe: "", niveauMin: "0", niveauMax: "9", ecole: "", rituel: "", source: "(SRD)");
@@ -22,24 +23,24 @@ namespace AideDeJeuCmd
             var pack = new HtmlDocument();
             var client = new HttpClient();
 
-            //var spells = LoadJSon<IEnumerable<Spell>>("spells.json");
-            //var spellsVO = new List<Spell>();
-            //foreach(var spell in spells)
-            //{
-            //    spell.ParseHtml();
-            //    var htmlVO = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vo={0}", spell.IdVO));
-            //    pack.LoadHtml(htmlVO);
-            //    var spellVO = Spell.FromHtml(pack.DocumentNode.SelectSingleNode("//div[contains(@class,'bloc')]"));
-            //    spellVO.IdVO = spell.IdVO;
-            //    spell.IdVF = spellVO.IdVF;
-            //    spellsVO.Add(spellVO);
+            var spells = LoadJSon<IEnumerable<Spell>>(baseDir + "spells.json");
+            var spellsVO = new List<Spell>();
+            foreach (var spell in spells)
+            {
+                spell.ParseHtml();
+                var htmlVO = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vo={0}", spell.IdVO));
+                pack.LoadHtml(htmlVO);
+                var spellVO = Spell.FromHtml(pack.DocumentNode.SelectSingleNode("//div[contains(@class,'bloc')]"));
+                spellVO.IdVO = spell.IdVO;
+                spell.IdVF = spellVO.IdVF;
+                spellsVO.Add(spellVO);
 
-            //    Console.WriteLine(string.Format("{0} : {1} / {2} : {3}", spell.IdVF, spell.NamePHB, spellVO.IdVO, spellVO.NamePHB));
-            //}
-            //SaveJSon<IEnumerable<Spell>>("spells_vf.json", spells);
-            //SaveJSon<IEnumerable<Spell>>("spells_vo.json", spellsVO);
+                Console.WriteLine(string.Format("{0} : {1} / {2} : {3}", spell.IdVF, spell.NamePHB, spellVO.IdVO, spellVO.NamePHB));
+            }
+            SaveJSon<IEnumerable<Spell>>(baseDir + "spells_vf.json", spells);
+            SaveJSon<IEnumerable<Spell>>(baseDir + "spells_vo.json", spellsVO);
 
-            var monsters = LoadJSon<IEnumerable<Monster>>("monsters.json");
+            var monsters = LoadJSon<IEnumerable<Monster>>(baseDir + "monsters.json");
             var monstersVO = new List<Monster>();
             foreach (var monster in monsters)
             {
@@ -53,8 +54,8 @@ namespace AideDeJeuCmd
 
                 Console.WriteLine(string.Format("{0} : {1} / {2} : {3}", monster.IdVF, monster.NamePHB, monsterVO.IdVO, monsterVO.NamePHB));
             }
-            SaveJSon<IEnumerable<Monster>>("monsters_vf.json", monsters);
-            SaveJSon<IEnumerable<Monster>>("monsters_vo.json", monstersVO);
+            SaveJSon<IEnumerable<Monster>>(baseDir + "monsters_vf.json", monsters);
+            SaveJSon<IEnumerable<Monster>>(baseDir + "monsters_vo.json", monstersVO);
 
             Console.WriteLine("Hello World!");
         }
