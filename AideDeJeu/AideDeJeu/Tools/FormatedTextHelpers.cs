@@ -53,6 +53,10 @@ namespace AideDeJeu.Tools
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
             }
+            else if (node.NodeType == HtmlNodeType.Document)
+            {
+                HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
+            }
         }
 
         //public static void HtmlToFormatedString(HtmlNode parentNode, FormattedString fs, FontAttributes attributes = FontAttributes.None)

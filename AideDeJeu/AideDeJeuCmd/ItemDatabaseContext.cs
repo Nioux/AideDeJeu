@@ -25,24 +25,24 @@ namespace AideDeJeu.Services
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (DatabasePath == null)
-            {
-                switch (Device.RuntimePlatform)
-                {
-                    case Device.iOS:
-                        SQLitePCL.Batteries_V2.Init();
-                        DatabasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", DatabaseName); ;
-                        break;
-                    case Device.Android:
-                        DatabasePath = DependencyService.Get<INativeAPI>().GetDatabasePath(DatabaseName);
-                        break;
-                    case Device.UWP:
-                        DatabasePath = DependencyService.Get<INativeAPI>().GetDatabasePath(DatabaseName);
-                        break;
-                    default:
-                        throw new NotImplementedException("Platform not supported");
-                }
-            }
+            //if (DatabasePath == null)
+            //{
+            //    switch (Device.RuntimePlatform)
+            //    {
+            //        case Device.iOS:
+            //            SQLitePCL.Batteries_V2.Init();
+            //            DatabasePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "..", "Library", DatabaseName); ;
+            //            break;
+            //        case Device.Android:
+            //            DatabasePath = DependencyService.Get<INativeAPI>().GetDatabasePath(DatabaseName);
+            //            break;
+            //        case Device.UWP:
+            //            DatabasePath = DependencyService.Get<INativeAPI>().GetDatabasePath(DatabaseName);
+            //            break;
+            //        default:
+            //            throw new NotImplementedException("Platform not supported");
+            //    }
+            //}
             // Specify that we will use sqlite and the path of the database here
             optionsBuilder.UseSqlite($"Filename={DatabasePath}");
         }

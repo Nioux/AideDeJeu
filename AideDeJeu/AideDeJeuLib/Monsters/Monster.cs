@@ -1,10 +1,7 @@
 ﻿using HtmlAgilityPack;
-using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Runtime.Serialization;
-using System.Text;
 using System.Text.RegularExpressions;
 
 namespace AideDeJeuLib.Monsters
@@ -54,7 +51,6 @@ namespace AideDeJeuLib.Monsters
         }
 
         [IgnoreDataMember]
-        [NotMapped]
         public List<HtmlNode> SpecialFeatures { get; set; }
         //public List<string> SpecialFeaturesPersist
         //{
@@ -76,10 +72,8 @@ namespace AideDeJeuLib.Monsters
         //}
 
         [IgnoreDataMember]
-        [NotMapped]
         public List<HtmlNode> Actions { get; set; }
         [IgnoreDataMember]
-        [NotMapped]
         public List<HtmlNode> LegendaryActions { get; set; }
 
 
