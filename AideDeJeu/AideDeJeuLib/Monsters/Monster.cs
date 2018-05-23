@@ -50,35 +50,71 @@ namespace AideDeJeuLib.Monsters
             }
         }
 
-        public List<string> SpecialFeatures { get; set; }
+        private IEnumerable<string> NodeListToStringList(IEnumerable<HtmlNode> nodes)
+        {
+            if (nodes == null) return null;
+            var strings = new List<string>();
+            foreach (var node in nodes)
+            {
+                strings.Add(node.OuterHtml);
+            }
+            return strings;
+        }
+
+        private IEnumerable<HtmlNode> StringListToNodeList(IEnumerable<string> strings)
+        {
+            if (strings == null) return null;
+            var nodes = new List<HtmlNode>();
+            foreach (var str in strings)
+            {
+                var doc = new HtmlDocument();
+                doc.LoadHtml(str);
+                nodes.Add(doc.DocumentNode);
+            }
+            return nodes;
+        }
+
+        public IEnumerable<string> SpecialFeatures { get; set; }
         [IgnoreDataMember]
-        public List<HtmlNode> SpecialFeaturesNodes
+        public IEnumerable<HtmlNode> SpecialFeaturesNodes
         {
             get
             {
-                var doc = new HtmlDocument();
-                var nodes = new List<HtmlNode>();
-                foreach(var specialFeature in SpecialFeatures)
-                {
-                    doc.LoadHtml(specialFeature);
-                    nodes.Add(doc.DocumentNode);
-                }
-                return nodes;
+                return StringListToNodeList(SpecialFeatures);
             }
             set
             {
-                var specialFeatures = new List<string>();
-                foreach(var node in value)
-                {
-                    specialFeatures.Add(node.OuterHtml);
-                }
-                SpecialFeatures = specialFeatures;
+                SpecialFeatures = NodeListToStringList(value);
             }
         }
+
+        public IEnumerable<string> Actions { get; set; }
         [IgnoreDataMember]
-        public List<HtmlNode> Actions { get; set; }
+        public IEnumerable<HtmlNode> ActionsNodes
+        {
+            get
+            {
+                return StringListToNodeList(Actions);
+            }
+            set
+            {
+                Actions = NodeListToStringList(value);
+            }
+        }
+
+        public IEnumerable<string> LegendaryActions { get; set; }
         [IgnoreDataMember]
-        public List<HtmlNode> LegendaryActions { get; set; }
+        public IEnumerable<HtmlNode> LegendaryActionsNodes
+        {
+            get
+            {
+                return StringListToNodeList(LegendaryActions);
+            }
+            set
+            {
+                LegendaryActions = NodeListToStringList(value);
+            }
+        }
 
 
         public void ParseHtml()
@@ -203,8 +239,8 @@ namespace AideDeJeuLib.Monsters
             }
 
             this.SpecialFeaturesNodes = specialFeatures;
-            this.Actions = actions;
-            this.LegendaryActions = legendaryActions;
+            this.ActionsNodes = actions;
+            this.LegendaryActionsNodes = legendaryActions;
 
             var divDescription = divBloc?.SelectSingleNode("div[contains(@class,'description')]");
             this.Description = divDescription?.InnerText;
