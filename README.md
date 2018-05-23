@@ -8,3 +8,4 @@ Ce site contient plusieurs ressources pour vos parties du plus grand jeu de rôl
 
 [![Google Play](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.Android/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.nioux.aidedejeu)
 
+Tout le contenu issu du SRD est soumis à la [licence OGL](https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu/OGL.txt).
