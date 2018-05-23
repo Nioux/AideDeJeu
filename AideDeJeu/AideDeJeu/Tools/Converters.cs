@@ -60,13 +60,16 @@ namespace AideDeJeu.Tools
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            var nodes = value as IEnumerable<HtmlNode>;
-            if (nodes != null)
+            var strings = value as IEnumerable<string>;
+            if (strings != null)
             {
                 var fs = new FormattedString();
-                foreach (var node in nodes)
+                foreach (var str in strings)
                 {
-                    FormatedTextHelpers.HtmlNodeToFormatedString(node, fs);
+                    var doc = new HtmlDocument();
+                    doc.LoadHtml(str);
+
+                    FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentNode, fs);
                     fs.Spans.Add(new Span() { Text = "\r\n" });
                 }
                 return fs;

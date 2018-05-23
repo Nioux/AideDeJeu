@@ -77,13 +77,13 @@
 
             <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
 
-            <Label FormattedText="{Binding Item.SpecialFeaturesNodes, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
+            <Label FormattedText="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
-            <Label FormattedText="{Binding Item.ActionsNodes, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
+            <Label FormattedText="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions légendaires" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
-            <Label FormattedText="{Binding Item.LegendaryActionsNodes, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+            <Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
             <!--<ListView ItemsSource="{Binding Item.SpecialFeaturesNodes}">
                 <ListView.ItemTemplate>
                     <DataTemplate>

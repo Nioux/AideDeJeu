@@ -50,38 +50,10 @@ namespace AideDeJeuLib.Monsters
             }
         }
 
-        private IEnumerable<string> NodeListToStringList(IEnumerable<HtmlNode> nodes)
-        {
-            if (nodes == null) return null;
-            var strings = new List<string>();
-            foreach (var node in nodes)
-            {
-                strings.Add(node.OuterHtml);
-            }
-            return strings;
-        }
-
-        private IEnumerable<HtmlNode> StringListToNodeList(IEnumerable<string> strings)
-        {
-            if (strings == null) return null;
-            var nodes = new List<HtmlNode>();
-            foreach (var str in strings)
-            {
-                var doc = new HtmlDocument();
-                doc.LoadHtml(str);
-                nodes.Add(doc.DocumentNode);
-            }
-            return nodes;
-        }
-
         public IEnumerable<string> SpecialFeatures { get; set; }
         [IgnoreDataMember]
         public IEnumerable<HtmlNode> SpecialFeaturesNodes
         {
-            get
-            {
-                return StringListToNodeList(SpecialFeatures);
-            }
             set
             {
                 SpecialFeatures = NodeListToStringList(value);
@@ -92,10 +64,6 @@ namespace AideDeJeuLib.Monsters
         [IgnoreDataMember]
         public IEnumerable<HtmlNode> ActionsNodes
         {
-            get
-            {
-                return StringListToNodeList(Actions);
-            }
             set
             {
                 Actions = NodeListToStringList(value);
@@ -106,10 +74,6 @@ namespace AideDeJeuLib.Monsters
         [IgnoreDataMember]
         public IEnumerable<HtmlNode> LegendaryActionsNodes
         {
-            get
-            {
-                return StringListToNodeList(LegendaryActions);
-            }
             set
             {
                 LegendaryActions = NodeListToStringList(value);
