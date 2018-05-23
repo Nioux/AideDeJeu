@@ -189,7 +189,7 @@ namespace AideDeJeu.ViewModels
                     var serializer = new DataContractJsonSerializer(typeof(IEnumerable<Spell>));
                     var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
                     //var names = assembly.GetManifestResourceNames();
-                    using (var stream = assembly.GetManifestResourceStream("AideDeJeu.spells.json"))
+                    using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_vf.json"))
                     {
                         _AllSpells = serializer.ReadObject(stream) as IEnumerable<Spell>;
                     }

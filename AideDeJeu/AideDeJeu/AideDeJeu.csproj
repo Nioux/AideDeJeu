@@ -18,11 +18,18 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\monsters.json" Link="monsters.json" />
+    <EmbeddedResource Include="..\..\Data\monsters_vf.json" Link="Data\monsters_vf.json" />
+    <EmbeddedResource Include="..\..\Data\monsters_vo.json" Link="Data\monsters_vo.json" />
+    <EmbeddedResource Include="..\..\Data\spells_vf.json" Link="Data\spells_vf.json" />
+    <EmbeddedResource Include="..\..\Data\spells_vo.json" Link="Data\spells_vo.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\spells.json" Link="spells.json" />
+    <EmbeddedResource Include="..\..\Data\monsters.json" Link="Data\monsters.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\spells.json" Link="Data\spells.json" />
   </ItemGroup>
 
   <ItemGroup>
@@ -51,6 +58,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Data\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

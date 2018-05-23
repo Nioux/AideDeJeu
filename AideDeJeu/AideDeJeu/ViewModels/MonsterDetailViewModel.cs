@@ -294,8 +294,8 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                Item.ParseHtml();
-                Item = _Item;
+                //Item.ParseHtml();
+                //Item = _Item;
                 //Items.Clear();
                 //var item = await new MonstersScrappers().GetMonster(Item.Id);
                 //Item = item;

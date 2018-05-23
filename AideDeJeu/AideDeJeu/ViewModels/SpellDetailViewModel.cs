@@ -138,8 +138,8 @@ namespace AideDeJeu.ViewModels
 
             try
             {
-                Item.ParseHtml();
-                Item = _Item;
+                //Item.ParseHtml();
+                //Item = _Item;
                 //using (var spellsScrappers = new SpellsScrappers())
                 //{
                 //    var item = await spellsScrappers.GetSpell(Item.Id);
