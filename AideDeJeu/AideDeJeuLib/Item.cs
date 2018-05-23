@@ -24,6 +24,14 @@ namespace AideDeJeuLib
             return strings;
         }
 
+        public static HtmlNode StringToNode(string str)
+        {
+            if (str == null) return null;
+            var doc = new HtmlDocument();
+            doc.LoadHtml(str);
+            return doc.DocumentNode;
+        }
+
         //public static IEnumerable<HtmlNode> StringListToNodeList(IEnumerable<string> strings)
         //{
         //    if (strings == null) return null;

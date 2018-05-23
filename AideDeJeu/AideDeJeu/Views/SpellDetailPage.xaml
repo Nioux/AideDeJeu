@@ -1,8 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.SpellDetailPage"
              Title="{Binding Title}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:HtmlNodeToFormattedStringConverter x:Key="HtmlNodeToFormattedStringConverter" />
+            <tools:HtmlNodesToFormattedStringConverter x:Key="HtmlNodesToFormattedStringConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ScrollView>
         <StackLayout Orientation="Vertical" Padding="15">
             <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
@@ -55,7 +63,8 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>-->
-            <Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />
+            <!--<Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />-->
+            <Label FormattedText="{Binding Item.DescriptionHtml, Converter={StaticResource HtmlNodeToFormattedStringConverter}}" IsVisible="{Binding Item.DescriptionHtml, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
 
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
         </StackLayout>

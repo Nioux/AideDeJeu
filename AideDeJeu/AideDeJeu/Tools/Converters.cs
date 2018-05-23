@@ -37,11 +37,14 @@ namespace AideDeJeu.Tools
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            var node = value as HtmlNode;
-            if (node != null)
+            var str = value as string;
+            if (str != null)
             {
+                var doc = new HtmlDocument();
+                doc.LoadHtml(str);
+
                 var fs = new FormattedString();
-                FormatedTextHelpers.HtmlNodeToFormatedString(node, fs);
+                FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentNode, fs);
                 return fs;
             }
             else
