@@ -22,35 +22,40 @@ namespace AideDeJeuCmd
             var pack = new HtmlDocument();
             var client = new HttpClient();
 
-            var spells = LoadJSon<IEnumerable<Spell>>("spells.json");
+            //var spells = LoadJSon<IEnumerable<Spell>>("spells.json");
+            //var spellsVO = new List<Spell>();
+            //foreach(var spell in spells)
+            //{
+            //    spell.ParseHtml();
+            //    var htmlVO = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vo={0}", spell.IdVO));
+            //    pack.LoadHtml(htmlVO);
+            //    var spellVO = Spell.FromHtml(pack.DocumentNode.SelectSingleNode("//div[contains(@class,'bloc')]"));
+            //    spellVO.IdVO = spell.IdVO;
+            //    spell.IdVF = spellVO.IdVF;
+            //    spellsVO.Add(spellVO);
+
+            //    Console.WriteLine(string.Format("{0} : {1} / {2} : {3}", spell.IdVF, spell.NamePHB, spellVO.IdVO, spellVO.NamePHB));
+            //}
+            //SaveJSon<IEnumerable<Spell>>("spells_vf.json", spells);
+            //SaveJSon<IEnumerable<Spell>>("spells_vo.json", spellsVO);
+
             var monsters = LoadJSon<IEnumerable<Monster>>("monsters.json");
-            var spellsVO = new List<Spell>();
-            foreach(var spell in spells)
-            {
-                spell.ParseHtml();
-                var htmlVO = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vo={0}", spell.IdVO));
-                pack.LoadHtml(htmlVO);
-                var spellVO = Spell.FromHtml(pack.DocumentNode.SelectSingleNode("//div[contains(@class,'bloc')]"));
-                spellVO.IdVO = spell.IdVO;
-                spell.IdVF = spellVO.IdVF;
-                spellsVO.Add(spellVO);
-
-                Console.WriteLine(string.Format("{0} : {1} / {2} : {3}", spell.IdVF, spell.NamePHB, spellVO.IdVO, spellVO.NameVO));
-            }
-
-            foreach(var monster in monsters)
+            var monstersVO = new List<Monster>();
+            foreach (var monster in monsters)
             {
                 monster.ParseHtml();
+                var htmlVO = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/monstres.php?vo={0}", monster.IdVO));
+                pack.LoadHtml(htmlVO);
+                var monsterVO = Monster.FromHtml(pack.DocumentNode.SelectSingleNode("//div[contains(@class,'bloc')]"));
+                monsterVO.IdVO = monster.IdVO;
+                monster.IdVF = monsterVO.IdVF;
+                monstersVO.Add(monsterVO);
+
+                Console.WriteLine(string.Format("{0} : {1} / {2} : {3}", monster.IdVF, monster.NamePHB, monsterVO.IdVO, monsterVO.NamePHB));
             }
             SaveJSon<IEnumerable<Monster>>("monsters_vf.json", monsters);
-            SaveJSon<IEnumerable<Spell>>("spells_vf.json", spells);
-            //SaveJSon<IEnumerable<Monster>>("monsters_fr.json", monsters);
-            SaveJSon<IEnumerable<Spell>>("spells_vo.json", spellsVO);
-            //DataContractJsonSerializer serializer = new DataContractJsonSerializer(items.GetType());
-            //MemoryStream stream = new MemoryStream();
-            //serializer.WriteObject(stream, items);
-            //stream.Seek(0, SeekOrigin.Begin);
-            //string text = await new StreamReader(stream).ReadToEndAsync();
+            SaveJSon<IEnumerable<Monster>>("monsters_vo.json", monstersVO);
+
             Console.WriteLine("Hello World!");
         }
 

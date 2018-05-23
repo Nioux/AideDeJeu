@@ -50,27 +50,31 @@ namespace AideDeJeuLib.Monsters
             }
         }
 
+        public List<string> SpecialFeatures { get; set; }
         [IgnoreDataMember]
-        public List<HtmlNode> SpecialFeatures { get; set; }
-        //public List<string> SpecialFeaturesPersist
-        //{
-        //    get
-        //    {
-        //        return SpecialFeatures.Select(node => node.OuterHtml).ToList();
-        //    }
-        //    set
-        //    {
-        //        List<HtmlNode> nodes = new List<HtmlNode>();
-        //        foreach (var str in value)
-        //        {
-        //            HtmlDocument doc = new HtmlDocument();
-        //            doc.LoadHtml(str);
-        //            nodes.Add(doc.DocumentNode);
-        //        }
-        //        SpecialFeatures = nodes;
-        //    }
-        //}
-
+        public List<HtmlNode> SpecialFeaturesNodes
+        {
+            get
+            {
+                var doc = new HtmlDocument();
+                var nodes = new List<HtmlNode>();
+                foreach(var specialFeature in SpecialFeatures)
+                {
+                    doc.LoadHtml(specialFeature);
+                    nodes.Add(doc.DocumentNode);
+                }
+                return nodes;
+            }
+            set
+            {
+                var specialFeatures = new List<string>();
+                foreach(var node in value)
+                {
+                    specialFeatures.Add(node.OuterHtml);
+                }
+                SpecialFeatures = specialFeatures;
+            }
+        }
         [IgnoreDataMember]
         public List<HtmlNode> Actions { get; set; }
         [IgnoreDataMember]
@@ -93,7 +97,16 @@ namespace AideDeJeuLib.Monsters
             var divMonster = divBloc?.SelectSingleNode("div[contains(@class,'monstre')]");
             this.Name = divMonster?.SelectSingleNode("h1").InnerText;
 
-            var altNames = divMonster.SelectSingleNode("div[@class='trad']")?.InnerText;
+            var divTrad = divMonster.SelectSingleNode("div[@class='trad']");
+
+            var linkVO = divTrad.SelectSingleNode("a").GetAttributeValue("href", "");
+            var matchIdVF = new Regex(@"\?vf=(?<idvf>.*)").Match(linkVO);
+            this.IdVF = matchIdVF?.Groups["idvf"]?.Value;
+            var matchIdVO = new Regex(@"\?vo=(?<idvo>.*)").Match(linkVO);
+            this.IdVO = matchIdVO?.Groups["idvo"]?.Value;
+
+
+            var altNames = divTrad?.InnerText;
             if (altNames != null)
             {
                 var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
@@ -113,31 +126,39 @@ namespace AideDeJeuLib.Monsters
                 this.Type = matchesTypeSizeAlignment?.Groups["type"]?.Value?.Trim();
                 this.Size = matchesTypeSizeAlignment?.Groups["size"]?.Value?.Trim();
                 this.Alignment = matchesTypeSizeAlignment?.Groups["alignment"]?.Value?.Trim();
+
+                if (string.IsNullOrEmpty(this.Type))
+                {
+                    matchesTypeSizeAlignment = new Regex("(?<size>.*) (?<type>.*), (?<alignment>.*)").Match(typeSizeAlignment);
+                    this.Type = matchesTypeSizeAlignment?.Groups["type"]?.Value?.Trim();
+                    this.Size = matchesTypeSizeAlignment?.Groups["size"]?.Value?.Trim();
+                    this.Alignment = matchesTypeSizeAlignment?.Groups["alignment"]?.Value?.Trim();
+                }
             }
             var divRed = divSansSerif?.SelectSingleNode("div[contains(@class,'red')]");
-            this.ArmorClass = divRed?.SelectSingleNode("strong[contains(text(),'armure')]")?.NextSibling?.InnerText;
-            this.HitPoints = divRed?.SelectSingleNode("strong[contains(text(),'Points de vie')]")?.NextSibling?.InnerText;
-            this.Speed = divRed?.SelectSingleNode("strong[contains(text(),'Vitesse')]")?.NextSibling?.InnerText;
+            this.ArmorClass = divRed?.SelectSingleNode("strong[contains(text(),'armure') or contains(text(),'Armor Class')]")?.NextSibling?.InnerText;
+            this.HitPoints = divRed?.SelectSingleNode("strong[contains(text(),'Points de vie') or contains(text(),'Hit Points')]")?.NextSibling?.InnerText;
+            this.Speed = divRed?.SelectSingleNode("strong[contains(text(),'Vitesse') or contains(text(),'Speed')]")?.NextSibling?.InnerText;
 
-            this.Strength = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'FOR')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Strength = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'FOR') or contains(text(),'STR')]")?.NextSibling?.NextSibling?.InnerText;
             this.Dexterity = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'DEX')]")?.NextSibling?.NextSibling?.InnerText;
             this.Constitution = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'CON')]")?.NextSibling?.NextSibling?.InnerText;
             this.Intelligence = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'INT')]")?.NextSibling?.NextSibling?.InnerText;
-            this.Wisdom = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'SAG')]")?.NextSibling?.NextSibling?.InnerText;
+            this.Wisdom = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'SAG') or contains(text(),'WIS')]")?.NextSibling?.NextSibling?.InnerText;
             this.Charisma = divRed?.SelectSingleNode("div[contains(@class,'carac')]/strong[contains(text(),'CHA')]")?.NextSibling?.NextSibling?.InnerText;
 
 
-            this.SavingThrows = divRed?.SelectSingleNode("strong[contains(text(),'Jets de sauvegarde')]")?.NextSibling?.InnerText;
-            this.Skills = divRed?.SelectSingleNode("strong[contains(text(),'Compétences')]")?.NextSibling?.InnerText;
+            this.SavingThrows = divRed?.SelectSingleNode("strong[contains(text(),'Jets de sauvegarde') or contains(text(),'Saving Throws')]")?.NextSibling?.InnerText;
+            this.Skills = divRed?.SelectSingleNode("strong[contains(text(),'Compétences') or contains(text(),'Skills')]")?.NextSibling?.InnerText;
             
-            this.DamageVulnerabilities = divRed?.SelectSingleNode("strong[contains(text(),'Vulnérabilités aux dégâts')]")?.NextSibling?.InnerText;
-            this.DamageResistances = divRed?.SelectSingleNode("strong[contains(text(),'Résistances aux dégâts')]")?.NextSibling?.InnerText;
-            this.DamageImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux dégâts')]")?.NextSibling?.InnerText;
-            this.ConditionImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux conditions')]")?.NextSibling?.InnerText;
+            this.DamageVulnerabilities = divRed?.SelectSingleNode("strong[contains(text(),'Vulnérabilités aux dégâts') or contains(text(),'Damage vulnerabilities')]")?.NextSibling?.InnerText;
+            this.DamageResistances = divRed?.SelectSingleNode("strong[contains(text(),'Résistances aux dégâts') or contains(text(),'Damage Resistances')]")?.NextSibling?.InnerText;
+            this.DamageImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux dégâts') or contains(text(),'Damage Immunities')]")?.NextSibling?.InnerText;
+            this.ConditionImmunities = divRed?.SelectSingleNode("strong[contains(text(),'Immunités aux conditions') or contains(text(),'Conditions Immunities')]")?.NextSibling?.InnerText;
 
-            this.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens')]")?.NextSibling?.InnerText;
-            this.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues')]")?.NextSibling?.InnerText;
-            this.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance')]")?.NextSibling?.InnerText;
+            this.Senses = divRed?.SelectSingleNode("strong[contains(text(),'Sens') or contains(text(),'Senses')]")?.NextSibling?.InnerText;
+            this.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues') or contains(text(),'Languages')]")?.NextSibling?.InnerText;
+            this.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance') or contains(text(),'Challenge')]")?.NextSibling?.InnerText;
 
             List<HtmlNode> nodes = new List<HtmlNode>();
             List<HtmlNode> specialFeatures = null;
@@ -153,7 +174,7 @@ namespace AideDeJeuLib.Monsters
                         specialFeatures = nodes;
                         nodes = new List<HtmlNode>();
                     }
-                    else if (node.InnerText == "ACTIONS LÉGENDAIRES")
+                    else if (node.InnerText == "ACTIONS LÉGENDAIRES" || node.InnerText == "LEGENDARY ACTIONS")
                     {
                         actions = nodes;
                         nodes = new List<HtmlNode>();
@@ -181,7 +202,7 @@ namespace AideDeJeuLib.Monsters
                 legendaryActions = nodes;
             }
 
-            this.SpecialFeatures = specialFeatures;
+            this.SpecialFeaturesNodes = specialFeatures;
             this.Actions = actions;
             this.LegendaryActions = legendaryActions;
 
