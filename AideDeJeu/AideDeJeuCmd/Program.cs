@@ -89,7 +89,7 @@ namespace AideDeJeuCmd
                         { 
                             if(line.StartsWith("Temps d’incantation : "))
                             {
-                                spell.CastingTime = line.Substring(23);
+                                spell.CastingTime = line.Substring(22);
                             }
                             else if(line.StartsWith("Portée : "))
                             {
