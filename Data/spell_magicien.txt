@@ -1,0 +1,215 @@
+agrandir/rétrécir
+arme magique
+aura magique de l’arcaniste
+bouche magique
+bourrasque
+briser
+cécité/surdité
+corde enchantée
+déblocage
+dessiccation
+détection des pensées
+doux repos
+flamme éternelle
+flèche acide
+flou
+image miroir
+immobiliser un humanoïde
+invisibilité
+lévitation
+localiser un objet
+modifier son apparence
+offrande inéluctable
+ombres imaginaires
+pas brumeux
+pattes d’araignée
+rayon affaiblissant
+rayon ardent
+sphère de feu
+stalagmites fulgurantes
+suggestion
+ténèbres
+toile d’araignée
+verrou magique
+vision dans le noir
+voir l’invisible
+animation des morts
+boule de feu
+caresse du vampire
+catalepsie
+cercle magique
+clairvoyance
+clignotement
+contresort
+dissipation de la magie
+éclair
+envoi de message
+forme gazeuse
+glyphe de protection
+hâte
+image majeure
+jeter une malédiction
+langues
+lenteur
+lever une malédiction
+monture fantôme
+motif hypnotique
+non-détection
+nuage puant
+petite hutte
+peur
+protection contres les énergies
+respiration aquatique
+tempête de neige
+vol
+assassin imaginaire
+bannissement
+bouclier de feu
+chien de garde
+coffre secret
+confusion
+contrôle de l’eau
+fabrication
+façonnage de la pierre
+flétrissement
+invisibilité supérieure
+invoquer des élémentaires mineurs
+localiser une créature
+métamorphose
+mur de feu
+oeil magique
+peau de pierre
+porte dimensionnelle
+sanctuaire privé
+sphère résiliente
+tempête de grêle
+tentacules noirs
+terrain hallucinatoire
+animation des objets
+apparence trompeuse
+aspersion acide
+aura du héros
+bouffée de poison
+contact glacial
+illusion mineure
+lumière
+lumières dansantes
+main du mage
+message
+poigne électrique
+porte-bonheur
+prestidigitation
+rayon de givre
+réparation
+trait de feu
+viser juste
+alarme
+appel de familier
+armure du mage
+bouclier
+charme-personne
+compréhension des langues
+couleurs dansantes
+déguisement
+détection de la magie
+disque flottant
+fou rire
+graisse
+grande foulée
+identification
+image silencieuse
+léger comme une plume
+mains brûlantes
+nappe de brouillard
+projectile magique
+protection contre le mal et le bien
+repli expéditif
+sang du démon
+saut
+serviteur invisible
+simulacre de vie
+sommeil
+strangulation
+texte illusoire
+vague tonnante
+cercle de téléportation
+coercition mystique
+cône de froid
+contacter un autre plan
+création
+dominer un humanoïde
+entrave planaire
+immobiliser un monstre
+invoquer un élémentaire
+légende
+lien télépathique
+main magique
+modification de mémoire
+mur de force
+mur de pierre
+nuage mortel
+passe-muraille
+rêve
+scrutation
+télékinésie
+tromperie
+cercle de mort
+chaîne d’éclairs
+contingence
+convocations instantanées
+création de mort-vivant
+danse irrésistible
+déplacer la terre
+désintégration
+globe d’invulnérabilité
+illusion programmée
+mauvais oeil
+mur de glace
+passage dimensionnel
+pétrification
+possession
+protections et sceaux
+rayon de soleil
+sphère glacée
+suggestion de groupe
+vision suprême
+boule de feu à explosion retardée
+cage de force
+changement de plan
+doigt de mort
+embruns prismatiques
+épée magique
+forme éthérée
+image projetée
+inversion de la gravité
+manoir somptueux
+mirage
+séquestration
+simulacre
+symbole
+téléportation
+champ antimagie
+clone
+contrôle du climat
+demi-plan
+dominer un monstre
+éclat du soleil
+esprit faible
+esprit impénétrable
+excavation
+labyrinthe
+mot de pouvoir étourdissant
+nuage incendiaire
+répulsion/attirance
+arrêt du temps
+changement de forme
+emprisonnement
+étrangeté
+métamorphose suprême
+mot de pouvoir mortel
+mur prismatique
+nuée de météores
+portail
+prémonition
+projection astrale
+souhait

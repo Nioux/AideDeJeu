@@ -189,7 +189,7 @@ namespace AideDeJeu.ViewModels
                     var serializer = new DataContractJsonSerializer(typeof(IEnumerable<Spell>));
                     var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
                     //var names = assembly.GetManifestResourceNames();
-                    using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_vf.json"))
+                    using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_hd.json"))
                     {
                         _AllSpells = serializer.ReadObject(stream) as IEnumerable<Spell>;
                     }
@@ -200,14 +200,15 @@ namespace AideDeJeu.ViewModels
 
         public IEnumerable<Spell> GetSpells(string classe, string niveauMin, string niveauMax, string ecole, string rituel, string source)
         {
-            return AllSpells.Where(spell =>
-                            (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
-                            (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
-                            spell.Type.Contains(ecole) &&
-                            spell.Source.Contains(source) &&
-                            spell.Source.Contains(classe) &&
-                            spell.Type.Contains(rituel)
-                            )
+            return AllSpells
+                    .Where(spell =>
+                                (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
+                                (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
+                                spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                                spell.Source.Contains(source) &&
+                                spell.Source.Contains(classe) &&
+                                spell.Type.Contains(rituel)
+                                )
                         .OrderBy(spell => spell.NamePHB)
                         .ToList();
         }
