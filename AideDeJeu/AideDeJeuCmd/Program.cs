@@ -100,6 +100,12 @@ namespace AideDeJeuCmd
                             if(spVF.Source.Contains("(SRD)"))
                             {
                                 spell.Source += "(SRD)";
+                                var spVO = spellsVO.SingleOrDefault(sp => sp.IdVO == spVF.IdVO);
+                                if (spVO != null)
+                                {
+                                    spell.NameVO = spVO.Name;
+                                    spell.IdVO = spVO.IdVO;
+                                }
                             }
                         }
                         foreach (var spellList in spellLists)

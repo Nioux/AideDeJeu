@@ -47,7 +47,7 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("abjuration", "Abjuration"),
             new KeyValuePair<string, string>("divination", "Divination"),
             new KeyValuePair<string, string>("enchantement", "Enchantement"),
-            new KeyValuePair<string, string>("vocation", "Évocation"),
+            new KeyValuePair<string, string>("évocation", "Évocation"),
             new KeyValuePair<string, string>("illusion", "Illusion"),
             new KeyValuePair<string, string>("invocation", "Invocation"),
             new KeyValuePair<string, string>("cromancie", "Nécromancie"),
@@ -190,6 +190,8 @@ namespace AideDeJeu.ViewModels
                     var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
                     //var names = assembly.GetManifestResourceNames();
                     using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_hd.json"))
+                    //using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_vf.json"))
+                    //using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_vo.json"))
                     {
                         _AllSpells = serializer.ReadObject(stream) as IEnumerable<Spell>;
                     }
