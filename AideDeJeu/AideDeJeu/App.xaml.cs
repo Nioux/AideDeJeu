@@ -1,5 +1,5 @@
 ﻿using System;
-
+using AideDeJeu.ViewModels;
 using AideDeJeu.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -14,7 +14,11 @@ namespace AideDeJeu
 		{
 			InitializeComponent();
 
-            MainPage = new MainPage();
+            DependencyService.Register<MainViewModel>();
+            var vm = DependencyService.Get<MainViewModel>();
+            var mainPage = new MainPage();
+            vm.Navigator = new Navigator(mainPage.Detail.Navigation);
+            MainPage = mainPage;
         }
 
         protected override void OnStart ()

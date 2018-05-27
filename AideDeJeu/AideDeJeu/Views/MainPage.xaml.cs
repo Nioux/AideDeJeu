@@ -11,22 +11,32 @@ namespace AideDeJeu.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MainPage : MasterDetailPage
     {
-        MainViewModel viewModel;
-        INavigator Navigator;
+        MainViewModel Main
+        {
+            get
+            {
+                return DependencyService.Get<MainViewModel>();
+            }
+        }
+        //INavig//ator Navigator;
 
         public MainPage ()
 		{
 			InitializeComponent ();
-            Navigator = new Navigator((Detail as NavigationPage).Navigation);
-            BindingContext = viewModel = new MainViewModel(Navigator);
+
+            //DependencyService.Register<INavigator>(new Navigator((Detail as NavigationPage).Navigation));
+            
+            //Navigator = new Navigator((Detail as NavigationPage).Navigation);
+            //BindingContext = viewModel = new MainViewModel(Navigator);
+            BindingContext = Main;
         }
 
         protected override void OnAppearing()
         {
             base.OnAppearing();
 
-            if (viewModel.Items.Count == 0)
-                viewModel.LoadItemsCommand.Execute(null);
+            if (Main.Items.Count == 0)
+                Main.LoadItemsCommand.Execute(null);
         }
 
         private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)

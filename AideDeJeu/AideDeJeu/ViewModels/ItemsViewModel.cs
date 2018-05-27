@@ -8,44 +8,41 @@ namespace AideDeJeu.ViewModels
 {
     public abstract class ItemsViewModel : BaseViewModel
     {
-        public ItemsViewModel(INavigator navigator, ObservableCollection<Item> items)
+        public ItemsViewModel()
         {
-            Navigator = navigator;
-            Items = items;
-            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync());
+            LoadItemsCommand = new Command(() => ExecuteLoadItemsCommand(null));
         }
         protected ObservableCollection<Item> AllItems { get; set; } = new ObservableCollection<Item>();
-        public ObservableCollection<Item> Items { get; protected set; }
         public ICommand LoadItemsCommand { get; protected set; }
-        public abstract Task ExecuteLoadItemsCommandAsync();
+        public abstract void ExecuteLoadItemsCommand(FilterViewModel filterViewModel);
         public abstract Task ExecuteGotoItemCommandAsync(Item item);
         protected INavigator Navigator { get; set; }
 
-        private string _SearchText = "";
-        public string SearchText
-        {
-            get
-            {
-                return _SearchText;
-            }
-            set
-            {
-                SetProperty(ref _SearchText, value);
-                FilterItems();
-            }
-        }
+        //private string _SearchText = "";
+        //public string SearchText
+        //{
+        //    get
+        //    {
+        //        return _SearchText;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _SearchText, value);
+        //        FilterItems();
+        //    }
+        //}
 
-        public void FilterItems()
-        {
-            Items.Clear();
-            foreach (var item in AllItems)
-            {
-                if (item.NamePHB.ToLower().Contains(SearchText.ToLower()))
-                {
-                    Items.Add(item);
-                }
-            }
-        }
+        //public void FilterItems()
+        //{
+        //    Items.Clear();
+        //    foreach (var item in AllItems)
+        //    {
+        //        if (item.NamePHB.ToLower().Contains(SearchText.ToLower()))
+        //        {
+        //            Items.Add(item);
+        //        }
+        //    }
+        //}
 
 
     }

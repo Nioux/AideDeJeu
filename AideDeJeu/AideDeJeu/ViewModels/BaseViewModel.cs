@@ -12,8 +12,13 @@ namespace AideDeJeu.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        //public SpellsScrappers SpellsScrappers => DependencyService.Get<SpellsScrappers>() ?? new SpellsScrappers();
-        //public MonstersScrappers MonstersScrappers => DependencyService.Get<MonstersScrappers>() ?? new MonstersScrappers();
+        public MainViewModel Main
+        {
+            get
+            {
+                return DependencyService.Get<MainViewModel>();
+            }
+        }
 
         bool isBusy = false;
         public bool IsBusy

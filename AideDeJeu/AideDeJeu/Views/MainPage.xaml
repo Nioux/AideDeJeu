@@ -37,9 +37,6 @@
                 <ScrollView Orientation="Vertical">
                     <StackLayout Orientation="Vertical" Padding="15">
 
-                        <!--<Label Text="Catégorie" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Categories, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Category}" />-->
-
                         <Label Text="Type" Style="{StaticResource Key=subsubsection}" />
                         <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Types, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Type}" />
 
@@ -58,9 +55,6 @@
                         <Label Text="Taille" Style="{StaticResource Key=subsubsection}" />
                         <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Sizes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Size}" />
 
-                        <!--<Label Text="Légendaire" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Legendaries, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Legendary}" />-->
-
                         <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
                         <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Source}" IsEnabled="False"/>
                     </StackLayout>
@@ -74,6 +68,10 @@
                 x:Key="ItemsTypeTemplateConverter" 
                 SpellsTemplate="{StaticResource SpellsMasterDataTemplate}" 
                 MonstersTemplate="{StaticResource MonstersMasterDataTemplate}" />
+            <tools:ItemSourceTypeToItemsConverter 
+                x:Key="ItemSourceTypeToItemsConverter" />
+            <tools:ItemSourceTypeToFilterConverter 
+                x:Key="ItemSourceTypeToFilterConverter" />
         </ResourceDictionary>
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
@@ -96,26 +94,26 @@
                                 <tools:TextChangedBehavior />
                             </SearchBar.Behaviors>
                         </SearchBar>
-
-                        <ListView x:Name="ItemsListView" 
-                    ItemsSource="{Binding Items}"
-                    VerticalOptions="FillAndExpand"
-                    HasUnevenRows="true"
-                    IsRefreshing="{Binding IsBusy, Mode=OneWay}"
-                    CachingStrategy="RecycleElement"
-                    SelectedItem="{Binding SelectedItem}"
-                                  ItemTapped="ItemsListView_ItemTapped">
-                            <!--RefreshCommand="{Binding LoadItemsCommand}"
-                    IsPullToRefreshEnabled="true"-->
+                        <!--, Converter={StaticResource ItemSourceTypeToItemsConverter}, ConverterParameter={Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}}"-->
+                        <ListView 
+                            x:Name="ItemsListView" 
+                            ItemsSource="{Binding Items}" 
+                            VerticalOptions="FillAndExpand"
+                            HasUnevenRows="true"
+                            IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                            CachingStrategy="RecycleElement"
+                            SelectedItem="{Binding SelectedItem}"
+                            ItemTapped="ItemsListView_ItemTapped">
 
                             <ListView.ItemTemplate>
                                 <DataTemplate>
                                     <ViewCell>
                                         <StackLayout Padding="10">
-                                            <Label Text="{Binding NamePHB}" 
-                                        LineBreakMode="NoWrap" 
-                                        Style="{DynamicResource subsubsection}" 
-                                        FontSize="16" />
+                                            <Label 
+                                                Text="{Binding NamePHB}" 
+                                                LineBreakMode="NoWrap" 
+                                                Style="{DynamicResource subsubsection}" 
+                                                FontSize="16" />
                                         </StackLayout>
                                     </ViewCell>
                                 </DataTemplate>

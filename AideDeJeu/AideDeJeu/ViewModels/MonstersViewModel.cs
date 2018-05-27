@@ -224,14 +224,6 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public MonstersViewModel(INavigator navigator, ObservableCollection<Item> items)
-            : base(navigator, items)
-        {
-        }
-
-
-
-
 
         private IEnumerable<Monster> _AllMonsters = null;
         private IEnumerable<Monster> AllMonsters
@@ -267,7 +259,7 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public override async Task ExecuteLoadItemsCommandAsync()
+        public override void ExecuteLoadItemsCommand(FilterViewModel filterViewModel)
         {
             if (IsBusy)
                 return;
@@ -289,7 +281,7 @@ namespace AideDeJeu.ViewModels
                 {
                     AllItems.Add(item);
                 }
-                FilterItems();
+                //FilterItems();
             }
             catch (Exception ex)
             {
