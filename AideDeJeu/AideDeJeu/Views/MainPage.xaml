@@ -87,6 +87,9 @@
                         <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
                         <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
                         <ToolbarItem Name="About" Text="À propos de..." Order="Primary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
+                        <ToolbarItem Name="VF" Text="VF AideDD" Order="Secondary" Command="{Binding SwitchToVF}" />
+                        <ToolbarItem Name="VO" Text="VO AideDD/SRD" Order="Secondary" Command="{Binding SwitchToVO}" />
+                        <ToolbarItem Name="HD" Text="VF H&amp;D" Order="Secondary" Command="{Binding SwitchToHD}" />
                     </ContentPage.ToolbarItems>
                     <StackLayout Orientation="Vertical">
                         <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">

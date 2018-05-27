@@ -37,7 +37,7 @@ namespace AideDeJeu.ViewModels
 
     public class MainViewModel : BaseViewModel
     {
-        private ItemSourceType _ItemSourceType = ItemSourceType.SpellVF;
+        private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
         public ItemSourceType ItemSourceType
         {
             get
@@ -49,8 +49,8 @@ namespace AideDeJeu.ViewModels
                 //CurrentViewModel.SearchText = "";
                 SetProperty(ref _ItemSourceType, value);
                 //CurrentViewModel.SearchText = "";
+                LoadItemsCommand.Execute(null);
                 OnPropertyChanged(nameof(Items));
-                //LoadItemsCommand.Execute(null);
             }
         }
 
@@ -73,7 +73,12 @@ namespace AideDeJeu.ViewModels
 
         public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
         {
-            { ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel()) },
+            { ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVF)) },
+            { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVO)) },
+            { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellHD)) },
+            { ItemSourceType.MonsterVF, new Lazy<ItemsViewModel>(() => new MonstersViewModel()) },
+            { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new MonstersViewModel()) },
+            { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new MonstersViewModel()) },
         };
 
         public ItemsViewModel GetItemsViewModel(ItemSourceType itemSourceType)
@@ -84,6 +89,8 @@ namespace AideDeJeu.ViewModels
         public Dictionary<ItemSourceType, Lazy<FilterViewModel>> AllFiltersViewModel = new Dictionary<ItemSourceType, Lazy<FilterViewModel>>()
         {
             { ItemSourceType.SpellVF, new Lazy<FilterViewModel>(() => new VFSpellFilterViewModel()) },
+            { ItemSourceType.SpellVO, new Lazy<FilterViewModel>(() => new VOSpellFilterViewModel()) },
+            { ItemSourceType.SpellHD, new Lazy<FilterViewModel>(() => new HDSpellFilterViewModel()) },
         };
 
         public FilterViewModel GetFilterViewModel(ItemSourceType itemSourceType)
@@ -137,6 +144,9 @@ namespace AideDeJeu.ViewModels
 
         public Command SwitchToSpells { get; private set; }
         public Command SwitchToMonsters { get; private set; }
+        public Command SwitchToVF { get; private set; }
+        public Command SwitchToVO { get; private set; }
+        public Command SwitchToHD { get; private set; }
         public Command AboutCommand { get; private set; }
         public Command<string> SearchCommand { get; private set; }
 
@@ -145,10 +155,13 @@ namespace AideDeJeu.ViewModels
         {
             //Spells = new SpellsViewModel(navigator, Items);
             //Monsters = new MonstersViewModel(navigator, Items);
-            LoadItemsCommand = new Command(async () => GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand(GetFilterViewModel(ItemSourceType)));
+            LoadItemsCommand = new Command(() => GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand(GetFilterViewModel(ItemSourceType)));
             GotoItemCommand = new Command<Item>(async (item) => await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item));
             SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ ItemSourceType.Monster) | ItemSourceType.Spell);
             SwitchToMonsters = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Spell) | ItemSourceType.Monster);
+            SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);
+            SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.HD) | ItemSourceType.VO);
+            SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.VO) | ItemSourceType.HD);
             //AboutCommand = new Command(async() => await navigator.GotoAboutPageAsync());
             //SearchCommand = new Command<string>((text) => GetItemsViewModel(ItemSourceType).SearchText = text);
         }

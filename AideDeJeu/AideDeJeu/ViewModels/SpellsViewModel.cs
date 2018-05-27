@@ -14,6 +14,11 @@ namespace AideDeJeu.ViewModels
 {
     public class SpellsViewModel : ItemsViewModel
     {
+        ItemSourceType ItemSourceType;
+        public SpellsViewModel(ItemSourceType itemSourceType)
+        {
+            this.ItemSourceType = itemSourceType;
+        }
         private IEnumerable<Spell> _AllSpells = null;
         private IEnumerable<Spell> AllSpells
         {
@@ -21,16 +26,20 @@ namespace AideDeJeu.ViewModels
             {
                 if(_AllSpells == null)
                 {
-                    _AllSpells = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>("AideDeJeu.Data.spells_vf.json");
-                    //var serializer = new DataContractJsonSerializer(typeof(IEnumerable<Spell>));
-                    //var assembly = typeof(AboutViewModel).GetTypeInfo().Assembly;
-                    ////var names = assembly.GetManifestResourceNames();
-                    ////using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_hd.json"))
-                    //using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_vf.json"))
-                    ////using (var stream = assembly.GetManifestResourceStream("AideDeJeu.Data.spells_vo.json"))
-                    //{
-                    //    _AllSpells = serializer.ReadObject(stream) as IEnumerable<Spell>;
-                    //}
+                    string resourceName = null;
+                    switch(ItemSourceType)
+                    {
+                        case ItemSourceType.SpellVF:
+                            resourceName = "AideDeJeu.Data.spells_vf.json";
+                            break;
+                        case ItemSourceType.SpellVO:
+                            resourceName = "AideDeJeu.Data.spells_vo.json";
+                            break;
+                        case ItemSourceType.SpellHD:
+                            resourceName = "AideDeJeu.Data.spells_hd.json";
+                            break;
+                    }
+                    _AllSpells = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
                 }
                 return _AllSpells;
             }
