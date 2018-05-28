@@ -40,7 +40,6 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-            <!--<ContentView ControlTemplate="{Binding ItemsType, Converter={StaticResource ItemsTypeTemplateConverter}}" BindingContext="{Binding}" />-->
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>

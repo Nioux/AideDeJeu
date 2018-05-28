@@ -62,10 +62,13 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                if (_Index != value)
+                if (value >= 0)
                 {
-                    SetProperty(ref _Index, value);
-                    Main.LoadItemsCommand.Execute(null);
+                    if (_Index != value)
+                    {
+                        SetProperty(ref _Index, value);
+                        Main.LoadItemsCommand.Execute(null);
+                    }
                 }
             }
         }
