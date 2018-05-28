@@ -15,6 +15,19 @@ namespace AideDeJeu.ViewModels
         public ICommand LoadItemsCommand { get; protected set; }
         public abstract IEnumerable<Item> FilterItems(IEnumerable<Item> items);
         public abstract IEnumerable<Filter> Filters { get; }
+        private string _SearchText = "";
+        public string SearchText
+        {
+            get
+            {
+                return _SearchText;
+            }
+            set
+            {
+                SetProperty(ref _SearchText, value);
+                //Main.LoadItemsCommand.Execute(null);
+            }
+        }
 
     }
 
@@ -108,7 +121,8 @@ namespace AideDeJeu.ViewModels
                             spell.Type.ToLower().Contains(ecole.ToLower()) &&
                             spell.Source.Contains(source) &&
                             spell.Source.Contains(classe) &&
-                            spell.Type.Contains(rituel);
+                            spell.Type.Contains(rituel) &&
+                            spell.NamePHB.ToLower().Contains(SearchText.ToLower());
                     })
                     .OrderBy(spell => spell.NamePHB)
                     .ToList();
@@ -123,112 +137,6 @@ namespace AideDeJeu.ViewModels
         public abstract List<KeyValuePair<string, string>> Rituels { get; }
 
         public abstract List<KeyValuePair<string, string>> Sources { get; }
-
-
-        private int _Classe = 0;
-        public int Classe
-        {
-            get
-            {
-                return _Classe;
-            }
-            set
-            {
-                if (_Classe != value)
-                {
-                    SetProperty(ref _Classe, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _NiveauMin = 0;
-        public int NiveauMin
-        {
-            get
-            {
-                return _NiveauMin;
-            }
-            set
-            {
-                if (_NiveauMin != value)
-                {
-                    SetProperty(ref _NiveauMin, value);
-                    if (_NiveauMax < _NiveauMin)
-                    {
-                        SetProperty(ref _NiveauMax, value, nameof(NiveauMax));
-                    }
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _NiveauMax = 9;
-        public int NiveauMax
-        {
-            get
-            {
-                return _NiveauMax;
-            }
-            set
-            {
-                if (_NiveauMax != value)
-                {
-                    SetProperty(ref _NiveauMax, value);
-                    if (_NiveauMax < _NiveauMin)
-                    {
-                        SetProperty(ref _NiveauMin, value, nameof(NiveauMin));
-                    }
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Ecole = 0;
-        public int Ecole
-        {
-            get
-            {
-                return _Ecole;
-            }
-            set
-            {
-                if (_Ecole != value)
-                {
-                    SetProperty(ref _Ecole, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Rituel = 0;
-        public int Rituel
-        {
-            get
-            {
-                return _Rituel;
-            }
-            set
-            {
-                if (_Rituel != value)
-                {
-                    SetProperty(ref _Rituel, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Source = 1;
-        public int Source
-        {
-            get
-            {
-                return _Source;
-            }
-            set
-            {
-                if (_Source != value)
-                {
-                    SetProperty(ref _Source, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
 
     }
 
@@ -446,7 +354,8 @@ namespace AideDeJeu.ViewModels
                         (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
                         monster.Source.Contains(source) &&
                         powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                        powerComparer.Compare(monster.Challenge, maxPower) <= 0;
+                        powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
+                        monster.NamePHB.ToLower().Contains(SearchText.ToLower());
                 })
                 .OrderBy(monster => monster.NamePHB)
                 .ToList();

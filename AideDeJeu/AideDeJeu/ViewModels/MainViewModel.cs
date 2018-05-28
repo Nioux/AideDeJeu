@@ -130,7 +130,11 @@ namespace AideDeJeu.ViewModels
             SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.HD) | ItemSourceType.VO);
             SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.VO) | ItemSourceType.HD);
             //AboutCommand = new Command(async() => await navigator.GotoAboutPageAsync());
-            //SearchCommand = new Command<string>((text) => GetItemsViewModel(ItemSourceType).SearchText = text);
+            SearchCommand = new Command<string>((text) =>
+                {
+                    GetFilterViewModel(ItemSourceType).SearchText = text;
+                    GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand();
+                });
         }
     }
 }
