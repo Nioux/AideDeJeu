@@ -6,68 +6,18 @@
                 x:Class="AideDeJeu.Views.MainPage"
                 x:Name="This"
                 IsPresented="False"
-                Title="{Binding ItemsType,Converter={StaticResource ItemTypeToStringConverter}}">
+                Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
     <MasterDetailPage.Resources>
         <ResourceDictionary>
-            <ControlTemplate x:Key="SpellsMasterDataTemplate">
-                <ScrollView Orientation="Vertical">
-                    <StackLayout Orientation="Vertical" Padding="15">
-
-                        <Label Text="Classe" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Spells.Classes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Spells.Classe}" />
-
-                        <Label Text="Niveau minimum" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Spells.Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Spells.NiveauMin}" />
-
-                        <Label Text="Niveau maximum" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Spells.Niveaux, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Spells.NiveauMax}" />
-
-                        <Label Text="École" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Spells.Ecoles, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Spells.Ecole}" />
-
-                        <Label Text="Rituel" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Spells.Rituels, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Spells.Rituel}" />
-
-                        <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Spells.Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Spells.Source}" IsEnabled="False" />
-                    </StackLayout>
-                </ScrollView>
-            </ControlTemplate>
-            <ControlTemplate x:Key="MonstersMasterDataTemplate">
-                <ScrollView Orientation="Vertical">
-                    <StackLayout Orientation="Vertical" Padding="15">
-
-                        <Label Text="Type" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Types, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Type}" />
-
-                        <StackLayout Orientation="Horizontal">
-                            <StackLayout Orientation="Vertical">
-                                <Label Text="FP minimum" Style="{StaticResource Key=subsubsection}" />
-                                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.MinPower}" />
-                            </StackLayout>
-
-                            <StackLayout Orientation="Vertical">
-                                <Label Text="FP maximum" Style="{StaticResource Key=subsubsection}" />
-                                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Powers, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.MaxPower}" />
-                            </StackLayout>
-                        </StackLayout>
-
-                        <Label Text="Taille" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Sizes, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Size}" />
-
-                        <Label Text="Source" Style="{StaticResource Key=subsubsection}" />
-                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{TemplateBinding Parent.BindingContext.Monsters.Sources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{TemplateBinding Parent.BindingContext.Monsters.Source}" IsEnabled="False"/>
-                    </StackLayout>
-                </ScrollView>
-            </ControlTemplate>
-            <tools:ItemTypeToStringConverter 
-                x:Key="ItemTypeToStringConverter" 
-                Spells="Sorts" 
-                Monsters="Monstres" />
-            <tools:ItemsTypeTemplateConverter 
-                x:Key="ItemsTypeTemplateConverter" 
-                SpellsTemplate="{StaticResource SpellsMasterDataTemplate}" 
-                MonstersTemplate="{StaticResource MonstersMasterDataTemplate}" />
+            <tools:ItemSourceTypeToStringConverter 
+                x:Key="ItemSourceTypeToTitleConverter" 
+                SpellVF="Sorts" 
+                SpellVO="Spells" 
+                SpellHD="Sorts (H&amp;D)" 
+                MonsterVF="Monstres" 
+                MonsterVO="Monsters" 
+                MonsterHD="Créatures (H&amp;D)" 
+                />
             <tools:ItemSourceTypeToItemsConverter 
                 x:Key="ItemSourceTypeToItemsConverter" />
             <tools:ItemSourceTypeToFilterConverter 

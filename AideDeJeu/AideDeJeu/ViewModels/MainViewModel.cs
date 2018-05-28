@@ -46,9 +46,7 @@ namespace AideDeJeu.ViewModels
             }
             set
             {
-                //CurrentViewModel.SearchText = "";
                 SetProperty(ref _ItemSourceType, value);
-                //CurrentViewModel.SearchText = "";
                 LoadItemsCommand.Execute(null);
                 OnPropertyChanged(nameof(Items));
             }
@@ -115,10 +113,9 @@ namespace AideDeJeu.ViewModels
         public Command<string> SearchCommand { get; private set; }
 
         public Navigator Navigator { get; set; }
+
         public MainViewModel()
         {
-            //Spells = new SpellsViewModel(navigator, Items);
-            //Monsters = new MonstersViewModel(navigator, Items);
             LoadItemsCommand = new Command(() =>
                 {
                     GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand();
@@ -129,7 +126,7 @@ namespace AideDeJeu.ViewModels
             SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);
             SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.HD) | ItemSourceType.VO);
             SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.VO) | ItemSourceType.HD);
-            //AboutCommand = new Command(async() => await navigator.GotoAboutPageAsync());
+            AboutCommand = new Command(async() => await Main.Navigator.GotoAboutPageAsync());
             SearchCommand = new Command<string>((text) =>
                 {
                     GetFilterViewModel(ItemSourceType).SearchText = text;

@@ -4,6 +4,7 @@ using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Windows.Input;
@@ -52,7 +53,7 @@ namespace AideDeJeu.ViewModels
         public FilterKeys Key { get; set; }
         public string Name { get; set; }
         public List<KeyValuePair<string, string>> KeyValues { get; set; }
-        private int _Index;
+        public int _Index;
         public int Index
         {
             get
@@ -73,7 +74,11 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return KeyValues[Index].Key;
+                if(Index >= 0 && Index < KeyValues.Count)
+                {
+                    return KeyValues[Index].Key;
+                }
+                return null;
             }
         }
     }
@@ -90,12 +95,12 @@ namespace AideDeJeu.ViewModels
                 {
                     _Filters = new List<Filter>()
                     {
-                        new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, Index = 0 },
-                        new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Min", KeyValues = Niveaux, Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Max", KeyValues = Niveaux, Index = 9 },
-                        new Filter() { Key = FilterKeys.School, Name = "Ecole", KeyValues = Ecoles, Index = 0 },
-                        new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, Index = 0 },
-                        new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, Index = 0 },
+                        new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Minimum", KeyValues = Niveaux, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Maximum", KeyValues = Niveaux, _Index = 9 },
+                        new Filter() { Key = FilterKeys.School, Name = "École", KeyValues = Ecoles, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
                     };
                 }
                 return _Filters;
@@ -105,12 +110,12 @@ namespace AideDeJeu.ViewModels
 
         public override IEnumerable<Item> FilterItems(IEnumerable<Item> items)
         {
-            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey;
-            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey;
-            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey;
-            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey;
-            var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey;
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey;
+            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
+            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
+            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
+            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
+            var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
 
             return items
                     .Where(item =>
@@ -322,13 +327,13 @@ namespace AideDeJeu.ViewModels
                 {
                     _Filters = new List<Filter>()
                     {
-                        new Filter() { Key = FilterKeys.Category, Name = "Catégories", KeyValues = Categories, Index = 0 },
-                        new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, Index = 0 },
-                        new Filter() { Key = FilterKeys.MinPower, Name = "Challenge Min", KeyValues = Powers, Index = 0 },
-                        new Filter() { Key = FilterKeys.MaxPower, Name = "Challenge Max", KeyValues = Powers, Index = 28 },
-                        new Filter() { Key = FilterKeys.Size, Name = "Taille", KeyValues = Sizes, Index = 0 },
-                        new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, Index = 0 },
-                        new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, Index = 0 },
+                        //new Filter() { Key = FilterKeys.Category, Name = "Catégories", KeyValues = Categories, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MinPower, Name = "FP Minimum", KeyValues = Powers, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxPower, Name = "FP Maximum", KeyValues = Powers, _Index = 28 },
+                        new Filter() { Key = FilterKeys.Size, Name = "Taille", KeyValues = Sizes, _Index = 0 },
+                        //new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, _Index = 0 },
+                        new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
                     };
                 }
                 return _Filters;
@@ -339,13 +344,13 @@ namespace AideDeJeu.ViewModels
         {
             var powerComparer = new PowerComparer();
 
-            var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey;
-            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey;
-            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey;
-            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey;
-            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey;
-            var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey;
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey;
+            //var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey ?? "";
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
+            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
+            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
+            //var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey ?? "";
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
 
             return items.Where(item =>
                 {
