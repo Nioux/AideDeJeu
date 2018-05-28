@@ -31,7 +31,7 @@
                     <DataTemplate>
                         <ViewCell>
                             <ViewCell.View>
-                                <StackLayout>
+                                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
                                     <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
                                     <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
                                 </StackLayout>
@@ -60,7 +60,7 @@
                                 <tools:TextChangedBehavior />
                             </SearchBar.Behaviors>
                         </SearchBar>
-                        <!--, Converter={StaticResource ItemSourceTypeToItemsConverter}, ConverterParameter={Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}}"-->
+
                         <ListView 
                             x:Name="ItemsListView" 
                             ItemsSource="{Binding Items}" 

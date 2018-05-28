@@ -213,11 +213,11 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<string, string>("Bard", "Bard" ),
             new KeyValuePair<string, string>("Cleric", "Cleric" ),
             new KeyValuePair<string, string>("Druid", "Druid" ),
-            new KeyValuePair<string, string>("Ensorceleur", "Ensorceleur" ),
-            new KeyValuePair<string, string>("Wizard", "Wizard" ),
+            new KeyValuePair<string, string>("Sorcerer", "Sorcerer" ),
             new KeyValuePair<string, string>("Paladin", "Paladin" ),
-            new KeyValuePair<string, string>("Rôdeur", "Rôdeur" ),
-            new KeyValuePair<string, string>("Sorcier", "Sorcier" ),
+            new KeyValuePair<string, string>("Ranger", "Ranger" ),
+            new KeyValuePair<string, string>("Warlock", "Warlock" ),
+            new KeyValuePair<string, string>("Wizard", "Wizard" ),
         };
 
         public override List<KeyValuePair<string, string>> Niveaux { get; } = new List<KeyValuePair<string, string>>()
@@ -238,19 +238,19 @@ namespace AideDeJeu.ViewModels
         {
             new KeyValuePair<string, string>("", "All"),
             new KeyValuePair<string, string>("abjuration", "Abjuration"),
+            new KeyValuePair<string, string>("conjuration", "Conjuration"),
             new KeyValuePair<string, string>("divination", "Divination"),
-            new KeyValuePair<string, string>("enchantement", "Enchantement"),
-            new KeyValuePair<string, string>("évocation", "Evocation"),
+            new KeyValuePair<string, string>("enchantment", "Enchantment"),
+            new KeyValuePair<string, string>("evocation", "Evocation"),
             new KeyValuePair<string, string>("illusion", "Illusion"),
-            new KeyValuePair<string, string>("invocation", "Invocation"),
-            new KeyValuePair<string, string>("necromancie", "Necromancie"),
+            new KeyValuePair<string, string>("necromancy", "Necromancy"),
             new KeyValuePair<string, string>("transmutation", "Transmutation"),
         };
 
         public override List<KeyValuePair<string, string>> Rituels { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("(rituel)", "Rituel"),
+            new KeyValuePair<string, string>("(ritual)", "Ritual"),
         };
 
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
@@ -467,9 +467,9 @@ namespace AideDeJeu.ViewModels
         {
             new KeyValuePair<string, string>("", "Toutes"),
             new KeyValuePair<string, string>("(SRD)", "SRD"),
-            new KeyValuePair<string, string>("Monster Manual", "MM"),
-            new KeyValuePair<string, string>("sup", "VGtM, MToF"),
-            new KeyValuePair<string, string>("supno", "AL, AideDD"),
+            //new KeyValuePair<string, string>("Monster Manual", "MM"),
+            //new KeyValuePair<string, string>("sup", "VGtM, MToF"),
+            //new KeyValuePair<string, string>("supno", "AL, AideDD"),
         };
     }
 
@@ -485,81 +485,81 @@ namespace AideDeJeu.ViewModels
 
         public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("", "Tous" ),
-            new KeyValuePair<string, string>("Humanoïde", "Humanoïde"),
-            new KeyValuePair<string, string>("Aberration", "Aberration"),
-            new KeyValuePair<string, string>("Bête", "Bête"),
-            new KeyValuePair<string, string>("Céleste", "Céleste"),
-            new KeyValuePair<string, string>("Créature artificielle", "Créature artificielle"),
-            new KeyValuePair<string, string>("Créature monstrueuse", "Créature monstrueuse"),
-            new KeyValuePair<string, string>("Dragon", "Dragon"),
-            new KeyValuePair<string, string>("Élémentaire", "Élémentaire"),
-            new KeyValuePair<string, string>("Fée", "Fée"),
-            new KeyValuePair<string, string>("Fiélon", "Fiélon"),
-            new KeyValuePair<string, string>("Géant", "Géant"),
-            new KeyValuePair<string, string>("Mort-vivant", "Mort-vivant"),
-            new KeyValuePair<string, string>("Plante", "Plante"),
-            new KeyValuePair<string, string>("Vase", "Vase"),
+            new KeyValuePair<string, string>("", "All" ),
+            new KeyValuePair<string, string>("humanoid", "Humanoid"),
+            new KeyValuePair<string, string>("aberration", "Aberration"),
+            new KeyValuePair<string, string>("beast", "Beast"),
+            new KeyValuePair<string, string>("celestial", "Celestial"),
+            new KeyValuePair<string, string>("construct", "Construct"),
+            new KeyValuePair<string, string>("dragon", "Dragon"),
+            new KeyValuePair<string, string>("elemental", "Elemental"),
+            new KeyValuePair<string, string>("fey", "Fey"),
+            new KeyValuePair<string, string>("fiend", "Fiend"),
+            new KeyValuePair<string, string>("giant", "Giant"),
+            new KeyValuePair<string, string>("monstrosity", "Monstrosity"),
+            new KeyValuePair<string, string>("ooze", "Ooze"),
+            new KeyValuePair<string, string>("plant", "Plant"),
+            new KeyValuePair<string, string>("undead", "Undead"),
         };
 
         public override List<KeyValuePair<string, string>> Powers { get; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>(" 0 (0 PX)", "0" ),
-            new KeyValuePair<string, string>(" 1/8 (25 PX)", "1/8" ),
-            new KeyValuePair<string, string>(" 1/4 (50 PX)", "1/4" ),
-            new KeyValuePair<string, string>(" 1/2 (100 PX)", "1/2" ),
-            new KeyValuePair<string, string>(" 1 (200 PX)", "1" ),
-            new KeyValuePair<string, string>(" 2 (450 PX)", "2" ),
-            new KeyValuePair<string, string>(" 3 (700 PX)", "3" ),
-            new KeyValuePair<string, string>(" 4 (1100 PX)", "4" ),
-            new KeyValuePair<string, string>(" 5 (1800 PX)", "5" ),
-            new KeyValuePair<string, string>(" 6 (2300 PX)", "6" ),
-            new KeyValuePair<string, string>(" 7 (2900 PX)", "7" ),
-            new KeyValuePair<string, string>(" 8 (3900 PX)", "8" ),
-            new KeyValuePair<string, string>(" 9 (5000 PX)", "9" ),
-            new KeyValuePair<string, string>(" 10 (5900 PX)", "10" ),
-            new KeyValuePair<string, string>(" 11 (7200 PX)", "11" ),
-            new KeyValuePair<string, string>(" 12 (8400 PX)", "12" ),
-            new KeyValuePair<string, string>(" 13 (10000 PX)", "13" ),
-            new KeyValuePair<string, string>(" 14 (11500 PX)", "14" ),
-            new KeyValuePair<string, string>(" 15 (13000 PX)", "15" ),
-            new KeyValuePair<string, string>(" 16 (15000 PX)", "16" ),
-            new KeyValuePair<string, string>(" 17 (18000 PX)", "17" ),
-            new KeyValuePair<string, string>(" 18 (20000 PX)", "18" ),
-            new KeyValuePair<string, string>(" 19 (22000 PX)", "19" ),
-            new KeyValuePair<string, string>(" 20 (25000 PX)", "20" ),
-            new KeyValuePair<string, string>(" 21 (33000 PX)", "21" ),
-            new KeyValuePair<string, string>(" 22 (41000 PX)", "22" ),
-            new KeyValuePair<string, string>(" 23 (50000 PX)", "23" ),
-            new KeyValuePair<string, string>(" 24 (62000 PX)", "24" ),
-            new KeyValuePair<string, string>(" 30 (155000 PX)", "30" ),
+            new KeyValuePair<string, string>(" 0 (0 XP)", "0" ),
+            new KeyValuePair<string, string>(" 1/8 (25 XP)", "1/8" ),
+            new KeyValuePair<string, string>(" 1/4 (50 XP)", "1/4" ),
+            new KeyValuePair<string, string>(" 1/2 (100 XP)", "1/2" ),
+            new KeyValuePair<string, string>(" 1 (200 XP)", "1" ),
+            new KeyValuePair<string, string>(" 2 (450 XP)", "2" ),
+            new KeyValuePair<string, string>(" 3 (700 XP)", "3" ),
+            new KeyValuePair<string, string>(" 4 (1100 XP)", "4" ),
+            new KeyValuePair<string, string>(" 5 (1800 XP)", "5" ),
+            new KeyValuePair<string, string>(" 6 (2300 XP)", "6" ),
+            new KeyValuePair<string, string>(" 7 (2900 XP)", "7" ),
+            new KeyValuePair<string, string>(" 8 (3900 XP)", "8" ),
+            new KeyValuePair<string, string>(" 9 (5000 XP)", "9" ),
+            new KeyValuePair<string, string>(" 10 (5900 XP)", "10" ),
+            new KeyValuePair<string, string>(" 11 (7200 XP)", "11" ),
+            new KeyValuePair<string, string>(" 12 (8400 XP)", "12" ),
+            new KeyValuePair<string, string>(" 13 (10000 XP)", "13" ),
+            new KeyValuePair<string, string>(" 14 (11500 XP)", "14" ),
+            new KeyValuePair<string, string>(" 15 (13000 XP)", "15" ),
+            new KeyValuePair<string, string>(" 16 (15000 XP)", "16" ),
+            new KeyValuePair<string, string>(" 17 (18000 XP)", "17" ),
+            new KeyValuePair<string, string>(" 18 (20000 XP)", "18" ),
+            new KeyValuePair<string, string>(" 19 (22000 XP)", "19" ),
+            new KeyValuePair<string, string>(" 20 (25000 XP)", "20" ),
+            new KeyValuePair<string, string>(" 21 (33000 XP)", "21" ),
+            new KeyValuePair<string, string>(" 22 (41000 XP)", "22" ),
+            new KeyValuePair<string, string>(" 23 (50000 XP)", "23" ),
+            new KeyValuePair<string, string>(" 24 (62000 XP)", "24" ),
+            new KeyValuePair<string, string>(" 30 (155000 XP)", "30" ),
         };
 
         public override List<KeyValuePair<string, string>> Sizes { get; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("TP", "Très petite"),
-            new KeyValuePair<string, string>("P", "Petite"),
-            new KeyValuePair<string, string>("M", "Moyenne"),
-            new KeyValuePair<string, string>("G", "Grande"),
-            new KeyValuePair<string, string>("TG", "Très grande"),
-            new KeyValuePair<string, string>("Gig", "Gigantesque"),
+            new KeyValuePair<string, string>("", "All"),
+            new KeyValuePair<string, string>("Tiny", "Tiny"),
+            new KeyValuePair<string, string>("Small", "Small"),
+            new KeyValuePair<string, string>("Medium", "Medium"),
+            new KeyValuePair<string, string>("Large", "Large"),
+            new KeyValuePair<string, string>("Huge", "Huge"),
+            new KeyValuePair<string, string>("Gargantuan", "Gargantuan"),
         };
 
         public override List<KeyValuePair<string, string>> Legendaries { get; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("", "Toutes"),
+            new KeyValuePair<string, string>("", "All"),
             new KeyValuePair<string, string>("si", "Si"),
             new KeyValuePair<string, string>("no", "Non"),
         };
 
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
-            new KeyValuePair<string, string>("", "Toutes"),
+            new KeyValuePair<string, string>("", "All"),
             new KeyValuePair<string, string>("(SRD)", "SRD"),
-            new KeyValuePair<string, string>("Monster Manual", "MM"),
-            new KeyValuePair<string, string>("sup", "VGtM, MToF"),
-            new KeyValuePair<string, string>("supno", "AL, AideDD"),
+            //new KeyValuePair<string, string>("Monster Manual", "MM"),
+            //new KeyValuePair<string, string>("sup", "VGtM, MToF"),
+            //new KeyValuePair<string, string>("supno", "AL, AideDD"),
         };
     }
 
@@ -647,9 +647,9 @@ namespace AideDeJeu.ViewModels
         {
             new KeyValuePair<string, string>("", "Toutes"),
             new KeyValuePair<string, string>("(SRD)", "SRD"),
-            new KeyValuePair<string, string>("Monster Manual", "MM"),
-            new KeyValuePair<string, string>("sup", "VGtM, MToF"),
-            new KeyValuePair<string, string>("supno", "AL, AideDD"),
+            //new KeyValuePair<string, string>("Monster Manual", "MM"),
+            //new KeyValuePair<string, string>("sup", "VGtM, MToF"),
+            //new KeyValuePair<string, string>("supno", "AL, AideDD"),
         };
     }
     #endregion Monsters
