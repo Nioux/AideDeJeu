@@ -124,7 +124,7 @@ namespace AideDeJeuCmd
                     {
                         if (spell.NamePHB == null)
                         {
-                            spell.NamePHB = line;
+                            spell.NamePHB = Capitalize(line);
                         }
                         else if (spell.LevelType == null)
                         {
@@ -185,6 +185,11 @@ namespace AideDeJeuCmd
             SaveJSon<IEnumerable<Spell>>(dataDir + "spells_hd.json", spellsHD);
 
             Console.WriteLine("Hello World!");
+        }
+
+        public static string Capitalize(string text)
+        {
+            return string.Concat(text.Take(1)).ToUpper() + string.Concat(text.Skip(1)).ToString().ToLower();
         }
 
         public static string RemoveDiacritics(string text)
