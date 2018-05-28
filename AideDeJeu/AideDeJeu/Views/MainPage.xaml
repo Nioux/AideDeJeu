@@ -6,7 +6,7 @@
                 x:Class="AideDeJeu.Views.MainPage"
                 x:Name="This"
                 IsPresented="False"
-                Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
+                Title="">
     <MasterDetailPage.Resources>
         <ResourceDictionary>
             <tools:ItemSourceTypeToStringConverter 
@@ -45,7 +45,7 @@
     <MasterDetailPage.Detail>
         <NavigationPage>
             <x:Arguments>
-                <ContentPage Title="">
+                <ContentPage Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
                     <ContentPage.ToolbarItems>
                         <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
                         <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
