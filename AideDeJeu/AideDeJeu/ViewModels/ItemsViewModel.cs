@@ -10,10 +10,10 @@ namespace AideDeJeu.ViewModels
     {
         public ItemsViewModel()
         {
-            LoadItemsCommand = new Command(() => ExecuteLoadItemsCommand(null));
+            LoadItemsCommand = new Command(() => ExecuteLoadItemsCommand());
         }
         public ICommand LoadItemsCommand { get; protected set; }
-        public abstract void ExecuteLoadItemsCommand(FilterViewModel filterViewModel);
+        public abstract void ExecuteLoadItemsCommand();
         public abstract Task ExecuteGotoItemCommandAsync(Item item);
 
         //private string _SearchText = "";

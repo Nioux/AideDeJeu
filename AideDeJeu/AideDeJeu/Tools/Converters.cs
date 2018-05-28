@@ -209,7 +209,7 @@ namespace AideDeJeu.Tools
         {
             var vm = DependencyService.Get<MainViewModel>();
             var itemSourceType = vm.ItemSourceType;
-            return vm.GetFilterViewModel(itemSourceType);
+            return vm.GetFilterViewModel(itemSourceType).Filters;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

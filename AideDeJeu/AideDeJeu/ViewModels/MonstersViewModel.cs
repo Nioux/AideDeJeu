@@ -48,23 +48,7 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-
-        public IEnumerable<Monster> GetMonsters(string category, string type, string minPower, string maxPower, string size, string legendary, string source)
-        {
-            var powerComparer = new PowerComparer();
-            return AllMonsters.Where(monster =>
-                            monster.Type.Contains(type) &&
-                            (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                            monster.Source.Contains(source) &&
-                            powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
-                            powerComparer.Compare(monster.Challenge, maxPower) <= 0
-                            )
-                        .OrderBy(monster => monster.NamePHB)
-                        .ToList();
-        }
-
-
-        public override void ExecuteLoadItemsCommand(FilterViewModel filterViewModel)
+        public override void ExecuteLoadItemsCommand()
         {
             if (IsBusy)
                 return;
@@ -74,8 +58,8 @@ namespace AideDeJeu.ViewModels
             try
             {
                 Main.Items.Clear();
-                //var filter = filterViewModel as MonsterFilterViewModel;
-                //var items = GetMonsters(category: filter.Categories[filter.Category].Key, type: filter.Types[filter.Type].Key, minPower: filter.Powers[filter.MinPower].Key, maxPower: filter.Powers[filter.MaxPower].Key, size: filter.Sizes[filter.Size].Key, legendary: filter.Legendaries[filter.Legendary].Key, source: filter.Sources[filter.Source].Key);
+
+                var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
                 var items = filterViewModel.FilterItems(AllMonsters);
 
                 foreach (var item in items)

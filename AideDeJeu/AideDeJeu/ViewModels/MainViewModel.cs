@@ -37,7 +37,7 @@ namespace AideDeJeu.ViewModels
 
     public class MainViewModel : BaseViewModel
     {
-        private ItemSourceType _ItemSourceType = ItemSourceType.MonsterVO;
+        private ItemSourceType _ItemSourceType = ItemSourceType.SpellVF;
         public ItemSourceType ItemSourceType
         {
             get
@@ -121,7 +121,7 @@ namespace AideDeJeu.ViewModels
             //Monsters = new MonstersViewModel(navigator, Items);
             LoadItemsCommand = new Command(() =>
                 {
-                    GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand(GetFilterViewModel(ItemSourceType));
+                    GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand();
                 });
             GotoItemCommand = new Command<Item>(async (item) => await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item));
             SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ ItemSourceType.Monster) | ItemSourceType.Spell);

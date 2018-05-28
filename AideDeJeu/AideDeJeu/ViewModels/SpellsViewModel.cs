@@ -61,7 +61,7 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public override void ExecuteLoadItemsCommand(FilterViewModel filterViewModel)
+        public override void ExecuteLoadItemsCommand()
         {
             if (IsBusy)
                 return;
@@ -71,9 +71,9 @@ namespace AideDeJeu.ViewModels
             try
             {
                 Main.Items.Clear();
-                IEnumerable<Spell> items = null;
-                SpellFilterViewModel filters = filterViewModel as SpellFilterViewModel;
-                items = GetSpells(classe: filters.Classes[filters.Classe].Key, niveauMin: filters.Niveaux[filters.NiveauMin].Key, niveauMax: filters.Niveaux[filters.NiveauMax].Key, ecole: filters.Ecoles[filters.Ecole].Key, rituel: filters.Rituels[filters.Rituel].Key, source: filters.Sources[filters.Source].Key);
+
+                var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
+                var items = filterViewModel.FilterItems(AllSpells);
                 foreach (var item in items)
                 {
                     Main.Items.Add(item);

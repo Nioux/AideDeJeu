@@ -14,19 +14,90 @@ namespace AideDeJeu.ViewModels
     {
         public ICommand LoadItemsCommand { get; protected set; }
         public abstract IEnumerable<Item> FilterItems(IEnumerable<Item> items);
+        public abstract IEnumerable<Filter> Filters { get; }
+
+    }
+
+    public enum FilterKeys
+    {
+        Class,
+        MinLevel,
+        MaxLevel,
+        School,
+        Ritual,
+        Source,
+    }
+
+    public class Filter : BaseViewModel
+    {
+        public FilterKeys Key { get; set; }
+        public string Name { get; set; }
+        public List<KeyValuePair<string, string>> KeyValues { get; set; }
+        private int _Index;
+        public int Index
+        {
+            get
+            {
+                return _Index;
+            }
+            set
+            {
+                if (_Index != value)
+                {
+                    SetProperty(ref _Index, value);
+                    Main.LoadItemsCommand.Execute(null);
+                }
+            }
+        }
+
+        public string SelectedKey
+        {
+            get
+            {
+                return KeyValues[Index].Key;
+            }
+        }
     }
 
     #region Spells
     public abstract class SpellFilterViewModel : FilterViewModel
     {
+        private IEnumerable<Filter> _Filters = null;
+        public override IEnumerable<Filter> Filters
+        {
+            get
+            {
+                if(_Filters == null)
+                {
+                    _Filters = new List<Filter>()
+                    {
+                        new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, Index = 0 },
+                        new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Min", KeyValues = Niveaux, Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Max", KeyValues = Niveaux, Index = 9 },
+                        new Filter() { Key = FilterKeys.School, Name = "Ecole", KeyValues = Ecoles, Index = 0 },
+                        new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, Index = 0 },
+                        new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, Index = 0 },
+                    };
+                }
+                return _Filters;
+            }
+        }
+
+
         public override IEnumerable<Item> FilterItems(IEnumerable<Item> items)
         {
-            var classe = Classes[Classe].Key;
-            var niveauMin = Niveaux[NiveauMin].Key;
-            var niveauMax = Niveaux[NiveauMax].Key;
-            var ecole = Ecoles[Ecole].Key;
-            var rituel = Rituels[Rituel].Key;
-            var source = Sources[Source].Key;
+            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey;
+            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey;
+            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey;
+            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey;
+            var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey;
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey;
+            //var classe = Classes[Classe].Key;
+            //var niveauMin = Niveaux[NiveauMin].Key;
+            //var niveauMax = Niveaux[NiveauMax].Key;
+            //var ecole = Ecoles[Ecole].Key;
+            //var rituel = Rituels[Rituel].Key;
+            //var source = Sources[Source].Key;
 
             return items
                     .Where(item =>
@@ -334,6 +405,27 @@ namespace AideDeJeu.ViewModels
     #region Monsters
     public abstract class MonsterFilterViewModel : FilterViewModel
     {
+        private IEnumerable<Filter> _Filters = null;
+        public override IEnumerable<Filter> Filters
+        {
+            get
+            {
+                if (_Filters == null)
+                {
+                    _Filters = new List<Filter>()
+                    {
+                        //new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, Index = 0 },
+                        //new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Min", KeyValues = Niveaux, Index = 0 },
+                        //new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Max", KeyValues = Niveaux, Index = 0 },
+                        //new Filter() { Key = FilterKeys.School, Name = "Ecole", KeyValues = Ecoles, Index = 0 },
+                        //new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, Index = 0 },
+                        //new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, Index = 0 },
+                    };
+                }
+                return _Filters;
+            }
+        }
+
         public override IEnumerable<Item> FilterItems(IEnumerable<Item> items)
         {
             var powerComparer = new PowerComparer();

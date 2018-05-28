@@ -76,7 +76,21 @@
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <ContentView ControlTemplate="{Binding ItemsType, Converter={StaticResource ItemsTypeTemplateConverter}}" BindingContext="{Binding}" />
+            <ListView ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout>
+                                    <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
+                                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <!--<ContentView ControlTemplate="{Binding ItemsType, Converter={StaticResource ItemsTypeTemplateConverter}}" BindingContext="{Binding}" />-->
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
