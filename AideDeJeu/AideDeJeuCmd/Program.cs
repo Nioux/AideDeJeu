@@ -12,6 +12,7 @@ using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using Xamarin.Forms.Internals;
 
 namespace AideDeJeuCmd
 {
@@ -64,8 +65,21 @@ namespace AideDeJeuCmd
             SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vf.json", monsters);
             SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vo.json", monstersVO);
             */
-            var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf.json");
-            var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo.json");
+            var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
+            var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
+            var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
+            var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
+
+            spellsVF.ForEach(sp => sp.Html = null);
+            spellsVO.ForEach(sp => sp.Html = null);
+            monstersVF.ForEach(it => it.Html = null);
+            monstersVO.ForEach(it => it.Html = null);
+
+            SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vf.json", spellsVF);
+            SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vo.json", spellsVO);
+            SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vf.json", monstersVF);
+            SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vo.json", monstersVO);
+            return;
 
             var spellLists = new Dictionary<string, IEnumerable<string>>()
             {
