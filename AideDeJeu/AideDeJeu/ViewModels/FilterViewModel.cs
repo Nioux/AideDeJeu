@@ -26,6 +26,12 @@ namespace AideDeJeu.ViewModels
         School,
         Ritual,
         Source,
+        Category,
+        Type,
+        MinPower,
+        MaxPower,
+        Size,
+        Legendary,
     }
 
     public class Filter : BaseViewModel
@@ -92,12 +98,6 @@ namespace AideDeJeu.ViewModels
             var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey;
             var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey;
             var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey;
-            //var classe = Classes[Classe].Key;
-            //var niveauMin = Niveaux[NiveauMin].Key;
-            //var niveauMax = Niveaux[NiveauMax].Key;
-            //var ecole = Ecoles[Ecole].Key;
-            //var rituel = Rituels[Rituel].Key;
-            //var source = Sources[Source].Key;
 
             return items
                     .Where(item =>
@@ -414,12 +414,13 @@ namespace AideDeJeu.ViewModels
                 {
                     _Filters = new List<Filter>()
                     {
-                        //new Filter() { Key = FilterKeys.Class, Name = "Classe", KeyValues = Classes, Index = 0 },
-                        //new Filter() { Key = FilterKeys.MinLevel, Name = "Niveau Min", KeyValues = Niveaux, Index = 0 },
-                        //new Filter() { Key = FilterKeys.MaxLevel, Name = "Niveau Max", KeyValues = Niveaux, Index = 0 },
-                        //new Filter() { Key = FilterKeys.School, Name = "Ecole", KeyValues = Ecoles, Index = 0 },
-                        //new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, Index = 0 },
-                        //new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, Index = 0 },
+                        new Filter() { Key = FilterKeys.Category, Name = "Catégories", KeyValues = Categories, Index = 0 },
+                        new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, Index = 0 },
+                        new Filter() { Key = FilterKeys.MinPower, Name = "Challenge Min", KeyValues = Powers, Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxPower, Name = "Challenge Max", KeyValues = Powers, Index = 28 },
+                        new Filter() { Key = FilterKeys.Size, Name = "Taille", KeyValues = Sizes, Index = 0 },
+                        new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, Index = 0 },
+                        new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, Index = 0 },
                     };
                 }
                 return _Filters;
@@ -429,13 +430,14 @@ namespace AideDeJeu.ViewModels
         public override IEnumerable<Item> FilterItems(IEnumerable<Item> items)
         {
             var powerComparer = new PowerComparer();
-            var category = Categories[Category].Key;
-            var type = Types[Type].Key;
-            var minPower = Powers[MinPower].Key;
-            var maxPower = Powers[MaxPower].Key;
-            var size = Sizes[Size].Key;
-            var legendary = Legendaries[Legendary].Key;
-            var source = Sources[Source].Key;
+
+            var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey;
+            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey;
+            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey;
+            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey;
+            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey;
+            var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey;
+            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey;
 
             return items.Where(item =>
                 {
@@ -462,126 +464,6 @@ namespace AideDeJeu.ViewModels
 
         public abstract List<KeyValuePair<string, string>> Sources { get; }
 
-        private int _Category = 0;
-        public int Category
-        {
-            get
-            {
-                return _Category;
-            }
-            set
-            {
-                if (_Category != value)
-                {
-                    SetProperty(ref _Category, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Type = 0;
-        public int Type
-        {
-            get
-            {
-                return _Type;
-            }
-            set
-            {
-                if (_Type != value)
-                {
-                    SetProperty(ref _Type, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _MinPower = 0;
-        public int MinPower
-        {
-            get
-            {
-                return _MinPower;
-            }
-            set
-            {
-                if (_MinPower != value)
-                {
-                    SetProperty(ref _MinPower, value);
-                    if (_MaxPower < _MinPower)
-                    {
-                        SetProperty(ref _MaxPower, value, nameof(MaxPower));
-                    }
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _MaxPower = 28;
-        public int MaxPower
-        {
-            get
-            {
-                return _MaxPower;
-            }
-            set
-            {
-                if (_MaxPower != value)
-                {
-                    SetProperty(ref _MaxPower, value);
-                    if (_MaxPower < _MinPower)
-                    {
-                        SetProperty(ref _MinPower, value, nameof(MinPower));
-                    }
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Size = 0;
-        public int Size
-        {
-            get
-            {
-                return _Size;
-            }
-            set
-            {
-                if (_Size != value)
-                {
-                    SetProperty(ref _Size, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Legendary = 0;
-        public int Legendary
-        {
-            get
-            {
-                return _Legendary;
-            }
-            set
-            {
-                if (_Legendary != value)
-                {
-                    SetProperty(ref _Legendary, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
-        private int _Source = 1;
-        public int Source
-        {
-            get
-            {
-                return _Source;
-            }
-            set
-            {
-                if (_Source != value)
-                {
-                    SetProperty(ref _Source, value);
-                    LoadItemsCommand.Execute(null);
-                }
-            }
-        }
     }
 
     public class VFMonsterFilterViewModel : MonsterFilterViewModel
