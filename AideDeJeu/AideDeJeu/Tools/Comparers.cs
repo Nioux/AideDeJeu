@@ -19,7 +19,7 @@ namespace AideDeJeu.Tools
     {
         public override int Compare(string x, string y)
         {
-            var regex = new Regex(@"\((?<xp>\d*?) PX\)");
+            var regex = new Regex(@"\((?<xp>\d*?) (PX|XP)\)");
             int xpx = int.Parse(regex.Match(x).Groups["xp"].Value);
             int xpy = int.Parse(regex.Match(y).Groups["xp"].Value);
             return xpx - xpy;

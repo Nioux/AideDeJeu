@@ -37,7 +37,7 @@ namespace AideDeJeu.ViewModels
 
     public class MainViewModel : BaseViewModel
     {
-        private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
+        private ItemSourceType _ItemSourceType = ItemSourceType.MonsterVO;
         public ItemSourceType ItemSourceType
         {
             get
@@ -54,31 +54,14 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        //private ItemSource _ItemsSource = ItemSource.VF;
-        //public ItemSource ItemsSource
-        //{
-        //    get
-        //    {
-        //        return _ItemsSource;
-        //    }
-        //    set
-        //    {
-        //        //CurrentViewModel.SearchText = "";
-        //        SetProperty(ref _ItemsSource, value);
-        //        //CurrentViewModel.SearchText = "";
-        //        //OnPropertyChanged(nameof(CurrentViewModel));
-        //        LoadItemsCommand.Execute(null);
-        //    }
-        //}
-
         public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
         {
             { ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVF)) },
             { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVO)) },
             { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellHD)) },
-            { ItemSourceType.MonsterVF, new Lazy<ItemsViewModel>(() => new MonstersViewModel()) },
-            { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new MonstersViewModel()) },
-            { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new MonstersViewModel()) },
+            { ItemSourceType.MonsterVF, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVF)) },
+            { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVO)) },
+            { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterHD)) },
         };
 
         public ItemsViewModel GetItemsViewModel(ItemSourceType itemSourceType)
@@ -91,6 +74,9 @@ namespace AideDeJeu.ViewModels
             { ItemSourceType.SpellVF, new Lazy<FilterViewModel>(() => new VFSpellFilterViewModel()) },
             { ItemSourceType.SpellVO, new Lazy<FilterViewModel>(() => new VOSpellFilterViewModel()) },
             { ItemSourceType.SpellHD, new Lazy<FilterViewModel>(() => new HDSpellFilterViewModel()) },
+            { ItemSourceType.MonsterVF, new Lazy<FilterViewModel>(() => new VFMonsterFilterViewModel()) },
+            { ItemSourceType.MonsterVO, new Lazy<FilterViewModel>(() => new VOMonsterFilterViewModel()) },
+            { ItemSourceType.MonsterHD, new Lazy<FilterViewModel>(() => new HDMonsterFilterViewModel()) },
         };
 
         public FilterViewModel GetFilterViewModel(ItemSourceType itemSourceType)
@@ -98,28 +84,6 @@ namespace AideDeJeu.ViewModels
             return AllFiltersViewModel[itemSourceType].Value;
         }
 
-        //public ItemsViewModel SpellsVF
-        //{
-        //    get
-        //    {
-        //        return AllItemsViewModel[ItemSourceType.SpellVF].Value;
-        //    }
-        //}
-        //public ItemsViewModel CurrentViewModel
-        //{
-        //    get
-        //    {
-        //        if (ItemsType == ItemType.Spell)
-        //        {
-        //            return Spells;
-        //        }
-        //        if (ItemsType == ItemType.Monster)
-        //        {
-        //            return Monsters;
-        //        }
-        //        return null;
-        //    }
-        //}
         public ObservableCollection<Item> Items { get; private set; } = new ObservableCollection<Item>();
 
         private Item _SelectedItem;
@@ -155,7 +119,10 @@ namespace AideDeJeu.ViewModels
         {
             //Spells = new SpellsViewModel(navigator, Items);
             //Monsters = new MonstersViewModel(navigator, Items);
-            LoadItemsCommand = new Command(() => GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand(GetFilterViewModel(ItemSourceType)));
+            LoadItemsCommand = new Command(() =>
+                {
+                    GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand(GetFilterViewModel(ItemSourceType));
+                });
             GotoItemCommand = new Command<Item>(async (item) => await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item));
             SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ ItemSourceType.Monster) | ItemSourceType.Spell);
             SwitchToMonsters = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Spell) | ItemSourceType.Monster);
