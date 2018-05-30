@@ -2,7 +2,7 @@
 using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
 using System;
-
+using System.Linq;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -35,7 +35,7 @@ namespace AideDeJeu.Views
         {
             base.OnAppearing();
 
-            if (Main.Items.Count == 0)
+            if (Main.Items.Count() == 0)
                 Main.LoadItemsCommand.Execute(null);
         }
 

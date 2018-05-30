@@ -19,7 +19,7 @@ namespace AideDeJeu.ViewModels
         public ItemsViewModel(ItemSourceType itemSourceType)
         {
             this.ItemSourceType = itemSourceType;
-            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync());
+            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
         }
         public ICommand LoadItemsCommand { get; protected set; }
         //public abstract void ExecuteLoadItemsCommand();
@@ -75,19 +75,24 @@ namespace AideDeJeu.ViewModels
             Main.IsLoading = true;
             try
             {
+                // Yan : c'est pas plutôt cette partie qui devrait être dans une autre Task ?
                 var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
                 var items = await filterViewModel.FilterItems(AllItems, token);
-                await Task.Run(() =>
-                {
-                    Main.Items.Clear();
-                    foreach (var item in items)
-                    {
-                        token.ThrowIfCancellationRequested();
-                        Main.Items.Add(item);
-                    }
-                });
+
+                await Task.Run(async () => {
+                    // Yan : plus besoin de boucle si on change toute la liste d'un coup ;)
+                    // Yan : indispensable de repasser sur l'ui thread pour la version uwp
+                    Device.BeginInvokeOnMainThread(() => Main.Items = items);
+                    //Main.Items.Clear();
+                    //foreach (var item in items)
+                    //{
+                    //    token.ThrowIfCancellationRequested();
+                    //    Main.Items.Add(item);
+                    //}
+                }, cancellationToken: token); // Yan : c'est ici qu'il faudrait coller le token non ?
 
                 //On arrete le loading ici car on annule toujours avant de lancer une nouvelle opération
+                // Yan : ?? du coup le IsLoading repasse pas à false en cas de cancel ou d'autre exception ?
                 Main.IsLoading = false;
             }
             catch (OperationCanceledException ex)

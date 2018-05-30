@@ -89,7 +89,19 @@ namespace AideDeJeu.ViewModels
             return AllFiltersViewModel[itemSourceType].Value;
         }
 
-        public ObservableCollection<Item> Items { get; private set; } = new ObservableCollection<Item>();
+        // Yan : pas besoin d'ObservableCollection, on ne modifie jamais la liste item par item
+        public IEnumerable<Item> _Items = new List<Item>();
+        public IEnumerable<Item> Items
+        {
+            get
+            {
+                return _Items;
+            }
+            set
+            {
+                SetProperty(ref _Items, value);
+            }
+        }
 
         private Item _SelectedItem;
         public Item SelectedItem
