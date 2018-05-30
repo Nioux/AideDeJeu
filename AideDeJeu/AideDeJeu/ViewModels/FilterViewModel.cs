@@ -130,7 +130,7 @@ namespace AideDeJeu.ViewModels
                             spell.Source.Contains(source) &&
                             spell.Source.Contains(classe) &&
                             spell.Type.Contains(rituel) &&
-                            spell.NamePHB.ToLower().Contains(SearchText.ToLower());
+                            Helpers.RemoveDiacritics(spell.NamePHB).ToLower().Contains(Helpers.RemoveDiacritics(SearchText).ToLower());
                     })
                     .OrderBy(spell => spell.NamePHB)
                     .ToList();
@@ -363,7 +363,7 @@ namespace AideDeJeu.ViewModels
                         monster.Source.Contains(source) &&
                         powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
                         powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
-                        monster.NamePHB.ToLower().Contains(SearchText.ToLower());
+                        Helpers.RemoveDiacritics(monster.NamePHB).ToLower().Contains(Helpers.RemoveDiacritics(SearchText).ToLower());
                 })
                 .OrderBy(monster => monster.NamePHB)
                 .ToList();
