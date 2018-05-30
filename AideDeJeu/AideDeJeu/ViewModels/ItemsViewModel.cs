@@ -8,15 +8,18 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
+using System.Threading;
 
 namespace AideDeJeu.ViewModels
 {
     public abstract class ItemsViewModel : BaseViewModel
     {
+        CancellationTokenSource cancellationTokenSource;
+
         public ItemsViewModel(ItemSourceType itemSourceType)
         {
             this.ItemSourceType = itemSourceType;
-            LoadItemsCommand = new Command(() => ExecuteLoadItemsCommand());
+            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync());
         }
         public ICommand LoadItemsCommand { get; protected set; }
         //public abstract void ExecuteLoadItemsCommand();
@@ -66,26 +69,28 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public void ExecuteLoadItemsCommand()
+        async Task LoadItemsAsync(CancellationToken token = default)
         {
-            if (IsBusy)
-                return;
-
             IsBusy = true;
-
+            Main.IsLoading = true;
             try
             {
-                Main.Items.Clear();
-
                 var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
-                var items = filterViewModel.FilterItems(AllItems);
-
-                foreach (var item in items)
+                var items = await filterViewModel.FilterItems(AllItems, token);
+                await Task.Run(() =>
                 {
-                    Main.Items.Add(item);
-                }
+                    Main.Items.Clear();
+                    foreach (var item in items)
+                    {
+                        token.ThrowIfCancellationRequested();
+                        Main.Items.Add(item);
+                    }
+                });
+
+                //On arrete le loading ici car on annule toujours avant de lancer une nouvelle opération
+                Main.IsLoading = false;
             }
-            catch (Exception ex)
+            catch (OperationCanceledException ex)
             {
                 Debug.WriteLine(ex);
             }
@@ -95,6 +100,14 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-
+        public async Task ExecuteLoadItemsCommandAsync()
+        {
+            if (cancellationTokenSource != null)
+            {
+                cancellationTokenSource.Cancel();
+            }
+            cancellationTokenSource = new CancellationTokenSource();
+            await LoadItemsAsync(cancellationTokenSource.Token);
+        }
     }
 }

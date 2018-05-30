@@ -52,6 +52,13 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private bool _isLoading;
+        public bool IsLoading
+        {
+            get => _isLoading;
+            set => SetProperty(ref _isLoading, value);
+        }
+
         public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
         {
             { ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVF)) },
@@ -116,21 +123,21 @@ namespace AideDeJeu.ViewModels
 
         public MainViewModel()
         {
-            LoadItemsCommand = new Command(() =>
+            LoadItemsCommand = new Command(async () =>
                 {
-                    GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand();
+                    await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
                 });
             GotoItemCommand = new Command<Item>(async (item) => await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item));
-            SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ ItemSourceType.Monster) | ItemSourceType.Spell);
+            SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Monster) | ItemSourceType.Spell);
             SwitchToMonsters = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Spell) | ItemSourceType.Monster);
             SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);
             SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.HD) | ItemSourceType.VO);
             SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.VO) | ItemSourceType.HD);
-            AboutCommand = new Command(async() => await Main.Navigator.GotoAboutPageAsync());
-            SearchCommand = new Command<string>((text) =>
+            AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
+            SearchCommand = new Command<string>(async (text) =>
                 {
                     GetFilterViewModel(ItemSourceType).SearchText = text;
-                    GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommand();
+                    await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
                 });
         }
     }

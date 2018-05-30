@@ -8,13 +8,15 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Windows.Input;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace AideDeJeu.ViewModels
 {
     public abstract class FilterViewModel : BaseViewModel
     {
         public ICommand LoadItemsCommand { get; protected set; }
-        public abstract IEnumerable<Item> FilterItems(IEnumerable<Item> items);
+        public abstract Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default);
         public abstract IEnumerable<Filter> Filters { get; }
         private string _SearchText = "";
         public string SearchText
@@ -77,7 +79,7 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                if(Index >= 0 && Index < KeyValues.Count)
+                if (Index >= 0 && Index < KeyValues.Count)
                 {
                     return KeyValues[Index].Key;
                 }
@@ -94,7 +96,7 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                if(_Filters == null)
+                if (_Filters == null)
                 {
                     _Filters = new List<Filter>()
                     {
@@ -111,29 +113,31 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public override IEnumerable<Item> FilterItems(IEnumerable<Item> items)
+        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
-            var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
-            var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
-            var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-            var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+            return await Task.Run(() =>
+            {
+                var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
+                var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
+                var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
+                var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
+                var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
+                var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+                token.ThrowIfCancellationRequested();
+                return items.Where(item =>
+                {
+                    var spell = item as Spell;
+                    return (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
+                        (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
+                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                        spell.Source.Contains(source) &&
+                        spell.Source.Contains(classe) &&
+                        spell.Type.Contains(rituel) &&
+                        spell.NamePHB.ToLower().Contains(SearchText.ToLower());
+                }).OrderBy(spell => spell.NamePHB)
+                            .AsEnumerable();
+            }, token);
 
-            return items
-                    .Where(item =>
-                    {
-                        var spell = item as Spell;
-                        return (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
-                            (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
-                            spell.Type.ToLower().Contains(ecole.ToLower()) &&
-                            spell.Source.Contains(source) &&
-                            spell.Source.Contains(classe) &&
-                            spell.Type.Contains(rituel) &&
-                            spell.NamePHB.ToLower().Contains(SearchText.ToLower());
-                    })
-                    .OrderBy(spell => spell.NamePHB)
-                    .ToList();
         }
 
         public abstract List<KeyValuePair<string, string>> Classes { get; }
@@ -343,19 +347,30 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public override IEnumerable<Item> FilterItems(IEnumerable<Item> items)
+        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
-            var powerComparer = new PowerComparer();
+            return await Task.Run(() =>
+            {
+                var powerComparer = new PowerComparer();
 
-            //var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey ?? "";
-            var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-            var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-            var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-            var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-            //var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey ?? "";
-            var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+                //var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey ?? "";
+                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+                token.ThrowIfCancellationRequested();
 
-            return items.Where(item =>
+                var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
+                token.ThrowIfCancellationRequested();
+
+                var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
+                token.ThrowIfCancellationRequested();
+
+                var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
+                token.ThrowIfCancellationRequested();
+                //var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey ?? "";
+
+                var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
+                token.ThrowIfCancellationRequested();
+
+                return items.Where(item =>
                 {
                     var monster = item as Monster;
                     return monster.Type.Contains(type) &&
@@ -365,8 +380,10 @@ namespace AideDeJeu.ViewModels
                         powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
                         monster.NamePHB.ToLower().Contains(SearchText.ToLower());
                 })
-                .OrderBy(monster => monster.NamePHB)
-                .ToList();
+                    .OrderBy(monster => monster.NamePHB)
+                            .AsEnumerable();
+            }, token);
+
         }
 
         public abstract List<KeyValuePair<string, string>> Categories { get; }
