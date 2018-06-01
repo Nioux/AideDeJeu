@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using AideDeJeu.ViewModels;
 using AideDeJeuLib.Cards;
 using AideDeJeuLib.Spells;
 using Microsoft.AspNetCore.Mvc;
@@ -13,23 +14,16 @@ namespace AideDeJeuWeb.Controllers
         [HttpGet("{classe}")]
         public async Task<IEnumerable<CardData>> Get(string classe)
         {
-            var scrapper = new SpellsScrappers();
-            var spellIds = await scrapper.GetSpellIds(classe);
-            var spells = await scrapper.GetSpells(spellIds);
-
+            var items = AideDeJeu.Tools.Helpers.GetResourceObject<IEnumerable<Spell>>("AideDeJeu.Data.spells_vf.json");
+            var filter = new VFSpellFilterViewModel();
+            var fitems = await filter.FilterItems(items);
 
             var cardDatas = new List<CardData>();
-            foreach (var spell in spells)
+            foreach (var spell in fitems)
             {
-                cardDatas.AddRange(Converters.ToCardDatas(spell));
+                cardDatas.AddRange(Converters.ToCardDatas(spell as Spell));
             }
             return cardDatas;
-            //var spellIds = spells.Select(spell => spell.Id);
-            //var fullspells = await scrapper.GetSpells(spellIds);
-            //return spells;
-            //return await scrapper.GetSpellIds("");
-            //return await new SpellsScrappers().GetSpells();
-            //return new string[] { "value1", "value2" };
         }
 
         // GET api/values/5
