@@ -73,7 +73,7 @@ namespace AideDeJeuLib.Cards
             foreach (var content in description.ChildNodes)
             {
                 //Debug.WriteLine(content.NodeType + " " + content.Name + " " + content.InnerText);
-                if (content.NodeType == HtmlNodeType.Element && content.Name == "strong")
+                if ((content.NodeType == HtmlNodeType.Element || content.NodeType == HtmlNodeType.Document) && content.Name == "strong")
                 {
                     if (currentText.Length > 0)
                     {
@@ -82,7 +82,7 @@ namespace AideDeJeuLib.Cards
                     }
                     contents.Add(new SectionCardContent(content.InnerText));
                 }
-                else if (content.NodeType == HtmlNodeType.Element && content.Name == "em")
+                else if ((content.NodeType == HtmlNodeType.Element || content.NodeType == HtmlNodeType.Document) && content.Name == "em")
                 {
                     currentText += "<em>" + content.InnerText + "</em>";
                 }
@@ -141,9 +141,9 @@ namespace AideDeJeuLib.Cards
                 new PropertyCardContent("Durée", spell.Duration),
                 new RuleCardContent(),
                 //new FillCardContent(1),
-                //new TextCardContent(spell.Description),
+                //new TextCardContent(spell.DescriptionText),
             });
-            var description = ToContents(spell.DescriptionDiv);
+            var description = ToContents(spell.DescriptionDiv.Element("div"));
             foreach (var line in description)
             {
                 int size = contents.Sum(cc => cc.Height);
