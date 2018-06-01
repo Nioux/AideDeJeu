@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using AideDeJeu.ViewModels;
 using AideDeJeuLib.Cards;
@@ -15,8 +16,7 @@ namespace AideDeJeuWeb.Controllers
         public async Task<IEnumerable<CardData>> Get(string classe)
         {
             var items = AideDeJeu.Tools.Helpers.GetResourceObject<IEnumerable<Spell>>("AideDeJeu.Data.spells_vf.json");
-            var filter = new VFSpellFilterViewModel();
-            var fitems = await filter.FilterItems(items);
+            var fitems = items.Where(it => it.Source.Contains(classe)).OrderBy(it => it.Level).ThenBy(it => it.NamePHB);
 
             var cardDatas = new List<CardData>();
             foreach (var spell in fitems)
