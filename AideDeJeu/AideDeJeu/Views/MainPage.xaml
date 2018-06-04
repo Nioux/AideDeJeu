@@ -9,22 +9,20 @@
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <AbsoluteLayout>
-                <ListView ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-                                <ViewCell.View>
-                                    <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
-                                        <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
-                                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
-                                    </StackLayout>
-                                </ViewCell.View>
-                            </ViewCell>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-            </AbsoluteLayout>
+            <ListView ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                                    <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
+                                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
@@ -39,27 +37,25 @@
                         <ToolbarItem Name="VO" Text="VO AideDD/SRD" Order="Secondary" Command="{Binding SwitchToVO}" />
                         <ToolbarItem Name="HD" Text="VF H&amp;D" Order="Secondary" Command="{Binding SwitchToHD}" />
                     </ContentPage.ToolbarItems>
-                    <AbsoluteLayout>
-                        <StackLayout Orientation="Vertical">
-                            <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
-                                <SearchBar.Behaviors>
-                                    <tools:TextChangedBehavior />
-                                </SearchBar.Behaviors>
-                            </SearchBar>
-                            <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" IsRefreshing="{Binding IsBusy, Mode=OneWay}" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
-                                <ListView.ItemTemplate>
-                                    <DataTemplate>
-                                        <ViewCell>
-                                            <StackLayout Padding="10">
-                                                <Label Text="{Binding NamePHB}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
-                                            </StackLayout>
-                                        </ViewCell>
-                                    </DataTemplate>
-                                </ListView.ItemTemplate>
-                            </ListView>
-                        </StackLayout>
-                        <ActivityIndicator AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="XProportional, YProportional" IsRunning="{x:Binding IsLoading}" Color="Olive" />
-                    </AbsoluteLayout>
+                    <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
+                        <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                            <SearchBar.Behaviors>
+                                <tools:TextChangedBehavior />
+                            </SearchBar.Behaviors>
+                        </SearchBar>
+                            <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" IsRefreshing="{x:Binding IsLoading}" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Padding="10">
+                                            <Label Text="{Binding NamePHB}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackLayout>
+                    <!--<ActivityIndicator AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="XProportional, YProportional" IsRunning="{x:Binding IsLoading}" Color="Olive" />-->
                 </ContentPage>
             </x:Arguments>
         </NavigationPage>
