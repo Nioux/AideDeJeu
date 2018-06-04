@@ -1,8 +1,8 @@
-﻿using HtmlAgilityPack;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
+using System.Xml;
 
 namespace AideDeJeuLib.Monsters
 {
@@ -52,7 +52,7 @@ namespace AideDeJeuLib.Monsters
 
         public IEnumerable<string> SpecialFeatures { get; set; }
         [IgnoreDataMember]
-        public IEnumerable<HtmlNode> SpecialFeaturesNodes
+        public IEnumerable<XmlNode> SpecialFeaturesNodes
         {
             set
             {
@@ -62,7 +62,7 @@ namespace AideDeJeuLib.Monsters
 
         public IEnumerable<string> Actions { get; set; }
         [IgnoreDataMember]
-        public IEnumerable<HtmlNode> ActionsNodes
+        public IEnumerable<XmlNode> ActionsNodes
         {
             set
             {
@@ -72,7 +72,7 @@ namespace AideDeJeuLib.Monsters
 
         public IEnumerable<string> LegendaryActions { get; set; }
         [IgnoreDataMember]
-        public IEnumerable<HtmlNode> LegendaryActionsNodes
+        public IEnumerable<XmlNode> LegendaryActionsNodes
         {
             set
             {
@@ -83,15 +83,15 @@ namespace AideDeJeuLib.Monsters
 
         public void ParseHtml()
         {
-            var pack = new HtmlDocument();
-            pack.LoadHtml(this.Html);
-            var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
+            var pack = new XmlDocument();
+            pack.LoadXml(this.Html);
+            var divSpell = pack.DocumentElement.SelectSingleNode("//div[contains(@class,'bloc')]");
             ParseNode(divSpell);
         }
 
         //public static Monster FromHtml(HtmlNode divBloc)
         //{
-        public void ParseNode(HtmlNode divBloc)
+        public void ParseNode(XmlNode divBloc)
         {
             //monster.Html = divBloc.OuterHtml;
             var divMonster = divBloc?.SelectSingleNode("div[contains(@class,'monstre')]");
@@ -99,7 +99,7 @@ namespace AideDeJeuLib.Monsters
 
             var divTrad = divMonster.SelectSingleNode("div[@class='trad']");
 
-            var linkVO = divTrad.SelectSingleNode("a").GetAttributeValue("href", "");
+            var linkVO = divTrad.SelectSingleNode("a").Attributes["href"].InnerText;
             var matchIdVF = new Regex(@"\?vf=(?<idvf>.*)").Match(linkVO);
             this.IdVF = matchIdVF?.Groups["idvf"]?.Value;
             var matchIdVO = new Regex(@"\?vo=(?<idvo>.*)").Match(linkVO);
@@ -160,24 +160,24 @@ namespace AideDeJeuLib.Monsters
             this.Languages = divRed?.SelectSingleNode("strong[contains(text(),'Langues') or contains(text(),'Languages')]")?.NextSibling?.InnerText;
             this.Challenge = divRed?.SelectSingleNode("strong[contains(text(),'Puissance') or contains(text(),'Challenge')]")?.NextSibling?.InnerText;
 
-            List<HtmlNode> nodes = new List<HtmlNode>();
-            List<HtmlNode> specialFeatures = null;
-            List<HtmlNode> actions = null;
-            List<HtmlNode> legendaryActions = null;
+            List<XmlNode> nodes = new List<XmlNode>();
+            List<XmlNode> specialFeatures = null;
+            List<XmlNode> actions = null;
+            List<XmlNode> legendaryActions = null;
             var node = divSansSerif.SelectSingleNode("p");
             while(node != null)
             {
-                if(node.NodeType == HtmlNodeType.Element && node.Name == "div")
+                if(node.NodeType == XmlNodeType.Element && node.Name == "div")
                 {
                     if(node.InnerText == "ACTIONS")
                     {
                         specialFeatures = nodes;
-                        nodes = new List<HtmlNode>();
+                        nodes = new List<XmlNode>();
                     }
                     else if (node.InnerText == "ACTIONS LÉGENDAIRES" || node.InnerText == "LEGENDARY ACTIONS")
                     {
                         actions = nodes;
-                        nodes = new List<HtmlNode>();
+                        nodes = new List<XmlNode>();
                     }
                 }
                 else
@@ -213,13 +213,13 @@ namespace AideDeJeuLib.Monsters
             this.Source = divSource?.InnerText;
 
             var img = divBloc?.SelectSingleNode("div[contains(@class,'center')]/img[contains(@class,'picture')]");
-            this.Picture = img?.GetAttributeValue("src", null);
+            this.Picture = img?.Attributes["src"].InnerText;
         }
 
-        public static Monster FromHtml(HtmlNode node)
+        public static Monster FromHtml(XmlNode node)
         {
             var monster = new Monster();
-            monster.Html = node.OuterHtml;
+            monster.Html = node.OuterXml;
             monster.ParseNode(node);
             return monster;
         }

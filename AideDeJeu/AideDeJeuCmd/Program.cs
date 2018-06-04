@@ -1,7 +1,6 @@
 ﻿using AideDeJeu.Services;
 using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
-using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -74,7 +73,7 @@ namespace AideDeJeuCmd
             spellsVF.ForEach(sp => sp.Html = null);
             spellsVO.ForEach(sp => sp.Html = null);
             spellsVF.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
-            spellsVO.ForEach(sp => sp.Html = null);
+            spellsVO.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
             monstersVF.ForEach(it => it.Html = null);
             monstersVO.ForEach(it => it.Html = null);
 

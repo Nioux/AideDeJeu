@@ -1,10 +1,11 @@
-﻿using HtmlAgilityPack;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Xml;
+using System.Xml.Linq;
 
 namespace AideDeJeuLib.Spells
 {
@@ -76,22 +77,23 @@ namespace AideDeJeuLib.Spells
             var url = string.Format("https://www.aidedd.org/dnd-filters/sorts.php?c={0}&min={1}&max={2}&e={3}&r={4}&s={5}", classe, niveauMin, niveauMax, ecole, rituel, source);
             html = await client.GetStringAsync(url);
 
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
+            var pack = new XmlDocument();
+            pack.LoadXml(html);
             //var tdssort = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
-            var tdssort = pack.DocumentNode.SelectSingleNode("//table[contains(@class,'liste')]").Elements("tr").ToList();
+            var tdssort = pack.DocumentElement.SelectSingleNode("//table[contains(@class,'liste')]").SelectNodes("tr");
             var spells = new List<Spell>();
-            foreach (var tdsort in tdssort)
+            foreach (var tdsortt in tdssort)
             {
-                var thssort = tdsort.Elements("td").ToArray();
-                if (thssort.Length > 0)
+                var tdsort = tdsortt as XmlNode;
+                var thssort = tdsort.SelectNodes("td");
+                if (thssort.Count > 0)
                 {
                     Spell spell = new Spell();
-                    var aname = thssort[1].Element("a");
-                    var spanname = aname.Element("span");
+                    var aname = thssort[1].SelectSingleNode("a");
+                    var spanname = aname.SelectSingleNode("span");
                     if(spanname != null)
                     {
-                        spell.NamePHB = spanname.GetAttributeValue("title", "");
+                        spell.NamePHB = spanname.Attributes["title"].InnerText;
                         spell.Name = spanname.InnerText;
                     }
                     else
@@ -99,7 +101,7 @@ namespace AideDeJeuLib.Spells
                         spell.NamePHB = aname.InnerText;
                         spell.Name = aname.InnerText;
                     }
-                    var href = aname.GetAttributeValue("href", "");
+                    var href = aname.Attributes["href"].InnerText;
                     var regex = new Regex("vf=(?<id>.*)");
                     spell.Id = regex.Match(href).Groups["id"].Value;
 
@@ -123,9 +125,9 @@ namespace AideDeJeuLib.Spells
 
             html = await client.GetStringAsync(string.Format("https://www.aidedd.org/dnd/sorts.php?vf={0}", id));
 
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
-            var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
+            var pack = new XmlDocument();
+            pack.LoadXml(html);
+            var divSpell = pack.DocumentElement.SelectSingleNode("//div[contains(@class,'bloc')]");
             var spell = Spell.FromHtml(divSpell);
             spell.Id = id;
             return spell;
@@ -141,9 +143,9 @@ namespace AideDeJeuLib.Spells
 
             html = await client.GetStringAsync(string.Format("https://www.aidedd.org/adj/livre-sorts/?c={0}&min={1}&max={2}", classe, niveauMin, niveauMax));
 
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
-            return pack.DocumentNode.SelectNodes("//input[@name='select_sorts[]']").Select(node => node.GetAttributeValue("value", ""));
+            var pack = new XmlDocument();
+            pack.LoadXml(html);
+            return pack.DocumentElement.SelectNodes("//input[@name='select_sorts[]']").Cast<XmlNode>().Select(node => node.Attributes["value"].InnerText);
         }
 
         public async Task<IEnumerable<Spell>> GetSpells(IEnumerable<string> spellIds)
@@ -159,14 +161,14 @@ namespace AideDeJeuLib.Spells
             var response = await client.PostAsync("http://www.aidedd.org/dnd/sorts.php", content);
             html = await response.Content.ReadAsStringAsync();
 
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
+            var pack = new XmlDocument();
+            pack.LoadXml(html);
             var newSpells = new List<Spell>();
-            var spells = pack.DocumentNode.SelectNodes("//div[contains(@class,'blocCarte')]").ToList();
+            var spells = pack.DocumentElement.SelectNodes("//div[contains(@class,'blocCarte')]");
             foreach (var spell in spells)
             {
                 //var newSpell = new Spell();
-                var newSpell = Spell.FromHtml(spell);
+                var newSpell = Spell.FromHtml(spell as XmlNode);
                 //newSpell.Name = spell.SelectSingleNode("h1").InnerText;
                 //newSpell.NameVO = spell.SelectSingleNode("div[@class='trad']").InnerText;
                 //newSpell.LevelType = spell.SelectSingleNode("h2/em").InnerText;

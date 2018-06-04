@@ -1,7 +1,7 @@
 ﻿using AideDeJeuLib.Spells;
-using HtmlAgilityPack;
 using System.Collections.Generic;
 using System.Linq;
+using System.Xml;
 
 namespace AideDeJeuLib.Cards
 {
@@ -66,14 +66,15 @@ namespace AideDeJeuLib.Cards
             return texts.ToArray();
         }
 
-        public static CardContent[] ToContents(HtmlNode description)
+        public static CardContent[] ToContents(XmlNode description)
         {
             var contents = new List<CardContent>();
             string currentText = "";
-            foreach (var content in description.ChildNodes)
+            foreach (var contentt in description.ChildNodes)
             {
+                var content = contentt as XmlNode;
                 //Debug.WriteLine(content.NodeType + " " + content.Name + " " + content.InnerText);
-                if ((content.NodeType == HtmlNodeType.Element || content.NodeType == HtmlNodeType.Document) && content.Name == "strong")
+                if ((content.NodeType == XmlNodeType.Element || content.NodeType == XmlNodeType.Document) && content.Name == "strong")
                 {
                     if (currentText.Length > 0)
                     {
@@ -82,11 +83,11 @@ namespace AideDeJeuLib.Cards
                     }
                     contents.Add(new SectionCardContent(content.InnerText));
                 }
-                else if ((content.NodeType == HtmlNodeType.Element || content.NodeType == HtmlNodeType.Document) && content.Name == "em")
+                else if ((content.NodeType == XmlNodeType.Element || content.NodeType == XmlNodeType.Document) && content.Name == "em")
                 {
                     currentText += "<em>" + content.InnerText + "</em>";
                 }
-                else if (content.NodeType == HtmlNodeType.Text)
+                else if (content.NodeType == XmlNodeType.Text)
                 {
                     var texts = SplitText(content.InnerText);
                     for (int i = 0; i < texts.Length - 1; i++)
@@ -143,7 +144,7 @@ namespace AideDeJeuLib.Cards
                 //new FillCardContent(1),
                 //new TextCardContent(spell.DescriptionText),
             });
-            var description = ToContents(spell.DescriptionDiv.Element("div"));
+            var description = ToContents(spell.DescriptionDiv.SelectSingleNode("div"));
             foreach (var line in description)
             {
                 int size = contents.Sum(cc => cc.Height);

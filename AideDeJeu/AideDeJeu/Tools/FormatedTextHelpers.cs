@@ -1,8 +1,8 @@
-﻿using HtmlAgilityPack;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Xml;
 using Xamarin.Forms;
 using Xamarin.Forms.Internals;
 
@@ -10,20 +10,21 @@ namespace AideDeJeu.Tools
 {
     public static class FormatedTextHelpers
     {
-        public static void HtmlNodesToFormatedString(HtmlNodeCollection nodes, FormattedString fs, FontAttributes attributes = FontAttributes.None)
+        public static void HtmlNodesToFormatedString(XmlNodeList nodes, FormattedString fs, FontAttributes attributes = FontAttributes.None)
         {
             if (nodes != null)
             {
-                foreach (var node in nodes)
+                foreach (var nodee in nodes)
                 {
+                    var node = nodee as XmlNode;
                     HtmlNodeToFormatedString(node, fs, attributes);
                 }
             }
         }
 
-        public static void HtmlNodeToFormatedString(HtmlNode node, FormattedString fs, FontAttributes attributes = FontAttributes.None)
+        public static void HtmlNodeToFormatedString(XmlNode node, FormattedString fs, FontAttributes attributes = FontAttributes.None)
         {
-            if (node.NodeType == HtmlNodeType.Text)
+            if (node.NodeType == XmlNodeType.Text)
             {
                 var resname = "content";
                 if (attributes.HasFlag(FontAttributes.Bold))
@@ -37,23 +38,23 @@ namespace AideDeJeu.Tools
                 var fd = FontData.FromResource(resname);
                 fs.Spans.Add(new Span() { FontFamily = fd.FontFamily, FontAttributes = attributes | fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor, Text = node.InnerText });
             }
-            else if (node.NodeType == HtmlNodeType.Element && node.Name == "br")
+            else if (node.NodeType == XmlNodeType.Element && node.Name == "br")
             {
                 fs.Spans.Add(new Span() { Text = "\r\n" });
             }
-            else if (node.NodeType == HtmlNodeType.Element && node.Name == "strong")
+            else if (node.NodeType == XmlNodeType.Element && node.Name == "strong")
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes | FontAttributes.Bold);
             }
-            else if (node.NodeType == HtmlNodeType.Element && node.Name == "em")
+            else if (node.NodeType == XmlNodeType.Element && node.Name == "em")
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes | FontAttributes.Italic);
             }
-            else if (node.NodeType == HtmlNodeType.Element)
+            else if (node.NodeType == XmlNodeType.Element)
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
             }
-            else if (node.NodeType == HtmlNodeType.Document)
+            else if (node.NodeType == XmlNodeType.Document)
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
             }

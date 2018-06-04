@@ -1,11 +1,11 @@
-﻿using HtmlAgilityPack;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace AideDeJeuLib.Monsters
 {
@@ -78,22 +78,23 @@ namespace AideDeJeuLib.Monsters
             var url = string.Format($"https://www.aidedd.org/dnd-filters/monstres.php?c={category}&t={type}&min={minPower}&max={maxPower}&sz={size}&lg={legendary}&s={source}", category, type, minPower, maxPower, size, legendary, source);
             html = await client.GetStringAsync(url);
 
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
+            var pack = new XmlDocument();
+            pack.LoadXml(html);
             //var trs = pack.GetElementbyId("liste").Element("table").Elements("tr").ToList();
-            var trs = pack.DocumentNode.SelectSingleNode("//table[contains(@class,'liste')]").Elements("tr").ToList();
+            var trs = pack.DocumentElement.SelectSingleNode("//table[contains(@class,'liste')]").SelectNodes("tr");
             var monsters = new List<Monster>();
-            foreach (var tr in trs)
+            foreach (var tro in trs)
             {
-                var tds = tr.Elements("td").ToArray();
-                if (tds.Length > 0)
+                var tr = tro as XmlNode;
+                var tds = tr.SelectNodes("td");
+                if (tds.Count > 0)
                 {
                     var monster = new Monster();
-                    var aname = tds[1].Element("a");
-                    var spanname = aname.Element("span");
+                    var aname = tds[1].SelectSingleNode("a");
+                    var spanname = aname.SelectSingleNode("span");
                     if (spanname != null)
                     {
-                        monster.NamePHB = spanname.GetAttributeValue("title", "");
+                        monster.NamePHB = spanname.Attributes["title"].InnerText;
                         monster.Name = spanname.InnerText;
                     }
                     else
@@ -103,7 +104,7 @@ namespace AideDeJeuLib.Monsters
                     }
 
                     //monster.Name = tds[0].InnerText;
-                    var href = aname.GetAttributeValue("href", "");
+                    var href = aname.Attributes["href"].InnerText;
                     var regex = new Regex("vf=(?<id>.*)");
                     monster.Id = regex.Match(href).Groups["id"].Value;
                     monster.Power = tds[2].InnerText;
@@ -125,9 +126,9 @@ namespace AideDeJeuLib.Monsters
 
             html = await client.GetStringAsync(string.Format($"https://www.aidedd.org/dnd/monstres.php?vf={id}", id));
 
-            var pack = new HtmlDocument();
-            pack.LoadHtml(html);
-            var divBloc = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
+            var pack = new XmlDocument();
+            pack.LoadXml(html);
+            var divBloc = pack.DocumentElement.SelectSingleNode("//div[contains(@class,'bloc')]");
             var monster = Monster.FromHtml(divBloc);
             monster.Id = id;
             return monster;

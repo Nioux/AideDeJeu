@@ -1,5 +1,4 @@
-﻿using HtmlAgilityPack;
-using System;
+﻿using System;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
@@ -28,24 +27,24 @@ namespace AideDeJeuLib.Spells
             }
         }
         [IgnoreDataMember]
-        public HtmlNode DescriptionDiv
+        public XmlNode DescriptionDiv
         {
             get
             {
                 if(DescriptionHtml != null)
                 {
-                    //XmlDocument xdoc = new XmlDocument();
-                    //xdoc.LoadXml(DescriptionHtml);
-                    //return xdoc.DocumentElement;
-                    HtmlDocument doc = new HtmlDocument();
-                    doc.LoadHtml(DescriptionHtml);
-                    return doc.DocumentNode;
+                    XmlDocument xdoc = new XmlDocument();
+                    xdoc.LoadXml(DescriptionHtml);
+                    return xdoc.DocumentElement;
+                    //HtmlDocument doc = new HtmlDocument() { OptionOutputAsXml = true };
+                    //doc.LoadHtml(DescriptionHtml);
+                    //return doc.DocumentNode;
                 }
                 return null;
             }
             set
             {
-                DescriptionHtml = value?.OuterHtml;
+                DescriptionHtml = value?.OuterXml;
             }
         }
 
@@ -55,18 +54,18 @@ namespace AideDeJeuLib.Spells
 
         public void ParseHtml()
         {
-            var pack = new HtmlDocument();
-            pack.LoadHtml(this.Html);
-            var divSpell = pack.DocumentNode.SelectNodes("//div[contains(@class,'bloc')]").FirstOrDefault();
+            var pack = new XmlDocument();
+            pack.LoadXml(this.Html);
+            var divSpell = pack.DocumentElement.SelectSingleNode("//div[contains(@class,'bloc')]");
             ParseNode(divSpell);
         }
 
-        public void ParseNode(HtmlNode nodeSpell)
+        public void ParseNode(XmlNode nodeSpell)
         {
             this.Name = nodeSpell.SelectSingleNode("h1").InnerText;
             var divTrad = nodeSpell.SelectSingleNode("div[@class='trad']");
             
-            var linkVO = divTrad.SelectSingleNode("a").GetAttributeValue("href", "");
+            var linkVO = divTrad.SelectSingleNode("a").Attributes["href"].InnerText;
             var matchIdVF = new Regex(@"\?vf=(?<idvf>.*)").Match(linkVO);
             this.IdVF = matchIdVF?.Groups["idvf"]?.Value;
             var matchIdVO = new Regex(@"\?vo=(?<idvo>.*)").Match(linkVO);
@@ -95,10 +94,10 @@ namespace AideDeJeuLib.Spells
             this.Source = nodeSpell.SelectSingleNode("div[@class='source']").InnerText;
         }
 
-        public static Spell FromHtml(HtmlNode nodeSpell)
+        public static Spell FromHtml(XmlNode nodeSpell)
         {
             var spell = new Spell();
-            spell.Html = nodeSpell.OuterHtml;
+            spell.Html = nodeSpell.OuterXml;
             spell.ParseNode(nodeSpell);
             return spell;
         }

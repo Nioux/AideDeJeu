@@ -1,5 +1,5 @@
-﻿using HtmlAgilityPack;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System.Xml;
 
 namespace AideDeJeuLib
 {
@@ -13,23 +13,23 @@ namespace AideDeJeuLib
         public string NamePHB { get; set; }
         public string Html { get; set; }
 
-        public static IEnumerable<string> NodeListToStringList(IEnumerable<HtmlNode> nodes)
+        public static IEnumerable<string> NodeListToStringList(IEnumerable<XmlNode> nodes)
         {
             if (nodes == null) return null;
             var strings = new List<string>();
             foreach (var node in nodes)
             {
-                strings.Add(node.OuterHtml);
+                strings.Add(node.OuterXml);
             }
             return strings;
         }
 
-        public static HtmlNode StringToNode(string str)
+        public static XmlNode StringToNode(string str)
         {
             if (str == null) return null;
-            var doc = new HtmlDocument();
-            doc.LoadHtml(str);
-            return doc.DocumentNode;
+            var doc = new XmlDocument();
+            doc.LoadXml(str);
+            return doc.DocumentElement;
         }
 
         //public static IEnumerable<HtmlNode> StringListToNodeList(IEnumerable<string> strings)

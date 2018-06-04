@@ -1,9 +1,9 @@
 ﻿using AideDeJeu.ViewModels;
-using HtmlAgilityPack;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
+using System.Xml;
 using Xamarin.Forms;
 
 namespace AideDeJeu.Tools
@@ -41,11 +41,11 @@ namespace AideDeJeu.Tools
             var str = value as string;
             if (str != null)
             {
-                var doc = new HtmlDocument();
-                doc.LoadHtml(str);
+                var doc = new XmlDocument();
+                doc.LoadXml("<div>" + str + "</div>");
 
                 var fs = new FormattedString();
-                FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentNode, fs);
+                FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentElement, fs);
                 return fs;
             }
             else
@@ -70,10 +70,10 @@ namespace AideDeJeu.Tools
                 var fs = new FormattedString();
                 foreach (var str in strings)
                 {
-                    var doc = new HtmlDocument();
-                    doc.LoadHtml(str);
+                    var doc = new XmlDocument();
+                    doc.LoadXml("<div>" + str + "</div>");
 
-                    FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentNode, fs);
+                    FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentElement, fs);
                     fs.Spans.Add(new Span() { Text = "\r\n" });
                 }
                 return fs;
