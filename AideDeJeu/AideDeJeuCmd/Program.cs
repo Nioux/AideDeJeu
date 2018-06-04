@@ -391,10 +391,14 @@ namespace AideDeJeuCmd
 
         private static void SaveJSon<T>(string filename, T objT) where T : class
         {
+            var settings = new DataContractJsonSerializerSettings { UseSimpleDictionaryFormat = true };
             var serializer = new DataContractJsonSerializer(typeof(T));
             using (var stream = new FileStream(filename, FileMode.Create))
             {
-                serializer.WriteObject(stream, objT);
+                using (var writer = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "  "))
+                {
+                    serializer.WriteObject(writer, objT);
+                }
             }
         }
 
