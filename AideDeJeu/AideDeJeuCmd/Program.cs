@@ -67,20 +67,25 @@ namespace AideDeJeuCmd
             */
             var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
             var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
+            var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
             var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
             var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
             spellsVF.ForEach(sp => sp.Html = null);
+            spellsVO.ForEach(sp => sp.Html = null);
+            spellsVF.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
             spellsVO.ForEach(sp => sp.Html = null);
             monstersVF.ForEach(it => it.Html = null);
             monstersVO.ForEach(it => it.Html = null);
 
             SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vf.json", spellsVF);
             SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vo.json", spellsVO);
+            SaveJSon<IEnumerable<Spell>>(dataDir + "spells_hd.json", spellsHD);
             SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vf.json", monstersVF);
             SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vo.json", monstersVO);
             return;
 
+            /*
             var spellLists = new Dictionary<string, IEnumerable<string>>()
             {
                 { "Barde", await LoadList(dataDir + "spell_barde.txt") },
@@ -199,6 +204,7 @@ namespace AideDeJeuCmd
             SaveJSon<IEnumerable<Spell>>(dataDir + "spells_hd.json", spellsHD);
 
             Console.WriteLine("Hello World!");
+            */
         }
 
         public static string Capitalize(string text)

@@ -3,6 +3,8 @@ using System;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
+using System.Xml;
+using System.Xml.Serialization;
 
 namespace AideDeJeuLib.Spells
 {
@@ -32,6 +34,9 @@ namespace AideDeJeuLib.Spells
             {
                 if(DescriptionHtml != null)
                 {
+                    //XmlDocument xdoc = new XmlDocument();
+                    //xdoc.LoadXml(DescriptionHtml);
+                    //return xdoc.DocumentElement;
                     HtmlDocument doc = new HtmlDocument();
                     doc.LoadHtml(DescriptionHtml);
                     return doc.DocumentNode;
