@@ -1,12 +1,12 @@
 # Agrandir/rétrécir
-- AltName: Enlarge/Reduce
+- NameVO: Enlarge/Reduce
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de limaille de fer)
 - Duration: concentration, jusqu’à 1 minute
 - LevelType: Transmutation de niveau 2
 - Range: 9 mètres
 - Source: (HD)(SRD) 
-- Classes: Ensorceleur ; Magicien ;
+- Classes: Ensorceleur, Magicien
 
 ### Description
 
@@ -35,7 +35,7 @@ Tant qu’elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (ave
 
 
 # Aide
-- AltName: Aid
+- NameVO: Aid
 - CastingTime: 1 action
 - Components: V, S, M (une minuscule bandelette de tissu blanc)
 - Duration: 8 heures
