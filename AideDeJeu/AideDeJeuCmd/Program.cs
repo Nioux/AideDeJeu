@@ -17,8 +17,62 @@ namespace AideDeJeuCmd
 {
     class Program
     {
+        static string MD;
+        static void DumpParagraphBlock(Markdig.Syntax.ParagraphBlock block)
+        {
+            //if (block.Lines != null)
+            //{
+            //    foreach (var line in block.Lines)
+            //    {
+            //        var stringline = line as Markdig.Helpers.StringLine?;
+            //        Console.WriteLine(stringline.ToString());
+            //    }
+            //}
+        }
+        static void DumpListBlock(Markdig.Syntax.ListBlock block)
+        {
+
+        }
+        static void DumpHeadingBlock(Markdig.Syntax.HeadingBlock block)
+        {
+
+        }
+        static void DumpBlock(Markdig.Syntax.Block block)
+        {
+            Console.WriteLine(block.Column);
+            Console.WriteLine(block.IsBreakable);
+            Console.WriteLine(block.IsOpen);
+            Console.WriteLine(block.Line);
+            Console.WriteLine(block.RemoveAfterProcessInlines);
+            Console.WriteLine(block.Span.ToString());
+            Console.WriteLine(MD.Substring(block.Span.Start, block.Span.Length));
+            Console.WriteLine(block.ToString());
+            if(block is Markdig.Syntax.ParagraphBlock)
+            {
+                DumpParagraphBlock(block as Markdig.Syntax.ParagraphBlock);
+            }
+            if(block is Markdig.Syntax.ListBlock)
+            {
+                DumpListBlock(block as Markdig.Syntax.ListBlock);
+            }
+            if (block is Markdig.Syntax.HeadingBlock)
+            {
+                DumpHeadingBlock(block as Markdig.Syntax.HeadingBlock);
+            }
+        }
+        static void DumpMarkdownDocument(Markdig.Syntax.MarkdownDocument document)
+        {
+            foreach (var block in document)
+            {
+                DumpBlock(block);
+            }
+        }
         static async Task Main(string[] args)
         {
+            MD = await new StreamReader(@"..\..\..\..\..\Data\spells_hd.md").ReadToEndAsync();
+            var document = Markdig.Parsers.MarkdownParser.Parse(MD);
+            DumpMarkdownDocument(document);
+            return;
             string dataDir = @"..\..\..\..\..\Data\";
             //string ignoreDir = @"..\..\..\..\..\Ignore\";
             //var documentsDirectoryPath = @"database.db"; // Windows.Storage.ApplicationData.Current.LocalFolder.Path;
