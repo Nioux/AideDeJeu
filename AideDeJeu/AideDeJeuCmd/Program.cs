@@ -15,8 +15,179 @@ using Xamarin.Forms.Internals;
 
 namespace AideDeJeuCmd
 {
+    public static class MarkdownExtensions
+    {
+        public static string ToString(this Markdig.Syntax.SourceSpan span, string md)
+        {
+            return md.Substring(span.Start, span.Length);
+        }
+        public static string ToContainerString(this Markdig.Syntax.Inlines.ContainerInline inlines)
+        {
+            var str = string.Empty;
+            foreach(var inline in inlines)
+            {
+                if (inline is Markdig.Syntax.Inlines.LineBreakInline)
+                {
+                    str += "\n";
+                }
+                else if (inline is Markdig.Syntax.Inlines.LiteralInline)
+                {
+                    str += inline.ToString();
+                }
+                else if(inline is Markdig.Syntax.Inlines.ContainerInline)
+                {
+                    str += (inline as Markdig.Syntax.Inlines.ContainerInline).ToContainerString();
+                }
+                else
+                {
+                    str += inline.ToString();
+                }
+            }
+            return str;
+        }
+
+        public static string ToMarkdownString(this IEnumerable<Spell> spells)
+        {
+            var md = string.Empty;
+            foreach(var spell in spells)
+            {
+                md += spell.ToMarkdownString();
+            }
+            return md;
+        }
+        public static string ToMarkdownString(this Spell spell)
+        {
+            var md = string.Empty;
+            md += string.Format("# {0}\n", spell.NamePHB);
+            md += string.Format("- NameVO: {0}\n", spell.NameVO);
+            md += string.Format("- CastingTime: {0}\n", spell.CastingTime);
+            md += string.Format("- Components: {0}\n", spell.Components);
+            md += string.Format("- Duration: {0}\n", spell.Duration);
+            md += string.Format("- LevelType: {0}\n", spell.LevelType);
+            md += string.Format("- Range: {0}\n", spell.Range);
+            var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
+            var match = regex.Match(spell.Source);
+            var source = match.Groups["source"].Value;
+            var classes = match.Groups["classes"].Value;
+            md += string.Format("- Source: {0}\n", source);
+            md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
+            md += "\n";
+            md += "### Description\n\n";
+            md += spell
+                .DescriptionHtml
+                .Replace("<strong>", "**")
+                .Replace("</strong>", "**")
+                .Replace("<em>", "_")
+                .Replace("</em>", "_")
+                .Replace("<li>", "*")
+                .Replace("</li>", "")
+                .Replace("<br/>", "\n")
+                ;
+            md += "\n\n";
+            return md;
+        }
+    }
     class Program
     {
+        public class MarkdownConverter
+        {
+            public IEnumerable<Spell> MarkdownToSpells(string md)
+            {
+                var spells = new List<Spell>();
+                var document = Markdig.Parsers.MarkdownParser.Parse(MD);
+                Spell spell = null;
+                foreach (var block in document)
+                {
+                    DumpBlock(block);
+                    if (block is Markdig.Syntax.HeadingBlock)
+                    {
+                        var headingBlock = block as Markdig.Syntax.HeadingBlock;
+                        DumpHeadingBlock(headingBlock);
+                        if (headingBlock.HeaderChar == '#' && headingBlock.Level == 1)
+                        {
+                            if (spell != null)
+                            {
+                                spells.Add(spell);
+                            }
+                            spell = new Spell();
+                            spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
+                        }
+                    }
+                    if (block is Markdig.Syntax.ParagraphBlock)
+                    {
+                        var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
+                        DumpParagraphBlock(paragraphBlock);
+                        spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
+                    }
+                    if (block is Markdig.Syntax.ListBlock)
+                    {
+                        var listBlock = block as Markdig.Syntax.ListBlock;
+                        DumpListBlock(listBlock);
+                        if (listBlock.BulletType == '-')
+                        {
+                            spell.Source = "";
+                            foreach (var inblock in listBlock)
+                            {
+                                DumpBlock(inblock);
+                                var regex = new Regex("(?<key>.*?): (?<value>.*)");
+                                if (inblock is Markdig.Syntax.ListItemBlock)
+                                {
+                                    var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
+                                    foreach (var ininblock in listItemBlock)
+                                    {
+                                        DumpBlock(ininblock);
+                                        if(ininblock is Markdig.Syntax.ParagraphBlock)
+                                        {
+                                            var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
+                                            DumpParagraphBlock(paragraphBlock);
+                                            var str = paragraphBlock.Inline.ToContainerString();
+                                            var match = regex.Match(str);
+                                            var key = match.Groups["key"].Value;
+                                            var value = match.Groups["value"].Value;
+                                            switch(key)
+                                            {
+                                                case "NameVO":
+                                                    spell.NameVO = value;
+                                                    break;
+                                                case "CastingTime":
+                                                    spell.CastingTime = value;
+                                                    break;
+                                                case "Components":
+                                                    spell.Components = value;
+                                                    break;
+                                                case "Duration":
+                                                    spell.Duration = value;
+                                                    break;
+                                                case "LevelType":
+                                                    spell.LevelType = value;
+                                                    break;
+                                                case "Range":
+                                                    spell.Range = value;
+                                                    break;
+                                                case "Source":
+                                                    spell.Source += value;
+                                                    break;
+                                                case "Classes":
+                                                    spell.Source += value;
+                                                    break;
+                                            }
+                                        }
+                                    }
+
+                                    DumpListItemBlock(inblock as Markdig.Syntax.ListItemBlock);
+                                }
+                            }
+                        }
+                    }
+
+                }
+                if (spell != null)
+                {
+                    spells.Add(spell);
+                }
+                return spells;
+            }
+        }
         static string MD;
         static void DumpParagraphBlock(Markdig.Syntax.ParagraphBlock block)
         {
@@ -65,7 +236,7 @@ namespace AideDeJeuCmd
             Console.WriteLine(block.Line);
             Console.WriteLine(block.RemoveAfterProcessInlines);
             Console.WriteLine(block.Span.ToString());
-            Console.WriteLine(MD.Substring(block.Span.Start, block.Span.Length));
+            Console.WriteLine(block.Span.ToString(MD));
             Console.WriteLine(block.ToString());
             if(block is Markdig.Syntax.ParagraphBlock)
             {
@@ -91,12 +262,20 @@ namespace AideDeJeuCmd
                 DumpBlock(block);
             }
         }
-        static async Task Main(string[] args)
+
+        static async Task TestMD()
         {
             MD = await new StreamReader(@"..\..\..\..\..\Data\spells_hd.md").ReadToEndAsync();
             var document = Markdig.Parsers.MarkdownParser.Parse(MD);
             DumpMarkdownDocument(document);
-            return;
+            var converter = new MarkdownConverter();
+            var spellss = converter.MarkdownToSpells(MD);
+        }
+
+        static async Task Main(string[] args)
+        {
+            //await TestMD();
+            //return;
             string dataDir = @"..\..\..\..\..\Data\";
             //string ignoreDir = @"..\..\..\..\..\Ignore\";
             //var documentsDirectoryPath = @"database.db"; // Windows.Storage.ApplicationData.Current.LocalFolder.Path;
@@ -147,6 +326,9 @@ namespace AideDeJeuCmd
             var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
             var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
             var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
+
+            var mdhd = spellsHD.ToMarkdownString();
+            await SaveStringAsync(dataDir + "spells_hd.md", mdhd);
 
             spellsVF.ForEach(sp => sp.Html = null);
             spellsVO.ForEach(sp => sp.Html = null);
@@ -482,6 +664,15 @@ namespace AideDeJeuCmd
                 {
                     serializer.WriteObject(writer, objT);
                 }
+            }
+        }
+
+        private static async Task SaveStringAsync(string filename, string text) 
+        {
+            using (var stream = new FileStream(filename, FileMode.Create))
+            {
+                var buffer = Encoding.UTF8.GetBytes(text);
+                await stream.WriteAsync(buffer, 0, buffer.Length);
             }
         }
 
