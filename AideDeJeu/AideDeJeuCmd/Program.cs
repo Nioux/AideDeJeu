@@ -31,6 +31,14 @@ namespace AideDeJeuCmd
         }
         static void DumpListBlock(Markdig.Syntax.ListBlock block)
         {
+            Console.WriteLine(block.BulletType);
+            foreach(var inblock in block)
+            {
+                DumpBlock(inblock);
+            }
+        }
+        static void DumpListItemBlock(Markdig.Syntax.ListItemBlock block)
+        {
             foreach(var inblock in block)
             {
                 DumpBlock(inblock);
@@ -38,7 +46,16 @@ namespace AideDeJeuCmd
         }
         static void DumpHeadingBlock(Markdig.Syntax.HeadingBlock block)
         {
-
+            Console.WriteLine(block.HeaderChar);
+            Console.WriteLine(block.Level);
+            //foreach(var line in block.Lines.Lines)
+            //{
+            //    DumpStringLine(line);
+            //}
+        }
+        static void DumpStringLine(Markdig.Helpers.StringLine line)
+        {
+            Console.WriteLine(line.ToString());
         }
         static void DumpBlock(Markdig.Syntax.Block block)
         {
@@ -61,6 +78,10 @@ namespace AideDeJeuCmd
             if (block is Markdig.Syntax.HeadingBlock)
             {
                 DumpHeadingBlock(block as Markdig.Syntax.HeadingBlock);
+            }
+            if (block is Markdig.Syntax.ListItemBlock)
+            {
+                DumpListItemBlock(block as Markdig.Syntax.ListItemBlock);
             }
         }
         static void DumpMarkdownDocument(Markdig.Syntax.MarkdownDocument document)
