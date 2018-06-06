@@ -79,7 +79,7 @@ namespace AideDeJeuCmd
                 .Replace("</strong>", "**")
                 .Replace("<em>", "_")
                 .Replace("</em>", "_")
-                .Replace("<li>", "*")
+                .Replace("<li>", "* ")
                 .Replace("</li>", "")
                 .Replace("\n", "\n\n")
                 .Replace("<br/>", "\n\n")
