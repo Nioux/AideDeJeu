@@ -81,7 +81,8 @@ namespace AideDeJeuCmd
                 .Replace("</em>", "_")
                 .Replace("<li>", "*")
                 .Replace("</li>", "")
-                .Replace("<br/>", "\n")
+                .Replace("\n", "\n\n")
+                .Replace("<br/>", "\n\n")
                 ;
             md += "\n\n";
             return md;
