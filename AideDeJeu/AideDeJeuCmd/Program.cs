@@ -31,7 +31,10 @@ namespace AideDeJeuCmd
         }
         static void DumpListBlock(Markdig.Syntax.ListBlock block)
         {
-
+            foreach(var inblock in block)
+            {
+                DumpBlock(inblock);
+            }
         }
         static void DumpHeadingBlock(Markdig.Syntax.HeadingBlock block)
         {
