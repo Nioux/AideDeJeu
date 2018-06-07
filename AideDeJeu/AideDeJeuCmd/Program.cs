@@ -264,19 +264,29 @@ namespace AideDeJeuCmd
             }
         }
 
-        static async Task TestMD()
+        static async Task<IEnumerable<Spell>> TestMarkdown(string filename)
         {
-            MD = await new StreamReader(@"..\..\..\..\..\Data\spells_hd.md").ReadToEndAsync();
-            var document = Markdig.Parsers.MarkdownParser.Parse(MD);
-            DumpMarkdownDocument(document);
-            var converter = new MarkdownConverter();
-            var spellss = converter.MarkdownToSpells(MD);
+            using (var sr = new StreamReader(filename))
+            { 
+                var md = await sr.ReadToEndAsync();
+                var document = Markdig.Parsers.MarkdownParser.Parse(md);
+                //DumpMarkdownDocument(document);
+                var converter = new MarkdownConverter();
+                var spellss = converter.MarkdownToSpells(md);
+                Console.WriteLine("ok");
+                var md2 = spellss.ToMarkdownString();
+                if(md.CompareTo(md2) != 0)
+                {
+                    Console.WriteLine("failed");
+                }
+                return spellss;
+            }
         }
 
         static async Task Main(string[] args)
         {
-            //await TestMD();
-            //return;
+            var spellss = await TestMarkdown(@"..\..\..\..\..\Data\spells_hd.md");
+            return;
             string dataDir = @"..\..\..\..\..\Data\";
             //string ignoreDir = @"..\..\..\..\..\Ignore\";
             //var documentsDirectoryPath = @"database.db"; // Windows.Storage.ApplicationData.Current.LocalFolder.Path;
