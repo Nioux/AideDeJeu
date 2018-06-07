@@ -61,6 +61,16 @@ namespace AideDeJeuCmd
             }
             return str;
         }
+        public static string ToParagraphString(this Markdig.Syntax.ParagraphBlock paragraphBlock)
+        {
+            var str = string.Empty;
+            str += paragraphBlock.Inline.ToContainerString();
+            if (paragraphBlock.IsBreakable)
+            {
+                str += "\n";
+            }
+            return str;
+        }
 
         public static string ToMarkdownString(this IEnumerable<Spell> spells)
         {
@@ -134,13 +144,14 @@ namespace AideDeJeuCmd
                     if (block is Markdig.Syntax.ParagraphBlock)
                     {
                         var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                        //DumpParagraphBlock(paragraphBlock);
-                        Console.WriteLine(paragraphBlock.IsBreakable);
-                        spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
-                        if(paragraphBlock.IsBreakable)
-                        {
-                            spell.DescriptionHtml += "\n";
-                        }
+                        spell.DescriptionHtml += paragraphBlock.ToParagraphString();
+                        ////DumpParagraphBlock(paragraphBlock);
+                        //Console.WriteLine(paragraphBlock.IsBreakable);
+                        //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
+                        //if(paragraphBlock.IsBreakable)
+                        //{
+                        //    spell.DescriptionHtml += "\n";
+                        //}
                     }
                     if (block is Markdig.Syntax.ListBlock)
                     {
@@ -159,7 +170,7 @@ namespace AideDeJeuCmd
                                     foreach (var ininblock in listItemBlock)
                                     {
                                         //DumpBlock(ininblock);
-                                        if(ininblock is Markdig.Syntax.ParagraphBlock)
+                                        if (ininblock is Markdig.Syntax.ParagraphBlock)
                                         {
                                             var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                             //DumpParagraphBlock(paragraphBlock);
@@ -167,7 +178,7 @@ namespace AideDeJeuCmd
                                             var match = regex.Match(str);
                                             var key = match.Groups["key"].Value;
                                             var value = match.Groups["value"].Value;
-                                            switch(key)
+                                            switch (key)
                                             {
                                                 case "NameVO":
                                                     spell.NameVO = value;
@@ -198,6 +209,25 @@ namespace AideDeJeuCmd
                                     }
 
                                     //DumpListItemBlock(inblock as Markdig.Syntax.ListItemBlock);
+                                }
+                            }
+                        }
+                        else
+                        {
+                            foreach (var inblock in listBlock)
+                            {
+                                if (inblock is Markdig.Syntax.ListItemBlock)
+                                {
+                                    var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
+                                    foreach (var ininblock in listItemBlock)
+                                    {
+                                        //DumpBlock(ininblock);
+                                        if (ininblock is Markdig.Syntax.ParagraphBlock)
+                                        {
+                                            var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
+                                            spell.DescriptionHtml += listBlock.BulletType + " " + paragraphBlock.ToParagraphString();
+                                        }
+                                    }
                                 }
                             }
                         }
