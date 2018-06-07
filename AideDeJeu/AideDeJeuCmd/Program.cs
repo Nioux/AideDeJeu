@@ -26,22 +26,38 @@ namespace AideDeJeuCmd
             var str = string.Empty;
             foreach(var inline in inlines)
             {
+                Console.WriteLine(inline.GetType());
+                string add = string.Empty;
                 if (inline is Markdig.Syntax.Inlines.LineBreakInline)
                 {
-                    str += "\n";
+                    add = "\n";
                 }
                 else if (inline is Markdig.Syntax.Inlines.LiteralInline)
                 {
-                    str += inline.ToString();
+                    var literalInline = inline as Markdig.Syntax.Inlines.LiteralInline;
+                    add = literalInline.Content.ToString();
                 }
-                else if(inline is Markdig.Syntax.Inlines.ContainerInline)
+                else if (inline is Markdig.Syntax.Inlines.EmphasisInline)
                 {
-                    str += (inline as Markdig.Syntax.Inlines.ContainerInline).ToContainerString();
+                    var emphasisInline = inline as Markdig.Syntax.Inlines.EmphasisInline;
+                    var delimiterChar = emphasisInline.DelimiterChar.ToString();
+                    if (emphasisInline.IsDouble)
+                    {
+                        delimiterChar += delimiterChar;
+                    }
+                    add = delimiterChar + emphasisInline.ToContainerString() + delimiterChar;
+                }
+                else if (inline is Markdig.Syntax.Inlines.ContainerInline)
+                {
+                    var containerInline = inline as Markdig.Syntax.Inlines.ContainerInline;
+                    add = containerInline.ToContainerString();
                 }
                 else
                 {
-                    str += inline.ToString();
+                    add = inline.ToString();
                 }
+                Console.WriteLine(add);
+                str += add;
             }
             return str;
         }
@@ -81,8 +97,8 @@ namespace AideDeJeuCmd
                 .Replace("</em>", "_")
                 .Replace("<li>", "* ")
                 .Replace("</li>", "")
-                .Replace("\n", "\n\n")
-                .Replace("<br/>", "\n\n")
+                .Replace("\n", "\r\n\r\n")
+                .Replace("<br/>", "\r\n\r\n")
                 ;
             md += "\n\n";
             return md;
@@ -95,15 +111,15 @@ namespace AideDeJeuCmd
             public IEnumerable<Spell> MarkdownToSpells(string md)
             {
                 var spells = new List<Spell>();
-                var document = Markdig.Parsers.MarkdownParser.Parse(MD);
+                var document = Markdig.Parsers.MarkdownParser.Parse(md);
                 Spell spell = null;
                 foreach (var block in document)
                 {
-                    DumpBlock(block);
+                    //DumpBlock(block);
                     if (block is Markdig.Syntax.HeadingBlock)
                     {
                         var headingBlock = block as Markdig.Syntax.HeadingBlock;
-                        DumpHeadingBlock(headingBlock);
+                        //DumpHeadingBlock(headingBlock);
                         if (headingBlock.HeaderChar == '#' && headingBlock.Level == 1)
                         {
                             if (spell != null)
@@ -112,35 +128,41 @@ namespace AideDeJeuCmd
                             }
                             spell = new Spell();
                             spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
+                            //Console.WriteLine(spell.Name);
                         }
                     }
                     if (block is Markdig.Syntax.ParagraphBlock)
                     {
                         var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                        DumpParagraphBlock(paragraphBlock);
+                        //DumpParagraphBlock(paragraphBlock);
+                        Console.WriteLine(paragraphBlock.IsBreakable);
                         spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
+                        if(paragraphBlock.IsBreakable)
+                        {
+                            spell.DescriptionHtml += "\n";
+                        }
                     }
                     if (block is Markdig.Syntax.ListBlock)
                     {
                         var listBlock = block as Markdig.Syntax.ListBlock;
-                        DumpListBlock(listBlock);
+                        //DumpListBlock(listBlock);
                         if (listBlock.BulletType == '-')
                         {
                             spell.Source = "";
                             foreach (var inblock in listBlock)
                             {
-                                DumpBlock(inblock);
+                                //DumpBlock(inblock);
                                 var regex = new Regex("(?<key>.*?): (?<value>.*)");
                                 if (inblock is Markdig.Syntax.ListItemBlock)
                                 {
                                     var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
                                     foreach (var ininblock in listItemBlock)
                                     {
-                                        DumpBlock(ininblock);
+                                        //DumpBlock(ininblock);
                                         if(ininblock is Markdig.Syntax.ParagraphBlock)
                                         {
                                             var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                            DumpParagraphBlock(paragraphBlock);
+                                            //DumpParagraphBlock(paragraphBlock);
                                             var str = paragraphBlock.Inline.ToContainerString();
                                             var match = regex.Match(str);
                                             var key = match.Groups["key"].Value;
@@ -166,7 +188,7 @@ namespace AideDeJeuCmd
                                                     spell.Range = value;
                                                     break;
                                                 case "Source":
-                                                    spell.Source += value;
+                                                    spell.Source += value + " ";
                                                     break;
                                                 case "Classes":
                                                     spell.Source += value;
@@ -175,7 +197,7 @@ namespace AideDeJeuCmd
                                         }
                                     }
 
-                                    DumpListItemBlock(inblock as Markdig.Syntax.ListItemBlock);
+                                    //DumpListItemBlock(inblock as Markdig.Syntax.ListItemBlock);
                                 }
                             }
                         }
@@ -189,7 +211,7 @@ namespace AideDeJeuCmd
                 return spells;
             }
         }
-        static string MD;
+
         static void DumpParagraphBlock(Markdig.Syntax.ParagraphBlock block)
         {
             //if (block.Lines != null)
@@ -237,7 +259,7 @@ namespace AideDeJeuCmd
             Console.WriteLine(block.Line);
             Console.WriteLine(block.RemoveAfterProcessInlines);
             Console.WriteLine(block.Span.ToString());
-            Console.WriteLine(block.Span.ToString(MD));
+            //Console.WriteLine(block.Span.ToString(MD));
             Console.WriteLine(block.ToString());
             if(block is Markdig.Syntax.ParagraphBlock)
             {
