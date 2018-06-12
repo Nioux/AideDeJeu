@@ -1,8 +1,10 @@
 ﻿using AideDeJeu.Services;
+using AideDeJeu.Tools;
 using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
@@ -15,329 +17,52 @@ using Xamarin.Forms.Internals;
 
 namespace AideDeJeuCmd
 {
-    public static class MarkdownExtensions
-    {
-        public static string ToString(this Markdig.Syntax.SourceSpan span, string md)
-        {
-            return md.Substring(span.Start, span.Length);
-        }
-        public static string ToContainerString(this Markdig.Syntax.Inlines.ContainerInline inlines)
-        {
-            var str = string.Empty;
-            foreach(var inline in inlines)
-            {
-                Console.WriteLine(inline.GetType());
-                string add = string.Empty;
-                if (inline is Markdig.Syntax.Inlines.LineBreakInline)
-                {
-                    add = "\n";
-                }
-                else if (inline is Markdig.Syntax.Inlines.LiteralInline)
-                {
-                    var literalInline = inline as Markdig.Syntax.Inlines.LiteralInline;
-                    add = literalInline.Content.ToString();
-                }
-                else if (inline is Markdig.Syntax.Inlines.EmphasisInline)
-                {
-                    var emphasisInline = inline as Markdig.Syntax.Inlines.EmphasisInline;
-                    var delimiterChar = emphasisInline.DelimiterChar.ToString();
-                    if (emphasisInline.IsDouble)
-                    {
-                        delimiterChar += delimiterChar;
-                    }
-                    add = delimiterChar + emphasisInline.ToContainerString() + delimiterChar;
-                }
-                else if (inline is Markdig.Syntax.Inlines.ContainerInline)
-                {
-                    var containerInline = inline as Markdig.Syntax.Inlines.ContainerInline;
-                    add = containerInline.ToContainerString();
-                }
-                else
-                {
-                    add = inline.ToString();
-                }
-                Console.WriteLine(add);
-                str += add;
-            }
-            return str;
-        }
-        public static string ToParagraphString(this Markdig.Syntax.ParagraphBlock paragraphBlock)
-        {
-            var str = string.Empty;
-            str += paragraphBlock.Inline.ToContainerString();
-            if (paragraphBlock.IsBreakable)
-            {
-                str += "\n";
-            }
-            return str;
-        }
-
-        public static string ToMarkdownString(this IEnumerable<Spell> spells)
-        {
-            var md = string.Empty;
-            foreach(var spell in spells)
-            {
-                md += spell.ToMarkdownString();
-            }
-            return md;
-        }
-        public static string ToMarkdownString(this Spell spell)
-        {
-            var md = string.Empty;
-            md += string.Format("# {0}\n", spell.NamePHB);
-            md += string.Format("- NameVO: {0}\n", spell.NameVO);
-            md += string.Format("- CastingTime: {0}\n", spell.CastingTime);
-            md += string.Format("- Components: {0}\n", spell.Components);
-            md += string.Format("- Duration: {0}\n", spell.Duration);
-            md += string.Format("- LevelType: {0}\n", spell.LevelType);
-            md += string.Format("- Range: {0}\n", spell.Range);
-            var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
-            var match = regex.Match(spell.Source);
-            var source = match.Groups["source"].Value;
-            var classes = match.Groups["classes"].Value;
-            md += string.Format("- Source: {0}\n", source);
-            md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
-            md += "\n";
-            md += "### Description\n\n";
-            md += spell
-                .DescriptionHtml
-                .Replace("<strong>", "**")
-                .Replace("</strong>", "**")
-                .Replace("<em>", "_")
-                .Replace("</em>", "_")
-                .Replace("<li>", "* ")
-                .Replace("</li>", "")
-                .Replace("\n", "\r\n\r\n")
-                .Replace("<br/>", "\r\n\r\n")
-                ;
-            md += "\n\n";
-            return md;
-        }
-    }
     class Program
     {
-        public class MarkdownConverter
-        {
-            public IEnumerable<Spell> MarkdownToSpells(string md)
-            {
-                var spells = new List<Spell>();
-                var document = Markdig.Parsers.MarkdownParser.Parse(md);
-                Spell spell = null;
-                foreach (var block in document)
-                {
-                    //DumpBlock(block);
-                    if (block is Markdig.Syntax.HeadingBlock)
-                    {
-                        var headingBlock = block as Markdig.Syntax.HeadingBlock;
-                        //DumpHeadingBlock(headingBlock);
-                        if (headingBlock.HeaderChar == '#' && headingBlock.Level == 1)
-                        {
-                            if (spell != null)
-                            {
-                                spells.Add(spell);
-                            }
-                            spell = new Spell();
-                            spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
-                            //Console.WriteLine(spell.Name);
-                        }
-                    }
-                    if (block is Markdig.Syntax.ParagraphBlock)
-                    {
-                        var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                        spell.DescriptionHtml += paragraphBlock.ToParagraphString();
-                        ////DumpParagraphBlock(paragraphBlock);
-                        //Console.WriteLine(paragraphBlock.IsBreakable);
-                        //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
-                        //if(paragraphBlock.IsBreakable)
-                        //{
-                        //    spell.DescriptionHtml += "\n";
-                        //}
-                    }
-                    if (block is Markdig.Syntax.ListBlock)
-                    {
-                        var listBlock = block as Markdig.Syntax.ListBlock;
-                        //DumpListBlock(listBlock);
-                        if (listBlock.BulletType == '-')
-                        {
-                            spell.Source = "";
-                            foreach (var inblock in listBlock)
-                            {
-                                //DumpBlock(inblock);
-                                var regex = new Regex("(?<key>.*?): (?<value>.*)");
-                                if (inblock is Markdig.Syntax.ListItemBlock)
-                                {
-                                    var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
-                                    foreach (var ininblock in listItemBlock)
-                                    {
-                                        //DumpBlock(ininblock);
-                                        if (ininblock is Markdig.Syntax.ParagraphBlock)
-                                        {
-                                            var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                            //DumpParagraphBlock(paragraphBlock);
-                                            var str = paragraphBlock.Inline.ToContainerString();
-                                            var match = regex.Match(str);
-                                            var key = match.Groups["key"].Value;
-                                            var value = match.Groups["value"].Value;
-                                            switch (key)
-                                            {
-                                                case "NameVO":
-                                                    spell.NameVO = value;
-                                                    break;
-                                                case "CastingTime":
-                                                    spell.CastingTime = value;
-                                                    break;
-                                                case "Components":
-                                                    spell.Components = value;
-                                                    break;
-                                                case "Duration":
-                                                    spell.Duration = value;
-                                                    break;
-                                                case "LevelType":
-                                                    spell.LevelType = value;
-                                                    break;
-                                                case "Range":
-                                                    spell.Range = value;
-                                                    break;
-                                                case "Source":
-                                                    spell.Source += value + " ";
-                                                    break;
-                                                case "Classes":
-                                                    spell.Source += value;
-                                                    break;
-                                            }
-                                        }
-                                    }
 
-                                    //DumpListItemBlock(inblock as Markdig.Syntax.ListItemBlock);
-                                }
-                            }
-                        }
-                        else
-                        {
-                            foreach (var inblock in listBlock)
-                            {
-                                if (inblock is Markdig.Syntax.ListItemBlock)
-                                {
-                                    var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
-                                    foreach (var ininblock in listItemBlock)
-                                    {
-                                        //DumpBlock(ininblock);
-                                        if (ininblock is Markdig.Syntax.ParagraphBlock)
-                                        {
-                                            var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                            spell.DescriptionHtml += listBlock.BulletType + " " + paragraphBlock.ToParagraphString();
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-
-                }
-                if (spell != null)
-                {
-                    spells.Add(spell);
-                }
-                return spells;
-            }
-        }
-
-        static void DumpParagraphBlock(Markdig.Syntax.ParagraphBlock block)
-        {
-            //if (block.Lines != null)
-            //{
-            //    foreach (var line in block.Lines)
-            //    {
-            //        var stringline = line as Markdig.Helpers.StringLine?;
-            //        Console.WriteLine(stringline.ToString());
-            //    }
-            //}
-        }
-        static void DumpListBlock(Markdig.Syntax.ListBlock block)
-        {
-            Console.WriteLine(block.BulletType);
-            foreach(var inblock in block)
-            {
-                DumpBlock(inblock);
-            }
-        }
-        static void DumpListItemBlock(Markdig.Syntax.ListItemBlock block)
-        {
-            foreach(var inblock in block)
-            {
-                DumpBlock(inblock);
-            }
-        }
-        static void DumpHeadingBlock(Markdig.Syntax.HeadingBlock block)
-        {
-            Console.WriteLine(block.HeaderChar);
-            Console.WriteLine(block.Level);
-            //foreach(var line in block.Lines.Lines)
-            //{
-            //    DumpStringLine(line);
-            //}
-        }
-        static void DumpStringLine(Markdig.Helpers.StringLine line)
-        {
-            Console.WriteLine(line.ToString());
-        }
-        static void DumpBlock(Markdig.Syntax.Block block)
-        {
-            Console.WriteLine(block.Column);
-            Console.WriteLine(block.IsBreakable);
-            Console.WriteLine(block.IsOpen);
-            Console.WriteLine(block.Line);
-            Console.WriteLine(block.RemoveAfterProcessInlines);
-            Console.WriteLine(block.Span.ToString());
-            //Console.WriteLine(block.Span.ToString(MD));
-            Console.WriteLine(block.ToString());
-            if(block is Markdig.Syntax.ParagraphBlock)
-            {
-                DumpParagraphBlock(block as Markdig.Syntax.ParagraphBlock);
-            }
-            if(block is Markdig.Syntax.ListBlock)
-            {
-                DumpListBlock(block as Markdig.Syntax.ListBlock);
-            }
-            if (block is Markdig.Syntax.HeadingBlock)
-            {
-                DumpHeadingBlock(block as Markdig.Syntax.HeadingBlock);
-            }
-            if (block is Markdig.Syntax.ListItemBlock)
-            {
-                DumpListItemBlock(block as Markdig.Syntax.ListItemBlock);
-            }
-        }
-        static void DumpMarkdownDocument(Markdig.Syntax.MarkdownDocument document)
-        {
-            foreach (var block in document)
-            {
-                DumpBlock(block);
-            }
-        }
-
-        static async Task<IEnumerable<Spell>> TestMarkdown(string filename)
+        static async Task<IEnumerable<Spell>> TestMarkdown(string filename) 
         {
             using (var sr = new StreamReader(filename))
             { 
                 var md = await sr.ReadToEndAsync();
                 var document = Markdig.Parsers.MarkdownParser.Parse(md);
                 //DumpMarkdownDocument(document);
-                var converter = new MarkdownConverter();
-                var spellss = converter.MarkdownToSpells(md);
+
+                var spellss = document.ToSpells();
                 Console.WriteLine("ok");
                 var md2 = spellss.ToMarkdownString();
                 if(md.CompareTo(md2) != 0)
                 {
-                    Console.WriteLine("failed");
+                    Debug.WriteLine("failed");
                 }
                 return spellss;
             }
         }
 
+        static async Task<IEnumerable<Monster>> TestMarkdownMonsters(string filename)
+        {
+            using (var sr = new StreamReader(filename))
+            {
+                var md = await sr.ReadToEndAsync();
+                var document = Markdig.Parsers.MarkdownParser.Parse(md);
+                //DumpMarkdownDocument(document);
+
+                var monsters = document.ToMonsters();
+                document.Dump();
+                Console.WriteLine("ok");
+                //var md2 = monsters.ToMarkdownString();
+                //if (md.CompareTo(md2) != 0)
+                //{
+                //    Debug.WriteLine("failed");
+                //}
+                return monsters;
+            }
+        }
+
         static async Task Main(string[] args)
         {
-            var spellss = await TestMarkdown(@"..\..\..\..\..\Data\spells_hd.md");
+            //var spellss = await TestMarkdown(@"..\..\..\..\..\Data\spells_hd.md");
+            var monsterss = await TestMarkdownMonsters(@"..\..\..\..\..\Data\monsters_hd.md");
             return;
             string dataDir = @"..\..\..\..\..\Data\";
             //string ignoreDir = @"..\..\..\..\..\Ignore\";
