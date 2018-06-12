@@ -3,8 +3,10 @@
 - ArmorClass: 17 (armure naturelle)
 - HitPoints: 135 (18d10+36)
 - Speed: 3 m, nage 12 m
-|FOR|DEX|CON|INT|SAG|CHA|
-|21 (+5)|9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
++-------+-------+-------+-------+-------+-------+
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
++-------+-------+-------+-------+-------+-------+
 - SavingThrows: Con +6, Int +8, Sag +6
 - Skills: Histoire +12, Perception +10
 - Senses: vision dans le noir 36 m, Perception passive 20
@@ -47,8 +49,10 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - ArmorClass: CA 15 (armure naturelle)
 - HitPoints: 104 (16d8+32)
 - Speed: 9 m au sol
-|FOR|DEX|CON|INT|SAG|CHA|
++-------+-------+-------+-------+-------+-------+
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 |16 (+3)|14 (+2)|15 (+2)|18 (+4)|13 (+1)|14 (+2)|
++-------+-------+-------+-------+-------+-------+
 - SavingThrows: Int +7, Sag +4, Cha +5
 - Competencies: Intimidation +7, Perception +6, Perspicacité +6
 - DamageResistancies: acide et froid
