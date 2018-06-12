@@ -2,6 +2,7 @@
 using AideDeJeu.Tools;
 using AideDeJeuLib.Monsters;
 using AideDeJeuLib.Spells;
+using Markdig;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -44,7 +45,10 @@ namespace AideDeJeuCmd
             using (var sr = new StreamReader(filename))
             {
                 var md = await sr.ReadToEndAsync();
-                var document = Markdig.Parsers.MarkdownParser.Parse(md);
+                var pipeline = new MarkdownPipelineBuilder()
+                    .UsePipeTables()
+                    .Build();
+                var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
 
                 var monsters = document.ToMonsters();

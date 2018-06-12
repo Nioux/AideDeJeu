@@ -157,7 +157,7 @@ namespace AideDeJeu.Tools
                         //Console.WriteLine(spell.Name);
                     }
                 }
-                if (block is Markdig.Syntax.ParagraphBlock)
+                else if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
                     actions.Add(paragraphBlock.ToParagraphString());
@@ -169,7 +169,7 @@ namespace AideDeJeu.Tools
                     //    spell.DescriptionHtml += "\n";
                     //}
                 }
-                if (block is Markdig.Syntax.ListBlock)
+                else if (block is Markdig.Syntax.ListBlock)
                 {
                     var listBlock = block as Markdig.Syntax.ListBlock;
                     //DumpListBlock(listBlock);
@@ -257,6 +257,24 @@ namespace AideDeJeu.Tools
                                     }
                                 }
                             }
+                        }
+                    }
+                }
+                else if(block is Markdig.Extensions.Tables.Table)
+                {
+                    var table = block as Markdig.Extensions.Tables.Table;
+                    foreach(var blockrow in table)
+                    {
+                        var row = blockrow as Markdig.Extensions.Tables.TableRow;
+                        foreach(var blockcell in row)
+                        {
+                            var cell = blockcell as Markdig.Extensions.Tables.TableCell;
+                            foreach(var blockpar in cell)
+                            {
+                                var par = blockpar as Markdig.Syntax.ParagraphBlock;
+                                Debug.WriteLine(par.ToParagraphString());
+                            }
+
                         }
                     }
                 }
@@ -436,7 +454,8 @@ namespace AideDeJeu.Tools
         {
             foreach (var block in document)
             {
-                block.Dump();
+                Debug.WriteLine(block.GetType());
+                //block.Dump();
             }
         }
 

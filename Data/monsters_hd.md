@@ -50,10 +50,11 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 - ArmorClass: CA 15 (armure naturelle)
 - HitPoints: 104 (16d8+32)
 - Speed: 9 m au sol
-+-------+-------+-------+-------+-------+-------+
+
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|15 (+2)|18 (+4)|13 (+1)|14 (+2)|
-+-------+-------+-------+-------+-------+-------+
+
 - SavingThrows: Int +7, Sag +4, Cha +5
 - Competencies: Intimidation +7, Perception +6, Perspicacité +6
 - DamageResistancies: acide et froid
