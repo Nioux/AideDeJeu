@@ -12,9 +12,21 @@ namespace AideDeJeu.Tools
 {
     public static class MarkdownExtensions
     {
+        public static IEnumerable<Spell> MarkdownToSpells(string md)
+        {
+            var document = Markdig.Parsers.MarkdownParser.Parse(md);
+            return document.ToSpells();
+        }
+
+        public static IEnumerable<Monster> MarkdownToMonsters(string md)
+        {
+            var document = Markdig.Parsers.MarkdownParser.Parse(md);
+            return document.ToMonsters();
+        }
+
         public static IEnumerable<Spell> ToSpells(this Markdig.Syntax.MarkdownDocument document)
         {
-            //var spells = new List<Spell>();
+            var spells = new List<Spell>();
             Spell spell = null;
             foreach (var block in document)
             {
@@ -27,11 +39,11 @@ namespace AideDeJeu.Tools
                     {
                         if (spell != null)
                         {
-                            //spells.Add(spell);
-                            yield return spell;
+                            spells.Add(spell);
+                            //yield return spell;
                         }
                         spell = new Spell();
-                        spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
+                        spell.Id = spell.IdVF = spell.IdVO = spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
                         //Console.WriteLine(spell.Name);
                     }
                 }
@@ -130,15 +142,15 @@ namespace AideDeJeu.Tools
             }
             if (spell != null)
             {
-                yield return spell;
-                //spells.Add(spell);
+                //yield return spell;
+                spells.Add(spell);
             }
-            //return spells;
+            return spells;
         }
 
         public static IEnumerable<Monster> ToMonsters(this Markdig.Syntax.MarkdownDocument document)
         {
-            //var monsters = new List<Monster>();
+            var monsters = new List<Monster>();
             Monster monster = null;
             List<string> actions = new List<string>();
             foreach (var block in document)
@@ -152,8 +164,8 @@ namespace AideDeJeu.Tools
                     {
                         if (monster != null)
                         {
-                            //monsters.Add(monster);
-                            yield return monster;
+                            monsters.Add(monster);
+                            //yield return monster;
                         }
                         monster = new Monster();
                         monster.Name = monster.NamePHB = headingBlock.Inline.ToContainerString();
@@ -278,10 +290,10 @@ namespace AideDeJeu.Tools
             }
             if (monster != null)
             {
-                //monsters.Add(monster);
-                yield return monster;
+                monsters.Add(monster);
+                //yield return monster;
             }
-            //return monsters;
+            return monsters;
         }
 
         public static string ToString(this Markdig.Syntax.SourceSpan span, string md)
@@ -293,7 +305,7 @@ namespace AideDeJeu.Tools
             var str = string.Empty;
             foreach (var inline in inlines)
             {
-                Debug.WriteLine(inline.GetType());
+                //Debug.WriteLine(inline.GetType());
                 string add = string.Empty;
                 if (inline is Markdig.Syntax.Inlines.LineBreakInline)
                 {
@@ -323,7 +335,7 @@ namespace AideDeJeu.Tools
                 {
                     add = inline.ToString();
                 }
-                Debug.WriteLine(add);
+                //Debug.WriteLine(add);
                 str += add;
             }
             return str;
@@ -425,7 +437,7 @@ namespace AideDeJeu.Tools
         }
         public static void Dump(this Markdig.Syntax.ListBlock block)
         {
-            Debug.WriteLine(block.BulletType);
+            //Debug.WriteLine(block.BulletType);
             foreach (var inblock in block)
             {
                 inblock.Dump();
@@ -440,8 +452,8 @@ namespace AideDeJeu.Tools
         }
         public static void Dump(this Markdig.Syntax.HeadingBlock block)
         {
-            Debug.WriteLine(block.HeaderChar);
-            Debug.WriteLine(block.Level);
+            //Debug.WriteLine(block.HeaderChar);
+            //Debug.WriteLine(block.Level);
             //foreach(var line in block.Lines.Lines)
             //{
             //    DumpStringLine(line);
@@ -453,14 +465,14 @@ namespace AideDeJeu.Tools
         }
         public static void Dump(this Markdig.Syntax.Block block)
         {
-            Debug.WriteLine(block.Column);
-            Debug.WriteLine(block.IsBreakable);
-            Debug.WriteLine(block.IsOpen);
-            Debug.WriteLine(block.Line);
-            Debug.WriteLine(block.RemoveAfterProcessInlines);
-            Debug.WriteLine(block.Span.ToString());
+            //Debug.WriteLine(block.Column);
+            //Debug.WriteLine(block.IsBreakable);
+            //Debug.WriteLine(block.IsOpen);
+            //Debug.WriteLine(block.Line);
+            //Debug.WriteLine(block.RemoveAfterProcessInlines);
+            //Debug.WriteLine(block.Span.ToString());
             //Debug.WriteLine(block.Span.ToString(MD));
-            Debug.WriteLine(block.ToString());
+            //Debug.WriteLine(block.ToString());
             if (block is Markdig.Syntax.ParagraphBlock)
             {
                 (block as Markdig.Syntax.ParagraphBlock).Dump();
@@ -482,7 +494,7 @@ namespace AideDeJeu.Tools
         {
             foreach (var block in document)
             {
-                Debug.WriteLine(block.GetType());
+                //Debug.WriteLine(block.GetType());
                 //block.Dump();
             }
         }

@@ -23,8 +23,10 @@ namespace AideDeJeu.Tools
             if (string.IsNullOrEmpty(x)) return 1;
             if (string.IsNullOrEmpty(y)) return -1;
             var regex = new Regex(@"\((?<xp>\d*?) (PX|XP)\)");
-            int xpx = int.Parse(regex.Match(x).Groups["xp"].Value);
-            int xpy = int.Parse(regex.Match(y).Groups["xp"].Value);
+            int xpx;
+            int.TryParse(regex.Match(x).Groups["xp"].Value, out xpx);
+            int xpy;
+            int.TryParse(regex.Match(y).Groups["xp"].Value, out xpy);
             return xpx - xpy;
         }
     }

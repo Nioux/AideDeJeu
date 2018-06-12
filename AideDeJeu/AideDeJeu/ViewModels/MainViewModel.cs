@@ -139,7 +139,10 @@ namespace AideDeJeu.ViewModels
                 {
                     await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
                 });
-            GotoItemCommand = new Command<Item>(async (item) => await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item));
+            GotoItemCommand = new Command<Item>(async (item) =>
+            {
+                await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item);
+            }); 
             SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Monster) | ItemSourceType.Spell);
             SwitchToMonsters = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Spell) | ItemSourceType.Monster);
             SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);

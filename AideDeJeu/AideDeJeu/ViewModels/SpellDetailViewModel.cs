@@ -63,8 +63,8 @@ namespace AideDeJeu.ViewModels
             {
                 var fd = FormatedTextHelpers.FontData.FromResource("contentital");
                 var fs = new FormattedString();
-                var capType = Item.Type.First().ToString().ToUpper() + Item.Type.Substring(1);
-                fs.Spans.Add(new Span() { Text = string.Format("{0} de niveau {1}", capType, Item.Level), FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor});
+                var capType = Item?.Type?.First().ToString()?.ToUpper() + Item?.Type?.Substring(1);
+                fs.Spans.Add(new Span() { Text = string.Format("{0} de niveau {1}", capType, Item?.Level), FontFamily = fd.FontFamily, FontAttributes = fd.FontAttributes, FontSize = fd.FontSize, ForegroundColor = fd.TextColor});
                 return fs;
             }
         }
