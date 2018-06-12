@@ -66,11 +66,11 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 ## Capacités
 
-**_Nuage empoisonné._** L'abothid est constamment entouré d'un nuage de gaz toxique pour les non-abothids. Toute créature située à 1,50 mètres ou moins doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine de su?oquer et être étourdie pendant 1 minute.
+**_Nuage empoisonné._** L'abothid est constamment entouré d'un nuage de gaz toxique pour les non-abothids. Toute créature située à 1,50 mètres ou moins doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine de suffoquer et être étourdie pendant 1 minute.
 
 ## Actions
 
-**_Attaques multiples._** L'abothid e?ectue deux attaques de tentacules. S'il empoigne une créature, l'abothid peut également utiliser une fois le dard de sa langue.
+**_Attaques multiples._** L'abothid effectue deux attaques de tentacules. S'il empoigne une créature, l'abothid peut également utiliser une fois le dard de sa langue.
 
 **_Tentacule._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 Touché : 11 (2d8+3) dégâts contondants (constriction).
@@ -82,6 +82,6 @@ Un humanoïde ne peut mener qu'un seul œuf d'abothid à son terme. L'éclosion 
 
 **_Asservissement (1/jour)._** L'abothid cible une créature dans son champ de vision située à 18 mètres ou moins. La cible doit réussir un jet de sauvegarde de Sagesse (DD 14) sous peine d'être charmée magiquement par l'abothid pour une durée de 1 heure.
 La cible charmée est sous le contrôle de l'abothid et ne peut entreprendre aucune action mis à part se défendre au mieux de ses capacités. L'abothid peut utiliser sa télépathie pour donner des ordres à la cible.
-Chaque fois que la cible charmée subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'e?et prend fn. L'e?et peut prendre fn avant si l'abothid est détruit, s'il s'éloigne de plus de 1,5 kilomètre de la cible, s'il se trouve sur un plan d'existence di?érent de celui de la cible ou, enfn, s'il e?ectue une action bonus pour mettre fn à cet e?et.
+Chaque fois que la cible charmée subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fn. L'effet peut prendre fn avant si l'abothid est détruit, s'il s'éloigne de plus de 1,5 kilomètre de la cible, s'il se trouve sur un plan d'existence différent de celui de la cible ou, enfn, s'il effectue une action bonus pour mettre fn à cet effet.
 
 **_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
