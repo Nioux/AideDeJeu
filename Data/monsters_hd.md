@@ -80,7 +80,9 @@ Touché : 11 (2d8+3) dégâts contondants (constriction).
 
 Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
 
-**_Dard de langue._** Attaque d'arme au corps à corps (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+2) dégâts perçants.
+**_Dard de langue._** Attaque d'arme au corps à corps (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible. 
+
+Touché : 6 (1d6+2) dégâts perçants.
 
 Si la cible est une créature humanoïde, elle doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine d'être infectée par une maladie : l'injection d'un minuscule œuf d'abothid.
 

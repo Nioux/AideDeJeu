@@ -262,21 +262,14 @@ namespace AideDeJeu.Tools
                 }
                 else if(block is Markdig.Extensions.Tables.Table)
                 {
-                    var table = block as Markdig.Extensions.Tables.Table;
-                    foreach(var blockrow in table)
-                    {
-                        var row = blockrow as Markdig.Extensions.Tables.TableRow;
-                        foreach(var blockcell in row)
-                        {
-                            var cell = blockcell as Markdig.Extensions.Tables.TableCell;
-                            foreach(var blockpar in cell)
-                            {
-                                var par = blockpar as Markdig.Syntax.ParagraphBlock;
-                                Debug.WriteLine(par.ToParagraphString());
-                            }
-
-                        }
-                    }
+                    var tableBlock = block as Markdig.Extensions.Tables.Table;
+                    var table = tableBlock.ToTable();
+                    monster.Strength = table["FOR"].FirstOrDefault();
+                    monster.Dexterity = table["DEX"].FirstOrDefault();
+                    monster.Constitution = table["CON"].FirstOrDefault();
+                    monster.Intelligence = table["INT"].FirstOrDefault();
+                    monster.Wisdom = table["SAG"].FirstOrDefault();
+                    monster.Charisma = table["CHA"].FirstOrDefault();
                 }
 
             }
@@ -340,6 +333,37 @@ namespace AideDeJeu.Tools
                 str += "\n";
             }
             return str;
+        }
+
+        public static Dictionary<string, List<string>> ToTable(this Markdig.Extensions.Tables.Table tableBlock)
+        {
+            var table = new Dictionary<string, List<string>>();
+            var indexes = new Dictionary<int, string>();
+            foreach (var blockrow in tableBlock)
+            {
+                var row = blockrow as Markdig.Extensions.Tables.TableRow;
+                int indexCol = 0;
+                foreach (var blockcell in row)
+                {
+                    var cell = blockcell as Markdig.Extensions.Tables.TableCell;
+                    foreach (var blockpar in cell)
+                    {
+                        var par = blockpar as Markdig.Syntax.ParagraphBlock;
+                        var name = par.ToParagraphString().Trim();
+                        if (row.IsHeader)
+                        {
+                            indexes[indexCol] = name;
+                            table[name] = new List<string>();
+                        }
+                        else
+                        {
+                            table[indexes[indexCol]].Add(name);
+                        }
+                    }
+                    indexCol++;
+                }
+            }
+            return table;
         }
 
         public static string ToMarkdownString(this IEnumerable<Spell> spells)
