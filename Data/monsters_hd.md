@@ -3,10 +3,11 @@
 - ArmorClass: 17 (armure naturelle)
 - HitPoints: 135 (18d10+36)
 - Speed: 3 m, nage 12 m
-+-------+-------+-------+-------+-------+-------+
+
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
-+-------+-------+-------+-------+-------+-------+
+
 - SavingThrows: Con +6, Int +8, Sag +6
 - Skills: Histoire +12, Perception +10
 - Senses: vision dans le noir 36 m, Perception passive 20
