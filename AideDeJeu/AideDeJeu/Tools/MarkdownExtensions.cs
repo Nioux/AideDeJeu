@@ -14,7 +14,7 @@ namespace AideDeJeu.Tools
     {
         public static IEnumerable<Spell> ToSpells(this Markdig.Syntax.MarkdownDocument document)
         {
-            var spells = new List<Spell>();
+            //var spells = new List<Spell>();
             Spell spell = null;
             foreach (var block in document)
             {
@@ -27,7 +27,8 @@ namespace AideDeJeu.Tools
                     {
                         if (spell != null)
                         {
-                            spells.Add(spell);
+                            //spells.Add(spell);
+                            yield return spell;
                         }
                         spell = new Spell();
                         spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
@@ -129,14 +130,15 @@ namespace AideDeJeu.Tools
             }
             if (spell != null)
             {
-                spells.Add(spell);
+                yield return spell;
+                //spells.Add(spell);
             }
-            return spells;
+            //return spells;
         }
 
         public static IEnumerable<Monster> ToMonsters(this Markdig.Syntax.MarkdownDocument document)
         {
-            var monsters = new List<Monster>();
+            //var monsters = new List<Monster>();
             Monster monster = null;
             List<string> actions = new List<string>();
             foreach (var block in document)
@@ -150,7 +152,8 @@ namespace AideDeJeu.Tools
                     {
                         if (monster != null)
                         {
-                            monsters.Add(monster);
+                            //monsters.Add(monster);
+                            yield return monster;
                         }
                         monster = new Monster();
                         monster.Name = monster.NamePHB = headingBlock.Inline.ToContainerString();
@@ -275,9 +278,10 @@ namespace AideDeJeu.Tools
             }
             if (monster != null)
             {
-                monsters.Add(monster);
+                //monsters.Add(monster);
+                yield return monster;
             }
-            return monsters;
+            //return monsters;
         }
 
         public static string ToString(this Markdig.Syntax.SourceSpan span, string md)

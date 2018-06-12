@@ -49,7 +49,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 # Abothid
 - SizeAlignment: Aberration de taille M, loyal mauvais
-- ArmorClass: CA 15 (armure naturelle)
+- ArmorClass: 15 (armure naturelle)
 - HitPoints: 104 (16d8+32)
 - Speed: 9 m au sol
 
