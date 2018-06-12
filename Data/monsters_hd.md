@@ -29,9 +29,11 @@
 **_Attaques multiples._** L'aboleth effectue trois attaques de tentacule.
 
 **_Queue._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
+
 Touché : 15 (3d6+5) dégâts contondants.
 
 **_Tentacule._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
+
 Touché : 12 (2d6+5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas tomber malade. La maladie ne produit aucun effet pendant 1 minute et peut être soignée par tout effet magique qui soigne les maladies. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse, la victime ne peut récupérer de points de vie que lorsqu'elle est sous l'eau et la maladie ne peut être soignée qu'avec une guérison ou un autre sort de niveau 6 ou plus qui soigne les maladies. Quand la créature n'est pas dans l'eau, elle subit 6 (1d12) dé- gâts d'acide toutes les 10 minutes, à moins que sa peau ne soit humidifée toutes les dix minutes.
 
 ## Actions légendaires
@@ -73,15 +75,21 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Attaques multiples._** L'abothid effectue deux attaques de tentacules. S'il empoigne une créature, l'abothid peut également utiliser une fois le dard de sa langue.
 
 **_Tentacule._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d8+3) dégâts contondants (constriction).
+
 Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
 
 **_Dard de langue._** Attaque d'arme au corps à corps (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+2) dégâts perçants.
+
 Si la cible est une créature humanoïde, elle doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine d'être infectée par une maladie : l'injection d'un minuscule œuf d'abothid.
+
 Un humanoïde ne peut mener qu'un seul œuf d'abothid à son terme. L'éclosion de l'œuf se fait après 24 heures et donne naissance à une larve qui remonte jusqu'au cerveau en un nombre d'heures égal à 1d12 + valeur de Constitution de la cible infectée. Durant cette période, la victime est empoisonnée et ne peut plus regagner de points de vie. Une fois que la larve a atteint le cerveau, la cible infectée voit son maximum de points de vie se réduire de 10 (3d6) points par 24 heures. Si la larve réduit le maximum des points de vie de la cible à 0, cela signife que sa transformation en abothid est achevée. Seul un sort de souhait peut inverser la transformation.
 
 **_Asservissement (1/jour)._** L'abothid cible une créature dans son champ de vision située à 18 mètres ou moins. La cible doit réussir un jet de sauvegarde de Sagesse (DD 14) sous peine d'être charmée magiquement par l'abothid pour une durée de 1 heure.
+
 La cible charmée est sous le contrôle de l'abothid et ne peut entreprendre aucune action mis à part se défendre au mieux de ses capacités. L'abothid peut utiliser sa télépathie pour donner des ordres à la cible.
+
 Chaque fois que la cible charmée subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fn. L'effet peut prendre fn avant si l'abothid est détruit, s'il s'éloigne de plus de 1,5 kilomètre de la cible, s'il se trouve sur un plan d'existence différent de celui de la cible ou, enfn, s'il effectue une action bonus pour mettre fn à cet effet.
 
 **_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
