@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Linq;
 using System.Diagnostics;
 using AideDeJeuLib.Monsters;
+using Markdig;
 
 namespace AideDeJeu.Tools
 {
@@ -22,6 +23,12 @@ namespace AideDeJeu.Tools
         {
             var document = Markdig.Parsers.MarkdownParser.Parse(md);
             return document.ToMonsters();
+        }
+
+        public static string MarkdownToHtml(string md)
+        {
+            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            return Markdown.ToHtml(md, pipeline);
         }
 
         public static IEnumerable<Spell> ToSpells(this Markdig.Syntax.MarkdownDocument document)
@@ -50,7 +57,7 @@ namespace AideDeJeu.Tools
                 if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    spell.DescriptionHtml += paragraphBlock.ToParagraphString();
+                    spell.DescriptionHtml += MarkdownToHtml(paragraphBlock.ToParagraphString());
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -131,7 +138,7 @@ namespace AideDeJeu.Tools
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        spell.DescriptionHtml += listBlock.BulletType + " " + paragraphBlock.ToParagraphString();
+                                        spell.DescriptionHtml += listBlock.BulletType + " " + MarkdownToHtml(paragraphBlock.ToParagraphString());
                                     }
                                 }
                             }
