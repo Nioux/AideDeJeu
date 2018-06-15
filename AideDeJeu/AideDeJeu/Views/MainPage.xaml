@@ -30,12 +30,11 @@
             <x:Arguments>
                 <ContentPage Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
                     <ContentPage.ToolbarItems>
-                        <ToolbarItem Name="Spells" Text="Sorts" Order="Primary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
-                        <ToolbarItem Name="Monsters" Text="Monstres" Order="Primary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
-                        <ToolbarItem Name="About" Text="À propos de..." Order="Primary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
-                        <!--<ToolbarItem Name="VF" Text="VF AideDD" Order="Secondary" Command="{Binding SwitchToVF}" />-->
-                        <ToolbarItem Name="VO" Text="VO AideDD/SRD" Order="Secondary" Command="{Binding SwitchToVO}" />
+                        <ToolbarItem Name="Spells" Text="Sorts" Order="Secondary" Icon="spell_book.png" Command="{Binding SwitchToSpells}" />
+                        <ToolbarItem Name="Monsters" Text="Monstres" Order="Secondary" Icon="dragon_head.png" Command="{Binding SwitchToMonsters}" />
+                        <ToolbarItem Name="VO" Text="VO SRD" Order="Secondary" Command="{Binding SwitchToVO}" />
                         <ToolbarItem Name="HD" Text="VF H&amp;D" Order="Secondary" Command="{Binding SwitchToHD}" />
+                        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
                     </ContentPage.ToolbarItems>
                     <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
                         <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">

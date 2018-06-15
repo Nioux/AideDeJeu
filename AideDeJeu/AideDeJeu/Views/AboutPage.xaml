@@ -77,13 +77,13 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
-                            <Span Text="Le contenu provient du site " />
-                            <Span Text="AideDD.org" FontAttributes="Bold" />
-                            <Span Text=", traduit du SRD" />
+                            <Span Text="Le contenu provient du jeu " />
+                            <Span Text="Héros &amp; Dragons" FontAttributes="Bold" />
+                            <Span Text=" et du SRD VO" />
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.aidedd.org/" />
+                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="http://www.black-book-editions.fr/" />
                     </Label.GestureRecognizers>
                 </Label>
 
