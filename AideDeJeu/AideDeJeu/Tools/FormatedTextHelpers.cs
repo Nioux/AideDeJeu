@@ -50,6 +50,11 @@ namespace AideDeJeu.Tools
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes | FontAttributes.Italic);
             }
+            else if (node.NodeType == XmlNodeType.Element && node.Name == "p")
+            {
+                HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
+                fs.Spans.Add(new Span() { Text = "\r\n" });
+            }
             else if (node.NodeType == XmlNodeType.Element)
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
