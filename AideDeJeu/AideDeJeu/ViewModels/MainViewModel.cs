@@ -24,20 +24,20 @@ namespace AideDeJeu.ViewModels
     {
         Spell = 0x01,
         Monster = 0x10,
-        VF = 0x0100,
+        //VF = 0x0100,
         VO = 0x1100,
         HD = 0x1000,
-        SpellVF = Spell | VF,
+        //SpellVF = Spell | VF,
         SpellVO = Spell | VO,
         SpellHD = Spell | HD,
-        MonsterVF = Monster | VF,
+        //MonsterVF = Monster | VF,
         MonsterVO = Monster | VO,
         MonsterHD = Monster | HD,
     }
 
     public class MainViewModel : BaseViewModel
     {
-        private ItemSourceType _ItemSourceType = ItemSourceType.SpellVF;
+        private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
         public ItemSourceType ItemSourceType
         {
             get
@@ -61,10 +61,10 @@ namespace AideDeJeu.ViewModels
 
         public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
         {
-            { ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVF)) },
+            //{ ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVF)) },
             { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVO)) },
             { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellHD)) },
-            { ItemSourceType.MonsterVF, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVF)) },
+            //{ ItemSourceType.MonsterVF, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVF)) },
             { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVO)) },
             { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterHD)) },
         };
@@ -76,10 +76,10 @@ namespace AideDeJeu.ViewModels
 
         public Dictionary<ItemSourceType, Lazy<FilterViewModel>> AllFiltersViewModel = new Dictionary<ItemSourceType, Lazy<FilterViewModel>>()
         {
-            { ItemSourceType.SpellVF, new Lazy<FilterViewModel>(() => new VFSpellFilterViewModel()) },
+            //{ ItemSourceType.SpellVF, new Lazy<FilterViewModel>(() => new VFSpellFilterViewModel()) },
             { ItemSourceType.SpellVO, new Lazy<FilterViewModel>(() => new VOSpellFilterViewModel()) },
             { ItemSourceType.SpellHD, new Lazy<FilterViewModel>(() => new HDSpellFilterViewModel()) },
-            { ItemSourceType.MonsterVF, new Lazy<FilterViewModel>(() => new VFMonsterFilterViewModel()) },
+            //{ ItemSourceType.MonsterVF, new Lazy<FilterViewModel>(() => new VFMonsterFilterViewModel()) },
             { ItemSourceType.MonsterVO, new Lazy<FilterViewModel>(() => new VOMonsterFilterViewModel()) },
             { ItemSourceType.MonsterHD, new Lazy<FilterViewModel>(() => new HDMonsterFilterViewModel()) },
         };
@@ -125,7 +125,7 @@ namespace AideDeJeu.ViewModels
 
         public Command SwitchToSpells { get; private set; }
         public Command SwitchToMonsters { get; private set; }
-        public Command SwitchToVF { get; private set; }
+        //public Command SwitchToVF { get; private set; }
         public Command SwitchToVO { get; private set; }
         public Command SwitchToHD { get; private set; }
         public Command AboutCommand { get; private set; }
@@ -145,9 +145,9 @@ namespace AideDeJeu.ViewModels
             }); 
             SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Monster) | ItemSourceType.Spell);
             SwitchToMonsters = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Spell) | ItemSourceType.Monster);
-            SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);
-            SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.HD) | ItemSourceType.VO);
-            SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VF & ~ItemSourceType.VO) | ItemSourceType.HD);
+            //SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);
+            SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.HD) | ItemSourceType.VO);
+            SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO) | ItemSourceType.HD);
             AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
             SearchCommand = new Command<string>(async (text) =>
                 {

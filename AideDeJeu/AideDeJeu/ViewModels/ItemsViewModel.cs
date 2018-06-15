@@ -36,10 +36,10 @@ namespace AideDeJeu.ViewModels
                 string resourceName = null;
                 switch (ItemSourceType)
                 {
-                    case ItemSourceType.MonsterVF:
-                        resourceName = "AideDeJeu.Data.monsters_vf.json";
-                        _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
-                        break;
+                    //case ItemSourceType.MonsterVF:
+                    //    resourceName = "AideDeJeu.Data.monsters_vf.json";
+                    //    _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
+                    //    break;
                     case ItemSourceType.MonsterVO:
                         resourceName = "AideDeJeu.Data.monsters_vo.json";
                         _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
@@ -50,12 +50,12 @@ namespace AideDeJeu.ViewModels
                         _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(mdm);
                         //_AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
                         break;
-                    case ItemSourceType.SpellVF:
-                        resourceName = "AideDeJeu.Data.spells_vf.json";
-                        _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
-                        //var md2 = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
-                        //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells(md2).ToList();
-                        break;
+                    //case ItemSourceType.SpellVF:
+                    //    resourceName = "AideDeJeu.Data.spells_vf.json";
+                    //    _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
+                    //    //var md2 = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
+                    //    //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells(md2).ToList();
+                    //    break;
                     case ItemSourceType.SpellVO:
                         resourceName = "AideDeJeu.Data.spells_vo.json";
                         _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);

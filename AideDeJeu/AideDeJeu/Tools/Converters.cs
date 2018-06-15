@@ -93,20 +93,20 @@ namespace AideDeJeu.Tools
 
     public class ItemSourceTypeConverter<T> : IValueConverter
     {
-        public T SpellVF { get; set; }
+        //public T SpellVF { get; set; }
         public T SpellVO { get; set; }
         public T SpellHD { get; set; }
-        public T MonsterVF { get; set; }
+        //public T MonsterVF { get; set; }
         public T MonsterVO { get; set; }
         public T MonsterHD { get; set; }
 
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
             var itemType = value as ItemSourceType?;
-            if (itemType == ItemSourceType.SpellVF)
-            {
-                return SpellVF;
-            }
+            //if (itemType == ItemSourceType.SpellVF)
+            //{
+            //    return SpellVF;
+            //}
             if (itemType == ItemSourceType.SpellVO)
             {
                 return SpellVO;
@@ -115,10 +115,10 @@ namespace AideDeJeu.Tools
             {
                 return SpellHD;
             }
-            if (itemType == ItemSourceType.MonsterVF)
-            {
-                return MonsterVF;
-            }
+            //if (itemType == ItemSourceType.MonsterVF)
+            //{
+            //    return MonsterVF;
+            //}
             if (itemType == ItemSourceType.MonsterVO)
             {
                 return MonsterVO;
