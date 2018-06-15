@@ -54,6 +54,7 @@ namespace AideDeJeu.Tools
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
                 fs.Spans.Add(new Span() { Text = "\r\n" });
+                fs.Spans.Add(new Span() { Text = "\r\n" });
             }
             else if (node.NodeType == XmlNodeType.Element)
             {
