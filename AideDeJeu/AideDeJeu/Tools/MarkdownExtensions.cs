@@ -161,7 +161,10 @@ namespace AideDeJeu.Tools
         {
             var monsters = new List<Monster>();
             Monster monster = null;
-            List<string> actions = new List<string>();
+            List<string> features = null;
+            List<string> specialFeatures = null;
+            List<string> actions = null;
+            List<string> legendaryActions = null;
             foreach (var block in document)
             {
                 Debug.WriteLine(block.GetType());
@@ -174,8 +177,13 @@ namespace AideDeJeu.Tools
                     {
                         if (monster != null)
                         {
+                            monster.SpecialFeatures = specialFeatures;
                             monster.Actions = actions;
-                            actions = new List<string>();
+                            monster.LegendaryActions = legendaryActions;
+                            specialFeatures = null;
+                            actions = null;
+                            legendaryActions = null;
+                            features = null;
                             monsters.Add(monster);
                             //yield return monster;
                         }
@@ -183,11 +191,26 @@ namespace AideDeJeu.Tools
                         monster.Name = monster.NamePHB = headingBlock.Inline.ToContainerString();
                         //Console.WriteLine(spell.Name);
                     }
+                    if (headingBlock.HeaderChar == '#' && headingBlock.Level == 2)
+                    {
+                        switch(headingBlock.Inline.ToContainerString())
+                        {
+                            case "Capacités":
+                                features = specialFeatures = new List<string>();
+                                break;
+                            case "Actions":
+                                features = actions = new List<string>();
+                                break;
+                            case "Actions légendaires":
+                                features = legendaryActions = new List<string>();
+                                break;
+                        }
+                    }
                 }
                 else if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    actions.Add(MarkdownToHtml(paragraphBlock.ToParagraphString()));
+                    features?.Add(MarkdownToHtml(paragraphBlock.ToParagraphString()));
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -280,7 +303,7 @@ namespace AideDeJeu.Tools
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        actions.Add(MarkdownToHtml(listBlock.BulletType + " " + paragraphBlock.ToParagraphString()));
+                                        features?.Add(MarkdownToHtml(listBlock.BulletType + " " + paragraphBlock.ToParagraphString()));
                                     }
                                 }
                             }
@@ -301,7 +324,9 @@ namespace AideDeJeu.Tools
             }
             if (monster != null)
             {
+                monster.SpecialFeatures = specialFeatures;
                 monster.Actions = actions;
+                monster.LegendaryActions = legendaryActions;
                 monsters.Add(monster);
                 //yield return monster;
             }
