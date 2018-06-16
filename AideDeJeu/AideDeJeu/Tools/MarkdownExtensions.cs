@@ -174,6 +174,8 @@ namespace AideDeJeu.Tools
                     {
                         if (monster != null)
                         {
+                            monster.Actions = actions;
+                            actions = new List<string>();
                             monsters.Add(monster);
                             //yield return monster;
                         }
@@ -185,7 +187,7 @@ namespace AideDeJeu.Tools
                 else if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    actions.Add(paragraphBlock.ToParagraphString());
+                    actions.Add(MarkdownToHtml(paragraphBlock.ToParagraphString()));
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -278,7 +280,7 @@ namespace AideDeJeu.Tools
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        actions.Add(listBlock.BulletType + " " + paragraphBlock.ToParagraphString());
+                                        actions.Add(MarkdownToHtml(listBlock.BulletType + " " + paragraphBlock.ToParagraphString()));
                                     }
                                 }
                             }
@@ -296,10 +298,10 @@ namespace AideDeJeu.Tools
                     monster.Wisdom = table["SAG"].FirstOrDefault();
                     monster.Charisma = table["CHA"].FirstOrDefault();
                 }
-
             }
             if (monster != null)
             {
+                monster.Actions = actions;
                 monsters.Add(monster);
                 //yield return monster;
             }
