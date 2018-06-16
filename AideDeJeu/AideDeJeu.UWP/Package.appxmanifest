@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="7385YanManiez.AidedeJeu" Publisher="CN=2C78A91E-528B-4FF0-A4BE-FD7F7EBABB44" Version="1.1.0.0" />
+  <Identity Name="7385YanManiez.AidedeJeu" Publisher="CN=2C78A91E-528B-4FF0-A4BE-FD7F7EBABB44" Version="1.1.1.0" />
   <mp:PhoneIdentity PhoneProductId="7b75e00f-ae8d-472e-9d0f-cbfe5e44017c" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Aide de Jeu</DisplayName>

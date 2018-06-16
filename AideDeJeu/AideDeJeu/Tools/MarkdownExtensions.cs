@@ -15,13 +15,15 @@ namespace AideDeJeu.Tools
     {
         public static IEnumerable<Spell> MarkdownToSpells(string md)
         {
-            var document = Markdig.Parsers.MarkdownParser.Parse(md);
+            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
             return document.ToSpells();
         }
 
         public static IEnumerable<Monster> MarkdownToMonsters(string md)
         {
-            var document = Markdig.Parsers.MarkdownParser.Parse(md);
+            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
             return document.ToMonsters();
         }
 
@@ -162,6 +164,7 @@ namespace AideDeJeu.Tools
             List<string> actions = new List<string>();
             foreach (var block in document)
             {
+                Debug.WriteLine(block.GetType());
                 //DumpBlock(block);
                 if (block is Markdig.Syntax.HeadingBlock)
                 {
@@ -221,7 +224,7 @@ namespace AideDeJeu.Tools
                                             case "NameVO":
                                                 monster.NameVO = value;
                                                 break;
-                                            case "CastingTime":
+                                            case "SizeAlignment":
                                                 {
                                                     var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
                                                     var matchh = regexx.Match(value);

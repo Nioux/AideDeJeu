@@ -45,8 +45,9 @@ namespace AideDeJeu.ViewModels
                         _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
                         break;
                     case ItemSourceType.MonsterHD:
-                        resourceName = "AideDeJeu.Data.monsters_hd.json";
-                        var mdm = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
+                        resourceName = "AideDeJeu.Data.monsters_hd.md";
+                        //var mdm = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
+                        var mdm = await Tools.Helpers.GetResourceStringAsync(resourceName);
                         _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(mdm);
                         //_AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
                         break;
@@ -61,7 +62,7 @@ namespace AideDeJeu.ViewModels
                         _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
                         break;
                     case ItemSourceType.SpellHD:
-                        resourceName = "AideDeJeu.Data.spells_hd.json";
+                        resourceName = "AideDeJeu.Data.spells_hd.md";
                         var mds = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
                         _AllItems = Tools.MarkdownExtensions.MarkdownToSpells(mds);
                         //_AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);

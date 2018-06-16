@@ -60,4 +60,9 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\monsters_hd.md" Link="Data\monsters_hd.md" />
+    <EmbeddedResource Include="..\..\Data\spells_hd.md" Link="Data\spells_hd.md" />
+  </ItemGroup>
+
 </Project>
