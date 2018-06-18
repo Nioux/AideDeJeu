@@ -1,4 +1,4 @@
-
+﻿
 # Aboleth
 - Aberration de taille G, Loyal Mauvais
 - Classe d'armure 17 (armure naturelle)

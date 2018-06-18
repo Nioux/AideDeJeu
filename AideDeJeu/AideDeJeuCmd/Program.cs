@@ -65,10 +65,46 @@ namespace AideDeJeuCmd
 
         static async Task Main(string[] args)
         {
+            string dataDir = @"..\..\..\..\..\Data\";
+
+            //using (var instream = new StreamReader(dataDir + "monsters_hd.md", Encoding.UTF8))
+            //{
+            //    using (var outstream = new StreamWriter(dataDir + "monsters_hd_modif.md", false, Encoding.UTF8))
+            //    {
+            //        var line = await instream.ReadLineAsync();
+            //        while (line != null)
+            //        {
+            //            if (line.StartsWith("# "))
+            //            {
+            //                await outstream.WriteLineAsync(line);
+            //                line = await instream.ReadLineAsync();
+            //                await outstream.WriteLineAsync("- " + line);
+            //            }
+            //            else if(line.StartsWith("| ---   | ---   | ---   | ---   | ---   | ---   |"))
+            //            {
+            //                await outstream.WriteLineAsync(line);
+            //                line = await instream.ReadLineAsync();
+            //                var caracs = line.Substring(1).Split(' ');
+            //                //var rx = new Regex("|(?<for>.*?) (?<bfor>\\(.*?)\\) (?<dex>.*?) (?<bdex>\\(.*?)\\) (?<con>.*?) (?<bcon>\\(.*?)\\) (?<int>.*?) (?<bint>\\(.*?)\\) (?<sag>.*?) (?<bsag>\\(.*?)\\) (?<cha>.*?) (?<bcha>\\(.*?)\\)");
+            //                //var match = rx.Match(line);
+            //                var outline = string.Format("|{0,2} {1,4}|{2,2} {3,4}|{4,2} {5,4}|{6,2} {7,4}|{8,2} {9,4}|{10,2} {11,4}|",
+            //                    caracs
+            //                    );
+            //                await outstream.WriteLineAsync(outline);
+            //                await outstream.WriteLineAsync(string.Empty);
+            //            }
+            //            else
+            //            {
+            //                await outstream.WriteLineAsync(line);
+            //            }
+            //            line = await instream.ReadLineAsync();
+            //        }
+            //    }
+            //}
+            return;
             //var spellss = await TestMarkdown(@"..\..\..\..\..\Data\spells_hd.md");
             var monsterss = await TestMarkdownMonsters(@"..\..\..\..\..\Data\monsters_hd.md");
             return;
-            string dataDir = @"..\..\..\..\..\Data\";
             //string ignoreDir = @"..\..\..\..\..\Ignore\";
             //var documentsDirectoryPath = @"database.db"; // Windows.Storage.ApplicationData.Current.LocalFolder.Path;
             //ItemDatabaseHelper helper = new ItemDatabaseHelper(documentsDirectoryPath);
