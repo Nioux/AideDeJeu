@@ -167,7 +167,7 @@ namespace AideDeJeu.Tools
             List<string> legendaryActions = null;
             foreach (var block in document)
             {
-                Debug.WriteLine(block.GetType());
+                //Debug.WriteLine(block.GetType());
                 //DumpBlock(block);
                 if (block is Markdig.Syntax.HeadingBlock)
                 {
@@ -241,150 +241,56 @@ namespace AideDeJeu.Tools
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                         //DumpParagraphBlock(paragraphBlock);
                                         var str = paragraphBlock.Inline.ToContainerString();
-                                        //var match = regex.Match(str);
-                                        //var key = match.Groups["key"].Value;
-                                        //var value = match.Groups["value"].Value;
-                                        //switch (key)
-                                        //{
-                                            //case "NameVO":
-                                            //    monster.NameVO = value;
-                                            //    break;
-                                            //case "SizeAlignment":
-                                        if(str.StartsWith("Classe d'armure "))
+
+                                        var properties = new List<Tuple<string, Action<Monster, string>>>()
                                         {
-                                            monster.ArmorClass = str;
-                                        }
-                                        else if (str.StartsWith("Points de vie "))
-                                        {
-                                            monster.HitPoints = str;
-                                        }
-                                        else if (str.StartsWith("Vitesse "))
-                                        {
-                                            monster.Speed = str;
-                                        }
-                                        else if (str.StartsWith("Résistance aux dégâts "))
-                                        {
-                                            monster.DamageResistances = str;
-                                        }
-                                        else if (str.StartsWith("Résistances aux dégâts "))
-                                        {
-                                            monster.DamageResistances = str;
-                                        }
-                                        else if (str.StartsWith("Résistance contre les dégâts "))
-                                        {
-                                            monster.DamageResistances = str;
-                                        }
-                                        else if (str.StartsWith("Résistances contre les dégâts "))
-                                        {
-                                            monster.DamageResistances = str;
-                                        }
-                                        else if (str.StartsWith("Immunité contre les dégâts "))
-                                        {
-                                            monster.DamageImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunité contre des dégâts "))
-                                        {
-                                            monster.DamageImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunité aux dégâts "))
-                                        {
-                                            monster.DamageImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunité à l'état "))
-                                        {
-                                            monster.ConditionImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunités à l'état "))
-                                        {
-                                            monster.ConditionImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunité contre l'état "))
-                                        {
-                                            monster.ConditionImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunité contre les états "))
-                                        {
-                                            monster.ConditionImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Immunités contre les états "))
-                                        {
-                                            monster.ConditionImmunities = str;
-                                        }
-                                        else if (str.StartsWith("Vulnérabilité "))
-                                        {
-                                            monster.DamageVulnerabilities = str;
-                                        }
-                                        else if (str.StartsWith("Sens "))
-                                        {
-                                            monster.Senses = str;
-                                        }
-                                        else if (str.StartsWith("Langue "))
-                                        {
-                                            monster.Languages = str;
-                                        }
-                                        else if (str.StartsWith("Dangerosité "))
-                                        {
-                                            monster.Challenge = str;
-                                        }
-                                        else if (str.StartsWith("Jets de sauvegarde "))
-                                        {
-                                            monster.Challenge = str;
-                                        }
-                                        else if (str.StartsWith("Jet de sauvegarde "))
-                                        {
-                                            monster.Challenge = str;
-                                        }
-                                        else if (str.StartsWith("Compétences "))
-                                        {
-                                            monster.Skills = str;
-                                        }
-                                        else if (str.StartsWith("Compétence "))
-                                        {
-                                            monster.Skills = str;
-                                        }
-                                        else if (str.StartsWith("Langues "))
-                                        {
-                                            monster.Languages = str;
-                                        }
-                                        else
-                                        {
-                                            if (monster.Alignment != null)
+                                            new Tuple<string, Action<Monster, string>>("Classe d'armure ", (m, s) => m.ArmorClass = s),
+                                            new Tuple<string, Action<Monster, string>>("Points de vie ", (m, s) => m.HitPoints = s),
+                                            new Tuple<string, Action<Monster, string>>("Vitesse ", (m, s) => m.Speed = s),
+                                            new Tuple<string, Action<Monster, string>>("Résistance aux dégâts ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("Résistances aux dégâts ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("Résistance contre les dégâts ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("Résistances contre les dégâts ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunité contre les dégâts ", (m, s) => m.DamageImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunité contre des dégâts ", (m, s) => m.DamageImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunité aux dégâts ", (m, s) => m.DamageImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunité à l'état ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunités à l'état ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunité contre l'état ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunité contre les états ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Immunités contre les états ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("Vulnérabilité ", (m, s) => m.DamageVulnerabilities = s),
+                                            new Tuple<string, Action<Monster, string>>("Sens ", (m, s) => m.Senses = s),
+                                            new Tuple<string, Action<Monster, string>>("Langue ", (m, s) => m.Languages = s),
+                                            new Tuple<string, Action<Monster, string>>("Dangerosité ", (m, s) => m.Challenge = s),
+                                            new Tuple<string, Action<Monster, string>>("Jets de sauvegarde ", (m, s) => m.Challenge = s),
+                                            new Tuple<string, Action<Monster, string>>("Jet de sauvegarde ", (m, s) => m.Challenge = s),
+                                            new Tuple<string, Action<Monster, string>>("Compétences ", (m, s) => m.Skills = s),
+                                            new Tuple<string, Action<Monster, string>>("Compétence ", (m, s) => m.Skills = s),
+                                            new Tuple<string, Action<Monster, string>>("Langues ", (m, s) => m.Languages = s),
+                                            new Tuple<string, Action<Monster, string>>("", (m,s) =>
                                             {
-                                                App.Current.MainPage.DisplayAlert("Erreur de parsing", str, "OK");
+                                                if (m.Alignment != null)
+                                                {
+                                                    App.Current.MainPage.DisplayAlert("Erreur de parsing", s, "OK");
+                                                }
+                                                //Debug.Assert(monster.Alignment == null, str);
+                                                var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
+                                                var matchh = regexx.Match(s);
+                                                m.Alignment = matchh.Groups["alignment"].Value;
+                                                m.Size = matchh.Groups["size"].Value;
+                                                m.Type = matchh.Groups["type"].Value;
+                                            })
+                                        };
+
+                                        foreach(var property in properties)
+                                        {
+                                            if(str.StartsWith(property.Item1))
+                                            {
+                                                property.Item2.Invoke(monster, str.Substring(property.Item1.Length));
+                                                break;
                                             }
-                                            //Debug.Assert(monster.Alignment == null, str);
-                                            var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
-                                            var matchh = regexx.Match(str);
-                                            monster.Alignment = matchh.Groups["alignment"].Value;
-                                            monster.Size = matchh.Groups["size"].Value;
-                                            monster.Type = matchh.Groups["type"].Value;
                                         }
-                                                //break;
-                                        //    if(str.st "ArmorClass":
-                                        //        monster.ArmorClass = value;
-                                        //        break;
-                                        //    case "HitPoints":
-                                        //        monster.HitPoints = value;
-                                        //        break;
-                                        //    case "Speed":
-                                        //        monster.Speed = value;
-                                        //        break;
-                                        //    case "SavingThrows":
-                                        //        monster.SavingThrows = value;
-                                        //        break;
-                                        //    case "Skills":
-                                        //        monster.Skills = value ;
-                                        //        break;
-                                        //    case "Senses":
-                                        //        monster.Senses = value;
-                                        //        break;
-                                        //    case "Languages":
-                                        //        monster.Languages = value;
-                                        //        break;
-                                        //    case "Challenge":
-                                        //        monster.Challenge = value;
-                                        //        break;
-                                        //}
                                     }
                                 }
 
