@@ -587,7 +587,7 @@ plus 3 (1d6) dégâts de feu.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- Immunité contre l'étatà terre
+- Immunité contre l'état à terre
 - Sens vision dans le noir 18 m, Perception passive 10
 - Langue —
 - Dangerosité 2 (450 PX)
@@ -10287,7 +10287,7 @@ Touché : 4 (1d4+2) dégâts perforants.
 
 ## Capacités
 
-- Immunité limitée à la magie. Le rakshasa ne peut
+* Immunité limitée à la magie. Le rakshasa ne peut
 pas être affecté ou détecté par des sorts de niveau 6
 ou moins, à moins qu'il ne le souhaite. Il obtient un
 avantage lors des jets de sauvegarde contre tous les

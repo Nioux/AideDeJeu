@@ -241,48 +241,150 @@ namespace AideDeJeu.Tools
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                         //DumpParagraphBlock(paragraphBlock);
                                         var str = paragraphBlock.Inline.ToContainerString();
-                                        var match = regex.Match(str);
-                                        var key = match.Groups["key"].Value;
-                                        var value = match.Groups["value"].Value;
-                                        switch (key)
+                                        //var match = regex.Match(str);
+                                        //var key = match.Groups["key"].Value;
+                                        //var value = match.Groups["value"].Value;
+                                        //switch (key)
+                                        //{
+                                            //case "NameVO":
+                                            //    monster.NameVO = value;
+                                            //    break;
+                                            //case "SizeAlignment":
+                                        if(str.StartsWith("Classe d'armure "))
                                         {
-                                            case "NameVO":
-                                                monster.NameVO = value;
-                                                break;
-                                            case "SizeAlignment":
-                                                {
-                                                    var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
-                                                    var matchh = regexx.Match(value);
-                                                    monster.Alignment = matchh.Groups["alignment"].Value;
-                                                    monster.Size = matchh.Groups["size"].Value;
-                                                    monster.Type = matchh.Groups["type"].Value;
-                                                }
-                                                break;
-                                            case "ArmorClass":
-                                                monster.ArmorClass = value;
-                                                break;
-                                            case "HitPoints":
-                                                monster.HitPoints = value;
-                                                break;
-                                            case "Speed":
-                                                monster.Speed = value;
-                                                break;
-                                            case "SavingThrows":
-                                                monster.SavingThrows = value;
-                                                break;
-                                            case "Skills":
-                                                monster.Skills = value ;
-                                                break;
-                                            case "Senses":
-                                                monster.Senses = value;
-                                                break;
-                                            case "Languages":
-                                                monster.Languages = value;
-                                                break;
-                                            case "Challenge":
-                                                monster.Challenge = value;
-                                                break;
+                                            monster.ArmorClass = str;
                                         }
+                                        else if (str.StartsWith("Points de vie "))
+                                        {
+                                            monster.HitPoints = str;
+                                        }
+                                        else if (str.StartsWith("Vitesse "))
+                                        {
+                                            monster.Speed = str;
+                                        }
+                                        else if (str.StartsWith("Résistance aux dégâts "))
+                                        {
+                                            monster.DamageResistances = str;
+                                        }
+                                        else if (str.StartsWith("Résistances aux dégâts "))
+                                        {
+                                            monster.DamageResistances = str;
+                                        }
+                                        else if (str.StartsWith("Résistance contre les dégâts "))
+                                        {
+                                            monster.DamageResistances = str;
+                                        }
+                                        else if (str.StartsWith("Résistances contre les dégâts "))
+                                        {
+                                            monster.DamageResistances = str;
+                                        }
+                                        else if (str.StartsWith("Immunité contre les dégâts "))
+                                        {
+                                            monster.DamageImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunité contre des dégâts "))
+                                        {
+                                            monster.DamageImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunité aux dégâts "))
+                                        {
+                                            monster.DamageImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunité à l'état "))
+                                        {
+                                            monster.ConditionImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunités à l'état "))
+                                        {
+                                            monster.ConditionImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunité contre l'état "))
+                                        {
+                                            monster.ConditionImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunité contre les états "))
+                                        {
+                                            monster.ConditionImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Immunités contre les états "))
+                                        {
+                                            monster.ConditionImmunities = str;
+                                        }
+                                        else if (str.StartsWith("Vulnérabilité "))
+                                        {
+                                            monster.DamageVulnerabilities = str;
+                                        }
+                                        else if (str.StartsWith("Sens "))
+                                        {
+                                            monster.Senses = str;
+                                        }
+                                        else if (str.StartsWith("Langue "))
+                                        {
+                                            monster.Languages = str;
+                                        }
+                                        else if (str.StartsWith("Dangerosité "))
+                                        {
+                                            monster.Challenge = str;
+                                        }
+                                        else if (str.StartsWith("Jets de sauvegarde "))
+                                        {
+                                            monster.Challenge = str;
+                                        }
+                                        else if (str.StartsWith("Jet de sauvegarde "))
+                                        {
+                                            monster.Challenge = str;
+                                        }
+                                        else if (str.StartsWith("Compétences "))
+                                        {
+                                            monster.Skills = str;
+                                        }
+                                        else if (str.StartsWith("Compétence "))
+                                        {
+                                            monster.Skills = str;
+                                        }
+                                        else if (str.StartsWith("Langues "))
+                                        {
+                                            monster.Languages = str;
+                                        }
+                                        else
+                                        {
+                                            if (monster.Alignment != null)
+                                            {
+                                                App.Current.MainPage.DisplayAlert("Erreur de parsing", str, "OK");
+                                            }
+                                            //Debug.Assert(monster.Alignment == null, str);
+                                            var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
+                                            var matchh = regexx.Match(str);
+                                            monster.Alignment = matchh.Groups["alignment"].Value;
+                                            monster.Size = matchh.Groups["size"].Value;
+                                            monster.Type = matchh.Groups["type"].Value;
+                                        }
+                                                //break;
+                                        //    if(str.st "ArmorClass":
+                                        //        monster.ArmorClass = value;
+                                        //        break;
+                                        //    case "HitPoints":
+                                        //        monster.HitPoints = value;
+                                        //        break;
+                                        //    case "Speed":
+                                        //        monster.Speed = value;
+                                        //        break;
+                                        //    case "SavingThrows":
+                                        //        monster.SavingThrows = value;
+                                        //        break;
+                                        //    case "Skills":
+                                        //        monster.Skills = value ;
+                                        //        break;
+                                        //    case "Senses":
+                                        //        monster.Senses = value;
+                                        //        break;
+                                        //    case "Languages":
+                                        //        monster.Languages = value;
+                                        //        break;
+                                        //    case "Challenge":
+                                        //        monster.Challenge = value;
+                                        //        break;
+                                        //}
                                     }
                                 }
 
