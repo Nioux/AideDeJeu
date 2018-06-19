@@ -262,12 +262,12 @@ namespace AideDeJeu.Tools
                                             new Tuple<string, Action<Monster, string>>("Vulnérabilité ", (m, s) => m.DamageVulnerabilities = s),
                                             new Tuple<string, Action<Monster, string>>("Sens ", (m, s) => m.Senses = s),
                                             new Tuple<string, Action<Monster, string>>("Langue ", (m, s) => m.Languages = s),
+                                            new Tuple<string, Action<Monster, string>>("Langues ", (m, s) => m.Languages = s),
                                             new Tuple<string, Action<Monster, string>>("Dangerosité ", (m, s) => m.Challenge = s),
                                             new Tuple<string, Action<Monster, string>>("Jets de sauvegarde ", (m, s) => m.Challenge = s),
                                             new Tuple<string, Action<Monster, string>>("Jet de sauvegarde ", (m, s) => m.Challenge = s),
                                             new Tuple<string, Action<Monster, string>>("Compétences ", (m, s) => m.Skills = s),
                                             new Tuple<string, Action<Monster, string>>("Compétence ", (m, s) => m.Skills = s),
-                                            new Tuple<string, Action<Monster, string>>("Langues ", (m, s) => m.Languages = s),
                                             new Tuple<string, Action<Monster, string>>("", (m,s) =>
                                             {
                                                 if (m.Alignment != null)

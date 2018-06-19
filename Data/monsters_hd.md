@@ -1,9 +1,9 @@
 
 # Aboleth
 - Aberration de taille G, Loyal Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 135 (18d10+36)
-- Vitesse 3 m, nage 12 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 135 (18d10+36)
+- **Vitesse** 3 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -93,9 +93,9 @@ de vie égal aux dégâts subis par la créature.
 
 # Abothid
 - Aberration de taille M, loyal mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 104 (16d8+32)
-- Vitesse 9 m au sol
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 104 (16d8+32)
+- **Vitesse** 9 m au sol
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -181,9 +181,9 @@ de l'abothid à ce tour.
 
 # Âme-en-peine
 - Mort-vivant de taille M, Neutre Mauvais
-- Classe d'armure 13
-- Points de vie 67 (9d8+27)
-- Vitesse 0 m, vol 18 m (vol stationnaire)
+- **Classe d'armure** 13
+- **Points de vie** 67 (9d8+27)
+- **Vitesse** 0 m, vol 18 m (vol stationnaire)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -232,9 +232,9 @@ spectres en même temps.
 
 # Amphibe
 - Aberration de taille M, loyal mauvais
-- Classe d'armure 12
-- Points de vie 71 (13d8+13)
-- Vitesse 9 m au sol ; nage 9 m
+- **Classe d'armure** 12
+- **Points de vie** 71 (13d8+13)
+- **Vitesse** 9 m au sol ; nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -272,9 +272,9 @@ Touché : 5 (1d4+3) dégâts tranchants.
 
 # Déva
 - Céleste de taille M, Loyal Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 136 (16d8+64)
-- Vitesse 9 m, vol 27 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 136 (16d8+64)
+- **Vitesse** 9 m, vol 27 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -338,9 +338,9 @@ Touché : 7 (1d6+4) dégâts contondants plus
 
 # Planétar
 - Céleste de taille G, Loyal Bon
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 200 (16d10+112)
-- Vitesse 12 m, vol 36 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 200 (16d10+112)
+- **Vitesse** 12 m, vol 36 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -394,9 +394,9 @@ Touché : 21 (4d6+7) dégâts tranchants plus
 
 # Solar
 - Céleste de taille G, Loyal Bon
-- Classe d'armure 21 (armure naturelle)
-- Points de vie 243 (18d10+144)
-- Vitesse 15 m, vol 45 m
+- **Classe d'armure** 21 (armure naturelle)
+- **Points de vie** 243 (18d10+144)
+- **Vitesse** 15 m, vol 45 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -503,9 +503,9 @@ mètres.
 
 # Ankheg
 - Créature monstrueuse de taille G, non-alignée
-- Classe d'armure 14 (armure naturelle), 11 quand il est à terre
-- Points de vie 39 (6d10+6)
-- Vitesse 9 m, fouissement 3 m
+- **Classe d'armure** 14 (armure naturelle), 11 quand il est à terre
+- **Points de vie** 39 (6d10+6)
+- **Vitesse** 9 m, fouissement 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -538,9 +538,9 @@ de ces dégâts seulement en cas de réussite.
 
 # Azer
 - Élémentaire de taille M, Loyal Neutre
-- Classe d'armure 17 (armure naturelle, bouclier)
-- Points de vie 39 (6d8+12)
-- Vitesse 9 m
+- **Classe d'armure** 17 (armure naturelle, bouclier)
+- **Points de vie** 39 (6d8+12)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -579,9 +579,9 @@ plus 3 (1d6) dégâts de feu.
 
 # Babélien
 - Aberration de taille M, neutre
-- Classe d'armure 9
-- Points de vie 67 (9d8+27)
-- Vitesse 3 m, nage 3 m
+- **Classe d'armure** 9
+- **Points de vie** 67 (9d8+27)
+- **Vitesse** 3 m, nage 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -644,9 +644,9 @@ cible est tuée par ces dégâts, le babélien l'absorbe.
 
 # Basilic
 - Créature monstrueuse de taille M, non-alignée
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 52 (8d8+16)
-- Vitesse 6 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 52 (8d8+16)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -691,9 +691,9 @@ de poison.
 
 # Béhir
 - Créature monstrueuse de taille TG, Neutre Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 168 (16d12+64)
-- Vitesse 15 m, escalade 12 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 168 (16d12+64)
+- **Vitesse** 15 m, escalade 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -749,9 +749,9 @@ moitié seulement en cas de réussite.
 
 # Bulette
 - Créature monstrueuse de taille G, non-alignée
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 94 (9d10+45)
-- Vitesse 12 m, fouissement 12 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 94 (9d10+45)
+- **Vitesse** 12 m, fouissement 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -794,9 +794,9 @@ de la bulette à la place.
 
 # Centaure
 - Créature monstrueuse de taille G, Neutre Bon
-- Classe d'armure 12
-- Points de vie 45 (6d10+12)
-- Vitesse 15 m
+- **Classe d'armure** 12
+- **Points de vie** 45 (6d10+12)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -833,9 +833,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 # Cerbère
 - Créature monstrueuse de taille G, Neutre Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 102 (12d10+36)
-- Vitesse 12 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 102 (12d10+36)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -878,9 +878,9 @@ réussie après la première dans le même tour.
 
 # Criard
 - Plante de taille M, non-alignée
-- Classe d'armure 5
-- Points de vie 13 (3d8)
-- Vitesse 0 m
+- **Classe d'armure** 5
+- **Points de vie** 13 (3d8)
+- **Vitesse** 0 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -907,9 +907,9 @@ pendant ses 1d4 prochains tours.
 
 # Moisissure violette
 - Plante de taille M, non-alignée
-- Classe d'armure 5
-- Points de vie 18 (4d8)
-- Vitesse 1,50 m
+- **Classe d'armure** 5
+- **Points de vie** 18 (4d8)
+- **Vitesse** 1,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -937,9 +937,9 @@ Touché : 4 (1d8) dégâts nécrotiques.
 
 # Chimère
 - Créature monstrueuse de taille G, Chaotique Mauvais
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 114 (12d10+48)
-- Vitesse 9 m, vol 18 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 114 (12d10+48)
+- **Vitesse** 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -977,9 +977,9 @@ cas de réussite.
 
 # Chuul
 - Aberration de taille G, Chaotique Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 93 (11d10+33)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 93 (11d10+33)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1024,9 +1024,9 @@ de réussite.
 
 # Cockatrice
 - Créature monstrueuse de taille P, non-alignée
-- Classe d'armure 11
-- Points de vie 27 (6d6+6)
-- Vitesse 6 m, vol 12 m
+- **Classe d'armure** 11
+- **Points de vie** 27 (6d6+6)
+- **Vitesse** 6 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1053,9 +1053,9 @@ En cas d'échec, la créature est pétrifiée pendant
 
 # Couatl
 - Céleste de taille M, Loyal Bon
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 97 (13d8+39)
-- Vitesse 9 m, vol 27 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 97 (13d8+39)
+- **Vitesse** 9 m, vol 27 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1127,9 +1127,9 @@ secouer la cible afin qu'elle reprenne connaissance.
 
 # Vétéran demi-dragon rouge
 - Humanoïde (humain) de taille M, n'importe quel alignement
-- Classe d'armure 18 (harnois)
-- Points de vie 65 (10d8+20)
-- Vitesse 9 m
+- **Classe d'armure** 18 (harnois)
+- **Points de vie** 65 (10d8+20)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1167,9 +1167,9 @@ moitié de ces dégâts seulement en cas de réussite.
 
 # Balor
 - Fiélon (démon) de taille TG, Chaotique Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 262 (21d12+126)
-- Vitesse 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 262 (21d12+126)
+- **Vitesse** 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1234,9 +1234,9 @@ vision à une distance maximale de 36 mètres.
 
 # Dretch
 - Fiélon (démon) de taille P, Chaotique Mauvais
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 18 (4d6+4)
-- Vitesse 6 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 18 (4d6+4)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1275,9 +1275,9 @@ elles ne peuvent pas effectuer de réaction.
 
 # Glabrezu
 - Fiélon (démon) de taille G, Chaotique Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 157 (15d10+75)
-- Vitesse 12 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 157 (15d10+75)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1326,9 +1326,9 @@ Touché : 7 (2d4+2) dégâts contondants.
 
 # Hezrou
 - Fiélon (démon) de taille G, Chaotique Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 136 (13d10+65)
-- Vitesse 9 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 136 (13d10+65)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1371,9 +1371,9 @@ Touché : 15 (2d10+4) dégâts perforants.
 
 # Marilith
 - Fiélon (démon) de taille G, Chaotique Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 189 (18d10+90)
-- Vitesse 12 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 189 (18d10+90)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1426,9 +1426,9 @@ corps à corps pour pouvoir parer de cette façon.
 
 # Nalfeshnie
 - Fiélon (démon) de taille G, Chaotique Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 184 (16d10+96)
-- Vitesse 6 m, vol 9 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 184 (16d10+96)
+- **Vitesse** 6 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1481,9 +1481,9 @@ vision à une distance maximale de 36 mètres.
 
 # Quasit
 - Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
-- Classe d'armure 13
-- Points de vie 7 (3d4)
-- Vitesse 12 m
+- **Classe d'armure** 13
+- **Points de vie** 7 (3d4)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1541,9 +1541,9 @@ transportés deviennent également invisibles.
 
 # Vrock
 - Fiélon (démon) de taille G, Chaotique Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 104 (11d10+44)
-- Vitesse 12 m, vol 18 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 104 (11d10+44)
+- **Vitesse** 12 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1596,9 +1596,9 @@ bénite sur la cible met également fin à cet effet.
 
 # Destrier noir
 - Fiélon de taille G, Neutre Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 68 (8d10+24)
-- Vitesse 18 m, vol 27 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 68 (8d10+24)
+- **Vitesse** 18 m, vol 27 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1631,9 +1631,9 @@ dégâts contondants plus 7 (2d6) dégâts de feu.
 
 # Dévoreur arcanique
 - Aberration de taille G, Neutre Mauvais
-- Classe d'armure 15
-- Points de vie 212 (25d10+75)
-- Vitesse 1,50 m au sol ; 9 mètres en vol
+- **Classe d'armure** 15
+- **Points de vie** 212 (25d10+75)
+- **Vitesse** 1,50 m au sol ; 9 mètres en vol
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1774,9 +1774,9 @@ Relancez deux fois le dé et rejouez tous les 8.
 
 # Diable barbelé
 - Fiélon (diable) de taille M, Loyal Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 110 (13d8+52)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 110 (13d8+52)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1823,9 +1823,9 @@ dégâts perforants.
 
 # Diable barbu
 - Fiélon (diable) de taille M, Loyal Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 52 (8d8+16)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 52 (8d8+16)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1881,9 +1881,9 @@ si la cible bénéficie d'un soin magique.
 
 # Diable cornu
 - Fiélon (diable) de taille G, Loyal Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 178 (17d10+85)
-- Vitesse 6 m, vol 18 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 178 (17d10+85)
+- **Vitesse** 6 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -1936,9 +1936,9 @@ cible bénéficie d'un soin magique.
 
 # Diable gelé
 - Fiélon (diable) de taille G, Loyal Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 180 (19d10+76)
-- Vitesse 12 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 180 (19d10+76)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2014,9 +2014,9 @@ dégâts contondants plus 10 (3d6) dégâts de froid.
 
 # Diable des chaînes
 - Fiélon (diable) de taille M, Loyal Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 85 (10d8+40)
-- Vitesse 9 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 85 (10d8+40)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2080,9 +2080,9 @@ un jet de sauvegarde de Sagesse DD 14 pour ne pas
 
 # Diable osseux
 - Fiélon (diable) de taille G, Loyal Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 142 (15d10+60)
-- Vitesse 12 m, vol 12 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 142 (15d10+60)
+- **Vitesse** 12 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2125,9 +2125,9 @@ dégâts tranchants.
 
 # Diablotin
 - Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
-- Classe d'armure 13
-- Points de vie 10 (3d4+3)
-- Vitesse 6 m, vol 12 m
+- **Classe d'armure** 13
+- **Points de vie** 10 (3d4+3)
+- **Vitesse** 6 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2175,9 +2175,9 @@ un sort). Ses objets équipés ou transportés deviennent
 
 # Diantrefosse
 - Fiélon (diable) de taille G, Loyal Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 300 (24d10+168)
-- Vitesse 9 m, vol 18 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 300 (24d10+168)
+- **Vitesse** 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2245,9 +2245,9 @@ Touché : 24 (3d10+8) dégâts contondants.
 
 # Érinye
 - Fiélon (diable) de taille M, Loyal Mauvais
-- Classe d'armure 18 (harnois)
-- Points de vie 153 (18d8+72)
-- Vitesse 9 m, vol 18 m
+- **Classe d'armure** 18 (harnois)
+- **Points de vie** 153 (18d8+72)
+- **Vitesse** 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2295,9 +2295,9 @@ corps à corps pour pouvoir parer de cette façon.
 
 # Lémure
 - Fiélon (diable) de taille M, Loyal Mauvais
-- Classe d'armure 7
-- Points de vie 13 (3d8)
-- Vitesse 4,50 m
+- **Classe d'armure** 7
+- **Points de vie** 13 (3d8)
+- **Vitesse** 4,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2330,9 +2330,9 @@ dégâts contondants.
 
 # Diaspaad
 - Aberration de taille G, Chaotique Neutre
-- Classe d'armure 14
-- Points de vie 199 (19d12+76)
-- Vitesse 9 m
+- **Classe d'armure** 14
+- **Points de vie** 199 (19d12+76)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2398,9 +2398,9 @@ par une action bonus.
 
 # Plésiosaure
 - Bête de taille G, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 68 (8d10+24)
-- Vitesse 6 m, nage 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 68 (8d10+24)
+- **Vitesse** 6 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2425,9 +2425,9 @@ dégâts perforants.
 
 # Tricératops
 - Bête de taille TG, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 95 (10d12+30)
-- Vitesse 15 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 95 (10d12+30)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2460,9 +2460,9 @@ terre. Touché : 22 (3d10+6) dégâts contondants.
 
 # Tyrannosaure
 - Bête de taille TG, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 136 (13d12+52)
-- Vitesse 15 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 136 (13d12+52)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2493,9 +2493,9 @@ Touché : 20 (3d8+7) dégâts contondants.
 
 # Doppleganger
 - Créature monstrueuse (métamorphe) de taille M, neutre
-- Classe d'armure 14
-- Points de vie 52 (8d8+16)
-- Vitesse 9 m
+- **Classe d'armure** 14
+- **Points de vie** 52 (8d8+16)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2550,9 +2550,9 @@ Persuasion et Supercherie) effectués contre elle.
 
 # Dragon blanc vénérable
 - Dragon de taille Gig, Chaotique Mauvais
-- Classe d'armure 20 (armure naturelle)
-- Points de vie 333 (18d20+144)
-- Vitesse 12 m, fouissement 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 20 (armure naturelle)
+- **Points de vie** 333 (18d20+144)
+- **Vitesse** 12 m, fouissement 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2634,9 +2634,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon blanc adulte
 - Dragon de taille TG, Chaotique Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 200 (16d12+96)
-- Vitesse 12 m, fouissement 9 m, nage 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 200 (16d12+96)
+- **Vitesse** 12 m, fouissement 9 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2728,9 +2728,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon blanc
 - Dragon de taille G, Chaotique Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 133 (14d10+56)
-- Vitesse 12 m, fouissement 6 m, nage 12 m, vol 24 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 133 (14d10+56)
+- **Vitesse** 12 m, fouissement 6 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2775,9 +2775,9 @@ réussite.
 
 # Dragonnet blanc
 - Dragon de taille M, Chaotique Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 32 (5d8+10)
-- Vitesse 9 m, fouissement 4,50 m, nage 9 m, vol 18 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 32 (5d8+10)
+- **Vitesse** 9 m, fouissement 4,50 m, nage 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2806,9 +2806,9 @@ moitié de ces dégâts seulement en cas de réussite.
 
 # Dragon bleu vénérable
 - Dragon de taille Gig, Loyal Mauvais
-- Classe d'armure 22 (armure naturelle)
-- Points de vie 481 (26d20+208)
-- Vitesse 12 m, fouissement 12 m, vol 24 m
+- **Classe d'armure** 22 (armure naturelle)
+- **Points de vie** 481 (26d20+208)
+- **Vitesse** 12 m, fouissement 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2884,9 +2884,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon bleu adulte
 - Dragon de taille TG, Loyal Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 225 (18d12+108)
-- Vitesse 12 m, fouissement 9 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 225 (18d12+108)
+- **Vitesse** 12 m, fouissement 9 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -2964,9 +2964,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon bleu
 - Dragon de taille G, Loyal Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 152 (16d10+64)
-- Vitesse 12 m, fouissement 6 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 152 (16d10+64)
+- **Vitesse** 12 m, fouissement 6 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3001,9 +3001,9 @@ seulement en cas de réussite.
 
 # Dragonnet bleu
 - Dragon de taille M, Loyal Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 52 (8d8+16)
-- Vitesse 9 m, fouissement 4,50 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 52 (8d8+16)
+- **Vitesse** 9 m, fouissement 4,50 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3033,9 +3033,9 @@ seulement en cas de réussite.
 
 # Dragon noir vénérable
 - Dragon de taille Gig, Chaotique Mauvais
-- Classe d'armure 22 (armure naturelle)
-- Points de vie 367 (21d20+147)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 22 (armure naturelle)
+- **Points de vie** 367 (21d20+147)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3113,9 +3113,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon noir adulte
 - Dragon de taille TG, Chaotique Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 195 (17d12+85)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 195 (17d12+85)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3207,9 +3207,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon noir
 - Dragon de taille G, Chaotique Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 127 (15d10+45)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 127 (15d10+45)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3248,9 +3248,9 @@ moitié de ces dégâts seulement en cas de réussite.
 
 # Dragonnet noir
 - Dragon de taille M, Chaotique Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 33 (6d8+6)
-- Vitesse 9 m, nage 9 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 33 (6d8+6)
+- **Vitesse** 9 m, nage 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3285,9 +3285,9 @@ en cas de réussite.
 
 # Dragon rouge vénérable
 - Dragon de taille Gig, Chaotique Mauvais
-- Classe d'armure 22 (armure naturelle)
-- Points de vie 546 (28d20+252)
-- Vitesse 12 m, escalade 12 m, vol 24 m
+- **Classe d'armure** 22 (armure naturelle)
+- **Points de vie** 546 (28d20+252)
+- **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3362,9 +3362,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon rouge adulte
 - Dragon de taille TG, Chaotique Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 256 (19d12+133)
-- Vitesse 12 m, escalade 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 256 (19d12+133)
+- **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3440,9 +3440,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon rouge
 - Dragon de taille G, Chaotique Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 178 (17d10+85)
-- Vitesse 12 m, escalade 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 178 (17d10+85)
+- **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3476,9 +3476,9 @@ de ces dégâts seulement en cas de réussite.
 
 # Dragonnet rouge
 - Dragon de taille M, Chaotique Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 75 (10d8+30)
-- Vitesse 9 m, escalade 9 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 75 (10d8+30)
+- **Vitesse** 9 m, escalade 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3507,9 +3507,9 @@ de ces dégâts seulement en cas de réussite.
 
 # Dragon vert vénérable
 - Dragon de taille Gig, Loyal Mauvais
-- Classe d'armure 21 (armure naturelle)
-- Points de vie 385 (22d20+154)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 21 (armure naturelle)
+- **Points de vie** 385 (22d20+154)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3588,9 +3588,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon vert adulte
 - Dragon de taille TG, Loyal Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 207 (18d12+90)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 207 (18d12+90)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3670,9 +3670,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon vert
 - Dragon de taille G, Loyal Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 136 (16d10+48)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 136 (16d10+48)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3713,9 +3713,9 @@ en cas de réussite.
 
 # Dragonnet vert
 - Dragon de taille M, Loyal Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 38 (7d8+7)
-- Vitesse 9 m, nage 9 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 38 (7d8+7)
+- **Vitesse** 9 m, nage 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3751,9 +3751,9 @@ seulement en cas de réussite.
 
 # Dragon d'airain vénérable
 - Dragon de taille Gig, Chaotique Bon
-- Classe d'armure 20 (armure naturelle)
-- Points de vie 297 (17d20+119)
-- Vitesse 12 m, fouissement 12 m, vol 24 m
+- **Classe d'armure** 20 (armure naturelle)
+- **Points de vie** 297 (17d20+119)
+- **Vitesse** 12 m, fouissement 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3854,9 +3854,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon d'airain adulte
 - Dragon de taille TG, Chaotique Bon
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 172 (15d12+75)
-- Vitesse 12 m, fouissement 9 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 172 (15d12+75)
+- **Vitesse** 12 m, fouissement 9 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3941,9 +3941,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon d'airain
 - Dragon de taille G, Chaotique Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 110 (13d10+39)
-- Vitesse 12 m, fouissement 6 m, vol 24 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 110 (13d10+39)
+- **Vitesse** 12 m, fouissement 6 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -3988,9 +3988,9 @@ faire reprendre ses esprits.
 
 # Dragonnet d'airain
 - Dragon de taille M, Chaotique Bon
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 16 (3d8+3)
-- Vitesse 9 m, fouissement 4,50 m, vol 18 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 16 (3d8+3)
+- **Vitesse** 9 m, fouissement 4,50 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4029,9 +4029,9 @@ faire reprendre ses esprits.
 
 # Dragon d'argent vénérable
 - Dragon de taille Gig, Loyal Bon
-- Classe d'armure 22 (armure naturelle)
-- Points de vie 487 (25d20+225)
-- Vitesse 12 m, vol 24 m
+- **Classe d'armure** 22 (armure naturelle)
+- **Points de vie** 487 (25d20+225)
+- **Vitesse** 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4132,9 +4132,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon d'argent adulte
 - Dragon de taille TG, Loyal Bon
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 243 (18d12+126)
-- Vitesse 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 243 (18d12+126)
+- **Vitesse** 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4233,9 +4233,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon d'argent
 - Dragon de taille G, Loyal Bon
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 168 (16d10+80)
-- Vitesse 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 168 (16d10+80)
+- **Vitesse** 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4278,9 +4278,9 @@ et mettre fin à cet effet en cas de réussite.
 
 # Dragonnet d'argent
 - Dragon de taille M, Loyal Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 45 (6d8+18)
-- Vitesse 9 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 45 (6d8+18)
+- **Vitesse** 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4318,9 +4318,9 @@ réussite.
 
 # Dragon de bronze vénérable
 - Dragon de taille Gig, Loyal Bon
-- Classe d'armure 22 (armure naturelle)
-- Points de vie 444 (24d20+192)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 22 (armure naturelle)
+- **Points de vie** 444 (24d20+192)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4423,9 +4423,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon de bronze adulte
 - Dragon de taille TG, Loyal Bon
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 212 (17d12+102)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 212 (17d12+102)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4526,9 +4526,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon de bronze
 - Dragon de taille G, Loyal Bon
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 142 (15d10+60)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 142 (15d10+60)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4576,9 +4576,9 @@ une distance de 12 mètres.
 
 # Dragonnet de bronze
 - Dragon de taille M, Loyal Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 32 (5d8+10)
-- Vitesse 9 m, nage 9 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 32 (5d8+10)
+- **Vitesse** 9 m, nage 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4620,9 +4620,9 @@ une distance de 9 mètres.
 
 # Dragon de cuivre vénérable
 - Dragon de taille Gig, Chaotique Bon
-- Classe d'armure 21 (armure naturelle)
-- Points de vie 350 (20d20+140)
-- Vitesse 12 m, escalade 12 m, vol 24 m
+- **Classe d'armure** 21 (armure naturelle)
+- **Points de vie** 350 (20d20+140)
+- **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4727,9 +4727,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon de cuivre adulte
 - Dragon de taille TG, Chaotique Bon
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 184 (16d12+80)
-- Vitesse 12 m, escalade 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 184 (16d12+80)
+- **Vitesse** 12 m, escalade 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4819,9 +4819,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon de cuivre
 - Dragon de taille G, Chaotique Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 119 (14d10+42)
-- Vitesse 12m, escalade 12 m, vol 24 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 119 (14d10+42)
+- **Vitesse** 12m, escalade 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4870,9 +4870,9 @@ tours et mettre fin à cet effet en cas de réussite.
 
 # Dragonnet de cuivre
 - Dragon de taille M, Chaotique Bon
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 22 (4d8+4)
-- Vitesse 9 m, escalade 9 m, vol 18 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 22 (4d8+4)
+- **Vitesse** 9 m, escalade 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -4916,9 +4916,9 @@ de réussite.
 
 # Dragon d'or vénérable
 - Dragon de taille Gig, Loyal Bon
-- Classe d'armure 22 (armure naturelle)
-- Points de vie 546 (28d20+252)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 22 (armure naturelle)
+- **Points de vie** 546 (28d20+252)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5022,9 +5022,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Dragon d'or adulte
 - Dragon de taille TG, Loyal Bon
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 256 (19d12+133)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 256 (19d12+133)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5128,9 +5128,9 @@ Détecter. Le dragon effectue un test de Sagesse
 
 # Jeune dragon d'or
 - Dragon de taille G, Loyal Bon
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 178 (17d10+85)
-- Vitesse 12 m, nage 12 m, vol 24 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 178 (17d10+85)
+- **Vitesse** 12 m, nage 12 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5180,9 +5180,9 @@ dégâts seulement en cas de réussite.
 
 # Dragonnet d'or
 - Dragon de taille M, Loyal Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 60 (8d8+24)
-- Vitesse 9 m, nage 9 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 60 (8d8+24)
+- **Vitesse** 9 m, nage 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5226,9 +5226,9 @@ dégâts seulement en cas de réussite.
 
 # Dragon-tortue
 - Dragon de taille Gig, neutre
-- Classe d'armure 20 (armure naturelle)
-- Points de vie 341 (22d20+110)
-- Vitesse 6 m, nage 12 m
+- **Classe d'armure** 20 (armure naturelle)
+- **Points de vie** 341 (22d20+110)
+- **Vitesse** 6 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5275,9 +5275,9 @@ confère aucune résistance contre ces dégâts.
 
 # Dref
 - Fiélon de taille TP, chaotique neutre
-- Classe d'armure 13
-- Points de vie 7 (2d4+2)
-- Vitesse 6 m, vol 12 m
+- **Classe d'armure** 13
+- **Points de vie** 7 (2d4+2)
+- **Vitesse** 6 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5314,9 +5314,9 @@ Touché : 5 (1d4+3) dégâts perforants.
 
 # Drider
 - Créature monstrueuse de taille G, Chaotique Mauvais
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 123 (13d10+52)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 123 (13d10+52)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5374,9 +5374,9 @@ de poison.
 
 # Drow
 - Humanoïde (elfe) de taille M, Neutre Mauvais
-- Classe d'armure 15 (chemise de mailles)
-- Points de vie 13 (3d8)
-- Vitesse 9 m
+- **Classe d'armure** 15 (chemise de mailles)
+- **Points de vie** 13 (3d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5424,9 +5424,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Drow, prêtresse
 - Humanoïde (elfe) de taille M, neutre mauvais
-- Classe d'armure 18 (cuirasse +2)
-- Points de vie 58 (9d8+18)
-- Vitesse 9 m
+- **Classe d'armure** 18 (cuirasse +2)
+- **Points de vie** 58 (9d8+18)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5499,9 +5499,9 @@ Touché : 5 (1d4+3) dégâts perforants.
 
 # Dryade
 - Fée de taille M, neutre
-- Classe d'armure 11 (16 avec peau d'écorce)
-- Points de vie 22 (5d8)
-- Vitesse 9 m
+- **Classe d'armure** 11 (16 avec peau d'écorce)
+- **Points de vie** 22 (5d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5571,9 +5571,9 @@ gourdin magique.
 
 # Duergar
 - Humanoïde (nain) de taille M, Loyal Mauvais
-- Classe d'armure 16 (armure d'écailles, bouclier)
-- Points de vie 26 (4d8+8)
-- Vitesse 7,50 m
+- **Classe d'armure** 16 (armure d'écailles, bouclier)
+- **Points de vie** 26 (4d8+8)
+- **Vitesse** 7,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5627,9 +5627,9 @@ perforants s'il s'est agrandi.
 
 # Élémentaire de l'air
 - Élémentaire de taille G, neutre
-- Classe d'armure 15
-- Points de vie 90 (12d10+24)
-- Vitesse 0 m, vol 27 m (vol stationnaire)
+- **Classe d'armure** 15
+- **Points de vie** 90 (12d10+24)
+- **Vitesse** 0 m, vol 27 m (vol stationnaire)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5677,9 +5677,9 @@ n'est pas repoussée et n'est pas jetée à terre.
 
 # Élémentaire de l'eau
 - Élémentaire de taille G, neutre
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 114 (12d10+48)
-- Vitesse 9 m, nage 27 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 114 (12d10+48)
+- **Vitesse** 9 m, nage 27 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5735,9 +5735,9 @@ Force DD 14.
 
 # Élémentaire du feu
 - Élémentaire de taille G, neutre
-- Classe d'armure 13
-- Points de vie 102 (12d10+36)
-- Vitesse 15 m
+- **Classe d'armure** 13
+- **Points de vie** 102 (12d10+36)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5791,9 +5791,9 @@ consacre une action à éteindre le feu.
 
 # Élémentaire de la terre
 - Élémentaire de taille G, neutre
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 126 (12d10+60)
-- Vitesse 9 m, fouissement 9 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 126 (12d10+60)
+- **Vitesse** 9 m, fouissement 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5827,9 +5827,9 @@ Touché : 14 (2d8+5) dégâts contondants.
 
 # Enlaceur
 - Créature monstrueuse de taille G, Neutre Mauvais
-- Classe d'armure 20 (armure naturelle)
-- Points de vie 93 (11d10+33)
-- Vitesse 3 m, escalade 3 m
+- **Classe d'armure** 20 (armure naturelle)
+- **Points de vie** 93 (11d10+33)
+- **Vitesse** 3 m, escalade 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5882,9 +5882,9 @@ Touché : 22 (4d8+4) dégâts perforants.
 
 # Esprit follet
 - Fée de taille TP, Neutre Bonne
-- Classe d'armure 15 (armure de cuir)
-- Points de vie 2 (1d4)
-- Vitesse 3 m, vol 12 m
+- **Classe d'armure** 15 (armure de cuir)
+- **Points de vie** 2 (1d4)
+- **Vitesse** 3 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5926,9 +5926,9 @@ transportés deviennent également invisibles.
 
 # Ettercap
 - Créature monstrueuse de taille M, Neutre Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 44 (8d8+8)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 44 (8d8+8)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -5983,9 +5983,9 @@ poison et psychiques.
 
 # Ettin
 - Géant de taille G, Chaotique Mauvais
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 85 (10d10+30)
-- Vitesse 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 85 (10d10+30)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6021,9 +6021,9 @@ Touché : 14 (2d8+5) dégâts perforants.
 
 # Fantôme
 - Mort-vivant de taille M, n'importe quel alignement
-- Classe d'armure 11
-- Points de vie 45 (10d8)
-- Vitesse 0 m, vol 12 m (vol stationnaire)
+- **Classe d'armure** 11
+- **Points de vie** 45 (10d8)
+- **Vitesse** 0 m, vol 12 m (vol stationnaire)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6105,9 +6105,9 @@ heures suivantes.
 
 # Feu follet
 - Mort-vivant de taille TP, Chaotique Mauvais
-- Classe d'armure 19
-- Points de vie 22 (9d4)
-- Vitesse 0 m, vol 15 m (vol stationnaire)
+- **Classe d'armure** 19
+- **Points de vie** 22 (9d4)
+- **Vitesse** 0 m, vol 15 m (vol stationnaire)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6153,9 +6153,9 @@ sur un sort).
 
 # Garde animé
 - Créature artificielle de taille G, non-alignée
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 142 (15d10+60)
-- Vitesse 9 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 142 (15d10+60)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6211,9 +6211,9 @@ trouve à 1,50 mètre ou moins du porteur.
 
 # Gargouille
 - Élémentaire de taille M, Chaotique Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 52 (7d8+21)
-- Vitesse 9 m, vol 18 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 52 (7d8+21)
+- **Vitesse** 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6246,9 +6246,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Géant des collines
 - Géant de taille TG, Chaotique Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 105 (10d12+40)
-- Vitesse 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 105 (10d12+40)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6273,9 +6273,9 @@ Touché : 21 (3d10+5) dégâts contondants.
 
 # Géant des nuages
 - Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 200 (16d12+96)
-- Vitesse 12 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 200 (16d12+96)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6315,9 +6315,9 @@ Touché : 30 (4d10+8) dégâts contondants.
 
 # Géant des pierres
 - Géant de taille TG, neutre
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 126 (11d12+55)
-- Vitesse 12 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 126 (11d12+55)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6352,9 +6352,9 @@ de Force DD 17 pour ne pas être jetée à terre.
 
 # Géant des tempêtes
 - Géant de taille TG, Chaotique Bon
-- Classe d'armure 16 (armure d'écailles)
-- Points de vie 230 (20d12+100)
-- Vitesse 15 m, nage 15 m
+- **Classe d'armure** 16 (armure d'écailles)
+- **Points de vie** 230 (20d12+100)
+- **Vitesse** 15 m, nage 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6404,9 +6404,9 @@ dégâts contondants.
 
 # Géant du feu
 - Géant de taille TG, Loyal Mauvais
-- Classe d'armure 18 (harnois)
-- Points de vie 162 (13d12+78)
-- Vitesse 9 m
+- **Classe d'armure** 18 (harnois)
+- **Points de vie** 162 (13d12+78)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6433,9 +6433,9 @@ Touché : 29 (4d10+7) dégâts contondants.
 
 # Géant du givre
 - Géant de taille TG, Neutre Mauvais
-- Classe d'armure 15 (armure composite)
-- Points de vie 138 (12d12+60)
-- Vitesse 12 m
+- **Classe d'armure** 15 (armure composite)
+- **Points de vie** 138 (12d12+60)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6462,9 +6462,9 @@ contondants.
 
 # Djinn
 - Élémentaire de taille G, Chaotique Bon
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 161 (14d10+84)
-- Vitesse 9 m, vol 27 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 161 (14d10+84)
+- **Vitesse** 9 m, vol 27 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6528,9 +6528,9 @@ l'extérieur du tourbillon.
 
 # Éfrit
 - Élémentaire de taille G, Loyal Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 200 (16d10+112)
-- Vitesse 12 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 200 (16d10+112)
+- **Vitesse** 12 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6576,9 +6576,9 @@ Touché : 17 (5d6) dégâts de feu.
 
 # Gnoll
 - Humanoïde (gnoll) de taille M, Chaotique Mauvais
-- Classe d'armure 15 (armure de peau, bouclier)
-- Points de vie 22 (5d8)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure de peau, bouclier)
+- **Points de vie** 22 (5d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6615,9 +6615,9 @@ Touché : 4 (1d4+2) dégâts perforants.
 
 # Gnoll, chef de meute
 - Humanoïde (gnoll) de taille M, Chaotique Mauvais
-- Classe d'armure 15 (armure de peau, bouclier)
-- Points de vie 44 (8d8+8)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure de peau, bouclier)
+- **Points de vie** 44 (8d8+8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6661,9 +6661,9 @@ Touché : 5 (1d4+3) dégâts perforants.
 
 # Gnome des profondeurs (svirfneblin)
 - Humanoïde (gnome) de taille P, Neutre Bon
-- Classe d'armure 15 (chemise de mailles)
-- Points de vie 16 (3d6+6)
-- Vitesse 6 m
+- **Classe d'armure** 15 (chemise de mailles)
+- **Points de vie** 16 (3d6+6)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6708,9 +6708,9 @@ pour toucher, allonge 1,50 m, une cible. Touché : 6
 
 # Gobelin
 - Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
-- Classe d'armure 15 (armure de cuir, bouclier)
-- Points de vie 7 (2d6)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure de cuir, bouclier)
+- **Points de vie** 7 (2d6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6739,9 +6739,9 @@ Touché : 5 (1d6+2) dégâts tranchants.
 
 # Gobelin, chaman
 - Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
-- Classe d'armure 13 (armure de cuir)
-- Points de vie 27 (6d6+6)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure de cuir)
+- **Points de vie** 27 (6d6+6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6781,9 +6781,9 @@ Touché : 3 (1d4) dégâts contondants.
 
 # Gobelin blanc
 - Humanoïde (gobelinoïde) de taille P, neutre mauvais
-- Classe d'armure 14 (armure de peau)
-- Points de vie 13 (3d6+3)
-- Vitesse 9 m
+- **Classe d'armure** 14 (armure de peau)
+- **Points de vie** 13 (3d6+3)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6830,9 +6830,9 @@ Touché : 4 (1d6+1) dégâts perforants.
 
 # Chaman gobelin blanc
 - Humanoïde (gobelinoïde) de taille P, neutre mauvais
-- Classe d'armure 14 (armure de peau)
-- Points de vie 22 (5d6+5)
-- Vitesse 9 m
+- **Classe d'armure** 14 (armure de peau)
+- **Points de vie** 22 (5d6+5)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6886,9 +6886,9 @@ Touché : 5 (1d8+1) dégâts contondants.
 
 # Gobelours
 - Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
-- Classe d'armure 16 (armure de peau, bouclier)
-- Points de vie 27 (5d8+5)
-- Vitesse 9 m
+- **Classe d'armure** 16 (armure de peau, bouclier)
+- **Points de vie** 27 (5d8+5)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6923,9 +6923,9 @@ Touché : 11 (2d8+2) dégâts perforants.
 
 # Gobelours, chef barbare
 - Humanoïde (gobelinoïde) de taille M, chaotique mauvais
-- Classe d'armure 16 (armure de peau, bouclier)
-- Points de vie 55 (10d8+10)
-- Vitesse 9 m
+- **Classe d'armure** 16 (armure de peau, bouclier)
+- **Points de vie** 55 (10d8+10)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -6973,9 +6973,9 @@ au corps à corps ou 6 (1d6+3) dégâts perforants
 
 # Golem d'argile
 - Créature artificielle de taille G, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 133 (14d10+56)
-- Vitesse 6 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 133 (14d10+56)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7037,9 +7037,9 @@ coup par une action bonus.
 
 # Golem de chair
 - Créature artificielle de taille M, neutre
-- Classe d'armure 9
-- Points de vie 93 (11d8+44)
-- Vitesse 9 m
+- **Classe d'armure** 9
+- **Points de vie** 93 (11d8+44)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7101,9 +7101,9 @@ Touché : 13 (2d8+4) dégâts contondants.
 
 # Golem de fer
 - Créature artificielle de taille G, non-alignée
-- Classe d'armure 20 (armure naturelle)
-- Points de vie 210 (20d10+100)
-- Vitesse 9 m
+- **Classe d'armure** 20 (armure naturelle)
+- **Points de vie** 210 (20d10+100)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7151,9 +7151,9 @@ seulement en cas de réussite.
 
 # Golem de pierre
 - Créature artificielle de taille G, non-alignée
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 178 (17d10+85)
-- Vitesse 9 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 178 (17d10+85)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7200,9 +7200,9 @@ en cas de réussite.
 
 # Gorgone
 - Créature monstrueuse de taille G, non-alignée
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 114 (12d10+48)
-- Vitesse 12 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 114 (12d10+48)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7249,9 +7249,9 @@ une magie similaire.
 
 # Goule
 - Mort-vivant de taille M, Chaotique Mauvais
-- Classe d'armure 12
-- Points de vie 22 (5d8)
-- Vitesse 9 m
+- **Classe d'armure** 12
+- **Points de vie** 22 (5d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7280,9 +7280,9 @@ Touché : 9 (2d6+2) dégâts perforants.
 
 # Blême
 - Mort-vivant de taille M, Chaotique Mauvais
-- Classe d'armure 13
-- Points de vie 36 (8d8)
-- Vitesse 9 m
+- **Classe d'armure** 13
+- **Points de vie** 36 (8d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7327,9 +7327,9 @@ Touché : 12 (2d8+3) dégâts perforants.
 
 # Grick
 - Créature monstrueuse de taille M, neutre
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 27 (6d8)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 27 (6d8)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7362,9 +7362,9 @@ Touché : 9 (2d6+2) dégâts tranchants.
 
 # Griffon
 - Créature monstrueuse de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 59 (7d10+21)
-- Vitesse 9 m, vol 24 m
+- **Classe d'armure** 12
+- **Points de vie** 59 (7d10+21)
+- **Vitesse** 9 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7394,9 +7394,9 @@ Touché : 11 (2d6+4) dégâts tranchants.
 
 # Guenaude aquatique
 - Fée de taille M, Chaotique Mauvais
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 52 (7d8+21)
-- Vitesse 9 m, nage 12 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 52 (7d8+21)
+- **Vitesse** 9 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7464,9 +7464,9 @@ vie tomber à 0.
 
 # Guenaude nocturne
 - Fiélon de taille M, Neutre Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 112 (15d8+45)
-- Vitesse 9 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 112 (15d8+45)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7530,9 +7530,9 @@ supérieure ou une magie similaire.
 
 # Guenaude verte
 - Fée de taille M, Neutre Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 82 (11d8+33)
-- Vitesse 9 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 82 (11d8+33)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7592,9 +7592,9 @@ deviennent également invisibles.
 
 # Harpie
 - Créature monstrueuse de taille M, Chaotique Mauvais
-- Classe d'armure 11
-- Points de vie 38 (7d8+7)
-- Vitesse 6 m, vol 12 m
+- **Classe d'armure** 11
+- **Points de vie** 38 (7d8+7)
+- **Vitesse** 6 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7646,9 +7646,9 @@ Touché : 6 (2d4+1) dégâts tranchants.
 
 # Hibours
 - Créature monstrueuse de taille G, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 59 (7d10+21)
-- Vitesse 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 59 (7d10+21)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7679,9 +7679,9 @@ Touché : 14 (2d8+5) dégâts tranchants.
 
 # Hippogriffe
 - Créature monstrueuse de taille G, non-alignée
-- Classe d'armure 11
-- Points de vie 19 (3d10+3)
-- Vitesse 12 m, vol 18 m
+- **Classe d'armure** 11
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 12 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7711,9 +7711,9 @@ Touché : 10 (2d6+3) dégâts tranchants.
 
 # Hobgobelin
 - Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
-- Classe d'armure 18 (bouclier, cotte de mailles)
-- Points de vie 11 (2d8+2)
-- Vitesse 9 m
+- **Classe d'armure** 18 (bouclier, cotte de mailles)
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7745,9 +7745,9 @@ dégâts tranchants si elle est maniée à deux mains.
 
 # Hobgobelin, sergent
 - Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
-- Classe d'armure 18 (bouclier, cotte de mailles)
-- Points de vie 29 (5d8+7)
-- Vitesse 9 m
+- **Classe d'armure** 18 (bouclier, cotte de mailles)
+- **Points de vie** 29 (5d8+7)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7784,9 +7784,9 @@ d'un allié situé à 1,50 mètre ou moins de lui.
 
 # Homme-lézard
 - Humanoïde (homme-lézard) de taille M, Neutre
-- Classe d'armure 15 (armure naturelle, bouclier)
-- Points de vie 22 (4d8+4)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 15 (armure naturelle, bouclier)
+- **Points de vie** 22 (4d8+4)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7824,9 +7824,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Homme-lézard, champion
 - Humanoïde (homme-lézard) de taille M, Neutre
-- Classe d'armure 15 (armure naturelle, bouclier)
-- Points de vie 44 (8d8+8)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 15 (armure naturelle, bouclier)
+- **Points de vie** 44 (8d8+8)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7863,9 +7863,9 @@ Javeline. Attaque d'arme au corps à corps ou à distance
 
 # Homme-poisson
 - Humanoïde (homme-poisson) de taille M, Neutre
-- Classe d'armure 11
-- Points de vie 11 (2d8+2)
-- Vitesse 3 m, nage 12 m
+- **Classe d'armure** 11
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 3 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7892,9 +7892,9 @@ mains pour effectuer une attaque au corps à corps.
 
 # Homoncule
 - Créature artificielle de taille TP, neutre
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 5 (2d4)
-- Vitesse 6 m, vol 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 5 (2d4)
+- **Vitesse** 6 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7927,9 +7927,9 @@ inconsciente tant qu'elle est empoisonnée de la sorte.
 
 # Hydre
 - Créature monstrueuse de taille TG, non-alignée
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 172 (15d12+75)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 172 (15d12+75)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -7980,9 +7980,9 @@ perforants.
 
 # Kobold
 - Humanoïde (kobold) de taille P, Loyal Mauvais
-- Classe d'armure 12
-- Points de vie 5 (2d6-2)
-- Vitesse 9 m
+- **Classe d'armure** 12
+- **Points de vie** 5 (2d6-2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8016,9 +8016,9 @@ contondants.
 
 # Kobold, saigneur
 - Humanoïde (kobold) de taille P, Neutre Mauvais
-- Classe d'armure 13
-- Points de vie 17 (5d6)
-- Vitesse 9 m
+- **Classe d'armure** 13
+- **Points de vie** 17 (5d6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8062,9 +8062,9 @@ Touché : 5 (1d4+3) dégâts contondants.
 
 # Kraken
 - Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 472 (27d20+189)
-- Vitesse 6 m, nage 18 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 472 (27d20+189)
+- **Vitesse** 6 m, nage 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8180,9 +8180,9 @@ utilise sa Tempête foudroyante.
 
 # Lamie
 - Créature monstrueuse de taille G, Chaotique Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 97 (13d10+26)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 97 (13d10+26)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8228,9 +8228,9 @@ Touché : 14 (2d10+3) dégâts tranchants.
 
 # Liche
 - Mort-vivant de taille M, alignement Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 135 (18d8+54)
-- Vitesse 9 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 135 (18d8+54)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8323,9 +8323,9 @@ la moitié seulement en cas de réussite.
 
 # Licorne
 - Céleste de taille G, Loyal Bon
-- Classe d'armure 12
-- Points de vie 67 (9d10+18)
-- Vitesse 15 m
+- **Classe d'armure** 12
+- **Points de vie** 67 (9d10+18)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8406,9 +8406,9 @@ par magie 11 (2d8+2) points de vie.
 
 # Loup-garou
 - Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
-- Classe d'armure 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
-- Points de vie 58 (9d8+18)
-- Vitesse 9 m (12 m sous forme de loup)
+- **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
+- **Points de vie** 58 (9d8+18)
+- **Vitesse** 9 m (12 m sous forme de loup)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8460,9 +8460,9 @@ du loup-garou.
 
 # Ours-garou
 - Humanoïde (humain, métamorphe) de taille M, Neutre Bon
-- Classe d'armure 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
-- Points de vie 135 (18d8+54)
-- Vitesse 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)
+- **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
+- **Points de vie** 135 (18d8+54)
+- **Vitesse** 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8514,9 +8514,9 @@ de l'ours-garou.
 
 # Rat-garou
 - Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
-- Classe d'armure 12
-- Points de vie 33 (6d8+6)
-- Vitesse 9 m
+- **Classe d'armure** 12
+- **Points de vie** 33 (6d8+6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8566,9 +8566,9 @@ du rat-garou.
 
 # Sanglier-garou
 - Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
-- Classe d'armure 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
-- Points de vie 78 (12d8+24)
-- Vitesse 9 m (12 m sous forme de sanglier)
+- **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
+- **Points de vie** 78 (12d8+24)
+- **Vitesse** 9 m (12 m sous forme de sanglier)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8625,9 +8625,9 @@ Touché : 10 (2d6+3) dégâts contondants.
 
 # Tigre-garou
 - Humanoïde (humain, métamorphe) de taille M, Neutre
-- Classe d'armure 12
-- Points de vie 120 (16d8+48)
-- Vitesse 9 m (12 m sous forme de tigre)
+- **Classe d'armure** 12
+- **Points de vie** 120 (16d8+48)
+- **Vitesse** 9 m (12 m sous forme de tigre)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8693,9 +8693,9 @@ du tigre-garou.
 
 # Magmatique
 - Élémentaire de taille P, Chaotique Neutre
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 9 (2d6+2)
-- Vitesse 9 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 9 (2d6+2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8737,9 +8737,9 @@ de feu à la fin de chacun de ses tours.
 
 # Manteleur
 - Aberration de taille G, Chaotique Neutre
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 78 (12d10+12)
-- Vitesse 3 m, vol 12 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 78 (12d10+12)
+- **Vitesse** 3 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8822,9 +8822,9 @@ Touché : 7 (1d8+3) dégâts tranchants.
 
 # Mante obscure
 - Créature monstrueuse de taille P, non-alignée
-- Classe d'armure 11
-- Points de vie 22 (5d6+5)
-- Vitesse 3 m, vol 9 m
+- **Classe d'armure** 11
+- **Points de vie** 22 (5d6+5)
+- **Vitesse** 3 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8885,9 +8885,9 @@ déplacement.
 
 # Manticore
 - Créature monstrueuse de taille G, Loyal Mauvais
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 68 (8d10+24)
-- Vitesse 9 m, vol 15 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 68 (8d10+24)
+- **Vitesse** 9 m, vol 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8922,9 +8922,9 @@ Touché : 7 (1d8+3) dégâts perforants.
 
 # Méduse
 - Créature monstrueuse de taille M, Loyal Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 127 (17d8+51)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 127 (17d8+51)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -8990,9 +8990,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Méphite de glace
 - Élémentaire de taille P, Neutre Mauvais
-- Classe d'armure 11
-- Points de vie 21 (6d6)
-- Vitesse 9 m, vol 9 m
+- **Classe d'armure** 11
+- **Points de vie** 21 (6d6)
+- **Vitesse** 9 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9040,9 +9040,9 @@ réussite.
 
 # Méphite de magma
 - Élémentaire de taille P, Neutre Mauvais
-- Classe d'armure 11
-- Points de vie 22 (5d6+5)
-- Vitesse 9 m, vol 9 m
+- **Classe d'armure** 11
+- **Points de vie** 22 (5d6+5)
+- **Vitesse** 9 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9089,9 +9089,9 @@ moitié de ces dégâts seulement en cas de réussite.
 
 # Méphite de poussière
 - Élémentaire de taille P, Neutre Mauvais
-- Classe d'armure 12
-- Points de vie 17 (5d6)
-- Vitesse 9 m, vol 9 m
+- **Classe d'armure** 12
+- **Points de vie** 17 (5d6)
+- **Vitesse** 9 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9137,9 +9137,9 @@ elle est victime en cas de réussite.
 
 # Méphite de vapeur
 - Élémentaire de taille P, Neutre Mauvais
-- Classe d'armure 10
-- Points de vie 21 (6d6)
-- Vitesse 9 m, vol 9 m
+- **Classe d'armure** 10
+- **Points de vie** 21 (6d6)
+- **Vitesse** 9 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9179,9 +9179,9 @@ en cas de réussite.
 
 # Merrow
 - Créature monstrueuse de taille G, Chaotique Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 45 (6d10+12)
-- Vitesse 3 m, nage 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 45 (6d10+12)
+- **Vitesse** 3 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9218,9 +9218,9 @@ Touché : 8 (1d8+4) dégâts perforants.
 
 # Mimique
 - Créature monstrueuse (métamorphe) de taille M, Neutre
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 58 (9d8+18)
-- Vitesse 4,50 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 58 (9d8+18)
+- **Vitesse** 4,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9270,9 +9270,9 @@ de son trait Collante.
 
 # Minotaure
 - Créature monstrueuse de taille G, Chaotique Mauvais
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 76 (9d10+27)
-- Vitesse 12 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 76 (9d10+27)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9316,9 +9316,9 @@ Touché : 17 (2d12+4) dégâts tranchants.
 
 # Molosse infernal
 - Fiélon de taille M, Loyal Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 45 (7d8+14)
-- Vitesse 15 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 45 (7d8+14)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9358,9 +9358,9 @@ seulement en cas de réussite.
 
 # Momie
 - Mort-vivant de taille M, Loyal Mauvais
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 58 (9d8+18)
-- Vitesse 6 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 58 (9d8+18)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9411,9 +9411,9 @@ momies augustes) pendant 24 heures.
 
 # Momie auguste
 - Mort-vivant de taille M, Loyal Mauvais
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 97 (13d8+39)
-- Vitesse 6 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 97 (13d8+39)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9537,9 +9537,9 @@ en sa possession.
 
 # Naga corrupteur
 - Créature monstrueuse de taille G, Chaotique Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 75 (10d10+20)
-- Vitesse 12 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 75 (10d10+20)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9590,9 +9590,9 @@ seulement en cas de réussite.
 
 # Naga gardien
 - Créature monstrueuse de taille G, Loyal Bon
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 127 (15d10+45)
-- Vitesse 12 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 127 (15d10+45)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9649,9 +9649,9 @@ dégâts seulement en cas de réussite.
 
 # Nécrophage
 - Mort-vivant de taille M, Neutre Mauvais
-- Classe d'armure 14 (armure de cuir clouté)
-- Points de vie 45 (6d8+18)
-- Vitesse 9 m
+- **Classe d'armure** 14 (armure de cuir clouté)
+- **Points de vie** 45 (6d8+18)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9704,9 +9704,9 @@ dégâts tranchants si elle est maniée à deux mains.
 
 # Armure animée
 - Créature artificielle de taille M, non-alignée
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 33 (6d8+6)
-- Vitesse 7,50 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 33 (6d8+6)
+- **Vitesse** 7,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9742,9 +9742,9 @@ Touché : 5 (1d6+2) dégâts contondants.
 
 # Épée volante
 - Créature artificielle de taille P, non-alignée
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 17 (5d6)
-- Vitesse 0 m, vol 15 m (vol stationnaire)
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 17 (5d6)
+- **Vitesse** 0 m, vol 15 m (vol stationnaire)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9778,9 +9778,9 @@ pour toucher, allonge 1,50 m, une cible. Touché : 5
 
 # Tapis étrangleur
 - Créature artificielle de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 33 (6d10)
-- Vitesse 3 m
+- **Classe d'armure** 12
+- **Points de vie** 33 (6d10)
+- **Vitesse** 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9822,9 +9822,9 @@ celle-ci subit 10 (2d6+3) dégâts contondants.
 
 # Ogre
 - Géant de taille G, Chaotique Mauvais
-- Classe d'armure 11 (armure de peau)
-- Points de vie 59 (7d10+21)
-- Vitesse 12 m
+- **Classe d'armure** 11 (armure de peau)
+- **Points de vie** 59 (7d10+21)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9847,9 +9847,9 @@ Touché : 13 (2d8+4) dégâts contondants.
 
 # Ombre
 - Mort-vivant de taille M, Chaotique Mauvais
-- Classe d'armure 12
-- Points de vie 16 (3d8+3)
-- Vitesse 12 m
+- **Classe d'armure** 12
+- **Points de vie** 16 (3d8+3)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9894,9 +9894,9 @@ cadavre après 1d4 heures.
 
 # Oni
 - Géant de taille G, Loyal Mauvais
-- Classe d'armure 16 (cotte de mailles)
-- Points de vie 110 (13d10+39)
-- Vitesse 9 m, vol 9 m
+- **Classe d'armure** 16 (cotte de mailles)
+- **Points de vie** 110 (13d10+39)
+- **Vitesse** 9 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9950,9 +9950,9 @@ une cible. Touché : 8 (1d8+4) dégâts tranchants.
 
 # Orc
 - Humanoïde (orc) de taille M, Chaotique Mauvais
-- Classe d'armure 13 (armure de peau)
-- Points de vie 15 (2d8+6)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure de peau)
+- **Points de vie** 15 (2d8+6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -9981,9 +9981,9 @@ cible. Touché : 6 (1d6+3) dégâts perforants.
 
 # Chaman orc
 - Humanoïde (demi-orc) de taille Neutre Mauvais
-- Classe d'armure 13 (armure de cuir)
-- Points de vie 33 (6d8+6)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure de cuir)
+- **Points de vie** 33 (6d8+6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10022,9 +10022,9 @@ Masse. Attaque d'arme au corps à corps ou à distance :
 
 # Otyugh
 - Aberration de taille G, Neutre
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 114 (12d10+48)
-- Vitesse 9 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 114 (12d10+48)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10084,9 +10084,9 @@ peut empoigner une cible.
 
 # Oxydeur
 - Créature monstrueuse de taille M, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 27 (5d8+5)
-- Vitesse 12 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 27 (5d8+5)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10135,9 +10135,9 @@ Touché : 5 (1d8+1) dégâts perforants.
 
 # Parasite arcanique
 - Aberration de taille TP, Neutre
-- Classe d'armure 12
-- Points de vie 7 (2d6)
-- Vitesse 9 m au sol
+- **Classe d'armure** 12
+- **Points de vie** 7 (2d6)
+- **Vitesse** 9 m au sol
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10201,9 +10201,9 @@ en s'arrachant, le rostre occasionne à nouveau
 
 # Pégase
 - Céleste de taille G, Chaotique Bon
-- Classe d'armure 12
-- Points de vie 59 (7d10+21)
-- Vitesse 18 m, vol 27 m
+- **Classe d'armure** 12
+- **Points de vie** 59 (7d10+21)
+- **Vitesse** 18 m, vol 27 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10224,9 +10224,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 # Pseudodragon
 - Dragon de taille TP, Neutre Bon
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 7 (2d4+2)
-- Vitesse 4,50 m, vol 18 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 7 (2d4+2)
+- **Vitesse** 4,50 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10270,9 +10270,9 @@ Touché : 4 (1d4+2) dégâts perforants.
 
 # Rakshasa
 - Fiélon de taille M, Loyal Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 110 (13d8+52)
-- Vitesse 12 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 110 (13d8+52)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10322,9 +10322,9 @@ malédictions ou une magie similaire.
 
 # Remorhaz
 - Créature monstrueuse de taille TG, non-alignée
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 195 (17d12+85)
-- Vitesse 9 m, fouissement 6 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 195 (17d12+85)
+- **Vitesse** 9 m, fouissement 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10375,9 +10375,9 @@ ne peut pas mordre une autre cible.
 
 # Roc
 - Créature monstrueuse de taille Gig, non-alignée
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 248 (16d20+80)
-- Vitesse 6 m, vol 36 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 248 (16d20+80)
+- **Vitesse** 6 m, vol 36 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10411,9 +10411,9 @@ utiliser ses serres sur une autre cible.
 
 # Sahuagin
 - Humanoïde (sahuagin) de taille M, Loyal Mauvais
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 22 (4d8+4)
-- Vitesse 9 m, nage 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 22 (4d8+4)
+- **Vitesse** 9 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10459,9 +10459,9 @@ Touché : 3 (1d4+1) dégâts perforants.
 
 # Sahuagin, prêtresse de Mikala
 - Humanoïde (sahuagin) de taille M, Loyal Mauvais
-- Classe d'armure 14 (armure de coquillages)
-- Points de vie 50 (9d8+9)
-- Vitesse 9 m, nage 12 m
+- **Classe d'armure** 14 (armure de coquillages)
+- **Points de vie** 50 (9d8+9)
+- **Vitesse** 9 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10531,9 +10531,9 @@ Touché : 3 (1d4+1) dégâts perforants.
 
 # Salamandre
 - Élémentaire de taille G, Neutre Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 90 (12d10+24)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 90 (12d10+24)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10579,9 +10579,9 @@ d'attaque de queue contre d'autres cibles.
 
 # Satyre
 - Fée de taille M, Chaotique Neutre
-- Classe d'armure 14 (armure de cuir)
-- Points de vie 31 (7d8)
-- Vitesse 12 m
+- **Classe d'armure** 14 (armure de cuir)
+- **Points de vie** 31 (7d8)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10613,9 +10613,9 @@ Touché : 6 (1d6+3) dégâts perforants.
 
 # Saule étrangleur
 - Plante de taille TG, non-alignée
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 115 (10d12+50)
-- Vitesse 0 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 115 (10d12+50)
+- **Vitesse** 0 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10666,9 +10666,9 @@ empoignant la créature.
 
 # Serpent de mer
 - Créature monstrueuse de taille Gig, non-alignée
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 231 (14d20+84)
-- Vitesse nage 15 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 231 (14d20+84)
+- **Vitesse** nage 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10732,9 +10732,9 @@ de Force DD 20 pour ne pas tomber à terre.
 
 # Spectre
 - Mort-vivant de taille M, Chaotique Mauvais
-- Classe d'armure 12
-- Points de vie 22 (5d8)
-- Vitesse 0 m, vol 15 m
+- **Classe d'armure** 12
+- **Points de vie** 22 (5d8)
+- **Vitesse** 0 m, vol 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10774,9 +10774,9 @@ de points de vie.
 
 # Androsphinx
 - Créature monstrueuse de taille G, Loyal Neutre
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 199 (19d10+95)
-- Vitesse 12 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 199 (19d10+95)
+- **Vitesse** 12 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10878,9 +10878,9 @@ de 36 mètres.
 
 # Gynosphinx
 - Créature monstrueuse de taille G, Loyal Neutre
-- Classe d'armure 17 (armure naturelle)
-- Points de vie 136 (16d10+48)
-- Vitesse 12 m, vol 18 m
+- **Classe d'armure** 17 (armure naturelle)
+- **Points de vie** 136 (16d10+48)
+- **Vitesse** 12 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10954,9 +10954,9 @@ de 36 mètres.
 
 # Squelette
 - Mort-vivant de taille M, Loyal Mauvais
-- Classe d'armure 13 (débris d'armure)
-- Points de vie 13 (2d8+4)
-- Vitesse 9 m
+- **Classe d'armure** 13 (débris d'armure)
+- **Points de vie** 13 (2d8+4)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -10981,9 +10981,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Squelette cheval de guerre
 - Mort-vivant de taille G, Loyal Mauvais
-- Classe d'armure 13 (débris de barde)
-- Points de vie 22 (3d10+6)
-- Vitesse 18 m
+- **Classe d'armure** 13 (débris de barde)
+- **Points de vie** 22 (3d10+6)
+- **Vitesse** 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11005,9 +11005,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 # Squelette minotaure
 - Mort-vivant de taille G, Loyal Mauvais
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 67 (9d10+18)
-- Vitesse 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 67 (9d10+18)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11043,9 +11043,9 @@ Touché : 17 (2d12+4) dégâts tranchants.
 
 # Strige
 - Bête de taille TP, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 2 (1d4)
-- Vitesse 3 m, vol 12 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 2 (1d4)
+- **Vitesse** 3 m, vol 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11074,9 +11074,9 @@ arracher la strige.
 
 # Succube/Incube
 - Fiélon (métamorphe) de taille M, Neutre Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 66 (12d8+12)
-- Vitesse 9 m, vol 18 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 66 (12d8+12)
+- **Vitesse** 9 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11141,9 +11141,9 @@ une cible ; Touché : 6 (1d6+3) dégâts tranchants.
 
 # Sylvanien
 - Plante de taille TG, Chaotique Bonne
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 138 (12d12+60)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 138 (12d12+60)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11190,9 +11190,9 @@ possible, l'arbre prend alors racine.
 
 # Tarasque
 - Créature monstrueuse (titan) de taille Gig, non-alignée
-- Classe d'armure 25 (armure naturelle)
-- Points de vie 676 (33d20+330)
-- Vitesse 12 m
+- **Classe d'armure** 25 (armure naturelle)
+- **Points de vie** 676 (33d20+330)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11300,9 +11300,9 @@ attaque de morsure ou utilise son action Engloutir.
 
 # Terreur des roches
 - Créature monstrueuse de taille G, Neutre Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 102 (12d10+36)
-- Vitesse 9 m, fouissement 6 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 102 (12d10+36)
+- **Vitesse** 9 m, fouissement 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11358,9 +11358,9 @@ chaque round pour mettre fin à cet état spécial.
 
 # Larve des roches
 - Créature monstrueuse de taille M, Neutre
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 32 (5d8+10)
-- Vitesse 6 m, fouissement 6 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 32 (5d8+10)
+- **Vitesse** 6 m, fouissement 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11392,9 +11392,9 @@ round pour mettre fin à cet état spécial.
 
 # Tertre errant
 - Plante de taille G, non-alignée
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 136 (16d10+48)
-- Vitesse 6 m, nage 6 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 136 (16d10+48)
+- **Vitesse** 6 m, nage 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11438,9 +11438,9 @@ envelopper plus d'une créature à la fois.
 
 # Torve
 - Humanoïde (torve) de taille M, Neutre Mauvais
-- Classe d'armure 11
-- Points de vie 11 (2d8+2)
-- Vitesse 9 m
+- **Classe d'armure** 11
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11475,9 +11475,9 @@ cible. Touché : 5 (1d4+3) dégâts contondants plus
 
 # Traqueur invisible
 - Élémentaire de taille M, neutre
-- Classe d'armure 14
-- Points de vie 104 (16d8+32)
-- Vitesse 15 m, vol 15 m (vol stationnaire)
+- **Classe d'armure** 14
+- **Points de vie** 104 (16d8+32)
+- **Vitesse** 15 m, vol 15 m (vol stationnaire)
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11511,9 +11511,9 @@ Touché : 10 (2d6+3) dégâts contondants.
 
 # Troll
 - Géant de taille G, Chaotique Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 84 (8d10+40)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 84 (8d10+40)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11550,9 +11550,9 @@ Touché : 7 (1d6+4) dégâts perforants.
 
 # Vampire
 - Mort-vivant (métamorphe) de taille M, Loyal Mauvais
-- Classe d'armure 16 (armure naturelle)
-- Points de vie 144 (17d8+68)
-- Vitesse 9 m
+- **Classe d'armure** 16 (armure naturelle)
+- **Points de vie** 144 (17d8+68)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11720,9 +11720,9 @@ attaque de morsure.
 
 # Vampirien
 - Mort-vivant de taille M, Neutre Mauvais
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 82 (11d8+33)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 82 (11d8+33)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11790,9 +11790,9 @@ maximum de points de vie.
 
 # Cube gélatineux
 - Vase de taille G, non-alignée
-- Classe d'armure 6
-- Points de vie 84 (8d10+40)
-- Vitesse 4,50 m
+- **Classe d'armure** 6
+- **Points de vie** 84 (8d10+40)
+- **Vitesse** 4,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11861,9 +11861,9 @@ Touché : 10 (3d6) dégâts d'acide.
 
 # Gelée ocre
 - Vase de taille G, non-alignée
-- Classe d'armure 8
-- Points de vie 45 (6d10+12)
-- Vitesse 3 m, escalade 3 m
+- **Classe d'armure** 8
+- **Points de vie** 45 (6d10+12)
+- **Vitesse** 3 m, escalade 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11905,9 +11905,9 @@ d'une catégorie inférieure à la gelée d'origine.
 
 # Pouding noir
 - Vase de taille G, non-alignée
-- Classe d'armure 7
-- Points de vie 85 (10d10+30)
-- Vitesse 6 m, escalade 6 m
+- **Classe d'armure** 7
+- **Points de vie** 85 (10d10+30)
+- **Vitesse** 6 m, escalade 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -11965,9 +11965,9 @@ est d'une catégorie inférieure à celui d'origine.
 
 # Vase grise
 - Vase de taille M, non-alignée
-- Classe d'armure 8
-- Points de vie 22 (3d8+9)
-- Vitesse 3 m, escalade 3 m
+- **Classe d'armure** 8
+- **Points de vie** 22 (3d8+9)
+- **Vitesse** 3 m, escalade 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12013,9 +12013,9 @@ détruite si le malus réduit à 10 sa CA.
 
 # Ver pourpre
 - Créature monstrueuse de taille Gig, non-alignée
-- Classe d'armure 18 (armure naturelle)
-- Points de vie 247 (15d20+90)
-- Vitesse 15 m, fouissement 9 m
+- **Classe d'armure** 18 (armure naturelle)
+- **Points de vie** 247 (15d20+90)
+- **Vitesse** 15 m, fouissement 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12068,9 +12068,9 @@ sortent à terre.
 
 # Vouivre
 - Dragon de taille G, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 110 (13d10+39)
-- Vitesse 6 m, vol 24 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 110 (13d10+39)
+- **Vitesse** 6 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12113,9 +12113,9 @@ Touché : 11 (2d6+4) dégâts perforants.
 
 # Xorn
 - Élémentaire de taille M, Neutre
-- Classe d'armure 19 (armure naturelle)
-- Points de vie 73 (7d8+42)
-- Vitesse 6 m, fouissement 6 m
+- **Classe d'armure** 19 (armure naturelle)
+- **Points de vie** 73 (7d8+42)
+- **Vitesse** 6 m, fouissement 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12156,9 +12156,9 @@ Touché : 13 (3d6+3) dégâts perforants.
 
 # Zombi
 - Mort-vivant de taille M, Neutre Mauvais
-- Classe d'armure 8
-- Points de vie 22 (3d8+9)
-- Vitesse 6 m
+- **Classe d'armure** 8
+- **Points de vie** 22 (3d8+9)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12189,9 +12189,9 @@ Touché : 4 (1d6+1) dégâts contondants.
 
 # Zombi ogre
 - Mort-vivant de taille G, Neutre Mauvais
-- Classe d'armure 8
-- Points de vie 85 (9d10+36)
-- Vitesse 9 m
+- **Classe d'armure** 8
+- **Points de vie** 85 (9d10+36)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12223,9 +12223,9 @@ Touché : 13 (2d8+4) dégâts contondants.
 
 # Aigle
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 3 (1d6)
-- Vitesse 3 m, vol 18 m
+- **Classe d'armure** 12
+- **Points de vie** 3 (1d6)
+- **Vitesse** 3 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12250,9 +12250,9 @@ dégâts tranchants.
 
 # Aigle géant
 - Bête de taille G, neutre bon
-- Classe d'armure 13
-- Points de vie 26 (4d10+4)
-- Vitesse 3 m, vol 24 m
+- **Classe d'armure** 13
+- **Points de vie** 26 (4d10+4)
+- **Vitesse** 3 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12287,9 +12287,9 @@ comme des aigles normaux).
 
 # Araignée
 - Bête de taille TP, non-alignée
-- Classe d'armure 12
-- Points de vie 1 (1d4-1)
-- Vitesse 6 m, escalade 6 m
+- **Classe d'armure** 12
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 6 m, escalade 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12325,9 +12325,9 @@ pas subir 2 (1d4) dégâts de poison.
 
 # Araignée de phase
 - Bête de taille G, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 32 (5d10+5)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 32 (5d10+5)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12375,9 +12375,9 @@ faire penser à de la téléportation.
 
 # Araignée géante
 - Bête de taille G, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 26 (4d10+4)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 26 (4d10+4)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12435,9 +12435,9 @@ de cocons de toile contenant leurs précédentes victimes.
 
 # Araignée-loup géante
 - Bête de taille M, non-alignée
-- Classe d'armure 13
-- Points de vie 11 (2d8+2)
-- Vitesse 12 m, escalade 12 m
+- **Classe d'armure** 13
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 12 m, escalade 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12484,9 +12484,9 @@ fissures ou des cavités dissimulées sous des débris.
 
 # Arbre éveillé
 - Plante de taille TG, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 59 (7d12+14)
-- Vitesse 6 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 59 (7d12+14)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12516,9 +12516,9 @@ sort d'éveil ou une magie similaire.
 
 # Arbuste éveillé
 - Plante de taille P, non-alignée
-- Classe d'armure 9
-- Points de vie 10 (3d6)
-- Vitesse 6 m
+- **Classe d'armure** 9
+- **Points de vie** 10 (3d6)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12548,9 +12548,9 @@ grâce au sort d'éveil ou une magie similaire.
 
 # Babouin
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 3 (1d6)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 12
+- **Points de vie** 3 (1d6)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12577,9 +12577,9 @@ Touché : 1 (1d4-1) dégâts perforants.
 
 # Bec de hache
 - Bête de taille G, non-alignée
-- Classe d'armure 11
-- Points de vie 19 (3d10+3)
-- Vitesse 15 m
+- **Classe d'armure** 11
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12602,9 +12602,9 @@ créatures inhabituelles approchant de trop près.
 
 # Belette
 - Bête de taille TP, non-alignée
-- Classe d'armure 13
-- Points de vie 1 (1d4-1)
-- Vitesse 9 m
+- **Classe d'armure** 13
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12630,9 +12630,9 @@ Touché : 1 dégât perforant.
 
 # Belette géante
 - Bête de taille M, non-alignée
-- Classe d'armure 13
-- Points de vie 9 (2d8)
-- Vitesse 12 m
+- **Classe d'armure** 13
+- **Points de vie** 9 (2d8)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12658,9 +12658,9 @@ Touché : 5 (1d4+3) dégâts perforants.
 
 # Blaireau
 - Bête de taille TP, non-alignée
-- Classe d'armure 10
-- Points de vie 3 (1d4+1)
-- Vitesse 6 m, fouissement 1,50 m
+- **Classe d'armure** 10
+- **Points de vie** 3 (1d4+1)
+- **Vitesse** 6 m, fouissement 1,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12684,9 +12684,9 @@ Touché : 1 dégât perforant.
 
 # Blaireau géant
 - Bête de taille M, non-alignée
-- Classe d'armure 10
-- Points de vie 13 (2d8+4)
-- Vitesse 9 m, fouissement 3 m
+- **Classe d'armure** 10
+- **Points de vie** 13 (2d8+4)
+- **Vitesse** 9 m, fouissement 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12716,9 +12716,9 @@ Touché : 4 (1d6+1) dégâts perforants.
 
 # Chacal
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 3 (1d6)
-- Vitesse 12 m
+- **Classe d'armure** 12
+- **Points de vie** 3 (1d6)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12749,9 +12749,9 @@ Touché : 1 (1d4-1) dégâts perforants.
 
 # Chameau
 - Bête de taille G, non-alignée
-- Classe d'armure 9
-- Points de vie 15 (2d10+4)
-- Vitesse 15 m
+- **Classe d'armure** 9
+- **Points de vie** 15 (2d10+4)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12770,9 +12770,9 @@ Touché : 2 (1d4) dégâts contondants.
 
 # Chat
 - Bête de taille TP, non-alignée
-- Classe d'armure 12
-- Points de vie 2 (1d4)
-- Vitesse 12 m, escalade 9 m
+- **Classe d'armure** 12
+- **Points de vie** 2 (1d4)
+- **Vitesse** 12 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12797,9 +12797,9 @@ Touché : 1 dégât tranchant.
 
 # Chauve-souris
 - Bête de taille TP, non-alignée
-- Classe d'armure 12
-- Points de vie 1 (1d4-1)
-- Vitesse 1,50 m, vol 9 m
+- **Classe d'armure** 12
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 1,50 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12825,9 +12825,9 @@ Touché : 1 dégât perforant.
 
 # Chauve-souris géante
 - Bête de taille G, non-alignée
-- Classe d'armure 13
-- Points de vie 22 (4d10)
-- Vitesse 3 m, vol 18 m
+- **Classe d'armure** 13
+- **Points de vie** 22 (4d10)
+- **Vitesse** 3 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12853,9 +12853,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Cheval de guerre
 - Bête de taille G, non-alignée
-- Classe d'armure 11
-- Points de vie 19 (3d10+3)
-- Vitesse 18 m
+- **Classe d'armure** 11
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12885,9 +12885,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 # Cheval de guerre céleste
 - Bête de taille G, Loyal Bon
-- Classe d'armure 13
-- Points de vie 59 (7d10+21)
-- Vitesse 18 m
+- **Classe d'armure** 13
+- **Points de vie** 59 (7d10+21)
+- **Vitesse** 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12941,9 +12941,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 # Cheval de guerre lourd
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 37 (5d10+10)
-- Vitesse 18 m
+- **Classe d'armure** 12
+- **Points de vie** 37 (5d10+10)
+- **Vitesse** 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -12983,9 +12983,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 # Cheval de selle
 - Bête de taille G, non-alignée
-- Classe d'armure 10
-- Points de vie 13 (2d10+2)
-- Vitesse 18 m
+- **Classe d'armure** 10
+- **Points de vie** 13 (2d10+2)
+- **Vitesse** 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13004,9 +13004,9 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 # Cheval de trait
 - Bête de taille G, non-alignée
-- Classe d'armure 10
-- Points de vie 19 (3d10+3)
-- Vitesse 12 m
+- **Classe d'armure** 10
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13025,9 +13025,9 @@ Touché : 9 (2d4+4) dégâts contondants.
 
 # Chèvre
 - Bête de taille M, non-alignée
-- Classe d'armure 10
-- Points de vie 4 (1d8)
-- Vitesse 12 m
+- **Classe d'armure** 10
+- **Points de vie** 4 (1d8)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13060,9 +13060,9 @@ Touché : 3 (1d4+1) dégâts contondants.
 
 # Chèvre géante
 - Bête de taille G, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 19 (3d10+3)
-- Vitesse 12 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13095,9 +13095,9 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 # Chevreuil
 - Bête de taille M, non-alignée
-- Classe d'armure 13
-- Points de vie 4 (1d8)
-- Vitesse 15 m
+- **Classe d'armure** 13
+- **Points de vie** 4 (1d8)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13116,9 +13116,9 @@ Touché : 2 (1d4) dégâts perforants.
 
 # Chien du trépas
 - Créature monstrueuse de taille M, Neutre Mauvais
-- Classe d'armure 12
-- Points de vie 39 (6d8+12)
-- Vitesse 12 m
+- **Classe d'armure** 12
+- **Points de vie** 39 (6d8+12)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13164,9 +13164,9 @@ détachent peu à peu des os.
 
 # Chien esquiveur
 - Fée de taille M, Loyal Bon
-- Classe d'armure 13
-- Points de vie 22 (4d8+4)
-- Vitesse 12 m
+- **Classe d'armure** 13
+- **Points de vie** 22 (4d8+4)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13203,9 +13203,9 @@ qu'ils attaquent à vue.
 
 # Chouette
 - Bête de taille TP, non-alignée
-- Classe d'armure 11
-- Points de vie 1 (1d4-1)
-- Vitesse 1,50 m, vol 18 m
+- **Classe d'armure** 11
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 1,50 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13234,9 +13234,9 @@ Touché : 1 dégât tranchant.
 
 # Chouette géante
 - Bête de taille G, neutre
-- Classe d'armure 12
-- Points de vie 19 (3d10+3)
-- Vitesse 1,50 m, vol 18 m
+- **Classe d'armure** 12
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 1,50 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13268,9 +13268,9 @@ royaumes forestiers.
 
 # Corbeau
 - Bête de taille TP, non-alignée
-- Classe d'armure 12
-- Points de vie 1 (1d4-1)
-- Vitesse 3 m, vol 15 m
+- **Classe d'armure** 12
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 3 m, vol 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13299,9 +13299,9 @@ Touché : 1 dégât perforant.
 
 # Crabe
 - Bête de taille TP, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 2 (1d4)
-- Vitesse 6 m, nage 6 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 2 (1d4)
+- **Vitesse** 6 m, nage 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13326,9 +13326,9 @@ Touché : 1 dégât contondant.
 
 # Crabe géant
 - Bête de taille M, non-alignée
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 13 (3d8)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 13 (3d8)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13355,9 +13355,9 @@ chacune ne peut empoigner qu'une seule cible.
 
 # Crapaud géant
 - Bête de taille G, non-alignée
-- Classe d'armure 11
-- Points de vie 39 (6d10+6)
-- Vitesse 6 m, nage 12 m
+- **Classe d'armure** 11
+- **Points de vie** 39 (6d10+6)
+- **Vitesse** 6 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13401,9 +13401,9 @@ autre cible.
 
 # Crocodile
 - Bête de taille G, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 19 (3d10+3)
-- Vitesse 6 m, nage 9 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 6 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13431,9 +13431,9 @@ peut pas mordre une autre cible.
 
 # Crocodile géant
 - Bête de taille TG, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 85 (9d12+27)
-- Vitesse 9 m, nage 15 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 85 (9d12+27)
+- **Vitesse** 9 m, nage 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13469,9 +13469,9 @@ de Force DD 16 pour ne pas être jetée au sol.
 
 # Élan
 - Bête de taille G, non-alignée
-- Classe d'armure 10
-- Points de vie 13 (2d10+2)
-- Vitesse 15 m
+- **Classe d'armure** 10
+- **Points de vie** 13 (2d10+2)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13504,9 +13504,9 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 # Élan géant
 - Bête de taille TG, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 42 (5d12+10)
-- Vitesse 18 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 42 (5d12+10)
+- **Vitesse** 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13547,9 +13547,9 @@ chasse de ces créatures attise la colère divine.
 
 # Éléphant
 - Bête de taille TG, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 76 (8d12+24)
-- Vitesse 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 76 (8d12+24)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13582,9 +13582,9 @@ terre. Touché : 22 (3d10+6) dégâts contondants.
 
 # Épaulard
 - Bête de taille TG, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 90 (12d12+12)
-- Vitesse 0 m, nage 18 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 90 (12d12+12)
+- **Vitesse** 0 m, nage 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13613,9 +13613,9 @@ Touché : 21 (5d6+4) dégâts perforants.
 
 # Faucon
 - Bête de taille TP, non-alignée
-- Classe d'armure 13
-- Points de vie 1 (1d4-1)
-- Vitesse 3 m, vol 18 m
+- **Classe d'armure** 13
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 3 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13640,9 +13640,9 @@ tranchant.
 
 # Faucon de sang
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 7 (2d6)
-- Vitesse 3 m, vol 18 m
+- **Classe d'armure** 12
+- **Points de vie** 7 (2d6)
+- **Vitesse** 3 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13678,9 +13678,9 @@ leurs proies.
 
 # Grand singe
 - Bête de taille M, non-alignée
-- Classe d'armure 12
-- Points de vie 19 (3d8+6)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 12
+- **Points de vie** 19 (3d8+6)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13705,9 +13705,9 @@ contondants.
 
 # Grenouille
 - Bête de taille TP, non-alignée
-- Classe d'armure 11
-- Points de vie 1 (1d4-1)
-- Vitesse 6 m, nage 6 m
+- **Classe d'armure** 11
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 6 m, nage 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13734,9 +13734,9 @@ servir à représenter un crapaud.
 
 # Grenouille géante
 - Bête de taille M, non-alignée
-- Classe d'armure 11
-- Points de vie 18 (4d8)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 11
+- **Points de vie** 18 (4d8)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13780,9 +13780,9 @@ peut pas mordre une autre cible.
 
 # Guêpe géante
 - Bête de taille M, non-alignée
-- Classe d'armure 12
-- Points de vie 13 (3d8)
-- Vitesse 3 m, vol 15 m
+- **Classe d'armure** 12
+- **Points de vie** 13 (3d8)
+- **Vitesse** 3 m, vol 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13809,9 +13809,9 @@ paralysée tant que le poison continue de faire effet.
 
 # Hibou
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 3 (1d6)
-- Vitesse 3 m, vol 18 m
+- **Classe d'armure** 12
+- **Points de vie** 3 (1d6)
+- **Vitesse** 3 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13836,9 +13836,9 @@ Touché : 4 (1d4+2) dégâts tranchants.
 
 # Hibou géant
 - Bête de taille G, neutre bon
-- Classe d'armure 13
-- Points de vie 26 (4d10+4)
-- Vitesse 3 m, vol 24 m
+- **Classe d'armure** 13
+- **Points de vie** 26 (4d10+4)
+- **Vitesse** 3 m, vol 24 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13875,9 +13875,9 @@ jamais attesté.
 
 # Hippocampe
 - Bête de taille TP, non-alignée
-- Classe d'armure 11
-- Points de vie 1 (1d4-1)
-- Vitesse 0 m, nage 6 m
+- **Classe d'armure** 11
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 0 m, nage 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13895,9 +13895,9 @@ uniquement sous l'eau.
 
 # Hippocampe géant
 - Bête de taille G, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 16 (3d10)
-- Vitesse 0 m, nage 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 16 (3d10)
+- **Vitesse** 0 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13932,9 +13932,9 @@ les dressent pour pouvoir les chevaucher.
 
 # Hyène
 - Bête de taille M, non-alignée
-- Classe d'armure 11
-- Points de vie 5 (1d8+1)
-- Vitesse 15 m
+- **Classe d'armure** 11
+- **Points de vie** 5 (1d8+1)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13962,9 +13962,9 @@ Touché : 3 (1d6) dégâts perforants.
 
 # Hyène géante
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 45 (6d10+12)
-- Vitesse 15 m
+- **Classe d'armure** 12
+- **Points de vie** 45 (6d10+12)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -13993,9 +13993,9 @@ Touché : 10 (2d6+3) dégâts perforants.
 
 # Lézard
 - Bête de taille TP, non-alignée
-- Classe d'armure 10
-- Points de vie 2 (1d4)
-- Vitesse 6 m, escalade 6 m
+- **Classe d'armure** 10
+- **Points de vie** 2 (1d4)
+- **Vitesse** 6 m, escalade 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14014,9 +14014,9 @@ perforant.
 
 # Lézard géant
 - Bête de taille G, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 19 (3d10+3)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 19 (3d10+3)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14041,9 +14041,9 @@ habitants de l'Ombreterre.
 
 # Lion
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 26 (4d10+4)
-- Vitesse 15 m
+- **Classe d'armure** 12
+- **Points de vie** 26 (4d10+4)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14087,9 +14087,9 @@ Touché : 7 (1d8+3) dégâts perforants.
 
 # Loup
 - Bête de taille M, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 11 (2d8+2)
-- Vitesse 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14122,9 +14122,9 @@ de Force DD 11 pour ne pas être jetée à terre.
 
 # Loup arctique
 - Créature monstrueuse de taille G, Neutre Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 75 (10d10+20)
-- Vitesse 15 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 75 (10d10+20)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14178,9 +14178,9 @@ pour mener une conversation basique.
 
 # Loup sanguinaire
 - Bête de taille G, non-alignée
-- Classe d'armure 14 (armure naturelle)
-- Points de vie 37 (5d10+10)
-- Vitesse 15 m
+- **Classe d'armure** 14 (armure naturelle)
+- **Points de vie** 37 (5d10+10)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14213,9 +14213,9 @@ de Force DD 13 pour ne pas être jetée à terre.
 
 # Mammouth
 - Bête de taille TG, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 126 (11d12+55)
-- Vitesse 12 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 126 (11d12+55)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14252,9 +14252,9 @@ vivent sous divers climats, du subarctique au subtropical.
 
 # Mastiff
 - Bête de taille M, non-alignée
-- Classe d'armure 12
-- Points de vie 5 (1d8+1)
-- Vitesse 12 m
+- **Classe d'armure** 12
+- **Points de vie** 5 (1d8+1)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14287,9 +14287,9 @@ et autres humanoïdes de petite taille.
 
 # Mille-pattes géant
 - Bête de taille P, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 4 (1d6+1)
-- Vitesse 9 m, escalade 9 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 4 (1d6+1)
+- **Vitesse** 9 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14315,9 +14315,9 @@ continue de faire effet.
 
 # Mule
 - Bête de taille M, non-alignée
-- Classe d'armure 10
-- Points de vie 11 (2d8+2)
-- Vitesse 12 m
+- **Classe d'armure** 10
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14345,9 +14345,9 @@ Touché : 4 (1d4+2) dégâts contondants.
 
 # Nuée de chauve-souris
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
-- Classe d'armure 12
-- Points de vie 22 (5d8)
-- Vitesse 0 m, vol 9 m
+- **Classe d'armure** 12
+- **Points de vie** 22 (5d8)
+- **Vitesse** 0 m, vol 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14383,9 +14383,9 @@ moins la moitié de ses points de vie.
 
 # Nuée de corbeaux
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
-- Classe d'armure 12
-- Points de vie 24 (7d8-7)
-- Vitesse 3 m, vol 15 m
+- **Classe d'armure** 12
+- **Points de vie** 24 (7d8-7)
+- **Vitesse** 3 m, vol 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14418,9 +14418,9 @@ moins la moitié de ses points de vie.
 
 # Nuée de piranhas
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
-- Classe d'armure 13
-- Points de vie 28 (8d8-8)
-- Vitesse 0 m, nage 12 m
+- **Classe d'armure** 13
+- **Points de vie** 28 (8d8-8)
+- **Vitesse** 0 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14456,9 +14456,9 @@ moins la moitié de ses points de vie.
 
 # Nuée de rats
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
-- Classe d'armure 10
-- Points de vie 24 (7d8-7)
-- Vitesse 9 m
+- **Classe d'armure** 10
+- **Points de vie** 24 (7d8-7)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14491,9 +14491,9 @@ moins la moitié de ses points de vie.
 
 # Nuée de serpents venimeux
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
-- Classe d'armure 14
-- Points de vie 36 (8d8)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 14
+- **Points de vie** 36 (8d8)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14529,9 +14529,9 @@ seulement en cas de réussite.
 
 # Nuée d'insectes
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 22 (5d8)
-- Vitesse 6 m, escalade 6 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 22 (5d8)
+- **Vitesse** 6 m, escalade 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14592,9 +14592,9 @@ et défendent farouchement leur territoire et leurs
 petits.
 Ours brun
 Bête de taille G, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 34 (4d10+12)
-- Vitesse 12 m, escalade 9 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 34 (4d10+12)
+- **Vitesse** 12 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14624,9 +14624,9 @@ Touché : 8 (1d8+4) dégâts perforants.
 
 # Ours noir
 - Bête de taille M, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 19 (3d8+6)
-- Vitesse 12 m, escalade 9 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 19 (3d8+6)
+- **Vitesse** 12 m, escalade 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14656,9 +14656,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Ours polaire
 - Bête de taille G, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 42 (5d10+15)
-- Vitesse 12 m, nage 9 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 42 (5d10+15)
+- **Vitesse** 12 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14688,9 +14688,9 @@ Touché : 9 (1d8+5) dégâts perforants.
 
 # Panthère
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 13 (3d8)
-- Vitesse 15 m, escalade 12 m
+- **Classe d'armure** 12
+- **Points de vie** 13 (3d8)
+- **Vitesse** 15 m, escalade 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14727,9 +14727,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 # Pieuvre
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 3 (1d6)
-- Vitesse 1,50 m, nage 9 m
+- **Classe d'armure** 12
+- **Points de vie** 3 (1d6)
+- **Vitesse** 1,50 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14771,9 +14771,9 @@ utiliser ses tentacules sur une autre cible.
 
 # Pieuvre géante
 - Bête de taille G, non-alignée
-- Classe d'armure 11
-- Points de vie 52 (8d10+8)
-- Vitesse 3 m, nage 18 m
+- **Classe d'armure** 11
+- **Points de vie** 52 (8d10+8)
+- **Vitesse** 3 m, nage 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14816,9 +14816,9 @@ contre une autre cible.
 
 # Piranha
 - Bête de taille TP, non-alignée
-- Classe d'armure 13
-- Points de vie 1 (1d4-1)
-- Vitesse 0 m, nage 12 m
+- **Classe d'armure** 13
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 0 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14851,9 +14851,9 @@ cette annexe.
 
 # Poney
 - Bête de taille M, non-alignée
-- Classe d'armure 10
-- Points de vie 11 (2d8+2)
-- Vitesse 12 m
+- **Classe d'armure** 10
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14872,9 +14872,9 @@ dégâts contondants.
 
 # Punaise de feu géante
 - Bête de taille P, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 4 (1d6+1)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 4 (1d6+1)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14906,9 +14906,9 @@ géantes sous terre et dans les sombres forêts.
 
 # Rat
 - Bête de taille TP, non-alignée
-- Classe d'armure 10
-- Points de vie 1 (1d4-1)
-- Vitesse 6 m
+- **Classe d'armure** 10
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 6 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14932,9 +14932,9 @@ perforant.
 
 # Rat géant
 - Bête de taille P, non-alignée
-- Classe d'armure 12
-- Points de vie 7 (2d6)
-- Vitesse 9 m
+- **Classe d'armure** 12
+- **Points de vie** 7 (2d6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -14982,9 +14982,9 @@ tombe à 0 à cause de cette maladie.
 
 # Requin chasseur
 - Bête de taille G, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 45 (6d10+12)
-- Vitesse 0 m, nage 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 45 (6d10+12)
+- **Vitesse** 0 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15018,9 +15018,9 @@ et 6 mètres de long.
 
 # Requin de récif
 - Bête de taille M, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 22 (4d8+4)
-- Vitesse 0 m, nage 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 22 (4d8+4)
+- **Vitesse** 0 m, nage 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15055,9 +15055,9 @@ bancs de petite taille. Un spécimen adulte mesure entre
 
 # Requin géant
 - Bête de taille TG, non-alignée
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 126 (11d12+55)
-- Vitesse 0 m, nage 15 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 126 (11d12+55)
+- **Vitesse** 0 m, nage 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15089,9 +15089,9 @@ compris les baleines et les navires.
 
 # Rhinocéros
 - Bête de taille G, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 45 (6d10+12)
-- Vitesse 12 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 45 (6d10+12)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15121,9 +15121,9 @@ Touché : 14 (2d8+5) dégâts contondants.
 
 # Sanglier
 - Bête de taille M, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 11 (2d8+2)
-- Vitesse 12 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15156,9 +15156,9 @@ Touché : 4 (1d6+1) dégâts tranchants.
 
 # Sanglier géant
 - Bête de taille G, non-alignée
-- Classe d'armure 12 (armure naturelle)
-- Points de vie 42 (5d10+15)
-- Vitesse 12 m
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 42 (5d10+15)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15191,9 +15191,9 @@ Touché : 10 (2d6+3) dégâts tranchants.
 
 # Scorpion
 - Bête de taille TP, non-alignée
-- Classe d'armure 11 (armure naturelle)
-- Points de vie 1 (1d4-1)
-- Vitesse 3 m
+- **Classe d'armure** 11 (armure naturelle)
+- **Points de vie** 1 (1d4-1)
+- **Vitesse** 3 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15216,9 +15216,9 @@ réussite.
 
 # Scorpion géant
 - Bête de taille G, non-alignée
-- Classe d'armure 15 (armure naturelle)
-- Points de vie 52 (7d10+14)
-- Vitesse 12 m
+- **Classe d'armure** 15 (armure naturelle)
+- **Points de vie** 52 (7d10+14)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15251,9 +15251,9 @@ constituent toujours un danger bien réel."
 
 # Serpent constricteur
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 13 (2d10+2)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 12
+- **Points de vie** 13 (2d10+2)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15279,9 +15279,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 # Serpent
 - constricteur géant
 Bête de taille TG, non-alignée
-- Classe d'armure 12
-- Points de vie 60 (8d12+8)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 12
+- **Points de vie** 60 (8d12+8)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15307,9 +15307,9 @@ Touché : 11 (2d6+4) dégâts perforants.
 
 # Serpent venimeux
 - Bête de taille TP, non-alignée
-- Classe d'armure 13
-- Points de vie 2 (1d4)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 13
+- **Points de vie** 2 (1d4)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15331,9 +15331,9 @@ moitié de ces dégâts seulement en cas de réussite.
 
 # Serpent venimeux géant
 - Bête de taille M, non-alignée
-- Classe d'armure 14
-- Points de vie 11 (2d8+2)
-- Vitesse 9 m, nage 9 m
+- **Classe d'armure** 14
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 9 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15357,9 +15357,9 @@ en cas de réussite.
 
 # Serpent volant
 - Bête de taille TP, non-alignée
-- Classe d'armure 14
-- Points de vie 5 (2d4)
-- Vitesse 9 m, vol 18 m, nage 9 m
+- **Classe d'armure** 14
+- **Points de vie** 5 (2d4)
+- **Vitesse** 9 m, vol 18 m, nage 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15390,9 +15390,9 @@ dans leurs anneaux.
 
 # Singe géant
 - Bête de taille TG, non-alignée
-- Classe d'armure 12
-- Points de vie 157 (15d12+60)
-- Vitesse 12 m, escalade 12 m
+- **Classe d'armure** 12
+- **Points de vie** 157 (15d12+60)
+- **Vitesse** 12 m, escalade 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15417,9 +15417,9 @@ contondants.
 
 # Tigre
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 37 (5d10+10)
-- Vitesse 12 m
+- **Classe d'armure** 12
+- **Points de vie** 37 (5d10+10)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15455,9 +15455,9 @@ Touché : 8 (1d10+3) dégâts perforants.
 
 # Tigre à dents de sabre
 - Bête de taille G, non-alignée
-- Classe d'armure 12
-- Points de vie 52 (7d10+14)
-- Vitesse 12 m
+- **Classe d'armure** 12
+- **Points de vie** 52 (7d10+14)
+- **Vitesse** 12 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15493,9 +15493,9 @@ Touché : 10 (1d10+5) dégâts perforants.
 
 # Vautour
 - Bête de taille M, non-alignée
-- Classe d'armure 10
-- Points de vie 5 (1d188+1)
-- Vitesse 3 m, vol 15 m
+- **Classe d'armure** 10
+- **Points de vie** 5 (1d188+1)
+- **Vitesse** 3 m, vol 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15526,9 +15526,9 @@ Touché : 2 (1d4) dégâts perforants.
 
 # Vautour géant
 - Bête de taille G, Neutre Mauvais
-- Classe d'armure 10
-- Points de vie 22 (3d10+6)
-- Vitesse 3 m, vol 18 m
+- **Classe d'armure** 10
+- **Points de vie** 22 (3d10+6)
+- **Vitesse** 3 m, vol 18 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15571,9 +15571,9 @@ voir souffrir.
 
 # Worg
 - Créature monstrueuse de taille G, Neutre Mauvais
-- Classe d'armure 13 (armure naturelle)
-- Points de vie 26 (4d10+4)
-- Vitesse 15 m
+- **Classe d'armure** 13 (armure naturelle)
+- **Points de vie** 26 (4d10+4)
+- **Vitesse** 15 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15610,9 +15610,9 @@ eux apprennent également à parler le commun.
 
 # Acolyte
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 10
-- Points de vie 9 (2d8)
-- Vitesse 9 m
+- **Classe d'armure** 10
+- **Points de vie** 9 (2d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15649,9 +15649,9 @@ puissance.
 
 # Archimage
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 12 (15 avec armure du mage)
-- Points de vie 99 (18d8+18)
-- Vitesse 9 m
+- **Classe d'armure** 12 (15 avec armure du mage)
+- **Points de vie** 99 (18d8+18)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15714,9 +15714,9 @@ les éventuels intrus.
 
 # Assassin
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
-- Classe d'armure 15 (armure de cuir clouté)
-- Points de vie 78 (12d8+24)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure de cuir clouté)
+- **Points de vie** 78 (12d8+24)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15776,9 +15776,9 @@ fortunés pour se payer leurs services.
 
 # Bandit
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
-- Classe d'armure 12 (armure de cuir)
-- Points de vie 11 (2d8+2)
-- Vitesse 9 m
+- **Classe d'armure** 12 (armure de cuir)
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15809,9 +15809,9 @@ et les trésors ou de corsaires que la couronne autorise
 
 # Berserker
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
-- Classe d'armure 13 (armure de peau)
-- Points de vie 67 (9d8+27)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure de peau)
+- **Points de vie** 67 (9d8+27)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15842,9 +15842,9 @@ conflit dès que l'occasion se présente.
 
 # Capitaine bandit
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
-- Classe d'armure 15 (armure de cuir clouté)
-- Points de vie 65 (10d8+20)
-- Vitesse 9 m
+- **Classe d'armure** 15 (armure de cuir clouté)
+- **Points de vie** 65 (10d8+20)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15893,9 +15893,9 @@ en couleur de ces individus.
 
 # Chevalier
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 18 (harnois)
-- Points de vie 52 (8d8+16)
-- Vitesse 9 m
+- **Classe d'armure** 18 (harnois)
+- **Points de vie** 52 (8d8+16)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15950,9 +15950,9 @@ considérés comme des roturiers.
 
 # Druide
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 11 (16 avec peau d'écorce)
-- Points de vie 27 (5d8+5)
-- Vitesse 9 m
+- **Classe d'armure** 11 (16 avec peau d'écorce)
+- **Points de vie** 27 (5d8+5)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -15996,9 +15996,9 @@ spirituelle.
 
 # Ecclésiastique
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 13 (chemise de mailles)
-- Points de vie 27 (5d8+5)
-- Vitesse 7,50 m
+- **Classe d'armure** 13 (chemise de mailles)
+- **Points de vie** 27 (5d8+5)
+- **Vitesse** 7,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16054,9 +16054,9 @@ et autres devoirs sacrés.
 
 # Éclaireur
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 13 (armure de cuir)
-- Points de vie 16 (3d8+3)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure de cuir)
+- **Points de vie** 16 (3d8+3)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16093,9 +16093,9 @@ d'armées.
 
 # Espion
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 12
-- Points de vie 27 (6d8)
-- Vitesse 9 m
+- **Classe d'armure** 12
+- **Points de vie** 27 (6d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16141,9 +16141,9 @@ leurs employeurs.
 
 # Fanatique de secte
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
-- Classe d'armure 13 (armure de cuir)
-- Points de vie 33 (6d8+6)
-- Vitesse 9 m
+- **Classe d'armure** 13 (armure de cuir)
+- **Points de vie** 33 (6d8+6)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16187,9 +16187,9 @@ leur pouvoir personnel.
 
 # Garde
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 16 (bouclier, chemise de mailles)
-- Points de vie 11 (2d8+2)
-- Vitesse 9 m
+- **Classe d'armure** 16 (bouclier, chemise de mailles)
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16215,9 +16215,9 @@ marchands et des nobles.
 
 # Gladiateur
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 16 (armure de cuir clouté, bouclier)
-- Points de vie 112 (15d8+45)
-- Vitesse 9 m
+- **Classe d'armure** 16 (armure de cuir clouté, bouclier)
+- **Points de vie** 112 (15d8+45)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16267,9 +16267,9 @@ leur vie en jeu.
 
 # Guerrier tribal
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 12 (armure de peau)
-- Points de vie 11 (2d8+2)
-- Vitesse 9 m
+- **Classe d'armure** 12 (armure de peau)
+- **Points de vie** 11 (2d8+2)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16304,9 +16304,9 @@ comme béni des dieux.
 
 # Mage
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 12 (15 avec armure du mage)
-- Points de vie 40 (9d8)
-- Vitesse 9 m
+- **Classe d'armure** 12 (15 avec armure du mage)
+- **Points de vie** 40 (9d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16351,9 +16351,9 @@ ne vienne les interrompre.
 
 # Malfrat
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
-- Classe d'armure 11 (armure de cuir)
-- Points de vie 32 (5d8+10)
-- Vitesse 9 m
+- **Classe d'armure** 11 (armure de cuir)
+- **Points de vie** 32 (5d8+10)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16389,9 +16389,9 @@ pour l'argent et n'éprouvent guère de scrupules.
 
 # Membre de secte
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
-- Classe d'armure 12 (armure de cuir)
-- Points de vie 9 (2d8)
-- Vitesse 9 m
+- **Classe d'armure** 12 (armure de cuir)
+- **Points de vie** 9 (2d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16425,9 +16425,9 @@ leurs croyances et leurs pratiques.
 
 # Noble
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 15 (cuirasse)
-- Points de vie 9 (2d8)
-- Vitesse 9 m
+- **Classe d'armure** 15 (cuirasse)
+- **Points de vie** 9 (2d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16461,9 +16461,9 @@ représenter des courtisans qui ne sont pas de sang noble.
 
 # Roturier
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- Classe d'armure 10
-- Points de vie 4 (1d8)
-- Vitesse 9 m
+- **Classe d'armure** 10
+- **Points de vie** 4 (1d8)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
@@ -16485,9 +16485,9 @@ artisans et les ermites.
 
 # Vétéran
 - Humanoïde (n'importe quelle race) de taille M, alignement quelconque
-- Classe d'armure 17 (clibanion)
-- Points de vie 58 (9d8+18)
-- Vitesse 9 m
+- **Classe d'armure** 17 (clibanion)
+- **Points de vie** 58 (9d8+18)
+- **Vitesse** 9 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
