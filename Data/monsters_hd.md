@@ -8819,24 +8819,19 @@ Touché : 4 (1d4+2) dégâts tranchants.
 
 ## Capacités
 
-Vue aiguisée. L'aigle obtient un avantage lors des
-tests de Sagesse (Perception) basés sur la vue.
+Vue aiguisée. L'aigle obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue.
 
 ## Actions
 
-Attaques multiples. L'aigle effectue deux attaques :
-une avec son bec et une avec ses serres.
-Bec. Attaque d'arme au corps à corps : +5 pour toucher,
-allonge 1,50 m, une cible.
+Attaques multiples. L'aigle effectue deux attaques : une avec son bec et une avec ses serres.
+
+Bec. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts perforants.
-Serres. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+
+Serres. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (2d6+3) dégâts tranchants.
-L'aigle géant est une noble créature qui parle sa propre
-langue et comprend le commun. Un couple d'aigles
-géants s'occupe le plus souvent d'un nid contenant un
-maximum de quatre oeufs ou aiglons (traitez ces aiglons
-comme des aigles normaux).
 
 
 # Araignée
@@ -8856,25 +8851,17 @@ comme des aigles normaux).
 
 ## Capacités
 
-Marche dans les toiles. L'araignée ignore les restrictions
-de déplacement imposées par les toiles
-d'araignée.
-Pattes d'araignée. L'araignée peut escalader les
-surfaces difficiles, y compris les plafonds la tête
-en bas, sans qu'un test de caractéristique ne soit
-nécessaire.
-Perception sur les toiles. Tant qu'elle est en contact
-avec une toile d'araignée, l'araignée connaît
-l'exacte position de toutes les autres créatures en
-contact avec la même toile.
+Marche dans les toiles. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+Pattes d'araignée. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+Perception sur les toiles. Tant qu'elle est en contact avec une toile d'araignée, l'araignée connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 1 dégât perforant et la cible doit effectuer
-un jet de sauvegarde de Constitution DD 9 pour ne
-pas subir 2 (1d4) dégâts de poison.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 9 pour ne pas subir 2 (1d4) dégâts de poison.
 
 
 # Araignée de phase
@@ -8894,37 +8881,17 @@ pas subir 2 (1d4) dégâts de poison.
 
 ## Capacités
 
-Marche dans les toiles. L'araignée ignore les restrictions
-de déplacement imposées par les toiles
-d'araignée.
-Pattes d'araignée. L'araignée peut escalader les
-surfaces difficiles, y compris les plafonds la tête
-en bas, sans qu'un test de caractéristique ne soit
-nécessaire.
-Saut éthéré. Par une action bonus, l'araignée peut
-passer dans le plan Éthéré depuis le plan Matériel
-ou vice versa.
+Marche dans les toiles. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+Pattes d'araignée. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+Saut éthéré. Par une action bonus, l'araignée peut passer dans le plan Éthéré depuis le plan Matériel ou vice versa.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 7 (1d10+2) dégâts perforants et la cible
-doit effectuer un jet de sauvegarde de Constitution
-DD 11. Elle subit 18 (4d8) dégâts de poison en
-cas de jet de sauvegarde raté ou la moitié de ces
-dégâts seulement en cas de réussite. Si les dégâts
-de poison réduisent à 0 les points de vie de la
-cible, celle-ci est stable mais empoisonnée pendant
-1 heure, même après avoir récupéré des points de
-vie, et elle est paralysée tant que le poison continue
-de faire effet.
-L'araignée de phase possède un pouvoir magique lui
-permettant de sauter dans ou hors du plan Éthéré. Elle
-semble surgir de nulle part et disparaît aussitôt après
-avoir attaqué. Le fait qu'elle puisse se déplacer dans le
-plan Éthéré avant de revenir sur le plan Matériel peut
-faire penser à de la téléportation.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 18 (4d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 
 
 # Araignée géante
@@ -8944,49 +8911,21 @@ faire penser à de la téléportation.
 
 ## Capacités
 
-Marche dans les toiles. L'araignée ignore les restrictions
-de déplacement imposées par les toiles
-d'araignée.
-Pattes d'araignée. L'araignée peut escalader les
-surfaces difficiles, y compris les plafonds la tête
-en bas, sans qu'un test de caractéristique ne soit
-nécessaire.
-Perception sur les toiles. Tant qu'elle est en contact
-avec une toile d'araignée, l'araignée connaît
-l'exacte position de toutes les autres créatures en
-contact avec la même toile.
+Marche dans les toiles. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+Pattes d'araignée. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+Perception sur les toiles. Tant qu'elle est en contact avec une toile d'araignée, l'araignée connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 7 (1d8+3) dégâts perforants et la cible doit
-effectuer un jet de sauvegarde de Constitution
-DD 11. Elle subit 9 (2d8) dégâts de poison en cas de
-jet de sauvegarde raté ou la moitié de ces dégâts
-seulement en cas de réussite. Si les dégâts de poison
-réduisent à 0 les points de vie de la cible, celle-ci est
-stable mais empoisonnée pendant 1 heure, même
-après avoir récupéré des points de vie, et elle est
-paralysée tant que le poison continue de faire effet.
-Toile d'araignée (Recharge 5-6). Attaque d'arme
-à distance : +5 pour toucher, portée 9/18 m, une
-créature.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature.
 
-Touché : la cible est entravée par la toile.
-Par une action, la cible entravée peut effectuer un
-test de Force DD 12 et s'en libérer en cas de réussite.
-L'effet prend fin également si la toile est attaquée
-et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux
-dégâts de feu ; immunité contre les dégâts contondants,
-de poison et psychiques).
-Pour piéger ses proies, l'araignée géante tisse des toiles
-élaborées ou projette des filaments de toile collants depuis
-son abdomen. On trouve généralement les araignées
-géantes sous terre où elles installent leurs repaires
-dans les hauteurs des grottes ou dans de sombres crevasses
-remplies de toiles. Ces antres sont souvent ornés
-de cocons de toile contenant leurs précédentes victimes.
+Touché : 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 9 (2d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+
+Toile d'araignée (Recharge 5-6). Attaque d'arme à distance : +5 pour toucher, portée 9/18 m, une créature.
+
+Touché : la cible est entravée par la toile. Par une action, la cible entravée peut effectuer un test de Force DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
 
 
 # Araignée-loup géante
@@ -9006,36 +8945,17 @@ de cocons de toile contenant leurs précédentes victimes.
 
 ## Capacités
 
-Marche dans les toiles. L'araignée ignore les restrictions
-de déplacement imposées par les toiles
-d'araignée.
-Pattes d'araignée. L'araignée peut escalader les
-surfaces difficiles, y compris les plafonds la tête
-en bas, sans qu'un test de caractéristique ne soit
-nécessaire.
-Perception sur les toiles. Tant qu'elle est en contact
-avec une toile d'araignée, l'araignée connaît
-l'exacte position de toutes les autres créatures en
-contact avec la même toile.
+Marche dans les toiles. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+Pattes d'araignée. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
+
+Perception sur les toiles. Tant qu'elle est en contact avec une toile d'araignée, l'araignée connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 4 (1d6+1) dégâts perforants et la cible
-doit effectuer un jet de sauvegarde de Constitution
-DD 11. Elle subit 7 (2d6) dégâts de poison en
-cas de jet de sauvegarde raté ou la moitié de ces
-dégâts seulement en cas de réussite. Si les dégâts
-de poison réduisent à 0 les points de vie de la
-cible, celle-ci est stable mais empoisonnée pendant
-1 heure, même après avoir récupéré des points de
-vie, et elle est paralysée tant que le poison continue
-de faire effet.
-Plus petites que les araignées géantes, les araignées-
-loups géantes chassent leurs proies en terrain
-découvert ou se cachent dans des terriers, des
-fissures ou des cavités dissimulées sous des débris.
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 4 (1d6+1) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 
 
 # Arbre éveillé
@@ -9056,18 +8976,13 @@ fissures ou des cavités dissimulées sous des débris.
 
 ## Capacités
 
-Faux-semblant. Aussi longtemps que l'arbre reste
-immobile, il est impossible de le distinguer d'un
-arbre ordinaire.
+Faux-semblant. Aussi longtemps que l'arbre reste immobile, il est impossible de le distinguer d'un arbre ordinaire.
 
 ## Actions
 
-Coup. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 3 m, une cible.
+Coup. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
 Touché : 14 (3d6+4) dégâts contondants.
-Un arbre éveillé est un arbre ordinaire doté d'une
-conscience et de la capacité à se mouvoir grâce au
-sort d'éveil ou une magie similaire.
 
 
 # Arbuste éveillé
@@ -9088,18 +9003,13 @@ sort d'éveil ou une magie similaire.
 
 ## Capacités
 
-Faux-semblant. Aussi longtemps que l'arbuste
-reste immobile, il est impossible de le distinguer
-d'un arbrisseau ordinaire.
+Faux-semblant. Aussi longtemps que l'arbuste reste immobile, il est impossible de le distinguer d'un arbrisseau ordinaire.
 
 ## Actions
 
-Ratissage. Attaque d'arme au corps à corps : +1 pour
-toucher, allonge 1,50 m, une cible.
+Ratissage. Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 (1d4-1) dégâts tranchants.
-Un arbuste éveillé est un arbrisseau ordinaire doté
-d'une conscience et de la capacité à se mouvoir
-grâce au sort d'éveil ou une magie similaire.
 
 
 # Babouin
@@ -9118,16 +9028,12 @@ grâce au sort d'éveil ou une magie similaire.
 
 ## Capacités
 
-Tactique de groupe. Le babouin obtient un avantage
-lors d'un jet d'attaque effectué contre une
-créature si au moins un des alliés du babouin, qui
-n'est pas neutralisé, se trouve à 1,50 mètre ou moins
-de la créature qu'il attaque.
+Tactique de groupe. Le babouin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du babouin, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +1 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 (1d4-1) dégâts perforants.
 
 
@@ -9147,13 +9053,9 @@ Touché : 1 (1d4-1) dégâts perforants.
 
 ## Actions
 
-Bec. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une cible.
+Bec. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d8+2) dégâts tranchants.
-Le bec de hache est un grand oiseau incapable de voler
-doté de pattes puissantes et d'un bec cunéiforme épais.
-Il a mauvais caractère et a tendance à agresser toutes les
-créatures inhabituelles approchant de trop près.
 
 
 # Belette
@@ -9173,14 +9075,12 @@ créatures inhabituelles approchant de trop près.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. La belette obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
+Odorat et ouïe aiguisés. La belette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 dégât perforant.
 
 
@@ -9201,14 +9101,12 @@ Touché : 1 dégât perforant.
 
 ## Capacités
 
-Odorat et ouïe aiguisées. La belette obtient un
-avantage lors des tests de Sagesse (Perception)
-basés sur l'odorat ou l'ouïe.
+Odorat et ouïe aiguisées. La belette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (1d4+3) dégâts perforants.
 
 
@@ -9228,13 +9126,12 @@ Touché : 5 (1d4+3) dégâts perforants.
 
 ## Capacités
 
-Odorat aiguisé. Le blaireau obtient un avantage lors
-des tests de Sagesse (Perception) basés sur l'odorat.
+Odorat aiguisé. Le blaireau obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 dégât perforant.
 
 
@@ -9254,19 +9151,18 @@ Touché : 1 dégât perforant.
 
 ## Capacités
 
-Odorat aiguisé. Le blaireau obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat.
+Odorat aiguisé. Le blaireau obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Attaques multiples. Le blaireau effectue deux attaques
-: une avec sa morsure et une avec ses griffes.
-Griffes. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. Le blaireau effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+Griffes. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (2d4+1) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d6+1) dégâts perforants.
 
 
@@ -9287,19 +9183,14 @@ Touché : 4 (1d6+1) dégâts perforants.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le chacal obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
-Tactique de groupe. Le chacal obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du chacal, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Odorat et ouïe aiguisés. Le chacal obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
+
+Tactique de groupe. Le chacal obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du chacal, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +1 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 (1d4-1) dégâts perforants.
 
 
@@ -9319,8 +9210,8 @@ Touché : 1 (1d4-1) dégâts perforants.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 2 (1d4) dégâts contondants.
 
 
@@ -9341,13 +9232,12 @@ Touché : 2 (1d4) dégâts contondants.
 
 ## Capacités
 
-Odorat aiguisé. Le chat obtient un avantage lors
-des tests de Sagesse (Perception) basés sur l'odorat.
+Odorat aiguisé. Le chat obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Griffes. Attaque d'arme au corps à corps : +0 pour
-toucher, allonge 1,50 m, une cible.
+Griffes. Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 dégât tranchant.
 
 
@@ -9367,15 +9257,14 @@ Touché : 1 dégât tranchant.
 
 ## Capacités
 
-Écholocalisation. La chauve-souris ne peut pas
-utiliser sa vision aveugle si elle est assourdie.
-Ouïe aiguisée. La chauve-souris obtient un avantage
-lors des tests de Sagesse (Perception) basés sur l'ouïe.
+Écholocalisation. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est assourdie.
+
+Ouïe aiguisée. La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +0 pour
-toucher, allonge 1,50 m, une créature.
+Morsure. Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une créature.
+
 Touché : 1 dégât perforant.
 
 
@@ -9395,15 +9284,14 @@ Touché : 1 dégât perforant.
 
 ## Capacités
 
-Écholocalisation. La chauve-souris ne peut plus
-utiliser sa vision aveugle si elle est assourdie.
-Ouïe aiguisée. La chauve-souris obtient un avantage
-lors des tests de Sagesse (Perception) basés sur l'ouïe.
+Écholocalisation. La chauve-souris ne peut plus utiliser sa vision aveugle si elle est assourdie.
+
+Ouïe aiguisée. La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une créature.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
 Touché : 5 (1d6+2) dégâts perforants.
 
 
@@ -9423,19 +9311,12 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-Charge écrasante. Si le cheval se déplace en ligne
-droite sur une distance minimale de 6 mètres vers
-une créature contre laquelle il réussit ensuite une
-attaque de sabots lors du même tour, celle-ci doit
-réussir un jet de sauvegarde de Force DD 14 pour ne
-pas être à terre. Si la cible est à terre, le cheval peut
-effectuer contre elle une attaque de sabots par une
-action bonus.
+Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être à terre. Si la cible est à terre, le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts contondants.
 
 
@@ -9460,38 +9341,18 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 ## Capacités
 
-Charge écrasante. Si le cheval se déplace en ligne
-droite sur une distance minimale de 6 mètres vers
-une créature contre laquelle il réussit ensuite une
-attaque de sabots lors du même tour, celle-ci doit
-réussir un jet de sauvegarde de Force DD 14 pour ne
-pas être à terre. Si la cible est à terre, le cheval peut
-effectuer contre elle une attaque de sabots par une
-action bonus.
-Monture magique. Le cheval de guerre céleste
-étend sa résistance aux dégâts nécrotique à toute
-créature qui le monte. De plus il peut utiliser, sur
-lui-même uniquement, le sort marche sur l'eau. Il
-doit terminer un repos court avant de pouvoir à
-nouveau utiliser cette capacité. Le cheval céleste
-n'accepte de servir de monture que pour des créatures
-d'alignement Loyal Bon, Neutre Bon ou Loyal
-Neutre.
-Monture d'élite. Le cheval de guerre céleste est
-réservé à une élite parmi les paladins : les chevaliers
-du serment de perfection. Les autres personnages
-n'ont pas accès à cette monture. Le cheval
-de guerre céleste ne peut pas être acheté et ne
-s'acquiert que par l'intermédiaire d'un appel mystique.
-Dans le cas ou un autre personnage vient à
-chevaucher un cheval de guerre céleste, il ne peut
-pas lui imposer sa volonté, c'est le cheval qui décide
-de ses propres actions.
+Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être à terre. Si la cible est à terre, le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+
+Monture magique. Le cheval de guerre céleste étend sa résistance aux dégâts nécrotique à toute créature qui le monte. De plus il peut utiliser, sur lui-même uniquement, le sort marche sur l'eau. Il doit terminer un repos court avant de pouvoir à nouveau utiliser cette capacité. Le cheval céleste n'accepte de servir de monture que pour des créatures d'alignement Loyal Bon, Neutre Bon ou Loyal Neutre.
+
+Monture d'élite. Le cheval de guerre céleste est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Le cheval de guerre céleste ne peut pas être acheté et ne s'acquiert que par l'intermédiaire d'un appel mystique.
+
+Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre céleste, il ne peut pas lui imposer sa volonté, c'est le cheval qui décide de ses propres actions.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts contondants.
 
 
@@ -9511,29 +9372,14 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 ## Capacités
 
-Charge écrasante. Si le cheval se déplace en ligne
-droite sur une distance minimale de 6 mètres vers
-une créature contre laquelle il réussit ensuite une
-attaque de sabots lors du même tour, celle-ci doit
-réussir un jet de sauvegarde de Force DD 14 pour ne
-pas être à terre. Si la cible est à terre, le cheval peut
-effectuer contre elle une attaque de sabots par une
-action bonus.
-Monture d'élite. Le cheval de guerre lourd est réservé
-à une élite parmi les paladins : les chevaliers
-du serment de perfection. Les autres personnages
-n'ont pas accès à cette monture. Un cheval de
-guerre lourd ne peut pas être acheté, il s'agit en réalité
-d'un cheval de guerre ordinaire que le paladin a
-dressé pour en faire une monture d'exception. Dans
-le cas ou un autre personnage vient à chevaucher
-un cheval de guerre lourd, il lui faut une action pour
-diriger la monture à chaque round.
+Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être à terre. Si la cible est à terre, le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+
+Monture d'élite. Le cheval de guerre lourd est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts contondants.
 
 
@@ -9553,8 +9399,8 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 8 (2d4+3) dégâts contondants.
 
 
@@ -9574,8 +9420,8 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 9 (2d4+4) dégâts contondants.
 
 
@@ -9595,22 +9441,14 @@ Touché : 9 (2d4+4) dégâts contondants.
 
 ## Capacités
 
-Charge. Si la chèvre se déplace en ligne droite sur
-une distance minimale de 6 mètres vers une cible
-contre laquelle elle réussit ensuite une attaque de
-coup de bélier lors du même tour, celle-ci subit
-2 (1d4) dégâts contondants supplémentaires. Si la
-cible est une créature, elle doit réussir un jet de
-sauvegarde de Force DD 10 pour ne pas être jetée à
-terre.
-Pied sûr. La chèvre obtient un avantage lors des jets
-de sauvegarde de Force et de Dextérité effectués
-contre les effets susceptibles de la jeter à terre.
+Charge. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée à terre.
+
+Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter à terre.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps :
-+3 pour toucher, allonge 1,50 m, une cible.
+Coup de bélier. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 3 (1d4+1) dégâts contondants.
 
 
@@ -9630,22 +9468,14 @@ Touché : 3 (1d4+1) dégâts contondants.
 
 ## Capacités
 
-Charge. Si la chèvre se déplace en ligne droite sur
-une distance minimale de 6 mètres vers une cible
-contre laquelle elle réussit ensuite une attaque de
-coup de bélier lors du même tour, celle-ci subit
-5 (2d4) dégâts contondants supplémentaires. Si la
-cible est une créature, elle doit réussir un jet de
-sauvegarde de Force DD 13 pour ne pas être jetée à
-terre.
-Pied sûr. La chèvre obtient un avantage lors des jets
-de sauvegarde de Force et de Dextérité effectués
-contre les effets susceptibles de la jeter à terre.
+Charge. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 5 (2d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+
+Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter à terre.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps : +5
-pour toucher, allonge 1,50 m, une cible.
+Coup de bélier. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 8 (2d4+3) dégâts contondants.
 
 
@@ -9665,8 +9495,8 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 2 (1d4) dégâts perforants.
 
 
@@ -9687,35 +9517,15 @@ Touché : 2 (1d4) dégâts perforants.
 
 ## Capacités
 
-Bicéphale. Le chien obtient un avantage lors des
-tests de Sagesse (Perception) et des jets de sauvegarde
-contre les états spéciaux assourdi, aveuglé,
-charmé, terrorisé, étourdi et inconscient.
+Bicéphale. Le chien obtient un avantage lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux assourdi, aveuglé, charmé, terrorisé, étourdi et inconscient.
 
 ## Actions
 
-Attaques multiples. Le chien effectue deux attaques
-de morsure.
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 5 (1d6+2) dégâts perforants. Si la cible est
-une créature, elle doit réussir un jet de sauvegarde
-de Constitution DD 12 contre la maladie pour ne
-pas être empoisonnée jusqu'au moment où cette
-maladie est soignée. Toutes les 24 heures par la
-suite, la créature doit retenter le jet de sauvegarde
-et réduire de 5 (1d10) son total maximum de points
-de vie en cas d'échec. Cette réduction persiste
-jusqu'à guérison de la maladie. La créature meurt si
-la maladie réduit à 0 son total maximum de points
-de vie.
-Le chien du trépas est un horrible molosse à deux têtes
-qui rôde dans les plaines et les déserts. La haine brûle
-dans son coeur et son appétit pour la chair humanoïde
-le pousse à agresser voyageurs comme explorateurs. La
-salive du chien du trépas est porteuse d'une infecte maladie
-provoquant le lent pourrissement des chairs qui se
-détachent peu à peu des os.
+Attaques multiples. Le chien effectue deux attaques de morsure.
+
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 contre la maladie pour ne pas être empoisonnée jusqu'au moment où cette maladie est soignée. Toutes les 24 heures par la suite, la créature doit retenter le jet de sauvegarde et réduire de 5 (1d10) son total maximum de points de vie en cas d'échec. Cette réduction persiste jusqu'à guérison de la maladie. La créature meurt si la maladie réduit à 0 son total maximum de points de vie.
 
 
 # Chien esquiveur
@@ -9735,26 +9545,15 @@ détachent peu à peu des os.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le chien obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
+Odorat et ouïe aiguisés. Le chien obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d6+1) dégâts perforants.
-Téléportation (Recharge 4-6). Le chien se téléporte
-par magie, avec tous les ses objets équipés et transportés,
-vers un emplacement inoccupé situé dans
-son champ de vision à une distance maximale de
-12 mètres. Le chien peut effectuer une attaque de
-morsure avant ou après s'être téléporté.
-Le chien esquiveur doit son nom de sa capacité à disparaître
-et réapparaître en un clin d'oeil, un don qu'il utilise
-pour renforcer ses attaques et éviter les coups. Les chiens
-esquiveurs haïssent depuis toujours les bêtes éclipsantes,
-qu'ils attaquent à vue.
+
+Téléportation (Recharge 4-6). Le chien se téléporte par magie, avec tous les ses objets équipés et transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 12 mètres. Le chien peut effectuer une attaque de morsure avant ou après s'être téléporté.
 
 
 # Chouette
@@ -9774,17 +9573,14 @@ qu'ils attaquent à vue.
 
 ## Capacités
 
-Ouïe et vue aiguisées. La chouette obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'ouïe ou la vue.
-Repli aérien. La chouette ne provoque pas d'attaques
-d'opportunité quand elle passe hors de
-portée de l'allonge d'un ennemi.
+Ouïe et vue aiguisées. La chouette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
+
+Repli aérien. La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Serres. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 dégât tranchant.
 
 
@@ -9805,21 +9601,15 @@ Touché : 1 dégât tranchant.
 
 ## Capacités
 
-Ouïe et vue aiguisées. La chouette obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'ouïe ou la vue.
-Repli aérien. La chouette ne provoque pas d'attaques
-d'opportunité quand elle passe hors de
-portée de l'allonge d'un ennemi.
+Ouïe et vue aiguisées. La chouette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
+
+Repli aérien. La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Serres. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 8 (2d6+1) dégâts tranchants.
-Les chouettes géantes se lient souvent d'amitié avec les
-fées et autres créatures sylvestres. Elles protègent leurs
-royaumes forestiers.
 
 
 # Corbeau
@@ -9839,17 +9629,12 @@ royaumes forestiers.
 
 ## Capacités
 
-Imitation. Le corbeau peut imiter des sons simples
-déjà entendus, comme une personne qui murmure,
-un enfant qui pleure ou les pépiements d'un
-animal. Une créature qui entend ces sons peut
-reconnaître leur vraie nature en réussissant un test
-de Sagesse (Perspicacité) DD 10.
+Imitation. Le corbeau peut imiter des sons simples déjà entendus, comme une personne qui murmure, un enfant qui pleure ou les pépiements d'un animal. Une créature qui entend ces sons peut reconnaître leur vraie nature en réussissant un test de Sagesse (Perspicacité) DD 10.
 
 ## Actions
 
-Bec. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une cible.
+Bec. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 dégât perforant.
 
 
@@ -9870,13 +9655,12 @@ Touché : 1 dégât perforant.
 
 ## Capacités
 
-Amphibie. Le crabe peut respirer à l'air libre et sous
-l'eau.
+Amphibie. Le crabe peut respirer à l'air libre et sous l'eau.
 
 ## Actions
 
-Pince. Attaque d'arme au corps à corps : +0 pour toucher,
-allonge 1,50 m, une cible.
+Pince. Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 1 dégât contondant.
 
 
@@ -9897,16 +9681,13 @@ Touché : 1 dégât contondant.
 
 ## Capacités
 
-Amphibie. Le crabe peut respirer à l'air libre et sous
-l'eau.
+Amphibie. Le crabe peut respirer à l'air libre et sous l'eau.
 
 ## Actions
 
-Pince. Attaque d'arme au corps à corps : +3 pour toucher,
-allonge 1,50 m, une cible.
-Touché : 4 (1d6+1) dégât contondant et la cible est empoignée
-(évasion DD 11). Le crabe a deux pinces dont
-chacune ne peut empoigner qu'une seule cible.
+Pince. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 4 (1d6+1) dégât contondant et la cible est empoignée (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
 # Crapaud géant
@@ -9925,34 +9706,19 @@ chacune ne peut empoigner qu'une seule cible.
 
 ## Capacités
 
-Amphibie. Le crapaud peut respirer à l'air libre et
-sous l'eau.
-Saut sans élan. Le crapaud saute une longueur
-maximale de 6 mètres et une hauteur maximale de
-3 mètres, sans ou avec élan préalable.
+Amphibie. Le crapaud peut respirer à l'air libre et sous l'eau.
+
+Saut sans élan. Le crapaud saute une longueur maximale de 6 mètres et une hauteur maximale de 3 mètres, sans ou avec élan préalable.
 
 ## Actions
 
-Engloutir. Le crapaud effectue une attaque de
-morsure contre une cible de taille M ou plus petite
-qu'elle empoigne. Si l'attaque touche, la cible
-est engloutie et l'empoignade prend fin. La cible
-engloutie est aveuglée et entravée, elle bénéficie
-d'un abri total contre les attaques et autres effets
-provenant de l'extérieur du crapaud et elle subit
-10 (3d6) dégâts d'acide au début de chacun des
-tours du crapaud.
-Si le crapaud meurt, une créature engloutie n'est
-plus entravée à cause de lui et peut s'extirper de
-la carcasse en dépensant 1,50 mètres de déplacement
-; elle en sort à terre.
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 7 (1d10+2) dégâts perforants plus 5 (1d10)
-dégâts de poison et la cible est empoignée (évasion
-DD 13). Jusqu'à la fin de cette empoignade, la cible
-est entravée et le crapaud ne peut pas mordre une
-autre cible.
+Engloutir. Le crapaud effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du crapaud et elle subit 10 (3d6) dégâts d'acide au début de chacun des tours du crapaud.
+
+Si le crapaud meurt, une créature engloutie n'est plus entravée à cause de lui et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort à terre.
+
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et la cible est empoignée (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est entravée et le crapaud ne peut pas mordre une autre cible.
 
 
 # Crocodile
@@ -9972,17 +9738,13 @@ autre cible.
 
 ## Capacités
 
-Retenir son souffle. Le crocodile peut retenir son
-souffle pendant 15 minutes.
+Retenir son souffle. Le crocodile peut retenir son souffle pendant 15 minutes.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 7 (1d10+2) dégâts perforants et la cible est
-empoignée (évasion DD 12). Jusqu'à la fin de cette
-empoignade, la cible est entravée et le crocodile ne
-peut pas mordre une autre cible.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 7 (1d10+2) dégâts perforants et la cible est empoignée (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est entravée et le crocodile ne peut pas mordre une autre cible.
 
 
 # Crocodile géant
@@ -10002,25 +9764,19 @@ peut pas mordre une autre cible.
 
 ## Capacités
 
-Retenir son souffle. Le crocodile peut retenir son
-souffle pendant 30 minutes.
+Retenir son souffle. Le crocodile peut retenir son souffle pendant 30 minutes.
 
 ## Actions
 
-Attaques multiples. Le crocodile effectue deux attaques
-: une avec sa morsure et une avec sa queue.
-Morsure. Attaque d'arme au corps à corps : +8 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 21 (3d10+5) dégâts perforants et la cible est
-empoignée (évasion DD 16). Jusqu'à la fin de cette
-empoignade, la cible est entravée et le crocodile ne
-peut pas mordre une autre cible.
-Queue. Attaque d'arme au corps à corps : +8 pour
-toucher, allonge 3 m, une cible non empoignée par
-le crocodile.
-Touché : 14 (2d8+5) dégâts contondants. Si la cible
-est une créature, elle doit réussir un jet de sauvegarde
-de Force DD 16 pour ne pas être jetée au sol.
+Attaques multiples. Le crocodile effectue deux attaques : une avec sa morsure et une avec sa queue.
+
+Morsure. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 21 (3d10+5) dégâts perforants et la cible est empoignée (évasion DD 16). Jusqu'à la fin de cette empoignade, la cible est entravée et le crocodile ne peut pas mordre une autre cible.
+
+Queue. Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible non empoignée par le crocodile.
+
+Touché : 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être jetée au sol.
 
 
 # Élan
@@ -10039,22 +9795,16 @@ de Force DD 16 pour ne pas être jetée au sol.
 
 ## Capacités
 
-Charge. Si l'élan se déplace en ligne droite sur
-une distance minimale de 6 mètres vers une cible
-contre laquelle il réussit ensuite une attaque de
-coup de bélier lors du même tour, celle-ci subit
-7 (2d6) dégâts contondants supplémentaires. Si la
-cible est une créature, elle doit réussir un jet de
-sauvegarde de Force DD 13 pour ne pas être jetée à
-terre.
+Charge. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
+Coup de bélier. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts contondants.
-Sabots. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible à terre.
+
+Sabots. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible à terre.
+
 Touché : 8 (2d4+3) dégâts contondants.
 
 
@@ -10075,30 +9825,17 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 ## Capacités
 
-Charge. Si l'élan se déplace en ligne droite sur
-une distance minimale de 6 mètres vers une cible
-contre laquelle il réussit ensuite une attaque de
-coup de bélier lors du même tour, celle-ci subit
-7 (2d6) dégâts contondants supplémentaires. Si la
-cible est une créature, elle doit réussir un jet de
-sauvegarde de Force DD 14 pour ne pas être jetée à
-terre.
+Charge. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps :
-+6 pour toucher, allonge 3 m, une cible.
+Coup de bélier. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
 Touché : 11 (2d6+4) dégâts contondants.
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible à terre.
+
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible à terre.
+
 Touché : 22 (4d8+4) dégâts contondants.
-Le majestueux élan géant est si rare que son apparition
-est souvent considérée comme le présage d'un
-événement important, tel que la naissance d'un roi. Des
-légendes parlent de dieux qui prennent l'aspect d'élans
-géants lors de leurs passages sur le plan Matériel. D'ailleurs,
-dans de nombreuses cultures, on estime que la
-chasse de ces créatures attise la colère divine.
 
 
 # Éléphant
@@ -10117,23 +9854,15 @@ chasse de ces créatures attise la colère divine.
 
 ## Capacités
 
-Charge écrasante. Si l'éléphant se déplace en ligne
-droite sur une distance minimale de 6 mètres vers
-une créature contre laquelle il réussit ensuite une
-attaque de coup de défense lors du même tour,
-celle-ci doit réussir un jet de sauvegarde de Force
-DD 12 pour ne pas être jetée à terre. Si la cible est
-à terre, l'éléphant peut effectuer contre elle une
-attaque de piétinement par une action bonus.
+Charge écrasante. Si l'éléphant se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée à terre. Si la cible est à terre, l'éléphant peut effectuer contre elle une attaque de piétinement par une action bonus.
 
 ## Actions
 
-Coup de défense. Attaque d'arme au corps à corps :
-+8 pour toucher, allonge 1,50 m, une cible.
+Coup de défense. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 19 (3d8+6) dégâts perforants.
-Piétinement. Attaque d'arme au corps à corps :
-+8 pour toucher, allonge 1,50 m, une créature à
-terre.
+
+Piétinement. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature à terre.
 
 Touché : 22 (3d10+6) dégâts contondants.
 
@@ -10155,17 +9884,16 @@ Touché : 22 (3d10+6) dégâts contondants.
 
 ## Capacités
 
-Écholocalisation. L'épaulard ne peut plus utiliser sa
-vision aveugle s'il est assourdi.
-Ouïe aiguisée. L'épaulard obtient un avantage lors
-des tests de Sagesse (Perception) basés sur l'ouïe.
-Retenir son souffle. L'épaulard peut retenir son
-souffle pendant 30 minutes.
+Écholocalisation. L'épaulard ne peut plus utiliser sa vision aveugle s'il est assourdi.
+
+Ouïe aiguisée. L'épaulard obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
+
+Retenir son souffle. L'épaulard peut retenir son souffle pendant 30 minutes.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 21 (5d6+4) dégâts perforants.
 
 
@@ -10186,16 +9914,13 @@ Touché : 21 (5d6+4) dégâts perforants.
 
 ## Capacités
 
-Vue aiguisée. Le faucon obtient un avantage lors
-des tests de Sagesse (Perception) basés sur la vue.
+Vue aiguisée. Le faucon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Serres. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât
-tranchant.
+Touché : 1 dégât tranchant.
 
 
 # Faucon de sang
@@ -10215,25 +9940,15 @@ tranchant.
 
 ## Capacités
 
-Tactique de groupe. Le faucon obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du faucon, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
-Vue aiguisée. Le faucon obtient un avantage lors
-des tests de Sagesse (Perception) basés sur la vue.
+Tactique de groupe. Le faucon obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du faucon, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+
+Vue aiguisée. Le faucon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue.
 
 ## Actions
 
-Bec. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une cible.
+Bec. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d4+2) dégâts perforants.
-Tirant son nom de son plumage cramoisi et de sa nature
-agressive, le faucon de sang attaque bravement la
-presque totalité des animaux en leur donnant des coups
-de son bec en forme de dague. Les faucons de sang volent
-en nombre important et attaquent en groupe pour tuer
-leurs proies.
 
 
 # Grand singe
@@ -10253,16 +9968,15 @@ leurs proies.
 
 ## Actions
 
-Attaques multiples. Le grand singe effectue deux
-attaques de poing.
-Poing. Attaque d'arme au corps à corps : +5 pour toucher,
-allonge 1,50 m, une cible.
-Touché : 6 (1d6+3) dégâts contondants.
-Rocher. Attaque d'arme à distance : +5 pour toucher,
-portée 7,50/15 m, une cible.
+Attaques multiples. Le grand singe effectue deux attaques de poing.
 
-Touché : 6 (1d6+3) dégâts
-contondants.
+Poing. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 6 (1d6+3) dégâts contondants.
+
+Rocher. Attaque d'arme à distance : +5 pour toucher, portée 7,50/15 m, une cible.
+
+Touché : 6 (1d6+3) dégâts contondants.
 
 
 # Grenouille
@@ -10282,16 +9996,9 @@ contondants.
 
 ## Capacités
 
-Amphibie. La grenouille peut respirer à l'air libre et
-sous l'eau.
-Saut sans élan. La grenouille saute une longueur
-maximale de 3 mètres et une hauteur maximale de
-1,50 mètres, sans ou avec élan préalable.
-Une grenouille ne peut pas attaquer de manière efficace.
-Elle se nourrit de petits insectes et vit le plus souvent
-près des points d'eau, dans les arbres ou dans les
-zones souterraines. Le profil de la grenouille peut également
-servir à représenter un crapaud.
+Amphibie. La grenouille peut respirer à l'air libre et sous l'eau.
+
+Saut sans élan. La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
 
 
 # Grenouille géante
@@ -10311,33 +10018,19 @@ servir à représenter un crapaud.
 
 ## Capacités
 
-Amphibie. La grenouille peut respirer à l'air libre et
-sous l'eau.
-Saut sans élan. La grenouille saute une longueur
-maximale de 6 mètres et une hauteur maximale de
-3 mètres, sans ou avec élan préalable.
+Amphibie. La grenouille peut respirer à l'air libre et sous l'eau.
+
+Saut sans élan. La grenouille saute une longueur maximale de 6 mètres et une hauteur maximale de 3 mètres, sans ou avec élan préalable.
 
 ## Actions
 
-Engloutir. La grenouille effectue une attaque de
-morsure contre une cible de taille P ou plus petite
-qu'elle empoigne. Si l'attaque touche, la cible
-est engloutie et l'empoignade prend fin. La cible
-engloutie est aveuglée et entravée, elle bénéficie
-d'un abri total contre les attaques et autres effets
-provenant de l'extérieur de la grenouille et elle
-subit 5 (2d4) dégâts d'acide au début de chacun des
-tours de la grenouille.
-Si la grenouille meurt, une créature engloutie n'est
-plus entravée à cause d'elle et peut s'extirper de
-la carcasse en dépensant 1,50 mètres de déplacement
-; elle en sort à terre.
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 4 (1d6+1) dégâts perforants et la cible est
-empoignée (évasion DD 11). Jusqu'à la fin de cette
-empoignade, la cible est entravée et la grenouille ne
-peut pas mordre une autre cible.
+Engloutir. La grenouille effectue une attaque de morsure contre une cible de taille P ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la grenouille et elle subit 5 (2d4) dégâts d'acide au début de chacun des tours de la grenouille.
+
+Si la grenouille meurt, une créature engloutie n'est plus entravée à cause d'elle et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort à terre.
+
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 4 (1d6+1) dégâts perforants et la cible est empoignée (évasion DD 11). Jusqu'à la fin de cette empoignade, la cible est entravée et la grenouille ne peut pas mordre une autre cible.
 
 
 # Guêpe géante
@@ -10356,17 +10049,9 @@ peut pas mordre une autre cible.
 
 ## Actions
 
-Dard. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une créature.
-Touché : 5 (1d6+2) dégâts perforants et la cible doit
-effectuer un jet de sauvegarde de Constitution
-DD 11. Elle subit 10 (3d6) dégâts de poison en cas de
-jet de sauvegarde raté ou la moitié de ces dégâts
-seulement en cas de réussite. Si les dégâts de poison
-réduisent à 0 les points de vie de la cible, celle-ci est
-stable mais empoisonnée pendant 1 heure, même
-après avoir récupéré des points de vie, et elle est
-paralysée tant que le poison continue de faire effet.
+Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 
 
 # Hibou
@@ -10386,13 +10071,12 @@ paralysée tant que le poison continue de faire effet.
 
 ## Capacités
 
-Vue aiguisée. Le hibou obtient un avantage lors des
-tests de Sagesse (Perception) basés sur la vue.
+Vue aiguisée. Le hibou obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
+Serres. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d4+2) dégâts tranchants.
 
 
@@ -10413,26 +10097,19 @@ Touché : 4 (1d4+2) dégâts tranchants.
 
 ## Capacités
 
-Vue aiguisée. Le hibou obtient un avantage lors des
-tests de Sagesse (Perception) basés sur la vue.
+Vue aiguisée. Le hibou obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue.
 
 ## Actions
 
-Attaques multiples. Le hibou effectue deux attaques
-: une avec son bec et une avec ses serres.
-Bec. Attaque d'arme au corps à corps : +5 pour toucher,
-allonge 1,50 m, une cible.
+Attaques multiples. Le hibou effectue deux attaques : une avec son bec et une avec ses serres.
+
+Bec. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts perforants.
-Serres. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+
+Serres. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (2d6+3) dégâts tranchants.
-Le hibou géant est une créature évoluée qui parle sa
-propre langue et comprend le commun. Ce sont des
-sages solitaires, gardiens de leur domaine. La rumeur
-prétend que certains hiboux géants vivent particulièrement
-vieux, deviennent aveugles et développent des
-pouvoirs magiques mais aucun naturaliste sérieux ne l'a
-jamais attesté.
 
 
 # Hippocampe
@@ -10451,8 +10128,7 @@ jamais attesté.
 
 ## Capacités
 
-Respiration aquatique. L'hippocampe peut respirer
-uniquement sous l'eau.
+Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
 
 
 # Hippocampe géant
@@ -10471,25 +10147,15 @@ uniquement sous l'eau.
 
 ## Capacités
 
-Charge. Si l'hippocampe se déplace en ligne droite
-sur une distance minimale de 6 mètres vers une
-cible contre laquelle il réussit ensuite une attaque
-de coup de bélier lors du même tour, celle-ci subit
-7 (2d6) dégâts contondants supplémentaires. Si la
-cible est une créature, elle doit réussir un jet de sauvegarde
-de Force DD 11 pour ne pas être jetée à terre.
-Respiration aquatique. L'hippocampe peut respirer
-uniquement sous l'eau.
+Charge. Si l'hippocampe se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
+
+Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps :
-+3 pour toucher, allonge 1,50 m, une cible.
+Coup de bélier. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d6+1) dégâts contondants.
-Comme leurs semblables plus petits, les hippocampes
-géants sont des poissons farouches et colorés dotés d'un
-corps allongé et d'une queue en boucle. Les elfes aquatiques
-les dressent pour pouvoir les chevaucher.
 
 
 # Hyène
@@ -10509,16 +10175,12 @@ les dressent pour pouvoir les chevaucher.
 
 ## Capacités
 
-Tactique de groupe. La hyène obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés de la hyène, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'elle attaque.
+Tactique de groupe. La hyène obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés de la hyène, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'elle attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 3 (1d6) dégâts perforants.
 
 
@@ -10539,17 +10201,12 @@ Touché : 3 (1d6) dégâts perforants.
 
 ## Capacités
 
-Déchaînée. Quand la hyène réduit les points de
-vie d'une créature à 0 suite à une attaque au corps
-à corps lors de son tour, elle peut effectuer une
-action bonus pour se déplacer sur une distance
-maximale égale à la moitié de sa vitesse et effectuer
-une attaque de morsure.
+Déchaînée. Quand la hyène réduit les points de vie d'une créature à 0 suite à une attaque au corps à corps lors de son tour, elle peut effectuer une action bonus pour se déplacer sur une distance maximale égale à la moitié de sa vitesse et effectuer une attaque de morsure.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (2d6+3) dégâts perforants.
 
 
@@ -10569,11 +10226,9 @@ Touché : 10 (2d6+3) dégâts perforants.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +0 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât
-perforant.
+Touché : 1 dégât perforant.
 
 
 # Lézard géant
@@ -10592,15 +10247,9 @@ perforant.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d8+2) dégâts perforants.
-Le lézard géant peut faire office de monture ou d'animal
-de trait. Ce sont également des animaux de compagnie
-pour les hommes-lézards. Les spécimens géants qui
-vivent sous terre sont utilisés comme montures et bêtes
-de somme par les elfes noirs et les duergars et d'autres
-habitants de l'Ombreterre.
 
 
 # Lion
@@ -10620,32 +10269,20 @@ habitants de l'Ombreterre.
 
 ## Capacités
 
-Bond agressif. Si le lion se déplace en ligne droite
-sur une distance minimale de 6 mètres vers une
-créature contre laquelle il réussit ensuite une
-attaque de griffe lors du même tour, celle-ci doit
-réussir un jet de sauvegarde de Force DD 13 pour
-ne pas être jetée à terre. Si la cible est à terre, le lion
-peut effectuer une attaque de morsure contre elle
-par une action bonus.
-Odorat aiguisé. Le lion obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'odorat.
-Saut avec élan. Le lion peut sauter une longueur
-maximale de 7,50 mètres s'il prend un élan de
-3 mètres.
-Tactique de groupe. Le lion obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du lion qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Bond agressif. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le lion peut effectuer une attaque de morsure contre elle par une action bonus.
+
+Odorat aiguisé. Le lion obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat. Saut avec élan. Le lion peut sauter une longueur maximale de 7,50 mètres s'il prend un élan de 3 mètres.
+
+Tactique de groupe. Le lion obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du lion qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Griffe. Attaque d'arme au corps à corps : +5 pour toucher,
-allonge 1,50 m, une cible.
+Griffe. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 7 (1d8+3) dégâts perforants.
 
 
@@ -10666,22 +10303,15 @@ Touché : 7 (1d8+3) dégâts perforants.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le loup obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
-Tactique de groupe. Le loup obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du loup qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Odorat et ouïe aiguisés. Le loup obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
+
+Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 7 (2d4+2) dégâts perforants. Si la cible est
-une créature, elle doit réussir un jet de sauvegarde
-de Force DD 11 pour ne pas être jetée à terre.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
 
 
 # Loup arctique
@@ -10702,42 +10332,21 @@ de Force DD 11 pour ne pas être jetée à terre.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le loup obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
-Camouflage dans la neige. Le loup obtient un
-avantage lors des tests de Dextérité (Discrétion)
-effectués pour se cacher dans des environnements
-enneigés.
-Tactique de groupe. Le loup obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du loup qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Odorat et ouïe aiguisés. Le loup obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
+
+Camouflage dans la neige. Le loup obtient un avantage lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements enneigés.
+
+Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 11 (2d6+4) dégâts perforants. Si la cible est
-une créature, elle doit réussir un jet de sauvegarde
-de Force DD 14 pour ne pas être jetée à terre.
-Souffle glacial (Recharge 5-6). Le loup souffle une
-bourrasque d'air glacé sur un cône de 4,50 mètres.
-Les créatures dans ce cône doivent chacune réussir
-un jet de sauvegarde de Dextérité DD 12 ; elles
-subissent 18 (4d8) dégâts de froid en cas de jet de
-sauvegarde raté ou la moitié de ces dégâts seulement
-en cas de réussite.
-Acclimaté aux environnements froids, le loup arctique est
-aussi gros qu'un loup sanguinaire, mais sa fourrure est aussi
-blanche que la neige et ses yeux sont bleu clair. Les géants du
-givre font de ces créatures malfaisantes leurs gardes et leurs
-compagnons de chasse. Ils exploitent le redoutable souffle
-de ces loups pour abattre leurs ennemis. Les loups arctiques
-communiquent entre eux en grognant et en aboyant, mais
-ils maîtrisent aussi assez de mots en commun et en géant
-pour mener une conversation basique.
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre.
+
+Souffle glacial (Recharge 5-6). Le loup souffle une bourrasque d'air glacé sur un cône de 4,50 mètres.
+
+Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Dextérité DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Loup sanguinaire
@@ -10757,22 +10366,15 @@ pour mener une conversation basique.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le loup obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
-Tactique de groupe. Le loup obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du loup, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Odorat et ouïe aiguisés. Le loup obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
+
+Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 10 (2d6+3) dégâts perforants. Si la cible est
-une créature, elle doit réussir un jet de sauvegarde
-de Force DD 13 pour ne pas être jetée à terre.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
 
 
 # Mammouth
@@ -10791,29 +10393,17 @@ de Force DD 13 pour ne pas être jetée à terre.
 
 ## Capacités
 
-Charge écrasante. Si le mammouth se déplace en
-ligne droite sur une distance minimale de 6 mètres
-vers une créature contre laquelle il réussit ensuite
-une attaque de coup de défense lors du même tour,
-celle-ci doit réussir un jet de sauvegarde de Force
-DD 18 pour ne pas être jetée à terre. Si la cible est à
-terre, le mammouth peut effectuer contre elle une
-attaque de piétinement par une action bonus.
+Charge écrasante. Si le mammouth se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 18 pour ne pas être jetée à terre. Si la cible est à terre, le mammouth peut effectuer contre elle une attaque de piétinement par une action bonus.
 
 ## Actions
 
-Coup de défense. Attaque d'arme au corps à corps :
-+10 pour toucher, allonge 3 m, une cible.
+Coup de défense. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
+
 Touché : 25 (4d8+7) dégâts perforants.
-Piétinement. Attaque d'arme au corps à corps :
-+10 pour toucher, allonge 1,50 m, une créature à
-terre.
+
+Piétinement. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature à terre.
 
 Touché : 29 (4d10+7) dégâts contondants.
-Le mammouth est une créature éléphantesque dotée
-d'une épaisse fourrure et de longues défenses. Plus trapu
-et féroce que les éléphants ordinaires, les mammouths
-vivent sous divers climats, du subarctique au subtropical.
 
 
 # Mastiff
@@ -10833,22 +10423,13 @@ vivent sous divers climats, du subarctique au subtropical.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le mastiff obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
+Odorat et ouïe aiguisés. Le mastiff obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 4 (1d6+1) dégâts perforants. Si la cible est
-une créature, elle doit réussir un jet de sauvegarde
-de Force DD 11 pour ne pas être jetée à terre.
-Les mastiffs sont des chiens imposants appréciés des
-humanoïdes pour leur fidélité et leurs sens aiguisés. On
-peut les dresser pour en faire des chiens de garde, de
-chasse ou de guerre. Ils servent de montures aux halfelins
-et autres humanoïdes de petite taille.
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
 
 
 # Mille-pattes géant
@@ -10867,16 +10448,9 @@ et autres humanoïdes de petite taille.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 4 (1d4+2) dégâts perforants et la cible doit
-réussir un jet de sauvegarde de Constitution DD 11
-pour ne pas subir 10 (3d6) dégâts de poison. Si les
-dégâts de poison réduisent à 0 les points de vie
-de la cible, celle-ci est stable mais empoisonnée
-pendant 1 heure, même après avoir récupéré des
-points de vie, et elle est paralysée tant que le poison
-continue de faire effet.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 
 
 # Mule
@@ -10895,17 +10469,14 @@ continue de faire effet.
 
 ## Capacités
 
-Bête de somme. On considère la mule comme une
-créature de taille G pour déterminer sa capacité de
-transport.
-Pied sûr. La mule obtient un avantage lors des jets
-de sauvegarde de Force et de Dextérité effectués
-contre les effets susceptibles de la jeter à terre.
+Bête de somme. On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.
+
+Pied sûr. La mule obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter à terre.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d4+2) dégâts contondants.
 
 
@@ -10927,26 +10498,17 @@ Touché : 4 (1d4+2) dégâts contondants.
 
 ## Capacités
 
-Écholocalisation. La nuée ne peut pas utiliser sa
-vision aveugle si elle est assourdie.
-Nuée. La nuée peut occuper l'emplacement d'une
-autre créature, et vice versa. Elle peut passer par
-n'importe quelle ouverture suffisamment large
-pour une chauve-souris de taille TP. Elle ne peut pas
-récupérer de point de vie ni gagner de point de vie
-temporaire.
-Ouïe aiguisée. La nuée obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'ouïe.
+Écholocalisation. La nuée ne peut pas utiliser sa vision aveugle si elle est assourdie.
+
+Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour une chauve-souris de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
+
+Ouïe aiguisée. La nuée obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 0 m, une créature dans l'emplacement
-de la nuée.
+Morsures. Attaque d'arme au corps à corps : +4 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
-Touché : 5 (2d4) dégâts perforants
-ou 2 (1d4) dégâts perforants si la nuée a perdu au
-moins la moitié de ses points de vie.
+Touché : 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
 # Nuée de corbeaux
@@ -10968,22 +10530,13 @@ moins la moitié de ses points de vie.
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une
-autre créature, et vice versa. Elle peut passer par
-n'importe quelle ouverture suffisamment large
-pour un corbeau de taille TP. Elle ne peut pas
-récupérer de point de vie ni gagner de point de vie
-temporaire.
+Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un corbeau de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
 
 ## Actions
 
-Becs. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une créature dans l'emplacement
-de la nuée.
+Becs. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature dans l'emplacement de la nuée.
 
-Touché : 7 (2d6) dégâts perforants
-ou 3 (1d6) dégâts perforants si la nuée a perdu au
-moins la moitié de ses points de vie.
+Touché : 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
 # Nuée de piranhas
@@ -11004,26 +10557,17 @@ moins la moitié de ses points de vie.
 
 ## Capacités
 
-Frénésie sanguinaire. La nuée obtient un avantage
-lors des jets d'attaque effectués contre les créatures
-qui n'ont pas la totalité de leurs points de vie.
-Nuée. La nuée peut occuper l'emplacement d'une
-autre créature, et vice versa. Elle peut passer par
-n'importe quelle ouverture suffisamment large pour
-un piranhar de taille TP. Elle ne peut pas récupérer
-de point de vie ni gagner de point de vie temporaire.
-Respiration aquatique. La nuée peut respirer uniquement
-sous l'eau.
+Frénésie sanguinaire. La nuée obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+
+Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un piranhar de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
+
+Respiration aquatique. La nuée peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 0 m, une créature dans l'emplacement
-de la nuée.
+Morsures. Attaque d'arme au corps à corps : +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
-Touché : 14 (4d6) dégâts perforants
-ou 7 (2d6) dégâts perforants si la nuée a perdu au
-moins la moitié de ses points de vie.
+Touché : 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
 # Nuée de rats
@@ -11044,23 +10588,15 @@ moins la moitié de ses points de vie.
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une
-autre créature, et vice versa. Elle peut passer par
-n'importe quelle ouverture suffisamment large pour
-un rat de taille TP. Elle ne peut pas récupérer de
-point de vie ou gagner de point de vie temporaire.
-Odorat aiguisé. La nuée obtient un avantage lors
-des tests de Sagesse (Perception) basés sur l'odorat.
+Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un rat de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+
+Odorat aiguisé. La nuée obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 0 m, une créature dans l'emplacement
-de la nuée.
+Morsures. Attaque d'arme au corps à corps : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
-Touché : 7 (2d6) dégâts perforants
-ou 3 (1d6) dégâts perforants si la nuée a perdu au
-moins la moitié de ses points de vie.
+Touché : 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
 # Nuée de serpents venimeux
@@ -11081,26 +10617,13 @@ moins la moitié de ses points de vie.
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une
-autre créature, et vice versa. Elle peut passer par
-n'importe quelle ouverture suffisamment large
-pour un serpent de taille TP. Elle ne peut pas récupérer
-de point de vie ou gagner de point de vie
-temporaire.
+Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un serpent de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 0 m, une créature dans l'emplacement
-de la nuée.
+Morsures. Attaque d'arme au corps à corps : +6 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
-Touché : 7 (2d6) dégâts perforants
-ou 3 (1d6) dégâts perforants si la nuée a perdu au
-moins la moitié de ses points de vie. La cible doit
-effectuer un jet de sauvegarde de Constitution
-DD 10. Elle subit 14 (4d6) dégâts de poison en cas de
-jet de sauvegarde raté ou la moitié de ces dégâts
-seulement en cas de réussite.
+Touché : 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un jet de sauvegarde de Constitution DD 10. Elle subit 14 (4d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Nuée d'insectes
@@ -11121,55 +10644,33 @@ seulement en cas de réussite.
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une
-autre créature, et vice versa. Elle peut passer par
-n'importe quelle ouverture suffisamment large
-pour un insecte de taille TP. Elle ne peut pas récupérer
-de point de vie ou gagner de point de vie
-temporaire.
+Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 0 m, une créature dans l'emplacement
-de la nuée.
+Morsures. Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
-Touché : 10 (4d4) dégâts perforants
-ou 5 (2d4) dégâts perforants si la nuée a perdu au
-moins la moitié de ses points de vie.
+Touché : 10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
+
 Variante : nuée d'insectes
-Il existe plusieurs types d'insectes susceptibles
-de se rassembler en nuées, et chacun
-possède les caractéristiques spéciales indiquées
-ci-dessous.
-Nuée de scarabées. Une nuée de scarabées
-dispose d'une vitesse de fouissement de
-1,50 mètre.
-Nuée de mille-pattes. Si une créature tombe
-à 0 point de vie à cause d'une nuée de millepattes,
-elle est stable mais empoisonnée pendant
-une heure, même après avoir récupéré
-des points de vie. Elle est paralysée tant qu'elle
-est ainsi empoisonnée.
-Nuée d'araignée. Une nuée d'araignée possède
-les traits supplémentaires suivants.
-Pattes d'araignée. La nuée gravit des surfaces
-difficile et se déplace au plafond la tête
-en bas sans avoir besoin de faire de test de caractéristique.
-Marche dans les toiles. La nuée ignore les
-restrictions de déplacement imposées par les
-toiles d'araignée.
-Nuée de guêpes. Une nuée de guêpes possède
-une vitesse au sol de 1,50 mètre, une vitesse
-en vol de 9 mètres et aucune vitesse d'escalade.
+
+Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et chacun possède les caractéristiques spéciales indiquées ci-dessous.
+
+Nuée de scarabées. Une nuée de scarabées dispose d'une vitesse de fouissement de 1,50 mètre.
+
+Nuée de mille-pattes. Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais empoisonnée pendant une heure, même après avoir récupéré des points de vie. Elle est paralysée tant qu'elle est ainsi empoisonnée.
+
+Nuée d'araignée. Une nuée d'araignée possède les traits supplémentaires suivants.
+
+Pattes d'araignée. La nuée gravit des surfaces difficile et se déplace au plafond la tête en bas sans avoir besoin de faire de test de caractéristique.
+
+Marche dans les toiles. La nuée ignore les restrictions de déplacement imposées par les toiles d'araignée.
+
+Nuée de guêpes. Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
 
 
-# Ours
-- Ces puissants mammifères n'apprécient pas d'être dérangés
-et défendent farouchement leur territoire et leurs
-petits.
-Ours brun
-Bête de taille G, non-alignée
+# Ours brun
+- Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 34 (4d10+12)
 - **Vitesse** 12 m, escalade 9 m
@@ -11185,18 +10686,18 @@ Bête de taille G, non-alignée
 
 ## Capacités
 
-Odorat aiguisé. L'ours obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'odorat.
+Odorat aiguisé. L'ours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Attaques multiples. L'ours effectue deux attaques :
-une avec sa morsure et une avec ses griffes.
-Griffes. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. L'ours effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+Griffes. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 8 (1d8+4) dégâts perforants.
 
 
@@ -11217,18 +10718,18 @@ Touché : 8 (1d8+4) dégâts perforants.
 
 ## Capacités
 
-Odorat aiguisé. L'ours obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'odorat.
+Odorat aiguisé. L'ours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Attaques multiples. L'ours effectue deux attaques :
-une avec sa morsure et une avec ses griffes.
-Griffes. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. L'ours effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+Griffes. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 7 (2d4+2) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (1d6+2) dégâts perforants.
 
 
@@ -11249,18 +10750,18 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-Odorat aiguisé. L'ours obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'odorat.
+Odorat aiguisé. L'ours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Attaques multiples. L'ours effectue deux attaques :
-une avec sa morsure et une avec ses griffes.
-Griffes. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. L'ours effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+Griffes. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 12 (2d6+5) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 9 (1d8+5) dégâts perforants.
 
 
@@ -11281,25 +10782,18 @@ Touché : 9 (1d8+5) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si la panthère se déplace en ligne
-droite sur une distance minimale de 6 mètres vers
-une créature contre laquelle elle réussit ensuite
-une attaque de griffe lors du même tour, celle-ci
-doit réussir un jet de sauvegarde de Force DD 12
-pour ne pas être jetée à terre. Si la cible est à terre,
-la panthère peut effectuer une attaque de morsure
-contre elle par une action bonus.
-Odorat aiguisé. La panthère obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat.
+Bond agressif. Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée à terre. Si la cible est à terre, la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+
+Odorat aiguisé. La panthère obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Griffe. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une cible.
+Griffe. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d4+2) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (1d6+2) dégâts perforants.
 
 
@@ -11320,31 +10814,19 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-Camouflage sous l'eau. La pieuvre obtient un
-avantage lors des tests de Dextérité (Discrétion)
-effectués sous l'eau.
-Respiration aquatique. La pieuvre peut respirer
-uniquement sous l'eau.
-Retenir son souffle. La pieuvre peut retenir son
-souffle pendant 30 minutes lorsqu'elle n'est plus
-dans l'eau.
+Camouflage sous l'eau. La pieuvre obtient un avantage lors des tests de Dextérité (Discrétion) effectués sous l'eau.
+
+Respiration aquatique. La pieuvre peut respirer uniquement sous l'eau.
+
+Retenir son souffle. La pieuvre peut retenir son souffle pendant 30 minutes lorsqu'elle n'est plus dans l'eau.
 
 ## Actions
 
-Nuage d'encre (Recharge après un repos court ou
-long). Lorsqu'elle est sous l'eau, la pieuvre répand
-un nuage d'encre sur un rayon de 1,50 mètre autour
-d'elle. La visibilité dans la zone est fortement obstruée
-pendant 1 minute mais un courant significatif
-peut disperser l'encre. Après avoir répandu son
-nuage, la pieuvre peut effectuer l'action Se précipiter
-par une action bonus.
-Tentacules. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 1 dégât contondant et la cible est empoignée
-(évasion DD 10). Jusqu'au terme de cette empoignade,
-la cible est entravée et la pieuvre ne peut pas
-utiliser ses tentacules sur une autre cible.
+Nuage d'encre (Recharge après un repos court ou long). Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 1,50 mètre autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
+
+Tentacules. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 1 dégât contondant et la cible est empoignée (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est entravée et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
 
 
 # Pieuvre géante
@@ -11364,32 +10846,21 @@ utiliser ses tentacules sur une autre cible.
 
 ## Capacités
 
-Camouflage sous l'eau. La pieuvre obtient un
-avantage lors des tests de Dextérité (Discrétion)
-effectués sous l'eau.
-Respiration aquatique. La pieuvre peut respirer
-uniquement sous l'eau.
-Retenir son souffle. La pieuvre peut retenir son
-souffle pendant 1 heure lorsqu'elle n'est plus dans
-l'eau.
+Camouflage sous l'eau. La pieuvre obtient un avantage lors des tests de Dextérité (Discrétion) effectués sous l'eau.
+
+Respiration aquatique. La pieuvre peut respirer uniquement sous l'eau.
+
+Retenir son souffle. La pieuvre peut retenir son souffle pendant 1 heure lorsqu'elle n'est plus dans l'eau.
 
 ## Actions
 
-Nuage d'encre (Recharge après un repos court ou
-long). Lorsqu'elle est sous l'eau, la pieuvre répand
-un nuage d'encre sur un rayon de 6 mètres autour
-d'elle. La visibilité dans la zone est fortement obstruée
-pendant 1 minute mais un courant significatif
-peut disperser l'encre. Après avoir répandu son
-nuage, la pieuvre peut effectuer l'action Se précipiter
-par une action bonus.
-Tentacules. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 4,50 m, une cible.
-Touché : 10 (2d6+3) dégâts contondants et, si la cible
-est une créature, elle est empoignée (évasion DD 16).
-Jusqu'au terme de cette empoignade, la cible est
-entravée et la pieuvre ne peut pas utiliser ses tentacules
-contre une autre cible.
+Nuage d'encre (Recharge après un repos court ou long). Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 6 mètres autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
+
+Tentacules. Attaque d'arme au corps à corps : +5 pour toucher, allonge 4,50 m, une cible.
+
+Touché : 10 (2d6+3) dégâts contondants et, si la cible est une créature, elle est empoignée (évasion DD 16).
+
+Jusqu'au terme de cette empoignade, la cible est entravée et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
 
 
 # Piranha
@@ -11408,25 +10879,15 @@ contre une autre cible.
 
 ## Capacités
 
-Frénésie sanguinaire. Le piranha obtient un avantage
-lors des jets d'attaque effectués contre les créatures
-qui n'ont pas la totalité de leurs points de vie.
-Respiration aquatique. Le piranha peut respirer
-uniquement sous l'eau.
+Frénésie sanguinaire. Le piranha obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+
+Respiration aquatique. Le piranha peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât
-perforant.
-Le piranha est un poisson carnivore aux crocs acérés.
-Il s'acclimate à n'importe quel type d'environnement
-aquatique, y compris les lacs souterrains aux eaux
-froides. Les piranhas se rassemblent souvent en nuées ;
-le profil d'une nuée de piranhas apparaît plus loin dans
-cette annexe.
+Touché : 1 dégât perforant.
 
 
 # Poney
@@ -11445,11 +10906,9 @@ cette annexe.
 
 ## Actions
 
-Sabots. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
+Sabots. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 7 (2d4+2)
-dégâts contondants.
+Touché : 7 (2d4+2) dégâts contondants.
 
 
 # Punaise de feu géante
@@ -11468,22 +10927,13 @@ dégâts contondants.
 
 ## Capacités
 
-Illumination. La punaise diffuse une lumière vive
-sur un rayon de 3 mètres et une lumière faible sur un
-rayon de 3 mètres supplémentaires.
+Illumination. La punaise diffuse une lumière vive sur un rayon de 3 mètres et une lumière faible sur un rayon de 3 mètres supplémentaires.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +1 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 2 (1d6-1) dégâts tranchants.
-La punaise de feu géante est une créature nocturne qui
-doit son nom aux deux glandes lumineuses dont elle est
-dotée. Mineurs et aventuriers attachent beaucoup d'importance
-à ces créatures, car leurs glandes continuent de
-diffuser de la lumière pendant 1d6 jours après la mort
-de la créature. On trouve la plupart des punaises de feu
-géantes sous terre et dans les sombres forêts.
 
 
 # Rat
@@ -11502,16 +10952,13 @@ géantes sous terre et dans les sombres forêts.
 
 ## Capacités
 
-Odorat aiguisé. Le rat obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'odorat.
+Odorat aiguisé. Le rat obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +0 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât
-perforant.
+Touché : 1 dégât perforant.
 
 
 # Rat géant
@@ -11530,38 +10977,23 @@ perforant.
 
 ## Capacités
 
-Odorat aiguisé. Le rat obtient un avantage lors des
-tests de Sagesse (Perception) basés sur l'odorat.
-Tactique de groupe. Le rat obtient un avantage lors
-d'un jet d'attaque effectué contre une créature si au
-moins un des alliés du rat, qui n'est pas neutralisé,
-se trouve à 1,50 mètre ou moins de la créature qu'il
-attaque.
+Odorat aiguisé. Le rat obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
+
+Tactique de groupe. Le rat obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du rat, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps
-à corps : +4 pour toucher, allonge
-1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d4+2) dégâts perforants.
+
 Variante : rats géants malades
-Certains rats géants sont porteurs d'ignobles
-maladies transmissibles par morsure. Un rat
-géant malade a un indice de dangerosité de 1/8
-(25 PX) et dispose de l'action décrite ci-dessous
-à la place de son attaque de morsure.
-Morsure. Attaque d'arme au corps à corps :
-+4 pour toucher, allonge 1,50 m, une cible.
-Touché : 4 (1d4+2) dégâts perforants. Si la cible
-est une créature, elle doit réussir un jet de sauvegarde
-de Constitution DD 10 pour ne pas
-contracter la maladie. Tant que cette maladie
-n'est pas soignée, la cible ne peut plus récupérer
-de points de vie, sauf par des moyens
-magiques, et son total maximum de points de
-vie diminue de 3 (1d6) toutes les 24 heures. Elle
-meurt si son total maximum de points de vie
-tombe à 0 à cause de cette maladie.
+
+Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsure. Un rat géant malade a un indice de dangerosité de 1/8 (25 PX) et dispose de l'action décrite ci-dessous à la place de son attaque de morsure.
+
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points de vie, sauf par des moyens magiques, et son total maximum de points de vie diminue de 3 (1d6) toutes les 24 heures. Elle meurt si son total maximum de points de vie tombe à 0 à cause de cette maladie.
 
 
 # Requin chasseur
@@ -11581,23 +11013,15 @@ tombe à 0 à cause de cette maladie.
 
 ## Capacités
 
-Frénésie sanguinaire. Le requin obtient un avantage
-lors des jets d'attaque effectués contre les créatures
-qui n'ont pas la totalité de leurs points de vie.
-Respiration aquatique. Le requin peut respirer
-uniquement sous l'eau.
+Frénésie sanguinaire. Le requin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+
+Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 13 (2d8+4) dégâts perforants.
-Plus petit que le requin géant mais plus gros et plus féroce
-que le requin de récif, le requin chasseur rôde en eau
-profonde. Il chasse le plus souvent seul mais plusieurs requins
-chasseurs peuvent se nourrir dans un même territoire.
-Un requin chasseur adulte mesure entre 4,50 mètres
-et 6 mètres de long.
 
 
 # Requin de récif
@@ -11617,24 +11041,15 @@ et 6 mètres de long.
 
 ## Capacités
 
-Respiration aquatique. Le requin peut respirer
-uniquement sous l'eau.
-Tactique de groupe. Le requin obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du requin, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
+
+Tactique de groupe. Le requin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du requin, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d8+2) dégâts perforants.
-Plus petit que les requins géants et les requins chasseurs,
-les requins de récif nagent dans des eaux peu profondes,
-parmi les récifs de corail, et se rassemblent en
-bancs de petite taille. Un spécimen adulte mesure entre
-1,80 mètre et 3 mètres de long.
 
 
 # Requin géant
@@ -11654,21 +11069,15 @@ bancs de petite taille. Un spécimen adulte mesure entre
 
 ## Capacités
 
-Frénésie sanguinaire. Le requin obtient un avantage
-lors des jets d'attaque effectués contre les créatures
-qui n'ont pas la totalité de leurs points de vie.
-Respiration aquatique. Le requin peut respirer
-uniquement sous l'eau.
+Frénésie sanguinaire. Le requin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+
+Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +9 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 22 (3d10+6) dégâts perforants.
-Le requin géant fait 10 mètres de long et on le trouve
-généralement dans les profondeurs océaniques. Excessivement
-intrépide, il s'en prend à tout ce qu'il croise, y
-compris les baleines et les navires.
 
 
 # Rhinocéros
@@ -11687,19 +11096,14 @@ compris les baleines et les navires.
 
 ## Capacités
 
-Charge. Si le rhinocéros se déplace en ligne droite
-sur une distance minimale de 6 mètres vers une
-cible contre laquelle il réussit ensuite une attaque
-de coup de corne lors du même tour, sa victime
-subit 9 (2d8) dégâts contondants supplémentaires.
-Si la cible est une créature, elle doit réussir un jet de
-sauvegarde de Force DD 15 pour ne pas être jetée à
-terre.
+Charge. Si le rhinocéros se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, sa victime subit 9 (2d8) dégâts contondants supplémentaires.
+
+Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée à terre.
 
 ## Actions
 
-Coup de corne. Attaque d'arme au corps à corps :
-+7 pour toucher, allonge 1,50 m, une cible.
+Coup de corne. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 14 (2d8+5) dégâts contondants.
 
 
@@ -11719,22 +11123,14 @@ Touché : 14 (2d8+5) dégâts contondants.
 
 ## Capacités
 
-Charge. Si le sanglier se déplace de 6 mètres au
-moins en ligne droite vers une cible contre laquelle
-il réussit ensuite une attaque de défense lors du
-même tour, celle-ci subit 3 (1d6) dégâts tranchants
-supplémentaires. Si la cible est une créature, elle
-doit réussir un jet de sauvegarde de Force DD 11
-pour ne pas être jetée à terre.
-Implacable (Recharge après un repos court ou
-long). Si le sanglier subit 7 dégâts ou moins et que
-cette blessure devrait réduire son total actuel de
-points de vie à 0, celui-ci est réduit à 1 à la place.
+Charge. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 3 (1d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
+
+Implacable (Recharge après un repos court ou long). Si le sanglier subit 7 dégâts ou moins et que cette blessure devrait réduire son total actuel de points de vie à 0, celui-ci est réduit à 1 à la place.
 
 ## Actions
 
-Défense. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Défense. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d6+1) dégâts tranchants.
 
 
@@ -11754,22 +11150,14 @@ Touché : 4 (1d6+1) dégâts tranchants.
 
 ## Capacités
 
-Charge. Si le sanglier se déplace de 6 mètres au
-moins en ligne droite vers une cible contre laquelle
-il réussit ensuite une attaque de défense lors du
-même tour, celle-ci subit 7 (2d6) dégâts tranchants
-supplémentaires. Si la cible est une créature, elle
-doit réussir un jet de sauvegarde de Force DD 13
-pour ne pas être jetée à terre.
-Implacable (Recharge après un repos court ou
-long). Si le sanglier subit 10 dégâts ou moins et que
-cette blessure devrait réduire son total actuel de
-points de vie à 0, celui-ci est réduit à 1 à la place.
+Charge. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+
+Implacable (Recharge après un repos court ou long). Si le sanglier subit 10 dégâts ou moins et que cette blessure devrait réduire son total actuel de points de vie à 0, celui-ci est réduit à 1 à la place.
 
 ## Actions
 
-Défense. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Défense. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (2d6+3) dégâts tranchants.
 
 
@@ -11789,15 +11177,9 @@ Touché : 10 (2d6+3) dégâts tranchants.
 
 ## Actions
 
-Dard. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une créature.
+Dard. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 1
-dégât perforant et la cible doit effectuer un jet de
-sauvegarde de Constitution DD 9. Elle subit 4 (1d8)
-dégâts de poison en cas de jet de sauvegarde raté
-ou la moitié de ces dégâts seulement en cas de
-réussite.
+Touché : 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 9. Elle subit 4 (1d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Scorpion géant
@@ -11816,23 +11198,15 @@ réussite.
 
 ## Actions
 
-Attaques multiples. Le scorpion effectue trois attaques
-: deux avec ses pinces et une avec son dard.
-Dard. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une créature.
-Touché : 7 (1d10+2) dégâts perforants et la cible doit
-effectuer un jet de sauvegarde de Constitution
-DD 12. Elle subit 22 (4d10) dégâts de poison en cas
-de jet de sauvegarde raté ou la moitié de ces dégâts
-seulement en cas de réussite.
-Pince. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une cible.
-Touché : 6 (1d8+2) dégâts contondants et la cible est
-empoignée (évasion DD 12). Le scorpion a deux pinces
-dont chacune ne peut empoigner qu'une seule cible.
-Serpents
-"Venimeux, constricteurs ou volants, les serpents
-constituent toujours un danger bien réel."
+Attaques multiples. Le scorpion effectue trois attaques : deux avec ses pinces et une avec son dard.
+
+Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 12. Elle subit 22 (4d10) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+Pince. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 6 (1d8+2) dégâts contondants et la cible est empoignée (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
 # Serpent constricteur
@@ -11851,20 +11225,17 @@ constituent toujours un danger bien réel."
 
 ## Actions
 
-Comprimer. Attaque d'arme au corps à corps : +4
-pour toucher, allonge 1,50 m, une créature.
-Touché : 6 (1d8+2) dégâts contondants et la cible est
-empoignée (évasion DD 14). Jusqu'au terme de cette
-empoignade, la créature est entravée et le serpent
-ne peut pas comprimer une autre cible.
-Morsure. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une créature.
+Comprimer. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 6 (1d8+2) dégâts contondants et la cible est empoignée (évasion DD 14). Jusqu'au terme de cette empoignade, la créature est entravée et le serpent ne peut pas comprimer une autre cible.
+
+Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
 Touché : 5 (1d6+2) dégâts perforants.
 
 
-# Serpent
-- constricteur géant
-Bête de taille TG, non-alignée
+# Serpent constricteur géant
+- Bête de taille TG, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 60 (8d12+8)
 - **Vitesse** 9 m, nage 9 m
@@ -11880,14 +11251,12 @@ Bête de taille TG, non-alignée
 
 ## Actions
 
-Comprimer. Attaque d'arme au corps à corps :
-+6 pour toucher, allonge 1,50 m, une créature.
-Touché : 13 (2d8+4) dégâts contondants et la cible
-est empoignée (évasion DD 16). Jusqu'au terme de
-cette empoignade, la créature est entravée et le
-serpent ne peut pas comprimer une autre cible.
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 3 m, une créature.
+Comprimer. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 13 (2d8+4) dégâts contondants et la cible est empoignée (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est entravée et le serpent ne peut pas comprimer une autre cible.
+
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature.
+
 Touché : 11 (2d6+4) dégâts perforants.
 
 
@@ -11907,14 +11276,9 @@ Touché : 11 (2d6+4) dégâts perforants.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât
-perforant et la cible doit effectuer un jet de sauvegarde
-de Constitution DD 10. Elle subit 5 (2d4) dégâts
-de poison en cas de jet de sauvegarde raté et la
-moitié de ces dégâts seulement en cas de réussite.
+Touché : 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 10. Elle subit 5 (2d4) dégâts de poison en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Serpent venimeux géant
@@ -11934,13 +11298,11 @@ moitié de ces dégâts seulement en cas de réussite.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 3 m, une cible.
-Touché : 6 (1d4+4) dégâts perforants et la cible doit
-effectuer un jet de sauvegarde de Constitution DD 11.
-Elle subit 10 (3d6) dégâts de poison en cas de jet de
-sauvegarde raté et la moitié de ces dégâts seulement
-en cas de réussite.
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
+Touché : 6 (1d4+4) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11.
+
+Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Serpent volant
@@ -11959,23 +11321,13 @@ en cas de réussite.
 
 ## Capacités
 
-Repli aérien. Le serpent ne provoque pas d'attaque
-d'opportunité quand il passe hors de portée de
-l'allonge d'un ennemi.
+Repli aérien. Le serpent ne provoque pas d'attaque d'opportunité quand il passe hors de portée de l'allonge d'un ennemi.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât
-perforant plus 7 (3d4) dégâts de poison.
-Le serpent volant est un reptile ailé aux couleurs
-vives que l'on trouve dans les jungles reculées.
-Les membres de tribus et de sectes domestiquent
-parfois ces serpents pour en faire des messagers
-capables de livrer des parchemins qu'ils serrent
-dans leurs anneaux.
+Touché : 1 dégât perforant plus 7 (3d4) dégâts de poison.
 
 
 # Singe géant
@@ -11995,18 +11347,15 @@ dans leurs anneaux.
 
 ## Actions
 
-Attaques multiples. Le singe effectue deux attaques
-de poing.
-Poing. Attaque d'arme au corps à corps : +9 pour
-toucher, allonge 3 m, une cible.
+Attaques multiples. Le singe effectue deux attaques de poing.
 
-Touché : 22 (3d10+6)
-dégâts contondants.
-Rocher. Attaque d'arme à distance : +9 pour toucher,
-portée 15/30 m, une cible.
+Poing. Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
 
-Touché : 30 (7d6+6) dégâts
-contondants.
+Touché : 22 (3d10+6) dégâts contondants.
+
+Rocher. Attaque d'arme à distance : +9 pour toucher, portée 15/30 m, une cible.
+
+Touché : 30 (7d6+6) dégâts contondants.
 
 
 # Tigre
@@ -12026,24 +11375,18 @@ contondants.
 
 ## Capacités
 
-Bond agressif. Si le tigre se déplace en ligne droite
-sur une distance minimale de 6 mètres vers une
-créature contre laquelle il réussit ensuite une
-attaque de griffe lors du même tour, celle-ci doit
-réussir un jet de sauvegarde de Force DD 13 pour ne
-pas être jetée à terre. Si la cible est à terre, le tigre
-peut effectuer une attaque de morsure contre elle
-par une action bonus.
-Odorat aiguisé. Le tigre obtient un avantage lors
-des tests de Sagesse (Perception) basés sur l'odorat.
+Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le tigre peut effectuer une attaque de morsure contre elle par une action bonus.
+
+Odorat aiguisé. Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Griffe. Attaque d'arme au corps à corps : +5 pour toucher,
-allonge 1,50 m, une cible.
+Griffe. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 7 (1d8+3) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 8 (1d10+3) dégâts perforants.
 
 
@@ -12064,24 +11407,18 @@ Touché : 8 (1d10+3) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si le tigre se déplace en ligne droite
-sur une distance minimale de 6 mètres vers une
-créature contre laquelle il réussit ensuite une attaque
-de griffe lors du même tour, celle-ci doit réussir
-un jet de sauvegarde de Force DD 14 pour ne pas
-être jetée à terre. Si la cible est à terre, la panthère
-peut effectuer une attaque de morsure contre elle
-par une action bonus.
-Odorat aiguisé. Le tigre obtient un avantage lors
-des tests de Sagesse (Perception) basés sur l'odorat.
+Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre. Si la cible est à terre, la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+
+Odorat aiguisé. Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Griffe. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible.
+Griffe. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 12 (2d6+5) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (1d10+5) dégâts perforants.
 
 
@@ -12102,19 +11439,14 @@ Touché : 10 (1d10+5) dégâts perforants.
 
 ## Capacités
 
-Odorat et vue aiguisés. Le vautour obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou la vue.
-Tactique de groupe. Le vautour obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du vautour, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Odorat et vue aiguisés. Le vautour obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
+
+Tactique de groupe. Le vautour obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du vautour, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Bec. Attaque d'arme au corps à corps : +2 pour toucher,
-allonge 1,50 m, une cible.
+Bec. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 2 (1d4) dégâts perforants.
 
 
@@ -12135,32 +11467,21 @@ Touché : 2 (1d4) dégâts perforants.
 
 ## Capacités
 
-Odorat et vue aiguisés. Le vautour obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou la vue.
-Tactique de groupe. Le vautour obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du vautour, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Odorat et vue aiguisés. Le vautour obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
+
+Tactique de groupe. Le vautour obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du vautour, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Attaques multiples. Le vautour effectue deux attaques
-: une avec son bec et une avec ses serres.
-Bec. Attaque d'arme au corps à corps : +4 pour toucher,
-allonge 1,50 m, une cible.
+Attaques multiples. Le vautour effectue deux attaques : une avec son bec et une avec ses serres.
+
+Bec. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 7 (2d4+2) dégâts perforants.
-Serres. Attaque d'arme au corps à corps : +4 pour
-toucher, allonge 1,50 m, une cible.
+
+Serres. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 9 (2d6+2) dégâts tranchants.
-Le vautour géant est un animal doté d'une intelligence
-certaine et d'une tendance à la malveillance. Au
-contraire de ses semblables plus petits, il attaquera une
-créature blessée pour l'achever rapidement. Les vautours
-géants sont connus pour harceler pendant des jours des
-créatures assoiffées et affamées et prendre plaisir à les
-voir souffrir.
 
 
 # Worg
@@ -12180,26 +11501,13 @@ voir souffrir.
 
 ## Capacités
 
-Odorat et ouïe aiguisés. Le worg obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'odorat ou l'ouïe.
+Odorat et ouïe aiguisés. Le worg obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 10 (2d6+3) dégâts perforants. Si la cible est
-une créature, elle doit réussir un jet de sauvegarde
-de Force DD 13 pour ne pas être jetée à terre.
-Le worg est un prédateur malveillant qui aime chasser
-et dévorer les créatures plus faibles que lui. Malins et
-malfaisants, les worgs rôdent dans les régions sauvages
-isolées ou sont élevés par des gobelins et des hobgobelins.
-Ces créatures font des worgs leurs montures, mais
-ces animaux se retourneront contre leurs cavaliers s'ils
-sont maltraités ou sous-alimentés. Les worgs parlent leur
-propre langue et le gobelin, mais une poignée d'entre
-eux apprennent également à parler le commun.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
 
 
 # Acolyte
@@ -12219,26 +11527,17 @@ eux apprennent également à parler le commun.
 
 ## Capacités
 
-Incantation. L'acolyte est un lanceur de sorts de
-niveau 1. Sa caractéristique d'incantation est la Sagesse
-(DD du jet de sauvegarde contre les sorts 12,
-+4 pour toucher avec les attaques de sort). Voici les
-sorts de clerc préparés par l'acolyte :
-Tours de magie (à volonté) : flamme sacrée, lumière,
-thaumaturgie
-1er niveau (3 emplacements) : bénédiction, sanctuaire,
-soin des blessures
+Incantation. L'acolyte est un lanceur de sorts de niveau 1. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par l'acolyte :
+
+Tours de magie (à volonté) : flamme sacrée, lumière, thaumaturgie
+
+1er niveau (3 emplacements) : bénédiction, sanctuaire, soin des blessures
 
 ## Actions
 
-Gourdin. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Gourdin. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 2 (1d4) dégâts contondants.
-Les acolytes sont les membres en apprentissage d'un
-clergé, souvent responsables devant un clerc. Ils accomplissent
-diverses tâches au sein d'un temple et les divinités
-leur octroient la capacité à lancer des sorts de faible
-puissance.
 
 
 # Archimage
@@ -12260,52 +11559,39 @@ puissance.
 
 ## Capacités
 
-Incantation. L'archimage est un lanceur de sorts
-de niveau 18. Sa caractéristique d'incantation est
-l'Intelligence (DD du jet de sauvegarde contre les
-sorts 17, +9 pour toucher avec les attaques de sort).
-L'archimage peut lancer déguisement et invisibilité à
-volonté et dispose des sorts de magicien préparés
-suivants :
-Tours de magie (à volonté) : carreau de feu, lumière,
-main du mage, poigne électrique, prestidigitation
-1er niveau (4 emplacements) : armure du mage*, détection
-de la magie, identification, projectile magique
-2e niveau (3 emplacements) : détection des pensées,
-image miroir, pas brumeux
+Incantation. L'archimage est un lanceur de sorts de niveau 18. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort).
+
+L'archimage peut lancer déguisement et invisibilité à volonté et dispose des sorts de magicien préparés suivants :
+
+Tours de magie (à volonté) : carreau de feu, lumière, main du mage, poigne électrique, prestidigitation
+
+1er niveau (4 emplacements) : armure du mage*, détection de la magie, identification, projectile magique
+
+2e niveau (3 emplacements) : détection des pensées, image miroir, pas brumeux
+
 3e niveau (3 emplacements) : contresort, éclair, vol
-4e niveau (3 emplacements) : bannissement, bouclier
-de feu, peau de pierre*
-5e niveau (3 emplacements) : cône de froid, mur de
-force, scrutation
+
+4e niveau (3 emplacements) : bannissement, bouclier de feu, peau de pierre*
+
+5e niveau (3 emplacements) : cône de froid, mur de force, scrutation
+
 6e niveau (1 emplacement) : globe d'invulnérabilité
+
 7e niveau (1 emplacement) : téléportation
+
 8e niveau (1 emplacement) : esprit impénétrable*
+
 9e niveau (1 emplacement) : arrêt du temps
-*L'archimage lance ces sorts sur lui-même avant un
-combat.
-Résistance à la magie. L'archimage bénéficie d'un
-avantage lors des jets de sauvegarde contre les
-sorts et autres effets magiques.
+
+*L'archimage lance ces sorts sur lui-même avant un combat.
+
+Résistance à la magie. L'archimage bénéficie d'un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Dague. Attaque d'arme au corps à corps ou à distance :
-+6 pour toucher, allonge 1,50 ou portée 6/18 m, une
-cible.
+Dague. Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 ou portée 6/18 m, une cible.
 
 Touché : 4 (1d4+2) dégâts perforants.
-Les archimages sont de puissants lanceurs de sorts
-(souvent assez âgés) dévoués à l'étude des arts magiques.
-Les archimages bienveillants conseillent les rois et les
-reines, là où les malveillants règnent, tels des tyrans, ou
-tentent de devenir des liches. Ceux qui n'aspirent ni au
-bien ni au mal s'enferment dans des tours isolées pour
-travailler leur magie sans que personne ne vienne les déranger.
-Les archimages s'entourent généralement d'un ou plusieurs
-apprentis et leurs demeures sont souvent protégées
-par des sceaux et des gardiens magiques pour décourager
-les éventuels intrus.
 
 
 # Assassin
@@ -12327,47 +11613,23 @@ les éventuels intrus.
 
 ## Capacités
 
-Assassinat. Pendant son premier tour, l'assassin
-obtient un avantage lors des jets d'attaque effectués
-contre une créature qui n'a pas encore joué
-son tour. Toutes les attaques réussies par l'assassin
-contre une créature surprise sont des coups
-critiques.
-Attaque sournoise. Une fois par tour, l'assassin
-inflige 14 (4d6) dégâts supplémentaires quand il
-touche une cible avec une attaque d'arme et s'il
-obtient un avantage lors du jet d'attaque, ou quand
-la cible se trouve à 1,50 mètre ou moins d'un de ses
-alliés qui n'est pas neutralisé, et que l'assassin ne
-subit pas de désavantage lors du jet d'attaque.
-Dérobade. Si l'assassin est victime d'un effet qui l'autorise
-à effectuer un jet de sauvegarde de Dextérité
-pour ne subir que la moitié des dégâts, l'assassin ne
-subit, lui, aucun dégât en cas de jet de sauvegarde
-réussi et la moitié seulement en cas d'échec.
+Assassinat. Pendant son premier tour, l'assassin obtient un avantage lors des jets d'attaque effectués contre une créature qui n'a pas encore joué son tour. Toutes les attaques réussies par l'assassin contre une créature surprise sont des coups critiques.
+
+Attaque sournoise. Une fois par tour, l'assassin inflige 14 (4d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas neutralisé, et que l'assassin ne subit pas de désavantage lors du jet d'attaque.
+
+Dérobade. Si l'assassin est victime d'un effet qui l'autorise à effectuer un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, l'assassin ne subit, lui, aucun dégât en cas de jet de sauvegarde réussi et la moitié seulement en cas d'échec.
 
 ## Actions
 
-Arbalète légère. Attaque d'arme à distance : +6 pour
-toucher, portée 24/96 m, une cible.
-Touché : 7 (1d8+3) dégâts perforants et la cible doit
-effectuer un jet de sauvegarde de Constitution
-DD 15. Elle subit 24 (7d6) dégâts de poison en cas de
-jet de sauvegarde raté ou la moitié de ces dégâts
-seulement en cas de réussite.
-Attaques multiples. L'assassin effectue deux attaques
-à l'épée courte.
-Épée courte. Attaque d'arme au corps à corps :
-+6 pour toucher, allonge 1,50 m, une cible.
-Touché : 6 (1d6+3) dégâts perforants et la cible doit
-effectuer un jet de sauvegarde de Constitution
-DD 15. Elle subit 24 (7d6) dégâts de poison en cas de
-jet de sauvegarde raté ou la moitié de ces dégâts
-seulement en cas de réussite.
-Formés à l'utilisation des poisons, les assassins sont des
-tueurs impitoyables qui travaillent pour des nobles, des
-maîtres de guilde, des souverains et de quiconque suffisamment
-fortunés pour se payer leurs services.
+Arbalète légère. Attaque d'arme à distance : +6 pour toucher, portée 24/96 m, une cible.
+
+Touché : 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 15. Elle subit 24 (7d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+Attaques multiples. L'assassin effectue deux attaques à l'épée courte.
+
+Épée courte. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 6 (1d6+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 15. Elle subit 24 (7d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Bandit
@@ -12386,21 +11648,13 @@ fortunés pour se payer leurs services.
 
 ## Actions
 
-Arbalète légère. Attaque d'arme à distance : +3 pour
-toucher, portée 24/96 m, une cible.
+Arbalète légère. Attaque d'arme à distance : +3 pour toucher, portée 24/96 m, une cible.
+
 Touché : 5 (1d8+1) dégâts perforants.
-Cimeterre. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+
+Cimeterre. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 4 (1d6+1) dégâts tranchants.
-Les bandits errent en gangs parfois menés par des malfrats,
-des vétérans ou des lanceurs de sorts. Tous les bandits
-ne sont pas malfaisants. L'oppression, la pénurie, la
-maladie ou la famine pousse souvent des gens par ailleurs
-honnêtes à sombrer dans le banditisme.
-Les pirates sont les bandits des hautes mers. Il peut
-s'agir de flibustiers essentiellement intéressés par le massacre
-et les trésors ou de corsaires que la couronne autorise
-à attaquer et piller les navires de nations ennemies.
 
 
 # Berserker
@@ -12419,21 +11673,13 @@ et les trésors ou de corsaires que la couronne autorise
 
 ## Capacités
 
-Téméraire. Au début de son tour, le berserker
-peut bénéficier d'un avantage lors de tous ses jets
-d'attaque d'arme au corps à corps pendant ce tour,
-mais les jets d'attaque effectués contre lui bénéficient
-d'un avantage jusqu'au début de son prochain
-tour.
+Téméraire. Au début de son tour, le berserker peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre lui bénéficient d'un avantage jusqu'au début de son prochain tour.
 
 ## Actions
 
-Hache à deux mains. Attaque d'arme au corps à
-corps : +5 pour toucher, allonge 1,50 m, une cible.
+Hache à deux mains. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 9 (1d12+3) dégâts tranchants.
-Originaires de régions barbares, les imprévisibles berserkers
-forment des groupes de bataille et cherchent le
-conflit dès que l'occasion se présente.
 
 
 # Capitaine bandit
@@ -12454,39 +11700,19 @@ conflit dès que l'occasion se présente.
 
 ## Actions
 
-Attaques multiples. Le capitaine effectue trois
-attaques au corps à corps : deux avec son cimeterre
-et une avec sa dague, ou il effectue deux attaques à
-distance avec ses dagues.
-Cimeterre. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. Le capitaine effectue trois attaques au corps à corps : deux avec son cimeterre et une avec sa dague, ou il effectue deux attaques à distance avec ses dagues.
+
+Cimeterre. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts tranchants.
-Dague. Attaque d'arme au corps à corps ou à distance :
-+5 pour toucher, allonge 1,50 m ou portée 6/18 m,
-une cible.
+
+Dague. Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.
 
 Touché : 5 (1d4+3) dégâts perforants.
-Réactions
-Parade. Le capitaine ajoute 2 à sa CA contre une attaque
-au corps à corps qui devrait le toucher. Il doit
-voir son agresseur et manier une arme de corps à
-corps pour pouvoir parer de cette façon.
-Il faut une personnalité affirmée, une fourberie à toute
-épreuve et une langue bien pendue pour se faire obéir
-d'une bande de bandits. Le capitaine bandit possède ces
-qualités au centuple.
-Le capitaine pirate est une variation du capitaine bandit
-qui doit non seulement s'occuper d'un équipage de
-mécontents égoïstes, mais aussi d'un navire qu'il doit
-protéger et diriger. Pour maintenir la discipline au sein
-de l'équipage, le capitaine doit distribuer récompenses
-et punitions à intervalles réguliers.
-Un capitaine bandit ou un capitaine pirate est bien
-plus intéressé par l'infamie que par les trésors. Un prisonnier
-qui flatte la vanité ou l'ego d'un capitaine sera
-probablement mieux traité qu'un autre qui ne sait rien
-(ou qui prétend ne rien savoir) de la réputation haute
-en couleur de ces individus.
+
+## Réactions
+
+Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
 # Chevalier
@@ -12506,44 +11732,25 @@ en couleur de ces individus.
 
 ## Capacités
 
-Brave. Le chevalier obtient un avantage lors des jets
-de sauvegarde effectués pour ne pas être terrorisé.
+Brave. Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé.
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance : +2 pour
-toucher, portée 30/120 m, une cible.
+Arbalète lourde. Attaque d'arme à distance : +2 pour toucher, portée 30/120 m, une cible.
+
 Touché : 5 (1d10) dégâts perforants.
-Attaques multiples. Le chevalier effectue deux
-attaques au corps à corps.
-Épée à deux mains. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
+
+Attaques multiples. Le chevalier effectue deux attaques au corps à corps.
+
+Épée à deux mains. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (2d6+3) dégâts tranchants.
-Meneur d'hommes (Recharge après un repos
-court ou long). Pendant 1 minute, le chevalier peut
-prononcer un ordre ou un avertissement spécial
-chaque fois qu'une créature non-hostile située à 9
-mètres ou moins dans son champ de vision effectue
-un jet d'attaque ou de sauvegarde. La créature peut
-ajouter un d4 à son jet, à condition qu'elle puisse
-entendre et comprendre le chevalier. Une créature
-ne peut bénéficier que d'un seul dé de meneur
-d'hommes à la fois. Cet effet prend fin si le chevalier
-est neutralisé.
-Réactions
-Parade. Le chevalier ajoute 2 à sa CA contre une attaque
-au corps à corps qui devrait le toucher. Il doit
-voir son agresseur et manier une arme de corps à
-corps pour pouvoir parer de cette façon.
-Les chevaliers sont des combattants qui s'engagent à
-servir des dirigeants, des ordres religieux et de nobles
-causes. L'alignement d'un chevalier détermine
-à quel point cet engagement est honoré.
-Qu'il soit en train d'accomplir une quête
-ou de patrouiller dans un royaume, un chevalier
-voyage souvent accompagné d'une troupe
-qui comprend, entre autres, des écuyers et des mercenaires
-considérés comme des roturiers.
+
+Meneur d'hommes (Recharge après un repos court ou long). Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est neutralisé.
+
+## Réactions
+
+Parade. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon. 
 
 
 # Druide
@@ -12563,35 +11770,19 @@ considérés comme des roturiers.
 
 ## Capacités
 
-Incantation. Le druide est un lanceur de sorts de
-niveau 4. Sa caractéristique d'incantation est la
-Sagesse (DD du jet de sauvegarde contre les sorts
-12, +4 pour toucher avec les attaques de sort). Voici
-ses sorts de druide préparés :
-Tours de magie (à volonté) : druidisme, gourdin
-magique, produire une flamme
-1er niveau (4 emplacements) : communication avec
-les animaux, enchevêtrement, grande foulée, vague
-tonnante
-2e niveau (3 emplacements) : messager animal,
-peau d'écorce
+Incantation. Le druide est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici ses sorts de druide préparés :
+
+Tours de magie (à volonté) : druidisme, gourdin magique, produire une flamme
+
+1er niveau (4 emplacements) : communication avec les animaux, enchevêtrement, grande foulée, vague tonnante
+
+2e niveau (3 emplacements) : messager animal, peau d'écorce
 
 ## Actions
 
-Bâton. Attaque d'arme au corps à corps : +2 pour
-toucher (+4 pour toucher avec gourdin magique),
-allonge 1,50 m, une cible.
+Bâton. Attaque d'arme au corps à corps : +2 pour toucher (+4 pour toucher avec gourdin magique), allonge 1,50 m, une cible.
 
-Touché : 3 (1d6) dégâts
-contondants, 4 (1d8) dégâts contondants s'il est manié
-à deux mains, ou 6 (1d8+2) dégâts contondants
-avec gourdin magique.
-Les druides vivent dans les forêts et autres régions
-sauvages et reculées où ils protègent le monde naturel
-contre les monstres et les déprédations de la civilisation.
-Certains sont des chamans tribaux qui soignent les malades,
-prient les esprits animaux et fournissent une aide
-spirituelle.
+Touché : 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8+2) dégâts contondants avec gourdin magique.
 
 
 # Ecclésiastique
@@ -12611,45 +11802,25 @@ spirituelle.
 
 ## Capacités
 
-Distinction divine. Par une action bonus, l'ecclésiastique
-peut dépenser un emplacement de sort
-pour que ses attaques d'arme au corps à corps
-infligent par magie 10 (3d6) dégâts radiants supplémentaires
-à une cible qu'il parvient à toucher. Cet
-avantage dure jusqu'à la fin du tour. Si le clerc dépense
-un emplacement de sort de niveau 2 ou plus,
-les dégâts supplémentaires augmentent de 1d6 par
-niveau au-dessus du 1er.
-Incantation. L'ecclésiastique est un lanceur de
-sorts de niveau 5. Sa caractéristique d'incantation
-est la Sagesse (DD du jet de sauvegarde contre les
-sorts 13, +5 pour toucher avec les attaques de sort).
+Distinction divine. Par une action bonus, l'ecclésiastique peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts radiants supplémentaires à une cible qu'il parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si le clerc dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.
+
+Incantation. L'ecclésiastique est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort).
+
 Voici ses sorts de clerc préparés :
-Tours de magie (à volonté) : flamme sacrée, lumière,
-thaumaturgie
-1er niveau (4 emplacements) : balisage, sanctuaire,
-soin des blessures
-2e niveau (3 emplacements) : arme spirituelle, restauration
-inférieure
-3e niveau (2 emplacements) : dissipation de la magie,
-esprits gardiens
+
+Tours de magie (à volonté) : flamme sacrée, lumière, thaumaturgie
+
+1er niveau (4 emplacements) : balisage, sanctuaire, soin des blessures
+
+2e niveau (3 emplacements) : arme spirituelle, restauration inférieure
+
+3e niveau (2 emplacements) : dissipation de la magie, esprits gardiens
 
 ## Actions
 
-Masse d'armes. Attaque d'arme au corps à corps :
-+2 pour toucher, allonge 1,50 m, une cible.
+Masse d'armes. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 3 (1d6) dégâts contondants.
-Les ecclésiastiques révèlent les enseignements de leurs
-dieux à la populace. Ils sont les dirigeants spirituels des
-temples et des chapelles et occupent souvent des positions
-d'influence dans leur communauté. Les ecclésiastiques
-malfaisants peuvent oeuvrer publiquement au
-service d'un tyran ou ils peuvent superviser des rites dépravés
-à la tête de sectes religieuses dissimulées dans les
-ombres de sociétés par ailleurs bienveillantes.
-Un ecclésiastique est généralement entouré d'un ou
-plusieurs acolytes qui l'aident lors des cérémonies religieuses
-et autres devoirs sacrés.
 
 
 # Éclaireur
@@ -12669,26 +11840,19 @@ et autres devoirs sacrés.
 
 ## Capacités
 
-Ouïe et vue aiguisées. L'éclaireur obtient un avantage
-lors des tests de Sagesse (Perception) basés sur
-l'ouïe ou la vue.
+Ouïe et vue aiguisées. L'éclaireur obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 
 ## Actions
 
-Arc long. Attaque d'arme à distance : +4 pour toucher,
-portée 45/180 m, une cible.
+Arc long. Attaque d'arme à distance : +4 pour toucher, portée 45/180 m, une cible.
+
 Touché : 6 (1d8+2) dégâts perforants.
-Attaques multiples. L'éclaireur effectue deux
-attaques au corps à corps ou deux attaques à distance.
-Épée courte. Attaque d'arme au corps à corps :
-+4 pour toucher, allonge 1,50 m, une cible.
+
+Attaques multiples. L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance.
+
+Épée courte. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (1d6+2) dégâts perforants.
-Les éclaireurs sont des chasseurs et des pisteurs compétents
-qui travaillent en échange d'une rémunération.
-La plupart chassent le gibier sauvage mais quelques-uns
-travaillent en tant que chasseurs de primes, servent en
-tant que guides ou partent en reconnaissance au devant
-d'armées.
 
 
 # Espion
@@ -12708,35 +11872,21 @@ d'armées.
 
 ## Capacités
 
-Action fourbe. À chacun de ses tours, l'espion peut
-utiliser une action bonus pour effectuer une action
-parmi Se précipiter, Se désengager ou Se cacher.
-Attaque sournoise (1/tour). L'espion inflige
-7 (2d6) dégâts supplémentaires quand il touche
-une cible avec une attaque d'arme et s'il obtient un
-avantage lors du jet d'attaque, ou quand la cible se
-trouve à 1,50 mètre ou moins d'un de ses alliés qui
-n'est pas neutralisé et que l'espion ne subit pas de
-désavantage lors du jet d'attaque.
+Action fourbe. À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi Se précipiter, Se désengager ou Se cacher.
+
+Attaque sournoise (1/tour). L'espion inflige 7 (2d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas neutralisé et que l'espion ne subit pas de désavantage lors du jet d'attaque.
 
 ## Actions
 
-Arbalète de poing. Attaque d'arme à distance :
-+4 pour toucher, portée 9/36 m, une cible.
+Arbalète de poing. Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une cible.
+
 Touché : 5 (1d6+2) dégâts perforants.
-Attaques multiples. L'espion effectue deux attaques
-au corps à corps.
-Épée courte. Attaque d'arme au corps à corps :
-+4 pour toucher, allonge 1,50 m, une cible.
+
+Attaques multiples. L'espion effectue deux attaques au corps à corps.
+
+Épée courte. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (1d6+2) dégâts perforants.
-Gouvernants, nobles, marchands, maîtres de guilde et
-autres individus fortunés emploient des espions pour
-prendre l'ascendant dans le monde impitoyable de la
-politique. Un espion sait comment obtenir des informations
-sans se faire remarquer. Les espions loyaux
-préfèrent mourir plutôt que de révéler une information
-susceptible de compromettre leur propre personne ou
-leurs employeurs.
 
 
 # Fanatique de secte
@@ -12756,35 +11906,23 @@ leurs employeurs.
 
 ## Capacités
 
-Incantation. Le fanatique est un lanceur de sorts
-de niveau 4. Sa caractéristique d'incantation est la
-Sagesse (DD du jet de sauvegarde contre les sorts 11,
-+3 pour toucher avec les attaques de sort). Voici les
-sorts de clerc préparés par le fanatique :
-Tours de magie (à volonté) : flamme sacrée, lumière,
-thaumaturgie
-1er niveau (4 emplacements) : blessure, bouclier de
-la foi, injonction
-2e niveau (3 emplacements) : arme spirituelle, immobilisation
-de personne
-Sombre dévotion. Le fanatique obtient un avantage
-lors des jets de sauvegarde effectués pour ne pas
-être charmé ou terrorisé.
+Incantation. Le fanatique est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le fanatique :
+
+Tours de magie (à volonté) : flamme sacrée, lumière, thaumaturgie
+
+1er niveau (4 emplacements) : blessure, bouclier de la foi, injonction
+
+2e niveau (3 emplacements) : arme spirituelle, immobilisation de personne
+
+Sombre dévotion. Le fanatique obtient un avantage lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
 
 ## Actions
 
-Attaques multiples. Le fanatique effectue deux
-attaques au corps à corps.
-Dague. Attaque d'arme au corps à corps ou à distance :
-+4 pour toucher, allonge 1,50 m ou portée 6/18 m,
-une créature.
+Attaques multiples. Le fanatique effectue deux attaques au corps à corps.
+
+Dague. Attaque d'arme au corps à corps ou à distance : +4 pour toucher, allonge 1,50 m ou portée 6/18 m, une créature.
 
 Touché : 4 (1d4+2) dégâts perforants.
-Les fanatiques appartiennent souvent à la direction
-d'un culte et utilisent leur charisme et le dogme pour
-manipuler et vampiriser les personnes influençables. La
-plupart s'intéressent avant tout au développement de
-leur pouvoir personnel.
 
 
 # Garde
@@ -12804,17 +11942,9 @@ leur pouvoir personnel.
 
 ## Actions
 
-Lance. Attaque d'arme au corps à corps ou à distance :
-+3 pour toucher, allonge 1,50 m ou portée 6/18 m,
-une cible.
+Lance. Attaque d'arme au corps à corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.
 
-Touché : 4 (1d6+1) dégâts perforants ou
-5 (1d8+1) dégâts perforants si elle est maniée à deux
-mains pour effectuer une attaque au corps à corps.
-On compte parmi les gardes les membres de la milice
-d'une cité, les sentinelles d'une citadelle ou d'une ville
-fortifiée et les gardes du corps chargés de protéger des
-marchands et des nobles.
+Touché : 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
 # Gladiateur
@@ -12835,40 +11965,27 @@ marchands et des nobles.
 
 ## Capacités
 
-Brave. Le gladiateur obtient un avantage lors des jets
-de sauvegarde effectués pour ne pas être terrorisé.
-Brutal. Une arme de corps à corps inflige un dé supplémentaire
-de ses dégâts quand le gladiateur réussit
-une attaque en la maniant (inclus dans l'attaque).
+Brave. Le gladiateur obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé.
+
+Brutal. Une arme de corps à corps inflige un dé supplémentaire de ses dégâts quand le gladiateur réussit une attaque en la maniant (inclus dans l'attaque).
 
 ## Actions
 
-Attaques multiples. Le gladiateur effectue trois attaques
-au corps à corps ou deux attaques à distance.
-Coup de bouclier. Attaque d'arme au corps à corps :
-+7 pour toucher, allonge 1,50 m, une créature.
-Touché : 9 (2d4+4) dégâts contondants. Si la cible
-est une créature de taille M ou plus petite, elle doit
-réussir un jet de sauvegarde de Force DD 15 pour ne
-pas être jetée à terre.
-Lance. Attaque d'arme au corps à corps ou à distance :
-+7 pour toucher, allonge 1,50 m ou portée 6/18 m,
-une cible.
+Attaques multiples. Le gladiateur effectue trois attaques au corps à corps ou deux attaques à distance.
 
-Touché : 11 (2d6+4) dégâts perforants ou
-13 (2d8+4) dégâts perforants si elle est maniée à deux
-mains pour effectuer une attaque au corps à corps.
-Réactions
-Parade. Le gladiateur ajoute 3 à sa CA contre une
-attaque au corps à corps qui devrait le toucher.
-Il doit voir son agresseur et manier une arme de
-corps à corps pour pouvoir parer de cette façon.
-Les gladiateurs s'affrontent pour amuser les foules tapageuses.
-Certains mènent des combats violents dans les
-arènes lors desquels ils risquent à chaque fois leur vie,
-tandis que d'autres sont des duellistes professionnels qui
-exigent d'importants honoraires en mettant rarement
-leur vie en jeu.
+Coup de bouclier. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 9 (2d4+4) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée à terre.
+
+Lance. Attaque d'arme au corps à corps ou à distance : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.
+
+Touché : 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
+
+## Réactions
+
+Parade. Le gladiateur ajoute 3 à sa CA contre une attaque au corps à corps qui devrait le toucher.
+
+Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
 # Guerrier tribal
@@ -12887,27 +12004,13 @@ leur vie en jeu.
 
 ## Capacités
 
-Tactique de groupe. Le guerrier obtient un avantage
-lors d'un jet d'attaque effectué contre une
-créature si au moins un des alliés du guerrier, qui
-n'est pas neutralisé, se trouve à 1,50 mètre ou moins
-de la créature qu'il attaque.
+Tactique de groupe. Le guerrier obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du guerrier, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Lance. Attaque d'arme au corps à corps ou à distance :
-+3 pour toucher, allonge 1,50 m ou portée 6/18 m,
-une cible.
+Lance. Attaque d'arme au corps à corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.
 
-Touché : 4 (1d6+1) dégâts perforants ou
-5 (1d8+1) dégâts perforants si elle est maniée à deux
-mains pour effectuer une attaque au corps à corps.
-Les guerriers tribaux vivent en dehors de la civilisation
-et subsistent le plus souvent en pêchant et en chassant.
-Chaque tribu agit selon les volontés de son chef qui est le
-combattant le plus talentueux ou le plus âgé de la communauté
-ou selon celles d'un membre de la tribu considéré
-comme béni des dieux.
+Touché : 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
 # Mage
@@ -12928,35 +12031,25 @@ comme béni des dieux.
 
 ## Capacités
 
-Incantation. Le mage est un lanceur de sorts de
-niveau 9. Sa caractéristique d'incantation est l'Intelligence
-(DD du jet de sauvegarde contre les sorts 14,
-+6 pour toucher avec les attaques de sort). Le mage
-dispose des sorts de magicien préparés suivants :
-Tours de magie (à volonté) : carreau de feu, lumière,
-main du mage, prestidigitation
-1er niveau (4 emplacements) : armure du mage,
-bouclier, détection de la magie, projectile magique
+Incantation. Le mage est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Le mage dispose des sorts de magicien préparés suivants :
+
+Tours de magie (à volonté) : carreau de feu, lumière, main du mage, prestidigitation
+
+1er niveau (4 emplacements) : armure du mage, bouclier, détection de la magie, projectile magique
+
 2e niveau (3 emplacements) : pas brumeux, suggestion
-3e niveau (3 emplacements) : boule de feu, contresort,
-vol
-4e niveau (3 emplacements) : invisibilité supérieure,
-tempête de grêle
+
+3e niveau (3 emplacements) : boule de feu, contresort, vol
+
+4e niveau (3 emplacements) : invisibilité supérieure, tempête de grêle
+
 5e niveau (1 emplacement) : cône de froid
 
 ## Actions
 
-Dague. Attaque d'arme au corps à corps ou à distance :
-+5 pour toucher, allonge 1,50 m ou portée 6/18 m,
-une cible.
+Dague. Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.
 
 Touché : 4 (1d4+2) dégâts perforants.
-Les mages passent leur vie à étudier et travailler la
-magie. Les mages bienveillants conseillent souvent les
-nobles et autres personnes au pouvoir tandis que les
-mages malveillants vivent dans des endroits isolés pour
-mettre en oeuvre des expériences atroces sans que personne
-ne vienne les interrompre.
 
 
 # Malfrat
@@ -12976,25 +12069,21 @@ ne vienne les interrompre.
 
 ## Capacités
 
-Tactique de groupe. Le malfrat obtient un avantage
-lors d'un jet d'attaque effectué contre une créature
-si au moins un des alliés du malfrat, qui n'est pas
-neutralisé, se trouve à 1,50 mètre ou moins de la
-créature qu'il attaque.
+Tactique de groupe. Le malfrat obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du malfrat, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance : +2 pour
-toucher, portée 30/120 m, une cible.
+Arbalète lourde. Attaque d'arme à distance : +2 pour toucher, portée 30/120 m, une cible.
+
 Touché : 5 (1d10) dégâts perforants.
-Attaques multiples. Le malfrat effectue deux attaques
-au corps à corps.
-Masse d'armes. Attaque d'arme au corps à corps :
-+4 pour toucher, allonge 1,50 m, une créature.
+
+Attaques multiples. Le malfrat effectue deux attaques au corps à corps.
+
+Masse d'armes. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+
 Touché : 5 (1d6+2) dégâts contondants.
-Les malfrats sont d'impitoyables hommes de mains
-doués en matière d'intimidation et de violence. Ils travaillent
-pour l'argent et n'éprouvent guère de scrupules.
+
+Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidation et de violence. Ils travaillent pour l'argent et n'éprouvent guère de scrupules.
 
 
 # Membre de secte
@@ -13014,23 +12103,13 @@ pour l'argent et n'éprouvent guère de scrupules.
 
 ## Capacités
 
-Sombre dévotion. Le membre de secte obtient un
-avantage lors des jets de sauvegarde effectués pour
-ne pas être charmé ou terrorisé.
+Sombre dévotion. Le membre de secte obtient un avantage lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
 
 ## Actions
 
-Cimeterre. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une créature.
+Cimeterre. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
 Touché : 4 (1d6+1) dégâts tranchants.
-Les membres de secte jurent fidélité à de sombres puissances
-telles que les princes élémentaires, les seigneurs
-démoniaques ou les archidiables. La plupart dissimulent
-leur allégeance pour éviter l'ostracisme, l'emprisonnement
-ou l'exécution à cause de leurs croyances. À la différence
-des acolytes malveillants, les membres de secte
-montrent souvent des signes d'aliénation mentale dans
-leurs croyances et leurs pratiques.
 
 
 # Noble
@@ -13050,23 +12129,13 @@ leurs croyances et leurs pratiques.
 
 ## Actions
 
-Rapière. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une cible.
+Rapière. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (1d8+1) dégâts perforants.
-Réactions
-Parade. Le noble ajoute 2 à sa CA contre une attaque
-au corps à corps qui devrait le toucher. Il doit
-voir son agresseur et manier une arme de corps à
-corps pour pouvoir parer de cette façon.
-En tant que membres de la classe supérieure, les nobles
-exercent une grande autorité et beaucoup d'influence.
-Ils possèdent des richesses et des relations qui leur permettent
-de rivaliser avec les monarques et les généraux
-en termes de puissance. Un noble voyage souvent en
-compagnie de gardes et de serviteurs appartenant au
-monde des roturiers.
-On peut également se servir du profil du noble pour
-représenter des courtisans qui ne sont pas de sang noble.
+
+## Réactions
+
+Parade. Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
 # Roturier
@@ -13085,12 +12154,9 @@ représenter des courtisans qui ne sont pas de sang noble.
 
 ## Actions
 
-Gourdin. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Gourdin. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 2 (1d4) dégâts contondants.
-Parmi les roturiers, on compte les paysans, les serfs, les
-esclaves, les serviteurs, les pèlerins, les marchands, les
-artisans et les ermites.
 
 
 # Vétéran
@@ -13110,25 +12176,17 @@ artisans et les ermites.
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance : +3 pour
-toucher, portée 30/120 m, une cible.
+Arbalète lourde. Attaque d'arme à distance : +3 pour toucher, portée 30/120 m, une cible.
+
 Touché : 6 (1d10+1) dégâts perforants.
-Attaques multiples. Le vétéran effectue deux
-attaques à l'épée longue. S'il a une épée courte en
-main, il peut également effectuer une attaque avec
-cette arme.
-Épée courte. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
+
+Attaques multiples. Le vétéran effectue deux attaques à l'épée longue. S'il a une épée courte en main, il peut également effectuer une attaque avec cette arme.
+
+Épée courte. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts perforants.
-Épée longue. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
-Touché : 7 (1d8+3) dégâts tranchants ou 8 (1d10+3)
-dégâts tranchants si elle est maniée à deux mains.
-Les vétérans sont des guerriers professionnels qui
-prennent les armes en échange d'une rémunération ou
-pour protéger les choses qu'ils estiment ou en quoi ils
-croient. On compte dans leurs rangs des soldats à la retraite
-suite à une longue période d'activité et des combattants
-libres qui n'ont jamais servi personne d'autre
-qu'eux-mêmes.
+
+Épée longue. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si elle est maniée à deux mains.
 
