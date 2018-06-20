@@ -77,23 +77,23 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Tentacule._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 11 (2d8+3) dégâts contondants (constriction). Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
+_Touché :_ 11 (2d8+3) dégâts contondants (constriction). Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
 
-Dard de langue. Attaque d'arme au corps à corps (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible. 
+**_Dard de langue._** Attaque d'arme au corps à corps (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible. 
 
-Touché : 6 (1d6+2) dégâts perçants.
+_Touché :_ 6 (1d6+2) dégâts perçants.
 
 Si la cible est une créature humanoïde, elle doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine d'être infectée par une maladie : l'injection d'un minuscule oeuf d'abothid.
 
 Un humanoïde ne peut mener qu'un seul oeuf d'abothid à son terme. L'éclosion de l'oeuf se fait après 24 heures et donne naissance à une larve qui remonte jusqu'au cerveau en un nombre d'heures égal à 1d12 + valeur de Constitution de la cible infectée. Durant cette période, la victime est empoisonnée et ne peut plus regagner de points de vie. Une fois que la larve a atteint le cerveau, la cible infectée voit son maximum de points de vie se réduire de 10 (3d6) points par 24 heures. Si la larve réduit le maximum des points de vie de la cible à 0, cela signifie que sa transformation en abothid est achevée. Seul un sort de souhait peut inverser la transformation.
 
-Asservissement (1/jour). L'abothid cible une créature dans son champ de vision située à 18 mètres ou moins. La cible doit réussir un jet de sauvegarde de Sagesse (DD 14) sous peine d'être charmée magiquement par l'abothid pour une durée de 1 heure.
+**_Asservissement (1/jour)._** L'abothid cible une créature dans son champ de vision située à 18 mètres ou moins. La cible doit réussir un jet de sauvegarde de Sagesse (DD 14) sous peine d'être charmée magiquement par l'abothid pour une durée de 1 heure.
 
 La cible charmée est sous le contrôle de l'abothid et ne peut entreprendre aucune action mis à part se défendre au mieux de ses capacités. L'abothid peut utiliser sa télépathie pour donner des ordres à la cible.
 
 Chaque fois que la cible charmée subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. L'effet peut prendre fin avant si l'abothid est détruit, s'il s'éloigne de plus de 1,5 kilomètre de la cible, s'il se trouve sur un plan d'existence différent de celui de la cible ou, enfin, s'il effectue une action bonus pour mettre fin à cet effet.
 
-Absorption psychique. L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
+**_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
 
 
 # Âme-en-peine
@@ -115,15 +115,17 @@ Absorption psychique. L'abothid peut se nourrir du psychisme d'une cible asservi
 
 ## Capacités
 
-Déplacement intangible. L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet. Sensibilité à la lumière du soleil. L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.
+**_Déplacement intangible._** L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet. 
+
+**_Sensibilité à la lumière du soleil._** L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.
 
 ## Actions
 
-Absorption de vie. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+**_Absorption de vie._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
+_Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
 
-Création de spectre. L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
+**_Création de spectre._** L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
 
 
 # Amphibe
@@ -143,23 +145,23 @@ Création de spectre. L'âme-en-peine cible un humanoïde mort depuis moins d'un
 
 ## Capacités
 
-Amphibie. L'amphibe peut respirer à l'air libre et sous l'eau.
+**_Amphibie._** L'amphibe peut respirer à l'air libre et sous l'eau.
 
-Avantage aquatique. Sous l'eau, l'amphibe bénéficie d'un avantage à ses tests de Discrétion et de Perception, ainsi qu'à ses jets de sauvegarde de Dextérité visant à éviter un danger. S'il nage en ligne droite, il peut utiliser l'action de course.
+**_Avantage aquatique._** Sous l'eau, l'amphibe bénéficie d'un avantage à ses tests de Discrétion et de Perception, ainsi qu'à ses jets de sauvegarde de Dextérité visant à éviter un danger. S'il nage en ligne droite, il peut utiliser l'action de course.
 
-Pattes arrières. L'amphibe gagne 2 attaques de griffes supplémentaires avec ses pattes arrières lorsqu'il attaque en nageant.
+**_Pattes arrières._** L'amphibe gagne 2 attaques de griffes supplémentaires avec ses pattes arrières lorsqu'il attaque en nageant.
 
 ## Actions
 
-Attaques multiples. Un amphibe sans arme effectue 3 attaques : 1 en mordant et 2 avec ses griffes.
+**_Attaques multiples._** Un amphibe sans arme effectue 3 attaques : 1 en mordant et 2 avec ses griffes.
 
-Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+**_Morsure._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 7 (1d8+3) dégâts perforants.
+_Touché :_ 7 (1d8+3) dégâts perforants.
 
-Griffes. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+**_Griffes._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 5 (1d4+3) dégâts tranchants.
+_Touché :_ 5 (1d4+3) dégâts tranchants.
 
 
 # Déva
@@ -182,27 +184,27 @@ Touché : 5 (1d4+3) dégâts tranchants.
 
 ## Capacités
 
-Armes angéliques. Les attaques d'arme du déva sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 4d8 dégâts radiants supplémentaires (inclus dans l'attaque).
+**_Armes angéliques._** Les attaques d'arme du déva sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 4d8 dégâts radiants supplémentaires (inclus dans l'attaque).
 
-Incantation innée. La caractéristique d'incantation du déva est le Charisme (DD du jet de sauvegarde contre les sorts 17). Le déva peut lancer les sorts suivants de manière innée avec des composantes verbales uniquement :
+**_Incantation innée._** La caractéristique d'incantation du déva est le Charisme (DD du jet de sauvegarde contre les sorts 17). Le déva peut lancer les sorts suivants de manière innée avec des composantes verbales uniquement :
 
-À volonté : détection du mal et du bien
+**À volonté :** détection du mal et du bien
 
-1/jour chacun : communion, relever les morts Résistance à la magie. Le déva obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+**1/jour chacun :** communion, relever les morts Résistance à la magie. Le déva obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Attaques multiples. Le déva effectue deux attaques au corps à corps.
+**_Attaques multiples._** Le déva effectue deux attaques au corps à corps.
 
-Changer de forme. Le déva peut se métamorphoser par magie en un humanoïde ou une bête dont l'indice de dangerosité est inférieur ou égal au sien ou bien reprendre sa véritable forme. Il reprend également sa véritable apparence à sa mort. Sa nouvelle forme absorbe les objets précédemment portés ou transportés ou bien les porte elle aussi, comme il le souhaite.
+**_Changer de forme._** Le déva peut se métamorphoser par magie en un humanoïde ou une bête dont l'indice de dangerosité est inférieur ou égal au sien ou bien reprendre sa véritable forme. Il reprend également sa véritable apparence à sa mort. Sa nouvelle forme absorbe les objets précédemment portés ou transportés ou bien les porte elle aussi, comme il le souhaite.
 
 Une fois métamorphosé, le déva conserve ses statistiques de jeu et sa capacité à parler, mais sa CA, ses modes de déplacement, sa Force, sa Dextérité et ses sens spéciaux sont remplacés par ceux de sa nouvelle forme. En outre, il obtient toutes les statistiques et capacités (à l'exception des aptitudes de classe, des actions légendaires et des actions d'antre) que possède la forme adoptée et que lui ne possédait pas.
 
-Contact curatif (3/jour). Le déva touche une autre créature. La cible récupère 20 (4d8+2) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et sourd.
+**_Contact curatif (3/jour)._** Le déva touche une autre créature. La cible récupère 20 (4d8+2) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et sourd.
 
-Masse d'armes. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+**_Masse d'armes._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
+_Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 
 # Planétar
@@ -225,29 +227,29 @@ Touché : 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 ## Capacités
 
-Armes angéliques. Les attaques d'arme du planétar sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 5d8 dégâts radiants supplémentaires (inclus dans l'attaque).
+**_Armes angéliques._** Les attaques d'arme du planétar sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 5d8 dégâts radiants supplémentaires (inclus dans l'attaque).
 
-Incantation innée. La caractéristique d'incantation du planétar est le Charisme (DD du jet de sauvegarde contre les sorts 20). Le planétar peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+**_Incantation innée._** La caractéristique d'incantation du planétar est le Charisme (DD du jet de sauvegarde contre les sorts 20). Le planétar peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-À volonté : détection du mal et du bien, invisibilité (soi-même uniquement)
+**À volonté :** détection du mal et du bien, invisibilité (soi-même uniquement)
 
-3/jour chacun : barrière de lames, colonne de feu, dissipation du mal et du bien, relever les morts
+**3/jour chacun :** barrière de lames, colonne de feu, dissipation du mal et du bien, relever les morts
 
-1/jour chacun : communion, contrôle du climat, fléau d'insectes
+**1/jour chacun :** communion, contrôle du climat, fléau d'insectes
 
-Résistance à la magie. Le planétar obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+**_Résistance à la magie._** Le planétar obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
-Vigilance divine. Le planétar reconnaît un mensonge lorsqu'il entend quelqu'un le prononcer.
+**_Vigilance divine._** Le planétar reconnaît un mensonge lorsqu'il entend quelqu'un le prononcer.
 
 ## Actions
 
-Attaques multiples. Le planétar effectue deux attaques au corps à corps.
+**_Attaques multiples._** Le planétar effectue deux attaques au corps à corps.
 
-Contact curatif (4/jour). Le planétar touche une autre créature. La cible récupère 30 (6d8+3) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et assourdi.
+**_Contact curatif (4/jour)._** Le planétar touche une autre créature. La cible récupère 30 (6d8+3) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et assourdi.
 
-Épée à deux mains. Attaque d'arme au corps à corps : +12 pour toucher, allonge 1,50 m, une cible.
+**_Épée à deux mains._** Attaque d'arme au corps à corps : +12 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
+_Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 
 # Solar
