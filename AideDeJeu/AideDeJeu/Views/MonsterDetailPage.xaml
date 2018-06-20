@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown;assembly=Xam.Forms.MarkdownView"
              x:Class="AideDeJeu.Views.MonsterDetailPage"
              Title="{Binding Title}">
     <ContentPage.Resources>
@@ -14,7 +15,7 @@
     </ContentPage.Resources>
     <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
         <StackLayout Orientation="Vertical" Padding="15">
-            
+
             <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
             
             <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
@@ -77,13 +78,18 @@
 
             <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
 
-            <Label FormattedText="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
+            <Label Text="Capacités" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
+            <!--<Label FormattedText="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />-->
+            <mdview:MarkdownView Padding="0" CascadeInputTransparent="True" Margin="0" BackgroundColor="Aqua" InputTransparent="True" HorizontalOptions="FillAndExpand" Markdown="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}"  IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
-            <Label FormattedText="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
+            <!--<Label FormattedText="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />-->
+            <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions légendaires" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
-            <Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+            <!--<Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />-->
+            <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+
             <!--<ListView ItemsSource="{Binding Item.SpecialFeaturesNodes}">
                 <ListView.ItemTemplate>
                     <DataTemplate>

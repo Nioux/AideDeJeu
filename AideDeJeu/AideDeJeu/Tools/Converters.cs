@@ -67,21 +67,28 @@ namespace AideDeJeu.Tools
             var strings = value as IEnumerable<string>;
             if (strings != null)
             {
-                var fs = new FormattedString();
+                var cstring = string.Empty;
                 foreach (var str in strings)
                 {
-                    var doc = new XmlDocument();
-                    doc.LoadXml("<div>" + str + "</div>");
-
-                    FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentElement, fs);
-                    fs.Spans.Add(new Span() { Text = "\r\n" });
+                    cstring += str + "\r\n";
                 }
-                return fs;
+                return cstring;
+                //    var fs = new FormattedString();
+                //    foreach (var str in strings)
+                //    {
+                //        var doc = new XmlDocument();
+                //        doc.LoadXml("<div>" + str + "</div>");
+
+                //        FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentElement, fs);
+                //        fs.Spans.Add(new Span() { Text = "\r\n" });
+                //    }
+                //    return fs;
+                //}
+                //else
+                //{
+                //    return null;
             }
-            else
-            {
-                return null;
-            }
+            return null;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

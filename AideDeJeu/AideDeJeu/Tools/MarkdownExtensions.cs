@@ -210,7 +210,7 @@ namespace AideDeJeu.Tools
                 else if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    features?.Add(MarkdownToHtml(paragraphBlock.ToParagraphString()));
+                    features?.Add(paragraphBlock.ToParagraphString());
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -313,7 +313,7 @@ namespace AideDeJeu.Tools
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        features?.Add(MarkdownToHtml(listBlock.BulletType + " " + paragraphBlock.ToParagraphString()));
+                                        features?.Add(listBlock.BulletType + " " + paragraphBlock.ToParagraphString());
                                     }
                                 }
                             }
