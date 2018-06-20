@@ -259,6 +259,8 @@ namespace AideDeJeu.Tools
                                             new Tuple<string, Action<Monster, string>>("**Immunité contre l'état** ", (m, s) => m.ConditionImmunities = s),
                                             new Tuple<string, Action<Monster, string>>("**Immunité contre les états** ", (m, s) => m.ConditionImmunities = s),
                                             new Tuple<string, Action<Monster, string>>("**Immunités contre les états** ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Vulnérabilité aux dégâts** ", (m, s) => m.DamageVulnerabilities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Vulnérabilité contre les dégâts** ", (m, s) => m.DamageVulnerabilities = s),
                                             new Tuple<string, Action<Monster, string>>("**Vulnérabilité** ", (m, s) => m.DamageVulnerabilities = s),
                                             new Tuple<string, Action<Monster, string>>("**Sens** ", (m, s) => m.Senses = s),
                                             new Tuple<string, Action<Monster, string>>("**Langue** ", (m, s) => m.Languages = s),

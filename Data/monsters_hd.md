@@ -9,11 +9,11 @@
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
 
-- Jets de sauvegarde Con +6, Int +8, Sag +6
-- Compétences Histoire +12, Perception +10
-- Sens vision dans le noir 36 m, Perception passive 20
-- Langues profond, télépathie 36 m
-- Dangerosité 10 (5 900 PX)
+- **Jets de sauvegarde** Con +6, Int +8, Sag +6
+- **Compétences** Histoire +12, Perception +10
+- **Sens** vision dans le noir 36 m, Perception passive 20
+- **Langues** profond, télépathie 36 m
+- **Dangerosité** 10 (5 900 PX)
 
 ## Capacités
 
@@ -101,14 +101,14 @@ de vie égal aux dégâts subis par la créature.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|15 (+2)|18 (+4)|13 (+1)|14 (+2)|
 
-- Jets de sauvegarde Int +7, Sag +4, Cha +5
-- Compétences Intimidation +7, Perception +6, Perspicacité +6
-- Résistance aux dégâts acide et froid
-- Vulnérabilité aux dégâts feu
-- Immunité contre les dégâts de poison
-- Sens vision dans le noir (18 m) ; Perception passive 16
-- Langue Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine
-- Dangerosité 7 (2 900 XP)
+- **Jets de sauvegarde** Int +7, Sag +4, Cha +5
+- **Compétences** Intimidation +7, Perception +6, Perspicacité +6
+- **Résistance aux dégâts** acide et froid
+- **Vulnérabilité aux dégâts** feu
+- **Immunité contre les dégâts** de poison
+- **Sens** vision dans le noir (18 m) ; Perception passive 16
+- **Langue** Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine
+- **Dangerosité** 7 (2 900 XP)
 
 ## Capacités
 
@@ -189,12 +189,12 @@ de l'abothid à ce tour.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 
-- Résistance aux dégâts d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de poison et nécrotiques
-- Immunité contre les états à terre, charmé, empoigné, empoisonné, épuisé, entravé, paralysé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues celles qu'elle connaissait de son vivant
-- Dangerosité 5 (1 800 PX)
+- **Résistance aux dégâts** d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de poison et nécrotiques
+- **Immunité contre les états** à terre, charmé, empoigné, empoisonné, épuisé, entravé, paralysé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** celles qu'elle connaissait de son vivant
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -240,10 +240,10 @@ spectres en même temps.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|13 (+1)|10 (+0)|10 (+0)| 4 (-3)|
 
-- Compétences Discrétion +4, Perception +3
-- Sens vision dans le noir 18 m ; Perception passive 13
-- Langue commun des profondeurs
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Sens** vision dans le noir 18 m ; Perception passive 13
+- **Langue** commun des profondeurs
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -280,13 +280,13 @@ Touché : 5 (1d4+3) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
 
-- Jets de sauvegarde Sag +9, Cha +9
-- Compétences Perception +9, Perspicacité +9
-- Résistance aux dégâts radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états charmé, terrorisé et épuisé
-- Sens vision dans le noir 36 m, Perception passive 19
-- Langues toutes, télépathie 36 m
-- Dangerosité 10 (5 900 PX)
+- **Jets de sauvegarde** Sag +9, Cha +9
+- **Compétences** Perception +9, Perspicacité +9
+- **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** charmé, terrorisé et épuisé
+- **Sens** vision dans le noir 36 m, Perception passive 19
+- **Langues** toutes, télépathie 36 m
+- **Dangerosité** 10 (5 900 PX)
 
 ## Capacités
 
@@ -346,13 +346,13 @@ Touché : 7 (1d6+4) dégâts contondants plus
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
 
-- Jets de sauvegarde Con +12, Sag +11, Cha +12
-- Compétences Perception +11
-- Résistance aux dégâts radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états charmé, terrorisé et épuisé
-- Sens vision parfaite 36 m, Perception passive 21
-- Langues toutes, télépathie 36 m
-- Dangerosité 16 (15 000 PX)
+- **Jets de sauvegarde** Con +12, Sag +11, Cha +12
+- **Compétences** Perception +11
+- **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** charmé, terrorisé et épuisé
+- **Sens** vision parfaite 36 m, Perception passive 21
+- **Langues** toutes, télépathie 36 m
+- **Dangerosité** 16 (15 000 PX)
 
 ## Capacités
 
@@ -402,14 +402,14 @@ Touché : 21 (4d6+7) dégâts tranchants plus
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
 
-- Jets de sauvegarde Int +14, Sag +14, Cha +17 
-- Compétence Perception +14
-- Résistance aux dégâts radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison et nécrotiques
-- Immunité contre les états charmé, terrorisé, empoisonné et épuisé
-- Sens vision parfaite 36 m, Perception passive 24
-- Langues toutes, télépathie 36 m
-- Dangerosité 21 (33 000 PX)
+- **Jets de sauvegarde** Int +14, Sag +14, Cha +17 
+- **Compétence** Perception +14
+- **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison et nécrotiques
+- **Immunité contre les états** charmé, terrorisé, empoisonné et épuisé
+- **Sens** vision parfaite 36 m, Perception passive 24
+- **Langues** toutes, télépathie 36 m
+- **Dangerosité** 21 (33 000 PX)
 
 ## Capacités
 
@@ -511,9 +511,9 @@ mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|13 (+1)| 1 (-5)|13 (+1)| 6 (-2)|
 
-- Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 11
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -546,12 +546,12 @@ de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
 
-- Jet de sauvegarde Con +4
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens Perception passive 11
-- Langue ignée
-- Dangerosité 2 (450 PX)
+- **Jet de sauvegarde** Con +4
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** Perception passive 11
+- **Langue** ignée
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -587,10 +587,10 @@ plus 3 (1d6) dégâts de feu.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- Immunité contre l'état à terre
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue —
-- Dangerosité 2 (450 PX)
+- **Immunité contre l'état** à terre
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -652,9 +652,9 @@ cible est tuée par ces dégâts, le babélien l'absorbe.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
 
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues —
-- Dangerosité 3 (700 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -699,11 +699,11 @@ de poison.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
 
-- Compétences Discrétion +7, Perception +6
-- Immunité contre les dégâts de foudre
-- Sens vision dans le noir 27 m, Perception passive 16
-- Langue draconique
-- Dangerosité 11 (7 200 PX)
+- **Compétences** Discrétion +7, Perception +6
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision dans le noir 27 m, Perception passive 16
+- **Langue** draconique
+- **Dangerosité** 11 (7 200 PX)
 
 ## Actions
 
@@ -757,10 +757,10 @@ moitié seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Compétence Perception +6
-- Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 16
-- Langue —
-- Dangerosité 5 (1 800 PX)
+- **Compétence** Perception +6
+- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 16
+- **Langue** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -802,10 +802,10 @@ de la bulette à la place.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|14 (+2)| 9 (-1)|13 (+1)|11 (+0)|
 
-- Compétences Athlétisme +6, Perception +3, Survie +3
-- Sens Perception passive 13
-- Langues elfe, sylvestre
-- Dangerosité 2 (450 PX)
+- **Compétences** Athlétisme +6, Perception +3, Survie +3
+- **Sens** Perception passive 13
+- **Langues** elfe, sylvestre
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -841,12 +841,12 @@ Touché : 11 (2d6+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)| 5 (-3)|14 (+2)|10 (+0)|
 
-- Compétences Discrétion +5, Perception +10
-- Immunité contre les dégâts de poison
-- Immunité contre les états assourdi, aveuglé et empoisonné
-- Sens vision parfaite 12 m, Perception passive 20
-- Langues —
-- Dangerosité 6 (2 300 PX)
+- **Compétences** Discrétion +5, Perception +10
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** assourdi, aveuglé et empoisonné
+- **Sens** vision parfaite 12 m, Perception passive 20
+- **Langues** —
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -886,10 +886,10 @@ réussie après la première dans le même tour.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- Immunité contre les états assourdi, aveuglé et terrorisé
-- Sens vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Immunité contre les états** assourdi, aveuglé et terrorisé
+- **Sens** vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -915,10 +915,10 @@ pendant ses 1d4 prochains tours.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- Immunité contre les états assourdi, aveuglé et terrorisé
-- Sens vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Immunité contre les états** assourdi, aveuglé et terrorisé
+- **Sens** vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -945,10 +945,10 @@ Touché : 4 (1d8) dégâts nécrotiques.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
 
-- Compétence Perception +8
-- Sens vision dans le noir 18 m, Perception passive 18
-- Langues comprend le draconique mais ne peut pas parler
-- Dangerosité 6 (2 300 PX)
+- **Compétence** Perception +8
+- **Sens** vision dans le noir 18 m, Perception passive 18
+- **Langues** comprend le draconique mais ne peut pas parler
+- **Dangerosité** 6 (2 300 PX)
 
 ## Actions
 
@@ -985,12 +985,12 @@ cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 5 (-3)|11 (+0)| 5 (-3)|
 
-- Compétence Perception +4
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues comprend le profond mais ne peut pas parler
-- Dangerosité 4 (1 100 PX)
+- **Compétence** Perception +4
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** comprend le profond mais ne peut pas parler
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -1032,9 +1032,9 @@ de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|12 (+1)|12 (+1)| 2 (-4)|13 (+1)| 5 (-3)|
 
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langue —
-- Dangerosité 1/2 (100 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Actions
 
@@ -1061,12 +1061,12 @@ En cas d'échec, la créature est pétrifiée pendant
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
 
-- Jets de sauvegarde Con +5, Sag +7, Cha +6
-- Résistance aux dégâts radiants
-- Immunité contre les dégâts psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Sens vision parfaite 36 m, Perception passive 15
-- Langues toutes, télépathie 36 m
-- Dangerosité 4 (1 100 PX)
+- **Jets de sauvegarde** Con +5, Sag +7, Cha +6
+- **Résistance aux dégâts** radiants
+- **Immunité contre les dégâts** psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Sens** vision parfaite 36 m, Perception passive 15
+- **Langues** toutes, télépathie 36 m
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -1135,11 +1135,11 @@ secouer la cible afin qu'elle reprenne connaissance.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- Compétences Athlétisme +5, Perception +2
-- Résistance aux dégâts de feu
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 12
-- Langues commun, draconique
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Athlétisme +5, Perception +2
+- **Résistance aux dégâts** de feu
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 12
+- **Langues** commun, draconique
+- **Dangerosité** 5 (1 800 PX)
 
 ## Actions
 
@@ -1175,13 +1175,13 @@ moitié de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
 
-- Jets de sauvegarde For +14, Con +12, Sag +9, Cha +12
-- Résistance aux dégâts de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision parfaite 36 m, Perception passive 13
-- Langue abyssal, télépathie 36 m
-- Dangerosité 19 (22 000 PX)
+- **Jets de sauvegarde** For +14, Con +12, Sag +9, Cha +12
+- **Résistance aux dégâts** de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision parfaite 36 m, Perception passive 13
+- **Langue** abyssal, télépathie 36 m
+- **Dangerosité** 19 (22 000 PX)
 
 ## Capacités
 
@@ -1242,12 +1242,12 @@ vision à une distance maximale de 36 mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|11 (+0)|12 (+1)| 5 (-3)| 8 (-1)| 3 (-4)|
 
-- Résistance aux dégâts de feu, de foudre et de froid
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langue abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
-- Dangerosité 1/4 (50 PX)
+- **Résistance aux dégâts** de feu, de foudre et de froid
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langue** abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -1283,13 +1283,13 @@ elles ne peuvent pas effectuer de réaction.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
 
-- Jets de sauvegarde For +9, Con +9, Sag +7, Cha +7
-- Résistance aux dégâts de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision parfaite 36 m, Perception passive 13
-- Langues abyssal, télépathie 36 m
-- Dangerosité 9 (5 000 PX)
+- **Jets de sauvegarde** For +9, Con +9, Sag +7, Cha +7
+- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision parfaite 36 m, Perception passive 13
+- **Langues** abyssal, télépathie 36 m
+- **Dangerosité** 9 (5 000 PX)
 
 ## Capacités
 
@@ -1334,13 +1334,13 @@ Touché : 7 (2d4+2) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|17 (+3)|20 (+5)| 5 (-3)|12 (+1)|13 (+1)|
 
-- Jets de sauvegarde For +7, Con +8, Sag +4
-- Résistance aux dégâts de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 11
-- Langues abyssal, télépathie 36 m
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** For +7, Con +8, Sag +4
+- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 11
+- **Langues** abyssal, télépathie 36 m
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -1379,13 +1379,13 @@ Touché : 15 (2d10+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
 
-- Jets de sauvegarde For +9, Con +10, Sag +8, Cha +10
-- Résistance aux dégâts de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision parfaite 36 m, Perception passive 13
-- Langues abyssal, télépathie 36 m
-- Dangerosité 16 (15 000 PX)
+- **Jets de sauvegarde** For +9, Con +10, Sag +8, Cha +10
+- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision parfaite 36 m, Perception passive 13
+- **Langues** abyssal, télépathie 36 m
+- **Dangerosité** 16 (15 000 PX)
 
 ## Capacités
 
@@ -1434,13 +1434,13 @@ corps à corps pour pouvoir parer de cette façon.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
 
-- Jets de sauvegarde Con +11, Int +9, Sag +6, Cha +7
-- Résistance aux dégâts de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre des dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision parfaite 36 m, Perception passive 11
-- Langues abyssal, télépathie 36 m
-- Dangerosité 13 (10 000 PX)
+- **Jets de sauvegarde** Con +11, Int +9, Sag +6, Cha +7
+- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre des dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision parfaite 36 m, Perception passive 11
+- **Langues** abyssal, télépathie 36 m
+- **Dangerosité** 13 (10 000 PX)
 
 ## Capacités
 
@@ -1489,13 +1489,13 @@ vision à une distance maximale de 36 mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
 
-- Compétence Discrétion +5
-- Résistance aux dégâts de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 10
-- Langues abyssal, commun
-- Dangerosité 1 (200 PX)
+- **Compétence** Discrétion +5
+- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langues** abyssal, commun
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -1549,13 +1549,13 @@ transportés deviennent également invisibles.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
 
-- Jets de sauvegarde Dex +5, Sag +4, Cha +2
-- Résistance aux dégâts de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 11
-- Langues abyssal, télépathie 36 m
-- Dangerosité 6 (2 300 PX)
+- **Jets de sauvegarde** Dex +5, Sag +4, Cha +2
+- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 11
+- **Langues** abyssal, télépathie 36 m
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -1604,10 +1604,10 @@ bénite sur la cible met également fin à cet effet.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
-- Immunité contre les dégâts de feu
-- Sens Perception passive 11
-- Langues comprend l'abyssal, le commun et l'infernal mais ne peut pas parler
-- Dangerosité 3 (700 PX)
+- **Immunité contre les dégâts** de feu
+- **Sens** Perception passive 11
+- **Langues** comprend l'abyssal, le commun et l'infernal mais ne peut pas parler
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -1639,11 +1639,11 @@ dégâts contondants plus 7 (2d6) dégâts de feu.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|14 (+2)|16 (+3)|15 (+2)|14 (+2)|18 (+4)|
 
-- Compétences Perception +4
-- Immunité contre les états aveuglé, à terre
-- Sens vision aveugle 18 m (aveugle au-delà) ; Perception passive 14
-- Langues profond, commun des profondeurs, télépathie (36 m)
-- Dangerosité 13 (10 000 XP)
+- **Compétences** Perception +4
+- **Immunité contre les états** aveuglé, à terre
+- **Sens** vision aveugle 18 m (aveugle au-delà) ; Perception passive 14
+- **Langues** profond, commun des profondeurs, télépathie (36 m)
+- **Dangerosité** 13 (10 000 XP)
 
 ## Capacités
 
@@ -1782,14 +1782,14 @@ Relancez deux fois le dé et rejouez tous les 8.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
 
-- Jets de sauvegarde For +6, Con +7, Sag +5, Cha +5
-- Compétences Perception +8, Perspicacité +5, Supercherie +5
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 18
-- Langue infernal, télépathie 36 m
-- Dangerosité 5 (1 800 PX)
+- **Jets de sauvegarde** For +6, Con +7, Sag +5, Cha +5
+- **Compétences** Perception +8, Perspicacité +5, Supercherie +5
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 18
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -1831,13 +1831,13 @@ dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|15 (+2)|15 (+2)| 9 (-1)|11 (+0)|11 (+0)|
 
-- Jets de sauvegarde For +5, Con +4, Sag +2
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 10
-- Langue infernal, télépathie 36 m
-- Dangerosité 3 (700 PX)
+- **Jets de sauvegarde** For +5, Con +4, Sag +2
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -1889,13 +1889,13 @@ si la cible bénéficie d'un soin magique.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
 
-- Jets de sauvegarde For +10, Dex +7, Sag +7, Cha +7
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 13
-- Langue infernal, télépathie 36 m
-- Dangerosité 11 (7 200 PX)
+- **Jets de sauvegarde** For +10, Dex +7, Sag +7, Cha +7
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 13
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 11 (7 200 PX)
 
 ## Capacités
 
@@ -1944,13 +1944,13 @@ cible bénéficie d'un soin magique.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
 
-- Jets de sauvegarde Dex +7, Con +9, Sag +7, Cha +9
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu, de froid et de poison
-- Immunité contre l'état empoisonné
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 12
-- Langue infernal, télépathie 36 m
-- Dangerosité 14 (11 500 PX)
+- **Jets de sauvegarde** Dex +7, Con +9, Sag +7, Cha +9
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu, de froid et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 12
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 14 (11 500 PX)
 
 ## Capacités
 
@@ -2022,13 +2022,13 @@ dégâts contondants plus 10 (3d6) dégâts de froid.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 
-- Jets de sauvegarde Con +7, Sag +4, Cha +5
-- Résistances aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 11
-- Langue infernal, télépathie 36 m
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** Con +7, Sag +4, Cha +5
+- **Résistances aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 11
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -2088,14 +2088,14 @@ un jet de sauvegarde de Sagesse DD 14 pour ne pas
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
 
-- Jets de sauvegarde Int +5, Sag +6, Cha +7
-- Compétences Perspicacité +6, Supercherie +7
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 12
-- Langue infernal, télépathie 36 m
-- Dangerosité 9 (5 000 PX)
+- **Jets de sauvegarde** Int +5, Sag +6, Cha +7
+- **Compétences** Perspicacité +6, Supercherie +7
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 12
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 9 (5 000 PX)
 
 ## Capacités
 
@@ -2133,13 +2133,13 @@ dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 
-- Compétences Discrétion +5, Perspicacité +3, Persuasion +4, Supercherie +4
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 11
-- Langues commun, infernal
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +5, Perspicacité +3, Persuasion +4, Supercherie +4
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 11
+- **Langues** commun, infernal
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -2183,13 +2183,13 @@ un sort). Ses objets équipés ou transportés deviennent
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
 
-- Jets de sauvegarde Dex +8, Con +13, Sag +10
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision parfaite 36 m, Perception passive 14
-- Langue infernal, télépathie 36 m
-- Dangerosité 20 (25 000 PX)
+- **Jets de sauvegarde** Dex +8, Con +13, Sag +10
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision parfaite 36 m, Perception passive 14
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 20 (25 000 PX)
 
 ## Capacités
 
@@ -2253,13 +2253,13 @@ Touché : 24 (3d10+8) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
 
-- Jets de sauvegarde Dex +7, Con +8, Sag +6, Cha +8
-- Résistance aux dégâts de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision parfaite 36 m, Perception passive 12
-- Langue infernal, télépathie 36 m
-- Dangerosité 12 (8 400 PX)
+- **Jets de sauvegarde** Dex +7, Con +8, Sag +6, Cha +8
+- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision parfaite 36 m, Perception passive 12
+- **Langue** infernal, télépathie 36 m
+- **Dangerosité** 12 (8 400 PX)
 
 ## Capacités
 
@@ -2303,12 +2303,12 @@ corps à corps pour pouvoir parer de cette façon.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 5 (-3)|11 (+0)| 1 (-5)|11 (+0)| 3 (-4)|
 
-- Résistance aux dégâts de froid
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre les états charmé, terrorisé et empoisonné
-- Sens vision dans le noir 36 m, Perception passive 10
-- Langues comprend l'infernal mais ne peut pas parler
-- Dangerosité 0 (10 PX)
+- **Résistance aux dégâts** de froid
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre les états** charmé, terrorisé et empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langues** comprend l'infernal mais ne peut pas parler
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -2338,10 +2338,10 @@ dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|18 (+4)| 6 (-2)|10 (+0)| 6 (-2)|
 
-- Résistance aux dégâts voir description
-- Sens vision dans le noir (18 m)
-- Langue diaspaad, répète des mots sans les comprendre
-- Dangerosité 10 (5 900 XP)
+- **Résistance aux dégâts** voir description
+- **Sens** vision dans le noir (18 m)
+- **Langue** diaspaad, répète des mots sans les comprendre
+- **Dangerosité** 10 (5 900 XP)
 
 ## Capacités
 
@@ -2406,10 +2406,10 @@ par une action bonus.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- Compétences Discrétion +4, Perception +3
-- Sens Perception passive 13
-- Langue —
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Sens** Perception passive 13
+- **Langue** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -2433,9 +2433,9 @@ dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
 
-- Sens Perception passive 10
-- Langue —
-- Dangerosité 5 (1 800 PX)
+- **Sens** Perception passive 10
+- **Langue** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -2468,10 +2468,10 @@ terre. Touché : 22 (3d10+6) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|19 (+4)| 2 (-4)|12 (+1)| 9 (-1)|
 
-- Compétence Perception +4
-- Sens Perception passive 14
-- Langue —
-- Dangerosité 8 (3 900 PX)
+- **Compétence** Perception +4
+- **Sens** Perception passive 14
+- **Langue** —
+- **Dangerosité** 8 (3 900 PX)
 
 ## Actions
 
@@ -2501,11 +2501,11 @@ Touché : 20 (3d8+7) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
 
-- Compétences Perspicacité +3, Supercherie +6
-- Immunité contre l'état charmé
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langue commun
-- Dangerosité 3 (700 PX)
+- **Compétences** Perspicacité +3, Supercherie +6
+- **Immunité contre l'état** charmé
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -2558,12 +2558,12 @@ Persuasion et Supercherie) effectués contre elle.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|
 
-- Jets de sauvegarde Dex +6, Con +14, Sag +7, Cha +8
-- Compétences Discrétion +6, Perception +13
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
-- Langues commun, draconique
-- Dangerosité 20 (25 000 PX)
+- **Jets de sauvegarde** Dex +6, Con +14, Sag +7, Cha +8
+- **Compétences** Discrétion +6, Perception +13
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
+- **Langues** commun, draconique
+- **Dangerosité** 20 (25 000 PX)
 
 ## Capacités
 
@@ -2642,12 +2642,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|10 (+0)|22 (+6)| 8 (-1)|12 (+1)|12 (+1)|
 
-- Jets de sauvegarde Dex +5, Con +11, Sag +6, Cha +6
-- Compétences Discrétion +5, Perception +11
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
-- Langues commun, draconique
-- Dangerosité 13 (10 000 PX)
+- **Jets de sauvegarde** Dex +5, Con +11, Sag +6, Cha +6
+- **Compétences** Discrétion +5, Perception +11
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
+- **Langues** commun, draconique
+- **Dangerosité** 13 (10 000 PX)
 
 ## Capacités
 
@@ -2736,12 +2736,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|18 (+4)| 6 (-2)|11 (+0)|12 (+1)|
 
-- Jets de sauvegarde Dex +3, Con +7, Sag +3, Cha +4
-- Compétences Discrétion +3, Perception +6
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16
-- Langues commun, draconique
-- Dangerosité 6 (2 300 PX)
+- **Jets de sauvegarde** Dex +3, Con +7, Sag +3, Cha +4
+- **Compétences** Discrétion +3, Perception +6
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16
+- **Langues** commun, draconique
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -2783,12 +2783,12 @@ réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|10 (+0)|14 (+2)| 5 (-3)|10 (+0)|11 (+0)|
 
-- Jets de sauvegarde Dex +2, Con +4, Sag +2, Cha +2
-- Compétences Discrétion +2, Perception +4
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Dex +2, Con +4, Sag +2, Cha +2
+- **Compétences** Discrétion +2, Perception +4
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -2814,12 +2814,12 @@ moitié de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
 
-- Jets de sauvegarde Dex +7, Con +15, Sag +10, Cha +12
-- Compétences Discrétion +7, Perception +17
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
-- Langues commun, draconique
-- Dangerosité 23 (50 000 PX)
+- **Jets de sauvegarde** Dex +7, Con +15, Sag +10, Cha +12
+- **Compétences** Discrétion +7, Perception +17
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
+- **Langues** commun, draconique
+- **Dangerosité** 23 (50 000 PX)
 
 ## Capacités
 
@@ -2892,12 +2892,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 
-- Jets de sauvegarde Dex +5, Con +11, Sag +7, Cha +9
-- Compétences Discrétion +5, Perception +12
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
-- Langues commun, draconique
-- Dangerosité 16 (15 000 PX)
+- **Jets de sauvegarde** Dex +5, Con +11, Sag +7, Cha +9
+- **Compétences** Discrétion +5, Perception +12
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
+- **Langues** commun, draconique
+- **Dangerosité** 16 (15 000 PX)
 
 ## Capacités
 
@@ -2972,12 +2972,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 
-- Jets de sauvegarde Dex +4, Con +8, Sag +5, Cha +7
-- Compétences Discrétion +4, Perception +9
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
-- Langues commun, draconique
-- Dangerosité 9 (5 000 PX)
+- **Jets de sauvegarde** Dex +4, Con +8, Sag +5, Cha +7
+- **Compétences** Discrétion +4, Perception +9
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
+- **Langues** commun, draconique
+- **Dangerosité** 9 (5 000 PX)
 
 ## Actions
 
@@ -3009,12 +3009,12 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Dex +2, Con +4, Sag +2, Cha +4
-- Compétences Discrétion +2, Perception +4
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 3 (700 PX)
+- **Jets de sauvegarde** Dex +2, Con +4, Sag +2, Cha +4
+- **Compétences** Discrétion +2, Perception +4
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 3 (700 PX)
 
 ## Actions
 
@@ -3041,12 +3041,12 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 
-- Jets de sauvegarde Dex +9, Con +14, Sag +9, Cha +11
-- Compétences Discrétion +9, Perception +16
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
-- Langues commun, draconique
-- Dangerosité 21 (33 000 PX)
+- **Jets de sauvegarde** Dex +9, Con +14, Sag +9, Cha +11
+- **Compétences** Discrétion +9, Perception +16
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
+- **Langues** commun, draconique
+- **Dangerosité** 21 (33 000 PX)
 
 ## Capacités
 
@@ -3121,12 +3121,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
 
-- Jets de sauvegarde Dex +7, Con +10, Sag +6, Cha +8
-- Compétences Discrétion +7, Perception +11
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
-- Langues commun, draconique
-- Dangerosité 14 (11 500 PX)
+- **Jets de sauvegarde** Dex +7, Con +10, Sag +6, Cha +8
+- **Compétences** Discrétion +7, Perception +11
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
+- **Langues** commun, draconique
+- **Dangerosité** 14 (11 500 PX)
 
 ## Capacités
 
@@ -3215,12 +3215,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Dex +5, Con +6, Sag +3, Cha +5
-- Compétences Discrétion +5, Perception +6
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16
-- Langues commun, draconique
-- Dangerosité 7 (2 900 PX)
+- **Jets de sauvegarde** Dex +5, Con +6, Sag +3, Cha +5
+- **Compétences** Discrétion +5, Perception +6
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16
+- **Langues** commun, draconique
+- **Dangerosité** 7 (2 900 PX)
 
 ## Capacités
 
@@ -3256,12 +3256,12 @@ moitié de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
 
-- Jets de sauvegarde Dex +4, Con +3, Sag +2, Cha +3
-- Compétences Discrétion +4, Perception +4
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Dex +4, Con +3, Sag +2, Cha +3
+- **Compétences** Discrétion +4, Perception +4
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -3293,12 +3293,12 @@ en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
 
-- Jets de sauvegarde Dex +7, Con +16, Sag +9, Cha +13
-- Compétences Discrétion +7, Perception +16
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
-- Langues commun, draconique
-- Dangerosité 24 (62 000 PX)
+- **Jets de sauvegarde** Dex +7, Con +16, Sag +9, Cha +13
+- **Compétences** Discrétion +7, Perception +16
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
+- **Langues** commun, draconique
+- **Dangerosité** 24 (62 000 PX)
 
 ## Capacités
 
@@ -3370,12 +3370,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
 
-- Jets de sauvegarde Dex +6, Con +13, Sag +7, Cha +11
-- Compétences Discrétion +6, Perception +13
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
-- Langues commun, draconique
-- Dangerosité 17 (18 000 PX)
+- **Jets de sauvegarde** Dex +6, Con +13, Sag +7, Cha +11
+- **Compétences** Discrétion +6, Perception +13
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
+- **Langues** commun, draconique
+- **Dangerosité** 17 (18 000 PX)
 
 ## Capacités
 
@@ -3448,12 +3448,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 
-- Jets de sauvegarde Dex +4, Con +9, Sag +4, Cha +8
-- Compétences Discrétion +4, Perception +8
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18
-- Langues commun, draconique
-- Dangerosité 10 (5 900 PX)
+- **Jets de sauvegarde** Dex +4, Con +9, Sag +4, Cha +8
+- **Compétences** Discrétion +4, Perception +8
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18
+- **Langues** commun, draconique
+- **Dangerosité** 10 (5 900 PX)
 
 ## Actions
 
@@ -3484,12 +3484,12 @@ de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Dex +2, Con +5, Sag +2, Cha +4
-- Compétences Discrétion +2, Perception +4
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 4 (1 100 PX)
+- **Jets de sauvegarde** Dex +2, Con +5, Sag +2, Cha +4
+- **Compétences** Discrétion +2, Perception +4
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 4 (1 100 PX)
 
 ## Actions
 
@@ -3515,13 +3515,13 @@ de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 
-- Jets de sauvegarde Dex +8, Con +14, Sag +10, Cha +11
-- Compétences Discrétion +8, Perception +17, Perspicacité +10, Persuasion +11, Supercherie +11
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
-- Langues commun, draconique
-- Dangerosité 22 (41 000 PX)
+- **Jets de sauvegarde** Dex +8, Con +14, Sag +10, Cha +11
+- **Compétences** Discrétion +8, Perception +17, Perspicacité +10, Persuasion +11, Supercherie +11
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
+- **Langues** commun, draconique
+- **Dangerosité** 22 (41 000 PX)
 
 ## Capacités
 
@@ -3596,13 +3596,13 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
 
-- Jets de sauvegarde Dex +6, Con +10, Sag +7, Cha +8
-- Compétences Discrétion +6, Perception +12, Perspicacité +7, Persuasion +8, Supercherie +8
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
-- Langues commun, draconique
-- Dangerosité 15 (13 000 PX)
+- **Jets de sauvegarde** Dex +6, Con +10, Sag +7, Cha +8
+- **Compétences** Discrétion +6, Perception +12, Perspicacité +7, Persuasion +8, Supercherie +8
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
+- **Langues** commun, draconique
+- **Dangerosité** 15 (13 000 PX)
 
 ## Capacités
 
@@ -3678,13 +3678,13 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 
-- Jets de sauvegarde Dex +4, Con +6, Sag +4, Cha +5
-- Compétences Discrétion +4, Perception +7, Supercherie +5
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
-- Langues commun, draconique
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** Dex +4, Con +6, Sag +4, Cha +5
+- **Compétences** Discrétion +4, Perception +7, Supercherie +5
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
+- **Langues** commun, draconique
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -3721,13 +3721,13 @@ en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 
-- Jets de sauvegarde Dex +3, Con +3, Sag +2, Cha +3
-- Compétences Discrétion +3, Perception +4
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Dex +3, Con +3, Sag +2, Cha +3
+- **Compétences** Discrétion +3, Perception +4
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -3759,12 +3759,12 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 
-- Jets de sauvegarde Dex +6, Con +13, Sag +8, Cha +10
-- Compétences Discrétion +6, Histoire +9, Perception +14, Persuasion +10
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24
-- Langues commun, draconique
-- Dangerosité 20 (25 000 PX)
+- **Jets de sauvegarde** Dex +6, Con +13, Sag +8, Cha +10
+- **Compétences** Discrétion +6, Histoire +9, Perception +14, Persuasion +10
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24
+- **Langues** commun, draconique
+- **Dangerosité** 20 (25 000 PX)
 
 ## Capacités
 
@@ -3862,12 +3862,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
 
-- Jets de sauvegarde Dex +5, Con +10, Sag +6, Cha +8
-- Compétences Discrétion +5, Histoire +7, Perception +11, Persuasion +8
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
-- Langues commun, draconique
-- Dangerosité 13 (10 000 PX)
+- **Jets de sauvegarde** Dex +5, Con +10, Sag +6, Cha +8
+- **Compétences** Discrétion +5, Histoire +7, Perception +11, Persuasion +8
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
+- **Langues** commun, draconique
+- **Dangerosité** 13 (10 000 PX)
 
 ## Capacités
 
@@ -3949,12 +3949,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Dex +3, Con +6, Sag +3, Cha +5
-- Compétences Discrétion +3, Perception +6, Persuasion +5
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16
-- Langues commun, draconique
-- Dangerosité 6 (2 300 PX)
+- **Jets de sauvegarde** Dex +3, Con +6, Sag +3, Cha +5
+- **Compétences** Discrétion +3, Perception +6, Persuasion +5
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 16
+- **Langues** commun, draconique
+- **Dangerosité** 6 (2 300 PX)
 
 ## Actions
 
@@ -3996,12 +3996,12 @@ faire reprendre ses esprits.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
 
-- Jets de sauvegarde Dex +2, Con +3, Sag +2, Cha +3
-- Compétences Discrétion +2, Perception +4
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 1 (200 PX)
+- **Jets de sauvegarde** Dex +2, Con +3, Sag +2, Cha +3
+- **Compétences** Discrétion +2, Perception +4
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 1 (200 PX)
 
 ## Actions
 
@@ -4037,12 +4037,12 @@ faire reprendre ses esprits.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
 
-- Jets de sauvegarde Dex +7, Con +16, Sag +9, Cha +13
-- Compétences Arcanes +11, Discrétion +7, Histoire +11, Perception +16
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
-- Langues commun, draconique
-- Dangerosité 23 (50 000 PX)
+- **Jets de sauvegarde** Dex +7, Con +16, Sag +9, Cha +13
+- **Compétences** Arcanes +11, Discrétion +7, Histoire +11, Perception +16
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
+- **Langues** commun, draconique
+- **Dangerosité** 23 (50 000 PX)
 
 ## Capacités
 
@@ -4140,12 +4140,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
 
-- Jets de sauvegarde Dex +5, Con +12, Sag +6, Cha +10
-- Compétences Arcanes +8, Discrétion +5, Histoire +8, Perception +11
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
-- Langues commun, draconique
-- Dangerosité 16 (15 000 PX)
+- **Jets de sauvegarde** Dex +5, Con +12, Sag +6, Cha +10
+- **Compétences** Arcanes +8, Discrétion +5, Histoire +8, Perception +11
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
+- **Langues** commun, draconique
+- **Dangerosité** 16 (15 000 PX)
 
 ## Capacités
 
@@ -4241,12 +4241,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 
-- Jets de sauvegarde Dex +4, Con +9, Sag +4, Cha +8
-- Compétences Arcanes +6, Discrétion +4, Histoire +6, Perception +8
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18
-- Langues commun, draconique
-- Dangerosité 9 (5 000 PX)
+- **Jets de sauvegarde** Dex +4, Con +9, Sag +4, Cha +8
+- **Compétences** Arcanes +6, Discrétion +4, Histoire +6, Perception +8
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18
+- **Langues** commun, draconique
+- **Dangerosité** 9 (5 000 PX)
 
 ## Actions
 
@@ -4286,12 +4286,12 @@ et mettre fin à cet effet en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Dex +2, Con +5, Sag +2, Cha +4
-- Compétences Discrétion +2, Perception +4
-- Immunité contre les dégâts de froid
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Dex +2, Con +5, Sag +2, Cha +4
+- **Compétences** Discrétion +2, Perception +4
+- **Immunité contre les dégâts** de froid
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -4326,12 +4326,12 @@ réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
 
-- Jets de sauvegarde Dex +7, Con +15, Sag +10, Cha +12
-- Compétences Discrétion +7, Perception +17, Perspicacité +10
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
-- Langues commun, draconique
-- Dangerosité 22 (41 000 PX)
+- **Jets de sauvegarde** Dex +7, Con +15, Sag +10, Cha +12
+- **Compétences** Discrétion +7, Perception +17, Perspicacité +10
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
+- **Langues** commun, draconique
+- **Dangerosité** 22 (41 000 PX)
 
 ## Capacités
 
@@ -4431,12 +4431,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 
-- Jets de sauvegarde Dex +5, Con +11, Sag +7, Cha +9
-- Compétences Discrétion +5, Perception +12, Perspicacité +7
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
-- Langues commun, draconique
-- Dangerosité 15 (13 000 PX)
+- **Jets de sauvegarde** Dex +5, Con +11, Sag +7, Cha +9
+- **Compétences** Discrétion +5, Perception +12, Perspicacité +7
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
+- **Langues** commun, draconique
+- **Dangerosité** 15 (13 000 PX)
 
 ## Capacités
 
@@ -4534,12 +4534,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 
-- Jets de sauvegarde Dex +3, Con +7, Sag +4, Cha +6
-- Compétences Discrétion +3, Perception +7, Perspicacité +4
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
-- Langues commun, draconique
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** Dex +3, Con +7, Sag +4, Cha +6
+- **Compétences** Discrétion +3, Perception +7, Perspicacité +4
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
+- **Langues** commun, draconique
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -4584,12 +4584,12 @@ une distance de 12 mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Dex +2, Con +4, Sag +2, Cha +4
-- Compétences Discrétion +2, Perception +4
-- Immunité contre les dégâts de foudre
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Dex +2, Con +4, Sag +2, Cha +4
+- **Compétences** Discrétion +2, Perception +4
+- **Immunité contre les dégâts** de foudre
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -4628,12 +4628,12 @@ une distance de 9 mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 
-- Jets de sauvegarde Dex +8, Con +14, Sag +10, Cha +11
-- Compétences Discrétion +8, Perception +17, Supercherie +11
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
-- Langues commun, draconique
-- Dangerosité 21 (33 000 PX)
+- **Jets de sauvegarde** Dex +8, Con +14, Sag +10, Cha +11
+- **Compétences** Discrétion +8, Perception +17, Supercherie +11
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
+- **Langues** commun, draconique
+- **Dangerosité** 21 (33 000 PX)
 
 ## Capacités
 
@@ -4735,12 +4735,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
 
-- Jets de sauvegarde Dex +6, Con +10, Sag +7, Cha +8
-- Compétences Discrétion +6, Perception +12, Supercherie +8
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
-- Langues commun, draconique
-- Dangerosité 14 (11 500 PX)
+- **Jets de sauvegarde** Dex +6, Con +10, Sag +7, Cha +8
+- **Compétences** Discrétion +6, Perception +12, Supercherie +8
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
+- **Langues** commun, draconique
+- **Dangerosité** 14 (11 500 PX)
 
 ## Capacités
 
@@ -4827,12 +4827,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 
-- Jets de sauvegarde Dex +4, Con +6, Sag +4, Cha +5
-- Compétences Discrétion +4, Perception +7, Supercherie +5
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
-- Langues commun, draconique
-- Dangerosité 7 (2 900 PX)
+- **Jets de sauvegarde** Dex +4, Con +6, Sag +4, Cha +5
+- **Compétences** Discrétion +4, Perception +7, Supercherie +5
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
+- **Langues** commun, draconique
+- **Dangerosité** 7 (2 900 PX)
 
 ## Actions
 
@@ -4878,12 +4878,12 @@ tours et mettre fin à cet effet en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 
-- Jets de sauvegarde Dex +3, Con +3, Sag +2, Cha +3
-- Compétences Discrétion +3, Perception +4
-- Immunité contre les dégâts d'acide
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 1 (200 PX)
+- **Jets de sauvegarde** Dex +3, Con +3, Sag +2, Cha +3
+- **Compétences** Discrétion +3, Perception +4
+- **Immunité contre les dégâts** d'acide
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 1 (200 PX)
 
 ## Actions
 
@@ -4924,12 +4924,12 @@ de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)|
 
-- Jets de sauvegarde Dex +9, Con +16, Sag +10, Cha +16
-- Compétences Discrétion +9, Perception +17, Perspicacité +10, Persuasion +16
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
-- Langues commun, draconique
-- Dangerosité 24 (62 000 PX)
+- **Jets de sauvegarde** Dex +9, Con +16, Sag +10, Cha +16
+- **Compétences** Discrétion +9, Perception +17, Perspicacité +10, Persuasion +16
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
+- **Langues** commun, draconique
+- **Dangerosité** 24 (62 000 PX)
 
 ## Capacités
 
@@ -5030,12 +5030,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)|
 
-- Jets de sauvegarde Dex +8, Con +13, Sag +8, Cha +13
-- Compétences Discrétion +8, Perception +14, Perspicacité +8, Persuasion +13
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24
-- Langues commun, draconique
-- Dangerosité 17 (18 000 PX)
+- **Jets de sauvegarde** Dex +8, Con +13, Sag +8, Cha +13
+- **Compétences** Discrétion +8, Perception +14, Perspicacité +8, Persuasion +13
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 24
+- **Langues** commun, draconique
+- **Dangerosité** 17 (18 000 PX)
 
 ## Capacités
 
@@ -5136,12 +5136,12 @@ Détecter. Le dragon effectue un test de Sagesse
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)|
 
-- Jets de sauvegarde Dex +6, Con +9, Sag +5, Cha +9
-- Compétences Discrétion +6, Perception +9, Perspicacité +5, Persuasion +9
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
-- Langues commun, draconique
-- Dangerosité 10 (5 900 PX)
+- **Jets de sauvegarde** Dex +6, Con +9, Sag +5, Cha +9
+- **Compétences** Discrétion +6, Perception +9, Perspicacité +5, Persuasion +9
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
+- **Langues** commun, draconique
+- **Dangerosité** 10 (5 900 PX)
 
 ## Capacités
 
@@ -5188,12 +5188,12 @@ dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)|
 
-- Jets de sauvegarde Dex +4, Con +5, Sag +2, Cha +5
-- Compétences Discrétion +4, Perception +4
-- Immunité contre les dégâts de feu
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-- Langue draconique
-- Dangerosité 3 (700 PX)
+- **Jets de sauvegarde** Dex +4, Con +5, Sag +2, Cha +5
+- **Compétences** Discrétion +4, Perception +4
+- **Immunité contre les dégâts** de feu
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+- **Langue** draconique
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -5234,11 +5234,11 @@ dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
 
-- Jets de sauvegarde Dex +6, Con +11, Sag +7
-- Résistance aux dégâts de feu
-- Sens vision dans le noir 36 m, Perception passive 11
-- Langues aquatique, draconique
-- Dangerosité 17 (18 000 PX)
+- **Jets de sauvegarde** Dex +6, Con +11, Sag +7
+- **Résistance aux dégâts** de feu
+- **Sens** vision dans le noir 36 m, Perception passive 11
+- **Langues** aquatique, draconique
+- **Dangerosité** 17 (18 000 PX)
 
 ## Capacités
 
@@ -5283,12 +5283,12 @@ confère aucune résistance contre ces dégâts.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|15 (+2)|
 
-- Compétences Discrétion +5, Perspicacité +3, Persuasion +4, Supercherie +4
-- Résistances aux dégâts contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison
-- Immunités à l'état spécial empoisonné
-- Sens vision dans le noir à 36 m, Perception passive 12
-- Langues commun
-- Dangerosité 1/4 (50 XP)
+- **Compétences** Discrétion +5, Perspicacité +3, Persuasion +4, Supercherie +4
+- **Résistances aux dégâts** contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison
+- **Immunités à l'état** spécial empoisonné
+- **Sens** vision dans le noir à 36 m, Perception passive 12
+- **Langues** commun
+- **Dangerosité** 1/4 (50 XP)
 
 ## Capacités
 
@@ -5322,10 +5322,10 @@ Touché : 5 (1d4+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
 
-- Compétences Discrétion +9, Perception +5
-- Sens vision dans le noir 36 m, Perception passive 15
-- Langues commun des profondeurs, elfe
-- Dangerosité 6 (2 300 PX)
+- **Compétences** Discrétion +9, Perception +5
+- **Sens** vision dans le noir 36 m, Perception passive 15
+- **Langues** commun des profondeurs, elfe
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -5382,10 +5382,10 @@ de poison.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
 
-- Compétences Discrétion +4, Perception +2
-- Sens vision dans le noir 36 m, Perception passive 12
-- Langues commun des profondeurs, elfe
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +4, Perception +2
+- **Sens** vision dans le noir 36 m, Perception passive 12
+- **Langues** commun des profondeurs, elfe
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -5432,13 +5432,13 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|14 (+2)|13 (+1)|16 (+3)|17 (+3)|
 
-- Jets de sauvegarde Con +6, Sag +7, Cha +7
-- Compétences Discrétion +6, Intimidation +11, Perception +7, Religion +7
-- Résistance aux dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 36 m, Perception passive 17
-- Langues commun des profondeurs, elfe
-- Dangerosité 7 (2900 PX)
+- **Jets de sauvegarde** Con +6, Sag +7, Cha +7
+- **Compétences** Discrétion +6, Intimidation +11, Perception +7, Religion +7
+- **Résistance aux dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 36 m, Perception passive 17
+- **Langues** commun des profondeurs, elfe
+- **Dangerosité** 7 (2900 PX)
 
 ## Capacités
 
@@ -5507,10 +5507,10 @@ Touché : 5 (1d4+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
 
-- Compétences Discrétion +5, Perception +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues elfe, sylvestre
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +5, Perception +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** elfe, sylvestre
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -5579,10 +5579,10 @@ gourdin magique.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)| 9 (-1)|
 
-- Résistance aux dégâts de poison
-- Sens vision dans le noir 36 m, Perception passive 10
-- Langues commun des profondeurs, nain
-- Dangerosité 1 (200 PX)
+- **Résistance aux dégâts** de poison
+- **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langues** commun des profondeurs, nain
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -5635,12 +5635,12 @@ perforants s'il s'est agrandi.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|20 (+5)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
 
-- Résistances aux dégâts de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunités contre les états à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue aérien
-- Dangerosité 5 (1 800 PX)
+- **Résistances aux dégâts** de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunités contre les états** à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** aérien
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -5685,12 +5685,12 @@ n'est pas repoussée et n'est pas jetée à terre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|18 (+4)| 5 (-3)|10 (+0)| 8 (-1)|
 
-- Résistance aux dégâts d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunités contre les états à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue aquatique
-- Dangerosité 5 (1 800 PX)
+- **Résistance aux dégâts** d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunités contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** aquatique
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -5743,12 +5743,12 @@ Force DD 14.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|17 (+3)|16 (+3)| 6 (-2)|10 (+0)| 7 (-2)|
 
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre les états à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue ignée
-- Dangerosité 5 (1 800 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** ignée
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -5771,7 +5771,7 @@ quelqu'un ne consacre une action à éteindre le feu.
 Illumination. L'élémentaire diffuse une lumière
 vive sur un rayon de 9 mètres et une faible lumière
 sur un rayon de 9 mètres supplémentaires.
-- Vulnérabilité à l'eau. Si l'élémentaire se déplace
+- **Vulnérabilité** à l'eau. Si l'élémentaire se déplace
 dans l'eau ou s'il est aspergé d'eau, il subit 1 dégâts
 de froid par tranche de 1,50 mètre traversée ou tous
 les 5 litres déversés.
@@ -5799,13 +5799,13 @@ consacre une action à éteindre le feu.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)| 8 (-1)|20 (+5)| 5 (-3)|10 (+0)| 5 (-3)|
 
-- Vulnérabilité aux dégâts de tonnerre
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison
-- Immunités contre les états empoisonné, épuisé, inconscient, paralysé et pétrifié
-- Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
-- Langue terreux
-- Dangerosité 5 (1 800 PX)
+- **Vulnérabilité aux dégâts** de tonnerre
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison
+- **Immunités contre les états** empoisonné, épuisé, inconscient, paralysé et pétrifié
+- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
+- **Langue** terreux
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -5835,10 +5835,10 @@ Touché : 14 (2d8+5) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|17 (+3)| 7 (-2)|16 (+3)| 6 (-2)|
 
-- Compétences Discrétion +5, Perception +6
-- Sens vision dans le noir 18 m, Perception passive 16
-- Langues —
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Discrétion +5, Perception +6
+- **Sens** vision dans le noir 18 m, Perception passive 16
+- **Langues** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -5890,10 +5890,10 @@ Touché : 22 (4d8+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
 
-- Compétences Discrétion +8, Perception +3
-- Sens Perception passive 13
-- Langues Commun, Elfe, Sylvestre
-- Dangerosité 1/4 (50 XP)
+- **Compétences** Discrétion +8, Perception +3
+- **Sens** Perception passive 13
+- **Langues** Commun, Elfe, Sylvestre
+- **Dangerosité** 1/4 (50 XP)
 
 ## Actions
 
@@ -5934,10 +5934,10 @@ transportés deviennent également invisibles.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|15 (+2)|13 (+1)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- Compétences Discrétion +4, Perception +3, Survie +3
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +4, Perception +3, Survie +3
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -5991,10 +5991,10 @@ poison et psychiques.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
 
-- Compétence Perception +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues géant, orc
-- Dangerosité 4 (1 100 PX)
+- **Compétence** Perception +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** géant, orc
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -6029,12 +6029,12 @@ Touché : 14 (2d8+5) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)|
 
-- Résistance aux dégâts d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de froid, de poison et nécrotiques
-- Immunités contre les états à terre, charmé, empoigné, empoisonné, épuisé, entravé, paralysé, pétrifié et terrorisé
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langues toutes les langues qu'il connaissait de son vivant
-- Dangerosité 4 (1 100 PX)
+- **Résistance aux dégâts** d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de froid, de poison et nécrotiques
+- **Immunités contre les états** à terre, charmé, empoigné, empoisonné, épuisé, entravé, paralysé, pétrifié et terrorisé
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langues** toutes les langues qu'il connaissait de son vivant
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -6113,12 +6113,12 @@ heures suivantes.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 
-- Résistance aux dégâts d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de foudre et de poison
-- Immunité contre les états à terre, empoigné, empoisonné, épuisé, inconscient, entravé et paralysé
-- Sens vision dans le noir 36 m, Perception passive 12
-- Langues celles qu'il connaissait de son vivant
-- Dangerosité 2 (450 PX)
+- **Résistance aux dégâts** d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de foudre et de poison
+- **Immunité contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé et paralysé
+- **Sens** vision dans le noir 36 m, Perception passive 12
+- **Langues** celles qu'il connaissait de son vivant
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -6161,11 +6161,11 @@ sur un sort).
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
 
-- Immunité contre les dégâts de poison
-- Immunité contre les états charmé, terrorisé, empoisonné, épuisé et paralysé
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10
-- Langues comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
-- Dangerosité 7 (2 900 PX)
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** charmé, terrorisé, empoisonné, épuisé et paralysé
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10
+- **Langues** comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
+- **Dangerosité** 7 (2 900 PX)
 
 ## Capacités
 
@@ -6219,12 +6219,12 @@ trouve à 1,50 mètre ou moins du porteur.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|16 (+3)| 6 (-2)|11 (+0)| 7 (-2)|
 
-- Résistances aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- Immunité contre les dégâts de poison
-- Immunité contre les états empoisonné, épuisé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue terreux
-- Dangerosité 2 (450 PX)
+- **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** empoisonné, épuisé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** terreux
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -6254,10 +6254,10 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|19 (+4)| 5 (-3)| 9 (-1)| 6 (-2)|
 
-- Compétence Perception +2
-- Sens Perception passive 12
-- Langue géant
-- Dangerosité 5 (1 800 PX)
+- **Compétence** Perception +2
+- **Sens** Perception passive 12
+- **Langue** géant
+- **Dangerosité** 5 (1 800 PX)
 
 ## Actions
 
@@ -6281,11 +6281,11 @@ Touché : 21 (3d10+5) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
 
-- Jets de sauvegarde Con +10, Sag +7, Cha +7
-- Compétences Perception +7, Perspicacité +7
-- Sens Perception passive 17
-- Langues commun, géant
-- Dangerosité 9 (5 000 PX)
+- **Jets de sauvegarde** Con +10, Sag +7, Cha +7
+- **Compétences** Perception +7, Perspicacité +7
+- **Sens** Perception passive 17
+- **Langues** commun, géant
+- **Dangerosité** 9 (5 000 PX)
 
 ## Capacités
 
@@ -6323,11 +6323,11 @@ Touché : 30 (4d10+8) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)| 9 (-1)|
 
-- Jets de sauvegarde Dex +5, Con +8, Sag +4
-- Compétences Athlétisme +12, Perception +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langue géant
-- Dangerosité 7 (2 900 PX)
+- **Jets de sauvegarde** Dex +5, Con +8, Sag +4
+- **Compétences** Athlétisme +12, Perception +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** géant
+- **Dangerosité** 7 (2 900 PX)
 
 ## Capacités
 
@@ -6360,13 +6360,13 @@ de Force DD 17 pour ne pas être jetée à terre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)|
 
-- Jets de sauvegarde For +14, Con +10, Sag +9, Cha +9
-- Compétences Arcanes +8, Athlétisme +14, Histoire +8, Perception +9
-- Résistance aux dégâts de froid
-- Immunité contre les dégâts de foudre et de tonnerre
-- Sens Perception passive 19
-- Langues commun, géant
-- Dangerosité 13 (10 000 PX)
+- **Jets de sauvegarde** For +14, Con +10, Sag +9, Cha +9
+- **Compétences** Arcanes +8, Athlétisme +14, Histoire +8, Perception +9
+- **Résistance aux dégâts** de froid
+- **Immunité contre les dégâts** de foudre et de tonnerre
+- **Sens** Perception passive 19
+- **Langues** commun, géant
+- **Dangerosité** 13 (10 000 PX)
 
 ## Capacités
 
@@ -6412,12 +6412,12 @@ dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)| 9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
 
-- Jets de sauvegarde Dex +3, Con +10, Cha +5
-- Compétences Athlétisme +11, Perception +6
-- Immunité contre les dégâts de feu
-- Sens Perception passive 16
-- Langue géant
-- Dangerosité 9 (5 000 PX)
+- **Jets de sauvegarde** Dex +3, Con +10, Cha +5
+- **Compétences** Athlétisme +11, Perception +6
+- **Immunité contre les dégâts** de feu
+- **Sens** Perception passive 16
+- **Langue** géant
+- **Dangerosité** 9 (5 000 PX)
 
 ## Actions
 
@@ -6441,12 +6441,12 @@ Touché : 29 (4d10+7) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)| 9 (-1)|21 (+5)| 9 (-1)|10 (+0)|12 (+1)|
 
-- Jets de sauvegarde Con +8, Sag +3, Cha +4
-- Compétences Athlétisme +9, Perception +3
-- Immunité contre les dégâts de froid
-- Sens Perception passive 13
-- Langue géant
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** Con +8, Sag +3, Cha +4
+- **Compétences** Athlétisme +9, Perception +3
+- **Immunité contre les dégâts** de froid
+- **Sens** Perception passive 13
+- **Langue** géant
+- **Dangerosité** 8 (3 900 PX)
 
 ## Actions
 
@@ -6470,11 +6470,11 @@ contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
 
-- Jets de sauvegarde Dex +6, Sag +7, Cha +9
-- Immunité contre les dégâts de foudre et de tonnerre
-- Sens vision dans le noir 36 m, Perception passive 13
-- Langue aérien
-- Dangerosité 11 (7 200 PX)
+- **Jets de sauvegarde** Dex +6, Sag +7, Cha +9
+- **Immunité contre les dégâts** de foudre et de tonnerre
+- **Sens** vision dans le noir 36 m, Perception passive 13
+- **Langue** aérien
+- **Dangerosité** 11 (7 200 PX)
 
 ## Capacités
 
@@ -6536,11 +6536,11 @@ l'extérieur du tourbillon.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
 
-- Jets de sauvegarde Int +7, Sag +6, Cha +7
-- Immunité contre les dégâts de feu
-- Sens vision dans le noir 36 m, Perception passive 12
-- Langue ignée
-- Dangerosité 11 (7 200 PX)
+- **Jets de sauvegarde** Int +7, Sag +6, Cha +7
+- **Immunité contre les dégâts** de feu
+- **Sens** vision dans le noir 36 m, Perception passive 12
+- **Langue** ignée
+- **Dangerosité** 11 (7 200 PX)
 
 ## Capacités
 
@@ -6584,9 +6584,9 @@ Touché : 17 (5d6) dégâts de feu.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
 
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue gnoll
-- Dangerosité 1/2 (100 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** gnoll
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -6623,9 +6623,9 @@ Touché : 4 (1d4+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|13 (+1)| 6 (-2)|10 (+0)| 9 (-1)|
 
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue gnoll
-- Dangerosité 2 (450 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** gnoll
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -6669,10 +6669,10 @@ Touché : 5 (1d4+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)| 9 (-1)|
 
-- Compétences Discrétion +4, Investigation +3, Perception +2
-- Sens vision dans le noir 36 m, Perception passive 12
-- Langues commun des profondeurs, gnome, terreux
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +4, Investigation +3, Perception +2
+- **Sens** vision dans le noir 36 m, Perception passive 12
+- **Langues** commun des profondeurs, gnome, terreux
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -6716,10 +6716,10 @@ pour toucher, allonge 1,50 m, une cible. Touché : 6
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|14 (+2)|10 (+0)|10 (+0)| 8 (-1)| 8 (-1)|
 
-- Compétence Discrétion +6
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues commun, gobelin
-- Dangerosité 1/4 (50 PX)
+- **Compétence** Discrétion +6
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** commun, gobelin
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -6747,10 +6747,10 @@ Touché : 5 (1d6+2) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
 
-- Compétence Discrétion +8, Religion +5
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues commun, gobelin
-- Dangerosité 1 (200 PX)
+- **Compétence** Discrétion +8, Religion +5
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** commun, gobelin
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -6789,11 +6789,11 @@ Touché : 3 (1d4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|13 (+1)|13 (+1)|10 (+0)|12 (+1)| 8 (-1)|
 
-- Compétence Discrétion +7, Survie +7
-- Résistance contre les dégâts de froid
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues commun, gobelin
-- Dangerosité 1/2 (100 PX)
+- **Compétence** Discrétion +7, Survie +7
+- **Résistance contre les dégâts** de froid
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** commun, gobelin
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -6838,11 +6838,11 @@ Touché : 4 (1d6+1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|13 (+1)|13 (+1)|10 (+0)|14 (+2)|10 (+0)|
 
-- Compétence Discrétion +7, Religion +3, Survie +7
-- Résistance contre les dégâts de froid
-- Sens vision dans le noir 18 m, Perception passive 15
-- Langues commun, gobelin
-- Dangerosité 1 (200 PX)
+- **Compétence** Discrétion +7, Religion +3, Survie +7
+- **Résistance contre les dégâts** de froid
+- **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langues** commun, gobelin
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -6894,10 +6894,10 @@ Touché : 5 (1d8+1) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|13 (+1)| 8 (-1)|11 (+0)| 9 (-1)|
 
-- Compétences Discrétion +6, Survie +2
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues commun, gobelin
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +6, Survie +2
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** commun, gobelin
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -6931,10 +6931,10 @@ Touché : 11 (2d8+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|14 (+2)|13 (+1)|10 (+0)|11 (+0)| 9 (-1)|
 
-- Compétences Discrétion +8, Intimidation +6, Survie +3
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues commun, gobelin
-- Dangerosité 4 (1 100 PX)
+- **Compétences** Discrétion +8, Intimidation +6, Survie +3
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** commun, gobelin
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -6981,11 +6981,11 @@ au corps à corps ou 6 (1d6+3) dégâts perforants
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
 
-- Immunité contre les dégâts d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- Immunité contre les états charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues comprend les langues de son créateur mais ne peut pas parler
-- Dangerosité 9 (5 000 PX)
+- **Immunité contre les dégâts** d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** comprend les langues de son créateur mais ne peut pas parler
+- **Dangerosité** 9 (5 000 PX)
 
 ## Capacités
 
@@ -7045,11 +7045,11 @@ coup par une action bonus.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
 
-- Immunité contre les dégâts de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- Immunité contre les états charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues comprend les langues de son créateur mais ne peut pas parler
-- Dangerosité 5 (1 800 PX)
+- **Immunité contre les dégâts** de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** comprend les langues de son créateur mais ne peut pas parler
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -7109,11 +7109,11 @@ Touché : 13 (2d8+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
-- Immunité contre les dégâts de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- Immunité contre les états charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-- Sens vision dans le noir 36 m, Perception passive 10
-- Langues comprend les langues de son créateur mais ne peut pas parler
-- Dangerosité 16 (15 000 PX)
+- **Immunité contre les dégâts** de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langues** comprend les langues de son créateur mais ne peut pas parler
+- **Dangerosité** 16 (15 000 PX)
 
 ## Capacités
 
@@ -7159,11 +7159,11 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
-- Immunité contre les dégâts de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- Immunité contre les états charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-- Sens vision dans le noir 36 m, Perception passive 10
-- Langues comprend les langues de son créateur mais ne peut pas parler
-- Dangerosité 10 (5 900 PX)
+- **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langues** comprend les langues de son créateur mais ne peut pas parler
+- **Dangerosité** 10 (5 900 PX)
 
 ## Capacités
 
@@ -7208,11 +7208,11 @@ en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|11 (+0)|18 (+4)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- Compétence Perception +4
-- Immunité contre l'état pétrifié
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langue —
-- Dangerosité 5 (1 800 PX)
+- **Compétence** Perception +4
+- **Immunité contre l'état** pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -7257,11 +7257,11 @@ une magie similaire.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
 
-- Immunité contre les dégâts de poison
-- Immunités contre les états charmé, empoisonné et épuisé
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue commun
-- Dangerosité 1 (200 PX)
+- **Immunité contre les dégâts** de poison
+- **Immunités contre les états** charmé, empoisonné et épuisé
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
+- **Dangerosité** 1 (200 PX)
 
 ## Actions
 
@@ -7288,12 +7288,12 @@ Touché : 9 (2d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)| 8 (-1)|
 
-- Résistance aux dégâts nécrotiques
-- Immunité contre les dégâts de poison
-- Immunités contre les états charmé, empoisonné et épuisé
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langue commun
-- Dangerosité 2 (450 PX)
+- **Résistance aux dégâts** nécrotiques
+- **Immunité contre les dégâts** de poison
+- **Immunités contre les états** charmé, empoisonné et épuisé
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -7335,10 +7335,10 @@ Touché : 12 (2d8+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|14 (+2)|11 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
 
-- Résistance contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langue —
-- Dangerosité 2 (450 PX)
+- **Résistance contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -7370,10 +7370,10 @@ Touché : 9 (2d6+2) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)| 2 (-4)|13 (+1)| 8 (-1)|
 
-- Compétence Perception +5
-- Sens vision dans le noir 18 m, Perception passive 15
-- Langue —
-- Dangerosité 2 (450 PX)
+- **Compétence** Perception +5
+- **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -7402,9 +7402,9 @@ Touché : 11 (2d6+4) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langues aquatique, commun, géant
-- Dangerosité 2 (450 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langues** aquatique, commun, géant
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -7472,12 +7472,12 @@ vie tomber à 0.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
 
-- Compétences Discrétion +6, Perception +6, Perspicacité +6, Supercherie +7
-- Résistance aux dégâts de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.
-- Immunité contre l'état charmé
-- Sens vision dans le noir 36 m, Perception passive 16
-- Langues abyssal, commun, infernal, primordial
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Discrétion +6, Perception +6, Perspicacité +6, Supercherie +7
+- **Résistance aux dégâts** de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.
+- **Immunité contre l'état** charmé
+- **Sens** vision dans le noir 36 m, Perception passive 16
+- **Langues** abyssal, commun, infernal, primordial
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -7538,10 +7538,10 @@ supérieure ou une magie similaire.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 
-- Compétences Arcanes +3, Discrétion +3, Perception +4, Supercherie +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues commun, draconique, sylvestre
-- Dangerosité 3 (700 PX)
+- **Compétences** Arcanes +3, Discrétion +3, Perception +4, Supercherie +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** commun, draconique, sylvestre
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -7600,9 +7600,9 @@ deviennent également invisibles.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|13 (+1)|12 (+1)| 7 (-2)|10 (+0)|13 (+1)|
 
-- Sens Perception passive 10
-- Langue commun
-- Dangerosité 1 (200 PX)
+- **Sens** Perception passive 10
+- **Langue** commun
+- **Dangerosité** 1 (200 PX)
 
 ## Actions
 
@@ -7654,10 +7654,10 @@ Touché : 6 (2d4+1) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues —
-- Dangerosité 3 (700 PX)
+- **Compétences** Perception +3
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -7687,10 +7687,10 @@ Touché : 14 (2d8+5) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
 
-- Compétence Perception +5
-- Sens Perception passive 15
-- Langue —
-- Dangerosité 1 (200 PX)
+- **Compétence** Perception +5
+- **Sens** Perception passive 15
+- **Langue** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -7719,9 +7719,9 @@ Touché : 10 (2d6+3) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
 
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues commun, gobelin
-- Dangerosité 1/2 (100 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** commun, gobelin
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -7753,9 +7753,9 @@ dégâts tranchants si elle est maniée à deux mains.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|11 (+0)|10 (+0)|11 (+0)|
 
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues commun, gobelin
-- Dangerosité 2 (450 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** commun, gobelin
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -7792,10 +7792,10 @@ d'un allié situé à 1,50 mètre ou moins de lui.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- Compétences Discrétion +4, Perception +3, Survie +5
-- Sens Perception passive 13
-- Langues draconique
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +4, Perception +3, Survie +5
+- **Sens** Perception passive 13
+- **Langues** draconique
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -7832,10 +7832,10 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- Compétences Discrétion +4, Perception +3, Survie +5
-- Sens Perception passive 13
-- Langues draconique
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +4, Perception +3, Survie +5
+- **Sens** Perception passive 13
+- **Langues** draconique
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -7871,10 +7871,10 @@ Javeline. Attaque d'arme au corps à corps ou à distance
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
 
-- Compétences Perception +2
-- Sens Perception passive 12
-- Langues aquatique, commun
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Perception +2
+- **Sens** Perception passive 12
+- **Langues** aquatique, commun
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -7900,11 +7900,11 @@ mains pour effectuer une attaque au corps à corps.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)| 7 (-2)|
 
-- Immunité contre les dégâts de poison
-- Immunité contre les états charmé et empoisonné
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues comprend les langues de son créateur mais ne peut pas parler
-- Dangerosité 0 (10 PX)
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** charmé et empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** comprend les langues de son créateur mais ne peut pas parler
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -7935,10 +7935,10 @@ inconsciente tant qu'elle est empoisonnée de la sorte.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|20 (+5)| 2 (-4)|10 (+0)| 7 (-2)|
 
-- Compétence Perception +6
-- Sens vision dans le noir 18 m, Perception passive 16
-- Langue —
-- Dangerosité 8 (3 900 PX)
+- **Compétence** Perception +6
+- **Sens** vision dans le noir 18 m, Perception passive 16
+- **Langue** —
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -7988,9 +7988,9 @@ perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)| 9 (-1)| 8 (-1)| 7 (-2)| 8 (-1)|
 
-- Sens vision dans le noir 18 m, Perception passive 8
-- Langues commun, draconique
-- Dangerosité 1/8 (25 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 8
+- **Langues** commun, draconique
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -8024,9 +8024,9 @@ contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|16 (+3)|10 (+0)|10 (+0)| 9 (-1)| 9 (-1)|
 
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues commun, draconique
-- Dangerosité 1/2 (50 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** commun, draconique
+- **Dangerosité** 1/2 (50 PX)
 
 ## Capacités
 
@@ -8070,12 +8070,12 @@ Touché : 5 (1d4+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
 
-- Jets de sauvegarde For +17, Dex +7, Con +14, Int +13, Sag +11
-- Immunité contre les dégâts de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états terrorisé et paralysé
-- Sens vision parfaite 36 m, Perception passive 14
-- Langues comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m
-- Dangerosité 23 (50 000 PX)
+- **Jets de sauvegarde** For +17, Dex +7, Con +14, Int +13, Sag +11
+- **Immunité contre les dégâts** de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** terrorisé et paralysé
+- **Sens** vision parfaite 36 m, Perception passive 14
+- **Langues** comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m
+- **Dangerosité** 23 (50 000 PX)
 
 ## Capacités
 
@@ -8188,10 +8188,10 @@ utilise sa Tempête foudroyante.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 
-- Compétences Discrétion +3, Perspicacité +4, Supercherie +7
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues abyssal, commun
-- Dangerosité 4 (1 100 PX)
+- **Compétences** Discrétion +3, Perspicacité +4, Supercherie +7
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** abyssal, commun
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -8236,13 +8236,13 @@ Touché : 14 (2d10+3) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 
-- Jets de sauvegarde CON +10, INT +12, SAG +9
-- Résistance aux dégâts de froid, de foudre, nécrotiques
-- Immunité contre les dégâts de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états charmé, épuisé, empoisonné, paralysé et terrorisé
-- Sens vision parfaite 36 m, Perception passive 19
-- Langues commun et jusqu'à cinq autres langues
-- Dangerosité 21 (33 000 PX)
+- **Jets de sauvegarde** CON +10, INT +12, SAG +9
+- **Résistance aux dégâts** de froid, de foudre, nécrotiques
+- **Immunité contre les dégâts** de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** charmé, épuisé, empoisonné, paralysé et terrorisé
+- **Sens** vision parfaite 36 m, Perception passive 19
+- **Langues** commun et jusqu'à cinq autres langues
+- **Dangerosité** 21 (33 000 PX)
 
 ## Capacités
 
@@ -8331,11 +8331,11 @@ la moitié seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 
-- Immunité contre les dégâts de poison
-- Immunité contre les états charmé, empoisonné et paralysé
-- Sens vision aveugle 18 m, Perception passive 13
-- Langues céleste, elfe, sylvestre, télépathie 18 m
-- Dangerosité 5 (1 800 PX)
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** charmé, empoisonné et paralysé
+- **Sens** vision aveugle 18 m, Perception passive 13
+- **Langues** céleste, elfe, sylvestre, télépathie 18 m
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -8414,11 +8414,11 @@ par magie 11 (2d8+2) points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- Compétences Discrétion +3, Perception +4
-- Immunité contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Sens Perception passive 14
-- Langues commun (ne peut pas parler sous forme de loup)
-- Dangerosité 3 (700 PX)
+- **Compétences** Discrétion +3, Perception +4
+- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Sens** Perception passive 14
+- **Langues** commun (ne peut pas parler sous forme de loup)
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -8468,11 +8468,11 @@ du loup-garou.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
 
-- Compétences Perception +7
-- Immunité contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Sens Perception passive 17
-- Langues commun (ne peut pas parler sous forme d'ours)
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Perception +7
+- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Sens** Perception passive 17
+- **Langues** commun (ne peut pas parler sous forme d'ours)
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -8522,11 +8522,11 @@ de l'ours-garou.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)| 8 (-1)|
 
-- Compétences Discrétion +4, Perception +2
-- Immunité contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Sens vision dans le noir 18 m (forme de rat uniquement), Perception passive 12
-- Langues commun (ne peut pas parler sous forme de rat)
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +4, Perception +2
+- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Sens** vision dans le noir 18 m (forme de rat uniquement), Perception passive 12
+- **Langues** commun (ne peut pas parler sous forme de rat)
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -8574,11 +8574,11 @@ du rat-garou.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
 
-- Compétences Perception +2
-- Immunité contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Sens Perception passive 12
-- Langues commun (ne peut pas parler sous forme de sanglier)
-- Dangerosité 4 (1 100 PX)
+- **Compétences** Perception +2
+- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Sens** Perception passive 12
+- **Langues** commun (ne peut pas parler sous forme de sanglier)
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -8633,11 +8633,11 @@ Touché : 10 (2d6+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
 
-- Compétences Discrétion +4, Perception +5
-- Immunité contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Sens vision dans le noir 18 m, Perception passive 15
-- Langues commun (ne peut pas parler sous forme de tigre)
-- Dangerosité 4 (1 100 PX)
+- **Compétences** Discrétion +4, Perception +5
+- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langues** commun (ne peut pas parler sous forme de tigre)
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -8701,11 +8701,11 @@ du tigre-garou.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)|12 (+1)| 8 (-1)|11 (+0)|10 (+0)|
 
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de feu
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues ignée
-- Dangerosité 1/2 (100 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de feu
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** ignée
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -8745,10 +8745,10 @@ de feu à la fin de chacun de ses tours.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 
-- Compétence Discrétion +5
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langues commun des profondeurs, profond
-- Dangerosité 8 (3 900 PX)
+- **Compétence** Discrétion +5
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langues** commun des profondeurs, profond
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -8830,10 +8830,10 @@ Touché : 7 (1d8+3) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Compétence Discrétion +3
-- Sens vision aveugle 18 m, Perception passive 10
-- Langue —
-- Dangerosité 1/2 (100 PX)
+- **Compétence** Discrétion +3
+- **Sens** vision aveugle 18 m, Perception passive 10
+- **Langue** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -8893,9 +8893,9 @@ déplacement.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langues commun
-- Dangerosité 3 (700 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langues** commun
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -8930,10 +8930,10 @@ Touché : 7 (1d8+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
 
-- Compétences Discrétion +5, Perception +4, Perspicacité +4, Supercherie +5
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues commun
-- Dangerosité 6 (2 300 PX)
+- **Compétences** Discrétion +5, Perception +4, Perspicacité +4, Supercherie +5
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** commun
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -8998,13 +8998,13 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-3)|13 (+1)|10 (+0)| 9 (-1)|11 (+0)|12 (+1)|
 
-- Compétences Discrétion +3, Perception +2
-- Vulnérabilité aux dégâts contondants et de feu
-- Immunité contre les dégâts de froid et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues aérien, aquatique
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +3, Perception +2
+- **Vulnérabilité aux dégâts** contondants et de feu
+- **Immunité contre les dégâts** de froid et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** aérien, aquatique
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -9048,13 +9048,13 @@ réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|12 (+1)|12 (+1)| 7 (-2)|10 (+0)|10 (+0)|
 
-- Compétences Discrétion +3
-- Vulnérabilité aux dégâts de froid
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues ignée, terreux
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +3
+- **Vulnérabilité aux dégâts** de froid
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** ignée, terreux
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -9097,13 +9097,13 @@ moitié de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|14 (+2)|10 (+0)| 9 (-1)|11 (+0)|10 (+0)|
 
-- Compétences Discrétion +4, Perception +2
-- Vulnérabilité aux dégâts de feu
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues aérien, terreux
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +4, Perception +2
+- **Vulnérabilité aux dégâts** de feu
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** aérien, terreux
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -9145,11 +9145,11 @@ elle est victime en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 
-- Immunité contre les dégâts de feu et de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues aquatique, ignée
-- Dangerosité 1/4 (50 PX)
+- **Immunité contre les dégâts** de feu et de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** aquatique, ignée
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -9187,9 +9187,9 @@ en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|15 (+2)| 8 (-1)|10 (+0)| 9 (-1)|
 
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues abyssal, aquatique
-- Dangerosité 2 (450 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** abyssal, aquatique
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -9226,12 +9226,12 @@ Touché : 8 (1d8+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|15 (+2)| 5 (-3)|13 (+1)| 8 (-1)|
 
-- Compétences Discrétion +5
-- Immunité contre les dégâts d'acide
-- Immunité contre l'état à terre
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +5
+- **Immunité contre les dégâts** d'acide
+- **Immunité contre l'état** à terre
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -9278,10 +9278,10 @@ de son trait Collante.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
 
-- Compétences Perception +7
-- Sens vision dans le noir 18 m, Perception passive 17
-- Langues abyssal
-- Dangerosité 3 (700 PX)
+- **Compétences** Perception +7
+- **Sens** vision dans le noir 18 m, Perception passive 17
+- **Langues** abyssal
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -9324,11 +9324,11 @@ Touché : 17 (2d12+4) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|14 (+2)| 6 (-2)|13 (+1)| 6 (-2)|
 
-- Compétence Perception +5
-- Immunité contre les dégâts de feu
-- Sens vision dans le noir 18 m, Perception passive 15
-- Langue comprend l'infernal mais ne peut pas parler
-- Dangerosité 3 (700 PX)
+- **Compétence** Perception +5
+- **Immunité contre les dégâts** de feu
+- **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** comprend l'infernal mais ne peut pas parler
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -9366,14 +9366,14 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|10 (+0)|12 (+1)|
 
-- Jets de sauvegarde Sag +2
-- Vulnérabilité aux dégâts de feu
-- Résistances aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison et nécrotiques
-- Immunité contre les états charmé, terrorisé, empoisonné, épuisé et paralysé
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues celles qu'elle connaissait de son vivant
-- Dangerosité 3 (700 PX)
+- **Jets de sauvegarde** Sag +2
+- **Vulnérabilité aux dégâts** de feu
+- **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison et nécrotiques
+- **Immunité contre les états** charmé, terrorisé, empoisonné, épuisé et paralysé
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** celles qu'elle connaissait de son vivant
+- **Dangerosité** 3 (700 PX)
 
 ## Actions
 
@@ -9419,14 +9419,14 @@ momies augustes) pendant 24 heures.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)|
 
-- Jets de sauvegarde Con +8, Int +5, Sag +9, Cha +8
-- Compétences Histoire +5, Religion +5
-- Vulnérabilité aux dégâts de feu
-- Immunité contre les dégâts de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états charmé, terrorisé, empoisonné, épuisé et paralysé
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues celles qu'elle connaissait de son vivant
-- Dangerosité 15 (13 000 PX)
+- **Jets de sauvegarde** Con +8, Int +5, Sag +9, Cha +8
+- **Compétences** Histoire +5, Religion +5
+- **Vulnérabilité aux dégâts** de feu
+- **Immunité contre les dégâts** de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** charmé, terrorisé, empoisonné, épuisé et paralysé
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** celles qu'elle connaissait de son vivant
+- **Dangerosité** 15 (13 000 PX)
 
 ## Capacités
 
@@ -9545,12 +9545,12 @@ en sa possession.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 
-- Jets de sauvegarde Dex +6, Con +5, Sag +5, Cha +6
-- Immunité contre les dégâts de poison
-- Immunité contre les états charmé et empoisonné
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues abyssal, commun
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** Dex +6, Con +5, Sag +5, Cha +6
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** charmé et empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** abyssal, commun
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -9598,12 +9598,12 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
 
-- Jets de sauvegarde Dex +8, Con +7, Int +7, Sag +8, Cha +8
-- Immunité contre les dégâts de poison
-- Immunité contre les états charmé et empoisonné
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues céleste, commun
-- Dangerosité 10 (5 900 PX)
+- **Jets de sauvegarde** Dex +8, Con +7, Int +7, Sag +8, Cha +8
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** charmé et empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** céleste, commun
+- **Dangerosité** 10 (5 900 PX)
 
 ## Capacités
 
@@ -9657,13 +9657,13 @@ dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
-- Compétences Discrétion +4, Perception +3
-- Résistance aux dégâts nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- Immunité contre les dégâts de poison
-- Immunité contre les états empoisonné et épuisé
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues celles qu'il connaissait de son vivant
-- Dangerosité 3 (700 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** empoisonné et épuisé
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** celles qu'il connaissait de son vivant
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -9712,18 +9712,18 @@ dégâts tranchants si elle est maniée à deux mains.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- Immunité contre les dégâts de poison et psychiques
-- Immunité contre les états assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-- Sens vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Immunité contre les dégâts** de poison et psychiques
+- **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
 Faux semblant. Tant que l'armure reste immobile,
 il est impossible de la distinguer d'une armure
 ordinaire.
-- Vulnérabilité à l'antimagie. L'armure est neutralisée
+- **Vulnérabilité** à l'antimagie. L'armure est neutralisée
 quand elle se trouve à l'intérieur d'un champ
 d'antimagie. Ciblée par une dissipation de la magie,
 l'armure doit réussir un jet de sauvegarde de
@@ -9750,18 +9750,18 @@ Touché : 5 (1d6+2) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|11 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
 
-- Jets de sauvegarde Dex +4
-- Immunité contre les dégâts de poison et psychiques
-- Immunité contre les états assourdi, aveuglé, charmé, empoisonné, paralysé, pétrifié, terrorisé
-- Sens vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 7
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Jets de sauvegarde** Dex +4
+- **Immunité contre les dégâts** de poison et psychiques
+- **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, paralysé, pétrifié, terrorisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 7
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
 Faux semblant. Tant que l'épée reste immobile, il
 est impossible de la distinguer d'une épée ordinaire.
-- Vulnérabilité à l'antimagie. L'épée est neutralisée
+- **Vulnérabilité** à l'antimagie. L'épée est neutralisée
 quand elle se trouve à l'intérieur d'un champ
 d'antimagie. Ciblée par une dissipation de la magie,
 l'épée doit réussir un jet de sauvegarde de Constitution
@@ -9786,11 +9786,11 @@ pour toucher, allonge 1,50 m, une cible. Touché : 5
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- Immunité contre les dégâts de poison et psychiques
-- Immunité contre les états assourdi, aveuglé, charmé, empoisonné, paralysé, pétrifié et terrorisé
-- Sens vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Immunité contre les dégâts** de poison et psychiques
+- **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, paralysé, pétrifié et terrorisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -9800,7 +9800,7 @@ Transfert de dégâts. Aussi longtemps qu'il empoigne
 une créature, le tapis subit la moitié seulement
 des dégâts qu'on lui inflige, et la créature empoignée
 subit l'autre moitié.
-- Vulnérabilité à l'antimagie. Le tapis est neutralisé
+- **Vulnérabilité** à l'antimagie. Le tapis est neutralisé
 quand il se trouve à l'intérieur d'un champ d'antimagie.
 Ciblé par une dissipation de la magie, le
 tapis doit réussir un jet de sauvegarde de Constitution
@@ -9830,9 +9830,9 @@ celle-ci subit 10 (2d6+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 8 (-1)|16 (+3)| 5 (-3)| 7 (-2)| 7 (-2)|
 
-- Sens vision dans le noir 18 m, Perception passive 8
-- Langues commun, géant
-- Dangerosité 2 (450 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 8
+- **Langues** commun, géant
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -9855,14 +9855,14 @@ Touché : 13 (2d8+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
 
-- Compétences Discrétion +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)
-- Vulnérabilité aux dégâts radiants
-- Résistance aux dégâts d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de poison et nécrotiques
-- Immunité contre les états à terre, terrorisé, empoigné, empoisonné, épuisé, entravé paralysé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)
+- **Vulnérabilité aux dégâts** radiants
+- **Résistance aux dégâts** d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de poison et nécrotiques
+- **Immunité contre les états** à terre, terrorisé, empoigné, empoisonné, épuisé, entravé paralysé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -9902,11 +9902,11 @@ cadavre après 1d4 heures.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
 
-- Jets de sauvegarde Dex +3, Con +6, Sag +4, Cha +5
-- Compétences Arcanes +5, Perception +4, Supercherie +8
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues commun, géant
-- Dangerosité 7 (2 900 PX)
+- **Jets de sauvegarde** Dex +3, Con +6, Sag +4, Cha +5
+- **Compétences** Arcanes +5, Perception +4, Supercherie +8
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** commun, géant
+- **Dangerosité** 7 (2 900 PX)
 
 ## Capacités
 
@@ -9958,10 +9958,10 @@ une cible. Touché : 8 (1d8+4) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|16 (+3)| 7 (-2)|11 (+0)|10 (+0)|
 
-- Compétences Intimidation +2
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues commun, orc
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Intimidation +2
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** commun, orc
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -9989,10 +9989,10 @@ cible. Touché : 6 (1d6+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|13 (+1)|10 (+0)|14 (+2)|12 (+1)|
 
-- Compétences Religion +2, Persuasion +3
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues commun, orc
-- Dangerosité 2 (450 PX)
+- **Compétences** Religion +2, Persuasion +3
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** commun, orc
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -10030,10 +10030,10 @@ Masse. Attaque d'arme au corps à corps ou à distance :
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|11 (+0)|19 (+4)| 6 (-2)|13 (+1)| 6 (-2)|
 
-- Jets de sauvegarde Con +7
-- Sens vision dans le noir 36 m, Perception passive 11
-- Langues otyugh
-- Dangerosité 5 (1 800 PX)
+- **Jets de sauvegarde** Con +7
+- **Sens** vision dans le noir 36 m, Perception passive 11
+- **Langues** otyugh
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -10092,9 +10092,9 @@ peut empoigner une cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|13 (+1)| 2 (-4)|13 (+1)| 6 (-2)|
 
-- Sens vision dans le noir 18 m, Perception passive 11
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -10143,12 +10143,12 @@ Touché : 5 (1d8+1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|15 (+2)|11 (+0)| 2 (-4)| 7 (-2)| 4 (-3)|
 
-- Compétences Perception +0
-- Résistance aux dégâts acide, feu, foudre, froid, tonnerre
-- Immunité contre l'état aveuglé
-- Sens vision aveugle 18 mètres (aveugle au-delà) ; Perception passive 8
-- Langue –
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Perception +0
+- **Résistance aux dégâts** acide, feu, foudre, froid, tonnerre
+- **Immunité contre l'état** aveuglé
+- **Sens** vision aveugle 18 mètres (aveugle au-delà) ; Perception passive 8
+- **Langue** –
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -10209,11 +10209,11 @@ en s'arrachant, le rostre occasionne à nouveau
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
 
-- Jets de sauvegarde Dex +4, Sag +4, Cha +3
-- Compétences Perception +6
-- Sens Perception passive 16
-- Langues comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Dex +4, Sag +4, Cha +3
+- **Compétences** Perception +6
+- **Sens** Perception passive 16
+- **Langues** comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -10232,17 +10232,17 @@ Touché : 11 (2d6+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
-- Compétences Discrétion +4, Perception +3
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
-- Langues comprend le commun et le draconique mais ne peut pas parler
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
+- **Langues** comprend le commun et le draconique mais ne peut pas parler
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
 Résistance à la magie. Le pseudodragon obtient
 un avantage lors des jets de sauvegarde contre les
 sorts et autres effets magiques.
-- Sens aiguisés. Le pseudodragon obtient un avantage
+- **Sens** aiguisés. Le pseudodragon obtient un avantage
 lors des tests de Sagesse (Perception) basés sur
 la vue, l'odorat ou l'ouïe.
 Télépathie limitée. Le pseudodragon peut communiquer
@@ -10278,12 +10278,12 @@ Touché : 4 (1d4+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
-- Compétences Perspicacité +8, Supercherie +10
-- Vulnérabilité contre les dégâts perforants infligés par des armes magiques maniées par des créatures Bonnes.
-- Immunité contre les dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues commun, infernal
-- Dangerosité 13 (10 000 PX)
+- **Compétences** Perspicacité +8, Supercherie +10
+- **Vulnérabilité contre les dégâts** perforants infligés par des armes magiques maniées par des créatures Bonnes.
+- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** commun, infernal
+- **Dangerosité** 13 (10 000 PX)
 
 ## Capacités
 
@@ -10330,10 +10330,10 @@ malédictions ou une magie similaire.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)|13 (+1)|21 (+5)| 4 (-3)|10 (+0)| 5 (-3)|
 
-- Immunité contre les dégâts de feu et de froid
-- Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
-- Langues —
-- Dangerosité 11 (7 200 PX)
+- **Immunité contre les dégâts** de feu et de froid
+- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 11 (7 200 PX)
 
 ## Capacités
 
@@ -10383,11 +10383,11 @@ ne peut pas mordre une autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |28 (+9)|10 (+0)|20 (+5)| 3 (-4)|10 (+0)| 9 (-1)|
 
-- Jets de sauvegarde Dex +4, Con +9, Sag +4, Cha +3
-- Compétences Perception +4
-- Sens Perception passive 14
-- Langues —
-- Dangerosité 11 (7 200 PX)
+- **Jets de sauvegarde** Dex +4, Con +9, Sag +4, Cha +3
+- **Compétences** Perception +4
+- **Sens** Perception passive 14
+- **Langues** —
+- **Dangerosité** 11 (7 200 PX)
 
 ## Capacités
 
@@ -10419,10 +10419,10 @@ utiliser ses serres sur une autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)| 9 (-1)|
 
-- Compétences Perception +5
-- Sens vision dans le noir 36 m, Perception passive 15
-- Langues sahuagin
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Perception +5
+- **Sens** vision dans le noir 36 m, Perception passive 15
+- **Langues** sahuagin
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -10467,10 +10467,10 @@ Touché : 3 (1d4+1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|17 (+3)|11 (+0)|
 
-- Compétences Perception +6, Religion +6
-- Sens vision dans le noir 36 m, Perception passive 16
-- Langues sahuagin
-- Dangerosité 3 (700 PX)
+- **Compétences** Perception +6, Religion +6
+- **Sens** vision dans le noir 36 m, Perception passive 16
+- **Langues** sahuagin
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -10539,12 +10539,12 @@ Touché : 3 (1d4+1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
 
-- Vulnérabilité aux dégâts de froid
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts de feu
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues ignée
-- Dangerosité 5 (1 800 PX)
+- **Vulnérabilité aux dégâts** de froid
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** de feu
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** ignée
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -10587,10 +10587,10 @@ d'attaque de queue contre d'autres cibles.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
 
-- Compétences Discrétion +5, Perception +2, Représentation +6
-- Sens Perception passive 12
-- Langues commun, elfe, sylvestre
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +5, Perception +2, Représentation +6
+- **Sens** Perception passive 12
+- **Langues** commun, elfe, sylvestre
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -10621,12 +10621,12 @@ Touché : 6 (1d6+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|21 (+5)| 1 (-5)|10 (+0)| 1 (-5)|
 
-- Résistance aux dégâts contondant, perforant, poison, tonnerre
-- Immunité contre les états assourdi, aveuglé, charmé, terrorisé
-- Vulnérabilité aux dégâts feu
-- Sens Perception passive (10)
-- Langues -
-- Dangerosité 6 (2 300 XP)
+- **Résistance aux dégâts** contondant, perforant, poison, tonnerre
+- **Immunité contre les états** assourdi, aveuglé, charmé, terrorisé
+- **Vulnérabilité aux dégâts** feu
+- **Sens** Perception passive (10)
+- **Langues** -
+- **Dangerosité** 6 (2 300 XP)
 
 ## Capacités
 
@@ -10674,10 +10674,10 @@ empoignant la créature.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |28 (+9)|10 (+0)|22 (+6)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- Jets de sauvegarde Con +10, Sag +4
-- Sens vision aveugle 18 m, Perception passive 10
-- Langues —
-- Dangerosité 16 (15 000 PX)
+- **Jets de sauvegarde** Con +10, Sag +4
+- **Sens** vision aveugle 18 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 16 (15 000 PX)
 
 ## Capacités
 
@@ -10740,12 +10740,12 @@ de Force DD 20 pour ne pas tomber à terre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 
-- Résistance aux dégâts acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts nécrotiques et de poison
-- Immunité contre les états à terre, charmé, entravé, empoigné, empoisonné, épuisé, inconscient, paralysé, pétrifié
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
-- Dangerosité 1 (200 PX)
+- **Résistance aux dégâts** acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** nécrotiques et de poison
+- **Immunité contre les états** à terre, charmé, entravé, empoigné, empoisonné, épuisé, inconscient, paralysé, pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -10782,13 +10782,13 @@ de points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)|
 
-- Jets de sauvegarde Dex +6, Con +11, Int +9, Sag +10
-- Compétences Arcanes +9, Perception +10, Religion +15
-- Immunité contre les dégâts psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états charmé et terrorisé
-- Sens vision parfaite 36 m, Perception passive 20
-- Langues commun, sphinx
-- Dangerosité 17 (18 000 PX)
+- **Jets de sauvegarde** Dex +6, Con +11, Int +9, Sag +10
+- **Compétences** Arcanes +9, Perception +10, Religion +15
+- **Immunité contre les dégâts** psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** charmé et terrorisé
+- **Sens** vision parfaite 36 m, Perception passive 20
+- **Langues** commun, sphinx
+- **Dangerosité** 17 (18 000 PX)
 
 ## Capacités
 
@@ -10886,13 +10886,13 @@ de 36 mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
 
-- Compétences Arcanes +12, Histoire +12, Perception +8, Religion +8
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les dégâts psychiques
-- Immunité contre les états charmé et terrorisé
-- Sens vision parfaite 36 m, Perception passive 18
-- Langues commun, sphinx
-- Dangerosité 11 (7 200 PX)
+- **Compétences** Arcanes +12, Histoire +12, Perception +8, Religion +8
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les dégâts** psychiques
+- **Immunité contre les états** charmé et terrorisé
+- **Sens** vision parfaite 36 m, Perception passive 18
+- **Langues** commun, sphinx
+- **Dangerosité** 11 (7 200 PX)
 
 ## Capacités
 
@@ -10962,12 +10962,12 @@ de 36 mètres.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
-- Vulnérabilité aux dégâts contondants
-- Immunité contre les dégâts de poison
-- Immunité contre les états empoisonné et épuisé
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
-- Dangerosité 1/4 (50 PX)
+- **Vulnérabilité aux dégâts** contondants
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** empoisonné et épuisé
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -10989,12 +10989,12 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|15 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
 
-- Vulnérabilité aux dégâts contondants
-- Immunité contre les dégâts de poison
-- Immunité contre les états empoisonné et épuisé
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Vulnérabilité aux dégâts** contondants
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** empoisonné et épuisé
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Actions
 
@@ -11013,12 +11013,12 @@ Touché : 11 (2d6+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|11 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
-- Vulnérabilité aux dégâts contondants
-- Immunité contre les dégâts de poison
-- Immunité contre les états empoisonné et épuisé
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues comprend l'abyssal mais ne peut pas parler
-- Dangerosité 2 (450 PX)
+- **Vulnérabilité aux dégâts** contondants
+- **Immunité contre les dégâts** de poison
+- **Immunité contre les états** empoisonné et épuisé
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** comprend l'abyssal mais ne peut pas parler
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -11051,9 +11051,9 @@ Touché : 17 (2d12+4) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
 
-- Sens vision dans le noir 18 m, Perception passive 9
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -11082,11 +11082,11 @@ arracher la strige.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
 
-- Compétences Discrétion +7, Perception +5, Perspicacité +5, Persuasion +9, Supercherie +9
-- Résistance aux dégâts de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Sens vision dans le noir 18 m, Perception passive 15
-- Langues abyssal, commun, infernal, télépathie 18 m
-- Dangerosité 4 (1 100 PX)
+- **Compétences** Discrétion +7, Perception +5, Perspicacité +5, Persuasion +9, Supercherie +9
+- **Résistance aux dégâts** de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langues** abyssal, commun, infernal, télépathie 18 m
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -11149,11 +11149,11 @@ une cible ; Touché : 6 (1d6+3) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 
-- Résistance aux dégâts contondants et perçants
-- Vulnérabilité contre les dégâts de feu
-- Sens Perception passive 13
-- Langues Commun, elfe, druidique, sylvestre
-- Dangerosité 9 (5 000 PX)
+- **Résistance aux dégâts** contondants et perçants
+- **Vulnérabilité contre les dégâts** de feu
+- **Sens** Perception passive 13
+- **Langues** Commun, elfe, druidique, sylvestre
+- **Dangerosité** 9 (5 000 PX)
 
 ## Capacités
 
@@ -11198,12 +11198,12 @@ possible, l'arbre prend alors racine.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)|11 (+0)|
 
-- Jets de sauvegarde Int +5, Sag +9, Cha +9
-- Immunité contre les dégâts de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états charmé, terrorisé, empoisonné et paralysé
-- Sens vision aveugle 36 m, Perception passive 10
-- Langues —
-- Dangerosité 30 (155 000 PX)
+- **Jets de sauvegarde** Int +5, Sag +9, Cha +9
+- **Immunité contre les dégâts** de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** charmé, terrorisé, empoisonné et paralysé
+- **Sens** vision aveugle 36 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 30 (155 000 PX)
 
 ## Capacités
 
@@ -11308,11 +11308,11 @@ attaque de morsure ou utilise son action Engloutir.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)| 7 (-2)|14 (+2)|10 (+0)|
 
-- Compétences Discrétion +4, Perception +8
-- Immunité contre l'état aveuglé
-- Sens perception des vibrations 18 m, vision aveugle 18 m, Perception passive 18
-- Langues comprend le commun des profondeurs mais ne parle pas
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Discrétion +4, Perception +8
+- **Immunité contre l'état** aveuglé
+- **Sens** perception des vibrations 18 m, vision aveugle 18 m, Perception passive 18
+- **Langues** comprend le commun des profondeurs mais ne parle pas
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -11366,11 +11366,11 @@ chaque round pour mettre fin à cet état spécial.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|14 (+2)| 3 (-4)|14 (+2)| 6 (-2)|
 
-- Compétences Discrétion +3, Perception +6
-- Immunité contre l'état aveuglé
-- Sens perception des vibrations 12 m, vision aveugle 12 m, Perception passive 16
-- Langues -
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +3, Perception +6
+- **Immunité contre l'état** aveuglé
+- **Sens** perception des vibrations 12 m, vision aveugle 12 m, Perception passive 16
+- **Langues** -
+- **Dangerosité** 1 (200 PX)
 
 ## Actions
 
@@ -11400,13 +11400,13 @@ round pour mettre fin à cet état spécial.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
 
-- Compétences Discrétion +2
-- Résistance aux dégâts de feu et de froid
-- Immunité contre les dégâts de foudre
-- Immunité contre les états assourdi, aveuglé et épuisé
-- Sens vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
-- Langues —
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Discrétion +2
+- **Résistance aux dégâts** de feu et de froid
+- **Immunité contre les dégâts** de foudre
+- **Immunité contre les états** assourdi, aveuglé et épuisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
+- **Langues** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -11446,11 +11446,11 @@ envelopper plus d'une créature à la fois.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
 
-- Compétences Athlétisme +5, Discrétion +3, Perception +3
-- Immunité à l'état aveuglé
-- Sens vision aveugle 9 m ou 3 m s'il est assourdi (aveugle au-delà de cette distance), Perception passive 13
-- Langue commun des profondeurs
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Athlétisme +5, Discrétion +3, Perception +3
+- **Immunité à l'état** aveuglé
+- **Sens** vision aveugle 9 m ou 3 m s'il est assourdi (aveugle au-delà de cette distance), Perception passive 13
+- **Langue** commun des profondeurs
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -11461,7 +11461,7 @@ rocailleux.
 Odorat et ouïe aiguisés. Le torve obtient un avantage
 lors des tests de Sagesse (Perception) basés sur
 l'odorat ou l'ouïe.
-- Sens diminués. La vision aveugle du torve ne
+- **Sens** diminués. La vision aveugle du torve ne
 fonctionne plus aussi longtemps qu'il est assourdi et
 incapable d'utiliser son odorat.
 
@@ -11483,12 +11483,12 @@ cible. Touché : 5 (1d4+3) dégâts contondants plus
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 
-- Compétences Discrétion +10, Perception +8
-- Résistance aux dégâts contondants, perforants et tranchants infligés par des attaques non-magiques
-- Immunité contre les états à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
-- Sens vision dans le noir 18 m, Perception passive 18
-- Langues aérien, comprend le commun mais ne peut pas le parler
-- Dangerosité 6 (2 300 PX)
+- **Compétences** Discrétion +10, Perception +8
+- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Immunité contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
+- **Sens** vision dans le noir 18 m, Perception passive 18
+- **Langues** aérien, comprend le commun mais ne peut pas le parler
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -11519,10 +11519,10 @@ Touché : 10 (2d6+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|20 (+5)| 7 (-2)| 9 (-1)| 7 (-2)|
 
-- Compétences Perception +2
-- Sens vision dans le noir 18 m, Perception passive 12
-- Langues géant
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Perception +2
+- **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langues** géant
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -11558,12 +11558,12 @@ Touché : 7 (1d6+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 
-- Jets de sauvegarde Dex +9, Sag +7, Cha +9
-- Compétences Discrétion +9, Perception +7
-- Résistance aux dégâts nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Sens vision dans le noir 36 m, Perception passive 17
-- Langues celles qu'il connaissait de son vivant
-- Dangerosité 13 (10 000 PX)
+- **Jets de sauvegarde** Dex +9, Sag +7, Cha +9
+- **Compétences** Discrétion +9, Perception +7
+- **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Sens** vision dans le noir 36 m, Perception passive 17
+- **Langues** celles qu'il connaissait de son vivant
+- **Dangerosité** 13 (10 000 PX)
 
 ## Capacités
 
@@ -11728,12 +11728,12 @@ attaque de morsure.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
 
-- Jets de sauvegarde Dex +6, Sag +3
-- Compétences Discrétion +6, Perception +3
-- Résistance aux dégâts nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues celles qu'il connaissait de son vivant
-- Dangerosité 5 (1 800 PX)
+- **Jets de sauvegarde** Dex +6, Sag +3
+- **Compétences** Discrétion +6, Perception +3
+- **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** celles qu'il connaissait de son vivant
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -11798,10 +11798,10 @@ maximum de points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- Immunité contre les états à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
-- Sens vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Immunité contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -11869,12 +11869,12 @@ Touché : 10 (3d6) dégâts d'acide.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
 
-- Résistance aux dégâts d'acide
-- Immunité contre les dégâts de foudre et tranchants
-- Immunité contre les états à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
-- Sens vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Résistance aux dégâts** d'acide
+- **Immunité contre les dégâts** de foudre et tranchants
+- **Immunité contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -11913,11 +11913,11 @@ d'une catégorie inférieure à la gelée d'origine.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- Immunité contre les dégâts d'acide, de foudre, de froid, tranchants
-- Immunité contre les états à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
-- Sens vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
-- Langues —
-- Dangerosité 4 (1 100 PX)
+- **Immunité contre les dégâts** d'acide, de foudre, de froid, tranchants
+- **Immunité contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
+- **Langues** —
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -11973,12 +11973,12 @@ est d'une catégorie inférieure à celui d'origine.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)| 6 (-2)|16 (+3)| 1 (-5)| 6 (-2)| 2 (-4)|
 
-- Compétences Discrétion +2
-- Résistances aux dégâts d'acide, de feu et de froid
-- Immunités contre les états à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
-- Sens vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +2
+- **Résistances aux dégâts** d'acide, de feu et de froid
+- **Immunités contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -12021,10 +12021,10 @@ détruite si le malus réduit à 10 sa CA.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
 
-- Jets de sauvegarde Con +11, Sag +4
-- Sens perception des vibrations 18 m, vision aveugle 9 m, Perception passive 9
-- Langues —
-- Dangerosité 15 (13 000 PX)
+- **Jets de sauvegarde** Con +11, Sag +4
+- **Sens** perception des vibrations 18 m, vision aveugle 9 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 15 (13 000 PX)
 
 ## Capacités
 
@@ -12076,10 +12076,10 @@ sortent à terre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 5 (-3)|12 (+1)| 6 (-2)|
 
-- Compétences Perception +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues —
-- Dangerosité 6 (2 300 PX)
+- **Compétences** Perception +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** —
+- **Dangerosité** 6 (2 300 PX)
 
 ## Actions
 
@@ -12121,11 +12121,11 @@ Touché : 11 (2d6+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
 
-- Compétences Discrétion +3, Perception +6
-- Résistance aux dégâts perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- Sens perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 16
-- Langues terreux
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Discrétion +3, Perception +6
+- **Résistance aux dégâts** perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 16
+- **Langues** terreux
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -12164,12 +12164,12 @@ Touché : 13 (3d6+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)| 6 (-2)|16 (+3)| 3 (-4)| 6 (-2)| 5 (-3)|
 
-- Jets de sauvegarde Sag +0
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 8
-- Langues comprend les langues qu'il connaissait de son vivant mais ne peut pas parler
-- Dangerosité 1/4 (50 PX)
+- **Jets de sauvegarde** Sag +0
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 8
+- **Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -12197,12 +12197,12 @@ Touché : 4 (1d6+1) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 6 (-2)|18 (+4)| 3 (-4)| 6 (-2)| 5 (-3)|
 
-- Jets de sauvegarde Sag +0
-- Immunité contre les dégâts de poison
-- Immunité contre l'état empoisonné
-- Sens vision dans le noir 18 m, Perception passive 8
-- Langues comprend le commun et le géant mais ne peut pas parler
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** Sag +0
+- **Immunité contre les dégâts** de poison
+- **Immunité contre l'état** empoisonné
+- **Sens** vision dans le noir 18 m, Perception passive 8
+- **Langues** comprend le commun et le géant mais ne peut pas parler
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -12231,10 +12231,10 @@ Touché : 13 (2d8+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|15 (+2)|10 (+0)| 2 (-4)|14 (+2)| 7 (-2)|
 
-- Compétences Perception +4
-- Sens Perception passive 14
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Perception +4
+- **Sens** Perception passive 14
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12258,10 +12258,10 @@ dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
 
-- Compétences Perception +4
-- Sens Perception passive 14
-- Langues aigle géant, comprend le commun et l'aérien mais ne peut pas les parler
-- Dangerosité 1 (200 PX)
+- **Compétences** Perception +4
+- **Sens** Perception passive 14
+- **Langues** aigle géant, comprend le commun et l'aérien mais ne peut pas les parler
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -12295,10 +12295,10 @@ comme des aigles normaux).
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|14 (+2)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
 
-- Compétences Discrétion +4
-- Sens vision dans le noir 9 m, Perception passive 10
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Discrétion +4
+- **Sens** vision dans le noir 9 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12333,10 +12333,10 @@ pas subir 2 (1d4) dégâts de poison.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|15 (+2)|12 (+1)| 6 (-2)|10 (+0)| 6 (-6)|
 
-- Compétences Discrétion +6
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues —
-- Dangerosité 3 (700 PX)
+- **Compétences** Discrétion +6
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -12383,10 +12383,10 @@ faire penser à de la téléportation.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|16 (+3)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
 
-- Compétences Discrétion +7
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +7
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -12443,10 +12443,10 @@ de cocons de toile contenant leurs précédentes victimes.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|16 (+3)|13 (+1)| 3 (-4)|12 (+1)| 4 (-3)|
 
-- Compétences Discrétion +7, Perception +3
-- Sens vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +7, Perception +3
+- **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -12492,11 +12492,11 @@ fissures ou des cavités dissimulées sous des débris.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
 
-- Vulnérabilité aux dégâts de feu
-- Résistance aux dégâts contondants, perforants
-- Sens Perception passive 10
-- Langues une langue connue de son créateur
-- Dangerosité 2 (450 PX)
+- **Vulnérabilité aux dégâts** de feu
+- **Résistance aux dégâts** contondants, perforants
+- **Sens** Perception passive 10
+- **Langues** une langue connue de son créateur
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -12524,11 +12524,11 @@ sort d'éveil ou une magie similaire.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 8 (-1)|11 (+0)|10 (+0)|10 (+0)| 6 (-2)|
 
-- Vulnérabilité aux dégâts de feu
-- Résistance aux dégâts perforants
-- Sens Perception passive 10
-- Langues une langue connue de son créateur
-- Dangerosité 0 (10 PX)
+- **Vulnérabilité aux dégâts** de feu
+- **Résistance aux dégâts** perforants
+- **Sens** Perception passive 10
+- **Langues** une langue connue de son créateur
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12556,9 +12556,9 @@ grâce au sort d'éveil ou une magie similaire.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
 
-- Sens Perception passive 11
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** Perception passive 11
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12585,9 +12585,9 @@ Touché : 1 (1d4-1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -12610,10 +12610,10 @@ créatures inhabituelles approchant de trop près.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|16 (+3)| 8 (-1)| 2 (-4)|12 (+1)| 3 (-4)|
 
-- Compétences Discrétion +5, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Discrétion +5, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12638,10 +12638,10 @@ Touché : 1 dégât perforant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|10 (+0)| 4 (-3)|12 (+1)| 5 (-3)|
 
-- Compétences Discrétion +5, Perception +3
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Discrétion +5, Perception +3
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -12666,9 +12666,9 @@ Touché : 5 (1d4+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|11 (+0)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- Sens vision dans le noir 9 m, Perception passive 11
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision dans le noir 9 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12692,9 +12692,9 @@ Touché : 1 dégât perforant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|10 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- Sens vision dans le noir 9 m, Perception passive 11
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** vision dans le noir 9 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -12724,10 +12724,10 @@ Touché : 4 (1d6+1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|15 (+2)|11 (+0)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12757,9 +12757,9 @@ Touché : 1 (1d4-1) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|14 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
 
-- Sens Perception passive 9
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** Perception passive 9
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -12778,10 +12778,10 @@ Touché : 2 (1d4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|15 (+2)|10 (+0)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Discrétion +4, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12805,9 +12805,9 @@ Touché : 1 dégât tranchant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|15 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- Sens vision aveugle 18 m, Perception passive 11
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision aveugle 18 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -12833,9 +12833,9 @@ Touché : 1 dégât perforant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|16 (+3)|11 (+0)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- Sens vision aveugle 18 m, Perception passive 11
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** vision aveugle 18 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -12861,9 +12861,9 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- Sens Perception passive 11
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Sens** Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -12893,14 +12893,14 @@ Touché : 11 (2d6+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|17 (+3)| 8 (-1)|14 (+2)|10 (+0)|
 
-- Jets de sauvegarde For +7, Sag +5, Cha +3
-- Compétences Perception +6
-- Résistance aux dégâts nécrotiques
-- Immunité aux dégâts poison
-- Immunité contre les états empoisonné, charmé, terrorisé et épuisé
-- Sens vision dans le noir 36 m, Perception passive 17
-- Langues comprend le commun et le céleste mais ne peut pas parler
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** For +7, Sag +5, Cha +3
+- **Compétences** Perception +6
+- **Résistance aux dégâts** nécrotiques
+- **Immunité aux dégâts** poison
+- **Immunité contre les états** empoisonné, charmé, terrorisé et épuisé
+- **Sens** vision dans le noir 36 m, Perception passive 17
+- **Langues** comprend le commun et le céleste mais ne peut pas parler
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -12949,9 +12949,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|15 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- Sens Perception passive 11
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Sens** Perception passive 11
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -12991,9 +12991,9 @@ Touché : 11 (2d6+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -13012,9 +13012,9 @@ Touché : 8 (2d4+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -13033,9 +13033,9 @@ Touché : 9 (2d4+4) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13068,9 +13068,9 @@ Touché : 3 (1d4+1) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- Sens Perception passive 11
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Sens** Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -13103,9 +13103,9 @@ Touché : 8 (2d4+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|11 (+0)| 2 (-4)|14 (+2)| 5 (-3)|
 
-- Sens Perception passive 12
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** Perception passive 12
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Actions
 
@@ -13124,10 +13124,10 @@ Touché : 2 (1d4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|14 (+2)| 3 (-4)|13 (+1)| 6 (-2)|
 
-- Compétences Discrétion +4, Perception +5
-- Sens vision dans le noir 36 m, Perception passive 15
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +4, Perception +5
+- **Sens** vision dans le noir 36 m, Perception passive 15
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -13172,10 +13172,10 @@ détachent peu à peu des os.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
 
-- Compétences Discrétion +5, Perception +3
-- Sens Perception passive 13
-- Langues chien esquiveur, comprend le sylvestre mais ne peut pas le parler
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +5, Perception +3
+- **Sens** Perception passive 13
+- **Langues** chien esquiveur, comprend le sylvestre mais ne peut pas le parler
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -13211,10 +13211,10 @@ qu'ils attaquent à vue.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (+4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Discrétion +3, Perception +3
-- Sens vision dans le noir 36 m, Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Discrétion +3, Perception +3
+- **Sens** vision dans le noir 36 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13242,10 +13242,10 @@ Touché : 1 dégât tranchant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|12 (+1)| 8 (-1)|13 (+1)|10 (+0)|
 
-- Compétences Discrétion +4, Perception +5
-- Sens vision dans le noir 36 m, Perception passive 15
-- Langues chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +4, Perception +5
+- **Sens** vision dans le noir 36 m, Perception passive 15
+- **Langues** chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -13276,10 +13276,10 @@ royaumes forestiers.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|14 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13307,10 +13307,10 @@ Touché : 1 dégât perforant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
 
-- Compétences Discrétion +2
-- Sens vision aveugle 9 m, Perception passive 9
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Discrétion +2
+- **Sens** vision aveugle 9 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13334,10 +13334,10 @@ Touché : 1 dégât contondant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
 
-- Compétences Discrétion +4
-- Sens vision aveugle 9 m, Perception passive 9
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Discrétion +4
+- **Sens** vision aveugle 9 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -13363,9 +13363,9 @@ chacune ne peut empoigner qu'une seule cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- Sens vision dans le noir 9 m, Perception passive 10
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Sens** vision dans le noir 9 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -13409,10 +13409,10 @@ autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Compétence Discrétion +2
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Compétence** Discrétion +2
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -13439,10 +13439,10 @@ peut pas mordre une autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
 
-- Compétences Discrétion +5
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Discrétion +5
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -13477,9 +13477,9 @@ de Force DD 16 pour ne pas être jetée au sol.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -13512,10 +13512,10 @@ Touché : 8 (2d4+3) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|16 (+3)|14 (+2)| 7 (-2)|14 (+2)|10 (+0)|
 
-- Compétences Perception +4
-- Sens Perception passive 14
-- Langues élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
-- Dangerosité 2 (450 PX)
+- **Compétences** Perception +4
+- **Sens** Perception passive 14
+- **Langues** élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -13555,9 +13555,9 @@ chasse de ces créatures attise la colère divine.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|17 (+3)| 3 (-4)|11 (+0)| 6 (-2)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 4 (1 100 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 4 (1 100 PX)
 
 ## Capacités
 
@@ -13590,10 +13590,10 @@ terre. Touché : 22 (3d10+6) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens vision aveugle 36 m, Perception passive 13
-- Langues —
-- Dangerosité 3 (700 PX)
+- **Compétences** Perception +3
+- **Sens** vision aveugle 36 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -13621,10 +13621,10 @@ Touché : 21 (5d6+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|16 (+3)| 8 (-1)| 2 (-4)|14 (+2)| 6 (-2)|
 
-- Compétence Perception +4
-- Sens Perception passive 14
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétence** Perception +4
+- **Sens** Perception passive 14
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13648,10 +13648,10 @@ tranchant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|10 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
 
-- Compétences Perception +4
-- Sens Perception passive 14
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Perception +4
+- **Sens** Perception passive 14
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -13686,10 +13686,10 @@ leurs proies.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|14 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
-- Compétences Athlétisme +5, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Athlétisme +5, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Actions
 
@@ -13713,10 +13713,10 @@ contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
 
-- Compétences Discrétion +3, Perception +1
-- Sens vision dans le noir 9 m, Perception passive 11
-- Langues —
-- Dangerosité 0 (0 PX)
+- **Compétences** Discrétion +3, Perception +1
+- **Sens** vision dans le noir 9 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 0 (0 PX)
 
 ## Capacités
 
@@ -13742,10 +13742,10 @@ servir à représenter un crapaud.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- Compétences Discrétion +3, Perception +2
-- Sens vision dans le noir 9 m, Perception passive 12
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +3, Perception +2
+- **Sens** vision dans le noir 9 m, Perception passive 12
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -13788,9 +13788,9 @@ peut pas mordre une autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|10 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Actions
 
@@ -13817,10 +13817,10 @@ paralysée tant que le poison continue de faire effet.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|10 (+0)| 2 (-4)|15 (+2)| 7 (-2)|
 
-- Compétences Perception +4
-- Sens Vision dans le noir 18 m, Perception passive 14
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Perception +4
+- **Sens** Vision dans le noir 18 m, Perception passive 14
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13844,10 +13844,10 @@ Touché : 4 (1d4+2) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|13 (+1)| 8 (-1)|15 (+2)|10 (+0)|
 
-- Compétences Perception +4
-- Sens Vision dans le noir 18 m, Perception passive 14
-- Langues hibou géant, comprend le commun et l'aérien mais ne peut pas les parler
-- Dangerosité 1 (200 PX)
+- **Compétences** Perception +4
+- **Sens** Vision dans le noir 18 m, Perception passive 14
+- **Langues** hibou géant, comprend le commun et l'aérien mais ne peut pas les parler
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -13883,9 +13883,9 @@ jamais attesté.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|12 (+1)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 0 (0 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 0 (0 PX)
 
 ## Capacités
 
@@ -13903,9 +13903,9 @@ uniquement sous l'eau.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- Sens Perception passive 11
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Sens** Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -13940,10 +13940,10 @@ les dressent pour pouvoir les chevaucher.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|13 (+1)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -13970,10 +13970,10 @@ Touché : 3 (1d6) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -14001,9 +14001,9 @@ Touché : 10 (2d6+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)|
 
-- Sens vision dans le noir 9 m, Perception passive 9
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision dans le noir 9 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Actions
 
@@ -14022,9 +14022,9 @@ perforant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Sens vision dans le noir 9 m, Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** vision dans le noir 9 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -14049,10 +14049,10 @@ habitants de l'Ombreterre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|13 (+1)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- Compétences Discrétion +6, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +6, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -14095,10 +14095,10 @@ Touché : 7 (1d8+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- Compétences Discrétion +4, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -14130,11 +14130,11 @@ de Force DD 11 pour ne pas être jetée à terre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- Compétences Discrétion +3, Perception +5
-- Immunité contre les dégâts de froid
-- Sens Perception passive 15
-- Langues commun, géant, loup arctique
-- Dangerosité 3 (700 PX)
+- **Compétences** Discrétion +3, Perception +5
+- **Immunité contre les dégâts** de froid
+- **Sens** Perception passive 15
+- **Langues** commun, géant, loup arctique
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -14186,10 +14186,10 @@ pour mener une conversation basique.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|15 (+2)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Discrétion +4, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +4, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -14221,9 +14221,9 @@ de Force DD 13 pour ne pas être jetée à terre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 6 (2 300 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -14260,10 +14260,10 @@ vivent sous divers climats, du subarctique au subtropical.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -14295,9 +14295,9 @@ et autres humanoïdes de petite taille.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|14 (+2)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
-- Sens vision aveugle 9 m, Perception passive 8
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** vision aveugle 9 m, Perception passive 8
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -14323,9 +14323,9 @@ continue de faire effet.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -14353,11 +14353,11 @@ Touché : 4 (1d4+2) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- Résistance aux dégâts contondants, perforants et tranchants
-- Immunité contre les états à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
-- Sens vision aveugle 18 m, Perception passive 11
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants
+- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Sens** vision aveugle 18 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -14391,12 +14391,12 @@ moins la moitié de ses points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)| 8 (-1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- Compétences Perception +5
-- Résistance aux dégâts contondants, perforants et tranchants
-- Immunité contre les états à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
-- Sens Perception passive 15
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Perception +5
+- **Résistance aux dégâts** contondants, perforants et tranchants
+- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Sens** Perception passive 15
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -14426,11 +14426,11 @@ moins la moitié de ses points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
-- Résistance aux dégâts contondants, perforants et tranchants
-- Immunité contre les états à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
-- Sens vision aveugle 18 m, Perception passive 8
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants
+- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Sens** vision aveugle 18 m, Perception passive 8
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -14464,11 +14464,11 @@ moins la moitié de ses points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- Résistance aux dégâts contondants, perforants et tranchants
-- Immunité contre les états à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
-- Sens vision dans le noir 9 m, Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants
+- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Sens** vision dans le noir 9 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -14499,11 +14499,11 @@ moins la moitié de ses points de vie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- Résistance aux dégâts contondants, perforants et tranchants
-- Immunité contre les états à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
-- Sens vision aveugle 3 m, Perception passive 10
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants
+- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Sens** vision aveugle 3 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -14537,11 +14537,11 @@ seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
 
-- Résistance aux dégâts contondants, perforants et tranchants
-- Immunité contre les états à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
-- Sens vision aveugle 3 m, Perception passive 8
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Résistance aux dégâts** contondants, perforants et tranchants
+- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Sens** vision aveugle 3 m, Perception passive 8
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -14600,10 +14600,10 @@ Bête de taille G, non-alignée
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -14632,10 +14632,10 @@ Touché : 8 (1d8+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -14664,10 +14664,10 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -14696,10 +14696,10 @@ Touché : 9 (1d8+5) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|15 (+2)|10 (+0)| 3 (-4)|14 (+2)| 7 (-2)|
 
-- Compétences Discrétion +6, Perception +4
-- Sens Perception passive 14
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Discrétion +6, Perception +4
+- **Sens** Perception passive 14
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -14735,10 +14735,10 @@ Touché : 5 (1d6+2) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
 
-- Compétences Discrétion +4, Perception +2
-- Sens vision dans le noir 9 m, Perception passive 12
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Discrétion +4, Perception +2
+- **Sens** vision dans le noir 9 m, Perception passive 12
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -14779,10 +14779,10 @@ utiliser ses tentacules sur une autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|13 (+1)|13 (+1)| 4 (-3)|10 (+0)| 4 (-3)|
 
-- Compétences Discrétion +5, Perception +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +5, Perception +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -14824,9 +14824,9 @@ contre une autre cible.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
-- Sens vision dans le noir 18 m, Perception passive 8
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 8
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -14859,9 +14859,9 @@ cette annexe.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- Sens Perception passive 10
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -14880,9 +14880,9 @@ dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|10 (+0)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
-- Sens vision aveugle 9 m, Perception passive 8
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision aveugle 9 m, Perception passive 8
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -14914,9 +14914,9 @@ géantes sous terre et dans les sombres forêts.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
 
-- Sens vision dans le noir 9 m, Perception passive 10
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision dans le noir 9 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -14940,9 +14940,9 @@ perforant.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)|11 (+0)| 2 (-4)|10 (+0)| 4 (-3)|
 
-- Sens vision dans le noir 18 m, Perception passive 10
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -14990,10 +14990,10 @@ tombe à 0 à cause de cette maladie.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|15 (+2)| 1 (-5)|10 (+0)| 4 (-3)|
 
-- Compétences Perception +2
-- Sens vision aveugle 9 m, Perception passive 12
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Compétences** Perception +2
+- **Sens** vision aveugle 9 m, Perception passive 12
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -15026,10 +15026,10 @@ et 6 mètres de long.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|13 (+1)|13 (+1)| 1 (-5)|10 (+0)| 4 (-3)|
 
-- Compétences Perception +2
-- Sens vision aveugle 9 m, Perception passive 12
-- Langues —
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Perception +2
+- **Sens** vision aveugle 9 m, Perception passive 12
+- **Langues** —
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -15063,10 +15063,10 @@ bancs de petite taille. Un spécimen adulte mesure entre
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|11 (+0)|21 (+5)| 1 (-5)|10 (+0)| 5 (-3)|
 
-- Compétences Perception +3
-- Sens vision aveugle 18 m, Perception passive 13
-- Langues —
-- Dangerosité 5 (1 800 PX)
+- **Compétences** Perception +3
+- **Sens** vision aveugle 18 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -15097,9 +15097,9 @@ compris les baleines et les navires.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- Sens Perception passive 11
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Sens** Perception passive 11
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -15129,9 +15129,9 @@ Touché : 14 (2d8+5) dégâts contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)| 2 (-4)| 9 (-1)| 5 (-3)|
 
-- Sens Perception passive 9
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** Perception passive 9
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -15164,9 +15164,9 @@ Touché : 4 (1d6+1) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
 
-- Sens Perception passive 8
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Sens** Perception passive 8
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -15199,9 +15199,9 @@ Touché : 10 (2d6+3) dégâts tranchants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)| 8 (-1)| 1 (-5)| 8 (-1)| 2 (-4)|
 
-- Sens vision aveugle 3 m, Perception passive 9
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Sens** vision aveugle 3 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Actions
 
@@ -15224,9 +15224,9 @@ réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|15 (+2)| 1 (-5)| 9 (-1)| 3 (-4)|
 
-- Sens vision aveugle 18 m, Perception passive 9
-- Langues —
-- Dangerosité 3 (700 PX)
+- **Sens** vision aveugle 18 m, Perception passive 9
+- **Langues** —
+- **Dangerosité** 3 (700 PX)
 
 ## Actions
 
@@ -15259,9 +15259,9 @@ constituent toujours un danger bien réel."
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- Sens vision aveugle 3 m, Perception passive 10
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Sens** vision aveugle 3 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -15287,10 +15287,10 @@ Bête de taille TG, non-alignée
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- Compétences Perception +2
-- Sens vision aveugle 3 m, Perception passive 12
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Compétences** Perception +2
+- **Sens** vision aveugle 3 m, Perception passive 12
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -15315,9 +15315,9 @@ Touché : 11 (2d6+4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|16 (+3)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- Sens vision aveugle 3 m, Perception passive 10
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** vision aveugle 3 m, Perception passive 10
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -15339,10 +15339,10 @@ moitié de ces dégâts seulement en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|18 (+4)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- Compétences Perception +2
-- Sens vision aveugle 3 m, Perception passive 12
-- Langues —
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Perception +2
+- **Sens** vision aveugle 3 m, Perception passive 12
+- **Langues** —
+- **Dangerosité** 1/4 (50 PX)
 
 ## Actions
 
@@ -15365,9 +15365,9 @@ en cas de réussite.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|18 (+4)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- Sens vision aveugle 3 m, Perception passive 11
-- Langues —
-- Dangerosité 1/8 (25 PX)
+- **Sens** vision aveugle 3 m, Perception passive 11
+- **Langues** —
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -15398,10 +15398,10 @@ dans leurs anneaux.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|18 (+4)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- Compétences Athlétisme +9, Perception +4
-- Sens Perception passive 14
-- Langues —
-- Dangerosité 7 (2 900 PX)
+- **Compétences** Athlétisme +9, Perception +4
+- **Sens** Perception passive 14
+- **Langues** —
+- **Dangerosité** 7 (2 900 PX)
 
 ## Actions
 
@@ -15425,10 +15425,10 @@ contondants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- Compétences Discrétion +6, Perception +3
-- Sens vision dans le noir 18 m, Perception passive 13
-- Langues —
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +6, Perception +3
+- **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langues** —
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -15463,10 +15463,10 @@ Touché : 8 (1d10+3) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- Compétences Discrétion +6, Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 2 (450 PX)
+- **Compétences** Discrétion +6, Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -15501,10 +15501,10 @@ Touché : 10 (1d10+5) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|10 (+0)|13 (+1)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues —
-- Dangerosité 0 (10 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** —
+- **Dangerosité** 0 (10 PX)
 
 ## Capacités
 
@@ -15534,10 +15534,10 @@ Touché : 2 (1d4) dégâts perforants.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|15 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
-- Compétences Perception +3
-- Sens Perception passive 13
-- Langues comprend le commun mais ne peut pas parler
-- Dangerosité 1 (200 PX)
+- **Compétences** Perception +3
+- **Sens** Perception passive 13
+- **Langues** comprend le commun mais ne peut pas parler
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -15579,10 +15579,10 @@ voir souffrir.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|13 (+1)| 7 (-2)|11 (+0)| 8 (-1)|
 
-- Compétences Perception +4
-- Sens vision dans le noir 18 m, Perception passive 14
-- Langues gobelin, worg
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Perception +4
+- **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langues** gobelin, worg
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -15618,10 +15618,10 @@ eux apprennent également à parler le commun.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 
-- Compétences Médecine +4, Religion +2
-- Sens Perception passive 12
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 1/4 (50 PX)
+- **Compétences** Médecine +4, Religion +2
+- **Sens** Perception passive 12
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
@@ -15657,12 +15657,12 @@ puissance.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 
-- Jets de sauvegarde Int +9, Sag +6
-- Compétences Arcanes +13, Histoire +13
-- Résistance aux dégâts des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)
-- Sens Perception passive 12
-- Langues six langues au choix
-- Dangerosité 12 (8 400 PX)
+- **Jets de sauvegarde** Int +9, Sag +6
+- **Compétences** Arcanes +13, Histoire +13
+- **Résistance aux dégâts** des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)
+- **Sens** Perception passive 12
+- **Langues** six langues au choix
+- **Dangerosité** 12 (8 400 PX)
 
 ## Capacités
 
@@ -15722,12 +15722,12 @@ les éventuels intrus.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
 
-- Jets de sauvegarde Dex +6, Int +4
-- Compétences Acrobaties +6, Discrétion +9, Perception +3, Supercherie +3
-- Résistance aux dégâts de poison
-- Sens Perception passive 13
-- Langues argot des voleurs plus deux autres langues au choix
-- Dangerosité 8 (3 900 PX)
+- **Jets de sauvegarde** Dex +6, Int +4
+- **Compétences** Acrobaties +6, Discrétion +9, Perception +3, Supercherie +3
+- **Résistance aux dégâts** de poison
+- **Sens** Perception passive 13
+- **Langues** argot des voleurs plus deux autres langues au choix
+- **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
@@ -15784,9 +15784,9 @@ fortunés pour se payer leurs services.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
 
-- Sens Perception passive 10
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 1/8 (25 PX)
+- **Sens** Perception passive 10
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -15817,9 +15817,9 @@ et les trésors ou de corsaires que la couronne autorise
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|17 (+3)| 9 (-1)|11 (+0)| 9 (-1)|
 
-- Sens Perception passive 10
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 2 (450 PX)
+- **Sens** Perception passive 10
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -15850,11 +15850,11 @@ conflit dès que l'occasion se présente.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 
-- Jets de sauvegarde For +4, Dex +5, Sag +2
-- Compétences Athlétisme +4, Supercherie +4
-- Sens Perception passive 10
-- Langues deux langues au choix
-- Dangerosité 2 (450 PX)
+- **Jets de sauvegarde** For +4, Dex +5, Sag +2
+- **Compétences** Athlétisme +4, Supercherie +4
+- **Sens** Perception passive 10
+- **Langues** deux langues au choix
+- **Dangerosité** 2 (450 PX)
 
 ## Actions
 
@@ -15901,10 +15901,10 @@ en couleur de ces individus.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 
-- Jets de sauvegarde Con +4, Sag +2
-- Sens Perception passive 10
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 3 (700 PX)
+- **Jets de sauvegarde** Con +4, Sag +2
+- **Sens** Perception passive 10
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
@@ -15958,10 +15958,10 @@ considérés comme des roturiers.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
 
-- Compétences Médecine +4, Nature +3, Perception +4
-- Sens Perception passive 14
-- Langues langue des druides plus deux langues au choix
-- Dangerosité 2 (450 PX)
+- **Compétences** Médecine +4, Nature +3, Perception +4
+- **Sens** Perception passive 14
+- **Langues** langue des druides plus deux langues au choix
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -16004,10 +16004,10 @@ spirituelle.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 
-- Compétences Médecine +7, Persuasion +3, Religion +4
-- Sens Perception passive 13
-- Langues deux langues au choix
-- Dangerosité 2 (450 PX)
+- **Compétences** Médecine +7, Persuasion +3, Religion +4
+- **Sens** Perception passive 13
+- **Langues** deux langues au choix
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -16062,10 +16062,10 @@ et autres devoirs sacrés.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 
-- Compétences Discrétion +6, Nature +4, Perception +5, Survie +5
-- Sens Perception passive 15
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Discrétion +6, Nature +4, Perception +5, Survie +5
+- **Sens** Perception passive 15
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -16101,10 +16101,10 @@ d'armées.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
-- Compétences Discrétion +4, Investigation +5, Perception +6, Perspicacité +4, Persuasion +5, Supercherie +5, Escamotage +4
-- Sens Perception passive 16
-- Langues deux langues au choix
-- Dangerosité 1 (200 PX)
+- **Compétences** Discrétion +4, Investigation +5, Perception +6, Perspicacité +4, Persuasion +5, Supercherie +5, Escamotage +4
+- **Sens** Perception passive 16
+- **Langues** deux langues au choix
+- **Dangerosité** 1 (200 PX)
 
 ## Capacités
 
@@ -16149,10 +16149,10 @@ leurs employeurs.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 
-- Compétences Religion +2, Persuasion +4, Supercherie +4
-- Sens Perception passive 11
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 2 (450 PX)
+- **Compétences** Religion +2, Persuasion +4, Supercherie +4
+- **Sens** Perception passive 11
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
@@ -16195,10 +16195,10 @@ leur pouvoir personnel.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 
-- Compétences Perception +2
-- Sens Perception passive 12
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Perception +2
+- **Sens** Perception passive 12
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -16223,11 +16223,11 @@ marchands et des nobles.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
 
-- Jets de sauvegarde For +7, Dex +5, Con +6
-- Compétences Athlétisme +10, Intimidation +5
-- Sens Perception passive 11
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 5 (1 800 PX)
+- **Jets de sauvegarde** For +7, Dex +5, Con +6
+- **Compétences** Athlétisme +10, Intimidation +5
+- **Sens** Perception passive 11
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
@@ -16275,9 +16275,9 @@ leur vie en jeu.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)| 8 (-1)|11 (+0)| 8 (-1)|
 
-- Sens Perception passive 10
-- Langues une langue au choix
-- Dangerosité 1/8 (25 PX)
+- **Sens** Perception passive 10
+- **Langues** une langue au choix
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -16312,11 +16312,11 @@ comme béni des dieux.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 
-- Jets de sauvegarde Int +6, Sag +4
-- Compétences Arcanes +6, Histoire +6
-- Sens Perception passive 11
-- Langues quatre langues au choix
-- Dangerosité 6 (2 300 PX)
+- **Jets de sauvegarde** Int +6, Sag +4
+- **Compétences** Arcanes +6, Histoire +6
+- **Sens** Perception passive 11
+- **Langues** quatre langues au choix
+- **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
@@ -16359,10 +16359,10 @@ ne vienne les interrompre.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 
-- Compétences Intimidation +2
-- Sens Perception passive 10
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 1/2 (100 PX)
+- **Compétences** Intimidation +2
+- **Sens** Perception passive 10
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
@@ -16397,10 +16397,10 @@ pour l'argent et n'éprouvent guère de scrupules.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
 
-- Compétences Religion +2, Supercherie +2
-- Sens Perception passive 10
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Religion +2, Supercherie +2
+- **Sens** Perception passive 10
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 1/8 (25 PX)
 
 ## Capacités
 
@@ -16433,10 +16433,10 @@ leurs croyances et leurs pratiques.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
-- Compétences Perspicacité +4, Persuasion +5, Supercherie +5
-- Sens Perception passive 12
-- Langues deux langues au choix
-- Dangerosité 1/8 (25 PX)
+- **Compétences** Perspicacité +4, Persuasion +5, Supercherie +5
+- **Sens** Perception passive 12
+- **Langues** deux langues au choix
+- **Dangerosité** 1/8 (25 PX)
 
 ## Actions
 
@@ -16469,9 +16469,9 @@ représenter des courtisans qui ne sont pas de sang noble.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
-- Sens Perception passive 10
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 0 (10 PX)
+- **Sens** Perception passive 10
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 0 (10 PX)
 
 ## Actions
 
@@ -16493,10 +16493,10 @@ artisans et les ermites.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- Compétences Athlétisme +5, Perception +2
-- Sens Perception passive 12
-- Langues une langue au choix (commun le plus souvent)
-- Dangerosité 3 (700 PX)
+- **Compétences** Athlétisme +5, Perception +2
+- **Sens** Perception passive 12
+- **Langues** une langue au choix (commun le plus souvent)
+- **Dangerosité** 3 (700 PX)
 
 ## Actions
 
