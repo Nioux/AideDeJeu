@@ -9,6 +9,7 @@ namespace AideDeJeu.Tools
     {
         public MonsterMarkdownTheme()
         {
+            this.Margin = 0;
             var fd = FormatedTextHelpers.FontData.FromResource("content");
             //this.Paragraph.FontFamily = fd.FontFamily;
             this.Paragraph.FontSize = (float)fd.FontSize;

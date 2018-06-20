@@ -206,7 +206,7 @@ namespace AideDeJeuLib.Monsters
 
             this.SpecialFeaturesNodes = specialFeatures;
             this.ActionsNodes = actions;
-            this.ReactionsNodes = actions;
+            //this.ReactionsNodes = actions;
             this.LegendaryActionsNodes = legendaryActions;
 
             var divDescription = divBloc?.SelectSingleNode("div[contains(@class,'description')]");
