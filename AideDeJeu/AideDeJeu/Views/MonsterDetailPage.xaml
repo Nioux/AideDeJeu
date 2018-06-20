@@ -8,6 +8,7 @@
              Title="{Binding Title}">
     <ContentPage.Resources>
         <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
             <tools:HtmlNodeToFormattedStringConverter x:Key="HtmlNodeToFormattedStringConverter" />
             <tools:HtmlNodesToFormattedStringConverter x:Key="HtmlNodesToFormattedStringConverter" />
@@ -80,15 +81,15 @@
 
             <Label Text="Capacités" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
             <!--<Label FormattedText="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />-->
-            <mdview:MarkdownView Padding="0" CascadeInputTransparent="True" Margin="0" BackgroundColor="Aqua" InputTransparent="True" HorizontalOptions="FillAndExpand" Markdown="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}"  IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
+            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}"  IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
             <!--<Label FormattedText="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />-->
-            <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
+            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions légendaires" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
             <!--<Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />-->
-            <mdview:MarkdownView HorizontalOptions="FillAndExpand" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
 
             <!--<ListView ItemsSource="{Binding Item.SpecialFeaturesNodes}">
                 <ListView.ItemTemplate>
