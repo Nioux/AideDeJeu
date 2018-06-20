@@ -9,9 +9,14 @@ namespace AideDeJeu.Tools
     {
         public MonsterMarkdownTheme()
         {
-            //this.Paragraph.FontFamily = "LinLibertine_aS.ttf#Linux Libertine Capitals";
+            var fd = FormatedTextHelpers.FontData.FromResource("content");
+            //this.Paragraph.FontFamily = fd.FontFamily;
+            this.Paragraph.FontSize = (float)fd.FontSize;
+            this.Paragraph.Attributes = fd.FontAttributes;
+            this.Paragraph.ForegroundColor = fd.TextColor;
+
             this.BackgroundColor = DefaultBackgroundColor;
-            this.Paragraph.ForegroundColor = DefaultTextColor;
+            //this.Paragraph.ForegroundColor = DefaultTextColor;
             this.Heading1.ForegroundColor = DefaultTextColor;
             this.Heading1.BorderColor = DefaultSeparatorColor;
             this.Heading2.ForegroundColor = DefaultTextColor;
