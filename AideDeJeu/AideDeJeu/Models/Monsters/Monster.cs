@@ -70,6 +70,8 @@ namespace AideDeJeuLib.Monsters
             }
         }
 
+        public IEnumerable<string> Reactions { get; set; }
+
         public IEnumerable<string> LegendaryActions { get; set; }
         [IgnoreDataMember]
         public IEnumerable<XmlNode> LegendaryActionsNodes
@@ -204,6 +206,7 @@ namespace AideDeJeuLib.Monsters
 
             this.SpecialFeaturesNodes = specialFeatures;
             this.ActionsNodes = actions;
+            this.ReactionsNodes = actions;
             this.LegendaryActionsNodes = legendaryActions;
 
             var divDescription = divBloc?.SelectSingleNode("div[contains(@class,'description')]");

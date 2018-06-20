@@ -305,40 +305,13 @@ Si l'épée est dans son champ de vision, le solar peut mentalement lui ordonner
 
 ## Actions légendaires
 
-Le solar peut effectuer 3 actions légendaires qu'il
-choisit parmi celles décrites ici. Il ne peut en choisir
-qu'un seule à la fois et uniquement à la fin du tour
-d'une autre créature. Le solar récupère au début de
-son tour l'utilisation des actions légendaires déjà
-effectuées.
-Explosion brûlante (coûte 2 actions). Le solar
-produit de l'énergie magique de nature divine.
-Chaque créature de son choix située dans un rayon
-de 3 mètres doit effectuer un jet de sauvegarde
-de Dextérité DD 23. Celles qui échouent subissent
-14 (4d6) dégâts de feu plus 14 (4d6) dégâts radiants,
-les autres la moitié de ces dégâts seulement.
-Regard aveuglant (coûte 3 actions). Le solar
-cible une créature située
-à 9 mètres ou moins de
-lui et dans son champ de
-vision. Si la cible peut le
-voir, elle doit réussir un jet
-de sauvegarde de Constitution
-DD 15 pour ne pas
-être aveuglée jusqu'à ce
-qu'un effet magique, tel que
-celui produit par un sort de restauration
-inférieure, dissipe
-l'aveuglement.
-Téléportation. Le solar
-se téléporte par magie,
-avec tous ses objets portés
-ou transportés, vers un
-emplacement inoccupé situé
-dans son champ de vision à
-une distance maximale de 36
-mètres.
+Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Il ne peut en choisir qu'un seule à la fois et uniquement à la fin du tour d'une autre créature. Le solar récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
+
+Explosion brûlante (coûte 2 actions). Le solar produit de l'énergie magique de nature divine. Chaque créature de son choix située dans un rayon de 3 mètres doit effectuer un jet de sauvegarde de Dextérité DD 23. Celles qui échouent subissent 14 (4d6) dégâts de feu plus 14 (4d6) dégâts radiants, les autres la moitié de ces dégâts seulement.
+
+Regard aveuglant (coûte 3 actions). Le solar cible une créature située à 9 mètres ou moins de lui et dans son champ de vision. Si la cible peut le voir, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être aveuglée jusqu'à ce qu'un effet magique, tel que celui produit par un sort de restauration inférieure, dissipe l'aveuglement.
+
+Téléportation. Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
 # Ankheg
@@ -357,23 +330,11 @@ mètres.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 10 (2d6+3) dégâts tranchants plus 3 (1d6)
-dégâts d'acide. Si la cible est une créature de taille
-G ou plus petite, elle est empoignée (DD 13 pour se libérer).
-Jusqu'à la fin de cette empoignade, l'ankheg
-peut mordre uniquement la créature empoignée et
-il obtient un avantage lors des jets d'attaque effectués
-contre elle.
-Aspersion acide (Recharge 6). L'ankheg crache
-de l'acide sur une ligne de 9 mètres de long et
-de 1,50 mètre de large, à condition qu'il n'empoigne
-aucune créature. Les créatures sur cette ligne
-doivent chacune effectuer un jet de sauvegarde
-de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts
-d'acide en cas de jet de sauvegarde raté ou la moitié
-de ces dégâts seulement en cas de réussite.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la cible est une créature de taille G ou plus petite, elle est empoignée (DD 13 pour se libérer). Jusqu'à la fin de cette empoignade, l'ankheg peut mordre uniquement la créature empoignée et il obtient un avantage lors des jets d'attaque effectués contre elle.
+
+Aspersion acide (Recharge 6). L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Azer
@@ -395,26 +356,17 @@ de ces dégâts seulement en cas de réussite.
 
 ## Capacités
 
-Armes surchauffées. Quand l'azer réussit une
-attaque avec une arme de corps à corps en métal,
-celle-ci inflige 3 (1d6) dégâts de feu supplémentaires
-(inclus dans l'attaque).
-Corps surchauffé. Une créature qui touche l'azer
-ou qui réussit une attaque au corps à corps contre
-lui à une distance maximale de 1,50 mètre subit
-5 (1d10) dégâts de feu.
-Illumination. L'azer diffuse une lumière vive dans
-un rayon de 3 mètres et une lumière faible dans un
-rayon de 3 mètres supplémentaires.
+Armes surchauffées. Quand l'azer réussit une attaque avec une arme de corps à corps en métal, celle-ci inflige 3 (1d6) dégâts de feu supplémentaires (inclus dans l'attaque).
+
+Corps surchauffé. Une créature qui touche l'azer ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 5 (1d10) dégâts de feu.
+
+Illumination. L'azer diffuse une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon de 3 mètres supplémentaires.
 
 ## Actions
 
-Marteau de guerre. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
-Touché : 7 (1d8+3) dégâts contondants ou
-8 (1d10+3) dégâts contondants s'il est manié à deux
-mains pour effectuer une attaque au corps à corps,
-plus 3 (1d6) dégâts de feu.
+Marteau de guerre. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'il est manié à deux mains pour effectuer une attaque au corps à corps, plus 3 (1d6) dégâts de feu.
 
 
 # Babélien
@@ -434,52 +386,19 @@ plus 3 (1d6) dégâts de feu.
 
 ## Capacités
 
-Charabia. Le babélien bredouille des propos
-incohérents tant qu'il n'est pas neutralisé et qu'une
-créature est dans son champ de vision. Les créatures
-qui commencent leur tour à 6 mètres ou
-moins du babélien et qui entendent son charabia
-doivent chacune effectuer un jet de sauvegarde de
-Sagesse DD 10. En cas d'échec du jet de sauvegarde,
-une créature ne peut plus effectuer de réaction
-jusqu'au début de son prochain tour et lance un d8
-pour déterminer ce qu'elle fait pendant son tour.
-Sur un résultat de 1 à 4, la créature ne fait rien. Sur
-un résultat de 5 ou 6, elle n'effectue aucune action
-ou action bonus et utilise l'intégralité de sa vitesse
-pour se déplacer dans une direction déterminée au
-hasard. Sur un résultat de 7 ou 8, elle effectue une
-attaque au corps à corps contre une créature déterminée
-au hasard située à portée d'allonge ou ne fait
-rien si aucune attaque de sa part n'est possible.
-Sol aberrant. Le sol dans un rayon de 3 mètres
-autour du babélien devient un terrain difficile à
-la consistance pâteuse. Les créatures qui commencent
-leur tour dans cette zone doivent chacune
-réussir un jet de sauvegarde de Force DD 10 pour ne
-pas voir leur vitesse réduite à 0 jusqu'au début de
-leur prochain tour.
+Charabia. Le babélien bredouille des propos incohérents tant qu'il n'est pas neutralisé et qu'une créature est dans son champ de vision. Les créatures qui commencent leur tour à 6 mètres ou moins du babélien et qui entendent son charabia doivent chacune effectuer un jet de sauvegarde de Sagesse DD 10. En cas d'échec du jet de sauvegarde, une créature ne peut plus effectuer de réaction jusqu'au début de son prochain tour et lance un d8 pour déterminer ce qu'elle fait pendant son tour. Sur un résultat de 1 à 4, la créature ne fait rien. Sur un résultat de 5 ou 6, elle n'effectue aucune action ou action bonus et utilise l'intégralité de sa vitesse pour se déplacer dans une direction déterminée au hasard. Sur un résultat de 7 ou 8, elle effectue une attaque au corps à corps contre une créature déterminée au hasard située à portée d'allonge ou ne fait rien si aucune attaque de sa part n'est possible.
+
+Sol aberrant. Le sol dans un rayon de 3 mètres autour du babélien devient un terrain difficile à la consistance pâteuse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un jet de sauvegarde de Force DD 10 pour ne pas voir leur vitesse réduite à 0 jusqu'au début de leur prochain tour.
 
 ## Actions
 
-Attaques multiples. Le babélien effectue une attaque
-de morsure et utilise, si possible, son Crachat
-aveuglant.
-Crachat aveuglant (Recharge 5-6). Le babélien
-crache une grosse goutte de substance visqueuse
-et chimique sur un point situé dans son champ de
-vision à 4,50 mètres ou moins. À l'impact, la goutte
-produit une explosion de lumière aveuglante. Les
-créatures situées à 1,50 mètre ou moins de l'explosion
-doivent chacune réussir un jet de sauvegarde
-de Dextérité DD 13 pour ne pas être aveuglées
-jusqu'à la fin du prochain tour du babélien.
-Morsures. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une créature. Touché :
-17 (5d6) dégâts perforants. Si la cible est de taille M
-ou plus petite, elle doit réussir un jet de sauvegarde
-de Force DD 10 pour ne pas être jetée à terre. Si la
-cible est tuée par ces dégâts, le babélien l'absorbe.
+Attaques multiples. Le babélien effectue une attaque de morsure et utilise, si possible, son Crachat aveuglant.
+
+Crachat aveuglant (Recharge 5-6). Le babélien crache une grosse goutte de substance visqueuse et chimique sur un point situé dans son champ de vision à 4,50 mètres ou moins. À l'impact, la goutte produit une explosion de lumière aveuglante. Les créatures situées à 1,50 mètre ou moins de l'explosion doivent chacune réussir un jet de sauvegarde de Dextérité DD 13 pour ne pas être aveuglées jusqu'à la fin du prochain tour du babélien.
+
+Morsures. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. 
+
+Touché : 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée à terre. Si la cible est tuée par ces dégâts, le babélien l'absorbe.
 
 
 # Basilic
@@ -498,35 +417,17 @@ cible est tuée par ces dégâts, le babélien l'absorbe.
 
 ## Capacités
 
-Regard pétrifiant. Si une créature commence son
-tour à 9 mètres ou moins du basilic et que les deux
-peuvent se voir, le basilic, s'il n'est pas neutralisé,
-peut forcer la créature à effectuer un jet de sauvegarde
-de Constitution DD 12. En cas d'échec, la
-créature commence à se transformer en pierre par
-magie et devient entravée. Elle doit retenter le jet de
-sauvegarde à la fin de son prochain tour. En cas de
-réussite, l'effet prend fin. En cas d'échec, la créature
-est pétrifiée tant qu'elle n'est pas libérée par un sort
-de restauration supérieure ou une magie similaire.
-Une créature qui n'est pas surprise peut détourner
-le regard au début de son tour pour ne pas avoir
-à faire le jet de sauvegarde. Si elle agit de la sorte,
-elle ne peut pas voir le basilic jusqu'au début de son
-prochain tour, moment où elle peut détourner le
-regard à nouveau. Elle doit effectuer le jet de sauvegarde
-immédiatement si elle regarde le basilic
-entre-temps.
-Si le basilic voit son reflet sous une lumière vive à
-une distance maximale de 9 mètres, il le prend pour
-un rival et s'attaque lui-même avec son regard.
+Regard pétrifiant. Si une créature commence son tour à 9 mètres ou moins du basilic et que les deux peuvent se voir, le basilic, s'il n'est pas neutralisé, peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 12. En cas d'échec, la créature commence à se transformer en pierre par magie et devient entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est pétrifiée tant qu'elle n'est pas libérée par un sort de restauration supérieure ou une magie similaire.
+
+Une créature qui n'est pas surprise peut détourner le regard au début de son tour pour ne pas avoir à faire le jet de sauvegarde. Si elle agit de la sorte, elle ne peut pas voir le basilic jusqu'au début de son prochain tour, moment où elle peut détourner le regard à nouveau. Elle doit effectuer le jet de sauvegarde immédiatement si elle regarde le basilic entre-temps.
+
+Si le basilic voit son reflet sous une lumière vive à une distance maximale de 9 mètres, il le prend pour un rival et s'attaque lui-même avec son regard.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour
-toucher, allonge 1,50 m, une cible.
-Touché : 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts
-de poison.
+Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 
 # Béhir
@@ -547,44 +448,19 @@ de poison.
 
 ## Actions
 
-Attaques multiples. Le béhir effectue deux attaques
-: une avec sa morsure et une pour comprimer.
-Comprimer. Attaque d'arme au corps à corps :
-+10 pour toucher, allonge 1,50 m, une créature de
-taille G ou plus petite. Touché : 17 (2d10+6) dégâts
-contondants plus 17 (2d10+6) dégâts tranchants. La
-cible est empoignée (DD 16 pour se libérer) si le béhir
-n'est pas déjà en train de comprimer une créature
-et elle est entravée jusqu'au terme de cette empoignade.
-Engloutir. Le béhir effectue une attaque de morsure
-contre une cible de taille M ou plus petite
-qu'elle empoigne. Si l'attaque est réussie, la cible
-est également engloutie et l'empoignade prend
-fin. Tant qu'elle est engloutie, la cible est aveuglée
-et entravée, elle bénéficie d'un abri total contre les
-attaques et autres effets provenant de l'extérieur
-du béhir et elle subit 21 (6d6) dégâts d'acide au début
-de chacun des tours du béhir. Un béhir ne peut
-engloutir qu'une seule créature à la fois.
-Si le béhir subit 30 dégâts ou plus infligés lors d'un
-seul tour par la créature engloutie, il doit réussir
-un jet de sauvegarde de Constitution DD 14 à la fin
-de ce tour pour ne pas régurgiter la créature qui
-tombe alors à terre dans un emplacement situé
-à 3 mètres ou moins de lui. Si le béhir meurt, une
-créature engloutie n'est plus entravée et peut s'extirper
-de la carcasse en dépensant 4,50 mètres de
-déplacement. Elle tombe à terre en sortant.
-Morsure. Attaque d'arme au corps à corps : +10 pour
-toucher, allonge 3 m, une cible.
+Attaques multiples. Le béhir effectue deux attaques : une avec sa morsure et une pour comprimer.
+
+Comprimer. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature de taille G ou plus petite. Touché : 17 (2d10+6) dégâts contondants plus 17 (2d10+6) dégâts tranchants. La cible est empoignée (DD 16 pour se libérer) si le béhir n'est pas déjà en train de comprimer une créature et elle est entravée jusqu'au terme de cette empoignade.
+
+Engloutir. Le béhir effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque est réussie, la cible est également engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du béhir et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du béhir. Un béhir ne peut engloutir qu'une seule créature à la fois.
+
+Si le béhir subit 30 dégâts ou plus infligés lors d'un seul tour par la créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 14 à la fin de ce tour pour ne pas régurgiter la créature qui tombe alors à terre dans un emplacement situé à 3 mètres ou moins de lui. Si le béhir meurt, une créature engloutie n'est plus entravée et peut s'extirper de la carcasse en dépensant 4,50 mètres de déplacement. Elle tombe à terre en sortant.
+
+Morsure. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
+
 Touché : 22 (3d10+6) dégâts perforants.
-Souffle de foudre (Recharge 5-6). Le béhir
-souffle une ligne de foudre de 6 mètres de long
-et 1,50 mètre de large. Les créatures sur cette
-ligne doivent effectuer un jet de sauvegarde de
-Dextérité DD 16 ; elles subissent 66 (12d10) dégâts
-de foudre en cas de jet de sauvegarde raté ou la
-moitié seulement en cas de réussite.
+
+Souffle de foudre (Recharge 5-6). Le béhir souffle une ligne de foudre de 6 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent effectuer un jet de sauvegarde de Dextérité DD 16 ; elles subissent 66 (12d10) dégâts de foudre en cas de jet de sauvegarde raté ou la moitié seulement en cas de réussite.
 
 
 # Bulette
@@ -604,32 +480,17 @@ moitié seulement en cas de réussite.
 
 ## Capacités
 
-Saut sans élan. La bulette saute sur une longueur
-maximale de 9 mètres et une hauteur maximale de
-4,50 mètres, avec ou sans élan préalable.
+Saut sans élan. La bulette saute sur une longueur maximale de 9 mètres et une hauteur maximale de 4,50 mètres, avec ou sans élan préalable.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+Morsure. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 30 (4d12+4) dégâts perforants.
-Saut meurtrier. Si la bulette saute sur une distance
-minimale de 4,50 mètres au cours de son déplacement,
-elle peut ensuite utiliser cette action pour
-retomber sur ses pattes dans un emplacement
-qui contient une ou plusieurs autres créatures.
-Chacune de ces créatures doit réussir un jet de
-sauvegarde de Force ou de Dextérité DD 16 (au
-choix de la cible), sans quoi elle se retrouve à
-terre et subit 14 (3d6+4) dégâts contondants plus
-14 (3d6+4) dégâts tranchants. En cas de jet de
-sauvegarde réussi, la créature subit la moitié des
-dégâts seulement, elle n'est pas à terre et elle est
-repoussée sur 1,50 mètre hors de l'emplacement de
-la bulette vers un emplacement inoccupé de son
-choix. S'il n'y a aucun emplacement inoccupé à portée,
-la créature tombe à terre dans l'emplacement
-de la bulette à la place.
+
+Saut meurtrier. Si la bulette saute sur une distance minimale de 4,50 mètres au cours de son déplacement, elle peut ensuite utiliser cette action pour retomber sur ses pattes dans un emplacement qui contient une ou plusieurs autres créatures.
+
+Chacune de ces créatures doit réussir un jet de sauvegarde de Force ou de Dextérité DD 16 (au choix de la cible), sans quoi elle se retrouve à terre et subit 14 (3d6+4) dégâts contondants plus 14 (3d6+4) dégâts tranchants. En cas de jet de sauvegarde réussi, la créature subit la moitié des dégâts seulement, elle n'est pas à terre et elle est repoussée sur 1,50 mètre hors de l'emplacement de la bulette vers un emplacement inoccupé de son choix. S'il n'y a aucun emplacement inoccupé à portée, la créature tombe à terre dans l'emplacement de la bulette à la place.
 
 
 # Centaure
@@ -649,25 +510,22 @@ de la bulette à la place.
 
 ## Capacités
 
-Charge. Si le centaure se déplace de 9 mètres au
-moins en ligne droite vers une cible contre laquelle
-il réussit ensuite une attaque de pique lors du
-même tour, la cible subit 10 (3d6) dégâts perforants
-supplémentaires.
+Charge. Si le centaure se déplace de 9 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de pique lors du même tour, la cible subit 10 (3d6) dégâts perforants supplémentaires.
 
 ## Actions
 
-Arc long. Attaque d'arme à distance : +4 pour toucher,
-portée 45/180 m, une cible.
+Arc long. Attaque d'arme à distance : +4 pour toucher, portée 45/180 m, une cible.
+
 Touché : 6 (1d8+2) dégâts perforants.
-Attaques multiples. Le centaure effectue deux
-attaques, l'une avec sa pique et l'autre avec ses
-sabots, ou bien deux attaques avec son arc long.
-Pique. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 3 m, une cible.
+
+Attaques multiples. Le centaure effectue deux attaques, l'une avec sa pique et l'autre avec ses sabots, ou bien deux attaques avec son arc long.
+
+Pique. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
 Touché : 9 (1d10+4) dégâts perforants.
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible.
+
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts contondants.
 
 
@@ -690,30 +548,17 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 ## Capacités
 
-Détection des proies. Le cerbère peut détecter
-la direction de la créature à sang chaud de taille
-moyenne (ou petite, faute de mieux) la plus proche
-de lui dans un rayon d'un kilomètre. Pour cela il
-doit faire un test de Sagesse (Perception) opposé
-à la Dextérité (Discrétion) de sa cible. Si la cible est
-située à plus de 300 mètres de distance, il subit un
-désavantage à son test.
+Détection des proies. Le cerbère peut détecter la direction de la créature à sang chaud de taille moyenne (ou petite, faute de mieux) la plus proche de lui dans un rayon d'un kilomètre. Pour cela il doit faire un test de Sagesse (Perception) opposé à la Dextérité (Discrétion) de sa cible. Si la cible est située à plus de 300 mètres de distance, il subit un désavantage à son test.
 
 ## Actions
 
-Attaques multiples. Le cerbère effectue trois attaques
-de morsure, une pour chaque tête.
-Morsure. Attaque d'arme au corps à corps : +8 pour
-toucher, allonge 1,50 m, une cible ;
-Touché : 11 (2d6+4) dégâts perforants et la cible doit
-réussir un jet de sauvegarde de Constitution DD 14
-ou être empoisonnée par la salive.
-Déchirer. Si le cerbère réussi plusieurs attaques de
-morsure sur la même cible, chaque tête tire violemment
-dans une direction opposée en tentant de
-déchirer le corps de la victime. La cible subit 7 (2d6)
-dégâts perforants supplémentaires par attaque
-réussie après la première dans le même tour.
+Attaques multiples. Le cerbère effectue trois attaques de morsure, une pour chaque tête.
+
+Morsure. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible ;
+
+Touché : 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être empoisonnée par la salive.
+
+Déchirer. Si le cerbère réussi plusieurs attaques de morsure sur la même cible, chaque tête tire violemment dans une direction opposée en tentant de déchirer le corps de la victime. La cible subit 7 (2d6) dégâts perforants supplémentaires par attaque réussie après la première dans le même tour.
 
 
 # Criard
@@ -733,16 +578,11 @@ réussie après la première dans le même tour.
 
 ## Capacités
 
-Faux-semblant. Aussi longtemps que le criard reste
-immobile, il est impossible de le différencier d'un
-champignon ordinaire.
-Réactions
-Hurlement. Quand une lumière vive ou une
-créature s'approche à 9 mètres ou moins du
-criard, celui-ci émet un hurlement audible jusqu'à
-90 mètres. Le criard continue de hurler jusqu'à ce
-que la source de gêne se déplace hors de portée et
-pendant ses 1d4 prochains tours.
+Faux-semblant. Aussi longtemps que le criard reste immobile, il est impossible de le différencier d'un champignon ordinaire.
+
+## Réactions
+
+Hurlement. Quand une lumière vive ou une créature s'approche à 9 mètres ou moins du criard, celui-ci émet un hurlement audible jusqu'à 90 mètres. Le criard continue de hurler jusqu'à ce que la source de gêne se déplace hors de portée et pendant ses 1d4 prochains tours.
 
 
 # Moisissure violette
@@ -762,16 +602,14 @@ pendant ses 1d4 prochains tours.
 
 ## Capacités
 
-Faux-semblant. Aussi longtemps que la moisissure
-violette reste immobile, il est impossible de la distinguer
-d'un champignon ordinaire.
+Faux-semblant. Aussi longtemps que la moisissure violette reste immobile, il est impossible de la distinguer d'un champignon ordinaire.
 
 ## Actions
 
-Attaques multiples. La moisissure violette effectue
-1d4 attaques de Contact putréfiant.
-Contact putréfiant. Attaque d'arme au corps à corps :
-+2 pour toucher, allonge 3 m, une créature.
+Attaques multiples. La moisissure violette effectue 1d4 attaques de Contact putréfiant.
+
+Contact putréfiant. Attaque d'arme au corps à corps : +2 pour toucher, allonge 3 m, une créature.
+
 Touché : 4 (1d8) dégâts nécrotiques.
 
 
@@ -792,27 +630,21 @@ Touché : 4 (1d8) dégâts nécrotiques.
 
 ## Actions
 
-Attaques multiples. La chimère effectue trois
-attaques : une avec sa morsure, une avec ses cornes
-et une avec ses griffes. Quand son souffle de feu
-est disponible, elle peut l'utiliser à la place de sa
-morsure ou de ses cornes.
-Cornes. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. La chimère effectue trois attaques : une avec sa morsure, une avec ses cornes et une avec ses griffes. Quand son souffle de feu est disponible, elle peut l'utiliser à la place de sa morsure ou de ses cornes.
+
+Cornes. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (1d12+4) dégâts contondants.
-Griffes. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+
+Griffes. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +7 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts perforants.
-Souffle de feu (Recharge 5-6). La tête de dragon
-souffle un cône de feu de 4,50 mètres. Les créatures
-dans le cône doivent chacune effectuer un
-jet de sauvegarde de Dextérité DD 15 ; elles subissent
-31 (7d8) dégâts de feu en cas de jet de sauvegarde
-raté ou la moitié de ces dégâts seulement en
-cas de réussite.
+
+Souffle de feu (Recharge 5-6). La tête de dragon souffle un cône de feu de 4,50 mètres. Les créatures dans le cône doivent chacune effectuer un jet de sauvegarde de Dextérité DD 15 ; elles subissent 31 (7d8) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Chuul
@@ -834,32 +666,21 @@ cas de réussite.
 
 ## Capacités
 
-Amphibie. Le chuul peut respirer à l'air libre et sous
-l'eau.
-Perception de la magie. Le chuul perçoit la magie à
-volonté sur un rayon de 36 mètres autour de lui. Ce
-trait spécial fonctionne, par ailleurs, comme le sort
-de détection de la magie mais n'est pas lui-même
-magique.
+Amphibie. Le chuul peut respirer à l'air libre et sous l'eau.
+
+Perception de la magie. Le chuul perçoit la magie à volonté sur un rayon de 36 mètres autour de lui. Ce trait spécial fonctionne, par ailleurs, comme le sort de détection de la magie mais n'est pas lui-même magique.
 
 ## Actions
 
-Attaques multiples. Le chuul effectue trois attaques
-de pince. S'il empoigne une créature, il peut
-également utiliser une fois ses tentacules.
-Pince. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 3 m, une cible.
-Touché : 11 (2d6+4) dégâts contondants. La cible est
-empoignée (évasion DD 14) si c'est une créature de
-taille G ou plus petite et que le chuul n'empoigne
-pas déjà deux autres créatures.
-Tentacules. Une créature empoignée par le chuul
-doit réussir un jet de sauvegarde de Constitution
-DD 13 pour ne pas être empoisonnée pendant 1 minute.
-La cible est paralysée tant que ce poison fait
-effet. Elle peut retenter le jet de sauvegarde à la fin
-de chacun de ses tours et mettre fin à l'effet en cas
-de réussite.
+Attaques multiples. Le chuul effectue trois attaques de pince. S'il empoigne une créature, il peut également utiliser une fois ses tentacules.
+
+Pince. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+
+Touché : 11 (2d6+4) dégâts contondants. La cible est empoignée (évasion DD 14) si c'est une créature de taille G ou plus petite et que le chuul n'empoigne pas déjà deux autres créatures.
+
+Tentacules. Une créature empoignée par le chuul doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être empoisonnée pendant 1 minute.
+
+La cible est paralysée tant que ce poison fait effet. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.
 
 
 # Cockatrice
@@ -878,17 +699,9 @@ de réussite.
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +3 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 3 (1d4+1) dégâts perforants et la cible doit
-réussir un jet de sauvegarde de Constitution DD 11
-pour ne pas être pétrifiée par magie. En cas de jet de
-sauvegarde raté, le corps de la créature commence
-à se transformer en pierre et elle est entravée. Elle
-doit retenter le jet de sauvegarde à la fin de son
-prochain tour. En cas de réussite, l'effet prend fin.
-En cas d'échec, la créature est pétrifiée pendant
-24 heures.
+Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être pétrifiée par magie. En cas de jet de sauvegarde raté, le corps de la créature commence à se transformer en pierre et elle est entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est pétrifiée pendant 24 heures.
 
 
 # Couatl
@@ -910,59 +723,33 @@ En cas d'échec, la créature est pétrifiée pendant
 
 ## Capacités
 
-Armes magiques. Les attaques d'arme du couatl
-sont magiques.
-Esprit protégé. Le couatl est immunisé contre la
-scrutation et tous les effets susceptibles de percevoir
-ses émotions, de lire ses pensées ou de savoir
-où il se trouve.
-Incantation innée. La caractéristique d'incantation
-du couatl est le Charisme (DD du jet de sauvegarde
-contre les sorts 14). Le couatl peut lancer les sorts
-suivants de manière innée avec des composantes
-verbales seulement :
-À volonté : détection de la magie, détection des pensées,
-détection du mal et du bien
-3/jour chacun : bénédiction, bouclier, création de
-nourriture et d'eau, protection contre le poison, restauration
-inférieure, sanctuaire, soins des blessures
+Armes magiques. Les attaques d'arme du couatl sont magiques.
+
+Esprit protégé. Le couatl est immunisé contre la scrutation et tous les effets susceptibles de percevoir ses émotions, de lire ses pensées ou de savoir où il se trouve.
+
+Incantation innée. La caractéristique d'incantation du couatl est le Charisme (DD du jet de sauvegarde contre les sorts 14). Le couatl peut lancer les sorts suivants de manière innée avec des composantes verbales seulement :
+
+À volonté : détection de la magie, détection des pensées, détection du mal et du bien
+
+3/jour chacun : bénédiction, bouclier, création de nourriture et d'eau, protection contre le poison, restauration inférieure, sanctuaire, soins des blessures
+
 1/jour chacun : restauration supérieure, rêve, scrutation
 
 ## Actions
 
-Changer de forme. Le couatl peut se métamorphoser
-par magie en humanoïde ou en bête dont
-l'indice de dangerosité est inférieur ou égal au sien
-ou bien reprendre sa véritable forme. Il reprend sa
-véritable forme quand il meurt. Ses objets portés
-ou transportés sont absorbés ou revêtus par cette
-nouvelle forme (au choix du couatl).
-Une fois métamorphosé, le couatl conserve ses
-statistiques de jeu et sa capacité à parler, mais
-sa CA, ses modes de déplacement, sa Force, sa
-Dextérité et autres actions sont remplacés par ceux
-de sa nouvelle forme. En outre, il obtient toutes les
-statistiques et capacités (à l'exception des aptitudes
-de classe, des actions légendaires et des actions
-d'antre) que possède la nouvelle forme et que lui
-ne possède pas. Si la forme adoptée peut effectuer
-des attaques de morsure, le couatl peut utiliser sa
-propre morsure sous cette forme.
-Comprimer. Attaque d'arme au corps à corps :
-+6 pour toucher, allonge 3 m, une créature de
-taille M ou plus petite. Touché : 10 (2d6+3) dégâts
-contondants et la cible est empoignée (DD 15 pour
-se libérer). Jusqu'au terme de l'empoignade, la cible
-est entravée et le couatl ne peut pas comprimer une
-autre cible.
-Morsure. Attaque d'arme au corps à corps : +8 pour
-toucher, allonge 1,50 m, une créature.
-Touché : 8 (1d6+5) dégâts perforants et la cible doit
-réussir un jet de sauvegarde de Constitution DD 13
-pour ne pas être empoisonnée pendant 24 heures.
+Changer de forme. Le couatl peut se métamorphoser par magie en humanoïde ou en bête dont l'indice de dangerosité est inférieur ou égal au sien ou bien reprendre sa véritable forme. Il reprend sa véritable forme quand il meurt. Ses objets portés ou transportés sont absorbés ou revêtus par cette nouvelle forme (au choix du couatl).
+
+Une fois métamorphosé, le couatl conserve ses statistiques de jeu et sa capacité à parler, mais sa CA, ses modes de déplacement, sa Force, sa Dextérité et autres actions sont remplacés par ceux de sa nouvelle forme. En outre, il obtient toutes les statistiques et capacités (à l'exception des aptitudes de classe, des actions légendaires et des actions d'antre) que possède la nouvelle forme et que lui ne possède pas. Si la forme adoptée peut effectuer des attaques de morsure, le couatl peut utiliser sa propre morsure sous cette forme.
+
+Comprimer. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature de taille M ou plus petite. Touché : 10 (2d6+3) dégâts contondants et la cible est empoignée (DD 15 pour se libérer). Jusqu'au terme de l'empoignade, la cible est entravée et le couatl ne peut pas comprimer une autre cible.
+
+Morsure. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature.
+
+Touché : 8 (1d6+5) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être empoisonnée pendant 24 heures.
+
 Elle est inconsciente tant que le poison fait effet.
-Une autre créature peut effectuer une action pour
-secouer la cible afin qu'elle reprenne connaissance.
+
+Une autre créature peut effectuer une action pour secouer la cible afin qu'elle reprenne connaissance.
 
 
 # Vétéran demi-dragon rouge
@@ -983,26 +770,21 @@ secouer la cible afin qu'elle reprenne connaissance.
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance :
-+3 pour toucher, portée 30/120 m, une cible.
+Arbalète lourde. Attaque d'arme à distance : +3 pour toucher, portée 30/120 m, une cible.
+
 Touché : 6 (1d10+1) dégâts perforants.
-Attaques multiples. Le vétéran effectue deux attaques
-avec son épée longue. S'il a une épée courte
-en main, il peut également effectuer une attaque
-avec cette arme.
-Épée courte. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
+
+Attaques multiples. Le vétéran effectue deux attaques avec son épée longue. S'il a une épée courte en main, il peut également effectuer une attaque avec cette arme.
+
+Épée courte. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 6 (1d6+3) dégâts perforants.
-Épée longue. Attaque d'arme au corps à corps :
-+5 pour toucher, allonge 1,50 m, une cible.
-Touché : 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts
-tranchants si elle est maniée à deux mains.
-Souffle de feu (Recharge 5-6). Le vétéran souffle du
-feu sur un cône de 4,50 mètres. Les créatures dans
-cette zone doivent chacune effectuer un jet de sauvegarde
-de Dextérité DD 15 ; elles subissent 24 (7d6) dégâts
-de feu en cas de jet de sauvegarde raté ou la
-moitié de ces dégâts seulement en cas de réussite.
+
+Épée longue. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+
+Touché : 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si elle est maniée à deux mains.
+
+Souffle de feu (Recharge 5-6). Le vétéran souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un jet de sauvegarde de Dextérité DD 15 ; elles subissent 24 (7d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Balor
@@ -1025,51 +807,25 @@ moitié de ces dégâts seulement en cas de réussite.
 
 ## Capacités
 
-Armes magiques. Les attaques d'arme du balor
-sont magiques.
-Aura de feu. Au début de chacun des tours du
-balor, les créatures situées à 1,50 mètre ou moins
-de lui subissent 10 (3d6) dégâts de feu et les objets
-inflammables dans l'aura qui ne
-sont équipés ou transportés par
-personne prennent feu. Les créatures qui touchent
-le balor ou qui réussissent une attaque au corps
-à corps contre lui à une distance maximale de
-1,50 mètre subissent 10 (3d6) dégâts de feu.
-Résistance à la magie. Le balor obtient un avantage
-lors des jets de sauvegarde contre les sorts et autres
-effets magiques.
-Spasmes d'agonie. Le balor explose quand il
-meurt, et toutes les créatures situées à 9 mètres
-ou moins de lui doivent chacune effectuer un jet
-de sauvegarde de Dextérité DD 20 ; elles subissent
-70 (20d6) dégâts de feu en cas de jet de sauvegarde
-raté ou la moitié de ces dégâts seulement en
-cas de réussite. L'explosion met le feu aux objets
-inflammables dans la zone qui ne sont équipés ou
-transportés par personne. Elle détruit également les
-armes du balor.
+Armes magiques. Les attaques d'arme du balor sont magiques.
+
+Aura de feu. Au début de chacun des tours du balor, les créatures situées à 1,50 mètre ou moins de lui subissent 10 (3d6) dégâts de feu et les objets inflammables dans l'aura qui ne sont équipés ou transportés par personne prennent feu. Les créatures qui touchent le balor ou qui réussissent une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subissent 10 (3d6) dégâts de feu.
+
+Résistance à la magie. Le balor obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+
+Spasmes d'agonie. Le balor explose quand il meurt, et toutes les créatures situées à 9 mètres ou moins de lui doivent chacune effectuer un jet de sauvegarde de Dextérité DD 20 ; elles subissent 70 (20d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. L'explosion met le feu aux objets inflammables dans la zone qui ne sont équipés ou transportés par personne. Elle détruit également les armes du balor.
 
 ## Actions
 
-Attaques multiples. Le balor effectue deux attaques :
-une avec son épée longue et une avec son fouet.
-Épée longue. Attaque d'arme au corps à corps :
-+14 pour toucher, allonge 3 m, une cible.
-Touché : 21 (3d8+8) dégâts tranchants plus
-13 (3d8) dégâts de foudre. Si le balor obtient un
-coup critique, il lance trois fois au lieu de deux le dé
-de dégâts.
-Fouet. Attaque d'arme au corps à corps : +14 pour toucher,
-allonge 9 m, une cible. Touché : 15 (2d6+8) dégâts
-tranchants plus 10 (3d6) dégâts de feu et la
-cible doit réussir un jet de sauvegarde de Force
-DD 20 pour ne pas être tiré vers le balor sur une
-distance maximale de 7,50 mètres.
-Téléportation. Le balor se téléporte par magie,
-avec tous ses objets équipés ou transportés, vers un
-emplacement inoccupé situé dans son champ de
-vision à une distance maximale de 36 mètres.
+Attaques multiples. Le balor effectue deux attaques : une avec son épée longue et une avec son fouet.
+
+Épée longue. Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
+
+Touché : 21 (3d8+8) dégâts tranchants plus 13 (3d8) dégâts de foudre. Si le balor obtient un coup critique, il lance trois fois au lieu de deux le dé de dégâts.
+
+Fouet. Attaque d'arme au corps à corps : +14 pour toucher, allonge 9 m, une cible. Touché : 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la cible doit réussir un jet de sauvegarde de Force DD 20 pour ne pas être tiré vers le balor sur une distance maximale de 7,50 mètres.
+
+Téléportation. Le balor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
 # Dretch
@@ -1091,26 +847,17 @@ vision à une distance maximale de 36 mètres.
 
 ## Actions
 
-Attaques multiples. Le dretch effectue deux attaques
-: une avec sa morsure et une avec ses griffes.
-Griffes. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+Attaques multiples. Le dretch effectue deux attaques : une avec sa morsure et une avec ses griffes.
+
+Griffes. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 5 (2d4) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps : +2 pour
-toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 3 (1d6) dégâts perforants.
-Nuage fétide (1/jour). Un gaz vert répugnant de
-3 mètres de rayon s'étend autour du dretch. Le gaz
-contourne les angles et la visibilité dans la zone est
-légèrement obstruée. Il dure 1 minute ou jusqu'à
-ce qu'un vent violent le disperse. Les créatures qui
-commencent leur tour dans cette zone doivent chacune
-réussir un jet de sauvegarde de Constitution
-DD 11 pour ne pas être empoisonnées jusqu'au début
-de leur prochain tour. Les créatures empoisonnées
-de cette façon peuvent effectuer une action ou une
-action bonus lors de leur tour, mais pas les deux, et
-elles ne peuvent pas effectuer de réaction.
+
+Nuage fétide (1/jour). Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être empoisonnées jusqu'au début de leur prochain tour. Les créatures empoisonnées de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
 
 
 # Glabrezu
@@ -1133,34 +880,24 @@ elles ne peuvent pas effectuer de réaction.
 
 ## Capacités
 
-Incantation innée. La caractéristique d'incantation
-du glabrezu est l'Intelligence (DD du jet de sauvegarde
-contre les sorts 16). Le glabrezu peut lancer
-les sorts suivants de manière innée sans aucune
-composante matérielle :
-À volonté : détection de la magie, dissipation de la
-magie, ténèbres
-1/jour chacun : confusion, mot de pouvoir étourdissant,
-vol
-Résistance à la magie. Le glabrezu obtient un avantage
-lors des jets de sauvegarde contre les sorts et
-autres effets magiques.
+Incantation innée. La caractéristique d'incantation du glabrezu est l'Intelligence (DD du jet de sauvegarde contre les sorts 16). Le glabrezu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+
+À volonté : détection de la magie, dissipation de la magie, ténèbres
+
+1/jour chacun : confusion, mot de pouvoir étourdissant, vol
+
+Résistance à la magie. Le glabrezu obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Attaques multiples. Le glabrezu effectue quatre
-attaques : deux avec ses pinces et deux avec ses
-poings. Sinon, il effectue deux attaques avec ses
-pinces et lance un sort.
-Pince. Attaque d'arme au corps à corps : +9 pour toucher,
-allonge 3 m, une cible.
-Touché : 16 (2d10+5) dégâts contondants. Si la cible
-est une créature de taille M ou plus petite, elle
-est empoignée (évasion DD 15). Le glabrezu a deux
-pinces dont chacune peut empoigner qu'une seule
-créature.
-Poing. Attaque d'arme au corps à corps : +9 pour toucher,
-allonge 1,50 m, une cible.
+Attaques multiples. Le glabrezu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Sinon, il effectue deux attaques avec ses pinces et lance un sort.
+
+Pince. Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
+
+Touché : 16 (2d10+5) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 15). Le glabrezu a deux pinces dont chacune peut empoigner qu'une seule créature.
+
+Poing. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 7 (2d4+2) dégâts contondants.
 
 
@@ -1184,28 +921,22 @@ Touché : 7 (2d4+2) dégâts contondants.
 
 ## Capacités
 
-Puanteur. Les créatures qui commencent
-leur tour à 3 mètres ou moins de l'hezrou
-doivent chacune réussir un jet de sauvegarde
-de Constitution DD 14 pour ne pas être empoisonnées
-jusqu'au début de leur prochain tour.
-Les créatures qui ont réussi leur jet de sauvegarde
-sont immunisées contre la puanteur de l'hezrou
-pendant 24 heures.
-Résistance à la magie. L'hezrou obtient un avantage
-lors des jets de sauvegarde contre les sorts et
-autres effets magiques.
+Puanteur. Les créatures qui commencent leur tour à 3 mètres ou moins de l'hezrou doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnées jusqu'au début de leur prochain tour.
+
+Les créatures qui ont réussi leur jet de sauvegarde sont immunisées contre la puanteur de l'hezrou pendant 24 heures.
+
+Résistance à la magie. L'hezrou obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Attaques multiples. L'hezrou effectue trois attaques
-: une avec sa morsure et deux avec ses
-griffes.
-Griffe. Attaque d'arme au corps à corps : +7 pour toucher,
-allonge 1,50 m, une cible.
+Attaques multiples. L'hezrou effectue trois attaques : une avec sa morsure et deux avec ses griffes.
+
+Griffe. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 11 (2d6+4) dégâts tranchants.
-Morsure. Attaque d'arme au corps à corps :
-+7 pour toucher, allonge 1,50 m, une cible.
+
+Morsure. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 15 (2d10+4) dégâts perforants.
 
 
@@ -1229,39 +960,27 @@ Touché : 15 (2d10+4) dégâts perforants.
 
 ## Capacités
 
-Armes magiques. Les attaques d'arme de la marilith
-sont magiques.
-Réactif. La marilith peut effectuer une réaction à
-chaque tour lors d'un combat.
-Résistance à la magie. La marilith obtient un avantage
-lors des jets de sauvegarde contre les sorts et
-autres effets magiques.
+Armes magiques. Les attaques d'arme de la marilith sont magiques.
+
+Réactif. La marilith peut effectuer une réaction à chaque tour lors d'un combat.
+
+Résistance à la magie. La marilith obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Attaques multiples. La marilith effectue sept
-attaques : six avec ses épées longues et une avec sa
-queue.
-Épée longue. Attaque d'arme au corps à corps :
-+9 pour toucher, allonge 1,50 m, une cible. Touché :
-13 (2d8+4) dégâts tranchants.
-Queue. Attaque d'arme au corps à corps : +9 pour toucher,
-allonge 3 m, une créature. Touché : 15 (2d10+4)
-dégâts contondants. La cible est empoignée (évasion
-DD 19) si elle est de taille M ou plus petite. Jusqu'à
-la fin de cette empoignade, la cible est entravée, la
-marilith peut automatiquement réussir son attaque
-de queue contre elle mais ne peut plus utiliser cette
-attaque contre d'autres cibles.
-Téléportation. La marilith se téléporte par magie,
-avec tous ses objets équipés ou transportés, vers un
-emplacement inoccupé situé dans son champ de
-vision à une distance maximale de 36 mètres.
-Réactions
-Parade. La marilith ajoute 5 à sa CA lorsqu'elle est
-la cible d'une attaque au corps à corps réussie.
-Elle doit voir son agresseur et manier une arme de
-corps à corps pour pouvoir parer de cette façon.
+Attaques multiples. La marilith effectue sept attaques : six avec ses épées longues et une avec sa queue.
+
+Épée longue. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts tranchants.
+
+Queue. Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une créature. Touché : 15 (2d10+4) dégâts contondants. La cible est empoignée (évasion DD 19) si elle est de taille M ou plus petite. Jusqu'à la fin de cette empoignade, la cible est entravée, la marilith peut automatiquement réussir son attaque de queue contre elle mais ne peut plus utiliser cette attaque contre d'autres cibles.
+
+Téléportation. La marilith se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+
+## Réactions
+
+Parade. La marilith ajoute 5 à sa CA lorsqu'elle est la cible d'une attaque au corps à corps réussie.
+
+Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
 # Nalfeshnie
@@ -1284,39 +1003,27 @@ corps à corps pour pouvoir parer de cette façon.
 
 ## Capacités
 
-Résistance à la magie. Le nalfeshnie obtient un
-avantage lors des jets de sauvegarde contre les
-sorts et autres effets magiques.
+Résistance à la magie. Le nalfeshnie obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Attaques multiples. Le nalfeshnie utilise, si possible,
-son halo d'épouvante. Il effectue ensuite trois
-attaques : une avec sa morsure et deux avec ses
-griffes.
-Griffe. Attaque d'arme au corps à corps : +10 pour
-toucher, allonge 3 m, une cible.
+Attaques multiples. Le nalfeshnie utilise, si possible, son halo d'épouvante. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes.
+
+Griffe. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
+
 Touché : 15 (3d6+5) dégâts tranchants.
-Halo d'épouvante (recharge 5-6). Le nalfeshnie
-émet une lumière multicolore scintillante.
-Les créatures situées à 4,50 mètres ou moins
-du nalfeshnie et qui peuvent voir cette lumière
-doivent chacune réussir un jet de sauvegarde de
-Sagesse DD 15 pour ne pas être terrorisées pendant
-1 minute. Une créature peut retenter le jet de sauvegarde
-à la fin de chacun de ses tours et mettre
-fin à l'effet dont elle est victime en cas de réussite.
-Une créature est immunisée contre le halo
-d'épouvante du nalfeshnie pendant 24 heures si
-elle réussit son jet de sauvegarde ou si l'effet dont
-elle est victime prend fin.
-Morsure. Attaque d'arme au corps à corps : +10 pour
-toucher, allonge 1,50 m, une cible.
+
+Halo d'épouvante (recharge 5-6). Le nalfeshnie émet une lumière multicolore scintillante.
+
+Les créatures situées à 4,50 mètres ou moins du nalfeshnie et qui peuvent voir cette lumière doivent chacune réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+Une créature est immunisée contre le halo d'épouvante du nalfeshnie pendant 24 heures si elle réussit son jet de sauvegarde ou si l'effet dont elle est victime prend fin.
+
+Morsure. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 32 (5d10+5) dégâts perforants.
-Téléportation. Le nalfeshnie se téléporte par magie,
-avec tous ses objets équipés ou transportés, vers un
-emplacement inoccupé situé dans son champ de
-vision à une distance maximale de 36 mètres.
+
+Téléportation. Le nalfeshnie se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
 # Quasit
@@ -1339,44 +1046,21 @@ vision à une distance maximale de 36 mètres.
 
 ## Capacités
 
-Métamorphe. Le quasit peut utiliser son action
-pour se métamorphoser en l'une des bêtes suivantes
-: chauve-souris (vitesse 3 m, vol 12 m), millepattes
-(12 m, escalade 12 m) ou crapaud (12 m,
-nage 12 m), ou pour reprendre sa véritable forme.
-Ses statistiques restent les mêmes, quelle que
-soit la forme adoptée, à l'exception de la vitesse
-indiquée. Ses objets équipés ou transportés ne
-sont pas transformés. Le quasit reprend sa forme
-véritable s'il meurt.
-Résistance à la magie. Le quasit obtient un avantage
-lors des jets de sauvegarde contre les sorts et
-autres effets magiques.
+Métamorphe. Le quasit peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : chauve-souris (vitesse 3 m, vol 12 m), millepattes (12 m, escalade 12 m) ou crapaud (12 m, nage 12 m), ou pour reprendre sa véritable forme.
+
+Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le quasit reprend sa forme véritable s'il meurt.
+
+Résistance à la magie. Le quasit obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Frayeur (1/jour). Une créature choisie par le quasit
-et située à 6 mètres ou moins de lui doit réussir
-un jet de sauvegarde de Sagesse DD 10 pour ne
-pas être terrorisée pendant 1 minute. La cible peut
-retenter le jet de sauvegarde à la fin de chacun de
-ses tours (elle subit un désavantage si le quasit est
-dans son champ de vision) et mettre fin à l'effet
-dont elle est victime en cas de réussite.
-Griffes (Morsure sous forme de bête). Attaque
-d'arme au corps à corps : +4 pour toucher, allonge
-1,50 m, une cible. Touché : 5 (1d4+3) dégâts perforants,
-et la cible doit réussir un jet de sauvegarde
-de Constitution DD 10 pour ne pas subir 5 (2d4) dégâts
-de poison et être empoisonnée pendant 1 minute.
-La cible peut retenter le jet de sauvegarde à
-la fin de chacun de ses tours et mettre fin à l'effet
-dont elle est victime en cas de réussite.
-Invisibilité. Le quasit devient invisible par magie
-jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou
-si sa concentration est interrompue (comme s'il
-se concentrait sur un sort). Ses objets équipés ou
-transportés deviennent également invisibles.
+Frayeur (1/jour). Une créature choisie par le quasit et située à 6 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 10 pour ne pas être terrorisée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si le quasit est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+Griffes (Morsure sous forme de bête). Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4+3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir 5 (2d4) dégâts de poison et être empoisonnée pendant 1 minute.
+
+La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+Invisibilité. Le quasit devient invisible par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles.
 
 
 # Vrock
@@ -1399,39 +1083,25 @@ transportés deviennent également invisibles.
 
 ## Capacités
 
-Résistance à la magie. Le vrock obtient un avantage
-lors des jets de sauvegarde contre les sorts et
-autres effets magiques.
+Résistance à la magie. Le vrock obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
-Attaques multiples. Le vrock effectue deux attaques
-: une avec son bec et une avec ses serres.
-Bec. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible.
+Attaques multiples. Le vrock effectue deux attaques : une avec son bec et une avec ses serres.
+
+Bec. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 10 (2d6+3) dégâts perforants.
-Piaillement étourdissant (1/jour). Le vrock pousse
-un piaillement terrifiant. Les créatures situées à
-6 mètres ou moins de lui, qui peuvent l'entendre
-et qui ne sont pas des démons, doivent chacune
-réussir un jet de sauvegarde de Constitution DD 14
-pour ne pas être étourdies jusqu'à la fin du prochain
-tour du vrock.
-Serres. Attaque d'arme au corps à corps : +6 pour
-toucher, allonge 1,50 m, une cible.
+
+Piaillement étourdissant (1/jour). Le vrock pousse un piaillement terrifiant. Les créatures situées à 6 mètres ou moins de lui, qui peuvent l'entendre et qui ne sont pas des démons, doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être étourdies jusqu'à la fin du prochain tour du vrock.
+
+Serres. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
+
 Touché : 14 (2d10+3) dégâts tranchants.
-Spores (recharge 6). Un nuage de spores toxiques
-de 4,50 mètres de rayon s'étend autour du vrock.
-Les spores contournent les angles. Les créatures
-dans cette zone doivent chacune réussir un jet de
-sauvegarde de Constitution DD 14 pour ne pas être
-empoisonnées. Une cible subit 5 (1d10) dégâts de poison
-au début de chacun de ses tours tant qu'elle est
-empoisonnée de cette façon. Une cible peut retenter
-le jet de sauvegarde à la fin de chacun de ses tours
-et mettre fin à l'effet dont elle est victime en cas
-de réussite. Déverser le contenu d'une fiole d'eau
-bénite sur la cible met également fin à cet effet.
+
+Spores (recharge 6). Un nuage de spores toxiques de 4,50 mètres de rayon s'étend autour du vrock.
+
+Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnées. Une cible subit 5 (1d10) dégâts de poison au début de chacun de ses tours tant qu'elle est empoisonnée de cette façon. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
 
 
 # Destrier noir
@@ -1451,22 +1121,15 @@ bénite sur la cible met également fin à cet effet.
 
 ## Capacités
 
-Conférer une résistance au feu. Le destrier noir
-peut conférer une résistance aux dégâts de feu à
-quiconque le chevauche.
-Illumination. Le destrier noir diffuse une lumière
-vive sur un rayon de 3 mètres et une faible lumière
-sur un rayon de 3 mètres supplémentaires.
+Conférer une résistance au feu. Le destrier noir peut conférer une résistance aux dégâts de feu à quiconque le chevauche.
+
+Illumination. Le destrier noir diffuse une lumière vive sur un rayon de 3 mètres et une faible lumière sur un rayon de 3 mètres supplémentaires.
 
 ## Actions
 
-Chevauchée éthérée. Le destrier noir et jusqu'à
-trois créatures consentantes situées à 1,50 mètre ou
-moins de lui entrent dans le plan Éthéré depuis le
-plan Matériel ou vice versa.
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher,
-allonge 1,50 m, une cible. Touché : 13 (2d8+4)
-dégâts contondants plus 7 (2d6) dégâts de feu.
+Chevauchée éthérée. Le destrier noir et jusqu'à trois créatures consentantes situées à 1,50 mètre ou moins de lui entrent dans le plan Éthéré depuis le plan Matériel ou vice versa.
+
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 
 # Dévoreur arcanique
@@ -1487,128 +1150,54 @@ dégâts contondants plus 7 (2d6) dégâts de feu.
 
 ## Capacités
 
-Absorption de la magie par contact. Les armes
-magiques qui touchent Le dévoreur arcanique lui
-infligent normalement des dégâts, mais leurs propriétés
-magiques se retrouvent temporairement
-réprimés pendant 1d4 rounds. L'objet n'est alors
-plus considéré comme magique jusqu'à la fin de la
-durée.
-Faille défensive. Lorsque le dévoreur arcanique
-utilise son attaque ou son incantation innée, elle
-réprime ses pouvoirs de zone d'absorption de la
-magie et de résistance à la magie jusqu'au début de
-son tour suivant.
-Perception de la magie. Le dévoreur arcanique
-détecte automatiquement la magie dans un rayon
-de 36 mètres. Cela lui permet de localiser instantanément
-les auras magiques et de connaître leur
-intensité, mais pas les écoles de magie. Ce pouvoir
-lui permet également de détecter les créatures
-usant de sorts ou de pouvoirs magiques.
-Incantation innée. Le dévoreur arcanique peut
-lancer le sort suivant de manière innée sans aucune
-composante matérielle :
+Absorption de la magie par contact. Les armes magiques qui touchent Le dévoreur arcanique lui infligent normalement des dégâts, mais leurs propriétés magiques se retrouvent temporairement réprimés pendant 1d4 rounds. L'objet n'est alors plus considéré comme magique jusqu'à la fin de la durée.
+
+Faille défensive. Lorsque le dévoreur arcanique utilise son attaque ou son incantation innée, elle réprime ses pouvoirs de zone d'absorption de la magie et de résistance à la magie jusqu'au début de son tour suivant.
+
+Perception de la magie. Le dévoreur arcanique détecte automatiquement la magie dans un rayon de 36 mètres. Cela lui permet de localiser instantanément les auras magiques et de connaître leur intensité, mais pas les écoles de magie. Ce pouvoir lui permet également de détecter les créatures usant de sorts ou de pouvoirs magiques.
+
+Incantation innée. Le dévoreur arcanique peut lancer le sort suivant de manière innée sans aucune composante matérielle :
+
 À volonté : excavation
-Résistance à la magie. Le dévoreur arcanique bénéficie
-d'un avantage aux jets de sauvegarde contre
-les sorts et effets magiques.
-Tentacules extensibles. Le dévoreur arcanique
-dispose de deux tentacules extensibles. Chaque
-tentacule a une CA de 20 et 10 PV. La perte d'un
-tentacule n'affecte pas le dévoreur arcanique (les
-dégâts ne s'appliquent pas à son total de points de
-vie). Le tentacule repousse instantanément et est
-remplacé lors de son prochain tour. L'extrémité des
-tentacules est recouverte de petits poils adhésifs
-qui lui permettent d'agripper les objets touchés.
-Zone d'absorption de la magie. Le dévoreur arcanique
-« aspire » la magie dans un rayon de 9 mètres
-autour de lui. En premier lieu, il absorbe les sorts
-actifs dans la zone. Tous les sorts actifs de niveau
-3 ou moins prennent instantanément fin. Pour les
-sorts actifs de niveau 4 ou plus, le dévoreur arcanique
-effectue un jet de Charisme contre un DD 10 +
-niveau du sort. Si le jet est réussi, le sort prend fin.
-Si aucun sort n'est actif dans la zone, chaque
-créature pouvant lancer des sorts (ou pouvoirs
-magique) situé dans la zone doit réussir un jet de sa
-caractéristique pour lancer ses sorts (ou pouvoirs
-magiques) contre un DD 16. En cas d'échec, la cible
-perd un emplacement de sort du plus haut niveau
-disponible. S'il s'agit de pouvoirs magiques, un
-échec signifie que la cible ne pourra plus utiliser
-son pouvoir le plus puissant avant un repos court.
-Si ce pouvoir magique est utilisable à volonté, il ne
-fonctionnera pas plus d'une minute. L'aberration ne
-choisit pas le sort ou le pouvoir absorbé, ce choix se
-fait aléatoirement.
+
+Résistance à la magie. Le dévoreur arcanique bénéficie d'un avantage aux jets de sauvegarde contre les sorts et effets magiques.
+
+Tentacules extensibles. Le dévoreur arcanique dispose de deux tentacules extensibles. Chaque tentacule a une CA de 20 et 10 PV. La perte d'un tentacule n'affecte pas le dévoreur arcanique (les dégâts ne s'appliquent pas à son total de points de vie). Le tentacule repousse instantanément et est remplacé lors de son prochain tour. L'extrémité des tentacules est recouverte de petits poils adhésifs qui lui permettent d'agripper les objets touchés.
+
+Zone d'absorption de la magie. Le dévoreur arcanique « aspire » la magie dans un rayon de 9 mètres autour de lui. En premier lieu, il absorbe les sorts actifs dans la zone. Tous les sorts actifs de niveau 3 ou moins prennent instantanément fin. Pour les sorts actifs de niveau 4 ou plus, le dévoreur arcanique effectue un jet de Charisme contre un DD 10 + niveau du sort. Si le jet est réussi, le sort prend fin.
+
+Si aucun sort n'est actif dans la zone, chaque créature pouvant lancer des sorts (ou pouvoirs magique) situé dans la zone doit réussir un jet de sa caractéristique pour lancer ses sorts (ou pouvoirs magiques) contre un DD 16. En cas d'échec, la cible perd un emplacement de sort du plus haut niveau disponible. S'il s'agit de pouvoirs magiques, un échec signifie que la cible ne pourra plus utiliser son pouvoir le plus puissant avant un repos court.
+
+Si ce pouvoir magique est utilisable à volonté, il ne fonctionnera pas plus d'une minute. L'aberration ne choisit pas le sort ou le pouvoir absorbé, ce choix se fait aléatoirement.
 
 ## Actions
 
-Attaques multiples. Le dévoreur arcanique effectue
-deux attaques avec ses tentacules.
-Tentacule absorbeur de magie. Attaque au corps à
-corps : +12 au toucher, allonge 4,50 m, une cible.
-Touché : un objet magique de la cible est agrippé
-(évasion DD 17). Si l'objet affecté reste agrippé un
-tour complet, le dévoreur arcanique absorbe sa
-magie. Il affecte en premier lieu les boucliers et
-pièces d'armures, puis les objets tenus en main,
-enfin les vêtements et objets sur le corps. Les
-objets magiques aux propriétés permanentes sont
-réprimées pendant 1 minute. L'objet n'est alors
-plus considéré comme magique jusqu'à la fin de la
-durée. Les objets magiques utilisant des charges
-perdent 1 charge par tour de façon permanente, et
-les parchemins et potions perdent un sort ou effet
-magique par tour de façon permanente.
-Rayons prismatiques (recharge 5-6). Le dévoreur
-arcanique attaque parfois en libérant une partie de
-l'énergie magique qu'il a absorbé sous formes de
-rayons prismatiques.
-Chaque créature se trouvant dans un cône de 18
-mètres doit effectuer un jet de sauvegarde de Dextérité
-(DD 16). Pour chaque cible, lancez 1d8 pour
-déterminer la couleur du rayon qui l'affecte.
-1. Rouge. La cible subit 10d6 dégâts de feu en cas
-d'échec à son jet de sauvegarde, ou la moitié de ces
-dégâts en cas de réussite.
-2. Orange. La cible subit 10d6 dégâts d'acide en cas
-d'échec à son jet de sauvegarde, ou la moitié de ces
-dégâts en cas de réussite.
-3. Jaune. La cible subit 10d6 dégâts de foudre en cas
-d'échec à son jet de sauvegarde, ou la moitié de ces
-dégâts en cas de réussite.
-4. Vert. La cible subit 10d6 dégâts de poison en cas
-d'échec à son jet de sauvegarde, ou la moitié de ces
-dégâts en cas de réussite.
-5. Bleu. La cible subit 10d6 dégâts de froid en cas
-d'échec à son jet de sauvegarde, ou la moitié de ces
-dégâts en cas de réussite.
-6. Indigo. En cas d'échec au jet de sauvegarde, la
-cible est entravée. Elle doit alors effectuer un jet de
-sauvegarde de Constitution à la fin de chacun de
-ses tours. Si elle réussit trois fois son jet de sauvegarde,
-le sort prend fin. Si elle échoue trois fois son
-jet de sauvegarde, elle est changée en pierre de
-manière permanente et soumise à l'état spécial «pétrifié
-». Les succès ou échecs n'ont pas besoin d'être
-consécutifs ; gardez une trace de vos échecs et de
-vos réussites à chaque tour jusqu'à ce que vous en
-ayez 3 dans une catégorie.
-7. Violet. En cas d'échec, la cible est aveuglée. Elle
-doit alors effectuer un jet de sauvegarde de Sagesse
-au début de votre prochain tour. Si ce nouveau
-jet de sauvegarde est réussi, l'aveuglement prend
-fin. Si elle échoue ce nouveau jet de sauvegarde,
-la créature est transportée dans un autre plan
-d'existence que le MJ choisit et n'est plus aveuglée
-(typiquement, une créature qui ne se situe pas sur
-son plan d'origine y est renvoyée, tandis que les
-autres créatures sont généralement transportées
-dans le plan Astral ou le plan Éthéré).
+Attaques multiples. Le dévoreur arcanique effectue deux attaques avec ses tentacules.
+
+Tentacule absorbeur de magie. Attaque au corps à corps : +12 au toucher, allonge 4,50 m, une cible.
+
+Touché : un objet magique de la cible est agrippé (évasion DD 17). Si l'objet affecté reste agrippé un tour complet, le dévoreur arcanique absorbe sa magie. Il affecte en premier lieu les boucliers et pièces d'armures, puis les objets tenus en main, enfin les vêtements et objets sur le corps. Les objets magiques aux propriétés permanentes sont réprimées pendant 1 minute. L'objet n'est alors plus considéré comme magique jusqu'à la fin de la durée. Les objets magiques utilisant des charges perdent 1 charge par tour de façon permanente, et les parchemins et potions perdent un sort ou effet magique par tour de façon permanente.
+
+Rayons prismatiques (recharge 5-6). Le dévoreur arcanique attaque parfois en libérant une partie de l'énergie magique qu'il a absorbé sous formes de rayons prismatiques.
+
+Chaque créature se trouvant dans un cône de 18 mètres doit effectuer un jet de sauvegarde de Dextérité (DD 16). Pour chaque cible, lancez 1d8 pour déterminer la couleur du rayon qui l'affecte.
+
+1. Rouge. La cible subit 10d6 dégâts de feu en cas d'échec à son jet de sauvegarde, ou la moitié de ces dégâts en cas de réussite.
+
+2. Orange. La cible subit 10d6 dégâts d'acide en cas d'échec à son jet de sauvegarde, ou la moitié de ces dégâts en cas de réussite.
+
+3. Jaune. La cible subit 10d6 dégâts de foudre en cas d'échec à son jet de sauvegarde, ou la moitié de ces dégâts en cas de réussite.
+
+4. Vert. La cible subit 10d6 dégâts de poison en cas d'échec à son jet de sauvegarde, ou la moitié de ces dégâts en cas de réussite.
+
+5. Bleu. La cible subit 10d6 dégâts de froid en cas d'échec à son jet de sauvegarde, ou la moitié de ces dégâts en cas de réussite.
+
+6. Indigo. En cas d'échec au jet de sauvegarde, la cible est entravée. Elle doit alors effectuer un jet de sauvegarde de Constitution à la fin de chacun de ses tours. Si elle réussit trois fois son jet de sauvegarde, le sort prend fin. Si elle échoue trois fois son jet de sauvegarde, elle est changée en pierre de manière permanente et soumise à l'état spécial «pétrifié ». Les succès ou échecs n'ont pas besoin d'être consécutifs ; gardez une trace de vos échecs et de vos réussites à chaque tour jusqu'à ce que vous en ayez 3 dans une catégorie.
+
+7. Violet. En cas d'échec, la cible est aveuglée. Elle doit alors effectuer un jet de sauvegarde de Sagesse au début de votre prochain tour. Si ce nouveau jet de sauvegarde est réussi, l'aveuglement prend fin. Si elle échoue ce nouveau jet de sauvegarde, la créature est transportée dans un autre plan d'existence que le MJ choisit et n'est plus aveuglée (typiquement, une créature qui ne se situe pas sur son plan d'origine y est renvoyée, tandis que les autres créatures sont généralement transportées dans le plan Astral ou le plan Éthéré).
+
 8. Spécial. La cible est frappée par deux rayons.
+
 Relancez deux fois le dé et rejouez tous les 8.
 
 
