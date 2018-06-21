@@ -168,13 +168,13 @@ namespace AideDeJeu.ViewModels
             if (file == "spells_hd")
             {
                 var spells = await GetItemsViewModel(ItemSourceType.SpellHD).GetAllItemsAsync();
-                var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Id) == anchor).FirstOrDefault();
+                var spell = spells.Where(i => i.Id == anchor).FirstOrDefault();
                 await Navigator.GotoSpellDetailPageAsync(spell);
             }
             else if (file == "monsters_hd")
             {
                 var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
-                var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Id) == anchor).FirstOrDefault();
+                var monster = monsters.Where(i => i.Id == anchor).FirstOrDefault();
                 await Navigator.GotoMonsterDetailPageAsync(monster);
             }
         }

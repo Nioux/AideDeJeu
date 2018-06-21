@@ -52,7 +52,8 @@ namespace AideDeJeu.Tools
                             //yield return spell;
                         }
                         spell = new Spell();
-                        spell.Id = spell.IdVF = spell.IdVO = spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
+                        spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
+                        spell.Id = spell.IdVF = spell.IdVO = Tools.Helpers.IdFromName(spell.Name);
                         //Console.WriteLine(spell.Name);
                     }
                 }
@@ -192,6 +193,7 @@ namespace AideDeJeu.Tools
                         }
                         monster = new Monster();
                         monster.Name = monster.NamePHB = headingBlock.Inline.ToContainerString();
+                        monster.Id = monster.IdVF = monster.IdVO = Tools.Helpers.IdFromName(monster.Name);
                         //Console.WriteLine(spell.Name);
                     }
                     if (headingBlock.HeaderChar == '#' && headingBlock.Level == 2)
