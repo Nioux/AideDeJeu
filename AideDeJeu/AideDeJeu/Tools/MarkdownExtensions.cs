@@ -164,6 +164,7 @@ namespace AideDeJeu.Tools
             List<string> features = null;
             List<string> specialFeatures = null;
             List<string> actions = null;
+            List<string> reactions = null;
             List<string> legendaryActions = null;
             foreach (var block in document)
             {
@@ -179,9 +180,11 @@ namespace AideDeJeu.Tools
                         {
                             monster.SpecialFeatures = specialFeatures;
                             monster.Actions = actions;
+                            monster.Reactions = reactions;
                             monster.LegendaryActions = legendaryActions;
                             specialFeatures = null;
                             actions = null;
+                            reactions = null;
                             legendaryActions = null;
                             features = null;
                             monsters.Add(monster);
@@ -200,6 +203,9 @@ namespace AideDeJeu.Tools
                                 break;
                             case "Actions":
                                 features = actions = new List<string>();
+                                break;
+                            case "Réactions":
+                                features = reactions = new List<string>();
                                 break;
                             case "Actions légendaires":
                                 features = legendaryActions = new List<string>();
@@ -336,6 +342,7 @@ namespace AideDeJeu.Tools
             {
                 monster.SpecialFeatures = specialFeatures;
                 monster.Actions = actions;
+                monster.Reactions = reactions;
                 monster.LegendaryActions = legendaryActions;
                 monsters.Add(monster);
                 //yield return monster;
