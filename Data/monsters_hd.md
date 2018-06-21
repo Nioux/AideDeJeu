@@ -273,35 +273,35 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 ## Capacités
 
-Armes angéliques. Les attaques d'arme du solar sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 6d8 dégâts radiants supplémentaires (inclus dans l'attaque).
+**_Armes angéliques._** Les attaques d'arme du solar sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 6d8 dégâts radiants supplémentaires (inclus dans l'attaque).
 
-Incantation innée. La caractéristique d'incantation du solar est le Charisme (DD du jet de sauvegarde contre les sorts 25). Le solar peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+**_Incantation innée._** La caractéristique d'incantation du solar est le Charisme (DD du jet de sauvegarde contre les sorts 25). Le solar peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-À volonté : détection du mal et du bien, invisibilité (soi-même uniquement)
+**À volonté :** détection du mal et du bien, invisibilité (soi-même uniquement)
 
-3/jour chacun : barrière de lames, dissipation du mal et du bien, résurrection
+**3/jour chacun :** barrière de lames, dissipation du mal et du bien, résurrection
 
-1/jour chacun : communion, contrôle du climat
+**1/jour chacun :** communion, contrôle du climat
 
-Résistance à la magie. Le solar obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+**_Résistance à la magie._** Le solar obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
-Vigilance divine. Le solar reconnaît un mensonge lorsqu'il entend quelqu'un le prononcer.
+**_Vigilance divine._** Le solar reconnaît un mensonge lorsqu'il entend quelqu'un le prononcer.
 
 ## Actions
 
-Attaques multiples. Le solar effectue deux attaques à l'épée à deux mains.
+**_Attaques multiples._** Le solar effectue deux attaques à l'épée à deux mains.
 
-Arc long tueur. Attaque d'arme à distance : +13 pour toucher, portée 45/180 m, une cible. 
+**_Arc long tueur._** Attaque d'arme à distance : +13 pour toucher, portée 45/180 m, une cible. 
 
-Touché : 15 (2d8+6) dégâts perforants plus 27 (6d8) dégâts radiants. Si la cible est une créature avec 100 points de vie ou moins, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas mourir.
+_Touché :_ 15 (2d8+6) dégâts perforants plus 27 (6d8) dégâts radiants. Si la cible est une créature avec 100 points de vie ou moins, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas mourir.
 
-Contact curatif (4/jour). Le solar touche une autre créature. La cible récupère 40 (8d8+4) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et assourdi.
+**_Contact curatif (4/jour)._** Le solar touche une autre créature. La cible récupère 40 (8d8+4) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et assourdi.
 
-Épée à deux mains. Attaque d'arme au corps à corps : +15 pour toucher, allonge 1,50 m, une cible.
+**_Épée à deux mains._** Attaque d'arme au corps à corps : +15 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 22 (4d6+8) dégâts tranchants plus 27 (6d8) dégâts radiants.
+_Touché :_ 22 (4d6+8) dégâts tranchants plus 27 (6d8) dégâts radiants.
 
-Épée volante. Le solar lâche son épée à deux mains pour qu'elle s'envole par magie vers un emplacement inoccupé situé à 1,50 mètre ou moins de lui.
+**_Épée volante._** Le solar lâche son épée à deux mains pour qu'elle s'envole par magie vers un emplacement inoccupé situé à 1,50 mètre ou moins de lui.
 
 Si l'épée est dans son champ de vision, le solar peut mentalement lui ordonner, par une action bonus, de voler sur une distance maximale de 15 mètres et soit d'effectuer une attaque contre une cible, soit de revenir dans ses mains. Si l'épée en vol est la cible d'un quelconque effet, on considère que le solar la tient en main. L'épée en vol tombe inerte dès que le solar meurt.
 
@@ -309,11 +309,11 @@ Si l'épée est dans son champ de vision, le solar peut mentalement lui ordonner
 
 Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Il ne peut en choisir qu'un seule à la fois et uniquement à la fin du tour d'une autre créature. Le solar récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
 
-Explosion brûlante (coûte 2 actions). Le solar produit de l'énergie magique de nature divine. Chaque créature de son choix située dans un rayon de 3 mètres doit effectuer un jet de sauvegarde de Dextérité DD 23. Celles qui échouent subissent 14 (4d6) dégâts de feu plus 14 (4d6) dégâts radiants, les autres la moitié de ces dégâts seulement.
+**_Explosion brûlante (coûte 2 actions)._** Le solar produit de l'énergie magique de nature divine. Chaque créature de son choix située dans un rayon de 3 mètres doit effectuer un jet de sauvegarde de Dextérité DD 23. Celles qui échouent subissent 14 (4d6) dégâts de feu plus 14 (4d6) dégâts radiants, les autres la moitié de ces dégâts seulement.
 
-Regard aveuglant (coûte 3 actions). Le solar cible une créature située à 9 mètres ou moins de lui et dans son champ de vision. Si la cible peut le voir, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être aveuglée jusqu'à ce qu'un effet magique, tel que celui produit par un sort de restauration inférieure, dissipe l'aveuglement.
+**_Regard aveuglant (coûte 3 actions)._** Le solar cible une créature située à 9 mètres ou moins de lui et dans son champ de vision. Si la cible peut le voir, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être aveuglée jusqu'à ce qu'un effet magique, tel que celui produit par un sort de restauration inférieure, dissipe l'aveuglement.
 
-Téléportation. Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+**_Téléportation._** Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
 # Ankheg
@@ -332,11 +332,11 @@ Téléportation. Le solar se téléporte par magie, avec tous ses objets portés
 
 ## Actions
 
-Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la cible est une créature de taille G ou plus petite, elle est empoignée (DD 13 pour se libérer). Jusqu'à la fin de cette empoignade, l'ankheg peut mordre uniquement la créature empoignée et il obtient un avantage lors des jets d'attaque effectués contre elle.
+_Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la cible est une créature de taille G ou plus petite, elle est empoignée (DD 13 pour se libérer). Jusqu'à la fin de cette empoignade, l'ankheg peut mordre uniquement la créature empoignée et il obtient un avantage lors des jets d'attaque effectués contre elle.
 
-Aspersion acide (Recharge 6). L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
+**_Aspersion acide (Recharge 6)._** L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Azer
