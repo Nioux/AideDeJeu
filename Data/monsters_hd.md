@@ -25,7 +25,7 @@
 
 ## Actions
 
-**_Asservir (3/jour)._** L'aboleth cible une créature située à 9 mètres ou moins et dans son champ de vision. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être magiquement _[charmée]_ par l'aboleth. Le charme disparaît quand l'aboleth meurt ou s'il se trouve sur un plan d'existence différent de celui de la cible. La cible _charmée_ est sous le contrôle de l'aboleth et ne peut entreprendre aucune réaction. L'aboleth et la cible peuvent communiquer par télépathie, quelle que soit la distance qui les sépare. Chaque fois que la cible _charmée_ subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. La cible peut retenter le jet de sauvegarde dès que l'aboleth s'éloigne de plus de 1,5 kilomètre d'elle, mais pas plus d'une fois toutes les 24 heures.
+**_Asservir (3/jour)._** L'aboleth cible une créature située à 9 mètres ou moins et dans son champ de vision. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être magiquement _[charmée]_ par l'aboleth. Le charme disparaît quand l'aboleth meurt ou s'il se trouve sur un plan d'existence différent de celui de la cible. La cible _[charmée]_ est sous le contrôle de l'aboleth et ne peut entreprendre aucune réaction. L'aboleth et la cible peuvent communiquer par télépathie, quelle que soit la distance qui les sépare. Chaque fois que la cible _[charmée]_ subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. La cible peut retenter le jet de sauvegarde dès que l'aboleth s'éloigne de plus de 1,5 kilomètre d'elle, mais pas plus d'une fois toutes les 24 heures.
 
 **_Attaques multiples._** L'aboleth effectue trois attaques de tentacule.
 
@@ -39,7 +39,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants. Si la cible est une créature, elle
 
 ## Actions légendaires
 
-L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Il ne peut en choisir qu'une seule à la fois et uniquement à la fin du tour d'une autre créature. L'aboleth récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
+L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Il ne peut en choisir qu'une seule à la fois et uniquement à la fin du tour d'une autre créature. L'aboleth récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.[cool]
 
 **Balayage de la queue.** L'aboleth effectue une attaque de queue.
 
@@ -48,6 +48,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **Succion psychique (coûte 2 actions).** Une créature charmée par l'aboleth subit 10 (3d6) dégâts psychiques et l'aboleth récupère un nombre de points de vie égal aux dégâts subis par la créature.
 
 [charmée]: spells_hd.md#charme-personne "Sort : Charme personne"
+
 
 # Abothid
 - Aberration de taille M, loyal mauvais

@@ -161,21 +161,30 @@ namespace AideDeJeu.ViewModels
 
         public async Task NavigateToLink(string s)
         {
-            var regex = new Regex("/(?<file>.*)\\.md#(?<anchor>.*)");
-            var match = regex.Match(s);
-            var file = match.Groups["file"].Value;
-            var anchor = match.Groups["anchor"].Value;
-            if (file == "spells_hd")
+            if (s != null)
             {
-                var spells = await GetItemsViewModel(ItemSourceType.SpellHD).GetAllItemsAsync();
-                var spell = spells.Where(i => i.Id == anchor).FirstOrDefault();
-                await Navigator.GotoSpellDetailPageAsync(spell);
-            }
-            else if (file == "monsters_hd")
-            {
-                var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
-                var monster = monsters.Where(i => i.Id == anchor).FirstOrDefault();
-                await Navigator.GotoMonsterDetailPageAsync(monster);
+                var regex = new Regex("/(?<file>.*)\\.md#(?<anchor>.*)");
+                var match = regex.Match(s);
+                var file = match.Groups["file"].Value;
+                var anchor = match.Groups["anchor"].Value;
+                if (file == "spells_hd")
+                {
+                    var spells = await GetItemsViewModel(ItemSourceType.SpellHD).GetAllItemsAsync();
+                    var spell = spells.Where(i => i.Id == anchor).FirstOrDefault();
+                    if (spell != null)
+                    {
+                        await Navigator.GotoSpellDetailPageAsync(spell);
+                    }
+                }
+                else if (file == "monsters_hd")
+                {
+                    var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
+                    var monster = monsters.Where(i => i.Id == anchor).FirstOrDefault();
+                    if (monster != null)
+                    {
+                        await Navigator.GotoMonsterDetailPageAsync(monster);
+                    }
+                }
             }
         }
 
