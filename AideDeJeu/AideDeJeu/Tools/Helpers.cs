@@ -53,5 +53,16 @@ namespace AideDeJeu.Tools
             return new string(chars).Normalize(NormalizationForm.FormC);
         }
 
+        public static string Capitalize(string text)
+        {
+            return string.Concat(text.Take(1)).ToUpper() + string.Concat(text.Skip(1)).ToString().ToLower();
+        }
+
+        public static string IdFromName(string name)
+        {
+            return RemoveDiacritics(name.ToLower().Replace(" ", "-"));
+        }
+
+
     }
 }

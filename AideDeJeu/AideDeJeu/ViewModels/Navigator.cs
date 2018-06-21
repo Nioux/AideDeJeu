@@ -5,6 +5,7 @@ using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -51,5 +52,7 @@ namespace AideDeJeu.ViewModels
             vm.LoadItemCommand.Execute(null);
             await Navigation.PushAsync(new SpellDetailPage(vm));
         }
+
+
     }
 }

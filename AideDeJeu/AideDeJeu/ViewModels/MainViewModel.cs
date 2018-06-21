@@ -2,6 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Linq;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
@@ -155,5 +158,26 @@ namespace AideDeJeu.ViewModels
                     await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
                 });
         }
+
+        public async Task NavigateToLink(string s)
+        {
+            var regex = new Regex("/(?<file>.*)\\.md#(?<anchor>.*)");
+            var match = regex.Match(s);
+            var file = match.Groups["file"].Value;
+            var anchor = match.Groups["anchor"].Value;
+            if (file == "spells_hd")
+            {
+                var spells = await GetItemsViewModel(ItemSourceType.SpellHD).GetAllItemsAsync();
+                var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Id) == anchor).FirstOrDefault();
+                await Navigator.GotoSpellDetailPageAsync(spell);
+            }
+            else if (file == "monsters_hd")
+            {
+                var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
+                var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Id) == anchor).FirstOrDefault();
+                await Navigator.GotoMonsterDetailPageAsync(monster);
+            }
+        }
+
     }
 }

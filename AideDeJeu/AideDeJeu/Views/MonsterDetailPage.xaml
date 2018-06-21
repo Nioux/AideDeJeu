@@ -89,11 +89,11 @@
 
             <Label Text="Réactions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />
             <!--<Label FormattedText="{Binding Item.Reactions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />-->
-            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Reactions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />
+            <mdview:MarkdownView x:Name="mdReactions" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Reactions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions légendaires" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
             <!--<Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />-->
-            <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
+            <mdview:MarkdownView x:Name="mdLegendaryActions" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
 
             <!--<ListView ItemsSource="{Binding Item.SpecialFeaturesNodes}">
                 <ListView.ItemTemplate>
