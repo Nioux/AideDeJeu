@@ -337,6 +337,17 @@ namespace AideDeJeu.Tools
                     monster.Wisdom = table["SAG"].FirstOrDefault();
                     monster.Charisma = table["CHA"].FirstOrDefault();
                 }
+                else if(block is Markdig.Syntax.LinkReferenceDefinitionGroup)
+                {
+                    
+                    var linkReferenceDefinitionGroup = block as Markdig.Syntax.LinkReferenceDefinitionGroup;
+                    
+                    foreach (var linkBlock in linkReferenceDefinitionGroup)
+                    {
+                        var linkReferenceDefinition = linkBlock as Markdig.Syntax.LinkReferenceDefinition;
+                        //linkReferenceDefinition.
+                    }
+                }
             }
             if (monster != null)
             {
@@ -379,6 +390,11 @@ namespace AideDeJeu.Tools
                         delimiterChar += delimiterChar;
                     }
                     add = delimiterChar + emphasisInline.ToContainerString() + delimiterChar;
+                }
+                else if (inline is Markdig.Syntax.Inlines.LinkInline)
+                {
+                    var linkInline = inline as Markdig.Syntax.Inlines.LinkInline;
+                    add = string.Format($"[{linkInline.Label}]({linkInline.Url} \"{linkInline.Title}\")", linkInline.Label); //containerInline.ToContainerString();
                 }
                 else if (inline is Markdig.Syntax.Inlines.ContainerInline)
                 {
