@@ -126,11 +126,10 @@ namespace AideDeJeu.ViewModels
         public Command LoadItemsCommand { get; private set; }
         public Command<Item> GotoItemCommand { get; private set; }
 
-        public Command SwitchToSpells { get; private set; }
-        public Command SwitchToMonsters { get; private set; }
-        //public Command SwitchToVF { get; private set; }
-        public Command SwitchToVO { get; private set; }
-        public Command SwitchToHD { get; private set; }
+        public Command SwitchToSpellsHD { get; private set; }
+        public Command SwitchToMonstersHD { get; private set; }
+        public Command SwitchToSpellsVO { get; private set; }
+        public Command SwitchToMonstersVO { get; private set; }
         public Command AboutCommand { get; private set; }
         public Command<string> SearchCommand { get; private set; }
 
@@ -145,12 +144,11 @@ namespace AideDeJeu.ViewModels
             GotoItemCommand = new Command<Item>(async (item) =>
             {
                 await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item);
-            }); 
-            SwitchToSpells = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Monster) | ItemSourceType.Spell);
-            SwitchToMonsters = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.Spell) | ItemSourceType.Monster);
-            //SwitchToVF = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO & ~ItemSourceType.HD) | ItemSourceType.VF);
-            SwitchToVO = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.HD) | ItemSourceType.VO);
-            SwitchToHD = new Command(() => ItemSourceType = (ItemSourceType & ~ItemSourceType.VO) | ItemSourceType.HD);
+            });
+            SwitchToSpellsHD = new Command(() => ItemSourceType = ItemSourceType.SpellHD);
+            SwitchToMonstersHD = new Command(() => ItemSourceType = ItemSourceType.MonsterHD);
+            SwitchToSpellsVO = new Command(() => ItemSourceType = ItemSourceType.SpellVO);
+            SwitchToMonstersVO = new Command(() => ItemSourceType = ItemSourceType.MonsterVO);
             AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
             SearchCommand = new Command<string>(async (text) =>
                 {

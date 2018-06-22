@@ -127,12 +127,12 @@ namespace AideDeJeu.ViewModels
                 return items.Where(item =>
                 {
                     var spell = item as Spell;
-                    return //(int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
-                        //(int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
-                        //spell.Type.ToLower().Contains(ecole.ToLower()) &&
+                    return (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
+                        (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
+                        spell.Type.ToLower().Contains(ecole.ToLower()) &&
                         spell.Source.Contains(source) &&
                         spell.Source.Contains(classe) &&
-                        //spell.Type.Contains(rituel) &&
+                        spell.Type.Contains(rituel) &&
                         Helpers.RemoveDiacritics(spell.NamePHB).ToLower().Contains(Helpers.RemoveDiacritics(SearchText).ToLower());
                 }).OrderBy(spell => spell.NamePHB)
                             .AsEnumerable();
@@ -374,8 +374,8 @@ namespace AideDeJeu.ViewModels
                 {
                     var monster = item as Monster;
                     return 
-                        //monster.Type.Contains(type) &&
-                        //(string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
+                        monster.Type.Contains(type) &&
+                        (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
                         monster.Source.Contains(source) &&
                         powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
                         powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
