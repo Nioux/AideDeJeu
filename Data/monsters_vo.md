@@ -57,7 +57,6 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Medicine +4, Religion +2
 - **Senses** passive Perception 12
 - **Languages** any one language (usually Common)
@@ -89,7 +88,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|15 (+2)|10 (+0)| 2 (-4)|14 (+2)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** passive Perception 14
 - **Languages** -
@@ -117,7 +115,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** passive Perception 14
 - **Languages** Giant Eagle understands Common and Auran but can't speak them
@@ -149,7 +146,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|13 (+1)|17 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +5
 - **Senses** passive Perception 15
 - **Languages** -
@@ -184,6 +180,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Senses** truesight 120 ft., passive Perception 20
 - **Languages** Common, Sphinx
 - **Challenge** 17 (18000 XP)
+- **Damage Immunities** psychic; bludgeoning, piercing and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -245,8 +242,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|13 (+1)| 1 (-5)|13 (+1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 2 (450 XP)
@@ -271,8 +266,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** -
 - **Challenge** 3 (700 XP)
@@ -295,7 +288,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|14 (+2)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
 
-- **Saving Throws** 
 - **Skills** Stealth +4
 - **Senses** darkvision 30 ft., passive Perception 10
 - **Languages** -
@@ -327,7 +319,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|15 (+2)|12 (+1)| 6 (-2)|10 (+0)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Stealth +6
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** -
@@ -359,7 +350,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|16 (+3)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Stealth +7
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 - **Languages** -
@@ -393,7 +383,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|16 (+3)|13 (+1)| 3 (-4)|12 (+1)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +7
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
 - **Languages** -
@@ -425,11 +414,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** one language known by its creator
 - **Challenge** 2 (450 XP)
+- **Damage Resistances** bludgeoning, piercing
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -453,11 +442,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 8 (-1)|11 (+0)|10 (+0)|10 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** one language known by its creator
 - **Challenge** 0 (10 XP)
+- **Damage Resistances** piercing
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -486,6 +475,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** passive Perception 12
 - **Languages** any six languages
 - **Challenge** 12 (8400 XP)
+- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from
 
 ### Special Features
 
@@ -533,11 +523,10 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** poison, psychic
 
 ### Special Features
 
@@ -570,6 +559,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 - **Senses** passive Perception 13
 - **Languages** Thieves' cant plus any two languages
 - **Challenge** 8 (3900 XP)
+- **Damage Resistances** poison
 
 ### Special Features
 
@@ -602,10 +592,10 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 |17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
 
 - **Saving Throws** Con +4
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** Ignan
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** fire, poison
 
 ### Special Features
 
@@ -633,8 +623,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -661,8 +649,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 2 (450 XP)
@@ -698,10 +684,11 @@ Speed reduced to 0 until the start of its next turn.
 |26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
 
 - **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 13
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 19 (22000 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -737,8 +724,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8 (25 XP)
@@ -794,10 +779,11 @@ Speed reduced to 0 until the start of its next turn.
 | 1 (-5)|14 (+2)|10 (+0)|12 (+1)|11 (+0)|17 (+3)|
 
 - **Saving Throws** Wis +2, Cha +5
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Common, Elvish
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** cold, necrotic, poison
+- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -827,8 +813,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 3 (700 XP)
@@ -855,8 +839,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -879,7 +861,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|16 (+3)| 8 (-1)| 2 (-4)|12 (+1)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +5
 - **Senses** passive Perception 13
 - **Languages** -
@@ -907,7 +888,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|10 (+0)| 4 (-3)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** -
@@ -935,8 +915,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|17 (+3)| 9 (-1)|11 (+0)| 9 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
 - **Challenge** 2 (450 XP)
@@ -963,8 +941,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|11 (+0)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -991,8 +967,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|10 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -1023,11 +997,11 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)| 8 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Common
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** necrotic
 
 ### Special Features
 
@@ -1055,11 +1029,11 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|13 (+1)|12 (+1)| 4 (-3)| 8 (-1)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Stealth +3
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
 - **Languages** understands Common but can't speak
 - **Challenge** 1/8 (25 XP)
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -1083,7 +1057,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +6
 - **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
 - **Languages** -
@@ -1113,11 +1086,11 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
 
-- **Saving Throws** 
 - **Skills** Perception +6, Stealth +7
 - **Senses** darkvision 90 ft., passive Perception 16
 - **Languages** Draconic
 - **Challenge** 11 (7200 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -1145,7 +1118,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|14 (+2)| 9 (-1)|13 (+1)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Athletics +6, Perception +3, Survival +3
 - **Senses** passive Perception 13
 - **Languages** Elvish, Sylvan
@@ -1179,7 +1151,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|15 (+2)|11 (+0)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -1209,8 +1180,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|14 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 9
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -1233,7 +1202,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|15 (+2)|10 (+0)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4
 - **Senses** passive Perception 13
 - **Languages** -
@@ -1261,8 +1229,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|15 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -1291,8 +1257,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|16 (+3)|11 (+0)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -1321,8 +1285,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
@@ -1349,8 +1311,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -1373,8 +1333,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -1398,7 +1356,6 @@ Speed reduced to 0 until the start of its next turn.
 |16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 
 - **Saving Throws** Con +4, Wis +2
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
 - **Challenge** 3 (700 XP)
@@ -1433,8 +1390,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|11 (+0)| 2 (-4)|14 (+2)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 12
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -1457,7 +1412,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|14 (+2)| 3 (-4)|13 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +5, Stealth +4
 - **Senses** darkvision 120 ft., passive Perception 15
 - **Languages** -
@@ -1487,7 +1441,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +5
 - **Senses** passive Perception 13
 - **Languages** Blink Dog understands Sylvan but can't speak it
@@ -1517,7 +1470,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +8
 - **Senses** darkvision 60 ft., passive Perception 18
 - **Languages** understands Draconic but can't speak
@@ -1549,7 +1501,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +3
 - **Senses** darkvision 120 ft., passive Perception 13
 - **Languages** -
@@ -1579,7 +1530,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|12 (+1)| 8 (-1)|13 (+1)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +5, Stealth +4
 - **Senses** darkvision 120 ft., passive Perception 15
 - **Languages** Giant Owl understands Common, Elvish, and
@@ -1609,11 +1559,11 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 5 (-3)|11 (+0)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** understands Deep Speech but can't speak
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -1643,8 +1593,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -1673,8 +1621,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
@@ -1703,8 +1649,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|12 (+1)|12 (+1)| 2 (-4)|13 (+1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
@@ -1727,7 +1671,6 @@ Speed reduced to 0 until the start of its next turn.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|14 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -1756,10 +1699,11 @@ Speed reduced to 0 until the start of its next turn.
 |16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
 
 - **Saving Throws** Con +5, Wis +7, Cha +6
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 15
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Resistances** radiant
 
 ### Special Features
 
@@ -1797,7 +1741,6 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
 
-- **Saving Throws** 
 - **Skills** Stealth +2
 - **Senses** blindsight 30 ft., passive Perception 9
 - **Languages** -
@@ -1825,7 +1768,6 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Stealth +4
 - **Senses** blindsight 30 ft., passive Perception 9
 - **Languages** -
@@ -1853,8 +1795,6 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1 (200 XP)
@@ -1885,8 +1825,6 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -1911,7 +1849,6 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Stealth +2
 - **Senses** passive Perception 10
 - **Languages** -
@@ -1939,7 +1876,6 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Stealth +5
 - **Senses** passive Perception 10
 - **Languages** -
@@ -1971,11 +1907,12 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|17 (+3)|14 (+2)|16 (+3)|10 (+0)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Arcana +5, Perception +2
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Common
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** cold, fire, poison
+- **Damage Resistances** lightning, necrotic, piercing
 
 ### Special Features
 
@@ -2015,8 +1952,6 @@ Cantrip (at will): _[mage hand]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 2 (450 XP)
@@ -2047,8 +1982,6 @@ Cantrip (at will): _[mage hand]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|11 (+0)|20 (+5)| 8 (-1)| 6 (-2)|10 (+0)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 8
 - **Languages** Giant
 - **Challenge** 6 (2300 XP)
@@ -2079,11 +2012,10 @@ Cantrip (at will): _[mage hand]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** understands Abyssal, Common, and Infernal but can't speak
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -2116,6 +2048,8 @@ Cantrip (at will): _[mage hand]_
 - **Senses** darkvision 120 ft., passive Perception 18
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2150,10 +2084,11 @@ Cantrip (at will): _[mage hand]_
 |16 (+3)|15 (+2)|15 (+2)| 9 (-1)|11 (+0)|11 (+0)|
 
 - **Saving Throws** Str +5, Con +4, Wis +2
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 10
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2186,10 +2121,11 @@ Cantrip (at will): _[mage hand]_
 |22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
 
 - **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 13
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 11 (7200 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 ### Special Features
 
@@ -2222,10 +2158,11 @@ Cantrip (at will): _[mage hand]_
 |18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 
 - **Saving Throws** Con +7, Wis +4, Cha +5
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 11
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 8 (3900 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2258,10 +2195,11 @@ Cantrip (at will): _[mage hand]_
 |21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
 
 - **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
-- **Skills** 
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 14 (11500 XP)
+- **Damage Immunities** cold, fire, poison
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2300,6 +2238,8 @@ Cantrip (at will): _[mage hand]_
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 9 (5000 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2329,11 +2269,12 @@ Cantrip (at will): _[mage hand]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 
-- **Saving Throws** 
 - **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
 - **Senses** darkvision 120 ft., passive Perception 11
 - **Languages** Infernal, Common
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2364,10 +2305,11 @@ Cantrip (at will): _[mage hand]_
 |26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
 
 - **Saving Throws** Dex +8, Con +13, Wis +10
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 14
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 20 (25000 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -2410,10 +2352,10 @@ At will: _[detect magic], [fireball]_
 |21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
 
 - **Saving Throws** Dex +6, Wis +7, Cha +9
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 13
 - **Languages** Auran
 - **Challenge** 11 (7200 XP)
+- **Damage Immunities** lightning, thunder
 
 ### Special Features
 
@@ -2449,7 +2391,6 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
 
-- **Saving Throws** 
 - **Skills** Deception +6, Insight +3
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** Common
@@ -2490,6 +2431,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 - **Languages** Common, Draconic
 - **Challenge** 13 (10000 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -2540,6 +2482,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
 - **Languages** Common, Draconic
 - **Challenge** 20 (25000 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -2590,6 +2533,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 - **Languages** Common, Draconic
 - **Challenge** 6 (2300 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -2624,6 +2568,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -2650,6 +2595,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 - **Languages** Common, Draconic
 - **Challenge** 16 (15000 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -2698,6 +2644,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 - **Languages** Common, Draconic
 - **Challenge** 23 (50000 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -2746,6 +2693,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 - **Languages** Common, Draconic
 - **Challenge** 9 (5000 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -2776,6 +2724,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -2802,6 +2751,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 - **Languages** Common, Draconic
 - **Challenge** 13 (10000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -2854,6 +2804,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 - **Languages** Common, Draconic
 - **Challenge** 20 (25000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -2908,6 +2859,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 - **Languages** Common, Draconic
 - **Challenge** 6 (2300 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -2942,6 +2894,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -2972,6 +2925,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 - **Languages** Common, Draconic
 - **Challenge** 16 (15000 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -3026,6 +2980,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 - **Languages** Common, Draconic
 - **Challenge** 23 (50000 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -3080,6 +3035,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages** Common, Draconic
 - **Challenge** 9 (5000 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -3114,6 +3070,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -3144,6 +3101,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
 - **Languages** Common, Draconic
 - **Challenge** 17 (18000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3200,6 +3158,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 - **Languages** Common, Draconic
 - **Challenge** 24 (62000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3256,6 +3215,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
 - **Languages** Common, Draconic
 - **Challenge** 10 (5900 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3294,6 +3254,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3328,6 +3289,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 - **Languages** Common, Draconic
 - **Challenge** 15 (13000 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -3384,6 +3346,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 - **Languages** Common, Draconic
 - **Challenge** 22 (41000 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -3440,6 +3403,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 - **Languages** Common, Draconic
 - **Challenge** 8 (3900 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -3478,6 +3442,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** lightning
 
 ### Special Features
 
@@ -3512,6 +3477,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 - **Languages** Common, Draconic
 - **Challenge** 14 (11500 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3564,6 +3530,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 - **Languages** Common, Draconic
 - **Challenge** 21 (33000 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3618,6 +3585,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 - **Languages** Common, Draconic
 - **Challenge** 7 (2900 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3652,6 +3620,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3682,6 +3651,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
 - **Languages** Common, Draconic
 - **Challenge** 14 (11500 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3732,6 +3702,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 - **Languages** Common, Draconic
 - **Challenge** 21 (33000 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3782,6 +3753,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
 - **Languages** Common, Draconic
 - **Challenge** 7 (2900 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3816,6 +3788,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -3846,6 +3819,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
 - **Languages** Common, Draconic
 - **Challenge** 17 (18000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3894,6 +3868,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
 - **Languages** Common, Draconic
 - **Challenge** 24 (62000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3942,6 +3917,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
 - **Languages** Common, Draconic
 - **Challenge** 10 (5900 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3972,6 +3948,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -3998,6 +3975,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
 - **Languages** Common, Draconic
 - **Challenge** 15 (13000 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -4048,6 +4026,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
 - **Languages** Common, Draconic
 - **Challenge** 22 (41000 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -4098,6 +4077,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
 - **Languages** Common, Draconic
 - **Challenge** 8 (3900 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -4132,6 +4112,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -4158,10 +4139,10 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 |25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
 
 - **Saving Throws** Dex +6, Con +11, Wis +7
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 11
 - **Languages** Aquan, Draconic
 - **Challenge** 17 (18000 XP)
+- **Damage Resistances** fire
 
 ### Special Features
 
@@ -4193,11 +4174,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|11 (+0)|12 (+1)| 5 (-3)| 8 (-1)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning
 
 ### Special Features
 
@@ -4223,7 +4204,6 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
 
-- **Saving Throws** 
 - **Skills** Perception +5, Stealth +9
 - **Senses** darkvision 120 ft., passive Perception 15
 - **Languages** Elvish, Undercommon
@@ -4269,7 +4249,6 @@ At will: _[dancing lights]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +4
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** Elvish, Undercommon
@@ -4307,7 +4286,6 @@ At will: _[dancing lights]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Medicine +4, Nature +3, Perception +4
 - **Senses** passive Perception 14
 - **Languages** Druidic plus any two languages
@@ -4341,7 +4319,6 @@ Cantrips (at will): _[druidcraft], [produce flame], [shillelagh]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
 
-- **Saving Throws** 
 - **Skills** Perception +4, Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** Elvish, Sylvan
@@ -4383,11 +4360,10 @@ At will: _[druidcraft]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)| 9 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 10
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 1 (200 XP)
+- **Damage Resistances** poison
 
 ### Special Features
 
@@ -4424,6 +4400,7 @@ At will: _[druidcraft]_
 - **Senses** darkvision 120 ft., passive Perception 19
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 10 (5900 XP)
+- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -4461,7 +4438,6 @@ At will: _[detect evil and good]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 
-- **Saving Throws** 
 - **Skills** Medicine +7, Persuasion +3, Religion +4
 - **Senses** passive Perception 13
 - **Languages** any two languages
@@ -4499,7 +4475,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|17 (+3)| 7 (-2)|16 (+3)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +6, Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 16
 - **Languages** -
@@ -4537,7 +4512,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
-- **Saving Throws** 
 - **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
 - **Senses** passive Perception 16
 - **Languages** any two languages
@@ -4571,7 +4545,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +8
 - **Senses** passive Perception 13
 - **Languages** Common, Elvish, Sylvan
@@ -4601,7 +4574,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|15 (+2)|13 (+1)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4, Survival +3
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** -
@@ -4639,7 +4611,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** Giant, Orc
@@ -4673,7 +4644,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 
-- **Saving Throws** 
 - **Skills** Deception +4, Persuasion +4, Religion +2
 - **Senses** passive Perception 11
 - **Languages** any one language (usually Common)
@@ -4711,11 +4681,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** the languages it knew in life
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** cold, necrotic, poison
+- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -4747,7 +4717,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|16 (+3)| 8 (-1)| 2 (-4)|14 (+2)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** passive Perception 14
 - **Languages** -
@@ -4775,7 +4744,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|10 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** passive Perception 14
 - **Languages** -
@@ -4805,11 +4773,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** the languages it knew in life
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** lightning, poison
+- **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -4841,7 +4809,6 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** passive Perception 12
 - **Languages** any one language (usually Common)
@@ -4865,11 +4832,10 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 - **Languages** understands commands given in any language but can't speak
 - **Challenge** 7 (2900 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -4901,11 +4867,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|16 (+3)| 6 (-2)|11 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Terran
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
 ### Special Features
 
@@ -4933,11 +4899,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** lightning, slashing
+- **Damage Resistances** acid
 
 ### Special Features
 
@@ -4966,10 +4932,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 |20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
 
 - **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 13
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 9 (5000 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -5039,8 +5006,6 @@ At will: _[darkness], [detect magic], [dispel magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Gnoll
 - **Challenge** 1/2 (100 XP)
@@ -5071,7 +5036,6 @@ At will: _[darkness], [detect magic], [dispel magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)| 9 (-1)|
 
-- **Saving Throws** 
 - **Skills** Investigation +3, Perception +2, Stealth +4
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** Gnomish, Terran, Undercommon
@@ -5109,7 +5073,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|14 (+2)|10 (+0)|10 (+0)| 8 (-1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Stealth +6
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** Common, Goblin
@@ -5139,7 +5102,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|13 (+1)| 8 (-1)|11 (+0)| 9 (-1)|
 
-- **Saving Throws** 
 - **Skills** Stealth +6, Survival +2
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Common, Goblin
@@ -5171,11 +5133,10 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 9 (5000 XP)
+- **Damage Immunities** acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine
 
 ### Special Features
 
@@ -5211,11 +5172,10 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
 ### Special Features
 
@@ -5251,11 +5211,10 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 10
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 16 (15000 XP)
+- **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
 ### Special Features
 
@@ -5291,11 +5250,10 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 10
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 10 (5900 XP)
+- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
 ### Special Features
 
@@ -5327,7 +5285,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|11 (+0)|18 (+4)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** -
@@ -5359,11 +5316,10 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Common
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -5385,7 +5341,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|14 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Athletics +5, Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -5413,7 +5368,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Perception +1, Stealth +3
 - **Senses** darkvision 30 ft., passive Perception 11
 - **Languages** -
@@ -5439,7 +5393,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +3
 - **Senses** darkvision 30 ft., passive Perception 12
 - **Languages** -
@@ -5471,11 +5424,10 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|14 (+2)|11 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical attacks
 
 ### Special Features
 
@@ -5503,7 +5455,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)| 2 (-4)|13 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +5
 - **Senses** darkvision 60 ft., passive Perception 15
 - **Languages** -
@@ -5535,8 +5486,6 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** Aquan, Common, Giant
 - **Challenge** 2 (450 XP)
@@ -5569,11 +5518,11 @@ At will: _[nondetection]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
 
-- **Saving Throws** 
 - **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
 - **Senses** darkvision 120 ft., passive Perception 16
 - **Languages** Abyssal, Common, Infernal, Primordial
 - **Challenge** 5 (1800 XP)
+- **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 ### Special Features
 
@@ -5609,7 +5558,6 @@ At will: _[detect magic], [magic missile]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 
-- **Saving Throws** 
 - **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** Common, Draconic, Sylvan
@@ -5647,8 +5595,6 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)| 8 (-1)|11 (+0)| 8 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** any one language
 - **Challenge** 1/8 (25 XP)
@@ -5675,8 +5621,6 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|10 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
@@ -5699,11 +5643,12 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
 
-- **Saving Throws** 
 - **Skills** Arcana +12, History +12, Perception +8, Religion +8
 - **Senses** truesight 120 ft., passive Perception 18
 - **Languages** Common, Sphinx
 - **Challenge** 11 (7200 XP)
+- **Damage Immunities** psychic
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -5755,7 +5700,6 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|19 (+4)| 5 (-3)| 9 (-1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** passive Perception 12
 - **Languages** Giant
@@ -5862,6 +5806,8 @@ At will: _[detect magic], [fog cloud], light_
 - **Senses** passive Perception 19
 - **Languages** Common, Giant
 - **Challenge** 13 (10000 XP)
+- **Damage Immunities** lightning, thunder
+- **Damage Resistances** cold
 
 ### Special Features
 
@@ -5902,6 +5848,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Senses** passive Perception 16
 - **Languages** Giant
 - **Challenge** 9 (5000 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -5930,6 +5877,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Senses** passive Perception 13
 - **Languages** Giant
 - **Challenge** 8 (3900 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -5953,8 +5901,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|13 (+1)|12 (+1)| 7 (-2)|10 (+0)|13 (+1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** Common
 - **Challenge** 1 (200 XP)
@@ -5984,10 +5930,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 |19 (+4)|17 (+3)|20 (+5)| 5 (-3)|12 (+1)|13 (+1)|
 
 - **Saving Throws** Str +7, Con +8, Wis +4
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 11
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 8 (3900 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -6017,7 +5964,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** -
@@ -6049,8 +5995,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|12 (+1)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 0 (0 XP)
@@ -6073,8 +6017,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
@@ -6103,7 +6045,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +5
 - **Senses** passive Perception 15
 - **Languages** -
@@ -6135,8 +6076,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 1/2 (100 XP)
@@ -6165,7 +6104,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4, Survival +5
 - **Senses** passive Perception 13
 - **Languages** Draconic
@@ -6201,7 +6139,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** passive Perception 12
 - **Languages** Aquan, Common
@@ -6229,11 +6166,10 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 0 (10 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -6257,7 +6193,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|20 (+5)| 2 (-4)|10 (+0)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +6
 - **Senses** darkvision 60 ft., passive Perception 16
 - **Languages** -
@@ -6293,7 +6228,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|13 (+1)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -6321,7 +6255,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -6349,8 +6282,6 @@ At will: _[detect magic], [feather fall], [levitate], light_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)| 9 (-1)| 8 (-1)| 7 (-2)| 8 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 8
 - **Languages** Common, Draconic
 - **Challenge** 1/8 (25 XP)
@@ -6382,10 +6313,10 @@ At will: _[detect magic], [feather fall], [levitate], light_
 |30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
 
 - **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 14
 - **Languages** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
 - **Challenge** 23 (50000 XP)
+- **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -6431,7 +6362,6 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 
-- **Saving Throws** 
 - **Skills** Deception +7, Insight +4, Stealth +3
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Abyssal, Common
@@ -6476,6 +6406,8 @@ At will: _[disguise self]_ (any humanoid form), _[major image]_
 - **Senses** truesight 120 ft., passive Perception 19
 - **Languages** Common plus up to five other languages
 - **Challenge** 21 (33000 XP)
+- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Resistances** cold, lightning, necrotic
 
 ### Special Features
 
@@ -6537,11 +6469,10 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -6593,7 +6524,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|13 (+1)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +6
 - **Senses** passive Perception 13
 - **Languages** -
@@ -6629,7 +6559,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4
 - **Senses** passive Perception 13
 - **Languages** -
@@ -6659,11 +6588,11 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +5, Stealth +3
 - **Senses** passive Perception 15
 - **Languages** Common, Giant, Winter Wolf
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -6693,7 +6622,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|15 (+2)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4
 - **Senses** passive Perception 13
 - **Languages** -
@@ -6723,11 +6651,11 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +4, Stealth +3
 - **Senses** passive Perception 14
 - **Languages** Common (can't speak in wolf form)
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -6759,11 +6687,11 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 5 (-3)|11 (+0)| 1 (-5)|11 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 10
 - **Languages** understands Infernal but can't speak
 - **Challenge** 0 (10 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold
 
 ### Special Features
 
@@ -6789,8 +6717,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -6813,8 +6739,6 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -6877,11 +6801,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)|12 (+1)| 8 (-1)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Ignan
 - **Challenge** 1/2 (100 XP)
+- **Damage Immunities** fire
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -6907,7 +6831,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Intimidation +2
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
@@ -6939,8 +6862,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 6 (2300 XP)
@@ -6969,7 +6890,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Stealth +3
 - **Senses** blindsight 60 ft., passive Perception 10
 - **Languages** -
@@ -7001,7 +6921,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 
-- **Saving Throws** 
 - **Skills** Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** Deep Speech, Undercommon
@@ -7041,8 +6960,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** Common
 - **Challenge** 3 (700 XP)
@@ -7076,10 +6993,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 |18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
 
 - **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 13
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 16 (15000 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -7115,7 +7033,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Deception +2, Religion +2
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
@@ -7143,8 +7060,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|15 (+2)| 8 (-1)|10 (+0)| 9 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Abyssal, Aquan
 - **Challenge** 2 (450 XP)
@@ -7177,8 +7092,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|14 (+2)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 30 ft., passive Perception 8
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -7201,11 +7114,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|15 (+2)| 5 (-3)|13 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** acid
 
 ### Special Features
 
@@ -7237,7 +7150,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +7
 - **Senses** darkvision 60 ft., passive Perception 17
 - **Languages** Abyssal
@@ -7271,8 +7183,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -7301,7 +7211,6 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -7329,11 +7238,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|14 (+2)| 6 (-2)|13 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +5
 - **Senses** darkvision 60 ft., passive Perception 15
 - **Languages** understands Infernal but can't speak it
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -7364,10 +7273,12 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 |16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|10 (+0)|12 (+1)|
 
 - **Saving Throws** Wis +2
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** the languages it knew in life
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** necrotic, poison
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -7396,6 +7307,8 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** the languages it knew in life
 - **Challenge** 15 (13000 XP)
+- **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -7455,8 +7368,6 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -7485,7 +7396,6 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
 
-- **Saving Throws** 
 - **Skills** Deception +5, Insight +4, Perception +4, Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** Common
@@ -7519,11 +7429,11 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|12 (+1)|12 (+1)| 9 (-1)|11 (+0)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Stealth +3
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Aquan, Terran
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -7551,11 +7461,11 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +4
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Auran, Ignan
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** fire, poison
 
 ### Special Features
 
@@ -7583,11 +7493,12 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|13 (+1)|10 (+0)| 9 (-1)|11 (+0)|12 (+1)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +3
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Aquan, Auran
 - **Challenge** 1/2 (100 XP)
+- **Damage Immunities** cold, poison
+- **Damage Vulnerabilities** bludgeoning, fire
 
 ### Special Features
 
@@ -7617,11 +7528,12 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|12 (+1)|12 (+1)| 7 (-2)|10 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Stealth +3
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Ignan, Terran
 - **Challenge** 1/2 (100 XP)
+- **Damage Immunities** fire, poison
+- **Damage Vulnerabilities** cold
 
 ### Special Features
 
@@ -7651,11 +7563,12 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|14 (+2)|10 (+0)| 9 (-1)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +4
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Auran, Terran
 - **Challenge** 1/2 (100 XP)
+- **Damage Immunities** poison
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -7683,11 +7596,10 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Aquan, Ignan
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** fire, poison
 
 ### Special Features
 
@@ -7716,10 +7628,10 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 |18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 
 - **Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Abyssal, Common
 - **Challenge** 8 (3900 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -7758,10 +7670,10 @@ Cantrips (at will): _[mage hand], [minor illusion], [ray of frost]_
 |19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
 
 - **Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** Celestial, Common
 - **Challenge** 10 (5900 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -7804,10 +7716,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 |21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
 
 - **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 11
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 13 (10000 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -7839,7 +7752,6 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
-- **Saving Throws** 
 - **Skills** Deception +5, Insight +4, Persuasion +5
 - **Senses** passive Perception 12
 - **Languages** any two languages
@@ -7865,11 +7777,10 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., passive Perception 8
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
+- **Damage Resistances** bludgeoning, piercing, slashing
 
 ### Special Features
 
@@ -7893,11 +7804,10 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
+- **Damage Resistances** bludgeoning, piercing, slashing
 
 ### Special Features
 
@@ -7925,11 +7835,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)| 8 (-1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +5
 - **Senses** passive Perception 15
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
+- **Damage Resistances** bludgeoning, piercing, slashing
 
 ### Special Features
 
@@ -7953,11 +7863,10 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 8
 - **Languages** -
 - **Challenge** 1 (200 XP)
+- **Damage Resistances** bludgeoning, piercing, slashing
 
 ### Special Features
 
@@ -7985,11 +7894,10 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
+- **Damage Resistances** bludgeoning, piercing, slashing
 
 ### Special Features
 
@@ -8015,11 +7923,10 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Damage Resistances** bludgeoning, piercing, slashing
 
 ### Special Features
 
@@ -8043,11 +7950,12 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** the languages it knew in life
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -8077,8 +7985,6 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 8 (-1)|16 (+3)| 5 (-3)| 7 (-2)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 8
 - **Languages** Common, Giant
 - **Challenge** 2 (450 XP)
@@ -8103,11 +8009,13 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Stealth +4 (+6 in dim light or darkness)
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
+- **Damage Immunities** necrotic, poison
+- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Vulnerabilities** radiant
 
 ### Special Features
 
@@ -8177,7 +8085,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|16 (+3)| 7 (-2)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Intimidation +2
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Common, Orc
@@ -8208,7 +8115,6 @@ At will: _[darkness], [invisibility]_
 |16 (+3)|11 (+0)|19 (+4)| 6 (-2)|13 (+1)| 6 (-2)|
 
 - **Saving Throws** Con +7
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 11
 - **Languages** Otyugh
 - **Challenge** 5 (1800 XP)
@@ -8241,7 +8147,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -8273,7 +8178,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -8305,7 +8209,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -8337,11 +8240,11 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
 
-- **Saving Throws** 
 - **Skills** Perception +7
 - **Senses** passive Perception 17
 - **Languages** Common (can't speak in bear form)
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 ### Special Features
 
@@ -8373,8 +8276,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|13 (+1)| 2 (-4)|13 (+1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
@@ -8405,7 +8306,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|15 (+2)|10 (+0)| 3 (-4)|14 (+2)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +4, Stealth +6
 - **Senses** passive Perception 14
 - **Languages** -
@@ -8437,7 +8337,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +4
 - **Senses** darkvision 30 ft., passive Perception 12
 - **Languages** -
@@ -8471,7 +8370,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|13 (+1)|13 (+1)| 4 (-3)|10 (+0)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +4, Stealth +5
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** -
@@ -8505,8 +8403,6 @@ At will: _[darkness], [invisibility]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 8
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -8540,6 +8436,7 @@ At will: _[darkness], [invisibility]_
 - **Senses** truesight 120 ft., passive Perception 21
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 16 (15000 XP)
+- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -8579,7 +8476,6 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4
 - **Senses** passive Perception 13
 - **Languages** -
@@ -8607,8 +8503,6 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -8631,11 +8525,10 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** acid, cold, lightning, slashing
 
 ### Special Features
 
@@ -8665,7 +8558,6 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +4
 - **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
 - **Languages** understands Common and Draconic but can't speak
@@ -8699,7 +8591,6 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|10 (+0)| 2 (-4)| 9 (-1)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +1
 - **Senses** passive Perception 11
 - **Languages** -
@@ -8727,8 +8618,6 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|10 (+0)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 30 ft., passive Perception 8
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -8779,11 +8668,12 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Stealth +5
 - **Senses** darkvision 120 ft., passive Perception 10
 - **Languages** Abyssal, Common
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -8813,11 +8703,12 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
-- **Saving Throws** 
 - **Skills** Deception +10, Insight +8
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** Common, Infernal
 - **Challenge** 13 (10000 XP)
+- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 
 ### Special Features
 
@@ -8851,8 +8742,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 30 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -8879,8 +8768,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)|11 (+0)| 2 (-4)|10 (+0)| 4 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -8909,11 +8796,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Stealth +4
 - **Senses** darkvision 60 ft. (rat form only), passive Perception 12
 - **Languages** Common (can't speak in rat form)
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 ### Special Features
 
@@ -8945,7 +8832,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|13 (+1)|13 (+1)| 1 (-5)|10 (+0)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** blindsight 30 ft., passive Perception 12
 - **Languages** -
@@ -8975,7 +8861,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|11 (+0)|21 (+5)| 1 (-5)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** blindsight 60 ft., passive Perception 13
 - **Languages** -
@@ -9005,7 +8890,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|15 (+2)| 1 (-5)|10 (+0)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** blindsight 30 ft., passive Perception 12
 - **Languages** -
@@ -9035,8 +8919,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 11
 - **Languages** -
 - **Challenge** 2 (450 XP)
@@ -9095,8 +8977,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
 - **Challenge** 0 (10 XP)
@@ -9119,11 +8999,10 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)|13 (+1)|21 (+5)| 4 (-3)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 11 (7200 XP)
+- **Damage Immunities** cold, fire
 
 ### Special Features
 
@@ -9149,7 +9028,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)| 9 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +5
 - **Senses** darkvision 120 ft., passive Perception 15
 - **Languages** Sahuagin
@@ -9187,11 +9065,12 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Ignan
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** fire
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Vulnerabilities** cold
 
 ### Special Features
 
@@ -9221,8 +9100,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)| 2 (-4)| 9 (-1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 9
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -9251,8 +9128,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 8
 - **Languages** -
 - **Challenge** 2 (450 XP)
@@ -9281,11 +9156,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** passive Perception 12
 - **Languages** Common (can't speak in boar form)
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -9317,7 +9192,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
 
-- **Saving Throws** 
 - **Skills** Perception +2, Performance +6, Stealth +5
 - **Senses** passive Perception 12
 - **Languages** Common, Elvish, Sylvan
@@ -9349,8 +9223,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)| 8 (-1)| 1 (-5)| 8 (-1)| 2 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 0 (10 XP)
@@ -9373,8 +9245,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|15 (+2)| 1 (-5)| 9 (-1)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 3 (700 XP)
@@ -9401,8 +9271,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -9427,7 +9295,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** blindsight 10 ft., passive Perception 12
 - **Languages** -
@@ -9453,8 +9320,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|16 (+3)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -9477,7 +9342,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|18 (+4)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** blindsight 10 ft., passive Perception 12
 - **Languages** -
@@ -9501,8 +9365,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|18 (+4)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 10 ft., passive Perception 11
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -9529,7 +9391,6 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|18 (+4)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Athletics +9, Perception +4
 - **Senses** passive Perception 14
 - **Languages** -
@@ -9562,6 +9423,8 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Senses** truesight 120 ft., passive Perception 24
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 21 (33000 XP)
+- **Damage Immunities** necrotic, poison
+- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -9615,11 +9478,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** understands the languages it knew in life but can't speak
 - **Challenge** 1 (200 XP)
+- **Damage Immunities** necrotic, poison
+- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -9645,11 +9508,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** understands the languages it knew in life but can't speak
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** poison
+- **Damage Vulnerabilities** bludgeoning
 
 ### Special Features
 
@@ -9671,11 +9534,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|15 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
+- **Damage Immunities** poison
+- **Damage Vulnerabilities** bludgeoning
 
 ### Special Features
 
@@ -9695,11 +9558,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|11 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** poison
+- **Damage Vulnerabilities** bludgeoning
 
 ### Special Features
 
@@ -9725,8 +9588,6 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
@@ -9749,11 +9610,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
 
-- **Saving Throws** 
 - **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 - **Senses** darkvision 60 ft., passive Perception 15
 - **Languages** Abyssal, Common, Infernal, telepathy 60 ft.
 - **Challenge** 4 (1100 XP)
+- **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -9785,11 +9646,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 13
 - **Languages** Common, Druidic, Elvish, Sylvan
 - **Challenge** 9 (5000 XP)
+- **Damage Resistances** bludgeoning, piercing
+- **Damage Vulnerabilities** fire
 
 ### Special Features
 
@@ -9821,11 +9682,10 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** poison, psychic
 
 ### Special Features
 
@@ -9854,10 +9714,10 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 |30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)|11 (+0)|
 
 - **Saving Throws** Int +5, Wis +9, Cha +9
-- **Skills** 
 - **Senses** blindsight 120 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 30 (155000 XP)
+- **Damage Immunities** fire, poison; bludgeoning, piercing and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -9909,11 +9769,12 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
 - **Skills** Stealth +2
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
 - **Languages** -
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** lightning
+- **Damage Resistances** cold, fire
 
 ### Special Features
 
@@ -9941,7 +9802,6 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +6
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** -
@@ -9973,7 +9833,6 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +6
 - **Senses** passive Perception 13
 - **Languages** -
@@ -10005,11 +9864,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +5, Stealth +4
 - **Senses** darkvision 60 ft., passive Perception 15
 - **Languages** Common (can't speak in tiger form)
 - **Challenge** 4 (1100 XP)
+- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 ### Special Features
 
@@ -10045,7 +9904,6 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Athletics +5, Perception +3, Stealth +3
 - **Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
 - **Languages** Undercommon
@@ -10077,11 +9935,12 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +8, Stealth +10
 - **Senses** darkvision 60 ft., passive Perception 18
 - **Languages** Auran, understands Common but doesn't speak it
 - **Challenge** 6 (2300 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10109,8 +9968,6 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 5 (1800 XP)
@@ -10139,7 +9996,6 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|20 (+5)| 7 (-2)| 9 (-1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +2
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** Giant
@@ -10173,7 +10029,6 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|19 (+4)| 2 (-4)|12 (+1)| 9 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** passive Perception 14
 - **Languages** -
@@ -10206,6 +10061,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Senses** darkvision 120 ft., passive Perception 17
 - **Languages** the languages it knew in life
 - **Challenge** 13 (10000 XP)
+- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10270,6 +10126,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** the languages it knew in life
 - **Challenge** 5 (1800 XP)
+- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10309,11 +10166,11 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)| 6 (-2)|16 (+3)| 1 (-5)| 6 (-2)| 2 (-4)|
 
-- **Saving Throws** 
 - **Skills** Stealth +2
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
+- **Damage Resistances** acid, cold, fire
 
 ### Special Features
 
@@ -10343,7 +10200,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|10 (+0)|13 (+1)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** -
@@ -10373,7 +10229,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|15 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** understands Common but can't speak
@@ -10408,7 +10263,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 |28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
 
 - **Saving Throws** Con +11, Wis +4
-- **Skills** 
 - **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
 - **Languages** -
 - **Challenge** 15 (13000 XP)
@@ -10439,7 +10293,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 5 (-3)|12 (+1)| 6 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** -
@@ -10470,10 +10323,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 |17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
 
 - **Saving Throws** Dex +5, Wis +4, Cha +2
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 11
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 6 (2300 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10507,7 +10361,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Athletics +5, Perception +2
 - **Senses** passive Perception 12
 - **Languages** any one language (usually Common)
@@ -10537,7 +10390,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|13 (+1)| 7 (-2)|11 (+0)| 8 (-1)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** Goblin, Worg
@@ -10565,11 +10417,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +6, Stealth +3
 - **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
 - **Languages** Terran
 - **Challenge** 5 (1800 XP)
+- **Damage Resistances** piercing and slashing from nonmagical attacks that aren't adamantine
 
 ### Special Features
 
@@ -10601,11 +10453,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|16 (+3)| 8 (-1)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3, Stealth +3
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** Yeti
 - **Challenge** 3 (700 XP)
+- **Damage Immunities** cold
 
 ### Special Features
 
@@ -10638,10 +10490,10 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 |13 (+1)| 6 (-2)|16 (+3)| 3 (-4)| 6 (-2)| 5 (-3)|
 
 - **Saving Throws** Wis +0
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 8
 - **Languages** understands the languages it knew in life but can't speak
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -10666,10 +10518,10 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 |19 (+4)| 6 (-2)|18 (+4)| 3 (-4)| 6 (-2)| 5 (-3)|
 
 - **Saving Throws** Wis +0
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 8
 - **Languages** understands Common and Giant but can't speak
 - **Challenge** 2 (450 XP)
+- **Damage Immunities** poison
 
 ### Special Features
 
@@ -10693,11 +10545,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 12
 - **Languages** the languages it knew in life
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** necrotic, poison
+- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
@@ -10725,7 +10577,6 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 
-- **Saving Throws** 
 - **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
 - **Senses** passive Perception 15
 - **Languages** any one language (usually Common)
@@ -10758,10 +10609,10 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 |22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
 
 - **Saving Throws** Int +7, Wis +6, Cha +7
-- **Skills** 
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** Ignan
 - **Challenge** 11 (7200 XP)
+- **Damage Immunities** fire
 
 ### Special Features
 
@@ -10797,8 +10648,6 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
@@ -10827,7 +10676,6 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|16 (+3)|14 (+2)| 7 (-2)|14 (+2)|10 (+0)|
 
-- **Saving Throws** 
 - **Skills** Perception +4
 - **Senses** passive Perception 14
 - **Languages** Giant Elk understands Common, Elvish, and Sylvan but can't speak them
@@ -10857,11 +10705,11 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|20 (+5)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Auran
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10889,11 +10737,11 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|18 (+4)| 5 (-3)|10 (+0)| 8 (-1)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Aquan
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10923,11 +10771,12 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)| 8 (-1)|20 (+5)| 5 (-3)|10 (+0)| 5 (-3)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
 - **Languages** Terran
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** poison
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Vulnerabilities** thunder
 
 ### Special Features
 
@@ -10955,11 +10804,11 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|17 (+3)|16 (+3)| 6 (-2)|10 (+0)| 7 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** Ignan
 - **Challenge** 5 (1800 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ### Special Features
 
@@ -10989,8 +10838,6 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|17 (+3)| 3 (-4)|11 (+0)| 6 (-2)|
 
-- **Saving Throws** 
-- **Skills** 
 - **Senses** passive Perception 10
 - **Languages** -
 - **Challenge** 4 (1100 XP)
@@ -11019,7 +10866,6 @@ At will: _[detect magic]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Saving Throws** 
 - **Skills** Perception +3
 - **Senses** blindsight 120 ft., passive Perception 13
 - **Languages** -
@@ -11052,10 +10898,10 @@ At will: _[detect magic]_
 |12 (+1)|15 (+2)|11 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
 
 - **Saving Throws** Dex +4
-- **Skills** 
 - **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
+- **Damage Immunities** poison, psychic
 
 ### Special Features
 
@@ -11082,10 +10928,11 @@ At will: _[detect magic]_
 |18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
 
 - **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
-- **Skills** 
 - **Senses** truesight 120 ft., passive Perception 12
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 12 (8400 XP)
+- **Damage Immunities** fire, poison
+- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
 ### Special Features
 
