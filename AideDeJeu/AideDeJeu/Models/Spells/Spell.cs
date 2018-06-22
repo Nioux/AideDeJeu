@@ -26,7 +26,7 @@ namespace AideDeJeuLib.Spells
                 {
                     re = new Regex("(?<type>.*), (?<level>tour de magie)");
                     match = re.Match(value);
-                    if(match.Groups["level"].Value == "tour de magie")
+                    if (match.Groups["level"].Value == "tour de magie")
                     {
                         this.Type = match.Groups["type"].Value;
                         this.Level = "0"; // match.Groups["level"].Value;
@@ -35,7 +35,8 @@ namespace AideDeJeuLib.Spells
                     else
                     {
                         System.Diagnostics.Debug.WriteLine(value);
-                        re = new Regex("level (?<level>\\d) - (?<type>.*?) ?(?<rituel>\\(ritual\\))?");
+                        //re = new Regex("level (?<level>\\d) - (?<type>.*?)\\w?(?<rituel>\\(ritual\\))?");
+                        re = new Regex("(?<level>\\d) - (?<type>.*)\\w?(?<rituel>\\(ritual\\))?");
                         match = re.Match(value);
                         this.Type = match.Groups["type"].Value;
                         this.Level = match.Groups["level"].Value;
