@@ -22,15 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\spells_hd.json" Link="Data\spells_hd.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\monsters_vo.json" Link="Data\monsters_vo.json" />
-    <EmbeddedResource Include="..\..\Data\spells_vo.json" Link="Data\spells_vo.json" />
-  </ItemGroup>
-
-  <ItemGroup>
     <EmbeddedResource Include="OGL.txt" />
   </ItemGroup>
 
@@ -64,6 +55,11 @@
   <ItemGroup>
     <EmbeddedResource Include="..\..\Data\monsters_hd.md" Link="Data\monsters_hd.md" />
     <EmbeddedResource Include="..\..\Data\spells_hd.md" Link="Data\spells_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\monsters_vo.md" Link="Data\monsters_vo.md" />
+    <EmbeddedResource Include="..\..\Data\spells_vo.md" Link="Data\spells_vo.md" />
   </ItemGroup>
 
 </Project>

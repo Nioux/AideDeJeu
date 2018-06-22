@@ -36,36 +36,35 @@ namespace AideDeJeu.ViewModels
                 string resourceName = null;
                 switch (ItemSourceType)
                 {
-                    //case ItemSourceType.MonsterVF:
-                    //    resourceName = "AideDeJeu.Data.monsters_vf.json";
-                    //    _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
-                    //    break;
                     case ItemSourceType.MonsterVO:
-                        resourceName = "AideDeJeu.Data.monsters_vo.json";
-                        _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
+                        {
+                            resourceName = "AideDeJeu.Data.monsters_vo.md";
+                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(md);
+                        }
                         break;
                     case ItemSourceType.MonsterHD:
-                        resourceName = "AideDeJeu.Data.monsters_hd.md";
-                        //var mdm = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
-                        var mdm = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                        _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(mdm);
-                        //_AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Monster>>(resourceName);
+                        {
+                            resourceName = "AideDeJeu.Data.monsters_hd.md";
+                            //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
+                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(md);
+                        }
                         break;
-                    //case ItemSourceType.SpellVF:
-                    //    resourceName = "AideDeJeu.Data.spells_vf.json";
-                    //    _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
-                    //    //var md2 = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
-                    //    //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells(md2).ToList();
-                    //    break;
                     case ItemSourceType.SpellVO:
-                        resourceName = "AideDeJeu.Data.spells_vo.json";
-                        _AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
+                        {
+                            resourceName = "AideDeJeu.Data.spells_vo.md";
+                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(md);
+                        }
                         break;
                     case ItemSourceType.SpellHD:
-                        resourceName = "AideDeJeu.Data.spells_hd.md";
-                        var mds = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
-                        _AllItems = Tools.MarkdownExtensions.MarkdownToSpells(mds);
-                        //_AllItems = Tools.Helpers.GetResourceObject<IEnumerable<Spell>>(resourceName);
+                        {
+                            resourceName = "AideDeJeu.Data.spells_hd.md";
+                            //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
+                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToSpells(md);
+                        }
                         break;
                 }
             }
