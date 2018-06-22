@@ -67,6 +67,19 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
+            var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
+            var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
+            var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
+            var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
+            var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
+
+            //var mdhd = spellsHD.ToMarkdownString();
+            //var spellsMDHD = spellsHD.ToMarkdownString();
+            var spellsMDVO = spellsVO.ToMarkdownString();
+            var monstersMDVO = monstersVO.ToMarkdownString();
+            await SaveStringAsync(dataDir + "spells_vo.md", spellsMDVO);
+            await SaveStringAsync(dataDir + "monsters_vo.md", monstersMDVO);
+
             //using (var instream = new StreamReader(dataDir + "monsters_hd.md", Encoding.UTF8))
             //{
             //    using (var outstream = new StreamWriter(dataDir + "monsters_hd_modif.md", false, Encoding.UTF8))
@@ -149,11 +162,11 @@ namespace AideDeJeuCmd
             SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vf.json", monsters);
             SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vo.json", monstersVO);
             */
-            var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
-            var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
-            var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
-            var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
-            var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
+            //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
+            //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
+            //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
+            //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
+            //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
             var mdhd = spellsHD.ToMarkdownString();
             await SaveStringAsync(dataDir + "spells_hd.md", mdhd);

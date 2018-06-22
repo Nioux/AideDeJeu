@@ -8,6 +8,7 @@ using System.Linq;
 using System.Diagnostics;
 using AideDeJeuLib.Monsters;
 using Markdig;
+using AideDeJeuLib;
 
 namespace AideDeJeu.Tools
 {
@@ -457,17 +458,18 @@ namespace AideDeJeu.Tools
         public static string ToMarkdownString(this IEnumerable<Spell> spells)
         {
             var md = string.Empty;
-            foreach (var spell in spells)
+            foreach (var spell in spells.OrderBy(s => s.Name))
             {
                 md += spell.ToMarkdownString();
             }
+
             return md;
         }
         public static string ToMarkdownString(this Spell spell)
         {
             var md = string.Empty;
             md += string.Format("# {0}\n", spell.NamePHB);
-            md += string.Format("- NameVO: {0}\n", spell.NameVO);
+            md += string.Format("- NameVO: [{0}]\n", spell.NameVO);
             md += string.Format("- CastingTime: {0}\n", spell.CastingTime);
             md += string.Format("- Components: {0}\n", spell.Components);
             md += string.Format("- Duration: {0}\n", spell.Duration);
@@ -483,6 +485,53 @@ namespace AideDeJeu.Tools
             md += "### Description\n\n";
             md += spell
                 .DescriptionHtml
+                .Replace("<div class=\"description \">", "")
+                .Replace("</div>", "")
+                .Replace("<strong>", "**")
+                .Replace("</strong>", "**")
+                .Replace("<em>", "_")
+                .Replace("</em>", "_")
+                .Replace("<li>", "* ")
+                .Replace("</li>", "")
+                //.Replace("\n", "\r\n\r\n")
+                //.Replace("<br/>", "\r\n\r\n")
+                .Replace("\n", "\r\n")
+                .Replace("<br/>", "\r\n")
+                ;
+            md += string.Format("[{0}]: spells_hd.md#{1}\n", spell.NameVO, Helpers.IdFromName(spell.NameVO));
+            md += "\r\n\r\n";
+            return md;
+        }
+
+        public static string ToMarkdownString(this IEnumerable<Monster> monsters)
+        {
+            var md = string.Empty;
+            foreach (var monster in monsters)
+            {
+                md += monster.ToMarkdownString();
+            }
+            return md;
+        }
+        public static string ToMarkdownString(this Monster monster)
+        {
+            var md = string.Empty;
+            md += string.Format("# {0}\n", monster.NamePHB);
+            md += string.Format("- NameVO: {0}\n", monster.NameVO);
+            //md += string.Format("- CastingTime: {0}\n", monster.CastingTime);
+            //md += string.Format("- Components: {0}\n", monster.Components);
+            //md += string.Format("- Duration: {0}\n", monster.Duration);
+            //md += string.Format("- LevelType: {0}\n", monster.LevelType);
+            //md += string.Format("- Range: {0}\n", monster.Range);
+            var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
+            var match = regex.Match(monster.Source);
+            var source = match.Groups["source"].Value;
+            var classes = match.Groups["classes"].Value;
+            md += string.Format("- Source: {0}\n", source);
+            md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
+            md += "\n";
+            md += "### Description\n\n";
+            md += monster
+                .Description
                 .Replace("<strong>", "**")
                 .Replace("</strong>", "**")
                 .Replace("<em>", "_")
