@@ -185,6 +185,10 @@ namespace AideDeJeu.ViewModels
                         await Navigator.GotoMonsterDetailPageAsync(monster);
                     }
                 }
+                else
+                {
+                    Device.OpenUri(new Uri(s));
+                }
             }
         }
 
