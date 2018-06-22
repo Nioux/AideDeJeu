@@ -92,7 +92,42 @@ namespace AideDeJeu.Tools
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                         //DumpParagraphBlock(paragraphBlock);
                                         var str = paragraphBlock.Inline.ToContainerString();
-                                        var match = regex.Match(str);
+
+                                        var properties = new List<Tuple<string, Action<Spell, string>>>()
+                                        {
+                                            new Tuple<string, Action<Spell, string>>("NameVO: ", (m, s) => m.NameVO = s),
+                                            new Tuple<string, Action<Spell, string>>("CastingTime: ", (m, s) => m.CastingTime = s),
+                                            new Tuple<string, Action<Spell, string>>("Components: ", (m, s) => m.Components = s),
+                                            new Tuple<string, Action<Spell, string>>("Duration: ", (m, s) => m.Duration = s),
+                                            new Tuple<string, Action<Spell, string>>("LevelType: ", (m, s) => m.LevelType = s),
+                                            new Tuple<string, Action<Spell, string>>("Range: ", (m, s) => m.Range = s),
+                                            new Tuple<string, Action<Spell, string>>("Source: ", (m, s) => m.Source = s),
+                                            new Tuple<string, Action<Spell, string>>("Classes: ", (m, s) => m.Source += s),
+                                            new Tuple<string, Action<Spell, string>>("", (m,s) =>
+                                            {
+                                                //if (m.Alignment != null)
+                                                //{
+                                                    //App.Current.MainPage.DisplayAlert("Erreur de parsing", s, "OK");
+                                                //}
+                                                ////Debug.Assert(monster.Alignment == null, str);
+                                                //var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
+                                                //var matchh = regexx.Match(s);
+                                                //m.Alignment = matchh.Groups["alignment"].Value;
+                                                //m.Size = matchh.Groups["size"].Value;
+                                                //m.Type = matchh.Groups["type"].Value;
+                                            })
+                                        };
+
+                                        foreach (var property in properties)
+                                        {
+                                            if (str.StartsWith(property.Item1))
+                                            {
+                                                property.Item2.Invoke(spell, str.Substring(property.Item1.Length));
+                                                break;
+                                            }
+                                        }
+
+                                        /*var match = regex.Match(str);
                                         var key = match.Groups["key"].Value;
                                         var value = match.Groups["value"].Value;
                                         switch (key)
@@ -121,7 +156,7 @@ namespace AideDeJeu.Tools
                                             case "Classes":
                                                 spell.Source += value;
                                                 break;
-                                        }
+                                        }*/
                                     }
                                 }
 

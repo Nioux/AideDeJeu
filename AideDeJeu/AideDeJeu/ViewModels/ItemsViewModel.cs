@@ -55,7 +55,7 @@ namespace AideDeJeu.ViewModels
                         {
                             resourceName = "AideDeJeu.Data.spells_vo.md";
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(md);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToSpells(md);
                         }
                         break;
                     case ItemSourceType.SpellHD:
@@ -80,7 +80,7 @@ namespace AideDeJeu.ViewModels
                 // Yan : c'est pas plutôt cette partie qui devrait être dans une autre Task ?
                 var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
                 var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), token);
-                Main.Items = items;
+                Main.Items = items.ToList();
                 //await Task.Run(async () => {
                 // Yan : plus besoin de boucle si on change toute la liste d'un coup ;)
                 // Yan : indispensable de repasser sur l'ui thread pour la version uwp
