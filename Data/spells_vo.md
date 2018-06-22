@@ -228,7 +228,7 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 **_Targeted Effects_**. Spells and other magical effects, such as _[magic missile]_ and _[charm person]_, that target a creature or an object in the sphere have no effect on that target.
 
-**_Areas of Magic_**. The area of another spell or magical effect, such as _[fireball}_, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _[wall of fire]_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+**_Areas of Magic_**. The area of another spell or magical effect, such as _[fireball]_, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _[wall of fire]_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 **_Spells_**. Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 
@@ -6928,3 +6928,30 @@ An affected creature is aware of the spell and can thus avoid answering question
 [Zone de vérité]: spells_hd.md#zone-de-verite
 
 
+[antimagic field]: #antimagic-field
+[arcane lock]: #arcane-lock
+[charm person]: #charm-person
+[confusion]: #confusion
+[daylight]: #daylight
+[dancing lights]: #dancing-lights
+[detect magic]: #detect-magic
+[disintegrate]: #disintegrate
+[dispel magic]: #dispel-magic
+[entangle]: #entangle
+[fireball]: #fireball
+[greater restoration]: #greater-restoration
+[heal]: #heal
+[knock]: #knock
+[magic missile]: #magic-missile
+[minor illusion]: #minor-illusion
+[passwall]: #passwall
+[plane shift]: #plane-shift
+[protection from evil and good]: #protection-from-evil-and-good
+[remove curse]: #remove-curse
+[stinking cloud]: #stinking-cloud
+[suggestion]: #suggestion
+[true resurrection]: #true-resurrection
+[wall of fire]: #wall-of-fire
+[wall of force]: #wall-of-force
+[web]: #web
+[wish]: #wish
