@@ -60,7 +60,7 @@ namespace AideDeJeu.Tools
 
         public static string IdFromName(string name)
         {
-            return RemoveDiacritics(name.ToLower().Replace(" ", "-"));
+            return RemoveDiacritics(name.ToLower().Replace(" ", "-").Replace("\'",""));
         }
 
 

@@ -515,23 +515,93 @@ namespace AideDeJeu.Tools
         public static string ToMarkdownString(this Monster monster)
         {
             var md = string.Empty;
-            md += string.Format("# {0}\n", monster.NamePHB);
-            md += string.Format("- NameVO: {0}\n", monster.NameVO);
-            //md += string.Format("- CastingTime: {0}\n", monster.CastingTime);
+            md += string.Format("# {0}\n", monster.NamePHB?.Trim());
+            md += string.Format("- NameVO: [{0}]\n", monster.NameVO?.Trim());
+            md += string.Format("- {0} {1}, {2}\n", monster.Size?.Trim(), monster.Type?.Trim(), monster.Alignment?.Trim());
+            md += string.Format("- **Armor Class** {0}\n", monster.ArmorClass?.Trim());
+            md += string.Format("- **Hit Points** {0}\n", monster.HitPoints?.Trim());
+            md += string.Format("- **Speed** {0}\n", monster.Speed?.Trim());
+            md += "\n";
+            md += "|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |\n";
+            md += "| ---   | ---   | ---   | ---   | ---   | ---   |\n";
+            md += string.Format("|{0,7}|{1,7}|{2,7}|{3,7}|{4,7}|{5,7}|\n", monster.Strength?.Trim(), monster.Dexterity?.Trim(), monster.Constitution?.Trim(), monster.Intelligence?.Trim(), monster.Wisdom?.Trim(), monster.Charisma?.Trim());
+            md += "\n";
+            md += string.Format("- **Saving Throws** {0}\n", monster.SavingThrows?.Trim());
+            md += string.Format("- **Skills** {0}\n", monster.Skills?.Trim());
+            md += string.Format("- **Senses** {0}\n", monster.Senses?.Trim());
+            md += string.Format("- **Languages** {0}\n", monster.Languages?.Trim());
+            md += string.Format("- **Challenge** {0}\n", monster.Challenge?.Trim());
+
             //md += string.Format("- Components: {0}\n", monster.Components);
             //md += string.Format("- Duration: {0}\n", monster.Duration);
             //md += string.Format("- LevelType: {0}\n", monster.LevelType);
             //md += string.Format("- Range: {0}\n", monster.Range);
-            var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
-            var match = regex.Match(monster.Source);
-            var source = match.Groups["source"].Value;
-            var classes = match.Groups["classes"].Value;
-            md += string.Format("- Source: {0}\n", source);
-            md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
+            //var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
+            //var match = regex.Match(monster.Source);
+            //var source = match.Groups["source"].Value;
+            //var classes = match.Groups["classes"].Value;
+            //md += string.Format("- Source: {0}\n", source);
+            //md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
             md += "\n";
-            md += "### Description\n\n";
-            md += monster
-                .Description
+
+            if (monster.SpecialFeatures != null)
+            {
+                md += "### Special Features\n\n";
+                foreach (var specialFeature in monster.SpecialFeatures)
+                {
+                    md += HtmlToMarkdownString(specialFeature);
+                }
+            }
+
+            if (monster.Actions != null)
+            {
+                md += "### Actions\n\n";
+                foreach (var action in monster.Actions)
+                {
+                    md += HtmlToMarkdownString(action);
+                }
+            }
+
+            if (monster.Reactions != null)
+            {
+                md += "### Reactions\n\n";
+                foreach (var reaction in monster.Reactions)
+                {
+                    md += HtmlToMarkdownString(reaction);
+                }
+            }
+
+            if (monster.LegendaryActions != null)
+            {
+                md += "### Legendary Actions\n\n";
+                foreach (var legendaryAction in monster.LegendaryActions)
+                {
+                    md += HtmlToMarkdownString(legendaryAction);
+                }
+            }
+
+            //md += monster
+            //    .Description
+            //    .Replace("<strong>", "**")
+            //    .Replace("</strong>", "**")
+            //    .Replace("<em>", "_")
+            //    .Replace("</em>", "_")
+            //    .Replace("<li>", "* ")
+            //    .Replace("</li>", "")
+            //    .Replace("\n", "\r\n\r\n")
+            //    .Replace("<br/>", "\r\n\r\n")
+            //    ;
+            md += string.Format("[{0}]: monsters_hd.md#{1}\n", monster.NameVO, Helpers.IdFromName(monster.NameVO));
+            md += "\n\n";
+            return md;
+        }
+
+        public static string HtmlToMarkdownString(string html)
+        {
+            var regex = new Regex("(<a .*?>)");
+            html = regex.Replace(html, "[");
+            return html
+                .Replace("</a>", "]")
                 .Replace("<strong>", "**")
                 .Replace("</strong>", "**")
                 .Replace("<em>", "_")
@@ -540,9 +610,10 @@ namespace AideDeJeu.Tools
                 .Replace("</li>", "")
                 .Replace("\n", "\r\n\r\n")
                 .Replace("<br/>", "\r\n\r\n")
+                .Replace("<br />", "\r\n\r\n")
+                .Replace("<p>", "")
+                .Replace("</p>", "\r\n\r\n")
                 ;
-            md += "\n\n";
-            return md;
         }
 
         public static void Dump(this Markdig.Syntax.ParagraphBlock block)
