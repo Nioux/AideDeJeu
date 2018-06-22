@@ -135,7 +135,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Talons_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
 
-[Aigle géant]: monsters_hd.md#aigle-geant
+[Aigle géant]: monsters_hd.md#aigle-géant
 
 
 # Allosaurus
@@ -313,7 +313,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
-[Araignée]: monsters_hd.md#araignee
+[Araignée]: monsters_hd.md#araignée
 
 
 # Phase Spider
@@ -345,7 +345,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-[Araignée de phase]: monsters_hd.md#araignee-de-phase
+[Araignée de phase]: monsters_hd.md#araignée-de-phase
 
 
 # Giant Spider
@@ -379,7 +379,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Web (Recharge 5-6)_**. Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. _Hit_: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
-[Araignée géante]: monsters_hd.md#araignee-geante
+[Araignée géante]: monsters_hd.md#araignée-géante
 
 
 # Giant Wolf Spider
@@ -411,7 +411,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-[Araignée-loup géante]: monsters_hd.md#araignee-loup-geante
+[Araignée-loup géante]: monsters_hd.md#araignée-loup-géante
 
 
 # Awakened Tree
@@ -439,7 +439,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Slam_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 14 (3d6 + 4) bludgeoning damage.
 
-[Arbre éveillé]: monsters_hd.md#arbre-eveille
+[Arbre éveillé]: monsters_hd.md#arbre-éveillé
 
 
 # Awakened Shrub
@@ -467,7 +467,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Rake_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) slashing damage.
 
-[Arbuste éveillé]: monsters_hd.md#arbuste-eveille
+[Arbuste éveillé]: monsters_hd.md#arbuste-éveillé
 
 
 # Archmage
@@ -551,7 +551,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 **_Slam_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) bludgeoning damage.
 
-[Armure animée]: monsters_hd.md#armure-animee
+[Armure animée]: monsters_hd.md#armure-animée
 
 
 # Assassin
@@ -683,7 +683,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Blinding Spittle (Recharge 5-6)_**. The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
 
-[Babélien]: monsters_hd.md#babelien
+[Babélien]: monsters_hd.md#babélien
 
 
 # Balor
@@ -921,7 +921,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage.
 
-[Belette géante]: monsters_hd.md#belette-geante
+[Belette géante]: monsters_hd.md#belette-géante
 
 
 # Berserker
@@ -1009,7 +1009,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) slashing damage.
 
-[Blaireau géant]: monsters_hd.md#blaireau-geant
+[Blaireau géant]: monsters_hd.md#blaireau-géant
 
 
 # Ghast
@@ -1041,7 +1041,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Blême]: monsters_hd.md#bleme
+[Blême]: monsters_hd.md#blême
 
 
 # Twig Blight
@@ -1069,7 +1069,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) piercing damage.
 
-[Buisson infecté]: monsters_hd.md#buisson-infecte
+[Buisson infecté]: monsters_hd.md#buisson-infecté
 
 
 # Bulette
@@ -1131,7 +1131,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 
-[Béhir]: monsters_hd.md#behir
+[Béhir]: monsters_hd.md#béhir
 
 
 # Centaur
@@ -1307,7 +1307,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage.
 
-[Chauve-souris géante]: monsters_hd.md#chauve-souris-geante
+[Chauve-souris géante]: monsters_hd.md#chauve-souris-géante
 
 
 # Warhorse
@@ -1473,7 +1473,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
-[Chien du trépas]: monsters_hd.md#chien-du-trepas
+[Chien du trépas]: monsters_hd.md#chien-du-trépas
 
 
 # Blink Dog
@@ -1535,7 +1535,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Fire Breath (Recharge 5-6)_**. The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 
-[Chimère]: monsters_hd.md#chimere
+[Chimère]: monsters_hd.md#chimère
 
 
 # Owl
@@ -1595,7 +1595,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
 
-[Chouette géante]: monsters_hd.md#chouette-geante
+[Chouette géante]: monsters_hd.md#chouette-géante
 
 
 # Chuul
@@ -1659,7 +1659,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
-[Chèvre]: monsters_hd.md#chevre
+[Chèvre]: monsters_hd.md#chèvre
 
 
 # Giant Goat
@@ -1689,7 +1689,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
-[Chèvre géante]: monsters_hd.md#chevre-geante
+[Chèvre géante]: monsters_hd.md#chèvre-géante
 
 
 # Cockatrice
@@ -1839,7 +1839,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 **_Claw_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
-[Crabe géant]: monsters_hd.md#crabe-geant
+[Crabe géant]: monsters_hd.md#crabe-géant
 
 
 # Giant Toad
@@ -1871,7 +1871,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 **_Swallow_**. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-[Crapaud géant]: monsters_hd.md#crapaud-geant
+[Crapaud géant]: monsters_hd.md#crapaud-géant
 
 
 # Shrieker
@@ -1957,7 +1957,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 **_Tail_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
-[Crocodile géant]: monsters_hd.md#crocodile-geant
+[Crocodile géant]: monsters_hd.md#crocodile-géant
 
 
 # Flameskull
@@ -2001,7 +2001,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Fire Ray_**. Ranged Spell Attack: +5 to hit, range 30 ft., one target. _Hit_: 10 (3d6) fire damage.
 
-[Crânefeu]: monsters_hd.md#cranefeu
+[Crânefeu]: monsters_hd.md#crânefeu
 
 
 # Gelatinous Cube
@@ -2033,7 +2033,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Engulf_**. The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw. On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it. An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 
-[Cube gélatineux]: monsters_hd.md#cube-gelatineux
+[Cube gélatineux]: monsters_hd.md#cube-gélatineux
 
 
 # Cyclops
@@ -2135,7 +2135,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Hurl Flame_**. Ranged Spell Attack: +5 to hit, range 150 ft., one target. _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 
-[Diable barbelé]: monsters_hd.md#diable-barbele
+[Diable barbelé]: monsters_hd.md#diable-barbelé
 
 
 # Bearded Devil
@@ -2243,7 +2243,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Unnerving Mask_**. When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
-[Diable à chaînes]: monsters_hd.md#diable-a-chaines
+[Diable à chaînes]: monsters_hd.md#diable-à-chaînes
 
 
 # Ice Devil
@@ -2281,7 +2281,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Wall of Ice (Recharge 6)_**. The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter. When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one. The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 
-[Diable gelé]: monsters_hd.md#diable-gele
+[Diable gelé]: monsters_hd.md#diable-gelé
 
 
 # Bone Devil
@@ -2631,7 +2631,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
-[Dragon blanc, nouveau-né]: monsters_hd.md#dragon-blanc,-nouveau-ne
+[Dragon blanc, nouveau-né]: monsters_hd.md#dragon-blanc,-nouveau-né
 
 
 # Adult Blue Dragon
@@ -2783,7 +2783,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-[Dragon bleu, nouveau-né]: monsters_hd.md#dragon-bleu,-nouveau-ne
+[Dragon bleu, nouveau-né]: monsters_hd.md#dragon-bleu,-nouveau-né
 
 
 # Adult Brass Dragon
@@ -2953,7 +2953,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Sleep Breath_**. The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-[Dragon d'airain, nouveau-né]: monsters_hd.md#dragon-dairain,-nouveau-ne
+[Dragon d'airain, nouveau-né]: monsters_hd.md#dragon-dairain,-nouveau-né
 
 
 # Adult Silver Dragon
@@ -3125,7 +3125,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Paralyzing Breath_**. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Dragon d'argent, nouveau-né]: monsters_hd.md#dragon-dargent,-nouveau-ne
+[Dragon d'argent, nouveau-né]: monsters_hd.md#dragon-dargent,-nouveau-né
 
 
 # Adult Gold Dragon
@@ -3309,7 +3309,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Weakening Breath_**. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Dragon d'or, nouveau-né]: monsters_hd.md#dragon-dor,-nouveau-ne
+[Dragon d'or, nouveau-né]: monsters_hd.md#dragon-dor,-nouveau-né
 
 
 # Adult Bronze Dragon
@@ -3493,7 +3493,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
-[Dragon de bronze, nouveau-né]: monsters_hd.md#dragon-de-bronze,-nouveau-ne
+[Dragon de bronze, nouveau-né]: monsters_hd.md#dragon-de-bronze,-nouveau-né
 
 
 # Adult Copper Dragon
@@ -3663,7 +3663,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Slowing Breath_**. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-[Dragon de cuivre, nouveau-né]: monsters_hd.md#dragon-de-cuivre,-nouveau-ne
+[Dragon de cuivre, nouveau-né]: monsters_hd.md#dragon-de-cuivre,-nouveau-né
 
 
 # Adult Black Dragon
@@ -3827,7 +3827,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Acid Breath (Recharge 5–6)_**. The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-[Dragon noir, nouveau-né]: monsters_hd.md#dragon-noir,-nouveau-ne
+[Dragon noir, nouveau-né]: monsters_hd.md#dragon-noir,-nouveau-né
 
 
 # Adult Red Dragon
@@ -3979,7 +3979,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
-[Dragon rouge, nouveau-né]: monsters_hd.md#dragon-rouge,-nouveau-ne
+[Dragon rouge, nouveau-né]: monsters_hd.md#dragon-rouge,-nouveau-né
 
 
 # Adult Green Dragon
@@ -4143,7 +4143,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
-[Dragon vert, nouveau-né]: monsters_hd.md#dragon-vert,-nouveau-ne
+[Dragon vert, nouveau-né]: monsters_hd.md#dragon-vert,-nouveau-né
 
 
 # Dragon Turtle
@@ -4447,7 +4447,7 @@ At will: _[detect evil and good]_
 
 **_Change Shape_**. The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice). In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
 
-[Déva]: monsters_hd.md#deva
+[Déva]: monsters_hd.md#déva
 
 
 # Priest
@@ -4485,7 +4485,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Mace_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) bludgeoning damage.
 
-[Prêtre]: monsters_hd.md#pretre
+[Prêtre]: monsters_hd.md#prêtre
 
 
 # Roper
@@ -4733,7 +4733,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Possession (Recharge 6)_**. One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies. The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the _[dispel evil and good]_ spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
-[Fantôme]: monsters_hd.md#fantome
+[Fantôme]: monsters_hd.md#fantôme
 
 
 # Hawk
@@ -4887,7 +4887,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Shield_**. When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 
-[Gardien animé]: monsters_hd.md#gardien-anime
+[Gardien animé]: monsters_hd.md#gardien-animé
 
 
 # Gargoyle
@@ -4951,7 +4951,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Split_**. When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
-[Gelée ocre]: monsters_hd.md#gelee-ocre
+[Gelée ocre]: monsters_hd.md#gelée-ocre
 
 
 # Glabrezu
@@ -5457,7 +5457,7 @@ At will: _[nondetection]_ (self only)
 
 **_Swallow_**. The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
-[Grenouille géante]: monsters_hd.md#grenouille-geante
+[Grenouille géante]: monsters_hd.md#grenouille-géante
 
 
 # Grick
@@ -5685,7 +5685,7 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 
 **_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-[Guêpe géante]: monsters_hd.md#guepe-geante
+[Guêpe géante]: monsters_hd.md#guêpe-géante
 
 
 # Gynosphinx
@@ -5769,7 +5769,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Rock_**. Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. _Hit_: 21 (3d10 + 5) bludgeoning damage.
 
-[Géant des collines]: monsters_hd.md#geant-des-collines
+[Géant des collines]: monsters_hd.md#géant-des-collines
 
 
 # Cloud Giant
@@ -5809,7 +5809,7 @@ At will: _[detect magic], [fog cloud], light_
 
 **_Rock_**. Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. _Hit_: 30 (4d10 + 8) bludgeoning damage.
 
-[Géant des nuages]: monsters_hd.md#geant-des-nuages
+[Géant des nuages]: monsters_hd.md#géant-des-nuages
 
 
 # Stone Giant
@@ -5843,7 +5843,7 @@ At will: _[detect magic], [fog cloud], light_
 
 **_Rock Catching_**. If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 
-[Géant des pierres]: monsters_hd.md#geant-des-pierres
+[Géant des pierres]: monsters_hd.md#géant-des-pierres
 
 
 # Storm Giant
@@ -5883,7 +5883,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Lightning Strike (Recharge 5-6)_**. The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
-[Géant des tempêtes]: monsters_hd.md#geant-des-tempetes
+[Géant des tempêtes]: monsters_hd.md#géant-des-tempêtes
 
 
 # Fire Giant
@@ -5911,7 +5911,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Rock_**. Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
-[Géant du feu]: monsters_hd.md#geant-du-feu
+[Géant du feu]: monsters_hd.md#géant-du-feu
 
 
 # Frost Giant
@@ -5939,7 +5939,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. _Hit_: 28 (4d10 + 6) bludgeoning damage.
 
-[Géant du givre]: monsters_hd.md#geant-du-givre
+[Géant du givre]: monsters_hd.md#géant-du-givre
 
 
 # Harpy
@@ -6089,7 +6089,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
-[Hippocampe géant]: monsters_hd.md#hippocampe-geant
+[Hippocampe géant]: monsters_hd.md#hippocampe-géant
 
 
 # Hippogriff
@@ -6187,7 +6187,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Spiked Shield_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
 
-[Homme-lézard]: monsters_hd.md#homme-lezard
+[Homme-lézard]: monsters_hd.md#homme-lézard
 
 
 # Merfolk
@@ -6307,7 +6307,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) piercing damage.
 
-[Hyène]: monsters_hd.md#hyene
+[Hyène]: monsters_hd.md#hyène
 
 
 # Giant Hyena
@@ -6335,7 +6335,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage.
 
-[Hyène géante]: monsters_hd.md#hyene-geante
+[Hyène géante]: monsters_hd.md#hyène-géante
 
 
 # Kobold
@@ -6775,7 +6775,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Fist_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
 
-[Lémure]: monsters_hd.md#lemure
+[Lémure]: monsters_hd.md#lémure
 
 
 # Lizard
@@ -6799,7 +6799,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
-[Lézard]: monsters_hd.md#lezard
+[Lézard]: monsters_hd.md#lézard
 
 
 # Giant Lizard
@@ -6823,7 +6823,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
-[Lézard géant]: monsters_hd.md#lezard-geant
+[Lézard géant]: monsters_hd.md#lézard-géant
 
 
 # Mage
@@ -7187,7 +7187,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-[Mille-pattes géant]: monsters_hd.md#mille-pattes-geant
+[Mille-pattes géant]: monsters_hd.md#mille-pattes-géant
 
 
 # Mimic
@@ -7505,7 +7505,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Longbow_**. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
-[Méduse]: monsters_hd.md#meduse
+[Méduse]: monsters_hd.md#méduse
 
 
 # Mud Mephit
@@ -7537,7 +7537,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Mud Breath (Recharge 6)_**. The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Méphite de boue]: monsters_hd.md#mephite-de-boue
+[Méphite de boue]: monsters_hd.md#méphite-de-boue
 
 
 # Smoke Mephit
@@ -7569,7 +7569,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Cinder Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded until the end of the mephit's next turn.
 
-[Méphite de fumée]: monsters_hd.md#mephite-de-fumee
+[Méphite de fumée]: monsters_hd.md#méphite-de-fumée
 
 
 # Ice Mephit
@@ -7603,7 +7603,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Frost Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 
-[Méphite de glace]: monsters_hd.md#mephite-de-glace
+[Méphite de glace]: monsters_hd.md#méphite-de-glace
 
 
 # Magma Mephit
@@ -7637,7 +7637,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Fire Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
-[Méphite de magma]: monsters_hd.md#mephite-de-magma
+[Méphite de magma]: monsters_hd.md#méphite-de-magma
 
 
 # Dust Mephit
@@ -7669,7 +7669,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Blinding Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Méphite de poussière]: monsters_hd.md#mephite-de-poussiere
+[Méphite de poussière]: monsters_hd.md#méphite-de-poussière
 
 
 # Steam Mephit
@@ -7701,7 +7701,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Steam Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 
-[Méphite de vapeur]: monsters_hd.md#mephite-de-vapeur
+[Méphite de vapeur]: monsters_hd.md#méphite-de-vapeur
 
 
 # Spirit Naga
@@ -7879,7 +7879,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Bites_**. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-[Nuée d'insectes]: monsters_hd.md#nuee-dinsectes
+[Nuée d'insectes]: monsters_hd.md#nuée-dinsectes
 
 
 # Swarm of Bats
@@ -7911,7 +7911,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-[Nuée de chauves-souris]: monsters_hd.md#nuee-de-chauves-souris
+[Nuée de chauves-souris]: monsters_hd.md#nuée-de-chauves-souris
 
 
 # Swarm of Ravens
@@ -7939,7 +7939,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Beaks_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-[Nuée de corbeaux]: monsters_hd.md#nuee-de-corbeaux
+[Nuée de corbeaux]: monsters_hd.md#nuée-de-corbeaux
 
 
 # Swarm of Quippers
@@ -7971,7 +7971,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Bites_**. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-[Nuée de piranhas]: monsters_hd.md#nuee-de-piranhas
+[Nuée de piranhas]: monsters_hd.md#nuée-de-piranhas
 
 
 # Swarm of Rats
@@ -8001,7 +8001,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Bites_**. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-[Nuée de rats]: monsters_hd.md#nuee-de-rats
+[Nuée de rats]: monsters_hd.md#nuée-de-rats
 
 
 # Swarm of Poisonous Snakes
@@ -8029,7 +8029,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Bites_**. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-[Nuée de serpents venimeux]: monsters_hd.md#nuee-de-serpents-venimeux
+[Nuée de serpents venimeux]: monsters_hd.md#nuée-de-serpents-venimeux
 
 
 # Wight
@@ -8063,7 +8063,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
-[Nécrophage]: monsters_hd.md#necrophage
+[Nécrophage]: monsters_hd.md#nécrophage
 
 
 # Ogre
@@ -8423,7 +8423,7 @@ At will: _[darkness], [invisibility]_
 
 **_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) slashing damage.
 
-[Panthère]: monsters_hd.md#panthere
+[Panthère]: monsters_hd.md#panthère
 
 
 # Octopus
@@ -8491,7 +8491,7 @@ At will: _[darkness], [invisibility]_
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
-[Pieuvre géante]: monsters_hd.md#pieuvre-geante
+[Pieuvre géante]: monsters_hd.md#pieuvre-géante
 
 
 # Quipper
@@ -8565,7 +8565,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-[Planétar]: monsters_hd.md#planetar
+[Planétar]: monsters_hd.md#planétar
 
 
 # Plesiosaurus
@@ -8593,7 +8593,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 14 (3d6 + 4) piercing damage.
 
-[Plésiosaure]: monsters_hd.md#plesiosaure
+[Plésiosaure]: monsters_hd.md#plésiosaure
 
 
 # Pony
@@ -8713,7 +8713,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) piercing damage.
 
-[Ptéranodon]: monsters_hd.md#pteranodon
+[Ptéranodon]: monsters_hd.md#ptéranodon
 
 
 # Giant Fire Beetle
@@ -8741,7 +8741,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 2 (1d6 - 1) slashing damage.
 
-[Punaise de feu géante]: monsters_hd.md#punaise-de-feu-geante
+[Punaise de feu géante]: monsters_hd.md#punaise-de-feu-géante
 
 
 # Pegasus
@@ -8765,7 +8765,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
-[Pégase]: monsters_hd.md#pegase
+[Pégase]: monsters_hd.md#pégase
 
 
 # Quasit
@@ -8895,7 +8895,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
-[Rat géant]: monsters_hd.md#rat-geant
+[Rat géant]: monsters_hd.md#rat-géant
 
 
 # Wererat
@@ -8961,7 +8961,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
-[Requin de récif]: monsters_hd.md#requin-de-recif
+[Requin de récif]: monsters_hd.md#requin-de-récif
 
 
 # Giant Shark
@@ -8991,7 +8991,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Bite_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 22 (3d10 + 6) piercing damage.
 
-[Requin géant]: monsters_hd.md#requin-geant
+[Requin géant]: monsters_hd.md#requin-géant
 
 
 # Hunter Shark
@@ -9049,7 +9049,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Gore_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
-[Rhinocéros]: monsters_hd.md#rhinoceros
+[Rhinocéros]: monsters_hd.md#rhinocéros
 
 
 # Roc
@@ -9135,7 +9135,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Swallow_**. The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
-[Rémorhaz]: monsters_hd.md#remorhaz
+[Rémorhaz]: monsters_hd.md#rémorhaz
 
 
 # Sahuagin
@@ -9267,7 +9267,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Tusk_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
 
-[Sanglier géant]: monsters_hd.md#sanglier-geant
+[Sanglier géant]: monsters_hd.md#sanglier-géant
 
 
 # Wereboar
@@ -9387,7 +9387,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-[Scorpion géant]: monsters_hd.md#scorpion-geant
+[Scorpion géant]: monsters_hd.md#scorpion-géant
 
 
 # Constrictor Snake
@@ -9439,7 +9439,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Constrict_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
-[Serpent constricteur géant]: monsters_hd.md#serpent-constricteur-geant
+[Serpent constricteur géant]: monsters_hd.md#serpent-constricteur-géant
 
 
 # Poisonous Snake
@@ -9487,7 +9487,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-[Serpent venimeux géant]: monsters_hd.md#serpent-venimeux-geant
+[Serpent venimeux géant]: monsters_hd.md#serpent-venimeux-géant
 
 
 # Flying Snake
@@ -9543,7 +9543,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Rock_**. Ranged Weapon Attack: +9 to hit, range 50/100 ft., one target. _Hit_: 30 (7d6 + 6) bludgeoning damage.
 
-[Singe géant]: monsters_hd.md#singe-geant
+[Singe géant]: monsters_hd.md#singe-géant
 
 
 # Solar
@@ -9839,7 +9839,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Smother_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
-[Tapis étouffant]: monsters_hd.md#tapis-etouffant
+[Tapis étouffant]: monsters_hd.md#tapis-étouffant
 
 
 # Tarrasque
@@ -9991,7 +9991,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) slashing damage.
 
-[Tigre à dents de sabre]: monsters_hd.md#tigre-a-dents-de-sabre
+[Tigre à dents de sabre]: monsters_hd.md#tigre-à-dents-de-sabre
 
 
 # Weretiger
@@ -10125,7 +10125,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Stomp_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. _Hit_: 22 (3d10 + 6) bludgeoning damage
 
-[Tricératops]: monsters_hd.md#triceratops
+[Tricératops]: monsters_hd.md#tricératops
 
 
 # Troll
@@ -10393,7 +10393,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Talons_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 9 (2d6 + 2) slashing damage.
 
-[Vautour géant]: monsters_hd.md#vautour-geant
+[Vautour géant]: monsters_hd.md#vautour-géant
 
 
 # Purple Worm
@@ -10523,7 +10523,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Heavy Crossbow_**. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. _Hit_: 6 (1d10 + 1) piercing damage.
 
-[Vétéran]: monsters_hd.md#veteran
+[Vétéran]: monsters_hd.md#vétéran
 
 
 # Worg
@@ -10623,7 +10623,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Chilling Gaze_**. The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
 
-[Yéti]: monsters_hd.md#yeti
+[Yéti]: monsters_hd.md#yéti
 
 
 # Zombie
@@ -10711,7 +10711,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Create Specter_**. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 
-[Âme en peine]: monsters_hd.md#ame-en-peine
+[Âme en peine]: monsters_hd.md#âme-en-peine
 
 
 # Scout
@@ -10743,7 +10743,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Longbow_**. Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
-[Éclaireur]: monsters_hd.md#eclaireur
+[Éclaireur]: monsters_hd.md#éclaireur
 
 
 # Efreeti
@@ -10783,7 +10783,7 @@ At will: _[detect magic]_
 
 **_Hurl Flame_**. Ranged Spell Attack: +7 to hit, range 120 ft., one target. _Hit_: 17 (5d6) fire damage.
 
-[Éfrit]: monsters_hd.md#efrit
+[Éfrit]: monsters_hd.md#éfrit
 
 
 # Elk
@@ -10813,7 +10813,7 @@ At will: _[detect magic]_
 
 **_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
-[Élan]: monsters_hd.md#elan
+[Élan]: monsters_hd.md#élan
 
 
 # Giant Elk
@@ -10843,7 +10843,7 @@ At will: _[detect magic]_
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. _Hit_: 22 (4d8 + 4) bludgeoning damage.
 
-[Élan géant]: monsters_hd.md#elan-geant
+[Élan géant]: monsters_hd.md#élan-géant
 
 
 # Air Elemental
@@ -10875,7 +10875,7 @@ At will: _[detect magic]_
 
 **_Whirlwind (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 
-[Élémentaire de l'air]: monsters_hd.md#elementaire-de-lair
+[Élémentaire de l'air]: monsters_hd.md#élémentaire-de-lair
 
 
 # Water Elemental
@@ -10909,7 +10909,7 @@ At will: _[detect magic]_
 
 **_Whelm (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
 
-[Élémentaire de l'eau]: monsters_hd.md#elementaire-de-leau
+[Élémentaire de l'eau]: monsters_hd.md#élémentaire-de-leau
 
 
 # Earth Elemental
@@ -10941,7 +10941,7 @@ At will: _[detect magic]_
 
 **_Slam_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
-[Élémentaire de la terre]: monsters_hd.md#elementaire-de-la-terre
+[Élémentaire de la terre]: monsters_hd.md#élémentaire-de-la-terre
 
 
 # Fire Elemental
@@ -10975,7 +10975,7 @@ At will: _[detect magic]_
 
 **_Touch_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
-[Élémentaire du feu]: monsters_hd.md#elementaire-du-feu
+[Élémentaire du feu]: monsters_hd.md#élémentaire-du-feu
 
 
 # Elephant
@@ -11005,7 +11005,7 @@ At will: _[detect magic]_
 
 **_Stomp_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. _Hit_: 22 (3d10 + 6) bludgeoning damage.
 
-[Éléphant]: monsters_hd.md#elephant
+[Éléphant]: monsters_hd.md#éléphant
 
 
 # Killer Whale
@@ -11037,7 +11037,7 @@ At will: _[detect magic]_
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 21 (5d6 + 4) piercing damage.
 
-[Épaulard]: monsters_hd.md#epaulard
+[Épaulard]: monsters_hd.md#épaulard
 
 
 # Flying Sword
@@ -11067,7 +11067,7 @@ At will: _[detect magic]_
 
 **_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) slashing damage.
 
-[Épée volante]: monsters_hd.md#epee-volante
+[Épée volante]: monsters_hd.md#épée-volante
 
 
 # Erinyes
@@ -11103,6 +11103,6 @@ At will: _[detect magic]_
 
 **_Parry_**. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
-[Érinye]: monsters_hd.md#erinye
+[Érinye]: monsters_hd.md#érinye
 
 
