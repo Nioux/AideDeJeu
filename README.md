@@ -10,4 +10,5 @@ Ce site contient plusieurs ressources pour vos parties du plus grand jeu de rôl
 
 [![Microsoft Store](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.UWP/microsoft-store-badge.png)](https://www.microsoft.com/fr-fr/p/aide-de-jeu/9nvns0j25ct7)
 
+
 Tout le contenu issu du SRD est soumis à la [licence OGL](https://raw.githubusercontent.com/Nioux/AideDeJeu/master/AideDeJeu/AideDeJeu/OGL.txt).
