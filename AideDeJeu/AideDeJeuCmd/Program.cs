@@ -75,9 +75,9 @@ namespace AideDeJeuCmd
 
             //var mdhd = spellsHD.ToMarkdownString();
             //var spellsMDHD = spellsHD.ToMarkdownString();
-            var spellsMDVO = spellsVO.ToMarkdownString();
+            //var spellsMDVO = spellsVO.ToMarkdownString();
             var monstersMDVO = monstersVO.ToMarkdownString();
-            await SaveStringAsync(dataDir + "spells_vo.md", spellsMDVO);
+            //await SaveStringAsync(dataDir + "spells_vo.md", spellsMDVO);
             await SaveStringAsync(dataDir + "monsters_vo.md", monstersMDVO);
 
             //using (var instream = new StreamReader(dataDir + "monsters_hd.md", Encoding.UTF8))

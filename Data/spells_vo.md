@@ -226,9 +226,9 @@ A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divor
 
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
 
-**_Targeted Effects_**. Spells and other magical effects, such as _<a href="https://www.aidedd.org/dnd/sorts.php?vo=magic-missile">magic missile</a>_ and _<a href="https://www.aidedd.org/dnd/sorts.php?vo=charm-person">charm person</a>_, that target a creature or an object in the sphere have no effect on that target.
+**_Targeted Effects_**. Spells and other magical effects, such as _[magic missile]_ and _[charm person]_, that target a creature or an object in the sphere have no effect on that target.
 
-**_Areas of Magic_**. The area of another spell or magical effect, such as _<a href="https://www.aidedd.org/dnd/sorts.php?vo=fireball">fireball</a>_, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wall-of-fire">wall of fire</a>_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+**_Areas of Magic_**. The area of another spell or magical effect, such as _[fireball}_, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _[wall of fire]_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 **_Spells_**. Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 
@@ -240,7 +240,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 **_Creatures and Objects_**. A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.
 
-**_Dispel Magic_**. Spells and magical effects such as _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_ have no effect on the sphere. Likewise, the spheres created by different _<a href="https://www.aidedd.org/dnd/sorts.php?vo=antimagic-field">antimagic field</a>_ spells don't nullify each other.
+**_Dispel Magic_**. Spells and magical effects such as _[dispel magic]_ have no effect on the sphere. Likewise, the spheres created by different _[antimagic field]_ spells don't nullify each other.
 
 [Champ antimagie]: spells_hd.md#champ-antimagie
 
@@ -305,7 +305,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 ### Description
 
-You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting _<a href="https://www.aidedd.org/dnd/sorts.php?vo=knock">knock</a>_ on the object suppresses _<a href="https://www.aidedd.org/dnd/sorts.php?vo=arcane-lock">arcane lock</a>_ for 10 minutes.
+You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting _[knock]_ on the object suppresses _[arcane lock]_ for 10 minutes.
 
 While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
@@ -332,7 +332,7 @@ Your astral form can freely travel through the Astral Plane and can pass through
 
 The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
 
-The spell might also end early for you or one of your companions. A successful _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_ spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
+The spell might also end early for you or one of your companions. A successful _[dispel magic]_ spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
 
 If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
@@ -485,7 +485,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 
 • While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
-A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=remove-curse">remove curse</a>_ spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.
+A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.
 
 **_At Higher Levels_**. If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
 
@@ -1228,7 +1228,7 @@ The DM has the creatures' statistics.
 
 ### Description
 
-You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=greater-restoration">greater restoration</a>_ spell cast on you ends this effect.
+You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A _[greater restoration]_ spell cast on you ends this effect.
 
 On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
 
@@ -1261,7 +1261,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 **Flesh Rot**. The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
-**Mindfire**. The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the _<a href="https://www.aidedd.org/dnd/sorts.php?vo=confusion">confusion</a>_ spell during combat.
+**Mindfire**. The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the _[confusion]_ spell during combat.
 
 **Seizure**. The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
@@ -1774,11 +1774,11 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 ### Description
 
-A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wall-of-force">wall of force</a>_.
+A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by _[wall of force]_.
 
 A creature targeted by this spell must make a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damage. If this damage reduces the target to 0 hit points, it is disintegrated.
 
-A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=true-resurrection">true resurrection</a>_ or a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wish">wish</a>_ spell.
+A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _[true resurrection]_ or a _[wish]_ spell.
 
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot-cube portion of it. A magic item is unaffected by this spell.
 
@@ -1889,7 +1889,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 • 20 hit points or fewer: killed instantly
 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wish">wish</a>_ spell.
+Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a _[wish]_ spell.
 
 [Parole divine]: spells_hd.md#parole-divine
 
@@ -1987,7 +1987,7 @@ At any time thereafter, you can use your action to speak the item's name and cru
 
 If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.
 
-_<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_ or a similar effect successfully applied to the sapphire ends this spell's effect.
+_[dispel magic]_ or a similar effect successfully applied to the sapphire ends this spell's effect.
 
 [Convocations instantanées de Drawmij]: spells_hd.md#convocations-instantanees-de-drawmij
 
@@ -2379,7 +2379,7 @@ On a failed save, the creature's Intelligence and Charisma scores become 1. The 
 
 At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.
 
-The spell can also be ended by _<a href="https://www.aidedd.org/dnd/sorts.php?vo=greater-restoration">greater restoration</a>, <a href="https://www.aidedd.org/dnd/sorts.php?vo=heal">heal</a>_, or _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wish">wish</a>_.
+The spell can also be ended by _[greater restoration], [heal]_, or _[wish]_.
 
 [Esprit faible]: spells_hd.md#esprit-faible
 
@@ -2713,7 +2713,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ### Description
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the _gate_ spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the _<a href="https://www.aidedd.org/dnd/sorts.php?vo=plane-shift">plane shift</a>_ spell.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the _gate_ spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, Feywild, Shadowfell, or the _[plane shift]_ spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell's area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or necrotic damage (your choice when you cast this spell).
 
@@ -2746,7 +2746,7 @@ When you cast the spell, any creature that is completely inside the cage's area 
 
 A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_.
+This spell can't be dispelled by _[dispel magic]_.
 
 [Cage de force]: spells_hd.md#cage-de-force
 
@@ -2849,7 +2849,7 @@ You place a magical command on a creature that you can see within range, forcing
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-You can end the spell early by using an action to dismiss it. A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=remove-curse">remove curse</a>, <a href="https://www.aidedd.org/dnd/sorts.php?vo=greater-restoration">greater restoration</a>_, or _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wish">wish</a>_ spell also ends it.
+You can end the spell early by using an action to dismiss it. A _[remove curse], [greater restoration]_, or _[wish]_ spell also ends it.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
@@ -3086,23 +3086,23 @@ _Guards and wards_ creates the following effects within the warded area.
 
 **Corridors**. Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
 
-**Doors**. All doors in the warded area are magically locked, as if sealed by an _<a href="https://www.aidedd.org/dnd/sorts.php?vo=arcane-lock">arcane lock</a>_ spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the _<a href="https://www.aidedd.org/dnd/sorts.php?vo=minor-illusion">minor illusion</a>_ spell) to make them appear as plain sections of wall.
+**Doors**. All doors in the warded area are magically locked, as if sealed by an _[arcane lock]_ spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the _[minor illusion]_ spell) to make them appear as plain sections of wall.
 
-**Stairs**. Webs fill all stairs in the warded area from top to bottom, as the _<a href="https://www.aidedd.org/dnd/sorts.php?vo=web">web</a>_ spell. These strands regrow in 10 minutes if they are burned or torn away while _guards and wards_ lasts.
+**Stairs**. Webs fill all stairs in the warded area from top to bottom, as the _[web]_ spell. These strands regrow in 10 minutes if they are burned or torn away while _guards and wards_ lasts.
 
 **Other Spell Effect**. You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
-• Place _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dancing-lights">dancing lights</a>_ in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
+• Place _[dancing lights]_ in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
 
 • Place _magic mouth_ in two locations.
 
-• Place _<a href="https://www.aidedd.org/dnd/sorts.php?vo=stinking-cloud">stinking cloud</a>_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
+• Place _[stinking cloud]_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
 
 • Place a constant _gust of wind_ in one corridor or room.
 
-• Place a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=suggestion">suggestion</a>_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
+• Place a _[suggestion]_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
-The whole warded area radiates magic. A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_ cast on a specific effect, if successful, removes only that effect.
+The whole warded area radiates magic. A _[dispel magic]_ cast on a specific effect, if successful, removes only that effect.
 
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
 
@@ -3572,7 +3572,7 @@ The special component for this version of the spell consists of rare soporific h
 
 **_Ending the Spell_**. During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 
-A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_ spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
+A _[dispel magic]_ spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
 
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
 
@@ -3692,7 +3692,7 @@ Choose an object that you can see within range. The object can be a door, a box,
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If you choose a target that is held shut with _<a href="https://www.aidedd.org/dnd/sorts.php?vo=arcane-lock">arcane lock</a>_, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.
+If you choose a target that is held shut with _[arcane lock]_, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 
@@ -3997,7 +3997,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.
 
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=protection-from-evil-and-good">protection from evil and good</a>_ or _magic circle_ spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a _[protection from evil and good]_ or _magic circle_ spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 
 Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.
 
@@ -4302,7 +4302,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 ### Description
 
-Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils _<a href="https://www.aidedd.org/dnd/sorts.php?vo=wish">wish</a>_ spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
+Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils _[wish]_ spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
 
 [Esprit impénétrable]: spells_hd.md#esprit-impenetrable
 
@@ -4436,7 +4436,7 @@ You must speak to the target to describe how its memories are affected, and it m
 
 A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature in a significant manner.
 
-A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=remove-curse">remove curse</a>_ or _<a href="https://www.aidedd.org/dnd/sorts.php?vo=greater-restoration">greater restoration</a>_ spell cast on the target restores the creature's true memory.
+A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores the creature's true memory.
 
 **_At Higher Levels_**. If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
@@ -4622,7 +4622,7 @@ You place an illusion on a creature or an object you touch so that divination sp
 
 When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.
 
-**False Aura**. You change the way the target appears to spells and magical effects, such as _<a href="https://www.aidedd.org/dnd/sorts.php?vo=detect-magic">detect magic</a>_, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.
+**False Aura**. You change the way the target appears to spells and magical effects, such as _[detect magic]_, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.
 
 **Mask**. You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a _symbol_ spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 
@@ -4670,7 +4670,7 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=disintegrate">disintegrate</a>_ spell targeting the globe destroys it without harming anything inside it.
+A _[disintegrate]_ spell targeting the globe destroys it without harming anything inside it.
 
 [Sphère résiliente d'Otiluke]: spells_hd.md#sphere-resiliente-d'otiluke
 
@@ -5043,7 +5043,7 @@ The wall sheds bright light out to a range of 100 feet and dim light for an addi
 
 The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.
 
-The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An _<a href="https://www.aidedd.org/dnd/sorts.php?vo=antimagic-field">antimagic field</a>_ has no effect on it.
+The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An _[antimagic field]_ has no effect on it.
 
 **1. Red**. The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
 
@@ -5051,15 +5051,15 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 **3. Yellow**. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
 
-**4. Green**. The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=passwall">passwall</a>_ spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+**4. Green**. The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A _[passwall]_ spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 
 **5. Blue**. The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
 
 **6. Indigo**. On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
 
-While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=daylight">daylight</a>_ spell or a similar spell of equal or higher level.
+While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a _[daylight]_ spell or a similar spell of equal or higher level.
 
-**7. Violet**. On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_ spell or a similar spell of equal or higher level that can end spells and magical effects.
+**7. Violet**. On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _[dispel magic]_ spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 [Mur prismatique]: spells_hd.md#mur-prismatique
 
@@ -5669,7 +5669,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 ### Description
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _<a href="https://www.aidedd.org/dnd/sorts.php?vo=magic-missile">magic missile</a>_.
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _[magic missile]_.
 
 [Bouclier]: spells_hd.md#bouclier
 
@@ -5930,7 +5930,7 @@ Plants might be able to perform other tasks on your behalf, at the DM's discreti
 
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the _<a href="https://www.aidedd.org/dnd/sorts.php?vo=entangle">entangle</a>_ spell to release a restrained creature.
+This spell can cause the plants created by the _[entangle]_ spell to release a restrained creature.
 
 [Communication avec les plantes]: spells_hd.md#communication-avec-les-plantes
 
@@ -6640,7 +6640,7 @@ The other side of the wall deals no damage.
 
 An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice which side).
 
-Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by _<a href="https://www.aidedd.org/dnd/sorts.php?vo=dispel-magic">dispel magic</a>_. A _<a href="https://www.aidedd.org/dnd/sorts.php?vo=disintegrate">disintegrate</a>_ spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
+Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by _[dispel magic]_. A _[disintegrate]_ spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane, blocking ethereal travel through the wall.
 
 [Mur de force]: spells_hd.md#mur-de-force
 
@@ -6875,7 +6875,7 @@ Alternatively, you can create one of the following effects of your choice:
 
 • You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
 
-• You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _<a href="https://www.aidedd.org/dnd/sorts.php?vo=greater-restoration">greater restoration</a>_ spell.
+• You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _[greater restoration]_ spell.
 
 • You grant up to ten creatures that you can see resistance to a damage type you choose.
 
