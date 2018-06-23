@@ -15,7 +15,7 @@
 - **Languages** Deep Speech, telepathy 120 ft.
 - **Challenge** 10 (5900 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The aboleth can breathe air and water.
 
@@ -23,7 +23,7 @@
 
 **_Probing Telepathy_**. If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The aboleth makes three tentacle attacks.
 
@@ -33,7 +33,7 @@
 
 **_Enslave (3/Day)_**. The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
-### Legendary Actions
+## Legendary Actions
 
 The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
 
@@ -62,7 +62,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** any one language (usually Common)
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Spellcasting_**. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
@@ -70,7 +70,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 1st level (3 slots): _[bless], [cure wounds], [sanctuary]_
 
-### Actions
+## Actions
 
 **_Club_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
 
@@ -93,11 +93,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Talons_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) slashing damage.
 
@@ -120,11 +120,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** Giant Eagle understands Common and Auran but can't speak them
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The eagle makes two attacks: one with its beak and one with its talons.
 
@@ -151,11 +151,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Pounce_**. If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the allosaurus can make one bite attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage.
 
@@ -182,7 +182,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Challenge** 17 (18000 XP)
 - **Damage Immunities** psychic; bludgeoning, piercing and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Inscrutable_**. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 
@@ -204,7 +204,7 @@ Cantrips (at will): _[sacred flame], [spare the dying], [thaumaturgy]_
 
 6th level (1 slot): _[heroes' feast]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The sphinx makes two claw attacks.
 
@@ -218,7 +218,7 @@ Cantrips (at will): _[sacred flame], [spare the dying], [thaumaturgy]_
 
 **_Third Roar_**. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
-### Legendary Actions
+## Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -246,7 +246,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.
 
@@ -270,7 +270,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** -
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Tail_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
@@ -293,7 +293,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Spider Climb_**. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -301,7 +301,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Web Walker_**. The spider ignores movement restrictions caused by webbing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
@@ -324,7 +324,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** -
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Ethereal Jaunt_**. As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
 
@@ -332,7 +332,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Web Walker_**. The spider ignores movement restrictions caused by webbing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -355,7 +355,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Spider Climb_**. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -363,7 +363,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Web Walker_**. The spider ignores movement restrictions caused by webbing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -388,7 +388,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Spider Climb_**. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -396,7 +396,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Web Walker_**. The spider ignores movement restrictions caused by webbing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -420,11 +420,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Damage Resistances** bludgeoning, piercing
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the tree remains motionless, it is indistinguishable from a normal tree.
 
-### Actions
+## Actions
 
 **_Slam_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 14 (3d6 + 4) bludgeoning damage.
 
@@ -448,11 +448,11 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Damage Resistances** piercing
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
-### Actions
+## Actions
 
 **_Rake_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) slashing damage.
 
@@ -477,7 +477,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 12 (8400 XP)
 - **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The archmage has advantage on saving throws against spells and other magical effects.
 
@@ -505,7 +505,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 * The archmage casts these spells on itself before combat.
 
-### Actions
+## Actions
 
 **_Dagger_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -528,13 +528,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** poison, psychic
 
-### Special Features
+## Special Features
 
 **_Antimagic Susceptibility_**. The armor is incapacitated while in the area of an _[antimagic field]_. If targeted by _[dispel magic]_, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
 **_False_**. Appearance. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The armor makes two melee attacks.
 
@@ -561,7 +561,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 - **Challenge** 8 (3900 XP)
 - **Damage Resistances** poison
 
-### Special Features
+## Special Features
 
 **_Assassinate_**. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
 
@@ -569,7 +569,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 **_Sneak Attack_**. Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The assassin makes two shortsword attacks.
 
@@ -597,7 +597,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** fire, poison
 
-### Special Features
+## Special Features
 
 **_Heated Body_**. A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.
 
@@ -605,7 +605,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 **_Illumination_**. The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-### Actions
+## Actions
 
 **_Warhammer_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
@@ -627,11 +627,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Pack Tactics_**. The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) piercing damage.
 
@@ -653,7 +653,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Aberrant Ground_**. The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its
 
@@ -661,7 +661,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Gibbering_**. The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.
 
@@ -690,7 +690,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Death Throes_**. When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
 
@@ -700,7 +700,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Magic Weapons_**. The balor's weapon attacks are magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The balor makes two attacks: one with its longsword and one with its whip.
 
@@ -728,7 +728,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) slashing damage.
 
@@ -754,7 +754,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** any two languages
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 
@@ -785,13 +785,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Damage Immunities** cold, necrotic, poison
 - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Detect Life_**. The banshee can magically sense the presence of living creatures up to 5 miles away that aren't undead or constructs. She knows the general direction they're in but not their exact locations.
 
 **_Incorporeal Movement_**. The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 
-### Actions
+## Actions
 
 **_Corrupting Touch_**. Melee Spell Attack: +4 to hit, reach 5 ft., one target. _Hit_: 12 (3d6 + 2) necrotic damage.
 
@@ -817,11 +817,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Petrifying Gaze_**. If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the _[greater restoration]_ spell or other magic. A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
@@ -843,7 +843,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) slashing damage.
 
@@ -866,11 +866,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
@@ -893,11 +893,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage.
 
@@ -919,11 +919,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** any one language (usually Common)
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Reckless_**. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-### Actions
+## Actions
 
 **_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 9 (1d12 + 3) slashing damage.
 
@@ -945,11 +945,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
@@ -971,11 +971,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The badger makes two attacks: one with its bite and one with its claws.
 
@@ -1003,13 +1003,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Damage Immunities** poison
 - **Damage Resistances** necrotic
 
-### Special Features
+## Special Features
 
 **_Stench_**. Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 
 **_Turning Defiance_**. The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 12 (2d8 + 3) piercing damage.
 
@@ -1035,11 +1035,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Challenge** 1/8 (25 XP)
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the blight remains motionless, it is indistinguishable from a dead shrub.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) piercing damage.
 
@@ -1062,11 +1062,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Standing Leap_**. The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft, one target. _Hit_: 30 (4d12 + 4) piercing damage.
 
@@ -1092,7 +1092,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Challenge** 11 (7200 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The behir makes two attacks: one with its bite and one to constrict.
 
@@ -1123,11 +1123,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** Elvish, Sylvan
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
@@ -1156,13 +1156,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 **_Pack Tactics_**. The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) piercing damage.
 
@@ -1184,7 +1184,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
 
@@ -1207,11 +1207,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
 
@@ -1233,13 +1233,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Echolocation_**. The bat can't use its blindsight while deafened.
 
 **_Keen Hearing_**. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage.
 
@@ -1261,13 +1261,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Echolocation_**. The bat can't use its blindsight while deafened.
 
 **_Keen Hearing_**. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage.
 
@@ -1289,11 +1289,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Trampling Charge_**. If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
@@ -1315,7 +1315,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
@@ -1337,7 +1337,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (2d4 + 4) bludgeoning damage.
 
@@ -1360,11 +1360,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** any one language (usually Common)
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Brave_**. The knight has advantage on saving throws against being frightened.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The knight makes two melee attacks.
 
@@ -1394,7 +1394,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) piercing damage.
 
@@ -1417,11 +1417,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Two-Headed_**. The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dog makes two bite attacks.
 
@@ -1446,11 +1446,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** Blink Dog understands Sylvan but can't speak it
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage.
 
@@ -1475,7 +1475,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** understands Draconic but can't speak
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 
@@ -1506,13 +1506,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Flyby_**. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 **_Keen Hearing and Sight_**. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+## Actions
 
 **_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
 
@@ -1535,13 +1535,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** Giant Owl understands Common, Elvish, and
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Flyby_**. The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 **_Keen Hearing and Sight_**. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+## Actions
 
 **_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
 
@@ -1565,13 +1565,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The chuul can breathe air and water.
 
 **_Sense Magic_**. The chuul senses magic within 120 feet of it at will. This trait otherwise works like the _[detect magic]_ spell but isn't itself magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
 
@@ -1597,13 +1597,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
 
 **_Sure-Footed_**. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+## Actions
 
 **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
@@ -1625,13 +1625,13 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 **_Sure-Footed_**. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+## Actions
 
 **_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
@@ -1653,7 +1653,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
@@ -1676,11 +1676,11 @@ Speed reduced to 0 until the start of its next turn.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Mimicry_**. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-### Actions
+## Actions
 
 **_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
@@ -1705,7 +1705,7 @@ Speed reduced to 0 until the start of its next turn.
 - **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances** radiant
 
-### Special Features
+## Special Features
 
 **_Innate Spellcasting_**. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
@@ -1719,7 +1719,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 **_Shielded Mind_**. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. _Hit_: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
@@ -1746,11 +1746,11 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The crab can breathe air and water.
 
-### Actions
+## Actions
 
 **_Claw_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 bludgeoning damage.
 
@@ -1773,11 +1773,11 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The crab can breathe air and water.
 
-### Actions
+## Actions
 
 **_Claw_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
@@ -1799,13 +1799,13 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The toad can breathe air and water.
 
 **_Standing Leap_**. The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 
@@ -1829,7 +1829,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
@@ -1854,11 +1854,11 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. The crocodile can hold its breath for 15 minutes.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
@@ -1881,11 +1881,11 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Languages** -
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. The crocodile can hold its breath for 30 minutes.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The crocodile makes two attacks: one with its bite and one with its tail.
 
@@ -1914,7 +1914,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 - **Damage Immunities** cold, fire, poison
 - **Damage Resistances** lightning, necrotic, piercing
 
-### Special Features
+## Special Features
 
 **_Illumination_**. The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.
 
@@ -1932,7 +1932,7 @@ Cantrip (at will): _[mage hand]_
 
 3rd level (1 slot): _[fireball]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The flameskull uses Fire Ray twice.
 
@@ -1956,13 +1956,13 @@ Cantrip (at will): _[mage hand]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Ooze Cube_**. The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw. Creatures inside the cube can be seen but have total cover. A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage. The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.
 
 **_Transparent_**. Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
 
-### Actions
+## Actions
 
 **_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) acid damage.
 
@@ -1986,11 +1986,11 @@ Cantrip (at will): _[mage hand]_
 - **Languages** Giant
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Poor Depth Perception_**. The cyclops has disadvantage on any attack roll against a target more than 30 feet away.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The cyclops makes two greatclub attacks.
 
@@ -2017,13 +2017,13 @@ Cantrip (at will): _[mage hand]_
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Confer Fire Resistance_**. The nightmare can grant resistance to fire damage to anyone riding it.
 
 **_Illumination_**. The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-### Actions
+## Actions
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
@@ -2051,7 +2051,7 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Barbed Hide_**. At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
 
@@ -2059,7 +2059,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
@@ -2090,7 +2090,7 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
 
@@ -2098,7 +2098,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Steadfast_**. The devil can't be frightened while it can see an allied creature within 30 feet of it.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The devil makes two attacks: one with its beard and one with its glaive.
 
@@ -2127,13 +2127,13 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-### Special Features
+## Special Features
 
 **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
 
 **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 
@@ -2164,13 +2164,13 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
 
 **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The devil makes two attacks with its chains.
 
@@ -2201,13 +2201,13 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** cold, fire, poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
 
 **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
@@ -2241,13 +2241,13 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Devil's Sight_**. Magical darkness doesn't impede the devil's darkvision.
 
 **_Magic Resistance_**. The devil has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The devil makes three attacks: two with its claws and one with its sting.
 
@@ -2276,7 +2276,7 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -2284,7 +2284,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Magic Resistance_**. The imp has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Sting (Bite in Beast Form)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -2311,7 +2311,7 @@ Cantrip (at will): _[mage hand]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Fear Aura_**. Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 
@@ -2325,7 +2325,7 @@ At will: _[detect magic], [fireball]_
 
 3/day each: _[hold monster], [wall of fire]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
@@ -2357,7 +2357,7 @@ At will: _[detect magic], [fireball]_
 - **Challenge** 11 (7200 XP)
 - **Damage Immunities** lightning, thunder
 
-### Special Features
+## Special Features
 
 **_Elemental Demise_**. If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 
@@ -2369,7 +2369,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 1/day each: _[conjure elemental]_ (air elemental only), _[creation], [gaseous form], [invisibility], [major image], [plane shift]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The djinni makes three scimitar attacks.
 
@@ -2396,7 +2396,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 - **Languages** Common
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -2404,7 +2404,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 **_Surprise Attack_**. If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The doppelganger makes two melee attacks.
 
@@ -2433,13 +2433,13 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 - **Challenge** 13 (10000 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Ice Walk_**. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2453,7 +2453,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2484,13 +2484,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 20 (25000 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Ice Walk_**. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2504,7 +2504,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2535,11 +2535,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 6 (2300 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Ice Walk_**. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -2570,7 +2570,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
@@ -2597,11 +2597,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 16 (15000 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2615,7 +2615,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2646,11 +2646,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 23 (50000 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2664,7 +2664,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2695,7 +2695,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -2726,7 +2726,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
@@ -2753,11 +2753,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 13 (10000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2775,7 +2775,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Sleep Breath_**. The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2806,11 +2806,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 20 (25000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2830,7 +2830,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2861,7 +2861,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 6 (2300 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -2896,7 +2896,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage.
 
@@ -2927,11 +2927,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 16 (15000 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -2951,7 +2951,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -2982,11 +2982,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 23 (50000 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3006,7 +3006,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3037,7 +3037,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -3072,7 +3072,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage.
 
@@ -3103,13 +3103,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 17 (18000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3129,7 +3129,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3160,13 +3160,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 24 (62000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3186,7 +3186,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3217,11 +3217,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 10 (5900 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -3256,11 +3256,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage.
 
@@ -3291,13 +3291,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 15 (13000 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3317,7 +3317,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3348,13 +3348,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 22 (41000 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3374,7 +3374,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3405,11 +3405,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -3444,11 +3444,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** lightning
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage.
 
@@ -3479,11 +3479,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 14 (11500 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3501,7 +3501,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Slowing Breath_**. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3532,11 +3532,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 21 (33000 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3556,7 +3556,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Change Shape_**. The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3587,7 +3587,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 7 (2900 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -3622,7 +3622,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage.
 
@@ -3653,13 +3653,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 14 (11500 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3673,7 +3673,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Acid Breath (Recharge 5-6)_**. The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3704,13 +3704,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 21 (33000 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3724,7 +3724,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Acid Breath (Recharge 5-6)_**. The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3755,11 +3755,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 7 (2900 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -3790,11 +3790,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
@@ -3821,11 +3821,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 17 (18000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3839,7 +3839,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3870,11 +3870,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 24 (62000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3888,7 +3888,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -3919,7 +3919,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 10 (5900 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -3950,7 +3950,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
@@ -3977,13 +3977,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 15 (13000 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -3997,7 +3997,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -4028,13 +4028,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 22 (41000 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
 **_Legendary Resistance (3/Day)_**. If the dragon fails a saving throw, it can choose to succeed instead.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -4048,7 +4048,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -4079,11 +4079,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -4114,11 +4114,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon can breathe air and water.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
@@ -4144,11 +4144,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Challenge** 17 (18000 XP)
 - **Damage Resistances** fire
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The dragon turtle can breathe air and water.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
@@ -4180,7 +4180,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The dretch makes two attacks: one with its bite and one with its claws.
 
@@ -4209,7 +4209,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** Elvish, Undercommon
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Fey Ancestry_**. The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
 
@@ -4225,7 +4225,7 @@ At will: _[dancing lights]_
 
 **_Web Walker_**. The drider ignores movement restrictions caused by webbing.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
@@ -4254,7 +4254,7 @@ At will: _[dancing lights]_
 - **Languages** Elvish, Undercommon
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Fey Ancestry_**. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
@@ -4266,7 +4266,7 @@ At will: _[dancing lights]_
 
 **_Sunlight Sensitivity_**. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
 
@@ -4291,7 +4291,7 @@ At will: _[dancing lights]_
 - **Languages** Druidic plus any two languages
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Spellcasting_**. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
@@ -4301,7 +4301,7 @@ Cantrips (at will): _[druidcraft], [produce flame], [shillelagh]_
 
 2nd level (3 slots): _[animal messenger], [barkskin]_
 
-### Actions
+## Actions
 
 **_Quarterstaff_**. Melee Weapon Attack: +2 to hit (+4 to hit with _[shillelagh]_), reach 5 ft., one target. _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _[shillelagh]_.
 
@@ -4324,7 +4324,7 @@ Cantrips (at will): _[druidcraft], [produce flame], [shillelagh]_
 - **Languages** Elvish, Sylvan
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Innate Spellcasting_**. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
@@ -4340,7 +4340,7 @@ At will: _[druidcraft]_
 
 **_Tree Stride_**. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-### Actions
+## Actions
 
 **_Club_**. Melee Weapon Attack: +2 to hit (+6 to hit with _[shillelagh]_), reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shillelagh]_.
 
@@ -4365,13 +4365,13 @@ At will: _[druidcraft]_
 - **Challenge** 1 (200 XP)
 - **Damage Resistances** poison
 
-### Special Features
+## Special Features
 
 **_Duergar Resilience_**. The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
 **_Sunlight Sensitivity_**. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Enlarge (Recharges after a Short or Long Rest)_**. For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
@@ -4402,7 +4402,7 @@ At will: _[druidcraft]_
 - **Challenge** 10 (5900 XP)
 - **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Angelic Weapons_**. The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 
@@ -4414,7 +4414,7 @@ At will: _[detect evil and good]_
 
 **_Magic Resistance_**. The deva has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The deva makes two melee attacks.
 
@@ -4443,7 +4443,7 @@ At will: _[detect evil and good]_
 - **Languages** any two languages
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Divine Eminence_**. As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
@@ -4457,7 +4457,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 3rd level (2 slots): _[dispel magic], [spirit guardians]_
 
-### Actions
+## Actions
 
 **_Mace_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) bludgeoning damage.
 
@@ -4480,7 +4480,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** -
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.
 
@@ -4488,7 +4488,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Spider Climb_**. The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 
@@ -4517,13 +4517,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** any two languages
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Cunning Action_**. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
 
 **_Sneak Attack (1/Turn)_**. The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The spy makes two melee attacks.
 
@@ -4550,7 +4550,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Longsword_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
 
@@ -4579,7 +4579,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Spider Climb_**. The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -4587,7 +4587,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Web Walker_**. The ettercap ignores movement restrictions caused by webbing.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The ettercap makes two attacks: one with its bite and one with its claws.
 
@@ -4616,13 +4616,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** Giant, Orc
 - **Challenge** 4 (1100 XP)
 
-### Special Features
+## Special Features
 
 **_Two Heads_**. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned and knocked unconscious.
 
 **_Wakeful_**. When one of the ettin's heads is asleep, its other head is awake.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
@@ -4649,7 +4649,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** any one language (usually Common)
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Dark Devotion_**. The fanatic has advantage on saving throws against being charmed or frightened.
 
@@ -4661,7 +4661,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 2nd level (3 slots): _[hold person], [spiritual weapon]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The fanatic makes two melee attacks.
 
@@ -4687,13 +4687,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** cold, necrotic, poison
 - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Ethereal Sight_**. The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 
 **_Incorporeal Movement_**. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-### Actions
+## Actions
 
 **_Withering Touch_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 17 (4d6 + 3) necrotic damage.
 
@@ -4722,11 +4722,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Talons_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
 
@@ -4749,13 +4749,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
 **_Pack Tactics_**. The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -4779,7 +4779,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** lightning, poison
 - **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Consume Life_**. As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.
 
@@ -4789,7 +4789,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Variable Illumination_**. The will-o'-wisp sheds bright light in a 5-to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
 
-### Actions
+## Actions
 
 **_Shock_**. Melee Spell Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 9 (2d8) lightning damage.
 
@@ -4814,7 +4814,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
@@ -4837,7 +4837,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Challenge** 7 (2900 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Bound_**. The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 
@@ -4845,7 +4845,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Spell Storing_**. A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The guardian makes two fist attacks.
 
@@ -4873,11 +4873,11 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The gargoyle makes two attacks: one with its bite and one with its claws.
 
@@ -4905,13 +4905,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** lightning, slashing
 - **Damage Resistances** acid
 
-### Special Features
+## Special Features
 
 **_Amorphous_**. The jelly can move through a space as narrow as 1 inch wide without squeezing.
 
 **_Spider Climb_**. The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+## Actions
 
 **_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
@@ -4938,7 +4938,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Innate Spellcasting_**. The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
@@ -4948,7 +4948,7 @@ At will: _[darkness], [detect magic], [dispel magic]_
 
 **_Magic Resistance_**. The glabrezu has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
@@ -4976,13 +4976,13 @@ At will: _[darkness], [detect magic], [dispel magic]_
 - **Languages** any one language (usually Common)
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Brave_**. The gladiator has advantage on saving throws against being frightened.
 
 **_Brute_**. A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
-### Actions
+## Actions
 
 **_Multiattack_**. The gladiator makes three melee attacks or two ranged attacks.
 
@@ -5010,11 +5010,11 @@ At will: _[darkness], [detect magic], [dispel magic]_
 - **Languages** Gnoll
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Rampage_**. When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -5041,7 +5041,7 @@ At will: _[darkness], [detect magic], [dispel magic]_
 - **Languages** Gnomish, Terran, Undercommon
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Stone Camouflage_**. The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
@@ -5053,7 +5053,7 @@ At will: _[nondetection]_ (self only)
 
 1/day each: _[blindness/deafness], [blur], [disguise self]_
 
-### Actions
+## Actions
 
 **_War Pick_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
@@ -5078,11 +5078,11 @@ At will: _[nondetection]_ (self only)
 - **Languages** Common, Goblin
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Nimble Escape_**. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-### Actions
+## Actions
 
 **_Scimitar_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) slashing damage.
 
@@ -5107,13 +5107,13 @@ At will: _[nondetection]_ (self only)
 - **Languages** Common, Goblin
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Brute_**. A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
 
 **_Surprise Attack_**. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-### Actions
+## Actions
 
 **_Morningstar_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 11 (2d8 + 2) piercing damage.
 
@@ -5138,7 +5138,7 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine
 
-### Special Features
+## Special Features
 
 **_Acid Absorption_**. Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
 
@@ -5150,7 +5150,7 @@ At will: _[nondetection]_ (self only)
 
 **_Magic Weapons_**. The golem's weapon attacks are magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The golem makes two slam attacks.
 
@@ -5177,7 +5177,7 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
-### Special Features
+## Special Features
 
 **_Berserk_**. Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points. The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
 
@@ -5191,7 +5191,7 @@ At will: _[nondetection]_ (self only)
 
 **_Magic Weapons_**. The golem's weapon attacks are magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The golem makes two slam attacks.
 
@@ -5216,7 +5216,7 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 16 (15000 XP)
 - **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
-### Special Features
+## Special Features
 
 **_Fire Absorption_**. Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 
@@ -5226,7 +5226,7 @@ At will: _[nondetection]_ (self only)
 
 **_Magic Weapons_**. The golem's weapon attacks are magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The golem makes two melee attacks.
 
@@ -5255,7 +5255,7 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 10 (5900 XP)
 - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
-### Special Features
+## Special Features
 
 **_Immutable Form_**. The golem is immune to any spell or effect that would alter its form.
 
@@ -5263,7 +5263,7 @@ At will: _[nondetection]_ (self only)
 
 **_Magic Weapons_**. The golem's weapon attacks are magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The golem makes two slam attacks.
 
@@ -5290,11 +5290,11 @@ At will: _[nondetection]_ (self only)
 - **Languages** -
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Trampling Charge_**. If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Gore_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 18 (2d12 + 5) piercing damage.
 
@@ -5321,7 +5321,7 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 9 (2d6 + 2) piercing damage.
 
@@ -5346,7 +5346,7 @@ At will: _[nondetection]_ (self only)
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The ape makes two fist attacks.
 
@@ -5373,7 +5373,7 @@ At will: _[nondetection]_ (self only)
 - **Languages** -
 - **Challenge** 0 (0 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The frog can breathe air and water.
 
@@ -5398,13 +5398,13 @@ At will: _[nondetection]_ (self only)
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The frog can breathe air and water.
 
 **_Standing Leap_**. The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 
@@ -5429,11 +5429,11 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 2 (450 XP)
 - **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Stone Camouflage_**. The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
 
@@ -5460,11 +5460,11 @@ At will: _[nondetection]_ (self only)
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The griffon makes two attacks: one with its beak and one with its claws.
 
@@ -5490,13 +5490,13 @@ At will: _[nondetection]_ (self only)
 - **Languages** Aquan, Common, Giant
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The hag can breathe air and water.
 
 **_Horrific Appearance_**. Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours. Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
 
@@ -5524,7 +5524,7 @@ At will: _[nondetection]_ (self only)
 - **Challenge** 5 (1800 XP)
 - **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-### Special Features
+## Special Features
 
 **_Innate Spellcasting_**. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
@@ -5534,7 +5534,7 @@ At will: _[detect magic], [magic missile]_
 
 **_Magic Resistance_**. The hag has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Claws (Hag Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
 
@@ -5563,7 +5563,7 @@ At will: _[detect magic], [magic missile]_
 - **Languages** Common, Draconic, Sylvan
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The hag can breathe air and water.
 
@@ -5573,7 +5573,7 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 
 **_Mimicry_**. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
 
@@ -5599,11 +5599,11 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 - **Languages** any one language
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Pack Tactics_**. The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
@@ -5625,7 +5625,7 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -5650,7 +5650,7 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 - **Damage Immunities** psychic
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Inscrutable_**. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 
@@ -5670,13 +5670,13 @@ Cantrips (at will): _[mage hand], [minor illusion], [prestidigitation]_
 
 5th level (1 slot): _[legend lore]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The sphinx makes two claw attacks.
 
 **_Claw_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
 
-### Legendary Actions
+## Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -5705,7 +5705,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** Giant
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The giant makes two greatclub attacks.
 
@@ -5733,7 +5733,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** Common, Giant
 - **Challenge** 9 (5000 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -5745,7 +5745,7 @@ At will: _[detect magic], [fog cloud], light_
 
 1/day each: _[control weather], [gaseous form]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The giant makes two morningstar attacks.
 
@@ -5773,11 +5773,11 @@ At will: _[detect magic], [fog cloud], light_
 - **Languages** Giant
 - **Challenge** 7 (2900 XP)
 
-### Special Features
+## Special Features
 
 **_Stone Camouflage_**. The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The giant makes two greatclub attacks.
 
@@ -5809,7 +5809,7 @@ At will: _[detect magic], [fog cloud], light_
 - **Damage Immunities** lightning, thunder
 - **Damage Resistances** cold
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The giant can breathe air and water.
 
@@ -5819,7 +5819,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 3/day each: _[control weather], [water breathing]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The giant makes two greatsword attacks.
 
@@ -5850,7 +5850,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The giant makes two greatsword attacks.
 
@@ -5879,7 +5879,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The giant makes two greataxe attacks.
 
@@ -5905,7 +5905,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** Common
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The harpy makes two attacks: one with its claws and one with its club.
 
@@ -5936,13 +5936,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The hezrou has advantage on saving throws against spells and other magical effects.
 
 **_Stench_**. Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The hezrou makes three attacks: one with its bite and two with its claws.
 
@@ -5969,11 +5969,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight and Smell_**. The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The owlbear makes two attacks: one with its beak and one with its claws.
 
@@ -5999,7 +5999,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 0 (0 XP)
 
-### Special Features
+## Special Features
 
 **_Water Breathing_**. The sea horse can breathe only underwater.
 
@@ -6021,13 +6021,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 **_Water Breathing_**. The sea horse can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
@@ -6050,11 +6050,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The hippogriff makes two attacks: one with its beak and one with its claws.
 
@@ -6080,11 +6080,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** Common, Goblin
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Martial Advantage_**. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 
@@ -6109,11 +6109,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** Draconic
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. The lizardfolk can hold its breath for 15 minutes.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The lizardfolk makes two melee attacks, each one with a different weapon.
 
@@ -6144,11 +6144,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** Aquan, Common
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The merfolk can breathe air and water.
 
-### Actions
+## Actions
 
 **_Spear_**. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
@@ -6171,11 +6171,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Challenge** 0 (10 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Telepathic Bond_**. While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
@@ -6198,7 +6198,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 8 (3900 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. The hydra can hold its breath for 1 hour.
 
@@ -6208,7 +6208,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Wakeful_**. While the hydra sleeps, at least one of its heads is awake.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The hydra makes as many bite attacks as it has heads.
 
@@ -6233,11 +6233,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Pack Tactics_**. The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) piercing damage.
 
@@ -6260,11 +6260,11 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Rampage_**. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage.
 
@@ -6286,13 +6286,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Languages** Common, Draconic
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Sunlight Sensitivity_**. While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 **_Pack Tactics_**. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Dagger_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -6318,7 +6318,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 - **Challenge** 23 (50000 XP)
 - **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The kraken can breathe air and water.
 
@@ -6326,7 +6326,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Siege Monster_**. The kraken deals double damage to objects and structures.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
@@ -6338,7 +6338,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Lightning Storm_**. The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-### Legendary Actions
+## Legendary Actions
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 
@@ -6367,7 +6367,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** Abyssal, Common
 - **Challenge** 4 (1100 XP)
 
-### Special Features
+## Special Features
 
 **_Innate Spellcasting_**. The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
@@ -6377,7 +6377,7 @@ At will: _[disguise self]_ (any humanoid form), _[major image]_
 
 1/day: _[geas]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
@@ -6409,7 +6409,7 @@ At will: _[disguise self]_ (any humanoid form), _[major image]_
 - **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances** cold, lightning, necrotic
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the lich fails a saving throw, it can choose to succeed instead.
 
@@ -6439,11 +6439,11 @@ Cantrips (at will): _[mage hand], [prestidigitation], [ray of frost]_
 
 **_Turn Resistance_**. The lich has advantage on saving throws against any effect that turns undead.
 
-### Actions
+## Actions
 
 **_Paralyzing Touch_**. Melee Spell Attack: +12 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Legendary Actions
+## Legendary Actions
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 
@@ -6474,7 +6474,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
@@ -6488,7 +6488,7 @@ At will: _[detect evil and good], [druidcraft], [pass without trace]_
 
 **_Magic Weapons_**. The unicorn's weapon attacks are magical.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The unicorn makes two attacks: one with its hooves and one with its horn.
 
@@ -6500,7 +6500,7 @@ At will: _[detect evil and good], [druidcraft], [pass without trace]_
 
 **_Teleport (1/Day)_**. The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
-### Legendary Actions
+## Legendary Actions
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 
@@ -6529,7 +6529,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The lion has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -6539,7 +6539,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Running Leap_**. With a 10-foot running start, the lion can long jump up to 25 feet.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage.
 
@@ -6564,13 +6564,13 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 **_Pack Tactics_**. The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
@@ -6594,7 +6594,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
@@ -6602,7 +6602,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Snow Camouflage_**. The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
@@ -6627,13 +6627,13 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 **_Pack Tactics_**. The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -6657,13 +6657,13 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 **_Keen Hearing and Smell_**. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+## Actions
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
 
@@ -6693,13 +6693,13 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold
 
-### Special Features
+## Special Features
 
 **_Devil's Sight_**. Magical darkness doesn't impede the lemure's darkvision.
 
 **_Hellish Rejuvenation_**. A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a _[bless]_ spell cast on that creature or its remains are sprinkled with holy water.
 
-### Actions
+## Actions
 
 **_Fist_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
 
@@ -6721,7 +6721,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
@@ -6743,7 +6743,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
@@ -6767,7 +6767,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 - **Languages** any four languages
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Spellcasting_**. The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
@@ -6783,7 +6783,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 5th level (1 slot): _[cone of cold]_
 
-### Actions
+## Actions
 
 **_Dagger_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -6807,13 +6807,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Damage Immunities** fire
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.
 
 **_Ignited Illumination_**. As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-### Actions
+## Actions
 
 **_Touch_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
 
@@ -6836,11 +6836,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** any one language (usually Common)
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Pack Tactics_**. The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The thug makes two melee attacks.
 
@@ -6866,11 +6866,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** -
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Trampling Charge_**. If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Gore_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 25 (4d8 + 7) piercing damage.
 
@@ -6895,13 +6895,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Echolocation_**. The darkmantle can't use its blindsight while deafened.
 
 **_False Appearance_**. While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
 
-### Actions
+## Actions
 
 **_Crush_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way. While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target. A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
@@ -6926,7 +6926,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 8 (3900 XP)
 
-### Special Features
+## Special Features
 
 **_Damage Transfer_**. While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.
 
@@ -6934,7 +6934,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Light Sensitivity_**. While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The cloaker makes two attacks: one with its bite and one with its tail.
 
@@ -6964,11 +6964,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** Common
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Tail Spike Regrowth_**. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
@@ -6999,7 +6999,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The marilith has advantage on saving throws against spells and other magical effects.
 
@@ -7007,7 +7007,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Reactive_**. The marilith can take one reaction on every turn in a combat.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The marilith makes seven attacks: six with its longswords and one with its tail.
 
@@ -7038,11 +7038,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Dark Devotion_**. The cultist has advantage on saving throws against being charmed or frightened.
 
-### Actions
+## Actions
 
 **_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) slashing damage.
 
@@ -7064,11 +7064,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** Abyssal, Aquan
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Amphibious_**. The merrow can breathe air and water.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 
@@ -7096,7 +7096,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -7120,7 +7120,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** acid
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -7130,7 +7130,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Grappler_**. The mimic has advantage on attack rolls against any creature grappled by it.
 
-### Actions
+## Actions
 
 **_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
 
@@ -7155,7 +7155,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** Abyssal
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
@@ -7163,7 +7163,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Reckless_**. At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-### Actions
+## Actions
 
 **_Greataxe_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 17 (2d12 + 4) slashing damage.
 
@@ -7187,11 +7187,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The fungus makes 1d4 Rotting Touch attacks.
 
@@ -7216,11 +7216,11 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
@@ -7244,13 +7244,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 **_Pack Tactics_**. The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 
@@ -7280,7 +7280,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -7310,7 +7310,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 - **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The mummy lord has advantage on saving throws against spells and other magical effects.
 
@@ -7332,7 +7332,7 @@ Cantrips (at will): _[sacred flame], [thaumaturgy]_
 
 6th level (1 slot): _[harm]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -7340,7 +7340,7 @@ Cantrips (at will): _[sacred flame], [thaumaturgy]_
 
 **_Dreadful Glare_**. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
-### Legendary Actions
+## Legendary Actions
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 
@@ -7372,13 +7372,13 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Beast of Burden_**. The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
 
 **_Sure-Footed_**. The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-### Actions
+## Actions
 
 **_Hooves_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
@@ -7401,11 +7401,11 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Languages** Common
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Petrifying Gaze_**. When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the _[greater restoration]_ spell or other magic. Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save. If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The medusa makes either three melee attacks -one with its snake hair and two with its shortsword- or two ranged attacks with its longbow.
 
@@ -7435,13 +7435,13 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.
 
 **_False Appearance_**. While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
-### Actions
+## Actions
 
 **_Fists_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
@@ -7467,13 +7467,13 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** fire, poison
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.
 
 **_Innate Spellcasting (1/Day)_**. The mephit can innately cast _[dancing lights]_, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) slashing damage.
 
@@ -7500,7 +7500,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Damage Immunities** cold, poison
 - **Damage Vulnerabilities** bludgeoning, fire
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 
@@ -7508,7 +7508,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Innate Spellcasting (1/Day)_**. The mephit can innately cast _[fog cloud]_, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
@@ -7535,7 +7535,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Damage Immunities** fire, poison
 - **Damage Vulnerabilities** cold
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -7543,7 +7543,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Innate Spellcasting (1/Day)_**. The mephit can innately cast _[heat metal]_ (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
@@ -7570,13 +7570,13 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
 **_Innate Spellcasting (1/Day)_**. The mephit can innately cast _[sleep]_, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) slashing damage.
 
@@ -7601,13 +7601,13 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** fire, poison
 
-### Special Features
+## Special Features
 
 **_Death Burst_**. When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
 
 **_Innate Spellcasting (1/Day)_**. The mephit can innately cast _[blur]_, requiring no material components. Its innate spellcasting ability is Charisma.
 
-### Actions
+## Actions
 
 **_Claws_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
@@ -7633,7 +7633,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _[wish]_ spell can prevent this trait from functioning.
 
@@ -7651,7 +7651,7 @@ Cantrips (at will): _[mage hand], [minor illusion], [ray of frost]_
 
 5th level (2 slots): _[dominate person]_
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -7675,7 +7675,7 @@ Cantrips (at will): _[mage hand], [minor illusion], [ray of frost]_
 - **Challenge** 10 (5900 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Rejuvenation_**. If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _[wish]_ spell can prevent this trait from functioning.
 
@@ -7695,7 +7695,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 6th level (1 slot): _[true seeing]_
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. _Hit_: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -7722,11 +7722,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
 
@@ -7757,7 +7757,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Languages** any two languages
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Rapier_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
 
@@ -7782,11 +7782,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Challenge** 1/2 (100 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
 
-### Special Features
+## Special Features
 
 **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
-### Actions
+## Actions
 
 **_Bites_**. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -7809,7 +7809,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Challenge** 1/4 (50 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
 
-### Special Features
+## Special Features
 
 **_Echolocation_**. The swarm can't use its blindsight while deafened.
 
@@ -7817,7 +7817,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 
-### Actions
+## Actions
 
 **_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -7841,11 +7841,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Challenge** 1/4 (50 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
 
-### Special Features
+## Special Features
 
 **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 
-### Actions
+## Actions
 
 **_Beaks_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -7868,7 +7868,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Challenge** 1 (200 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
 
-### Special Features
+## Special Features
 
 **_Blood Frenzy_**. The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -7876,7 +7876,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Water Breathing_**. The swarm can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Bites_**. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -7899,13 +7899,13 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Challenge** 1/4 (50 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
 
 **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 
-### Actions
+## Actions
 
 **_Bites_**. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -7928,11 +7928,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Challenge** 2 (450 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
 
-### Special Features
+## Special Features
 
 **_Swarm_**. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 
-### Actions
+## Actions
 
 **_Bites_**. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -7957,11 +7957,11 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Damage Immunities** poison
 - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Sunlight Sensitivity_**. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 
@@ -7989,7 +7989,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Languages** Common, Giant
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Greatclub_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
@@ -8017,7 +8017,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** radiant
 
-### Special Features
+## Special Features
 
 **_Amorphous_**. The shadow can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -8025,7 +8025,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Sunlight Weakness_**. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-### Actions
+## Actions
 
 **_Strength Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
@@ -8049,7 +8049,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 - **Languages** Common, Giant
 - **Challenge** 7 (2900 XP)
 
-### Special Features
+## Special Features
 
 **_Innate Spellcasting_**. The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
@@ -8061,7 +8061,7 @@ At will: _[darkness], [invisibility]_
 
 **_Regeneration_**. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The oni makes two attacks, either with its claws or its glaive.
 
@@ -8090,11 +8090,11 @@ At will: _[darkness], [invisibility]_
 - **Languages** Common, Orc
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Aggressive_**. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-### Actions
+## Actions
 
 **_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 9 (1d12 + 3) slashing damage.
 
@@ -8119,11 +8119,11 @@ At will: _[darkness], [invisibility]_
 - **Languages** Otyugh
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Limited Telepathy_**. The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The otyugh makes three attacks: one with its bite and two with its tentacles.
 
@@ -8152,11 +8152,11 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
@@ -8183,11 +8183,11 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
@@ -8214,11 +8214,11 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
@@ -8246,13 +8246,13 @@ At will: _[darkness], [invisibility]_
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 **_Keen Smell_**. The werebear has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Multiattack_**. In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
@@ -8280,13 +8280,13 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Iron Scent_**. The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
 
 **_Rust Metal_**. Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
 
@@ -8311,13 +8311,13 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The panther has advantage on Wisdom (Perception) checks that rely on smell.
 
 **_Pounce_**. If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
 
@@ -8342,7 +8342,7 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. While out of water, the octopus can hold its breath for 30 minutes.
 
@@ -8350,7 +8350,7 @@ At will: _[darkness], [invisibility]_
 
 **_Water Breathing_**. The octopus can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Tentacles_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 
@@ -8375,7 +8375,7 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. While out of water, the octopus can hold its breath for 1 hour.
 
@@ -8383,7 +8383,7 @@ At will: _[darkness], [invisibility]_
 
 **_Water Breathing_**. The octopus can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Tentacles_**. Melee Weapon Attack: +5 to hit, reach 15 ft., one target. _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 
@@ -8407,13 +8407,13 @@ At will: _[darkness], [invisibility]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Blood Frenzy_**. The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 **_Water Breathing_**. The quipper can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
@@ -8438,7 +8438,7 @@ At will: _[darkness], [invisibility]_
 - **Challenge** 16 (15000 XP)
 - **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Angelic Weapons_**. The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
 
@@ -8454,7 +8454,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Magic Resistance_**. The planetar has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The planetar makes two melee attacks.
 
@@ -8481,11 +8481,11 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Hold Breath_**. The plesiosaurus can hold its breath for 1 hour.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 14 (3d6 + 4) piercing damage.
 
@@ -8507,7 +8507,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Hooves_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) bludgeoning damage.
 
@@ -8530,7 +8530,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** acid, cold, lightning, slashing
 
-### Special Features
+## Special Features
 
 **_Amorphous_**. The pudding can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -8538,7 +8538,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Spider Climb_**. The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-### Actions
+## Actions
 
 **_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
@@ -8563,7 +8563,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Languages** understands Common and Draconic but can't speak
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Senses_**. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 
@@ -8571,7 +8571,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Limited Telepathy_**. The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -8596,11 +8596,11 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Flyby_**. The pteranodon doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) piercing damage.
 
@@ -8622,11 +8622,11 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Illumination_**. The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 2 (1d6 - 1) slashing damage.
 
@@ -8650,7 +8650,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
@@ -8675,13 +8675,13 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 **_Magic Resistance_**. The quasit has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Claws (Bite in Beast Form)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -8710,7 +8710,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 
-### Special Features
+## Special Features
 
 **_Limited Magic Immunity_**. The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 
@@ -8722,7 +8722,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 1/day each: _[dominate person], [fly], [plane shift], [true seeing]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The rakshasa makes two claw attacks.
 
@@ -8746,11 +8746,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
 
@@ -8772,13 +8772,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
 **_Pack Tactics_**. The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
@@ -8802,13 +8802,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 **_Keen Smell_**. The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-### Actions
+## Actions
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The wererat makes two attacks, only one of which can be a bite.
 
@@ -8837,13 +8837,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Pack Tactics_**. The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 **_Water Breathing_**. The shark can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
@@ -8866,13 +8866,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Blood Frenzy_**. The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 **_Water Breathing_**. The shark can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 22 (3d10 + 6) piercing damage.
 
@@ -8895,13 +8895,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Blood Frenzy_**. The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
 **_Water Breathing_**. The shark can breathe only underwater.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) piercing damage.
 
@@ -8923,11 +8923,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-### Actions
+## Actions
 
 **_Gore_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
@@ -8951,11 +8951,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 11 (7200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight_**. The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The roc makes two attacks: one with its beak and one with its talons.
 
@@ -8981,7 +8981,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** any one language (usually Common)
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Club_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
 
@@ -9004,11 +9004,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Challenge** 11 (7200 XP)
 - **Damage Immunities** cold, fire
 
-### Special Features
+## Special Features
 
 **_Heated Body_**. A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 
@@ -9033,7 +9033,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** Sahuagin
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Blood Frenzy_**. The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -9041,7 +9041,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Shark Telepathy_**. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 
@@ -9072,13 +9072,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** cold
 
-### Special Features
+## Special Features
 
 **_Heated Body_**. A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 
 **_Heated Weapons_**. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-### Actions
+## Actions
 
 **_Multiattack_**. The salamander makes two attacks: one with its spear and one with its tail.
 
@@ -9104,13 +9104,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 **_Relentless (Recharges after a Short or Long Rest)_**. If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-### Actions
+## Actions
 
 **_Tusk_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) slashing damage.
 
@@ -9132,13 +9132,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 **_Relentless (Recharges after a Short or Long Rest)_**. If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-### Actions
+## Actions
 
 **_Tusk_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
 
@@ -9162,7 +9162,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -9170,7 +9170,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Relentless (Recharges after a Short or Long Rest)_**. If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-### Actions
+## Actions
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The wereboar makes two attacks, only one of which can be with its tusks.
 
@@ -9197,11 +9197,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The satyr has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) bludgeoning damage.
 
@@ -9227,7 +9227,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Sting_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -9249,7 +9249,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The scorpion makes three attacks: two with its claws and one with its sting.
 
@@ -9275,7 +9275,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage.
 
@@ -9300,7 +9300,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. _Hit_: 11 (2d6 + 4) piercing damage.
 
@@ -9324,7 +9324,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -9347,7 +9347,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -9369,11 +9369,11 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Flyby_**. The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 
@@ -9396,7 +9396,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Languages** -
 - **Challenge** 7 (2900 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The ape makes two fist attacks.
 
@@ -9426,7 +9426,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Angelic Weapons_**. The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
 
@@ -9442,7 +9442,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Magic Resistance_**. The solar has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The solar makes two greatsword attacks.
 
@@ -9454,7 +9454,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Healing Touch (4/Day)_**. The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-### Legendary Actions
+## Legendary Actions
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.
 
@@ -9484,13 +9484,13 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Incorporeal Movement_**. The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 **_Sunlight Sensitivity_**. While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Life Drain_**. Melee Spell Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
@@ -9514,7 +9514,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** bludgeoning
 
-### Special Features
+## Special Features
 
 **_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
 
@@ -9540,7 +9540,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** bludgeoning
 
-### Special Features
+## Special Features
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
@@ -9564,11 +9564,11 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** bludgeoning
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-### Actions
+## Actions
 
 **_Greataxe_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 17 (2d12 + 4) slashing damage.
 
@@ -9592,7 +9592,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Languages** -
 - **Challenge** 1/8 (25 XP)
 
-### Special Features
+## Special Features
 
 **_Blood Drain_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 
@@ -9616,13 +9616,13 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Challenge** 4 (1100 XP)
 - **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Telepathic Bond_**. The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
 
 **_Shapechanger_**. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-### Actions
+## Actions
 
 **_Claw (Fiend Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
 
@@ -9652,13 +9652,13 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Damage Resistances** bludgeoning, piercing
 - **Damage Vulnerabilities** fire
 
-### Special Features
+## Special Features
 
 **_False Appearance_**. While the treant remains motionless, it is indistinguishable from a normal tree.
 
 **_Siege Monster_**. The treant deals double damage to objects and structures.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The treant makes two slam attacks.
 
@@ -9687,7 +9687,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison, psychic
 
-### Special Features
+## Special Features
 
 **_Antimagic Susceptibility_**. The rug is incapacitated while in the area of an _[antimagic field]_. If targeted by _[dispel magic]_, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
@@ -9695,7 +9695,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_False Appearance_**. While the rug remains motionless, it is indistinguishable from a normal rug.
 
-### Actions
+## Actions
 
 **_Smother_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
@@ -9719,7 +9719,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Challenge** 30 (155000 XP)
 - **Damage Immunities** fire, poison; bludgeoning, piercing and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Legendary Resistance (3/Day)_**. If the tarrasque fails a saving throw, it can choose to succeed instead.
 
@@ -9729,7 +9729,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Siege Monster_**. The tarrasque deals double damage to objects and structures.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 
@@ -9745,7 +9745,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Swallow_**. The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes bO (I6d6) acid damage at the start of each of the tarrasque's turns. If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 30 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-### Legendary Actions
+## Legendary Actions
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 
@@ -9776,11 +9776,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Damage Immunities** lightning
 - **Damage Resistances** cold, fire
 
-### Special Features
+## Special Features
 
 **_Lightning Absorption_**. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 
@@ -9807,13 +9807,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages** -
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The tiger has advantage on Wisdom (Perception) checks that rely on smell.
 
 **_Pounce_**. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage.
 
@@ -9838,13 +9838,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The tiger has advantage on Wisdom (Perception) checks that rely on smell.
 
 **_Pounce_**. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (1d10 + 5) piercing damage.
 
@@ -9870,7 +9870,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -9878,7 +9878,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Pounce (Tiger or Hybrid Form Only)_**. If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
@@ -9909,7 +9909,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages** Undercommon
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Blind Senses_**. The grimlock can't use its blindsight while deafened and unable to smell.
 
@@ -9917,7 +9917,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Stone Camouflage_**. The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-### Actions
+## Actions
 
 **_Spiked Bone Club_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
@@ -9942,13 +9942,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Damage Immunities** poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Invisibility_**. The stalker is invisible.
 
 **_Faultless Tracker_**. The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The stalker makes two slam attacks.
 
@@ -9972,11 +9972,11 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages** -
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Trampling Charge_**. If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Gore_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 24 (4d8 + 6) piercing damage.
 
@@ -10001,13 +10001,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages** Giant
 - **Challenge** 5 (1800 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Smell_**. The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
 **_Regeneration_**. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The troll makes three attacks: one with its bite and two with its claws.
 
@@ -10034,7 +10034,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Languages** -
 - **Challenge** 8 (3900 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 
@@ -10063,7 +10063,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Challenge** 13 (10000 XP)
 - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Shapechanger_**. If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form. While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies. While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
 
@@ -10085,7 +10085,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Sunlight Hypersensitivity_**. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-### Actions
+## Actions
 
 **_Multiattack (Vampire Form Only)_**. The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -10097,7 +10097,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Children ofthe Night (1/Day)_**. The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
-### Legendary Actions
+## Legendary Actions
 
 The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
 
@@ -10128,7 +10128,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Challenge** 5 (1800 XP)
 - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Regeneration_**. The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 
@@ -10144,7 +10144,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **_Sunlight Hypersensitivity_**. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -10172,7 +10172,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 - **Challenge** 1/2 (100 XP)
 - **Damage Resistances** acid, cold, fire
 
-### Special Features
+## Special Features
 
 **_Amorphous_**. The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -10182,7 +10182,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_False Appearance_**. While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
-### Actions
+## Actions
 
 **_Pseudopod_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
@@ -10205,13 +10205,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight and Smell_**. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
 **_Pack Tactics_**. The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Beak_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) piercing damage.
 
@@ -10234,13 +10234,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** understands Common but can't speak
 - **Challenge** 1 (200 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Sight and Smell_**. The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
 **_Pack Tactics_**. The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The vulture makes two attacks: one with its beak and one with its talons.
 
@@ -10267,11 +10267,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** -
 - **Challenge** 15 (13000 XP)
 
-### Special Features
+## Special Features
 
 **_Tunneler_**. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The worm makes two attacks: one with its bite and one with its stinger.
 
@@ -10298,7 +10298,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** -
 - **Challenge** 6 (2300 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
@@ -10329,11 +10329,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Magic Resistance_**. The vrock has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The vrock makes two attacks: one with its beak and one with its talons.
 
@@ -10366,7 +10366,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** any one language (usually Common)
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Multiattack_**. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
@@ -10395,11 +10395,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** Goblin, Worg
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Smell_**. The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -10423,7 +10423,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Challenge** 5 (1800 XP)
 - **Damage Resistances** piercing and slashing from nonmagical attacks that aren't adamantine
 
-### Special Features
+## Special Features
 
 **_Earth Glide_**. The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 
@@ -10431,7 +10431,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Treasure Sense_**. The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The xorn makes three claw attacks and one bite attack.
 
@@ -10459,7 +10459,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** cold
 
-### Special Features
+## Special Features
 
 **_Fear of Fire_**. If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
@@ -10467,7 +10467,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Snow Camouflage_**. The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The yeti can use its Chilling Gaze and makes two claw attacks.
 
@@ -10495,11 +10495,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Undead Fortitude_**. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+## Actions
 
 **_Slam_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
@@ -10523,11 +10523,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
 
-### Special Features
+## Special Features
 
 **_Undead Fortitude_**. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-### Actions
+## Actions
 
 **_Morningstar_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
@@ -10551,13 +10551,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Incorporeal Movement_**. The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
 **_Sunlight Sensitivity_**. While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-### Actions
+## Actions
 
 **_Life Drain_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
@@ -10582,11 +10582,11 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Languages** any one language (usually Common)
 - **Challenge** 1/2 (100 XP)
 
-### Special Features
+## Special Features
 
 **_Keen Hearing and Sight_**. The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The scout makes two melee attacks or two ranged attacks.
 
@@ -10614,7 +10614,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 - **Challenge** 11 (7200 XP)
 - **Damage Immunities** fire
 
-### Special Features
+## Special Features
 
 **_Elemental Demise_**. If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 
@@ -10626,7 +10626,7 @@ At will: _[detect magic]_
 
 1/day each: _[conjure elemental]_ (fire elemental only), _[gaseous form], [invisibility], [major image], [plane shift], [wall of fire]_
 
-### Actions
+## Actions
 
 **_Multiattack_**. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
@@ -10652,11 +10652,11 @@ At will: _[detect magic]_
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-### Actions
+## Actions
 
 **_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage.
 
@@ -10681,11 +10681,11 @@ At will: _[detect magic]_
 - **Languages** Giant Elk understands Common, Elvish, and Sylvan but can't speak them
 - **Challenge** 2 (450 XP)
 
-### Special Features
+## Special Features
 
 **_Charge_**. If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-### Actions
+## Actions
 
 **_Ram_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
@@ -10711,11 +10711,11 @@ At will: _[detect magic]_
 - **Damage Immunities** poison
 - **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Air Form_**. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The elemental makes two slam attacks.
 
@@ -10743,13 +10743,13 @@ At will: _[detect magic]_
 - **Damage Immunities** poison
 - **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Water Form_**. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
 **_Freeze_**. If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The elemental makes two slam attacks.
 
@@ -10778,13 +10778,13 @@ At will: _[detect magic]_
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** thunder
 
-### Special Features
+## Special Features
 
 **_Earth Glide_**. The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 
 **_Siege Monster_**. The elemental deals double damage to objects and structures.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The elemental makes two slam attacks.
 
@@ -10810,7 +10810,7 @@ At will: _[detect magic]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-### Special Features
+## Special Features
 
 **_Fire Form_**. The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.
 
@@ -10818,7 +10818,7 @@ At will: _[detect magic]_
 
 **_Water Susceptibility_**. For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The elemental makes two touch attacks.
 
@@ -10842,11 +10842,11 @@ At will: _[detect magic]_
 - **Languages** -
 - **Challenge** 4 (1100 XP)
 
-### Special Features
+## Special Features
 
 **_Trampling Charge_**. If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 
-### Actions
+## Actions
 
 **_Gore_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 19 (3d8 + 6) piercing damage.
 
@@ -10871,7 +10871,7 @@ At will: _[detect magic]_
 - **Languages** -
 - **Challenge** 3 (700 XP)
 
-### Special Features
+## Special Features
 
 **_Echolocation_**. The whale can't use its blindsight while deafened.
 
@@ -10879,7 +10879,7 @@ At will: _[detect magic]_
 
 **_Keen Hearing_**. The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-### Actions
+## Actions
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 21 (5d6 + 4) piercing damage.
 
@@ -10903,13 +10903,13 @@ At will: _[detect magic]_
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison, psychic
 
-### Special Features
+## Special Features
 
 **_Antimagic Susceptibility_**. The sword is incapacitated while in the area of an _[antimagic field]_. If targeted by _[dispel magic]_, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 
 **_False Appearance_**. While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
-### Actions
+## Actions
 
 **_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) slashing damage.
 
@@ -10934,13 +10934,13 @@ At will: _[detect magic]_
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-### Special Features
+## Special Features
 
 **_Hellish Weapons_**. The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 
 **_Magic Resistance_**. The erinyes has advantage on saving throws against spells and other magical effects.
 
-### Actions
+## Actions
 
 **_Multiattack_**. The erinyes makes three attacks.
 

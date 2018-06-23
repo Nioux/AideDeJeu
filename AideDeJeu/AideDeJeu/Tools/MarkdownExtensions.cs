@@ -237,6 +237,7 @@ namespace AideDeJeu.Tools
                         switch(headingBlock.Inline.ToContainerString())
                         {
                             case "Capacités":
+                            case "Special Features":
                                 features = specialFeatures = new List<string>();
                                 break;
                             case "Actions":
@@ -246,6 +247,7 @@ namespace AideDeJeu.Tools
                                 features = reactions = new List<string>();
                                 break;
                             case "Actions légendaires":
+                            case "Legendary Actions":
                                 features = legendaryActions = new List<string>();
                                 break;
                         }
@@ -310,22 +312,63 @@ namespace AideDeJeu.Tools
                                             new Tuple<string, Action<Monster, string>>("**Langue** ", (m, s) => m.Languages = s),
                                             new Tuple<string, Action<Monster, string>>("**Langues** ", (m, s) => m.Languages = s),
                                             new Tuple<string, Action<Monster, string>>("**Dangerosité** ", (m, s) => m.Challenge = s),
-                                            new Tuple<string, Action<Monster, string>>("**Jets de sauvegarde** ", (m, s) => m.Challenge = s),
-                                            new Tuple<string, Action<Monster, string>>("**Jet de sauvegarde** ", (m, s) => m.Challenge = s),
+                                            new Tuple<string, Action<Monster, string>>("**Jets de sauvegarde** ", (m, s) => m.SavingThrows = s),
+                                            new Tuple<string, Action<Monster, string>>("**Jet de sauvegarde** ", (m, s) => m.SavingThrows = s),
                                             new Tuple<string, Action<Monster, string>>("**Compétences** ", (m, s) => m.Skills = s),
                                             new Tuple<string, Action<Monster, string>>("**Compétence** ", (m, s) => m.Skills = s),
+
+                                            new Tuple<string, Action<Monster, string>>("**Armor Class** ", (m, s) => m.ArmorClass = s),
+                                            new Tuple<string, Action<Monster, string>>("**Hit Points** ", (m, s) => m.HitPoints = s),
+                                            new Tuple<string, Action<Monster, string>>("**Speed** ", (m, s) => m.Speed = s),
+                                            new Tuple<string, Action<Monster, string>>("**Damage Resistance** ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("**Damage Resistances** ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("**Résistance contre les dégâts** ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("**Résistances contre les dégâts** ", (m, s) => m.DamageResistances = s),
+                                            new Tuple<string, Action<Monster, string>>("**Damage Immunities** ", (m, s) => m.DamageImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Immunité contre des dégâts** ", (m, s) => m.DamageImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Immunité aux dégâts** ", (m, s) => m.DamageImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**State Immunities** ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Immunités à l'état** ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Immunité contre l'état** ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Immunité contre les états** ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Immunités contre les états** ", (m, s) => m.ConditionImmunities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Damage Vulnerabilities** ", (m, s) => m.DamageVulnerabilities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Vulnérabilité contre les dégâts** ", (m, s) => m.DamageVulnerabilities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Vulnérabilité** ", (m, s) => m.DamageVulnerabilities = s),
+                                            new Tuple<string, Action<Monster, string>>("**Senses** ", (m, s) => m.Senses = s),
+                                            new Tuple<string, Action<Monster, string>>("**Languages** ", (m, s) => m.Languages = s),
+                                            new Tuple<string, Action<Monster, string>>("**Langues** ", (m, s) => m.Languages = s),
+                                            new Tuple<string, Action<Monster, string>>("**Challenge** ", (m, s) => m.Challenge = s),
+                                            new Tuple<string, Action<Monster, string>>("**Saving Throws** ", (m, s) => m.SavingThrows = s),
+                                            new Tuple<string, Action<Monster, string>>("**Jet de sauvegarde** ", (m, s) => m.SavingThrows = s),
+                                            new Tuple<string, Action<Monster, string>>("**Skills** ", (m, s) => m.Skills = s),
+                                            new Tuple<string, Action<Monster, string>>("**Compétence** ", (m, s) => m.Skills = s),
+
+                                            new Tuple<string, Action<Monster, string>>("NameVO: ", (m, s) => m.NameVO = s),
+
                                             new Tuple<string, Action<Monster, string>>("", (m,s) =>
                                             {
-                                                if (m.Alignment != null)
+                                                if (!string.IsNullOrEmpty(m.Alignment))
                                                 {
                                                     App.Current.MainPage.DisplayAlert("Erreur de parsing", s, "OK");
                                                 }
-                                                //Debug.Assert(monster.Alignment == null, str);
-                                                var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
-                                                var matchh = regexx.Match(s);
-                                                m.Alignment = matchh.Groups["alignment"].Value;
-                                                m.Size = matchh.Groups["size"].Value;
-                                                m.Type = matchh.Groups["type"].Value;
+                                                else
+                                                {
+                                                    //Debug.Assert(monster.Alignment == null, str);
+                                                    var regexx = new Regex("(?<type>.*) de taille (?<size>.*), (?<alignment>.*)");
+                                                    var matchh = regexx.Match(s);
+                                                    m.Alignment = matchh.Groups["alignment"].Value;
+                                                    m.Size = matchh.Groups["size"].Value;
+                                                    m.Type = matchh.Groups["type"].Value;
+                                                    if(string.IsNullOrEmpty(m.Alignment))
+                                                    {
+                                                        regexx = new Regex("(?<size>.*?) (?<type>.*?), (?<alignment>.*)");
+                                                        matchh = regexx.Match(s);
+                                                        m.Alignment = matchh.Groups["alignment"].Value;
+                                                        m.Size = matchh.Groups["size"].Value;
+                                                        m.Type = matchh.Groups["type"].Value;
+                                                    }
+                                                }
                                             })
                                         };
 
@@ -368,12 +411,24 @@ namespace AideDeJeu.Tools
                 {
                     var tableBlock = block as Markdig.Extensions.Tables.Table;
                     var table = tableBlock.ToTable();
-                    monster.Strength = table["FOR"].FirstOrDefault();
-                    monster.Dexterity = table["DEX"].FirstOrDefault();
-                    monster.Constitution = table["CON"].FirstOrDefault();
-                    monster.Intelligence = table["INT"].FirstOrDefault();
-                    monster.Wisdom = table["SAG"].FirstOrDefault();
-                    monster.Charisma = table["CHA"].FirstOrDefault();
+                    if (table.ContainsKey("FOR"))
+                    {
+                        monster.Strength = table["FOR"].FirstOrDefault();
+                        monster.Dexterity = table["DEX"].FirstOrDefault();
+                        monster.Constitution = table["CON"].FirstOrDefault();
+                        monster.Intelligence = table["INT"].FirstOrDefault();
+                        monster.Wisdom = table["SAG"].FirstOrDefault();
+                        monster.Charisma = table["CHA"].FirstOrDefault();
+                    }
+                    else if (table.ContainsKey("STR"))
+                    {
+                        monster.Strength = table["STR"].FirstOrDefault();
+                        monster.Dexterity = table["DEX"].FirstOrDefault();
+                        monster.Constitution = table["CON"].FirstOrDefault();
+                        monster.Intelligence = table["INT"].FirstOrDefault();
+                        monster.Wisdom = table["WIS"].FirstOrDefault();
+                        monster.Charisma = table["CHA"].FirstOrDefault();
+                    }
                 }
                 else if(block is Markdig.Syntax.LinkReferenceDefinitionGroup)
                 {
