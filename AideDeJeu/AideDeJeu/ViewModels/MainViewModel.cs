@@ -174,6 +174,15 @@ namespace AideDeJeu.ViewModels
                         await Navigator.GotoSpellDetailPageAsync(spell);
                     }
                 }
+                else if (file == "spells_vo")
+                {
+                    var spells = await GetItemsViewModel(ItemSourceType.SpellVO).GetAllItemsAsync();
+                    var spell = spells.Where(i => i.Id == anchor).FirstOrDefault();
+                    if (spell != null)
+                    {
+                        await Navigator.GotoSpellDetailPageAsync(spell);
+                    }
+                }
                 else if (file == "monsters_hd")
                 {
                     var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
@@ -183,9 +192,18 @@ namespace AideDeJeu.ViewModels
                         await Navigator.GotoMonsterDetailPageAsync(monster);
                     }
                 }
+                else if (file == "monsters_vo")
+                {
+                    var monsters = await GetItemsViewModel(ItemSourceType.MonsterVO).GetAllItemsAsync();
+                    var monster = monsters.Where(i => i.Id == anchor).FirstOrDefault();
+                    if (monster != null)
+                    {
+                        await Navigator.GotoMonsterDetailPageAsync(monster);
+                    }
+                }
                 else
                 {
-                    Device.OpenUri(new Uri(s));
+                    //Device.OpenUri(new Uri(s));
                 }
             }
         }
