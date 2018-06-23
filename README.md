@@ -3,6 +3,7 @@
 Ce site contient plusieurs ressources pour vos parties du plus grand jeu de rôle au monde
 
 * l'[application écrite en Xamarin](https://github.com/Nioux/AideDeJeu/tree/master/AideDeJeu)
+* les [données utilisées par l'application](https://nioux.github.io/AideDeJeu/Data/) version présentable
 * une liste des [erratas du PHB au format PDF](https://github.com/Nioux/AideDeJeu/blob/master/Docs/dd5_phb_erratas.pdf)
 * un [lexique français-anglais et anglais-français](https://github.com/Nioux/AideDeJeu/blob/master/Docs/fr_ro_lexicon.pdf) des termes géographiques des Royaumes Oubliés
 
