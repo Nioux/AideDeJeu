@@ -10953,3 +10953,130 @@ At will: _[detect magic]_
 [Érinye]: monsters_hd.md#érinye
 
 
+[animal messenger]: spells_vo.md#animal-messenger
+[animate dead]: spells_vo.md#animate-dead
+[antimagic field]: spells_vo.md#antimagic-field
+[banishment]: spells_vo.md#banishment
+[barkskin]: spells_vo.md#barkskin
+[bestow curse]: spells_vo.md#bestow-curse
+[blade barrier]: spells_vo.md#blade-barrier
+[bless]: spells_vo.md#bless
+[blight]: spells_vo.md#blight
+[blindness/deafness]: spells_vo.md#blindness/deafness
+[blur]: spells_vo.md#blur
+[calm emotions]: spells_vo.md#calm-emotions
+[charm person]: spells_vo.md#charm-person
+[clairvoyance]: spells_vo.md#clairvoyance
+[cloudkill]: spells_vo.md#cloudkill
+[command]: spells_vo.md#command
+[commune]: spells_vo.md#commune
+[cone of cold]: spells_vo.md#cone-of-cold
+[confusion]: spells_vo.md#confusion
+[conjure elemental]: spells_vo.md#conjure-elemental
+[contagion]: spells_vo.md#contagion
+[control weather]: spells_vo.md#control-weather
+[counterspell]: spells_vo.md#counterspell
+[create food and water]: spells_vo.md#create-food-and-water
+[creation]: spells_vo.md#creation
+[cure wounds]: spells_vo.md#cure-wounds
+[dancing lights]: spells_vo.md#dancing-lights
+[darkness]: spells_vo.md#darkness
+[detect evil and good]: spells_vo.md#detect-evil-and-good
+[detect magic]: spells_vo.md#detect-magic
+[detect thoughts]: spells_vo.md#detect-thoughts
+[dimension door]: spells_vo.md#dimension-door
+[disguise self]: spells_vo.md#disguise-self
+[disintegrate]: spells_vo.md#disintegrate
+[dispel evil and good]: spells_vo.md#dispel-evil-and-good
+[dispel magic]: spells_vo.md#dispel-magic
+[divination]: spells_vo.md#divination
+[dominate monster]: spells_vo.md#dominate-monster
+[dominate person]: spells_vo.md#dominate-person
+[dream]: spells_vo.md#dream
+[druidcraft]: spells_vo.md#druidcraft
+[enlarge/reduce]: spells_vo.md#enlarge/reduce
+[entangle]: spells_vo.md#entangle
+[faerie fire]: spells_vo.md#faerie-fire
+[feather fall]: spells_vo.md#feather-fall
+[finger of death]: spells_vo.md#finger-of-death
+[fire bolt]: spells_vo.md#fire-bolt
+[fire shield]: spells_vo.md#fire-shield
+[fireball]: spells_vo.md#fireball
+[flame strike]: spells_vo.md#flame-strike
+[flaming sphere]: spells_vo.md#flaming-sphere
+[fly]: spells_vo.md#fly
+[fog cloud]: spells_vo.md#fog-cloud
+[freedom of movement]: spells_vo.md#freedom-of-movement
+[gaseous form]: spells_vo.md#gaseous-form
+[geas]: spells_vo.md#geas
+[globe of invulnerability]: spells_vo.md#globe-of-invulnerability
+[greater invisibility]: spells_vo.md#greater-invisibility
+[greater restoration]: spells_vo.md#greater-restoration
+[guardian of faith]: spells_vo.md#guardian-of-faith
+[guiding bolt]: spells_vo.md#guiding-bolt
+[harm]: spells_vo.md#harm
+[heal]: spells_vo.md#heal
+[heat metal]: spells_vo.md#heat-metal
+[heroes' feast]: spells_vo.md#heroes'-feast
+[hold monster]: spells_vo.md#hold-monster
+[hold person]: spells_vo.md#hold-person
+[ice storm]: spells_vo.md#ice-storm
+[identify]: spells_vo.md#identify
+[inflict wounds]: spells_vo.md#inflict-wounds
+[insect plague]: spells_vo.md#insect-plague
+[invisibility]: spells_vo.md#invisibility
+[legend lore]: spells_vo.md#legend-lore
+[lesser restoration]: spells_vo.md#lesser-restoration
+[levitate]: spells_vo.md#levitate
+[light]: spells_vo.md#light
+[lightning bolt]: spells_vo.md#lightning-bolt
+[locate object]: spells_vo.md#locate-object
+[longstrider]: spells_vo.md#longstrider
+[mage armor]: spells_vo.md#mage-armor
+[mage hand]: spells_vo.md#mage-hand
+[magic missile]: spells_vo.md#magic-missile
+[major image]: spells_vo.md#major-image
+[mending]: spells_vo.md#mending
+[mind blank]: spells_vo.md#mind-blank
+[minor illusion]: spells_vo.md#minor-illusion
+[mirror image]: spells_vo.md#mirror-image
+[misty step]: spells_vo.md#misty-step
+[nondetection]: spells_vo.md#nondetection
+[pass without trace]: spells_vo.md#pass-without-trace
+[plane shift]: spells_vo.md#plane-shift
+[power word kill]: spells_vo.md#power-word-kill
+[prestidigitation]: spells_vo.md#prestidigitation
+[produce flame]: spells_vo.md#produce-flame
+[protection from evil and good]: spells_vo.md#protection-from-evil-and-good
+[ray of enfeeblement]: spells_vo.md#ray-of-enfeeblement
+[ray of frost]: spells_vo.md#ray-of-frost
+[remove curse]: spells_vo.md#remove-curse
+[resurrection]: spells_vo.md#resurrection
+[sacred flame]: spells_vo.md#sacred-flame
+[sanctuary]: spells_vo.md#sanctuary
+[scrying]: spells_vo.md#scrying
+[shield of faith]: spells_vo.md#shield-of-faith
+[shield]: spells_vo.md#shield
+[shillelagh]: spells_vo.md#shillelagh
+[shocking grasp]: spells_vo.md#shocking-grasp
+[silence]: spells_vo.md#silence
+[sleep]: spells_vo.md#sleep
+[spare the dying]: spells_vo.md#spare-the-dying
+[speak with animals]: spells_vo.md#speak-with-animals
+[spirit guardians]: spells_vo.md#spirit-guardians
+[spiritual weapon]: spells_vo.md#spiritual-weapon
+[stoneskin]: spells_vo.md#stoneskin
+[suggestion]: spells_vo.md#suggestion
+[telekinesis]: spells_vo.md#telekinesis
+[teleport]: spells_vo.md#teleport
+[thaumaturgy]: spells_vo.md#thaumaturgy
+[thunderwave]: spells_vo.md#thunderwave
+[time stop]: spells_vo.md#time-stop
+[tongues]: spells_vo.md#tongues
+[true seeing]: spells_vo.md#true-seeing
+[wall of fire]: spells_vo.md#wall-of-fire
+[wall of force]: spells_vo.md#wall-of-force
+[water breathing]: spells_vo.md#water-breathing
+[wind walk]: spells_vo.md#wind-walk
+[wish]: spells_vo.md#wish
+[zone of truth]: spells_vo.md#zone-of-truth

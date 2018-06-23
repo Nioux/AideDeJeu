@@ -67,18 +67,24 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
-            var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
-            var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
-            var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
-            var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
-            var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
+            //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
+            //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
+            //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
+            //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
+            //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
+            var monstersVOmd = await LoadStringAsync(dataDir + "monsters_vo.md");
+            var regex = new Regex("(\\[[a-z].*?\\])");
+            var matches = regex.Matches(monstersVOmd);
+            var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);
+
+            return;
             //var mdhd = spellsHD.ToMarkdownString();
             //var spellsMDHD = spellsHD.ToMarkdownString();
             //var spellsMDVO = spellsVO.ToMarkdownString();
-            var monstersMDVO = monstersVO.ToMarkdownString();
+            //var monstersMDVO = monstersVO.ToMarkdownString();
             //await SaveStringAsync(dataDir + "spells_vo.md", spellsMDVO);
-            await SaveStringAsync(dataDir + "monsters_vo.md", monstersMDVO);
+            //await SaveStringAsync(dataDir + "monsters_vo.md", monstersMDVO);
 
             //using (var instream = new StreamReader(dataDir + "monsters_hd.md", Encoding.UTF8))
             //{
@@ -116,8 +122,8 @@ namespace AideDeJeuCmd
             //}
             return;
             //var spellss = await TestMarkdown(@"..\..\..\..\..\Data\spells_hd.md");
-            var monsterss = await TestMarkdownMonsters(@"..\..\..\..\..\Data\monsters_hd.md");
-            return;
+            //var monsterss = await TestMarkdownMonsters(@"..\..\..\..\..\Data\monsters_hd.md");
+            //return;
             //string ignoreDir = @"..\..\..\..\..\Ignore\";
             //var documentsDirectoryPath = @"database.db"; // Windows.Storage.ApplicationData.Current.LocalFolder.Path;
             //ItemDatabaseHelper helper = new ItemDatabaseHelper(documentsDirectoryPath);
@@ -168,22 +174,22 @@ namespace AideDeJeuCmd
             //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
             //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
-            var mdhd = spellsHD.ToMarkdownString();
-            await SaveStringAsync(dataDir + "spells_hd.md", mdhd);
+            //var mdhd = spellsHD.ToMarkdownString();
+            //await SaveStringAsync(dataDir + "spells_hd.md", mdhd);
 
-            spellsVF.ForEach(sp => sp.Html = null);
-            spellsVO.ForEach(sp => sp.Html = null);
-            spellsVF.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
-            spellsVO.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
-            monstersVF.ForEach(it => it.Html = null);
-            monstersVO.ForEach(it => it.Html = null);
+            //spellsVF.ForEach(sp => sp.Html = null);
+            //spellsVO.ForEach(sp => sp.Html = null);
+            //spellsVF.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
+            //spellsVO.ForEach(sp => sp.DescriptionDiv = sp.DescriptionDiv);
+            //monstersVF.ForEach(it => it.Html = null);
+            //monstersVO.ForEach(it => it.Html = null);
 
-            SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vf.json", spellsVF);
-            SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vo.json", spellsVO);
-            SaveJSon<IEnumerable<Spell>>(dataDir + "spells_hd.json", spellsHD);
-            SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vf.json", monstersVF);
-            SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vo.json", monstersVO);
-            return;
+            //SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vf.json", spellsVF);
+            //SaveJSon<IEnumerable<Spell>>(dataDir + "spells_vo.json", spellsVO);
+            //SaveJSon<IEnumerable<Spell>>(dataDir + "spells_hd.json", spellsHD);
+            //SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vf.json", monstersVF);
+            //SaveJSon<IEnumerable<Monster>>(dataDir + "monsters_vo.json", monstersVO);
+            //return;
 
             /*
             var spellLists = new Dictionary<string, IEnumerable<string>>()
@@ -510,10 +516,17 @@ namespace AideDeJeuCmd
 
         private static async Task SaveStringAsync(string filename, string text) 
         {
-            using (var stream = new FileStream(filename, FileMode.Create))
+            using (var sw = new StreamWriter(path: filename, append: false, encoding: Encoding.UTF8))
             {
-                var buffer = Encoding.UTF8.GetBytes(text);
-                await stream.WriteAsync(buffer, 0, buffer.Length);
+                await sw.WriteAsync(text);
+            }
+        }
+
+        private static async Task<string> LoadStringAsync(string filename)
+        {
+            using (var sr = new StreamReader(filename, Encoding.UTF8))
+            {
+                return await sr.ReadToEndAsync();
             }
         }
 
