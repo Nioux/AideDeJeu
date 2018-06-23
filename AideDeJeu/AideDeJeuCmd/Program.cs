@@ -21,10 +21,10 @@ namespace AideDeJeuCmd
     class Program
     {
 
-        static async Task<IEnumerable<Spell>> TestMarkdown(string filename) 
+        static async Task<IEnumerable<Spell>> TestMarkdown(string filename)
         {
             using (var sr = new StreamReader(filename))
-            { 
+            {
                 var md = await sr.ReadToEndAsync();
                 var document = Markdig.Parsers.MarkdownParser.Parse(md);
                 //DumpMarkdownDocument(document);
@@ -32,7 +32,7 @@ namespace AideDeJeuCmd
                 var spellss = document.ToSpells();
                 Console.WriteLine("ok");
                 var md2 = spellss.ToMarkdownString();
-                if(md.CompareTo(md2) != 0)
+                if (md.CompareTo(md2) != 0)
                 {
                     Debug.WriteLine("failed");
                 }
@@ -73,11 +73,63 @@ namespace AideDeJeuCmd
             //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
             //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
-            var monstersVOmd = await LoadStringAsync(dataDir + "monsters_vo.md");
-            var regex = new Regex("(\\[[a-z].*?\\])");
-            var matches = regex.Matches(monstersVOmd);
-            var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);
-             
+            var result = string.Empty;
+            var md = await LoadStringAsync(dataDir + "spells_hd.md");
+            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+
+            var classes = new string[]
+            {
+                "Barde",
+                "Clerc",
+                "Druide",
+                "Ensorceleur",
+                "Magicien",
+                "Paladin",
+                "Rôdeur",
+                "Sorcier"
+            };
+            var levels = new string[] 
+            {
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                //"tour de magie",
+                //"niveau 1",
+                //"niveau 2",
+                //"niveau 3",
+                //"niveau 4",
+                //"niveau 5",
+                //"niveau 6",
+                //"niveau 7",
+                //"niveau 8",
+                //"niveau 9"
+            };
+            foreach (var classe in classes)
+            {
+                result += string.Format("## {0}\r\n\r\n", classe);
+                foreach (var level in levels)
+                {
+                    var spells = items.Where(s => s.Level == level && s.Source.Contains(classe)).OrderBy(s => s.Name).Select(s => string.Format("* [{0}](spells_hd.md#{1})", s.Name, Helpers.IdFromName(s.Name))).ToList();
+                    if (spells.Count > 0)
+                    {
+                        result += string.Format("### {0}\r\n\r\n", level == "0" ? "Tours de magie" : "Niveau " + level);
+                        result += spells.Aggregate((s1, s2) => s1 + "\r\n" + s2);
+                        result += "\r\n\r\n";
+                    }
+                }
+            }
+            await SaveStringAsync(dataDir + "spells_hd_by_class_level.md", result);
+            //var regex = new Regex("(\\[[a-z].*?\\])");
+            //var matches = regex.Matches(monstersVOmd);
+            //var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);
+
             return;
             //var mdhd = spellsHD.ToMarkdownString();
             //var spellsMDHD = spellsHD.ToMarkdownString();
@@ -514,7 +566,7 @@ namespace AideDeJeuCmd
             }
         }
 
-        private static async Task SaveStringAsync(string filename, string text) 
+        private static async Task SaveStringAsync(string filename, string text)
         {
             using (var sw = new StreamWriter(path: filename, append: false, encoding: Encoding.UTF8))
             {
@@ -538,7 +590,7 @@ namespace AideDeJeuCmd
                 var line = await stream.ReadLineAsync();
                 while (line != null)
                 {
-                    if(!string.IsNullOrEmpty(line))
+                    if (!string.IsNullOrEmpty(line))
                     {
                         lines.Add(line);
                     }
