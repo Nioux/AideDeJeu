@@ -176,6 +176,14 @@ Les objets prennent vie sur votre ordre. Choisissez jusqu’à dix objets non ma
 
 Par une action bonus, vous pouvez donner un ordre mental à toute créature créée via ce sort qui se trouve au maximum à 150 mètres de vous (si vous en contrôlez plusieurs, vous pouvez donner un ordre à l’une d’elles, certaines d’entre elles ou toutes à la fois, à condition de donner le même ordre à toutes). À vous de décider quelles actions la créature va entreprendre et à quel endroit elle se déplace au cours du tour suivant, mais vous pouvez aussi lui donner un ordre plus générique, comme de garder une salle ou un couloir. En l’absence d’ordre, la créature se contente de se défendre contre les créatures hostiles. Une fois qu’elle a reçu un ordre, elle continue à le suivre jusqu’à ce qu’elle ait accompli sa tâche.
 
+|Taille|PV|CA|Attaque|For|Dex|
+|---|---|---|---|---|---|
+|Très petite|20|18|+8 pour toucher, 1d4+4 dégâts|4|18|
+|Petite|25|16|+6 pour toucher, 1d8+2 dégâts|6|14|
+|Moyenne|40|13|+5 pour toucher, 2d6+1 dégâts|10|12|
+|Grande|50|10|+6 pour toucher, 2d10+2 dégâts|14|10|
+|Très grande|80|10|+8 pour toucher, 2d12+4 dégâts|18|6|
+
 Un objet animé est une créature artificielle avec une CA, des points de vie, des attaques, une Force et une Dextérité déterminés par sa taille. Sa Constitution est de 10 tandis que son Intelligence et sa Sagesse sont de 3 et son Charisme de 1. Il a une vitesse de 9 mètres. S’il est dépourvu de patte ou d’appendice susceptible de lui permettre de se mouvoir, il gagne à la place la capacité de voler à une vitesse de 9 mètres et peut utiliser le vol stationnaire. Si l’objet est solidement attaché à une surface ou à un objet de plus grande taille, comme une chaîne vissée à un mur, sa vitesse est de 0. L’objet possède la vision aveugle dans un rayon de 9 mètres ; au-delà, il est aveugle.
 
 Quand l’objet animé tombe à 0 point de vie, il reprend sa forme initiale et tout dégât en surplus est infligé à celle-ci.
@@ -1634,13 +1642,12 @@ Toutes les créatures situées dans une sphère de 3 mètres de rayon autour d�
 
 Une cible affectée ne peut pas utiliser de réaction et doit lancer 1d10 au début de chacun de ses tours pour déterminer comment elle se comporte pendant le tour.
 
-d10 Comportement 1 La créature utilise la totalité de son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer cette dernière, lancez un d8 en assignant une direction à chaque face. La créature n’effectue aucune action pour ce tour.
-
-2-6 La créature ne bouge pas et n’entreprend pas la moindre action pour ce tour.
-
-7-8 La créature utilise son action pour porter une attaque au corps-à-corps contre une créature aléatoire à portée d’allonge. S’il n’y a pas de créature à portée, elle ne fait rien durant le tour.
-
-9-10 La créature peut agir et se déplacer normalement.
+|d10|Comportement|
+|---|---|
+|1|La créature utilise la totalité de son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer cette dernière, lancez un d8 en assignant une direction à chaque face. La créature n’effectue aucune action pour ce tour.|
+|2-6|La créature ne bouge pas et n’entreprend pas la moindre action pour ce tour.|
+|7-8|La créature utilise son action pour porter une attaque au corps-à-corps contre une créature aléatoire à portée d’allonge. S’il n’y a pas de créature à portée, elle ne fait rien durant le tour.|
+|9-10|La créature peut agir et se déplacer normalement.|
 
 Une créature affectée peut faire un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. En cas de succès, l’effet se termine pour elle.
 
@@ -1836,7 +1843,37 @@ Au moment de l’incantation, vous changez les conditions météorologiques actu
 
 Quand vous modifiez les conditions météorologiques, cherchez les conditions actuelles dans les tables suivantes : vous pouvez les décaler d’un cran vers le haut ou le bas. Quand vous modifiez le vent, vous pouvez changer sa direction.
 
-Précipitations Étape Condition 1 Ciel dégagé 2 Quelques nuages 3 Ciel couvert ou brume au sol 4 Pluie, grêle ou neige 5 Pluies torrentielles, forte grêle ou blizzard Température Étape Condition 1 Chaleur insoutenable 2 Forte chaleur 3 Tiède 4 Frais 5 Grand froid 6 Froid polaire Vent Étape Condition 1 Temps calme 2 Vent modéré 3 Vent fort 4 Grand vent 5 Tempête 
+Précipitations
+
+|Étape|Condition|
+|---|---|
+|1|Ciel dégagé|
+|2|Quelques nuages|
+|3|Ciel couvert ou brume au sol|
+|4|Pluie, grêle ou neige|
+|5|Pluies torrentielles, forte grêle ou blizzard|
+
+Température 
+
+|Étape|Condition|
+|---|---|
+|1|Chaleur insoutenable|
+|2|Forte chaleur|
+|3|Tiède|
+|4|Frais|
+|5|Grand froid|
+|6|Froid polaire|
+
+Vent 
+
+|Étape|Condition|
+|---|---|
+|1|Temps calme|
+|2|Vent modéré|
+|3|Vent fort|
+|4|Grand vent|
+|5|Tempête|
+
 
 # Convocations instantanées
 - NameVO: 
@@ -1944,7 +1981,15 @@ L’objet créé ne doit pas être plus grand qu’un cube de 1,50 mètre d’ar
 
 La durée du sort dépend du matériau choisi pour façonner l’objet. S’il est fait de plusieurs matières, c’est la durée la plus courte qui s’applique.
 
-Matériau Durée Matière végétale 1 jour Pierre ou cristal 12 heures Métaux précieux 1 heure Gemmes 10 minutes Adamantium ou mithral 1 minute Si vous utilisez les matériaux créés via ce sort comme composantes matérielles pour un autre sort, ce dernier échoue.
+|Matériau|Durée|
+|---|---|
+|Matière végétale|1 jour|
+|Pierre ou cristal|12 heures|
+|Métaux précieux|1 heure|
+|Gemmes|10 minutes|
+|Adamantium ou mithral|1 minute|
+
+Si vous utilisez les matériaux créés via ce sort comme composantes matérielles pour un autre sort, ce dernier échoue.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, l’arête du cube augmente de 1,50 mètre par niveau au-delà du niveau 5.
 
@@ -6286,7 +6331,29 @@ Vous touchez un humanoïde mort ou un morceau du cadavre d’une telle créature
 
 La magie façonne un nouveau corps pour accueillir l’âme, ce qui risque de modifier la race de la créature. Le MJ lance 1d100 et consulte la table suivante pour déterminer quel sera le corps de la créature ramenée à la vie ou il en choisit un.
 
-d100 Race 01-03 sangdragon 04-09 nain des collines 10-15 nain des montagnes 16-19 nain des profondeurs 20-24 elfe de sang 25-28 elfe d’aether 29-32 elfe de fer 33-39 elfe de bois 40-44 gnome des roches 45-47 demi-elfe 48-49 demi-ogre 50-52 demi-orc 53-59 halfelin pied-léger 60-66 halfelin grand sabot 67-86 humain 87-89 homme serpent 90-92 félys 93-96 aasimar 97-100 tieffelin La créature réincarnée se souvient de son ancienne vie et de ses expériences passées. Elle conserve les capacités dont elle disposait sous sa forme d’origine, mais échange sa race précédente contre la nouvelle et modifie ses traits raciaux en conséquence.
+|d100|Race|
+|---|---|
+|01-03|sangdragon|
+|04-09|nain des collines|
+|10-15|nain des montagnes|
+|16-19|nain des profondeurs|
+|20-24|elfe de sang|
+|25-28|elfe d’aether|
+|29-32|elfe de fer|
+|33-39|elfe de bois|
+|40-44|gnome des roches|
+|45-47|demi-elfe|
+|48-49|demi-ogre|
+|50-52|demi-orc|
+|53-59|halfelin pied-léger|
+|60-66|halfelin grand sabot|
+|67-86|humain|
+|87-89|homme serpent|
+|90-92|félys|
+|93-96|aasimar|
+|97-100|tieffelin|
+
+La créature réincarnée se souvient de son ancienne vie et de ses expériences passées. Elle conserve les capacités dont elle disposait sous sa forme d’origine, mais échange sa race précédente contre la nouvelle et modifie ses traits raciaux en conséquence.
 
 
 
@@ -6678,7 +6745,19 @@ Vous touchez une créature et triplez sa distance de saut jusqu’à ce que le s
 
 Vous voyez et entendez une créature donnée de votre choix, à condition qu’elle se trouve sur le même plan d’existence que vous. La cible doit effectuer un jet de sauvegarde de Sagesse, modifié par le degré de connaissance que vous avez d’elle et le type de lien physique que vous avez établi avec elle. Si la cible sait que vous lancez ce sort, elle peut rater volontairement son jet de sauvegarde si elle veut que vous l’observiez.
 
-Connaissance Modificateur du jet de sauvegarde Deuxième main (vous avez entendu parler de la cible) +5 Première main (vous avez rencontré la cible) +0 Familière (vous connaissez bien la cible) -5 Lien Modificateur du jet de sauvegarde Représentation ou portrait -2 Possession ou vêtement -4 Partie du corps, cheveux, ongles, etc. -10 Si la cible réussit son jet de sauvegarde, elle n’est pas affectée et vous ne pouvez plus utiliser ce sort sur elle pendant 24 heures.
+|Connaissance|Modificateur du jet de sauvegarde|
+|---|---|
+|Deuxième main (vous avez entendu parler de la cible)|+5|
+|Première main (vous avez rencontré la cible)|+0|
+|Familière (vous connaissez bien la cible)|-5|
+
+|Lien|Modificateur du jet de sauvegarde|
+|---|---|
+|Représentation ou portrait|-2|
+|Possession ou vêtement|-4|
+|Partie du corps, cheveux, ongles, etc.|-10|
+
+Si la cible réussit son jet de sauvegarde, elle n’est pas affectée et vous ne pouvez plus utiliser ce sort sur elle pendant 24 heures.
 
 Si elle rate son jet, le sort crée un organe sensoriel invisible dans un rayon de 3 mètres autour d’elle. Vous voyez et entendez à travers cet organe comme si vous vous trouviez à sa place. L’organe sensoriel se déplace avec la cible et reste dans un rayon de 3 mètres autour d’elle pendant toute la durée du sort. Une créature capable de voir les objets invisibles perçoit l’organe sensoriel comme un orbe lumineux de la taille de votre poing.
 
@@ -7128,13 +7207,25 @@ Ce sort vous transporte instantanément à la destination de votre choix, ainsi 
 
 Vous devez choisir une destination connue, située sur le même plan d’existence que vous. C’est votre degré de familiarité avec la destination qui détermine vos chances d’arriver sur place. Le MJ lance 1d100 et consulte la table ci-dessous.
 
+Téléportation - degré de familiarité
+
+|Familiarité|Incident|Zone similaire|À proximité|Sur place|
+|---|---|---|---|---|
+|Cercle permanent|—|—|—|01-100|
+|Objet associé|—|—|—|01-100|
+|Très familier|01-05|06-13|14-24|25-100|
+|Vu à quelques reprises|01-33|34-43|44-53|54-100|
+|Vu une seule fois|01-43|44-53|54-73|74-100|
+|Description|01-43|44-53|54-73|74-100|
+|Destination factice|01-50|51-100|—|—|
+
 **_Familiarité._** « Cercle permanent » désigne un cercle de téléportation dont vous connaissez la séquence de symboles. « Objet associé » indique que vous possédez un objet prélevé à la destination choisie au cours des 6 derniers mois, comme un livre sorti de l’étagère de la bibliothèque d’un magicien, les draps d’une suite royale ou un éclat de marbre arraché au tombeau secret d’une liche. « Très familier » désigne un endroit où vous êtes souvent rendu, un lieu que vous avez soigneusement étudié ou un endroit que vous voyez au moment de l’incantation.
 
 « Vu à quelques reprises » correspond aux endroits que vous avez vus plus d’une fois, mais avec lesquels vous n’êtes pourtant pas très familiers. « Vu une fois » représente un lieu vu une seule fois, éventuellement par magie. « Description » correspond à un endroit que vous connaissez seulement via la description d’autrui, aussi bien au niveau de son emplacement que de son apparence, éventuellement grâce à une carte. « Destination factice » désigne les endroits qui n’existent pas, si par exemple vous avez tenté de scruter le sanctuaire d’un ennemi mais n’avez vu qu’une illusion ou si vous essayez de vous téléporter en un endroit familier qui n’existe plus.
 
 **_Sur place._** Vous et vos compagnons (ou l’objet téléporté) apparaissez exactement où vous le souhaitiez.
 
-**_À proximité._** Vous et vos compagnons (ou l’objet téléporté) apparaissez à une distance aléatoire de votre Téléportation - degré de familiarité Familiarité Incident Zone similaire À proximité Sur place Cercle permanent — — — 01-100 Objet associé — — — 01-100 Très familier 01-05 06-13 14-24 25-100 Vu à quelques reprises 01-33 34-43 44-53 54-100 Vu une seule fois 01-43 44-53 54-73 74-100 Description 01-43 44-53 54-73 74-100 Destination factice 01-50 51-100 — — destination, éloignés dans une direction tout aussi aléatoire.
+**_À proximité._** Vous et vos compagnons (ou l’objet téléporté) apparaissez à une distance aléatoire de votre destination, éloignés dans une direction tout aussi aléatoire.
 
 La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la distance que le sort vous a fait parcourir. Par exemple, si vous essayez de vous téléporter à une destination située à 180 kilomètres de votre position, que vous arrivez à proximité, et que vous obtenez 5 et 3, vous allez arriver à 15 % de distance de votre destination, c’est-à-dire à 27 kilomètres. Le MJ détermine la direction dans laquelle vous vous êtes éloignés de la cible en lançant 1d8, le 1 représentant le Nord, le 2 le Nord-Est, le 3 l’Est, etc., jusqu’à faire le tour de la rose des vents. Si vous comptiez vous téléporter dans une cité portuaire et arrivez à 27 kilomètres au large de ses côtes, en pleine mer, vous pourriez bien avoir quelques ennuis.
 
