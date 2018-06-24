@@ -234,7 +234,7 @@ namespace AideDeJeu.Tools
                     }
                     if (headingBlock.HeaderChar == '#' && headingBlock.Level == 2)
                     {
-                        switch(headingBlock.Inline.ToContainerString())
+                        switch (headingBlock.Inline.ToContainerString())
                         {
                             case "Capacités":
                             case "Special Features":
@@ -372,9 +372,9 @@ namespace AideDeJeu.Tools
                                             })
                                         };
 
-                                        foreach(var property in properties)
+                                        foreach (var property in properties)
                                         {
-                                            if(str.StartsWith(property.Item1))
+                                            if (str.StartsWith(property.Item1))
                                             {
                                                 property.Item2.Invoke(monster, str.Substring(property.Item1.Length));
                                                 break;
@@ -407,7 +407,7 @@ namespace AideDeJeu.Tools
                         }
                     }
                 }
-                else if(block is Markdig.Extensions.Tables.Table)
+                else if (block is Markdig.Extensions.Tables.Table)
                 {
                     var tableBlock = block as Markdig.Extensions.Tables.Table;
                     var table = tableBlock.ToTable();
@@ -430,16 +430,24 @@ namespace AideDeJeu.Tools
                         monster.Charisma = table["CHA"].FirstOrDefault();
                     }
                 }
-                else if(block is Markdig.Syntax.LinkReferenceDefinitionGroup)
+                else if (block is Markdig.Syntax.LinkReferenceDefinitionGroup)
                 {
-                    
+
                     var linkReferenceDefinitionGroup = block as Markdig.Syntax.LinkReferenceDefinitionGroup;
-                    
+
                     foreach (var linkBlock in linkReferenceDefinitionGroup)
                     {
                         var linkReferenceDefinition = linkBlock as Markdig.Syntax.LinkReferenceDefinition;
                         //linkReferenceDefinition.
                     }
+                }
+                else if (block is Markdig.Syntax.LinkReferenceDefinition)
+                {
+                    Debug.WriteLine(block.GetType());
+                }
+                else
+                {
+                    Debug.WriteLine(block.GetType());
                 }
             }
             if (monster != null)
@@ -487,7 +495,12 @@ namespace AideDeJeu.Tools
                 else if (inline is Markdig.Syntax.Inlines.LinkInline)
                 {
                     var linkInline = inline as Markdig.Syntax.Inlines.LinkInline;
-                    add = string.Format($"[{linkInline.Label}]({linkInline.Url} \"{linkInline.Title}\")", linkInline.Label); //containerInline.ToContainerString();
+                    add = string.Empty;
+                    if (linkInline.IsImage)
+                    {
+                        add = "!";
+                    }
+                    add += string.Format($"[{linkInline.Label}]({linkInline.Url} \"{linkInline.Title}\")", linkInline.Label); //containerInline.ToContainerString();
                 }
                 else if (inline is Markdig.Syntax.Inlines.ContainerInline)
                 {
