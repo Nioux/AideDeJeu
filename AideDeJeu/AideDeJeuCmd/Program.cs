@@ -107,9 +107,11 @@ namespace AideDeJeuCmd
             };
             foreach (var classe in classes)
             {
+                //Console.WriteLine(classe);
                 result += string.Format("## {0}\r\n\r\n", classe);
                 foreach (var level in levels)
                 {
+                    //Console.WriteLine(level);
                     var spells = items.Where(s => s.Level == level && s.Source.Contains(classe)).OrderBy(s => s.Name).Select(s => string.Format("* [{0}](spells_hd.md#{1})", s.Name, Helpers.IdFromName(s.Name))).ToList();
                     if (spells.Count > 0)
                     {
@@ -119,6 +121,7 @@ namespace AideDeJeuCmd
                     }
                 }
             }
+            Console.WriteLine(result);
             await SaveStringAsync(dataDir + "spells_hd_by_class_level.md", result);
         }
 
@@ -126,6 +129,7 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
+            await CreateIndexes();
             //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
             //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
             //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
@@ -133,20 +137,20 @@ namespace AideDeJeuCmd
             //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
             //var result = string.Empty;
-            var md = await LoadStringAsync(dataDir + "spells_vo.md");
+            //var md = await LoadStringAsync(dataDir + "spells_vo.md");
 
-            var regex = new Regex("\\[(?<name>.*?)\\]\\: spells_hd\\.md\\#(?<id>.*?)\n");
-            var matches = regex.Matches(md);
-            foreach(Match match in matches)
-            {
-                Debug.WriteLine(match.Value);
-                var oldMatch = match.Value;
-                var name = match.Groups["name"].Value;
-                var newMatch = string.Format("[{0}]: spells_hd.md#{1}\n", name, Helpers.IdFromName(name));
+            //var regex = new Regex("\\[(?<name>.*?)\\]\\: spells_hd\\.md\\#(?<id>.*?)\n");
+            //var matches = regex.Matches(md);
+            //foreach(Match match in matches)
+            //{
+            //    Debug.WriteLine(match.Value);
+            //    var oldMatch = match.Value;
+            //    var name = match.Groups["name"].Value;
+            //    var newMatch = string.Format("[{0}]: spells_hd.md#{1}\n", name, Helpers.IdFromName(name));
 
-                md = md.Replace(oldMatch, newMatch);
-            }
-            await SaveStringAsync(dataDir + "spells_vo_tmp.md", md);
+            //    md = md.Replace(oldMatch, newMatch);
+            //}
+            //await SaveStringAsync(dataDir + "spells_vo_tmp.md", md);
             //foreach(var spell in spellsVF)
             //{
             //    var nameAideDD = spell.Name;

@@ -44,7 +44,7 @@
 * [Apaisement des émotions](spells_hd.md#apaisement-des-émotions)
 * [Bouche magique](spells_hd.md#bouche-magique)
 * [Briser](spells_hd.md#briser)
-* [Cécité/surdité](spells_hd.md#cécité/surdité)
+* [Cécité/surdité](spells_hd.md#cécitésurdité)
 * [Chauffer le métal](spells_hd.md#chauffer-le-métal)
 * [Déblocage](spells_hd.md#déblocage)
 * [Détection des pensées](spells_hd.md#détection-des-pensées)
@@ -186,7 +186,7 @@
 * [Apaisement des émotions](spells_hd.md#apaisement-des-émotions)
 * [Arme spirituelle](spells_hd.md#arme-spirituelle)
 * [Augure](spells_hd.md#augure)
-* [Cécité/surdité](spells_hd.md#cécité/surdité)
+* [Cécité/surdité](spells_hd.md#cécitésurdité)
 * [Doux repos](spells_hd.md#doux-repos)
 * [Flamme éternelle](spells_hd.md#flamme-éternelle)
 * [Immobiliser un humanoïde](spells_hd.md#immobiliser-un-humanoïde)
@@ -415,7 +415,7 @@
 * [Éclat du soleil](spells_hd.md#éclat-du-soleil)
 * [Esprit faible](spells_hd.md#esprit-faible)
 * [Formes animales](spells_hd.md#formes-animales)
-* [Répulsion/attirance](spells_hd.md#répulsion/attirance)
+* [Répulsion/attirance](spells_hd.md#répulsionattirance)
 * [Tempête de sable](spells_hd.md#tempête-de-sable)
 * [Tremblement de terre](spells_hd.md#tremblement-de-terre)
 
@@ -471,11 +471,11 @@
 
 ### Niveau 2
 
-* [Agrandir/rétrécir](spells_hd.md#agrandir/rétrécir)
+* [Agrandir/rétrécir](spells_hd.md#agrandirrétrécir)
 * [Amélioration de caractéristique](spells_hd.md#amélioration-de-caractéristique)
 * [Bourrasque](spells_hd.md#bourrasque)
 * [Briser](spells_hd.md#briser)
-* [Cécité/surdité](spells_hd.md#cécité/surdité)
+* [Cécité/surdité](spells_hd.md#cécitésurdité)
 * [Déblocage](spells_hd.md#déblocage)
 * [Détection des pensées](spells_hd.md#détection-des-pensées)
 * [Flou](spells_hd.md#flou)
@@ -640,13 +640,13 @@
 
 ### Niveau 2
 
-* [Agrandir/rétrécir](spells_hd.md#agrandir/rétrécir)
+* [Agrandir/rétrécir](spells_hd.md#agrandirrétrécir)
 * [Arme magique](spells_hd.md#arme-magique)
 * [Aura magique de l’arcaniste](spells_hd.md#aura-magique-de-l’arcaniste)
 * [Bouche magique](spells_hd.md#bouche-magique)
 * [Bourrasque](spells_hd.md#bourrasque)
 * [Briser](spells_hd.md#briser)
-* [Cécité/surdité](spells_hd.md#cécité/surdité)
+* [Cécité/surdité](spells_hd.md#cécitésurdité)
 * [Corde enchantée](spells_hd.md#corde-enchantée)
 * [Déblocage](spells_hd.md#déblocage)
 * [Dessiccation](spells_hd.md#dessiccation)
@@ -814,7 +814,7 @@
 * [Labyrinthe](spells_hd.md#labyrinthe)
 * [Mot de pouvoir étourdissant](spells_hd.md#mot-de-pouvoir-étourdissant)
 * [Nuage incendiaire](spells_hd.md#nuage-incendiaire)
-* [Répulsion/attirance](spells_hd.md#répulsion/attirance)
+* [Répulsion/attirance](spells_hd.md#répulsionattirance)
 
 ### Niveau 9
 
