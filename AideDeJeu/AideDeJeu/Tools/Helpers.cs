@@ -64,6 +64,12 @@ namespace AideDeJeu.Tools
             //return RemoveDiacritics(name.ToLower().Replace(" ", "-").Replace("\'", ""));
         }
 
+        public static string OldIdFromName(string name)
+        {
+            //return name.ToLower().Replace(" ", "-").Replace("\'", "").Replace("/", "");
+            return RemoveDiacritics(name.ToLower().Replace(" ", "-")); //.Replace("\'", ""));
+        }
+
 
     }
 }

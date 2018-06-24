@@ -126,16 +126,43 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
-            //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
+            var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
             //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
             //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
             //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
             //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
-            var result = string.Empty;
-            var md = await LoadStringAsync(dataDir + "spells_hd.md");
+            //var result = string.Empty;
+            var md = await LoadStringAsync(dataDir + "spells_vo.md");
 
-            var regex = new Regex("- NameVO: (?<name>.*?)\r\n");
+            foreach(var spell in spellsVF)
+            {
+                var nameAideDD = spell.Name;
+                var nameHD = spell.NamePHB;
+                if(!string.IsNullOrWhiteSpace(nameAideDD) && !string.IsNullOrWhiteSpace(nameHD))
+                {
+                    if (nameAideDD != nameHD)
+                    {
+                        Debug.WriteLine(string.Format("{0} => {1}", nameAideDD, nameHD));
+
+                        md = md.Replace(
+                            string.Format("- NameVO: [{0}]", nameAideDD),
+                            string.Format("- NameVO: [{0}]", nameHD));
+
+                        var tmpmd = md.Replace(
+                            string.Format("[{0}]: spells_hd.md#{1}", nameAideDD, Helpers.OldIdFromName(nameAideDD)),
+                            string.Format("[{0}]: spells_hd.md#{1}", nameHD, Helpers.IdFromName(nameHD))
+                            );
+
+                        if(tmpmd == md)
+                        {
+                            Debug.WriteLine("ko");
+                        }
+                        md = tmpmd;
+                    }
+                }
+            }
+            /*var regex = new Regex("- NameVO: (?<name>.*?)\r\n");
             var matches = regex.Matches(md);
             foreach(Match match in matches)
             {
@@ -147,11 +174,11 @@ namespace AideDeJeuCmd
                     var newNameVO = string.Format("- NameVO: [{0}](spells_vo.md#{1})", name, Helpers.IdFromName(name));
                     md = md.Replace(oldNameVO, newNameVO);
                 }
-            }
+            }*/
 
             //var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
 
-            await SaveStringAsync(dataDir + "spells_hd.md", md);
+            //await SaveStringAsync(dataDir + "spells_vo_tmp.md", md);
             //var regex = new Regex("(\\[[a-z].*?\\])");
             //var matches = regex.Matches(monstersVOmd);
             //var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);

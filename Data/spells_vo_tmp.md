@@ -1,4 +1,4 @@
-# Acid Splash
+﻿# Acid Splash
 - NameVO: [Aspersion acide]
 - CastingTime: 1 action
 - Components: V, S
