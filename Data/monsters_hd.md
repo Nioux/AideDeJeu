@@ -47,6 +47,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **Succion psychique (coûte 2 actions).** Une créature charmée par l'aboleth subit 10 (3d6) dégâts psychiques et l'aboleth récupère un nombre de points de vie égal aux dégâts subis par la créature.
 
+![](https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/Monsters/aboleth.jpg | width=200)
 
 # Abothid
 - Aberration de taille M, loyal mauvais
