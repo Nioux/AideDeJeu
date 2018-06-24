@@ -151,7 +151,7 @@ namespace AideDeJeuCmd
 
             //var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
 
-            //await SaveStringAsync(dataDir + "spells_hd.md", result);
+            await SaveStringAsync(dataDir + "spells_hd.md", md);
             //var regex = new Regex("(\\[[a-z].*?\\])");
             //var matches = regex.Matches(monstersVOmd);
             //var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);
