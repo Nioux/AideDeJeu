@@ -94,7 +94,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
-[Amitié avec les animaux]: spells_hd.md#amitie-avec-les-animaux
+[Amitié avec les animaux]: spells_hd.md#amitié-avec-les-animaux
 
 
 # Animal Messenger
@@ -275,7 +275,7 @@ If the target damages or otherwise harms an affected creature, the affected crea
 
 A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again.
 
-[Répulsion/attirance]: spells_hd.md#repulsion/attirance
+[Répulsion/attirance]: spells_hd.md#répulsionattirance
 
 
 # Arcane Eye
@@ -390,7 +390,7 @@ After spending the casting time tracing magical pathways within a precious gemst
 
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
-[Éveil]: spells_hd.md#eveil
+[Éveil]: spells_hd.md#éveil
 
 
 # Bane
@@ -409,7 +409,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-[Fléau]: spells_hd.md#fleau
+[Fléau]: spells_hd.md#fléau
 
 
 # Banishment
@@ -449,7 +449,7 @@ If the target is native to a different plane of existence than the one you're on
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 
-[Peau d'écorce]: spells_hd.md#peau-d'ecorce
+[Peau d'écorce]: spells_hd.md#peau-décorce
 
 
 # Beacon of Hope
@@ -466,7 +466,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
-[Lueur d'espoir]: spells_hd.md#lueur-d'espoir
+[Lueur d'espoir]: spells_hd.md#lueur-despoir
 
 
 # Bestow curse
@@ -545,7 +545,7 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 
 When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage.
 
-[Barrière de lames]: spells_hd.md#barriere-de-lames
+[Barrière de lames]: spells_hd.md#barrière-de-lames
 
 
 # Bless
@@ -564,7 +564,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-[Bénédiction]: spells_hd.md#benediction
+[Bénédiction]: spells_hd.md#bénédiction
 
 
 # Blight
@@ -585,7 +585,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
-[Flétrissement]: spells_hd.md#fletrissement
+[Flétrissement]: spells_hd.md#flétrissement
 
 
 # Blindness/Deafness
@@ -604,7 +604,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-[Cécité/Surdité]: spells_hd.md#cecite/surdite
+[Cécité/Surdité]: spells_hd.md#cécitésurdité
 
 
 # Blink
@@ -680,7 +680,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-[Mains brûlantes]: spells_hd.md#mains-brulantes
+[Mains brûlantes]: spells_hd.md#mains-brûlantes
 
 
 # Call Lightning
@@ -724,7 +724,7 @@ You can suppress any effect causing a target to be charmed or frightened. When t
 
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
-[Apaisement des émotions]: spells_hd.md#apaisement-des-emotions
+[Apaisement des émotions]: spells_hd.md#apaisement-des-émotions
 
 
 # Chain Lightning
@@ -745,7 +745,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
-[Chaîne d'éclairs]: spells_hd.md#chaine-d'eclairs
+[Chaîne d'éclairs]: spells_hd.md#chaîne-déclairs
 
 
 # Charm Person
@@ -990,7 +990,7 @@ For the duration, you understand the literal meaning of any spoken language that
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
 
-[Compréhension des langues]: spells_hd.md#comprehension-des-langues
+[Compréhension des langues]: spells_hd.md#compréhension-des-langues
 
 
 # Compulsion
@@ -1030,7 +1030,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
-[Cône de froid]: spells_hd.md#cone-de-froid
+[Cône de froid]: spells_hd.md#cône-de-froid
 
 
 # Confusion
@@ -1316,7 +1316,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-[Flamme éternelle]: spells_hd.md#flamme-eternelle
+[Flamme éternelle]: spells_hd.md#flamme-éternelle
 
 
 # Control Water
@@ -1345,7 +1345,7 @@ When a creature enters the vortex for the first time on a turn or starts its tur
 
 The first time each turn that an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round it remains in the vortex.
 
-[Contrôle de l'eau]: spells_hd.md#controle-de-l'eau
+[Contrôle de l'eau]: spells_hd.md#contrôle-de-leau
 
 
 # Control Weather
@@ -1396,7 +1396,7 @@ Wind
 |4|Gale|
 |5|Storm|
 
-[Contrôle du climat]: spells_hd.md#controle-du-climat
+[Contrôle du climat]: spells_hd.md#contrôle-du-climat
 
 
 # Counterspell
@@ -1432,7 +1432,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.
 
-[Création de nourriture et d'eau]: spells_hd.md#creation-de-nourriture-et-d'eau
+[Création de nourriture et d'eau]: spells_hd.md#création-de-nourriture-et-deau
 
 
 # Create or Destroy Water
@@ -1455,7 +1455,7 @@ You either create or destroy water.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
-[Création ou destruction d'eau]: spells_hd.md#creation-ou-destruction-d'eau
+[Création ou destruction d'eau]: spells_hd.md#création-ou-destruction-deau
 
 
 # Create Undead
@@ -1478,7 +1478,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **_At Higher Levels_**. When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
-[Création de mort-vivant]: spells_hd.md#creation-de-mort-vivant
+[Création de mort-vivant]: spells_hd.md#création-de-mort-vivant
 
 
 # Creation
@@ -1509,7 +1509,7 @@ Using any material created by this spell as another spell's material component c
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
-[Création]: spells_hd.md#creation
+[Création]: spells_hd.md#création
 
 
 # Cure Wounds
@@ -1547,7 +1547,7 @@ You create up to four torch-sized lights within range, making them appear as tor
 
 As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
 
-[Lumières dansantes]: spells_hd.md#lumieres-dansantes
+[Lumières dansantes]: spells_hd.md#lumières-dansantes
 
 
 # Darkness
@@ -1568,7 +1568,7 @@ If the point you choose is on an object you are holding or one that isn't being 
 
 If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
-[Ténèbres]: spells_hd.md#tenebres
+[Ténèbres]: spells_hd.md#ténèbres
 
 
 # Darkvision
@@ -1606,7 +1606,7 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-[Lumière du jour]: spells_hd.md#lumiere-du-jour
+[Lumière du jour]: spells_hd.md#lumière-du-jour
 
 
 # Death Ward
@@ -1690,7 +1690,7 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-[Détection du mal et du bien]: spells_hd.md#detection-du-mal-et-du-bien
+[Détection du mal et du bien]: spells_hd.md#détection-du-mal-et-du-bien
 
 
 # Detect Magic
@@ -1709,7 +1709,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-[Détection de la magie]: spells_hd.md#detection-de-la-magie
+[Détection de la magie]: spells_hd.md#détection-de-la-magie
 
 
 # Detect Poison and Disease
@@ -1728,7 +1728,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-[Détection du poison et des maladies]: spells_hd.md#detection-du-poison-et-des-maladies
+[Détection du poison et des maladies]: spells_hd.md#détection-du-poison-et-des-maladies
 
 
 # Detect Thoughts
@@ -1753,7 +1753,7 @@ You can also use this spell to detect the presence of thinking creatures you can
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
-[Détection des pensées]: spells_hd.md#detection-des-pensees
+[Détection des pensées]: spells_hd.md#détection-des-pensées
 
 
 # Dimension Door
@@ -1795,7 +1795,7 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
 
-[Déguisement]: spells_hd.md#deguisement
+[Déguisement]: spells_hd.md#déguisement
 
 
 # Disintegrate
@@ -1820,7 +1820,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
-[Désintégration]: spells_hd.md#desintegration
+[Désintégration]: spells_hd.md#désintégration
 
 
 # Dispel Evil and Good
@@ -2048,7 +2048,7 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-[Rêve]: spells_hd.md#reve
+[Rêve]: spells_hd.md#rêve
 
 
 # Druidcraft
@@ -2152,7 +2152,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-[Amélioration de caractéristique]: spells_hd.md#amelioration-de-caracteristique
+[Amélioration de caractéristique]: spells_hd.md#amélioration-de-caractéristique
 
 
 # Enlarge/Reduce
@@ -2196,7 +2196,7 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 
 When the spell ends, the conjured plants wilt away.
 
-[Enchevêtrement]: spells_hd.md#enchevetrement
+[Enchevêtrement]: spells_hd.md#enchevêtrement
 
 
 # Enthrall
@@ -2213,7 +2213,7 @@ When the spell ends, the conjured plants wilt away.
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
-[Envoûtement]: spells_hd.md#envoutement
+[Envoûtement]: spells_hd.md#envoûtement
 
 
 # Etherealness
@@ -2240,7 +2240,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
-[Forme éthérée]: spells_hd.md#forme-etheree
+[Forme éthérée]: spells_hd.md#forme-éthérée
 
 
 # Evard's Black Tentacles
@@ -2261,7 +2261,7 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-[Tentacules noirs d'Evard]: spells_hd.md#tentacules-noirs-d'evard
+[Tentacules noirs d'Evard]: spells_hd.md#tentacules-noirs-devard
 
 
 # Expeditious Retreat
@@ -2278,7 +2278,7 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
 
-[Repli expéditif]: spells_hd.md#repli-expeditif
+[Repli expéditif]: spells_hd.md#repli-expéditif
 
 
 # Eyebite
@@ -2341,7 +2341,7 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
 
-[Lueurs féeriques]: spells_hd.md#lueurs-feeriques
+[Lueurs féeriques]: spells_hd.md#lueurs-féeriques
 
 
 # False Life
@@ -2587,7 +2587,7 @@ A storm made up of sheets of roaring flame appears in a location you choose with
 
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
-[Tempête de feu]: spells_hd.md#tempete-de-feu
+[Tempête de feu]: spells_hd.md#tempête-de-feu
 
 
 # Fireball
@@ -2673,7 +2673,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-[Sphère de feu]: spells_hd.md#sphere-de-feu
+[Sphère de feu]: spells_hd.md#sphère-de-feu
 
 
 # Flesh to Stone
@@ -2696,7 +2696,7 @@ If the creature is physically broken while petrified, it suffers from similar de
 
 If you maintain your concentration on this spell for the entire possible duration, the creature is turned to stone until the effect is removed.
 
-[Pétrification]: spells_hd.md#petrification
+[Pétrification]: spells_hd.md#pétrification
 
 
 # Fly
@@ -2803,7 +2803,7 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 This spell immediately ends if you cast it again before its duration ends.
 
-[Prémonition]: spells_hd.md#premonition
+[Prémonition]: spells_hd.md#prémonition
 
 
 # Freedom of Movement
@@ -2822,7 +2822,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target's movement or attacks.
 
-[Liberté de mouvement]: spells_hd.md#liberte-de-mouvement
+[Liberté de mouvement]: spells_hd.md#liberté-de-mouvement
 
 
 # Gaseous Form
@@ -2931,7 +2931,7 @@ A creature remains in its giant size for the duration, until it drops to 0 hit p
 
 The DM might allow you to choose different targets. For example, if you transform a bee, its giant version might have the same statistics as a giant wasp.
 
-[Insecte géant]: spells_hd.md#insecte-geant
+[Insecte géant]: spells_hd.md#insecte-géant
 
 
 # Glibness
@@ -2969,7 +2969,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
 
-[Globe d'invulnérabilité]: spells_hd.md#globe-d'invulnerabilite
+[Globe d'invulnérabilité]: spells_hd.md#globe-dinvulnérabilité
 
 
 # Glyph of Warding
@@ -3019,7 +3019,7 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 
 The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-[Baies nourricières]: spells_hd.md#baies-nourricieres
+[Baies nourricières]: spells_hd.md#baies-nourricières
 
 
 # Grease
@@ -3055,7 +3055,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
 
-[Invisibilité supérieure]: spells_hd.md#invisibilite-superieure
+[Invisibilité supérieure]: spells_hd.md#invisibilité-supérieure
 
 
 # Greater Restoration
@@ -3080,7 +3080,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 • One effect reducing the target's hit point maximum
 
-[Restauration supérieure]: spells_hd.md#restauration-superieure
+[Restauration supérieure]: spells_hd.md#restauration-supérieure
 
 
 # Guardian of Faith
@@ -3316,7 +3316,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
-[Guérison]: spells_hd.md#guerison
+[Guérison]: spells_hd.md#guérison
 
 
 # Healing Word
@@ -3335,7 +3335,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
-[Mot de guérison]: spells_hd.md#mot-de-guerison
+[Mot de guérison]: spells_hd.md#mot-de-guérison
 
 
 # Heat Metal
@@ -3375,7 +3375,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
-[Représailles infernales]: spells_hd.md#represailles-infernales
+[Représailles infernales]: spells_hd.md#représailles-infernales
 
 
 # Heroes' Feast
@@ -3394,7 +3394,7 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
 
-[Festin des héros]: spells_hd.md#festin-des-heros
+[Festin des héros]: spells_hd.md#festin-des-héros
 
 
 # Heroism
@@ -3413,7 +3413,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-[Héroïsme]: spells_hd.md#heroisme
+[Héroïsme]: spells_hd.md#héroïsme
 
 
 # Hold Monster
@@ -3525,7 +3525,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
-[Tempête de grêle]: spells_hd.md#tempete-de-grele
+[Tempête de grêle]: spells_hd.md#tempête-de-grêle
 
 
 # Identify
@@ -3673,7 +3673,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
-[Fléau d'insectes]: spells_hd.md#fleau-d'insectes
+[Fléau d'insectes]: spells_hd.md#fléau-dinsectes
 
 
 # Invisibility
@@ -3692,7 +3692,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-[Invisibilité]: spells_hd.md#invisibilite
+[Invisibilité]: spells_hd.md#invisibilité
 
 
 # Jump
@@ -3732,7 +3732,7 @@ If you choose a target that is held shut with _[arcane lock]_, that spell is sup
 
 When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
 
-[Déblocage]: spells_hd.md#deblocage
+[Déblocage]: spells_hd.md#déblocage
 
 
 # Legend Lore
@@ -3772,7 +3772,7 @@ While the chest remains on the Ethereal Plane, you can use an action and touch t
 
 After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
-[Coffre secret de Léomund]: spells_hd.md#coffre-secret-de-leomund
+[Coffre secret de Léomund]: spells_hd.md#coffre-secret-de-léomund
 
 
 # Leomund's Tiny Hut
@@ -3793,7 +3793,7 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-[Petite hutte de Léomund]: spells_hd.md#petite-hutte-de-leomund
+[Petite hutte de Léomund]: spells_hd.md#petite-hutte-de-léomund
 
 
 # Lesser Restoration
@@ -3831,7 +3831,7 @@ The target can move only by pushing or pulling against a fixed object or surface
 
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
-[Lévitation]: spells_hd.md#levitation
+[Lévitation]: spells_hd.md#lévitation
 
 
 # Light
@@ -3850,7 +3850,7 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
-[Lumière]: spells_hd.md#lumiere
+[Lumière]: spells_hd.md#lumière
 
 
 # Lightning Bolt
@@ -3871,7 +3871,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-[Éclair]: spells_hd.md#eclair
+[Éclair]: spells_hd.md#éclair
 
 
 # Locate Animals or Plants
@@ -4163,7 +4163,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs.
 
-[Guérison de groupe]: spells_hd.md#guerison-de-groupe
+[Guérison de groupe]: spells_hd.md#guérison-de-groupe
 
 
 # Mass Healing Word
@@ -4182,7 +4182,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
-[Mot de guérison de groupe]: spells_hd.md#mot-de-guerison-de-groupe
+[Mot de guérison de groupe]: spells_hd.md#mot-de-guérison-de-groupe
 
 
 # Mass Suggestion
@@ -4268,7 +4268,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-[Flèche acide de Melf]: spells_hd.md#fleche-acide-de-melf
+[Flèche acide de Melf]: spells_hd.md#flèche-acide-de-melf
 
 
 # Mending
@@ -4285,7 +4285,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.
 
-[Réparation]: spells_hd.md#reparation
+[Réparation]: spells_hd.md#réparation
 
 
 # Message
@@ -4323,7 +4323,7 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-[Nuée de météores]: spells_hd.md#nuee-de-meteores
+[Nuée de météores]: spells_hd.md#nuée-de-météores
 
 
 # Mind Blank
@@ -4340,7 +4340,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils _[wish]_ spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
 
-[Esprit impénétrable]: spells_hd.md#esprit-impenetrable
+[Esprit impénétrable]: spells_hd.md#esprit-impénétrable
 
 
 # Minor Illusion
@@ -4476,7 +4476,7 @@ A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores 
 
 **_At Higher Levels_**. If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
-[Modification de mémoire]: spells_hd.md#modification-de-memoire
+[Modification de mémoire]: spells_hd.md#modification-de-mémoire
 
 
 # Moonbeam
@@ -4578,7 +4578,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
-[Sanctuaire privé de Mordenkainen]: spells_hd.md#sanctuaire-prive-de-mordenkainen
+[Sanctuaire privé de Mordenkainen]: spells_hd.md#sanctuaire-privé-de-mordenkainen
 
 
 # Mordenkainen's Sword
@@ -4597,7 +4597,7 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
-[Épée de Mordenkainen]: spells_hd.md#epee-de-mordenkainen
+[Épée de Mordenkainen]: spells_hd.md#épée-de-mordenkainen
 
 
 # Move Earth
@@ -4639,7 +4639,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-[Non-détection]: spells_hd.md#non-detection
+[Non-détection]: spells_hd.md#non-détection
 
 
 # Nystul's Magic Aura
@@ -4708,7 +4708,7 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A _[disintegrate]_ spell targeting the globe destroys it without harming anything inside it.
 
-[Sphère résiliente d'Otiluke]: spells_hd.md#sphere-resiliente-d'otiluke
+[Sphère résiliente d'Otiluke]: spells_hd.md#sphère-résiliente-dotiluke
 
 
 # Otto's Irresistible Dance
@@ -4727,7 +4727,7 @@ Choose one creature that you can see within range. The target begins a comic dan
 
 A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
 
-[Danse irrésistible d'Otto]: spells_hd.md#danse-irresistible-d'otto
+[Danse irrésistible d'Otto]: spells_hd.md#danse-irrésistible-dotto
 
 
 # Pass without Trace
@@ -4830,7 +4830,7 @@ If you are unable to agree on a price for the creature's service, the creature i
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
-[Allié planaire]: spells_hd.md#allie-planaire
+[Allié planaire]: spells_hd.md#allié-planaire
 
 
 # Planar Binding
@@ -4895,7 +4895,7 @@ You can exclude one or more areas of any size within the spell's area from being
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
-[Croissance végétale]: spells_hd.md#croissance-vegetale
+[Croissance végétale]: spells_hd.md#croissance-végétale
 
 
 # Poison Spray
@@ -4939,7 +4939,7 @@ The creature is limited in the actions it can perform by he nature of its new fo
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-[Métamorphose]: spells_hd.md#metamorphose
+[Métamorphose]: spells_hd.md#métamorphose
 
 
 # Power Word Kill
@@ -4975,7 +4975,7 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
 
-[Mot de pouvoir étourdissant]: spells_hd.md#mot-de-pouvoir-etourdissant
+[Mot de pouvoir étourdissant]: spells_hd.md#mot-de-pouvoir-étourdissant
 
 
 # Prayer of Healing
@@ -5141,7 +5141,7 @@ The triggering condition can be as general or as detailed as you like, though it
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
-[Illusion programmée]: spells_hd.md#illusion-programmee
+[Illusion programmée]: spells_hd.md#illusion-programmée
 
 
 # Project Image
@@ -5278,7 +5278,7 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-[Lien télépathique de Rary]: spells_hd.md#lien-telepathique-de-rary
+[Lien télépathique de Rary]: spells_hd.md#lien-télépathique-de-rary
 
 
 # Ray of Enfeeblement
@@ -5335,7 +5335,7 @@ You touch a creature and stimulate its natural healing ability. The target regai
 
 The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 
-[Régénération]: spells_hd.md#regeneration
+[Régénération]: spells_hd.md#régénération
 
 
 # Reincarnate
@@ -5375,7 +5375,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
-[Réincarnation]: spells_hd.md#reincarnation
+[Réincarnation]: spells_hd.md#réincarnation
 
 
 # Remove Curse
@@ -5409,7 +5409,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
 
-[Résistance]: spells_hd.md#resistance
+[Résistance]: spells_hd.md#résistance
 
 
 # Resurrection
@@ -5434,7 +5434,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 
-[Résurrection]: spells_hd.md#resurrection
+[Résurrection]: spells_hd.md#résurrection
 
 
 # Reverse Gravity
@@ -5455,7 +5455,7 @@ If some solid object (such as a ceiling is encountered in this fall, falling obj
 
 At the end of the duration, affected objects and creatures fall back down.
 
-[Inversion de la gravité]: spells_hd.md#inversion-de-la-gravite
+[Inversion de la gravité]: spells_hd.md#inversion-de-la-gravité
 
 
 # Revivify
@@ -5495,7 +5495,7 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 
 Anything inside the extradimensional space drops out when the spell ends.
 
-[Corde enchantée]: spells_hd.md#corde-enchantee
+[Corde enchantée]: spells_hd.md#corde-enchantée
 
 
 # Sacred Flame
@@ -5514,7 +5514,7 @@ Flame like radiance descends on a creature that you can see within range. The ta
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-[Flamme sacrée]: spells_hd.md#flamme-sacree
+[Flamme sacrée]: spells_hd.md#flamme-sacrée
 
 
 # Sanctuary
@@ -5602,7 +5602,7 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-[Voir l'invisible]: spells_hd.md#voir-l'invisible
+[Voir l'invisible]: spells_hd.md#voir-linvisible
 
 
 # Seeming
@@ -5783,7 +5783,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-[Poigne électrique]: spells_hd.md#poigne-electrique
+[Poigne électrique]: spells_hd.md#poigne-électrique
 
 
 # Silence
@@ -5890,7 +5890,7 @@ The ground in the area is covered with slick ice, making it difficult terrain. W
 
 If a creature is concentrating in the spell's area, the creature must make a successful Constitution saving throw against your spell save DC or lose concentration.
 
-[Tempête de neige]: spells_hd.md#tempete-de-neige
+[Tempête de neige]: spells_hd.md#tempête-de-neige
 
 
 # Slow
@@ -6008,7 +6008,7 @@ This spell can cause the plants created by the _[entangle]_ spell to release a r
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-[Pattes d'araignée]: spells_hd.md#pattes-d'araignee
+[Pattes d'araignée]: spells_hd.md#pattes-daraignée
 
 
 # Spike Growth
@@ -6027,7 +6027,7 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-[Croissance d'épines]: spells_hd.md#croissance-d'epines
+[Croissance d'épines]: spells_hd.md#croissance-dépines
 
 
 # Spirit Guardians
@@ -6109,7 +6109,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
 
-[Façonnage de la pierre]: spells_hd.md#faconnage-de-la-pierre
+[Façonnage de la pierre]: spells_hd.md#façonnage-de-la-pierre
 
 
 # Stoneskin
@@ -6153,7 +6153,7 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 **Round 5-10**. Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes 1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
 
-[Tempête vengeresse]: spells_hd.md#tempete-vengeresse
+[Tempête vengeresse]: spells_hd.md#tempête-vengeresse
 
 
 # Suggestion
@@ -6218,7 +6218,7 @@ A creature blinded by this spell makes another Constitution saving throw at the 
 
 This spell dispels any darkness in its area that was created by a spell.
 
-[Éclat du soleil]: spells_hd.md#eclat-du-soleil
+[Éclat du soleil]: spells_hd.md#éclat-du-soleil
 
 
 # Symbol
@@ -6301,7 +6301,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 
-[Télékinésie]: spells_hd.md#telekinesie
+[Télékinésie]: spells_hd.md#télékinésie
 
 
 # Teleport
@@ -6352,7 +6352,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 **_Mishap_**. The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the DM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
-[Téléportation]: spells_hd.md#teleportation
+[Téléportation]: spells_hd.md#téléportation
 
 
 # Teleportation Circle
@@ -6373,7 +6373,7 @@ Many major temples, guilds, and other important places have permanent teleportat
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
-[Cercle de téléportation]: spells_hd.md#cercle-de-teleportation
+[Cercle de téléportation]: spells_hd.md#cercle-de-téléportation
 
 
 # Tenser's Floating Disk
@@ -6465,7 +6465,7 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 
 This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
-[Arrêt du temps]: spells_hd.md#arret-du-temps
+[Arrêt du temps]: spells_hd.md#arrêt-du-temps
 
 
 # Tongues
@@ -6551,7 +6551,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 **Creature into Object**. If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.
 
-[Métamorphose suprême]: spells_hd.md#metamorphose-supreme
+[Métamorphose suprême]: spells_hd.md#métamorphose-suprême
 
 
 # True Resurrection
@@ -6572,7 +6572,7 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-[Résurrection suprême]: spells_hd.md#resurrection-supreme
+[Résurrection suprême]: spells_hd.md#résurrection-suprême
 
 
 # True Seeing
@@ -6589,7 +6589,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
-[Vision suprême]: spells_hd.md#vision-supreme
+[Vision suprême]: spells_hd.md#vision-suprême
 
 
 # True Strike
@@ -6782,7 +6782,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
-[Mur d'épines]: spells_hd.md#mur-d'epines
+[Mur d'épines]: spells_hd.md#mur-dépines
 
 
 # Warding Bond
@@ -6837,7 +6837,7 @@ This spell grants the ability to move across any liquid surface—such as water,
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
-[Marche sur l'eau]: spells_hd.md#marche-sur-l'eau
+[Marche sur l'eau]: spells_hd.md#marche-sur-leau
 
 
 # Web
@@ -6862,7 +6862,7 @@ A creature restrained by the webs can use its action to make a Strength check ag
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-[Toile d'araignée]: spells_hd.md#toile-d'araignee
+[Toile d'araignée]: spells_hd.md#toile-daraignée
 
 
 # Weird
@@ -6992,7 +6992,7 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-[Zone de vérité]: spells_hd.md#zone-de-verite
+[Zone de vérité]: spells_hd.md#zone-de-vérité
 
 
 [antimagic field]: #antimagic-field
