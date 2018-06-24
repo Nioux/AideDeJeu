@@ -63,15 +63,9 @@ namespace AideDeJeuCmd
             }
         }
 
-        static async Task Main(string[] args)
+        static async Task CreateIndexes()
         {
             string dataDir = @"..\..\..\..\..\Data\";
-
-            //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
-            //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
-            //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
-            //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
-            //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
@@ -88,7 +82,7 @@ namespace AideDeJeuCmd
                 "Rôdeur",
                 "Sorcier"
             };
-            var levels = new string[] 
+            var levels = new string[]
             {
                 "0",
                 "1",
@@ -126,6 +120,38 @@ namespace AideDeJeuCmd
                 }
             }
             await SaveStringAsync(dataDir + "spells_hd_by_class_level.md", result);
+        }
+
+        static async Task Main(string[] args)
+        {
+            string dataDir = @"..\..\..\..\..\Data\";
+
+            //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
+            //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
+            //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
+            //var monstersVF = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vf_full.json");
+            //var monstersVO = LoadJSon<IEnumerable<Monster>>(dataDir + "monsters_vo_full.json");
+
+            var result = string.Empty;
+            var md = await LoadStringAsync(dataDir + "spells_hd.md");
+
+            var regex = new Regex("- NameVO: (?<name>.*?)\r\n");
+            var matches = regex.Matches(md);
+            foreach(Match match in matches)
+            {
+                var name = match.Groups["name"].Value;
+                if (!string.IsNullOrWhiteSpace(name))
+                {
+                    Debug.WriteLine(name);
+                    var oldNameVO = string.Format("- NameVO: {0}", name);
+                    var newNameVO = string.Format("- NameVO: [{0}](spells_vo.md#{1})", name, Helpers.IdFromName(name));
+                    md = md.Replace(oldNameVO, newNameVO);
+                }
+            }
+
+            //var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+
+            //await SaveStringAsync(dataDir + "spells_hd.md", result);
             //var regex = new Regex("(\\[[a-z].*?\\])");
             //var matches = regex.Matches(monstersVOmd);
             //var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);
