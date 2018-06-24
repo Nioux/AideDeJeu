@@ -178,7 +178,13 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-<table><tr><th>Size</th><th>HP</th><th>AC</th><th>Attack</th><th>Str</th><th>Dex</th></tr><tr><td>Tiny</td><td>20</td><td>18</td><td>+8 to hit, 1d4 + 4 damage</td><td>4</td><td>18</td></tr><tr><td>Small</td><td>25</td><td>16</td><td>+6 to hit, 1d8 + 2 damage</td><td>6</td><td>14</td></tr><tr><td>Medium</td><td>40</td><td>13</td><td>+5 to hit, 2d6 + 1 damage</td><td>10</td><td>12</td></tr><tr><td>Large</td><td>50</td><td>10</td><td>+6 to hit, 2d10 + 2 damage</td><td>14</td><td>10</td></tr><tr><td>Huge</td><td>80</td><td>10</td><td>+8 to hit, 2d12 + 4 damage</td><td>18</td><td>6</td></tr></table>
+|Size|HP|AC|Attack|Str|Dex|
+|---|----|---|---|---|---|
+|Tiny|20|18|+8 to hit, 1d4 + 4 damage|4|18|
+|Small|25|16|+6 to hit, 1d8 + 2 damage|6|14|
+|Medium|40|13|+5 to hit, 2d6 + 1 damage|10|12|
+|Large|50|10|+6 to hit, 2d10 + 2 damage|14|10|
+|Huge|80|10|+8 to hit, 2d12 + 4 damage|18|6|
 
 An animated object is a construct witd AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
 
@@ -1043,7 +1049,12 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
-<table><tr><th>d10</th><th>Behavior</th></tr><tr><td>1</td><td>The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn.</td></tr><tr><td>2-6</td><td>The creature doesn't move or take actions this turn.</td></tr><tr><td>7-8</td><td>The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.</td></tr><tr><td>9–10</td><td>The creature can act and move normally.</td></tr></table>
+|d10|Behavior|
+|---|---|
+|1|The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn.|
+|2-6|The creature doesn't move or take actions this turn.|
+|7-8|The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.|
+|9–10|The creature can act and move normally.|
 
 At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
 
@@ -1356,15 +1367,34 @@ When you cast the spell, you change the current weather conditions, which are de
 
 Precipitation
 
-<table><tr><th>Stage</th><th>Condition</th></tr><tr><td>1</td><td>Clear</td></tr><tr><td>2</td><td>Light clouds</td></tr><tr><td>3</td><td>Overcast or ground fog</td></tr><tr><td>4</td><td>Rain, hail, or snow</td></tr><tr><td>5</td><td>Torrential rain, driving hail, or blizzard</td></tr></table>
+|Stage|Condition|
+|---|---|
+|1|Clear|
+|2|Light clouds|
+|3|Overcast or ground fog|
+|4|Rain, hail, or snow|
+|5|Torrential rain, driving hail, or blizzard|
 
 Temperature
 
-<table><tr><th>Stage</th><th>Condition</th></tr><tr><td>1</td><td>Unbearable heat</td></tr><tr><td>2</td><td>Hot</td></tr><tr><td>3</td><td>Warm</td></tr><tr><td>4</td><td>Cool</td></tr><tr><td>5</td><td>Cold</td></tr><tr><td>6</td><td>Arctic cold</td></tr></table>
+|Stage|Condition|
+|---|---|
+|1|Unbearable heat|
+|2|Hot|
+|3|Warm|
+|4|Cool|
+|5|Cold|
+|6|Arctic cold|
 
 Wind
 
-<table><tr><th>Stage</th><th>Condition</th></tr><tr><td>1</td><td>Calm</td></tr><tr><td>2</td><td>Moderate wind</td></tr><tr><td>3</td><td>Strong wind</td></tr><tr><td>4</td><td>Gale</td></tr><tr><td>5</td><td>Storm</td></tr></table>
+|Stage|Condition|
+|---|---|
+|1|Calm|
+|2|Moderate wind|
+|3|Strong wind|
+|4|Gale|
+|5|Storm|
 
 [Contrôle du climat]: spells_hd.md#controle-du-climat
 
@@ -1467,7 +1497,13 @@ You pull wisps of shadow material from the Shadowfell to create a nonliving obje
 
 The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
-<table><tr><th>Material</th><th>Duration</th></tr><tr><td>Vegetable matter</td><td>1 day</td></tr><tr><td>Stone or crystal</td><td>12 hours</td></tr><tr><td>Precious metals</td><td>1 hour</td></tr><tr><td>Gems</td><td>10 minutes</td></tr><tr><td>Adamantine or mithral</td><td>1 minute</td></tr></table>
+|Material|Duration|
+|---|---|
+|Vegetable matter|1 day|
+|Stone or crystal|12 hours|
+|Precious metals|1 hour|
+|Gems|10 minutes|
+|Adamantine or mithral|1 minute|
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 
@@ -5320,7 +5356,22 @@ If the target's soul isn't free or willing to do so, the spell fails.
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The DM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.	
 
-<table><tr><th>d100</th><th>Race</th></tr><tr><td>01-04</td><td>Dragonborn</td></tr><tr><td>05-13</td><td>Dwarf, hill</td></tr><tr><td>14-21</td><td>Dwarf, mountain</td></tr><tr><td>22-25</td><td>Elf, dark</td></tr><tr><td>26-34</td><td>Elf, high</td></tr><tr><td>35-42</td><td>Elf, wood</td></tr><tr><td>43-46</td><td>Gnome, forest</td></tr><tr><td>47-52</td><td>Gnome, rock</td></tr><tr><td>53-56</td><td>Half-elf</td></tr><tr><td>57-60</td><td>Half-orc</td></tr><tr><td>61-68</td><td>Halfling, lightfoot</td></tr><tr><td>69-76</td><td>Halfling, stout</td></tr><tr><td>77-96</td><td>Human</td></tr><tr><td>97-00</td><td>Tiefling</td></tr></table>
+|d100|Race|
+|---|---|
+|01-04|Dragonborn|
+|05-13|Dwarf, hill|
+|14-21|Dwarf, mountain|
+|22-25|Elf, dark|
+|26-34|Elf, high|
+|35-42|Elf, wood|
+|43-46|Gnome, forest|
+|47-52|Gnome, rock|
+|53-56|Half-elf|
+|57-60|Half-orc|
+|61-68|Halfling, lightfoot|
+|69-76|Halfling, stout|
+|77-96|Human|
+|97-00|Tiefling|
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
@@ -5520,9 +5571,17 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-<table><tr><th>Knowledge</th><th>Save Modifier</th></tr><tr><td>Secondhand (you have heard of the target)</td><td>+5</td></tr><tr><td>Firsthand (you have met the target)</td><td>+0</td></tr><tr><td>Familiar (you know the target well)</td><td>−5</td></tr></table>
+|Knowledge|Save Modifier|
+|---|---|
+|Secondhand (you have heard of the target)|+5|
+|Firsthand (you have met the target)|+0|
+|Familiar (you know the target well)|−5|
 
-<table><tr><th>Connection</th><th>Save Modifier</th></tr><tr><td>Likeness or picture</td><td>−2</td></tr><tr><td>Possession or garment</td><td>−4</td></tr><tr><td>Body part, lock of hair, bit of nail, or the like</td><td>−10</td></tr></table>
+|Connection|Save Modifier|
+|---|---|
+|Likeness or picture|−2|
+|Possession or garment|−4|
+|Body part, lock of hair, bit of nail, or the like|−10|
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours. On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist. Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
 
@@ -6261,7 +6320,15 @@ This spell instantly transports you and up to eight willing creatures of your ch
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls d100 and consults the table.
 
-<table><tr><th>Familiarity</th><th>Mishap</th><th>Similar Area</th><th>Off Target</th><th>On Target</th></tr><tr><td>Permanent circle</td><td>—</td><td>—</td><td>—</td><td>01-100</td></tr><tr><td>Associated object</td><td>—</td><td>—</td><td>—</td><td>01-100</td></tr><tr><td>Very familiar</td><td>01-05</td><td>06-13</td><td>14-24</td><td>25-100</td></tr><tr><td>Seen casually</td><td>01-33</td><td>34-43</td><td>44-53</td><td>54-100</td></tr><tr><td>Viewed once</td><td>01-43</td><td>44-53</td><td>54-73</td><td>74-100</td></tr><tr><td>Description</td><td>01-43</td><td>44-53</td><td>54-73</td><td>74-100</td></tr><tr><td>False destination</td><td>01-50</td><td>51-100</td><td>—</td><td>—</td></tr></table>
+|Familiarity|Mishap|Similar Area|Off Target|On Target|
+|---|---|---|---|---|
+|Permanent circle|—|—|—|01-100|
+|Associated object|—|—|—|01-100|
+|Very familiar|01-05|06-13|14-24|25-100|
+|Seen casually|01-33|34-43|44-53|54-100|
+|Viewed once|01-43|44-53|54-73|74-100|
+|Description|01-43|44-53|54-73|74-100|
+|False destination|01-50|51-100|—|—|
 
 **_Familiarity_**. "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.
 

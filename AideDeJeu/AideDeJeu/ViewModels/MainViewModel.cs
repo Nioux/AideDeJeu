@@ -160,7 +160,7 @@ namespace AideDeJeu.ViewModels
         public async Task NavigateToLink(string s)
         {
             if (s != null)
-            {
+            { 
                 var regex = new Regex("/(?<file>.*)\\.md#(?<anchor>.*)");
                 var match = regex.Match(s);
                 var file = match.Groups["file"].Value;
