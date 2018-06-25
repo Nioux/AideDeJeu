@@ -2,10 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown;assembly=Xam.Forms.MarkdownView"
              x:Class="AideDeJeu.Views.SpellDetailPage"
              Title="{Binding Title}">
     <ContentPage.Resources>
         <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
             <tools:HtmlNodeToFormattedStringConverter x:Key="HtmlNodeToFormattedStringConverter" />
             <tools:HtmlNodesToFormattedStringConverter x:Key="HtmlNodesToFormattedStringConverter" />
@@ -14,8 +16,9 @@
     <ScrollView>
         <StackLayout Orientation="Vertical" Padding="15">
             <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
-            <Label Text="{Binding Item.NameVO}" Style="{StaticResource Key=content}" />
-            <Label Text="{Binding Item.Name}" Style="{StaticResource Key=content}" />
+            <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.NameVO}" />
+            <!--<Label Text="{Binding Item.NameVO}" Style="{StaticResource Key=content}" />-->
+            <!--<Label Text="{Binding Item.Name}" Style="{StaticResource Key=content}" />-->
 
             <Label Text=" " />
 
@@ -64,7 +67,8 @@
                 </ListView.ItemTemplate>
             </ListView>-->
             <!--<Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />-->
-            <Label FormattedText="{Binding Item.DescriptionHtml, Converter={StaticResource HtmlNodeToFormattedStringConverter}}" IsVisible="{Binding Item.DescriptionHtml, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
+            <!--<Label FormattedText="{Binding Item.DescriptionHtml, Converter={StaticResource HtmlNodeToFormattedStringConverter}}" IsVisible="{Binding Item.DescriptionHtml, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />-->
+            <mdview:MarkdownView x:Name="mdDescription" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.DescriptionHtml}" IsVisible="{Binding Item.DescriptionHtml, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
         </StackLayout>

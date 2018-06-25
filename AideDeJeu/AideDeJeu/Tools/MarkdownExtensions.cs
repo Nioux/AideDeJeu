@@ -30,8 +30,9 @@ namespace AideDeJeu.Tools
 
         public static string MarkdownToHtml(string md)
         {
-            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
-            return Markdown.ToHtml(md, pipeline);
+            //var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            //return Markdown.ToHtml(md, pipeline);
+            return md;
         }
 
         public static IEnumerable<Spell> ToSpells(this Markdig.Syntax.MarkdownDocument document)

@@ -129,7 +129,18 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
-            await CreateIndexes();
+            var md = await LoadStringAsync(dataDir + "spells_vo.md");
+            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+
+            var mdOut = string.Empty;
+            foreach (var item in items)
+            {
+                mdOut += item.ToMarkdownString();
+            }
+
+            Console.WriteLine(mdOut);
+
+            //await CreateIndexes();
             //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
             //var spellsVO = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vo_full.json");
             //var spellsHD = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_hd_full.json");
