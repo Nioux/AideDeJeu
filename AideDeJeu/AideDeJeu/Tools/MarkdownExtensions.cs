@@ -53,7 +53,7 @@ namespace AideDeJeu.Tools
                             //yield return spell;
                         }
                         spell = new Spell();
-                        spell.Name = spell.NamePHB = headingBlock.Inline.ToContainerString();
+                        spell.Name = spell.NamePHB = headingBlock.Inline.ToMarkdownString();
                         spell.Id = spell.IdVF = spell.IdVO = Tools.Helpers.IdFromName(spell.Name);
                         //Console.WriteLine(spell.Name);
                     }
@@ -61,7 +61,7 @@ namespace AideDeJeu.Tools
                 if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    spell.DescriptionHtml += MarkdownToHtml(paragraphBlock.ToParagraphString());
+                    spell.DescriptionHtml += MarkdownToHtml(paragraphBlock.ToMarkdownString());
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -91,7 +91,7 @@ namespace AideDeJeu.Tools
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                         //DumpParagraphBlock(paragraphBlock);
-                                        var str = paragraphBlock.Inline.ToContainerString();
+                                        var str = paragraphBlock.Inline.ToMarkdownString();
 
                                         var properties = new List<Tuple<string, Action<Spell, string>>>()
                                         {
@@ -177,7 +177,7 @@ namespace AideDeJeu.Tools
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        spell.DescriptionHtml += listBlock.BulletType + " " + MarkdownToHtml(paragraphBlock.ToParagraphString());
+                                        spell.DescriptionHtml += listBlock.BulletType + " " + MarkdownToHtml(paragraphBlock.ToMarkdownString());
                                     }
                                 }
                             }
@@ -228,13 +228,13 @@ namespace AideDeJeu.Tools
                             //yield return monster;
                         }
                         monster = new Monster();
-                        monster.Name = monster.NamePHB = headingBlock.Inline.ToContainerString();
+                        monster.Name = monster.NamePHB = headingBlock.Inline.ToMarkdownString();
                         monster.Id = monster.IdVF = monster.IdVO = Tools.Helpers.IdFromName(monster.Name);
                         //Console.WriteLine(spell.Name);
                     }
                     if (headingBlock.HeaderChar == '#' && headingBlock.Level == 2)
                     {
-                        switch (headingBlock.Inline.ToContainerString())
+                        switch (headingBlock.Inline.ToMarkdownString())
                         {
                             case "Capacités":
                             case "Special Features":
@@ -256,7 +256,7 @@ namespace AideDeJeu.Tools
                 else if (block is Markdig.Syntax.ParagraphBlock)
                 {
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    features?.Add(paragraphBlock.ToParagraphString());
+                    features?.Add(paragraphBlock.ToMarkdownString());
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -286,7 +286,7 @@ namespace AideDeJeu.Tools
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                         //DumpParagraphBlock(paragraphBlock);
-                                        var str = paragraphBlock.Inline.ToContainerString();
+                                        var str = paragraphBlock.Inline.ToMarkdownString();
 
                                         var properties = new List<Tuple<string, Action<Monster, string>>>()
                                         {
@@ -400,7 +400,7 @@ namespace AideDeJeu.Tools
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        features?.Add(listBlock.BulletType + " " + paragraphBlock.ToParagraphString());
+                                        features?.Add(listBlock.BulletType + " " + paragraphBlock.ToMarkdownString());
                                     }
                                 }
                             }
@@ -462,11 +462,7 @@ namespace AideDeJeu.Tools
             return monsters;
         }
 
-        public static string ToString(this Markdig.Syntax.SourceSpan span, string md)
-        {
-            return md.Substring(span.Start, span.Length);
-        }
-        public static string ToContainerString(this Markdig.Syntax.Inlines.ContainerInline inlines)
+        public static string ToMarkdownString(this Markdig.Syntax.Inlines.ContainerInline inlines)
         {
             var str = string.Empty;
             foreach (var inline in inlines)
@@ -490,7 +486,7 @@ namespace AideDeJeu.Tools
                     {
                         delimiterChar += delimiterChar;
                     }
-                    add = delimiterChar + emphasisInline.ToContainerString() + delimiterChar;
+                    add = delimiterChar + emphasisInline.ToMarkdownString() + delimiterChar;
                 }
                 else if (inline is Markdig.Syntax.Inlines.LinkInline)
                 {
@@ -500,12 +496,22 @@ namespace AideDeJeu.Tools
                     {
                         add = "!";
                     }
-                    add += string.Format($"[{linkInline.Label}]({linkInline.Url} \"{linkInline.Title}\")", linkInline.Label); //containerInline.ToContainerString();
+                    var label = linkInline.ToMarkdownString();
+                    var url = linkInline.Url;
+                    var title = linkInline.Title;
+                    if (!string.IsNullOrEmpty(title))
+                    {
+                        add += string.Format($"[{label}]({url} \"{title}\")");
+                    }
+                    else
+                    {
+                        add += string.Format($"[{label}]({url})");
+                    }
                 }
                 else if (inline is Markdig.Syntax.Inlines.ContainerInline)
                 {
                     var containerInline = inline as Markdig.Syntax.Inlines.ContainerInline;
-                    add = containerInline.ToContainerString();
+                    add = containerInline.ToMarkdownString();
                 }
                 else
                 {
@@ -516,10 +522,10 @@ namespace AideDeJeu.Tools
             }
             return str;
         }
-        public static string ToParagraphString(this Markdig.Syntax.ParagraphBlock paragraphBlock)
+        public static string ToMarkdownString(this Markdig.Syntax.ParagraphBlock paragraphBlock)
         {
             var str = string.Empty;
-            str += paragraphBlock.Inline.ToContainerString();
+            str += paragraphBlock.Inline.ToMarkdownString();
             if (paragraphBlock.IsBreakable)
             {
                 str += "\n";
@@ -541,7 +547,7 @@ namespace AideDeJeu.Tools
                     foreach (var blockpar in cell)
                     {
                         var par = blockpar as Markdig.Syntax.ParagraphBlock;
-                        var name = par.ToParagraphString().Trim();
+                        var name = par.ToMarkdownString().Trim();
                         if (row.IsHeader)
                         {
                             indexes[indexCol] = name;
