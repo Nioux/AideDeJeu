@@ -36,7 +36,7 @@ namespace AideDeJeuLib.Spells
                     {
                         System.Diagnostics.Debug.WriteLine(value);
                         //re = new Regex("level (?<level>\\d) - (?<type>.*?)\\w?(?<rituel>\\(ritual\\))?");
-                        re = new Regex("(?<level>\\d) - (?<type>.*)\\w?(?<rituel>\\(ritual\\))?");
+                        re = new Regex("^(?<level>\\d) - (?<type>.*?)\\s?(?<rituel>\\(ritual\\))?$");
                         match = re.Match(value);
                         this.Type = match.Groups["type"].Value;
                         this.Level = match.Groups["level"].Value;

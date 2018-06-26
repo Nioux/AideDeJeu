@@ -1499,7 +1499,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 
 # Communion avec la nature
-- NameVO: [Commune](spells_vo.md#commune) with Nature
+- NameVO: [Commune with Nature](spells_vo.md#commune-with-nature)
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: instantanée

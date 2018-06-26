@@ -132,7 +132,7 @@ namespace AideDeJeu.ViewModels
                         spell.Type.ToLower().Contains(ecole.ToLower()) &&
                         spell.Source.Contains(source) &&
                         spell.Source.Contains(classe) &&
-                        spell.Type.Contains(rituel) &&
+                        spell.Rituel.Contains(rituel) &&
                         Helpers.RemoveDiacritics(spell.NamePHB).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower());
                 }).OrderBy(spell => spell.NamePHB)
                             .AsEnumerable();
