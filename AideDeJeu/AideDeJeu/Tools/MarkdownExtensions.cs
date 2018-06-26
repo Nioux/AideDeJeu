@@ -185,6 +185,12 @@ namespace AideDeJeu.Tools
                         }
                     }
                 }
+                else if (block is Markdig.Extensions.Tables.Table)
+                {
+                    var tableBlock = block as Markdig.Extensions.Tables.Table;
+                    spell.DescriptionHtml += tableBlock.ToMarkdownString();
+                }
+
 
             }
             if (spell != null)
@@ -430,6 +436,10 @@ namespace AideDeJeu.Tools
                         monster.Wisdom = table["WIS"].FirstOrDefault();
                         monster.Charisma = table["CHA"].FirstOrDefault();
                     }
+                    //else
+                    //{
+                        features?.Add(tableBlock.ToMarkdownString());
+                    //}
                 }
                 else if (block is Markdig.Syntax.LinkReferenceDefinitionGroup)
                 {
@@ -532,6 +542,24 @@ namespace AideDeJeu.Tools
                 str += "\n";
             }
             return str;
+        }
+        public static string ToMarkdownString(this Markdig.Extensions.Tables.Table tableBlock)
+        {
+            var ret = string.Empty;
+            foreach(Markdig.Extensions.Tables.TableRow row in tableBlock)
+            {
+                var line = "|";
+                foreach(Markdig.Extensions.Tables.TableCell cell in row)
+                {
+                    foreach(Markdig.Syntax.ParagraphBlock block in cell)
+                    {
+                        line += block.ToMarkdownString();
+                    }
+                    line += "|";
+                }
+                ret += line + "\r\n";
+            }
+            return ret;
         }
 
         public static Dictionary<string, List<string>> ToTable(this Markdig.Extensions.Tables.Table tableBlock)
