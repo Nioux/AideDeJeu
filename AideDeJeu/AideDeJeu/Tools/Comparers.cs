@@ -22,11 +22,11 @@ namespace AideDeJeu.Tools
             if (string.IsNullOrEmpty(x) && string.IsNullOrEmpty(y)) return 0;
             if (string.IsNullOrEmpty(x)) return 1;
             if (string.IsNullOrEmpty(y)) return -1;
-            var regex = new Regex(@"\((?<xp>\d*?) (PX|XP)\)");
+            var regex = new Regex(@"\((?<xp>\d?\d?\d?\s?\d?\d?\d??) (PX|XP)\)");
             int xpx;
-            int.TryParse(regex.Match(x).Groups["xp"].Value, out xpx);
+            int.TryParse(regex.Match(x).Groups["xp"].Value.Replace(" ",""), out xpx);
             int xpy;
-            int.TryParse(regex.Match(y).Groups["xp"].Value, out xpy);
+            int.TryParse(regex.Match(y).Groups["xp"].Value.Replace(" ",""), out xpy);
             return xpx - xpy;
         }
     }
