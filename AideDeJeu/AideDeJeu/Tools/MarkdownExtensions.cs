@@ -188,7 +188,7 @@ namespace AideDeJeu.Tools
                 else if (block is Markdig.Extensions.Tables.Table)
                 {
                     var tableBlock = block as Markdig.Extensions.Tables.Table;
-                    spell.DescriptionHtml += tableBlock.ToMarkdownString();
+                    spell.DescriptionHtml += "\r\n\r\n" + tableBlock.ToMarkdownString().Replace("\n","") + "\r\n\r\n";
                 }
 
 
@@ -562,6 +562,14 @@ namespace AideDeJeu.Tools
                         line += block.ToMarkdownString();
                     }
                     line += "|";
+                }
+                if(row.IsHeader)
+                {
+                    line += "\r\n|";
+                    for(int i = 0; i < row.Count; i++)
+                    {
+                        line += "---|";
+                    }
                 }
                 ret += line + "\r\n";
             }

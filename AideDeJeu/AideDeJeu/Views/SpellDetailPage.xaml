@@ -13,7 +13,7 @@
             <tools:HtmlNodesToFormattedStringConverter x:Key="HtmlNodesToFormattedStringConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
-    <ScrollView>
+    <ScrollView VerticalScrollBarVisibility="Default" HorizontalScrollBarVisibility="Default">
         <StackLayout Orientation="Vertical" Padding="15">
             <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
             <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.NameVO}" />
