@@ -9,7 +9,7 @@
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <ListView ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False">
+            <ListView SelectionMode="None" ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -42,7 +42,7 @@
                                 <tools:TextChangedBehavior />
                             </SearchBar.Behaviors>
                         </SearchBar>
-                            <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" IsRefreshing="{x:Binding IsLoading}" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                        <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" IsRefreshing="{x:Binding IsLoading}" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                             <ListView.ItemTemplate>
                                 <DataTemplate>
                                     <ViewCell>
