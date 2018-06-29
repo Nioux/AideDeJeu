@@ -42,7 +42,7 @@
                                 <tools:TextChangedBehavior />
                             </SearchBar.Behaviors>
                         </SearchBar>
-                        <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" IsRefreshing="{x:Binding IsLoading}" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                        <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                             <ListView.ItemTemplate>
                                 <DataTemplate>
                                     <ViewCell>
