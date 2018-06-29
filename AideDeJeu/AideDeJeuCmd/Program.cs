@@ -139,7 +139,7 @@ namespace AideDeJeuCmd
                 var nameVF = match.Groups["namevf"].Value;
                 var nameVO = match.Groups["namevo"].Value;
                 var replaceOld = string.Format("# {0}\n", nameVF);
-                var replaceNew = string.Format("# {0}\n- NameVO: [{1}](monsters_vo.hd#{2})\n", nameVF, nameVO, Helpers.IdFromName(nameVO));
+                var replaceNew = string.Format("# {0}\n- NameVO: [{1}](monsters_vo.md#{2})\n", nameVF, nameVO, Helpers.IdFromName(nameVO));
                 mdVF = mdVF.Replace(replaceOld, replaceNew);
             }
             Console.WriteLine(mdVF);
