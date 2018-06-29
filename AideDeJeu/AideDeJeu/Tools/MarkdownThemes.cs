@@ -12,10 +12,13 @@ namespace AideDeJeu.Tools
             this.Margin = 0;
             var fd = FormatedTextHelpers.FontData.FromResource("content");
             //this.Paragraph.FontFamily = fd.FontFamily;
+            //this.Paragraph.FontFamily = "Droid Serif";
+            this.Paragraph.FontFamily = "serif";
             this.Paragraph.FontSize = (float)fd.FontSize;
             this.Paragraph.Attributes = fd.FontAttributes;
             this.Paragraph.ForegroundColor = fd.TextColor;
 
+            this.Paragraph.BackgroundColor = DefaultBackgroundColor;
             this.BackgroundColor = DefaultBackgroundColor;
             //this.Paragraph.ForegroundColor = DefaultTextColor;
             this.Heading1.ForegroundColor = DefaultTextColor;

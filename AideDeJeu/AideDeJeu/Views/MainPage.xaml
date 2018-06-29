@@ -37,7 +37,7 @@
                         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
                     </ContentPage.ToolbarItems>
                     <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
-                        <SearchBar x:Name="SearchBar" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                        <SearchBar x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
                             <SearchBar.Behaviors>
                                 <tools:TextChangedBehavior />
                             </SearchBar.Behaviors>

@@ -70,7 +70,7 @@ namespace AideDeJeu.Tools
                 var cstring = string.Empty;
                 foreach (var str in strings)
                 {
-                    cstring += str + "\n";
+                    cstring += str + "\n\n";
                 }
                 return cstring;
                 //    var fs = new FormattedString();
