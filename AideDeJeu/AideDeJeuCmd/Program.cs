@@ -129,16 +129,32 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
-            var md = await LoadStringAsync(dataDir + "spells_vo.md");
-            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+            var mdVO = await LoadStringAsync(dataDir + "monsters_vo.md");
+            var mdVF = await LoadStringAsync(dataDir + "monsters_hd.md");
 
-            var mdOut = string.Empty;
-            foreach (var item in items)
+            var regex = new Regex("# (?<namevo>.*?)\n- NameVO: \\[(?<namevf>.*?)\\]\n");
+            var matches = regex.Matches(mdVO);
+            foreach(Match match in matches)
             {
-                mdOut += item.ToMarkdownString();
+                var nameVF = match.Groups["namevf"].Value;
+                var nameVO = match.Groups["namevo"].Value;
+                var replaceOld = string.Format("# {0}\n", nameVF);
+                var replaceNew = string.Format("# {0}\n- NameVO: [{1}](monsters_vo.hd#{2})\n", nameVF, nameVO, Helpers.IdFromName(nameVO));
+                mdVF = mdVF.Replace(replaceOld, replaceNew);
             }
+            Console.WriteLine(mdVF);
+            await SaveStringAsync(dataDir + "monsters_hd_tmp.md", mdVF);
 
-            Console.WriteLine(mdOut);
+            //var md = await LoadStringAsync(dataDir + "spells_vo.md");
+            //var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+
+            //var mdOut = string.Empty;
+            //foreach (var item in items)
+            //{
+            //    mdOut += item.ToMarkdownString();
+            //}
+
+            //Console.WriteLine(mdOut);
 
             //await CreateIndexes();
             //var spellsVF = LoadJSon<IEnumerable<Spell>>(dataDir + "spells_vf_full.json");
