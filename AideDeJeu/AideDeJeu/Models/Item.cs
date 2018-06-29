@@ -3,6 +3,16 @@ using System.Xml;
 
 namespace AideDeJeuLib
 {
+    public class Property : Dictionary<string, string>
+    {
+
+    }
+
+    public class Properties : Dictionary<string, Property>
+    {
+
+    }
+
     public class Item
     {
         public string Id { get; set; }
@@ -11,6 +21,9 @@ namespace AideDeJeuLib
         public string Name { get; set; }
         public string NameVO { get; set; }
         public string NamePHB { get; set; }
+
+        public Properties Properties { get; set; }
+
         public string Html { get; set; }
 
         public static IEnumerable<string> NodeListToStringList(IEnumerable<XmlNode> nodes)

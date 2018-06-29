@@ -472,7 +472,17 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 
 ### Description
 
-Vous lancez des bâtonnets ornés de gemmes ou des os de dragon, tirez des lames de tarot ornementées ou utilisez une autre méthode de divination pour recevoir un présage de la part d’une entité d’un autre monde. Ce présage concerne les résultats de la conduite que vous comptez tenir dans les 30 prochaines minutes. C’est au MJ de choisir l’un des présages suivants : * Bonheur pour un résultat positif»» Bonheur pour un résultat positif * Malheur pour un résultat négatif»» Malheur pour un résultat négatif * Bonheur et malheur pour un résultat comportant»» Bonheur et malheur pour un résultat comportant du positif et du négatif * Rien pour un résultat n’étant ni positif ni négatif»» Rien pour un résultat n’étant ni positif ni négatif Le sort ne tient pas compte d’une éventuelle modification des circonstances, comme l’incantation de sorts supplémentaires, ou la perte ou l’arrivée d’un compagnon.
+Vous lancez des bâtonnets ornés de gemmes ou des os de dragon, tirez des lames de tarot ornementées ou utilisez une autre méthode de divination pour recevoir un présage de la part d’une entité d’un autre monde. Ce présage concerne les résultats de la conduite que vous comptez tenir dans les 30 prochaines minutes. C’est au MJ de choisir l’un des présages suivants : 
+
+* Bonheur pour un résultat positif
+
+* Malheur pour un résultat négatif
+
+* Bonheur et malheur pour un résultat comportant du positif et du négatif 
+
+* Rien pour un résultat n’étant ni positif ni négatif
+
+Le sort ne tient pas compte d’une éventuelle modification des circonstances, comme l’incantation de sorts supplémentaires, ou la perte ou l’arrivée d’un compagnon.
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d’une prémonition fiable. C’est au MJ de faire ce jet en secret.
 
@@ -922,9 +932,9 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 
 Une prison immobile et invisible, en forme de cube et faite de force magique, se forme soudain autour d’une zone de votre choix située à portée. Ce peut être une cage ou une boîte hermétique, à votre guise.
 
-* Une prison en forme de cage peut faire un maximum»» Une prison en forme de cage peut faire un maximum de 6 mètres d’arête et dispose de barreaux de 1 centimètre d’épaisseur placés à 1 centimètre d’intervalle.
+* Une prison en forme de cage peut faire un maximum de 6 mètres d’arête et dispose de barreaux de 1 centimètre d’épaisseur placés à 1 centimètre d’intervalle.
 
-* Une prison en forme de boîte peut faire un maximum»» Une prison en forme de boîte peut faire un maximum de 3 mètres d’arête et forme une barrière pleine qui empêche la matière de passer. Elle bloque aussi le passage des sorts lancés vers l’intérieur ou l’extérieur.
+* Une prison en forme de boîte peut faire un maximum de 3 mètres d’arête et forme une barrière pleine qui empêche la matière de passer. Elle bloque aussi le passage des sorts lancés vers l’intérieur ou l’extérieur.
 
 Quand vous lancez ce sort, chaque créature qui se trouve entièrement au sein de la zone affectée se retrouve prise au piège. Une créature qui s’y trouve seulement en partie ou qui s’avère trop grande pour y tenir est expulsée vers l’extérieur de la zone jusqu’à ce qu’elle la quitte complètement.
 
@@ -1052,13 +1062,15 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 
 Vous créez un cylindre d’énergie magique de 3 mètres de rayon pour 6 mètres de haut, centré sur un point au sol situé à portée et dans votre champ de vision. Des runes luisantes apparaissent là où le cylindre touche le sol ou une autre surface.
 
-Choisissez l’un des types de créatures suivants : célestes, élémentaires, fées, fiélons ou morts-vivants. Le cercle affecte une créature du type choisi de la manière suivante : * La créature ne peut pas entrer de son plein gré»» La créature ne peut pas entrer de son plein gré dans le cylindre par des moyens non magiques.
+Choisissez l’un des types de créatures suivants : célestes, élémentaires, fées, fiélons ou morts-vivants. Le cercle affecte une créature du type choisi de la manière suivante : 
+
+* La créature ne peut pas entrer de son plein gré dans le cylindre par des moyens non magiques.
 
 Si elle tente d’utiliser la téléportation ou le voyage extraplanaire pour y pénétrer, elle doit auparavant réussir un jet de sauvegarde de Charisme.
 
-* La créature subit un désavantage lors des jets d’attaque»» La créature subit un désavantage lors des jets d’attaque contre les créatures se trouvant dans le cylindre.
+* La créature subit un désavantage lors des jets d’attaque contre les créatures se trouvant dans le cylindre.
 
-* Les créatures situées dans le cylindre ne peuvent»» Les créatures situées dans le cylindre ne peuvent pas être charmées, terrorisées ou possédées par la créature.
+* Les créatures situées dans le cylindre ne peuvent pas être charmées, terrorisées ou possédées par la créature.
 
 Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l’envers, empêchant les créatures du type choisi de quitter le cercle et protégeant contre elles les individus situés à l’extérieur.
 
@@ -1518,15 +1530,15 @@ Ce sort ne fonctionne pas là où les constructions ont remplacé la nature, com
 
 Vous obtenez instantanément des informations sur un maximum de trois éléments de votre choix portant sur l’un des sujets suivants dans votre zone.
 
-* Le terrain et les étendues d’eau.»» Le terrain et les étendues d’eau.
+* Le terrain et les étendues d’eau.
 
-* Les plantes, les minéraux, les animaux et les»» Les plantes, les minéraux, les animaux et les peuples majoritaires.
+* Les plantes, les minéraux, les animaux et les peuples majoritaires.
 
-* Les célestes, les fées, les fiélons, les élémentaires ou»» Les célestes, les fées, les fiélons, les élémentaires ou les morts-vivants dotés d’une certaine puissance.
+* Les célestes, les fées, les fiélons, les élémentaires ou les morts-vivants dotés d’une certaine puissance.
 
-* L’influence émanant des autres plans d’existence.»» L’influence émanant des autres plans d’existence.
+* L’influence émanant des autres plans d’existence.
 
-* Les constructions.»» Les constructions.
+* Les constructions.
 
 Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résidant dans la zone, savoir où se trouvent les points d’eau potable majeurs et où se trouvent les villages les plus proches.
 
@@ -1558,11 +1570,13 @@ Chaque jour, vous pouvez conserver le même compagnon animal sans devoir à nouv
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez choisir dans la liste ci-dessous un effet supplémentaire par niveau au-delà du niveau 2. Vous ne pouvez pas choisir le même effet plus d’une fois.
 
-* Lancer le sort sur une bête dont l’indice de dangerosité»» Lancer le sort sur une bête dont l’indice de dangerosité est inférieur ou égal à 1.
+* Lancer le sort sur une bête dont l’indice de dangerosité est inférieur ou égal à 1.
 
-* Accorder à votre compagnon dont l’indice de dangerosité»» Accorder à votre compagnon dont l’indice de dangerosité est inférieur ou égal à 1/2 une résistance à tous les types de dégâts et un avantage en attaque et aux jets de sauvegarde * Communiquer par télépathie sans limite de distance»» Communiquer par télépathie sans limite de distance avec votre compagnon et obtenir la capacité de le guérir d’un nombre de points de vie de votre choix en dépensant une action bonus et autant de vos propres points de vie, sans limite de distance.
+* Accorder à votre compagnon dont l’indice de dangerosité est inférieur ou égal à 1/2 une résistance à tous les types de dégâts et un avantage en attaque et aux jets de sauvegarde 
 
-* Affecter une bête identique supplémentaire.»» Affecter une bête identique supplémentaire.
+* Communiquer par télépathie sans limite de distance avec votre compagnon et obtenir la capacité de le guérir d’un nombre de points de vie de votre choix en dépensant une action bonus et autant de vos propres points de vie, sans limite de distance.
+
+* Affecter une bête identique supplémentaire.
 
 Lorsque vous choisissez d’autres effets, ce second compagnon en bénéficie aussi.
 
@@ -2553,13 +2567,13 @@ Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d�
 
 Vous créez l’un des effets suivants à portée après quelques murmures adressés aux esprits de la nature.
 
-* Vous créez un effet sensoriel réduit et inoffensif qui»» Vous créez un effet sensoriel réduit et inoffensif qui annonce le temps qu’il fera là où vous vous trouvez pendant les 24 heures à venir. Cet effet peut prendre la forme d’un orbe doré si le temps va rester dégagé, d’un nuage s’il va pleuvoir, de flocons pour une averse de neige etc. L’effet persiste pendant 1 round.
+* Vous créez un effet sensoriel réduit et inoffensif qui annonce le temps qu’il fera là où vous vous trouvez pendant les 24 heures à venir. Cet effet peut prendre la forme d’un orbe doré si le temps va rester dégagé, d’un nuage s’il va pleuvoir, de flocons pour une averse de neige etc. L’effet persiste pendant 1 round.
 
-* Vous faites éclore une fleur ou un bourgeon ou»» Vous faites éclore une fleur ou un bourgeon ou germer une graine.
+* Vous faites éclore une fleur ou un bourgeon ou germer une graine.
 
-* Vous créez un effet sensoriel instantané, réduit et»» Vous créez un effet sensoriel instantané, réduit et inoffensif, comme des feuilles qui tombent, une bourrasque, le bruit que ferait un petit animal ou une légère odeur de moufette. L’effet doit être contenu dans un cube d’au maximum 1,50 mètre d’arête.
+* Vous créez un effet sensoriel instantané, réduit et inoffensif, comme des feuilles qui tombent, une bourrasque, le bruit que ferait un petit animal ou une légère odeur de moufette. L’effet doit être contenu dans un cube d’au maximum 1,50 mètre d’arête.
 
-* Vous allumez ou éteignez instantanément une»» Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
+* Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
 
 
 
@@ -3291,11 +3305,13 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 
 La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, votre arme frappe votre cible avec l’énergie de la justice sacrée. La cible subit 2d6 dégâts supplémentaires et un effet secondaire.
 
-Le type de dégâts supplémentaires infligés et la nature de l’effet dépendent du type de dégâts infligés par votre arme (par exemple, tranchant pour une épée, contondant pour un marteau) : * Contondant : dégâts de tonnerre et jet de sauvegarde»» Contondant : dégâts de tonnerre et jet de sauvegarde de Force ou assourdi pendant 1 round et à terre.
+Le type de dégâts supplémentaires infligés et la nature de l’effet dépendent du type de dégâts infligés par votre arme (par exemple, tranchant pour une épée, contondant pour un marteau) : 
 
-* Perçant : dégâts psychiques et jet de sauvegarde de»» Perçant : dégâts psychiques et jet de sauvegarde de Sagesse ou effrayé pendant 1 round.
+* Contondant : dégâts de tonnerre et jet de sauvegarde de Force ou assourdi pendant 1 round et à terre.
 
-* Tranchant : dégâts radiants et jet de sauvegarde de»» Tranchant : dégâts radiants et jet de sauvegarde de Charisme ou aveuglé pendant 1 round.
+* Perçant : dégâts psychiques et jet de sauvegarde de Sagesse ou effrayé pendant 1 round.
+
+* Tranchant : dégâts radiants et jet de sauvegarde de Charisme ou aveuglé pendant 1 round.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous infligez 1d6 points de dégât par niveau d’emplacement de sort au-dessus du niveau 1.
 
@@ -3935,13 +3951,13 @@ Vous invoquez des esprits féeriques qui prennent la forme d’animaux et appara
 
 Choisissez l’une des options suivantes pour déterminer quelles créatures apparaissent.
 
-* Une bête dont l’indice de dangerosité est inférieur»» Une bête dont l’indice de dangerosité est inférieur ou égal à 2.
+* Une bête dont l’indice de dangerosité est inférieur ou égal à 2.
 
-* Deux bêtes dont l’indice de dangerosité est inférieur»» Deux bêtes dont l’indice de dangerosité est inférieur ou égal à 1.
+* Deux bêtes dont l’indice de dangerosité est inférieur ou égal à 1.
 
-* Quatre bêtes dont l’indice de dangerosité est inférieur»» Quatre bêtes dont l’indice de dangerosité est inférieur ou égal à ½.
+* Quatre bêtes dont l’indice de dangerosité est inférieur ou égal à 1/2.
 
-* Huit bêtes dont l’indice de dangerosité est inférieur»» Huit bêtes dont l’indice de dangerosité est inférieur ou égal à ¼.
+* Huit bêtes dont l’indice de dangerosité est inférieur ou égal à 1/4.
 
 Chacune de ces bêtes est aussi considérée comme une fée et disparaît dès qu’elle tombe à 0 point de vie ou quand le sort se termine.
 
@@ -3967,13 +3983,13 @@ C’est le MJ qui dispose du profil technique des créatures.
 
 Vous invoquez des élémentaires qui apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l’une des options suivantes pour déterminer quelles créatures apparaissent.
 
-* Un élémentaire dont l’indice de dangerosité est inférieur»» Un élémentaire dont l’indice de dangerosité est inférieur ou égal à 2.
+* Un élémentaire dont l’indice de dangerosité est inférieur ou égal à 2.
 
-* Deux élémentaires dont l’indice de dangerosité est»» Deux élémentaires dont l’indice de dangerosité est inférieur ou égal à 1.
+* Deux élémentaires dont l’indice de dangerosité est inférieur ou égal à 1.
 
-* Quatre élémentaires dont l’indice de dangerosité»» Quatre élémentaires dont l’indice de dangerosité est inférieur ou égal à ½.
+* Quatre élémentaires dont l’indice de dangerosité est inférieur ou égal à 1/2.
 
-* Huit élémentaires dont l’indice de dangerosité est»» Huit élémentaires dont l’indice de dangerosité est inférieur ou égal à ¼.
+* Huit élémentaires dont l’indice de dangerosité est inférieur ou égal à 1/4.
 
 Un élémentaire ainsi invoqué disparaît dès qu’il tombe à 0 point de vie ou quand le sort se termine.
 
@@ -3999,13 +4015,13 @@ C’est le MJ qui dispose du profil technique des créatures.
 
 Vous invoquez des créatures féeriques qui apparaissent dans des cases inoccupées situées à portée et dans votre champ de vision. Choisissez l’une des options suivantes pour déterminer quelles créatures apparaissent.
 
-* Une créature féerique dont l’indice de dangerosité»» Une créature féerique dont l’indice de dangerosité est inférieur ou égal à 2.
+* Une créature féerique dont l’indice de dangerosité est inférieur ou égal à 2.
 
-366 * Deux créatures féeriques dont l’indice de dangerosité»» Deux créatures féeriques dont l’indice de dangerosité est inférieur ou égal à 1.
+* Deux créatures féeriques dont l’indice de dangerosité est inférieur ou égal à 1.
 
-* Quatre créatures féeriques dont l’indice de dangerosité»» Quatre créatures féeriques dont l’indice de dangerosité est inférieur ou égal à ½.
+* Quatre créatures féeriques dont l’indice de dangerosité est inférieur ou égal à 1/2.
 
-* Huit créatures féeriques dont l’indice de dangerosité»» Huit créatures féeriques dont l’indice de dangerosité est inférieur ou égal à ¼.
+* Huit créatures féeriques dont l’indice de dangerosité est inférieur ou égal à 1/4.
 
 Une créature invoquée disparaît dès qu’elle tombe à 0 point de vie ou quand le sort se termine.
 
@@ -4107,13 +4123,13 @@ C’est le MJ qui dispose du profil technique de la créature féerique.
 
 Vous touchez une créature qui doit réussir un jet de sauvegarde de Sagesse, sans quoi elle est maudite pour toute la durée du sort. À vous de choisir la nature de cette malédiction parmi les options suivantes au moment de l’incantation.
 
-* Choisissez une caractéristique. Tant que la cible est»» Choisissez une caractéristique. Tant que la cible est maudite, elle est affectée par un désavantage lors des tests et des jets de sauvegarde basés sur cette caractéristique.
+* Choisissez une caractéristique. Tant que la cible est maudite, elle est affectée par un désavantage lors des tests et des jets de sauvegarde basés sur cette caractéristique.
 
-* Tant que la cible est maudite, elle subit un désavantage»» Tant que la cible est maudite, elle subit un désavantage lors de ses jets d’attaque contre vous.
+* Tant que la cible est maudite, elle subit un désavantage lors de ses jets d’attaque contre vous.
 
-* Tant que la cible est maudite, elle doit faire un jet»» Tant que la cible est maudite, elle doit faire un jet de sauvegarde de Sagesse au début de chacun de ses tours. Si elle le rate, elle gaspille son action du tour et ne fait rien.
+* Tant que la cible est maudite, elle doit faire un jet de sauvegarde de Sagesse au début de chacun de ses tours. Si elle le rate, elle gaspille son action du tour et ne fait rien.
 
-* Tant que la cible est maudite, vos sorts et vos attaques»» Tant que la cible est maudite, vos sorts et vos attaques à son encontre lui infligent 1d8 dégâts nécrotiques supplémentaires.
+* Tant que la cible est maudite, vos sorts et vos attaques à son encontre lui infligent 1d8 dégâts nécrotiques supplémentaires.
 
 Le sort lever une malédiction met un terme à cet effet.
 
@@ -5497,13 +5513,13 @@ Vous prononcez une parole divine, empreinte de la puissance qui a façonné le m
 
 Choisissez autant de créatures situées à portée et dans votre champ de vision que vous le désirez. Chacune de celles qui vous entendent doit réussir un jet de sauvegarde de Charisme, ou souffrir d’un des effets suivants, selon son total actuel de points de vie.
 
-* 50 points de vie ou moins : assourdie pour 1 minute.»» 50 points de vie ou moins : assourdie pour 1 minute.
+* 50 points de vie ou moins : assourdie pour 1 minute.
 
-* 40 points de vie ou moins : aveuglée et assourdie»» 40 points de vie ou moins : aveuglée et assourdie pour 10 minutes.
+* 40 points de vie ou moins : aveuglée et assourdie pour 10 minutes.
 
-* 30 points de vie ou moins : aveuglée, assourdie et»» 30 points de vie ou moins : aveuglée, assourdie et étourdie pour 1 heure.
+* 30 points de vie ou moins : aveuglée, assourdie et étourdie pour 1 heure.
 
-* 20 points de vie ou moins : morte sur-le-champ.»» 20 points de vie ou moins : morte sur-le-champ.
+* 20 points de vie ou moins : morte sur-le-champ.
 
 Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s’il ne s’y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d’user d’un souhait.
 
@@ -5899,17 +5915,19 @@ Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de s
 
 ### Description
 
-Ce sort est un tour de magie basique que les novices utilisent pour s’entraîner. Vous l’utilisez pour créer à portée l’un des effets magiques suivants : * Vous créez un effet sensoriel immédiat et inoffensif,»» Vous créez un effet sensoriel immédiat et inoffensif, comme une pluie d’étincelles, un coup de vent, de faibles notes de musique ou une odeur étrange.
+Ce sort est un tour de magie basique que les novices utilisent pour s’entraîner. Vous l’utilisez pour créer à portée l’un des effets magiques suivants : 
 
-* Vous allumez ou éteignez instantanément une»» Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
+* Vous créez un effet sensoriel immédiat et inoffensif, comme une pluie d’étincelles, un coup de vent, de faibles notes de musique ou une odeur étrange.
 
-* Vous nettoyez ou salissez instantanément un objet»» Vous nettoyez ou salissez instantanément un objet ne faisant pas plus de 30 décimètres cubes.
+* Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
 
-* Vous refroidissez, réchauffez ou aromatisez jusqu’à»» Vous refroidissez, réchauffez ou aromatisez jusqu’à 30 décimètres cubes de matière non vivante pendant 1 heure.
+* Vous nettoyez ou salissez instantanément un objet ne faisant pas plus de 30 décimètres cubes.
 
-* Vous faites apparaître une couleur, une petite»» Vous faites apparaître une couleur, une petite marque ou un symbole sur un objet ou une surface pendant 1 heure.
+* Vous refroidissez, réchauffez ou aromatisez jusqu’à 30 décimètres cubes de matière non vivante pendant 1 heure.
 
-* Vous créez un colifichet non magique ou une»» Vous créez un colifichet non magique ou une image illusoire tenant dans votre main, qui persiste jusqu’à la fin de votre prochain tour.
+* Vous faites apparaître une couleur, une petite marque ou un symbole sur un objet ou une surface pendant 1 heure.
+
+* Vous créez un colifichet non magique ou une image illusoire tenant dans votre main, qui persiste jusqu’à la fin de votre prochain tour.
 
 Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de trois effets non instantanés actifs à la fois. Vous pouvez révoquer un tel effet par une action.
 
@@ -6117,17 +6135,17 @@ Protections et sceaux produit les effets suivants dans la zone protégée.
 
 **_Autres effets de sort._** Vous pouvez placer l’un des effets suivants, au choix, dans la zone protégée par le sort.
 
-* Placer lumières dansantes dans quatre couloirs.»» Placer lumières dansantes dans quatre couloirs.
+* Placer lumières dansantes dans quatre couloirs.
 
 Vous pouvez choisir un programme très simple que les lumières suivront pendant toute la durée de protections et sceaux.
 
-* Placer une bouche magique en deux endroits.»» Placer une bouche magique en deux endroits.
+* Placer une bouche magique en deux endroits.
 
-* Placer un nuage puant en deux endroits. Les vapeurs»» Placer un nuage puant en deux endroits. Les vapeurs apparaissent à l’endroit de votre choix. Tant que protections et sceaux persiste, elles réapparaissent au bout de 10 minutes si le vent les disperse.
+* Placer un nuage puant en deux endroits. Les vapeurs apparaissent à l’endroit de votre choix. Tant que protections et sceaux persiste, elles réapparaissent au bout de 10 minutes si le vent les disperse.
 
-* Placer une bourrasque constante dans un couloir»» Placer une bourrasque constante dans un couloir ou une pièce.
+* Placer une bourrasque constante dans un couloir ou une pièce.
 
-* Placer une suggestion en un endroit. Choisissez»» Placer une suggestion en un endroit. Choisissez une zone d’au maximum 1,50 mètre de côté : toute créature qui y pénètre ou la traverse reçoit une suggestion mentale.
+* Placer une suggestion en un endroit. Choisissez une zone d’au maximum 1,50 mètre de côté : toute créature qui y pénètre ou la traverse reçoit une suggestion mentale.
 
 Toute la zone protégée émet une aura magique. Si quelqu’un lance avec succès une dissipation de la magie sur un effet spécifique, il élimine seulement cet effet.
 
@@ -6505,13 +6523,13 @@ Vous touchez une créature et mettez fin à une maladie ou à un état spécial 
 
 Vous imprégnez la créature que vous touchez d’énergie positive, afin de la débarrasser d’un effet débilitant. Vous pouvez ainsi réduire le niveau d’épuisement de la cible d’un cran ou mettre un terme à l’un des effets suivants l’affectant.
 
-* L’état charmé ou pétrifié.»» L’état charmé ou pétrifié.
+* L’état charmé ou pétrifié.
 
-* Une malédiction, y compris l’harmonisation entre»» Une malédiction, y compris l’harmonisation entre la cible et un objet magique maudit.
+* Une malédiction, y compris l’harmonisation entre la cible et un objet magique maudit.
 
-* Une réduction sur l’une des valeurs de caractéristique»» Une réduction sur l’une des valeurs de caractéristique de la cible.
+* Une réduction sur l’une des valeurs de caractéristique de la cible.
 
-* Un effet réduisant le maximum de points de vie»» Un effet réduisant le maximum de points de vie de la cible.
+* Un effet réduisant le maximum de points de vie de la cible.
 
 
 
@@ -6679,17 +6697,17 @@ Vous sécurisez par magie une zone à portée. Il s’agit d’un cube de 1,50 m
 
 Vous décidez de la sécurité offerte par le sort au moment de l’incantation en choisissant une ou plusieurs propriétés parmi les suivantes.
 
-* Les sons ne peuvent pas franchir la barrière qui délimite»» Les sons ne peuvent pas franchir la barrière qui délimite la zone protégée.
+* Les sons ne peuvent pas franchir la barrière qui délimite la zone protégée.
 
-* La barrière délimitant la zone protégée est sombre»» La barrière délimitant la zone protégée est sombre et brumeuse, ce qui empêche de voir au travers (même avec la vision dans le noir).
+* La barrière délimitant la zone protégée est sombre et brumeuse, ce qui empêche de voir au travers (même avec la vision dans le noir).
 
-* Les organes sensoriels créés via un sort de divination»» Les organes sensoriels créés via un sort de divination ne peuvent pas apparaître au sein de la zone protégée ni traverser la barrière qui délimite son périmètre.
+* Les organes sensoriels créés via un sort de divination ne peuvent pas apparaître au sein de la zone protégée ni traverser la barrière qui délimite son périmètre.
 
-* Les sorts de divination ne peuvent pas prendre les»» Les sorts de divination ne peuvent pas prendre les créatures de la zone pour cible.
+* Les sorts de divination ne peuvent pas prendre les créatures de la zone pour cible.
 
-* Rien ne peut se téléporter à l’intérieur ou à l’extérieur»» Rien ne peut se téléporter à l’intérieur ou à l’extérieur de la zone protégée.
+* Rien ne peut se téléporter à l’intérieur ou à l’extérieur de la zone protégée.
 
-* Les voyages planaires sont bloqués au sein de la»» Les voyages planaires sont bloqués au sein de la zone protégée.
+* Les voyages planaires sont bloqués au sein de la zone protégée.
 
 Si on lance ce sort tous les jours au même endroit pendant un an, ses effets deviennent permanents.
 
@@ -6943,15 +6961,15 @@ Vous n’avez alors pas besoin de remplir les conditions requises, pas même de 
 
 Sinon, vous pouvez créer l’un des effets suivants, au choix.
 
-* Vous créez un objet d’une valeur maximale de»» Vous créez un objet d’une valeur maximale de 25 000 po qui n’a rien de magique. Il doit mesurer au maximum 90 mètres dans chaque dimension et apparaît en un emplacement inoccupé situé au sol et dans votre champ de vision.
+* Vous créez un objet d’une valeur maximale de 25 000 po qui n’a rien de magique. Il doit mesurer au maximum 90 mètres dans chaque dimension et apparaît en un emplacement inoccupé situé au sol et dans votre champ de vision.
 
-* Vous permettez à un maximum de vingt créatures»» Vous permettez à un maximum de vingt créatures situées dans votre champ de vision de récupérer la totalité de leurs points de vie et vous mettez fin à tous les effets les affectant, tel que décrit dans le sort de restauration supérieure.
+* Vous permettez à un maximum de vingt créatures situées dans votre champ de vision de récupérer la totalité de leurs points de vie et vous mettez fin à tous les effets les affectant, tel que décrit dans le sort de restauration supérieure.
 
-* Vous conférez à un maximum de dix créatures situées»» Vous conférez à un maximum de dix créatures situées dans votre champ de vision une résistance à un type de dégâts de votre choix.
+* Vous conférez à un maximum de dix créatures situées dans votre champ de vision une résistance à un type de dégâts de votre choix.
 
-* Vous conférez à un maximum de dix créatures»» Vous conférez à un maximum de dix créatures situées dans votre champ de vision l’immunité contre un unique sort ou un autre effet magique pendant 8 heures. Par exemple, vous pouvez vous immuniser, ainsi que tous vos compagnons, contre l’attaque absorption de vie des liches.
+* Vous conférez à un maximum de dix créatures situées dans votre champ de vision l’immunité contre un unique sort ou un autre effet magique pendant 8 heures. Par exemple, vous pouvez vous immuniser, ainsi que tous vos compagnons, contre l’attaque absorption de vie des liches.
 
-* Vous défaites un unique événement récent en»» Vous défaites un unique événement récent en faisant relancer un jet de dé effectué au cours du round précédent (y compris lors de votre dernier tour). La réalité se modifie pour s’adapter au nouveau résultat. Par exemple, un souhait peut obliger un adversaire à relancer un jet de sauvegarde réussi, un ennemi à refaire son jet de critique ou un ami à rejouer un jet de sauvegarde raté. Vous pouvez attribuer un avantage ou un désavantage à la créature qui relance le dé et vous êtes libre d’appliquer le résultat du premier jet ou de la relance.
+* Vous défaites un unique événement récent en faisant relancer un jet de dé effectué au cours du round précédent (y compris lors de votre dernier tour). La réalité se modifie pour s’adapter au nouveau résultat. Par exemple, un souhait peut obliger un adversaire à relancer un jet de sauvegarde réussi, un ennemi à refaire son jet de critique ou un ami à rejouer un jet de sauvegarde raté. Vous pouvez attribuer un avantage ou un désavantage à la créature qui relance le dé et vous êtes libre d’appliquer le résultat du premier jet ou de la relance.
 
 Ce sort peut également vous permettre d’accomplir des exploits dépassant le cadre des exemples précédents.
 
@@ -7441,17 +7459,17 @@ Si quelqu’un dissipe le sort, l’illusion disparaît, mais le message origina
 
 Vous créez une manifestation merveilleuse mineure ou un signe de puissance surnaturelle à portée, ce qui génère l’un des effets magiques suivants à portée.
 
-* Votre voix retentit jusqu’à trois fois plus fort que la»» Votre voix retentit jusqu’à trois fois plus fort que la normale pendant 1 minute.
+* Votre voix retentit jusqu’à trois fois plus fort que la normale pendant 1 minute.
 
-* Les flammes vacillent, se ravivent, se réduisent ou»» Les flammes vacillent, se ravivent, se réduisent ou changent de couleur pendant une minute.
+* Les flammes vacillent, se ravivent, se réduisent ou changent de couleur pendant une minute.
 
-* Vous provoquez des secousses inoffensives qui»» Vous provoquez des secousses inoffensives qui agitent le sol pendant 1 minute.
+* Vous provoquez des secousses inoffensives qui agitent le sol pendant 1 minute.
 
-* Vous émettez un son instantané qui émane d’un»» Vous émettez un son instantané qui émane d’un point de votre choix situé à portée, comme un roulement de tonnerre, le croassement d’un corbeau ou des murmures inquiétants.
+* Vous émettez un son instantané qui émane d’un point de votre choix situé à portée, comme un roulement de tonnerre, le croassement d’un corbeau ou des murmures inquiétants.
 
-* Vous provoquez la fermeture ou l’ouverture violente»» Vous provoquez la fermeture ou l’ouverture violente et immédiate d’une porte ou d’une fenêtre non verrouillée.
+* Vous provoquez la fermeture ou l’ouverture violente et immédiate d’une porte ou d’une fenêtre non verrouillée.
 
-* Vous modifiez l’apparence de vos yeux pendant»» Vous modifiez l’apparence de vos yeux pendant 1 minute.
+* Vous modifiez l’apparence de vos yeux pendant 1 minute.
 
 Si vous lancez ce sort à plusieurs reprises, vous ne pouvez avoir que trois effets d’une minute actifs à la fois.
 
