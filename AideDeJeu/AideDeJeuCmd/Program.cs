@@ -108,16 +108,16 @@ namespace AideDeJeuCmd
             foreach (var classe in classes)
             {
                 //Console.WriteLine(classe);
-                result += string.Format("## {0}\r\n\r\n", classe);
+                result += string.Format("## {0}\n\n", classe);
                 foreach (var level in levels)
                 {
                     //Console.WriteLine(level);
                     var spells = items.Where(s => s.Level == level && s.Source.Contains(classe)).OrderBy(s => s.Name).Select(s => string.Format("* [{0}](spells_hd.md#{1})", s.Name, Helpers.IdFromName(s.Name))).ToList();
                     if (spells.Count > 0)
                     {
-                        result += string.Format("### {0}\r\n\r\n", level == "0" ? "Tours de magie" : "Niveau " + level);
-                        result += spells.Aggregate((s1, s2) => s1 + "\r\n" + s2);
-                        result += "\r\n\r\n";
+                        result += string.Format("### {0}\n\n", level == "0" ? "Tours de magie" : "Niveau " + level);
+                        result += spells.Aggregate((s1, s2) => s1 + "\n" + s2);
+                        result += "\n\n";
                     }
                 }
             }
@@ -205,7 +205,7 @@ namespace AideDeJeuCmd
             //        }
             //    }
             //}
-            /*var regex = new Regex("- NameVO: (?<name>.*?)\r\n");
+            /*var regex = new Regex("- NameVO: (?<name>.*?)\n");
             var matches = regex.Matches(md);
             foreach(Match match in matches)
             {
@@ -224,7 +224,7 @@ namespace AideDeJeuCmd
             //await SaveStringAsync(dataDir + "spells_vo_tmp.md", md);
             //var regex = new Regex("(\\[[a-z].*?\\])");
             //var matches = regex.Matches(monstersVOmd);
-            //var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\r\n" + b);
+            //var links = matches.OrderBy(m => m.Value).Select(m => m.Value + string.Format(": spells_vo.md#{0}", m.Value.Replace("[", "").Replace("]","").Replace(" ","-"))).Distinct().ToList().Aggregate((a, b) => a + "\n" + b);
 
             return;
             //var mdhd = spellsHD.ToMarkdownString();

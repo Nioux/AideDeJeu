@@ -188,7 +188,7 @@ namespace AideDeJeu.Tools
                 else if (block is Markdig.Extensions.Tables.Table)
                 {
                     var tableBlock = block as Markdig.Extensions.Tables.Table;
-                    spell.DescriptionHtml += "\r\n\r\n" + tableBlock.ToMarkdownString().Replace("\n","") + "\r\n\r\n";
+                    spell.DescriptionHtml += "\n\n" + tableBlock.ToMarkdownString().Replace("\n","") + "\n\n";
                 }
 
 
@@ -565,13 +565,13 @@ namespace AideDeJeu.Tools
                 }
                 if(row.IsHeader)
                 {
-                    line += "\r\n|";
+                    line += "\n|";
                     for(int i = 0; i < row.Count; i++)
                     {
                         line += "---|";
                     }
                 }
-                ret += line + "\r\n";
+                ret += line + "\n";
             }
             return ret;
         }
@@ -645,13 +645,13 @@ namespace AideDeJeu.Tools
                 .Replace("</em>", "_")
                 .Replace("<li>", "* ")
                 .Replace("</li>", "")
-                //.Replace("\n", "\r\n\r\n")
-                //.Replace("<br/>", "\r\n\r\n")
-                .Replace("\n", "\r\n")
-                .Replace("<br/>", "\r\n")
+                //.Replace("\n", "\n\n")
+                //.Replace("<br/>", "\n\n")
+                .Replace("\n", "\n")
+                .Replace("<br/>", "\n")
                 ;
             md += string.Format("[{0}]: spells_hd.md#{1}\n", spell.NameVO, Helpers.IdFromName(spell.NameVO));
-            md += "\r\n\r\n";
+            md += "\n\n";
             return md;
         }
 
@@ -744,8 +744,8 @@ namespace AideDeJeu.Tools
             //    .Replace("</em>", "_")
             //    .Replace("<li>", "* ")
             //    .Replace("</li>", "")
-            //    .Replace("\n", "\r\n\r\n")
-            //    .Replace("<br/>", "\r\n\r\n")
+            //    .Replace("\n", "\n\n")
+            //    .Replace("<br/>", "\n\n")
             //    ;
             md += string.Format("[{0}]: monsters_hd.md#{1}\n", monster.NameVO, Helpers.IdFromName(monster.NameVO));
             md += "\n\n";
@@ -764,11 +764,11 @@ namespace AideDeJeu.Tools
                 .Replace("</em>", "_")
                 .Replace("<li>", "* ")
                 .Replace("</li>", "")
-                .Replace("\n", "\r\n\r\n")
-                .Replace("<br/>", "\r\n\r\n")
-                .Replace("<br />", "\r\n\r\n")
+                .Replace("\n", "\n\n")
+                .Replace("<br/>", "\n\n")
+                .Replace("<br />", "\n\n")
                 .Replace("<p>", "")
-                .Replace("</p>", "\r\n\r\n")
+                .Replace("</p>", "\n\n")
                 ;
         }
 

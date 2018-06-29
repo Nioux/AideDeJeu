@@ -70,7 +70,7 @@ namespace AideDeJeu.Tools
                 var cstring = string.Empty;
                 foreach (var str in strings)
                 {
-                    cstring += str + "\r\n";
+                    cstring += str + "\n";
                 }
                 return cstring;
                 //    var fs = new FormattedString();
@@ -80,7 +80,7 @@ namespace AideDeJeu.Tools
                 //        doc.LoadXml("<div>" + str + "</div>");
 
                 //        FormatedTextHelpers.HtmlNodeToFormatedString(doc.DocumentElement, fs);
-                //        fs.Spans.Add(new Span() { Text = "\r\n" });
+                //        fs.Spans.Add(new Span() { Text = "\n" });
                 //    }
                 //    return fs;
                 //}

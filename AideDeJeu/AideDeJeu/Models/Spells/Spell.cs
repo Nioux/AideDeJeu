@@ -58,7 +58,7 @@ namespace AideDeJeuLib.Spells
         {
             get
             {
-                return DescriptionDiv?.InnerText?.Replace("\n", "\r\n\r\n");
+                return DescriptionDiv?.InnerText?.Replace("\n", "\n\n");
             }
         }
         [IgnoreDataMember]

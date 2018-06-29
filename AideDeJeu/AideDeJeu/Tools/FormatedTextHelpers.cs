@@ -40,7 +40,7 @@ namespace AideDeJeu.Tools
             }
             else if (node.NodeType == XmlNodeType.Element && node.Name == "br")
             {
-                fs.Spans.Add(new Span() { Text = "\r\n" });
+                fs.Spans.Add(new Span() { Text = "\n" });
             }
             else if (node.NodeType == XmlNodeType.Element && node.Name == "strong")
             {
@@ -53,8 +53,8 @@ namespace AideDeJeu.Tools
             else if (node.NodeType == XmlNodeType.Element && node.Name == "p")
             {
                 HtmlNodesToFormatedString(node.ChildNodes, fs, attributes);
-                fs.Spans.Add(new Span() { Text = "\r\n" });
-                fs.Spans.Add(new Span() { Text = "\r\n" });
+                fs.Spans.Add(new Span() { Text = "\n" });
+                fs.Spans.Add(new Span() { Text = "\n" });
             }
             else if (node.NodeType == XmlNodeType.Element)
             {
@@ -88,7 +88,7 @@ namespace AideDeJeu.Tools
         //            }
         //            else if (node.NodeType == HtmlNodeType.Element && node.Name == "br")
         //            {
-        //                fs.Spans.Add(new Span() { Text = "\r\n" });
+        //                fs.Spans.Add(new Span() { Text = "\n" });
         //            }
         //            else if (node.NodeType == HtmlNodeType.Element && node.Name == "strong")
         //            {
