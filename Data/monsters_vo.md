@@ -502,8 +502,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 8th level (1 slot): _[mind blank]_*
 
 9th level (1 slot): _[time stop]_
-
-* The archmage casts these spells on itself before combat.
+(*) The archmage casts these spells on itself before combat.
 
 ## Actions
 

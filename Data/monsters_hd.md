@@ -11822,7 +11822,7 @@ Tours de magie (à volonté) : carreau de feu, lumière, main du mage, poigne é
 
 9e niveau (1 emplacement) : arrêt du temps
 
-*L'archimage lance ces sorts sur lui-même avant un combat.
+(*) L'archimage lance ces sorts sur lui-même avant un combat.
 
 Résistance à la magie. L'archimage bénéficie d'un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

@@ -359,13 +359,13 @@ If you are returned to your body prematurely, your companions remain in their as
 
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
 
-• Weal, for good results
+* Weal, for good results
 
-• Woe, for bad results
+* Woe, for bad results
 
-• Weal and woe, for both good and bad results
+* Weal and woe, for both good and bad results
 
-• Nothing, for results that aren't especially good or bad
+* Nothing, for results that aren't especially good or bad
 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
@@ -483,13 +483,13 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
-• Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
+* Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
 
-• While cursed, the target has disadvantage on attack rolls against you.
+* While cursed, the target has disadvantage on attack rolls against you.
 
-• While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
+* While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
 
-• While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
+* While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.
 
 A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The DM has final say on such a curse's effect.
 
@@ -720,9 +720,9 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
 
-You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+* You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
-Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
+* Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
 [Apaisement des émotions]: spells_hd.md#apaisement-des-émotions
 
@@ -959,15 +959,15 @@ You briefly become one with nature and gain knowledge of the surrounding territo
 
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 
-• terrain and bodies of water
+* terrain and bodies of water
 
-• prevalent plants, minerals, animals, or peoples
+* prevalent plants, minerals, animals, or peoples
 
-• powerful celestials, fey, fiends, elementals, or undead
+* powerful celestials, fey, fiends, elementals, or undead
 
-• influence from other planes of existence
+* influence from other planes of existence
 
-• buildings
+* buildings
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
@@ -1077,13 +1077,13 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-• One beast of challenge rating 2 or lower
+* One beast of challenge rating 2 or lower
 
-• Two beasts of challenge rating 1 or lower
+* Two beasts of challenge rating 1 or lower
 
-• Four beasts of challenge rating 1/2 or lower
+* Four beasts of challenge rating 1/2 or lower
 
-• Eight beasts of challenge rating 1/4 or lower
+* Eight beasts of challenge rating 1/4 or lower
 
 Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends. The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions. The DM has the creatures' statistics.
 
@@ -1175,13 +1175,13 @@ The DM has the fey creature's statistics.
 
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
-• One elemental of challenge rating 2 or lower
+* One elemental of challenge rating 2 or lower
 
-• Two elementals of challenge rating 1 or lower
+* Two elementals of challenge rating 1 or lower
 
-• Four elementals of challenge rating 1/2 or lower
+* Four elementals of challenge rating 1/2 or lower
 
-• Eight elementals of challenge rating 1/4 or lower.
+* Eight elementals of challenge rating 1/4 or lower.
 
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 
@@ -1208,13 +1208,13 @@ The DM has the creatures' statistics.
 
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-• One fey creature of challenge rating 2 or lower
+* One fey creature of challenge rating 2 or lower
 
-• Two fey creatures of challenge rating 1 or lower
+* Two fey creatures of challenge rating 1 or lower
 
-• Four fey creatures of challenge rating 1/2 or lower
+* Four fey creatures of challenge rating 1/2 or lower
 
-• Eight fey creatures of challenge rating 1/4 or lower
+* Eight fey creatures of challenge rating 1/4 or lower
 
 A summoned creature disappears when it drops to 0 hit points or when the spell ends.
 
@@ -1917,13 +1917,13 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
 
-• 50 hit points or fewer: deafened for 1 minute
+* 50 hit points or fewer: deafened for 1 minute
 
-• 40 hit points or fewer: deafened and blinded for 10 minutes
+* 40 hit points or fewer: deafened and blinded for 10 minutes
 
-• 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
+* 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
 
-• 20 hit points or fewer: killed instantly
+* 20 hit points or fewer: killed instantly
 
 Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a _[wish]_ spell.
 
@@ -2065,13 +2065,13 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 Whispering to the spirits of nature, you create one of the following effects within range:
 
-• You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+* You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
 
-• You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+* You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
 
-• You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+* You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 
-• You instantly light or snuff out a candle, a torch, or a small campfire.
+* You instantly light or snuff out a candle, a torch, or a small campfire.
 
 [Druidisme]: spells_hd.md#druidisme
 
@@ -2774,9 +2774,9 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 
 An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
+* A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart.
 
-A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
+* A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 
 When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.
 
@@ -3072,13 +3072,13 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
 
-• One effect that charmed or petrified the target
+* One effect that charmed or petrified the target
 
-• One curse, including the target's attunement to a cursed magic item
+* One curse, including the target's attunement to a cursed magic item
 
-• Any reduction to one of the target's ability scores
+* Any reduction to one of the target's ability scores
 
-• One effect reducing the target's hit point maximum
+* One effect reducing the target's hit point maximum
 
 [Restauration supérieure]: spells_hd.md#restauration-supérieure
 
@@ -3128,15 +3128,15 @@ _Guards and wards_ creates the following effects within the warded area.
 
 **Other Spell Effect**. You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
-• Place _[dancing lights]_ in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
+* Place _[dancing lights]_ in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.
 
-• Place _magic mouth_ in two locations.
+* Place _magic mouth_ in two locations.
 
-• Place _[stinking cloud]_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
+* Place _[stinking cloud]_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _guards and wards_ lasts.
 
-• Place a constant _gust of wind_ in one corridor or room.
+* Place a constant _gust of wind_ in one corridor or room.
 
-• Place a _[suggestion]_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
+* Place a _[suggestion]_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
 The whole warded area radiates magic. A _[dispel magic]_ cast on a specific effect, if successful, removes only that effect.
 
@@ -4006,11 +4006,11 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 
 Choose one or more of the following types of creatures: celestials, elementals, fey, fiends, or undead. The circle affects a creature of the chosen type in the following ways:
 
-• The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
+* The creature can't willingly enter the cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
 
-• The creature has disadvantage on attack rolls against targets within the cylinder.
+* The creature has disadvantage on attack rolls against targets within the cylinder.
 
-• Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
+* Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
@@ -4562,17 +4562,17 @@ You make an area within range magically secure. The area is a cube that can be a
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
 
-• Sound can't pass through the barrier at the edge of the warded area.
+* Sound can't pass through the barrier at the edge of the warded area.
 
-• The barrier of the warded area appears dark and foggy, preventing vision (including darkvision through it.
+* The barrier of the warded area appears dark and foggy, preventing vision (including darkvision through it.
 
-• Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
+* Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
 
-• Creatures in the area can't be targeted by divination spells.
+* Creatures in the area can't be targeted by divination spells.
 
-• Nothing can teleport into or out of the warded area.
+* Nothing can teleport into or out of the warded area.
 
-• Planar travel is blocked within the warded area.
+* Planar travel is blocked within the warded area.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
@@ -5011,17 +5011,17 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
-• You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 
-• You instantaneously light or snuff out a candle, a torch, or a small campfire.
+* You instantaneously light or snuff out a candle, a torch, or a small campfire.
 
-• You instantaneously clean or soil an object no larger than 1 cubic foot.
+* You instantaneously clean or soil an object no larger than 1 cubic foot.
 
-• You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
 
-• You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
 
-• You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
@@ -6411,17 +6411,17 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 
-• Your voice booms up to three times as loud as normal for 1 minute.
+* Your voice booms up to three times as loud as normal for 1 minute.
 
-• You cause flames to flicker, brighten, dim, or change color for 1 minute.
+* You cause flames to flicker, brighten, dim, or change color for 1 minute.
 
-• You cause harmless tremors in the ground for 1 minute.
+* You cause harmless tremors in the ground for 1 minute.
 
-• You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
 
-• You instantaneously cause an unlocked door or window to fly open or slam shut.
+* You instantaneously cause an unlocked door or window to fly open or slam shut.
 
-• You alter the appearance of your eyes for 1 minute.
+* You alter the appearance of your eyes for 1 minute.
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
@@ -6940,15 +6940,15 @@ The basic use of this spell is to duplicate any other spell of 8th level or lowe
 
 Alternatively, you can create one of the following effects of your choice:
 
-• You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
+* You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
 
-• You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _[greater restoration]_ spell.
+* You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _[greater restoration]_ spell.
 
-• You grant up to ten creatures that you can see resistance to a damage type you choose.
+* You grant up to ten creatures that you can see resistance to a damage type you choose.
 
-• You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
+* You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
 
-• You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a _wish_ spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
+* You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a _wish_ spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
 You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
