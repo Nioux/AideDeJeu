@@ -9,8 +9,7 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
-            <tools:HtmlNodeToFormattedStringConverter x:Key="HtmlNodeToFormattedStringConverter" />
-            <tools:HtmlNodesToFormattedStringConverter x:Key="HtmlNodesToFormattedStringConverter" />
+            <tools:StringListToStringConverter x:Key="StringListToStringConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ScrollView VerticalScrollBarVisibility="Default" HorizontalScrollBarVisibility="Default">

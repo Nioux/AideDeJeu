@@ -3,7 +3,6 @@
     <MasterDetailPage.Resources>
         <ResourceDictionary>
             <tools:ItemSourceTypeToStringConverter x:Key="ItemSourceTypeToTitleConverter" SpellVO="Spells" SpellHD="Sorts (H&amp;D)" MonsterVO="Monsters" MonsterHD="Créatures (H&amp;D)" />
-            <tools:ItemSourceTypeToItemsConverter x:Key="ItemSourceTypeToItemsConverter" />
             <tools:ItemSourceTypeToFilterConverter x:Key="ItemSourceTypeToFilterConverter" />
         </ResourceDictionary>
     </MasterDetailPage.Resources>
