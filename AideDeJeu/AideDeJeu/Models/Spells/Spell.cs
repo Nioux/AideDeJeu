@@ -87,54 +87,5 @@ namespace AideDeJeuLib.Spells
         public string NoOverflow { get; set; }
         public string Source { get; set; }
 
-        public void ParseHtml()
-        {
-            var pack = new XmlDocument();
-            pack.LoadXml(this.Html);
-            var divSpell = pack.DocumentElement.SelectSingleNode("//div[contains(@class,'bloc')]");
-            ParseNode(divSpell);
-        }
-
-        public void ParseNode(XmlNode nodeSpell)
-        {
-            this.Name = nodeSpell.SelectSingleNode("h1").InnerText;
-            var divTrad = nodeSpell.SelectSingleNode("div[@class='trad']");
-            
-            var linkVO = divTrad.SelectSingleNode("a").Attributes["href"].InnerText;
-            var matchIdVF = new Regex(@"\?vf=(?<idvf>.*)").Match(linkVO);
-            this.IdVF = matchIdVF?.Groups["idvf"]?.Value;
-            var matchIdVO = new Regex(@"\?vo=(?<idvo>.*)").Match(linkVO);
-            this.IdVO = matchIdVO?.Groups["idvo"]?.Value;
-            var altNames = divTrad?.InnerText;
-            if (altNames != null)
-            {
-                var matchNames = new Regex(@"\[ (?<vo>.*?) \](?: \[ (?<alt>.*?) \])?").Match(altNames);
-                this.NameVO = matchNames.Groups["vo"].Value;
-                this.NamePHB = string.IsNullOrEmpty(matchNames.Groups["alt"].Value) ? this.Name : matchNames.Groups["alt"].Value;
-            }
-            else
-            {
-                this.NamePHB = this.Name;
-            }
-            this.LevelType = nodeSpell.SelectSingleNode("h2/em").InnerText;
-            this.Level = this.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[0].Split(' ')[1];
-            this.Type = this.LevelType.Split(new string[] { " - " }, StringSplitOptions.None)[1];
-            this.CastingTime = nodeSpell.SelectSingleNode("div[@class='paragraphe']").InnerText.Split(new string[] { ": " }, StringSplitOptions.None)[1];
-            this.Range = nodeSpell.SelectSingleNode("div[strong/text()='Portée' or strong/text()='Range']").InnerText.Split(new string[] { ": " }, StringSplitOptions.None)[1];
-            this.Components = nodeSpell.SelectSingleNode("div[strong/text()='Composantes' or strong/text()='Components']")?.InnerText?.Split(new string[] { ": " }, StringSplitOptions.None)?[1];
-            this.Duration = nodeSpell.SelectSingleNode("div[strong/text()='Durée' or strong/text()='Duration']").InnerText.Split(new string[] { ": " }, StringSplitOptions.None)[1];
-            this.DescriptionDiv = nodeSpell.SelectSingleNode("div[contains(@class,'description')]");
-            this.Overflow = nodeSpell.SelectSingleNode("div[@class='overflow']")?.InnerText;
-            this.NoOverflow = nodeSpell.SelectSingleNode("div[@class='nooverflow']")?.InnerText;
-            this.Source = nodeSpell.SelectSingleNode("div[@class='source']").InnerText;
-        }
-
-        public static Spell FromHtml(XmlNode nodeSpell)
-        {
-            var spell = new Spell();
-            spell.Html = nodeSpell.OuterXml;
-            spell.ParseNode(nodeSpell);
-            return spell;
-        }
     }
 }

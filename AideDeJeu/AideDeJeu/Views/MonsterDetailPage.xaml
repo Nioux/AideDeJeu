@@ -96,13 +96,6 @@
             <!--<Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />-->
             <mdview:MarkdownView x:Name="mdLegendaryActions" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
 
-            <!--<ListView ItemsSource="{Binding Item.SpecialFeaturesNodes}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <Label BindingContext="{Binding}" FormattedText="{Binding Converter={StaticResource HtmlNodeToFormattedStringConverter}}" />
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>-->
             <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
 
             <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
