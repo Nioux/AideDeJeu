@@ -19,41 +19,11 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _Item, value);
-                OnPropertyChanged(nameof(Description));
-                OnPropertyChanged(nameof(DescriptionList));
                 OnPropertyChanged(nameof(TypeLevel));
                 OnPropertyChanged(nameof(CastingTime));
                 OnPropertyChanged(nameof(Range));
                 OnPropertyChanged(nameof(Components));
                 OnPropertyChanged(nameof(Duration));
-            }
-        }
-
-        public FormattedString Description
-        {
-            get
-            {
-                var fs = new FormattedString();
-                if (Item?.DescriptionDiv != null)
-                {
-                    FormatedTextHelpers.HtmlNodeToFormatedString(global::AideDeJeuLib.Item.StringToNode(Item?.DescriptionHtml), fs, FontAttributes.None);
-                }
-                return fs;
-            }
-        }
-
-        public ObservableCollection<FormattedString> DescriptionList
-        {
-            get
-            {
-                var list = new ObservableCollection<FormattedString>();
-                list.Add(TypeLevel);
-                list.Add(CastingTime);
-                list.Add(Range);
-                list.Add(Components);
-                list.Add(Duration);
-                list.Add(TypeLevel);
-                return list;
             }
         }
 
@@ -131,29 +101,6 @@ namespace AideDeJeu.ViewModels
         }
         async Task ExecuteLoadItemCommand()
         {
-            if (IsBusy)
-                return;
-
-            IsBusy = true;
-
-            try
-            {
-                //Item.ParseHtml();
-                //Item = _Item;
-                //using (var spellsScrappers = new SpellsScrappers())
-                //{
-                //    var item = await spellsScrappers.GetSpell(Item.Id);
-                //    Item = item;
-                //}
-            }
-            catch (Exception ex)
-            {
-                Debug.WriteLine(ex);
-            }
-            finally
-            {
-                IsBusy = false;
-            }
         }
     }
 

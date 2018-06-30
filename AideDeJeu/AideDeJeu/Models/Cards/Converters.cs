@@ -144,7 +144,7 @@ namespace AideDeJeuLib.Cards
                 //new FillCardContent(1),
                 //new TextCardContent(spell.DescriptionText),
             });
-            var description = ToContents(spell.DescriptionDiv.SelectSingleNode("div"));
+            var description = ToContents(null); // spell.DescriptionDiv.SelectSingleNode("div"));
             foreach (var line in description)
             {
                 int size = contents.Sum(cc => cc.Height);

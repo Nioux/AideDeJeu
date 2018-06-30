@@ -17,57 +17,21 @@
         <StackLayout Orientation="Vertical" Padding="15">
             <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
             <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.NameVO}" />
-            <!--<Label Text="{Binding Item.NameVO}" Style="{StaticResource Key=content}" />-->
-            <!--<Label Text="{Binding Item.Name}" Style="{StaticResource Key=content}" />-->
 
             <Label Text=" " />
 
             <Label FormattedText="{Binding TypeLevel}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="{Binding Item.Type}" Style="{StaticResource Key=contentital}" />
-                <Label Text="{Binding Item.Level, StringFormat='de niveau {0}'}" Style="{StaticResource Key=contentital}" />
-            </StackLayout>-->
 
             <Label FormattedText="{Binding CastingTime}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Durée d'incantation :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.CastingTime}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
-
 
             <Label FormattedText="{Binding Range}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Portée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.Range}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
 
             <Label FormattedText="{Binding Components}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Composantes :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.Components}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
 
             <Label FormattedText="{Binding Duration}" />
-            <!--<StackLayout Orientation="Horizontal">
-                <Label Text="Durée :" LineBreakMode="NoWrap" Style="{StaticResource Key=contentbold}" />
-                <Label Text="{Binding Item.Duration}" Style="{StaticResource Key=content}" />
-            </StackLayout>-->
 
             <Label Text=" " />
 
-            <!--<ListView HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" ItemsSource="{Binding DescriptionList}" ItemTapped="ListView_ItemTapped">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <ViewCell.View>
-                                <Label BindingContext="{Binding}" FormattedText="{Binding}" Style="{StaticResource Key=content}" />
-                            </ViewCell.View>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>-->
-            <!--<Label FormattedText="{Binding Description}" Style="{StaticResource Key=content}" />-->
-            <!--<Label FormattedText="{Binding Item.DescriptionHtml, Converter={StaticResource HtmlNodeToFormattedStringConverter}}" IsVisible="{Binding Item.DescriptionHtml, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />-->
             <mdview:MarkdownView x:Name="mdDescription" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.DescriptionHtml}" IsVisible="{Binding Item.DescriptionHtml, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />

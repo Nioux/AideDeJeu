@@ -21,17 +21,11 @@
             
             <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
             <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.NameVO}" />
-            <!--<Label Text="{Binding Item.NameVO}" Style="{StaticResource Key=content}" />-->
-            <!--<Label Text="{Binding Item.Name}" Style="{StaticResource Key=content}" />-->
-
-            <!--<Label Text=" " />-->
 
             <Label FormattedText="{Binding TypeSizeAlignment}" />
 
             <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
 
-            <!--<BoxView WidthRequest="100" HeightRequest="2" Color="#922610" />-->
-            
             <Label FormattedText="{Binding ArmorClass}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding HitPoints}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Speed}" Style="{StaticResource Key=content}" />
@@ -75,35 +69,27 @@
             <Label FormattedText="{Binding ConditionImmunities}" IsVisible="{Binding Item.ConditionImmunities, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Senses}" IsVisible="{Binding Item.Senses, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
             <Label FormattedText="{Binding Languages}" IsVisible="{Binding Item.Languages, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
-            <!--<Label FormattedText="{Binding Power}" Style="{StaticResource Key=content}" />-->
             <Label FormattedText="{Binding Challenge}" IsVisible="{Binding Item.Challenge, Converter={StaticResource NullToFalseConverter}}" Style="{StaticResource Key=content}" />
 
             <skia:SKCanvasView PaintSurface="PaintRedBar" HorizontalOptions="FillAndExpand" HeightRequest="8"/>
 
             <Label Text="Capacités" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
-            <!--<Label FormattedText="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />-->
             <mdview:MarkdownView x:Name="mdSpecialFeatures" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.SpecialFeatures, Converter={StaticResource HtmlNodesToFormattedStringConverter}}"  IsVisible="{Binding Item.SpecialFeatures, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
-            <!--<Label FormattedText="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />-->
             <mdview:MarkdownView x:Name="mdActions" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Actions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Actions, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Réactions" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />
-            <!--<Label FormattedText="{Binding Item.Reactions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />-->
             <mdview:MarkdownView x:Name="mdReactions" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Reactions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.Reactions, Converter={StaticResource NullToFalseConverter}}" />
 
             <Label Text="Actions légendaires" Style="{StaticResource Key=subsubsection}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
-            <!--<Label FormattedText="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />-->
             <mdview:MarkdownView x:Name="mdLegendaryActions" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.LegendaryActions, Converter={StaticResource HtmlNodesToFormattedStringConverter}}" IsVisible="{Binding Item.LegendaryActions, Converter={StaticResource NullToFalseConverter}}" />
 
             <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
 
             <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
-            <!--<Label Text="{Binding Item.Picture}" Style="{StaticResource Key=content}" />-->
             <Label Text="{Binding Item.Legendary}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
-
-            <Image Source="{Binding Item.Picture}" />
 
         </StackLayout>
     </ScrollView>

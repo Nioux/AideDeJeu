@@ -54,37 +54,7 @@ namespace AideDeJeuLib.Spells
         public string Components { get; set; }
         public string Duration { get; set; }
         public string DescriptionHtml { get; set; }
-        public string DescriptionText
-        {
-            get
-            {
-                return DescriptionDiv?.InnerText?.Replace("\n", "\n\n");
-            }
-        }
-        [IgnoreDataMember]
-        public XmlNode DescriptionDiv
-        {
-            get
-            {
-                if(DescriptionHtml != null)
-                {
-                    XmlDocument xdoc = new XmlDocument();
-                    xdoc.LoadXml(DescriptionHtml);
-                    return xdoc.DocumentElement;
-                    //HtmlDocument doc = new HtmlDocument() { OptionOutputAsXml = true };
-                    //doc.LoadHtml(DescriptionHtml);
-                    //return doc.DocumentNode;
-                }
-                return null;
-            }
-            set
-            {
-                DescriptionHtml = value?.OuterXml;
-            }
-        }
 
-        public string Overflow { get; set; }
-        public string NoOverflow { get; set; }
         public string Source { get; set; }
 
     }
