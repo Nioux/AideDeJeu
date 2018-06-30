@@ -54,8 +54,7 @@ namespace AideDeJeu.Tools
                             //yield return spell;
                         }
                         spell = new Spell();
-                        spell.Name = spell.NamePHB = headingBlock.Inline.ToMarkdownString();
-                        spell.Id = spell.IdVF = spell.IdVO = Tools.Helpers.IdFromName(spell.Name);
+                        spell.Name = headingBlock.Inline.ToMarkdownString();
                         //Console.WriteLine(spell.Name);
                     }
                 }
@@ -235,8 +234,7 @@ namespace AideDeJeu.Tools
                             //yield return monster;
                         }
                         monster = new Monster();
-                        monster.Name = monster.NamePHB = headingBlock.Inline.ToMarkdownString();
-                        monster.Id = monster.IdVF = monster.IdVO = Tools.Helpers.IdFromName(monster.Name);
+                        monster.Name = headingBlock.Inline.ToMarkdownString();
                         //Console.WriteLine(spell.Name);
                     }
                     if (headingBlock.HeaderChar == '#' && headingBlock.Level == 2)
@@ -620,7 +618,7 @@ namespace AideDeJeu.Tools
         public static string ToMarkdownString(this Spell spell)
         {
             var md = string.Empty;
-            md += string.Format("# {0}\n", spell.NamePHB);
+            md += string.Format("# {0}\n", spell.Name);
             md += string.Format("- NameVO: [{0}]\n", spell.NameVO);
             md += string.Format("- CastingTime: {0}\n", spell.CastingTime);
             md += string.Format("- Components: {0}\n", spell.Components);
@@ -667,7 +665,7 @@ namespace AideDeJeu.Tools
         public static string ToMarkdownString(this Monster monster)
         {
             var md = string.Empty;
-            md += string.Format("# {0}\n", monster.NamePHB?.Trim());
+            md += string.Format("# {0}\n", monster.Name?.Trim());
             md += string.Format("- NameVO: [{0}]\n", monster.NameVO?.Trim());
             md += string.Format("- {0} {1}, {2}\n", monster.Size?.Trim(), monster.Type?.Trim(), monster.Alignment?.Trim());
             if (monster.ArmorClass != null) md += string.Format("- **Armor Class** {0}\n", monster.ArmorClass?.Trim());

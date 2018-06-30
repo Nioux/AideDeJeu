@@ -15,7 +15,7 @@
     </ContentPage.Resources>
     <ScrollView VerticalScrollBarVisibility="Default" HorizontalScrollBarVisibility="Default">
         <StackLayout Orientation="Vertical" Padding="15">
-            <Label Text="{Binding Item.NamePHB}" Style="{StaticResource Key=subsection}" />
+            <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsection}" />
             <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.NameVO}" />
 
             <Label Text=" " />

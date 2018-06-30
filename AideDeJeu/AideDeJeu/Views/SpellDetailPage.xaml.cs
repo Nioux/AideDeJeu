@@ -30,7 +30,6 @@ namespace AideDeJeu.Views
             {
                 Name = "",
                 NameVO = "",
-                NamePHB = "",
                 //Description = "This is an item description."
             };
 

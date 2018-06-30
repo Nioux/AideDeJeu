@@ -11,7 +11,7 @@ namespace AideDeJeu.Tools
     {
         public override int Compare(Item x, Item y)
         {
-            return x.NamePHB.CompareTo(y.NamePHB);
+            return x.Name.CompareTo(y.Name);
         }
     }
 

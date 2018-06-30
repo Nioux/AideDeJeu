@@ -19,7 +19,7 @@ namespace AideDeJeuWeb.Controllers
             var md = await AideDeJeu.Tools.Helpers.GetResourceStringAsync("AideDeJeu.Data.spells_hd.md");
             var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
 
-            var fitems = items.Where(it => it.Source.Contains(classe)).OrderBy(it => it.Level).ThenBy(it => it.NamePHB);
+            var fitems = items.Where(it => it.Source.Contains(classe)).OrderBy(it => it.Level).ThenBy(it => it.Name);
 
             var cardDatas = new List<CardData>();
             foreach (var spell in fitems)

@@ -95,7 +95,7 @@ namespace AideDeJeu.ViewModels
 
         public SpellDetailViewModel(Spell item = null)
         {
-            Title = item?.NamePHB;
+            Title = item?.Name;
             Item = item;
             LoadItemCommand = new Command(async () => await ExecuteLoadItemCommand());
         }
