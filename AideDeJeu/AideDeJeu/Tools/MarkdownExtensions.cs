@@ -452,11 +452,11 @@ namespace AideDeJeu.Tools
                 }
                 else if (block is Markdig.Syntax.LinkReferenceDefinition)
                 {
-                    Debug.WriteLine(block.GetType());
+                    //Debug.WriteLine(block.GetType());
                 }
                 else
                 {
-                    Debug.WriteLine(block.GetType());
+                    //Debug.WriteLine(block.GetType());
                 }
             }
             if (monster != null)
@@ -635,18 +635,6 @@ namespace AideDeJeu.Tools
             md += "### Description\n\n";
             md += spell
                 .DescriptionHtml
-                .Replace("<div class=\"description \">", "")
-                .Replace("</div>", "")
-                .Replace("<strong>", "**")
-                .Replace("</strong>", "**")
-                .Replace("<em>", "_")
-                .Replace("</em>", "_")
-                .Replace("<li>", "* ")
-                .Replace("</li>", "")
-                //.Replace("\n", "\n\n")
-                //.Replace("<br/>", "\n\n")
-                .Replace("\n", "\n")
-                .Replace("<br/>", "\n")
                 ;
             md += string.Format("[{0}]: spells_hd.md#{1}\n", spell.NameVO, Helpers.IdFromName(spell.NameVO));
             md += "\n\n";
@@ -686,16 +674,7 @@ namespace AideDeJeu.Tools
             if (monster.DamageImmunities!= null) md += string.Format("- **Damage Immunities** {0}\n", monster.DamageImmunities?.Trim());
             if (monster.DamageResistances != null) md += string.Format("- **Damage Resistances** {0}\n", monster.DamageResistances?.Trim());
             if (monster.DamageVulnerabilities != null) md += string.Format("- **Damage Vulnerabilities** {0}\n", monster.DamageVulnerabilities?.Trim());
-            //md += string.Format("- Components: {0}\n", monster.Components);
-            //md += string.Format("- Duration: {0}\n", monster.Duration);
-            //md += string.Format("- LevelType: {0}\n", monster.LevelType);
-            //md += string.Format("- Range: {0}\n", monster.Range);
-            //var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
-            //var match = regex.Match(monster.Source);
-            //var source = match.Groups["source"].Value;
-            //var classes = match.Groups["classes"].Value;
-            //md += string.Format("- Source: {0}\n", source);
-            //md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
+
             md += "\n";
 
             if (monster.SpecialFeatures != null)
@@ -734,17 +713,6 @@ namespace AideDeJeu.Tools
                 }
             }
 
-            //md += monster
-            //    .Description
-            //    .Replace("<strong>", "**")
-            //    .Replace("</strong>", "**")
-            //    .Replace("<em>", "_")
-            //    .Replace("</em>", "_")
-            //    .Replace("<li>", "* ")
-            //    .Replace("</li>", "")
-            //    .Replace("\n", "\n\n")
-            //    .Replace("<br/>", "\n\n")
-            //    ;
             md += string.Format("[{0}]: monsters_hd.md#{1}\n", monster.NameVO, Helpers.IdFromName(monster.NameVO));
             md += "\n\n";
             return md;
@@ -752,21 +720,8 @@ namespace AideDeJeu.Tools
 
         public static string HtmlToMarkdownString(string html)
         {
-            var regex = new Regex("(<a .*?>)");
-            html = regex.Replace(html, "[");
             return html
-                .Replace("</a>", "]")
-                .Replace("<strong>", "**")
-                .Replace("</strong>", "**")
-                .Replace("<em>", "_")
-                .Replace("</em>", "_")
-                .Replace("<li>", "* ")
-                .Replace("</li>", "")
                 .Replace("\n", "\n\n")
-                .Replace("<br/>", "\n\n")
-                .Replace("<br />", "\n\n")
-                .Replace("<p>", "")
-                .Replace("</p>", "\n\n")
                 ;
         }
 

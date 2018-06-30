@@ -15,13 +15,6 @@ namespace AideDeJeuLib
 
     public class Item
     {
-        public string Id
-        {
-            get
-            {
-                return AideDeJeu.Tools.Helpers.IdFromName(Name);
-            }
-        }
         public string Name { get; set; }
         public string NameVO { get; set; }
 

@@ -23,7 +23,6 @@ namespace AideDeJeu.ViewModels
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
         }
         public ICommand LoadItemsCommand { get; protected set; }
-        //public abstract void ExecuteLoadItemsCommand();
         public abstract Task ExecuteGotoItemCommandAsync(Item item);
         protected ItemSourceType ItemSourceType;
 
@@ -77,24 +76,9 @@ namespace AideDeJeu.ViewModels
             Main.IsLoading = true;
             try
             {
-                // Yan : c'est pas plutôt cette partie qui devrait être dans une autre Task ?
                 var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
                 var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), token);
                 Main.Items = items.ToList();
-                //await Task.Run(async () => {
-                // Yan : plus besoin de boucle si on change toute la liste d'un coup ;)
-                // Yan : indispensable de repasser sur l'ui thread pour la version uwp
-                //Device.BeginInvokeOnMainThread(() => Main.Items = items);
-                //Main.Items.Clear();
-                //foreach (var item in items)
-                //{
-                //    token.ThrowIfCancellationRequested();
-                //    Main.Items.Add(item);
-                //}
-                //}, cancellationToken: token); // Yan : c'est ici qu'il faudrait coller le token non ?
-
-                //On arrete le loading ici car on annule toujours avant de lancer une nouvelle opération
-                // Yan : ?? du coup le IsLoading repasse pas à false en cas de cancel ou d'autre exception ?
                 Main.IsLoading = false;
             }
             catch (OperationCanceledException ex)

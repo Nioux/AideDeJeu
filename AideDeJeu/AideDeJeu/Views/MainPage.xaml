@@ -54,7 +54,6 @@
                             </ListView.ItemTemplate>
                         </ListView>
                     </StackLayout>
-                    <!--<ActivityIndicator AbsoluteLayout.LayoutBounds="0.5,0.5" AbsoluteLayout.LayoutFlags="XProportional, YProportional" IsRunning="{x:Binding IsLoading}" Color="Olive" />-->
                 </ContentPage>
             </x:Arguments>
         </NavigationPage>

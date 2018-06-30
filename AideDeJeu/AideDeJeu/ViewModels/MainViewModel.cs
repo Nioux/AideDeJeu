@@ -168,7 +168,7 @@ namespace AideDeJeu.ViewModels
                 if (file == "spells_hd")
                 {
                     var spells = await GetItemsViewModel(ItemSourceType.SpellHD).GetAllItemsAsync();
-                    var spell = spells.Where(i => i.Id == anchor).FirstOrDefault();
+                    var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (spell != null)
                     {
                         await Navigator.GotoSpellDetailPageAsync(spell);
@@ -177,7 +177,7 @@ namespace AideDeJeu.ViewModels
                 else if (file == "spells_vo")
                 {
                     var spells = await GetItemsViewModel(ItemSourceType.SpellVO).GetAllItemsAsync();
-                    var spell = spells.Where(i => i.Id == anchor).FirstOrDefault();
+                    var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (spell != null)
                     {
                         await Navigator.GotoSpellDetailPageAsync(spell);
@@ -186,7 +186,7 @@ namespace AideDeJeu.ViewModels
                 else if (file == "monsters_hd")
                 {
                     var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
-                    var monster = monsters.Where(i => i.Id == anchor).FirstOrDefault();
+                    var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (monster != null)
                     {
                         await Navigator.GotoMonsterDetailPageAsync(monster);
@@ -195,7 +195,7 @@ namespace AideDeJeu.ViewModels
                 else if (file == "monsters_vo")
                 {
                     var monsters = await GetItemsViewModel(ItemSourceType.MonsterVO).GetAllItemsAsync();
-                    var monster = monsters.Where(i => i.Id == anchor).FirstOrDefault();
+                    var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (monster != null)
                     {
                         await Navigator.GotoMonsterDetailPageAsync(monster);
