@@ -26,7 +26,7 @@ namespace AideDeJeuCmd
                 var document = Markdig.Parsers.MarkdownParser.Parse(md);
                 //DumpMarkdownDocument(document);
 
-                var spellss = document.ToSpells();
+                var spellss = document.ToSpells<SpellHD>();
                 Console.WriteLine("ok");
                 var md2 = spellss.ToMarkdownString();
                 if (md.CompareTo(md2) != 0)
@@ -66,7 +66,7 @@ namespace AideDeJeuCmd
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
-            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
 
             var classes = new string[]
             {

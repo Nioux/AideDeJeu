@@ -13,12 +13,13 @@ namespace AideDeJeuLib
 
     }
 
-    public class Item
+    public abstract class Item
     {
         public string Name { get; set; }
         public string NameVO { get; set; }
 
         public Properties Properties { get; set; }
 
+        public abstract string Markdown { get; }
     }
 }

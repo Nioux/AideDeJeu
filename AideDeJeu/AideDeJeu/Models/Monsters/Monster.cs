@@ -37,5 +37,13 @@ namespace AideDeJeuLib.Monsters
         public IEnumerable<string> Actions { get; set; }
         public IEnumerable<string> Reactions { get; set; }
         public IEnumerable<string> LegendaryActions { get; set; }
+
+        public override string Markdown
+        {
+            get
+            {
+                return "";
+            }
+        }
     }
 }

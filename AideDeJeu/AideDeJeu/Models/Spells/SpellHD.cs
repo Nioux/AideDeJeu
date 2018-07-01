@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Linq;
-using System.Runtime.Serialization;
+using System.Collections.Generic;
+using System.Text;
 using System.Text.RegularExpressions;
-using System.Xml;
-using System.Xml.Serialization;
 
 namespace AideDeJeuLib.Spells
 {
-    public class Spell : Item
+    public class SpellHD : Spell
     {
-        public string LevelType
+        public new string LevelType
         {
             get
             {
@@ -46,31 +44,9 @@ namespace AideDeJeuLib.Spells
                         this.Level = "0"; // match.Groups["level"].Value;
                         this.Rituel = match.Groups["rituel"].Value;
                     }
-                    else
-                    {
-                        System.Diagnostics.Debug.WriteLine(value);
-                        //re = new Regex("level (?<level>\\d) - (?<type>.*?)\\w?(?<rituel>\\(ritual\\))?");
-                        re = new Regex("^(?<level>\\d) - (?<type>.*?)\\s?(?<rituel>\\(ritual\\))?$");
-                        match = re.Match(value);
-                        this.Type = match.Groups["type"].Value;
-                        this.Level = match.Groups["level"].Value;
-                        this.Rituel = match.Groups["rituel"].Value;
-                    }
                 }
             }
         }
-        public string Level { get; set; }
-        public string Type { get; set; }
-        public string Concentration { get; set; }
-        public string Rituel { get; set; }
-        public string CastingTime { get; set; }
-        public string Range { get; set; }
-        public string Components { get; set; }
-        public string Duration { get; set; }
-        public string DescriptionHtml { get; set; }
-
-        public string Source { get; set; }
-
         public override string Markdown
         {
             get
@@ -88,5 +64,6 @@ namespace AideDeJeuLib.Spells
 
             }
         }
+
     }
 }

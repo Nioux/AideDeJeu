@@ -14,11 +14,11 @@ namespace AideDeJeu.Tools
 {
     public static class MarkdownExtensions
     {
-        public static IEnumerable<Spell> MarkdownToSpells(string md)
+        public static IEnumerable<TSpell> MarkdownToSpells<TSpell>(string md) where TSpell : Spell, new()
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
             var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
-            return document.ToSpells();
+            return document.ToSpells<TSpell>();
         }
 
         public static IEnumerable<Monster> MarkdownToMonsters(string md)
@@ -35,10 +35,10 @@ namespace AideDeJeu.Tools
             return md;
         }
 
-        public static IEnumerable<Spell> ToSpells(this Markdig.Syntax.MarkdownDocument document)
+        public static IEnumerable<TSpell> ToSpells<TSpell>(this Markdig.Syntax.MarkdownDocument document) where TSpell : Spell, new()
         {
-            var spells = new List<Spell>();
-            Spell spell = null;
+            var spells = new List<TSpell>();
+            TSpell spell = null;
             foreach (var block in document)
             {
                 //DumpBlock(block);
@@ -53,7 +53,7 @@ namespace AideDeJeu.Tools
                             spells.Add(spell);
                             //yield return spell;
                         }
-                        spell = new Spell();
+                        spell = new TSpell();
                         spell.Name = headingBlock.Inline.ToMarkdownString();
                         //Console.WriteLine(spell.Name);
                     }
@@ -93,17 +93,17 @@ namespace AideDeJeu.Tools
                                         //DumpParagraphBlock(paragraphBlock);
                                         var str = paragraphBlock.Inline.ToMarkdownString();
 
-                                        var properties = new List<Tuple<string, Action<Spell, string>>>()
+                                        var properties = new List<Tuple<string, Action<TSpell, string>>>()
                                         {
-                                            new Tuple<string, Action<Spell, string>>("NameVO: ", (m, s) => m.NameVO = s),
-                                            new Tuple<string, Action<Spell, string>>("CastingTime: ", (m, s) => m.CastingTime = s),
-                                            new Tuple<string, Action<Spell, string>>("Components: ", (m, s) => m.Components = s),
-                                            new Tuple<string, Action<Spell, string>>("Duration: ", (m, s) => m.Duration = s),
-                                            new Tuple<string, Action<Spell, string>>("LevelType: ", (m, s) => m.LevelType = s),
-                                            new Tuple<string, Action<Spell, string>>("Range: ", (m, s) => m.Range = s),
-                                            new Tuple<string, Action<Spell, string>>("Source: ", (m, s) => m.Source = s),
-                                            new Tuple<string, Action<Spell, string>>("Classes: ", (m, s) => m.Source += s),
-                                            new Tuple<string, Action<Spell, string>>("", (m,s) =>
+                                            new Tuple<string, Action<TSpell, string>>("NameVO: ", (m, s) => m.NameVO = s),
+                                            new Tuple<string, Action<TSpell, string>>("CastingTime: ", (m, s) => m.CastingTime = s),
+                                            new Tuple<string, Action<TSpell, string>>("Components: ", (m, s) => m.Components = s),
+                                            new Tuple<string, Action<TSpell, string>>("Duration: ", (m, s) => m.Duration = s),
+                                            new Tuple<string, Action<TSpell, string>>("LevelType: ", (m, s) => m.LevelType = s),
+                                            new Tuple<string, Action<TSpell, string>>("Range: ", (m, s) => m.Range = s),
+                                            new Tuple<string, Action<TSpell, string>>("Source: ", (m, s) => m.Source = s),
+                                            new Tuple<string, Action<TSpell, string>>("Classes: ", (m, s) => m.Source += s),
+                                            new Tuple<string, Action<TSpell, string>>("", (m,s) =>
                                             {
                                                 //if (m.Alignment != null)
                                                 //{

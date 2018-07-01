@@ -17,7 +17,7 @@ namespace AideDeJeu.Views
 
             BindingContext = this.viewModel = viewModel;
 
-            mdNameVO.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
+            //mdNameVO.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
             mdDescription.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
 
         }
