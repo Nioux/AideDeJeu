@@ -14,8 +14,7 @@ namespace AideDeJeu.ViewModels
     public interface INavigator
     {
         Task GotoAboutPageAsync();
-        Task GotoMonsterDetailPageAsync(Item item);
-        Task GotoSpellDetailPageAsync(Item item);
+        Task GotoItemDetailPageAsync(Item item);
     }
     public class Navigator : INavigator
     {
@@ -31,26 +30,14 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new Views.AboutPage());
         }
 
-        public async Task GotoMonsterDetailPageAsync(Item item)
+        public async Task GotoItemDetailPageAsync(Item item)
         {
-            var monster = item as Monster;
             if (item == null)
                 return;
 
-            var vm = new MonsterDetailViewModel(monster);
+            var vm = new ItemDetailViewModel(item);
             vm.LoadItemCommand.Execute(null);
-            await Navigation.PushAsync(new MonsterDetailPage(vm));
-        }
-
-        public async Task GotoSpellDetailPageAsync(Item item)
-        {
-            var spell = item as Spell;
-            if (item == null)
-                return;
-
-            var vm = new SpellDetailViewModel(spell);
-            vm.LoadItemCommand.Execute(null);
-            await Navigation.PushAsync(new SpellDetailPage(vm));
+            await Navigation.PushAsync(new ItemDetailPage(vm));
         }
 
 

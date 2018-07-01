@@ -36,11 +36,8 @@
     <Compile Update="Views\AboutPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\MonsterDetailPage.xaml.cs">
-      <DependentUpon>MonsterDetailPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="Views\SpellDetailPage.xaml.cs">
-      <DependentUpon>SpellDetailPage.xaml</DependentUpon>
+    <Compile Update="Views\ItemDetailPage.xaml.cs">
+      <DependentUpon>ItemDetailPage.xaml</DependentUpon>
     </Compile>
     <Compile Update="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>

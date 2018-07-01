@@ -12,19 +12,20 @@ using System.Linq;
 using AideDeJeuLib.Spells;
 using System.Text;
 using System.Globalization;
+using AideDeJeuLib;
 
 namespace AideDeJeu.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class MonsterDetailPage : ContentPage
+	public partial class ItemDetailPage : ContentPage
 	{
-        MonsterDetailViewModel viewModel;
+        ItemDetailViewModel viewModel;
 
-        public MonsterDetailPage(MonsterDetailViewModel viewModel)
+        public ItemDetailPage(ItemDetailViewModel itemVM)
         {
             InitializeComponent();
 
-            BindingContext = this.viewModel = viewModel;
+            BindingContext = this.viewModel = itemVM;
 
             mdMarkdown.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
             //mdNameVO.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
@@ -34,7 +35,7 @@ namespace AideDeJeu.Views
             //mdLegendaryActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
         }
 
-        public MonsterDetailPage()
+        public ItemDetailPage()
         {
             InitializeComponent();
 
@@ -45,7 +46,7 @@ namespace AideDeJeu.Views
                 //Description = "This is an item description."
             };
 
-            viewModel = new MonsterDetailViewModel(item);
+            viewModel = new ItemDetailViewModel(item);
             BindingContext = viewModel;
         }
 

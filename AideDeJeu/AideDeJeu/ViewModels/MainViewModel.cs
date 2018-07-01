@@ -27,13 +27,10 @@ namespace AideDeJeu.ViewModels
     {
         Spell = 0x01,
         Monster = 0x10,
-        //VF = 0x0100,
         VO = 0x1100,
         HD = 0x1000,
-        //SpellVF = Spell | VF,
         SpellVO = Spell | VO,
         SpellHD = Spell | HD,
-        //MonsterVF = Monster | VF,
         MonsterVO = Monster | VO,
         MonsterHD = Monster | HD,
     }
@@ -64,12 +61,10 @@ namespace AideDeJeu.ViewModels
 
         public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
         {
-            //{ ItemSourceType.SpellVF, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVF)) },
-            { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellVO)) },
-            { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new SpellsViewModel(ItemSourceType.SpellHD)) },
-            //{ ItemSourceType.MonsterVF, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVF)) },
-            { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterVO)) },
-            { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new MonstersViewModel(ItemSourceType.MonsterHD)) },
+            { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.SpellVO)) },
+            { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.SpellHD)) },
+            { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.MonsterVO)) },
+            { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.MonsterHD)) },
         };
 
         public ItemsViewModel GetItemsViewModel(ItemSourceType itemSourceType)
@@ -79,10 +74,8 @@ namespace AideDeJeu.ViewModels
 
         public Dictionary<ItemSourceType, Lazy<FilterViewModel>> AllFiltersViewModel = new Dictionary<ItemSourceType, Lazy<FilterViewModel>>()
         {
-            //{ ItemSourceType.SpellVF, new Lazy<FilterViewModel>(() => new VFSpellFilterViewModel()) },
             { ItemSourceType.SpellVO, new Lazy<FilterViewModel>(() => new VOSpellFilterViewModel()) },
             { ItemSourceType.SpellHD, new Lazy<FilterViewModel>(() => new HDSpellFilterViewModel()) },
-            //{ ItemSourceType.MonsterVF, new Lazy<FilterViewModel>(() => new VFMonsterFilterViewModel()) },
             { ItemSourceType.MonsterVO, new Lazy<FilterViewModel>(() => new VOMonsterFilterViewModel()) },
             { ItemSourceType.MonsterHD, new Lazy<FilterViewModel>(() => new HDMonsterFilterViewModel()) },
         };
@@ -171,7 +164,7 @@ namespace AideDeJeu.ViewModels
                     var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (spell != null)
                     {
-                        await Navigator.GotoSpellDetailPageAsync(spell);
+                        await Navigator.GotoItemDetailPageAsync(spell);
                     }
                 }
                 else if (file == "spells_vo")
@@ -180,7 +173,7 @@ namespace AideDeJeu.ViewModels
                     var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (spell != null)
                     {
-                        await Navigator.GotoSpellDetailPageAsync(spell);
+                        await Navigator.GotoItemDetailPageAsync(spell);
                     }
                 }
                 else if (file == "monsters_hd")
@@ -189,7 +182,7 @@ namespace AideDeJeu.ViewModels
                     var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (monster != null)
                     {
-                        await Navigator.GotoMonsterDetailPageAsync(monster);
+                        await Navigator.GotoItemDetailPageAsync(monster);
                     }
                 }
                 else if (file == "monsters_vo")
@@ -198,7 +191,7 @@ namespace AideDeJeu.ViewModels
                     var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (monster != null)
                     {
-                        await Navigator.GotoMonsterDetailPageAsync(monster);
+                        await Navigator.GotoItemDetailPageAsync(monster);
                     }
                 }
                 else

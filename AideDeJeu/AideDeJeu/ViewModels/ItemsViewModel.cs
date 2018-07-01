@@ -13,7 +13,7 @@ using System.Linq;
 
 namespace AideDeJeu.ViewModels
 {
-    public abstract class ItemsViewModel : BaseViewModel
+    public class ItemsViewModel : BaseViewModel
     {
         CancellationTokenSource cancellationTokenSource;
 
@@ -23,7 +23,10 @@ namespace AideDeJeu.ViewModels
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
         }
         public ICommand LoadItemsCommand { get; protected set; }
-        public abstract Task ExecuteGotoItemCommandAsync(Item item);
+        public async Task ExecuteGotoItemCommandAsync(Item item)
+        {
+            await Main.Navigator.GotoItemDetailPageAsync(item);
+        }
         protected ItemSourceType ItemSourceType;
 
 

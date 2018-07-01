@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             x:Class="AideDeJeu.Views.ItemDetailPage"
+             Title="{Binding Title}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:StringListToStringConverter x:Key="StringListToStringConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
+        <StackLayout Orientation="Vertical" Padding="15">
+            <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Markdown}" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
