@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
-             xmlns:mdview="clr-namespace:Xam.Forms.Markdown;assembly=Xam.Forms.MarkdownView"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              x:Class="AideDeJeu.Views.MonsterDetailPage"
              Title="{Binding Title}">
     <ContentPage.Resources>

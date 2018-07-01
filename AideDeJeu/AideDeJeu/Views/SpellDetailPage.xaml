@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
-             xmlns:mdview="clr-namespace:Xam.Forms.Markdown;assembly=Xam.Forms.MarkdownView"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              x:Class="AideDeJeu.Views.SpellDetailPage"
              Title="{Binding Title}">
     <ContentPage.Resources>
