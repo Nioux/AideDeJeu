@@ -26,18 +26,19 @@ namespace AideDeJeu.Views
 
             BindingContext = this.viewModel = viewModel;
 
-            mdNameVO.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            mdSpecialFeatures.NavigateToLink = async(s) => await viewModel.Main.NavigateToLink(s);
-            mdActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            mdReactions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            mdLegendaryActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
+            mdMarkdown.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
+            //mdNameVO.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
+            //mdSpecialFeatures.NavigateToLink = async(s) => await viewModel.Main.NavigateToLink(s);
+            //mdActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
+            //mdReactions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
+            //mdLegendaryActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
         }
 
         public MonsterDetailPage()
         {
             InitializeComponent();
 
-            var item = new Monster
+            var item = new MonsterHD
             {
                 Name = "",
                 NameVO = "",

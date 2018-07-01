@@ -48,7 +48,7 @@ namespace AideDeJeuCmd
                 var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
 
-                var monsters = document.ToMonsters();
+                var monsters = document.ToMonsters<MonsterHD>();
                 document.Dump();
                 Console.WriteLine("ok");
                 //var md2 = monsters.ToMarkdownString();

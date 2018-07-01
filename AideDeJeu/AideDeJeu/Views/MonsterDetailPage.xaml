@@ -16,10 +16,11 @@
     <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
         <StackLayout Orientation="Vertical" Padding="15">
 
-            <skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
+            <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Markdown}" />
+            <!--<skia:SKCanvasView PaintSurface="PaintHeaderBar" HorizontalOptions="FillAndExpand" HeightRequest="8" />
             
             <Label Text="{Binding Item.Name}" Style="{StaticResource Key=subsection}" />
-            <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.NameVO}" />
+            <mdview:MarkdownView x:Name="mdNameVO" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Markdown}" />
 
             <Label FormattedText="{Binding TypeSizeAlignment}" />
 
@@ -88,7 +89,7 @@
 
             <Label Text="{Binding Item.Description}" Style="{StaticResource Key=content}" />
             <Label Text="{Binding Item.Legendary}" Style="{StaticResource Key=content}" />
-            <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />
+            <Label Text="{Binding Item.Source}" Style="{StaticResource Key=content}" />-->
 
         </StackLayout>
     </ScrollView>

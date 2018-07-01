@@ -39,7 +39,7 @@ namespace AideDeJeu.ViewModels
                         {
                             resourceName = "AideDeJeu.Data.monsters_vo.md";
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(md);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterVO>(md);
                         }
                         break;
                     case ItemSourceType.MonsterHD:
@@ -47,7 +47,7 @@ namespace AideDeJeu.ViewModels
                             resourceName = "AideDeJeu.Data.monsters_hd.md";
                             //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters(md);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterHD>(md);
                         }
                         break;
                     case ItemSourceType.SpellVO:

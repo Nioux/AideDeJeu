@@ -6,7 +6,7 @@ using System.Xml;
 
 namespace AideDeJeuLib.Monsters
 {
-    public class Monster : Item
+    public abstract class Monster : Item
     {
         public string Type { get; set; }
         public string Size { get; set; }
@@ -38,12 +38,5 @@ namespace AideDeJeuLib.Monsters
         public IEnumerable<string> Reactions { get; set; }
         public IEnumerable<string> LegendaryActions { get; set; }
 
-        public override string Markdown
-        {
-            get
-            {
-                return "";
-            }
-        }
     }
 }

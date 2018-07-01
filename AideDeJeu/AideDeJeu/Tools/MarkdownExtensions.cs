@@ -21,11 +21,11 @@ namespace AideDeJeu.Tools
             return document.ToSpells<TSpell>();
         }
 
-        public static IEnumerable<Monster> MarkdownToMonsters(string md)
+        public static IEnumerable<Monster> MarkdownToMonsters<TMonster>(string md) where TMonster : Monster, new()
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
             var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
-            return document.ToMonsters();
+            return document.ToMonsters<TMonster>();
         }
 
         public static string MarkdownToHtml(string md)
@@ -200,10 +200,10 @@ namespace AideDeJeu.Tools
             return spells;
         }
 
-        public static IEnumerable<Monster> ToMonsters(this Markdig.Syntax.MarkdownDocument document)
+        public static IEnumerable<TMonster> ToMonsters<TMonster>(this Markdig.Syntax.MarkdownDocument document) where TMonster : Monster, new()
         {
-            var monsters = new List<Monster>();
-            Monster monster = null;
+            var monsters = new List<TMonster>();
+            TMonster monster = null;
             List<string> features = null;
             List<string> specialFeatures = null;
             List<string> actions = null;
@@ -233,7 +233,7 @@ namespace AideDeJeu.Tools
                             monsters.Add(monster);
                             //yield return monster;
                         }
-                        monster = new Monster();
+                        monster = new TMonster();
                         monster.Name = headingBlock.Inline.ToMarkdownString();
                         //Console.WriteLine(spell.Name);
                     }
