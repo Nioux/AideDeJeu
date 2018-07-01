@@ -26,7 +26,7 @@ namespace AideDeJeu.Views
         {
             InitializeComponent();
 
-            var item = new Spell
+            var item = new SpellHD
             {
                 Name = "",
                 NameVO = "",

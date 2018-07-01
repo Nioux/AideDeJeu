@@ -7,7 +7,7 @@ namespace AideDeJeuLib.Spells
 {
     public class SpellVO : Spell
     {
-        public new string LevelType
+        public override string LevelType
         {
             get
             {

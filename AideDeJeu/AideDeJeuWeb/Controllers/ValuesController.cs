@@ -17,7 +17,7 @@ namespace AideDeJeuWeb.Controllers
         {
             //var items = AideDeJeu.Tools.Helpers.GetResourceObject<IEnumerable<Spell>>("AideDeJeu.Data.spells_vf.json");
             var md = await AideDeJeu.Tools.Helpers.GetResourceStringAsync("AideDeJeu.Data.spells_hd.md");
-            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells(md);
+            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
 
             var fitems = items.Where(it => it.Source.Contains(classe)).OrderBy(it => it.Level).ThenBy(it => it.Name);
 
