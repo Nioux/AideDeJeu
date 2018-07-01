@@ -22,6 +22,11 @@ namespace AideDeJeuLib.Monsters
                     $"|---|---|---|---|---|---|\n" +
                     $"|{Strength}|{Dexterity}|{Constitution}|{Intelligence}|{Wisdom}|{Charisma}|\n\n" +
                     $"**Compétences** {Skills}\n" +
+                    (SavingThrows != null ? $"**Jets de sauvegarde** {SavingThrows}\n" : "") +
+                    (DamageVulnerabilities != null ? $"**Vulnérabilité aux dégâts** {DamageVulnerabilities}\n" : "") +
+                    (DamageImmunities != null ? $"**Immunité contre les dégâts** {DamageImmunities}\n" : "") +
+                    (ConditionImmunities != null ? $"**Immunité contre les états** {ConditionImmunities}\n" : "") +
+                    (DamageResistances != null ? $"**Résistance aux dégâts** {DamageResistances}\n" : "") +
                     $"**Sens** {Senses}\n" +
                     $"**Langues** {Languages}\n" +
                     $"**Dangerosité** {Challenge}\n\n" +
@@ -29,32 +34,6 @@ namespace AideDeJeuLib.Monsters
                     (Actions != null ? $"## Actions\n\n" + Actions.Aggregate((s1, s2) => s1 + "\n\n" + s2) : "") +
                     (Reactions != null ? $"## Réactions\n\n" + Reactions.Aggregate((s1, s2) => s1 + "\n\n" + s2) : "") +
                     (LegendaryActions != null ? $"## Actions Légendaires\n\n" + LegendaryActions.Aggregate((s1, s2) => s1 + "\n\n" + s2) : "");
-
-                //public string Type { get; set; }
-                //public string Size { get; set; }
-                //public string Alignment { get; set; }
-                //public string Legendary { get; set; }
-                //public string Source { get; set; }
-                //public string ArmorClass { get; set; }
-                //public string HitPoints { get; set; }
-                //public string Speed { get; set; }
-                //public string Strength { get; set; }
-                //public string Dexterity { get; set; }
-                //public string Constitution { get; set; }
-                //public string Intelligence { get; set; }
-                //public string Wisdom { get; set; }
-                //public string Charisma { get; set; }
-                //public string SavingThrows { get; set; }
-                //public string Skills { get; set; }
-                //public string DamageVulnerabilities { get; set; }
-                //public string DamageImmunities { get; set; }
-                //public string ConditionImmunities { get; set; }
-                //public string DamageResistances { get; set; }
-                //public string Senses { get; set; }
-                //public string Languages { get; set; }
-                //public string Challenge { get; set; }
-                //public string Description { get; set; }
-                //        return "";
             }
         }
     }
