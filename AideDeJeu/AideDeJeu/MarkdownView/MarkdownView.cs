@@ -233,15 +233,23 @@
             }
             else
             {
-                bullet = new BoxView
+                bullet = new Label
                 {
-                    WidthRequest = 4,
-                    HeightRequest = 4,
-                    Margin = new Thickness(0, 6, 0, 0),
-                    BackgroundColor = this.Theme.Paragraph.ForegroundColor,
+                    Text = "●",
+                    FontSize = this.Theme.Paragraph.FontSize,
+                    TextColor = this.Theme.Paragraph.ForegroundColor,
                     VerticalOptions = LayoutOptions.Start,
-                    HorizontalOptions = LayoutOptions.Center,
+                    HorizontalOptions = LayoutOptions.End,
                 };
+                //bullet = new BoxView
+                //{
+                //    WidthRequest = 4,
+                //    HeightRequest = 4,
+                //    Margin = new Thickness(0, 6, 0, 0),
+                //    BackgroundColor = this.Theme.Paragraph.ForegroundColor,
+                //    VerticalOptions = LayoutOptions.Start,
+                //    HorizontalOptions = LayoutOptions.Center,
+                //};
             }
 
             horizontalStack.Children.Add(bullet);
