@@ -28,11 +28,6 @@ namespace AideDeJeu.Views
             BindingContext = this.viewModel = itemVM;
 
             mdMarkdown.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            //mdNameVO.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            //mdSpecialFeatures.NavigateToLink = async(s) => await viewModel.Main.NavigateToLink(s);
-            //mdActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            //mdReactions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
-            //mdLegendaryActions.NavigateToLink = async (s) => await viewModel.Main.NavigateToLink(s);
         }
 
         public ItemDetailPage()

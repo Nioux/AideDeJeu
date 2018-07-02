@@ -73,16 +73,15 @@ namespace AideDeJeu.ViewModels
             return _AllItems;
         }
 
-        async Task LoadItemsAsync(CancellationToken token = default)
+        async Task LoadItemsAsync(CancellationToken cancellationToken = default)
         {
             IsBusy = true;
             Main.IsLoading = true;
             try
             {
                 var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
-                var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), token);
+                var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), cancellationToken: cancellationToken);
                 Main.Items = items.ToList();
-                Main.IsLoading = false;
             }
             catch (OperationCanceledException ex)
             {
@@ -90,16 +89,14 @@ namespace AideDeJeu.ViewModels
             }
             finally
             {
+                Main.IsLoading = false;
                 IsBusy = false;
             }
         }
 
         public async Task ExecuteLoadItemsCommandAsync()
         {
-            if (cancellationTokenSource != null)
-            {
-                cancellationTokenSource.Cancel();
-            }
+            cancellationTokenSource?.Cancel();
             cancellationTokenSource = new CancellationTokenSource();
             await LoadItemsAsync(cancellationTokenSource.Token);
         }
