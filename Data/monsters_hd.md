@@ -110,7 +110,7 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le je
 
 - **Résistance aux dégâts** d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [à terre], [charmé], [empoigné], [empoisonné], épuisé, [entravé], [paralysé] et [pétrifié]
+- **Immunité contre les états** [à terre], [charmé], [empoigné], [empoisonné], [épuisé], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** celles qu'elle connaissait de son vivant
 - **Dangerosité** 5 (1 800 PX)
@@ -180,7 +180,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 - **Jets de sauvegarde** Sag +9, Cha +9
 - **Compétences** Perception +9, Perspicacité +9
 - **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé] et épuisé
+- **Immunité contre les états** [charmé], [terrorisé] et [épuisé]
 - **Sens** vision dans le noir 36 m, Perception passive 19
 - **Langues** toutes, télépathie 36 m
 - **Dangerosité** 10 (5 900 PX)
@@ -224,7 +224,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 - **Jets de sauvegarde** Con +12, Sag +11, Cha +12
 - **Compétences** Perception +11
 - **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé] et épuisé
+- **Immunité contre les états** [charmé], [terrorisé] et [épuisé]
 - **Sens** vision parfaite 36 m, Perception passive 21
 - **Langues** toutes, télépathie 36 m
 - **Dangerosité** 16 (15 000 PX)
@@ -271,7 +271,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 - **Compétence** Perception +14
 - **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné] et épuisé
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné] et [épuisé]
 - **Sens** vision parfaite 36 m, Perception passive 24
 - **Langues** toutes, télépathie 36 m
 - **Dangerosité** 21 (33 000 PX)
@@ -3969,7 +3969,7 @@ Touché : 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il s
 
 - **Résistances aux dégâts** de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [à terre], [empoigné], [empoisonné], [entravé], épuisé, [inconscient], [paralysé] et [pétrifié]
+- **Immunités contre les états** [à terre], [empoigné], [empoisonné], [entravé], [épuisé], [inconscient], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** aérien
 - **Dangerosité** 5 (1 800 PX)
@@ -4006,7 +4006,7 @@ Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts cont
 
 - **Résistance aux dégâts** d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé], [paralysé] et [pétrifié]
+- **Immunités contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** aquatique
 - **Dangerosité** 5 (1 800 PX)
@@ -4043,7 +4043,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé], [paralysé] et [pétrifié]
+- **Immunité contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** ignée
 - **Dangerosité** 5 (1 800 PX)
@@ -4079,7 +4079,7 @@ Touché : 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou un
 - **Vulnérabilité aux dégâts** de tonnerre
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [empoisonné], épuisé, [inconscient], [paralysé] et [pétrifié]
+- **Immunités contre les états** [empoisonné], [épuisé], [inconscient], [paralysé] et [pétrifié]
 - **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
 - **Langue** terreux
 - **Dangerosité** 5 (1 800 PX)
@@ -4260,7 +4260,7 @@ Touché : 14 (2d8+5) dégâts perforants.
 
 - **Résistance aux dégâts** d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de froid, de poison et nécrotiques
-- **Immunités contre les états** [à terre], [charmé], [empoigné], [empoisonné], épuisé, [entravé], [paralysé], [pétrifié] et [terrorisé]
+- **Immunités contre les états** [à terre], [charmé], [empoigné], [empoisonné], [épuisé], [entravé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** toutes les langues qu'il connaissait de son vivant
 - **Dangerosité** 4 (1 100 PX)
@@ -4301,7 +4301,7 @@ Visage terrifiant. Toutes les créatures, à l'exception des morts-vivants, situ
 
 - **Résistance aux dégâts** d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de foudre et de poison
-- **Immunité contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé] et [paralysé]
+- **Immunité contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé] et [paralysé]
 - **Sens** vision dans le noir 36 m, Perception passive 12
 - **Langues** celles qu'il connaissait de son vivant
 - **Dangerosité** 2 (450 PX)
@@ -4336,7 +4336,7 @@ Invisibilité. Le feu follet et la lumière qu'il diffuse deviennent [invisibles
 |18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
 
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], épuisé et [paralysé]
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]
 - **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
 - **Dangerosité** 7 (2 900 PX)
@@ -4377,7 +4377,7 @@ Protection. Quand une créature effectue une attaque contre le porteur de son am
 
 - **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné], épuisé et [pétrifié]
+- **Immunité contre les états** [empoisonné], [épuisé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** terreux
 - **Dangerosité** 2 (450 PX)
@@ -5041,7 +5041,7 @@ Touché : 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâts
 |20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
 
 - **Immunité contre les dégâts** d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
+- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 9 (5 000 PX)
@@ -5085,7 +5085,7 @@ Hâte (Recharge 5-6). Jusqu'à la fin de son prochain tour, le golem bénéficie
 |19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
 
 - **Immunité contre les dégâts** de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
+- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 5 (1 800 PX)
@@ -5135,7 +5135,7 @@ Touché : 13 (2d8+4) dégâts contondants.
 |24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
 - **Immunité contre les dégâts** de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
+- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 16 (15 000 PX)
@@ -5177,7 +5177,7 @@ Souffle [empoisonné] (Recharge 6). Le golem souffle du gaz [empoisonné] dans u
 |22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
 - **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
+- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 10 (5 900 PX)
@@ -5249,7 +5249,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un jet de sauv
 |13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
 
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [charmé], [empoisonné] et épuisé
+- **Immunités contre les états** [charmé], [empoisonné] et [épuisé]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** commun
 - **Dangerosité** 1 (200 PX)
@@ -5278,7 +5278,7 @@ Touché : 9 (2d6+2) dégâts perforants.
 
 - **Résistance aux dégâts** nécrotiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [charmé], [empoisonné] et épuisé
+- **Immunités contre les états** [charmé], [empoisonné] et [épuisé]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** commun
 - **Dangerosité** 2 (450 PX)
@@ -6003,7 +6003,7 @@ Touché : 14 (2d10+3) dégâts tranchants.
 - **Jets de sauvegarde** CON +10, INT +12, SAG +9
 - **Résistance aux dégâts** de froid, de foudre, nécrotiques
 - **Immunité contre les dégâts** de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], épuisé, [empoisonné], [paralysé] et [terrorisé]
+- **Immunité contre les états** [charmé], [épuisé], [empoisonné], [paralysé] et [terrorisé]
 - **Sens** vision parfaite 36 m, Perception passive 19
 - **Langues** commun et jusqu'à cinq autres langues
 - **Dangerosité** 21 (33 000 PX)
@@ -6843,7 +6843,7 @@ Souffle de feu (Recharge 5-6). Le molosse souffle du feu sur un cône de 4,50 m�
 - **Vulnérabilité aux dégâts** de feu
 - **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], épuisé et [paralysé]
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** celles qu'elle connaissait de son vivant
 - **Dangerosité** 3 (700 PX)
@@ -6875,7 +6875,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 - **Compétences** Histoire +5, Religion +5
 - **Vulnérabilité aux dégâts** de feu
 - **Immunité contre les dégâts** de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], épuisé et [paralysé]
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langues** celles qu'elle connaissait de son vivant
 - **Dangerosité** 15 (13 000 PX)
@@ -7039,7 +7039,7 @@ Touché : 8 (1d8+4) dégâts perforants et la cible doit effectuer un jet de sau
 - **Compétences** Discrétion +4, Perception +3
 - **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et épuisé
+- **Immunité contre les états** [empoisonné] et [épuisé]
 - **Sens** vision dans le noir 18 m, Perception passive 13
 - **Langues** celles qu'il connaissait de son vivant
 - **Dangerosité** 3 (700 PX)
@@ -7080,7 +7080,7 @@ Touché : 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si ell
 |14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
 
 - **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
+- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
 - **Langues** —
 - **Dangerosité** 1 (200 PX)
@@ -7207,7 +7207,7 @@ Touché : 13 (2d8+4) dégâts contondants.
 - **Vulnérabilité aux dégâts** radiants
 - **Résistance aux dégâts** d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [à terre], [terrorisé], [empoigné], [empoisonné], épuisé, [entravé] [paralysé] et [pétrifié]
+- **Immunité contre les états** [à terre], [terrorisé], [empoigné], [empoisonné], [épuisé], [entravé] [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -7881,7 +7881,7 @@ Touché : 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle d
 
 - **Résistance aux dégâts** acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** nécrotiques et de poison
-- **Immunité contre les états** [à terre], [charmé], [entravé], [empoigné], [empoisonné], épuisé, [inconscient], [paralysé], [pétrifié]
+- **Immunité contre les états** [à terre], [charmé], [entravé], [empoigné], [empoisonné], [épuisé], [inconscient], [paralysé], [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
 - **Dangerosité** 1 (200 PX)
@@ -8038,7 +8038,7 @@ Téléportation (coûte 2 actions). Le sphinx se téléporte par magie, avec tou
 
 - **Vulnérabilité aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et épuisé
+- **Immunité contre les états** [empoisonné] et [épuisé]
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
 - **Dangerosité** 1/4 (50 PX)
@@ -8066,7 +8066,7 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 - **Vulnérabilité aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et épuisé
+- **Immunité contre les états** [empoisonné] et [épuisé]
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -8090,7 +8090,7 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 - **Vulnérabilité aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et épuisé
+- **Immunité contre les états** [empoisonné] et [épuisé]
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** comprend l'abyssal mais ne peut pas parler
 - **Dangerosité** 2 (450 PX)
@@ -8355,7 +8355,7 @@ Onde vibratoire (Recharge 5-6). La larve des roches produit une onde sur un côn
 - **Compétences** Discrétion +2
 - **Résistance aux dégâts** de feu et de froid
 - **Immunité contre les dégâts** de foudre
-- **Immunité contre les états** [assourdi], [aveuglé] et épuisé
+- **Immunité contre les états** [assourdi], [aveuglé] et [épuisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
 - **Langues** —
 - **Dangerosité** 5 (1 800 PX)
@@ -8420,7 +8420,7 @@ Touché : 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 - **Compétences** Discrétion +10, Perception +8
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé], [paralysé] et [pétrifié]
+- **Immunité contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 18
 - **Langues** aérien, comprend le commun mais ne peut pas le parler
 - **Dangerosité** 6 (2 300 PX)
@@ -8614,7 +8614,7 @@ Touché : 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le t
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
+- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
@@ -8661,7 +8661,7 @@ Touché : 10 (3d6) dégâts d'acide.
 
 - **Résistance aux dégâts** d'acide
 - **Immunité contre les dégâts** de foudre et tranchants
-- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
+- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
@@ -8695,7 +8695,7 @@ Division. Quand une gelée de taille M ou plus grande subit des dégâts trancha
 |16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
 
 - **Immunité contre les dégâts** d'acide, de foudre, de froid, tranchants
-- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
+- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 4 (1 100 PX)
@@ -8734,7 +8734,7 @@ Division. Quand un pouding de taille M ou plus grand subit des dégâts tranchan
 
 - **Compétences** Discrétion +2
 - **Résistances aux dégâts** d'acide, de feu et de froid
-- **Immunités contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
+- **Immunités contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -9500,7 +9500,7 @@ Touché : 11 (2d6+4) dégâts contondants.
 - **Compétences** Perception +6
 - **Résistance aux dégâts** nécrotiques
 - **Immunité aux dégâts** poison
-- **Immunité contre les états** [empoisonné], [charmé], [terrorisé] et épuisé
+- **Immunité contre les états** [empoisonné], [charmé], [terrorisé] et [épuisé]
 - **Sens** vision dans le noir 36 m, Perception passive 17
 - **Langues** comprend le commun et le céleste mais ne peut pas parler
 - **Dangerosité** 2 (450 PX)
