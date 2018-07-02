@@ -88,6 +88,45 @@ namespace AideDeJeu.ViewModels
         }
     }
 
+    public class SearchFilterViewModel : FilterViewModel
+    {
+        private IEnumerable<Filter> _Filters = null;
+        public override IEnumerable<Filter> Filters
+        {
+            get
+            {
+                if (_Filters == null)
+                {
+                    _Filters = new List<Filter>()
+                    {
+                    };
+                }
+                return _Filters;
+            }
+        }
+
+
+        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        {
+            return await Task.Run(() =>
+            {
+                return items.Where(item =>
+                {
+                    var spell = item as Spell;
+                    return 
+                        (
+                            (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                            (Helpers.RemoveDiacritics(spell.NameVOText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                        );
+                }).OrderBy(spell => spell.Name)
+                            .AsEnumerable();
+            }, token);
+
+        }
+
+    }
+
+
     #region Spells
     public abstract class SpellFilterViewModel : FilterViewModel
     {

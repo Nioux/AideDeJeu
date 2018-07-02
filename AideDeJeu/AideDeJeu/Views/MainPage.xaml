@@ -8,20 +8,26 @@
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
-            <ListView SelectionMode="None" ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <ViewCell.View>
-                                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
-                                    <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
-                                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
-                                </StackLayout>
-                            </ViewCell.View>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
+            <StackLayout Orientation="Vertical">
+                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                    <Label Text="Listes" Style="{StaticResource Key=subsubsection}" />
+                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding ItemsSources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding ItemsSourcesIndex}" />
+                </StackLayout>
+                <ListView SelectionMode="None" ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                                        <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
+                                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
+                                    </StackLayout>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>

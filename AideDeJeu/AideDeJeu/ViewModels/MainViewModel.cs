@@ -44,12 +44,38 @@ namespace AideDeJeu.ViewModels
             set => SetProperty(ref _isLoading, value);
         }
 
+        public List<KeyValuePair<ItemSourceType, string>> ItemsSources { get; set; } = new List<KeyValuePair<ItemSourceType, string>>()
+        {
+            new KeyValuePair<ItemSourceType, string>(ItemSourceType.SpellHD, "Sorts (H&D)"),
+            new KeyValuePair<ItemSourceType, string>(ItemSourceType.SpellVO, "Spells (VO)"),
+            new KeyValuePair<ItemSourceType, string>(ItemSourceType.MonsterHD, "Créatures (H&D)"),
+            new KeyValuePair<ItemSourceType, string>(ItemSourceType.MonsterVO, "Monsters (VO)"),
+            new KeyValuePair<ItemSourceType, string>(ItemSourceType.ConditionHD, "Etats spéciaux (H&D)"),
+            new KeyValuePair<ItemSourceType, string>(ItemSourceType.ConditionVO, "Conditions (VO)"),
+        };
+
+        private int _ItemsSourcesIndex = 0;
+        public int ItemsSourcesIndex
+        {
+            get
+            {
+                return _ItemsSourcesIndex;
+            }
+            set
+            {
+                SetProperty(ref _ItemsSourcesIndex, value);
+                ItemSourceType = ItemsSources[value].Key;
+            }
+        }
+
         public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
         {
             { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.SpellVO)) },
             { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.SpellHD)) },
             { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.MonsterVO)) },
             { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.MonsterHD)) },
+            { ItemSourceType.ConditionHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.ConditionHD)) },
+            { ItemSourceType.ConditionVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.ConditionVO)) },
         };
 
         public ItemsViewModel GetItemsViewModel(ItemSourceType itemSourceType)
@@ -63,6 +89,8 @@ namespace AideDeJeu.ViewModels
             { ItemSourceType.SpellHD, new Lazy<FilterViewModel>(() => new HDSpellFilterViewModel()) },
             { ItemSourceType.MonsterVO, new Lazy<FilterViewModel>(() => new VOMonsterFilterViewModel()) },
             { ItemSourceType.MonsterHD, new Lazy<FilterViewModel>(() => new HDMonsterFilterViewModel()) },
+            { ItemSourceType.ConditionHD, new Lazy<FilterViewModel>(() => new SearchFilterViewModel()) },
+            { ItemSourceType.ConditionVO, new Lazy<FilterViewModel>(() => new SearchFilterViewModel()) },
         };
 
         public FilterViewModel GetFilterViewModel(ItemSourceType itemSourceType)
