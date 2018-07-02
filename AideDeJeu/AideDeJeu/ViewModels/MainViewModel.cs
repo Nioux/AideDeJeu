@@ -9,30 +9,15 @@ using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
 {
-    public enum ItemType
-    {
-        Spell,
-        Monster,
-    }
-
-    public enum ItemSource
-    {
-        VF,
-        VO,
-        HD
-    }
-
     [Flags]
     public enum ItemSourceType
     {
-        Spell = 0x01,
-        Monster = 0x10,
-        VO = 0x1100,
-        HD = 0x1000,
-        SpellVO = Spell | VO,
-        SpellHD = Spell | HD,
-        MonsterVO = Monster | VO,
-        MonsterHD = Monster | HD,
+        SpellVO, 
+        SpellHD, 
+        MonsterVO, 
+        MonsterHD,
+        ConditionVO,
+        ConditionHD,
     }
 
     public class MainViewModel : BaseViewModel

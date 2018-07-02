@@ -60,4 +60,9 @@
     <EmbeddedResource Include="..\..\Data\spells_vo.md" Link="Data\spells_vo.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\conditions_hd.md" Link="Data\conditions_hd.md" />
+    <EmbeddedResource Include="..\..\Data\conditions_vo.md" Link="Data\conditions_vo.md" />
+  </ItemGroup>
+
 </Project>
