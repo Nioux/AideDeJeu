@@ -1,4 +1,4 @@
-# Les états spéciaux
+# États spéciaux
 
 - NameVO: [Conditions](conditions_vo.md#conditions)
 

@@ -163,6 +163,35 @@ namespace AideDeJeu.ViewModels
                 });
         }
 
+        ItemSourceType MDFileToItemSourceType(string file)
+        {
+            if (file == "spells_hd")
+            {
+                return ItemSourceType.SpellHD;
+            }
+            else if (file == "spells_vo")
+            {
+                return ItemSourceType.SpellVO;
+            }
+            else if (file == "monsters_hd")
+            {
+                return ItemSourceType.MonsterHD;
+            }
+            else if (file == "monsters_vo")
+            {
+                return ItemSourceType.MonsterVO;
+            }
+            else if (file == "conditions_hd")
+            {
+                return ItemSourceType.ConditionHD;
+            }
+            else if (file == "conditions_vo")
+            {
+                return ItemSourceType.ConditionVO;
+            }
+            return ItemSourceType.SpellHD;
+        }
+
         public async Task NavigateToLink(string s)
         {
             if (s != null)
@@ -171,45 +200,12 @@ namespace AideDeJeu.ViewModels
                 var match = regex.Match(s);
                 var file = match.Groups["file"].Value;
                 var anchor = match.Groups["anchor"].Value;
-                if (file == "spells_hd")
+                var itemSourceType = MDFileToItemSourceType(file);
+                var spells = await GetItemsViewModel(itemSourceType).GetAllItemsAsync();
+                var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
+                if (spell != null)
                 {
-                    var spells = await GetItemsViewModel(ItemSourceType.SpellHD).GetAllItemsAsync();
-                    var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                    if (spell != null)
-                    {
-                        await Navigator.GotoItemDetailPageAsync(spell);
-                    }
-                }
-                else if (file == "spells_vo")
-                {
-                    var spells = await GetItemsViewModel(ItemSourceType.SpellVO).GetAllItemsAsync();
-                    var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                    if (spell != null)
-                    {
-                        await Navigator.GotoItemDetailPageAsync(spell);
-                    }
-                }
-                else if (file == "monsters_hd")
-                {
-                    var monsters = await GetItemsViewModel(ItemSourceType.MonsterHD).GetAllItemsAsync();
-                    var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                    if (monster != null)
-                    {
-                        await Navigator.GotoItemDetailPageAsync(monster);
-                    }
-                }
-                else if (file == "monsters_vo")
-                {
-                    var monsters = await GetItemsViewModel(ItemSourceType.MonsterVO).GetAllItemsAsync();
-                    var monster = monsters.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                    if (monster != null)
-                    {
-                        await Navigator.GotoItemDetailPageAsync(monster);
-                    }
-                }
-                else
-                {
-                    //Device.OpenUri(new Uri(s));
+                    await Navigator.GotoItemDetailPageAsync(spell);
                 }
             }
         }

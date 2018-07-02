@@ -68,6 +68,21 @@ namespace AideDeJeu.ViewModels
                             _AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
                         }
                         break;
+                    case ItemSourceType.ConditionVO:
+                        {
+                            resourceName = "AideDeJeu.Data.conditions_vo.md";
+                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Conditions.Condition>(md);
+                        }
+                        break;
+                    case ItemSourceType.ConditionHD:
+                        {
+                            resourceName = "AideDeJeu.Data.conditions_hd.md";
+                            //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
+                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Conditions.Condition>(md);
+                        }
+                        break;
                 }
             }
             return _AllItems;

@@ -112,14 +112,13 @@ namespace AideDeJeu.ViewModels
             {
                 return items.Where(item =>
                 {
-                    var spell = item as Spell;
+                    var spell = item;
                     return 
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.NameVOText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
                         );
-                }).OrderBy(spell => spell.Name)
-                            .AsEnumerable();
+                }).AsEnumerable();
             }, token);
 
         }

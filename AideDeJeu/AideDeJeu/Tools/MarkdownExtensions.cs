@@ -9,6 +9,7 @@ using System.Diagnostics;
 using AideDeJeuLib.Monsters;
 using Markdig;
 using AideDeJeuLib;
+using AideDeJeuLib.Conditions;
 
 namespace AideDeJeu.Tools
 {
@@ -26,6 +27,13 @@ namespace AideDeJeu.Tools
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
             var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
             return document.ToMonsters<TMonster>();
+        }
+
+        public static IEnumerable<TCondition> MarkdownToConditions<TCondition>(string md) where TCondition : Condition, new()
+        {
+            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
+            return document.ToConditions<TCondition>();
         }
 
         public static string MarkdownToHtml(string md)
@@ -470,6 +478,125 @@ namespace AideDeJeu.Tools
             }
             return monsters;
         }
+
+
+        public static IEnumerable<TCondition> ToConditions<TCondition>(this Markdig.Syntax.MarkdownDocument document) where TCondition : Condition, new()
+        {
+            var spells = new List<TCondition>();
+            TCondition spell = null;
+            foreach (var block in document)
+            {
+                //DumpBlock(block);
+                if (block is Markdig.Syntax.HeadingBlock)
+                {
+                    var headingBlock = block as Markdig.Syntax.HeadingBlock;
+                    //DumpHeadingBlock(headingBlock);
+                    if (headingBlock.HeaderChar == '#' && (headingBlock.Level == 1 || headingBlock.Level == 2))
+                    {
+                        if (spell != null)
+                        {
+                            spells.Add(spell);
+                            //yield return spell;
+                        }
+                        spell = new TCondition();
+                        spell.Name = headingBlock.Inline.ToMarkdownString();
+                        //Console.WriteLine(spell.Name);
+                    }
+                }
+                if (block is Markdig.Syntax.ParagraphBlock)
+                {
+                    var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
+                    spell.Text += MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
+                }
+                if (block is Markdig.Syntax.ListBlock)
+                {
+                    var listBlock = block as Markdig.Syntax.ListBlock;
+                    //DumpListBlock(listBlock);
+                    if (listBlock.BulletType == '-')
+                    {
+                        foreach (var inblock in listBlock)
+                        {
+                            //DumpBlock(inblock);
+                            var regex = new Regex("(?<key>.*?): (?<value>.*)");
+                            if (inblock is Markdig.Syntax.ListItemBlock)
+                            {
+                                var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
+                                foreach (var ininblock in listItemBlock)
+                                {
+                                    //DumpBlock(ininblock);
+                                    if (ininblock is Markdig.Syntax.ParagraphBlock)
+                                    {
+                                        var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
+                                        //DumpParagraphBlock(paragraphBlock);
+                                        var str = paragraphBlock.Inline.ToMarkdownString();
+
+                                        var properties = new List<Tuple<string, Action<TCondition, string>>>()
+                                        {
+                                            new Tuple<string, Action<TCondition, string>>("NameVO: ", (m, s) => m.NameVO = s),
+                                        };
+
+                                        foreach (var property in properties)
+                                        {
+                                            if (str.StartsWith(property.Item1))
+                                            {
+                                                property.Item2.Invoke(spell, str.Substring(property.Item1.Length));
+                                                break;
+                                            }
+                                        }
+
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    else
+                    {
+                        foreach (var inblock in listBlock)
+                        {
+                            if (inblock is Markdig.Syntax.ListItemBlock)
+                            {
+                                var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
+                                foreach (var ininblock in listItemBlock)
+                                {
+                                    //DumpBlock(ininblock);
+                                    if (ininblock is Markdig.Syntax.ParagraphBlock)
+                                    {
+                                        var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
+                                        spell.Text += listBlock.BulletType + " " + MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                else if (block is Markdig.Extensions.Tables.Table)
+                {
+                    var tableBlock = block as Markdig.Extensions.Tables.Table;
+                    spell.Text += "\n\n" + tableBlock.ToMarkdownString() + "\n\n";
+                }
+
+
+            }
+            if (spell != null)
+            {
+                //yield return spell;
+                spells.Add(spell);
+            }
+            return spells;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         public static string ToMarkdownString(this Markdig.Syntax.Inlines.ContainerInline inlines)
         {

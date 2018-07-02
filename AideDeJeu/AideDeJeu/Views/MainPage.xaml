@@ -35,10 +35,10 @@
             <x:Arguments>
                 <ContentPage Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
                     <ContentPage.ToolbarItems>
-                        <ToolbarItem Name="Sorts (H&amp;D)" Text="Sorts (H&amp;D)" Order="Secondary" Command="{Binding SwitchToSpellsHD}" />
+                        <!--<ToolbarItem Name="Sorts (H&amp;D)" Text="Sorts (H&amp;D)" Order="Secondary" Command="{Binding SwitchToSpellsHD}" />
                         <ToolbarItem Name="Creatures (H&amp;D)" Text="Créatures (H&amp;D)" Order="Secondary" Command="{Binding SwitchToMonstersHD}" />
                         <ToolbarItem Name="Spells (VO)" Text="Spells (VO)" Order="Secondary" Icon="spell_book.png" Command="{Binding SwitchToSpellsVO}" />
-                        <ToolbarItem Name="Monsters (VO)" Text="Monsters (VO)" Order="Secondary" Icon="dragon_head.png" Command="{Binding SwitchToMonstersVO}" />
+                        <ToolbarItem Name="Monsters (VO)" Text="Monsters (VO)" Order="Secondary" Icon="dragon_head.png" Command="{Binding SwitchToMonstersVO}" />-->
                         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
                     </ContentPage.ToolbarItems>
                     <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
