@@ -13,8 +13,6 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
-        <StackLayout Orientation="Vertical" Padding="15">
-            <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Markdown}" />
-        </StackLayout>
+        <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Markdown}" />
     </ScrollView>
 </ContentPage>
