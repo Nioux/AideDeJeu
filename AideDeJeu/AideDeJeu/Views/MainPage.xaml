@@ -45,8 +45,9 @@
                             <ListView.ItemTemplate>
                                 <DataTemplate>
                                     <ViewCell>
-                                        <StackLayout Padding="10">
+                                        <StackLayout Padding="10" Orientation="Vertical">
                                             <Label Text="{Binding Name}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                                            <Label Text="{Binding NameVOText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
                                         </StackLayout>
                                     </ViewCell>
                                 </DataTemplate>
