@@ -600,7 +600,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 ### Description
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
+You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either [blinded](conditions_vo.md#blinded) or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
@@ -884,7 +884,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can't see).
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the spell ends. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+Starting with the creature that has the lowest current hit points, each creature affected by this spell is [blinded](conditions_vo.md#blinded) until the spell ends. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
@@ -1266,7 +1266,7 @@ At the end of each of the target's turns, it must make a Constitution saving thr
 
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
 
-**Blinding Sickness**. Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.
+**Blinding Sickness**. Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded](conditions_vo.md#blinded).
 
 **Filth Fever**. A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
 
@@ -1919,9 +1919,9 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 * 50 hit points or fewer: deafened for 1 minute
 
-* 40 hit points or fewer: deafened and blinded for 10 minutes
+* 40 hit points or fewer: deafened and [blinded](conditions_vo.md#blinded) for 10 minutes
 
-* 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
+* 30 hit points or fewer: [blinded](conditions_vo.md#blinded), deafened, and stunned for 1 hour
 
 * 20 hit points or fewer: killed instantly
 
@@ -2438,7 +2438,7 @@ Your familiar acts independently of you, but it always obeys your commands. In c
 
 When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.
 
-While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.
+While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and [blind](conditions_vo.md#blinded) with regard to your own senses.
 
 As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.
 
@@ -3466,7 +3466,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ### Description
 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.
+Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be [blinded](conditions_vo.md#blinded) until the spell ends.
 
 [Aura de feu]: spells_hd.md#aura-de-feu
 
@@ -3808,7 +3808,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 ### Description
 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be [blinded](conditions_vo.md#blinded), deafened, paralyzed, or poisoned.
 
 [Restauration inférieure]: spells_hd.md#restauration-inférieure
 
@@ -4161,7 +4161,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 ### Description
 
-A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs.
+A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them [blinded](conditions_vo.md#blinded) or deafened. This spell has no effect on undead or constructs.
 
 [Guérison de groupe]: spells_hd.md#guérison-de-groupe
 
@@ -4430,7 +4430,7 @@ You become invisible at the same time that an illusory double of you appears whe
 
 You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
 
-You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](conditions_vo.md#blinded) and deafened in regard to your own surroundings.
 
 [Double illusoire]: spells_hd.md#double-illusoire
 
@@ -5054,7 +5054,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 **6. Indigo**. On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
-**7. Violet**. On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
+**7. Violet**. On a failed save, the target is [blinded](conditions_vo.md#blinded). It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the DM's choosing and is no longer [blinded](conditions_vo.md#blinded). (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)
 
 **8. Special**. The target is struck by two rays. Roll twice more, rerolling any 8.
 
@@ -5075,7 +5075,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
 
-The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become blinded for 1 minute.
+The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become [blinded](conditions_vo.md#blinded) for 1 minute.
 
 The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.
 
@@ -5095,7 +5095,7 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a _[daylight]_ spell or a similar spell of equal or higher level.
 
-**7. Violet**. On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _[dispel magic]_ spell or a similar spell of equal or higher level that can end spells and magical effects.
+**7. Violet**. On a failed save, the creature is [blinded](conditions_vo.md#blinded). It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the DM's choosing and is no longer [blinded](conditions_vo.md#blinded). (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _[dispel magic]_ spell or a similar spell of equal or higher level that can end spells and magical effects.
 
 [Mur prismatique]: spells_hd.md#mur-prismatique
 
@@ -5160,7 +5160,7 @@ You create an illusory copy of yourself that lasts for the duration. The copy ca
 
 You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
 
-You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](conditions_vo.md#blinded) and deafened in regard to your own surroundings.
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
@@ -6191,7 +6191,7 @@ If you or any of your companions damage the target, the spell ends.
 
 ### Description
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is [blinded](conditions_vo.md#blinded) until your next turn. On a successful save, it takes half as much damage and isn't [blinded](conditions_vo.md#blinded) by this spell. Undead and oozes have disadvantage on this saving throw.
 
 You can create a new line of radiance as your action on any turn until the spell ends.
 
@@ -6212,9 +6212,9 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 ### Description
 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.
+Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is [blinded](conditions_vo.md#blinded) for 1 minute. On a successful save, it takes half as much damage and isn't [blinded](conditions_vo.md#blinded) by this spell. Undead and oozes have disadvantage on this saving throw.
 
-A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.
+A creature [blinded](conditions_vo.md#blinded) by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer [blinded](conditions_vo.md#blinded).
 
 This spell dispels any darkness in its area that was created by a spell.
 

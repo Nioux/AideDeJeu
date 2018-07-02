@@ -522,7 +522,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** poison, psychic
@@ -666,7 +666,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Bites_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.
 
-**_Blinding Spittle (Recharge 5-6)_**. The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
+**_Blinding Spittle (Recharge 5-6)_**. The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be [blinded](conditions_vo.md#blinded) until the end of the mouther's next turn.
 
 [Babélien]: monsters_hd.md#babélien
 
@@ -1029,7 +1029,7 @@ Speed reduced to 0 until the start of its next turn.
 | 6 (-2)|13 (+1)|12 (+1)| 4 (-3)| 8 (-1)| 3 (-4)|
 
 - **Skills** Stealth +3
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 9
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 9
 - **Languages** understands Common but can't speak
 - **Challenge** 1/8 (25 XP)
 - **Damage Vulnerabilities** fire
@@ -1101,7 +1101,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Lightning Breath (Recharge 5-6)_**. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-**_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+**_Swallow_**. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time. If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 
 [Béhir]: monsters_hd.md#béhir
 
@@ -1418,7 +1418,7 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Two-Headed_**. The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+**_Two-Headed_**. The dog has advantage on Wisdom (Perception) checks and on saving throws against being [blinded](conditions_vo.md#blinded), charmed, deafened, frightened, stunned, or knocked unconscious.
 
 ## Actions
 
@@ -1808,7 +1808,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 
-**_Swallow_**. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+**_Swallow_**. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
 [Crapaud géant]: monsters_hd.md#crapaud-géant
 
@@ -1824,7 +1824,7 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+- **Senses** blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 0 (10 XP)
 
@@ -1951,7 +1951,7 @@ Cantrip (at will): _[mage hand]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 2 (450 XP)
 
@@ -4617,7 +4617,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Special Features
 
-**_Two Heads_**. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned and knocked unconscious.
+**_Two Heads_**. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being [blinded](conditions_vo.md#blinded), charmed, deafened, frightened, stunned and knocked unconscious.
 
 **_Wakeful_**. When one of the ettin's heads is asleep, its other head is awake.
 
@@ -4898,7 +4898,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
 
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
+- **Senses** blindsight 60 ft. ([blind] beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** lightning, slashing
@@ -5407,7 +5407,7 @@ At will: _[nondetection]_ (self only)
 
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 
-**_Swallow_**. The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+**_Swallow_**. The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
 [Grenouille géante]: monsters_hd.md#grenouille-géante
 
@@ -6201,7 +6201,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Hold Breath_**. The hydra can hold its breath for 1 hour.
 
-**_Multiple Heads_**. The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious. Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies. At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.
+**_Multiple Heads_**. The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being [blinded](conditions_vo.md#blinded), charmed, deafened, frightened, stunned, and knocked unconscious. Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies. At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.
 
 **_Reactive Heads_**. For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
 
@@ -6329,7 +6329,7 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
-**_Bite_**. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. _Hit_: 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+**_Bite_**. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. _Hit_: 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
 **_Tentacle_**. Melee Weapon Attack: +17 to hit, reach 30 ft., one target. _Hit_: 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
 
@@ -6902,7 +6902,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Crush_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way. While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target. A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
+**_Crush_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also [blinded](conditions_vo.md#blinded) and unable to breathe while the darkmantle is attached in this way. While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target. A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
 **_Darkness Aura (1/Day)_**. A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
@@ -6937,7 +6937,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The cloaker makes two attacks: one with its bite and one with its tail.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is [blinded] and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
 
 **_Tail_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. _Hit_: 7 (1d8 + 3) slashing damage.
 
@@ -7182,7 +7182,7 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+- **Senses** blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 
@@ -7345,7 +7345,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Attack_**. The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
 
-**_Blinding Dust_**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
+**_Blinding Dust_**. Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be [blinded](conditions_vo.md#blinded) until the end of the creature's next turn.
 
 **_Blasphemous Word (Costs 2 Actions)_**. The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
 
@@ -7476,7 +7476,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) slashing damage.
 
-**_Cinder Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded until the end of the mephit's next turn.
+**_Cinder Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](conditions_vo.md#blinded) until the end of the mephit's next turn.
 
 [Méphite de fumée]: monsters_hd.md#méphite-de-fumée
 
@@ -7571,7 +7571,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Special Features
 
-**_Death Burst_**. When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+**_Death Burst_**. When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [blinded](conditions_vo.md#blinded) for 1 minute. A [blinded](conditions_vo.md#blinded) creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
 
 **_Innate Spellcasting (1/Day)_**. The mephit can innately cast _[sleep]_, requiring no material components. Its innate spellcasting ability is Charisma.
 
@@ -7579,7 +7579,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) slashing damage.
 
-**_Blinding Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Blinding Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](conditions_vo.md#blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 [Méphite de poussière]: monsters_hd.md#méphite-de-poussière
 
@@ -8524,7 +8524,7 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** acid, cold, lightning, slashing
@@ -9011,7 +9011,7 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 
-**_Swallow_**. The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+**_Swallow_**. The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
 [Rémorhaz]: monsters_hd.md#rémorhaz
 
@@ -9461,7 +9461,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Searing Burst (Costs 2 Actions)_**. The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
-**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the _[lesser restoration]_ spell removes the blindness.
+**_Blinding Gaze (Costs 3 Actions)_**. The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [blinded](conditions_vo.md#blinded) until magic such as the _[lesser restoration]_ spell removes the blindness.
 
 [Solar]: monsters_hd.md#solar
 
@@ -9681,7 +9681,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison, psychic
@@ -9785,12 +9785,12 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
-**_Engulf_**. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+**_Engulf_**. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is [blinded](conditions_vo.md#blinded), restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 
 [Tertre errant]: monsters_hd.md#tertre-errant
 
 
-# Tigre
+# Tiger
 - NameVO: [Tigre]
 - Large beast, unaligned
 - **Armor Class** 12
@@ -9904,7 +9904,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 |16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
 
 - **Skills** Athletics +5, Perception +3, Stealth +3
-- **Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
+- **Senses** blindsight 30 ft. or 10 ft. while deafened ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 13
 - **Languages** Undercommon
 - **Challenge** 1/4 (50 XP)
 
@@ -10166,7 +10166,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 |12 (+1)| 6 (-2)|16 (+3)| 1 (-5)| 6 (-2)| 2 (-4)|
 
 - **Skills** Stealth +2
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 - **Damage Resistances** acid, cold, fire
@@ -10274,7 +10274,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The worm makes two attacks: one with its bite and one with its stinger.
 
-**_Bite_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns. If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+**_Bite_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns. If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 
 **_Tail Stinger_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -10562,7 +10562,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Create Specter_**. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 
-[Âme en peine]: monsters_hd.md#âme-en-peine
+[Âme en peine]: monsters_hd.md#Âme-en-peine
 
 
 # Scout
@@ -10593,7 +10593,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Longbow_**. Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
 
-[Éclaireur]: monsters_hd.md#éclaireur
+[Éclaireur]: monsters_hd.md#Éclaireur
 
 
 # Efreeti
@@ -10633,7 +10633,7 @@ At will: _[detect magic]_
 
 **_Hurl Flame_**. Ranged Spell Attack: +7 to hit, range 120 ft., one target. _Hit_: 17 (5d6) fire damage.
 
-[Éfrit]: monsters_hd.md#éfrit
+[Éfrit]: monsters_hd.md#Éfrit
 
 
 # Elk
@@ -10661,7 +10661,7 @@ At will: _[detect magic]_
 
 **_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
-[Élan]: monsters_hd.md#élan
+[Élan]: monsters_hd.md#Élan
 
 
 # Giant Elk
@@ -10690,7 +10690,7 @@ At will: _[detect magic]_
 
 **_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. _Hit_: 22 (4d8 + 4) bludgeoning damage.
 
-[Élan géant]: monsters_hd.md#élan-géant
+[Élan géant]: monsters_hd.md#Élan-géant
 
 
 # Air Elemental
@@ -10722,7 +10722,7 @@ At will: _[detect magic]_
 
 **_Whirlwind (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 
-[Élémentaire de l'air]: monsters_hd.md#élémentaire-de-lair
+[Élémentaire de l'air]: monsters_hd.md#Élémentaire-de-lair
 
 
 # Water Elemental
@@ -10756,7 +10756,7 @@ At will: _[detect magic]_
 
 **_Whelm (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
 
-[Élémentaire de l'eau]: monsters_hd.md#élémentaire-de-leau
+[Élémentaire de l'eau]: monsters_hd.md#Élémentaire-de-leau
 
 
 # Earth Elemental
@@ -10789,7 +10789,7 @@ At will: _[detect magic]_
 
 **_Slam_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
-[Élémentaire de la terre]: monsters_hd.md#élémentaire-de-la-terre
+[Élémentaire de la terre]: monsters_hd.md#Élémentaire-de-la-terre
 
 
 # Fire Elemental
@@ -10823,7 +10823,7 @@ At will: _[detect magic]_
 
 **_Touch_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
-[Élémentaire du feu]: monsters_hd.md#élémentaire-du-feu
+[Élémentaire du feu]: monsters_hd.md#Élémentaire-du-feu
 
 
 # Elephant
@@ -10851,7 +10851,7 @@ At will: _[detect magic]_
 
 **_Stomp_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. _Hit_: 22 (3d10 + 6) bludgeoning damage.
 
-[Éléphant]: monsters_hd.md#éléphant
+[Éléphant]: monsters_hd.md#Éléphant
 
 
 # Killer Whale
@@ -10882,7 +10882,7 @@ At will: _[detect magic]_
 
 **_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 21 (5d6 + 4) piercing damage.
 
-[Épaulard]: monsters_hd.md#épaulard
+[Épaulard]: monsters_hd.md#Épaulard
 
 
 # Flying Sword
@@ -10897,7 +10897,7 @@ At will: _[detect magic]_
 |12 (+1)|15 (+2)|11 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
 
 - **Saving Throws** Dex +4
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
+- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 7
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison, psychic
@@ -10912,7 +10912,7 @@ At will: _[detect magic]_
 
 **_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) slashing damage.
 
-[Épée volante]: monsters_hd.md#épée-volante
+[Épée volante]: monsters_hd.md#Épée-volante
 
 
 # Erinyes
@@ -10949,7 +10949,7 @@ At will: _[detect magic]_
 
 **_Parry_**. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
-[Érinye]: monsters_hd.md#érinye
+[Érinye]: monsters_hd.md#Érinye
 
 
 [animal messenger]: spells_vo.md#animal-messenger

@@ -26,7 +26,7 @@
 
 ## Actions
 
-**_Asservir (3/jour)._** L'aboleth cible une créature située à 9 mètres ou moins et dans son champ de vision. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être magiquement _charmée_ par l'aboleth. Le charme disparaît quand l'aboleth meurt ou s'il se trouve sur un plan d'existence différent de celui de la cible. La cible _charmée_ est sous le contrôle de l'aboleth et ne peut entreprendre aucune réaction. L'aboleth et la cible peuvent communiquer par télépathie, quelle que soit la distance qui les sépare. Chaque fois que la cible _charmée_ subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. La cible peut retenter le jet de sauvegarde dès que l'aboleth s'éloigne de plus de 1,5 kilomètre d'elle, mais pas plus d'une fois toutes les 24 heures.
+**_Asservir (3/jour)._** L'aboleth cible une créature située à 9 mètres ou moins et dans son champ de vision. La cible doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être magiquement _[charmée]_ par l'aboleth. Le charme disparaît quand l'aboleth meurt ou s'il se trouve sur un plan d'existence différent de celui de la cible. La cible _[charmée]_ est sous le contrôle de l'aboleth et ne peut entreprendre aucune réaction. L'aboleth et la cible peuvent communiquer par télépathie, quelle que soit la distance qui les sépare. Chaque fois que la cible _[charmée]_ subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. La cible peut retenter le jet de sauvegarde dès que l'aboleth s'éloigne de plus de 1,5 kilomètre d'elle, mais pas plus d'une fois toutes les 24 heures.
 
 **_Attaques multiples._** L'aboleth effectue trois attaques de tentacule.
 
@@ -46,7 +46,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **Détecter.** L'aboleth effectue un test de Sagesse (Perception).
 
-**Succion psychique (coûte 2 actions).** Une créature charmée par l'aboleth subit 10 (3d6) dégâts psychiques et l'aboleth récupère un nombre de points de vie égal aux dégâts subis par la créature.
+**Succion psychique (coûte 2 actions).** Une créature [charmée] par l'aboleth subit 10 (3d6) dégâts psychiques et l'aboleth récupère un nombre de points de vie égal aux dégâts subis par la créature.
 
 ![](https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/Monsters/aboleth.jpg)
 
@@ -71,7 +71,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 ## Capacités
 
-**_Nuage empoisonné._** L'abothid est constamment entouré d'un nuage de gaz toxique pour les non-abothids. Toute créature située à 1,50 mètres ou moins doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine de suffoquer et être étourdie pendant 1 minute.
+**_Nuage empoisonné._** L'abothid est constamment entouré d'un nuage de gaz toxique pour les non-abothids. Toute créature située à 1,50 mètres ou moins doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine de suffoquer et être [étourdie] pendant 1 minute.
 
 ## Actions
 
@@ -79,7 +79,7 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Tentacule._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 
-_Touché :_ 11 (2d8+3) dégâts contondants (constriction). Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
+_Touché :_ 11 (2d8+3) dégâts contondants (constriction). Si la cible est une créature de taille M ou plus petite, elle est [empoignée] (évasion DD 14). L'abothid a deux tentacules dont chacun peut empoigner une cible.
 
 **_Dard de langue._** Attaque d'arme au corps à corps (basée sur la Dextérité) : +7 pour toucher, allonge 1,50 m, une cible. 
 
@@ -87,13 +87,13 @@ _Touché :_ 6 (1d6+2) dégâts perçants.
 
 Si la cible est une créature humanoïde, elle doit réussir un jet de sauvegarde de Constitution (DD 14) sous peine d'être infectée par une maladie : l'injection d'un minuscule oeuf d'abothid.
 
-Un humanoïde ne peut mener qu'un seul oeuf d'abothid à son terme. L'éclosion de l'oeuf se fait après 24 heures et donne naissance à une larve qui remonte jusqu'au cerveau en un nombre d'heures égal à 1d12 + valeur de Constitution de la cible infectée. Durant cette période, la victime est empoisonnée et ne peut plus regagner de points de vie. Une fois que la larve a atteint le cerveau, la cible infectée voit son maximum de points de vie se réduire de 10 (3d6) points par 24 heures. Si la larve réduit le maximum des points de vie de la cible à 0, cela signifie que sa transformation en abothid est achevée. Seul un sort de souhait peut inverser la transformation.
+Un humanoïde ne peut mener qu'un seul oeuf d'abothid à son terme. L'éclosion de l'oeuf se fait après 24 heures et donne naissance à une larve qui remonte jusqu'au cerveau en un nombre d'heures égal à 1d12 + valeur de Constitution de la cible infectée. Durant cette période, la victime est [empoisonnée] et ne peut plus regagner de points de vie. Une fois que la larve a atteint le cerveau, la cible infectée voit son maximum de points de vie se réduire de 10 (3d6) points par 24 heures. Si la larve réduit le maximum des points de vie de la cible à 0, cela signifie que sa transformation en abothid est achevée. Seul un sort de souhait peut inverser la transformation.
 
-**_Asservissement (1/jour)._** L'abothid cible une créature dans son champ de vision située à 18 mètres ou moins. La cible doit réussir un jet de sauvegarde de Sagesse (DD 14) sous peine d'être charmée magiquement par l'abothid pour une durée de 1 heure.
+**_Asservissement (1/jour)._** L'abothid cible une créature dans son champ de vision située à 18 mètres ou moins. La cible doit réussir un jet de sauvegarde de Sagesse (DD 14) sous peine d'être [charmée] magiquement par l'abothid pour une durée de 1 heure.
 
-La cible charmée est sous le contrôle de l'abothid et ne peut entreprendre aucune action mis à part se défendre au mieux de ses capacités. L'abothid peut utiliser sa télépathie pour donner des ordres à la cible.
+La cible [charmée] est sous le contrôle de l'abothid et ne peut entreprendre aucune action mis à part se défendre au mieux de ses capacités. L'abothid peut utiliser sa télépathie pour donner des ordres à la cible.
 
-Chaque fois que la cible charmée subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. L'effet peut prendre fin avant si l'abothid est détruit, s'il s'éloigne de plus de 1,5 kilomètre de la cible, s'il se trouve sur un plan d'existence différent de celui de la cible ou, enfin, s'il effectue une action bonus pour mettre fin à cet effet.
+Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le jet de sauvegarde. En cas de réussite, l'effet prend fin. L'effet peut prendre fin avant si l'abothid est détruit, s'il s'éloigne de plus de 1,5 kilomètre de la cible, s'il se trouve sur un plan d'existence différent de celui de la cible ou, enfin, s'il effectue une action bonus pour mettre fin à cet effet.
 
 **_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
 
@@ -110,7 +110,7 @@ Chaque fois que la cible charmée subit des dégâts, elle peut retenter le jet 
 
 - **Résistance aux dégâts** d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** à terre, charmé, empoigné, empoisonné, épuisé, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [empoigné], [empoisonné], épuisé, [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** celles qu'elle connaissait de son vivant
 - **Dangerosité** 5 (1 800 PX)
@@ -180,7 +180,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 - **Jets de sauvegarde** Sag +9, Cha +9
 - **Compétences** Perception +9, Perspicacité +9
 - **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** charmé, terrorisé et épuisé
+- **Immunité contre les états** [charmé], [terrorisé] et épuisé
 - **Sens** vision dans le noir 36 m, Perception passive 19
 - **Langues** toutes, télépathie 36 m
 - **Dangerosité** 10 (5 900 PX)
@@ -203,7 +203,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 Une fois métamorphosé, le déva conserve ses statistiques de jeu et sa capacité à parler, mais sa CA, ses modes de déplacement, sa Force, sa Dextérité et ses sens spéciaux sont remplacés par ceux de sa nouvelle forme. En outre, il obtient toutes les statistiques et capacités (à l'exception des aptitudes de classe, des actions légendaires et des actions d'antre) que possède la forme adoptée et que lui ne possédait pas.
 
-**_Contact curatif (3/jour)._** Le déva touche une autre créature. La cible récupère 20 (4d8+2) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et sourd.
+**_Contact curatif (3/jour)._** Le déva touche une autre créature. La cible récupère 20 (4d8+2) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux [aveuglé] et sourd.
 
 **_Masse d'armes._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 
@@ -224,7 +224,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 - **Jets de sauvegarde** Con +12, Sag +11, Cha +12
 - **Compétences** Perception +11
 - **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** charmé, terrorisé et épuisé
+- **Immunité contre les états** [charmé], [terrorisé] et épuisé
 - **Sens** vision parfaite 36 m, Perception passive 21
 - **Langues** toutes, télépathie 36 m
 - **Dangerosité** 16 (15 000 PX)
@@ -249,7 +249,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 **_Attaques multiples._** Le planétar effectue deux attaques au corps à corps.
 
-**_Contact curatif (4/jour)._** Le planétar touche une autre créature. La cible récupère 30 (6d8+3) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et assourdi.
+**_Contact curatif (4/jour)._** Le planétar touche une autre créature. La cible récupère 30 (6d8+3) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux [aveuglé] et [assourdi].
 
 **_Épée à deux mains._** Attaque d'arme au corps à corps : +12 pour toucher, allonge 1,50 m, une cible.
 
@@ -271,7 +271,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 - **Compétence** Perception +14
 - **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** charmé, terrorisé, empoisonné et épuisé
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné] et épuisé
 - **Sens** vision parfaite 36 m, Perception passive 24
 - **Langues** toutes, télépathie 36 m
 - **Dangerosité** 21 (33 000 PX)
@@ -300,7 +300,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 _Touché :_ 15 (2d8+6) dégâts perforants plus 27 (6d8) dégâts radiants. Si la cible est une créature avec 100 points de vie ou moins, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas mourir.
 
-**_Contact curatif (4/jour)._** Le solar touche une autre créature. La cible récupère 40 (8d8+4) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux aveuglé et assourdi.
+**_Contact curatif (4/jour)._** Le solar touche une autre créature. La cible récupère 40 (8d8+4) points de vie par magie et guérit de la totalité des malédictions, maladies, poisons dont elle était victime, ainsi que des états spéciaux [aveuglé] et [assourdi].
 
 **_Épée à deux mains._** Attaque d'arme au corps à corps : +15 pour toucher, allonge 1,50 m, une cible.
 
@@ -316,7 +316,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 
 **_Explosion brûlante (coûte 2 actions)._** Le solar produit de l'énergie magique de nature divine. Chaque créature de son choix située dans un rayon de 3 mètres doit effectuer un jet de sauvegarde de Dextérité DD 23. Celles qui échouent subissent 14 (4d6) dégâts de feu plus 14 (4d6) dégâts radiants, les autres la moitié de ces dégâts seulement.
 
-**_Regard aveuglant (coûte 3 actions)._** Le solar cible une créature située à 9 mètres ou moins de lui et dans son champ de vision. Si la cible peut le voir, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être aveuglée jusqu'à ce qu'un effet magique, tel que celui produit par un sort de restauration inférieure, dissipe l'aveuglement.
+**_Regard aveuglant (coûte 3 actions)._** Le solar cible une créature située à 9 mètres ou moins de lui et dans son champ de vision. Si la cible peut le voir, elle doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être [aveuglée] jusqu'à ce qu'un effet magique, tel que celui produit par un sort de restauration inférieure, dissipe l'aveuglement.
 
 **_Téléportation._** Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
@@ -324,7 +324,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 # Ankheg
 - NameVO: [Ankheg](monsters_vo.md#ankheg)
 - Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 14 (armure naturelle), 11 quand il est à terre
+- **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre]
 - **Points de vie** 39 (6d10+6)
 - **Vitesse** 9 m, fouissement 3 m
 
@@ -340,7 +340,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 
 **_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-_Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la cible est une créature de taille G ou plus petite, elle est empoignée (DD 13 pour se libérer). Jusqu'à la fin de cette empoignade, l'ankheg peut mordre uniquement la créature empoignée et il obtient un avantage lors des jets d'attaque effectués contre elle.
+_Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la cible est une créature de taille G ou plus petite, elle est [empoignée] (DD 13 pour se libérer). Jusqu'à la fin de cette empoignade, l'ankheg peut mordre uniquement la créature [empoignée] et il obtient un avantage lors des jets d'attaque effectués contre elle.
 
 **_Aspersion acide (Recharge 6)._** L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -358,7 +358,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 
 - **Jet de sauvegarde** Con +4
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** Perception passive 11
 - **Langue** ignée
 - **Dangerosité** 2 (450 PX)
@@ -389,14 +389,14 @@ Touché : 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'il
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- **Immunité contre l'état** à terre
+- **Immunité contre l'état** [à terre]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** —
 - **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
-Charabia. Le babélien bredouille des propos incohérents tant qu'il n'est pas neutralisé et qu'une créature est dans son champ de vision. Les créatures qui commencent leur tour à 6 mètres ou moins du babélien et qui entendent son charabia doivent chacune effectuer un jet de sauvegarde de Sagesse DD 10. En cas d'échec du jet de sauvegarde, une créature ne peut plus effectuer de réaction jusqu'au début de son prochain tour et lance un d8 pour déterminer ce qu'elle fait pendant son tour. Sur un résultat de 1 à 4, la créature ne fait rien. Sur un résultat de 5 ou 6, elle n'effectue aucune action ou action bonus et utilise l'intégralité de sa vitesse pour se déplacer dans une direction déterminée au hasard. Sur un résultat de 7 ou 8, elle effectue une attaque au corps à corps contre une créature déterminée au hasard située à portée d'allonge ou ne fait rien si aucune attaque de sa part n'est possible.
+Charabia. Le babélien bredouille des propos incohérents tant qu'il n'est pas [neutralisé] et qu'une créature est dans son champ de vision. Les créatures qui commencent leur tour à 6 mètres ou moins du babélien et qui entendent son charabia doivent chacune effectuer un jet de sauvegarde de Sagesse DD 10. En cas d'échec du jet de sauvegarde, une créature ne peut plus effectuer de réaction jusqu'au début de son prochain tour et lance un d8 pour déterminer ce qu'elle fait pendant son tour. Sur un résultat de 1 à 4, la créature ne fait rien. Sur un résultat de 5 ou 6, elle n'effectue aucune action ou action bonus et utilise l'intégralité de sa vitesse pour se déplacer dans une direction déterminée au hasard. Sur un résultat de 7 ou 8, elle effectue une attaque au corps à corps contre une créature déterminée au hasard située à portée d'allonge ou ne fait rien si aucune attaque de sa part n'est possible.
 
 Sol aberrant. Le sol dans un rayon de 3 mètres autour du babélien devient un terrain difficile à la consistance pâteuse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un jet de sauvegarde de Force DD 10 pour ne pas voir leur vitesse réduite à 0 jusqu'au début de leur prochain tour.
 
@@ -404,11 +404,11 @@ Sol aberrant. Le sol dans un rayon de 3 mètres autour du babélien devient un t
 
 Attaques multiples. Le babélien effectue une attaque de morsure et utilise, si possible, son Crachat aveuglant.
 
-Crachat aveuglant (Recharge 5-6). Le babélien crache une grosse goutte de substance visqueuse et chimique sur un point situé dans son champ de vision à 4,50 mètres ou moins. À l'impact, la goutte produit une explosion de lumière aveuglante. Les créatures situées à 1,50 mètre ou moins de l'explosion doivent chacune réussir un jet de sauvegarde de Dextérité DD 13 pour ne pas être aveuglées jusqu'à la fin du prochain tour du babélien.
+Crachat aveuglant (Recharge 5-6). Le babélien crache une grosse goutte de substance visqueuse et chimique sur un point situé dans son champ de vision à 4,50 mètres ou moins. À l'impact, la goutte produit une explosion de lumière aveuglante. Les créatures situées à 1,50 mètre ou moins de l'explosion doivent chacune réussir un jet de sauvegarde de Dextérité DD 13 pour ne pas être [aveuglées] jusqu'à la fin du prochain tour du babélien.
 
 Morsures. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. 
 
-Touché : 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée à terre. Si la cible est tuée par ces dégâts, le babélien l'absorbe.
+Touché : 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée [à terre]. Si la cible est tuée par ces dégâts, le babélien l'absorbe.
 
 
 # Basilic
@@ -428,7 +428,7 @@ Touché : 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus peti
 
 ## Capacités
 
-Regard pétrifiant. Si une créature commence son tour à 9 mètres ou moins du basilic et que les deux peuvent se voir, le basilic, s'il n'est pas neutralisé, peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 12. En cas d'échec, la créature commence à se transformer en pierre par magie et devient entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est pétrifiée tant qu'elle n'est pas libérée par un sort de restauration supérieure ou une magie similaire.
+Regard pétrifiant. Si une créature commence son tour à 9 mètres ou moins du basilic et que les deux peuvent se voir, le basilic, s'il n'est pas [neutralisé], peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 12. En cas d'échec, la créature commence à se transformer en pierre par magie et devient [entravée]. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [pétrifiée] tant qu'elle n'est pas libérée par un sort de restauration supérieure ou une magie similaire.
 
 Une créature qui n'est pas surprise peut détourner le regard au début de son tour pour ne pas avoir à faire le jet de sauvegarde. Si elle agit de la sorte, elle ne peut pas voir le basilic jusqu'au début de son prochain tour, moment où elle peut détourner le regard à nouveau. Elle doit effectuer le jet de sauvegarde immédiatement si elle regarde le basilic entre-temps.
 
@@ -464,11 +464,11 @@ Attaques multiples. Le béhir effectue deux attaques : une avec sa morsure et un
 
 Comprimer. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature de taille G ou plus petite.
 
-Touché : 17 (2d10+6) dégâts contondants plus 17 (2d10+6) dégâts tranchants. La cible est empoignée (DD 16 pour se libérer) si le béhir n'est pas déjà en train de comprimer une créature et elle est entravée jusqu'au terme de cette empoignade.
+Touché : 17 (2d10+6) dégâts contondants plus 17 (2d10+6) dégâts tranchants. La cible est [empoignée] (DD 16 pour se libérer) si le béhir n'est pas déjà en train de comprimer une créature et elle est [entravée] jusqu'au terme de cette empoignade.
 
-Engloutir. Le béhir effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque est réussie, la cible est également engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du béhir et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du béhir. Un béhir ne peut engloutir qu'une seule créature à la fois.
+Engloutir. Le béhir effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque est réussie, la cible est également engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du béhir et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du béhir. Un béhir ne peut engloutir qu'une seule créature à la fois.
 
-Si le béhir subit 30 dégâts ou plus infligés lors d'un seul tour par la créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 14 à la fin de ce tour pour ne pas régurgiter la créature qui tombe alors à terre dans un emplacement situé à 3 mètres ou moins de lui. Si le béhir meurt, une créature engloutie n'est plus entravée et peut s'extirper de la carcasse en dépensant 4,50 mètres de déplacement. Elle tombe à terre en sortant.
+Si le béhir subit 30 dégâts ou plus infligés lors d'un seul tour par la créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 14 à la fin de ce tour pour ne pas régurgiter la créature qui tombe alors [à terre] dans un emplacement situé à 3 mètres ou moins de lui. Si le béhir meurt, une créature engloutie n'est plus [entravée] et peut s'extirper de la carcasse en dépensant 4,50 mètres de déplacement. Elle tombe [à terre] en sortant.
 
 Morsure. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
 
@@ -505,7 +505,7 @@ Touché : 30 (4d12+4) dégâts perforants.
 
 Saut meurtrier. Si la bulette saute sur une distance minimale de 4,50 mètres au cours de son déplacement, elle peut ensuite utiliser cette action pour retomber sur ses pattes dans un emplacement qui contient une ou plusieurs autres créatures.
 
-Chacune de ces créatures doit réussir un jet de sauvegarde de Force ou de Dextérité DD 16 (au choix de la cible), sans quoi elle se retrouve à terre et subit 14 (3d6+4) dégâts contondants plus 14 (3d6+4) dégâts tranchants. En cas de jet de sauvegarde réussi, la créature subit la moitié des dégâts seulement, elle n'est pas à terre et elle est repoussée sur 1,50 mètre hors de l'emplacement de la bulette vers un emplacement inoccupé de son choix. S'il n'y a aucun emplacement inoccupé à portée, la créature tombe à terre dans l'emplacement de la bulette à la place.
+Chacune de ces créatures doit réussir un jet de sauvegarde de Force ou de Dextérité DD 16 (au choix de la cible), sans quoi elle se retrouve [à terre] et subit 14 (3d6+4) dégâts contondants plus 14 (3d6+4) dégâts tranchants. En cas de jet de sauvegarde réussi, la créature subit la moitié des dégâts seulement, elle n'est pas [à terre] et elle est repoussée sur 1,50 mètre hors de l'emplacement de la bulette vers un emplacement inoccupé de son choix. S'il n'y a aucun emplacement inoccupé à portée, la créature tombe [à terre] dans l'emplacement de la bulette à la place.
 
 
 # Centaure
@@ -557,7 +557,7 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 - **Compétences** Discrétion +5, Perception +10
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** assourdi, aveuglé et empoisonné
+- **Immunité contre les états** [assourdi], [aveuglé] et [empoisonné]
 - **Sens** vision parfaite 12 m, Perception passive 20
 - **Langues** —
 - **Dangerosité** 6 (2 300 PX)
@@ -572,7 +572,7 @@ Attaques multiples. Le cerbère effectue trois attaques de morsure, une pour cha
 
 Morsure. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible ;
 
-Touché : 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être empoisonnée par la salive.
+Touché : 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou être [empoisonnée] par la salive.
 
 Déchirer. Si le cerbère réussi plusieurs attaques de morsure sur la même cible, chaque tête tire violemment dans une direction opposée en tentant de déchirer le corps de la victime. La cible subit 7 (2d6) dégâts perforants supplémentaires par attaque réussie après la première dans le même tour.
 
@@ -588,7 +588,7 @@ Déchirer. Si le cerbère réussi plusieurs attaques de morsure sur la même cib
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Immunité contre les états** assourdi, aveuglé et terrorisé
+- **Immunité contre les états** [assourdi], [aveuglé] et [terrorisé]
 - **Sens** vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
 - **Langues** —
 - **Dangerosité** 0 (10 PX)
@@ -613,7 +613,7 @@ Hurlement. Quand une lumière vive ou une créature s'approche à 9 mètres ou m
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Immunité contre les états** assourdi, aveuglé et terrorisé
+- **Immunité contre les états** [assourdi], [aveuglé] et [terrorisé]
 - **Sens** vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
@@ -679,7 +679,7 @@ Souffle de feu (Recharge 5-6). La tête de dragon souffle un cône de feu de 4,5
 
 - **Compétence** Perception +4
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langues** comprend le profond mais ne peut pas parler
 - **Dangerosité** 4 (1 100 PX)
@@ -696,11 +696,11 @@ Attaques multiples. Le chuul effectue trois attaques de pince. S'il empoigne une
 
 Pince. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
 
-Touché : 11 (2d6+4) dégâts contondants. La cible est empoignée (évasion DD 14) si c'est une créature de taille G ou plus petite et que le chuul n'empoigne pas déjà deux autres créatures.
+Touché : 11 (2d6+4) dégâts contondants. La cible est [empoignée] (évasion DD 14) si c'est une créature de taille G ou plus petite et que le chuul n'empoigne pas déjà deux autres créatures.
 
-Tentacules. Une créature empoignée par le chuul doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être empoisonnée pendant 1 minute.
+Tentacules. Une créature [empoignée] par le chuul doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être [empoisonnée] pendant 1 minute.
 
-La cible est paralysée tant que ce poison fait effet. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.
+La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.
 
 
 # Cockatrice
@@ -722,7 +722,7 @@ La cible est paralysée tant que ce poison fait effet. Elle peut retenter le jet
 
 Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être pétrifiée par magie. En cas de jet de sauvegarde raté, le corps de la créature commence à se transformer en pierre et elle est entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est pétrifiée pendant 24 heures.
+Touché : 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [pétrifiée] par magie. En cas de jet de sauvegarde raté, le corps de la créature commence à se transformer en pierre et elle est [entravée]. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [pétrifiée] pendant 24 heures.
 
 
 # Couatl
@@ -765,13 +765,13 @@ Une fois métamorphosé, le couatl conserve ses statistiques de jeu et sa capaci
 
 Comprimer. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature de taille M ou plus petite.
 
-Touché : 10 (2d6+3) dégâts contondants et la cible est empoignée (DD 15 pour se libérer). Jusqu'au terme de l'empoignade, la cible est entravée et le couatl ne peut pas comprimer une autre cible.
+Touché : 10 (2d6+3) dégâts contondants et la cible est [empoignée] (DD 15 pour se libérer). Jusqu'au terme de l'empoignade, la cible est [entravée] et le couatl ne peut pas comprimer une autre cible.
 
 Morsure. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 8 (1d6+5) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être empoisonnée pendant 24 heures.
+Touché : 8 (1d6+5) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être [empoisonnée] pendant 24 heures.
 
-Elle est inconsciente tant que le poison fait effet.
+Elle est [inconsciente] tant que le poison fait effet.
 
 Une autre créature peut effectuer une action pour secouer la cible afin qu'elle reprenne connaissance.
 
@@ -825,7 +825,7 @@ Souffle de feu (Recharge 5-6). Le vétéran souffle du feu sur un cône de 4,50 
 - **Jets de sauvegarde** For +14, Con +12, Sag +9, Cha +12
 - **Résistance aux dégâts** de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision parfaite 36 m, Perception passive 13
 - **Langue** abyssal, télépathie 36 m
 - **Dangerosité** 19 (22 000 PX)
@@ -868,7 +868,7 @@ Téléportation. Le balor se téléporte par magie, avec tous ses objets équip�
 
 - **Résistance aux dégâts** de feu, de foudre et de froid
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langue** abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
 - **Dangerosité** 1/4 (50 PX)
@@ -885,7 +885,7 @@ Morsure. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une
 
 Touché : 3 (1d6) dégâts perforants.
 
-Nuage fétide (1/jour). Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être empoisonnées jusqu'au début de leur prochain tour. Les créatures empoisonnées de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
+Nuage fétide (1/jour). Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [empoisonnées] jusqu'au début de leur prochain tour. Les créatures [empoisonnées] de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
 
 
 # Glabrezu
@@ -902,7 +902,7 @@ Nuage fétide (1/jour). Un gaz vert répugnant de 3 mètres de rayon s'étend au
 - **Jets de sauvegarde** For +9, Con +9, Sag +7, Cha +7
 - **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision parfaite 36 m, Perception passive 13
 - **Langues** abyssal, télépathie 36 m
 - **Dangerosité** 9 (5 000 PX)
@@ -923,7 +923,7 @@ Attaques multiples. Le glabrezu effectue quatre attaques : deux avec ses pinces 
 
 Pince. Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.
 
-Touché : 16 (2d10+5) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est empoignée (évasion DD 15). Le glabrezu a deux pinces dont chacune peut empoigner qu'une seule créature.
+Touché : 16 (2d10+5) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [empoignée] (évasion DD 15). Le glabrezu a deux pinces dont chacune peut empoigner qu'une seule créature.
 
 Poing. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible.
 
@@ -944,14 +944,14 @@ Touché : 7 (2d4+2) dégâts contondants.
 - **Jets de sauvegarde** For +7, Con +8, Sag +4
 - **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 11
 - **Langues** abyssal, télépathie 36 m
 - **Dangerosité** 8 (3 900 PX)
 
 ## Capacités
 
-Puanteur. Les créatures qui commencent leur tour à 3 mètres ou moins de l'hezrou doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnées jusqu'au début de leur prochain tour.
+Puanteur. Les créatures qui commencent leur tour à 3 mètres ou moins de l'hezrou doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être [empoisonnées] jusqu'au début de leur prochain tour.
 
 Les créatures qui ont réussi leur jet de sauvegarde sont immunisées contre la puanteur de l'hezrou pendant 24 heures.
 
@@ -984,7 +984,7 @@ Touché : 15 (2d10+4) dégâts perforants.
 - **Jets de sauvegarde** For +9, Con +10, Sag +8, Cha +10
 - **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision parfaite 36 m, Perception passive 13
 - **Langues** abyssal, télépathie 36 m
 - **Dangerosité** 16 (15 000 PX)
@@ -1007,7 +1007,7 @@ Touché : 13 (2d8+4) dégâts tranchants.
 
 Queue. Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une créature.
 
-Touché : 15 (2d10+4) dégâts contondants. La cible est empoignée (évasion DD 19) si elle est de taille M ou plus petite. Jusqu'à la fin de cette empoignade, la cible est entravée, la marilith peut automatiquement réussir son attaque de queue contre elle mais ne peut plus utiliser cette attaque contre d'autres cibles.
+Touché : 15 (2d10+4) dégâts contondants. La cible est [empoignée] (évasion DD 19) si elle est de taille M ou plus petite. Jusqu'à la fin de cette empoignade, la cible est [entravée], la marilith peut automatiquement réussir son attaque de queue contre elle mais ne peut plus utiliser cette attaque contre d'autres cibles.
 
 Téléportation. La marilith se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
@@ -1032,7 +1032,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 - **Jets de sauvegarde** Con +11, Int +9, Sag +6, Cha +7
 - **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre des dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision parfaite 36 m, Perception passive 11
 - **Langues** abyssal, télépathie 36 m
 - **Dangerosité** 13 (10 000 PX)
@@ -1051,7 +1051,7 @@ Touché : 15 (3d6+5) dégâts tranchants.
 
 Halo d'épouvante (recharge 5-6). Le nalfeshnie émet une lumière multicolore scintillante.
 
-Les créatures situées à 4,50 mètres ou moins du nalfeshnie et qui peuvent voir cette lumière doivent chacune réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Les créatures situées à 4,50 mètres ou moins du nalfeshnie et qui peuvent voir cette lumière doivent chacune réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Une créature est immunisée contre le halo d'épouvante du nalfeshnie pendant 24 heures si elle réussit son jet de sauvegarde ou si l'effet dont elle est victime prend fin.
 
@@ -1076,7 +1076,7 @@ Téléportation. Le nalfeshnie se téléporte par magie, avec tous ses objets é
 - **Compétence** Discrétion +5
 - **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** abyssal, commun
 - **Dangerosité** 1 (200 PX)
@@ -1091,15 +1091,15 @@ Résistance à la magie. Le quasit obtient un avantage lors des jets de sauvegar
 
 ## Actions
 
-Frayeur (1/jour). Une créature choisie par le quasit et située à 6 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 10 pour ne pas être terrorisée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si le quasit est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite.
+Frayeur (1/jour). Une créature choisie par le quasit et située à 6 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 10 pour ne pas être [terrorisée] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si le quasit est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Griffes (Morsure sous forme de bête). Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 5 (1d4+3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir 5 (2d4) dégâts de poison et être empoisonnée pendant 1 minute.
+Touché : 5 (1d4+3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir 5 (2d4) dégâts de poison et être [empoisonnée] pendant 1 minute.
 
 La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-Invisibilité. Le quasit devient invisible par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles.
+Invisibilité. Le quasit devient [invisible] par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
 # Vrock
@@ -1116,7 +1116,7 @@ Invisibilité. Le quasit devient invisible par magie jusqu'à ce qu'il attaque o
 - **Jets de sauvegarde** Dex +5, Sag +4, Cha +2
 - **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 11
 - **Langues** abyssal, télépathie 36 m
 - **Dangerosité** 6 (2 300 PX)
@@ -1133,7 +1133,7 @@ Bec. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cib
 
 Touché : 10 (2d6+3) dégâts perforants.
 
-Piaillement étourdissant (1/jour). Le vrock pousse un piaillement terrifiant. Les créatures situées à 6 mètres ou moins de lui, qui peuvent l'entendre et qui ne sont pas des démons, doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être étourdies jusqu'à la fin du prochain tour du vrock.
+Piaillement étourdissant (1/jour). Le vrock pousse un piaillement terrifiant. Les créatures situées à 6 mètres ou moins de lui, qui peuvent l'entendre et qui ne sont pas des démons, doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être [étourdies] jusqu'à la fin du prochain tour du vrock.
 
 Serres. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
@@ -1141,7 +1141,7 @@ Touché : 14 (2d10+3) dégâts tranchants.
 
 Spores (recharge 6). Un nuage de spores toxiques de 4,50 mètres de rayon s'étend autour du vrock.
 
-Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnées. Une cible subit 5 (1d10) dégâts de poison au début de chacun de ses tours tant qu'elle est empoisonnée de cette façon. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
+Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être [empoisonnées]. Une cible subit 5 (1d10) dégâts de poison au début de chacun de ses tours tant qu'elle est [empoisonnée] de cette façon. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
 
 
 # Destrier noir
@@ -1186,7 +1186,7 @@ Touché : 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 |12 (+1)|14 (+2)|16 (+3)|15 (+2)|14 (+2)|18 (+4)|
 
 - **Compétences** Perception +4
-- **Immunité contre les états** aveuglé, à terre
+- **Immunité contre les états** [aveuglé], [à terre]
 - **Sens** vision aveugle 18 m (aveugle au-delà) ; Perception passive 14
 - **Langues** profond, commun des profondeurs, télépathie (36 m)
 - **Dangerosité** 13 (10 000 XP)
@@ -1235,9 +1235,9 @@ Chaque créature se trouvant dans un cône de 18 mètres doit effectuer un jet d
 
 5. Bleu. La cible subit 10d6 dégâts de froid en cas d'échec à son jet de sauvegarde, ou la moitié de ces dégâts en cas de réussite.
 
-6. Indigo. En cas d'échec au jet de sauvegarde, la cible est entravée. Elle doit alors effectuer un jet de sauvegarde de Constitution à la fin de chacun de ses tours. Si elle réussit trois fois son jet de sauvegarde, le sort prend fin. Si elle échoue trois fois son jet de sauvegarde, elle est changée en pierre de manière permanente et soumise à l'état spécial «pétrifié ». Les succès ou échecs n'ont pas besoin d'être consécutifs ; gardez une trace de vos échecs et de vos réussites à chaque tour jusqu'à ce que vous en ayez 3 dans une catégorie.
+6. Indigo. En cas d'échec au jet de sauvegarde, la cible est [entravée]. Elle doit alors effectuer un jet de sauvegarde de Constitution à la fin de chacun de ses tours. Si elle réussit trois fois son jet de sauvegarde, le sort prend fin. Si elle échoue trois fois son jet de sauvegarde, elle est changée en pierre de manière permanente et soumise à l'état spécial «[pétrifié] ». Les succès ou échecs n'ont pas besoin d'être consécutifs ; gardez une trace de vos échecs et de vos réussites à chaque tour jusqu'à ce que vous en ayez 3 dans une catégorie.
 
-7. Violet. En cas d'échec, la cible est aveuglée. Elle doit alors effectuer un jet de sauvegarde de Sagesse au début de votre prochain tour. Si ce nouveau jet de sauvegarde est réussi, l'aveuglement prend fin. Si elle échoue ce nouveau jet de sauvegarde, la créature est transportée dans un autre plan d'existence que le MJ choisit et n'est plus aveuglée (typiquement, une créature qui ne se situe pas sur son plan d'origine y est renvoyée, tandis que les autres créatures sont généralement transportées dans le plan Astral ou le plan Éthéré).
+7. Violet. En cas d'échec, la cible est [aveuglée]. Elle doit alors effectuer un jet de sauvegarde de Sagesse au début de votre prochain tour. Si ce nouveau jet de sauvegarde est réussi, l'aveuglement prend fin. Si elle échoue ce nouveau jet de sauvegarde, la créature est transportée dans un autre plan d'existence que le MJ choisit et n'est plus [aveuglée] (typiquement, une créature qui ne se situe pas sur son plan d'origine y est renvoyée, tandis que les autres créatures sont généralement transportées dans le plan Astral ou le plan Éthéré).
 
 8. Spécial. La cible est frappée par deux rayons.
 
@@ -1259,7 +1259,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 - **Compétences** Perception +8, Perspicacité +5, Supercherie +5
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 18
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 5 (1 800 PX)
@@ -1303,14 +1303,14 @@ Touché : 10 (2d6+3) dégâts perforants.
 - **Jets de sauvegarde** For +5, Con +4, Sag +2
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 3 (700 PX)
 
 ## Capacités
 
-Inébranlable. Le diable ne peut pas être terrorisé tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.
+Inébranlable. Le diable ne peut pas être [terrorisé] tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.
 
 Résistance à la magie. Le diable obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -1322,7 +1322,7 @@ Attaques multiples. Le diable effectue deux attaques : une avec sa barbe, l'autr
 
 Barbe. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 6 (1d8+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas être empoisonnée pendant 1 minute. La cible empoisonnée de la sorte ne peut plus se soigner ou récupérer ses points de vie perdus. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 6 (1d8+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas être [empoisonnée] pendant 1 minute. La cible [empoisonnée] de la sorte ne peut plus se soigner ou récupérer ses points de vie perdus. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Coutille. Attaque d'arme au corps à corps : +5 pour toucher, allonge 3 m, une cible.
 
@@ -1343,7 +1343,7 @@ Touché : 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant o
 - **Jets de sauvegarde** For +10, Dex +7, Sag +7, Cha +7
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 13
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 11 (7 200 PX)
@@ -1385,7 +1385,7 @@ Touché : 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant o
 - **Jets de sauvegarde** Dex +7, Con +9, Sag +7, Cha +9
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu, de froid et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 12
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 14 (11 500 PX)
@@ -1412,11 +1412,11 @@ Mur de glace (Recharge 6). Le diable crée par magie un mur de glace opaque sur 
 
 Au moment où le mur apparaît, les créatures présentes dans l'emplacement qu'il occupe sont expulsées de la zone par la trajectoire la plus courte.
 
-Chaque créature choisit le côté du mur vers lequel elle est expulsée, à moins qu'elle ne soit neutralisée.
+Chaque créature choisit le côté du mur vers lequel elle est expulsée, à moins qu'elle ne soit [neutralisée].
 
 Les créatures effectuent ensuite chacune un jet de sauvegarde de Dextérité DD 17 ; elles subissent 35 (10d6) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Le mur reste en place pendant 1 minute. Il disparaît prématurément si le diable est neutralisé ou meurt.
+Le mur reste en place pendant 1 minute. Il disparaît prématurément si le diable est [neutralisé] ou meurt.
 
 Il est possible d'endommager le mur ou d'y percer une brèche ; chaque section de 3 mètres de côté a une CA de 5, 30 points de vie, une vulnérabilité aux dégâts de feu et une immunité contre les dégâts nécrotiques, psychiques, d'acide, de froid et de poison.
 
@@ -1440,7 +1440,7 @@ Touché : 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 - **Jets de sauvegarde** Con +7, Sag +4, Cha +5
 - **Résistances aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 11
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 8 (3 900 PX)
@@ -1457,17 +1457,17 @@ Attaques multiples. Le diable effectue deux attaques avec ses chaînes.
 
 Animer des chaînes (Recharge après un repos court ou long). Le diable provoque le surgissement de barbelures extrêmement coupantes sur un maximum de quatre chaînes situées dans son champ de vision à 18 mètres ou moins, à condition que personne ne les porte ou transporte.
 
-Chaque chaîne animée est un objet doté d'une CA de 20, de 20 points de vie, d'une résistance aux dégâts perforants et d'une immunité contre les dégâts de foudre et psychiques. Quand le diable utilise Attaques multiples lors de son tour, il peut utiliser chaque chaîne animée pour effectuer une attaque de chaîne supplémentaire. Une chaîne animée peut empoigner une créature par ses propres moyens mais ne peut pas effectuer d'attaques lorsqu'elle empoigne. Une chaîne animée redevient inerte si ses points de vie tombent à 0, ou si le diable est neutralisé ou meurt.
+Chaque chaîne animée est un objet doté d'une CA de 20, de 20 points de vie, d'une résistance aux dégâts perforants et d'une immunité contre les dégâts de foudre et psychiques. Quand le diable utilise Attaques multiples lors de son tour, il peut utiliser chaque chaîne animée pour effectuer une attaque de chaîne supplémentaire. Une chaîne animée peut empoigner une créature par ses propres moyens mais ne peut pas effectuer d'attaques lorsqu'elle empoigne. Une chaîne animée redevient inerte si ses points de vie tombent à 0, ou si le diable est [neutralisé] ou meurt.
 
 Chaîne. Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
 
-Touché : 11 (2d6+4) dégâts tranchants. La cible est empoignée (évasion DD 14) si le diable n'est pas déjà en train d'empoigner une autre créature. Tant que dure l'empoignade, la cible est entravée et subit 7 (2d6) dégâts perforants au début de chacun de ses tours.
+Touché : 11 (2d6+4) dégâts tranchants. La cible est [empoignée] (évasion DD 14) si le diable n'est pas déjà en train d'empoigner une autre créature. Tant que dure l'empoignade, la cible est [entravée] et subit 7 (2d6) dégâts perforants au début de chacun de ses tours.
 
 ## Réactions
 
 Masque bouleversant. Quand une créature située dans le champ de vision du diable commence son tour à 9 mètres ou moins de lui, le diable peut créer une illusion qui le fait ressembler à un être aimé mais disparu ou à un implacable ennemi de la créature.
 
-Si celle-ci peut voir le diable, elle doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être terrorisée jusqu'à la fin de son tour.
+Si celle-ci peut voir le diable, elle doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être [terrorisée] jusqu'à la fin de son tour.
 
 
 # Diable osseux
@@ -1485,7 +1485,7 @@ Si celle-ci peut voir le diable, elle doit réussir un jet de sauvegarde de Sage
 - **Compétences** Perspicacité +6, Supercherie +7
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 12
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 9 (5 000 PX)
@@ -1502,7 +1502,7 @@ Attaques multiples. Le diable effectue trois attaques : deux avec ses griffes et
 
 Dard. Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
 
-Touché : 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être [empoisonnée] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Griffe. Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible.
 
@@ -1523,7 +1523,7 @@ Touché : 8 (1d8+4) dégâts tranchants.
 - **Compétences** Discrétion +5, Perspicacité +3, Persuasion +4, Supercherie +4
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 11
 - **Langues** commun, infernal
 - **Dangerosité** 1 (200 PX)
@@ -1542,9 +1542,9 @@ Dard (Morsure sous forme de bête). Attaque d'arme au corps à corps : +5 pour t
 
 Touché : 5 (1d4+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11 ; elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté, ou la moitié de ces dégâts seulement en cas de réussite.
 
-Invisibilité. Le diablotin devient invisible par magie.
+Invisibilité. Le diablotin devient [invisible] par magie.
 
-Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles.
+Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
 # Diantrefosse
@@ -1561,7 +1561,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 - **Jets de sauvegarde** Dex +8, Con +13, Sag +10
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision parfaite 36 m, Perception passive 14
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 20 (25 000 PX)
@@ -1570,7 +1570,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 
 Armes magiques. Les attaques d'arme du diantrefosse sont magiques.
 
-Aura de terreur. Toutes les créatures hostiles envers le diantrefosse qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un jet de sauvegarde de Sagesse DD 21, sauf si le diantrefosse est neutralisé. Les créatures qui ratent leur jet de sauvegarde sont terrorisées jusqu'au début de leur prochain tour. Celles qui réussissent leur jet de sauvegarde sont immunisées contre l'aura de terreur du diantrefosse pendant 24 heures.
+Aura de terreur. Toutes les créatures hostiles envers le diantrefosse qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un jet de sauvegarde de Sagesse DD 21, sauf si le diantrefosse est [neutralisé]. Les créatures qui ratent leur jet de sauvegarde sont [terrorisées] jusqu'au début de leur prochain tour. Celles qui réussissent leur jet de sauvegarde sont immunisées contre l'aura de terreur du diantrefosse pendant 24 heures.
 
 Incantation innée. La caractéristique d'incantation du diantrefosse est le Charisme (DD du jet de sauvegarde contre les sorts 21). Le diantrefosse peut lancer les sorts suivants de manière innée sans composante matérielle :
 
@@ -1594,7 +1594,7 @@ Touché : 15 (2d6+8) dégâts contondants plus 21 (6d6) dégâts de feu.
 
 Morsure. Attaque d'arme au corps à corps : +14 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 22 (4d6+8) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 21 pour ne pas être empoisonnée. Tant que le poison fait effet, la cible ne peut pas récupérer de points de vie et elle subit 21 (6d6) dégâts de poison au début de chacun de ses tours. La cible empoisonnée peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 22 (4d6+8) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 21 pour ne pas être [empoisonnée]. Tant que le poison fait effet, la cible ne peut pas récupérer de points de vie et elle subit 21 (6d6) dégâts de poison au début de chacun de ses tours. La cible [empoisonnée] peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Queue. Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
 
@@ -1615,7 +1615,7 @@ Touché : 24 (3d10+8) dégâts contondants.
 - **Jets de sauvegarde** Dex +7, Con +8, Sag +6, Cha +8
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision parfaite 36 m, Perception passive 12
 - **Langue** infernal, télépathie 36 m
 - **Dangerosité** 12 (8 400 PX)
@@ -1630,7 +1630,7 @@ Résistance à la magie. L'érinye obtient un avantage lors des jets de sauvegar
 
 Arc long. Attaque d'arme à distance : +7 pour toucher, portée 45/180 m, une cible. 
 
-Touché : 7 (1d8+3) dégâts perforants plus 13 (3d8) dégâts de poison et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnée. Le poison fait effet jusqu'à son élimination par un sort de restauration inférieure ou une magie similaire.
+Touché : 7 (1d8+3) dégâts perforants plus 13 (3d8) dégâts de poison et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être [empoisonnée]. Le poison fait effet jusqu'à son élimination par un sort de restauration inférieure ou une magie similaire.
 
 Attaques multiples. L'érinye effectue trois attaques.
 
@@ -1656,7 +1656,7 @@ Parade. L'érynie ajoute 4 à sa CA lorsqu'elle est la cible d'une attaque au co
 
 - **Résistance aux dégâts** de froid
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre les états** charmé, terrorisé et empoisonné
+- **Immunité contre les états** [charmé], [terrorisé] et [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** comprend l'infernal mais ne peut pas parler
 - **Dangerosité** 0 (10 PX)
@@ -1756,7 +1756,7 @@ Touché : 14 (3d6+4) dégâts perforants.
 
 ## Capacités
 
-Charge écrasante. Si le tricératops se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le tricératops peut effectuer contre elle une attaque de piétinement par une action bonus.
+Charge écrasante. Si le tricératops se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le tricératops peut effectuer contre elle une attaque de piétinement par une action bonus.
 
 ## Actions
 
@@ -1764,7 +1764,7 @@ Coup de corne. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 
 
 Touché : 24 (4d8+6) dégâts perforants.
 
-Piétinement. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature à terre.
+Piétinement. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature [à terre].
 
 Touché : 22 (3d10+6) dégâts contondants.
 
@@ -1791,7 +1791,7 @@ Attaques multiples. Le tyrannosaure effectue deux attaques : une avec sa morsure
 
 Morsure. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
 
-Touché : 33 (4d12+7) dégâts perforants. La cible est empoignée (évasion DD 17) si elle est de taille M ou plus petite. Elle est entravée tant qu'elle est empoignée et le tyrannosaure ne peut pas mordre une autre créature.
+Touché : 33 (4d12+7) dégâts perforants. La cible est [empoignée] (évasion DD 17) si elle est de taille M ou plus petite. Elle est [entravée] tant qu'elle est [empoignée] et le tyrannosaure ne peut pas mordre une autre créature.
 
 Queue. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
 
@@ -1809,7 +1809,7 @@ Touché : 20 (3d8+7) dégâts contondants.
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
 
 - **Compétences** Perspicacité +3, Supercherie +6
-- **Immunité contre l'état** charmé
+- **Immunité contre l'état** [charmé]
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langue** commun
 - **Dangerosité** 3 (700 PX)
@@ -1870,7 +1870,7 @@ Morsure. Attaque d'arme au corps à corps : +14 pour toucher, allonge 4,50 m, un
 
 Touché : 19 (2d10+8) dégâts perforants plus 9 (2d8) dégâts de froid.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +14 pour toucher, allonge 6 m, une cible.
 
@@ -1884,7 +1884,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -1924,7 +1924,7 @@ Morsure. Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une c
 
 Touché : 17 (2d10+6) dégâts perforants plus 4 (1d8) dégâts de froid.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +11 pour toucher, allonge 4,50 m, une cible. 
 
@@ -1938,7 +1938,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2038,7 +2038,7 @@ Morsure. Attaque d'arme au corps à corps : +16 pour toucher, allonge 4,50 m, un
 
 Touché : 20 (2d10+9) dégâts perforants plus 11 (2d10) dégâts de foudre.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 20 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 20 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +16 pour toucher, allonge 6 m, une cible.
 
@@ -2052,7 +2052,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 24 pour ne pas subir 16 (2d6+9) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 24 pour ne pas subir 16 (2d6+9) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2090,7 +2090,7 @@ Morsure. Attaque d'arme au corps à corps : +12 pour toucher, allonge 3 m, une c
 
 Touché : 18 (2d10+7) dégâts perforants plus 5 (1d10) dégâts de foudre.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 17 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 17 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +12 pour toucher, allonge 4,50 m, une cible.
 
@@ -2104,7 +2104,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 20 pour ne pas subir 14 (2d6+7) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 20 pour ne pas subir 14 (2d6+7) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2202,7 +2202,7 @@ Morsure. Attaque d'arme au corps à corps : +15 pour toucher, allonge 4,50 m, un
 
 Touché : 19 (2d10+8) dégâts perforants plus 9 (2d8) dégâts d'acide.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +15 pour toucher, allonge 6 m, une cible.
 
@@ -2216,7 +2216,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol. Détecter. Le dragon effectue un test de Sagesse (Perception).
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol. Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon noir adulte
@@ -2254,7 +2254,7 @@ Morsure. Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une c
 
 Touché : 17 (2d10+6) dégâts perforants plus 4 (1d8) dégâts d'acide.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +11 pour toucher, allonge 4,50 m, une cible.
 
@@ -2268,7 +2268,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2372,7 +2372,7 @@ Morsure. Attaque d'arme au corps à corps : +17 pour toucher, allonge 4,50m, une
 
 Touché : 21 (2d10+10) dégâts perforants plus 14 (4d6) dégâts de feu.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 21 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 21 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +17 pour toucher, allonge 6 m, une cible.
 
@@ -2386,7 +2386,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 25 pour ne pas subir 17 (2d6+10) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 25 pour ne pas subir 17 (2d6+10) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2424,7 +2424,7 @@ Morsure. Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une c
 
 Touché : 19 (2d10+8) dégâts perforants plus 7 (2d6) dégâts de feu.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +14 pour toucher, allonge 4,50 m, une cible.
 
@@ -2438,7 +2438,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2514,7 +2514,7 @@ Souffle de feu (Recharge 5-6). Le dragon souffle du feu sur un cône de 4,50 mè
 - **Jets de sauvegarde** Dex +8, Con +14, Sag +10, Cha +11
 - **Compétences** Discrétion +8, Perception +17, Perspicacité +10, Persuasion +11, Supercherie +11
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
 - **Langues** commun, draconique
 - **Dangerosité** 22 (41 000 PX)
@@ -2537,13 +2537,13 @@ Morsure. Attaque d'arme au corps à corps : +15 pour toucher, allonge 4,50 m, un
 
 Touché : 19 (2d10+8) dégâts perforants plus 10 (3d6) dégâts de poison.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +15 pour toucher, allonge 6 m, une cible.
 
 Touché : 17 (2d8+8) dégâts contondants.
 
-Souffle empoisonné (Recharge 5-6). Le dragon souffle du gaz empoisonné sur un cône de 27 mètres.
+Souffle [empoisonné] (Recharge 5-6). Le dragon souffle du gaz [empoisonné] sur un cône de 27 mètres.
 
 Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 22 ; elles subissent 77 (22d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -2553,7 +2553,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2571,7 +2571,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 - **Jets de sauvegarde** Dex +6, Con +10, Sag +7, Cha +8
 - **Compétences** Discrétion +6, Perception +12, Perspicacité +7, Persuasion +8, Supercherie +8
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
 - **Langues** commun, draconique
 - **Dangerosité** 15 (13 000 PX)
@@ -2594,13 +2594,13 @@ Morsure. Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une c
 
 Touché : 17 (2d10+6) dégâts perforants plus 7 (2d6) dégâts de poison.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +11 pour toucher, allonge 4,50 m, une cible.
 
 Touché : 15 (2d8+6) dégâts contondants.
 
-Souffle empoisonné (Recharge 5-6). Le dragon souffle du gaz empoisonné sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 18 ; elles subissent 56 (16d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+Souffle [empoisonné] (Recharge 5-6). Le dragon souffle du gaz [empoisonné] sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 18 ; elles subissent 56 (16d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 ## Actions légendaires
 
@@ -2608,7 +2608,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2626,7 +2626,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 - **Jets de sauvegarde** Dex +4, Con +6, Sag +4, Cha +5
 - **Compétences** Discrétion +4, Perception +7, Supercherie +5
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive 17
 - **Langues** commun, draconique
 - **Dangerosité** 8 (3 900 PX)
@@ -2647,7 +2647,7 @@ Morsure. Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une ci
 
 Touché : 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 
-Souffle empoisonné (Recharge 5-6). Le dragon souffle du gaz empoisonné sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 42 (12d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+Souffle [empoisonné] (Recharge 5-6). Le dragon souffle du gaz [empoisonné] sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 42 (12d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Dragonnet vert
@@ -2663,7 +2663,7 @@ Souffle empoisonné (Recharge 5-6). Le dragon souffle du gaz empoisonné sur un 
 - **Jets de sauvegarde** Dex +3, Con +3, Sag +2, Cha +3
 - **Compétences** Discrétion +3, Perception +4
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
 - **Langue** draconique
 - **Dangerosité** 2 (450 PX)
@@ -2678,7 +2678,7 @@ Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une
 
 Touché : 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 
-Souffle empoisonné (Recharge 5-6). Le dragon souffle du gaz empoisonné sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 11 ; elles subissent 21 (6d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
+Souffle [empoisonné] (Recharge 5-6). Le dragon souffle du gaz [empoisonné] sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 11 ; elles subissent 21 (6d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Dragon d'airain vénérable
@@ -2720,7 +2720,7 @@ Morsure. Attaque d'arme au corps à corps : +14 pour toucher, allonge 4,50 m, un
 
 Touché : 19 (2d10+8) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 18 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 18 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +14 pour toucher, allonge 6 m, une cible.
 
@@ -2730,7 +2730,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de feu. Le dragon souffle du feu sur une ligne de 27 mètres de long et 3 mètres de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 21 ; elles subissent 56 (16d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 21 pour ne pas tomber inconscientes pendant 10 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 21 pour ne pas tomber [inconscientes] pendant 10 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 ## Actions légendaires
 
@@ -2738,7 +2738,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2776,7 +2776,7 @@ Morsure. Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une c
 
 Touché : 17 (2d10+6) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +11 pour toucher, allonge 4,50 m, une cible.
 
@@ -2786,7 +2786,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de feu. Le dragon souffle du feu sur une ligne de 18 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 18 ; elles subissent 45 (13d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 18 pour ne pas tomber inconscientes pendant 10 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 18 pour ne pas tomber [inconscientes] pendant 10 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 ## Actions légendaires
 
@@ -2794,7 +2794,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2832,7 +2832,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de feu. Le dragon souffle du feu sur une ligne de 12 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 14 ; elles subissent 42 (12d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas tomber inconscientes pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas tomber [inconscientes] pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
 # Dragonnet d'airain
@@ -2862,7 +2862,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de feu. Le dragon souffle du feu sur une ligne de 6 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 11 ; elles subissent 14 (4d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas tomber inconscientes pendant 1 minute. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
+Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas tomber [inconscientes] pendant 1 minute. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
 # Dragon d'argent vénérable
@@ -2902,7 +2902,7 @@ Morsure. Attaque d'arme au corps à corps : +17 pour toucher, allonge 4,50 m, un
 
 Touché : 21 (2d10+10) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 21 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 21 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +17 pour toucher, allonge 6 m, une cible.
 
@@ -2912,7 +2912,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de glace. Le dragon souffle de la glace sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 24 ; elles subissent 67 (15d8) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 24 pour ne pas être paralysées pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 27 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 24 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 ## Actions légendaires
 
@@ -2920,7 +2920,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 25 pour ne pas subir 17 (2d6+10) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 25 pour ne pas subir 17 (2d6+10) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -2964,7 +2964,7 @@ Morsure. Attaque d'arme au corps à corps : +13 pour toucher, allonge 3 m, une c
 
 Touché : 19 (2d10+8) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 18 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 18 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +13 pour toucher, allonge 4,50 m, une cible.
 
@@ -2974,7 +2974,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de glace. Le dragon souffle de la glace sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 20 ; elles subissent 58 (13d8) dégâts de froid en cas d'échec ou la moitié de ce montant en cas de réussite.
 
-Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 20 pour ne pas être paralysées pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 20 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 ## Actions légendaires
 
@@ -2982,7 +2982,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 21 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 21 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3020,7 +3020,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de glace. Le dragon souffle de la glace sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 17 ; elles subissent 54 (12d8) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 17 pour ne pas être paralysées pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 17 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
 # Dragonnet d'argent
@@ -3050,7 +3050,7 @@ Souffles (Recharge 5-6). Le dragon utilise l'un des souffles suivants :
 
 Souffle de glace. Le dragon souffle de la glace sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 13 ; elles subissent 18 (4d8) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être paralysées pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
+Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
 # Dragon de bronze vénérable
@@ -3092,7 +3092,7 @@ Morsure. Attaque d'arme au corps à corps : +16 pour toucher, allonge 4,50 m, un
 
 Touché : 20 (2d10+9) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 20 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 20 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +16 pour toucher, allonge 6 m, une cible.
 
@@ -3110,7 +3110,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 24 pour ne pas subir 16 (2d6+9) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 24 pour ne pas subir 16 (2d6+9) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3156,7 +3156,7 @@ Morsure. Attaque d'arme au corps à corps : +12 pour toucher, allonge 3 m, une c
 
 Touché : 18 (2d10+7) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 17 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 17 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +12 pour toucher, allonge 4,50 m, une cible.
 
@@ -3174,7 +3174,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 20 pour ne pas subir 14 (2d6+7) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 20 pour ne pas subir 14 (2d6+7) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3292,7 +3292,7 @@ Morsure. Attaque d'arme au corps à corps : +15 pour toucher, allonge 4,50 m, un
 
 Touché : 19 (2d10+8) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 19 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +15 pour toucher, allonge 6 m, une cible.
 
@@ -3312,7 +3312,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3350,7 +3350,7 @@ Morsure. Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une c
 
 Touché : 17 (2d10+6) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +11 pour toucher, allonge 4,50 m, une cible.
 
@@ -3370,7 +3370,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3484,7 +3484,7 @@ Morsure. Attaque d'arme au corps à corps : +17 pour toucher, allonge 4,50 m, un
 
 Touché : 21 (2d10+10) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 24 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 24 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +17 pour toucher, allonge 6 m, une cible.
 
@@ -3502,7 +3502,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 25 pour ne pas subir 17 (2d6+10) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 25 pour ne pas subir 17 (2d6+10) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3548,7 +3548,7 @@ Morsure. Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une c
 
 Touché : 19 (2d10+8) dégâts perforants.
 
-Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 21 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
+Présence terrifiante. Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 21 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +14 pour toucher, allonge 4,50 m, une cible.
 
@@ -3566,7 +3566,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 Attaque avec la queue. Le dragon effectue une attaque de queue.
 
-Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
+Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 22 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol.
 
 Détecter. Le dragon effectue un test de Sagesse (Perception).
 
@@ -3680,7 +3680,7 @@ Touché : 26 (3d12+7) dégâts perforants.
 
 Queue. Attaque d'arme au corps à corps : +13 pour toucher, allonge 4,50 m, une cible.
 
-Touché : 26 (3d12+7) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas être repoussée sur une distance de 3 mètres et jetée à terre.
+Touché : 26 (3d12+7) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas être repoussée sur une distance de 3 mètres et jetée [à terre].
 
 Souffle de vapeur (Recharge 5-6). Le dragon-tortue souffle de la vapeur brûlante sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 18 ; elles subissent 52 (15d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Être sous l'eau ne confère aucune résistance contre ces dégâts.
 
@@ -3697,7 +3697,7 @@ Souffle de vapeur (Recharge 5-6). Le dragon-tortue souffle de la vapeur brûlant
 
 - **Compétences** Discrétion +5, Perspicacité +3, Persuasion +4, Supercherie +4
 - **Résistances aux dégâts** contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison
-- **Immunités à l'état** spécial empoisonné
+- **Immunités à l'état** spécial [empoisonné]
 - **Sens** vision dans le noir à 36 m, Perception passive 12
 - **Langues** commun
 - **Dangerosité** 1/4 (50 XP)
@@ -3739,7 +3739,7 @@ Touché : 5 (1d4+3) dégâts perforants.
 
 ## Capacités
 
-Ascendance féerique. Le drider obtient un avantage lors des jets de sauvegarde contre l'état spécial charmé et la magie ne peut pas l'endormir.
+Ascendance féerique. Le drider obtient un avantage lors des jets de sauvegarde contre l'état spécial [charmé] et la magie ne peut pas l'endormir.
 
 Incantation innée. La caractéristique d'incantation du drider est la Sagesse (DD du jet de sauvegarde contre les sorts 13). Le drider peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
@@ -3788,7 +3788,7 @@ Touché : 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 ## Capacités
 
-Ascendance féerique. Le drow obtient un avantage lors des jets de sauvegarde contre l'état spécial charmé et la magie ne peut pas l'endormir.
+Ascendance féerique. Le drow obtient un avantage lors des jets de sauvegarde contre l'état spécial [charmé] et la magie ne peut pas l'endormir.
 
 Incantation innée. La caractéristique d'incantation du drow est le Charisme (DD du jet de sauvegarde contre les sorts 11). Le drow peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
@@ -3802,9 +3802,9 @@ Sensibilité à la lumière du soleil. Le drow subit un désavantage lors des je
 
 Arbalète de poing. Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une cible.
 
-Touché : 5 (1d6+2) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être empoisonnée pendant 1 heure.
+Touché : 5 (1d6+2) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être [empoisonnée] pendant 1 heure.
 
-Si le jet de sauvegarde rate de 5 points ou plus, la cible est également inconsciente tant qu'elle reste empoisonnée de la sorte. Elle reprend conscience avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre ses esprits.
+Si le jet de sauvegarde rate de 5 points ou plus, la cible est également [inconsciente] tant qu'elle reste [empoisonnée] de la sorte. Elle reprend conscience avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre ses esprits.
 
 Épée courte. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
@@ -3824,14 +3824,14 @@ Touché : 5 (1d6+2) dégâts perforants.
 - **Jets de sauvegarde** Con +6, Sag +7, Cha +7
 - **Compétences** Discrétion +6, Intimidation +11, Perception +7, Religion +7
 - **Résistance aux dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 36 m, Perception passive 17
 - **Langues** commun des profondeurs, elfe
 - **Dangerosité** 7 (2900 PX)
 
 ## Capacités
 
-Ascendance féerique. La prêtresse obtient un avantage lors des jets de sauvegarde contre l'état spécial charmé et la magie ne peut pas l'endormir.
+Ascendance féerique. La prêtresse obtient un avantage lors des jets de sauvegarde contre l'état spécial [charmé] et la magie ne peut pas l'endormir.
 
 Marque du matriarcat. Par une action bonus, la prêtresse drow peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts nécrotiques supplémentaires à une cible qu'elle parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si la prêtresse dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du premier.
 
@@ -3904,7 +3904,7 @@ Résistance à la magie. La dryade obtient un avantage lors des jets de sauvegar
 
 ## Actions
 
-Charme féerique. La dryade cible un humanoïde ou une bête situé dans son champ de vision à 9 mètres ou moins d'elle. Si la cible peut voir la dryade, elle doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être charmée par magie. La créature ainsi charmée considère la dryade comme une amie de confiance qu'il faut écouter et protéger. Même si la cible n'est pas sous le contrôle de la dryade, elle envisage les requêtes et les actions de la dryade de la manière la plus favorable.
+Charme féerique. La dryade cible un humanoïde ou une bête situé dans son champ de vision à 9 mètres ou moins d'elle. Si la cible peut voir la dryade, elle doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être [charmée] par magie. La créature ainsi [charmée] considère la dryade comme une amie de confiance qu'il faut écouter et protéger. Même si la cible n'est pas sous le contrôle de la dryade, elle envisage les requêtes et les actions de la dryade de la manière la plus favorable.
 
 Chaque fois que la dryade ou ses alliés nuisent à la cible, celle-ci peut retenter le jet de sauvegarde et mettre fin à l'effet dont elle est victime en cas de réussite. Sinon, l'effet dure 24 heures. Il peut également prendre fin prématurément si la dryade meurt, si elle se trouve sur un plan d'existence différent de celui de la cible ou si elle met elle-même fin à l'effet en guise d'action bonus. Une cible qui réussit un jet de sauvegarde contre cet effet est immunisée contre le charme féerique de la dryade pendant 24 heures.
 
@@ -3933,7 +3933,7 @@ Touché : 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec g
 
 ## Capacités
 
-Résilience des duergars. Le duergar obtient un avantage lors des jets de sauvegarde contre le poison, les sorts et les illusions, et tous ceux effectués pour résister aux états spéciaux charmé et paralysé.
+Résilience des duergars. Le duergar obtient un avantage lors des jets de sauvegarde contre le poison, les sorts et les illusions, et tous ceux effectués pour résister aux états spéciaux [charmé] et [paralysé].
 
 Sensibilité à la lumière du soleil. Le duergar subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.
 
@@ -3945,7 +3945,7 @@ Pendant 1 minute, le duergar augmente par magie sa taille, ainsi que tous ses ob
 
 Le duergar est alors de taille G, il double les dés de dégâts de ses attaques d'arme basés sur la Force (inclus dans les attaques) et il obtient un avantage lors des tests de Force et des jets de sauvegarde de Force. Si le duergar n'a pas assez de place pour adopter une Grande taille, sa taille augmente tout de même du maximum possible en fonction de l'espace disponible.
 
-Invisibilité (Recharge après un repos court ou long). Le duergar devient invisible par magie. Il redevient visible s'il attaque, lance un sort, utilise Agrandir, si sa concentration est interrompue (comme s'il se concentrait sur un sort) ou au bout d'une heure. Ses objets équipés ou transportés deviennent également invisibles.
+Invisibilité (Recharge après un repos court ou long). Le duergar devient [invisible] par magie. Il redevient visible s'il attaque, lance un sort, utilise Agrandir, si sa concentration est interrompue (comme s'il se concentrait sur un sort) ou au bout d'une heure. Ses objets équipés ou transportés deviennent également [invisibles].
 
 Javeline. Attaque d'arme à distance ou au corps à corps : +4 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.
 
@@ -3969,7 +3969,7 @@ Touché : 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il s
 
 - **Résistances aux dégâts** de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifié
+- **Immunités contre les états** [à terre], [empoigné], [empoisonné], [entravé], épuisé, [inconscient], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** aérien
 - **Dangerosité** 5 (1 800 PX)
@@ -3988,9 +3988,9 @@ Touché : 14 (2d8+5) dégâts contondants.
 
 Tourbillon (Recharge 4-6). Les créatures dans l'emplacement occupé par l'élémentaire doivent chacune effectuer un jet de sauvegarde de Force DD 13.
 
-Celles qui ratent le jet de sauvegarde subissent 15 (3d8+2) dégâts contondants, elles sont repoussées sur une distance de 6 mètres dans une direction aléatoire et jetées à terre. Si une cible repoussée entre en collision avec un objet, tel qu'un mur ou le sol, elle subit 3 (1d6) dégâts contondants par tranche de 3 mètres traversée de la sorte. Si la cible entre en collision avec une autre créature, celle-ci doit réussir un jet de sauvegarde de Dextérité DD 13 pour ne pas subir le même montant de dégâts et se retrouver à terre.
+Celles qui ratent le jet de sauvegarde subissent 15 (3d8+2) dégâts contondants, elles sont repoussées sur une distance de 6 mètres dans une direction aléatoire et jetées [à terre]. Si une cible repoussée entre en collision avec un objet, tel qu'un mur ou le sol, elle subit 3 (1d6) dégâts contondants par tranche de 3 mètres traversée de la sorte. Si la cible entre en collision avec une autre créature, celle-ci doit réussir un jet de sauvegarde de Dextérité DD 13 pour ne pas subir le même montant de dégâts et se retrouver [à terre].
 
-Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts contondants seulement, elle n'est pas repoussée et n'est pas jetée à terre.
+Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts contondants seulement, elle n'est pas repoussée et n'est pas jetée [à terre].
 
 
 # Élémentaire de l'eau
@@ -4006,7 +4006,7 @@ Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts cont
 
 - **Résistance aux dégâts** d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
+- **Immunités contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** aquatique
 - **Dangerosité** 5 (1 800 PX)
@@ -4025,9 +4025,9 @@ Coup. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une ci
 
 Touché : 13 (2d8+4) dégâts contondants.
 
-Trombe (Recharge 4-6). Les créatures présentes dans l'emplacement occupé par l'élémentaire doivent chacune effectuer un jet de sauvegarde de Force DD 15. En cas d'échec, une cible subit 13 (2d8+4) dégâts contondants. Si elle est de taille G ou plus petite, elle est également empoignée (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est entravée et ne peut plus respirer à moins qu'elle soit capable de respirer dans l'eau. Si le jet de sauvegarde est réussi, la cible est expulsée de l'emplacement occupé par l'élémentaire.
+Trombe (Recharge 4-6). Les créatures présentes dans l'emplacement occupé par l'élémentaire doivent chacune effectuer un jet de sauvegarde de Force DD 15. En cas d'échec, une cible subit 13 (2d8+4) dégâts contondants. Si elle est de taille G ou plus petite, elle est également [empoignée] (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est [entravée] et ne peut plus respirer à moins qu'elle soit capable de respirer dans l'eau. Si le jet de sauvegarde est réussi, la cible est expulsée de l'emplacement occupé par l'élémentaire.
 
-L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites en même temps. Au début de chacun des tours de l'élémentaire, chaque cible empoignée par lui subit 13 (2d8+4) dégâts contondants. Une créature située à 1,50 mètre ou moins de l'élémentaire peut tenter d'extirper une créature ou un objet en y consacrant une action et en réussissant un test de Force DD 14.
+L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites en même temps. Au début de chacun des tours de l'élémentaire, chaque cible [empoignée] par lui subit 13 (2d8+4) dégâts contondants. Une créature située à 1,50 mètre ou moins de l'élémentaire peut tenter d'extirper une créature ou un objet en y consacrant une action et en réussissant un test de Force DD 14.
 
 
 # Élémentaire du feu
@@ -4043,7 +4043,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** ignée
 - **Dangerosité** 5 (1 800 PX)
@@ -4079,7 +4079,7 @@ Touché : 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou un
 - **Vulnérabilité aux dégâts** de tonnerre
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** empoisonné, épuisé, inconscient, paralysé et pétrifié
+- **Immunités contre les états** [empoisonné], épuisé, [inconscient], [paralysé] et [pétrifié]
 - **Sens** perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
 - **Langue** terreux
 - **Dangerosité** 5 (1 800 PX)
@@ -4133,7 +4133,7 @@ Enrouler. L'enlaceur tire vers lui chaque créature qu'il empoigne sur une dista
 
 Filament. Attaque d'arme au corps à corps : +7 pour toucher, allonge 15 m, une créature.
 
-Touché : la cible est empoignée (évasion DD 15). Jusqu'à la fin de l'empoignade, la cible est entravée et subit un désavantage lors des tests de Force et des jets de sauvegarde de Force. L'enlaceur ne peut pas utiliser le même filament sur une autre cible.
+Touché : la cible est [empoignée] (évasion DD 15). Jusqu'à la fin de l'empoignade, la cible est [entravée] et subit un désavantage lors des tests de Force et des jets de sauvegarde de Force. L'enlaceur ne peut pas utiliser le même filament sur une autre cible.
 
 Morsure. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.
 
@@ -4164,11 +4164,11 @@ Touché : 1 dégât tranchant.
 
 Arc court. Attaque d'arme à distance : +6 pour toucher, portée 12/48 m, une cible.
 
-Touché : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou être empoisonnée pendant une minute. Si le jet de sauvegarde échoue de 5 points ou plus, la cible tombe inconsciente pour la même durée. Elle reprend ses esprits avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre conscience.
+Touché : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou être [empoisonnée] pendant une minute. Si le jet de sauvegarde échoue de 5 points ou plus, la cible tombe [inconsciente] pour la même durée. Elle reprend ses esprits avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre conscience.
 
 Lire le coeur. L'esprit follet touche une créature et connaît par magie l'état émotionnel actuel de celle-ci. Si la cible échoue à un jet de sauvegarde de Charisme DD 10, l'esprit follet connaît aussi l'alignement de la créature. Les célestes, les fiélons et les morts-vivants échouent automatiquement à ce jet de sauvegarde.
 
-Invisibilité. L'esprit follet devient invisible par magie. Il redevient visible s'il attaque, lance un sort, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles.
+Invisibilité. L'esprit follet devient [invisible] par magie. Il redevient visible s'il attaque, lance un sort, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
 # Ettercap
@@ -4205,11 +4205,11 @@ Touché : 7 (2d4+2) dégâts tranchants.
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 6 (1d8+2) dégâts perforants plus 4 (1d8) dégâts de poison. La cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être empoisonnée pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 6 (1d8+2) dégâts perforants plus 4 (1d8) dégâts de poison. La cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [empoisonnée] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Toile d'araignée (Recharge 5-6). Attaque d'arme à distance : +4 pour toucher, portée 9/18 m, une créature de taille G ou plus petite.
 
-Touché : la créature est entravée par la toile. Par une action, la créature entravée peut effectuer un test de Force DD 11 et s'en libérer en cas de réussite. L'effet prend également fin si la toile est détruite. Elle a une CA de 10, 5 points de vie, une vulnérabilité aux dégâts de feu et une immunité contre les dégâts contondants, de poison et psychiques.
+Touché : la créature est [entravée] par la toile. Par une action, la créature [entravée] peut effectuer un test de Force DD 11 et s'en libérer en cas de réussite. L'effet prend également fin si la toile est détruite. Elle a une CA de 10, 5 points de vie, une vulnérabilité aux dégâts de feu et une immunité contre les dégâts contondants, de poison et psychiques.
 
 
 # Ettin
@@ -4230,7 +4230,7 @@ Touché : la créature est entravée par la toile. Par une action, la créature 
 
 ## Capacités
 
-Bicéphale. L'ettin obtient un avantage lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux assourdi, aveuglé, charmé, terrorisé, étourdi et inconscient.
+Bicéphale. L'ettin obtient un avantage lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux [assourdi], [aveuglé], [charmé], [terrorisé], [étourdi] et [inconscient].
 
 Petit dormeur. Quand une des têtes de l'ettin dort, l'autre est éveillée.
 
@@ -4260,7 +4260,7 @@ Touché : 14 (2d8+5) dégâts perforants.
 
 - **Résistance aux dégâts** d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de froid, de poison et nécrotiques
-- **Immunités contre les états** à terre, charmé, empoigné, empoisonné, épuisé, entravé, paralysé, pétrifié et terrorisé
+- **Immunités contre les états** [à terre], [charmé], [empoigné], [empoisonné], épuisé, [entravé], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** toutes les langues qu'il connaissait de son vivant
 - **Dangerosité** 4 (1 100 PX)
@@ -4279,13 +4279,13 @@ Touché : 17 (4d6+3) dégâts nécrotiques.
 
 Forme éthérée. Le fantôme entre dans le plan Éthéré depuis le plan Matériel, ou vice versa. Il est visible sur le plan Matériel quand il est dans la Frontière éthérée et vice-versa, mais il ne peut pas affecter et ne peut pas être affecté par quoi que ce soit provenant de l'autre plan.
 
-Possession (Recharge 6). Un humanoïde ciblé situé dans le champ de vision du fantôme et à 1,50 mètre ou moins de lui doit réussir un jet de sauvegarde de Charisme DD 13 pour ne pas être possédé par le mort-vivant ; le fantôme disparaît alors et la cible est neutralisée et perd le contrôle de son corps. Le fantôme contrôle désormais ce corps, mais la cible reste consciente. Il est alors impossible de cibler le fantôme avec une attaque, un sort ou un autre effet, à l'exception de ceux qui renvoient les morts-vivants.
+Possession (Recharge 6). Un humanoïde ciblé situé dans le champ de vision du fantôme et à 1,50 mètre ou moins de lui doit réussir un jet de sauvegarde de Charisme DD 13 pour ne pas être possédé par le mort-vivant ; le fantôme disparaît alors et la cible est [neutralisée] et perd le contrôle de son corps. Le fantôme contrôle désormais ce corps, mais la cible reste consciente. Il est alors impossible de cibler le fantôme avec une attaque, un sort ou un autre effet, à l'exception de ceux qui renvoient les morts-vivants.
 
-Il conserve son alignement, son Intelligence, sa Sagesse, son Charisme et ses immunités contre les états spéciaux charmé et terrorisé. Pour le reste, il utilise les statistiques de la cible possédée mais n'a pas accès à ses connaissances, à ses aptitudes de classe ni à ses maîtrises.
+Il conserve son alignement, son Intelligence, sa Sagesse, son Charisme et ses immunités contre les états spéciaux [charmé] et [terrorisé]. Pour le reste, il utilise les statistiques de la cible possédée mais n'a pas accès à ses connaissances, à ses aptitudes de classe ni à ses maîtrises.
 
 La possession prend fin si le corps physique tombe à 0 point de vie, si le fantôme y met un terme par une action bonus ou s'il est renvoyé ou obligé d'abandonner le corps grâce à un effet produit par un sort de dissipation du mal et du bien, par exemple. Lorsque la possession prend fin, le fantôme réapparaît dans un emplacement inoccupé situé à 1,50 mètre ou moins du corps. La cible est immunisée contre le pouvoir de possession de ce fantôme pendant les 24 heures qui suivent son jet de sauvegarde réussi ou l'interruption de la possession.
 
-Visage terrifiant. Toutes les créatures, à l'exception des morts-vivants, situées à 18 mètres ou moins du fantôme et qui le voient doivent chacune réussir un jet de sauvegarde de Sagesse DD 13 pour ne pas être terrorisées pendant 1 minute. Si le jet de sauvegarde rate de 5 points ou plus, la cible vieillit également de 1d4×10 ans. Une cible terrorisée peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une cible est réussi ou si l'effet prend fin, la cible est immunisée aux effets du visage terrifiant de ce fantôme pendant 24 heures. Il est possible d'inverser l'effet de vieillissement grâce à un sort de restauration supérieure s'il est lancé dans les 24 heures suivantes.
+Visage terrifiant. Toutes les créatures, à l'exception des morts-vivants, situées à 18 mètres ou moins du fantôme et qui le voient doivent chacune réussir un jet de sauvegarde de Sagesse DD 13 pour ne pas être [terrorisées] pendant 1 minute. Si le jet de sauvegarde rate de 5 points ou plus, la cible vieillit également de 1d4×10 ans. Une cible [terrorisée] peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une cible est réussi ou si l'effet prend fin, la cible est immunisée aux effets du visage terrifiant de ce fantôme pendant 24 heures. Il est possible d'inverser l'effet de vieillissement grâce à un sort de restauration supérieure s'il est lancé dans les 24 heures suivantes.
 
 
 # Feu follet
@@ -4301,7 +4301,7 @@ Visage terrifiant. Toutes les créatures, à l'exception des morts-vivants, situ
 
 - **Résistance aux dégâts** d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de foudre et de poison
-- **Immunité contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé et paralysé
+- **Immunité contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé] et [paralysé]
 - **Sens** vision dans le noir 36 m, Perception passive 12
 - **Langues** celles qu'il connaissait de son vivant
 - **Dangerosité** 2 (450 PX)
@@ -4322,7 +4322,7 @@ Décharge. Attaque de sort au corps à corps : +4 pour toucher, allonge 1,50 m, 
 
 Touché : 9 (2d8) dégâts de foudre.
 
-Invisibilité. Le feu follet et la lumière qu'il diffuse deviennent invisibles par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
+Invisibilité. Le feu follet et la lumière qu'il diffuse deviennent [invisibles] par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
 
 
 # Garde animé
@@ -4336,7 +4336,7 @@ Invisibilité. Le feu follet et la lumière qu'il diffuse deviennent invisibles 
 |18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
 
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** charmé, terrorisé, empoisonné, épuisé et paralysé
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], épuisé et [paralysé]
 - **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
 - **Dangerosité** 7 (2 900 PX)
@@ -4377,7 +4377,7 @@ Protection. Quand une créature effectue une attaque contre le porteur de son am
 
 - **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** empoisonné, épuisé et pétrifié
+- **Immunité contre les états** [empoisonné], épuisé et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** terreux
 - **Dangerosité** 2 (450 PX)
@@ -4501,7 +4501,7 @@ Touché : 19 (3d8+6) dégâts contondants.
 
 Rocher. Attaque d'arme à distance : +9 pour toucher, portée 18/72 m, une cible.
 
-Touché : 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 pour ne pas être jetée à terre.
+Touché : 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 pour ne pas être jetée [à terre].
 
 
 # Géant des tempêtes
@@ -4647,11 +4647,11 @@ Cimeterre. Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, u
 
 Touché : 12 (2d6+5) dégâts tranchants plus 3 (1d6) dégâts de foudre ou de tonnerre (au choix du djinn).
 
-Création d'un tourbillon. Un cylindre d'air tourbillonnant de 1,50 mètre de rayon et de 9 mètres de haut apparaît à un point situé à 36 mètres ou moins du djinn dans son champ de vision. Le tourbillon dure tant que le djinn reste concentré (comme s'il se concentrait sur un sort). Toutes les créatures (à l'exception du djinn) qui entrent dans le tourbillon doivent réussir un jet de sauvegarde de Force DD 18 pour ne pas être entravées par ce phénomène. Le djinn peut déplacer le tourbillon sur une distance maximale de 18 mètres par une action et les créatures entravées par le tourbillon se déplacent avec lui. Le tourbillon disparaît s'il sort du champ de vision du djinn.
+Création d'un tourbillon. Un cylindre d'air tourbillonnant de 1,50 mètre de rayon et de 9 mètres de haut apparaît à un point situé à 36 mètres ou moins du djinn dans son champ de vision. Le tourbillon dure tant que le djinn reste concentré (comme s'il se concentrait sur un sort). Toutes les créatures (à l'exception du djinn) qui entrent dans le tourbillon doivent réussir un jet de sauvegarde de Force DD 18 pour ne pas être [entravées] par ce phénomène. Le djinn peut déplacer le tourbillon sur une distance maximale de 18 mètres par une action et les créatures [entravées] par le tourbillon se déplacent avec lui. Le tourbillon disparaît s'il sort du champ de vision du djinn.
 
-Une créature peut consacrer une action à dégager une créature entravée par le tourbillon, elle-même y compris, en réussissant un test de Force DD 18.
+Une créature peut consacrer une action à dégager une créature [entravée] par le tourbillon, elle-même y compris, en réussissant un test de Force DD 18.
 
-Si le test est réussi, la créature n'est plus entravée et se déplace vers l'emplacement le plus proche à l'extérieur du tourbillon.
+Si le test est réussi, la créature n'est plus [entravée] et se déplace vers l'emplacement le plus proche à l'extérieur du tourbillon.
 
 
 # Éfrit
@@ -4746,7 +4746,7 @@ Touché : 4 (1d4+2) dégâts perforants.
 
 ## Capacités
 
-Chef de meute. Tous les gnolls au contact du chef de meute obtiennent un avantage en attaque tant que le chef de meute n'est pas neutralisé ou inconscient.
+Chef de meute. Tous les gnolls au contact du chef de meute obtiennent un avantage en attaque tant que le chef de meute n'est pas [neutralisé] ou [inconscient].
 
 Déchaîné. Quand le gnoll réduit les points de vie d'une créature à 0 suite à une attaque au corps à corps lors de son tour, il peut effectuer une action bonus pour se déplacer sur une distance maximale égale à la moitié de sa vitesse et effectuer une attaque de morsure.
 
@@ -4794,9 +4794,9 @@ Incantation innée. La caractéristique d'incantation innée du gnome est l'Inte
 
 ## Actions
 
-Fléchette empoisonnée. Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une créature.
+Fléchette [empoisonnée]. Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une créature.
 
-Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas être empoisonnée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas être [empoisonnée] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Pic de guerre. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
@@ -5041,7 +5041,7 @@ Touché : 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâts
 |20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
 
 - **Immunité contre les dégâts** d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 9 (5 000 PX)
@@ -5085,7 +5085,7 @@ Hâte (Recharge 5-6). Jusqu'à la fin de son prochain tour, le golem bénéficie
 |19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
 
 - **Immunité contre les dégâts** de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 5 (1 800 PX)
@@ -5135,7 +5135,7 @@ Touché : 13 (2d8+4) dégâts contondants.
 |24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
 - **Immunité contre les dégâts** de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 16 (15 000 PX)
@@ -5162,7 +5162,7 @@ Touché : 20 (3d8+7) dégâts contondants.
 
 Touché : 23 (3d10+7) dégâts tranchants.
 
-Souffle empoisonné (Recharge 6). Le golem souffle du gaz empoisonné dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un jet de sauvegarde de Constitution DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
+Souffle [empoisonné] (Recharge 6). Le golem souffle du gaz [empoisonné] dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un jet de sauvegarde de Constitution DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
 # Golem de pierre
@@ -5177,7 +5177,7 @@ Souffle empoisonné (Recharge 6). Le golem souffle du gaz empoisonné dans un c�
 |22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
 - **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Immunité contre les états** [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision dans le noir 36 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 10 (5 900 PX)
@@ -5213,14 +5213,14 @@ Lenteur (Recharge 5-6). Le golem cible une ou plusieurs créatures situées dans
 |20 (+5)|11 (+0)|18 (+4)| 2 (-4)|12 (+1)| 7 (-2)|
 
 - **Compétence** Perception +4
-- **Immunité contre l'état** pétrifié
+- **Immunité contre l'état** [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langue** —
 - **Dangerosité** 5 (1 800 PX)
 
 ## Capacités
 
-Charge écrasante. Si la gorgone se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être jetée à terre. Si la cible est à terre, la gorgone peut effectuer contre elle une attaque de sabots par une action bonus.
+Charge écrasante. Si la gorgone se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être jetée [à terre]. Si la cible est [à terre], la gorgone peut effectuer contre elle une attaque de sabots par une action bonus.
 
 ## Actions
 
@@ -5234,7 +5234,7 @@ Touché : 16 (2d10+5) dégâts contondants.
 
 Souffle pétrifiant (Recharge 5-6). La gorgone souffle un gaz pétrifiant dans un cône de 9 mètres.
 
-Les créatures situées dans cette zone doivent chacune effectuer un jet de sauvegarde de Constitution DD 13. En cas de jet de sauvegarde raté, une cible commence à se transformer en pierre et elle est entravée. Une cible entravée doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est pétrifiée à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
+Les créatures situées dans cette zone doivent chacune effectuer un jet de sauvegarde de Constitution DD 13. En cas de jet de sauvegarde raté, une cible commence à se transformer en pierre et elle est [entravée]. Une cible [entravée] doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est [pétrifiée] à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
 
 
 # Goule
@@ -5249,7 +5249,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un jet de sauv
 |13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
 
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** charmé, empoisonné et épuisé
+- **Immunités contre les états** [charmé], [empoisonné] et épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** commun
 - **Dangerosité** 1 (200 PX)
@@ -5258,7 +5258,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un jet de sauv
 
 Griffes. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant ou un elfe, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être paralysée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant ou un elfe, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [paralysée] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Morsure. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature.
 
@@ -5278,7 +5278,7 @@ Touché : 9 (2d6+2) dégâts perforants.
 
 - **Résistance aux dégâts** nécrotiques
 - **Immunité contre les dégâts** de poison
-- **Immunités contre les états** charmé, empoisonné et épuisé
+- **Immunités contre les états** [charmé], [empoisonné] et épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langue** commun
 - **Dangerosité** 2 (450 PX)
@@ -5287,13 +5287,13 @@ Touché : 9 (2d6+2) dégâts perforants.
 
 Mépris du renvoi. Le blême et toutes les goules situées à 9 mètres ou moins de lui bénéficient d'un avantage lors des jets de sauvegarde contre les effets qui renvoient les morts-vivants.
 
-Puanteur. Les créatures qui commencent leur tour à 1,50 mètre ou moins du blême doivent chacune réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être empoisonnées jusqu'au début de leur prochain tour. Les créatures qui ont réussi leur jet de sauvegarde sont immunisées contre la puanteur du blême pendant 24 heures.
+Puanteur. Les créatures qui commencent leur tour à 1,50 mètre ou moins du blême doivent chacune réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [empoisonnées] jusqu'au début de leur prochain tour. Les créatures qui ont réussi leur jet de sauvegarde sont immunisées contre la puanteur du blême pendant 24 heures.
 
 ## Actions
 
 Griffes. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être paralysée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Touché : 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [paralysée] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
 
@@ -5385,7 +5385,7 @@ Touché : 11 (2d6+4) dégâts tranchants.
 
 Amphibie. La guenaude peut respirer à l'air libre et sous l'eau.
 
-Apparence terrifiante. Les humanoïdes qui commencent leur tour à 9 mètres ou moins de la guenaude et qui peuvent voir sa véritable apparence doivent chacune effectuer un jet de sauvegarde de Sagesse DD 11. En cas de jet de sauvegarde raté, la créature est terrorisée pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si la guenaude se trouve encore dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite. Si son jet de sauvegarde est réussi ou si l'effet dont elle est victime prend fin, la créature est immunisée contre l'apparence terrifiante de la guenaude pendant 24 heures.
+Apparence terrifiante. Les humanoïdes qui commencent leur tour à 9 mètres ou moins de la guenaude et qui peuvent voir sa véritable apparence doivent chacune effectuer un jet de sauvegarde de Sagesse DD 11. En cas de jet de sauvegarde raté, la créature est [terrorisée] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si la guenaude se trouve encore dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite. Si son jet de sauvegarde est réussi ou si l'effet dont elle est victime prend fin, la créature est immunisée contre l'apparence terrifiante de la guenaude pendant 24 heures.
 
 À moins que la cible ne soit surprise ou que l'apparence terrifiante de la guenaude ne lui soit brusquement révélée, la cible peut détourner le regard et éviter de faire le jet de sauvegarde initial. Jusqu'au début de son prochain tour, une créature qui détourne le regard subit un désavantage lors des jets d'attaque contre la guenaude.
 
@@ -5399,7 +5399,7 @@ Griffes. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une
 
 Touché : 10 (2d6+3) dégâts tranchants.
 
-Regard mortel. La guenaude cible une créature terrorisée située dans son champ de vision à 9 mètres ou moins. Si la cible peut voir la guenaude, elle doit réussir un jet de sauvegarde de Sagesse DD 11 contre cette magie pour ne pas voir ses points de vie tomber à 0.
+Regard mortel. La guenaude cible une créature [terrorisée] située dans son champ de vision à 9 mètres ou moins. Si la cible peut voir la guenaude, elle doit réussir un jet de sauvegarde de Sagesse DD 11 contre cette magie pour ne pas voir ses points de vie tomber à 0.
 
 
 # Guenaude nocturne
@@ -5415,7 +5415,7 @@ Regard mortel. La guenaude cible une créature terrorisée située dans son cham
 
 - **Compétences** Discrétion +6, Perception +6, Perspicacité +6, Supercherie +7
 - **Résistance aux dégâts** de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.
-- **Immunité contre l'état** charmé
+- **Immunité contre l'état** [charmé]
 - **Sens** vision dans le noir 36 m, Perception passive 16
 - **Langues** abyssal, commun, infernal, primordial
 - **Dangerosité** 5 (1 800 PX)
@@ -5483,7 +5483,7 @@ Griffes. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une
 
 Touché : 13 (2d8+4) dégâts tranchants.
 
-Passage dans l'invisible. La guenaude reste invisible jusqu'à ce qu'elle attaque ou lance un sort, ou jusqu'à interruption de sa concentration (comme si elle se concentrait sur un sort). Elle ne laisse aucun signe physique de son passage lorsqu'elle est invisible et seule l'utilisation de la magie peut permettre de la pister. Ses objets équipés ou transportés deviennent également invisibles.
+Passage dans l'[invisible]. La guenaude reste [invisible] jusqu'à ce qu'elle attaque ou lance un sort, ou jusqu'à interruption de sa concentration (comme si elle se concentrait sur un sort). Elle ne laisse aucun signe physique de son passage lorsqu'elle est [invisible] et seule l'utilisation de la magie peut permettre de la pister. Ses objets équipés ou transportés deviennent également [invisibles].
 
 
 # Harpie
@@ -5505,9 +5505,9 @@ Passage dans l'invisible. La guenaude reste invisible jusqu'à ce qu'elle attaqu
 
 Attaques multiples. La harpie effectue deux attaques : une avec ses griffes et une avec son gourdin.
 
-Chant captivant. La harpie chante une mélodie magique. Les humanoïdes et les géants situés à 90 mètres ou moins de la harpie et qui peuvent entendre le chant doivent chacun réussir un jet de sauvegarde de Sagesse DD 11 pour ne pas être charmés jusqu'à la fin du chant. La harpie doit effectuer une action bonus lors de chacun de ses tours suivants pour continuer à chanter. Elle peut arrêter de chanter quand elle le souhaite. Le chant prend fin si la harpie est neutralisée.
+Chant captivant. La harpie chante une mélodie magique. Les humanoïdes et les géants situés à 90 mètres ou moins de la harpie et qui peuvent entendre le chant doivent chacun réussir un jet de sauvegarde de Sagesse DD 11 pour ne pas être [charmés] jusqu'à la fin du chant. La harpie doit effectuer une action bonus lors de chacun de ses tours suivants pour continuer à chanter. Elle peut arrêter de chanter quand elle le souhaite. Le chant prend fin si la harpie est [neutralisée].
 
-Une cible charmée par la harpie est neutralisée et ignore le chant d'autres harpies. Si la cible charmée est à plus de 1,50 mètre de la harpie, elle doit se déplacer vers elle lors de son tour, en empruntant la trajectoire le plus courte, pour tenter de se retrouver à 1,50 mètre d'elle. Elle n'évite pas les attaques d'opportunité mais peut retenter un jet de sauvegarde avant de se déplacer sur un terrain nuisible, tel que la lave ou une fosse, et chaque fois qu'elle subit des dégâts infligés par une source autre que la harpie. Une cible charmée peut également retenter le jet de sauvegarde à la fin de chacun de ses tours.
+Une cible [charmée] par la harpie est [neutralisée] et ignore le chant d'autres harpies. Si la cible [charmée] est à plus de 1,50 mètre de la harpie, elle doit se déplacer vers elle lors de son tour, en empruntant la trajectoire le plus courte, pour tenter de se retrouver à 1,50 mètre d'elle. Elle n'évite pas les attaques d'opportunité mais peut retenter un jet de sauvegarde avant de se déplacer sur un terrain nuisible, tel que la lave ou une fosse, et chaque fois qu'elle subit des dégâts infligés par une source autre que la harpie. Une cible [charmée] peut également retenter le jet de sauvegarde à la fin de chacun de ses tours.
 
 L'effet dont elle est victime prend fin si le jet de sauvegarde est réussi.
 
@@ -5604,7 +5604,7 @@ Touché : 10 (2d6+3) dégâts tranchants.
 
 ## Capacités
 
-Avantage martial. Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas neutralisé.
+Avantage martial. Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas [neutralisé].
 
 ## Actions
 
@@ -5633,7 +5633,7 @@ Touché : 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si el
 
 ## Capacités
 
-Avantage martial. Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas neutralisé.
+Avantage martial. Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas [neutralisé].
 
 ## Actions
 
@@ -5769,7 +5769,7 @@ Touché : 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle est
 | 4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)| 7 (-2)|
 
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** charmé et empoisonné
+- **Immunité contre les états** [charmé] et [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend les langues de son créateur mais ne peut pas parler
 - **Dangerosité** 0 (10 PX)
@@ -5782,7 +5782,7 @@ Lien télépathique. Si l'homoncule se trouve sur le même plan d'existence que 
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être empoisonnée pendant 1 minute. Si le jet de sauvegarde rate de 5 points ou plus, la cible est à la place empoisonnée pendant 5 (1d10) minutes, et inconsciente tant qu'elle est empoisonnée de la sorte.
+Touché : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [empoisonnée] pendant 1 minute. Si le jet de sauvegarde rate de 5 points ou plus, la cible est à la place [empoisonnée] pendant 5 (1d10) minutes, et [inconsciente] tant qu'elle est [empoisonnée] de la sorte.
 
 
 # Hydre
@@ -5807,7 +5807,7 @@ Petit dormeur. Quand l'hydre dort, une de ses têtes au moins reste éveillée.
 
 Retenir son souffle. L'hydre peut retenir son souffle pendant 1 heure.
 
-Têtes multiples. L'hydre a cinq têtes. Tant qu'il lui reste plus d'une tête, l'hydre obtient un avantage lors des jets de sauvegarde effectués pour ne pas être assourdie, aveuglée, charmée, étourdie, inconsciente ou terrorisée.
+Têtes multiples. L'hydre a cinq têtes. Tant qu'il lui reste plus d'une tête, l'hydre obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [assourdie], [aveuglée], [charmée], [étourdie], [inconsciente] ou [terrorisée].
 
 Chaque fois que l'hydre subit 25 dégâts ou plus lors d'un même tour, une de ses têtes meurt. Si toutes ses têtes meurent, l'hydre meurt également.
 
@@ -5843,7 +5843,7 @@ Touché : 10 (1d10+5) dégâts perforants.
 
 Sensibilité à la lumière du soleil. Le kobold subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.
 
-Tactique de groupe. Le kobold obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du kobold, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le kobold obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du kobold, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -5878,7 +5878,7 @@ Attaque sournoise. Une fois par tour, le kobold fourbe inflige 3 (1d6) dégâts 
 
 Sensibilité à la lumière du soleil. Le kobold subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.
 
-Tactique de groupe. Le kobold obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du kobold, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le kobold obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du kobold, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -5904,7 +5904,7 @@ Touché : 5 (1d4+3) dégâts contondants.
 
 - **Jets de sauvegarde** For +17, Dex +7, Con +14, Int +13, Sag +11
 - **Immunité contre les dégâts** de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** terrorisé et paralysé
+- **Immunité contre les états** [terrorisé] et [paralysé]
 - **Sens** vision parfaite 36 m, Perception passive 14
 - **Langues** comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m
 - **Dangerosité** 23 (50 000 PX)
@@ -5913,7 +5913,7 @@ Touché : 5 (1d4+3) dégâts contondants.
 
 Amphibie. Le kraken peut respirer à l'air libre et sous l'eau.
 
-Liberté de mouvement. Le kraken ignore les terrains difficiles. De plus, les effets magiques ne peuvent réduire sa vitesse ou l'entraver. Il peut dépenser 1,50 mètre de son déplacement pour échapper à des entraves non-magiques ou pour ne pas être empoigné.
+Liberté de mouvement. Le kraken ignore les terrains difficiles. De plus, les effets magiques ne peuvent réduire sa vitesse ou l'entraver. Il peut dépenser 1,50 mètre de son déplacement pour échapper à des entraves non-magiques ou pour ne pas être [empoigné].
 
 Monstre assiégeur. Le kraken inflige des dégâts doublés aux objets et aux structures.
 
@@ -5923,15 +5923,15 @@ Attaques multiples. Le kraken effectue trois attaques de tentacule et peut rempl
 
 Morsure. Attaque d'arme au corps à corps : +17 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 23 (3d8+10) dégâts perforants. Si la cible est une créature de taille G ou plus petite empoignée par le kraken, elle est avalée et l'empoignade prend fin. Une fois avalée, la créature est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du kraken, et elle subit 42 (12d6) dégâts d'acide au début de chacun des tours du kraken.
+Touché : 23 (3d8+10) dégâts perforants. Si la cible est une créature de taille G ou plus petite [empoignée] par le kraken, elle est avalée et l'empoignade prend fin. Une fois avalée, la créature est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du kraken, et elle subit 42 (12d6) dégâts d'acide au début de chacun des tours du kraken.
 
-S'il subit 50 dégâts ou plus lors d'un seul tour que lui inflige les créatures à l'intérieur de lui, le kraken doit réussir un jet de sauvegarde de Constitution DD 25 à la fin de ce tour pour ne pas régurgiter toutes les créatures avalées qui tombent alors à terre dans un emplacement situé à 3 mètres ou moins du kraken. Si le kraken meurt, les créatures avalées ne sont plus entravées par lui et peuvent s'extirper du cadavre en dépensant 4,50 mètres de déplacement. Elles en sortent à terre.
+S'il subit 50 dégâts ou plus lors d'un seul tour que lui inflige les créatures à l'intérieur de lui, le kraken doit réussir un jet de sauvegarde de Constitution DD 25 à la fin de ce tour pour ne pas régurgiter toutes les créatures avalées qui tombent alors [à terre] dans un emplacement situé à 3 mètres ou moins du kraken. Si le kraken meurt, les créatures avalées ne sont plus [entravées] par lui et peuvent s'extirper du cadavre en dépensant 4,50 mètres de déplacement. Elles en sortent [à terre].
 
 Tentacule. Attaque d'arme au corps à corps : +17 pour toucher, allonge 9 m, une cible.
 
-Touché : 20 (3d6+10) dégâts contondants, et la cible est empoignée (évasion DD 18). La cible est entravée jusqu'au terme de cette empoignade. Le kraken possède dix tentacules qui peuvent chacun empoigner une cible.
+Touché : 20 (3d6+10) dégâts contondants, et la cible est [empoignée] (évasion DD 18). La cible est [entravée] jusqu'au terme de cette empoignade. Le kraken possède dix tentacules qui peuvent chacun empoigner une cible.
 
-Projection. Un objet tenu ou une créature empoignée par le kraken, de taille G ou plus petit, est projeté à une distance maximale de 18 mètres dans une direction aléatoire. L'objet ou la créature se retrouve ensuite à terre. Si une cible lancée entre en collision avec une surface solide, elle subit 3 (1d6) dégâts contondants par tranche de 3 mètres parcourus depuis l'emplacement où elle a été projetée. Si la cible atterrit sur une autre créature, cette dernière doit réussir un jet de sauvegarde de Dextérité DD 18 pour ne pas subir les mêmes dégâts et se retrouver à terre.
+Projection. Un objet tenu ou une créature [empoignée] par le kraken, de taille G ou plus petit, est projeté à une distance maximale de 18 mètres dans une direction aléatoire. L'objet ou la créature se retrouve ensuite [à terre]. Si une cible lancée entre en collision avec une surface solide, elle subit 3 (1d6) dégâts contondants par tranche de 3 mètres parcourus depuis l'emplacement où elle a été projetée. Si la cible atterrit sur une autre créature, cette dernière doit réussir un jet de sauvegarde de Dextérité DD 18 pour ne pas subir les mêmes dégâts et se retrouver [à terre].
 
 Tempête foudroyante. Le kraken crée par magie trois éclairs dont chacun peut frapper une cible située dans son champ de vision à 36 mètres ou moins de lui. Une cible doit effectuer un jet de sauvegarde de Dextérité DD 23 ; elle subit 22 (4d10) dégâts de foudre en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -6003,7 +6003,7 @@ Touché : 14 (2d10+3) dégâts tranchants.
 - **Jets de sauvegarde** CON +10, INT +12, SAG +9
 - **Résistance aux dégâts** de froid, de foudre, nécrotiques
 - **Immunité contre les dégâts** de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** charmé, épuisé, empoisonné, paralysé et terrorisé
+- **Immunité contre les états** [charmé], épuisé, [empoisonné], [paralysé] et [terrorisé]
 - **Sens** vision parfaite 36 m, Perception passive 19
 - **Langues** commun et jusqu'à cinq autres langues
 - **Dangerosité** 21 (33 000 PX)
@@ -6042,7 +6042,7 @@ Résistance au renvoi. La liche obtient l'avantage aux jets de sauvegarde pour r
 
 Contact paralysant. Attaque de sort au corps à corps : +12 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 10 (3d6) dégâts de froid. La cible doit réussir un jet de sauvegarde de constitution (DD 18) sous peine d'être paralysée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à cet effet si elle le réussit.
+Touché : 10 (3d6) dégâts de froid. La cible doit réussir un jet de sauvegarde de constitution (DD 18) sous peine d'être [paralysée] pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à cet effet si elle le réussit.
 
 ## Actions légendaires
 
@@ -6052,7 +6052,7 @@ Tour de magie. La liche lance un de ses tours de magie.
 
 Contact paralysant (coûte 2 actions). La liche utilise son contact paralysant.
 
-Regard terrifiant (coûte 2 actions). La liche fixe du regard une créature qu'elle peut voir dans un rayon de 3 m autour d'elle. La cible doit réussir un jet de sauvegarde de Sagesse DD 18 contre la magie, sous peine d'être terrorisée pendant 1 minute. La cible terrorisée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite. Si le jet de sauvegarde de la cible est un succès, ou si l'effet se termine pour elle, la cible est immunisée au regard de la liche pour les prochaines 24 heures.
+Regard terrifiant (coûte 2 actions). La liche fixe du regard une créature qu'elle peut voir dans un rayon de 3 m autour d'elle. La cible doit réussir un jet de sauvegarde de Sagesse DD 18 contre la magie, sous peine d'être [terrorisée] pendant 1 minute. La cible [terrorisée] peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant un terme à l'effet qui l'affecte en cas de réussite. Si le jet de sauvegarde de la cible est un succès, ou si l'effet se termine pour elle, la cible est immunisée au regard de la liche pour les prochaines 24 heures.
 
 Perturbation de la vie (coûte 3 actions). Chaque créature non morte-vivante dans un rayon de 6 m de la liche doit effectuer un jet de sauvegarde de Constitution DD18 contre cette magie. Ceux qui y échouent subissent 21 (6d6) dégâts nécrotiques, ou la moitié seulement en cas de réussite.
 
@@ -6069,7 +6069,7 @@ Perturbation de la vie (coûte 3 actions). Chaque créature non morte-vivante da
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** charmé, empoisonné et paralysé
+- **Immunité contre les états** [charmé], [empoisonné] et [paralysé]
 - **Sens** vision aveugle 18 m, Perception passive 13
 - **Langues** céleste, elfe, sylvestre, télépathie 18 m
 - **Dangerosité** 5 (1 800 PX)
@@ -6078,7 +6078,7 @@ Perturbation de la vie (coûte 3 actions). Chaque créature non morte-vivante da
 
 Armes magiques. Les attaques d'arme de la licorne sont magiques.
 
-Charge. Si la licorne se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle elle réussit ensuite une attaque de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée à terre.
+Charge. Si la licorne se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle elle réussit ensuite une attaque de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée [à terre].
 
 Incantation innée. La caractéristique d'incantation de la licorne est le Charisme (DD du jet de sauvegarde contre les sorts 14). La licorne peut lancer les sorts suivants de manière innée sans aucune composante :
 
@@ -6264,7 +6264,7 @@ Touché : 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle doi
 
 ## Capacités
 
-Charge (forme de sanglier ou hybride). Si le sanglier-garou se déplace de 4,50 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défenses lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+Charge (forme de sanglier ou hybride). Si le sanglier-garou se déplace de 4,50 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défenses lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
 Implacable (Recharge après un repos court ou long). Si le sanglier-garou subit 14 dégâts ou moins et que cette blessure devrait réduire son total actuel de points de vie à 0, celui-ci est réduit à 1 à la place.
 
@@ -6306,7 +6306,7 @@ Touché : 10 (2d6+3) dégâts contondants.
 
 Bond agressif (forme hybride ou de tigre uniquement).
 
-Si le tigre-garou se déplace en ligne droite sur une distance minimale de 4,50 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre. Si la cible est à terre, le tigre-garou peut effectuer une attaque de morsure contre elle par une action bonus.
+Si le tigre-garou se déplace en ligne droite sur une distance minimale de 4,50 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre]. Si la cible est [à terre], le tigre-garou peut effectuer une attaque de morsure contre elle par une action bonus.
 
 Métamorphe. Le tigre-garou peut utiliser son action pour se métamorphoser en hybride d'humanoïde et de tigre, en tigre, ou pour reprendre sa véritable forme d'humanoïde. Ses statistiques, à l'exception de sa taille, restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Le tigre-garou reprend sa forme véritable s'il meurt.
 
@@ -6409,11 +6409,11 @@ Chaque fois qu'une créature cible le manteleur avec une attaque ou un sort offe
 
 Une réplique possède la CA du manteleur et utilise ses jets de sauvegarde. Elle disparaît si on réussit une attaque contre elle ou si elle rate un jet de sauvegarde contre un effet qui lui inflige des dégâts.
 
-Gémissement. Les créatures, à l'exception des aberrations, situées à 18 mètres ou moins du manteleur et qui entendent son gémissement doivent chacune réussir un jet de sauvegarde de Sagesse DD 13 pour ne pas être terrorisées jusqu'à la fin du prochain tour du manteleur. Si le jet de sauvegarde d'une créature est réussi, celle-ci est immunisée contre le gémissement du manteleur pendant les 24 prochaines heures.
+Gémissement. Les créatures, à l'exception des aberrations, situées à 18 mètres ou moins du manteleur et qui entendent son gémissement doivent chacune réussir un jet de sauvegarde de Sagesse DD 13 pour ne pas être [terrorisées] jusqu'à la fin du prochain tour du manteleur. Si le jet de sauvegarde d'une créature est réussi, celle-ci est immunisée contre le gémissement du manteleur pendant les 24 prochaines heures.
 
 Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 10 (2d6+3) dégâts perforants et, si la cible est de taille G ou plus petite, le manteleur se fixe sur elle. Si le manteleur obtient un avantage par rapport à sa cible, il se fixe sur la tête de la victime, qui est alors aveuglée et incapable de respirer tant que le manteleur reste fixé de la sorte. Tant qu'il reste fixé, le manteleur ne peut effectuer cette attaque que contre cette cible, et il obtient un avantage lors du jet d'attaque. Le manteleur peut se détacher en dépensant 1,50 mètre de déplacement.
+Touché : 10 (2d6+3) dégâts perforants et, si la cible est de taille G ou plus petite, le manteleur se fixe sur elle. Si le manteleur obtient un avantage par rapport à sa cible, il se fixe sur la tête de la victime, qui est alors [aveuglée] et incapable de respirer tant que le manteleur reste fixé de la sorte. Tant qu'il reste fixé, le manteleur ne peut effectuer cette attaque que contre cette cible, et il obtient un avantage lors du jet d'attaque. Le manteleur peut se détacher en dépensant 1,50 mètre de déplacement.
 
 Une créature, y compris la cible, peut consacrer son action à détacher le manteleur si elle réussit un test de Force DD 16.
 
@@ -6440,7 +6440,7 @@ Touché : 7 (1d8+3) dégâts tranchants.
 
 ## Capacités
 
-Écholocalisation. La mante obscure ne peut pas utiliser sa vision aveugle si elle est assourdie.
+Écholocalisation. La mante obscure ne peut pas utiliser sa vision aveugle si elle est [assourdie].
 
 Faux-semblant. Aussi longtemps que la mante obscure reste immobile, il est impossible de la distinguer d'une formation rocheuse, telle qu'une stalactite ou une stalagmite.
 
@@ -6450,7 +6450,7 @@ Aura de ténèbres (1/jour). Des ténèbres magiques d'un rayon de 4,50 mètres 
 
 Étouffer. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 6 (1d6+3) dégâts contondants et la mante obscure se fixe sur la cible. Si la cible est de taille M ou plus petite et que la mante obscure obtient un avantage lors du jet d'attaque, elle se fixe en enveloppant la tête de la cible et celle-ci est également aveuglée et incapable de respirer tant que la mante obscure reste fixée de la sorte.
+Touché : 6 (1d6+3) dégâts contondants et la mante obscure se fixe sur la cible. Si la cible est de taille M ou plus petite et que la mante obscure obtient un avantage lors du jet d'attaque, elle se fixe en enveloppant la tête de la cible et celle-ci est également [aveuglée] et incapable de respirer tant que la mante obscure reste fixée de la sorte.
 
 Tant qu'elle est fixée sur la cible, la mante obscure ne peut attaquer aucune autre créature à l'exception de la cible, mais elle obtient un avantage lors de ses jets d'attaque. La vitesse de la mante obscure tombe également à 0, elle ne peut bénéficier d'aucun bonus à sa vitesse et elle se déplace avec la cible.
 
@@ -6513,7 +6513,7 @@ Touché : 7 (1d8+3) dégâts perforants.
 
 ## Capacités
 
-Regard pétrifiant. Quand une créature qui peut voir les yeux de la méduse commence son tour à 9 mètres ou moins d'elle, la méduse, si elle n'est pas neutralisée et si la créature est dans son champ de vision, peut la forcer à effectuer un jet de sauvegarde de Constitution DD 14. En cas de jet de sauvegarde raté de 5 points ou plus, la victime se pétrifie instantanément. Sinon, une créature qui rate simplement le jet de sauvegarde commence à se transformer en pierre et devient entravée. La créature entravée doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas d'échec, elle est complètement pétrifiée ; l'effet prend fin en cas de réussite. La pétrification persiste tant que la créature n'est pas libérée par un sort de restauration supérieure ou une magie similaire.
+Regard pétrifiant. Quand une créature qui peut voir les yeux de la méduse commence son tour à 9 mètres ou moins d'elle, la méduse, si elle n'est pas [neutralisée] et si la créature est dans son champ de vision, peut la forcer à effectuer un jet de sauvegarde de Constitution DD 14. En cas de jet de sauvegarde raté de 5 points ou plus, la victime se pétrifie instantanément. Sinon, une créature qui rate simplement le jet de sauvegarde commence à se transformer en pierre et devient [entravée]. La créature [entravée] doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas d'échec, elle est complètement [pétrifiée] ; l'effet prend fin en cas de réussite. La pétrification persiste tant que la créature n'est pas libérée par un sort de restauration supérieure ou une magie similaire.
 
 Une créature qui n'est pas surprise peut détourner le regard au début de son tour pour ne pas avoir à effectuer le jet de sauvegarde. Si elle agit de la sorte, elle ne peut pas voir la méduse jusqu'au début de son prochain tour, moment où elle peut détourner le regard à nouveau. Elle doit effectuer le jet de sauvegarde immédiatement si elle regarde la méduse entre-temps.
 
@@ -6550,7 +6550,7 @@ Touché : 5 (1d6+2) dégâts perforants.
 - **Compétences** Discrétion +3, Perception +2
 - **Vulnérabilité aux dégâts** contondants et de feu
 - **Immunité contre les dégâts** de froid et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** aérien, aquatique
 - **Dangerosité** 1/2 (100 PX)
@@ -6588,7 +6588,7 @@ Souffle de givre (Recharge 6). Le méphite souffle de l'air froid sur un cône d
 - **Compétences** Discrétion +3
 - **Vulnérabilité aux dégâts** de froid
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** ignée, terreux
 - **Dangerosité** 1/2 (100 PX)
@@ -6624,14 +6624,14 @@ Souffle de feu (Recharge 6). Le méphite souffle du feu sur un cône de 4,50 mè
 - **Compétences** Discrétion +4, Perception +2
 - **Vulnérabilité aux dégâts** de feu
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** aérien, terreux
 - **Dangerosité** 1/2 (100 PX)
 
 ## Capacités
 
-Explosion finale. Quand le méphite meurt, il explose en une gerbe de poussière. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être aveuglées pendant 1 minute. Une créature aveuglée peut retenter le jet de sauvegarde à chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Explosion finale. Quand le méphite meurt, il explose en une gerbe de poussière. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [aveuglées] pendant 1 minute. Une créature [aveuglée] peut retenter le jet de sauvegarde à chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Incantation innée (1/jour). Le méphite peut lancer sommeil de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
 
@@ -6641,7 +6641,7 @@ Griffes. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une
 
 Touché : 4 (1d4+2) dégâts tranchants.
 
-Souffle aveuglant (Recharge 6). Le méphite souffle de la poussière aveuglante sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 pour ne pas être aveuglées pendant 1 minute.
+Souffle aveuglant (Recharge 6). Le méphite souffle de la poussière aveuglante sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 pour ne pas être [aveuglées] pendant 1 minute.
 
 Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
@@ -6658,7 +6658,7 @@ Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tour
 | 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 
 - **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** aquatique, ignée
 - **Dangerosité** 1/4 (50 PX)
@@ -6731,14 +6731,14 @@ Touché : 8 (1d8+4) dégâts perforants.
 
 - **Compétences** Discrétion +5
 - **Immunité contre les dégâts** d'acide
-- **Immunité contre l'état** à terre
+- **Immunité contre l'état** [à terre]
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
-Collante (forme d'objet uniquement). La mimique colle à tout que qu'elle touche. Une créature de taille TG ou plus petite collée à la mimique se retrouve empoignée par la créature (évasion DD 13).
+Collante (forme d'objet uniquement). La mimique colle à tout que qu'elle touche. Une créature de taille TG ou plus petite collée à la mimique se retrouve [empoignée] par la créature (évasion DD 13).
 
 Les tests de caractéristique effectués pour échapper à cette empoignade se font avec un désavantage.
 
@@ -6779,7 +6779,7 @@ Touché : 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet, 
 
 Charge. Si le minotaure se déplace de 9 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires.
 
-Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être repoussée de 3 mètres et se retrouver à terre.
+Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être repoussée de 3 mètres et se retrouver [à terre].
 
 Mémoire des labyrinthes. Le minotaure se souvient parfaitement de tous les itinéraires déjà suivis.
 
@@ -6817,7 +6817,7 @@ Touché : 17 (2d12+4) dégâts tranchants.
 
 Odorat et ouïe aiguisés. Le molosse obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Tactique de groupe. Le molosse obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du molosse, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le molosse obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du molosse, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -6843,7 +6843,7 @@ Souffle de feu (Recharge 5-6). Le molosse souffle du feu sur un cône de 4,50 m�
 - **Vulnérabilité aux dégâts** de feu
 - **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** charmé, terrorisé, empoisonné, épuisé et paralysé
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], épuisé et [paralysé]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** celles qu'elle connaissait de son vivant
 - **Dangerosité** 3 (700 PX)
@@ -6858,7 +6858,7 @@ Touché : 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques. S
 
 Regard effroyable. La momie cible une créature située à 18 mètres ou moins dans son champ de vision.
 
-Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sagesse DD 11 contre cette magie pour ne pas être terrorisée jusqu'à la fin du prochain tour de la momie. Si la cible rate le jet de sauvegarde de 5 points ou plus, elle est également paralysée pendant la même durée. Une cible qui réussit le jet de sauvegarde est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
+Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sagesse DD 11 contre cette magie pour ne pas être [terrorisée] jusqu'à la fin du prochain tour de la momie. Si la cible rate le jet de sauvegarde de 5 points ou plus, elle est également [paralysée] pendant la même durée. Une cible qui réussit le jet de sauvegarde est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
 
 
 # Momie auguste
@@ -6875,7 +6875,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 - **Compétences** Histoire +5, Religion +5
 - **Vulnérabilité aux dégâts** de feu
 - **Immunité contre les dégâts** de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** charmé, terrorisé, empoisonné, épuisé et paralysé
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], épuisé et [paralysé]
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langues** celles qu'elle connaissait de son vivant
 - **Dangerosité** 15 (13 000 PX)
@@ -6910,9 +6910,9 @@ Poing en décomposition. Attaque d'arme au corps à corps : +9 pour toucher, all
 
 Touché : 14 (3d6+4) dégâts contondants plus 21 (6d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 16 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort délivrance des malédictions ou une magie similaire.
 
-Regard effroyable. La momie auguste cible une créature située à 18 mètres ou moins dans son champ de vision. Si la cible peut voir la momie auguste, elle doit réussir un jet de sauvegarde de Sagesse DD 16 contre cette magie pour ne pas être terrorisée jusqu'à la fin du prochain tour de la momie.
+Regard effroyable. La momie auguste cible une créature située à 18 mètres ou moins dans son champ de vision. Si la cible peut voir la momie auguste, elle doit réussir un jet de sauvegarde de Sagesse DD 16 contre cette magie pour ne pas être [terrorisée] jusqu'à la fin du prochain tour de la momie.
 
-Si la cible rate le jet de sauvegarde de 5 points ou plus, elle est également paralysée pendant la même durée. Une cible qui réussit le jet de sauvegarde est immunisée au regard effroyable de toutes les momies et momies augustes pendant 24 heures.
+Si la cible rate le jet de sauvegarde de 5 points ou plus, elle est également [paralysée] pendant la même durée. Une cible qui réussit le jet de sauvegarde est immunisée au regard effroyable de toutes les momies et momies augustes pendant 24 heures.
 
 ## Actions légendaires
 
@@ -6926,11 +6926,11 @@ Canaliser l'énergie négative (coûte 2 actions). La momie auguste déverse par
 
 Parole blasphématoire (coûte 2 actions). La momie auguste murmure une parole blasphématoire.
 
-Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de la momie auguste et qui peuvent entendre le murmure magique doivent chacune réussir un jet de sauvegarde de Constitution DD 16 pour ne pas être étourdies jusqu'à la fin du prochain tour de la momie auguste.
+Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de la momie auguste et qui peuvent entendre le murmure magique doivent chacune réussir un jet de sauvegarde de Constitution DD 16 pour ne pas être [étourdies] jusqu'à la fin du prochain tour de la momie auguste.
 
-Poussière aveuglante. De la poussière et du sable forment par magie un tourbillon aveuglant autour de la momie auguste. Les créatures situées à 1,50 mètre ou moins d'elle doivent chacune réussir un jet de sauvegarde de Constitution DD 16 pour ne pas être aveuglées jusqu'à la fin de leur prochain tour.
+Poussière aveuglante. De la poussière et du sable forment par magie un tourbillon aveuglant autour de la momie auguste. Les créatures situées à 1,50 mètre ou moins d'elle doivent chacune réussir un jet de sauvegarde de Constitution DD 16 pour ne pas être [aveuglées] jusqu'à la fin de leur prochain tour.
 
-Tourbillon de sable (coûte 2 actions). La momie auguste se transforme par magie en un tourbillon de sable, se déplace d'une distance maximale de 18 mètres, puis reprend sa forme normale. Sous forme de tourbillon, la momie auguste est immunisée contre tous les dégâts et elle ne peut pas être empoignée, pétrifiée, jetée à terre, entravée ni étourdie. Ses objets équipés ou transportés restent en sa possession.
+Tourbillon de sable (coûte 2 actions). La momie auguste se transforme par magie en un tourbillon de sable, se déplace d'une distance maximale de 18 mètres, puis reprend sa forme normale. Sous forme de tourbillon, la momie auguste est immunisée contre tous les dégâts et elle ne peut pas être [empoignée], [pétrifiée], jetée [à terre], [entravée] ni [étourdie]. Ses objets équipés ou transportés restent en sa possession.
 
 
 # Naga corrupteur
@@ -6946,7 +6946,7 @@ Tourbillon de sable (coûte 2 actions). La momie auguste se transforme par magie
 
 - **Jets de sauvegarde** Dex +6, Con +5, Sag +5, Cha +6
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** charmé et empoisonné
+- **Immunité contre les états** [charmé] et [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** abyssal, commun
 - **Dangerosité** 8 (3 900 PX)
@@ -6989,7 +6989,7 @@ Touché : 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de sau
 
 - **Jets de sauvegarde** Dex +8, Con +7, Int +7, Sag +8, Cha +8
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** charmé et empoisonné
+- **Immunité contre les états** [charmé] et [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langues** céleste, commun
 - **Dangerosité** 10 (5 900 PX)
@@ -7039,7 +7039,7 @@ Touché : 8 (1d8+4) dégâts perforants et la cible doit effectuer un jet de sau
 - **Compétences** Discrétion +4, Perception +3
 - **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** empoisonné et épuisé
+- **Immunité contre les états** [empoisonné] et épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 13
 - **Langues** celles qu'il connaissait de son vivant
 - **Dangerosité** 3 (700 PX)
@@ -7080,7 +7080,7 @@ Touché : 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si ell
 |14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
 
 - **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], épuisé, [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
 - **Langues** —
 - **Dangerosité** 1 (200 PX)
@@ -7089,7 +7089,7 @@ Touché : 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si ell
 
 Faux semblant. Tant que l'armure reste immobile, il est impossible de la distinguer d'une armure ordinaire.
 
-Vulnérabilité à l'antimagie. L'armure est neutralisée quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une dissipation de la magie, l'armure doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur, sans quoi elle tombe inconsciente pendant 1 minute.
+Vulnérabilité à l'antimagie. L'armure est [neutralisée] quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une dissipation de la magie, l'armure doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur, sans quoi elle tombe [inconsciente] pendant 1 minute.
 
 ## Actions
 
@@ -7113,7 +7113,7 @@ Touché : 5 (1d6+2) dégâts contondants.
 
 - **Jets de sauvegarde** Dex +4
 - **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, paralysé, pétrifié, terrorisé
+- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié], [terrorisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 7
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
@@ -7122,7 +7122,7 @@ Touché : 5 (1d6+2) dégâts contondants.
 
 Faux semblant. Tant que l'épée reste immobile, il est impossible de la distinguer d'une épée ordinaire.
 
-Vulnérabilité à l'antimagie. L'épée est neutralisée quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une dissipation de la magie, l'épée doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur sans quoi elle tombe inconsciente pendant 1 minute.
+Vulnérabilité à l'antimagie. L'épée est [neutralisée] quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une dissipation de la magie, l'épée doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur sans quoi elle tombe [inconsciente] pendant 1 minute.
 
 ## Actions
 
@@ -7142,7 +7142,7 @@ Touché : 5 (1d8+1) dégâts tranchants.
 |17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
 - **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, paralysé, pétrifié et terrorisé
+- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié] et [terrorisé]
 - **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 6
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
@@ -7151,17 +7151,17 @@ Touché : 5 (1d8+1) dégâts tranchants.
 
 Faux semblant. Tant que le tapis reste immobile, il est impossible de le distinguer d'un tapis ordinaire.
 
-Transfert de dégâts. Aussi longtemps qu'il empoigne une créature, le tapis subit la moitié seulement des dégâts qu'on lui inflige, et la créature empoignée subit l'autre moitié.
+Transfert de dégâts. Aussi longtemps qu'il empoigne une créature, le tapis subit la moitié seulement des dégâts qu'on lui inflige, et la créature [empoignée] subit l'autre moitié.
 
-Vulnérabilité à l'antimagie. Le tapis est neutralisé quand il se trouve à l'intérieur d'un champ d'antimagie.
+Vulnérabilité à l'antimagie. Le tapis est [neutralisé] quand il se trouve à l'intérieur d'un champ d'antimagie.
 
-Ciblé par une dissipation de la magie, le tapis doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur sans quoi il tombe inconscient pendant 1 minute.
+Ciblé par une dissipation de la magie, le tapis doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur sans quoi il tombe [inconscient] pendant 1 minute.
 
 ## Actions
 
 Étrangler. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature de taille M ou plus petite.
 
-Touché : la créature est empoignée (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est entravée, aveuglée et risque de s'asphyxier, et le tapis ne peut pas étrangler une autre cible.
+Touché : la créature est [empoignée] (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est [entravée], [aveuglée] et risque de s'asphyxier, et le tapis ne peut pas étrangler une autre cible.
 
 De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) dégâts contondants.
 
@@ -7207,7 +7207,7 @@ Touché : 13 (2d8+4) dégâts contondants.
 - **Vulnérabilité aux dégâts** radiants
 - **Résistance aux dégâts** d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** à terre, terrorisé, empoigné, empoisonné, épuisé, entravé paralysé et pétrifié
+- **Immunité contre les états** [à terre], [terrorisé], [empoigné], [empoisonné], épuisé, [entravé] [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -7320,7 +7320,7 @@ Touché : 6 (1d6+3) dégâts perforants.
 
 ## Capacités
 
-Sombre dévotion. Le chaman bénéficie d'un avantage lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
+Sombre dévotion. Le chaman bénéficie d'un avantage lors des jets de sauvegarde effectués pour ne pas être [charmé] ou [terrorisé].
 
 Incantation. Le chaman est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le chaman :
 
@@ -7363,17 +7363,17 @@ Télépathie limitée. L'otyugh peut transmettre par magie des images et des mes
 
 Attaques multiples. L'otyugh effectue trois attaques : une avec sa morsure et deux avec ses tentacules.
 
-Coup de tentacule. L'otyugh cogne les créatures qu'il empoigne l'une contre l'autre ou contre une surface solide. Chaque créature doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas subir 10 (2d6+3) dégâts contondants et être étourdie jusqu'à la fin du prochain tour de l'otyugh. En cas de jet de sauvegarde réussi, la cible subit la moitié seulement des dégâts contondants et n'est pas étourdie.
+Coup de tentacule. L'otyugh cogne les créatures qu'il empoigne l'une contre l'autre ou contre une surface solide. Chaque créature doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas subir 10 (2d6+3) dégâts contondants et être [étourdie] jusqu'à la fin du prochain tour de l'otyugh. En cas de jet de sauvegarde réussi, la cible subit la moitié seulement des dégâts contondants et n'est pas [étourdie].
 
 Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 12 (2d8+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 15 contre la maladie pour ne pas être empoisonnée tant que la maladie n'est pas soignée. Toutes les 24 heures par la suite, la cible doit retenter le jet de sauvegarde et réduire son total maximum de points de vie de 5 (1d10) en cas d'échec. La maladie est soignée en cas de réussite.
+Touché : 12 (2d8+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 15 contre la maladie pour ne pas être [empoisonnée] tant que la maladie n'est pas soignée. Toutes les 24 heures par la suite, la cible doit retenter le jet de sauvegarde et réduire son total maximum de points de vie de 5 (1d10) en cas d'échec. La maladie est soignée en cas de réussite.
 
 La cible meurt si la maladie réduit à 0 son total maximum de points de vie. Cette réduction du total maximum de points de vie persiste tant que la maladie n'est pas soignée.
 
 Tentacule. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
 
-Touché : 7 (1d8+3) dégâts contondants plus 4 (1d8) dégâts perforants. Si la cible est une créature de taille M ou plus petite, elle est empoignée (DD 13 pour se libérer) et entravée jusqu'à la fin de l'empoignade.
+Touché : 7 (1d8+3) dégâts contondants plus 4 (1d8) dégâts perforants. Si la cible est une créature de taille M ou plus petite, elle est [empoignée] (DD 13 pour se libérer) et [entravée] jusqu'à la fin de l'empoignade.
 
 L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
@@ -7424,7 +7424,7 @@ Touché : 5 (1d8+1) dégâts perforants.
 
 - **Compétences** Perception +0
 - **Résistance aux dégâts** acide, feu, foudre, froid, tonnerre
-- **Immunité contre l'état** aveuglé
+- **Immunité contre l'état** [aveuglé]
 - **Sens** vision aveugle 18 mètres (aveugle au-delà) ; Perception passive 8
 - **Langue** –
 - **Dangerosité** 1/4 (50 PX)
@@ -7509,7 +7509,7 @@ Télépathie limitée. Le pseudodragon peut communiquer par magie des idées, de
 
 Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être empoisonnée pendant 1 heure. Si le jet de sauvegarde échoue de 5 points ou plus, la cible tombe inconsciente pour la même durée. Elle reprend ses esprits avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre conscience.
+Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [empoisonnée] pendant 1 heure. Si le jet de sauvegarde échoue de 5 points ou plus, la cible tombe [inconsciente] pour la même durée. Elle reprend ses esprits avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre conscience.
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
@@ -7578,15 +7578,15 @@ Corps surchauffé. Une créature qui touche le remorhaz ou qui réussit une atta
 
 ## Actions
 
-Engloutir. Le remorhaz effectue une attaque de morsure contre une cible de taille M ou plus petite qu'il empoigne. Si l'attaque réussit, cette créature subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la créature est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du remorhaz et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du remorhaz.
+Engloutir. Le remorhaz effectue une attaque de morsure contre une cible de taille M ou plus petite qu'il empoigne. Si l'attaque réussit, cette créature subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la créature est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du remorhaz et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du remorhaz.
 
-Si le remorhaz subit 30 dégâts ou plus infligés lors d'un seul tour par une créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 15 à la fin de ce tour pour ne pas régurgiter toutes les créatures englouties qui tombent alors à terre dans un emplacement à 3 mètres ou moins du remorhaz.
+Si le remorhaz subit 30 dégâts ou plus infligés lors d'un seul tour par une créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 15 à la fin de ce tour pour ne pas régurgiter toutes les créatures englouties qui tombent alors [à terre] dans un emplacement à 3 mètres ou moins du remorhaz.
 
-Si le remorhaz meurt, une créature engloutie n'est plus entravée à cause de lui et peut s'extirper de la carcasse en dépensant 4,50 mètres de déplacement ; elle en sort à terre.
+Si le remorhaz meurt, une créature engloutie n'est plus [entravée] à cause de lui et peut s'extirper de la carcasse en dépensant 4,50 mètres de déplacement ; elle en sort [à terre].
 
 Morsure. Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une cible.
 
-Touché : 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la cible est une créature, elle est empoignée (évasion DD 17). Jusqu'à la fin de cette empoignade, la cible est entravée et le remorhaz ne peut pas mordre une autre cible.
+Touché : 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la cible est une créature, elle est [empoignée] (évasion DD 17). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le remorhaz ne peut pas mordre une autre cible.
 
 
 # Roc
@@ -7620,7 +7620,7 @@ Touché : 27 (4d8+9) dégâts perforants.
 
 Serres. Attaque d'arme au corps à corps : +13 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 23 (4d6+9) dégâts tranchants et la cible est empoignée (évasion DD 19). Jusqu'à la fin de l'empoignade, la cible est entravée et le roc ne peut plus utiliser ses serres sur une autre cible.
+Touché : 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasion DD 19). Jusqu'à la fin de l'empoignade, la cible est [entravée] et le roc ne peut plus utiliser ses serres sur une autre cible.
 
 
 # Sahuagin
@@ -7750,7 +7750,7 @@ Touché : 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si el
 
 Queue. Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible.
 
-Touché : 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la cible est empoignée (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est entravée et la salamandre peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d'attaque de queue contre d'autres cibles.
+Touché : 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la cible est [empoignée] (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la salamandre peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d'attaque de queue contre d'autres cibles.
 
 
 # Satyre
@@ -7799,7 +7799,7 @@ Touché : 6 (1d6+3) dégâts perforants.
 |21 (+5)| 8 (-1)|21 (+5)| 1 (-5)|10 (+0)| 1 (-5)|
 
 - **Résistance aux dégâts** contondant, perforant, poison, tonnerre
-- **Immunité contre les états** assourdi, aveuglé, charmé, terrorisé
+- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [terrorisé]
 - **Vulnérabilité aux dégâts** feu
 - **Sens** Perception passive (10)
 - **Langues** -
@@ -7815,11 +7815,11 @@ Attaques multiples. Un saule étrangleur effectue autant d'attaques que de cible
 
 Immobilisation. attaque d'arme au corps à corps : +8 pour toucher, allonge 4,50 m, une cible.
 
-Touché : 7 (1d4+5) dégâts contondants et la cible est entravée à moins de réussir un jet de sauvegarde de Dextérité DD 14.
+Touché : 7 (1d4+5) dégâts contondants et la cible est [entravée] à moins de réussir un jet de sauvegarde de Dextérité DD 14.
 
 Étranglement. attaque d'arme au corps à corps : +8 pour toucher, allonge 4,50 m, une cible.
 
-Touché : 9 (1d8+5) dégâts contondants et la cible est empoignée (DD du jet d'évasion 15). Une créature empoignée ne peut plus respirer et subit 9 (1d8+5) dégâts contondants au début de son tour à moins de réussir un jet de sauvegarde de Constitution DD 14. À son tour, le saule peut cibler une créature déjà empoignée avec un nouvel étranglement. Chaque nouvelle attaque réussie implique un jet d'évasion supplémentaire avant de se libérer. Toutefois, les dégâts en début de tour ne se cumulent pas et un seul jet de sauvegarde est nécessaire quel que soit le nombre de branches empoignant la créature.
+Touché : 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du jet d'évasion 15). Une créature [empoignée] ne peut plus respirer et subit 9 (1d8+5) dégâts contondants au début de son tour à moins de réussir un jet de sauvegarde de Constitution DD 14. À son tour, le saule peut cibler une créature déjà [empoignée] avec un nouvel étranglement. Chaque nouvelle attaque réussie implique un jet d'évasion supplémentaire avant de se libérer. Toutefois, les dégâts en début de tour ne se cumulent pas et un seul jet de sauvegarde est nécessaire quel que soit le nombre de branches empoignant la créature.
 
 
 # Serpent de mer
@@ -7851,21 +7851,21 @@ Attaques multiples. Le serpent de mer effectue trois attaques : une avec sa mors
 
 Morsure. Attaque d'arme au corps à corps : +13 pour toucher, allonge 3 m, une cible.
 
-Touché : 22 (3d8+9) dégâts perforants. Si la cible est une créature de taille G ou plus petite, elle doit réussir un jet de sauvegarde de Dextérité DD 18 pour ne pas être avalée par le serpent de mer. Une créature avalée est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du serpent et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du serpent.
+Touché : 22 (3d8+9) dégâts perforants. Si la cible est une créature de taille G ou plus petite, elle doit réussir un jet de sauvegarde de Dextérité DD 18 pour ne pas être avalée par le serpent de mer. Une créature avalée est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du serpent et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du serpent.
 
-S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature à l'intérieur de lui, le serpent doit réussir un jet de sauvegarde de Constitution DD 20 à la fin du tour pour ne pas régurgiter la totalité des créatures avalées qui tombent à terre dans un emplacement situé à 3 mètres ou moins du serpent. Si le serpent meurt, les créatures avalées ne sont plus entravées par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement.
+S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature à l'intérieur de lui, le serpent doit réussir un jet de sauvegarde de Constitution DD 20 à la fin du tour pour ne pas régurgiter la totalité des créatures avalées qui tombent [à terre] dans un emplacement situé à 3 mètres ou moins du serpent. Si le serpent meurt, les créatures avalées ne sont plus [entravées] par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement.
 
-Elles en sortent à terre.
+Elles en sortent [à terre].
 
 Comprimer. Attaque d'arme au corps à corps : +13 pour toucher, allonge 1,50 m, une créature de taille TG ou plus petite.
 
 Touché : 20 (2d10+9) dégâts contondants plus 17 (2d10+6) dégâts tranchants.
 
-La cible est empoignée (évasion DD 16) si le serpent n'est pas déjà en train de comprimer une créature et elle est entravée jusqu'au terme de cette empoignade.
+La cible est [empoignée] (évasion DD 16) si le serpent n'est pas déjà en train de comprimer une créature et elle est [entravée] jusqu'au terme de cette empoignade.
 
 Queue. Attaque d'arme au corps à corps : +13 pour toucher, allonge 6 m, une cible.
 
-Touché : 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas tomber à terre.
+Touché : 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas tomber [à terre].
 
 
 # Spectre
@@ -7881,7 +7881,7 @@ Touché : 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle d
 
 - **Résistance aux dégâts** acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** nécrotiques et de poison
-- **Immunité contre les états** à terre, charmé, entravé, empoigné, empoisonné, épuisé, inconscient, paralysé, pétrifié
+- **Immunité contre les états** [à terre], [charmé], [entravé], [empoigné], [empoisonné], épuisé, [inconscient], [paralysé], [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
 - **Dangerosité** 1 (200 PX)
@@ -7913,7 +7913,7 @@ Touché : 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sauve
 - **Jets de sauvegarde** Dex +6, Con +11, Int +9, Sag +10
 - **Compétences** Arcanes +9, Perception +10, Religion +15
 - **Immunité contre les dégâts** psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** charmé et terrorisé
+- **Immunité contre les états** [charmé] et [terrorisé]
 - **Sens** vision parfaite 36 m, Perception passive 20
 - **Langues** commun, sphinx
 - **Dangerosité** 17 (18 000 PX)
@@ -7950,11 +7950,11 @@ Touché : 17 (2d10+6) dégâts tranchants.
 
 Rugissement (3/jour). Le sphinx pousse un rugissement magique. Chaque fois qu'il rugit avant de terminer une période de repos long, le volume sonore du rugissement est plus important et l'effet est différent, comme expliqué plus bas. Les créatures situées à 150 mètres ou moins du sphinx et qui peuvent entendre le rugissement doivent chacune effectuer un jet de sauvegarde.
 
-Premier rugissement. Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont terrorisées pendant 1 minute. Une créature terrorisée peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Premier rugissement. Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont [terrorisées] pendant 1 minute. Une créature [terrorisée] peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-Deuxième rugissement. Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont assourdies et terrorisées pendant 1 minute. Une créature terrorisée est paralysée et peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+Deuxième rugissement. Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont [assourdies] et [terrorisées] pendant 1 minute. Une créature [terrorisée] est [paralysée] et peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-Troisième rugissement. Les créatures effectuent chacune un jet de sauvegarde de Constitution DD 18. En cas de jet de sauvegarde raté, une créature subit 44 (8d10) dégâts de tonnerre et tombe à terre. En cas de jet de sauvegarde réussi, la créature subit la moitié seulement des dégâts et ne tombe pas à terre.
+Troisième rugissement. Les créatures effectuent chacune un jet de sauvegarde de Constitution DD 18. En cas de jet de sauvegarde raté, une créature subit 44 (8d10) dégâts de tonnerre et tombe [à terre]. En cas de jet de sauvegarde réussi, la créature subit la moitié seulement des dégâts et ne tombe pas [à terre].
 
 ## Actions légendaires
 
@@ -7981,7 +7981,7 @@ Téléportation (coûte 2 actions). Le sphinx se téléporte par magie, avec tou
 - **Compétences** Arcanes +12, Histoire +12, Perception +8, Religion +8
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
 - **Immunité contre les dégâts** psychiques
-- **Immunité contre les états** charmé et terrorisé
+- **Immunité contre les états** [charmé] et [terrorisé]
 - **Sens** vision parfaite 36 m, Perception passive 18
 - **Langues** commun, sphinx
 - **Dangerosité** 11 (7 200 PX)
@@ -8038,7 +8038,7 @@ Téléportation (coûte 2 actions). Le sphinx se téléporte par magie, avec tou
 
 - **Vulnérabilité aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** empoisonné et épuisé
+- **Immunité contre les états** [empoisonné] et épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
 - **Dangerosité** 1/4 (50 PX)
@@ -8066,7 +8066,7 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 - **Vulnérabilité aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** empoisonné et épuisé
+- **Immunité contre les états** [empoisonné] et épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -8090,14 +8090,14 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 - **Vulnérabilité aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
-- **Immunité contre les états** empoisonné et épuisé
+- **Immunité contre les états** [empoisonné] et épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** comprend l'abyssal mais ne peut pas parler
 - **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
-Charge. Si le squelette se déplace de 3 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être repoussée de 3 mètres et se retrouver à terre.
+Charge. Si le squelette se déplace de 3 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être repoussée de 3 mètres et se retrouver [à terre].
 
 ## Actions
 
@@ -8153,17 +8153,17 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 
 ## Capacités
 
-Lien télépathique. Le fiélon ignore les limites de portée de sa télépathie quand il communique avec une créature qu'il a charmée, même s'ils ne sont pas sur le même plan d'existence.
+Lien télépathique. Le fiélon ignore les limites de portée de sa télépathie quand il communique avec une créature qu'il a [charmée], même s'ils ne sont pas sur le même plan d'existence.
 
 Métamorphe. Le fiélon peut utiliser son action pour se métamorphoser en humanoïde de taille M ou P, ou pour reprendre sa véritable forme. Sans aile, le fiélon perd sa vitesse en vol. À l'exception de sa taille et de sa vitesse, ses statistiques restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Le fiélon reprend sa forme véritable s'il meurt.
 
 ## Actions
 
-Baiser dévitalisant. Le fiélon embrasse une créature consentante ou qu'il a préalablement charmée. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie.
+Baiser dévitalisant. Le fiélon embrasse une créature consentante ou qu'il a préalablement [charmée]. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie.
 
 Elle subit 32 (5d10+5) dégâts psychiques en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
 
-Charme. Un humanoïde situé dans le champ de vision du fiélon et à 9 mètres de lui doit réussir un jet de Sagesse DD 15 pour ne pas être charmé par magie pendant 1 jour. La cible charmée obéit aux ordres verbaux ou télépathiques du fiélon.
+Charme. Un humanoïde situé dans le champ de vision du fiélon et à 9 mètres de lui doit réussir un jet de Sagesse DD 15 pour ne pas être [charmé] par magie pendant 1 jour. La cible [charmée] obéit aux ordres verbaux ou télépathiques du fiélon.
 
 Si la cible subit des blessures ou reçoit un ordre suicidaire, elle peut retenter le jet de sauvegarde et mettre fin à l'effet en cas de réussite. Si la cible réussit le jet de sauvegarde contre l'effet ou si l'effet dont elle est victime prend fin, la cible est immunisée au Charme de ce fiélon pendant 24 heures.
 
@@ -8225,7 +8225,7 @@ Animation des arbres (1/jour). Le sylvanien anime par magie un ou deux arbres qu
 
 - **Jets de sauvegarde** Int +5, Sag +9, Cha +9
 - **Immunité contre les dégâts** de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** charmé, terrorisé, empoisonné et paralysé
+- **Immunité contre les états** [charmé], [terrorisé], [empoisonné] et [paralysé]
 - **Sens** vision aveugle 36 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 30 (155 000 PX)
@@ -8250,11 +8250,11 @@ Cornes. Attaque d'arme au corps à corps : +19 pour toucher, allonge 3 m, une ci
 
 Touché : 32 (4d10+10) dégâts perforants.
 
-Engloutir. La tarasque effectue une attaque de morsure contre une cible de taille G ou plus petite qu'elle empoigne. Si l'attaque réussit, la cible subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la tarasque et elle subit 56 (16d6) dégâts d'acide au début de chacun des tours de la tarasque.
+Engloutir. La tarasque effectue une attaque de morsure contre une cible de taille G ou plus petite qu'elle empoigne. Si l'attaque réussit, la cible subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la tarasque et elle subit 56 (16d6) dégâts d'acide au début de chacun des tours de la tarasque.
 
-Si la tarasque subit 60 dégâts ou plus infligés lors d'un seul tour par une créature engloutie, elle doit réussir un jet de sauvegarde de Constitution DD 20 à la fin de ce tour pour ne pas régurgiter toutes les créatures englouties qui tombent alors à terre dans un emplacement à 3 mètres ou moins de la tarasque.
+Si la tarasque subit 60 dégâts ou plus infligés lors d'un seul tour par une créature engloutie, elle doit réussir un jet de sauvegarde de Constitution DD 20 à la fin de ce tour pour ne pas régurgiter toutes les créatures englouties qui tombent alors [à terre] dans un emplacement à 3 mètres ou moins de la tarasque.
 
-Si la tarasque meurt, une créature engloutie n'est plus entravée à cause d'elle et peut s'extirper de la carcasse en dépensant 9 mètres de déplacement ; elle en sort à terre.
+Si la tarasque meurt, une créature engloutie n'est plus [entravée] à cause d'elle et peut s'extirper de la carcasse en dépensant 9 mètres de déplacement ; elle en sort [à terre].
 
 Griffe. Attaque d'arme au corps à corps : +19 pour toucher, allonge 4,50 m, une cible.
 
@@ -8262,13 +8262,13 @@ Touché : 28 (4d8+10) dégâts tranchants.
 
 Morsure. Attaque d'arme au corps à corps : +19 pour toucher, allonge 3 m, une cible.
 
-Touché : 36 (4d12+10) dégâts perforants. Si la cible est une créature, elle est empoignée (évasion DD 20). Jusqu'à la fin de cette empoignade, la cible est entravée et la tarasque ne peut pas mordre une autre créature.
+Touché : 36 (4d12+10) dégâts perforants. Si la cible est une créature, elle est [empoignée] (évasion DD 20). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la tarasque ne peut pas mordre une autre créature.
 
-Présence terrifiante. Les créatures choisies par la tarasque, situées à 36 mètres ou moins d'elle et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 17 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si la tarasque est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante de la tarasque pendant 24 heures.
+Présence terrifiante. Les créatures choisies par la tarasque, situées à 36 mètres ou moins d'elle et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 17 pour ne pas être [terrorisées] pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si la tarasque est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante de la tarasque pendant 24 heures.
 
 Queue. Attaque d'arme au corps à corps : +19 pour toucher, allonge 6 m, une cible.
 
-Touché : 24 (4d6+10) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas tomber à terre.
+Touché : 24 (4d6+10) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas tomber [à terre].
 
 ## Actions légendaires
 
@@ -8292,7 +8292,7 @@ Mordre (coûte 2 actions). La tarasque effectue une attaque de morsure ou utilis
 |18 (+4)|12 (+1)|16 (+3)| 7 (-2)|14 (+2)|10 (+0)|
 
 - **Compétences** Discrétion +4, Perception +8
-- **Immunité contre l'état** aveuglé
+- **Immunité contre l'état** [aveuglé]
 - **Sens** perception des vibrations 18 m, vision aveugle 18 m, Perception passive 18
 - **Langues** comprend le commun des profondeurs mais ne parle pas
 - **Dangerosité** 5 (1 800 PX)
@@ -8313,7 +8313,7 @@ Pince. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une c
 
 Touché : 11 (2d6+4) dégâts tranchants.
 
-Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont étourdies pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas étourdies. Une créature étourdie peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
+Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
 
 
 # Larve des roches
@@ -8327,7 +8327,7 @@ Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un c�
 |15 (+2)|12 (+1)|14 (+2)| 3 (-4)|14 (+2)| 6 (-2)|
 
 - **Compétences** Discrétion +3, Perception +6
-- **Immunité contre l'état** aveuglé
+- **Immunité contre l'état** [aveuglé]
 - **Sens** perception des vibrations 12 m, vision aveugle 12 m, Perception passive 16
 - **Langues** -
 - **Dangerosité** 1 (200 PX)
@@ -8338,7 +8338,7 @@ Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une
 
 Touché : 6 (1d8+2) dégâts perforants.
 
-Onde vibratoire (Recharge 5-6). La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont étourdies pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas étourdies. Une créature étourdie peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
+Onde vibratoire (Recharge 5-6). La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
 
 
 # Tertre errant
@@ -8355,7 +8355,7 @@ Onde vibratoire (Recharge 5-6). La larve des roches produit une onde sur un côn
 - **Compétences** Discrétion +2
 - **Résistance aux dégâts** de feu et de froid
 - **Immunité contre les dégâts** de foudre
-- **Immunité contre les états** assourdi, aveuglé et épuisé
+- **Immunité contre les états** [assourdi], [aveuglé] et épuisé
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
 - **Langues** —
 - **Dangerosité** 5 (1 800 PX)
@@ -8366,13 +8366,13 @@ Absorption de la foudre. Chaque fois que le tertre errant devrait subir des dég
 
 ## Actions
 
-Attaques multiples. Le tertre errant effectue deux attaques de coup. S'il réussit ces deux attaques contre une cible de taille M ou plus petite, celle-ci est empoignée (évasion DD 14) et le tertre errant utilise son Enveloppement sur elle.
+Attaques multiples. Le tertre errant effectue deux attaques de coup. S'il réussit ces deux attaques contre une cible de taille M ou plus petite, celle-ci est [empoignée] (évasion DD 14) et le tertre errant utilise son Enveloppement sur elle.
 
 Coup. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible ;
 
 Touché : 13 (2d8+4) dégâts contondants.
 
-Enveloppement. Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est aveuglée, entravée et incapable de respirer. Elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
+Enveloppement. Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [aveuglée], [entravée] et incapable de respirer. Elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
 
 
 # Torve
@@ -8387,8 +8387,8 @@ Enveloppement. Le tertre errant enveloppe une créature de taille M ou plus peti
 |16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
 
 - **Compétences** Athlétisme +5, Discrétion +3, Perception +3
-- **Immunité à l'état** aveuglé
-- **Sens** vision aveugle 9 m ou 3 m s'il est assourdi (aveugle au-delà de cette distance), Perception passive 13
+- **Immunité à l'état** [aveuglé]
+- **Sens** vision aveugle 9 m ou 3 m s'il est [assourdi] (aveugle au-delà de cette distance), Perception passive 13
 - **Langue** commun des profondeurs
 - **Dangerosité** 1/4 (50 PX)
 
@@ -8398,7 +8398,7 @@ Camouflage dans la rocaille. Le torve obtient un avantage lors des tests de Dext
 
 Odorat et ouïe aiguisés. Le torve obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Sens diminués. La vision aveugle du torve ne fonctionne plus aussi longtemps qu'il est assourdi et incapable d'utiliser son odorat.
+Sens diminués. La vision aveugle du torve ne fonctionne plus aussi longtemps qu'il est [assourdi] et incapable d'utiliser son odorat.
 
 ## Actions
 
@@ -8420,14 +8420,14 @@ Touché : 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 - **Compétences** Discrétion +10, Perception +8
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [empoigné], [empoisonné], épuisé, [inconscient], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 18 m, Perception passive 18
 - **Langues** aérien, comprend le commun mais ne peut pas le parler
 - **Dangerosité** 6 (2 300 PX)
 
 ## Capacités
 
-Invisibilité. Le traqueur est invisible.
+Invisibilité. Le traqueur est [invisible].
 
 Traqueur parfait. Le traqueur se voit désigner une proie par son invocateur. Le traqueur connaît la direction et la distance qui le sépare de sa proie aussi longtemps que les deux se trouvent sur le même plan d'existence. Le traqueur sait également où se trouve son invocateur.
 
@@ -8501,13 +8501,13 @@ Défense d'entrer. Il ne peut pas entrer dans une habitation sans y avoir été 
 
 Blessé par l'eau courante. Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
 
-Pieu dans le coeur. Si une arme perforante en bois est plantée dans son coeur pendant qu'il est neutralisé dans son refuge, il est paralysé tant que le pieu n'est pas retiré.
+Pieu dans le coeur. Si une arme perforante en bois est plantée dans son coeur pendant qu'il est [neutralisé] dans son refuge, il est [paralysé] tant que le pieu n'est pas retiré.
 
 Hypersensibilité à la lumière du soleil. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un désavantage lors des jets d'attaque et des tests de caractéristique.
 
-Fuite brumeuse. Quand il tombe à 0 point de vie à l'extérieur de son refuge, à condition qu'il ne soit ni exposé à la lumière du soleil ni immergé dans de l'eau courante, le vampire se transforme en nuage ou en brume (comme décrit dans le trait Métamorphe) au lieu de tomber inconscient. Il est détruit s'il ne peut pas se transformer.
+Fuite brumeuse. Quand il tombe à 0 point de vie à l'extérieur de son refuge, à condition qu'il ne soit ni exposé à la lumière du soleil ni immergé dans de l'eau courante, le vampire se transforme en nuage ou en brume (comme décrit dans le trait Métamorphe) au lieu de tomber [inconscient]. Il est détruit s'il ne peut pas se transformer.
 
-Lorsqu'il a 0 point de vie sous forme de brume, le vampire ne peut pas reprendre sa forme de vampire et doit atteindre son refuge en 2 heures ou moins sous peine d'être détruit. Une fois dans son refuge, il prendre sa forme de vampire. Il est ensuite paralysé tant qu'il n'a pas récupéré au moins 1 point de vie. Après avoir passé 1 heure dans son refuge avec 0 point de vie, il récupère 1 point de vie.
+Lorsqu'il a 0 point de vie sous forme de brume, le vampire ne peut pas reprendre sa forme de vampire et doit atteindre son refuge en 2 heures ou moins sous peine d'être détruit. Une fois dans son refuge, il prendre sa forme de vampire. Il est ensuite [paralysé] tant qu'il n'a pas récupéré au moins 1 point de vie. Après avoir passé 1 heure dans son refuge avec 0 point de vie, il récupère 1 point de vie.
 
 Métamorphe. S'il n'est pas exposé à la lumière du soleil ou immergé dans l'eau courante, le vampire peut utiliser son action pour se métamorphoser en chauve-souris de taille TP, en brume ou en nuage de taille M ou pour reprendre sa véritable forme.
 
@@ -8525,7 +8525,7 @@ Résistance légendaire (3/jour). Le vampire peut remplacer l'échec d'un de ses
 
 Attaques multiples (forme de vampire uniquement). Le vampire effectue deux attaques, dont une seule peut être une attaque de morsure.
 
-Charme. Le vampire cible un humanoïde situé à 9 mètres ou moins de lui dans son champ de vision. Si elle peut voir le vampire, la cible doit réussir un jet de Sagesse DD 17 contre cette magie pour ne pas être charmée par le vampire. La cible charmée considère le vampire comme un ami de confiance qu'il faut écouter et protéger. Elle n'est pas sous le contrôle du vampire, mais elle envisage ses requêtes sous le meilleur angle possible et fait office de cible consentante si le vampire souhaite effectuer une attaque de morsure contre elle.
+Charme. Le vampire cible un humanoïde situé à 9 mètres ou moins de lui dans son champ de vision. Si elle peut voir le vampire, la cible doit réussir un jet de Sagesse DD 17 contre cette magie pour ne pas être [charmée] par le vampire. La cible [charmée] considère le vampire comme un ami de confiance qu'il faut écouter et protéger. Elle n'est pas sous le contrôle du vampire, mais elle envisage ses requêtes sous le meilleur angle possible et fait office de cible consentante si le vampire souhaite effectuer une attaque de morsure contre elle.
 
 Chaque fois que le vampire ou ses compagnons font quoi que ce soit de nocif envers la cible, celle-ci peut retenter le jet de sauvegarde et mettre fin à l'effet dont elle est victime en cas de réussite.
 
@@ -8535,7 +8535,7 @@ Frappe à mains nues (forme de vampire uniquement). Attaque d'arme au corps à c
 
 Touché : 8 (1d8+4) dégâts contondants. Au lieu d'infliger des dégâts, le vampire peut empoigner la cible (évasion DD 18).
 
-Morsure (forme de chauve-souris ou de vampire uniquement). Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature consentante ou une créature neutralisée, entravée ou empoignée par le vampire.
+Morsure (forme de chauve-souris ou de vampire uniquement). Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature consentante ou une créature [neutralisée], [entravée] ou [empoignée] par le vampire.
 
 Touché : 7 (1d6+4) dégâts perforants plus 10 (3d6) dégâts nécrotiques. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis et le vampire récupère un nombre de points de vie égal à ce montant. La réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si l'effet réduit à 0 son total maximum de points de vie. Un humanoïde tué de cette façon puis enterré se relève la nuit suivante sous forme de vampirien contrôlé par le vampire.
 
@@ -8580,7 +8580,7 @@ Défense d'entrer. Il ne peut pas entrer dans une habitation sans y avoir été 
 
 Blessé par l'eau courante. Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
 
-Pieu dans le coeur. Il est détruit si une arme perforante en bois est plantée dans son coeur pendant qu'il est neutralisé dans son refuge.
+Pieu dans le coeur. Il est détruit si une arme perforante en bois est plantée dans son coeur pendant qu'il est [neutralisé] dans son refuge.
 
 Hypersensibilité à la lumière du soleil. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un désavantage lors des jets d'attaque et des tests de caractéristique.
 
@@ -8598,7 +8598,7 @@ Griffes. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une
 
 Touché : 8 (2d4+3) dégâts tranchants. Au lieu d'infliger des dégâts, le vampirien peut empoigner la cible (évasion DD 13).
 
-Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature consentante ou une créature neutralisée, entravée ou empoignée par le vampirien.
+Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature consentante ou une créature [neutralisée], [entravée] ou [empoignée] par le vampirien.
 
 Touché : 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis et le vampirien récupère un nombre de points de vie égal à ce montant. La réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si l'effet réduit à 0 son total maximum de points de vie.
 
@@ -8614,7 +8614,7 @@ Touché : 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le t
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Immunité contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
@@ -8639,7 +8639,7 @@ Chaque fois que le cube entre dans l'emplacement d'une créature, celle-ci doit 
 
 En cas de jet de sauvegarde réussi, la créature peut décider qu'elle est repoussée de 1,50 mètre vers l'arrière ou sur le côté du cube. Une créature qui décide de rester subit les conséquences d'un jet de sauvegarde raté.
 
-En cas de jet de sauvegarde raté, le cube entre dans l'emplacement de la créature ; elle subit 10 (3d6) dégâts d'acide et elle est enveloppée. La créature enveloppée ne peut plus respirer, elle est entravée et subit 21 (6d6) dégâts d'acide au début de chacun des tours du cube. Quand le cube se déplace, la créature enveloppée se déplace avec lui.
+En cas de jet de sauvegarde raté, le cube entre dans l'emplacement de la créature ; elle subit 10 (3d6) dégâts d'acide et elle est enveloppée. La créature enveloppée ne peut plus respirer, elle est [entravée] et subit 21 (6d6) dégâts d'acide au début de chacun des tours du cube. Quand le cube se déplace, la créature enveloppée se déplace avec lui.
 
 Une créature enveloppée peut tenter de s'échapper en faisant une action pour effectuer un test de Force DD 12. En cas de réussite, la créature s'échappe et entre dans un emplacement de son choix situé à 1,50 mètre du cube.
 
@@ -8661,7 +8661,7 @@ Touché : 10 (3d6) dégâts d'acide.
 
 - **Résistance aux dégâts** d'acide
 - **Immunité contre les dégâts** de foudre et tranchants
-- **Immunité contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
@@ -8695,7 +8695,7 @@ Division. Quand une gelée de taille M ou plus grande subit des dégâts trancha
 |16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
 
 - **Immunité contre les dégâts** d'acide, de foudre, de froid, tranchants
-- **Immunité contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 4 (1 100 PX)
@@ -8734,7 +8734,7 @@ Division. Quand un pouding de taille M ou plus grand subit des dégâts tranchan
 
 - **Compétences** Discrétion +2
 - **Résistances aux dégâts** d'acide, de feu et de froid
-- **Immunités contre les états** à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+- **Immunités contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et épuisé
 - **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -8788,11 +8788,11 @@ Touché : 19 (3d6+9) dégâts perforants et la cible doit effectuer un jet de sa
 
 Morsure. Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une cible.
 
-Touché : 22 (3d8+9) dégâts perforants. Si la cible est une créature de taille G ou plus petite, elle doit réussir un jet de Dextérité DD 19 pour ne pas être avalée par le ver. Une créature avalée est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du ver et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du ver.
+Touché : 22 (3d8+9) dégâts perforants. Si la cible est une créature de taille G ou plus petite, elle doit réussir un jet de Dextérité DD 19 pour ne pas être avalée par le ver. Une créature avalée est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du ver et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du ver.
 
-S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature à l'intérieur de lui, le ver doit réussir un jet de sauvegarde de Constitution DD 21 à la fin du tour pour ne pas régurgiter la totalité des créatures avalées qui tombent à terre dans un emplacement situé à 3 mètres ou moins du ver.
+S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature à l'intérieur de lui, le ver doit réussir un jet de sauvegarde de Constitution DD 21 à la fin du tour pour ne pas régurgiter la totalité des créatures avalées qui tombent [à terre] dans un emplacement situé à 3 mètres ou moins du ver.
 
-Si le ver meurt, les créatures avalées ne sont plus entravées par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement. Elles en sortent à terre.
+Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement. Elles en sortent [à terre].
 
 
 # Vouivre
@@ -8878,7 +8878,7 @@ Touché : 13 (3d6+3) dégâts perforants.
 
 - **Jets de sauvegarde** Sag +0
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 8
 - **Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler
 - **Dangerosité** 1/4 (50 PX)
@@ -8906,7 +8906,7 @@ Touché : 4 (1d6+1) dégâts contondants.
 
 - **Jets de sauvegarde** Sag +0
 - **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** empoisonné
+- **Immunité contre l'état** [empoisonné]
 - **Sens** vision dans le noir 18 m, Perception passive 8
 - **Langues** comprend le commun et le géant mais ne peut pas parler
 - **Dangerosité** 2 (450 PX)
@@ -9041,7 +9041,7 @@ Saut éthéré. Par une action bonus, l'araignée peut passer dans le plan Éth�
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 18 (4d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+Touché : 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 18 (4d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
 # Araignée géante
@@ -9072,11 +9072,11 @@ Perception sur les toiles. Tant qu'elle est en contact avec une toile d'araigné
 
 Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 9 (2d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+Touché : 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 9 (2d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 Toile d'araignée (Recharge 5-6). Attaque d'arme à distance : +5 pour toucher, portée 9/18 m, une créature.
 
-Touché : la cible est entravée par la toile. Par une action, la cible entravée peut effectuer un test de Force DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
+Touché : la cible est [entravée] par la toile. Par une action, la cible [entravée] peut effectuer un test de Force DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
 
 
 # Araignée-loup géante
@@ -9107,7 +9107,7 @@ Perception sur les toiles. Tant qu'elle est en contact avec une toile d'araigné
 
 Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 4 (1d6+1) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+Touché : 4 (1d6+1) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
 # Arbre éveillé
@@ -9183,7 +9183,7 @@ Touché : 1 (1d4-1) dégâts tranchants.
 
 ## Capacités
 
-Tactique de groupe. Le babouin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du babouin, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le babouin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du babouin, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -9346,7 +9346,7 @@ Touché : 4 (1d6+1) dégâts perforants.
 
 Odorat et ouïe aiguisés. Le chacal obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Tactique de groupe. Le chacal obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du chacal, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le chacal obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du chacal, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -9421,7 +9421,7 @@ Touché : 1 dégât tranchant.
 
 ## Capacités
 
-Écholocalisation. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est assourdie.
+Écholocalisation. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [assourdie].
 
 Ouïe aiguisée. La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
@@ -9449,7 +9449,7 @@ Touché : 1 dégât perforant.
 
 ## Capacités
 
-Écholocalisation. La chauve-souris ne peut plus utiliser sa vision aveugle si elle est assourdie.
+Écholocalisation. La chauve-souris ne peut plus utiliser sa vision aveugle si elle est [assourdie].
 
 Ouïe aiguisée. La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
@@ -9477,7 +9477,7 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être à terre. Si la cible est à terre, le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être [à terre]. Si la cible est [à terre], le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
 ## Actions
 
@@ -9500,14 +9500,14 @@ Touché : 11 (2d6+4) dégâts contondants.
 - **Compétences** Perception +6
 - **Résistance aux dégâts** nécrotiques
 - **Immunité aux dégâts** poison
-- **Immunité contre les états** empoisonné, charmé, terrorisé et épuisé
+- **Immunité contre les états** [empoisonné], [charmé], [terrorisé] et épuisé
 - **Sens** vision dans le noir 36 m, Perception passive 17
 - **Langues** comprend le commun et le céleste mais ne peut pas parler
 - **Dangerosité** 2 (450 PX)
 
 ## Capacités
 
-Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être à terre. Si la cible est à terre, le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être [à terre]. Si la cible est [à terre], le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
 Monture magique. Le cheval de guerre céleste étend sa résistance aux dégâts nécrotique à toute créature qui le monte. De plus il peut utiliser, sur lui-même uniquement, le sort marche sur l'eau. Il doit terminer un repos court avant de pouvoir à nouveau utiliser cette capacité. Le cheval céleste n'accepte de servir de monture que pour des créatures d'alignement Loyal Bon, Neutre Bon ou Loyal Neutre.
 
@@ -9538,7 +9538,7 @@ Touché : 11 (2d6+4) dégâts contondants.
 
 ## Capacités
 
-Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être à terre. Si la cible est à terre, le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
+Charge écrasante. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être [à terre]. Si la cible est [à terre], le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
 Monture d'élite. Le cheval de guerre lourd est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
 
@@ -9610,9 +9610,9 @@ Touché : 9 (2d4+4) dégâts contondants.
 
 ## Capacités
 
-Charge. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée à terre.
+Charge. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée [à terre].
 
-Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter à terre.
+Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
 
 ## Actions
 
@@ -9638,9 +9638,9 @@ Touché : 3 (1d4+1) dégâts contondants.
 
 ## Capacités
 
-Charge. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 5 (2d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+Charge. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 5 (2d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
-Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter à terre.
+Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
 
 ## Actions
 
@@ -9688,7 +9688,7 @@ Touché : 2 (1d4) dégâts perforants.
 
 ## Capacités
 
-Bicéphale. Le chien obtient un avantage lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux assourdi, aveuglé, charmé, terrorisé, étourdi et inconscient.
+Bicéphale. Le chien obtient un avantage lors des tests de Sagesse (Perception) et des jets de sauvegarde contre les états spéciaux [assourdi], [aveuglé], [charmé], [terrorisé], [étourdi] et [inconscient].
 
 ## Actions
 
@@ -9696,7 +9696,7 @@ Attaques multiples. Le chien effectue deux attaques de morsure.
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 contre la maladie pour ne pas être empoisonnée jusqu'au moment où cette maladie est soignée. Toutes les 24 heures par la suite, la créature doit retenter le jet de sauvegarde et réduire de 5 (1d10) son total maximum de points de vie en cas d'échec. Cette réduction persiste jusqu'à guérison de la maladie. La créature meurt si la maladie réduit à 0 son total maximum de points de vie.
+Touché : 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 contre la maladie pour ne pas être [empoisonnée] jusqu'au moment où cette maladie est soignée. Toutes les 24 heures par la suite, la créature doit retenter le jet de sauvegarde et réduire de 5 (1d10) son total maximum de points de vie en cas d'échec. Cette réduction persiste jusqu'à guérison de la maladie. La créature meurt si la maladie réduit à 0 son total maximum de points de vie.
 
 
 # Chien esquiveur
@@ -9864,7 +9864,7 @@ Amphibie. Le crabe peut respirer à l'air libre et sous l'eau.
 
 Pince. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 4 (1d6+1) dégât contondant et la cible est empoignée (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
+Touché : 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
 # Crapaud géant
@@ -9890,13 +9890,13 @@ Saut sans élan. Le crapaud saute une longueur maximale de 6 mètres et une haut
 
 ## Actions
 
-Engloutir. Le crapaud effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du crapaud et elle subit 10 (3d6) dégâts d'acide au début de chacun des tours du crapaud.
+Engloutir. Le crapaud effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du crapaud et elle subit 10 (3d6) dégâts d'acide au début de chacun des tours du crapaud.
 
-Si le crapaud meurt, une créature engloutie n'est plus entravée à cause de lui et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort à terre.
+Si le crapaud meurt, une créature engloutie n'est plus [entravée] à cause de lui et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort [à terre].
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et la cible est empoignée (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est entravée et le crapaud ne peut pas mordre une autre cible.
+Touché : 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et la cible est [empoignée] (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crapaud ne peut pas mordre une autre cible.
 
 
 # Crocodile
@@ -9923,7 +9923,7 @@ Retenir son souffle. Le crocodile peut retenir son souffle pendant 15 minutes.
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 7 (1d10+2) dégâts perforants et la cible est empoignée (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est entravée et le crocodile ne peut pas mordre une autre cible.
+Touché : 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crocodile ne peut pas mordre une autre cible.
 
 
 # Crocodile géant
@@ -9952,9 +9952,9 @@ Attaques multiples. Le crocodile effectue deux attaques : une avec sa morsure et
 
 Morsure. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 21 (3d10+5) dégâts perforants et la cible est empoignée (évasion DD 16). Jusqu'à la fin de cette empoignade, la cible est entravée et le crocodile ne peut pas mordre une autre cible.
+Touché : 21 (3d10+5) dégâts perforants et la cible est [empoignée] (évasion DD 16). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crocodile ne peut pas mordre une autre cible.
 
-Queue. Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible non empoignée par le crocodile.
+Queue. Attaque d'arme au corps à corps : +8 pour toucher, allonge 3 m, une cible non [empoignée] par le crocodile.
 
 Touché : 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être jetée au sol.
 
@@ -9976,7 +9976,7 @@ Touché : 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle d
 
 ## Capacités
 
-Charge. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+Charge. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
 ## Actions
 
@@ -9984,7 +9984,7 @@ Coup de bélier. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,5
 
 Touché : 6 (1d6+3) dégâts contondants.
 
-Sabots. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible à terre.
+Sabots. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible [à terre].
 
 Touché : 8 (2d4+3) dégâts contondants.
 
@@ -10007,7 +10007,7 @@ Touché : 8 (2d4+3) dégâts contondants.
 
 ## Capacités
 
-Charge. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre.
+Charge. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre].
 
 ## Actions
 
@@ -10015,7 +10015,7 @@ Coup de bélier. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m
 
 Touché : 11 (2d6+4) dégâts contondants.
 
-Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible à terre.
+Sabots. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible [à terre].
 
 Touché : 22 (4d8+4) dégâts contondants.
 
@@ -10037,7 +10037,7 @@ Touché : 22 (4d8+4) dégâts contondants.
 
 ## Capacités
 
-Charge écrasante. Si l'éléphant se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée à terre. Si la cible est à terre, l'éléphant peut effectuer contre elle une attaque de piétinement par une action bonus.
+Charge écrasante. Si l'éléphant se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée [à terre]. Si la cible est [à terre], l'éléphant peut effectuer contre elle une attaque de piétinement par une action bonus.
 
 ## Actions
 
@@ -10045,7 +10045,7 @@ Coup de défense. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,
 
 Touché : 19 (3d8+6) dégâts perforants.
 
-Piétinement. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature à terre.
+Piétinement. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature [à terre].
 
 Touché : 22 (3d10+6) dégâts contondants.
 
@@ -10068,7 +10068,7 @@ Touché : 22 (3d10+6) dégâts contondants.
 
 ## Capacités
 
-Écholocalisation. L'épaulard ne peut plus utiliser sa vision aveugle s'il est assourdi.
+Écholocalisation. L'épaulard ne peut plus utiliser sa vision aveugle s'il est [assourdi].
 
 Ouïe aiguisée. L'épaulard obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
@@ -10126,7 +10126,7 @@ Touché : 1 dégât tranchant.
 
 ## Capacités
 
-Tactique de groupe. Le faucon obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du faucon, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le faucon obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du faucon, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 Vue aiguisée. Le faucon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue.
 
@@ -10213,13 +10213,13 @@ Saut sans élan. La grenouille saute une longueur maximale de 6 mètres et une h
 
 ## Actions
 
-Engloutir. La grenouille effectue une attaque de morsure contre une cible de taille P ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la grenouille et elle subit 5 (2d4) dégâts d'acide au début de chacun des tours de la grenouille.
+Engloutir. La grenouille effectue une attaque de morsure contre une cible de taille P ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la grenouille et elle subit 5 (2d4) dégâts d'acide au début de chacun des tours de la grenouille.
 
-Si la grenouille meurt, une créature engloutie n'est plus entravée à cause d'elle et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort à terre.
+Si la grenouille meurt, une créature engloutie n'est plus [entravée] à cause d'elle et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort [à terre].
 
 Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 4 (1d6+1) dégâts perforants et la cible est empoignée (évasion DD 11). Jusqu'à la fin de cette empoignade, la cible est entravée et la grenouille ne peut pas mordre une autre cible.
+Touché : 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion DD 11). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la grenouille ne peut pas mordre une autre cible.
 
 
 # Guêpe géante
@@ -10241,7 +10241,7 @@ Touché : 4 (1d6+1) dégâts perforants et la cible est empoignée (évasion DD 
 
 Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+Touché : 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
 # Hibou
@@ -10339,7 +10339,7 @@ Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
 
 ## Capacités
 
-Charge. Si l'hippocampe se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
+Charge. Si l'hippocampe se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
 Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
 
@@ -10368,7 +10368,7 @@ Touché : 4 (1d6+1) dégâts contondants.
 
 ## Capacités
 
-Tactique de groupe. La hyène obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés de la hyène, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'elle attaque.
+Tactique de groupe. La hyène obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés de la hyène, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'elle attaque.
 
 ## Actions
 
@@ -10466,11 +10466,11 @@ Touché : 6 (1d8+2) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le lion peut effectuer une attaque de morsure contre elle par une action bonus.
+Bond agressif. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le lion peut effectuer une attaque de morsure contre elle par une action bonus.
 
 Odorat aiguisé. Le lion obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat. Saut avec élan. Le lion peut sauter une longueur maximale de 7,50 mètres s'il prend un élan de 3 mètres.
 
-Tactique de groupe. Le lion obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du lion qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le lion obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du lion qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -10503,13 +10503,13 @@ Touché : 7 (1d8+3) dégâts perforants.
 
 Odorat et ouïe aiguisés. Le loup obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
+Touché : 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
 
 # Loup arctique
@@ -10535,13 +10535,13 @@ Odorat et ouïe aiguisés. Le loup obtient un avantage lors des tests de Sagesse
 
 Camouflage dans la neige. Le loup obtient un avantage lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements enneigés.
 
-Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
 Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre.
+Touché : 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre].
 
 Souffle glacial (Recharge 5-6). Le loup souffle une bourrasque d'air glacé sur un cône de 4,50 mètres.
 
@@ -10568,13 +10568,13 @@ Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de De
 
 Odorat et ouïe aiguisés. Le loup obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
 Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
 
 # Mammouth
@@ -10594,7 +10594,7 @@ Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle do
 
 ## Capacités
 
-Charge écrasante. Si le mammouth se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 18 pour ne pas être jetée à terre. Si la cible est à terre, le mammouth peut effectuer contre elle une attaque de piétinement par une action bonus.
+Charge écrasante. Si le mammouth se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 18 pour ne pas être jetée [à terre]. Si la cible est [à terre], le mammouth peut effectuer contre elle une attaque de piétinement par une action bonus.
 
 ## Actions
 
@@ -10602,7 +10602,7 @@ Coup de défense. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3
 
 Touché : 25 (4d8+7) dégâts perforants.
 
-Piétinement. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature à terre.
+Piétinement. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature [à terre].
 
 Touché : 29 (4d10+7) dégâts contondants.
 
@@ -10630,7 +10630,7 @@ Odorat et ouïe aiguisés. Le mastiff obtient un avantage lors des tests de Sage
 
 Morsure. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
+Touché : 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
 
 # Mille-pattes géant
@@ -10652,7 +10652,7 @@ Touché : 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doi
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
 # Mule
@@ -10674,7 +10674,7 @@ Touché : 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauv
 
 Bête de somme. On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.
 
-Pied sûr. La mule obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter à terre.
+Pied sûr. La mule obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
 
 ## Actions
 
@@ -10684,6 +10684,7 @@ Touché : 4 (1d4+2) dégâts contondants.
 
 
 # Nuée de chauve-souris
+- NameVO: [Swarm of Bats](monsters_vo.md#swarm-of-bats)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
@@ -10694,14 +10695,14 @@ Touché : 4 (1d4+2) dégâts contondants.
 | 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
 
 - **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision aveugle 18 m, Perception passive 11
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
 
 ## Capacités
 
-Écholocalisation. La nuée ne peut pas utiliser sa vision aveugle si elle est assourdie.
+Écholocalisation. La nuée ne peut pas utiliser sa vision aveugle si elle est [assourdie].
 
 Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour une chauve-souris de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
 
@@ -10727,7 +10728,7 @@ Touché : 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée
 
 - **Compétences** Perception +5
 - **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
 - **Sens** Perception passive 15
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
@@ -10755,7 +10756,7 @@ Touché : 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée
 |13 (+1)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
 - **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision aveugle 18 m, Perception passive 8
 - **Langues** —
 - **Dangerosité** 1 (200 PX)
@@ -10787,7 +10788,7 @@ Touché : 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nué
 | 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
 
 - **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision dans le noir 9 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
@@ -10817,7 +10818,7 @@ Touché : 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée
 | 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
 - **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision aveugle 3 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 2 (450 PX)
@@ -10845,7 +10846,7 @@ Touché : 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée
 | 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
 
 - **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** à terre, charmé, terrorisé, empoigné, étourdi, entravé, paralysé et pétrifié
+- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
 - **Sens** vision aveugle 3 m, Perception passive 8
 - **Langues** —
 - **Dangerosité** 1/2 (100 PX)
@@ -10866,7 +10867,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 
 Nuée de scarabées. Une nuée de scarabées dispose d'une vitesse de fouissement de 1,50 mètre.
 
-Nuée de mille-pattes. Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais empoisonnée pendant une heure, même après avoir récupéré des points de vie. Elle est paralysée tant qu'elle est ainsi empoisonnée.
+Nuée de mille-pattes. Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais [empoisonnée] pendant une heure, même après avoir récupéré des points de vie. Elle est [paralysée] tant qu'elle est ainsi [empoisonnée].
 
 Nuée d'araignée. Une nuée d'araignée possède les traits supplémentaires suivants.
 
@@ -10994,7 +10995,7 @@ Touché : 9 (1d8+5) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée à terre. Si la cible est à terre, la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+Bond agressif. Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée [à terre]. Si la cible est [à terre], la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
 
 Odorat aiguisé. La panthère obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -11039,7 +11040,7 @@ Nuage d'encre (Recharge après un repos court ou long). Lorsqu'elle est sous l'e
 
 Tentacules. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 1 dégât contondant et la cible est empoignée (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est entravée et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
+Touché : 1 dégât contondant et la cible est [empoignée] (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
 
 
 # Pieuvre géante
@@ -11072,9 +11073,9 @@ Nuage d'encre (Recharge après un repos court ou long). Lorsqu'elle est sous l'e
 
 Tentacules. Attaque d'arme au corps à corps : +5 pour toucher, allonge 4,50 m, une cible.
 
-Touché : 10 (2d6+3) dégâts contondants et, si la cible est une créature, elle est empoignée (évasion DD 16).
+Touché : 10 (2d6+3) dégâts contondants et, si la cible est une créature, elle est [empoignée] (évasion DD 16).
 
-Jusqu'au terme de cette empoignade, la cible est entravée et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
+Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
 
 
 # Piranha
@@ -11198,7 +11199,7 @@ Touché : 1 dégât perforant.
 
 Odorat aiguisé. Le rat obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
-Tactique de groupe. Le rat obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du rat, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le rat obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du rat, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -11263,7 +11264,7 @@ Touché : 13 (2d8+4) dégâts perforants.
 
 Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
 
-Tactique de groupe. Le requin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du requin, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le requin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du requin, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -11320,7 +11321,7 @@ Touché : 22 (3d10+6) dégâts perforants.
 
 Charge. Si le rhinocéros se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, sa victime subit 9 (2d8) dégâts contondants supplémentaires.
 
-Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée à terre.
+Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée [à terre].
 
 ## Actions
 
@@ -11346,7 +11347,7 @@ Touché : 14 (2d8+5) dégâts contondants.
 
 ## Capacités
 
-Charge. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 3 (1d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre.
+Charge. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 3 (1d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
 Implacable (Recharge après un repos court ou long). Si le sanglier subit 7 dégâts ou moins et que cette blessure devrait réduire son total actuel de points de vie à 0, celui-ci est réduit à 1 à la place.
 
@@ -11374,7 +11375,7 @@ Touché : 4 (1d6+1) dégâts tranchants.
 
 ## Capacités
 
-Charge. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+Charge. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
 Implacable (Recharge après un repos court ou long). Si le sanglier subit 10 dégâts ou moins et que cette blessure devrait réduire son total actuel de points de vie à 0, celui-ci est réduit à 1 à la place.
 
@@ -11432,7 +11433,7 @@ Touché : 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sa
 
 Pince. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 6 (1d8+2) dégâts contondants et la cible est empoignée (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
+Touché : 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
 # Serpent constricteur
@@ -11454,7 +11455,7 @@ Touché : 6 (1d8+2) dégâts contondants et la cible est empoignée (évasion DD
 
 Comprimer. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 6 (1d8+2) dégâts contondants et la cible est empoignée (évasion DD 14). Jusqu'au terme de cette empoignade, la créature est entravée et le serpent ne peut pas comprimer une autre cible.
+Touché : 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 14). Jusqu'au terme de cette empoignade, la créature est [entravée] et le serpent ne peut pas comprimer une autre cible.
 
 Morsure. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
@@ -11481,7 +11482,7 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 Comprimer. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 13 (2d8+4) dégâts contondants et la cible est empoignée (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est entravée et le serpent ne peut pas comprimer une autre cible.
+Touché : 13 (2d8+4) dégâts contondants et la cible est [empoignée] (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est [entravée] et le serpent ne peut pas comprimer une autre cible.
 
 Morsure. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature.
 
@@ -11591,7 +11592,7 @@ Touché : 30 (7d6+6) dégâts contondants.
 
 
 # Tigre
-- NameVO: [Tigre](monsters_vo.md#tigre)
+- NameVO: [Tiger](monsters_vo.md#tiger)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
@@ -11608,7 +11609,7 @@ Touché : 30 (7d6+6) dégâts contondants.
 
 ## Capacités
 
-Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le tigre peut effectuer une attaque de morsure contre elle par une action bonus.
+Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le tigre peut effectuer une attaque de morsure contre elle par une action bonus.
 
 Odorat aiguisé. Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -11641,7 +11642,7 @@ Touché : 8 (1d10+3) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée à terre. Si la cible est à terre, la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre]. Si la cible est [à terre], la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
 
 Odorat aiguisé. Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -11676,7 +11677,7 @@ Touché : 10 (1d10+5) dégâts perforants.
 
 Odorat et vue aiguisés. Le vautour obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 
-Tactique de groupe. Le vautour obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du vautour, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le vautour obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du vautour, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -11705,7 +11706,7 @@ Touché : 2 (1d4) dégâts perforants.
 
 Odorat et vue aiguisés. Le vautour obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 
-Tactique de groupe. Le vautour obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du vautour, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le vautour obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du vautour, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -11744,7 +11745,7 @@ Odorat et ouïe aiguisés. Le worg obtient un avantage lors des tests de Sagesse
 
 Morsure. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre.
+Touché : 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
 
 # Acolyte
@@ -11855,7 +11856,7 @@ Touché : 4 (1d4+2) dégâts perforants.
 
 Assassinat. Pendant son premier tour, l'assassin obtient un avantage lors des jets d'attaque effectués contre une créature qui n'a pas encore joué son tour. Toutes les attaques réussies par l'assassin contre une créature surprise sont des coups critiques.
 
-Attaque sournoise. Une fois par tour, l'assassin inflige 14 (4d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas neutralisé, et que l'assassin ne subit pas de désavantage lors du jet d'attaque.
+Attaque sournoise. Une fois par tour, l'assassin inflige 14 (4d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas [neutralisé], et que l'assassin ne subit pas de désavantage lors du jet d'attaque.
 
 Dérobade. Si l'assassin est victime d'un effet qui l'autorise à effectuer un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, l'assassin ne subit, lui, aucun dégât en cas de jet de sauvegarde réussi et la moitié seulement en cas d'échec.
 
@@ -11974,7 +11975,7 @@ Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui 
 
 ## Capacités
 
-Brave. Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé.
+Brave. Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [terrorisé].
 
 ## Actions
 
@@ -11988,7 +11989,7 @@ Attaques multiples. Le chevalier effectue deux attaques au corps à corps.
 
 Touché : 10 (2d6+3) dégâts tranchants.
 
-Meneur d'hommes (Recharge après un repos court ou long). Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est neutralisé.
+Meneur d'hommes (Recharge après un repos court ou long). Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est [neutralisé].
 
 ## Réactions
 
@@ -12119,7 +12120,7 @@ Touché : 5 (1d6+2) dégâts perforants.
 
 Action fourbe. À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi Se précipiter, Se désengager ou Se cacher.
 
-Attaque sournoise (1/tour). L'espion inflige 7 (2d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas neutralisé et que l'espion ne subit pas de désavantage lors du jet d'attaque.
+Attaque sournoise (1/tour). L'espion inflige 7 (2d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas [neutralisé] et que l'espion ne subit pas de désavantage lors du jet d'attaque.
 
 ## Actions
 
@@ -12159,7 +12160,7 @@ Tours de magie (à volonté) : flamme sacrée, lumière, thaumaturgie
 
 2e niveau (3 emplacements) : arme spirituelle, immobilisation de personne
 
-Sombre dévotion. Le fanatique obtient un avantage lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
+Sombre dévotion. Le fanatique obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [charmé] ou [terrorisé].
 
 ## Actions
 
@@ -12212,7 +12213,7 @@ Touché : 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle
 
 ## Capacités
 
-Brave. Le gladiateur obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé.
+Brave. Le gladiateur obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [terrorisé].
 
 Brutal. Une arme de corps à corps inflige un dé supplémentaire de ses dégâts quand le gladiateur réussit une attaque en la maniant (inclus dans l'attaque).
 
@@ -12222,7 +12223,7 @@ Attaques multiples. Le gladiateur effectue trois attaques au corps à corps ou d
 
 Coup de bouclier. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature.
 
-Touché : 9 (2d4+4) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée à terre.
+Touché : 9 (2d4+4) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée [à terre].
 
 Lance. Attaque d'arme au corps à corps ou à distance : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.
 
@@ -12252,7 +12253,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 
 ## Capacités
 
-Tactique de groupe. Le guerrier obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du guerrier, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le guerrier obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du guerrier, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -12319,7 +12320,7 @@ Touché : 4 (1d4+2) dégâts perforants.
 
 ## Capacités
 
-Tactique de groupe. Le malfrat obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du malfrat, qui n'est pas neutralisé, se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
+Tactique de groupe. Le malfrat obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du malfrat, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
 ## Actions
 
@@ -12353,7 +12354,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 
 ## Capacités
 
-Sombre dévotion. Le membre de secte obtient un avantage lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
+Sombre dévotion. Le membre de secte obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [charmé] ou [terrorisé].
 
 ## Actions
 
@@ -12443,3 +12444,61 @@ Touché : 6 (1d6+3) dégâts perforants.
 
 Touché : 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si elle est maniée à deux mains.
 
+
+
+
+[à terre]: conditions_hd.md#À-terre
+[assourdi]: conditions_hd.md#assourdi
+[assourdie]: conditions_hd.md#assourdi
+[assourdis]: conditions_hd.md#assourdi
+[assourdies]: conditions_hd.md#assourdi
+[aveuglé]: conditions_hd.md#aveuglé
+[aveuglée]: conditions_hd.md#aveuglé
+[aveuglés]: conditions_hd.md#aveuglé
+[aveuglées]: conditions_hd.md#aveuglé
+[charmé]: conditions_hd.md#charmé
+[charmée]: conditions_hd.md#charmé
+[charmés]: conditions_hd.md#charmé
+[charmées]: conditions_hd.md#charmé
+[empoigné]: conditions_hd.md#empoigné
+[empoignée]: conditions_hd.md#empoigné
+[empoignés]: conditions_hd.md#empoigné
+[empoignées]: conditions_hd.md#empoigné
+[empoisonné]: conditions_hd.md#empoisonné
+[empoisonnée]: conditions_hd.md#empoisonné
+[empoisonnés]: conditions_hd.md#empoisonné
+[empoisonnées]: conditions_hd.md#empoisonné
+[entravé]: conditions_hd.md#entravé
+[entravée]: conditions_hd.md#entravé
+[entravés]: conditions_hd.md#entravé
+[entravées]: conditions_hd.md#entravé
+[étourdi]: conditions_hd.md#Étourdi
+[étourdie]: conditions_hd.md#Étourdi
+[étourdis]: conditions_hd.md#Étourdi
+[étourdies]: conditions_hd.md#Étourdi
+[inconscient]: conditions_hd.md#inconscient
+[inconsciente]: conditions_hd.md#inconscient
+[inconscients]: conditions_hd.md#inconscient
+[inconscientes]: conditions_hd.md#inconscient
+[invisible]: conditions_hd.md#invisible
+[invisibles]: conditions_hd.md#invisible
+[neutralisé]: conditions_hd.md#neutralisé
+[neutralisée]: conditions_hd.md#neutralisé
+[neutralisés]: conditions_hd.md#neutralisé
+[neutralisées]: conditions_hd.md#neutralisé
+[paralysé]: conditions_hd.md#paralysé
+[paralysée]: conditions_hd.md#paralysé
+[paralysés]: conditions_hd.md#paralysé
+[paralysées]: conditions_hd.md#paralysé
+[pétrifié]: conditions_hd.md#pétrifié
+[pétrifiée]: conditions_hd.md#pétrifié
+[pétrifiés]: conditions_hd.md#pétrifié
+[pétrifiées]: conditions_hd.md#pétrifié
+[terrorisé]: conditions_hd.md#terrorisé
+[terrorisée]: conditions_hd.md#terrorisé
+[terrorisés]: conditions_hd.md#terrorisé
+[terrorisées]: conditions_hd.md#terrorisé
+[épuisé]: conditions_hd.md#fatigue-et-épuisement
+[épuisée]: conditions_hd.md#fatigue-et-épuisement
+[épuisés]: conditions_hd.md#fatigue-et-épuisement
+[épuisées]: conditions_hd.md#fatigue-et-épuisement
