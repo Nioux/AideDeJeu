@@ -98,7 +98,7 @@
                         {
                             if (blockLinks.Count > 1)
                             {
-                                var result = await Application.Current.MainPage.DisplayActionSheet("Open link", "Cancel", null, blockLinks.Select(x => x.Key).ToArray());
+                                var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
                                 var link = blockLinks.FirstOrDefault(x => x.Key == result);
                                 NavigateToLink(link.Value);
                             }
