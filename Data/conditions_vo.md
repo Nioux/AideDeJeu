@@ -111,7 +111,7 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Prone
 
-- NameVO: [À terre](conditions_hd.md#à-terre)
+- NameVO: [À terre](conditions_hd.md#À-terre)
 
 * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 
@@ -133,7 +133,7 @@ The following definitions specify what happens to a creature while it is subject
 
 ## Stunned
 
-- NameVO: [Étourdi](conditions_hd.md#étourdi)
+- NameVO: [Étourdi](conditions_hd.md#Étourdi)
 
 * A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
 
