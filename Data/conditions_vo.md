@@ -2,9 +2,9 @@
 
 - NameVO: [États spéciaux](conditions_hd.md#États-spéciaux)
 
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monsters attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monsters attack, or other effect. Most conditions, such as [blinded](conditions_vo.md#blinded), are impairments, but a few, such as invisible, can be advantageous.
 
-A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+A condition lasts either until it is countered (the [prone](conditions_vo.md#prone) condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
 
 If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
 
@@ -51,7 +51,7 @@ The following definitions specify what happens to a creature while it is subject
 
 * A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 
-* The condition ends if the grappler is incapacitated (see the condition).
+* The condition ends if the grappler is [incapacitated](conditions_vo.md#incapacitated) (see the condition).
 
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunder-wave](spells_vo.md#thunderwave) spell.
 
@@ -76,7 +76,7 @@ The following definitions specify what happens to a creature while it is subject
 
 - NameVO: [Paralysé](conditions_hd.md#paralysé)
 
-* A paralyzed creature is incapacitated (see the condition) and can't move or speak.
+* A paralyzed creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition) and can't move or speak.
 
 * The creature automatically fails Strength and Dexterity saving throws.
 
@@ -91,7 +91,7 @@ The following definitions specify what happens to a creature while it is subject
 
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 
-* The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
+* The creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move or speak, and is unaware of its surroundings.
 
 * Attack rolls against the creature have advantage.
 
@@ -135,7 +135,7 @@ The following definitions specify what happens to a creature while it is subject
 
 - NameVO: [Étourdi](conditions_hd.md#Étourdi)
 
-* A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
+* A stunned creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move, and can speak only falteringly.
 
 * The creature automatically fails Strength and Dexterity saving throws.
 
@@ -146,9 +146,9 @@ The following definitions specify what happens to a creature while it is subject
 
 - NameVO: [Inconscient](conditions_hd.md#inconscient)
 
-* An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
+* An unconscious creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move or speak, and is unaware of its surroundings
 
-* The creature drops whatever it's holding and falls prone.
+* The creature drops whatever it's holding and falls [prone](conditions_vo.md#prone).
 
 * The creature automatically fails Strength and Dexterity saving throws.
 

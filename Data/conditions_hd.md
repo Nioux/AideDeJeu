@@ -2,9 +2,9 @@
 
 - NameVO: [Conditions](conditions_vo.md#conditions)
 
-Les états modifient les capacités d'une créature de diverses manières et résultent d'un sort, d'une aptitude de classe, d'une attaque de monstre ou d'un autre effet. La plupart des états ont un effet négatif, comme lorsque vous êtes aveuglé, mais quelques-uns confèrent un bénéfice, comme d'être invisible.
+Les états modifient les capacités d'une créature de diverses manières et résultent d'un sort, d'une aptitude de classe, d'une attaque de monstre ou d'un autre effet. La plupart des états ont un effet négatif, comme lorsque vous êtes [aveuglé](conditions_hd.md#aveuglé), mais quelques-uns confèrent un bénéfice, comme d'être [invisible](conditions_hd.md#invisible).
 
-L'état persiste jusqu'à ce qu'il soit contré (par exemple, l'état à terre est contré par le simple fait de se relever) ou pendant une durée précisée dans la description de l'effet imposant l'état. 
+L'état persiste jusqu'à ce qu'il soit contré (par exemple, l'état [à terre](conditions_hd.md#À-terre) est contré par le simple fait de se relever) ou pendant une durée précisée dans la description de l'effet imposant l'état. 
 
 Si divers effets imposent un même état à une créature, chaque effet a sa propre durée mais l'intensité de ceux-ci ne se cumule pas : une créature est soumise à un état ou ne l'est pas.
 
@@ -53,9 +53,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * La vitesse d'une créature empoignée devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 
-* Cet état se termine si l'empoigneur est neutralisé (voir cet état).
+* Cet état se termine si l'empoigneur est [neutralisé](conditions_hd.md#neutralisé) (voir cet état).
 
-* L'état se termine également si un effet emporte la créature empoignée au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort vague tonnante.
+* L'état se termine également si un effet emporte la créature empoignée au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort [vague tonnante](spells_hd.md#vague-tonnante).
 
 
 ## Empoisonné
@@ -80,7 +80,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 - NameVO: [Stunned](conditions_vo.md#stunned)
 
-* Une créature étourdie est neutralisée (voir l'état), incapable de se déplacer et parle en balbutiant.
+* Une créature étourdie est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et parle en balbutiant.
 
 * La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
 
@@ -91,11 +91,11 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 - NameVO: [Unconscious](conditions_vo.md#unconscious)
 
-* Une créature inconsciente est neutralisée (voir l'état), incapable de se déplacer et de parler et n'a pas conscience de ce qui l'entoure.
+* Une créature inconsciente est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et de parler et n'a pas conscience de ce qui l'entoure.
 
 * La créature lâche tout ce qu'elle tenait et tombe au sol.
 
-* Si la créature reprend conscience, elle est à terre.
+* Si la créature reprend conscience, elle est [à terre](conditions_hd.md#À-terre).
 
 * La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
 
@@ -124,7 +124,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 - NameVO: [Paralyzed](conditions_vo.md#paralyzed)
 
-* Une créature paralysée est neutralisée (voir l'état) et ne peut ni parler ni se déplacer.
+* Une créature paralysée est [neutralisée](conditions_hd.md#neutralisé) (voir l'état) et ne peut ni parler ni se déplacer.
 
 * La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
 
@@ -139,7 +139,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Une créature pétrifiée est transformée en substance solide inanimée (généralement en pierre), de même que tous les objets non-magiques qu'elle transporte. Le poids de la créature est multiplié par dix et elle ne vieillit plus.
 
-* La créature est neutralisée (voir l'état), ne peut plus ni parler ni se déplacer et n'a pas conscience de ce qui se passe autour d'elle.
+* La créature est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), ne peut plus ni parler ni se déplacer et n'a pas conscience de ce qui se passe autour d'elle.
 
 * Les attaques qui visent la créature bénéficient d'un avantage.
 
