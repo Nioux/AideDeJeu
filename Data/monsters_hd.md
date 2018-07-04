@@ -99,6 +99,7 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le je
 
 
 # Âme-en-peine
+- NameVO: [Wraith](monsters_vo.md#wraith)
 - Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 67 (9d8+27)
@@ -1428,6 +1429,7 @@ Touché : 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 
 
 # Diable des chaînes
+- NameVO: [Chain Devil](monsters_vo.md#chain-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
@@ -1799,6 +1801,7 @@ Touché : 20 (3d8+7) dégâts contondants.
 
 
 # Doppleganger
+- NameVO: [Doppelganger](monsters_vo.md#doppelganger)
 - Créature monstrueuse (métamorphe) de taille M, neutre
 - **Classe d'armure** 14
 - **Points de vie** 52 (8d8+16)
@@ -11900,6 +11903,7 @@ Touché : 4 (1d6+1) dégâts tranchants.
 
 
 # Berserker
+- NameVO: [Berserker](monsters_vo.md#berserker)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 67 (9d8+27)
@@ -11925,6 +11929,7 @@ Touché : 9 (1d12+3) dégâts tranchants.
 
 
 # Capitaine bandit
+- NameVO: [Bandit Captain](monsters_vo.md#bandit-captain)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 65 (10d8+20)

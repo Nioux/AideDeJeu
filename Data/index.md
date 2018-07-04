@@ -6,6 +6,10 @@
 
 ## [Créatures VF](monsters_hd.md)
 
+## [États spéciaux VF](conditions_hd.md)
+
 ## [Spells VO](spells_vo.md)
 
 ## [Monsters VO](monsters_vo.md)
+
+## [Conditions VO](conditions_vo.md)

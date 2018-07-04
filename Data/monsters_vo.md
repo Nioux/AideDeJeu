@@ -2415,7 +2415,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 
 # Adult White Dragon
-- NameVO: [Dragon blanc, adulte]
+- NameVO: [Dragon blanc adulte]
 - Huge dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 200 (16d12 + 96)
@@ -2462,11 +2462,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon blanc, adulte]: monsters_hd.md#dragon-blanc,-adulte
+[Dragon blanc adulte]: monsters_hd.md#dragon-blanc-adulte
 
 
 # Ancient White Dragon
-- NameVO: [Dragon blanc, ancien]
+- NameVO: [Dragon blanc vénérable]
 - Gargantuan dragon, chaotic evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 333 (18d20 + 144)
@@ -2513,11 +2513,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon blanc, ancien]: monsters_hd.md#dragon-blanc,-ancien
+[Dragon blanc vénérable]: monsters_hd.md#dragon-blanc-vénérable
 
 
 # Young White Dragon
-- NameVO: [Dragon blanc, jeune]
+- NameVO: [Jeune dragon blanc]
 - Large dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 133 (14d10 + 56)
@@ -2548,11 +2548,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
-[Dragon blanc, jeune]: monsters_hd.md#dragon-blanc,-jeune
+[Jeune dragon blanc]: monsters_hd.md#jeune-dragon-blanc
 
 
 # White Dragon Wyrmling
-- NameVO: [Dragon blanc, nouveau-né]
+- NameVO: [Dragonnet blanc]
 - Medium dragon, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -2575,11 +2575,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
-[Dragon blanc, nouveau-né]: monsters_hd.md#dragon-blanc,-nouveau-né
+[Dragonnet blanc]: monsters_hd.md#dragonnet-blanc
 
 
 # Adult Blue Dragon
-- NameVO: [Dragon bleu, adulte]
+- NameVO: [Dragon bleu adulte]
 - Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 225 (18d12 + 108)
@@ -2624,11 +2624,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon bleu, adulte]: monsters_hd.md#dragon-bleu,-adulte
+[Dragon bleu adulte]: monsters_hd.md#dragon-bleu-adulte
 
 
 # Ancient Blue Dragon
-- NameVO: [Dragon bleu, ancien]
+- NameVO: [Dragon bleu vénérable]
 - Gargantuan dragon, lawful evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 481 (26d20 + 208)
@@ -2673,11 +2673,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon bleu, ancien]: monsters_hd.md#dragon-bleu,-ancien
+[Dragon bleu vénérable]: monsters_hd.md#dragon-bleu-vénérable
 
 
 # Young Blue Dragon
-- NameVO: [Dragon bleu, jeune]
+- NameVO: [Jeune dragon bleu]
 - Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 152 (16d10 + 64)
@@ -2704,11 +2704,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-[Dragon bleu, jeune]: monsters_hd.md#dragon-bleu,-jeune
+[Jeune dragon bleu]: monsters_hd.md#jeune-dragon-bleu
 
 
 # Blue Dragon Wyrmling
-- NameVO: [Dragon bleu, nouveau-né]
+- NameVO: [Dragonnet bleu]
 - Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -2731,11 +2731,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-[Dragon bleu, nouveau-né]: monsters_hd.md#dragon-bleu,-nouveau-né
+[Dragonnet bleu]: monsters_hd.md#dragonnet-bleu
 
 
 # Adult Brass Dragon
-- NameVO: [Dragon d'airain, adulte]
+- NameVO: [Dragon d'airain adulte]
 - Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 172 (15d12 + 75)
@@ -2784,11 +2784,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon d'airain, adulte]: monsters_hd.md#dragon-dairain,-adulte
+[Dragon d'airain adulte]: monsters_hd.md#dragon-dairain-adulte
 
 
 # Ancient Brass Dragon
-- NameVO: [Dragon d'airain, ancien]
+- NameVO: [Dragon d'airain vénérable]
 - Gargantuan dragon, chaotic good
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 297 (17d20 + 119)
@@ -2839,11 +2839,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon d'airain, ancien]: monsters_hd.md#dragon-dairain,-ancien
+[Dragon d'airain vénérable]: monsters_hd.md#dragon-dairain-vénérable
 
 
 # Young Brass Dragon
-- NameVO: [Dragon d'airain, jeune]
+- NameVO: [Jeune dragon d'airain]
 - Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 110 (13d10 + 39)
@@ -2874,11 +2874,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Sleep Breath_**. The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-[Dragon d'airain, jeune]: monsters_hd.md#dragon-dairain,-jeune
+[Jeune dragon d'airain]: monsters_hd.md#jeune-dragon-dairain
 
 
 # Brass Dragon Wyrmling
-- NameVO: [Dragon d'airain, nouveau-né]
+- NameVO: [Dragonnet d'airain]
 - Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 16 (3d8 + 3)
@@ -2905,11 +2905,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Sleep Breath_**. The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-[Dragon d'airain, nouveau-né]: monsters_hd.md#dragon-dairain,-nouveau-né
+[Dragonnet d'airain]: monsters_hd.md#dragonnet-dairain
 
 
 # Adult Silver Dragon
-- NameVO: [Dragon d'argent, adulte]
+- NameVO: [Dragon d'argent adulte]
 - Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 243 (18d12 + 126)
@@ -2960,11 +2960,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon d'argent, adulte]: monsters_hd.md#dragon-dargent,-adulte
+[Dragon d'argent adulte]: monsters_hd.md#dragon-dargent-adulte
 
 
 # Ancient Silver Dragon
-- NameVO: [Dragon d'argent, ancien]
+- NameVO: [Dragon d'argent vénérable]
 - Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 487 (25d20 + 225)
@@ -3015,11 +3015,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon d'argent, ancien]: monsters_hd.md#dragon-dargent,-ancien
+[Dragon d'argent vénérable]: monsters_hd.md#dragon-dargent-vénérable
 
 
 # Young Silver Dragon
-- NameVO: [Dragon d'argent, jeune]
+- NameVO: [Jeune dragon d'argent]
 - Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 168 (16d10 + 80)
@@ -3050,11 +3050,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Paralyzing Breath_**. The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Dragon d'argent, jeune]: monsters_hd.md#dragon-dargent,-jeune
+[Jeune dragon d'argent]: monsters_hd.md#jeune-dragon-dargent
 
 
 # Silver Dragon Wyrmling
-- NameVO: [Dragon d'argent, nouveau-né]
+- NameVO: [Dragonnet d'argent]
 - Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 45 (6d8 + 18)
@@ -3081,11 +3081,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Paralyzing Breath_**. The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Dragon d'argent, nouveau-né]: monsters_hd.md#dragon-dargent,-nouveau-né
+[Dragonnet d'argent]: monsters_hd.md#dragonnet-dargent
 
 
 # Adult Gold Dragon
-- NameVO: [Dragon d'or, adulte]
+- NameVO: [Dragon d'or adulte]
 - Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)
@@ -3138,11 +3138,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon d'or, adulte]: monsters_hd.md#dragon-dor,-adulte
+[Dragon d'or adulte]: monsters_hd.md#dragon-dor-adulte
 
 
 # Ancient Gold Dragon
-- NameVO: [Dragon d'or, ancien]
+- NameVO: [Dragon d'or vénérable]
 - Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)
@@ -3195,11 +3195,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon d'or, ancien]: monsters_hd.md#dragon-dor,-ancien
+[Dragon d'or vénérable]: monsters_hd.md#dragon-dor-vénérable
 
 
 # Young Gold Dragon
-- NameVO: [Dragon d'or, jeune]
+- NameVO: [Jeune dragon d'or]
 - Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -3234,11 +3234,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Weakening Breath_**. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Dragon d'or, jeune]: monsters_hd.md#dragon-dor,-jeune
+[Jeune dragon d'or]: monsters_hd.md#jeune-dragon-dor
 
 
 # Gold Dragon Wyrmling
-- NameVO: [Dragon d'or, nouveau-né]
+- NameVO: [Dragonnet d'or]
 - Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 60 (8d8 + 24)
@@ -3269,11 +3269,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Weakening Breath_**. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-[Dragon d'or, nouveau-né]: monsters_hd.md#dragon-dor,-nouveau-né
+[Dragonnet d'or]: monsters_hd.md#dragonnet-dor
 
 
 # Adult Bronze Dragon
-- NameVO: [Dragon de bronze, adulte]
+- NameVO: [Dragon de bronze adulte]
 - Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 212 (17d12 + 102)
@@ -3326,11 +3326,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon de bronze, adulte]: monsters_hd.md#dragon-de-bronze,-adulte
+[Dragon de bronze adulte]: monsters_hd.md#dragon-de-bronze-adulte
 
 
 # Ancient Bronze Dragon
-- NameVO: [Dragon de bronze, ancien]
+- NameVO: [Dragon de bronze vénérable]
 - Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 444 (24d20 + 192)
@@ -3383,11 +3383,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon de bronze, ancien]: monsters_hd.md#dragon-de-bronze,-ancien
+[Dragon de bronze vénérable]: monsters_hd.md#dragon-de-bronze-vénérable
 
 
 # Young Bronze Dragon
-- NameVO: [Dragon de bronze, jeune]
+- NameVO: [Jeune dragon de bronze]
 - Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -3422,11 +3422,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
-[Dragon de bronze, jeune]: monsters_hd.md#dragon-de-bronze,-jeune
+[Jeune dragon de bronze]: monsters_hd.md#jeune-dragon-de-bronze
 
 
 # Bronze Dragon Wyrmling
-- NameVO: [Dragon de bronze, nouveau-né]
+- NameVO: [Dragonnet de bronze]
 - Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -3457,11 +3457,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Repulsion Breath_**. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
-[Dragon de bronze, nouveau-né]: monsters_hd.md#dragon-de-bronze,-nouveau-né
+[Dragonnet de bronze]: monsters_hd.md#dragonnet-de-bronze
 
 
 # Adult Copper Dragon
-- NameVO: [Dragon de cuivre, adulte]
+- NameVO: [Dragon de cuivre adulte]
 - Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d12 + 80)
@@ -3510,11 +3510,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon de cuivre, adulte]: monsters_hd.md#dragon-de-cuivre,-adulte
+[Dragon de cuivre adulte]: monsters_hd.md#dragon-de-cuivre-adulte
 
 
 # Ancient Copper Dragon
-- NameVO: [Dragon de cuivre, ancien]
+- NameVO: [Dragon de cuivre vénérable]
 - Gargantuan dragon, chaotic good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 350 (20d20 + 140)
@@ -3565,11 +3565,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon de cuivre, ancien]: monsters_hd.md#dragon-de-cuivre,-ancien
+[Dragon de cuivre vénérable]: monsters_hd.md#dragon-de-cuivre-vénérable
 
 
 # Young Copper Dragon
-- NameVO: [Dragon de cuivre, jeune]
+- NameVO: [Jeune dragon de cuivre]
 - Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 119 (14d10 + 42)
@@ -3600,11 +3600,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Slowing Breath_**. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-[Dragon de cuivre, jeune]: monsters_hd.md#dragon-de-cuivre,-jeune
+[Jeune dragon de cuivre]: monsters_hd.md#jeune-dragon-de-cuivre
 
 
 # Copper Dragon Wyrmling
-- NameVO: [Dragon de cuivre, nouveau-né]
+- NameVO: [Dragonnet de cuivre]
 - Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -3631,11 +3631,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Slowing Breath_**. The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-[Dragon de cuivre, nouveau-né]: monsters_hd.md#dragon-de-cuivre,-nouveau-né
+[Dragonnet de cuivre]: monsters_hd.md#dragonnet-de-cuivre
 
 
 # Adult Black Dragon
-- NameVO: [Dragon noir, adulte]
+- NameVO: [Dragon noir adulte]
 - Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 195 (17d12 + 85)
@@ -3682,11 +3682,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon noir, adulte]: monsters_hd.md#dragon-noir,-adulte
+[Dragon noir adulte]: monsters_hd.md#dragon-noir-adulte
 
 
 # Ancient Black Dragon
-- NameVO: [Dragon noir, ancien]
+- NameVO: [Dragon noir vénérable]
 - Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 367 (21d20 + 147)
@@ -3733,11 +3733,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon noir, ancien]: monsters_hd.md#dragon-noir,-ancien
+[Dragon noir vénérable]: monsters_hd.md#dragon-noir-vénérable
 
 
 # Young Black Dragon
-- NameVO: [Dragon noir, jeune]
+- NameVO: [Jeune dragon noir]
 - Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)
@@ -3768,11 +3768,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Acid Breath (Recharge 5-6)_**. The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 
-[Dragon noir, jeune]: monsters_hd.md#dragon-noir,-jeune
+[Jeune dragon noir]: monsters_hd.md#jeune-dragon-noir
 
 
 # Black Dragon Wyrmling
-- NameVO: [Dragon noir, nouveau-né]
+- NameVO: [Dragonnet noir]
 - Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -3799,11 +3799,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Acid Breath (Recharge 5–6)_**. The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-[Dragon noir, nouveau-né]: monsters_hd.md#dragon-noir,-nouveau-né
+[Dragonnet noir]: monsters_hd.md#dragonnet-noir
 
 
 # Adult Red Dragon
-- NameVO: [Dragon rouge, adulte]
+- NameVO: [Dragon rouge adulte]
 - Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)
@@ -3848,11 +3848,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon rouge, adulte]: monsters_hd.md#dragon-rouge,-adulte
+[Dragon rouge adulte]: monsters_hd.md#dragon-rouge-adulte
 
 
 # Ancient Red Dragon
-- NameVO: [Dragon rouge, ancien]
+- NameVO: [Dragon rouge vénérable]
 - Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)
@@ -3897,11 +3897,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon rouge, ancien]: monsters_hd.md#dragon-rouge,-ancien
+[Dragon rouge vénérable]: monsters_hd.md#dragon-rouge-vénérable
 
 
 # Young Red Dragon
-- NameVO: [Dragon rouge, jeune]
+- NameVO: [Jeune dragon rouge]
 - Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -3928,11 +3928,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 
-[Dragon rouge, jeune]: monsters_hd.md#dragon-rouge,-jeune
+[Jeune dragon rouge]: monsters_hd.md#jeune-dragon-rouge
 
 
 # Red Dragon Wyrmling
-- NameVO: [Dragon rouge, nouveau-né]
+- NameVO: [Dragonnet rouge]
 - Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 75 (10d8 + 30)
@@ -3955,11 +3955,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
-[Dragon rouge, nouveau-né]: monsters_hd.md#dragon-rouge,-nouveau-né
+[Dragonnet rouge]: monsters_hd.md#dragonnet-rouge
 
 
 # Adult Green Dragon
-- NameVO: [Dragon vert, adulte]
+- NameVO: [Dragon vert adulte]
 - Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 207 (18d12 + 90)
@@ -4006,11 +4006,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
-[Dragon vert, adulte]: monsters_hd.md#dragon-vert,-adulte
+[Dragon vert adulte]: monsters_hd.md#dragon-vert-adulte
 
 
 # Ancient Green Dragon
-- NameVO: [Dragon vert, ancien]
+- NameVO: [Dragon vert vénérable]
 - Gargantuan dragon, lawful evil
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 385 (22d20 + 154)
@@ -4057,11 +4057,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Wing Attack (Costs 2 Actions)_**. The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying Speed.
 
-[Dragon vert, ancien]: monsters_hd.md#dragon-vert,-ancien
+[Dragon vert vénérable]: monsters_hd.md#dragon-vert-vénérable
 
 
 # Young Green Dragon
-- NameVO: [Dragon vert, jeune]
+- NameVO: [Jeune dragon vert]
 - Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -4092,11 +4092,11 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
-[Dragon vert, jeune]: monsters_hd.md#dragon-vert,-jeune
+[Jeune dragon vert]: monsters_hd.md#jeune-dragon-vert
 
 
 # Green Dragon Wyrmling
-- NameVO: [Dragon vert, nouveau-né]
+- NameVO: [Dragonnet vert]
 - Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 38 (7d8 + 7)
@@ -4123,7 +4123,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
-[Dragon vert, nouveau-né]: monsters_hd.md#dragon-vert,-nouveau-né
+[Dragonnet vert]: monsters_hd.md#dragonnet-vert
 
 
 # Dragon Turtle
