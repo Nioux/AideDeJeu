@@ -390,7 +390,7 @@ After spending the casting time tracing magical pathways within a precious gemst
 
 The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
-[Éveil]: spells_hd.md#éveil
+[Éveil]: spells_hd.md#Éveil
 
 
 # Bane
@@ -499,7 +499,7 @@ A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an
 
 
 # Bigby's Hand
-- NameVO: [Main de Bigby]
+- NameVO: [Main magique]
 - CastingTime: 1 action
 - Components: V, S, M (an eggshell and a snakeskin glove)
 - Duration: Concentration, up to 1 minute
@@ -526,7 +526,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
-[Main de Bigby]: spells_hd.md#main-de-bigby
+[Main magique]: spells_hd.md#main-magique
 
 
 # Blade Barrier
@@ -2006,7 +2006,7 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 
 
 # Drawmij's Instant Summons
-- NameVO: [Convocations instantanées de Drawmij]
+- NameVO: [Convocations instantanées]
 - CastingTime: 1 minute
 - Components: V, S, M (a sapphire worth 1,000 gp)
 - Duration: Until dispelled
@@ -2025,7 +2025,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 _[dispel magic]_ or a similar effect successfully applied to the sapphire ends this spell's effect.
 
-[Convocations instantanées de Drawmij]: spells_hd.md#convocations-instantanées-de-drawmij
+[Convocations instantanées]: spells_hd.md#convocations-instantanées
 
 
 # Dream
@@ -2244,7 +2244,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 
 # Evard's Black Tentacles
-- NameVO: [Tentacules noirs d'Evard]
+- NameVO: [Tentacules noirs]
 - CastingTime: 1 action
 - Components: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 - Duration: Concentration, up to 1 minute
@@ -2261,7 +2261,7 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
 
-[Tentacules noirs d'Evard]: spells_hd.md#tentacules-noirs-devard
+[Tentacules noirs]: spells_hd.md#tentacules-noirs
 
 
 # Expeditious Retreat
@@ -3455,7 +3455,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 
 # Holy Aura
-- NameVO: [Aura de feu]
+- NameVO: [Aura sacrée]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
 - Duration: Concentration, up to 1 minute
@@ -3468,7 +3468,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be [blinded](conditions_vo.md#blinded) until the spell ends.
 
-[Aura de feu]: spells_hd.md#aura-de-feu
+[Aura sacrée]: spells_hd.md#aura-sacrée
 
 
 # Hunter's Mark
@@ -3755,7 +3755,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 
 # Leomund's Secret Chest
-- NameVO: [Coffre secret de Léomund]
+- NameVO: [Coffre secret]
 - CastingTime: 1 action
 - Components: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
 - Duration: Instantaneous
@@ -3772,7 +3772,7 @@ While the chest remains on the Ethereal Plane, you can use an action and touch t
 
 After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost.
 
-[Coffre secret de Léomund]: spells_hd.md#coffre-secret-de-léomund
+[Coffre secret]: spells_hd.md#coffre-secret
 
 
 # Leomund's Tiny Hut
@@ -3871,7 +3871,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-[Éclair]: spells_hd.md#éclair
+[Éclair]: spells_hd.md#Éclair
 
 
 # Locate Animals or Plants
@@ -4253,7 +4253,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 
 # Melf's Acid Arrow
-- NameVO: [Flèche acide de Melf]
+- NameVO: [Flèche acide]
 - CastingTime: 1 action
 - Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
 - Duration: Instantaneous
@@ -4268,7 +4268,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-[Flèche acide de Melf]: spells_hd.md#flèche-acide-de-melf
+[Flèche acide]: spells_hd.md#flèche-acide
 
 
 # Mending
@@ -4415,7 +4415,7 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 
 # Mislead
-- NameVO: [Double illusoire]
+- NameVO: [Tromperie]
 - CastingTime: 1 action
 - Components: S
 - Duration: Concentration, up to 1 hour
@@ -4432,7 +4432,7 @@ You can use your action to move your illusory double up to twice your speed and 
 
 You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](conditions_vo.md#blinded) and deafened in regard to your own surroundings.
 
-[Double illusoire]: spells_hd.md#double-illusoire
+[Tromperie]: spells_hd.md#tromperie
 
 
 # Misty Step
@@ -4505,7 +4505,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 
 # Mordenkainen's Faithful Hound
-- NameVO: [Chien de garde de Mordenkainen]
+- NameVO: [Chien de garde]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 - Duration: 8 hours
@@ -4522,11 +4522,11 @@ The hound is invisible to all creatures except you and can't be harmed. When a S
 
 At the start of each of your turns, the hound attempts to bite one creature within 5 feet of it that is hostile to you. The hound's attack bonus is equal to your spellcasting ability modifier + your proficiency bonus. On a hit, it deals 4d8 piercing damage.
 
-[Chien de garde de Mordenkainen]: spells_hd.md#chien-de-garde-de-mordenkainen
+[Chien de garde]: spells_hd.md#chien-de-garde
 
 
 # Mordenkainen's Magnificent Mansion
-- NameVO: [Manoir somptueux de Mordenkainen]
+- NameVO: [Manoir somptueux]
 - CastingTime: 1 minute
 - Components: V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
 - Duration: 24 hours
@@ -4543,11 +4543,11 @@ Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmo
 
 You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
-[Manoir somptueux de Mordenkainen]: spells_hd.md#manoir-somptueux-de-mordenkainen
+[Manoir somptueux]: spells_hd.md#manoir-somptueux
 
 
 # Mordenkainen's Private Sanctum
-- NameVO: [Sanctuaire privé de Mordenkainen]
+- NameVO: [Sanctuaire privé]
 - CastingTime: 10 minutes
 - Components: V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
 - Duration: 24 hours
@@ -4578,11 +4578,11 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
-[Sanctuaire privé de Mordenkainen]: spells_hd.md#sanctuaire-privé-de-mordenkainen
+[Sanctuaire privé]: spells_hd.md#sanctuaire-privé
 
 
 # Mordenkainen's Sword
-- NameVO: [Épée de Mordenkainen]
+- NameVO: [Épée magique]
 - CastingTime: 1 action
 - Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 - Duration: Concentration, up to 1 minute
@@ -4597,7 +4597,7 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
-[Épée de Mordenkainen]: spells_hd.md#épée-de-mordenkainen
+[Épée magique]: spells_hd.md#épée-magique
 
 
 # Move Earth
@@ -4643,7 +4643,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 
 # Nystul's Magic Aura
-- NameVO: [Aura magique de Nystul]
+- NameVO: [Aura magique de l'arcaniste]
 - CastingTime: 1 action
 - Components: V, S, M (a small square of silk)
 - Duration: 24 hours
@@ -4662,11 +4662,11 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 **Mask**. You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a _symbol_ spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 
-[Aura magique de Nystul]: spells_hd.md#aura-magique-de-nystul
+[Aura magique de l'arcaniste]: spells_hd.md#aura-magique-de-larcaniste
 
 
 # Otiluke's Freezing Sphere
-- NameVO: [Sphère glacée d'Otiluke]
+- NameVO: [Sphère glacée]
 - CastingTime: 1 action
 - Components: V, S, M (a small crystal sphere
 - Duration: Instantaneous
@@ -4685,11 +4685,11 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 **_At Higher Levels_**. When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 
-[Sphère glacée d'Otiluke]: spells_hd.md#sphère-glacée-dotiluke
+[Sphère glacée]: spells_hd.md#sphère-glacée
 
 
 # Otiluke's Resilient Sphere
-- NameVO: [Sphère résiliente d'Otiluke]
+- NameVO: [Sphère résiliente]
 - CastingTime: 1 action
 - Components: V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 - Duration: Concentration, up to 1 minute
@@ -4708,11 +4708,11 @@ The sphere is weightless and just large enough to contain the creature or object
 
 A _[disintegrate]_ spell targeting the globe destroys it without harming anything inside it.
 
-[Sphère résiliente d'Otiluke]: spells_hd.md#sphère-résiliente-dotiluke
+[Sphère résiliente]: spells_hd.md#sphère-résiliente
 
 
 # Otto's Irresistible Dance
-- NameVO: [Danse irrésistible d'Otto]
+- NameVO: [Danse irrésistible]
 - CastingTime: 1 action
 - Components: V
 - Duration: Concentration, up to 1 minute
@@ -4727,7 +4727,7 @@ Choose one creature that you can see within range. The target begins a comic dan
 
 A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
 
-[Danse irrésistible d'Otto]: spells_hd.md#danse-irrésistible-dotto
+[Danse irrésistible]: spells_hd.md#danse-irrésistible
 
 
 # Pass without Trace
@@ -5168,7 +5168,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 
 # Protection from Energy
-- NameVO: [Protection contre l'énergie]
+- NameVO: [Protection contre les énergies]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -5181,7 +5181,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
-[Protection contre l'énergie]: spells_hd.md#protection-contre-lénergie
+[Protection contre les énergies]: spells_hd.md#protection-contre-les-énergies
 
 
 # Protection from Evil and Good
@@ -5240,7 +5240,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 
 # Raise Dead
-- NameVO: [Relever les morts]
+- NameVO: [Rappel à la vie]
 - CastingTime: 1 hour
 - Components: V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -5259,11 +5259,11 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-[Relever les morts]: spells_hd.md#relever-les-morts
+[Rappel à la vie]: spells_hd.md#rappel-à-la-vie
 
 
 # Rary's Telepathic Bond
-- NameVO: [Lien télépathique de Rary]
+- NameVO: [Lien télépathique]
 - CastingTime: 1 action
 - Components: V, S, M (pieces of eggshell from two different kinds of creatures)
 - Duration: 1 hour
@@ -5278,7 +5278,7 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-[Lien télépathique de Rary]: spells_hd.md#lien-télépathique-de-rary
+[Lien télépathique]: spells_hd.md#lien-télépathique
 
 
 # Ray of Enfeeblement
@@ -5930,7 +5930,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-[Épargner les mourants]: spells_hd.md#épargner-les-mourants
+[Épargner les mourants]: spells_hd.md#Épargner-les-mourants
 
 
 # Speak with Animals
@@ -6218,7 +6218,7 @@ A creature [blinded](conditions_vo.md#blinded) by this spell makes another Const
 
 This spell dispels any darkness in its area that was created by a spell.
 
-[Éclat du soleil]: spells_hd.md#éclat-du-soleil
+[Éclat du soleil]: spells_hd.md#Éclat-du-soleil
 
 
 # Symbol
@@ -6263,7 +6263,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 
 # Tasha's Hideous Laughter
-- NameVO: [Fou rire de Tasha]
+- NameVO: [Fou rire]
 - CastingTime: 1 action
 - Components: V, S, M (tiny tarts and a feather that is waved in the air)
 - Duration: Concentration, up to 1 minute
@@ -6278,7 +6278,7 @@ A creature of your choice that you can see within range perceives everything as 
 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.
 
-[Fou rire de Tasha]: spells_hd.md#fou-rire-de-tasha
+[Fou rire]: spells_hd.md#fou-rire
 
 
 # Telekinesis
@@ -6377,7 +6377,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 
 # Tenser's Floating Disk
-- NameVO: [Disque flottant de Tenser]
+- NameVO: [Disque flottant]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of mercury)
 - Duration: 1 hour
@@ -6394,7 +6394,7 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
-[Disque flottant de Tenser]: spells_hd.md#disque-flottant-de-tenser
+[Disque flottant]: spells_hd.md#disque-flottant
 
 
 # Thaumaturgy
@@ -6879,7 +6879,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
 
-[Étrangeté]: spells_hd.md#étrangeté
+[Étrangeté]: spells_hd.md#Étrangeté
 
 
 # Wind Walk
