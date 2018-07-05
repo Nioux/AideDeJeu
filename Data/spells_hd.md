@@ -6129,7 +6129,7 @@ Protections et sceaux produit les effets suivants dans la zone protégée.
 
 **_Couloirs._** Le brouillard envahit tous les couloirs, où la visibilité est alors nulle. De plus, à chaque intersection ou embranchement laissant un choix de direction, il y a 50 % de chances que les créatures autres que vous soient persuadées d’aller dans la direction opposée à celle qu’elles ont choisie.
 
-**_Escaliers._** Des toiles d’araignées, comme le sort du même nom, emplissent tous les escaliers de la zone protégée, du sol au plafond. Tant que protections et sceaux persiste, ces fils réapparaissent en 10 minutes si quelqu’un les brûle ou les arrache.
+**_Escaliers._** Des _[toiles d’araignées]_, comme le sort du même nom, emplissent tous les escaliers de la zone protégée, du sol au plafond. Tant que protections et sceaux persiste, ces fils réapparaissent en 10 minutes si quelqu’un les brûle ou les arrache.
 
 **_Portes._** Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un _[verrou magique]_. De plus, vous pouvez recouvrir jusqu’à dix portes d’une illusion (comme la fonction d’objet illusoire du sort _[illusion mineure]_), afin de les faire passer pour une section de mur ordinaire.
 
@@ -7478,7 +7478,7 @@ Vous pouvez révoquer un tel effet par une action.
 
 
 # Toile d’araignée
-- NameVO: 
+- NameVO: [Web](spells_vo.hd#web)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de toile d’araignée)
 - Duration: concentration, jusqu’à 1 heure
@@ -7904,4 +7904,5 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 [souhaits]: spells_hd.md#souhait
 [suggestion]: spells_hd.md#suggestion
 [symbole]: spells_hd.md#symbole
+[toiles d’araignées]: spells_hd.md#toile-daraignée
 [verrou magique]: spells_hd.md#verrou-magique
