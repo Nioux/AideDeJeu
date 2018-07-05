@@ -129,16 +129,36 @@ namespace AideDeJeuCmd
             var mdVO = await LoadStringAsync(dataDir + "monsters_vo.md");
             var mdVF = await LoadStringAsync(dataDir + "monsters_hd.md");
 
-            var regex = new Regex("# (?<namevo>.*?)\n- NameVO: \\[(?<namevf>.*?)\\]\n");
-            var matches = regex.Matches(mdVO);
-            foreach(Match match in matches)
+            //var regex = new Regex("# (?<namevo>.*?)\n- NameVO: \\[(?<namevf>.*?)\\]\n");
+            //var matches = regex.Matches(mdVO);
+            //foreach(Match match in matches)
+            //{
+            //    var nameVF = match.Groups["namevf"].Value;
+            //    var nameVO = match.Groups["namevo"].Value;
+            //    var replaceOld = string.Format("# {0}\n", nameVF);
+            //    var replaceNew = string.Format("# {0}\n- NameVO: [{1}](monsters_vo.md#{2})\n", nameVF, nameVO, Helpers.IdFromName(nameVO));
+            //    mdVF = mdVF.Replace(replaceOld, replaceNew);
+            //}
+
+            var regex = new Regex("_\\[(?<name>.*?)\\]_");
+            var matches = regex.Matches(mdVF);
+            var names = new List<string>();
+            foreach (Match match in matches)
             {
-                var nameVF = match.Groups["namevf"].Value;
-                var nameVO = match.Groups["namevo"].Value;
-                var replaceOld = string.Format("# {0}\n", nameVF);
-                var replaceNew = string.Format("# {0}\n- NameVO: [{1}](monsters_vo.md#{2})\n", nameVF, nameVO, Helpers.IdFromName(nameVO));
-                mdVF = mdVF.Replace(replaceOld, replaceNew);
+                var name = match.Groups["name"].Value;
+                if (!mdVF.Contains($"[{name}]:"))
+                {
+                    //Console.WriteLine(name);
+                    names.Add(name);
+                }
             }
+            //names.Sort();
+            names = names.OrderBy(n => n).Distinct().ToList();
+            foreach(var name in names)
+            {
+                Console.WriteLine($"[{name}]: spells_hd.md#{Helpers.IdFromName(Helpers.Capitalize(name))}");
+            }
+
             Console.WriteLine(mdVF);
             await SaveStringAsync(dataDir + "monsters_hd_tmp.md", mdVF);
 

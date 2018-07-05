@@ -6055,25 +6055,25 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 
 **_Incantation._** La liche est un lanceur de sorts de niveau 18. La caractéristique d'incantation de la liche est l'Intelligence (DD du jet de sauvegarde contre les sorts 20, +12 pour toucher avec les sorts). La liste de sorts réparés par la liche est la suivante :
 
-* **Tours de magie (à volonté) :** [main du mage], [prestidigitation], [rayon de givre]
+* **Tours de magie (à volonté) :** _[main du mage]_, _[prestidigitation]_, _[rayon de givre]_
 
-* **1er niveau (4 emplacements) :** [détection de la magie], [projectile magique],[ bouclier], [vague tonnante]
+* **1er niveau (4 emplacements) :** _[détection de la magie]_, _[projectile magique]_, _[bouclier]_, _[vague tonnante]_
 
-* **2e niveau (3 emplacements) :** [flèche acide], [détections des pensées], [invisibilité],[ image miroir]
+* **2e niveau (3 emplacements) :** _[flèche acide]_, _[détections des pensées]_, _[invisibilité]_, _[image miroir]_
 
-* **3e niveau (3 emplacements) :** [contresort], [dissipation de la magie], [boule de feu], [animation des morts]
+* **3e niveau (3 emplacements) :** _[contresort]_, _[dissipation de la magie]_, _[boule de feu]_, _[animation des morts]_
 
-* **4e niveau (3 emplacements) :** [flétrissement], [porte dimensionnelle]
+* **4e niveau (3 emplacements) :** _[flétrissement]_, _[porte dimensionnelle]_
 
-* **5e niveau (3 emplacements) :** [nuage de mort], [scrutation]
+* **5e niveau (3 emplacements) :** _[nuage de mort]_, _[scrutation]_
 
-* **6e niveau (2 emplacements) :** [désintégration], [globe d'invulnérabilité]
+* **6e niveau (2 emplacements) :** _[désintégration]_, _[globe d'invulnérabilité]_
 
-* **7e niveau (2 emplacements) :** [doigt de mort], [changement de plan]
+* **7e niveau (2 emplacements) :** _[doigt de mort]_, _[changement de plan]_
 
-* **8e niveau (1 emplacement) :** [dominer un monstre], [mot de pouvoir étourdissant]
+* **8e niveau (1 emplacement) :** _[dominer un monstre]_, _[mot de pouvoir étourdissant]_
 
-* **9e niveau (1 emplacement) :** [mot de pouvoir mortel]
+* **9e niveau (1 emplacement) :** _[mot de pouvoir mortel]_
 
 **_Résistance au renvoi._** La liche obtient l'avantage aux jets de sauvegarde pour résister à tout effet de renvoi des morts-vivants.
 
@@ -6901,19 +6901,19 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 
 **_Incantation._** La momie auguste est une lanceuse de sorts de niveau 10. Sa caractéristique d'incanta- tion est la Sagesse (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par la momie auguste :
 
-* **Tours de magie (à volonté) :** flamme sacrée, thaumaturgie
+* **Tours de magie (à volonté) :** _[flamme sacrée]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** balisage, bouclier de la foi, injonction
+* **1er niveau (4 emplacements) :** _[balisage]_, _[bouclier de la foi]_, _[injonction]_
 
-* **2e niveau (3 emplacements) :** arme spirituelle, immobilisation de personne, silence
+* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobilisation de personne]_, _[silence]_
 
-* **3e niveau (3 emplacements) :** animation des morts, dissipation de la magie
+* **3e niveau (3 emplacements) :** _[animation des morts]_, _[dissipation de la magie]_
 
-* **4e niveau (3 emplacements) :** divination, gardien de la foi
+* **4e niveau (3 emplacements) :** _[divination]_, _[gardien de la foi]_
 
-* **5e niveau (2 emplacements) :** contagion, fléau d'insectes
+* **5e niveau (2 emplacements) :** _[contagion]_, _[fléau d'insectes]_
 
-* **6e niveau (1 emplacement) :** contamination
+* **6e niveau (1 emplacement) :** _[contamination]_
 
 **_Reconstitution._** Une momie auguste détruite obtient une nouvelle enveloppe charnelle au bout de 24 heures si son coeur est intact. Elle récupère ainsi la totalité de ses points de vie et peut de nouveau agir. Le nouveau corps apparaît à 1,50 mètre ou moins du coeur de la momie auguste.
 
@@ -6972,17 +6972,17 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 
 **_Incantation._** Le naga est un lanceur de sorts de niveau 10. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort) et seules les composantes verbales sont nécessaires pour lancer ses sorts. Voici les sorts de magicien préparés par le naga :
 
-* **Tours de magie (à volonté) :** illusion mineure, main du mage, rayon de givre
+* **Tours de magie (à volonté) :** _[illusion mineure]_, _[main du mage]_, _[rayon de givre]_
 
-* **1er niveau (4 emplacements) :** charme-personne, détection de la magie, sommeil
+* **1er niveau (4 emplacements) :** _[charme-personne]_, _[détection de la magie]_, _[sommeil]_
 
-* **2e niveau (3 emplacements) :** détection des pensées, immobilisation de personne
+* **2e niveau (3 emplacements) :** _[détection des pensées]_, _[immobilisation de personne]_
 
-* **3e niveau (3 emplacements) :** éclair, respiration aquatique
+* **3e niveau (3 emplacements) :** _[éclair]_, _[respiration aquatique]_
 
-* **4e niveau (3 emplacements) :** flétrissement, porte dimensionnelle
+* **4e niveau (3 emplacements) :** _[flétrissement]_, _[porte dimensionnelle]_
 
-* **5e niveau (2 emplacements) :** dominer un humanoïde
+* **5e niveau (2 emplacements) :** _[dominer un humanoïde]_
 
 **_Reconstitution._** S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de souhait peut empêcher le fonctionnement de ce trait.
 
@@ -7015,19 +7015,19 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de s
 
 **_Incantation._** Le naga est un lanceur de sorts de niveau 11. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec les attaques de sort) et seules les composantes verbales sont nécessaires pour lancer ses sorts. Voici les sorts de clerc préparés par le naga :
 
-* **Tours de magie (à volonté) :** flamme sacrée, réparation, thaumaturgie
+* **Tours de magie (à volonté) :** _[flamme sacrée]_, _[réparation]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** bouclier de la foi, injonction, soin des blessures
+* **1er niveau (4 emplacements) :** _[bouclier de la foi]_, _[injonction]_, _[soin des blessures]_
 
-* **2e niveau (3 emplacements) :** apaisement des émotions, immobilisation de personne
+* **2e niveau (3 emplacements) :** _[apaisement des émotions]_, _[immobilisation de personne]_
 
-* **3e niveau (3 emplacements) :** clairvoyance, malédiction
+* **3e niveau (3 emplacements) :** _[clairvoyance]_, _[malédiction]_
 
-* **4e niveau (3 emplacements) :** bannissement, liberté de mouvement
+* **4e niveau (3 emplacements) :** _[bannissement]_, _[liberté de mouvement]_
 
-* **5e niveau (2 emplacements) :** quête, colonne de feu
+* **5e niveau (2 emplacements) :** _[quête]_, _[colonne de feu]_
 
-* **6e niveau (1 emplacement) :** vision suprême
+* **6e niveau (1 emplacement) :** _[vision suprême]_
 
 **_Reconstitution._** S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de souhait peut empêcher le fonctionnement de ce trait.
 
@@ -7340,11 +7340,11 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 **_Incantation._** Le chaman est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le chaman :
 
-* **Tours de magie (à volonté) :** flamme sacrée, résistance, thaumaturgie
+* **Tours de magie (à volonté) :** _[flamme sacrée]_, _[résistance]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** blessure, bouclier de la foi, injonction
+* **1er niveau (4 emplacements) :** _[blessure]_, _[bouclier de la foi]_, _[injonction]_
 
-* **2e niveau (3 emplacements) :** arme spirituelle, immobiliser un humanoïde
+* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobiliser un humanoïde]_
 
 ## Actions
 
@@ -7703,13 +7703,13 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 **_Incantation._** La prêtresse est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
 
-* **Tours de magie (à volonté) :** aspersion acide, explosion occulte, thaumaturgie
+* **Tours de magie (à volonté) :** _[aspersion acide]_, _[explosion occulte]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** strangulation, sanctuaire, soin des blessures
+* **1er niveau (4 emplacements) :** _[strangulation]_, _[sanctuaire]_, _[soin des blessures]_
 
-* **2e niveau (3 emplacements) :** dessiccation, restauration inférieure
+* **2e niveau (3 emplacements) :** _[dessiccation]_, _[restauration inférieure]_
 
-* **3e niveau (2 emplacements) :** invoquer des animaux (requin chasseur), esprits gardiens
+* **3e niveau (2 emplacements) :** _[invoquer des animaux]_ (requin chasseur), _[esprits gardiens]_
 
 **_Frénésie sanguinaire._** Le sahuagin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
@@ -7940,19 +7940,19 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sau
 
 **_Incantation._** Le sphinx est un lanceur de sorts de niveau 12. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 18, +10 pour toucher avec les attaques de sort). Aucune composante matérielle n'est nécessaire pour lancer ses sorts. Voici les sorts de clerc préparés par le sphinx :
 
-* **Tours de magie (à volonté) :** épargner les mourants, flamme sacrée, thaumaturgie
+* **Tours de magie (à volonté) :** _[épargner les mourants]_, _[flamme sacrée]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** détection de la magie, détection du mal et du bien, injonction
+* **1er niveau (4 emplacements) :** _[détection de la magie]_, _[détection du mal et du bien]_, _[injonction]_
 
-* **2e niveau (3 emplacements) :** restauration inférieure, zone de vérité
+* **2e niveau (3 emplacements) :** _[restauration inférieure]_, _[zone de vérité]_
 
-* **3e niveau (3 emplacements) :** dissipation de la magie, langues
+* **3e niveau (3 emplacements) :** _[dissipation de la magie]_, _[langues]_
 
-* **4e niveau (3 emplacements) :** bannissement, liberté de mouvement
+* **4e niveau (3 emplacements) :** _[bannissement]_, _[liberté de mouvement]_
 
-* **5e niveau (2 emplacements) :** colonne de feu, restauration supérieure
+* **5e niveau (2 emplacements) :** _[colonne de feu]_, _[restauration supérieure]_
 
-* **6e niveau (1 emplacement) :** festin des héros
+* **6e niveau (1 emplacement) :** _[festin des héros]_
 
 **_Insondable._** Le sphinx est immunisé contre les effets susceptibles de percevoir ses émotions ou de lire ses pensées, ainsi qu'aux sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) effectués pour déterminer les intentions ou la sincérité du sphinx subissent un désavantage.
 
@@ -8008,17 +8008,17 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Incantation._** Le sphinx est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec les attaques de sort). Aucune composante matérielle n'est nécessaire pour lancer ses sorts. Voici les sorts de magicien préparés par le sphinx :
 
-* **Tours de magie (à volonté) :** illusion mineure, main du mage, prestidigitation
+* **Tours de magie (à volonté) :** _[illusion mineure]_, _[main du mage]_, _[prestidigitation]_
 
-* **1er niveau (4 emplacements) :** bouclier, détection de la magie, identification
+* **1er niveau (4 emplacements) :** _[bouclier]_, _[détection de la magie]_, _[identification]_
 
-* **2e niveau (3 emplacements) :** localiser un objet, suggestion, ténèbres
+* **2e niveau (3 emplacements) :** _[localiser un objet]_, _[suggestion]_, _[ténèbres]_
 
-* **3e niveau (3 emplacements) :** dissipation de la magie, langues, délivrance des malédictions
+* **3e niveau (3 emplacements) :** _[dissipation de la magie]_, _[langues]_, _[délivrance des malédictions]_
 
-* **4e niveau (3 emplacements) :** bannissement, invisibilité supérieure
+* **4e niveau (3 emplacements) :** _[bannissement]_, _[invisibilité supérieure]_
 
-* **5e niveau (1 emplacement) :** légende
+* **5e niveau (1 emplacement) :** _[légende]_
 
 **_Insondable._** Le sphinx est immunisé contre les effets susceptibles de percevoir ses émotions ou de lire ses pensées, ainsi qu'aux sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) effectués pour déterminer les intentions ou la sincérité du sphinx subissent un désavantage.
 
@@ -11784,9 +11784,9 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 **_Incantation._** L'acolyte est un lanceur de sorts de niveau 1. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par l'acolyte :
 
-* **Tours de magie (à volonté) :** flamme sacrée, lumière, thaumaturgie
+* **Tours de magie (à volonté) :** _[flamme sacrée]_, _[lumière]_, _[thaumaturgie]_
 
-* **1er niveau (3 emplacements) :** bénédiction, sanctuaire, soin des blessures
+* **1er niveau (3 emplacements) :** _[bénédiction]_, _[sanctuaire]_, _[soin des blessures]_
 
 ## Actions
 
@@ -11819,25 +11819,25 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 L'archimage peut lancer déguisement et invisibilité à volonté et dispose des sorts de magicien préparés suivants :
 
-* **Tours de magie (à volonté) :** carreau de feu, lumière, main du mage, poigne électrique, prestidigitation
+* **Tours de magie (à volonté) :** _[carreau de feu]_, _[lumière]_, _[main du mage]_, _[poigne électrique]_, _[prestidigitation]_
 
-* **1er niveau (4 emplacements) :** armure du mage*, détection de la magie, identification, projectile magique
+* **1er niveau (4 emplacements) :** _[armure du mage]_*, _[détection de la magie]_, _[identification]_, _[projectile magique]_
 
-* **2e niveau (3 emplacements) :** détection des pensées, image miroir, pas brumeux
+* **2e niveau (3 emplacements) :** _[détection des pensées]_, _[image miroir]_, _[pas brumeux]_
 
-* **3e niveau (3 emplacements) :** contresort, éclair, vol
+* **3e niveau (3 emplacements) :** _[contresort]_, _[éclair]_, _[vol]_
 
-* **4e niveau (3 emplacements) :** bannissement, bouclier de feu, peau de pierre*
+* **4e niveau (3 emplacements) :** _[bannissement]_, _[bouclier de feu]_, _[peau de pierre]_*
 
-* **5e niveau (3 emplacements) :** cône de froid, mur de force, scrutation
+* **5e niveau (3 emplacements) :** _[cône de froid]_, _[mur de force]_, _[scrutation]_
 
-* **6e niveau (1 emplacement) :** globe d'invulnérabilité
+* **6e niveau (1 emplacement) :** _[globe d'invulnérabilité]_
 
-* **7e niveau (1 emplacement) :** téléportation
+* **7e niveau (1 emplacement) :** _[téléportation]_
 
-* **8e niveau (1 emplacement) :** esprit impénétrable*
+* **8e niveau (1 emplacement) :** _[esprit impénétrable]_*
 
-* **9e niveau (1 emplacement) :** arrêt du temps
+* **9e niveau (1 emplacement) :** _[arrêt du temps]_
 
 (*) L'archimage lance ces sorts sur lui-même avant un combat.
 
@@ -12034,11 +12034,11 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 **_Incantation._** Le druide est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici ses sorts de druide préparés :
 
-* **Tours de magie (à volonté) :** druidisme, gourdin magique, produire une flamme
+* **Tours de magie (à volonté) :** _[druidisme]_, _[gourdin magique]_, _[produire une flamme]_
 
-* **1er niveau (4 emplacements) :** communication avec les animaux, enchevêtrement, grande foulée, vague tonnante
+* **1er niveau (4 emplacements) :** _[communication avec les animaux]_, _[enchevêtrement]_, _[grande foulée]_, _[vague tonnante]_
 
-* **2e niveau (3 emplacements) :** messager animal, peau d'écorce
+* **2e niveau (3 emplacements) :** _[messager animal]_, _[peau d'écorce]_
 
 ## Actions
 
@@ -12070,13 +12070,13 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 
 Voici ses sorts de clerc préparés :
 
-* **Tours de magie (à volonté) :** flamme sacrée, lumière, thaumaturgie
+* **Tours de magie (à volonté) :** _[flamme sacrée]_, _[lumière]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** balisage, sanctuaire, soin des blessures
+* **1er niveau (4 emplacements) :** _[balisage]_, _[sanctuaire]_, _[soin des blessures]_
 
-* **2e niveau (3 emplacements) :** arme spirituelle, restauration inférieure
+* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[restauration inférieure]_
 
-* **3e niveau (2 emplacements) :** dissipation de la magie, esprits gardiens
+* **3e niveau (2 emplacements) :** _[dissipation de la magie]_, _[esprits gardiens]_
 
 ## Actions
 
@@ -12172,11 +12172,11 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 **_Incantation._** Le fanatique est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le fanatique :
 
-* **Tours de magie (à volonté) :** flamme sacrée, lumière, thaumaturgie
+* **Tours de magie (à volonté) :** _[flamme sacrée]_, _[lumière]_, _[thaumaturgie]_
 
-* **1er niveau (4 emplacements) :** blessure, bouclier de la foi, injonction
+* **1er niveau (4 emplacements) :** _[blessure]_, _[bouclier de la foi]_, _[injonction]_
 
-* **2e niveau (3 emplacements) :** arme spirituelle, immobilisation de personne
+* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobilisation de personne]_
 
 **_Sombre dévotion._** Le fanatique obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [charmé] ou [terrorisé].
 
@@ -12301,17 +12301,17 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 **_Incantation._** Le mage est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Le mage dispose des sorts de magicien préparés suivants :
 
-* **Tours de magie (à volonté) :** carreau de feu, lumière, main du mage, prestidigitation
+* **Tours de magie (à volonté) :** _[carreau de feu]_, _[lumière]_, _[main du mage]_, _[prestidigitation]_
 
-* **1er niveau (4 emplacements) :** armure du mage, bouclier, détection de la magie, projectile magique
+* **1er niveau (4 emplacements) :** _[armure du mage]_, _[bouclier]_, _[détection de la magie]_, _[projectile magique]_
 
-* **2e niveau (3 emplacements) :** pas brumeux, suggestion
+* **2e niveau (3 emplacements) :** _[pas brumeux]_, _[suggestion]_
 
-* **3e niveau (3 emplacements) :** boule de feu, contresort, vol
+* **3e niveau (3 emplacements) :** _[boule de feu]_, _[contresort]_, _[vol]_
 
-* **4e niveau (3 emplacements) :** invisibilité supérieure, tempête de grêle
+* **4e niveau (3 emplacements) :** _[invisibilité supérieure]_, _[tempête de grêle]_
 
-* **5e niveau (1 emplacement) :** cône de froid
+* **5e niveau (1 emplacement) :** _[cône de froid]_
 
 ## Actions
 
@@ -12560,3 +12560,122 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [épuisée]: conditions_hd.md#fatigue-et-épuisement
 [épuisés]: conditions_hd.md#fatigue-et-épuisement
 [épuisées]: conditions_hd.md#fatigue-et-épuisement
+
+[animation des morts]: spells_hd.md#animation-des-morts
+[apaisement des émotions]: spells_hd.md#apaisement-des-émotions
+[arme spirituelle]: spells_hd.md#arme-spirituelle
+[armure du mage]: spells_hd.md#armure-du-mage
+[arrêt du temps]: spells_hd.md#arrêt-du-temps
+[aspersion acide]: spells_hd.md#aspersion-acide
+[baies nourricières]: spells_hd.md#baies-nourricières
+[balisage]: spells_hd.md#balisage
+[bannissement]: spells_hd.md#bannissement
+[bénédiction]: spells_hd.md#bénédiction
+[blessure]: spells_hd.md#blessure
+[bouclier]: spells_hd.md#bouclier
+[bouclier de feu]: spells_hd.md#bouclier-de-feu
+[bouclier de la foi]: spells_hd.md#bouclier-de-la-foi
+[bouffée de poison]: spells_hd.md#bouffée-de-poison
+[boule de feu]: spells_hd.md#boule-de-feu
+[carreau de feu]: spells_hd.md#carreau-de-feu
+[changement de plan]: spells_hd.md#changement-de-plan
+[charme-personne]: spells_hd.md#charme-personne
+[clairvoyance]: spells_hd.md#clairvoyance
+[colonne de feu]: spells_hd.md#colonne-de-feu
+[communication avec les animaux]: spells_hd.md#communication-avec-les-animaux
+[cône de froid]: spells_hd.md#cône-de-froid
+[contact glacial]: spells_hd.md#contact-glacial
+[contagion]: spells_hd.md#contagion
+[contamination]: spells_hd.md#contamination
+[contresort]: spells_hd.md#contresort
+[déguisement]: spells_hd.md#déguisement
+[délivrance des malédictions]: spells_hd.md#délivrance-des-malédictions
+[désintégration]: spells_hd.md#désintégration
+[dessiccation]: spells_hd.md#dessiccation
+[détection de la magie]: spells_hd.md#détection-de-la-magie
+[détection des pensées]: spells_hd.md#détection-des-pensées
+[détection du mal et du bien]: spells_hd.md#détection-du-mal-et-du-bien
+[détections des pensées]: spells_hd.md#détections-des-pensées
+[dissipation de la magie]: spells_hd.md#dissipation-de-la-magie
+[divination]: spells_hd.md#divination
+[doigt de mort]: spells_hd.md#doigt-de-mort
+[dominer un humanoïde]: spells_hd.md#dominer-un-humanoïde
+[dominer un monstre]: spells_hd.md#dominer-un-monstre
+[druidisme]: spells_hd.md#druidisme
+[éclair]: spells_hd.md#Éclair
+[enchevêtrement]: spells_hd.md#enchevêtrement
+[épargner les mourants]: spells_hd.md#Épargner-les-mourants
+[esprit impénétrable]: spells_hd.md#esprit-impénétrable
+[esprits gardiens]: spells_hd.md#esprits-gardiens
+[explosion occulte]: spells_hd.md#explosion-occulte
+[festin des héros]: spells_hd.md#festin-des-héros
+[flamboiement funeste]: spells_hd.md#flamboiement-funeste
+[flamme sacrée]: spells_hd.md#flamme-sacrée
+[fléau]: spells_hd.md#fléau
+[fléau d'insectes]: spells_hd.md#fléau-dinsectes
+[flèche acide]: spells_hd.md#flèche-acide
+[flétrissement]: spells_hd.md#flétrissement
+[gardien de la foi]: spells_hd.md#gardien-de-la-foi
+[globe d'invulnérabilité]: spells_hd.md#globe-dinvulnérabilité
+[gourdin magique]: spells_hd.md#gourdin-magique
+[grande foulée]: spells_hd.md#grande-foulée
+[identification]: spells_hd.md#identification
+[illusion mineure]: spells_hd.md#illusion-mineure
+[image majeure]: spells_hd.md#image-majeure
+[image miroir]: spells_hd.md#image-miroir
+[immobilisation de personne]: spells_hd.md#immobilisation-de-personne
+[immobiliser un humanoïde]: spells_hd.md#immobiliser-un-humanoïde
+[injonction]: spells_hd.md#injonction
+[insecte géant]: spells_hd.md#insecte-géant
+[invisibilité]: spells_hd.md#invisibilité
+[invisibilité supérieure]: spells_hd.md#invisibilité-supérieure
+[invoquer des animaux]: spells_hd.md#invoquer-des-animaux
+[jeter une malédiction]: spells_hd.md#jeter-une-malédiction
+[langues]: spells_hd.md#langues
+[légende]: spells_hd.md#légende
+[liberté de mouvement]: spells_hd.md#liberté-de-mouvement
+[localiser un objet]: spells_hd.md#localiser-un-objet
+[lumière]: spells_hd.md#lumière
+[main du mage]: spells_hd.md#main-du-mage
+[malédiction]: spells_hd.md#malédiction
+[manteau de givre]: spells_hd.md#manteau-de-givre
+[messager animal]: spells_hd.md#messager-animal
+[mot de pouvoir étourdissant]: spells_hd.md#mot-de-pouvoir-étourdissant
+[mot de pouvoir mortel]: spells_hd.md#mot-de-pouvoir-mortel
+[mur de force]: spells_hd.md#mur-de-force
+[nuage de mort]: spells_hd.md#nuage-de-mort
+[pas brumeux]: spells_hd.md#pas-brumeux
+[passage sans trace]: spells_hd.md#passage-sans-trace
+[peau de pierre]: spells_hd.md#peau-de-pierre
+[peau d'écorce]: spells_hd.md#peau-décorce
+[poigne électrique]: spells_hd.md#poigne-électrique
+[poison naturel]: spells_hd.md#poison-naturel
+[porte dimensionnelle]: spells_hd.md#porte-dimensionnelle
+[prestidigitation]: spells_hd.md#prestidigitation
+[produire une flamme]: spells_hd.md#produire-une-flamme
+[projectile magique]: spells_hd.md#projectile-magique
+[quête]: spells_hd.md#quête
+[rayon affaiblissant]: spells_hd.md#rayon-affaiblissant
+[rayon de givre]: spells_hd.md#rayon-de-givre
+[réparation]: spells_hd.md#réparation
+[résistance]: spells_hd.md#résistance
+[respiration aquatique]: spells_hd.md#respiration-aquatique
+[restauration inférieure]: spells_hd.md#restauration-inférieure
+[restauration supérieure]: spells_hd.md#restauration-supérieure
+[sanctuaire]: spells_hd.md#sanctuaire
+[scrutation]: spells_hd.md#scrutation
+[silence]: spells_hd.md#silence
+[soin des blessures]: spells_hd.md#soin-des-blessures
+[sommeil]: spells_hd.md#sommeil
+[stalagmites fulgurantes]: spells_hd.md#stalagmites-fulgurantes
+[strangulation]: spells_hd.md#strangulation
+[suggestion]: spells_hd.md#suggestion
+[téléportation]: spells_hd.md#téléportation
+[tempête de grêle]: spells_hd.md#tempête-de-grêle
+[ténèbres]: spells_hd.md#ténèbres
+[thaumaturgie]: spells_hd.md#thaumaturgie
+[toile d'araignée]: spells_hd.md#toile-daraignée
+[vague tonnante]: spells_hd.md#vague-tonnante
+[vision suprême]: spells_hd.md#vision-suprême
+[vol]: spells_hd.md#vol
+[zone de vérité]: spells_hd.md#zone-de-vérité
