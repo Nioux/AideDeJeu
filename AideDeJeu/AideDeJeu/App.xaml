@@ -83,6 +83,24 @@
                 <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
             </OnPlatform>
 
+            <OnPlatform x:Key="LinuxLibertineCapitalsBold" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine Capitals" />
+                <On Platform="Android" Value="LinLibertine_aBS.ttf#Linux Libertine Capitals" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+            </OnPlatform>
+
+            <OnPlatform x:Key="LinuxLibertineCapitalsItal" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine Capitals" />
+                <On Platform="Android" Value="LinLibertine_aSI.ttf#Linux Libertine Capitals" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+            </OnPlatform>
+
+            <OnPlatform x:Key="LinuxLibertineCapitalsBoldItal" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Linux Libertine Capitals" />
+                <On Platform="Android" Value="LinLibertine_aSZI.ttf#Linux Libertine Capitals" />
+                <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_R.ttf#Linux Libertine" />
+            </OnPlatform>
+
             <OnPlatform x:Key="LinuxLibertine" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine" />
                 <On Platform="Android" Value="LinLibertine_R.ttf#Linux Libertine" />
@@ -151,6 +169,30 @@
                 <Setter Property="FontSize" Value="Medium" />
                 <Setter Property="TextColor" Value="{StaticResource contentblack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBoldItal}" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="paragraph">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="serif" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="heading1">
+                <Setter Property="FontSize" Value="26" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="heading2">
+                <Setter Property="FontSize" Value="22" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="heading3">
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
             </Style>
 
             <Style TargetType="NavigationPage">

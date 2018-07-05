@@ -1839,6 +1839,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 
 
 # Dragon blanc vénérable
+- NameVO: [Ancient White Dragon]
 - Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 333 (18d20+144)
@@ -1893,6 +1894,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon blanc adulte
+- NameVO: [Adult White Dragon]
 - Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 200 (16d12+96)
@@ -1947,6 +1949,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon blanc
+- NameVO: [Young White Dragon]
 - Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
@@ -1983,6 +1986,7 @@ Souffle de glace (Recharge 5-6). Le dragon souffle de la glace sur un cône de 9
 
 
 # Dragonnet blanc
+- NameVO: [White Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
@@ -2009,6 +2013,7 @@ Souffle de glace (Recharge 5-6). Le dragon souffle de la glace sur un cône de 4
 
 
 # Dragon bleu vénérable
+- NameVO: [Ancient Blue Dragon]
 - Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
@@ -2061,6 +2066,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon bleu adulte
+- NameVO: [Adult Blue Dragon]
 - Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
@@ -2113,6 +2119,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon bleu
+- NameVO: [Young Blue Dragon]
 - Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
@@ -2145,6 +2152,7 @@ Souffle de foudre (Recharge 5-6). Le dragon souffle de la foudre sur une ligne d
 
 
 # Dragonnet bleu
+- NameVO: [Blue Dragon Wyrmling]
 - Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -2171,6 +2179,7 @@ Souffle de foudre (Recharge 5-6). Le dragon souffle de la foudre sur une ligne d
 
 
 # Dragon noir vénérable
+- NameVO: [Ancient Black Dragon]
 - Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 367 (21d20+147)
@@ -2223,6 +2232,7 @@ Attaque avec les ailes (coûte 2 actions). Le dragon bat violemment des ailes. L
 
 
 # Dragon noir adulte
+- NameVO: [Adult Black Dragon]
 - Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
@@ -2277,6 +2287,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon noir
+- NameVO: [Young Black Dragon]
 - Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -2313,6 +2324,7 @@ Souffle d'acide (Recharge 5-6). Le dragon souffle de l'acide sur une ligne de 9 
 
 
 # Dragonnet noir
+- NameVO: [Black Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
@@ -2343,6 +2355,7 @@ Souffle d'acide (Recharge 5-6). Le dragon souffle de l'acide sur une ligne de 4,
 
 
 # Dragon rouge vénérable
+- NameVO: [Ancient Red Dragon]
 - Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
@@ -2395,6 +2408,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon rouge adulte
+- NameVO: [Adult Red Dragon]
 - Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
@@ -2447,6 +2461,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon rouge
+- NameVO: [Young Red Dragon]
 - Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -2479,6 +2494,7 @@ Souffle de feu (Recharge 5-6). Le dragon souffle du feu sur un cône de 9 mètre
 
 
 # Dragonnet rouge
+- NameVO: [Red Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -2505,6 +2521,7 @@ Souffle de feu (Recharge 5-6). Le dragon souffle du feu sur un cône de 4,50 mè
 
 
 # Dragon vert vénérable
+- NameVO: [Ancient Green Dragon]
 - Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 385 (22d20+154)
@@ -2562,6 +2579,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon vert adulte
+- NameVO: [Adult Green Dragon]
 - Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d12+90)
@@ -2617,6 +2635,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon vert
+- NameVO: [Young Green Dragon]
 - Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -2654,6 +2673,7 @@ Souffle [empoisonné] (Recharge 5-6). Le dragon souffle du gaz [empoisonné] sur
 
 
 # Dragonnet vert
+- NameVO: [Green Dragon Wyrmling]
 - Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 38 (7d8+7)
@@ -2685,6 +2705,7 @@ Souffle [empoisonné] (Recharge 5-6). Le dragon souffle du gaz [empoisonné] sur
 
 
 # Dragon d'airain vénérable
+- NameVO: [Ancient Brass Dragon]
 - Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
@@ -2747,6 +2768,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon d'airain adulte
+- NameVO: [Adult Brass Dragon]
 - Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
@@ -2803,6 +2825,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon d'airain
+- NameVO: [Young Brass Dragon]
 - Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -2839,6 +2862,7 @@ Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 9 mèt
 
 
 # Dragonnet d'airain
+- NameVO: [Brass Dragon Wyrmling]
 - Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 16 (3d8+3)
@@ -2869,6 +2893,7 @@ Souffle soporifique. Le dragon souffle un gaz soporifique sur un cône de 4,50 m
 
 
 # Dragon d'argent vénérable
+- NameVO: [Ancient Silver Dragon]
 - Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 487 (25d20+225)
@@ -2929,6 +2954,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon d'argent adulte
+- NameVO: [Adult Silver Dragon]
 - Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
@@ -2991,6 +3017,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon d'argent
+- NameVO: [Young Silver Dragon]
 - Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
@@ -3027,6 +3054,7 @@ Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 9 mètre
 
 
 # Dragonnet d'argent
+- NameVO: [Silver Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
@@ -3057,6 +3085,7 @@ Souffle paralysant. Le dragon souffle du gaz paralysant sur un cône de 4,50 mè
 
 
 # Dragon de bronze vénérable
+- NameVO: [Ancient Bronze Dragon]
 - Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 444 (24d20+192)
@@ -3119,6 +3148,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon de bronze adulte
+- NameVO: [Adult Bronze Dragon]
 - Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
@@ -3183,6 +3213,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon de bronze
+- NameVO: [Young Bronze Dragon]
 - Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
@@ -3223,6 +3254,7 @@ Souffle répulsif. Le dragon souffle de l'énergie répulsive sur un cône de 9 
 
 
 # Dragonnet de bronze
+- NameVO: [Bronze Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
@@ -3257,6 +3289,7 @@ Souffle répulsif. Le dragon souffle de l'énergie répulsive sur un cône de 9 
 
 
 # Dragon de cuivre vénérable
+- NameVO: [Ancient Copper Dragon]
 - Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 350 (20d20+140)
@@ -3321,6 +3354,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon de cuivre adulte
+- NameVO: [Adult Copper Dragon]
 - Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
@@ -3379,6 +3413,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon de cuivre
+- NameVO: [Young Copper Dragon]
 - Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
@@ -3419,6 +3454,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le jet de sauvegarde
 
 
 # Dragonnet de cuivre
+- NameVO: [Copper Dragon Wyrmling]
 - Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
@@ -3449,6 +3485,7 @@ Souffle ralentissant. Le dragon souffle du gaz sur un cône de 4,50 mètres. Les
 
 
 # Dragon d'or vénérable
+- NameVO: [Ancient Gold Dragon]
 - Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
@@ -3511,6 +3548,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Dragon d'or adulte
+- NameVO: [Adult Gold Dragon]
 - Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
@@ -3575,6 +3613,7 @@ Détecter. Le dragon effectue un test de Sagesse (Perception).
 
 
 # Jeune dragon d'or
+- NameVO: [Young Gold Dragon]
 - Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -3615,6 +3654,7 @@ Souffle de feu. Le dragon souffle du feu sur un cône de 9 mètres. Les créatur
 
 
 # Dragonnet d'or
+- NameVO: [Gold Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
@@ -12451,6 +12491,46 @@ Touché : 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si ell
 
 
 
+[Ancient White Dragon]: monsters_vo.md#ancient-white-dragon
+[Adult White Dragon]: monsters_vo.md#adult-white-dragon
+[Young White Dragon]: monsters_vo.md#young-white-dragon
+[White Dragon Wyrmling]: monsters_vo.md#white-dragon-wyrmling
+[Ancient Blue Dragon]: monsters_vo.md#ancient-blue-dragon
+[Adult Blue Dragon]: monsters_vo.md#adult-blue-dragon
+[Young Blue Dragon]: monsters_vo.md#young-blue-dragon
+[Blue Dragon Wyrmling]: monsters_vo.md#blue-dragon-wyrmling
+[Ancient Black Dragon]: monsters_vo.md#ancient-black-dragon
+[Adult Black Dragon]: monsters_vo.md#adult-black-dragon
+[Young Black Dragon]: monsters_vo.md#young-black-dragon
+[Black Dragon Wyrmling]: monsters_vo.md#black-dragon-wyrmling
+[Ancient Red Dragon]: monsters_vo.md#ancient-red-dragon
+[Adult Red Dragon]: monsters_vo.md#adult-red-dragon
+[Young Red Dragon]: monsters_vo.md#young-red-dragon
+[Red Dragon Wyrmling]: monsters_vo.md#red-dragon-wyrmling
+[Ancient Green Dragon]: monsters_vo.md#ancient-green-dragon
+[Adult Green Dragon]: monsters_vo.md#adult-green-dragon
+[Young Green Dragon]: monsters_vo.md#young-green-dragon
+[Green Dragon Wyrmling]: monsters_vo.md#green-dragon-wyrmling
+[Ancient Brass Dragon]: monsters_vo.md#ancient-brass-dragon
+[Adult Brass Dragon]: monsters_vo.md#adult-brass-dragon
+[Young Brass Dragon]: monsters_vo.md#young-brass-dragon
+[Brass Dragon Wyrmling]: monsters_vo.md#brass-dragon-wyrmling
+[Ancient Silver Dragon]: monsters_vo.md#ancient-silver-dragon
+[Adult Silver Dragon]: monsters_vo.md#adult-silver-dragon
+[Young Silver Dragon]: monsters_vo.md#young-silver-dragon
+[Silver Dragon Wyrmling]: monsters_vo.md#silver-dragon-wyrmling
+[Ancient Bronze Dragon]: monsters_vo.md#ancient-bronze-dragon
+[Adult Bronze Dragon]: monsters_vo.md#adult-bronze-dragon
+[Young Bronze Dragon]: monsters_vo.md#young-bronze-dragon
+[Bronze Dragon Wyrmling]: monsters_vo.md#bronze-dragon-wyrmling
+[Ancient Copper Dragon]: monsters_vo.md#ancient-copper-dragon
+[Adult Copper Dragon]: monsters_vo.md#adult-copper-dragon
+[Young Copper Dragon]: monsters_vo.md#young-copper-dragon
+[Copper Dragon Wyrmling]: monsters_vo.md#copper-dragon-wyrmling
+[Ancient Gold Dragon]: monsters_vo.md#ancient-gold-dragon
+[Adult Gold Dragon]: monsters_vo.md#adult-gold-dragon
+[Young Gold Dragon]: monsters_vo.md#young-gold-dragon
+[Gold Dragon Wyrmling]: monsters_vo.md#gold-dragon-wyrmling
 
 [à terre]: conditions_hd.md#À-terre
 [assourdi]: conditions_hd.md#assourdi

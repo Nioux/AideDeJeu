@@ -408,7 +408,7 @@
                     foreach (var blockpar in cell)
                     {
                         var par = blockpar as Markdig.Syntax.ParagraphBlock;
-                        var style = row.IsHeader ? Theme.TableHeader : Theme.Paragraph;
+                        var style = row.IsHeader ? Theme.TableHeader : Theme.TableCell;
                         var frame = new Frame
                         {
                             BackgroundColor = style.BackgroundColor,

@@ -86,6 +86,14 @@ namespace Xam.Forms.Markdown
                 BackgroundColor = Color.Silver,
             };
 
+            this.TableCell = new MarkdownStyle
+            {
+                Attributes = FontAttributes.None,
+                FontSize = 14,
+                BorderSize = 1,
+                BackgroundColor = Color.White,
+            };
+
             // Platform specific properties
             switch (Device.RuntimePlatform)
             {
@@ -124,6 +132,8 @@ namespace Xam.Forms.Markdown
         public MarkdownStyle Code { get; set; }
 
         public MarkdownStyle TableHeader { get; set; }
+
+        public MarkdownStyle TableCell { get; set; }
 
         public float Margin { get; set; } = 10;
     }

@@ -10,22 +10,28 @@ namespace AideDeJeu.Tools
         public MonsterMarkdownTheme()
         {
             //this.Margin = 0;
-            var fd = FormatedTextHelpers.FontData.FromResource("content");
+            var fdParagraph = FormatedTextHelpers.FontData.FromResource("paragraph");
+            var fdHeading1 = FormatedTextHelpers.FontData.FromResource("heading1");
+            var fdHeading2 = FormatedTextHelpers.FontData.FromResource("heading2");
+            var fdHeading3 = FormatedTextHelpers.FontData.FromResource("heading3");
             //this.Paragraph.FontFamily = fd.FontFamily;
             //this.Paragraph.FontFamily = "Droid Serif";
-            this.Paragraph.FontFamily = "serif";
-            this.Paragraph.FontSize = (float)fd.FontSize;
-            this.Paragraph.Attributes = fd.FontAttributes;
-            this.Paragraph.ForegroundColor = fd.TextColor;
+            this.Paragraph.FontFamily = fdParagraph.FontFamily;
+            this.Paragraph.FontSize = (float)fdParagraph.FontSize;
+            this.Paragraph.Attributes = fdParagraph.FontAttributes;
+            this.Paragraph.ForegroundColor = fdParagraph.TextColor;
 
             this.Paragraph.BackgroundColor = DefaultBackgroundColor;
             this.BackgroundColor = DefaultBackgroundColor;
             //this.Paragraph.ForegroundColor = DefaultTextColor;
             this.Heading1.ForegroundColor = DefaultTextColor;
             this.Heading1.BorderColor = DefaultSeparatorColor;
+            this.Heading1.FontFamily = fdHeading1.FontFamily;
             this.Heading2.ForegroundColor = DefaultTextColor;
             this.Heading2.BorderColor = DefaultSeparatorColor;
+            this.Heading2.FontFamily = fdHeading2.FontFamily;
             this.Heading3.ForegroundColor = DefaultTextColor;
+            this.Heading3.FontFamily = fdHeading3.FontFamily;
             this.Heading4.ForegroundColor = DefaultTextColor;
             this.Heading5.ForegroundColor = DefaultTextColor;
             this.Heading6.ForegroundColor = DefaultTextColor;
