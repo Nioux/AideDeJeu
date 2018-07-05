@@ -256,12 +256,16 @@ namespace AideDeJeu.Tools
                             case "Actions":
                                 features = actions = new List<string>();
                                 break;
+                            case "Réaction":
                             case "Réactions":
                                 features = reactions = new List<string>();
                                 break;
                             case "Actions légendaires":
                             case "Legendary Actions":
                                 features = legendaryActions = new List<string>();
+                                break;
+                            default:
+                                App.Current.MainPage.DisplayAlert("Erreur de parsing", headingBlock.Inline.ToMarkdownString(), "OK");
                                 break;
                         }
                     }
