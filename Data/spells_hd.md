@@ -538,9 +538,9 @@ Vous enveloppez la créature ou l’objet touché d’une illusion, afin que les
 
 Lorsque vous lancez le sort, vous choisissez l’un des effets suivants, ou les deux, qui persistent pendant toute la durée du sort. Si vous lancez ce sort sur la même créature ou le même objet chaque jour pendant 30 jours, en lui attribuant le même effet à chaque fois, l’illusion persiste jusqu’à ce que quelqu’un la dissipe.
 
-**_Aura factice._** Vous modifiez la manière dont la cible apparaît vis-à-vis des sorts et effets magiques détectant les auras magiques, comme détection de la magie. Vous pouvez ainsi faire en sorte qu’un objet magique paraisse dépourvu de magie ou qu’un objet ordinaire semble magique. Vous pouvez aussi modifier l’aura magique de la cible de manière à ce qu’elle paraisse appartenir à l’école de magie de votre choix. Quand vous conférez cet effet à un objet, vous pouvez faire en sorte que la magie factice se manifeste à toute personne qui manipule l’objet.
+**_Aura factice._** Vous modifiez la manière dont la cible apparaît vis-à-vis des sorts et effets magiques détectant les auras magiques, comme _[détection de la magie]_. Vous pouvez ainsi faire en sorte qu’un objet magique paraisse dépourvu de magie ou qu’un objet ordinaire semble magique. Vous pouvez aussi modifier l’aura magique de la cible de manière à ce qu’elle paraisse appartenir à l’école de magie de votre choix. Quand vous conférez cet effet à un objet, vous pouvez faire en sorte que la magie factice se manifeste à toute personne qui manipule l’objet.
 
-**_Masque._** Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme le sens divin d’un paladin ou le déclencheur d’un sort de symbole. Vous choisissez un type de créatures : les autres sorts et effets magiques traitent la cible comme si elle appartenait au type ou à l’alignement choisi.
+**_Masque._** Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme le sens divin d’un paladin ou le déclencheur d’un sort de [symbole]. Vous choisissez un type de créatures : les autres sorts et effets magiques traitent la cible comme si elle appartenait au type ou à l’alignement choisi.
 
 
 
@@ -736,7 +736,7 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 
 # Bouclier
 - NameVO: [Shield](spells_vo.md#shield)
-- CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de projectile magique
+- CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_
 - Components: V, S
 - Duration: 1 round
 - LevelType: Abjuration de niveau 1
@@ -746,7 +746,7 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 
 ### Description
 
-Une barrière [invisible] faite de force magique apparaît autour de vous et vous protège. Jusqu’au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l’attaque qui a déclenché l’incantation du sort, et vous ne subissez aucun dégât de la part du sort projectile magique.
+Une barrière [invisible] faite de force magique apparaît autour de vous et vous protège. Jusqu’au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l’attaque qui a déclenché l’incantation du sort, et vous ne subissez aucun dégât de la part du sort _[projectile magique]_.
 
 
 
@@ -940,7 +940,7 @@ Quand vous lancez ce sort, chaque créature qui se trouve entièrement au sein d
 
 Une créature enfermée dans la cage ne peut pas la quitter par des moyens non-magiques. Si elle tente d’utiliser la téléportation ou les déplacements interplanaires pour s’échapper, elle doit d’abord effectuer un jet de sauvegarde de Charisme. Si elle le réussit, elle peut utiliser cette magie pour fuir, sinon elle ne parvient pas à quitter la cage, et l’utilisation du sort ou de l’effet est gaspillée. La cage s’étend aussi sur le plan éthéré, ce qui bloque les déplacements éthérés.
 
-La dissipation de la magie est sans effet sur ce sort.
+La _[dissipation de la magie]_ est sans effet sur ce sort.
 
 
 
@@ -1118,9 +1118,9 @@ Une sphère d’antimagie [invisible] de 3 mètres de rayon vous entoure. La zon
 
 Les sorts et autres effets magiques, en dehors de ceux émanant d’un artefact ou d’une divinité, sont supprimés au sein de la sphère et ne peuvent pénétrer son espace. Un emplacement utilisé pour lancer un sort ainsi supprimé est tout de même consommé. L’effet ne fonctionne pas tant qu’il est supprimé, mais le temps passé sous suppression est tout de même décompté de sa durée d’efficacité.
 
-**_Effets visant une cible._** Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme projectile magique ou charme-personne, n’ont aucun effet sur cette cible.
+**_Effets visant une cible._** Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme _[projectile magique]_ ou _[charme-personne]_, n’ont aucun effet sur cette cible.
 
-**_Zones de magie._** La zone d’effet d’un sort ou d’un effet magique, comme celle d’une boule de feu, ne peut pas s’étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l’effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d’un mur de feu sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
+**_Zones de magie._** La zone d’effet d’un sort ou d’un effet magique, comme celle d’une _[boule de feu]_, ne peut pas s’étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l’effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d’un _[mur de feu]_ sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
 
 **_Sorts._** Tout sort ou effet magique actif sur une créature ou un objet est supprimé dès qu’elle ou il se trouve à l’intérieur et pendant tout le temps qu’elle ou il y reste.
 
@@ -1132,7 +1132,7 @@ Les propriétés et les pouvoirs d’une arme magique sont supprimés si son uti
 
 **_Créatures et objets._** Une créature ou un objet invoqués ou créés par magie disparaissent temporairement si la sphère les recouvre. Ils réapparaissent instantanément dès que l’espace qu’ils occupent ne se trouve plus au sein de la sphère.
 
-**_Dissipation de la magie._** Les sorts et les effets magiques comme dissipation de la magie n’ont aucun effet sur la sphère. De même, les sphères issues de divers sorts de champ antimagie ne s’annulent pas les unes les autres.
+**_Dissipation de la magie._** Les sorts et les effets magiques comme _[dissipation de la magie]_ n’ont aucun effet sur la sphère. De même, les sphères issues de divers sorts de _[champ antimagie]_ ne s’annulent pas les unes les autres.
 
 
 
@@ -1342,7 +1342,7 @@ Si la créature comprend votre langue, elle doit réussir un jet de sauvegarde d
 
 Vous pouvez lui donner n’importe quel ordre de votre choix, en dehors de ceux qui la mènent directement à la mort. Le sort se termine immédiatement si jamais vous donnez un ordre suicidaire.
 
-Vous pouvez mettre prématurément fin au sort en dépensant une action pour le dissiper. Les sorts lever une malédiction, restauration supérieure et souhait mettent aussi fin à ce sort.
+Vous pouvez mettre prématurément fin au sort en dépensant une action pour le dissiper. Les sorts _[lever une malédiction]_, _[restauration supérieure]_ et _[souhait]_ mettent aussi fin à ce sort.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou 8, il dure 1 an.
 
@@ -1486,7 +1486,7 @@ Les plantes peuvent exécuter d’autres tâches pour vous, si le MJ donne son a
 
 Si une créature végétale se trouve dans la zone, vous pouvez communiquer avec elle comme si vous partagiez un même langage, mais vous ne gagnez pas de capacité magique permettant de l’influencer.
 
-Ce sort permet de libérer une créature [entravée] par les plantes nées d’un sort d’enchevêtrement.
+Ce sort permet de libérer une créature [entravée] par les plantes nées d’un sort d’_[enchevêtrement]_.
 
 
 
@@ -1596,7 +1596,7 @@ Lorsque vous choisissez d’autres effets, ce second compagnon en bénéficie au
 
 Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte.
 
-Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un symbole magique.
+Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un _[symbole]_ magique.
 
 
 
@@ -1705,7 +1705,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 
 Vous contactez mentalement un demi-dieu, l’esprit d’un sage décédé depuis longtemps, ou une autre entité mystérieuse issue d’un autre plan. Le contact avec cette intelligence extraplanaire met votre esprit à rude épreuve et risque même de le briser. Quand vous lancez ce sort, vous devez effectuer un jet de sauvegarde d’intelligence DD 15.
 
-En cas d’échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusqu’à ce que vous ayez bénéficié d’un repos long. Tant que vous êtes fou, vous ne pouvez pas entreprendre la moindre action, vous ne comprenez pas ce que disent les autres créatures, vous êtes incapable de lire et vous ne bredouillez que des paroles insensées. Une tierce personne peut mettre un terme à cet effet en vous ciblant avec un sort de restauration supérieure.
+En cas d’échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusqu’à ce que vous ayez bénéficié d’un repos long. Tant que vous êtes fou, vous ne pouvez pas entreprendre la moindre action, vous ne comprenez pas ce que disent les autres créatures, vous êtes incapable de lire et vous ne bredouillez que des paroles insensées. Une tierce personne peut mettre un terme à cet effet en vous ciblant avec un sort de _[restauration supérieure]_.
 
 Si vous réussissez votre jet de sauvegarde, vous pouvez poser jusqu’à cinq questions à l’entité. Vous devez les poser avant la fin du sort. C’est le MJ qui répond à chacune d’entre elles avec un mot, comme « oui », « non », « peutêtre », « jamais », « hors sujet » ou « incertain » (si l’entité ignore la réponse à votre question). Si une réponse limitée à un seul mot risque de se révéler trompeuse, le MJ peut la remplacer par une courte phrase.
 
@@ -1729,7 +1729,7 @@ La cible doit effectuer un jet de sauvegarde de Constitution à la fin de chacun
 
 Comme le sort déclenche une maladie naturelle chez la cible, tout effet qui guérit une maladie ou améliore ses symptômes s’applique.
 
-**_Bouille-crâne._** La créature a soudain l’esprit enfiévré. Elle souffre d’un désavantage lors des tests d’Intelligence et des jets de sauvegarde d’Intelligence. De plus, au combat, elle se comporte comme si elle était sous l’effet d’un sort de confusion.
+**_Bouille-crâne._** La créature a soudain l’esprit enfiévré. Elle souffre d’un désavantage lors des tests d’Intelligence et des jets de sauvegarde d’Intelligence. De plus, au combat, elle se comporte comme si elle était sous l’effet d’un sort de _[confusion]_.
 
 **_Convulsions._** La créature est agitée de tremblements.
 
@@ -1909,7 +1909,7 @@ L’objet apparaît immédiatement dans votre main, en dépit des distances phys
 
 Si l’objet est actuellement porté ou transporté par quelqu’un d’autre, il n’arrive pas jusqu’à vous quand vous broyez le saphir, mais vous apprenez qui est la créature qui détient l’objet et vous savez à peu près où elle se trouve à ce moment-là.
 
-Dissipation de la magie ou un effet similaire appliqué sur le saphir met un terme à l’effet du sort.
+_[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un terme à l’effet du sort.
 
 
 
@@ -2153,7 +2153,7 @@ Tant que la cible est affectée par ce sort, les autres créatures bénéficient
 
 Choisissez un objet situé à portée et dans votre champ de vision. Ce peut être une porte, une boîte, un coffre, des menottes, un cadenas ou un autre objet disposant d’un système de fermeture ordinaire ou magique.
 
-Une cible fermée par une serrure ordinaire, coincée ou bloquée par une barre se déverrouille ou se débloque. Si l’objet a plusieurs serrures, le sort en ouvre une seule. Si vous visez une cible fermée par un verrou magique, ce dernier est supprimé pendant 10 minutes, au cours desquelles on peut ouvrir et fermer la cible normalement.
+Une cible fermée par une serrure ordinaire, coincée ou bloquée par une barre se déverrouille ou se débloque. Si l’objet a plusieurs serrures, le sort en ouvre une seule. Si vous visez une cible fermée par un _[verrou magique]_, ce dernier est supprimé pendant 10 minutes, au cours desquelles on peut ouvrir et fermer la cible normalement.
 
 Quand vous lancez le sort, un cliquetis émane de l’objet et retentit si fort qu’on l’entend dans un rayon de 90 mètres.
 
@@ -2231,11 +2231,11 @@ De même, le sort n’affecte pas directement la croissance des plantes. La terr
 
 ### Description
 
-Un mince rayon de lumière verte jaillit de votre doigt pointé vers une cible située dans votre champ de vision et à portée. La cible peut être une créature, un objet ou une création de force magique, comme une barrière issue d'un mur de force.
+Un mince rayon de lumière verte jaillit de votre doigt pointé vers une cible située dans votre champ de vision et à portée. La cible peut être une créature, un objet ou une création de force magique, comme une barrière issue d'un _[mur de force]_.
 
 Une créature visée par ce sort doit faire un jet de sauvegarde de Dextérité. Si elle le rate, elle subit 10d6+40 dégâts de force. Si ces dégâts la réduisent à 0 point de vie, elle est désintégrée.
 
-Une créature désintégrée est réduite à l’état de fine poussière grise, tout comme tous les objets qu’elle porte et transporte, à l’exception des objets magiques. Pour ressusciter une créature ainsi désintégrée, il faut impérativement recourir à une résurrection suprême ou un souhait.
+Une créature désintégrée est réduite à l’état de fine poussière grise, tout comme tous les objets qu’elle porte et transporte, à l’exception des objets magiques. Pour ressusciter une créature ainsi désintégrée, il faut impérativement recourir à une _[résurrection suprême]_ ou un _[souhait]_.
 
 Ce sort désintègre automatiquement les objets non magiques de taille G ou inférieure et les créations magiques de force. Si la cible est un objet de taille TG ou supérieure, le sort désintègre un cube de 3 mètres d’arête au sein de l’objet. Ce sort reste sans effet sur les objets magiques.
 
@@ -2705,7 +2705,7 @@ La composante spéciale de cette version du sort est une fine chaîne faite de m
 
 Elle peut se baser sur le nom de la créature, son identité ou sa divinité, mais elle doit sinon reposer sur des actions ou des qualités observables et non sur des éléments intangibles comme le niveau, la classe ou les points de vie.
 
-Dissipation de la magie peut mettre fin au sort à condition d’être lancée depuis un emplacement de sort de niveau 9 en visant la prison ou la composante matérielle spéciale utilisée pour lancer le sort.
+_[Dissipation de la magie]_ peut mettre fin au sort à condition d’être lancée depuis un emplacement de sort de niveau 9 en visant la prison ou la composante matérielle spéciale utilisée pour lancer le sort.
 
 Vous pouvez utiliser une composante spéciale pour créer une prison à la fois seulement. Si vous relancez ce sort en utilisant la même composante, la cible de la première incantation est libérée sur-le-champ.
 
@@ -2743,7 +2743,7 @@ Quand le sort se termine, les plantes invoquées flétrissent.
 
 ### Description
 
-Grâce à ce sort, vous vous attachez de force les services d’un céleste, d’un élémentaire, d’une fée ou d’un fiélon. La créature doit se trouver à portée pendant toute la durée du sort. (En général, elle est d’abord invoquée au centre d’un cercle magique inversé où elle reste piégée le temps de l’incantation.) La cible doit faire un jet de sauvegarde de Charisme à la fin de l’incantation. Si elle échoue, elle est contrainte de vous servir pendant toute la durée du sort. Si elle a été invoquée ou créée via un autre sort, la durée de ce dernier se prolonge jusqu’à égaler celle de l’entrave planaire.
+Grâce à ce sort, vous vous attachez de force les services d’un céleste, d’un élémentaire, d’une fée ou d’un fiélon. La créature doit se trouver à portée pendant toute la durée du sort. (En général, elle est d’abord invoquée au centre d’un _[cercle magique]_ inversé où elle reste piégée le temps de l’incantation.) La cible doit faire un jet de sauvegarde de Charisme à la fin de l’incantation. Si elle échoue, elle est contrainte de vous servir pendant toute la durée du sort. Si elle a été invoquée ou créée via un autre sort, la durée de ce dernier se prolonge jusqu’à égaler celle de l’entrave planaire.
 
 La créature liée doit suivre vos instructions au mieux de ses capacités. Vous pouvez lui demander de vous accompagner lors d’une aventure, de protéger un lieu ou de transmettre un message. La créature suit vos instructions à la lettre mais, si elle est hostile envers vous, elle peut tout à fait interpréter vos paroles de manière à satisfaire ses propres objectifs. Si la créature a exécuté vos instructions avant la fin du sort, elle revient vers vous pour vous en informer si elle se trouve sur le même plan d’existence que vous. Si vous êtes sur un autre plan, elle se rend là où vous l’avez liée et y reste jusqu’à la fin du sort.
 
@@ -2851,7 +2851,7 @@ Vous vous attaquez à l’esprit d’une créature située à portée et dans vo
 
 Si la cible rate son jet, son Intelligence et son Charisme tombent à 1. Elle ne peut plus lancer de sort, activer d’objet magique, comprendre une langue ni communiquer de manière intelligible. En revanche, elle est toujours capable de reconnaître ses amis, de les suivre et même de les protéger.
 
-La créature peut refaire un jet de sauvegarde tous les 30 jours. Le sort se termine dès qu’elle réussit. On peut aussi mettre un terme à ce sort grâce à l’un des sorts suivants : restauration supérieure, guérison ou souhait.
+La créature peut refaire un jet de sauvegarde tous les 30 jours. Le sort se termine dès qu’elle réussit. On peut aussi mettre un terme à ce sort grâce à l’un des sorts suivants : _[restauration supérieure]_, _[guérison]_ ou _[souhait]_.
 
 
 
@@ -2867,7 +2867,7 @@ La créature peut refaire un jet de sauvegarde tous les 30 jours. Le sort se ter
 
 ### Description
 
-Vous touchez une créature consentante et, jusqu’à la fin du sort, vous l’immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l’état [charmé]. Ce sort déjoue même les souhaits et les sorts et effets de même puissance qui cherchent à affecter l’esprit de la cible ou à obtenir des informations à son propos.
+Vous touchez une créature consentante et, jusqu’à la fin du sort, vous l’immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l’état [charmé]. Ce sort déjoue même les _[souhaits]_ et les sorts et effets de même puissance qui cherchent à affecter l’esprit de la cible ou à obtenir des informations à son propos.
 
 
 
@@ -3869,7 +3869,7 @@ Au début de chacun de ses tours, la créature doit réussir un jet de sauvegard
 
 Vous créez un sceau empêchant les déplacements magiques dans une zone de 60 mètres de côté au sol et d’une hauteur de 9 mètres. Pendant toute la durée du sort, les créatures ne peuvent pas se téléporter dans la zone ni y entrer via un portail comme celui issu du sort du même nom.
 
-Le sort protège la zone contre tous les modes de déplacement planaire et empêche donc les créatures d’y entrer en passant par le plan astral, le plan éthéré, la féerie, le plan de l'ombre ou en utilisant un sort de changement de plan.
+Le sort protège la zone contre tous les modes de déplacement planaire et empêche donc les créatures d’y entrer en passant par le plan astral, le plan éthéré, la féerie, le plan de l'ombre ou en utilisant un sort de _[changement de plan]_.
 
 De plus, le sort blesse les créatures des types choisis lors de son incantation. Choisissez un ou plusieurs de ces types : célestes, élémentaires, fées, fiélons, morts-vivants.
 
@@ -4131,7 +4131,7 @@ Vous touchez une créature qui doit réussir un jet de sauvegarde de Sagesse, sa
 
 * Tant que la cible est maudite, vos sorts et vos attaques à son encontre lui infligent 1d8 dégâts nécrotiques supplémentaires.
 
-Le sort lever une malédiction met un terme à cet effet.
+Le sort _[lever une malédiction]_ met un terme à cet effet.
 
 Si le MJ est d’accord, vous pouvez choisir un autre effet de malédiction, mais il ne doit pas être plus puissant que ceux proposés ici. C’est au MJ de décider s’il accepte ou non le nouvel effet de malédiction.
 
@@ -4921,7 +4921,7 @@ Vous devez parler à votre cible pour décrire comment ses souvenirs sont affect
 
 Les souvenirs modifiés ne changent pas forcément l’attitude de la créature, surtout s’ils entrent en contradiction avec ses penchants naturels, son alignement ou ses croyances. Un souvenir modifié illogique sera ignoré : par exemple, si la cible se souvient combien elle a aimé se baigner dans de l’acide, elle prendra cela pour un mauvais rêve. Le MJ peut estimer qu’un souvenir est modifié de manière tellement insensée qu’il n’affecte pas la cible de manière significative.
 
-Un sort lever une malédiction ou restauration supérieure permet à la cible de retrouver ses véritables souvenirs.
+Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la cible de retrouver ses véritables souvenirs.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez modifier les souvenirs d’un événement remontant à 7 jours (niveau 6), 30 jours (niveau 7), 1 an (niveau 8) ou issus de n’importe quelle période du passé de la cible (niveau 9).
 
@@ -5157,7 +5157,7 @@ L’autre face du mur n’inflige pas de dégâts.
 
 Un mur de force [invisible] se matérialise soudain en un point de votre choix situé à portée. Il s’oriente comme bon vous semble, comme une barrière horizontale, verticale ou inclinée. Il peut flotter librement ou reposer sur une surface solide. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d’un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 0,5 centimètre d’épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l’emplacement d’une créature lorsqu’il apparaît, il l’expulse d’un côté ou de l’autre (à vous de choisir).
 
-Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre tous les dégâts et résiste à toute dissipation de la magie. En revanche, on peut le détruire instantanément avec une désintégration. Le mur s’étend également sur le plan éthéré, ce qui empêche de le franchir sous forme éthérée.
+Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre tous les dégâts et résiste à toute _[dissipation de la magie]_. En revanche, on peut le détruire instantanément avec une _[désintégration]_. Le mur s’étend également sur le plan éthéré, ce qui empêche de le franchir sous forme éthérée.
 
 
 
@@ -5257,7 +5257,7 @@ Tant que cette couche est en place, les attaques à distance non magiques ne peu
 
 **_3. Jaune._** La cible subit 10d6 dégâts de foudre si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit. On peut détruire cette couche en lui infligeant au moins 60 dégâts de force.
 
-**_4. Vert._** La cible subit 10d6 dégâts de poison si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit. On peut détruire cette couche grâce à un sort de passe-muraille ou un autre sort d’un niveau égal ou supérieur capable d’ouvrir un portail dans une surface solide.
+**_4. Vert._** La cible subit 10d6 dégâts de poison si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit. On peut détruire cette couche grâce à un sort de _[passe-muraille]_ ou un autre sort d’un niveau égal ou supérieur capable d’ouvrir un portail dans une surface solide.
 
 **_5. Bleu._** La cible subit 10d6 dégâts de froid si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit. On peut détruire cette couche en lui infligeant 25 dégâts de feu.
 
@@ -5265,9 +5265,9 @@ Tant que cette couche est en place, les attaques à distance non magiques ne peu
 
 Les succès et les échecs n’ont pas à être consécutifs : tenez le compte dans chaque catégorie jusqu’à ce que l’une d’elles arrive à trois.
 
-Tant que cette couche est en place, il est impossible de lancer un sort à travers le mur. On peut détruire la couche grâce à la vive lumière d’un sort de lumière du jour ou d’un sort similaire de niveau égal ou supérieur.
+Tant que cette couche est en place, il est impossible de lancer un sort à travers le mur. On peut détruire la couche grâce à la vive lumière d’un sort de _[lumière du jour]_ ou d’un sort similaire de niveau égal ou supérieur.
 
-**_7. Violet._** La cible est [aveuglée] si elle rate son jet de sauvegarde. Elle doit alors faire un jet de sauvegarde de Sagesse au début de votre prochain tour. Si elle le réussit, elle recouvre la vue, si elle le rate, elle est emportée sur un autre plan d’existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d’existence est bannie là-bas, tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) On peut détruire cette couche avec une dissipation de la magie ou un sort similaire de niveau identique ou supérieur, capable de mettre un terme à un sort ou à un effet magique.
+**_7. Violet._** La cible est [aveuglée] si elle rate son jet de sauvegarde. Elle doit alors faire un jet de sauvegarde de Sagesse au début de votre prochain tour. Si elle le réussit, elle recouvre la vue, si elle le rate, elle est emportée sur un autre plan d’existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d’existence est bannie là-bas, tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) On peut détruire cette couche avec une _[dissipation de la magie]_ ou un sort similaire de niveau identique ou supérieur, capable de mettre un terme à un sort ou à un effet magique.
 
 
 
@@ -5521,7 +5521,7 @@ Choisissez autant de créatures situées à portée et dans votre champ de visio
 
 * 20 points de vie ou moins : morte sur-le-champ.
 
-Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s’il ne s’y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d’user d’un souhait.
+Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s’il ne s’y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d’user d’un _[souhait]_.
 
 
 
@@ -5859,7 +5859,7 @@ Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, 
 
 Votre corps tombe en catatonie tandis que votre âme le quitte et pénètre dans le réceptacle utilisé comme composante de sort. Tant qu’elle se trouve là, vous percevez votre environnement comme si votre corps occupait le même espace que le réceptacle. En revanche, vous ne pouvez pas bouger ni utiliser de réaction. Vous ne pouvez accomplir qu’une action : projeter votre âme dans un rayon de 30 mètres au maximum autour du réceptacle, soit pour retourner dans votre corps (ce qui met fin au sort), soit pour prendre possession d’un autre corps humanoïde.
 
-Vous pouvez tenter de prendre possession de n’importe quel humanoïde situé dans votre champ de vision et dans un rayon de 30 mètres (sachant que les créatures protégées par une protection contre le mal et le bien ou par un cercle magique sont immunisées contre la possession). La cible doit faire un jet de sauvegarde de Charisme. Si elle échoue, votre âme s’installe dans son corps et la sienne est prisonnière du réceptacle.
+Vous pouvez tenter de prendre possession de n’importe quel humanoïde situé dans votre champ de vision et dans un rayon de 30 mètres (sachant que les créatures protégées par une _[protection contre le mal et le bien]_ ou par un _[cercle magique]_ sont immunisées contre la possession). La cible doit faire un jet de sauvegarde de Charisme. Si elle échoue, votre âme s’installe dans son corps et la sienne est prisonnière du réceptacle.
 
 Si elle réussit son test, elle résiste à votre tentative de possession et vous ne pouvez plus essayer de la posséder pendant 24 heures.
 
@@ -6031,7 +6031,7 @@ Votre forme astrale se déplace librement sur le plan astral et peut traverser l
 
 Le sort se termine pour vous et vos compagnons dès que vous utilisez une action pour y mettre fin. À ce moment, les créatures affectées regagnent leurs corps physiques, qui se réveillent.
 
-Le sort peut se terminer plus tôt pour vous ou pour l’un de vos camarades. Si quelqu’un réussit une dissipation de la magie contre le corps astral ou physique d’une créature affectée, le sort se termine pour elle seule. Il en va de même si la forme astrale ou le corps physique d’une créature affectée tombe à 0 point de vie. Si le sort se termine alors que le cordon argenté est intact, celui-ci ramène la forme astrale dans le corps physique, mettant un terme à l’état d’animation suspendue.
+Le sort peut se terminer plus tôt pour vous ou pour l’un de vos camarades. Si quelqu’un réussit une _[dissipation de la magie]_ contre le corps astral ou physique d’une créature affectée, le sort se termine pour elle seule. Il en va de même si la forme astrale ou le corps physique d’une créature affectée tombe à 0 point de vie. Si le sort se termine alors que le cordon argenté est intact, celui-ci ramène la forme astrale dans le corps physique, mettant un terme à l’état d’animation suspendue.
 
 Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons restent sous forme astrale et doivent se débrouiller seuls pour regagner leur corps physique, en général en se laissant tomber à 0 point de vie.
 
@@ -6131,23 +6131,23 @@ Protections et sceaux produit les effets suivants dans la zone protégée.
 
 **_Escaliers._** Des toiles d’araignées, comme le sort du même nom, emplissent tous les escaliers de la zone protégée, du sol au plafond. Tant que protections et sceaux persiste, ces fils réapparaissent en 10 minutes si quelqu’un les brûle ou les arrache.
 
-**_Portes._** Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un verrou magique. De plus, vous pouvez recouvrir jusqu’à dix portes d’une illusion (comme la fonction d’objet illusoire du sort illusion mineure), afin de les faire passer pour une section de mur ordinaire.
+**_Portes._** Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un _[verrou magique]_. De plus, vous pouvez recouvrir jusqu’à dix portes d’une illusion (comme la fonction d’objet illusoire du sort _[illusion mineure]_), afin de les faire passer pour une section de mur ordinaire.
 
 **_Autres effets de sort._** Vous pouvez placer l’un des effets suivants, au choix, dans la zone protégée par le sort.
 
-* Placer lumières dansantes dans quatre couloirs.
+* Placer _[lumières dansantes]_ dans quatre couloirs.
 
 Vous pouvez choisir un programme très simple que les lumières suivront pendant toute la durée de protections et sceaux.
 
 * Placer une bouche magique en deux endroits.
 
-* Placer un nuage puant en deux endroits. Les vapeurs apparaissent à l’endroit de votre choix. Tant que protections et sceaux persiste, elles réapparaissent au bout de 10 minutes si le vent les disperse.
+* Placer un _[nuage puant]_ en deux endroits. Les vapeurs apparaissent à l’endroit de votre choix. Tant que protections et sceaux persiste, elles réapparaissent au bout de 10 minutes si le vent les disperse.
 
 * Placer une bourrasque constante dans un couloir ou une pièce.
 
-* Placer une suggestion en un endroit. Choisissez une zone d’au maximum 1,50 mètre de côté : toute créature qui y pénètre ou la traverse reçoit une suggestion mentale.
+* Placer une _[suggestion]_ en un endroit. Choisissez une zone d’au maximum 1,50 mètre de côté : toute créature qui y pénètre ou la traverse reçoit une suggestion mentale.
 
-Toute la zone protégée émet une aura magique. Si quelqu’un lance avec succès une dissipation de la magie sur un effet spécifique, il élimine seulement cet effet.
+Toute la zone protégée émet une aura magique. Si quelqu’un lance avec succès une _[dissipation de la magie]_ sur un effet spécifique, il élimine seulement cet effet.
 
 Vous pouvez protéger une structure en permanence si vous lancez ce sort tous les jours pendant un an.
 
@@ -6675,7 +6675,7 @@ Les ténèbres magiques issues d’un sort de niveau inférieur à celui de l’
 
 Vous protégez une créature à portée contre les attaques.
 
-Jusqu’à la fin du sort, toute créature qui vise la cible avec une attaque ou un sort néfaste doit d’abord effectuer un jet de sauvegarde de Sagesse. Si elle le rate, elle doit choisir une nouvelle cible, sans quoi l’attaque ou le sort est perdu. Ce sort ne protège pas la cible contre les effets de zone, comme l’explosion d’une boule de feu.
+Jusqu’à la fin du sort, toute créature qui vise la cible avec une attaque ou un sort néfaste doit d’abord effectuer un jet de sauvegarde de Sagesse. Si elle le rate, elle doit choisir une nouvelle cible, sans quoi l’attaque ou le sort est perdu. Ce sort ne protège pas la cible contre les effets de zone, comme l’explosion d’une _[boule de feu]_.
 
 Ce sort se termine si la créature protégée attaque ou lance un sort affectant une créature ennemie.
 
@@ -6963,7 +6963,7 @@ Sinon, vous pouvez créer l’un des effets suivants, au choix.
 
 * Vous créez un objet d’une valeur maximale de 25 000 po qui n’a rien de magique. Il doit mesurer au maximum 90 mètres dans chaque dimension et apparaît en un emplacement inoccupé situé au sol et dans votre champ de vision.
 
-* Vous permettez à un maximum de vingt créatures situées dans votre champ de vision de récupérer la totalité de leurs points de vie et vous mettez fin à tous les effets les affectant, tel que décrit dans le sort de restauration supérieure.
+* Vous permettez à un maximum de vingt créatures situées dans votre champ de vision de récupérer la totalité de leurs points de vie et vous mettez fin à tous les effets les affectant, tel que décrit dans le sort de _[restauration supérieure]_.
 
 * Vous conférez à un maximum de dix créatures situées dans votre champ de vision une résistance à un type de dégâts de votre choix.
 
@@ -7049,7 +7049,7 @@ La sphère ne pèse rien et elle est tout juste assez grande pour contenir la cr
 
 Une créature enfermée dans la sphère peut utiliser son action pour exercer une poussée sur la paroi de la sphère et la faire rouler à la moitié de sa vitesse habituelle. De même, une tierce personne peut ramasser la sphère ou la déplacer.
 
-Un sort de désintégration visant la sphère la détruit sans endommager ce qu’elle contient.
+Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce qu’elle contient.
 
 
 
@@ -7711,7 +7711,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 ### Description
 
-Vous touchez une ouverture fermée, comme une porte, une fenêtre, un portail, un coffre ou autre. Elle se verrouille alors pour toute la durée du sort. Vous et toutes les créatures désignées lors de l’incantation du sort pouvez ouvrir l’ouverture normalement. Vous pouvez aussi définir un mot de passe qui, une fois prononcé dans un rayon de 1,50 mètre autour de l’objet fermé, dissipe le sort pendant 1 minute. Sinon, impossible d’ouvrir l’objet à moins de le briser ou de dissiper ou supprimer le sort. Un sort de déblocage supprime le verrou magique pendant 10 minutes.
+Vous touchez une ouverture fermée, comme une porte, une fenêtre, un portail, un coffre ou autre. Elle se verrouille alors pour toute la durée du sort. Vous et toutes les créatures désignées lors de l’incantation du sort pouvez ouvrir l’ouverture normalement. Vous pouvez aussi définir un mot de passe qui, une fois prononcé dans un rayon de 1,50 mètre autour de l’objet fermé, dissipe le sort pendant 1 minute. Sinon, impossible d’ouvrir l’objet à moins de le briser ou de dissiper ou supprimer le sort. Un sort de _[déblocage]_ supprime le verrou magique pendant 10 minutes.
 
 Tant que l’objet est affecté par ce sort, il est bien plus difficile à briser ou à ouvrir de force : le DD pour le briser ou crocheter ses éventuelles serrures augmente de 10.
 
@@ -7874,3 +7874,34 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 [épuisée]: conditions_hd.md#fatigue-et-épuisement
 [épuisés]: conditions_hd.md#fatigue-et-épuisement
 [épuisées]: conditions_hd.md#fatigue-et-épuisement
+
+[boule de feu]: spells_hd.md#boule-de-feu
+[cercle magique]: spells_hd.md#cercle-magique
+[changement de plan]: spells_hd.md#changement-de-plan
+[champ antimagie]: spells_hd.md#champ-antimagie
+[charme-personne]: spells_hd.md#charme-personne
+[confusion]: spells_hd.md#confusion
+[déblocage]: spells_hd.md#déblocage
+[désintégration]: spells_hd.md#désintégration
+[détection de la magie]: spells_hd.md#détection-de-la-magie
+[dissipation de la magie]: spells_hd.md#dissipation-de-la-magie
+[Dissipation de la magie]: spells_hd.md#dissipation-de-la-magie
+[enchevêtrement]: spells_hd.md#enchevêtrement
+[guérison]: spells_hd.md#guérison
+[illusion mineure]: spells_hd.md#illusion-mineure
+[lever une malédiction]: spells_hd.md#lever-une-malédiction
+[lumières dansantes]: spells_hd.md#lumières-dansantes
+[lumière du jour]: spells_hd.md#lumière-du-jour
+[mur de feu]: spells_hd.md#mur-de-feu
+[mur de force]: spells_hd.md#mur-de-force
+[nuage puant]: spells_hd.md#nuage-puant
+[passe-muraille]: spells_hd.md#passe-muraille
+[projectile magique]: spells_hd.md#projectile-magique
+[protection contre le mal et le bien]: spells_hd.md#protection-contre-le-mal-et-le-bien
+[restauration supérieure]: spells_hd.md#restauration-supérieure
+[résurrection suprême]: spells_hd.md#résurrection-suprême
+[souhait]: spells_hd.md#souhait
+[souhaits]: spells_hd.md#souhait
+[suggestion]: spells_hd.md#suggestion
+[symbole]: spells_hd.md#symbole
+[verrou magique]: spells_hd.md#verrou-magique

@@ -6995,30 +6995,30 @@ An affected creature is aware of the spell and can thus avoid answering question
 [Zone de vérité]: spells_hd.md#zone-de-vérité
 
 
-[antimagic field]: #antimagic-field
-[arcane lock]: #arcane-lock
-[charm person]: #charm-person
-[confusion]: #confusion
-[daylight]: #daylight
-[dancing lights]: #dancing-lights
-[detect magic]: #detect-magic
-[disintegrate]: #disintegrate
-[dispel magic]: #dispel-magic
-[entangle]: #entangle
-[fireball]: #fireball
-[greater restoration]: #greater-restoration
-[heal]: #heal
-[knock]: #knock
-[magic missile]: #magic-missile
-[minor illusion]: #minor-illusion
-[passwall]: #passwall
-[plane shift]: #plane-shift
-[protection from evil and good]: #protection-from-evil-and-good
-[remove curse]: #remove-curse
-[stinking cloud]: #stinking-cloud
-[suggestion]: #suggestion
-[true resurrection]: #true-resurrection
-[wall of fire]: #wall-of-fire
-[wall of force]: #wall-of-force
-[web]: #web
-[wish]: #wish
+[antimagic field]: spells_vo.hd#antimagic-field
+[arcane lock]: spells_vo.hd#arcane-lock
+[charm person]: spells_vo.hd#charm-person
+[confusion]: spells_vo.hd#confusion
+[daylight]: spells_vo.hd#daylight
+[dancing lights]: spells_vo.hd#dancing-lights
+[detect magic]: spells_vo.hd#detect-magic
+[disintegrate]: spells_vo.hd#disintegrate
+[dispel magic]: spells_vo.hd#dispel-magic
+[entangle]: spells_vo.hd#entangle
+[fireball]: spells_vo.hd#fireball
+[greater restoration]: spells_vo.hd#greater-restoration
+[heal]: spells_vo.hd#heal
+[knock]: spells_vo.hd#knock
+[magic missile]: spells_vo.hd#magic-missile
+[minor illusion]: spells_vo.hd#minor-illusion
+[passwall]: spells_vo.hd#passwall
+[plane shift]: spells_vo.hd#plane-shift
+[protection from evil and good]: spells_vo.hd#protection-from-evil-and-good
+[remove curse]: spells_vo.hd#remove-curse
+[stinking cloud]: spells_vo.hd#stinking-cloud
+[suggestion]: spells_vo.hd#suggestion
+[true resurrection]: spells_vo.hd#true-resurrection
+[wall of fire]: spells_vo.hd#wall-of-fire
+[wall of force]: spells_vo.hd#wall-of-force
+[web]: spells_vo.hd#web
+[wish]: spells_vo.hd#wish
