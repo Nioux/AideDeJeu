@@ -172,7 +172,7 @@
             </Style>
 
             <Style TargetType="Label"  x:Key="paragraph">
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="16" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>

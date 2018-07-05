@@ -24,13 +24,13 @@ namespace AideDeJeu.Tools
             this.Paragraph.BackgroundColor = DefaultBackgroundColor;
             this.BackgroundColor = DefaultBackgroundColor;
             //this.Paragraph.ForegroundColor = DefaultTextColor;
-            this.Heading1.ForegroundColor = DefaultTextColor;
+            this.Heading1.ForegroundColor = fdHeading1.TextColor;
             this.Heading1.BorderColor = DefaultSeparatorColor;
             this.Heading1.FontFamily = fdHeading1.FontFamily;
-            this.Heading2.ForegroundColor = DefaultTextColor;
+            this.Heading2.ForegroundColor = fdHeading2.TextColor;
             this.Heading2.BorderColor = DefaultSeparatorColor;
             this.Heading2.FontFamily = fdHeading2.FontFamily;
-            this.Heading3.ForegroundColor = DefaultTextColor;
+            this.Heading3.ForegroundColor = fdHeading3.TextColor;
             this.Heading3.FontFamily = fdHeading3.FontFamily;
             this.Heading4.ForegroundColor = DefaultTextColor;
             this.Heading5.ForegroundColor = DefaultTextColor;
