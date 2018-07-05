@@ -7827,6 +7827,7 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 - LevelType: Enchantement de niveau 2
 - Range: 18 mètres
 - Source: (HD)(SRD)
+- Classes: Barde, Clerc, Paladin
 
 ### Description
 
