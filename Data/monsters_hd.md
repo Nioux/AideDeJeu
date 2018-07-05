@@ -7411,13 +7411,13 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
 ## Capacités
 
-Corrosion du métal. Les armes non-magiques en métal rouillent lorsqu'elles entrent en contact avec l'oxydeur. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal qui entrent en contact avec l'oxydeur sont détruites après avoir infligé leurs dégâts.
+**_Corrosion du métal._** Les armes non-magiques en métal rouillent lorsqu'elles entrent en contact avec l'oxydeur. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal qui entrent en contact avec l'oxydeur sont détruites après avoir infligé leurs dégâts.
 
-Flairer le fer. L'oxydeur peut localiser, à l'odeur, l'emplacement de métaux ferreux situé à 9 mètres ou moins de lui.
+**_Flairer le fer._** L'oxydeur peut localiser, à l'odeur, l'emplacement de métaux ferreux situé à 9 mètres ou moins de lui.
 
 ## Actions
 
-Antennes. L'oxydeur corrode un objet non-magique en métal ferreux situé à 1,50 mètre ou moins dans son champ de vision. Le contact détruit 30 centimètres cube de l'objet s'il n'est équipé ou transporté par personne. Si une créature est équipée de cet objet ou le transporte, elle doit réussir un jet de sauvegarde de Dextérité DD 11 pour éviter le contact de l'oxydeur.
+**_Antennes._** L'oxydeur corrode un objet non-magique en métal ferreux situé à 1,50 mètre ou moins dans son champ de vision. Le contact détruit 30 centimètres cube de l'objet s'il n'est équipé ou transporté par personne. Si une créature est équipée de cet objet ou le transporte, elle doit réussir un jet de sauvegarde de Dextérité DD 11 pour éviter le contact de l'oxydeur.
 
 Si l'objet touché est une armure métallique ou un bouclier métallique équipé ou transporté, il subit un malus permanent et cumulatif de -1 à la CA qu'il confère. Une armure dont la CA est réduite à 10 ou un bouclier dont le bonus est réduit à +0 est détruit.
 
@@ -7447,11 +7447,11 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 ## Capacités
 
-Perception des lanceurs de sorts. Le parasite arcanique détecte automatiquement et instantanément les créatures usant de sorts ou de pouvoirs magiques dans un rayon de 36 mètres.
+**_Perception des lanceurs de sorts._** Le parasite arcanique détecte automatiquement et instantanément les créatures usant de sorts ou de pouvoirs magiques dans un rayon de 36 mètres.
 
 **_Résistance à la magie._** Le parasite arcanique a l'avantage sur ses jets de sauvegarde contre les sorts et autres effets magiques.
 
-Agonie explosive. Lorsque le parasite arcanique meurt, il explose en libérant une décharge magique.
+**_Agonie explosive._** Lorsque le parasite arcanique meurt, il explose en libérant une décharge magique.
 
 Chaque créature située à 3 mètres ou moins subit 3d8 points de dégâts dont la nature dépend de la couleur du parasite et seulement la moitié en cas de réussite d'un jet de sauvegarde de Dextérité (DD 11). Couleur du parasites et type de dégâts :
 
@@ -7466,7 +7466,7 @@ Chaque créature située à 3 mètres ou moins subit 3d8 points de dégâts dont
 
 ## Actions
 
-Absorption de la magie. Attaque de corps à corps : +4 au touché, allonge 1,50 mètres, une cible.
+**_Absorption de la magie._** Attaque de corps à corps : +4 au touché, allonge 1,50 mètres, une cible.
 
 _Touché :_ 5 (1d4+2) dégâts perçants et le parasite arcanique s'ancre à sa cible avec son rostre en inoculant une substance salivaire anesthésiante qui rend sa morsure totalement indolore. Si la cible n'est pas consciente de la présence du parasite, elle doit réussir un jet de Sagesse (DD 15) pour ressentir la morsure.
 
@@ -7517,13 +7517,13 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 **_Résistance à la magie._** Le pseudodragon obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
-Sens aiguisés. Le pseudodragon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue, l'odorat ou l'ouïe.
+**_Sens aiguisés._** Le pseudodragon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue, l'odorat ou l'ouïe.
 
 **_Télépathie limitée._** Le pseudodragon peut communiquer par magie des idées, des images et des émotions simples à une créature capable de comprendre une langue et située à 30 mètres ou moins.
 
 ## Actions
 
-Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+**_Dard._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [empoisonnée] pendant 1 heure. Si le jet de sauvegarde échoue de 5 points ou plus, la cible tombe [inconsciente] pour la même durée. Elle reprend ses esprits avant si elle subit des dégâts ou si une autre créature consacre une action à la secouer pour lui faire reprendre conscience.
 
@@ -7552,7 +7552,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 ## Capacités
 
-Immunité limitée à la magie. Le rakshasa ne peut pas être affecté ou détecté par des sorts de niveau 6 ou moins, à moins qu'il ne le souhaite. Il obtient un avantage lors des jets de sauvegarde contre tous les autres sorts et effets magiques.
+**_Immunité limitée à la magie._** Le rakshasa ne peut pas être affecté ou détecté par des sorts de niveau 6 ou moins, à moins qu'il ne le souhaite. Il obtient un avantage lors des jets de sauvegarde contre tous les autres sorts et effets magiques.
 
 **_Incantation innée._** La caractéristique d'incantation du rakshasa est le Charisme (DD du jet de sauvegarde contre les sorts 18, +10 pour toucher avec des attaques de sort). Le rakshasa peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
@@ -7590,11 +7590,11 @@ La malédiction magique prend effet chaque fois que la cible prend un repos cour
 
 ## Capacités
 
-Corps surchauffé. Une créature qui touche le remorhaz ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 10 (3d6) dégâts de feu.
+**_Corps surchauffé._** Une créature qui touche le remorhaz ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 10 (3d6) dégâts de feu.
 
 ## Actions
 
-Engloutir. Le remorhaz effectue une attaque de morsure contre une cible de taille M ou plus petite qu'il empoigne. Si l'attaque réussit, cette créature subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la créature est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du remorhaz et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du remorhaz.
+**_Engloutir._** Le remorhaz effectue une attaque de morsure contre une cible de taille M ou plus petite qu'il empoigne. Si l'attaque réussit, cette créature subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la créature est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du remorhaz et elle subit 21 (6d6) dégâts d'acide au début de chacun des tours du remorhaz.
 
 Si le remorhaz subit 30 dégâts ou plus infligés lors d'un seul tour par une créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 15 à la fin de ce tour pour ne pas régurgiter toutes les créatures englouties qui tombent alors [à terre] dans un emplacement à 3 mètres ou moins du remorhaz.
 
@@ -7634,7 +7634,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 
 _Touché :_ 27 (4d8+9) dégâts perforants.
 
-Serres. Attaque d'arme au corps à corps : +13 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +13 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasion DD 19). Jusqu'à la fin de l'empoignade, la cible est [entravée] et le roc ne peut plus utiliser ses serres sur une autre cible.
 
@@ -7657,11 +7657,11 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasio
 
 ## Capacités
 
-Amphibie limitée. Le sahuagin peut respirer à l'air libre et sous l'eau, mais il a besoin de s'immerger au moins une fois toutes les 4 heures pour éviter de s'asphyxier.
+**_Amphibie limitée._** Le sahuagin peut respirer à l'air libre et sous l'eau, mais il a besoin de s'immerger au moins une fois toutes les 4 heures pour éviter de s'asphyxier.
 
-Frénésie sanguinaire. Le sahuagin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+**_Frénésie sanguinaire._** Le sahuagin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
-Télépathie avec les requins. Grâce à ce pouvoir de télépathie limitée, le sahuagin peut diriger par magie n'importe quel requin situé à 36 mètres ou moins de lui.
+**_Télépathie avec les requins._** Grâce à ce pouvoir de télépathie limitée, le sahuagin peut diriger par magie n'importe quel requin situé à 36 mètres ou moins de lui.
 
 ## Actions
 
@@ -7697,9 +7697,9 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 ## Capacités
 
-Amphibie limitée. Le sahuagin peut respirer à l'air libre et sous l'eau mais il a besoin de s'immerger au moins une fois toutes les 4 heures pour éviter de s'asphyxier.
+**_Amphibie limitée._** Le sahuagin peut respirer à l'air libre et sous l'eau mais il a besoin de s'immerger au moins une fois toutes les 4 heures pour éviter de s'asphyxier.
 
-Morsure de Mikala. Par une action bonus, la prêtresse peut dépenser un emplacement de sort pour que ses attaques au corps à corps infligent par magie 7 (2d6) dégâts radiants supplémentaires à une cible qu'elle parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si la prêtresse dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.
+**_Morsure de Mikala._** Par une action bonus, la prêtresse peut dépenser un emplacement de sort pour que ses attaques au corps à corps infligent par magie 7 (2d6) dégâts radiants supplémentaires à une cible qu'elle parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si la prêtresse dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.
 
 **_Incantation._** La prêtresse est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :
 
@@ -7709,11 +7709,11 @@ Morsure de Mikala. Par une action bonus, la prêtresse peut dépenser un emplace
 
 * **2e niveau (3 emplacements) :** dessiccation, restauration inférieure
 
-3e niveau (2 emplacements) : invoquer des animaux (requin chasseur), esprits gardiens
+* **3e niveau (2 emplacements) :** invoquer des animaux (requin chasseur), esprits gardiens
 
-Frénésie sanguinaire. Le sahuagin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+**_Frénésie sanguinaire._** Le sahuagin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
-Télépathie avec les requins. Grâce à ce pouvoir de télépathie limitée, le sahuagin peut diriger par magie n'importe quel requin situé à 36 mètres ou moins de lui.
+**_Télépathie avec les requins._** Grâce à ce pouvoir de télépathie limitée, le sahuagin peut diriger par magie n'importe quel requin situé à 36 mètres ou moins de lui.
 
 ## Actions
 
@@ -7752,9 +7752,9 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 ## Capacités
 
-Armes surchauffées. Quand la salamandre réussit une attaque avec une arme de corps à corps en métal, celle-ci inflige 3 (1d6) dégâts de feu supplémentaires (inclus dans l'attaque).
+**_Armes surchauffées._** Quand la salamandre réussit une attaque avec une arme de corps à corps en métal, celle-ci inflige 3 (1d6) dégâts de feu supplémentaires (inclus dans l'attaque).
 
-Corps surchauffé. Une créature qui touche la salamandre ou qui réussit une attaque au corps à corps contre elle à une distance maximale de 1,50 mètre subit 7 (2d6) dégâts de feu.
+**_Corps surchauffé._** Une créature qui touche la salamandre ou qui réussit une attaque au corps à corps contre elle à une distance maximale de 1,50 mètre subit 7 (2d6) dégâts de feu.
 
 ## Actions
 
@@ -7795,7 +7795,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
-Coup de bélier. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Coup de bélier._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 6 (2d4+1) dégâts contondants.
 
@@ -7823,17 +7823,17 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 ## Capacités
 
-Apparence trompeuse. Tant que le saule reste immobile et à moins d'être en fleurs, il ne peut pas être distingué d'un arbre ordinaire.
+**_Apparence trompeuse._** Tant que le saule reste immobile et à moins d'être en fleurs, il ne peut pas être distingué d'un arbre ordinaire.
 
 ## Actions
 
 **_Attaques multiples._** Un saule étrangleur effectue autant d'attaques que de cibles présentes dans un rayon de 4,50 mètres autour de lui. Chaque créature ne peut être ciblée qu'une fois par round, soit par un étranglement (une branche), soit par une immobilisation (une racine).
 
-Immobilisation. attaque d'arme au corps à corps : +8 pour toucher, allonge 4,50 m, une cible.
+**_Immobilisation._** attaque d'arme au corps à corps : +8 pour toucher, allonge 4,50 m, une cible.
 
 _Touché :_ 7 (1d4+5) dégâts contondants et la cible est [entravée] à moins de réussir un jet de sauvegarde de Dextérité DD 14.
 
-Étranglement. attaque d'arme au corps à corps : +8 pour toucher, allonge 4,50 m, une cible.
+**_Étranglement._** attaque d'arme au corps à corps : +8 pour toucher, allonge 4,50 m, une cible.
 
 _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du jet d'évasion 15). Une créature [empoignée] ne peut plus respirer et subit 9 (1d8+5) dégâts contondants au début de son tour à moins de réussir un jet de sauvegarde de Constitution DD 14. À son tour, le saule peut cibler une créature déjà [empoignée] avec un nouvel étranglement. Chaque nouvelle attaque réussie implique un jet d'évasion supplémentaire avant de se libérer. Toutefois, les dégâts en début de tour ne se cumulent pas et un seul jet de sauvegarde est nécessaire quel que soit le nombre de branches empoignant la créature.
 
@@ -7873,7 +7873,7 @@ S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature �
 
 Elles en sortent [à terre].
 
-Comprimer. Attaque d'arme au corps à corps : +13 pour toucher, allonge 1,50 m, une créature de taille TG ou plus petite.
+**_Comprimer._** Attaque d'arme au corps à corps : +13 pour toucher, allonge 1,50 m, une créature de taille TG ou plus petite.
 
 _Touché :_ 20 (2d10+9) dégâts contondants plus 17 (2d10+6) dégâts tranchants.
 
@@ -7954,7 +7954,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sau
 
 * **6e niveau (1 emplacement) :** festin des héros
 
-Insondable. Le sphinx est immunisé contre les effets susceptibles de percevoir ses émotions ou de lire ses pensées, ainsi qu'aux sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) effectués pour déterminer les intentions ou la sincérité du sphinx subissent un désavantage.
+**_Insondable._** Le sphinx est immunisé contre les effets susceptibles de percevoir ses émotions ou de lire ses pensées, ainsi qu'aux sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) effectués pour déterminer les intentions ou la sincérité du sphinx subissent un désavantage.
 
 ## Actions
 
@@ -7964,23 +7964,23 @@ Insondable. Le sphinx est immunisé contre les effets susceptibles de percevoir 
 
 _Touché :_ 17 (2d10+6) dégâts tranchants.
 
-Rugissement (3/jour). Le sphinx pousse un rugissement magique. Chaque fois qu'il rugit avant de terminer une période de repos long, le volume sonore du rugissement est plus important et l'effet est différent, comme expliqué plus bas. Les créatures situées à 150 mètres ou moins du sphinx et qui peuvent entendre le rugissement doivent chacune effectuer un jet de sauvegarde.
+**_Rugissement (3/jour)._** Le sphinx pousse un rugissement magique. Chaque fois qu'il rugit avant de terminer une période de repos long, le volume sonore du rugissement est plus important et l'effet est différent, comme expliqué plus bas. Les créatures situées à 150 mètres ou moins du sphinx et qui peuvent entendre le rugissement doivent chacune effectuer un jet de sauvegarde.
 
-Premier rugissement. Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont [terrorisées] pendant 1 minute. Une créature [terrorisée] peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+**_Premier rugissement._** Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont [terrorisées] pendant 1 minute. Une créature [terrorisée] peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-Deuxième rugissement. Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont [assourdies] et [terrorisées] pendant 1 minute. Une créature [terrorisée] est [paralysée] et peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+**_Deuxième rugissement._** Les créatures qui ratent un jet de sauvegarde de Sagesse DD 18 sont [assourdies] et [terrorisées] pendant 1 minute. Une créature [terrorisée] est [paralysée] et peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-Troisième rugissement. Les créatures effectuent chacune un jet de sauvegarde de Constitution DD 18. En cas de jet de sauvegarde raté, une créature subit 44 (8d10) dégâts de tonnerre et tombe [à terre]. En cas de jet de sauvegarde réussi, la créature subit la moitié seulement des dégâts et ne tombe pas [à terre].
+**_Troisième rugissement._** Les créatures effectuent chacune un jet de sauvegarde de Constitution DD 18. En cas de jet de sauvegarde raté, une créature subit 44 (8d10) dégâts de tonnerre et tombe [à terre]. En cas de jet de sauvegarde réussi, la créature subit la moitié seulement des dégâts et ne tombe pas [à terre].
 
 ## Actions légendaires
 
 Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois, et uniquement à la fin du tour d'une autre créature. Le sphinx récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
 
-Attaque de griffe. Le sphinx effectue une attaque de griffe.
+**_Attaque de griffe._** Le sphinx effectue une attaque de griffe.
 
-Lancer un sort (coûte 3 actions). Le sphinx lance un sort choisi parmi ceux de sa liste de sorts préparés, en utilisant un emplacement de sort comme à l'accoutumée.
+**_Lancer un sort (coûte 3 actions)._** Le sphinx lance un sort choisi parmi ceux de sa liste de sorts préparés, en utilisant un emplacement de sort comme à l'accoutumée.
 
-Téléportation (coûte 2 actions). Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+**_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
 # Gynosphinx
@@ -8018,9 +8018,9 @@ Téléportation (coûte 2 actions). Le sphinx se téléporte par magie, avec tou
 
 * **4e niveau (3 emplacements) :** bannissement, invisibilité supérieure
 
-5e niveau (1 emplacement) : légende
+* **5e niveau (1 emplacement) :** légende
 
-Insondable. Le sphinx est immunisé contre les effets susceptibles de percevoir ses émotions ou de lire ses pensées, ainsi qu'aux sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) effectués pour déterminer les intentions ou la sincérité du sphinx subissent un désavantage.
+**_Insondable._** Le sphinx est immunisé contre les effets susceptibles de percevoir ses émotions ou de lire ses pensées, ainsi qu'aux sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) effectués pour déterminer les intentions ou la sincérité du sphinx subissent un désavantage.
 
 ## Actions
 
@@ -8034,11 +8034,11 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 
 Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le sphinx récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
 
-Attaque de griffe. Le sphinx effectue une attaque de griffe.
+**_Attaque de griffe._** Le sphinx effectue une attaque de griffe.
 
-Lancer un sort (coûte 3 actions). Le sphinx lance un sort choisi parmi ceux de sa liste de sorts préparés, en utilisant un emplacement de sort comme à l'accoutumée.
+**_Lancer un sort (coûte 3 actions)._** Le sphinx lance un sort choisi parmi ceux de sa liste de sorts préparés, en utilisant un emplacement de sort comme à l'accoutumée.
 
-Téléportation (coûte 2 actions). Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+**_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
 # Squelette
@@ -8142,7 +8142,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 ## Actions
 
-Succion du sang. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature ;
+**_Succion du sang._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une créature ;
 
 _Touché :_ 5 (1d4+3) dégâts perforants et la strige se fixe sur la cible. Elle n'attaque plus une fois fixée.
 
@@ -8175,11 +8175,11 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 
 ## Actions
 
-Baiser dévitalisant. Le fiélon embrasse une créature consentante ou qu'il a préalablement [charmée]. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie.
+**_Baiser dévitalisant._** Le fiélon embrasse une créature consentante ou qu'il a préalablement [charmée]. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie.
 
 Elle subit 32 (5d10+5) dégâts psychiques en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
 
-Charme. Un humanoïde situé dans le champ de vision du fiélon et à 9 mètres de lui doit réussir un jet de Sagesse DD 15 pour ne pas être [charmé] par magie pendant 1 jour. La cible [charmée] obéit aux ordres verbaux ou télépathiques du fiélon.
+**_Charme._** Un humanoïde situé dans le champ de vision du fiélon et à 9 mètres de lui doit réussir un jet de Sagesse DD 15 pour ne pas être [charmé] par magie pendant 1 jour. La cible [charmée] obéit aux ordres verbaux ou télépathiques du fiélon.
 
 Si la cible subit des blessures ou reçoit un ordre suicidaire, elle peut retenter le jet de sauvegarde et mettre fin à l'effet en cas de réussite. Si la cible réussit le jet de sauvegarde contre l'effet ou si l'effet dont elle est victime prend fin, la cible est immunisée au Charme de ce fiélon pendant 24 heures.
 
@@ -8187,7 +8187,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 
 **_Forme éthérée._** Le fiélon entre par magie dans le plan Éthéré depuis le plan Matériel ou vice versa.
 
-Griffe (forme de fiélon uniquement). Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible ; Touché : 6 (1d6+3) dégâts tranchants.
+**_Griffe (forme de fiélon uniquement)._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible ; Touché : 6 (1d6+3) dégâts tranchants.
 
 
 # Sylvanien
@@ -8225,7 +8225,7 @@ _Touché :_ 16 (3d6+6) dégâts contondants.
 
 _Touché :_ 24 (4d8+6) dégâts contondants.
 
-Animation des arbres (1/jour). Le sylvanien anime par magie un ou deux arbres qu'il peut voir et situés à 18 m ou moins de lui. Ces arbres ont les mêmes statistiques qu'un sylvanien, si ce n'est qu'ils ont une Intelligence et un Charisme de 1, qu'ils ne savent pas parler, et qu'ils n'ont accès qu'à l'action de Coup. Un arbre animé se comporte avec les sylvaniens comme un allié. L'arbre reste animé un jour durant ou jusqu'à sa mort ; jusqu'à ce que le sylvanien meure ou se trouve à plus de 36 m de l'arbre ; ou jusqu'à ce que le sylvanien prenne une action bonus pour le retransformer en arbre inanimé. Si possible, l'arbre prend alors racine.
+**_Animation des arbres (1/jour)._** Le sylvanien anime par magie un ou deux arbres qu'il peut voir et situés à 18 m ou moins de lui. Ces arbres ont les mêmes statistiques qu'un sylvanien, si ce n'est qu'ils ont une Intelligence et un Charisme de 1, qu'ils ne savent pas parler, et qu'ils n'ont accès qu'à l'action de Coup. Un arbre animé se comporte avec les sylvaniens comme un allié. L'arbre reste animé un jour durant ou jusqu'à sa mort ; jusqu'à ce que le sylvanien meure ou se trouve à plus de 36 m de l'arbre ; ou jusqu'à ce que le sylvanien prenne une action bonus pour le retransformer en arbre inanimé. Si possible, l'arbre prend alors racine.
 
 
 # Tarasque
@@ -8248,7 +8248,7 @@ Animation des arbres (1/jour). Le sylvanien anime par magie un ou deux arbres qu
 
 ## Capacités
 
-Carapace réfléchissante. Lancez un d6 chaque fois que la tarasque est la cible d'un sort de projectile magique, d'un sort dont la zone d'effet est une ligne ou d'un sort qui nécessite un jet d'attaque à distance.
+**_Carapace réfléchissante._** Lancez un d6 chaque fois que la tarasque est la cible d'un sort de projectile magique, d'un sort dont la zone d'effet est une ligne ou d'un sort qui nécessite un jet d'attaque à distance.
 
 Sur un résultat de 1 à 5, la tarasque n'est pas affectée. Sur un résultat de 6, elle n'est pas affectée et l'effet est renvoyé vers le lanceur du sort, comme s'il provenait de la tarasque, et le lanceur du sort en devient la cible.
 
@@ -8262,11 +8262,11 @@ Sur un résultat de 1 à 5, la tarasque n'est pas affectée. Sur un résultat de
 
 **_Attaques multiples._** La tarasque peut utiliser sa Présence terrifiante. Elle effectue ensuite cinq attaques : une avec sa morsure, deux avec ses griffes, une avec ses cornes et une avec sa queue. Elle peut utiliser son action Engloutir à la place de sa morsure.
 
-Cornes. Attaque d'arme au corps à corps : +19 pour toucher, allonge 3 m, une cible.
+**_Cornes._** Attaque d'arme au corps à corps : +19 pour toucher, allonge 3 m, une cible.
 
 _Touché :_ 32 (4d10+10) dégâts perforants.
 
-Engloutir. La tarasque effectue une attaque de morsure contre une cible de taille G ou plus petite qu'elle empoigne. Si l'attaque réussit, la cible subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la tarasque et elle subit 56 (16d6) dégâts d'acide au début de chacun des tours de la tarasque.
+**_Engloutir._** La tarasque effectue une attaque de morsure contre une cible de taille G ou plus petite qu'elle empoigne. Si l'attaque réussit, la cible subit les dégâts de la morsure, elle est engloutie et l'empoignade prend fin. Tant qu'elle est engloutie, la cible est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la tarasque et elle subit 56 (16d6) dégâts d'acide au début de chacun des tours de la tarasque.
 
 Si la tarasque subit 60 dégâts ou plus infligés lors d'un seul tour par une créature engloutie, elle doit réussir un jet de sauvegarde de Constitution DD 20 à la fin de ce tour pour ne pas régurgiter toutes les créatures englouties qui tombent alors [à terre] dans un emplacement à 3 mètres ou moins de la tarasque.
 
@@ -8292,9 +8292,9 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 
 **_Attaque._** La tarasque effectue une attaque de griffe ou une attaque de queue.
 
-Déplacement. La tarasque se déplace d'une distance maximale égale à la moitié de sa vitesse.
+**_Déplacement._** La tarasque se déplace d'une distance maximale égale à la moitié de sa vitesse.
 
-Mordre (coûte 2 actions). La tarasque effectue une attaque de morsure ou utilise son action Engloutir.
+**_Mordre (coûte 2 actions)._** La tarasque effectue une attaque de morsure ou utilise son action Engloutir.
 
 
 # Terreur des roches
@@ -8315,7 +8315,7 @@ Mordre (coûte 2 actions). La tarasque effectue une attaque de morsure ou utilis
 
 ## Capacités
 
-Explosion rocheuse. Au premier round de combat, si la terreur des roches était camouflée derrière une paroi rocheuse et la fait exploser avec son attaque d'onde vibratoire, ses adversaires doivent réussir un test de Sagesse (Perception) DD 25 ou être surpris. Les éclats de pierre projetés par l'explosion de la roche infligent 11 (2d10) dégâts contondants supplémentaires aux dégâts normaux de l'onde vibratoire (voir ci-après). Une créature qui n'est pas surprise peut faire un jet de sauvegarde de Dextérité pour subir seulement la moitié des dégâts provoqués par la projection de pierres. La terreur des roches ne fait pas d'autre attaque dans le tour où elle fait exploser une paroi.
+**_Explosion rocheuse._** Au premier round de combat, si la terreur des roches était camouflée derrière une paroi rocheuse et la fait exploser avec son attaque d'onde vibratoire, ses adversaires doivent réussir un test de Sagesse (Perception) DD 25 ou être surpris. Les éclats de pierre projetés par l'explosion de la roche infligent 11 (2d10) dégâts contondants supplémentaires aux dégâts normaux de l'onde vibratoire (voir ci-après). Une créature qui n'est pas surprise peut faire un jet de sauvegarde de Dextérité pour subir seulement la moitié des dégâts provoqués par la projection de pierres. La terreur des roches ne fait pas d'autre attaque dans le tour où elle fait exploser une paroi.
 
 ## Actions
 
@@ -8325,11 +8325,11 @@ Explosion rocheuse. Au premier round de combat, si la terreur des roches était 
 
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
-Pince. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible ;
+**_Pince._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible ;
 
 _Touché :_ 11 (2d6+4) dégâts tranchants.
 
-Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
+**_Onde vibratoire (Recharge 5-6)._** La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
 
 
 # Larve des roches
@@ -8354,7 +8354,7 @@ Onde vibratoire (Recharge 5-6). La terreur des roches produit une onde sur un c�
 
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
-Onde vibratoire (Recharge 5-6). La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
+**_Onde vibratoire (Recharge 5-6)._** La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
 
 
 # Tertre errant
@@ -8388,7 +8388,7 @@ Onde vibratoire (Recharge 5-6). La larve des roches produit une onde sur un côn
 
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
-Enveloppement. Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [aveuglée], [entravée] et incapable de respirer. Elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
+**_Enveloppement._** Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [aveuglée], [entravée] et incapable de respirer. Elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
 
 
 # Torve
@@ -8414,11 +8414,11 @@ Enveloppement. Le tertre errant enveloppe une créature de taille M ou plus peti
 
 **_Odorat et ouïe aiguisés._** Le torve obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Sens diminués. La vision aveugle du torve ne fonctionne plus aussi longtemps qu'il est [assourdi] et incapable d'utiliser son odorat.
+**_Sens diminués._** La vision aveugle du torve ne fonctionne plus aussi longtemps qu'il est [assourdi] et incapable d'utiliser son odorat.
 
 ## Actions
 
-Gourdin à pointes en os. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Gourdin à pointes en os._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
@@ -8445,7 +8445,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 **_Invisibilité._** Le traqueur est [invisible].
 
-Traqueur parfait. Le traqueur se voit désigner une proie par son invocateur. Le traqueur connaît la direction et la distance qui le sépare de sa proie aussi longtemps que les deux se trouvent sur le même plan d'existence. Le traqueur sait également où se trouve son invocateur.
+**_Traqueur parfait._** Le traqueur se voit désigner une proie par son invocateur. Le traqueur connaît la direction et la distance qui le sépare de sa proie aussi longtemps que les deux se trouvent sur le même plan d'existence. Le traqueur sait également où se trouve son invocateur.
 
 ## Actions
 
@@ -8511,17 +8511,17 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 
 ## Capacités
 
-Faiblesses des vampires. Voici les faiblesses du vampire :
+**_Faiblesses des vampires._** Voici les faiblesses du vampire :
 
-Défense d'entrer. Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.
+_Défense d'entrer._ Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.
 
-Blessé par l'eau courante. Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
+_Blessé par l'eau courante._ Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
 
-Pieu dans le coeur. Si une arme perforante en bois est plantée dans son coeur pendant qu'il est [neutralisé] dans son refuge, il est [paralysé] tant que le pieu n'est pas retiré.
+_Pieu dans le coeur._ Si une arme perforante en bois est plantée dans son coeur pendant qu'il est [neutralisé] dans son refuge, il est [paralysé] tant que le pieu n'est pas retiré.
 
-Hypersensibilité à la lumière du soleil. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un désavantage lors des jets d'attaque et des tests de caractéristique.
+_Hypersensibilité à la lumière du soleil._ Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un désavantage lors des jets d'attaque et des tests de caractéristique.
 
-Fuite brumeuse. Quand il tombe à 0 point de vie à l'extérieur de son refuge, à condition qu'il ne soit ni exposé à la lumière du soleil ni immergé dans de l'eau courante, le vampire se transforme en nuage ou en brume (comme décrit dans le trait Métamorphe) au lieu de tomber [inconscient]. Il est détruit s'il ne peut pas se transformer.
+**_Fuite brumeuse._** Quand il tombe à 0 point de vie à l'extérieur de son refuge, à condition qu'il ne soit ni exposé à la lumière du soleil ni immergé dans de l'eau courante, le vampire se transforme en nuage ou en brume (comme décrit dans le trait Métamorphe) au lieu de tomber [inconscient]. Il est détruit s'il ne peut pas se transformer.
 
 Lorsqu'il a 0 point de vie sous forme de brume, le vampire ne peut pas reprendre sa forme de vampire et doit atteindre son refuge en 2 heures ou moins sous peine d'être détruit. Une fois dans son refuge, il prendre sa forme de vampire. Il est ensuite [paralysé] tant qu'il n'a pas récupéré au moins 1 point de vie. Après avoir passé 1 heure dans son refuge avec 0 point de vie, il récupère 1 point de vie.
 
@@ -8539,23 +8539,23 @@ Sous forme de brume, le vampire ne peut plus entreprendre aucune action et ne pe
 
 ## Actions
 
-Attaques multiples (forme de vampire uniquement). Le vampire effectue deux attaques, dont une seule peut être une attaque de morsure.
+**_Attaques multiples (forme de vampire uniquement)._** Le vampire effectue deux attaques, dont une seule peut être une attaque de morsure.
 
-Charme. Le vampire cible un humanoïde situé à 9 mètres ou moins de lui dans son champ de vision. Si elle peut voir le vampire, la cible doit réussir un jet de Sagesse DD 17 contre cette magie pour ne pas être [charmée] par le vampire. La cible [charmée] considère le vampire comme un ami de confiance qu'il faut écouter et protéger. Elle n'est pas sous le contrôle du vampire, mais elle envisage ses requêtes sous le meilleur angle possible et fait office de cible consentante si le vampire souhaite effectuer une attaque de morsure contre elle.
+**_Charme._** Le vampire cible un humanoïde situé à 9 mètres ou moins de lui dans son champ de vision. Si elle peut voir le vampire, la cible doit réussir un jet de Sagesse DD 17 contre cette magie pour ne pas être [charmée] par le vampire. La cible [charmée] considère le vampire comme un ami de confiance qu'il faut écouter et protéger. Elle n'est pas sous le contrôle du vampire, mais elle envisage ses requêtes sous le meilleur angle possible et fait office de cible consentante si le vampire souhaite effectuer une attaque de morsure contre elle.
 
 Chaque fois que le vampire ou ses compagnons font quoi que ce soit de nocif envers la cible, celle-ci peut retenter le jet de sauvegarde et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 Sinon, l'effet dure 24 heures. L'effet peut prendre fin avant si le vampire est détruit, s'il se trouve sur un plan d'existence différent de celui de la cible ou s'il effectue une action bonus pour mettre fin à cet effet.
 
-Frappe à mains nues (forme de vampire uniquement). Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature.
+**_Frappe à mains nues (forme de vampire uniquement)._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 8 (1d8+4) dégâts contondants. Au lieu d'infliger des dégâts, le vampire peut empoigner la cible (évasion DD 18).
 
-Morsure (forme de chauve-souris ou de vampire uniquement). Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature consentante ou une créature [neutralisée], [entravée] ou [empoignée] par le vampire.
+**_Morsure (forme de chauve-souris ou de vampire uniquement)._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une créature consentante ou une créature [neutralisée], [entravée] ou [empoignée] par le vampire.
 
 _Touché :_ 7 (1d6+4) dégâts perforants plus 10 (3d6) dégâts nécrotiques. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis et le vampire récupère un nombre de points de vie égal à ce montant. La réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si l'effet réduit à 0 son total maximum de points de vie. Un humanoïde tué de cette façon puis enterré se relève la nuit suivante sous forme de vampirien contrôlé par le vampire.
 
-Rejetons des ténèbres (1/jour). Le vampire rameute 2d4 nuées de chauve-souris ou de rats, à condition que le soleil soit couché. En plein air, le vampire peut appeler 3d6 loups à la place.
+**_Rejetons des ténèbres (1/jour)._** Le vampire rameute 2d4 nuées de chauve-souris ou de rats, à condition que le soleil soit couché. En plein air, le vampire peut appeler 3d6 loups à la place.
 
 Les créatures rameutées arrivent au bout de 1d4 rounds, se comportent comme des alliés du vampire et obéissent à ses ordres prononcés à voix haute. Les animaux restent pendant 1 heure ou avant si le vampire est détruit ou s'il les révoque par une action bonus.
 
@@ -8563,11 +8563,11 @@ Les créatures rameutées arrivent au bout de 1d4 rounds, se comportent comme de
 
 Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois, et uniquement à la fin du tour d'une autre créature. Le vampire récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
 
-Déplacement. Le vampire se déplace sans provoquer d'attaque d'opportunité d'une distance maximale égale à sa vitesse.
+**_Déplacement._** Le vampire se déplace sans provoquer d'attaque d'opportunité d'une distance maximale égale à sa vitesse.
 
-Frappe à mains nues. Le vampire effectue une frappe à mains nues.
+**_Frappe à mains nues._** Le vampire effectue une frappe à mains nues.
 
-Morsure (coûte 2 actions). Le vampire effectue une attaque de morsure.
+**_Morsure (coûte 2 actions)._** Le vampire effectue une attaque de morsure.
 
 
 # Vampirien
@@ -8590,15 +8590,15 @@ Morsure (coûte 2 actions). Le vampire effectue une attaque de morsure.
 
 ## Capacités
 
-Faiblesses des vampires. Voici les faiblesses du vampirien :
+**_Faiblesses des vampires._** Voici les faiblesses du vampirien :
 
-Défense d'entrer. Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.
+_Défense d'entrer._ Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.
 
-Blessé par l'eau courante. Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
+_Blessé par l'eau courante._ Il subit 20 dégâts d'acide s'il termine son tour dans de l'eau courante.
 
-Pieu dans le coeur. Il est détruit si une arme perforante en bois est plantée dans son coeur pendant qu'il est [neutralisé] dans son refuge.
+_Pieu dans le coeur._ Il est détruit si une arme perforante en bois est plantée dans son coeur pendant qu'il est [neutralisé] dans son refuge.
 
-Hypersensibilité à la lumière du soleil. Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un désavantage lors des jets d'attaque et des tests de caractéristique.
+_Hypersensibilité à la lumière du soleil._ Il subit 20 dégâts radiants quand il commence son tour exposé à la lumière du soleil. Le cas échéant, il subit un désavantage lors des jets d'attaque et des tests de caractéristique.
 
 **_Pattes d'araignée._** Le vampirien peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
 
@@ -8637,7 +8637,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 
 ## Capacités
 
-Cube de vase. Le cube remplit entièrement l'emplacement qu'il occupe. D'autres créatures peuvent entrer dans cet emplacement, mais une créature qui le fait est victime de l'Enveloppement du cube et elle subit un désavantage lors du jet de sauvegarde.
+**_Cube de vase._** Le cube remplit entièrement l'emplacement qu'il occupe. D'autres créatures peuvent entrer dans cet emplacement, mais une créature qui le fait est victime de l'Enveloppement du cube et elle subit un désavantage lors du jet de sauvegarde.
 
 Les créatures à l'intérieur du cube sont toujours visibles, mais elles bénéficient d'un abri total.
 
@@ -8645,11 +8645,11 @@ Une créature située à 1,50 mètre ou moins du cube peut effectuer une action 
 
 Le cube ne peut contenir en même temps qu'une seule créature de taille G ou jusqu'à quatre créatures de taille M ou plus petites.
 
-Transparent. Même quand le cube est à la vue de tous, il faut réussir un test de Sagesse (Perception) DD 15 pour le repérer, à condition qu'il n'attaque pas ni ne se déplace. Une créature qui tente d'entrer dans l'emplacement qu'il occupe sans être consciente de sa présence est surprise par le cube.
+**_Transparent._** Même quand le cube est à la vue de tous, il faut réussir un test de Sagesse (Perception) DD 15 pour le repérer, à condition qu'il n'attaque pas ni ne se déplace. Une créature qui tente d'entrer dans l'emplacement qu'il occupe sans être consciente de sa présence est surprise par le cube.
 
 ## Actions
 
-Enveloppement. Le cube se déplace d'une distance maximale égale à sa vitesse. Pendant ce déplacement, il peut entrer dans les emplacements occupés par des créatures de taille G ou plus petites.
+**_Enveloppement._** Le cube se déplace d'une distance maximale égale à sa vitesse. Pendant ce déplacement, il peut entrer dans les emplacements occupés par des créatures de taille G ou plus petites.
 
 Chaque fois que le cube entre dans l'emplacement d'une créature, celle-ci doit effectuer un jet de sauvegarde de Dextérité DD 12.
 
@@ -8696,7 +8696,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 
 ## Réactions
 
-Division. Quand une gelée de taille M ou plus grande subit des dégâts tranchants ou de foudre, elle se divise en deux nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par la gelée d'origine. La taille des nouvelles gelées est d'une catégorie inférieure à la gelée d'origine.
+**_Division._** Quand une gelée de taille M ou plus grande subit des dégâts tranchants ou de foudre, elle se divise en deux nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par la gelée d'origine. La taille des nouvelles gelées est d'une catégorie inférieure à la gelée d'origine.
 
 
 # Pouding noir
@@ -8718,7 +8718,7 @@ Division. Quand une gelée de taille M ou plus grande subit des dégâts trancha
 
 ## Capacités
 
-Corrosif. Une créature qui touche le pouding ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 4 (1d8) dégâts d'acide. Les armes non-magiques en métal ou en bois qui entrent en contact avec le pouding se corrodent. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal ou en bois qui entrent en contact avec le pouding sont détruites après avoir infligé leurs dégâts.
+**_Corrosif._** Une créature qui touche le pouding ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 4 (1d8) dégâts d'acide. Les armes non-magiques en métal ou en bois qui entrent en contact avec le pouding se corrodent. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal ou en bois qui entrent en contact avec le pouding sont détruites après avoir infligé leurs dégâts.
 
 Le pouding peut ronger une épaisseur de 5 centimètres de bois non-magique en 1 round.
 
@@ -8734,7 +8734,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 
 ## Réactions
 
-Division. Quand un pouding de taille M ou plus grand subit des dégâts tranchants ou de foudre, il se divise en deux nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par le pouding d'origine. La taille des nouveaux poudings est d'une catégorie inférieure à celui d'origine.
+**_Division._** Quand un pouding de taille M ou plus grand subit des dégâts tranchants ou de foudre, il se divise en deux nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par le pouding d'origine. La taille des nouveaux poudings est d'une catégorie inférieure à celui d'origine.
 
 
 # Vase grise
@@ -8757,7 +8757,7 @@ Division. Quand un pouding de taille M ou plus grand subit des dégâts tranchan
 
 ## Capacités
 
-Corrosion du métal. Les armes non-magiques en métal qui entrent en contact avec la vase se corrodent.
+**_Corrosion du métal._** Les armes non-magiques en métal qui entrent en contact avec la vase se corrodent.
 
 Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal qui entrent en contact avec la vase sont détruites après avoir infligé leurs dégâts.
 
@@ -8792,13 +8792,13 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 
 ## Capacités
 
-Fouisseur. Le ver peut traverser la roche solide en creusant à la moitié de sa vitesse de fouissage et en laissait derrière lui un tunnel de 3 mètres de diamètre.
+**_Fouisseur._** Le ver peut traverser la roche solide en creusant à la moitié de sa vitesse de fouissage et en laissait derrière lui un tunnel de 3 mètres de diamètre.
 
 ## Actions
 
 **_Attaques multiples._** Le ver effectue deux attaques : une avec sa morsure et une avec son dard caudal.
 
-Dard caudal. Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une créature.
+**_Dard caudal._** Attaque d'arme au corps à corps : +14 pour toucher, allonge 3 m, une créature.
 
 _Touché :_ 19 (3d6+9) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 19 ; elle subit 42 (12d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -8830,7 +8830,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 
 **_Attaques multiples._** La vouivre effectue deux attaques : une avec sa morsure et une avec son dard caudal. En vol, elle peut utiliser ses griffes à la place de l'une de ses autres attaques.
 
-Dard caudal. Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature.
+**_Dard caudal._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature.
 
 _Touché :_ 11 (2d6+4) dégâts perforants. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 ; elle subit 24 (7d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -8864,7 +8864,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 **_Camouflage dans la rocaille._** Le xorn obtient un avantage lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux.
 
-Perception des trésors. Le xorn peut localiser à l'odeur les pierres et les métaux précieux, tels que les pièces de monnaie et les gemmes, sur une distance maximale de 18 mètres.
+**_Perception des trésors._** Le xorn peut localiser à l'odeur les pierres et les métaux précieux, tels que les pièces de monnaie et les gemmes, sur une distance maximale de 18 mètres.
 
 **_Traverser la terre._** Le xorn peut creuser à travers la terre et la pierre non travaillées et non magiques. Quand il se déplace de cette façon, il ne laisse aucune trace ni tunnel derrière lui.
 
@@ -8901,7 +8901,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 ## Capacités
 
-Robustesse de la non-vie. Si des dégâts réduisent à 0 les points de vie du zombi, celui-ci doit effectuer un jet de sauvegarde de Constitution DD 5 + les dégâts subis, à moins que ces dégâts soient de type radiant ou infligés par un coup critique. En cas de réussite, le zombi tombe à 1 point de vie à la place.
+**_Robustesse de la non-vie._** Si des dégâts réduisent à 0 les points de vie du zombi, celui-ci doit effectuer un jet de sauvegarde de Constitution DD 5 + les dégâts subis, à moins que ces dégâts soient de type radiant ou infligés par un coup critique. En cas de réussite, le zombi tombe à 1 point de vie à la place.
 
 ## Actions
 
@@ -8929,7 +8929,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 ## Capacités
 
-Robustesse de la non-vie. Si des dégâts réduisent à 0 les points de vie du zombi, celui-ci doit effectuer un jet de sauvegarde de Constitution DD 5 + les dégâts subis, à moins que ces dégâts soient de type radiant ou infligés par un coup critique. En cas de réussite, le zombi tombe à 1 point de vie à la place.
+**_Robustesse de la non-vie._** Si des dégâts réduisent à 0 les points de vie du zombi, celui-ci doit effectuer un jet de sauvegarde de Constitution DD 5 + les dégâts subis, à moins que ces dégâts soient de type radiant ou infligés par un coup critique. En cas de réussite, le zombi tombe à 1 point de vie à la place.
 
 ## Actions
 
@@ -8960,7 +8960,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
@@ -8993,7 +8993,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
-Serres. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
@@ -9051,7 +9051,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde 
 
 **_Pattes d'araignée._** L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un test de caractéristique ne soit nécessaire.
 
-Saut éthéré. Par une action bonus, l'araignée peut passer dans le plan Éthéré depuis le plan Matériel ou vice versa.
+**_Saut éthéré._** Par une action bonus, l'araignée peut passer dans le plan Éthéré depuis le plan Matériel ou vice versa.
 
 ## Actions
 
@@ -9177,7 +9177,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 
 ## Actions
 
-Ratissage. Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible.
+**_Ratissage._** Attaque d'arme au corps à corps : +1 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 1 (1d4-1) dégâts tranchants.
 
@@ -9275,7 +9275,7 @@ _Touché :_ 1 dégât perforant.
 
 ## Capacités
 
-Odorat et ouïe aiguisées. La belette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
+**_Odorat et ouïe aiguisées._** La belette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
 
@@ -9439,7 +9439,7 @@ _Touché :_ 1 dégât tranchant.
 
 **_Écholocalisation._** La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [assourdie].
 
-Ouïe aiguisée. La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
+**_Ouïe aiguisée._** La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 ## Actions
 
@@ -9467,7 +9467,7 @@ _Touché :_ 1 dégât perforant.
 
 **_Écholocalisation._** La chauve-souris ne peut plus utiliser sa vision aveugle si elle est [assourdie].
 
-Ouïe aiguisée. La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
+**_Ouïe aiguisée._** La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 ## Actions
 
@@ -9525,9 +9525,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 **_Charge écrasante._** Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être [à terre]. Si la cible est [à terre], le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
-Monture magique. Le cheval de guerre céleste étend sa résistance aux dégâts nécrotique à toute créature qui le monte. De plus il peut utiliser, sur lui-même uniquement, le sort marche sur l'eau. Il doit terminer un repos court avant de pouvoir à nouveau utiliser cette capacité. Le cheval céleste n'accepte de servir de monture que pour des créatures d'alignement Loyal Bon, Neutre Bon ou Loyal Neutre.
+**_Monture magique._** Le cheval de guerre céleste étend sa résistance aux dégâts nécrotique à toute créature qui le monte. De plus il peut utiliser, sur lui-même uniquement, le sort marche sur l'eau. Il doit terminer un repos court avant de pouvoir à nouveau utiliser cette capacité. Le cheval céleste n'accepte de servir de monture que pour des créatures d'alignement Loyal Bon, Neutre Bon ou Loyal Neutre.
 
-Monture d'élite. Le cheval de guerre céleste est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Le cheval de guerre céleste ne peut pas être acheté et ne s'acquiert que par l'intermédiaire d'un appel mystique.
+**_Monture d'élite._** Le cheval de guerre céleste est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Le cheval de guerre céleste ne peut pas être acheté et ne s'acquiert que par l'intermédiaire d'un appel mystique.
 
 Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre céleste, il ne peut pas lui imposer sa volonté, c'est le cheval qui décide de ses propres actions.
 
@@ -9556,7 +9556,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 **_Charge écrasante._** Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être [à terre]. Si la cible est [à terre], le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
-Monture d'élite. Le cheval de guerre lourd est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
+**_Monture d'élite._** Le cheval de guerre lourd est réservé à une élite parmi les paladins : les chevaliers du serment de perfection. Les autres personnages n'ont pas accès à cette monture. Un cheval de guerre lourd ne peut pas être acheté, il s'agit en réalité d'un cheval de guerre ordinaire que le paladin a dressé pour en faire une monture d'exception. Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre lourd, il lui faut une action pour diriger la monture à chaque round.
 
 ## Actions
 
@@ -9628,11 +9628,11 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 
 **_Charge._** Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée [à terre].
 
-Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
+**_Pied sûr._** La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Coup de bélier._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 3 (1d4+1) dégâts contondants.
 
@@ -9656,11 +9656,11 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 
 **_Charge._** Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 5 (2d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
-Pied sûr. La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
+**_Pied sûr._** La chèvre obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Coup de bélier._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
@@ -9741,7 +9741,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
-Téléportation (Recharge 4-6). Le chien se téléporte par magie, avec tous les ses objets équipés et transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 12 mètres. Le chien peut effectuer une attaque de morsure avant ou après s'être téléporté.
+**_Téléportation (Recharge 4-6)._** Le chien se téléporte par magie, avec tous les ses objets équipés et transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 12 mètres. Le chien peut effectuer une attaque de morsure avant ou après s'être téléporté.
 
 
 # Chouette
@@ -9762,13 +9762,13 @@ Téléportation (Recharge 4-6). Le chien se téléporte par magie, avec tous les
 
 ## Capacités
 
-Ouïe et vue aiguisées. La chouette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
+**_Ouïe et vue aiguisées._** La chouette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 
-Repli aérien. La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
+**_Repli aérien._** La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 1 dégât tranchant.
 
@@ -9791,13 +9791,13 @@ _Touché :_ 1 dégât tranchant.
 
 ## Capacités
 
-Ouïe et vue aiguisées. La chouette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
+**_Ouïe et vue aiguisées._** La chouette obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 
-Repli aérien. La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
+**_Repli aérien._** La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 8 (2d6+1) dégâts tranchants.
 
@@ -9851,7 +9851,7 @@ _Touché :_ 1 dégât perforant.
 
 ## Actions
 
-Pince. Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
+**_Pince._** Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 1 dégât contondant.
 
@@ -9878,7 +9878,7 @@ _Touché :_ 1 dégât contondant.
 
 ## Actions
 
-Pince. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Pince._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
@@ -9902,11 +9902,11 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion 
 
 **_Amphibie._** Le crapaud peut respirer à l'air libre et sous l'eau.
 
-Saut sans élan. Le crapaud saute une longueur maximale de 6 mètres et une hauteur maximale de 3 mètres, sans ou avec élan préalable.
+**_Saut sans élan._** Le crapaud saute une longueur maximale de 6 mètres et une hauteur maximale de 3 mètres, sans ou avec élan préalable.
 
 ## Actions
 
-Engloutir. Le crapaud effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du crapaud et elle subit 10 (3d6) dégâts d'acide au début de chacun des tours du crapaud.
+**_Engloutir._** Le crapaud effectue une attaque de morsure contre une cible de taille M ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du crapaud et elle subit 10 (3d6) dégâts d'acide au début de chacun des tours du crapaud.
 
 Si le crapaud meurt, une créature engloutie n'est plus [entravée] à cause de lui et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort [à terre].
 
@@ -9996,7 +9996,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Coup de bélier._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 6 (1d6+3) dégâts contondants.
 
@@ -10027,7 +10027,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
+**_Coup de bélier._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible.
 
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
@@ -10057,11 +10057,11 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 
 ## Actions
 
-Coup de défense. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
+**_Coup de défense._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 19 (3d8+6) dégâts perforants.
 
-Piétinement. Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature [à terre].
+**_Piétinement._** Attaque d'arme au corps à corps : +8 pour toucher, allonge 1,50 m, une créature [à terre].
 
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
@@ -10086,7 +10086,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 
 **_Écholocalisation._** L'épaulard ne peut plus utiliser sa vision aveugle s'il est [assourdi].
 
-Ouïe aiguisée. L'épaulard obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
+**_Ouïe aiguisée._** L'épaulard obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 **_Retenir son souffle._** L'épaulard peut retenir son souffle pendant 30 minutes.
 
@@ -10119,7 +10119,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 1 dégât tranchant.
 
@@ -10202,7 +10202,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 **_Amphibie._** La grenouille peut respirer à l'air libre et sous l'eau.
 
-Saut sans élan. La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
+**_Saut sans élan._** La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
 
 
 # Grenouille géante
@@ -10225,11 +10225,11 @@ Saut sans élan. La grenouille saute une longueur maximale de 3 mètres et une h
 
 **_Amphibie._** La grenouille peut respirer à l'air libre et sous l'eau.
 
-Saut sans élan. La grenouille saute une longueur maximale de 6 mètres et une hauteur maximale de 3 mètres, sans ou avec élan préalable.
+**_Saut sans élan._** La grenouille saute une longueur maximale de 6 mètres et une hauteur maximale de 3 mètres, sans ou avec élan préalable.
 
 ## Actions
 
-Engloutir. La grenouille effectue une attaque de morsure contre une cible de taille P ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la grenouille et elle subit 5 (2d4) dégâts d'acide au début de chacun des tours de la grenouille.
+**_Engloutir._** La grenouille effectue une attaque de morsure contre une cible de taille P ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est [aveuglée] et [entravée], elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la grenouille et elle subit 5 (2d4) dégâts d'acide au début de chacun des tours de la grenouille.
 
 Si la grenouille meurt, une créature engloutie n'est plus [entravée] à cause d'elle et peut s'extirper de la carcasse en dépensant 1,50 mètres de déplacement ; elle en sort [à terre].
 
@@ -10255,7 +10255,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 
 ## Actions
 
-Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+**_Dard._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
@@ -10281,7 +10281,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de s
 
 ## Actions
 
-Serres. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
@@ -10313,7 +10313,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
-Serres. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
@@ -10335,7 +10335,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 ## Capacités
 
-Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** L'hippocampe peut respirer uniquement sous l'eau.
 
 
 # Hippocampe géant
@@ -10357,11 +10357,11 @@ Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
 
 **_Charge._** Si l'hippocampe se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
-Respiration aquatique. L'hippocampe peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** L'hippocampe peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Coup de bélier. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Coup de bélier._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
@@ -10411,7 +10411,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 ## Capacités
 
-Déchaînée. Quand la hyène réduit les points de vie d'une créature à 0 suite à une attaque au corps à corps lors de son tour, elle peut effectuer une action bonus pour se déplacer sur une distance maximale égale à la moitié de sa vitesse et effectuer une attaque de morsure.
+**_Déchaînée._** Quand la hyène réduit les points de vie d'une créature à 0 suite à une attaque au corps à corps lors de son tour, elle peut effectuer une action bonus pour se déplacer sur une distance maximale égale à la moitié de sa vitesse et effectuer une attaque de morsure.
 
 ## Actions
 
@@ -10482,7 +10482,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le lion peut effectuer une attaque de morsure contre elle par une action bonus.
+**_Bond agressif._** Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le lion peut effectuer une attaque de morsure contre elle par une action bonus.
 
 **_Odorat aiguisé._** Le lion obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat. Saut avec élan. Le lion peut sauter une longueur maximale de 7,50 mètres s'il prend un élan de 3 mètres.
 
@@ -10549,7 +10549,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 **_Odorat et ouïe aiguisés._** Le loup obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
-Camouflage dans la neige. Le loup obtient un avantage lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements enneigés.
+**_Camouflage dans la neige._** Le loup obtient un avantage lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements enneigés.
 
 **_Tactique de groupe._** Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
@@ -10559,7 +10559,7 @@ Camouflage dans la neige. Le loup obtient un avantage lors des tests de Dextéri
 
 _Touché :_ 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre].
 
-Souffle glacial (Recharge 5-6). Le loup souffle une bourrasque d'air glacé sur un cône de 4,50 mètres.
+**_Souffle glacial (Recharge 5-6)._** Le loup souffle une bourrasque d'air glacé sur un cône de 4,50 mètres.
 
 Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Dextérité DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -10614,11 +10614,11 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 ## Actions
 
-Coup de défense. Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
+**_Coup de défense._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible.
 
 _Touché :_ 25 (4d8+7) dégâts perforants.
 
-Piétinement. Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature [à terre].
+**_Piétinement._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 1,50 m, une créature [à terre].
 
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
@@ -10688,9 +10688,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sa
 
 ## Capacités
 
-Bête de somme. On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.
+**_Bête de somme._** On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.
 
-Pied sûr. La mule obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
+**_Pied sûr._** La mule obtient un avantage lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [à terre].
 
 ## Actions
 
@@ -10720,13 +10720,13 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 
 **_Écholocalisation._** La nuée ne peut pas utiliser sa vision aveugle si elle est [assourdie].
 
-Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour une chauve-souris de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
+**_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour une chauve-souris de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
 
-Ouïe aiguisée. La nuée obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
+**_Ouïe aiguisée._** La nuée obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +4 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+**_Morsures._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
 _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
@@ -10751,11 +10751,11 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un corbeau de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
+**_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un corbeau de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
 
 ## Actions
 
-Becs. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature dans l'emplacement de la nuée.
+**_Becs._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature dans l'emplacement de la nuée.
 
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
@@ -10779,15 +10779,15 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 ## Capacités
 
-Frénésie sanguinaire. La nuée obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+**_Frénésie sanguinaire._** La nuée obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
-Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un piranhar de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
+**_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un piranhar de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.
 
-Respiration aquatique. La nuée peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** La nuée peut respirer uniquement sous l'eau.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+**_Morsures._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
 _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
@@ -10811,13 +10811,13 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un rat de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+**_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un rat de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 **_Odorat aiguisé._** La nuée obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+**_Morsures._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
@@ -10841,11 +10841,11 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un serpent de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+**_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un serpent de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +6 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+**_Morsures._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un jet de sauvegarde de Constitution DD 10. Elle subit 14 (4d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -10869,29 +10869,29 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 ## Capacités
 
-Nuée. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
+**_Nuée._** La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 ## Actions
 
-Morsures. Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
+**_Morsures._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.
 
 _Touché :_ 10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
-Variante : nuée d'insectes
+**Variante : nuée d'insectes**
 
 Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et chacun possède les caractéristiques spéciales indiquées ci-dessous.
 
-Nuée de scarabées. Une nuée de scarabées dispose d'une vitesse de fouissement de 1,50 mètre.
+**_Nuée de scarabées._** Une nuée de scarabées dispose d'une vitesse de fouissement de 1,50 mètre.
 
-Nuée de mille-pattes. Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais [empoisonnée] pendant une heure, même après avoir récupéré des points de vie. Elle est [paralysée] tant qu'elle est ainsi [empoisonnée].
+**_Nuée de mille-pattes._** Si une créature tombe à 0 point de vie à cause d'une nuée de millepattes, elle est stable mais [empoisonnée] pendant une heure, même après avoir récupéré des points de vie. Elle est [paralysée] tant qu'elle est ainsi [empoisonnée].
 
-Nuée d'araignée. Une nuée d'araignée possède les traits supplémentaires suivants.
+**_Nuée d'araignée._** Une nuée d'araignée possède les traits supplémentaires suivants.
 
 **_Pattes d'araignée._** La nuée gravit des surfaces difficile et se déplace au plafond la tête en bas sans avoir besoin de faire de test de caractéristique.
 
 **_Marche dans les toiles._** La nuée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 
-Nuée de guêpes. Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
+**_Nuée de guêpes._** Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
 
 
 # Ours brun
@@ -11011,7 +11011,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée [à terre]. Si la cible est [à terre], la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+**_Bond agressif._** Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 12 pour ne pas être jetée [à terre]. Si la cible est [à terre], la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
 
 **_Odorat aiguisé._** La panthère obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -11044,15 +11044,15 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-Camouflage sous l'eau. La pieuvre obtient un avantage lors des tests de Dextérité (Discrétion) effectués sous l'eau.
+**_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de Dextérité (Discrétion) effectués sous l'eau.
 
-Respiration aquatique. La pieuvre peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** La pieuvre peut respirer uniquement sous l'eau.
 
 **_Retenir son souffle._** La pieuvre peut retenir son souffle pendant 30 minutes lorsqu'elle n'est plus dans l'eau.
 
 ## Actions
 
-Nuage d'encre (Recharge après un repos court ou long). Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 1,50 mètre autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
+**_Nuage d'encre (Recharge après un repos court ou long)._** Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 1,50 mètre autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
 
 **_Tentacules._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
@@ -11077,15 +11077,15 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 
 ## Capacités
 
-Camouflage sous l'eau. La pieuvre obtient un avantage lors des tests de Dextérité (Discrétion) effectués sous l'eau.
+**_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de Dextérité (Discrétion) effectués sous l'eau.
 
-Respiration aquatique. La pieuvre peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** La pieuvre peut respirer uniquement sous l'eau.
 
 **_Retenir son souffle._** La pieuvre peut retenir son souffle pendant 1 heure lorsqu'elle n'est plus dans l'eau.
 
 ## Actions
 
-Nuage d'encre (Recharge après un repos court ou long). Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 6 mètres autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
+**_Nuage d'encre (Recharge après un repos court ou long)._** Lorsqu'elle est sous l'eau, la pieuvre répand un nuage d'encre sur un rayon de 6 mètres autour d'elle. La visibilité dans la zone est fortement obstruée pendant 1 minute mais un courant significatif peut disperser l'encre. Après avoir répandu son nuage, la pieuvre peut effectuer l'action Se précipiter par une action bonus.
 
 **_Tentacules._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 4,50 m, une cible.
 
@@ -11111,9 +11111,9 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 
 ## Capacités
 
-Frénésie sanguinaire. Le piranha obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+**_Frénésie sanguinaire._** Le piranha obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
-Respiration aquatique. Le piranha peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** Le piranha peut respirer uniquement sous l'eau.
 
 ## Actions
 
@@ -11223,7 +11223,7 @@ _Touché :_ 1 dégât perforant.
 
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
-Variante : rats géants malades
+**Variante : rats géants malades**
 
 Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsure. Un rat géant malade a un indice de dangerosité de 1/8 (25 PX) et dispose de l'action décrite ci-dessous à la place de son attaque de morsure.
 
@@ -11249,9 +11249,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 ## Capacités
 
-Frénésie sanguinaire. Le requin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+**_Frénésie sanguinaire._** Le requin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
-Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** Le requin peut respirer uniquement sous l'eau.
 
 ## Actions
 
@@ -11278,7 +11278,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 
 ## Capacités
 
-Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** Le requin peut respirer uniquement sous l'eau.
 
 **_Tactique de groupe._** Le requin obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du requin, qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
@@ -11307,9 +11307,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 ## Capacités
 
-Frénésie sanguinaire. Le requin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+**_Frénésie sanguinaire._** Le requin obtient un avantage lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
-Respiration aquatique. Le requin peut respirer uniquement sous l'eau.
+**_Respiration aquatique._** Le requin peut respirer uniquement sous l'eau.
 
 ## Actions
 
@@ -11369,7 +11369,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 
 ## Actions
 
-Défense. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Défense._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
@@ -11397,7 +11397,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 ## Actions
 
-Défense. Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
+**_Défense._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
@@ -11419,7 +11419,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 ## Actions
 
-Dard. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature.
+**_Dard._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 9. Elle subit 4 (1d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -11443,11 +11443,11 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde 
 
 **_Attaques multiples._** Le scorpion effectue trois attaques : deux avec ses pinces et une avec son dard.
 
-Dard. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+**_Dard._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 12. Elle subit 22 (4d10) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-Pince. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+**_Pince._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
@@ -11469,7 +11469,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 
 ## Actions
 
-Comprimer. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+**_Comprimer._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 14). Jusqu'au terme de cette empoignade, la créature est [entravée] et le serpent ne peut pas comprimer une autre cible.
 
@@ -11496,7 +11496,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 ## Actions
 
-Comprimer. Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
+**_Comprimer._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 13 (2d8+4) dégâts contondants et la cible est [empoignée] (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est [entravée] et le serpent ne peut pas comprimer une autre cible.
 
@@ -11569,7 +11569,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté et la m
 
 ## Capacités
 
-Repli aérien. Le serpent ne provoque pas d'attaque d'opportunité quand il passe hors de portée de l'allonge d'un ennemi.
+**_Repli aérien._** Le serpent ne provoque pas d'attaque d'opportunité quand il passe hors de portée de l'allonge d'un ennemi.
 
 ## Actions
 
@@ -11625,7 +11625,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 
 ## Capacités
 
-Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le tigre peut effectuer une attaque de morsure contre elle par une action bonus.
+**_Bond agressif._** Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre]. Si la cible est [à terre], le tigre peut effectuer une attaque de morsure contre elle par une action bonus.
 
 **_Odorat aiguisé._** Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -11658,7 +11658,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 
 ## Capacités
 
-Bond agressif. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre]. Si la cible est [à terre], la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
+**_Bond agressif._** Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 14 pour ne pas être jetée [à terre]. Si la cible est [à terre], la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
 
 **_Odorat aiguisé._** Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -11732,7 +11732,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 _Touché :_ 7 (2d4+2) dégâts perforants.
 
-Serres. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
+**_Serres._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
@@ -11786,7 +11786,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 * **Tours de magie (à volonté) :** flamme sacrée, lumière, thaumaturgie
 
-1er niveau (3 emplacements) : bénédiction, sanctuaire, soin des blessures
+* **1er niveau (3 emplacements) :** bénédiction, sanctuaire, soin des blessures
 
 ## Actions
 
@@ -11829,15 +11829,15 @@ L'archimage peut lancer déguisement et invisibilité à volonté et dispose des
 
 * **4e niveau (3 emplacements) :** bannissement, bouclier de feu, peau de pierre*
 
-5e niveau (3 emplacements) : cône de froid, mur de force, scrutation
+* **5e niveau (3 emplacements) :** cône de froid, mur de force, scrutation
 
 * **6e niveau (1 emplacement) :** globe d'invulnérabilité
 
-7e niveau (1 emplacement) : téléportation
+* **7e niveau (1 emplacement) :** téléportation
 
-8e niveau (1 emplacement) : esprit impénétrable*
+* **8e niveau (1 emplacement) :** esprit impénétrable*
 
-9e niveau (1 emplacement) : arrêt du temps
+* **9e niveau (1 emplacement) :** arrêt du temps
 
 (*) L'archimage lance ces sorts sur lui-même avant un combat.
 
@@ -11870,15 +11870,15 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 ## Capacités
 
-Assassinat. Pendant son premier tour, l'assassin obtient un avantage lors des jets d'attaque effectués contre une créature qui n'a pas encore joué son tour. Toutes les attaques réussies par l'assassin contre une créature surprise sont des coups critiques.
+**_Assassinat._** Pendant son premier tour, l'assassin obtient un avantage lors des jets d'attaque effectués contre une créature qui n'a pas encore joué son tour. Toutes les attaques réussies par l'assassin contre une créature surprise sont des coups critiques.
 
 **_Attaque sournoise._** Une fois par tour, l'assassin inflige 14 (4d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas [neutralisé], et que l'assassin ne subit pas de désavantage lors du jet d'attaque.
 
-Dérobade. Si l'assassin est victime d'un effet qui l'autorise à effectuer un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, l'assassin ne subit, lui, aucun dégât en cas de jet de sauvegarde réussi et la moitié seulement en cas d'échec.
+**_Dérobade._** Si l'assassin est victime d'un effet qui l'autorise à effectuer un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, l'assassin ne subit, lui, aucun dégât en cas de jet de sauvegarde réussi et la moitié seulement en cas d'échec.
 
 ## Actions
 
-Arbalète légère. Attaque d'arme à distance : +6 pour toucher, portée 24/96 m, une cible.
+**_Arbalète légère._** Attaque d'arme à distance : +6 pour toucher, portée 24/96 m, une cible.
 
 _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 15. Elle subit 24 (7d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
@@ -11906,7 +11906,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un jet de s
 
 ## Actions
 
-Arbalète légère. Attaque d'arme à distance : +3 pour toucher, portée 24/96 m, une cible.
+**_Arbalète légère._** Attaque d'arme à distance : +3 pour toucher, portée 24/96 m, une cible.
 
 _Touché :_ 5 (1d8+1) dégâts perforants.
 
@@ -11972,7 +11972,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 ## Réactions
 
-Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
+**_Parade._** Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
 # Chevalier
@@ -11993,11 +11993,11 @@ Parade. Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui 
 
 ## Capacités
 
-Brave. Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [terrorisé].
+**_Brave._** Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [terrorisé].
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance : +2 pour toucher, portée 30/120 m, une cible.
+**_Arbalète lourde._** Attaque d'arme à distance : +2 pour toucher, portée 30/120 m, une cible.
 
 _Touché :_ 5 (1d10) dégâts perforants.
 
@@ -12007,11 +12007,11 @@ _Touché :_ 5 (1d10) dégâts perforants.
 
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
-Meneur d'hommes (Recharge après un repos court ou long). Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est [neutralisé].
+**_Meneur d'hommes (Recharge après un repos court ou long)._** Pendant 1 minute, le chevalier peut prononcer un ordre ou un avertissement spécial chaque fois qu'une créature non-hostile située à 9 mètres ou moins dans son champ de vision effectue un jet d'attaque ou de sauvegarde. La créature peut ajouter un d4 à son jet, à condition qu'elle puisse entendre et comprendre le chevalier. Une créature ne peut bénéficier que d'un seul dé de meneur d'hommes à la fois. Cet effet prend fin si le chevalier est [neutralisé].
 
 ## Réactions
 
-Parade. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon. 
+**_Parade._** Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon. 
 
 
 # Druide
@@ -12042,7 +12042,7 @@ Parade. Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui 
 
 ## Actions
 
-Bâton. Attaque d'arme au corps à corps : +2 pour toucher (+4 pour toucher avec gourdin magique), allonge 1,50 m, une cible.
+**_Bâton._** Attaque d'arme au corps à corps : +2 pour toucher (+4 pour toucher avec gourdin magique), allonge 1,50 m, une cible.
 
 _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8+2) dégâts contondants avec gourdin magique.
 
@@ -12064,7 +12064,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 
 ## Capacités
 
-Distinction divine. Par une action bonus, l'ecclésiastique peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts radiants supplémentaires à une cible qu'il parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si le clerc dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.
+**_Distinction divine._** Par une action bonus, l'ecclésiastique peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts radiants supplémentaires à une cible qu'il parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si le clerc dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.
 
 **_Incantation._** L'ecclésiastique est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort).
 
@@ -12076,11 +12076,11 @@ Voici ses sorts de clerc préparés :
 
 * **2e niveau (3 emplacements) :** arme spirituelle, restauration inférieure
 
-3e niveau (2 emplacements) : dissipation de la magie, esprits gardiens
+* **3e niveau (2 emplacements) :** dissipation de la magie, esprits gardiens
 
 ## Actions
 
-Masse d'armes. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
+**_Masse d'armes._** Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 3 (1d6) dégâts contondants.
 
@@ -12103,7 +12103,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 
 ## Capacités
 
-Ouïe et vue aiguisées. L'éclaireur obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
+**_Ouïe et vue aiguisées._** L'éclaireur obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 
 ## Actions
 
@@ -12136,9 +12136,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-Action fourbe. À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi Se précipiter, Se désengager ou Se cacher.
+**_Action fourbe._** À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi Se précipiter, Se désengager ou Se cacher.
 
-Attaque sournoise (1/tour). L'espion inflige 7 (2d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas [neutralisé] et que l'espion ne subit pas de désavantage lors du jet d'attaque.
+**_Attaque sournoise (1/tour)._** L'espion inflige 7 (2d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il obtient un avantage lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas [neutralisé] et que l'espion ne subit pas de désavantage lors du jet d'attaque.
 
 ## Actions
 
@@ -12231,7 +12231,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 ## Capacités
 
-Brave. Le gladiateur obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [terrorisé].
+**_Brave._** Le gladiateur obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [terrorisé].
 
 **_Brutal._** Une arme de corps à corps inflige un dé supplémentaire de ses dégâts quand le gladiateur réussit une attaque en la maniant (inclus dans l'attaque).
 
@@ -12239,7 +12239,7 @@ Brave. Le gladiateur obtient un avantage lors des jets de sauvegarde effectués 
 
 **_Attaques multiples._** Le gladiateur effectue trois attaques au corps à corps ou deux attaques à distance.
 
-Coup de bouclier. Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature.
+**_Coup de bouclier._** Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 9 (2d4+4) dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée [à terre].
 
@@ -12249,7 +12249,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 
 ## Réactions
 
-Parade. Le gladiateur ajoute 3 à sa CA contre une attaque au corps à corps qui devrait le toucher.
+**_Parade._** Le gladiateur ajoute 3 à sa CA contre une attaque au corps à corps qui devrait le toucher.
 
 Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
@@ -12311,7 +12311,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 * **4e niveau (3 emplacements) :** invisibilité supérieure, tempête de grêle
 
-5e niveau (1 emplacement) : cône de froid
+* **5e niveau (1 emplacement) :** cône de froid
 
 ## Actions
 
@@ -12342,13 +12342,13 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance : +2 pour toucher, portée 30/120 m, une cible.
+**_Arbalète lourde._** Attaque d'arme à distance : +2 pour toucher, portée 30/120 m, une cible.
 
 _Touché :_ 5 (1d10) dégâts perforants.
 
 **_Attaques multiples._** Le malfrat effectue deux attaques au corps à corps.
 
-Masse d'armes. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
+**_Masse d'armes._** Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature.
 
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
@@ -12399,13 +12399,13 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 ## Actions
 
-Rapière. Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
+**_Rapière._** Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 5 (1d8+1) dégâts perforants.
 
 ## Réactions
 
-Parade. Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
+**_Parade._** Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
 # Roturier
@@ -12448,7 +12448,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 ## Actions
 
-Arbalète lourde. Attaque d'arme à distance : +3 pour toucher, portée 30/120 m, une cible.
+**_Arbalète lourde._** Attaque d'arme à distance : +3 pour toucher, portée 30/120 m, une cible.
 
 _Touché :_ 6 (1d10+1) dégâts perforants.
 
