@@ -4369,6 +4369,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 
 
 # Garde animé
+- NameVO: [Shield Guardian](monsters_vo.md#shield-guardian)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
@@ -4809,6 +4810,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
 # Gnome des profondeurs (svirfneblin)
+- NameVO: [Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)
 - Humanoïde (gnome) de taille P, Neutre Bon
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 16 (3d6+6)
@@ -5566,6 +5568,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 
 # Hibours
+- NameVO: [Owlbear](monsters_vo.md#owlbear)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d10+21)
@@ -6883,6 +6886,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 
 
 # Momie auguste
+- NameVO: [Mummy Lord](monsters_vo.md#mummy-lord)
 - Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
@@ -7152,6 +7156,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 
 
 # Tapis étrangleur
+- NameVO: [Rug of Smothering](monsters_vo.md#rug-of-smothering)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 33 (6d10)
@@ -8075,6 +8080,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
 # Squelette cheval de guerre
+- NameVO: [Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)
 - Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 13 (débris de barde)
 - **Points de vie** 22 (3d10+6)
@@ -8099,6 +8105,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
 # Squelette minotaure
+- NameVO: [Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)
 - Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 67 (9d10+18)
@@ -8131,6 +8138,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
 # Strige
+- NameVO: [Stirge](monsters_vo.md#stirge)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 2 (1d4)
@@ -8156,6 +8164,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 
 
 # Succube/Incube
+- NameVO: [Succubus](monsters_vo.md#succubus)
 - Fiélon (métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 66 (12d8+12)
@@ -8915,6 +8924,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 
 # Zombi ogre
+- NameVO: [Ogre Zombie](monsters_vo.md#ogre-zombie)
 - Mort-vivant de taille G, Neutre Mauvais
 - **Classe d'armure** 8
 - **Points de vie** 85 (9d10+36)
@@ -11237,6 +11247,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 
 # Requin chasseur
+- NameVO: [Hunter Shark](monsters_vo.md#hunter-shark)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
@@ -12158,6 +12169,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
 # Fanatique de secte
+- NameVO: [Cult Fanatic](monsters_vo.md#cult-fanatic)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
@@ -12360,6 +12372,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 
 
 # Membre de secte
+- NameVO: [Cultist](monsters_vo.md#cultist)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 9 (2d8)
