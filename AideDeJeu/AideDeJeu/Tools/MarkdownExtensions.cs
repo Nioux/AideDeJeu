@@ -650,11 +650,11 @@ namespace AideDeJeu.Tools
                 var title = linkInline.Title;
                 if (!string.IsNullOrEmpty(title))
                 {
-                    add += string.Format($"[{label}]({url} \"{title}\")");
+                    add += $"[{label}]({url} \"{title}\")";
                 }
                 else
                 {
-                    add += string.Format($"[{label}]({url})");
+                    add += $"[{label}]({url})";
                 }
             }
             else if (inline is Markdig.Syntax.Inlines.ContainerInline)
@@ -736,119 +736,6 @@ namespace AideDeJeu.Tools
                 }
             }
             return table;
-        }
-
-        public static string ToMarkdownString(this IEnumerable<Spell> spells)
-        {
-            var md = string.Empty;
-            foreach (var spell in spells.OrderBy(s => s.Name))
-            {
-                md += spell.ToMarkdownString();
-            }
-
-            return md;
-        }
-        public static string ToMarkdownString(this Spell spell)
-        {
-            var md = string.Empty;
-            md += string.Format("# {0}\n", spell.Name);
-            md += string.Format("- NameVO: [{0}]\n", spell.NameVO);
-            md += string.Format("- CastingTime: {0}\n", spell.CastingTime);
-            md += string.Format("- Components: {0}\n", spell.Components);
-            md += string.Format("- Duration: {0}\n", spell.Duration);
-            md += string.Format("- LevelType: {0}\n", spell.LevelType);
-            md += string.Format("- Range: {0}\n", spell.Range);
-            var regex = new Regex("(?<source>\\(.*\\)) (?<classes>.*)");
-            var match = regex.Match(spell.Source);
-            var source = match.Groups["source"].Value;
-            var classes = match.Groups["classes"].Value;
-            md += string.Format("- Source: {0}\n", source);
-            md += string.Format("- Classes: {0}\n", classes.Replace(" ;", ",").Trim().Trim(','));
-            md += "\n";
-            md += "### Description\n\n";
-            md += spell
-                .DescriptionHtml
-                ;
-            md += string.Format("[{0}]: spells_hd.md#{1}\n", spell.NameVO, Helpers.IdFromName(spell.NameVO));
-            md += "\n\n";
-            return md;
-        }
-
-        public static string ToMarkdownString(this IEnumerable<Monster> monsters)
-        {
-            var md = string.Empty;
-            foreach (var monster in monsters)
-            {
-                md += monster.ToMarkdownString();
-            }
-            return md;
-        }
-        public static string ToMarkdownString(this Monster monster)
-        {
-            var md = string.Empty;
-            md += string.Format("# {0}\n", monster.Name?.Trim());
-            md += string.Format("- NameVO: [{0}]\n", monster.NameVO?.Trim());
-            md += string.Format("- {0} {1}, {2}\n", monster.Size?.Trim(), monster.Type?.Trim(), monster.Alignment?.Trim());
-            if (monster.ArmorClass != null) md += string.Format("- **Armor Class** {0}\n", monster.ArmorClass?.Trim());
-            if (monster.HitPoints != null) md += string.Format("- **Hit Points** {0}\n", monster.HitPoints?.Trim());
-            if (monster.Speed != null) md += string.Format("- **Speed** {0}\n", monster.Speed?.Trim());
-            md += "\n";
-            md += "|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |\n";
-            md += "| ---   | ---   | ---   | ---   | ---   | ---   |\n";
-            md += string.Format("|{0,7}|{1,7}|{2,7}|{3,7}|{4,7}|{5,7}|\n", monster.Strength?.Trim(), monster.Dexterity?.Trim(), monster.Constitution?.Trim(), monster.Intelligence?.Trim(), monster.Wisdom?.Trim(), monster.Charisma?.Trim());
-            md += "\n";
-            if (monster.SavingThrows != null) md += string.Format("- **Saving Throws** {0}\n", monster.SavingThrows?.Trim());
-            if (monster.Skills != null) md += string.Format("- **Skills** {0}\n", monster.Skills?.Trim());
-            if (monster.Senses != null) md += string.Format("- **Senses** {0}\n", monster.Senses?.Trim());
-            if (monster.Languages != null) md += string.Format("- **Languages** {0}\n", monster.Languages?.Trim());
-            if (monster.Challenge != null) md += string.Format("- **Challenge** {0}\n", monster.Challenge?.Trim());
-
-            if (monster.ConditionImmunities != null) md += string.Format("- **Condition Immunities** {0}\n", monster.ConditionImmunities?.Trim());
-            if (monster.DamageImmunities!= null) md += string.Format("- **Damage Immunities** {0}\n", monster.DamageImmunities?.Trim());
-            if (monster.DamageResistances != null) md += string.Format("- **Damage Resistances** {0}\n", monster.DamageResistances?.Trim());
-            if (monster.DamageVulnerabilities != null) md += string.Format("- **Damage Vulnerabilities** {0}\n", monster.DamageVulnerabilities?.Trim());
-
-            md += "\n";
-
-            if (monster.SpecialFeatures != null)
-            {
-                md += "### Special Features\n\n";
-                foreach (var specialFeature in monster.SpecialFeatures)
-                {
-                    md += HtmlToMarkdownString(specialFeature);
-                }
-            }
-
-            if (monster.Actions != null)
-            {
-                md += "### Actions\n\n";
-                foreach (var action in monster.Actions)
-                {
-                    md += HtmlToMarkdownString(action);
-                }
-            }
-
-            if (monster.Reactions != null)
-            {
-                md += "### Reactions\n\n";
-                foreach (var reaction in monster.Reactions)
-                {
-                    md += HtmlToMarkdownString(reaction);
-                }
-            }
-
-            if (monster.LegendaryActions != null)
-            {
-                md += "### Legendary Actions\n\n";
-                foreach (var legendaryAction in monster.LegendaryActions)
-                {
-                    md += HtmlToMarkdownString(legendaryAction);
-                }
-            }
-
-            md += string.Format("[{0}]: monsters_hd.md#{1}\n", monster.NameVO, Helpers.IdFromName(monster.NameVO));
-            md += "\n\n";
-            return md;
         }
 
         public static string HtmlToMarkdownString(string html)
