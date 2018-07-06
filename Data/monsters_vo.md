@@ -27,9 +27,13 @@
 
 **_Multiattack_**. The aboleth makes three tentacle attacks.
 
-**_Tentacle_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by _[heal]_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+**_Tentacle_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +9 to hit, reach 10 ft. one target. _Hit_: 15 (3d6 + 5) bludgeoning damage.
+_Hit_: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by _[heal]_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+
+**_Tail_**. Melee Weapon Attack: +9 to hit, reach 10 ft. one target.
+
+_Hit_: 15 (3d6 + 5) bludgeoning damage.
 
 **_Enslave (3/Day)_**. The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
@@ -72,7 +76,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Club_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
+**_Club_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d4) bludgeoning damage.
 
 [Acolyte]: monsters_hd.md#acolyte
 
@@ -99,7 +105,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Talons_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) slashing damage.
+**_Talons_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d4 + 2) slashing damage.
 
 [Aigle]: monsters_hd.md#aigle
 
@@ -128,9 +136,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The eagle makes two attacks: one with its beak and one with its talons.
 
-**_Beak_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage.
+**_Beak_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Talons_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
+_Hit_: 6 (1d6 + 3) piercing damage.
+
+**_Talons_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage.
 
 [Aigle géant]: monsters_hd.md#aigle-géant
 
@@ -157,9 +169,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (1d8 + 4) slashing damage.
 
 [Allosaure]: monsters_hd.md#allosaure
 
@@ -208,7 +224,9 @@ Cantrips (at will): _[sacred flame], [spare the dying], [thaumaturgy]_
 
 **_Multiattack_**. The sphinx makes two claw attacks.
 
-**_Claw_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. _Hit_: 17 (2d10 + 6) slashing damage.
+**_Claw_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+
+_Hit_: 17 (2d10 + 6) slashing damage.
 
 **_Roar (3/Day)_**. The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
@@ -248,7 +266,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.
 
 **_Acid Spray (Recharge 6)_**. The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
 
@@ -272,7 +292,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Tail_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+**_Tail_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+_Hit_: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
 [Ankylosaure]: monsters_hd.md#ankylosaure
 
@@ -303,7 +325,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
 [Araignée]: monsters_hd.md#araignée
 
@@ -334,7 +358,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 [Araignée de phase]: monsters_hd.md#araignée-de-phase
 
@@ -365,9 +391,13 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
 
-**_Web (Recharge 5-6)_**. Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. _Hit_: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+_Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+
+**_Web (Recharge 5-6)_**. Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature.
+
+_Hit_: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
 [Araignée géante]: monsters_hd.md#araignée-géante
 
@@ -398,7 +428,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 [Araignée-loup géante]: monsters_hd.md#araignée-loup-géante
 
@@ -426,7 +458,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Slam_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 14 (3d6 + 4) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+_Hit_: 14 (3d6 + 4) bludgeoning damage.
 
 [Arbre éveillé]: monsters_hd.md#arbre-éveillé
 
@@ -454,7 +488,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Rake_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) slashing damage.
+**_Rake_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target.
+
+_Hit_: 1 (1d4 - 1) slashing damage.
 
 [Arbuste éveillé]: monsters_hd.md#arbuste-éveillé
 
@@ -506,7 +542,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 ## Actions
 
-**_Dagger_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Dagger_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 4 (1d4 + 2) piercing damage.
 
 [Archimage]: monsters_hd.md#archimage
 
@@ -537,7 +575,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 **_Multiattack_**. The armor makes two melee attacks.
 
-**_Slam_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) bludgeoning damage.
 
 [Armure animée]: monsters_hd.md#armure-animée
 
@@ -572,9 +612,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 **_Multiattack_**. The assassin makes two shortsword attacks.
 
-**_Shortsword_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Shortsword_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Light Crossbow_**. Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+_Hit_: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+
+**_Light Crossbow_**. Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target.
+
+_Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
 [Assassin]: monsters_hd.md#assassin
 
@@ -606,7 +650,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 ## Actions
 
-**_Warhammer_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+**_Warhammer_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
 [Azer]: monsters_hd.md#azer
 
@@ -632,7 +678,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [sho
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target.
+
+_Hit_: 1 (1d4 - 1) piercing damage.
 
 [Babouin]: monsters_hd.md#babouin
 
@@ -664,7 +712,9 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.
 
-**_Bites_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.
+**_Bites_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature.
+
+_Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.
 
 **_Blinding Spittle (Recharge 5-6)_**. The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be [blinded](conditions_vo.md#blinded) until the end of the mouther's next turn.
 
@@ -703,9 +753,13 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The balor makes two attacks: one with its longsword and one with its whip.
 
-**_Longsword_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
+**_Longsword_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
 
-**_Whip_**. Melee Weapon Attack: +14 to hit, reach 30 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
+_Hit_: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.
+
+**_Whip_**. Melee Weapon Attack: +14 to hit, reach 30 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.
 
 **_Teleport_**. The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
@@ -729,9 +783,13 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) slashing damage.
+**_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Light Crossbow_**. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
+_Hit_: 4 (1d6 + 1) slashing damage.
+
+**_Light Crossbow_**. Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target.
+
+_Hit_: 5 (1d8 + 1) piercing damage.
 
 [Bandit]: monsters_hd.md#bandit
 
@@ -757,9 +815,13 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 
-**_Scimitar_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
+**_Scimitar_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Dagger_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage.
+_Hit_: 6 (1d6 + 3) slashing damage.
+
+**_Dagger_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 5 (1d4 + 3) piercing damage.
 
 **_Parry_**. The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
@@ -792,7 +854,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Corrupting Touch_**. Melee Spell Attack: +4 to hit, reach 5 ft., one target. _Hit_: 12 (3d6 + 2) necrotic damage.
+**_Corrupting Touch_**. Melee Spell Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 12 (3d6 + 2) necrotic damage.
 
 **_Horrifying Visage_**. Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
 
@@ -822,7 +886,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
 [Basilic]: monsters_hd.md#basilic
 
@@ -844,7 +910,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) slashing damage.
+**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d8 + 2) slashing damage.
 
 [Bec de hache]: monsters_hd.md#bec-de-hache
 
@@ -871,7 +939,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage.
 
 [Belette]: monsters_hd.md#belette
 
@@ -898,7 +968,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d4 + 3) piercing damage.
 
 [Belette géante]: monsters_hd.md#belette-géante
 
@@ -924,7 +996,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 9 (1d12 + 3) slashing damage.
+**_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (1d12 + 3) slashing damage.
 
 [Berserker]: monsters_hd.md#berserker
 
@@ -950,7 +1024,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
+**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage.
 
 [Blaireau]: monsters_hd.md#blaireau
 
@@ -978,9 +1054,13 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The badger makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) slashing damage.
+_Hit_: 4 (1d6 + 1) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (2d4 + 1) slashing damage.
 
 [Blaireau géant]: monsters_hd.md#blaireau-géant
 
@@ -1010,9 +1090,13 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 12 (2d8 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
 
-**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_Hit_: 12 (2d8 + 3) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 [Blême]: monsters_hd.md#blême
 
@@ -1040,7 +1124,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) piercing damage.
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 3 (1d4 + 1) piercing damage.
 
 [Buisson infecté]: monsters_hd.md#buisson-infecté
 
@@ -1067,7 +1153,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft, one target. _Hit_: 30 (4d12 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft, one target.
+
+_Hit_: 30 (4d12 + 4) piercing damage.
 
 **_Deadly Leap_**. If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the bulette's space.
 
@@ -1095,9 +1183,13 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The behir makes two attacks: one with its bite and one to constrict.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 22 (3d10 + 6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Constrict_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature. _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
+_Hit_: 22 (3d10 + 6) piercing damage.
+
+**_Constrict_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one Large or smaller creature.
+
+_Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.
 
 **_Lightning Breath (Recharge 5-6)_**. The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
@@ -1130,11 +1222,17 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
-**_Pike_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage.
+**_Pike_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+_Hit_: 9 (1d10 + 4) piercing damage.
 
-**_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
+
+**_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage.
 
 [Centaure]: monsters_hd.md#centaure
 
@@ -1163,7 +1261,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 1 (1d4 - 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target.
+
+_Hit_: 1 (1d4 - 1) piercing damage.
 
 [Chacal]: monsters_hd.md#chacal
 
@@ -1185,7 +1285,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d4) bludgeoning damage.
 
 [Chameau]: monsters_hd.md#chameau
 
@@ -1212,7 +1314,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
+**_Claws_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target.
+
+_Hit_: 1 slashing damage.
 
 [Chat]: monsters_hd.md#chat
 
@@ -1240,7 +1344,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage.
+**_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature.
+
+_Hit_: 1 piercing damage.
 
 [Chauve-souris]: monsters_hd.md#chauve-souris
 
@@ -1268,7 +1374,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Chauve-souris géante]: monsters_hd.md#chauve-souris-géante
 
@@ -1294,7 +1402,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 [Cheval de guerre]: monsters_hd.md#cheval-de-guerre
 
@@ -1316,7 +1426,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d4 + 3) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 [Cheval de selle]: monsters_hd.md#cheval-de-selle
 
@@ -1338,7 +1450,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (2d4 + 4) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (2d4 + 4) bludgeoning damage.
 
 [Cheval de trait]: monsters_hd.md#cheval-de-trait
 
@@ -1367,9 +1481,13 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The knight makes two melee attacks.
 
-**_Greatsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
+**_Greatsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Heavy Crossbow_**. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. _Hit_: 5 (1d10) piercing damage.
+_Hit_: 10 (2d6 + 3) slashing damage.
+
+**_Heavy Crossbow_**. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target.
+
+_Hit_: 5 (1d10) piercing damage.
 
 **_Leadership (Recharges after a Short or Long Rest)_**. For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 
@@ -1395,7 +1513,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d4) piercing damage.
 
 [Cerf]: monsters_hd.md#cerf
 
@@ -1424,7 +1544,9 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The dog makes two bite attacks.
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
 [Chien du trépas]: monsters_hd.md#chien-du-trépas
 
@@ -1451,7 +1573,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) piercing damage.
 
 **_Teleport (Recharge 4-6)_**. The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
 
@@ -1478,11 +1602,17 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Horns_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 10 (1d12 + 4) bludgeoning damage.
+_Hit_: 11 (2d6 + 4) piercing damage.
 
-**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+**_Horns_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (1d12 + 4) bludgeoning damage.
+
+**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 **_Fire Breath (Recharge 5-6)_**. The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -1513,7 +1643,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
+**_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 1 slashing damage.
 
 [Chouette]: monsters_hd.md#chouette
 
@@ -1542,7 +1674,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
+**_Talons_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (2d6 + 1) slashing damage.
 
 [Chouette géante]: monsters_hd.md#chouette-géante
 
@@ -1574,7 +1708,9 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Multiattack_**. The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
 
-**_Pincer_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.
+**_Pincer_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.
 
 **_Tentacles_**. One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -1604,7 +1740,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) bludgeoning damage.
+**_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 [Chèvre]: monsters_hd.md#chèvre
 
@@ -1632,7 +1770,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d4 + 3) bludgeoning damage.
+**_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 [Chèvre géante]: monsters_hd.md#chèvre-géante
 
@@ -1654,7 +1794,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+_Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
 [Cockatrice]: monsters_hd.md#cockatrice
 
@@ -1681,7 +1823,9 @@ Speed reduced to 0 until the start of its next turn.
 
 ## Actions
 
-**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
+**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage.
 
 [Corbeau]: monsters_hd.md#corbeau
 
@@ -1720,9 +1864,13 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. _Hit_: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+**_Bite_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature.
 
-**_Constrict_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one Medium or smaller creature. _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
+_Hit_: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+
+**_Constrict_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one Medium or smaller creature.
+
+_Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
 
 **_Change Shape_**. The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice). In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
 
@@ -1751,7 +1899,9 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 ## Actions
 
-**_Claw_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target.
+
+_Hit_: 1 bludgeoning damage.
 
 [Crabe]: monsters_hd.md#crabe
 
@@ -1778,7 +1928,9 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 ## Actions
 
-**_Claw_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+**_Claw_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
 [Crabe géant]: monsters_hd.md#crabe-géant
 
@@ -1806,7 +1958,9 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 
 **_Swallow_**. The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
@@ -1859,7 +2013,9 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
 [Crocodile]: monsters_hd.md#crocodile
 
@@ -1888,9 +2044,13 @@ At will: _[detect evil and good], [detect magic], [detect thoughts]_
 
 **_Multiattack_**. The crocodile makes two attacks: one with its bite and one with its tail.
 
-**_Bite_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+**_Bite_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+_Hit_: 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+
+**_Tail_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile.
+
+_Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 
 [Crocodile géant]: monsters_hd.md#crocodile-géant
 
@@ -1935,7 +2095,9 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The flameskull uses Fire Ray twice.
 
-**_Fire Ray_**. Ranged Spell Attack: +5 to hit, range 30 ft., one target. _Hit_: 10 (3d6) fire damage.
+**_Fire Ray_**. Ranged Spell Attack: +5 to hit, range 30 ft., one target.
+
+_Hit_: 10 (3d6) fire damage.
 
 [Crânefeu]: monsters_hd.md#crânefeu
 
@@ -1963,7 +2125,9 @@ Cantrip (at will): _[mage hand]_
 
 ## Actions
 
-**_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) acid damage.
+**_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 10 (3d6) acid damage.
 
 **_Engulf_**. The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw. On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it. An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 
@@ -1993,9 +2157,13 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The cyclops makes two greatclub attacks.
 
-**_Greatclub_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 19 (3d8 + 6) bludgeoning damage.
+**_Greatclub_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. _Hit_: 28 (4d10 + 6) bludgeoning damage.
+_Hit_: 19 (3d8 + 6) bludgeoning damage.
+
+**_Rock_**. Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target.
+
+_Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 [Cyclope]: monsters_hd.md#cyclope
 
@@ -2024,7 +2192,9 @@ Cantrip (at will): _[mage hand]_
 
 ## Actions
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
 **_Ethereal Stride_**. The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
 
@@ -2062,11 +2232,17 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
-**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage.
+**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage.
+_Hit_: 6 (1d6 + 3) piercing damage.
 
-**_Hurl Flame_**. Ranged Spell Attack: +5 to hit, range 150 ft., one target. _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+**_Tail_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) piercing damage.
+
+**_Hurl Flame_**. Ranged Spell Attack: +5 to hit, range 150 ft., one target.
+
+_Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 
 [Diable barbelé]: monsters_hd.md#diable-barbelé
 
@@ -2101,9 +2277,13 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The devil makes two attacks: one with its beard and one with its glaive.
 
-**_Beard_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Beard_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
 
-**_Glaive_**. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+_Hit_: 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**_Glaive_**. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+
+_Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 
 [Diable barbu]: monsters_hd.md#diable-barbu
 
@@ -2136,11 +2316,17 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 
-**_Fork_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 15 (2d8 + 6) piercing damage.
+**_Fork_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+_Hit_: 15 (2d8 + 6) piercing damage.
 
-**_Hurl Flame_**. Ranged Spell Attack: +7 to hit, range 150 ft., one target. _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+**_Tail_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+_Hit_: 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+**_Hurl Flame_**. Ranged Spell Attack: +7 to hit, range 150 ft., one target.
+
+_Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 
 [Diable cornu]: monsters_hd.md#diable-cornu
 
@@ -2173,7 +2359,9 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The devil makes two attacks with its chains.
 
-**_Chain_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
+**_Chain_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
 
 **_Animate Chains (Recharges after a Short or Long Rest)_**. Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried. Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 
@@ -2210,11 +2398,17 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
+_Hit_: 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.
 
-**_Tail_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
+**_Claws_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.
+
+**_Tail_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+_Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 
 **_Wall of Ice (Recharge 6)_**. The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter. When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one. The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 
@@ -2250,9 +2444,13 @@ Cantrip (at will): _[mage hand]_
 
 **_Multiattack_**. The devil makes three attacks: two with its claws and one with its sting.
 
-**_Claw_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 8 (1d8 + 4) slashing damage.
+**_Claw_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
 
-**_Sting_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_Hit_: 8 (1d8 + 4) slashing damage.
+
+**_Sting_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+
+_Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 [Diable osseux]: monsters_hd.md#diable-osseux
 
@@ -2285,7 +2483,9 @@ Cantrip (at will): _[mage hand]_
 
 ## Actions
 
-**_Sting (Bite in Beast Form)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Sting (Bite in Beast Form)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 **_Invisibility_**. The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 
@@ -2328,13 +2528,21 @@ At will: _[detect magic], [fireball]_
 
 **_Multiattack_**. The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
-**_Bite_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. _Hit_: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Bite_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 17 (2d8 + 8) slashing damage.
+_Hit_: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Mace_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+**_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 24 (3d10 + 8) bludgeoning damage.
+_Hit_: 17 (2d8 + 8) slashing damage.
+
+**_Mace_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.
+
+**_Tail_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+_Hit_: 24 (3d10 + 8) bludgeoning damage.
 
 [Diantrefosse]: monsters_hd.md#diantrefosse
 
@@ -2372,7 +2580,9 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 **_Multiattack_**. The djinni makes three scimitar attacks.
 
-**_Scimitar_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
+**_Scimitar_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+_Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
 
 **_Create Whirlwind_**. A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it. A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
@@ -2407,7 +2617,9 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 **_Multiattack_**. The doppelganger makes two melee attacks.
 
-**_Slam_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 7 (1d6 + 4) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d6 + 4) bludgeoning damage.
 
 **_Read Thoughts_**. The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 
@@ -2442,11 +2654,17 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage.
+**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage.
 
-**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. _Hit_: 15 (2d8 + 6) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target.
+
+_Hit_: 15 (2d8 + 6) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2493,11 +2711,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage plus 9 (2d8) cold damage.
+**_Bite_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage plus 9 (2d8) cold damage.
 
-**_Tail_**. Melee Weapon Attack: +14 to hit, reach 20 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +14 to hit, reach 20 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2542,9 +2766,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
@@ -2571,7 +2799,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 **_Cold Breath (Recharge 5-6)_**. The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
@@ -2604,11 +2834,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. _Hit_: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
+**_Bite_**. Melee Weapon Attack: +12 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. _Hit_: 14 (2d6 + 7) slashing damage.
+_Hit_: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
 
-**_Tail_**. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. _Hit_: 16 (2d8 + 7) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d6 + 7) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +12 to hit, reach 15 ft., one target.
+
+_Hit_: 16 (2d8 + 7) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2653,11 +2889,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. _Hit_: 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage.
+**_Bite_**. Melee Weapon Attack: +16 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. _Hit_: 16 (2d6 + 9) slashing damage.
+_Hit_: 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage.
 
-**_Tail_**. Melee Weapon Attack: +16 to hit, reach 20 ft., one target. _Hit_: 18 (2d8 + 9) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +16 to hit, reach 10 ft., one target.
+
+_Hit_: 16 (2d6 + 9) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +16 to hit, reach 20 ft., one target.
+
+_Hit_: 18 (2d8 + 9) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2698,9 +2940,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.
+**_Bite_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) slashing damage.
+_Hit_: 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.
+
+**_Claw_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+_Hit_: 12 (2d6 + 5) slashing damage.
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
@@ -2727,7 +2973,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 **_Lightning Breath (Recharge 5-6)_**. The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
@@ -2760,11 +3008,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. _Hit_: 15 (2d8 + 6) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target.
+
+_Hit_: 15 (2d8 + 6) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2813,11 +3067,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage.
+**_Bite_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +14 to hit, reach 20 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +14 to hit, reach 20 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2864,9 +3124,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -2897,7 +3161,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d10 + 2) piercing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -2934,11 +3200,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage.
+**_Bite_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +13 to hit, reach 5 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -2989,11 +3261,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. _Hit_: 21 (2d10 + 10) piercing damage.
+**_Bite_**. Melee Weapon Attack: +17 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. _Hit_: 17 (2d6 + 10) slashing damage.
+_Hit_: 21 (2d10 + 10) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. _Hit_: 19 (2d8 + 10) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +17 to hit, reach 10 ft., one target.
+
+_Hit_: 17 (2d6 + 10) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +17 to hit, reach 20 ft., one target.
+
+_Hit_: 19 (2d8 + 10) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3040,9 +3318,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3073,7 +3355,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (1d10 + 4) piercing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3112,11 +3396,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage.
+**_Bite_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3169,11 +3459,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. _Hit_: 21 (2d10 + 10) piercing damage.
+**_Bite_**. Melee Weapon Attack: +17 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. _Hit_: 17 (2d6 + 10) slashing damage.
+_Hit_: 21 (2d10 + 10) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. _Hit_: 19 (2d8 + 10) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +17 to hit, reach 10 ft., one target.
+
+_Hit_: 17 (2d6 + 10) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +17 to hit, reach 20 ft., one target.
+
+_Hit_: 19 (2d8 + 10) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3224,9 +3520,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3261,7 +3561,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (1d10 + 4) piercing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3300,11 +3602,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. _Hit_: 18 (2d10 + 7) piercing damage.
+**_Bite_**. Melee Weapon Attack: +12 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. _Hit_: 14 (2d6 + 7) slashing damage.
+_Hit_: 18 (2d10 + 7) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. _Hit_: 16 (2d8 + 7) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d6 + 7) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +12 to hit, reach 15 ft., one target.
+
+_Hit_: 16 (2d8 + 7) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3357,11 +3665,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. _Hit_: 20 (2d10 + 9) piercing damage.
+**_Bite_**. Melee Weapon Attack: +16 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +16 to hit, reach 10 ft., one target. _Hit_: 16 (2d6 + 9) slashing damage.
+_Hit_: 20 (2d10 + 9) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +16 to hit, reach 20 ft., one target. _Hit_: 18 (2d8 + 9) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +16 to hit, reach 10 ft., one target.
+
+_Hit_: 16 (2d6 + 9) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +16 to hit, reach 20 ft., one target.
+
+_Hit_: 18 (2d8 + 9) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3412,9 +3726,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 16 (2d10 + 5) piercing damage.
+**_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) slashing damage.
+_Hit_: 16 (2d10 + 5) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+_Hit_: 12 (2d6 + 5) slashing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3449,7 +3767,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (1d10 + 3) piercing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3486,11 +3806,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. _Hit_: 15 (2d8 + 6) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target.
+
+_Hit_: 15 (2d8 + 6) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3539,11 +3865,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +15 to hit, reach 15 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage.
+**_Bite_**. Melee Weapon Attack: +15 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +15 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +15 to hit, reach 20 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3590,9 +3922,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3623,7 +3959,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d10 + 2) piercing damage.
 
 **_Breath Weapons (Recharge 5-6)_**. The dragon uses one of the following breath weapons.
 
@@ -3662,11 +4000,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.
+**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.
 
-**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. _Hit_: 15 (2d8 + 6) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target.
+
+_Hit_: 15 (2d8 + 6) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3713,11 +4057,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +15 to hit, reach 15 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage.
+**_Bite_**. Melee Weapon Attack: +15 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage.
 
-**_Tail_**. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +15 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +15 to hit, reach 20 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3762,9 +4112,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 **_Acid Breath (Recharge 5-6)_**. The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 
@@ -3795,7 +4149,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
 **_Acid Breath (Recharge 5–6)_**. The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
@@ -3828,11 +4184,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage.
+**_Bite_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. _Hit_: 15 (2d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage.
 
-**_Tail_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +14 to hit, reach 5 ft., one target.
+
+_Hit_: 15 (2d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +14 to hit, reach 15 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3877,11 +4239,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weopon Attack: +17 to hit, reach 15 ft., one target. _Hit_: 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage.
+**_Bite_**. Melee Weopon Attack: +17 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. _Hit_: 17 (2d6 + 10) slashing damage.
+_Hit_: 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage.
 
-**_Tail_**. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. _Hit_: 19 (2d8 + 10) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +17 to hit, reach 10 ft., one target.
+
+_Hit_: 17 (2d6 + 10) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +17 to hit, reach 20 ft., one target.
+
+_Hit_: 19 (2d8 + 10) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -3922,9 +4290,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.
+
+**_Claw_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -3951,7 +4323,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
 **_Fire Breath (Recharge 5-6)_**. The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -3986,11 +4360,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage.
+**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage.
+_Hit_: 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage.
 
-**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target. _Hit_: 15 (2d8 + 6) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d6 + 6) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +11 to hit, reach 15 ft., one target.
+
+_Hit_: 15 (2d8 + 6) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -4037,11 +4417,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +15 to hit, reach 15 ft., one target. _Hit_: 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage.
+**_Bite_**. Melee Weapon Attack: +15 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. _Hit_: 22 (4d6 + 8) slashing damage.
+_Hit_: 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage.
 
-**_Tail_**. Melee Weapon Attack: +15 to hit, reach 20 ft., one target. _Hit_: 17 (2d8 + 8) bludgeoning damage.
+**_Claw_**. Melee Weapon Attack: +15 to hit, reach 10 ft., one target.
+
+_Hit_: 22 (4d6 + 8) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +15 to hit, reach 20 ft., one target.
+
+_Hit_: 17 (2d8 + 8) bludgeoning damage.
 
 **_Frightful Presence_**. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
@@ -4086,9 +4472,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -4119,7 +4509,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
 **_Poison Breath (Recharge 5-6)_**. The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -4151,11 +4543,17 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
-**_Bite_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. _Hit_: 26 (3d12 + 7) piercing damage.
+**_Bite_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. _Hit_: 16 (2d8 + 7) slashing damage.
+_Hit_: 26 (3d12 + 7) piercing damage.
 
-**_Tail_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target. _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
+**_Claw_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
+
+_Hit_: 16 (2d8 + 7) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+
+_Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
 
 **_Steam Breath (Recharge 5-6)_**. The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d 6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 
@@ -4183,9 +4581,13 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The dretch makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 5 (2d4) slashing damage.
+_Hit_: 3 (1d6) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (2d4) slashing damage.
 
 **_Fetid Cloud (1/Day)_**. A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
 
@@ -4228,11 +4630,17 @@ At will: _[dancing lights]_
 
 **_Multiattack_**. The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
 
-**_Longsword_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+_Hit_: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
-**_Longbow_**. Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
+**_Longsword_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+
+**_Longbow_**. Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target.
+
+_Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
 [Drider]: monsters_hd.md#drider
 
@@ -4267,9 +4675,13 @@ At will: _[dancing lights]_
 
 ## Actions
 
-**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Hand Crossbow_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Hand Crossbow_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 [Drow]: monsters_hd.md#drow
 
@@ -4302,7 +4714,9 @@ Cantrips (at will): _[druidcraft], [produce flame], [shillelagh]_
 
 ## Actions
 
-**_Quarterstaff_**. Melee Weapon Attack: +2 to hit (+4 to hit with _[shillelagh]_), reach 5 ft., one target. _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _[shillelagh]_.
+**_Quarterstaff_**. Melee Weapon Attack: +2 to hit (+4 to hit with _[shillelagh]_), reach 5 ft., one target.
+
+_Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _[shillelagh]_.
 
 [Druide]: monsters_hd.md#druide
 
@@ -4341,7 +4755,9 @@ At will: _[druidcraft]_
 
 ## Actions
 
-**_Club_**. Melee Weapon Attack: +2 to hit (+6 to hit with _[shillelagh]_), reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shillelagh]_.
+**_Club_**. Melee Weapon Attack: +2 to hit (+6 to hit with _[shillelagh]_), reach 5 ft., one target.
+
+_Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shillelagh]_.
 
 **_Fey Charm_**. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can. Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours. The dryad can have no more than one humanoid and up to three beasts charmed at a time.
 
@@ -4374,9 +4790,13 @@ At will: _[druidcraft]_
 
 **_Enlarge (Recharges after a Short or Long Rest)_**. For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
-**_War Pick_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged.
+**_War Pick_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Javelin_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.
+_Hit_: 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged.
+
+**_Javelin_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.
 
 **_Invisibility (Recharges after a Short or Long Rest)_**. The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 
@@ -4417,7 +4837,9 @@ At will: _[detect evil and good]_
 
 **_Multiattack_**. The deva makes two melee attacks.
 
-**_Mace_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
+**_Mace_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
 **_Healing Touch (3/Day)_**. The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
@@ -4458,7 +4880,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Mace_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) bludgeoning damage.
+**_Mace_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 3 (1d6) bludgeoning damage.
 
 [Prêtre]: monsters_hd.md#prêtre
 
@@ -4491,9 +4915,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 22 (4d8 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Tendril_**. Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
+_Hit_: 22 (4d8 + 4) piercing damage.
+
+**_Tendril_**. Melee Weapon Attack: +7 to hit, reach 50 ft., one creature.
+
+_Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
 
 **_Reel_**. The roper pulls each creature grappled by it up to 25 feet straight toward it.
 
@@ -4526,9 +4954,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The spy makes two melee attacks.
 
-**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Hand Crossbow_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Hand Crossbow_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Espion]: monsters_hd.md#espion
 
@@ -4551,9 +4983,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Special Features
 
-**_Longsword_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
+**_Longsword_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
 
-**_Shortbow_**. Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
+_Hit_: 1 slashing damage.
+
+**_Shortbow_**. Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target.
+
+_Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 
 **_Heart Sight_**. The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
 
@@ -4590,11 +5026,17 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The ettercap makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
 
-**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) slashing damage.
+_Hit_: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**_Web (Recharge 5-6)_**. Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature. _Hit_: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d4 + 2) slashing damage.
+
+**_Web (Recharge 5-6)_**. Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature.
+
+_Hit_: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 
 [Ettercap]: monsters_hd.md#ettercap
 
@@ -4625,9 +5067,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
-**_Battleaxe_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) slashing damage.
+**_Battleaxe_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Morningstar_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) piercing damage.
+_Hit_: 14 (2d8 + 5) slashing damage.
+
+**_Morningstar_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d8 + 5) piercing damage.
 
 [Ettin]: monsters_hd.md#ettin
 
@@ -4664,7 +5110,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The fanatic makes two melee attacks.
 
-**_Dagger_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Dagger_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+
+_Hit_: 4 (1d4 + 2) piercing damage.
 
 [Fanatique]: monsters_hd.md#fanatique
 
@@ -4694,7 +5142,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Withering Touch_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 17 (4d6 + 3) necrotic damage.
+**_Withering Touch_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 17 (4d6 + 3) necrotic damage.
 
 **_Etherealness_**. The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 
@@ -4727,7 +5177,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Talons_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 slashing damage.
+**_Talons_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 1 slashing damage.
 
 [Faucon]: monsters_hd.md#faucon
 
@@ -4756,7 +5208,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d4 + 2) piercing damage.
 
 [Faucon de sang]: monsters_hd.md#faucon-de-sang
 
@@ -4790,7 +5244,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Shock_**. Melee Spell Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 9 (2d8) lightning damage.
+**_Shock_**. Melee Spell Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 9 (2d8) lightning damage.
 
 **_Invisibility_**. The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 
@@ -4815,7 +5271,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Special Features
 
-**_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 [Garde]: monsters_hd.md#garde
 
@@ -4848,7 +5306,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The guardian makes two fist attacks.
 
-**_Fist_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+**_Fist_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 **_Shield_**. When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 
@@ -4880,9 +5340,13 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The gargoyle makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) slashing damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) slashing damage.
 
 [Gargouille]: monsters_hd.md#gargouille
 
@@ -4912,7 +5376,9 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
+**_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
 **_Split_**. When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
@@ -4951,9 +5417,13 @@ At will: _[darkness], [detect magic], [dispel magic]_
 
 **_Multiattack_**. The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
-**_Pincer_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+**_Pincer_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Fist_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) bludgeoning damage.
+_Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+
+**_Fist_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 [Glabrezu]: monsters_hd.md#glabrezu
 
@@ -4985,9 +5455,13 @@ At will: _[darkness], [detect magic], [dispel magic]_
 
 **_Multiattack_**. The gladiator makes three melee attacks or two ranged attacks.
 
-**_Spear_**. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+**_Spear_**. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target.
 
-**_Shield Bash_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+_Hit_: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+
+**_Shield Bash_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature.
+
+_Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
 **_Parry_**. The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
@@ -5015,11 +5489,17 @@ At will: _[darkness], [detect magic], [dispel magic]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
 
-**_Spear_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+_Hit_: 4 (1d4 + 2) piercing damage.
 
-**_Longbow_**. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
+**_Spear_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+
+**_Longbow_**. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target.
+
+_Hit_: 5 (1d8 + 1) piercing damage.
 
 [Gnoll]: monsters_hd.md#gnoll
 
@@ -5054,9 +5534,13 @@ At will: _[nondetection]_ (self only)
 
 ## Actions
 
-**_War Pick_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+**_War Pick_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Poisoned Dart_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_Hit_: 6 (1d8 + 2) piercing damage.
+
+**_Poisoned Dart_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one creature.
+
+_Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 [Gnome des profondeurs (svirfnebelin)]: monsters_hd.md#gnome-des-profondeurs-(svirfnebelin)
 
@@ -5083,9 +5567,13 @@ At will: _[nondetection]_ (self only)
 
 ## Actions
 
-**_Scimitar_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) slashing damage.
+**_Scimitar_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Shortbow_**. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 5 (1d6 + 2) slashing damage.
+
+**_Shortbow_**. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Gobelin]: monsters_hd.md#gobelin
 
@@ -5114,9 +5602,13 @@ At will: _[nondetection]_ (self only)
 
 ## Actions
 
-**_Morningstar_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 11 (2d8 + 2) piercing damage.
+**_Morningstar_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Javelin_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+_Hit_: 11 (2d8 + 2) piercing damage.
+
+**_Javelin_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+_Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
 
 [Gobelours]: monsters_hd.md#gobelours
 
@@ -5153,7 +5645,9 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The golem makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the _[greater restoration]_ spell or other magic.
+**_Slam_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+_Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the _[greater restoration]_ spell or other magic.
 
 **_Haste (Recharge 5-6)_**. Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 
@@ -5194,7 +5688,9 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The golem makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 [Golem de chair]: monsters_hd.md#golem-de-chair
 
@@ -5229,9 +5725,13 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The golem makes two melee attacks.
 
-**_Slam_**. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. _Hit_: 20 (3d8 + 7) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +13 to hit, reach 5 ft., one target.
 
-**_Sword_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. _Hit_: 23 (3d10 + 7) slashing damage.
+_Hit_: 20 (3d8 + 7) bludgeoning damage.
+
+**_Sword_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
+
+_Hit_: 23 (3d10 + 7) slashing damage.
 
 **_Poison Breath (Recharge 6)_**. The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -5266,7 +5766,9 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The golem makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 19 (3d8 + 6) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+
+_Hit_: 19 (3d8 + 6) bludgeoning damage.
 
 **_Slow (Recharge 5-6)_**. The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -5295,9 +5797,13 @@ At will: _[nondetection]_ (self only)
 
 ## Actions
 
-**_Gore_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 18 (2d12 + 5) piercing damage.
+**_Gore_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
 
-**_Hooves_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 16 (2d10 + 5) bludgeoning damage.
+_Hit_: 18 (2d12 + 5) piercing damage.
+
+**_Hooves_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+_Hit_: 16 (2d10 + 5) bludgeoning damage.
 
 **_Petrifying Breath (Recharge 5-6)_**. The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the _[greater restoration]_ spell or other magic.
 
@@ -5322,9 +5828,13 @@ At will: _[nondetection]_ (self only)
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 9 (2d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature.
 
-**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_Hit_: 9 (2d6 + 2) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 [Goule]: monsters_hd.md#goule
 
@@ -5349,9 +5859,13 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The ape makes two fist attacks.
 
-**_Fist_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage.
+**_Fist_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage.
+_Hit_: 6 (1d6 + 3) bludgeoning damage.
+
+**_Rock_**. Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target.
+
+_Hit_: 6 (1d6 + 3) bludgeoning damage.
 
 [Grand singe]: monsters_hd.md#grand-singe
 
@@ -5405,7 +5919,9 @@ At will: _[nondetection]_ (self only)
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 
 **_Swallow_**. The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
@@ -5436,9 +5952,13 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
 
-**_Tentacles_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 9 (2d6 + 2) slashing damage.
+**_Tentacles_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 9 (2d6 + 2) slashing damage.
+
+**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Grick]: monsters_hd.md#grick
 
@@ -5467,9 +5987,13 @@ At will: _[nondetection]_ (self only)
 
 **_Multiattack_**. The griffon makes two attacks: one with its beak and one with its claws.
 
-**_Beak_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) piercing damage.
+**_Beak_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 8 (1d8 + 4) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 [Griffon]: monsters_hd.md#griffon
 
@@ -5497,7 +6021,9 @@ At will: _[nondetection]_ (self only)
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
+**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage.
 
 **_Death Glare_**. The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 
@@ -5535,7 +6061,9 @@ At will: _[detect magic], [magic missile]_
 
 ## Actions
 
-**_Claws (Hag Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
+**_Claws (Hag Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) slashing damage.
 
 **_Change Shape_**. The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
 
@@ -5574,7 +6102,9 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
+**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) slashing damage.
 
 **_Illusory Appearance_**. The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies. The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 
@@ -5604,7 +6134,9 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 
 ## Actions
 
-**_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 [Guerrier tribal]: monsters_hd.md#guerrier-tribal
 
@@ -5626,7 +6158,9 @@ At will: _[dancing lights], [minor illusion], vicious mockery_
 
 ## Special Features
 
-**_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+**_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 [Guêpe géante]: monsters_hd.md#guêpe-géante
 
@@ -5673,7 +6207,9 @@ Cantrips (at will): _[mage hand], [minor illusion], [prestidigitation]_
 
 **_Multiattack_**. The sphinx makes two claw attacks.
 
-**_Claw_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
+**_Claw_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) slashing damage.
 
 ## Legendary Actions
 
@@ -5708,9 +6244,13 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **_Multiattack_**. The giant makes two greatclub attacks.
 
-**_Greatclub_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 18 (3d8 + 5) bludgeoning damage.
+**_Greatclub_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. _Hit_: 21 (3d10 + 5) bludgeoning damage.
+_Hit_: 18 (3d8 + 5) bludgeoning damage.
+
+**_Rock_**. Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target.
+
+_Hit_: 21 (3d10 + 5) bludgeoning damage.
 
 [Géant des collines]: monsters_hd.md#géant-des-collines
 
@@ -5748,9 +6288,13 @@ At will: _[detect magic], [fog cloud], light_
 
 **_Multiattack_**. The giant makes two morningstar attacks.
 
-**_Morningstar_**. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. _Hit_: 21 (3d8 + 8) piercing damage.
+**_Morningstar_**. Melee Weapon Attack: +12 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. _Hit_: 30 (4d10 + 8) bludgeoning damage.
+_Hit_: 21 (3d8 + 8) piercing damage.
+
+**_Rock_**. Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target.
+
+_Hit_: 30 (4d10 + 8) bludgeoning damage.
 
 [Géant des nuages]: monsters_hd.md#géant-des-nuages
 
@@ -5780,9 +6324,13 @@ At will: _[detect magic], [fog cloud], light_
 
 **_Multiattack_**. The giant makes two greatclub attacks.
 
-**_Greatclub_**. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. _Hit_: 19 (3d8 + 6) bludgeoning damage.
+**_Greatclub_**. Melee Weapon Attack: +9 to hit, reach 15 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+_Hit_: 19 (3d8 + 6) bludgeoning damage.
+
+**_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target.
+
+_Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 
 **_Rock Catching_**. If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 
@@ -5822,9 +6370,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The giant makes two greatsword attacks.
 
-**_Greatsword_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. _Hit_: 30 (6d6 + 9) slashing damage.
+**_Greatsword_**. Melee Weapon Attack: +14 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +14 to hit, range 60/240 ft., one target. _Hit_: 35 (4d12 + 9) bludgeoning damage.
+_Hit_: 30 (6d6 + 9) slashing damage.
+
+**_Rock_**. Ranged Weapon Attack: +14 to hit, range 60/240 ft., one target.
+
+_Hit_: 35 (4d12 + 9) bludgeoning damage.
 
 **_Lightning Strike (Recharge 5-6)_**. The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
@@ -5853,9 +6405,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The giant makes two greatsword attacks.
 
-**_Greatsword_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 28 (6d6 + 7) slashing damage.
+**_Greatsword_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. _Hit_: 29 (4d10 + 7) bludgeoning damage.
+_Hit_: 28 (6d6 + 7) slashing damage.
+
+**_Rock_**. Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target.
+
+_Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 [Géant du feu]: monsters_hd.md#géant-du-feu
 
@@ -5882,9 +6438,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The giant makes two greataxe attacks.
 
-**_Greataxe_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 25 (3d12 + 6) slashing damage.
+**_Greataxe_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. _Hit_: 28 (4d10 + 6) bludgeoning damage.
+_Hit_: 25 (3d12 + 6) slashing damage.
+
+**_Rock_**. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target.
+
+_Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 [Géant du givre]: monsters_hd.md#géant-du-givre
 
@@ -5908,9 +6468,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The harpy makes two attacks: one with its claws and one with its club.
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) slashing damage.
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Club_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) bludgeoning damage.
+_Hit_: 6 (2d4 + 1) slashing damage.
+
+**_Club_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 **_Luring Song_**. The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated. While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it. A target that successfully saves is immune to this harpy's song for the next 24 hours.
 
@@ -5945,9 +6509,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The hezrou makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 [Hezrou]: monsters_hd.md#hezrou
 
@@ -5976,9 +6544,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The owlbear makes two attacks: one with its beak and one with its claws.
 
-**_Beak_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. _Hit_: 10 (1d10 + 5) piercing damage.
+**_Beak_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature.
 
-**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) slashing damage.
+_Hit_: 10 (1d10 + 5) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d8 + 5) slashing damage.
 
 [Ours-hibou]: monsters_hd.md#ours-hibou
 
@@ -6028,7 +6600,9 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage.
+**_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 [Hippocampe géant]: monsters_hd.md#hippocampe-géant
 
@@ -6057,9 +6631,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The hippogriff makes two attacks: one with its beak and one with its claws.
 
-**_Beak_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage.
+**_Beak_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
+_Hit_: 8 (1d10 + 3) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage.
 
 [Hippogriffe]: monsters_hd.md#hippogriffe
 
@@ -6085,9 +6663,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+**_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Longbow_**. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
+_Hit_: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
+
+**_Longbow_**. Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target.
+
+_Hit_: 5 (1d8 + 1) piercing damage.
 
 [Hobgobelin]: monsters_hd.md#hobgobelin
 
@@ -6116,13 +6698,21 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The lizardfolk makes two melee attacks, each one with a different weapon.
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Heavy Club_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) bludgeoning damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
 
-**_Javelin_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Heavy Club_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Spiked Shield_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 5 (1d6 + 2) bludgeoning damage.
+
+**_Javelin_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Spiked Shield_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Homme-lézard]: monsters_hd.md#homme-lézard
 
@@ -6149,7 +6739,9 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Spear_**. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+**_Spear_**. Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
 [Homme-poisson]: monsters_hd.md#homme-poisson
 
@@ -6176,7 +6768,9 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
 [Homonculus]: monsters_hd.md#homonculus
 
@@ -6211,7 +6805,9 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The hydra makes as many bite attacks as it has heads.
 
-**_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 10 (1d10 + 5) piercing damage.
+**_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+
+_Hit_: 10 (1d10 + 5) piercing damage.
 
 [Hydre]: monsters_hd.md#hydre
 
@@ -6238,7 +6834,9 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 3 (1d6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 3 (1d6) piercing damage.
 
 [Hyène]: monsters_hd.md#hyène
 
@@ -6265,7 +6863,9 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) piercing damage.
 
 [Hyène géante]: monsters_hd.md#hyène-géante
 
@@ -6293,9 +6893,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 ## Actions
 
-**_Dagger_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Dagger_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Sling_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. _Hit_: 4 (1d4 + 2) bludgeoning damage.
+_Hit_: 4 (1d4 + 2) piercing damage.
+
+**_Sling_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target.
+
+_Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 [Kobold]: monsters_hd.md#kobold
 
@@ -6329,9 +6933,13 @@ At will: _[detect magic], [feather fall], [levitate], light_
 
 **_Multiattack_**. The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
-**_Bite_**. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. _Hit_: 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+**_Bite_**. Melee Weapon Attack: +17 to hit, reach 5 ft., one target.
 
-**_Tentacle_**. Melee Weapon Attack: +17 to hit, reach 30 ft., one target. _Hit_: 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
+_Hit_: 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns. If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+
+**_Tentacle_**. Melee Weapon Attack: +17 to hit, reach 30 ft., one target.
+
+_Hit_: 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
 
 **_Fling_**. One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.
 
@@ -6380,11 +6988,17 @@ At will: _[disguise self]_ (any humanoid form), _[major image]_
 
 **_Multiattack_**. The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
-**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 14 (2d10 + 3) slashing damage.
+**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Dagger_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage.
+_Hit_: 14 (2d10 + 3) slashing damage.
 
-**_Intoxicating Touch_**. Melee Spell Attack: +5 to hit, reach 5 ft., one creature. _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+**_Dagger_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d4 + 3) piercing damage.
+
+**_Intoxicating Touch_**. Melee Spell Attack: +5 to hit, reach 5 ft., one creature.
+
+_Hit_: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 
 [Lamie]: monsters_hd.md#lamie
 
@@ -6440,7 +7054,9 @@ Cantrips (at will): _[mage hand], [prestidigitation], [ray of frost]_
 
 ## Actions
 
-**_Paralyzing Touch_**. Melee Spell Attack: +12 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Paralyzing Touch_**. Melee Spell Attack: +12 to hit, reach 5 ft., one creature.
+
+_Hit_: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Legendary Actions
 
@@ -6491,9 +7107,13 @@ At will: _[detect evil and good], [druidcraft], [pass without trace]_
 
 **_Multiattack_**. The unicorn makes two attacks: one with its hooves and one with its horn.
 
-**_Hooves_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Horn_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) piercing damage.
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
+
+**_Horn_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 8 (1d8 + 4) piercing damage.
 
 **_Healing Touch (3/Day)_**. The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 
@@ -6540,9 +7160,13 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
+_Hit_: 7 (1d8 + 3) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) slashing damage.
 
 [Lion]: monsters_hd.md#lion
 
@@ -6571,7 +7195,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 [Loup]: monsters_hd.md#loup
 
@@ -6603,7 +7229,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
 **_Cold Breath (Recharge 5-6)_**. The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
@@ -6634,7 +7262,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 [Loup sanguinaire]: monsters_hd.md#loup-sanguinaire
 
@@ -6666,11 +7296,17 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The werewolf makes two attacks: one with its bite and one with its claws or spear.
 
-**_Bite (Wolf or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+**_Bite (Wolf or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Claws (Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (2d4 + 2) slashing damage.
+_Hit_: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
 
-**_Spear (Humanoid Form Only)_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+**_Claws (Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 7 (2d4 + 2) slashing damage.
+
+**_Spear (Humanoid Form Only)_**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+
+_Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 
 [Loup-garou]: monsters_hd.md#loup-garou
 
@@ -6700,7 +7336,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Actions
 
-**_Fist_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
+**_Fist_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d4) bludgeoning damage.
 
 [Lémure]: monsters_hd.md#lémure
 
@@ -6722,7 +7360,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
+**_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage.
 
 [Lézard]: monsters_hd.md#lézard
 
@@ -6744,7 +7384,9 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage.
 
 [Lézard géant]: monsters_hd.md#lézard-géant
 
@@ -6784,7 +7426,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Dagger_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Dagger_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 4 (1d4 + 2) piercing damage.
 
 [Mage]: monsters_hd.md#mage
 
@@ -6814,7 +7458,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Touch_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
+**_Touch_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
 
 [Magmatique]: monsters_hd.md#magmatique
 
@@ -6843,9 +7489,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The thug makes two melee attacks.
 
-**_Mace_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) bludgeoning damage.
+**_Mace_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
 
-**_Heavy Crossbow_**. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. _Hit_: 5 (1d10) piercing damage.
+_Hit_: 5 (1d6 + 2) bludgeoning damage.
+
+**_Heavy Crossbow_**. Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target.
+
+_Hit_: 5 (1d10) piercing damage.
 
 [Malfrat]: monsters_hd.md#malfrat
 
@@ -6871,9 +7521,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Gore_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 25 (4d8 + 7) piercing damage.
+**_Gore_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Stomp_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature. _Hit_: 29 (4d10 + 7) bludgeoning damage.
+_Hit_: 25 (4d8 + 7) piercing damage.
+
+**_Stomp_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one prone creature.
+
+_Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 [Mammouth]: monsters_hd.md#mammouth
 
@@ -6902,7 +7556,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Crush_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also [blinded](conditions_vo.md#blinded) and unable to breathe while the darkmantle is attached in this way. While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target. A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
+**_Crush_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+
+_Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also [blinded](conditions_vo.md#blinded) and unable to breathe while the darkmantle is attached in this way. While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target. A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
 **_Darkness Aura (1/Day)_**. A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
@@ -6937,9 +7593,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The cloaker makes two attacks: one with its bite and one with its tail.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is [blinded] and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
 
-**_Tail_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. _Hit_: 7 (1d8 + 3) slashing damage.
+_Hit_: 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is [blinded] and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.
+
+**_Tail_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature.
+
+_Hit_: 7 (1d8 + 3) slashing damage.
 
 **_Moan_**. Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours
 
@@ -6971,11 +7631,17 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
+_Hit_: 7 (1d8 + 3) piercing damage.
 
-**_Tail Spike_**. Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage.
+**_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) slashing damage.
+
+**_Tail Spike_**. Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target.
+
+_Hit_: 7 (1d8 + 3) piercing damage.
 
 [Manticore]: monsters_hd.md#manticore
 
@@ -7010,9 +7676,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The marilith makes seven attacks: six with its longswords and one with its tail.
 
-**_Longsword_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
+**_Longsword_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
+_Hit_: 13 (2d8 + 4) slashing damage.
+
+**_Tail_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature.
+
+_Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
 
 **_Teleport_**. The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
@@ -7043,7 +7713,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) slashing damage.
+**_Scimitar_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d6 + 1) slashing damage.
 
 [Cultiste]: monsters_hd.md#cultiste
 
@@ -7071,11 +7743,17 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 9 (2d4 + 4) slashing damage.
+_Hit_: 8 (1d8 + 4) piercing damage.
 
-**_Harpoon_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (2d4 + 4) slashing damage.
+
+**_Harpoon_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
 
 [Merrow]: monsters_hd.md#merrow
 
@@ -7097,7 +7775,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 [Mille-pattes géant]: monsters_hd.md#mille-pattes-géant
 
@@ -7131,9 +7811,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
+**_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+_Hit_: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
+
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
 [Mimique]: monsters_hd.md#mimique
 
@@ -7164,9 +7848,13 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Greataxe_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 17 (2d12 + 4) slashing damage.
+**_Greataxe_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Gore_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) piercing damage.
+_Hit_: 17 (2d12 + 4) slashing damage.
+
+**_Gore_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) piercing damage.
 
 [Minotaure]: monsters_hd.md#minotaure
 
@@ -7194,7 +7882,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 **_Multiattack_**. The fungus makes 1d4 Rotting Touch attacks.
 
-**_Rotting Touch_**. Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. _Hit_: 4 (1d8) necrotic damage.
+**_Rotting Touch_**. Melee Weapon Attack: +2 to hit, reach 10 ft., one creature.
+
+_Hit_: 4 (1d8) necrotic damage.
 
 [Moisissure violette]: monsters_hd.md#moisissure-violette
 
@@ -7221,7 +7911,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 [Molosse]: monsters_hd.md#molosse
 
@@ -7251,7 +7943,9 @@ Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 
 **_Fire Breath (Recharge 5-6)_**. The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -7283,7 +7977,9 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-**_Rotting Fist_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _[remove curse]_ spell or other magic.
+**_Rotting Fist_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _[remove curse]_ spell or other magic.
 
 **_Dreadful Glare_**. The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
@@ -7335,7 +8031,9 @@ Cantrips (at will): _[sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-**_Rotting Fist_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _[remove curse]_ spell or other magic.
+**_Rotting Fist_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _[remove curse]_ spell or other magic.
 
 **_Dreadful Glare_**. The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
@@ -7379,7 +8077,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Hooves_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 [Mule]: monsters_hd.md#mule
 
@@ -7408,11 +8108,17 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 **_Multiattack_**. The medusa makes either three melee attacks -one with its snake hair and two with its shortsword- or two ranged attacks with its longbow.
 
-**_Snake Hair_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
+**_Snake Hair_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
 
-**_Shortsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
 
-**_Longbow_**. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+**_Shortsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Longbow_**. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 [Méduse]: monsters_hd.md#méduse
 
@@ -7442,7 +8148,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Fists_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 4 (1d6 + 1) bludgeoning damage.
+**_Fists_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 **_Mud Breath (Recharge 6)_**. The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -7474,7 +8182,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) slashing damage.
+**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d4 + 2) slashing damage.
 
 **_Cinder Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](conditions_vo.md#blinded) until the end of the mephit's next turn.
 
@@ -7509,7 +8219,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+_Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
 **_Frost Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 
@@ -7544,7 +8256,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature.
+
+_Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
 **_Fire Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -7577,7 +8291,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) slashing damage.
+**_Claws_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d4 + 2) slashing damage.
 
 **_Blinding Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](conditions_vo.md#blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -7608,7 +8324,9 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 ## Actions
 
-**_Claws_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
+**_Claws_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature.
+
+_Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 **_Steam Breath (Recharge 6)_**. The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -7652,7 +8370,9 @@ Cantrips (at will): _[mage hand], [minor illusion], [ray of frost]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
+
+_Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
 [Naga corrupteur]: monsters_hd.md#naga-corrupteur
 
@@ -7696,9 +8416,13 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. _Hit_: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+**_Bite_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one creature.
 
-**_Spit Poison_**. Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+_Hit_: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+**_Spit Poison_**. Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature.
+
+_Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
 [Naga gardien]: monsters_hd.md#naga-gardien
 
@@ -7729,9 +8453,13 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 32 (5d10 + 5) piercing damage.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 15 (3d6 + 5) slashing damage.
+_Hit_: 32 (5d10 + 5) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (3d6 + 5) slashing damage.
 
 **_Horror Nimbus (Recharge 5-6)_**. The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 
@@ -7758,7 +8486,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Special Features
 
-**_Rapier_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
+**_Rapier_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d8 + 1) piercing damage.
 
 **_Parry_**. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
@@ -7787,7 +8517,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bites_**. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space.
+
+_Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 [Nuée d'insectes]: monsters_hd.md#nuée-dinsectes
 
@@ -7818,7 +8550,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space.
+
+_Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
 [Nuée de chauve-souris]: monsters_hd.md#nuée-de-chauve-souris
 
@@ -7846,7 +8580,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Beaks_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+**_Beaks_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space.
+
+_Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 [Nuée de corbeaux]: monsters_hd.md#nuée-de-corbeaux
 
@@ -7877,7 +8613,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bites_**. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space.
+
+_Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
 [Nuée de piranhas]: monsters_hd.md#nuée-de-piranhas
 
@@ -7906,7 +8644,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bites_**. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+**_Bites_**. Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space.
+
+_Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 [Nuée de rats]: monsters_hd.md#nuée-de-rats
 
@@ -7933,7 +8673,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Bites_**. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Bites_**. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space.
+
+_Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
 [Nuée de serpents venimeux]: monsters_hd.md#nuée-de-serpents-venimeux
 
@@ -7964,11 +8706,17 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Multiattack_**. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 
-**_Life Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+**_Life Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
 
-**_Longsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
+_Hit_: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
-**_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+**_Longsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
+
+**_Longbow_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage.
 
 [Nécrophage]: monsters_hd.md#nécrophage
 
@@ -7990,9 +8738,13 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Special Features
 
-**_Greatclub_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
+**_Greatclub_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Javelin_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage.
+_Hit_: 13 (2d8 + 4) bludgeoning damage.
+
+**_Javelin_**. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+_Hit_: 11 (2d6 + 4) piercing damage.
 
 [Ogre]: monsters_hd.md#ogre
 
@@ -8026,7 +8778,9 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 ## Actions
 
-**_Strength Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+**_Strength Drain_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
 [Ombre]: monsters_hd.md#ombre
 
@@ -8064,9 +8818,13 @@ At will: _[darkness], [invisibility]_
 
 **_Multiattack_**. The oni makes two attacks, either with its claws or its glaive.
 
-**_Claw (Oni Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) slashing damage.
+**_Claw (Oni Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Glaive_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
+_Hit_: 8 (1d8 + 4) slashing damage.
+
+**_Glaive_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+_Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.
 
 **_Change Shape_**. The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 
@@ -8095,9 +8853,13 @@ At will: _[darkness], [invisibility]_
 
 ## Actions
 
-**_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 9 (1d12 + 3) slashing damage.
+**_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Javelin_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage.
+_Hit_: 9 (1d12 + 3) slashing damage.
+
+**_Javelin_**. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target.
+
+_Hit_: 6 (1d6 + 3) piercing damage.
 
 [Orque]: monsters_hd.md#orque
 
@@ -8126,9 +8888,13 @@ At will: _[darkness], [invisibility]_
 
 **_Multiattack_**. The otyugh makes three attacks: one with its bite and two with its tentacles.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Tentacle_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
+_Hit_: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
+
+**_Tentacle_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+_Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
 
 **_Tentacle Slam_**. The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
 
@@ -8159,9 +8925,13 @@ At will: _[darkness], [invisibility]_
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 8 (1d8 + 4) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 [Ours brun]: monsters_hd.md#ours-brun
 
@@ -8190,9 +8960,13 @@ At will: _[darkness], [invisibility]_
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) slashing damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d4 + 2) slashing damage.
 
 [Ours noir]: monsters_hd.md#ours-noir
 
@@ -8221,9 +8995,13 @@ At will: _[darkness], [invisibility]_
 
 **_Multiattack_**. The bear makes two attacks: one with its bite and one with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 9 (1d8 + 5) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) slashing damage.
+_Hit_: 9 (1d8 + 5) piercing damage.
+
+**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 12 (2d6 + 5) slashing damage.
 
 [Ours polaire]: monsters_hd.md#ours-polaire
 
@@ -8255,11 +9033,17 @@ At will: _[darkness], [invisibility]_
 
 **_Multiattack_**. In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
-**_Bite (Bear or Hybrid Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
+**_Bite (Bear or Hybrid Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Claw (Bear or Hybrid Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
+_Hit_: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
 
-**_Greataxe (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 10 (1d12 + 4) slashing damage.
+**_Claw (Bear or Hybrid Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) slashing damage.
+
+**_Greataxe (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (1d12 + 4) slashing damage.
 
 [Ours-garou]: monsters_hd.md#ours-garou
 
@@ -8287,7 +9071,9 @@ At will: _[darkness], [invisibility]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d8 + 1) piercing damage.
 
 **_Antennae_**. The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch. If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 
@@ -8318,9 +9104,13 @@ At will: _[darkness], [invisibility]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) slashing damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d4 + 2) slashing damage.
 
 [Panthère]: monsters_hd.md#panthère
 
@@ -8351,7 +9141,9 @@ At will: _[darkness], [invisibility]_
 
 ## Actions
 
-**_Tentacles_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
+**_Tentacles_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
@@ -8384,7 +9176,9 @@ At will: _[darkness], [invisibility]_
 
 ## Actions
 
-**_Tentacles_**. Melee Weapon Attack: +5 to hit, reach 15 ft., one target. _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
+**_Tentacles_**. Melee Weapon Attack: +5 to hit, reach 15 ft., one target.
+
+_Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 
 **_Ink Cloud (Recharges after a Short or Long Rest)_**. A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 
@@ -8414,7 +9208,9 @@ At will: _[darkness], [invisibility]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage.
 
 [Piranha]: monsters_hd.md#piranha
 
@@ -8457,7 +9253,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Multiattack_**. The planetar makes two melee attacks.
 
-**_Greatsword_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
+**_Greatsword_**. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+
+_Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
 **_Healing Touch (4/Day)_**. The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
@@ -8486,7 +9284,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 14 (3d6 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+_Hit_: 14 (3d6 + 4) piercing damage.
 
 [Plésiosaure]: monsters_hd.md#plésiosaure
 
@@ -8508,7 +9308,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Special Features
 
-**_Hooves_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 [Poney]: monsters_hd.md#poney
 
@@ -8539,7 +9341,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Actions
 
-**_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+**_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 **_Split_**. When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 
@@ -8572,9 +9376,13 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+_Hit_: 4 (1d4 + 2) piercing damage.
+
+**_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
 
 [Pseudodragon]: monsters_hd.md#pseudodragon
 
@@ -8601,7 +9409,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (2d4 + 1) piercing damage.
 
 [Ptéranodon]: monsters_hd.md#ptéranodon
 
@@ -8627,7 +9437,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. _Hit_: 2 (1d6 - 1) slashing damage.
+**_Bite_**. Melee Weapon Attack: +1 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d6 - 1) slashing damage.
 
 [Punaise de feu géante]: monsters_hd.md#punaise-de-feu-géante
 
@@ -8651,7 +9463,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Special Features
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 [Pégase]: monsters_hd.md#pégase
 
@@ -8682,7 +9496,9 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 ## Actions
 
-**_Claws (Bite in Beast Form)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**_Claws (Bite in Beast Form)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **_Scare (1/Day)_**. One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
 
@@ -8725,7 +9541,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack_**. The rakshasa makes two claw attacks.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a _[remove curse]_ spell or similar magic.
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a _[remove curse]_ spell or similar magic.
 
 [Rakshasa]: monsters_hd.md#rakshasa
 
@@ -8751,7 +9569,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage.
+**_Bite_**. Melee Weapon Attack: +0 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage.
 
 [Rat]: monsters_hd.md#rat
 
@@ -8779,7 +9599,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d4 + 2) piercing damage.
 
 [Rat géant]: monsters_hd.md#rat-géant
 
@@ -8811,11 +9633,17 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The wererat makes two attacks, only one of which can be a bite.
 
-**_Bite (Rat or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
+**_Bite (Rat or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Shortsword (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
 
-**_Hand Crossbow (Humanoid or Hybrid Form Only)_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Shortsword (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Hand Crossbow (Humanoid or Hybrid Form Only)_**. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Rat-garou]: monsters_hd.md#rat-garou
 
@@ -8844,7 +9672,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage.
 
 [Requin de récif]: monsters_hd.md#requin-de-récif
 
@@ -8873,7 +9703,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 22 (3d10 + 6) piercing damage.
+**_Bite_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+
+_Hit_: 22 (3d10 + 6) piercing damage.
 
 [Requin géant]: monsters_hd.md#requin-géant
 
@@ -8902,7 +9734,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) piercing damage.
 
 [Requin-chasseur]: monsters_hd.md#requin-chasseur
 
@@ -8928,7 +9762,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Gore_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
+**_Gore_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 [Rhinocéros]: monsters_hd.md#rhinocéros
 
@@ -8958,9 +9794,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack_**. The roc makes two attacks: one with its beak and one with its talons.
 
-**_Beak_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. _Hit_: 27 (4d8 + 9) piercing damage.
+**_Beak_**. Melee Weapon Attack: +13 to hit, reach 10 ft., one target.
 
-**_Talons_**. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+_Hit_: 27 (4d8 + 9) piercing damage.
+
+**_Talons_**. Melee Weapon Attack: +13 to hit, reach 5 ft., one target.
+
+_Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 
 [Roc]: monsters_hd.md#roc
 
@@ -8982,7 +9822,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Special Features
 
-**_Club_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) bludgeoning damage.
+**_Club_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d4) bludgeoning damage.
 
 [Roturier]: monsters_hd.md#roturier
 
@@ -9009,7 +9851,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
+**_Bite_**. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
+
+_Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 
 **_Swallow_**. The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
@@ -9044,11 +9888,17 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack_**. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 
-**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) piercing damage.
+**_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 3 (1d4 + 1) slashing damage.
+_Hit_: 3 (1d4 + 1) piercing damage.
 
-**_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**_Claws_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 3 (1d4 + 1) slashing damage.
+
+**_Spear_**. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target.
+
+_Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 [Sahuagin]: monsters_hd.md#sahuagin
 
@@ -9081,9 +9931,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack_**. The salamander makes two attacks: one with its spear and one with its tail.
 
-**_Spear_**. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+**_Spear_**. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+_Hit_: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+
+**_Tail_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 
 [Salamandre]: monsters_hd.md#salamandre
 
@@ -9111,7 +9965,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Tusk_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) slashing damage.
+**_Tusk_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) slashing damage.
 
 [Sanglier]: monsters_hd.md#sanglier
 
@@ -9139,7 +9995,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Tusk_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage.
+**_Tusk_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage.
 
 [Sanglier géant]: monsters_hd.md#sanglier-géant
 
@@ -9173,9 +10031,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. The wereboar makes two attacks, only one of which can be with its tusks.
 
-**_Maul (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) bludgeoning damage.
+**_Maul (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Tusks (Boar or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+_Hit_: 10 (2d6 + 3) bludgeoning damage.
+
+**_Tusks (Boar or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 
 [Sanglier-garou]: monsters_hd.md#sanglier-garou
 
@@ -9202,11 +10064,17 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 6 (2d4 + 1) bludgeoning damage.
+**_Ram_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
-**_Shortsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage.
+_Hit_: 6 (2d4 + 1) bludgeoning damage.
 
-**_Shortbow_**. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage.
+**_Shortsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) piercing damage.
+
+**_Shortbow_**. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target.
+
+_Hit_: 6 (1d6 + 3) piercing damage.
 
 [Satyre]: monsters_hd.md#satyre
 
@@ -9228,7 +10096,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Special Features
 
-**_Sting_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+**_Sting_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one creature.
+
+_Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
 [Scorpion]: monsters_hd.md#scorpion
 
@@ -9252,9 +10122,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack_**. The scorpion makes three attacks: two with its claws and one with its sting.
 
-**_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
+**_Claw_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+_Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
+
+**_Sting_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
 [Scorpion géant]: monsters_hd.md#scorpion-géant
 
@@ -9276,9 +10150,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
 
-**_Constrict_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Constrict_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
 [Serpent constricteur]: monsters_hd.md#serpent-constricteur
 
@@ -9301,9 +10179,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. _Hit_: 11 (2d6 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one creature.
 
-**_Constrict_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+_Hit_: 11 (2d6 + 4) piercing damage.
+
+**_Constrict_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+
+_Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 
 [Serpent constricteur géant]: monsters_hd.md#serpent-constricteur-géant
 
@@ -9325,7 +10207,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
 [Serpent venimeux]: monsters_hd.md#serpent-venimeux
 
@@ -9348,7 +10232,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Special Features
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
+
+_Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 [Serpent venimeux géant]: monsters_hd.md#serpent-venimeux-géant
 
@@ -9374,7 +10260,9 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 
 [Serpent volant]: monsters_hd.md#serpent-volant
 
@@ -9399,9 +10287,13 @@ At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
 
 **_Multiattack_**. The ape makes two fist attacks.
 
-**_Fist_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 22 (3d10 + 6) bludgeoning damage.
+**_Fist_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +9 to hit, range 50/100 ft., one target. _Hit_: 30 (7d6 + 6) bludgeoning damage.
+_Hit_: 22 (3d10 + 6) bludgeoning damage.
+
+**_Rock_**. Ranged Weapon Attack: +9 to hit, range 50/100 ft., one target.
+
+_Hit_: 30 (7d6 + 6) bludgeoning damage.
 
 [Singe géant]: monsters_hd.md#singe-géant
 
@@ -9445,9 +10337,13 @@ At will: _[detect evil and good], [invisibility]_ (self only)
 
 **_Multiattack_**. The solar makes two greatsword attacks.
 
-**_Greatsword_**. Melee Weapon Attack: +15 to hit, reach 5 ft., one target. _Hit_: 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.
+**_Greatsword_**. Melee Weapon Attack: +15 to hit, reach 5 ft., one target.
 
-**_Slaying Longbow_**. Ranged Weapon Attack: +13 to hit, range 150/600 ft., one target. _Hit_: 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
+_Hit_: 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.
+
+**_Slaying Longbow_**. Ranged Weapon Attack: +13 to hit, range 150/600 ft., one target.
+
+_Hit_: 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.
 
 **_Flying Sword_**. The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
@@ -9491,7 +10387,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Actions
 
-**_Life Drain_**. Melee Spell Attack: +4 to hit, reach 5 ft., one creature. _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Life Drain_**. Melee Spell Attack: +4 to hit, reach 5 ft., one creature.
+
+_Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 [Spectre]: monsters_hd.md#spectre
 
@@ -9515,9 +10413,13 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Special Features
 
-**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Shortbow_**. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Shortbow_**. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target.
+
+_Hit_: 5 (1d6 + 2) piercing damage.
 
 [Squelette]: monsters_hd.md#squelette
 
@@ -9541,7 +10443,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Special Features
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 [Cheval de guerre squelette]: monsters_hd.md#cheval-de-guerre-squelette
 
@@ -9569,9 +10473,13 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Actions
 
-**_Greataxe_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 17 (2d12 + 4) slashing damage.
+**_Greataxe_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Gore_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) piercing damage.
+_Hit_: 17 (2d12 + 4) slashing damage.
+
+**_Gore_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) piercing damage.
 
 [Minotaure squelette]: monsters_hd.md#minotaure-squelette
 
@@ -9593,7 +10501,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Special Features
 
-**_Blood Drain_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+**_Blood Drain_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
+
+_Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 
 [Stirge]: monsters_hd.md#stirge
 
@@ -9623,7 +10533,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Actions
 
-**_Claw (Fiend Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
+**_Claw (Fiend Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) slashing damage.
 
 **_Charm_**. One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours. The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
 
@@ -9661,9 +10573,13 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Multiattack_**. The treant makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 16 (3d6 + 6) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
 
-**_Rock_**. Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. _Hit_: 28 (4d10 + 6) bludgeoning damage.
+_Hit_: 16 (3d6 + 6) bludgeoning damage.
+
+**_Rock_**. Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target.
+
+_Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 **_Animate Trees (1/Day)_**. The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
 
@@ -9696,7 +10612,9 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 ## Actions
 
-**_Smother_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
+**_Smother_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature.
+
+_Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
 [Tapis étouffant]: monsters_hd.md#tapis-étouffant
 
@@ -9732,13 +10650,21 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 **_Multiattack_**. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 
-**_Bite_**. Melee Weapon Attack: +19 to hit, reach 10 ft., one target. _Hit_: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
+**_Bite_**. Melee Weapon Attack: +19 to hit, reach 10 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +19 to hit, reach 15 ft., one target. _Hit_: 28 (4d8 + 10) stashing damage.
+_Hit_: 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
 
-**_Horns_**. Melee Weapon Attack: +19 to hit, reach 10 ft., one target. _Hit_: 32 (4d10 + 10) piercing damage.
+**_Claw_**. Melee Weapon Attack: +19 to hit, reach 15 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +19 to hit, reach 20 ft., one target. _Hit_: 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+_Hit_: 28 (4d8 + 10) stashing damage.
+
+**_Horns_**. Melee Weapon Attack: +19 to hit, reach 10 ft., one target.
+
+_Hit_: 32 (4d10 + 10) piercing damage.
+
+**_Tail_**. Melee Weapon Attack: +19 to hit, reach 20 ft., one target.
+
+_Hit_: 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 
 **_Frightful Presence_**. Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw Is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
 
@@ -9783,7 +10709,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Multiattack_**. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 
-**_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 **_Engulf_**. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is [blinded](conditions_vo.md#blinded), restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 
@@ -9814,9 +10742,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) slashing damage.
+_Hit_: 8 (1d10 + 3) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d8 + 3) slashing damage.
 
 [Tigre]: monsters_hd.md#tigre
 
@@ -9845,9 +10777,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (1d10 + 5) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 12 (2d6 + 5) slashing damage.
+_Hit_: 10 (1d10 + 5) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 12 (2d6 + 5) slashing damage.
 
 [Tigre à dents de sabre]: monsters_hd.md#tigre-à-dents-de-sabre
 
@@ -9881,13 +10817,21 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Multiattack (Humanoid or Hybrid Form Only)_**. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
-**_Bite (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+**_Bite (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Claw (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) slashing damage.
+_Hit_: 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
 
-**_Scimitar (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
+**_Claw (Tiger or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Longbow (Humanoid or Hybrid Form Only)_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+_Hit_: 7 (1d8 + 3) slashing damage.
+
+**_Scimitar (Humanoid or Hybrid Form Only)_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) slashing damage.
+
+**_Longbow (Humanoid or Hybrid Form Only)_**. Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage.
 
 [Tigre-garou]: monsters_hd.md#tigre-garou
 
@@ -9918,7 +10862,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ## Actions
 
-**_Spiked Bone Club_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+**_Spiked Bone Club_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
 [Torve]: monsters_hd.md#torve
 
@@ -9951,7 +10897,9 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Multiattack_**. The stalker makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) bludgeoning damage.
 
 [Traqueur invisible]: monsters_hd.md#traqueur-invisible
 
@@ -9977,9 +10925,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ## Actions
 
-**_Gore_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. _Hit_: 24 (4d8 + 6) piercing damage.
+**_Gore_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
 
-**_Stomp_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. _Hit_: 22 (3d10 + 6) bludgeoning damage
+_Hit_: 24 (4d8 + 6) piercing damage.
+
+**_Stomp_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature.
+
+_Hit_: 22 (3d10 + 6) bludgeoning damage
 
 [Tricératops]: monsters_hd.md#tricératops
 
@@ -10010,9 +10962,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Multiattack_**. The troll makes three attacks: one with its bite and two with its claws.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 7 (1d6 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
 
-**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) slashing damage.
+_Hit_: 7 (1d6 + 4) piercing damage.
+
+**_Claw_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 11 (2d6 + 4) slashing damage.
 
 [Troll]: monsters_hd.md#troll
 
@@ -10037,9 +10993,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Multiattack_**. The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 
-**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.
+**_Bite_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
 
-**_Tail_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. _Hit_: 20 (3d8 + 7) bludgeoning damage.
+_Hit_: 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.
+
+**_Tail_**. Melee Weapon Attack: +10 to hit, reach 10 ft., one target.
+
+_Hit_: 20 (3d8 + 7) bludgeoning damage.
 
 [Tyrannosaure]: monsters_hd.md#tyrannosaure
 
@@ -10088,9 +11048,13 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **_Multiattack (Vampire Form Only)_**. The vampire makes two attacks, only one of which can be a bite attack.
 
-**_Unarmed Strike (Vampire Form Only)_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. _Hit_: 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
+**_Unarmed Strike (Vampire Form Only)_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one creature.
 
-**_Bite (Bat or Vampire Form Only)_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit_: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+_Hit_: 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
+
+**_Bite (Bat or Vampire Form Only)_**. Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained.
+
+_Hit_: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
 
 **_Charm_**. The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bit attack. Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
@@ -10147,9 +11111,13 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **_Multiattack_**. The vampire makes two attacks, only one of which can be a bite attack.
 
-**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+**_Claws_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+_Hit_: 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained.
+
+_Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 [Vampirien]: monsters_hd.md#vampirien
 
@@ -10183,7 +11151,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ## Actions
 
-**_Pseudopod_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+**_Pseudopod_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 [Vase grise]: monsters_hd.md#vase-grise
 
@@ -10212,7 +11182,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ## Actions
 
-**_Beak_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. _Hit_: 2 (1d4) piercing damage.
+**_Beak_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+
+_Hit_: 2 (1d4) piercing damage.
 
 [Vautour]: monsters_hd.md#vautour
 
@@ -10243,9 +11215,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The vulture makes two attacks: one with its beak and one with its talons.
 
-**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 7 (2d4 + 2) piercing damage.
+**_Beak_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Talons_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 9 (2d6 + 2) slashing damage.
+_Hit_: 7 (2d4 + 2) piercing damage.
+
+**_Talons_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+
+_Hit_: 9 (2d6 + 2) slashing damage.
 
 [Vautour géant]: monsters_hd.md#vautour-géant
 
@@ -10274,9 +11250,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The worm makes two attacks: one with its bite and one with its stinger.
 
-**_Bite_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. _Hit_: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns. If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+**_Bite_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
 
-**_Tail Stinger_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+_Hit_: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](conditions_vo.md#blinded) and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns. If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+
+**_Tail Stinger_**. Melee Weapon Attack: +9 to hit, reach 10 ft., one creature.
+
+_Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
 [Ver pourpre]: monsters_hd.md#ver-pourpre
 
@@ -10301,11 +11281,17 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
-**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. _Hit_: 11 (2d6 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
 
-**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) slashing damage.
+_Hit_: 11 (2d6 + 4) piercing damage.
 
-**_Stinger_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+**_Claws_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) slashing damage.
+
+**_Stinger_**. Melee Weapon Attack: +7 to hit, reach 10 ft., one creature.
+
+_Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
 [Wiverne]: monsters_hd.md#wiverne
 
@@ -10336,9 +11322,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The vrock makes two attacks: one with its beak and one with its talons.
 
-**_Beak_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage.
+**_Beak_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Talons_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 14 (2d10 + 3) slashing damage.
+_Hit_: 10 (2d6 + 3) piercing damage.
+
+**_Talons_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d10 + 3) slashing damage.
 
 **_Spores (Recharge 6)_**. A 15-foot-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself
 
@@ -10369,11 +11359,17 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 
-**_Longsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+**_Longsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Shortsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) piercing damage.
+_Hit_: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
-**_Heavy Crossbow_**. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. _Hit_: 6 (1d10 + 1) piercing damage.
+**_Shortsword_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 6 (1d6 + 3) piercing damage.
+
+**_Heavy Crossbow_**. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target.
+
+_Hit_: 6 (1d10 + 1) piercing damage.
 
 [Vétéran]: monsters_hd.md#vétéran
 
@@ -10400,7 +11396,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+**_Bite_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
 [Worg]: monsters_hd.md#worg
 
@@ -10434,9 +11432,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The xorn makes three claw attacks and one bite attack.
 
-**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
+**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (3d6 + 3) piercing damage.
+_Hit_: 6 (1d6 + 3) slashing damage.
+
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (3d6 + 3) piercing damage.
 
 [Xorn]: monsters_hd.md#xorn
 
@@ -10470,7 +11472,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The yeti can use its Chilling Gaze and makes two claw attacks.
 
-**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
+**_Claw_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
 
 **_Chilling Gaze_**. The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
 
@@ -10500,7 +11504,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ## Actions
 
-**_Slam_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 4 (1d6 + 1) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 [Zombi]: monsters_hd.md#zombi
 
@@ -10528,7 +11534,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ## Actions
 
-**_Morningstar_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
+**_Morningstar_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 [Ogre zombi]: monsters_hd.md#ogre-zombi
 
@@ -10558,7 +11566,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ## Actions
 
-**_Life Drain_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**_Life Drain_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+
+_Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 **_Create Specter_**. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 
@@ -10589,9 +11599,13 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **_Multiattack_**. The scout makes two melee attacks or two ranged attacks.
 
-**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. _Hit_: 5 (1d6 + 2) piercing damage.
+**_Shortsword_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
-**_Longbow_**. Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. _Hit_: 6 (1d8 + 2) piercing damage.
+_Hit_: 5 (1d6 + 2) piercing damage.
+
+**_Longbow_**. Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target.
+
+_Hit_: 6 (1d8 + 2) piercing damage.
 
 [Éclaireur]: monsters_hd.md#Éclaireur
 
@@ -10629,9 +11643,13 @@ At will: _[detect magic]_
 
 **_Multiattack_**. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
-**_Scimitar_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. _Hit_: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
+**_Scimitar_**. Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
 
-**_Hurl Flame_**. Ranged Spell Attack: +7 to hit, range 120 ft., one target. _Hit_: 17 (5d6) fire damage.
+_Hit_: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
+
+**_Hurl Flame_**. Ranged Spell Attack: +7 to hit, range 120 ft., one target.
+
+_Hit_: 17 (5d6) fire damage.
 
 [Éfrit]: monsters_hd.md#Éfrit
 
@@ -10657,9 +11675,13 @@ At will: _[detect magic]_
 
 ## Actions
 
-**_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage.
+**_Ram_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
-**_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. _Hit_: 8 (2d4 + 3) bludgeoning damage.
+_Hit_: 6 (1d6 + 3) bludgeoning damage.
+
+**_Hooves_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature.
+
+_Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 [Élan]: monsters_hd.md#Élan
 
@@ -10686,9 +11708,13 @@ At will: _[detect magic]_
 
 ## Actions
 
-**_Ram_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. _Hit_: 11 (2d6 + 4) bludgeoning damage.
+**_Ram_**. Melee Weapon Attack: +6 to hit, reach 10 ft., one target.
 
-**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. _Hit_: 22 (4d8 + 4) bludgeoning damage.
+_Hit_: 11 (2d6 + 4) bludgeoning damage.
+
+**_Hooves_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature.
+
+_Hit_: 22 (4d8 + 4) bludgeoning damage.
 
 [Élan géant]: monsters_hd.md#Élan-géant
 
@@ -10718,7 +11744,9 @@ At will: _[detect magic]_
 
 **_Multiattack_**. The elemental makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+
+_Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 **_Whirlwind (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 
@@ -10752,7 +11780,9 @@ At will: _[detect magic]_
 
 **_Multiattack_**. The elemental makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. _Hit_: 13 (2d8 + 4) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+
+_Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 **_Whelm (Recharge 4-6)_**. Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
 
@@ -10787,7 +11817,9 @@ At will: _[detect magic]_
 
 **_Multiattack_**. The elemental makes two slam attacks.
 
-**_Slam_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. _Hit_: 14 (2d8 + 5) bludgeoning damage.
+**_Slam_**. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+
+_Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 [Élémentaire de la terre]: monsters_hd.md#Élémentaire-de-la-terre
 
@@ -10821,7 +11853,9 @@ At will: _[detect magic]_
 
 **_Multiattack_**. The elemental makes two touch attacks.
 
-**_Touch_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+**_Touch_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 
 [Élémentaire du feu]: monsters_hd.md#Élémentaire-du-feu
 
@@ -10847,9 +11881,13 @@ At will: _[detect magic]_
 
 ## Actions
 
-**_Gore_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 19 (3d8 + 6) piercing damage.
+**_Gore_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
 
-**_Stomp_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. _Hit_: 22 (3d10 + 6) bludgeoning damage.
+_Hit_: 19 (3d8 + 6) piercing damage.
+
+**_Stomp_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature.
+
+_Hit_: 22 (3d10 + 6) bludgeoning damage.
 
 [Éléphant]: monsters_hd.md#Éléphant
 
@@ -10880,7 +11918,9 @@ At will: _[detect magic]_
 
 ## Actions
 
-**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. _Hit_: 21 (5d6 + 4) piercing damage.
+**_Bite_**. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+
+_Hit_: 21 (5d6 + 4) piercing damage.
 
 [Épaulard]: monsters_hd.md#Épaulard
 
@@ -10910,7 +11950,9 @@ At will: _[detect magic]_
 
 ## Actions
 
-**_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. _Hit_: 5 (1d8 + 1) slashing damage.
+**_Longsword_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+
+_Hit_: 5 (1d8 + 1) slashing damage.
 
 [Épée volante]: monsters_hd.md#Épée-volante
 
@@ -10943,9 +11985,13 @@ At will: _[detect magic]_
 
 **_Multiattack_**. The erinyes makes three attacks.
 
-**_Longsword_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. _Hit_: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
+**_Longsword_**. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
 
-**_Longbow_**. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _[lesser restoration]_ spell or similar magic.
+_Hit_: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
+
+**_Longbow_**. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target.
+
+_Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _[lesser restoration]_ spell or similar magic.
 
 **_Parry_**. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 

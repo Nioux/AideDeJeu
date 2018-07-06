@@ -21,7 +21,7 @@ namespace AideDeJeuLib.Monsters
                     $"|STR|DEX|CON|INT|WIS|CHA|\n" +
                     $"|---|---|---|---|---|---|\n" +
                     $"|{Strength}|{Dexterity}|{Constitution}|{Intelligence}|{Wisdom}|{Charisma}|\n\n" +
-                    $"**Skills** {Skills}\n" +
+                    (Skills != null ? $"**Skills** {Skills}\n" : "") +
                     (SavingThrows != null ? $"**Saving Throws** {SavingThrows}\n" : "") +
                     (DamageVulnerabilities != null ? $"**Damage Vulnerabilities** {DamageVulnerabilities}\n" : "") +
                     (DamageImmunities != null ? $"**Damage Immunities** {DamageImmunities}\n" : "") +
