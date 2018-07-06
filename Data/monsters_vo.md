@@ -1384,6 +1384,7 @@ _Hit_: 5 (1d10) piercing damage.
 
 
 # Deer
+- NameVO: [Chevreuil]
 - Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 4 (1d8)
@@ -1402,6 +1403,8 @@ _Hit_: 5 (1d10) piercing damage.
 **_Bite_**. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
 
 _Hit_: 2 (1d4) piercing damage.
+
+[Chevreuil]: monsters_hd.md#chevreuil
 
 
 # Death Dog
@@ -4672,6 +4675,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
 
 # Priest
+- NameVO: [Ecclésiastique]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 13 (chain shirt)
 - **Hit Points** 27 (5d8 + 5)
@@ -4706,6 +4710,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 _Hit_: 3 (1d6) bludgeoning damage.
 
+[Ecclésiastique]: monsters_hd.md#Ecclésiastique
 
 
 # Roper
@@ -6583,6 +6588,7 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 
 
 # Homunculus
+- NameVO: [Homoncule]
 - Tiny construct, neutral
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 5 (2d4)
@@ -6607,6 +6613,8 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 **_Bite_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
 
 _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+
+[Homoncule]: monsters_hd.md#homoncule
 
 
 # Hydra
@@ -7730,6 +7738,7 @@ _Hit_: 4 (1d8) necrotic damage.
 
 
 # Mastiff
+- NameVO: [Mastiff]
 - Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 5 (1d8 + 1)
@@ -7753,6 +7762,8 @@ _Hit_: 4 (1d8) necrotic damage.
 **_Bite_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
 _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+
+[Mastiff]: monsters_hd.md#mastiff
 
 
 # Hell Hound
@@ -11035,6 +11046,7 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 
 
 # Wyvern
+- NameVO: [Vouivre]
 - Large dragon, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 110 (13d10 + 39)
@@ -11065,6 +11077,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 
 _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 
+[Vouivre]: monsters_hd.md#vouivre
 
 
 # Vrock

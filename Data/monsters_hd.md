@@ -5805,6 +5805,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 
 
 # Homoncule
+- NameVO: [Homunculus](monsters_vo.md#homunculus)
 - Créature artificielle de taille TP, neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 5 (2d4)
@@ -8825,6 +8826,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 
 
 # Vouivre
+- NameVO: [Wyvern](monsters_vo.md#wyvern)
 - Dragon de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -9680,6 +9682,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
 # Chevreuil
+- NameVO: [Deer](monsters_vo.md#deer)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 4 (1d8)
@@ -10638,6 +10641,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
 # Mastiff
+- NameVO: [Mastiff](monsters_vo.md#mastiff)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 5 (1d8+1)
@@ -12063,6 +12067,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 
 
 # Ecclésiastique
+- NameVO: [Priest](monsters_vo.md#priest)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 27 (5d8+5)
