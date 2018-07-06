@@ -4401,7 +4401,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
-## Réaction
+## Réactions
 
 **_Protection._** Quand une créature effectue une attaque contre le porteur de son amulette, le garde confère un bonus de +2 à la CA du porteur s'il se trouve à 1,50 mètre ou moins du porteur.
 

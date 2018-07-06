@@ -258,6 +258,8 @@ namespace AideDeJeu.Tools
                                 break;
                             case "Réaction":
                             case "Réactions":
+                            case "Reaction":
+                            case "Reactions":
                                 features = reactions = new List<string>();
                                 break;
                             case "Actions légendaires":

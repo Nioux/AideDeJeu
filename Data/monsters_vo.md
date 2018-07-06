@@ -773,6 +773,8 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 _Hit_: 5 (1d4 + 3) piercing damage.
 
+## Reactions
+
 **_Parry_**. The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
 [Capitaine Bandit]: monsters_hd.md#capitaine-bandit
@@ -1378,6 +1380,8 @@ _Hit_: 5 (1d10) piercing damage.
 
 **_Leadership (Recharges after a Short or Long Rest)_**. For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 
+## Reactions
+
 **_Parry_**. The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 
 [Chevalier]: monsters_hd.md#chevalier
@@ -1875,6 +1879,8 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 
 **_False Appearance_**. While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
+## Reactions
+
 **_Shriek_**. When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
 
 [Criard]: monsters_hd.md#criard
@@ -2179,6 +2185,8 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
 
 **_Animate Chains (Recharges after a Short or Long Rest)_**. Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried. Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+
+## Reactions
 
 **_Unnerving Mask_**. When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
@@ -5139,6 +5147,8 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
+## Reactions
+
 **_Shield_**. When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 
 [Garde animé]: monsters_hd.md#garde-animé
@@ -5210,6 +5220,8 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 **_Pseudopod_**. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 
 _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
+
+## Reactions
 
 **_Split_**. When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 
@@ -5294,6 +5306,8 @@ _Hit_: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used wit
 **_Shield Bash_**. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature.
 
 _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+## Reactions
 
 **_Parry_**. The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 
@@ -7533,6 +7547,8 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 
 **_Teleport_**. The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
+## Reactions
+
 **_Parry_**. The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 
 [Marilith]: monsters_hd.md#marilith
@@ -8279,6 +8295,8 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 **_Rapier_**. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
 
 _Hit_: 5 (1d8 + 1) piercing damage.
+
+## Reactions
 
 **_Parry_**. The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
@@ -9144,6 +9162,8 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 **_Pseudopod_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
 
 _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+
+## Reactions
 
 **_Split_**. When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 
@@ -11749,6 +11769,8 @@ _Hit_: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with
 **_Longbow_**. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target.
 
 _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _[lesser restoration]_ spell or similar magic.
+
+## Reactions
 
 **_Parry_**. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
