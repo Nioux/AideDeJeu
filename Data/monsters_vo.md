@@ -197,6 +197,7 @@ _Hit_: 8 (1d8 + 4) slashing damage.
 - **Languages** Common, Sphinx
 - **Challenge** 17 (18000 XP)
 - **Damage Immunities** psychic; bludgeoning, piercing and slashing from nonmagical attacks
+- **Condition Immunities** charmed, frightened
 
 ## Special Features
 
@@ -564,6 +565,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 - **Languages** -
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** poison, psychic
+- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -639,6 +641,7 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 - **Languages** Ignan
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** fire, poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -699,6 +702,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Condition Immunities** prone
 
 ## Special Features
 
@@ -738,6 +742,7 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 - **Challenge** 19 (22000 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -1081,6 +1086,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** necrotic
+- **Condition Immunities** charmed, exhaustion, poisoned
 
 ## Special Features
 
@@ -1697,6 +1703,7 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 - **Languages** understands Deep Speech but can't speak
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -1981,6 +1988,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 - **Senses** blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 0 (10 XP)
+- **Condition Immunities** blinded, deafened, frightened
 
 ## Special Features
 
@@ -2116,6 +2124,7 @@ _Hit_: 10 (3d6) fire damage.
 - **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
 - **Languages** -
 - **Challenge** 2 (450 XP)
+- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ## Special Features
 
@@ -2219,6 +2228,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2264,6 +2274,7 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2305,6 +2316,7 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 - **Challenge** 11 (7200 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2348,6 +2360,7 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2387,6 +2400,7 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 - **Challenge** 14 (11500 XP)
 - **Damage Immunities** cold, fire, poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2433,6 +2447,7 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2472,6 +2487,7 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2509,6 +2525,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 - **Challenge** 20 (25000 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -2604,6 +2621,7 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 - **Senses** darkvision 60 ft., passive Perception 11
 - **Languages** Common
 - **Challenge** 3 (700 XP)
+- **Condition Immunities** charmed
 
 ## Special Features
 
@@ -4349,6 +4367,7 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 - **Languages** Common, Draconic
 - **Challenge** 15 (13000 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -4406,6 +4425,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** Common, Draconic
 - **Challenge** 22 (41000 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -4463,6 +4483,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 - **Languages** Common, Draconic
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -4502,6 +4523,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -4576,6 +4598,7 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -4820,6 +4843,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 10 (5900 XP)
 - **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** charmed, exhaustion, frightened
 
 ## Special Features
 
@@ -5133,6 +5157,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** cold, necrotic, poison
 - **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ## Special Features
 
@@ -5231,6 +5256,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** lightning, poison
 - **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 
 ## Special Features
 
@@ -5293,6 +5319,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 - **Languages** understands commands given in any language but can't speak
 - **Challenge** 7 (2900 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ## Special Features
 
@@ -5331,6 +5358,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+- **Condition Immunities** exhaustion, petrified, poisoned
 
 ## Special Features
 
@@ -5367,6 +5395,7 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** lightning, slashing
 - **Damage Resistances** acid
+- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ## Special Features
 
@@ -5402,6 +5431,7 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -5628,6 +5658,7 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 9 (5000 XP)
 - **Damage Immunities** acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -5669,6 +5700,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -5710,6 +5742,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 16 (15000 XP)
 - **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -5753,6 +5786,7 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 10 (5900 XP)
 - **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -5790,6 +5824,7 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 - **Senses** darkvision 60 ft., passive Perception 14
 - **Languages** -
 - **Challenge** 5 (1800 XP)
+- **Condition Immunities** petrified
 
 ## Special Features
 
@@ -5825,6 +5860,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 - **Languages** Common
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** charmed, exhaustion, poisoned
 
 ## Special Features
 
@@ -6048,6 +6084,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 - **Languages** Abyssal, Common, Infernal, Primordial
 - **Challenge** 5 (1800 XP)
 - **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+- **Condition Immunities** charmed
 
 ## Special Features
 
@@ -6182,6 +6219,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 - **Challenge** 11 (7200 XP)
 - **Damage Immunities** psychic
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** charmed, frightened
 
 ## Special Features
 
@@ -6498,6 +6536,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -6761,6 +6800,7 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 0 (10 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** charmed, poisoned
 
 ## Special Features
 
@@ -6920,6 +6960,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 - **Languages** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
 - **Challenge** 23 (50000 XP)
 - **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** frightened, paralyzed
 
 ## Special Features
 
@@ -7021,6 +7062,7 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 - **Challenge** 21 (33000 XP)
 - **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Resistances** cold, lightning, necrotic
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ## Special Features
 
@@ -7088,6 +7130,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 - **Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** charmed, paralyzed, poisoned
 
 ## Special Features
 
@@ -7327,6 +7370,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 - **Challenge** 0 (10 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold
+- **Condition Immunities** charmed, frightened, poisoned
 
 ## Special Features
 
@@ -7663,6 +7707,7 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 - **Challenge** 16 (15000 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -7798,6 +7843,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 - **Languages** -
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** acid
+- **Condition Immunities** prone
 
 ## Special Features
 
@@ -7873,6 +7919,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 - **Senses** blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
+- **Condition Immunities** blinded, deafened, frightened
 
 ## Special Features
 
@@ -7972,6 +8019,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** fire
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ## Special Features
 
@@ -8004,6 +8052,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 - **Challenge** 15 (13000 XP)
 - **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** fire
+- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ## Special Features
 
@@ -8208,6 +8257,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 - **Challenge** 1/2 (100 XP)
 - **Damage Immunities** cold, poison
 - **Damage Vulnerabilities** bludgeoning, fire
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -8245,6 +8295,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 - **Challenge** 1/2 (100 XP)
 - **Damage Immunities** fire, poison
 - **Damage Vulnerabilities** cold
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -8282,6 +8333,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 - **Challenge** 1/2 (100 XP)
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** fire
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -8315,6 +8367,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 - **Languages** Aquan, Ignan
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** fire, poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -8349,6 +8402,7 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 - **Languages** Abyssal, Common
 - **Challenge** 8 (3900 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** charmed, poisoned
 
 ## Special Features
 
@@ -8393,6 +8447,7 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 - **Languages** Celestial, Common
 - **Challenge** 10 (5900 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** charmed, poisoned
 
 ## Special Features
 
@@ -8444,6 +8499,7 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 - **Challenge** 13 (10000 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -8510,6 +8566,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ## Special Features
 
@@ -8539,6 +8596,7 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ## Special Features
 
@@ -8573,6 +8631,7 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ## Special Features
 
@@ -8602,6 +8661,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 - **Languages** -
 - **Challenge** 1 (200 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ## Special Features
 
@@ -8635,6 +8695,7 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ## Special Features
 
@@ -8666,6 +8727,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 - **Languages** -
 - **Challenge** 2 (450 XP)
 - **Damage Resistances** bludgeoning, piercing, slashing
+- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ## Special Features
 
@@ -8697,6 +8759,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 - **Challenge** 3 (700 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** exhaustion, poisoned
 
 ## Special Features
 
@@ -8767,6 +8830,7 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** radiant
+- **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ## Special Features
 
@@ -9232,6 +9296,7 @@ _Hit_: 1 piercing damage.
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 16 (15000 XP)
 - **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** charmed, exhaustion, frightened
 
 ## Special Features
 
@@ -9330,6 +9395,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 - **Languages** -
 - **Challenge** 4 (1100 XP)
 - **Damage Immunities** acid, cold, lightning, slashing
+- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ## Special Features
 
@@ -9487,6 +9553,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -10316,6 +10383,7 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 - **Challenge** 21 (33000 XP)
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ## Special Features
 
@@ -10378,6 +10446,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 - **Challenge** 1 (200 XP)
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ## Special Features
 
@@ -10410,6 +10479,7 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** bludgeoning
+- **Condition Immunities** exhaustion, poisoned
 
 ## Special Features
 
@@ -10440,6 +10510,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 - **Challenge** 1/2 (100 XP)
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** bludgeoning
+- **Condition Immunities** exhaustion, poisoned
 
 ## Special Features
 
@@ -10466,6 +10537,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
 - **Damage Vulnerabilities** bludgeoning
+- **Condition Immunities** exhaustion, poisoned
 
 ## Special Features
 
@@ -10601,6 +10673,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 - **Languages** -
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison, psychic
+- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -10635,6 +10708,7 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 - **Languages** -
 - **Challenge** 30 (155000 XP)
 - **Damage Immunities** fire, poison; bludgeoning, piercing and slashing from nonmagical attacks
+- **Condition Immunities** charmed, frightened, paralyzed, poisoned
 
 ## Special Features
 
@@ -10700,6 +10774,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** lightning
 - **Damage Resistances** cold, fire
+- **Condition Immunities** blinded, deafened, exhaustion
 
 ## Special Features
 
@@ -10851,6 +10926,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 - **Senses** blindsight 30 ft. or 10 ft. while deafened ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 13
 - **Languages** Undercommon
 - **Challenge** 1/4 (50 XP)
+- **Condition Immunities** blinded
 
 ## Special Features
 
@@ -10886,6 +10962,7 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 - **Challenge** 6 (2300 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ## Special Features
 
@@ -11138,6 +11215,7 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 - **Languages** -
 - **Challenge** 1/2 (100 XP)
 - **Damage Resistances** acid, cold, fire
+- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ## Special Features
 
@@ -11313,6 +11391,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 - **Challenge** 6 (2300 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -11497,6 +11576,7 @@ _Hit_: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
 - **Languages** understands the languages it knew in life but can't speak
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -11527,6 +11607,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 - **Languages** understands Common and Giant but can't speak
 - **Challenge** 2 (450 XP)
 - **Damage Immunities** poison
+- **Condition Immunities** poisoned
 
 ## Special Features
 
@@ -11557,6 +11638,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** necrotic, poison
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ## Special Features
 
@@ -11735,6 +11817,7 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ## Special Features
 
@@ -11769,6 +11852,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** poison
 - **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ## Special Features
 
@@ -11806,6 +11890,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 - **Damage Immunities** poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Vulnerabilities** thunder
+- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 
 ## Special Features
 
@@ -11840,6 +11925,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 - **Challenge** 5 (1800 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ## Special Features
 
@@ -11941,6 +12027,7 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 - **Languages** -
 - **Challenge** 1/4 (50 XP)
 - **Damage Immunities** poison, psychic
+- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 
 ## Special Features
 
@@ -11974,6 +12061,7 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 - **Challenge** 12 (8400 XP)
 - **Damage Immunities** fire, poison
 - **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+- **Condition Immunities** poisoned
 
 ## Special Features
 
