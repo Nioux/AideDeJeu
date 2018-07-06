@@ -12565,6 +12565,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [épuisés]: conditions_hd.md#fatigue-et-épuisement
 [épuisées]: conditions_hd.md#fatigue-et-épuisement
 
+[agrandir/rétrécir]: spells_hd.md#agrandirrétrécir
 [animation des morts]: spells_hd.md#animation-des-morts
 [apaisement des émotions]: spells_hd.md#apaisement-des-émotions
 [arme spirituelle]: spells_hd.md#arme-spirituelle
@@ -12574,6 +12575,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [baies nourricières]: spells_hd.md#baies-nourricières
 [balisage]: spells_hd.md#balisage
 [bannissement]: spells_hd.md#bannissement
+[barrière de lames]: spells_hd.md#barrière-de-lames
 [bénédiction]: spells_hd.md#bénédiction
 [blessure]: spells_hd.md#blessure
 [bouclier]: spells_hd.md#bouclier
@@ -12582,16 +12584,23 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [bouffée de poison]: spells_hd.md#bouffée-de-poison
 [boule de feu]: spells_hd.md#boule-de-feu
 [carreau de feu]: spells_hd.md#carreau-de-feu
+[cécité/surdité]: spells_hd.md#cécitésurdité
 [changement de plan]: spells_hd.md#changement-de-plan
 [charme-personne]: spells_hd.md#charme-personne
+[chauffer le métal]: spells_hd.md#chauffer-le-métal
 [clairvoyance]: spells_hd.md#clairvoyance
 [colonne de feu]: spells_hd.md#colonne-de-feu
 [communication avec les animaux]: spells_hd.md#communication-avec-les-animaux
+[communion]: spells_hd.md#communion
 [cône de froid]: spells_hd.md#cône-de-froid
+[confusion]: spells_hd.md#confusion
 [contact glacial]: spells_hd.md#contact-glacial
 [contagion]: spells_hd.md#contagion
 [contamination]: spells_hd.md#contamination
 [contresort]: spells_hd.md#contresort
+[contrôle du climat]: spells_hd.md#contrôle-du-climat
+[création]: spells_hd.md#création
+[création de nourriture et d'eau]: spells_hd.md#création-de-nourriture-et-deau
 [déguisement]: spells_hd.md#déguisement
 [délivrance des malédictions]: spells_hd.md#délivrance-des-malédictions
 [désintégration]: spells_hd.md#désintégration
@@ -12601,6 +12610,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [détection du mal et du bien]: spells_hd.md#détection-du-mal-et-du-bien
 [détections des pensées]: spells_hd.md#détections-des-pensées
 [dissipation de la magie]: spells_hd.md#dissipation-de-la-magie
+[dissipation du mal et du bien]: spells_hd.md#dissipation-du-mal-et-du-bien
 [divination]: spells_hd.md#divination
 [doigt de mort]: spells_hd.md#doigt-de-mort
 [dominer un humanoïde]: spells_hd.md#dominer-un-humanoïde
@@ -12611,6 +12621,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [épargner les mourants]: spells_hd.md#Épargner-les-mourants
 [esprit impénétrable]: spells_hd.md#esprit-impénétrable
 [esprits gardiens]: spells_hd.md#esprits-gardiens
+[excavation]: spells_hd.md#excavation
 [explosion occulte]: spells_hd.md#explosion-occulte
 [festin des héros]: spells_hd.md#festin-des-héros
 [flamboiement funeste]: spells_hd.md#flamboiement-funeste
@@ -12619,6 +12630,8 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [fléau d'insectes]: spells_hd.md#fléau-dinsectes
 [flèche acide]: spells_hd.md#flèche-acide
 [flétrissement]: spells_hd.md#flétrissement
+[flou]: spells_hd.md#flou
+[forme gazeuse]: spells_hd.md#forme-gazeuse
 [gardien de la foi]: spells_hd.md#gardien-de-la-foi
 [globe d'invulnérabilité]: spells_hd.md#globe-dinvulnérabilité
 [gourdin magique]: spells_hd.md#gourdin-magique
@@ -12627,6 +12640,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [illusion mineure]: spells_hd.md#illusion-mineure
 [image majeure]: spells_hd.md#image-majeure
 [image miroir]: spells_hd.md#image-miroir
+[immobilisation de monstre]: spells_hd.md#immobilisation-de-monstre
 [immobilisation de personne]: spells_hd.md#immobilisation-de-personne
 [immobiliser un humanoïde]: spells_hd.md#immobiliser-un-humanoïde
 [injonction]: spells_hd.md#injonction
@@ -12634,19 +12648,29 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [invisibilité]: spells_hd.md#invisibilité
 [invisibilité supérieure]: spells_hd.md#invisibilité-supérieure
 [invoquer des animaux]: spells_hd.md#invoquer-des-animaux
+[invoquer un élémentaire]: spells_hd.md#invoquer-un-élémentaire
 [jeter une malédiction]: spells_hd.md#jeter-une-malédiction
 [langues]: spells_hd.md#langues
 [légende]: spells_hd.md#légende
+[léger comme une plume]: spells_hd.md#léger-comme-une-plume
+[lévitation]: spells_hd.md#lévitation
 [liberté de mouvement]: spells_hd.md#liberté-de-mouvement
 [localiser un objet]: spells_hd.md#localiser-un-objet
+[lueurs féeriques]: spells_hd.md#lueurs-féeriques
 [lumière]: spells_hd.md#lumière
+[lumières dansantes]: spells_hd.md#lumières-dansantes
 [main du mage]: spells_hd.md#main-du-mage
 [malédiction]: spells_hd.md#malédiction
 [manteau de givre]: spells_hd.md#manteau-de-givre
+[marche sur le vent]: spells_hd.md#marche-sur-le-vent
 [messager animal]: spells_hd.md#messager-animal
+[moquerie cruelle]: spells_hd.md#moquerie-cruelle
 [mot de pouvoir étourdissant]: spells_hd.md#mot-de-pouvoir-étourdissant
 [mot de pouvoir mortel]: spells_hd.md#mot-de-pouvoir-mortel
+[mur de feu]: spells_hd.md#mur-de-feu
 [mur de force]: spells_hd.md#mur-de-force
+[nappe de brouillard]: spells_hd.md#nappe-de-brouillard
+[non-détection]: spells_hd.md#non-détection
 [nuage de mort]: spells_hd.md#nuage-de-mort
 [pas brumeux]: spells_hd.md#pas-brumeux
 [passage sans trace]: spells_hd.md#passage-sans-trace
@@ -12658,22 +12682,29 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [prestidigitation]: spells_hd.md#prestidigitation
 [produire une flamme]: spells_hd.md#produire-une-flamme
 [projectile magique]: spells_hd.md#projectile-magique
+[protection contre le poison]: spells_hd.md#protection-contre-le-poison
 [quête]: spells_hd.md#quête
 [rayon affaiblissant]: spells_hd.md#rayon-affaiblissant
 [rayon de givre]: spells_hd.md#rayon-de-givre
+[relever les morts]: spells_hd.md#relever-les-morts
 [réparation]: spells_hd.md#réparation
 [résistance]: spells_hd.md#résistance
 [respiration aquatique]: spells_hd.md#respiration-aquatique
 [restauration inférieure]: spells_hd.md#restauration-inférieure
 [restauration supérieure]: spells_hd.md#restauration-supérieure
+[résurrection]: spells_hd.md#résurrection
+[rêve]: spells_hd.md#rêve
 [sanctuaire]: spells_hd.md#sanctuaire
 [scrutation]: spells_hd.md#scrutation
 [silence]: spells_hd.md#silence
 [soin des blessures]: spells_hd.md#soin-des-blessures
+[soins des blessures]: spells_hd.md#soins-des-blessures
 [sommeil]: spells_hd.md#sommeil
+[souhait]: spells_hd.md#souhait
 [stalagmites fulgurantes]: spells_hd.md#stalagmites-fulgurantes
 [strangulation]: spells_hd.md#strangulation
 [suggestion]: spells_hd.md#suggestion
+[télékinésie]: spells_hd.md#télékinésie
 [téléportation]: spells_hd.md#téléportation
 [tempête de grêle]: spells_hd.md#tempête-de-grêle
 [ténèbres]: spells_hd.md#ténèbres

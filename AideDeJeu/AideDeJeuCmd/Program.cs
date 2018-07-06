@@ -160,7 +160,7 @@ namespace AideDeJeuCmd
             }
 
             Console.WriteLine(mdVF);
-            await SaveStringAsync(dataDir + "monsters_hd_tmp.md", mdVF);
+            //await SaveStringAsync(dataDir + "monsters_hd_tmp.md", mdVF);
 
             return;
 
