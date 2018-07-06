@@ -192,9 +192,11 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 **_Incantation innée._** La caractéristique d'incantation du déva est le Charisme (DD du jet de sauvegarde contre les sorts 17). Le déva peut lancer les sorts suivants de manière innée avec des composantes verbales uniquement :
 
-**À volonté :** détection du mal et du bien
+* **À volonté :** _[détection du mal et du bien]_
 
-**1/jour chacun :** communion, relever les morts Résistance à la magie. Le déva obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+* **1/jour chacun :** _[communion]_, _[relever les morts]_ 
+
+**_Résistance à la magie._** Le déva obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
 
@@ -236,11 +238,11 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 **_Incantation innée._** La caractéristique d'incantation du planétar est le Charisme (DD du jet de sauvegarde contre les sorts 20). Le planétar peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-**À volonté :** détection du mal et du bien, invisibilité (soi-même uniquement)
+* **À volonté :** _[détection du mal et du bien]_, _[invisibilité]_ (soi-même uniquement)
 
-**3/jour chacun :** barrière de lames, colonne de feu, dissipation du mal et du bien, relever les morts
+* **3/jour chacun :** _[barrière de lames]_, _[colonne de feu]_, _[dissipation du mal et du bien]_, _[relever les morts]_
 
-**1/jour chacun :** communion, contrôle du climat, fléau d'insectes
+* **1/jour chacun :** _[communion]_, _[contrôle du climat]_, _[fléau d'insectes]_
 
 **_Résistance à la magie._** Le planétar obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -283,11 +285,11 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 **_Incantation innée._** La caractéristique d'incantation du solar est le Charisme (DD du jet de sauvegarde contre les sorts 25). Le solar peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-**À volonté :** détection du mal et du bien, invisibilité (soi-même uniquement)
+* **À volonté :** _[détection du mal et du bien]_, _[invisibilité]_ (soi-même uniquement)
 
-**3/jour chacun :** barrière de lames, dissipation du mal et du bien, résurrection
+* **3/jour chacun :** _[barrière de lames]_, _[dissipation du mal et du bien]_, _[résurrection]_
 
-**1/jour chacun :** communion, contrôle du climat
+* **1/jour chacun :** _[communion]_, _[contrôle du climat]_
 
 **_Résistance à la magie._** Le solar obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -752,11 +754,11 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sa
 
 **_Incantation innée._** La caractéristique d'incantation du couatl est le Charisme (DD du jet de sauvegarde contre les sorts 14). Le couatl peut lancer les sorts suivants de manière innée avec des composantes verbales seulement :
 
-* **À volonté :** détection de la magie, détection des pensées, détection du mal et du bien
+* **À volonté :** _[détection de la magie]_, _[détection des pensées]_, _[détection du mal et du bien]_
 
-* **3/jour chacun :** bénédiction, bouclier, création de nourriture et d'eau, protection contre le poison, restauration inférieure, sanctuaire, soins des blessures
+* **3/jour chacun :** _[bénédiction]_, _[bouclier]_, _[création de nourriture et d'eau]_, _[protection contre le poison]_, _[restauration inférieure]_, _[sanctuaire]_, _[soins des blessures]_
 
-* **1/jour chacun :** restauration supérieure, rêve, scrutation
+* **1/jour chacun :** _[restauration supérieure]_, _[rêve]_, _[scrutation]_
 
 ## Actions
 
@@ -912,9 +914,9 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 **_Incantation innée._** La caractéristique d'incantation du glabrezu est l'Intelligence (DD du jet de sauvegarde contre les sorts 16). Le glabrezu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** détection de la magie, dissipation de la magie, ténèbres
+* **À volonté :** _[détection de la magie]_, _[dissipation de la magie]_, _[ténèbres]_
 
-* **1/jour chacun :** confusion, mot de pouvoir étourdissant, vol
+* **1/jour chacun :** _[confusion]_, _[mot de pouvoir étourdissant]_, _[vol]_
 
 **_Résistance à la magie._** Le glabrezu obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -1202,7 +1204,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 **_Incantation innée._** Le dévoreur arcanique peut lancer le sort suivant de manière innée sans aucune composante matérielle :
 
-* **À volonté :** excavation
+* **À volonté :** _[excavation]_
 
 **_Résistance à la magie._** Le dévoreur arcanique bénéficie d'un avantage aux jets de sauvegarde contre les sorts et effets magiques.
 
@@ -1576,9 +1578,9 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 
 **_Incantation innée._** La caractéristique d'incantation du diantrefosse est le Charisme (DD du jet de sauvegarde contre les sorts 21). Le diantrefosse peut lancer les sorts suivants de manière innée sans composante matérielle :
 
-* **À volonté :** boule de feu, détection de la magie
+* **À volonté :** _[boule de feu]_, _[détection de la magie]_
 
-* **3/jour chacun :** immobilisation de monstre, mur de feu
+* **3/jour chacun :** _[immobilisation de monstre]_, _[mur de feu]_
 
 **_Résistance à la magie._** Le diantrefosse obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -3786,9 +3788,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 **_Incantation innée._** La caractéristique d'incantation du drider est la Sagesse (DD du jet de sauvegarde contre les sorts 13). Le drider peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** lumières dansantes
+* **À volonté :** _[lumières dansantes]_
 
-* **1/jour chacun :** lueurs féeriques, ténèbres
+* **1/jour chacun :** _[lueurs féeriques]_, _[ténèbres]_
 
 **_Marche dans les toiles._** Le drider ignore les restrictions de déplacement imposées par les toiles d'araignée.
 
@@ -3835,9 +3837,9 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 **_Incantation innée._** La caractéristique d'incantation du drow est le Charisme (DD du jet de sauvegarde contre les sorts 11). Le drow peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** lumières dansantes
+* **À volonté :** _[lumières dansantes]_
 
-* **1/jour chacun :** lueurs féeriques, ténèbres
+* **1/jour chacun :** _[lueurs féeriques]_, _[ténèbres]_
 
 **_Sensibilité à la lumière du soleil._** Le drow subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.
 
@@ -3898,9 +3900,9 @@ Voici ses sorts de clerc préparés :
 
 **_Incantation innée._** La caractéristique d'incantation est le Charisme (DD du jet de sauvegarde contre les sorts 15). La prêtresse peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** lumières dansantes
+* **À volonté :** _[lumières dansantes]_
 
-* **1/jour chacun :** lueurs féeriques, ténèbres
+* **1/jour chacun :** _[lueurs féeriques]_, _[ténèbres]_
 
 **_Sensibilité à la lumière du soleil._** La prêtresse subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.
 
@@ -4488,11 +4490,11 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 
 **_Incantation innée._** La caractéristique d'incantation du géant est le Charisme. Le géant peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** détection de la magie, lumière, nappe de brouillard
+* **À volonté :** _[détection de la magie]_, _[lumière]_, _[nappe de brouillard]_
 
-* **3/jour chacun :** léger comme une plume, pas brumeux, télékinésie, vol
+* **3/jour chacun :** _[léger comme une plume]_, _[pas brumeux]_, _[télékinésie]_, _[vol]_
 
-* **1/jour chacun :** contrôle du climat, forme gazeuse
+* **1/jour chacun :** _[contrôle du climat]_, _[forme gazeuse]_
 
 **_Odorat aiguisé._** Le géant obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat.
 
@@ -4568,9 +4570,9 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 
 **_Incantation innée._** La caractéristique d'incantation du géant est le Charisme (DD du jet de sauvegarde contre ses sorts 17). Le géant peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** détection de la magie, léger comme une plume, lévitation, lumière
+* **À volonté :** _[détection de la magie]_, _[léger comme une plume]_, _[lévitation]_, _[lumière]_
 
-* **3/jour chacun :** contrôle du climat, respiration aquatique
+* **3/jour chacun :** _[contrôle du climat]_, _[respiration aquatique]_
 
 ## Actions
 
@@ -4670,13 +4672,13 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 
 **_Incantation innée._** La caractéristique d'incantation du djinn est le Charisme (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Le djinn peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** détection de la magie, détection du mal et du bien, vague tonnante
+* **À volonté :** _[détection de la magie]_, _[détection du mal et du bien]_, _[vague tonnante]_
 
-* **3/jour chacun :** création de nourriture et d'eau (peut créer du vin à la place de l'eau), langues, marche sur le vent
+* **3/jour chacun :** _[création de nourriture et d'eau]_ (peut créer du vin à la place de l'eau), _[langues]_, _[marche sur le vent]_
 
-* **1/jour chacun :** changement de plan, création, forme gazeuse, invisibilité, image majeure, invoquer un élémentaire (élémentaire de l'air seulement)
+* **1/jour chacun :** _[changement de plan]_, _[création]_, _[forme gazeuse]_, _[invisibilité]_, _[image majeure]_, _[invoquer un élémentaire]_ (élémentaire de l'air seulement)
 
-Trépas élémentaire. Quand le djinn meurt, son corps se dissout en une brise chaude en ne laissant derrière lui que ses objets équipés ou transportés.
+**_Trépas élémentaire._** Quand le djinn meurt, son corps se dissout en une brise chaude en ne laissant derrière lui que ses objets équipés ou transportés.
 
 ## Actions
 
@@ -4714,13 +4716,13 @@ Si le test est réussi, la créature n'est plus [entravée] et se déplace vers 
 
 **_Incantation innée._** La caractéristique d'incantation de l'éfrit est le Charisme (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** détection de la magie
+* **À volonté :** _[détection de la magie]_
 
-* **3/jour chacun :** agrandir/rétrécir, langues
+* **3/jour chacun :** _[agrandir/rétrécir]_, _[langues]_
 
-* **1/jour chacun :** changement de plan, forme gazeuse, invisibilité, image majeure, invoquer un élémentaire (élémentaire du feu seulement), mur de feu
+* **1/jour chacun :** _[changement de plan]_, _[forme gazeuse]_, _[invisibilité]_, _[image majeure]_, _[invoquer un élémentaire]_ (élémentaire du feu seulement), _[mur de feu]_
 
-Trépas élémentaire. Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
+**_Trépas élémentaire._** Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
 
 ## Actions
 
@@ -4827,9 +4829,11 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 **_Incantation innée._** La caractéristique d'incantation innée du gnome est l'Intelligence (DD du jet de sauvegarde contre les sorts 11). Le gnome peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** non-détection (soi-même uniquement)
+* **À volonté :** _[non-détection]_ (soi-même uniquement)
 
-* **1/jour chacun :** cécité/surdité, déguisement, flou Ruse gnome. Le gnome obtient un avantage lors des jets de sauvegarde d'Intelligence, de Sagesse et de Charisme contre la magie.
+* **1/jour chacun :** _[cécité/surdité]_, _[déguisement]_, _[flou]_ 
+
+**_Ruse gnome._** Le gnome obtient un avantage lors des jets de sauvegarde d'Intelligence, de Sagesse et de Charisme contre la magie.
 
 ## Actions
 
@@ -5508,7 +5512,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 
 **_Incantation innée._** La caractéristique d'incantation de la guenaude est le Charisme (DD du jet de sauvegarde contre les sorts 12). La guenaude peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** illusion mineure, lumières dansantes, moquerie cruelle
+* **À volonté :** _[illusion mineure]_, _[lumières dansantes]_, _[moquerie cruelle]_
 
 ## Actions
 
@@ -6121,9 +6125,9 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 
 **_Incantation innée._** La caractéristique d'incantation de la licorne est le Charisme (DD du jet de sauvegarde contre les sorts 14). La licorne peut lancer les sorts suivants de manière innée sans aucune composante :
 
-* **À volonté :** détection du mal et du bien, druidisme, passage sans trace
+* **À volonté :** _[détection du mal et du bien]_, _[druidisme]_, _[passage sans trace]_
 
-* **1/jour chacun :** apaisement des émotions, dissipation du mal et du bien, enchevêtrement
+* **1/jour chacun :** _[apaisement des émotions]_, _[dissipation du mal et du bien]_, _[enchevêtrement]_
 
 **_Résistance à la magie._** La licorne obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -6580,7 +6584,7 @@ Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer
 
 **_Faux-semblant._** Aussi longtemps que le méphite reste immobile, il est impossible de le distinguer d'un éclat de glace ordinaire.
 
-**_Incantation innée (1/jour)._** Le méphite peut lancer nappe de brouillard de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
+**_Incantation innée (1/jour)._** Le méphite peut lancer _[nappe de brouillard]_ de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
 
 ## Actions
 
@@ -6616,7 +6620,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 
 **_Faux-semblant._** Aussi longtemps que le méphite reste immobile, il est impossible de le distinguer d'un amas de magma ordinaire.
 
-**_Incantation innée (1/jour)._** Le méphite peut lancer chauffer le métal (DD du jet de sauvegarde contre le sort 10) de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
+**_Incantation innée (1/jour)._** Le méphite peut lancer _[chauffer le métal]_ (DD du jet de sauvegarde contre le sort 10) de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
 
 ## Actions
 
@@ -6650,7 +6654,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 
 **_Explosion finale._** Quand le méphite meurt, il explose en une gerbe de poussière. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [aveuglées] pendant 1 minute. Une créature [aveuglée] peut retenter le jet de sauvegarde à chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-**_Incantation innée (1/jour)._** Le méphite peut lancer sommeil de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
+**_Incantation innée (1/jour)._** Le méphite peut lancer _[sommeil]_ de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
 
 ## Actions
 
@@ -6684,7 +6688,7 @@ Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tour
 
 **_Explosion finale._** Quand le méphite meurt, il explose en un nuage de vapeur. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 pour ne pas subir 4 (1d8) dégâts de feu.
 
-**_Incantation innée (1/jour)._** Le méphite peut lancer flou de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
+**_Incantation innée (1/jour)._** Le méphite peut lancer _[flou]_ de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
 
 ## Actions
 
@@ -6899,7 +6903,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 
 ## Capacités
 
-**_Incantation._** La momie auguste est une lanceuse de sorts de niveau 10. Sa caractéristique d'incanta- tion est la Sagesse (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par la momie auguste :
+**_Incantation._** La momie auguste est une lanceuse de sorts de niveau 10. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par la momie auguste :
 
 * **Tours de magie (à volonté) :** _[flamme sacrée]_, _[thaumaturgie]_
 
@@ -6984,7 +6988,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 
 * **5e niveau (2 emplacements) :** _[dominer un humanoïde]_
 
-**_Reconstitution._** S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de souhait peut empêcher le fonctionnement de ce trait.
+**_Reconstitution._** S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de _[souhait]_ peut empêcher le fonctionnement de ce trait.
 
 ## Actions
 
@@ -7029,7 +7033,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de s
 
 * **6e niveau (1 emplacement) :** _[vision suprême]_
 
-**_Reconstitution._** S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de souhait peut empêcher le fonctionnement de ce trait.
+**_Reconstitution._** S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de _[souhait]_ peut empêcher le fonctionnement de ce trait.
 
 ## Actions
 
@@ -7268,9 +7272,9 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 
 **_Incantation innée._** La caractéristique d'incantation de l'oni est le Charisme (DD du jet de sauvegarde contre les sorts 13). L'oni peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** invisibilité, ténèbres
+* **À volonté :** _[invisibilité]_, _[ténèbres]_
 
-* **1/jour chacun :** charme-personne, cône de froid, forme gazeuse, sommeil
+* **1/jour chacun :** _[charme-personne]_, _[cône de froid]_, _[forme gazeuse]_, _[sommeil]_
 
 **_Régénération._** L'oni récupère 10 points de vie au début de son tour s'il lui reste 1 point de vie au moins.
 
@@ -7556,11 +7560,11 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 **_Incantation innée._** La caractéristique d'incantation du rakshasa est le Charisme (DD du jet de sauvegarde contre les sorts 18, +10 pour toucher avec des attaques de sort). Le rakshasa peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
-* **À volonté :** déguisement, détection des pensées, illusion mineure, main du mage
+* **À volonté :** _[déguisement]_, _[détection des pensées]_, _[illusion mineure]_, _[main du mage]_
 
-* **3/jour chacun :** charme-personne, détection de la magie, invisibilité, image majeure, suggestion
+* **3/jour chacun :** _[charme-personne]_, _[détection de la magie]_, _[invisibilité]_, _[image majeure]_, _[suggestion]_
 
-* **1/jour chacun :** changement de plan, dominer un humanoïde, vision suprême, vol
+* **1/jour chacun :** _[changement de plan]_, _[dominer un humanoïde]_, _[vision suprême]_, _[vol]_
 
 ## Actions
 

@@ -737,7 +737,7 @@ Speed reduced to 0 until the start of its next turn.
 
 
 # Bandit Captain
-- NameVO: [Bandit, capitaine]
+- NameVO: [Capitaine Bandit]
 - Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 15 (studded leather)
 - **Hit Points** 65 (10d8 + 20)
@@ -763,7 +763,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Parry_**. The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
-[Bandit, capitaine]: monsters_hd.md#bandit,-capitaine
+[Capitaine Bandit]: monsters_hd.md#capitaine-bandit
 
 
 # Banshee
@@ -904,7 +904,7 @@ Speed reduced to 0 until the start of its next turn.
 
 
 # Berserker
-- NameVO: [Berserk]
+- NameVO: [Berserker]
 - Medium humanoid (any race), any chaotic alignment
 - **Armor Class** 13 (hide armor)
 - **Hit Points** 67 (9d8 + 27)
@@ -926,7 +926,7 @@ Speed reduced to 0 until the start of its next turn.
 
 **_Greataxe_**. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. _Hit_: 9 (1d12 + 3) slashing damage.
 
-[Berserk]: monsters_hd.md#berserk
+[Berserker]: monsters_hd.md#berserker
 
 
 # Badger
@@ -2146,7 +2146,7 @@ Cantrip (at will): _[mage hand]_
 
 
 # Chain Devil
-- NameVO: [Diable à chaînes]
+- NameVO: [Diable des chaînes]
 - Medium fiend (devil), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 85 (10d8 + 40)
@@ -2179,7 +2179,7 @@ Cantrip (at will): _[mage hand]_
 
 **_Unnerving Mask_**. When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
-[Diable à chaînes]: monsters_hd.md#diable-à-chaînes
+[Diable des chaînes]: monsters_hd.md#diable-des-chaînes
 
 
 # Ice Devil
@@ -2380,7 +2380,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 
 # Doppelganger
-- NameVO: [Doppelganger]
+- NameVO: [Doppleganger]
 - Medium monstrosity (shapechanger), neutral
 - **Armor Class** 14
 - **Hit Points** 52 (8d8 + 16)
@@ -2411,7 +2411,7 @@ At will: _[detect evil and good], [detect magic], [thunderwave]_
 
 **_Read Thoughts_**. The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 
-[Doppelganger]: monsters_hd.md#doppelganger
+[Doppleganger]: monsters_hd.md#doppleganger
 
 
 # Adult White Dragon
@@ -7793,7 +7793,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 
 # Swarm of Bats
-- NameVO: [Nuée de chauves-souris]
+- NameVO: [Nuée de chauve-souris]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -7820,7 +7820,7 @@ Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
 
 **_Bites_**. Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-[Nuée de chauves-souris]: monsters_hd.md#nuée-de-chauves-souris
+[Nuée de chauve-souris]: monsters_hd.md#nuée-de-chauve-souris
 
 
 # Swarm of Ravens
