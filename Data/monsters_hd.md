@@ -7330,7 +7330,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
 # Chaman orc
-- Humanoïde (demi-orc) de taille Neutre Mauvais
+- Humanoïde (demi-orc) de taille M, Neutre Mauvais
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m
