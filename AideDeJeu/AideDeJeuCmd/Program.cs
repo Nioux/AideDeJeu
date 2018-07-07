@@ -18,24 +18,24 @@ namespace AideDeJeuCmd
     class Program
     {
 
-        static async Task<IEnumerable<Spell>> TestMarkdown(string filename)
-        {
-            using (var sr = new StreamReader(filename))
-            {
-                var md = await sr.ReadToEndAsync();
-                var document = Markdig.Parsers.MarkdownParser.Parse(md);
-                //DumpMarkdownDocument(document);
+        //static async Task<IEnumerable<Spell>> TestMarkdown(string filename)
+        //{
+        //    using (var sr = new StreamReader(filename))
+        //    {
+        //        var md = await sr.ReadToEndAsync();
+        //        var document = Markdig.Parsers.MarkdownParser.Parse(md);
+        //        //DumpMarkdownDocument(document);
 
-                var spellss = document.ToSpells<SpellHD>();
-                Console.WriteLine("ok");
-                var md2 = spellss.ToMarkdownString();
-                if (md.CompareTo(md2) != 0)
-                {
-                    Debug.WriteLine("failed");
-                }
-                return spellss;
-            }
-        }
+        //        var spellss = document.ToSpells<SpellHD>();
+        //        Console.WriteLine("ok");
+        //        var md2 = spellss.ToMarkdownString();
+        //        if (md.CompareTo(md2) != 0)
+        //        {
+        //            Debug.WriteLine("failed");
+        //        }
+        //        return spellss;
+        //    }
+        //}
 
         static async Task<IEnumerable<Monster>> TestMarkdownMonsters(string filename)
         {
