@@ -1,4 +1,5 @@
-﻿# Agrandir/rétrécir
+﻿
+# Agrandir/rétrécir
 - NameVO: [Enlarge/Reduce](spells_vo.md#enlargereduce)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de limaille de fer)

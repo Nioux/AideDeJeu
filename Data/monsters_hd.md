@@ -194,7 +194,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 * **À volonté :** _[détection du mal et du bien]_
 
-* **1/jour chacun :** _[communion]_, _[relever les morts]_ 
+* **1/jour chacun :** _[communion]_, _[rappel à la vie]_ 
 
 **_Résistance à la magie._** Le déva obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -240,7 +240,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 * **À volonté :** _[détection du mal et du bien]_, _[invisibilité]_ (soi-même uniquement)
 
-* **3/jour chacun :** _[barrière de lames]_, _[colonne de feu]_, _[dissipation du mal et du bien]_, _[relever les morts]_
+* **3/jour chacun :** _[barrière de lames]_, _[colonne de flamme]_, _[dissipation du mal et du bien]_, _[rappel à la vie]_
 
 * **1/jour chacun :** _[communion]_, _[contrôle du climat]_, _[fléau d'insectes]_
 
@@ -756,7 +756,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sa
 
 * **À volonté :** _[détection de la magie]_, _[détection des pensées]_, _[détection du mal et du bien]_
 
-* **3/jour chacun :** _[bénédiction]_, _[bouclier]_, _[création de nourriture et d'eau]_, _[protection contre le poison]_, _[restauration inférieure]_, _[sanctuaire]_, _[soins des blessures]_
+* **3/jour chacun :** _[bénédiction]_, _[bouclier]_, _[création de nourriture et d'eau]_, _[protection contre le poison]_, _[restauration inférieure]_, _[sanctuaire]_, _[soin des blessures]_
 
 * **1/jour chacun :** _[restauration supérieure]_, _[rêve]_, _[scrutation]_
 
@@ -1580,7 +1580,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 
 * **À volonté :** _[boule de feu]_, _[détection de la magie]_
 
-* **3/jour chacun :** _[immobilisation de monstre]_, _[mur de feu]_
+* **3/jour chacun :** _[immobiliser un monstre]_, _[mur de feu]_
 
 **_Résistance à la magie._** Le diantrefosse obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -6017,7 +6017,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 * **3/jour chacun :** _[charme-personne]_, _[image miroir]_, _[scrutation]_, _[suggestion]_
 
-* **1/jour :** _[quête]_
+* **1/jour :** _[coercition mystique]_
 
 ## Actions
 
@@ -6067,13 +6067,13 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 
 * **1er niveau (4 emplacements) :** _[détection de la magie]_, _[projectile magique]_, _[bouclier]_, _[vague tonnante]_
 
-* **2e niveau (3 emplacements) :** _[flèche acide]_, _[détections des pensées]_, _[invisibilité]_, _[image miroir]_
+* **2e niveau (3 emplacements) :** _[flèche acide]_, _[détection des pensées]_, _[invisibilité]_, _[image miroir]_
 
 * **3e niveau (3 emplacements) :** _[contresort]_, _[dissipation de la magie]_, _[boule de feu]_, _[animation des morts]_
 
 * **4e niveau (3 emplacements) :** _[flétrissement]_, _[porte dimensionnelle]_
 
-* **5e niveau (3 emplacements) :** _[nuage de mort]_, _[scrutation]_
+* **5e niveau (3 emplacements) :** _[nuage mortel]_, _[scrutation]_
 
 * **6e niveau (2 emplacements) :** _[désintégration]_, _[globe d'invulnérabilité]_
 
@@ -6879,7 +6879,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 
 **_Poing en décomposition._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
-_Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort délivrance des malédictions ou une magie similaire.
+_Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction]_ ou une magie similaire.
 
 **_Regard effroyable._** La momie cible une créature située à 18 mètres ou moins dans son champ de vision.
 
@@ -6914,7 +6914,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 
 * **1er niveau (4 emplacements) :** _[balisage]_, _[bouclier de la foi]_, _[injonction]_
 
-* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobilisation de personne]_, _[silence]_
+* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobiliser un humanoïde]_, _[silence]_
 
 * **3e niveau (3 emplacements) :** _[animation des morts]_, _[dissipation de la magie]_
 
@@ -6934,7 +6934,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 
 **_Poing en décomposition._** Attaque d'arme au corps à corps : +9 pour toucher, allonge 1,50 m, une cible.
 
-_Touché :_ 14 (3d6+4) dégâts contondants plus 21 (6d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 16 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort délivrance des malédictions ou une magie similaire.
+_Touché :_ 14 (3d6+4) dégâts contondants plus 21 (6d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 16 pour ne pas contracter la malédiction de la putréfaction de momie. La cible maudite ne peut plus récupérer de point de vie et son total maximum de points de vie diminue de 10 (3d6) toutes les 24 heures par la suite. Si la malédiction réduit à 0 le total maximum de points de vie de la cible, celle-ci meurt et son corps tombe en poussière. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction]_ ou une magie similaire.
 
 **_Regard effroyable._** La momie auguste cible une créature située à 18 mètres ou moins dans son champ de vision. Si la cible peut voir la momie auguste, elle doit réussir un jet de sauvegarde de Sagesse DD 16 contre cette magie pour ne pas être [terrorisée] jusqu'à la fin du prochain tour de la momie.
 
@@ -6985,7 +6985,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 
 * **1er niveau (4 emplacements) :** _[charme-personne]_, _[détection de la magie]_, _[sommeil]_
 
-* **2e niveau (3 emplacements) :** _[détection des pensées]_, _[immobilisation de personne]_
+* **2e niveau (3 emplacements) :** _[détection des pensées]_, _[immobiliser un humanoïde]_
 
 * **3e niveau (3 emplacements) :** _[éclair]_, _[respiration aquatique]_
 
@@ -7028,13 +7028,13 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de s
 
 * **1er niveau (4 emplacements) :** _[bouclier de la foi]_, _[injonction]_, _[soin des blessures]_
 
-* **2e niveau (3 emplacements) :** _[apaisement des émotions]_, _[immobilisation de personne]_
+* **2e niveau (3 emplacements) :** _[apaisement des émotions]_, _[immobiliser un humanoïde]_
 
-* **3e niveau (3 emplacements) :** _[clairvoyance]_, _[malédiction]_
+* **3e niveau (3 emplacements) :** _[clairvoyance]_, _[jeter une malédiction]_
 
 * **4e niveau (3 emplacements) :** _[bannissement]_, _[liberté de mouvement]_
 
-* **5e niveau (2 emplacements) :** _[quête]_, _[colonne de feu]_
+* **5e niveau (2 emplacements) :** _[coercition mystique]_, _[colonne de flamme]_
 
 * **6e niveau (1 emplacement) :** _[vision suprême]_
 
@@ -7580,7 +7580,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 _Touché :_ 9 (2d6+2) dégâts tranchants et la cible est maudite si c'est une créature.
 
-La malédiction magique prend effet chaque fois que la cible prend un repos court ou long en envahissant ses pensées d'images horribles et de cauchemars. Le repos long ou court ne permet plus à la cible maudite de récupérer quoi que ce soit. La malédiction persiste tant qu'elle n'est pas levée par le sort délivrance des malédictions ou une magie similaire.
+La malédiction magique prend effet chaque fois que la cible prend un repos court ou long en envahissant ses pensées d'images horribles et de cauchemars. Le repos long ou court ne permet plus à la cible maudite de récupérer quoi que ce soit. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction]_ ou une magie similaire.
 
 
 # Remorhaz
@@ -7960,7 +7960,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sau
 
 * **4e niveau (3 emplacements) :** _[bannissement]_, _[liberté de mouvement]_
 
-* **5e niveau (2 emplacements) :** _[colonne de feu]_, _[restauration supérieure]_
+* **5e niveau (2 emplacements) :** _[colonne de flamme]_, _[restauration supérieure]_
 
 * **6e niveau (1 emplacement) :** _[festin des héros]_
 
@@ -8024,7 +8024,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 * **2e niveau (3 emplacements) :** _[localiser un objet]_, _[suggestion]_, _[ténèbres]_
 
-* **3e niveau (3 emplacements) :** _[dissipation de la magie]_, _[langues]_, _[délivrance des malédictions]_
+* **3e niveau (3 emplacements) :** _[dissipation de la magie]_, _[langues]_, _[lever une malédiction]_
 
 * **4e niveau (3 emplacements) :** _[bannissement]_, _[invisibilité supérieure]_
 
@@ -11838,7 +11838,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 L'archimage peut lancer déguisement et invisibilité à volonté et dispose des sorts de magicien préparés suivants :
 
-* **Tours de magie (à volonté) :** _[carreau de feu]_, _[lumière]_, _[main du mage]_, _[poigne électrique]_, _[prestidigitation]_
+* **Tours de magie (à volonté) :** _[trait de feu]_, _[lumière]_, _[main du mage]_, _[poigne électrique]_, _[prestidigitation]_
 
 * **1er niveau (4 emplacements) :** _[armure du mage]_*, _[détection de la magie]_, _[identification]_, _[projectile magique]_
 
@@ -12197,7 +12197,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 * **1er niveau (4 emplacements) :** _[blessure]_, _[bouclier de la foi]_, _[injonction]_
 
-* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobilisation de personne]_
+* **2e niveau (3 emplacements) :** _[arme spirituelle]_, _[immobiliser un humanoïde]_
 
 **_Sombre dévotion._** Le fanatique obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [charmé] ou [terrorisé].
 
@@ -12322,7 +12322,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 **_Incantation._** Le mage est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Le mage dispose des sorts de magicien préparés suivants :
 
-* **Tours de magie (à volonté) :** _[carreau de feu]_, _[lumière]_, _[main du mage]_, _[prestidigitation]_
+* **Tours de magie (à volonté) :** _[trait de feu]_, _[lumière]_, _[main du mage]_, _[prestidigitation]_
 
 * **1er niveau (4 emplacements) :** _[armure du mage]_, _[bouclier]_, _[détection de la magie]_, _[projectile magique]_
 
@@ -12601,13 +12601,13 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [bouclier de la foi]: spells_hd.md#bouclier-de-la-foi
 [bouffée de poison]: spells_hd.md#bouffée-de-poison
 [boule de feu]: spells_hd.md#boule-de-feu
-[carreau de feu]: spells_hd.md#carreau-de-feu
 [cécité/surdité]: spells_hd.md#cécitésurdité
 [changement de plan]: spells_hd.md#changement-de-plan
 [charme-personne]: spells_hd.md#charme-personne
 [chauffer le métal]: spells_hd.md#chauffer-le-métal
 [clairvoyance]: spells_hd.md#clairvoyance
-[colonne de feu]: spells_hd.md#colonne-de-feu
+[coercition mystique]: spells_hd.md#coercition-mystique
+[colonne de flamme]: spells_hd.md#colonne-de-flamme
 [communication avec les animaux]: spells_hd.md#communication-avec-les-animaux
 [communion]: spells_hd.md#communion
 [cône de froid]: spells_hd.md#cône-de-froid
@@ -12620,13 +12620,13 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [création]: spells_hd.md#création
 [création de nourriture et d'eau]: spells_hd.md#création-de-nourriture-et-deau
 [déguisement]: spells_hd.md#déguisement
-[délivrance des malédictions]: spells_hd.md#délivrance-des-malédictions
+[lever une malédiction]: spells_hd.md#lever-une-malédiction
 [désintégration]: spells_hd.md#désintégration
 [dessiccation]: spells_hd.md#dessiccation
 [détection de la magie]: spells_hd.md#détection-de-la-magie
 [détection des pensées]: spells_hd.md#détection-des-pensées
 [détection du mal et du bien]: spells_hd.md#détection-du-mal-et-du-bien
-[détections des pensées]: spells_hd.md#détections-des-pensées
+[détection des pensées]: spells_hd.md#détection-des-pensées
 [dissipation de la magie]: spells_hd.md#dissipation-de-la-magie
 [dissipation du mal et du bien]: spells_hd.md#dissipation-du-mal-et-du-bien
 [divination]: spells_hd.md#divination
@@ -12658,8 +12658,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [illusion mineure]: spells_hd.md#illusion-mineure
 [image majeure]: spells_hd.md#image-majeure
 [image miroir]: spells_hd.md#image-miroir
-[immobilisation de monstre]: spells_hd.md#immobilisation-de-monstre
-[immobilisation de personne]: spells_hd.md#immobilisation-de-personne
+[immobiliser un monstre]: spells_hd.md#immobiliser-un-monstre
 [immobiliser un humanoïde]: spells_hd.md#immobiliser-un-humanoïde
 [injonction]: spells_hd.md#injonction
 [insecte géant]: spells_hd.md#insecte-géant
@@ -12678,7 +12677,6 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [lumière]: spells_hd.md#lumière
 [lumières dansantes]: spells_hd.md#lumières-dansantes
 [main du mage]: spells_hd.md#main-du-mage
-[malédiction]: spells_hd.md#malédiction
 [manteau de givre]: spells_hd.md#manteau-de-givre
 [marche sur le vent]: spells_hd.md#marche-sur-le-vent
 [messager animal]: spells_hd.md#messager-animal
@@ -12689,7 +12687,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [mur de force]: spells_hd.md#mur-de-force
 [nappe de brouillard]: spells_hd.md#nappe-de-brouillard
 [non-détection]: spells_hd.md#non-détection
-[nuage de mort]: spells_hd.md#nuage-de-mort
+[nuage mortel]: spells_hd.md#nuage-mortel
 [pas brumeux]: spells_hd.md#pas-brumeux
 [passage sans trace]: spells_hd.md#passage-sans-trace
 [peau de pierre]: spells_hd.md#peau-de-pierre
@@ -12701,10 +12699,9 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [produire une flamme]: spells_hd.md#produire-une-flamme
 [projectile magique]: spells_hd.md#projectile-magique
 [protection contre le poison]: spells_hd.md#protection-contre-le-poison
-[quête]: spells_hd.md#quête
 [rayon affaiblissant]: spells_hd.md#rayon-affaiblissant
 [rayon de givre]: spells_hd.md#rayon-de-givre
-[relever les morts]: spells_hd.md#relever-les-morts
+[rappel à la vie]: spells_hd.md#rappel-à-la-vie
 [réparation]: spells_hd.md#réparation
 [résistance]: spells_hd.md#résistance
 [respiration aquatique]: spells_hd.md#respiration-aquatique
@@ -12716,7 +12713,6 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [scrutation]: spells_hd.md#scrutation
 [silence]: spells_hd.md#silence
 [soin des blessures]: spells_hd.md#soin-des-blessures
-[soins des blessures]: spells_hd.md#soins-des-blessures
 [sommeil]: spells_hd.md#sommeil
 [souhait]: spells_hd.md#souhait
 [stalagmites fulgurantes]: spells_hd.md#stalagmites-fulgurantes
@@ -12728,6 +12724,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [ténèbres]: spells_hd.md#ténèbres
 [thaumaturgie]: spells_hd.md#thaumaturgie
 [toile d'araignée]: spells_hd.md#toile-daraignée
+[trait de feu]: spells_hd.md#trait-de-feu
 [vague tonnante]: spells_hd.md#vague-tonnante
 [vision suprême]: spells_hd.md#vision-suprême
 [vol]: spells_hd.md#vol

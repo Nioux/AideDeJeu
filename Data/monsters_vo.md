@@ -1,3 +1,4 @@
+
 # Aboleth
 - NameVO: [Aboleth]
 - Large aberration, lawful evil
@@ -465,17 +466,17 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 
 **_Spellcasting_**. The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _[disguise self]_ and _[invisibility]_ at will and has the following wizard spells prepared:
 
-Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation], [shocking grasp]_
+Cantrips (at will): _[fire bolt]_, _[light]_, _[mage hand]_, _[prestidigitation]_, _[shocking grasp]_
 
-1st level (4 slots): _[detect magic], [identify], [mage armor]*, [magic missile]_
+1st level (4 slots): _[detect magic]_, _[identify]_, _[mage armor]_*, _[magic missile]_
 
-2nd level (3 slots): _[detect thoughts], [mirror image], [misty step]_
+2nd level (3 slots): _[detect thoughts]_, _[mirror image]_, _[misty step]_
 
-3rd level (3 slots): _[counterspell], fly, [lightning bolt]_
+3rd level (3 slots): _[counterspell]_, _[fly]_, _[lightning bolt]_
 
-4th level (3 slots): _[banishment], [fire shield], [stoneskin]*_
+4th level (3 slots): _[banishment]_, _[fire shield]_, _[stoneskin]*_
 
-5th level (3 slots): _[cone of cold], [scrying], [wall of force]_
+5th level (3 slots): _[cone of cold]_, _[scrying]_, _[wall of force]_
 
 6th level (1 slot): _[globe of invulnerability]_
 
@@ -4663,7 +4664,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 
 At will: _[detect evil and good]_
 
-1/day each: _[commune], raise dead_
+1/day each: _[commune]_, _[raise dead]_
 
 **_Magic Resistance_**. The deva has advantage on saving throws against spells and other magical effects.
 
@@ -9058,11 +9059,11 @@ _Hit_: 1 piercing damage.
 
 **_Innate Spellcasting_**. The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
-At will: _[detect evil and good], [invisibility]_ (self only)
+At will: _[detect evil and good]_, _[invisibility]_ (self only)
 
-3/day each: _[blade barrier], [dispel evil and good], [flame strike], raise dead_
+3/day each: _[blade barrier]_, _[dispel evil and good]_, _[flame strike]_, _[raise dead]_
 
-1/day each: _[commune], [control weather], [insect plague]_
+1/day each: _[commune]_, _[control weather]_, _[insect plague]_
 
 **_Magic Resistance_**. The planetar has advantage on saving throws against spells and other magical effects.
 

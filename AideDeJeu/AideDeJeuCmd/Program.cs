@@ -125,7 +125,8 @@ namespace AideDeJeuCmd
         static async Task Main(string[] args)
         {
             string dataDir = @"..\..\..\..\..\Data\";
-
+            await CheckAllLinks();
+            return;
             var mdVO = await LoadStringAsync(dataDir + "monsters_vo.md");
             var mdVF = await LoadStringAsync(dataDir + "monsters_hd.md");
 
@@ -164,6 +165,70 @@ namespace AideDeJeuCmd
 
             return;
 
+        }
+
+        public static async Task CheckAllLinks()
+        {
+            string dataDir = @"..\..\..\..\..\Data\";
+
+            var mdMonstersVO = await LoadStringAsync(dataDir + "monsters_vo.md");
+            var mdMonstersHD = await LoadStringAsync(dataDir + "monsters_hd.md");
+            var mdSpellsVO = await LoadStringAsync(dataDir + "spells_vo.md");
+            var mdSpellsHD = await LoadStringAsync(dataDir + "spells_hd.md");
+            var mdConditionsVO = await LoadStringAsync(dataDir + "conditions_vo.md");
+            var mdConditionsHD = await LoadStringAsync(dataDir + "conditions_hd.md");
+
+            var allanchors = new Dictionary<string, IEnumerable<string>>();
+            allanchors.Add("spells_hd", GetMarkdownAnchors(mdSpellsHD));
+            allanchors.Add("spells_vo", GetMarkdownAnchors(mdSpellsVO));
+            allanchors.Add("monsters_hd", GetMarkdownAnchors(mdMonstersHD));
+            allanchors.Add("monsters_vo", GetMarkdownAnchors(mdMonstersVO));
+            allanchors.Add("conditions_hd", GetMarkdownAnchors(mdConditionsHD));
+            allanchors.Add("conditions_vo", GetMarkdownAnchors(mdConditionsVO));
+
+            var alllinks = new Dictionary<string, IEnumerable<Tuple<string, string>>>();
+            alllinks.Add("spells_hd", GetMarkdownLinks(mdSpellsHD));
+            alllinks.Add("spells_vo", GetMarkdownLinks(mdSpellsVO));
+            alllinks.Add("monsters_hd", GetMarkdownLinks(mdMonstersHD));
+            alllinks.Add("monsters_vo", GetMarkdownLinks(mdMonstersVO));
+            alllinks.Add("conditions_hd", GetMarkdownLinks(mdConditionsHD));
+            alllinks.Add("conditions_vo", GetMarkdownLinks(mdConditionsVO));
+
+            foreach (var links in alllinks)
+            {
+                foreach(var link in links.Value)
+                {
+                    var file = link.Item1;
+                    var anchor = link.Item2;
+                    if(!allanchors[file].Contains(anchor))
+                    {
+                        Console.WriteLine($"{links.Key} => {file} {anchor}");
+                    }
+                }
+            }
+        }
+
+        public static IEnumerable<Tuple<string, string>> GetMarkdownLinks(string md)
+        {
+            var regex = new Regex("[ \\(](?<file>[a-z_]*?)\\.md#(?<anchor>.*?)[\\n\\)]");
+            var matches = regex.Matches(md);
+            foreach(Match match in matches)
+            {
+                var file = match.Groups["file"].Value;
+                var anchor = match.Groups["anchor"].Value;
+                yield return new Tuple<string, string>(file, anchor);
+            }
+        }
+
+        public static IEnumerable<string> GetMarkdownAnchors(string md)
+        {
+            var regex = new Regex("\\n# (?<name>.*?)\\n");
+            var matches = regex.Matches(md);
+            foreach (Match match in matches)
+            {
+                var name = AideDeJeu.Tools.Helpers.IdFromName(match.Groups["name"].Value);
+                yield return name;
+            }
         }
 
         public static string Capitalize(string text)
