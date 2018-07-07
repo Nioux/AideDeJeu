@@ -1,3 +1,4 @@
+
 # Conditions
 
 - NameVO: [États spéciaux](conditions_hd.md#États-spéciaux)
@@ -11,7 +12,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
 
-## Blinded
+# Blinded
 
 - NameVO: [Aveuglé](conditions_hd.md#aveuglé)
 
@@ -20,7 +21,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 
-## Charmed
+# Charmed
 
 - NameVO: [Charmé](conditions_hd.md#charmé)
 
@@ -29,14 +30,14 @@ The following definitions specify what happens to a creature while it is subject
 * The charmer has advantage on any ability check to interact socially with the creature.
 
 
-## Deafened
+# Deafened
 
 - NameVO: [Assourdi](conditions_hd.md#assourdi)
 
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
 
-## Frightened
+# Frightened
 
 - NameVO: [Terrorisé](conditions_hd.md#terrorisé)
 
@@ -45,7 +46,7 @@ The following definitions specify what happens to a creature while it is subject
 * The creature can't willingly move closer to the source of its fear.
 
 
-## Grappled
+# Grappled
 
 - NameVO: [Empoigné](conditions_hd.md#empoigné)
 
@@ -56,14 +57,14 @@ The following definitions specify what happens to a creature while it is subject
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunder-wave](spells_vo.md#thunderwave) spell.
 
 
-## Incapacitated
+# Incapacitated
 
 - NameVO: [Neutralisé](conditions_hd.md#neutralisé)
 
 * An incapacitated creature can't take actions or reactions.
 
 
-## Invisible
+# Invisible
 
 - NameVO: [Invisible](conditions_hd.md#invisible)
 
@@ -72,7 +73,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 
-## Paralyzed
+# Paralyzed
 
 - NameVO: [Paralysé](conditions_hd.md#paralysé)
 
@@ -85,7 +86,7 @@ The following definitions specify what happens to a creature while it is subject
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 
-## Petrified
+# Petrified
 
 - NameVO: [Pétrifié](conditions_hd.md#pétrifié)
 
@@ -102,14 +103,14 @@ The following definitions specify what happens to a creature while it is subject
 * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 
-## Poisoned
+# Poisoned
 
 - NameVO: [Empoisonné](conditions_hd.md#empoisonné)
 
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
 
-## Prone
+# Prone
 
 - NameVO: [À terre](conditions_hd.md#À-terre)
 
@@ -120,7 +121,7 @@ The following definitions specify what happens to a creature while it is subject
 * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 
-## Restrained
+# Restrained
 
 - NameVO: [Entravé](conditions_hd.md#entravé)
 
@@ -131,7 +132,7 @@ The following definitions specify what happens to a creature while it is subject
 * The creature has disadvantage on Dexterity saving throws.
 
 
-## Stunned
+# Stunned
 
 - NameVO: [Étourdi](conditions_hd.md#Étourdi)
 
@@ -142,7 +143,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have advantage.
 
 
-## Unconscious
+# Unconscious
 
 - NameVO: [Inconscient](conditions_hd.md#inconscient)
 
@@ -157,7 +158,7 @@ The following definitions specify what happens to a creature while it is subject
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 
-## Exhaustion
+# Exhaustion
 
 - NameVO: [Fatigue et épuisement](conditions_hd.md#fatigue-et-épuisement)
 

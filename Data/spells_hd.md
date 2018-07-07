@@ -5673,7 +5673,7 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 
 
 # Petite hutte
-- NameVO: 
+- NameVO: [Leomund's Tiny Hut](spells_vo.md#leomunds-tiny-hut)
 - CastingTime: 1 minute
 - Components: V, S, M (une petite perle de cristal)
 - Duration: 8 heures

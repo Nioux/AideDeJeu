@@ -179,12 +179,12 @@ namespace AideDeJeuCmd
             var mdConditionsHD = await LoadStringAsync(dataDir + "conditions_hd.md");
 
             var allanchors = new Dictionary<string, IEnumerable<string>>();
-            allanchors.Add("spells_hd", GetMarkdownAnchors(mdSpellsHD));
-            allanchors.Add("spells_vo", GetMarkdownAnchors(mdSpellsVO));
-            allanchors.Add("monsters_hd", GetMarkdownAnchors(mdMonstersHD));
-            allanchors.Add("monsters_vo", GetMarkdownAnchors(mdMonstersVO));
-            allanchors.Add("conditions_hd", GetMarkdownAnchors(mdConditionsHD));
-            allanchors.Add("conditions_vo", GetMarkdownAnchors(mdConditionsVO));
+            allanchors.Add("conditions_hd", GetMarkdownAnchors(mdConditionsHD, true).ToList());
+            allanchors.Add("conditions_vo", GetMarkdownAnchors(mdConditionsVO, true));
+            allanchors.Add("spells_hd", GetMarkdownAnchors(mdSpellsHD, false));
+            allanchors.Add("spells_vo", GetMarkdownAnchors(mdSpellsVO, false));
+            allanchors.Add("monsters_hd", GetMarkdownAnchors(mdMonstersHD, false));
+            allanchors.Add("monsters_vo", GetMarkdownAnchors(mdMonstersVO, false));
 
             var alllinks = new Dictionary<string, IEnumerable<Tuple<string, string>>>();
             alllinks.Add("spells_hd", GetMarkdownLinks(mdSpellsHD));
@@ -220,9 +220,9 @@ namespace AideDeJeuCmd
             }
         }
 
-        public static IEnumerable<string> GetMarkdownAnchors(string md)
+        public static IEnumerable<string> GetMarkdownAnchors(string md, bool doublediese)
         {
-            var regex = new Regex("\\n# (?<name>.*?)\\n");
+            var regex = new Regex($"\\n# (?<name>.*?)\\n");
             var matches = regex.Matches(md);
             foreach (Match match in matches)
             {

@@ -485,7 +485,8 @@ Cantrips (at will): _[fire bolt]_, _[light]_, _[mage hand]_, _[prestidigitation]
 8th level (1 slot): _[mind blank]_*
 
 9th level (1 slot): _[time stop]_
-(*) The archmage casts these spells on itself before combat.
+
+(*) The archmage casts these spells on itself before combat.
 
 ## Actions
 
@@ -4719,7 +4720,7 @@ Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
 
 _Hit_: 3 (1d6) bludgeoning damage.
 
-[Ecclésiastique]: monsters_hd.md#Ecclésiastique
+[Ecclésiastique]: monsters_hd.md#ecclésiastique
 
 
 # Roper
@@ -10308,7 +10309,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 
 
 # Succubus
-- NameVO: [Succube/Incube](monsters_hd.md#succubeincube)
+- NameVO: [Succube/Incube]
 - Medium fiend (shapechanger), neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 66 (12d8 + 12)
@@ -10342,7 +10343,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 **_Etherealness_**. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 
-[Succube]: monsters_hd.md#succube
+[Succube/Incube]: monsters_hd.md#succubeincube
 
 
 # Treant
@@ -11787,7 +11788,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [blade barrier]: spells_vo.md#blade-barrier
 [bless]: spells_vo.md#bless
 [blight]: spells_vo.md#blight
-[blindness/deafness]: spells_vo.md#blindness/deafness
+[blindness/deafness]: spells_vo.md#blindnessdeafness
 [blur]: spells_vo.md#blur
 [calm emotions]: spells_vo.md#calm-emotions
 [charm person]: spells_vo.md#charm-person
@@ -11819,7 +11820,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [dominate person]: spells_vo.md#dominate-person
 [dream]: spells_vo.md#dream
 [druidcraft]: spells_vo.md#druidcraft
-[enlarge/reduce]: spells_vo.md#enlarge/reduce
+[enlarge/reduce]: spells_vo.md#enlargereduce
 [entangle]: spells_vo.md#entangle
 [faerie fire]: spells_vo.md#faerie-fire
 [feather fall]: spells_vo.md#feather-fall
@@ -11842,7 +11843,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [harm]: spells_vo.md#harm
 [heal]: spells_vo.md#heal
 [heat metal]: spells_vo.md#heat-metal
-[heroes' feast]: spells_vo.md#heroes'-feast
+[heroes' feast]: spells_vo.md#heroes-feast
 [hold monster]: spells_vo.md#hold-monster
 [hold person]: spells_vo.md#hold-person
 [ice storm]: spells_vo.md#ice-storm

@@ -3777,7 +3777,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 
 # Leomund's Tiny Hut
-- NameVO: [Petite hutte de Léomund]
+- NameVO: [Petite hutte]
 - CastingTime: 1 minute
 - Components: V, S, M (a small crystal bead)
 - Duration: 8 hours
@@ -3794,7 +3794,7 @@ Nine creatures of Medium size or smaller can fit inside the dome with you. The s
 
 Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
 
-[Petite hutte de Léomund]: spells_hd.md#petite-hutte-de-léomund
+[Petite hutte]: spells_hd.md#petite-hutte
 
 
 # Lesser Restoration
@@ -4598,7 +4598,7 @@ You create a sword-shaped plane of force that hovers within range. It lasts for 
 
 When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one.
 
-[Épée magique]: spells_hd.md#épée-magique
+[Épée magique]: spells_hd.md#Épée-magique
 
 
 # Move Earth
