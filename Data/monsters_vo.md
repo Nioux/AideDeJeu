@@ -11836,6 +11836,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [gaseous form]: spells_vo.md#gaseous-form
 [geas]: spells_vo.md#geas
 [globe of invulnerability]: spells_vo.md#globe-of-invulnerability
+[goodberry]: spells_vo.md#goodberry
 [greater invisibility]: spells_vo.md#greater-invisibility
 [greater restoration]: spells_vo.md#greater-restoration
 [guardian of faith]: spells_vo.md#guardian-of-faith
@@ -11871,9 +11872,11 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [pass without trace]: spells_vo.md#pass-without-trace
 [plane shift]: spells_vo.md#plane-shift
 [power word kill]: spells_vo.md#power-word-kill
+[power word stun]: spells_vo.md#power-word-stun
 [prestidigitation]: spells_vo.md#prestidigitation
 [produce flame]: spells_vo.md#produce-flame
 [protection from evil and good]: spells_vo.md#protection-from-evil-and-good
+[protection from poison]: spells_vo.md#protection-from-poison
 [ray of enfeeblement]: spells_vo.md#ray-of-enfeeblement
 [ray of frost]: spells_vo.md#ray-of-frost
 [remove curse]: spells_vo.md#remove-curse
@@ -11900,6 +11903,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [time stop]: spells_vo.md#time-stop
 [tongues]: spells_vo.md#tongues
 [true seeing]: spells_vo.md#true-seeing
+[vicious mockery]: spells_vo.md#vicious-mockery
 [wall of fire]: spells_vo.md#wall-of-fire
 [wall of force]: spells_vo.md#wall-of-force
 [water breathing]: spells_vo.md#water-breathing
