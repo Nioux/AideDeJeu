@@ -65,4 +65,10 @@
     <EmbeddedResource Include="..\..\Data\conditions_vo.md" Link="Data\conditions_vo.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Update="Views\MainNavigationPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
 </Project>
