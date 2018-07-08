@@ -195,17 +195,24 @@ namespace AideDeJeu.ViewModels
         public async Task NavigateToLink(string s)
         {
             if (s != null)
-            { 
-                var regex = new Regex("/(?<file>.*)\\.md#(?<anchor>.*)");
-                var match = regex.Match(s);
-                var file = match.Groups["file"].Value;
-                var anchor = match.Groups["anchor"].Value;
-                var itemSourceType = MDFileToItemSourceType(file);
-                var spells = await GetItemsViewModel(itemSourceType).GetAllItemsAsync();
-                var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                if (spell != null)
+            {
+                if (s.Contains("#"))
                 {
-                    await Navigator.GotoItemDetailPageAsync(spell);
+                    var regex = new Regex("/(?<file>.*)\\.md#(?<anchor>.*)");
+                    var match = regex.Match(s);
+                    var file = match.Groups["file"].Value;
+                    var anchor = match.Groups["anchor"].Value;
+                    var itemSourceType = MDFileToItemSourceType(file);
+                    var spells = await GetItemsViewModel(itemSourceType).GetAllItemsAsync();
+                    var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
+                    if (spell != null)
+                    {
+                        await Navigator.GotoItemDetailPageAsync(spell);
+                    }
+                }
+                else
+                {
+                    await Navigator.GotoItemsPageAsync(null);
                 }
             }
         }

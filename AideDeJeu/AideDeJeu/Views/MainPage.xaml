@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:AideDeJeu.Views" xmlns:tools="clr-namespace:AideDeJeu.Tools" x:Class="AideDeJeu.Views.MainPage" x:Name="This" IsPresented="False" Title="">
+<MasterDetailPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:AideDeJeu.Views" 
+    xmlns:tools="clr-namespace:AideDeJeu.Tools" 
+    x:Class="AideDeJeu.Views.MainPage" 
+    x:Name="This" 
+    IsPresented="False" 
+    Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
     <MasterDetailPage.Resources>
         <ResourceDictionary>
             <tools:ItemSourceTypeToStringConverter x:Key="ItemSourceTypeToTitleConverter" SpellVO="Spells" SpellHD="Sorts (H&amp;D)" MonsterVO="Monsters" MonsterHD="Créatures (H&amp;D)" />
@@ -31,37 +39,32 @@
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <NavigationPage>
-            <x:Arguments>
-                <ContentPage Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
-                    <ContentPage.ToolbarItems>
-                        <!--<ToolbarItem Name="Sorts (H&amp;D)" Text="Sorts (H&amp;D)" Order="Secondary" Command="{Binding SwitchToSpellsHD}" />
-                        <ToolbarItem Name="Creatures (H&amp;D)" Text="Créatures (H&amp;D)" Order="Secondary" Command="{Binding SwitchToMonstersHD}" />
-                        <ToolbarItem Name="Spells (VO)" Text="Spells (VO)" Order="Secondary" Icon="spell_book.png" Command="{Binding SwitchToSpellsVO}" />
-                        <ToolbarItem Name="Monsters (VO)" Text="Monsters (VO)" Order="Secondary" Icon="dragon_head.png" Command="{Binding SwitchToMonstersVO}" />-->
+        <ContentPage Title="">
+            <!--<ContentPage.ToolbarItems>
                         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
-                    </ContentPage.ToolbarItems>
-                    <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
-                        <SearchBar x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
-                            <SearchBar.Behaviors>
-                                <tools:TextChangedBehavior />
-                            </SearchBar.Behaviors>
-                        </SearchBar>
-                        <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
-                            <ListView.ItemTemplate>
-                                <DataTemplate>
-                                    <ViewCell>
-                                        <StackLayout Padding="10" Orientation="Vertical">
-                                            <Label Text="{Binding Name}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
-                                            <Label Text="{Binding NameVOText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
-                                        </StackLayout>
-                                    </ViewCell>
-                                </DataTemplate>
-                            </ListView.ItemTemplate>
-                        </ListView>
-                    </StackLayout>
-                </ContentPage>
-            </x:Arguments>
-        </NavigationPage>
+                    </ContentPage.ToolbarItems>-->
+            <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="=" Clicked="Button_Clicked"/>
+                    <SearchBar x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                        <SearchBar.Behaviors>
+                            <tools:TextChangedBehavior />
+                        </SearchBar.Behaviors>
+                    </SearchBar>
+                </StackLayout>
+                <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Padding="10" Orientation="Vertical">
+                                    <Label Text="{Binding Name}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                                    <Label Text="{Binding NameVOText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage>
     </MasterDetailPage.Detail>
 </MasterDetailPage>

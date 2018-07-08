@@ -1,6 +1,7 @@
 ﻿using System;
 using AideDeJeu.ViewModels;
 using AideDeJeu.Views;
+using AideDeJeuLib.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -16,9 +17,10 @@ namespace AideDeJeu
 
             DependencyService.Register<MainViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
-            var mainPage = new MainPage();
-            vm.Navigator = new Navigator(mainPage.Detail.Navigation);
-            MainPage = mainPage;
+            var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()));// new MainPage();
+            var navigationPage = new NavigationPage(mainPage);
+            vm.Navigator = new Navigator(navigationPage.Navigation); //mainPage.Detail.Navigation);
+            MainPage = navigationPage;
         }
 
         protected override void OnStart ()

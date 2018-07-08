@@ -40,6 +40,15 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new ItemDetailPage(vm));
         }
 
+        public async Task GotoItemsPageAsync(Item item)
+        {
+            //if (item == null)
+            //    return;
+
+            //var vm = new ItemDetailViewModel(item);
+            //vm.LoadItemCommand.Execute(null);
+            await Navigation.PushAsync(new MainPage());
+        }
 
     }
 }

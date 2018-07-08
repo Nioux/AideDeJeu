@@ -35,6 +35,8 @@ namespace AideDeJeu.Views
         {
             base.OnAppearing();
 
+            this.MasterBehavior = MasterBehavior.Default;
+            this.MasterBehavior = MasterBehavior.Popover;
             if (Main.Items.Count() == 0)
                 Main.LoadItemsCommand.Execute(null);
         }
@@ -43,6 +45,11 @@ namespace AideDeJeu.Views
         {
             if (e.Item == null) return;
             ((ListView)sender).SelectedItem = null;
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            this.IsPresented = !this.IsPresented;
         }
     }
 }
