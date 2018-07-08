@@ -155,7 +155,7 @@ namespace AideDeJeuCmd
             }
             //names.Sort();
             names = names.OrderBy(n => n).Distinct().ToList();
-            foreach(var name in names)
+            foreach (var name in names)
             {
                 Console.WriteLine($"[{name}]: spells_hd.md#{Helpers.IdFromName(Helpers.Capitalize(name))}");
             }
@@ -179,12 +179,12 @@ namespace AideDeJeuCmd
             var mdConditionsHD = await LoadStringAsync(dataDir + "conditions_hd.md");
 
             var allanchors = new Dictionary<string, IEnumerable<string>>();
-            allanchors.Add("conditions_hd", GetMarkdownAnchors(mdConditionsHD, true).ToList());
-            allanchors.Add("conditions_vo", GetMarkdownAnchors(mdConditionsVO, true));
-            allanchors.Add("spells_hd", GetMarkdownAnchors(mdSpellsHD, false));
-            allanchors.Add("spells_vo", GetMarkdownAnchors(mdSpellsVO, false));
-            allanchors.Add("monsters_hd", GetMarkdownAnchors(mdMonstersHD, false));
-            allanchors.Add("monsters_vo", GetMarkdownAnchors(mdMonstersVO, false));
+            allanchors.Add("conditions_hd", GetMarkdownAnchors(mdConditionsHD).ToList());
+            allanchors.Add("conditions_vo", GetMarkdownAnchors(mdConditionsVO));
+            allanchors.Add("spells_hd", GetMarkdownAnchors(mdSpellsHD));
+            allanchors.Add("spells_vo", GetMarkdownAnchors(mdSpellsVO));
+            allanchors.Add("monsters_hd", GetMarkdownAnchors(mdMonstersHD));
+            allanchors.Add("monsters_vo", GetMarkdownAnchors(mdMonstersVO));
 
             var alllinks = new Dictionary<string, IEnumerable<Tuple<string, string>>>();
             alllinks.Add("spells_hd", GetMarkdownLinks(mdSpellsHD));
@@ -196,15 +196,54 @@ namespace AideDeJeuCmd
 
             foreach (var links in alllinks)
             {
-                foreach(var link in links.Value)
+                foreach (var link in links.Value)
                 {
                     var file = link.Item1;
                     var anchor = link.Item2;
-                    if(!allanchors[file].Contains(anchor))
+                    if (!allanchors[file].Contains(anchor))
                     {
                         Console.WriteLine($"{links.Key} => {file} {anchor}");
                     }
                 }
+            }
+
+            var allnames = new Dictionary<string, IEnumerable<string>>();
+            allnames.Add("conditions_hd", GetMarkdownAnchorNames(mdConditionsHD));
+            allnames.Add("conditions_vo", GetMarkdownAnchorNames(mdConditionsVO));
+            allnames.Add("spells_hd", GetMarkdownAnchorNames(mdSpellsHD));
+            allnames.Add("spells_vo", GetMarkdownAnchorNames(mdSpellsVO));
+            allnames.Add("monsters_hd", GetMarkdownAnchorNames(mdMonstersHD));
+            allnames.Add("monsters_vo", GetMarkdownAnchorNames(mdMonstersVO));
+
+            foreach (var names in allnames)
+            {
+                foreach (var name in names.Value)
+                {
+                    FindName(mdSpellsHD, name);
+                    FindName(mdSpellsVO, name);
+                    FindName(mdMonstersHD, name);
+                    FindName(mdMonstersVO, name);
+                    FindName(mdConditionsHD, name);
+                    FindName(mdConditionsVO, name);
+                }
+            }
+        }
+
+        public static void FindName(string md, string name)
+        {
+            var index = md.IndexOf(name);
+            while (index >= 0)
+            {
+                if ((md.Substring(index - 1, 1) != "[" ||
+                    md.Substring(index + name.Length, 1) != "]") &&
+                    md.Substring(index - 1, 1) != "#" &&
+                    md.Substring(index - 2, 2) != "# ")
+                {
+                    Console.WriteLine(name);
+                    Console.WriteLine(md.Substring(index - 10, name.Length + 20).Replace("\n", "\\n"));
+                    Console.WriteLine();
+                }
+                index = md.IndexOf(name, index + 1);
             }
         }
 
@@ -212,7 +251,7 @@ namespace AideDeJeuCmd
         {
             var regex = new Regex("[ \\(](?<file>[a-z_]*?)\\.md#(?<anchor>.*?)[\\n\\)]");
             var matches = regex.Matches(md);
-            foreach(Match match in matches)
+            foreach (Match match in matches)
             {
                 var file = match.Groups["file"].Value;
                 var anchor = match.Groups["anchor"].Value;
@@ -220,13 +259,21 @@ namespace AideDeJeuCmd
             }
         }
 
-        public static IEnumerable<string> GetMarkdownAnchors(string md, bool doublediese)
+        public static IEnumerable<string> GetMarkdownAnchors(string md)
+        {
+            foreach (var name in GetMarkdownAnchorNames(md))
+            {
+                yield return Helpers.IdFromName(name);
+            }
+        }
+
+        public static IEnumerable<string> GetMarkdownAnchorNames(string md)
         {
             var regex = new Regex($"\\n# (?<name>.*?)\\n");
             var matches = regex.Matches(md);
             foreach (Match match in matches)
             {
-                var name = AideDeJeu.Tools.Helpers.IdFromName(match.Groups["name"].Value);
+                var name = match.Groups["name"].Value;
                 yield return name;
             }
         }

@@ -71,9 +71,9 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 **_Spellcasting_**. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
+* **Cantrips (at will):** _[light]_, _[sacred flame]_, _[thaumaturgy]_
 
-1st level (3 slots): _[bless], [cure wounds], [sanctuary]_
+* **1st level (3 slots):** _[bless]_, _[cure wounds]_, _[sanctuary]_
 
 ## Actions
 
@@ -176,19 +176,19 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 **_Spellcasting_**. The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-Cantrips (at will): _[sacred flame], [spare the dying], [thaumaturgy]_
+* **Cantrips (at will):** _[sacred flame]_, _[spare the dying]_, _[thaumaturgy]_
 
-1st level (4 slots): _[command], [detect evil and good], [detect magic]_
+* **1st level (4 slots):** _[command]_, _[detect evil and good]_, _[detect magic]_
 
-2nd level (3 slots): _[lesser restoration], [zone of truth]_
+* **2nd level (3 slots):** _[lesser restoration]_, _[zone of truth]_
 
-3rd level (3 slots): _[dispel magic], [tongues]_
+* **3rd level (3 slots):** _[dispel magic]_, _[tongues]_
 
-4th level (3 slots): _[banishment], [freedom of movement]_
+* **4th level (3 slots):** _[banishment]_, _[freedom of movement]_
 
-5th level (2 slots): _[flame strike], [greater restoration]_
+* **5th level (2 slots):** _[flame strike]_, _[greater restoration]_
 
-6th level (1 slot): _[heroes' feast]_
+* **6th level (1 slot):** _[heroes' feast]_
 
 ## Actions
 
@@ -466,25 +466,25 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 
 **_Spellcasting_**. The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _[disguise self]_ and _[invisibility]_ at will and has the following wizard spells prepared:
 
-Cantrips (at will): _[fire bolt]_, _[light]_, _[mage hand]_, _[prestidigitation]_, _[shocking grasp]_
+* **Cantrips (at will):** _[fire bolt]_, _[light]_, _[mage hand]_, _[prestidigitation]_, _[shocking grasp]_
 
-1st level (4 slots): _[detect magic]_, _[identify]_, _[mage armor]_*, _[magic missile]_
+* **1st level (4 slots):** _[detect magic]_, _[identify]_, _[mage armor]_*, _[magic missile]_
 
-2nd level (3 slots): _[detect thoughts]_, _[mirror image]_, _[misty step]_
+* **2nd level (3 slots):** _[detect thoughts]_, _[mirror image]_, _[misty step]_
 
-3rd level (3 slots): _[counterspell]_, _[fly]_, _[lightning bolt]_
+* **3rd level (3 slots):** _[counterspell]_, _[fly]_, _[lightning bolt]_
 
-4th level (3 slots): _[banishment]_, _[fire shield]_, _[stoneskin]*_
+* **4th level (3 slots):** _[banishment]_, _[fire shield]_, _[stoneskin]*_
 
-5th level (3 slots): _[cone of cold]_, _[scrying]_, _[wall of force]_
+* **5th level (3 slots):** _[cone of cold]_, _[scrying]_, _[wall of force]_
 
-6th level (1 slot): _[globe of invulnerability]_
+* **6th level (1 slot):** _[globe of invulnerability]_
 
-7th level (1 slot): _[teleport]_
+* **7th level (1 slot):** _[teleport]_
 
-8th level (1 slot): _[mind blank]_*
+* **8th level (1 slot):** _[mind blank]_*
 
-9th level (1 slot): _[time stop]_
+* **9th level (1 slot):** _[time stop]_
 
 (*) The archmage casts these spells on itself before combat.
 
@@ -1746,11 +1746,11 @@ _Hit_: 1 piercing damage.
 
 **_Innate Spellcasting_**. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
-At will: _[detect evil and good], [detect magic], [detect thoughts]_
+At will: _[detect evil and good]_, _[detect magic]_, _[detect thoughts]_
 
-3/day each: _[bless], [create food and water], [cure wounds], [lesser restoration], protection from poison, [sanctuary], [shield]_
+3/day each: _[bless]_, _[create food and water]_, _[cure wounds]_, _[lesser restoration]_, _[protection from poison]_, _[sanctuary]_, _[shield]_
 
-1/day each: _[dream], [greater restoration], [scrying]_
+1/day each: _[dream]_, _[greater restoration]_, _[scrying]_
 
 **_Magic Weapons_**. The couatl's weapon attacks are magical.
 
@@ -2349,9 +2349,9 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 
 **_Innate Spellcasting_**. The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
 
-At will: _[detect magic], [fireball]_
+At will: _[detect magic]_, _[fireball]_
 
-3/day each: _[hold monster], [wall of fire]_
+3/day each: _[hold monster]_, _[wall of fire]_
 
 ## Actions
 
@@ -2399,11 +2399,11 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 
 **_Innate Spellcasting_**. The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: _[detect evil and good], [detect magic], [thunderwave]_
+At will: _[detect evil and good]_, _[detect magic]_, _[thunderwave]_
 
-3/day each: _[create food and water]_ (can create wine instead of water), _[tongues], [wind walk]_
+3/day each: _[create food and water]_ (can create wine instead of water), _[tongues]_, _[wind walk]_
 
-1/day each: _[conjure elemental]_ (air elemental only), _[creation], [gaseous form], [invisibility], [major image], [plane shift]_
+1/day each: _[conjure elemental]_ (air elemental only), _[creation]_, _[gaseous form]_, _[invisibility]_, _[major image]_, _[plane shift]_
 
 ## Actions
 
@@ -4453,7 +4453,7 @@ _Hit_: 5 (2d4) slashing damage.
 
 At will: _[dancing lights]_
 
-1/day each: _[darkness], [faerie fire]_
+1/day each: _[darkness]_, _[faerie fire]_
 
 **_Spider Climb_**. The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -4541,11 +4541,11 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 
 **_Spellcasting_**. The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): _[druidcraft], [produce flame], [shillelagh]_
+* **Cantrips (at will):** _[druidcraft]_, _[produce flame]_, _[shillelagh]_
 
-1st level (4 slots): _[entangle], [longstrider], [speak with animals], [thunderwave]_
+* **1st level (4 slots):** _[entangle]_, _[longstrider]_, _[speak with animals]_, _[thunderwave]_
 
-2nd level (3 slots): _[animal messenger], [barkskin]_
+* **2nd level (3 slots):** _[animal messenger]_, _[barkskin]_
 
 ## Actions
 
@@ -4578,9 +4578,9 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 
 At will: _[druidcraft]_
 
-3/day each: _[entangle], goodberry_
+3/day each: _[entangle]_, _[goodberry]_
 
-1/day each: _[barkskin], [pass without trace], [shillelagh]_
+1/day each: _[barkskin]_, _[pass without trace]_, _[shillelagh]_
 
 **_Magic Resistance_**. The dryad has advantage on saving throws against spells and other magical effects.
 
@@ -4706,13 +4706,13 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
 **_Spellcasting_**. The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
+* **Cantrips (at will):** _[light]_, _[sacred flame]_, _[thaumaturgy]_
 
-1st level (4 slots): _[cure wounds], [guiding bolt], [sanctuary]_
+* **1st level (4 slots):** _[cure wounds]_, _[guiding bolt]_, _[sanctuary]_
 
-2nd level (3 slots): _[lesser restoration], [spiritual weapon]_
+* **2nd level (3 slots):** _[lesser restoration]_, _[spiritual weapon]_
 
-3rd level (2 slots): _[dispel magic], [spirit guardians]_
+* **3rd level (2 slots):** _[dispel magic]_, _[spirit guardians]_
 
 ## Actions
 
@@ -4936,11 +4936,11 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 
 **_Spellcasting_**. The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-Cantrips (at will): _[light], [sacred flame], [thaumaturgy]_
+* **Cantrips (at will):** _[light]_, _[sacred flame]_, _[thaumaturgy]_
 
-1st level (4 slots): _[command], [inflict wounds], [shield of faith]_
+* **1st level (4 slots):** _[command]_, _[inflict wounds]_, _[shield of faith]_
 
-2nd level (3 slots): _[hold person], [spiritual weapon]_
+* **2nd level (3 slots):** _[hold person]_, _[spiritual weapon]_
 
 ## Actions
 
@@ -5253,9 +5253,9 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
 **_Innate Spellcasting_**. The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
-At will: _[darkness], [detect magic], [dispel magic]_
+At will: _[darkness]_, _[detect magic]_, _[dispel magic]_
 
-1/day each: _[confusion], [fly], power word stun_
+1/day each: _[confusion]_, _[fly]_, _[power word stun]_
 
 **_Magic Resistance_**. The glabrezu has advantage on saving throws against spells and other magical effects.
 
@@ -5378,7 +5378,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 At will: _[nondetection]_ (self only)
 
-1/day each: _[blindness/deafness], [blur], [disguise self]_
+1/day each: _[blindness/deafness]_, _[blur]_, _[disguise self]_
 
 ## Actions
 
@@ -5908,9 +5908,9 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 **_Innate Spellcasting_**. The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-At will: _[detect magic], [magic missile]_
+At will: _[detect magic]_, _[magic missile]_
 
-2/day each: _[plane shift]_ (self only), _[ray of enfeeblement], [sleep]_
+2/day each: _[plane shift]_ (self only), _[ray of enfeeblement]_, _[sleep]_
 
 **_Magic Resistance_**. The hag has advantage on saving throws against spells and other magical effects.
 
@@ -5951,7 +5951,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 
 **_Innate Spellcasting_**. The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 
-At will: _[dancing lights], [minor illusion], vicious mockery_
+At will: _[dancing lights]_, _[minor illusion]_, _[vicious mockery]_
 
 **_Mimicry_**. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
@@ -6047,17 +6047,17 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 
 **_Spellcasting_**. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-Cantrips (at will): _[mage hand], [minor illusion], [prestidigitation]_
+* **Cantrips (at will):** _[mage hand]_, _[minor illusion]_, _[prestidigitation]_
 
-1st level (4 slots): _[detect magic], [identify], [shield]_
+* **1st level (4 slots):** _[detect magic]_, _[identify]_, _[shield]_
 
-2nd level (3 slots): _[darkness], [locate object], [suggestion]_
+* **2nd level (3 slots):** _[darkness]_, _[locate object]_, _[suggestion]_
 
-3rd level (3 slots): _[dispel magic], [remove curse], [tongues]_
+* **3rd level (3 slots):** _[dispel magic]_, _[remove curse]_, _[tongues]_
 
-4th level (3 slots): _[banishment], [greater invisibility]_
+* **4th level (3 slots):** _[banishment]_, _[greater invisibility]_
 
-5th level (1 slot): _[legend lore]_
+* **5th level (1 slot):** _[legend lore]_
 
 ## Actions
 
@@ -6134,11 +6134,11 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 
 **_InnateSpellcasting_**. The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
-At will: _[detect magic], [fog cloud], light_
+At will: _[detect magic]_, _[fog cloud]_, _[light]_
 
-3/day each: _[feather fall], [fly], [misty step], [telekinesis]_
+3/day each: _[feather fall]_, _[fly]_, _[misty step]_, _[telekinesis]_
 
-1/day each: _[control weather], [gaseous form]_
+1/day each: _[control weather]_, _[gaseous form]_
 
 ## Actions
 
@@ -6218,9 +6218,9 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 
 **_Innate Spellcasting_**. The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-At will: _[detect magic], [feather fall], [levitate], light_
+At will: _[detect magic]_, _[feather fall]_, _[levitate]_, _[light]_
 
-3/day each: _[control weather], [water breathing]_
+3/day each: _[control weather]_, _[water breathing]_
 
 ## Actions
 
@@ -6839,7 +6839,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 At will: _[disguise self]_ (any humanoid form), _[major image]_
 
-3/day each: _[charm person], [mirror image], [scrying], [suggestion]_
+3/day each: _[charm person]_, _[mirror image]_, _[scrying]_, _[suggestion]_
 
 1/day: _[geas]_
 
@@ -6890,25 +6890,25 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 
 **_Spellcasting_**. The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-Cantrips (at will): _[mage hand], [prestidigitation], [ray of frost]_
+* **Cantrips (at will):** _[mage hand]_, _[prestidigitation]_, _[ray of frost]_
 
-1st level (4 slots): _[detect magic], [magic missile], [shield], [thunderwave]_
+* **1st level (4 slots):** _[detect magic]_, _[magic missile]_, _[shield]_, _[thunderwave]_
 
-2nd level (3 slots): _[detect thoughts], [invisibility], [Melf's acid arrow], [mirror image]_
+* **2nd level (3 slots):** _[detect thoughts]_, _[invisibility]_, _[Melf's acid arrow]_, _[mirror image]_
 
-3rd level (3 slots): _[animate dead], [counterspell], [dispel magic], [fireball]_
+* **3rd level (3 slots):** _[animate dead]_, _[counterspell]_, _[dispel magic]_, _[fireball]_
 
-4th level (3 slots): _[blight], [dimension door]_
+* **4th level (3 slots):** _[blight]_, _[dimension door]_
 
-5th level (3 slots): _[cloudkill], [scrying]_
+* **5th level (3 slots):** _[cloudkill]_, _[scrying]_
 
-6th level (1 slot): _[disintegrate], [globe of invulnerability]_
+* **6th level (1 slot):** _[disintegrate]_, _[globe of invulnerability]_
 
-7th level (1 slot): _[finger of death], [plane shift]_
+* **7th level (1 slot):** _[finger of death]_, _[plane shift]_
 
-8th level (1 slot): _[dominate monster], power word stun_
+* **8th level (1 slot):** _[dominate monster]_, _[power word stun]_
 
-9th level (1 slot): _[power word kill]_
+* **9th level (1 slot):** _[power word kill]_
 
 **_Turn Resistance_**. The lich has advantage on saving throws against any effect that turns undead.
 
@@ -6956,9 +6956,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **_Innate Spellcasting_**. The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
-At will: _[detect evil and good], [druidcraft], [pass without trace]_
+At will: _[detect evil and good]_, _[druidcraft]_, _[pass without trace]_
 
-1/day each: _[calm emotions], [dispel evil and good], [entangle]_
+1/day each: _[calm emotions]_, _[dispel evil and good]_, _[entangle]_
 
 **_Magic Resistance_**. The unicorn has advantage on saving throws against spells and other magical effects.
 
@@ -7274,17 +7274,17 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 **_Spellcasting_**. The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-Cantrips (at will): _[fire bolt], [light], [mage hand], [prestidigitation]_
+* **Cantrips (at will):** _[fire bolt]_, _[light]_, _[mage hand]_, _[prestidigitation]_
 
-1st level (4 slots): _[detect magic], [mage armor], [magic missile], [shield]_
+* **1st level (4 slots):** _[detect magic]_, _[mage armor]_, _[magic missile]_, _[shield]_
 
-2nd level (3 slots): _[misty step], [suggestion]_
+* **2nd level (3 slots):** _[misty step]_, _[suggestion]_
 
-3rd level (3 slots): _[counterspell], [fireball], fly_
+* **3rd level (3 slots):** _[counterspell]_, _[fireball]_, _[fly]_
 
-4th level (3 slots): _[greater invisibility], [ice storm]_
+* **4th level (3 slots):** _[greater invisibility]_, _[ice storm]_
 
-5th level (1 slot): _[cone of cold]_
+* **5th level (1 slot):** _[cone of cold]_
 
 ## Actions
 
@@ -7881,19 +7881,19 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 
 **_Spellcasting_**. The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 
-Cantrips (at will): _[sacred flame], [thaumaturgy]_
+* **Cantrips (at will):** _[sacred flame]_, _[thaumaturgy]_
 
-1st level (4 slots): _[command], [guiding bolt], [shield of faith]_
+* **1st level (4 slots):** _[command]_, _[guiding bolt]_, _[shield of faith]_
 
-2nd level (3 slots): _[hold person], [silence], [spiritual weapon]_
+* **2nd level (3 slots):** _[hold person]_, _[silence]_, _[spiritual weapon]_
 
-3rd level (3 slots): _[animate dead], [dispel magic]_
+* **3rd level (3 slots):** _[animate dead]_, _[dispel magic]_
 
-4th level (3 slots): _[divination], [guardian of faith]_
+* **4th level (3 slots):** _[divination]_, _[guardian of faith]_
 
-5th level (2 slots): _[contagion], [insect plague]_
+* **5th level (2 slots):** _[contagion]_, _[insect plague]_
 
-6th level (1 slot): _[harm]_
+* **6th level (1 slot):** _[harm]_
 
 ## Actions
 
@@ -8162,17 +8162,17 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 **_Spellcasting_**. The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
-Cantrips (at will): _[mage hand], [minor illusion], [ray of frost]_
+* **Cantrips (at will):** _[mage hand]_, _[minor illusion]_, _[ray of frost]_
 
-1st level (4 slots): _[charm person], [detect magic], [sleep]_
+* **1st level (4 slots):** _[charm person]_, _[detect magic]_, _[sleep]_
 
-2nd level (3 slots): _[detect thoughts], [hold person]_
+* **2nd level (3 slots):** _[detect thoughts]_, _[hold person]_
 
-3rd level (3 slots): _[lightning bolt], [water breathing]_
+* **3rd level (3 slots):** _[lightning bolt]_, _[water breathing]_
 
-4th level (3 slots): _[blight], [dimension door]_
+* **4th level (3 slots):** _[blight]_, _[dimension door]_
 
-5th level (2 slots): _[dominate person]_
+* **5th level (2 slots):** _[dominate person]_
 
 ## Actions
 
@@ -8207,19 +8207,19 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 
 **_Spellcasting_**. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-Cantrips (at will): _[mending], [sacred flame], [thaumaturgy]_
+* **Cantrips (at will):** _[mending]_, _[sacred flame]_, _[thaumaturgy]_
 
-1st level (4 slots): _[command], [cure wounds], [shield of faith]_
+* **1st level (4 slots):** _[command]_, _[cure wounds]_, _[shield of faith]_
 
-2nd level (3 slots): _[calm emotions], [hold person]_
+* **2nd level (3 slots):** _[calm emotions]_, _[hold person]_
 
-3rd level (3 slots): _[bestow curse], [clairvoyance]_
+* **3rd level (3 slots):** _[bestow curse]_, _[clairvoyance]_
 
-4th level (3 slots): _[banishment], [freedom of movement]_
+* **4th level (3 slots):** _[banishment]_, _[freedom of movement]_
 
-5th level (2 slots): _[flame strike], [geas]_
+* **5th level (2 slots):** _[flame strike]_, _[geas]_
 
-6th level (1 slot): _[true seeing]_
+* **6th level (1 slot):** _[true seeing]_
 
 ## Actions
 
@@ -8624,9 +8624,9 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 
 **_Innate Spellcasting_**. The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
-At will: _[darkness], [invisibility]_
+At will: _[darkness]_, _[invisibility]_
 
-1/day each: _[charm person], [cone of cold], [gaseous form], [sleep]_
+1/day each: _[charm person]_, _[cone of cold]_, _[gaseous form]_, _[sleep]_
 
 **_Magic Weapons_**. The oni's weapon attacks are magical.
 
@@ -9326,11 +9326,11 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 
 **_Innate Spellcasting_**. The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
-At will: _[detect thoughts], [disguise self], [mage hand], [minor illusion]_
+At will: _[detect thoughts]_, _[disguise self]_, _[mage hand]_, _[minor illusion]_
 
-3/day each: _[charm person], [detect magic], [invisibility], [major image], [suggestion]_
+3/day each: _[charm person]_, _[detect magic]_, _[invisibility]_, _[major image]_, _[suggestion]_
 
-1/day each: _[dominate person], [fly], [plane shift], [true seeing]_
+1/day each: _[dominate person]_, _[fly]_, _[plane shift]_, _[true seeing]_
 
 ## Actions
 
@@ -10121,11 +10121,11 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 
 **_Innate Spellcasting_**. The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
-At will: _[detect evil and good], [invisibility]_ (self only)
+At will: _[detect evil and good]_, _[invisibility]_ (self only)
 
-3/day each: _[blade barrier], [dispel evil and good], [resurrection]_
+3/day each: _[blade barrier]_, _[dispel evil and good]_, _[resurrection]_
 
-1/day each: _[commune], [control weather]_
+1/day each: _[commune]_, _[control weather]_
 
 **_Magic Resistance_**. The solar has advantage on saving throws against spells and other magical effects.
 
@@ -11408,9 +11408,9 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 At will: _[detect magic]_
 
-3/day: _[enlarge/reduce], [tongues]_
+3/day: _[enlarge/reduce]_, _[tongues]_
 
-1/day each: _[conjure elemental]_ (fire elemental only), _[gaseous form], [invisibility], [major image], [plane shift], [wall of fire]_
+1/day each: _[conjure elemental]_ (fire elemental only), _[gaseous form]_, _[invisibility]_, _[major image]_, _[plane shift]_, _[wall of fire]_
 
 ## Actions
 
