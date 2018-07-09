@@ -8,6 +8,9 @@
     x:Name="This" 
     IsPresented="False" 
     Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
+    <MasterDetailPage.ToolbarItems>
+        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
+    </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Resources>
         <ResourceDictionary>
             <tools:ItemSourceTypeToStringConverter x:Key="ItemSourceTypeToTitleConverter" SpellVO="Spells" SpellHD="Sorts (H&amp;D)" MonsterVO="Monsters" MonsterHD="Créatures (H&amp;D)" />
@@ -43,16 +46,22 @@
             <!--<ContentPage.ToolbarItems>
                         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
                     </ContentPage.ToolbarItems>-->
-            <StackLayout Orientation="Vertical" VerticalOptions="Fill" HorizontalOptions="Fill">
-                <StackLayout Orientation="Horizontal">
-                    <Button Text="=" Clicked="Button_Clicked"/>
-                    <SearchBar x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
-                        <SearchBar.Behaviors>
-                            <tools:TextChangedBehavior />
-                        </SearchBar.Behaviors>
-                    </SearchBar>
-                </StackLayout>
-                <ListView x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+            <Grid VerticalOptions="Fill" HorizontalOptions="Fill">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Button Grid.Column="0" Grid.Row="0" Text="=" Clicked="Button_Clicked"/>
+                <SearchBar Grid.Column="1" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                    <SearchBar.Behaviors>
+                        <tools:TextChangedBehavior />
+                    </SearchBar.Behaviors>
+                </SearchBar>
+                <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
@@ -64,7 +73,7 @@
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>
-            </StackLayout>
+            </Grid>
         </ContentPage>
     </MasterDetailPage.Detail>
 </MasterDetailPage>
