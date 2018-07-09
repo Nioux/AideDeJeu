@@ -17,7 +17,7 @@ namespace AideDeJeu
 
             DependencyService.Register<MainViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
-            var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()));// new MainPage();
+            var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()) { Title = "Menu" });// new MainPage();
             var navigationPage = new MainNavigationPage(mainPage);
             vm.Navigator = new Navigator(navigationPage.Navigation); //mainPage.Detail.Navigation);
             MainPage = navigationPage;

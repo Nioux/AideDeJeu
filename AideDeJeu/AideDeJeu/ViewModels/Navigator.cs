@@ -47,7 +47,7 @@ namespace AideDeJeu.ViewModels
 
             //var vm = new ItemDetailViewModel(item);
             //vm.LoadItemCommand.Execute(null);
-            await Navigation.PushAsync(new MainPage());
+            await Navigation.PushAsync(new ItemsPage());
         }
 
     }

@@ -9,7 +9,7 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class MainPage : MasterDetailPage
+	public partial class ItemsPage : MasterDetailPage
     {
         MainViewModel Main
         {
@@ -20,7 +20,7 @@ namespace AideDeJeu.Views
         }
         //INavig//ator Navigator;
 
-        public MainPage ()
+        public ItemsPage ()
 		{
 			InitializeComponent ();
 
@@ -35,8 +35,8 @@ namespace AideDeJeu.Views
         {
             base.OnAppearing();
 
-            //this.MasterBehavior = MasterBehavior.Default;
-            //this.MasterBehavior = MasterBehavior.Popover;
+            this.MasterBehavior = MasterBehavior.Popover;
+
             if (Main.Items.Count() == 0)
                 Main.LoadItemsCommand.Execute(null);
         }
