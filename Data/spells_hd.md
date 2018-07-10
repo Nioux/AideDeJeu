@@ -2,7 +2,9 @@
 [//]: # (Items)
 
 [SpellHD]
+
 [SpellHD]: # ()
+
 # Agrandir/rétrécir
 - NameVO: [Enlarge/Reduce](spells_vo.md#enlargereduce)
 - CastingTime: 1 action
