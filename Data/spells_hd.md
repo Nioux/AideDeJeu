@@ -3,7 +3,7 @@
 
 [][SpellHD]
 
-[SpellHD]: #
+[SpellHD]: #SpellHD
 
 # Agrandir/rétrécir
 - NameVO: [Enlarge/Reduce](spells_vo.md#enlargereduce)
