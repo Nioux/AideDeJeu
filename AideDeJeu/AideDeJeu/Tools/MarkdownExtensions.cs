@@ -43,6 +43,39 @@ namespace AideDeJeu.Tools
             return md;
         }
 
+
+        public static Item ToItem(string md)
+        {
+            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
+            var block = document.First();
+            var enumerator = document.GetEnumerator();
+            {
+                enumerator.MoveNext();
+                while (enumerator.Current != null)
+                {
+                    if(enumerator.Current is Markdig.Syntax.LinkReferenceDefinitionGroup)
+                    {
+                        var linkReferenceDefinitionGroup = enumerator.Current as Markdig.Syntax.LinkReferenceDefinitionGroup;
+                        var linkReferenceDefinition = linkReferenceDefinitionGroup.FirstOrDefault() as Markdig.Syntax.LinkReferenceDefinition;
+                        var label = linkReferenceDefinition.Label;
+                        var title = linkReferenceDefinition.Title;
+                        var url = linkReferenceDefinition.Url;
+                        if (label == "//")
+                        {
+                            var name = $"AideDeJeuLib.{title}, AideDeJeu";
+                            var type = Type.GetType(name);
+                            var instance = Activator.CreateInstance(type) as Item;
+                            instance.Parse(ref enumerator);
+                            return instance;
+                        }
+                    }
+                    enumerator.MoveNext();
+                }
+            }
+            return null;
+        }
+
         public static IEnumerable<TSpell> ToSpells<TSpell>(this Markdig.Syntax.MarkdownDocument document) where TSpell : Spell, new()
         {
             var spells = new List<TSpell>();

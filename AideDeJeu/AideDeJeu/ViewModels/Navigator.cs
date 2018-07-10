@@ -36,7 +36,6 @@ namespace AideDeJeu.ViewModels
                 return;
 
             var vm = new ItemDetailViewModel(item);
-            vm.LoadItemCommand.Execute(null);
             await Navigation.PushAsync(new ItemDetailPage(vm));
         }
 
@@ -46,7 +45,6 @@ namespace AideDeJeu.ViewModels
             //    return;
 
             //var vm = new ItemDetailViewModel(item);
-            //vm.LoadItemCommand.Execute(null);
             await Navigation.PushAsync(new ItemsPage());
         }
 

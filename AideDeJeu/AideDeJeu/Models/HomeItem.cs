@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Markdig.Syntax;
 
 namespace AideDeJeuLib.Models
 {
@@ -18,6 +19,11 @@ namespace AideDeJeuLib.Models
                     "# [Monsters](monsters_vo.md)\n\n" +
                     "# [Conditions](conditions_vo.md)\n\n";
             }
+        }
+
+        public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        {
+            throw new NotImplementedException();
         }
     }
 }

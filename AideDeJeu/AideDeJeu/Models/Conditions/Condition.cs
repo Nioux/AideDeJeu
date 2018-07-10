@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Markdig.Syntax;
 
 namespace AideDeJeuLib.Conditions
 {
@@ -17,6 +18,11 @@ namespace AideDeJeuLib.Conditions
                     $"{NameVO}\n\n" +
                     Text;
             }
+        }
+
+        public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        {
+            throw new NotImplementedException();
         }
     }
 }

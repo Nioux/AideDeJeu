@@ -20,16 +20,10 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public Command LoadItemCommand { get; set; }
-
         public ItemDetailViewModel(Item item = null)
         {
             Title = item?.Name;
             Item = item;
-            LoadItemCommand = new Command(async () => await ExecuteLoadItemCommand());
-        }
-        async Task ExecuteLoadItemCommand()
-        {
         }
     }
 

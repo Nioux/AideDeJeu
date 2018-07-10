@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
+using Markdig.Syntax;
 
 namespace AideDeJeuLib.Spells
 {
@@ -46,6 +47,11 @@ namespace AideDeJeuLib.Spells
                     $"**Source :** {Source}";
 
             }
+        }
+
+        public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        {
+            throw new NotImplementedException();
         }
     }
 }

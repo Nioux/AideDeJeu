@@ -65,7 +65,8 @@ namespace AideDeJeu.ViewModels
                             resourceName = "AideDeJeu.Data.spells_hd.md";
                             //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
+                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+                            //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
                         }
                         break;
                     case ItemSourceType.ConditionVO:

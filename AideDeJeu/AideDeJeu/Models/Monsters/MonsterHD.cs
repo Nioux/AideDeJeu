@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Markdig.Syntax;
 
 namespace AideDeJeuLib.Monsters
 {
@@ -35,6 +36,11 @@ namespace AideDeJeuLib.Monsters
                     (Reactions != null ? $"## Réactions\n\n" + Reactions.Aggregate((s1, s2) => s1 + "\n\n" + s2) : "") +
                     (LegendaryActions != null ? $"## Actions Légendaires\n\n" + LegendaryActions.Aggregate((s1, s2) => s1 + "\n\n" + s2) : "");
             }
+        }
+
+        public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        {
+            throw new NotImplementedException();
         }
     }
 }
