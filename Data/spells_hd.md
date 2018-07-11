@@ -1,10 +1,13 @@
 ﻿
 [][Items]
 
+# Sorts (H&D)
+- NameVO: [Spells](spells_vo.md)
+
 [][SpellHD]
 
-[Items]: #Items
-[SpellHD]: #SpellHD
+[Items]: #
+[SpellHD]: #
 
 # Agrandir/rétrécir
 - NameVO: [Enlarge/Reduce](spells_vo.md#enlargereduce)
