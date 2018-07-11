@@ -1,8 +1,9 @@
 ﻿
-[//]: # (Items)
+[][Items]
 
 [][SpellHD]
 
+[Items]: #Items
 [SpellHD]: #SpellHD
 
 # Agrandir/rétrécir

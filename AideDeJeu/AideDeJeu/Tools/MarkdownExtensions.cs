@@ -10,6 +10,8 @@ using AideDeJeuLib.Monsters;
 using Markdig;
 using AideDeJeuLib;
 using AideDeJeuLib.Conditions;
+using Markdig.Syntax;
+using Markdig.Syntax.Inlines;
 
 namespace AideDeJeu.Tools
 {
@@ -54,7 +56,26 @@ namespace AideDeJeu.Tools
                 enumerator.MoveNext();
                 while (enumerator.Current != null)
                 {
-                    if(enumerator.Current is Markdig.Syntax.LinkReferenceDefinitionGroup)
+                    if (enumerator.Current is Markdig.Syntax.ParagraphBlock)
+                    {
+                        var paragraphBlock = enumerator.Current as ParagraphBlock;
+                        var linkInline = paragraphBlock.Inline.FirstChild as LinkInline;
+                        if(linkInline != null)
+                        {
+                            var label = linkInline.Label;
+                            var title = linkInline.Title;
+                            var url = linkInline.Url;
+                            if (title == "")
+                            {
+                                var name = $"AideDeJeuLib.{label}, AideDeJeu";
+                                var type = Type.GetType(name);
+                                var instance = Activator.CreateInstance(type) as Item;
+                                instance.Parse(ref enumerator);
+                                return instance;
+                            }
+                        }
+                    }
+                    if (enumerator.Current is Markdig.Syntax.LinkReferenceDefinitionGroup)
                     {
                         var linkReferenceDefinitionGroup = enumerator.Current as Markdig.Syntax.LinkReferenceDefinitionGroup;
                         var linkReferenceDefinition = linkReferenceDefinitionGroup.FirstOrDefault() as Markdig.Syntax.LinkReferenceDefinition;
