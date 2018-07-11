@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Markdig.Syntax;
 
-namespace AideDeJeuLib.Conditions
+namespace AideDeJeuLib
 {
     public class Condition : Item
     {

@@ -4,10 +4,10 @@
 # Sorts (H&D)
 - NameVO: [Spells](spells_vo.md)
 
-[][SpellHD]
-
 [Items]: #
 [SpellHD]: #
+
+[][SpellHD]
 
 # Agrandir/rétrécir
 - NameVO: [Enlarge/Reduce](spells_vo.md#enlargereduce)
@@ -31,6 +31,8 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 
 
+[][SpellHD]
+
 # Aide
 - NameVO: [Aid](spells_vo.md#aid)
 - CastingTime: 1 action
@@ -48,6 +50,8 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 **_À plus haut niveau._** Quand vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 points supplémentaires pour chaque niveau au-delà du niveau 2.
 
 
+
+[][SpellHD]
 
 # Alarme
 - NameVO: [Alarm](spells_vo.md#alarm)
@@ -68,6 +72,8 @@ Une alarme mentale vous avertit d'un tintement dans votre tête tant que vous vo
 Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes et retentit dans un rayon de 18 mètres.
 
 
+
+[][SpellHD]
 
 # Allié planaire
 - NameVO: [Planar Ally](spells_vo.md#planar-ally)
@@ -99,6 +105,8 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 
 
 
+[][SpellHD]
+
 # Amélioration de caractéristique
 - NameVO: [Enhance Ability](spells_vo.md#enhance-ability)
 - CastingTime: 1 action
@@ -129,6 +137,8 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 
 
+[][SpellHD]
+
 # Amitié avec les animaux
 - NameVO: [Animal Friendship](spells_vo.md#animal-friendship)
 - CastingTime: 1 action
@@ -146,6 +156,8 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Animation des morts
 - NameVO: [Animate Dead](spells_vo.md#animate-dead)
@@ -170,6 +182,8 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous animez ou réaffirmez votre contrôle sur deux créatures de plus par niveau au-delà du niveau 3. Chaque créature doit provenir d'un tas d'os ou d'un cadavre différent.
 
 
+
+[][SpellHD]
 
 # Animation des objets
 - NameVO: [Animate Objects](spells_vo.md#animate-objects)
@@ -205,6 +219,8 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 
 
 
+[][SpellHD]
+
 # Apaisement des émotions
 - NameVO: [Calm Emotions](spells_vo.md#calm-emotions)
 - CastingTime: 1 action
@@ -224,6 +240,8 @@ Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20
 * Vous rendez la cible indifférente vis-à-vis des créatures de votre choix, envers lesquelles elle était auparavant hostile. Cette indifférence prend fin si la cible est attaquée ou affectée par un sort néfaste, ou bien si elle voit l'un de ses amis être ainsi agressé. La cible redevient hostile dès que le sort se termine, à moins que le MJ n'en décide autrement.
 
 
+
+[][SpellHD]
 
 # Apparence trompeuse
 - NameVO: [Seeming](spells_vo.md#seeming)
@@ -250,6 +268,8 @@ Les changements apportés par le sort ne résistent pas à un examen physique. P
 Une créature peut utiliser son action pour examiner une cible et faire un test d'Intelligence (Investigation) contre le DD du jet de sauvegarde du sort. Si elle le réussit, elle comprend que la cible est déguisée.
 
 
+
+[][SpellHD]
 
 # Appel de familier
 - NameVO: [Find Familiar](spells_vo.md#find-familiar)
@@ -279,6 +299,8 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 
 
 
+[][SpellHD]
+
 # Appel de la foudre
 - NameVO: [Call Lightning](spells_vo.md#call-lightning)
 - CastingTime: 1 action
@@ -301,6 +323,8 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 
 
 
+[][SpellHD]
+
 # Arc enchanté
 - NameVO: 
 - CastingTime: 1 action
@@ -321,6 +345,8 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 
 
 
+[][SpellHD]
+
 # Arme magique
 - NameVO: [Magic Weapon](spells_vo.md#magic-weapon)
 - CastingTime: 1 action bonus
@@ -339,6 +365,8 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 
 
 
+[][SpellHD]
+
 # Arme sainte
 - NameVO: 
 - CastingTime: 1 action
@@ -356,6 +384,8 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le bonus de dégâts passe à 2d8.
 
 
+
+[][SpellHD]
 
 # Arme spirituelle
 - NameVO: [Spiritual Weapon](spells_vo.md#spiritual-weapon)
@@ -381,6 +411,8 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 
 
 
+[][SpellHD]
+
 # Armure du mage
 - NameVO: [Mage Armor](spells_vo.md#mage-armor)
 - CastingTime: 1 action
@@ -396,6 +428,8 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La CA de base de la cible passe à 13 + son modificateur de Dextérité. Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
 
 
+
+[][SpellHD]
 
 # Arrêt du temps
 - NameVO: [Time Stop](spells_vo.md#time-stop)
@@ -415,6 +449,8 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 
 
 
+[][SpellHD]
+
 # Aspersion acide
 - NameVO: [Acid Splash](spells_vo.md#acid-splash)
 - CastingTime: 1 action
@@ -432,6 +468,8 @@ Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux cré
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
 
 
+
+[][SpellHD]
 
 # Assassin imaginaire
 - NameVO: [Phantasmal Killer](spells_vo.md#phantasmal-killer)
@@ -455,6 +493,8 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 
 
 
+[][SpellHD]
+
 # Assistance
 - NameVO: [Guidance](spells_vo.md#guidance)
 - CastingTime: 1 action
@@ -470,6 +510,8 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer 1d4 et ajouter le résultat obtenu au test de caractéristique de son choix. Elle peut lancer le dé avant ou après le test. Le sort se termine alors.
 
 
+
+[][SpellHD]
 
 # Augure
 - NameVO: [Augury](spells_vo.md#augury)
@@ -499,6 +541,8 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 
 
+[][SpellHD]
+
 # Aura de force
 - NameVO: 
 - CastingTime: 1 action
@@ -514,6 +558,8 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un avantage à tous les tests et les jets de sauvegarde de Force.
 
 
+
+[][SpellHD]
 
 # Aura du héros
 - NameVO: 
@@ -532,6 +578,8 @@ Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéfici
 Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
 
 
+
+[][SpellHD]
 
 # Aura magique de l'arcaniste
 - NameVO: [Nystul's Magic Aura](spells_vo.md#nystuls-magic-aura)
@@ -555,6 +603,8 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 
 
 
+[][SpellHD]
+
 # Aura sacrée
 - NameVO: [Holy Aura](spells_vo.md#holy-aura)
 - CastingTime: 1 action
@@ -573,6 +623,8 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 
 
 
+[][SpellHD]
+
 # Bagou
 - NameVO: [Glibness](spells_vo.md#glibness)
 - CastingTime: 1 action
@@ -588,6 +640,8 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 Jusqu'à la fin du sort, chaque fois que vous effectuez un test de Charisme, vous pouvez remplacer le nombre obtenu au dé par un 15. De plus, quoi que vous disiez, la magie visant à déterminer si vous dites la vérité vous identifie toujours comme sincère.
 
 
+
+[][SpellHD]
 
 # Baies nourricières
 - NameVO: [Goodberry](spells_vo.md#goodberry)
@@ -609,6 +663,8 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 
 
 
+[][SpellHD]
+
 # Balisage
 - NameVO: [Guiding Bolt](spells_vo.md#guiding-bolt)
 - CastingTime: 1 action
@@ -626,6 +682,8 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Bannissement
 - NameVO: [Banishment](spells_vo.md#banishment)
@@ -653,6 +711,8 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 
 
 
+[][SpellHD]
+
 # Barrière de lames
 - NameVO: [Blade Barrier](spells_vo.md#blade-barrier)
 - CastingTime: 1 action
@@ -670,6 +730,8 @@ Vous créez un mur vertical constitué de lames tournoyantes faites d'énergie m
 Quand une créature pénètre dans la zone du mur pour la première fois au cours de son tour ou quand elle commence son tour dans cette zone, elle doit faire un jet de sauvegarde de Dextérité. Si elle le rate, elle subit 6d10 dégâts tranchants ; si elle le réussit, elle en subit seulement la moitié.
 
 
+
+[][SpellHD]
 
 # Bénédiction
 - NameVO: [Bless](spells_vo.md#bless)
@@ -689,6 +751,8 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 
 
 
+[][SpellHD]
+
 # Bénédiction héroïque
 - NameVO: 
 - CastingTime: 1 action
@@ -704,6 +768,8 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un avantage au jet d'attaque sur la première attaque de chacun de vos tours pour toute la durée du sort.
 
 
+
+[][SpellHD]
 
 # Blessure
 - NameVO: [Inflict Wounds](spells_vo.md#inflict-wounds)
@@ -722,6 +788,8 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Bouche magique
 - NameVO: [Magic Mouth](spells_vo.md#magic-mouth)
@@ -745,6 +813,8 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 
 
 
+[][SpellHD]
+
 # Bouclier
 - NameVO: [Shield](spells_vo.md#shield)
 - CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_
@@ -760,6 +830,8 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 Une barrière [invisible] faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort _[projectile magique]_.
 
 
+
+[][SpellHD]
 
 # Bouclier de feu
 - NameVO: [Fire Shield](spells_vo.md#fire-shield)
@@ -781,6 +853,8 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 
 
 
+[][SpellHD]
+
 # Bouclier de la foi
 - NameVO: [Shield of Faith](spells_vo.md#shield-of-faith)
 - CastingTime: 1 action bonus
@@ -796,6 +870,8 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la CA pendant toute la durée du sort.
 
 
+
+[][SpellHD]
 
 # Bouffée de poison
 - NameVO: [Poison Spray](spells_vo.md#poison-spray)
@@ -814,6 +890,8 @@ Vous tendez la main en direction d'une créature située à portée et dans votr
 Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12), 11 (3d12) et 17 (4d12).
 
 
+
+[][SpellHD]
 
 # Boule de feu
 - NameVO: [Fireball](spells_vo.md#fireball)
@@ -834,6 +912,8 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
 
+
+[][SpellHD]
 
 # Boule de feu à explosion retardée
 - NameVO: [Delayed Blast Fireball](spells_vo.md#delayed-blast-fireball)
@@ -861,6 +941,8 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 
 
 
+[][SpellHD]
+
 # Bourrasque
 - NameVO: [Gust of Wind](spells_vo.md#gust-of-wind)
 - CastingTime: 1 action
@@ -883,6 +965,8 @@ Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'
 
 
 
+[][SpellHD]
+
 # Briser
 - NameVO: [Shatter](spells_vo.md#shatter)
 - CastingTime: 1 action
@@ -904,6 +988,8 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 2.
 
 
+
+[][SpellHD]
 
 # Brûlure du juste
 - NameVO: 
@@ -928,6 +1014,8 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Cage de force
 - NameVO: [Forcecage](spells_vo.md#forcecage)
@@ -955,6 +1043,8 @@ La _[dissipation de la magie]_ est sans effet sur ce sort.
 
 
 
+[][SpellHD]
+
 # Caresse du vampire
 - NameVO: [Vampiric Touch](spells_vo.md#vampiric-touch)
 - CastingTime: 1 action
@@ -972,6 +1062,8 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
 
+
+[][SpellHD]
 
 # Catalepsie
 - NameVO: 
@@ -997,6 +1089,8 @@ Au niveau 9, la cible doit réussir un jet de sauvegarde de constitution difficu
 
 
 
+[][SpellHD]
+
 # Cécité/surdité
 - NameVO: [Blindness/Deafness](spells_vo.md#blindnessdeafness)
 - CastingTime: 1 action
@@ -1017,6 +1111,8 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 
 
 
+[][SpellHD]
+
 # Cercle de mort
 - NameVO: [Circle of Death](spells_vo.md#circle-of-death)
 - CastingTime: 1 action
@@ -1034,6 +1130,8 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 2d6 par niveau au-delà du niveau 6.
 
 
+
+[][SpellHD]
 
 # Cercle de téléportation
 - NameVO: [Teleportation Circle](spells_vo.md#teleportation-circle)
@@ -1058,6 +1156,8 @@ Chacun de ces cercles utilise une séquence de symboles uniques : une série de 
 Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au même endroit tous les jours pendant un an. Vous n'avez pas besoin d'utiliser le cercle pour vous téléporter quand vous lancez ce sort pour cela.
 
 
+
+[][SpellHD]
 
 # Cercle magique
 - NameVO: [Magic Circle](spells_vo.md#magic-circle)
@@ -1089,6 +1189,8 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 
 
 
+[][SpellHD]
+
 # Chaîne d'éclairs
 - NameVO: [Chain Lightning](spells_vo.md#chain-lightning)
 - CastingTime: 1 action
@@ -1112,6 +1214,8 @@ Chaque cible doit faire un jet de sauvegarde de Dextérité et subit 10d8 dégâ
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, un éclair de plus rebondit de la première cible vers une autre pour chaque niveau au-delà du niveau 6.
 
 
+
+[][SpellHD]
 
 # Champ antimagie
 - NameVO: [Antimagic Field](spells_vo.md#antimagic-field)
@@ -1147,6 +1251,8 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 
 
 
+[][SpellHD]
+
 # Changement de forme
 - NameVO: [Shapechange](spells_vo.md#shapechange)
 - CastingTime: 1 action
@@ -1177,6 +1283,8 @@ Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une no
 
 
 
+[][SpellHD]
+
 # Changement de plan
 - NameVO: [Plane Shift](spells_vo.md#plane-shift)
 - CastingTime: 1 action
@@ -1199,6 +1307,8 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 
 
 
+[][SpellHD]
+
 # Charme-personne
 - NameVO: [Charm Person](spells_vo.md#charm-person)
 - CastingTime: 1 action
@@ -1216,6 +1326,8 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez charmer une créature de plus par niveau au-delà du niveau 1. Toutes les cibles doivent se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
 
 
+
+[][SpellHD]
 
 # Chauffer le métal
 - NameVO: [Heat Metal](spells_vo.md#heat-metal)
@@ -1241,6 +1353,8 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 
 
 
+[][SpellHD]
+
 # Chien de garde
 - NameVO: [Mordenkainen's Faithful Hound](spells_vo.md#mordenkainens-faithful-hound)
 - CastingTime: 1 action
@@ -1261,6 +1375,8 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 
 
 
+[][SpellHD]
+
 # Choc des titans
 - NameVO: 
 - CastingTime: 1 action
@@ -1276,6 +1392,8 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un avantage à votre première attaque à chacun de vos tours.
 
 
+
+[][SpellHD]
 
 # Clairvoyance
 - NameVO: [Clairvoyance](spells_vo.md#clairvoyance)
@@ -1299,6 +1417,8 @@ Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple d
 
 
 
+[][SpellHD]
+
 # Clignotement
 - NameVO: [Blink](spells_vo.md#blink)
 - CastingTime: 1 action
@@ -1317,6 +1437,8 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 
 
 
+[][SpellHD]
+
 # Clone
 - NameVO: [Clone](spells_vo.md#clone)
 - CastingTime: 1 heure
@@ -1334,6 +1456,8 @@ Ce sort génère la réplique inerte d'une créature vivante, pour la protéger 
 Une fois que le clone est arrivé à maturité, si la créature originale meurt, son âme se transfère dans le clone, à condition que cette âme soit libre et désireuse de revenir à la vie. D'un point de vue physique, le clone est identique à l'original. De plus, il possède la même personnalité, les mêmes souvenirs et les mêmes capacités, mais il n'hérite pas de son équipement. Les restes physiques de la créature originale ne disparaissent pas. S'ils ne sont pas détruits, ils deviennent inertes et ne peuvent pas servir à ramener la créature à la vie puisque son âme se trouve ailleurs.
 
 
+
+[][SpellHD]
 
 # Coercition mystique
 - NameVO: [Geas](spells_vo.md#geas)
@@ -1361,6 +1485,8 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 
 
 
+[][SpellHD]
+
 # Coffre secret
 - NameVO: [Leomund's Secret Chest](spells_vo.md#leomunds-secret-chest)
 - CastingTime: 1 action
@@ -1383,6 +1509,8 @@ Si le sort se termine alors que le grand coffre est encore sur le plan éthéré
 
 
 
+[][SpellHD]
+
 # Colère des damnés
 - NameVO: 
 - CastingTime: 1 action
@@ -1400,6 +1528,8 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
 
 
+
+[][SpellHD]
 
 # Collet magique
 - NameVO: 
@@ -1423,6 +1553,8 @@ Une créature [entravée] peut utiliser son action à chaque tour pour faire un 
 
 
 
+[][SpellHD]
+
 # Colonne de flamme
 - NameVO: [Flame Strike](spells_vo.md#flame-strike)
 - CastingTime: 1 action
@@ -1443,6 +1575,8 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 
 
 
+[][SpellHD]
+
 # Communication avec les animaux
 - NameVO: [Speak with Animals](spells_vo.md#speak-with-animals)
 - CastingTime: 1 action
@@ -1458,6 +1592,8 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec elles pendant toute la durée du sort. Les connaissances et le degré de conscience de nombreuses bêtes sont limités par leur intelligence réduite, mais elles peuvent au moins vous renseigner sur les environs et les monstres aux alentours, ainsi que sur ce qu'elles perçoivent aujourd'hui ou ont perçu la veille. Si le MJ accepte, vous pouvez convaincre une bête de vous accorder une petite faveur.
 
 
+
+[][SpellHD]
 
 # Communication avec les morts
 - NameVO: [Speak with Dead](spells_vo.md#speak-with-dead)
@@ -1476,6 +1612,8 @@ Vous donnez un semblant de vie et d'intelligence à un cadavre de votre choix si
 Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les connaissances du cadavre se limitent à ce qu'il savait de son vivant, y compris au niveau des langues qu'il est capable de parler. Les réponses sont souvent brèves, cryptiques ou répétitives et le cadavre n'est absolument pas obligé de vous donner une réponse sincère si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne ramène pas l'âme de la cible dans son corps, juste l'esprit qui l'animait ; le cadavre ne peut donc pas apprendre de nouvelles informations, ne comprend rien de ce qui s'est passé après sa mort et est incapable de faire des spéculations sur l'avenir.
 
 
+
+[][SpellHD]
 
 # Communication avec les plantes
 - NameVO: [Speak with Plants](spells_vo.md#speak-with-plants)
@@ -1501,6 +1639,8 @@ Ce sort permet de libérer une créature [entravée] par les plantes nées d'un 
 
 
 
+[][SpellHD]
+
 # Communion
 - NameVO: [Commune](spells_vo.md#commune)
 - CastingTime: 1 minute
@@ -1520,6 +1660,8 @@ Les êtres divins ne sont pas forcément omniscients, il se peut donc que vous o
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances (cumulables) que chaque incantation en sus de la première ne reçoive pas de réponse. Le MJ effectue ce jet en secret.
 
 
+
+[][SpellHD]
 
 # Communion avec la nature
 - NameVO: [Commune with Nature](spells_vo.md#commune-with-nature)
@@ -1554,6 +1696,8 @@ Vous obtenez instantanément des informations sur un maximum de trois éléments
 Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résidant dans la zone, savoir où se trouvent les points d'eau potable majeurs et où se trouvent les villages les plus proches.
 
 
+
+[][SpellHD]
 
 # Compagnon animal
 - NameVO: 
@@ -1593,6 +1737,8 @@ Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie auss
 
 
 
+[][SpellHD]
+
 # Compréhension des langues
 - NameVO: [Comprehend Languages](spells_vo.md#comprehend-languages)
 - CastingTime: 1 action
@@ -1611,6 +1757,8 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 
 
 
+[][SpellHD]
+
 # Compulsion
 - NameVO: [Compulsion](spells_vo.md#compulsion)
 - CastingTime: 1 action
@@ -1628,6 +1776,8 @@ Les créatures de votre choix, situées à portée, dans votre champ de vision e
 Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dangereuse, comme un brasier ou une fosse béante, mais elle est prête à provoquer des attaques d'opportunité pour se déplacer dans la direction indiquée.
 
 
+
+[][SpellHD]
 
 # Cône de froid
 - NameVO: [Cone of Cold](spells_vo.md#cone-of-cold)
@@ -1648,6 +1798,8 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 5.
 
 
+
+[][SpellHD]
 
 # Confusion
 - NameVO: [Confusion](spells_vo.md#confusion)
@@ -1680,6 +1832,8 @@ Une créature affectée peut faire un jet de sauvegarde de Sagesse à la fin de 
 
 
 
+[][SpellHD]
+
 # Contact glacial
 - NameVO: [Chill Touch](spells_vo.md#chill-touch)
 - CastingTime: 1 action
@@ -1702,6 +1856,8 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 
 
 
+[][SpellHD]
+
 # Contacter un autre plan
 - NameVO: [Contact Other Plane](spells_vo.md#contact-other-plane)
 - CastingTime: 1 minute
@@ -1721,6 +1877,8 @@ En cas d'échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusq
 Si vous réussissez votre jet de sauvegarde, vous pouvez poser jusqu'à cinq questions à l'entité. Vous devez les poser avant la fin du sort. C'est le MJ qui répond à chacune d'entre elles avec un mot, comme « oui », « non », « peutêtre », « jamais », « hors sujet » ou « incertain » (si l'entité ignore la réponse à votre question). Si une réponse limitée à un seul mot risque de se révéler trompeuse, le MJ peut la remplacer par une courte phrase.
 
 
+
+[][SpellHD]
 
 # Contagion
 - NameVO: [Contagion](spells_vo.md#contagion)
@@ -1760,6 +1918,8 @@ Elle subit un désavantage lors des tests de Charisme et devient vulnérable à 
 
 
 
+[][SpellHD]
+
 # Contamination
 - NameVO: [Harm](spells_vo.md#harm)
 - CastingTime: 1 action
@@ -1775,6 +1935,8 @@ Elle subit un désavantage lors des tests de Charisme et devient vulnérable à 
 Vous transmettez une maladie virulente à une créature située à portée et dans votre champ de vision. La cible doit faire un jet de sauvegarde de Constitution. Si elle échoue, elle subit 14d6 dégâts nécrotiques, la moitié seulement si elle réussit. Ces dégâts ne peuvent pas faire passer les points de vie de la cible au-dessous de 1. Si la cible rate son jet de sauvegarde, son total de points de vie maximum est réduit, pendant 1 heure, d'un montant égal aux dégâts nécrotiques reçus. Tout effet qui guérit les maladies ramène le maximum de points de vie de la cible à la normale sans avoir besoin d'attendre 1 heure.
 
 
+
+[][SpellHD]
 
 # Contingence
 - NameVO: [Contingency](spells_vo.md#contingency)
@@ -1798,6 +1960,8 @@ Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en la
 
 
 
+[][SpellHD]
+
 # Contresort
 - NameVO: [Counterspell](spells_vo.md#counterspell)
 - CastingTime: 1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort
@@ -1817,6 +1981,8 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort à interrompre est automatiquement sans effet s'il est d'un niveau égal ou inférieur à celui de l'emplacement de sort utilisé.
 
 
+
+[][SpellHD]
 
 # Contrôle de l'eau
 - NameVO: [Control Water](spells_vo.md#control-water)
@@ -1847,6 +2013,8 @@ Le niveau de l'eau reste plus élevé jusqu'à la fin du sort ou jusqu'à ce que
 Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un jet de sauvegarde de Force. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de Force (Athlétisme). À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
 
 
+
+[][SpellHD]
 
 # Contrôle du climat
 - NameVO: [Control Weather](spells_vo.md#control-weather)
@@ -1900,6 +2068,8 @@ Vent
 |5|Tempête|
 
 
+[][SpellHD]
+
 # Convocations instantanées
 - NameVO: [Drawmij's Instant Summons](spells_vo.md#drawmijs-instant-summons)
 - CastingTime: 1 minute
@@ -1924,6 +2094,8 @@ _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un
 
 
 
+[][SpellHD]
+
 # Coquille antivie
 - NameVO: [Antilife Shell](spells_vo.md#antilife-shell)
 - CastingTime: 1 action
@@ -1943,6 +2115,8 @@ La barrière empêche les créatures affectées de la franchir ou de passer un m
 Si vous vous déplacez de telle manière qu'une créature affectée est contrainte de traverser la barrière, le sort se termine.
 
 
+
+[][SpellHD]
 
 # Corde enchantée
 - NameVO: [Rope Trick](spells_vo.md#rope-trick)
@@ -1968,6 +2142,8 @@ Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quan
 
 
 
+[][SpellHD]
+
 # Couleurs dansantes
 - NameVO: [Color Spray](spells_vo.md#color-spray)
 - CastingTime: 1 action
@@ -1987,6 +2163,8 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d10 supplémentaires par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Création
 - NameVO: [Creation](spells_vo.md#creation)
@@ -2020,6 +2198,8 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 
 
 
+[][SpellHD]
+
 # Création de mort-vivant
 - NameVO: [Create Undead](spells_vo.md#create-undead)
 - CastingTime: 1 minute
@@ -2048,6 +2228,8 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 
 
 
+[][SpellHD]
+
 # Création de nourriture et d'eau
 - NameVO: [Create Food and Water](spells_vo.md#create-food-and-water)
 - CastingTime: 1 action
@@ -2063,6 +2245,8 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Cela suffit à nourrir et abreuver un maximum de quinze humanoïdes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.
 
 
+
+[][SpellHD]
 
 # Création ou destruction d'eau
 - NameVO: [Create or Destroy Water](spells_vo.md#create-or-destroy-water)
@@ -2088,6 +2272,8 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 
 
 
+[][SpellHD]
+
 # Croissance d'épines
 - NameVO: [Spike Growth](spells_vo.md#spike-growth)
 - CastingTime: 1 action
@@ -2105,6 +2291,8 @@ Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se 
 La transformation du sol est camouflée, de manière à ce que le terrain ait l'air naturel. Une créature dans l'incapacité de voir la zone au moment de l'incantation doit réussir un test de Sagesse (Perception) contre le DD du jet de sauvegarde de votre sort pour remarquer que le terrain est dangereux avant d'y entrer.
 
 
+
+[][SpellHD]
 
 # Croissance végétale
 - NameVO: [Plant Growth](spells_vo.md#plant-growth)
@@ -2130,6 +2318,8 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 
 
 
+[][SpellHD]
+
 # Danse irrésistible
 - NameVO: [Otto's Irresistible Dance](spells_vo.md#ottos-irresistible-dance)
 - CastingTime: 1 action
@@ -2149,6 +2339,8 @@ Une fois que la créature s'est mise à danser, elle doit dépenser la totalité
 Tant que la cible est affectée par ce sort, les autres créatures bénéficient d'un avantage lors de leurs jets d'attaque contre elle. Une créature en train de danser peut utiliser son action pour effectuer un jet de sauvegarde de Sagesse et reprendre le contrôle de son corps. Si elle réussit, le sort se termine.
 
 
+
+[][SpellHD]
 
 # Déblocage
 - NameVO: [Knock](spells_vo.md#knock)
@@ -2170,6 +2362,8 @@ Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu
 
 
 
+[][SpellHD]
+
 # Déguisement
 - NameVO: [Disguise Self](spells_vo.md#disguise-self)
 - CastingTime: 1 action
@@ -2190,6 +2384,8 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 
 
 
+[][SpellHD]
+
 # Demi-plan
 - NameVO: [Demiplane](spells_vo.md#demiplane)
 - CastingTime: 1 action
@@ -2207,6 +2403,8 @@ Vous créez une porte floue sur une surface plate et solide située à portée e
 Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relier la porte à un demi-plan que vous avez précédemment créé via ce sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan qu'une autre créature a créé grâce à ce sort, vous pouvez lui relier votre propre porte.
 
 
+
+[][SpellHD]
 
 # Déplacer la terre
 - NameVO: [Move Earth](spells_vo.md#move-earth)
@@ -2229,6 +2427,8 @@ Ce sort est incapable de manipuler la pierre naturelle et les constructions de p
 De même, le sort n'affecte pas directement la croissance des plantes. La terre déplacée emporte les végétaux avec elle.
 
 
+
+[][SpellHD]
 
 # Désintégration
 - NameVO: [Disintegrate](spells_vo.md#disintegrate)
@@ -2254,6 +2454,8 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 
 
 
+[][SpellHD]
+
 # Dessiccation
 - NameVO: 
 - CastingTime: 1 action
@@ -2274,6 +2476,8 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 
 
 
+[][SpellHD]
+
 # Détection de la magie
 - NameVO: [Detect Magic](spells_vo.md#detect-magic)
 - CastingTime: 1 action
@@ -2291,6 +2495,8 @@ Pendant toute la durée du sort, vous percevez la présence de magie dans un ray
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
 
+
+[][SpellHD]
 
 # Détection des pensées
 - NameVO: [Detect Thoughts](spells_vo.md#detect-thoughts)
@@ -2324,6 +2530,8 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 
 
 
+[][SpellHD]
+
 # Détection du mal et du bien
 - NameVO: [Detect Evil and Good](spells_vo.md#detect-evil-and-good)
 - CastingTime: 1 action
@@ -2342,6 +2550,8 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 
 
+[][SpellHD]
+
 # Détection du poison et des maladies
 - NameVO: [Detect Poison and Disease](spells_vo.md#detect-poison-and-disease)
 - CastingTime: 1 action
@@ -2359,6 +2569,8 @@ Pendant toute la durée du sort, vous percevez la présence de poisons, de créa
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
 
+
+[][SpellHD]
 
 # Disque flottant
 - NameVO: [Tenser's Floating Disk](spells_vo.md#tensers-floating-disk)
@@ -2382,6 +2594,8 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 
 
 
+[][SpellHD]
+
 # Dissipation de la magie
 - NameVO: [Dispel Magic](spells_vo.md#dispel-magic)
 - CastingTime: 1 action
@@ -2399,6 +2613,8 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous mettez automatiquement un terme à un sort affectant la cible quand le niveau de ce sort est égal ou inférieur au niveau de l'emplacement de sort que vous utilisez.
 
 
+
+[][SpellHD]
 
 # Dissipation du mal et du bien
 - NameVO: [Dispel Evil and Good](spells_vo.md#dispel-evil-and-good)
@@ -2422,6 +2638,8 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 
 
 
+[][SpellHD]
+
 # Divination
 - NameVO: [Divination](spells_vo.md#divination)
 - CastingTime: 1 action
@@ -2442,6 +2660,8 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 
 
+[][SpellHD]
+
 # Doigt de mort
 - NameVO: [Finger of Death](spells_vo.md#finger-of-death)
 - CastingTime: 1 action
@@ -2459,6 +2679,8 @@ Vous envoyez de l'énergie négative dans le corps d'une créature située à po
 Si ce sort achève un humanoïde, ce dernier se relève au début de votre prochain tour sous forme de zombi à jamais sous votre contrôle. Il suit vos ordres verbaux au mieux de ses capacités.
 
 
+
+[][SpellHD]
 
 # Dominer un humanoïde
 - NameVO: [Dominate Person](spells_vo.md#dominate-person)
@@ -2490,6 +2712,8 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 
 
 
+[][SpellHD]
+
 # Dominer un monstre
 - NameVO: [Dominate Monster](spells_vo.md#dominate-monster)
 - CastingTime: 1 action
@@ -2517,6 +2741,8 @@ Si elle le réussit, le sort prend fin.
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 9, la durée devient « concentration, jusqu'à 8 heures ».
 
 
+
+[][SpellHD]
 
 # Dominer une bête
 - NameVO: [Dominate Beast](spells_vo.md#dominate-beast)
@@ -2546,6 +2772,8 @@ Si elle le réussit, le sort prend fin.
 
 
 
+[][SpellHD]
+
 # Doux repos
 - NameVO: [Gentle Repose](spells_vo.md#gentle-repose)
 - CastingTime: 1 action
@@ -2563,6 +2791,8 @@ Vous touchez un cadavre ou des restes. Pendant toute la durée du sort, la cible
 Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'entre les morts, car les jours passés sous l'influence de ce sort ne sont pas décomptés de la période pendant laquelle on peut utiliser des sorts comme rappel à la vie.
 
 
+
+[][SpellHD]
 
 # Druidisme
 - NameVO: [Druidcraft](spells_vo.md#druidcraft)
@@ -2588,6 +2818,8 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 
 
 
+[][SpellHD]
+
 # Éclair
 - NameVO: [Lightning Bolt](spells_vo.md#lightning-bolt)
 - CastingTime: 1 action
@@ -2610,6 +2842,8 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 
 
 
+[][SpellHD]
+
 # Éclat de bois
 - NameVO: 
 - CastingTime: 1 action
@@ -2629,6 +2863,8 @@ Vous devez réussir une attaque de sort à distance pour toucher votre cible. En
 Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les niveaux 5, 11 et 17. Ces éclats peuvent viser différentes cibles à portée du sort.
 
 
+
+[][SpellHD]
 
 # Éclat du soleil
 - NameVO: [Sunburst](spells_vo.md#sunburst)
@@ -2651,6 +2887,8 @@ Une créature [aveuglée] par le sort fait un autre jet de Constitution à la fi
 Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 
 
+
+[][SpellHD]
 
 # Embruns prismatiques
 - NameVO: [Prismatic Spray](spells_vo.md#prismatic-spray)
@@ -2681,6 +2919,8 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 **_7. Violet._** La cible est [aveuglée] si elle rate son jet de sauvegarde. Elle doit alors faire un jet de sauvegarde de Sagesse au début de votre prochain tour. Si elle le réussit, elle recouvre la vue ; si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) 8. Spécial. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 8.
 
 
+
+[][SpellHD]
 
 # Emprisonnement
 - NameVO: [Imprisonment](spells_vo.md#imprisonment)
@@ -2722,6 +2962,8 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 
 
 
+[][SpellHD]
+
 # Enchevêtrement
 - NameVO: [Entangle](spells_vo.md#entangle)
 - CastingTime: 1 action
@@ -2741,6 +2983,8 @@ Une créature qui se trouve dans la zone affectée lorsque vous lancez le sort d
 Quand le sort se termine, les plantes invoquées flétrissent.
 
 
+
+[][SpellHD]
 
 # Entrave planaire
 - NameVO: [Planar Binding](spells_vo.md#planar-binding)
@@ -2762,6 +3006,8 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 
 
 
+[][SpellHD]
+
 # Envoi de message
 - NameVO: [Sending](spells_vo.md#sending)
 - CastingTime: 1 action
@@ -2780,6 +3026,8 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 
 
 
+[][SpellHD]
+
 # Envoûtement
 - NameVO: [Enthrall](spells_vo.md#enthrall)
 - CastingTime: 1 action
@@ -2795,6 +3043,8 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un jet de sauvegarde de Sagesse. Une créature qui ne peut pas être [charmée] réussit automatiquement ce jet de sauvegarde. Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un avantage lors du jet de sauvegarde. Si la créature rate son jet, elle subit un désavantage lors des tests de Sagesse (Perception) destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [neutralisé] ou dans l'incapacité de parler.
 
 
+
+[][SpellHD]
 
 # Épargner les mourants
 - NameVO: [Spare the Dying](spells_vo.md#spare-the-dying)
@@ -2812,6 +3062,8 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 
 
 
+[][SpellHD]
+
 # Épée du juste
 - NameVO: 
 - CastingTime: 1 action
@@ -2827,6 +3079,8 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 Votre épée devient une épée de justice pour toute la durée du sort. Elle bénéficie donc d'un bonus de +3 aux jets d'attaque et aux dégâts, inflige 2d10 dégâts radiants supplémentaires contre les fiélons et les morts-vivants, et crée une aura de 3 mètres de rayon octroyant à vos alliés qui s'y trouvent un avantage aux jets de sauvegarde contre les sorts et effets magiques. De plus, lorsque l'épée de justice blesse pour la première fois un fiélon ayant un nombre de DV inférieur ou égal au vôtre, celui-ci doit réussir un jet de sauvegarde de Charisme sous peine de disparaître aussitôt et d'être contraint de retourner à son plan d'origine.
 
 
+
+[][SpellHD]
 
 # Épée magique
 - NameVO: [Mordenkainen's Sword](spells_vo.md#mordenkainens-sword)
@@ -2845,6 +3099,8 @@ Vous créez un plan de force en forme d'épée qui plane à portée et persiste 
 Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps contre une cible de votre choix située dans un rayon de 1,50 mètre autour de l'épée. Si l'épée touche, la cible subit 3d10 dégâts de force. Tant que le sort n'est pas terminé, vous pouvez dépenser une action bonus à chacun de vos tours pour déplacer l'épée d'un maximum de 6 mètres afin de la conduire à un endroit situé dans votre champ de vision, puis répéter l'attaque contre la même cible ou une autre.
 
 
+
+[][SpellHD]
 
 # Esprit faible
 - NameVO: [Feeblemind](spells_vo.md#feeblemind)
@@ -2866,6 +3122,8 @@ La créature peut refaire un jet de sauvegarde tous les 30 jours. Le sort se ter
 
 
 
+[][SpellHD]
+
 # Esprit impénétrable
 - NameVO: [Mind Blank](spells_vo.md#mind-blank)
 - CastingTime: 1 action
@@ -2881,6 +3139,8 @@ La créature peut refaire un jet de sauvegarde tous les 30 jours. Le sort se ter
 Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l'état [charmé]. Ce sort déjoue même les _[souhaits]_ et les sorts et effets de même puissance qui cherchent à affecter l'esprit de la cible ou à obtenir des informations à son propos.
 
 
+
+[][SpellHD]
 
 # Esprits gardiens
 - NameVO: [Spirit Guardians](spells_vo.md#spirit-guardians)
@@ -2904,6 +3164,8 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 
 
 
+[][SpellHD]
+
 # Étrangeté
 - NameVO: [Weird](spells_vo.md#weird)
 - CastingTime: 1 action
@@ -2919,6 +3181,8 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 Vous puisez dans les peurs les plus profondes d'un groupe de créatures et créez des êtres illusoires dans leurs esprits, qu'elles sont les seules à voir. Chaque créature située dans une sphère de 9 mètres de rayon centrée sur un point de votre choix situé à portée doit réussir un jet de sauvegarde de Sagesse ou être [terrorisée] pendant toute la durée du sort. Les illusions se basent sur les peurs enfouies en chaque cible et transforment leurs pires cauchemars en menace implacable. À la fin de chacun de ses tours, une créature [terrorisée] doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 4d10 dégâts psychiques. Si elle réussit, le sort se termine pour elle.
 
 
+
+[][SpellHD]
 
 # Éveil
 - NameVO: [Awaken](spells_vo.md#awaken)
@@ -2940,6 +3204,8 @@ La bête ou la plante éveillée est considérée [charmée] par vous pendant 30
 
 
 
+[][SpellHD]
+
 # Excavation
 - NameVO: 
 - CastingTime: 1 action
@@ -2956,6 +3222,8 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 
 
 
+[][SpellHD]
+
 # Expiation du juste
 - NameVO: 
 - CastingTime: 1 action bonus
@@ -2971,6 +3239,8 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, vous lancez un ordre de repentir sur la créature que vous frappez. Sur cette attaque, elle subit 3d8 dégâts psychiques, écrasée par le poids de ses péchés et la culpabilité. En outre, elle doit réussir un jet de sauvegarde de Sagesse ou être [étourdie] jusqu'à la fin de son prochain tour et subir un désavantage à tous ses tests de Sagesse pour une minute.
 
 
+
+[][SpellHD]
 
 # Explosion occulte
 - NameVO: [Eldritch Blast](spells_vo.md#eldritch-blast)
@@ -2989,6 +3259,8 @@ Un éclair d'énergie crépitante file vers une créature à portée. Faites un 
 Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux : deux rayons au niveau 5, trois au niveau 11 et quatre au niveau 17. Vous pouvez diriger tous les rayons sur une même cible ou les répartir entre plusieurs. Faites un jet d'attaque distinct pour chacun.
 
 
+
+[][SpellHD]
 
 # Fabrication
 - NameVO: [Fabricate](spells_vo.md#fabricate)
@@ -3010,6 +3282,8 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 
 
 
+[][SpellHD]
+
 # Façonnage de la pierre
 - NameVO: [Stone Shape](spells_vo.md#stone-shape)
 - CastingTime: 1 action
@@ -3025,6 +3299,8 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 Vous touchez un objet de pierre de taille M ou inférieure ou une section de pierre d'un maximum de 1,50 mètre dans toutes les dimensions et lui donnez la forme que vous désirez. Vous pouvez, par exemple, façonner un gros caillou de manière à en faire une arme, une idole ou un coffre, ou bien creuser un étroit passage dans un mur, à condition que ce dernier ne fasse pas plus de 1,50 mètre d'épaisseur. Vous pouvez façonner une porte de pierre ou son chambranle pour la sceller. L'objet créé peut avoir au maximum deux charnières et un loquet, mais il est impossible de créer des mécanismes plus complexes.
 
 
+
+[][SpellHD]
 
 # Faveur divine
 - NameVO: [Divine Favor](spells_vo.md#divine-favor)
@@ -3043,6 +3319,8 @@ Vos prières vous imprègnent d'une aura radieuse.
 Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d4 dégâts radiants supplémentaires en cas de coup au but.
 
 
+
+[][SpellHD]
 
 # Festin des héros
 - NameVO: [Heroes' Feast](spells_vo.md#heroes-feast)
@@ -3064,6 +3342,8 @@ Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de p
 
 
 
+[][SpellHD]
+
 # Flamboiement funeste
 - NameVO: 
 - CastingTime: 1 action
@@ -3084,6 +3364,8 @@ Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité,
 
 
 
+[][SpellHD]
+
 # Flamme éternelle
 - NameVO: [Continual Flame](spells_vo.md#continual-flame)
 - CastingTime: 1 action
@@ -3099,6 +3381,8 @@ Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité,
 Une flamme à la luminosité égale à celle d'une torche embrase soudain l'objet que vous touchez. L'effet du sort ressemble à une flamme ordinaire, mais ne dégage pas de chaleur et ne consomme pas d'oxygène. On peut couvrir ou cacher la flamme éternelle, mais pas l'étouffer ni l'éteindre avec de l'eau.
 
 
+
+[][SpellHD]
 
 # Flamme sacrée
 - NameVO: [Sacred Flame](spells_vo.md#sacred-flame)
@@ -3120,6 +3404,8 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 
 
 
+[][SpellHD]
+
 # Fléau
 - NameVO: [Bane](spells_vo.md#bane)
 - CastingTime: 1 action
@@ -3139,6 +3425,8 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Fléau d'insectes
 - NameVO: [Insect Plague](spells_vo.md#insect-plague)
@@ -3162,6 +3450,8 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 
 
 
+[][SpellHD]
+
 # Flèche acide
 - NameVO: [Melf's Acid Arrow](spells_vo.md#melfs-acid-arrow)
 - CastingTime: 1 action
@@ -3179,6 +3469,8 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 **_À plus haut niveau._** Quand vous utilisez ce sort via un emplacement de niveau 3 ou supérieur, les dégâts initiaux et secondaires augmentent de 1d4 par niveau au-delà du niveau 2.
 
 
+
+[][SpellHD]
 
 # Flétrissement
 - NameVO: [Blight](spells_vo.md#blight)
@@ -3200,6 +3492,8 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 
 
 
+[][SpellHD]
+
 # Flou
 - NameVO: [Blur](spells_vo.md#blur)
 - CastingTime: 1 action
@@ -3215,6 +3509,8 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un désavantage lorsqu'elles font un jet d'attaque contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
 
 
+
+[][SpellHD]
 
 # Forme éthérée
 - NameVO: [Etherealness](spells_vo.md#etherealness)
@@ -3242,6 +3538,8 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 
 
 
+[][SpellHD]
+
 # Forme gazeuse
 - NameVO: [Gaseous Form](spells_vo.md#gaseous-form)
 - CastingTime: 1 action
@@ -3264,6 +3562,8 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 
 
 
+[][SpellHD]
+
 # Formes animales
 - NameVO: [Animal Shapes](spells_vo.md#animal-shapes)
 - CastingTime: 1 action
@@ -3284,6 +3584,8 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 
 
 
+[][SpellHD]
+
 # Fou rire
 - NameVO: [Tasha's Hideous Laughter](spells_vo.md#tashas-hideous-laughter)
 - CastingTime: 1 action
@@ -3301,6 +3603,8 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 À la fin de chacun de ses tours et à chaque fois qu'elle subit des dégâts, la cible a droit à un nouveau jet de sauvegarde de Sagesse. Elle bénéficie d'un avantage lors de ce jet si ce sont des dégâts qui l'ont provoqué. Si le jet est réussi, le sort se termine.
 
 
+
+[][SpellHD]
 
 # Frappe du juste
 - NameVO: 
@@ -3328,6 +3632,8 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 
 
 
+[][SpellHD]
+
 # Frappe lumineuse
 - NameVO: [Branding Smite](spells_vo.md#branding-smite)
 - CastingTime: 1 action bonus
@@ -3345,6 +3651,8 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d6 par emplacement de sort au-dessus du niveau 2.
 
 
+
+[][SpellHD]
 
 # Fusion dans la pierre
 - NameVO: [Meld into Stone](spells_vo.md#meld-into-stone)
@@ -3368,6 +3676,8 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 
 
 
+[][SpellHD]
+
 # Gardien de la foi
 - NameVO: [Guardian of Faith](spells_vo.md#guardian-of-faith)
 - CastingTime: 
@@ -3385,6 +3695,8 @@ Durée d'incantation : 1 action Un gardien spectral de taille G apparaît et flo
 Toute créature hostile envers vous qui entre dans un emplacement situé dans un rayon de 3 mètres autour du gardien pour la première fois de son tour doit réussir un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 20 dégâts radiant, la moitié seulement si elle réussit. Le gardien disparaît dès qu'il a infligé un total de 60 dégâts.
 
 
+
+[][SpellHD]
 
 # Geyser d'énergie
 - NameVO: 
@@ -3406,6 +3718,8 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 
 
 
+[][SpellHD]
+
 # Globe d'invulnérabilité
 - NameVO: [Globe of Invulnerability](spells_vo.md#globe-of-invulnerability)
 - CastingTime: 1 action
@@ -3425,6 +3739,8 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la barrière bloque les sorts d'un niveau de plus par niveau au-delà du niveau 6.
 
 
+
+[][SpellHD]
 
 # Glyphe de protection
 - NameVO: [Glyph of Warding](spells_vo.md#glyph-of-warding)
@@ -3458,6 +3774,8 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 
 
 
+[][SpellHD]
+
 # Gourdin magique
 - NameVO: [Shillelagh](spells_vo.md#shillelagh)
 - CastingTime: 1 action bonus
@@ -3473,6 +3791,8 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre Force pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Le dé de dégâts de l'arme devient un d8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.
 
 
+
+[][SpellHD]
 
 # Graisse
 - NameVO: [Grease](spells_vo.md#grease)
@@ -3492,6 +3812,8 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 
 
 
+[][SpellHD]
+
 # Grande foulée
 - NameVO: [Longstrider](spells_vo.md#longstrider)
 - CastingTime: 1 action
@@ -3509,6 +3831,8 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Guérison
 - NameVO: [Heal](spells_vo.md#heal)
@@ -3528,6 +3852,8 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 
 
 
+[][SpellHD]
+
 # Guérison de groupe
 - NameVO: [Mass Heal](spells_vo.md#mass-heal)
 - CastingTime: 1 action
@@ -3545,6 +3871,8 @@ Un flot d'énergie curative émane de vous et enveloppe les créatures blessées
 Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des états [assourdi] ou [aveuglé]. Ce sort n'a aucun effet sur les morts-vivants et sur les créatures artificielles.
 
 
+
+[][SpellHD]
 
 # Harmonique miraculeuse
 - NameVO: 
@@ -3564,6 +3892,8 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 
 
 
+[][SpellHD]
+
 # Hâte
 - NameVO: [Haste](spells_vo.md#haste)
 - CastingTime: 1 action
@@ -3581,6 +3911,8 @@ Choisissez une créature consentante située à portée et dans votre champ de v
 Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une action avant que son prochain tour ne se soit écoulé, car une vague de léthargie déferle sur elle.
 
 
+
+[][SpellHD]
 
 # Héroïsme
 - NameVO: [Heroism](spells_vo.md#heroism)
@@ -3600,6 +3932,8 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 
 
 
+[][SpellHD]
+
 # Identification
 - NameVO: [Identify](spells_vo.md#identify)
 - CastingTime: 1 minute
@@ -3617,6 +3951,8 @@ Vous choisissez un objet avec lequel vous devez rester en contact pendant toute 
 Si, à la place, vous touchez une créature pendant toute l'incantation, vous découvrez quels sorts l'affectent présentement, le cas échéant.
 
 
+
+[][SpellHD]
 
 # Illusion mineure
 - NameVO: [Minor Illusion](spells_vo.md#minor-illusion)
@@ -3640,6 +3976,8 @@ Si une créature utilise son action pour examiner le son ou l'image, elle compre
 
 
 
+[][SpellHD]
+
 # Illusion programmée
 - NameVO: [Programmed Illusion](spells_vo.md#programmed-illusion)
 - CastingTime: 1 action
@@ -3662,6 +4000,8 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 
 
+[][SpellHD]
+
 # Image majeure
 - NameVO: [Major Image](spells_vo.md#major-image)
 - CastingTime: 1 action
@@ -3683,6 +4023,8 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, le sort persiste jusqu'à dissipation, sans que vous ayez besoin de vous concentrer.
 
 
+
+[][SpellHD]
 
 # Image miroir
 - NameVO: [Mirror Image](spells_vo.md#mirror-image)
@@ -3712,6 +4054,8 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 
 
 
+[][SpellHD]
+
 # Image projetée
 - NameVO: [Project Image](spells_vo.md#project-image)
 - CastingTime: 1 action
@@ -3734,6 +4078,8 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 
 
+[][SpellHD]
+
 # Image silencieuse
 - NameVO: [Silent Image](spells_vo.md#silent-image)
 - CastingTime: 1 action
@@ -3754,6 +4100,8 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 
 
+[][SpellHD]
+
 # Immobiliser un humanoïde
 - NameVO: [Hold Person](spells_vo.md#hold-person)
 - CastingTime: 1 action
@@ -3771,6 +4119,8 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser un humanoïde de plus par niveau au-delà du niveau 2. Les humanoïdes visés doivent se trouver à 9 mètres ou moins les uns des autres au moment où vous lancez le sort.
 
 
+
+[][SpellHD]
 
 # Immobiliser un monstre
 - NameVO: [Hold Monster](spells_vo.md#hold-monster)
@@ -3791,6 +4141,8 @@ Choisissez une créature située à portée et dans votre champ de vision. Elle 
 Les créatures visées doivent se trouver à 9 mètres ou moins les unes des autres au moment où vous lancez le sort.
 
 
+
+[][SpellHD]
 
 # Injonction
 - NameVO: [Command](spells_vo.md#command)
@@ -3822,6 +4174,8 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 
 
 
+[][SpellHD]
+
 # Insecte géant
 - NameVO: [Giant Insect](spells_vo.md#giant-insect)
 - CastingTime: 1 action
@@ -3846,6 +4200,8 @@ Par exemple, si vous transformez une abeille, sa version géante peut disposer d
 
 
 
+[][SpellHD]
+
 # Instrument fantomatique
 - NameVO: 
 - CastingTime: 1 action
@@ -3865,6 +4221,8 @@ Au début de chacun de ses tours, la créature doit réussir un jet de sauvegard
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature de plus par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Interdiction
 - NameVO: [Forbiddance](spells_vo.md#forbiddance)
@@ -3892,6 +4250,8 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 
 
 
+[][SpellHD]
+
 # Inversion de la gravité
 - NameVO: [Reverse Gravity](spells_vo.md#reverse-gravity)
 - CastingTime: 1 action
@@ -3912,6 +4272,8 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 
 
 
+[][SpellHD]
+
 # Invisibilité
 - NameVO: [Invisibility](spells_vo.md#invisibility)
 - CastingTime: 1 action
@@ -3930,6 +4292,8 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 
 
 
+[][SpellHD]
+
 # Invisibilité supérieure
 - NameVO: [Greater Invisibility](spells_vo.md#greater-invisibility)
 - CastingTime: 1 action
@@ -3945,6 +4309,8 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [invisible] tant que les objets restent sur sa personne.
 
 
+
+[][SpellHD]
 
 # Invoquer des animaux
 - NameVO: [Conjure Animals](spells_vo.md#conjure-animals)
@@ -3980,6 +4346,8 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 
 
+[][SpellHD]
+
 # Invoquer des élémentaires mineurs
 - NameVO: [Conjure Minor Elementals](spells_vo.md#conjure-minor-elementals)
 - CastingTime: 1 minute
@@ -4011,6 +4379,8 @@ C'est le MJ qui dispose du profil technique des créatures.
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 6 et trois fois plus pour un emplacement de niveau 8.
 
 
+
+[][SpellHD]
 
 # Invoquer des êtres des bois
 - NameVO: [Conjure Woodland Beings](spells_vo.md#conjure-woodland-beings)
@@ -4044,6 +4414,8 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 
 
+[][SpellHD]
+
 # Invoquer un céleste
 - NameVO: [Conjure Celestial](spells_vo.md#conjure-celestial)
 - CastingTime: 1 minute
@@ -4069,6 +4441,8 @@ C'est le MJ qui dispose du profil technique du céleste.
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 9 ou supérieur, vous invoquez un céleste doté d'un indice de dangerosité inférieur ou égal à 5.
 
 
+
+[][SpellHD]
 
 # Invoquer un élémentaire
 - NameVO: [Conjure Elemental](spells_vo.md#conjure-elemental)
@@ -4096,6 +4470,8 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 
 
 
+[][SpellHD]
+
 # Invoquer une fée
 - NameVO: [Conjure Fey](spells_vo.md#conjure-fey)
 - CastingTime: 1 minute
@@ -4119,6 +4495,8 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau 6.
 
 
+
+[][SpellHD]
 
 # Jeter une malédiction
 - NameVO: [Bestow curse](spells_vo.md#bestow-curse)
@@ -4150,6 +4528,8 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 
 
 
+[][SpellHD]
+
 # Jugement dernier
 - NameVO: 
 - CastingTime: 1 action
@@ -4165,6 +4545,8 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de votre choix à portée. Toute créature située dans la sphère doit réussir un jet de sauvegarde de Charisme ou subir 4d8 points de dégâts radiants. Si la créature est une créature céleste, un fiélon ou un mort-vivant les dégâts sont doublées et la créature est [aveuglée] pour 1 round. En cas de réussite, la cible subit seulement la moitié des dégâts et n'est pas [aveuglée].
 
 
+
+[][SpellHD]
 
 # Labyrinthe
 - NameVO: [Maze](spells_vo.md#maze)
@@ -4190,6 +4572,8 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 
 
 
+[][SpellHD]
+
 # Lame de feu
 - NameVO: [Flame Blade](spells_vo.md#flame-blade)
 - CastingTime: 1 action bonus
@@ -4212,6 +4596,8 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 
 
 
+[][SpellHD]
+
 # Lance du juste
 - NameVO: 
 - CastingTime: 1 action
@@ -4230,6 +4616,8 @@ De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un j
 
 
 
+[][SpellHD]
+
 # Langues
 - NameVO: [Tongues](spells_vo.md#tongues)
 - CastingTime: 1 action
@@ -4247,6 +4635,8 @@ Ce sort permet à la créature que vous touchez de comprendre toutes les langues
 De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit.
 
 
+
+[][SpellHD]
 
 # Légende
 - NameVO: [Legend Lore](spells_vo.md#legend-lore)
@@ -4268,6 +4658,8 @@ Plus vous possédez d'informations sur cette chose, plus celles que vous recevez
 
 Les informations obtenues sont exactes, mais susceptibles de se présenter dans un langage figuré. Par exemple, si vous avez une mystérieuse hache en main, le sort peut vous donner les renseignements suivants : « Malheur au malfaisant qui pose la main sur cette hache, car même son manche peut entailler la main des mécréants. Seul un véritable enfant de la pierre, un être qui aime Gorom et en est aimé en retour, pourra éveiller la véritable puissance de cette hache, à condition de prononcer le mot sacré Rudnogg. » 
 
+[][SpellHD]
+
 # Léger comme une plume
 - NameVO: [Feather Fall](spells_vo.md#feather-fall)
 - CastingTime: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
@@ -4283,6 +4675,8 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute de chacune passe à 18 mètres par round jusqu'à la fin du sort. Si une créature atterrit avant la fin du sort, elle ne subit pas de dégât de chute et se reçoit sur ses pieds, le sort se terminant alors pour elle.
 
 
+
+[][SpellHD]
 
 # Lenteur
 - NameVO: [Slow](spells_vo.md#slow)
@@ -4308,6 +4702,8 @@ Une créature affectée par ce sort fait un nouveau jet de sauvegarde de Sagesse
 
 
 
+[][SpellHD]
+
 # Lever une malédiction
 - NameVO: [Remove Curse](spells_vo.md#remove-curse)
 - CastingTime: 1 action
@@ -4323,6 +4719,8 @@ Une créature affectée par ce sort fait un nouveau jet de sauvegarde de Sagesse
 À votre contact, toutes les malédictions qui affectent une créature ou un objet disparaissent. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort rompt l'harmonisation entre l'objet et son détenteur, ce qui permet à ce dernier de l'ôter ou de s'en débarrasser.
 
 
+
+[][SpellHD]
 
 # Lévitation
 - NameVO: [Levitate](spells_vo.md#levitate)
@@ -4346,6 +4744,8 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 
 
 
+[][SpellHD]
+
 # Liane chasseresse
 - NameVO: 
 - CastingTime: 1 action
@@ -4366,6 +4766,8 @@ La liane a le profil suivant : CA 15, points de vie 30, Force 20 (+5), résistan
 
 
 
+[][SpellHD]
+
 # Liberté de mouvement
 - NameVO: [Freedom of Movement](spells_vo.md#freedom-of-movement)
 - CastingTime: 1 action
@@ -4383,6 +4785,8 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, ses dé
 La cible peut également dépenser 1,50 mètre de déplacement pour échapper automatiquement à des liens non magiques, comme des menottes ou la prise d'une créature qui l'empoigne. Enfin, sous l'eau, elle ne subit pas de malus aux déplacements ni aux attaques.
 
 
+
+[][SpellHD]
 
 # Lien de protection
 - NameVO: [Warding Bond](spells_vo.md#warding-bond)
@@ -4404,6 +4808,8 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 
 
 
+[][SpellHD]
+
 # Lien télépathique
 - NameVO: [Rary's Telepathic Bond](spells_vo.md#rarys-telepathic-bond)
 - CastingTime: 1 action
@@ -4424,6 +4830,8 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 
 
 
+[][SpellHD]
+
 # Localiser des animaux ou des plantes
 - NameVO: [Locate Animals or Plants](spells_vo.md#locate-animals-or-plants)
 - CastingTime: 1 action
@@ -4439,6 +4847,8 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous concentrez sur la voix de la nature qui vous entoure et découvrez dans quelle direction et à quelle distance se trouve le spécimen le plus proche, s'il y en a, dans un rayon de 7,5 kilomètres.
 
 
+
+[][SpellHD]
 
 # Localiser un objet
 - NameVO: [Locate Object](spells_vo.md#locate-object)
@@ -4462,6 +4872,8 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 
 
 
+[][SpellHD]
+
 # Localiser une créature
 - NameVO: [Locate Creature](spells_vo.md#locate-creature)
 - CastingTime: 1 action
@@ -4484,6 +4896,8 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 
 
 
+[][SpellHD]
+
 # Lueur d'espoir
 - NameVO: [Beacon of Hope](spells_vo.md#beacon-of-hope)
 - CastingTime: 1 action
@@ -4502,6 +4916,8 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des jets
 
 
 
+[][SpellHD]
+
 # Lueurs féeriques
 - NameVO: [Faerie Fire](spells_vo.md#faerie-fire)
 - CastingTime: 1 action
@@ -4519,6 +4935,8 @@ Tous les objets contenus dans un cube de 6 mètres d'arête situé à portée so
 Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il peut la voir. Les créatures et les objets affectés ne peuvent pas bénéficier de l'état [invisible].
 
 
+
+[][SpellHD]
 
 # Lumière
 - NameVO: [Light](spells_vo.md#light)
@@ -4542,6 +4960,8 @@ Si vous visez un objet porté ou transporté par une créature hostile, cette de
 
 
 
+[][SpellHD]
+
 # Lumière du jour
 - NameVO: [Daylight](spells_vo.md#daylight)
 - CastingTime: 1 action
@@ -4561,6 +4981,8 @@ Si le point que vous avez choisi est un objet en votre possession ou un objet qu
 Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres issue d'un sort de niveau 3 ou moins, elle dissipe le sort en question.
 
 
+
+[][SpellHD]
 
 # Lumières dansantes
 - NameVO: [Dancing Lights](spells_vo.md#dancing-lights)
@@ -4586,6 +5008,8 @@ Elle s'éteint si elle passe hors de portée.
 
 
 
+[][SpellHD]
+
 # Main du mage
 - NameVO: [Mage Hand](spells_vo.md#mage-hand)
 - CastingTime: 1 action
@@ -4605,6 +5029,8 @@ Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour
 La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
 
 
+
+[][SpellHD]
 
 # Main magique
 - NameVO: [Bigby's Hand](spells_vo.md#bigbys-hand)
@@ -4640,6 +5066,8 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 
 
 
+[][SpellHD]
+
 # Mains brûlantes
 - NameVO: [Burning Hands](spells_vo.md#burning-hands)
 - CastingTime: 1 action
@@ -4661,6 +5089,8 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Manoir somptueux
 - NameVO: [Mordenkainen's Magnificent Mansion](spells_vo.md#mordenkainens-magnificent-mansion)
@@ -4690,6 +5120,8 @@ Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace ex
 
 
 
+[][SpellHD]
+
 # Manteau de givre
 - NameVO: 
 - CastingTime: 1 action
@@ -4707,6 +5139,8 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.
 
 
+
+[][SpellHD]
 
 # Marche sur l'eau
 - NameVO: [Water Walk](spells_vo.md#water-walk)
@@ -4726,6 +5160,8 @@ Si vous prenez pour cible une créature immergée dans un liquide, le sort la ra
 
 
 
+[][SpellHD]
+
 # Marche sur le vent
 - NameVO: [Wind Walk](spells_vo.md#wind-walk)
 - CastingTime: 1 minute
@@ -4744,6 +5180,8 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 
 
 
+[][SpellHD]
+
 # Marque du chasseur
 - NameVO: [Hunter's Mark](spells_vo.md#hunters-mark)
 - CastingTime: 1 action bonus
@@ -4761,6 +5199,8 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou 4, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
 
 
+
+[][SpellHD]
 
 # Mauvais oeil
 - NameVO: [Eyebite](spells_vo.md#eyebite)
@@ -4784,6 +5224,8 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 
 
 
+[][SpellHD]
+
 # Message
 - NameVO: [Message](spells_vo.md#message)
 - CastingTime: 1 action
@@ -4801,6 +5243,8 @@ Vous pointez du doigt une créature à portée et murmurez un message. La cible 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
 
 
+
+[][SpellHD]
 
 # Messager animal
 - NameVO: [Animal Messenger](spells_vo.md#animal-messenger)
@@ -4826,6 +5270,8 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 
 
 
+[][SpellHD]
+
 # Métamorphose
 - NameVO: [Polymorph](spells_vo.md#polymorph)
 - CastingTime: 1 action
@@ -4849,6 +5295,8 @@ La nouvelle forme de la créature limite les actions qu'elle peut entreprendre e
 L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas activer, utiliser ni manier la moindre pièce d'équipement et ne peut pas non plus bénéficier de ses effets.
 
 
+
+[][SpellHD]
 
 # Métamorphose suprême
 - NameVO: [True Polymorph](spells_vo.md#true-polymorph)
@@ -4892,6 +5340,8 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 
 
 
+[][SpellHD]
+
 # Mirage
 - NameVO: [Mirage Arcane](spells_vo.md#mirage-arcane)
 - CastingTime: 10 minutes
@@ -4911,6 +5361,8 @@ L'illusion comprend des composantes auditives, visuelles, tactiles et olfactives
 Les créatures dotées de vision parfaite distinguent le véritable terrain derrière l'illusion, mais les autres composantes restent en place ; elles savent donc qu'elles ont affaire à une illusion, mais peuvent toujours interagir physiquement avec celle-ci.
 
 
+
+[][SpellHD]
 
 # Modification de mémoire
 - NameVO: [Modify Memory](spells_vo.md#modify-memory)
@@ -4938,6 +5390,8 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 
 
 
+[][SpellHD]
+
 # Modifier son apparence
 - NameVO: [Alter Self](spells_vo.md#alter-self)
 - CastingTime: 1 action
@@ -4960,6 +5414,8 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 
 
 
+[][SpellHD]
+
 # Monture fantôme
 - NameVO: [Phantom Steed](spells_vo.md#phantom-steed)
 - CastingTime: 1 action
@@ -4980,6 +5436,8 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 
 
 
+[][SpellHD]
+
 # Moquerie cruelle
 - NameVO: [Vicious Mockery](spells_vo.md#vicious-mockery)
 - CastingTime: 1 action
@@ -4997,6 +5455,8 @@ Vous lancez une bordée d'insultes empreintes d'un subtil enchantement à une cr
 Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).
 
 
+
+[][SpellHD]
 
 # Mot de guérison
 - NameVO: [Healing Word](spells_vo.md#healing-word)
@@ -5016,6 +5476,8 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 
 
 
+[][SpellHD]
+
 # Mot de guérison de groupe
 - NameVO: [Mass Healing Word](spells_vo.md#mass-healing-word)
 - CastingTime: 1 action bonus
@@ -5033,6 +5495,8 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les soins augmentent de 1d4 par niveau au-delà du niveau 3.
 
 
+
+[][SpellHD]
 
 # Mot de pouvoir étourdissant
 - NameVO: [Power Word Stun](spells_vo.md#power-word-stun)
@@ -5052,6 +5516,8 @@ Une cible [étourdie] a droit à un jet de sauvegarde de Constitution à la fin 
 
 
 
+[][SpellHD]
+
 # Mot de pouvoir mortel
 - NameVO: [Power Word Kill](spells_vo.md#power-word-kill)
 - CastingTime: 1 action
@@ -5067,6 +5533,8 @@ Une cible [étourdie] a droit à un jet de sauvegarde de Constitution à la fin 
 Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.
 
 
+
+[][SpellHD]
 
 # Mot de retour
 - NameVO: [Word of Recall](spells_vo.md#word-of-recall)
@@ -5085,6 +5553,8 @@ Vous et un maximum de cinq créatures consentantes situées dans un rayon de 1,5
 Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à votre divinité, comme un temple, ou entretenant des liens étroits avec elle. Si vous tentez de lancer ainsi le sort dans une zone qui n'est pas dédiée à votre divinité, il n'a aucun effet.
 
 
+
+[][SpellHD]
 
 # Motif hypnotique
 - NameVO: [Hypnotic Pattern](spells_vo.md#hypnotic-pattern)
@@ -5105,6 +5575,8 @@ Le motif apparaît pendant un bref instant avant de s'évanouir. Chaque créatur
 Le sort se termine pour une créature donnée si elle subit le moindre dégât ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.
 
 
+
+[][SpellHD]
 
 # Mur d'épines
 - NameVO: [Wall of Thorns](spells_vo.md#wall-of-thorns)
@@ -5130,6 +5602,8 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 
 
 
+[][SpellHD]
+
 # Mur de feu
 - NameVO: [Wall of Fire](spells_vo.md#wall-of-fire)
 - CastingTime: 1 action
@@ -5154,6 +5628,8 @@ L'autre face du mur n'inflige pas de dégâts.
 
 
 
+[][SpellHD]
+
 # Mur de force
 - NameVO: [Wall of Force](spells_vo.md#wall-of-force)
 - CastingTime: 1 action
@@ -5171,6 +5647,8 @@ Un mur de force [invisible] se matérialise soudain en un point de votre choix s
 Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre tous les dégâts et résiste à toute _[dissipation de la magie]_. En revanche, on peut le détruire instantanément avec une _[désintégration]_. Le mur s'étend également sur le plan éthéré, ce qui empêche de le franchir sous forme éthérée.
 
 
+
+[][SpellHD]
 
 # Mur de glace
 - NameVO: [Wall of Ice](spells_vo.md#wall-of-ice)
@@ -5193,6 +5671,8 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts que le mur inflige en apparaissant augmentent de 2d6 et les dégâts provoqués par un passage dans la zone d'air glacé augmentent de 1d6 par niveau au-delà du niveau 6.
 
 
+
+[][SpellHD]
 
 # Mur de pierre
 - NameVO: [Wall of Stone](spells_vo.md#wall-of-stone)
@@ -5220,6 +5700,8 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 
 
 
+[][SpellHD]
+
 # Mur de vent
 - NameVO: [Wind Wall](spells_vo.md#wind-wall)
 - CastingTime: 1 action
@@ -5239,6 +5721,8 @@ Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un 
 Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les créatures et objets volants de taille P ou inférieure ne peuvent pas traverser le mur. Les matériaux libres et légers s'envolent si on les apporte dans le mur. Les flèches, les carreaux et autres projectiles ordinaires visant une cible située derrière le mur sont systématiquement détournés vers le haut et ratent automatiquement leur cible. (Ce phénomène n'affecte pas les rochers que lancent les géants ou les engins de siège, ni les projectiles similaires.) Les créatures sous forme gazeuse ne peuvent pas franchir le mur.
 
 
+
+[][SpellHD]
 
 # Mur prismatique
 - NameVO: [Prismatic Wall](spells_vo.md#prismatic-wall)
@@ -5282,6 +5766,8 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 
 
 
+[][SpellHD]
+
 # Nappe de brouillard
 - NameVO: [Fog Cloud](spells_vo.md#fog-cloud)
 - CastingTime: 1 action
@@ -5299,6 +5785,8 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Nimbe de bienfaisance
 - NameVO: 
@@ -5318,6 +5806,8 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 
 
 
+[][SpellHD]
+
 # Non-détection
 - NameVO: [Nondetection](spells_vo.md#nondetection)
 - CastingTime: 1 action
@@ -5335,6 +5825,8 @@ Pour toute la durée du sort, vous dissimulez la cible que vous touchez aux yeux
 Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet ne mesurant pas plus de 3 mètres dans chaque dimension. La magie de divination ne peut plus viser votre cible et les organes de scrutation magiques ne la perçoivent plus.
 
 
+
+[][SpellHD]
 
 # Nuage incendiaire
 - NameVO: [Incendiary Cloud](spells_vo.md#incendiary-cloud)
@@ -5357,6 +5849,8 @@ Celles qui échouent subissent 10d8 dégâts de feu, les autres la moitié seule
 Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au début de chacun de vos tours.
 
 
+
+[][SpellHD]
 
 # Nuage mortel
 - NameVO: [Cloudkill](spells_vo.md#cloudkill)
@@ -5382,6 +5876,8 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 
 
 
+[][SpellHD]
+
 # Nuage puant
 - NameVO: [Stinking Cloud](spells_vo.md#stinking-cloud)
 - CastingTime: 1 action
@@ -5401,6 +5897,8 @@ Chaque créature entièrement englobée dans le nuage au début de son tour doit
 Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (au moins 30 km/h) le disperse au bout de seulement 1 round.
 
 
+
+[][SpellHD]
 
 # Nuée de météores
 - NameVO: [Meteor Swarm](spells_vo.md#meteor-swarm)
@@ -5422,6 +5920,8 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 
 
 
+[][SpellHD]
+
 # Nuée de projectiles
 - NameVO: 
 - CastingTime: 1 action bonus
@@ -5437,6 +5937,8 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort. Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 6 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul jet d'attaque à distance, chaque créature dans la zone subit automatiquement les dégâts habituels de l'arme. Celles dont votre attaque permet d'atteindre ou de dépasser la CA subissent le double des dégâts. Vous ajoutez normalement votre modificateur de Dextérité aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégât sont magiques (du type approprié aux projectiles).
 
 
+
+[][SpellHD]
 
 # Oeil magique
 - NameVO: [Arcane Eye](spells_vo.md#arcane-eye)
@@ -5456,6 +5958,8 @@ Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la d
 
 
 
+[][SpellHD]
+
 # Offrande inéluctable
 - NameVO: 
 - CastingTime: 1 action
@@ -5473,6 +5977,8 @@ Une créature vivante à portée et dans votre champ de vision doit réussir un 
 Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'elle doit vous donner et ne peut donc pas s'en servir pour attaquer ni pour se défendre et subit par ailleurs d'un désavantage sur ses jets d'attaques Le sort prend fin si vous ou vos alliés blessez la cible ou lui lancez un sort néfaste, ou si vous vous trouvez au-delà de la portée du sort.
 
 
+
+[][SpellHD]
 
 # Ombres imaginaires
 - NameVO: 
@@ -5492,6 +5998,8 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 
 
 
+[][SpellHD]
+
 # Panacée
 - NameVO: 
 - CastingTime: 1 action
@@ -5507,6 +6015,8 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux maladies, poisons et états spéciaux suivants qui affectent vos alliés situés dans la zone : [assourdi], [aveuglé], [charmé], [empoisonné], [étourdi], [neutralisé], [pétrifié] et [terrorisé]. Elle annule également les effets de sommeil et les effets du sort esprit faible.
 
 
+
+[][SpellHD]
 
 # Parole divine
 - NameVO: [Divine Word](spells_vo.md#divine-word)
@@ -5536,6 +6046,8 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 
 
 
+[][SpellHD]
+
 # Pas brumeux
 - NameVO: [Misty Step](spells_vo.md#misty-step)
 - CastingTime: 1 action bonus
@@ -5551,6 +6063,8 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
 
 
+
+[][SpellHD]
 
 # Passage dimensionnel
 - NameVO: 
@@ -5578,6 +6092,8 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 
 
 
+[][SpellHD]
+
 # Passage par les arbres
 - NameVO: [Tree Stride](spells_vo.md#tree-stride)
 - CastingTime: 1 action
@@ -5595,6 +6111,8 @@ Vous êtes soudain capable d'entrer dans un arbre et de passer de son sein à ce
 Vous pouvez utiliser cette capacité de transport une fois par round pendant toute la durée du sort. Vous devez terminer chaque tour en dehors d'un arbre.
 
 
+
+[][SpellHD]
 
 # Passage sans trace
 - NameVO: [Pass without Trace](spells_vo.md#pass-without-trace)
@@ -5616,6 +6134,8 @@ Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni a
 
 
 
+[][SpellHD]
+
 # Passe-muraille
 - NameVO: [Passwall](spells_vo.md#passwall)
 - CastingTime: 1 action
@@ -5634,6 +6154,8 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 
 
 
+[][SpellHD]
+
 # Pattes d'araignée
 - NameVO: [Spider Climb](spells_vo.md#spider-climb)
 - CastingTime: 1 action
@@ -5649,6 +6171,8 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 Jusqu'à la fin du sort, une créature consentante que vous touchez devient capable de se déplacer sur les surfaces verticales, et même au plafond la tête en bas, tout en gardant les mains libres. La cible bénéficie aussi d'une vitesse d'escalade égale à sa vitesse de marche.
 
 
+
+[][SpellHD]
 
 # Peau d'écorce
 - NameVO: [Barkskin](spells_vo.md#barkskin)
@@ -5666,6 +6190,8 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 
 
 
+[][SpellHD]
+
 # Peau de pierre
 - NameVO: [Stoneskin](spells_vo.md#stoneskin)
 - CastingTime: 1 action
@@ -5681,6 +6207,8 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure que de la pierre. Jusqu'à la fin du sort, la cible est résistante aux dégâts non magiques contondants, perforants et tranchants.
 
 
+
+[][SpellHD]
 
 # Petite hutte
 - NameVO: [Leomund's Tiny Hut](spells_vo.md#leomunds-tiny-hut)
@@ -5701,6 +6229,8 @@ Le dôme peut abriter un maximum de neuf créatures de taille M ou inférieure, 
 Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé ou plongé dans le noir. Vu de l'extérieur, le dôme est opaque, de la couleur que vous désirez, mais vu de l'intérieur, il est transparent.
 
 
+
+[][SpellHD]
 
 # Pétrification
 - NameVO: [Flesh to Stone](spells_vo.md#flesh-to-stone)
@@ -5724,6 +6254,8 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 
 
 
+[][SpellHD]
+
 # Peur
 - NameVO: [Fear](spells_vo.md#fear)
 - CastingTime: 1 action
@@ -5741,6 +6273,8 @@ Vous projetez une image fantasmagorique des pires terreurs d'une créature. Chaq
 Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utiliser l'action se précipiter à chacun de ses tours et de s'éloigner de vous par l'itinéraire le plus sûr, à moins qu'elle n'ait nulle part où aller. Si elle termine son tour en un endroit où vous ne figurez plus dans son champ de vision, elle peut faire un jet de sauvegarde de Sagesse. Si elle le réussit, le sort se termine pour elle.
 
 
+
+[][SpellHD]
 
 # Pluie de projectiles
 - NameVO: 
@@ -5760,6 +6294,8 @@ Le projectile se dédouble de nombreuses fois et affecte toutes les créatures d
 
 
 
+[][SpellHD]
+
 # Poigne électrique
 - NameVO: [Shocking Grasp](spells_vo.md#shocking-grasp)
 - CastingTime: 1 action
@@ -5778,6 +6314,8 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 
 
 
+[][SpellHD]
+
 # Poison naturel
 - NameVO: 
 - CastingTime: 1 action bonus
@@ -5795,6 +6333,8 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Portail
 - NameVO: [Gate](spells_vo.md#gate)
@@ -5818,6 +6358,8 @@ Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifi
 
 
 
+[][SpellHD]
+
 # Porte dimensionnelle
 - NameVO: [Dimension Door](spells_vo.md#dimension-door)
 - CastingTime: 1 action
@@ -5840,6 +6382,8 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 
 
 
+[][SpellHD]
+
 # Porte-bonheur
 - NameVO: 
 - CastingTime: 1 action
@@ -5855,6 +6399,8 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
 
 
+
+[][SpellHD]
 
 # Possession
 - NameVO: [Magic Jar](spells_vo.md#magic-jar)
@@ -5896,6 +6442,8 @@ Le réceptacle est détruit quand le sort se termine.
 
 
 
+[][SpellHD]
+
 # Prémonition
 - NameVO: [Foresight](spells_vo.md#foresight)
 - CastingTime: 1 minute
@@ -5913,6 +6461,8 @@ Vous touchez une créature consentante et lui conférez une aptitude limitée à
 Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de sa durée.
 
 
+
+[][SpellHD]
 
 # Prestidigitation
 - NameVO: [Prestidigitation](spells_vo.md#prestidigitation)
@@ -5944,6 +6494,8 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 
 
 
+[][SpellHD]
+
 # Prière de soins
 - NameVO: [Prayer of Healing](spells_vo.md#prayer-of-healing)
 - CastingTime: 10 minutes
@@ -5961,6 +6513,8 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 2.
 
 
+
+[][SpellHD]
 
 # Produire une flamme
 - NameVO: [Produce Flame](spells_vo.md#produce-flame)
@@ -5984,6 +6538,8 @@ Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8)
 
 
 
+[][SpellHD]
+
 # Projectile magique
 - NameVO: [Magic Missile](spells_vo.md#magic-missile)
 - CastingTime: 1 action
@@ -6001,6 +6557,8 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort crée une fléchette de plus par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Projectile toxique
 - NameVO: 
@@ -6021,6 +6579,8 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
 
+
+[][SpellHD]
 
 # Projection astrale
 - NameVO: [Astral Projection](spells_vo.md#astral-projection)
@@ -6048,6 +6608,8 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 
 
 
+[][SpellHD]
+
 # Protection contre la mort
 - NameVO: [Death Ward](spells_vo.md#death-ward)
 - CastingTime: 1 action
@@ -6065,6 +6627,8 @@ Vous touchez une créature et lui donnez une protection relative contre la mort.
 Si le sort est encore actif quand la cible est soumise à un effet qui devrait la tuer sur-le-champ sans lui infliger de dégâts, l'effet est annulé contre cette cible et le sort se termine.
 
 
+
+[][SpellHD]
 
 # Protection contre le mal et le bien
 - NameVO: [Protection from Evil and Good](spells_vo.md#protection-from-evil-and-good)
@@ -6086,6 +6650,8 @@ Les créatures des types précédemment nommés subissent un désavantage lors d
 
 
 
+[][SpellHD]
+
 # Protection contre le poison
 - NameVO: [Protection from Poison](spells_vo.md#protection-from-poison)
 - CastingTime: 1 action
@@ -6104,6 +6670,8 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des jet
 
 
 
+[][SpellHD]
+
 # Protection contre les énergies
 - NameVO: [Protection from Energy](spells_vo.md#protection-from-energy)
 - CastingTime: 1 action
@@ -6119,6 +6687,8 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des jet
 Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
 
 
+
+[][SpellHD]
 
 # Protections et sceaux
 - NameVO: [Guards and Wards](spells_vo.md#guards-and-wards)
@@ -6164,6 +6734,8 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 
 
 
+[][SpellHD]
+
 # Purification de la nourriture et de l'eau
 - NameVO: [Purify Food and Drink](spells_vo.md#purify-food-and-drink)
 - CastingTime: 1 action
@@ -6179,6 +6751,8 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
 
 
+
+[][SpellHD]
 
 # Putréfaction
 - NameVO: 
@@ -6202,6 +6776,8 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 
 
 
+[][SpellHD]
+
 # Rappel à la vie
 - NameVO: [Raise Dead](spells_vo.md#raise-dead)
 - CastingTime: 1 heure
@@ -6224,6 +6800,8 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 
 
 
+[][SpellHD]
+
 # Rayon affaiblissant
 - NameVO: [Ray of Enfeeblement](spells_vo.md#ray-of-enfeeblement)
 - CastingTime: 1 action
@@ -6241,6 +6819,8 @@ Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d
 La cible a droit à un jet de sauvegarde de Constitution contre le sort à la fin de chacun de ses tours. Le sort se termine si elle réussit.
 
 
+
+[][SpellHD]
 
 # Rayon ardent
 - NameVO: [Scorching Ray](spells_vo.md#scorching-ray)
@@ -6260,6 +6840,8 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 
 
 
+[][SpellHD]
+
 # Rayon de givre
 - NameVO: [Ray of Frost](spells_vo.md#ray-of-frost)
 - CastingTime: 1 action
@@ -6277,6 +6859,8 @@ Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Fait
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11 (3d8) et 17 (4d8).
 
 
+
+[][SpellHD]
 
 # Rayon de lune
 - NameVO: [Moonbeam](spells_vo.md#moonbeam)
@@ -6302,6 +6886,8 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 
 
 
+[][SpellHD]
+
 # Rayon de soleil
 - NameVO: [Sunbeam](spells_vo.md#sunbeam)
 - CastingTime: 1 action
@@ -6324,6 +6910,8 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 
 
 
+[][SpellHD]
+
 # Régénération
 - NameVO: [Regenerate](spells_vo.md#regenerate)
 - CastingTime: 1 minute
@@ -6343,6 +6931,8 @@ Si la cible a des membres sectionnés (des doigts, des jambes, une queue, etc.),
 Si vous disposez de la partie amputée et la maintenez contre le moignon, le sort ressoude instantanément le membre au moignon.
 
 
+
+[][SpellHD]
 
 # Réincarnation
 - NameVO: [Reincarnate](spells_vo.md#reincarnate)
@@ -6386,6 +6976,8 @@ La créature réincarnée se souvient de son ancienne vie et de ses expériences
 
 
 
+[][SpellHD]
+
 # Réparation
 - NameVO: [Mending](spells_vo.md#mending)
 - CastingTime: 1 minute
@@ -6406,6 +6998,8 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 
 
 
+[][SpellHD]
+
 # Repli expéditif
 - NameVO: [Expeditious Retreat](spells_vo.md#expeditious-retreat)
 - CastingTime: 1 action bonus
@@ -6421,6 +7015,8 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action se précipiter quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
 
 
+
+[][SpellHD]
 
 # Représailles infernales
 - NameVO: [Hellish Rebuke](spells_vo.md#hellish-rebuke)
@@ -6439,6 +7035,8 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 **_À plus haut niveau._**Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par emplacement de sort au-dessus du 1er.
 
 
+
+[][SpellHD]
 
 # Répulsion/attirance
 - NameVO: [Antipathy/Sympathy](spells_vo.md#antipathysympathy)
@@ -6470,6 +7068,8 @@ Une créature qui réussit son jet de sauvegarde contre l'effet est immunisée c
 
 
 
+[][SpellHD]
+
 # Résistance
 - NameVO: [Resistance](spells_vo.md#resistance)
 - CastingTime: 1 action
@@ -6488,6 +7088,8 @@ Le sort se termine alors.
 
 
 
+[][SpellHD]
+
 # Respiration aquatique
 - NameVO: [Water Breathing](spells_vo.md#water-breathing)
 - CastingTime: 1 action
@@ -6504,6 +7106,8 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 
 
 
+[][SpellHD]
+
 # Restauration inférieure
 - NameVO: [Lesser Restoration](spells_vo.md#lesser-restoration)
 - CastingTime: 1 action
@@ -6519,6 +7123,8 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [aveuglé], [assourdi], [paralysé] ou [empoisonné].
 
 
+
+[][SpellHD]
 
 # Restauration supérieure
 - NameVO: [Greater Restoration](spells_vo.md#greater-restoration)
@@ -6543,6 +7149,8 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 * Un effet réduisant le maximum de points de vie de la cible.
 
 
+
+[][SpellHD]
 
 # Résurrection
 - NameVO: [Resurrection](spells_vo.md#resurrection)
@@ -6570,6 +7178,8 @@ Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavanta
 
 
 
+[][SpellHD]
+
 # Résurrection suprême
 - NameVO: [True Resurrection](spells_vo.md#true-resurrection)
 - CastingTime: 1 heure
@@ -6589,6 +7199,8 @@ Si son âme est libre et consentante, elle revient à la vie avec tous ses point
 Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes les maladies et lève toutes les malédictions qui affectaient éventuellement la cible à sa mort. Il remplace les organes et les membres abîmés ou manquants. Il peut même fournir un nouveau corps à la cible si l'original n'existe plus, mais dans ce cas, vous devez prononcer le nom de la créature à ressusciter. Elle apparaît alors dans un emplacement inoccupé de votre choix dans un rayon de 3 mètres autour de vous.
 
 
+
+[][SpellHD]
 
 # Rêve
 - NameVO: [Dream](spells_vo.md#dream)
@@ -6612,6 +7224,8 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 
 
 
+[][SpellHD]
+
 # Revigorer
 - NameVO: [Revivify](spells_vo.md#revivify)
 - CastingTime: 1 action
@@ -6627,6 +7241,8 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 Vous touchez une créature morte au cours de la minute précédente. Elle revient à la vie avec 1 point de vie. Ce sort ne ramène pas à la vie les créatures mortes de vieillesse et ne restaure pas les parties manquantes du corps.
 
 
+
+[][SpellHD]
 
 # Sanctification
 - NameVO: [Hallow](spells_vo.md#hallow)
@@ -6672,6 +7288,8 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 
 
 
+[][SpellHD]
+
 # Sanctuaire
 - NameVO: [Sanctuary](spells_vo.md#sanctuary)
 - CastingTime: 1 action bonus
@@ -6691,6 +7309,8 @@ Jusqu'à la fin du sort, toute créature qui vise la cible avec une attaque ou u
 Ce sort se termine si la créature protégée attaque ou lance un sort affectant une créature ennemie.
 
 
+
+[][SpellHD]
 
 # Sanctuaire privé
 - NameVO: [Mordenkainen's Private Sanctum](spells_vo.md#mordenkainens-private-sanctum)
@@ -6726,6 +7346,8 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 
 
 
+[][SpellHD]
+
 # Sang du démon
 - NameVO: 
 - CastingTime: 1 action
@@ -6744,6 +7366,8 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 
 
 
+[][SpellHD]
+
 # Saut
 - NameVO: [Jump](spells_vo.md#jump)
 - CastingTime: 1 action
@@ -6759,6 +7383,8 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
 
 
+
+[][SpellHD]
 
 # Scrutation
 - NameVO: [Scrying](spells_vo.md#scrying)
@@ -6794,6 +7420,8 @@ Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vou
 
 
 
+[][SpellHD]
+
 # Séquestration
 - NameVO: [Sequester](spells_vo.md#sequester)
 - CastingTime: 1 action
@@ -6813,6 +7441,8 @@ Si la cible est une créature, elle entre en état d'animation suspendue. Le tem
 Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce peut être ce que vous voulez, mais ce doit être visible ou se produire dans un rayon de 1,5 kilomètre autour de la cible. Par exemple, « au bout de 1 000 ans » ou « quand la tarasque se réveillera ». Ce sort se termine également si la cible subit le moindre dégât.
 
 
+
+[][SpellHD]
 
 # Serviteur invisible
 - NameVO: [Unseen Servant](spells_vo.md#unseen-servant)
@@ -6834,6 +7464,8 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 
 
 
+[][SpellHD]
+
 # Silence
 - NameVO: [Silence](spells_vo.md#silence)
 - CastingTime: 1 action
@@ -6851,6 +7483,8 @@ Pendant toute la durée du sort, aucun son ne peut se créer au sein d'une sphè
 Une créature ou un objet entièrement contenu dans la sphère sont immunisés contre les dégâts de tonnerre, et les créatures entièrement contenues dans la sphère sont [assourdies]. Il est impossible de lancer un sort à composante verbale depuis la sphère.
 
 
+
+[][SpellHD]
 
 # Simulacre
 - NameVO: [Simulacrum](spells_vo.md#simulacrum)
@@ -6876,6 +7510,8 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 
 
 
+[][SpellHD]
+
 # Simulacre de vie
 - NameVO: [False Life](spells_vo.md#false-life)
 - CastingTime: 1 action
@@ -6893,6 +7529,8 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Soin des blessures
 - NameVO: [Cure Wounds](spells_vo.md#cure-wounds)
@@ -6912,6 +7550,8 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 
 
 
+[][SpellHD]
+
 # Soin des blessures de groupe
 - NameVO: [Mass Cure Wounds](spells_vo.md#mass-cure-wounds)
 - CastingTime: 1 action
@@ -6929,6 +7569,8 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 5.
 
 
+
+[][SpellHD]
 
 # Sommeil
 - NameVO: [Sleep](spells_vo.md#sleep)
@@ -6951,6 +7593,8 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d8 de plus par niveau au-delà du niveau 1.
 
 
+
+[][SpellHD]
 
 # Souhait
 - NameVO: [Wish](spells_vo.md#wish)
@@ -6990,6 +7634,8 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 
 
 
+[][SpellHD]
+
 # Sphère de feu
 - NameVO: [Flaming Sphere](spells_vo.md#flaming-sphere)
 - CastingTime: 1 action
@@ -7011,6 +7657,8 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 2.
 
 
+
+[][SpellHD]
 
 # Sphère glacée
 - NameVO: [Otiluke's Freezing Sphere](spells_vo.md#otilukes-freezing-sphere)
@@ -7040,6 +7688,8 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 
 
 
+[][SpellHD]
+
 # Sphère résiliente
 - NameVO: [Otiluke's Resilient Sphere](spells_vo.md#otilukes-resilient-sphere)
 - CastingTime: 1 action
@@ -7064,6 +7714,8 @@ Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce
 
 
 
+[][SpellHD]
+
 # Stalagmites fulgurantes
 - NameVO: 
 - CastingTime: 1 action
@@ -7082,6 +7734,8 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 
 
 
+[][SpellHD]
+
 # Strangulation
 - NameVO: 
 - CastingTime: 1 action
@@ -7099,6 +7753,8 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3, vous infligez 2d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par tranche de 2 niveaux de plus (jusqu'à 5d6 au niveau 9).
 
 
+
+[][SpellHD]
 
 # Suggestion
 - NameVO: [Suggestion](spells_vo.md#suggestion)
@@ -7126,6 +7782,8 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 
 
+[][SpellHD]
+
 # Suggestion de groupe
 - NameVO: [Mass Suggestion](spells_vo.md#mass-suggestion)
 - CastingTime: 1 action
@@ -7149,6 +7807,8 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la durée du sort est de 10 jours. Si vous utilisez un emplacement de niveau 8, elle est de 30 jours et si vous utilisez un emplacement de niveau 9, elle est de 1 an et 1 jour.
 
 
+
+[][SpellHD]
 
 # Symbole
 - NameVO: [Symbol](spells_vo.md#symbol)
@@ -7194,6 +7854,8 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 
 
 
+[][SpellHD]
+
 # Télékinésie
 - NameVO: [Telekinesis](spells_vo.md#telekinesis)
 - CastingTime: 1 action
@@ -7219,6 +7881,8 @@ Si l'objet est porté ou transporté par une créature, faites un test de caract
 Vous exercez un contrôle précis sur les objets pris dans votre étreinte télékinétique, vous pouvez donc manipuler un outil basique, ouvrir une porte ou un récipient, déposer un objet dans un récipient ou en retirer un, ou encore verser le contenu d'une fiole.
 
 
+
+[][SpellHD]
 
 # Téléportation
 - NameVO: [Teleport](spells_vo.md#teleport)
@@ -7264,6 +7928,8 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 
 
 
+[][SpellHD]
+
 # Tempête de feu
 - NameVO: [Fire Storm](spells_vo.md#fire-storm)
 - CastingTime: 1 action
@@ -7283,6 +7949,8 @@ Celles qui échouent subissent 7d10 dégâts de feu, les autres la moitié seule
 Le feu endommage les objets présents dans la zone et embrase les objets inflammables de la zone que personne ne porte ou ne transporte. Si vous le désirez, les flammes peuvent épargner la végétation présente dans la zone.
 
 
+
+[][SpellHD]
 
 # Tempête de grêle
 - NameVO: [Ice Storm](spells_vo.md#ice-storm)
@@ -7306,6 +7974,8 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 
 
 
+[][SpellHD]
+
 # Tempête de neige
 - NameVO: [Sleet Storm](spells_vo.md#sleet-storm)
 - CastingTime: 1 action
@@ -7326,6 +7996,8 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 
 
 
+[][SpellHD]
+
 # Tempête de sable
 - NameVO: 
 - CastingTime: 1 action
@@ -7345,6 +8017,8 @@ Une fois la direction fixée, il n'est plus possible d'en modifier la course. La
 Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dégâts supplémentaires (qui sont divisés par deux en cas de jet de sauvegarde de Force réussi).
 
 
+
+[][SpellHD]
 
 # Tempête vengeresse
 - NameVO: [Storm of Vengeance](spells_vo.md#storm-of-vengeance)
@@ -7374,6 +8048,8 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 
 
 
+[][SpellHD]
+
 # Ténèbres
 - NameVO: [Darkness](spells_vo.md#darkness)
 - CastingTime: 1 action
@@ -7394,6 +8070,8 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 
 
 
+[][SpellHD]
+
 # Tentacules noirs
 - NameVO: [Evard's Black Tentacles](spells_vo.md#evards-black-tentacles)
 - CastingTime: 1 action
@@ -7413,6 +8091,8 @@ Quand une créature pénètre dans la zone affectée pour la première fois au c
 Une créature [entravée] par les tentacules peut utiliser son action pour effectuer un test de Force ou de Dextérité (à elle de choisir) contre le DD de sauvegarde de votre sort. Si elle le réussit, elle parvient à se libérer.
 
 
+
+[][SpellHD]
 
 # Terrain hallucinatoire
 - NameVO: [Hallucinatory Terrain](spells_vo.md#hallucinatory-terrain)
@@ -7436,6 +8116,8 @@ Une fois qu'une créature a compris l'illusion, elle la voit comme une image flo
 
 
 
+[][SpellHD]
+
 # Texte illusoire
 - NameVO: [Illusory Script](spells_vo.md#illusory-script)
 - CastingTime: 1 minute
@@ -7455,6 +8137,8 @@ Vous écrivez sur un papier, un parchemin ou un autre matériau adapté à l'éc
 Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original aussi. Une créature dotée de vision parfaite est capable de lire le message original.
 
 
+
+[][SpellHD]
 
 # Thaumaturgie
 - NameVO: [Thaumaturgy](spells_vo.md#thaumaturgy)
@@ -7488,6 +8172,8 @@ Vous pouvez révoquer un tel effet par une action.
 
 
 
+[][SpellHD]
+
 # Toile d'araignée
 - NameVO: [Web](spells_vo.md#web)
 - CastingTime: 1 action
@@ -7514,6 +8200,8 @@ Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé 
 
 
 
+[][SpellHD]
+
 # Trait de feu
 - NameVO: [Fire Bolt](spells_vo.md#fire-bolt)
 - CastingTime: 1 action
@@ -7531,6 +8219,8 @@ Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites 
 Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).
 
 
+
+[][SpellHD]
 
 # Transpercer
 - NameVO: 
@@ -7552,6 +8242,8 @@ Retirer l'arme lui inflige 2d6 dégâts, ou la moitié si elle réussit un jet d
 
 
 
+[][SpellHD]
+
 # Transport végétal
 - NameVO: [Transport via Plants](spells_vo.md#transport-via-plants)
 - CastingTime: 1 action
@@ -7567,6 +8259,8 @@ Retirer l'arme lui inflige 2d6 dégâts, ou la moitié si elle réussit un jet d
 Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure située à portée et une autre plante de mêmes dimensions, située à n'importe quelle distance mais sur le même plan d'existence. Vous devez impérativement avoir vu ou touché la plante de destination au moins une fois auparavant. Pendant toute la durée du sort, n'importe quelle créature peut entrer par la plante de départ et ressortir par celle d'arrivée en dépensant 1,50 mètre de déplacement.
 
 
+
+[][SpellHD]
 
 # Tremblement de terre
 - NameVO: [Earthquake](spells_vo.md#earthquake)
@@ -7600,6 +8294,8 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 
 
 
+[][SpellHD]
+
 # Tromperie
 - NameVO: [Mislead](spells_vo.md#mislead)
 - CastingTime: 1 action
@@ -7622,6 +8318,8 @@ Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à 
 
 
 
+[][SpellHD]
+
 # Trouver les pièges
 - NameVO: [Find Traps](spells_vo.md#find-traps)
 - CastingTime: 1 action
@@ -7640,6 +8338,8 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 
 
 
+[][SpellHD]
+
 # Trouver un chemin
 - NameVO: [Find the Path](spells_vo.md#find-the-path)
 - CastingTime: 1 minute
@@ -7657,6 +8357,8 @@ Ce sort vous permet de trouver le chemin physique le plus direct et le plus cour
 Tant que le sort persiste et que vous êtes sur le même plan d'existence que votre destination, vous savez dans quelle direction et à quelle distance elle se trouve. Tant que vous faites route vers votre destination, à chaque fois que vous avez le choix entre plusieurs itinéraires, vous déterminez automatiquement celui qui sera le plus court et le plus direct (mais pas forcément le plus sûr).
 
 
+
+[][SpellHD]
 
 # Trouver une monture
 - NameVO: [Find Steed](spells_vo.md#find-steed)
@@ -7686,6 +8388,8 @@ Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vo
 
 
 
+[][SpellHD]
+
 # Vague tonnante
 - NameVO: [Thunderwave](spells_vo.md#thunderwave)
 - CastingTime: 1 action
@@ -7710,6 +8414,8 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 
 
+[][SpellHD]
+
 # Verrou magique
 - NameVO: [Arcane Lock](spells_vo.md#arcane-lock)
 - CastingTime: 1 action
@@ -7728,6 +8434,8 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 
 
 
+[][SpellHD]
+
 # Viser juste
 - NameVO: [True Strike](spells_vo.md#true-strike)
 - CastingTime: 1 action
@@ -7744,6 +8452,8 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 
 
 
+[][SpellHD]
+
 # Vision dans le noir
 - NameVO: [Darkvision](spells_vo.md#darkvision)
 - CastingTime: 1 action
@@ -7759,6 +8469,8 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
 
 
+
+[][SpellHD]
 
 # Vision suprême
 - NameVO: [True Seeing](spells_vo.md#true-seeing)
@@ -7778,6 +8490,8 @@ Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repèr
 
 
 
+[][SpellHD]
+
 # Vitalité
 - NameVO: 
 - CastingTime: 1 action
@@ -7796,6 +8510,8 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 
 
 
+[][SpellHD]
+
 # Voir l'invisible
 - NameVO: [See Invisibility](spells_vo.md#see-invisibility)
 - CastingTime: 1 action
@@ -7811,6 +8527,8 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 Pendant toute la durée du sort, vous voyez les créatures et les objets [invisibles] comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
 
 
+
+[][SpellHD]
 
 # Vol
 - NameVO: [Fly](spells_vo.md#fly)
@@ -7829,6 +8547,8 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 3.
 
 
+
+[][SpellHD]
 
 # Zone de vérité
 - NameVO: [Zone of Truth](spells_vo.md#zone-of-truth)

@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using Markdig.Syntax;
 
-namespace AideDeJeuLib.Spells
+namespace AideDeJeuLib
 {
     public class SpellVO : Spell
     {

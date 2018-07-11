@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace AideDeJeuLib.Spells
+namespace AideDeJeuLib
 {
     public abstract class Spell : Item
     {

@@ -1,15 +1,10 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
-using AideDeJeuLib.Monsters;
-using AideDeJeuLib.Spells;
-using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Windows.Input;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace AideDeJeu.ViewModels
 {

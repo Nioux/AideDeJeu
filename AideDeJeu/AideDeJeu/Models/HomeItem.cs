@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Markdig.Syntax;
 
-namespace AideDeJeuLib.Models
+namespace AideDeJeuLib
 {
     public class HomeItem : Item
     {

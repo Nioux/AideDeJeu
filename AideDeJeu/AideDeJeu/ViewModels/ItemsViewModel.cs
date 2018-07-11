@@ -1,15 +1,12 @@
 ﻿using AideDeJeuLib;
-using AideDeJeuLib.Monsters;
-using AideDeJeuLib.Spells;
 using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.Diagnostics;
+using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
-using System.Threading;
-using System.Linq;
 
 namespace AideDeJeu.ViewModels
 {
@@ -73,7 +70,7 @@ namespace AideDeJeu.ViewModels
                         {
                             resourceName = "AideDeJeu.Data.conditions_vo.md";
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Conditions.Condition>(md);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
                         }
                         break;
                     case ItemSourceType.ConditionHD:
@@ -81,7 +78,7 @@ namespace AideDeJeu.ViewModels
                             resourceName = "AideDeJeu.Data.conditions_hd.md";
                             //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Conditions.Condition>(md);
+                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
                         }
                         break;
                 }

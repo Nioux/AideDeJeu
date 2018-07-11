@@ -1,18 +1,10 @@
 ﻿
 using AideDeJeu.ViewModels;
-using AideDeJeuLib.Monsters;
+using AideDeJeuLib;
 using SkiaSharp;
 using SkiaSharp.Views.Forms;
-using System;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using System.Linq;
-using AideDeJeuLib.Spells;
-using System.Text;
-using System.Globalization;
-using AideDeJeuLib;
 
 namespace AideDeJeu.Views
 {

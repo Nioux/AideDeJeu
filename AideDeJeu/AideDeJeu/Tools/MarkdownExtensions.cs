@@ -1,15 +1,9 @@
-﻿using AideDeJeuLib.Spells;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Linq;
-using System.Diagnostics;
-using AideDeJeuLib.Monsters;
 using Markdig;
 using AideDeJeuLib;
-using AideDeJeuLib.Conditions;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
 
@@ -50,48 +44,65 @@ namespace AideDeJeu.Tools
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
             var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
-            var block = document.First();
+
             var enumerator = document.GetEnumerator();
+            try
             {
                 enumerator.MoveNext();
                 while (enumerator.Current != null)
                 {
+                    var block = enumerator.Current;
+
                     if (enumerator.Current is Markdig.Syntax.ParagraphBlock)
                     {
-                        var paragraphBlock = enumerator.Current as ParagraphBlock;
-                        var linkInline = paragraphBlock.Inline.FirstChild as LinkInline;
-                        if(linkInline != null)
+                        if(block.IsNewItem())
                         {
-                            var label = linkInline.Label;
-                            var title = linkInline.Title;
-                            var url = linkInline.Url;
-                            if (title == "")
-                            {
-                                var name = $"AideDeJeuLib.{label}, AideDeJeu";
-                                var type = Type.GetType(name);
-                                var instance = Activator.CreateInstance(type) as Item;
-                                instance.Parse(ref enumerator);
-                                return instance;
-                            }
-                        }
-                    }
-                    if (enumerator.Current is Markdig.Syntax.LinkReferenceDefinitionGroup)
-                    {
-                        var linkReferenceDefinitionGroup = enumerator.Current as Markdig.Syntax.LinkReferenceDefinitionGroup;
-                        var linkReferenceDefinition = linkReferenceDefinitionGroup.FirstOrDefault() as Markdig.Syntax.LinkReferenceDefinition;
-                        var label = linkReferenceDefinition.Label;
-                        var title = linkReferenceDefinition.Title;
-                        var url = linkReferenceDefinition.Url;
-                        if (label == "//")
-                        {
-                            var name = $"AideDeJeuLib.{title}, AideDeJeu";
-                            var type = Type.GetType(name);
-                            var instance = Activator.CreateInstance(type) as Item;
-                            instance.Parse(ref enumerator);
-                            return instance;
+                            var item = block.GetNewItem();
+                            item.Parse(ref enumerator);
+                            return item;
                         }
                     }
                     enumerator.MoveNext();
+                }
+                
+            }
+            finally
+            {
+                enumerator.Dispose();
+            }
+            return null;
+        }
+
+        public static bool IsNewItem(this Block block)
+        {
+            var paragraphBlock = block as ParagraphBlock;
+            var linkInline = paragraphBlock?.Inline?.FirstChild as LinkInline;
+            if (linkInline != null)
+            {
+                var title = linkInline.Title;
+                if (title == string.Empty)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public static Item GetNewItem(this Block block)
+        {
+            var paragraphBlock = block as ParagraphBlock;
+            var linkInline = paragraphBlock?.Inline?.FirstChild as LinkInline;
+            if (linkInline != null)
+            {
+                var label = linkInline.Label;
+                var title = linkInline.Title;
+                var url = linkInline.Url;
+                if (title == string.Empty)
+                {
+                    var name = $"AideDeJeuLib.{label}, AideDeJeu";
+                    var type = Type.GetType(name);
+                    var instance = Activator.CreateInstance(type) as Item;
+                    return instance;
                 }
             }
             return null;

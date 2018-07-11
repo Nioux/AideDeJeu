@@ -5,9 +5,6 @@ using System.Runtime.CompilerServices;
 
 using Xamarin.Forms;
 
-using AideDeJeuLib.Spells;
-using AideDeJeuLib.Monsters;
-
 namespace AideDeJeu.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged

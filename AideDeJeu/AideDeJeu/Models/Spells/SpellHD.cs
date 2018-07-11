@@ -5,8 +5,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using AideDeJeu.Tools;
 using Markdig.Syntax;
+using Markdig.Syntax.Inlines;
 
-namespace AideDeJeuLib.Spells
+namespace AideDeJeuLib
 {
     public class SpellHD : Spell
     {
@@ -56,20 +57,21 @@ namespace AideDeJeuLib.Spells
             {
                 return
                     $"# {Name}\n" +
-                    $"{NameVO}\n" +
-                    $"_{LevelType}_\n" +
-                    $"**Temps d'incantation :** {CastingTime}\n" +
-                    $"**Portée :** {Range}\n" +
-                    $"**Composantes :** {Components}\n" +
-                    $"**Durée :** {Duration}\n\n" +
+                    $"- {NameVO}\n" +
+                    $"- _{LevelType}_\n" +
+                    $"- **Temps d'incantation :** {CastingTime}\n" +
+                    $"- **Portée :** {Range}\n" +
+                    $"- **Composantes :** {Components}\n" +
+                    $"- **Durée :** {Duration}\n\n" +
                     $"{DescriptionHtml}\n\n" +
-                    $"**Source :** {Source}";
+                    $"- **Source :** {Source}";
 
             }
         }
 
         public override void Parse(ref ContainerBlock.Enumerator enumerator)
         {
+            enumerator.MoveNext();
             while (enumerator.Current != null)
             {
                 var block = enumerator.Current;
@@ -89,7 +91,12 @@ namespace AideDeJeuLib.Spells
                 }
                 if (block is Markdig.Syntax.ParagraphBlock)
                 {
+                    if(block.IsNewItem())
+                    {
+                        return;
+                    }
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
+
                     this.DescriptionHtml += MarkdownExtensions.MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
@@ -175,18 +182,6 @@ namespace AideDeJeuLib.Spells
                     var tableBlock = block as Markdig.Extensions.Tables.Table;
                     this.DescriptionHtml += "\n\n" + tableBlock.ToMarkdownString() + "\n\n";
                 }
-                //if (enumerator.Current is Markdig.Syntax.LinkReferenceDefinitionGroup)
-                //{
-                //    var linkReferenceDefinitionGroup = enumerator.Current as Markdig.Syntax.LinkReferenceDefinitionGroup;
-                //    var linkReferenceDefinition = linkReferenceDefinitionGroup.FirstOrDefault() as Markdig.Syntax.LinkReferenceDefinition;
-                //    var label = linkReferenceDefinition.Label;
-                //    var title = linkReferenceDefinition.Title;
-                //    var url = linkReferenceDefinition.Url;
-                //    if (label == "//")
-                //    {
-                //        return;
-                //    }
-                //}
                 enumerator.MoveNext();
             }
 

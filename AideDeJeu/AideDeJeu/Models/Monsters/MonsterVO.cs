@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Markdig.Syntax;
 
-namespace AideDeJeuLib.Monsters
+namespace AideDeJeuLib
 {
     public class MonsterVO : Monster
     {

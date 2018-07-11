@@ -1,14 +1,13 @@
-﻿using System;
-using AideDeJeu.ViewModels;
+﻿using AideDeJeu.ViewModels;
 using AideDeJeu.Views;
-using AideDeJeuLib.Models;
+using AideDeJeuLib;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace AideDeJeu
 {
-	public partial class App : Application
+    public partial class App : Application
 	{
 
 		public App ()

@@ -1,11 +1,5 @@
 ﻿using AideDeJeu.Views;
 using AideDeJeuLib;
-using AideDeJeuLib.Monsters;
-using AideDeJeuLib.Spells;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 

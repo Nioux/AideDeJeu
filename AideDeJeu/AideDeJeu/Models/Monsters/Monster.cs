@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Xml;
 
-namespace AideDeJeuLib.Monsters
+namespace AideDeJeuLib
 {
     public abstract class Monster : Item
     {

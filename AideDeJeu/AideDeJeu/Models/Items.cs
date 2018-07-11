@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using AideDeJeu.Tools;
 using Markdig.Syntax;
+using Markdig.Syntax.Inlines;
 
 namespace AideDeJeuLib
 {
@@ -23,7 +25,18 @@ namespace AideDeJeuLib
             enumerator.MoveNext();
             while (enumerator.Current != null)
             {
-                var item = new Spells.SpellHD();
+                var block = enumerator.Current;
+                if(block.IsNewItem())
+                {
+                    break;
+                }
+                enumerator.MoveNext();
+            }
+            //enumerator.MoveNext();
+            while (enumerator.Current != null)
+            {
+                var item = enumerator.Current.GetNewItem();
+                //var item = new Spells.SpellHD();
                 item.Parse(ref enumerator);
                 items.Add(item);
                 //enumerator.MoveNext();

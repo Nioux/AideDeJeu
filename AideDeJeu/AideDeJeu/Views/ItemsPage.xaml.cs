@@ -1,6 +1,4 @@
 ﻿using AideDeJeu.ViewModels;
-using AideDeJeuLib.Monsters;
-using AideDeJeuLib.Spells;
 using System;
 using System.Linq;
 using Xamarin.Forms;
