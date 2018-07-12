@@ -25,21 +25,17 @@ namespace AideDeJeuLib
             enumerator.MoveNext();
             while (enumerator.Current != null)
             {
-                var block = enumerator.Current;
-                if(block.IsNewItem())
+                if(enumerator.Current.IsNewItem())
                 {
                     break;
                 }
                 enumerator.MoveNext();
             }
-            //enumerator.MoveNext();
             while (enumerator.Current != null)
             {
                 var item = enumerator.Current.GetNewItem();
-                //var item = new Spells.SpellHD();
                 item.Parse(ref enumerator);
                 items.Add(item);
-                //enumerator.MoveNext();
             }
             _Items = items;
         }

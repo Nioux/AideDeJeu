@@ -1,4 +1,12 @@
 
+[][Items]
+
+# Créatures (H&D)
+- NameVO: [Monsters](monsters_vo.md)
+
+
+[][MonsterHD]
+
 # Aboleth
 - NameVO: [Aboleth](monsters_vo.md#aboleth)
 - Aberration de taille G, Loyal Mauvais
@@ -50,6 +58,8 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 ![](https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/Monsters/aboleth.jpg)
 
+[][MonsterHD]
+
 # Abothid
 - Aberration de taille M, loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -98,6 +108,8 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le je
 **_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
 
 
+[][MonsterHD]
+
 # Âme-en-peine
 - NameVO: [Wraith](monsters_vo.md#wraith)
 - Mort-vivant de taille M, Neutre Mauvais
@@ -130,6 +142,8 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un jet de s
 
 **_Création de spectre._** L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
 
+
+[][MonsterHD]
 
 # Amphibe
 - Aberration de taille M, loyal mauvais
@@ -166,6 +180,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 _Touché :_ 5 (1d4+3) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Déva
 - NameVO: [Deva](monsters_vo.md#deva)
@@ -213,6 +229,8 @@ Une fois métamorphosé, le déva conserve ses statistiques de jeu et sa capacit
 _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 
+[][MonsterHD]
+
 # Planétar
 - NameVO: [Planetar](monsters_vo.md#planetar)
 - Céleste de taille G, Loyal Bon
@@ -258,6 +276,8 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
+
+[][MonsterHD]
 
 # Solar
 - NameVO: [Solar](monsters_vo.md#solar)
@@ -324,6 +344,8 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 **_Téléportation._** Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
+[][MonsterHD]
+
 # Ankheg
 - NameVO: [Ankheg](monsters_vo.md#ankheg)
 - Créature monstrueuse de taille G, non-alignée
@@ -347,6 +369,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 
 **_Aspersion acide (Recharge 6)._** L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Azer
 - NameVO: [Azer](monsters_vo.md#azer)
@@ -381,6 +405,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'il est manié à deux mains pour effectuer une attaque au corps à corps, plus 3 (1d6) dégâts de feu.
 
 
+[][MonsterHD]
+
 # Babélien
 - NameVO: [Gibbering Mouther](monsters_vo.md#gibbering-mouther)
 - Aberration de taille M, neutre
@@ -414,6 +440,8 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être jetée [à terre]. Si la cible est tuée par ces dégâts, le babélien l'absorbe.
 
 
+[][MonsterHD]
+
 # Basilic
 - NameVO: [Basilisk](monsters_vo.md#basilisk)
 - Créature monstrueuse de taille M, non-alignée
@@ -443,6 +471,8 @@ Si le basilic voit son reflet sous une lumière vive à une distance maximale de
 
 _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
+
+[][MonsterHD]
 
 # Béhir
 - NameVO: [Behir](monsters_vo.md#behir)
@@ -480,6 +510,8 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 **_Souffle de foudre (Recharge 5-6)._** Le béhir souffle une ligne de foudre de 6 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent effectuer un jet de sauvegarde de Dextérité DD 16 ; elles subissent 66 (12d10) dégâts de foudre en cas de jet de sauvegarde raté ou la moitié seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Bulette
 - NameVO: [Bulette](monsters_vo.md#bulette)
 - Créature monstrueuse de taille G, non-alignée
@@ -510,6 +542,8 @@ _Touché :_ 30 (4d12+4) dégâts perforants.
 
 Chacune de ces créatures doit réussir un jet de sauvegarde de Force ou de Dextérité DD 16 (au choix de la cible), sans quoi elle se retrouve [à terre] et subit 14 (3d6+4) dégâts contondants plus 14 (3d6+4) dégâts tranchants. En cas de jet de sauvegarde réussi, la créature subit la moitié des dégâts seulement, elle n'est pas [à terre] et elle est repoussée sur 1,50 mètre hors de l'emplacement de la bulette vers un emplacement inoccupé de son choix. S'il n'y a aucun emplacement inoccupé à portée, la créature tombe [à terre] dans l'emplacement de la bulette à la place.
 
+
+[][MonsterHD]
 
 # Centaure
 - NameVO: [Centaur](monsters_vo.md#centaur)
@@ -548,6 +582,8 @@ _Touché :_ 9 (1d10+4) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Cerbère
 - Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
@@ -580,6 +616,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de s
 **_Déchirer._** Si le cerbère réussi plusieurs attaques de morsure sur la même cible, chaque tête tire violemment dans une direction opposée en tentant de déchirer le corps de la victime. La cible subit 7 (2d6) dégâts perforants supplémentaires par attaque réussie après la première dans le même tour.
 
 
+[][MonsterHD]
+
 # Criard
 - NameVO: [Shrieker](monsters_vo.md#shrieker)
 - Plante de taille M, non-alignée
@@ -604,6 +642,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de s
 
 **_Hurlement._** Quand une lumière vive ou une créature s'approche à 9 mètres ou moins du criard, celui-ci émet un hurlement audible jusqu'à 90 mètres. Le criard continue de hurler jusqu'à ce que la source de gêne se déplace hors de portée et pendant ses 1d4 prochains tours.
 
+
+[][MonsterHD]
 
 # Moisissure violette
 - NameVO: [Violet Fungus](monsters_vo.md#violet-fungus)
@@ -633,6 +673,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de s
 
 _Touché :_ 4 (1d8) dégâts nécrotiques.
 
+
+[][MonsterHD]
 
 # Chimère
 - NameVO: [Chimera](monsters_vo.md#chimera)
@@ -668,6 +710,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 **_Souffle de feu (Recharge 5-6)._** La tête de dragon souffle un cône de feu de 4,50 mètres. Les créatures dans le cône doivent chacune effectuer un jet de sauvegarde de Dextérité DD 15 ; elles subissent 31 (7d8) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Chuul
 - NameVO: [Chuul](monsters_vo.md#chuul)
@@ -706,6 +750,8 @@ _Touché :_ 11 (2d6+4) dégâts contondants. La cible est [empoignée] (évasion
 La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.
 
 
+[][MonsterHD]
+
 # Cockatrice
 - NameVO: [Cockatrice](monsters_vo.md#cockatrice)
 - Créature monstrueuse de taille P, non-alignée
@@ -727,6 +773,8 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le j
 
 _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [pétrifiée] par magie. En cas de jet de sauvegarde raté, le corps de la créature commence à se transformer en pierre et elle est [entravée]. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [pétrifiée] pendant 24 heures.
 
+
+[][MonsterHD]
 
 # Couatl
 - NameVO: [Couatl](monsters_vo.md#couatl)
@@ -779,6 +827,8 @@ Elle est [inconsciente] tant que le poison fait effet.
 Une autre créature peut effectuer une action pour secouer la cible afin qu'elle reprenne connaissance.
 
 
+[][MonsterHD]
+
 # Vétéran demi-dragon rouge
 - Humanoïde (humain) de taille M, n'importe quel alignement
 - **Classe d'armure** 18 (harnois)
@@ -813,6 +863,8 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 
 **_Souffle de feu (Recharge 5-6)._** Le vétéran souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un jet de sauvegarde de Dextérité DD 15 ; elles subissent 24 (7d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Balor
 - NameVO: [Balor](monsters_vo.md#balor)
@@ -858,6 +910,8 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 **_Téléportation._** Le balor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
+[][MonsterHD]
+
 # Dretch
 - NameVO: [Dretch](monsters_vo.md#dretch)
 - Fiélon (démon) de taille P, Chaotique Mauvais
@@ -890,6 +944,8 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 **_Nuage fétide (1/jour)._** Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas être [empoisonnées] jusqu'au début de leur prochain tour. Les créatures [empoisonnées] de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
 
+
+[][MonsterHD]
 
 # Glabrezu
 - NameVO: [Glabrezu](monsters_vo.md#glabrezu)
@@ -933,6 +989,8 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature de t
 _Touché :_ 7 (2d4+2) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Hezrou
 - NameVO: [Hezrou](monsters_vo.md#hezrou)
 - Fiélon (démon) de taille G, Chaotique Mauvais
@@ -972,6 +1030,8 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 _Touché :_ 15 (2d10+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Marilith
 - NameVO: [Marilith](monsters_vo.md#marilith)
@@ -1021,6 +1081,8 @@ _Touché :_ 15 (2d10+4) dégâts contondants. La cible est [empoignée] (évasio
 Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
+[][MonsterHD]
+
 # Nalfeshnie
 - NameVO: [Nalfeshnee](monsters_vo.md#nalfeshnee)
 - Fiélon (démon) de taille G, Chaotique Mauvais
@@ -1065,6 +1127,8 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 **_Téléportation._** Le nalfeshnie se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
+[][MonsterHD]
+
 # Quasit
 - NameVO: [Quasit](monsters_vo.md#quasit)
 - Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
@@ -1104,6 +1168,8 @@ La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et 
 
 **_Invisibilité._** Le quasit devient [invisible] par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
+
+[][MonsterHD]
 
 # Vrock
 - NameVO: [Vrock](monsters_vo.md#vrock)
@@ -1147,6 +1213,8 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être [empoisonnées]. Une cible subit 5 (1d10) dégâts de poison au début de chacun de ses tours tant qu'elle est [empoisonnée] de cette façon. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
 
 
+[][MonsterHD]
+
 # Destrier noir
 - NameVO: [Nightmare](monsters_vo.md#nightmare)
 - Fiélon de taille G, Neutre Mauvais
@@ -1177,6 +1245,8 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 
 _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
+
+[][MonsterHD]
 
 # Dévoreur arcanique
 - Aberration de taille G, Neutre Mauvais
@@ -1247,6 +1317,8 @@ Chaque créature se trouvant dans un cône de 18 mètres doit effectuer un jet d
 Relancez deux fois le dé et rejouez tous les 8.
 
 
+[][MonsterHD]
+
 # Diable barbelé
 - NameVO: [Barbed Devil](monsters_vo.md#barbed-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
@@ -1292,6 +1364,8 @@ _Touché :_ 10 (3d6) dégâts de feu. La cible prend également feu si c'est un 
 _Touché :_ 10 (2d6+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Diable barbu
 - NameVO: [Bearded Devil](monsters_vo.md#bearded-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
@@ -1331,6 +1405,8 @@ _Touché :_ 6 (1d8+2) dégâts perforants et la cible doit réussir un jet de sa
 
 _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas perdre 5 (1d10) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 5 (1d10). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de Sagesse (Médecine) DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
+
+[][MonsterHD]
 
 # Diable cornu
 - NameVO: [Horned Devil](monsters_vo.md#horned-devil)
@@ -1373,6 +1449,8 @@ _Touché :_ 14 (4d6) dégâts de feu. La cible prend également feu si c'est un 
 
 _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un jet de sauvegarde de Constitution DD 17 pour ne pas perdre 10 (3d6) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 10 (3d6). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de Sagesse (Médecine) DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
+
+[][MonsterHD]
 
 # Diable gelé
 - NameVO: [Ice Devil](monsters_vo.md#ice-devil)
@@ -1430,6 +1508,8 @@ Si une section est détruite, elle est remplacée par une zone d'air froid dans 
 _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 
 
+[][MonsterHD]
+
 # Diable des chaînes
 - NameVO: [Chain Devil](monsters_vo.md#chain-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
@@ -1474,6 +1554,8 @@ _Touché :_ 11 (2d6+4) dégâts tranchants. La cible est [empoignée] (évasion 
 Si celle-ci peut voir le diable, elle doit réussir un jet de sauvegarde de Sagesse DD 14 pour ne pas être [terrorisée] jusqu'à la fin de son tour.
 
 
+[][MonsterHD]
+
 # Diable osseux
 - NameVO: [Bone Devil](monsters_vo.md#bone-devil)
 - Fiélon (diable) de taille G, Loyal Mauvais
@@ -1513,6 +1595,8 @@ _Touché :_ 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et 
 _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Diablotin
 - NameVO: [Imp](monsters_vo.md#imp)
 - Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
@@ -1550,6 +1634,8 @@ _Touché :_ 5 (1d4+3) dégâts perforants et la cible doit effectuer un jet de s
 
 Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
+
+[][MonsterHD]
 
 # Diantrefosse
 - NameVO: [Pit Fiend](monsters_vo.md#pit-fiend)
@@ -1605,6 +1691,8 @@ _Touché :_ 22 (4d6+8) dégâts perforants. La cible doit réussir un jet de sau
 _Touché :_ 24 (3d10+8) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Érinye
 - NameVO: [Erinyes](monsters_vo.md#erinyes)
 - Fiélon (diable) de taille M, Loyal Mauvais
@@ -1647,6 +1735,8 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 **_Parade._** L'érynie ajoute 4 à sa CA lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
+[][MonsterHD]
+
 # Lémure
 - NameVO: [Lemure](monsters_vo.md#lemure)
 - Fiélon (diable) de taille M, Loyal Mauvais
@@ -1677,6 +1767,8 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 
 _Touché :_ 2 (1d4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Diaspaad
 - Aberration de taille G, Chaotique Neutre
@@ -1716,6 +1808,8 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 **_Hâte (Recharge 5-6)._** Jusqu'à la fin de son prochain tour, le diaspaad bénéficie d'un bonus de +2 à sa CA, il obtient l'avantage lors des jets de sauvegarde de Dextérité et il peut utiliser son attaque de coup par une action bonus.
 
 
+[][MonsterHD]
+
 # Plésiosaure
 - NameVO: [Plesiosaurus](monsters_vo.md#plesiosaurus)
 - Bête de taille G, non-alignée
@@ -1742,6 +1836,8 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 
 _Touché :_ 14 (3d6+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Tricératops
 - NameVO: [Triceratops](monsters_vo.md#triceratops)
@@ -1773,6 +1869,8 @@ _Touché :_ 24 (4d8+6) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Tyrannosaure
 - NameVO: [Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)
 - Bête de taille TG, non-alignée
@@ -1801,6 +1899,8 @@ _Touché :_ 33 (4d12+7) dégâts perforants. La cible est [empoignée] (évasion
 
 _Touché :_ 20 (3d8+7) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Doppleganger
 - NameVO: [Doppelganger](monsters_vo.md#doppelganger)
@@ -1839,6 +1939,8 @@ _Touché :_ 7 (1d6+4) dégâts contondants.
 
 Tant que la créature est à portée, le doppleganger peut continuer à lire ses pensées si sa concentration n'est pas interrompue (comme s'il se concentrait sur un sort). Pendant qu'il lit les pensées de la cible, il obtient un avantage lors des tests de Sagesse (Perspicacité) et de Charisme (Intimidation, Persuasion et Supercherie) effectués contre elle.
 
+
+[][MonsterHD]
 
 # Dragon blanc vénérable
 - NameVO: [Ancient White Dragon]
@@ -1895,6 +1997,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Dragon blanc adulte
 - NameVO: [Adult White Dragon]
 - Dragon de taille TG, Chaotique Mauvais
@@ -1950,6 +2054,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon blanc
 - NameVO: [Young White Dragon]
 - Dragon de taille G, Chaotique Mauvais
@@ -1987,6 +2093,8 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 **_Souffle de glace (Recharge 5-6)._** Le dragon souffle de la glace sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 15 ; elles subissent 45 (10d8) dégâts de froid en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet blanc
 - NameVO: [White Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
@@ -2013,6 +2121,8 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 
 **_Souffle de glace (Recharge 5-6)._** Le dragon souffle de la glace sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 12 ; elles subissent 22 (5d8) dégâts de froid en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon bleu vénérable
 - NameVO: [Ancient Blue Dragon]
@@ -2067,6 +2177,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Dragon bleu adulte
 - NameVO: [Adult Blue Dragon]
 - Dragon de taille TG, Loyal Mauvais
@@ -2120,6 +2232,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon bleu
 - NameVO: [Young Blue Dragon]
 - Dragon de taille G, Loyal Mauvais
@@ -2153,6 +2267,8 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 **_Souffle de foudre (Recharge 5-6)._** Le dragon souffle de la foudre sur une ligne de 18 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 16 ; elles subissent 55 (10d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet bleu
 - NameVO: [Blue Dragon Wyrmling]
 - Dragon de taille M, Loyal Mauvais
@@ -2179,6 +2295,8 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 
 **_Souffle de foudre (Recharge 5-6)._** Le dragon souffle de la foudre sur une ligne de 9 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 12 ; elles subissent 22 (4d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon noir vénérable
 - NameVO: [Ancient Black Dragon]
@@ -2232,6 +2350,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol. Détecter. Le dragon effectue un test de Sagesse (Perception).
 
+
+[][MonsterHD]
 
 # Dragon noir adulte
 - NameVO: [Adult Black Dragon]
@@ -2288,6 +2408,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon noir
 - NameVO: [Young Black Dragon]
 - Dragon de taille G, Chaotique Mauvais
@@ -2325,6 +2447,8 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 9 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 14 ; elles subissent 49 (11d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet noir
 - NameVO: [Black Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
@@ -2355,6 +2479,8 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 
 **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 4,50 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 11 ; elles subissent 22 (5d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon rouge vénérable
 - NameVO: [Ancient Red Dragon]
@@ -2409,6 +2535,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Dragon rouge adulte
 - NameVO: [Adult Red Dragon]
 - Dragon de taille TG, Chaotique Mauvais
@@ -2462,6 +2590,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon rouge
 - NameVO: [Young Red Dragon]
 - Dragon de taille G, Chaotique Mauvais
@@ -2495,6 +2625,8 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Dextérité DD 17 ; elles subissent 56 (16d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet rouge
 - NameVO: [Red Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
@@ -2521,6 +2653,8 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 24 (7d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon vert vénérable
 - NameVO: [Ancient Green Dragon]
@@ -2580,6 +2714,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Dragon vert adulte
 - NameVO: [Adult Green Dragon]
 - Dragon de taille TG, Loyal Mauvais
@@ -2636,6 +2772,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon vert
 - NameVO: [Young Green Dragon]
 - Dragon de taille G, Loyal Mauvais
@@ -2674,6 +2812,8 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon souffle du gaz [empoisonné] sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 42 (12d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet vert
 - NameVO: [Green Dragon Wyrmling]
 - Dragon de taille M, Loyal Mauvais
@@ -2705,6 +2845,8 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon souffle du gaz [empoisonné] sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 11 ; elles subissent 21 (6d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon d'airain vénérable
 - NameVO: [Ancient Brass Dragon]
@@ -2769,6 +2911,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Dragon d'airain adulte
 - NameVO: [Adult Brass Dragon]
 - Dragon de taille TG, Chaotique Bon
@@ -2826,6 +2970,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon d'airain
 - NameVO: [Young Brass Dragon]
 - Dragon de taille G, Chaotique Bon
@@ -2863,6 +3009,8 @@ _Souffle de feu._ Le dragon souffle du feu sur une ligne de 12 mètres de long e
 _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas tomber [inconscientes] pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
+[][MonsterHD]
+
 # Dragonnet d'airain
 - NameVO: [Brass Dragon Wyrmling]
 - Dragon de taille M, Chaotique Bon
@@ -2893,6 +3041,8 @@ _Souffle de feu._ Le dragon souffle du feu sur une ligne de 6 mètres de long et
 
 _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 11 pour ne pas tomber [inconscientes] pendant 1 minute. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
+
+[][MonsterHD]
 
 # Dragon d'argent vénérable
 - NameVO: [Ancient Silver Dragon]
@@ -2954,6 +3104,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
+
+[][MonsterHD]
 
 # Dragon d'argent adulte
 - NameVO: [Adult Silver Dragon]
@@ -3018,6 +3170,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon d'argent
 - NameVO: [Young Silver Dragon]
 - Dragon de taille G, Loyal Bon
@@ -3055,6 +3209,8 @@ _Souffle de glace._ Le dragon souffle de la glace sur un cône de 9 mètres. Les
 _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 17 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet d'argent
 - NameVO: [Silver Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
@@ -3085,6 +3241,8 @@ _Souffle de glace._ Le dragon souffle de la glace sur un cône de 4,50 mètres. 
 
 _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon de bronze vénérable
 - NameVO: [Ancient Bronze Dragon]
@@ -3148,6 +3306,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
+
+[][MonsterHD]
 
 # Dragon de bronze adulte
 - NameVO: [Adult Bronze Dragon]
@@ -3214,6 +3374,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon de bronze
 - NameVO: [Young Bronze Dragon]
 - Dragon de taille G, Loyal Bon
@@ -3255,6 +3417,8 @@ _Souffle de foudre._ Le dragon souffle de la foudre sur une ligne de 18 mètres 
 _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Force DD 15. Les créatures qui ratent ce jet de sauvegarde sont éloignées du dragon sur une distance de 12 mètres.
 
 
+[][MonsterHD]
+
 # Dragonnet de bronze
 - NameVO: [Bronze Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
@@ -3289,6 +3453,8 @@ _Souffle de foudre._ Le dragon souffle de la foudre sur une ligne de 12 mètres 
 
 _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Force DD 12. Les créatures qui ratent ce jet de sauvegarde sont éloignées du dragon sur une distance de 9 mètres.
 
+
+[][MonsterHD]
 
 # Dragon de cuivre vénérable
 - NameVO: [Ancient Copper Dragon]
@@ -3355,6 +3521,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Dragon de cuivre adulte
 - NameVO: [Adult Copper Dragon]
 - Dragon de taille TG, Chaotique Bon
@@ -3414,6 +3582,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon de cuivre
 - NameVO: [Young Copper Dragon]
 - Dragon de taille G, Chaotique Bon
@@ -3455,6 +3625,8 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les 
 Ces effets durent 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet de cuivre
 - NameVO: [Copper Dragon Wyrmling]
 - Dragon de taille M, Chaotique Bon
@@ -3485,6 +3657,8 @@ _Souffle d'acide._ Le dragon souffle de l'acide sur une ligne de 6 mètres de lo
 
 _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 11. Les créatures qui ratent ce jet de sauvegarde ne peuvent plus utiliser de réaction, leur vitesse est réduite de moitié et elles ne peuvent effectuer qu'une seule attaque lors de leur tour. De plus, elles ne peuvent utiliser qu'une action ou une action bonus lors de leurs tours, mais pas les deux. Ces effets durent 1 minute. Les créatures peuvent retenter le jet de sauvegarde à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon d'or vénérable
 - NameVO: [Ancient Gold Dragon]
@@ -3548,6 +3722,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
+
+[][MonsterHD]
 
 # Dragon d'or adulte
 - NameVO: [Adult Gold Dragon]
@@ -3614,6 +3790,8 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de Sagesse (Perception).
 
 
+[][MonsterHD]
+
 # Jeune dragon d'or
 - NameVO: [Young Gold Dragon]
 - Dragon de taille G, Loyal Bon
@@ -3655,6 +3833,8 @@ _Souffle affaiblissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les
 _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Dextérité DD 17 ; elles subissent 55 (10d10) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Dragonnet d'or
 - NameVO: [Gold Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
@@ -3689,6 +3869,8 @@ _Souffle affaiblissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. 
 
 _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 22 (4d10) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Dragon-tortue
 - NameVO: [Dragon Turtle](monsters_vo.md#dragon-turtle)
@@ -3730,6 +3912,8 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 **_Souffle de vapeur (Recharge 5-6)._** Le dragon-tortue souffle de la vapeur brûlante sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 18 ; elles subissent 52 (15d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Être sous l'eau ne confère aucune résistance contre ces dégâts.
 
 
+[][MonsterHD]
+
 # Dref
 - Fiélon de taille TP, chaotique neutre
 - **Classe d'armure** 13
@@ -3765,6 +3949,8 @@ Il réapparaît 1D4 heures plus tard, comme si de rien n'était.
 
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Drider
 - NameVO: [Drider](monsters_vo.md#drider)
@@ -3815,6 +4001,8 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 
+[][MonsterHD]
+
 # Drow
 - NameVO: [Drow](monsters_vo.md#drow)
 - Humanoïde (elfe) de taille M, Neutre Mauvais
@@ -3855,6 +4043,8 @@ Si le jet de sauvegarde rate de 5 points ou plus, la cible est également [incon
 
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Drow, prêtresse
 - Humanoïde (elfe) de taille M, neutre mauvais
@@ -3915,6 +4105,8 @@ Voici ses sorts de clerc préparés :
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Dryade
 - NameVO: [Dryad](monsters_vo.md#dryad)
 - Fée de taille M, neutre
@@ -3960,6 +4152,8 @@ La dryade ne peut charmer plus d'un humanoïde et trois bêtes en même temps.
 _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec gourdin magique.
 
 
+[][MonsterHD]
+
 # Duergar
 - NameVO: [Duergar](monsters_vo.md#duergar)
 - Humanoïde (nain) de taille M, Loyal Mauvais
@@ -3999,6 +4193,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 9 (2d6+2) dégâts perforants s'il 
 _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il s'est agrandi.
 
 
+[][MonsterHD]
+
 # Élémentaire de l'air
 - NameVO: [Air Elemental](monsters_vo.md#air-elemental)
 - Élémentaire de taille G, neutre
@@ -4035,6 +4231,8 @@ Celles qui ratent le jet de sauvegarde subissent 15 (3d8+2) dégâts contondants
 
 Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts contondants seulement, elle n'est pas repoussée et n'est pas jetée [à terre].
 
+
+[][MonsterHD]
 
 # Élémentaire de l'eau
 - NameVO: [Water Elemental](monsters_vo.md#water-elemental)
@@ -4073,6 +4271,8 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites en même temps. Au début de chacun des tours de l'élémentaire, chaque cible [empoignée] par lui subit 13 (2d8+4) dégâts contondants. Une créature située à 1,50 mètre ou moins de l'élémentaire peut tenter d'extirper une créature ou un objet en y consacrant une action et en réussissant un test de Force DD 14.
 
 
+[][MonsterHD]
+
 # Élémentaire du feu
 - NameVO: [Fire Elemental](monsters_vo.md#fire-elemental)
 - Élémentaire de taille G, neutre
@@ -4108,6 +4308,8 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
 
 
+[][MonsterHD]
+
 # Élémentaire de la terre
 - NameVO: [Earth Elemental](monsters_vo.md#earth-elemental)
 - Élémentaire de taille G, neutre
@@ -4141,6 +4343,8 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 
 _Touché :_ 14 (2d8+5) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Enlaceur
 - NameVO: [Roper](monsters_vo.md#roper)
@@ -4183,6 +4387,8 @@ _Touché :_ la cible est [empoignée] (évasion DD 15). Jusqu'à la fin de l'emp
 _Touché :_ 22 (4d8+4) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Esprit follet
 - NameVO: [Sprite](monsters_vo.md#sprite)
 - Fée de taille TP, Neutre Bonne
@@ -4213,6 +4419,8 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un jet de sauvegarde 
 
 **_Invisibilité._** L'esprit follet devient [invisible] par magie. Il redevient visible s'il attaque, lance un sort, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
+
+[][MonsterHD]
 
 # Ettercap
 - NameVO: [Ettercap](monsters_vo.md#ettercap)
@@ -4255,6 +4463,8 @@ _Touché :_ 6 (1d8+2) dégâts perforants plus 4 (1d8) dégâts de poison. La ci
 _Touché :_ la créature est [entravée] par la toile. Par une action, la créature [entravée] peut effectuer un test de Force DD 11 et s'en libérer en cas de réussite. L'effet prend également fin si la toile est détruite. Elle a une CA de 10, 5 points de vie, une vulnérabilité aux dégâts de feu et une immunité contre les dégâts contondants, de poison et psychiques.
 
 
+[][MonsterHD]
+
 # Ettin
 - NameVO: [Ettin](monsters_vo.md#ettin)
 - Géant de taille G, Chaotique Mauvais
@@ -4289,6 +4499,8 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 
 _Touché :_ 14 (2d8+5) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Fantôme
 - NameVO: [Ghost](monsters_vo.md#ghost)
@@ -4331,6 +4543,8 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 **_Visage terrifiant._** Toutes les créatures, à l'exception des morts-vivants, situées à 18 mètres ou moins du fantôme et qui le voient doivent chacune réussir un jet de sauvegarde de Sagesse DD 13 pour ne pas être [terrorisées] pendant 1 minute. Si le jet de sauvegarde rate de 5 points ou plus, la cible vieillit également de 1d4×10 ans. Une cible [terrorisée] peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une cible est réussi ou si l'effet prend fin, la cible est immunisée aux effets du visage terrifiant de ce fantôme pendant 24 heures. Il est possible d'inverser l'effet de vieillissement grâce à un sort de restauration supérieure s'il est lancé dans les 24 heures suivantes.
 
 
+[][MonsterHD]
+
 # Feu follet
 - NameVO: [Will-o'-Wisp](monsters_vo.md#will-o-wisp)
 - Mort-vivant de taille TP, Chaotique Mauvais
@@ -4367,6 +4581,8 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 
 **_Invisibilité._** Le feu follet et la lumière qu'il diffuse deviennent [invisibles] par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
 
+
+[][MonsterHD]
 
 # Garde animé
 - NameVO: [Shield Guardian](monsters_vo.md#shield-guardian)
@@ -4406,6 +4622,8 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 **_Protection._** Quand une créature effectue une attaque contre le porteur de son amulette, le garde confère un bonus de +2 à la CA du porteur s'il se trouve à 1,50 mètre ou moins du porteur.
 
 
+[][MonsterHD]
+
 # Gargouille
 - NameVO: [Gargoyle](monsters_vo.md#gargoyle)
 - Élémentaire de taille M, Chaotique Mauvais
@@ -4441,6 +4659,8 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Géant des collines
 - NameVO: [Hill Giant](monsters_vo.md#hill-giant)
 - Géant de taille TG, Chaotique Mauvais
@@ -4469,6 +4689,8 @@ _Touché :_ 18 (3d8+5) dégâts contondants.
 
 _Touché :_ 21 (3d10+5) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Géant des nuages
 - NameVO: [Cloud Giant](monsters_vo.md#cloud-giant)
@@ -4512,6 +4734,8 @@ _Touché :_ 21 (3d8+8) dégâts perforants.
 _Touché :_ 30 (4d10+8) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Géant des pierres
 - NameVO: [Stone Giant](monsters_vo.md#stone-giant)
 - Géant de taille TG, neutre
@@ -4545,6 +4769,8 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 
 _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 17 pour ne pas être jetée [à terre].
 
+
+[][MonsterHD]
 
 # Géant des tempêtes
 - NameVO: [Storm Giant](monsters_vo.md#storm-giant)
@@ -4590,6 +4816,8 @@ _Touché :_ 30 (6d6+9) dégâts tranchants.
 _Touché :_ 35 (4d12+9) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Géant du feu
 - NameVO: [Fire Giant](monsters_vo.md#fire-giant)
 - Géant de taille TG, Loyal Mauvais
@@ -4621,6 +4849,8 @@ _Touché :_ 28 (6d6+7) dégâts tranchants.
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Géant du givre
 - NameVO: [Frost Giant](monsters_vo.md#frost-giant)
 - Géant de taille TG, Neutre Mauvais
@@ -4651,6 +4881,8 @@ _Touché :_ 25 (3d12+6) dégâts tranchants.
 
 _Touché :_ 28 (4d10+6) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Djinn
 - NameVO: [Djinni](monsters_vo.md#djinni)
@@ -4696,6 +4928,8 @@ Une créature peut consacrer une action à dégager une créature [entravée] pa
 Si le test est réussi, la créature n'est plus [entravée] et se déplace vers l'emplacement le plus proche à l'extérieur du tourbillon.
 
 
+[][MonsterHD]
+
 # Éfrit
 - NameVO: [Efreeti](monsters_vo.md#efreeti)
 - Élémentaire de taille G, Loyal Mauvais
@@ -4738,6 +4972,8 @@ _Touché :_ 13 (2d6+6) dégâts tranchants plus 7 (2d6) dégâts de feu.
 _Touché :_ 17 (5d6) dégâts de feu.
 
 
+[][MonsterHD]
+
 # Gnoll
 - NameVO: [Gnoll](monsters_vo.md#gnoll)
 - Humanoïde (gnoll) de taille M, Chaotique Mauvais
@@ -4771,6 +5007,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si el
 
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Gnoll, chef de meute
 - Humanoïde (gnoll) de taille M, Chaotique Mauvais
@@ -4808,6 +5046,8 @@ _Touché :_ 6 (1d6+3) dégâts perforants ou 7 (1d8+3) dégâts perforants si el
 
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Gnome des profondeurs (svirfneblin)
 - NameVO: [Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)
@@ -4848,6 +5088,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sa
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Gobelin
 - NameVO: [Goblin](monsters_vo.md#goblin)
 - Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
@@ -4878,6 +5120,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 _Touché :_ 5 (1d6+2) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Gobelin, chaman
 - Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
@@ -4914,6 +5158,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 _Touché :_ 3 (1d4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Gobelin blanc
 - Humanoïde (gobelinoïde) de taille P, neutre mauvais
@@ -4958,6 +5204,8 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Chaman gobelin blanc
 - Humanoïde (gobelinoïde) de taille P, neutre mauvais
 - **Classe d'armure** 14 (armure de peau)
@@ -5001,6 +5249,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 5 (1d8+1) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Gobelours
 - NameVO: [Bugbear](monsters_vo.md#bugbear)
 - Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
@@ -5033,6 +5283,8 @@ _Touché :_ 9 (2d6+2) dégâts perforants au corps à corps ou 5 (1d6+2) dégât
 
 _Touché :_ 11 (2d8+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Gobelours, chef barbare
 - Humanoïde (gobelinoïde) de taille M, chaotique mauvais
@@ -5073,6 +5325,8 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 
 _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâts perforants à distance.
 
+
+[][MonsterHD]
 
 # Golem d'argile
 - NameVO: [Clay Golem](monsters_vo.md#clay-golem)
@@ -5117,6 +5371,8 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 
 **_Hâte (Recharge 5-6)._** Jusqu'à la fin de son prochain tour, le golem bénéficie par magie d'un bonus de +2 à sa CA, il obtient un avantage lors des jets de sauvegarde de Dextérité et il peut utiliser son attaque de coup par une action bonus.
 
+
+[][MonsterHD]
 
 # Golem de chair
 - NameVO: [Flesh Golem](monsters_vo.md#flesh-golem)
@@ -5168,6 +5424,8 @@ Ce dernier doit effectuer une action pour tenter un test de Charisme (Persuasion
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Golem de fer
 - NameVO: [Iron Golem](monsters_vo.md#iron-golem)
 - Créature artificielle de taille G, non-alignée
@@ -5210,6 +5468,8 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 **_Souffle empoisonné (Recharge 6)._** Le golem souffle du gaz [empoisonné] dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un jet de sauvegarde de Constitution DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Golem de pierre
 - NameVO: [Stone Golem](monsters_vo.md#stone-golem)
 - Créature artificielle de taille G, non-alignée
@@ -5245,6 +5505,8 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 
 **_Lenteur (Recharge 5-6)._** Le golem cible une ou plusieurs créatures situées dans son champ de vision à 3 mètres ou moins de lui. Les cibles doivent chacune effectuer un jet de sauvegarde de Sagesse DD 17 contre cette magie. En cas de jet de sauvegarde raté, une cible ne peut plus effectuer de réaction, sa vitesse est réduite de moitié et elle ne peut pas effectuer plus d'une attaque lors de son tour. De plus, la cible peut effectuer soit une action, soit une action bonus lors de son tour, mais pas les deux. Ces effets durent 1 minute. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
+
+[][MonsterHD]
 
 # Gorgone
 - NameVO: [Gorgon](monsters_vo.md#gorgon)
@@ -5282,6 +5544,8 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 Les créatures situées dans cette zone doivent chacune effectuer un jet de sauvegarde de Constitution DD 13. En cas de jet de sauvegarde raté, une cible commence à se transformer en pierre et elle est [entravée]. Une cible [entravée] doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est [pétrifiée] à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
 
 
+[][MonsterHD]
+
 # Goule
 - NameVO: [Ghoul](monsters_vo.md#ghoul)
 - Mort-vivant de taille M, Chaotique Mauvais
@@ -5309,6 +5573,8 @@ _Touché :_ 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant 
 
 _Touché :_ 9 (2d6+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Blême
 - NameVO: [Ghast](monsters_vo.md#ghast)
@@ -5345,6 +5611,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 _Touché :_ 12 (2d8+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Grick
 - NameVO: [Grick](monsters_vo.md#grick)
 - Créature monstrueuse de taille M, neutre
@@ -5378,6 +5646,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Griffon
 - NameVO: [Griffon](monsters_vo.md#griffon)
 - Créature monstrueuse de taille G, non-alignée
@@ -5410,6 +5680,8 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 
 _Touché :_ 11 (2d6+4) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Guenaude aquatique
 - NameVO: [Sea Hag](monsters_vo.md#sea-hag)
@@ -5446,6 +5718,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 **_Regard mortel._** La guenaude cible une créature [terrorisée] située dans son champ de vision à 9 mètres ou moins. Si la cible peut voir la guenaude, elle doit réussir un jet de sauvegarde de Sagesse DD 11 contre cette magie pour ne pas voir ses points de vie tomber à 0.
 
+
+[][MonsterHD]
 
 # Guenaude nocturne
 - NameVO: [Night Hag](monsters_vo.md#night-hag)
@@ -5490,6 +5764,8 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 Un sort de protection contre le mal et le bien lancé sur la cible, tout comme un cercle magique, empêche ce contact. Tant que dure le contact, la cible est la victime de terrifiantes visions. Si ces visions durent 1 heure au moins, le repos ne permet plus à la cible de récupérer quoi que ce soit et son total maximum de points de vie est réduit de 5 (1d10). Si cet effet réduit le total maximum de points de vie de la cible à 0, celle-ci meurt et, si son alignement était mauvais, son âme se retrouve piégée dans le sac des âmes de la guenaude. La réduction persiste tant qu'elle n'est pas éliminée grâce à un sort de restauration supérieure ou une magie similaire.
 
 
+[][MonsterHD]
+
 # Guenaude verte
 - NameVO: [Green Hag](monsters_vo.md#green-hag)
 - Fée de taille M, Neutre Mauvais
@@ -5531,6 +5807,8 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 **_Passage dans l'invisible._** La guenaude reste [invisible] jusqu'à ce qu'elle attaque ou lance un sort, ou jusqu'à interruption de sa concentration (comme si elle se concentrait sur un sort). Elle ne laisse aucun signe physique de son passage lorsqu'elle est [invisible] et seule l'utilisation de la magie peut permettre de la pister. Ses objets équipés ou transportés deviennent également [invisibles].
 
 
+[][MonsterHD]
+
 # Harpie
 - NameVO: [Harpy](monsters_vo.md#harpy)
 - Créature monstrueuse de taille M, Chaotique Mauvais
@@ -5567,6 +5845,8 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Hibours
 - NameVO: [Owlbear](monsters_vo.md#owlbear)
 - Créature monstrueuse de taille G, non-alignée
@@ -5599,6 +5879,8 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 
 _Touché :_ 14 (2d8+5) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Hippogriffe
 - NameVO: [Hippogriff](monsters_vo.md#hippogriff)
@@ -5633,6 +5915,8 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Hobgobelin
 - NameVO: [Hobgoblin](monsters_vo.md#hobgoblin)
 - Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
@@ -5662,6 +5946,8 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si elle est maniée à deux mains.
 
+
+[][MonsterHD]
 
 # Hobgobelin, sergent
 - Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
@@ -5695,6 +5981,8 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 
 **_Protéger un allié._** Le sergent peut utiliser sa réaction pour ajouter un bonus de +2 à sa CA ou à celle d'un allié situé à 1,50 mètre ou moins de lui.
 
+
+[][MonsterHD]
 
 # Homme-lézard
 - NameVO: [Lizardfolk](monsters_vo.md#lizardfolk)
@@ -5737,6 +6025,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Homme-lézard, champion
 - Humanoïde (homme-lézard) de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle, bouclier)
@@ -5777,6 +6067,8 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Homme-poisson
 - NameVO: [Merfolk](monsters_vo.md#merfolk)
 - Humanoïde (homme-poisson) de taille M, Neutre
@@ -5803,6 +6095,8 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
+
+[][MonsterHD]
 
 # Homoncule
 - NameVO: [Homunculus](monsters_vo.md#homunculus)
@@ -5831,6 +6125,8 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 
 _Touché :_ 1 dégât perforant, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être [empoisonnée] pendant 1 minute. Si le jet de sauvegarde rate de 5 points ou plus, la cible est à la place [empoisonnée] pendant 5 (1d10) minutes, et [inconsciente] tant qu'elle est [empoisonnée] de la sorte.
 
+
+[][MonsterHD]
 
 # Hydre
 - NameVO: [Hydra](monsters_vo.md#hydra)
@@ -5871,6 +6167,8 @@ Chaque fois que l'hydre subit 25 dégâts ou plus lors d'un même tour, une de s
 _Touché :_ 10 (1d10+5) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Kobold
 - NameVO: [Kobold](monsters_vo.md#kobold)
 - Humanoïde (kobold) de taille P, Loyal Mauvais
@@ -5902,6 +6200,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 _Touché :_ 4 (1d4+2) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Kobold, saigneur
 - Humanoïde (kobold) de taille P, Neutre Mauvais
@@ -5937,6 +6237,8 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 _Touché :_ 5 (1d4+3) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Kraken
 - NameVO: [Kraken](monsters_vo.md#kraken)
@@ -5993,6 +6295,8 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Tempête foudroyante (coûte 2 actions)._** Le kraken utilise sa Tempête foudroyante.
 
 
+[][MonsterHD]
+
 # Lamie
 - NameVO: [Lamia](monsters_vo.md#lamia)
 - Créature monstrueuse de taille G, Chaotique Mauvais
@@ -6035,6 +6339,8 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 _Touché :_ 14 (2d10+3) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Liche
 - NameVO: [Lich](monsters_vo.md#lich)
@@ -6104,6 +6410,8 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 **_Perturbation de la vie (coûte 3 actions)._** Chaque créature non morte-vivante dans un rayon de 6 m de la liche doit effectuer un jet de sauvegarde de Constitution DD18 contre cette magie. Ceux qui y échouent subissent 21 (6d6) dégâts nécrotiques, ou la moitié seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Licorne
 - NameVO: [Unicorn](monsters_vo.md#unicorn)
 - Céleste de taille G, Loyal Bon
@@ -6162,6 +6470,8 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 **_Soin personnel (coûte 3 actions)._** La licorne récupère par magie 11 (2d8+2) points de vie.
 
 
+[][MonsterHD]
+
 # Loup-garou
 - NameVO: [Werewolf](monsters_vo.md#werewolf)
 - Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
@@ -6201,6 +6511,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si el
 
 _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas contracter la malédiction de la lycanthropie du loup-garou.
 
+
+[][MonsterHD]
 
 # Ours-garou
 - NameVO: [Werebear](monsters_vo.md#werebear)
@@ -6242,6 +6554,8 @@ _Touché :_ 10 (1d12+4) dégâts tranchants.
 _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas contracter la malédiction de la lycanthropie de l'ours-garou.
 
 
+[][MonsterHD]
+
 # Rat-garou
 - NameVO: [Wererat](monsters_vo.md#wererat)
 - Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
@@ -6282,6 +6596,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas contracter la malédiction de la lycanthropie du rat-garou.
 
 
+[][MonsterHD]
+
 # Sanglier-garou
 - NameVO: [Wereboar](monsters_vo.md#wereboar)
 - Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
@@ -6319,6 +6635,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible est un humanoïde, elle 
 
 _Touché :_ 10 (2d6+3) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Tigre-garou
 - NameVO: [Weretiger](monsters_vo.md#weretiger)
@@ -6366,6 +6684,8 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas contracter la malédiction de la lycanthropie du tigre-garou.
 
 
+[][MonsterHD]
+
 # Magmatique
 - NameVO: [Magmin](monsters_vo.md#magmin)
 - Élémentaire de taille P, Chaotique Neutre
@@ -6399,6 +6719,8 @@ _Touché :_ 7 (2d6) dégâts de feu. Si la cible est un objet inflammable ou une
 
 Jusqu'au moment où une créature consacre une action à étouffer les flammes, la cible subit 3 (1d6) dégâts de feu à la fin de chacun de ses tours.
 
+
+[][MonsterHD]
 
 # Manteleur
 - NameVO: [Cloaker](monsters_vo.md#cloaker)
@@ -6447,6 +6769,8 @@ Une créature, y compris la cible, peut consacrer son action à détacher le man
 _Touché :_ 7 (1d8+3) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Mante obscure
 - NameVO: [Darkmantle](monsters_vo.md#darkmantle)
 - Créature monstrueuse de taille P, non-alignée
@@ -6484,6 +6808,8 @@ Une créature peut détacher la mante obscure en réussissant un test de Force D
 Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1,50 mètre de déplacement.
 
 
+[][MonsterHD]
+
 # Manticore
 - NameVO: [Manticore](monsters_vo.md#manticore)
 - Créature monstrueuse de taille G, Loyal Mauvais
@@ -6519,6 +6845,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 _Touché :_ 7 (1d8+3) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Méduse
 - NameVO: [Medusa](monsters_vo.md#medusa)
@@ -6561,6 +6889,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants plus 14 (4d6) dégâts de poison.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Méphite de glace
 - NameVO: [Ice Mephit](monsters_vo.md#ice-mephit)
 - Élémentaire de taille P, Neutre Mauvais
@@ -6599,6 +6929,8 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 **_Souffle de givre (Recharge 6)._** Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 ; elles subissent 5 (2d4) dégâts de froid en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Méphite de magma
 - NameVO: [Magma Mephit](monsters_vo.md#magma-mephit)
 - Élémentaire de taille P, Neutre Mauvais
@@ -6634,6 +6966,8 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 
 **_Souffle de feu (Recharge 6)._** Le méphite souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Dextérité DD 11 ; elles subissent 7 (2d6) dégâts de feu en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Méphite de poussière
 - NameVO: [Dust Mephit](monsters_vo.md#dust-mephit)
@@ -6671,6 +7005,8 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 
+[][MonsterHD]
+
 # Méphite de vapeur
 - NameVO: [Steam Mephit](monsters_vo.md#steam-mephit)
 - Élémentaire de taille P, Neutre Mauvais
@@ -6704,6 +7040,8 @@ _Touché :_ 2 (1d4) dégâts tranchants plus 2 (1d4) dégâts de feu.
 
 Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 ; elles subissent 4 (1d8) dégâts de feu en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Merrow
 - NameVO: [Merrow](monsters_vo.md#merrow)
@@ -6742,6 +7080,8 @@ Si la cible est une créature de taille TG ou plus petite, elle doit réussir un
 
 _Touché :_ 8 (1d8+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Mimique
 - NameVO: [Mimic](monsters_vo.md#mimic)
@@ -6784,6 +7124,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 4 (1d8) dégâts d'acide.
 _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet, la cible est également victime de son trait Collante.
 
 
+[][MonsterHD]
+
 # Minotaure
 - NameVO: [Minotaur](monsters_vo.md#minotaur)
 - Créature monstrueuse de taille G, Chaotique Mauvais
@@ -6821,6 +7163,8 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Molosse infernal
 - NameVO: [Hell Hound](monsters_vo.md#hell-hound)
 - Fiélon de taille M, Loyal Mauvais
@@ -6852,6 +7196,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 
 **_Souffle de feu (Recharge 5-6)._** Le molosse souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un jet de sauvegarde de Dextérité DD 12 ; elles subissent 21 (6d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Momie
 - NameVO: [Mummy](monsters_vo.md#mummy)
@@ -6885,6 +7231,8 @@ _Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques.
 
 Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sagesse DD 11 contre cette magie pour ne pas être [terrorisée] jusqu'à la fin du prochain tour de la momie. Si la cible rate le jet de sauvegarde de 5 points ou plus, elle est également [paralysée] pendant la même durée. Une cible qui réussit le jet de sauvegarde est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
 
+
+[][MonsterHD]
 
 # Momie auguste
 - NameVO: [Mummy Lord](monsters_vo.md#mummy-lord)
@@ -6959,6 +7307,8 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 **_Tourbillon de sable (coûte 2 actions)._** La momie auguste se transforme par magie en un tourbillon de sable, se déplace d'une distance maximale de 18 mètres, puis reprend sa forme normale. Sous forme de tourbillon, la momie auguste est immunisée contre tous les dégâts et elle ne peut pas être [empoignée], [pétrifiée], jetée [à terre], [entravée] ni [étourdie]. Ses objets équipés ou transportés restent en sa possession.
 
 
+[][MonsterHD]
+
 # Naga corrupteur
 - NameVO: [Spirit Naga](monsters_vo.md#spirit-naga)
 - Créature monstrueuse de taille G, Chaotique Mauvais
@@ -7001,6 +7351,8 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 
 _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 13 ; elle subit 31 (7d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Naga gardien
 - NameVO: [Guardian Naga](monsters_vo.md#guardian-naga)
@@ -7051,6 +7403,8 @@ _Touché :_ la cible doit effectuer un jet de sauvegarde de Constitution DD 15 ;
 _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 15 ; elle subit 45 (10d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Nécrophage
 - NameVO: [Wight](monsters_vo.md#wight)
 - Mort-vivant de taille M, Neutre Mauvais
@@ -7093,6 +7447,8 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si elle est maniée à deux mains.
 
 
+[][MonsterHD]
+
 # Armure animée
 - NameVO: [Animated Armor](monsters_vo.md#animated-armor)
 - Créature artificielle de taille M, non-alignée
@@ -7125,6 +7481,8 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Épée volante
 - NameVO: [Flying Sword](monsters_vo.md#flying-sword)
 - Créature artificielle de taille P, non-alignée
@@ -7155,6 +7513,8 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 
 _Touché :_ 5 (1d8+1) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Tapis étrangleur
 - NameVO: [Rug of Smothering](monsters_vo.md#rug-of-smothering)
@@ -7192,6 +7552,8 @@ _Touché :_ la créature est [empoignée] (évasion DD 13). Jusqu'à la fin de c
 De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Ogre
 - NameVO: [Ogre](monsters_vo.md#ogre)
 - Géant de taille G, Chaotique Mauvais
@@ -7217,6 +7579,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Ombre
 - NameVO: [Shadow](monsters_vo.md#shadow)
@@ -7254,6 +7618,8 @@ _Touché :_ 9 (2d6+2) dégâts nécrotiques et la valeur de Force de la cible es
 
 Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures.
 
+
+[][MonsterHD]
 
 # Oni
 - NameVO: [Oni](monsters_vo.md#oni)
@@ -7299,6 +7665,8 @@ _Touché :_ 15 (2d10+4) dégâts tranchants ou 9 (1d10+4) dégâts tranchants si
 _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Orc
 - Humanoïde (orc) de taille M, Chaotique Mauvais
 - **Classe d'armure** 13 (armure de peau)
@@ -7328,6 +7696,8 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Chaman orc
 - Humanoïde (demi-orc) de taille M, Neutre Mauvais
@@ -7364,6 +7734,8 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Otyugh
 - NameVO: [Otyugh](monsters_vo.md#otyugh)
@@ -7404,6 +7776,8 @@ _Touché :_ 7 (1d8+3) dégâts contondants plus 4 (1d8) dégâts perforants. Si 
 L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
 
+[][MonsterHD]
+
 # Oxydeur
 - NameVO: [Rust Monster](monsters_vo.md#rust-monster)
 - Créature monstrueuse de taille M, non-alignée
@@ -7437,6 +7811,8 @@ Si l'objet touché est une arme métallique tenue en main par une créature, ell
 
 _Touché :_ 5 (1d8+1) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Parasite arcanique
 - Aberration de taille TP, Neutre
@@ -7483,6 +7859,8 @@ _Touché :_ 5 (1d4+2) dégâts perçants et le parasite arcanique s'ancre à sa 
 Une fois accroché, le parasite absorbe à la cible un emplacement de sort du plus haut niveau disponible à chaque round. Le parasite se détache généralement après avoir absorbé 1d4+1 emplacements de sorts ou si la cible n'a plus d'emplacement de sorts à absorber. Il peut se détacher en utilisant 1,50 mètre sur son déplacement. La victime du parasite ou toute autre créature peut également détacher le parasite en utilisant une action mais, en s'arrachant, le rostre occasionne à nouveau 5 (1d4+2) dégâts perçants.
 
 
+[][MonsterHD]
+
 # Pégase
 - NameVO: [Pegasus](monsters_vo.md#pegasus)
 - Céleste de taille G, Chaotique Bon
@@ -7506,6 +7884,8 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Pseudodragon
 - NameVO: [Pseudodragon](monsters_vo.md#pseudodragon)
@@ -7541,6 +7921,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sa
 
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Rakshasa
 - NameVO: [Rakshasa](monsters_vo.md#rakshasa)
@@ -7583,6 +7965,8 @@ _Touché :_ 9 (2d6+2) dégâts tranchants et la cible est maudite si c'est une c
 La malédiction magique prend effet chaque fois que la cible prend un repos court ou long en envahissant ses pensées d'images horribles et de cauchemars. Le repos long ou court ne permet plus à la cible maudite de récupérer quoi que ce soit. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction]_ ou une magie similaire.
 
 
+[][MonsterHD]
+
 # Remorhaz
 - Créature monstrueuse de taille TG, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
@@ -7614,6 +7998,8 @@ Si le remorhaz meurt, une créature engloutie n'est plus [entravée] à cause de
 
 _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la cible est une créature, elle est [empoignée] (évasion DD 17). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le remorhaz ne peut pas mordre une autre cible.
 
+
+[][MonsterHD]
 
 # Roc
 - NameVO: [Roc](monsters_vo.md#roc)
@@ -7648,6 +8034,8 @@ _Touché :_ 27 (4d8+9) dégâts perforants.
 
 _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasion DD 19). Jusqu'à la fin de l'empoignade, la cible est [entravée] et le roc ne peut plus utiliser ses serres sur une autre cible.
 
+
+[][MonsterHD]
 
 # Sahuagin
 - NameVO: [Sahuagin](monsters_vo.md#sahuagin)
@@ -7689,6 +8077,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Sahuagin, prêtresse de Mikala
 - Humanoïde (sahuagin) de taille M, Loyal Mauvais
@@ -7742,6 +8132,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Salamandre
 - NameVO: [Salamander](monsters_vo.md#salamander)
 - Élémentaire de taille G, Neutre Mauvais
@@ -7779,6 +8171,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la cible est [empoignée] (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la salamandre peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d'attaque de queue contre d'autres cibles.
 
 
+[][MonsterHD]
+
 # Satyre
 - NameVO: [Satyr](monsters_vo.md#satyr)
 - Fée de taille M, Chaotique Neutre
@@ -7814,6 +8208,8 @@ _Touché :_ 6 (2d4+1) dégâts contondants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Saule étrangleur
 - Plante de taille TG, non-alignée
 - **Classe d'armure** 16 (armure naturelle)
@@ -7847,6 +8243,8 @@ _Touché :_ 7 (1d4+5) dégâts contondants et la cible est [entravée] à moins 
 
 _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du jet d'évasion 15). Une créature [empoignée] ne peut plus respirer et subit 9 (1d8+5) dégâts contondants au début de son tour à moins de réussir un jet de sauvegarde de Constitution DD 14. À son tour, le saule peut cibler une créature déjà [empoignée] avec un nouvel étranglement. Chaque nouvelle attaque réussie implique un jet d'évasion supplémentaire avant de se libérer. Toutefois, les dégâts en début de tour ne se cumulent pas et un seul jet de sauvegarde est nécessaire quel que soit le nombre de branches empoignant la créature.
 
+
+[][MonsterHD]
 
 # Serpent de mer
 - Créature monstrueuse de taille Gig, non-alignée
@@ -7894,6 +8292,8 @@ La cible est [empoignée] (évasion DD 16) si le serpent n'est pas déjà en tra
 _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 20 pour ne pas tomber [à terre].
 
 
+[][MonsterHD]
+
 # Spectre
 - NameVO: [Specter](monsters_vo.md#specter)
 - Mort-vivant de taille M, Chaotique Mauvais
@@ -7924,6 +8324,8 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 
 _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
 
+
+[][MonsterHD]
 
 # Androsphinx
 - NameVO: [Androsphinx](monsters_vo.md#androsphinx)
@@ -7993,6 +8395,8 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
+[][MonsterHD]
+
 # Gynosphinx
 - NameVO: [Gynosphinx](monsters_vo.md#gynosphinx)
 - Créature monstrueuse de taille G, Loyal Neutre
@@ -8051,6 +8455,8 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
+[][MonsterHD]
+
 # Squelette
 - NameVO: [Skeleton](monsters_vo.md#skeleton)
 - Mort-vivant de taille M, Loyal Mauvais
@@ -8080,6 +8486,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Squelette cheval de guerre
 - NameVO: [Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)
 - Mort-vivant de taille G, Loyal Mauvais
@@ -8104,6 +8512,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Squelette minotaure
 - NameVO: [Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)
@@ -8138,6 +8548,8 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Strige
 - NameVO: [Stirge](monsters_vo.md#stirge)
 - Bête de taille TP, non-alignée
@@ -8163,6 +8575,8 @@ _Touché :_ 5 (1d4+3) dégâts perforants et la strige se fixe sur la cible. Ell
 
 La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacement. Elle se détache après avoir sucé une quantité de sang équivalente à 10 points de vie ou si la cible meurt. Une créature, y compris la cible, peut effectuer une action pour arracher la strige.
 
+
+[][MonsterHD]
 
 # Succube/Incube
 - NameVO: [Succubus](monsters_vo.md#succubus)
@@ -8204,6 +8618,8 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 **_Griffe (forme de fiélon uniquement)._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible ; Touché : 6 (1d6+3) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Sylvanien
 - NameVO: [Treant](monsters_vo.md#treant)
 - Plante de taille TG, Chaotique Bonne
@@ -8241,6 +8657,8 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 
 **_Animation des arbres (1/jour)._** Le sylvanien anime par magie un ou deux arbres qu'il peut voir et situés à 18 m ou moins de lui. Ces arbres ont les mêmes statistiques qu'un sylvanien, si ce n'est qu'ils ont une Intelligence et un Charisme de 1, qu'ils ne savent pas parler, et qu'ils n'ont accès qu'à l'action de Coup. Un arbre animé se comporte avec les sylvaniens comme un allié. L'arbre reste animé un jour durant ou jusqu'à sa mort ; jusqu'à ce que le sylvanien meure ou se trouve à plus de 36 m de l'arbre ; ou jusqu'à ce que le sylvanien prenne une action bonus pour le retransformer en arbre inanimé. Si possible, l'arbre prend alors racine.
 
+
+[][MonsterHD]
 
 # Tarasque
 - NameVO: [Tarrasque](monsters_vo.md#tarrasque)
@@ -8311,6 +8729,8 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 **_Mordre (coûte 2 actions)._** La tarasque effectue une attaque de morsure ou utilise son action Engloutir.
 
 
+[][MonsterHD]
+
 # Terreur des roches
 - Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 16 (armure naturelle)
@@ -8346,6 +8766,8 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 **_Onde vibratoire (Recharge 5-6)._** La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
 
 
+[][MonsterHD]
+
 # Larve des roches
 - Créature monstrueuse de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle)
@@ -8370,6 +8792,8 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 **_Onde vibratoire (Recharge 5-6)._** La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un jet de sauvegarde de Constitution DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de jet de sauvegarde raté. Les créatures qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau jet de sauvegarde à chaque round pour mettre fin à cet état spécial.
 
+
+[][MonsterHD]
 
 # Tertre errant
 - NameVO: [Shambling Mound](monsters_vo.md#shambling-mound)
@@ -8405,6 +8829,8 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 **_Enveloppement._** Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [aveuglée], [entravée] et incapable de respirer. Elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
 
 
+[][MonsterHD]
+
 # Torve
 - NameVO: [Grimlock](monsters_vo.md#grimlock)
 - Humanoïde (torve) de taille M, Neutre Mauvais
@@ -8436,6 +8862,8 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Traqueur invisible
 - NameVO: [Invisible Stalker](monsters_vo.md#invisible-stalker)
@@ -8469,6 +8897,8 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 _Touché :_ 10 (2d6+3) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Troll
 - NameVO: [Troll](monsters_vo.md#troll)
@@ -8504,6 +8934,8 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 _Touché :_ 7 (1d6+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Vampire
 - NameVO: [Vampire](monsters_vo.md#vampire)
@@ -8584,6 +9016,8 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 **_Morsure (coûte 2 actions)._** Le vampire effectue une attaque de morsure.
 
 
+[][MonsterHD]
+
 # Vampirien
 - NameVO: [Vampire Spawn](monsters_vo.md#vampire-spawn)
 - Mort-vivant de taille M, Neutre Mauvais
@@ -8633,6 +9067,8 @@ _Touché :_ 8 (2d4+3) dégâts tranchants. Au lieu d'infliger des dégâts, le v
 _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis et le vampirien récupère un nombre de points de vie égal à ce montant. La réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si l'effet réduit à 0 son total maximum de points de vie.
 
 
+[][MonsterHD]
+
 # Cube gélatineux
 - NameVO: [Gelatinous Cube](monsters_vo.md#gelatinous-cube)
 - Vase de taille G, non-alignée
@@ -8678,6 +9114,8 @@ Une créature enveloppée peut tenter de s'échapper en faisant une action pour 
 _Touché :_ 10 (3d6) dégâts d'acide.
 
 
+[][MonsterHD]
+
 # Gelée ocre
 - NameVO: [Ochre Jelly](monsters_vo.md#ochre-jelly)
 - Vase de taille G, non-alignée
@@ -8712,6 +9150,8 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 
 **_Division._** Quand une gelée de taille M ou plus grande subit des dégâts tranchants ou de foudre, elle se divise en deux nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par la gelée d'origine. La taille des nouvelles gelées est d'une catégorie inférieure à la gelée d'origine.
 
+
+[][MonsterHD]
 
 # Pouding noir
 - NameVO: [Black Pudding](monsters_vo.md#black-pudding)
@@ -8751,6 +9191,8 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 **_Division._** Quand un pouding de taille M ou plus grand subit des dégâts tranchants ou de foudre, il se divise en deux nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par le pouding d'origine. La taille des nouveaux poudings est d'une catégorie inférieure à celui d'origine.
 
 
+[][MonsterHD]
+
 # Vase grise
 - NameVO: [Gray Ooze](monsters_vo.md#gray-ooze)
 - Vase de taille M, non-alignée
@@ -8787,6 +9229,8 @@ La vase peut ronger une épaisseur de 5 centimètres de métal non-magique en 1 
 
 _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si la cible porte une armure métallique non-magique, celle-ci est partiellement rongée et subit un malus permanent et cumulatif de -1 à la CA qu'elle confère. L'armure est détruite si le malus réduit à 10 sa CA.
 
+
+[][MonsterHD]
 
 # Ver pourpre
 - NameVO: [Purple Worm](monsters_vo.md#purple-worm)
@@ -8825,6 +9269,8 @@ S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature �
 Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement. Elles en sortent [à terre].
 
 
+[][MonsterHD]
+
 # Vouivre
 - NameVO: [Wyvern](monsters_vo.md#wyvern)
 - Dragon de taille G, non-alignée
@@ -8857,6 +9303,8 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Xorn
 - NameVO: [Xorn](monsters_vo.md#xorn)
@@ -8896,6 +9344,8 @@ _Touché :_ 6 (1d6+3) dégâts tranchants.
 _Touché :_ 13 (3d6+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Zombi
 - NameVO: [Zombie](monsters_vo.md#zombie)
 - Mort-vivant de taille M, Neutre Mauvais
@@ -8924,6 +9374,8 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Zombi ogre
 - NameVO: [Ogre Zombie](monsters_vo.md#ogre-zombie)
@@ -8954,6 +9406,8 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Aigle
 - NameVO: [Eagle](monsters_vo.md#eagle)
 - Bête de taille P, non-alignée
@@ -8980,6 +9434,8 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Aigle géant
 - NameVO: [Giant Eagle](monsters_vo.md#giant-eagle)
@@ -9014,6 +9470,8 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Araignée
 - NameVO: [Spider](monsters_vo.md#spider)
 - Bête de taille TP, non-alignée
@@ -9045,6 +9503,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 9 pour ne pas subir 2 (1d4) dégâts de poison.
 
 
+[][MonsterHD]
+
 # Araignée de phase
 - NameVO: [Phase Spider](monsters_vo.md#phase-spider)
 - Bête de taille G, non-alignée
@@ -9075,6 +9535,8 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde 
 
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 18 (4d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
+
+[][MonsterHD]
 
 # Araignée géante
 - NameVO: [Giant Spider](monsters_vo.md#giant-spider)
@@ -9111,6 +9573,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de s
 _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [entravée] peut effectuer un test de Force DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
 
 
+[][MonsterHD]
+
 # Araignée-loup géante
 - NameVO: [Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)
 - Bête de taille M, non-alignée
@@ -9142,6 +9606,8 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
+[][MonsterHD]
+
 # Arbre éveillé
 - NameVO: [Awakened Tree](monsters_vo.md#awakened-tree)
 - Plante de taille TG, non-alignée
@@ -9169,6 +9635,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un jet de s
 
 _Touché :_ 14 (3d6+4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Arbuste éveillé
 - NameVO: [Awakened Shrub](monsters_vo.md#awakened-shrub)
@@ -9198,6 +9666,8 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 _Touché :_ 1 (1d4-1) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Babouin
 - NameVO: [Baboon](monsters_vo.md#baboon)
 - Bête de taille P, non-alignée
@@ -9224,6 +9694,8 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 _Touché :_ 1 (1d4-1) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Bec de hache
 - NameVO: [Axe Beak](monsters_vo.md#axe-beak)
 - Bête de taille G, non-alignée
@@ -9245,6 +9717,8 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 _Touché :_ 6 (1d8+2) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Belette
 - NameVO: [Weasel](monsters_vo.md#weasel)
@@ -9273,6 +9747,8 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
+[][MonsterHD]
+
 # Belette géante
 - NameVO: [Giant Weasel](monsters_vo.md#giant-weasel)
 - Bête de taille M, non-alignée
@@ -9300,6 +9776,8 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Blaireau
 - NameVO: [Badger](monsters_vo.md#badger)
 - Bête de taille TP, non-alignée
@@ -9325,6 +9803,8 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 _Touché :_ 1 dégât perforant.
 
+
+[][MonsterHD]
 
 # Blaireau géant
 - NameVO: [Giant Badger](monsters_vo.md#giant-badger)
@@ -9358,6 +9838,8 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Chacal
 - NameVO: [Jackal](monsters_vo.md#jackal)
 - Bête de taille P, non-alignée
@@ -9387,6 +9869,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 1 (1d4-1) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Chameau
 - NameVO: [Camel](monsters_vo.md#camel)
 - Bête de taille G, non-alignée
@@ -9408,6 +9892,8 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 _Touché :_ 2 (1d4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Chat
 - NameVO: [Cat](monsters_vo.md#cat)
@@ -9435,6 +9921,8 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 _Touché :_ 1 dégât tranchant.
 
+
+[][MonsterHD]
 
 # Chauve-souris
 - NameVO: [Bat](monsters_vo.md#bat)
@@ -9464,6 +9952,8 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 1 dégât perforant.
 
 
+[][MonsterHD]
+
 # Chauve-souris géante
 - NameVO: [Giant Bat](monsters_vo.md#giant-bat)
 - Bête de taille G, non-alignée
@@ -9492,6 +9982,8 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Cheval de guerre
 - NameVO: [Warhorse](monsters_vo.md#warhorse)
 - Bête de taille G, non-alignée
@@ -9517,6 +10009,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Cheval de guerre céleste
 - Bête de taille G, Loyal Bon
@@ -9554,6 +10048,8 @@ Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre céle
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Cheval de guerre lourd
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
@@ -9581,6 +10077,8 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Cheval de selle
 - NameVO: [Riding Horse](monsters_vo.md#riding-horse)
 - Bête de taille G, non-alignée
@@ -9603,6 +10101,8 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Cheval de trait
 - NameVO: [Draft Horse](monsters_vo.md#draft-horse)
 - Bête de taille G, non-alignée
@@ -9624,6 +10124,8 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 _Touché :_ 9 (2d4+4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Chèvre
 - NameVO: [Goat](monsters_vo.md#goat)
@@ -9653,6 +10155,8 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 _Touché :_ 3 (1d4+1) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Chèvre géante
 - NameVO: [Giant Goat](monsters_vo.md#giant-goat)
 - Bête de taille G, non-alignée
@@ -9681,6 +10185,8 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Chevreuil
 - NameVO: [Deer](monsters_vo.md#deer)
 - Bête de taille M, non-alignée
@@ -9702,6 +10208,8 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 _Touché :_ 2 (1d4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Chien du trépas
 - NameVO: [Death Dog](monsters_vo.md#death-dog)
@@ -9732,6 +10240,8 @@ _Touché :_ 2 (1d4) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 12 contre la maladie pour ne pas être [empoisonnée] jusqu'au moment où cette maladie est soignée. Toutes les 24 heures par la suite, la créature doit retenter le jet de sauvegarde et réduire de 5 (1d10) son total maximum de points de vie en cas d'échec. Cette réduction persiste jusqu'à guérison de la maladie. La créature meurt si la maladie réduit à 0 son total maximum de points de vie.
 
 
+[][MonsterHD]
+
 # Chien esquiveur
 - NameVO: [Blink Dog](monsters_vo.md#blink-dog)
 - Fée de taille M, Loyal Bon
@@ -9760,6 +10270,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 **_Téléportation (Recharge 4-6)._** Le chien se téléporte par magie, avec tous les ses objets équipés et transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 12 mètres. Le chien peut effectuer une attaque de morsure avant ou après s'être téléporté.
 
+
+[][MonsterHD]
 
 # Chouette
 - NameVO: [Owl](monsters_vo.md#owl)
@@ -9790,6 +10302,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 1 dégât tranchant.
 
 
+[][MonsterHD]
+
 # Chouette géante
 - NameVO: [Giant Owl](monsters_vo.md#giant-owl)
 - Bête de taille G, neutre
@@ -9819,6 +10333,8 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Corbeau
 - NameVO: [Raven](monsters_vo.md#raven)
 - Bête de taille TP, non-alignée
@@ -9845,6 +10361,8 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 _Touché :_ 1 dégât perforant.
 
+
+[][MonsterHD]
 
 # Crabe
 - NameVO: [Crab](monsters_vo.md#crab)
@@ -9873,6 +10391,8 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 1 dégât contondant.
 
 
+[][MonsterHD]
+
 # Crabe géant
 - NameVO: [Giant Crab](monsters_vo.md#giant-crab)
 - Bête de taille M, non-alignée
@@ -9899,6 +10419,8 @@ _Touché :_ 1 dégât contondant.
 
 _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
+
+[][MonsterHD]
 
 # Crapaud géant
 - NameVO: [Giant Toad](monsters_vo.md#giant-toad)
@@ -9932,6 +10454,8 @@ Si le crapaud meurt, une créature engloutie n'est plus [entravée] à cause de 
 _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et la cible est [empoignée] (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crapaud ne peut pas mordre une autre cible.
 
 
+[][MonsterHD]
+
 # Crocodile
 - NameVO: [Crocodile](monsters_vo.md#crocodile)
 - Bête de taille G, non-alignée
@@ -9958,6 +10482,8 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crocodile ne peut pas mordre une autre cible.
 
+
+[][MonsterHD]
 
 # Crocodile géant
 - NameVO: [Giant Crocodile](monsters_vo.md#giant-crocodile)
@@ -9992,6 +10518,8 @@ _Touché :_ 21 (3d10+5) dégâts perforants et la cible est [empoignée] (évasi
 _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être jetée au sol.
 
 
+[][MonsterHD]
+
 # Élan
 - NameVO: [Elk](monsters_vo.md#elk)
 - Bête de taille G, non-alignée
@@ -10021,6 +10549,8 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Élan géant
 - NameVO: [Giant Elk](monsters_vo.md#giant-elk)
@@ -10053,6 +10583,8 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 22 (4d8+4) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Éléphant
 - NameVO: [Elephant](monsters_vo.md#elephant)
 - Bête de taille TG, non-alignée
@@ -10082,6 +10614,8 @@ _Touché :_ 19 (3d8+6) dégâts perforants.
 
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Épaulard
 - NameVO: [Killer Whale](monsters_vo.md#killer-whale)
@@ -10114,6 +10648,8 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 _Touché :_ 21 (5d6+4) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Faucon
 - NameVO: [Hawk](monsters_vo.md#hawk)
 - Bête de taille TP, non-alignée
@@ -10140,6 +10676,8 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 
 _Touché :_ 1 dégât tranchant.
 
+
+[][MonsterHD]
 
 # Faucon de sang
 - NameVO: [Blood Hawk](monsters_vo.md#blood-hawk)
@@ -10170,6 +10708,8 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Grand singe
 - NameVO: [Ape](monsters_vo.md#ape)
 - Bête de taille M, non-alignée
@@ -10199,6 +10739,8 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 _Touché :_ 6 (1d6+3) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Grenouille
 - NameVO: [Frog](monsters_vo.md#frog)
 - Bête de taille TP, non-alignée
@@ -10221,6 +10763,8 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 **_Saut sans élan._** La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
 
+
+[][MonsterHD]
 
 # Grenouille géante
 - NameVO: [Giant Frog](monsters_vo.md#giant-frog)
@@ -10255,6 +10799,8 @@ Si la grenouille meurt, une créature engloutie n'est plus [entravée] à cause 
 _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion DD 11). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la grenouille ne peut pas mordre une autre cible.
 
 
+[][MonsterHD]
+
 # Guêpe géante
 - NameVO: [Giant Wasp](monsters_vo.md#giant-wasp)
 - Bête de taille M, non-alignée
@@ -10276,6 +10822,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 
 _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
+
+[][MonsterHD]
 
 # Hibou
 - Bête de taille P, non-alignée
@@ -10302,6 +10850,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un jet de s
 
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Hibou géant
 - Bête de taille G, neutre bon
@@ -10335,6 +10885,8 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Hippocampe
 - NameVO: [Sea Horse](monsters_vo.md#sea-horse)
 - Bête de taille TP, non-alignée
@@ -10354,6 +10906,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 **_Respiration aquatique._** L'hippocampe peut respirer uniquement sous l'eau.
 
+
+[][MonsterHD]
 
 # Hippocampe géant
 - NameVO: [Giant Sea Horse](monsters_vo.md#giant-sea-horse)
@@ -10383,6 +10937,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Hyène
 - NameVO: [Hyena](monsters_vo.md#hyena)
 - Bête de taille M, non-alignée
@@ -10409,6 +10965,8 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 _Touché :_ 3 (1d6) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Hyène géante
 - NameVO: [Giant Hyena](monsters_vo.md#giant-hyena)
@@ -10437,6 +10995,8 @@ _Touché :_ 3 (1d6) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Lézard
 - NameVO: [Lizard](monsters_vo.md#lizard)
 - Bête de taille TP, non-alignée
@@ -10459,6 +11019,8 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 _Touché :_ 1 dégât perforant.
 
 
+[][MonsterHD]
+
 # Lézard géant
 - NameVO: [Giant Lizard](monsters_vo.md#giant-lizard)
 - Bête de taille G, non-alignée
@@ -10480,6 +11042,8 @@ _Touché :_ 1 dégât perforant.
 
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Lion
 - NameVO: [Lion](monsters_vo.md#lion)
@@ -10516,6 +11080,8 @@ _Touché :_ 6 (1d6+3) dégâts tranchants.
 _Touché :_ 7 (1d8+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Loup
 - NameVO: [Wolf](monsters_vo.md#wolf)
 - Bête de taille M, non-alignée
@@ -10544,6 +11110,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
+
+[][MonsterHD]
 
 # Loup arctique
 - NameVO: [Winter Wolf](monsters_vo.md#winter-wolf)
@@ -10581,6 +11149,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle 
 Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Dextérité DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Loup sanguinaire
 - NameVO: [Dire Wolf](monsters_vo.md#dire-wolf)
 - Bête de taille G, non-alignée
@@ -10609,6 +11179,8 @@ Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de De
 
 _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
+
+[][MonsterHD]
 
 # Mammouth
 - NameVO: [Mammoth](monsters_vo.md#mammoth)
@@ -10640,6 +11212,8 @@ _Touché :_ 25 (4d8+7) dégâts perforants.
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Mastiff
 - NameVO: [Mastiff](monsters_vo.md#mastiff)
 - Bête de taille M, non-alignée
@@ -10667,6 +11241,8 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée [à terre].
 
 
+[][MonsterHD]
+
 # Mille-pattes géant
 - NameVO: [Giant Centipede](monsters_vo.md#giant-centipede)
 - Bête de taille P, non-alignée
@@ -10688,6 +11264,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 
 _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
+
+[][MonsterHD]
 
 # Mule
 - NameVO: [Mule](monsters_vo.md#mule)
@@ -10716,6 +11294,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sa
 
 _Touché :_ 4 (1d4+2) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Nuée de chauve-souris
 - NameVO: [Swarm of Bats](monsters_vo.md#swarm-of-bats)
@@ -10749,6 +11329,8 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
+[][MonsterHD]
+
 # Nuée de corbeaux
 - NameVO: [Swarm of Ravens](monsters_vo.md#swarm-of-ravens)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
@@ -10777,6 +11359,8 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
+
+[][MonsterHD]
 
 # Nuée de piranhas
 - NameVO: [Swarm of Quippers](monsters_vo.md#swarm-of-quippers)
@@ -10810,6 +11394,8 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
+[][MonsterHD]
+
 # Nuée de rats
 - NameVO: [Swarm of Rats](monsters_vo.md#swarm-of-rats)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
@@ -10840,6 +11426,8 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
+[][MonsterHD]
+
 # Nuée de serpents venimeux
 - NameVO: [Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
@@ -10867,6 +11455,8 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un jet de sauvegarde de Constitution DD 10. Elle subit 14 (4d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Nuée d'insectes
 - NameVO: [Swarm of Insects](monsters_vo.md#swarm-of-insects)
@@ -10912,6 +11502,8 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 **_Nuée de guêpes._** Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
 
 
+[][MonsterHD]
+
 # Ours brun
 - NameVO: [Brown Bear](monsters_vo.md#brown-bear)
 - Bête de taille G, non-alignée
@@ -10944,6 +11536,8 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 _Touché :_ 8 (1d8+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Ours noir
 - NameVO: [Black Bear](monsters_vo.md#black-bear)
@@ -10978,6 +11572,8 @@ _Touché :_ 7 (2d4+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Ours polaire
 - NameVO: [Polar Bear](monsters_vo.md#polar-bear)
 - Bête de taille G, non-alignée
@@ -11010,6 +11606,8 @@ _Touché :_ 12 (2d6+5) dégâts tranchants.
 
 _Touché :_ 9 (1d8+5) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Panthère
 - NameVO: [Panther](monsters_vo.md#panther)
@@ -11044,6 +11642,8 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Pieuvre
 - NameVO: [Octopus](monsters_vo.md#octopus)
 - Bête de taille P, non-alignée
@@ -11076,6 +11676,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
 
+
+[][MonsterHD]
 
 # Pieuvre géante
 - NameVO: [Giant Octopus](monsters_vo.md#giant-octopus)
@@ -11112,6 +11714,8 @@ _Touché :_ 10 (2d6+3) dégâts contondants et, si la cible est une créature, e
 Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
 
 
+[][MonsterHD]
+
 # Piranha
 - NameVO: [Quipper](monsters_vo.md#quipper)
 - Bête de taille TP, non-alignée
@@ -11140,6 +11744,8 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 _Touché :_ 1 dégât perforant.
 
 
+[][MonsterHD]
+
 # Poney
 - NameVO: [Pony](monsters_vo.md#pony)
 - Bête de taille M, non-alignée
@@ -11161,6 +11767,8 @@ _Touché :_ 1 dégât perforant.
 
 _Touché :_ 7 (2d4+2) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Punaise de feu géante
 - NameVO: [Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)
@@ -11188,6 +11796,8 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 _Touché :_ 2 (1d6-1) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Rat
 - NameVO: [Rat](monsters_vo.md#rat)
 - Bête de taille TP, non-alignée
@@ -11213,6 +11823,8 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 
 _Touché :_ 1 dégât perforant.
 
+
+[][MonsterHD]
 
 # Rat géant
 - NameVO: [Giant Rat](monsters_vo.md#giant-rat)
@@ -11250,6 +11862,8 @@ Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsu
 _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points de vie, sauf par des moyens magiques, et son total maximum de points de vie diminue de 3 (1d6) toutes les 24 heures. Elle meurt si son total maximum de points de vie tombe à 0 à cause de cette maladie.
 
 
+[][MonsterHD]
+
 # Requin chasseur
 - NameVO: [Hunter Shark](monsters_vo.md#hunter-shark)
 - Bête de taille G, non-alignée
@@ -11278,6 +11892,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 _Touché :_ 13 (2d8+4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Requin de récif
 - NameVO: [Reef Shark](monsters_vo.md#reef-shark)
@@ -11308,6 +11924,8 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Requin géant
 - NameVO: [Giant Shark](monsters_vo.md#giant-shark)
 - Bête de taille TG, non-alignée
@@ -11337,6 +11955,8 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Rhinocéros
 - NameVO: [Rhinoceros](monsters_vo.md#rhinoceros)
 - Bête de taille G, non-alignée
@@ -11364,6 +11984,8 @@ Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force 
 
 _Touché :_ 14 (2d8+5) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Sanglier
 - NameVO: [Boar](monsters_vo.md#boar)
@@ -11393,6 +12015,8 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Sanglier géant
 - NameVO: [Giant Boar](monsters_vo.md#giant-boar)
 - Bête de taille G, non-alignée
@@ -11421,6 +12045,8 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Scorpion
 - NameVO: [Scorpion](monsters_vo.md#scorpion)
 - Bête de taille TP, non-alignée
@@ -11442,6 +12068,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 9. Elle subit 4 (1d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Scorpion géant
 - NameVO: [Giant Scorpion](monsters_vo.md#giant-scorpion)
@@ -11471,6 +12099,8 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de 
 _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
+[][MonsterHD]
+
 # Serpent constricteur
 - NameVO: [Constrictor Snake](monsters_vo.md#constrictor-snake)
 - Bête de taille G, non-alignée
@@ -11496,6 +12126,8 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Serpent constricteur géant
 - NameVO: [Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)
@@ -11524,6 +12156,8 @@ _Touché :_ 13 (2d8+4) dégâts contondants et la cible est [empoignée] (évasi
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Serpent venimeux
 - NameVO: [Poisonous Snake](monsters_vo.md#poisonous-snake)
 - Bête de taille TP, non-alignée
@@ -11545,6 +12179,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde de Constitution DD 10. Elle subit 5 (2d4) dégâts de poison en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
+
+[][MonsterHD]
 
 # Serpent venimeux géant
 - NameVO: [Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)
@@ -11571,6 +12207,8 @@ _Touché :_ 6 (1d4+4) dégâts perforants et la cible doit effectuer un jet de s
 Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Serpent volant
 - NameVO: [Flying Snake](monsters_vo.md#flying-snake)
 - Bête de taille TP, non-alignée
@@ -11596,6 +12234,8 @@ Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté et la m
 
 _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 
+
+[][MonsterHD]
 
 # Singe géant
 - NameVO: [Giant Ape](monsters_vo.md#giant-ape)
@@ -11625,6 +12265,8 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 
 _Touché :_ 30 (7d6+6) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Tigre
 - NameVO: [Tiger](monsters_vo.md#tiger)
@@ -11659,6 +12301,8 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 _Touché :_ 8 (1d10+3) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Tigre à dents de sabre
 - NameVO: [Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)
 - Bête de taille G, non-alignée
@@ -11692,6 +12336,8 @@ _Touché :_ 12 (2d6+5) dégâts tranchants.
 _Touché :_ 10 (1d10+5) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Vautour
 - NameVO: [Vulture](monsters_vo.md#vulture)
 - Bête de taille M, non-alignée
@@ -11720,6 +12366,8 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 
 _Touché :_ 2 (1d4) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Vautour géant
 - NameVO: [Giant Vulture](monsters_vo.md#giant-vulture)
@@ -11756,6 +12404,8 @@ _Touché :_ 7 (2d4+2) dégâts perforants.
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Worg
 - NameVO: [Worg](monsters_vo.md#worg)
 - Créature monstrueuse de taille G, Neutre Mauvais
@@ -11782,6 +12432,8 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [à terre].
 
+
+[][MonsterHD]
 
 # Acolyte
 - NameVO: [Acolyte](monsters_vo.md#acolyte)
@@ -11813,6 +12465,8 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 _Touché :_ 2 (1d4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Archimage
 - NameVO: [Archmage](monsters_vo.md#archmage)
@@ -11869,6 +12523,8 @@ L'archimage peut lancer déguisement et invisibilité à volonté et dispose des
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Assassin
 - NameVO: [Assassin](monsters_vo.md#assassin)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
@@ -11908,6 +12564,8 @@ _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un jet de s
 _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 15. Elle subit 24 (7d6) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
+[][MonsterHD]
+
 # Bandit
 - NameVO: [Bandit](monsters_vo.md#bandit)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
@@ -11934,6 +12592,8 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
+[][MonsterHD]
+
 # Berserker
 - NameVO: [Berserker](monsters_vo.md#berserker)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
@@ -11959,6 +12619,8 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 _Touché :_ 9 (1d12+3) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Capitaine bandit
 - NameVO: [Bandit Captain](monsters_vo.md#bandit-captain)
@@ -11993,6 +12655,8 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 **_Parade._** Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
+
+[][MonsterHD]
 
 # Chevalier
 - NameVO: [Knight](monsters_vo.md#knight)
@@ -12033,6 +12697,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 **_Parade._** Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon. 
 
 
+[][MonsterHD]
+
 # Druide
 - NameVO: [Druid](monsters_vo.md#druid)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
@@ -12065,6 +12731,8 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8+2) dégâts contondants avec gourdin magique.
 
+
+[][MonsterHD]
 
 # Ecclésiastique
 - NameVO: [Priest](monsters_vo.md#priest)
@@ -12105,6 +12773,8 @@ Voici ses sorts de clerc préparés :
 _Touché :_ 3 (1d6) dégâts contondants.
 
 
+[][MonsterHD]
+
 # Éclaireur
 - NameVO: [Scout](monsters_vo.md#scout)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
@@ -12137,6 +12807,8 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Espion
 - NameVO: [Spy](monsters_vo.md#spy)
@@ -12172,6 +12844,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
+
+[][MonsterHD]
 
 # Fanatique de secte
 - NameVO: [Cult Fanatic](monsters_vo.md#cult-fanatic)
@@ -12210,6 +12884,8 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Garde
 - NameVO: [Guard](monsters_vo.md#guard)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
@@ -12232,6 +12908,8 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
+
+[][MonsterHD]
 
 # Gladiateur
 - NameVO: [Gladiator](monsters_vo.md#gladiator)
@@ -12275,6 +12953,8 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
+[][MonsterHD]
+
 # Guerrier tribal
 - NameVO: [Tribal Warrior](monsters_vo.md#tribal-warrior)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
@@ -12300,6 +12980,8 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 
 _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
+
+[][MonsterHD]
 
 # Mage
 - NameVO: [Mage](monsters_vo.md#mage)
@@ -12341,6 +13023,8 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
+[][MonsterHD]
+
 # Malfrat
 - NameVO: [Thug](monsters_vo.md#thug)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
@@ -12376,6 +13060,8 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidation et de violence. Ils travaillent pour l'argent et n'éprouvent guère de scrupules.
 
 
+[][MonsterHD]
+
 # Membre de secte
 - NameVO: [Cultist](monsters_vo.md#cultist)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
@@ -12402,6 +13088,8 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
+
+[][MonsterHD]
 
 # Noble
 - NameVO: [Noble](monsters_vo.md#noble)
@@ -12430,6 +13118,8 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 **_Parade._** Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
+[][MonsterHD]
+
 # Roturier
 - NameVO: [Commoner](monsters_vo.md#commoner)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
@@ -12451,6 +13141,8 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 _Touché :_ 2 (1d4) dégâts contondants.
 
+
+[][MonsterHD]
 
 # Vétéran
 - NameVO: [Veteran](monsters_vo.md#veteran)
@@ -12729,3 +13421,6 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [vision suprême]: spells_hd.md#vision-suprême
 [vol]: spells_hd.md#vol
 [zone de vérité]: spells_hd.md#zone-de-vérité
+
+[Items]: #
+[MonsterHD]: #

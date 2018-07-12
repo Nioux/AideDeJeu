@@ -1,4 +1,8 @@
 
+[][Items]
+
+[][Condition]
+
 # États spéciaux
 
 - NameVO: [Conditions](conditions_vo.md#conditions)
@@ -12,6 +16,8 @@ Si divers effets imposent un même état à une créature, chaque effet a sa pro
 Les définitions suivantes expliquent les conséquences de chaque état spécial pour une créature ciblée.
 
 
+[][Condition]
+
 # À terre
 
 - NameVO: [Prone](conditions_vo.md#prone)
@@ -23,12 +29,16 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un avantage lors de ses attaques contre la créature. Sinon, il subit un désavantage.
 
 
+[][Condition]
+
 # Assourdi
 
 - NameVO: [Deafened](conditions_vo.md#deafened)
 
 * Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
 
+
+[][Condition]
 
 # Aveuglé
 
@@ -39,6 +49,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque contre la créature bénéficient d'un avantage. Les attaques de la créature subissent un désavantage.
 
 
+[][Condition]
+
 # Charmé
 
 - NameVO: [Charmed](conditions_vo.md#charmed)
@@ -47,6 +59,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * L'individu qui a charmé la créature bénéficie d'un avantage pour toutes les interactions sociales avec celle-ci.
 
+
+[][Condition]
 
 # Empoigné
 
@@ -59,12 +73,16 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'état se termine également si un effet emporte la créature empoignée au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort [vague tonnante](spells_hd.md#vague-tonnante).
 
 
+[][Condition]
+
 # Empoisonné
 
 - NameVO: [Poisoned](conditions_vo.md#poisoned)
 
 * Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses tests de caractéristique.
 
+
+[][Condition]
 
 # Entravé
 
@@ -77,6 +95,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature souffre d'un désavantage lors de ses jets de sauvegarde de Dextérité.
 
 
+[][Condition]
+
 # Étourdi
 
 - NameVO: [Stunned](conditions_vo.md#stunned)
@@ -87,6 +107,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Les jets d'attaque qui visent la créature se font avec un avantage.
 
+
+[][Condition]
 
 # Inconscient
 
@@ -105,6 +127,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
+[][Condition]
+
 # Invisible
 
 - NameVO: [Invisible](conditions_vo.md#invisible)
@@ -114,12 +138,16 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les attaques visant une créature invisible souffrent d'un désavantage tandis que les attaques de la créature bénéficient d'un avantage.
 
 
+[][Condition]
+
 # Neutralisé
 
 - NameVO: [Incapacitated](conditions_vo.md#incapacitated)
 
 * Une créature neutralisée est incapable d'effectuer une action ou une réaction.
 
+
+[][Condition]
 
 # Paralysé
 
@@ -133,6 +161,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
+
+[][Condition]
 
 # Pétrifié
 
@@ -151,6 +181,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est immunisée contre le poison et les maladies, mais les poisons et maladies qui l'affectent déjà ne sont pas neutralisés, leurs effets sont juste suspendus.
 
 
+[][Condition]
+
 # Terrorisé
 
 - NameVO: [Frightened](conditions_vo.md#frightened)
@@ -159,6 +191,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * La créature est incapable de se rapprocher de la source de sa frayeur de son plein gré.
 
+
+[][Condition]
 
 # Fatigue et épuisement
 
@@ -182,3 +216,6 @@ Une créature souffre des effets de son niveau d’épuisement actuel et de tous
 Un effet qui réduit l’épuisement diminue son niveau du montant indiqué dans sa description. Tous les effets d’épuisement se terminent si le niveau d’épuisement de la créature est réduit à moins de 1.
 
 Une fois terminé, un repos long réduit le niveau d’épuisement d’une créature de 1, à condition qu’elle ait eu à boire et à manger.
+
+[Items]: #
+[Condition]: #

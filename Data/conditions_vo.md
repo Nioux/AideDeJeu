@@ -1,4 +1,8 @@
 
+[][Items]
+
+[][Condition]
+
 # Conditions
 
 - NameVO: [États spéciaux](conditions_hd.md#États-spéciaux)
@@ -12,6 +16,8 @@ If multiple effects impose the same condition on a creature, each instance of th
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
 
+[][Condition]
+
 # Blinded
 
 - NameVO: [Aveuglé](conditions_hd.md#aveuglé)
@@ -20,6 +26,8 @@ The following definitions specify what happens to a creature while it is subject
 
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
+
+[][Condition]
 
 # Charmed
 
@@ -30,12 +38,16 @@ The following definitions specify what happens to a creature while it is subject
 * The charmer has advantage on any ability check to interact socially with the creature.
 
 
+[][Condition]
+
 # Deafened
 
 - NameVO: [Assourdi](conditions_hd.md#assourdi)
 
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
+
+[][Condition]
 
 # Frightened
 
@@ -45,6 +57,8 @@ The following definitions specify what happens to a creature while it is subject
 
 * The creature can't willingly move closer to the source of its fear.
 
+
+[][Condition]
 
 # Grappled
 
@@ -57,12 +71,16 @@ The following definitions specify what happens to a creature while it is subject
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunder-wave](spells_vo.md#thunderwave) spell.
 
 
+[][Condition]
+
 # Incapacitated
 
 - NameVO: [Neutralisé](conditions_hd.md#neutralisé)
 
 * An incapacitated creature can't take actions or reactions.
 
+
+[][Condition]
 
 # Invisible
 
@@ -72,6 +90,8 @@ The following definitions specify what happens to a creature while it is subject
 
 * Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
+
+[][Condition]
 
 # Paralyzed
 
@@ -85,6 +105,8 @@ The following definitions specify what happens to a creature while it is subject
 
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
+
+[][Condition]
 
 # Petrified
 
@@ -103,12 +125,16 @@ The following definitions specify what happens to a creature while it is subject
 * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 
+[][Condition]
+
 # Poisoned
 
 - NameVO: [Empoisonné](conditions_hd.md#empoisonné)
 
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
+
+[][Condition]
 
 # Prone
 
@@ -121,6 +147,8 @@ The following definitions specify what happens to a creature while it is subject
 * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 
+[][Condition]
+
 # Restrained
 
 - NameVO: [Entravé](conditions_hd.md#entravé)
@@ -132,6 +160,8 @@ The following definitions specify what happens to a creature while it is subject
 * The creature has disadvantage on Dexterity saving throws.
 
 
+[][Condition]
+
 # Stunned
 
 - NameVO: [Étourdi](conditions_hd.md#Étourdi)
@@ -142,6 +172,8 @@ The following definitions specify what happens to a creature while it is subject
 
 * Attack rolls against the creature have advantage.
 
+
+[][Condition]
 
 # Unconscious
 
@@ -157,6 +189,8 @@ The following definitions specify what happens to a creature while it is subject
 
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
+
+[][Condition]
 
 # Exhaustion
 
@@ -182,3 +216,6 @@ For example, a creature suffering level 2 exhaustion has its speed halved and ha
 An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
 
 Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
+
+[Items]: #
+[Condition]: #

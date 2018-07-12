@@ -4,9 +4,6 @@
 # Sorts (H&D)
 - NameVO: [Spells](spells_vo.md)
 
-[Items]: #
-[SpellHD]: #
-
 [][SpellHD]
 
 # Agrandir/rétrécir
@@ -8656,3 +8653,6 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 [symbole]: spells_hd.md#symbole
 [toiles d'araignées]: spells_hd.md#toile-daraignée
 [verrou magique]: spells_hd.md#verrou-magique
+
+[Items]: #
+[SpellHD]: #

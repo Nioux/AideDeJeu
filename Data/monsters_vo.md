@@ -1,4 +1,12 @@
 
+[][Items]
+
+# Monsters (SRD)
+- NameVO: [Créatures](monsters_hd.md)
+
+
+[][MonsterVO]
+
 # Aboleth
 - NameVO: [Aboleth]
 - Large aberration, lawful evil
@@ -51,6 +59,8 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 [Aboleth]: monsters_hd.md#aboleth
 
 
+[][MonsterVO]
+
 # Acolyte
 - NameVO: [Acolyte]
 - Medium humanoid (any race), any alignment
@@ -84,6 +94,8 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Acolyte]: monsters_hd.md#acolyte
 
 
+[][MonsterVO]
+
 # Eagle
 - NameVO: [Aigle]
 - Small beast, unaligned
@@ -112,6 +124,8 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 [Aigle]: monsters_hd.md#aigle
 
+
+[][MonsterVO]
 
 # Giant Eagle
 - NameVO: [Aigle géant]
@@ -148,6 +162,8 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Aigle géant]: monsters_hd.md#aigle-géant
 
 
+
+[][MonsterVO]
 
 # Androsphinx
 - NameVO: [Androsphinx]
@@ -219,6 +235,8 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [Androsphinx]: monsters_hd.md#androsphinx
 
 
+[][MonsterVO]
+
 # Ankheg
 - NameVO: [Ankheg]
 - Large monstrosity, unaligned
@@ -245,6 +263,8 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 [Ankheg]: monsters_hd.md#ankheg
 
 
+
+[][MonsterVO]
 
 # Spider
 - NameVO: [Araignée]
@@ -279,6 +299,8 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 [Araignée]: monsters_hd.md#araignée
 
 
+[][MonsterVO]
+
 # Phase Spider
 - NameVO: [Araignée de phase]
 - Large monstrosity, unaligned
@@ -311,6 +333,8 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 
 [Araignée de phase]: monsters_hd.md#araignée-de-phase
 
+
+[][MonsterVO]
 
 # Giant Spider
 - NameVO: [Araignée géante]
@@ -349,6 +373,8 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 [Araignée géante]: monsters_hd.md#araignée-géante
 
 
+[][MonsterVO]
+
 # Giant Wolf Spider
 - NameVO: [Araignée-loup géante]
 - Medium beast, unaligned
@@ -382,6 +408,8 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 [Araignée-loup géante]: monsters_hd.md#araignée-loup-géante
 
 
+[][MonsterVO]
+
 # Awakened Tree
 - NameVO: [Arbre éveillé]
 - Huge plant, unaligned
@@ -412,6 +440,8 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 [Arbre éveillé]: monsters_hd.md#arbre-éveillé
 
 
+[][MonsterVO]
+
 # Awakened Shrub
 - NameVO: [Arbuste éveillé]
 - Small plant, unaligned
@@ -441,6 +471,8 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 
 [Arbuste éveillé]: monsters_hd.md#arbuste-éveillé
 
+
+[][MonsterVO]
 
 # Archmage
 - NameVO: [Archimage]
@@ -497,6 +529,8 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Archimage]: monsters_hd.md#archimage
 
 
+[][MonsterVO]
+
 # Animated Armor
 - NameVO: [Armure animée]
 - Medium construct, unaligned
@@ -530,6 +564,8 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 
 [Armure animée]: monsters_hd.md#armure-animée
 
+
+[][MonsterVO]
 
 # Assassin
 - NameVO: [Assassin]
@@ -572,6 +608,8 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 [Assassin]: monsters_hd.md#assassin
 
 
+[][MonsterVO]
+
 # Azer
 - NameVO: [Azer]
 - Medium elemental, lawful neutral
@@ -607,6 +645,8 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 [Azer]: monsters_hd.md#azer
 
 
+[][MonsterVO]
+
 # Baboon
 - NameVO: [Babouin]
 - Small beast, unaligned
@@ -634,6 +674,8 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 
 [Babouin]: monsters_hd.md#babouin
 
+
+[][MonsterVO]
 
 # Gibbering Mouther
 - NameVO: [Babélien]
@@ -671,6 +713,8 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 
 [Babélien]: monsters_hd.md#babélien
 
+
+[][MonsterVO]
 
 # Balor
 - NameVO: [Balor]
@@ -718,6 +762,8 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 [Balor]: monsters_hd.md#balor
 
 
+[][MonsterVO]
+
 # Bandit
 - NameVO: [Bandit]
 - Medium humanoid (any race), any non-lawful alignment
@@ -745,6 +791,8 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 [Bandit]: monsters_hd.md#bandit
 
+
+[][MonsterVO]
 
 # Bandit Captain
 - NameVO: [Capitaine Bandit]
@@ -784,6 +832,8 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 
 
+[][MonsterVO]
+
 # Basilisk
 - NameVO: [Basilic]
 - Medium monstrosity, unaligned
@@ -812,6 +862,8 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 [Basilic]: monsters_hd.md#basilic
 
 
+[][MonsterVO]
+
 # Axe Beak
 - NameVO: [Bec de hache]
 - Large beast, unaligned
@@ -835,6 +887,8 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 
 [Bec de hache]: monsters_hd.md#bec-de-hache
 
+
+[][MonsterVO]
 
 # Weasel
 - NameVO: [Belette]
@@ -865,6 +919,8 @@ _Hit_: 1 piercing damage.
 [Belette]: monsters_hd.md#belette
 
 
+[][MonsterVO]
+
 # Giant Weasel
 - NameVO: [Belette géante]
 - Medium beast, unaligned
@@ -894,6 +950,8 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 [Belette géante]: monsters_hd.md#belette-géante
 
 
+[][MonsterVO]
+
 # Berserker
 - NameVO: [Berserker]
 - Medium humanoid (any race), any chaotic alignment
@@ -922,6 +980,8 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 [Berserker]: monsters_hd.md#berserker
 
 
+[][MonsterVO]
+
 # Badger
 - NameVO: [Blaireau]
 - Tiny beast, unaligned
@@ -949,6 +1009,8 @@ _Hit_: 1 piercing damage.
 
 [Blaireau]: monsters_hd.md#blaireau
 
+
+[][MonsterVO]
 
 # Giant Badger
 - NameVO: [Blaireau géant]
@@ -983,6 +1045,8 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 
 [Blaireau géant]: monsters_hd.md#blaireau-géant
 
+
+[][MonsterVO]
 
 # Ghast
 - NameVO: [Blême]
@@ -1022,6 +1086,8 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 
 
 
+[][MonsterVO]
+
 # Bulette
 - NameVO: [Bulette]
 - Large monstrosity, unaligned
@@ -1052,6 +1118,8 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 
 [Bulette]: monsters_hd.md#bulette
 
+
+[][MonsterVO]
 
 # Behir
 - NameVO: [Béhir]
@@ -1088,6 +1156,8 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 
 [Béhir]: monsters_hd.md#béhir
 
+
+[][MonsterVO]
 
 # Centaur
 - NameVO: [Centaure]
@@ -1128,6 +1198,8 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Centaure]: monsters_hd.md#centaure
 
 
+[][MonsterVO]
+
 # Jackal
 - NameVO: [Chacal]
 - Small beast, unaligned
@@ -1159,6 +1231,8 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [Chacal]: monsters_hd.md#chacal
 
 
+[][MonsterVO]
+
 # Camel
 - NameVO: [Chameau]
 - Large beast, unaligned
@@ -1182,6 +1256,8 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 [Chameau]: monsters_hd.md#chameau
 
+
+[][MonsterVO]
 
 # Cat
 - NameVO: [Chat]
@@ -1211,6 +1287,8 @@ _Hit_: 1 slashing damage.
 
 [Chat]: monsters_hd.md#chat
 
+
+[][MonsterVO]
 
 # Bat
 - NameVO: [Chauve-souris]
@@ -1242,6 +1320,8 @@ _Hit_: 1 piercing damage.
 [Chauve-souris]: monsters_hd.md#chauve-souris
 
 
+[][MonsterVO]
+
 # Giant Bat
 - NameVO: [Chauve-souris géante]
 - Large beast, unaligned
@@ -1272,6 +1352,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Chauve-souris géante]: monsters_hd.md#chauve-souris-géante
 
 
+[][MonsterVO]
+
 # Warhorse
 - NameVO: [Cheval de guerre]
 - Large beast, unaligned
@@ -1300,6 +1382,8 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Cheval de guerre]: monsters_hd.md#cheval-de-guerre
 
 
+[][MonsterVO]
+
 # Riding Horse
 - NameVO: [Cheval de selle]
 - Large beast, unaligned
@@ -1324,6 +1408,8 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Cheval de selle]: monsters_hd.md#cheval-de-selle
 
 
+[][MonsterVO]
+
 # Draft Horse
 - NameVO: [Cheval de trait]
 - Large beast, unaligned
@@ -1347,6 +1433,8 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 
 [Cheval de trait]: monsters_hd.md#cheval-de-trait
 
+
+[][MonsterVO]
 
 # Knight
 - NameVO: [Chevalier]
@@ -1389,6 +1477,8 @@ _Hit_: 5 (1d10) piercing damage.
 [Chevalier]: monsters_hd.md#chevalier
 
 
+[][MonsterVO]
+
 # Deer
 - NameVO: [Chevreuil]
 - Medium beast, unaligned
@@ -1412,6 +1502,8 @@ _Hit_: 2 (1d4) piercing damage.
 
 [Chevreuil]: monsters_hd.md#chevreuil
 
+
+[][MonsterVO]
 
 # Death Dog
 - NameVO: [Chien du trépas]
@@ -1444,6 +1536,8 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 [Chien du trépas]: monsters_hd.md#chien-du-trépas
 
 
+[][MonsterVO]
+
 # Blink Dog
 - NameVO: [Chien esquiveur]
 - Medium fey, lawful good
@@ -1474,6 +1568,8 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 
 [Chien esquiveur]: monsters_hd.md#chien-esquiveur
 
+
+[][MonsterVO]
 
 # Chimera
 - NameVO: [Chimère]
@@ -1512,6 +1608,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Chimère]: monsters_hd.md#chimère
 
 
+[][MonsterVO]
+
 # Owl
 - NameVO: [Chouette]
 - Tiny beast, unaligned
@@ -1543,6 +1641,8 @@ _Hit_: 1 slashing damage.
 [Chouette]: monsters_hd.md#chouette
 
 
+[][MonsterVO]
+
 # Giant Owl
 - NameVO: [Chouette géante]
 - Large beast, neutral
@@ -1573,6 +1673,8 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 
 [Chouette géante]: monsters_hd.md#chouette-géante
 
+
+[][MonsterVO]
 
 # Chuul
 - NameVO: [Chuul]
@@ -1611,6 +1713,8 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 [Chuul]: monsters_hd.md#chuul
 
 
+[][MonsterVO]
+
 # Goat
 - NameVO: [Chèvre]
 - Medium beast, unaligned
@@ -1640,6 +1744,8 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 [Chèvre]: monsters_hd.md#chèvre
 
+
+[][MonsterVO]
 
 # Giant Goat
 - NameVO: [Chèvre géante]
@@ -1671,6 +1777,8 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Chèvre géante]: monsters_hd.md#chèvre-géante
 
 
+[][MonsterVO]
+
 # Cockatrice
 - NameVO: [Cockatrice]
 - Small monstrosity, unaligned
@@ -1694,6 +1802,8 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 
 [Cockatrice]: monsters_hd.md#cockatrice
 
+
+[][MonsterVO]
 
 # Raven
 - NameVO: [Corbeau]
@@ -1723,6 +1833,8 @@ _Hit_: 1 piercing damage.
 
 [Corbeau]: monsters_hd.md#corbeau
 
+
+[][MonsterVO]
 
 # Couatl
 - NameVO: [Couatl]
@@ -1771,6 +1883,8 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 [Couatl]: monsters_hd.md#couatl
 
 
+[][MonsterVO]
+
 # Crab
 - NameVO: [Crabe]
 - Tiny beast, unaligned
@@ -1800,6 +1914,8 @@ _Hit_: 1 bludgeoning damage.
 [Crabe]: monsters_hd.md#crabe
 
 
+[][MonsterVO]
+
 # Giant Crab
 - NameVO: [Crabe géant]
 - Medium beast, unaligned
@@ -1828,6 +1944,8 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 
 [Crabe géant]: monsters_hd.md#crabe-géant
 
+
+[][MonsterVO]
 
 # Giant Toad
 - NameVO: [Crapaud géant]
@@ -1861,6 +1979,8 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [Crapaud géant]: monsters_hd.md#crapaud-géant
 
 
+[][MonsterVO]
+
 # Shrieker
 - NameVO: [Criard]
 - Medium plant, unaligned
@@ -1887,6 +2007,8 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 
 [Criard]: monsters_hd.md#criard
 
+
+[][MonsterVO]
 
 # Crocodile
 - NameVO: [Crocodile]
@@ -1916,6 +2038,8 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 
 [Crocodile]: monsters_hd.md#crocodile
 
+
+[][MonsterVO]
 
 # Giant Crocodile
 - NameVO: [Crocodile géant]
@@ -1953,6 +2077,8 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 
 
 
+[][MonsterVO]
+
 # Gelatinous Cube
 - NameVO: [Cube gélatineux]
 - Large ooze, unaligned
@@ -1987,6 +2113,8 @@ _Hit_: 10 (3d6) acid damage.
 
 
 
+[][MonsterVO]
+
 # Nightmare
 - NameVO: [Destrier noir]
 - Large fiend, neutral evil
@@ -2019,6 +2147,8 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
 [Destrier noir]: monsters_hd.md#destrier-noir
 
+
+[][MonsterVO]
 
 # Barbed Devil
 - NameVO: [Diable barbelé]
@@ -2067,6 +2197,8 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 [Diable barbelé]: monsters_hd.md#diable-barbelé
 
 
+[][MonsterVO]
+
 # Bearded Devil
 - NameVO: [Diable barbu]
 - Medium fiend (devil), lawful evil
@@ -2108,6 +2240,8 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 
 [Diable barbu]: monsters_hd.md#diable-barbu
 
+
+[][MonsterVO]
 
 # Horned Devil
 - NameVO: [Diable cornu]
@@ -2153,6 +2287,8 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 [Diable cornu]: monsters_hd.md#diable-cornu
 
 
+[][MonsterVO]
+
 # Chain Devil
 - NameVO: [Diable des chaînes]
 - Medium fiend (devil), lawful evil
@@ -2194,6 +2330,8 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 
 [Diable des chaînes]: monsters_hd.md#diable-des-chaînes
 
+
+[][MonsterVO]
 
 # Ice Devil
 - NameVO: [Diable gelé]
@@ -2241,6 +2379,8 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 [Diable gelé]: monsters_hd.md#diable-gelé
 
 
+[][MonsterVO]
+
 # Bone Devil
 - NameVO: [Diable osseux]
 - Large fiend (devil), lawful evil
@@ -2282,6 +2422,8 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 [Diable osseux]: monsters_hd.md#diable-osseux
 
 
+[][MonsterVO]
+
 # Imp
 - NameVO: [Diablotin]
 - Tiny fiend (devil, shapechanger), lawful evil
@@ -2319,6 +2461,8 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 
 [Diablotin]: monsters_hd.md#diablotin
 
+
+[][MonsterVO]
 
 # Pit Fiend
 - NameVO: [Diantrefosse]
@@ -2376,6 +2520,8 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 [Diantrefosse]: monsters_hd.md#diantrefosse
 
 
+[][MonsterVO]
+
 # Djinni
 - NameVO: [Djinn]
 - Large elemental, chaotic good
@@ -2418,6 +2564,8 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 [Djinn]: monsters_hd.md#djinn
 
 
+[][MonsterVO]
+
 # Doppelganger
 - NameVO: [Doppleganger]
 - Medium monstrosity (shapechanger), neutral
@@ -2455,6 +2603,8 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 
 [Doppleganger]: monsters_hd.md#doppleganger
 
+
+[][MonsterVO]
 
 # Adult White Dragon
 - NameVO: [Dragon blanc adulte]
@@ -2513,6 +2663,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon blanc adulte]: monsters_hd.md#dragon-blanc-adulte
 
 
+[][MonsterVO]
+
 # Ancient White Dragon
 - NameVO: [Dragon blanc vénérable]
 - Gargantuan dragon, chaotic evil
@@ -2570,6 +2722,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon blanc vénérable]: monsters_hd.md#dragon-blanc-vénérable
 
 
+[][MonsterVO]
+
 # Young White Dragon
 - NameVO: [Jeune dragon blanc]
 - Large dragon, chaotic evil
@@ -2609,6 +2763,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon blanc]: monsters_hd.md#jeune-dragon-blanc
 
 
+[][MonsterVO]
+
 # White Dragon Wyrmling
 - NameVO: [Dragonnet blanc]
 - Medium dragon, chaotic evil
@@ -2637,6 +2793,8 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 [Dragonnet blanc]: monsters_hd.md#dragonnet-blanc
 
+
+[][MonsterVO]
 
 # Adult Blue Dragon
 - NameVO: [Dragon bleu adulte]
@@ -2693,6 +2851,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon bleu adulte]: monsters_hd.md#dragon-bleu-adulte
 
 
+[][MonsterVO]
+
 # Ancient Blue Dragon
 - NameVO: [Dragon bleu vénérable]
 - Gargantuan dragon, lawful evil
@@ -2748,6 +2908,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon bleu vénérable]: monsters_hd.md#dragon-bleu-vénérable
 
 
+[][MonsterVO]
+
 # Young Blue Dragon
 - NameVO: [Jeune dragon bleu]
 - Large dragon, lawful evil
@@ -2783,6 +2945,8 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Jeune dragon bleu]: monsters_hd.md#jeune-dragon-bleu
 
 
+[][MonsterVO]
+
 # Blue Dragon Wyrmling
 - NameVO: [Dragonnet bleu]
 - Medium dragon, lawful evil
@@ -2811,6 +2975,8 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 [Dragonnet bleu]: monsters_hd.md#dragonnet-bleu
 
+
+[][MonsterVO]
 
 # Adult Brass Dragon
 - NameVO: [Dragon d'airain adulte]
@@ -2870,6 +3036,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 [Dragon d'airain adulte]: monsters_hd.md#dragon-dairain-adulte
 
+
+[][MonsterVO]
 
 # Ancient Brass Dragon
 - NameVO: [Dragon d'airain vénérable]
@@ -2932,6 +3100,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'airain vénérable]: monsters_hd.md#dragon-dairain-vénérable
 
 
+[][MonsterVO]
+
 # Young Brass Dragon
 - NameVO: [Jeune dragon d'airain]
 - Large dragon, chaotic good
@@ -2971,6 +3141,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon d'airain]: monsters_hd.md#jeune-dragon-dairain
 
 
+[][MonsterVO]
+
 # Brass Dragon Wyrmling
 - NameVO: [Dragonnet d'airain]
 - Medium dragon, chaotic good
@@ -3003,6 +3175,8 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 
 [Dragonnet d'airain]: monsters_hd.md#dragonnet-dairain
 
+
+[][MonsterVO]
 
 # Adult Silver Dragon
 - NameVO: [Dragon d'argent adulte]
@@ -3065,6 +3239,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'argent adulte]: monsters_hd.md#dragon-dargent-adulte
 
 
+[][MonsterVO]
+
 # Ancient Silver Dragon
 - NameVO: [Dragon d'argent vénérable]
 - Gargantuan dragon, lawful good
@@ -3126,6 +3302,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'argent vénérable]: monsters_hd.md#dragon-dargent-vénérable
 
 
+[][MonsterVO]
+
 # Young Silver Dragon
 - NameVO: [Jeune dragon d'argent]
 - Large dragon, lawful good
@@ -3165,6 +3343,8 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon d'argent]: monsters_hd.md#jeune-dragon-dargent
 
 
+[][MonsterVO]
+
 # Silver Dragon Wyrmling
 - NameVO: [Dragonnet d'argent]
 - Medium dragon, lawful good
@@ -3197,6 +3377,8 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 
 [Dragonnet d'argent]: monsters_hd.md#dragonnet-dargent
 
+
+[][MonsterVO]
 
 # Adult Gold Dragon
 - NameVO: [Dragon d'or adulte]
@@ -3261,6 +3443,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'or adulte]: monsters_hd.md#dragon-dor-adulte
 
 
+[][MonsterVO]
+
 # Ancient Gold Dragon
 - NameVO: [Dragon d'or vénérable]
 - Gargantuan dragon, lawful good
@@ -3324,6 +3508,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'or vénérable]: monsters_hd.md#dragon-dor-vénérable
 
 
+[][MonsterVO]
+
 # Young Gold Dragon
 - NameVO: [Jeune dragon d'or]
 - Large dragon, lawful good
@@ -3367,6 +3553,8 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon d'or]: monsters_hd.md#jeune-dragon-dor
 
 
+[][MonsterVO]
+
 # Gold Dragon Wyrmling
 - NameVO: [Dragonnet d'or]
 - Medium dragon, lawful good
@@ -3403,6 +3591,8 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 
 [Dragonnet d'or]: monsters_hd.md#dragonnet-dor
 
+
+[][MonsterVO]
 
 # Adult Bronze Dragon
 - NameVO: [Dragon de bronze adulte]
@@ -3467,6 +3657,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de bronze adulte]: monsters_hd.md#dragon-de-bronze-adulte
 
 
+[][MonsterVO]
+
 # Ancient Bronze Dragon
 - NameVO: [Dragon de bronze vénérable]
 - Gargantuan dragon, lawful good
@@ -3530,6 +3722,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de bronze vénérable]: monsters_hd.md#dragon-de-bronze-vénérable
 
 
+[][MonsterVO]
+
 # Young Bronze Dragon
 - NameVO: [Jeune dragon de bronze]
 - Large dragon, lawful good
@@ -3573,6 +3767,8 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Jeune dragon de bronze]: monsters_hd.md#jeune-dragon-de-bronze
 
 
+[][MonsterVO]
+
 # Bronze Dragon Wyrmling
 - NameVO: [Dragonnet de bronze]
 - Medium dragon, lawful good
@@ -3609,6 +3805,8 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 
 [Dragonnet de bronze]: monsters_hd.md#dragonnet-de-bronze
 
+
+[][MonsterVO]
 
 # Adult Copper Dragon
 - NameVO: [Dragon de cuivre adulte]
@@ -3668,6 +3866,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 [Dragon de cuivre adulte]: monsters_hd.md#dragon-de-cuivre-adulte
 
+
+[][MonsterVO]
 
 # Ancient Copper Dragon
 - NameVO: [Dragon de cuivre vénérable]
@@ -3730,6 +3930,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de cuivre vénérable]: monsters_hd.md#dragon-de-cuivre-vénérable
 
 
+[][MonsterVO]
+
 # Young Copper Dragon
 - NameVO: [Jeune dragon de cuivre]
 - Large dragon, chaotic good
@@ -3769,6 +3971,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon de cuivre]: monsters_hd.md#jeune-dragon-de-cuivre
 
 
+[][MonsterVO]
+
 # Copper Dragon Wyrmling
 - NameVO: [Dragonnet de cuivre]
 - Medium dragon, chaotic good
@@ -3801,6 +4005,8 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 
 [Dragonnet de cuivre]: monsters_hd.md#dragonnet-de-cuivre
 
+
+[][MonsterVO]
 
 # Adult Black Dragon
 - NameVO: [Dragon noir adulte]
@@ -3859,6 +4065,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon noir adulte]: monsters_hd.md#dragon-noir-adulte
 
 
+[][MonsterVO]
+
 # Ancient Black Dragon
 - NameVO: [Dragon noir vénérable]
 - Gargantuan dragon, chaotic evil
@@ -3916,6 +4124,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon noir vénérable]: monsters_hd.md#dragon-noir-vénérable
 
 
+[][MonsterVO]
+
 # Young Black Dragon
 - NameVO: [Jeune dragon noir]
 - Large dragon, chaotic evil
@@ -3955,6 +4165,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon noir]: monsters_hd.md#jeune-dragon-noir
 
 
+[][MonsterVO]
+
 # Black Dragon Wyrmling
 - NameVO: [Dragonnet noir]
 - Medium dragon, chaotic evil
@@ -3987,6 +4199,8 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
 [Dragonnet noir]: monsters_hd.md#dragonnet-noir
 
+
+[][MonsterVO]
 
 # Adult Red Dragon
 - NameVO: [Dragon rouge adulte]
@@ -4043,6 +4257,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon rouge adulte]: monsters_hd.md#dragon-rouge-adulte
 
 
+[][MonsterVO]
+
 # Ancient Red Dragon
 - NameVO: [Dragon rouge vénérable]
 - Gargantuan dragon, chaotic evil
@@ -4098,6 +4314,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon rouge vénérable]: monsters_hd.md#dragon-rouge-vénérable
 
 
+[][MonsterVO]
+
 # Young Red Dragon
 - NameVO: [Jeune dragon rouge]
 - Large dragon, chaotic evil
@@ -4133,6 +4351,8 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon rouge]: monsters_hd.md#jeune-dragon-rouge
 
 
+[][MonsterVO]
+
 # Red Dragon Wyrmling
 - NameVO: [Dragonnet rouge]
 - Medium dragon, chaotic evil
@@ -4161,6 +4381,8 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
 [Dragonnet rouge]: monsters_hd.md#dragonnet-rouge
 
+
+[][MonsterVO]
 
 # Adult Green Dragon
 - NameVO: [Dragon vert adulte]
@@ -4220,6 +4442,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon vert adulte]: monsters_hd.md#dragon-vert-adulte
 
 
+[][MonsterVO]
+
 # Ancient Green Dragon
 - NameVO: [Dragon vert vénérable]
 - Gargantuan dragon, lawful evil
@@ -4278,6 +4502,8 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon vert vénérable]: monsters_hd.md#dragon-vert-vénérable
 
 
+[][MonsterVO]
+
 # Young Green Dragon
 - NameVO: [Jeune dragon vert]
 - Large dragon, lawful evil
@@ -4318,6 +4544,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon vert]: monsters_hd.md#jeune-dragon-vert
 
 
+[][MonsterVO]
+
 # Green Dragon Wyrmling
 - NameVO: [Dragonnet vert]
 - Medium dragon, lawful evil
@@ -4351,6 +4579,8 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
 [Dragonnet vert]: monsters_hd.md#dragonnet-vert
 
+
+[][MonsterVO]
 
 # Dragon Turtle
 - NameVO: [Dragon-tortue]
@@ -4394,6 +4624,8 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 [Dragon-tortue]: monsters_hd.md#dragon-tortue
 
 
+[][MonsterVO]
+
 # Dretch
 - NameVO: [Dretch]
 - Small fiend (demon), chaotic evil
@@ -4428,6 +4660,8 @@ _Hit_: 5 (2d4) slashing damage.
 
 [Dretch]: monsters_hd.md#dretch
 
+
+[][MonsterVO]
 
 # Drider
 - NameVO: [Drider]
@@ -4480,6 +4714,8 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 [Drider]: monsters_hd.md#drider
 
 
+[][MonsterVO]
+
 # Drow
 - NameVO: [Drow]
 - Medium humanoid (elf), neutral evil
@@ -4521,6 +4757,8 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 [Drow]: monsters_hd.md#drow
 
 
+[][MonsterVO]
+
 # Druid
 - NameVO: [Druide]
 - Medium humanoid (any race), any alignment
@@ -4555,6 +4793,8 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 
 [Druide]: monsters_hd.md#druide
 
+
+[][MonsterVO]
 
 # Dryad
 - NameVO: [Dryade]
@@ -4599,6 +4839,8 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 [Dryade]: monsters_hd.md#dryade
 
 
+[][MonsterVO]
+
 # Duergar
 - NameVO: [Duergar]
 - Medium humanoid (dwarf), lawful evil
@@ -4637,6 +4879,8 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 
 [Duergar]: monsters_hd.md#duergar
 
+
+[][MonsterVO]
 
 # Deva
 - NameVO: [Déva]
@@ -4684,6 +4928,8 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 [Déva]: monsters_hd.md#déva
 
 
+[][MonsterVO]
+
 # Priest
 - NameVO: [Ecclésiastique]
 - Medium humanoid (any race), any alignment
@@ -4722,6 +4968,8 @@ _Hit_: 3 (1d6) bludgeoning damage.
 
 [Ecclésiastique]: monsters_hd.md#ecclésiastique
 
+
+[][MonsterVO]
 
 # Roper
 - NameVO: [Enlaceur]
@@ -4764,6 +5012,8 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 [Enlaceur]: monsters_hd.md#enlaceur
 
 
+[][MonsterVO]
+
 # Spy
 - NameVO: [Espion]
 - Medium humanoid (any race), any alignment
@@ -4801,6 +5051,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Espion]: monsters_hd.md#espion
 
 
+[][MonsterVO]
+
 # Sprite
 - NameVO: [Esprit follet]
 - Tiny fey, neutral good
@@ -4833,6 +5085,8 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 
 [Esprit follet]: monsters_hd.md#esprit-follet
 
+
+[][MonsterVO]
 
 # Ettercap
 - NameVO: [Ettercap]
@@ -4877,6 +5131,8 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 [Ettercap]: monsters_hd.md#ettercap
 
 
+[][MonsterVO]
+
 # Ettin
 - NameVO: [Ettin]
 - Large giant, chaotic evil
@@ -4913,6 +5169,8 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 
 [Ettin]: monsters_hd.md#ettin
 
+
+[][MonsterVO]
 
 # Cult Fanatic
 - NameVO: [Fanatique de secte]
@@ -4953,6 +5211,8 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Fanatique de secte]: monsters_hd.md#fanatique-de-secte
 
 
+[][MonsterVO]
+
 # Ghost
 - NameVO: [Fantôme]
 - Medium undead, any alignment
@@ -4992,6 +5252,8 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 [Fantôme]: monsters_hd.md#fantôme
 
 
+[][MonsterVO]
+
 # Hawk
 - NameVO: [Faucon]
 - Tiny beast, unaligned
@@ -5020,6 +5282,8 @@ _Hit_: 1 slashing damage.
 
 [Faucon]: monsters_hd.md#faucon
 
+
+[][MonsterVO]
 
 # Blood Hawk
 - NameVO: [Faucon de sang]
@@ -5051,6 +5315,8 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 [Faucon de sang]: monsters_hd.md#faucon-de-sang
 
+
+[][MonsterVO]
 
 # Will-o'-Wisp
 - NameVO: [Feu follet]
@@ -5091,6 +5357,8 @@ _Hit_: 9 (2d8) lightning damage.
 [Feu follet]: monsters_hd.md#feu-follet
 
 
+[][MonsterVO]
+
 # Guard
 - NameVO: [Garde]
 - Medium humanoid (any race), any alignment
@@ -5115,6 +5383,8 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 [Garde]: monsters_hd.md#garde
 
+
+[][MonsterVO]
 
 # Shield Guardian
 - NameVO: [Garde animé]
@@ -5156,6 +5426,8 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Garde animé]: monsters_hd.md#garde-animé
 
 
+[][MonsterVO]
+
 # Gargoyle
 - NameVO: [Gargouille]
 - Medium elemental, chaotic evil
@@ -5193,6 +5465,8 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 [Gargouille]: monsters_hd.md#gargouille
 
 
+[][MonsterVO]
+
 # Ochre Jelly
 - NameVO: [Gelée ocre]
 - Large ooze, unaligned
@@ -5229,6 +5503,8 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
 [Gelée ocre]: monsters_hd.md#gelée-ocre
 
+
+[][MonsterVO]
 
 # Glabrezu
 - NameVO: [Glabrezu]
@@ -5274,6 +5550,8 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [Glabrezu]: monsters_hd.md#glabrezu
 
 
+[][MonsterVO]
+
 # Gladiator
 - NameVO: [Gladiateur]
 - Medium humanoid (any race), any alignment
@@ -5316,6 +5594,8 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 [Gladiateur]: monsters_hd.md#gladiateur
 
 
+[][MonsterVO]
+
 # Gnoll
 - NameVO: [Gnoll]
 - Medium humanoid (gnoll), chaotic evil
@@ -5351,6 +5631,8 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 [Gnoll]: monsters_hd.md#gnoll
 
+
+[][MonsterVO]
 
 # Deep Gnome (Svirfneblin)
 - NameVO: [Gnome des profondeurs (svirfneblin)]
@@ -5393,6 +5675,8 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 [Gnome des profondeurs (svirfneblin)]: monsters_hd.md#gnome-des-profondeurs-svirfneblin
 
 
+[][MonsterVO]
+
 # Goblin
 - NameVO: [Gobelin]
 - Small humanoid (goblinoid), neutral evil
@@ -5425,6 +5709,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 [Gobelin]: monsters_hd.md#gobelin
 
+
+[][MonsterVO]
 
 # Bugbear
 - NameVO: [Gobelours]
@@ -5460,6 +5746,8 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 
 [Gobelours]: monsters_hd.md#gobelours
 
+
+[][MonsterVO]
 
 # Clay Golem
 - NameVO: [Golem d'argile]
@@ -5503,6 +5791,8 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 [Golem d'argile]: monsters_hd.md#golem-dargile
 
 
+[][MonsterVO]
+
 # Flesh Golem
 - NameVO: [Golem de chair]
 - Medium construct, neutral
@@ -5544,6 +5834,8 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 [Golem de chair]: monsters_hd.md#golem-de-chair
 
+
+[][MonsterVO]
 
 # Iron Golem
 - NameVO: [Golem de fer]
@@ -5589,6 +5881,8 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 [Golem de fer]: monsters_hd.md#golem-de-fer
 
 
+[][MonsterVO]
+
 # Stone Golem
 - NameVO: [Golem de pierre]
 - Large construct, unaligned
@@ -5627,6 +5921,8 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 [Golem de pierre]: monsters_hd.md#golem-de-pierre
 
 
+[][MonsterVO]
+
 # Gorgon
 - NameVO: [Gorgone]
 - Large monstrosity, unaligned
@@ -5663,6 +5959,8 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 [Gorgone]: monsters_hd.md#gorgone
 
 
+[][MonsterVO]
+
 # Ghoul
 - NameVO: [Goule]
 - Medium undead, chaotic evil
@@ -5692,6 +5990,8 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 
 [Goule]: monsters_hd.md#goule
 
+
+[][MonsterVO]
 
 # Ape
 - NameVO: [Grand singe]
@@ -5724,6 +6024,8 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [Grand singe]: monsters_hd.md#grand-singe
 
 
+[][MonsterVO]
+
 # Frog
 - NameVO: [Grenouille]
 - Tiny beast, unaligned
@@ -5748,6 +6050,8 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 
 [Grenouille]: monsters_hd.md#grenouille
 
+
+[][MonsterVO]
 
 # Giant Frog
 - NameVO: [Grenouille géante]
@@ -5781,6 +6085,8 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 
 [Grenouille géante]: monsters_hd.md#grenouille-géante
 
+
+[][MonsterVO]
 
 # Grick
 - NameVO: [Grick]
@@ -5817,6 +6123,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Grick]: monsters_hd.md#grick
 
 
+[][MonsterVO]
+
 # Griffon
 - NameVO: [Griffon]
 - Large monstrosity, unaligned
@@ -5852,6 +6160,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Griffon]: monsters_hd.md#griffon
 
 
+[][MonsterVO]
+
 # Sea Hag
 - NameVO: [Guenaude aquatique]
 - Medium fey, chaotic evil
@@ -5885,6 +6195,8 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 [Guenaude aquatique]: monsters_hd.md#guenaude-aquatique
 
+
+[][MonsterVO]
 
 # Night Hag
 - NameVO: [Guenaude nocturne]
@@ -5929,6 +6241,8 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [Guenaude nocturne]: monsters_hd.md#guenaude-nocturne
 
 
+[][MonsterVO]
+
 # Green Hag
 - NameVO: [Guenaude verte]
 - Medium fey, neutral evil
@@ -5968,6 +6282,8 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [Guenaude verte]: monsters_hd.md#guenaude-verte
 
 
+[][MonsterVO]
+
 # Tribal Warrior
 - NameVO: [Guerrier tribal]
 - Medium humanoid (any race), any alignment
@@ -5996,6 +6312,8 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Guerrier tribal]: monsters_hd.md#guerrier-tribal
 
 
+[][MonsterVO]
+
 # Giant Wasp
 - NameVO: [Guêpe géante]
 - Medium beast, unaligned
@@ -6019,6 +6337,8 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 
 [Guêpe géante]: monsters_hd.md#guêpe-géante
 
+
+[][MonsterVO]
 
 # Gynosphinx
 - NameVO: [Gynosphinx]
@@ -6080,6 +6400,8 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [Gynosphinx]: monsters_hd.md#gynosphinx
 
 
+[][MonsterVO]
+
 # Hill Giant
 - NameVO: [Géant des collines]
 - Huge giant, chaotic evil
@@ -6110,6 +6432,8 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 
 [Géant des collines]: monsters_hd.md#géant-des-collines
 
+
+[][MonsterVO]
 
 # Cloud Giant
 - NameVO: [Géant des nuages]
@@ -6155,6 +6479,8 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 [Géant des nuages]: monsters_hd.md#géant-des-nuages
 
 
+[][MonsterVO]
+
 # Stone Giant
 - NameVO: [Géant des pierres]
 - Huge giant, neutral
@@ -6192,6 +6518,8 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 
 [Géant des pierres]: monsters_hd.md#géant-des-pierres
 
+
+[][MonsterVO]
 
 # Storm Giant
 - NameVO: [Géant des tempêtes]
@@ -6239,6 +6567,8 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 [Géant des tempêtes]: monsters_hd.md#géant-des-tempêtes
 
 
+[][MonsterVO]
+
 # Fire Giant
 - NameVO: [Géant du feu]
 - Huge giant, lawful evil
@@ -6271,6 +6601,8 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 [Géant du feu]: monsters_hd.md#géant-du-feu
 
+
+[][MonsterVO]
 
 # Frost Giant
 - NameVO: [Géant du givre]
@@ -6305,6 +6637,8 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [Géant du givre]: monsters_hd.md#géant-du-givre
 
 
+[][MonsterVO]
+
 # Harpy
 - NameVO: [Harpie]
 - Medium monstrosity, chaotic evil
@@ -6336,6 +6670,8 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 [Harpie]: monsters_hd.md#harpie
 
+
+[][MonsterVO]
 
 # Hezrou
 - NameVO: [Hezrou]
@@ -6377,6 +6713,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Hezrou]: monsters_hd.md#hezrou
 
 
+[][MonsterVO]
+
 # Owlbear
 - NameVO: [Hibours]
 - Large monstrosity, unaligned
@@ -6412,6 +6750,8 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [Hibours]: monsters_hd.md#hibours
 
 
+[][MonsterVO]
+
 # Sea Horse
 - NameVO: [Hippocampe]
 - Tiny beast, unaligned
@@ -6433,6 +6773,8 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 
 [Hippocampe]: monsters_hd.md#hippocampe
 
+
+[][MonsterVO]
 
 # Giant Sea Horse
 - NameVO: [Hippocampe géant]
@@ -6463,6 +6805,8 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 [Hippocampe géant]: monsters_hd.md#hippocampe-géant
 
+
+[][MonsterVO]
 
 # Hippogriff
 - NameVO: [Hippogriffe]
@@ -6499,6 +6843,8 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Hippogriffe]: monsters_hd.md#hippogriffe
 
 
+[][MonsterVO]
+
 # Hobgoblin
 - NameVO: [Hobgobelin]
 - Medium humanoid (goblinoid), lawful evil
@@ -6530,6 +6876,8 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 [Hobgobelin]: monsters_hd.md#hobgobelin
 
+
+[][MonsterVO]
 
 # Lizardfolk
 - NameVO: [Homme-lézard]
@@ -6574,6 +6922,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Homme-lézard]: monsters_hd.md#homme-lézard
 
 
+[][MonsterVO]
+
 # Merfolk
 - NameVO: [Homme-poisson]
 - Medium humanoid (merfolk), neutral
@@ -6602,6 +6952,8 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 
 [Homme-poisson]: monsters_hd.md#homme-poisson
 
+
+[][MonsterVO]
 
 # Homunculus
 - NameVO: [Homoncule]
@@ -6632,6 +6984,8 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 
 [Homoncule]: monsters_hd.md#homoncule
 
+
+[][MonsterVO]
 
 # Hydra
 - NameVO: [Hydre]
@@ -6670,6 +7024,8 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 [Hydre]: monsters_hd.md#hydre
 
 
+[][MonsterVO]
+
 # Hyena
 - NameVO: [Hyène]
 - Medium beast, unaligned
@@ -6699,6 +7055,8 @@ _Hit_: 3 (1d6) piercing damage.
 [Hyène]: monsters_hd.md#hyène
 
 
+[][MonsterVO]
+
 # Giant Hyena
 - NameVO: [Hyène géante]
 - Large beast, unaligned
@@ -6727,6 +7085,8 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 
 [Hyène géante]: monsters_hd.md#hyène-géante
 
+
+[][MonsterVO]
 
 # Kobold
 - NameVO: [Kobold]
@@ -6761,6 +7121,8 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 [Kobold]: monsters_hd.md#kobold
 
+
+[][MonsterVO]
 
 # Kraken
 - NameVO: [Kraken]
@@ -6817,6 +7179,8 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 [Kraken]: monsters_hd.md#kraken
 
 
+[][MonsterVO]
+
 # Lamia
 - NameVO: [Lamie]
 - Large monstrosity, chaotic evil
@@ -6861,6 +7225,8 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 
 [Lamie]: monsters_hd.md#lamie
 
+
+[][MonsterVO]
 
 # Lich
 - NameVO: [Liche]
@@ -6933,6 +7299,8 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 [Liche]: monsters_hd.md#liche
 
 
+[][MonsterVO]
+
 # Unicorn
 - NameVO: [Licorne]
 - Large celestial, lawful good
@@ -6993,6 +7361,8 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 [Licorne]: monsters_hd.md#licorne
 
 
+[][MonsterVO]
+
 # Lion
 - NameVO: [Lion]
 - Large beast, unaligned
@@ -7032,6 +7402,8 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [Lion]: monsters_hd.md#lion
 
 
+[][MonsterVO]
+
 # Wolf
 - NameVO: [Loup]
 - Medium beast, unaligned
@@ -7062,6 +7434,8 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 
 [Loup]: monsters_hd.md#loup
 
+
+[][MonsterVO]
 
 # Winter Wolf
 - NameVO: [Loup arctique]
@@ -7099,6 +7473,8 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 [Loup arctique]: monsters_hd.md#loup-arctique
 
 
+[][MonsterVO]
+
 # Dire Wolf
 - NameVO: [Loup sanguinaire]
 - Large beast, unaligned
@@ -7129,6 +7505,8 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 
 [Loup sanguinaire]: monsters_hd.md#loup-sanguinaire
 
+
+[][MonsterVO]
 
 # Werewolf
 - NameVO: [Loup-garou]
@@ -7172,6 +7550,8 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 [Loup-garou]: monsters_hd.md#loup-garou
 
 
+[][MonsterVO]
+
 # Lemure
 - NameVO: [Lémure]
 - Medium fiend (devil), lawful evil
@@ -7205,6 +7585,8 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Lémure]: monsters_hd.md#lémure
 
 
+[][MonsterVO]
+
 # Lizard
 - NameVO: [Lézard]
 - Tiny beast, unaligned
@@ -7229,6 +7611,8 @@ _Hit_: 1 piercing damage.
 [Lézard]: monsters_hd.md#lézard
 
 
+[][MonsterVO]
+
 # Giant Lizard
 - NameVO: [Lézard géant]
 - Large beast, unaligned
@@ -7252,6 +7636,8 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 [Lézard géant]: monsters_hd.md#lézard-géant
 
+
+[][MonsterVO]
 
 # Mage
 - NameVO: [Mage]
@@ -7295,6 +7681,8 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Mage]: monsters_hd.md#mage
 
 
+[][MonsterVO]
+
 # Magmin
 - NameVO: [Magmatique]
 - Small elemental, chaotic neutral
@@ -7326,6 +7714,8 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 
 [Magmatique]: monsters_hd.md#magmatique
 
+
+[][MonsterVO]
 
 # Thug
 - NameVO: [Malfrat]
@@ -7362,6 +7752,8 @@ _Hit_: 5 (1d10) piercing damage.
 [Malfrat]: monsters_hd.md#malfrat
 
 
+[][MonsterVO]
+
 # Mammoth
 - NameVO: [Mammouth]
 - Huge beast, unaligned
@@ -7393,6 +7785,8 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 [Mammouth]: monsters_hd.md#mammouth
 
+
+[][MonsterVO]
 
 # Darkmantle
 - NameVO: [Mante obscure]
@@ -7426,6 +7820,8 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 
 [Mante obscure]: monsters_hd.md#mante-obscure
 
+
+[][MonsterVO]
 
 # Cloaker
 - NameVO: [Manteleur]
@@ -7470,6 +7866,8 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [Manteleur]: monsters_hd.md#manteleur
 
 
+[][MonsterVO]
+
 # Manticore
 - NameVO: [Manticore]
 - Large monstrosity, lawful evil
@@ -7507,6 +7905,8 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 
 [Manticore]: monsters_hd.md#manticore
 
+
+[][MonsterVO]
 
 # Marilith
 - NameVO: [Marilith]
@@ -7556,6 +7956,8 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 [Marilith]: monsters_hd.md#marilith
 
 
+[][MonsterVO]
+
 # Cultist
 - NameVO: [Membre de secte]
 - Medium humanoid (any race), any non-good alignment
@@ -7583,6 +7985,8 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 _Hit_: 4 (1d6 + 1) slashing damage.
 
 [Membre de secte]: monsters_hd.md#membre-de-secte
+
+[][MonsterVO]
 
 # Merrow
 - NameVO: [Merrow]
@@ -7622,6 +8026,8 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 [Merrow]: monsters_hd.md#merrow
 
 
+[][MonsterVO]
+
 # Giant Centipede
 - NameVO: [Mille-pattes géant]
 - Small beast, unaligned
@@ -7645,6 +8051,8 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 [Mille-pattes géant]: monsters_hd.md#mille-pattes-géant
 
+
+[][MonsterVO]
 
 # Mimic
 - NameVO: [Mimique]
@@ -7687,6 +8095,8 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 [Mimique]: monsters_hd.md#mimique
 
 
+[][MonsterVO]
+
 # Minotaur
 - NameVO: [Minotaure]
 - Large monstrosity, chaotic evil
@@ -7724,6 +8134,8 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Minotaure]: monsters_hd.md#minotaure
 
 
+[][MonsterVO]
+
 # Violet Fungus
 - NameVO: [Moisissure violette]
 - Medium plant, unaligned
@@ -7755,6 +8167,8 @@ _Hit_: 4 (1d8) necrotic damage.
 [Moisissure violette]: monsters_hd.md#moisissure-violette
 
 
+[][MonsterVO]
+
 # Mastiff
 - NameVO: [Mastiff]
 - Medium beast, unaligned
@@ -7783,6 +8197,8 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 
 [Mastiff]: monsters_hd.md#mastiff
 
+
+[][MonsterVO]
 
 # Hell Hound
 - NameVO: [Molosse infernal]
@@ -7820,6 +8236,8 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 [Molosse infernal]: monsters_hd.md#molosse-infernal
 
 
+[][MonsterVO]
+
 # Mummy
 - NameVO: [Momie]
 - Medium undead, lawful evil
@@ -7852,6 +8270,8 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 
 [Momie]: monsters_hd.md#momie
 
+
+[][MonsterVO]
 
 # Mummy Lord
 - NameVO: [Momie auguste]
@@ -7922,6 +8342,8 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 [Momie auguste]: monsters_hd.md#momie-auguste
 
 
+[][MonsterVO]
+
 # Mule
 - NameVO: [Mule]
 - Medium beast, unaligned
@@ -7951,6 +8373,8 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 [Mule]: monsters_hd.md#mule
 
+
+[][MonsterVO]
 
 # Medusa
 - NameVO: [Méduse]
@@ -7992,6 +8416,8 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 
 
+[][MonsterVO]
+
 # Ice Mephit
 - NameVO: [Méphite de glace]
 - Small elemental, neutral evil
@@ -8029,6 +8455,8 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
 [Méphite de glace]: monsters_hd.md#méphite-de-glace
 
+
+[][MonsterVO]
 
 # Magma Mephit
 - NameVO: [Méphite de magma]
@@ -8068,6 +8496,8 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 [Méphite de magma]: monsters_hd.md#méphite-de-magma
 
 
+[][MonsterVO]
+
 # Dust Mephit
 - NameVO: [Méphite de poussière]
 - Small elemental, neutral evil
@@ -8104,6 +8534,8 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Méphite de poussière]: monsters_hd.md#méphite-de-poussière
 
 
+[][MonsterVO]
+
 # Steam Mephit
 - NameVO: [Méphite de vapeur]
 - Small elemental, neutral evil
@@ -8137,6 +8569,8 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 [Méphite de vapeur]: monsters_hd.md#méphite-de-vapeur
 
+
+[][MonsterVO]
 
 # Spirit Naga
 - NameVO: [Naga corrupteur]
@@ -8182,6 +8616,8 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 
 [Naga corrupteur]: monsters_hd.md#naga-corrupteur
 
+
+[][MonsterVO]
 
 # Guardian Naga
 - NameVO: [Naga gardien]
@@ -8234,6 +8670,8 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 [Naga gardien]: monsters_hd.md#naga-gardien
 
 
+[][MonsterVO]
+
 # Nalfeshnee
 - NameVO: [Nalfeshnie]
 - Large fiend (demon), chaotic evil
@@ -8276,6 +8714,8 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 [Nalfeshnie]: monsters_hd.md#nalfeshnie
 
 
+[][MonsterVO]
+
 # Noble
 - NameVO: [Noble]
 - Medium humanoid (any race), any alignment
@@ -8304,6 +8744,8 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 [Noble]: monsters_hd.md#noble
 
+
+[][MonsterVO]
 
 # Swarm of Insects
 - NameVO: [Nuée d'insectes]
@@ -8334,6 +8776,8 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 
 [Nuée d'insectes]: monsters_hd.md#nuée-dinsectes
 
+
+[][MonsterVO]
 
 # Swarm of Bats
 - NameVO: [Nuée de chauve-souris]
@@ -8369,6 +8813,8 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 [Nuée de chauve-souris]: monsters_hd.md#nuée-de-chauve-souris
 
 
+[][MonsterVO]
+
 # Swarm of Ravens
 - NameVO: [Nuée de corbeaux]
 - Medium swarm of Tiny beasts, unaligned
@@ -8399,6 +8845,8 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 [Nuée de corbeaux]: monsters_hd.md#nuée-de-corbeaux
 
+
+[][MonsterVO]
 
 # Swarm of Quippers
 - NameVO: [Nuée de piranhas]
@@ -8434,6 +8882,8 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 [Nuée de piranhas]: monsters_hd.md#nuée-de-piranhas
 
 
+[][MonsterVO]
+
 # Swarm of Rats
 - NameVO: [Nuée de rats]
 - Medium swarm of Tiny beasts, unaligned
@@ -8466,6 +8916,8 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de rats]: monsters_hd.md#nuée-de-rats
 
 
+[][MonsterVO]
+
 # Swarm of Poisonous Snakes
 - NameVO: [Nuée de serpents venimeux]
 - Medium swarm of Tiny beasts, unaligned
@@ -8495,6 +8947,8 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 [Nuée de serpents venimeux]: monsters_hd.md#nuée-de-serpents-venimeux
 
+
+[][MonsterVO]
 
 # Wight
 - NameVO: [Nécrophage]
@@ -8538,6 +8992,8 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Nécrophage]: monsters_hd.md#nécrophage
 
 
+[][MonsterVO]
+
 # Ogre
 - NameVO: [Ogre]
 - Large giant, chaotic evil
@@ -8565,6 +9021,8 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 
 [Ogre]: monsters_hd.md#ogre
 
+
+[][MonsterVO]
 
 # Shadow
 - NameVO: [Ombre]
@@ -8602,6 +9060,8 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 
 [Ombre]: monsters_hd.md#ombre
 
+
+[][MonsterVO]
 
 # Oni
 - NameVO: [Oni]
@@ -8649,6 +9109,8 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 [Oni]: monsters_hd.md#oni
 
 
+[][MonsterVO]
+
 # Orc
 - NameVO: [Orc]
 - Medium humanoid (orc), chaotic evil
@@ -8681,6 +9143,8 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 
 [Orc]: monsters_hd.md#orc
 
+
+[][MonsterVO]
 
 # Otyugh
 - NameVO: [Otyugh]
@@ -8719,6 +9183,8 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 [Otyugh]: monsters_hd.md#otyugh
 
 
+[][MonsterVO]
+
 # Brown Bear
 - NameVO: [Ours brun]
 - Large beast, unaligned
@@ -8753,6 +9219,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 [Ours brun]: monsters_hd.md#ours-brun
 
+
+[][MonsterVO]
 
 # Black Bear
 - NameVO: [Ours noir]
@@ -8789,6 +9257,8 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 [Ours noir]: monsters_hd.md#ours-noir
 
 
+[][MonsterVO]
+
 # Polar Bear
 - NameVO: [Ours polaire]
 - Large beast, unaligned
@@ -8823,6 +9293,8 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 [Ours polaire]: monsters_hd.md#ours-polaire
 
+
+[][MonsterVO]
 
 # Werebear
 - NameVO: [Ours-garou]
@@ -8866,6 +9338,8 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 [Ours-garou]: monsters_hd.md#ours-garou
 
 
+[][MonsterVO]
+
 # Rust Monster
 - NameVO: [Oxydeur]
 - Medium monstrosity, unaligned
@@ -8897,6 +9371,8 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 [Oxydeur]: monsters_hd.md#oxydeur
 
+
+[][MonsterVO]
 
 # Panther
 - NameVO: [Panthère]
@@ -8933,6 +9409,8 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Panthère]: monsters_hd.md#panthère
 
 
+[][MonsterVO]
+
 # Octopus
 - NameVO: [Pieuvre]
 - Small beast, unaligned
@@ -8967,6 +9445,8 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 
 [Pieuvre]: monsters_hd.md#pieuvre
 
+
+[][MonsterVO]
 
 # Giant Octopus
 - NameVO: [Pieuvre géante]
@@ -9003,6 +9483,8 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 [Pieuvre géante]: monsters_hd.md#pieuvre-géante
 
 
+[][MonsterVO]
+
 # Quipper
 - NameVO: [Piranha]
 - Tiny beast, unaligned
@@ -9032,6 +9514,8 @@ _Hit_: 1 piercing damage.
 
 [Piranha]: monsters_hd.md#piranha
 
+
+[][MonsterVO]
 
 # Planetar
 - NameVO: [Planétar]
@@ -9081,6 +9565,8 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 [Planétar]: monsters_hd.md#planétar
 
 
+[][MonsterVO]
+
 # Plesiosaurus
 - NameVO: [Plésiosaure]
 - Large beast, unaligned
@@ -9110,6 +9596,8 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 [Plésiosaure]: monsters_hd.md#plésiosaure
 
 
+[][MonsterVO]
+
 # Pony
 - NameVO: [Poney]
 - Medium beast, unaligned
@@ -9133,6 +9621,8 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 [Poney]: monsters_hd.md#poney
 
+
+[][MonsterVO]
 
 # Black Pudding
 - NameVO: [Pouding noir]
@@ -9172,6 +9662,8 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 [Pouding noir]: monsters_hd.md#pouding-noir
 
 
+[][MonsterVO]
+
 # Pseudodragon
 - NameVO: [Pseudodragon]
 - Tiny dragon, neutral good
@@ -9210,6 +9702,8 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 
 
+[][MonsterVO]
+
 # Giant Fire Beetle
 - NameVO: [Punaise de feu géante]
 - Small beast, unaligned
@@ -9238,6 +9732,8 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 [Punaise de feu géante]: monsters_hd.md#punaise-de-feu-géante
 
 
+[][MonsterVO]
+
 # Pegasus
 - NameVO: [Pégase]
 - Large celestial, chaotic good
@@ -9263,6 +9759,8 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 [Pégase]: monsters_hd.md#pégase
 
+
+[][MonsterVO]
 
 # Quasit
 - NameVO: [Quasit]
@@ -9301,6 +9799,8 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 
 [Quasit]: monsters_hd.md#quasit
 
+
+[][MonsterVO]
 
 # Rakshasa
 - NameVO: [Rakshasa]
@@ -9343,6 +9843,8 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 [Rakshasa]: monsters_hd.md#rakshasa
 
 
+[][MonsterVO]
+
 # Rat
 - NameVO: [Rat]
 - Tiny beast, unaligned
@@ -9370,6 +9872,8 @@ _Hit_: 1 piercing damage.
 
 [Rat]: monsters_hd.md#rat
 
+
+[][MonsterVO]
 
 # Giant Rat
 - NameVO: [Rat géant]
@@ -9400,6 +9904,8 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 [Rat géant]: monsters_hd.md#rat-géant
 
+
+[][MonsterVO]
 
 # Wererat
 - NameVO: [Rat-garou]
@@ -9443,6 +9949,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Rat-garou]: monsters_hd.md#rat-garou
 
 
+[][MonsterVO]
+
 # Reef Shark
 - NameVO: [Requin de récif]
 - Medium beast, unaligned
@@ -9473,6 +9981,8 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 [Requin de récif]: monsters_hd.md#requin-de-récif
 
+
+[][MonsterVO]
 
 # Giant Shark
 - NameVO: [Requin géant]
@@ -9505,6 +10015,8 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 [Requin géant]: monsters_hd.md#requin-géant
 
 
+[][MonsterVO]
+
 # Hunter Shark
 - NameVO: [Requin chasseur]
 - Large beast, unaligned
@@ -9536,6 +10048,8 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Requin chasseur]: monsters_hd.md#requin-chasseur
 
 
+[][MonsterVO]
+
 # Rhinoceros
 - NameVO: [Rhinocéros]
 - Large beast, unaligned
@@ -9563,6 +10077,8 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 [Rhinocéros]: monsters_hd.md#rhinocéros
 
+
+[][MonsterVO]
 
 # Roc
 - NameVO: [Roc]
@@ -9600,6 +10116,8 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 [Roc]: monsters_hd.md#roc
 
 
+[][MonsterVO]
+
 # Commoner
 - NameVO: [Roturier]
 - Medium humanoid (any race), any alignment
@@ -9623,6 +10141,8 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 [Roturier]: monsters_hd.md#roturier
 
+
+[][MonsterVO]
 
 # Remorhaz
 - NameVO: [Remorhaz]
@@ -9654,6 +10174,8 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 
 [Remorhaz]: monsters_hd.md#remorhaz
 
+
+[][MonsterVO]
 
 # Sahuagin
 - NameVO: [Sahuagin]
@@ -9698,6 +10220,8 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Sahuagin]: monsters_hd.md#sahuagin
 
 
+[][MonsterVO]
+
 # Salamander
 - NameVO: [Salamandre]
 - Large elemental, neutral evil
@@ -9737,6 +10261,8 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 [Salamandre]: monsters_hd.md#salamandre
 
 
+[][MonsterVO]
+
 # Boar
 - NameVO: [Sanglier]
 - Medium beast, unaligned
@@ -9767,6 +10293,8 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 [Sanglier]: monsters_hd.md#sanglier
 
 
+[][MonsterVO]
+
 # Giant Boar
 - NameVO: [Sanglier géant]
 - Large beast, unaligned
@@ -9796,6 +10324,8 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 [Sanglier géant]: monsters_hd.md#sanglier-géant
 
+
+[][MonsterVO]
 
 # Wereboar
 - NameVO: [Sanglier-garou]
@@ -9837,6 +10367,8 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 [Sanglier-garou]: monsters_hd.md#sanglier-garou
 
 
+[][MonsterVO]
+
 # Satyr
 - NameVO: [Satyre]
 - Medium fey, chaotic neutral
@@ -9874,6 +10406,8 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [Satyre]: monsters_hd.md#satyre
 
 
+[][MonsterVO]
+
 # Scorpion
 - NameVO: [Scorpion]
 - Tiny beast, unaligned
@@ -9897,6 +10431,8 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 
 [Scorpion]: monsters_hd.md#scorpion
 
+
+[][MonsterVO]
 
 # Giant Scorpion
 - NameVO: [Scorpion géant]
@@ -9928,6 +10464,8 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 [Scorpion géant]: monsters_hd.md#scorpion-géant
 
 
+[][MonsterVO]
+
 # Constrictor Snake
 - NameVO: [Serpent constricteur]
 - Large beast, unaligned
@@ -9955,6 +10493,8 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 
 [Serpent constricteur]: monsters_hd.md#serpent-constricteur
 
+
+[][MonsterVO]
 
 # Giant Constrictor Snake
 - NameVO: [Serpent constricteur géant]
@@ -9985,6 +10525,8 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 [Serpent constricteur géant]: monsters_hd.md#serpent-constricteur-géant
 
 
+[][MonsterVO]
+
 # Poisonous Snake
 - NameVO: [Serpent venimeux]
 - Tiny beast, unaligned
@@ -10008,6 +10550,8 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 
 [Serpent venimeux]: monsters_hd.md#serpent-venimeux
 
+
+[][MonsterVO]
 
 # Giant Poisonous Snake
 - NameVO: [Serpent venimeux géant]
@@ -10033,6 +10577,8 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 
 [Serpent venimeux géant]: monsters_hd.md#serpent-venimeux-géant
 
+
+[][MonsterVO]
 
 # Flying Snake
 - NameVO: [Serpent volant]
@@ -10061,6 +10607,8 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 
 [Serpent volant]: monsters_hd.md#serpent-volant
 
+
+[][MonsterVO]
 
 # Giant Ape
 - NameVO: [Singe géant]
@@ -10092,6 +10640,8 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 
 [Singe géant]: monsters_hd.md#singe-géant
 
+
+[][MonsterVO]
 
 # Solar
 - NameVO: [Solar]
@@ -10158,6 +10708,8 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 [Solar]: monsters_hd.md#solar
 
 
+[][MonsterVO]
+
 # Specter
 - NameVO: [Spectre]
 - Medium undead, chaotic evil
@@ -10191,6 +10743,8 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 [Spectre]: monsters_hd.md#spectre
 
 
+[][MonsterVO]
+
 # Skeleton
 - NameVO: [Squelette]
 - Medium undead, lawful evil
@@ -10222,6 +10776,8 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Squelette]: monsters_hd.md#squelette
 
 
+[][MonsterVO]
+
 # Warhorse Skeleton
 - NameVO: [Squelette cheval de guerre]
 - Large undead, lawful evil
@@ -10248,6 +10804,8 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 [Squelette cheval de guerre]: monsters_hd.md#squelette-cheval-de-guerre
 
+
+[][MonsterVO]
 
 # Minotaur Skeleton
 - NameVO: [Squelette minotaure]
@@ -10284,6 +10842,8 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Squelette minotaure]: monsters_hd.md#squelette-minotaure
 
 
+[][MonsterVO]
+
 # Stirge
 - NameVO: [Strige]
 - Tiny beast, unaligned
@@ -10307,6 +10867,8 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 
 [Strige]: monsters_hd.md#strige
 
+
+[][MonsterVO]
 
 # Succubus
 - NameVO: [Succube/Incube]
@@ -10345,6 +10907,8 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 [Succube/Incube]: monsters_hd.md#succubeincube
 
+
+[][MonsterVO]
 
 # Treant
 - NameVO: [Sylvanien]
@@ -10386,6 +10950,8 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [Sylvanien]: monsters_hd.md#sylvanien
 
 
+[][MonsterVO]
+
 # Rug of Smothering
 - NameVO: [Tapis étrangleur]
 - Large construct, unaligned
@@ -10419,6 +10985,8 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 
 [Tapis étrangleur]: monsters_hd.md#tapis-étrangleur
 
+
+[][MonsterVO]
 
 # Tarrasque
 - NameVO: [Tarasque]
@@ -10485,6 +11053,8 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 [Tarasque]: monsters_hd.md#tarasque
 
 
+[][MonsterVO]
+
 # Shambling Mound
 - NameVO: [Tertre errant]
 - Large plant, unaligned
@@ -10521,6 +11091,8 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Tertre errant]: monsters_hd.md#tertre-errant
 
 
+[][MonsterVO]
+
 # Tiger
 - NameVO: [Tigre]
 - Large beast, unaligned
@@ -10556,6 +11128,8 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [Tigre]: monsters_hd.md#tigre
 
 
+[][MonsterVO]
+
 # Saber-Toothed Tiger
 - NameVO: [Tigre à dents de sabre]
 - Large beast, unaligned
@@ -10590,6 +11164,8 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 [Tigre à dents de sabre]: monsters_hd.md#tigre-à-dents-de-sabre
 
+
+[][MonsterVO]
 
 # Weretiger
 - NameVO: [Tigre-garou]
@@ -10639,6 +11215,8 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Tigre-garou]: monsters_hd.md#tigre-garou
 
 
+[][MonsterVO]
+
 # Grimlock
 - NameVO: [Torve]
 - Medium humanoid (grimlock), neutral evil
@@ -10672,6 +11250,8 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
 [Torve]: monsters_hd.md#torve
 
+
+[][MonsterVO]
 
 # Invisible Stalker
 - NameVO: [Traqueur invisible]
@@ -10709,6 +11289,8 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 [Traqueur invisible]: monsters_hd.md#traqueur-invisible
 
 
+[][MonsterVO]
+
 # Triceratops
 - NameVO: [Tricératops]
 - Huge beast, unaligned
@@ -10740,6 +11322,8 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 
 [Tricératops]: monsters_hd.md#tricératops
 
+
+[][MonsterVO]
 
 # Troll
 - NameVO: [Troll]
@@ -10778,6 +11362,8 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Troll]: monsters_hd.md#troll
 
 
+[][MonsterVO]
+
 # Tyrannosaurus Rex
 - NameVO: [Tyrannosaure]
 - Huge beast, unaligned
@@ -10808,6 +11394,8 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 
 [Tyrannosaure]: monsters_hd.md#tyrannosaure
 
+
+[][MonsterVO]
 
 # Vampire
 - NameVO: [Vampire]
@@ -10878,6 +11466,8 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 [Vampire]: monsters_hd.md#vampire
 
 
+[][MonsterVO]
+
 # Vampire Spawn
 - NameVO: [Vampirien]
 - Medium undead, neutral evil
@@ -10927,6 +11517,8 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 [Vampirien]: monsters_hd.md#vampirien
 
 
+[][MonsterVO]
+
 # Gray Ooze
 - NameVO: [Vase grise]
 - Medium ooze, unaligned
@@ -10964,6 +11556,8 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 [Vase grise]: monsters_hd.md#vase-grise
 
 
+[][MonsterVO]
+
 # Vulture
 - NameVO: [Vautour]
 - Medium beast, unaligned
@@ -10994,6 +11588,8 @@ _Hit_: 2 (1d4) piercing damage.
 
 [Vautour]: monsters_hd.md#vautour
 
+
+[][MonsterVO]
 
 # Giant Vulture
 - NameVO: [Vautour géant]
@@ -11032,6 +11628,8 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 [Vautour géant]: monsters_hd.md#vautour-géant
 
 
+[][MonsterVO]
+
 # Purple Worm
 - NameVO: [Ver pourpre]
 - Gargantuan monstrosity, unaligned
@@ -11067,6 +11665,8 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 [Ver pourpre]: monsters_hd.md#ver-pourpre
 
 
+[][MonsterVO]
+
 # Wyvern
 - NameVO: [Vouivre]
 - Large dragon, unaligned
@@ -11101,6 +11701,8 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 
 [Vouivre]: monsters_hd.md#vouivre
 
+
+[][MonsterVO]
 
 # Vrock
 - NameVO: [Vrock]
@@ -11146,6 +11748,8 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 [Vrock]: monsters_hd.md#vrock
 
 
+[][MonsterVO]
+
 # Veteran
 - NameVO: [Vétéran]
 - Medium humanoid (any race), any alignment
@@ -11181,6 +11785,8 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 [Vétéran]: monsters_hd.md#vétéran
 
 
+[][MonsterVO]
+
 # Worg
 - NameVO: [Worg]
 - Large monstrosity, neutral evil
@@ -11209,6 +11815,8 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 
 [Worg]: monsters_hd.md#worg
 
+
+[][MonsterVO]
 
 # Xorn
 - NameVO: [Xorn]
@@ -11251,6 +11859,8 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 
 
 
+[][MonsterVO]
+
 # Zombie
 - NameVO: [Zombi]
 - Medium undead, neutral evil
@@ -11282,6 +11892,8 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [Zombi]: monsters_hd.md#zombi
 
 
+[][MonsterVO]
+
 # Ogre Zombie
 - NameVO: [Zombi ogre]
 - Large undead, neutral evil
@@ -11312,6 +11924,8 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 [Zombi ogre]: monsters_hd.md#zombi-ogre
 
+
+[][MonsterVO]
 
 # Wraith
 - NameVO: [Âme en peine]
@@ -11348,6 +11962,8 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 [Âme en peine]: monsters_hd.md#Âme-en-peine
 
 
+[][MonsterVO]
+
 # Scout
 - NameVO: [Éclaireur]
 - Medium humanoid (any race), any alignment
@@ -11382,6 +11998,8 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 [Éclaireur]: monsters_hd.md#Éclaireur
 
+
+[][MonsterVO]
 
 # Efreeti
 - NameVO: [Éfrit]
@@ -11427,6 +12045,8 @@ _Hit_: 17 (5d6) fire damage.
 [Éfrit]: monsters_hd.md#Éfrit
 
 
+[][MonsterVO]
+
 # Elk
 - NameVO: [Élan]
 - Large beast, unaligned
@@ -11458,6 +12078,8 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 [Élan]: monsters_hd.md#Élan
 
+
+[][MonsterVO]
 
 # Giant Elk
 - NameVO: [Élan géant]
@@ -11491,6 +12113,8 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 
 [Élan géant]: monsters_hd.md#Élan-géant
 
+
+[][MonsterVO]
 
 # Air Elemental
 - NameVO: [Élémentaire de l'air]
@@ -11526,6 +12150,8 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 [Élémentaire de l'air]: monsters_hd.md#Élémentaire-de-lair
 
+
+[][MonsterVO]
 
 # Water Elemental
 - NameVO: [Élémentaire de l'eau]
@@ -11564,6 +12190,8 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Élémentaire de l'eau]: monsters_hd.md#Élémentaire-de-leau
 
 
+[][MonsterVO]
+
 # Earth Elemental
 - NameVO: [Élémentaire de la terre]
 - Large elemental, neutral
@@ -11599,6 +12227,8 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 [Élémentaire de la terre]: monsters_hd.md#Élémentaire-de-la-terre
 
+
+[][MonsterVO]
 
 # Fire Elemental
 - NameVO: [Élémentaire du feu]
@@ -11637,6 +12267,8 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 [Élémentaire du feu]: monsters_hd.md#Élémentaire-du-feu
 
 
+[][MonsterVO]
+
 # Elephant
 - NameVO: [Éléphant]
 - Huge beast, unaligned
@@ -11668,6 +12300,8 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 
 [Éléphant]: monsters_hd.md#Éléphant
 
+
+[][MonsterVO]
 
 # Killer Whale
 - NameVO: [Épaulard]
@@ -11702,6 +12336,8 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 [Épaulard]: monsters_hd.md#Épaulard
 
 
+[][MonsterVO]
+
 # Flying Sword
 - NameVO: [Épée volante]
 - Small construct, unaligned
@@ -11734,6 +12370,8 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 
 [Épée volante]: monsters_hd.md#Épée-volante
 
+
+[][MonsterVO]
 
 # Erinyes
 - NameVO: [Érinye]
@@ -11910,3 +12548,6 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [wind walk]: spells_vo.md#wind-walk
 [wish]: spells_vo.md#wish
 [zone of truth]: spells_vo.md#zone-of-truth
+
+[Items]: #
+[MonsterVO]: #
