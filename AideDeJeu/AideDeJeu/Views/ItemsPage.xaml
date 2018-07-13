@@ -13,18 +13,11 @@
     </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Resources>
         <ResourceDictionary>
-            <tools:ItemSourceTypeToStringConverter x:Key="ItemSourceTypeToTitleConverter" SpellVO="Spells" SpellHD="Sorts (H&amp;D)" MonsterVO="Monsters" MonsterHD="Créatures (H&amp;D)" />
-            <!--<tools:ItemSourceTypeToFilterConverter x:Key="ItemSourceTypeToFilterConverter" />-->
         </ResourceDictionary>
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
             <StackLayout Orientation="Vertical">
-                <!--<StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
-                    <Label Text="Listes" Style="{StaticResource Key=subsubsection}" AutomationProperties.IsInAccessibleTree="True" AutomationProperties.Name="test"/>
-                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding ItemsSources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding ItemsSourcesIndex}" />
-                </StackLayout>-->
-                <!--, Converter={StaticResource ItemSourceTypeToFilterConverter}-->
                 <ListView SelectionMode="None" ItemsSource="{Binding Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" >
                     <ListView.ItemTemplate>
                         <DataTemplate>
@@ -44,9 +37,6 @@
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
         <ContentPage Title="">
-            <!--<ContentPage.ToolbarItems>
-                        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
-                    </ContentPage.ToolbarItems>-->
             <Grid VerticalOptions="Fill" HorizontalOptions="Fill">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="auto" />

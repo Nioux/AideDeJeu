@@ -1,6 +1,8 @@
 
 [][Items]
 
+# États spéciaux
+
 [][Condition]
 
 # États spéciaux
