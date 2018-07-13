@@ -7,9 +7,9 @@
     x:Class="AideDeJeu.Views.ItemsPage" 
     x:Name="This" 
     IsPresented="False" 
-    Title="{Binding ItemSourceType,Converter={StaticResource ItemSourceTypeToTitleConverter}}">
+    Title="{Binding Title}">
     <MasterDetailPage.ToolbarItems>
-        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding AboutCommand}" />
+        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
     </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Resources>
         <ResourceDictionary>

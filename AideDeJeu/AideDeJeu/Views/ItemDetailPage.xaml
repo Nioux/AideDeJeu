@@ -9,7 +9,6 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
-            <tools:StringListToStringConverter x:Key="StringListToStringConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>

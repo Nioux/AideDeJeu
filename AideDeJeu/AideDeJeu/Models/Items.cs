@@ -29,6 +29,15 @@ namespace AideDeJeuLib
                 {
                     break;
                 }
+                else if(enumerator.Current is HeadingBlock)
+                {
+                    var headingBlock = enumerator.Current as HeadingBlock;
+                    if(headingBlock.Level == 1 && headingBlock.HeaderChar == '#')
+                    {
+                        this.Name = headingBlock.Inline.ToMarkdownString();
+
+                    }
+                }
                 enumerator.MoveNext();
             }
             while (enumerator.Current != null)

@@ -160,11 +160,14 @@ namespace AideDeJeu.ViewModels
         async Task LoadItemsAsync(CancellationToken cancellationToken = default)
         {
             IsBusy = true;
+            Main.IsLoading = true;
             try
             {
-                var filterViewModel = Filter;// Main.GetFilterViewModel(ItemSourceType);
-                var items = await filterViewModel.FilterItems(await Main.GetAllItemsAsync(ItemSourceType), cancellationToken: cancellationToken);
+                var filterViewModel = Filter;
+                var allItems = await Main.GetAllItemsAsync(ItemSourceType);
+                var items = await filterViewModel.FilterItems(allItems, cancellationToken: cancellationToken);
                 Items = items.ToList();
+                Title = (allItems as Item)?.Name;
             }
             catch (OperationCanceledException ex)
             {
@@ -172,6 +175,7 @@ namespace AideDeJeu.ViewModels
             }
             finally
             {
+                Main.IsLoading = false;
                 IsBusy = false;
             }
         }
