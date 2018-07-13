@@ -91,15 +91,45 @@ namespace AideDeJeu.ViewModels
             return _AllItems;
         }
 
+        public IEnumerable<Item> _Items = new List<Item>();
+        public IEnumerable<Item> Items
+        {
+            get
+            {
+                return _Items;
+            }
+            set
+            {
+                SetProperty(ref _Items, value);
+            }
+        }
+
+        private Item _SelectedItem;
+        public Item SelectedItem
+        {
+            get
+            {
+                return _SelectedItem;
+            }
+            set
+            {
+                SetProperty(ref _SelectedItem, value);
+                if (_SelectedItem != null)
+                {
+                    Main.GotoItemCommand.Execute(_SelectedItem);
+                }
+            }
+        }
+
+
         async Task LoadItemsAsync(CancellationToken cancellationToken = default)
         {
             IsBusy = true;
-            Main.IsLoading = true;
             try
             {
                 var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
                 var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), cancellationToken: cancellationToken);
-                Main.Items = items.ToList();
+                Items = items.ToList();
             }
             catch (OperationCanceledException ex)
             {
@@ -107,7 +137,6 @@ namespace AideDeJeu.ViewModels
             }
             finally
             {
-                Main.IsLoading = false;
                 IsBusy = false;
             }
         }

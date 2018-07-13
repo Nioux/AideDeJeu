@@ -1,5 +1,6 @@
 ﻿using AideDeJeu.Views;
 using AideDeJeuLib;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -33,13 +34,13 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new ItemDetailPage(vm));
         }
 
-        public async Task GotoItemsPageAsync(Item item)
+        public async Task GotoItemsPageAsync(ItemsViewModel itemsVM)
         {
             //if (item == null)
             //    return;
 
             //var vm = new ItemDetailViewModel(item);
-            await Navigation.PushAsync(new ItemsPage());
+            await Navigation.PushAsync(new ItemsPage(itemsVM));
         }
 
     }

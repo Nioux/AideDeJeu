@@ -4,16 +4,6 @@ using System.Xml;
 
 namespace AideDeJeuLib
 {
-    public class Property : Dictionary<string, string>
-    {
-
-    }
-
-    public class Properties : Dictionary<string, Property>
-    {
-
-    }
-
     public abstract class Item
     {
         public string Name { get; set; }
@@ -27,8 +17,6 @@ namespace AideDeJeuLib
                 return match.Groups["text"].Value;
             }
         }
-
-        //public Properties Properties { get; set; }
 
         public abstract string Markdown { get; }
         public abstract void Parse(ref Markdig.Syntax.ContainerBlock.Enumerator enumerator);

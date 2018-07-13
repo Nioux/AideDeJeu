@@ -43,11 +43,11 @@ namespace AideDeJeuCmd
                 var pipeline = new MarkdownPipelineBuilder()
                     .UsePipeTables()
                     .Build();
-                var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
+                //var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
 
-                var monsters = document.ToMonsters<MonsterHD>();
-                document.Dump();
+                var monsters = AideDeJeu.Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
+                //document.Dump();
                 Console.WriteLine("ok");
                 //var md2 = monsters.ToMarkdownString();
                 //if (md.CompareTo(md2) != 0)
@@ -64,7 +64,7 @@ namespace AideDeJeuCmd
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
-            var items = AideDeJeu.Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
+            var items = AideDeJeu.Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Spell>;
 
             var classes = new string[]
             {

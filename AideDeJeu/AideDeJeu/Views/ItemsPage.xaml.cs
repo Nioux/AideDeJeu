@@ -18,18 +18,35 @@ namespace AideDeJeu.Views
         }
         //INavig//ator Navigator;
 
-        public ItemsPage ()
+        public ItemsViewModel _ItemsViewModel;
+        public ItemsViewModel ItemsViewModel
+        {
+            get
+            {
+                return _ItemsViewModel;
+            }
+        }
+        public ItemsPage (ItemsViewModel itemsViewModel)
 		{
 			InitializeComponent ();
 
-            //DependencyService.Register<INavigator>(new Navigator((Detail as NavigationPage).Navigation));
-            
-            //Navigator = new Navigator((Detail as NavigationPage).Navigation);
-            //BindingContext = viewModel = new MainViewModel(Navigator);
-            BindingContext = Main;
+            BindingContext = _ItemsViewModel = itemsViewModel; // Main;
 
             this.SizeChanged += (o, e) => {
                 if(this.Width > 0 && this.Height > 0)
+                {
+                    this.IsPresented = this.Width > this.Height;
+                }
+            };
+        }
+        public ItemsPage()
+        {
+            InitializeComponent();
+
+            BindingContext = Main;
+
+            this.SizeChanged += (o, e) => {
+                if (this.Width > 0 && this.Height > 0)
                 {
                     this.IsPresented = this.Width > this.Height;
                 }

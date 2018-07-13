@@ -112,23 +112,6 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        private Item _SelectedItem;
-        public Item SelectedItem
-        {
-            get
-            {
-                return _SelectedItem;
-            }
-            set
-            {
-                SetProperty(ref _SelectedItem, value);
-                if (_SelectedItem != null)
-                {
-                    GotoItemCommand.Execute(_SelectedItem);
-                }
-            }
-        }
-
         public Command LoadItemsCommand { get; private set; }
         public Command<Item> GotoItemCommand { get; private set; }
 
@@ -212,7 +195,13 @@ namespace AideDeJeu.ViewModels
                 }
                 else
                 {
-                    await Navigator.GotoItemsPageAsync(null);
+                    var regex = new Regex("/(?<file>.*)\\.md");
+                    var match = regex.Match(s);
+                    var file = match.Groups["file"].Value;
+                    var itemSourceType = MDFileToItemSourceType(file);
+                    var items = GetItemsViewModel(itemSourceType);
+                    items.LoadItemsCommand.Execute(null);
+                    await Navigator.GotoItemsPageAsync(items);
                 }
             }
         }

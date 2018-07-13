@@ -51,7 +51,7 @@ namespace AideDeJeuLib
                         return;
                     }
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
-                    this.Text += MarkdownExtensions.MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
+                    this.Text += paragraphBlock.ToMarkdownString() + "\n";
                 }
                 if (block is Markdig.Syntax.ListBlock)
                 {
@@ -107,7 +107,7 @@ namespace AideDeJeuLib
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        this.Text += listBlock.BulletType + " " + MarkdownExtensions.MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
+                                        this.Text += listBlock.BulletType + " " + paragraphBlock.ToMarkdownString() + "\n";
                                     }
                                 }
                             }

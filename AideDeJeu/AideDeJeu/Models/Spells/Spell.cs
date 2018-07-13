@@ -53,7 +53,7 @@ namespace AideDeJeuLib
                     }
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
 
-                    this.DescriptionHtml += MarkdownExtensions.MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
+                    this.DescriptionHtml += paragraphBlock.ToMarkdownString() + "\n";
                     ////DumpParagraphBlock(paragraphBlock);
                     //Console.WriteLine(paragraphBlock.IsBreakable);
                     //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
@@ -126,7 +126,7 @@ namespace AideDeJeuLib
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        this.DescriptionHtml += listBlock.BulletType + " " + MarkdownExtensions.MarkdownToHtml(paragraphBlock.ToMarkdownString()) + "\n";
+                                        this.DescriptionHtml += listBlock.BulletType + " " + paragraphBlock.ToMarkdownString() + "\n";
                                     }
                                 }
                             }
