@@ -17,6 +17,7 @@ namespace AideDeJeu.ViewModels
         public ItemsViewModel(ItemSourceType itemSourceType)
         {
             this.ItemSourceType = itemSourceType;
+            Filter = Main.GetFilterViewModel(ItemSourceType);
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
         }
         public ICommand LoadItemsCommand { get; protected set; }
@@ -24,7 +25,7 @@ namespace AideDeJeu.ViewModels
         {
             await Main.Navigator.GotoItemDetailPageAsync(item);
         }
-        protected ItemSourceType ItemSourceType;
+        //protected ItemSourceType ItemSourceType;
 
 
         private IEnumerable<Item> _AllItems = null;
@@ -91,6 +92,34 @@ namespace AideDeJeu.ViewModels
             return _AllItems;
         }
 
+        private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
+        public ItemSourceType ItemSourceType
+        {
+            get
+            {
+                return _ItemSourceType;
+            }
+            set
+            {
+                SetProperty(ref _ItemSourceType, value);
+                //LoadItemsCommand.Execute(null);
+                OnPropertyChanged(nameof(Items));
+            }
+        }
+
+        private FilterViewModel _Filter;
+        public FilterViewModel Filter
+        {
+            get
+            {
+                return _Filter;
+            }
+            set
+            {
+                SetProperty(ref _Filter, value);
+            }
+        }
+
         public IEnumerable<Item> _Items = new List<Item>();
         public IEnumerable<Item> Items
         {
@@ -127,7 +156,7 @@ namespace AideDeJeu.ViewModels
             IsBusy = true;
             try
             {
-                var filterViewModel = Main.GetFilterViewModel(ItemSourceType);
+                var filterViewModel = Filter;// Main.GetFilterViewModel(ItemSourceType);
                 var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), cancellationToken: cancellationToken);
                 Items = items.ToList();
             }

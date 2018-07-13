@@ -20,11 +20,12 @@
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
             <StackLayout Orientation="Vertical">
-                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                <!--<StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
                     <Label Text="Listes" Style="{StaticResource Key=subsubsection}" AutomationProperties.IsInAccessibleTree="True" AutomationProperties.Name="test"/>
                     <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding ItemsSources, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding ItemsSourcesIndex}" />
-                </StackLayout>
-                <ListView SelectionMode="None" ItemsSource="{Binding ItemSourceType, Converter={StaticResource ItemSourceTypeToFilterConverter}}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" >
+                </StackLayout>-->
+                <!--, Converter={StaticResource ItemSourceTypeToFilterConverter}-->
+                <ListView SelectionMode="None" ItemsSource="{Binding Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" >
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>

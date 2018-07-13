@@ -59,8 +59,8 @@ namespace AideDeJeu.Views
 
             this.MasterBehavior = MasterBehavior.Popover;
 
-            if (Main.Items.Count() == 0)
-                Main.LoadItemsCommand.Execute(null);
+            //if (Main.Items.Count() == 0)
+                //Main.LoadItemsCommand.Execute(null);
         }
 
         private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)

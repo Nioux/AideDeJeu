@@ -22,21 +22,6 @@ namespace AideDeJeu.ViewModels
 
     public class MainViewModel : BaseViewModel
     {
-        private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
-        public ItemSourceType ItemSourceType
-        {
-            get
-            {
-                return _ItemSourceType;
-            }
-            set
-            {
-                SetProperty(ref _ItemSourceType, value);
-                LoadItemsCommand.Execute(null);
-                OnPropertyChanged(nameof(Items));
-            }
-        }
-
         private bool _isLoading;
         public bool IsLoading
         {
@@ -64,7 +49,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _ItemsSourcesIndex, value);
-                ItemSourceType = ItemsSources[value].Key;
+                //ItemSourceType = ItemsSources[value].Key;
             }
         }
 
@@ -126,23 +111,24 @@ namespace AideDeJeu.ViewModels
 
         public MainViewModel()
         {
-            LoadItemsCommand = new Command(async () =>
-                {
-                    await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
-                });
+            //LoadItemsCommand = new Command(async () =>
+            //    {
+            //        await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
+            //    });
             GotoItemCommand = new Command<Item>(async (item) =>
             {
-                await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item);
+                await NavigateToItem(item);
+                //await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item);
             });
-            SwitchToSpellsHD = new Command(() => ItemSourceType = ItemSourceType.SpellHD);
-            SwitchToMonstersHD = new Command(() => ItemSourceType = ItemSourceType.MonsterHD);
-            SwitchToSpellsVO = new Command(() => ItemSourceType = ItemSourceType.SpellVO);
-            SwitchToMonstersVO = new Command(() => ItemSourceType = ItemSourceType.MonsterVO);
+            //SwitchToSpellsHD = new Command(() => ItemSourceType = ItemSourceType.SpellHD);
+            //SwitchToMonstersHD = new Command(() => ItemSourceType = ItemSourceType.MonsterHD);
+            //SwitchToSpellsVO = new Command(() => ItemSourceType = ItemSourceType.SpellVO);
+            //SwitchToMonstersVO = new Command(() => ItemSourceType = ItemSourceType.MonsterVO);
             AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
             SearchCommand = new Command<string>(async (text) =>
                 {
-                    GetFilterViewModel(ItemSourceType).SearchText = text;
-                    await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
+                    //GetFilterViewModel(ItemSourceType).SearchText = text;
+                    //await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
                 });
         }
 
@@ -175,6 +161,10 @@ namespace AideDeJeu.ViewModels
             return ItemSourceType.SpellHD;
         }
 
+        public async Task NavigateToItem(Item item)
+        {
+            await Navigator.GotoItemDetailPageAsync(item);
+        }
         public async Task NavigateToLink(string s)
         {
             if (s != null)

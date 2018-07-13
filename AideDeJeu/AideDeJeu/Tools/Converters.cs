@@ -113,9 +113,9 @@ namespace AideDeJeu.Tools
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            var vm = DependencyService.Get<MainViewModel>();
+            var vm = DependencyService.Get<ItemsViewModel>();
             var itemSourceType = vm.ItemSourceType;
-            return vm.GetFilterViewModel(itemSourceType).Filters;
+            return vm.Main.GetFilterViewModel(itemSourceType).Filters;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
