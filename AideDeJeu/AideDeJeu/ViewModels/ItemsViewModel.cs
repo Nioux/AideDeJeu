@@ -28,69 +28,69 @@ namespace AideDeJeu.ViewModels
         //protected ItemSourceType ItemSourceType;
 
 
-        private IEnumerable<Item> _AllItems = null;
-        public async Task<IEnumerable<Item>> GetAllItemsAsync()
-        {
-            if (_AllItems == null)
-            {
-                string resourceName = null;
-                switch (ItemSourceType)
-                {
-                    case ItemSourceType.MonsterVO:
-                        {
-                            resourceName = "AideDeJeu.Data.monsters_vo.md";
-                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
-                            //_AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterVO>(md);
-                        }
-                        break;
-                    case ItemSourceType.MonsterHD:
-                        {
-                            resourceName = "AideDeJeu.Data.monsters_hd.md";
-                            //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
-                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
-                            //_AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterHD>(md);
-                        }
-                        break;
-                    case ItemSourceType.SpellVO:
-                        {
-                            resourceName = "AideDeJeu.Data.spells_vo.md";
-                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
-                            //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellVO>(md);
-                        }
-                        break;
-                    case ItemSourceType.SpellHD:
-                        {
-                            resourceName = "AideDeJeu.Data.spells_hd.md";
-                            //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
-                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
-                            //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
-                        }
-                        break;
-                    case ItemSourceType.ConditionVO:
-                        {
-                            resourceName = "AideDeJeu.Data.conditions_vo.md";
-                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
-                            //_AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
-                        }
-                        break;
-                    case ItemSourceType.ConditionHD:
-                        {
-                            resourceName = "AideDeJeu.Data.conditions_hd.md";
-                            //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
-                            var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
-                            //_AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
-                        }
-                        break;
-                }
-            }
-            return _AllItems;
-        }
+        //private IEnumerable<Item> _AllItems = null;
+        //public async Task<IEnumerable<Item>> GetAllItemsAsync()
+        //{
+        //    if (_AllItems == null)
+        //    {
+        //        string resourceName = null;
+        //        switch (ItemSourceType)
+        //        {
+        //            case ItemSourceType.MonsterVO:
+        //                {
+        //                    resourceName = "AideDeJeu.Data.monsters_vo.md";
+        //                    var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+        //                    _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+        //                    //_AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterVO>(md);
+        //                }
+        //                break;
+        //            case ItemSourceType.MonsterHD:
+        //                {
+        //                    resourceName = "AideDeJeu.Data.monsters_hd.md";
+        //                    //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
+        //                    var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+        //                    _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+        //                    //_AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterHD>(md);
+        //                }
+        //                break;
+        //            case ItemSourceType.SpellVO:
+        //                {
+        //                    resourceName = "AideDeJeu.Data.spells_vo.md";
+        //                    var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+        //                    _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+        //                    //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellVO>(md);
+        //                }
+        //                break;
+        //            case ItemSourceType.SpellHD:
+        //                {
+        //                    resourceName = "AideDeJeu.Data.spells_hd.md";
+        //                    //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
+        //                    var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+        //                    _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+        //                    //_AllItems = Tools.MarkdownExtensions.MarkdownToSpells<SpellHD>(md);
+        //                }
+        //                break;
+        //            case ItemSourceType.ConditionVO:
+        //                {
+        //                    resourceName = "AideDeJeu.Data.conditions_vo.md";
+        //                    var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+        //                    _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+        //                    //_AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
+        //                }
+        //                break;
+        //            case ItemSourceType.ConditionHD:
+        //                {
+        //                    resourceName = "AideDeJeu.Data.conditions_hd.md";
+        //                    //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
+        //                    var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+        //                    _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+        //                    //_AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
+        //                }
+        //                break;
+        //        }
+        //    }
+        //    return _AllItems;
+        //}
 
         private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
         public ItemSourceType ItemSourceType
@@ -157,7 +157,7 @@ namespace AideDeJeu.ViewModels
             try
             {
                 var filterViewModel = Filter;// Main.GetFilterViewModel(ItemSourceType);
-                var items = await filterViewModel.FilterItems(await GetAllItemsAsync(), cancellationToken: cancellationToken);
+                var items = await filterViewModel.FilterItems(await Main.GetAllItemsAsync(ItemSourceType), cancellationToken: cancellationToken);
                 Items = items.ToList();
             }
             catch (OperationCanceledException ex)

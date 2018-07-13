@@ -29,6 +29,54 @@ namespace AideDeJeu.ViewModels
             set => SetProperty(ref _isLoading, value);
         }
 
+        private Dictionary<ItemSourceType, IEnumerable<Item>> _AllItems = new Dictionary<ItemSourceType, IEnumerable<Item>>();
+        public async Task<IEnumerable<Item>> GetAllItemsAsync(ItemSourceType itemSourceType)
+        {
+            if (!_AllItems.ContainsKey(itemSourceType))
+            {
+                string resourceName = null;
+                switch (itemSourceType)
+                {
+                    case ItemSourceType.MonsterVO:
+                        {
+                            resourceName = "monsters_vo";
+                        }
+                        break;
+                    case ItemSourceType.MonsterHD:
+                        {
+                            resourceName = "monsters_hd";
+                        }
+                        break;
+                    case ItemSourceType.SpellVO:
+                        {
+                            resourceName = "spells_vo";
+                        }
+                        break;
+                    case ItemSourceType.SpellHD:
+                        {
+                            resourceName = "spells_hd";
+                        }
+                        break;
+                    case ItemSourceType.ConditionVO:
+                        {
+                            resourceName = "conditions_vo";
+                        }
+                        break;
+                    case ItemSourceType.ConditionHD:
+                        {
+                            resourceName = "conditions_hd";
+                        }
+                        break;
+                }
+                //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{resourceName}.md");
+                var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{resourceName}.md");
+                _AllItems[itemSourceType] = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+            }
+            return _AllItems[itemSourceType];
+        }
+
+
+
         public List<KeyValuePair<ItemSourceType, string>> ItemsSources { get; set; } = new List<KeyValuePair<ItemSourceType, string>>()
         {
             new KeyValuePair<ItemSourceType, string>(ItemSourceType.SpellHD, "Sorts (H&D)"),
@@ -117,7 +165,7 @@ namespace AideDeJeu.ViewModels
             //    });
             GotoItemCommand = new Command<Item>(async (item) =>
             {
-                await NavigateToItem(item);
+                await Navigator.GotoItemDetailPageAsync(item);
                 //await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item);
             });
             //SwitchToSpellsHD = new Command(() => ItemSourceType = ItemSourceType.SpellHD);
@@ -161,10 +209,6 @@ namespace AideDeJeu.ViewModels
             return ItemSourceType.SpellHD;
         }
 
-        public async Task NavigateToItem(Item item)
-        {
-            await Navigator.GotoItemDetailPageAsync(item);
-        }
         public async Task NavigateToLink(string s)
         {
             if (s != null)
@@ -176,7 +220,7 @@ namespace AideDeJeu.ViewModels
                     var file = match.Groups["file"].Value;
                     var anchor = match.Groups["anchor"].Value;
                     var itemSourceType = MDFileToItemSourceType(file);
-                    var spells = await GetItemsViewModel(itemSourceType).GetAllItemsAsync();
+                    var spells = await GetAllItemsAsync(itemSourceType);
                     var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (spell != null)
                     {
