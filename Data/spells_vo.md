@@ -2,13 +2,13 @@
 [][Items]
 
 # Spells (SRD)
-- NameVO: [Sorts (H&D)](spells_hd.md)
+- AltName: [Sorts (H&D)](spells_hd.md)
 
 
 [][SpellVO]
 
 # Acid Splash
-- NameVO: [Aspersion acide]
+- AltName: [Aspersion acide]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -29,7 +29,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 [][SpellVO]
 
 # Aid
-- NameVO: [Aide]
+- AltName: [Aide]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny strip of white cloth)
 - Duration: 8 hours
@@ -50,7 +50,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 [][SpellVO]
 
 # Alarm
-- NameVO: [Alarme]
+- AltName: [Alarme]
 - CastingTime: 1 minute
 - Components: V, S, M (a tiny bell and a piece of fine silver wire)
 - Duration: 8 hours
@@ -71,7 +71,7 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 [][SpellVO]
 
 # Alter Self
-- NameVO: [Modifier son apparence]
+- AltName: [Modifier son apparence]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -96,7 +96,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 [][SpellVO]
 
 # Animal Friendship
-- NameVO: [Amitié avec les animaux]
+- AltName: [Amitié avec les animaux]
 - CastingTime: 1 action
 - Components: V, S, M (a morsel of food)
 - Duration: 24 hours
@@ -117,7 +117,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 [][SpellVO]
 
 # Animal Messenger
-- NameVO: [Messager animal]
+- AltName: [Messager animal]
 - CastingTime: 1 action
 - Components: V, S, M (a morsel of food)
 - Duration: 24 hours
@@ -140,7 +140,7 @@ When the messenger arrives, it delivers your message to the creature that you de
 [][SpellVO]
 
 # Animal Shapes
-- NameVO: [Formes animales]
+- AltName: [Formes animales]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 24 hours
@@ -163,7 +163,7 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 [][SpellVO]
 
 # Animate Dead
-- NameVO: [Animation des morts]
+- AltName: [Animation des morts]
 - CastingTime: 1 minute
 - Components: V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 - Duration: Instantaneous
@@ -188,7 +188,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 [][SpellVO]
 
 # Animate Objects
-- NameVO: [Animation des objets]
+- AltName: [Animation des objets]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -223,7 +223,7 @@ If you command an object to attack, it can make a single melee attack against a 
 [][SpellVO]
 
 # Antilife Shell
-- NameVO: [Coquille antivie]
+- AltName: [Coquille antivie]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -246,7 +246,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 [][SpellVO]
 
 # Antimagic Field
-- NameVO: [Champ antimagie]
+- AltName: [Champ antimagie]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of powdered iron or iron filings)
 - Duration: Concentration, up to 1 hour
@@ -283,7 +283,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 [][SpellVO]
 
 # Antipathy/Sympathy
-- NameVO: [Répulsion/attirance]
+- AltName: [Répulsion/attirance]
 - CastingTime: 1 hour
 - Components: V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
 - Duration: 10 days
@@ -312,7 +312,7 @@ A creature that successfully saves against this effect is immune to it for 1 min
 [][SpellVO]
 
 # Arcane Eye
-- NameVO: [Oeil magique]
+- AltName: [Oeil magique]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of bat fur)
 - Duration: Concentration, up to 1 hour
@@ -335,7 +335,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 [][SpellVO]
 
 # Arcane Lock
-- NameVO: [Verrou magique]
+- AltName: [Verrou magique]
 - CastingTime: 1 action
 - Components: V, S, M (gold dust worth at least 25 gp, which the spell consumes)
 - Duration: Until dispelled
@@ -356,7 +356,7 @@ While affected by this spell, the object is more difficult to break or force ope
 [][SpellVO]
 
 # Astral Projection
-- NameVO: [Projection astrale]
+- AltName: [Projection astrale]
 - CastingTime: 1 hour
 - Components: V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
 - Duration: Special
@@ -385,7 +385,7 @@ If you are returned to your body prematurely, your companions remain in their as
 [][SpellVO]
 
 # Augury
-- NameVO: [Augure]
+- AltName: [Augure]
 - CastingTime: 1 minute
 - Components: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
 - Duration: Instantaneous
@@ -416,7 +416,7 @@ If you cast the spell two or more times before completing your next long rest, t
 [][SpellVO]
 
 # Awaken
-- NameVO: [Éveil]
+- AltName: [Éveil]
 - CastingTime: 8 hours
 - Components: V, S, M (an agate worth at least 1,000 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -437,7 +437,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 [][SpellVO]
 
 # Bane
-- NameVO: [Fléau]
+- AltName: [Fléau]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of blood)
 - Duration: Concentration, up to 1 minute
@@ -458,7 +458,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 [][SpellVO]
 
 # Banishment
-- NameVO: [Bannissement]
+- AltName: [Bannissement]
 - CastingTime: 1 action
 - Components: V, S, M (an item distasteful to the target)
 - Duration: Concentration, up to 1 minute
@@ -483,7 +483,7 @@ If the target is native to a different plane of existence than the one you're on
 [][SpellVO]
 
 # Barkskin
-- NameVO: [Peau d'écorce]
+- AltName: [Peau d'écorce]
 - CastingTime: 1 action
 - Components: V, S, M (a handful of oak bark)
 - Duration: Concentration, up to 1 hour
@@ -502,7 +502,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 [][SpellVO]
 
 # Beacon of Hope
-- NameVO: [Lueur d'espoir]
+- AltName: [Lueur d'espoir]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -521,7 +521,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 [][SpellVO]
 
 # Bestow curse
-- NameVO: [Jeter une malédiction]
+- AltName: [Jeter une malédiction]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -552,7 +552,7 @@ A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an
 [][SpellVO]
 
 # Bigby's Hand
-- NameVO: [Main magique]
+- AltName: [Main magique]
 - CastingTime: 1 action
 - Components: V, S, M (an eggshell and a snakeskin glove)
 - Duration: Concentration, up to 1 minute
@@ -585,7 +585,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 [][SpellVO]
 
 # Blade Barrier
-- NameVO: [Barrière de lames]
+- AltName: [Barrière de lames]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -606,7 +606,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 [][SpellVO]
 
 # Bless
-- NameVO: [Bénédiction]
+- AltName: [Bénédiction]
 - CastingTime: 1 action
 - Components: V, S, M (a sprinkling of holy water)
 - Duration: Concentration, up to 1 minute
@@ -627,7 +627,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 [][SpellVO]
 
 # Blight
-- NameVO: [Flétrissement]
+- AltName: [Flétrissement]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -650,7 +650,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 [][SpellVO]
 
 # Blindness/Deafness
-- NameVO: [Cécité/Surdité]
+- AltName: [Cécité/Surdité]
 - CastingTime: 1 action
 - Components: V
 - Duration: 1 minute
@@ -671,7 +671,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 [][SpellVO]
 
 # Blink
-- NameVO: [Clignotement]
+- AltName: [Clignotement]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -692,7 +692,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 [][SpellVO]
 
 # Blur
-- NameVO: [Flou]
+- AltName: [Flou]
 - CastingTime: 1 action
 - Components: V
 - Duration: Concentration, up to 1 minute
@@ -711,7 +711,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 [][SpellVO]
 
 # Branding Smite
-- NameVO: [Frappe lumineuse]
+- AltName: [Frappe lumineuse]
 - CastingTime: 1 bonus action
 - Components: V
 - Duration: Concentration, up to 1 minute
@@ -732,7 +732,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 [][SpellVO]
 
 # Burning Hands
-- NameVO: [Mains brûlantes]
+- AltName: [Mains brûlantes]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -755,7 +755,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 [][SpellVO]
 
 # Call Lightning
-- NameVO: [Appel de la foudre]
+- AltName: [Appel de la foudre]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -780,7 +780,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 [][SpellVO]
 
 # Calm Emotions
-- NameVO: [Apaisement des émotions]
+- AltName: [Apaisement des émotions]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -803,7 +803,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 [][SpellVO]
 
 # Chain Lightning
-- NameVO: [Chaîne d'éclairs]
+- AltName: [Chaîne d'éclairs]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)
 - Duration: Instantaneous
@@ -826,7 +826,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 [][SpellVO]
 
 # Charm Person
-- NameVO: [Charme-personne]
+- AltName: [Charme-personne]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 hour
@@ -847,7 +847,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 [][SpellVO]
 
 # Chill Touch
-- NameVO: [Contact glacial]
+- AltName: [Contact glacial]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 round
@@ -868,7 +868,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 [][SpellVO]
 
 # Circle of Death
-- NameVO: [Cercle de mort]
+- AltName: [Cercle de mort]
 - CastingTime: 1 action
 - Components: V, S, M (the powder of a crushed black pearl worth at least 500 gp)
 - Duration: Instantaneous
@@ -889,7 +889,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 [][SpellVO]
 
 # Clairvoyance
-- NameVO: [Clairvoyance]
+- AltName: [Clairvoyance]
 - CastingTime: 10 minutes
 - Components: V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 - Duration: Concentration, up to 10 minutes
@@ -912,7 +912,7 @@ A creature that can see the sensor (such as a creature benefiting from _see invi
 [][SpellVO]
 
 # Clone
-- NameVO: [Clone]
+- AltName: [Clone]
 - CastingTime: 1 hour
 - Components: V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
 - Duration: Instantaneous
@@ -935,7 +935,7 @@ The clone is physically identical to the original and has the same personality, 
 [][SpellVO]
 
 # Cloudkill
-- NameVO: [Nuage mortel]
+- AltName: [Nuage mortel]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -960,7 +960,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 [][SpellVO]
 
 # Color Spray
-- NameVO: [Couleurs dansantes]
+- AltName: [Couleurs dansantes]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
 - Duration: 1 round
@@ -983,7 +983,7 @@ Starting with the creature that has the lowest current hit points, each creature
 [][SpellVO]
 
 # Command
-- NameVO: [Injonction]
+- AltName: [Injonction]
 - CastingTime: 1 action
 - Components: V
 - Duration: 1 round
@@ -1016,7 +1016,7 @@ Some typical commands and their effects follow. You might issue a command other 
 [][SpellVO]
 
 # Commune
-- NameVO: [Communion]
+- AltName: [Communion]
 - CastingTime: 1 minute
 - Components: V, S, M (incense and a vial of holy or unholy water)
 - Duration: 1 minute
@@ -1039,7 +1039,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 [][SpellVO]
 
 # Commune with Nature
-- NameVO: [Communion avec la nature]
+- AltName: [Communion avec la nature]
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: Instantaneous
@@ -1072,7 +1072,7 @@ For example, you could determine the location of powerful undead in the area, th
 [][SpellVO]
 
 # Comprehend Languages
-- NameVO: [Compréhension des langues]
+- AltName: [Compréhension des langues]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of soot and salt)
 - Duration: 1 hour
@@ -1093,7 +1093,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 [][SpellVO]
 
 # Compulsion
-- NameVO: [Compulsion]
+- AltName: [Compulsion]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -1114,7 +1114,7 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 [][SpellVO]
 
 # Cone of Cold
-- NameVO: [Cône de froid]
+- AltName: [Cône de froid]
 - CastingTime: 1 action
 - Components: V, S, M (a small crystal or glass cone)
 - Duration: Instantaneous
@@ -1137,7 +1137,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 [][SpellVO]
 
 # Confusion
-- NameVO: [Confusion]
+- AltName: [Confusion]
 - CastingTime: 1 action
 - Components: V, S, M (three nut shells)
 - Duration: Concentration, up to 1 minute
@@ -1169,7 +1169,7 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 [][SpellVO]
 
 # Conjure Animals
-- NameVO: [Invoquer des animaux]
+- AltName: [Invoquer des animaux]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -1200,7 +1200,7 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
 [][SpellVO]
 
 # Conjure Celestial
-- NameVO: [Invoquer un céleste]
+- AltName: [Invoquer un céleste]
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -1225,7 +1225,7 @@ The DM has the celestial's statistics.
 [][SpellVO]
 
 # Conjure Elemental
-- NameVO: [Invoquer un élémentaire]
+- AltName: [Invoquer un élémentaire]
 - CastingTime: 1 minute
 - Components: V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)
 - Duration: Concentration, up to 1 hour
@@ -1248,7 +1248,7 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 [][SpellVO]
 
 # Conjure Fey
-- NameVO: [Invoquer une fée]
+- AltName: [Invoquer une fée]
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -1275,7 +1275,7 @@ The DM has the fey creature's statistics.
 [][SpellVO]
 
 # Conjure Minor Elementals
-- NameVO: [Invoquer des élémentaires mineurs]
+- AltName: [Invoquer des élémentaires mineurs]
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -1310,7 +1310,7 @@ The DM has the creatures' statistics.
 [][SpellVO]
 
 # Conjure Woodland Beings
-- NameVO: [Invoquer des êtres des bois]
+- AltName: [Invoquer des êtres des bois]
 - CastingTime: 1 action
 - Components: V, S, M (one holly berry per creature summoned)
 - Duration: Concentration, up to 1 hour
@@ -1345,7 +1345,7 @@ The DM has the creatures' statistics.
 [][SpellVO]
 
 # Contact Other Plane
-- NameVO: [Contacter un autre plan]
+- AltName: [Contacter un autre plan]
 - CastingTime: 1 minute
 - Components: V
 - Duration: 1 minute
@@ -1366,7 +1366,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 [][SpellVO]
 
 # Contagion
-- NameVO: [Contagion]
+- AltName: [Contagion]
 - CastingTime: 1 action
 - Components: 
 - Duration: 7 days
@@ -1403,7 +1403,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 [][SpellVO]
 
 # Contingency
-- NameVO: [Contingence]
+- AltName: [Contingence]
 - CastingTime: 10 minutes
 - Components: V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
 - Duration: 10 days
@@ -1426,7 +1426,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 [][SpellVO]
 
 # Continual Flame
-- NameVO: [Flamme éternelle]
+- AltName: [Flamme éternelle]
 - CastingTime: 1 action
 - Components: V, S, M (ruby dust worth 50 gp, which the spell consumes)
 - Duration: Until dispelled
@@ -1445,7 +1445,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 [][SpellVO]
 
 # Control Water
-- NameVO: [Contrôle de l'eau]
+- AltName: [Contrôle de l'eau]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of water and a pinch of dust)
 - Duration: Concentration, up to 10 minutes
@@ -1476,7 +1476,7 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 [][SpellVO]
 
 # Control Weather
-- NameVO: [Contrôle du climat]
+- AltName: [Contrôle du climat]
 - CastingTime: 10 minutes
 - Components: V, S, M (burning incense and bits of earth and wood mixed in water)
 - Duration: Concentration, up to 8 hours
@@ -1529,7 +1529,7 @@ Wind
 [][SpellVO]
 
 # Counterspell
-- NameVO: [Contresort]
+- AltName: [Contresort]
 - CastingTime: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 - Components: S
 - Duration: Instantaneous
@@ -1550,7 +1550,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 [][SpellVO]
 
 # Create Food and Water
-- NameVO: [Création de nourriture et d'eau]
+- AltName: [Création de nourriture et d'eau]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -1569,7 +1569,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 [][SpellVO]
 
 # Create or Destroy Water
-- NameVO: [Création ou destruction d'eau]
+- AltName: [Création ou destruction d'eau]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
 - Duration: Instantaneous
@@ -1594,7 +1594,7 @@ You either create or destroy water.
 [][SpellVO]
 
 # Create Undead
-- NameVO: [Création de mort-vivant]
+- AltName: [Création de mort-vivant]
 - CastingTime: 1 minute
 - Components: V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
 - Duration: Instantaneous
@@ -1619,7 +1619,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 [][SpellVO]
 
 # Creation
-- NameVO: [Création]
+- AltName: [Création]
 - CastingTime: 1 minute
 - Components: V, S, M (a tiny piece of matter of the same type of the item you plan to create)
 - Duration: Special
@@ -1652,7 +1652,7 @@ Using any material created by this spell as another spell's material component c
 [][SpellVO]
 
 # Cure Wounds
-- NameVO: [Soin des blessures]
+- AltName: [Soin des blessures]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -1673,7 +1673,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 [][SpellVO]
 
 # Dancing Lights
-- NameVO: [Lumières dansantes]
+- AltName: [Lumières dansantes]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of phosphorus or wychwood, or a glowworm)
 - Duration: Concentration, up to 1 minute
@@ -1694,7 +1694,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 [][SpellVO]
 
 # Darkness
-- NameVO: [Ténèbres]
+- AltName: [Ténèbres]
 - CastingTime: 1 action
 - Components: V, M (bat fur and a drop of pitch or piece of coal)
 - Duration: Concentration, up to 10 minutes
@@ -1717,7 +1717,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 [][SpellVO]
 
 # Darkvision
-- NameVO: [Vision dans le noir]
+- AltName: [Vision dans le noir]
 - CastingTime: 1 action
 - Components: V, S, M (either a pinch of dried carrot or an agate)
 - Duration: 8 hours
@@ -1736,7 +1736,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 [][SpellVO]
 
 # Daylight
-- NameVO: [Lumière du jour]
+- AltName: [Lumière du jour]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 hour
@@ -1759,7 +1759,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 [][SpellVO]
 
 # Death Ward
-- NameVO: [Protection contre la mort]
+- AltName: [Protection contre la mort]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 8 hours
@@ -1782,7 +1782,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 [][SpellVO]
 
 # Delayed Blast Fireball
-- NameVO: [Boule de feu à explosion retardée]
+- AltName: [Boule de feu à explosion retardée]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny ball of bat guano and sulfur)
 - Duration: Concentration, up to 1 minute
@@ -1809,7 +1809,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 [][SpellVO]
 
 # Demiplane
-- NameVO: [Demi-plan]
+- AltName: [Demi-plan]
 - CastingTime: 1 action
 - Components: S
 - Duration: 1 hour
@@ -1830,7 +1830,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 [][SpellVO]
 
 # Detect Evil and Good
-- NameVO: [Détection du mal et du bien]
+- AltName: [Détection du mal et du bien]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -1851,7 +1851,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 [][SpellVO]
 
 # Detect Magic
-- NameVO: [Détection de la magie]
+- AltName: [Détection de la magie]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -1872,7 +1872,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 [][SpellVO]
 
 # Detect Poison and Disease
-- NameVO: [Détection du poison et des maladies]
+- AltName: [Détection du poison et des maladies]
 - CastingTime: 1 action
 - Components: V, S, M (a yew leaf)
 - Duration: Concentration, up to 10 minutes
@@ -1893,7 +1893,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 [][SpellVO]
 
 # Detect Thoughts
-- NameVO: [Détection des pensées]
+- AltName: [Détection des pensées]
 - CastingTime: 1 action
 - Components: V, S, M (a copper piece)
 - Duration: Concentration, up to 1 minute
@@ -1920,7 +1920,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 [][SpellVO]
 
 # Dimension Door
-- NameVO: [Porte dimensionnelle]
+- AltName: [Porte dimensionnelle]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -1943,7 +1943,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 [][SpellVO]
 
 # Disguise Self
-- NameVO: [Déguisement]
+- AltName: [Déguisement]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 hour
@@ -1966,7 +1966,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 [][SpellVO]
 
 # Disintegrate
-- NameVO: [Désintégration]
+- AltName: [Désintégration]
 - CastingTime: 1 action
 - Components: V, S, M (a lodestone and a pinch of dust)
 - Duration: Instantaneous
@@ -1993,7 +1993,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 [][SpellVO]
 
 # Dispel Evil and Good
-- NameVO: [Dissipation du mal et du bien]
+- AltName: [Dissipation du mal et du bien]
 - CastingTime: 1 action
 - Components: V, S, M (holy water or powdered silver and iron)
 - Duration: Concentration, up to 1 minute
@@ -2018,7 +2018,7 @@ You can end the spell early by using either of the following special functions.
 [][SpellVO]
 
 # Dispel Magic
-- NameVO: [Dissipation de la magie]
+- AltName: [Dissipation de la magie]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2039,7 +2039,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 [][SpellVO]
 
 # Divination
-- NameVO: [Divination]
+- AltName: [Divination]
 - CastingTime: 1 action
 - Components: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -2062,7 +2062,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 [][SpellVO]
 
 # Divine Favor
-- NameVO: [Faveur divine]
+- AltName: [Faveur divine]
 - CastingTime: 1 bonus action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -2081,7 +2081,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 [][SpellVO]
 
 # Divine Word
-- NameVO: [Parole divine]
+- AltName: [Parole divine]
 - CastingTime: 1 bonus action
 - Components: V
 - Duration: Instantaneous
@@ -2110,7 +2110,7 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 [][SpellVO]
 
 # Dominate Beast
-- NameVO: [Dominer une bête]
+- AltName: [Dominer une bête]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -2135,7 +2135,7 @@ You can use your action to take total and precise control of the target. Until t
 [][SpellVO]
 
 # Dominate Monster
-- NameVO: [Dominer un monstre]
+- AltName: [Dominer un monstre]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -2162,7 +2162,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 [][SpellVO]
 
 # Dominate Person
-- NameVO: [Dominer un humanoïde]
+- AltName: [Dominer un humanoïde]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -2191,7 +2191,7 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 [][SpellVO]
 
 # Drawmij's Instant Summons
-- NameVO: [Convocations instantanées]
+- AltName: [Convocations instantanées]
 - CastingTime: 1 minute
 - Components: V, S, M (a sapphire worth 1,000 gp)
 - Duration: Until dispelled
@@ -2216,7 +2216,7 @@ _[dispel magic]_ or a similar effect successfully applied to the sapphire ends t
 [][SpellVO]
 
 # Dream
-- NameVO: [Rêve]
+- AltName: [Rêve]
 - CastingTime: 1 minute
 - Components: V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)
 - Duration: 8 hours
@@ -2241,7 +2241,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 [][SpellVO]
 
 # Druidcraft
-- NameVO: [Druidisme]
+- AltName: [Druidisme]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2268,7 +2268,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 [][SpellVO]
 
 # Earthquake
-- NameVO: [Tremblement de terre]
+- AltName: [Tremblement de terre]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
 - Duration: Concentration, up to 1 minute
@@ -2299,7 +2299,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 [][SpellVO]
 
 # Eldritch Blast
-- NameVO: [Explosion occulte]
+- AltName: [Explosion occulte]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2320,7 +2320,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 [][SpellVO]
 
 # Enhance Ability
-- NameVO: [Amélioration de caractéristique]
+- AltName: [Amélioration de caractéristique]
 - CastingTime: 1 action
 - Components: V, S, M (fur or a feather from a beast)
 - Duration: Concentration, up to 1 hour
@@ -2353,7 +2353,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 [][SpellVO]
 
 # Enlarge/Reduce
-- NameVO: [Agrandir/Rétrécir]
+- AltName: [Agrandir/Rétrécir]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of powdered iron)
 - Duration: Concentration, up to 1 minute
@@ -2378,7 +2378,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 [][SpellVO]
 
 # Entangle
-- NameVO: [Enchevêtrement]
+- AltName: [Enchevêtrement]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -2401,7 +2401,7 @@ When the spell ends, the conjured plants wilt away.
 [][SpellVO]
 
 # Enthrall
-- NameVO: [Envoûtement]
+- AltName: [Envoûtement]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -2420,7 +2420,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 [][SpellVO]
 
 # Etherealness
-- NameVO: [Forme éthérée]
+- AltName: [Forme éthérée]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Up to 8 hours
@@ -2449,7 +2449,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 [][SpellVO]
 
 # Evard's Black Tentacles
-- NameVO: [Tentacules noirs]
+- AltName: [Tentacules noirs]
 - CastingTime: 1 action
 - Components: V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 - Duration: Concentration, up to 1 minute
@@ -2472,7 +2472,7 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 [][SpellVO]
 
 # Expeditious Retreat
-- NameVO: [Repli expéditif]
+- AltName: [Repli expéditif]
 - CastingTime: 1 bonus action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -2491,7 +2491,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 [][SpellVO]
 
 # Eyebite
-- NameVO: [Mauvais oeil]
+- AltName: [Mauvais oeil]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -2516,7 +2516,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 [][SpellVO]
 
 # Fabricate
-- NameVO: [Fabrication]
+- AltName: [Fabrication]
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: Instantaneous
@@ -2539,7 +2539,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 [][SpellVO]
 
 # Faerie Fire
-- NameVO: [Lueurs féeriques]
+- AltName: [Lueurs féeriques]
 - CastingTime: 1 action
 - Components: V
 - Duration: Concentration, up to 1 minute
@@ -2560,7 +2560,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 [][SpellVO]
 
 # False Life
-- NameVO: [Simulacre de vie]
+- AltName: [Simulacre de vie]
 - CastingTime: 1 action
 - Components: V, S, M (a small amount of alcohol or distilled spirits)
 - Duration: 1 hour
@@ -2581,7 +2581,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 [][SpellVO]
 
 # Fear
-- NameVO: [Peur]
+- AltName: [Peur]
 - CastingTime: 1 action
 - Components: V, S, M (a white feather or the heart of a hen)
 - Duration: Concentration, up to 1 minute
@@ -2600,7 +2600,7 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 [][SpellVO]
 
 # Feather Fall
-- NameVO: [Léger comme une plume]
+- AltName: [Léger comme une plume]
 - CastingTime: 1 reaction, which you take when you or a creature within 60 feet of you falls
 - Components: V, M (a small feather or piece of down)
 - Duration: 1 minute
@@ -2619,7 +2619,7 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 [][SpellVO]
 
 # Feeblemind
-- NameVO: [Esprit faible]
+- AltName: [Esprit faible]
 - CastingTime: 1 action
 - Components: V, S, M (a handful of clay, crystal, glass, or mineral spheres)
 - Duration: Instantaneous
@@ -2644,7 +2644,7 @@ The spell can also be ended by _[greater restoration], [heal]_, or _[wish]_.
 [][SpellVO]
 
 # Find Familiar
-- NameVO: [Appel de familier]
+- AltName: [Appel de familier]
 - CastingTime: 1 hour
 - Components: V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
 - Duration: Instantaneous
@@ -2675,7 +2675,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 [][SpellVO]
 
 # Find Steed
-- NameVO: [Trouver une monture]
+- AltName: [Trouver une monture]
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: Instantaneous
@@ -2702,7 +2702,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 [][SpellVO]
 
 # Find the Path
-- NameVO: [Trouver un chemin]
+- AltName: [Trouver un chemin]
 - CastingTime: 1 minute
 - Components: V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)
 - Duration: Concentration, up to 1 day
@@ -2723,7 +2723,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 [][SpellVO]
 
 # Find Traps
-- NameVO: [Trouver les pièges]
+- AltName: [Trouver les pièges]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2744,7 +2744,7 @@ This spell merely reveals that a trap is present. You don't learn the location o
 [][SpellVO]
 
 # Finger of Death
-- NameVO: [Doigt de mort]
+- AltName: [Doigt de mort]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2765,7 +2765,7 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 [][SpellVO]
 
 # Fire Bolt
-- NameVO: [Trait de feu]
+- AltName: [Trait de feu]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2786,7 +2786,7 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 [][SpellVO]
 
 # Fire Shield
-- NameVO: [Bouclier de feu]
+- AltName: [Bouclier de feu]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of phosphorus or a firefly)
 - Duration: 10 minutes
@@ -2809,7 +2809,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 [][SpellVO]
 
 # Fire Storm
-- NameVO: [Tempête de feu]
+- AltName: [Tempête de feu]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -2830,7 +2830,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 [][SpellVO]
 
 # Fireball
-- NameVO: [Boule de feu]
+- AltName: [Boule de feu]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny ball of bat guano and sulfur)
 - Duration: Instantaneous
@@ -2853,7 +2853,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 [][SpellVO]
 
 # Flame Blade
-- NameVO: [Lame de feu]
+- AltName: [Lame de feu]
 - CastingTime: 1 bonus action
 - Components: V, S, M (leaf of sumac)
 - Duration: Concentration, up to 10 minutes
@@ -2878,7 +2878,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 [][SpellVO]
 
 # Flame Strike
-- NameVO: [Colonne de flamme]
+- AltName: [Colonne de flamme]
 - CastingTime: 1 action
 - Components: V, S, M (pinch of sulfur)
 - Duration: Instantaneous
@@ -2899,7 +2899,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 [][SpellVO]
 
 # Flaming Sphere
-- NameVO: [Sphère de feu]
+- AltName: [Sphère de feu]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
 - Duration: Concentration, up to 1 minute
@@ -2924,7 +2924,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 [][SpellVO]
 
 # Flesh to Stone
-- NameVO: [Pétrification]
+- AltName: [Pétrification]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of lime, water, and earth)
 - Duration: Concentration, up to 1 minute
@@ -2949,7 +2949,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 [][SpellVO]
 
 # Fly
-- NameVO: [Vol]
+- AltName: [Vol]
 - CastingTime: 1 action
 - Components: V, S, M (a wing feather from any bird)
 - Duration: Concentration, up to 10 minutes
@@ -2970,7 +2970,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 [][SpellVO]
 
 # Fog Cloud
-- NameVO: [Nappe de brouillard]
+- AltName: [Nappe de brouillard]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -2991,7 +2991,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 [][SpellVO]
 
 # Forbiddance
-- NameVO: [Interdiction]
+- AltName: [Interdiction]
 - CastingTime: 10 minutes
 - Components: V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
 - Duration: 1 day
@@ -3016,7 +3016,7 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 [][SpellVO]
 
 # Forcecage
-- NameVO: [Cage de force]
+- AltName: [Cage de force]
 - CastingTime: 1 action
 - Components: V, S, M (ruby dust worth 1,500 gp)
 - Duration: 1 hour
@@ -3045,7 +3045,7 @@ This spell can't be dispelled by _[dispel magic]_.
 [][SpellVO]
 
 # Foresight
-- NameVO: [Prémonition]
+- AltName: [Prémonition]
 - CastingTime: 1 minute
 - Components: V, S, M (a hummingbird feather)
 - Duration: 8 hours
@@ -3066,7 +3066,7 @@ This spell immediately ends if you cast it again before its duration ends.
 [][SpellVO]
 
 # Freedom of Movement
-- NameVO: [Liberté de mouvement]
+- AltName: [Liberté de mouvement]
 - CastingTime: 1 action
 - Components: V, S, M (a leather strap, bound around the arm or a similar appendage)
 - Duration: 1 hour
@@ -3087,7 +3087,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 [][SpellVO]
 
 # Gaseous Form
-- NameVO: [Forme gazeuse]
+- AltName: [Forme gazeuse]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of gauze and a wisp of smoke)
 - Duration: Concentration, up to 1 hour
@@ -3110,7 +3110,7 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 [][SpellVO]
 
 # Gate
-- NameVO: [Portail]
+- AltName: [Portail]
 - CastingTime: 1 action
 - Components: V, S, M (a diamond worth at least 5,000 gp)
 - Duration: Concentration, up to 1 minute
@@ -3135,7 +3135,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 [][SpellVO]
 
 # Geas
-- NameVO: [Coercition mystique]
+- AltName: [Coercition mystique]
 - CastingTime: 1 minute
 - Components: V
 - Duration: 30 days
@@ -3160,7 +3160,7 @@ You can end the spell early by using an action to dismiss it. A _[remove curse],
 [][SpellVO]
 
 # Gentle Repose
-- NameVO: [Doux repos]
+- AltName: [Doux repos]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration
 - Duration: 10 days
@@ -3181,7 +3181,7 @@ The spell also effectively extends the time limit on raising the target from the
 [][SpellVO]
 
 # Giant Insect
-- NameVO: [Insecte géant]
+- AltName: [Insecte géant]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -3206,7 +3206,7 @@ The DM might allow you to choose different targets. For example, if you transfor
 [][SpellVO]
 
 # Glibness
-- NameVO: [Bagou]
+- AltName: [Bagou]
 - CastingTime: 1 action
 - Components: V
 - Duration: 1 hour
@@ -3225,7 +3225,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 [][SpellVO]
 
 # Globe of Invulnerability
-- NameVO: [Globe d'invulnérabilité]
+- AltName: [Globe d'invulnérabilité]
 - CastingTime: 1 action
 - Components: V, S, M (a glass or crystal bead that shatters when the spell ends)
 - Duration: Concentration, up to 1 minute
@@ -3248,7 +3248,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 [][SpellVO]
 
 # Glyph of Warding
-- NameVO: [Glyphe de protection]
+- AltName: [Glyphe de protection]
 - CastingTime: 1 hour
 - Components: V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
 - Duration: Until dispelled or triggered
@@ -3281,7 +3281,7 @@ When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 [][SpellVO]
 
 # Goodberry
-- NameVO: [Baies nourricières]
+- AltName: [Baies nourricières]
 - CastingTime: 1 action
 - Components: V, S, M (a sprig of mistletoe)
 - Duration: Instantaneous
@@ -3302,7 +3302,7 @@ The berries lose their potency if they have not been consumed within 24 hours of
 [][SpellVO]
 
 # Grease
-- NameVO: [Graisse]
+- AltName: [Graisse]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of pork rind or butter)
 - Duration: 1 minute
@@ -3323,7 +3323,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 [][SpellVO]
 
 # Greater Invisibility
-- NameVO: [Invisibilité supérieure]
+- AltName: [Invisibilité supérieure]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -3342,7 +3342,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 [][SpellVO]
 
 # Greater Restoration
-- NameVO: [Restauration supérieure]
+- AltName: [Restauration supérieure]
 - CastingTime: 1 action
 - Components: V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -3369,7 +3369,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 [][SpellVO]
 
 # Guardian of Faith
-- NameVO: [Gardien de la foi]
+- AltName: [Gardien de la foi]
 - CastingTime: 1 action
 - Components: V
 - Duration: 8 hours
@@ -3390,7 +3390,7 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 [][SpellVO]
 
 # Guards and Wards
-- NameVO: [Protections et sceaux]
+- AltName: [Protections et sceaux]
 - CastingTime: 10 minutes
 - Components: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
 - Duration: 24 hours
@@ -3435,7 +3435,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 [][SpellVO]
 
 # Guidance
-- NameVO: [Assistance]
+- AltName: [Assistance]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -3454,7 +3454,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 [][SpellVO]
 
 # Guiding Bolt
-- NameVO: [Balisage]
+- AltName: [Balisage]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 round
@@ -3475,7 +3475,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 [][SpellVO]
 
 # Gust of Wind
-- NameVO: [Bourrasque]
+- AltName: [Bourrasque]
 - CastingTime: 1 action
 - Components: V, S, M (a legume seed)
 - Duration: Concentration, up to 1 minute
@@ -3500,7 +3500,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 [][SpellVO]
 
 # Hallow
-- NameVO: [Sanctification]
+- AltName: [Sanctification]
 - CastingTime: 24 hours
 - Components: V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
 - Duration: Until dispelled
@@ -3543,7 +3543,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 [][SpellVO]
 
 # Hallucinatory Terrain
-- NameVO: [Terrain hallucinatoire]
+- AltName: [Terrain hallucinatoire]
 - CastingTime: 10 minutes
 - Components: V, S, M (a stone, a twig, and a bit of green plant)
 - Duration: 24 hours
@@ -3564,7 +3564,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 [][SpellVO]
 
 # Harm
-- NameVO: [Contamination]
+- AltName: [Contamination]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -3583,7 +3583,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 [][SpellVO]
 
 # Haste
-- NameVO: [Hâte]
+- AltName: [Hâte]
 - CastingTime: 1 action
 - Components: V, S, M (a shaving of licorice root)
 - Duration: Concentration, up to 1 minute
@@ -3604,7 +3604,7 @@ When the spell ends, the target can't move or take actions until after its next 
 [][SpellVO]
 
 # Heal
-- NameVO: [Guérison]
+- AltName: [Guérison]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -3625,7 +3625,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 [][SpellVO]
 
 # Healing Word
-- NameVO: [Mot de guérison]
+- AltName: [Mot de guérison]
 - CastingTime: 1 bonus action
 - Components: V
 - Duration: Instantaneous
@@ -3646,7 +3646,7 @@ A creature of your choice that you can see within range regains hit points equal
 [][SpellVO]
 
 # Heat Metal
-- NameVO: [Chauffer le métal]
+- AltName: [Chauffer le métal]
 - CastingTime: 1 action
 - Components: V, S, M (a piece of iron and a flame)
 - Duration: Concentration, up to 1 minute
@@ -3669,7 +3669,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 [][SpellVO]
 
 # Hellish Rebuke
-- NameVO: [Représailles infernales]
+- AltName: [Représailles infernales]
 - CastingTime: 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 - Components: V, S
 - Duration: Instantaneous
@@ -3690,7 +3690,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 [][SpellVO]
 
 # Heroes' Feast
-- NameVO: [Festin des héros]
+- AltName: [Festin des héros]
 - CastingTime: 10 minutes
 - Components: V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -3711,7 +3711,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 [][SpellVO]
 
 # Heroism
-- NameVO: [Héroïsme]
+- AltName: [Héroïsme]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -3732,7 +3732,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 [][SpellVO]
 
 # Hold Monster
-- NameVO: [Immobiliser un monstre]
+- AltName: [Immobiliser un monstre]
 - CastingTime: 1 action
 - Components: V, S, M (a small, straight piece of iron)
 - Duration: Concentration, up to 1 minute
@@ -3753,7 +3753,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 [][SpellVO]
 
 # Hold Person
-- NameVO: [Immobiliser un humanoïde]
+- AltName: [Immobiliser un humanoïde]
 - CastingTime: 1 action
 - Components: V, S, M (a small, straight piece of iron)
 - Duration: Concentration, up to 1 minute
@@ -3774,7 +3774,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 [][SpellVO]
 
 # Holy Aura
-- NameVO: [Aura sacrée]
+- AltName: [Aura sacrée]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
 - Duration: Concentration, up to 1 minute
@@ -3793,7 +3793,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 [][SpellVO]
 
 # Hunter's Mark
-- NameVO: [Marque du chasseur]
+- AltName: [Marque du chasseur]
 - CastingTime: 1 bonus action
 - Components: V
 - Duration: Concentration, up to 1 hour
@@ -3814,7 +3814,7 @@ You choose a creature you can see within range and mystically mark it as your qu
 [][SpellVO]
 
 # Hypnotic Pattern
-- NameVO: [Motif hypnotique]
+- AltName: [Motif hypnotique]
 - CastingTime: 1 action
 - Components: S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
 - Duration: Concentration, up to 1 minute
@@ -3833,7 +3833,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 [][SpellVO]
 
 # Ice Storm
-- NameVO: [Tempête de grêle]
+- AltName: [Tempête de grêle]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of dust and a few drops of water)
 - Duration: Instantaneous
@@ -3856,7 +3856,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 [][SpellVO]
 
 # Identify
-- NameVO: [Identification]
+- AltName: [Identification]
 - CastingTime: 1 minute
 - Components: V, S, M (a pearl worth at least 100 gp and an owl feather)
 - Duration: Instantaneous
@@ -3877,7 +3877,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 [][SpellVO]
 
 # Illusory Script
-- NameVO: [Texte illusoire]
+- AltName: [Texte illusoire]
 - CastingTime: 1 minute
 - Components: S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
 - Duration: 10 days
@@ -3902,7 +3902,7 @@ A creature with truesight can read the hidden message.
 [][SpellVO]
 
 # Imprisonment
-- NameVO: [Emprisonnement]
+- AltName: [Emprisonnement]
 - CastingTime: 1 minute
 - Components: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
 - Duration: Until dispelled
@@ -3949,7 +3949,7 @@ You can use a particular special component to create only one prison at a time. 
 [][SpellVO]
 
 # Incendiary Cloud
-- NameVO: [Nuage incendiaire]
+- AltName: [Nuage incendiaire]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -3972,7 +3972,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 [][SpellVO]
 
 # Inflict Wounds
-- NameVO: [Blessure]
+- AltName: [Blessure]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -3993,7 +3993,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 [][SpellVO]
 
 # Insect Plague
-- NameVO: [Fléau d'insectes]
+- AltName: [Fléau d'insectes]
 - CastingTime: 1 action
 - Components: V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
 - Duration: Concentration, up to 10 minutes
@@ -4016,7 +4016,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 [][SpellVO]
 
 # Invisibility
-- NameVO: [Invisibilité]
+- AltName: [Invisibilité]
 - CastingTime: 1 action
 - Components: V, S, M (an eyelash encased in gum arabic)
 - Duration: Concentration, up to 1 hour
@@ -4037,7 +4037,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 [][SpellVO]
 
 # Jump
-- NameVO: [Saut]
+- AltName: [Saut]
 - CastingTime: 1 action
 - Components: V, S, M (a grasshopper's hind leg)
 - Duration: 1 minute
@@ -4056,7 +4056,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 [][SpellVO]
 
 # Knock
-- NameVO: [Déblocage]
+- AltName: [Déblocage]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -4081,7 +4081,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 [][SpellVO]
 
 # Legend Lore
-- NameVO: [Légende]
+- AltName: [Légende]
 - CastingTime: 10 minutes
 - Components: V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
 - Duration: Instantaneous
@@ -4102,7 +4102,7 @@ The information you learn is accurate but might be couched in figurative languag
 [][SpellVO]
 
 # Leomund's Secret Chest
-- NameVO: [Coffre secret]
+- AltName: [Coffre secret]
 - CastingTime: 1 action
 - Components: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
 - Duration: Instantaneous
@@ -4125,7 +4125,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 [][SpellVO]
 
 # Leomund's Tiny Hut
-- NameVO: [Petite hutte]
+- AltName: [Petite hutte]
 - CastingTime: 1 minute
 - Components: V, S, M (a small crystal bead)
 - Duration: 8 hours
@@ -4148,7 +4148,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 [][SpellVO]
 
 # Lesser Restoration
-- NameVO: [Restauration inférieure]
+- AltName: [Restauration inférieure]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -4167,7 +4167,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 [][SpellVO]
 
 # Levitate
-- NameVO: [Lévitation]
+- AltName: [Lévitation]
 - CastingTime: 1 action
 - Components: V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
 - Duration: Concentration, up to 10 minutes
@@ -4190,7 +4190,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 [][SpellVO]
 
 # Light
-- NameVO: [Lumière]
+- AltName: [Lumière]
 - CastingTime: 1 action
 - Components: V, M (a firefly or phosphorescent moss)
 - Duration: 1 hour
@@ -4211,7 +4211,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 [][SpellVO]
 
 # Lightning Bolt
-- NameVO: [Éclair]
+- AltName: [Éclair]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
 - Duration: Instantaneous
@@ -4234,7 +4234,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 [][SpellVO]
 
 # Locate Animals or Plants
-- NameVO: [Localiser des animaux ou des plantes]
+- AltName: [Localiser des animaux ou des plantes]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fur from a bloodhound)
 - Duration: Instantaneous
@@ -4253,7 +4253,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 [][SpellVO]
 
 # Locate Creature
-- NameVO: [Localiser une créature]
+- AltName: [Localiser une créature]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fur from a bloodhound)
 - Duration: Concentration, up to 1 hour
@@ -4276,7 +4276,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 [][SpellVO]
 
 # Locate Object
-- NameVO: [Localiser un objet]
+- AltName: [Localiser un objet]
 - CastingTime: 1 action
 - Components: V, S, M (a forked twig)
 - Duration: Concentration, up to 10 minutes
@@ -4299,7 +4299,7 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 [][SpellVO]
 
 # Longstrider
-- NameVO: [Grande foulée]
+- AltName: [Grande foulée]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of dirt)
 - Duration: 1 hour
@@ -4320,7 +4320,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 [][SpellVO]
 
 # Mage Armor
-- NameVO: [Armure du mage]
+- AltName: [Armure du mage]
 - CastingTime: 1 action
 - Components: V, S, M (a piece of cured leather)
 - Duration: 8 hours
@@ -4339,7 +4339,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 [][SpellVO]
 
 # Mage Hand
-- NameVO: [Main du mage]
+- AltName: [Main du mage]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -4362,7 +4362,7 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 [][SpellVO]
 
 # Magic Circle
-- NameVO: [Cercle magique]
+- AltName: [Cercle magique]
 - CastingTime: 1 minute
 - Components: V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
 - Duration: 1 hour
@@ -4393,7 +4393,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 [][SpellVO]
 
 # Magic Jar
-- NameVO: [Possession]
+- AltName: [Possession]
 - CastingTime: 1 minute
 - Components: V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
 - Duration: Until dispelled
@@ -4424,7 +4424,7 @@ When the spell ends, the container is destroyed.
 [][SpellVO]
 
 # Magic Missile
-- NameVO: [Projectile magique]
+- AltName: [Projectile magique]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -4445,7 +4445,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 [][SpellVO]
 
 # Magic Mouth
-- NameVO: [Bouche magique]
+- AltName: [Bouche magique]
 - CastingTime: 1 minute
 - Components: V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
 - Duration: Until dispelled
@@ -4468,7 +4468,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 [][SpellVO]
 
 # Magic Weapon
-- NameVO: [Arme magique]
+- AltName: [Arme magique]
 - CastingTime: 1 bonus action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -4489,7 +4489,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 [][SpellVO]
 
 # Major Image
-- NameVO: [Image majeure]
+- AltName: [Image majeure]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fleece)
 - Duration: Concentration, up to 10 minutes
@@ -4514,7 +4514,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 [][SpellVO]
 
 # Mass Cure Wounds
-- NameVO: [Soin des blessures de groupe]
+- AltName: [Soin des blessures de groupe]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -4535,7 +4535,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 [][SpellVO]
 
 # Mass Heal
-- NameVO: [Guérison de groupe]
+- AltName: [Guérison de groupe]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -4554,7 +4554,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 [][SpellVO]
 
 # Mass Healing Word
-- NameVO: [Mot de guérison de groupe]
+- AltName: [Mot de guérison de groupe]
 - CastingTime: 1 bonus action
 - Components: V
 - Duration: Instantaneous
@@ -4575,7 +4575,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 [][SpellVO]
 
 # Mass Suggestion
-- NameVO: [Suggestion de groupe]
+- AltName: [Suggestion de groupe]
 - CastingTime: 1 action
 - Components: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
 - Duration: 24 hours
@@ -4602,7 +4602,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 [][SpellVO]
 
 # Maze
-- NameVO: [Labyrinthe]
+- AltName: [Labyrinthe]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -4625,7 +4625,7 @@ When the spell ends, the target reappears in the space it left or, if that space
 [][SpellVO]
 
 # Meld into Stone
-- NameVO: [Fusion dans la pierre]
+- AltName: [Fusion dans la pierre]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 8 hours
@@ -4648,7 +4648,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 [][SpellVO]
 
 # Melf's Acid Arrow
-- NameVO: [Flèche acide]
+- AltName: [Flèche acide]
 - CastingTime: 1 action
 - Components: V, S, M (powdered rhubarb leaf and an adder's stomach)
 - Duration: Instantaneous
@@ -4669,7 +4669,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 [][SpellVO]
 
 # Mending
-- NameVO: [Réparation]
+- AltName: [Réparation]
 - CastingTime: 1 minute
 - Components: V, S, M (two lodestones)
 - Duration: Instantaneous
@@ -4688,7 +4688,7 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 [][SpellVO]
 
 # Message
-- NameVO: [Message]
+- AltName: [Message]
 - CastingTime: 1 action
 - Components: V, S, M (a short piece of copper wire)
 - Duration: 1 round
@@ -4709,7 +4709,7 @@ You can cast this spell through solid objects if you re familiar with the target
 [][SpellVO]
 
 # Meteor Swarm
-- NameVO: [Nuée de météores]
+- AltName: [Nuée de météores]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -4730,7 +4730,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 [][SpellVO]
 
 # Mind Blank
-- NameVO: [Esprit impénétrable]
+- AltName: [Esprit impénétrable]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 24 hours
@@ -4749,7 +4749,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 [][SpellVO]
 
 # Minor Illusion
-- NameVO: [Illusion mineure]
+- AltName: [Illusion mineure]
 - CastingTime: 1 action
 - Components: S, M (a bit of fleece)
 - Duration: 1 minute
@@ -4774,7 +4774,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 [][SpellVO]
 
 # Mirage Arcane
-- NameVO: [Mirage]
+- AltName: [Mirage]
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: 10 days
@@ -4799,7 +4799,7 @@ Creatures with truesight can see through the illusion to the terrain's true form
 [][SpellVO]
 
 # Mirror Image
-- NameVO: [Image miroir]
+- AltName: [Image miroir]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -4826,7 +4826,7 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 [][SpellVO]
 
 # Mislead
-- NameVO: [Tromperie]
+- AltName: [Tromperie]
 - CastingTime: 1 action
 - Components: S
 - Duration: Concentration, up to 1 hour
@@ -4849,7 +4849,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 [][SpellVO]
 
 # Misty Step
-- NameVO: [Pas brumeux]
+- AltName: [Pas brumeux]
 - CastingTime: 1 bonus action
 - Components: V
 - Duration: Instantaneous
@@ -4868,7 +4868,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 [][SpellVO]
 
 # Modify Memory
-- NameVO: [Modification de mémoire]
+- AltName: [Modification de mémoire]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -4897,7 +4897,7 @@ A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores 
 [][SpellVO]
 
 # Moonbeam
-- NameVO: [Rayon de lune]
+- AltName: [Rayon de lune]
 - CastingTime: 1 action
 - Components: V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
 - Duration: Concentration, up to 1 minute
@@ -4924,7 +4924,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 [][SpellVO]
 
 # Mordenkainen's Faithful Hound
-- NameVO: [Chien de garde]
+- AltName: [Chien de garde]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 - Duration: 8 hours
@@ -4947,7 +4947,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 [][SpellVO]
 
 # Mordenkainen's Magnificent Mansion
-- NameVO: [Manoir somptueux]
+- AltName: [Manoir somptueux]
 - CastingTime: 1 minute
 - Components: V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
 - Duration: 24 hours
@@ -4970,7 +4970,7 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 [][SpellVO]
 
 # Mordenkainen's Private Sanctum
-- NameVO: [Sanctuaire privé]
+- AltName: [Sanctuaire privé]
 - CastingTime: 10 minutes
 - Components: V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
 - Duration: 24 hours
@@ -5007,7 +5007,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 [][SpellVO]
 
 # Mordenkainen's Sword
-- NameVO: [Épée magique]
+- AltName: [Épée magique]
 - CastingTime: 1 action
 - Components: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 - Duration: Concentration, up to 1 minute
@@ -5028,7 +5028,7 @@ When the sword appears, you make a melee spell attack against a target of your c
 [][SpellVO]
 
 # Move Earth
-- NameVO: [Déplacer la terre]
+- AltName: [Déplacer la terre]
 - CastingTime: 1 action
 - Components: V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)
 - Duration: Concentration, up to 2 hours
@@ -5055,7 +5055,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 [][SpellVO]
 
 # Nondetection
-- NameVO: [Non-détection]
+- AltName: [Non-détection]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)
 - Duration: 8 hours
@@ -5074,7 +5074,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 [][SpellVO]
 
 # Nystul's Magic Aura
-- NameVO: [Aura magique de l'arcaniste]
+- AltName: [Aura magique de l'arcaniste]
 - CastingTime: 1 action
 - Components: V, S, M (a small square of silk)
 - Duration: 24 hours
@@ -5099,7 +5099,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 [][SpellVO]
 
 # Otiluke's Freezing Sphere
-- NameVO: [Sphère glacée]
+- AltName: [Sphère glacée]
 - CastingTime: 1 action
 - Components: V, S, M (a small crystal sphere
 - Duration: Instantaneous
@@ -5124,7 +5124,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 [][SpellVO]
 
 # Otiluke's Resilient Sphere
-- NameVO: [Sphère résiliente]
+- AltName: [Sphère résiliente]
 - CastingTime: 1 action
 - Components: V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 - Duration: Concentration, up to 1 minute
@@ -5149,7 +5149,7 @@ A _[disintegrate]_ spell targeting the globe destroys it without harming anythin
 [][SpellVO]
 
 # Otto's Irresistible Dance
-- NameVO: [Danse irrésistible]
+- AltName: [Danse irrésistible]
 - CastingTime: 1 action
 - Components: V
 - Duration: Concentration, up to 1 minute
@@ -5170,7 +5170,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 [][SpellVO]
 
 # Pass without Trace
-- NameVO: [Passage sans trace]
+- AltName: [Passage sans trace]
 - CastingTime: 1 action
 - Components: V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
 - Duration: Concentration, up to 1 hour
@@ -5189,7 +5189,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 [][SpellVO]
 
 # Passwall
-- NameVO: [Passe-muraille]
+- AltName: [Passe-muraille]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of sesame seeds)
 - Duration: 1 hour
@@ -5210,7 +5210,7 @@ When the opening disappears, any creatures or objects still in the passage creat
 [][SpellVO]
 
 # Phantasmal Killer
-- NameVO: [Assassin imaginaire]
+- AltName: [Assassin imaginaire]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -5231,7 +5231,7 @@ You tap into the nightmares of a creature you can see within range and create an
 [][SpellVO]
 
 # Phantom Steed
-- NameVO: [Monture fantôme]
+- AltName: [Monture fantôme]
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: 1 hour
@@ -5252,7 +5252,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 [][SpellVO]
 
 # Planar Ally
-- NameVO: [Allié planaire]
+- AltName: [Allié planaire]
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: Instantaneous
@@ -5283,7 +5283,7 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 [][SpellVO]
 
 # Planar Binding
-- NameVO: [Entrave planaire]
+- AltName: [Entrave planaire]
 - CastingTime: 1 hour
 - Components: V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)
 - Duration: 24 hours
@@ -5306,7 +5306,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 [][SpellVO]
 
 # Plane Shift
-- NameVO: [Changement de plan]
+- AltName: [Changement de plan]
 - CastingTime: 1 action
 - Components: V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)
 - Duration: Instantaneous
@@ -5329,7 +5329,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 [][SpellVO]
 
 # Plant Growth
-- NameVO: [Croissance végétale]
+- AltName: [Croissance végétale]
 - CastingTime: 1 action or 8 hours
 - Components: V, S
 - Duration: Instantaneous
@@ -5354,7 +5354,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 [][SpellVO]
 
 # Poison Spray
-- NameVO: [Bouffée de poison]
+- AltName: [Bouffée de poison]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -5375,7 +5375,7 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 [][SpellVO]
 
 # Polymorph
-- NameVO: [Métamorphose]
+- AltName: [Métamorphose]
 - CastingTime: 1 action
 - Components: V, S, M (a caterpillar cocoon)
 - Duration: Concentration, up to 1 hour
@@ -5402,7 +5402,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 [][SpellVO]
 
 # Power Word Kill
-- NameVO: [Mot de pouvoir mortel]
+- AltName: [Mot de pouvoir mortel]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -5421,7 +5421,7 @@ You utter a word of power that can compel one creature you can see within range 
 [][SpellVO]
 
 # Power Word Stun
-- NameVO: [Mot de pouvoir étourdissant]
+- AltName: [Mot de pouvoir étourdissant]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -5442,7 +5442,7 @@ The stunned target must make a Constitution saving throw at the end of each of i
 [][SpellVO]
 
 # Prayer of Healing
-- NameVO: [Prière de soins]
+- AltName: [Prière de soins]
 - CastingTime: 10 minutes
 - Components: V
 - Duration: Instantaneous
@@ -5463,7 +5463,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 [][SpellVO]
 
 # Prestidigitation
-- NameVO: [Prestidigitation]
+- AltName: [Prestidigitation]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Up to 1 hour
@@ -5496,7 +5496,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 [][SpellVO]
 
 # Prismatic Spray
-- NameVO: [Embruns prismatiques]
+- AltName: [Embruns prismatiques]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -5531,7 +5531,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 [][SpellVO]
 
 # Prismatic Wall
-- NameVO: [Mur prismatique]
+- AltName: [Mur prismatique]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -5572,7 +5572,7 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 [][SpellVO]
 
 # Produce Flame
-- NameVO: [Produire une flamme]
+- AltName: [Produire une flamme]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -5595,7 +5595,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 [][SpellVO]
 
 # Programmed Illusion
-- NameVO: [Illusion programmée]
+- AltName: [Illusion programmée]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fleece and jade dust worth at least 25 gp)
 - Duration: Until dispelled
@@ -5620,7 +5620,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 [][SpellVO]
 
 # Project Image
-- NameVO: [Image projetée]
+- AltName: [Image projetée]
 - CastingTime: 1 action
 - Components: V, S, M (a small replica of you made from materials worth at least 5 gp)
 - Duration: Concentration, up to 1 day
@@ -5645,7 +5645,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 [][SpellVO]
 
 # Protection from Energy
-- NameVO: [Protection contre les énergies]
+- AltName: [Protection contre les énergies]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 hour
@@ -5664,7 +5664,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 [][SpellVO]
 
 # Protection from Evil and Good
-- NameVO: [Protection contre le mal et le bien]
+- AltName: [Protection contre le mal et le bien]
 - CastingTime: 1 action
 - Components: V, S, M (holy water or powdered silver and iron, which the spell consumes)
 - Duration: Concentration, up to 10 minutes
@@ -5685,7 +5685,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 [][SpellVO]
 
 # Protection from Poison
-- NameVO: [Protection contre le poison]
+- AltName: [Protection contre le poison]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 hour
@@ -5706,7 +5706,7 @@ For the duration, the target has advantage on saving throws against being poison
 [][SpellVO]
 
 # Purify Food and Drink
-- NameVO: [Purification de la nourriture et de l'eau]
+- AltName: [Purification de la nourriture et de l'eau]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -5725,7 +5725,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 [][SpellVO]
 
 # Raise Dead
-- NameVO: [Rappel à la vie]
+- AltName: [Rappel à la vie]
 - CastingTime: 1 hour
 - Components: V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -5750,7 +5750,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 [][SpellVO]
 
 # Rary's Telepathic Bond
-- NameVO: [Lien télépathique]
+- AltName: [Lien télépathique]
 - CastingTime: 1 action
 - Components: V, S, M (pieces of eggshell from two different kinds of creatures)
 - Duration: 1 hour
@@ -5771,7 +5771,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 [][SpellVO]
 
 # Ray of Enfeeblement
-- NameVO: [Rayon affaiblissant]
+- AltName: [Rayon affaiblissant]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -5792,7 +5792,7 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 [][SpellVO]
 
 # Ray of Frost
-- NameVO: [Rayon de givre]
+- AltName: [Rayon de givre]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -5813,7 +5813,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 [][SpellVO]
 
 # Regenerate
-- NameVO: [Régénération]
+- AltName: [Régénération]
 - CastingTime: 1 minute
 - Components: V, S, M (a prayer wheel and holy water)
 - Duration: 1 hour
@@ -5834,7 +5834,7 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 [][SpellVO]
 
 # Reincarnate
-- NameVO: [Réincarnation]
+- AltName: [Réincarnation]
 - CastingTime: 1 hour
 - Components: V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -5876,7 +5876,7 @@ The reincarnated creature recalls its former life and experiences. It retains th
 [][SpellVO]
 
 # Remove Curse
-- NameVO: [Lever une malédiction]
+- AltName: [Lever une malédiction]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -5895,7 +5895,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 [][SpellVO]
 
 # Resistance
-- NameVO: [Résistance]
+- AltName: [Résistance]
 - CastingTime: 1 action
 - Components: V, S, M (a miniature cloak)
 - Duration: Concentration, up to 1 minute
@@ -5914,7 +5914,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 [][SpellVO]
 
 # Resurrection
-- NameVO: [Résurrection]
+- AltName: [Résurrection]
 - CastingTime: 1 hour
 - Components: V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -5941,7 +5941,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 [][SpellVO]
 
 # Reverse Gravity
-- NameVO: [Inversion de la gravité]
+- AltName: [Inversion de la gravité]
 - CastingTime: 1 action
 - Components: V, S, M (a lodestone and iron filings)
 - Duration: Concentration, up to 1 minute
@@ -5964,7 +5964,7 @@ At the end of the duration, affected objects and creatures fall back down.
 [][SpellVO]
 
 # Revivify
-- NameVO: [Revigorer]
+- AltName: [Revigorer]
 - CastingTime: 1 action
 - Components: V, S, M (diamonds worth 300 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -5983,7 +5983,7 @@ You touch a creature that has died within the last minute. That creature returns
 [][SpellVO]
 
 # Rope Trick
-- NameVO: [Corde enchantée]
+- AltName: [Corde enchantée]
 - CastingTime: 1 action
 - Components: V, S, M (powdered corn extract and a twisted loop of parchment)
 - Duration: 1 hour
@@ -6008,7 +6008,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 [][SpellVO]
 
 # Sacred Flame
-- NameVO: [Flamme sacrée]
+- AltName: [Flamme sacrée]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -6029,7 +6029,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 [][SpellVO]
 
 # Sanctuary
-- NameVO: [Sanctuaire]
+- AltName: [Sanctuaire]
 - CastingTime: 1 bonus action
 - Components: V, S, M (a small silver mirror)
 - Duration: 1 minute
@@ -6050,7 +6050,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 [][SpellVO]
 
 # Scorching Ray
-- NameVO: [Rayon ardent]
+- AltName: [Rayon ardent]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -6073,7 +6073,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 [][SpellVO]
 
 # Scrying
-- NameVO: [Scrutation]
+- AltName: [Scrutation]
 - CastingTime: 10 minutes
 - Components: V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
 - Duration: Concentration, up to 10 minutes
@@ -6106,7 +6106,7 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 [][SpellVO]
 
 # See Invisibility
-- NameVO: [Voir l'invisible]
+- AltName: [Voir l'invisible]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of talc and a small sprinkling of powdered silver)
 - Duration: 1 hour
@@ -6125,7 +6125,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 [][SpellVO]
 
 # Seeming
-- NameVO: [Apparence trompeuse]
+- AltName: [Apparence trompeuse]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 8 hours
@@ -6150,7 +6150,7 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 [][SpellVO]
 
 # Sending
-- NameVO: [Envoi de message]
+- AltName: [Envoi de message]
 - CastingTime: 1 action
 - Components: V, S, M (a short piece of fine copper wire)
 - Duration: 1 round
@@ -6171,7 +6171,7 @@ You can send the message across any distance and even to other planes of existen
 [][SpellVO]
 
 # Sequester
-- NameVO: [Séquestration]
+- AltName: [Séquestration]
 - CastingTime: 1 action
 - Components: V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
 - Duration: Until dispelled
@@ -6194,7 +6194,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 [][SpellVO]
 
 # Shapechange
-- NameVO: [Changement de forme]
+- AltName: [Changement de forme]
 - CastingTime: 1 action
 - Components: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
 - Duration: Concentration, up to 1 hour
@@ -6223,7 +6223,7 @@ During this spell's duration, you can use your action to assume a different form
 [][SpellVO]
 
 # Shatter
-- NameVO: [Briser]
+- AltName: [Briser]
 - CastingTime: 1 action
 - Components: V, S, M (a chip of mica)
 - Duration: Instantaneous
@@ -6246,7 +6246,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 [][SpellVO]
 
 # Shield
-- NameVO: [Bouclier]
+- AltName: [Bouclier]
 - CastingTime: 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
 - Components: V, S
 - Duration: 1 round
@@ -6265,7 +6265,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 [][SpellVO]
 
 # Shield of Faith
-- NameVO: [Bouclier de la foi]
+- AltName: [Bouclier de la foi]
 - CastingTime: 1 bonus action
 - Components: V, S, M (a small parchment with a bit of holy text written on it)
 - Duration: Concentration, up to 10 minutes
@@ -6284,7 +6284,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 [][SpellVO]
 
 # Shillelagh
-- NameVO: [Gourdin magique]
+- AltName: [Gourdin magique]
 - CastingTime: 1 bonus action
 - Components: V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
 - Duration: 1 minute
@@ -6303,7 +6303,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 [][SpellVO]
 
 # Shocking Grasp
-- NameVO: [Poigne électrique]
+- AltName: [Poigne électrique]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -6324,7 +6324,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 [][SpellVO]
 
 # Silence
-- NameVO: [Silence]
+- AltName: [Silence]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -6345,7 +6345,7 @@ Casting a spell that includes a verbal component is impossible there.
 [][SpellVO]
 
 # Silent Image
-- NameVO: [Image silencieuse]
+- AltName: [Image silencieuse]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of fleece)
 - Duration: Concentration, up to 10 minutes
@@ -6368,7 +6368,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 [][SpellVO]
 
 # Simulacrum
-- NameVO: [Simulacre]
+- AltName: [Simulacre]
 - CastingTime: 12 hours
 - Components: V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
 - Duration: Until dispelled
@@ -6393,7 +6393,7 @@ If you cast this spell again, any currently active duplicates you created with t
 [][SpellVO]
 
 # Sleep
-- NameVO: [Sommeil]
+- AltName: [Sommeil]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of fine sand, rose petals, or a cricket)
 - Duration: 1 minute
@@ -6418,7 +6418,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 [][SpellVO]
 
 # Sleet Storm
-- NameVO: [Tempête de neige]
+- AltName: [Tempête de neige]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of dust and a few drops of water)
 - Duration: Concentration, up to 1 minute
@@ -6441,7 +6441,7 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 [][SpellVO]
 
 # Slow
-- NameVO: [Lenteur]
+- AltName: [Lenteur]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of molasses)
 - Duration: Concentration, up to 1 minute
@@ -6466,7 +6466,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 [][SpellVO]
 
 # Spare the Dying
-- NameVO: [Épargner les mourants]
+- AltName: [Épargner les mourants]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -6485,7 +6485,7 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 [][SpellVO]
 
 # Speak with Animals
-- NameVO: [Communication avec les animaux]
+- AltName: [Communication avec les animaux]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -6504,7 +6504,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 [][SpellVO]
 
 # Speak with Dead
-- NameVO: [Communication avec les morts]
+- AltName: [Communication avec les morts]
 - CastingTime: 1 action
 - Components: V, S, M (burning incense)
 - Duration: 10 minutes
@@ -6525,7 +6525,7 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 [][SpellVO]
 
 # Speak with Plants
-- NameVO: [Communication avec les plantes]
+- AltName: [Communication avec les plantes]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -6552,7 +6552,7 @@ This spell can cause the plants created by the _[entangle]_ spell to release a r
 [][SpellVO]
 
 # Spider Climb
-- NameVO: [Pattes d'araignée]
+- AltName: [Pattes d'araignée]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of bitumen and a spider)
 - Duration: Concentration, up to 1 hour
@@ -6571,7 +6571,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 [][SpellVO]
 
 # Spike Growth
-- NameVO: [Croissance d'épines]
+- AltName: [Croissance d'épines]
 - CastingTime: 1 action
 - Components: V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
 - Duration: Concentration, up to 10 minutes
@@ -6592,7 +6592,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 [][SpellVO]
 
 # Spirit Guardians
-- NameVO: [Esprits gardiens]
+- AltName: [Esprits gardiens]
 - CastingTime: 1 action
 - Components: V, S, M (a holy symbol)
 - Duration: Concentration, up to 10 minutes
@@ -6615,7 +6615,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 [][SpellVO]
 
 # Spiritual Weapon
-- NameVO: [Arme spirituelle]
+- AltName: [Arme spirituelle]
 - CastingTime: 1 bonus action
 - Components: V, S
 - Duration: 1 minute
@@ -6640,7 +6640,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 [][SpellVO]
 
 # Stinking Cloud
-- NameVO: [Nuage puant]
+- AltName: [Nuage puant]
 - CastingTime: 1 action
 - Components: V, S, M (a rotten egg or several skunk cabbage leaves)
 - Duration: Concentration, up to 1 minute
@@ -6663,7 +6663,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 [][SpellVO]
 
 # Stone Shape
-- NameVO: [Façonnage de la pierre]
+- AltName: [Façonnage de la pierre]
 - CastingTime: 1 action
 - Components: V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)
 - Duration: Instantaneous
@@ -6682,7 +6682,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 [][SpellVO]
 
 # Stoneskin
-- NameVO: [Peau de pierre]
+- AltName: [Peau de pierre]
 - CastingTime: 1 action
 - Components: V, S, M (diamond dust worth 100 gp, which the spell consumes)
 - Duration: Concentration, up to 1 hour
@@ -6701,7 +6701,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 [][SpellVO]
 
 # Storm of Vengeance
-- NameVO: [Tempête vengeresse]
+- AltName: [Tempête vengeresse]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -6730,7 +6730,7 @@ Each round you maintain concentration on this spell, the storm produces addition
 [][SpellVO]
 
 # Suggestion
-- NameVO: [Suggestion]
+- AltName: [Suggestion]
 - CastingTime: 1 action
 - Components: V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
 - Duration: Concentration, up to 8 hours
@@ -6755,7 +6755,7 @@ If you or any of your companions damage the target, the spell ends.
 [][SpellVO]
 
 # Sunbeam
-- NameVO: [Rayon de soleil]
+- AltName: [Rayon de soleil]
 - CastingTime: 1 action
 - Components: V, S, M (a magnifying glass)
 - Duration: Concentration, up to 1 minute
@@ -6778,7 +6778,7 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 [][SpellVO]
 
 # Sunburst
-- NameVO: [Éclat du soleil]
+- AltName: [Éclat du soleil]
 - CastingTime: 1 action
 - Components: V, S, M (fire and a piece of sunstone)
 - Duration: Instantaneous
@@ -6801,7 +6801,7 @@ This spell dispels any darkness in its area that was created by a spell.
 [][SpellVO]
 
 # Symbol
-- NameVO: [Symbole]
+- AltName: [Symbole]
 - CastingTime: 1 minute
 - Components: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
 - Duration: Until dispelled or triggered
@@ -6844,7 +6844,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 [][SpellVO]
 
 # Tasha's Hideous Laughter
-- NameVO: [Fou rire]
+- AltName: [Fou rire]
 - CastingTime: 1 action
 - Components: V, S, M (tiny tarts and a feather that is waved in the air)
 - Duration: Concentration, up to 1 minute
@@ -6865,7 +6865,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 [][SpellVO]
 
 # Telekinesis
-- NameVO: [Télékinésie]
+- AltName: [Télékinésie]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 10 minutes
@@ -6890,7 +6890,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 [][SpellVO]
 
 # Teleport
-- NameVO: [Téléportation]
+- AltName: [Téléportation]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -6943,7 +6943,7 @@ The destination you choose must be known to you, and it must be on the same plan
 [][SpellVO]
 
 # Teleportation Circle
-- NameVO: [Cercle de téléportation]
+- AltName: [Cercle de téléportation]
 - CastingTime: 1 minute
 - Components: V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)
 - Duration: 1 round
@@ -6966,7 +6966,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 [][SpellVO]
 
 # Tenser's Floating Disk
-- NameVO: [Disque flottant]
+- AltName: [Disque flottant]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of mercury)
 - Duration: 1 hour
@@ -6989,7 +6989,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 [][SpellVO]
 
 # Thaumaturgy
-- NameVO: [Thaumaturgie]
+- AltName: [Thaumaturgie]
 - CastingTime: 1 action
 - Components: V
 - Duration: Up to 1 minute
@@ -7022,7 +7022,7 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 [][SpellVO]
 
 # Thunderwave
-- NameVO: [Vague tonnante]
+- AltName: [Vague tonnante]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantaneous
@@ -7045,7 +7045,7 @@ In addition, unsecured objects that are completely within the area of effect are
 [][SpellVO]
 
 # Time Stop
-- NameVO: [Arrêt du temps]
+- AltName: [Arrêt du temps]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -7066,7 +7066,7 @@ This spell ends if one of the actions you use during this period, or any effects
 [][SpellVO]
 
 # Tongues
-- NameVO: [Langues]
+- AltName: [Langues]
 - CastingTime: 1 action
 - Components: V, M (a small clay model of a ziggurat)
 - Duration: 1 hour
@@ -7085,7 +7085,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 [][SpellVO]
 
 # Transport via Plants
-- NameVO: [Transport végétal]
+- AltName: [Transport végétal]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 round
@@ -7104,7 +7104,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 [][SpellVO]
 
 # Tree Stride
-- NameVO: [Passage par les arbres]
+- AltName: [Passage par les arbres]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -7125,7 +7125,7 @@ You can use this transportation ability once per round for the duration. You mus
 [][SpellVO]
 
 # True Polymorph
-- NameVO: [Métamorphose suprême]
+- AltName: [Métamorphose suprême]
 - CastingTime: 1 action
 - Components: V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
 - Duration: Concentration, up to 1 hour
@@ -7160,7 +7160,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 [][SpellVO]
 
 # True Resurrection
-- NameVO: [Résurrection suprême]
+- AltName: [Résurrection suprême]
 - CastingTime: 1 hour
 - Components: V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
 - Duration: Instantaneous
@@ -7183,7 +7183,7 @@ The spell can even provide a new body if the original no longer exists, in which
 [][SpellVO]
 
 # True Seeing
-- NameVO: [Vision suprême]
+- AltName: [Vision suprême]
 - CastingTime: 1 action
 - Components: V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
 - Duration: 1 hour
@@ -7202,7 +7202,7 @@ This spell gives the willing creature you touch the ability to see things as the
 [][SpellVO]
 
 # True Strike
-- NameVO: [Viser juste]
+- AltName: [Viser juste]
 - CastingTime: 1 action
 - Components: S
 - Duration: Concentration, up to 1 round
@@ -7221,7 +7221,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 [][SpellVO]
 
 # Unseen Servant
-- NameVO: [Serviteur invisible]
+- AltName: [Serviteur invisible]
 - CastingTime: 1 action
 - Components: V, S, M (a piece of string and a bit of wood)
 - Duration: 1 hour
@@ -7244,7 +7244,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 [][SpellVO]
 
 # Vampiric Touch
-- NameVO: [Caresse du vampire]
+- AltName: [Caresse du vampire]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -7265,7 +7265,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 [][SpellVO]
 
 # Vicious Mockery
-- NameVO: [Moquerie cruelle]
+- AltName: [Moquerie cruelle]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -7286,7 +7286,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 [][SpellVO]
 
 # Wall of Fire
-- NameVO: [Mur de feu]
+- AltName: [Mur de feu]
 - CastingTime: 1 action
 - Components: V, S, M (a small piece of phosphorus)
 - Duration: Concentration, up to 1 minute
@@ -7313,7 +7313,7 @@ The other side of the wall deals no damage.
 [][SpellVO]
 
 # Wall of Force
-- NameVO: [Mur de force]
+- AltName: [Mur de force]
 - CastingTime: 1 action
 - Components: V, S, M (a pinch of powder made by crushing a clear gemstone)
 - Duration: Concentration, up to 10 minutes
@@ -7334,7 +7334,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 [][SpellVO]
 
 # Wall of Ice
-- NameVO: [Mur de glace]
+- AltName: [Mur de glace]
 - CastingTime: 1 action
 - Components: V, S, M (a small piece of quartz)
 - Duration: Concentration, up to 10 minutes
@@ -7359,7 +7359,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 [][SpellVO]
 
 # Wall of Stone
-- NameVO: [Mur de pierre]
+- AltName: [Mur de pierre]
 - CastingTime: 1 action
 - Components: V, S, M (a small block of granite)
 - Duration: Concentration, up to 10 minutes
@@ -7388,7 +7388,7 @@ If you maintain your concentration on this spell for its whole duration, the wal
 [][SpellVO]
 
 # Wall of Thorns
-- NameVO: [Mur d'épines]
+- AltName: [Mur d'épines]
 - CastingTime: 1 action
 - Components: V, S, M (a handful of thorns)
 - Duration: Concentration, up to 10 minutes
@@ -7413,7 +7413,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 [][SpellVO]
 
 # Warding Bond
-- NameVO: [Lien de protection]
+- AltName: [Lien de protection]
 - CastingTime: 1 action
 - Components: V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)
 - Duration: 1 hour
@@ -7434,7 +7434,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 [][SpellVO]
 
 # Water Breathing
-- NameVO: [Respiration aquatique]
+- AltName: [Respiration aquatique]
 - CastingTime: 1 action
 - Components: V, S, M (a short reed or piece of straw)
 - Duration: 24 hours
@@ -7453,7 +7453,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 [][SpellVO]
 
 # Water Walk
-- NameVO: [Marche sur l'eau]
+- AltName: [Marche sur l'eau]
 - CastingTime: 1 action
 - Components: V, S, M (a piece of cork)
 - Duration: 1 hour
@@ -7474,7 +7474,7 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 [][SpellVO]
 
 # Web
-- NameVO: [Toile d'araignée]
+- AltName: [Toile d'araignée]
 - CastingTime: 1 action
 - Components: V, S, M (a bit of spiderweb)
 - Duration: Concentration, up to 1 hour
@@ -7501,7 +7501,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 [][SpellVO]
 
 # Weird
-- NameVO: [Étrangeté]
+- AltName: [Étrangeté]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Concentration, up to 1 minute
@@ -7520,7 +7520,7 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 [][SpellVO]
 
 # Wind Walk
-- NameVO: [Marche sur le vent]
+- AltName: [Marche sur le vent]
 - CastingTime: 1 minute
 - Components: V, S, M (fire and holy water)
 - Duration: 8 hours
@@ -7541,7 +7541,7 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 [][SpellVO]
 
 # Wind Wall
-- NameVO: [Mur de vent]
+- AltName: [Mur de vent]
 - CastingTime: 1 action
 - Components: V, S, M (a tiny fan and a feather of exotic origin)
 - Duration: Concentration, up to 1 minute
@@ -7564,7 +7564,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 [][SpellVO]
 
 # Wish
-- NameVO: [Souhait]
+- AltName: [Souhait]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -7601,7 +7601,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 [][SpellVO]
 
 # Word of Recall
-- NameVO: [Mot de retour]
+- AltName: [Mot de retour]
 - CastingTime: 1 action
 - Components: V
 - Duration: Instantaneous
@@ -7622,7 +7622,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 [][SpellVO]
 
 # Zone of Truth
-- NameVO: [Zone de vérité]
+- AltName: [Zone de vérité]
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes

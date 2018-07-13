@@ -7,7 +7,7 @@
 
 # Conditions
 
-- NameVO: [États spéciaux](conditions_hd.md#États-spéciaux)
+- AltName: [États spéciaux](conditions_hd.md#États-spéciaux)
 
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monsters attack, or other effect. Most conditions, such as [blinded](conditions_vo.md#blinded), are impairments, but a few, such as invisible, can be advantageous.
 
@@ -22,7 +22,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Blinded
 
-- NameVO: [Aveuglé](conditions_hd.md#aveuglé)
+- AltName: [Aveuglé](conditions_hd.md#aveuglé)
 
 * A blinded creature can't see and automatically fails any ability check that requires sight.
 
@@ -33,7 +33,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Charmed
 
-- NameVO: [Charmé](conditions_hd.md#charmé)
+- AltName: [Charmé](conditions_hd.md#charmé)
 
 * A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 
@@ -44,7 +44,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Deafened
 
-- NameVO: [Assourdi](conditions_hd.md#assourdi)
+- AltName: [Assourdi](conditions_hd.md#assourdi)
 
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
@@ -53,7 +53,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Frightened
 
-- NameVO: [Terrorisé](conditions_hd.md#terrorisé)
+- AltName: [Terrorisé](conditions_hd.md#terrorisé)
 
 * A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
 
@@ -64,7 +64,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Grappled
 
-- NameVO: [Empoigné](conditions_hd.md#empoigné)
+- AltName: [Empoigné](conditions_hd.md#empoigné)
 
 * A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 
@@ -77,7 +77,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Incapacitated
 
-- NameVO: [Neutralisé](conditions_hd.md#neutralisé)
+- AltName: [Neutralisé](conditions_hd.md#neutralisé)
 
 * An incapacitated creature can't take actions or reactions.
 
@@ -86,7 +86,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Invisible
 
-- NameVO: [Invisible](conditions_hd.md#invisible)
+- AltName: [Invisible](conditions_hd.md#invisible)
 
 * An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
 
@@ -97,7 +97,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Paralyzed
 
-- NameVO: [Paralysé](conditions_hd.md#paralysé)
+- AltName: [Paralysé](conditions_hd.md#paralysé)
 
 * A paralyzed creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition) and can't move or speak.
 
@@ -112,7 +112,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Petrified
 
-- NameVO: [Pétrifié](conditions_hd.md#pétrifié)
+- AltName: [Pétrifié](conditions_hd.md#pétrifié)
 
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 
@@ -131,7 +131,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Poisoned
 
-- NameVO: [Empoisonné](conditions_hd.md#empoisonné)
+- AltName: [Empoisonné](conditions_hd.md#empoisonné)
 
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
@@ -140,7 +140,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Prone
 
-- NameVO: [À terre](conditions_hd.md#À-terre)
+- AltName: [À terre](conditions_hd.md#À-terre)
 
 * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 
@@ -153,7 +153,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Restrained
 
-- NameVO: [Entravé](conditions_hd.md#entravé)
+- AltName: [Entravé](conditions_hd.md#entravé)
 
 * A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
 
@@ -166,7 +166,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Stunned
 
-- NameVO: [Étourdi](conditions_hd.md#Étourdi)
+- AltName: [Étourdi](conditions_hd.md#Étourdi)
 
 * A stunned creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move, and can speak only falteringly.
 
@@ -179,7 +179,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Unconscious
 
-- NameVO: [Inconscient](conditions_hd.md#inconscient)
+- AltName: [Inconscient](conditions_hd.md#inconscient)
 
 * An unconscious creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move or speak, and is unaware of its surroundings
 
@@ -196,7 +196,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Exhaustion
 
-- NameVO: [Fatigue et épuisement](conditions_hd.md#fatigue-et-épuisement)
+- AltName: [Fatigue et épuisement](conditions_hd.md#fatigue-et-épuisement)
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
 

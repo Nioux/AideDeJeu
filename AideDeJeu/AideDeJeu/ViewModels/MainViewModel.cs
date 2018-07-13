@@ -87,20 +87,6 @@ namespace AideDeJeu.ViewModels
             new KeyValuePair<ItemSourceType, string>(ItemSourceType.ConditionVO, "Conditions (VO)"),
         };
 
-        private int _ItemsSourcesIndex = 0;
-        public int ItemsSourcesIndex
-        {
-            get
-            {
-                return _ItemsSourcesIndex;
-            }
-            set
-            {
-                SetProperty(ref _ItemsSourcesIndex, value);
-                //ItemSourceType = ItemsSources[value].Key;
-            }
-        }
-
         public Dictionary<ItemSourceType, Func<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Func<ItemsViewModel>>()
         {
             { ItemSourceType.SpellVO, () => new ItemsViewModel(ItemSourceType.SpellVO) },
@@ -131,7 +117,6 @@ namespace AideDeJeu.ViewModels
             return AllFiltersViewModel[itemSourceType].Invoke();
         }
 
-        // Yan : pas besoin d'ObservableCollection, on ne modifie jamais la liste item par item
         public IEnumerable<Item> _Items = new List<Item>();
         public IEnumerable<Item> Items
         {
@@ -158,19 +143,10 @@ namespace AideDeJeu.ViewModels
 
         public MainViewModel()
         {
-            //LoadItemsCommand = new Command(async () =>
-            //    {
-            //        await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
-            //    });
             GotoItemCommand = new Command<Item>(async (item) =>
             {
                 await Navigator.GotoItemDetailPageAsync(item);
-                //await GetItemsViewModel(ItemSourceType).ExecuteGotoItemCommandAsync(item);
             });
-            //SwitchToSpellsHD = new Command(() => ItemSourceType = ItemSourceType.SpellHD);
-            //SwitchToMonstersHD = new Command(() => ItemSourceType = ItemSourceType.MonsterHD);
-            //SwitchToSpellsVO = new Command(() => ItemSourceType = ItemSourceType.SpellVO);
-            //SwitchToMonstersVO = new Command(() => ItemSourceType = ItemSourceType.MonsterVO);
             AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
         }
 

@@ -29,7 +29,7 @@ namespace AideDeJeu.Views
             var item = new MonsterHD
             {
                 Name = "",
-                NameVO = "",
+                AltName = "",
                 //Description = "This is an item description."
             };
 

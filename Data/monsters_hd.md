@@ -2,13 +2,13 @@
 [][Items]
 
 # Créatures (H&D)
-- NameVO: [Monsters](monsters_vo.md)
+- AltName: [Monsters](monsters_vo.md)
 
 
 [][MonsterHD]
 
 # Aboleth
-- NameVO: [Aboleth](monsters_vo.md#aboleth)
+- AltName: [Aboleth](monsters_vo.md#aboleth)
 - Aberration de taille G, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d10+36)
@@ -110,7 +110,7 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le je
 [][MonsterHD]
 
 # Âme-en-peine
-- NameVO: [Wraith](monsters_vo.md#wraith)
+- AltName: [Wraith](monsters_vo.md#wraith)
 - Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 67 (9d8+27)
@@ -183,7 +183,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 [][MonsterHD]
 
 # Déva
-- NameVO: [Deva](monsters_vo.md#deva)
+- AltName: [Deva](monsters_vo.md#deva)
 - Céleste de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -231,7 +231,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 [][MonsterHD]
 
 # Planétar
-- NameVO: [Planetar](monsters_vo.md#planetar)
+- AltName: [Planetar](monsters_vo.md#planetar)
 - Céleste de taille G, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 200 (16d10+112)
@@ -279,7 +279,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 [][MonsterHD]
 
 # Solar
-- NameVO: [Solar](monsters_vo.md#solar)
+- AltName: [Solar](monsters_vo.md#solar)
 - Céleste de taille G, Loyal Bon
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 243 (18d10+144)
@@ -346,7 +346,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 [][MonsterHD]
 
 # Ankheg
-- NameVO: [Ankheg](monsters_vo.md#ankheg)
+- AltName: [Ankheg](monsters_vo.md#ankheg)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre]
 - **Points de vie** 39 (6d10+6)
@@ -372,7 +372,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 [][MonsterHD]
 
 # Azer
-- NameVO: [Azer](monsters_vo.md#azer)
+- AltName: [Azer](monsters_vo.md#azer)
 - Élémentaire de taille M, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle, bouclier)
 - **Points de vie** 39 (6d8+12)
@@ -407,7 +407,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 [][MonsterHD]
 
 # Babélien
-- NameVO: [Gibbering Mouther](monsters_vo.md#gibbering-mouther)
+- AltName: [Gibbering Mouther](monsters_vo.md#gibbering-mouther)
 - Aberration de taille M, neutre
 - **Classe d'armure** 9
 - **Points de vie** 67 (9d8+27)
@@ -442,7 +442,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 [][MonsterHD]
 
 # Basilic
-- NameVO: [Basilisk](monsters_vo.md#basilisk)
+- AltName: [Basilisk](monsters_vo.md#basilisk)
 - Créature monstrueuse de taille M, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -474,7 +474,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 [][MonsterHD]
 
 # Béhir
-- NameVO: [Behir](monsters_vo.md#behir)
+- AltName: [Behir](monsters_vo.md#behir)
 - Créature monstrueuse de taille TG, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
@@ -512,7 +512,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 [][MonsterHD]
 
 # Bulette
-- NameVO: [Bulette](monsters_vo.md#bulette)
+- AltName: [Bulette](monsters_vo.md#bulette)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 94 (9d10+45)
@@ -545,7 +545,7 @@ Chacune de ces créatures doit réussir un jet de sauvegarde de Force ou de Dext
 [][MonsterHD]
 
 # Centaure
-- NameVO: [Centaur](monsters_vo.md#centaur)
+- AltName: [Centaur](monsters_vo.md#centaur)
 - Créature monstrueuse de taille G, Neutre Bon
 - **Classe d'armure** 12
 - **Points de vie** 45 (6d10+12)
@@ -618,7 +618,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de s
 [][MonsterHD]
 
 # Criard
-- NameVO: [Shrieker](monsters_vo.md#shrieker)
+- AltName: [Shrieker](monsters_vo.md#shrieker)
 - Plante de taille M, non-alignée
 - **Classe d'armure** 5
 - **Points de vie** 13 (3d8)
@@ -645,7 +645,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un jet de s
 [][MonsterHD]
 
 # Moisissure violette
-- NameVO: [Violet Fungus](monsters_vo.md#violet-fungus)
+- AltName: [Violet Fungus](monsters_vo.md#violet-fungus)
 - Plante de taille M, non-alignée
 - **Classe d'armure** 5
 - **Points de vie** 18 (4d8)
@@ -676,7 +676,7 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 [][MonsterHD]
 
 # Chimère
-- NameVO: [Chimera](monsters_vo.md#chimera)
+- AltName: [Chimera](monsters_vo.md#chimera)
 - Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -713,7 +713,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 [][MonsterHD]
 
 # Chuul
-- NameVO: [Chuul](monsters_vo.md#chuul)
+- AltName: [Chuul](monsters_vo.md#chuul)
 - Aberration de taille G, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 93 (11d10+33)
@@ -752,7 +752,7 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le j
 [][MonsterHD]
 
 # Cockatrice
-- NameVO: [Cockatrice](monsters_vo.md#cockatrice)
+- AltName: [Cockatrice](monsters_vo.md#cockatrice)
 - Créature monstrueuse de taille P, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 27 (6d6+6)
@@ -776,7 +776,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un jet de sa
 [][MonsterHD]
 
 # Couatl
-- NameVO: [Couatl](monsters_vo.md#couatl)
+- AltName: [Couatl](monsters_vo.md#couatl)
 - Céleste de taille M, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
@@ -866,7 +866,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [][MonsterHD]
 
 # Balor
-- NameVO: [Balor](monsters_vo.md#balor)
+- AltName: [Balor](monsters_vo.md#balor)
 - Fiélon (démon) de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 262 (21d12+126)
@@ -912,7 +912,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 [][MonsterHD]
 
 # Dretch
-- NameVO: [Dretch](monsters_vo.md#dretch)
+- AltName: [Dretch](monsters_vo.md#dretch)
 - Fiélon (démon) de taille P, Chaotique Mauvais
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 18 (4d6+4)
@@ -947,7 +947,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 [][MonsterHD]
 
 # Glabrezu
-- NameVO: [Glabrezu](monsters_vo.md#glabrezu)
+- AltName: [Glabrezu](monsters_vo.md#glabrezu)
 - Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -991,7 +991,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 [][MonsterHD]
 
 # Hezrou
-- NameVO: [Hezrou](monsters_vo.md#hezrou)
+- AltName: [Hezrou](monsters_vo.md#hezrou)
 - Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 136 (13d10+65)
@@ -1033,7 +1033,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 [][MonsterHD]
 
 # Marilith
-- NameVO: [Marilith](monsters_vo.md#marilith)
+- AltName: [Marilith](monsters_vo.md#marilith)
 - Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 189 (18d10+90)
@@ -1083,7 +1083,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 [][MonsterHD]
 
 # Nalfeshnie
-- NameVO: [Nalfeshnee](monsters_vo.md#nalfeshnee)
+- AltName: [Nalfeshnee](monsters_vo.md#nalfeshnee)
 - Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d10+96)
@@ -1129,7 +1129,7 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 [][MonsterHD]
 
 # Quasit
-- NameVO: [Quasit](monsters_vo.md#quasit)
+- AltName: [Quasit](monsters_vo.md#quasit)
 - Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 7 (3d4)
@@ -1171,7 +1171,7 @@ La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et 
 [][MonsterHD]
 
 # Vrock
-- NameVO: [Vrock](monsters_vo.md#vrock)
+- AltName: [Vrock](monsters_vo.md#vrock)
 - Fiélon (démon) de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 104 (11d10+44)
@@ -1215,7 +1215,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 [][MonsterHD]
 
 # Destrier noir
-- NameVO: [Nightmare](monsters_vo.md#nightmare)
+- AltName: [Nightmare](monsters_vo.md#nightmare)
 - Fiélon de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
@@ -1319,7 +1319,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 [][MonsterHD]
 
 # Diable barbelé
-- NameVO: [Barbed Devil](monsters_vo.md#barbed-devil)
+- AltName: [Barbed Devil](monsters_vo.md#barbed-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
@@ -1366,7 +1366,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 [][MonsterHD]
 
 # Diable barbu
-- NameVO: [Bearded Devil](monsters_vo.md#bearded-devil)
+- AltName: [Bearded Devil](monsters_vo.md#bearded-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -1408,7 +1408,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 [][MonsterHD]
 
 # Diable cornu
-- NameVO: [Horned Devil](monsters_vo.md#horned-devil)
+- AltName: [Horned Devil](monsters_vo.md#horned-devil)
 - Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -1452,7 +1452,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 [][MonsterHD]
 
 # Diable gelé
-- NameVO: [Ice Devil](monsters_vo.md#ice-devil)
+- AltName: [Ice Devil](monsters_vo.md#ice-devil)
 - Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 180 (19d10+76)
@@ -1510,7 +1510,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 [][MonsterHD]
 
 # Diable des chaînes
-- NameVO: [Chain Devil](monsters_vo.md#chain-devil)
+- AltName: [Chain Devil](monsters_vo.md#chain-devil)
 - Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
@@ -1556,7 +1556,7 @@ Si celle-ci peut voir le diable, elle doit réussir un jet de sauvegarde de Sage
 [][MonsterHD]
 
 # Diable osseux
-- NameVO: [Bone Devil](monsters_vo.md#bone-devil)
+- AltName: [Bone Devil](monsters_vo.md#bone-devil)
 - Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
@@ -1597,7 +1597,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 [][MonsterHD]
 
 # Diablotin
-- NameVO: [Imp](monsters_vo.md#imp)
+- AltName: [Imp](monsters_vo.md#imp)
 - Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 10 (3d4+3)
@@ -1637,7 +1637,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 [][MonsterHD]
 
 # Diantrefosse
-- NameVO: [Pit Fiend](monsters_vo.md#pit-fiend)
+- AltName: [Pit Fiend](monsters_vo.md#pit-fiend)
 - Fiélon (diable) de taille G, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 300 (24d10+168)
@@ -1693,7 +1693,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 [][MonsterHD]
 
 # Érinye
-- NameVO: [Erinyes](monsters_vo.md#erinyes)
+- AltName: [Erinyes](monsters_vo.md#erinyes)
 - Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 153 (18d8+72)
@@ -1737,7 +1737,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 [][MonsterHD]
 
 # Lémure
-- NameVO: [Lemure](monsters_vo.md#lemure)
+- AltName: [Lemure](monsters_vo.md#lemure)
 - Fiélon (diable) de taille M, Loyal Mauvais
 - **Classe d'armure** 7
 - **Points de vie** 13 (3d8)
@@ -1810,7 +1810,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 [][MonsterHD]
 
 # Plésiosaure
-- NameVO: [Plesiosaurus](monsters_vo.md#plesiosaurus)
+- AltName: [Plesiosaurus](monsters_vo.md#plesiosaurus)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
@@ -1839,7 +1839,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 [][MonsterHD]
 
 # Tricératops
-- NameVO: [Triceratops](monsters_vo.md#triceratops)
+- AltName: [Triceratops](monsters_vo.md#triceratops)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
@@ -1871,7 +1871,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 [][MonsterHD]
 
 # Tyrannosaure
-- NameVO: [Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)
+- AltName: [Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 136 (13d12+52)
@@ -1902,7 +1902,7 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 [][MonsterHD]
 
 # Doppleganger
-- NameVO: [Doppelganger](monsters_vo.md#doppelganger)
+- AltName: [Doppelganger](monsters_vo.md#doppelganger)
 - Créature monstrueuse (métamorphe) de taille M, neutre
 - **Classe d'armure** 14
 - **Points de vie** 52 (8d8+16)
@@ -1942,7 +1942,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 [][MonsterHD]
 
 # Dragon blanc vénérable
-- NameVO: [Ancient White Dragon]
+- AltName: [Ancient White Dragon]
 - Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 333 (18d20+144)
@@ -1999,7 +1999,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon blanc adulte
-- NameVO: [Adult White Dragon]
+- AltName: [Adult White Dragon]
 - Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 200 (16d12+96)
@@ -2056,7 +2056,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon blanc
-- NameVO: [Young White Dragon]
+- AltName: [Young White Dragon]
 - Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
@@ -2095,7 +2095,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 [][MonsterHD]
 
 # Dragonnet blanc
-- NameVO: [White Dragon Wyrmling]
+- AltName: [White Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
@@ -2124,7 +2124,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 [][MonsterHD]
 
 # Dragon bleu vénérable
-- NameVO: [Ancient Blue Dragon]
+- AltName: [Ancient Blue Dragon]
 - Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
@@ -2179,7 +2179,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon bleu adulte
-- NameVO: [Adult Blue Dragon]
+- AltName: [Adult Blue Dragon]
 - Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
@@ -2234,7 +2234,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon bleu
-- NameVO: [Young Blue Dragon]
+- AltName: [Young Blue Dragon]
 - Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
@@ -2269,7 +2269,7 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 [][MonsterHD]
 
 # Dragonnet bleu
-- NameVO: [Blue Dragon Wyrmling]
+- AltName: [Blue Dragon Wyrmling]
 - Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -2298,7 +2298,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 [][MonsterHD]
 
 # Dragon noir vénérable
-- NameVO: [Ancient Black Dragon]
+- AltName: [Ancient Black Dragon]
 - Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 367 (21d20+147)
@@ -2353,7 +2353,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon noir adulte
-- NameVO: [Adult Black Dragon]
+- AltName: [Adult Black Dragon]
 - Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 195 (17d12+85)
@@ -2410,7 +2410,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon noir
-- NameVO: [Young Black Dragon]
+- AltName: [Young Black Dragon]
 - Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -2449,7 +2449,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 [][MonsterHD]
 
 # Dragonnet noir
-- NameVO: [Black Dragon Wyrmling]
+- AltName: [Black Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
@@ -2482,7 +2482,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 [][MonsterHD]
 
 # Dragon rouge vénérable
-- NameVO: [Ancient Red Dragon]
+- AltName: [Ancient Red Dragon]
 - Dragon de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
@@ -2537,7 +2537,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon rouge adulte
-- NameVO: [Adult Red Dragon]
+- AltName: [Adult Red Dragon]
 - Dragon de taille TG, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
@@ -2592,7 +2592,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon rouge
-- NameVO: [Young Red Dragon]
+- AltName: [Young Red Dragon]
 - Dragon de taille G, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -2627,7 +2627,7 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 [][MonsterHD]
 
 # Dragonnet rouge
-- NameVO: [Red Dragon Wyrmling]
+- AltName: [Red Dragon Wyrmling]
 - Dragon de taille M, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -2656,7 +2656,7 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 [][MonsterHD]
 
 # Dragon vert vénérable
-- NameVO: [Ancient Green Dragon]
+- AltName: [Ancient Green Dragon]
 - Dragon de taille Gig, Loyal Mauvais
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 385 (22d20+154)
@@ -2716,7 +2716,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon vert adulte
-- NameVO: [Adult Green Dragon]
+- AltName: [Adult Green Dragon]
 - Dragon de taille TG, Loyal Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d12+90)
@@ -2774,7 +2774,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon vert
-- NameVO: [Young Green Dragon]
+- AltName: [Young Green Dragon]
 - Dragon de taille G, Loyal Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -2814,7 +2814,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 [][MonsterHD]
 
 # Dragonnet vert
-- NameVO: [Green Dragon Wyrmling]
+- AltName: [Green Dragon Wyrmling]
 - Dragon de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 38 (7d8+7)
@@ -2848,7 +2848,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 [][MonsterHD]
 
 # Dragon d'airain vénérable
-- NameVO: [Ancient Brass Dragon]
+- AltName: [Ancient Brass Dragon]
 - Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
@@ -2913,7 +2913,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon d'airain adulte
-- NameVO: [Adult Brass Dragon]
+- AltName: [Adult Brass Dragon]
 - Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
@@ -2972,7 +2972,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon d'airain
-- NameVO: [Young Brass Dragon]
+- AltName: [Young Brass Dragon]
 - Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -3011,7 +3011,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 [][MonsterHD]
 
 # Dragonnet d'airain
-- NameVO: [Brass Dragon Wyrmling]
+- AltName: [Brass Dragon Wyrmling]
 - Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 16 (3d8+3)
@@ -3044,7 +3044,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 [][MonsterHD]
 
 # Dragon d'argent vénérable
-- NameVO: [Ancient Silver Dragon]
+- AltName: [Ancient Silver Dragon]
 - Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 487 (25d20+225)
@@ -3107,7 +3107,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon d'argent adulte
-- NameVO: [Adult Silver Dragon]
+- AltName: [Adult Silver Dragon]
 - Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
@@ -3172,7 +3172,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon d'argent
-- NameVO: [Young Silver Dragon]
+- AltName: [Young Silver Dragon]
 - Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
@@ -3211,7 +3211,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 [][MonsterHD]
 
 # Dragonnet d'argent
-- NameVO: [Silver Dragon Wyrmling]
+- AltName: [Silver Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
@@ -3244,7 +3244,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 [][MonsterHD]
 
 # Dragon de bronze vénérable
-- NameVO: [Ancient Bronze Dragon]
+- AltName: [Ancient Bronze Dragon]
 - Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 444 (24d20+192)
@@ -3309,7 +3309,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon de bronze adulte
-- NameVO: [Adult Bronze Dragon]
+- AltName: [Adult Bronze Dragon]
 - Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
@@ -3376,7 +3376,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon de bronze
-- NameVO: [Young Bronze Dragon]
+- AltName: [Young Bronze Dragon]
 - Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
@@ -3419,7 +3419,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 [][MonsterHD]
 
 # Dragonnet de bronze
-- NameVO: [Bronze Dragon Wyrmling]
+- AltName: [Bronze Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
@@ -3456,7 +3456,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 [][MonsterHD]
 
 # Dragon de cuivre vénérable
-- NameVO: [Ancient Copper Dragon]
+- AltName: [Ancient Copper Dragon]
 - Dragon de taille Gig, Chaotique Bon
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 350 (20d20+140)
@@ -3523,7 +3523,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon de cuivre adulte
-- NameVO: [Adult Copper Dragon]
+- AltName: [Adult Copper Dragon]
 - Dragon de taille TG, Chaotique Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
@@ -3584,7 +3584,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon de cuivre
-- NameVO: [Young Copper Dragon]
+- AltName: [Young Copper Dragon]
 - Dragon de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
@@ -3627,7 +3627,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le jet de sauvegarde
 [][MonsterHD]
 
 # Dragonnet de cuivre
-- NameVO: [Copper Dragon Wyrmling]
+- AltName: [Copper Dragon Wyrmling]
 - Dragon de taille M, Chaotique Bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
@@ -3660,7 +3660,7 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 [][MonsterHD]
 
 # Dragon d'or vénérable
-- NameVO: [Ancient Gold Dragon]
+- AltName: [Ancient Gold Dragon]
 - Dragon de taille Gig, Loyal Bon
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 546 (28d20+252)
@@ -3725,7 +3725,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Dragon d'or adulte
-- NameVO: [Adult Gold Dragon]
+- AltName: [Adult Gold Dragon]
 - Dragon de taille TG, Loyal Bon
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
@@ -3792,7 +3792,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Jeune dragon d'or
-- NameVO: [Young Gold Dragon]
+- AltName: [Young Gold Dragon]
 - Dragon de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -3835,7 +3835,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 [][MonsterHD]
 
 # Dragonnet d'or
-- NameVO: [Gold Dragon Wyrmling]
+- AltName: [Gold Dragon Wyrmling]
 - Dragon de taille M, Loyal Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
@@ -3872,7 +3872,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 [][MonsterHD]
 
 # Dragon-tortue
-- NameVO: [Dragon Turtle](monsters_vo.md#dragon-turtle)
+- AltName: [Dragon Turtle](monsters_vo.md#dragon-turtle)
 - Dragon de taille Gig, neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 341 (22d20+110)
@@ -3952,7 +3952,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 [][MonsterHD]
 
 # Drider
-- NameVO: [Drider](monsters_vo.md#drider)
+- AltName: [Drider](monsters_vo.md#drider)
 - Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 123 (13d10+52)
@@ -4003,7 +4003,7 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 [][MonsterHD]
 
 # Drow
-- NameVO: [Drow](monsters_vo.md#drow)
+- AltName: [Drow](monsters_vo.md#drow)
 - Humanoïde (elfe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 13 (3d8)
@@ -4107,7 +4107,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 [][MonsterHD]
 
 # Dryade
-- NameVO: [Dryad](monsters_vo.md#dryad)
+- AltName: [Dryad](monsters_vo.md#dryad)
 - Fée de taille M, neutre
 - **Classe d'armure** 11 (16 avec peau d'écorce)
 - **Points de vie** 22 (5d8)
@@ -4154,7 +4154,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 [][MonsterHD]
 
 # Duergar
-- NameVO: [Duergar](monsters_vo.md#duergar)
+- AltName: [Duergar](monsters_vo.md#duergar)
 - Humanoïde (nain) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure d'écailles, bouclier)
 - **Points de vie** 26 (4d8+8)
@@ -4195,7 +4195,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 [][MonsterHD]
 
 # Élémentaire de l'air
-- NameVO: [Air Elemental](monsters_vo.md#air-elemental)
+- AltName: [Air Elemental](monsters_vo.md#air-elemental)
 - Élémentaire de taille G, neutre
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d10+24)
@@ -4234,7 +4234,7 @@ Si le jet de sauvegarde est réussi, la cible subit la moitié des dégâts cont
 [][MonsterHD]
 
 # Élémentaire de l'eau
-- NameVO: [Water Elemental](monsters_vo.md#water-elemental)
+- AltName: [Water Elemental](monsters_vo.md#water-elemental)
 - Élémentaire de taille G, neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -4273,7 +4273,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 [][MonsterHD]
 
 # Élémentaire du feu
-- NameVO: [Fire Elemental](monsters_vo.md#fire-elemental)
+- AltName: [Fire Elemental](monsters_vo.md#fire-elemental)
 - Élémentaire de taille G, neutre
 - **Classe d'armure** 13
 - **Points de vie** 102 (12d10+36)
@@ -4310,7 +4310,7 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 [][MonsterHD]
 
 # Élémentaire de la terre
-- NameVO: [Earth Elemental](monsters_vo.md#earth-elemental)
+- AltName: [Earth Elemental](monsters_vo.md#earth-elemental)
 - Élémentaire de taille G, neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
@@ -4346,7 +4346,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 [][MonsterHD]
 
 # Enlaceur
-- NameVO: [Roper](monsters_vo.md#roper)
+- AltName: [Roper](monsters_vo.md#roper)
 - Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 93 (11d10+33)
@@ -4389,7 +4389,7 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 [][MonsterHD]
 
 # Esprit follet
-- NameVO: [Sprite](monsters_vo.md#sprite)
+- AltName: [Sprite](monsters_vo.md#sprite)
 - Fée de taille TP, Neutre Bonne
 - **Classe d'armure** 15 (armure de cuir)
 - **Points de vie** 2 (1d4)
@@ -4422,7 +4422,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un jet de sauvegarde 
 [][MonsterHD]
 
 # Ettercap
-- NameVO: [Ettercap](monsters_vo.md#ettercap)
+- AltName: [Ettercap](monsters_vo.md#ettercap)
 - Créature monstrueuse de taille M, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)
@@ -4465,7 +4465,7 @@ _Touché :_ la créature est [entravée] par la toile. Par une action, la créat
 [][MonsterHD]
 
 # Ettin
-- NameVO: [Ettin](monsters_vo.md#ettin)
+- AltName: [Ettin](monsters_vo.md#ettin)
 - Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -4502,7 +4502,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 [][MonsterHD]
 
 # Fantôme
-- NameVO: [Ghost](monsters_vo.md#ghost)
+- AltName: [Ghost](monsters_vo.md#ghost)
 - Mort-vivant de taille M, n'importe quel alignement
 - **Classe d'armure** 11
 - **Points de vie** 45 (10d8)
@@ -4545,7 +4545,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 [][MonsterHD]
 
 # Feu follet
-- NameVO: [Will-o'-Wisp](monsters_vo.md#will-o-wisp)
+- AltName: [Will-o'-Wisp](monsters_vo.md#will-o-wisp)
 - Mort-vivant de taille TP, Chaotique Mauvais
 - **Classe d'armure** 19
 - **Points de vie** 22 (9d4)
@@ -4584,7 +4584,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 [][MonsterHD]
 
 # Garde animé
-- NameVO: [Shield Guardian](monsters_vo.md#shield-guardian)
+- AltName: [Shield Guardian](monsters_vo.md#shield-guardian)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
@@ -4624,7 +4624,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 [][MonsterHD]
 
 # Gargouille
-- NameVO: [Gargoyle](monsters_vo.md#gargoyle)
+- AltName: [Gargoyle](monsters_vo.md#gargoyle)
 - Élémentaire de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (7d8+21)
@@ -4661,7 +4661,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Géant des collines
-- NameVO: [Hill Giant](monsters_vo.md#hill-giant)
+- AltName: [Hill Giant](monsters_vo.md#hill-giant)
 - Géant de taille TG, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
@@ -4692,7 +4692,7 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 [][MonsterHD]
 
 # Géant des nuages
-- NameVO: [Cloud Giant](monsters_vo.md#cloud-giant)
+- AltName: [Cloud Giant](monsters_vo.md#cloud-giant)
 - Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 200 (16d12+96)
@@ -4736,7 +4736,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 [][MonsterHD]
 
 # Géant des pierres
-- NameVO: [Stone Giant](monsters_vo.md#stone-giant)
+- AltName: [Stone Giant](monsters_vo.md#stone-giant)
 - Géant de taille TG, neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
@@ -4772,7 +4772,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 [][MonsterHD]
 
 # Géant des tempêtes
-- NameVO: [Storm Giant](monsters_vo.md#storm-giant)
+- AltName: [Storm Giant](monsters_vo.md#storm-giant)
 - Géant de taille TG, Chaotique Bon
 - **Classe d'armure** 16 (armure d'écailles)
 - **Points de vie** 230 (20d12+100)
@@ -4818,7 +4818,7 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 [][MonsterHD]
 
 # Géant du feu
-- NameVO: [Fire Giant](monsters_vo.md#fire-giant)
+- AltName: [Fire Giant](monsters_vo.md#fire-giant)
 - Géant de taille TG, Loyal Mauvais
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 162 (13d12+78)
@@ -4851,7 +4851,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 [][MonsterHD]
 
 # Géant du givre
-- NameVO: [Frost Giant](monsters_vo.md#frost-giant)
+- AltName: [Frost Giant](monsters_vo.md#frost-giant)
 - Géant de taille TG, Neutre Mauvais
 - **Classe d'armure** 15 (armure composite)
 - **Points de vie** 138 (12d12+60)
@@ -4884,7 +4884,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 [][MonsterHD]
 
 # Djinn
-- NameVO: [Djinni](monsters_vo.md#djinni)
+- AltName: [Djinni](monsters_vo.md#djinni)
 - Élémentaire de taille G, Chaotique Bon
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (14d10+84)
@@ -4930,7 +4930,7 @@ Si le test est réussi, la créature n'est plus [entravée] et se déplace vers 
 [][MonsterHD]
 
 # Éfrit
-- NameVO: [Efreeti](monsters_vo.md#efreeti)
+- AltName: [Efreeti](monsters_vo.md#efreeti)
 - Élémentaire de taille G, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 200 (16d10+112)
@@ -4974,7 +4974,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 [][MonsterHD]
 
 # Gnoll
-- NameVO: [Gnoll](monsters_vo.md#gnoll)
+- AltName: [Gnoll](monsters_vo.md#gnoll)
 - Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Classe d'armure** 15 (armure de peau, bouclier)
 - **Points de vie** 22 (5d8)
@@ -5049,7 +5049,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 [][MonsterHD]
 
 # Gnome des profondeurs (svirfneblin)
-- NameVO: [Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)
+- AltName: [Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)
 - Humanoïde (gnome) de taille P, Neutre Bon
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 16 (3d6+6)
@@ -5090,7 +5090,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 [][MonsterHD]
 
 # Gobelin
-- NameVO: [Goblin](monsters_vo.md#goblin)
+- AltName: [Goblin](monsters_vo.md#goblin)
 - Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Classe d'armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 7 (2d6)
@@ -5251,7 +5251,7 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 [][MonsterHD]
 
 # Gobelours
-- NameVO: [Bugbear](monsters_vo.md#bugbear)
+- AltName: [Bugbear](monsters_vo.md#bugbear)
 - Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
 - **Classe d'armure** 16 (armure de peau, bouclier)
 - **Points de vie** 27 (5d8+5)
@@ -5328,7 +5328,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 [][MonsterHD]
 
 # Golem d'argile
-- NameVO: [Clay Golem](monsters_vo.md#clay-golem)
+- AltName: [Clay Golem](monsters_vo.md#clay-golem)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d10+56)
@@ -5374,7 +5374,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 [][MonsterHD]
 
 # Golem de chair
-- NameVO: [Flesh Golem](monsters_vo.md#flesh-golem)
+- AltName: [Flesh Golem](monsters_vo.md#flesh-golem)
 - Créature artificielle de taille M, neutre
 - **Classe d'armure** 9
 - **Points de vie** 93 (11d8+44)
@@ -5426,7 +5426,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 [][MonsterHD]
 
 # Golem de fer
-- NameVO: [Iron Golem](monsters_vo.md#iron-golem)
+- AltName: [Iron Golem](monsters_vo.md#iron-golem)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 210 (20d10+100)
@@ -5470,7 +5470,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 [][MonsterHD]
 
 # Golem de pierre
-- NameVO: [Stone Golem](monsters_vo.md#stone-golem)
+- AltName: [Stone Golem](monsters_vo.md#stone-golem)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -5508,7 +5508,7 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 [][MonsterHD]
 
 # Gorgone
-- NameVO: [Gorgon](monsters_vo.md#gorgon)
+- AltName: [Gorgon](monsters_vo.md#gorgon)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -5546,7 +5546,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un jet de sauv
 [][MonsterHD]
 
 # Goule
-- NameVO: [Ghoul](monsters_vo.md#ghoul)
+- AltName: [Ghoul](monsters_vo.md#ghoul)
 - Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
@@ -5576,7 +5576,7 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Blême
-- NameVO: [Ghast](monsters_vo.md#ghast)
+- AltName: [Ghast](monsters_vo.md#ghast)
 - Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 13
 - **Points de vie** 36 (8d8)
@@ -5613,7 +5613,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 [][MonsterHD]
 
 # Grick
-- NameVO: [Grick](monsters_vo.md#grick)
+- AltName: [Grick](monsters_vo.md#grick)
 - Créature monstrueuse de taille M, neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (6d8)
@@ -5648,7 +5648,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 [][MonsterHD]
 
 # Griffon
-- NameVO: [Griffon](monsters_vo.md#griffon)
+- AltName: [Griffon](monsters_vo.md#griffon)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 59 (7d10+21)
@@ -5683,7 +5683,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 [][MonsterHD]
 
 # Guenaude aquatique
-- NameVO: [Sea Hag](monsters_vo.md#sea-hag)
+- AltName: [Sea Hag](monsters_vo.md#sea-hag)
 - Fée de taille M, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d8+21)
@@ -5721,7 +5721,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Guenaude nocturne
-- NameVO: [Night Hag](monsters_vo.md#night-hag)
+- AltName: [Night Hag](monsters_vo.md#night-hag)
 - Fiélon de taille M, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
@@ -5766,7 +5766,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 [][MonsterHD]
 
 # Guenaude verte
-- NameVO: [Green Hag](monsters_vo.md#green-hag)
+- AltName: [Green Hag](monsters_vo.md#green-hag)
 - Fée de taille M, Neutre Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
@@ -5809,7 +5809,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 [][MonsterHD]
 
 # Harpie
-- NameVO: [Harpy](monsters_vo.md#harpy)
+- AltName: [Harpy](monsters_vo.md#harpy)
 - Créature monstrueuse de taille M, Chaotique Mauvais
 - **Classe d'armure** 11
 - **Points de vie** 38 (7d8+7)
@@ -5847,7 +5847,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 [][MonsterHD]
 
 # Hibours
-- NameVO: [Owlbear](monsters_vo.md#owlbear)
+- AltName: [Owlbear](monsters_vo.md#owlbear)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d10+21)
@@ -5882,7 +5882,7 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 [][MonsterHD]
 
 # Hippogriffe
-- NameVO: [Hippogriff](monsters_vo.md#hippogriff)
+- AltName: [Hippogriff](monsters_vo.md#hippogriff)
 - Créature monstrueuse de taille G, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
@@ -5917,7 +5917,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Hobgobelin
-- NameVO: [Hobgoblin](monsters_vo.md#hobgoblin)
+- AltName: [Hobgoblin](monsters_vo.md#hobgoblin)
 - Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
 - **Points de vie** 11 (2d8+2)
@@ -5984,7 +5984,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 [][MonsterHD]
 
 # Homme-lézard
-- NameVO: [Lizardfolk](monsters_vo.md#lizardfolk)
+- AltName: [Lizardfolk](monsters_vo.md#lizardfolk)
 - Humanoïde (homme-lézard) de taille M, Neutre
 - **Classe d'armure** 15 (armure naturelle, bouclier)
 - **Points de vie** 22 (4d8+4)
@@ -6069,7 +6069,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 [][MonsterHD]
 
 # Homme-poisson
-- NameVO: [Merfolk](monsters_vo.md#merfolk)
+- AltName: [Merfolk](monsters_vo.md#merfolk)
 - Humanoïde (homme-poisson) de taille M, Neutre
 - **Classe d'armure** 11
 - **Points de vie** 11 (2d8+2)
@@ -6098,7 +6098,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 [][MonsterHD]
 
 # Homoncule
-- NameVO: [Homunculus](monsters_vo.md#homunculus)
+- AltName: [Homunculus](monsters_vo.md#homunculus)
 - Créature artificielle de taille TP, neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 5 (2d4)
@@ -6128,7 +6128,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un jet de sauvegarde 
 [][MonsterHD]
 
 # Hydre
-- NameVO: [Hydra](monsters_vo.md#hydra)
+- AltName: [Hydra](monsters_vo.md#hydra)
 - Créature monstrueuse de taille TG, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
@@ -6169,7 +6169,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 [][MonsterHD]
 
 # Kobold
-- NameVO: [Kobold](monsters_vo.md#kobold)
+- AltName: [Kobold](monsters_vo.md#kobold)
 - Humanoïde (kobold) de taille P, Loyal Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 5 (2d6-2)
@@ -6240,7 +6240,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 [][MonsterHD]
 
 # Kraken
-- NameVO: [Kraken](monsters_vo.md#kraken)
+- AltName: [Kraken](monsters_vo.md#kraken)
 - Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 472 (27d20+189)
@@ -6297,7 +6297,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Lamie
-- NameVO: [Lamia](monsters_vo.md#lamia)
+- AltName: [Lamia](monsters_vo.md#lamia)
 - Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 97 (13d10+26)
@@ -6342,7 +6342,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 [][MonsterHD]
 
 # Liche
-- NameVO: [Lich](monsters_vo.md#lich)
+- AltName: [Lich](monsters_vo.md#lich)
 - Mort-vivant de taille M, alignement Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
@@ -6412,7 +6412,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 [][MonsterHD]
 
 # Licorne
-- NameVO: [Unicorn](monsters_vo.md#unicorn)
+- AltName: [Unicorn](monsters_vo.md#unicorn)
 - Céleste de taille G, Loyal Bon
 - **Classe d'armure** 12
 - **Points de vie** 67 (9d10+18)
@@ -6472,7 +6472,7 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 [][MonsterHD]
 
 # Loup-garou
-- NameVO: [Werewolf](monsters_vo.md#werewolf)
+- AltName: [Werewolf](monsters_vo.md#werewolf)
 - Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
 - **Points de vie** 58 (9d8+18)
@@ -6514,7 +6514,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 [][MonsterHD]
 
 # Ours-garou
-- NameVO: [Werebear](monsters_vo.md#werebear)
+- AltName: [Werebear](monsters_vo.md#werebear)
 - Humanoïde (humain, métamorphe) de taille M, Neutre Bon
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
 - **Points de vie** 135 (18d8+54)
@@ -6556,7 +6556,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 [][MonsterHD]
 
 # Rat-garou
-- NameVO: [Wererat](monsters_vo.md#wererat)
+- AltName: [Wererat](monsters_vo.md#wererat)
 - Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 33 (6d8+6)
@@ -6598,7 +6598,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 [][MonsterHD]
 
 # Sanglier-garou
-- NameVO: [Wereboar](monsters_vo.md#wereboar)
+- AltName: [Wereboar](monsters_vo.md#wereboar)
 - Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
 - **Points de vie** 78 (12d8+24)
@@ -6638,7 +6638,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 [][MonsterHD]
 
 # Tigre-garou
-- NameVO: [Weretiger](monsters_vo.md#weretiger)
+- AltName: [Weretiger](monsters_vo.md#weretiger)
 - Humanoïde (humain, métamorphe) de taille M, Neutre
 - **Classe d'armure** 12
 - **Points de vie** 120 (16d8+48)
@@ -6686,7 +6686,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 [][MonsterHD]
 
 # Magmatique
-- NameVO: [Magmin](monsters_vo.md#magmin)
+- AltName: [Magmin](monsters_vo.md#magmin)
 - Élémentaire de taille P, Chaotique Neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
@@ -6722,7 +6722,7 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 [][MonsterHD]
 
 # Manteleur
-- NameVO: [Cloaker](monsters_vo.md#cloaker)
+- AltName: [Cloaker](monsters_vo.md#cloaker)
 - Aberration de taille G, Chaotique Neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 78 (12d10+12)
@@ -6771,7 +6771,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 [][MonsterHD]
 
 # Mante obscure
-- NameVO: [Darkmantle](monsters_vo.md#darkmantle)
+- AltName: [Darkmantle](monsters_vo.md#darkmantle)
 - Créature monstrueuse de taille P, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 22 (5d6+5)
@@ -6810,7 +6810,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 [][MonsterHD]
 
 # Manticore
-- NameVO: [Manticore](monsters_vo.md#manticore)
+- AltName: [Manticore](monsters_vo.md#manticore)
 - Créature monstrueuse de taille G, Loyal Mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 68 (8d10+24)
@@ -6848,7 +6848,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 [][MonsterHD]
 
 # Méduse
-- NameVO: [Medusa](monsters_vo.md#medusa)
+- AltName: [Medusa](monsters_vo.md#medusa)
 - Créature monstrueuse de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (17d8+51)
@@ -6891,7 +6891,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Méphite de glace
-- NameVO: [Ice Mephit](monsters_vo.md#ice-mephit)
+- AltName: [Ice Mephit](monsters_vo.md#ice-mephit)
 - Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 11
 - **Points de vie** 21 (6d6)
@@ -6931,7 +6931,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 [][MonsterHD]
 
 # Méphite de magma
-- NameVO: [Magma Mephit](monsters_vo.md#magma-mephit)
+- AltName: [Magma Mephit](monsters_vo.md#magma-mephit)
 - Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 11
 - **Points de vie** 22 (5d6+5)
@@ -6969,7 +6969,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 [][MonsterHD]
 
 # Méphite de poussière
-- NameVO: [Dust Mephit](monsters_vo.md#dust-mephit)
+- AltName: [Dust Mephit](monsters_vo.md#dust-mephit)
 - Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 17 (5d6)
@@ -7007,7 +7007,7 @@ Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tour
 [][MonsterHD]
 
 # Méphite de vapeur
-- NameVO: [Steam Mephit](monsters_vo.md#steam-mephit)
+- AltName: [Steam Mephit](monsters_vo.md#steam-mephit)
 - Élémentaire de taille P, Neutre Mauvais
 - **Classe d'armure** 10
 - **Points de vie** 21 (6d6)
@@ -7043,7 +7043,7 @@ Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de 
 [][MonsterHD]
 
 # Merrow
-- NameVO: [Merrow](monsters_vo.md#merrow)
+- AltName: [Merrow](monsters_vo.md#merrow)
 - Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
@@ -7083,7 +7083,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 [][MonsterHD]
 
 # Mimique
-- NameVO: [Mimic](monsters_vo.md#mimic)
+- AltName: [Mimic](monsters_vo.md#mimic)
 - Créature monstrueuse (métamorphe) de taille M, Neutre
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
@@ -7126,7 +7126,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 [][MonsterHD]
 
 # Minotaure
-- NameVO: [Minotaur](monsters_vo.md#minotaur)
+- AltName: [Minotaur](monsters_vo.md#minotaur)
 - Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76 (9d10+27)
@@ -7165,7 +7165,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 [][MonsterHD]
 
 # Molosse infernal
-- NameVO: [Hell Hound](monsters_vo.md#hell-hound)
+- AltName: [Hell Hound](monsters_vo.md#hell-hound)
 - Fiélon de taille M, Loyal Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d8+14)
@@ -7199,7 +7199,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 [][MonsterHD]
 
 # Momie
-- NameVO: [Mummy](monsters_vo.md#mummy)
+- AltName: [Mummy](monsters_vo.md#mummy)
 - Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
@@ -7234,7 +7234,7 @@ Si la cible peut voir la momie, elle doit réussir un jet de sauvegarde de Sages
 [][MonsterHD]
 
 # Momie auguste
-- NameVO: [Mummy Lord](monsters_vo.md#mummy-lord)
+- AltName: [Mummy Lord](monsters_vo.md#mummy-lord)
 - Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
@@ -7309,7 +7309,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 [][MonsterHD]
 
 # Naga corrupteur
-- NameVO: [Spirit Naga](monsters_vo.md#spirit-naga)
+- AltName: [Spirit Naga](monsters_vo.md#spirit-naga)
 - Créature monstrueuse de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
@@ -7354,7 +7354,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de s
 [][MonsterHD]
 
 # Naga gardien
-- NameVO: [Guardian Naga](monsters_vo.md#guardian-naga)
+- AltName: [Guardian Naga](monsters_vo.md#guardian-naga)
 - Créature monstrueuse de taille G, Loyal Bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -7405,7 +7405,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un jet de s
 [][MonsterHD]
 
 # Nécrophage
-- NameVO: [Wight](monsters_vo.md#wight)
+- AltName: [Wight](monsters_vo.md#wight)
 - Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 45 (6d8+18)
@@ -7449,7 +7449,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 [][MonsterHD]
 
 # Armure animée
-- NameVO: [Animated Armor](monsters_vo.md#animated-armor)
+- AltName: [Animated Armor](monsters_vo.md#animated-armor)
 - Créature artificielle de taille M, non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 33 (6d8+6)
@@ -7483,7 +7483,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 [][MonsterHD]
 
 # Épée volante
-- NameVO: [Flying Sword](monsters_vo.md#flying-sword)
+- AltName: [Flying Sword](monsters_vo.md#flying-sword)
 - Créature artificielle de taille P, non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 17 (5d6)
@@ -7516,7 +7516,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 [][MonsterHD]
 
 # Tapis étrangleur
-- NameVO: [Rug of Smothering](monsters_vo.md#rug-of-smothering)
+- AltName: [Rug of Smothering](monsters_vo.md#rug-of-smothering)
 - Créature artificielle de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 33 (6d10)
@@ -7554,7 +7554,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 [][MonsterHD]
 
 # Ogre
-- NameVO: [Ogre](monsters_vo.md#ogre)
+- AltName: [Ogre](monsters_vo.md#ogre)
 - Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 11 (armure de peau)
 - **Points de vie** 59 (7d10+21)
@@ -7582,7 +7582,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 [][MonsterHD]
 
 # Ombre
-- NameVO: [Shadow](monsters_vo.md#shadow)
+- AltName: [Shadow](monsters_vo.md#shadow)
 - Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 16 (3d8+3)
@@ -7621,7 +7621,7 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 [][MonsterHD]
 
 # Oni
-- NameVO: [Oni](monsters_vo.md#oni)
+- AltName: [Oni](monsters_vo.md#oni)
 - Géant de taille G, Loyal Mauvais
 - **Classe d'armure** 16 (cotte de mailles)
 - **Points de vie** 110 (13d10+39)
@@ -7737,7 +7737,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 [][MonsterHD]
 
 # Otyugh
-- NameVO: [Otyugh](monsters_vo.md#otyugh)
+- AltName: [Otyugh](monsters_vo.md#otyugh)
 - Aberration de taille G, Neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -7778,7 +7778,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 [][MonsterHD]
 
 # Oxydeur
-- NameVO: [Rust Monster](monsters_vo.md#rust-monster)
+- AltName: [Rust Monster](monsters_vo.md#rust-monster)
 - Créature monstrueuse de taille M, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (5d8+5)
@@ -7861,7 +7861,7 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 [][MonsterHD]
 
 # Pégase
-- NameVO: [Pegasus](monsters_vo.md#pegasus)
+- AltName: [Pegasus](monsters_vo.md#pegasus)
 - Céleste de taille G, Chaotique Bon
 - **Classe d'armure** 12
 - **Points de vie** 59 (7d10+21)
@@ -7887,7 +7887,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 [][MonsterHD]
 
 # Pseudodragon
-- NameVO: [Pseudodragon](monsters_vo.md#pseudodragon)
+- AltName: [Pseudodragon](monsters_vo.md#pseudodragon)
 - Dragon de taille TP, Neutre Bon
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d4+2)
@@ -7924,7 +7924,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 [][MonsterHD]
 
 # Rakshasa
-- NameVO: [Rakshasa](monsters_vo.md#rakshasa)
+- AltName: [Rakshasa](monsters_vo.md#rakshasa)
 - Fiélon de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
@@ -8001,7 +8001,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 [][MonsterHD]
 
 # Roc
-- NameVO: [Roc](monsters_vo.md#roc)
+- AltName: [Roc](monsters_vo.md#roc)
 - Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 248 (16d20+80)
@@ -8037,7 +8037,7 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasio
 [][MonsterHD]
 
 # Sahuagin
-- NameVO: [Sahuagin](monsters_vo.md#sahuagin)
+- AltName: [Sahuagin](monsters_vo.md#sahuagin)
 - Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
@@ -8134,7 +8134,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 [][MonsterHD]
 
 # Salamandre
-- NameVO: [Salamander](monsters_vo.md#salamander)
+- AltName: [Salamander](monsters_vo.md#salamander)
 - Élémentaire de taille G, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
@@ -8173,7 +8173,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 [][MonsterHD]
 
 # Satyre
-- NameVO: [Satyr](monsters_vo.md#satyr)
+- AltName: [Satyr](monsters_vo.md#satyr)
 - Fée de taille M, Chaotique Neutre
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 31 (7d8)
@@ -8294,7 +8294,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 [][MonsterHD]
 
 # Spectre
-- NameVO: [Specter](monsters_vo.md#specter)
+- AltName: [Specter](monsters_vo.md#specter)
 - Mort-vivant de taille M, Chaotique Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
@@ -8327,7 +8327,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un jet de sau
 [][MonsterHD]
 
 # Androsphinx
-- NameVO: [Androsphinx](monsters_vo.md#androsphinx)
+- AltName: [Androsphinx](monsters_vo.md#androsphinx)
 - Créature monstrueuse de taille G, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 199 (19d10+95)
@@ -8397,7 +8397,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Gynosphinx
-- NameVO: [Gynosphinx](monsters_vo.md#gynosphinx)
+- AltName: [Gynosphinx](monsters_vo.md#gynosphinx)
 - Créature monstrueuse de taille G, Loyal Neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -8457,7 +8457,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 [][MonsterHD]
 
 # Squelette
-- NameVO: [Skeleton](monsters_vo.md#skeleton)
+- AltName: [Skeleton](monsters_vo.md#skeleton)
 - Mort-vivant de taille M, Loyal Mauvais
 - **Classe d'armure** 13 (débris d'armure)
 - **Points de vie** 13 (2d8+4)
@@ -8488,7 +8488,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Squelette cheval de guerre
-- NameVO: [Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)
+- AltName: [Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)
 - Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 13 (débris de barde)
 - **Points de vie** 22 (3d10+6)
@@ -8515,7 +8515,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 [][MonsterHD]
 
 # Squelette minotaure
-- NameVO: [Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)
+- AltName: [Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)
 - Mort-vivant de taille G, Loyal Mauvais
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 67 (9d10+18)
@@ -8550,7 +8550,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 [][MonsterHD]
 
 # Strige
-- NameVO: [Stirge](monsters_vo.md#stirge)
+- AltName: [Stirge](monsters_vo.md#stirge)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 2 (1d4)
@@ -8578,7 +8578,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 [][MonsterHD]
 
 # Succube/Incube
-- NameVO: [Succubus](monsters_vo.md#succubus)
+- AltName: [Succubus](monsters_vo.md#succubus)
 - Fiélon (métamorphe) de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 66 (12d8+12)
@@ -8620,7 +8620,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 [][MonsterHD]
 
 # Sylvanien
-- NameVO: [Treant](monsters_vo.md#treant)
+- AltName: [Treant](monsters_vo.md#treant)
 - Plante de taille TG, Chaotique Bonne
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 138 (12d12+60)
@@ -8660,7 +8660,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 [][MonsterHD]
 
 # Tarasque
-- NameVO: [Tarrasque](monsters_vo.md#tarrasque)
+- AltName: [Tarrasque](monsters_vo.md#tarrasque)
 - Créature monstrueuse (titan) de taille Gig, non-alignée
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 676 (33d20+330)
@@ -8795,7 +8795,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 [][MonsterHD]
 
 # Tertre errant
-- NameVO: [Shambling Mound](monsters_vo.md#shambling-mound)
+- AltName: [Shambling Mound](monsters_vo.md#shambling-mound)
 - Plante de taille G, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -8831,7 +8831,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 [][MonsterHD]
 
 # Torve
-- NameVO: [Grimlock](monsters_vo.md#grimlock)
+- AltName: [Grimlock](monsters_vo.md#grimlock)
 - Humanoïde (torve) de taille M, Neutre Mauvais
 - **Classe d'armure** 11
 - **Points de vie** 11 (2d8+2)
@@ -8865,7 +8865,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 [][MonsterHD]
 
 # Traqueur invisible
-- NameVO: [Invisible Stalker](monsters_vo.md#invisible-stalker)
+- AltName: [Invisible Stalker](monsters_vo.md#invisible-stalker)
 - Élémentaire de taille M, neutre
 - **Classe d'armure** 14
 - **Points de vie** 104 (16d8+32)
@@ -8900,7 +8900,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 [][MonsterHD]
 
 # Troll
-- NameVO: [Troll](monsters_vo.md#troll)
+- AltName: [Troll](monsters_vo.md#troll)
 - Géant de taille G, Chaotique Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (8d10+40)
@@ -8937,7 +8937,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 [][MonsterHD]
 
 # Vampire
-- NameVO: [Vampire](monsters_vo.md#vampire)
+- AltName: [Vampire](monsters_vo.md#vampire)
 - Mort-vivant (métamorphe) de taille M, Loyal Mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 144 (17d8+68)
@@ -9018,7 +9018,7 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 [][MonsterHD]
 
 # Vampirien
-- NameVO: [Vampire Spawn](monsters_vo.md#vampire-spawn)
+- AltName: [Vampire Spawn](monsters_vo.md#vampire-spawn)
 - Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
@@ -9069,7 +9069,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 [][MonsterHD]
 
 # Cube gélatineux
-- NameVO: [Gelatinous Cube](monsters_vo.md#gelatinous-cube)
+- AltName: [Gelatinous Cube](monsters_vo.md#gelatinous-cube)
 - Vase de taille G, non-alignée
 - **Classe d'armure** 6
 - **Points de vie** 84 (8d10+40)
@@ -9116,7 +9116,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 [][MonsterHD]
 
 # Gelée ocre
-- NameVO: [Ochre Jelly](monsters_vo.md#ochre-jelly)
+- AltName: [Ochre Jelly](monsters_vo.md#ochre-jelly)
 - Vase de taille G, non-alignée
 - **Classe d'armure** 8
 - **Points de vie** 45 (6d10+12)
@@ -9153,7 +9153,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 [][MonsterHD]
 
 # Pouding noir
-- NameVO: [Black Pudding](monsters_vo.md#black-pudding)
+- AltName: [Black Pudding](monsters_vo.md#black-pudding)
 - Vase de taille G, non-alignée
 - **Classe d'armure** 7
 - **Points de vie** 85 (10d10+30)
@@ -9193,7 +9193,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 [][MonsterHD]
 
 # Vase grise
-- NameVO: [Gray Ooze](monsters_vo.md#gray-ooze)
+- AltName: [Gray Ooze](monsters_vo.md#gray-ooze)
 - Vase de taille M, non-alignée
 - **Classe d'armure** 8
 - **Points de vie** 22 (3d8+9)
@@ -9232,7 +9232,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 [][MonsterHD]
 
 # Ver pourpre
-- NameVO: [Purple Worm](monsters_vo.md#purple-worm)
+- AltName: [Purple Worm](monsters_vo.md#purple-worm)
 - Créature monstrueuse de taille Gig, non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 247 (15d20+90)
@@ -9271,7 +9271,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 [][MonsterHD]
 
 # Vouivre
-- NameVO: [Wyvern](monsters_vo.md#wyvern)
+- AltName: [Wyvern](monsters_vo.md#wyvern)
 - Dragon de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -9306,7 +9306,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 [][MonsterHD]
 
 # Xorn
-- NameVO: [Xorn](monsters_vo.md#xorn)
+- AltName: [Xorn](monsters_vo.md#xorn)
 - Élémentaire de taille M, Neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 73 (7d8+42)
@@ -9346,7 +9346,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 [][MonsterHD]
 
 # Zombi
-- NameVO: [Zombie](monsters_vo.md#zombie)
+- AltName: [Zombie](monsters_vo.md#zombie)
 - Mort-vivant de taille M, Neutre Mauvais
 - **Classe d'armure** 8
 - **Points de vie** 22 (3d8+9)
@@ -9377,7 +9377,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 [][MonsterHD]
 
 # Zombi ogre
-- NameVO: [Ogre Zombie](monsters_vo.md#ogre-zombie)
+- AltName: [Ogre Zombie](monsters_vo.md#ogre-zombie)
 - Mort-vivant de taille G, Neutre Mauvais
 - **Classe d'armure** 8
 - **Points de vie** 85 (9d10+36)
@@ -9408,7 +9408,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 [][MonsterHD]
 
 # Aigle
-- NameVO: [Eagle](monsters_vo.md#eagle)
+- AltName: [Eagle](monsters_vo.md#eagle)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
@@ -9437,7 +9437,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 [][MonsterHD]
 
 # Aigle géant
-- NameVO: [Giant Eagle](monsters_vo.md#giant-eagle)
+- AltName: [Giant Eagle](monsters_vo.md#giant-eagle)
 - Bête de taille G, neutre bon
 - **Classe d'armure** 13
 - **Points de vie** 26 (4d10+4)
@@ -9472,7 +9472,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Araignée
-- NameVO: [Spider](monsters_vo.md#spider)
+- AltName: [Spider](monsters_vo.md#spider)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
@@ -9505,7 +9505,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde 
 [][MonsterHD]
 
 # Araignée de phase
-- NameVO: [Phase Spider](monsters_vo.md#phase-spider)
+- AltName: [Phase Spider](monsters_vo.md#phase-spider)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 32 (5d10+5)
@@ -9538,7 +9538,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un jet de 
 [][MonsterHD]
 
 # Araignée géante
-- NameVO: [Giant Spider](monsters_vo.md#giant-spider)
+- AltName: [Giant Spider](monsters_vo.md#giant-spider)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 26 (4d10+4)
@@ -9575,7 +9575,7 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 [][MonsterHD]
 
 # Araignée-loup géante
-- NameVO: [Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)
+- AltName: [Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 11 (2d8+2)
@@ -9608,7 +9608,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un jet de s
 [][MonsterHD]
 
 # Arbre éveillé
-- NameVO: [Awakened Tree](monsters_vo.md#awakened-tree)
+- AltName: [Awakened Tree](monsters_vo.md#awakened-tree)
 - Plante de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 59 (7d12+14)
@@ -9638,7 +9638,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 [][MonsterHD]
 
 # Arbuste éveillé
-- NameVO: [Awakened Shrub](monsters_vo.md#awakened-shrub)
+- AltName: [Awakened Shrub](monsters_vo.md#awakened-shrub)
 - Plante de taille P, non-alignée
 - **Classe d'armure** 9
 - **Points de vie** 10 (3d6)
@@ -9668,7 +9668,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 [][MonsterHD]
 
 # Babouin
-- NameVO: [Baboon](monsters_vo.md#baboon)
+- AltName: [Baboon](monsters_vo.md#baboon)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
@@ -9696,7 +9696,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 [][MonsterHD]
 
 # Bec de hache
-- NameVO: [Axe Beak](monsters_vo.md#axe-beak)
+- AltName: [Axe Beak](monsters_vo.md#axe-beak)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
@@ -9720,7 +9720,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 [][MonsterHD]
 
 # Belette
-- NameVO: [Weasel](monsters_vo.md#weasel)
+- AltName: [Weasel](monsters_vo.md#weasel)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
@@ -9749,7 +9749,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Belette géante
-- NameVO: [Giant Weasel](monsters_vo.md#giant-weasel)
+- AltName: [Giant Weasel](monsters_vo.md#giant-weasel)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 9 (2d8)
@@ -9778,7 +9778,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 [][MonsterHD]
 
 # Blaireau
-- NameVO: [Badger](monsters_vo.md#badger)
+- AltName: [Badger](monsters_vo.md#badger)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 3 (1d4+1)
@@ -9806,7 +9806,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Blaireau géant
-- NameVO: [Giant Badger](monsters_vo.md#giant-badger)
+- AltName: [Giant Badger](monsters_vo.md#giant-badger)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d8+4)
@@ -9840,7 +9840,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 [][MonsterHD]
 
 # Chacal
-- NameVO: [Jackal](monsters_vo.md#jackal)
+- AltName: [Jackal](monsters_vo.md#jackal)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
@@ -9871,7 +9871,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 [][MonsterHD]
 
 # Chameau
-- NameVO: [Camel](monsters_vo.md#camel)
+- AltName: [Camel](monsters_vo.md#camel)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 9
 - **Points de vie** 15 (2d10+4)
@@ -9895,7 +9895,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 [][MonsterHD]
 
 # Chat
-- NameVO: [Cat](monsters_vo.md#cat)
+- AltName: [Cat](monsters_vo.md#cat)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 2 (1d4)
@@ -9924,7 +9924,7 @@ _Touché :_ 1 dégât tranchant.
 [][MonsterHD]
 
 # Chauve-souris
-- NameVO: [Bat](monsters_vo.md#bat)
+- AltName: [Bat](monsters_vo.md#bat)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
@@ -9954,7 +9954,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Chauve-souris géante
-- NameVO: [Giant Bat](monsters_vo.md#giant-bat)
+- AltName: [Giant Bat](monsters_vo.md#giant-bat)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d10)
@@ -9984,7 +9984,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Cheval de guerre
-- NameVO: [Warhorse](monsters_vo.md#warhorse)
+- AltName: [Warhorse](monsters_vo.md#warhorse)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 19 (3d10+3)
@@ -10079,7 +10079,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 [][MonsterHD]
 
 # Cheval de selle
-- NameVO: [Riding Horse](monsters_vo.md#riding-horse)
+- AltName: [Riding Horse](monsters_vo.md#riding-horse)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d10+2)
@@ -10103,7 +10103,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 [][MonsterHD]
 
 # Cheval de trait
-- NameVO: [Draft Horse](monsters_vo.md#draft-horse)
+- AltName: [Draft Horse](monsters_vo.md#draft-horse)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 19 (3d10+3)
@@ -10127,7 +10127,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 [][MonsterHD]
 
 # Chèvre
-- NameVO: [Goat](monsters_vo.md#goat)
+- AltName: [Goat](monsters_vo.md#goat)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 4 (1d8)
@@ -10157,7 +10157,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 [][MonsterHD]
 
 # Chèvre géante
-- NameVO: [Giant Goat](monsters_vo.md#giant-goat)
+- AltName: [Giant Goat](monsters_vo.md#giant-goat)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
@@ -10187,7 +10187,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 [][MonsterHD]
 
 # Chevreuil
-- NameVO: [Deer](monsters_vo.md#deer)
+- AltName: [Deer](monsters_vo.md#deer)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 4 (1d8)
@@ -10211,7 +10211,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 [][MonsterHD]
 
 # Chien du trépas
-- NameVO: [Death Dog](monsters_vo.md#death-dog)
+- AltName: [Death Dog](monsters_vo.md#death-dog)
 - Créature monstrueuse de taille M, Neutre Mauvais
 - **Classe d'armure** 12
 - **Points de vie** 39 (6d8+12)
@@ -10242,7 +10242,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 [][MonsterHD]
 
 # Chien esquiveur
-- NameVO: [Blink Dog](monsters_vo.md#blink-dog)
+- AltName: [Blink Dog](monsters_vo.md#blink-dog)
 - Fée de taille M, Loyal Bon
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d8+4)
@@ -10273,7 +10273,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 [][MonsterHD]
 
 # Chouette
-- NameVO: [Owl](monsters_vo.md#owl)
+- AltName: [Owl](monsters_vo.md#owl)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
@@ -10304,7 +10304,7 @@ _Touché :_ 1 dégât tranchant.
 [][MonsterHD]
 
 # Chouette géante
-- NameVO: [Giant Owl](monsters_vo.md#giant-owl)
+- AltName: [Giant Owl](monsters_vo.md#giant-owl)
 - Bête de taille G, neutre
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d10+3)
@@ -10335,7 +10335,7 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 [][MonsterHD]
 
 # Corbeau
-- NameVO: [Raven](monsters_vo.md#raven)
+- AltName: [Raven](monsters_vo.md#raven)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 1 (1d4-1)
@@ -10364,7 +10364,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Crabe
-- NameVO: [Crab](monsters_vo.md#crab)
+- AltName: [Crab](monsters_vo.md#crab)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 2 (1d4)
@@ -10393,7 +10393,7 @@ _Touché :_ 1 dégât contondant.
 [][MonsterHD]
 
 # Crabe géant
-- NameVO: [Giant Crab](monsters_vo.md#giant-crab)
+- AltName: [Giant Crab](monsters_vo.md#giant-crab)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 13 (3d8)
@@ -10422,7 +10422,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion 
 [][MonsterHD]
 
 # Crapaud géant
-- NameVO: [Giant Toad](monsters_vo.md#giant-toad)
+- AltName: [Giant Toad](monsters_vo.md#giant-toad)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 39 (6d10+6)
@@ -10456,7 +10456,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 [][MonsterHD]
 
 # Crocodile
-- NameVO: [Crocodile](monsters_vo.md#crocodile)
+- AltName: [Crocodile](monsters_vo.md#crocodile)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
@@ -10485,7 +10485,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasio
 [][MonsterHD]
 
 # Crocodile géant
-- NameVO: [Giant Crocodile](monsters_vo.md#giant-crocodile)
+- AltName: [Giant Crocodile](monsters_vo.md#giant-crocodile)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (9d12+27)
@@ -10520,7 +10520,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 [][MonsterHD]
 
 # Élan
-- NameVO: [Elk](monsters_vo.md#elk)
+- AltName: [Elk](monsters_vo.md#elk)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 13 (2d10+2)
@@ -10552,7 +10552,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 [][MonsterHD]
 
 # Élan géant
-- NameVO: [Giant Elk](monsters_vo.md#giant-elk)
+- AltName: [Giant Elk](monsters_vo.md#giant-elk)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 42 (5d12+10)
@@ -10585,7 +10585,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 [][MonsterHD]
 
 # Éléphant
-- NameVO: [Elephant](monsters_vo.md#elephant)
+- AltName: [Elephant](monsters_vo.md#elephant)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 76 (8d12+24)
@@ -10617,7 +10617,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 [][MonsterHD]
 
 # Épaulard
-- NameVO: [Killer Whale](monsters_vo.md#killer-whale)
+- AltName: [Killer Whale](monsters_vo.md#killer-whale)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 90 (12d12+12)
@@ -10650,7 +10650,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 [][MonsterHD]
 
 # Faucon
-- NameVO: [Hawk](monsters_vo.md#hawk)
+- AltName: [Hawk](monsters_vo.md#hawk)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
@@ -10679,7 +10679,7 @@ _Touché :_ 1 dégât tranchant.
 [][MonsterHD]
 
 # Faucon de sang
-- NameVO: [Blood Hawk](monsters_vo.md#blood-hawk)
+- AltName: [Blood Hawk](monsters_vo.md#blood-hawk)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
@@ -10710,7 +10710,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 [][MonsterHD]
 
 # Grand singe
-- NameVO: [Ape](monsters_vo.md#ape)
+- AltName: [Ape](monsters_vo.md#ape)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 19 (3d8+6)
@@ -10741,7 +10741,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 [][MonsterHD]
 
 # Grenouille
-- NameVO: [Frog](monsters_vo.md#frog)
+- AltName: [Frog](monsters_vo.md#frog)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
@@ -10766,7 +10766,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 [][MonsterHD]
 
 # Grenouille géante
-- NameVO: [Giant Frog](monsters_vo.md#giant-frog)
+- AltName: [Giant Frog](monsters_vo.md#giant-frog)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 18 (4d8)
@@ -10801,7 +10801,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 [][MonsterHD]
 
 # Guêpe géante
-- NameVO: [Giant Wasp](monsters_vo.md#giant-wasp)
+- AltName: [Giant Wasp](monsters_vo.md#giant-wasp)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
@@ -10887,7 +10887,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Hippocampe
-- NameVO: [Sea Horse](monsters_vo.md#sea-horse)
+- AltName: [Sea Horse](monsters_vo.md#sea-horse)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 1 (1d4-1)
@@ -10909,7 +10909,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Hippocampe géant
-- NameVO: [Giant Sea Horse](monsters_vo.md#giant-sea-horse)
+- AltName: [Giant Sea Horse](monsters_vo.md#giant-sea-horse)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 16 (3d10)
@@ -10939,7 +10939,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 [][MonsterHD]
 
 # Hyène
-- NameVO: [Hyena](monsters_vo.md#hyena)
+- AltName: [Hyena](monsters_vo.md#hyena)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 5 (1d8+1)
@@ -10968,7 +10968,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 [][MonsterHD]
 
 # Hyène géante
-- NameVO: [Giant Hyena](monsters_vo.md#giant-hyena)
+- AltName: [Giant Hyena](monsters_vo.md#giant-hyena)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 45 (6d10+12)
@@ -10997,7 +10997,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 [][MonsterHD]
 
 # Lézard
-- NameVO: [Lizard](monsters_vo.md#lizard)
+- AltName: [Lizard](monsters_vo.md#lizard)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 2 (1d4)
@@ -11021,7 +11021,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Lézard géant
-- NameVO: [Giant Lizard](monsters_vo.md#giant-lizard)
+- AltName: [Giant Lizard](monsters_vo.md#giant-lizard)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 19 (3d10+3)
@@ -11045,7 +11045,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 [][MonsterHD]
 
 # Lion
-- NameVO: [Lion](monsters_vo.md#lion)
+- AltName: [Lion](monsters_vo.md#lion)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 26 (4d10+4)
@@ -11082,7 +11082,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 [][MonsterHD]
 
 # Loup
-- NameVO: [Wolf](monsters_vo.md#wolf)
+- AltName: [Wolf](monsters_vo.md#wolf)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 11 (2d8+2)
@@ -11113,7 +11113,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 [][MonsterHD]
 
 # Loup arctique
-- NameVO: [Winter Wolf](monsters_vo.md#winter-wolf)
+- AltName: [Winter Wolf](monsters_vo.md#winter-wolf)
 - Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
@@ -11151,7 +11151,7 @@ Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de De
 [][MonsterHD]
 
 # Loup sanguinaire
-- NameVO: [Dire Wolf](monsters_vo.md#dire-wolf)
+- AltName: [Dire Wolf](monsters_vo.md#dire-wolf)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 37 (5d10+10)
@@ -11182,7 +11182,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 [][MonsterHD]
 
 # Mammouth
-- NameVO: [Mammoth](monsters_vo.md#mammoth)
+- AltName: [Mammoth](monsters_vo.md#mammoth)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
@@ -11214,7 +11214,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 [][MonsterHD]
 
 # Mastiff
-- NameVO: [Mastiff](monsters_vo.md#mastiff)
+- AltName: [Mastiff](monsters_vo.md#mastiff)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 5 (1d8+1)
@@ -11243,7 +11243,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 [][MonsterHD]
 
 # Mille-pattes géant
-- NameVO: [Giant Centipede](monsters_vo.md#giant-centipede)
+- AltName: [Giant Centipede](monsters_vo.md#giant-centipede)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 4 (1d6+1)
@@ -11267,7 +11267,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un jet de sa
 [][MonsterHD]
 
 # Mule
-- NameVO: [Mule](monsters_vo.md#mule)
+- AltName: [Mule](monsters_vo.md#mule)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 11 (2d8+2)
@@ -11297,7 +11297,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 [][MonsterHD]
 
 # Nuée de chauve-souris
-- NameVO: [Swarm of Bats](monsters_vo.md#swarm-of-bats)
+- AltName: [Swarm of Bats](monsters_vo.md#swarm-of-bats)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 22 (5d8)
@@ -11331,7 +11331,7 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 [][MonsterHD]
 
 # Nuée de corbeaux
-- NameVO: [Swarm of Ravens](monsters_vo.md#swarm-of-ravens)
+- AltName: [Swarm of Ravens](monsters_vo.md#swarm-of-ravens)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 24 (7d8-7)
@@ -11362,7 +11362,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 [][MonsterHD]
 
 # Nuée de piranhas
-- NameVO: [Swarm of Quippers](monsters_vo.md#swarm-of-quippers)
+- AltName: [Swarm of Quippers](monsters_vo.md#swarm-of-quippers)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 28 (8d8-8)
@@ -11396,7 +11396,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 [][MonsterHD]
 
 # Nuée de rats
-- NameVO: [Swarm of Rats](monsters_vo.md#swarm-of-rats)
+- AltName: [Swarm of Rats](monsters_vo.md#swarm-of-rats)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 24 (7d8-7)
@@ -11428,7 +11428,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 [][MonsterHD]
 
 # Nuée de serpents venimeux
-- NameVO: [Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)
+- AltName: [Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 36 (8d8)
@@ -11458,7 +11458,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 [][MonsterHD]
 
 # Nuée d'insectes
-- NameVO: [Swarm of Insects](monsters_vo.md#swarm-of-insects)
+- AltName: [Swarm of Insects](monsters_vo.md#swarm-of-insects)
 - Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (5d8)
@@ -11504,7 +11504,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 [][MonsterHD]
 
 # Ours brun
-- NameVO: [Brown Bear](monsters_vo.md#brown-bear)
+- AltName: [Brown Bear](monsters_vo.md#brown-bear)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 34 (4d10+12)
@@ -11539,7 +11539,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 [][MonsterHD]
 
 # Ours noir
-- NameVO: [Black Bear](monsters_vo.md#black-bear)
+- AltName: [Black Bear](monsters_vo.md#black-bear)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 19 (3d8+6)
@@ -11574,7 +11574,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Ours polaire
-- NameVO: [Polar Bear](monsters_vo.md#polar-bear)
+- AltName: [Polar Bear](monsters_vo.md#polar-bear)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 42 (5d10+15)
@@ -11609,7 +11609,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 [][MonsterHD]
 
 # Panthère
-- NameVO: [Panther](monsters_vo.md#panther)
+- AltName: [Panther](monsters_vo.md#panther)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
@@ -11644,7 +11644,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Pieuvre
-- NameVO: [Octopus](monsters_vo.md#octopus)
+- AltName: [Octopus](monsters_vo.md#octopus)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 3 (1d6)
@@ -11679,7 +11679,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 [][MonsterHD]
 
 # Pieuvre géante
-- NameVO: [Giant Octopus](monsters_vo.md#giant-octopus)
+- AltName: [Giant Octopus](monsters_vo.md#giant-octopus)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11
 - **Points de vie** 52 (8d10+8)
@@ -11716,7 +11716,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 [][MonsterHD]
 
 # Piranha
-- NameVO: [Quipper](monsters_vo.md#quipper)
+- AltName: [Quipper](monsters_vo.md#quipper)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 1 (1d4-1)
@@ -11746,7 +11746,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Poney
-- NameVO: [Pony](monsters_vo.md#pony)
+- AltName: [Pony](monsters_vo.md#pony)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 11 (2d8+2)
@@ -11770,7 +11770,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 [][MonsterHD]
 
 # Punaise de feu géante
-- NameVO: [Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)
+- AltName: [Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 4 (1d6+1)
@@ -11798,7 +11798,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 [][MonsterHD]
 
 # Rat
-- NameVO: [Rat](monsters_vo.md#rat)
+- AltName: [Rat](monsters_vo.md#rat)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 1 (1d4-1)
@@ -11826,7 +11826,7 @@ _Touché :_ 1 dégât perforant.
 [][MonsterHD]
 
 # Rat géant
-- NameVO: [Giant Rat](monsters_vo.md#giant-rat)
+- AltName: [Giant Rat](monsters_vo.md#giant-rat)
 - Bête de taille P, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 7 (2d6)
@@ -11864,7 +11864,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 [][MonsterHD]
 
 # Requin chasseur
-- NameVO: [Hunter Shark](monsters_vo.md#hunter-shark)
+- AltName: [Hunter Shark](monsters_vo.md#hunter-shark)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
@@ -11895,7 +11895,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 [][MonsterHD]
 
 # Requin de récif
-- NameVO: [Reef Shark](monsters_vo.md#reef-shark)
+- AltName: [Reef Shark](monsters_vo.md#reef-shark)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 22 (4d8+4)
@@ -11926,7 +11926,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 [][MonsterHD]
 
 # Requin géant
-- NameVO: [Giant Shark](monsters_vo.md#giant-shark)
+- AltName: [Giant Shark](monsters_vo.md#giant-shark)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 126 (11d12+55)
@@ -11957,7 +11957,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 [][MonsterHD]
 
 # Rhinocéros
-- NameVO: [Rhinoceros](monsters_vo.md#rhinoceros)
+- AltName: [Rhinoceros](monsters_vo.md#rhinoceros)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
@@ -11987,7 +11987,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 [][MonsterHD]
 
 # Sanglier
-- NameVO: [Boar](monsters_vo.md#boar)
+- AltName: [Boar](monsters_vo.md#boar)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 11 (2d8+2)
@@ -12017,7 +12017,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 [][MonsterHD]
 
 # Sanglier géant
-- NameVO: [Giant Boar](monsters_vo.md#giant-boar)
+- AltName: [Giant Boar](monsters_vo.md#giant-boar)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 42 (5d10+15)
@@ -12047,7 +12047,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Scorpion
-- NameVO: [Scorpion](monsters_vo.md#scorpion)
+- AltName: [Scorpion](monsters_vo.md#scorpion)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 1 (1d4-1)
@@ -12071,7 +12071,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde 
 [][MonsterHD]
 
 # Scorpion géant
-- NameVO: [Giant Scorpion](monsters_vo.md#giant-scorpion)
+- AltName: [Giant Scorpion](monsters_vo.md#giant-scorpion)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 52 (7d10+14)
@@ -12101,7 +12101,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 [][MonsterHD]
 
 # Serpent constricteur
-- NameVO: [Constrictor Snake](monsters_vo.md#constrictor-snake)
+- AltName: [Constrictor Snake](monsters_vo.md#constrictor-snake)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 13 (2d10+2)
@@ -12129,7 +12129,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Serpent constricteur géant
-- NameVO: [Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)
+- AltName: [Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 60 (8d12+8)
@@ -12158,7 +12158,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 [][MonsterHD]
 
 # Serpent venimeux
-- NameVO: [Poisonous Snake](monsters_vo.md#poisonous-snake)
+- AltName: [Poisonous Snake](monsters_vo.md#poisonous-snake)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 2 (1d4)
@@ -12182,7 +12182,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un jet de sauvegarde 
 [][MonsterHD]
 
 # Serpent venimeux géant
-- NameVO: [Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)
+- AltName: [Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 11 (2d8+2)
@@ -12209,7 +12209,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de jet de sauvegarde raté et la m
 [][MonsterHD]
 
 # Serpent volant
-- NameVO: [Flying Snake](monsters_vo.md#flying-snake)
+- AltName: [Flying Snake](monsters_vo.md#flying-snake)
 - Bête de taille TP, non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 5 (2d4)
@@ -12237,7 +12237,7 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 [][MonsterHD]
 
 # Singe géant
-- NameVO: [Giant Ape](monsters_vo.md#giant-ape)
+- AltName: [Giant Ape](monsters_vo.md#giant-ape)
 - Bête de taille TG, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 157 (15d12+60)
@@ -12268,7 +12268,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 [][MonsterHD]
 
 # Tigre
-- NameVO: [Tiger](monsters_vo.md#tiger)
+- AltName: [Tiger](monsters_vo.md#tiger)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 37 (5d10+10)
@@ -12303,7 +12303,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 [][MonsterHD]
 
 # Tigre à dents de sabre
-- NameVO: [Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)
+- AltName: [Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)
 - Bête de taille G, non-alignée
 - **Classe d'armure** 12
 - **Points de vie** 52 (7d10+14)
@@ -12338,7 +12338,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 [][MonsterHD]
 
 # Vautour
-- NameVO: [Vulture](monsters_vo.md#vulture)
+- AltName: [Vulture](monsters_vo.md#vulture)
 - Bête de taille M, non-alignée
 - **Classe d'armure** 10
 - **Points de vie** 5 (1d188+1)
@@ -12369,7 +12369,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 [][MonsterHD]
 
 # Vautour géant
-- NameVO: [Giant Vulture](monsters_vo.md#giant-vulture)
+- AltName: [Giant Vulture](monsters_vo.md#giant-vulture)
 - Bête de taille G, Neutre Mauvais
 - **Classe d'armure** 10
 - **Points de vie** 22 (3d10+6)
@@ -12406,7 +12406,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 [][MonsterHD]
 
 # Worg
-- NameVO: [Worg](monsters_vo.md#worg)
+- AltName: [Worg](monsters_vo.md#worg)
 - Créature monstrueuse de taille G, Neutre Mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 26 (4d10+4)
@@ -12435,7 +12435,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 [][MonsterHD]
 
 # Acolyte
-- NameVO: [Acolyte](monsters_vo.md#acolyte)
+- AltName: [Acolyte](monsters_vo.md#acolyte)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 10
 - **Points de vie** 9 (2d8)
@@ -12468,7 +12468,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 [][MonsterHD]
 
 # Archimage
-- NameVO: [Archmage](monsters_vo.md#archmage)
+- AltName: [Archmage](monsters_vo.md#archmage)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 99 (18d8+18)
@@ -12525,7 +12525,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 [][MonsterHD]
 
 # Assassin
-- NameVO: [Assassin](monsters_vo.md#assassin)
+- AltName: [Assassin](monsters_vo.md#assassin)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)
@@ -12566,7 +12566,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un jet de s
 [][MonsterHD]
 
 # Bandit
-- NameVO: [Bandit](monsters_vo.md#bandit)
+- AltName: [Bandit](monsters_vo.md#bandit)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 11 (2d8+2)
@@ -12594,7 +12594,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 [][MonsterHD]
 
 # Berserker
-- NameVO: [Berserker](monsters_vo.md#berserker)
+- AltName: [Berserker](monsters_vo.md#berserker)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
 - **Classe d'armure** 13 (armure de peau)
 - **Points de vie** 67 (9d8+27)
@@ -12622,7 +12622,7 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 [][MonsterHD]
 
 # Capitaine bandit
-- NameVO: [Bandit Captain](monsters_vo.md#bandit-captain)
+- AltName: [Bandit Captain](monsters_vo.md#bandit-captain)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 65 (10d8+20)
@@ -12658,7 +12658,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 [][MonsterHD]
 
 # Chevalier
-- NameVO: [Knight](monsters_vo.md#knight)
+- AltName: [Knight](monsters_vo.md#knight)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 52 (8d8+16)
@@ -12699,7 +12699,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 [][MonsterHD]
 
 # Druide
-- NameVO: [Druid](monsters_vo.md#druid)
+- AltName: [Druid](monsters_vo.md#druid)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 11 (16 avec peau d'écorce)
 - **Points de vie** 27 (5d8+5)
@@ -12734,7 +12734,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 [][MonsterHD]
 
 # Ecclésiastique
-- NameVO: [Priest](monsters_vo.md#priest)
+- AltName: [Priest](monsters_vo.md#priest)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 27 (5d8+5)
@@ -12775,7 +12775,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 [][MonsterHD]
 
 # Éclaireur
-- NameVO: [Scout](monsters_vo.md#scout)
+- AltName: [Scout](monsters_vo.md#scout)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 16 (3d8+3)
@@ -12810,7 +12810,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Espion
-- NameVO: [Spy](monsters_vo.md#spy)
+- AltName: [Spy](monsters_vo.md#spy)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12
 - **Points de vie** 27 (6d8)
@@ -12847,7 +12847,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 [][MonsterHD]
 
 # Fanatique de secte
-- NameVO: [Cult Fanatic](monsters_vo.md#cult-fanatic)
+- AltName: [Cult Fanatic](monsters_vo.md#cult-fanatic)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 33 (6d8+6)
@@ -12886,7 +12886,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 [][MonsterHD]
 
 # Garde
-- NameVO: [Guard](monsters_vo.md#guard)
+- AltName: [Guard](monsters_vo.md#guard)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 16 (bouclier, chemise de mailles)
 - **Points de vie** 11 (2d8+2)
@@ -12911,7 +12911,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 [][MonsterHD]
 
 # Gladiateur
-- NameVO: [Gladiator](monsters_vo.md#gladiator)
+- AltName: [Gladiator](monsters_vo.md#gladiator)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)
 - **Points de vie** 112 (15d8+45)
@@ -12955,7 +12955,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 [][MonsterHD]
 
 # Guerrier tribal
-- NameVO: [Tribal Warrior](monsters_vo.md#tribal-warrior)
+- AltName: [Tribal Warrior](monsters_vo.md#tribal-warrior)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (armure de peau)
 - **Points de vie** 11 (2d8+2)
@@ -12983,7 +12983,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 [][MonsterHD]
 
 # Mage
-- NameVO: [Mage](monsters_vo.md#mage)
+- AltName: [Mage](monsters_vo.md#mage)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 40 (9d8)
@@ -13025,7 +13025,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 [][MonsterHD]
 
 # Malfrat
-- NameVO: [Thug](monsters_vo.md#thug)
+- AltName: [Thug](monsters_vo.md#thug)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
 - **Classe d'armure** 11 (armure de cuir)
 - **Points de vie** 32 (5d8+10)
@@ -13062,7 +13062,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 [][MonsterHD]
 
 # Membre de secte
-- NameVO: [Cultist](monsters_vo.md#cultist)
+- AltName: [Cultist](monsters_vo.md#cultist)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 9 (2d8)
@@ -13091,7 +13091,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 [][MonsterHD]
 
 # Noble
-- NameVO: [Noble](monsters_vo.md#noble)
+- AltName: [Noble](monsters_vo.md#noble)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 15 (cuirasse)
 - **Points de vie** 9 (2d8)
@@ -13120,7 +13120,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 [][MonsterHD]
 
 # Roturier
-- NameVO: [Commoner](monsters_vo.md#commoner)
+- AltName: [Commoner](monsters_vo.md#commoner)
 - Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Classe d'armure** 10
 - **Points de vie** 4 (1d8)
@@ -13144,7 +13144,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 [][MonsterHD]
 
 # Vétéran
-- NameVO: [Veteran](monsters_vo.md#veteran)
+- AltName: [Veteran](monsters_vo.md#veteran)
 - Humanoïde (n'importe quelle race) de taille M, alignement quelconque
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 58 (9d8+18)

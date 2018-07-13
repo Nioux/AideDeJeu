@@ -34,7 +34,6 @@ namespace AideDeJeuLib
                 if (block is Markdig.Syntax.HeadingBlock)
                 {
                     var headingBlock = block as Markdig.Syntax.HeadingBlock;
-                    //DumpHeadingBlock(headingBlock);
                     if (headingBlock.HeaderChar == '#' && headingBlock.Level == 1)
                     {
                         if (this.Name != null)
@@ -42,7 +41,6 @@ namespace AideDeJeuLib
                             return;
                         }
                         this.Name = headingBlock.Inline.ToMarkdownString();
-                        //Console.WriteLine(spell.Name);
                     }
                 }
                 if (block is Markdig.Syntax.ParagraphBlock)
@@ -54,40 +52,29 @@ namespace AideDeJeuLib
                     var paragraphBlock = block as Markdig.Syntax.ParagraphBlock;
 
                     this.DescriptionHtml += paragraphBlock.ToMarkdownString() + "\n";
-                    ////DumpParagraphBlock(paragraphBlock);
-                    //Console.WriteLine(paragraphBlock.IsBreakable);
-                    //spell.DescriptionHtml += paragraphBlock.Inline.ToContainerString();
-                    //if(paragraphBlock.IsBreakable)
-                    //{
-                    //    spell.DescriptionHtml += "\n";
-                    //}
                 }
                 if (block is Markdig.Syntax.ListBlock)
                 {
                     var listBlock = block as Markdig.Syntax.ListBlock;
-                    //DumpListBlock(listBlock);
                     if (listBlock.BulletType == '-')
                     {
                         this.Source = "";
                         foreach (var inblock in listBlock)
                         {
-                            //DumpBlock(inblock);
                             var regex = new Regex("(?<key>.*?): (?<value>.*)");
                             if (inblock is Markdig.Syntax.ListItemBlock)
                             {
                                 var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
                                 foreach (var ininblock in listItemBlock)
                                 {
-                                    //DumpBlock(ininblock);
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        //DumpParagraphBlock(paragraphBlock);
                                         var str = paragraphBlock.Inline.ToMarkdownString();
 
                                         var properties = new List<Tuple<string, Action<Spell, string>>>()
                                         {
-                                            new Tuple<string, Action<Spell, string>>("NameVO: ", (m, s) => m.NameVO = s),
+                                            new Tuple<string, Action<Spell, string>>("AltName: ", (m, s) => m.AltName = s),
                                             new Tuple<string, Action<Spell, string>>("CastingTime: ", (m, s) => m.CastingTime = s),
                                             new Tuple<string, Action<Spell, string>>("Components: ", (m, s) => m.Components = s),
                                             new Tuple<string, Action<Spell, string>>("Duration: ", (m, s) => m.Duration = s),
@@ -122,7 +109,6 @@ namespace AideDeJeuLib
                                 var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
                                 foreach (var ininblock in listItemBlock)
                                 {
-                                    //DumpBlock(ininblock);
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;

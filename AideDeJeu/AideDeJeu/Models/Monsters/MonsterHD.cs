@@ -14,7 +14,7 @@ namespace AideDeJeuLib
             {
                 return
                     $"# {Name}\n" +
-                    $"{NameVO}\n" +
+                    $"{AltName}\n" +
                     $"{Type} de taille {Size}, {Alignment}\n" +
                     $"**Classe d'armure** {ArmorClass}\n" +
                     $"**Points de vie** {HitPoints}\n" +

@@ -37,7 +37,7 @@ namespace AideDeJeuLib
             {
                 return
                     $"# {Name}\n" +
-                    $"{NameVO}\n" +
+                    $"{AltName}\n" +
                     $"_{LevelType}_\n" +
                     $"**Casting Time :** {CastingTime}\n" +
                     $"**Range :** {Range}\n" +

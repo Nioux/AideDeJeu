@@ -7,7 +7,7 @@
 
 # États spéciaux
 
-- NameVO: [Conditions](conditions_vo.md#conditions)
+- AltName: [Conditions](conditions_vo.md#conditions)
 
 Les états modifient les capacités d'une créature de diverses manières et résultent d'un sort, d'une aptitude de classe, d'une attaque de monstre ou d'un autre effet. La plupart des états ont un effet négatif, comme lorsque vous êtes [aveuglé](conditions_hd.md#aveuglé), mais quelques-uns confèrent un bénéfice, comme d'être [invisible](conditions_hd.md#invisible).
 
@@ -22,7 +22,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # À terre
 
-- NameVO: [Prone](conditions_vo.md#prone)
+- AltName: [Prone](conditions_vo.md#prone)
 
 * Une créature à terre n'a plus l'option que de ramper pour se déplacer, à moins de se relever et de mettre ainsi un terme à son état.
 
@@ -35,7 +35,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Assourdi
 
-- NameVO: [Deafened](conditions_vo.md#deafened)
+- AltName: [Deafened](conditions_vo.md#deafened)
 
 * Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
 
@@ -44,7 +44,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Aveuglé
 
-- NameVO: [Blinded](conditions_vo.md#blinded)
+- AltName: [Blinded](conditions_vo.md#blinded)
 
 * Une créature aveuglée ne voit plus rien et rate automatiquement tout test de caractéristique qui requiert la vue.
 
@@ -55,7 +55,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Charmé
 
-- NameVO: [Charmed](conditions_vo.md#charmed)
+- AltName: [Charmed](conditions_vo.md#charmed)
 
 * Une créature charmée se trouve dans l'incapacité d'attaquer l'individu qui l'a charmée ou de le cibler avec une capacité ou un effet magique néfaste.
 
@@ -66,7 +66,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Empoigné
 
-- NameVO: [Grappled](conditions_vo.md#grappled)
+- AltName: [Grappled](conditions_vo.md#grappled)
 
 * La vitesse d'une créature empoignée devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 
@@ -79,7 +79,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Empoisonné
 
-- NameVO: [Poisoned](conditions_vo.md#poisoned)
+- AltName: [Poisoned](conditions_vo.md#poisoned)
 
 * Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses tests de caractéristique.
 
@@ -88,7 +88,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Entravé
 
-- NameVO: [Restrained](conditions_vo.md#restrained)
+- AltName: [Restrained](conditions_vo.md#restrained)
 
 * La vitesse de la créature entravée tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 
@@ -101,7 +101,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Étourdi
 
-- NameVO: [Stunned](conditions_vo.md#stunned)
+- AltName: [Stunned](conditions_vo.md#stunned)
 
 * Une créature étourdie est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et parle en balbutiant.
 
@@ -114,7 +114,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Inconscient
 
-- NameVO: [Unconscious](conditions_vo.md#unconscious)
+- AltName: [Unconscious](conditions_vo.md#unconscious)
 
 * Une créature inconsciente est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et de parler et n'a pas conscience de ce qui l'entoure.
 
@@ -133,7 +133,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Invisible
 
-- NameVO: [Invisible](conditions_vo.md#invisible)
+- AltName: [Invisible](conditions_vo.md#invisible)
 
 * Il est impossible de voir une créature invisible à moins de recourir à la magie ou à un sens spécial. Quand il s'agit de se cacher, la créature est considérée comme en situation de visibilité nulle. Il est possible de détecter l'endroit où se trouve la créature si elle émet des sons ou laisse des traces.
 
@@ -144,7 +144,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Neutralisé
 
-- NameVO: [Incapacitated](conditions_vo.md#incapacitated)
+- AltName: [Incapacitated](conditions_vo.md#incapacitated)
 
 * Une créature neutralisée est incapable d'effectuer une action ou une réaction.
 
@@ -153,7 +153,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Paralysé
 
-- NameVO: [Paralyzed](conditions_vo.md#paralyzed)
+- AltName: [Paralyzed](conditions_vo.md#paralyzed)
 
 * Une créature paralysée est [neutralisée](conditions_hd.md#neutralisé) (voir l'état) et ne peut ni parler ni se déplacer.
 
@@ -168,7 +168,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Pétrifié
 
-- NameVO: [Petrified](conditions_vo.md#petrified)
+- AltName: [Petrified](conditions_vo.md#petrified)
 
 * Une créature pétrifiée est transformée en substance solide inanimée (généralement en pierre), de même que tous les objets non-magiques qu'elle transporte. Le poids de la créature est multiplié par dix et elle ne vieillit plus.
 
@@ -187,7 +187,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Terrorisé
 
-- NameVO: [Frightened](conditions_vo.md#frightened)
+- AltName: [Frightened](conditions_vo.md#frightened)
 
 * Une créature terrorisée subit un désavantage lors de ses tests de caractéristique et de ses jets d'attaque tant que la source de sa frayeur se trouve dans son champ de vision.
 
@@ -198,7 +198,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 # Fatigue et épuisement
 
-- NameVO: [Exhaustion](conditions_vo.md#exhaustion)
+- AltName: [Exhaustion](conditions_vo.md#exhaustion)
 
 Certaines aptitudes et certains dangers environnementaux, comme la faim et les effets à long terme des températures glaciales et étouffantes, provoquent un état particulier appelé l’épuisement. Celui-ci se divise en six niveaux. Un effet peut donner un ou plusieurs niveaux d’épuisement, comme indiqué dans la description de chaque effet.
 

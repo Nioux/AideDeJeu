@@ -193,7 +193,7 @@ namespace AideDeJeuLib
                                             new Tuple<string, Action<Monster, string>>("**Skills** ", (m, s) => m.Skills = s),
                                             new Tuple<string, Action<Monster, string>>("**Compétence** ", (m, s) => m.Skills = s),
 
-                                            new Tuple<string, Action<Monster, string>>("NameVO: ", (m, s) => m.NameVO = s),
+                                            new Tuple<string, Action<Monster, string>>("AltName: ", (m, s) => m.AltName = s),
 
                                             new Tuple<string, Action<Monster, string>>("", (m,s) =>
                                             {

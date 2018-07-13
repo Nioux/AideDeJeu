@@ -7,13 +7,13 @@ namespace AideDeJeuLib
     public abstract class Item
     {
         public string Name { get; set; }
-        public string NameVO { get; set; }
-        public string NameVOText
+        public string AltName { get; set; }
+        public string AltNameText
         {
             get
             {
                 var regex = new Regex("\\[(?<text>.*?)\\]");
-                var match = regex.Match(NameVO ?? string.Empty);
+                var match = regex.Match(AltName ?? string.Empty);
                 return match.Groups["text"].Value;
             }
         }

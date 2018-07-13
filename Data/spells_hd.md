@@ -2,12 +2,12 @@
 [][Items]
 
 # Sorts (H&D)
-- NameVO: [Spells](spells_vo.md)
+- AltName: [Spells](spells_vo.md)
 
 [][SpellHD]
 
 # Agrandir/rétrécir
-- NameVO: [Enlarge/Reduce](spells_vo.md#enlargereduce)
+- AltName: [Enlarge/Reduce](spells_vo.md#enlargereduce)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de limaille de fer)
 - Duration: concentration, jusqu'à 1 minute
@@ -31,7 +31,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 [][SpellHD]
 
 # Aide
-- NameVO: [Aid](spells_vo.md#aid)
+- AltName: [Aid](spells_vo.md#aid)
 - CastingTime: 1 action
 - Components: V, S, M (une minuscule bandelette de tissu blanc)
 - Duration: 8 heures
@@ -51,7 +51,7 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 [][SpellHD]
 
 # Alarme
-- NameVO: [Alarm](spells_vo.md#alarm)
+- AltName: [Alarm](spells_vo.md#alarm)
 - CastingTime: 1 minute
 - Components: V, S, M (une minuscule clochette et un filament en argent)
 - Duration: 8 heures
@@ -73,7 +73,7 @@ Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes
 [][SpellHD]
 
 # Allié planaire
-- NameVO: [Planar Ally](spells_vo.md#planar-ally)
+- AltName: [Planar Ally](spells_vo.md#planar-ally)
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: instantanée
@@ -105,7 +105,7 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 [][SpellHD]
 
 # Amélioration de caractéristique
-- NameVO: [Enhance Ability](spells_vo.md#enhance-ability)
+- AltName: [Enhance Ability](spells_vo.md#enhance-ability)
 - CastingTime: 1 action
 - Components: V, S, M (des poils ou des plumes venant d'un animal)
 - Duration: concentration, jusqu'à 1 heure
@@ -137,7 +137,7 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 [][SpellHD]
 
 # Amitié avec les animaux
-- NameVO: [Animal Friendship](spells_vo.md#animal-friendship)
+- AltName: [Animal Friendship](spells_vo.md#animal-friendship)
 - CastingTime: 1 action
 - Components: V, S, M (un peu de nourriture)
 - Duration: 24 heures
@@ -157,7 +157,7 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 [][SpellHD]
 
 # Animation des morts
-- NameVO: [Animate Dead](spells_vo.md#animate-dead)
+- AltName: [Animate Dead](spells_vo.md#animate-dead)
 - CastingTime: 1 minute
 - Components: V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
 - Duration: instantanée
@@ -183,7 +183,7 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 [][SpellHD]
 
 # Animation des objets
-- NameVO: [Animate Objects](spells_vo.md#animate-objects)
+- AltName: [Animate Objects](spells_vo.md#animate-objects)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -219,7 +219,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 [][SpellHD]
 
 # Apaisement des émotions
-- NameVO: [Calm Emotions](spells_vo.md#calm-emotions)
+- AltName: [Calm Emotions](spells_vo.md#calm-emotions)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -241,7 +241,7 @@ Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20
 [][SpellHD]
 
 # Apparence trompeuse
-- NameVO: [Seeming](spells_vo.md#seeming)
+- AltName: [Seeming](spells_vo.md#seeming)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 8 heures
@@ -269,7 +269,7 @@ Une créature peut utiliser son action pour examiner une cible et faire un test 
 [][SpellHD]
 
 # Appel de familier
-- NameVO: [Find Familiar](spells_vo.md#find-familiar)
+- AltName: [Find Familiar](spells_vo.md#find-familiar)
 - CastingTime: 1 heure
 - Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
 - Duration: instantanée
@@ -299,7 +299,7 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 [][SpellHD]
 
 # Appel de la foudre
-- NameVO: [Call Lightning](spells_vo.md#call-lightning)
+- AltName: [Call Lightning](spells_vo.md#call-lightning)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -323,7 +323,7 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 [][SpellHD]
 
 # Arc enchanté
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un arc)
 - Duration: 1 minute
@@ -345,7 +345,7 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 [][SpellHD]
 
 # Arme magique
-- NameVO: [Magic Weapon](spells_vo.md#magic-weapon)
+- AltName: [Magic Weapon](spells_vo.md#magic-weapon)
 - CastingTime: 1 action bonus
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -365,7 +365,7 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 [][SpellHD]
 
 # Arme sainte
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -385,7 +385,7 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 [][SpellHD]
 
 # Arme spirituelle
-- NameVO: [Spiritual Weapon](spells_vo.md#spiritual-weapon)
+- AltName: [Spiritual Weapon](spells_vo.md#spiritual-weapon)
 - CastingTime: 1 action bonus
 - Components: V, S
 - Duration: 1 minute
@@ -411,7 +411,7 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 [][SpellHD]
 
 # Armure du mage
-- NameVO: [Mage Armor](spells_vo.md#mage-armor)
+- AltName: [Mage Armor](spells_vo.md#mage-armor)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de cuir tanné)
 - Duration: 8 heures
@@ -429,7 +429,7 @@ Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez
 [][SpellHD]
 
 # Arrêt du temps
-- NameVO: [Time Stop](spells_vo.md#time-stop)
+- AltName: [Time Stop](spells_vo.md#time-stop)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -449,7 +449,7 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 [][SpellHD]
 
 # Aspersion acide
-- NameVO: [Acid Splash](spells_vo.md#acid-splash)
+- AltName: [Acid Splash](spells_vo.md#acid-splash)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -469,7 +469,7 @@ Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 1
 [][SpellHD]
 
 # Assassin imaginaire
-- NameVO: [Phantasmal Killer](spells_vo.md#phantasmal-killer)
+- AltName: [Phantasmal Killer](spells_vo.md#phantasmal-killer)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -493,7 +493,7 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 [][SpellHD]
 
 # Assistance
-- NameVO: [Guidance](spells_vo.md#guidance)
+- AltName: [Guidance](spells_vo.md#guidance)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -511,7 +511,7 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 [][SpellHD]
 
 # Augure
-- NameVO: [Augury](spells_vo.md#augury)
+- AltName: [Augury](spells_vo.md#augury)
 - CastingTime: 1 minute
 - Components: V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
 - Duration: instantanée
@@ -541,7 +541,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 [][SpellHD]
 
 # Aura de force
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V
 - Duration: Concentration, jusqu'à 10 minutes
@@ -559,7 +559,7 @@ Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et
 [][SpellHD]
 
 # Aura du héros
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -579,7 +579,7 @@ Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètre
 [][SpellHD]
 
 # Aura magique de l'arcaniste
-- NameVO: [Nystul's Magic Aura](spells_vo.md#nystuls-magic-aura)
+- AltName: [Nystul's Magic Aura](spells_vo.md#nystuls-magic-aura)
 - CastingTime: 1 action
 - Components: V, S, M (un petit carré de soie)
 - Duration: 24 heures
@@ -603,7 +603,7 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 [][SpellHD]
 
 # Aura sacrée
-- NameVO: [Holy Aura](spells_vo.md#holy-aura)
+- AltName: [Holy Aura](spells_vo.md#holy-aura)
 - CastingTime: 1 action
 - Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
 - Duration: concentration, jusqu'à 1 minute
@@ -623,7 +623,7 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 [][SpellHD]
 
 # Bagou
-- NameVO: [Glibness](spells_vo.md#glibness)
+- AltName: [Glibness](spells_vo.md#glibness)
 - CastingTime: 1 action
 - Components: V
 - Duration: 1 heure
@@ -641,7 +641,7 @@ Jusqu'à la fin du sort, chaque fois que vous effectuez un test de Charisme, vou
 [][SpellHD]
 
 # Baies nourricières
-- NameVO: [Goodberry](spells_vo.md#goodberry)
+- AltName: [Goodberry](spells_vo.md#goodberry)
 - CastingTime: 1 action
 - Components: V, S, M (un brin de gui)
 - Duration: instantanée
@@ -663,7 +663,7 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 [][SpellHD]
 
 # Balisage
-- NameVO: [Guiding Bolt](spells_vo.md#guiding-bolt)
+- AltName: [Guiding Bolt](spells_vo.md#guiding-bolt)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 round
@@ -683,7 +683,7 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 [][SpellHD]
 
 # Bannissement
-- NameVO: [Banishment](spells_vo.md#banishment)
+- AltName: [Banishment](spells_vo.md#banishment)
 - CastingTime: 1 action
 - Components: V, S, M (un objet qui répugne à la cible)
 - Duration: concentration, jusqu'à 1 minute
@@ -711,7 +711,7 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 [][SpellHD]
 
 # Barrière de lames
-- NameVO: [Blade Barrier](spells_vo.md#blade-barrier)
+- AltName: [Blade Barrier](spells_vo.md#blade-barrier)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -731,7 +731,7 @@ Quand une créature pénètre dans la zone du mur pour la première fois au cour
 [][SpellHD]
 
 # Bénédiction
-- NameVO: [Bless](spells_vo.md#bless)
+- AltName: [Bless](spells_vo.md#bless)
 - CastingTime: 1 action
 - Components: V, S, M (un peu d'eau bénite à asperger)
 - Duration: concentration, jusqu'à 1 minute
@@ -751,7 +751,7 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 [][SpellHD]
 
 # Bénédiction héroïque
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -769,7 +769,7 @@ Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cib
 [][SpellHD]
 
 # Blessure
-- NameVO: [Inflict Wounds](spells_vo.md#inflict-wounds)
+- AltName: [Inflict Wounds](spells_vo.md#inflict-wounds)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -789,7 +789,7 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 [][SpellHD]
 
 # Bouche magique
-- NameVO: [Magic Mouth](spells_vo.md#magic-mouth)
+- AltName: [Magic Mouth](spells_vo.md#magic-mouth)
 - CastingTime: 1 minute
 - Components: V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
 - Duration: jusqu'à dissipation
@@ -813,7 +813,7 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 [][SpellHD]
 
 # Bouclier
-- NameVO: [Shield](spells_vo.md#shield)
+- AltName: [Shield](spells_vo.md#shield)
 - CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_
 - Components: V, S
 - Duration: 1 round
@@ -831,7 +831,7 @@ Une barrière [invisible] faite de force magique apparaît autour de vous et vou
 [][SpellHD]
 
 # Bouclier de feu
-- NameVO: [Fire Shield](spells_vo.md#fire-shield)
+- AltName: [Fire Shield](spells_vo.md#fire-shield)
 - CastingTime: 1 action
 - Components: V, S, M (un morceau de phosphore ou une luciole)
 - Duration: 10 minutes
@@ -853,7 +853,7 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 [][SpellHD]
 
 # Bouclier de la foi
-- NameVO: [Shield of Faith](spells_vo.md#shield-of-faith)
+- AltName: [Shield of Faith](spells_vo.md#shield-of-faith)
 - CastingTime: 1 action bonus
 - Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
 - Duration: concentration, jusqu'à 10 minutes
@@ -871,7 +871,7 @@ Un champ scintillant apparaît autour d'une créature de votre choix située à 
 [][SpellHD]
 
 # Bouffée de poison
-- NameVO: [Poison Spray](spells_vo.md#poison-spray)
+- AltName: [Poison Spray](spells_vo.md#poison-spray)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -891,7 +891,7 @@ Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12),
 [][SpellHD]
 
 # Boule de feu
-- NameVO: [Fireball](spells_vo.md#fireball)
+- AltName: [Fireball](spells_vo.md#fireball)
 - CastingTime: 1 action
 - Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 - Duration: instantanée
@@ -913,7 +913,7 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 [][SpellHD]
 
 # Boule de feu à explosion retardée
-- NameVO: [Delayed Blast Fireball](spells_vo.md#delayed-blast-fireball)
+- AltName: [Delayed Blast Fireball](spells_vo.md#delayed-blast-fireball)
 - CastingTime: 1 action
 - Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
 - Duration: concentration, jusqu'à 1 minute
@@ -941,7 +941,7 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 [][SpellHD]
 
 # Bourrasque
-- NameVO: [Gust of Wind](spells_vo.md#gust-of-wind)
+- AltName: [Gust of Wind](spells_vo.md#gust-of-wind)
 - CastingTime: 1 action
 - Components: V, S, M (une graine de légume)
 - Duration: concentration, jusqu'à 1 minute
@@ -965,7 +965,7 @@ Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'
 [][SpellHD]
 
 # Briser
-- NameVO: [Shatter](spells_vo.md#shatter)
+- AltName: [Shatter](spells_vo.md#shatter)
 - CastingTime: 1 action
 - Components: V, S, M (un éclat de mica)
 - Duration: instantanée
@@ -989,7 +989,7 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 [][SpellHD]
 
 # Brûlure du juste
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -1015,7 +1015,7 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 [][SpellHD]
 
 # Cage de force
-- NameVO: [Forcecage](spells_vo.md#forcecage)
+- AltName: [Forcecage](spells_vo.md#forcecage)
 - CastingTime: 1 action
 - Components: V, S, M (poussière de rubis d'une valeur de 1 500 po)
 - Duration: 1 heure
@@ -1043,7 +1043,7 @@ La _[dissipation de la magie]_ est sans effet sur ce sort.
 [][SpellHD]
 
 # Caresse du vampire
-- NameVO: [Vampiric Touch](spells_vo.md#vampiric-touch)
+- AltName: [Vampiric Touch](spells_vo.md#vampiric-touch)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -1063,7 +1063,7 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 [][SpellHD]
 
 # Catalepsie
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un petit morceau de linceul)
 - Duration: 1 heure
@@ -1089,7 +1089,7 @@ Au niveau 9, la cible doit réussir un jet de sauvegarde de constitution difficu
 [][SpellHD]
 
 # Cécité/surdité
-- NameVO: [Blindness/Deafness](spells_vo.md#blindnessdeafness)
+- AltName: [Blindness/Deafness](spells_vo.md#blindnessdeafness)
 - CastingTime: 1 action
 - Components: V
 - Duration: 1 minute
@@ -1111,7 +1111,7 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 [][SpellHD]
 
 # Cercle de mort
-- NameVO: [Circle of Death](spells_vo.md#circle-of-death)
+- AltName: [Circle of Death](spells_vo.md#circle-of-death)
 - CastingTime: 1 action
 - Components: V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
 - Duration: instantanée
@@ -1131,7 +1131,7 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 [][SpellHD]
 
 # Cercle de téléportation
-- NameVO: [Teleportation Circle](spells_vo.md#teleportation-circle)
+- AltName: [Teleportation Circle](spells_vo.md#teleportation-circle)
 - CastingTime: 1 minute
 - Components: V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
 - Duration: 1 round
@@ -1157,7 +1157,7 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 [][SpellHD]
 
 # Cercle magique
-- NameVO: [Magic Circle](spells_vo.md#magic-circle)
+- AltName: [Magic Circle](spells_vo.md#magic-circle)
 - CastingTime: 1 minute
 - Components: V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
 - Duration: 1 heure
@@ -1189,7 +1189,7 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 [][SpellHD]
 
 # Chaîne d'éclairs
-- NameVO: [Chain Lightning](spells_vo.md#chain-lightning)
+- AltName: [Chain Lightning](spells_vo.md#chain-lightning)
 - CastingTime: 1 action
 - Components: V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
 - Duration: instantanée
@@ -1215,7 +1215,7 @@ Chaque cible doit faire un jet de sauvegarde de Dextérité et subit 10d8 dégâ
 [][SpellHD]
 
 # Champ antimagie
-- NameVO: [Antimagic Field](spells_vo.md#antimagic-field)
+- AltName: [Antimagic Field](spells_vo.md#antimagic-field)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poudre de fer ou de limaille)
 - Duration: concentration, jusqu'à 1 heure
@@ -1251,7 +1251,7 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 [][SpellHD]
 
 # Changement de forme
-- NameVO: [Shapechange](spells_vo.md#shapechange)
+- AltName: [Shapechange](spells_vo.md#shapechange)
 - CastingTime: 1 action
 - Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
 - Duration: concentration, jusqu'à 1 heure
@@ -1283,7 +1283,7 @@ Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une no
 [][SpellHD]
 
 # Changement de plan
-- NameVO: [Plane Shift](spells_vo.md#plane-shift)
+- AltName: [Plane Shift](spells_vo.md#plane-shift)
 - CastingTime: 1 action
 - Components: V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
 - Duration: instantanée
@@ -1307,7 +1307,7 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 [][SpellHD]
 
 # Charme-personne
-- NameVO: [Charm Person](spells_vo.md#charm-person)
+- AltName: [Charm Person](spells_vo.md#charm-person)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 heure
@@ -1327,7 +1327,7 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 [][SpellHD]
 
 # Chauffer le métal
-- NameVO: [Heat Metal](spells_vo.md#heat-metal)
+- AltName: [Heat Metal](spells_vo.md#heat-metal)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de fer et une flamme)
 - Duration: concentration, jusqu'à 1 minute
@@ -1353,7 +1353,7 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 [][SpellHD]
 
 # Chien de garde
-- NameVO: [Mordenkainen's Faithful Hound](spells_vo.md#mordenkainens-faithful-hound)
+- AltName: [Mordenkainen's Faithful Hound](spells_vo.md#mordenkainens-faithful-hound)
 - CastingTime: 1 action
 - Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
 - Duration: 8 heures
@@ -1375,7 +1375,7 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 [][SpellHD]
 
 # Choc des titans
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -1393,7 +1393,7 @@ Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversai
 [][SpellHD]
 
 # Clairvoyance
-- NameVO: [Clairvoyance](spells_vo.md#clairvoyance)
+- AltName: [Clairvoyance](spells_vo.md#clairvoyance)
 - CastingTime: 10 minutes
 - Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
 - Duration: concentration, jusqu'à 10 minutes
@@ -1417,7 +1417,7 @@ Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple d
 [][SpellHD]
 
 # Clignotement
-- NameVO: [Blink](spells_vo.md#blink)
+- AltName: [Blink](spells_vo.md#blink)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -1437,7 +1437,7 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 [][SpellHD]
 
 # Clone
-- NameVO: [Clone](spells_vo.md#clone)
+- AltName: [Clone](spells_vo.md#clone)
 - CastingTime: 1 heure
 - Components: V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
 - Duration: instantanée
@@ -1457,7 +1457,7 @@ Une fois que le clone est arrivé à maturité, si la créature originale meurt,
 [][SpellHD]
 
 # Coercition mystique
-- NameVO: [Geas](spells_vo.md#geas)
+- AltName: [Geas](spells_vo.md#geas)
 - CastingTime: 1 minute
 - Components: V
 - Duration: 30 jours
@@ -1485,7 +1485,7 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 [][SpellHD]
 
 # Coffre secret
-- NameVO: [Leomund's Secret Chest](spells_vo.md#leomunds-secret-chest)
+- AltName: [Leomund's Secret Chest](spells_vo.md#leomunds-secret-chest)
 - CastingTime: 1 action
 - Components: V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
 - Duration: instantanée
@@ -1509,7 +1509,7 @@ Si le sort se termine alors que le grand coffre est encore sur le plan éthéré
 [][SpellHD]
 
 # Colère des damnés
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un peu de cendre et de poussière d'os)
 - Duration: concentration, jusqu'à 1 minute
@@ -1529,7 +1529,7 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 [][SpellHD]
 
 # Collet magique
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une ficelle)
 - Duration: 1 heure
@@ -1553,7 +1553,7 @@ Une créature [entravée] peut utiliser son action à chaque tour pour faire un 
 [][SpellHD]
 
 # Colonne de flamme
-- NameVO: [Flame Strike](spells_vo.md#flame-strike)
+- AltName: [Flame Strike](spells_vo.md#flame-strike)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de soufre)
 - Duration: instantanée
@@ -1575,7 +1575,7 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 [][SpellHD]
 
 # Communication avec les animaux
-- NameVO: [Speak with Animals](spells_vo.md#speak-with-animals)
+- AltName: [Speak with Animals](spells_vo.md#speak-with-animals)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -1593,7 +1593,7 @@ Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec
 [][SpellHD]
 
 # Communication avec les morts
-- NameVO: [Speak with Dead](spells_vo.md#speak-with-dead)
+- AltName: [Speak with Dead](spells_vo.md#speak-with-dead)
 - CastingTime: 1 action
 - Components: V, S, M (encens incandescent)
 - Duration: 10 minutes
@@ -1613,7 +1613,7 @@ Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les
 [][SpellHD]
 
 # Communication avec les plantes
-- NameVO: [Speak with Plants](spells_vo.md#speak-with-plants)
+- AltName: [Speak with Plants](spells_vo.md#speak-with-plants)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -1639,7 +1639,7 @@ Ce sort permet de libérer une créature [entravée] par les plantes nées d'un 
 [][SpellHD]
 
 # Communion
-- NameVO: [Commune](spells_vo.md#commune)
+- AltName: [Commune](spells_vo.md#commune)
 - CastingTime: 1 minute
 - Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
 - Duration: 1 minute
@@ -1661,7 +1661,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 [][SpellHD]
 
 # Communion avec la nature
-- NameVO: [Commune with Nature](spells_vo.md#commune-with-nature)
+- AltName: [Commune with Nature](spells_vo.md#commune-with-nature)
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: instantanée
@@ -1697,7 +1697,7 @@ Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résida
 [][SpellHD]
 
 # Compagnon animal
-- NameVO: 
+- AltName: 
 - CastingTime: 1 minute
 - Components: V, S, M (un peu de nourriture adaptée à l'animal)
 - Duration: 24 heures
@@ -1737,7 +1737,7 @@ Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie auss
 [][SpellHD]
 
 # Compréhension des langues
-- NameVO: [Comprehend Languages](spells_vo.md#comprehend-languages)
+- AltName: [Comprehend Languages](spells_vo.md#comprehend-languages)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de suie et de sel)
 - Duration: 1 heure
@@ -1757,7 +1757,7 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 [][SpellHD]
 
 # Compulsion
-- NameVO: [Compulsion](spells_vo.md#compulsion)
+- AltName: [Compulsion](spells_vo.md#compulsion)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -1777,7 +1777,7 @@ Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dang
 [][SpellHD]
 
 # Cône de froid
-- NameVO: [Cone of Cold](spells_vo.md#cone-of-cold)
+- AltName: [Cone of Cold](spells_vo.md#cone-of-cold)
 - CastingTime: 1 action
 - Components: V, S, M (un petit cône de cristal ou de verre)
 - Duration: instantanée
@@ -1799,7 +1799,7 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 [][SpellHD]
 
 # Confusion
-- NameVO: [Confusion](spells_vo.md#confusion)
+- AltName: [Confusion](spells_vo.md#confusion)
 - CastingTime: 1 action
 - Components: V, S, M (trois coquilles de noix)
 - Duration: concentration, jusqu'à 1 minute
@@ -1832,7 +1832,7 @@ Une créature affectée peut faire un jet de sauvegarde de Sagesse à la fin de 
 [][SpellHD]
 
 # Contact glacial
-- NameVO: [Chill Touch](spells_vo.md#chill-touch)
+- AltName: [Chill Touch](spells_vo.md#chill-touch)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 round
@@ -1856,7 +1856,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 [][SpellHD]
 
 # Contacter un autre plan
-- NameVO: [Contact Other Plane](spells_vo.md#contact-other-plane)
+- AltName: [Contact Other Plane](spells_vo.md#contact-other-plane)
 - CastingTime: 1 minute
 - Components: V
 - Duration: 1 minute
@@ -1878,7 +1878,7 @@ Si vous réussissez votre jet de sauvegarde, vous pouvez poser jusqu'à cinq que
 [][SpellHD]
 
 # Contagion
-- NameVO: [Contagion](spells_vo.md#contagion)
+- AltName: [Contagion](spells_vo.md#contagion)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 7 jours
@@ -1918,7 +1918,7 @@ Elle subit un désavantage lors des tests de Charisme et devient vulnérable à 
 [][SpellHD]
 
 # Contamination
-- NameVO: [Harm](spells_vo.md#harm)
+- AltName: [Harm](spells_vo.md#harm)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -1936,7 +1936,7 @@ Vous transmettez une maladie virulente à une créature située à portée et da
 [][SpellHD]
 
 # Contingence
-- NameVO: [Contingency](spells_vo.md#contingency)
+- AltName: [Contingency](spells_vo.md#contingency)
 - CastingTime: 10 minutes
 - Components: V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
 - Duration: 10 jours
@@ -1960,7 +1960,7 @@ Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en la
 [][SpellHD]
 
 # Contresort
-- NameVO: [Counterspell](spells_vo.md#counterspell)
+- AltName: [Counterspell](spells_vo.md#counterspell)
 - CastingTime: 1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort
 - Components: S
 - Duration: instantanée
@@ -1982,7 +1982,7 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 [][SpellHD]
 
 # Contrôle de l'eau
-- NameVO: [Control Water](spells_vo.md#control-water)
+- AltName: [Control Water](spells_vo.md#control-water)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte d'eau et une pincée de poussière)
 - Duration: concentration, jusqu'à 10 minutes
@@ -2014,7 +2014,7 @@ Quand une créature entre dans le vortex pour la première fois de son tour ou q
 [][SpellHD]
 
 # Contrôle du climat
-- NameVO: [Control Weather](spells_vo.md#control-weather)
+- AltName: [Control Weather](spells_vo.md#control-weather)
 - CastingTime: 10 minutes
 - Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
 - Duration: concentration, jusqu'à 8 heures
@@ -2068,7 +2068,7 @@ Vent
 [][SpellHD]
 
 # Convocations instantanées
-- NameVO: [Drawmij's Instant Summons](spells_vo.md#drawmijs-instant-summons)
+- AltName: [Drawmij's Instant Summons](spells_vo.md#drawmijs-instant-summons)
 - CastingTime: 1 minute
 - Components: V, S, M (un saphir d'une valeur de 1 000 po)
 - Duration: jusqu'à dissipation
@@ -2094,7 +2094,7 @@ _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un
 [][SpellHD]
 
 # Coquille antivie
-- NameVO: [Antilife Shell](spells_vo.md#antilife-shell)
+- AltName: [Antilife Shell](spells_vo.md#antilife-shell)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -2116,7 +2116,7 @@ Si vous vous déplacez de telle manière qu'une créature affectée est contrain
 [][SpellHD]
 
 # Corde enchantée
-- NameVO: [Rope Trick](spells_vo.md#rope-trick)
+- AltName: [Rope Trick](spells_vo.md#rope-trick)
 - CastingTime: 1 action
 - Components: V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
 - Duration: 1 heure
@@ -2142,7 +2142,7 @@ Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quan
 [][SpellHD]
 
 # Couleurs dansantes
-- NameVO: [Color Spray](spells_vo.md#color-spray)
+- AltName: [Color Spray](spells_vo.md#color-spray)
 - CastingTime: 1 action
 - Components: V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
 - Duration: 1 round
@@ -2164,7 +2164,7 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 [][SpellHD]
 
 # Création
-- NameVO: [Creation](spells_vo.md#creation)
+- AltName: [Creation](spells_vo.md#creation)
 - CastingTime: 1 minute
 - Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
 - Duration: spéciale
@@ -2198,7 +2198,7 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 [][SpellHD]
 
 # Création de mort-vivant
-- NameVO: [Create Undead](spells_vo.md#create-undead)
+- AltName: [Create Undead](spells_vo.md#create-undead)
 - CastingTime: 1 minute
 - Components: V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
 - Duration: instantanée
@@ -2228,7 +2228,7 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 [][SpellHD]
 
 # Création de nourriture et d'eau
-- NameVO: [Create Food and Water](spells_vo.md#create-food-and-water)
+- AltName: [Create Food and Water](spells_vo.md#create-food-and-water)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -2246,7 +2246,7 @@ Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, so
 [][SpellHD]
 
 # Création ou destruction d'eau
-- NameVO: [Create or Destroy Water](spells_vo.md#create-or-destroy-water)
+- AltName: [Create or Destroy Water](spells_vo.md#create-or-destroy-water)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
 - Duration: instantanée
@@ -2272,7 +2272,7 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 [][SpellHD]
 
 # Croissance d'épines
-- NameVO: [Spike Growth](spells_vo.md#spike-growth)
+- AltName: [Spike Growth](spells_vo.md#spike-growth)
 - CastingTime: 1 action
 - Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
 - Duration: concentration, jusqu'à 10 minutes
@@ -2292,7 +2292,7 @@ La transformation du sol est camouflée, de manière à ce que le terrain ait l'
 [][SpellHD]
 
 # Croissance végétale
-- NameVO: [Plant Growth](spells_vo.md#plant-growth)
+- AltName: [Plant Growth](spells_vo.md#plant-growth)
 - CastingTime: 1 action ou 8 heures
 - Components: V, S
 - Duration: instantanée
@@ -2318,7 +2318,7 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 [][SpellHD]
 
 # Danse irrésistible
-- NameVO: [Otto's Irresistible Dance](spells_vo.md#ottos-irresistible-dance)
+- AltName: [Otto's Irresistible Dance](spells_vo.md#ottos-irresistible-dance)
 - CastingTime: 1 action
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -2340,7 +2340,7 @@ Tant que la cible est affectée par ce sort, les autres créatures bénéficient
 [][SpellHD]
 
 # Déblocage
-- NameVO: [Knock](spells_vo.md#knock)
+- AltName: [Knock](spells_vo.md#knock)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -2362,7 +2362,7 @@ Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu
 [][SpellHD]
 
 # Déguisement
-- NameVO: [Disguise Self](spells_vo.md#disguise-self)
+- AltName: [Disguise Self](spells_vo.md#disguise-self)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 heure
@@ -2384,7 +2384,7 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 [][SpellHD]
 
 # Demi-plan
-- NameVO: [Demiplane](spells_vo.md#demiplane)
+- AltName: [Demiplane](spells_vo.md#demiplane)
 - CastingTime: 1 action
 - Components: S
 - Duration: 1 heure
@@ -2404,7 +2404,7 @@ Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relie
 [][SpellHD]
 
 # Déplacer la terre
-- NameVO: [Move Earth](spells_vo.md#move-earth)
+- AltName: [Move Earth](spells_vo.md#move-earth)
 - CastingTime: 1 action
 - Components: V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)
 - Duration: concentration, jusqu'à 2 heures
@@ -2428,7 +2428,7 @@ De même, le sort n'affecte pas directement la croissance des plantes. La terre 
 [][SpellHD]
 
 # Désintégration
-- NameVO: [Disintegrate](spells_vo.md#disintegrate)
+- AltName: [Disintegrate](spells_vo.md#disintegrate)
 - CastingTime: 1 action
 - Components: V, S, M (de la magnétite et une pincée de poussière)
 - Duration: instantanée
@@ -2454,7 +2454,7 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 [][SpellHD]
 
 # Dessiccation
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une goutte d'eau)
 - Duration: concentration, jusqu'à 1 minute
@@ -2476,7 +2476,7 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 [][SpellHD]
 
 # Détection de la magie
-- NameVO: [Detect Magic](spells_vo.md#detect-magic)
+- AltName: [Detect Magic](spells_vo.md#detect-magic)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -2496,7 +2496,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 [][SpellHD]
 
 # Détection des pensées
-- NameVO: [Detect Thoughts](spells_vo.md#detect-thoughts)
+- AltName: [Detect Thoughts](spells_vo.md#detect-thoughts)
 - CastingTime: 1 action
 - Components: V, S, M (une pièce de cuivre)
 - Duration: concentration, jusqu'à 1 minute
@@ -2530,7 +2530,7 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 [][SpellHD]
 
 # Détection du mal et du bien
-- NameVO: [Detect Evil and Good](spells_vo.md#detect-evil-and-good)
+- AltName: [Detect Evil and Good](spells_vo.md#detect-evil-and-good)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -2550,7 +2550,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 [][SpellHD]
 
 # Détection du poison et des maladies
-- NameVO: [Detect Poison and Disease](spells_vo.md#detect-poison-and-disease)
+- AltName: [Detect Poison and Disease](spells_vo.md#detect-poison-and-disease)
 - CastingTime: 1 action
 - Components: V, S, M (un brin d'if)
 - Duration: concentration, jusqu'à 10 minutes
@@ -2570,7 +2570,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 [][SpellHD]
 
 # Disque flottant
-- NameVO: [Tenser's Floating Disk](spells_vo.md#tensers-floating-disk)
+- AltName: [Tenser's Floating Disk](spells_vo.md#tensers-floating-disk)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte de mercure)
 - Duration: 1 heure
@@ -2594,7 +2594,7 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 [][SpellHD]
 
 # Dissipation de la magie
-- NameVO: [Dispel Magic](spells_vo.md#dispel-magic)
+- AltName: [Dispel Magic](spells_vo.md#dispel-magic)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -2614,7 +2614,7 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 [][SpellHD]
 
 # Dissipation du mal et du bien
-- NameVO: [Dispel Evil and Good](spells_vo.md#dispel-evil-and-good)
+- AltName: [Dispel Evil and Good](spells_vo.md#dispel-evil-and-good)
 - CastingTime: 1 action
 - Components: V, S, M (eau bénite ou poudre d'argent et de fer)
 - Duration: concentration, jusqu'à 1 minute
@@ -2638,7 +2638,7 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 [][SpellHD]
 
 # Divination
-- NameVO: [Divination](spells_vo.md#divination)
+- AltName: [Divination](spells_vo.md#divination)
 - CastingTime: 1 action
 - Components: V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
 - Duration: instantanée
@@ -2660,7 +2660,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 [][SpellHD]
 
 # Doigt de mort
-- NameVO: [Finger of Death](spells_vo.md#finger-of-death)
+- AltName: [Finger of Death](spells_vo.md#finger-of-death)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -2680,7 +2680,7 @@ Si ce sort achève un humanoïde, ce dernier se relève au début de votre proch
 [][SpellHD]
 
 # Dominer un humanoïde
-- NameVO: [Dominate Person](spells_vo.md#dominate-person)
+- AltName: [Dominate Person](spells_vo.md#dominate-person)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -2712,7 +2712,7 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 [][SpellHD]
 
 # Dominer un monstre
-- NameVO: [Dominate Monster](spells_vo.md#dominate-monster)
+- AltName: [Dominate Monster](spells_vo.md#dominate-monster)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -2742,7 +2742,7 @@ Si elle le réussit, le sort prend fin.
 [][SpellHD]
 
 # Dominer une bête
-- NameVO: [Dominate Beast](spells_vo.md#dominate-beast)
+- AltName: [Dominate Beast](spells_vo.md#dominate-beast)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -2772,7 +2772,7 @@ Si elle le réussit, le sort prend fin.
 [][SpellHD]
 
 # Doux repos
-- NameVO: [Gentle Repose](spells_vo.md#gentle-repose)
+- AltName: [Gentle Repose](spells_vo.md#gentle-repose)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
 - Duration: 10 jours
@@ -2792,7 +2792,7 @@ Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'
 [][SpellHD]
 
 # Druidisme
-- NameVO: [Druidcraft](spells_vo.md#druidcraft)
+- AltName: [Druidcraft](spells_vo.md#druidcraft)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -2818,7 +2818,7 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 [][SpellHD]
 
 # Éclair
-- NameVO: [Lightning Bolt](spells_vo.md#lightning-bolt)
+- AltName: [Lightning Bolt](spells_vo.md#lightning-bolt)
 - CastingTime: 1 action
 - Components: V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
 - Duration: instantanée
@@ -2842,7 +2842,7 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 [][SpellHD]
 
 # Éclat de bois
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une écharde de bois)
 - Duration: instantanée
@@ -2864,7 +2864,7 @@ Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les 
 [][SpellHD]
 
 # Éclat du soleil
-- NameVO: [Sunburst](spells_vo.md#sunburst)
+- AltName: [Sunburst](spells_vo.md#sunburst)
 - CastingTime: 1 action
 - Components: V, S, M (du feu et un éclat d'héliotrope)
 - Duration: instantanée
@@ -2888,7 +2888,7 @@ Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 [][SpellHD]
 
 # Embruns prismatiques
-- NameVO: [Prismatic Spray](spells_vo.md#prismatic-spray)
+- AltName: [Prismatic Spray](spells_vo.md#prismatic-spray)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -2920,7 +2920,7 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 [][SpellHD]
 
 # Emprisonnement
-- NameVO: [Imprisonment](spells_vo.md#imprisonment)
+- AltName: [Imprisonment](spells_vo.md#imprisonment)
 - CastingTime: 1 minute
 - Components: V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
 - Duration: jusqu'à dissipation
@@ -2962,7 +2962,7 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 [][SpellHD]
 
 # Enchevêtrement
-- NameVO: [Entangle](spells_vo.md#entangle)
+- AltName: [Entangle](spells_vo.md#entangle)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -2984,7 +2984,7 @@ Quand le sort se termine, les plantes invoquées flétrissent.
 [][SpellHD]
 
 # Entrave planaire
-- NameVO: [Planar Binding](spells_vo.md#planar-binding)
+- AltName: [Planar Binding](spells_vo.md#planar-binding)
 - CastingTime: 1 heure
 - Components: V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
 - Duration: 24 heures
@@ -3006,7 +3006,7 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 [][SpellHD]
 
 # Envoi de message
-- NameVO: [Sending](spells_vo.md#sending)
+- AltName: [Sending](spells_vo.md#sending)
 - CastingTime: 1 action
 - Components: V, S, M (un petit bout de fil de cuivre)
 - Duration: 1 round
@@ -3026,7 +3026,7 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 [][SpellHD]
 
 # Envoûtement
-- NameVO: [Enthrall](spells_vo.md#enthrall)
+- AltName: [Enthrall](spells_vo.md#enthrall)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -3044,7 +3044,7 @@ Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de v
 [][SpellHD]
 
 # Épargner les mourants
-- NameVO: [Spare the Dying](spells_vo.md#spare-the-dying)
+- AltName: [Spare the Dying](spells_vo.md#spare-the-dying)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -3062,7 +3062,7 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 [][SpellHD]
 
 # Épée du juste
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -3080,7 +3080,7 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 [][SpellHD]
 
 # Épée magique
-- NameVO: [Mordenkainen's Sword](spells_vo.md#mordenkainens-sword)
+- AltName: [Mordenkainen's Sword](spells_vo.md#mordenkainens-sword)
 - CastingTime: 1 action
 - Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
 - Duration: concentration, jusqu'à 1 minute
@@ -3100,7 +3100,7 @@ Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps c
 [][SpellHD]
 
 # Esprit faible
-- NameVO: [Feeblemind](spells_vo.md#feeblemind)
+- AltName: [Feeblemind](spells_vo.md#feeblemind)
 - CastingTime: 1 action
 - Components: V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
 - Duration: instantanée
@@ -3122,7 +3122,7 @@ La créature peut refaire un jet de sauvegarde tous les 30 jours. Le sort se ter
 [][SpellHD]
 
 # Esprit impénétrable
-- NameVO: [Mind Blank](spells_vo.md#mind-blank)
+- AltName: [Mind Blank](spells_vo.md#mind-blank)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 24 heures
@@ -3140,7 +3140,7 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 [][SpellHD]
 
 # Esprits gardiens
-- NameVO: [Spirit Guardians](spells_vo.md#spirit-guardians)
+- AltName: [Spirit Guardians](spells_vo.md#spirit-guardians)
 - CastingTime: 1 action
 - Components: V, S M (un symbole sacré)
 - Duration: concentration, jusqu'à 10 minutes
@@ -3164,7 +3164,7 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 [][SpellHD]
 
 # Étrangeté
-- NameVO: [Weird](spells_vo.md#weird)
+- AltName: [Weird](spells_vo.md#weird)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -3182,7 +3182,7 @@ Vous puisez dans les peurs les plus profondes d'un groupe de créatures et crée
 [][SpellHD]
 
 # Éveil
-- NameVO: [Awaken](spells_vo.md#awaken)
+- AltName: [Awaken](spells_vo.md#awaken)
 - CastingTime: 8 heures
 - Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
 - Duration: instantanée
@@ -3204,7 +3204,7 @@ La bête ou la plante éveillée est considérée [charmée] par vous pendant 30
 [][SpellHD]
 
 # Excavation
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une cuillère)
 - Duration: instantanée
@@ -3222,7 +3222,7 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 [][SpellHD]
 
 # Expiation du juste
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -3240,7 +3240,7 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 [][SpellHD]
 
 # Explosion occulte
-- NameVO: [Eldritch Blast](spells_vo.md#eldritch-blast)
+- AltName: [Eldritch Blast](spells_vo.md#eldritch-blast)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -3260,7 +3260,7 @@ Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux 
 [][SpellHD]
 
 # Fabrication
-- NameVO: [Fabricate](spells_vo.md#fabricate)
+- AltName: [Fabricate](spells_vo.md#fabricate)
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: instantanée
@@ -3282,7 +3282,7 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 [][SpellHD]
 
 # Façonnage de la pierre
-- NameVO: [Stone Shape](spells_vo.md#stone-shape)
+- AltName: [Stone Shape](spells_vo.md#stone-shape)
 - CastingTime: 1 action
 - Components: V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
 - Duration: instantanée
@@ -3300,7 +3300,7 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 [][SpellHD]
 
 # Faveur divine
-- NameVO: [Divine Favor](spells_vo.md#divine-favor)
+- AltName: [Divine Favor](spells_vo.md#divine-favor)
 - CastingTime: 1 action bonus
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -3320,7 +3320,7 @@ Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d
 [][SpellHD]
 
 # Festin des héros
-- NameVO: [Heroes' Feast](spells_vo.md#heroes-feast)
+- AltName: [Heroes' Feast](spells_vo.md#heroes-feast)
 - CastingTime: 10 minutes
 - Components: V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
 - Duration: instantanée
@@ -3342,7 +3342,7 @@ Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de p
 [][SpellHD]
 
 # Flamboiement funeste
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (morceau d'onyx)
 - Duration: instantanée
@@ -3364,7 +3364,7 @@ Chaque créature dans la zone doit réussir un jet de sauvegarde de Dextérité,
 [][SpellHD]
 
 # Flamme éternelle
-- NameVO: [Continual Flame](spells_vo.md#continual-flame)
+- AltName: [Continual Flame](spells_vo.md#continual-flame)
 - CastingTime: 1 action
 - Components: V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
 - Duration: jusqu'à dissipation
@@ -3382,7 +3382,7 @@ Une flamme à la luminosité égale à celle d'une torche embrase soudain l'obje
 [][SpellHD]
 
 # Flamme sacrée
-- NameVO: [Sacred Flame](spells_vo.md#sacred-flame)
+- AltName: [Sacred Flame](spells_vo.md#sacred-flame)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -3404,7 +3404,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 [][SpellHD]
 
 # Fléau
-- NameVO: [Bane](spells_vo.md#bane)
+- AltName: [Bane](spells_vo.md#bane)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte de sang)
 - Duration: concentration, jusqu'à 1 minute
@@ -3426,7 +3426,7 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 [][SpellHD]
 
 # Fléau d'insectes
-- NameVO: [Insect Plague](spells_vo.md#insect-plague)
+- AltName: [Insect Plague](spells_vo.md#insect-plague)
 - CastingTime: 1 action
 - Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
 - Duration: concentration, jusqu'à 10 minutes
@@ -3450,7 +3450,7 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 [][SpellHD]
 
 # Flèche acide
-- NameVO: [Melf's Acid Arrow](spells_vo.md#melfs-acid-arrow)
+- AltName: [Melf's Acid Arrow](spells_vo.md#melfs-acid-arrow)
 - CastingTime: 1 action
 - Components: V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
 - Duration: instantanée
@@ -3470,7 +3470,7 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 [][SpellHD]
 
 # Flétrissement
-- NameVO: [Blight](spells_vo.md#blight)
+- AltName: [Blight](spells_vo.md#blight)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -3492,7 +3492,7 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 [][SpellHD]
 
 # Flou
-- NameVO: [Blur](spells_vo.md#blur)
+- AltName: [Blur](spells_vo.md#blur)
 - CastingTime: 1 action
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -3510,7 +3510,7 @@ Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autru
 [][SpellHD]
 
 # Forme éthérée
-- NameVO: [Etherealness](spells_vo.md#etherealness)
+- AltName: [Etherealness](spells_vo.md#etherealness)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: jusqu'à 8 heures
@@ -3538,7 +3538,7 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 [][SpellHD]
 
 # Forme gazeuse
-- NameVO: [Gaseous Form](spells_vo.md#gaseous-form)
+- AltName: [Gaseous Form](spells_vo.md#gaseous-form)
 - CastingTime: 1 action
 - Components: V, S, M (un morceau de gaze et une volute de fumée)
 - Duration: concentration, jusqu'à 1 heure
@@ -3562,7 +3562,7 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 [][SpellHD]
 
 # Formes animales
-- NameVO: [Animal Shapes](spells_vo.md#animal-shapes)
+- AltName: [Animal Shapes](spells_vo.md#animal-shapes)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 24 heures
@@ -3584,7 +3584,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 [][SpellHD]
 
 # Fou rire
-- NameVO: [Tasha's Hideous Laughter](spells_vo.md#tashas-hideous-laughter)
+- AltName: [Tasha's Hideous Laughter](spells_vo.md#tashas-hideous-laughter)
 - CastingTime: 1 action
 - Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
 - Duration: concentration, jusqu'à 1 minute
@@ -3604,7 +3604,7 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 [][SpellHD]
 
 # Frappe du juste
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -3632,7 +3632,7 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 [][SpellHD]
 
 # Frappe lumineuse
-- NameVO: [Branding Smite](spells_vo.md#branding-smite)
+- AltName: [Branding Smite](spells_vo.md#branding-smite)
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -3652,7 +3652,7 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 [][SpellHD]
 
 # Fusion dans la pierre
-- NameVO: [Meld into Stone](spells_vo.md#meld-into-stone)
+- AltName: [Meld into Stone](spells_vo.md#meld-into-stone)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 8 heures
@@ -3676,7 +3676,7 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 [][SpellHD]
 
 # Gardien de la foi
-- NameVO: [Guardian of Faith](spells_vo.md#guardian-of-faith)
+- AltName: [Guardian of Faith](spells_vo.md#guardian-of-faith)
 - CastingTime: 
 - Components: V
 - Duration: 8 heures
@@ -3696,7 +3696,7 @@ Toute créature hostile envers vous qui entre dans un emplacement situé dans un
 [][SpellHD]
 
 # Geyser d'énergie
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une petite poire remplie d'air)
 - Duration: instantanée
@@ -3718,7 +3718,7 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 [][SpellHD]
 
 # Globe d'invulnérabilité
-- NameVO: [Globe of Invulnerability](spells_vo.md#globe-of-invulnerability)
+- AltName: [Globe of Invulnerability](spells_vo.md#globe-of-invulnerability)
 - CastingTime: 1 action
 - Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
 - Duration: concentration, jusqu'à 1 minute
@@ -3740,7 +3740,7 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 [][SpellHD]
 
 # Glyphe de protection
-- NameVO: [Glyph of Warding](spells_vo.md#glyph-of-warding)
+- AltName: [Glyph of Warding](spells_vo.md#glyph-of-warding)
 - CastingTime: 1 heure
 - Components: V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
 - Duration: jusqu'à dissipation ou déclenchement
@@ -3774,7 +3774,7 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 [][SpellHD]
 
 # Gourdin magique
-- NameVO: [Shillelagh](spells_vo.md#shillelagh)
+- AltName: [Shillelagh](spells_vo.md#shillelagh)
 - CastingTime: 1 action bonus
 - Components: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
 - Duration: 1 minute
@@ -3792,7 +3792,7 @@ La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous
 [][SpellHD]
 
 # Graisse
-- NameVO: [Grease](spells_vo.md#grease)
+- AltName: [Grease](spells_vo.md#grease)
 - CastingTime: 1 action
 - Components: V, S, M (de la couenne de porc ou du beurre)
 - Duration: 1 minute
@@ -3812,7 +3812,7 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 [][SpellHD]
 
 # Grande foulée
-- NameVO: [Longstrider](spells_vo.md#longstrider)
+- AltName: [Longstrider](spells_vo.md#longstrider)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poussière)
 - Duration: 1 heure
@@ -3832,7 +3832,7 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 [][SpellHD]
 
 # Guérison
-- NameVO: [Heal](spells_vo.md#heal)
+- AltName: [Heal](spells_vo.md#heal)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -3852,7 +3852,7 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 [][SpellHD]
 
 # Guérison de groupe
-- NameVO: [Mass Heal](spells_vo.md#mass-heal)
+- AltName: [Mass Heal](spells_vo.md#mass-heal)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -3872,7 +3872,7 @@ Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des 
 [][SpellHD]
 
 # Harmonique miraculeuse
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un verre en cristal d'une valeur de 500 po)
 - Duration: concentration, jusqu'à 1 minute
@@ -3892,7 +3892,7 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 [][SpellHD]
 
 # Hâte
-- NameVO: [Haste](spells_vo.md#haste)
+- AltName: [Haste](spells_vo.md#haste)
 - CastingTime: 1 action
 - Components: V, S, M (un copeau de racine de réglisse)
 - Duration: concentration, jusqu'à 1 minute
@@ -3912,7 +3912,7 @@ Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une act
 [][SpellHD]
 
 # Héroïsme
-- NameVO: [Heroism](spells_vo.md#heroism)
+- AltName: [Heroism](spells_vo.md#heroism)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -3932,7 +3932,7 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 [][SpellHD]
 
 # Identification
-- NameVO: [Identify](spells_vo.md#identify)
+- AltName: [Identify](spells_vo.md#identify)
 - CastingTime: 1 minute
 - Components: V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
 - Duration: instantanée
@@ -3952,7 +3952,7 @@ Si, à la place, vous touchez une créature pendant toute l'incantation, vous d�
 [][SpellHD]
 
 # Illusion mineure
-- NameVO: [Minor Illusion](spells_vo.md#minor-illusion)
+- AltName: [Minor Illusion](spells_vo.md#minor-illusion)
 - CastingTime: 1 action
 - Components: S, M (un morceau de toison)
 - Duration: 1 minute
@@ -3976,7 +3976,7 @@ Si une créature utilise son action pour examiner le son ou l'image, elle compre
 [][SpellHD]
 
 # Illusion programmée
-- NameVO: [Programmed Illusion](spells_vo.md#programmed-illusion)
+- AltName: [Programmed Illusion](spells_vo.md#programmed-illusion)
 - CastingTime: 1 action
 - Components: V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
 - Duration: jusqu'à dissipation
@@ -4000,7 +4000,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 [][SpellHD]
 
 # Image majeure
-- NameVO: [Major Image](spells_vo.md#major-image)
+- AltName: [Major Image](spells_vo.md#major-image)
 - CastingTime: 1 action
 - Components: V, S, M (un morceau de toison)
 - Duration: concentration, jusqu'à 10 minutes
@@ -4024,7 +4024,7 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 [][SpellHD]
 
 # Image miroir
-- NameVO: [Mirror Image](spells_vo.md#mirror-image)
+- AltName: [Mirror Image](spells_vo.md#mirror-image)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -4054,7 +4054,7 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 [][SpellHD]
 
 # Image projetée
-- NameVO: [Project Image](spells_vo.md#project-image)
+- AltName: [Project Image](spells_vo.md#project-image)
 - CastingTime: 1 action
 - Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
 - Duration: concentration, jusqu'à 1 jour
@@ -4078,7 +4078,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 [][SpellHD]
 
 # Image silencieuse
-- NameVO: [Silent Image](spells_vo.md#silent-image)
+- AltName: [Silent Image](spells_vo.md#silent-image)
 - CastingTime: 1 action
 - Components: V, S, M (un morceau de toison)
 - Duration: concentration, jusqu'à 10 minutes
@@ -4100,7 +4100,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 [][SpellHD]
 
 # Immobiliser un humanoïde
-- NameVO: [Hold Person](spells_vo.md#hold-person)
+- AltName: [Hold Person](spells_vo.md#hold-person)
 - CastingTime: 1 action
 - Components: V, S, M (un petit morceau de fer bien droit)
 - Duration: concentration, jusqu'à 1 minute
@@ -4120,7 +4120,7 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 [][SpellHD]
 
 # Immobiliser un monstre
-- NameVO: [Hold Monster](spells_vo.md#hold-monster)
+- AltName: [Hold Monster](spells_vo.md#hold-monster)
 - CastingTime: 1 action
 - Components: V, S, M (un petit morceau de fer bien droit)
 - Duration: concentration, jusqu'à 1 minute
@@ -4142,7 +4142,7 @@ Les créatures visées doivent se trouver à 9 mètres ou moins les unes des aut
 [][SpellHD]
 
 # Injonction
-- NameVO: [Command](spells_vo.md#command)
+- AltName: [Command](spells_vo.md#command)
 - CastingTime: 1 action
 - Components: V
 - Duration: 1 round
@@ -4174,7 +4174,7 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 [][SpellHD]
 
 # Insecte géant
-- NameVO: [Giant Insect](spells_vo.md#giant-insect)
+- AltName: [Giant Insect](spells_vo.md#giant-insect)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -4200,7 +4200,7 @@ Par exemple, si vous transformez une abeille, sa version géante peut disposer d
 [][SpellHD]
 
 # Instrument fantomatique
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un archet et un morceau d'os)
 - Duration: concentration, jusqu'à 1 minute
@@ -4222,7 +4222,7 @@ Au début de chacun de ses tours, la créature doit réussir un jet de sauvegard
 [][SpellHD]
 
 # Interdiction
-- NameVO: [Forbiddance](spells_vo.md#forbiddance)
+- AltName: [Forbiddance](spells_vo.md#forbiddance)
 - CastingTime: 10 minutes
 - Components: V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
 - Duration: 1 jour
@@ -4250,7 +4250,7 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 [][SpellHD]
 
 # Inversion de la gravité
-- NameVO: [Reverse Gravity](spells_vo.md#reverse-gravity)
+- AltName: [Reverse Gravity](spells_vo.md#reverse-gravity)
 - CastingTime: 1 action
 - Components: V, S, M (de la magnétite et de la limaille de fer)
 - Duration: concentration, jusqu'à 1 minute
@@ -4272,7 +4272,7 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 [][SpellHD]
 
 # Invisibilité
-- NameVO: [Invisibility](spells_vo.md#invisibility)
+- AltName: [Invisibility](spells_vo.md#invisibility)
 - CastingTime: 1 action
 - Components: V, S, M (un cil enrobé de gomme arabique)
 - Duration: concentration, jusqu'à 1 heure
@@ -4292,7 +4292,7 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 [][SpellHD]
 
 # Invisibilité supérieure
-- NameVO: [Greater Invisibility](spells_vo.md#greater-invisibility)
+- AltName: [Greater Invisibility](spells_vo.md#greater-invisibility)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -4310,7 +4310,7 @@ Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez acco
 [][SpellHD]
 
 # Invoquer des animaux
-- NameVO: [Conjure Animals](spells_vo.md#conjure-animals)
+- AltName: [Conjure Animals](spells_vo.md#conjure-animals)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -4346,7 +4346,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 [][SpellHD]
 
 # Invoquer des élémentaires mineurs
-- NameVO: [Conjure Minor Elementals](spells_vo.md#conjure-minor-elementals)
+- AltName: [Conjure Minor Elementals](spells_vo.md#conjure-minor-elementals)
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -4380,7 +4380,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 [][SpellHD]
 
 # Invoquer des êtres des bois
-- NameVO: [Conjure Woodland Beings](spells_vo.md#conjure-woodland-beings)
+- AltName: [Conjure Woodland Beings](spells_vo.md#conjure-woodland-beings)
 - CastingTime: 1 action
 - Components: V, S, M (une baie de houx par créature invoquée)
 - Duration: concentration, jusqu'à 1 heure
@@ -4414,7 +4414,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 [][SpellHD]
 
 # Invoquer un céleste
-- NameVO: [Conjure Celestial](spells_vo.md#conjure-celestial)
+- AltName: [Conjure Celestial](spells_vo.md#conjure-celestial)
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -4442,7 +4442,7 @@ C'est le MJ qui dispose du profil technique du céleste.
 [][SpellHD]
 
 # Invoquer un élémentaire
-- NameVO: [Conjure Elemental](spells_vo.md#conjure-elemental)
+- AltName: [Conjure Elemental](spells_vo.md#conjure-elemental)
 - CastingTime: 1 minute
 - Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
 - Duration: concentration, jusqu'à 1 heure
@@ -4470,7 +4470,7 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 [][SpellHD]
 
 # Invoquer une fée
-- NameVO: [Conjure Fey](spells_vo.md#conjure-fey)
+- AltName: [Conjure Fey](spells_vo.md#conjure-fey)
 - CastingTime: 1 minute
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -4496,7 +4496,7 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 [][SpellHD]
 
 # Jeter une malédiction
-- NameVO: [Bestow curse](spells_vo.md#bestow-curse)
+- AltName: [Bestow curse](spells_vo.md#bestow-curse)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -4528,7 +4528,7 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 [][SpellHD]
 
 # Jugement dernier
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -4546,7 +4546,7 @@ Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de v
 [][SpellHD]
 
 # Labyrinthe
-- NameVO: [Maze](spells_vo.md#maze)
+- AltName: [Maze](spells_vo.md#maze)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -4572,7 +4572,7 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 [][SpellHD]
 
 # Lame de feu
-- NameVO: [Flame Blade](spells_vo.md#flame-blade)
+- AltName: [Flame Blade](spells_vo.md#flame-blade)
 - CastingTime: 1 action bonus
 - Components: V, S, M (feuille de sumac)
 - Duration: concentration, jusqu'à 10 minutes
@@ -4596,7 +4596,7 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 [][SpellHD]
 
 # Lance du juste
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -4616,7 +4616,7 @@ De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un j
 [][SpellHD]
 
 # Langues
-- NameVO: [Tongues](spells_vo.md#tongues)
+- AltName: [Tongues](spells_vo.md#tongues)
 - CastingTime: 1 action
 - Components: V, M (un modèle réduit de ziggourat en argile)
 - Duration: 1 heure
@@ -4636,7 +4636,7 @@ De plus, quand elle parle, toute créature qui maîtrise au moins une langue et 
 [][SpellHD]
 
 # Légende
-- NameVO: [Legend Lore](spells_vo.md#legend-lore)
+- AltName: [Legend Lore](spells_vo.md#legend-lore)
 - CastingTime: 10 minutes
 - Components: V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
 - Duration: instantanée
@@ -4658,7 +4658,7 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 [][SpellHD]
 
 # Léger comme une plume
-- NameVO: [Feather Fall](spells_vo.md#feather-fall)
+- AltName: [Feather Fall](spells_vo.md#feather-fall)
 - CastingTime: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
 - Components: V, M (une petite plume ou un peu de duvet)
 - Duration: 1 minute
@@ -4676,7 +4676,7 @@ Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de
 [][SpellHD]
 
 # Lenteur
-- NameVO: [Slow](spells_vo.md#slow)
+- AltName: [Slow](spells_vo.md#slow)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte de mélasse)
 - Duration: concentration, jusqu'à 1 minute
@@ -4702,7 +4702,7 @@ Une créature affectée par ce sort fait un nouveau jet de sauvegarde de Sagesse
 [][SpellHD]
 
 # Lever une malédiction
-- NameVO: [Remove Curse](spells_vo.md#remove-curse)
+- AltName: [Remove Curse](spells_vo.md#remove-curse)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -4720,7 +4720,7 @@ Une créature affectée par ce sort fait un nouveau jet de sauvegarde de Sagesse
 [][SpellHD]
 
 # Lévitation
-- NameVO: [Levitate](spells_vo.md#levitate)
+- AltName: [Levitate](spells_vo.md#levitate)
 - CastingTime: 1 action
 - Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
 - Duration: concentration, jusqu'à 10 minutes
@@ -4744,7 +4744,7 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 [][SpellHD]
 
 # Liane chasseresse
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -4766,7 +4766,7 @@ La liane a le profil suivant : CA 15, points de vie 30, Force 20 (+5), résistan
 [][SpellHD]
 
 # Liberté de mouvement
-- NameVO: [Freedom of Movement](spells_vo.md#freedom-of-movement)
+- AltName: [Freedom of Movement](spells_vo.md#freedom-of-movement)
 - CastingTime: 1 action
 - Components: V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
 - Duration: 1 heure
@@ -4786,7 +4786,7 @@ La cible peut également dépenser 1,50 mètre de déplacement pour échapper au
 [][SpellHD]
 
 # Lien de protection
-- NameVO: [Warding Bond](spells_vo.md#warding-bond)
+- AltName: [Warding Bond](spells_vo.md#warding-bond)
 - CastingTime: 1 action
 - Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
 - Duration: 1 heure
@@ -4808,7 +4808,7 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 [][SpellHD]
 
 # Lien télépathique
-- NameVO: [Rary's Telepathic Bond](spells_vo.md#rarys-telepathic-bond)
+- AltName: [Rary's Telepathic Bond](spells_vo.md#rarys-telepathic-bond)
 - CastingTime: 1 action
 - Components: V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
 - Duration: 1 heure
@@ -4830,7 +4830,7 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 [][SpellHD]
 
 # Localiser des animaux ou des plantes
-- NameVO: [Locate Animals or Plants](spells_vo.md#locate-animals-or-plants)
+- AltName: [Locate Animals or Plants](spells_vo.md#locate-animals-or-plants)
 - CastingTime: 1 action
 - Components: V, S, M (des poils de chien de chasse)
 - Duration: instantanée
@@ -4848,7 +4848,7 @@ Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous conce
 [][SpellHD]
 
 # Localiser un objet
-- NameVO: [Locate Object](spells_vo.md#locate-object)
+- AltName: [Locate Object](spells_vo.md#locate-object)
 - CastingTime: 1 action
 - Components: V, S, M (une branche fourchue)
 - Duration: concentration, jusqu'à 10 minutes
@@ -4872,7 +4872,7 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 [][SpellHD]
 
 # Localiser une créature
-- NameVO: [Locate Creature](spells_vo.md#locate-creature)
+- AltName: [Locate Creature](spells_vo.md#locate-creature)
 - CastingTime: 1 action
 - Components: V, S, M (des poils de chien de chasse)
 - Duration: concentration, jusqu'à 1 heure
@@ -4896,7 +4896,7 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 [][SpellHD]
 
 # Lueur d'espoir
-- NameVO: [Beacon of Hope](spells_vo.md#beacon-of-hope)
+- AltName: [Beacon of Hope](spells_vo.md#beacon-of-hope)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -4916,7 +4916,7 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des jets
 [][SpellHD]
 
 # Lueurs féeriques
-- NameVO: [Faerie Fire](spells_vo.md#faerie-fire)
+- AltName: [Faerie Fire](spells_vo.md#faerie-fire)
 - CastingTime: 1 action
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -4936,7 +4936,7 @@ Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il
 [][SpellHD]
 
 # Lumière
-- NameVO: [Light](spells_vo.md#light)
+- AltName: [Light](spells_vo.md#light)
 - CastingTime: 1 action
 - Components: V, M (une luciole ou de la mousse phosphorescente)
 - Duration: 1 heure
@@ -4960,7 +4960,7 @@ Si vous visez un objet porté ou transporté par une créature hostile, cette de
 [][SpellHD]
 
 # Lumière du jour
-- NameVO: [Daylight](spells_vo.md#daylight)
+- AltName: [Daylight](spells_vo.md#daylight)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 heure
@@ -4982,7 +4982,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres 
 [][SpellHD]
 
 # Lumières dansantes
-- NameVO: [Dancing Lights](spells_vo.md#dancing-lights)
+- AltName: [Dancing Lights](spells_vo.md#dancing-lights)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
 - Duration: concentration, jusqu'à 1 minute
@@ -5008,7 +5008,7 @@ Elle s'éteint si elle passe hors de portée.
 [][SpellHD]
 
 # Main du mage
-- NameVO: [Mage Hand](spells_vo.md#mage-hand)
+- AltName: [Mage Hand](spells_vo.md#mage-hand)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -5030,7 +5030,7 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 [][SpellHD]
 
 # Main magique
-- NameVO: [Bigby's Hand](spells_vo.md#bigbys-hand)
+- AltName: [Bigby's Hand](spells_vo.md#bigbys-hand)
 - CastingTime: 1 action
 - Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
 - Duration: concentration, jusqu'à 1 minute
@@ -5066,7 +5066,7 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 [][SpellHD]
 
 # Mains brûlantes
-- NameVO: [Burning Hands](spells_vo.md#burning-hands)
+- AltName: [Burning Hands](spells_vo.md#burning-hands)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -5090,7 +5090,7 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 [][SpellHD]
 
 # Manoir somptueux
-- NameVO: [Mordenkainen's Magnificent Mansion](spells_vo.md#mordenkainens-magnificent-mansion)
+- AltName: [Mordenkainen's Magnificent Mansion](spells_vo.md#mordenkainens-magnificent-mansion)
 - CastingTime: 1 minute
 - Components: V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
 - Duration: 24 heures
@@ -5120,7 +5120,7 @@ Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace ex
 [][SpellHD]
 
 # Manteau de givre
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un peu d'eau)
 - Duration: 8 heures
@@ -5140,7 +5140,7 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 [][SpellHD]
 
 # Marche sur l'eau
-- NameVO: [Water Walk](spells_vo.md#water-walk)
+- AltName: [Water Walk](spells_vo.md#water-walk)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de liège)
 - Duration: 1 heure
@@ -5160,7 +5160,7 @@ Si vous prenez pour cible une créature immergée dans un liquide, le sort la ra
 [][SpellHD]
 
 # Marche sur le vent
-- NameVO: [Wind Walk](spells_vo.md#wind-walk)
+- AltName: [Wind Walk](spells_vo.md#wind-walk)
 - CastingTime: 1 minute
 - Components: V, S, M (du feu et de l'eau bénite)
 - Duration: 8 heures
@@ -5180,7 +5180,7 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 [][SpellHD]
 
 # Marque du chasseur
-- NameVO: [Hunter's Mark](spells_vo.md#hunters-mark)
+- AltName: [Hunter's Mark](spells_vo.md#hunters-mark)
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: concentration, jusqu'à 1 heure
@@ -5200,7 +5200,7 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 [][SpellHD]
 
 # Mauvais oeil
-- NameVO: [Eyebite](spells_vo.md#eyebite)
+- AltName: [Eyebite](spells_vo.md#eyebite)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -5224,7 +5224,7 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 [][SpellHD]
 
 # Message
-- NameVO: [Message](spells_vo.md#message)
+- AltName: [Message](spells_vo.md#message)
 - CastingTime: 1 action
 - Components: V, S, M (un petit bout de fil de cuivre)
 - Duration: 1 round
@@ -5244,7 +5244,7 @@ Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien 
 [][SpellHD]
 
 # Messager animal
-- NameVO: [Animal Messenger](spells_vo.md#animal-messenger)
+- AltName: [Animal Messenger](spells_vo.md#animal-messenger)
 - CastingTime: 1 action
 - Components: V, S, M (un peu de nourriture)
 - Duration: 24 heures
@@ -5270,7 +5270,7 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 [][SpellHD]
 
 # Métamorphose
-- NameVO: [Polymorph](spells_vo.md#polymorph)
+- AltName: [Polymorph](spells_vo.md#polymorph)
 - CastingTime: 1 action
 - Components: V, S, M (un cocon de chenille)
 - Duration: concentration, jusqu'à 1 heure
@@ -5296,7 +5296,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 [][SpellHD]
 
 # Métamorphose suprême
-- NameVO: [True Polymorph](spells_vo.md#true-polymorph)
+- AltName: [True Polymorph](spells_vo.md#true-polymorph)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
 - Duration: concentration, jusqu'à 1 heure
@@ -5340,7 +5340,7 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 [][SpellHD]
 
 # Mirage
-- NameVO: [Mirage Arcane](spells_vo.md#mirage-arcane)
+- AltName: [Mirage Arcane](spells_vo.md#mirage-arcane)
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: 10 jours
@@ -5362,7 +5362,7 @@ Les créatures dotées de vision parfaite distinguent le véritable terrain derr
 [][SpellHD]
 
 # Modification de mémoire
-- NameVO: [Modify Memory](spells_vo.md#modify-memory)
+- AltName: [Modify Memory](spells_vo.md#modify-memory)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute 
@@ -5390,7 +5390,7 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 [][SpellHD]
 
 # Modifier son apparence
-- NameVO: [Alter Self](spells_vo.md#alter-self)
+- AltName: [Alter Self](spells_vo.md#alter-self)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -5414,7 +5414,7 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 [][SpellHD]
 
 # Monture fantôme
-- NameVO: [Phantom Steed](spells_vo.md#phantom-steed)
+- AltName: [Phantom Steed](spells_vo.md#phantom-steed)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 heure
@@ -5436,7 +5436,7 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 [][SpellHD]
 
 # Moquerie cruelle
-- NameVO: [Vicious Mockery](spells_vo.md#vicious-mockery)
+- AltName: [Vicious Mockery](spells_vo.md#vicious-mockery)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -5456,7 +5456,7 @@ Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), l
 [][SpellHD]
 
 # Mot de guérison
-- NameVO: [Healing Word](spells_vo.md#healing-word)
+- AltName: [Healing Word](spells_vo.md#healing-word)
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: instantanée
@@ -5476,7 +5476,7 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 [][SpellHD]
 
 # Mot de guérison de groupe
-- NameVO: [Mass Healing Word](spells_vo.md#mass-healing-word)
+- AltName: [Mass Healing Word](spells_vo.md#mass-healing-word)
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: instantanée
@@ -5496,7 +5496,7 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 [][SpellHD]
 
 # Mot de pouvoir étourdissant
-- NameVO: [Power Word Stun](spells_vo.md#power-word-stun)
+- AltName: [Power Word Stun](spells_vo.md#power-word-stun)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -5516,7 +5516,7 @@ Une cible [étourdie] a droit à un jet de sauvegarde de Constitution à la fin 
 [][SpellHD]
 
 # Mot de pouvoir mortel
-- NameVO: [Power Word Kill](spells_vo.md#power-word-kill)
+- AltName: [Power Word Kill](spells_vo.md#power-word-kill)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -5534,7 +5534,7 @@ Vous prononcez un mot de pouvoir capable d'obliger une créature située à port
 [][SpellHD]
 
 # Mot de retour
-- NameVO: [Word of Recall](spells_vo.md#word-of-recall)
+- AltName: [Word of Recall](spells_vo.md#word-of-recall)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -5554,7 +5554,7 @@ Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à vo
 [][SpellHD]
 
 # Motif hypnotique
-- NameVO: [Hypnotic Pattern](spells_vo.md#hypnotic-pattern)
+- AltName: [Hypnotic Pattern](spells_vo.md#hypnotic-pattern)
 - CastingTime: 1 action
 - Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
 - Duration: concentration, jusqu'à 1 minute
@@ -5576,7 +5576,7 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 [][SpellHD]
 
 # Mur d'épines
-- NameVO: [Wall of Thorns](spells_vo.md#wall-of-thorns)
+- AltName: [Wall of Thorns](spells_vo.md#wall-of-thorns)
 - CastingTime: 1 action
 - Components: V, S, M (une poignée d'épines)
 - Duration: concentration, jusqu'à 10 minutes
@@ -5602,7 +5602,7 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 [][SpellHD]
 
 # Mur de feu
-- NameVO: [Wall of Fire](spells_vo.md#wall-of-fire)
+- AltName: [Wall of Fire](spells_vo.md#wall-of-fire)
 - CastingTime: 1 action
 - Components: V, S, M (un éclat de phosphore)
 - Duration: concentration, jusqu'à 1 minute
@@ -5628,7 +5628,7 @@ L'autre face du mur n'inflige pas de dégâts.
 [][SpellHD]
 
 # Mur de force
-- NameVO: [Wall of Force](spells_vo.md#wall-of-force)
+- AltName: [Wall of Force](spells_vo.md#wall-of-force)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poudre de gemme translucide)
 - Duration: concentration, jusqu'à 10 minutes
@@ -5648,7 +5648,7 @@ Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre t
 [][SpellHD]
 
 # Mur de glace
-- NameVO: [Wall of Ice](spells_vo.md#wall-of-ice)
+- AltName: [Wall of Ice](spells_vo.md#wall-of-ice)
 - CastingTime: 1 action
 - Components: V, S, M (un éclat de quartz)
 - Duration: concentration, jusqu'à 10 minutes
@@ -5672,7 +5672,7 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 [][SpellHD]
 
 # Mur de pierre
-- NameVO: [Wall of Stone](spells_vo.md#wall-of-stone)
+- AltName: [Wall of Stone](spells_vo.md#wall-of-stone)
 - CastingTime: 1 action
 - Components: V, S, M (un petit bloc de granite)
 - Duration: concentration, jusqu'à 10 minutes
@@ -5700,7 +5700,7 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 [][SpellHD]
 
 # Mur de vent
-- NameVO: [Wind Wall](spells_vo.md#wind-wall)
+- AltName: [Wind Wall](spells_vo.md#wind-wall)
 - CastingTime: 1 action
 - Components: V, S, M (un petit éventail et une plume exotique)
 - Duration: concentration, jusqu'à 1 minute
@@ -5722,7 +5722,7 @@ Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les cr
 [][SpellHD]
 
 # Mur prismatique
-- NameVO: [Prismatic Wall](spells_vo.md#prismatic-wall)
+- AltName: [Prismatic Wall](spells_vo.md#prismatic-wall)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -5766,7 +5766,7 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 [][SpellHD]
 
 # Nappe de brouillard
-- NameVO: [Fog Cloud](spells_vo.md#fog-cloud)
+- AltName: [Fog Cloud](spells_vo.md#fog-cloud)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -5786,7 +5786,7 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 [][SpellHD]
 
 # Nimbe de bienfaisance
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V
 - Duration: concentration, jusqu'à 10 minutes
@@ -5806,7 +5806,7 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 [][SpellHD]
 
 # Non-détection
-- NameVO: [Nondetection](spells_vo.md#nondetection)
+- AltName: [Nondetection](spells_vo.md#nondetection)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
 - Duration: 8 heures
@@ -5826,7 +5826,7 @@ Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet
 [][SpellHD]
 
 # Nuage incendiaire
-- NameVO: [Incendiary Cloud](spells_vo.md#incendiary-cloud)
+- AltName: [Incendiary Cloud](spells_vo.md#incendiary-cloud)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -5850,7 +5850,7 @@ Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au d�
 [][SpellHD]
 
 # Nuage mortel
-- NameVO: [Cloudkill](spells_vo.md#cloudkill)
+- AltName: [Cloudkill](spells_vo.md#cloudkill)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -5876,7 +5876,7 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 [][SpellHD]
 
 # Nuage puant
-- NameVO: [Stinking Cloud](spells_vo.md#stinking-cloud)
+- AltName: [Stinking Cloud](spells_vo.md#stinking-cloud)
 - CastingTime: 1 action
 - Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
 - Duration: concentration, jusqu'à 1 minute
@@ -5898,7 +5898,7 @@ Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent f
 [][SpellHD]
 
 # Nuée de météores
-- NameVO: [Meteor Swarm](spells_vo.md#meteor-swarm)
+- AltName: [Meteor Swarm](spells_vo.md#meteor-swarm)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -5920,7 +5920,7 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 [][SpellHD]
 
 # Nuée de projectiles
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V, S, M (un projectile)
 - Duration: instantané
@@ -5938,7 +5938,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 [][SpellHD]
 
 # Oeil magique
-- NameVO: [Arcane Eye](spells_vo.md#arcane-eye)
+- AltName: [Arcane Eye](spells_vo.md#arcane-eye)
 - CastingTime: 1 action
 - Components: V, S, M (des poils de chauve-souris)
 - Duration: concentration, jusqu'à 1 heure
@@ -5958,7 +5958,7 @@ Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la d
 [][SpellHD]
 
 # Offrande inéluctable
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -5978,7 +5978,7 @@ Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'ell
 [][SpellHD]
 
 # Ombres imaginaires
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (un morceau de charbon)
 - Duration: concentration, jusqu'à 1 minute
@@ -5998,7 +5998,7 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 [][SpellHD]
 
 # Panacée
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: Instantanée
@@ -6016,7 +6016,7 @@ Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux
 [][SpellHD]
 
 # Parole divine
-- NameVO: [Divine Word](spells_vo.md#divine-word)
+- AltName: [Divine Word](spells_vo.md#divine-word)
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: instantanée
@@ -6046,7 +6046,7 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 [][SpellHD]
 
 # Pas brumeux
-- NameVO: [Misty Step](spells_vo.md#misty-step)
+- AltName: [Misty Step](spells_vo.md#misty-step)
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: instantanée
@@ -6064,7 +6064,7 @@ Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez 
 [][SpellHD]
 
 # Passage dimensionnel
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -6092,7 +6092,7 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 [][SpellHD]
 
 # Passage par les arbres
-- NameVO: [Tree Stride](spells_vo.md#tree-stride)
+- AltName: [Tree Stride](spells_vo.md#tree-stride)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -6112,7 +6112,7 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 [][SpellHD]
 
 # Passage sans trace
-- NameVO: [Pass without Trace](spells_vo.md#pass-without-trace)
+- AltName: [Pass without Trace](spells_vo.md#pass-without-trace)
 - CastingTime: 1 action
 - Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
 - Duration: concentration, jusqu'à 1 heure
@@ -6134,7 +6134,7 @@ Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni a
 [][SpellHD]
 
 # Passe-muraille
-- NameVO: [Passwall](spells_vo.md#passwall)
+- AltName: [Passwall](spells_vo.md#passwall)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de graines de sésame)
 - Duration: 1 heure
@@ -6154,7 +6154,7 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 [][SpellHD]
 
 # Pattes d'araignée
-- NameVO: [Spider Climb](spells_vo.md#spider-climb)
+- AltName: [Spider Climb](spells_vo.md#spider-climb)
 - CastingTime: 1 action
 - Components: V, S, M (une goutte de bitume et une araignée)
 - Duration: concentration, jusqu'à 1 heure
@@ -6172,7 +6172,7 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 [][SpellHD]
 
 # Peau d'écorce
-- NameVO: [Barkskin](spells_vo.md#barkskin)
+- AltName: [Barkskin](spells_vo.md#barkskin)
 - CastingTime: 1 action
 - Components: V, S, M (une poignée d'écorce de chêne)
 - Duration: concentration, jusqu'à 1 heure
@@ -6190,7 +6190,7 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 [][SpellHD]
 
 # Peau de pierre
-- NameVO: [Stoneskin](spells_vo.md#stoneskin)
+- AltName: [Stoneskin](spells_vo.md#stoneskin)
 - CastingTime: 1 action
 - Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
 - Duration: concentration, jusqu'à 1 heure
@@ -6208,7 +6208,7 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 [][SpellHD]
 
 # Petite hutte
-- NameVO: [Leomund's Tiny Hut](spells_vo.md#leomunds-tiny-hut)
+- AltName: [Leomund's Tiny Hut](spells_vo.md#leomunds-tiny-hut)
 - CastingTime: 1 minute
 - Components: V, S, M (une petite perle de cristal)
 - Duration: 8 heures
@@ -6230,7 +6230,7 @@ Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur
 [][SpellHD]
 
 # Pétrification
-- NameVO: [Flesh to Stone](spells_vo.md#flesh-to-stone)
+- AltName: [Flesh to Stone](spells_vo.md#flesh-to-stone)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
 - Duration: concentration, jusqu'à 1 minute
@@ -6254,7 +6254,7 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 [][SpellHD]
 
 # Peur
-- NameVO: [Fear](spells_vo.md#fear)
+- AltName: [Fear](spells_vo.md#fear)
 - CastingTime: 1 action
 - Components: V, S, M (une plume blanche ou un coeur de poule)
 - Duration: concentration, jusqu'à 1 minute.
@@ -6274,7 +6274,7 @@ Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utilise
 [][SpellHD]
 
 # Pluie de projectiles
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V, S, M (un projectile)
 - Duration: instantané
@@ -6294,7 +6294,7 @@ Le projectile se dédouble de nombreuses fois et affecte toutes les créatures d
 [][SpellHD]
 
 # Poigne électrique
-- NameVO: [Shocking Grasp](spells_vo.md#shocking-grasp)
+- AltName: [Shocking Grasp](spells_vo.md#shocking-grasp)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -6314,7 +6314,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 [][SpellHD]
 
 # Poison naturel
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -6334,7 +6334,7 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 [][SpellHD]
 
 # Portail
-- NameVO: [Gate](spells_vo.md#gate)
+- AltName: [Gate](spells_vo.md#gate)
 - CastingTime: 1 action
 - Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
 - Duration: concentration, jusqu'à 1 minute
@@ -6358,7 +6358,7 @@ Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifi
 [][SpellHD]
 
 # Porte dimensionnelle
-- NameVO: [Dimension Door](spells_vo.md#dimension-door)
+- AltName: [Dimension Door](spells_vo.md#dimension-door)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -6382,7 +6382,7 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 [][SpellHD]
 
 # Porte-bonheur
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (objet porte-bonheur)
 - Duration: 1 round
@@ -6400,7 +6400,7 @@ Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, 
 [][SpellHD]
 
 # Possession
-- NameVO: [Magic Jar](spells_vo.md#magic-jar)
+- AltName: [Magic Jar](spells_vo.md#magic-jar)
 - CastingTime: 1 minute
 - Components: V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
 - Duration: jusqu'à dissipation
@@ -6442,7 +6442,7 @@ Le réceptacle est détruit quand le sort se termine.
 [][SpellHD]
 
 # Prémonition
-- NameVO: [Foresight](spells_vo.md#foresight)
+- AltName: [Foresight](spells_vo.md#foresight)
 - CastingTime: 1 minute
 - Components: V, S, M (une plume d'oiseau chanteur)
 - Duration: 8 heures
@@ -6462,7 +6462,7 @@ Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de s
 [][SpellHD]
 
 # Prestidigitation
-- NameVO: [Prestidigitation](spells_vo.md#prestidigitation)
+- AltName: [Prestidigitation](spells_vo.md#prestidigitation)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: jusqu'à 1 heure
@@ -6494,7 +6494,7 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 [][SpellHD]
 
 # Prière de soins
-- NameVO: [Prayer of Healing](spells_vo.md#prayer-of-healing)
+- AltName: [Prayer of Healing](spells_vo.md#prayer-of-healing)
 - CastingTime: 10 minutes
 - Components: V
 - Duration: instantanée
@@ -6514,7 +6514,7 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 [][SpellHD]
 
 # Produire une flamme
-- NameVO: [Produce Flame](spells_vo.md#produce-flame)
+- AltName: [Produce Flame](spells_vo.md#produce-flame)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes
@@ -6538,7 +6538,7 @@ Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8)
 [][SpellHD]
 
 # Projectile magique
-- NameVO: [Magic Missile](spells_vo.md#magic-missile)
+- AltName: [Magic Missile](spells_vo.md#magic-missile)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -6558,7 +6558,7 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 [][SpellHD]
 
 # Projectile toxique
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V, S, M (un projectile)
 - Duration: instantané
@@ -6580,7 +6580,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 [][SpellHD]
 
 # Projection astrale
-- NameVO: [Astral Projection](spells_vo.md#astral-projection)
+- AltName: [Astral Projection](spells_vo.md#astral-projection)
 - CastingTime: 1 heure
 - Components: V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
 - Duration: spéciale
@@ -6608,7 +6608,7 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 [][SpellHD]
 
 # Protection contre la mort
-- NameVO: [Death Ward](spells_vo.md#death-ward)
+- AltName: [Death Ward](spells_vo.md#death-ward)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 8 heures
@@ -6628,7 +6628,7 @@ Si le sort est encore actif quand la cible est soumise à un effet qui devrait l
 [][SpellHD]
 
 # Protection contre le mal et le bien
-- NameVO: [Protection from Evil and Good](spells_vo.md#protection-from-evil-and-good)
+- AltName: [Protection from Evil and Good](spells_vo.md#protection-from-evil-and-good)
 - CastingTime: 1 action
 - Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
 - Duration: concentration, jusqu'à 10 minutes
@@ -6650,7 +6650,7 @@ Les créatures des types précédemment nommés subissent un désavantage lors d
 [][SpellHD]
 
 # Protection contre le poison
-- NameVO: [Protection from Poison](spells_vo.md#protection-from-poison)
+- AltName: [Protection from Poison](spells_vo.md#protection-from-poison)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 heure
@@ -6670,7 +6670,7 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des jet
 [][SpellHD]
 
 # Protection contre les énergies
-- NameVO: [Protection from Energy](spells_vo.md#protection-from-energy)
+- AltName: [Protection from Energy](spells_vo.md#protection-from-energy)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 heure
@@ -6688,7 +6688,7 @@ Pendant toute la durée du sort, la créature consentante que vous touchez devie
 [][SpellHD]
 
 # Protections et sceaux
-- NameVO: [Guards and Wards](spells_vo.md#guards-and-wards)
+- AltName: [Guards and Wards](spells_vo.md#guards-and-wards)
 - CastingTime: 10 minutes
 - Components: V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
 - Duration: 24 heures
@@ -6734,7 +6734,7 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 [][SpellHD]
 
 # Purification de la nourriture et de l'eau
-- NameVO: [Purify Food and Drink](spells_vo.md#purify-food-and-drink)
+- AltName: [Purify Food and Drink](spells_vo.md#purify-food-and-drink)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -6752,7 +6752,7 @@ Toute la nourriture et les boissons non magiques présentes dans une sphère d'u
 [][SpellHD]
 
 # Putréfaction
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M
 - Duration: concentration, jusqu'à 1 heure
@@ -6776,7 +6776,7 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 [][SpellHD]
 
 # Rappel à la vie
-- NameVO: [Raise Dead](spells_vo.md#raise-dead)
+- AltName: [Raise Dead](spells_vo.md#raise-dead)
 - CastingTime: 1 heure
 - Components: V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
 - Duration: instantanée
@@ -6800,7 +6800,7 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 [][SpellHD]
 
 # Rayon affaiblissant
-- NameVO: [Ray of Enfeeblement](spells_vo.md#ray-of-enfeeblement)
+- AltName: [Ray of Enfeeblement](spells_vo.md#ray-of-enfeeblement)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -6820,7 +6820,7 @@ La cible a droit à un jet de sauvegarde de Constitution contre le sort à la fi
 [][SpellHD]
 
 # Rayon ardent
-- NameVO: [Scorching Ray](spells_vo.md#scorching-ray)
+- AltName: [Scorching Ray](spells_vo.md#scorching-ray)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -6840,7 +6840,7 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 [][SpellHD]
 
 # Rayon de givre
-- NameVO: [Ray of Frost](spells_vo.md#ray-of-frost)
+- AltName: [Ray of Frost](spells_vo.md#ray-of-frost)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -6860,7 +6860,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11
 [][SpellHD]
 
 # Rayon de lune
-- NameVO: [Moonbeam](spells_vo.md#moonbeam)
+- AltName: [Moonbeam](spells_vo.md#moonbeam)
 - CastingTime: 1 action
 - Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
 - Duration: concentration, jusqu'à 1 minute
@@ -6886,7 +6886,7 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 [][SpellHD]
 
 # Rayon de soleil
-- NameVO: [Sunbeam](spells_vo.md#sunbeam)
+- AltName: [Sunbeam](spells_vo.md#sunbeam)
 - CastingTime: 1 action
 - Components: V, S, M (une loupe)
 - Duration: concentration, jusqu'à 1 minute
@@ -6910,7 +6910,7 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 [][SpellHD]
 
 # Régénération
-- NameVO: [Regenerate](spells_vo.md#regenerate)
+- AltName: [Regenerate](spells_vo.md#regenerate)
 - CastingTime: 1 minute
 - Components: V, S, M (un moulin à prières et de l'eau bénite)
 - Duration: 1 heure
@@ -6932,7 +6932,7 @@ Si vous disposez de la partie amputée et la maintenez contre le moignon, le sor
 [][SpellHD]
 
 # Réincarnation
-- NameVO: [Reincarnate](spells_vo.md#reincarnate)
+- AltName: [Reincarnate](spells_vo.md#reincarnate)
 - CastingTime: 1 heure
 - Components: V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
 - Duration: instantanée
@@ -6976,7 +6976,7 @@ La créature réincarnée se souvient de son ancienne vie et de ses expériences
 [][SpellHD]
 
 # Réparation
-- NameVO: [Mending](spells_vo.md#mending)
+- AltName: [Mending](spells_vo.md#mending)
 - CastingTime: 1 minute
 - Components: V, S, M (deux magnétites)
 - Duration: instantanée
@@ -6998,7 +6998,7 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 [][SpellHD]
 
 # Repli expéditif
-- NameVO: [Expeditious Retreat](spells_vo.md#expeditious-retreat)
+- AltName: [Expeditious Retreat](spells_vo.md#expeditious-retreat)
 - CastingTime: 1 action bonus
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -7016,7 +7016,7 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 [][SpellHD]
 
 # Représailles infernales
-- NameVO: [Hellish Rebuke](spells_vo.md#hellish-rebuke)
+- AltName: [Hellish Rebuke](spells_vo.md#hellish-rebuke)
 - CastingTime: 
 - Components: V, S
 - Duration: instantanée
@@ -7036,7 +7036,7 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 [][SpellHD]
 
 # Répulsion/attirance
-- NameVO: [Antipathy/Sympathy](spells_vo.md#antipathysympathy)
+- AltName: [Antipathy/Sympathy](spells_vo.md#antipathysympathy)
 - CastingTime: 1 heure
 - Components: V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
 - Duration: 10 jours
@@ -7068,7 +7068,7 @@ Une créature qui réussit son jet de sauvegarde contre l'effet est immunisée c
 [][SpellHD]
 
 # Résistance
-- NameVO: [Resistance](spells_vo.md#resistance)
+- AltName: [Resistance](spells_vo.md#resistance)
 - CastingTime: 1 action
 - Components: V, S, M (une cape miniature)
 - Duration: concentration, jusqu'à 1 minute
@@ -7088,7 +7088,7 @@ Le sort se termine alors.
 [][SpellHD]
 
 # Respiration aquatique
-- NameVO: [Water Breathing](spells_vo.md#water-breathing)
+- AltName: [Water Breathing](spells_vo.md#water-breathing)
 - CastingTime: 1 action
 - Components: V, S, M (un petit roseau ou un brin de paille)
 - Duration: 24 heures
@@ -7106,7 +7106,7 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 [][SpellHD]
 
 # Restauration inférieure
-- NameVO: [Lesser Restoration](spells_vo.md#lesser-restoration)
+- AltName: [Lesser Restoration](spells_vo.md#lesser-restoration)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -7124,7 +7124,7 @@ Vous touchez une créature et mettez fin à une maladie ou à un état spécial 
 [][SpellHD]
 
 # Restauration supérieure
-- NameVO: [Greater Restoration](spells_vo.md#greater-restoration)
+- AltName: [Greater Restoration](spells_vo.md#greater-restoration)
 - CastingTime: 1 action
 - Components: V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
 - Duration: instantanée
@@ -7150,7 +7150,7 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 [][SpellHD]
 
 # Résurrection
-- NameVO: [Resurrection](spells_vo.md#resurrection)
+- AltName: [Resurrection](spells_vo.md#resurrection)
 - CastingTime: 1 heure
 - Components: V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
 - Duration: instantanée
@@ -7178,7 +7178,7 @@ Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavanta
 [][SpellHD]
 
 # Résurrection suprême
-- NameVO: [True Resurrection](spells_vo.md#true-resurrection)
+- AltName: [True Resurrection](spells_vo.md#true-resurrection)
 - CastingTime: 1 heure
 - Components: V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
 - Duration: instantanée
@@ -7200,7 +7200,7 @@ Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes l
 [][SpellHD]
 
 # Rêve
-- NameVO: [Dream](spells_vo.md#dream)
+- AltName: [Dream](spells_vo.md#dream)
 - CastingTime: 1 minute
 - Components: V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
 - Duration: 8 heures
@@ -7224,7 +7224,7 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 [][SpellHD]
 
 # Revigorer
-- NameVO: [Revivify](spells_vo.md#revivify)
+- AltName: [Revivify](spells_vo.md#revivify)
 - CastingTime: 1 action
 - Components: V, S, M (diamant d'une valeur de 300 po, que le sort consume)
 - Duration: instantanée
@@ -7242,7 +7242,7 @@ Vous touchez une créature morte au cours de la minute précédente. Elle revien
 [][SpellHD]
 
 # Sanctification
-- NameVO: [Hallow](spells_vo.md#hallow)
+- AltName: [Hallow](spells_vo.md#hallow)
 - CastingTime: 24 heures
 - Components: V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
 - Duration: jusqu'à dissipation
@@ -7288,7 +7288,7 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 [][SpellHD]
 
 # Sanctuaire
-- NameVO: [Sanctuary](spells_vo.md#sanctuary)
+- AltName: [Sanctuary](spells_vo.md#sanctuary)
 - CastingTime: 1 action bonus
 - Components: V, S, M (un petit miroir en argent)
 - Duration: 1 minute
@@ -7310,7 +7310,7 @@ Ce sort se termine si la créature protégée attaque ou lance un sort affectant
 [][SpellHD]
 
 # Sanctuaire privé
-- NameVO: [Mordenkainen's Private Sanctum](spells_vo.md#mordenkainens-private-sanctum)
+- AltName: [Mordenkainen's Private Sanctum](spells_vo.md#mordenkainens-private-sanctum)
 - CastingTime: 10 minutes
 - Components: V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
 - Duration: 24 heures
@@ -7346,7 +7346,7 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 [][SpellHD]
 
 # Sang du démon
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une fiole d'un mélange de sang et d'acide)
 - Duration: concentration, jusqu'à 1 minute
@@ -7366,7 +7366,7 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 [][SpellHD]
 
 # Saut
-- NameVO: [Jump](spells_vo.md#jump)
+- AltName: [Jump](spells_vo.md#jump)
 - CastingTime: 1 action
 - Components: V, S, M (une patte arrière de sauterelle)
 - Duration: 1 minute
@@ -7384,7 +7384,7 @@ Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sor
 [][SpellHD]
 
 # Scrutation
-- NameVO: [Scrying](spells_vo.md#scrying)
+- AltName: [Scrying](spells_vo.md#scrying)
 - CastingTime: 10 minutes
 - Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
 - Duration: concentration, jusqu'à 10 minutes
@@ -7420,7 +7420,7 @@ Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vou
 [][SpellHD]
 
 # Séquestration
-- NameVO: [Sequester](spells_vo.md#sequester)
+- AltName: [Sequester](spells_vo.md#sequester)
 - CastingTime: 1 action
 - Components: V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
 - Duration: jusqu'à dissipation
@@ -7442,7 +7442,7 @@ Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce
 [][SpellHD]
 
 # Serviteur invisible
-- NameVO: [Unseen Servant](spells_vo.md#unseen-servant)
+- AltName: [Unseen Servant](spells_vo.md#unseen-servant)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de ficelle et un morceau de bois)
 - Duration: 1 heure
@@ -7464,7 +7464,7 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 [][SpellHD]
 
 # Silence
-- NameVO: [Silence](spells_vo.md#silence)
+- AltName: [Silence](spells_vo.md#silence)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -7484,7 +7484,7 @@ Une créature ou un objet entièrement contenu dans la sphère sont immunisés c
 [][SpellHD]
 
 # Simulacre
-- NameVO: [Simulacrum](spells_vo.md#simulacrum)
+- AltName: [Simulacrum](spells_vo.md#simulacrum)
 - CastingTime: 12 heures
 - Components: V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
 - Duration: jusqu'à dissipation
@@ -7510,7 +7510,7 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 [][SpellHD]
 
 # Simulacre de vie
-- NameVO: [False Life](spells_vo.md#false-life)
+- AltName: [False Life](spells_vo.md#false-life)
 - CastingTime: 1 action
 - Components: V, S, M (une petite quantité d'alcool ou de spiritueux)
 - Duration: 1 heure
@@ -7530,7 +7530,7 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 [][SpellHD]
 
 # Soin des blessures
-- NameVO: [Cure Wounds](spells_vo.md#cure-wounds)
+- AltName: [Cure Wounds](spells_vo.md#cure-wounds)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -7550,7 +7550,7 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 [][SpellHD]
 
 # Soin des blessures de groupe
-- NameVO: [Mass Cure Wounds](spells_vo.md#mass-cure-wounds)
+- AltName: [Mass Cure Wounds](spells_vo.md#mass-cure-wounds)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -7570,7 +7570,7 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 [][SpellHD]
 
 # Sommeil
-- NameVO: [Sleep](spells_vo.md#sleep)
+- AltName: [Sleep](spells_vo.md#sleep)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
 - Duration: 1 minute
@@ -7594,7 +7594,7 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 [][SpellHD]
 
 # Souhait
-- NameVO: [Wish](spells_vo.md#wish)
+- AltName: [Wish](spells_vo.md#wish)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -7634,7 +7634,7 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 [][SpellHD]
 
 # Sphère de feu
-- NameVO: [Flaming Sphere](spells_vo.md#flaming-sphere)
+- AltName: [Flaming Sphere](spells_vo.md#flaming-sphere)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
 - Duration: concentration, jusqu'à 1 minute
@@ -7658,7 +7658,7 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 [][SpellHD]
 
 # Sphère glacée
-- NameVO: [Otiluke's Freezing Sphere](spells_vo.md#otilukes-freezing-sphere)
+- AltName: [Otiluke's Freezing Sphere](spells_vo.md#otilukes-freezing-sphere)
 - CastingTime: 1 action
 - Components: V, S, M (une petite sphère de cristal)
 - Duration: instantanée
@@ -7688,7 +7688,7 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 [][SpellHD]
 
 # Sphère résiliente
-- NameVO: [Otiluke's Resilient Sphere](spells_vo.md#otilukes-resilient-sphere)
+- AltName: [Otiluke's Resilient Sphere](spells_vo.md#otilukes-resilient-sphere)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
 - Duration: concentration, jusqu'à 1 minute
@@ -7714,7 +7714,7 @@ Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce
 [][SpellHD]
 
 # Stalagmites fulgurantes
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute.
@@ -7734,7 +7734,7 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 [][SpellHD]
 
 # Strangulation
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -7754,7 +7754,7 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 [][SpellHD]
 
 # Suggestion
-- NameVO: [Suggestion](spells_vo.md#suggestion)
+- AltName: [Suggestion](spells_vo.md#suggestion)
 - CastingTime: 1 action
 - Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 - Duration: concentration, jusqu'à 8 heures
@@ -7782,7 +7782,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 [][SpellHD]
 
 # Suggestion de groupe
-- NameVO: [Mass Suggestion](spells_vo.md#mass-suggestion)
+- AltName: [Mass Suggestion](spells_vo.md#mass-suggestion)
 - CastingTime: 1 action
 - Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
 - Duration: 24 heures
@@ -7808,7 +7808,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 [][SpellHD]
 
 # Symbole
-- NameVO: [Symbol](spells_vo.md#symbol)
+- AltName: [Symbol](spells_vo.md#symbol)
 - CastingTime: 1 minute
 - Components: V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
 - Duration: jusqu'à dissipation ou déclenchement
@@ -7854,7 +7854,7 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 [][SpellHD]
 
 # Télékinésie
-- NameVO: [Telekinesis](spells_vo.md#telekinesis)
+- AltName: [Telekinesis](spells_vo.md#telekinesis)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 10 minutes
@@ -7882,7 +7882,7 @@ Vous exercez un contrôle précis sur les objets pris dans votre étreinte tél�
 [][SpellHD]
 
 # Téléportation
-- NameVO: [Teleport](spells_vo.md#teleport)
+- AltName: [Teleport](spells_vo.md#teleport)
 - CastingTime: 1 action
 - Components: V
 - Duration: instantanée
@@ -7928,7 +7928,7 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 [][SpellHD]
 
 # Tempête de feu
-- NameVO: [Fire Storm](spells_vo.md#fire-storm)
+- AltName: [Fire Storm](spells_vo.md#fire-storm)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -7950,7 +7950,7 @@ Le feu endommage les objets présents dans la zone et embrase les objets inflamm
 [][SpellHD]
 
 # Tempête de grêle
-- NameVO: [Ice Storm](spells_vo.md#ice-storm)
+- AltName: [Ice Storm](spells_vo.md#ice-storm)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 - Duration: instantanée
@@ -7974,7 +7974,7 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 [][SpellHD]
 
 # Tempête de neige
-- NameVO: [Sleet Storm](spells_vo.md#sleet-storm)
+- AltName: [Sleet Storm](spells_vo.md#sleet-storm)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
 - Duration: concentration, jusqu'à 1 minute
@@ -7996,7 +7996,7 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 [][SpellHD]
 
 # Tempête de sable
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S, M (une rose des sables)
 - Duration: concentration, jusqu'à 1 minute
@@ -8018,7 +8018,7 @@ Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dég
 [][SpellHD]
 
 # Tempête vengeresse
-- NameVO: [Storm of Vengeance](spells_vo.md#storm-of-vengeance)
+- AltName: [Storm of Vengeance](spells_vo.md#storm-of-vengeance)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: concentration, jusqu'à 1 minute
@@ -8048,7 +8048,7 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 [][SpellHD]
 
 # Ténèbres
-- NameVO: [Darkness](spells_vo.md#darkness)
+- AltName: [Darkness](spells_vo.md#darkness)
 - CastingTime: 1 action
 - Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
 - Duration: concentration, jusqu'à 10 minutes
@@ -8070,7 +8070,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 [][SpellHD]
 
 # Tentacules noirs
-- NameVO: [Evard's Black Tentacles](spells_vo.md#evards-black-tentacles)
+- AltName: [Evard's Black Tentacles](spells_vo.md#evards-black-tentacles)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
 - Duration: concentration, jusqu'à 1 minute
@@ -8092,7 +8092,7 @@ Une créature [entravée] par les tentacules peut utiliser son action pour effec
 [][SpellHD]
 
 # Terrain hallucinatoire
-- NameVO: [Hallucinatory Terrain](spells_vo.md#hallucinatory-terrain)
+- AltName: [Hallucinatory Terrain](spells_vo.md#hallucinatory-terrain)
 - CastingTime: 10 minutes
 - Components: V, S, M (une pierre, une brindille et un bout de plante verte)
 - Duration: 24 heures
@@ -8116,7 +8116,7 @@ Une fois qu'une créature a compris l'illusion, elle la voit comme une image flo
 [][SpellHD]
 
 # Texte illusoire
-- NameVO: [Illusory Script](spells_vo.md#illusory-script)
+- AltName: [Illusory Script](spells_vo.md#illusory-script)
 - CastingTime: 1 minute
 - Components: S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
 - Duration: 10 jours
@@ -8138,7 +8138,7 @@ Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original au
 [][SpellHD]
 
 # Thaumaturgie
-- NameVO: [Thaumaturgy](spells_vo.md#thaumaturgy)
+- AltName: [Thaumaturgy](spells_vo.md#thaumaturgy)
 - CastingTime: 1 action
 - Components: V
 - Duration: jusqu'à 1 minute
@@ -8172,7 +8172,7 @@ Vous pouvez révoquer un tel effet par une action.
 [][SpellHD]
 
 # Toile d'araignée
-- NameVO: [Web](spells_vo.md#web)
+- AltName: [Web](spells_vo.md#web)
 - CastingTime: 1 action
 - Components: V, S, M (un bout de toile d'araignée)
 - Duration: concentration, jusqu'à 1 heure
@@ -8200,7 +8200,7 @@ Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé 
 [][SpellHD]
 
 # Trait de feu
-- NameVO: [Fire Bolt](spells_vo.md#fire-bolt)
+- AltName: [Fire Bolt](spells_vo.md#fire-bolt)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -8220,7 +8220,7 @@ Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10),
 [][SpellHD]
 
 # Transpercer
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action bonus
 - Components: V
 - Duration: concentration, jusqu'à 1 minute
@@ -8242,7 +8242,7 @@ Retirer l'arme lui inflige 2d6 dégâts, ou la moitié si elle réussit un jet d
 [][SpellHD]
 
 # Transport végétal
-- NameVO: [Transport via Plants](spells_vo.md#transport-via-plants)
+- AltName: [Transport via Plants](spells_vo.md#transport-via-plants)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 round
@@ -8260,7 +8260,7 @@ Ce sort crée un lien magique entre une plante inanimée de taille G ou supérie
 [][SpellHD]
 
 # Tremblement de terre
-- NameVO: [Earthquake](spells_vo.md#earthquake)
+- AltName: [Earthquake](spells_vo.md#earthquake)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
 - Duration: concentration, jusqu'à 1 minute
@@ -8294,7 +8294,7 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 [][SpellHD]
 
 # Tromperie
-- NameVO: [Mislead](spells_vo.md#mislead)
+- AltName: [Mislead](spells_vo.md#mislead)
 - CastingTime: 1 action
 - Components: S
 - Duration: concentration, jusqu'à 1 heure
@@ -8318,7 +8318,7 @@ Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à 
 [][SpellHD]
 
 # Trouver les pièges
-- NameVO: [Find Traps](spells_vo.md#find-traps)
+- AltName: [Find Traps](spells_vo.md#find-traps)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -8338,7 +8338,7 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 [][SpellHD]
 
 # Trouver un chemin
-- NameVO: [Find the Path](spells_vo.md#find-the-path)
+- AltName: [Find the Path](spells_vo.md#find-the-path)
 - CastingTime: 1 minute
 - Components: V, S, M (un ensemble d'instruments de divination [comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées] d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
 - Duration: concentration, jusqu'à 1 jour
@@ -8358,7 +8358,7 @@ Tant que le sort persiste et que vous êtes sur le même plan d'existence que vo
 [][SpellHD]
 
 # Trouver une monture
-- NameVO: [Find Steed](spells_vo.md#find-steed)
+- AltName: [Find Steed](spells_vo.md#find-steed)
 - CastingTime: 10 minutes
 - Components: V, S
 - Duration: instantanée
@@ -8388,7 +8388,7 @@ Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vo
 [][SpellHD]
 
 # Vague tonnante
-- NameVO: [Thunderwave](spells_vo.md#thunderwave)
+- AltName: [Thunderwave](spells_vo.md#thunderwave)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: instantanée
@@ -8414,7 +8414,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 [][SpellHD]
 
 # Verrou magique
-- NameVO: [Arcane Lock](spells_vo.md#arcane-lock)
+- AltName: [Arcane Lock](spells_vo.md#arcane-lock)
 - CastingTime: 1 action
 - Components: V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
 - Duration: jusqu'à dissipation
@@ -8434,7 +8434,7 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 [][SpellHD]
 
 # Viser juste
-- NameVO: [True Strike](spells_vo.md#true-strike)
+- AltName: [True Strike](spells_vo.md#true-strike)
 - CastingTime: 1 action
 - Components: S
 - Duration: concentration, jusqu'à 1 round
@@ -8452,7 +8452,7 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 [][SpellHD]
 
 # Vision dans le noir
-- NameVO: [Darkvision](spells_vo.md#darkvision)
+- AltName: [Darkvision](spells_vo.md#darkvision)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de carotte séchée ou une agate)
 - Duration: 8 heures
@@ -8470,7 +8470,7 @@ Vous touchez une créature consentante pour lui permettre de voir dans le noir. 
 [][SpellHD]
 
 # Vision suprême
-- NameVO: [True Seeing](spells_vo.md#true-seeing)
+- AltName: [True Seeing](spells_vo.md#true-seeing)
 - CastingTime: 1 action
 - Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
 - Duration: 1 heure
@@ -8490,7 +8490,7 @@ Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repèr
 [][SpellHD]
 
 # Vitalité
-- NameVO: 
+- AltName: 
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 1 minute
@@ -8510,7 +8510,7 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 [][SpellHD]
 
 # Voir l'invisible
-- NameVO: [See Invisibility](spells_vo.md#see-invisibility)
+- AltName: [See Invisibility](spells_vo.md#see-invisibility)
 - CastingTime: 1 action
 - Components: V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
 - Duration: 1 heure
@@ -8528,7 +8528,7 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 [][SpellHD]
 
 # Vol
-- NameVO: [Fly](spells_vo.md#fly)
+- AltName: [Fly](spells_vo.md#fly)
 - CastingTime: 1 action
 - Components: V, S, M (une rémige)
 - Duration: concentration, jusqu'à 10 minutes
@@ -8548,7 +8548,7 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 [][SpellHD]
 
 # Zone de vérité
-- NameVO: [Zone of Truth](spells_vo.md#zone-of-truth)
+- AltName: [Zone of Truth](spells_vo.md#zone-of-truth)
 - CastingTime: 1 action
 - Components: V, S
 - Duration: 10 minutes

@@ -36,10 +36,9 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoItemsPageAsync(ItemsViewModel itemsVM)
         {
-            //if (item == null)
-            //    return;
+            if (itemsVM == null)
+                return;
 
-            //var vm = new ItemDetailViewModel(item);
             await Navigation.PushAsync(new ItemsPage(itemsVM));
         }
 

@@ -57,7 +57,7 @@ namespace AideDeJeuLib
             {
                 return
                     $"# {Name}\n" +
-                    $"{NameVO}\n" +
+                    $"{AltName}\n" +
                     $"_{LevelType}_\n" +
                     $"**Temps d'incantation :** {CastingTime}\n" +
                     $"**Portée :** {Range}\n" +

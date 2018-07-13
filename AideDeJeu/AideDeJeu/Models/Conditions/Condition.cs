@@ -17,7 +17,7 @@ namespace AideDeJeuLib
             {
                 return 
                     $"# {Name}\n\n" +
-                    $"{NameVO}\n\n" +
+                    $"{AltName}\n\n" +
                     Text;
             }
         }
@@ -77,7 +77,7 @@ namespace AideDeJeuLib
 
                                         var properties = new List<Tuple<string, Action<Condition, string>>>()
                                         {
-                                            new Tuple<string, Action<Condition, string>>("NameVO: ", (m, s) => m.NameVO = s),
+                                            new Tuple<string, Action<Condition, string>>("AltName: ", (m, s) => m.AltName = s),
                                         };
 
                                         foreach (var property in properties)

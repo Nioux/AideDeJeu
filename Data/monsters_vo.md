@@ -2,13 +2,13 @@
 [][Items]
 
 # Monsters (SRD)
-- NameVO: [Créatures](monsters_hd.md)
+- AltName: [Créatures](monsters_hd.md)
 
 
 [][MonsterVO]
 
 # Aboleth
-- NameVO: [Aboleth]
+- AltName: [Aboleth]
 - Large aberration, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 135 (18d10 + 36)
@@ -62,7 +62,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 [][MonsterVO]
 
 # Acolyte
-- NameVO: [Acolyte]
+- AltName: [Acolyte]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 10
 - **Hit Points** 9 (2d8)
@@ -97,7 +97,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [][MonsterVO]
 
 # Eagle
-- NameVO: [Aigle]
+- AltName: [Aigle]
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -128,7 +128,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [][MonsterVO]
 
 # Giant Eagle
-- NameVO: [Aigle géant]
+- AltName: [Aigle géant]
 - Large beast, neutral good
 - **Armor Class** 13
 - **Hit Points** 26 (4d10 + 4)
@@ -166,7 +166,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [][MonsterVO]
 
 # Androsphinx
-- NameVO: [Androsphinx]
+- AltName: [Androsphinx]
 - Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 199 (19d10 + 95)
@@ -238,7 +238,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ankheg
-- NameVO: [Ankheg]
+- AltName: [Ankheg]
 - Large monstrosity, unaligned
 - **Armor Class** 14 (natural armor), 11 while prone
 - **Hit Points** 39 (6d10 + 6)
@@ -267,7 +267,7 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 [][MonsterVO]
 
 # Spider
-- NameVO: [Araignée]
+- AltName: [Araignée]
 - Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)
@@ -302,7 +302,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 [][MonsterVO]
 
 # Phase Spider
-- NameVO: [Araignée de phase]
+- AltName: [Araignée de phase]
 - Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 32 (5d10 + 5)
@@ -337,7 +337,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 [][MonsterVO]
 
 # Giant Spider
-- NameVO: [Araignée géante]
+- AltName: [Araignée géante]
 - Large beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 26 (4d10 + 4)
@@ -376,7 +376,7 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 [][MonsterVO]
 
 # Giant Wolf Spider
-- NameVO: [Araignée-loup géante]
+- AltName: [Araignée-loup géante]
 - Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 11 (2d8 + 2)
@@ -411,7 +411,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 [][MonsterVO]
 
 # Awakened Tree
-- NameVO: [Arbre éveillé]
+- AltName: [Arbre éveillé]
 - Huge plant, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 59 (7d12 + 14)
@@ -443,7 +443,7 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Awakened Shrub
-- NameVO: [Arbuste éveillé]
+- AltName: [Arbuste éveillé]
 - Small plant, unaligned
 - **Armor Class** 9
 - **Hit Points** 10 (3d6)
@@ -475,7 +475,7 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 [][MonsterVO]
 
 # Archmage
-- NameVO: [Archimage]
+- AltName: [Archimage]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with
 - **Hit Points** 99 (18d8 + 18)
@@ -532,7 +532,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [][MonsterVO]
 
 # Animated Armor
-- NameVO: [Armure animée]
+- AltName: [Armure animée]
 - Medium construct, unaligned
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -568,7 +568,7 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 [][MonsterVO]
 
 # Assassin
-- NameVO: [Assassin]
+- AltName: [Assassin]
 - Medium humanoid (any race), any non-good alignment
 - **Armor Class** 15 (studded leather)
 - **Hit Points** 78 (12d8 + 24)
@@ -611,7 +611,7 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 [][MonsterVO]
 
 # Azer
-- NameVO: [Azer]
+- AltName: [Azer]
 - Medium elemental, lawful neutral
 - **Armor Class** 17 (natural armor, shield)
 - **Hit Points** 39 (6d8 + 12)
@@ -648,7 +648,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 [][MonsterVO]
 
 # Baboon
-- NameVO: [Babouin]
+- AltName: [Babouin]
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -678,7 +678,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [][MonsterVO]
 
 # Gibbering Mouther
-- NameVO: [Babélien]
+- AltName: [Babélien]
 - Medium aberration, neutral
 - **Armor Class** 9
 - **Hit Points** 67 (9d8 + 27)
@@ -717,7 +717,7 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 [][MonsterVO]
 
 # Balor
-- NameVO: [Balor]
+- AltName: [Balor]
 - Huge fiend (demon), chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 262 (21d12 + 126)
@@ -765,7 +765,7 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 [][MonsterVO]
 
 # Bandit
-- NameVO: [Bandit]
+- AltName: [Bandit]
 - Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 12 (leather armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -795,7 +795,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [][MonsterVO]
 
 # Bandit Captain
-- NameVO: [Capitaine Bandit]
+- AltName: [Capitaine Bandit]
 - Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 15 (studded leather)
 - **Hit Points** 65 (10d8 + 20)
@@ -835,7 +835,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 [][MonsterVO]
 
 # Basilisk
-- NameVO: [Basilic]
+- AltName: [Basilic]
 - Medium monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -865,7 +865,7 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 [][MonsterVO]
 
 # Axe Beak
-- NameVO: [Bec de hache]
+- AltName: [Bec de hache]
 - Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)
@@ -891,7 +891,7 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 [][MonsterVO]
 
 # Weasel
-- NameVO: [Belette]
+- AltName: [Belette]
 - Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)
@@ -922,7 +922,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Giant Weasel
-- NameVO: [Belette géante]
+- AltName: [Belette géante]
 - Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 9 (2d8)
@@ -953,7 +953,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 [][MonsterVO]
 
 # Berserker
-- NameVO: [Berserker]
+- AltName: [Berserker]
 - Medium humanoid (any race), any chaotic alignment
 - **Armor Class** 13 (hide armor)
 - **Hit Points** 67 (9d8 + 27)
@@ -983,7 +983,7 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 [][MonsterVO]
 
 # Badger
-- NameVO: [Blaireau]
+- AltName: [Blaireau]
 - Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 3 (1d4 + 1)
@@ -1013,7 +1013,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Giant Badger
-- NameVO: [Blaireau géant]
+- AltName: [Blaireau géant]
 - Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d8 + 4)
@@ -1049,7 +1049,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 [][MonsterVO]
 
 # Ghast
-- NameVO: [Blême]
+- AltName: [Blême]
 - Medium undead, chaotic evil
 - **Armor Class** 13
 - **Hit Points** 36 (8d8)
@@ -1089,7 +1089,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 [][MonsterVO]
 
 # Bulette
-- NameVO: [Bulette]
+- AltName: [Bulette]
 - Large monstrosity, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 94 (9d10 + 45)
@@ -1122,7 +1122,7 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 [][MonsterVO]
 
 # Behir
-- NameVO: [Béhir]
+- AltName: [Béhir]
 - Huge monstrosity, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 168 (16d12 + 64)
@@ -1160,7 +1160,7 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 [][MonsterVO]
 
 # Centaur
-- NameVO: [Centaure]
+- AltName: [Centaure]
 - Large monstrosity, neutral good
 - **Armor Class** 12
 - **Hit Points** 45 (6d10 + 12)
@@ -1201,7 +1201,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [][MonsterVO]
 
 # Jackal
-- NameVO: [Chacal]
+- AltName: [Chacal]
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -1234,7 +1234,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [][MonsterVO]
 
 # Camel
-- NameVO: [Chameau]
+- AltName: [Chameau]
 - Large beast, unaligned
 - **Armor Class** 9
 - **Hit Points** 15 (2d10 + 4)
@@ -1260,7 +1260,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [][MonsterVO]
 
 # Cat
-- NameVO: [Chat]
+- AltName: [Chat]
 - Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 2 (1d4)
@@ -1291,7 +1291,7 @@ _Hit_: 1 slashing damage.
 [][MonsterVO]
 
 # Bat
-- NameVO: [Chauve-souris]
+- AltName: [Chauve-souris]
 - Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)
@@ -1323,7 +1323,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Giant Bat
-- NameVO: [Chauve-souris géante]
+- AltName: [Chauve-souris géante]
 - Large beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 22 (4d10)
@@ -1355,7 +1355,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Warhorse
-- NameVO: [Cheval de guerre]
+- AltName: [Cheval de guerre]
 - Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)
@@ -1385,7 +1385,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Riding Horse
-- NameVO: [Cheval de selle]
+- AltName: [Cheval de selle]
 - Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d10 + 2)
@@ -1411,7 +1411,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [][MonsterVO]
 
 # Draft Horse
-- NameVO: [Cheval de trait]
+- AltName: [Cheval de trait]
 - Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 19 (3d10 + 3)
@@ -1437,7 +1437,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Knight
-- NameVO: [Chevalier]
+- AltName: [Chevalier]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 18 (plate)
 - **Hit Points** 52 (8d8 + 16)
@@ -1480,7 +1480,7 @@ _Hit_: 5 (1d10) piercing damage.
 [][MonsterVO]
 
 # Deer
-- NameVO: [Chevreuil]
+- AltName: [Chevreuil]
 - Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 4 (1d8)
@@ -1506,7 +1506,7 @@ _Hit_: 2 (1d4) piercing damage.
 [][MonsterVO]
 
 # Death Dog
-- NameVO: [Chien du trépas]
+- AltName: [Chien du trépas]
 - Medium monstrosity, neutral evil
 - **Armor Class** 12
 - **Hit Points** 39 (6d8 + 12)
@@ -1539,7 +1539,7 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 [][MonsterVO]
 
 # Blink Dog
-- NameVO: [Chien esquiveur]
+- AltName: [Chien esquiveur]
 - Medium fey, lawful good
 - **Armor Class** 13
 - **Hit Points** 22 (4d8 + 4)
@@ -1572,7 +1572,7 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 [][MonsterVO]
 
 # Chimera
-- NameVO: [Chimère]
+- AltName: [Chimère]
 - Large monstrosity, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -1611,7 +1611,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Owl
-- NameVO: [Chouette]
+- AltName: [Chouette]
 - Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)
@@ -1644,7 +1644,7 @@ _Hit_: 1 slashing damage.
 [][MonsterVO]
 
 # Giant Owl
-- NameVO: [Chouette géante]
+- AltName: [Chouette géante]
 - Large beast, neutral
 - **Armor Class** 12
 - **Hit Points** 19 (3d10 + 3)
@@ -1677,7 +1677,7 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 [][MonsterVO]
 
 # Chuul
-- NameVO: [Chuul]
+- AltName: [Chuul]
 - Large aberration, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 93 (11d10 + 33)
@@ -1716,7 +1716,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 [][MonsterVO]
 
 # Goat
-- NameVO: [Chèvre]
+- AltName: [Chèvre]
 - Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 4 (1d8)
@@ -1748,7 +1748,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 [][MonsterVO]
 
 # Giant Goat
-- NameVO: [Chèvre géante]
+- AltName: [Chèvre géante]
 - Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 19 (3d10 + 3)
@@ -1780,7 +1780,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [][MonsterVO]
 
 # Cockatrice
-- NameVO: [Cockatrice]
+- AltName: [Cockatrice]
 - Small monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 27 (6d6 + 6)
@@ -1806,7 +1806,7 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 [][MonsterVO]
 
 # Raven
-- NameVO: [Corbeau]
+- AltName: [Corbeau]
 - Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)
@@ -1837,7 +1837,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Couatl
-- NameVO: [Couatl]
+- AltName: [Couatl]
 - Medium celestial, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 97 (13d8 + 39)
@@ -1886,7 +1886,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 [][MonsterVO]
 
 # Crab
-- NameVO: [Crabe]
+- AltName: [Crabe]
 - Tiny beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 2 (1d4)
@@ -1917,7 +1917,7 @@ _Hit_: 1 bludgeoning damage.
 [][MonsterVO]
 
 # Giant Crab
-- NameVO: [Crabe géant]
+- AltName: [Crabe géant]
 - Medium beast, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 13 (3d8)
@@ -1948,7 +1948,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 [][MonsterVO]
 
 # Giant Toad
-- NameVO: [Crapaud géant]
+- AltName: [Crapaud géant]
 - Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 39 (6d10 + 6)
@@ -1982,7 +1982,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [][MonsterVO]
 
 # Shrieker
-- NameVO: [Criard]
+- AltName: [Criard]
 - Medium plant, unaligned
 - **Armor Class** 5
 - **Hit Points** 13 (3d8)
@@ -2011,7 +2011,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [][MonsterVO]
 
 # Crocodile
-- NameVO: [Crocodile]
+- AltName: [Crocodile]
 - Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 19 (3d10 + 3)
@@ -2042,7 +2042,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 [][MonsterVO]
 
 # Giant Crocodile
-- NameVO: [Crocodile géant]
+- AltName: [Crocodile géant]
 - Huge beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 85 (9d12 + 27)
@@ -2080,7 +2080,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 [][MonsterVO]
 
 # Gelatinous Cube
-- NameVO: [Cube gélatineux]
+- AltName: [Cube gélatineux]
 - Large ooze, unaligned
 - **Armor Class** 6
 - **Hit Points** 84 (8d10 + 40)
@@ -2116,7 +2116,7 @@ _Hit_: 10 (3d6) acid damage.
 [][MonsterVO]
 
 # Nightmare
-- NameVO: [Destrier noir]
+- AltName: [Destrier noir]
 - Large fiend, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 68 (8d10 + 24)
@@ -2151,7 +2151,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 [][MonsterVO]
 
 # Barbed Devil
-- NameVO: [Diable barbelé]
+- AltName: [Diable barbelé]
 - Medium fiend (devil), lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 110 (13d8 + 52)
@@ -2200,7 +2200,7 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 [][MonsterVO]
 
 # Bearded Devil
-- NameVO: [Diable barbu]
+- AltName: [Diable barbu]
 - Medium fiend (devil), lawful evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -2244,7 +2244,7 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 [][MonsterVO]
 
 # Horned Devil
-- NameVO: [Diable cornu]
+- AltName: [Diable cornu]
 - Large fiend (devil), lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -2290,7 +2290,7 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 [][MonsterVO]
 
 # Chain Devil
-- NameVO: [Diable des chaînes]
+- AltName: [Diable des chaînes]
 - Medium fiend (devil), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 85 (10d8 + 40)
@@ -2334,7 +2334,7 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 [][MonsterVO]
 
 # Ice Devil
-- NameVO: [Diable gelé]
+- AltName: [Diable gelé]
 - Large fiend (devil), lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 180 (19d10 + 76)
@@ -2382,7 +2382,7 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 [][MonsterVO]
 
 # Bone Devil
-- NameVO: [Diable osseux]
+- AltName: [Diable osseux]
 - Large fiend (devil), lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -2425,7 +2425,7 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 [][MonsterVO]
 
 # Imp
-- NameVO: [Diablotin]
+- AltName: [Diablotin]
 - Tiny fiend (devil, shapechanger), lawful evil
 - **Armor Class** 13
 - **Hit Points** 10 (3d4 + 3)
@@ -2465,7 +2465,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 [][MonsterVO]
 
 # Pit Fiend
-- NameVO: [Diantrefosse]
+- AltName: [Diantrefosse]
 - Large fiend (devil), lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 300 (24d10 + 168)
@@ -2523,7 +2523,7 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 [][MonsterVO]
 
 # Djinni
-- NameVO: [Djinn]
+- AltName: [Djinn]
 - Large elemental, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 161 (14d10 + 84)
@@ -2567,7 +2567,7 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 [][MonsterVO]
 
 # Doppelganger
-- NameVO: [Doppleganger]
+- AltName: [Doppleganger]
 - Medium monstrosity (shapechanger), neutral
 - **Armor Class** 14
 - **Hit Points** 52 (8d8 + 16)
@@ -2607,7 +2607,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Adult White Dragon
-- NameVO: [Dragon blanc adulte]
+- AltName: [Dragon blanc adulte]
 - Huge dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 200 (16d12 + 96)
@@ -2666,7 +2666,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient White Dragon
-- NameVO: [Dragon blanc vénérable]
+- AltName: [Dragon blanc vénérable]
 - Gargantuan dragon, chaotic evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 333 (18d20 + 144)
@@ -2725,7 +2725,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young White Dragon
-- NameVO: [Jeune dragon blanc]
+- AltName: [Jeune dragon blanc]
 - Large dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 133 (14d10 + 56)
@@ -2766,7 +2766,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # White Dragon Wyrmling
-- NameVO: [Dragonnet blanc]
+- AltName: [Dragonnet blanc]
 - Medium dragon, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -2797,7 +2797,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 [][MonsterVO]
 
 # Adult Blue Dragon
-- NameVO: [Dragon bleu adulte]
+- AltName: [Dragon bleu adulte]
 - Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 225 (18d12 + 108)
@@ -2854,7 +2854,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Blue Dragon
-- NameVO: [Dragon bleu vénérable]
+- AltName: [Dragon bleu vénérable]
 - Gargantuan dragon, lawful evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 481 (26d20 + 208)
@@ -2911,7 +2911,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Blue Dragon
-- NameVO: [Jeune dragon bleu]
+- AltName: [Jeune dragon bleu]
 - Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 152 (16d10 + 64)
@@ -2948,7 +2948,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [][MonsterVO]
 
 # Blue Dragon Wyrmling
-- NameVO: [Dragonnet bleu]
+- AltName: [Dragonnet bleu]
 - Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -2979,7 +2979,7 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 [][MonsterVO]
 
 # Adult Brass Dragon
-- NameVO: [Dragon d'airain adulte]
+- AltName: [Dragon d'airain adulte]
 - Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 172 (15d12 + 75)
@@ -3040,7 +3040,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Brass Dragon
-- NameVO: [Dragon d'airain vénérable]
+- AltName: [Dragon d'airain vénérable]
 - Gargantuan dragon, chaotic good
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 297 (17d20 + 119)
@@ -3103,7 +3103,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Brass Dragon
-- NameVO: [Jeune dragon d'airain]
+- AltName: [Jeune dragon d'airain]
 - Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 110 (13d10 + 39)
@@ -3144,7 +3144,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Brass Dragon Wyrmling
-- NameVO: [Dragonnet d'airain]
+- AltName: [Dragonnet d'airain]
 - Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 16 (3d8 + 3)
@@ -3179,7 +3179,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 [][MonsterVO]
 
 # Adult Silver Dragon
-- NameVO: [Dragon d'argent adulte]
+- AltName: [Dragon d'argent adulte]
 - Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 243 (18d12 + 126)
@@ -3242,7 +3242,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Silver Dragon
-- NameVO: [Dragon d'argent vénérable]
+- AltName: [Dragon d'argent vénérable]
 - Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 487 (25d20 + 225)
@@ -3305,7 +3305,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Silver Dragon
-- NameVO: [Jeune dragon d'argent]
+- AltName: [Jeune dragon d'argent]
 - Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 168 (16d10 + 80)
@@ -3346,7 +3346,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [][MonsterVO]
 
 # Silver Dragon Wyrmling
-- NameVO: [Dragonnet d'argent]
+- AltName: [Dragonnet d'argent]
 - Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 45 (6d8 + 18)
@@ -3381,7 +3381,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 [][MonsterVO]
 
 # Adult Gold Dragon
-- NameVO: [Dragon d'or adulte]
+- AltName: [Dragon d'or adulte]
 - Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)
@@ -3446,7 +3446,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Gold Dragon
-- NameVO: [Dragon d'or vénérable]
+- AltName: [Dragon d'or vénérable]
 - Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)
@@ -3511,7 +3511,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Gold Dragon
-- NameVO: [Jeune dragon d'or]
+- AltName: [Jeune dragon d'or]
 - Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -3556,7 +3556,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [][MonsterVO]
 
 # Gold Dragon Wyrmling
-- NameVO: [Dragonnet d'or]
+- AltName: [Dragonnet d'or]
 - Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 60 (8d8 + 24)
@@ -3595,7 +3595,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 [][MonsterVO]
 
 # Adult Bronze Dragon
-- NameVO: [Dragon de bronze adulte]
+- AltName: [Dragon de bronze adulte]
 - Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 212 (17d12 + 102)
@@ -3660,7 +3660,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Bronze Dragon
-- NameVO: [Dragon de bronze vénérable]
+- AltName: [Dragon de bronze vénérable]
 - Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 444 (24d20 + 192)
@@ -3725,7 +3725,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Bronze Dragon
-- NameVO: [Jeune dragon de bronze]
+- AltName: [Jeune dragon de bronze]
 - Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -3770,7 +3770,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [][MonsterVO]
 
 # Bronze Dragon Wyrmling
-- NameVO: [Dragonnet de bronze]
+- AltName: [Dragonnet de bronze]
 - Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -3809,7 +3809,7 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 [][MonsterVO]
 
 # Adult Copper Dragon
-- NameVO: [Dragon de cuivre adulte]
+- AltName: [Dragon de cuivre adulte]
 - Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d12 + 80)
@@ -3870,7 +3870,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Copper Dragon
-- NameVO: [Dragon de cuivre vénérable]
+- AltName: [Dragon de cuivre vénérable]
 - Gargantuan dragon, chaotic good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 350 (20d20 + 140)
@@ -3933,7 +3933,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Copper Dragon
-- NameVO: [Jeune dragon de cuivre]
+- AltName: [Jeune dragon de cuivre]
 - Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 119 (14d10 + 42)
@@ -3974,7 +3974,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Copper Dragon Wyrmling
-- NameVO: [Dragonnet de cuivre]
+- AltName: [Dragonnet de cuivre]
 - Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -4009,7 +4009,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 [][MonsterVO]
 
 # Adult Black Dragon
-- NameVO: [Dragon noir adulte]
+- AltName: [Dragon noir adulte]
 - Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 195 (17d12 + 85)
@@ -4068,7 +4068,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Black Dragon
-- NameVO: [Dragon noir vénérable]
+- AltName: [Dragon noir vénérable]
 - Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 367 (21d20 + 147)
@@ -4127,7 +4127,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Black Dragon
-- NameVO: [Jeune dragon noir]
+- AltName: [Jeune dragon noir]
 - Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)
@@ -4168,7 +4168,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Black Dragon Wyrmling
-- NameVO: [Dragonnet noir]
+- AltName: [Dragonnet noir]
 - Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -4203,7 +4203,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 [][MonsterVO]
 
 # Adult Red Dragon
-- NameVO: [Dragon rouge adulte]
+- AltName: [Dragon rouge adulte]
 - Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)
@@ -4260,7 +4260,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Red Dragon
-- NameVO: [Dragon rouge vénérable]
+- AltName: [Dragon rouge vénérable]
 - Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)
@@ -4317,7 +4317,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Red Dragon
-- NameVO: [Jeune dragon rouge]
+- AltName: [Jeune dragon rouge]
 - Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -4354,7 +4354,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [][MonsterVO]
 
 # Red Dragon Wyrmling
-- NameVO: [Dragonnet rouge]
+- AltName: [Dragonnet rouge]
 - Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 75 (10d8 + 30)
@@ -4385,7 +4385,7 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 [][MonsterVO]
 
 # Adult Green Dragon
-- NameVO: [Dragon vert adulte]
+- AltName: [Dragon vert adulte]
 - Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 207 (18d12 + 90)
@@ -4445,7 +4445,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Ancient Green Dragon
-- NameVO: [Dragon vert vénérable]
+- AltName: [Dragon vert vénérable]
 - Gargantuan dragon, lawful evil
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 385 (22d20 + 154)
@@ -4505,7 +4505,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Young Green Dragon
-- NameVO: [Jeune dragon vert]
+- AltName: [Jeune dragon vert]
 - Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -4547,7 +4547,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Green Dragon Wyrmling
-- NameVO: [Dragonnet vert]
+- AltName: [Dragonnet vert]
 - Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 38 (7d8 + 7)
@@ -4583,7 +4583,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 [][MonsterVO]
 
 # Dragon Turtle
-- NameVO: [Dragon-tortue]
+- AltName: [Dragon-tortue]
 - Gargantuan dragon, neutral
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 341 (22d20 + 110)
@@ -4627,7 +4627,7 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 [][MonsterVO]
 
 # Dretch
-- NameVO: [Dretch]
+- AltName: [Dretch]
 - Small fiend (demon), chaotic evil
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 18 (4d6 + 4)
@@ -4664,7 +4664,7 @@ _Hit_: 5 (2d4) slashing damage.
 [][MonsterVO]
 
 # Drider
-- NameVO: [Drider]
+- AltName: [Drider]
 - Large monstrosity, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 123 (13d10 + 52)
@@ -4717,7 +4717,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 [][MonsterVO]
 
 # Drow
-- NameVO: [Drow]
+- AltName: [Drow]
 - Medium humanoid (elf), neutral evil
 - **Armor Class** 15 (chain shirt)
 - **Hit Points** 13 (3d8)
@@ -4760,7 +4760,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 [][MonsterVO]
 
 # Druid
-- NameVO: [Druide]
+- AltName: [Druide]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 11 (16 with
 - **Hit Points** 27 (5d8 + 5)
@@ -4797,7 +4797,7 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 [][MonsterVO]
 
 # Dryad
-- NameVO: [Dryade]
+- AltName: [Dryade]
 - Medium fey, neutral
 - **Armor Class** 11 (16 with
 - **Hit Points** 22 (5d8)
@@ -4842,7 +4842,7 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 [][MonsterVO]
 
 # Duergar
-- NameVO: [Duergar]
+- AltName: [Duergar]
 - Medium humanoid (dwarf), lawful evil
 - **Armor Class** 16 (scale mail, shield)
 - **Hit Points** 26 (4d8 + 8)
@@ -4883,7 +4883,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 [][MonsterVO]
 
 # Deva
-- NameVO: [Déva]
+- AltName: [Déva]
 - Medium celestial, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 136 (16d8 + 64)
@@ -4931,7 +4931,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 [][MonsterVO]
 
 # Priest
-- NameVO: [Ecclésiastique]
+- AltName: [Ecclésiastique]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 13 (chain shirt)
 - **Hit Points** 27 (5d8 + 5)
@@ -4972,7 +4972,7 @@ _Hit_: 3 (1d6) bludgeoning damage.
 [][MonsterVO]
 
 # Roper
-- NameVO: [Enlaceur]
+- AltName: [Enlaceur]
 - Large monstrosity, neutral evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 93 (11d10 + 33)
@@ -5015,7 +5015,7 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 [][MonsterVO]
 
 # Spy
-- NameVO: [Espion]
+- AltName: [Espion]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 12
 - **Hit Points** 27 (6d8)
@@ -5054,7 +5054,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Sprite
-- NameVO: [Esprit follet]
+- AltName: [Esprit follet]
 - Tiny fey, neutral good
 - **Armor Class** 15 (leather armor)
 - **Hit Points** 2 (1d4)
@@ -5089,7 +5089,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 [][MonsterVO]
 
 # Ettercap
-- NameVO: [Ettercap]
+- AltName: [Ettercap]
 - Medium monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 44 (8d8 + 8)
@@ -5134,7 +5134,7 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 [][MonsterVO]
 
 # Ettin
-- NameVO: [Ettin]
+- AltName: [Ettin]
 - Large giant, chaotic evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 85 (10d10 + 30)
@@ -5173,7 +5173,7 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 [][MonsterVO]
 
 # Cult Fanatic
-- NameVO: [Fanatique de secte]
+- AltName: [Fanatique de secte]
 - Medium humanoid (any race), any non-good alignment
 - **Armor Class** 13 (leather armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -5214,7 +5214,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [][MonsterVO]
 
 # Ghost
-- NameVO: [Fantôme]
+- AltName: [Fantôme]
 - Medium undead, any alignment
 - **Armor Class** 11
 - **Hit Points** 45 (10d8)
@@ -5255,7 +5255,7 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 [][MonsterVO]
 
 # Hawk
-- NameVO: [Faucon]
+- AltName: [Faucon]
 - Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)
@@ -5286,7 +5286,7 @@ _Hit_: 1 slashing damage.
 [][MonsterVO]
 
 # Blood Hawk
-- NameVO: [Faucon de sang]
+- AltName: [Faucon de sang]
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 7 (2d6)
@@ -5319,7 +5319,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [][MonsterVO]
 
 # Will-o'-Wisp
-- NameVO: [Feu follet]
+- AltName: [Feu follet]
 - Tiny undead, chaotic evil
 - **Armor Class** 19
 - **Hit Points** 22 (9d4)
@@ -5360,7 +5360,7 @@ _Hit_: 9 (2d8) lightning damage.
 [][MonsterVO]
 
 # Guard
-- NameVO: [Garde]
+- AltName: [Garde]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 16 (chain shirt, shield)
 - **Hit Points** 11 (2d8 + 2)
@@ -5387,7 +5387,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [][MonsterVO]
 
 # Shield Guardian
-- NameVO: [Garde animé]
+- AltName: [Garde animé]
 - Large construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -5429,7 +5429,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Gargoyle
-- NameVO: [Gargouille]
+- AltName: [Gargouille]
 - Medium elemental, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (7d8 + 21)
@@ -5468,7 +5468,7 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 [][MonsterVO]
 
 # Ochre Jelly
-- NameVO: [Gelée ocre]
+- AltName: [Gelée ocre]
 - Large ooze, unaligned
 - **Armor Class** 8
 - **Hit Points** 45 (6d10 + 12)
@@ -5507,7 +5507,7 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 [][MonsterVO]
 
 # Glabrezu
-- NameVO: [Glabrezu]
+- AltName: [Glabrezu]
 - Large fiend (demon), chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 157 (15d10 + 75)
@@ -5553,7 +5553,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [][MonsterVO]
 
 # Gladiator
-- NameVO: [Gladiateur]
+- AltName: [Gladiateur]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 16 (studded leather, shield)
 - **Hit Points** 112 (15d8 + 45)
@@ -5597,7 +5597,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 [][MonsterVO]
 
 # Gnoll
-- NameVO: [Gnoll]
+- AltName: [Gnoll]
 - Medium humanoid (gnoll), chaotic evil
 - **Armor Class** 15 (hide armor, shield)
 - **Hit Points** 22 (5d8)
@@ -5635,7 +5635,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [][MonsterVO]
 
 # Deep Gnome (Svirfneblin)
-- NameVO: [Gnome des profondeurs (svirfneblin)]
+- AltName: [Gnome des profondeurs (svirfneblin)]
 - Small humanoid (gnome), neutral good
 - **Armor Class** 15 (chain shirt)
 - **Hit Points** 16 (3d6 + 6)
@@ -5678,7 +5678,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 [][MonsterVO]
 
 # Goblin
-- NameVO: [Gobelin]
+- AltName: [Gobelin]
 - Small humanoid (goblinoid), neutral evil
 - **Armor Class** 15 (leather armor, shield)
 - **Hit Points** 7 (2d6)
@@ -5713,7 +5713,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Bugbear
-- NameVO: [Gobelours]
+- AltName: [Gobelours]
 - Medium humanoid (goblinoid), chaotic evil
 - **Armor Class** 16 (hide armor, shield)
 - **Hit Points** 27 (5d8 + 5)
@@ -5750,7 +5750,7 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 [][MonsterVO]
 
 # Clay Golem
-- NameVO: [Golem d'argile]
+- AltName: [Golem d'argile]
 - Large construct, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 133 (14d10 + 56)
@@ -5794,7 +5794,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 [][MonsterVO]
 
 # Flesh Golem
-- NameVO: [Golem de chair]
+- AltName: [Golem de chair]
 - Medium construct, neutral
 - **Armor Class** 9
 - **Hit Points** 93 (11d8 + 44)
@@ -5838,7 +5838,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Iron Golem
-- NameVO: [Golem de fer]
+- AltName: [Golem de fer]
 - Large construct, unaligned
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 210 (20d10 + 100)
@@ -5884,7 +5884,7 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 [][MonsterVO]
 
 # Stone Golem
-- NameVO: [Golem de pierre]
+- AltName: [Golem de pierre]
 - Large construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -5924,7 +5924,7 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 [][MonsterVO]
 
 # Gorgon
-- NameVO: [Gorgone]
+- AltName: [Gorgone]
 - Large monstrosity, unaligned
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -5962,7 +5962,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 [][MonsterVO]
 
 # Ghoul
-- NameVO: [Goule]
+- AltName: [Goule]
 - Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -5994,7 +5994,7 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 [][MonsterVO]
 
 # Ape
-- NameVO: [Grand singe]
+- AltName: [Grand singe]
 - Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 19 (3d8 + 6)
@@ -6027,7 +6027,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [][MonsterVO]
 
 # Frog
-- NameVO: [Grenouille]
+- AltName: [Grenouille]
 - Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)
@@ -6054,7 +6054,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [][MonsterVO]
 
 # Giant Frog
-- NameVO: [Grenouille géante]
+- AltName: [Grenouille géante]
 - Medium beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 18 (4d8)
@@ -6089,7 +6089,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 [][MonsterVO]
 
 # Grick
-- NameVO: [Grick]
+- AltName: [Grick]
 - Medium monstrosity, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 27 (6d8)
@@ -6126,7 +6126,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Griffon
-- NameVO: [Griffon]
+- AltName: [Griffon]
 - Large monstrosity, unaligned
 - **Armor Class** 12
 - **Hit Points** 59 (7d10 + 21)
@@ -6163,7 +6163,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Sea Hag
-- NameVO: [Guenaude aquatique]
+- AltName: [Guenaude aquatique]
 - Medium fey, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 52 (7d8 + 21)
@@ -6199,7 +6199,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [][MonsterVO]
 
 # Night Hag
-- NameVO: [Guenaude nocturne]
+- AltName: [Guenaude nocturne]
 - Medium fiend, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 112 (15d8 + 45)
@@ -6244,7 +6244,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [][MonsterVO]
 
 # Green Hag
-- NameVO: [Guenaude verte]
+- AltName: [Guenaude verte]
 - Medium fey, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 82 (11d8 + 33)
@@ -6285,7 +6285,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [][MonsterVO]
 
 # Tribal Warrior
-- NameVO: [Guerrier tribal]
+- AltName: [Guerrier tribal]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 12 (hide armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -6315,7 +6315,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [][MonsterVO]
 
 # Giant Wasp
-- NameVO: [Guêpe géante]
+- AltName: [Guêpe géante]
 - Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (3d8)
@@ -6341,7 +6341,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 [][MonsterVO]
 
 # Gynosphinx
-- NameVO: [Gynosphinx]
+- AltName: [Gynosphinx]
 - Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -6403,7 +6403,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Hill Giant
-- NameVO: [Géant des collines]
+- AltName: [Géant des collines]
 - Huge giant, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 105 (10d12 + 40)
@@ -6436,7 +6436,7 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 [][MonsterVO]
 
 # Cloud Giant
-- NameVO: [Géant des nuages]
+- AltName: [Géant des nuages]
 - Huge giant, neutral good (50 %) or neutral evil (50 %)
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 200 (16d12 + 96)
@@ -6482,7 +6482,7 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 [][MonsterVO]
 
 # Stone Giant
-- NameVO: [Géant des pierres]
+- AltName: [Géant des pierres]
 - Huge giant, neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 126 (11d12 + 55)
@@ -6522,7 +6522,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 [][MonsterVO]
 
 # Storm Giant
-- NameVO: [Géant des tempêtes]
+- AltName: [Géant des tempêtes]
 - Huge giant, chaotic good
 - **Armor Class** 16 (scale mail)
 - **Hit Points** 230 (20d12 + 100)
@@ -6570,7 +6570,7 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 [][MonsterVO]
 
 # Fire Giant
-- NameVO: [Géant du feu]
+- AltName: [Géant du feu]
 - Huge giant, lawful evil
 - **Armor Class** 18 (plate)
 - **Hit Points** 162 (13d12 + 78)
@@ -6605,7 +6605,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 [][MonsterVO]
 
 # Frost Giant
-- NameVO: [Géant du givre]
+- AltName: [Géant du givre]
 - Huge giant, neutral evil
 - **Armor Class** 15 (patchwork armor)
 - **Hit Points** 138 (12d12 + 60)
@@ -6640,7 +6640,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [][MonsterVO]
 
 # Harpy
-- NameVO: [Harpie]
+- AltName: [Harpie]
 - Medium monstrosity, chaotic evil
 - **Armor Class** 11
 - **Hit Points** 38 (7d8 + 7)
@@ -6674,7 +6674,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 [][MonsterVO]
 
 # Hezrou
-- NameVO: [Hezrou]
+- AltName: [Hezrou]
 - Large fiend (demon), chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 136 (13d10 + 65)
@@ -6716,7 +6716,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Owlbear
-- NameVO: [Hibours]
+- AltName: [Hibours]
 - Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 59 (7d10 + 21)
@@ -6753,7 +6753,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [][MonsterVO]
 
 # Sea Horse
-- NameVO: [Hippocampe]
+- AltName: [Hippocampe]
 - Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)
@@ -6777,7 +6777,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [][MonsterVO]
 
 # Giant Sea Horse
-- NameVO: [Hippocampe géant]
+- AltName: [Hippocampe géant]
 - Large beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 16 (3d10)
@@ -6809,7 +6809,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [][MonsterVO]
 
 # Hippogriff
-- NameVO: [Hippogriffe]
+- AltName: [Hippogriffe]
 - Large monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)
@@ -6846,7 +6846,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [][MonsterVO]
 
 # Hobgoblin
-- NameVO: [Hobgobelin]
+- AltName: [Hobgobelin]
 - Medium humanoid (goblinoid), lawful evil
 - **Armor Class** 18 (chain mail, shield)
 - **Hit Points** 11 (2d8 + 2)
@@ -6880,7 +6880,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [][MonsterVO]
 
 # Lizardfolk
-- NameVO: [Homme-lézard]
+- AltName: [Homme-lézard]
 - Medium humanoid (lizardfolk), neutral
 - **Armor Class** 15 (natural armor, shield)
 - **Hit Points** 22 (4d8 + 4)
@@ -6925,7 +6925,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Merfolk
-- NameVO: [Homme-poisson]
+- AltName: [Homme-poisson]
 - Medium humanoid (merfolk), neutral
 - **Armor Class** 11
 - **Hit Points** 11 (2d8 + 2)
@@ -6956,7 +6956,7 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 [][MonsterVO]
 
 # Homunculus
-- NameVO: [Homoncule]
+- AltName: [Homoncule]
 - Tiny construct, neutral
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 5 (2d4)
@@ -6988,7 +6988,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 [][MonsterVO]
 
 # Hydra
-- NameVO: [Hydre]
+- AltName: [Hydre]
 - Huge monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 172 (15d12 + 75)
@@ -7027,7 +7027,7 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 [][MonsterVO]
 
 # Hyena
-- NameVO: [Hyène]
+- AltName: [Hyène]
 - Medium beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 5 (1d8 + 1)
@@ -7058,7 +7058,7 @@ _Hit_: 3 (1d6) piercing damage.
 [][MonsterVO]
 
 # Giant Hyena
-- NameVO: [Hyène géante]
+- AltName: [Hyène géante]
 - Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 45 (6d10 + 12)
@@ -7089,7 +7089,7 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 [][MonsterVO]
 
 # Kobold
-- NameVO: [Kobold]
+- AltName: [Kobold]
 - Small humanoid (kobold), lawful evil
 - **Armor Class** 12
 - **Hit Points** 5 (2d6 - 2)
@@ -7125,7 +7125,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 [][MonsterVO]
 
 # Kraken
-- NameVO: [Kraken]
+- AltName: [Kraken]
 - Gargantuan monstrosity (titan), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 472 (27d20 + 189)
@@ -7182,7 +7182,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 [][MonsterVO]
 
 # Lamia
-- NameVO: [Lamie]
+- AltName: [Lamie]
 - Large monstrosity, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 97 (13d10 + 26)
@@ -7229,7 +7229,7 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 [][MonsterVO]
 
 # Lich
-- NameVO: [Liche]
+- AltName: [Liche]
 - Medium undead, any evil alignment
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 135 (18d8 + 54)
@@ -7302,7 +7302,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 [][MonsterVO]
 
 # Unicorn
-- NameVO: [Licorne]
+- AltName: [Licorne]
 - Large celestial, lawful good
 - **Armor Class** 12
 - **Hit Points** 67 (9d10 + 18)
@@ -7364,7 +7364,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 [][MonsterVO]
 
 # Lion
-- NameVO: [Lion]
+- AltName: [Lion]
 - Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 26 (4d10 + 4)
@@ -7405,7 +7405,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [][MonsterVO]
 
 # Wolf
-- NameVO: [Loup]
+- AltName: [Loup]
 - Medium beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -7438,7 +7438,7 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 [][MonsterVO]
 
 # Winter Wolf
-- NameVO: [Loup arctique]
+- AltName: [Loup arctique]
 - Large monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 75 (10d10 + 20)
@@ -7476,7 +7476,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 [][MonsterVO]
 
 # Dire Wolf
-- NameVO: [Loup sanguinaire]
+- AltName: [Loup sanguinaire]
 - Large beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 37 (5d10 + 10)
@@ -7509,7 +7509,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 [][MonsterVO]
 
 # Werewolf
-- NameVO: [Loup-garou]
+- AltName: [Loup-garou]
 - Medium humanoid (human, shapechanger), chaotic evil
 - **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 - **Hit Points** 58 (9d8 + 18)
@@ -7553,7 +7553,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 [][MonsterVO]
 
 # Lemure
-- NameVO: [Lémure]
+- AltName: [Lémure]
 - Medium fiend (devil), lawful evil
 - **Armor Class** 7
 - **Hit Points** 13 (3d8)
@@ -7588,7 +7588,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [][MonsterVO]
 
 # Lizard
-- NameVO: [Lézard]
+- AltName: [Lézard]
 - Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 2 (1d4)
@@ -7614,7 +7614,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Giant Lizard
-- NameVO: [Lézard géant]
+- AltName: [Lézard géant]
 - Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 19 (3d10 + 3)
@@ -7640,7 +7640,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [][MonsterVO]
 
 # Mage
-- NameVO: [Mage]
+- AltName: [Mage]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with
 - **Hit Points** 40 (9d8)
@@ -7684,7 +7684,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [][MonsterVO]
 
 # Magmin
-- NameVO: [Magmatique]
+- AltName: [Magmatique]
 - Small elemental, chaotic neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 9 (2d6 + 2)
@@ -7718,7 +7718,7 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 [][MonsterVO]
 
 # Thug
-- NameVO: [Malfrat]
+- AltName: [Malfrat]
 - Medium humanoid (any race), any non-good alignment
 - **Armor Class** 11 (leather armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -7755,7 +7755,7 @@ _Hit_: 5 (1d10) piercing damage.
 [][MonsterVO]
 
 # Mammoth
-- NameVO: [Mammouth]
+- AltName: [Mammouth]
 - Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 126 (11d12 + 55)
@@ -7789,7 +7789,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 [][MonsterVO]
 
 # Darkmantle
-- NameVO: [Mante obscure]
+- AltName: [Mante obscure]
 - Small monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 22 (5d6 + 5)
@@ -7824,7 +7824,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 [][MonsterVO]
 
 # Cloaker
-- NameVO: [Manteleur]
+- AltName: [Manteleur]
 - Large aberration, chaotic neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 78 (12d10 + 12)
@@ -7869,7 +7869,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [][MonsterVO]
 
 # Manticore
-- NameVO: [Manticore]
+- AltName: [Manticore]
 - Large monstrosity, lawful evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 68 (8d10 + 24)
@@ -7909,7 +7909,7 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 [][MonsterVO]
 
 # Marilith
-- NameVO: [Marilith]
+- AltName: [Marilith]
 - Large fiend (demon), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 189 (18d10 + 90)
@@ -7959,7 +7959,7 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 [][MonsterVO]
 
 # Cultist
-- NameVO: [Membre de secte]
+- AltName: [Membre de secte]
 - Medium humanoid (any race), any non-good alignment
 - **Armor Class** 12 (leather armor)
 - **Hit Points** 9 (2d8)
@@ -7989,7 +7989,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 [][MonsterVO]
 
 # Merrow
-- NameVO: [Merrow]
+- AltName: [Merrow]
 - Large monstrosity, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 45 (6d10 + 12)
@@ -8029,7 +8029,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 [][MonsterVO]
 
 # Giant Centipede
-- NameVO: [Mille-pattes géant]
+- AltName: [Mille-pattes géant]
 - Small beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 4 (1d6 + 1)
@@ -8055,7 +8055,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 [][MonsterVO]
 
 # Mimic
-- NameVO: [Mimique]
+- AltName: [Mimique]
 - Medium monstrosity (shapechanger), neutral
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 58 (9d8 + 18)
@@ -8098,7 +8098,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 [][MonsterVO]
 
 # Minotaur
-- NameVO: [Minotaure]
+- AltName: [Minotaure]
 - Large monstrosity, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 76 (9d10 + 27)
@@ -8137,7 +8137,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [][MonsterVO]
 
 # Violet Fungus
-- NameVO: [Moisissure violette]
+- AltName: [Moisissure violette]
 - Medium plant, unaligned
 - **Armor Class** 5
 - **Hit Points** 18 (4d8)
@@ -8170,7 +8170,7 @@ _Hit_: 4 (1d8) necrotic damage.
 [][MonsterVO]
 
 # Mastiff
-- NameVO: [Mastiff]
+- AltName: [Mastiff]
 - Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 5 (1d8 + 1)
@@ -8201,7 +8201,7 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 [][MonsterVO]
 
 # Hell Hound
-- NameVO: [Molosse infernal]
+- AltName: [Molosse infernal]
 - Medium fiend, lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 45 (7d8 + 14)
@@ -8239,7 +8239,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 [][MonsterVO]
 
 # Mummy
-- NameVO: [Momie]
+- AltName: [Momie]
 - Medium undead, lawful evil
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 58 (9d8 + 18)
@@ -8274,7 +8274,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 [][MonsterVO]
 
 # Mummy Lord
-- NameVO: [Momie auguste]
+- AltName: [Momie auguste]
 - Medium undead, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 97 (13d8 + 39)
@@ -8345,7 +8345,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 [][MonsterVO]
 
 # Mule
-- NameVO: [Mule]
+- AltName: [Mule]
 - Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 11 (2d8 + 2)
@@ -8377,7 +8377,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 [][MonsterVO]
 
 # Medusa
-- NameVO: [Méduse]
+- AltName: [Méduse]
 - Medium monstrosity, lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 127 (17d8 + 51)
@@ -8419,7 +8419,7 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 [][MonsterVO]
 
 # Ice Mephit
-- NameVO: [Méphite de glace]
+- AltName: [Méphite de glace]
 - Small elemental, neutral evil
 - **Armor Class** 11
 - **Hit Points** 21 (6d6)
@@ -8459,7 +8459,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 [][MonsterVO]
 
 # Magma Mephit
-- NameVO: [Méphite de magma]
+- AltName: [Méphite de magma]
 - Small elemental, neutral evil
 - **Armor Class** 11
 - **Hit Points** 22 (5d6 + 5)
@@ -8499,7 +8499,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 [][MonsterVO]
 
 # Dust Mephit
-- NameVO: [Méphite de poussière]
+- AltName: [Méphite de poussière]
 - Small elemental, neutral evil
 - **Armor Class** 12
 - **Hit Points** 17 (5d6)
@@ -8537,7 +8537,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [][MonsterVO]
 
 # Steam Mephit
-- NameVO: [Méphite de vapeur]
+- AltName: [Méphite de vapeur]
 - Small elemental, neutral evil
 - **Armor Class** 10
 - **Hit Points** 21 (6d6)
@@ -8573,7 +8573,7 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 [][MonsterVO]
 
 # Spirit Naga
-- NameVO: [Naga corrupteur]
+- AltName: [Naga corrupteur]
 - Large monstrosity, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 75 (10d10 + 20)
@@ -8620,7 +8620,7 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 [][MonsterVO]
 
 # Guardian Naga
-- NameVO: [Naga gardien]
+- AltName: [Naga gardien]
 - Large monstrosity, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)
@@ -8673,7 +8673,7 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 [][MonsterVO]
 
 # Nalfeshnee
-- NameVO: [Nalfeshnie]
+- AltName: [Nalfeshnie]
 - Large fiend (demon), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d10 + 96)
@@ -8717,7 +8717,7 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 [][MonsterVO]
 
 # Noble
-- NameVO: [Noble]
+- AltName: [Noble]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 15 (breastplate)
 - **Hit Points** 9 (2d8)
@@ -8748,7 +8748,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [][MonsterVO]
 
 # Swarm of Insects
-- NameVO: [Nuée d'insectes]
+- AltName: [Nuée d'insectes]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (5d8)
@@ -8780,7 +8780,7 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 [][MonsterVO]
 
 # Swarm of Bats
-- NameVO: [Nuée de chauve-souris]
+- AltName: [Nuée de chauve-souris]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -8816,7 +8816,7 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 [][MonsterVO]
 
 # Swarm of Ravens
-- NameVO: [Nuée de corbeaux]
+- AltName: [Nuée de corbeaux]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 24 (7d8 - 7)
@@ -8849,7 +8849,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [][MonsterVO]
 
 # Swarm of Quippers
-- NameVO: [Nuée de piranhas]
+- AltName: [Nuée de piranhas]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 13
 - **Hit Points** 28 (8d8 - 8)
@@ -8885,7 +8885,7 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 [][MonsterVO]
 
 # Swarm of Rats
-- NameVO: [Nuée de rats]
+- AltName: [Nuée de rats]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 10
 - **Hit Points** 24 (7d8 - 7)
@@ -8919,7 +8919,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [][MonsterVO]
 
 # Swarm of Poisonous Snakes
-- NameVO: [Nuée de serpents venimeux]
+- AltName: [Nuée de serpents venimeux]
 - Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 14
 - **Hit Points** 36 (8d8)
@@ -8951,7 +8951,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [][MonsterVO]
 
 # Wight
-- NameVO: [Nécrophage]
+- AltName: [Nécrophage]
 - Medium undead, neutral evil
 - **Armor Class** 14 (studded leather)
 - **Hit Points** 45 (6d8 + 18)
@@ -8995,7 +8995,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [][MonsterVO]
 
 # Ogre
-- NameVO: [Ogre]
+- AltName: [Ogre]
 - Large giant, chaotic evil
 - **Armor Class** 11 (hide armor)
 - **Hit Points** 59 (7d10 + 21)
@@ -9025,7 +9025,7 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 [][MonsterVO]
 
 # Shadow
-- NameVO: [Ombre]
+- AltName: [Ombre]
 - Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 16 (3d8 + 3)
@@ -9064,7 +9064,7 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 [][MonsterVO]
 
 # Oni
-- NameVO: [Oni]
+- AltName: [Oni]
 - Large giant, lawful evil
 - **Armor Class** 16 (chain mail)
 - **Hit Points** 110 (13d10 + 39)
@@ -9112,7 +9112,7 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 [][MonsterVO]
 
 # Orc
-- NameVO: [Orc]
+- AltName: [Orc]
 - Medium humanoid (orc), chaotic evil
 - **Armor Class** 13 (hide armor)
 - **Hit Points** 15 (2d8 + 6)
@@ -9147,7 +9147,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [][MonsterVO]
 
 # Otyugh
-- NameVO: [Otyugh]
+- AltName: [Otyugh]
 - Large aberration, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -9186,7 +9186,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 [][MonsterVO]
 
 # Brown Bear
-- NameVO: [Ours brun]
+- AltName: [Ours brun]
 - Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 34 (4d10 + 12)
@@ -9223,7 +9223,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Black Bear
-- NameVO: [Ours noir]
+- AltName: [Ours noir]
 - Medium beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 19 (3d8 + 6)
@@ -9260,7 +9260,7 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 [][MonsterVO]
 
 # Polar Bear
-- NameVO: [Ours polaire]
+- AltName: [Ours polaire]
 - Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 42 (5d10 + 15)
@@ -9297,7 +9297,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [][MonsterVO]
 
 # Werebear
-- NameVO: [Ours-garou]
+- AltName: [Ours-garou]
 - Medium humanoid (human, shapechanger), neutral good
 - **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 - **Hit Points** 135 (18d8 + 54)
@@ -9341,7 +9341,7 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 [][MonsterVO]
 
 # Rust Monster
-- NameVO: [Oxydeur]
+- AltName: [Oxydeur]
 - Medium monstrosity, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 27 (5d8 + 5)
@@ -9375,7 +9375,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [][MonsterVO]
 
 # Panther
-- NameVO: [Panthère]
+- AltName: [Panthère]
 - Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (3d8)
@@ -9412,7 +9412,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [][MonsterVO]
 
 # Octopus
-- NameVO: [Pieuvre]
+- AltName: [Pieuvre]
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -9449,7 +9449,7 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 [][MonsterVO]
 
 # Giant Octopus
-- NameVO: [Pieuvre géante]
+- AltName: [Pieuvre géante]
 - Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 52 (8d10 + 8)
@@ -9486,7 +9486,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 [][MonsterVO]
 
 # Quipper
-- NameVO: [Piranha]
+- AltName: [Piranha]
 - Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)
@@ -9518,7 +9518,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Planetar
-- NameVO: [Planétar]
+- AltName: [Planétar]
 - Large celestial, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 200 (16d10 + 112)
@@ -9568,7 +9568,7 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 [][MonsterVO]
 
 # Plesiosaurus
-- NameVO: [Plésiosaure]
+- AltName: [Plésiosaure]
 - Large beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 68 (8d10 + 24)
@@ -9599,7 +9599,7 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 [][MonsterVO]
 
 # Pony
-- NameVO: [Poney]
+- AltName: [Poney]
 - Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 11 (2d8 + 2)
@@ -9625,7 +9625,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [][MonsterVO]
 
 # Black Pudding
-- NameVO: [Pouding noir]
+- AltName: [Pouding noir]
 - Large ooze, unaligned
 - **Armor Class** 7
 - **Hit Points** 85 (10d10 + 30)
@@ -9665,7 +9665,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 [][MonsterVO]
 
 # Pseudodragon
-- NameVO: [Pseudodragon]
+- AltName: [Pseudodragon]
 - Tiny dragon, neutral good
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 7 (2d4 + 2)
@@ -9705,7 +9705,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 [][MonsterVO]
 
 # Giant Fire Beetle
-- NameVO: [Punaise de feu géante]
+- AltName: [Punaise de feu géante]
 - Small beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 4 (1d6 + 1)
@@ -9735,7 +9735,7 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 [][MonsterVO]
 
 # Pegasus
-- NameVO: [Pégase]
+- AltName: [Pégase]
 - Large celestial, chaotic good
 - **Armor Class** 12
 - **Hit Points** 59 (7d10 + 21)
@@ -9763,7 +9763,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Quasit
-- NameVO: [Quasit]
+- AltName: [Quasit]
 - Tiny fiend (demon, shapechanger), chaotic evil
 - **Armor Class** 13
 - **Hit Points** 7 (3d4)
@@ -9803,7 +9803,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 [][MonsterVO]
 
 # Rakshasa
-- NameVO: [Rakshasa]
+- AltName: [Rakshasa]
 - Medium fiend, lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 110 (13d8 + 52)
@@ -9846,7 +9846,7 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 [][MonsterVO]
 
 # Rat
-- NameVO: [Rat]
+- AltName: [Rat]
 - Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 1 (1d4 - 1)
@@ -9876,7 +9876,7 @@ _Hit_: 1 piercing damage.
 [][MonsterVO]
 
 # Giant Rat
-- NameVO: [Rat géant]
+- AltName: [Rat géant]
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 7 (2d6)
@@ -9908,7 +9908,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [][MonsterVO]
 
 # Wererat
-- NameVO: [Rat-garou]
+- AltName: [Rat-garou]
 - Medium humanoid (human, shapechanger), lawful evil
 - **Armor Class** 12
 - **Hit Points** 33 (6d8 + 6)
@@ -9952,7 +9952,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Reef Shark
-- NameVO: [Requin de récif]
+- AltName: [Requin de récif]
 - Medium beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -9985,7 +9985,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [][MonsterVO]
 
 # Giant Shark
-- NameVO: [Requin géant]
+- AltName: [Requin géant]
 - Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 126 (11d12 + 55)
@@ -10018,7 +10018,7 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 [][MonsterVO]
 
 # Hunter Shark
-- NameVO: [Requin chasseur]
+- AltName: [Requin chasseur]
 - Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 45 (6d10 + 12)
@@ -10051,7 +10051,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [][MonsterVO]
 
 # Rhinoceros
-- NameVO: [Rhinocéros]
+- AltName: [Rhinocéros]
 - Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 45 (6d10 + 12)
@@ -10081,7 +10081,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [][MonsterVO]
 
 # Roc
-- NameVO: [Roc]
+- AltName: [Roc]
 - Gargantuan monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 248 (16d20 + 80)
@@ -10119,7 +10119,7 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 [][MonsterVO]
 
 # Commoner
-- NameVO: [Roturier]
+- AltName: [Roturier]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 10
 - **Hit Points** 4 (1d8)
@@ -10145,7 +10145,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [][MonsterVO]
 
 # Remorhaz
-- NameVO: [Remorhaz]
+- AltName: [Remorhaz]
 - Huge monstrosity, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 195 (17d12 + 85)
@@ -10178,7 +10178,7 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 [][MonsterVO]
 
 # Sahuagin
-- NameVO: [Sahuagin]
+- AltName: [Sahuagin]
 - Medium humanoid (sahuagin), lawful evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -10223,7 +10223,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [][MonsterVO]
 
 # Salamander
-- NameVO: [Salamandre]
+- AltName: [Salamandre]
 - Large elemental, neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 90 (12d10 + 24)
@@ -10264,7 +10264,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 [][MonsterVO]
 
 # Boar
-- NameVO: [Sanglier]
+- AltName: [Sanglier]
 - Medium beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -10296,7 +10296,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 [][MonsterVO]
 
 # Giant Boar
-- NameVO: [Sanglier géant]
+- AltName: [Sanglier géant]
 - Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 42 (5d10 + 15)
@@ -10328,7 +10328,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [][MonsterVO]
 
 # Wereboar
-- NameVO: [Sanglier-garou]
+- AltName: [Sanglier-garou]
 - Medium humanoid (human, shapechanger), neutral evil
 - **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
 - **Hit Points** 78 (12d8 + 24)
@@ -10370,7 +10370,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 [][MonsterVO]
 
 # Satyr
-- NameVO: [Satyre]
+- AltName: [Satyre]
 - Medium fey, chaotic neutral
 - **Armor Class** 14 (leather armor)
 - **Hit Points** 31 (7d8)
@@ -10409,7 +10409,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [][MonsterVO]
 
 # Scorpion
-- NameVO: [Scorpion]
+- AltName: [Scorpion]
 - Tiny beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 1 (1d4 - 1)
@@ -10435,7 +10435,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 [][MonsterVO]
 
 # Giant Scorpion
-- NameVO: [Scorpion géant]
+- AltName: [Scorpion géant]
 - Large beast, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (7d10 + 14)
@@ -10467,7 +10467,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 [][MonsterVO]
 
 # Constrictor Snake
-- NameVO: [Serpent constricteur]
+- AltName: [Serpent constricteur]
 - Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (2d10 + 2)
@@ -10497,7 +10497,7 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 [][MonsterVO]
 
 # Giant Constrictor Snake
-- NameVO: [Serpent constricteur géant]
+- AltName: [Serpent constricteur géant]
 - Huge beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 60 (8d12 + 8)
@@ -10528,7 +10528,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 [][MonsterVO]
 
 # Poisonous Snake
-- NameVO: [Serpent venimeux]
+- AltName: [Serpent venimeux]
 - Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 2 (1d4)
@@ -10554,7 +10554,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 [][MonsterVO]
 
 # Giant Poisonous Snake
-- NameVO: [Serpent venimeux géant]
+- AltName: [Serpent venimeux géant]
 - Medium beast, unaligned
 - **Armor Class** 14
 - **Hit Points** 11 (2d8 + 2)
@@ -10581,7 +10581,7 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 [][MonsterVO]
 
 # Flying Snake
-- NameVO: [Serpent volant]
+- AltName: [Serpent volant]
 - Tiny beast, unaligned
 - **Armor Class** 14
 - **Hit Points** 5 (2d4)
@@ -10611,7 +10611,7 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 [][MonsterVO]
 
 # Giant Ape
-- NameVO: [Singe géant]
+- AltName: [Singe géant]
 - Huge beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 157 (15d12 + 60)
@@ -10644,7 +10644,7 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 [][MonsterVO]
 
 # Solar
-- NameVO: [Solar]
+- AltName: [Solar]
 - Large celestial, lawful good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 243 (18d10 + 144)
@@ -10711,7 +10711,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 [][MonsterVO]
 
 # Specter
-- NameVO: [Spectre]
+- AltName: [Spectre]
 - Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -10746,7 +10746,7 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 [][MonsterVO]
 
 # Skeleton
-- NameVO: [Squelette]
+- AltName: [Squelette]
 - Medium undead, lawful evil
 - **Armor Class** 13 (armor scraps)
 - **Hit Points** 13 (2d8 + 4)
@@ -10779,7 +10779,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [][MonsterVO]
 
 # Warhorse Skeleton
-- NameVO: [Squelette cheval de guerre]
+- AltName: [Squelette cheval de guerre]
 - Large undead, lawful evil
 - **Armor Class** 13 (barding scraps)
 - **Hit Points** 22 (3d10 + 6)
@@ -10808,7 +10808,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Minotaur Skeleton
-- NameVO: [Squelette minotaure]
+- AltName: [Squelette minotaure]
 - Large undead, lawful evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 67 (9d10 + 18)
@@ -10845,7 +10845,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [][MonsterVO]
 
 # Stirge
-- NameVO: [Strige]
+- AltName: [Strige]
 - Tiny beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 2 (1d4)
@@ -10871,7 +10871,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 [][MonsterVO]
 
 # Succubus
-- NameVO: [Succube/Incube]
+- AltName: [Succube/Incube]
 - Medium fiend (shapechanger), neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 66 (12d8 + 12)
@@ -10911,7 +10911,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [][MonsterVO]
 
 # Treant
-- NameVO: [Sylvanien]
+- AltName: [Sylvanien]
 - Huge plant, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 138 (12d12 + 60)
@@ -10953,7 +10953,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [][MonsterVO]
 
 # Rug of Smothering
-- NameVO: [Tapis étrangleur]
+- AltName: [Tapis étrangleur]
 - Large construct, unaligned
 - **Armor Class** 12
 - **Hit Points** 33 (6d10)
@@ -10989,7 +10989,7 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 [][MonsterVO]
 
 # Tarrasque
-- NameVO: [Tarasque]
+- AltName: [Tarasque]
 - Gargantuan monstrosity (titan), unaligned
 - **Armor Class** 25 (natural armor)
 - **Hit Points** 676 (33d20 + 330)
@@ -11056,7 +11056,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 [][MonsterVO]
 
 # Shambling Mound
-- NameVO: [Tertre errant]
+- AltName: [Tertre errant]
 - Large plant, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -11094,7 +11094,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Tiger
-- NameVO: [Tigre]
+- AltName: [Tigre]
 - Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 37 (5d10 + 10)
@@ -11131,7 +11131,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [][MonsterVO]
 
 # Saber-Toothed Tiger
-- NameVO: [Tigre à dents de sabre]
+- AltName: [Tigre à dents de sabre]
 - Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 52 (7d10 + 14)
@@ -11168,7 +11168,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [][MonsterVO]
 
 # Weretiger
-- NameVO: [Tigre-garou]
+- AltName: [Tigre-garou]
 - Medium humanoid (human, shapechanger), neutral
 - **Armor Class** 12
 - **Hit Points** 120 (16d8 + 48)
@@ -11218,7 +11218,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [][MonsterVO]
 
 # Grimlock
-- NameVO: [Torve]
+- AltName: [Torve]
 - Medium humanoid (grimlock), neutral evil
 - **Armor Class** 11
 - **Hit Points** 11 (2d8 + 2)
@@ -11254,7 +11254,7 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 [][MonsterVO]
 
 # Invisible Stalker
-- NameVO: [Traqueur invisible]
+- AltName: [Traqueur invisible]
 - Medium elemental, neutral
 - **Armor Class** 14
 - **Hit Points** 104 (16d8 + 32)
@@ -11292,7 +11292,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 [][MonsterVO]
 
 # Triceratops
-- NameVO: [Tricératops]
+- AltName: [Tricératops]
 - Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 95 (10d12 + 30)
@@ -11326,7 +11326,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 [][MonsterVO]
 
 # Troll
-- NameVO: [Troll]
+- AltName: [Troll]
 - Large giant, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 84 (8d10 + 40)
@@ -11365,7 +11365,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [][MonsterVO]
 
 # Tyrannosaurus Rex
-- NameVO: [Tyrannosaure]
+- AltName: [Tyrannosaure]
 - Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 136 (13d12 + 52)
@@ -11398,7 +11398,7 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 [][MonsterVO]
 
 # Vampire
-- NameVO: [Vampire]
+- AltName: [Vampire]
 - Medium undead (shapechanger), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 144 (17d8 + 68)
@@ -11469,7 +11469,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 [][MonsterVO]
 
 # Vampire Spawn
-- NameVO: [Vampirien]
+- AltName: [Vampirien]
 - Medium undead, neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 82 (11d8 + 33)
@@ -11520,7 +11520,7 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 [][MonsterVO]
 
 # Gray Ooze
-- NameVO: [Vase grise]
+- AltName: [Vase grise]
 - Medium ooze, unaligned
 - **Armor Class** 8
 - **Hit Points** 22 (3d8 + 9)
@@ -11559,7 +11559,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 [][MonsterVO]
 
 # Vulture
-- NameVO: [Vautour]
+- AltName: [Vautour]
 - Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 5 (1d8 + 1)
@@ -11592,7 +11592,7 @@ _Hit_: 2 (1d4) piercing damage.
 [][MonsterVO]
 
 # Giant Vulture
-- NameVO: [Vautour géant]
+- AltName: [Vautour géant]
 - Large beast, neutral evil
 - **Armor Class** 10
 - **Hit Points** 22 (3d10 + 6)
@@ -11631,7 +11631,7 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 [][MonsterVO]
 
 # Purple Worm
-- NameVO: [Ver pourpre]
+- AltName: [Ver pourpre]
 - Gargantuan monstrosity, unaligned
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 247 (15d20 + 90)
@@ -11668,7 +11668,7 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 [][MonsterVO]
 
 # Wyvern
-- NameVO: [Vouivre]
+- AltName: [Vouivre]
 - Large dragon, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 110 (13d10 + 39)
@@ -11705,7 +11705,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 [][MonsterVO]
 
 # Vrock
-- NameVO: [Vrock]
+- AltName: [Vrock]
 - Large fiend (demon), chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 104 (11d10 + 44)
@@ -11751,7 +11751,7 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 [][MonsterVO]
 
 # Veteran
-- NameVO: [Vétéran]
+- AltName: [Vétéran]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 17 (splint)
 - **Hit Points** 58 (9d8 + 18)
@@ -11788,7 +11788,7 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 [][MonsterVO]
 
 # Worg
-- NameVO: [Worg]
+- AltName: [Worg]
 - Large monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 26 (4d10 + 4)
@@ -11819,7 +11819,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 [][MonsterVO]
 
 # Xorn
-- NameVO: [Xorn]
+- AltName: [Xorn]
 - Medium elemental, neutral
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 73 (7d8 + 42)
@@ -11862,7 +11862,7 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 [][MonsterVO]
 
 # Zombie
-- NameVO: [Zombi]
+- AltName: [Zombi]
 - Medium undead, neutral evil
 - **Armor Class** 8
 - **Hit Points** 22 (3d8 + 9)
@@ -11895,7 +11895,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [][MonsterVO]
 
 # Ogre Zombie
-- NameVO: [Zombi ogre]
+- AltName: [Zombi ogre]
 - Large undead, neutral evil
 - **Armor Class** 8
 - **Hit Points** 85 (9d10 + 36)
@@ -11928,7 +11928,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Wraith
-- NameVO: [Âme en peine]
+- AltName: [Âme en peine]
 - Medium undead, neutral evil
 - **Armor Class** 13
 - **Hit Points** 67 (9d8 + 27)
@@ -11965,7 +11965,7 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 [][MonsterVO]
 
 # Scout
-- NameVO: [Éclaireur]
+- AltName: [Éclaireur]
 - Medium humanoid (any race), any alignment
 - **Armor Class** 13 (leather armor)
 - **Hit Points** 16 (3d8 + 3)
@@ -12002,7 +12002,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [][MonsterVO]
 
 # Efreeti
-- NameVO: [Éfrit]
+- AltName: [Éfrit]
 - Large elemental, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 200 (16d10 + 112)
@@ -12048,7 +12048,7 @@ _Hit_: 17 (5d6) fire damage.
 [][MonsterVO]
 
 # Elk
-- NameVO: [Élan]
+- AltName: [Élan]
 - Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d10 + 2)
@@ -12082,7 +12082,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [][MonsterVO]
 
 # Giant Elk
-- NameVO: [Élan géant]
+- AltName: [Élan géant]
 - Huge beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 42 (5d12 + 10)
@@ -12117,7 +12117,7 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Air Elemental
-- NameVO: [Élémentaire de l'air]
+- AltName: [Élémentaire de l'air]
 - Large elemental, neutral
 - **Armor Class** 15
 - **Hit Points** 90 (12d10 + 24)
@@ -12154,7 +12154,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [][MonsterVO]
 
 # Water Elemental
-- NameVO: [Élémentaire de l'eau]
+- AltName: [Élémentaire de l'eau]
 - Large elemental, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -12193,7 +12193,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [][MonsterVO]
 
 # Earth Elemental
-- NameVO: [Élémentaire de la terre]
+- AltName: [Élémentaire de la terre]
 - Large elemental, neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 126 (12d10 + 60)
@@ -12231,7 +12231,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [][MonsterVO]
 
 # Fire Elemental
-- NameVO: [Élémentaire du feu]
+- AltName: [Élémentaire du feu]
 - Large elemental, neutral
 - **Armor Class** 13
 - **Hit Points** 102 (12d10 + 36)
@@ -12270,7 +12270,7 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 [][MonsterVO]
 
 # Elephant
-- NameVO: [Éléphant]
+- AltName: [Éléphant]
 - Huge beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 76 (8d12 + 24)
@@ -12304,7 +12304,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 [][MonsterVO]
 
 # Killer Whale
-- NameVO: [Épaulard]
+- AltName: [Épaulard]
 - Huge beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 90 (12d12 + 12)
@@ -12339,7 +12339,7 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 [][MonsterVO]
 
 # Flying Sword
-- NameVO: [Épée volante]
+- AltName: [Épée volante]
 - Small construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 17 (5d6)
@@ -12374,7 +12374,7 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 [][MonsterVO]
 
 # Erinyes
-- NameVO: [Érinye]
+- AltName: [Érinye]
 - Medium fiend (devil), lawful evil
 - **Armor Class** 18 (plate)
 - **Hit Points** 153 (18d8 + 72)
