@@ -49,9 +49,5 @@ namespace AideDeJeuLib
             }
         }
 
-        public override void Parse(ref ContainerBlock.Enumerator enumerator)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

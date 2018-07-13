@@ -27,6 +27,13 @@ namespace AideDeJeu.Views
             //Navigator = new Navigator((Detail as NavigationPage).Navigation);
             //BindingContext = viewModel = new MainViewModel(Navigator);
             BindingContext = Main;
+
+            this.SizeChanged += (o, e) => {
+                if(this.Width > 0 && this.Height > 0)
+                {
+                    this.IsPresented = this.Width > this.Height;
+                }
+            };
         }
 
         protected override void OnAppearing()
