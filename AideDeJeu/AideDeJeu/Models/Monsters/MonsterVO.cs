@@ -37,10 +37,5 @@ namespace AideDeJeuLib
                     (LegendaryActions != null ? $"## Legendary Actions\n\n" + LegendaryActions.Aggregate((s1, s2) => s1 + "\n\n" + s2) : "");
             }
         }
-
-        public override void Parse(ref ContainerBlock.Enumerator enumerator)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

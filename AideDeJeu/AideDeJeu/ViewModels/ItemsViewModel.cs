@@ -39,7 +39,8 @@ namespace AideDeJeu.ViewModels
                         {
                             resourceName = "AideDeJeu.Data.monsters_vo.md";
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterVO>(md);
+                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+                            //_AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterVO>(md);
                         }
                         break;
                     case ItemSourceType.MonsterHD:
@@ -47,7 +48,8 @@ namespace AideDeJeu.ViewModels
                             resourceName = "AideDeJeu.Data.monsters_hd.md";
                             //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/monsters_hd.md");
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterHD>(md);
+                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+                            //_AllItems = Tools.MarkdownExtensions.MarkdownToMonsters<MonsterHD>(md);
                         }
                         break;
                     case ItemSourceType.SpellVO:
@@ -71,7 +73,8 @@ namespace AideDeJeu.ViewModels
                         {
                             resourceName = "AideDeJeu.Data.conditions_vo.md";
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
+                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+                            //_AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
                         }
                         break;
                     case ItemSourceType.ConditionHD:
@@ -79,7 +82,8 @@ namespace AideDeJeu.ViewModels
                             resourceName = "AideDeJeu.Data.conditions_hd.md";
                             //var md = await Tools.Helpers.GetStringFromUrl("https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/spells_hd.md");
                             var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
-                            _AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
+                            _AllItems = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+                            //_AllItems = Tools.MarkdownExtensions.MarkdownToConditions<AideDeJeuLib.Condition>(md);
                         }
                         break;
                 }
