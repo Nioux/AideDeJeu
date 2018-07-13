@@ -10,7 +10,7 @@ namespace AideDeJeu.ViewModels
 {
     public abstract class FilterViewModel : BaseViewModel
     {
-        public ICommand LoadItemsCommand { get; protected set; }
+        public ICommand LoadItemsCommand { get; set; }
         public abstract Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken cancellationToken = default);
         public abstract IEnumerable<Filter> Filters { get; }
         private string _SearchText = "";
@@ -23,9 +23,26 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _SearchText, value);
-                //Main.LoadItemsCommand.Execute(null);
+                LoadItemsCommand.Execute(null);
             }
         }
+
+        protected void RegisterFilters()
+        {
+            foreach (var filter in Filters)
+            {
+                filter.PropertyChanged += Filter_PropertyChanged;
+            }
+        }
+
+        protected void Filter_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
+        {
+            if (e.PropertyName == "Index")
+            {
+                LoadItemsCommand.Execute(null);
+            }
+        }
+
 
     }
 
@@ -64,7 +81,6 @@ namespace AideDeJeu.ViewModels
                     if (_Index != value)
                     {
                         SetProperty(ref _Index, value);
-                        Main.LoadItemsCommand.Execute(null);
                     }
                 }
             }
@@ -95,6 +111,7 @@ namespace AideDeJeu.ViewModels
                     _Filters = new List<Filter>()
                     {
                     };
+                    RegisterFilters();
                 }
                 return _Filters;
             }
@@ -140,11 +157,11 @@ namespace AideDeJeu.ViewModels
                         new Filter() { Key = FilterKeys.Ritual, Name = "Rituel", KeyValues = Rituels, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
                     };
+                    RegisterFilters();
                 }
                 return _Filters;
             }
         }
-
 
         public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
         {
@@ -378,6 +395,7 @@ namespace AideDeJeu.ViewModels
                         //new Filter() { Key = FilterKeys.Legendary, Name = "Légendaire", KeyValues = Legendaries, _Index = 0 },
                         new Filter() { Key = FilterKeys.Source, Name = "Source", KeyValues = Sources, _Index = 0 },
                     };
+                    RegisterFilters();
                 }
                 return _Filters;
             }

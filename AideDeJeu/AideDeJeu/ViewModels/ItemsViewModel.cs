@@ -17,9 +17,15 @@ namespace AideDeJeu.ViewModels
         public ItemsViewModel(ItemSourceType itemSourceType)
         {
             this.ItemSourceType = itemSourceType;
-            Filter = Main.GetFilterViewModel(ItemSourceType);
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
+            Filter = Main.GetFilterViewModel(ItemSourceType);
+            Filter.LoadItemsCommand = LoadItemsCommand;
+            SearchCommand = new Command<string>((text) =>
+            {
+                Filter.SearchText = text;
+            });
         }
+        public Command<string> SearchCommand { get; private set; }
         public ICommand LoadItemsCommand { get; protected set; }
         public async Task ExecuteGotoItemCommandAsync(Item item)
         {

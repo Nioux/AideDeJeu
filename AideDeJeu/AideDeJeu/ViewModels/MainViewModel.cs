@@ -101,34 +101,34 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public Dictionary<ItemSourceType, Lazy<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Lazy<ItemsViewModel>>()
+        public Dictionary<ItemSourceType, Func<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Func<ItemsViewModel>>()
         {
-            { ItemSourceType.SpellVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.SpellVO)) },
-            { ItemSourceType.SpellHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.SpellHD)) },
-            { ItemSourceType.MonsterVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.MonsterVO)) },
-            { ItemSourceType.MonsterHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.MonsterHD)) },
-            { ItemSourceType.ConditionHD, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.ConditionHD)) },
-            { ItemSourceType.ConditionVO, new Lazy<ItemsViewModel>(() => new ItemsViewModel(ItemSourceType.ConditionVO)) },
+            { ItemSourceType.SpellVO, () => new ItemsViewModel(ItemSourceType.SpellVO) },
+            { ItemSourceType.SpellHD, () => new ItemsViewModel(ItemSourceType.SpellHD) },
+            { ItemSourceType.MonsterVO, () => new ItemsViewModel(ItemSourceType.MonsterVO) },
+            { ItemSourceType.MonsterHD, () => new ItemsViewModel(ItemSourceType.MonsterHD) },
+            { ItemSourceType.ConditionHD, () => new ItemsViewModel(ItemSourceType.ConditionHD) },
+            { ItemSourceType.ConditionVO, () => new ItemsViewModel(ItemSourceType.ConditionVO) },
         };
 
         public ItemsViewModel GetItemsViewModel(ItemSourceType itemSourceType)
         {
-            return AllItemsViewModel[itemSourceType].Value;
+            return AllItemsViewModel[itemSourceType].Invoke();
         }
 
-        public Dictionary<ItemSourceType, Lazy<FilterViewModel>> AllFiltersViewModel = new Dictionary<ItemSourceType, Lazy<FilterViewModel>>()
+        public Dictionary<ItemSourceType, Func<FilterViewModel>> AllFiltersViewModel = new Dictionary<ItemSourceType, Func<FilterViewModel>>()
         {
-            { ItemSourceType.SpellVO, new Lazy<FilterViewModel>(() => new VOSpellFilterViewModel()) },
-            { ItemSourceType.SpellHD, new Lazy<FilterViewModel>(() => new HDSpellFilterViewModel()) },
-            { ItemSourceType.MonsterVO, new Lazy<FilterViewModel>(() => new VOMonsterFilterViewModel()) },
-            { ItemSourceType.MonsterHD, new Lazy<FilterViewModel>(() => new HDMonsterFilterViewModel()) },
-            { ItemSourceType.ConditionHD, new Lazy<FilterViewModel>(() => new SearchFilterViewModel()) },
-            { ItemSourceType.ConditionVO, new Lazy<FilterViewModel>(() => new SearchFilterViewModel()) },
+            { ItemSourceType.SpellVO, () => new VOSpellFilterViewModel() },
+            { ItemSourceType.SpellHD, () => new HDSpellFilterViewModel() },
+            { ItemSourceType.MonsterVO, () => new VOMonsterFilterViewModel() },
+            { ItemSourceType.MonsterHD, () => new HDMonsterFilterViewModel() },
+            { ItemSourceType.ConditionHD, () => new SearchFilterViewModel() },
+            { ItemSourceType.ConditionVO, () => new SearchFilterViewModel() },
         };
 
         public FilterViewModel GetFilterViewModel(ItemSourceType itemSourceType)
         {
-            return AllFiltersViewModel[itemSourceType].Value;
+            return AllFiltersViewModel[itemSourceType].Invoke();
         }
 
         // Yan : pas besoin d'ObservableCollection, on ne modifie jamais la liste item par item
@@ -153,7 +153,6 @@ namespace AideDeJeu.ViewModels
         public Command SwitchToSpellsVO { get; private set; }
         public Command SwitchToMonstersVO { get; private set; }
         public Command AboutCommand { get; private set; }
-        public Command<string> SearchCommand { get; private set; }
 
         public Navigator Navigator { get; set; }
 
@@ -173,11 +172,6 @@ namespace AideDeJeu.ViewModels
             //SwitchToSpellsVO = new Command(() => ItemSourceType = ItemSourceType.SpellVO);
             //SwitchToMonstersVO = new Command(() => ItemSourceType = ItemSourceType.MonsterVO);
             AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
-            SearchCommand = new Command<string>(async (text) =>
-                {
-                    //GetFilterViewModel(ItemSourceType).SearchText = text;
-                    //await GetItemsViewModel(ItemSourceType).ExecuteLoadItemsCommandAsync();
-                });
         }
 
         ItemSourceType MDFileToItemSourceType(string file)

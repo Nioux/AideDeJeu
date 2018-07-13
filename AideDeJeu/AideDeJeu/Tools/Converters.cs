@@ -109,19 +109,19 @@ namespace AideDeJeu.Tools
 
     public class ItemSourceTypeToStringConverter : ItemSourceTypeConverter<string> { }
 
-    public class ItemSourceTypeToFilterConverter : IValueConverter
-    {
-        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
-        {
-            var vm = DependencyService.Get<ItemsViewModel>();
-            var itemSourceType = vm.ItemSourceType;
-            return vm.Main.GetFilterViewModel(itemSourceType).Filters;
-        }
+    //public class ItemSourceTypeToFilterConverter : IValueConverter
+    //{
+    //    public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+    //    {
+    //        var vm = DependencyService.Get<ItemsViewModel>();
+    //        var itemSourceType = vm.ItemSourceType;
+    //        return vm.Main.GetFilterViewModel(itemSourceType).Filters;
+    //    }
 
-        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
-        {
-            return null;
-        }
-    }
+    //    public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+    //    {
+    //        return null;
+    //    }
+    //}
 
 }
