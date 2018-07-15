@@ -1,5 +1,5 @@
 
-[][Items]
+[][SpellsVO]
 
 # Spells (SRD)
 - AltName: [Sorts (H&D)](spells_hd.md)
@@ -7668,5 +7668,5 @@ An affected creature is aware of the spell and can thus avoid answering question
 [web]: spells_vo.hd#web
 [wish]: spells_vo.hd#wish
 
-[Items]: #
+[SpellsVO]: #
 [SpellVO]: #

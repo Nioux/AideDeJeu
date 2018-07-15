@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using AideDeJeu.Tools;
+using AideDeJeu.ViewModels;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
 
@@ -52,6 +53,11 @@ namespace AideDeJeuLib
         IEnumerator IEnumerable.GetEnumerator()
         {
             return _Items.GetEnumerator();
+        }
+
+        public virtual FilterViewModel GetNewFilterViewModel()
+        {
+            return null;
         }
     }
 }

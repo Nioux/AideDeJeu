@@ -1,5 +1,5 @@
 
-[][Items]
+[][MonstersHD]
 
 # Créatures (H&D)
 - AltName: [Monsters](monsters_vo.md)
@@ -13421,5 +13421,5 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [vol]: spells_hd.md#vol
 [zone de vérité]: spells_hd.md#zone-de-vérité
 
-[Items]: #
+[MonstersHD]: #
 [MonsterHD]: #

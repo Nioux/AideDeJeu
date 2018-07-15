@@ -1,5 +1,5 @@
 
-[][Items]
+[][MonstersVO]
 
 # Monsters (SRD)
 - AltName: [Créatures](monsters_hd.md)
@@ -12549,5 +12549,5 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [wish]: spells_vo.md#wish
 [zone of truth]: spells_vo.md#zone-of-truth
 
-[Items]: #
+[MonstersVO]: #
 [MonsterVO]: #

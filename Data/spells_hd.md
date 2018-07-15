@@ -1,5 +1,5 @@
 ﻿
-[][Items]
+[][SpellsHD]
 
 # Sorts (H&D)
 - AltName: [Spells](spells_vo.md)
@@ -8654,5 +8654,5 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 [toiles d'araignées]: spells_hd.md#toile-daraignée
 [verrou magique]: spells_hd.md#verrou-magique
 
-[Items]: #
+[SpellsHD]: #
 [SpellHD]: #
