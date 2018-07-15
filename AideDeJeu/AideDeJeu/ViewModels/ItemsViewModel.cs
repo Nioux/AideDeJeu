@@ -16,35 +16,11 @@ namespace AideDeJeu.ViewModels
 
         public ItemsViewModel()
         {
-            //this.ItemSourceType = itemSourceType;
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
-            //Filter = Main.GetFilterViewModel(ItemSourceType);
-            //Filter.LoadItemsCommand = LoadItemsCommand;
-            SearchCommand = new Command<string>((text) =>
-            {
-                Filter.SearchText = text;
-            });
+            SearchCommand = new Command<string>((text) => Filter.SearchText = text );
         }
         public Command<string> SearchCommand { get; private set; }
         public ICommand LoadItemsCommand { get; protected set; }
-        public async Task ExecuteGotoItemCommandAsync(Item item)
-        {
-            await Main.Navigator.GotoItemDetailPageAsync(item);
-        }
-
-        //private ItemSourceType _ItemSourceType = ItemSourceType.SpellHD;
-        //public ItemSourceType ItemSourceType
-        //{
-        //    get
-        //    {
-        //        return _ItemSourceType;
-        //    }
-        //    set
-        //    {
-        //        SetProperty(ref _ItemSourceType, value);
-        //        OnPropertyChanged(nameof(Items));
-        //    }
-        //}
 
         private FilterViewModel _Filter;
         public FilterViewModel Filter
@@ -85,18 +61,27 @@ namespace AideDeJeu.ViewModels
                 if (_SelectedItem != null)
                 {
                     Main.Navigator.GotoItemDetailPageAsync(_SelectedItem);
-                    //Main.GotoItemCommand.Execute(_SelectedItem);
                 }
             }
         }
 
-        public Items AllItems;
-        public async Task InitAsync()
+        private Items _AllItems;
+        public Items AllItems
         {
-            //AllItems = await Main.GetAllItemsAsync(ItemSourceType);
-            Title = AllItems.Name;
-            Filter = AllItems.GetNewFilterViewModel(); //Main.GetFilterViewModel(ItemSourceType);
-            Filter.LoadItemsCommand = LoadItemsCommand;
+            get
+            {
+                return _AllItems;
+            }
+            set
+            {
+                _AllItems = value;
+                if (_AllItems != null)
+                {
+                    Title = _AllItems.Name;
+                    Filter = _AllItems.GetNewFilterViewModel();
+                    Filter.LoadItemsCommand = LoadItemsCommand;
+                }
+            }
         }
 
         async Task LoadItemsAsync(CancellationToken cancellationToken = default)
@@ -105,8 +90,6 @@ namespace AideDeJeu.ViewModels
             Main.IsLoading = true;
             try
             {
-                //var filterViewModel = Filter;
-                //var allItems = await Main.GetAllItemsAsync(ItemSourceType);
                 var items = await Filter.FilterItems(AllItems, cancellationToken: cancellationToken);
                 Items = items.ToList();
             }

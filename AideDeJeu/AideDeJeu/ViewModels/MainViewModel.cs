@@ -32,10 +32,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task<ItemsViewModel> GetItemsViewModelAsync(string source)
         {
-            var allItems = await GetAllItemsAsync(source);
             var itemsViewModel = new ItemsViewModel();
-            itemsViewModel.AllItems = allItems;
-            await itemsViewModel.InitAsync();
+            itemsViewModel.AllItems = await GetAllItemsAsync(source);
             return itemsViewModel;
         }
 
