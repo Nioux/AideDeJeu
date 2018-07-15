@@ -84,17 +84,18 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _SelectedItem, value);
                 if (_SelectedItem != null)
                 {
-                    Main.GotoItemCommand.Execute(_SelectedItem);
+                    Main.Navigator.GotoItemDetailPageAsync(_SelectedItem);
+                    //Main.GotoItemCommand.Execute(_SelectedItem);
                 }
             }
         }
 
-        public IEnumerable<Item> AllItems;
+        public Items AllItems;
         public async Task InitAsync()
         {
             //AllItems = await Main.GetAllItemsAsync(ItemSourceType);
-            Title = (AllItems as Item)?.Name;
-            Filter = (AllItems as Items).GetNewFilterViewModel(); //Main.GetFilterViewModel(ItemSourceType);
+            Title = AllItems.Name;
+            Filter = AllItems.GetNewFilterViewModel(); //Main.GetFilterViewModel(ItemSourceType);
             Filter.LoadItemsCommand = LoadItemsCommand;
         }
 
