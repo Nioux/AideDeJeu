@@ -17,7 +17,13 @@ namespace AideDeJeu.ViewModels
         public ItemsViewModel()
         {
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
-            SearchCommand = new Command<string>((text) => Filter.SearchText = text );
+            SearchCommand = new Command<string>((text) =>
+            {
+                if (Filter != null)
+                {
+                    Filter.SearchText = text;
+                }
+            });
         }
         public Command<string> SearchCommand { get; private set; }
         public ICommand LoadItemsCommand { get; protected set; }
@@ -79,7 +85,10 @@ namespace AideDeJeu.ViewModels
                 {
                     Title = _AllItems.Name;
                     Filter = _AllItems.GetNewFilterViewModel();
-                    Filter.LoadItemsCommand = LoadItemsCommand;
+                    if (Filter != null)
+                    {
+                        Filter.LoadItemsCommand = LoadItemsCommand;
+                    }
                 }
             }
         }
@@ -90,8 +99,15 @@ namespace AideDeJeu.ViewModels
             Main.IsLoading = true;
             try
             {
-                var items = await Filter.FilterItems(AllItems, cancellationToken: cancellationToken);
-                Items = items.ToList();
+                if (Filter != null)
+                {
+                    var items = await Filter.FilterItems(AllItems, cancellationToken: cancellationToken);
+                    Items = items.ToList();
+                }
+                else
+                {
+                    Items = AllItems.ToList();
+                }
             }
             catch (OperationCanceledException ex)
             {
