@@ -29,50 +29,16 @@ namespace AideDeJeu.ViewModels
             set => SetProperty(ref _isLoading, value);
         }
 
-        private Dictionary<ItemSourceType, IEnumerable<Item>> _AllItems = new Dictionary<ItemSourceType, IEnumerable<Item>>();
-        public async Task<IEnumerable<Item>> GetAllItemsAsync(ItemSourceType itemSourceType)
+        private Dictionary<string, IEnumerable<Item>> _AllItems = new Dictionary<string, IEnumerable<Item>>();
+        public async Task<IEnumerable<Item>> GetAllItemsAsync(string source)
         {
-            if (!_AllItems.ContainsKey(itemSourceType))
+            if (!_AllItems.ContainsKey(source))
             {
-                string resourceName = null;
-                switch (itemSourceType)
-                {
-                    case ItemSourceType.MonsterVO:
-                        {
-                            resourceName = "monsters_vo";
-                        }
-                        break;
-                    case ItemSourceType.MonsterHD:
-                        {
-                            resourceName = "monsters_hd";
-                        }
-                        break;
-                    case ItemSourceType.SpellVO:
-                        {
-                            resourceName = "spells_vo";
-                        }
-                        break;
-                    case ItemSourceType.SpellHD:
-                        {
-                            resourceName = "spells_hd";
-                        }
-                        break;
-                    case ItemSourceType.ConditionVO:
-                        {
-                            resourceName = "conditions_vo";
-                        }
-                        break;
-                    case ItemSourceType.ConditionHD:
-                        {
-                            resourceName = "conditions_hd";
-                        }
-                        break;
-                }
-                //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{resourceName}.md");
-                var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{resourceName}.md");
-                _AllItems[itemSourceType] = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
+                //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{source}.md");
+                var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{source}.md");
+                _AllItems[source] = Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Item>;
             }
-            return _AllItems[itemSourceType];
+            return _AllItems[source];
         }
 
 
@@ -87,19 +53,23 @@ namespace AideDeJeu.ViewModels
         //    new KeyValuePair<ItemSourceType, string>(ItemSourceType.ConditionVO, "Conditions (VO)"),
         //};
 
-        public Dictionary<ItemSourceType, Func<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Func<ItemsViewModel>>()
-        {
-            { ItemSourceType.SpellVO, () => new ItemsViewModel(ItemSourceType.SpellVO) },
-            { ItemSourceType.SpellHD, () => new ItemsViewModel(ItemSourceType.SpellHD) },
-            { ItemSourceType.MonsterVO, () => new ItemsViewModel(ItemSourceType.MonsterVO) },
-            { ItemSourceType.MonsterHD, () => new ItemsViewModel(ItemSourceType.MonsterHD) },
-            { ItemSourceType.ConditionHD, () => new ItemsViewModel(ItemSourceType.ConditionHD) },
-            { ItemSourceType.ConditionVO, () => new ItemsViewModel(ItemSourceType.ConditionVO) },
-        };
+        //public Dictionary<ItemSourceType, Func<ItemsViewModel>> AllItemsViewModel = new Dictionary<ItemSourceType, Func<ItemsViewModel>>()
+        //{
+        //    { ItemSourceType.SpellVO, () => new ItemsViewModel(ItemSourceType.SpellVO) },
+        //    { ItemSourceType.SpellHD, () => new ItemsViewModel(ItemSourceType.SpellHD) },
+        //    { ItemSourceType.MonsterVO, () => new ItemsViewModel(ItemSourceType.MonsterVO) },
+        //    { ItemSourceType.MonsterHD, () => new ItemsViewModel(ItemSourceType.MonsterHD) },
+        //    { ItemSourceType.ConditionHD, () => new ItemsViewModel(ItemSourceType.ConditionHD) },
+        //    { ItemSourceType.ConditionVO, () => new ItemsViewModel(ItemSourceType.ConditionVO) },
+        //};
 
-        public ItemsViewModel GetItemsViewModel(ItemSourceType itemSourceType)
+        public async Task<ItemsViewModel> GetItemsViewModelAsync(string source)
         {
-            return AllItemsViewModel[itemSourceType].Invoke();
+            var allItems = await GetAllItemsAsync(source);
+            var itemsViewModel = new ItemsViewModel(); //AllItemsViewModel[source].Invoke();
+            itemsViewModel.AllItems = allItems;
+            await itemsViewModel.InitAsync();
+            return itemsViewModel;
         }
 
         public Dictionary<ItemSourceType, Func<FilterViewModel>> AllFiltersViewModel = new Dictionary<ItemSourceType, Func<FilterViewModel>>()
@@ -190,7 +160,7 @@ namespace AideDeJeu.ViewModels
                     var file = match.Groups["file"].Value;
                     var anchor = match.Groups["anchor"].Value;
                     var itemSourceType = MDFileToItemSourceType(file);
-                    var spells = await GetAllItemsAsync(itemSourceType);
+                    var spells = await GetAllItemsAsync(file);
                     var spell = spells.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
                     if (spell != null)
                     {
@@ -202,8 +172,8 @@ namespace AideDeJeu.ViewModels
                     var regex = new Regex("/(?<file>.*)\\.md");
                     var match = regex.Match(s);
                     var file = match.Groups["file"].Value;
-                    var itemSourceType = MDFileToItemSourceType(file);
-                    var items = GetItemsViewModel(itemSourceType);
+                    //var itemSourceType = MDFileToItemSourceType(file);
+                    var items = await GetItemsViewModelAsync(file);
                     items.LoadItemsCommand.Execute(null);
                     await Navigator.GotoItemsPageAsync(items);
                 }

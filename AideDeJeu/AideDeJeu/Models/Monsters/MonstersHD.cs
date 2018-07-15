@@ -9,7 +9,7 @@ namespace AideDeJeuLib
     {
         public override FilterViewModel GetNewFilterViewModel()
         {
-            return new HDSpellFilterViewModel();
+            return new HDMonsterFilterViewModel();
         }
     }
 }
