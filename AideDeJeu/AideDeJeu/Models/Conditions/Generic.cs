@@ -7,7 +7,7 @@ using Markdig.Syntax;
 
 namespace AideDeJeuLib
 {
-    public class Condition : Item
+    public class Generic : Item
     {
         public string Text { get; set; }
 
@@ -35,13 +35,18 @@ namespace AideDeJeuLib
                     //DumpHeadingBlock(headingBlock);
                     if (headingBlock.HeaderChar == '#' && (headingBlock.Level == 1 || headingBlock.Level == 2))
                     {
-                        if (this.Name != null)
+                        if (this.Name == null)
                         {
-                            return;
-                            //yield return spell;
+                            this.Name = headingBlock.Inline.ToMarkdownString();
                         }
-                        this.Name = headingBlock.Inline.ToMarkdownString();
-                        //Console.WriteLine(spell.Name);
+                        else
+                        {
+                            this.Text += new string(headingBlock.HeaderChar, headingBlock.Level) + " " + headingBlock.Inline.ToMarkdownString() + "\n\n";
+                        }
+                    }
+                    else
+                    {
+                        this.Text += new string(headingBlock.HeaderChar, headingBlock.Level) + " " + headingBlock.Inline.ToMarkdownString() + "\n\n";
                     }
                 }
                 if (block is Markdig.Syntax.ParagraphBlock)
@@ -75,9 +80,9 @@ namespace AideDeJeuLib
                                         //DumpParagraphBlock(paragraphBlock);
                                         var str = paragraphBlock.Inline.ToMarkdownString();
 
-                                        var properties = new List<Tuple<string, Action<Condition, string>>>()
+                                        var properties = new List<Tuple<string, Action<Generic, string>>>()
                                         {
-                                            new Tuple<string, Action<Condition, string>>("AltName: ", (m, s) => m.AltName = s),
+                                            new Tuple<string, Action<Generic, string>>("AltName: ", (m, s) => m.AltName = s),
                                         };
 
                                         foreach (var property in properties)

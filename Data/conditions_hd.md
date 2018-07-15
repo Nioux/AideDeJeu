@@ -3,7 +3,7 @@
 
 # États spéciaux
 
-[][Condition]
+[][Generic]
 
 # États spéciaux
 
@@ -18,7 +18,7 @@ Si divers effets imposent un même état à une créature, chaque effet a sa pro
 Les définitions suivantes expliquent les conséquences de chaque état spécial pour une créature ciblée.
 
 
-[][Condition]
+[][Generic]
 
 # À terre
 
@@ -31,7 +31,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un avantage lors de ses attaques contre la créature. Sinon, il subit un désavantage.
 
 
-[][Condition]
+[][Generic]
 
 # Assourdi
 
@@ -40,7 +40,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
 
 
-[][Condition]
+[][Generic]
 
 # Aveuglé
 
@@ -51,7 +51,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque contre la créature bénéficient d'un avantage. Les attaques de la créature subissent un désavantage.
 
 
-[][Condition]
+[][Generic]
 
 # Charmé
 
@@ -62,7 +62,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'individu qui a charmé la créature bénéficie d'un avantage pour toutes les interactions sociales avec celle-ci.
 
 
-[][Condition]
+[][Generic]
 
 # Empoigné
 
@@ -75,7 +75,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'état se termine également si un effet emporte la créature empoignée au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort [vague tonnante](spells_hd.md#vague-tonnante).
 
 
-[][Condition]
+[][Generic]
 
 # Empoisonné
 
@@ -84,7 +84,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses tests de caractéristique.
 
 
-[][Condition]
+[][Generic]
 
 # Entravé
 
@@ -97,7 +97,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature souffre d'un désavantage lors de ses jets de sauvegarde de Dextérité.
 
 
-[][Condition]
+[][Generic]
 
 # Étourdi
 
@@ -110,7 +110,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque qui visent la créature se font avec un avantage.
 
 
-[][Condition]
+[][Generic]
 
 # Inconscient
 
@@ -129,7 +129,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
-[][Condition]
+[][Generic]
 
 # Invisible
 
@@ -140,7 +140,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les attaques visant une créature invisible souffrent d'un désavantage tandis que les attaques de la créature bénéficient d'un avantage.
 
 
-[][Condition]
+[][Generic]
 
 # Neutralisé
 
@@ -149,7 +149,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Une créature neutralisée est incapable d'effectuer une action ou une réaction.
 
 
-[][Condition]
+[][Generic]
 
 # Paralysé
 
@@ -164,7 +164,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
-[][Condition]
+[][Generic]
 
 # Pétrifié
 
@@ -183,7 +183,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est immunisée contre le poison et les maladies, mais les poisons et maladies qui l'affectent déjà ne sont pas neutralisés, leurs effets sont juste suspendus.
 
 
-[][Condition]
+[][Generic]
 
 # Terrorisé
 
@@ -194,7 +194,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est incapable de se rapprocher de la source de sa frayeur de son plein gré.
 
 
-[][Condition]
+[][Generic]
 
 # Fatigue et épuisement
 
@@ -220,4 +220,4 @@ Un effet qui réduit l’épuisement diminue son niveau du montant indiqué dans
 Une fois terminé, un repos long réduit le niveau d’épuisement d’une créature de 1, à condition qu’elle ait eu à boire et à manger.
 
 [Items]: #
-[Condition]: #
+[Generic]: #

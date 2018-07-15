@@ -3,7 +3,7 @@
 
 # Conditions
 
-[][Condition]
+[][Generic]
 
 # Conditions
 
@@ -18,7 +18,7 @@ If multiple effects impose the same condition on a creature, each instance of th
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
 
-[][Condition]
+[][Generic]
 
 # Blinded
 
@@ -29,7 +29,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
 
 
-[][Condition]
+[][Generic]
 
 # Charmed
 
@@ -40,7 +40,7 @@ The following definitions specify what happens to a creature while it is subject
 * The charmer has advantage on any ability check to interact socially with the creature.
 
 
-[][Condition]
+[][Generic]
 
 # Deafened
 
@@ -49,7 +49,7 @@ The following definitions specify what happens to a creature while it is subject
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
 
 
-[][Condition]
+[][Generic]
 
 # Frightened
 
@@ -60,7 +60,7 @@ The following definitions specify what happens to a creature while it is subject
 * The creature can't willingly move closer to the source of its fear.
 
 
-[][Condition]
+[][Generic]
 
 # Grappled
 
@@ -73,7 +73,7 @@ The following definitions specify what happens to a creature while it is subject
 * The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunder-wave](spells_vo.md#thunderwave) spell.
 
 
-[][Condition]
+[][Generic]
 
 # Incapacitated
 
@@ -82,7 +82,7 @@ The following definitions specify what happens to a creature while it is subject
 * An incapacitated creature can't take actions or reactions.
 
 
-[][Condition]
+[][Generic]
 
 # Invisible
 
@@ -93,7 +93,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
 
 
-[][Condition]
+[][Generic]
 
 # Paralyzed
 
@@ -108,7 +108,7 @@ The following definitions specify what happens to a creature while it is subject
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 
-[][Condition]
+[][Generic]
 
 # Petrified
 
@@ -127,7 +127,7 @@ The following definitions specify what happens to a creature while it is subject
 * The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
 
-[][Condition]
+[][Generic]
 
 # Poisoned
 
@@ -136,7 +136,7 @@ The following definitions specify what happens to a creature while it is subject
 * A poisoned creature has disadvantage on attack rolls and ability checks.
 
 
-[][Condition]
+[][Generic]
 
 # Prone
 
@@ -149,7 +149,7 @@ The following definitions specify what happens to a creature while it is subject
 * An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
 
 
-[][Condition]
+[][Generic]
 
 # Restrained
 
@@ -162,7 +162,7 @@ The following definitions specify what happens to a creature while it is subject
 * The creature has disadvantage on Dexterity saving throws.
 
 
-[][Condition]
+[][Generic]
 
 # Stunned
 
@@ -175,7 +175,7 @@ The following definitions specify what happens to a creature while it is subject
 * Attack rolls against the creature have advantage.
 
 
-[][Condition]
+[][Generic]
 
 # Unconscious
 
@@ -192,7 +192,7 @@ The following definitions specify what happens to a creature while it is subject
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 
-[][Condition]
+[][Generic]
 
 # Exhaustion
 
@@ -220,4 +220,4 @@ An effect that removes exhaustion reduces its level as specified in the effect's
 Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
 
 [Items]: #
-[Condition]: #
+[Generic]: #
