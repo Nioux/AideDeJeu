@@ -121,12 +121,12 @@ Par exemple, un test de Dextérité peut refléter la tentative d’un personnag
 Les compétences liées à chaque valeur de caractéristique sont présentées dans la liste ci-dessous. Aucune compétence n’est associée à la Constitution. Plus loin dans ce chapitre, vous pourrez trouver un descriptif de chaque caractéristique avec des exemples de l’utilisation des compétences associées.
 
 * [Force]
- * Athlétisme
+  * Athlétisme
 
 * [Dextérité]
- * Acrobaties
- * Discrétion
- * Escamotage
+  * Acrobaties
+  * Discrétion
+  * Escamotage
 
 * [Intelligence]
 ** Arcanes
