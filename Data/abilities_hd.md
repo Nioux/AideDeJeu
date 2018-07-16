@@ -120,33 +120,33 @@ Par exemple, un test de Dextérité peut refléter la tentative d’un personnag
 
 Les compétences liées à chaque valeur de caractéristique sont présentées dans la liste ci-dessous. Aucune compétence n’est associée à la Constitution. Plus loin dans ce chapitre, vous pourrez trouver un descriptif de chaque caractéristique avec des exemples de l’utilisation des compétences associées.
 
-### [Force]
-* Athlétisme
+* [Force]
+** Athlétisme
 
-### [Dextérité]
-* Acrobaties
-* Discrétion
-* Escamotage
+* [Dextérité]
+** Acrobaties
+** Discrétion
+** Escamotage
 
-### [Intelligence]
-* Arcanes
-* Histoire
-* Investigation
-* Nature
-* Religion
+* [Intelligence]
+** Arcanes
+** Histoire
+** Investigation
+** Nature
+** Religion
 
-### [Sagesse]
-* Dressage
-* Médecine
-* Perception
-* Perspicacité
-* Survie
+* [Sagesse]
+** Dressage
+** Médecine
+** Perception
+** Perspicacité
+** Survie
 
-### [Charisme]
-* Intimidation
-* Persuasion
-* Représentation
-* Supercherie
+* [Charisme]
+** Intimidation
+** Persuasion
+** Représentation
+** Supercherie
 
 Il peut arriver que le MJ demande un test de caractéristique lié à une compétence spécifique. Par exemple, un test de Sagesse (Perception). Un joueur peut aussi demander au MJ si sa maîtrise d’une compétence donnée s’applique à un test. Dans les deux cas, la maîtrise d’une compétence permet à un personnage d’ajouter son bonus de maîtrise au test de caractéristique lié à cette compétence. S’il ne maîtrise pas la compétence, le personnage fait un test de caractéristique normal.
 
@@ -430,6 +430,7 @@ Le résultat d’un jet de sauvegarde réussi ou raté est indiqué dans la desc
 [Intelligence]: abilities_hd.md#intelligence
 [Sagesse]: abilities_hd.md#sagesse
 [Charisme]: abilities_hd.md#charisme
+[Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 [Items]: #
 [Generic]: #
