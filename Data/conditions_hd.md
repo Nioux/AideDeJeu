@@ -219,5 +219,13 @@ Un effet qui réduit l’épuisement diminue son niveau du montant indiqué dans
 
 Une fois terminé, un repos long réduit le niveau d’épuisement d’une créature de 1, à condition qu’elle ait eu à boire et à manger.
 
+[Force]: abilities_hd.md#force
+[Dextérité]: abilities_hd.md#dextérité
+[Constitution]: abilities_hd.md#constitution
+[Intelligence]: abilities_hd.md#intelligence
+[Sagesse]: abilities_hd.md#sagesse
+[Charisme]: abilities_hd.md#charisme
+[Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 [Items]: #
 [Generic]: #

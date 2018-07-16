@@ -22,9 +22,9 @@ Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et
 
 Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transporte change de taille avec elle. En revanche, si elle lâche un objet, il reprend sa taille normale sur-le-champ.
 
-**_Agrandir._** La cible double dans toutes les dimensions, et son poids est multiplié par huit. Cette croissance augmente sa catégorie de taille d'un cran, de M à G par exemple. Si la cible n'a pas assez de place pour doubler de volume, elle atteint la taille maximale possible dans l'espace dont elle dispose. Elle bénéficie d'un avantage lors des tests de Force et des jets de sauvegarde de Force jusqu'à la fin du sort. Les armes de la cible grandissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi agrandies, elles infligent 1d4 dégâts de plus.
+**_Agrandir._** La cible double dans toutes les dimensions, et son poids est multiplié par huit. Cette croissance augmente sa catégorie de taille d'un cran, de M à G par exemple. Si la cible n'a pas assez de place pour doubler de volume, elle atteint la taille maximale possible dans l'espace dont elle dispose. Elle bénéficie d'un avantage lors des tests de [Force] et des jets de sauvegarde de [Force] jusqu'à la fin du sort. Les armes de la cible grandissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi agrandies, elles infligent 1d4 dégâts de plus.
 
-**_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de Force et des jets de sauvegarde de Force jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
+**_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de [Force] et des jets de sauvegarde de [Force] jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
 
 
@@ -120,7 +120,7 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 **_Endurance de l'ours._** La cible a l'avantage lors des tests de Constitution. Elle gagne aussi 2d6 points de vie temporaires qui disparaissent quand le sort se termine.
 
-**_Force du taureau._** La cible bénéficie d'un avantage lors des tests de Force et le poids qu'elle peut porter est doublé.
+**_Force du taureau._** La cible bénéficie d'un avantage lors des tests de [Force] et le poids qu'elle peut porter est doublé.
 
 **_Grâce du chat._** La cible a l'avantage lors des tests de Dextérité. De plus, elle ne subit pas de dégât quand elle chute de 6 mètres ou moins, à condition qu'elle ne soit pas [neutralisée].
 
@@ -206,7 +206,7 @@ Par une action bonus, vous pouvez donner un ordre mental à toute créature cré
 |Grande|50|10|+6 pour toucher, 2d10+2 dégâts|14|10|
 |Très grande|80|10|+8 pour toucher, 2d12+4 dégâts|18|6|
 
-Un objet animé est une créature artificielle avec une CA, des points de vie, des attaques, une Force et une Dextérité déterminés par sa taille. Sa Constitution est de 10 tandis que son Intelligence et sa Sagesse sont de 3 et son Charisme de 1. Il a une vitesse de 9 mètres. S'il est dépourvu de patte ou d'appendice susceptible de lui permettre de se mouvoir, il gagne à la place la capacité de voler à une vitesse de 9 mètres et peut utiliser le vol stationnaire. Si l'objet est solidement attaché à une surface ou à un objet de plus grande taille, comme une chaîne vissée à un mur, sa vitesse est de 0. L'objet possède la vision aveugle dans un rayon de 9 mètres ; au-delà, il est aveugle.
+Un objet animé est une créature artificielle avec une CA, des points de vie, des attaques, une [Force] et une Dextérité déterminés par sa taille. Sa Constitution est de 10 tandis que son Intelligence et sa Sagesse sont de 3 et son Charisme de 1. Il a une vitesse de 9 mètres. S'il est dépourvu de patte ou d'appendice susceptible de lui permettre de se mouvoir, il gagne à la place la capacité de voler à une vitesse de 9 mètres et peut utiliser le vol stationnaire. Si l'objet est solidement attaché à une surface ou à un objet de plus grande taille, comme une chaîne vissée à un mur, sa vitesse est de 0. L'objet possède la vision aveugle dans un rayon de 9 mètres ; au-delà, il est aveugle.
 
 Quand l'objet animé tombe à 0 point de vie, il reprend sa forme initiale et tout dégât en surplus est infligé à celle-ci.
 
@@ -552,7 +552,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 ### Description
 
-Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un avantage à tous les tests et les jets de sauvegarde de Force.
+Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un avantage à tous les tests et les jets de sauvegarde de [Force].
 
 
 
@@ -952,7 +952,7 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 
 ### Description
 
-Une zone de fort vent de 18 mètres de long sur 3 mètres de large souffle depuis votre position dans la direction de votre choix pendant toute la durée du sort. Chaque créature qui débute son tour dans la zone doit réussir un jet de sauvegarde de Force, sans quoi elle est rejetée de 4,50 mètres à l'opposé de vous, dans la direction du vent.
+Une zone de fort vent de 18 mètres de long sur 3 mètres de large souffle depuis votre position dans la direction de votre choix pendant toute la durée du sort. Chaque créature qui débute son tour dans la zone doit réussir un jet de sauvegarde de [Force], sans quoi elle est rejetée de 4,50 mètres à l'opposé de vous, dans la direction du vent.
 
 Une créature qui se trouve dans la zone doit dépenser 60 centimètres de mouvement pour se rapprocher de vous de 30 centimètres.
 
@@ -1544,7 +1544,7 @@ Vous créez un piège qui s'enroule autour d'un ou plusieurs membres de l'indivi
 
 Elle peut se relever normalement avec sa prochaine action.
 
-Une créature [entravée] peut utiliser son action à chaque tour pour faire un nouveau jet de sauvegarde de Dextérité ou de Force au choix afin de se délivrer. Toutefois, à chaque fois qu'elle lutte pour échapper aux liens, ceux-ci se resserrent et lui infligent 1d6 dégâts tranchants. Tant qu'elle n'essaye pas de se délivrer, elle ne subit pas de dégât.
+Une créature [entravée] peut utiliser son action à chaque tour pour faire un nouveau jet de sauvegarde de Dextérité ou de [Force] au choix afin de se délivrer. Toutefois, à chaque fois qu'elle lutte pour échapper aux liens, ceux-ci se resserrent et lui infligent 1d6 dégâts tranchants. Tant qu'elle n'essaye pas de se délivrer, elle ne subit pas de dégât.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, le sort affecte une cible supplémentaire par niveau au-delà du niveau 2.
 
@@ -1901,7 +1901,7 @@ Comme le sort déclenche une maladie naturelle chez la cible, tout effet qui gu�
 
 Elle subit un désavantage lors des tests de Dextérité, des jets de sauvegarde de Dextérité et des jets d'attaque basés sur la Dextérité.
 
-**_Fièvre répugnante._** Une forte fièvre s'empare de la créature, qui est affectée par un désavantage lors des tests de Force, des jets de sauvegarde de Force et des jets d'attaque basés sur la Force.
+**_Fièvre répugnante._** Une forte fièvre s'empare de la créature, qui est affectée par un désavantage lors des tests de [Force], des jets de sauvegarde de [Force] et des jets d'attaque basés sur la [Force].
 
 **_Mal aveuglant._** La créature est en proie à de violentes douleurs cérébrales et ses yeux deviennent d'un blanc laiteux.
 
@@ -2005,9 +2005,9 @@ Le niveau de l'eau reste plus élevé jusqu'à la fin du sort ou jusqu'à ce que
 
 **_Modifier le cours de l'eau._** Vous changez l'itinéraire de l'eau courante qui traverse la zone et l'envoyez dans la direction de votre choix, même si elle doit pour cela franchir des obstacles comme passer par-dessus un mur ou couler dans une direction improbable. L'eau suit vos instructions dans la zone affectée mais, dès qu'elle en sort, elle reprend un cours normal défini par le terrain qu'elle parcourt. L'eau continue de couler là où vous l'avez choisi jusqu'à la fin du sort ou jusqu'à ce que vous décidiez d'un autre effet.
 
-**_Tourbillon._** Cet effet nécessite une étendue d'eau d'au moins 15 mètres carrés pour 7,50 mètres de fond et se traduit par la formation d'un tourbillon au centre de la zone. Il se présente sous forme d'un vortex de 1,50 mètre de large à sa base pour un maximum de 15 mètres de large au sommet et une hauteur de 7,50 mètres. Toutes les créatures et tous les objets qui se trouvent dans l'eau et dans un rayon de 7,50 mètres autour du tourbillon sont entraînés vers lui sur 3 mètres. Une créature peut s'éloigner à la nage si elle réussit un test de Force (Athlétisme) contre le DD du jet de sauvegarde de votre sort.
+**_Tourbillon._** Cet effet nécessite une étendue d'eau d'au moins 15 mètres carrés pour 7,50 mètres de fond et se traduit par la formation d'un tourbillon au centre de la zone. Il se présente sous forme d'un vortex de 1,50 mètre de large à sa base pour un maximum de 15 mètres de large au sommet et une hauteur de 7,50 mètres. Toutes les créatures et tous les objets qui se trouvent dans l'eau et dans un rayon de 7,50 mètres autour du tourbillon sont entraînés vers lui sur 3 mètres. Une créature peut s'éloigner à la nage si elle réussit un test de [Force] (Athlétisme) contre le DD du jet de sauvegarde de votre sort.
 
-Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un jet de sauvegarde de Force. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de Force (Athlétisme). À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
+Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un jet de sauvegarde de [Force]. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de [Force] (Athlétisme). À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
 
 
 
@@ -2975,7 +2975,7 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 
 Des herbes et des lianes entremêlées jaillissent du sol dans un carré de 6 mètres de côté centré sur un point de votre choix à portée. Pendant toute la durée du sort, les végétaux transforment la zone en terrain difficile.
 
-Une créature qui se trouve dans la zone affectée lorsque vous lancez le sort doit réussir un jet de sauvegarde de Force, sans quoi elle reste [entravée] dans les plantes jusqu'à ce que le sort se termine. Une créature [entravée] peut utiliser une action pour faire un test de Force contre le DD du sort. Si elle réussit, elle se libère.
+Une créature qui se trouve dans la zone affectée lorsque vous lancez le sort doit réussir un jet de sauvegarde de [Force], sans quoi elle reste [entravée] dans les plantes jusqu'à ce que le sort se termine. Une créature [entravée] peut utiliser une action pour faire un test de [Force] contre le DD du sort. Si elle réussit, elle se libère.
 
 Quand le sort se termine, les plantes invoquées flétrissent.
 
@@ -3551,7 +3551,7 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 
 Vous touchez une créature consentante et la transformez, ainsi que tous les objets qu'elle porte et qu'elle transporte, en nuage brumeux pour toute la durée du sort. Ce dernier se termine si la créature tombe à 0 point de vie. Le sort n'affecte pas les créatures intangibles.
 
-Sous cette forme, la cible n'a plus qu'un seul mode de déplacement : le vol, à une vitesse de 3 mètres. Elle peut entrer dans l'espace d'une autre créature et l'occuper. Elle est résistante aux dégâts non magiques et elle bénéficie d'un avantage lors des jets de sauvegarde de Force, de Dextérité et de Constitution. Elle peut passer à travers de petits trous, de minces ouvertures et même de simples fissures.
+Sous cette forme, la cible n'a plus qu'un seul mode de déplacement : le vol, à une vitesse de 3 mètres. Elle peut entrer dans l'espace d'une autre créature et l'occuper. Elle est résistante aux dégâts non magiques et elle bénéficie d'un avantage lors des jets de sauvegarde de [Force], de Dextérité et de Constitution. Elle peut passer à travers de petits trous, de minces ouvertures et même de simples fissures.
 
 En revanche, les liquides équivalent pour elle à des surfaces solides. Elle ne peut pas tomber et continue de flotter dans les airs même si elle est [étourdie] ou [neutralisée].
 
@@ -3619,7 +3619,7 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 
 Le type de dégâts supplémentaires infligés et la nature de l'effet dépendent du type de dégâts infligés par votre arme (par exemple, tranchant pour une épée, contondant pour un marteau) : 
 
-* Contondant : dégâts de tonnerre et jet de sauvegarde de Force ou [assourdi] pendant 1 round et à terre.
+* Contondant : dégâts de tonnerre et jet de sauvegarde de [Force] ou [assourdi] pendant 1 round et à terre.
 
 * Perçant : dégâts psychiques et jet de sauvegarde de Sagesse ou effrayé pendant 1 round.
 
@@ -3785,7 +3785,7 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 
 ### Description
 
-La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre Force pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Le dé de dégâts de l'arme devient un d8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.
+La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre [Force] pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Le dé de dégâts de l'arme devient un d8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.
 
 
 
@@ -4757,9 +4757,9 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 
 Vous invoquez une liane mobile dotée de sarments flexibles et vous la contrôlez pendant toute la durée du sort. Sa vitesse de déplacement est de 1,50 mètre et son allonge est de 3 mètres. La liane se détend subitement lorsque qu'un adversaire passe à sa portée.
 
-La victime doit réussir un jet de sauvegarde de Force ou subir 1d6+7 dégâts contondants et être [entravée]. À son tour, la cible peut effectuer un jet de sauvegarde de Force pour se libérer en utilisant une action bonus.
+La victime doit réussir un jet de sauvegarde de [Force] ou subir 1d6+7 dégâts contondants et être [entravée]. À son tour, la cible peut effectuer un jet de sauvegarde de [Force] pour se libérer en utilisant une action bonus.
 
-La liane a le profil suivant : CA 15, points de vie 30, Force 20 (+5), résistance au feu et au froid, immunité à la foudre.
+La liane a le profil suivant : CA 15, points de vie 30, [Force] 20 (+5), résistance au feu et au froid, immunité à la foudre.
 
 
 
@@ -5043,15 +5043,15 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 
 Vous créez une main de force luisante et translucide, de taille G, dans un espace inoccupé situé à portée et dans votre champ de vision. La main existe pendant toute la durée du sort, se déplace sur votre ordre et imite les mouvements de votre propre main.
 
-La main est un objet doté d'une CA de 20 et d'un nombre de points de vie égal à votre maximum de points de vie. Si elle tombe à 0 point de vie, le sort se dissipe. La main possède une Force de 26 (+8) et une Dextérité de 10 (+0). Elle n'occupe pas la case où elle se trouve.
+La main est un objet doté d'une CA de 20 et d'un nombre de points de vie égal à votre maximum de points de vie. Si elle tombe à 0 point de vie, le sort se dissipe. La main possède une [Force] de 26 (+8) et une Dextérité de 10 (+0). Elle n'occupe pas la case où elle se trouve.
 
 Lorsque vous lancez le sort, puis via une action bonus lors de vos tours ultérieurs, vous pouvez déplacer la main sur une distance maximale de 18 mètres et lui faire appliquer l'un des effets suivants.
 
-**_Main agrippeuse._** La main tente d'empoigner une créature de taille TG ou inférieure qui se trouve dans un rayon de 1,50 mètre. Utilisez la valeur de Force de la main pour résoudre le test d'empoignade. Si la cible est de taille M ou inférieure, vous bénéficiez d'un avantage lors du test. Tant que la cible est [empoignée] par la main, vous pouvez utiliser une action bonus pour que la main la broie. Dans ce cas, la cible subit un total de dégâts contondants égal à 2d6 + votre modificateur de caractéristique d'incantation.
+**_Main agrippeuse._** La main tente d'empoigner une créature de taille TG ou inférieure qui se trouve dans un rayon de 1,50 mètre. Utilisez la valeur de [Force] de la main pour résoudre le test d'empoignade. Si la cible est de taille M ou inférieure, vous bénéficiez d'un avantage lors du test. Tant que la cible est [empoignée] par la main, vous pouvez utiliser une action bonus pour que la main la broie. Dans ce cas, la cible subit un total de dégâts contondants égal à 2d6 + votre modificateur de caractéristique d'incantation.
 
-**_Main interposée._** La main s'interpose entre vous et une créature de votre choix jusqu'à ce que vous lui donniez un autre ordre. Elle se déplace de manière à toujours rester entre vous et la cible désignée et vous offre un abri partiel contre elle. La cible ne peut pas franchir la zone occupée par la main si sa valeur de Force est inférieure ou égale à celle de la main. Si elle est supérieure, elle peut se déplacer dans votre direction en traversant la zone de la main, mais cette zone est considérée pour elle comme un terrain difficile.
+**_Main interposée._** La main s'interpose entre vous et une créature de votre choix jusqu'à ce que vous lui donniez un autre ordre. Elle se déplace de manière à toujours rester entre vous et la cible désignée et vous offre un abri partiel contre elle. La cible ne peut pas franchir la zone occupée par la main si sa valeur de [Force] est inférieure ou égale à celle de la main. Si elle est supérieure, elle peut se déplacer dans votre direction en traversant la zone de la main, mais cette zone est considérée pour elle comme un terrain difficile.
 
-**_Main percutante._** La main tente de bousculer une créature située dans un rayon de 1,50 mètre dans la direction de votre choix. Faites un test avec la Force de la main opposé au test de Force (Athlétisme) de la cible.
+**_Main percutante._** La main tente de bousculer une créature située dans un rayon de 1,50 mètre dans la direction de votre choix. Faites un test avec la [Force] de la main opposé au test de [Force] (Athlétisme) de la cible.
 
 Si cette dernière est de taille M ou inférieur, vous bénéficiez d'un avantage lors du test. Si vous l'emportez, la main pousse la cible sur 1,50 mètre plus 1,50 mètre multiplié par votre modificateur de caractéristique d'incantation. La main se déplace de manière à rester à moins de 1,50 mètre de la cible.
 
@@ -5713,7 +5713,7 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 
 Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à portée. Vous pouvez lui faire couvrir jusqu'à 15 mètres de long, 4,50 mètres de haut et 30 centimètres d'épaisseur. Vous pouvez lui donner la forme que vous voulez tant qu'il dessine un chemin continu au sol. Ce mur persiste pendant toute la durée du sort.
 
-Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un jet de sauvegarde de Force. Les créatures qui échouent subissent 3d8 dégâts contondants, les autres la moitié seulement.
+Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un jet de sauvegarde de [Force]. Les créatures qui échouent subissent 3d8 dégâts contondants, les autres la moitié seulement.
 
 Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les créatures et objets volants de taille P ou inférieure ne peuvent pas traverser le mur. Les matériaux libres et légers s'envolent si on les apporte dans le mur. Les flèches, les carreaux et autres projectiles ordinaires visant une cible située derrière le mur sont systématiquement détournés vers le haut et ratent automatiquement leur cible. (Ce phénomène n'affecte pas les rochers que lancent les géants ou les engins de siège, ni les projectiles similaires.) Les créatures sous forme gazeuse ne peuvent pas franchir le mur.
 
@@ -6811,7 +6811,7 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 
 ### Description
 
-Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d'une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, la créature inflige seulement la moitié des dégâts habituels lorsqu'elle attaque avec une arme basée sur la Force.
+Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d'une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, la créature inflige seulement la moitié des dégâts habituels lorsqu'elle attaque avec une arme basée sur la [Force].
 
 La cible a droit à un jet de sauvegarde de Constitution contre le sort à la fin de chacun de ses tours. Le sort se termine si elle réussit.
 
@@ -7453,7 +7453,7 @@ Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce
 
 ### Description
 
-Ce sort crée une force [invisible], dépourvue de forme et d'intellect, mais capable d'accomplir des tâches simples sur votre ordre jusqu'à la fin du sort. Le serviteur se matérialise au sol, dans un emplacement inoccupé situé à portée. Il a une CA de 10, 1 pv, une Force de 2 et il est incapable d'attaquer. S'il tombe à 0 point de vie, le sort se termine.
+Ce sort crée une force [invisible], dépourvue de forme et d'intellect, mais capable d'accomplir des tâches simples sur votre ordre jusqu'à la fin du sort. Le serviteur se matérialise au sol, dans un emplacement inoccupé situé à portée. Il a une CA de 10, 1 pv, une [Force] de 2 et il est incapable d'attaquer. S'il tombe à 0 point de vie, le sort se termine.
 
 Une fois à chacun de vos tours, vous pouvez utiliser une action bonus pour ordonner mentalement à votre serviteur de se déplacer d'un maximum de 4,50 mètres et d'interagir avec un objet. Le serviteur peut accomplir des tâches simples à la portée d'un domestique humain, comme aller chercher des affaires, faire le ménage, repriser, plier les habits, allumer la cheminée, servir les plats et la boisson, etc. Une fois que vous avez donné votre ordre, il fait de son mieux pour y obéir jusqu'à ce qu'il ait terminé. Il attend alors l'ordre suivant.
 
@@ -7627,7 +7627,7 @@ Ce sort peut également vous permettre d'accomplir des exploits dépassant le ca
 
 Formulez votre souhait à votre MJ de la manière la plus précise possible. Le MJ dispose d'une grande liberté pour gérer ce genre de cas. Plus le souhait est important, plus il y a de chances que quelque chose tourne mal. Le sort peut tout simplement échouer, avoir des effets partiels seulement ou s'accompagner de conséquences inattendues en raison de la manière dont vous l'avez formulé. Par exemple, si vous souhaitez qu'un adversaire soit mort, vous pouvez très bien être projeté en avant dans le temps, à une période où il est décédé, ce qui, en pratique, vous élimine de la partie en cours de jeu. Et si vous souhaitez obtenir un objet magique légendaire ou un artefact mythique, vous pourriez très bien être instantanément transporté en sa présence, et en celle de son propriétaire actuel.
 
-Le stress lié à l'incantation d'un souhait pour faire autre chose que répliquer un autre sort vous affaiblit grandement. À tel point que vous subissez 1d10 dégâts nécrotiques par niveau de sort à chaque fois que vous lancez un autre sort par la suite, et ce jusqu'à ce que vous ayez terminé un repos long. Il est absolument impossible de réduire ces dégâts ou de les empêcher, de quelque manière que ce soit. De plus, votre Force tombe à 3 (si elle n'est pas déjà de 3 ou moins) pendant 2d4 jours. À chaque fois que vous passez une de ces journées à vous reposer et ne rien faire de plus que des activités légères, le temps de récupération qui vous reste diminue de 2 jours. Enfin, suite à ce stress, il y a 33 % de chances que vous ne puissiez plus jamais lancer souhait.
+Le stress lié à l'incantation d'un souhait pour faire autre chose que répliquer un autre sort vous affaiblit grandement. À tel point que vous subissez 1d10 dégâts nécrotiques par niveau de sort à chaque fois que vous lancez un autre sort par la suite, et ce jusqu'à ce que vous ayez terminé un repos long. Il est absolument impossible de réduire ces dégâts ou de les empêcher, de quelque manière que ce soit. De plus, votre [Force] tombe à 3 (si elle n'est pas déjà de 3 ou moins) pendant 2d4 jours. À chaque fois que vous passez une de ces journées à vous reposer et ne rien faire de plus que des activités légères, le temps de récupération qui vous reste diminue de 2 jours. Enfin, suite à ce stress, il y a 33 % de chances que vous ne puissiez plus jamais lancer souhait.
 
 
 
@@ -7673,7 +7673,7 @@ Un globe d'énergie gelée jaillit de la pointe de votre doigt tendu et file ver
 
 Si le globe frappe une surface aqueuse ou un liquide principalement constitué d'eau (ce qui n'inclut pas les créatures majoritairement composées d'eau), il gèle le liquide sur une épaisseur de 15 centimètres dans une zone de 9 mètres de côté. La glace subsiste une minute.
 
-Les créatures qui nageaient à la surface de l'étendue d'eau se retrouvent prises dans la glace. Une telle créature peut utiliser une action pour faire un test de Force contre le DD du jet de sauvegarde de votre sort afin de se libérer.
+Les créatures qui nageaient à la surface de l'étendue d'eau se retrouvent prises dans la glace. Une telle créature peut utiliser une action pour faire un test de [Force] contre le DD du jet de sauvegarde de votre sort afin de se libérer.
 
 Une fois que vous avez terminé l'incantation, vous pouvez attendre avant de lancer le globe. Dans ce cas, il ressemble à une bille de fronde glacée qui reste dans votre main. Vous pouvez alors le lancer à la main (à une portée de 12 mètres), avec une fronde (selon la portée habituelle de cette fronde) ou le donner à une créature qui peut faire de même. Le globe se brise à l'impact, explosant comme décrit dans la version normale du sort.
 
@@ -7725,7 +7725,7 @@ Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce
 
 ### Description
 
-Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres dans une zone carrée de 3 mètres d'arête à portée du sort. Si elles atteignent le plafond avant d'atteindre leur taille maximale, les stalagmites cessent de grandir. Chaque créature dans la zone doit effectuer une sauvegarde de Dextérité. Une créature volant à moins de 3 mètres du sol bénéficie d'un avantage sur ce jet. En cas d'échec, les stalagmites infligent 4d4 dégâts perforants et la cible se retrouve [entravée] entre les stalagmites jusqu'à la fin du sort. En cas de succès, elle ne subit que la moitié des dégâts et est libre ses mouvements. Une cible [entravée] par les stalagmites peut utiliser une action pour effectuer une sauvegarde de Force. En cas de réussite, la créature se libère, mais subit 1d6 dégâts contondants. Pour la durée du sort, le terrain où se trouvent les stalagmites est considéré comme difficile.
+Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres dans une zone carrée de 3 mètres d'arête à portée du sort. Si elles atteignent le plafond avant d'atteindre leur taille maximale, les stalagmites cessent de grandir. Chaque créature dans la zone doit effectuer une sauvegarde de Dextérité. Une créature volant à moins de 3 mètres du sol bénéficie d'un avantage sur ce jet. En cas d'échec, les stalagmites infligent 4d4 dégâts perforants et la cible se retrouve [entravée] entre les stalagmites jusqu'à la fin du sort. En cas de succès, elle ne subit que la moitié des dégâts et est libre ses mouvements. Une cible [entravée] par les stalagmites peut utiliser une action pour effectuer une sauvegarde de [Force]. En cas de réussite, la créature se libère, mais subit 1d6 dégâts contondants. Pour la durée du sort, le terrain où se trouvent les stalagmites est considéré comme difficile.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts perforants augmentent de 2d4 pour chaque niveau au-delà du niveau 2.
 
@@ -7745,7 +7745,7 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 
 ### Description
 
-Vous tendez le bras en direction de votre cible et, de votre main, vous mimez son étranglement. Faites une attaque de sort à distance. En cas de réussite, la cible subit 1d6 points de dégâts contondants et elle doit faire un jet de sauvegarde de Force ou être [entravée]. Si le jet d'attaque initial était un succès, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement les mêmes dégâts et l'obliger à faire un nouveau jet de sauvegarde de Force. Si vous faites quoi que ce soit d'autre (vous pouvez toutefois parler), le sort prend fin. Le sort prend aussi fin si la cible passe hors de portée ou en dehors de votre champ de vision.
+Vous tendez le bras en direction de votre cible et, de votre main, vous mimez son étranglement. Faites une attaque de sort à distance. En cas de réussite, la cible subit 1d6 points de dégâts contondants et elle doit faire un jet de sauvegarde de [Force] ou être [entravée]. Si le jet d'attaque initial était un succès, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement les mêmes dégâts et l'obliger à faire un nouveau jet de sauvegarde de [Force]. Si vous faites quoi que ce soit d'autre (vous pouvez toutefois parler), le sort prend fin. Le sort prend aussi fin si la cible passe hors de portée ou en dehors de votre champ de vision.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3, vous infligez 2d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par tranche de 2 niveaux de plus (jusqu'à 5d6 au niveau 9).
 
@@ -7867,13 +7867,13 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 
 Vous devenez capable de déplacer ou de manipuler des créatures ou des objets par la pensée. Lorsque vous lancez ce sort, puis en tant qu'action à chaque round pendant toute la durée du sort, vous pouvez exercer votre force de volonté sur une créature ou un objet situés à portée et dans votre champ de vision, ce qui provoque l'effet approprié indiqué plus bas. Vous pouvez affecter la même cible, round après round, ou en choisir une nouvelle quand vous le désirez. Si vous changez de cible, la précédente n'est plus affectée.
 
-**_Créatures._** Vous pouvez essayer de déplacer une créature de taille TG ou inférieure. Faites un test de caractéristique avec votre caractéristique d'incantation, opposé à un test de Force de la cible. Si vous l'emportez, vous déplacez la créature d'un maximum de 9 mètres dans la direction de votre choix, y compris en hauteur, mais pas hors de portée du sort. Jusqu'à la fin de votre prochain tour, la créature est [entravée] dans votre étreinte télékinétique. Une créature soulevée dans les airs reste suspendue dans le vide.
+**_Créatures._** Vous pouvez essayer de déplacer une créature de taille TG ou inférieure. Faites un test de caractéristique avec votre caractéristique d'incantation, opposé à un test de [Force] de la cible. Si vous l'emportez, vous déplacez la créature d'un maximum de 9 mètres dans la direction de votre choix, y compris en hauteur, mais pas hors de portée du sort. Jusqu'à la fin de votre prochain tour, la créature est [entravée] dans votre étreinte télékinétique. Une créature soulevée dans les airs reste suspendue dans le vide.
 
 Lors des rounds suivants, vous pouvez utiliser votre action pour maintenir votre prise télékinétique sur la cible en répétant les tests opposés.
 
 **_Objets._** Vous pouvez essayer de déplacer un objet pesant au maximum 500 kilogrammes. Si cet objet n'est ni porté ni transporté, vous le déplacez automatiquement d'un maximum de 9 mètres dans la direction de votre choix, mais pas hors de portée du sort.
 
-Si l'objet est porté ou transporté par une créature, faites un test de caractéristique avec votre caractéristique d'incantation, opposé à un test de Force de cette créature. Si vous l'emportez, vous éloignez l'objet de cette créature sur un maximum de 9 mètres dans la direction de votre choix, mais pas hors de portée du sort.
+Si l'objet est porté ou transporté par une créature, faites un test de caractéristique avec votre caractéristique d'incantation, opposé à un test de [Force] de cette créature. Si vous l'emportez, vous éloignez l'objet de cette créature sur un maximum de 9 mètres dans la direction de votre choix, mais pas hors de portée du sort.
 
 Vous exercez un contrôle précis sur les objets pris dans votre étreinte télékinétique, vous pouvez donc manipuler un outil basique, ouvrir une porte ou un récipient, déposer un objet dans un récipient ou en retirer un, ou encore verser le contenu d'une fiole.
 
@@ -8009,9 +8009,9 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 
 Vous créez une gigantesque tempête de sable qui balaye tout sur son passage. La vague de sable mesure 150 mètres de large, 24 mètres de long et 24 mètres de haut. Elle débute au point désigné situé à portée puis se déplace à une vitesse de 24 mètres par round dans la direction de votre choix.
 
-Une fois la direction fixée, il n'est plus possible d'en modifier la course. La vague inflige 8d6 dégâts contondants à toute créature qui se trouve sur son passage. Chaque créature affectée a droit à un jet de sauvegarde de Force pour réduire les dégâts de moitié. Les créatures de taille G ou inférieure qui le ratent sont emportées dans les airs et subissent 3d6 dégâts supplémentaires (non affectés par le résultat du jet de sauvegarde), tandis que les créatures de taille TG ou supérieure tombent à terre. Tant qu'une créature se trouve dans la zone d'effet de la tempête, elle est [aveuglée] et elle bénéficie d'un abri important.
+Une fois la direction fixée, il n'est plus possible d'en modifier la course. La vague inflige 8d6 dégâts contondants à toute créature qui se trouve sur son passage. Chaque créature affectée a droit à un jet de sauvegarde de [Force] pour réduire les dégâts de moitié. Les créatures de taille G ou inférieure qui le ratent sont emportées dans les airs et subissent 3d6 dégâts supplémentaires (non affectés par le résultat du jet de sauvegarde), tandis que les créatures de taille TG ou supérieure tombent à terre. Tant qu'une créature se trouve dans la zone d'effet de la tempête, elle est [aveuglée] et elle bénéficie d'un abri important.
 
-Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dégâts supplémentaires (qui sont divisés par deux en cas de jet de sauvegarde de Force réussi).
+Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dégâts supplémentaires (qui sont divisés par deux en cas de jet de sauvegarde de [Force] réussi).
 
 
 
@@ -8085,7 +8085,7 @@ Des tentacules noirs grouillants envahissent le sol d'un emplacement de 6 mètre
 
 Quand une créature pénètre dans la zone affectée pour la première fois au cours d'un tour, ou quand elle débute son tour dans cette zone, elle doit réussir un jet de sauvegarde de Dextérité, sans quoi elle reçoit 3d6 dégâts contondants et se retrouve [entravée] par les tentacules jusqu'à la fin du sort. Une créature qui commence son tour déjà [entravée] dans la zone subit 3d6 dégâts contondants.
 
-Une créature [entravée] par les tentacules peut utiliser son action pour effectuer un test de Force ou de Dextérité (à elle de choisir) contre le DD de sauvegarde de votre sort. Si elle le réussit, elle parvient à se libérer.
+Une créature [entravée] par les tentacules peut utiliser son action pour effectuer un test de [Force] ou de [Dextérité] (à elle de choisir) contre le DD de sauvegarde de votre sort. Si elle le réussit, elle parvient à se libérer.
 
 
 
@@ -8191,7 +8191,7 @@ Si les toiles ne sont pas ancrées entre deux éléments solides, comme des murs
 
 Chaque créature qui commence son tour dans les toiles ou qui y pénètre lors de son tour doit réussir un jet de sauvegarde de Dextérité, ou être [entravée] tant qu'elle reste dans les toiles ou jusqu'à ce qu'elle se libère.
 
-Une créature [entravée] par les toiles peut utiliser son action pour effectuer un test de Force contre le DD du jet de sauvegarde de votre sort. Si elle le réussit, elle n'est plus [entravée].
+Une créature [entravée] par les toiles peut utiliser son action pour effectuer un test de [Force] contre le DD du jet de sauvegarde de votre sort. Si elle le réussit, elle n'est plus [entravée].
 
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu brûle en 1 round, infligeant 2d4 dégâts de feu à toute créature qui commence son tour dans les flammes.
 
@@ -8287,7 +8287,7 @@ Une structure s'effondre automatiquement si une fissure s'ouvre sous elle (voir 
 
 **_Structures._** Les secousses infligent 50 dégâts contondants à toute structure en contact avec le sol au moment où vous lancez le sort et au début de chacun de vos tours jusqu'à la fin du sort. Si l'une d'elles tombe à 0 point de vie, elle s'effondre et blesse peut-être les créatures voisines.
 
-Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe à terre et elle est ensevelie sous les décombres. Il faut réussir un test de Force (Athlétisme) DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son jet de sauvegarde, elle subit seulement la moitié des dégâts, ne tombe pas à terre et n'est pas ensevelie.
+Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe à terre et elle est ensevelie sous les décombres. Il faut réussir un test de [Force] (Athlétisme) DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son jet de sauvegarde, elle subit seulement la moitié des dégâts, ne tombe pas à terre et n'est pas ensevelie.
 
 
 
@@ -8653,6 +8653,14 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 [symbole]: spells_hd.md#symbole
 [toiles d'araignées]: spells_hd.md#toile-daraignée
 [verrou magique]: spells_hd.md#verrou-magique
+
+[Force]: abilities_hd.md#force
+[Dextérité]: abilities_hd.md#dextérité
+[Constitution]: abilities_hd.md#constitution
+[Intelligence]: abilities_hd.md#intelligence
+[Sagesse]: abilities_hd.md#sagesse
+[Charisme]: abilities_hd.md#charisme
+[Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 [SpellsHD]: #
 [SpellHD]: #

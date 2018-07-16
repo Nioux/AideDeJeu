@@ -114,6 +114,26 @@ namespace AideDeJeuLib
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
                                         this.Text += listBlock.BulletType + " " + paragraphBlock.ToMarkdownString() + "\n";
                                     }
+                                    else if (ininblock is ListBlock)
+                                    {
+                                        var listBlock2 = ininblock as ListBlock;
+                                        foreach (var inblock2 in listBlock2)
+                                        {
+                                            if (inblock2 is Markdig.Syntax.ListItemBlock)
+                                            {
+                                                var listItemBlock2 = inblock2 as Markdig.Syntax.ListItemBlock;
+                                                foreach (var ininblock2 in listItemBlock2)
+                                                {
+                                                    //DumpBlock(ininblock);
+                                                    if (ininblock2 is Markdig.Syntax.ParagraphBlock)
+                                                    {
+                                                        var paragraphBlock2 = ininblock2 as Markdig.Syntax.ParagraphBlock;
+                                                        this.Text += "  " + listBlock2.BulletType + " " + paragraphBlock2.ToMarkdownString() + "\n";
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
                                 }
                             }
                         }

@@ -13421,5 +13421,13 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [vol]: spells_hd.md#vol
 [zone de vérité]: spells_hd.md#zone-de-vérité
 
+[Force]: abilities_hd.md#force
+[Dextérité]: abilities_hd.md#dextérité
+[Constitution]: abilities_hd.md#constitution
+[Intelligence]: abilities_hd.md#intelligence
+[Sagesse]: abilities_hd.md#sagesse
+[Charisme]: abilities_hd.md#charisme
+[Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 [MonstersHD]: #
 [MonsterHD]: #

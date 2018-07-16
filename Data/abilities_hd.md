@@ -7,12 +7,12 @@
 
 Le profil physique et mental d’une créature est défini par six caractéristiques :
 
-* La Force représente la puissance physique.
-* La Dextérité représente l’agilité.
-* La Constitution représente l’endurance.
-* L’Intelligence représente la capacité à se souvenir et à suivre un raisonnement.
-* La Sagesse représente la perception et les intuitions.
-* Le Charisme représente la force de la personnalité.
+* La [Force] représente la puissance physique.
+* La [Dextérité] représente l’agilité.
+* La [Constitution] représente l’endurance.
+* L’[Intelligence] représente la capacité à se souvenir et à suivre un raisonnement.
+* La [Sagesse] représente la perception et les intuitions.
+* Le [Charisme] représente la force de la personnalité.
 
 Un personnage est-il plutôt musclé et perspicace ? Brillant en même temps que charmant ? Agile et robuste ?
 
@@ -129,36 +129,36 @@ Les compétences liées à chaque valeur de caractéristique sont présentées d
   * Escamotage
 
 * [Intelligence]
-** Arcanes
-** Histoire
-** Investigation
-** Nature
-** Religion
+  * Arcanes
+  * Histoire
+  * Investigation
+  * Nature
+  * Religion
 
 * [Sagesse]
-** Dressage
-** Médecine
-** Perception
-** Perspicacité
-** Survie
+  * Dressage
+  * Médecine
+  * Perception
+  * Perspicacité
+  * Survie
 
 * [Charisme]
-** Intimidation
-** Persuasion
-** Représentation
-** Supercherie
+  * Intimidation
+  * Persuasion
+  * Représentation
+  * Supercherie
 
 Il peut arriver que le MJ demande un test de caractéristique lié à une compétence spécifique. Par exemple, un test de Sagesse (Perception). Un joueur peut aussi demander au MJ si sa maîtrise d’une compétence donnée s’applique à un test. Dans les deux cas, la maîtrise d’une compétence permet à un personnage d’ajouter son bonus de maîtrise au test de caractéristique lié à cette compétence. S’il ne maîtrise pas la compétence, le personnage fait un test de caractéristique normal.
 
-Par exemple, si un personnage tente d’escalader une falaise escarpée, le MJ peut lui demander de faire un test de Force (Athlétisme). Si le personnage maîtrise la compétence Athlétisme, il ajoute son bonus de maîtrise à son test de Force. S’il ne maîtrise pas cette compétence, il réalise simplement un test de Force.
+Par exemple, si un personnage tente d’escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force] (Athlétisme). Si le personnage maîtrise la compétence Athlétisme, il ajoute son bonus de maîtrise à son test de [Force]. S’il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
 
 ### Option : compétences associées avec différentes caractéristiques
 
-Normalement, votre maîtrise d’une compétence n’intervient que dans des tests de caractéristique spécifiques. Maîtriser l’Athlétisme, par exemple, n’est généralement utile que pour les tests de Force. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests.
+Normalement, votre maîtrise d’une compétence n’intervient que dans des tests de caractéristique spécifiques. Maîtriser l’Athlétisme, par exemple, n’est généralement utile que pour les tests de [Force]. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests.
 
-Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d’utiliser une maîtrise dans le cadre d’un test différent. Par exemple, si vous partez d’une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de Constitution pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d’utiliser votre maîtrise de l’Athlétisme et demander un test de Constitution (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de Constitution comme vous le feriez pour un test de Force (Athlétisme).
+Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d’utiliser une maîtrise dans le cadre d’un test différent. Par exemple, si vous partez d’une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de Constitution pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d’utiliser votre maîtrise de l’Athlétisme et demander un test de Constitution (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de Constitution comme vous le feriez pour un test de [Force] (Athlétisme).
 
-De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de Force (Intimidation), même si la compétence Intimidation est normalement associée au Charisme.
+De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence Intimidation est normalement associée au Charisme.
 
 ## Tests passifs
 
