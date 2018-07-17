@@ -187,3 +187,19 @@ Si la créature réussit son jet de sauvegarde, vous ne pouvez plus utiliser cet
 ## Représailles
 
 À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une attaque de corps-à-corps visant cette créature en représailles.
+
+[Amélioration de caractéristiques]: barbarian_hd.md#amélioration-de-caractéristiques
+[Aptitude de voie]: barbarian_hd.md#
+[Attaque supplémentaire]: barbarian_hd.md#
+[Champion primitif]: barbarian_hd.md#
+[Critique brutal]: barbarian_hd.md#
+[Défense sans armure]: barbarian_hd.md#
+[Déplacement rapide]: barbarian_hd.md#
+[Instinct sauvage]: barbarian_hd.md#
+[Puissance indomptable]: barbarian_hd.md#
+[Rage]: barbarian_hd.md#
+[Rage implacable]: barbarian_hd.md#
+[Rage ininterrompue]: barbarian_hd.md#
+[Sens du danger]: barbarian_hd.md#
+[Témérité]: barbarian_hd.md#
+[Voie primitive]: barbarian_hd.md#
