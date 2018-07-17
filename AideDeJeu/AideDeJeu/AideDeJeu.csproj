@@ -71,7 +71,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\Data\classes_hd.md" Link="Data\classes_hd.md" />
+    <EmbeddedResource Include="..\..\Data\classes_hd.md" Link="Data\classes_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\races_hd.md" Link="Data\races_hd.md" />
   </ItemGroup>
 
   <ItemGroup>
