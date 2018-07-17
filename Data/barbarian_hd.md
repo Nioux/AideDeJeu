@@ -10,15 +10,15 @@ En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 - Dés de vie : 1d12 par niveau de barbare
-- Points de vie au niveau 1 : 12 + votre modificateur de Constitution
-- Points de vie aux niveaux supérieurs : 1d12 (ou 7) + votre modificateur de Constitution par niveau de barbare après le premier niveau
+- Points de vie au niveau 1 : 12 + votre modificateur de [Constitution]
+- Points de vie aux niveaux supérieurs : 1d12 (ou 7) + votre modificateur de [Constitution] par niveau de barbare après le premier niveau
 
 ## Maîtrises
 
 - Armures : armures légères, armures intermédiaires, boucliers
 - Armes : armes courantes, armes de guerre
 - Outils : aucun
-- Jets de sauvegarde : Force, Constitution
+- [Jets de sauvegarde] : [Force], [Constitution]
 - Compétences : choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie
 
 ## Équipement
@@ -63,7 +63,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 Quand vous vous retrouvez au coeur de la bataille, vous êtes animé d’une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d’armure lourde, vous obtenez les bénéfices suivants :
 
-* Vous bénéficiez d'un avantage sur les tests de Force et les jets de sauvegarde de Force.
+* Vous bénéficiez d'un avantage sur les tests de [Force] et les [jets de sauvegarde] de [Force].
 * Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts. Ce bonus augmente en même temps que votre niveau (voir le tableau d’évolution du barbare, colonne dégâts de rage).
 * Vous devenez résistant aux dégâts contondants, perforants et tranchants.
 
@@ -77,13 +77,13 @@ Une fois que vous êtes entré en état de rage le nombre de fois permis par vot
 
 ## Défense sans armure
 
-Tant que vous ne portez pas d’armure, votre classe d’armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
+Tant que vous ne portez pas d’armure, votre classe d’armure est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Constitution]. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
 
 [][Feature]
 
 ## Témérité
 
-À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un avantage sur toutes vos attaques de corps-à-corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d’un avantage jusqu’à votre prochain tour.
+À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un avantage sur toutes vos attaques de corps-à-corps basées sur la [Force] pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d’un avantage jusqu’à votre prochain tour.
 
 [][Feature]
 
@@ -91,7 +91,7 @@ Tant que vous ne portez pas d’armure, votre classe d’armure est égale à 10
 
 Quand vous atteignez le niveau 2, vous développez la capacité instinctive de ressentir si quelque chose ne tourne pas rond dans votre environnement, ce qui vous donne un temps d’avance quand vous tentez d’esquiver un danger.
 
-Vous bénéficiez d'un avantage sur vos jets de sauvegarde de Dextérité contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être aveuglé, assourdi ni neutralisé.
+Vous bénéficiez d'un avantage sur vos [jets de sauvegarde] de [Dextérité] contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être aveuglé, assourdi ni neutralisé.
 
 [][Feature]
 
@@ -137,7 +137,7 @@ De plus, si vous êtes surpris au début d’un combat mais que vous n’êtes p
 
 ## Rage implacable
 
-À partir du niveau 11, votre rage vous permet de poursuivre le combat malgré des blessures mortelles. Si vous tombez à 0 point de vie alors que vous êtes en rage mais que vous ne mourez pas sur-le-champ, vous faites un jet de sauvegarde de Constitution DD 10. En cas de réussite, vous conservez 1 point de vie.
+À partir du niveau 11, votre rage vous permet de poursuivre le combat malgré des blessures mortelles. Si vous tombez à 0 point de vie alors que vous êtes en rage mais que vous ne mourez pas sur-le-champ, vous faites un [jet de sauvegarde] de [Constitution] DD 10. En cas de réussite, vous conservez 1 point de vie.
 
 Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un repos, court ou long, permet de rétablir le DD initial à 10.
 
@@ -151,13 +151,13 @@ Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un re
 
 ## Puissance indomptable
 
-À partir du niveau 18, si le total que vous obtenez à un test de Force est moins élevé que votre valeur de Force, vous pouvez utiliser votre valeur de Force à la place du résultat du test.
+À partir du niveau 18, si le total que vous obtenez à un test de [Force] est moins élevé que votre valeur de [Force], vous pouvez utiliser votre valeur de [Force] à la place du résultat du test.
 
 [][Feature]
 
 ## Champion primitif
 
-Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs de Force et de Constitution augmentent de 4. Le maximum que vous pouvez atteindre pour ces caractéristiques est désormais de 24.
+Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs de [Force] et de [Constitution] augmentent de 4. Le maximum que vous pouvez atteindre pour ces caractéristiques est désormais de 24.
 
 
 [][Pathes]
@@ -180,26 +180,38 @@ Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de deven
 
 À partir du niveau 6, vous ne pouvez pas être charmé ou terrorisé pendant que vous êtes enragé. Si vous êtes déjà charmé ou terrorisé au moment où vous vous mettez en rage, l’effet est suspendu le temps de la rage. Présence intimidante
 
-À partir du niveau 10, vous pouvez utiliser votre action pour terroriser quelqu'un grâce à votre présence menaçante. Quand vous voulez utiliser cette aptitude, choisissez une créature qui se trouve dans votre champ de vision dans un rayon de 9 mètres. Si cette créature peut vous voir et vous entendre, elle doit réussir un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être terrorisée jusqu’à la fin de votre prochain tour. Au cours des tours suivants, vous pouvez utiliser votre action pour faire durer cet effet sur la même créature un tour supplémentaire. Cet effet prend fin si la créature termine son tour hors de votre champ de vision ou qu’elle se trouve à plus de 18 mètres de vous.
+À partir du niveau 10, vous pouvez utiliser votre action pour terroriser quelqu'un grâce à votre présence menaçante. Quand vous voulez utiliser cette aptitude, choisissez une créature qui se trouve dans votre champ de vision dans un rayon de 9 mètres. Si cette créature peut vous voir et vous entendre, elle doit réussir un [jet de sauvegarde] de [Sagesse] (DD égal à 8 + votre bonus de maîtrise + votre modificateur de [Charisme]) ou être terrorisée jusqu’à la fin de votre prochain tour. Au cours des tours suivants, vous pouvez utiliser votre action pour faire durer cet effet sur la même créature un tour supplémentaire. Cet effet prend fin si la créature termine son tour hors de votre champ de vision ou qu’elle se trouve à plus de 18 mètres de vous.
 
-Si la créature réussit son jet de sauvegarde, vous ne pouvez plus utiliser cette aptitude sur elle pendant les prochaines 24 heures.
+Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser cette aptitude sur elle pendant les prochaines 24 heures.
 
 ## Représailles
 
 À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une attaque de corps-à-corps visant cette créature en représailles.
 
 [Amélioration de caractéristiques]: barbarian_hd.md#amélioration-de-caractéristiques
-[Aptitude de voie]: barbarian_hd.md#
-[Attaque supplémentaire]: barbarian_hd.md#
-[Champion primitif]: barbarian_hd.md#
-[Critique brutal]: barbarian_hd.md#
-[Défense sans armure]: barbarian_hd.md#
-[Déplacement rapide]: barbarian_hd.md#
-[Instinct sauvage]: barbarian_hd.md#
-[Puissance indomptable]: barbarian_hd.md#
-[Rage]: barbarian_hd.md#
-[Rage implacable]: barbarian_hd.md#
-[Rage ininterrompue]: barbarian_hd.md#
-[Sens du danger]: barbarian_hd.md#
-[Témérité]: barbarian_hd.md#
-[Voie primitive]: barbarian_hd.md#
+[Aptitude de voie]: barbarian_hd.md#aptitude-de-voie
+[Attaque supplémentaire]: barbarian_hd.md#attaque-supplémentaire
+[Champion primitif]: barbarian_hd.md#champion-primitif
+[Critique brutal]: barbarian_hd.md#critique-brutal
+[Défense sans armure]: barbarian_hd.md#défense-sans-armure
+[Déplacement rapide]: barbarian_hd.md#déplacement-rapide
+[Instinct sauvage]: barbarian_hd.md#instinct-sauvage
+[Puissance indomptable]: barbarian_hd.md#puissance-indomptable
+[Rage]: barbarian_hd.md#rage
+[Rage implacable]: barbarian_hd.md#rage-implacable
+[Rage ininterrompue]: barbarian_hd.md#rage-ininterrompue
+[Sens du danger]: barbarian_hd.md#sens-du-danger
+[Témérité]: barbarian_hd.md#témérité
+[Voie primitive]: barbarian_hd.md#voie-primitive
+
+[Force]: abilities_hd.md#force
+[Dextérité]: abilities_hd.md#dextérité
+[Constitution]: abilities_hd.md#constitution
+[Intelligence]: abilities_hd.md#intelligence
+[Sagesse]: abilities_hd.md#sagesse
+[Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+

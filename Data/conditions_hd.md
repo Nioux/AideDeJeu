@@ -94,7 +94,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Les attaques qui visent la créature bénéficient d'un avantage, tandis que les attaques de la créature subissent un désavantage.
 
-* La créature souffre d'un désavantage lors de ses jets de sauvegarde de Dextérité.
+* La créature souffre d'un désavantage lors de ses [jets de sauvegarde] de [Dextérité].
 
 
 [][Generic]
@@ -105,7 +105,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Une créature étourdie est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et parle en balbutiant.
 
-* La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+* La créature rate automatiquement tous ses [jets de sauvegarde] de [Force] et de [Dextérité].
 
 * Les jets d'attaque qui visent la créature se font avec un avantage.
 
@@ -122,7 +122,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Si la créature reprend conscience, elle est [à terre](conditions_hd.md#À-terre).
 
-* La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+* La créature rate automatiquement tous ses [jets de sauvegarde] de [Force] et de [Dextérité].
 
 * Les attaques qui visent la créature bénéficient d'un avantage.
 
@@ -157,7 +157,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Une créature paralysée est [neutralisée](conditions_hd.md#neutralisé) (voir l'état) et ne peut ni parler ni se déplacer.
 
-* La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+* La créature rate automatiquement tous ses [jets de sauvegarde] de [Force] et de [Dextérité].
 
 * Les attaques visant la créature bénéficient d'un avantage.
 
@@ -176,7 +176,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 * Les attaques qui visent la créature bénéficient d'un avantage.
 
-* La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+* La créature rate automatiquement tous ses [jets de sauvegarde] de [Force] et de [Dextérité].
 
 * La créature est résistante à tous les types de dégâts.
 
@@ -225,6 +225,9 @@ Une fois terminé, un repos long réduit le niveau d’épuisement d’une créa
 [Intelligence]: abilities_hd.md#intelligence
 [Sagesse]: abilities_hd.md#sagesse
 [Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 [Items]: #
