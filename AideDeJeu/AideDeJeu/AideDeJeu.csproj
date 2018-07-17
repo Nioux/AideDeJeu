@@ -71,6 +71,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\..\Data\classes_hd.md" Link="Data\classes_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

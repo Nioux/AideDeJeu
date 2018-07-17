@@ -48,7 +48,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants. Si la cible est une créature, elle
 
 ## Actions légendaires
 
-L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Il ne peut en choisir qu'une seule à la fois et uniquement à la fin du tour d'une autre créature. L'aboleth récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.[cool]
+L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Il ne peut en choisir qu'une seule à la fois et uniquement à la fin du tour d'une autre créature. L'aboleth récupère au début de son tour l'utilisation des actions légendaires déjà effectuées.
 
 **Balayage de la queue.** L'aboleth effectue une attaque de queue.
 

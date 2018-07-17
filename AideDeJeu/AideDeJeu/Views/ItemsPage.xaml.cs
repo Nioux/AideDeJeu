@@ -45,12 +45,12 @@ namespace AideDeJeu.Views
 
             BindingContext = Main;
 
-            this.SizeChanged += (o, e) => {
-                if (this.Width > 0 && this.Height > 0)
-                {
-                    this.IsPresented = this.Width > this.Height;
-                }
-            };
+            //this.SizeChanged += (o, e) => {
+            //    if (this.Width > 0 && this.Height > 0)
+            //    {
+            //        this.IsPresented = this.Width > this.Height;
+            //    }
+            //};
         }
 
         protected override void OnAppearing()
