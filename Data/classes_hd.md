@@ -1,26 +1,30 @@
-# [Barbare]
+[][Generic]
 
-# [Barde]
+# Classes
 
-# [Clerc]
+## [Barbare]
 
-# [Druide]
+## [Barde]
 
-# [Ensorceleur]
+## [Clerc]
 
-# [Guerrier]
+## [Druide]
 
-# [Magicien]
+## [Ensorceleur]
 
-# [Moine]
+## [Guerrier]
 
-# [Paladin]
+## [Magicien]
 
-# [Rôdeur]
+## [Moine]
 
-# [Roublard]
+## [Paladin]
 
-# [Sorcier]
+## [Rôdeur]
+
+## [Roublard]
+
+## [Sorcier]
 
 [Barbare]: barbarian_hd.md
 [Barde]: bard_hd.md

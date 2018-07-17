@@ -11,14 +11,18 @@ namespace AideDeJeuLib
         {
             get
             {
-                return 
-                    "# [Sorts](spells_hd.md)\n\n" +
-                    "# [Créatures](monsters_hd.md)\n\n" +
-                    "# [Etats spéciaux](conditions_hd.md)\n\n" +
-                    "# [Caractéristiques](abilities_hd.md)\n\n" +
-                    "# [Spells](spells_vo.md)\n\n" +
-                    "# [Monsters](monsters_vo.md)\n\n" +
-                    "# [Conditions](conditions_vo.md)\n\n";
+                return
+                    "# VF (H&D)\n\n" +
+                    "## [Races](races_hd.md)\n\n" +
+                    "## [Classes](classes_hd.md)\n\n" +
+                    "## [Caractéristiques](abilities_hd.md)\n\n" +
+                    "## [Etats spéciaux](conditions_hd.md)\n\n" +
+                    "## [Sorts](spells_hd.md)\n\n" +
+                    "## [Créatures](monsters_hd.md)\n\n" +
+                    "# VO (SRD)\n\n" +
+                    "## [Spells](spells_vo.md)\n\n" +
+                    "## [Monsters](monsters_vo.md)\n\n" +
+                    "## [Conditions](conditions_vo.md)\n\n";
             }
         }
 

@@ -1,12 +1,24 @@
-[Demi-elfe]
-[Demi-orc]
-[Elfe]
-[Gnome]
-[Halfelin]
-[Humain]
-[Nain]
-[Sangdragon]
-[Tieffelin]
+[][Generic]
+
+# Races
+
+## [Demi-elfe]
+
+## [Demi-orc]
+
+## [Elfe]
+
+## [Gnome]
+
+## [Halfelin]
+
+## [Humain]
+
+## [Nain]
+
+## [Sangdragon]
+
+## [Tieffelin]
 
 [Demi-elfe]: half-elf_hd.md
 [Demi-orc]: half-orc_hd.md
