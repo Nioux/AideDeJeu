@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des nains
 
 Votre personnage nain est doté d’un ensemble de capacités innées liées à sa nature de nain.
@@ -51,3 +54,5 @@ Vision dans le noir améliorée. Quand vous vous trouvez dans le noir total, vou
 Sensibilité à la lumière. Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d’intensité (de lumière faible à lumière vive, ou d’obscurité à lumière vive), vous subissez un désavantage à tous vos tests de caractéristique nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d’attaque, et les ennemis bénéficient d’un avantage s’ils vous attaquent au corps-à-corps. L’effet dure 3 rounds.
 
 Résistance à la chaleur. Vous bénéficiez d’une résistance aux dégâts de feu.
+
+[Generic]: #

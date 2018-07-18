@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des humains
 
 Il est difficile de faire des généralisations en ce qui concerne les humains. Ils possèdent les traits suivants :
@@ -13,3 +16,5 @@ Taille. Les humains ont des tailles et des carrures très variées. Ils peuvent 
 Vitesse. Votre vitesse au sol de base est de 9 mètres.
 
 Langues. Vous pouvez parler, lire et écrire en commun et dans une langue supplémentaire de votre choix. Les humains apprennent généralement la langue des peuples qu’ils fréquentent, même s’il s’agit parfois d’obscurs dialectes. Ils aiment parsemer leur langue d’expressions empruntées à d’autres races : des jurons orcs, des expressions musicales elfes, des citations militaires naines, etc.
+
+[Generic]: #

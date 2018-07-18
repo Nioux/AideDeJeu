@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des demi-elfes
 
 Un demi-elfe a quelques qualités communes avec les elfes, mais d’autres qui sont propres aux demi-elfes.
@@ -19,3 +22,5 @@ Ascendance féerique. Vous bénéficiez d'un avantage sur les jets de sauvegarde
 Polyvalence. Vous gagnez la maîtrise de deux compétences de votre choix.
 
 Langues. Vous pouvez parler, lire et écrire en commun, en elfe et dans une autre langue de votre choix.
+
+[Generic]: #

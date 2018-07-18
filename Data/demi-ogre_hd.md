@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des demi-ogres
 
 Un demi-ogre a hérité de certains traits de son ascendance ogre.
@@ -23,3 +26,5 @@ Problème de taille. Vous êtes grand et massif… trop grand et trop massif. Vo
 Paria. Votre nature même rend souvent les gens nerveux. Vous êtes craint par les races civilisées et méprisé par les ogres. Vous subissez d’un désavantage sur vos tests de Charisme (Persuasion) et Charisme (Supercherie). De plus, la plupart des gens ont une attitude méfiante, au mieux, vis-àvis de vous : les gardes vous contrôlent, vous êtes victime de délit de sale gueule et il n’est pas rare que vous soyez le bouc émissaire rêvé pour les populations locales.
 
 Langues. Vous pouvez lire, écrire et parler le commun ainsi que le géant.
+
+[Generic]: #

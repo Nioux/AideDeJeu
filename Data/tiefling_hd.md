@@ -1,4 +1,9 @@
-Traits des tieffelins
+
+[][Generic]
+
+# Tieffelins
+
+## Traits des tieffelins
 
 Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur ascendance infernale.
 
@@ -19,3 +24,5 @@ Résistance infernale. Vous êtes résistant aux dégâts de feu.
 Ascendance infernale. Vous connaissez le tour de magie thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer une fois le sort représailles infernales comme sort de niveau 2 grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez terminer un repos long. À partir du niveau 5, vous pouvez lancer une fois le sort ténèbres grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez finir un repos long. Votre caractéristique d’incantation pour lancer ces sorts est le Charisme.
 
 Langues. Vous pouvez parler, lire et écrire en commun et en infernal.
+
+[Generic]: #

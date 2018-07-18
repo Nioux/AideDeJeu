@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des halfelins
 
 Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.
@@ -37,3 +40,5 @@ Augmentation de caractéristiques. Votre valeur de Constitution augmente de 1.
 Esprit pragmatique. Vous obtenez un avantage sur  les tests de Sagesse (Perspicacité) lorsque l’on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux jets de sauvegarde contre les sorts de charme.
 
 Travailleur acharné. Vous obtenez la maîtrise d’un ensemble d'outils d’artisan au choix.
+
+[Generic]: #

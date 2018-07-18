@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des demi-orcs
 
 Un demi-orc a hérité de certains traits de son ascendance orc.
@@ -21,3 +24,5 @@ Acharnement. Quand vous vous retrouvez à 0 point de vie, mais que vous n’ête
 Sauvagerie. Quand vous réussissez un coup critique avec une attaque de corps-à-corps, vous pouvez lancer un dé de dégâts supplémentaire correspondant à l’arme utilisée et l’ajouter aux dégâts bonus du coup critique.
 
 Langues. Vous pouvez parler, lire et écrire en commun et en orc. La langue orc a une sonorité dure et certains sons évoquent des grincements. Les orcs n’ont pas d’alphabet propre et utilisent donc le même alphabet que les nains : le Runique.
+
+[Generic]: #

@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des aasimars
 
 Votre parenté céleste vous a octroyé certains pouvoirs innés.
@@ -19,3 +22,5 @@ Aura céleste. Vous possédez certains pouvoirs issus de votre ascendance céles
 Résistance céleste. Vous êtes résistant aux dégâts nécrotiques.
 
 Langues. Vous pouvez lire, écrire et parler le commun, ainsi que le céleste.
+
+[Generic]: #

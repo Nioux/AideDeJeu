@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des gnomes
 
 Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
@@ -53,3 +56,5 @@ Maître des illusions. Vous obtenez un avantage sur les jets de sauvegarde effec
 Amphibie. Vous êtes capable de respirer sous l'eau pendant une durée de 10 minutes au maximum. Au bout de ces 10 minutes, vous devez reprendre votre souffle à l'air libre.
 
 Magie instinctive. Vous connaissez deux tours de magie que vous choisissez parmi la liste de sorts du barde. Votre caractéristique d’incantation pour ces sorts est la Sagesse.
+
+[Generic]: #

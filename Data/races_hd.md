@@ -16,13 +16,13 @@
 
 ## [Nain]
 
-## [Aasimars]
+## [Aasimar]
 
-## [Demi-ogres]
+## [Demi-ogre]
 
 ## [Félys]
 
-## [Hommes serpents]
+## [Homme serpent]
 
 ## [Sangdragon]
 
@@ -35,10 +35,10 @@
 [Halfelin]: halfling_hd.md
 [Humain]: human_hd.md
 [Nain]: dwarf_hd.md
-[Aasimars]: aasimars_hd.md
-[Demi-ogres]: demi-ogres_hd.md
+[Aasimar]: aasimar_hd.md
+[Demi-ogre]: demi-ogre_hd.md
 [Félys]: felys_hd.md
-[Hommes serpents]: hommes-serpents_hd.md
+[Homme serpent]: homme-serpent_hd.md
 [Sangdragon]: dragonborn_hd.md
 [Tieffelin]: tiefling_hd.md
 

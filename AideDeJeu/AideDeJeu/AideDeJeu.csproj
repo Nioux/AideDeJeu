@@ -79,6 +79,36 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\bard_hd.md" Link="Data\bard_hd.md" />
+    <EmbeddedResource Include="..\..\Data\cleric_hd.md" Link="Data\cleric_hd.md" />
+    <EmbeddedResource Include="..\..\Data\dragonborn_hd.md" Link="Data\dragonborn_hd.md" />
+    <EmbeddedResource Include="..\..\Data\druid_hd.md" Link="Data\druid_hd.md" />
+    <EmbeddedResource Include="..\..\Data\dwarf_hd.md" Link="Data\dwarf_hd.md" />
+    <EmbeddedResource Include="..\..\Data\elf_hd.md" Link="Data\elf_hd.md" />
+    <EmbeddedResource Include="..\..\Data\felys_hd.md" Link="Data\felys_hd.md" />
+    <EmbeddedResource Include="..\..\Data\fighter_hd.md" Link="Data\fighter_hd.md" />
+    <EmbeddedResource Include="..\..\Data\gnome_hd.md" Link="Data\gnome_hd.md" />
+    <EmbeddedResource Include="..\..\Data\half-elf_hd.md" Link="Data\half-elf_hd.md" />
+    <EmbeddedResource Include="..\..\Data\half-orc_hd.md" Link="Data\half-orc_hd.md" />
+    <EmbeddedResource Include="..\..\Data\halfling_hd.md" Link="Data\halfling_hd.md" />
+    <EmbeddedResource Include="..\..\Data\human_hd.md" Link="Data\human_hd.md" />
+    <EmbeddedResource Include="..\..\Data\monk_hd.md" Link="Data\monk_hd.md" />
+    <EmbeddedResource Include="..\..\Data\paladin_hd.md" Link="Data\paladin_hd.md" />
+    <EmbeddedResource Include="..\..\Data\ranger_hd.md" Link="Data\ranger_hd.md" />
+    <EmbeddedResource Include="..\..\Data\rogue_hd.md" Link="Data\rogue_hd.md" />
+    <EmbeddedResource Include="..\..\Data\sorcerer_hd.md" Link="Data\sorcerer_hd.md" />
+    <EmbeddedResource Include="..\..\Data\tiefling_hd.md" Link="Data\tiefling_hd.md" />
+    <EmbeddedResource Include="..\..\Data\warlock_hd.md" Link="Data\warlock_hd.md" />
+    <EmbeddedResource Include="..\..\Data\wizard_hd.md" Link="Data\wizard_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\aasimar_hd.md" Link="Data\aasimar_hd.md" />
+    <EmbeddedResource Include="..\..\Data\demi-ogre_hd.md" Link="Data\demi-ogre_hd.md" />
+    <EmbeddedResource Include="..\..\Data\homme-serpent_hd.md" Link="Data\homme-serpent_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des félys
 
 Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacités suivantes.
@@ -25,3 +28,5 @@ Toujours sur ses pattes. Les chats retombent toujours sur leurs pattes, c’est 
 Difficile à croire. Tout le monde sait qu’on ne peut pas faire confiance à un chat, et votre sincérité est souvent remise en question. Vous subissez un désavantage sur vos tests de Charisme (Persuasion) quand votre interlocuteur n’est pas un félys.
 
 Langues. Vous pouvez lire, écrire et parler le commun, ainsi qu’une autre langue de votre choix.
+
+[Generic]: #

@@ -1,3 +1,6 @@
+
+[][Generic]
+
 Traits des sangdragons
 
 Votre lignée draconique se manifeste par différents traits que vous partagez avec les autres sangdragons.
@@ -38,3 +41,5 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l’utiliser 
 Résistance aux dégâts. Vous bénéficiez d’une résistance au type de dégâts associé à votre ascendance.
 
 Langue. Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C’est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.
+
+[Generic]: #
