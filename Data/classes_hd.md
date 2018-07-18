@@ -38,3 +38,5 @@
 [Rôdeur]: ranger_hd.md
 [Roublard]: rogue_hd.md
 [Sorcier]: warlock_hd.md
+
+[Generic]: #

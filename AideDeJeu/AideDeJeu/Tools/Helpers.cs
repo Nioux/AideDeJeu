@@ -28,10 +28,14 @@ namespace AideDeJeu.Tools
             var assembly = typeof(Helpers).GetTypeInfo().Assembly;
             using (var stream = assembly.GetManifestResourceStream(resourceName))
             {
-                using (var sr = new StreamReader(stream))
+                if (stream != null)
                 {
-                    return await sr.ReadToEndAsync();
+                    using (var sr = new StreamReader(stream))
+                    {
+                        return await sr.ReadToEndAsync();
+                    }
                 }
+                return null;
             }
         }
 

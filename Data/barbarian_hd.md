@@ -1,5 +1,7 @@
 
-[][Class]
+[][Items]
+
+[][Generic]
 
 # Barbare
 
@@ -57,7 +59,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 
 
-[][Feature]
+[][Generic]
 
 ## Rage
 
@@ -73,19 +75,19 @@ Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous ête
 
 Une fois que vous êtes entré en état de rage le nombre de fois permis par votre niveau (voir le tableau d’évolution du barbare, colonne rages), vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.
 
-[][Feature]
+[][Generic]
 
 ## Défense sans armure
 
 Tant que vous ne portez pas d’armure, votre classe d’armure est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Constitution]. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
 
-[][Feature]
+[][Generic]
 
 ## Témérité
 
 À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un avantage sur toutes vos attaques de corps-à-corps basées sur la [Force] pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d’un avantage jusqu’à votre prochain tour.
 
-[][Feature]
+[][Generic]
 
 ## Sens du danger
 
@@ -93,31 +95,31 @@ Quand vous atteignez le niveau 2, vous développez la capacité instinctive de r
 
 Vous bénéficiez d'un avantage sur vos [jets de sauvegarde] de [Dextérité] contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être aveuglé, assourdi ni neutralisé.
 
-[][Feature]
+[][Generic]
 
 ## Voie primitive
 
 Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la voie du berserker, la voie des esprits, la voie de l’acier ou la voie du hurlement. Toutes sont détaillées à la fin de la section consacrée à cette classe.
 
-[][Feature]
+[][Generic]
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Feature]
+[][Generic]
 
 ## Attaque supplémentaire
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 
-[][Feature]
+[][Generic]
 
 ## Déplacement rapide
 
 À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure lourde.
 
-[][Feature]
+[][Generic]
 
 ## Instinct sauvage
 
@@ -125,7 +127,7 @@ Au niveau 7, votre instinct s’est affiné au point que vous bénéficiez d'un 
 
 De plus, si vous êtes surpris au début d’un combat mais que vous n’êtes pas neutralisé, vous avez la possibilité d’agir normalement pendant votre premier tour si vous le commencez en entrant dans un état de rage.
 
-[][Feature]
+[][Generic]
 
 ## Critique brutal
 
@@ -133,7 +135,7 @@ De plus, si vous êtes surpris au début d’un combat mais que vous n’êtes p
 
 À partir du niveau 13, vous lancez deux dés additionnels, et trois dés à partir du niveau 17.
 
-[][Feature]
+[][Generic]
 
 ## Rage implacable
 
@@ -141,30 +143,30 @@ De plus, si vous êtes surpris au début d’un combat mais que vous n’êtes p
 
 Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un repos, court ou long, permet de rétablir le DD initial à 10.
 
-[][Feature]
+[][Generic]
 
 ## Rage ininterrompue
 
 À partir du niveau 15, vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes inconscient ou que vous choisissez de sortir de cet état.
 
-[][Feature]
+[][Generic]
 
 ## Puissance indomptable
 
 À partir du niveau 18, si le total que vous obtenez à un test de [Force] est moins élevé que votre valeur de [Force], vous pouvez utiliser votre valeur de [Force] à la place du résultat du test.
 
-[][Feature]
+[][Generic]
 
 ## Champion primitif
 
 Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs de [Force] et de [Constitution] augmentent de 4. Le maximum que vous pouvez atteindre pour ces caractéristiques est désormais de 24.
 
 
-[][Pathes]
+[][Generic]
 
 # Voies primitives
 
-[][Path]
+[][Generic]
 
 # Voie du berserker
 
@@ -172,13 +174,13 @@ Pour certains barbares, la rage est un moyen d’atteindre leur but, et ce but e
 
 Quand vous entrez dans la rage du berserker, vous vous réalisez dans le chaos de la bataille et oubliez tout le reste, y compris votre santé et votre bien-être.
 
-[][Feature]
+[][Generic]
 
 ## Frénésie
 
 Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de devenir frénétique pendant que vous êtes sous le coup de la rage. Si vous devenez frénétique, pendant la durée de votre rage, vous pouvez porter une unique attaque supplémentaire avec une arme de corps-à-corps en action bonus à la fin de chacun des tours suivant celui pendant lequel vous êtes devenu frénétique. Quand votre rage prend fin, vous gagnez un niveau d’épuisement. Voir le chapitre 10, Gérer la santé du personnage, page 302, pour plus d’information sur les règles de fatigue.
 
-[][Feature]
+[][Generic]
 
 ## Rage aveugle
 
@@ -188,7 +190,7 @@ Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de deven
 
 Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser cette aptitude sur elle pendant les prochaines 24 heures.
 
-[][Feature]
+[][Generic]
 
 ## Représailles
 
@@ -221,3 +223,5 @@ Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser c
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
+[Items]: #
+[Generic]: #

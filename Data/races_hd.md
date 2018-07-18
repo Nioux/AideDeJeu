@@ -29,3 +29,5 @@
 [Nain]: dwarf_hd.md
 [Sangdragon]: dragonborn_hd.md
 [Tieffelin]: tiefling_hd.md
+
+[Generic]: #
