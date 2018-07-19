@@ -1,30 +1,56 @@
-[][Generic]
+[][Items]
 
 # Races
 
+[][LinkItem]
+
 ## [Demi-elfe]
+
+[][LinkItem]
 
 ## [Demi-orc]
 
+[][LinkItem]
+
 ## [Elfe]
+
+[][LinkItem]
 
 ## [Gnome]
 
+[][LinkItem]
+
 ## [Halfelin]
+
+[][LinkItem]
 
 ## [Humain]
 
+[][LinkItem]
+
 ## [Nain]
+
+[][LinkItem]
 
 ## [Aasimar]
 
+[][LinkItem]
+
 ## [Demi-ogre]
+
+[][LinkItem]
 
 ## [Félys]
 
+[][LinkItem]
+
 ## [Homme serpent]
 
+[][LinkItem]
+
 ## [Sangdragon]
+
+[][LinkItem]
 
 ## [Tieffelin]
 
@@ -42,4 +68,5 @@
 [Sangdragon]: dragonborn_hd.md
 [Tieffelin]: tiefling_hd.md
 
-[Generic]: #
+[Items]: #
+[LinkItem]: #

@@ -66,7 +66,14 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _SelectedItem, value);
                 if (_SelectedItem != null)
                 {
-                    Main.Navigator.GotoItemDetailPageAsync(_SelectedItem);
+                    if (_SelectedItem is LinkItem)
+                    {
+                        Main.NavigateToLink("/" + (_SelectedItem as LinkItem).Link);
+                    }
+                    else
+                    { 
+                        Main.Navigator.GotoItemDetailPageAsync(_SelectedItem);
+                    }
                 }
             }
         }

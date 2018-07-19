@@ -1,28 +1,52 @@
-[][Generic]
+[][Items]
 
 # Classes
 
+[][LinkItem]
+
 ## [Barbare]
+
+[][LinkItem]
 
 ## [Barde]
 
+[][LinkItem]
+
 ## [Clerc]
+
+[][LinkItem]
 
 ## [Druide]
 
+[][LinkItem]
+
 ## [Ensorceleur]
+
+[][LinkItem]
 
 ## [Guerrier]
 
+[][LinkItem]
+
 ## [Magicien]
+
+[][LinkItem]
 
 ## [Moine]
 
+[][LinkItem]
+
 ## [Paladin]
+
+[][LinkItem]
 
 ## [Rôdeur]
 
+[][LinkItem]
+
 ## [Roublard]
+
+[][LinkItem]
 
 ## [Sorcier]
 
@@ -39,4 +63,5 @@
 [Roublard]: rogue_hd.md
 [Sorcier]: warlock_hd.md
 
-[Generic]: #
+[Items]: #
+[LinkItem]: #
