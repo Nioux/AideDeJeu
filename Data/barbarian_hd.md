@@ -311,7 +311,7 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 
 [Amélioration de caractéristiques]: barbarian_hd.md#amélioration-de-caractéristiques
-[Aptitude de voie]: barbarian_hd.md#aptitude-de-voie
+[Aptitude de voie]: barbarian_hd.md#voie-primitive
 [Attaque supplémentaire]: barbarian_hd.md#attaque-supplémentaire
 [Champion primitif]: barbarian_hd.md#champion-primitif
 [Critique brutal]: barbarian_hd.md#critique-brutal
