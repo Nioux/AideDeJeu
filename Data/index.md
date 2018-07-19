@@ -1,15 +1,21 @@
-# SRD VF / VO
+# VF (H&D)
 
-## [Sorts VF](spells_hd.md)
+## [Races](races_hd.md)
 
-### [triés par classe / niveau](spells_hd_by_class_level.md)
+## [Classes](classes_hd.md)
 
-## [Créatures VF](monsters_hd.md)
+## [Caractéristiques](abilities_hd.md)
 
-## [États spéciaux VF](conditions_hd.md)
+## [Etats spéciaux](conditions_hd.md)
 
-## [Spells VO](spells_vo.md)
+## [Sorts](spells_hd.md)
 
-## [Monsters VO](monsters_vo.md)
+## [Créatures](monsters_hd.md)
 
-## [Conditions VO](conditions_vo.md)
+# VO (SRD)
+
+## [Conditions](conditions_vo.md)
+
+## [Spells](spells_vo.md)
+
+## [Monsters](monsters_vo.md)
