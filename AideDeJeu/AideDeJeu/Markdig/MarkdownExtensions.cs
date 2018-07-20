@@ -7,6 +7,8 @@ using AideDeJeuLib;
 using Markdig.Syntax;
 using Markdig.Syntax.Inlines;
 using Markdig.Parsers;
+using System.IO;
+using Markdig.Renderers.Normalize;
 
 namespace AideDeJeu.Tools
 {
@@ -81,6 +83,22 @@ namespace AideDeJeu.Tools
         }
 
 
+
+        public static string ToMarkdownString(this Block block)
+        {
+            var pipeline = new MarkdownPipelineBuilder()
+                .UsePipeTables()
+                .Build();
+
+            using (var writer = new StringWriter())
+            {
+                var renderer = new NormalizeRenderer(writer);
+                pipeline.Setup(renderer);
+
+                renderer.Render(block);
+                return writer.ToString();
+            }
+        }
 
         public static string ToMarkdownString(this Markdig.Syntax.Inlines.ContainerInline inlines)
         {
