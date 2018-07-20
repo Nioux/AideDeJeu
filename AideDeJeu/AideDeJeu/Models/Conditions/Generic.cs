@@ -101,8 +101,10 @@ namespace AideDeJeuLib
                     }
                     else
                     {
+                        int index = 0;
                         foreach (var inblock in listBlock)
                         {
+                            index++;
                             if (inblock is Markdig.Syntax.ListItemBlock)
                             {
                                 var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
@@ -112,7 +114,14 @@ namespace AideDeJeuLib
                                     if (ininblock is Markdig.Syntax.ParagraphBlock)
                                     {
                                         var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
-                                        this.Text += listBlock.BulletType + " " + paragraphBlock.ToMarkdownString() + "\n";
+                                        if (listBlock.IsOrdered)
+                                        {
+                                            this.Text += $"{index}. " + paragraphBlock.ToMarkdownString() + "";
+                                        }
+                                        else
+                                        {
+                                            this.Text += listBlock.BulletType + " " + paragraphBlock.ToMarkdownString() + "";
+                                        }
                                     }
                                     else if (ininblock is ListBlock)
                                     {

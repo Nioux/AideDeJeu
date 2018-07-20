@@ -11,17 +11,17 @@ En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-- Dés de vie : 1d12 par niveau de barbare
-- Points de vie au niveau 1 : 12 + votre modificateur de [Constitution]
-- Points de vie aux niveaux supérieurs : 1d12 (ou 7) + votre modificateur de [Constitution] par niveau de barbare après le premier niveau
+**Dés de vie :** 1d12 par niveau de barbare
+**Points de vie au niveau 1 :** 12 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d12 (ou 7) + votre modificateur de [Constitution] par niveau de barbare après le premier niveau
 
 ## Maîtrises
 
-- Armures : armures légères, armures intermédiaires, boucliers
-- Armes : armes courantes, armes de guerre
-- Outils : aucun
-- [Jets de sauvegarde] : [Force], [Constitution]
-- Compétences : choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie
+**Armures :** armures légères, armures intermédiaires, boucliers
+**Armes :** armes courantes, armes de guerre
+**Outils :** aucun
+**[Jets de sauvegarde] :** [Force], [Constitution]
+**Compétences :** choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie
 
 ## Équipement
 
