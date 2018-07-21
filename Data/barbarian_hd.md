@@ -31,6 +31,8 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) deux hachettes ou (b) n'importe quelle arme courante
 * un paquetage d'explorateur et quatre javelines
 
+[][Generic]
+
 ## Le Barbare
 
 |Niveau|Bonus de maîtrise|Aptitudes|Rages|Dégâts de rage|
