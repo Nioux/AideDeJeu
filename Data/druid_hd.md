@@ -35,33 +35,39 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 ## Druide
 
-Niveau Bonus de maîtrise Aptitudes Tours de magie connus Emplacement de sorts par niveau de sort
-1 2 3 4 5 6 7 8 9
-1 +2 Druidique, Incantations 2 2 - - - - - - - -
-2 +2 Forme sauvage, Cercle druidique 2 3 - - - - - - - -
-3 +2 _ 2 4 2 - - - - - - -
-4 +2 Forme sauvage améliorée, Amélioration de caractéristiques 3 4 3 - - - - - - -
-5 +3 _ 3 4 3 2 - - - - - -
-6 +3 Aptitude de cercle druidique 3 4 3 3 - - - - - -
-7 +3 _ 3 4 3 3 1 - - - - -
-8 +3 Forme sauvage améliorée, Amélioration de caractéristiques 3 4 3 3 2 - - - - -
-9 +4 _ 3 4 3 3 3 1 - - - -
-10 +4 Aptitude de cercle druidique 4 4 3 3 3 2 - - - -
-11 +4 _ 4 4 3 3 3 2 1 - - -
-12 +4 Amélioration de caractéristiques 4 4 3 3 3 2 1 - - -
-13 +5 _ 4 4 3 3 3 2 1 1 - -
-14 +5 Aptitude de cercle druidique 4 4 3 3 3 2 1 1 - -
-15 +5 _ 4 4 3 3 3 2 1 1 1 -
-16 +5 Amélioration de caractéristiques 4 4 3 3 3 2 1 1 1 -
-17 +6 _ 4 4 3 3 3 2 1 1 1 1
-18 +6 Jeunesse éternelle, Incantation animale 4 4 3 3 3 3 1 1 1 1
-19 +6 Amélioration de caractéristiques 4 4 3 3 3 3 2 1 1 1
-20 +6 Archidruide 4 4 3 3 3 3 2 2 1 1
+|Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|+2|Druidique, Incantations|2|2|-|-|-|-|-|-|-|-|
 
+|2|+2|Forme sauvage, Cercle druidique|2|3|-|-|-|-|-|-|-|-|
+|3|+2|_|2|4|2|-|-|-|-|-|-|-|
+|4|+2|Forme sauvage améliorée, Amélioration de caractéristiques|3|4|3|-|-|-|-|-|-|-|
+|5|+3|_|3|4|3|2|-|-|-|-|-|-|
+|6|+3|Aptitude de cercle druidique|3|4|3|3|-|-|-|-|-|-|
+|7|+3|_|3|4|3|3|1|-|-|-|-|-|
+|8|+3|Forme sauvage améliorée, Amélioration de caractéristiques|3|4|3|3|2|-|-|-|-|-|
+|9|+4|_|3|4|3|3|3|1|-|-|-|-|
+|10|+4|Aptitude de cercle druidique|4|4|3|3|3|2|-|-|-|-|
+|11|+4|_|4|4|3|3|3|2|1|-|-|-|
+|12|+4|Amélioration de caractéristiques|4|4|3|3|3|2|1|-|-|-|
+|13|+5|_|4|4|3|3|3|2|1|1|-|-|
+|14|+5|Aptitude de cercle druidique|4|4|3|3|3|2|1|1|-|-|
+|15|+5|_|4|4|3|3|3|2|1|1|1|-|
+|16|+5|Amélioration de caractéristiques|4|4|3|3|3|2|1|1|1|-|
+|17|+6|_|4|4|3|3|3|2|1|1|1|1|
+|18|+6|Jeunesse éternelle, Incantation animale|4|4|3|3|3|3|1|1|1|1|
+|19|+6|Amélioration de caractéristiques|4|4|3|3|3|3|2|1|1|1|
+|20|+6|Archidruide|4|4|3|3|3|3|2|2|1|1|
+
+(* Emplacement de sorts par niveau de sort)
+
+[][Generic]
 
 ## Druidique
 
 Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l’utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D’autres créatures peuvent aussi repérer la présence d’un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
+
+[][Generic]
 
 ## Incantations
 
@@ -97,6 +103,8 @@ Vous pouvez lancer un sort de druide que vous connaissez et que vous avez prépa
 
 Vous pouvez utiliser un focaliseur druidique (voir le chapitre 5, Équipement, page 230) comme focaliseur d’incantation pour vos sorts de druide.
 
+[][Generic]
+
 ## Forme sauvage
 
 À partir du niveau 2, vous pouvez utiliser une action pour vous métamorphoser en un animal que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois.
@@ -120,21 +128,31 @@ Pendant que vous êtes transformé, les règles suivantes s’appliquent :
 * Vous conservez les bénéfices de toute aptitude propre à votre classe, à votre race ou de toute autre source. Vous pouvez les utiliser dans la mesure où votre forme sauvage vous le permet. Néanmoins, vous ne pouvez utiliser vos sens spéciaux, comme la vision dans le noir, que si votre nouvelle forme possède elle aussi ce sens.
 * Vous choisissez quelle partie de votre équipement tombe sur le sol sur l’emplacement que vous occupez et quelle partie fusionne avec votre nouvelle forme ou est portée par celle-ci. L’équipement que vous portez sur vous fonctionne normalement, mais le MJ doit décider si une pièce particulière d’équipement peut être portée de manière pratique par l’animal dont vous prenez la forme (en fonction de la forme et de la taille de la créature). Votre équipement lui-même ne se transforme pas pour s’adapter à votre nouvelle forme et toute pièce d’équipement qui ne peut pas être portée par cette créature tombe sur le sol ou fusionne avec vous au moment de votre transformation. L’équipement qui fusionne avec vous sous votre forme sauvage n’a aucun effet jusqu’à ce que vous retrouviez votre forme normale.
 
+[][Generic]
+
 ## Cercle druidique
 
 Quand vous atteignez le niveau 2, vous décidez d’adopter les valeurs d’un cercle druidique : le cercle de la terre, le cercle des saisons, le cercle des fées ou le cercle des profondeurs. Tous sont détaillés à la fin de la section consacrée à cette classe. En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
+
+[][Generic]
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
+[][Generic]
+
 ## Jeunesse éternelle
 
 À partir du niveau 18, la magie primitive que vous maniez vous permet de vieillir plus lentement. Pour chaque décennie qui passe, votre corps ne vieillit que d'un an.
 
+[][Generic]
+
 ## Incantation animale
 
 À partir du niveau 18, vous pouvez lancer la plupart de vos sorts de druide quelle que soit la forme que vous prenez grâce à l'aptitude forme sauvage. Vous pouvez accomplir les composantes verbales et somatiques d'un sort de druide pendant que vous avez une forme sauvage, mais vous ne pouvez pas utiliser de composantes matérielles.
+
+[][Generic]
 
 ## Archidruide
 
@@ -142,7 +160,11 @@ Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous l
 
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide ainsi que les composantes matérielles qui n’ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.
 
+[][Generic]
+
 # Cercles druidiques
+
+[][Generic]
 
 # Cercle de la terre
 
@@ -244,6 +266,8 @@ Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
 
 La créature est consciente de cet effet avant de vous attaquer.
 
+
+[][Generic]
 
 # Cercle des saisons
 
@@ -350,6 +374,8 @@ De plus, vous bénéficiez d'un avantage à tous vos tests sur une caractéristi
 
 Cette aptitude remplace et annule l’aptitude du même nom obtenue par les druides des autres cercles.
 
+[][Generic]
+
 # Cercle des fées
 
 Le druide du cercle des fées a appris les secrets du petit peuple des bois et des forêts, il sait reconnaître les signes et parler le langage des fées, il sait trouver les portes vers le monde invisible lorsqu’il existe. Il fait partie des rares mortels qui sont bienvenus à la cour féerique. En échange, il a juré de défendre les fées, mais aussi les lutins et autres korrigans, même ceux du peuple invisible dont l’âme est la plus sombre et, surtout, de protéger les lieux sauvages et les cercles sacrés qui les abritent.
@@ -405,6 +431,8 @@ Vous maîtrisez à présent la plus puissante magie des fées.
 À partir du niveau 14, vous devenez capable de lancer les sorts mauvais oeil et vision suprême chacun une fois par jour en plus de vos sorts habituels. Vous devez terminer un repos long avant de pouvoir de nouveau lancer chacun d’eux.
 
 Également au niveau 14, vous devenez capable de prendre la forme d’un arbre éveillé en sacrifiant deux utilisations de votre aptitude de forme sauvage.
+
+[][Generic]
 
 # Cercle des profondeurs
 
