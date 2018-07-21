@@ -38,27 +38,28 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 # Tableau d'évolution
 
-Niveau Bonus de maîtrise Attaque sournoise Aptitudes
-1 +2 1d6 Expertise, Attaque sournoise, Argot des voleurs
-2 +2 1d6 Ruse
-3 +2 2d6 Archétype de roublard
-4 +2 2d6 Amélioration de caractéristiques
-5 +3 3d6 Esquive instinctive
-6 +3 3d6 Expertise
-7 +3 4d6 Dérobade
-8 +3 4d6 Amélioration de caractéristiques
-9 +4 5d6 Aptitude d’archétype de roublard
-10 +4 5d6 Amélioration de caractéristiques
-11 +4 6d6 Talent
-12 +4 6d6 Amélioration de caractéristiques
-13 +5 7d6 Aptitude d’archétype de roublard
-14 +5 7d6 Ouïe fine
-15 +5 8d6 Esprit impénétrable
-16 +5 8d6 Amélioration de caractéristiques
-17 +6 9d6 Aptitude d’archétype de roublard
-18 +6 9d6 Insaisissable
-19 +6 10d6 Amélioration de caractéristiques
-20 +6 10d6 Coup de chance
+|Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|
+|---|---|---|---|
+|1|+2|1d6|Expertise, Attaque sournoise, Argot des voleurs|
+|2|+2|1d6|Ruse|
+|3|+2|2d6|Archétype de roublard|
+|4|+2|2d6|Amélioration de caractéristiques|
+|5|+3|3d6|Esquive instinctive|
+|6|+3|3d6|Expertise|
+|7|+3|4d6|Dérobade|
+|8|+3|4d6|Amélioration de caractéristiques|
+|9|+4|5d6|Aptitude d’archétype de roublard|
+|10|+4|5d6|Amélioration de caractéristiques|
+|11|+4|6d6|Talent|
+|12|+4|6d6|Amélioration de caractéristiques|
+|13|+5|7d6|Aptitude d’archétype de roublard|
+|14|+5|7d6|Ouïe fine|
+|15|+5|8d6|Esprit impénétrable|
+|16|+5|8d6|Amélioration de caractéristiques|
+|17|+6|9d6|Aptitude d’archétype de roublard|
+|18|+6|9d6|Insaisissable|
+|19|+6|10d6|Amélioration de caractéristiques|
+|20|+6|10d6|Coup de chance|
 
 
 [][Generic]
@@ -287,11 +288,13 @@ Vous pouvez apprendre et lancer des sorts dont le coût en points de sorcellerie
 
 Lorsque vous lancez un sort, vous dépensez un nombre de points de sorcellerie indiqué dans le tableau ci-dessous (et limité à votre bonus de maîtrise). Par exemple, un roublard de niveau 8 possède un bonus de maîtrise de +3, il peut donc lancer des sorts de niveau 2 qui lui coûtent 3 points de sorcellerie chacun ou des sorts de niveau 1 qui lui en coûtent 2. Au total, chaque jour, entre deux repos longs, il peut dépenser 8 points de sorcellerie.
 
-Niveau de sort Coût en points de sorcellerie
-1 2
-2 3
-3 5
-4 6
+|Niveau de sort|Coût en points de sorcellerie|
+|---|---|
+|1|2|
+
+|2|3|
+|3|5|
+|4|6|
 
 Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la liste de sorts d’ombrelame.
 

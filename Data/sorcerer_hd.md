@@ -37,29 +37,31 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 # Tableau d'évolution
 
-Niv. Bonus de maîtrise Points de sorcellerie Aptitudes Tours de magie connus Sorts connus Emplacement de sorts par niveau de sort
-1 2 3 4 5 6 7 8 9
-1 +2 _ Incantations, Origine magique 4 2 2 - - - - - - - -
-2 +2 2 Source de magie 4 3 3 - - - - - - - -
-3 +2 3 Métamagie 4 4 4 2 - - - - - - -
-4 +2 4 Amélioration de caractéristiques 5 5 4 3 - - - - - - -
-5 +3 5 _ 5 6 4 3 2 - - - - - -
-6 +3 6 Aptitude d’origine magique 5 7 4 3 3 - - - - - -
-7 +3 7 _ 5 8 4 3 3 1 - - - - -
-8 +3 8 Amélioration de caractéristiques 5 9 4 3 3 2 - - - - -
-9 +4 9 _ 5 10 4 3 3 3 1 - - - -
-10 +4 10 Métamagie 6 11 4 3 3 3 2 - - - -
-11 +4 11 _ 6 12 4 3 3 3 2 1 - - -
-12 +4 12 Amélioration de caractéristiques 6 12 4 3 3 3 2 1 - - -
-13 +5 13 _ 6 13 4 3 3 3 2 1 1 - -
-14 +5 14 Aptitude d’origine magique 6 13 4 3 3 3 2 1 1 - -
-15 +5 15 _ 6 14 4 3 3 3 2 1 1 1 -
-16 +5 16 Amélioration de caractéristiques 6 14 4 3 3 3 2 1 1 1 -
-17 +6 17 Métamagie 6 15 4 3 3 3 2 1 1 1 1
-18 +6 18 Aptitude d’origine magique 6 15 4 3 3 3 3 1 1 1 1
-19 +6 19 Amélioration de caractéristiques 6 15 4 3 3 3 3 2 1 1 1
-20 +6 20 Régénération de l’ensorceleur 6 15 4 3 3 3 3 2 2 1 1
+|Niv.|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|1|2|3|4|5|6|7|8|9|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|+2|_|Incantations, Origine magique|4|2|2|-|-|-|-|-|-|-|-|
 
+|2|+2|2|Source de magie|4|3|3|-|-|-|-|-|-|-|-|
+|3|+2|3|Métamagie|4|4|4|2|-|-|-|-|-|-|-|
+|4|+2|4|Amélioration de caractéristiques|5|5|4|3|-|-|-|-|-|-|-|
+|5|+3|5|_|5|6|4|3|2|-|-|-|-|-|-|
+|6|+3|6|Aptitude d’origine magique|5|7|4|3|3|-|-|-|-|-|-|
+|7|+3|7|_|5|8|4|3|3|1|-|-|-|-|-|
+|8|+3|8|Amélioration de caractéristiques|5|9|4|3|3|2|-|-|-|-|-|
+|9|+4|9|_|5|10|4|3|3|3|1|-|-|-|-|
+|10|+4|10|Métamagie|6|11|4|3|3|3|2|-|-|-|-|
+|11|+4|11|_|6|12|4|3|3|3|2|1|-|-|-|
+|12|+4|12|Amélioration de caractéristiques|6|12|4|3|3|3|2|1|-|-|-|
+|13|+5|13|_|6|13|4|3|3|3|2|1|1|-|-|
+|14|+5|14|Aptitude d’origine magique|6|13|4|3|3|3|2|1|1|-|-|
+|15|+5|15|_|6|14|4|3|3|3|2|1|1|1|-|
+|16|+5|16|Amélioration de caractéristiques|6|14|4|3|3|3|2|1|1|1|-|
+|17|+6|17|Métamagie|6|15|4|3|3|3|2|1|1|1|1|
+|18|+6|18|Aptitude d’origine magique|6|15|4|3|3|3|3|1|1|1|1|
+|19|+6|19|Amélioration de caractéristiques|6|15|4|3|3|3|3|2|1|1|1|
+|20|+6|20|Régénération de l’ensorceleur|6|15|4|3|3|3|3|2|2|1|1|
+
+(* Emplacement de sorts par niveau de sort)
 
 
 [][Generic]
@@ -136,12 +138,14 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 
 ## Création d’emplacements de sorts
 
-Niveau d’emplacement de sort Points de sorcellerie dépensés
-1 2
-2 3
-3 5
-4 6
-5 7
+|Niveau d’emplacement de sort|Points de sorcellerie dépensés|
+|---|---|
+|1|2|
+
+|2|3|
+|3|5|
+|4|6|
+|5|7|
 
 Convertir un emplacement de sort en points de sorcellerie. Lors de votre tour, vous pouvez utiliser une action bonus pour utiliser un emplacement de sort et gagner un nombre de points de sorcellerie équivalent au niveau de l’emplacement de sort que vous avez utilisé.
 
@@ -248,17 +252,19 @@ De plus, à chaque fois que vous faites un test de Charisme alors que vous inter
 
 ## Lignée draconique
 
-Dragon Type de dégâts
-Airain Feu
-Argent Froid
-Blanc Froid
-Bleu Foudre
-Bronze Foudre
-Cuivre Acide
-Noir Acide
-Or Feu
-Rouge Feu
-Vert Poison
+|Dragon|Type de dégâts|
+|---|---|
+|Airain|Feu|
+
+|Argent|Froid|
+|Blanc|Froid|
+|Bleu|Foudre|
+|Bronze|Foudre|
+|Cuivre|Acide|
+|Noir|Acide|
+|Or|Feu|
+|Rouge|Feu|
+|Vert|Poison|
 
 ## Résistance draconique
 

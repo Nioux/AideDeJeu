@@ -38,28 +38,29 @@ Vous commencez avec l’équipement suivant, en plus de celui accordé par votre
 
 # Tableau d'évolution
 
-Niv. Bonus de maîtrise Aptitudes Tours de magie connus Sorts connus Emplacements de sorts Niveau des emplacements Invocations occultes
-1 +2 Protecteur de l’outremonde, Magie de pacte 2 2 1 1 _
-2 +2 Invocations occultes 2 3 2 1 2
-3 +2 Pacte 2 4 2 2 2
-4 +2 Amélioration de
-caractéristiques 3 5 2 2 2
-5 +3 _ 3 6 2 3 3
-6 +3 Aptitude de protecteur de l’outre-monde 3 7 2 3 3
-7 +3 _ 3 8 2 4 4
-8 +3 Amélioration de caractéristiques 3 9 2 4 4
-9 +4 _ 3 10 2 5 5
-10 +4 Aptitude de protecteur de l’outre-monde 4 10 2 5 5
-11 +4 Arcanum mystique (niveau 6) 4 11 3 5 5
-12 +4 Amélioration de caractéristiques 4 11 3 5 6
-13 +5 Arcanum mystique (niveau 7) 4 12 3 5 6
-14 +5 Aptitude de protecteur de l’outre-monde 4 12 3 5 6
-15 +5 Arcanum mystique (niveau 8) 4 13 3 5 7
-16 +5 Amélioration de caractéristiques 4 13 3 5 7
-17 +6 Arcanum mystique (niveau 9) 4 14 4 5 7
-18 +6 _ 4 14 4 5 8
-19 +6 Amélioration de caractéristiques 4 15 4 5 8
-20 +6 Maître de l’occulte 4 15 4 5 8
+|Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|
+|---|---|---|---|---|---|---|---|
+|1|+2|Protecteur de l’outremonde, Magie de pacte|2|2|1|1|_|
+
+|2|+2|Invocations occultes|2|3|2|1|2|
+|3|+2|Pacte|2|4|2|2|2|
+|4|+2|Amélioration de caractéristiques|3|5|2|2|2|
+|5|+3|_|3|6|2|3|3|
+|6|+3|Aptitude de protecteur de l’outre-monde|3|7|2|3|3|
+|7|+3|_|3|8|2|4|4|
+|8|+3|Amélioration de caractéristiques|3|9|2|4|4|
+|9|+4|_|3|10|2|5|5|
+|10|+4|Aptitude de protecteur de l’outre-monde|4|10|2|5|5|
+|11|+4|Arcanum mystique (niveau 6)|4|11|3|5|5|
+|12|+4|Amélioration de caractéristiques|4|11|3|5|6|
+|13|+5|Arcanum mystique (niveau 7)|4|12|3|5|6|
+|14|+5|Aptitude de protecteur de l’outre-monde|4|12|3|5|6|
+|15|+5|Arcanum mystique (niveau 8)|4|13|3|5|7|
+|16|+5|Amélioration de caractéristiques|4|13|3|5|7|
+|17|+6|Arcanum mystique (niveau 9)|4|14|4|5|7|
+|18|+6|_|4|14|4|5|8|
+|19|+6|Amélioration de caractéristiques|4|15|4|5|8|
+|20|+6|Maître de l’occulte|4|15|4|5|8|
 
 
 [][Generic]
@@ -376,12 +377,14 @@ Vous avez passé un pacte avec un fiélon des plans inférieurs, un être qui vi
 
 Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
 
-Niv. de sort Sorts
-1 mains brûlantes, injonction
-2 cécité/surdité, rayon ardent
-3 boule de feu, nuage puant
-4 bouclier de feu, mur de feu
-5 colonne de flamme, sanctification
+|Niv. de sort|Sorts|
+|---|---|
+|1|mains brûlantes, injonction|
+
+|2|cécité/surdité, rayon ardent|
+|3|boule de feu, nuage puant|
+|4|bouclier de feu, mur de feu|
+|5|colonne de flamme, sanctification|
 
 ## Bénédiction du ténébreux
 
@@ -417,12 +420,14 @@ Certains mortels ont été si puissants et sont devenus de telles légendes à t
 
 Le seigneur immortel vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
 
-Niv.de sort Sorts
-1 fléau, simulacre de vie
-2 augure, doux repos
-3 animation des morts, communication avec les morts
-4 liberté de mouvement, protection contre la mort
-5 légende, rappel à la vie
+|Niv.de sort|Sorts|
+|---|---|
+|1|fléau, simulacre de vie|
+
+|2|augure, doux repos|
+|3|animation des morts, communication avec les morts|
+|4|liberté de mouvement, protection contre la mort|
+|5|légende, rappel à la vie|
 
 
 ## Relique
@@ -463,12 +468,14 @@ Vous lui soutirez des secrets et votre pouvoir dans ses rêves, à son insu. Att
 
 La puissance des profondeurs vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
 
-Niv. de sort Sorts
-1 nappe de brouillard, sommeil
-2 modifier son apparence, vision dans le noir
-3 fusion dans la pierre, respiration aquatique
-4 liane chasseresse, insecte géant
-5 fléau d’insectes, passe-muraille
+|Niv. de sort|Sorts|
+|---|---|
+|1|nappe de brouillard, sommeil|
+
+|2|modifier son apparence, vision dans le noir|
+|3|fusion dans la pierre, respiration aquatique|
+|4|liane chasseresse, insecte géant|
+|5|fléau d’insectes, passe-muraille|
 
 ## Adepte des profondeurs
 
@@ -506,12 +513,14 @@ Votre protecteur est une entité incompréhensible pour les sens humains, il exi
 
 L’entité extra-dimensionnelle vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
 
-Niv. de sort Sorts
-1 alarme, image silencieuse
-2 corde enchantée, voir l’invisible
-3 clignotement, clairvoyance
-4 divination, assassin imaginaire
-5 tromperie, cercle de téléportation
+|Niv. de sort|Sorts|
+|---|---|
+|1|alarme, image silencieuse|
+
+|2|corde enchantée, voir l’invisible|
+|3|clignotement, clairvoyance|
+|4|divination, assassin imaginaire|
+|5|tromperie, cercle de téléportation|
 
 ## Apparences trompeuses
 
