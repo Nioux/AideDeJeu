@@ -25,6 +25,55 @@ namespace AideDeJeuLib
             }
         }
 
+        public void ParseBlock(Block block)
+        {
+            if (block is HeadingBlock)
+            {
+                var headingBlock = block as HeadingBlock;
+                if (this.Name == null)
+                {
+                    this.Name = headingBlock.Inline.ToMarkdownString();
+                }
+                this.Text += block.ToMarkdownString();
+            }
+            else if (block is ListBlock)
+            {
+                var listBlock = block as ListBlock;
+                if (listBlock.BulletType == '-')
+                {
+                    var regex = new Regex("(?<key>.*?): (?<value>.*)");
+                    var str = block.ToMarkdownString();
+                    var properties = new List<Tuple<string, Action<Generic, string>>>()
+                        {
+                            new Tuple<string, Action<Generic, string>>("- AltName: ", (m, s) =>
+                            {
+                                this.Text += "- " + s; m.AltName = s;
+                            }),
+                            new Tuple<string, Action<Generic, string>>("", (m, s) =>
+                            {
+                                this.Text += str;
+                            }),
+                        };
+
+                    foreach (var property in properties)
+                    {
+                        if (str.StartsWith(property.Item1))
+                        {
+                            property.Item2.Invoke(this, str.Substring(property.Item1.Length));
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    this.Text += block.ToMarkdownString();
+                }
+            }
+            else
+            {
+                this.Text += block.ToMarkdownString();
+            }
+        }
         public override void Parse(ref ContainerBlock.Enumerator enumerator)
         {
             enumerator.MoveNext();
@@ -35,53 +84,7 @@ namespace AideDeJeuLib
                 {
                     return;
                 }
-                if (block is HeadingBlock)
-                {
-                    var headingBlock = block as HeadingBlock;
-                    if (this.Name == null)
-                    {
-                        this.Name = headingBlock.Inline.ToMarkdownString();
-                    }
-                    this.Text += block.ToMarkdownString();
-                }
-                else if (block is ListBlock)
-                {
-                    var listBlock = block as ListBlock;
-                    if (listBlock.BulletType == '-')
-                    {
-                        var regex = new Regex("(?<key>.*?): (?<value>.*)");
-                        var str = block.ToMarkdownString();
-                        var properties = new List<Tuple<string, Action<Generic, string>>>()
-                        {
-                            new Tuple<string, Action<Generic, string>>("- AltName: ", (m, s) => 
-                            {
-                                this.Text += "- " + s; m.AltName = s;
-                            }),
-                            new Tuple<string, Action<Generic, string>>("", (m, s) => 
-                            {
-                                this.Text += str;
-                            }),
-                        };
-
-                        foreach (var property in properties)
-                        {
-                            if (str.StartsWith(property.Item1))
-                            {
-                                property.Item2.Invoke(this, str.Substring(property.Item1.Length));
-                                break;
-                            }
-                        }
-                    }
-                    else
-                    {
-                        this.Text += block.ToMarkdownString();
-                    }
-                }
-                else
-                {
-                    this.Text += block.ToMarkdownString();
-                }
-
+                ParseBlock(block);
                 enumerator.MoveNext();
 
             }

@@ -2,19 +2,22 @@
 [][SpellsHD]
 
 # Sorts (H&D)
+
 - AltName: [Spells](spells_vo.md)
 
 [][SpellHD]
 
 # Agrandir/rétrécir
+
 - AltName: [Enlarge/Reduce](spells_vo.md#enlargereduce)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de limaille de fer)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de limaille de fer)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 2
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -31,14 +34,16 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 [][SpellHD]
 
 # Aide
+
 - AltName: [Aid](spells_vo.md#aid)
-- CastingTime: 1 action
-- Components: V, S, M (une minuscule bandelette de tissu blanc)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une minuscule bandelette de tissu blanc)
+- **Durée :** 8 heures
 - LevelType: Abjuration de niveau 2
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -51,14 +56,16 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 [][SpellHD]
 
 # Alarme
+
 - AltName: [Alarm](spells_vo.md#alarm)
-- CastingTime: 1 minute
-- Components: V, S, M (une minuscule clochette et un filament en argent)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une minuscule clochette et un filament en argent)
+- **Durée :** 8 heures
 - LevelType: Abjuration de niveau 1 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Ombrelame, Rôdeur
+- Classes: [Magicien], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -73,14 +80,16 @@ Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes
 [][SpellHD]
 
 # Allié planaire
+
 - AltName: [Planar Ally](spells_vo.md#planar-ally)
-- CastingTime: 10 minutes
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 6
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -105,14 +114,16 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 [][SpellHD]
 
 # Amélioration de caractéristique
+
 - AltName: [Enhance Ability](spells_vo.md#enhance-ability)
-- CastingTime: 1 action
-- Components: V, S, M (des poils ou des plumes venant d'un animal)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (des poils ou des plumes venant d'un animal)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Ensorceleur
+- Classes: [Barde], [Clerc], [Druide], [Ensorceleur]
 
 ### Description
 
@@ -137,14 +148,16 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 [][SpellHD]
 
 # Amitié avec les animaux
+
 - AltName: [Animal Friendship](spells_vo.md#animal-friendship)
-- CastingTime: 1 action
-- Components: V, S, M (un peu de nourriture)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu de nourriture)
+- **Durée :** 24 heures
 - LevelType: Enchantement de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Rôdeur
+- Classes: [Barde], [Druide], [Rôdeur]
 
 ### Description
 
@@ -157,14 +170,16 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 [][SpellHD]
 
 # Animation des morts
+
 - AltName: [Animate Dead](spells_vo.md#animate-dead)
-- CastingTime: 1 minute
-- Components: V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 3
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien
+- Classes: [Clerc], [Magicien]
 
 ### Description
 
@@ -183,14 +198,16 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 [][SpellHD]
 
 # Animation des objets
+
 - AltName: [Animate Objects](spells_vo.md#animate-objects)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 5
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -219,14 +236,16 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 [][SpellHD]
 
 # Apaisement des émotions
+
 - AltName: [Calm Emotions](spells_vo.md#calm-emotions)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc
+- Classes: [Barde], [Clerc]
 
 ### Description
 
@@ -241,14 +260,16 @@ Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20
 [][SpellHD]
 
 # Apparence trompeuse
+
 - AltName: [Seeming](spells_vo.md#seeming)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 8 heures
 - LevelType: Illusion de niveau 5
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -269,14 +290,16 @@ Une créature peut utiliser son action pour examiner une cible et faire un test 
 [][SpellHD]
 
 # Appel de familier
+
 - AltName: [Find Familiar](spells_vo.md#find-familiar)
-- CastingTime: 1 heure
-- Components: V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 1 (rituel)
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -299,14 +322,16 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 [][SpellHD]
 
 # Appel de la foudre
+
 - AltName: [Call Lightning](spells_vo.md#call-lightning)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 3
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -323,14 +348,16 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 [][SpellHD]
 
 # Arc enchanté
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un arc)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un arc)
+- **Durée :** 1 minute
 - LevelType: Enchantement de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Rôdeur
+- Classes: [Rôdeur]
 
 ### Description
 
@@ -345,14 +372,16 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 [][SpellHD]
 
 # Arme magique
+
 - AltName: [Magic Weapon](spells_vo.md#magic-weapon)
-- CastingTime: 1 action bonus
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Magicien, Paladin
+- Classes: [Magicien], [Paladin]
 
 ### Description
 
@@ -365,14 +394,16 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 [][SpellHD]
 
 # Arme sainte
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -385,14 +416,16 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 [][SpellHD]
 
 # Arme spirituelle
+
 - AltName: [Spiritual Weapon](spells_vo.md#spiritual-weapon)
-- CastingTime: 1 action bonus
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Évocation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -411,14 +444,16 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 [][SpellHD]
 
 # Armure du mage
+
 - AltName: [Mage Armor](spells_vo.md#mage-armor)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de cuir tanné)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de cuir tanné)
+- **Durée :** 8 heures
 - LevelType: Abjuration de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -429,14 +464,16 @@ Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez
 [][SpellHD]
 
 # Arrêt du temps
+
 - AltName: [Time Stop](spells_vo.md#time-stop)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 9
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -449,14 +486,16 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 [][SpellHD]
 
 # Aspersion acide
+
 - AltName: [Acid Splash](spells_vo.md#acid-splash)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Invocation , tour de magie
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -469,14 +508,16 @@ Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 1
 [][SpellHD]
 
 # Assassin imaginaire
+
 - AltName: [Phantasmal Killer](spells_vo.md#phantasmal-killer)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 4
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -493,14 +534,16 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 [][SpellHD]
 
 # Assistance
+
 - AltName: [Guidance](spells_vo.md#guidance)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Divination, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -511,14 +554,16 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 [][SpellHD]
 
 # Augure
+
 - AltName: [Augury](spells_vo.md#augury)
-- CastingTime: 1 minute
-- Components: V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)
+- **Durée :** instantanée
 - LevelType: Divination de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -541,14 +586,16 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 [][SpellHD]
 
 # Aura de force
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V
-- Duration: Concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** Concentration, jusqu'à 10 minutes
 - LevelType: Abjuration de niveau 5
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -559,14 +606,16 @@ Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et
 [][SpellHD]
 
 # Aura du héros
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement, tour de magie
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -579,14 +628,16 @@ Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètre
 [][SpellHD]
 
 # Aura magique de l'arcaniste
+
 - AltName: [Nystul's Magic Aura](spells_vo.md#nystuls-magic-aura)
-- CastingTime: 1 action
-- Components: V, S, M (un petit carré de soie)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit carré de soie)
+- **Durée :** 24 heures
 - LevelType: Illusion de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Magicien, Ombrelame
+- Classes: [Magicien], [Ombrelame]
 
 ### Description
 
@@ -603,14 +654,16 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 [][SpellHD]
 
 # Aura sacrée
+
 - AltName: [Holy Aura](spells_vo.md#holy-aura)
-- CastingTime: 1 action
-- Components: V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Abjuration de niveau 8
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -623,14 +676,16 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 [][SpellHD]
 
 # Bagou
+
 - AltName: [Glibness](spells_vo.md#glibness)
-- CastingTime: 1 action
-- Components: V
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** 1 heure
 - LevelType: Transmutation de niveau 8
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Sorcier
+- Classes: [Barde], [Sorcier]
 
 ### Description
 
@@ -641,14 +696,16 @@ Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme], v
 [][SpellHD]
 
 # Baies nourricières
+
 - AltName: [Goodberry](spells_vo.md#goodberry)
-- CastingTime: 1 action
-- Components: V, S, M (un brin de gui)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un brin de gui)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -663,14 +720,16 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 [][SpellHD]
 
 # Balisage
+
 - AltName: [Guiding Bolt](spells_vo.md#guiding-bolt)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 round
 - LevelType: Évocation de niveau 1
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -683,14 +742,16 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 [][SpellHD]
 
 # Bannissement
+
 - AltName: [Banishment](spells_vo.md#banishment)
-- CastingTime: 1 action
-- Components: V, S, M (un objet qui répugne à la cible)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un objet qui répugne à la cible)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Abjuration de niveau 4
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Ensorceleur, Magicien, Paladin, Sorcier
+- Classes: [Clerc], [Ensorceleur], [Magicien], [Paladin], [Sorcier]
 
 ### Description
 
@@ -711,14 +772,16 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 [][SpellHD]
 
 # Barrière de lames
+
 - AltName: [Blade Barrier](spells_vo.md#blade-barrier)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Évocation de niveau 6
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -731,14 +794,16 @@ Quand une créature pénètre dans la zone du mur pour la première fois au cour
 [][SpellHD]
 
 # Bénédiction
+
 - AltName: [Bless](spells_vo.md#bless)
-- CastingTime: 1 action
-- Components: V, S, M (un peu d'eau bénite à asperger)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu d'eau bénite à asperger)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -751,14 +816,16 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 [][SpellHD]
 
 # Bénédiction héroïque
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Divination de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -769,14 +836,16 @@ Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cib
 [][SpellHD]
 
 # Blessure
+
 - AltName: [Inflict Wounds](spells_vo.md#inflict-wounds)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -789,14 +858,16 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 [][SpellHD]
 
 # Bouche magique
+
 - AltName: [Magic Mouth](spells_vo.md#magic-mouth)
-- CastingTime: 1 minute
-- Components: V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)
+- **Durée :** jusqu'à dissipation
 - LevelType: Illusion de niveau 2 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -813,14 +884,16 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 [][SpellHD]
 
 # Bouclier
+
 - AltName: [Shield](spells_vo.md#shield)
-- CastingTime: 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_
-- Components: V, S
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_
+- **Composantes :** V, S
+- **Durée :** 1 round
 - LevelType: Abjuration de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -831,14 +904,16 @@ Une barrière [invisible] faite de force magique apparaît autour de vous et vou
 [][SpellHD]
 
 # Bouclier de feu
+
 - AltName: [Fire Shield](spells_vo.md#fire-shield)
-- CastingTime: 1 action
-- Components: V, S, M (un morceau de phosphore ou une luciole)
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un morceau de phosphore ou une luciole)
+- **Durée :** 10 minutes
 - LevelType: Évocation de niveau 4
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -853,14 +928,16 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 [][SpellHD]
 
 # Bouclier de la foi
+
 - AltName: [Shield of Faith](spells_vo.md#shield-of-faith)
-- CastingTime: 1 action bonus
-- Components: V, S, M (un petit parchemin avec un extrait de texte sacré)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (un petit parchemin avec un extrait de texte sacré)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Abjuration de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -871,14 +948,16 @@ Un champ scintillant apparaît autour d'une créature de votre choix située à 
 [][SpellHD]
 
 # Bouffée de poison
+
 - AltName: [Poison Spray](spells_vo.md#poison-spray)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Invocation , tour de magie
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Magicien, Sorcier
+- Classes: [Druide], [Magicien], [Sorcier]
 
 ### Description
 
@@ -891,14 +970,16 @@ Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12),
 [][SpellHD]
 
 # Boule de feu
+
 - AltName: [Fireball](spells_vo.md#fireball)
-- CastingTime: 1 action
-- Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 3
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -913,14 +994,16 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 [][SpellHD]
 
 # Boule de feu à explosion retardée
+
 - AltName: [Delayed Blast Fireball](spells_vo.md#delayed-blast-fireball)
-- CastingTime: 1 action
-- Components: V, S, M (une petite boule de guano de chauve-souris et du soufre)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une petite boule de guano de chauve-souris et du soufre)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 7
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -941,14 +1024,16 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 [][SpellHD]
 
 # Bourrasque
+
 - AltName: [Gust of Wind](spells_vo.md#gust-of-wind)
-- CastingTime: 1 action
-- Components: V, S, M (une graine de légume)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une graine de légume)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 2
-- Range: personnelle (ligne de 18 mètres)
+- **Portée :** personnelle (ligne de 18 mètres)
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -965,14 +1050,16 @@ Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'
 [][SpellHD]
 
 # Briser
+
 - AltName: [Shatter](spells_vo.md#shatter)
-- CastingTime: 1 action
-- Components: V, S, M (un éclat de mica)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un éclat de mica)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -989,14 +1076,16 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 [][SpellHD]
 
 # Brûlure du juste
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -1015,14 +1104,16 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 [][SpellHD]
 
 # Cage de force
+
 - AltName: [Forcecage](spells_vo.md#forcecage)
-- CastingTime: 1 action
-- Components: V, S, M (poussière de rubis d'une valeur de 1 500 po)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (poussière de rubis d'une valeur de 1 500 po)
+- **Durée :** 1 heure
 - LevelType: Évocation de niveau 7
-- Range: 30 mètres
+- **Portée :** 30 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Sorcier
+- Classes: [Barde], [Magicien], [Sorcier]
 
 ### Description
 
@@ -1043,14 +1134,16 @@ La _[dissipation de la magie]_ est sans effet sur ce sort.
 [][SpellHD]
 
 # Caresse du vampire
+
 - AltName: [Vampiric Touch](spells_vo.md#vampiric-touch)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Nécromancie de niveau 3
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -1063,14 +1156,16 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 [][SpellHD]
 
 # Catalepsie
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un petit morceau de linceul)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit morceau de linceul)
+- **Durée :** 1 heure
 - LevelType: Nécromancie de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Barde, Clerc, Druide, Magicien, Ombrelame
+- Classes: [Barde], [Clerc], [Druide], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -1089,14 +1184,16 @@ Au niveau 9, la cible doit réussir un [jet de sauvegarde] de constitution diffi
 [][SpellHD]
 
 # Cécité/surdité
+
 - AltName: [Blindness/Deafness](spells_vo.md#blindnessdeafness)
-- CastingTime: 1 action
-- Components: V
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** 1 minute
 - LevelType: Nécromancie de niveau 2
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Ensorceleur, Magicien
+- Classes: [Barde], [Clerc], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -1111,14 +1208,16 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 [][SpellHD]
 
 # Cercle de mort
+
 - AltName: [Circle of Death](spells_vo.md#circle-of-death)
-- CastingTime: 1 action
-- Components: V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 6
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -1131,14 +1230,16 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 [][SpellHD]
 
 # Cercle de téléportation
+
 - AltName: [Teleportation Circle](spells_vo.md#teleportation-circle)
-- CastingTime: 1 minute
-- Components: V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)
+- **Durée :** 1 round
 - LevelType: Invocation de niveau 5
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -1157,14 +1258,16 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 [][SpellHD]
 
 # Cercle magique
+
 - AltName: [Magic Circle](spells_vo.md#magic-circle)
-- CastingTime: 1 minute
-- Components: V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
+- **Durée :** 1 heure
 - LevelType: Abjuration de niveau 3
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien, Paladin, Sorcier
+- Classes: [Clerc], [Magicien], [Paladin], [Sorcier]
 
 ### Description
 
@@ -1189,14 +1292,16 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 [][SpellHD]
 
 # Chaîne d'éclairs
+
 - AltName: [Chain Lightning](spells_vo.md#chain-lightning)
-- CastingTime: 1 action
-- Components: V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 6
-- Range: 450 mètres
+- **Portée :** 450 mètres
 - Source: (HD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -1215,14 +1320,16 @@ Chaque cible doit faire un [jet de sauvegarde] de [Dextérité] et subit 10d8 d�
 [][SpellHD]
 
 # Champ antimagie
+
 - AltName: [Antimagic Field](spells_vo.md#antimagic-field)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poudre de fer ou de limaille)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poudre de fer ou de limaille)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Abjuration de niveau 8
-- Range: personnelle (sphère de 3 mètres de rayon)
+- **Portée :** personnelle (sphère de 3 mètres de rayon)
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien
+- Classes: [Clerc], [Magicien]
 
 ### Description
 
@@ -1251,14 +1358,16 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 [][SpellHD]
 
 # Changement de forme
+
 - AltName: [Shapechange](spells_vo.md#shapechange)
-- CastingTime: 1 action
-- Components: V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 9
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Druide, Magicien
+- Classes: [Druide], [Magicien]
 
 ### Description
 
@@ -1283,14 +1392,16 @@ Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une no
 [][SpellHD]
 
 # Changement de plan
+
 - AltName: [Plane Shift](spells_vo.md#plane-shift)
-- CastingTime: 1 action
-- Components: V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 7
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Ensorceleur, Magicien, Sorcier
+- Classes: [Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -1307,14 +1418,16 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 [][SpellHD]
 
 # Charme-personne
+
 - AltName: [Charm Person](spells_vo.md#charm-person)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 heure
 - LevelType: Enchantement de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -1327,14 +1440,16 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 [][SpellHD]
 
 # Chauffer le métal
+
 - AltName: [Heat Metal](spells_vo.md#heat-metal)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de fer et une flamme)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de fer et une flamme)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide
+- Classes: [Barde], [Druide]
 
 ### Description
 
@@ -1353,14 +1468,16 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 [][SpellHD]
 
 # Chien de garde
+
 - AltName: [Mordenkainen's Faithful Hound](spells_vo.md#mordenkainens-faithful-hound)
-- CastingTime: 1 action
-- Components: V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)
+- **Durée :** 8 heures
 - LevelType: Invocation de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -1375,14 +1492,16 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 [][SpellHD]
 
 # Choc des titans
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Enchantement de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -1393,14 +1512,16 @@ Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversai
 [][SpellHD]
 
 # Clairvoyance
+
 - AltName: [Clairvoyance](spells_vo.md#clairvoyance)
-- CastingTime: 10 minutes
-- Components: V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Divination de niveau 3
-- Range: 1,5 kilomètre
+- **Portée :** 1,5 kilomètre
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -1417,14 +1538,16 @@ Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple d
 [][SpellHD]
 
 # Clignotement
+
 - AltName: [Blink](spells_vo.md#blink)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Transmutation de niveau 3
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -1437,14 +1560,16 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 [][SpellHD]
 
 # Clone
+
 - AltName: [Clone](spells_vo.md#clone)
-- CastingTime: 1 heure
-- Components: V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 8
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -1457,14 +1582,16 @@ Une fois que le clone est arrivé à maturité, si la créature originale meurt,
 [][SpellHD]
 
 # Coercition mystique
+
 - AltName: [Geas](spells_vo.md#geas)
-- CastingTime: 1 minute
-- Components: V
-- Duration: 30 jours
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V
+- **Durée :** 30 jours
 - LevelType: Enchantement de niveau 5
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Magicien, Paladin
+- Classes: [Barde], [Clerc], [Druide], [Magicien], [Paladin]
 
 ### Description
 
@@ -1485,14 +1612,16 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 [][SpellHD]
 
 # Coffre secret
+
 - AltName: [Leomund's Secret Chest](spells_vo.md#leomunds-secret-chest)
-- CastingTime: 1 action
-- Components: V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 4
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -1509,14 +1638,16 @@ Si le sort se termine alors que le grand coffre est encore sur le plan éthéré
 [][SpellHD]
 
 # Colère des damnés
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un peu de cendre et de poussière d'os)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu de cendre et de poussière d'os)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 3
-- Range: 30 mètres
+- **Portée :** 30 mètres
 - Source: (HD)
-- Classes: Sorcier
+- Classes: [Sorcier]
 
 ### Description
 
@@ -1529,14 +1660,16 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 [][SpellHD]
 
 # Collet magique
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une ficelle)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une ficelle)
+- **Durée :** 1 heure
 - LevelType: Invocation de niveau 2
-- Range: 12 mètres
+- **Portée :** 12 mètres
 - Source: (HD)
-- Classes: Rôdeur
+- Classes: [Rôdeur]
 
 ### Description
 
@@ -1553,14 +1686,16 @@ Une créature [entravée] peut utiliser son action à chaque tour pour faire un 
 [][SpellHD]
 
 # Colonne de flamme
+
 - AltName: [Flame Strike](spells_vo.md#flame-strike)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de soufre)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de soufre)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 5
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -1575,14 +1710,16 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 [][SpellHD]
 
 # Communication avec les animaux
+
 - AltName: [Speak with Animals](spells_vo.md#speak-with-animals)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 10 minutes
 - LevelType: Divination de niveau 1 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Rôdeur
+- Classes: [Barde], [Druide], [Rôdeur]
 
 ### Description
 
@@ -1593,14 +1730,16 @@ Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec
 [][SpellHD]
 
 # Communication avec les morts
+
 - AltName: [Speak with Dead](spells_vo.md#speak-with-dead)
-- CastingTime: 1 action
-- Components: V, S, M (encens incandescent)
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (encens incandescent)
+- **Durée :** 10 minutes
 - LevelType: Nécromancie de niveau 3
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc
+- Classes: [Barde], [Clerc]
 
 ### Description
 
@@ -1613,14 +1752,16 @@ Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les
 [][SpellHD]
 
 # Communication avec les plantes
+
 - AltName: [Speak with Plants](spells_vo.md#speak-with-plants)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 10 minutes
 - LevelType: Transmutation de niveau 3
-- Range: personnelle (9 mètres de rayon)
+- **Portée :** personnelle (9 mètres de rayon)
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Rôdeur
+- Classes: [Barde], [Druide], [Rôdeur]
 
 ### Description
 
@@ -1639,14 +1780,16 @@ Ce sort permet de libérer une créature [entravée] par les plantes nées d'un 
 [][SpellHD]
 
 # Communion
+
 - AltName: [Commune](spells_vo.md#commune)
-- CastingTime: 1 minute
-- Components: V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (de l'encens et une fiole d'eau bénite ou maudite)
+- **Durée :** 1 minute
 - LevelType: Divination de niveau 5 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -1661,14 +1804,16 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 [][SpellHD]
 
 # Communion avec la nature
+
 - AltName: [Commune with Nature](spells_vo.md#commune-with-nature)
-- CastingTime: 1 minute
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Divination de niveau 5 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -1697,14 +1842,16 @@ Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résida
 [][SpellHD]
 
 # Compagnon animal
+
 - AltName: 
-- CastingTime: 1 minute
-- Components: V, S, M (un peu de nourriture adaptée à l'animal)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un peu de nourriture adaptée à l'animal)
+- **Durée :** 24 heures
 - LevelType: Enchantement de niveau 2
-- Range: 12 mètres
+- **Portée :** 12 mètres
 - Source: (HD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -1737,14 +1884,16 @@ Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie auss
 [][SpellHD]
 
 # Compréhension des langues
+
 - AltName: [Comprehend Languages](spells_vo.md#comprehend-languages)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de suie et de sel)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de suie et de sel)
+- **Durée :** 1 heure
 - LevelType: Divination de niveau 1 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -1757,14 +1906,16 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 [][SpellHD]
 
 # Compulsion
+
 - AltName: [Compulsion](spells_vo.md#compulsion)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ombrelame
+- Classes: [Barde], [Ombrelame]
 
 ### Description
 
@@ -1777,14 +1928,16 @@ Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dang
 [][SpellHD]
 
 # Cône de froid
+
 - AltName: [Cone of Cold](spells_vo.md#cone-of-cold)
-- CastingTime: 1 action
-- Components: V, S, M (un petit cône de cristal ou de verre)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit cône de cristal ou de verre)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 5
-- Range: personnelle (cône de 18 mètres)
+- **Portée :** personnelle (cône de 18 mètres)
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -1799,14 +1952,16 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 [][SpellHD]
 
 # Confusion
+
 - AltName: [Confusion](spells_vo.md#confusion)
-- CastingTime: 1 action
-- Components: V, S, M (trois coquilles de noix)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (trois coquilles de noix)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 4
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -1832,14 +1987,16 @@ Une créature affectée peut faire un [jet de sauvegarde] de [Sagesse] à la fin
 [][SpellHD]
 
 # Contact glacial
+
 - AltName: [Chill Touch](spells_vo.md#chill-touch)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 round
 - LevelType: Nécromancie, tour de magie
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -1856,14 +2013,16 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 [][SpellHD]
 
 # Contacter un autre plan
+
 - AltName: [Contact Other Plane](spells_vo.md#contact-other-plane)
-- CastingTime: 1 minute
-- Components: V
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V
+- **Durée :** 1 minute
 - LevelType: Divination de niveau 5 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -1878,14 +2037,16 @@ Si vous réussissez votre [jet de sauvegarde], vous pouvez poser jusqu'à cinq q
 [][SpellHD]
 
 # Contagion
+
 - AltName: [Contagion](spells_vo.md#contagion)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 7 jours
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 7 jours
 - LevelType: Nécromancie de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -1918,14 +2079,16 @@ Elle subit un désavantage lors des tests de [Charisme] et devient vulnérable �
 [][SpellHD]
 
 # Contamination
+
 - AltName: [Harm](spells_vo.md#harm)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 6
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -1936,14 +2099,16 @@ Vous transmettez une maladie virulente à une créature située à portée et da
 [][SpellHD]
 
 # Contingence
+
 - AltName: [Contingency](spells_vo.md#contingency)
-- CastingTime: 10 minutes
-- Components: V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
-- Duration: 10 jours
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)
+- **Durée :** 10 jours
 - LevelType: Évocation de niveau 6
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -1960,14 +2125,16 @@ Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en la
 [][SpellHD]
 
 # Contresort
+
 - AltName: [Counterspell](spells_vo.md#counterspell)
-- CastingTime: 1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort
-- Components: S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort
+- **Composantes :** S
+- **Durée :** instantanée
 - LevelType: Abjuration de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -1982,14 +2149,16 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 [][SpellHD]
 
 # Contrôle de l'eau
+
 - AltName: [Control Water](spells_vo.md#control-water)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte d'eau et une pincée de poussière)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte d'eau et une pincée de poussière)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 4
-- Range: 90 mètres
+- **Portée :** 90 mètres
 - Source: (HD)
-- Classes: Clerc, Druide, Magicien
+- Classes: [Clerc], [Druide], [Magicien]
 
 ### Description
 
@@ -2014,14 +2183,16 @@ Quand une créature entre dans le vortex pour la première fois de son tour ou q
 [][SpellHD]
 
 # Contrôle du climat
+
 - AltName: [Control Weather](spells_vo.md#control-weather)
-- CastingTime: 10 minutes
-- Components: V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
-- Duration: concentration, jusqu'à 8 heures
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
+- **Durée :** concentration, jusqu'à 8 heures
 - LevelType: Transmutation de niveau 8
-- Range: personnelle (rayon de 7,5 kilomètres)
+- **Portée :** personnelle (rayon de 7,5 kilomètres)
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Magicien
+- Classes: [Clerc], [Druide], [Magicien]
 
 ### Description
 
@@ -2068,14 +2239,16 @@ Vent
 [][SpellHD]
 
 # Convocations instantanées
+
 - AltName: [Drawmij's Instant Summons](spells_vo.md#drawmijs-instant-summons)
-- CastingTime: 1 minute
-- Components: V, S, M (un saphir d'une valeur de 1 000 po)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un saphir d'une valeur de 1 000 po)
+- **Durée :** jusqu'à dissipation
 - LevelType: Invocation de niveau 6 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -2094,14 +2267,16 @@ _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un
 [][SpellHD]
 
 # Coquille antivie
+
 - AltName: [Antilife Shell](spells_vo.md#antilife-shell)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Abjuration de niveau 5
-- Range: personnelle (3 mètres de rayon)
+- **Portée :** personnelle (3 mètres de rayon)
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -2116,14 +2291,16 @@ Si vous vous déplacez de telle manière qu'une créature affectée est contrain
 [][SpellHD]
 
 # Corde enchantée
+
 - AltName: [Rope Trick](spells_vo.md#rope-trick)
-- CastingTime: 1 action
-- Components: V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)
+- **Durée :** 1 heure
 - LevelType: Transmutation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -2142,14 +2319,16 @@ Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quan
 [][SpellHD]
 
 # Couleurs dansantes
+
 - AltName: [Color Spray](spells_vo.md#color-spray)
-- CastingTime: 1 action
-- Components: V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)
+- **Durée :** 1 round
 - LevelType: Illusion de niveau 1
-- Range: personnelle (cône de 4,50 mètres)
+- **Portée :** personnelle (cône de 4,50 mètres)
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2164,14 +2343,16 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 [][SpellHD]
 
 # Création
+
 - AltName: [Creation](spells_vo.md#creation)
-- CastingTime: 1 minute
-- Components: V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
-- Duration: spéciale
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)
+- **Durée :** spéciale
 - LevelType: Illusion de niveau 5
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2198,14 +2379,16 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 [][SpellHD]
 
 # Création de mort-vivant
+
 - AltName: [Create Undead](spells_vo.md#create-undead)
-- CastingTime: 1 minute
-- Components: V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 6
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien, Sorcier
+- Classes: [Clerc], [Magicien], [Sorcier]
 
 ### Description
 
@@ -2228,14 +2411,16 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 [][SpellHD]
 
 # Création de nourriture et d'eau
+
 - AltName: [Create Food and Water](spells_vo.md#create-food-and-water)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 3
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -2246,14 +2431,16 @@ Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, so
 [][SpellHD]
 
 # Création ou destruction d'eau
+
 - AltName: [Create or Destroy Water](spells_vo.md#create-or-destroy-water)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -2272,14 +2459,16 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 [][SpellHD]
 
 # Croissance d'épines
+
 - AltName: [Spike Growth](spells_vo.md#spike-growth)
-- CastingTime: 1 action
-- Components: V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (sept épines acérées ou sept brindilles taillées en pointe)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 2
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -2292,14 +2481,16 @@ La transformation du sol est camouflée, de manière à ce que le terrain ait l'
 [][SpellHD]
 
 # Croissance végétale
+
 - AltName: [Plant Growth](spells_vo.md#plant-growth)
-- CastingTime: 1 action ou 8 heures
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action ou 8 heures
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 3
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Rôdeur
+- Classes: [Barde], [Druide], [Rôdeur]
 
 ### Description
 
@@ -2318,14 +2509,16 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 [][SpellHD]
 
 # Danse irrésistible
+
 - AltName: [Otto's Irresistible Dance](spells_vo.md#ottos-irresistible-dance)
-- CastingTime: 1 action
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 6
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -2340,14 +2533,16 @@ Tant que la cible est affectée par ce sort, les autres créatures bénéficient
 [][SpellHD]
 
 # Déblocage
+
 - AltName: [Knock](spells_vo.md#knock)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -2362,14 +2557,16 @@ Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu
 [][SpellHD]
 
 # Déguisement
+
 - AltName: [Disguise Self](spells_vo.md#disguise-self)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 heure
 - LevelType: Illusion de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -2384,14 +2581,16 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 [][SpellHD]
 
 # Demi-plan
+
 - AltName: [Demiplane](spells_vo.md#demiplane)
-- CastingTime: 1 action
-- Components: S
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** S
+- **Durée :** 1 heure
 - LevelType: Invocation de niveau 8
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -2404,14 +2603,16 @@ Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relie
 [][SpellHD]
 
 # Déplacer la terre
+
 - AltName: [Move Earth](spells_vo.md#move-earth)
-- CastingTime: 1 action
-- Components: V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)
-- Duration: concentration, jusqu'à 2 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)
+- **Durée :** concentration, jusqu'à 2 heures
 - LevelType: Transmutation de niveau 6
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2428,14 +2629,16 @@ De même, le sort n'affecte pas directement la croissance des plantes. La terre 
 [][SpellHD]
 
 # Désintégration
+
 - AltName: [Disintegrate](spells_vo.md#disintegrate)
-- CastingTime: 1 action
-- Components: V, S, M (de la magnétite et une pincée de poussière)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (de la magnétite et une pincée de poussière)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 6
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2454,14 +2657,16 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 [][SpellHD]
 
 # Dessiccation
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une goutte d'eau)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte d'eau)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -2476,14 +2681,16 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 [][SpellHD]
 
 # Détection de la magie
+
 - AltName: [Detect Magic](spells_vo.md#detect-magic)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Divination de niveau 1 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Ensorceleur, Magicien, Ombrelame, Paladin, Rôdeur
+- Classes: [Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -2496,14 +2703,16 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 [][SpellHD]
 
 # Détection des pensées
+
 - AltName: [Detect Thoughts](spells_vo.md#detect-thoughts)
-- CastingTime: 1 action
-- Components: V, S, M (une pièce de cuivre)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pièce de cuivre)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Divination de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2530,14 +2739,16 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 [][SpellHD]
 
 # Détection du mal et du bien
+
 - AltName: [Detect Evil and Good](spells_vo.md#detect-evil-and-good)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Divination de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -2550,14 +2761,16 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 [][SpellHD]
 
 # Détection du poison et des maladies
+
 - AltName: [Detect Poison and Disease](spells_vo.md#detect-poison-and-disease)
-- CastingTime: 1 action
-- Components: V, S, M (un brin d'if)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un brin d'if)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Divination de niveau 1 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Paladin, Rôdeur
+- Classes: [Clerc], [Druide], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -2570,14 +2783,16 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 [][SpellHD]
 
 # Disque flottant
+
 - AltName: [Tenser's Floating Disk](spells_vo.md#tensers-floating-disk)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte de mercure)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte de mercure)
+- **Durée :** 1 heure
 - LevelType: Invocation de niveau 1 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -2594,14 +2809,16 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 [][SpellHD]
 
 # Dissipation de la magie
+
 - AltName: [Dispel Magic](spells_vo.md#dispel-magic)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Abjuration de niveau 3
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Ensorceleur, Magicien, Ombrelame, Paladin, Sorcier
+- Classes: [Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Sorcier]
 
 ### Description
 
@@ -2614,14 +2831,16 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 [][SpellHD]
 
 # Dissipation du mal et du bien
+
 - AltName: [Dispel Evil and Good](spells_vo.md#dispel-evil-and-good)
-- CastingTime: 1 action
-- Components: V, S, M (eau bénite ou poudre d'argent et de fer)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (eau bénite ou poudre d'argent et de fer)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Abjuration de niveau 5
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -2638,14 +2857,16 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 [][SpellHD]
 
 # Divination
+
 - AltName: [Divination](spells_vo.md#divination)
-- CastingTime: 1 action
-- Components: V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)
+- **Durée :** instantanée
 - LevelType: Divination de niveau 4 (rituel)
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -2660,14 +2881,16 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 [][SpellHD]
 
 # Doigt de mort
+
 - AltName: [Finger of Death](spells_vo.md#finger-of-death)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 7
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -2680,14 +2903,16 @@ Si ce sort achève un humanoïde, ce dernier se relève au début de votre proch
 [][SpellHD]
 
 # Dominer un humanoïde
+
 - AltName: [Dominate Person](spells_vo.md#dominate-person)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 5
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2712,14 +2937,16 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 [][SpellHD]
 
 # Dominer un monstre
+
 - AltName: [Dominate Monster](spells_vo.md#dominate-monster)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Enchantement de niveau 8
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -2742,14 +2969,16 @@ Si elle le réussit, le sort prend fin.
 [][SpellHD]
 
 # Dominer une bête
+
 - AltName: [Dominate Beast](spells_vo.md#dominate-beast)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 4
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur
+- Classes: [Druide], [Ensorceleur]
 
 ### Description
 
@@ -2772,14 +3001,16 @@ Si elle le réussit, le sort prend fin.
 [][SpellHD]
 
 # Doux repos
+
 - AltName: [Gentle Repose](spells_vo.md#gentle-repose)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
-- Duration: 10 jours
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)
+- **Durée :** 10 jours
 - LevelType: Nécromancie de niveau 2 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien
+- Classes: [Clerc], [Magicien]
 
 ### Description
 
@@ -2792,14 +3023,16 @@ Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'
 [][SpellHD]
 
 # Druidisme
+
 - AltName: [Druidcraft](spells_vo.md#druidcraft)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Transmutation, tour de magie
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -2818,14 +3051,16 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 [][SpellHD]
 
 # Éclair
+
 - AltName: [Lightning Bolt](spells_vo.md#lightning-bolt)
-- CastingTime: 1 action
-- Components: V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 3
-- Range: personnelle (ligne de 30 mètres)
+- **Portée :** personnelle (ligne de 30 mètres)
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2842,14 +3077,16 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 [][SpellHD]
 
 # Éclat de bois
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une écharde de bois)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une écharde de bois)
+- **Durée :** instantanée
 - LevelType: Invocation , tour de magie
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -2864,14 +3101,16 @@ Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les 
 [][SpellHD]
 
 # Éclat du soleil
+
 - AltName: [Sunburst](spells_vo.md#sunburst)
-- CastingTime: 1 action
-- Components: V, S, M (du feu et un éclat d'héliotrope)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (du feu et un éclat d'héliotrope)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 8
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2888,14 +3127,16 @@ Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 [][SpellHD]
 
 # Embruns prismatiques
+
 - AltName: [Prismatic Spray](spells_vo.md#prismatic-spray)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 7
-- Range: personnelle (cône de 18 mètres)
+- **Portée :** personnelle (cône de 18 mètres)
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -2920,14 +3161,16 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 [][SpellHD]
 
 # Emprisonnement
+
 - AltName: [Imprisonment](spells_vo.md#imprisonment)
-- CastingTime: 1 minute
-- Components: V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)
+- **Durée :** jusqu'à dissipation
 - LevelType: Abjuration de niveau 9
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -2962,14 +3205,16 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 [][SpellHD]
 
 # Enchevêtrement
+
 - AltName: [Entangle](spells_vo.md#entangle)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 1
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -2984,14 +3229,16 @@ Quand le sort se termine, les plantes invoquées flétrissent.
 [][SpellHD]
 
 # Entrave planaire
+
 - AltName: [Planar Binding](spells_vo.md#planar-binding)
-- CastingTime: 1 heure
-- Components: V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)
+- **Durée :** 24 heures
 - LevelType: Abjuration de niveau 5
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Magicien
+- Classes: [Barde], [Clerc], [Druide], [Magicien]
 
 ### Description
 
@@ -3006,14 +3253,16 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 [][SpellHD]
 
 # Envoi de message
+
 - AltName: [Sending](spells_vo.md#sending)
-- CastingTime: 1 action
-- Components: V, S, M (un petit bout de fil de cuivre)
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit bout de fil de cuivre)
+- **Durée :** 1 round
 - LevelType: Évocation de niveau 3
-- Range: illimitée
+- **Portée :** illimitée
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Magicien, Ombrelame
+- Classes: [Barde], [Clerc], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -3026,14 +3275,16 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 [][SpellHD]
 
 # Envoûtement
+
 - AltName: [Enthrall](spells_vo.md#enthrall)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Enchantement de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ombrelame, Sorcier
+- Classes: [Barde], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -3044,14 +3295,16 @@ Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de v
 [][SpellHD]
 
 # Épargner les mourants
+
 - AltName: [Spare the Dying](spells_vo.md#spare-the-dying)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Nécromancie, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -3062,14 +3315,16 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 [][SpellHD]
 
 # Épée du juste
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 5
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -3080,14 +3335,16 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 [][SpellHD]
 
 # Épée magique
+
 - AltName: [Mordenkainen's Sword](spells_vo.md#mordenkainens-sword)
-- CastingTime: 1 action
-- Components: V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 7
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -3100,14 +3357,16 @@ Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps c
 [][SpellHD]
 
 # Esprit faible
+
 - AltName: [Feeblemind](spells_vo.md#feeblemind)
-- CastingTime: 1 action
-- Components: V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)
+- **Durée :** instantanée
 - LevelType: Enchantement de niveau 8
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Magicien, Sorcier
+- Classes: [Barde], [Druide], [Magicien], [Sorcier]
 
 ### Description
 
@@ -3122,14 +3381,16 @@ La créature peut refaire un [jet de sauvegarde] tous les 30 jours. Le sort se t
 [][SpellHD]
 
 # Esprit impénétrable
+
 - AltName: [Mind Blank](spells_vo.md#mind-blank)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 24 heures
 - LevelType: Abjuration de niveau 8
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -3140,14 +3401,16 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 [][SpellHD]
 
 # Esprits gardiens
+
 - AltName: [Spirit Guardians](spells_vo.md#spirit-guardians)
-- CastingTime: 1 action
-- Components: V, S M (un symbole sacré)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S M (un symbole sacré)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 3
-- Range: personnelle (4,5 mètres de rayon)
+- **Portée :** personnelle (4,5 mètres de rayon)
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -3164,14 +3427,16 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 [][SpellHD]
 
 # Étrangeté
+
 - AltName: [Weird](spells_vo.md#weird)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 9
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -3182,14 +3447,16 @@ Vous puisez dans les peurs les plus profondes d'un groupe de créatures et crée
 [][SpellHD]
 
 # Éveil
+
 - AltName: [Awaken](spells_vo.md#awaken)
-- CastingTime: 8 heures
-- Components: V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
-- Duration: instantanée
+
+- **Temps d'incantation :** 8 heures
+- **Composantes :** V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Druide
+- Classes: [Barde], [Druide]
 
 ### Description
 
@@ -3204,14 +3471,16 @@ La bête ou la plante éveillée est considérée [charmée] par vous pendant 30
 [][SpellHD]
 
 # Excavation
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une cuillère)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une cuillère)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 8
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -3222,14 +3491,16 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 [][SpellHD]
 
 # Expiation du juste
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 4
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -3240,14 +3511,16 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 [][SpellHD]
 
 # Explosion occulte
+
 - AltName: [Eldritch Blast](spells_vo.md#eldritch-blast)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation, tour de magie
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Sorcier
+- Classes: [Sorcier]
 
 ### Description
 
@@ -3260,14 +3533,16 @@ Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux 
 [][SpellHD]
 
 # Fabrication
+
 - AltName: [Fabricate](spells_vo.md#fabricate)
-- CastingTime: 10 minutes
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 4
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -3282,14 +3557,16 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 [][SpellHD]
 
 # Façonnage de la pierre
+
 - AltName: [Stone Shape](spells_vo.md#stone-shape)
-- CastingTime: 1 action
-- Components: V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 4
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Magicien
+- Classes: [Clerc], [Druide], [Magicien]
 
 ### Description
 
@@ -3300,14 +3577,16 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 [][SpellHD]
 
 # Faveur divine
+
 - AltName: [Divine Favor](spells_vo.md#divine-favor)
-- CastingTime: 1 action bonus
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -3320,14 +3599,16 @@ Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d
 [][SpellHD]
 
 # Festin des héros
+
 - AltName: [Heroes' Feast](spells_vo.md#heroes-feast)
-- CastingTime: 10 minutes
-- Components: V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 6
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -3342,14 +3623,16 @@ Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de p
 [][SpellHD]
 
 # Flamboiement funeste
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (morceau d'onyx)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (morceau d'onyx)
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Sorcier
+- Classes: [Sorcier]
 
 ### Description
 
@@ -3364,14 +3647,16 @@ Chaque créature dans la zone doit réussir un [jet de sauvegarde] de [Dextérit
 [][SpellHD]
 
 # Flamme éternelle
+
 - AltName: [Continual Flame](spells_vo.md#continual-flame)
-- CastingTime: 1 action
-- Components: V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)
+- **Durée :** jusqu'à dissipation
 - LevelType: Évocation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien
+- Classes: [Clerc], [Magicien]
 
 ### Description
 
@@ -3382,14 +3667,16 @@ Une flamme à la luminosité égale à celle d'une torche embrase soudain l'obje
 [][SpellHD]
 
 # Flamme sacrée
+
 - AltName: [Sacred Flame](spells_vo.md#sacred-flame)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation, tour de magie
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -3404,14 +3691,16 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 [][SpellHD]
 
 # Fléau
+
 - AltName: [Bane](spells_vo.md#bane)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte de sang)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte de sang)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc
+- Classes: [Barde], [Clerc]
 
 ### Description
 
@@ -3426,14 +3715,16 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 [][SpellHD]
 
 # Fléau d'insectes
+
 - AltName: [Insect Plague](spells_vo.md#insect-plague)
-- CastingTime: 1 action
-- Components: V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 5
-- Range: 90 mètres
+- **Portée :** 90 mètres
 - Source: (HD)
-- Classes: Clerc, Druide, Ensorceleur
+- Classes: [Clerc], [Druide], [Ensorceleur]
 
 ### Description
 
@@ -3450,14 +3741,16 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 [][SpellHD]
 
 # Flèche acide
+
 - AltName: [Melf's Acid Arrow](spells_vo.md#melfs-acid-arrow)
-- CastingTime: 1 action
-- Components: V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (poudre de feuille de rhubarbe et estomac de vipère)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 2
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -3470,14 +3763,16 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 [][SpellHD]
 
 # Flétrissement
+
 - AltName: [Blight](spells_vo.md#blight)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien, Sorcier
+- Classes: [Druide], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -3492,14 +3787,16 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 [][SpellHD]
 
 # Flou
+
 - AltName: [Blur](spells_vo.md#blur)
-- CastingTime: 1 action
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Ombrelame
+- Classes: [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -3510,14 +3807,16 @@ Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autru
 [][SpellHD]
 
 # Forme éthérée
+
 - AltName: [Etherealness](spells_vo.md#etherealness)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: jusqu'à 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** jusqu'à 8 heures
 - LevelType: Transmutation de niveau 7
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -3538,14 +3837,16 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 [][SpellHD]
 
 # Forme gazeuse
+
 - AltName: [Gaseous Form](spells_vo.md#gaseous-form)
-- CastingTime: 1 action
-- Components: V, S, M (un morceau de gaze et une volute de fumée)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un morceau de gaze et une volute de fumée)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -3562,14 +3863,16 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 [][SpellHD]
 
 # Formes animales
+
 - AltName: [Animal Shapes](spells_vo.md#animal-shapes)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 24 heures
 - LevelType: Transmutation de niveau 8
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -3584,14 +3887,16 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 [][SpellHD]
 
 # Fou rire
+
 - AltName: [Tasha's Hideous Laughter](spells_vo.md#tashas-hideous-laughter)
-- CastingTime: 1 action
-- Components: V, S, M (de minuscules tartes et une plume à agiter dans les airs)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (de minuscules tartes et une plume à agiter dans les airs)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -3604,14 +3909,16 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 [][SpellHD]
 
 # Frappe du juste
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -3632,14 +3939,16 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 [][SpellHD]
 
 # Frappe lumineuse
+
 - AltName: [Branding Smite](spells_vo.md#branding-smite)
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -3652,14 +3961,16 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 [][SpellHD]
 
 # Fusion dans la pierre
+
 - AltName: [Meld into Stone](spells_vo.md#meld-into-stone)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 8 heures
 - LevelType: Transmutation de niveau 3 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -3676,14 +3987,16 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 [][SpellHD]
 
 # Gardien de la foi
+
 - AltName: [Guardian of Faith](spells_vo.md#guardian-of-faith)
-- CastingTime: 
-- Components: V
-- Duration: 8 heures
+
+- **Temps d'incantation :** 
+- **Composantes :** V
+- **Durée :** 8 heures
 - LevelType: Invocation de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -3696,14 +4009,16 @@ Toute créature hostile envers vous qui entre dans un emplacement situé dans un
 [][SpellHD]
 
 # Geyser d'énergie
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une petite poire remplie d'air)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une petite poire remplie d'air)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)
-- Classes: Ensorceleur
+- Classes: [Ensorceleur]
 
 ### Description
 
@@ -3718,14 +4033,16 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 [][SpellHD]
 
 # Globe d'invulnérabilité
+
 - AltName: [Globe of Invulnerability](spells_vo.md#globe-of-invulnerability)
-- CastingTime: 1 action
-- Components: V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Abjuration de niveau 6
-- Range: personnelle (3 mètres de rayon)
+- **Portée :** personnelle (3 mètres de rayon)
 - Source: (HD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -3740,14 +4057,16 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 [][SpellHD]
 
 # Glyphe de protection
+
 - AltName: [Glyph of Warding](spells_vo.md#glyph-of-warding)
-- CastingTime: 1 heure
-- Components: V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
-- Duration: jusqu'à dissipation ou déclenchement
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)
+- **Durée :** jusqu'à dissipation ou déclenchement
 - LevelType: Abjuration de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Magicien
+- Classes: [Barde], [Clerc], [Magicien]
 
 ### Description
 
@@ -3774,14 +4093,16 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 [][SpellHD]
 
 # Gourdin magique
+
 - AltName: [Shillelagh](spells_vo.md#shillelagh)
-- CastingTime: 1 action bonus
-- Components: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
+- **Durée :** 1 minute
 - LevelType: Transmutation, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -3792,14 +4113,16 @@ La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous
 [][SpellHD]
 
 # Graisse
+
 - AltName: [Grease](spells_vo.md#grease)
-- CastingTime: 1 action
-- Components: V, S, M (de la couenne de porc ou du beurre)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (de la couenne de porc ou du beurre)
+- **Durée :** 1 minute
 - LevelType: Invocation de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Ombrelame
+- Classes: [Magicien], [Ombrelame]
 
 ### Description
 
@@ -3812,14 +4135,16 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 [][SpellHD]
 
 # Grande foulée
+
 - AltName: [Longstrider](spells_vo.md#longstrider)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poussière)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poussière)
+- **Durée :** 1 heure
 - LevelType: Transmutation de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Magicien, Rôdeur
+- Classes: [Barde], [Druide], [Magicien], [Rôdeur]
 
 ### Description
 
@@ -3832,14 +4157,16 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 [][SpellHD]
 
 # Guérison
+
 - AltName: [Heal](spells_vo.md#heal)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 6
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -3852,14 +4179,16 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 [][SpellHD]
 
 # Guérison de groupe
+
 - AltName: [Mass Heal](spells_vo.md#mass-heal)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 9
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -3872,14 +4201,16 @@ Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des 
 [][SpellHD]
 
 # Harmonique miraculeuse
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un verre en cristal d'une valeur de 500 po)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un verre en cristal d'une valeur de 500 po)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 9
-- Range: 12 mètres
+- **Portée :** 12 mètres
 - Source: (HD)
-- Classes: Barde
+- Classes: [Barde]
 
 ### Description
 
@@ -3892,14 +4223,16 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 [][SpellHD]
 
 # Hâte
+
 - AltName: [Haste](spells_vo.md#haste)
-- CastingTime: 1 action
-- Components: V, S, M (un copeau de racine de réglisse)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un copeau de racine de réglisse)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 3
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -3912,14 +4245,16 @@ Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une act
 [][SpellHD]
 
 # Héroïsme
+
 - AltName: [Heroism](spells_vo.md#heroism)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Paladin
+- Classes: [Barde], [Paladin]
 
 ### Description
 
@@ -3932,14 +4267,16 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 [][SpellHD]
 
 # Identification
+
 - AltName: [Identify](spells_vo.md#identify)
-- CastingTime: 1 minute
-- Components: V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)
+- **Durée :** instantanée
 - LevelType: Divination de niveau 1 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Ombrelame
+- Classes: [Barde], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -3952,14 +4289,16 @@ Si, à la place, vous touchez une créature pendant toute l'incantation, vous d�
 [][SpellHD]
 
 # Illusion mineure
+
 - AltName: [Minor Illusion](spells_vo.md#minor-illusion)
-- CastingTime: 1 action
-- Components: S, M (un morceau de toison)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** S, M (un morceau de toison)
+- **Durée :** 1 minute
 - LevelType: Illusion, tour de magie
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -3976,14 +4315,16 @@ Si une créature utilise son action pour examiner le son ou l'image, elle compre
 [][SpellHD]
 
 # Illusion programmée
+
 - AltName: [Programmed Illusion](spells_vo.md#programmed-illusion)
-- CastingTime: 1 action
-- Components: V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
+- **Durée :** jusqu'à dissipation
 - LevelType: Illusion de niveau 6
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -4000,14 +4341,16 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 [][SpellHD]
 
 # Image majeure
+
 - AltName: [Major Image](spells_vo.md#major-image)
-- CastingTime: 1 action
-- Components: V, S, M (un morceau de toison)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un morceau de toison)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Illusion de niveau 3
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -4024,14 +4367,16 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 [][SpellHD]
 
 # Image miroir
+
 - AltName: [Mirror Image](spells_vo.md#mirror-image)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Illusion de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -4054,14 +4399,16 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 [][SpellHD]
 
 # Image projetée
+
 - AltName: [Project Image](spells_vo.md#project-image)
-- CastingTime: 1 action
-- Components: V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
-- Duration: concentration, jusqu'à 1 jour
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)
+- **Durée :** concentration, jusqu'à 1 jour
 - LevelType: Illusion de niveau 7
-- Range: 750 kilomètres
+- **Portée :** 750 kilomètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -4078,14 +4425,16 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 [][SpellHD]
 
 # Image silencieuse
+
 - AltName: [Silent Image](spells_vo.md#silent-image)
-- CastingTime: 1 action
-- Components: V, S, M (un morceau de toison)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un morceau de toison)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Illusion de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -4100,14 +4449,16 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 [][SpellHD]
 
 # Immobiliser un humanoïde
+
 - AltName: [Hold Person](spells_vo.md#hold-person)
-- CastingTime: 1 action
-- Components: V, S, M (un petit morceau de fer bien droit)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit morceau de fer bien droit)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -4120,14 +4471,16 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 [][SpellHD]
 
 # Immobiliser un monstre
+
 - AltName: [Hold Monster](spells_vo.md#hold-monster)
-- CastingTime: 1 action
-- Components: V, S, M (un petit morceau de fer bien droit)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit morceau de fer bien droit)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 5
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -4142,14 +4495,16 @@ Les créatures visées doivent se trouver à 9 mètres ou moins les unes des aut
 [][SpellHD]
 
 # Injonction
+
 - AltName: [Command](spells_vo.md#command)
-- CastingTime: 1 action
-- Components: V
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** 1 round
 - LevelType: Enchantement de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -4174,14 +4529,16 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 [][SpellHD]
 
 # Insecte géant
+
 - AltName: [Giant Insect](spells_vo.md#giant-insect)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -4200,14 +4557,16 @@ Par exemple, si vous transformez une abeille, sa version géante peut disposer d
 [][SpellHD]
 
 # Instrument fantomatique
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un archet et un morceau d'os)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un archet et un morceau d'os)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Barde
+- Classes: [Barde]
 
 ### Description
 
@@ -4222,14 +4581,16 @@ Au début de chacun de ses tours, la créature doit réussir un [jet de sauvegar
 [][SpellHD]
 
 # Interdiction
+
 - AltName: [Forbiddance](spells_vo.md#forbiddance)
-- CastingTime: 10 minutes
-- Components: V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
-- Duration: 1 jour
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)
+- **Durée :** 1 jour
 - LevelType: Abjuration de niveau 6 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -4250,14 +4611,16 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 [][SpellHD]
 
 # Inversion de la gravité
+
 - AltName: [Reverse Gravity](spells_vo.md#reverse-gravity)
-- CastingTime: 1 action
-- Components: V, S, M (de la magnétite et de la limaille de fer)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (de la magnétite et de la limaille de fer)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 7
-- Range: 30 mètres
+- **Portée :** 30 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -4272,14 +4635,16 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 [][SpellHD]
 
 # Invisibilité
+
 - AltName: [Invisibility](spells_vo.md#invisibility)
-- CastingTime: 1 action
-- Components: V, S, M (un cil enrobé de gomme arabique)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un cil enrobé de gomme arabique)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Illusion de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -4292,14 +4657,16 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 [][SpellHD]
 
 # Invisibilité supérieure
+
 - AltName: [Greater Invisibility](spells_vo.md#greater-invisibility)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 4
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -4310,14 +4677,16 @@ Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez acco
 [][SpellHD]
 
 # Invoquer des animaux
+
 - AltName: [Conjure Animals](spells_vo.md#conjure-animals)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -4346,14 +4715,16 @@ C'est le MJ qui dispose du profil technique des créatures.
 [][SpellHD]
 
 # Invoquer des élémentaires mineurs
+
 - AltName: [Conjure Minor Elementals](spells_vo.md#conjure-minor-elementals)
-- CastingTime: 1 minute
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 4
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Magicien
+- Classes: [Druide], [Magicien]
 
 ### Description
 
@@ -4380,14 +4751,16 @@ C'est le MJ qui dispose du profil technique des créatures.
 [][SpellHD]
 
 # Invoquer des êtres des bois
+
 - AltName: [Conjure Woodland Beings](spells_vo.md#conjure-woodland-beings)
-- CastingTime: 1 action
-- Components: V, S, M (une baie de houx par créature invoquée)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une baie de houx par créature invoquée)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 4
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -4414,14 +4787,16 @@ C'est le MJ qui dispose du profil technique des créatures.
 [][SpellHD]
 
 # Invoquer un céleste
+
 - AltName: [Conjure Celestial](spells_vo.md#conjure-celestial)
-- CastingTime: 1 minute
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 7
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -4442,14 +4817,16 @@ C'est le MJ qui dispose du profil technique du céleste.
 [][SpellHD]
 
 # Invoquer un élémentaire
+
 - AltName: [Conjure Elemental](spells_vo.md#conjure-elemental)
-- CastingTime: 1 minute
-- Components: V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 5
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Magicien
+- Classes: [Druide], [Magicien]
 
 ### Description
 
@@ -4470,14 +4847,16 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 [][SpellHD]
 
 # Invoquer une fée
+
 - AltName: [Conjure Fey](spells_vo.md#conjure-fey)
-- CastingTime: 1 minute
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 6
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Sorcier
+- Classes: [Druide], [Sorcier]
 
 ### Description
 
@@ -4496,14 +4875,16 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 [][SpellHD]
 
 # Jeter une malédiction
+
 - AltName: [Bestow curse](spells_vo.md#bestow-curse)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Nécromancie de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Magicien
+- Classes: [Barde], [Clerc], [Magicien]
 
 ### Description
 
@@ -4528,14 +4909,16 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 [][SpellHD]
 
 # Jugement dernier
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 5
-- Range: 9 m
+- **Portée :** 9 m
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -4546,14 +4929,16 @@ Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de v
 [][SpellHD]
 
 # Labyrinthe
+
 - AltName: [Maze](spells_vo.md#maze)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 8
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -4572,14 +4957,16 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 [][SpellHD]
 
 # Lame de feu
+
 - AltName: [Flame Blade](spells_vo.md#flame-blade)
-- CastingTime: 1 action bonus
-- Components: V, S, M (feuille de sumac)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (feuille de sumac)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Évocation de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -4596,14 +4983,16 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 [][SpellHD]
 
 # Lance du juste
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -4616,14 +5005,16 @@ De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un [
 [][SpellHD]
 
 # Langues
+
 - AltName: [Tongues](spells_vo.md#tongues)
-- CastingTime: 1 action
-- Components: V, M (un modèle réduit de ziggourat en argile)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, M (un modèle réduit de ziggourat en argile)
+- **Durée :** 1 heure
 - LevelType: Divination de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -4636,14 +5027,16 @@ De plus, quand elle parle, toute créature qui maîtrise au moins une langue et 
 [][SpellHD]
 
 # Légende
+
 - AltName: [Legend Lore](spells_vo.md#legend-lore)
-- CastingTime: 10 minutes
-- Components: V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
-- Duration: instantanée
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)
+- **Durée :** instantanée
 - LevelType: Divination de niveau 5
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Magicien
+- Classes: [Barde], [Clerc], [Magicien]
 
 ### Description
 
@@ -4658,14 +5051,16 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 [][SpellHD]
 
 # Léger comme une plume
+
 - AltName: [Feather Fall](spells_vo.md#feather-fall)
-- CastingTime: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
-- Components: V, M (une petite plume ou un peu de duvet)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
+- **Composantes :** V, M (une petite plume ou un peu de duvet)
+- **Durée :** 1 minute
 - LevelType: Transmutation de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -4676,14 +5071,16 @@ Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de
 [][SpellHD]
 
 # Lenteur
+
 - AltName: [Slow](spells_vo.md#slow)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte de mélasse)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte de mélasse)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 3
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -4702,14 +5099,16 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sage
 [][SpellHD]
 
 # Lever une malédiction
+
 - AltName: [Remove Curse](spells_vo.md#remove-curse)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Abjuration de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien, Paladin, Sorcier
+- Classes: [Clerc], [Magicien], [Paladin], [Sorcier]
 
 ### Description
 
@@ -4720,14 +5119,16 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sage
 [][SpellHD]
 
 # Lévitation
+
 - AltName: [Levitate](spells_vo.md#levitate)
-- CastingTime: 1 action
-- Components: V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -4744,14 +5145,16 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 [][SpellHD]
 
 # Liane chasseresse
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 4
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -4766,14 +5169,16 @@ La liane a le profil suivant : CA 15, points de vie 30, [Force] 20 (+5), résist
 [][SpellHD]
 
 # Liberté de mouvement
+
 - AltName: [Freedom of Movement](spells_vo.md#freedom-of-movement)
-- CastingTime: 1 action
-- Components: V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)
+- **Durée :** 1 heure
 - LevelType: Abjuration de niveau 4
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Ombrelame, Rôdeur
+- Classes: [Barde], [Clerc], [Druide], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -4786,14 +5191,16 @@ La cible peut également dépenser 1,50 mètre de déplacement pour échapper au
 [][SpellHD]
 
 # Lien de protection
+
 - AltName: [Warding Bond](spells_vo.md#warding-bond)
-- CastingTime: 1 action
-- Components: V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)
+- **Durée :** 1 heure
 - LevelType: Abjuration de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -4808,14 +5215,16 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 [][SpellHD]
 
 # Lien télépathique
+
 - AltName: [Rary's Telepathic Bond](spells_vo.md#rarys-telepathic-bond)
-- CastingTime: 1 action
-- Components: V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)
+- **Durée :** 1 heure
 - LevelType: Divination de niveau 5 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -4830,14 +5239,16 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 [][SpellHD]
 
 # Localiser des animaux ou des plantes
+
 - AltName: [Locate Animals or Plants](spells_vo.md#locate-animals-or-plants)
-- CastingTime: 1 action
-- Components: V, S, M (des poils de chien de chasse)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (des poils de chien de chasse)
+- **Durée :** instantanée
 - LevelType: Divination de niveau 2 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Rôdeur
+- Classes: [Barde], [Druide], [Rôdeur]
 
 ### Description
 
@@ -4848,14 +5259,16 @@ Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous conce
 [][SpellHD]
 
 # Localiser un objet
+
 - AltName: [Locate Object](spells_vo.md#locate-object)
-- CastingTime: 1 action
-- Components: V, S, M (une branche fourchue)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une branche fourchue)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Divination de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Magicien, Ombrelame, Paladin, Rôdeur
+- Classes: [Barde], [Clerc], [Druide], [Magicien], [Ombrelame], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -4872,14 +5285,16 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 [][SpellHD]
 
 # Localiser une créature
+
 - AltName: [Locate Creature](spells_vo.md#locate-creature)
-- CastingTime: 1 action
-- Components: V, S, M (des poils de chien de chasse)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (des poils de chien de chasse)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Divination de niveau 4
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Magicien, Paladin, Rôdeur
+- Classes: [Barde], [Clerc], [Druide], [Magicien], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -4896,14 +5311,16 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 [][SpellHD]
 
 # Lueur d'espoir
+
 - AltName: [Beacon of Hope](spells_vo.md#beacon-of-hope)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Abjuration de niveau 3
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -4916,14 +5333,16 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jet
 [][SpellHD]
 
 # Lueurs féeriques
+
 - AltName: [Faerie Fire](spells_vo.md#faerie-fire)
-- CastingTime: 1 action
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Ombrelame
+- Classes: [Barde], [Druide], [Ombrelame]
 
 ### Description
 
@@ -4936,14 +5355,16 @@ Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il
 [][SpellHD]
 
 # Lumière
+
 - AltName: [Light](spells_vo.md#light)
-- CastingTime: 1 action
-- Components: V, M (une luciole ou de la mousse phosphorescente)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, M (une luciole ou de la mousse phosphorescente)
+- **Durée :** 1 heure
 - LevelType: Évocation, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -4960,14 +5381,16 @@ Si vous visez un objet porté ou transporté par une créature hostile, cette de
 [][SpellHD]
 
 # Lumière du jour
+
 - AltName: [Daylight](spells_vo.md#daylight)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 heure
 - LevelType: Évocation de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Ensorceleur, Paladin, Rôdeur
+- Classes: [Clerc], [Druide], [Ensorceleur], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -4982,14 +5405,16 @@ Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres 
 [][SpellHD]
 
 # Lumières dansantes
+
 - AltName: [Dancing Lights](spells_vo.md#dancing-lights)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation, tour de magie
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -5008,14 +5433,16 @@ Elle s'éteint si elle passe hors de portée.
 [][SpellHD]
 
 # Main du mage
+
 - AltName: [Mage Hand](spells_vo.md#mage-hand)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Invocation , tour de magie
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -5030,14 +5457,16 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 [][SpellHD]
 
 # Main magique
+
 - AltName: [Bigby's Hand](spells_vo.md#bigbys-hand)
-- CastingTime: 1 action
-- Components: V, S, M (une coquille d'oeuf et un gant en peau de serpent)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une coquille d'oeuf et un gant en peau de serpent)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 5
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -5066,14 +5495,16 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 [][SpellHD]
 
 # Mains brûlantes
+
 - AltName: [Burning Hands](spells_vo.md#burning-hands)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: personnelle (cône de 4,50 mètres)
+- **Portée :** personnelle (cône de 4,50 mètres)
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5090,14 +5521,16 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 [][SpellHD]
 
 # Manoir somptueux
+
 - AltName: [Mordenkainen's Magnificent Mansion](spells_vo.md#mordenkainens-magnificent-mansion)
-- CastingTime: 1 minute
-- Components: V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
+- **Durée :** 24 heures
 - LevelType: Invocation de niveau 7
-- Range: 90 mètres
+- **Portée :** 90 mètres
 - Source: (HD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -5120,14 +5553,16 @@ Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace ex
 [][SpellHD]
 
 # Manteau de givre
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un peu d'eau)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu d'eau)
+- **Durée :** 8 heures
 - LevelType: Abjuration de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Sorcier
+- Classes: [Sorcier]
 
 ### Description
 
@@ -5140,14 +5575,16 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 [][SpellHD]
 
 # Marche sur l'eau
+
 - AltName: [Water Walk](spells_vo.md#water-walk)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de liège)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de liège)
+- **Durée :** 1 heure
 - LevelType: Transmutation de niveau 3 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Clerc, Druide, Ensorceleur, Rôdeur
+- Classes: [Clerc], [Druide], [Ensorceleur], [Rôdeur]
 
 ### Description
 
@@ -5160,14 +5597,16 @@ Si vous prenez pour cible une créature immergée dans un liquide, le sort la ra
 [][SpellHD]
 
 # Marche sur le vent
+
 - AltName: [Wind Walk](spells_vo.md#wind-walk)
-- CastingTime: 1 minute
-- Components: V, S, M (du feu et de l'eau bénite)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (du feu et de l'eau bénite)
+- **Durée :** 8 heures
 - LevelType: Transmutation de niveau 6
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -5180,14 +5619,16 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 [][SpellHD]
 
 # Marque du chasseur
+
 - AltName: [Hunter's Mark](spells_vo.md#hunters-mark)
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Divination de niveau 1
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Rôdeur
+- Classes: [Rôdeur]
 
 ### Description
 
@@ -5200,14 +5641,16 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 [][SpellHD]
 
 # Mauvais oeil
+
 - AltName: [Eyebite](spells_vo.md#eyebite)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Nécromancie de niveau 6
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -5224,14 +5667,16 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 [][SpellHD]
 
 # Message
+
 - AltName: [Message](spells_vo.md#message)
-- CastingTime: 1 action
-- Components: V, S, M (un petit bout de fil de cuivre)
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit bout de fil de cuivre)
+- **Durée :** 1 round
 - LevelType: Transmutation, tour de magie
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -5244,14 +5689,16 @@ Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien 
 [][SpellHD]
 
 # Messager animal
+
 - AltName: [Animal Messenger](spells_vo.md#animal-messenger)
-- CastingTime: 1 action
-- Components: V, S, M (un peu de nourriture)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un peu de nourriture)
+- **Durée :** 24 heures
 - LevelType: Enchantement de niveau 2 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Rôdeur
+- Classes: [Barde], [Druide], [Rôdeur]
 
 ### Description
 
@@ -5270,14 +5717,16 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 [][SpellHD]
 
 # Métamorphose
+
 - AltName: [Polymorph](spells_vo.md#polymorph)
-- CastingTime: 1 action
-- Components: V, S, M (un cocon de chenille)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un cocon de chenille)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 4
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Ensorceleur, Magicien
+- Classes: [Barde], [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5296,14 +5745,16 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 [][SpellHD]
 
 # Métamorphose suprême
+
 - AltName: [True Polymorph](spells_vo.md#true-polymorph)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 9
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Sorcier
+- Classes: [Barde], [Magicien], [Sorcier]
 
 ### Description
 
@@ -5340,14 +5791,16 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 [][SpellHD]
 
 # Mirage
+
 - AltName: [Mirage Arcane](spells_vo.md#mirage-arcane)
-- CastingTime: 10 minutes
-- Components: V, S
-- Duration: 10 jours
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S
+- **Durée :** 10 jours
 - LevelType: Illusion de niveau 7
-- Range: vision
+- **Portée :** vision
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Magicien
+- Classes: [Barde], [Druide], [Magicien]
 
 ### Description
 
@@ -5362,14 +5815,16 @@ Les créatures dotées de vision parfaite distinguent le véritable terrain derr
 [][SpellHD]
 
 # Modification de mémoire
+
 - AltName: [Modify Memory](spells_vo.md#modify-memory)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute 
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute 
 - LevelType: Enchantement de niveau 5
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -5390,14 +5845,16 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 [][SpellHD]
 
 # Modifier son apparence
+
 - AltName: [Alter Self](spells_vo.md#alter-self)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Ombrelame
+- Classes: [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -5414,14 +5871,16 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 [][SpellHD]
 
 # Monture fantôme
+
 - AltName: [Phantom Steed](spells_vo.md#phantom-steed)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 heure
 - LevelType: Illusion de niveau 3 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -5436,14 +5895,16 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 [][SpellHD]
 
 # Moquerie cruelle
+
 - AltName: [Vicious Mockery](spells_vo.md#vicious-mockery)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Enchantement, tour de magie
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ombrelame
+- Classes: [Barde], [Ombrelame]
 
 ### Description
 
@@ -5456,14 +5917,16 @@ Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), l
 [][SpellHD]
 
 # Mot de guérison
+
 - AltName: [Healing Word](spells_vo.md#healing-word)
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide
+- Classes: [Barde], [Clerc], [Druide]
 
 ### Description
 
@@ -5476,14 +5939,16 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 [][SpellHD]
 
 # Mot de guérison de groupe
+
 - AltName: [Mass Healing Word](spells_vo.md#mass-healing-word)
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 3
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -5496,14 +5961,16 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 [][SpellHD]
 
 # Mot de pouvoir étourdissant
+
 - AltName: [Power Word Stun](spells_vo.md#power-word-stun)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Enchantement de niveau 8
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -5516,14 +5983,16 @@ Une cible [étourdie] a droit à un [jet de sauvegarde] de [Constitution] à la 
 [][SpellHD]
 
 # Mot de pouvoir mortel
+
 - AltName: [Power Word Kill](spells_vo.md#power-word-kill)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Enchantement de niveau 9
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -5534,14 +6003,16 @@ Vous prononcez un mot de pouvoir capable d'obliger une créature située à port
 [][SpellHD]
 
 # Mot de retour
+
 - AltName: [Word of Recall](spells_vo.md#word-of-recall)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 6
-- Range: 1,5 mètre
+- **Portée :** 1,5 mètre
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -5554,14 +6025,16 @@ Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à vo
 [][SpellHD]
 
 # Motif hypnotique
+
 - AltName: [Hypnotic Pattern](spells_vo.md#hypnotic-pattern)
-- CastingTime: 1 action
-- Components: S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 3
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -5576,14 +6049,16 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 [][SpellHD]
 
 # Mur d'épines
+
 - AltName: [Wall of Thorns](spells_vo.md#wall-of-thorns)
-- CastingTime: 1 action
-- Components: V, S, M (une poignée d'épines)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une poignée d'épines)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 6
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -5602,14 +6077,16 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 [][SpellHD]
 
 # Mur de feu
+
 - AltName: [Wall of Fire](spells_vo.md#wall-of-fire)
-- CastingTime: 1 action
-- Components: V, S, M (un éclat de phosphore)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un éclat de phosphore)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 4
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5628,14 +6105,16 @@ L'autre face du mur n'inflige pas de dégâts.
 [][SpellHD]
 
 # Mur de force
+
 - AltName: [Wall of Force](spells_vo.md#wall-of-force)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poudre de gemme translucide)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poudre de gemme translucide)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Évocation de niveau 5
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -5648,14 +6127,16 @@ Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre t
 [][SpellHD]
 
 # Mur de glace
+
 - AltName: [Wall of Ice](spells_vo.md#wall-of-ice)
-- CastingTime: 1 action
-- Components: V, S, M (un éclat de quartz)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un éclat de quartz)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Évocation de niveau 6
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -5672,14 +6153,16 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 [][SpellHD]
 
 # Mur de pierre
+
 - AltName: [Wall of Stone](spells_vo.md#wall-of-stone)
-- CastingTime: 1 action
-- Components: V, S, M (un petit bloc de granite)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit bloc de granite)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Évocation de niveau 5
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5700,14 +6183,16 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 [][SpellHD]
 
 # Mur de vent
+
 - AltName: [Wind Wall](spells_vo.md#wind-wall)
-- CastingTime: 1 action
-- Components: V, S, M (un petit éventail et une plume exotique)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit éventail et une plume exotique)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 3
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -5722,14 +6207,16 @@ Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les cr
 [][SpellHD]
 
 # Mur prismatique
+
 - AltName: [Prismatic Wall](spells_vo.md#prismatic-wall)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 10 minutes
 - LevelType: Abjuration de niveau 9
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -5766,14 +6253,16 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 [][SpellHD]
 
 # Nappe de brouillard
+
 - AltName: [Fog Cloud](spells_vo.md#fog-cloud)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 1
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien, Ombrelame, Rôdeur
+- Classes: [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -5786,14 +6275,16 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 [][SpellHD]
 
 # Nimbe de bienfaisance
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Abjuration de niveau 4
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -5806,14 +6297,16 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 [][SpellHD]
 
 # Non-détection
+
 - AltName: [Nondetection](spells_vo.md#nondetection)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)
+- **Durée :** 8 heures
 - LevelType: Abjuration de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Ombrelame, Rôdeur
+- Classes: [Barde], [Magicien], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -5826,14 +6319,16 @@ Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet
 [][SpellHD]
 
 # Nuage incendiaire
+
 - AltName: [Incendiary Cloud](spells_vo.md#incendiary-cloud)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 8
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5850,14 +6345,16 @@ Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au d�
 [][SpellHD]
 
 # Nuage mortel
+
 - AltName: [Cloudkill](spells_vo.md#cloudkill)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 5
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5876,14 +6373,16 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 [][SpellHD]
 
 # Nuage puant
+
 - AltName: [Stinking Cloud](spells_vo.md#stinking-cloud)
-- CastingTime: 1 action
-- Components: V, S, M (un oeuf pourri ou des feuilles de chou pourri)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un oeuf pourri ou des feuilles de chou pourri)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 3
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -5898,14 +6397,16 @@ Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent f
 [][SpellHD]
 
 # Nuée de météores
+
 - AltName: [Meteor Swarm](spells_vo.md#meteor-swarm)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 9
-- Range: 1,5 kilomètre
+- **Portée :** 1,5 kilomètre
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -5920,14 +6421,16 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 [][SpellHD]
 
 # Nuée de projectiles
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V, S, M (un projectile)
-- Duration: instantané
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (un projectile)
+- **Durée :** instantané
 - LevelType: Invocation de niveau 5
-- Range: selon l'arme utilisée
+- **Portée :** selon l'arme utilisée
 - Source: (HD)
-- Classes: Rôdeur
+- Classes: [Rôdeur]
 
 ### Description
 
@@ -5938,14 +6441,16 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 [][SpellHD]
 
 # Oeil magique
+
 - AltName: [Arcane Eye](spells_vo.md#arcane-eye)
-- CastingTime: 1 action
-- Components: V, S, M (des poils de chauve-souris)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (des poils de chauve-souris)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Divination de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Ombrelame
+- Classes: [Magicien], [Ombrelame]
 
 ### Description
 
@@ -5958,14 +6463,16 @@ Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la d
 [][SpellHD]
 
 # Offrande inéluctable
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Enchantement de niveau 2
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -5978,14 +6485,16 @@ Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'ell
 [][SpellHD]
 
 # Ombres imaginaires
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (un morceau de charbon)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un morceau de charbon)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Illusion de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame]
 
 ### Description
 
@@ -5998,14 +6507,16 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 [][SpellHD]
 
 # Panacée
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: Instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** Instantanée
 - LevelType: Abjuration de niveau 4
-- Range: personnelle (3 mètres de rayon)
+- **Portée :** personnelle (3 mètres de rayon)
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -6016,14 +6527,16 @@ Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux
 [][SpellHD]
 
 # Parole divine
+
 - AltName: [Divine Word](spells_vo.md#divine-word)
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 7
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -6046,14 +6559,16 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 [][SpellHD]
 
 # Pas brumeux
+
 - AltName: [Misty Step](spells_vo.md#misty-step)
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -6064,14 +6579,16 @@ Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez 
 [][SpellHD]
 
 # Passage dimensionnel
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Invocation de niveau 6
-- Range: 150 mètres
+- **Portée :** 150 mètres
 - Source: (HD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -6092,14 +6609,16 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 [][SpellHD]
 
 # Passage par les arbres
+
 - AltName: [Tree Stride](spells_vo.md#tree-stride)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 5
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -6112,14 +6631,16 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 [][SpellHD]
 
 # Passage sans trace
+
 - AltName: [Pass without Trace](spells_vo.md#pass-without-trace)
-- CastingTime: 1 action
-- Components: V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Abjuration de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -6134,14 +6655,16 @@ Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni a
 [][SpellHD]
 
 # Passe-muraille
+
 - AltName: [Passwall](spells_vo.md#passwall)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de graines de sésame)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de graines de sésame)
+- **Durée :** 1 heure
 - LevelType: Transmutation de niveau 5
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -6154,14 +6677,16 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 [][SpellHD]
 
 # Pattes d'araignée
+
 - AltName: [Spider Climb](spells_vo.md#spider-climb)
-- CastingTime: 1 action
-- Components: V, S, M (une goutte de bitume et une araignée)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une goutte de bitume et une araignée)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -6172,14 +6697,16 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 [][SpellHD]
 
 # Peau d'écorce
+
 - AltName: [Barkskin](spells_vo.md#barkskin)
-- CastingTime: 1 action
-- Components: V, S, M (une poignée d'écorce de chêne)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une poignée d'écorce de chêne)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Transmutation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Druide, Rôdeur
+- Classes: [Druide], [Rôdeur]
 
 ### Description
 
@@ -6190,14 +6717,16 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 [][SpellHD]
 
 # Peau de pierre
+
 - AltName: [Stoneskin](spells_vo.md#stoneskin)
-- CastingTime: 1 action
-- Components: V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Abjuration de niveau 4
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien, Rôdeur
+- Classes: [Druide], [Ensorceleur], [Magicien], [Rôdeur]
 
 ### Description
 
@@ -6208,14 +6737,16 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 [][SpellHD]
 
 # Petite hutte
+
 - AltName: [Leomund's Tiny Hut](spells_vo.md#leomunds-tiny-hut)
-- CastingTime: 1 minute
-- Components: V, S, M (une petite perle de cristal)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une petite perle de cristal)
+- **Durée :** 8 heures
 - LevelType: Évocation de niveau 3 (rituel)
-- Range: personnelle (hémisphère de 3 mètres de rayon)
+- **Portée :** personnelle (hémisphère de 3 mètres de rayon)
 - Source: (HD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -6230,14 +6761,16 @@ Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur
 [][SpellHD]
 
 # Pétrification
+
 - AltName: [Flesh to Stone](spells_vo.md#flesh-to-stone)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de chaux, de l'eau et de la terre)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de chaux, de l'eau et de la terre)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Transmutation de niveau 6
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -6254,14 +6787,16 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 [][SpellHD]
 
 # Peur
+
 - AltName: [Fear](spells_vo.md#fear)
-- CastingTime: 1 action
-- Components: V, S, M (une plume blanche ou un coeur de poule)
-- Duration: concentration, jusqu'à 1 minute.
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une plume blanche ou un coeur de poule)
+- **Durée :** concentration, jusqu'à 1 minute.
 - LevelType: Illusion de niveau 3
-- Range: personnelle (cône de 9 mètres)
+- **Portée :** personnelle (cône de 9 mètres)
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -6274,14 +6809,16 @@ Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utilise
 [][SpellHD]
 
 # Pluie de projectiles
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V, S, M (un projectile)
-- Duration: instantané
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (un projectile)
+- **Durée :** instantané
 - LevelType: Invocation de niveau 3
-- Range: selon l'arme utilisée
+- **Portée :** selon l'arme utilisée
 - Source: (HD)
-- Classes: Rôdeur
+- Classes: [Rôdeur]
 
 ### Description
 
@@ -6294,14 +6831,16 @@ Le projectile se dédouble de nombreuses fois et affecte toutes les créatures d
 [][SpellHD]
 
 # Poigne électrique
+
 - AltName: [Shocking Grasp](spells_vo.md#shocking-grasp)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6314,14 +6853,16 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 [][SpellHD]
 
 # Poison naturel
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Ombrelame, Rôdeur
+- Classes: [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -6334,14 +6875,16 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 [][SpellHD]
 
 # Portail
+
 - AltName: [Gate](spells_vo.md#gate)
-- CastingTime: 1 action
-- Components: V, S, M (un diamant d'une valeur minimale de 5 000 po)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 5 000 po)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 9
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Ensorceleur, Magicien
+- Classes: [Clerc], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6358,14 +6901,16 @@ Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifi
 [][SpellHD]
 
 # Porte dimensionnelle
+
 - AltName: [Dimension Door](spells_vo.md#dimension-door)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 4
-- Range: 150 mètres
+- **Portée :** 150 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -6382,14 +6927,16 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 [][SpellHD]
 
 # Porte-bonheur
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (objet porte-bonheur)
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (objet porte-bonheur)
+- **Durée :** 1 round
 - LevelType: Abjuration, tour de magie
-- Range: personnel
+- **Portée :** personnel
 - Source: (HD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -6400,14 +6947,16 @@ Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, 
 [][SpellHD]
 
 # Possession
+
 - AltName: [Magic Jar](spells_vo.md#magic-jar)
-- CastingTime: 1 minute
-- Components: V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
+- **Durée :** jusqu'à dissipation
 - LevelType: Nécromancie de niveau 6
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -6442,14 +6991,16 @@ Le réceptacle est détruit quand le sort se termine.
 [][SpellHD]
 
 # Prémonition
+
 - AltName: [Foresight](spells_vo.md#foresight)
-- CastingTime: 1 minute
-- Components: V, S, M (une plume d'oiseau chanteur)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une plume d'oiseau chanteur)
+- **Durée :** 8 heures
 - LevelType: Divination de niveau 9
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Magicien, Sorcier
+- Classes: [Barde], [Druide], [Magicien], [Sorcier]
 
 ### Description
 
@@ -6462,14 +7013,16 @@ Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de s
 [][SpellHD]
 
 # Prestidigitation
+
 - AltName: [Prestidigitation](spells_vo.md#prestidigitation)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** jusqu'à 1 heure
 - LevelType: Transmutation, tour de magie
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -6494,14 +7047,16 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 [][SpellHD]
 
 # Prière de soins
+
 - AltName: [Prayer of Healing](spells_vo.md#prayer-of-healing)
-- CastingTime: 10 minutes
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 2
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -6514,14 +7069,16 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 [][SpellHD]
 
 # Produire une flamme
+
 - AltName: [Produce Flame](spells_vo.md#produce-flame)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 10 minutes
 - LevelType: Invocation , tour de magie
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -6538,14 +7095,16 @@ Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8)
 [][SpellHD]
 
 # Projectile magique
+
 - AltName: [Magic Missile](spells_vo.md#magic-missile)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6558,14 +7117,16 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 [][SpellHD]
 
 # Projectile toxique
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V, S, M (un projectile)
-- Duration: instantané
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (un projectile)
+- **Durée :** instantané
 - LevelType: Invocation de niveau 3
-- Range: selon l'arme utilisée
+- **Portée :** selon l'arme utilisée
 - Source: (HD)
-- Classes: Ombrelame, Rôdeur
+- Classes: [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -6580,14 +7141,16 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 [][SpellHD]
 
 # Projection astrale
+
 - AltName: [Astral Projection](spells_vo.md#astral-projection)
-- CastingTime: 1 heure
-- Components: V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
-- Duration: spéciale
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
+- **Durée :** spéciale
 - LevelType: Nécromancie de niveau 9
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien, Sorcier
+- Classes: [Clerc], [Magicien], [Sorcier]
 
 ### Description
 
@@ -6608,14 +7171,16 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 [][SpellHD]
 
 # Protection contre la mort
+
 - AltName: [Death Ward](spells_vo.md#death-ward)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 8 heures
 - LevelType: Abjuration de niveau 4
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -6628,14 +7193,16 @@ Si le sort est encore actif quand la cible est soumise à un effet qui devrait l
 [][SpellHD]
 
 # Protection contre le mal et le bien
+
 - AltName: [Protection from Evil and Good](spells_vo.md#protection-from-evil-and-good)
-- CastingTime: 1 action
-- Components: V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Abjuration de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Magicien, Paladin, Sorcier
+- Classes: [Clerc], [Magicien], [Paladin], [Sorcier]
 
 ### Description
 
@@ -6650,14 +7217,16 @@ Les créatures des types précédemment nommés subissent un désavantage lors d
 [][SpellHD]
 
 # Protection contre le poison
+
 - AltName: [Protection from Poison](spells_vo.md#protection-from-poison)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 heure
 - LevelType: Abjuration de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Paladin, Rôdeur
+- Classes: [Clerc], [Druide], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -6670,14 +7239,16 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [je
 [][SpellHD]
 
 # Protection contre les énergies
+
 - AltName: [Protection from Energy](spells_vo.md#protection-from-energy)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Abjuration de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Ombrelame
+- Classes: [Ombrelame]
 
 ### Description
 
@@ -6688,14 +7259,16 @@ Pendant toute la durée du sort, la créature consentante que vous touchez devie
 [][SpellHD]
 
 # Protections et sceaux
+
 - AltName: [Guards and Wards](spells_vo.md#guards-and-wards)
-- CastingTime: 10 minutes
-- Components: V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)
+- **Durée :** 24 heures
 - LevelType: Abjuration de niveau 6
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -6734,14 +7307,16 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 [][SpellHD]
 
 # Purification de la nourriture et de l'eau
+
 - AltName: [Purify Food and Drink](spells_vo.md#purify-food-and-drink)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 1
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)
-- Classes: Clerc, Druide, Paladin
+- Classes: [Clerc], [Druide], [Paladin]
 
 ### Description
 
@@ -6752,14 +7327,16 @@ Toute la nourriture et les boissons non magiques présentes dans une sphère d'u
 [][SpellHD]
 
 # Putréfaction
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Nécromancie de niveau 1
-- Range: 30 mètres
+- **Portée :** 30 mètres
 - Source: (HD)
-- Classes: Sorcier
+- Classes: [Sorcier]
 
 ### Description
 
@@ -6776,14 +7353,16 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 [][SpellHD]
 
 # Rappel à la vie
+
 - AltName: [Raise Dead](spells_vo.md#raise-dead)
-- CastingTime: 1 heure
-- Components: V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Barde, Clerc, Paladin
+- Classes: [Barde], [Clerc], [Paladin]
 
 ### Description
 
@@ -6800,14 +7379,16 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 [][SpellHD]
 
 # Rayon affaiblissant
+
 - AltName: [Ray of Enfeeblement](spells_vo.md#ray-of-enfeeblement)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Nécromancie de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Magicien, Sorcier
+- Classes: [Magicien], [Sorcier]
 
 ### Description
 
@@ -6820,14 +7401,16 @@ La cible a droit à un [jet de sauvegarde] de [Constitution] contre le sort à l
 [][SpellHD]
 
 # Rayon ardent
+
 - AltName: [Scorching Ray](spells_vo.md#scorching-ray)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 2
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6840,14 +7423,16 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 [][SpellHD]
 
 # Rayon de givre
+
 - AltName: [Ray of Frost](spells_vo.md#ray-of-frost)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation, tour de magie
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6860,14 +7445,16 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11
 [][SpellHD]
 
 # Rayon de lune
+
 - AltName: [Moonbeam](spells_vo.md#moonbeam)
-- CastingTime: 1 action
-- Components: V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 2
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -6886,14 +7473,16 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 [][SpellHD]
 
 # Rayon de soleil
+
 - AltName: [Sunbeam](spells_vo.md#sunbeam)
-- CastingTime: 1 action
-- Components: V, S, M (une loupe)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une loupe)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 6
-- Range: personnelle (ligne de 18 mètres)
+- **Portée :** personnelle (ligne de 18 mètres)
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6910,14 +7499,16 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 [][SpellHD]
 
 # Régénération
+
 - AltName: [Regenerate](spells_vo.md#regenerate)
-- CastingTime: 1 minute
-- Components: V, S, M (un moulin à prières et de l'eau bénite)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un moulin à prières et de l'eau bénite)
+- **Durée :** 1 heure
 - LevelType: Transmutation de niveau 7
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide
+- Classes: [Barde], [Clerc], [Druide]
 
 ### Description
 
@@ -6932,14 +7523,16 @@ Si vous disposez de la partie amputée et la maintenez contre le moignon, le sor
 [][SpellHD]
 
 # Réincarnation
+
 - AltName: [Reincarnate](spells_vo.md#reincarnate)
-- CastingTime: 1 heure
-- Components: V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Transmutation de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -6976,14 +7569,16 @@ La créature réincarnée se souvient de son ancienne vie et de ses expériences
 [][SpellHD]
 
 # Réparation
+
 - AltName: [Mending](spells_vo.md#mending)
-- CastingTime: 1 minute
-- Components: V, S, M (deux magnétites)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (deux magnétites)
+- **Durée :** instantanée
 - LevelType: Transmutation, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Ensorceleur, Magicien
+- Classes: [Barde], [Clerc], [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -6998,14 +7593,16 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 [][SpellHD]
 
 # Repli expéditif
+
 - AltName: [Expeditious Retreat](spells_vo.md#expeditious-retreat)
-- CastingTime: 1 action bonus
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -7016,14 +7613,16 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 [][SpellHD]
 
 # Représailles infernales
+
 - AltName: [Hellish Rebuke](spells_vo.md#hellish-rebuke)
-- CastingTime: 
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Sorcier
+- Classes: [Sorcier]
 
 ### Description
 
@@ -7036,14 +7635,16 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 [][SpellHD]
 
 # Répulsion/attirance
+
 - AltName: [Antipathy/Sympathy](spells_vo.md#antipathysympathy)
-- CastingTime: 1 heure
-- Components: V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
-- Duration: 10 jours
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
+- **Durée :** 10 jours
 - LevelType: Enchantement de niveau 8
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Magicien
+- Classes: [Druide], [Magicien]
 
 ### Description
 
@@ -7068,14 +7669,16 @@ Une créature qui réussit son [jet de sauvegarde] contre l'effet est immunisée
 [][SpellHD]
 
 # Résistance
+
 - AltName: [Resistance](spells_vo.md#resistance)
-- CastingTime: 1 action
-- Components: V, S, M (une cape miniature)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une cape miniature)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Abjuration, tour de magie
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -7088,14 +7691,16 @@ Le sort se termine alors.
 [][SpellHD]
 
 # Respiration aquatique
+
 - AltName: [Water Breathing](spells_vo.md#water-breathing)
-- CastingTime: 1 action
-- Components: V, S, M (un petit roseau ou un brin de paille)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un petit roseau ou un brin de paille)
+- **Durée :** 24 heures
 - LevelType: Transmutation de niveau 3 (rituel)
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien, Ombrelame, Rôdeur
+- Classes: [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -7106,14 +7711,16 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 [][SpellHD]
 
 # Restauration inférieure
+
 - AltName: [Lesser Restoration](spells_vo.md#lesser-restoration)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Abjuration de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Paladin, Rôdeur
+- Classes: [Barde], [Clerc], [Druide], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -7124,14 +7731,16 @@ Vous touchez une créature et mettez fin à une maladie ou à un état spécial 
 [][SpellHD]
 
 # Restauration supérieure
+
 - AltName: [Greater Restoration](spells_vo.md#greater-restoration)
-- CastingTime: 1 action
-- Components: V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Abjuration de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide
+- Classes: [Barde], [Clerc], [Druide]
 
 ### Description
 
@@ -7150,14 +7759,16 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 [][SpellHD]
 
 # Résurrection
+
 - AltName: [Resurrection](spells_vo.md#resurrection)
-- CastingTime: 1 heure
-- Components: V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 7
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc
+- Classes: [Barde], [Clerc]
 
 ### Description
 
@@ -7178,14 +7789,16 @@ Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavanta
 [][SpellHD]
 
 # Résurrection suprême
+
 - AltName: [True Resurrection](spells_vo.md#true-resurrection)
-- CastingTime: 1 heure
-- Components: V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 heure
+- **Composantes :** V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 9
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide
+- Classes: [Clerc], [Druide]
 
 ### Description
 
@@ -7200,14 +7813,16 @@ Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes l
 [][SpellHD]
 
 # Rêve
+
 - AltName: [Dream](spells_vo.md#dream)
-- CastingTime: 1 minute
-- Components: V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)
+- **Durée :** 8 heures
 - LevelType: Illusion de niveau 5
-- Range: spéciale
+- **Portée :** spéciale
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Sorcier
+- Classes: [Barde], [Magicien], [Sorcier]
 
 ### Description
 
@@ -7224,14 +7839,16 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 [][SpellHD]
 
 # Revigorer
+
 - AltName: [Revivify](spells_vo.md#revivify)
-- CastingTime: 1 action
-- Components: V, S, M (diamant d'une valeur de 300 po, que le sort consume)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (diamant d'une valeur de 300 po, que le sort consume)
+- **Durée :** instantanée
 - LevelType: Nécromancie de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc, Paladin
+- Classes: [Clerc], [Paladin]
 
 ### Description
 
@@ -7242,14 +7859,16 @@ Vous touchez une créature morte au cours de la minute précédente. Elle revien
 [][SpellHD]
 
 # Sanctification
+
 - AltName: [Hallow](spells_vo.md#hallow)
-- CastingTime: 24 heures
-- Components: V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 24 heures
+- **Composantes :** V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)
+- **Durée :** jusqu'à dissipation
 - LevelType: Évocation de niveau 5
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -7288,14 +7907,16 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 [][SpellHD]
 
 # Sanctuaire
+
 - AltName: [Sanctuary](spells_vo.md#sanctuary)
-- CastingTime: 1 action bonus
-- Components: V, S, M (un petit miroir en argent)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V, S, M (un petit miroir en argent)
+- **Durée :** 1 minute
 - LevelType: Abjuration de niveau 1
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -7310,14 +7931,16 @@ Ce sort se termine si la créature protégée attaque ou lance un sort affectant
 [][SpellHD]
 
 # Sanctuaire privé
+
 - AltName: [Mordenkainen's Private Sanctum](spells_vo.md#mordenkainens-private-sanctum)
-- CastingTime: 10 minutes
-- Components: V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)
+- **Durée :** 24 heures
 - LevelType: Abjuration de niveau 4
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -7346,14 +7969,16 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 [][SpellHD]
 
 # Sang du démon
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une fiole d'un mélange de sang et d'acide)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une fiole d'un mélange de sang et d'acide)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Nécromancie de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7366,14 +7991,16 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 [][SpellHD]
 
 # Saut
+
 - AltName: [Jump](spells_vo.md#jump)
-- CastingTime: 1 action
-- Components: V, S, M (une patte arrière de sauterelle)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une patte arrière de sauterelle)
+- **Durée :** 1 minute
 - LevelType: Transmutation de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien, Ombrelame, Rôdeur
+- Classes: [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -7384,14 +8011,16 @@ Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sor
 [][SpellHD]
 
 # Scrutation
+
 - AltName: [Scrying](spells_vo.md#scrying)
-- CastingTime: 10 minutes
-- Components: V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Divination de niveau 5
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Magicien, Sorcier
+- Classes: [Barde], [Clerc], [Druide], [Magicien], [Sorcier]
 
 ### Description
 
@@ -7420,14 +8049,16 @@ Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vou
 [][SpellHD]
 
 # Séquestration
+
 - AltName: [Sequester](spells_vo.md#sequester)
-- CastingTime: 1 action
-- Components: V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)
+- **Durée :** jusqu'à dissipation
 - LevelType: Transmutation de niveau 7
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -7442,14 +8073,16 @@ Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce
 [][SpellHD]
 
 # Serviteur invisible
+
 - AltName: [Unseen Servant](spells_vo.md#unseen-servant)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de ficelle et un morceau de bois)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de ficelle et un morceau de bois)
+- **Durée :** 1 heure
 - LevelType: Invocation de niveau 1 (rituel)
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -7464,14 +8097,16 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 [][SpellHD]
 
 # Silence
+
 - AltName: [Silence](spells_vo.md#silence)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Illusion de niveau 2 (rituel)
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Rôdeur
+- Classes: [Barde], [Clerc], [Rôdeur]
 
 ### Description
 
@@ -7484,14 +8119,16 @@ Une créature ou un objet entièrement contenu dans la sphère sont immunisés c
 [][SpellHD]
 
 # Simulacre
+
 - AltName: [Simulacrum](spells_vo.md#simulacrum)
-- CastingTime: 12 heures
-- Components: V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 12 heures
+- **Composantes :** V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)
+- **Durée :** jusqu'à dissipation
 - LevelType: Illusion de niveau 7
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -7510,14 +8147,16 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 [][SpellHD]
 
 # Simulacre de vie
+
 - AltName: [False Life](spells_vo.md#false-life)
-- CastingTime: 1 action
-- Components: V, S, M (une petite quantité d'alcool ou de spiritueux)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une petite quantité d'alcool ou de spiritueux)
+- **Durée :** 1 heure
 - LevelType: Nécromancie de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7530,14 +8169,16 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 [][SpellHD]
 
 # Soin des blessures
+
 - AltName: [Cure Wounds](spells_vo.md#cure-wounds)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide, Paladin, Rôdeur
+- Classes: [Barde], [Clerc], [Druide], [Paladin], [Rôdeur]
 
 ### Description
 
@@ -7550,14 +8191,16 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 [][SpellHD]
 
 # Soin des blessures de groupe
+
 - AltName: [Mass Cure Wounds](spells_vo.md#mass-cure-wounds)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 5
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide
+- Classes: [Barde], [Clerc], [Druide]
 
 ### Description
 
@@ -7570,14 +8213,16 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 [][SpellHD]
 
 # Sommeil
+
 - AltName: [Sleep](spells_vo.md#sleep)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)
+- **Durée :** 1 minute
 - LevelType: Enchantement de niveau 1
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7594,14 +8239,16 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 [][SpellHD]
 
 # Souhait
+
 - AltName: [Wish](spells_vo.md#wish)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 9
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7634,14 +8281,16 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 [][SpellHD]
 
 # Sphère de feu
+
 - AltName: [Flaming Sphere](spells_vo.md#flaming-sphere)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Magicien
+- Classes: [Druide], [Magicien]
 
 ### Description
 
@@ -7658,14 +8307,16 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 [][SpellHD]
 
 # Sphère glacée
+
 - AltName: [Otiluke's Freezing Sphere](spells_vo.md#otilukes-freezing-sphere)
-- CastingTime: 1 action
-- Components: V, S, M (une petite sphère de cristal)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une petite sphère de cristal)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 6
-- Range: 90 mètres
+- **Portée :** 90 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -7688,14 +8339,16 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 [][SpellHD]
 
 # Sphère résiliente
+
 - AltName: [Otiluke's Resilient Sphere](spells_vo.md#otilukes-resilient-sphere)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 4
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -7714,14 +8367,16 @@ Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce
 [][SpellHD]
 
 # Stalagmites fulgurantes
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute.
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute.
 - LevelType: Invocation de niveau 2
-- Range: 30 mètres
+- **Portée :** 30 mètres
 - Source: (HD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -7734,14 +8389,16 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 [][SpellHD]
 
 # Strangulation
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 1
-- Range: 9 m
+- **Portée :** 9 m
 - Source: (HD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -7754,14 +8411,16 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 [][SpellHD]
 
 # Suggestion
+
 - AltName: [Suggestion](spells_vo.md#suggestion)
-- CastingTime: 1 action
-- Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
-- Duration: concentration, jusqu'à 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+- **Durée :** concentration, jusqu'à 8 heures
 - LevelType: Enchantement de niveau 2
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -7782,14 +8441,16 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 [][SpellHD]
 
 # Suggestion de groupe
+
 - AltName: [Mass Suggestion](spells_vo.md#mass-suggestion)
-- CastingTime: 1 action
-- Components: V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+- **Durée :** 24 heures
 - LevelType: Enchantement de niveau 6
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -7808,14 +8469,16 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 [][SpellHD]
 
 # Symbole
+
 - AltName: [Symbol](spells_vo.md#symbol)
-- CastingTime: 1 minute
-- Components: V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
-- Duration: jusqu'à dissipation ou déclenchement
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)
+- **Durée :** jusqu'à dissipation ou déclenchement
 - LevelType: Abjuration de niveau 7
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Magicien
+- Classes: [Barde], [Clerc], [Magicien]
 
 ### Description
 
@@ -7854,14 +8517,16 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 [][SpellHD]
 
 # Télékinésie
+
 - AltName: [Telekinesis](spells_vo.md#telekinesis)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 5
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7882,14 +8547,16 @@ Vous exercez un contrôle précis sur les objets pris dans votre étreinte tél�
 [][SpellHD]
 
 # Téléportation
+
 - AltName: [Teleport](spells_vo.md#teleport)
-- CastingTime: 1 action
-- Components: V
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 7
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7928,14 +8595,16 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 [][SpellHD]
 
 # Tempête de feu
+
 - AltName: [Fire Storm](spells_vo.md#fire-storm)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 7
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Ensorceleur
+- Classes: [Clerc], [Druide], [Ensorceleur]
 
 ### Description
 
@@ -7950,14 +8619,16 @@ Le feu endommage les objets présents dans la zone et embrase les objets inflamm
 [][SpellHD]
 
 # Tempête de grêle
+
 - AltName: [Ice Storm](spells_vo.md#ice-storm)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 4
-- Range: 90 mètres
+- **Portée :** 90 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7974,14 +8645,16 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 [][SpellHD]
 
 # Tempête de neige
+
 - AltName: [Sleet Storm](spells_vo.md#sleet-storm)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poussière et quelques gouttes d'eau)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poussière et quelques gouttes d'eau)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 3
-- Range: 45 mètres
+- **Portée :** 45 mètres
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien
+- Classes: [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -7996,14 +8669,16 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 [][SpellHD]
 
 # Tempête de sable
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S, M (une rose des sables)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une rose des sables)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 8
-- Range: 1 kilomètre
+- **Portée :** 1 kilomètre
 - Source: (HD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -8018,14 +8693,16 @@ Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dég
 [][SpellHD]
 
 # Tempête vengeresse
+
 - AltName: [Storm of Vengeance](spells_vo.md#storm-of-vengeance)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 9
-- Range: champ de vision
+- **Portée :** champ de vision
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -8048,14 +8725,16 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 [][SpellHD]
 
 # Ténèbres
+
 - AltName: [Darkness](spells_vo.md#darkness)
-- CastingTime: 1 action
-- Components: V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Évocation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Ombrelame, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -8070,14 +8749,16 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 [][SpellHD]
 
 # Tentacules noirs
+
 - AltName: [Evard's Black Tentacles](spells_vo.md#evards-black-tentacles)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 4
-- Range: 27 mètres
+- **Portée :** 27 mètres
 - Source: (HD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -8092,14 +8773,16 @@ Une créature [entravée] par les tentacules peut utiliser son action pour effec
 [][SpellHD]
 
 # Terrain hallucinatoire
+
 - AltName: [Hallucinatory Terrain](spells_vo.md#hallucinatory-terrain)
-- CastingTime: 10 minutes
-- Components: V, S, M (une pierre, une brindille et un bout de plante verte)
-- Duration: 24 heures
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S, M (une pierre, une brindille et un bout de plante verte)
+- **Durée :** 24 heures
 - LevelType: Illusion de niveau 4
-- Range: 90 mètres
+- **Portée :** 90 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Druide], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -8116,14 +8799,16 @@ Une fois qu'une créature a compris l'illusion, elle la voit comme une image flo
 [][SpellHD]
 
 # Texte illusoire
+
 - AltName: [Illusory Script](spells_vo.md#illusory-script)
-- CastingTime: 1 minute
-- Components: S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
-- Duration: 10 jours
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)
+- **Durée :** 10 jours
 - LevelType: Illusion de niveau 1 (rituel)
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Magicien, Ombrelame, Sorcier
+- Classes: [Barde], [Magicien], [Ombrelame], [Sorcier]
 
 ### Description
 
@@ -8138,14 +8823,16 @@ Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original au
 [][SpellHD]
 
 # Thaumaturgie
+
 - AltName: [Thaumaturgy](spells_vo.md#thaumaturgy)
-- CastingTime: 1 action
-- Components: V
-- Duration: jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V
+- **Durée :** jusqu'à 1 minute
 - LevelType: Transmutation, tour de magie
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc
+- Classes: [Clerc]
 
 ### Description
 
@@ -8172,14 +8859,16 @@ Vous pouvez révoquer un tel effet par une action.
 [][SpellHD]
 
 # Toile d'araignée
+
 - AltName: [Web](spells_vo.md#web)
-- CastingTime: 1 action
-- Components: V, S, M (un bout de toile d'araignée)
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un bout de toile d'araignée)
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Invocation de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -8200,14 +8889,16 @@ Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé 
 [][SpellHD]
 
 # Trait de feu
+
 - AltName: [Fire Bolt](spells_vo.md#fire-bolt)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation, tour de magie
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien
+- Classes: [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -8220,14 +8911,16 @@ Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10),
 [][SpellHD]
 
 # Transpercer
+
 - AltName: 
-- CastingTime: 1 action bonus
-- Components: V
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action bonus
+- **Composantes :** V
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Invocation de niveau 1
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Rôdeur
+- Classes: [Rôdeur]
 
 ### Description
 
@@ -8242,14 +8935,16 @@ Retirer l'arme lui inflige 2d6 dégâts, ou la moitié si elle réussit un [jet 
 [][SpellHD]
 
 # Transport végétal
+
 - AltName: [Transport via Plants](spells_vo.md#transport-via-plants)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 round
 - LevelType: Invocation de niveau 6
-- Range: 3 mètres
+- **Portée :** 3 mètres
 - Source: (HD)(SRD)
-- Classes: Druide
+- Classes: [Druide]
 
 ### Description
 
@@ -8260,14 +8955,16 @@ Ce sort crée un lien magique entre une plante inanimée de taille G ou supérie
 [][SpellHD]
 
 # Tremblement de terre
+
 - AltName: [Earthquake](spells_vo.md#earthquake)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de poussière, un caillou et un peu d'argile)
-- Duration: concentration, jusqu'à 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de poussière, un caillou et un peu d'argile)
+- **Durée :** concentration, jusqu'à 1 minute
 - LevelType: Évocation de niveau 8
-- Range: 150 mètres
+- **Portée :** 150 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Ensorceleur
+- Classes: [Clerc], [Druide], [Ensorceleur]
 
 ### Description
 
@@ -8294,14 +8991,16 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 [][SpellHD]
 
 # Tromperie
+
 - AltName: [Mislead](spells_vo.md#mislead)
-- CastingTime: 1 action
-- Components: S
-- Duration: concentration, jusqu'à 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** S
+- **Durée :** concentration, jusqu'à 1 heure
 - LevelType: Illusion de niveau 5
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Barde, Magicien
+- Classes: [Barde], [Magicien]
 
 ### Description
 
@@ -8318,14 +9017,16 @@ Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à 
 [][SpellHD]
 
 # Trouver les pièges
+
 - AltName: [Find Traps](spells_vo.md#find-traps)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Divination de niveau 2
-- Range: 36 mètres
+- **Portée :** 36 mètres
 - Source: (HD)(SRD)
-- Classes: Clerc, Druide, Rôdeur
+- Classes: [Clerc], [Druide], [Rôdeur]
 
 ### Description
 
@@ -8338,14 +9039,16 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 [][SpellHD]
 
 # Trouver un chemin
+
 - AltName: [Find the Path](spells_vo.md#find-the-path)
-- CastingTime: 1 minute
-- Components: V, S, M (un ensemble d'instruments de divination [comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées] d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
-- Duration: concentration, jusqu'à 1 jour
+
+- **Temps d'incantation :** 1 minute
+- **Composantes :** V, S, M (un ensemble d'instruments de divination [comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées] d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
+- **Durée :** concentration, jusqu'à 1 jour
 - LevelType: Divination de niveau 6
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Druide
+- Classes: [Barde], [Clerc], [Druide]
 
 ### Description
 
@@ -8358,14 +9061,16 @@ Tant que le sort persiste et que vous êtes sur le même plan d'existence que vo
 [][SpellHD]
 
 # Trouver une monture
+
 - AltName: [Find Steed](spells_vo.md#find-steed)
-- CastingTime: 10 minutes
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 10 minutes
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Invocation de niveau 2
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -8388,14 +9093,16 @@ Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vo
 [][SpellHD]
 
 # Vague tonnante
+
 - AltName: [Thunderwave](spells_vo.md#thunderwave)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: instantanée
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** instantanée
 - LevelType: Évocation de niveau 1
-- Range: personnelle (cube de 4,50 mètres)
+- **Portée :** personnelle (cube de 4,50 mètres)
 - Source: (HD)(SRD)
-- Classes: Barde, Druide, Ensorceleur, Magicien
+- Classes: [Barde], [Druide], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -8414,14 +9121,16 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 [][SpellHD]
 
 # Verrou magique
+
 - AltName: [Arcane Lock](spells_vo.md#arcane-lock)
-- CastingTime: 1 action
-- Components: V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
-- Duration: jusqu'à dissipation
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)
+- **Durée :** jusqu'à dissipation
 - LevelType: Abjuration de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Magicien
+- Classes: [Magicien]
 
 ### Description
 
@@ -8434,14 +9143,16 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 [][SpellHD]
 
 # Viser juste
+
 - AltName: [True Strike](spells_vo.md#true-strike)
-- CastingTime: 1 action
-- Components: S
-- Duration: concentration, jusqu'à 1 round
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** S
+- **Durée :** concentration, jusqu'à 1 round
 - LevelType: Divination, tour de magie
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -8452,14 +9163,16 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 [][SpellHD]
 
 # Vision dans le noir
+
 - AltName: [Darkvision](spells_vo.md#darkvision)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de carotte séchée ou une agate)
-- Duration: 8 heures
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de carotte séchée ou une agate)
+- **Durée :** 8 heures
 - LevelType: Transmutation de niveau 2
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Druide, Ensorceleur, Magicien, Ombrelame, Rôdeur
+- Classes: [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]
 
 ### Description
 
@@ -8470,14 +9183,16 @@ Vous touchez une créature consentante pour lui permettre de voir dans le noir. 
 [][SpellHD]
 
 # Vision suprême
+
 - AltName: [True Seeing](spells_vo.md#true-seeing)
-- CastingTime: 1 action
-- Components: V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)
+- **Durée :** 1 heure
 - LevelType: Divination de niveau 6
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Ensorceleur, Magicien, Sorcier
+- Classes: [Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -8490,14 +9205,16 @@ Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repèr
 [][SpellHD]
 
 # Vitalité
+
 - AltName: 
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 1 minute
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 1 minute
 - LevelType: Évocation de niveau 3
-- Range: 9 mètres
+- **Portée :** 9 mètres
 - Source: (HD)
-- Classes: Paladin
+- Classes: [Paladin]
 
 ### Description
 
@@ -8510,14 +9227,16 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 [][SpellHD]
 
 # Voir l'invisible
+
 - AltName: [See Invisibility](spells_vo.md#see-invisibility)
-- CastingTime: 1 action
-- Components: V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
-- Duration: 1 heure
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)
+- **Durée :** 1 heure
 - LevelType: Divination de niveau 2
-- Range: personnelle
+- **Portée :** personnelle
 - Source: (HD)
-- Classes: Barde, Ensorceleur, Magicien
+- Classes: [Barde], [Ensorceleur], [Magicien]
 
 ### Description
 
@@ -8528,14 +9247,16 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 [][SpellHD]
 
 # Vol
+
 - AltName: [Fly](spells_vo.md#fly)
-- CastingTime: 1 action
-- Components: V, S, M (une rémige)
-- Duration: concentration, jusqu'à 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S, M (une rémige)
+- **Durée :** concentration, jusqu'à 10 minutes
 - LevelType: Transmutation de niveau 3
-- Range: contact
+- **Portée :** contact
 - Source: (HD)(SRD)
-- Classes: Ensorceleur, Magicien, Sorcier
+- Classes: [Ensorceleur], [Magicien], [Sorcier]
 
 ### Description
 
@@ -8548,14 +9269,16 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 [][SpellHD]
 
 # Zone de vérité
+
 - AltName: [Zone of Truth](spells_vo.md#zone-of-truth)
-- CastingTime: 1 action
-- Components: V, S
-- Duration: 10 minutes
+
+- **Temps d'incantation :** 1 action
+- **Composantes :** V, S
+- **Durée :** 10 minutes
 - LevelType: Enchantement de niveau 2
-- Range: 18 mètres
+- **Portée :** 18 mètres
 - Source: (HD)(SRD)
-- Classes: Barde, Clerc, Paladin
+- Classes: [Barde], [Clerc], [Paladin]
 
 ### Description
 
@@ -8664,6 +9387,20 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Barbare]: barbarian_hd.md
+[Barde]: bard_hd.md
+[Clerc]: cleric_hd.md
+[Druide]: druid_hd.md
+[Ensorceleur]: sorcerer_hd.md
+[Guerrier]: fighter_hd.md
+[Magicien]: wizard_hd.md
+[Moine]: monk_hd.md
+[Ombrelame]: rogue_hd.md#ombrelame
+[Paladin]: paladin_hd.md
+[Rôdeur]: ranger_hd.md
+[Roublard]: rogue_hd.md
+[Sorcier]: warlock_hd.md
 
 [SpellsHD]: #
 [SpellHD]: #
