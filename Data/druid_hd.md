@@ -40,7 +40,6 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|Druidique, Incantations|2|2|-|-|-|-|-|-|-|-|
-
 |2|+2|Forme sauvage, Cercle druidique|2|3|-|-|-|-|-|-|-|-|
 |3|+2|_|2|4|2|-|-|-|-|-|-|-|
 |4|+2|Forme sauvage améliorée, Amélioration de caractéristiques|3|4|3|-|-|-|-|-|-|-|
@@ -115,10 +114,12 @@ Vous devez ensuite finir un repos court ou un repos long pour récupérer les de
 
 Votre niveau de druide détermine en quel animal vous pouvez vous transformer (voir le tableau des formes sauvages ci-après). Au niveau 2, par exemple, vous pouvez vous transformer en n’importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n’a pas de vitesse de vol ou de nage.
 
-Niv. ID Limitations Exemple
-2 1/4 Pas de vitesse de vol ou de nage Loup
-4 1/2 Pas de vitesse de vol Crocodile
-8 1 _ Aigle géant
+|Niv.|ID|Limitations|Exemple|
+|---|---|---|---|
+|2|1/4|Pas de vitesse de vol ou de nage|Loup|
+
+|4|1/2|Pas de vitesse de vol|Crocodile|
+|8|1|_|Aigle géant|
 
 Vous pouvez conserver votre forme sauvage pendant un nombre d’heures équivalent à la moitié de votre niveau de druide (arrondi à l’entier inférieur). Vous reprenez alors forme humaine, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre forme humaine de manière anticipée en utilisant une action bonus lors de votre tour. Vous retrouvez immédiatement forme humaine si vous perdez conscience, si vous êtes réduit à 0 point de vie ou si vous mourrez.
 
