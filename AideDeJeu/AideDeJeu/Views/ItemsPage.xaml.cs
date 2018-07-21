@@ -32,12 +32,12 @@ namespace AideDeJeu.Views
 
             BindingContext = _ItemsViewModel = itemsViewModel; // Main;
 
-            this.SizeChanged += (o, e) => {
-                if(this.Width > 0 && this.Height > 0)
-                {
-                    this.IsPresented = this.Width > this.Height;
-                }
-            };
+            //this.SizeChanged += (o, e) => {
+            //    if(this.Width > 0 && this.Height > 0)
+            //    {
+            //        this.IsPresented = this.Width > this.Height;
+            //    }
+            //};
         }
         public ItemsPage()
         {

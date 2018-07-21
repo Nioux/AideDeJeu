@@ -35,11 +35,14 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
+
 ## Clerc
+
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|Incantations, Domaine divin|3|2|-|-|-|-|-|-|-|-|
+
 |2|+2|Canalisation d’énergie divine (1/ repos), Aptitude de domaine divin|3|3|-|-|-|-|-|-|-|-|
 |3|+2|_|3|4|2|-|-|-|-|-|-|-|
 |4|+2|Amélioration de caractéristiques|4|4|3|-|-|-|-|-|-|-|

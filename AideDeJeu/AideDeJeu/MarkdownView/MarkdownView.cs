@@ -422,6 +422,7 @@
                             FormattedText = CreateFormatted(par.Inline, style.FontFamily, style.Attributes, style.ForegroundColor, style.BackgroundColor, style.FontSize),
                             HorizontalOptions = LayoutOptions.CenterAndExpand,
                             BackgroundColor = style.BackgroundColor,
+                            LineBreakMode = LineBreakMode.WordWrap,
                             VerticalTextAlignment = TextAlignment.Center,
                             HorizontalTextAlignment = TextAlignment.Center,
                         };

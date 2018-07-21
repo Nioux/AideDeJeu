@@ -35,11 +35,12 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-## Barde
+# Barde
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|Incantations, Inspiration bardique (d6)|2|4|2|-|-|-|-|-|-|-|-|
+
 |2|+2|Touche-à-tout, Chant reposant (d6)|2|5|3|-|-|-|-|-|-|-|-|
 |3|+2|Collège bardique, Expertise|2|6|4|2|-|-|-|-|-|-|-|
 |4|+2|Amélioration de caractéristiques|3|7|4|3|-|-|-|-|-|-|-|
