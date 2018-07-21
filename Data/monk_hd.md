@@ -32,29 +32,32 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 * dix fléchettes
 
 
-MOINE
+[][Generic]
 
-Niveau Bonus de maîtrise Arts martiaux Points de ki Mouvement sans armure Aptitudes
-1 +2 1d4 _ _ Défense sans armure, Arts martiaux
-2 +2 1d4 2 +3 m Ki, Déplacement sans armure
-3 +2 1d4 3 +3 m Tradition monacale, Parade de projectiles
-4 +2 1d4 4 +3 m Amélioration de caractéristiques, Chute ralentie
-5 +3 1d6 5 +3 m Attaque supplémentaire, Frappe étourdissante
-6 +3 1d6 6 +4,50 m Frappe de ki, Aptitude de tradition monacale
-7 +3 1d6 7 +4,50 m Dérobade, Tranquillité de l’esprit
-8 +3 1d6 8 +4,50 m Amélioration de caractéristiques
-9 +4 1d6 9 +4,50 m Déplacement sans armure amélioré
-10 +4 1d6 10 +6 m Pureté du corps
-11 +4 1d8 11 +6 m Aptitude de tradition monacale
-12 +4 1d8 12 +6 m Amélioration de caractéristiques
-13 +5 1d8 13 +6 m Langage du Soleil et de la Lune
-14 +5 1d8 14 +7,50 m Âme de diamant
-15 +5 1d8 15 +7,50 m Jeunesse éternelle
-16 +5 1d8 16 +7,50 m Amélioration de caractéristiques
-17 +6 1d10 17 +7,50 m Aptitude de tradition monacale
-18 +6 1d10 18 +9 m Corps vide
-19 +6 1d10 19 +9 m Amélioration de caractéristiques
-20 +6 1d10 20 +9 m Perfection
+# Tableau d'évolution
+
+|Niveau|Bonus de maîtrise|Arts martiaux|Points de ki|Mouvement sans armure|Aptitudes|
+|---|---|---|---|---|---|
+|1|+2|1d4|_|_|Défense sans armure, Arts martiaux|
+|2|+2|1d4|2|+3 m|Ki, Déplacement sans armure|
+|3|+2|1d4|3|+3 m|Tradition monacale, Parade de projectiles|
+|4|+2|1d4|4|+3 m|Amélioration de caractéristiques, Chute ralentie|
+|5|+3|1d6|5|+3 m|Attaque supplémentaire, Frappe étourdissante|
+|6|+3|1d6|6|+4,50 m|Frappe de ki, Aptitude de tradition monacale|
+|7|+3|1d6|7|+4,50 m|Dérobade, Tranquillité de l’esprit|
+|8|+3|1d6|8|+4,50 m|Amélioration de caractéristiques|
+|9|+4|1d6|9|+4,50 m|Déplacement sans armure amélioré|
+|10|+4|1d6|10|+6 m|Pureté du corps|
+|11|+4|1d8|11|+6 m|Aptitude de tradition monacale|
+|12|+4|1d8|12|+6 m|Amélioration de caractéristiques|
+|13|+5|1d8|13|+6 m|Langage du Soleil et de la Lune|
+|14|+5|1d8|14|+7,50 m|Âme de diamant|
+|15|+5|1d8|15|+7,50 m|Jeunesse éternelle|
+|16|+5|1d8|16|+7,50 m|Amélioration de caractéristiques|
+|17|+6|1d10|17|+7,50 m|Aptitude de tradition monacale|
+|18|+6|1d10|18|+9 m|Corps vide|
+|19|+6|1d10|19|+9 m|Amélioration de caractéristiques|
+|20|+6|1d10|20|+9 m|Perfection|
 
 
 

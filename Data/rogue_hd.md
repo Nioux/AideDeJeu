@@ -36,7 +36,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Roublard 
+# Tableau d'évolution
 
 Niveau Bonus de maîtrise Attaque sournoise Aptitudes
 1 +2 1d6 Expertise, Attaque sournoise, Argot des voleurs

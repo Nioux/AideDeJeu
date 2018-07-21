@@ -36,7 +36,7 @@ Vous commencez avec l’équipement suivant, en plus de celui accordé par votre
 
 [][Generic]
 
-## Sorcier
+# Tableau d'évolution
 
 Niv. Bonus de maîtrise Aptitudes Tours de magie connus Sorts connus Emplacements de sorts Niveau des emplacements Invocations occultes
 1 +2 Protecteur de l’outremonde, Magie de pacte 2 2 1 1 _

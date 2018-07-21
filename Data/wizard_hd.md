@@ -36,7 +36,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Magicien
+# Tableau d'évolution
 
 Niv. Bonus de maîtrise Aptitudes Tours de magie connus Emplacement de sorts par niveau de sort
 1 2 3 4 5 6 7 8 9

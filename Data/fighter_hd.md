@@ -36,7 +36,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Guerrier
+# Tableau d'évolution
 
 Niveau Bonus de maîtrise Aptitudes
 1 +2 Style de combat, Second souffle

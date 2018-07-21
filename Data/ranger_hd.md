@@ -36,31 +36,33 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Rôdeur
+# Tableau d'évolution
 
-Niv. Bonus de maîtrise Aptitudes Sorts connus Emplacement de sorts par niveau de sort
-1 2 3 4 5
-1 +2 Ennemi juré, Explorateur-né _ - - - - -
-2 +2 Style de combat, Incantations 2 2 - - - -
-3 +2 Archétype de rôdeur, Vigilance primitive 3 3 - - - -
-4 +2 Amélioration de caractéristiques 3 3 - - - -
-5 +3 Attaque supplémentaire 4 4 2 - - -
-6 +3 Amélioration d’ennemi juré et d’explorateur-né 4 4 2 - - -
-7 +3 Aptitude d’archétype de rôdeur 5 4 3 - - -
-8 +3 Amélioration de caractéristiques, Traversée des terrains 5 4 3 - - -
-9 +4 _ 6 4 3 2 - -
-10 +4 Amélioration d’explorateur-né, Camouflage naturel 6 4 3 2 - -
-11 +4 Aptitude d’archétype de rôdeur 7 4 3 3 - -
-12 +4 Amélioration de caractéristiques 7 4 3 3 - -
-13 +5 _ 8 4 3 3 1 -
-14 +5 Amélioration d’ennemi juré, Disparition 8 4 3 3 1 -
-15 +5 Aptitude d’archétype de rôdeur 9 4 3 3 2 -
-16 +5 Amélioration de caractéristiques 9 4 3 3 2
-17 +6 _ 10 4 3 3 3 1
-18 +6 Sens sauvages 10 4 3 3 3 1
-19 +6 Amélioration de caractéristiques 11 4 3 3 3 2
-20 +6 Tueur d’ennemis 11 4 3 3 3 2
+|Niv.|Bonus de maîtrise|Aptitudes|Sorts connus|1|2|3|4|5|
+|---|---|---|---|---|---|---|---|---|
+|1|+2|Ennemi juré, Explorateur-né|_|-|-|-|-|-|
 
+|2|+2|Style de combat, Incantations|2|2|-|-|-|-|
+|3|+2|Archétype de rôdeur, Vigilance primitive|3|3|-|-|-|-|
+|4|+2|Amélioration de caractéristiques|3|3|-|-|-|-|
+|5|+3|Attaque supplémentaire|4|4|2|-|-|-|
+|6|+3|Amélioration d’ennemi juré et d’explorateur-né|4|4|2|-|-|-|
+|7|+3|Aptitude d’archétype de rôdeur|5|4|3|-|-|-|
+|8|+3|Amélioration de caractéristiques, Traversée des terrains|5|4|3|-|-|-|
+|9|+4|_|6|4|3|2|-|-|
+|10|+4|Amélioration d’explorateur-né, Camouflage naturel|6|4|3|2|-|-|
+|11|+4|Aptitude d’archétype de rôdeur|7|4|3|3|-|-|
+|12|+4|Amélioration de caractéristiques|7|4|3|3|-|-|
+|13|+5|_|8|4|3|3|1|-|
+|14|+5|Amélioration d’ennemi juré, Disparition|8|4|3|3|1|-|
+|15|+5|Aptitude d’archétype de rôdeur|9|4|3|3|2|-|
+|16|+5|Amélioration de caractéristiques|9|4|3|3|2|-|
+|17|+6|_|10|4|3|3|3|1|
+|18|+6|Sens sauvages|10|4|3|3|3|1|
+|19|+6|Amélioration de caractéristiques|11|4|3|3|3|2|
+|20|+6|Tueur d’ennemis|11|4|3|3|3|2|
+
+(* Emplacement de sorts par niveau de sort)
 
 
 [][Generic]

@@ -37,7 +37,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Paladin
+# Tableau d'évolution
 
 Niveau Bonus de maîtrise Aptitudes Emplacement de sorts par niveau de sort
 1 2 3 4 5

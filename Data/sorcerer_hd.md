@@ -35,7 +35,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Ensorceleur
+# Tableau d'évolution
 
 Niv. Bonus de maîtrise Points de sorcellerie Aptitudes Tours de magie connus Sorts connus Emplacement de sorts par niveau de sort
 1 2 3 4 5 6 7 8 9
