@@ -9,6 +9,7 @@ using Markdig.Syntax.Inlines;
 using Markdig.Parsers;
 using System.IO;
 using Markdig.Renderers.Normalize;
+using Markdig.Renderers.Normalize.Inlines;
 
 namespace AideDeJeu.Tools
 {
@@ -93,6 +94,9 @@ namespace AideDeJeu.Tools
             using (var writer = new StringWriter())
             {
                 var renderer = new NormalizeRenderer(writer);
+                renderer.ObjectRenderers.Remove(renderer.ObjectRenderers.FirstOrDefault(i => i is LinkInlineRenderer));
+                renderer.ObjectRenderers.Add(new LinkInlineRendererEx());
+                renderer.ObjectRenderers.Add(new TableRenderer());
                 pipeline.Setup(renderer);
 
                 renderer.Render(block);

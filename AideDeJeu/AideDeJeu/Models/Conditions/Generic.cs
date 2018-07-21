@@ -56,8 +56,9 @@ namespace AideDeJeuLib
                     {
                         return;
                     }
-                    var paragraphBlock = block as ParagraphBlock;
-                    this.Text += paragraphBlock.ToMarkdownString() + "\n";
+                    //var paragraphBlock = block as ParagraphBlock;
+                    //this.Text += paragraphBlock.ToMarkdownString() + "\n";
+                    this.Text += block.ToMarkdownString();
                 }
                 else if (block is ListBlock)
                 {
@@ -103,8 +104,9 @@ namespace AideDeJeuLib
                 }
                 else if (block is Markdig.Extensions.Tables.Table)
                 {
-                    var tableBlock = block as Markdig.Extensions.Tables.Table;
-                    this.Text += "\n\n" + tableBlock.ToMarkdownString() + "\n\n";
+                    this.Text += block.ToMarkdownString();
+                    //var tableBlock = block as Markdig.Extensions.Tables.Table;
+                    //this.Text += "\n\n" + tableBlock.ToMarkdownString() + "\n\n";
                 }
                 else
                 {
