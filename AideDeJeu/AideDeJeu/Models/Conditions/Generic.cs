@@ -19,8 +19,8 @@ namespace AideDeJeuLib
             get
             {
                 return 
-                    $"# {Name}\n\n" +
-                    $"{AltName}\n\n" +
+                    //$"# {Name}\n\n" +
+                    //$"{AltName}\n\n" +
                     Text;
             }
         }
@@ -31,33 +31,17 @@ namespace AideDeJeuLib
             while (enumerator.Current != null)
             {
                 var block = enumerator.Current;
+                if (block.IsNewItem())
+                {
+                    return;
+                }
                 if (block is HeadingBlock)
                 {
                     var headingBlock = block as HeadingBlock;
-                    if (headingBlock.HeaderChar == '#' && (headingBlock.Level == 1 || headingBlock.Level == 2))
+                    if (this.Name == null)
                     {
-                        if (this.Name == null)
-                        {
-                            this.Name = headingBlock.Inline.ToMarkdownString();
-                        }
-                        else
-                        {
-                            this.Text += block.ToMarkdownString();
-                        }
+                        this.Name = headingBlock.Inline.ToMarkdownString();
                     }
-                    else
-                    {
-                        this.Text += block.ToMarkdownString();
-                    }
-                }
-                else if (block is ParagraphBlock)
-                {
-                    if (block.IsNewItem())
-                    {
-                        return;
-                    }
-                    //var paragraphBlock = block as ParagraphBlock;
-                    //this.Text += paragraphBlock.ToMarkdownString() + "\n";
                     this.Text += block.ToMarkdownString();
                 }
                 else if (block is ListBlock)
@@ -65,35 +49,26 @@ namespace AideDeJeuLib
                     var listBlock = block as ListBlock;
                     if (listBlock.BulletType == '-')
                     {
-                        foreach (var inblock in listBlock)
+                        var regex = new Regex("(?<key>.*?): (?<value>.*)");
+                        var str = block.ToMarkdownString();
+                        var properties = new List<Tuple<string, Action<Generic, string>>>()
                         {
-                            var regex = new Regex("(?<key>.*?): (?<value>.*)");
-                            if (inblock is ListItemBlock)
+                            new Tuple<string, Action<Generic, string>>("- AltName: ", (m, s) => 
                             {
-                                var listItemBlock = inblock as ListItemBlock;
-                                foreach (var ininblock in listItemBlock)
-                                {
-                                    if (ininblock is ParagraphBlock)
-                                    {
-                                        var paragraphBlock = ininblock as ParagraphBlock;
-                                        var str = paragraphBlock.Inline.ToMarkdownString();
+                                this.Text += "- " + s; m.AltName = s;
+                            }),
+                            new Tuple<string, Action<Generic, string>>("", (m, s) => 
+                            {
+                                this.Text += str;
+                            }),
+                        };
 
-                                        var properties = new List<Tuple<string, Action<Generic, string>>>()
-                                        {
-                                            new Tuple<string, Action<Generic, string>>("AltName: ", (m, s) => m.AltName = s),
-                                        };
-
-                                        foreach (var property in properties)
-                                        {
-                                            if (str.StartsWith(property.Item1))
-                                            {
-                                                property.Item2.Invoke(this, str.Substring(property.Item1.Length));
-                                                break;
-                                            }
-                                        }
-
-                                    }
-                                }
+                        foreach (var property in properties)
+                        {
+                            if (str.StartsWith(property.Item1))
+                            {
+                                property.Item2.Invoke(this, str.Substring(property.Item1.Length));
+                                break;
                             }
                         }
                     }
@@ -101,12 +76,6 @@ namespace AideDeJeuLib
                     {
                         this.Text += block.ToMarkdownString();
                     }
-                }
-                else if (block is Markdig.Extensions.Tables.Table)
-                {
-                    this.Text += block.ToMarkdownString();
-                    //var tableBlock = block as Markdig.Extensions.Tables.Table;
-                    //this.Text += "\n\n" + tableBlock.ToMarkdownString() + "\n\n";
                 }
                 else
                 {

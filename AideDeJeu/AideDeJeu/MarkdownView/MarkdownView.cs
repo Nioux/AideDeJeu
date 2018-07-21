@@ -218,42 +218,44 @@
                 Margin = new Thickness(listScope * this.Theme.Margin, 0, 0, 0),
             };
 
-            View bullet;
-
-            if (parent.IsOrdered)
+            if (parent.BulletType != '-')
             {
-                bullet = new Label
-                {
-                    Text = $"{index}.",
-                    FontSize = this.Theme.Paragraph.FontSize,
-                    TextColor = this.Theme.Paragraph.ForegroundColor,
-                    VerticalOptions = LayoutOptions.Start,
-                    HorizontalOptions = LayoutOptions.End,
-                };
-            }
-            else
-            {
-                bullet = new Label
-                {
-                    Text = "●",
-                    FontSize = this.Theme.Paragraph.FontSize,
-                    TextColor = this.Theme.Paragraph.ForegroundColor,
-                    VerticalOptions = LayoutOptions.Start,
-                    HorizontalOptions = LayoutOptions.End,
-                };
-                //bullet = new BoxView
-                //{
-                //    WidthRequest = 4,
-                //    HeightRequest = 4,
-                //    Margin = new Thickness(0, 6, 0, 0),
-                //    BackgroundColor = this.Theme.Paragraph.ForegroundColor,
-                //    VerticalOptions = LayoutOptions.Start,
-                //    HorizontalOptions = LayoutOptions.Center,
-                //};
-            }
+                View bullet;
 
-            horizontalStack.Children.Add(bullet);
+                if (parent.IsOrdered)
+                {
+                    bullet = new Label
+                    {
+                        Text = $"{index}.",
+                        FontSize = this.Theme.Paragraph.FontSize,
+                        TextColor = this.Theme.Paragraph.ForegroundColor,
+                        VerticalOptions = LayoutOptions.Start,
+                        HorizontalOptions = LayoutOptions.End,
+                    };
+                }
+                else
+                {
+                    bullet = new Label
+                    {
+                        Text = "●",
+                        FontSize = this.Theme.Paragraph.FontSize,
+                        TextColor = this.Theme.Paragraph.ForegroundColor,
+                        VerticalOptions = LayoutOptions.Start,
+                        HorizontalOptions = LayoutOptions.End,
+                    };
+                    //bullet = new BoxView
+                    //{
+                    //    WidthRequest = 4,
+                    //    HeightRequest = 4,
+                    //    Margin = new Thickness(0, 6, 0, 0),
+                    //    BackgroundColor = this.Theme.Paragraph.ForegroundColor,
+                    //    VerticalOptions = LayoutOptions.Start,
+                    //    HorizontalOptions = LayoutOptions.Center,
+                    //};
+                }
 
+                horizontalStack.Children.Add(bullet);
+            }
 
             horizontalStack.Children.Add(this.stack);
             initialStack.Children.Add(horizontalStack);
