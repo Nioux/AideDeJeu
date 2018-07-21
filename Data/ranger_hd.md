@@ -9,13 +9,13 @@
 
 En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
 
-Points de vie
+## Points de vie
 
 Dés de vie : 1d10 par niveau de rôdeur
 Points de vie au niveau 1 : 10 + votre modificateur de Constitution
 Points de vie aux niveaux supérieurs : 1d10 (ou 6) + votre modificateur de Constitution par niveau de rôdeur après le niveau 1
 
-Maîtrises
+## Maîtrises
 
 Armures : armures légères, armures intermédiaires, boucliers
 Armes : armes courantes, armes de guerre
@@ -23,30 +23,20 @@ Outils : aucun
 Jets de sauvegarde : Force, Dextérité
 Compétences : choisissez trois compétences parmi : Athlétisme, Discrétion, Dressage, Investigation, Nature, Perception, Perspicacité et Survie
 
-Équipement
+## Équipement
 
 Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
-»» (a) une armure d’écailles ou (b) une armure de cuir
-»» (a) deux épées courtes ou (b) deux armes courantes de corps-à-corps
-»» (a) un paquetage d’exploration souterraine ou (b) un paquetage d’explorateur
-»» un arc long et un carquois contenant vingt flèches Ennemi juré
-
-Dès le niveau 1, vous avez une expérience significative quand il s’agit d’étudier, de traquer, de chasser et même de parler à un certain type d’ennemi.
-
-Choisissez un type d’ennemi juré : aberrations, bêtes, célestes, créatures artificielles, dragons, élémentaires, fées, fiélons, géants, vases, plantes ou morts-vivants.
-
-Alternativement, vous pouvez choisir deux races d’humanoïdes (comme les gnolls et les orcs) comme ennemis jurés.
-
-Vous obtenez un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d’Intelligence permettant de se rappeler d’informations les concernant.
-
-Quand vous gagnez cette aptitude, vous apprenez également une langue de votre choix qui est parlée par l’un de vos ennemis jurés, dans la mesure où ils savent parler.
-
-Vous pouvez choisir un nouvel ennemi juré ainsi qu’une langue qui lui est associée au niveau 6, puis au niveau 14. Ces choix devraient être faits en fonction du type de monstres que vous avez rencontrés pendant vos aventures.
+* (a) une armure d’écailles ou (b) une armure de cuir
+* (a) deux épées courtes ou (b) deux armes courantes de corps-à-corps
+* (a) un paquetage d’exploration souterraine ou (b) un paquetage d’explorateur
+* un arc long et un carquois contenant vingt flèches Ennemi juré
 
 
 
-Rôdeur
+[][Generic]
+
+# Rôdeur
 
 Niv. Bonus de maîtrise Aptitudes Sorts connus Emplacement de sorts par niveau de sort
 1 2 3 4 5
@@ -72,46 +62,77 @@ Niv. Bonus de maîtrise Aptitudes Sorts connus Emplacement de sorts par niveau d
 20 +6 Tueur d’ennemis 11 4 3 3 3 2
 
 
-Explorateur-né
+
+[][Generic]
+
+## Ennemi juré
+
+Dès le niveau 1, vous avez une expérience significative quand il s’agit d’étudier, de traquer, de chasser et même de parler à un certain type d’ennemi.
+
+Choisissez un type d’ennemi juré : aberrations, bêtes, célestes, créatures artificielles, dragons, élémentaires, fées, fiélons, géants, vases, plantes ou morts-vivants.
+
+Alternativement, vous pouvez choisir deux races d’humanoïdes (comme les gnolls et les orcs) comme ennemis jurés.
+
+Vous obtenez un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d’Intelligence permettant de se rappeler d’informations les concernant.
+
+Quand vous gagnez cette aptitude, vous apprenez également une langue de votre choix qui est parlée par l’un de vos ennemis jurés, dans la mesure où ils savent parler.
+
+Vous pouvez choisir un nouvel ennemi juré ainsi qu’une langue qui lui est associée au niveau 6, puis au niveau 14. Ces choix devraient être faits en fonction du type de monstres que vous avez rencontrés pendant vos aventures.
+
+[][Generic]
+
+## Explorateur-né
 
 Vous êtes particulièrement familier d’un certain type d’environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, forêt, plaine, montagne ou marais. Quand vous faites un test d’Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
 
 Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous obtenez les bénéfices suivants :
 
-»» Les terrains difficiles ne ralentissent pas le déplacement de votre groupe.
-»» Votre groupe ne peut pas se perdre, sauf s’il est soumis à un effet magique.
-»» Même si vous avez commencé une autre activité pendant votre voyage (comme chercher de la nourriture, naviguer ou pister), vous restez vigilant.
-»» Si vous voyagez seul, vous pouvez vous déplacer discrètement tout en conservant une allure normale.
-»» Quand vous cherchez de la nourriture, vous trouvez deux fois plus de nourriture que normalement.
-»» Si vous pistez d’autres créatures, vous pouvez déterminer leur nombre exact, leur taille et quand elles ont traversé la zone que vous examinez.
+* Les terrains difficiles ne ralentissent pas le déplacement de votre groupe.
+* Votre groupe ne peut pas se perdre, sauf s’il est soumis à un effet magique.
+* Même si vous avez commencé une autre activité pendant votre voyage (comme chercher de la nourriture, naviguer ou pister), vous restez vigilant.
+* Si vous voyagez seul, vous pouvez vous déplacer discrètement tout en conservant une allure normale.
+* Quand vous cherchez de la nourriture, vous trouvez deux fois plus de nourriture que normalement.
+* Si vous pistez d’autres créatures, vous pouvez déterminer leur nombre exact, leur taille et quand elles ont traversé la zone que vous examinez.
 
 Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection supplémentaire.
 
-Style de combat
+[][Generic]
+
+## Style de combat
 
 Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l’une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
-Archerie
+[][Generic]
+
+## Archerie
 
 Vous gagnez un bonus de +2 aux jets d’attaque quand vous attaquez avec des armes à distance.
 
-Combat à deux armes
+[][Generic]
+
+## Combat à deux armes
 
 Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
 
-Défense
+[][Generic]
+
+## Défense
 
 Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
-Duel
+[][Generic]
+
+## Duel
 
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux jets de dégâts infligés avec cette arme.
 
-Incantations
+[][Generic]
+
+# Incantations
 
 Quand vous arrivez au niveau 2, vous apprenez à utiliser l’essence magique qui se trouve dans la nature pour lancer des sorts, un peu comme le ferait un druide. Reportez- vous au chapitre 11, Lancer des sorts, pages 306- 310, pour en savoir plus sur les règles d’incantation et à Listes de sorts par classe, pages 312-319 pour la liste de sorts de rôdeur.
 
-Emplacements de sorts
+## Emplacements de sorts
 
 Vous trouverez dans le tableau d’évolution du rôdeur le nombre d’emplacements de sorts dont vous disposez et qui vous permettent de lancer des sorts de niveau 1 ou supérieur.
 
@@ -119,7 +140,7 @@ Pour lancer un de ces sorts, vous devez utiliser un emplacement de sort d’un n
 
 Par exemple, si vous connaissez le sort de niveau 1 amitié avec les animaux et que vous avez un emplacement de sort de niveau 1 et un autre de niveau 2 encore disponibles, vous pouvez lancer ce sort en utilisant l’un ou l’autre de ces emplacements.
 
-Sorts connus de niveau 1 et supérieur
+## Sorts connus de niveau 1 et supérieur
 
 Vous connaissez deux sorts de niveau 1 choisis dans la liste de sorts de rôdeur.
 
@@ -127,7 +148,7 @@ La colonne sorts connus du tableau d’évolution du rôdeur vous indique à que
 
 De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de rôdeur que vous connaissez et le remplacer par un autre sort de la liste de sorts de rôdeur. Il doit aussi s’agir d’un sort que vous êtes en mesure de lancer.
 
-Caractéristique d’incantation
+## Caractéristique d’incantation
 
 La caractéristique d’incantation que vous utilisez pour les sorts de rôdeur est la Sagesse, car votre magie découle de votre lien avec la nature. Vous utilisez votre Sagesse dès qu’un sort fait appel à votre caractéristique d’incantation. De plus, vous utilisez votre modificateur de Sagesse afin de définir le DD du jet de sauvegarde d’un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
 
@@ -135,59 +156,81 @@ DD d’un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur 
 
 Modificateur d’attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse
 
-Archétype de rôdeur
+[][Generic]
+
+## Archétype de rôdeur
 
 Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d’adhérer : chasseur, archer arcanique, exilé ou traqueur. Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d’accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
 
-Vigilance primitive
+[][Generic]
+
+## Vigilance primitive
 
 À partir du niveau 3, vous pouvez utiliser une action et dépenser un emplacement de sort de rôdeur pour exacerber votre vigilance et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes équivalent au niveau de l'emplacement de sort que vous avez dépensé, vous pouvez déterminer si les créatures des types suivants se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres) : aberrations, célestes, dragons, élémentaires, fées, fiélons et mortsvivants.
 
 Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.
 
-Amélioration de caractéristiques
+[][Generic]
+
+## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-Attaque supplémentaire
+[][Generic]
+
+## Attaque supplémentaire
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 
-Traversée des terrains
+[][Generic]
+
+## Traversée des terrains
 
 À partir du niveau 8, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle a des aiguilles, ou présente un quelconque risque de ce type.
 
 En plus de cela, vous obtenez un avantage sur les jets de sauvegarde contre les plantes créées par la magie ou manipulées pour gêner les déplacements, comme par exemple celles créées par le sort enchevêtrement.
 
-Camouflage naturel
+[][Generic]
+
+## Camouflage naturel
 
 À partir du niveau 10, vous pouvez passer une minute à créer de quoi vous camoufler. Vous devez pour cela avoir accès à de la boue, de la terre, des plantes, de la suie et d'autres matériaux naturels avec lesquels créer votre camouflage.
 
 Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de Dextérité (Discrétion) tant que vous vous restez immobile et ne faites pas d’action. Dès que vous bougez ou choisissez d’effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
 
-Disparition
+[][Generic]
+
+## Disparition
 
 À partir du niveau 14, vous pouvez utiliser l'action se cacher comme action bonus lors de votre tour. Vous arrivez aussi à échapper aux tentatives de pistage par tout moyen non magique, sauf si vous choisissez de laisser des traces de votre passage.
 
-Sens sauvages
+[][Generic]
+
+## Sens sauvages
 
 Au niveau 18, vous gagnez des sens surnaturels qui vous aident à combattre les créatures que vous ne pouvez pas voir. Quand vous attaquez une créature que vous ne pouvez pas voir, le fait de ne pas la voir ne vous impose pas de désavantage sur vos jets d’attaque contre cette créature.
 
 Vous arrivez aussi à percevoir l’endroit où se trouve toute créature invisible dans un rayon de 9 mètres autour de vous, dans la mesure où elle n’est pas cachée et que vous n’êtes ni aveuglé ni assourdi.
 
-Tueur d’ennemis
+[][Generic]
+
+## Tueur d’ennemis
 
 Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d’attaque ou de dégâts d’une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d’utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
 
-Archétypes de rôdeur
+[][Generic]
+
+# Archétypes de rôdeur
 
 Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l’archer arcanique, le chasseur, l’exilé et le traqueur.
 
-Chasseur
+[][Generic]
+
+# Chasseur
 
 Adopter l’archétype du chasseur signifie accepter votre place comme rempart entre la civilisation et les terreurs qui hantent la nature. En suivant la voie du chasseur, vous apprenez des techniques spécifiques vous permettant d’affronter diverses menaces, que ce soient des ogres déchaînés, des hordes d’orcs, d’immenses géants ou de terrifiants dragons.
 
-La proie du chasseur
+## La proie du chasseur
 
 Au niveau 3, vous pouvez choisir l’une des trois aptitudes suivantes.
 
@@ -197,7 +240,7 @@ Tueur de géants. Quand une créature de taille grande ou supérieure qui se tro
 
 Briseur de hordes. Une fois par tour, quand vous faites une attaque avec une arme, vous pouvez attaquer une seconde fois avec la même arme en ciblant une autre créature, dans la mesure où celle-ci se trouve dans un rayon de 1,50 mètre autour de la première créature et à portée de votre arme.
 
-Tactiques défensives
+## Tactiques défensives
 
 Au niveau 7, vous pouvez choisir l’une des trois aptitudes suivantes.
 
@@ -207,7 +250,7 @@ Défense contre les attaques multiples. Quand une créature vous touche avec une
 
 Moral d’acier. Vous obtenez un avantage sur les jets de sauvegarde contre tout effet provoquant l’état terrorisé.
 
-Attaques multiples
+## Attaques multiples
 
 Au niveau 11, vous pouvez choisir l’une des deux aptitudes suivantes.
 
@@ -215,7 +258,7 @@ Salve. Vous pouvez utiliser votre action pour faire une attaque à distance cont
 
 Attaque tourbillonnante. Vous pouvez utiliser votre action pour faire une attaque de corps-à-corps contre autant de créatures que vous le souhaitez dans la mesure où elles se trouvent dans un rayon de 1,50 mètre autour de vous, en faisant un jet d’attaque séparé pour chaque créature.
 
-Défense de chasseur supérieure
+## Défense de chasseur supérieure
 
 Au niveau 15, vous pouvez choisir l’une des trois aptitudes suivantes.
 
@@ -225,63 +268,69 @@ Retour de bâton. Quand une créature hostile vous cible et rate son attaque de 
 
 Esquive instinctive. Quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque .
 
-Archer arcanique
+[][Generic]
+
+# Archer arcanique
 
 L’archer arcanique est un rôdeur capable de canaliser sa magie pour enchanter ses flèches de façon à les rendre plus létales ou à leur permettre d’atteindre des cibles hors de portée pour tout autre que lui.
 
-Flèche arcanique
+## Flèche arcanique
 
 Dès le niveau 3, vous devenez capable d’enchanter votre flèche afin d’améliorer grandement sa précision et ses dégâts. En utilisant une action bonus et en dépensant un emplacement de sort, vous obtenez un avantage sur une attaque à distance réalisée dans le même round, et vous ajoutez 1d6 aux dégâts par niveau du sort utilisé.
 
 La flèche est considérée comme magique en ce qui concerne la résistance aux dégâts des créatures.
 
-Flèche infaillible
+## Flèche infaillible
 
 À partir du niveau 7, vous pouvez murmurer à votre flèche pour lui indiquer sa cible. Vous la décochez en l’air et elle se dirige sur son objectif sans que vous ayez besoin de le voir. Vous utilisez une action bonus pour indiquer votre cible, puis vous devez tirer dans le même round. Vous ne pouvez tirer une flèche de cette façon que sur une créature que vous avez vue depuis moins d’une minute et qui est à portée. La flèche fonce sur sa cible et contourne tous les obstacles pour l’atteindre (par exemple, en tournant à l’angle des couloirs ou en passant par une ouverture étroite, etc.). Seuls les obstacles infranchissables peuvent stopper la flèche. Votre attaque est un succès automatique et inflige ses dégâts habituels.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, puis vous devez terminer un repos long pour récupérer cette aptitude.
 
-Flèche intangible
+## Flèche intangible
 
 À partir du niveau 11, cette aptitude remplace et annule flèche infaillible. Cette fois, la flèche devient intangible pour passer à travers les obstacles (murs, créatures) et vous pouvez cibler une créature que vous avez vue depuis moins de 12 heures. Les barrières magiques comme un mur de force bloquent la flèche. Votre attaque est un succès automatique et inflige ses dégâts habituels.
 
-Flèche tueuse
+## Flèche tueuse
 
 Lorsque vous atteignez le niveau 15, vous pouvez enchanter une flèche tueuse pour une cible spécifique que vous avez personnellement observée pendant au moins 1 round ou dont vous possédez une relique (une écaille de ce dragon, une griffe de ce prédateur, etc). Le rituel d’enchantement dure 1 heure et il reste effectif jusqu’à ce que la flèche atteigne sa cible ou jusqu’à ce que vous en enchantiez une autre. Si vous atteignez la cible pour laquelle vous avez enchanté cette flèche, elle subit 12d6 dégâts perforants et elle est entravée pour jusqu’à la fin de votre prochain tour. Si elle réussit un jet de sauvegarde de Constitution de même difficulté que pour vos sorts, elle subit seulement la moitié des dégâts et elle n’est pas entravée. Vous devez terminer un repos long avant de pouvoir enchanter une nouvelle flèche tueuse. Vous pouvez utiliser vos aptitudes de flèche infaillible ou de flèche intangible lorsque vous tirez votre flèche tueuse, mais pas celle de flèche arcanique.
 
 La flèche tueuse possède les propriétés d’une flèche ordinaire non magique si elle est utilisée par une autre créature que le rôdeur qui l’a fabriqué.
 
-Exilé
+[][Generic]
+
+# Exilé
 
 L’exilé est l’héritier d’une longue tradition ou d’une lignée de sang noble dont la nation est tombée aux mains d’un ennemi séculaire. Il est le dépositaire de savoirs anciens sur les plantes qui s’éteindront probablement avec sa lignée, et il parcourt le monde pour éloigner les spectres du passé ou se préparer à l’ultime affrontement contre ses ennemis de toujours.
 
-Plantes médicinales
+## Plantes médicinales
 
 À partir du niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous pouvez appliquer des herbes médicinales sur un nombre de créatures égal à votre bonus de maîtrise, vous inclus, durant un repos court. A la fin du repos, chaque patient récupère un nombre de d6 Points de Vie égal à votre bonus de maîtrise. Vous pouvez utiliser cette aptitude une fois entre deux repos longs. A partir du niveau 11, vous pouvez l'utiliser deux fois entre deux repos longs
 
 Vous obtenez un avantage à tous vos tests de Sagesse (Médecine), d’Intelligence (Nature), de Sagesse (Perception) ou de Sagesse (Survie) qui concernent les plantes.
 
-Némésis
+## Némésis
 
 Lorsque vous atteignez le niveau 7, une longue lutte ou une longue rancoeur vous rendent d’une efficacité redoutable contre vos ennemis ancestraux. Vous ajoutez 1d6 aux dégâts de chaque attaque au corps-à-corps ou à distance que vous infligez à vos ennemis jurés.
 
-Plantes miraculeuses
+## Plantes miraculeuses
 
 À partir du niveau 11, si vous êtes sur un terrain de prédilection, vous pouvez utiliser des plantes pour neutraliser un poison sur vous-même ou un allié à votre contact en utilisant une action. Vous pouvez utiliser cette aptitude autant de fois que votre bonus de maîtrise avant de devoir prendre un repos long. De plus, vous obtenez la maîtrise des jets de sauvegarde de Constitution.
 
-Éradication
+## Éradication
 
 À partir du niveau 15, vous êtes d’une efficacité sans égale face à vos ennemis jurés. Vous ajoutez 2d6 aux dégâts de chaque attaque au corps-à-corps ou à distance que vous infligez à vos ennemis jurés. Cette aptitude remplace némésis.
 
-Traqueur
+[][Generic]
+
+# Traqueur
 
 Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu’il s’agit de trouver et d’éliminer des adversaires sur son terrain de prédilection.
 
-Terrain de prédilection
+## Terrain de prédilection
 
 Dès le niveau 3, vous faites l’acquisition d’un second terrain de prédilection. De plus vous ajoutez les profondeurs (milieu naturel souterrain) à la liste des terrains de prédilection qui vous sont accessibles.
 
-Pièges
+## Pièges
 
 Également au niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous êtes capable de piéger une zone de 3 mètres de côté en seulement 5 minutes.
 
@@ -295,47 +344,49 @@ Le DD est de 8 + votre modificateur de Dextérité + votre bonus de maîtrise. V
 
 Un piège qui a affecté une créature n’est plus actif. Il peut être réamorcé en seulement 1d6 rounds.
 
-Avantage du terrain
+## Avantage du terrain
 
 Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
 
-»» Votre groupe ne peut plus être surpris (sauf si vous en décidez autrement).
-»» Vous obtenez un avantage en initiative.
-»» Vous obtenez un avantage à tous vos tests de Force (Athlétisme) et de Dextérité (Discrétion).
+* Votre groupe ne peut plus être surpris (sauf si vous en décidez autrement).
+* Vous obtenez un avantage en initiative.
+* Vous obtenez un avantage à tous vos tests de Force (Athlétisme) et de Dextérité (Discrétion).
 
-Terrain favorable
+## Terrain favorable
 
 À partir du niveau 11, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
 
-»» Vous pouvez utiliser votre réaction pour obtenir au choix un avantage sur un test d’attaque ou imposer un désavantage à une attaque dont vous êtes la cible.
-»» Il vous faut seulement 10 minutes pour bénéficier des effets d’un repos court et 4 heures pour bénéficier des effets d’un repos long.
+* Vous pouvez utiliser votre réaction pour obtenir au choix un avantage sur un test d’attaque ou imposer un désavantage à une attaque dont vous êtes la cible.
+* Il vous faut seulement 10 minutes pour bénéficier des effets d’un repos court et 4 heures pour bénéficier des effets d’un repos long.
 
-Maître du terrain
+## Maître du terrain
 
 Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus, désormais, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices suivants :
 
-»» En combat, vous pouvez effectuer une action bonus à chacun de vos tours. Cette action ne peut être utilisée que pour faire une unique attaque au corps-à-corps ou à distance, vous désengager ou se précipiter. Si vous utilisez une arme dans chaque main, exceptionnellement, cette action bonus vous permet de faire une attaque depuis chacune de vos mains (en utilisant les limitations habituelles en ce qui concerne la seconde arme).
-»» Lorsque vous prenez un repos court, vous récupérez un nombre de points de vie égal à 1d8 + votre modificateur de Constitution s’il ne vous reste pas plus de la moitié de vos points de vie.
+* En combat, vous pouvez effectuer une action bonus à chacun de vos tours. Cette action ne peut être utilisée que pour faire une unique attaque au corps-à-corps ou à distance, vous désengager ou se précipiter. Si vous utilisez une arme dans chaque main, exceptionnellement, cette action bonus vous permet de faire une attaque depuis chacune de vos mains (en utilisant les limitations habituelles en ce qui concerne la seconde arme).
+* Lorsque vous prenez un repos court, vous récupérez un nombre de points de vie égal à 1d8 + votre modificateur de Constitution s’il ne vous reste pas plus de la moitié de vos points de vie.
 
-Pisteur : un rôdeur alternatif
+[][Generic]
+
+# Pisteur : un rôdeur alternatif
 
 Pour obtenir un rôdeur moins basé sur la magie, vous pouvez opter pour l’aptitude rustique dès que le personnage atteint le niveau 3. Cette aptitude réduit votre accès à la magie et, en échange, vous pouvez choisir deux archétypes de rôdeur de votre choix (à l’exception d’archer arcanique) au lieu d’un seul et en cumuler les aptitudes. Cela revient à limiter votre accès à la magie en échange d’autres aptitudes.
 
-Rustique
+## Rustique
 
 À partir du niveau 3, vous négligez l’apprentissage de la magie au profit de compétences plus pratiques. Vous remplacez votre niveau de personnage par votre bonus de maîtrise pour déterminer le nombre de sorts que vous apprenez et que vous pouvez lancer dans la table de progression du rôdeur. Autrement dit, vous lancez des sorts comme un rôdeur d’un niveau égal à votre bonus de maîtrise (si vous êtes multiclassé, déterminez votre bonus de maîtrise pour cette capacité en comptant uniquement vos niveaux de rôdeur, et non votre niveau global).
 
 Par exemple, au niveau 15 (bonus de maîtrise de +5), vous utilisez la magie comme le ferait normalement un rôdeur de niveau 5, ce qui vous permet d’apprendre quatre sorts et de lancer quatre sorts de niveau 1 et un sort de niveau 2.
 
-Expert en survie
+## Expert en survie
 
 Également au niveau 3, en remplacement de l’aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix issues de la liste de rôdeur. De plus, vous choisissez deux compétences issues de cette liste parmi celles que vous maîtrisez déjà, et vous doublez leur bonus de maîtrise.
 
-Style de combat supplémentaire
+## Style de combat supplémentaire
 
 Au niveau 13, vous pouvez choisir un deuxième style de combat.
 
-Attaque supplémentaire
+## Attaque supplémentaire
 
 À partir du niveau 20, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 

@@ -9,13 +9,13 @@
 
 En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
-Points de vie
+## Points de vie
 
 Dés de vie : 1d8 par niveau de roublard
 Points de vie au niveau 1 : 8 + votre modificateur de Constitution
 Points de vie aux niveaux supérieurs : 1d8 (ou 5) + votre modificateur de Constitution par niveau de roublard après le niveau 1
 
-Maîtrises
+## Maîtrises
 
 Armures : armures légères
 Armes : armes courantes, arbalètes de poing, épées longues, rapières, épées courtes
@@ -23,18 +23,20 @@ Outils : outils de voleur
 Jets de sauvegarde : Dextérité, Intelligence
 Compétences : choisissez quatre compétences parmi Acrobaties, Athlétisme, Discrétion, Escamotage, Intimidation, Investigation, Perception, Perspicacité, Persuasion, Représentation et Supercherie
 
-Équipement
+## Équipement
 
 Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
-»» (a) une rapière ou (b) une épée courte
-»» (a) un arc court et un carquois avec vingt flèches ou (b) une épée courte
-»» (a) un paquetage de cambrioleur, (b) un paquetage d’exploration souterraine, ou (c) un paquetage d’explorateur
-»» (a) une armure de cuir, deux dagues et des outils de voleur
+* (a) une rapière ou (b) une épée courte
+* (a) un arc court et un carquois avec vingt flèches ou (b) une épée courte
+* (a) un paquetage de cambrioleur, (b) un paquetage d’exploration souterraine, ou (c) un paquetage d’explorateur
+* (a) une armure de cuir, deux dagues et des outils de voleur
 
 
 
-Roublard 
+[][Generic]
+
+# Roublard 
 
 Niveau Bonus de maîtrise Attaque sournoise Aptitudes
 1 +2 1d6 Expertise, Attaque sournoise, Argot des voleurs
@@ -59,13 +61,17 @@ Niveau Bonus de maîtrise Attaque sournoise Aptitudes
 20 +6 10d6 Coup de chance
 
 
-Expertise
+[][Generic]
+
+## Expertise
 
 Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.
 
-Attaque sournoise
+[][Generic]
+
+## Attaque sournoise
 
 Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d’inattention d’un adversaire.
 
@@ -75,7 +81,9 @@ Vous n’avez pas besoin d’avoir un avantage sur le jet d’attaque si un autr
 
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous pouvez le voir dans la colonne attaque sournoise du tableau d’évolution du roublard.
 
-Argot des voleurs
+[][Generic]
+
+## Argot des voleurs
 
 Pendant votre entraînement de roublard, vous avez appris l’argot des voleurs, un mélange secret de dialecte, de jargon et de codes qui vous permet de dissimuler des messages dans des conversations en apparence anodines.
 
@@ -83,47 +91,67 @@ Seule une autre créature qui connaît l’argot des voleurs peut comprendre de 
 
 De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d’une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
 
-Ruse
+[][Generic]
+
+## Ruse
 
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
-Archétype de roublard
+[][Generic]
+
+## Archétype de roublard
 
 Au niveau 3, vous choisissez un archétype auquel vous vous efforcer d’adhérer : voleur, brute, espion ou ombrelame.
 
 Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d’accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
-Amélioration de caractéristiques
+[][Generic]
+
+## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-Esquive instinctive
+[][Generic]
+
+## Esquive instinctive
 
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
-Dérobade
+[][Generic]
+
+## Dérobade
 
 À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de tempête de grêle. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
-Talent
+[][Generic]
+
+## Talent
 
 Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d’ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
-Ouïe fine
+[][Generic]
+
+## Ouïe fine
 
 À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.
 
-Esprit impénétrable
+[][Generic]
+
+## Esprit impénétrable
 
 Au niveau 15, votre force mentale s’est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
 
-Insaisissable
+[][Generic]
+
+## Insaisissable
 
 Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent.
 
 Tant que vous n’êtes pas neutralisé, aucun jet d’attaque qui vous cible ne peut bénéficier d’un avantage.
 
-Coup de chance
+[][Generic]
+
+## Coup de chance
 
 Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun.
 
@@ -131,21 +159,25 @@ Si vous attaquez une cible qui se trouve à votre portée et que vous échouez �
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l’utiliser de nouveau.
 
-Archétypes de roublard
+[][Generic]
+
+# Archétypes de roublard
 
 Tous les roublards partagent un certain nombre d’aptitudes et de comportements, notamment une tendance à perfectionner leurs compétences, des techniques de combat aussi précises que mortelles et une volonté d’affiner toujours plus leurs réflexes. Mais chaque roublard choisit de développer ses talents en se spécialisant de manière différente. Ces spécialisations sont représentées par les archétypes de roublard. Votre choix d’archétype vient traduire les qualités sur lesquelles vous voulez mettre l’accent.
 
 Il ne s’agit pas nécessairement de votre profession, mais d’une description des techniques que vous préférez.
 
-Voleur
+[][Generic]
+
+# Voleur
 
 Vous affinez vos compétences dans l’art du larcin. Les cambrioleurs, bandits, voleurs à la tire et autres criminels choisissent généralement cet archétype. Mais il est également choisi par les roublards qui se voient comme des chercheurs de trésors professionnels, des explorateurs ou des enquêteurs. Vous améliorez non seulement votre agilité et votre discrétion, mais vous apprenez aussi des compétences qui vous seront utiles pour explorer des ruines anciennes, décrypter des langues inconnues et utiliser des objets magiques que vous ne pourriez normalement pas manier.
 
-Mains lestes
+## Mains lestes
 
 À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de Dextérité (Escamotage), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action utiliser un objet.
 
-Monte-en-l’air
+## Monte-en-l’air
 
 Quand vous choisissez cet archétype au niveau 3, vous obtenez la capacité d’escalader plus vite que la normale.
 
@@ -153,95 +185,101 @@ Escalader ne vous coûte plus de déplacement supplémentaire.
 
 De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouvez sauter est augmentée de 30 cm × votre modificateur de Dextérité.
 
-Furtivité suprême
+## Furtivité suprême
 
 À partir du niveau 9, vous obtenez un avantage sur vos tests de Dextérité (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
 
-Utilisation d’objets magiques
+## Utilisation d’objets magiques
 
 Au niveau 13, vous avez appris assez de choses sur le fonctionnement de la magie pour improviser et utiliser des objets magiques, même s’ils ne vous sont pas destinés.
 
 Vous ignorez toutes les conditions d’utilisation de classe, de race et de niveau concernant l’utilisation des objets magiques.
 
-Réflexes de voleur
+## Réflexes de voleur
 
 Quand vous atteignez le niveau 17, vous êtes devenu particulièrement doué dans l’art de tendre une embuscade et de vous enfuir rapidement en cas de danger.
 
 Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d’initiative normal et, pour savoir quand vous jouez votre deuxième tour, vous utilisez votre résultat d’initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes surpris.
 
-Brute
+[][Generic]
+
+# Brute
 
 Tous les roublards ou crapules ne sont pas forcément des monte-en-l’air ou des acrobates. Dans le métier, on ne manque pas d’emplois pour les costauds et les coriaces, ceux qui sont plutôt taillés pour la bagarre, l’intimidation ou la protection… bien que ce terme ait un sens dans le milieu très différent de celui que les honnêtes gens lui prêtent. Sans doute ces individus auraient- ils pu faire une belle carrière de guerrier, mais la vie ou leur goût pour l’illégalité en a décidé autrement.
 
 Leur palette de talents est bien plus étendue que celle d’un simple ferrailleur ; pour eux, l’usage de la force n’est qu’un moyen parmi tant d’autres, puisque tous les coups sont permis.
 
-Regard noir
+## Regard noir
 
 Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de Charisme et de Force pour les tests de Charisme (Intimidation) et Charisme (Persuasion).
 
 De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Charisme (Intimidation) contre le test de Sagesse (Perspicacité) d’une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d’un désavantage à son prochain jet d’attaque ou d’opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l’état terrorisé ou aux dégâts psychiques sont immunisées à cette aptitude.
 
-Dur à cuire
+## Dur à cuire
 
 Également au niveau 3, vous ajoutez votre modificateur de Force en plus de celui de Constitution aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de Force augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
 
-Coup bas
+## Coup bas
 
 À partir du niveau 9, lorsque vous utilisez l’action attaquer, vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l’aide d’une arme improvisée (coup de tête, coup de genou ou du pommeau de l’arme, chope de bière, etc.) qui inflige 1d4 + votre modificateur de Force points de dégâts contondants (ou du type approprié dans le cas d’une arme improvisée). Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17.
 
 Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée normale, vous utilisez le même dé que pour cette aptitude pour déterminer vos dégâts.
 
-Attaque en meute
+## Attaque en meute
 
 Lorsque vous atteignez le niveau 13, vous obtenez un avantage au jet d’attaque lorsque vous attaquez une cible qui se trouve à moins de 1,50 mètre d’un allié non neutralisé.
 
 Désormais, si vous bénéficiez d’un avantage lorsque vous utilisez l’aptitude coup bas et que votre attaque à mains nue ou improvisée inflige des dégâts, votre cible doit réussir un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Force + votre bonus de maîtrise) ou être entravée par la douleur jusqu’au début de votre prochain tour. Les morts-vivants, les élémentaires, les vases, les plantes et les créatures artificielles sont immunisées à cet effet.
 
-Persécuter
+## Persécuter
 
 Vous n’êtes sans doute pas comparable à un guerrier pour taper à tour de bras, mais lorsqu’il s’agit de malmener une cible précise, nul n’est votre égal. Au niveau 17, vous désignez une créature de votre choix en utilisant une action bonus, elle devient la cible de votre vindicte personnelle. Vous obtenez un avantage aux tests en opposition, ainsi qu’aux jets de sauvegarde et d’attaque contre la cible sur laquelle vous vous focalisez. Vous ne pouvez pas bénéficier des effets de cette aptitude pour une autre cible avant d’avoir terminé un repos court.
 
-Espion
+[][Generic]
+
+# Espion
 
 Si d’autres font commerce de la mort ou de trésors, votre lot est une denrée à la fois plus simple à appréhender et plus complexe à manipuler : l’information. Un espion est à la fois un maître dans l’art d’observer et d’écouter, mais c’est aussi un séducteur et un acrobate capable de prendre de grands risques pour approcher sa cible au plus près, que ce soit en se mêlant à la foule ou en s’introduisant dans un château bien gardé. Franc tireur ou au contraire agent très spécial au service de sa majesté, vous mettez vos talents au service d’une cause, d’une confrérie ou d’une entité politique. Car aucune organisation, aucun seigneur, ne peut prospérer sans un solide réseau d’information et d’espionnage.
 
-Spécialiste
+## Spécialiste
 
 Au niveau 3, vous obtenez la maîtrise des accessoires de déguisement et des accessoires de faussaire. De plus, au niveau 6, vous ajoutez ces deux ensembles d’outils à la liste des compétences auxquelles vous pouvez choisir d’appliquer votre aptitude d’expertise.
 
-Don pour les langues
+## Don pour les langues
 
 Également au niveau 3 et par la suite, vous apprenez une langue supplémentaire issue de la liste des langues standards ou exotiques (voir le chapitre 3, Personnalité et historique page 76) par point de bonus de maîtrise.
 
 Vous apprenez de nouvelles langues lorsque votre bonus de maîtrise augmente.
 
-Lire sur les lèvres
+## Lire sur les lèvres
 
 À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu’un que vous n’entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de Sagesse (Perception) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un désavantage si votre cible est dans une zone de lumière faible.
 
-Séducteur hors pair
+## Séducteur hors pair
 
 Également au niveau 9, nul n’est insensible au charme envoûtant que vous dégagez. Lorsque vous faites preuve de charme ou d'entregents, vous obtenez un avantage à tous les tests de Charisme effectués contre des humanoïdes attirés par les individus de votre sexe.
 
-Esprit obscur
+## Esprit obscur
 
 Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie de divination, ni être aperçu ou détecté à travers des sens magiques. Cette aptitude est équivalente à un sort de non-détection permanent.
 
-Agent très spécial
+## Agent très spécial
 
 À partir du niveau 17, vous obtenez un avantage aux tests d’Intelligence (Investigation), de Sagesse (Perception) et de Charisme (Supercherie).
 
-Incassable
+## Incassable
 
 Également au niveau 17, rien ne semble pouvoir venir à bout de votre résistance, les bagarres les plus dures comme les chutes les plus vertigineuses. Vous obtenez la résistance aux dégâts contondants.
 
-Ombrelame
+[][Generic]
+
+# Ombrelame
 
 Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l’adversaire semble une seconde nature chez certain.
 
 Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l’obscurité, quelque chose d’inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
 
-Initié
+## Initié
 
 Vous obtenez un nombre de points de sorcellerie égal à votre niveau, soit 3 points de sorcellerie au niveau 3.
 
@@ -259,7 +297,7 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 À chaque fois que vous gagnez un niveau pair de roublard (4, 6, etc.), vous apprenez un nouveau sort de cette liste (mais pas un tour de magie).
 
-Incantations
+## Incantations
 
 Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de Charisme
 
@@ -267,7 +305,7 @@ Modificateur d’attaque des sorts = bonus de maîtrise + modificateur de Charis
 
 Vous pouvez utiliser votre propre ombre comme focaliseur d’incantation pour vos sorts d’ombrelame.
 
-Enfant de l’ombre
+## Enfant de l’ombre
 
 Également au niveau 3, en utilisant une action bonus, vous pouvez désigner une source de lumière non magique à une portée de 18 mètres et réduire de moitié le rayon de lumière vive qu’elle émet pendant 1 minute. La zone de lumière faible n’est pas affectée.
 
@@ -275,23 +313,23 @@ Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mai
 
 De plus, vous obtenez un avantage aux tests de Dextérité (Discrétion) que vous effectuez dans une zone de lumière faible.
 
-Énergie de l’ombre
+## Énergie de l’ombre
 
 Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points de sorcellerie égal à votre bonus de maîtrise après avoir terminé un repos court.
 
 Vous devez passer l’intégralité de votre repos court dans un lieu éclairé au maximum par une lumière faible. Vous ne pouvez bénéficier de cette aptitude qu’une seule fois entre deux repos long.
 
-Frappe maudite
+## Frappe maudite
 
 Également au niveau 9, lorsque vous réussissez une attaque sournoise, vous pouvez dépenser 1 point de sorcellerie pour transformer les dégâts infligés par votre attaque sournoise en dégâts nécrotiques (mais pas les dégâts de l’arme). Les dégâts infligés par l’arme sont considérés comme des dégâts magiques.
 
-Ombre et magie
+## Ombre et magie
 
 À partir du niveau 13, vous pouvez lancer le sort pas brumeux en dépensant 1 point de sorcellerie.
 
 Vous n’avez pas besoin de connaître ce sort et, si vous l’aviez appris, vous pouvez apprendre un autre sort à sa place. Vous apprenez en outre un troisième tour de magie.
 
-Maître de l’ombre
+## Maître de l’ombre
 
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : apparence trompeuse, passage dimensionnel ou tromperie. Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 

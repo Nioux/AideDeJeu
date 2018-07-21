@@ -5,39 +5,37 @@
 
 [][Generic]
 
-# Aptitudes de classe
+## Aptitudes de classe
 
 En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 
-Points de vie
+## Points de vie
 
 Dés de vie : 1d6 par niveau de magicien
 Points de vie au niveau 1 : 6 + votre modificateur de Constitution
 Points de vie aux niveaux supérieurs : 1d6 (ou 4) + votre modificateur de Constitution par niveau de magicien après le niveau 1
 
-Maîtrises
+## Maîtrises
 
 Armures : aucune
 Armes : dagues, fléchettes, frondes, bâtons, arbalètes légères
 Outils : aucun
 Jets de sauvegarde : Intelligence, Sagesse Compétences : choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion
 
-Équipement
+## Équipement
 
 Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
 
-»» (a) un bâton ou (b) une dague
-»» (a) une sacoche à composantes ou (b) un focaliseur arcanique
-»» (a) un paquetage d’érudit ou (b) un paquetage d’explorateur
-»» un grimoire
-
-Incantations
-
-En tant qu’étudiant de la magie des arcanes, vous possédez un grimoire contenant des sorts qui ne sont qu’un premier pas vers la véritable puissance.
+* (a) un bâton ou (b) une dague
+* (a) une sacoche à composantes ou (b) un focaliseur arcanique
+* (a) un paquetage d’érudit ou (b) un paquetage d’explorateur
+* un grimoire
 
 
 
-Magicien
+[][Generic]
+
+# Magicien
 
 Niv. Bonus de maîtrise Aptitudes Tours de magie connus Emplacement de sorts par niveau de sort
 1 2 3 4 5 6 7 8 9
@@ -62,15 +60,22 @@ Niv. Bonus de maîtrise Aptitudes Tours de magie connus Emplacement de sorts par
 19 +6 Amélioration de caractéristiques 5 4 3 3 3 3 2 1 1 1
 20 +6 Sorts de prédilection 5 4 3 3 3 3 2 2 1 1
 
-Tours de magie
+
+[][Generic]
+
+## Incantations
+
+En tant qu’étudiant de la magie des arcanes, vous possédez un grimoire contenant des sorts qui ne sont qu’un premier pas vers la véritable puissance.
+
+## Tours de magie
 
 Au niveau 1, vous connaissez trois tours de magie de votre choix que vous choisissez dans la liste des sorts de magicien. Vous pouvez apprendre d’autres tours de magie de magicien à certains niveaux, comme vous pouvez le voir dans le tableau d’évolution du magicien, dans la colonne tours de magie connus.
 
-Grimoire
+## Grimoire
 
 Au niveau 1, votre grimoire contient six sorts de magicien de niveau 1 de votre choix. C’est dans votre grimoire que se trouvent tous les sorts que vous connaissez, à la différence des tours de magie, que vous avez mémorisés.
 
-Préparer et lancer des sorts
+## Préparer et lancer des sorts
 
 Le tableau d’évolution du magicien vous indique combien d’emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de magicien, vous devez utiliser un emplacement d’un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
 
@@ -80,7 +85,7 @@ Par exemple, si vous êtes un magicien de niveau 3, vous avez quatre emplacement
 
 Vous pouvez changer votre liste de sorts préparés à la fin d’un repos long, mais préparer une nouvelle liste de sorts de magicien vous demande de passer du temps à étudier votre grimoire et mémoriser les incantations et les gestes que vous devez faire afin de lancer vos sorts : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
-Caractéristique d’incantation
+## Caractéristique d’incantation
 
 La caractéristique d’incantation qui vous permet de lancer les sorts de magicien est l’Intelligence, car c’est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre Intelligence dès qu’un sort de magicien vous demande d’utiliser votre caractéristique d’incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d’Intelligence quand vous calculez le jet de sauvegarde d’un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
 
@@ -88,39 +93,47 @@ DD d’un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur 
 
 Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d’Intelligence
 
-Incantation rituelle
+## Incantation rituelle
 
 Vous pouvez lancer un sort de magicien que vous connaissez sous la forme d’un rituel dans la mesure où il possède le sous-type rituel et que ce sort se trouve dans votre grimoire.
 
 Il n’est pas nécessaire d’avoir préparé ce sort.
 
-Focaliseur d’incantation
+## Focaliseur d’incantation
 
 Vous pouvez utiliser un focaliseur arcanique comme focaliseur d’incantation pour vos sorts de magicien.
 
-Apprendre des sorts de niveau 1 et supérieur
+## Apprendre des sorts de niveau 1 et supérieur
 
 Chaque fois que vous gagnez un niveau dans la classe de magicien, vous pouvez ajouter gratuitement deux sorts de magicien de votre choix dans votre grimoire.
 
 Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer grâce à vos emplacements de sorts, ainsi que vous pouvez le voir dans le tableau d’évolution du magicien. Lors de vos aventures, vous pouvez trouver de nouveaux sorts à copier dans votre grimoire (voir encadré page suivante).
 
-Restauration magique
+[][Generic]
+
+## Restauration magique
 
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant votre grimoire. Une fois par jour, à la fin d’un repos court, vous pouvez choisir de récupérer des emplacements de sorts utilisés. Le niveau total de ces emplacements de sorts doit être inférieur ou égal à la moitié de votre niveau de magicien (arrondi à l’entier supérieur) et vous ne pouvez pas récupérer d’emplacement de niveau 6 ou supérieur.
 
 Par exemple, si vous êtes un magicien de niveau 4, vous pouvez récupérer l’équivalent de deux niveaux d’emplacements de sorts, soit un emplacement de sort de niveau 2 ou deux emplacements de sorts de niveau 1.
 
-Tradition arcanique
+[][Generic]
+
+## Tradition arcanique
 
 Quand vous atteignez le niveau 2, vous choisissez une tradition arcanique qui définit votre manière de pratiquer la magie. Les traditions disponibles sont celles de l’académicien, de l’arpenteur, de l’élémentaliste et de l’éminence grise.
 
 Votre tradition vous permet d’accéder à certaines aptitudes particulières quand vous la choisissez au niveau 2, puis aux niveaux 6, 10 et 14.
 
-Amélioration de caractéristiques
+[][Generic]
+
+## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-Maîtrise des sorts
+[][Generic]
+
+## Maîtrise des sorts
 
 Au niveau 18, vous avez acquis une telle maîtrise de certains sorts que vous pouvez les lancer à volonté.
 
@@ -128,13 +141,17 @@ Choisissez un sort de magicien de niveau 1 et un sort de magicien de niveau 2 da
 
 Vous pouvez échanger l’un de ces sorts ou les deux pour des sorts de même niveau en passant 8 heures à étudier.
 
-Sorts de prédilection
+[][Generic]
+
+## Sorts de prédilection
 
 Quand vous atteignez le niveau 20, vous maîtrisez deux puissants sorts que vous pouvez lancer très facilement. Choisissez deux sorts de niveau 3 dans votre grimoire, qui deviendront vos sorts de prédilection. Ces sorts sont toujours considérés comme préparés mais ne sont pas comptabilisés dans votre nombre de sorts préparés. Vous pouvez lancer chacun d’eux une fois au niveau 3 sans utiliser d’emplacement de sort. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n’avez pas terminé un repos court ou un repos long.
 
 Si vous voulez lancer un de ces sorts à un niveau supérieur, vous êtes soumis à la règle normale et devez utiliser un emplacement de sort.
 
-Traditions arcaniques
+[][Generic]
+
+## Traditions arcaniques
 
 L’étude des arcanes est une pratique très ancienne, qui remonte à l’époque où les mortels ont été pour la première fois confrontés à la magie. C’est un fait clairement établi dans les univers fantastiques, et de nombreux groupes se sont consacrés à l’étude de cette discipline complexe.
 
@@ -142,15 +159,17 @@ Les traditions arcaniques les plus courantes du multivers gravitent autour des �
 
 Et même les magiciens qui forment des apprentis dans la solitude de leurs tours se servent de cette division de la magie en écoles comme d’un outil pédagogique, dans la mesure où les sorts de chaque école nécessitent de maîtriser des techniques qui leur sont propres.
 
-Académicien
+[][Generic]
+
+# Académicien
 
 L’académicien a suivi le cursus classique d’étude, ce qui lui permet de se spécialiser très tôt dans l’une des huit écoles de magie – abjuration, divination, enchantement, évocation, illusion, invocation, nécromancie et transmutation – afin d’y exceller.
 
-Magie académique
+## Magie académique
 
 Au niveau 2, puis à chaque fois que vous gagnez un niveau, vous inscrivez dans votre grimoire et vous apprenez un sort supplémentaire qui doit être issu de votre école. Lorsque vous obtenez l’aptitude maîtrise des sorts (au niveau 18), vous devez choisir des sorts de votre école. Lorsque vous obtenez l’aptitude sorts de prédilection (au niveau 20), vous devez choisir au moins un sort de votre école.
 
-Spécialisation
+## Spécialisation
 
 Dès le niveau 2, vous obtenez une aptitude qui dépend de votre école.
 
@@ -174,11 +193,11 @@ Vous ne pouvez dépasser votre maximum de points de vie de cette façon. Vous ne
 
 Transmutation : Amélioration. Vous apprenez le sort amélioration de caractéristique et pouvez le lancer sans dépenser d’emplacement, tout en étant considéré comme utilisant un emplacement de niveau égal à votre bonus de maîtrise (par exemple, au niveau 10 de magicien, vous le lancez comme avec un emplacement de niveau 4 et affectez trois cibles). Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-Expertise
+## Expertise
 
 Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d’Intelligence pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux jets de sauvegarde que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
 
-Maîtrise
+## Maîtrise
 
 Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 
@@ -206,7 +225,7 @@ Si le résultat est inférieur ou égal au niveau du sort, utilisez une réactio
 
 Transmutation : Élixir. Vous pouvez lancer un sort de transmutation sur un liquide. Ce liquide reste actif pendant 1 heure. Toute créature qui le boit bénéficie des effets du sort comme s’il était lancé par le créateur de la potion, toutefois c’est celui qui la boit qui doit maintenir la concentration si le sort le nécessite. Une créature qui boit un second élixir alors que le premier est encore actif subit 2d6 dégâts et annule le premier effet.
 
-Haute maîtrise
+## Haute maîtrise
 
 Au niveau 14, vous obtenez les aptitudes suivantes : Sans effort. Le magicien peut maintenir actif un sort de son école de magie nécessitant une concentration en dépensant une action bonus à chaque tour. Ce sort ne nécessite aucune concentration tant que vous dépensez une action bonus à chaque round sans interruption.
 
@@ -218,19 +237,21 @@ Incantation rapide. À votre tour, vous pouvez dépenser une action bonus pour l
 
 Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un désavantage au jet de sauvegarde des cibles.
 
-Arpenteur
+[][Generic]
+
+# Arpenteur
 
 L’arpenteur est un magicien dont la formation n’est pas aussi théorique que celle de son illustre confrère issu de l’académie. Moins spécialisé, il maîtrise quelques compétences utiles à la vie d’aventurier. Une fois sa formation initiale terminée, il ne peut compter sur les ressources d’une école de magie pour continuer à progresser et doit parcourir le monde pour nourrir son art. Les arpenteurs sont souvent des mages ambulants qui parcourent le pays pour étudier les légendes locales et faire profiter les villages qu’ils traversent de spectacles pyrotechniques. Mais cet intérêt pour les légendes cache souvent une double vie d’explorateur qui leur permet de trouver et de déchiffrer d’antiques formules magiques cachées au coeur de ruines oubliées.
 
-Endurci
+## Endurci
 
 Dès le niveau 2, vous êtes habitué à la vie en plein air et à affronter les dangers du monde. Vous pouvez choisir une compétence que vous maîtrisez désormais parmi Athlétisme, Discrétion, Nature, Perception ou Survie. De plus, vous choisissez comme arme de prédilection n’importe quelle arme de corps-à-corps qui n’a pas les propriétés lourde ou à deux mains. Vous obtenez la maîtrise de cette arme, et lorsque vous tenez votre arme de prédilection, vous bénéficiez en permanence du sort d’armure de mage.
 
-Aguerri
+## Aguerri
 
 Les chemins que vous parcourez sont rarement sans danger et vous en savez plus sur l’art de vous défendre que n’importe quel autre magicien. Au niveau 6, lorsque vous utilisez votre action pour lancer un tour de magie, vous pouvez faire une attaque avec votre arme de prédilection en utilisant une action bonus. De plus, vous obtenez la maîtrise des jets de sauvegarde de Constitution.
 
-Incantation réflexe
+## Incantation réflexe
 
 Vous avez appris à réagir instinctivement et à utiliser la magie en un clin d’oeil lorsque votre vie est menacée.
 
@@ -238,17 +259,19 @@ Vous avez appris à réagir instinctivement et à utiliser la magie en un clin d
 
 Vous ne pouvez toujours lancer qu’un seul sort par round, à l’exception d’un tour de magie.
 
-Magie confinée
+## Magie confinée
 
 Également au niveau 10, vous avez pris l’habitude d’utiliser votre magie au plus profond d’étroits souterrains et vous savez rester efficace en milieu confiné. Lorsque vous lancez un sort de zone (comme une boule de feu), vous pouvez utiliser une action bonus pour réduire son rayon d’action de moitié (ou la taille des côtés pour une surface conique, rectangulaire ou cubique).
 
-Ressources insoupçonnées
+## Ressources insoupçonnées
 
 Vous êtes toujours capable de récupérer quelques forces pour pratiquer la magie, pour peu que vous ayez un peu de temps pour vous reposer. Dès le niveau 14, après avoir terminé un repos court, si vous n’avez plus aucun sort disponible, vous obtenez cinq niveaux de sorts. Vous pouvez dépenser ces niveaux en un ou plusieurs sorts selon n’importe quelle combinaison de sorts dont la somme des niveaux ne dépasse pas cinq.
 
 Vous obtenez la maîtrise d’une nouvelle compétence de la liste proposée au niveau 2.
 
-Élémentaliste
+[][Generic]
+
+# Élémentaliste
 
 Vous méprisez le cadre des écoles de magie structuralistes et leurs théories académiques en faveur d’une compréhension naturaliste et globale de la magie. Vos sorts impliquent les quatre éléments primaires que sont l’air, l’eau, la terre et le feu, que vous pliez à votre volonté.
 
@@ -272,7 +295,7 @@ Feu. Vous êtes le maître de l’élément le plus spectaculaire et le plus des
 
 Terre. Vous domptez le pouvoir de la terre qui vous entoure, solide et implacable. Le sol tremble sur une simple commande, un nuage d’acide surgit du sol, de la terre se matérialise pour ensevelir vos adversaires. Vous apprenez à la façonner, à la briser et à la soumettre à votre volonté. Vous pouvez l’utiliser pour vous défendre ou la soulever pour écraser vos ennemis. L’air étant l’antithèse de la terre, vous ne préférez pas employer des sorts s’appuyant sur cet élément.
 
-Spécialisation élémentaire
+## Spécialisation élémentaire
 
 Au niveau 2, vous apprenez le tour de magie prestidigitation élémentaire. Les effets sont les mêmes que prestidigitation, toutefois ce sort n’affecte que votre élément de prédilection et ses effets sont plus prononcés et affectent un volume un peu plus important (au maximum un cube de 1,5 mètre d’arête).
 
@@ -280,7 +303,7 @@ De plus, lorsque vous lancez un sort dont les dégâts correspondent à votre é
 
 En revanche, lorsque vous lancez un sort qui inflige des dégâts correspondant à votre élément opposé – feu est opposé à froid (eau), acide (terre) opposé à foudre (air) – les cibles obtiennent un avantage à leurs jets de sauvegarde.
 
-Puissance élémentaire
+## Puissance élémentaire
 
 Également à partir du niveau 2, vous pouvez invoquer l’énergie de votre élément de prédilection pour créer un effet magique. Choisissez une seule aptitude parmi les deux proposés pour chaque élément. Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser votre pouvoir élémentaire.
 
@@ -330,7 +353,7 @@ Secousse sismique. En utilisant une action, vous frappez le sol pour générer u
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
 
-Résistance élémentaire
+## Résistance élémentaire
 
 Au niveau 6, vous gagnez une résistance à un type de dégâts lié à votre élément de prédilection.
 
@@ -339,7 +362,7 @@ Eau. Résistance aux dégâts de froid.
 Feu. Résistance aux dégâts de feu.
 Terre. Résistance aux dégâts d’acide.
 
-Maître des éléments
+## Maître des éléments
 
 Au niveau 6, vos études vous amènent à faire un nouveau choix. Soit vous vous contentez de vous spécialiser dans un seul élément, soit vous choisissez de vous consacrer entièrement à la magie élémentaire, mais cela vous interdit d’accéder à tout un pan de la magie traditionnelle.
 
@@ -351,7 +374,7 @@ Vous gagnez l’aptitude puissance élémentaire correspondant à ce nouvel él�
 
 En revanche, vous ne pouvez pas apprendre de sort de niveau 4 ou supérieur des écoles d’enchantement, d’illusion et de nécromancie. Vous pouvez toujours utiliser des parchemins comportant des sorts de ces écoles.
 
-Déplacement élémentaire
+## Déplacement élémentaire
 
 Au niveau 10 vous gagnez l’aptitude suivante liée à votre élément de prédilection.
 
@@ -365,7 +388,7 @@ Si vous arrivez dans un espace déjà occupé par un objet ou une créature, la 
 
 Terre. Tel un animal fouisseur, vous pouvez vous déplacer dans la terre d’un sol naturel à la moitié de votre vitesse de déplacement. De plus, vous gagnez le sens Perception des vibrations (9 mètres) lorsque vous vous déplacez de cette façon. Vous devez terminer votre déplacement à l’air libre ou subir 4d6 dégâts contondants.
 
-Immunité élémentaire
+## Immunité élémentaire
 
 Au niveau 14, vous gagnez une immunité au type de dégâts lié à votre élément de prédilection.
 
@@ -374,17 +397,19 @@ Eau. Immunité aux dégâts de froid.
 Feu. Immunité aux dégâts de feu.
 Terre. Immunité aux dégâts d’acide.
 
-Maîtrise élémentaire
+## Maîtrise élémentaire
 
 Au niveau 14, vous pouvez dépenser une action bonus pour augmenter de 2 niveaux l'emplacement d'un sort de votre élément de prédilection, y compris au-delà de votre niveau maximum (mais jamais au-dessus du niveau 9). Ainsi une boule de feu lancée avec un emplacement de niveau 3 infligera 10d6 dégâts. De plus, vous gagnez le second pouvoir de votre aptitude de puissance élémentaire associé à votre élément de prédilection. Chaque pouvoir élémentaire peut être utilisé une fois avant de devoir prendre un repos court ou long.
 
-Éminence grise
+[][Generic]
+
+# Éminence grise
 
 Certains magiciens sont attirés par le pouvoir terrestre plus que par le pouvoir magique. Ils se rapprochent des puissants et complotent là où les décisions comptent, auprès des chefs de guilde, des princes ou des rois. Certains deviennent les conseillers des têtes couronnées et oeuvrent dans l’ombre, tandis que d’autres sillonnent le monde pour transmettre des informations cruciales en tant que diplomates ou émissaires, parfois autoproclamés. Ce sont des pièces majeures sur le grand échiquier politique et ils sont capables d’éviter une guerre ou de la déclencher. Ils savent être discrets et ne révèlent leur véritable force qu’en de rares occasions, mais dans ces moments là, ils doivent être d’une efficacité absolue, et la magie remplace la lame de l’assassin.
 
 Cela fait d’eux des magiciens parfaitement adaptés aux opérations sous couverture, capables d’oeuvrer dans des régions ou des cultures où la magie est contrôlée voire interdite.
 
-Politicien
+## Politicien
 
 Dès le niveau 2, vous savez parfaitement vous comporter dans les milieux de pouvoir. En haute société, dans un milieu mondain ou auprès de toute personne qui détient le pouvoir local, vous obtenez un avantage à vos tests de compétence en Charisme ainsi qu’aux tests de Sagesse (Perspicacité) destinés à savoir si on vous ment.
 
@@ -392,31 +417,31 @@ Interprète
 
 Toujours au niveau 2, vous apprenez le sort compréhension des langues. Vous le lancez sans utiliser d’emplacement, comme s’il s’agissait d’un tour de magie. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.
 
-Imposture
+## Imposture
 
 Au niveau 6, vous apprenez le sort déguisement, et vous le lancez sans utiliser d’emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer. Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un avantage sur votre premier jet d’attaque contre cette cible. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-Tour silencieux
+## Tour silencieux
 
 Vous préférez éviter l’emploi de la violence pour régler vos affaires. Toutefois, lorsque cela devient nécessaire, vous savez le faire efficacement et silencieusement, de façon à ne pas laisser de témoin gênant. Également à partir du niveau 6, vous pouvez lancer vos tours de magie sans composante vocale. Lorsque vous utilisez un tour de magie qui nécessite un jet d’attaque, vous infligez 1d6 dégâts supplémentaires si vous avez un avantage sur ce jet d’attaque.
 
 Au niveau 10, ce bonus passe à 2d6 dégâts et au niveau 14 à 3d6. Les dégâts sont du même type que ceux du sort.
 
-Historiographe
+## Historiographe
 
 Au niveau 10, vous obtenez un avantage aux tests d’Intelligence (Histoire), lorsqu’ils concernent les lignées royales ou l’histoire des nations.
 
-Influence
+## Influence
 
 Au niveau 10 encore, vous apprenez le sort apaisement des émotions et pouvez le lancer sans utiliser d’emplacement.
 
 Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-Esprit impénétrable
+## Esprit impénétrable
 
 Au niveau 14, vous apprenez le sort non-détection et pouvez le lancer sans utiliser d’emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-Incantation discrète
+## Incantation discrète
 
 Enfin, également au niveau 14, vous devenez capable de lancer des sorts sans vous faire remarquer. Vous pouvez supprimer la composante vocale ou/et somatique d’une incantation d’une durée inférieure ou égale à une action. Vous devez utiliser un emplacement de sort d’1 niveau au-dessus du sort par composante supprimée.
 
@@ -424,7 +449,9 @@ Vous pouvez lancer vos quatre sorts privilégiés (compréhension des langues, d
 
 
 
-Votre grimoire
+[][Generic]
+
+# Votre grimoire
 
 Les sorts que vous ajoutez à votre grimoire au fur et à mesure de votre progression sont le reflet des recherches arcaniques que vous menez ainsi que de vos découvertes sur la nature du multivers. Néanmoins, vous pouvez découvrir d’autres sorts au cours de vos aventures. Vous pouvez par exemple découvrir un sort noté sur un parchemin dans le coffre d’un magicien maléfique, ou un grimoire poussiéreux dans une antique bibliothèque.
 
