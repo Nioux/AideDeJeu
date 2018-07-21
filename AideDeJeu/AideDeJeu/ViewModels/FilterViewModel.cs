@@ -181,7 +181,7 @@ namespace AideDeJeu.ViewModels
                         (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
                         spell.Type.ToLower().Contains(ecole.ToLower()) &&
                         spell.Source.Contains(source) &&
-                        spell.Source.Contains(classe) &&
+                        spell.Classes.Contains(classe) &&
                         spell.Rituel.Contains(rituel) &&
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
