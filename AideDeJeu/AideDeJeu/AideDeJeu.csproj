@@ -109,6 +109,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\barbarian_berserker_hd.md" Link="Data\barbarian_berserker_hd.md" />
+    <EmbeddedResource Include="..\..\Data\barbarian_howling_hd.md" Link="Data\barbarian_howling_hd.md" />
+    <EmbeddedResource Include="..\..\Data\barbarian_spirits_hd.md" Link="Data\barbarian_spirits_hd.md" />
+    <EmbeddedResource Include="..\..\Data\barbarian_steel_hd.md" Link="Data\barbarian_steel_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\bard_acrobats_hd.md" Link="Data\bard_acrobats_hd.md" />
+    <EmbeddedResource Include="..\..\Data\bard_diplomats_hd.md" Link="Data\bard_diplomats_hd.md" />
+    <EmbeddedResource Include="..\..\Data\bard_heralds_hd.md" Link="Data\bard_heralds_hd.md" />
+    <EmbeddedResource Include="..\..\Data\bard_knowledge_hd.md" Link="Data\bard_knowledge_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

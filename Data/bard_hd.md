@@ -35,7 +35,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 [][Generic]
 
-# Barde
+# Tableau d'évolution
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -135,7 +135,7 @@ Plus votre niveau de barde est élevé, plus le nombre de points de vie récupé
 
 ## Collège bardique
 
-Au niveau 3, vous vous penchez sur les techniques avancées d’un collège bardique de votre choix : le collège du savoir, le collège des diplomates, le collège des hérauts ou le collège des saltimbanques. L’enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
+Au niveau 3, vous vous penchez sur les techniques avancées d’un collège bardique de votre choix : le [collège du savoir], le [collège des diplomates], le [collège des hérauts] ou le [collège des saltimbanques]. L’enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
 [][Generic]
 
@@ -185,122 +185,18 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d’initiativ
 
 # Collèges bardiques
 
-[][Generic]
+## [Collège du savoir]
 
-# Collège du savoir
+## [Collège des diplomates]
 
-Les bardes du collège du savoir sont versés dans de nombreux domaines de connaissance et ils collectionnent des fragments d’information issus de sources aussi diverses que des traités écrits par des érudits ou des légendes rurales. Qu’ils chantent des ballades populaires dans les tavernes ou interprètent des compositions élaborées dans les cours royales, ces bardes utilisent leurs dons pour captiver leur auditoire. Et quand les applaudissements s’arrêtent, l’audience se retrouve parfois en train de remettre en question ce qui semblait auparavant des évidences, comme leur foi dans la religion locale ou leur loyauté envers leur seigneur.
+## [Collège des hérauts]
 
-Aux yeux de ces bardes, seule compte la poursuite de la beauté et de la vérité, et ils n’ont que faire des serments d’allégeance à des monarques ou des dogmes religieux. Un noble qui conserve un tel barde dans son entourage comme héraut ou conseiller sait que ce dernier adoptera toujours une posture plus sincère que politique.
+## [Collège des saltimbanques]
 
-Les membres de ce collège se réunissent dans des bibliothèques et parfois dans de véritables universités, avec des classes et des dortoirs, afin de partager leurs connaissances. Ils se rencontrent aussi à l’occasion de festivals ou lors des réunions des puissants, où ils peuvent révéler au grand jour la corruption et les mensonges des dirigeants et se moquer de toutes ces figures d’autorité gonflées d’importance.
-
-## Maîtrises supplémentaires
-
-Quand vous rejoignez le collège du savoir au niveau 3, vous gagnez la maîtrise de trois compétences de votre choix.
-
-## Mots cinglants
-
-Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un jet d’attaque, de dégâts ou un test de caractéristique, vous pouvez utiliser votre réaction pour dépenser l’une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d’utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le jet d’attaque ou le test de caractéristique a réussi ou échoué, ou avant que la créature n’ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l’effet charmé.
-
-## Secrets magiques supplémentaires
-
-Au niveau 6, vous apprenez deux sorts de votre choix de n’importe quelle classe. Vous ne pouvez par contre choisir que des sorts ou des tours de magie que vous êtes en mesure de lancer, comme indiqué dans le tableau d’évolution du barde.
-
-Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde mais ils ne sont pas comptabilisés parmi les sorts de barde que vous connaissez.
-
-## Compétence hors pair
-
-À partir du niveau 14, quand vous faites un test de caractéristique, vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre test de caractéristique. Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au test de caractéristique, mais avant que le MJ annonce si le test est un succès ou un échec.
-
-[][Generic]
-
-# Collège des diplomates
-
-Formés à l’histoire, cultivés, rompus aux us et coutumes de nombreuses nations et dotés de la verve et de la répartie nécessaires à la négociation dans les hautes sphères du pouvoir, c’est tout naturellement que les bardes font d’excellents diplomates. Certains bardes mettent leurs talents au service d’une nation ou d’un souverain, d’autres s’associent au sein d’organisations à visées politiques dont les véritables activités sont souvent dissimulées derrière un prétexte artistique. Ils sillonnent le monde et conseillent les puissants, répandent bonnes et mauvaises nouvelles, rumeurs et demi-vérités : dans leur bouche, ces mots deviennent une arme plus redoutable que l’épée au poing d’un général. Ils influencent le cours des événements majeurs en suivant leurs propres objectifs, qu’il s’agisse de garantir la paix, combattre l’ignorance ou consolider leur pouvoir.
-
-## Arsenal diplomatique
-
-Lorsque vous rejoignez le collège des diplomates au niveau 3, vous apprenez deux sorts de votre choix dans la liste suivante : choc des titans, détection du mal et du bien, détection du poison et des maladies, injonction, modifier son apparence, purification de la nourriture et de l’eau. Ces sorts deviennent des sorts de barde, mais ils ne comptent pas dans la limite du nombre de sorts que vous connaissez. Vous choisissez deux sorts supplémentaires au niveau 6 et les deux derniers au niveau 14.
-
-## Orateur exceptionnel
-
-Également au niveau 3, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d’inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).
-
-## Manipulateur redoutable
-
-Au niveau 6, vous pouvez lancer les sorts aura du héros, charme-personne et suggestion en utilisant une action bonus et une inspiration bardique. Vous ajoutez votre dé d’inspiration bardique à la difficulté du jet de sauvegarde. Si vous n’avez pas appris ces sorts, vous pouvez lancer chacun d’eux en dépensant une inspiration bardique, mais vous n’ajoutez pas le dé d’inspiration bardique à la difficulté de la sauvegarde.
-
-## Manipulateur subtil
-
-Au niveau 14, lorsqu'un de vos sorts de l'école d'enchantement cesse de faire effet, vous pouvez choisir de dépenser un dé d'inspiration pour que les victimes ne se rappellent pas avoir été sous l'effet de votre magie et que leur attitude à votre égard n'en soit pas altérée
-
-[][Generic]
-
-# Collège des hérauts
-
-Le héraut est à la fois un lettré, un spécialiste de l’héraldique, et un combattant capable de survivre aux dangers d’un champ de bataille. Il ne manque jamais d’emploi : tantôt il sillonne le domaine d’un seigneur comme messager ou pour proclamer les déclarations officielles, tantôt il annonce titres et rangs, lors des joutes et des tournois. Mais c’est en temps de guerre que son rôle devient le plus excitant. Présent aux côtés d’un seigneur sur le champ de bataille, il décode pour lui les armoiries et la réputation de ses adversaires. Il n’est pas lié à un mécène en particulier et mène une vie d’errance. Témoin privilégié des hauts faits de la noblesse, il chante ses louanges, contribuant ainsi au renom des chevaliers, dont il relate les faits d’armes partout où il se rend. Parfois, certains hérauts choisissent la vie d’aventurier et s’associent à de jeunes va-t’en-guerre, espérant ainsi assister à des exploits dignes d’être narrés et de nature à les rendre célèbres.
-
-## Héraldique
-
-Au niveau 3, lorsque vous rejoignez ce collège, vous pouvez ajouter le résultat de votre dé d’inspiration bardique à tous vos tests d’Intelligence (Histoire) qui concernent l’héraldique ou la noblesse. Cette utilisation ne dépense aucun point d’inspiration bardique.
-
-## Par monts et par vaux
-
-Également au niveau 3, vous avez l’habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d’inspiration bardique à tous vos tests de Sagesse (Survie). De plus, vous obtenez le bénéfice au choix d’un style de combat :
-
-Duel. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
-
-Combat à deux armes. Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
-
-## Sur un champ de bataille
-
-À partir du niveau 6, vous avez appris à vous battre afin d’accompagner les plus intrépides chevaliers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer. Vous obtenez également la maîtrise des armures intermédiaires et de toutes les armes à une main.
-
-## Inspirer la bravoure
-
-Au niveau 14, sur un champ de bataille, votre simple présence assure les protagonistes que leurs exploits ne seront pas oubliés, les poussant à toujours plus de bravoure ! Durant un combat, vous pouvez dépenser une inspiration bardique et utiliser une action bonus pour permettre à tous vos alliés à moins de 18 mètres de lancer un dé d’inspiration bardique et d’ajouter le résultat à l’un de leurs jets d’attaque avant votre prochain tour. Ils peuvent aussi ajouter ce résultat à tous les jets de sauvegarde contre l’effet terrorisé pour la même durée.
-
-[][Generic]
-
-# Collège des saltimbanques
-
-Saltimbanques, artistes de cirque, les enfants de la balle se déplacent par monts et par vaux pour distraire, de leurs prouesses physiques, les puissants tout autant que les manants. Ils forment une troupe qui regroupe différentes spécialités complémentaires afin de présenter un spectacle varié. La solidarité entre les individus n’y est pas un vain mot. Quelles que soient les raisons qui vous ont poussé à ne pas intégrer une troupe ou à quitter la vôtre, vos nouveaux compagnons remplacent cette famille et vous agissez avec eux dans le même esprit de solidarité.
-
-## Premier rôle
-
-Au niveau 3, vous choisissez une spécialité emblématique des troupes de spectacle itinérantes qui vous permet de prétendre à certaines compétences. Choisissez une formation parmi les quatre proposées.
-
-* Bouffon : vous bénéficiez d'un avantage à tous les tests de Charisme (Supercherie) et lorsque vous utilisez des accessoires de déguisement.
-* Force de la nature : vous bénéficiez d'un avantage à tous les tests de Force (Athlétisme) et vous maîtrisez désormais les jets de sauvegarde de Force.
-* Jongleur : vous bénéficiez d'un avantage à tous les tests de Dextérité (Acrobatie) et Dextérité (Escamotage).
-* Voyante : vous bénéficiez d'un avantage à tous les tests de Sagesse (Perspicacité) et vous maîtrisez désormais les jets de sauvegardes de Sagesse.
-
-## Main dans la main
-
-D’où vous venez, la solidarité n’est pas un vain mot, et vous avez appris chez les saltimbanques à travailler main dans la main avec vos équipiers. À partir du niveau 3 également, lorsque vous faites un test de groupe (voir la section Travailler ensemble, page 261 du chapitre 7 Utiliser les caractéristiques), en cas de succès de votre test, vous comptabilisez deux succès.
-
-## Instinct de survie
-
-Vous n’êtes pas un guerrier mais, sur la route, vous avez vécu votre lot d’attaques de brigands et de traquenards. La troupe a du apprendre à se défendre et les saltimbanques ont acquis la réputation de ne pas être des proies faciles. Au niveau 6, vous obtenez une aptitude selon votre spécialité :
-
-* Bouffon : encore mort ! Vous êtes capable de lancer le sort catalepsie en utilisant une réaction au lieu d’une action (vous n’avez pas besoin de connaître ce sort et vous n’utilisez pas d’emplacement de sort). Vous devez terminer un repos court avant de pouvoir à nouveau le lancer de cette façon.
-* Force de la nature : Dur au mal. Votre résistance légendaire vous permet de ne pas sentir certains coups. Après tout, vous êtes capable de tordre des barres de métal sur votre nuque, de marcher sur des charbons ardents ou de vous allonger sur une planche à clous ! Vous pouvez dépenser votre réaction pour utiliser une inspiration bardique et obtenir une résistance aux dégâts contondants, perçants ou de feu, jusqu'à votre prochain tour.
-* Jongleur : Esquive acrobatique. Vos sauts et vos roulés-boulés vous mettent hors de portée de la plupart des attaques. Lorsque vous êtes attaqué, vous pouvez dépenser votre réaction pour utiliser une inspiration bardique et ajouter le résultat du dé à votre CA jusqu’à votre prochain tour.
-* Voyante : Prémonition. Votre don de voyance vous permet de prévoir les attaques ennemies. Vous pouvez dépenser votre réaction pour utiliser une inspiration bardique et imposer un désavantage aux attaques adverses effectuées contre vous jusqu’à votre prochain tour.
-
-## Esprit d’équipe
-
-Également au niveau 6, lorsque vous utilisez l’action aider, vous obtenez une action bonus qui vous permet soit de faire une unique attaque de corps-à-corps, soit d’utiliser une action parmi esquiver ou se désengager. Si vous êtes bouffon, votre action bonus peut aussi être de lancer un tour de magie. Si vous êtes voyante, votre action bonus ne peut pas être une attaque, mais peut aussi être de lancer un sort ou un tour de magie.
-
-## Prouesse de cirque
-
-Au niveau 14, votre spécialité fait de vous un professionnel accompli et un adversaire redoutable.
-
-* Bouffon : À votre tour, vous pouvez dépenser une inspiration bardique et utiliser une action bonus pour tenter de déconcentrer une cible qui maintient un sort. La cible doit réussir un jet de sauvegarde de Charisme ND (8 +bonus de maîtrise + modificateur de Charisme) ou perdre sa concentration. D'autre part, lorsque vous utilisez le tour de magie moquerie cruelle, vous ajoutez votre dé d’inspiration bardique aux dégâts infligés.
-* Force de la nature : Vous pouvez utiliser une action bonus pour dépenser une inspiration bardique et ajouter le résultat du dé à tous vos tests de Force du round et aux dégâts d’une attaque à votre tour. Le résultat est doublé lorsque vous utilisez une arme de corps-à-corps contondante.
-* Jongleur : lanceur de couteaux. À chacun de vos tours de jeu, vous pouvez utiliser une action bonus pour faire une attaque à distance avec une dague. Vous pouvez choisir de dépenser une inspiration bardique et ajouter le résultat du dé au test d’attaque (en utilisant la même et unique action bonus) ou remplacer le dé de dégâts par le dé d’inspiration.
-* Voyante : choisissez deux sorts parmi augure, appel de familier, clairvoyance, communication avec les morts, communion, détection des pensées, divination, légende, scrutation, trouver un chemin, voir l’invisible, vision suprême. Ces sorts sont considérés comme des sorts de barde, mais ils ne comptent pas dans le nombre de sorts que vous connaissez. De plus, vous êtes désormais capable d’utiliser la magie rituelle pour tous les sorts qui le permettent, même issus d’une liste de sorts autre que celle de barde.
+[Collège du savoir]: bard_knowledge_hd.md
+[Collège des diplomates]: bard_diplomats_hd.md
+[Collège des hérauts]: bard_heralds_hd.md
+[Collège des saltimbanques]: bard_acrobats_hd.md
 
 [Items]: #
 [Generic]: #
