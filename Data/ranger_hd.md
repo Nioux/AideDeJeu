@@ -11,17 +11,17 @@ En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d10 par niveau de rôdeur
-Points de vie au niveau 1 : 10 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d10 (ou 6) + votre modificateur de Constitution par niveau de rôdeur après le niveau 1
+**Dés de vie :** 1d10 par niveau de rôdeur
+**Points de vie au niveau 1 :** 10 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de rôdeur après le niveau 1
 
 ## Maîtrises
 
-Armures : armures légères, armures intermédiaires, boucliers
-Armes : armes courantes, armes de guerre
-Outils : aucun
-Jets de sauvegarde : Force, Dextérité
-Compétences : choisissez trois compétences parmi : Athlétisme, Discrétion, Dressage, Investigation, Nature, Perception, Perspicacité et Survie
+**Armures :** armures légères, armures intermédiaires, boucliers
+**Armes :** armes courantes, armes de guerre
+**Outils :** aucun
+**Jets de sauvegarde :** Force, Dextérité
+**Compétences :** choisissez trois compétences parmi : Athlétisme, Discrétion, Dressage, Investigation, Nature, Perception, Perspicacité et Survie
 
 ## Équipement
 

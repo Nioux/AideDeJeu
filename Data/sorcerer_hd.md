@@ -11,17 +11,17 @@ En tant qu’ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d6 par niveau d’ensorceleur
-Points de vie au niveau 1 : 6 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d6 (ou 4) + votre modificateur de Constitution par niveau d’ensorceleur après le niveau 1
+**Dés de vie :** 1d6 par niveau d’ensorceleur
+**Points de vie au niveau 1 :** 6 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d6 (ou 4) + votre modificateur de Constitution par niveau d’ensorceleur après le niveau 1
 
 ## Maîtrises
 
-Armures : aucune
-Armes : dagues, fléchettes, frondes, bâtons, arbalètes légères
-Outils : aucun
-Jets de sauvegarde : Constitution, Charisme
-Compétences : choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
+**Armures :** aucune
+**Armes :** dagues, fléchettes, frondes, bâtons, arbalètes légères
+**Outils :** aucun
+**Jets de sauvegarde :** Constitution, Charisme
+**Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
 
 ## Équipement
 

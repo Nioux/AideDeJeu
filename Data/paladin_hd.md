@@ -11,17 +11,17 @@ En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d10 par niveau de paladin
-Points de vie au niveau 1 : 10 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d10 (ou 6) + votre modificateur de Constitution par niveau de paladin après le niveau 1
+**Dés de vie :** 1d10 par niveau de paladin
+**Points de vie au niveau 1 :** 10 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de paladin après le niveau 1
 
 ## Maîtrises
 
-Armures : toutes les armures, boucliers
-Armes : armes courantes, armes de guerre
-Outils : aucun
-Jets de sauvegarde : Sagesse, Charisme
-Compétences : choisissez deux compétences parmi les suivantes : Athlétisme, Intimidation, Médecine, Perspicacité, Persuasion et Religion
+**Armures :** toutes les armures, boucliers
+**Armes :** armes courantes, armes de guerre
+**Outils :** aucun
+**Jets de sauvegarde :** Sagesse, Charisme
+**Compétences :** choisissez deux compétences parmi les suivantes : Athlétisme, Intimidation, Médecine, Perspicacité, Persuasion et Religion
 
 ## Équipement
 

@@ -11,17 +11,17 @@ En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d8 par niveau de clerc
-Points de vie au niveau 1 : 8 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d8 (ou 5) + votre modificateur de Constitution après le niveau 1
+**Dés de vie :** 1d8 par niveau de clerc
+**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution après le niveau 1
 
 ## Maîtrises
 
-Armures : armures légères, armures intermédiaires, boucliers
-Armes : armes courantes
-Outils : aucun
-Jets de sauvegarde : Sagesse, Charisme
-Compétences : choisissez deux compétences parmi les suivantes : Histoire, Médecine, Perspicacité, Persuasion, Religion
+**Armures :** armures légères, armures intermédiaires, boucliers
+**Armes :** armes courantes
+**Outils :** aucun
+**Jets de sauvegarde :** Sagesse, Charisme
+**Compétences :** choisissez deux compétences parmi les suivantes : Histoire, Médecine, Perspicacité, Persuasion, Religion
 
 ## Équipement
 

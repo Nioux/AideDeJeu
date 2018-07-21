@@ -11,17 +11,17 @@ En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d8 par niveau de moine
-Points de vie au niveau 1 : 8 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d8 (ou 5) + votre modificateur de constitution par niveau de moine après le niveau 1
+**Dés de vie :** 1d8 par niveau de moine
+**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de constitution par niveau de moine après le niveau 1
 
 ## Maîtrises
 
-Armures : aucune
-Armes : armes courantes, épées courtes
-Outils : choisissez un type d’outils d’artisan ou un instrument de musique
-Jets de sauvegarde : Force, Dextérité
-Compétences : choisissez deux compétences parmi Acrobaties, Athlétisme, Discrétion, Histoire, Perspicacité et Religion
+**Armures :** aucune
+**Armes :** armes courantes, épées courtes
+**Outils :** choisissez un type d’outils d’artisan ou un instrument de musique
+**Jets de sauvegarde :** Force, Dextérité
+**Compétences :** choisissez deux compétences parmi Acrobaties, Athlétisme, Discrétion, Histoire, Perspicacité et Religion
 
 ## Équipement
 

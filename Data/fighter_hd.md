@@ -11,17 +11,17 @@ En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d10 par niveau de guerrier
-Points de vie au niveau 1 : 10 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d10 (ou 6) + votre modificateur de Constitution par niveau de guerrier après le niveau 1
+**Dés de vie :** 1d10 par niveau de guerrier
+**Points de vie au niveau 1 :** 10 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de guerrier après le niveau 1
 
 ## Maîtrises
 
-Armures : toutes les armures, boucliers
-Armes : armes courantes, armes de guerre
-Outils : aucuns
-Jets de sauvegarde : Force, Constitution
-Compétences : choisissez deux compétences parmi les suivantes : Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Perception, Perspicacité et Survie
+**Armures :** toutes les armures, boucliers
+**Armes :** armes courantes, armes de guerre
+**Outils :** aucuns
+**Jets de sauvegarde :** Force, Constitution
+**Compétences :** choisissez deux compétences parmi les suivantes : Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Perception, Perspicacité et Survie
 
 ## Équipement
 

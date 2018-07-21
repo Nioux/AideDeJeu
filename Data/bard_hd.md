@@ -11,17 +11,17 @@ En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d8 par niveau de barde
-Points de vie au niveau 1 : 8 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d8 (ou 5) + votre modificateur de Constitution par niveau de barde après le niveau 1
+**Dés de vie :** 1d8 par niveau de barde
+**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de barde après le niveau 1
 
 ## Maîtrises
 
-Armures : armures légères
-Armes : armes courantes, arbalète de poing, épée longue, rapière, épée courte
-Outils : trois instruments de musique de votre choix
-Jets de sauvegarde : Dextérité, Charisme
-Compétences : trois au choix
+**Armures :** armures légères
+**Armes :** armes courantes, arbalète de poing, épée longue, rapière, épée courte
+**Outils :** trois instruments de musique de votre choix
+**Jets de sauvegarde :** Dextérité, Charisme
+**Compétences :** trois au choix
 
 ## Équipement
 

@@ -11,17 +11,17 @@ En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d8 par niveau de roublard
-Points de vie au niveau 1 : 8 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d8 (ou 5) + votre modificateur de Constitution par niveau de roublard après le niveau 1
+**Dés de vie :** 1d8 par niveau de roublard
+**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de roublard après le niveau 1
 
 ## Maîtrises
 
-Armures : armures légères
-Armes : armes courantes, arbalètes de poing, épées longues, rapières, épées courtes
-Outils : outils de voleur
-Jets de sauvegarde : Dextérité, Intelligence
-Compétences : choisissez quatre compétences parmi Acrobaties, Athlétisme, Discrétion, Escamotage, Intimidation, Investigation, Perception, Perspicacité, Persuasion, Représentation et Supercherie
+**Armures :** armures légères
+**Armes :** armes courantes, arbalètes de poing, épées longues, rapières, épées courtes
+**Outils :** outils de voleur
+**Jets de sauvegarde :** Dextérité, Intelligence
+**Compétences :** choisissez quatre compétences parmi Acrobaties, Athlétisme, Discrétion, Escamotage, Intimidation, Investigation, Perception, Perspicacité, Persuasion, Représentation et Supercherie
 
 ## Équipement
 

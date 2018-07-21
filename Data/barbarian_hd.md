@@ -20,7 +20,7 @@ En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 **Armures :** armures légères, armures intermédiaires, boucliers
 **Armes :** armes courantes, armes de guerre
 **Outils :** aucun
-**[Jets de sauvegarde] :** [Force], [Constitution]
+**Jets de sauvegarde :** [Force], [Constitution]
 **Compétences :** choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie
 
 ## Équipement

@@ -11,17 +11,17 @@ En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Points de vie
 
-Dés de vie : 1d8 par niveau de druide
-Points de vie au niveau 1 : 8 + votre modificateur de Constitution
-Points de vie aux niveaux supérieurs : 1d8 (ou 5) + votre niveau de Constitution par niveau de druide après le premier niveau
+**Dés de vie :** 1d8 par niveau de druide
+**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre niveau de Constitution par niveau de druide après le premier niveau
 
 ## Maîtrises
 
-Armures : armures légères, armures intermédiaires, boucliers (les druides n’utilisent pas d’armure ou de bouclier faits en métal)
-Armes : gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances
-Outils : matériel d’herboriste
-Jets de sauvegarde : Intelligence, Sagesse
-Compétences : choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Médecine, Nature, Perception, Perspicacité, Religion et Survie
+**Armures :** armures légères, armures intermédiaires, boucliers (les druides n’utilisent pas d’armure ou de bouclier faits en métal)
+**Armes :** gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances
+**Outils :** matériel d’herboriste
+**Jets de sauvegarde :** Intelligence, Sagesse
+**Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Médecine, Nature, Perception, Perspicacité, Religion et Survie
 
 ## Équipement
 
