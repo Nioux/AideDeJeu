@@ -33,9 +33,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 [][Generic]
 
-
-## Le Barbare
-
+# Tableau d'évolution
 
 |Niveau|Bonus de maîtrise|Aptitudes|Rages|Dégâts de rage|
 |---|---|---|---|---|
