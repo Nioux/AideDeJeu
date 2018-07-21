@@ -33,10 +33,6 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 * (a) un paquetage d’ecclésiastique ou (b) un paquetage d’explorateur
 * un bouclier et un symbole sacré
 
-## Incantations
-
-En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc.
-
 ## Clerc
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
@@ -64,6 +60,11 @@ En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc
 
 (* Emplacement de sorts par niveau de sort)
 
+[][Generic]
+
+## Incantations
+
+En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc.
 
 ## Tours de magie
 

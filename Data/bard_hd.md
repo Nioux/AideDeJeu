@@ -32,14 +32,6 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 * (a) un luth ou (b) n’importe quel autre instrument
 * une armure de cuir et une dague
 
-## Incantations
-
-Vous avez appris à remodeler la trame de la réalité en harmonie avec vos souhaits et votre musique. Vos sorts sont une partie intégrante de votre vaste répertoire, une magie que vous pouvez adapter en fonction de la situation.
-
-## Tours de magie
-
-Vous connaissez deux tours de magie de votre choix parmi la liste de sorts de barde. Vous pouvez apprendre d’autres tours de magie de barde à des niveaux supérieurs, comme indiqué dans la colonne tours de magie connus du tableau d’évolution du barde.
-
 
 ## Barde
 
@@ -67,6 +59,16 @@ Vous connaissez deux tours de magie de votre choix parmi la liste de sorts de ba
 |20|+6|Inspiration supérieure|4|22|4|3|3|3|3|2|2|1|1|
 
 (* Emplacement de sorts par niveau de sort)
+
+[][Generic]
+
+## Incantations
+
+Vous avez appris à remodeler la trame de la réalité en harmonie avec vos souhaits et votre musique. Vos sorts sont une partie intégrante de votre vaste répertoire, une magie que vous pouvez adapter en fonction de la situation.
+
+## Tours de magie
+
+Vous connaissez deux tours de magie de votre choix parmi la liste de sorts de barde. Vous pouvez apprendre d’autres tours de magie de barde à des niveaux supérieurs, comme indiqué dans la colonne tours de magie connus du tableau d’évolution du barde.
 
 ## Emplacements de sorts
 
