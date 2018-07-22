@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MasterDetailPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:AideDeJeu.Views" 
+    xmlns:tools="clr-namespace:AideDeJeu.Tools" 
+    x:Class="AideDeJeu.Views.FilteredItemsPage" 
+    x:Name="This" 
+    IsPresented="False" 
+    Title="{Binding Title}">
+    <MasterDetailPage.ToolbarItems>
+        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
+    </MasterDetailPage.ToolbarItems>
+    <MasterDetailPage.Resources>
+        <ResourceDictionary>
+        </ResourceDictionary>
+    </MasterDetailPage.Resources>
+    <MasterDetailPage.Master>
+        <ContentPage Title=" ">
+            <StackLayout Orientation="Vertical">
+                <ListView SelectionMode="None" ItemsSource="{Binding Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.View>
+                                    <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                                        <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
+                                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
+                                    </StackLayout>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage Title="">
+            <Grid VerticalOptions="Fill" HorizontalOptions="Fill">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Button Grid.Column="0" Grid.Row="0" Text="=" Clicked="Button_Clicked"/>
+                <SearchBar Grid.Column="1" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                    <SearchBar.Behaviors>
+                        <tools:TextChangedBehavior />
+                    </SearchBar.Behaviors>
+                </SearchBar>
+                <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
+                                <StackLayout Padding="10" Orientation="Vertical">
+                                    <Label Text="{Binding Name}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                                    <Label Text="{Binding AltNameText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

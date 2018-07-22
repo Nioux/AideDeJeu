@@ -42,5 +42,13 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new ItemsPage(itemsVM));
         }
 
+        public async Task GotoFilteredItemsPageAsync(ItemsViewModel itemsVM)
+        {
+            if (itemsVM == null)
+                return;
+
+            await Navigation.PushAsync(new FilteredItemsPage(itemsVM));
+        }
+
     }
 }

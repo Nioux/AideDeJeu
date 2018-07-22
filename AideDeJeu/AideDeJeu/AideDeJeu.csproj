@@ -39,6 +39,9 @@
     <Compile Update="Views\ItemDetailPage.xaml.cs">
       <DependentUpon>ItemDetailPage.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\FilteredItemsPage.xaml.cs">
+      <DependentUpon>FilteredItemsPage.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\ItemsPage.xaml.cs">
       <DependentUpon>ItemsPage.xaml</DependentUpon>
     </Compile>

@@ -81,7 +81,14 @@ namespace AideDeJeu.ViewModels
                         {
                             var itemsViewModel = new ItemsViewModel() { AllItems = items };
                             itemsViewModel.LoadItemsCommand.Execute(null);
-                            await Navigator.GotoItemsPageAsync(itemsViewModel);
+                            if (items.GetNewFilterViewModel() == null)
+                            {
+                                await Navigator.GotoItemsPageAsync(itemsViewModel);
+                            }
+                            else
+                            {
+                                await Navigator.GotoFilteredItemsPageAsync(itemsViewModel);
+                            }
                         }
                     }
                     else
