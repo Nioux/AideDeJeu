@@ -137,6 +137,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\fighter_champion_hd.md" Link="Data\fighter_champion_hd.md" />
+    <EmbeddedResource Include="..\..\Data\fighter_defender_hd.md" Link="Data\fighter_defender_hd.md" />
+    <EmbeddedResource Include="..\..\Data\fighter_spellblade_hd.md" Link="Data\fighter_spellblade_hd.md" />
+    <EmbeddedResource Include="..\..\Data\fighter_swordsman_hd.md" Link="Data\fighter_swordsman_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
