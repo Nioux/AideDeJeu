@@ -167,6 +167,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\rogue_brute_hd.md" Link="Data\rogue_brute_hd.md" />
+    <EmbeddedResource Include="..\..\Data\rogue_ombrelame_hd.md" Link="Data\rogue_ombrelame_hd.md" />
+    <EmbeddedResource Include="..\..\Data\rogue_spy_hd.md" Link="Data\rogue_spy_hd.md" />
+    <EmbeddedResource Include="..\..\Data\rogue_thief_hd.md" Link="Data\rogue_thief_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
