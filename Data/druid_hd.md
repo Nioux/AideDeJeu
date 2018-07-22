@@ -193,60 +193,66 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 ## Arctique
 
-Niv. de druide Sorts de cercle
-3 immobiliser un humanoïde, croissance
-d’épines
-5 tempête de neige, lenteur
-7 liberté de mouvement, tempête de grêle
-9 communion avec la nature, cône de froid
+|Niv. de druide|Sorts de cercle|
+|---|---|
+3|immobiliser un humanoïde, croissance d’épines|
+5|tempête de neige, lenteur|
+7|liberté de mouvement, tempête de grêle|
+9|communion avec la nature, cône de froid|
 
 ## Littoral
 
-Niv. de druide Sorts de cercle
-3 image miroir, pas brumeux
-5 respiration aquatique, marche sur l’eau
-7 contrôle de l’eau, liberté de mouvement
-9 invoquer un élémentaire, scrutation
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|3|image miroir, pas brumeux|
+|5|respiration aquatique, marche sur l’eau|
+|7|contrôle de l’eau, liberté de mouvement|
+|9|invoquer un élémentaire, scrutation|
 
 ## Désert
 
-Niv. de druide Sorts de cercle
-3 flou, silence
-5 création de nourriture et d’eau, protection contre les énergies
-7 flétrissement, terrain hallucinatoire
-9 fléau d’insectes, mur de pierre
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|3|flou, silence|
+|5|création de nourriture et d’eau, protection contre les énergies|
+|7|flétrissement, terrain hallucinatoire|
+|9|fléau d’insectes, mur de pierre|
 
 ## Forêt
 
-Niv. de druide Sorts de cercle
-3 peau d’écorce, pattes d’araignée
-5 appel de la foudre, croissance végétale
-7 divination, liberté de mouvement
-9 communion avec la nature, passage par les arbres
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|3|peau d’écorce, pattes d’araignée|
+|5|appel de la foudre, croissance végétale|
+|7|divination, liberté de mouvement|
+|9|communion avec la nature, passage par les arbres|
 
 ## Plaine
 
-Niv. de druide Sorts de cercle
-3 invisibilité, passage sans trace
-5 lumière du jour, hâte
-7 divination, liberté de mouvement
-9 rêve, fléau d’insectes
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|3|invisibilité, passage sans trace|
+|5|lumière du jour, hâte|
+|7|divination, liberté de mouvement|
+|9|rêve, fléau d’insectes|
 
 ## Montagne
 
-Niv. de druide Sorts de cercle
-3 pattes d’araignée, croissance d’épines
-5 éclair, fusion dans la pierre
-7 façonnage de la pierre, peau de pierre
-9 passe-muraille, mur de pierre
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|3|pattes d’araignée, croissance d’épines|
+|5|éclair, fusion dans la pierre|
+|7|façonnage de la pierre, peau de pierre|
+|9|passe-muraille, mur de pierre|
 
 ## Marais
 
-Niv. de druide Sorts de cercle
-3 flèche acide, ténèbres
-5 marche sur l’eau, nuage puant
-7 liberté de mouvement, localiser une créature
-9 fléau d’insectes, scrutation
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|3|flèche acide, ténèbres|
+|5|marche sur l’eau, nuage puant|
+|7|liberté de mouvement, localiser une créature|
+|9|fléau d’insectes, scrutation|
 
 ## Traversée des terrains
 
@@ -301,51 +307,55 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 
 ## Printemps
 
-Niv. de druide Sorts de saison
-2 baies nourricières
-3 aide
-4 amélioration de caractéristique
-5 revigorer
-6 croissance végétale
-7 protection contre la mort
-8 liane chasseresse
-9 réincarnation
+|Niv. de druide|Sorts de saison|
+|---|---|
+|2|baies nourricières|
+|3|aide|
+|4|amélioration de caractéristique|
+|5|revigorer|
+|6|croissance végétale|
+|7|protection contre la mort|
+|8|liane chasseresse|
+|9|réincarnation|
 
 ## Été
 
-Niv. de druide Sorts de saison
-2 lueurs féeriques
-3 rayon ardent
-4 chauffer le métal
-5 vol
-6 lumière du jour
-7 bouclier de feu
-8 mur de feu
-9 fléau d’insectes
+|Niv. de druide|Sorts de saison|
+|---|---|
+|2|lueurs féeriques|
+|3|rayon ardent|
+|4|chauffer le métal|
+|5|vol|
+|6|lumière du jour|
+|7|bouclier de feu|
+|8|mur de feu|
+|9|fléau d’insectes|
 
 ## Automne
 
-Niv. de druide Sorts de saison
-2 léger comme une plume
-3 rayon de lune
-4 peau d’écorce
-5 lenteur
-6 mur de vent
-7 métamorphose
-8 peau de pierre
-9 passage par les arbres
+|Niv. de druide|Sorts de saison|
+|---|---|
+|2|léger comme une plume|
+|3|rayon de lune|
+|4|peau d’écorce|
+|5|lenteur|
+|6|mur de vent|
+|7|métamorphose|
+|8|peau de pierre|
+|9|passage par les arbres|
 
 ## Hiver
 
-Niv. de druide Sorts de saison
-2 nappe de brouillard
-3 rayon d’affaiblissement
-4 vision dans le noir
-5 communication avec les morts
-6 tempête de neige
-7 tempête de grêle
-8 flétrissement
-9 coquille antivie
+|Niv. de druide|Sorts de saison|
+|---|---|
+|2|nappe de brouillard|
+|3|rayon d’affaiblissement|
+|4|vision dans le noir|
+|5|communication avec les morts|
+|6|tempête de neige|
+|7|tempête de grêle|
+|8|flétrissement|
+|9|coquille antivie|
 
 ## Migration d’été
 
@@ -398,15 +408,16 @@ Vous avez appris la magie secrète du peuple des fées.
 
 Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n’apparaît pas dans la liste de sorts de druide, considérez- le quand même comme un sort de druide.
 
-Niv. de druide Sorts de cercle
-2 appel de familier
-3 invisibilité
-4 pas brumeux
-5 confusion
-6 nuage puant
-7 porte dimensionnelle
-8 terrain hallucinatoire
-9 tromperie
+|Niv. de druide|Sorts de cercle|
+|---|---|
+|2|appel de familier|
+|3|invisibilité|
+|4|pas brumeux|
+|5|confusion|
+|6|nuage puant|
+|7|porte dimensionnelle|
+|8|terrain hallucinatoire|
+|9|tromperie|
 
 ## Disparition instinctive
 
@@ -454,6 +465,18 @@ De plus, vous doublez votre niveau de druide pour déterminer les formes sauvage
 
 À partir du niveau 8, vous gagnez la capacité de vous transformer en une bête dont l’indice de dangerosité est égal à votre niveau de druide divisé par quatre (arrondi à l’inférieur).
 
+|Niv.|Créatures|
+|---|---|
+|2|Oxydeur (ID 1/2), Worg (ID 1/2)|
+|4|Chien du trépas (ID 1), Cockatrice (ID 1/2), Harpie (ID 1), Larve des roches (ID 1), Mante obscure (ID 1/2)|
+|8|Ankheg (ID 2), Ettercap (ID 2), Grick (ID 2), Merrow (ID 2)*, Mimique (ID 2)|
+|12|Basilic (ID 3), Hibours (ID 3), Loup arctique (ID 3), Manticore (ID 3), Minotaure (ID 3)*, Yéti (ID 3)|
+|18|Bulette (ID 5), Enlaceur (ID 5), Gorgone (ID 5), Terreur des roches (ID 5)|
+
+  
+(* Le druide n’obtient aucun équipement lorsqu’il prend cette forme, s’il veut réaliser une attaque avec une arme, il doit se la procurer d’une façon ou d’une autre.)
+
+
 ## Pouvoir des profondeurs
 
 À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir pattes d’araignées pour toute la durée de la transformation. Ce pouvoir vous demande de maintenir votre concentration, toutefois cette concentration ne peut pas être brisée contre votre gré (blessure, provocation, etc.). Si vous décidez volontairement de cesser de vous concentrer, vous devez dépenser une nouvelle forme sauvage pour obtenir de nouveau pattes d’araignées.
@@ -469,19 +492,6 @@ Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois
 Vous devez terminer votre déplacement à l’air libre. Si ce n’est pas le cas, vous subissez 2d6 dégâts par tour, seulement la moitié si vous réussissez un jet de sauvegarde de Constitution DD 15.
 
 
-Niveau 2 Niveau 4 Niveau 8 Niveau 12 Niveau 18
-
-Oxydeur (ID 1/2) Worg (ID 1/2)
-
-Chien du trépas (ID 1) Cockatrice (ID 1/2) Harpie (ID 1) Larve des roches (ID 1) Mante obscure (ID 1/2)
-
-Ankheg (ID 2) Ettercap (ID 2) Grick (ID 2) Merrow (ID 2)* Mimique (ID 2)
-
-Basilic (ID 3) Hibours (ID 3) Loup arctique (ID 3) Manticore (ID 3) Minotaure (ID 3)* Yéti (ID 3)
-
-Bulette (ID 5) Enlaceur (ID 5) Gorgone (ID 5) Terreur des roches (ID 5)
-
-* Le druide n’obtient aucun équipement lorsqu’il prend cette forme, s’il veut réaliser une attaque avec une arme, il doit se la procurer d’une façon ou d’une autre.
 
 
 
