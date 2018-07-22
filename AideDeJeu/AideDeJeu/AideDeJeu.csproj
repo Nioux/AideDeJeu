@@ -144,6 +144,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\monk_enlightenment_hd.md" Link="Data\monk_enlightenment_hd.md" />
+    <EmbeddedResource Include="..\..\Data\monk_fiveanimals_hd.md" Link="Data\monk_fiveanimals_hd.md" />
+    <EmbeddedResource Include="..\..\Data\monk_flexibility_hd.md" Link="Data\monk_flexibility_hd.md" />
+    <EmbeddedResource Include="..\..\Data\monk_openhand_hd.md" Link="Data\monk_openhand_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
