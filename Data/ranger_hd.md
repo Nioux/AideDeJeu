@@ -225,172 +225,21 @@ Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos en
 
 Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l’archer arcanique, le chasseur, l’exilé et le traqueur.
 
-[][Generic]
+## [Chasseur]
 
-# Chasseur
+## [Archer arcanique]
 
-Adopter l’archétype du chasseur signifie accepter votre place comme rempart entre la civilisation et les terreurs qui hantent la nature. En suivant la voie du chasseur, vous apprenez des techniques spécifiques vous permettant d’affronter diverses menaces, que ce soient des ogres déchaînés, des hordes d’orcs, d’immenses géants ou de terrifiants dragons.
+## [Exilé]
 
-## La proie du chasseur
+## [Traqueur]
 
-Au niveau 3, vous pouvez choisir l’une des trois aptitudes suivantes.
+## [Pisteur]
 
-Tueur de colosses. Votre ténacité vous permet de venir à bout des plus terribles ennemis. Quand vous réussissez à toucher une créature avec une arme, vous lui infligez 1d8 dégâts supplémentaires si elle possède moins de points de vie que son maximum. Vous ne pouvez infliger ces dégâts supplémentaires qu’une fois par tour.
-
-Tueur de géants. Quand une créature de taille grande ou supérieure qui se trouve dans un rayon de 1,50 mètre de vous et que vous pouvez voir vous cible avec une attaque, que cette attaque soit réussie ou ratée, vous pouvez utiliser votre réaction pour effectuer une attaque contre cette créature.
-
-Briseur de hordes. Une fois par tour, quand vous faites une attaque avec une arme, vous pouvez attaquer une seconde fois avec la même arme en ciblant une autre créature, dans la mesure où celle-ci se trouve dans un rayon de 1,50 mètre autour de la première créature et à portée de votre arme.
-
-## Tactiques défensives
-
-Au niveau 7, vous pouvez choisir l’une des trois aptitudes suivantes.
-
-Échapper à la horde. Les attaques d’opportunité qui sont portées contre vous subissent un désavantage.
-
-Défense contre les attaques multiples. Quand une créature vous touche avec une attaque, vous gagnez un bonus de CA de +4 contre toutes les autres attaques que peut faire cette créature pour le reste du tour.
-
-Moral d’acier. Vous obtenez un avantage sur les jets de sauvegarde contre tout effet provoquant l’état terrorisé.
-
-## Attaques multiples
-
-Au niveau 11, vous pouvez choisir l’une des deux aptitudes suivantes.
-
-Salve. Vous pouvez utiliser votre action pour faire une attaque à distance contre autant de créatures que vous le voulez, dans la mesure où elles se trouvent dans un rayon de 3 mètres autour d’un point que vous avez défini dans la zone de portée de votre arme. Vous devez avoir une munition pour chaque cible, bien entendu, et vous lancez un jet d’attaque séparé pour chaque cible.
-
-Attaque tourbillonnante. Vous pouvez utiliser votre action pour faire une attaque de corps-à-corps contre autant de créatures que vous le souhaitez dans la mesure où elles se trouvent dans un rayon de 1,50 mètre autour de vous, en faisant un jet d’attaque séparé pour chaque créature.
-
-## Défense de chasseur supérieure
-
-Au niveau 15, vous pouvez choisir l’une des trois aptitudes suivantes.
-
-Dérobade. Si vous subissez un effet, comme le souffle enflammé d’un dragon rouge ou un sort d’éclair, qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
-
-Retour de bâton. Quand une créature hostile vous cible et rate son attaque de corps-à-corps, vous pouvez utiliser votre réaction pour contraindre cette créature à répéter la même attaque contre une autre créature de votre choix, à l’exception d’elle-même.
-
-Esquive instinctive. Quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque .
-
-[][Generic]
-
-# Archer arcanique
-
-L’archer arcanique est un rôdeur capable de canaliser sa magie pour enchanter ses flèches de façon à les rendre plus létales ou à leur permettre d’atteindre des cibles hors de portée pour tout autre que lui.
-
-## Flèche arcanique
-
-Dès le niveau 3, vous devenez capable d’enchanter votre flèche afin d’améliorer grandement sa précision et ses dégâts. En utilisant une action bonus et en dépensant un emplacement de sort, vous obtenez un avantage sur une attaque à distance réalisée dans le même round, et vous ajoutez 1d6 aux dégâts par niveau du sort utilisé.
-
-La flèche est considérée comme magique en ce qui concerne la résistance aux dégâts des créatures.
-
-## Flèche infaillible
-
-À partir du niveau 7, vous pouvez murmurer à votre flèche pour lui indiquer sa cible. Vous la décochez en l’air et elle se dirige sur son objectif sans que vous ayez besoin de le voir. Vous utilisez une action bonus pour indiquer votre cible, puis vous devez tirer dans le même round. Vous ne pouvez tirer une flèche de cette façon que sur une créature que vous avez vue depuis moins d’une minute et qui est à portée. La flèche fonce sur sa cible et contourne tous les obstacles pour l’atteindre (par exemple, en tournant à l’angle des couloirs ou en passant par une ouverture étroite, etc.). Seuls les obstacles infranchissables peuvent stopper la flèche. Votre attaque est un succès automatique et inflige ses dégâts habituels.
-
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, puis vous devez terminer un repos long pour récupérer cette aptitude.
-
-## Flèche intangible
-
-À partir du niveau 11, cette aptitude remplace et annule flèche infaillible. Cette fois, la flèche devient intangible pour passer à travers les obstacles (murs, créatures) et vous pouvez cibler une créature que vous avez vue depuis moins de 12 heures. Les barrières magiques comme un mur de force bloquent la flèche. Votre attaque est un succès automatique et inflige ses dégâts habituels.
-
-## Flèche tueuse
-
-Lorsque vous atteignez le niveau 15, vous pouvez enchanter une flèche tueuse pour une cible spécifique que vous avez personnellement observée pendant au moins 1 round ou dont vous possédez une relique (une écaille de ce dragon, une griffe de ce prédateur, etc). Le rituel d’enchantement dure 1 heure et il reste effectif jusqu’à ce que la flèche atteigne sa cible ou jusqu’à ce que vous en enchantiez une autre. Si vous atteignez la cible pour laquelle vous avez enchanté cette flèche, elle subit 12d6 dégâts perforants et elle est entravée pour jusqu’à la fin de votre prochain tour. Si elle réussit un jet de sauvegarde de Constitution de même difficulté que pour vos sorts, elle subit seulement la moitié des dégâts et elle n’est pas entravée. Vous devez terminer un repos long avant de pouvoir enchanter une nouvelle flèche tueuse. Vous pouvez utiliser vos aptitudes de flèche infaillible ou de flèche intangible lorsque vous tirez votre flèche tueuse, mais pas celle de flèche arcanique.
-
-La flèche tueuse possède les propriétés d’une flèche ordinaire non magique si elle est utilisée par une autre créature que le rôdeur qui l’a fabriqué.
-
-[][Generic]
-
-# Exilé
-
-L’exilé est l’héritier d’une longue tradition ou d’une lignée de sang noble dont la nation est tombée aux mains d’un ennemi séculaire. Il est le dépositaire de savoirs anciens sur les plantes qui s’éteindront probablement avec sa lignée, et il parcourt le monde pour éloigner les spectres du passé ou se préparer à l’ultime affrontement contre ses ennemis de toujours.
-
-## Plantes médicinales
-
-À partir du niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous pouvez appliquer des herbes médicinales sur un nombre de créatures égal à votre bonus de maîtrise, vous inclus, durant un repos court. A la fin du repos, chaque patient récupère un nombre de d6 Points de Vie égal à votre bonus de maîtrise. Vous pouvez utiliser cette aptitude une fois entre deux repos longs. A partir du niveau 11, vous pouvez l'utiliser deux fois entre deux repos longs
-
-Vous obtenez un avantage à tous vos tests de Sagesse (Médecine), d’Intelligence (Nature), de Sagesse (Perception) ou de Sagesse (Survie) qui concernent les plantes.
-
-## Némésis
-
-Lorsque vous atteignez le niveau 7, une longue lutte ou une longue rancoeur vous rendent d’une efficacité redoutable contre vos ennemis ancestraux. Vous ajoutez 1d6 aux dégâts de chaque attaque au corps-à-corps ou à distance que vous infligez à vos ennemis jurés.
-
-## Plantes miraculeuses
-
-À partir du niveau 11, si vous êtes sur un terrain de prédilection, vous pouvez utiliser des plantes pour neutraliser un poison sur vous-même ou un allié à votre contact en utilisant une action. Vous pouvez utiliser cette aptitude autant de fois que votre bonus de maîtrise avant de devoir prendre un repos long. De plus, vous obtenez la maîtrise des jets de sauvegarde de Constitution.
-
-## Éradication
-
-À partir du niveau 15, vous êtes d’une efficacité sans égale face à vos ennemis jurés. Vous ajoutez 2d6 aux dégâts de chaque attaque au corps-à-corps ou à distance que vous infligez à vos ennemis jurés. Cette aptitude remplace némésis.
-
-[][Generic]
-
-# Traqueur
-
-Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu’il s’agit de trouver et d’éliminer des adversaires sur son terrain de prédilection.
-
-## Terrain de prédilection
-
-Dès le niveau 3, vous faites l’acquisition d’un second terrain de prédilection. De plus vous ajoutez les profondeurs (milieu naturel souterrain) à la liste des terrains de prédilection qui vous sont accessibles.
-
-## Pièges
-
-Également au niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous êtes capable de piéger une zone de 3 mètres de côté en seulement 5 minutes.
-
-Toute créature qui s’apprête à entrer dans la zone piégée doit faire un test de Sagesse (Perception) pour détecter le piège (difficulté équivalente à un sort). Vous pouvez choisir l’effet du piège parmi deux variantes :
-
-Piège létal (projectile, fosse, chausse-trappe, etc.). Inflige 1d6 dégâts par point de bonus de maîtrise. Si la victime réussit un jet de sauvegarde de Dextérité, elle ne subit que la moitié des dégâts.
-
-Piège immobilisant (filet, collet, liane, etc.). La victime est entravée pendant 2d6 rounds. À son tour, elle peut utiliser son action pour se délivrer en réussissant une sauvegarde de Force ou de Dextérité au choix.
-
-Le DD est de 8 + votre modificateur de Dextérité + votre bonus de maîtrise. Vous pouvez poser un piège en seulement 1d6 rounds, mais la victime obtient un avantage à son test de compétence pour le détecter. Si vous passez 1 heure à poser un piège, la victime subit un désavantage à son test pour le détecter et pour en réduire l’effet.
-
-Un piège qui a affecté une créature n’est plus actif. Il peut être réamorcé en seulement 1d6 rounds.
-
-## Avantage du terrain
-
-Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
-
-* Votre groupe ne peut plus être surpris (sauf si vous en décidez autrement).
-* Vous obtenez un avantage en initiative.
-* Vous obtenez un avantage à tous vos tests de Force (Athlétisme) et de Dextérité (Discrétion).
-
-## Terrain favorable
-
-À partir du niveau 11, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
-
-* Vous pouvez utiliser votre réaction pour obtenir au choix un avantage sur un test d’attaque ou imposer un désavantage à une attaque dont vous êtes la cible.
-* Il vous faut seulement 10 minutes pour bénéficier des effets d’un repos court et 4 heures pour bénéficier des effets d’un repos long.
-
-## Maître du terrain
-
-Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus, désormais, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices suivants :
-
-* En combat, vous pouvez effectuer une action bonus à chacun de vos tours. Cette action ne peut être utilisée que pour faire une unique attaque au corps-à-corps ou à distance, vous désengager ou se précipiter. Si vous utilisez une arme dans chaque main, exceptionnellement, cette action bonus vous permet de faire une attaque depuis chacune de vos mains (en utilisant les limitations habituelles en ce qui concerne la seconde arme).
-* Lorsque vous prenez un repos court, vous récupérez un nombre de points de vie égal à 1d8 + votre modificateur de Constitution s’il ne vous reste pas plus de la moitié de vos points de vie.
-
-[][Generic]
-
-# Pisteur : un rôdeur alternatif
-
-Pour obtenir un rôdeur moins basé sur la magie, vous pouvez opter pour l’aptitude rustique dès que le personnage atteint le niveau 3. Cette aptitude réduit votre accès à la magie et, en échange, vous pouvez choisir deux archétypes de rôdeur de votre choix (à l’exception d’archer arcanique) au lieu d’un seul et en cumuler les aptitudes. Cela revient à limiter votre accès à la magie en échange d’autres aptitudes.
-
-## Rustique
-
-À partir du niveau 3, vous négligez l’apprentissage de la magie au profit de compétences plus pratiques. Vous remplacez votre niveau de personnage par votre bonus de maîtrise pour déterminer le nombre de sorts que vous apprenez et que vous pouvez lancer dans la table de progression du rôdeur. Autrement dit, vous lancez des sorts comme un rôdeur d’un niveau égal à votre bonus de maîtrise (si vous êtes multiclassé, déterminez votre bonus de maîtrise pour cette capacité en comptant uniquement vos niveaux de rôdeur, et non votre niveau global).
-
-Par exemple, au niveau 15 (bonus de maîtrise de +5), vous utilisez la magie comme le ferait normalement un rôdeur de niveau 5, ce qui vous permet d’apprendre quatre sorts et de lancer quatre sorts de niveau 1 et un sort de niveau 2.
-
-## Expert en survie
-
-Également au niveau 3, en remplacement de l’aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix issues de la liste de rôdeur. De plus, vous choisissez deux compétences issues de cette liste parmi celles que vous maîtrisez déjà, et vous doublez leur bonus de maîtrise.
-
-## Style de combat supplémentaire
-
-Au niveau 13, vous pouvez choisir un deuxième style de combat.
-
-## Attaque supplémentaire
-
-À partir du niveau 20, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
-
+[Chasseur]: ranger_hunter_hd.md
+[Archer arcanique]: ranger_arcane_hd.md
+[Exilé]: ranger_exile_hd.md
+[Traqueur]: ranger_tracker_hd.md
+[Pisteur]: ranger_pisteur_hd.md
 
 [Items]: #
 [Generic]: #

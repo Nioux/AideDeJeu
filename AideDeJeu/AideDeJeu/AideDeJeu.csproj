@@ -159,6 +159,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\ranger_arcane_hd.md" Link="Data\ranger_arcane_hd.md" />
+    <EmbeddedResource Include="..\..\Data\ranger_exile_hd.md" Link="Data\ranger_exile_hd.md" />
+    <EmbeddedResource Include="..\..\Data\ranger_hunter_hd.md" Link="Data\ranger_hunter_hd.md" />
+    <EmbeddedResource Include="..\..\Data\ranger_pisteur_hd.md" Link="Data\ranger_pisteur_hd.md" />
+    <EmbeddedResource Include="..\..\Data\ranger_tracker_hd.md" Link="Data\ranger_tracker_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

@@ -1,0 +1,38 @@
+[][Items]
+
+# Pisteur
+
+[][Generic]
+
+# Pisteur : un rôdeur alternatif
+
+Pour obtenir un rôdeur moins basé sur la magie, vous pouvez opter pour l’aptitude rustique dès que le personnage atteint le niveau 3. Cette aptitude réduit votre accès à la magie et, en échange, vous pouvez choisir deux archétypes de rôdeur de votre choix (à l’exception d’archer arcanique) au lieu d’un seul et en cumuler les aptitudes. Cela revient à limiter votre accès à la magie en échange d’autres aptitudes.
+
+[][Generic]
+
+## Rustique
+
+À partir du niveau 3, vous négligez l’apprentissage de la magie au profit de compétences plus pratiques. Vous remplacez votre niveau de personnage par votre bonus de maîtrise pour déterminer le nombre de sorts que vous apprenez et que vous pouvez lancer dans la table de progression du rôdeur. Autrement dit, vous lancez des sorts comme un rôdeur d’un niveau égal à votre bonus de maîtrise (si vous êtes multiclassé, déterminez votre bonus de maîtrise pour cette capacité en comptant uniquement vos niveaux de rôdeur, et non votre niveau global).
+
+Par exemple, au niveau 15 (bonus de maîtrise de +5), vous utilisez la magie comme le ferait normalement un rôdeur de niveau 5, ce qui vous permet d’apprendre quatre sorts et de lancer quatre sorts de niveau 1 et un sort de niveau 2.
+
+[][Generic]
+
+## Expert en survie
+
+Également au niveau 3, en remplacement de l’aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix issues de la liste de rôdeur. De plus, vous choisissez deux compétences issues de cette liste parmi celles que vous maîtrisez déjà, et vous doublez leur bonus de maîtrise.
+
+[][Generic]
+
+## Style de combat supplémentaire
+
+Au niveau 13, vous pouvez choisir un deuxième style de combat.
+
+[][Generic]
+
+## Attaque supplémentaire
+
+À partir du niveau 20, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
+
+[Items]: #
+[Generic]: #
