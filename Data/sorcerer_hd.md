@@ -229,180 +229,18 @@ Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
 La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si de nombreuses variantes existent, on peut néanmoins les regrouper en grandes lignées : draconique, céleste, féerique et infernale.
 
-[][Generic]
+## [Lignée draconique]
 
-# Lignée draconique
+## [Lignée céleste]
 
-Votre magie innée est une résurgence de la magie draconique mêlée à votre sang ou celui de vos ancêtres.
+## [Lignée féerique]
 
-Le plus souvent, les ensorceleurs qui ont cette origine peuvent retracer leur ascendance jusqu’à un grand ensorceleur des temps anciens qui a passé un pacte avec un dragon ou qui a lui-même eu un dragon comme parent.
+## [Lignée infernale]
 
-Certaines de ces lignées sont bien établies, mais la plupart du temps elles sont assez obscures. N’importe quel ensorceleur peut être le premier d’une nouvelle lignée suite à un pacte ou une autre circonstance exceptionnelle.
-
-## Ancêtre dragon
-
-Au niveau 1, vous choisissez un type de dragon comme ancêtre. Le type de dégâts associé à chaque dragon est pris en compte dans les aptitudes que vous gagnerez plus tard.
-
-Vous pouvez parler, lire et écrire en draconique.
-
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des dragons, votre bonus de maîtrise est doublé s’il s’applique.
-
-
-## Lignée draconique
-
-|Dragon|Type de dégâts|
-|---|---|
-|Airain|Feu|
-|Argent|Froid|
-|Blanc|Froid|
-|Bleu|Foudre|
-|Bronze|Foudre|
-|Cuivre|Acide|
-|Noir|Acide|
-|Or|Feu|
-|Rouge|Feu|
-|Vert|Poison|
-
-## Résistance draconique
-
-Avec le temps, la magie qui parcourt vos veines fait émerger certains traits physiques de vos ancêtres dragons.
-
-Au niveau 1, votre maximum de points de vie augmente de 1, puis encore de 1 à chaque fois que vous gagnez un niveau dans cette classe.
-
-De plus, votre peau est partiellement couverte d’une fine couche d’écailles ressemblant à celle des dragons.
-
-Quand vous ne portez pas d’armure, votre CA est égale à 13 + votre modificateur de Dextérité.
-
-## Affinité élémentaire
-
-À partir du niveau 6, quand vous lancez un sort qui inflige des dégâts du type associé à votre héritage draconique, vous pouvez ajouter votre modificateur de Charisme à ces dégâts. Vous pouvez dans le même temps dépenser 1 point de sorcellerie pour devenir résistant à ce type de dégâts pendant 1 heure.
-
-## Ailes de dragon
-
-Au niveau 14, vous gagnez la capacité de faire émerger des ailes de dragon de votre dos. Vous gagnez alors une vitesse en vol égale à votre vitesse actuelle. Vous pouvez créer ces ailes comme une action bonus lors de votre tour. Vous les conservez tant que vous ne décidez pas d’utiliser une action bonus pendant votre tour pour les faire disparaître.
-
-Vous ne pouvez pas utiliser ces ailes si vous portez une armure, sauf si l’armure a été conçue dans ce but.
-
-Les vêtements que vous portez qui n’ont pas été conçus en tenant compte de vos ailes peuvent être déchirés quand elles émergent.
-
-## Présence draconique
-
-À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir charmée (si vous choisissez la fascination) ou terrorisée (si vous choisissez la terreur) jusqu’à ce que l’aura se dissipe.
-
-Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures.
-
-[][Generic]
-
-# Lignée céleste
-
-Les célestes sont des entités issues des plans supérieurs, soit les plans qui abritent les créatures d’alignement Bon. Votre magie innée est une résurgence de la magie céleste mêlée à votre sang ou à celui de vos ancêtres. La plupart des ensorceleurs de lignée céleste descendent de puissants magiciens ou ensorceleurs qui ont conclu des pactes avec des archanges. À l’instar des Aasimar, une part de sang angélique coule dans leurs veines, bien qu’en quantité moindre. Toutefois, en matière de magie comme dans tant d’autres domaines, ce n’est pas la quantité qui détermine la qualité du pouvoir. Ce qui n’empêche pas les aasimar d’être de parfaits candidats pour cette lignée.
-
-## Ancêtre céleste
-
-Vous pouvez parler, lire et écrire en céleste.
-
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des célestes, votre bonus de maîtrise est doublé s’il s’applique.
-
-## Énergie positive
-
-Au niveau 1, bénéficiez d'un avantage à tous les jets de sauvegarde contre l’état terrorisé. Lorsque vous êtes terrorisé, vous divisez la durée de l’effet par deux.
-
-L’utilisation de la magie produit un flux d’énergie positive dans votre corps. À chaque fois que vous dépensez des points de sorcellerie, vous récupérez autant de points de vie que de points de sorcellerie utilisés.
-
-Enfin, lorsque vous lancez un sort dont le type de dégâts correspond à feu ou foudre, vous pouvez dépenser 1 point de sorcellerie pour le remplacer par des dégâts de type radiant. Vous pouvez le faire sans dépenser de point de sorcellerie s’il s’agit d’un tour de magie.
-
-## Magie céleste
-
-À partir du niveau 6, votre lignée vous donne accès aux sorts de paladin. Vous apprenez immédiatement un sort de votre choix dans la liste de paladin de niveau 1. Vous apprenez un sort de paladin de niveau 2 lorsque vous atteignez le niveau 9 d’ensorceleur et un sort de niveau 3 lorsque vous atteignez le niveau 12.
-
-Ces sorts ne comptent pas dans le nombre total de sorts que vous connaissez. Vous lancez les sorts de paladin comme s’il s’agissait de sorts d’ensorceleur (le Charisme est votre caractéristique de magie) et vous pouvez utiliser des points de sorcellerie pour modifier les effets de vos sorts de paladin.
-
-## Prière de soins
-
-Au niveau 14, en dépensant 3 points de sorcellerie, vous pouvez lancer le sort prière de soins au niveau 2.
-
-Vous pouvez dépenser davantage de points de sorcellerie pour le lancer avec un emplacement de sort supérieur : vous utilisez pour cela le tableau de création d’emplacements de sort de l’ensorceleur (voir Source de magie). Vous devez terminer un repos court ou long avant de pouvoir utiliser de nouveau cette aptitude.
-
-## Présence angélique
-
-À partir du niveau 18, vous pouvez invoquer la présence apaisante de votre ancêtre céleste, redonnant courage et moral aux alliés qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de paix dans un rayon de 18 mètres.
-
-Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), tous les alliés qui débutent leur tour dans la zone d'effet ne peuvent être charmés, terrorisés ou empoisonnés jusqu’à ce que l’aura se dissipe. De plus, tant que vous êtes sous l’effet de cette aura, vous pouvez lancer le sort mineur flamme sacrée en action bonus en dépensant 1 point de sorcellerie.
-
-[][Generic]
-
-# Lignée féerique
-
-Les fées sont des créatures magiques étroitement liées à la nature, et votre pouvoir puise sa source dans leur magie, à travers votre sang ou celui de vos ancêtres.
-
-Les ensorceleurs de lignée féerique descendent de héros, lanceurs de sorts ou non, qui ont conclu des pactes avec une cour féerique ou ont vécu une idylle amoureuse et enchanteresse avec une créature féerique (dryade, satyre, nymphe, etc.). La magie conférée par cette lignée a pu rester dormante pendant plusieurs générations et se révéler soudainement. Cependant, la plupart du temps, lorsqu’un jeune enfant révèle brusquement des pouvoirs magiques étranges, ses parents soupçonnent le petit peuple d’avoir échangé leur nouveau- né avec un bâtard féerique. À tort ou à raison ?
-
-## Ancêtre féerique
-
-Vous pouvez parler, lire et écrire en sylvain.
-
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fées, votre bonus de maîtrise est doublé s’il s’applique.
-
-## Héritage féerique
-
-Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous bénéficiez d'un avantage à tous les tests de Charisme destinés à séduire ou charmer.
-
-De plus, vous avez une affinité pour les armes de la forêt, au premier niveau vous acquérez la maîtrise de l’arc court et de la lance.
-
-## Magie féerique
-
-La magie des fées est subtile et adaptable, vous apprenez une option de métamagie supplémentaire au niveau 6. De plus, vous gagnez 1 point de sorcellerie supplémentaire si vous connaissez au moins quatre sorts d’ensorceleur issus des écoles d’illusion ou d’enchantement.
-
-À partir de huit sorts, vous gagnez 1 nouveau point de sorcellerie supplémentaire pour un total de 2 et si vous connaissez douze sorts d’ensorceleur, issus des écoles d’illusion ou d’enchantement, vous gagnez encore un point de plus pour un total de 3 points de sorcellerie supplémentaires.
-
-## Charme intense
-
-Au niveau 14, lorsque vous lancez un sort de l’école d’enchantement, vous pouvez utiliser votre réaction pour obtenir 1 point de sorcellerie que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d’autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
-
-De plus, vous bénéficiez d'un avantage aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d’enchantement.
-
-## Forme animale
-
-À partir du niveau 18, vous pouvez lancer le sort formes animales en dépensant 5 points de sorcellerie (aucun emplacement de sort n’est nécessaire). Toutefois, cette version particulière du sort n’affecte que vous-même et ne peut pas s’appliquer à d’autres cibles.
-
-Vous pouvez y mettre fin à tout moment en utilisant une action.
-
-[][Generic]
-
-# Lignée infernale
-
-Votre magie innée est une résurgence de la magie fiélonne mêlée à votre sang ou à celui de vos ancêtres.
-
-Généralement, les ensorceleurs issus de cette origine peuvent retracer leur ascendance jusqu’à un puissant lanceur de sort des temps anciens qui a passé un pacte avec un démon ou un diable majeur. Plus rarement, cet ancêtre a eu une telle créature comme parent mais, bien que des exceptions existent, cela s’exprime alors habituellement par l’appartenance à la race des tieffelins.
-
-Bien entendu, les tieffelins eux-mêmes sont particulièrement adaptés à une telle lignée.
-
-## Ancêtre fiélon
-
-Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre lignée descende des démons ou des diables.
-
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s’il s’applique.
-
-## Résistance des fiélons
-
-Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l’état empoisonné, il dure deux fois moins longtemps.
-
-En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
-
-## Magie du sang
-
-À partir du niveau 6, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points de vie et vous gagnez immédiatement 1 point de sorcellerie que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de vie supplémentaires pour chaque point de sorcellerie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux repos courts ou longs.
-
-## Résistance supérieure
-
-À mesure que la magie de votre lignée coule dans vos veines, elle fait émerger la résistance des fiélons aux agressions élémentaires. Au niveau 14, en dépensant 1point de sorcellerie et une action bonus, vous obtenez la résistance aux dégâts de feu, de foudre et de froid pendant un nombre de minutes égal à votre bonus de maîtrise.
-
-## Forme infernale
-
-À partir du niveau 18, vous pouvez dépenser des points de sorcellerie et votre action pour prendre une forme infernale. Cette aptitude est équivalente au sort changement de forme (avec la nécessité de maintenir sa concentration), mais vous ne pouvez prendre la forme que de diables ou de démons. En fonction de votre lignée, vous devez choisir entre les diables et les démons au moment de l’acquisition de l’aptitude.
-
-La transformation vous coûte un nombre de points de sorcellerie égal à l’indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitez changer de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l’aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
-
+[Lignée draconique]: sorcerer_draconic_hd.md
+[Lignée céleste]: sorcerer_celestial_hd.md
+[Lignée féerique]: sorcerer_fairy_hd.md
+[Lignée infernale]: sorcerer_infernal_hd.md
 
 [Items]: #
 [Generic]: #
