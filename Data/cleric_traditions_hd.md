@@ -28,11 +28,13 @@ Par exemple, un gardien des traditions de premier niveau avec un modificateur de
 
 Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
-1. protection contre le mal et le bien
-3. augure
-5. communication avec les morts
-7. divination
-9. coercition mystique
+|Niv.|Sort|
+|---|---|
+|1|protection contre le mal et le bien|
+|3|augure|
+|5|communication avec les morts|
+|7|divination|
+|9|coercition mystique|
 
 [][Generic]
 

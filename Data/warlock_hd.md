@@ -41,7 +41,6 @@ Vous commencez avec l’équipement suivant, en plus de celui accordé par votre
 |Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|
 |---|---|---|---|---|---|---|---|
 |1|+2|Protecteur de l’outremonde, Magie de pacte|2|2|1|1|_|
-
 |2|+2|Invocations occultes|2|3|2|1|2|
 |3|+2|Pacte|2|4|2|2|2|
 |4|+2|Amélioration de caractéristiques|3|5|2|2|2|
@@ -380,7 +379,6 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 |Niv. de sort|Sorts|
 |---|---|
 |1|mains brûlantes, injonction|
-
 |2|cécité/surdité, rayon ardent|
 |3|boule de feu, nuage puant|
 |4|bouclier de feu, mur de feu|
@@ -423,7 +421,6 @@ Le seigneur immortel vous permet de choisir des sorts dans une liste de sorts é
 |Niv.de sort|Sorts|
 |---|---|
 |1|fléau, simulacre de vie|
-
 |2|augure, doux repos|
 |3|animation des morts, communication avec les morts|
 |4|liberté de mouvement, protection contre la mort|
@@ -471,7 +468,6 @@ La puissance des profondeurs vous permet de choisir des sorts dans une liste de 
 |Niv. de sort|Sorts|
 |---|---|
 |1|nappe de brouillard, sommeil|
-
 |2|modifier son apparence, vision dans le noir|
 |3|fusion dans la pierre, respiration aquatique|
 |4|liane chasseresse, insecte géant|
@@ -516,7 +512,6 @@ L’entité extra-dimensionnelle vous permet de choisir des sorts dans une liste
 |Niv. de sort|Sorts|
 |---|---|
 |1|alarme, image silencieuse|
-
 |2|corde enchantée, voir l’invisible|
 |3|clignotement, clairvoyance|
 |4|divination, assassin imaginaire|

@@ -291,7 +291,6 @@ Lorsque vous lancez un sort, vous dépensez un nombre de points de sorcellerie i
 |Niveau de sort|Coût en points de sorcellerie|
 |---|---|
 |1|2|
-
 |2|3|
 |3|5|
 |4|6|

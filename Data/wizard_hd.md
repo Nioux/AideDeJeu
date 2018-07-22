@@ -41,7 +41,6 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|Incantations, Restauration magique|3|2|-|-|-|-|-|-|-|-|
-
 |2|+2|Tradition arcanique|3|3|-|-|-|-|-|-|-|-|
 |3|+2|_|3|4|2|-|-|-|-|-|-|-|
 |4|+2|Amélioration de caractéristiques|4|4|3|-|-|-|-|-|-|-|

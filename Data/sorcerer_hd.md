@@ -40,7 +40,6 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |Niv.|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|_|Incantations, Origine magique|4|2|2|-|-|-|-|-|-|-|-|
-
 |2|+2|2|Source de magie|4|3|3|-|-|-|-|-|-|-|-|
 |3|+2|3|Métamagie|4|4|4|2|-|-|-|-|-|-|-|
 |4|+2|4|Amélioration de caractéristiques|5|5|4|3|-|-|-|-|-|-|-|
@@ -141,7 +140,6 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 |Niveau d’emplacement de sort|Points de sorcellerie dépensés|
 |---|---|
 |1|2|
-
 |2|3|
 |3|5|
 |4|6|
@@ -255,7 +253,6 @@ De plus, à chaque fois que vous faites un test de Charisme alors que vous inter
 |Dragon|Type de dégâts|
 |---|---|
 |Airain|Feu|
-
 |Argent|Froid|
 |Blanc|Froid|
 |Bleu|Foudre|

@@ -41,7 +41,6 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |Niv.|Bonus de maîtrise|Aptitudes|Sorts connus|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|
 |1|+2|Ennemi juré, Explorateur-né|_|-|-|-|-|-|
-
 |2|+2|Style de combat, Incantations|2|2|-|-|-|-|
 |3|+2|Archétype de rôdeur, Vigilance primitive|3|3|-|-|-|-|
 |4|+2|Amélioration de caractéristiques|3|3|-|-|-|-|

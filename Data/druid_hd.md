@@ -117,7 +117,6 @@ Votre niveau de druide détermine en quel animal vous pouvez vous transformer (v
 |Niv.|ID|Limitations|Exemple|
 |---|---|---|---|
 |2|1/4|Pas de vitesse de vol ou de nage|Loup|
-
 |4|1/2|Pas de vitesse de vol|Crocodile|
 |8|1|_|Aigle géant|
 

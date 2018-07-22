@@ -44,11 +44,13 @@ Dès le niveau 2, vous obtenez une canalisation d’énergie divine qui dépend 
 
 Air
 
-1. léger comme une plume
-3. bourrasque
-5. vol
-7. forme gazeuse
-9. invoquer élémentaire (Air)
+|Niv.|Sort|
+|---|---|
+|1|léger comme une plume|
+|3|bourrasque|
+|5|vol|
+|7|forme gazeuse|
+|9|invoquer élémentaire (Air)|
 
 [][Generic]
 
@@ -58,11 +60,13 @@ Cette aptitude a exactement les mêmes effets que si vous lanciez le sort dessic
 
 Arts
 
-1. illusion mineure
-3. instrument fantomatique
-5. motif hypnotique
-7. façonnage de la pierre
-9. apparence trompeuse
+|Niv.|Sort|
+|---|---|
+|1|illusion mineure|
+|3|instrument fantomatique|
+|5|motif hypnotique|
+|7|façonnage de la pierre|
+|9|apparence trompeuse|
 
 [][Generic]
 
@@ -72,11 +76,13 @@ Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Penda
 
 Charme, amour
 
-1. charme-personne
-3. suggestion
-5. envoi de message
-7. confusion
-9. modification de mémoire
+|Niv.|Sort|
+|---|---|
+|1|charme-personne|
+|3|suggestion|
+|5|envoi de message|
+|7|confusion|
+|9|modification de mémoire|
 
 [][Generic]
 
@@ -86,11 +92,13 @@ Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un d�
 
 Connaissance
 
-1. compréhension des langues
-3. détection des pensées
-5. clairvoyance
-7. divination
-9. contacter un autre plan
+|Niv.|Sort|
+|---|---|
+|1|compréhension des langues|
+|3|détection des pensées|
+|5|clairvoyance|
+|7|divination|
+|9|contacter un autre plan|
 
 [][Generic]
 
@@ -100,11 +108,13 @@ Choisissez une cible située dans votre champ de vision et à moins de 18 mètre
 
 Duperie, illusion
 
-1. déguisement
-3. invisibilité
-5. image majeure
-7. confusion
-9. tromperie
+|Niv.|Sort|
+|---|---|
+|1|déguisement|
+|3|invisibilité|
+|5|image majeure|
+|7|confusion|
+|9|tromperie|
 
 [][Generic]
 
@@ -116,11 +126,13 @@ Un attaquant est immunisé à cette aptitude s’il n’utilise pas le sens de l
 
 Eau
 
-1. graisse
-3. dessiccation
-5. respiration aquatique
-7. contrôle de l’eau
-9. invoquer un élémentaire (eau)
+|Niv.|Sort|
+|---|---|
+|1|graisse|
+|3|dessiccation|
+|5|respiration aquatique|
+|7|contrôle de l’eau|
+|9|invoquer un élémentaire (eau)|
 
 [][Generic]
 
@@ -130,11 +142,13 @@ Pendant un nombre de rounds égal à votre bonus de maîtrise, vous obtenez une 
 
 Feu
 
-1. mains brûlantes
-3. sphère de feu
-5. boule de feu
-7. mur de feu
-9. invoquer un élémentaire (Feu)
+|Niv.|Sort|
+|---|---|
+|1|mains brûlantes|
+|3|sphère de feu|
+|5|boule de feu|
+|7|mur de feu|
+|9|invoquer un élémentaire (Feu)|
 
 [][Generic]
 
@@ -144,11 +158,13 @@ Vous touchez une arme et elle inflige 1d6 dégâts de feu supplémentaires penda
 
 Force, Exploits, Courage
 
-1. héroïsme
-3. agrandir (sort agrandir/rétrécir)
-5. bénédiction héroïque
-7. nimbe de bienfaisance
-9. aura de force
+|Niv.|Sort|
+|---|---|
+|1|héroïsme|
+|3|agrandir (sort agrandir/rétrécir)|
+|5|bénédiction héroïque|
+|7|nimbe de bienfaisance|
+|9|aura de force|
 
 [][Generic]
 
@@ -160,11 +176,13 @@ De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 
 
 Froid
 
-1. rayon de givre
-3. manteau de givre
-5. tempête de neige
-7. tempête de grêle
-9. cône de froid
+|Niv.|Sort|
+|---|---|
+|1|rayon de givre|
+|3|manteau de givre|
+|5|tempête de neige|
+|7|tempête de grêle|
+|9|cône de froid|
 
 [][Generic]
 
@@ -174,11 +192,13 @@ Choisissez jusqu’à une cible de votre choix par point de bonus de maîtrise, 
 
 Guerre
 
-1. faveur divine
-3. arme magique
-5. amélioration de caractéristique
-7. bénédiction héroïque
-9. peau de pierre
+|Niv.|Sort|
+|---|---|
+|1|faveur divine|
+|3|arme magique|
+|5|amélioration de caractéristique|
+|7|bénédiction héroïque|
+|9|peau de pierre|
 
 [][Generic]
 
@@ -188,11 +208,13 @@ Vous êtes habité par l’expertise guerrière de votre divinité pendant 1 min
 
 Justice, noblesse
 
-1. serviteur invisible
-3. frappe du juste
-5. zone de vérité
-7. lance du juste
-9. expiation du juste
+|Niv.|Sort|
+|---|---|
+|1|serviteur invisible|
+|3|frappe du juste|
+|5|zone de vérité|
+|7|lance du juste|
+|9|expiation du juste|
 
 [][Generic]
 
@@ -202,11 +224,13 @@ Pendant 1 minute, une fois par round, lorsque vous réussissez une attaque avec 
 
 Lumière
 
-1. lumières dansantes
-3. frappe lumineuse
-5. lumière du jour
-8. nimbe de bienfaisance
-11. rayon de soleil
+|Niv.|Sort|
+|---|---|
+|1|lumières dansantes|
+|3|frappe lumineuse|
+|5|lumière du jour|
+|8|nimbe de bienfaisance|
+|11|rayon de soleil|
 
 [][Generic]
 
@@ -216,11 +240,13 @@ Un rayon lumineux part de votre doigt tendu et s’étend vers un point de votre
 
 Magie
 
-1. main du mage ou prestidigitation
-3. identification
-5. dissipation de la magie
-7. contresort
-9. fabrication
+|Niv.|Sort|
+|---|---|
+|1|main du mage ou prestidigitation|
+|3|identification|
+|5|dissipation de la magie|
+|7|contresort|
+|9|fabrication|
 
 [][Generic]
 
@@ -230,11 +256,13 @@ Vous priez pendant 10 minutes pour préparer un sort de la liste de magicien de 
 
 Maladie, Faiblesse
 
-1. putréfaction
-3. rayon affaiblissant
-5. jeter une malédiction
-7. flétrissement
-9. contagion
+|Niv.|Sort|
+|---|---|
+|1|putréfaction|
+|3|rayon affaiblissant|
+|5|jeter une malédiction|
+|7|flétrissement|
+|9|contagion|
 
 [][Generic]
 
@@ -244,11 +272,13 @@ Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme,
 
 Mort
 
-1. contact glacial
-3. ombres imaginaires
-5. catalepsie
-7. protection contre la mort
-9. nuage mortel
+|Niv.|Sort|
+|---|---|
+|1|contact glacial|
+|3|ombres imaginaires|
+|5|catalepsie|
+|7|protection contre la mort|
+|9|nuage mortel|
 
 [][Generic]
 
@@ -260,11 +290,13 @@ Pendant ce laps de temps, vous pouvez lancer le tour de magie contact glacial en
 
 Nature
 
-1. communication avec les animaux
-3. compagnon animal
-5. communication avec les plantes
-7. terrain hallucinatoire
-9. communion avec la nature
+|Niv.|Sort|
+|---|---|
+|1|communication avec les animaux|
+|3|compagnon animal|
+|5|communication avec les plantes|
+|7|terrain hallucinatoire|
+|9|communion avec la nature|
 
 [][Generic]
 
@@ -274,11 +306,13 @@ Vous lancez le sort invoquer des animaux, toutefois la somme des indices de dang
 
 Nuit, Ténèbres
 
-1. nappe de brouillard
-3. ténèbres
-5. vision dans le noir
-7. invisibilité supérieure
-9. rêve
+|Niv.|Sort|
+|---|---|
+|1|nappe de brouillard|
+|3|ténèbres|
+|5|vision dans le noir|
+|7|invisibilité supérieure|
+|9|rêve|
 
 [][Generic]
 
@@ -288,11 +322,13 @@ Vous obtenez l’aptitude vision aveugle (cf. p.275) et vous êtes immunisé à 
 
 Protection
 
-1. alarme
-3. flou
-5. cercle magique
-7. chien de garde
-9. coquille antivie
+|Niv.|Sort|
+|---|---|
+|1|alarme|
+|3|flou|
+|5|cercle magique|
+|7|chien de garde|
+|9|coquille antivie|
 
 [][Generic]
 
@@ -302,11 +338,13 @@ Vous obtenez une résistance à tous les types de dégâts pendant 1 round par p
 
 Temps
 
-1. repli expéditif
-3. pas brumeux
-5. hâte
-7. porte dimensionnelle
-9. immobiliser un monstre
+|Niv.|Sort|
+|---|---|
+|1|repli expéditif|
+|3|pas brumeux|
+|5|hâte|
+|7|porte dimensionnelle|
+|9|immobiliser un monstre|
 
 [][Generic]
 
@@ -316,11 +354,13 @@ Cette aptitude fait exception à la règle générale de canalisation d’énerg
 
 Terre
 
-1. enchevêtrement
-3. stalagmites fulgurantes
-5. fusion dans la pierre
-7. peau de pierre
-9. invoquer un élémentaire (Terre)
+|Niv.|Sort|
+|---|---|
+|1|enchevêtrement|
+|3|stalagmites fulgurantes|
+|5|fusion dans la pierre|
+|7|peau de pierre|
+|9|invoquer un élémentaire (Terre)|
 
 [][Generic]
 
@@ -330,11 +370,13 @@ Vous pouvez vous déplacer à travers la pierre ou la terre d’un sol ou d’un
 
 Tonnerre, tempête
 
-1. vague tonnante
-3. bourrasque
-5. appel de la foudre
-8. tempête de grêle
-11. chaîne d’éclairs
+|Niv.|Sort|
+|---|---|
+|1|vague tonnante|
+|3|bourrasque|
+|5|appel de la foudre|
+|8|tempête de grêle|
+|11|chaîne d’éclairs|
 
 [][Generic]
 
@@ -344,11 +386,13 @@ Pendant une minute, à chaque fois qu’une créature réussit une attaque de co
 
 Vie, soins
 
-1. soin des blessures
-3. restauration inférieure
-5. vitalité
-7. panacée
-9. restauration supérieure
+|Niv.|Sort|
+|---|---|
+|1|soin des blessures|
+|3|restauration inférieure|
+|5|vitalité|
+|7|panacée|
+|9|restauration supérieure|
 
 [][Generic]
 
@@ -358,11 +402,13 @@ Vous et jusqu’à cinq alliés dans votre champ de vision, dans un rayon de 9 m
 
 Voyage
 
-1. grande foulée
-3. passage sans traces
-5. monture fantôme
-7. porte dimensionnelle
-9. passage par les arbres
+|Niv.|Sort|
+|---|---|
+|1|grande foulée|
+|3|passage sans traces|
+|5|monture fantôme|
+|7|porte dimensionnelle|
+|9|passage par les arbres|
 
 [][Generic]
 

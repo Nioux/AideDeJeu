@@ -36,6 +36,7 @@ namespace Markdig.Renderers.Normalize
                 }
                 renderer.Write("\n");
             }
+            renderer.Write("\n");
 
             //renderer.Write("\n\n" + obj.ToMarkdownString() + "\n\n");
             //var headingText = obj.Level > 0 && obj.Level <= 6
