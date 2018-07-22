@@ -60,6 +60,31 @@ namespace AideDeJeuLib
                         return;
                     }
                 }
+                else if (block is ListBlock)
+                {
+                    var listBlock = block as ListBlock;
+                    if (listBlock.BulletType == '-')
+                    {
+                        var regex = new Regex("(?<key>.*?): (?<value>.*)");
+                        var str = block.ToMarkdownString();
+                        var properties = new List<Tuple<string, Action<LinkItem, string>>>()
+                        {
+                            new Tuple<string, Action<LinkItem, string>>("- AltName: ", (m, s) =>
+                            {
+                                m.AltName = s;
+                            })
+                        };
+
+                        foreach (var property in properties)
+                        {
+                            if (str.StartsWith(property.Item1))
+                            {
+                                property.Item2.Invoke(this, str.Substring(property.Item1.Length));
+                                break;
+                            }
+                        }
+                    }
+                }
                 enumerator.MoveNext();
             }
         }

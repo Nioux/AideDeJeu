@@ -5,6 +5,7 @@
 [][LinkItem]
 
 ## [Barbare]
+- AltName: [Barbarian](#)
 
 [][LinkItem]
 
