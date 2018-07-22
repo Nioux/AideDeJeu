@@ -5,30 +5,37 @@
 [][LinkItem]
 
 ## [Demi-elfe]
+- AltName: [Half-Elf](#)
 
 [][LinkItem]
 
 ## [Demi-orc]
+- AltName: [Half-Orc](#)
 
 [][LinkItem]
 
 ## [Elfe]
+- AltName: [Elf](#)
 
 [][LinkItem]
 
 ## [Gnome]
+- AltName: [Gnome](#)
 
 [][LinkItem]
 
 ## [Halfelin]
+- AltName: [Halfling](#)
 
 [][LinkItem]
 
 ## [Humain]
+- AltName: [Human](#)
 
 [][LinkItem]
 
 ## [Nain]
+- AltName: [Dwarf](#)
 
 [][LinkItem]
 
@@ -49,10 +56,12 @@
 [][LinkItem]
 
 ## [Sangdragon]
+- AltName: [Dragonborn](#)
 
 [][LinkItem]
 
 ## [Tieffelin]
+- AltName: [Tiefling](#)
 
 [Demi-elfe]: half-elf_hd.md
 [Demi-orc]: half-orc_hd.md
