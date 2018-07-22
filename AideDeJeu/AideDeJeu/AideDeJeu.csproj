@@ -151,6 +151,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\paladin_devotion_hd.md" Link="Data\paladin_devotion_hd.md" />
+    <EmbeddedResource Include="..\..\Data\paladin_obedience_hd.md" Link="Data\paladin_obedience_hd.md" />
+    <EmbeddedResource Include="..\..\Data\paladin_perfection_hd.md" Link="Data\paladin_perfection_hd.md" />
+    <EmbeddedResource Include="..\..\Data\paladin_piety_hd.md" Link="Data\paladin_piety_hd.md" />
+    <EmbeddedResource Include="..\..\Data\paladin_redemption_hd.md" Link="Data\paladin_redemption_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
