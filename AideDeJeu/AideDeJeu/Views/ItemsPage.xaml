@@ -10,7 +10,7 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
     </ContentPage.ToolbarItems>
-    <ListView HorizontalOptions="Fill" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+    <ListView BackgroundColor="{StaticResource bgtan}" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
