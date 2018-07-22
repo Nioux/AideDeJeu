@@ -122,37 +122,9 @@ Une fois que vous atteignez certains niveaux de sorcier, vous pouvez apprendre d
 
 De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une invocation que vous connaissez et la remplacer par une autre que vous pouvez apprendre à ce niveau.
 
-[][Generic]
+[][LinkItem]
 
-# Pacte
-
-Au niveau 3, votre protecteur d’outre-monde vous accorde un cadeau en récompense de vos loyaux services.
-
-Vous gagnez au choix l’une des trois aptitudes suivantes.
-
-## Pacte de la chaîne
-
-Vous apprenez le sort appel de familier, que pouvez lancer comme un rituel. Ce sort n’est pas comptabilisé parmi les sorts que vous connaissez.
-
-Quand vous lancez ce sort, vous pouvez choisir une forme classique pour votre familier ou l’une des formes spéciales suivantes : diablotin, quasit, stirge ou serpent volant.
-
-De plus, quand vous choisissez l’action attaquer, vous pouvez renoncer à l’une de vos attaques pour permettre à votre familier d’utiliser sa réaction pour faire une attaque.
-
-## Pacte de la lame
-
-Vous pouvez utiliser votre action pour créer une arme de pacte dans votre main vide. Vous pouvez choisir la forme que prend cette arme de corps-à-corps à chaque fois que vous la créez. Tant que vous la maniez, vous avez la maîtrise de cette arme et elle est considérée comme magique si vous êtes confronté à une créature ayant une résistance ou une immunité aux attaques et aux dégâts non magiques.
-
-Votre arme de pacte disparaît si elle se trouve à plus de 1,50 mètre de vous pendant 1 minute ou plus. Elle disparaît aussi si vous utilisez de nouveau cette aptitude, si vous la révoquez (vous n’avez pas besoin d’utiliser une action pour cela) ou si vous mourez.
-
-Vous pouvez transformer une arme magique en votre arme de pacte en accomplissant un rituel spécial pendant que vous avez cette arme en main. Ce rituel prend 1 heure et peut être accompli pendant un repos court.
-
-Vous pouvez alors révoquer l’arme, qui est envoyée dans un espace extra-dimensionnel jusqu’à ce que vous l’invoquiez à nouveau. Il n’est pas possible de transformer un artefact ou une arme consciente de cette manière. L’arme que vous avez transformée ainsi cesse d’être votre arme de pacte si vous mourez, si vous accomplissez le rituel d’une durée de 1 heure avec une autre arme ou si vous utilisez un rituel de même durée pour briser votre lien avec cette arme. Quand le lien est brisé, si l’arme se trouvait dans l’espace extra-dimensionnel, elle apparaît à vos pieds.
-
-## Pacte du grimoire
-
-Votre protecteur vous donne un grimoire appelé un livre des ombres. Quand vous gagnez cette aptitude, vous pouvez choisir trois tours de magie dans la liste de sorts de n’importe quelle classe (les trois n’ont pas à provenir de la même liste). Tant que le livre est sur vous, vous pouvez lancer ces tours de magie à volonté et ils ne sont pas comptabilisés dans les tours de magie que vous connaissez. S’ils n’apparaissent pas dans la liste de sorts de sorcier, vous pouvez quand même les considérer comme des sorts de sorcier.
-
-Si vous perdez votre livre des ombres, vous pouvez accomplir une cérémonie d’une durée de 1 heure pour que votre protecteur vous donne un nouveau livre en remplacement. Cette cérémonie peut être accomplie pendant un repos court ou un repos long et, à l’issue de celle-ci, le livre précédent est détruit. Votre livre des ombres se désagrège à votre mort.
+# [Pacte](warlock_pact_hd.md)
 
 [][Generic]
 
@@ -176,185 +148,9 @@ Au fil de votre progression, vous obtenez de nouveaux sorts de sorciers de votre
 
 Au niveau 20, vous pouvez puiser dans vos réserves d’énergie mystique et demander à votre protecteur de regagner vos emplacements de sorts utilisés. Vous passez 1 minute à demander l’aide de votre protecteur pour qu’il vous fasse regagner tous les emplacements de sorts liés à votre aptitude magie de pacte. Dès que vous avez utilisé cette aptitude pour regagner vos emplacements de sorts, vous devrez attendre d’avoir terminé un repos long avant de pouvoir de nouveau faire appel à votre protecteur de la sorte.
 
-[][Generic]
+[][LinkItem]
 
-# Invocations occultes
-
-Si une invocation occulte a des prérequis, vous ne pouvez pas apprendre cette invocation tant que vous ne remplissez pas les conditions adéquates. Dès que c’est le cas, vous êtes en mesure d’apprendre l’invocation en question. Si une des conditions est un niveau, il s’agit du niveau que vous possédez dans la classe de sorcier.
-
-## Armure des ombres
-
-Vous pouvez lancer le sort armure de mage sur vousmême à volonté, sans utiliser d’emplacement de sort ou de composante matérielle.
-
-## Buveuse de vie
-
-Prérequis : niveau 12, pacte de la lame
-
-Quand vous frappez une créature avec votre arme de pacte, votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de Charisme (avec un minimum de 1).
-
-## Chaînes de Carcères
-
-Prérequis : niveau 15, pacte de la chaîne
-
-Vous pouvez lancer le sort immobiliser un monstre à volonté sans utiliser d’emplacement de sort ni de composante matérielle quand votre cible est un céleste, un fiélon ou un élémentaire. Néanmoins, vous devez terminer un repos long avant de pouvoir utiliser cette invocation une seconde fois sur une créature donnée.
-
-## Explosion insoutenable
-
-Prérequis : tour de magie explosion occulte
-
-Quand vous lancez explosion occulte, ajoutez votre modificateur de Charisme aux dégâts causés par le sort.
-
-## Lame assoiffée
-
-Prérequis : niveau 5, pacte de la lame
-
-À chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d’une avec votre arme de pacte.
-
-## Langage animal
-
-Vous pouvez lancer le sort communication avec les animaux à volonté, sans utiliser d’emplacement de sort.
-
-## Lance occulte
-
-Prérequis : tour de magie explosion occulte
-
-Quand vous lancez le sort explosion occulte, sa portée est de 90 mètres.
-
-## Lenteur de l’esprit
-
-Prérequis : niveau 5
-
-Vous pouvez lancer lenteur en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation une nouvelle fois.
-
-## Maître des mille formes
-
-Prérequis : niveau 15
-
-Vous pouvez lancer le sort modifier son apparence à volonté, sans utiliser d’emplacement de sort.
-
-## Maître des ombres
-
-Prérequis : niveau 5
-
-Quand vous êtes dans une zone de lumière faible ou de ténèbres, vous pouvez utiliser une action pour devenir invisible et le rester tant que vous ne bougez pas et ne faites ni action ni réaction.
-
-## Masque des mille visages
-
-Vous pouvez lancer déguisement à volonté, sans utiliser d’emplacement de sort.
-
-## Mauvais présage
-
-Prérequis : niveau 5
-
-Vous pouvez lancer jeter une malédiction en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation une nouvelle fois.
-
-## Mot d’effroi
-
-Prérequis : niveau 7
-
-Vous pouvez lancer confusion en utilisant un emplacement de sort de sorcier. Vous devez finir un repos long avant de pouvoir utiliser cette invocation de nouveau.
-
-## Murmures d’outre-tombe
-
-Prérequis : niveau 9
-
-Vous pouvez lancer communication avec les morts à volonté, sans utiliser d’emplacement de sorts.
-
-## Murmures ensorcelants
-
-Prérequis : niveau 7
-
-Vous pouvez lancer le sort compulsion en utilisant un emplacement de sort de sorcier. Vous ne pouvez réutiliser cette invocation qu’après avoir terminé un repos long.
-
-## OEil du gardien des runes
-
-Vous pouvez lire toutes les formes d’écriture.
-
-## Onde de choc
-
-Prérequis : tour de magie explosion occulte
-
-Quand vous touchez une créature avec explosion occulte, vous pouvez utiliser cette invocation pour que le souffle de l’explosion l’éloigne de 3 mètres de vous en ligne droite.
-
-## Pas aérien
-
-Prérequis : niveau 9
-
-Vous pouvez lancer le sort lévitation sur vous-même à volonté, sans utiliser d’emplacement de sort ou de composante matérielle.
-
-## Regard de deux esprits
-
-Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utiliser ses sens pour percevoir le monde jusqu’à la fin de votre prochain tour. Tant que cette créature est sur le même plan d’existence que vous, vous pouvez utiliser votre action lors des tours suivants pour maintenir cette connexion et étendre sa durée jusqu’à la fin de votre prochain tour. Tant que vous voyez par les yeux de l’autre créature, vous bénéficiez de tous ses sens spéciaux si elle en a et vous êtes aveugle et sourd à ce qui se passe autour de votre propre corps.
-
-## Saut d’outre-monde
-
-Prérequis : niveau 9
-
-Vous pouvez lancer saut sur vous-même à volonté, sans utiliser d’emplacement de sort ou de composante matérielle.
-
-## Sbires du chaos
-
-Prérequis : niveau 9
-
-Vous pouvez lancer invoquer un élémentaire en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
-
-## Sculpteur de chair
-
-Prérequis : niveau 7
-
-Vous pouvez lancer métamorphose en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
-
-## Séduction
-
-Vous gagnez la maîtrise des compétences Persuasion et Supercherie.
-
-## Livre des secrets anciens
-
-Prérequis : pacte du grimoire
-
-Vous pouvez maintenant inscrire des rituels magiques dans votre livre des ombres. Choisissez deux sorts de niveau 1 qui ont le sous-type rituel dans la liste de sorts de n’importe quelle classe (les deux sorts peuvent provenir de différentes listes). Ces sorts apparaissent dans votre livre et ne sont pas comptabilisés dans le nombre de sorts que vous connaissez. Quand vous avez le livre des ombres en main, vous pouvez lancer les sorts que vous avez choisis comme des rituels. Vous pouvez seulement lancer ces sorts comme des rituels, sauf si vous les avez appris par un autre moyen. Vous pouvez aussi lancer un sort que vous connaissez comme un rituel s’il possède le sous-type rituel.
-
-Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre des ombres. Quand vous trouvez un tel sort, vous pouvez l’ajouter à votre livre si le niveau du sort est inférieur ou égal à la moitié de votre niveau de sorcier (arrondi à l’entier supérieur) et si vous avez le temps de le transcrire. Pour chaque niveau de sort, le processus de transcription prend 2 heures et coûte 50 po (correspondant aux encres rares nécessaires pour écrire le sort).
-
-## Vigueur fiélonne
-
-Vous pouvez lancer simulacre de vie sur vous-même à volonté et en tant que sort de niveau 1 sans utiliser d’emplacement de sort de ou de composante matérielle.
-
-## Vision du diable
-
-Vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu’à une distance de 36 mètres.
-
-## Vision de sorcier
-
-Prérequis : niveau 15
-
-Vous pouvez voir la véritable forme de n’importe quel métamorphe ou créature dont l’apparence a été modifiée par une illusion ou un sort de magie de transmutation si cette créature se trouve dans un rayon de 9 mètres autour de vous et dans votre champ de vision.
-
-## Vision occulte
-
-Vous pouvez lancer détection de la magie à volonté, sans utiliser d’emplacement de sort.
-
-## Visions embrumées
-
-Vous pouvez lancer image silencieuse à volonté, sans utiliser d’emplacement de sort ou de composante matérielle.
-
-## Visions de royaumes lointains
-
-Prérequis : niveau 15
-
-Vous pouvez lancer oeil magique à volonté, sans utiliser d’emplacement de sort.
-
-## Voix du maître des chaînes
-
-Prérequis : pacte de la chaîne
-
-Vous pouvez communiquer par la pensée avec votre familier et percevoir le monde par le biais de ses sens tant que vous êtes sur le même plan d’existence. De plus, tant que vous percevez le monde par l’intermédiaire de votre familier, vous pouvez aussi l’utiliser comme médium pour parler tout en conservant votre propre voix, même si votre familier n’est normalement pas capable de parler.
-
-## Voleur des cinq destinées
-
-Vous pouvez lancer fléau en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
-
-
+# [Invocations occultes](warlock_occultsummons_hd.md)
 
 [][Generic]
 
@@ -366,176 +162,13 @@ Certains protecteurs collectionnent les sorciers et dispensent leurs connaissanc
 
 Des sorciers qui servent un même protecteur peuvent se voir comme des alliés, des frères ou des rivaux.
 
-[][Generic]
+## [Le fiélon]
 
-# Le fiélon
+## [Le seigneur immortel]
 
-Vous avez passé un pacte avec un fiélon des plans inférieurs, un être qui vit pour faire le mal, même si vous êtes opposé à ses ambitions. De tels êtres désirent la corruption ou la destruction de toutes choses, vous compris. Parmi les fiélons assez puissants pour forger un pacte, on trouve des seigneurs démons comme Orcus ou Baphomet, des archidiables comme Asmodée, Méphistophélès ou Bélial, des diantrefosses et des balors particulièrement puissants, ainsi que des ultroloths et autres seigneurs yugoloths.
+## [La puissance des profondeurs]
 
-## Liste de sorts étendue
-
-Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
-
-|Niv. de sort|Sorts|
-|---|---|
-|1|mains brûlantes, injonction|
-|2|cécité/surdité, rayon ardent|
-|3|boule de feu, nuage puant|
-|4|bouclier de feu, mur de feu|
-|5|colonne de flamme, sanctification|
-
-## Bénédiction du ténébreux
-
-À partir du niveau 1, quand vous réduisez une créature hostile à 0 point de vie, vous gagnez un nombre de points de vie temporaire égal à votre modificateur de Charisme + votre niveau de sorcier (avec un minimum de 1).
-
-## Chance du ténébreux
-
-À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur.
-
-Quand vous faites un test de caractéristiques ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
-
-Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l’utiliser de nouveau.
-
-## Résistance fiélonne
-
-À partir du niveau 10, vous pouvez choisir un type de dégâts à la fin d'un repos court ou d'un repos long. Vous gagnez une résistance à ce type de dégâts jusqu'à ce que vous utilisiez cette aptitude pour en changer. Cette résistance n'est par contre pas prise en compte si vous subissez des dégâts infligés par des armes magiques ou des armes en argent.
-
-## Traversée des Enfers
-
-À partir du niveau 14, quand vous réussissez à atteindre une créature avec une attaque, vous pouvez utiliser cette aptitude pour la transporter instantanément jusqu'aux plans inférieurs. La créature disparaît et est projetée à travers un paysage cauchemardesque.
-
-À la fin de votre prochain tour, la cible réapparaît à l'endroit qu'elle occupait précédemment ou sur l'emplacement libre le plus proche. Si la cible n'est pas un fiélon, elle subit 10d10 de dégâts psychiques causés par son horrible expérience.
-
-Une fois que vous avez utilisé cette aptitude, vous devez attendre d’avoir terminé un repos long avant de pouvoir l’utiliser de nouveau.
-
-[][Generic]
-
-# Le seigneur immortel
-
-Certains mortels ont été si puissants et sont devenus de telles légendes à travers les âges qu’ils ne disparaissent jamais complètement. Ce ne sont pas des dieux, mais ils peuvent aspirer à le devenir et, même morts, ils n’ont pas abandonné l’ambition de peser sur le destin du monde. Votre protecteur pouvait être un terrible archimage, dont le pouvoir tutoya celui des dieux, ou un tyran dont l’empire maléfique domina le monde pendant un millénaire. Par-delà la mort, il vous susurre des secrets oubliés et, à travers vous, il cherche à nouveau à marquer le monde de son influence.
-
-## Liste de sorts étendue
-
-Le seigneur immortel vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
-
-|Niv.de sort|Sorts|
-|---|---|
-|1|fléau, simulacre de vie|
-|2|augure, doux repos|
-|3|animation des morts, communication avec les morts|
-|4|liberté de mouvement, protection contre la mort|
-|5|légende, rappel à la vie|
-
-
-## Relique
-
-L’élément fondateur de votre pacte avec un seigneur immortel est une relique que vous obtenez dès le premier niveau. Cette relique peut être un simple fragment d’os ou une main entière momifiée, un oeil préservé par sorcellerie ou un crâne grimaçant au complet, un anneau magique lui ayant appartenu ou le linceul dans lequel il fut enveloppé à sa mort. Choisissez un tour de magie et un sort de niveau 1 qui correspondent à la personnalité ou à l’histoire de votre protecteur. Tant que vous portez la relique sur vous, vous pouvez utiliser ces sorts comme si vous les connaissiez. Ils ne comptent pas dans le nombre de sorts que vous connaissez.
-
-Alternativement, si votre protecteur était réputé pour ses prouesses martiales ou militaires, tant que vous portez la relique sur vous, vous devenez compétent avec les armes de guerre et les armures intermédiaires.
-
-Si votre relique est perdue ou volée, vous pouvez la rappeler à vous par un rituel de 10 minutes à la fin d’un repos long. Si elle est détruite, vous pouvez l’invoquer de nouveau par un rituel d’une journée, mais pas avant d’avoir atteint le niveau suivant.
-
-## Pacte avec la Mort
-
-Votre protecteur connaît bien la Mort et il sait les secrets innommables qui permettent de la priver de son dû. À partir du niveau 6, lorsque votre personnage décède, vous pouvez immédiatement choisir de faire un jet de sauvegarde de Charisme pour échapper à la mort. La difficulté est de 10 si le corps n’est pas particulièrement abîmé, 15 s’il est gravement mutilé (organes ou membres manquants), et 20 s’il a été détruit. En cas de succès, vous vous éveillez au bout de 1d6 heures avec 1d6 points de vie en bénéficiant de l’équivalent d’un repos long en ce qui concerne les aptitudes. Si le corps a été détruit, vous réapparaissez dans un rayon de 1d6 kilomètres du lieu de la mort. Dans tous les cas, vous perdez définitivement un point de Constitution et vous devez déterminer un stigmate visible (la peau devient grise, les yeux complètement blancs, les ongles noirs, les cheveux tombent, etc.). À chaque fois que vous utilisez cette aptitude, la difficulté du jet de sauvegarde augmente de 5.
-
-## Armée des morts
-
-À partir du niveau 10, à chaque fois que vous réduisez une créature humanoïde vivante de taille petite ou moyenne à 0 point de vie et que le MJ considère qu’elle en décède, elle se relève 1d6 rounds plus tard sous forme d’un zombie à votre service pendant 1 heure. À la fin de cette heure, si vous n’avez pas pris le contrôle du zombie par un sort d’animation des morts ou par tout autre moyen, le mort-vivant se met à errer et à attaquer toutes les créatures vivantes qu’il rencontre, en dehors de vous.
-
-## À demi-mort
-
-Au niveau 14, les terribles secrets que vous maîtrisez transforment irrémédiablement votre corps, et vous franchissez un premier pas vers la non-vie et l’éternité.
-
-Désormais, vous obtenez la résistance aux dégâts nécrotiques, de froid et de poison. Vous n’avez plus besoin de respirer ni de manger ou de boire et votre espérance de vie est doublée. Votre corps devient froid au toucher.
-
-Enfin, la difficulté du jet de sauvegarde de votre pacte avec la Mort est abaissée de 5 points.
-
-[][Generic]
-
-# La puissance des profondeurs
-
-Votre protecteur est une entité du dessous, des entrailles profondes de la terre, des abîmes insondables ou des profondeurs aquatiques. Il déteste la lumière et l’air libre et affectionne au contraire les pressions insupportables pour l’être humain et l’obscurité totale. Ses serviteurs n’ont pas forme humaine, ils rampent et creusent, ce sont les vers, les insectes rampants et les poissons aveugles.
-
-L’entité des profondeurs est endormie depuis des millénaires.
-
-Vous lui soutirez des secrets et votre pouvoir dans ses rêves, à son insu. Attention toutefois à ne pas trop la solliciter, vos intrusions répétées dans ses songes pourraient finir par attirer son attention. Si son oeil intérieur s’ouvre sur le monde, celui-ci pourrait connaître une période de cataclysmes, de séismes et de destructions. Et s’il prend conscience de vos menus larcins, votre sort pourrait être pire que la mort. Pour l’éternité.
-
-## Liste de sorts étendue
-
-La puissance des profondeurs vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
-
-|Niv. de sort|Sorts|
-|---|---|
-|1|nappe de brouillard, sommeil|
-|2|modifier son apparence, vision dans le noir|
-|3|fusion dans la pierre, respiration aquatique|
-|4|liane chasseresse, insecte géant|
-|5|fléau d’insectes, passe-muraille|
-
-## Adepte des profondeurs
-
-Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l’air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'Intelligence (Investigation), Sagesse (Perception) et Charisme (Persuasion). Porter un chapeau à large bord ou une capuche permet d’annuler cet effet.
-
-À l’inverse, de nuit ou tant que vous êtes sous terre ou sous l’eau, vous bénéficiez d'un avantage à ces tests.
-
-Les environnements protégés de la lumière du ciel (bâtiment, forêt, pleine nuit, ciel nuageux) ne vous affectent ni de façon positive ni de façon négative.
-
-## Comme une anguille
-
-À partir du niveau 6, votre protecteur et les créatures des profondeurs vous inspirent une magie qui vous permet de résister aux pressions insoutenables et aux choses qui tentent de vous agripper. Vous obtenez la résistance aux dégâts contondants infligés par des effets de constriction, d’écrasement ou de compression, et vous bénéficiez d'un avantage à tous les tests d’empoignade ainsi que pour résister aux états empoigné ou entravé, ou pour échapper à des liens.
-
-## Maître des cauchemars
-
-Vous pouvez partager les visions cauchemardesques issues du sommeil de votre protecteur. Au niveau 10, vous apprenez le sort de rêve, et ce sort ne compte pas dans le nombre maximum de sorts que vous connaissez. Lorsque vous lancez ce sort, vous êtes capable d’affecter les elfes pendant la phase de méditation quotidienne qui leur permet de remplacer le sommeil. Contre les autres créatures, vous doublez les dégâts du sort.
-
-De plus, lorsque vous lancez le sort de sommeil, vous utilisez des d10 pour déterminer le nombre de points de vie affectés et la durée du sort passe à 1 heure.
-
-## Ensevelissement
-
-Au niveau 14, lorsque vous réussissez une attaque en mêlée contre une créature, vous pouvez utiliser cette aptitude pour ouvrir le sol sous les pieds de votre adversaire et l’envoyer dans les profondeurs abyssales de la terre. Vous devez être au niveau du sol pour que cela fonctionne et il ne se passe rien si votre cible se trouve à l’étage d’un bâtiment.
-
-La victime disparaît sous terre pendant 3 rounds et elle subit 5d6 dégâts contondants par round. À chaque round, un jet de sauvegarde de Force réussi permet de diviser les dégâts par deux. Si les dégâts subis réduisent la victime à 0 point de vie, son corps désarticulé est expulsé à la surface. Sinon, elle réapparaît à la fin de votre tour après 3 rounds passés sous terre.
-
-Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
-
-[][Generic]
-
-# L’entité extra-dimensionnelle
-
-Votre protecteur est une entité incompréhensible pour les sens humains, il existe dans une dimension qui n’est pas accessible aux mortels et probablement interdite aux dieux eux-mêmes. Sa nature ne respecte pas les lois physiques de notre monde, ni les règles de la géométrie euclidienne et sa présence se manifeste à travers des singularités dans la trame du temps ou des déformations de la réalité. Ses desseins sont aussi impénétrables que sa nature, mais il a besoin de relais mortels pour accéder à la perception de notre monde. Votre relation est donc basée sur un intérêt réciproque : à travers vous, il ouvre une fenêtre vers la réalité et vous bénéficiez en contrepartie des pouvoirs que votre connexion avec sa dimension vous octroie.
-
-## Liste de sorts étendue
-
-L’entité extra-dimensionnelle vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
-
-|Niv. de sort|Sorts|
-|---|---|
-|1|alarme, image silencieuse|
-|2|corde enchantée, voir l’invisible|
-|3|clignotement, clairvoyance|
-|4|divination, assassin imaginaire|
-|5|tromperie, cercle de téléportation|
-
-## Apparences trompeuses
-
-Au niveau 1, vous apprenez le sort de déguisement, et il ne compte pas dans le nombre de sorts que vous connaissez. De plus, lorsque vous êtes sous l’effet de ce sort, votre image est légèrement décalée par rapport à votre position réelle, ce qui inflige un désavantage à toutes les créatures qui vous attaquent, sauf si elles sont capables de voir les créatures invisibles ou éthérées, ou s’il s’agit d’une attaque de zone. Si vous faîtes l’acquisition de l’invocation occulte du masque des mille visages, cela ne concerne pas votre aptitude d’apparences trompeuses : vous continuez à devoir utiliser un emplacement de sort lorsque vous lancez déguisement si vous souhaitez bénéficier des effets de cette aptitude.
-
-## Duo-dimension
-
-À partir du niveau 6, votre compréhension supérieure de la géométrie de l’univers vous permet d’utiliser l'aptitude de duo-dimension une fois après chaque repos court ou long. Dépensez votre action à ce tour pour transporter en partie votre corps dans un espace extra- dimensionnel. Votre corps matériel est alors remplacé par une image en deux dimensions. Tant que vous maintenez votre concentration, ou jusqu’à 1 minute, vous êtes considéré comme résistant à tous les types de dégâts. Vous bénéficiez aussi d’un abri important (+5 à la CA et aux jets de sauvegarde de Dextérité). Sous cette forme, vous pouvez vous déplacer à votre vitesse normale et passer dans des interstices étroits : sous les portes, le long des murs, etc. En revanche, vous ne pouvez ni attaquer, ni lancer de sort, ni vous saisir d’un objet. Vous avez en outre besoin de respirer normalement.
-
-Vous pouvez ressortir de l’espace extra-dimensionnel et reprendre votre forme originale en utilisant une action bonus.
-
-## Magie extra-dimensionnelle
-
-À partir du niveau 10, la nature de votre magie est si étrange et incompréhensible que les victimes de vos sorts sont désorientées. À chaque fois que vous infligez des dégâts à une créature au moyen d’un sort, elle subit un désavantage à tous ses tests à son prochain tour à moins de réussir un jet de sauvegarde de Sagesse dont la difficulté est égale à la moitié des dégâts subis (avec un DD maximum de 20 à partir de 40 points de dégâts).
-
-## Bond temporel
-
-Au niveau 14, votre compréhension de l’espace-temps se renforce et vous permet de vous téléporter à la fois dans l’espace et le futur proche. Vous utilisez votre action et vous disparaissez immédiatement. Vous réapparaissez au début de votre tour après un nombre de rounds de votre choix, égal au maximum à la somme de votre bonus de maîtrise et de votre modificateur de Charisme. Vous pouvez réapparaître à l’endroit que vous avez quitté ou en tout point visible dans un rayon maximum de 100 mètres autour de cet endroit.
-
-Si aucun espace libre n’existe à portée, vous êtes perdu dans les limbes et considéré comme mort. Vous pouvez observer et entendre ce qui se passe sur les lieux que vous avez quittés comme si vous y étiez et vous pouvez décider où et quand vous allez réapparaître dans les limites fixées précédemment. Lorsque vous réapparaissez, vous pouvez utiliser une réaction pour interrompre n’importe quelle action en cours. Vous devez terminer un repos court ou long pour pouvoir de nouveau utiliser cette aptitude.
+## [L’entité extra-dimensionnelle]
 
 
 [][Generic]
@@ -551,5 +184,12 @@ Pacte de la lame. Si votre protecteur est le seigneur immortel, votre arme corre
 Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, noir et or, hérité du seigneur immortel. Mais il s’agit peutêtre aussi d’un lourd grimoire relié avec du cuir de démon et garni de clous de fers contenant des sorts d’invocation et une grande quantité de connaissances interdites sur les régions les plus sinistres du cosmos, qui vous a été offert par le fiélon. Le grimoire de la puissance des profondeurs peut être un simple rouleau de papyrus d’un âge incroyable ou une tablette de pierre ornée de hyéroglyphes changeants. Enfin, celui de l’entité extra-dimensionnelle prend probablement la forme d’un cristal translucide ou d’un cube de métal sur lequel seul un initié peut faire apparaître les runes étranges qui véhiculent les secrets de votre magie.
 
 
+[Le fiélon]: warlock_fiendish_hd.md
+[Le seigneur immortel]: warlock_immortal_hd.md
+[La puissance des profondeurs]: warlock_depths_hd.md
+[L’entité extra-dimensionnelle]: warlock_extradimensional_hd.md
+
+
 [Items]: #
 [Generic]: #
+[LinkItem]: #
