@@ -120,10 +120,91 @@ namespace AideDeJeuCmd
             await SaveStringAsync(dataDir + "spells_hd_by_class_level.md", result);
         }
 
+        static async Task<IEnumerable<string>> GetAllAnchorsAsync()
+        {
+            var anchors = new List<string>();
+            var allitems = new Dictionary<string, Item>();
+            var names = Helpers.GetResourceNames();
+            foreach(var name in names)
+            {
+                if (name.Contains("_hd."))
+                {
+                    var md = await Helpers.GetResourceStringAsync(name);
+                    var item = AideDeJeu.Tools.MarkdownExtensions.ToItem(md);
+                    allitems.Add(name, item);
+                }
+            }
+            foreach(var allitem in allitems)
+            {
+                if (allitem.Value is Items)
+                {
+                    var items = allitem.Value as Items;
+                    foreach (var item in items)
+                    {
+                        if (!string.IsNullOrWhiteSpace(item.Name))
+                        {
+                            //Console.WriteLine(item.Name);
+                            anchors.Add(item.Name);
+                        }
+                    }
+                }
+                else if(allitem.Value != null)
+                {
+                    if (!string.IsNullOrWhiteSpace(allitem.Value.Name))
+                    {
+                        //Console.WriteLine(allitem.Value.Name);
+                        anchors.Add(allitem.Value.Name);
+                    }
+                }
+            }
+            return anchors;
+        }
+
+        static async Task SearchAsync(string anchor)
+        {
+            var first = true;
+            var names = Helpers.GetResourceNames();
+            foreach (var name in names)
+            {
+                var md = await Helpers.GetResourceStringAsync(name);
+                using (var reader = new StringReader(md))
+                {
+                    var line = await reader.ReadLineAsync();
+                    while (line != null)
+                    {
+                        if (line.FirstOrDefault() != '#' && 
+                            !line.StartsWith("- AltName") &&
+                            line.Contains(anchor) && 
+                            !line.Contains($"[{anchor}") &&
+                            !line.Contains($"{anchor}]")
+                            )
+                        {
+                            if (first)
+                            {
+                                first = false;
+                                Console.WriteLine();
+                                Console.WriteLine(anchor);
+                                Console.WriteLine();
+                            }
+                            Console.WriteLine(line);
+                            Console.WriteLine();
+                        }
+                        line = await reader.ReadLineAsync();
+                    }
+                }
+            }
+            //Console.WriteLine();
+        }
+
         static async Task Main(string[] args)
         {
             string dataDir = @"..\..\..\..\..\Data\";
             await CheckAllLinks();
+            //var anchors = await GetAllAnchorsAsync();
+            //foreach(var anchor in anchors)
+            //{
+            //    await SearchAsync(anchor);
+            //}
             return;
             var mdVO = await LoadStringAsync(dataDir + "monsters_vo.md");
             var mdVF = await LoadStringAsync(dataDir + "monsters_hd.md");
@@ -169,28 +250,23 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
 
-            var mdMonstersVO = await LoadStringAsync(dataDir + "monsters_vo.md");
-            var mdMonstersHD = await LoadStringAsync(dataDir + "monsters_hd.md");
-            var mdSpellsVO = await LoadStringAsync(dataDir + "spells_vo.md");
-            var mdSpellsHD = await LoadStringAsync(dataDir + "spells_hd.md");
-            var mdConditionsVO = await LoadStringAsync(dataDir + "conditions_vo.md");
-            var mdConditionsHD = await LoadStringAsync(dataDir + "conditions_hd.md");
-
+            var allmds = new Dictionary<string, string>();
             var allanchors = new Dictionary<string, IEnumerable<string>>();
-            allanchors.Add("conditions_hd", GetMarkdownAnchors(mdConditionsHD).ToList());
-            allanchors.Add("conditions_vo", GetMarkdownAnchors(mdConditionsVO));
-            allanchors.Add("spells_hd", GetMarkdownAnchors(mdSpellsHD));
-            allanchors.Add("spells_vo", GetMarkdownAnchors(mdSpellsVO));
-            allanchors.Add("monsters_hd", GetMarkdownAnchors(mdMonstersHD));
-            allanchors.Add("monsters_vo", GetMarkdownAnchors(mdMonstersVO));
-
             var alllinks = new Dictionary<string, IEnumerable<Tuple<string, string>>>();
-            alllinks.Add("spells_hd", GetMarkdownLinks(mdSpellsHD));
-            alllinks.Add("spells_vo", GetMarkdownLinks(mdSpellsVO));
-            alllinks.Add("monsters_hd", GetMarkdownLinks(mdMonstersHD));
-            alllinks.Add("monsters_vo", GetMarkdownLinks(mdMonstersVO));
-            alllinks.Add("conditions_hd", GetMarkdownLinks(mdConditionsHD));
-            alllinks.Add("conditions_vo", GetMarkdownLinks(mdConditionsVO));
+            var allnames = new Dictionary<string, IEnumerable<string>>();
+            var resnames = Helpers.GetResourceNames();
+            foreach (var resname in resnames)
+            {
+                if (resname.Contains(".md"))
+                {
+                    var name = resname.Substring(15, resname.Length - 18);
+                    var md = await Helpers.GetResourceStringAsync(resname);
+                    allmds.Add(name, md);
+                    allanchors.Add(name, GetMarkdownAnchors(md).ToList());
+                    alllinks.Add(name, GetMarkdownLinks(md));
+                    allnames.Add(name, GetMarkdownAnchorNames(md));
+                }
+            }
 
             foreach (var links in alllinks)
             {
@@ -205,26 +281,16 @@ namespace AideDeJeuCmd
                 }
             }
 
-            var allnames = new Dictionary<string, IEnumerable<string>>();
-            allnames.Add("conditions_hd", GetMarkdownAnchorNames(mdConditionsHD));
-            allnames.Add("conditions_vo", GetMarkdownAnchorNames(mdConditionsVO));
-            allnames.Add("spells_hd", GetMarkdownAnchorNames(mdSpellsHD));
-            allnames.Add("spells_vo", GetMarkdownAnchorNames(mdSpellsVO));
-            allnames.Add("monsters_hd", GetMarkdownAnchorNames(mdMonstersHD));
-            allnames.Add("monsters_vo", GetMarkdownAnchorNames(mdMonstersVO));
-
-            foreach (var names in allnames)
-            {
-                foreach (var name in names.Value)
-                {
-                    FindName(mdSpellsHD, name);
-                    FindName(mdSpellsVO, name);
-                    FindName(mdMonstersHD, name);
-                    FindName(mdMonstersVO, name);
-                    FindName(mdConditionsHD, name);
-                    FindName(mdConditionsVO, name);
-                }
-            }
+            //foreach (var names in allnames)
+            //{
+            //    foreach (var name in names.Value)
+            //    {
+            //        foreach(var mdkv in allmds)
+            //        {
+            //            FindName(mdkv.Value, name);
+            //        }
+            //    }
+            //}
         }
 
         public static void FindName(string md, string name)
@@ -267,7 +333,7 @@ namespace AideDeJeuCmd
 
         public static IEnumerable<string> GetMarkdownAnchorNames(string md)
         {
-            var regex = new Regex($"\\n# (?<name>.*?)\\n");
+            var regex = new Regex($"\\n##? (?<name>.*?)\\n");
             var matches = regex.Matches(md);
             foreach (Match match in matches)
             {

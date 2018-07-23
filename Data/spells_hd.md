@@ -9396,7 +9396,7 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 [Guerrier]: fighter_hd.md
 [Magicien]: wizard_hd.md
 [Moine]: monk_hd.md
-[Ombrelame]: rogue_hd.md#ombrelame
+[Ombrelame]: rogue_ombrelame_hd.md
 [Paladin]: paladin_hd.md
 [Rôdeur]: ranger_hd.md
 [Roublard]: rogue_hd.md

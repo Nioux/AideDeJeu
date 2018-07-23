@@ -23,6 +23,11 @@ namespace AideDeJeu.Tools
             }
         }
 
+        public static IEnumerable<string> GetResourceNames()
+        {
+            var assembly = typeof(Helpers).GetTypeInfo().Assembly;
+            return assembly.GetManifestResourceNames();
+        }
         public static async Task<string> GetResourceStringAsync(string resourceName)
         {
             var assembly = typeof(Helpers).GetTypeInfo().Assembly;
