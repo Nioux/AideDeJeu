@@ -39,26 +39,26 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|Druidique, Incantations|2|2|-|-|-|-|-|-|-|-|
-|2|+2|Forme sauvage, Cercle druidique|2|3|-|-|-|-|-|-|-|-|
+|1|+2|[Druidique], [Incantations]|2|2|-|-|-|-|-|-|-|-|
+|2|+2|[Forme sauvage], [Cercle druidique]|2|3|-|-|-|-|-|-|-|-|
 |3|+2|_|2|4|2|-|-|-|-|-|-|-|
-|4|+2|Forme sauvage améliorée, Amélioration de caractéristiques|3|4|3|-|-|-|-|-|-|-|
+|4|+2|[Forme sauvage améliorée], [Amélioration de caractéristiques]|3|4|3|-|-|-|-|-|-|-|
 |5|+3|_|3|4|3|2|-|-|-|-|-|-|
-|6|+3|Aptitude de cercle druidique|3|4|3|3|-|-|-|-|-|-|
+|6|+3|[Aptitude de cercle druidique]|3|4|3|3|-|-|-|-|-|-|
 |7|+3|_|3|4|3|3|1|-|-|-|-|-|
-|8|+3|Forme sauvage améliorée, Amélioration de caractéristiques|3|4|3|3|2|-|-|-|-|-|
+|8|+3|[Forme sauvage améliorée], [Amélioration de caractéristiques]|3|4|3|3|2|-|-|-|-|-|
 |9|+4|_|3|4|3|3|3|1|-|-|-|-|
-|10|+4|Aptitude de cercle druidique|4|4|3|3|3|2|-|-|-|-|
+|10|+4|[Aptitude de cercle druidique]|4|4|3|3|3|2|-|-|-|-|
 |11|+4|_|4|4|3|3|3|2|1|-|-|-|
-|12|+4|Amélioration de caractéristiques|4|4|3|3|3|2|1|-|-|-|
+|12|+4|[Amélioration de caractéristiques]|4|4|3|3|3|2|1|-|-|-|
 |13|+5|_|4|4|3|3|3|2|1|1|-|-|
-|14|+5|Aptitude de cercle druidique|4|4|3|3|3|2|1|1|-|-|
+|14|+5|[Aptitude de cercle druidique]|4|4|3|3|3|2|1|1|-|-|
 |15|+5|_|4|4|3|3|3|2|1|1|1|-|
-|16|+5|Amélioration de caractéristiques|4|4|3|3|3|2|1|1|1|-|
+|16|+5|[Amélioration de caractéristiques]|4|4|3|3|3|2|1|1|1|-|
 |17|+6|_|4|4|3|3|3|2|1|1|1|1|
-|18|+6|Jeunesse éternelle, Incantation animale|4|4|3|3|3|3|1|1|1|1|
-|19|+6|Amélioration de caractéristiques|4|4|3|3|3|3|2|1|1|1|
-|20|+6|Archidruide|4|4|3|3|3|3|2|2|1|1|
+|18|+6|[Jeunesse éternelle], [Incantation animale]|4|4|3|3|3|3|1|1|1|1|
+|19|+6|[Amélioration de caractéristiques]|4|4|3|3|3|3|2|1|1|1|
+|20|+6|[Archidruide]|4|4|3|3|3|3|2|2|1|1|
 
 (* Emplacement de sorts par niveau de sort)
 
@@ -116,9 +116,9 @@ Votre niveau de druide détermine en quel animal vous pouvez vous transformer (v
 
 |Niv.|ID|Limitations|Exemple|
 |---|---|---|---|
-|2|1/4|Pas de vitesse de vol ou de nage|Loup|
-|4|1/2|Pas de vitesse de vol|Crocodile|
-|8|1|_|Aigle géant|
+|2|1/4|Pas de vitesse de vol ou de nage|[Loup]|
+|4|1/2|Pas de vitesse de vol|[Crocodile]|
+|8|1|_|[Aigle géant]|
 
 Vous pouvez conserver votre forme sauvage pendant un nombre d’heures équivalent à la moitié de votre niveau de druide (arrondi à l’entier inférieur). Vous reprenez alors forme humaine, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre forme humaine de manière anticipée en utilisant une action bonus lors de votre tour. Vous retrouvez immédiatement forme humaine si vous perdez conscience, si vous êtes réduit à 0 point de vie ou si vous mourrez.
 
@@ -179,6 +179,21 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 [Cercle des saisons]: druid_seasons_hd.md
 [Cercle des fées]: druid_fairies_hd.md
 [Cercle des profondeurs]: druid_depths_hd.md
+
+[Druidique]: druid_hd.md#druidique
+[Incantations]: druid_hd.md#incantations
+[Forme sauvage]: druid_hd.md#forme-sauvage
+[Cercle druidique]: druid_hd.md#cercle-druidique
+[Forme sauvage améliorée]: druid_hd.md#forme-sauvage-améliorée
+[Amélioration de caractéristiques]: druid_hd.md#amélioration-de-caractéristiques
+[Aptitude de cercle druidique]: druid_hd.md#aptitude-de-cercle-druidique
+[Jeunesse éternelle]: druid_hd.md#jeunesse-éternelle
+[Incantation animale]: druid_hd.md#incantation-animale
+[Archidruide]: druid_hd.md#archidruide
+
+[Loup]: monsters_hd.md#loup
+[Crocodile]: monsters_hd.md#crocodile
+[Aigle géant]: monsters_hd.md#aigle-géant
 
 
 [Items]: #

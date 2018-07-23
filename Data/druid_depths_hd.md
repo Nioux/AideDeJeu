@@ -28,11 +28,11 @@ De plus, vous doublez votre niveau de druide pour déterminer les formes sauvage
 
 |Niv.|Créatures|
 |---|---|
-|2|Oxydeur (ID 1/2), Worg (ID 1/2)|
-|4|Chien du trépas (ID 1), Cockatrice (ID 1/2), Harpie (ID 1), Larve des roches (ID 1), Mante obscure (ID 1/2)|
-|8|Ankheg (ID 2), Ettercap (ID 2), Grick (ID 2), Merrow (ID 2)*, Mimique (ID 2)|
-|12|Basilic (ID 3), Hibours (ID 3), Loup arctique (ID 3), Manticore (ID 3), Minotaure (ID 3)*, Yéti (ID 3)|
-|18|Bulette (ID 5), Enlaceur (ID 5), Gorgone (ID 5), Terreur des roches (ID 5)|
+|2|[Oxydeur] (ID 1/2), [Worg] (ID 1/2)|
+|4|[Chien du trépas] (ID 1), [Cockatrice] (ID 1/2), [Harpie] (ID 1), [Larve des roches] (ID 1), [Mante obscure] (ID 1/2)|
+|8|[Ankheg] (ID 2), [Ettercap] (ID 2), [Grick] (ID 2), [Merrow] (ID 2)*, [Mimique] (ID 2)|
+|12|[Basilic] (ID 3), [Hibours] (ID 3), [Loup arctique] (ID 3), [Manticore] (ID 3), [Minotaure] (ID 3)*, [Yéti] (ID 3)|
+|18|[Bulette] (ID 5), [Enlaceur] (ID 5), [Gorgone] (ID 5), [Terreur des roches] (ID 5)|
 
   
 (* Le druide n’obtient aucun équipement lorsqu’il prend cette forme, s’il veut réaliser une attaque avec une arme, il doit se la procurer d’une façon ou d’une autre.)
@@ -60,6 +60,28 @@ Vous devez terminer votre déplacement à l’air libre. Si ce n’est pas le ca
 
 
 
+[Oxydeur]: monsters_hd.md#oxydeur
+[Worg]: monsters_hd.md#worg
+[Chien du trépas]: monsters_hd.md#chien-du-trépas
+[Cockatrice]: monsters_hd.md#cockatrice
+[Harpie]: monsters_hd.md#harpie
+[Larve des roches]: monsters_hd.md#larve-des-roches
+[Mante obscure]: monsters_hd.md#mante-obscure
+[Ankheg]: monsters_hd.md#ankheg
+[Ettercap]: monsters_hd.md#ettercap
+[Grick]: monsters_hd.md#grick
+[Merrow]: monsters_hd.md#merrow
+[Mimique]: monsters_hd.md#mimique
+[Basilic]: monsters_hd.md#basilic
+[Hibours]: monsters_hd.md#hibours
+[Loup arctique]: monsters_hd.md#loup-arctique
+[Manticore]: monsters_hd.md#manticore
+[Minotaure]: monsters_hd.md#minotaure
+[Yéti]: monsters_hd.md#yéti
+[Bulette]: monsters_hd.md#bulette
+[Enlaceur]: monsters_hd.md#enlaceur
+[Gorgone]: monsters_hd.md#gorgone
+[Terreur des roches]: monsters_hd.md#terreur-des-roches
 
 
 [Items]: #
