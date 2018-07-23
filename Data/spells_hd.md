@@ -9043,7 +9043,7 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 - AltName: [Find the Path](spells_vo.md#find-the-path)
 
 - **Temps d'incantation :** 1 minute
-- **Composantes :** V, S, M (un ensemble d'instruments de divination [comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées] d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
+- **Composantes :** V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)
 - **Durée :** concentration, jusqu'à 1 jour
 - LevelType: Divination de niveau 6
 - **Portée :** personnelle

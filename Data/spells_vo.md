@@ -5837,7 +5837,7 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 ### Description
 
-This spell transforms a creature that you can see [and that have at least 1 hit point] within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.
+This spell transforms a creature that you can see and that have at least 1 hit point within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds on this saving throw.
 
 The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
 

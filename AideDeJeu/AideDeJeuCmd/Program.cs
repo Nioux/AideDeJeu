@@ -265,9 +265,17 @@ namespace AideDeJeuCmd
                     var name = resname.Substring(15, resname.Length - 18);
                     var md = await Helpers.GetResourceStringAsync(resname);
                     allmds.Add(name, md);
-                    allanchors.Add(name, GetMarkdownAnchors(md).ToList());
-                    alllinks.Add(name, GetMarkdownLinks(md));
-                    allnames.Add(name, GetMarkdownAnchorNames(md));
+                    var anchors = GetMarkdownAnchors(md).ToList();
+                    allanchors.Add(name, anchors);
+                    var links = GetMarkdownLinks(md).ToList();
+                    alllinks.Add(name, links);
+                    var names = GetMarkdownAnchorNames(md).ToList();
+                    allnames.Add(name, names);
+                    var unlinkedrefs = GetMarkdownUnlinkedRefs(md).ToList();
+                    foreach(var unlinkedref in unlinkedrefs)
+                    {
+                        Console.WriteLine($"{name} {unlinkedref}");
+                    }
                 }
             }
 
@@ -323,6 +331,24 @@ namespace AideDeJeuCmd
                 var file = match.Groups["file"].Value;
                 var anchor = match.Groups["anchor"].Value;
                 yield return new Tuple<string, string>(file, anchor);
+            }
+        }
+
+        public static IEnumerable<string> GetMarkdownUnlinkedRefs(string md)
+        {
+            var regex = new Regex("\\[(?<ref>.+?)\\]", RegexOptions.IgnoreCase);
+            var matches = regex.Matches(md);
+            md = md.ToLower();
+            foreach (Match match in matches)
+            {
+                var rref = match.Groups["ref"].Value;
+                var lref = rref.ToLower();
+                if (!md.Contains($"[{lref}]:") &&
+                    !md.Contains($"[{lref}](") &&
+                    !lref.Contains("]"))
+                {
+                    yield return rref;
+                }
             }
         }
 
