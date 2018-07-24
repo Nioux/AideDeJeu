@@ -184,9 +184,9 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 [Incantations]: druid_hd.md#incantations
 [Forme sauvage]: druid_hd.md#forme-sauvage
 [Cercle druidique]: druid_hd.md#cercle-druidique
-[Forme sauvage améliorée]: druid_hd.md#forme-sauvage-améliorée
+[Forme sauvage améliorée]: druid_hd.md#forme-sauvage
 [Amélioration de caractéristiques]: druid_hd.md#amélioration-de-caractéristiques
-[Aptitude de cercle druidique]: druid_hd.md#aptitude-de-cercle-druidique
+[Aptitude de cercle druidique]: druid_hd.md#cercle-druidique
 [Jeunesse éternelle]: druid_hd.md#jeunesse-éternelle
 [Incantation animale]: druid_hd.md#incantation-animale
 [Archidruide]: druid_hd.md#archidruide

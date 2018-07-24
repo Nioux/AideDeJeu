@@ -41,26 +41,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niveau|Bonus de maîtrise|Aptitudes|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|
-|1|+2|Sens divin, Imposition des mains|-|-|-|-|-|
-|2|+2|Style de combat, Incantations, Châtiment divin 2|-|-|-|-|
-|3|+2|Santé divine, Serment sacré|3|-|-|-|-|
-|4|+2|Amélioration de caractéristiques|3|-|-|-|-|
-|5|+3|Attaque supplémentaire|4|2|-|-|-|
-|6|+3|Aura de protection|4|2|-|-|-|
-|7|+3|Aptitude de serment sacré|4|3|-|-|-|
-|8|+3|Amélioration de caractéristiques|4|3|-|-|-|
+|1|+2|[Sens divin], [Imposition des mains]|-|-|-|-|-|
+|2|+2|[Style de combat], [Incantations], [Châtiment divin]|2|-|-|-|-|
+|3|+2|[Santé divine], [Serment sacré]|3|-|-|-|-|
+|4|+2|[Amélioration de caractéristiques]|3|-|-|-|-|
+|5|+3|[Attaque supplémentaire]|4|2|-|-|-|
+|6|+3|[Aura de protection]|4|2|-|-|-|
+|7|+3|[Aptitude de serment sacré]|4|3|-|-|-|
+|8|+3|[Amélioration de caractéristiques]|4|3|-|-|-|
 |9|+4|_|4|3|2|-|-|
-|10|+4|Aura de courage|4|3|2|-|-|
-|11|+4|Châtiment divin amélioré|4|3|3|-|-|
-|12|+4|Amélioration de caractéristiques|4|3|3|-|-|
+|10|+4|[Aura de courage]|4|3|2|-|-|
+|11|+4|[Châtiment divin amélioré]|4|3|3|-|-|
+|12|+4|[Amélioration de caractéristiques]|4|3|3|-|-|
 |13|+5|_|4|3|3|1|-|
-|14|+5|Contact purifiant|4|3|3|1|-|
-|15|+5|Aptitude de serment sacré|4|3|3|2|-|
-|16|+5|Amélioration de caractéristiques|4|3|3|2|
+|14|+5|[Contact purifiant]|4|3|3|1|-|
+|15|+5|[Aptitude de serment sacré]|4|3|3|2|-|
+|16|+5|[Amélioration de caractéristiques]|4|3|3|2|
 |17|+6|_|4|3|3|3|1|
-|18|+6|Amélioration des auras|4|3|3|3|1|
-|19|+6|Amélioration de caractéristiques|4|3|3|3|2|
-|20|+6|Aptitude de serment sacré|4|3|3|3|2|
+|18|+6|[Amélioration des auras]|4|3|3|3|1|
+|19|+6|[Amélioration de caractéristiques]|4|3|3|3|2|
+|20|+6|[Aptitude de serment sacré]|4|3|3|3|2|
 
 (* Emplacement de sorts par niveau de sort)
 
@@ -203,6 +203,14 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 [][Generic]
 
+# Auras
+
+## [Aura de protection]
+
+## [Aura de courage]
+
+[][Generic]
+
 ## Aura de protection
 
 À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son jet de sauvegarde égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.
@@ -254,6 +262,22 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 [Serment de perfection]: paladin_perfection_hd.md
 [Serment de piété]: paladin_piety_hd.md
 [Serment de rédemption]: paladin_redemption_hd.md
+
+[Amélioration de caractéristiques]: paladin_hd.md#amélioration-de-caractéristiques
+[Amélioration des auras]: paladin_hd.md#auras
+[Aptitude de serment sacré]: paladin_hd.md#serment-sacré
+[Attaque supplémentaire]: paladin_hd.md#attaque-supplémentaire
+[Aura de courage]: paladin_hd.md#aura-de-courage
+[Aura de protection]: paladin_hd.md#aura-de-protection
+[Châtiment divin]: paladin_hd.md#châtiment-divin
+[Châtiment divin amélioré]: paladin_hd.md#châtiment-divin-amélioré
+[Contact purifiant]: paladin_hd.md#contact-purifiant
+[Imposition des mains]: paladin_hd.md#imposition-des-mains
+[Incantations]: paladin_hd.md#incantations
+[Santé divine]: paladin_hd.md#santé-divine
+[Sens divin]: paladin_hd.md#sens-divin
+[Serment sacré]: paladin_hd.md#serment-sacré
+[Style de combat]: paladin_hd.md#style-de-combat
 
 [Items]: #
 [Generic]: #

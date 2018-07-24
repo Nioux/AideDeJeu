@@ -40,26 +40,26 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 
 |Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|
 |---|---|---|---|---|---|---|---|
-|1|+2|Protecteur de l'outremonde, Magie de pacte|2|2|1|1|_|
-|2|+2|Invocations occultes|2|3|2|1|2|
-|3|+2|Pacte|2|4|2|2|2|
-|4|+2|Amélioration de caractéristiques|3|5|2|2|2|
+|1|+2|[Protecteur de l'outremonde], [Magie de pacte]|2|2|1|1|_|
+|2|+2|[Invocations occultes]|2|3|2|1|2|
+|3|+2|[Pacte]|2|4|2|2|2|
+|4|+2|[Amélioration de caractéristiques]|3|5|2|2|2|
 |5|+3|_|3|6|2|3|3|
-|6|+3|Aptitude de protecteur de l'outre-monde|3|7|2|3|3|
+|6|+3|[Aptitude de protecteur de l'outre-monde]|3|7|2|3|3|
 |7|+3|_|3|8|2|4|4|
-|8|+3|Amélioration de caractéristiques|3|9|2|4|4|
+|8|+3|[Amélioration de caractéristiques]|3|9|2|4|4|
 |9|+4|_|3|10|2|5|5|
-|10|+4|Aptitude de protecteur de l'outre-monde|4|10|2|5|5|
-|11|+4|Arcanum mystique (niveau 6)|4|11|3|5|5|
-|12|+4|Amélioration de caractéristiques|4|11|3|5|6|
-|13|+5|Arcanum mystique (niveau 7)|4|12|3|5|6|
-|14|+5|Aptitude de protecteur de l'outre-monde|4|12|3|5|6|
-|15|+5|Arcanum mystique (niveau 8)|4|13|3|5|7|
-|16|+5|Amélioration de caractéristiques|4|13|3|5|7|
-|17|+6|Arcanum mystique (niveau 9)|4|14|4|5|7|
+|10|+4|[Aptitude de protecteur de l'outre-monde]|4|10|2|5|5|
+|11|+4|[Arcanum mystique] (niveau 6)|4|11|3|5|5|
+|12|+4|[Amélioration de caractéristiques]|4|11|3|5|6|
+|13|+5|[Arcanum mystique] (niveau 7)|4|12|3|5|6|
+|14|+5|[Aptitude de protecteur de l'outre-monde]|4|12|3|5|6|
+|15|+5|[Arcanum mystique] (niveau 8)|4|13|3|5|7|
+|16|+5|[Amélioration de caractéristiques]|4|13|3|5|7|
+|17|+6|[Arcanum mystique] (niveau 9)|4|14|4|5|7|
 |18|+6|_|4|14|4|5|8|
-|19|+6|Amélioration de caractéristiques|4|15|4|5|8|
-|20|+6|Maître de l'occulte|4|15|4|5|8|
+|19|+6|[Amélioration de caractéristiques]|4|15|4|5|8|
+|20|+6|[Maître de l'occulte]|4|15|4|5|8|
 
 
 [][Generic]
@@ -188,6 +188,13 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 [Le seigneur immortel]: warlock_immortal_hd.md
 [La puissance des profondeurs]: warlock_depths_hd.md
 [L'entité extra-dimensionnelle]: warlock_extradimensional_hd.md
+
+[Amélioration de caractéristiques]: warlock_hd.md#amélioration-de-caractéristiques
+[Aptitude de protecteur de l'outre-monde]: warlock_hd.md#protecteur-de-loutre-monde
+[Arcanum mystique]: warlock_hd.md#arcanum-mystique
+[Magie de pacte]: warlock_hd.md#magie-de-pacte
+[Maître de l'occulte]: warlock_hd.md#maître-de-locculte
+[Protecteur de l'outremonde]: warlock_hd.md#protecteur-de-loutre-monde
 
 
 [Items]: #

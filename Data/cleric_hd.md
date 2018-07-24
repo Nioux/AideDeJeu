@@ -186,5 +186,14 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 [Guide spirituel]: cleric_guide_hd.md
 [Théurge]: cleric_theurgist_hd.md
 
+[Amélioration de caractéristiques]: cleric_hd.md#amélioration-de-caractéristiques
+[Aptitude de domaine divin]: cleric_hd.md#domaine-divin
+[Canalisation d'énergie divine]: cleric_hd.md#canalisation-dénergie-divine
+[Destruction des morts-vivants]: cleric_hd.md#destruction-des-morts-vivants
+[Domaine divin]: cleric_hd.md#domaine-divin
+[Incantations]: cleric_hd.md#incantations
+[Intervention divine]: cleric_hd.md#intervention-divine
+[Intervention divine supérieure]: cleric_hd.md#intervention-divine
+
 [Items]: #
 [Generic]: #

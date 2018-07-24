@@ -50,7 +50,7 @@ Air
 |3|[bourrasque]|
 |5|[vol]|
 |7|[forme gazeuse]|
-|9|[invoquer élémentaire] (Air)|
+|9|[invoquer un élémentaire] (Air)|
 
 [][Generic]
 
@@ -405,7 +405,7 @@ Voyage
 |Niv.|Sort|
 |---|---|
 |1|[grande foulée]|
-|3|[passage sans traces]|
+|3|[passage sans trace]|
 |5|[monture fantôme]|
 |7|[porte dimensionnelle]|
 |9|[passage par les arbres]|
@@ -442,7 +442,6 @@ Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de
 [bourrasque]: spells_hd.md#bourrasque
 [vol]: spells_hd.md#vol
 [forme gazeuse]: spells_hd.md#forme-gazeuse
-[invoquer élémentaire]: spells_hd.md#invoquer-élémentaire
 [illusion mineure]: spells_hd.md#illusion-mineure
 [instrument fantomatique]: spells_hd.md#instrument-fantomatique
 [motif hypnotique]: spells_hd.md#motif-hypnotique
@@ -550,7 +549,7 @@ Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de
 [panacée]: spells_hd.md#panacée
 [restauration supérieure]: spells_hd.md#restauration-supérieure
 [grande foulée]: spells_hd.md#grande-foulée
-[passage sans traces]: spells_hd.md#passage-sans-traces
+[passage sans trace]: spells_hd.md#passage-sans-trace
 [monture fantôme]: spells_hd.md#monture-fantôme
 [porte dimensionnelle]: spells_hd.md#porte-dimensionnelle
 [passage par les arbres]: spells_hd.md#passage-par-les-arbres

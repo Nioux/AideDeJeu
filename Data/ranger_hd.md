@@ -40,26 +40,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niv.|Bonus de maîtrise|Aptitudes|Sorts connus|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|
-|1|+2|Ennemi juré, Explorateur-né|_|-|-|-|-|-|
-|2|+2|Style de combat, Incantations|2|2|-|-|-|-|
-|3|+2|Archétype de rôdeur, Vigilance primitive|3|3|-|-|-|-|
-|4|+2|Amélioration de caractéristiques|3|3|-|-|-|-|
-|5|+3|Attaque supplémentaire|4|4|2|-|-|-|
-|6|+3|Amélioration d'ennemi juré et d'explorateur-né|4|4|2|-|-|-|
-|7|+3|Aptitude d'archétype de rôdeur|5|4|3|-|-|-|
-|8|+3|Amélioration de caractéristiques, Traversée des terrains|5|4|3|-|-|-|
+|1|+2|[Ennemi juré], [Explorateur-né]|_|-|-|-|-|-|
+|2|+2|[Style de combat], [Incantations]|2|2|-|-|-|-|
+|3|+2|[Archétype de rôdeur], [Vigilance primitive]|3|3|-|-|-|-|
+|4|+2|[Amélioration de caractéristiques]|3|3|-|-|-|-|
+|5|+3|[Attaque supplémentaire]|4|4|2|-|-|-|
+|6|+3|[Amélioration d'ennemi juré] et d'[explorateur-né]|4|4|2|-|-|-|
+|7|+3|[Aptitude d'archétype de rôdeur]|5|4|3|-|-|-|
+|8|+3|[Amélioration de caractéristiques], [Traversée des terrains]|5|4|3|-|-|-|
 |9|+4|_|6|4|3|2|-|-|
-|10|+4|Amélioration d'explorateur-né, Camouflage naturel|6|4|3|2|-|-|
-|11|+4|Aptitude d'archétype de rôdeur|7|4|3|3|-|-|
-|12|+4|Amélioration de caractéristiques|7|4|3|3|-|-|
+|10|+4|[Amélioration d'explorateur-né], [Camouflage naturel]|6|4|3|2|-|-|
+|11|+4|[Aptitude d'archétype de rôdeur]|7|4|3|3|-|-|
+|12|+4|[Amélioration de caractéristiques]|7|4|3|3|-|-|
 |13|+5|_|8|4|3|3|1|-|
-|14|+5|Amélioration d'ennemi juré, Disparition|8|4|3|3|1|-|
-|15|+5|Aptitude d'archétype de rôdeur|9|4|3|3|2|-|
-|16|+5|Amélioration de caractéristiques|9|4|3|3|2|-|
+|14|+5|[Amélioration d'ennemi juré], [Disparition]|8|4|3|3|1|-|
+|15|+5|[Aptitude d'archétype de rôdeur]|9|4|3|3|2|-|
+|16|+5|[Amélioration de caractéristiques]|9|4|3|3|2|-|
 |17|+6|_|10|4|3|3|3|1|
-|18|+6|Sens sauvages|10|4|3|3|3|1|
-|19|+6|Amélioration de caractéristiques|11|4|3|3|3|2|
-|20|+6|Tueur d'ennemis|11|4|3|3|3|2|
+|18|+6|[Sens sauvages]|10|4|3|3|3|1|
+|19|+6|[Amélioration de caractéristiques]|11|4|3|3|3|2|
+|20|+6|[Tueur d'ennemis]|11|4|3|3|3|2|
 
 (* Emplacement de sorts par niveau de sort)
 
@@ -240,6 +240,23 @@ Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l'arc
 [Exilé]: ranger_exile_hd.md
 [Traqueur]: ranger_tracker_hd.md
 [Pisteur]: ranger_pisteur_hd.md
+
+[Amélioration de caractéristiques]: ranger_hd.md#amélioration-de-caractéristiques
+[Amélioration d'ennemi juré]: ranger_hd.md#ennemi-juré
+[Amélioration d'explorateur-né]: ranger_hd.md#explorateur-né
+[Aptitude d'archétype de rôdeur]: ranger_hd.md#archétype-de-rôdeur
+[Archétype de rôdeur]: ranger_hd.md#archétype-de-rôdeur
+[Attaque supplémentaire]: ranger_hd.md#attaque-supplémentaire
+[Camouflage naturel]: ranger_hd.md#camouflage-naturel
+[Disparition]: ranger_hd.md#disparition
+[Ennemi juré]: ranger_hd.md#ennemi-juré
+[Explorateur-né]: ranger_hd.md#explorateur-né
+[Incantations]: ranger_hd.md#incantations
+[Sens sauvages]: ranger_hd.md#sens-sauvages
+[Style de combat]: ranger_hd.md#style-de-combat
+[Traversée des terrains]: ranger_hd.md#traversée-des-terrains
+[Tueur d'ennemis]: ranger_hd.md#tueur-dennemis
+[Vigilance primitive]: ranger_hd.md#vigilance-primitive
 
 [Items]: #
 [Generic]: #

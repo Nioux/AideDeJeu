@@ -40,26 +40,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|
 |---|---|---|---|
-|1|+2|1d6|Expertise, Attaque sournoise, Argot des voleurs|
-|2|+2|1d6|Ruse|
-|3|+2|2d6|Archétype de roublard|
-|4|+2|2d6|Amélioration de caractéristiques|
-|5|+3|3d6|Esquive instinctive|
-|6|+3|3d6|Expertise|
-|7|+3|4d6|Dérobade|
-|8|+3|4d6|Amélioration de caractéristiques|
-|9|+4|5d6|Aptitude d'archétype de roublard|
-|10|+4|5d6|Amélioration de caractéristiques|
-|11|+4|6d6|Talent|
-|12|+4|6d6|Amélioration de caractéristiques|
-|13|+5|7d6|Aptitude d'archétype de roublard|
-|14|+5|7d6|Ouïe fine|
-|15|+5|8d6|Esprit impénétrable|
-|16|+5|8d6|Amélioration de caractéristiques|
-|17|+6|9d6|Aptitude d'archétype de roublard|
-|18|+6|9d6|Insaisissable|
-|19|+6|10d6|Amélioration de caractéristiques|
-|20|+6|10d6|Coup de chance|
+|1|+2|1d6|[Expertise], [Attaque sournoise], [Argot des voleurs]|
+|2|+2|1d6|[Ruse]|
+|3|+2|2d6|[Archétype de roublard]|
+|4|+2|2d6|[Amélioration de caractéristiques]|
+|5|+3|3d6|[Esquive instinctive]|
+|6|+3|3d6|[Expertise]|
+|7|+3|4d6|[Dérobade]|
+|8|+3|4d6|[Amélioration de caractéristiques]|
+|9|+4|5d6|[Aptitude d'archétype de roublard]|
+|10|+4|5d6|[Amélioration de caractéristiques]|
+|11|+4|6d6|[Talent]|
+|12|+4|6d6|[Amélioration de caractéristiques]|
+|13|+5|7d6|[Aptitude d'archétype de roublard]|
+|14|+5|7d6|[Ouïe fine]|
+|15|+5|8d6|[Esprit impénétrable]|
+|16|+5|8d6|[Amélioration de caractéristiques]|
+|17|+6|9d6|[Aptitude d'archétype de roublard]|
+|18|+6|9d6|[Insaisissable]|
+|19|+6|10d6|[Amélioration de caractéristiques]|
+|20|+6|10d6|[Coup de chance]|
 
 
 [][Generic]
@@ -180,6 +180,22 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 [Brute]: rogue_brute_hd.md
 [Espion]: rogue_spy_hd.md
 [Ombrelame]: rogue_ombrelame_hd.md
+
+[Amélioration de caractéristiques]: rogue_hd.md#amélioration-de-caractéristiques
+[Aptitude d'archétype de roublard]: rogue_hd.md#archétype-de-roublard
+[Archétype de roublard]: rogue_hd.md#archétype-de-roublard
+[Argot des voleurs]: rogue_hd.md#argot-des-voleurs
+[Attaque sournoise]: rogue_hd.md#attaque-sournoise
+[Coup de chance]: rogue_hd.md#coup-de-chance
+[Dérobade]: rogue_hd.md#dérobade
+[Esprit impénétrable]: rogue_hd.md#esprit-impénétrable
+[Esquive instinctive]: rogue_hd.md#esquive-instinctive
+[Expertise]: rogue_hd.md#expertise
+[Insaisissable]: rogue_hd.md#insaisissable
+[Ouïe fine]: rogue_hd.md#ouïe-fine
+[Ruse]: rogue_hd.md#ruse
+[Talent]: rogue_hd.md#talent
+
 
 [Items]: #
 [Generic]: #

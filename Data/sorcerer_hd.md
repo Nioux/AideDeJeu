@@ -39,26 +39,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niv.|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|_|Incantations, Origine magique|4|2|2|-|-|-|-|-|-|-|-|
-|2|+2|2|Source de magie|4|3|3|-|-|-|-|-|-|-|-|
-|3|+2|3|Métamagie|4|4|4|2|-|-|-|-|-|-|-|
-|4|+2|4|Amélioration de caractéristiques|5|5|4|3|-|-|-|-|-|-|-|
+|1|+2|_|[Incantations], [Origine magique]|4|2|2|-|-|-|-|-|-|-|-|
+|2|+2|2|[Source de magie]|4|3|3|-|-|-|-|-|-|-|-|
+|3|+2|3|[Métamagie]|4|4|4|2|-|-|-|-|-|-|-|
+|4|+2|4|[Amélioration de caractéristiques]|5|5|4|3|-|-|-|-|-|-|-|
 |5|+3|5|_|5|6|4|3|2|-|-|-|-|-|-|
-|6|+3|6|Aptitude d'origine magique|5|7|4|3|3|-|-|-|-|-|-|
+|6|+3|6|[Aptitude d'origine magique]|5|7|4|3|3|-|-|-|-|-|-|
 |7|+3|7|_|5|8|4|3|3|1|-|-|-|-|-|
-|8|+3|8|Amélioration de caractéristiques|5|9|4|3|3|2|-|-|-|-|-|
+|8|+3|8|[Amélioration de caractéristiques]|5|9|4|3|3|2|-|-|-|-|-|
 |9|+4|9|_|5|10|4|3|3|3|1|-|-|-|-|
-|10|+4|10|Métamagie|6|11|4|3|3|3|2|-|-|-|-|
+|10|+4|10|[Métamagie]|6|11|4|3|3|3|2|-|-|-|-|
 |11|+4|11|_|6|12|4|3|3|3|2|1|-|-|-|
-|12|+4|12|Amélioration de caractéristiques|6|12|4|3|3|3|2|1|-|-|-|
+|12|+4|12|[Amélioration de caractéristiques]|6|12|4|3|3|3|2|1|-|-|-|
 |13|+5|13|_|6|13|4|3|3|3|2|1|1|-|-|
-|14|+5|14|Aptitude d'origine magique|6|13|4|3|3|3|2|1|1|-|-|
+|14|+5|14|[Aptitude d'origine magique]|6|13|4|3|3|3|2|1|1|-|-|
 |15|+5|15|_|6|14|4|3|3|3|2|1|1|1|-|
-|16|+5|16|Amélioration de caractéristiques|6|14|4|3|3|3|2|1|1|1|-|
-|17|+6|17|Métamagie|6|15|4|3|3|3|2|1|1|1|1|
-|18|+6|18|Aptitude d'origine magique|6|15|4|3|3|3|3|1|1|1|1|
-|19|+6|19|Amélioration de caractéristiques|6|15|4|3|3|3|3|2|1|1|1|
-|20|+6|20|Régénération de l'ensorceleur|6|15|4|3|3|3|3|2|2|1|1|
+|16|+5|16|[Amélioration de caractéristiques]|6|14|4|3|3|3|2|1|1|1|-|
+|17|+6|17|[Métamagie]|6|15|4|3|3|3|2|1|1|1|1|
+|18|+6|18|[Aptitude d'origine magique]|6|15|4|3|3|3|3|1|1|1|1|
+|19|+6|19|[Amélioration de caractéristiques]|6|15|4|3|3|3|3|2|1|1|1|
+|20|+6|20|[Régénération de l'ensorceleur]|6|15|4|3|3|3|3|2|2|1|1|
 
 (* Emplacement de sorts par niveau de sort)
 
@@ -241,6 +241,15 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 [Lignée céleste]: sorcerer_celestial_hd.md
 [Lignée féerique]: sorcerer_fairy_hd.md
 [Lignée infernale]: sorcerer_infernal_hd.md
+
+[Amélioration de caractéristiques]: sorcerer_hd.md#amélioration-de-caractéristiques
+[Aptitude d'origine magique]: sorcerer_hd.md#origine-magique
+[Incantations]: sorcerer_hd.md#incantations
+[Métamagie]: sorcerer_hd.md#métamagie
+[Origine magique]: sorcerer_hd.md#origine-magique
+[Régénération de l'ensorceleur]: sorcerer_hd.md#régénération-de-lensorceleur
+[Source de magie]: sorcerer_hd.md#source-de-magie
+
 
 [Items]: #
 [Generic]: #

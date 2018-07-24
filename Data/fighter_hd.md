@@ -40,26 +40,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niveau|Bonus de maîtrise|Aptitudes|
 |---|---|---|
-|1|+2|Style de combat, Second souffle|
-|2|+2|Sursaut d'activité (x1)|
-|3|+2|Archétype martial|
-|4|+2|Amélioration de caractéristiques|
-|5|+3|Attaque supplémentaire|
-|6|+3|Amélioration de caractéristiques|
-|7|+3|Aptitude d'archétype martial|
-|8|+3|Amélioration de caractéristiques|
-|9|+4|Indomptable (x1)|
-|10|+4|Aptitude d'archétype martial|
-|11|+4|Attaque supplémentaire (2)|
-|12|+4|Amélioration de caractéristiques|
-|13|+5|Indomptable (x2)|
-|14|+5|Amélioration de caractéristiques|
-|15|+5|Aptitude d'archétype martial|
-|16|+5|Amélioration de caractéristiques|
-|17|+6|Sursaut d'activité (x2), Indomptable (x3)|
-|18|+6|Aptitude d'archétype martial|
-|19|+6|Amélioration de caractéristiques|
-|20|+6|Attaque supplémentaire (3)|
+|1|+2|[Style de combat], [Second souffle]|
+|2|+2|[Sursaut d'activité] (x1)|
+|3|+2|[Archétype martial]|
+|4|+2|[Amélioration de caractéristiques]|
+|5|+3|[Attaque supplémentaire]|
+|6|+3|[Amélioration de caractéristiques]|
+|7|+3|[Aptitude d'archétype martial]|
+|8|+3|[Amélioration de caractéristiques]|
+|9|+4|[Indomptable] (x1)|
+|10|+4|[Aptitude d'archétype martial]|
+|11|+4|[Attaque supplémentaire] (2)|
+|12|+4|[Amélioration de caractéristiques]|
+|13|+5|[Indomptable] (x2)|
+|14|+5|[Amélioration de caractéristiques]|
+|15|+5|[Aptitude d'archétype martial]|
+|16|+5|[Amélioration de caractéristiques]|
+|17|+6|[Sursaut d'activité] (x2), [Indomptable] (x3)|
+|18|+6|[Aptitude d'archétype martial]|
+|19|+6|[Amélioration de caractéristiques]|
+|20|+6|[Attaque supplémentaire] (3)|
 
 
 
@@ -125,7 +125,7 @@ Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techn
 
 [][Generic]
 
-# Amélioration de caractéristique
+# Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -163,6 +163,16 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 [Bretteur]: fighter_swordsman_hd.md
 [Défenseur]: fighter_defender_hd.md
 [Sorcelame]: fighter_spellblade_hd.md
+
+[Amélioration de caractéristiques]: fighter_hd.md#amélioration-de-caractéristiques
+[Aptitude d'archétype martial]: fighter_hd.md#archétype-martial
+[Archétype martial]: fighter_hd.md#archétype-martial
+[Attaque supplémentaire]: fighter_hd.md#attaque-supplémentaire
+[Indomptable]: fighter_hd.md#indomptable
+[Second souffle]: fighter_hd.md#second-souffle
+[Style de combat]: fighter_hd.md#style-de-combat
+[Sursaut d'activité]: fighter_hd.md#sursaut-dactivité
+
 
 [Items]: #
 [Generic]: #

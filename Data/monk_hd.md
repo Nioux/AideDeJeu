@@ -38,26 +38,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niveau|Bonus de maîtrise|Arts martiaux|Points de ki|Mouvement sans armure|Aptitudes|
 |---|---|---|---|---|---|
-|1|+2|1d4|_|_|Défense sans armure, Arts martiaux|
-|2|+2|1d4|2|+3 m|Ki, Déplacement sans armure|
-|3|+2|1d4|3|+3 m|Tradition monacale, Parade de projectiles|
-|4|+2|1d4|4|+3 m|Amélioration de caractéristiques, Chute ralentie|
-|5|+3|1d6|5|+3 m|Attaque supplémentaire, Frappe étourdissante|
-|6|+3|1d6|6|+4,50 m|Frappe de ki, Aptitude de tradition monacale|
-|7|+3|1d6|7|+4,50 m|Dérobade, Tranquillité de l'esprit|
-|8|+3|1d6|8|+4,50 m|Amélioration de caractéristiques|
-|9|+4|1d6|9|+4,50 m|Déplacement sans armure amélioré|
-|10|+4|1d6|10|+6 m|Pureté du corps|
-|11|+4|1d8|11|+6 m|Aptitude de tradition monacale|
-|12|+4|1d8|12|+6 m|Amélioration de caractéristiques|
-|13|+5|1d8|13|+6 m|Langage du Soleil et de la Lune|
-|14|+5|1d8|14|+7,50 m|Âme de diamant|
-|15|+5|1d8|15|+7,50 m|Jeunesse éternelle|
-|16|+5|1d8|16|+7,50 m|Amélioration de caractéristiques|
-|17|+6|1d10|17|+7,50 m|Aptitude de tradition monacale|
-|18|+6|1d10|18|+9 m|Corps vide|
-|19|+6|1d10|19|+9 m|Amélioration de caractéristiques|
-|20|+6|1d10|20|+9 m|Perfection|
+|1|+2|1d4|_|_|[Défense sans armure], [Arts martiaux]|
+|2|+2|1d4|2|+3 m|[Ki], [Déplacement sans armure]|
+|3|+2|1d4|3|+3 m|[Tradition monacale], [Parade de projectiles]|
+|4|+2|1d4|4|+3 m|[Amélioration de caractéristiques], [Chute ralentie]|
+|5|+3|1d6|5|+3 m|[Attaque supplémentaire], [Frappe étourdissante]|
+|6|+3|1d6|6|+4,50 m|[Frappe de ki], [Aptitude de tradition monacale]|
+|7|+3|1d6|7|+4,50 m|[Dérobade], [Tranquillité de l'esprit]|
+|8|+3|1d6|8|+4,50 m|[Amélioration de caractéristiques]|
+|9|+4|1d6|9|+4,50 m|[Déplacement sans armure amélioré]|
+|10|+4|1d6|10|+6 m|[Pureté du corps]|
+|11|+4|1d8|11|+6 m|[Aptitude de tradition monacale]|
+|12|+4|1d8|12|+6 m|[Amélioration de caractéristiques]|
+|13|+5|1d8|13|+6 m|[Langage du Soleil et de la Lune]|
+|14|+5|1d8|14|+7,50 m|[Âme de diamant]|
+|15|+5|1d8|15|+7,50 m|[Jeunesse éternelle]|
+|16|+5|1d8|16|+7,50 m|[Amélioration de caractéristiques]|
+|17|+6|1d10|17|+7,50 m|[Aptitude de tradition monacale]|
+|18|+6|1d10|18|+9 m|[Corps vide]|
+|19|+6|1d10|19|+9 m|[Amélioration de caractéristiques]|
+|20|+6|1d10|20|+9 m|[Perfection]|
 
 
 
@@ -241,6 +241,28 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 [Voie des cinq animaux]: monk_fiveanimals_hd.md
 [Voie de l'illumination]: monk_enlightenment_hd.md
 [Voie de la souplesse]: monk_flexibility_hd.md
+
+[Âme de diamant]: monk_hd.md#Âme-de-diamant
+[Amélioration de caractéristiques]: monk_hd.md#amélioration-de-caractéristiques
+[Aptitude de tradition monacale]: monk_hd.md#tradition-monacale
+[Arts martiaux]: monk_hd.md#arts-martiaux
+[Attaque supplémentaire]: monk_hd.md#attaque-supplémentaire
+[Chute ralentie]: monk_hd.md#chute-ralentie
+[Corps vide]: monk_hd.md#corps-vide
+[Défense sans armure]: monk_hd.md#défense-sans-armure
+[Déplacement sans armure]: monk_hd.md#déplacement-sans-armure
+[Déplacement sans armure amélioré]: monk_hd.md#déplacement-sans-armure
+[Dérobade]: monk_hd.md#dérobade
+[Frappe de ki]: monk_hd.md#frappe-de-ki
+[Frappe étourdissante]: monk_hd.md#frappe-étourdissante
+[Jeunesse éternelle]: monk_hd.md#jeunesse-éternelle
+[Ki]: monk_hd.md#ki
+[Langage du Soleil et de la Lune]: monk_hd.md#langage-du-soleil-et-de-la-lune
+[Parade de projectiles]: monk_hd.md#parade-de-projectiles
+[Perfection]: monk_hd.md#perfection
+[Pureté du corps]: monk_hd.md#pureté-du-corps
+[Tradition monacale]: monk_hd.md#tradition-monacale
+[Tranquillité de l'esprit]: monk_hd.md#tranquillité-de-lesprit
 
 [Items]: #
 [Generic]: #

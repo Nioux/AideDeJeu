@@ -51,11 +51,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |10|+4|[Inspiration bardique] (d10), [Expertise], [Secrets magiques]|4|14|4|3|3|3|2|-|-|-|-|
 |11|+4|_|4|15|4|3|3|3|2|1|-|-|-|
 |12|+4|[Amélioration de caractéristiques]|4|15|4|3|3|3|2|1|-|-|-|
-|13|+5|[Chants reposant] (d10)|4|16|4|3|3|3|2|1|1|-|-|
+|13|+5|[Chant reposant] (d10)|4|16|4|3|3|3|2|1|1|-|-|
 |14|+5|[Secrets magiques], [Aptitude de collège bardique]|4|18|4|3|3|3|2|1|1|-|-|
 |15|+5|[Inspiration bardique] (d12)|4|19|4|3|3|3|2|1|1|1|-|
 |16|+5|[Amélioration de caractéristiques]|4|19|4|3|3|3|2|1|1|1|-|
-|17|+6|[Chants reposant] (d12)|4|20|4|3|3|3|2|1|1|1|1|
+|17|+6|[Chant reposant] (d12)|4|20|4|3|3|3|2|1|1|1|1|
 |18|+6|[Secrets magiques]|4|22|4|3|3|3|3|1|1|1|1|
 |19|+6|[Amélioration de caractéristiques]|4|22|4|3|3|3|3|2|1|1|1|
 |20|+6|[Inspiration supérieure]|4|22|4|3|3|3|3|2|2|1|1|
@@ -196,6 +196,19 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [Collège des diplomates]: bard_diplomats_hd.md
 [Collège des hérauts]: bard_heralds_hd.md
 [Collège des saltimbanques]: bard_acrobats_hd.md
+
+[Amélioration de caractéristiques]: bard_hd.md#amélioration-de-caractéristiques
+[Aptitude de collège bardique]: bard_hd.md#collège-bardique
+[Chant reposant]: bard_hd.md#chant-reposant
+[Collège bardique]: bard_hd.md#collège-bardique
+[Contre-charme]: bard_hd.md#contre-charme
+[Expertise]: bard_hd.md#expertise
+[Incantations]: bard_hd.md#incantations
+[Inspiration bardique]: bard_hd.md#inspiration-bardique
+[Inspiration supérieure]: bard_hd.md#inspiration-supérieure
+[Secrets magiques]: bard_hd.md#secrets-magiques
+[Source d'inspiration]: bard_hd.md#source-dinspiration
+[Touche-à-tout]: bard_hd.md#touche-à-tout
 
 [Items]: #
 [Generic]: #

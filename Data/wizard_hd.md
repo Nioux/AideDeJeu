@@ -40,26 +40,26 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 |Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|Incantations, Restauration magique|3|2|-|-|-|-|-|-|-|-|
-|2|+2|Tradition arcanique|3|3|-|-|-|-|-|-|-|-|
+|1|+2|[Incantations], [Restauration magique]|3|2|-|-|-|-|-|-|-|-|
+|2|+2|[Tradition arcanique]|3|3|-|-|-|-|-|-|-|-|
 |3|+2|_|3|4|2|-|-|-|-|-|-|-|
-|4|+2|Amélioration de caractéristiques|4|4|3|-|-|-|-|-|-|-|
+|4|+2|[Amélioration de caractéristiques]|4|4|3|-|-|-|-|-|-|-|
 |5|+3|_|4|4|3|2|-|-|-|-|-|-|
-|6|+3|Aptitude de tradition arcanique|4|4|3|3|-|-|-|-|-|-|
+|6|+3|[Aptitude de tradition arcanique]|4|4|3|3|-|-|-|-|-|-|
 |7|+3|_|4|4|3|3|1|-|-|-|-|-|
-|8|+3|Amélioration de caractéristiques|4|4|3|3|2|-|-|-|-|-|
+|8|+3|[Amélioration de caractéristiques]|4|4|3|3|2|-|-|-|-|-|
 |9|+4|_|4|4|3|3|3|1|-|-|-|-|
-|10|+4|Aptitude de tradition arcanique|5|4|3|3|3|2|-|-|-|-|
+|10|+4|[Aptitude de tradition arcanique]|5|4|3|3|3|2|-|-|-|-|
 |11|+4|_|5|4|3|3|3|2|1|-|-|-|
-|12|+4|Amélioration de caractéristiques|5|4|3|3|3|2|1|-|-|-|
+|12|+4|[Amélioration de caractéristiques]|5|4|3|3|3|2|1|-|-|-|
 |13|+5|_|5|4|3|3|3|2|1|1|-|-|
-|14|+5|Aptitude de tradition arcanique|5|4|3|3|3|2|1|1|-|-|
+|14|+5|[Aptitude de tradition arcanique]|5|4|3|3|3|2|1|1|-|-|
 |15|+5|_|5|4|3|3|3|2|1|1|1|-|
-|16|+5|Amélioration de caractéristiques|5|4|3|3|3|2|1|1|1|-|
+|16|+5|[Amélioration de caractéristiques]|5|4|3|3|3|2|1|1|1|-|
 |17|+6|_|5|4|3|3|3|2|1|1|1|1|
-|18|+6|Maîtrise des sorts|5|4|3|3|3|3|1|1|1|1|
-|19|+6|Amélioration de caractéristiques|5|4|3|3|3|3|2|1|1|1|
-|20|+6|Sorts de prédilection|5|4|3|3|3|3|2|2|1|1|
+|18|+6|[Maîtrise des sorts]|5|4|3|3|3|3|1|1|1|1|
+|19|+6|[Amélioration de caractéristiques]|5|4|3|3|3|3|2|1|1|1|
+|20|+6|[Sorts de prédilection]|5|4|3|3|3|3|2|2|1|1|
 
 (* Emplacement de sorts par niveau de sort)
 
@@ -194,6 +194,14 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 [Arpenteur]: wizard_surveyor_hd.md
 [Élémentaliste]: wizard_elementalist_hd.md
 [Éminence grise]: wizard_eminence_hd.md
+
+[Amélioration de caractéristiques]: wizard_hd.md#amélioration-de-caractéristiques
+[Aptitude de tradition arcanique]: wizard_hd.md#tradition-arcanique
+[Incantations]: wizard_hd.md#incantations
+[Maîtrise des sorts]: wizard_hd.md#maîtrise-des-sorts
+[Restauration magique]: wizard_hd.md#restauration-magique
+[Sorts de prédilection]: wizard_hd.md#sorts-de-prédilection
+[Tradition arcanique]: wizard_hd.md#tradition-arcanique
 
 [Items]: #
 [Generic]: #
