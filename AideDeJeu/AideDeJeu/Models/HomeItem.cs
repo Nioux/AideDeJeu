@@ -19,6 +19,7 @@ namespace AideDeJeuLib
                     "## [Etats spéciaux](conditions_hd.md)\n\n" +
                     "## [Sorts](spells_hd.md)\n\n" +
                     "## [Créatures](monsters_hd.md)\n\n" +
+                    //"## [Mignons](baby_bestiary_hd.md)\n\n" +
                     "# VO (SRD)\n\n" +
                     "## [Conditions](conditions_vo.md)\n\n" +
                     "## [Spells](spells_vo.md)\n\n" +

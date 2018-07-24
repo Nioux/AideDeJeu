@@ -57,7 +57,7 @@ namespace AideDeJeu.Views
         {
             base.OnAppearing();
 
-            this.MasterBehavior = MasterBehavior.Popover;
+            //this.MasterBehavior = MasterBehavior.Popover;
 
             //if (Main.Items.Count() == 0)
                 //Main.LoadItemsCommand.Execute(null);
