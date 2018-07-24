@@ -12501,6 +12501,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [mage hand]: spells_vo.md#mage-hand
 [magic missile]: spells_vo.md#magic-missile
 [major image]: spells_vo.md#major-image
+[Melf's acid arrow]: spells_vo.md#melfs-acid-arrow
 [mending]: spells_vo.md#mending
 [mind blank]: spells_vo.md#mind-blank
 [minor illusion]: spells_vo.md#minor-illusion
@@ -12515,6 +12516,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 [produce flame]: spells_vo.md#produce-flame
 [protection from evil and good]: spells_vo.md#protection-from-evil-and-good
 [protection from poison]: spells_vo.md#protection-from-poison
+[raise dead]: spells_vo.md#raise-dead
 [ray of enfeeblement]: spells_vo.md#ray-of-enfeeblement
 [ray of frost]: spells_vo.md#ray-of-frost
 [remove curse]: spells_vo.md#remove-curse

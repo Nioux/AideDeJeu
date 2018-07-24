@@ -345,7 +345,7 @@ namespace AideDeJeuCmd
                 var lref = rref.ToLower();
                 if (!md.Contains($"[{lref}]:") &&
                     !md.Contains($"[{lref}](") &&
-                    !lref.Contains("]"))
+                    !lref.Contains("]["))
                 {
                     yield return rref;
                 }
