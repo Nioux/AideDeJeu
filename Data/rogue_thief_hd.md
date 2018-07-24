@@ -6,7 +6,7 @@
 
 # Voleur
 
-Vous affinez vos compétences dans l’art du larcin. Les cambrioleurs, bandits, voleurs à la tire et autres criminels choisissent généralement cet archétype. Mais il est également choisi par les roublards qui se voient comme des chercheurs de trésors professionnels, des explorateurs ou des enquêteurs. Vous améliorez non seulement votre agilité et votre discrétion, mais vous apprenez aussi des compétences qui vous seront utiles pour explorer des ruines anciennes, décrypter des langues inconnues et utiliser des objets magiques que vous ne pourriez normalement pas manier.
+Vous affinez vos compétences dans l'art du larcin. Les cambrioleurs, bandits, voleurs à la tire et autres criminels choisissent généralement cet archétype. Mais il est également choisi par les roublards qui se voient comme des chercheurs de trésors professionnels, des explorateurs ou des enquêteurs. Vous améliorez non seulement votre agilité et votre discrétion, mais vous apprenez aussi des compétences qui vous seront utiles pour explorer des ruines anciennes, décrypter des langues inconnues et utiliser des objets magiques que vous ne pourriez normalement pas manier.
 
 [][Generic]
 
@@ -16,9 +16,9 @@ Vous affinez vos compétences dans l’art du larcin. Les cambrioleurs, bandits,
 
 [][Generic]
 
-## Monte-en-l’air
+## Monte-en-l'air
 
-Quand vous choisissez cet archétype au niveau 3, vous obtenez la capacité d’escalader plus vite que la normale.
+Quand vous choisissez cet archétype au niveau 3, vous obtenez la capacité d'escalader plus vite que la normale.
 
 Escalader ne vous coûte plus de déplacement supplémentaire.
 
@@ -32,19 +32,19 @@ De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouv
 
 [][Generic]
 
-## Utilisation d’objets magiques
+## Utilisation d'objets magiques
 
-Au niveau 13, vous avez appris assez de choses sur le fonctionnement de la magie pour improviser et utiliser des objets magiques, même s’ils ne vous sont pas destinés.
+Au niveau 13, vous avez appris assez de choses sur le fonctionnement de la magie pour improviser et utiliser des objets magiques, même s'ils ne vous sont pas destinés.
 
-Vous ignorez toutes les conditions d’utilisation de classe, de race et de niveau concernant l’utilisation des objets magiques.
+Vous ignorez toutes les conditions d'utilisation de classe, de race et de niveau concernant l'utilisation des objets magiques.
 
 [][Generic]
 
 ## Réflexes de voleur
 
-Quand vous atteignez le niveau 17, vous êtes devenu particulièrement doué dans l’art de tendre une embuscade et de vous enfuir rapidement en cas de danger.
+Quand vous atteignez le niveau 17, vous êtes devenu particulièrement doué dans l'art de tendre une embuscade et de vous enfuir rapidement en cas de danger.
 
-Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d’initiative normal et, pour savoir quand vous jouez votre deuxième tour, vous utilisez votre résultat d’initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes surpris.
+Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d'initiative normal et, pour savoir quand vous jouez votre deuxième tour, vous utilisez votre résultat d'initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes surpris.
 
 [Items]: #
 [Generic]: #

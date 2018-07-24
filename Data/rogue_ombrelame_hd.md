@@ -6,9 +6,9 @@
 
 # Ombrelame
 
-Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l’adversaire semble une seconde nature chez certain.
+Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l'adversaire semble une seconde nature chez certain.
 
-Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l’obscurité, quelque chose d’inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
+Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l'obscurité, quelque chose d'inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
 
 [][Generic]
 
@@ -27,7 +27,7 @@ Lorsque vous lancez un sort, vous dépensez un nombre de points de sorcellerie i
 |3|5|
 |4|6|
 
-Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la liste de sorts d’ombrelame.
+Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la liste de sorts d'ombrelame.
 
 À chaque fois que vous gagnez un niveau pair de roublard (4, 6, etc.), vous apprenez un nouveau sort de cette liste (mais pas un tour de magie).
 
@@ -37,15 +37,15 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de Charisme
 
-Modificateur d’attaque des sorts = bonus de maîtrise + modificateur de Charisme
+Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de Charisme
 
-Vous pouvez utiliser votre propre ombre comme focaliseur d’incantation pour vos sorts d’ombrelame.
+Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos sorts d'ombrelame.
 
 [][Generic]
 
-## Enfant de l’ombre
+## Enfant de l'ombre
 
-Également au niveau 3, en utilisant une action bonus, vous pouvez désigner une source de lumière non magique à une portée de 18 mètres et réduire de moitié le rayon de lumière vive qu’elle émet pendant 1 minute. La zone de lumière faible n’est pas affectée.
+Également au niveau 3, en utilisant une action bonus, vous pouvez désigner une source de lumière non magique à une portée de 18 mètres et réduire de moitié le rayon de lumière vive qu'elle émet pendant 1 minute. La zone de lumière faible n'est pas affectée.
 
 Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mais sa zone de lumière faible reste de 6 mètres. Si la source de lumière est magique, vous devez dépenser 1 point de sorcellerie par niveau du sort (aucun point pour un tour de magie).
 
@@ -53,17 +53,17 @@ De plus, vous obtenez un avantage aux tests de Dextérité (Discrétion) que vou
 
 [][Generic]
 
-## Énergie de l’ombre
+## Énergie de l'ombre
 
 Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points de sorcellerie égal à votre bonus de maîtrise après avoir terminé un repos court.
 
-Vous devez passer l’intégralité de votre repos court dans un lieu éclairé au maximum par une lumière faible. Vous ne pouvez bénéficier de cette aptitude qu’une seule fois entre deux repos long.
+Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au maximum par une lumière faible. Vous ne pouvez bénéficier de cette aptitude qu'une seule fois entre deux repos long.
 
 [][Generic]
 
 ## Frappe maudite
 
-Également au niveau 9, lorsque vous réussissez une attaque sournoise, vous pouvez dépenser 1 point de sorcellerie pour transformer les dégâts infligés par votre attaque sournoise en dégâts nécrotiques (mais pas les dégâts de l’arme). Les dégâts infligés par l’arme sont considérés comme des dégâts magiques.
+Également au niveau 9, lorsque vous réussissez une attaque sournoise, vous pouvez dépenser 1 point de sorcellerie pour transformer les dégâts infligés par votre attaque sournoise en dégâts nécrotiques (mais pas les dégâts de l'arme). Les dégâts infligés par l'arme sont considérés comme des dégâts magiques.
 
 [][Generic]
 
@@ -71,15 +71,15 @@ Vous devez passer l’intégralité de votre repos court dans un lieu éclairé 
 
 À partir du niveau 13, vous pouvez lancer le sort pas brumeux en dépensant 1 point de sorcellerie.
 
-Vous n’avez pas besoin de connaître ce sort et, si vous l’aviez appris, vous pouvez apprendre un autre sort à sa place. Vous apprenez en outre un troisième tour de magie.
+Vous n'avez pas besoin de connaître ce sort et, si vous l'aviez appris, vous pouvez apprendre un autre sort à sa place. Vous apprenez en outre un troisième tour de magie.
 
 [][Generic]
 
-## Maître de l’ombre
+## Maître de l'ombre
 
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : apparence trompeuse, passage dimensionnel ou tromperie. Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 
-Enfin, vous pouvez bénéficier de votre aptitude énergie de l’ombre une seconde fois entre deux repos longs.
+Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
 
 [Items]: #
 [Generic]: #

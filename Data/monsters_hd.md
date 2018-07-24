@@ -11501,6 +11501,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 **_Nuée de guêpes._** Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
 
 
+
 [][MonsterHD]
 
 # Ours brun
@@ -13434,3 +13435,4 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 
 [MonstersHD]: #
 [MonsterHD]: #
+[Generic]: #

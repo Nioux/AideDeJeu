@@ -428,6 +428,7 @@ namespace AideDeJeu.ViewModels
                 {
                     var monster = item as Monster;
                     return 
+                        monster != null &&
                         monster.Type.Contains(type) &&
                         (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
                         monster.Source.Contains(source) &&

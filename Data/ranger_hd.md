@@ -25,11 +25,11 @@ En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Équipement
 
-Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) une armure d’écailles ou (b) une armure de cuir
+* (a) une armure d'écailles ou (b) une armure de cuir
 * (a) deux épées courtes ou (b) deux armes courantes de corps-à-corps
-* (a) un paquetage d’exploration souterraine ou (b) un paquetage d’explorateur
+* (a) un paquetage d'exploration souterraine ou (b) un paquetage d'explorateur
 * un arc long et un carquois contenant vingt flèches Ennemi juré
 
 
@@ -45,21 +45,21 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |3|+2|Archétype de rôdeur, Vigilance primitive|3|3|-|-|-|-|
 |4|+2|Amélioration de caractéristiques|3|3|-|-|-|-|
 |5|+3|Attaque supplémentaire|4|4|2|-|-|-|
-|6|+3|Amélioration d’ennemi juré et d’explorateur-né|4|4|2|-|-|-|
-|7|+3|Aptitude d’archétype de rôdeur|5|4|3|-|-|-|
+|6|+3|Amélioration d'ennemi juré et d'explorateur-né|4|4|2|-|-|-|
+|7|+3|Aptitude d'archétype de rôdeur|5|4|3|-|-|-|
 |8|+3|Amélioration de caractéristiques, Traversée des terrains|5|4|3|-|-|-|
 |9|+4|_|6|4|3|2|-|-|
-|10|+4|Amélioration d’explorateur-né, Camouflage naturel|6|4|3|2|-|-|
-|11|+4|Aptitude d’archétype de rôdeur|7|4|3|3|-|-|
+|10|+4|Amélioration d'explorateur-né, Camouflage naturel|6|4|3|2|-|-|
+|11|+4|Aptitude d'archétype de rôdeur|7|4|3|3|-|-|
 |12|+4|Amélioration de caractéristiques|7|4|3|3|-|-|
 |13|+5|_|8|4|3|3|1|-|
-|14|+5|Amélioration d’ennemi juré, Disparition|8|4|3|3|1|-|
-|15|+5|Aptitude d’archétype de rôdeur|9|4|3|3|2|-|
+|14|+5|Amélioration d'ennemi juré, Disparition|8|4|3|3|1|-|
+|15|+5|Aptitude d'archétype de rôdeur|9|4|3|3|2|-|
 |16|+5|Amélioration de caractéristiques|9|4|3|3|2|-|
 |17|+6|_|10|4|3|3|3|1|
 |18|+6|Sens sauvages|10|4|3|3|3|1|
 |19|+6|Amélioration de caractéristiques|11|4|3|3|3|2|
-|20|+6|Tueur d’ennemis|11|4|3|3|3|2|
+|20|+6|Tueur d'ennemis|11|4|3|3|3|2|
 
 (* Emplacement de sorts par niveau de sort)
 
@@ -68,32 +68,32 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 ## Ennemi juré
 
-Dès le niveau 1, vous avez une expérience significative quand il s’agit d’étudier, de traquer, de chasser et même de parler à un certain type d’ennemi.
+Dès le niveau 1, vous avez une expérience significative quand il s'agit d'étudier, de traquer, de chasser et même de parler à un certain type d'ennemi.
 
-Choisissez un type d’ennemi juré : aberrations, bêtes, célestes, créatures artificielles, dragons, élémentaires, fées, fiélons, géants, vases, plantes ou morts-vivants.
+Choisissez un type d'ennemi juré : aberrations, bêtes, célestes, créatures artificielles, dragons, élémentaires, fées, fiélons, géants, vases, plantes ou morts-vivants.
 
-Alternativement, vous pouvez choisir deux races d’humanoïdes (comme les gnolls et les orcs) comme ennemis jurés.
+Alternativement, vous pouvez choisir deux races d'humanoïdes (comme les gnolls et les orcs) comme ennemis jurés.
 
-Vous obtenez un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d’Intelligence permettant de se rappeler d’informations les concernant.
+Vous obtenez un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d'Intelligence permettant de se rappeler d'informations les concernant.
 
-Quand vous gagnez cette aptitude, vous apprenez également une langue de votre choix qui est parlée par l’un de vos ennemis jurés, dans la mesure où ils savent parler.
+Quand vous gagnez cette aptitude, vous apprenez également une langue de votre choix qui est parlée par l'un de vos ennemis jurés, dans la mesure où ils savent parler.
 
-Vous pouvez choisir un nouvel ennemi juré ainsi qu’une langue qui lui est associée au niveau 6, puis au niveau 14. Ces choix devraient être faits en fonction du type de monstres que vous avez rencontrés pendant vos aventures.
+Vous pouvez choisir un nouvel ennemi juré ainsi qu'une langue qui lui est associée au niveau 6, puis au niveau 14. Ces choix devraient être faits en fonction du type de monstres que vous avez rencontrés pendant vos aventures.
 
 [][Generic]
 
 ## Explorateur-né
 
-Vous êtes particulièrement familier d’un certain type d’environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, forêt, plaine, montagne ou marais. Quand vous faites un test d’Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
+Vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, forêt, plaine, montagne ou marais. Quand vous faites un test d'Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
 
 Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous obtenez les bénéfices suivants :
 
 * Les terrains difficiles ne ralentissent pas le déplacement de votre groupe.
-* Votre groupe ne peut pas se perdre, sauf s’il est soumis à un effet magique.
+* Votre groupe ne peut pas se perdre, sauf s'il est soumis à un effet magique.
 * Même si vous avez commencé une autre activité pendant votre voyage (comme chercher de la nourriture, naviguer ou pister), vous restez vigilant.
 * Si vous voyagez seul, vous pouvez vous déplacer discrètement tout en conservant une allure normale.
 * Quand vous cherchez de la nourriture, vous trouvez deux fois plus de nourriture que normalement.
-* Si vous pistez d’autres créatures, vous pouvez déterminer leur nombre exact, leur taille et quand elles ont traversé la zone que vous examinez.
+* Si vous pistez d'autres créatures, vous pouvez déterminer leur nombre exact, leur taille et quand elles ont traversé la zone que vous examinez.
 
 Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection supplémentaire.
 
@@ -101,13 +101,13 @@ Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection sup
 
 ## Style de combat
 
-Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l’une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
+Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
 [][Generic]
 
 ## Archerie
 
-Vous gagnez un bonus de +2 aux jets d’attaque quand vous attaquez avec des armes à distance.
+Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance.
 
 [][Generic]
 
@@ -131,37 +131,37 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 
 # Incantations
 
-Quand vous arrivez au niveau 2, vous apprenez à utiliser l’essence magique qui se trouve dans la nature pour lancer des sorts, un peu comme le ferait un druide. Reportez- vous au chapitre 11, Lancer des sorts, pages 306- 310, pour en savoir plus sur les règles d’incantation et à Listes de sorts par classe, pages 312-319 pour la liste de sorts de rôdeur.
+Quand vous arrivez au niveau 2, vous apprenez à utiliser l'essence magique qui se trouve dans la nature pour lancer des sorts, un peu comme le ferait un druide. Reportez- vous au chapitre 11, Lancer des sorts, pages 306- 310, pour en savoir plus sur les règles d'incantation et à Listes de sorts par classe, pages 312-319 pour la liste de sorts de rôdeur.
 
 ## Emplacements de sorts
 
-Vous trouverez dans le tableau d’évolution du rôdeur le nombre d’emplacements de sorts dont vous disposez et qui vous permettent de lancer des sorts de niveau 1 ou supérieur.
+Vous trouverez dans le tableau d'évolution du rôdeur le nombre d'emplacements de sorts dont vous disposez et qui vous permettent de lancer des sorts de niveau 1 ou supérieur.
 
-Pour lancer un de ces sorts, vous devez utiliser un emplacement de sort d’un niveau équivalent ou supérieur au sort que vous voulez lancer. Vous regagnez tous les emplacements de sort que vous avez utilisés après un repos long.
+Pour lancer un de ces sorts, vous devez utiliser un emplacement de sort d'un niveau équivalent ou supérieur au sort que vous voulez lancer. Vous regagnez tous les emplacements de sort que vous avez utilisés après un repos long.
 
-Par exemple, si vous connaissez le sort de niveau 1 amitié avec les animaux et que vous avez un emplacement de sort de niveau 1 et un autre de niveau 2 encore disponibles, vous pouvez lancer ce sort en utilisant l’un ou l’autre de ces emplacements.
+Par exemple, si vous connaissez le sort de niveau 1 amitié avec les animaux et que vous avez un emplacement de sort de niveau 1 et un autre de niveau 2 encore disponibles, vous pouvez lancer ce sort en utilisant l'un ou l'autre de ces emplacements.
 
 ## Sorts connus de niveau 1 et supérieur
 
 Vous connaissez deux sorts de niveau 1 choisis dans la liste de sorts de rôdeur.
 
-La colonne sorts connus du tableau d’évolution du rôdeur vous indique à quels niveaux vous pouvez apprendre de nouveaux sorts de rôdeur de votre choix et combien. Vous ne pouvez par contre apprendre que des sorts que vous êtes en mesure de lancer grâce à vos emplacements de sorts. Par exemple, quand vous atteignez le niveau 5 de cette classe, vous pouvez apprendre des sorts de niveau 1 ou 2.
+La colonne sorts connus du tableau d'évolution du rôdeur vous indique à quels niveaux vous pouvez apprendre de nouveaux sorts de rôdeur de votre choix et combien. Vous ne pouvez par contre apprendre que des sorts que vous êtes en mesure de lancer grâce à vos emplacements de sorts. Par exemple, quand vous atteignez le niveau 5 de cette classe, vous pouvez apprendre des sorts de niveau 1 ou 2.
 
-De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de rôdeur que vous connaissez et le remplacer par un autre sort de la liste de sorts de rôdeur. Il doit aussi s’agir d’un sort que vous êtes en mesure de lancer.
+De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de rôdeur que vous connaissez et le remplacer par un autre sort de la liste de sorts de rôdeur. Il doit aussi s'agir d'un sort que vous êtes en mesure de lancer.
 
-## Caractéristique d’incantation
+## Caractéristique d'incantation
 
-La caractéristique d’incantation que vous utilisez pour les sorts de rôdeur est la Sagesse, car votre magie découle de votre lien avec la nature. Vous utilisez votre Sagesse dès qu’un sort fait appel à votre caractéristique d’incantation. De plus, vous utilisez votre modificateur de Sagesse afin de définir le DD du jet de sauvegarde d’un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
+La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur est la Sagesse, car votre magie découle de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Sagesse afin de définir le DD du jet de sauvegarde d'un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
 
-DD d’un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Sagesse
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Sagesse
 
-Modificateur d’attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse
+Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse
 
 [][Generic]
 
 ## Archétype de rôdeur
 
-Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d’adhérer : chasseur, archer arcanique, exilé ou traqueur. Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d’accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
+Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d'adhérer : chasseur, archer arcanique, exilé ou traqueur. Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
 
 [][Generic]
 
@@ -197,7 +197,7 @@ En plus de cela, vous obtenez un avantage sur les jets de sauvegarde contre les 
 
 À partir du niveau 10, vous pouvez passer une minute à créer de quoi vous camoufler. Vous devez pour cela avoir accès à de la boue, de la terre, des plantes, de la suie et d'autres matériaux naturels avec lesquels créer votre camouflage.
 
-Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de Dextérité (Discrétion) tant que vous vous restez immobile et ne faites pas d’action. Dès que vous bougez ou choisissez d’effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
+Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de Dextérité (Discrétion) tant que vous vous restez immobile et ne faites pas d'action. Dès que vous bougez ou choisissez d'effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
 
 [][Generic]
 
@@ -209,21 +209,21 @@ Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une s
 
 ## Sens sauvages
 
-Au niveau 18, vous gagnez des sens surnaturels qui vous aident à combattre les créatures que vous ne pouvez pas voir. Quand vous attaquez une créature que vous ne pouvez pas voir, le fait de ne pas la voir ne vous impose pas de désavantage sur vos jets d’attaque contre cette créature.
+Au niveau 18, vous gagnez des sens surnaturels qui vous aident à combattre les créatures que vous ne pouvez pas voir. Quand vous attaquez une créature que vous ne pouvez pas voir, le fait de ne pas la voir ne vous impose pas de désavantage sur vos jets d'attaque contre cette créature.
 
-Vous arrivez aussi à percevoir l’endroit où se trouve toute créature invisible dans un rayon de 9 mètres autour de vous, dans la mesure où elle n’est pas cachée et que vous n’êtes ni aveuglé ni assourdi.
+Vous arrivez aussi à percevoir l'endroit où se trouve toute créature invisible dans un rayon de 9 mètres autour de vous, dans la mesure où elle n'est pas cachée et que vous n'êtes ni aveuglé ni assourdi.
 
 [][Generic]
 
-## Tueur d’ennemis
+## Tueur d'ennemis
 
-Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d’attaque ou de dégâts d’une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d’utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
+Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque ou de dégâts d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
 
 [][Generic]
 
 # Archétypes de rôdeur
 
-Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l’archer arcanique, le chasseur, l’exilé et le traqueur.
+Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l'archer arcanique, le chasseur, l'exilé et le traqueur.
 
 ## [Chasseur]
 

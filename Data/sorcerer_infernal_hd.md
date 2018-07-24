@@ -8,7 +8,7 @@
 
 Votre magie innée est une résurgence de la magie fiélonne mêlée à votre sang ou à celui de vos ancêtres.
 
-Généralement, les ensorceleurs issus de cette origine peuvent retracer leur ascendance jusqu’à un puissant lanceur de sort des temps anciens qui a passé un pacte avec un démon ou un diable majeur. Plus rarement, cet ancêtre a eu une telle créature comme parent mais, bien que des exceptions existent, cela s’exprime alors habituellement par l’appartenance à la race des tieffelins.
+Généralement, les ensorceleurs issus de cette origine peuvent retracer leur ascendance jusqu'à un puissant lanceur de sort des temps anciens qui a passé un pacte avec un démon ou un diable majeur. Plus rarement, cet ancêtre a eu une telle créature comme parent mais, bien que des exceptions existent, cela s'exprime alors habituellement par l'appartenance à la race des tieffelins.
 
 Bien entendu, les tieffelins eux-mêmes sont particulièrement adaptés à une telle lignée.
 
@@ -18,13 +18,13 @@ Bien entendu, les tieffelins eux-mêmes sont particulièrement adaptés à une t
 
 Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre lignée descende des démons ou des diables.
 
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s’il s’applique.
+De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
 
 [][Generic]
 
 ## Résistance des fiélons
 
-Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l’état empoisonné, il dure deux fois moins longtemps.
+Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l'état empoisonné, il dure deux fois moins longtemps.
 
 En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
 
@@ -44,9 +44,9 @@ En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résis
 
 ## Forme infernale
 
-À partir du niveau 18, vous pouvez dépenser des points de sorcellerie et votre action pour prendre une forme infernale. Cette aptitude est équivalente au sort changement de forme (avec la nécessité de maintenir sa concentration), mais vous ne pouvez prendre la forme que de diables ou de démons. En fonction de votre lignée, vous devez choisir entre les diables et les démons au moment de l’acquisition de l’aptitude.
+À partir du niveau 18, vous pouvez dépenser des points de sorcellerie et votre action pour prendre une forme infernale. Cette aptitude est équivalente au sort changement de forme (avec la nécessité de maintenir sa concentration), mais vous ne pouvez prendre la forme que de diables ou de démons. En fonction de votre lignée, vous devez choisir entre les diables et les démons au moment de l'acquisition de l'aptitude.
 
-La transformation vous coûte un nombre de points de sorcellerie égal à l’indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitez changer de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l’aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
+La transformation vous coûte un nombre de points de sorcellerie égal à l'indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitez changer de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l'aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
 
 [Items]: #
 [Generic]: #

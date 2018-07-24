@@ -25,11 +25,11 @@ En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Équipement
 
-Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
 * (a) une arme de guerre et un bouclier ou (b) deux armes de guerre
-* (a) cinq javelines ou (b) n’importe quelle arme de corps-à-corps courante
-* (a) un paquetage d’ecclésiastique ou (b) un paquetage d’explorateur
+* (a) cinq javelines ou (b) n'importe quelle arme de corps-à-corps courante
+* (a) un paquetage d'ecclésiastique ou (b) un paquetage d'explorateur
 * une cotte de mailles et un symbole sacré
 
 
@@ -72,7 +72,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 
 Vous ressentez le mal comme une odeur nauséabonde, tandis que le bien résonne comme une musique céleste à vos oreilles. Vous pouvez utiliser une action pour mettre vos sens en éveil afin de détecter de telles forces.
 
-Jusqu’à la fin de votre prochain tour, vous savez où se trouve toute créature céleste, fiélonne ou mort-vivante qui n’est pas cachée derrière un abri total dans un rayon de 18 mètres autour de vous. Vous connaissez le type (céleste, fiélon ou mort-vivant) de chaque être dont vous ressentez la présence, mais vous n’en savez pas plus sur cette créature. Dans le même rayon, vous détectez aussi la présence de tout lieu ou objet qui a été consacré ou profané, comme cela peut être fait avec un sort comme sanctification.
+Jusqu'à la fin de votre prochain tour, vous savez où se trouve toute créature céleste, fiélonne ou mort-vivante qui n'est pas cachée derrière un abri total dans un rayon de 18 mètres autour de vous. Vous connaissez le type (céleste, fiélon ou mort-vivant) de chaque être dont vous ressentez la présence, mais vous n'en savez pas plus sur cette créature. Dans le même rayon, vous détectez aussi la présence de tout lieu ou objet qui a été consacré ou profané, comme cela peut être fait avec un sort comme sanctification.
 
 Entre deux repos longs, vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de Charisme.
 
@@ -84,15 +84,15 @@ Votre contact béni peut guérir les blessures. Vous avez une réserve de guéri
 
 Vous pouvez utiliser une action pour toucher une créature et puiser dans votre réserve afin de guérir cette créature en lui redonnant un certain nombre de points de vie, qui ne peut pas dépasser le nombre de points restant dans votre réserve.
 
-Vous pouvez aussi choisir de puiser 5 points de vie dans cette réserve de guérison pour soigner la victime d’une maladie ou neutraliser un poison. Vous pouvez guérir plusieurs maladies ou neutraliser plusieurs poisons grâce à une seule imposition des mains, tant que vous payez séparément le coup de chaque soin.
+Vous pouvez aussi choisir de puiser 5 points de vie dans cette réserve de guérison pour soigner la victime d'une maladie ou neutraliser un poison. Vous pouvez guérir plusieurs maladies ou neutraliser plusieurs poisons grâce à une seule imposition des mains, tant que vous payez séparément le coup de chaque soin.
 
-Cette aptitude n’a aucun effet sur les morts-vivants ou les créatures artificielles.
+Cette aptitude n'a aucun effet sur les morts-vivants ou les créatures artificielles.
 
 [][Generic]
 
 ## Style de combat
 
-Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l’une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
+Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
 [][Generic]
 
@@ -110,7 +110,7 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 
 ## Armes à deux mains
 
-Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s’il s’agit encore d’un 1 ou d’un 2. L’arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
+Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
 
 [][Generic]
 
@@ -126,25 +126,25 @@ En arrivant au niveau 2, vous avez appris à puiser dans la magie divine grâce 
 
 ## Préparer et lancer des sorts
 
-Le tableau d’évolution du paladin vous indique combien d’emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de paladin, vous devez utiliser un emplacement d’un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
+Le tableau d'évolution du paladin vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de paladin, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
 
-Choisissez dans la liste de sorts de paladin des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de paladin égal à votre modificateur de Charisme + la moitié de votre niveau de paladin (avec un minimum d’un sort). Vous devez choisir des sorts que vous pouvez lancer, c’est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
+Choisissez dans la liste de sorts de paladin des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de paladin égal à votre modificateur de Charisme + la moitié de votre niveau de paladin (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un paladin de niveau 5, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Charisme de 14, votre liste de sorts peut compter quatre sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l’efface pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un paladin de niveau 5, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Charisme de 14, votre liste de sorts peut compter quatre sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
-Vous pouvez changer votre liste de sorts préparés à la fin d’un repos long, mais préparer une nouvelle liste de sorts de paladin vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
+Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de paladin vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
-## Caractéristique d’incantation
+## Caractéristique d'incantation
 
-La caractéristique d’incantation qui vous permet de lancer les sorts de paladin est le Charisme, car vos pouvoirs découlent de la force de votre conviction. Vous utilisez le Charisme dès qu’un sort de paladin vous demande d’utiliser votre caractéristique d’incantation pour être lancé. En plus de cela, vous utilisez votre modificateur de Charisme quand vous calculez le jet de sauvegarde d’un sort de paladin que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de paladin est le Charisme, car vos pouvoirs découlent de la force de votre conviction. Vous utilisez le Charisme dès qu'un sort de paladin vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur de Charisme quand vous calculez le jet de sauvegarde d'un sort de paladin que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d’un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Charisme
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Charisme
 
 Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de Charisme
 
-## Focaliseur d’incantation
+## Focaliseur d'incantation
 
-Vous pouvez utiliser un symbole sacré comme focaliseur d’incantation pour vos sorts de paladin.
+Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos sorts de paladin.
 
 [][Generic]
 
@@ -164,9 +164,9 @@ Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
 ## Serment sacré
 
-Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu’à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le serment de dévotion, le serment d’obédience, le serment de perfection et le serment de piété, détaillés à la fin de la section consacrée à cette classe.
+Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tout jamais. Jusqu'à ce moment-là, vous étiez encore à un stade préparatoire, engagé dans la voie, mais sans vous y être entièrement dévoué. Vous devez maintenant choisir entre le serment de dévotion, le serment d'obédience, le serment de perfection et le serment de piété, détaillés à la fin de la section consacrée à cette classe.
 
-Votre choix vous permet d’avoir accès à des aptitudes particulières aux niveaux 3, 7, 15 et 20. Parmi ces aptitudes se trouvent les sorts de serment et la canalisation d’énergie divine.
+Votre choix vous permet d'avoir accès à des aptitudes particulières aux niveaux 3, 7, 15 et 20. Parmi ces aptitudes se trouvent les sorts de serment et la canalisation d'énergie divine.
 
 
 [][Generic]
@@ -175,19 +175,19 @@ Votre choix vous permet d’avoir accès à des aptitudes particulières aux niv
 
 À chaque serment est associée une liste de sorts. Vous gagnez accès à ces sorts aux niveaux indiqués dans la description du serment que vous avez choisi. Une fois que vous avez accès à ces sorts, vous pouvez les considérer comme préparés en permanence. Les sorts de serment ne sont pas comptabilisés dans le total des sorts que vous préparez chaque jour.
 
-Si vous gagnez un sort de serment qui n’apparaît pas dans la liste de sorts de paladin, vous le considérez tout de même comme un sort de paladin en ce qui vous concerne.
+Si vous gagnez un sort de serment qui n'apparaît pas dans la liste de sorts de paladin, vous le considérez tout de même comme un sort de paladin en ce qui vous concerne.
 
 [][Generic]
 
-## Canalisation d’énergie divine
+## Canalisation d'énergie divine
 
-Votre serment vous permet de canaliser l’énergie divine pour alimenter vos effets magiques. Vous trouverez une description de vos options de canalisation d’énergie divine et de leur utilisation dans la section consacrée à votre serment.
+Votre serment vous permet de canaliser l'énergie divine pour alimenter vos effets magiques. Vous trouverez une description de vos options de canalisation d'énergie divine et de leur utilisation dans la section consacrée à votre serment.
 
-Quand vous utilisez une canalisation d’énergie divine, vous choisissez quel effet vous souhaitez produire.
+Quand vous utilisez une canalisation d'énergie divine, vous choisissez quel effet vous souhaitez produire.
 
-Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l’utiliser de nouveau.
+Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l'utiliser de nouveau.
 
-Certains effets de la canalisation d’énergie divine impliquent des jets de sauvegarde. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des jets de sauvegarde de vos sorts de paladin.
+Certains effets de la canalisation d'énergie divine impliquent des jets de sauvegarde. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des jets de sauvegarde de vos sorts de paladin.
 
 [][Generic]
 
@@ -213,7 +213,7 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
 ## Aura de courage
 
-À partir du niveau 10, vous, ainsi que toute créature amicale qui se trouve à 3 mètres de vous, ne pouvez être terrorisés. Cette aura persiste tant que vous n’êtes pas inconscient.
+À partir du niveau 10, vous, ainsi que toute créature amicale qui se trouve à 3 mètres de vous, ne pouvez être terrorisés. Cette aura persiste tant que vous n'êtes pas inconscient.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
@@ -221,9 +221,9 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
 ## Châtiment divin amélioré
 
-Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corpsà- corps sont alimentés par de l’énergie divine. Quand vous touchez une créature avec une arme de corps-àcorps, celle-ci subit 1d8 dégâts radiants supplémentaires.
+Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corpsà- corps sont alimentés par de l'énergie divine. Quand vous touchez une créature avec une arme de corps-àcorps, celle-ci subit 1d8 dégâts radiants supplémentaires.
 
-Si vous utilisez aussi votre châtiment divin lors d’une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment divin.
+Si vous utilisez aussi votre châtiment divin lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment divin.
 
 [][Generic]
 
@@ -231,17 +231,17 @@ Si vous utilisez aussi votre châtiment divin lors d’une attaque, vous additio
 
 À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d’une fois) entre deux repos longs.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux repos longs.
 
 [][Generic]
 
 # Serments sacrés
 
-Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir une cause juste et combattre activement le mal. Un paladin prête son ultime serment quand il atteint le niveau 3. C’est le point culminant de son apprentissage. Certains personnages qui ont suivi cette voie ne se considèrent pas de véritables paladins tant qu’ils n’ont pas atteint le niveau 3 et prêté ce serment. Pour d’autres, ce serment n’est qu’une formalité, une manière d’officialiser ce qui a toujours été vrai en leur for intérieur.
+Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir une cause juste et combattre activement le mal. Un paladin prête son ultime serment quand il atteint le niveau 3. C'est le point culminant de son apprentissage. Certains personnages qui ont suivi cette voie ne se considèrent pas de véritables paladins tant qu'ils n'ont pas atteint le niveau 3 et prêté ce serment. Pour d'autres, ce serment n'est qu'une formalité, une manière d'officialiser ce qui a toujours été vrai en leur for intérieur.
 
 ## [Serment de dévotion]
 
-## [Serment d’obédience]
+## [Serment d'obédience]
 
 ## [Serment de perfection]
 
@@ -250,7 +250,7 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 ## [Serment de rédemption]
 
 [Serment de dévotion]: paladin_devotion_hd.md
-[Serment d’obédience]: paladin_obedience_hd.md
+[Serment d'obédience]: paladin_obedience_hd.md
 [Serment de perfection]: paladin_perfection_hd.md
 [Serment de piété]: paladin_piety_hd.md
 [Serment de rédemption]: paladin_redemption_hd.md

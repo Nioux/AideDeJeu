@@ -25,11 +25,11 @@ En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Équipement
 
-Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
 * (a) une rapière ou (b) une épée courte
 * (a) un arc court et un carquois avec vingt flèches ou (b) une épée courte
-* (a) un paquetage de cambrioleur, (b) un paquetage d’exploration souterraine, ou (c) un paquetage d’explorateur
+* (a) un paquetage de cambrioleur, (b) un paquetage d'exploration souterraine, ou (c) un paquetage d'explorateur
 * (a) une armure de cuir, deux dagues et des outils de voleur
 
 
@@ -48,15 +48,15 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |6|+3|3d6|Expertise|
 |7|+3|4d6|Dérobade|
 |8|+3|4d6|Amélioration de caractéristiques|
-|9|+4|5d6|Aptitude d’archétype de roublard|
+|9|+4|5d6|Aptitude d'archétype de roublard|
 |10|+4|5d6|Amélioration de caractéristiques|
 |11|+4|6d6|Talent|
 |12|+4|6d6|Amélioration de caractéristiques|
-|13|+5|7d6|Aptitude d’archétype de roublard|
+|13|+5|7d6|Aptitude d'archétype de roublard|
 |14|+5|7d6|Ouïe fine|
 |15|+5|8d6|Esprit impénétrable|
 |16|+5|8d6|Amélioration de caractéristiques|
-|17|+6|9d6|Aptitude d’archétype de roublard|
+|17|+6|9d6|Aptitude d'archétype de roublard|
 |18|+6|9d6|Insaisissable|
 |19|+6|10d6|Amélioration de caractéristiques|
 |20|+6|10d6|Coup de chance|
@@ -74,23 +74,23 @@ Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences 
 
 ## Attaque sournoise
 
-Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d’inattention d’un adversaire.
+Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire.
 
-Une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d’attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
+Une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
 
-Vous n’avez pas besoin d’avoir un avantage sur le jet d’attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d’elle, que cet ennemi n’est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d’attaque.
+Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque.
 
-Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous pouvez le voir dans la colonne attaque sournoise du tableau d’évolution du roublard.
+Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous pouvez le voir dans la colonne attaque sournoise du tableau d'évolution du roublard.
 
 [][Generic]
 
 ## Argot des voleurs
 
-Pendant votre entraînement de roublard, vous avez appris l’argot des voleurs, un mélange secret de dialecte, de jargon et de codes qui vous permet de dissimuler des messages dans des conversations en apparence anodines.
+Pendant votre entraînement de roublard, vous avez appris l'argot des voleurs, un mélange secret de dialecte, de jargon et de codes qui vous permet de dissimuler des messages dans des conversations en apparence anodines.
 
-Seule une autre créature qui connaît l’argot des voleurs peut comprendre de tels messages. Transmettre un message de cette manière prend quatre fois plus de temps que si vous l’aviez exprimé clairement.
+Seule une autre créature qui connaît l'argot des voleurs peut comprendre de tels messages. Transmettre un message de cette manière prend quatre fois plus de temps que si vous l'aviez exprimé clairement.
 
-De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d’une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
+De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d'une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
 
 [][Generic]
 
@@ -102,9 +102,9 @@ De plus, vous comprenez un ensemble de signes et de symboles qui permettent de t
 
 ## Archétype de roublard
 
-Au niveau 3, vous choisissez un archétype auquel vous vous efforcer d’adhérer : voleur, brute, espion ou ombrelame.
+Au niveau 3, vous choisissez un archétype auquel vous vous efforcer d'adhérer : voleur, brute, espion ou ombrelame.
 
-Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d’accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
+Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
 [][Generic]
 
@@ -128,7 +128,7 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 
 ## Talent
 
-Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d’ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
+Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
 [][Generic]
 
@@ -140,7 +140,7 @@ Au niveau 11, vous avez affiné vos compétences à un point proche de la perfec
 
 ## Esprit impénétrable
 
-Au niveau 15, votre force mentale s’est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
+Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
 
 [][Generic]
 
@@ -148,7 +148,7 @@ Au niveau 15, votre force mentale s’est notablement renforcée. Vous maîtrise
 
 Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent.
 
-Tant que vous n’êtes pas neutralisé, aucun jet d’attaque qui vous cible ne peut bénéficier d’un avantage.
+Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peut bénéficier d'un avantage.
 
 [][Generic]
 
@@ -156,17 +156,17 @@ Tant que vous n’êtes pas neutralisé, aucun jet d’attaque qui vous cible ne
 
 Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun.
 
-Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre jet d’attaque, vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du d20 en 20.
+Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre jet d'attaque, vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du d20 en 20.
 
-Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l’utiliser de nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
 
 [][Generic]
 
 # Archétypes de roublard
 
-Tous les roublards partagent un certain nombre d’aptitudes et de comportements, notamment une tendance à perfectionner leurs compétences, des techniques de combat aussi précises que mortelles et une volonté d’affiner toujours plus leurs réflexes. Mais chaque roublard choisit de développer ses talents en se spécialisant de manière différente. Ces spécialisations sont représentées par les archétypes de roublard. Votre choix d’archétype vient traduire les qualités sur lesquelles vous voulez mettre l’accent.
+Tous les roublards partagent un certain nombre d'aptitudes et de comportements, notamment une tendance à perfectionner leurs compétences, des techniques de combat aussi précises que mortelles et une volonté d'affiner toujours plus leurs réflexes. Mais chaque roublard choisit de développer ses talents en se spécialisant de manière différente. Ces spécialisations sont représentées par les archétypes de roublard. Votre choix d'archétype vient traduire les qualités sur lesquelles vous voulez mettre l'accent.
 
-Il ne s’agit pas nécessairement de votre profession, mais d’une description des techniques que vous préférez.
+Il ne s'agit pas nécessairement de votre profession, mais d'une description des techniques que vous préférez.
 
 ## [Voleur]
 

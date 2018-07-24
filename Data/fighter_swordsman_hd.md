@@ -6,7 +6,7 @@
 
 # Bretteur
 
-Le bretteur est un guerrier qui compte sur la précision et la vitesse de ses attaques plutôt que sur sa force et la taille de son arme. Parfois aussi nommé duelliste, escrimeur ou encore spadassin, selon sa fonction ou sa philosophie du combat, cet archétype porte une armure légère afin de conserver assez de mobilité et de rapidité. Son style de combat peut être flamboyant et acrobatique ou, au contraire, efficace et sans fioriture, mais dans tous les cas son art a pour objectif d’atteindre les organes vitaux de sa cible avec une précision chirurgicale.
+Le bretteur est un guerrier qui compte sur la précision et la vitesse de ses attaques plutôt que sur sa force et la taille de son arme. Parfois aussi nommé duelliste, escrimeur ou encore spadassin, selon sa fonction ou sa philosophie du combat, cet archétype porte une armure légère afin de conserver assez de mobilité et de rapidité. Son style de combat peut être flamboyant et acrobatique ou, au contraire, efficace et sans fioriture, mais dans tous les cas son art a pour objectif d'atteindre les organes vitaux de sa cible avec une précision chirurgicale.
 
 [][Generic]
 
@@ -24,7 +24,7 @@ Au niveau 7, lorsque vous effectuez une attaque de corps-à-corps avec une arme 
 
 ## Frappe chirurgicale
 
-Au niveau 10, vous êtes passé maître dans l’art de viser les points vitaux de vos adversaires. Lorsque vous réussissez une attaque de corps-à-corps, pour laquelle vous aviez un avantage, avec une arme qui dispose de la propriété finesse, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés par cette attaque.
+Au niveau 10, vous êtes passé maître dans l'art de viser les points vitaux de vos adversaires. Lorsque vous réussissez une attaque de corps-à-corps, pour laquelle vous aviez un avantage, avec une arme qui dispose de la propriété finesse, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés par cette attaque.
 
 [][Generic]
 

@@ -44,11 +44,11 @@ Vous pouvez réaliser une attaque de griffes ou de morsure au lieu d'utiliser un
 
 ## Communion
 
-À partir du niveau 10, vous bénéficiez d'un avantage sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : Force (Athlétisme). Renard : Charisme (Supercherie). Loup : Dextérité (Discrétion). Taureau : Intelligence (Nature). Aigle : Charisme (Persuasion). Chouette : Sagesse (Perspicacité). Lynx : Dextérité (Acrobaties).
+À partir du niveau 10, vous bénéficiez d'un avantage sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : [Force] (Athlétisme). Renard : [Charisme] (Supercherie). Loup : [Dextérité] (Discrétion). Taureau : [Intelligence] (Nature). Aigle : [Charisme] (Persuasion). Chouette : [Sagesse] (Perspicacité). Lynx : [Dextérité] (Acrobaties).
 
 En dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : compagnon animal, messager animal, poison naturel, protection contre le poison, restauration inférieure, vision dans le noir.
 
-Désormais, vous ajoutez la moitié de votre modificateur de Sagesse, s'il est positif (arrondi à l'inférieur) à votre valeur de lien spirituel.
+Désormais, vous ajoutez la moitié de votre modificateur de [Sagesse], s'il est positif (arrondi à l'inférieur) à votre valeur de lien spirituel.
 
 [][Generic]
 

@@ -19,16 +19,16 @@ En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 
 **Armures :** aucune
 **Armes :** armes courantes, épées courtes
-**Outils :** choisissez un type d’outils d’artisan ou un instrument de musique
+**Outils :** choisissez un type d'outils d'artisan ou un instrument de musique
 **Jets de sauvegarde :** Force, Dextérité
 **Compétences :** choisissez deux compétences parmi Acrobaties, Athlétisme, Discrétion, Histoire, Perspicacité et Religion
 
 ## Équipement
 
-Vous commencez avec l’équipement suivant, en plus de l’équipement accordé par votre historique :
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) une épée courte ou (b) n’importe quelle arme courante
-* (a) un paquetage d’exploration souterraine ou (b) un paquetage d’explorateur
+* (a) une épée courte ou (b) n'importe quelle arme courante
+* (a) un paquetage d'exploration souterraine ou (b) un paquetage d'explorateur
 * dix fléchettes
 
 
@@ -44,7 +44,7 @@ Vous commencez avec l’équipement suivant, en plus de l’équipement accordé
 |4|+2|1d4|4|+3 m|Amélioration de caractéristiques, Chute ralentie|
 |5|+3|1d6|5|+3 m|Attaque supplémentaire, Frappe étourdissante|
 |6|+3|1d6|6|+4,50 m|Frappe de ki, Aptitude de tradition monacale|
-|7|+3|1d6|7|+4,50 m|Dérobade, Tranquillité de l’esprit|
+|7|+3|1d6|7|+4,50 m|Dérobade, Tranquillité de l'esprit|
 |8|+3|1d6|8|+4,50 m|Amélioration de caractéristiques|
 |9|+4|1d6|9|+4,50 m|Déplacement sans armure amélioré|
 |10|+4|1d6|10|+6 m|Pureté du corps|
@@ -71,15 +71,15 @@ Dès le niveau 1, si vous ne portez ni armure ni bouclier, votre CA est égale �
 
 ## Arts martiaux
 
-Dès le niveau 1, votre pratique des arts martiaux vous permet de maîtriser différents styles de combat à mains nues ou avec des armes de moine, comme les épées courtes ou toutes les armes courantes qui n’ont pas la propriété à deux mains ou lourde.
+Dès le niveau 1, votre pratique des arts martiaux vous permet de maîtriser différents styles de combat à mains nues ou avec des armes de moine, comme les épées courtes ou toutes les armes courantes qui n'ont pas la propriété à deux mains ou lourde.
 
 Tant que vous ne portez ni armure ni bouclier et que vous combattez à mains nues ou avec des armes de moine, vous obtenez les bénéfices suivants :
 
-* Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d’attaque et de dégâts.
-* Vous pouvez lancer un d4 au lieu des dégâts normaux à mains nues ou avec une arme de moine. Ce dé change en fonction de votre niveau de moine, ainsi que vous pouvez le voir dans la colonne arts martiaux du tableau d’évolution du moine.
-* Quand vous utilisez l’action attaquer pour porter un coup à mains nues ou avec une arme de moine pendant votre tour, vous pouvez porter une attaque à mains nues en action bonus. Par exemple, si vous attaquez avec un bâton pendant votre action, vous pouvez aussi faire une attaque à mains nues en action bonus, si vous n’avez pas déjà utilisé d’action bonus lors de ce tour.
+* Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque et de dégâts.
+* Vous pouvez lancer un d4 au lieu des dégâts normaux à mains nues ou avec une arme de moine. Ce dé change en fonction de votre niveau de moine, ainsi que vous pouvez le voir dans la colonne arts martiaux du tableau d'évolution du moine.
+* Quand vous utilisez l'action attaquer pour porter un coup à mains nues ou avec une arme de moine pendant votre tour, vous pouvez porter une attaque à mains nues en action bonus. Par exemple, si vous attaquez avec un bâton pendant votre action, vous pouvez aussi faire une attaque à mains nues en action bonus, si vous n'avez pas déjà utilisé d'action bonus lors de ce tour.
 
-Certains monastères utilisent des versions particulières d’armes de moines. Par exemple, vous pouvez utiliser un gourdin qui se présente sous la forme de deux morceaux de bois connectés par une chaîne (appelé un nunchaku) ou une serpe avec une lame plus petite et plus droite (appelée un kama). Quel que soit le nom que vous donnez à votre arme de moine, vous pouvez utiliser les statistiques données dans le jeu pour cette arme.
+Certains monastères utilisent des versions particulières d'armes de moines. Par exemple, vous pouvez utiliser un gourdin qui se présente sous la forme de deux morceaux de bois connectés par une chaîne (appelé un nunchaku) ou une serpe avec une lame plus petite et plus droite (appelée un kama). Quel que soit le nom que vous donnez à votre arme de moine, vous pouvez utiliser les statistiques données dans le jeu pour cette arme.
 
 [][Generic]
 
@@ -87,9 +87,9 @@ Certains monastères utilisent des versions particulières d’armes de moines. 
 
 À partir du niveau 2, votre entraînement vous permet d'utiliser l'énergie mystique du ki. Votre capacité à puiser dans cette énergie se présente sous la forme d'un nombre de points de ki qui dépend de votre niveau de moine (voir la colonne points de ki du tableau d'évolution du moine).
 
-Ces points vous permettent d’utiliser certaines aptitudes qui fonctionnent avec le ki. Quand vous débutez, vous avez trois aptitudes de ce type : déluge de coups, défense patiente et déplacement aérien. Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cette classe.
+Ces points vous permettent d'utiliser certaines aptitudes qui fonctionnent avec le ki. Quand vous débutez, vous avez trois aptitudes de ce type : déluge de coups, défense patiente et déplacement aérien. Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cette classe.
 
-Une fois que vous avez dépensé des points de ki, vous ne pouvez plus les utiliser avant d’avoir terminé un repos court ou un repos long, qui vous permettent de recharger toute votre réserve de ki. Pour regagner vos points de ki, vous devez méditer au moins 30 minutes pendant votre période de repos.
+Une fois que vous avez dépensé des points de ki, vous ne pouvez plus les utiliser avant d'avoir terminé un repos court ou un repos long, qui vous permettent de recharger toute votre réserve de ki. Pour regagner vos points de ki, vous devez méditer au moins 30 minutes pendant votre période de repos.
 
 Certaines de vos aptitudes liées au ki permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi : DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de Sagesse.
 
@@ -97,19 +97,19 @@ Certaines de vos aptitudes liées au ki permettent à votre cible de faire un je
 
 ## Déluge de coups
 
-Immédiatement après avoir choisi l’action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
+Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
 [][Generic]
 
 ## Défense patiente
 
-Vous pouvez dépenser 1 point de ki pour utiliser l’action esquiver en action bonus lors de votre tour.
+Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
 
 [][Generic]
 
 ## Déplacement aérien
 
-Vous pouvez dépenser 1 point de ki pour utiliser l’action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
+Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
 [][Generic]
 
@@ -123,7 +123,7 @@ Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surf
 
 ## Tradition monacale
 
-Quand vous atteignez le niveau 3, vous devez vous engager dans une tradition monacale parmi les quatre suivantes : la voie de la main ouverte, la voie des cinq animaux, la voie de l’illumination et la voie de la souplesse.
+Quand vous atteignez le niveau 3, vous devez vous engager dans une tradition monacale parmi les quatre suivantes : la voie de la main ouverte, la voie des cinq animaux, la voie de l'illumination et la voie de la souplesse.
 
 Toutes sont détaillées à la fin du descriptif de cette classe.
 
@@ -137,7 +137,7 @@ La tradition que vous avez choisie vous donne accès à des aptitudes spécifiqu
 
 Quand vous utilisez cette aptitude, les dégâts que vous subissez sont réduits de 1d10 + votre modificateur de Dextérité + votre niveau de moine.
 
-Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper le projectile si vous avez une main de libre et qu’il est assez petit pour que vous puissiez le tenir dans une main. Si vous réussissez à attraper un projectile de cette manière, vous pouvez dépenser 1 point de ki pour faire, toujours dans la même réaction, une attaque à distance avec l’arme ou la munition que vous venez d’attraper. Cette attaque est considérée comme maîtrisée, peu importe quelles armes vous maîtrisez ou non, et le projectile est considéré comme une arme de moine pour cette attaque, avec une portée normale de 6 mètres et une portée longue de 18 mètres.
+Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper le projectile si vous avez une main de libre et qu'il est assez petit pour que vous puissiez le tenir dans une main. Si vous réussissez à attraper un projectile de cette manière, vous pouvez dépenser 1 point de ki pour faire, toujours dans la même réaction, une attaque à distance avec l'arme ou la munition que vous venez d'attraper. Cette attaque est considérée comme maîtrisée, peu importe quelles armes vous maîtrisez ou non, et le projectile est considéré comme une arme de moine pour cette attaque, avec une portée normale de 6 mètres et une portée longue de 18 mètres.
 
 [][Generic]
 
@@ -161,7 +161,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Frappe étourdissante
 
-À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou elle sera étourdie jusqu’à la fin de votre prochain tour.
+À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou elle sera étourdie jusqu'à la fin de votre prochain tour.
 
 [][Generic]
 
@@ -173,11 +173,11 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Dérobade
 
-Au niveau 7, votre agilité vous permet d’éviter instinctivement certaines zones d’effets, comme le souffle de foudre d’un dragon bleu ou un sort de boule de feu. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
+Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de boule de feu. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 [][Generic]
 
-## Tranquillité de l’esprit
+## Tranquillité de l'esprit
 
 À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
 
@@ -205,9 +205,9 @@ De plus, quand vous faites un jet de sauvegarde et échouez, vous pouvez dépens
 
 ## Jeunesse éternelle
 
-Au niveau 15, votre ki vous apporte ce qu’il faut pour ne souffrir aucun des désagréments de la vieillesse et vous ne pouvez pas non plus vieillir suite à un effet magique.
+Au niveau 15, votre ki vous apporte ce qu'il faut pour ne souffrir aucun des désagréments de la vieillesse et vous ne pouvez pas non plus vieillir suite à un effet magique.
 
-Vous pouvez toujours mourir de vieillesse, cela dit. Vous n’avez en outre plus besoin de boire ou manger.
+Vous pouvez toujours mourir de vieillesse, cela dit. Vous n'avez en outre plus besoin de boire ou manger.
 
 [][Generic]
 
@@ -215,31 +215,31 @@ Vous pouvez toujours mourir de vieillesse, cela dit. Vous n’avez en outre plus
 
 À partir du niveau 18, vous pouvez utiliser une action et utiliser 4 points de ki pour devenir invisible pendant 1 minute. Pendant ce laps de temps, vous devenez résistant à tous les types de dégâts, sauf les dégâts de force.
 
-De plus, vous pouvez utiliser 8 points de ki pour lancer le sort projection astrale sans avoir besoin de composantes matérielles. Néanmoins, vous ne pouvez pas emmener d’autres créatures avec vous.
+De plus, vous pouvez utiliser 8 points de ki pour lancer le sort projection astrale sans avoir besoin de composantes matérielles. Néanmoins, vous ne pouvez pas emmener d'autres créatures avec vous.
 
 [][Generic]
 
 ## Perfection
 
-Au niveau 20, si vous lancez votre dé d’initiative et que vous n’avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
+Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
 
 [][Generic]
 
 # Traditions monacales
 
-Il est possible de suivre quatre traditions monacales différentes dans les monastères qui se trouvent éparpillés dans le multivers. La plupart des monastères ne pratiquent qu’une seule de ces traditions, mais certains les honorent toutes et instruisent chaque moine en fonction de ses capacités et de son intérêt. Les quatre traditions se basent sur les mêmes techniques et divergent quand le disciple se montre plus performant. C’est pourquoi un moine attend le niveau 3 avant de choisir une tradition.
+Il est possible de suivre quatre traditions monacales différentes dans les monastères qui se trouvent éparpillés dans le multivers. La plupart des monastères ne pratiquent qu'une seule de ces traditions, mais certains les honorent toutes et instruisent chaque moine en fonction de ses capacités et de son intérêt. Les quatre traditions se basent sur les mêmes techniques et divergent quand le disciple se montre plus performant. C'est pourquoi un moine attend le niveau 3 avant de choisir une tradition.
 
 ## [Voie de la main ouverte]
 
 ## [Voie des cinq animaux]
 
-## [Voie de l’illumination]
+## [Voie de l'illumination]
 
 ## [Voie de la souplesse]
 
 [Voie de la main ouverte]: monk_openhand_hd.md
 [Voie des cinq animaux]: monk_fiveanimals_hd.md
-[Voie de l’illumination]: monk_enlightenment_hd.md
+[Voie de l'illumination]: monk_enlightenment_hd.md
 [Voie de la souplesse]: monk_flexibility_hd.md
 
 [Items]: #

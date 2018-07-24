@@ -203,11 +203,12 @@ namespace AideDeJeuCmd
         {
             string dataDir = @"..\..\..\..\..\Data\";
             await CheckAllLinks();
-            var anchors = await GetAllAnchorsAsync();
-            foreach (var anchor in anchors)
-            {
-                await SearchAsync(anchor);
-            }
+            //var anchors = await GetAllAnchorsAsync();
+            //foreach (var anchor in anchors)
+            //{
+            //    await SearchAsync(anchor);
+            //}
+            Console.ReadLine();
             return;
             var mdVO = await LoadStringAsync(dataDir + "monsters_vo.md");
             var mdVF = await LoadStringAsync(dataDir + "monsters_hd.md");
@@ -272,9 +273,16 @@ namespace AideDeJeuCmd
                     var names = GetMarkdownAnchorNames(md).ToList();
                     allnames.Add(name, names);
                     var unlinkedrefs = GetMarkdownUnlinkedRefs(md).ToList();
-                    foreach(var unlinkedref in unlinkedrefs)
+                    if (unlinkedrefs.Count > 0)
                     {
-                        Console.WriteLine($"{name} {unlinkedref}");
+                        Console.WriteLine($"{name} :");
+                        Console.WriteLine();
+                        foreach (var unlinkedref in unlinkedrefs.Distinct().OrderBy(i => i))
+                        {
+                            Console.WriteLine($"[{unlinkedref}]: #{Helpers.IdFromName(unlinkedref)}");
+                        }
+                        Console.WriteLine();
+                        Console.WriteLine();
                     }
                 }
             }
