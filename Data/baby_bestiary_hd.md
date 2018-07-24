@@ -37,7 +37,9 @@ En cas de réussite, l’effet prend fin. La cible peut retenter le [jet de sauv
 
 **_Attaques multiples._** L’aboleth effectue trois attaques de tentacule.
 
-**_Tentacule._** Attaque d’arme au corps-à-corps : +3 pour toucher, allonge 3 m, une cible. Touché : 6 (2d4+1) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas tomber malade. La maladie ne produit aucun effet pendant 1 minute et peut être soignée par tout effet magique qui soigne les maladies. Au bout d’une minute, la peau de la créature malade devient translucide et visqueuse, la victime ne peut récupérer de points de vie que lorsqu’elle est sous l’eau et la maladie ne peut être soignée qu’avec une [guérison] ou un autre sort de niveau 6 ou plus qui soigne les maladies. Quand la créature n’est pas dans l’eau, elle subit 6 (1d12) dégâts d’acide toutes les 10 minutes, à moins que sa peau ne soit humidifiée toutes les dix minutes.
+**_Tentacule._** Attaque d’arme au corps-à-corps : +3 pour toucher, allonge 3 m, une cible. 
+
+Touché : 6 (2d4+1) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas tomber malade. La maladie ne produit aucun effet pendant 1 minute et peut être soignée par tout effet magique qui soigne les maladies. Au bout d’une minute, la peau de la créature malade devient translucide et visqueuse, la victime ne peut récupérer de points de vie que lorsqu’elle est sous l’eau et la maladie ne peut être soignée qu’avec une [guérison] ou un autre sort de niveau 6 ou plus qui soigne les maladies. Quand la créature n’est pas dans l’eau, elle subit 6 (1d12) dégâts d’acide toutes les 10 minutes, à moins que sa peau ne soit humidifiée toutes les dix minutes.
 
 [charmée]: conditions_hd.md#charmé
 [Constitution]: abilities_hd.md#constitution

@@ -9343,6 +9343,48 @@ _Touché :_ 6 (1d6+3) dégâts tranchants.
 _Touché :_ 13 (3d6+3) dégâts perforants.
 
 
+
+
+[][MonsterHD]
+
+# Yéti
+
+- Créature monstrueuse de taille G, chaotique mauvais
+- **Classe d'armure** 12 (armure naturelle)
+- **Points de vie** 51 (6d10 + 18)
+- **Vitesse** 12 m, escalade 12 m
+
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+| ---   | ---   | ---   | ---   | ---   | ---   |
+|18 (+4)|13 (+1)|16 (+3)| 8 (-1)|12 (+1)| 7 (-2)|
+
+- **Compétences** Discrétion +3, Perception +3
+- **Immunité contre les dégâts** froid
+- **Sens** vision dans le noir à 18 m, Perception passive 13
+- **Langues** yéti
+- **Dangerosité** 3 (700 PX)
+
+## Capacités
+
+**_Camouflage dans la neige._** Un yéti a l'avantage aux jets de [Dextérité] (Discrétion) effectués pour se cacher sur un terrain enneigé.
+
+**_Crainte du feu._** Si le yéti subit des dégâts de feu, il subit un désavantage aux jets d'attaque et de caractéristique jusqu'à la fin de son tour de jeu suivant.
+
+**_Odorat aiguisé._** Un yéti a l'avantage aux jets de [Sagesse] (Perception) faisant appel à l'odorat.
+
+
+## Actions
+
+**_Attaques multiples._** Le yéti peut utiliser son Regard givrant et réaliser deux attaques avec ses griffes.
+
+**_Griffes._** Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. 
+
+Touché : 7 (1d6 + 4) dégâts tranchants plus 3 (1d6) dégâts de froid.
+
+**_Regard givrant._** Le yéti prend pour cible une créature qu'il peut voir et qui se trouve à 9 mètres ou moins de lui. Si la cible peut voir le yéti, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 13 ou subir 10 (3d6) dégâts de froid et être paralysée pendant 1 minute, à moins d'être immunisée aux dégâts de froid. La cible peut relancer le [jet de sauvegarde] à la fin de chacun de ses tours, mettant fin à l'effet sur elle-même en cas de réussite. Si le [jet de sauvegarde] est réussi, ou si l'effet se termine, la cible est dès lors immunisée au Regard givrant de tous les yétis (mais pas des abominables yétis) pendant 1 heure.
+
+
+
 [][MonsterHD]
 
 # Zombi
