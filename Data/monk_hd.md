@@ -91,7 +91,7 @@ Ces points vous permettent d'utiliser certaines aptitudes qui fonctionnent avec 
 
 Une fois que vous avez dépensé des points de ki, vous ne pouvez plus les utiliser avant d'avoir terminé un repos court ou un repos long, qui vous permettent de recharger toute votre réserve de ki. Pour regagner vos points de ki, vous devez méditer au moins 30 minutes pendant votre période de repos.
 
-Certaines de vos aptitudes liées au ki permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi : DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse].
+Certaines de vos aptitudes liées au ki permettent à votre cible de faire un [jet de sauvegarde] pour résister à leurs effets. Le DD du [jet de sauvegarde] est calculé ainsi : DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse].
 
 [][Generic]
 
@@ -197,9 +197,9 @@ Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies
 
 ## Âme de diamant
 
-À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les jets de sauvegarde.
+À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les [jets de sauvegarde].
 
-De plus, quand vous faites un jet de sauvegarde et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
+De plus, quand vous faites un [jet de sauvegarde] et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
 
 [][Generic]
 
@@ -263,6 +263,13 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 [Pureté du corps]: monk_hd.md#pureté-du-corps
 [Tradition monacale]: monk_hd.md#tradition-monacale
 [Tranquillité de l'esprit]: monk_hd.md#tranquillité-de-lesprit
+
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_hd.md#force
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 [Items]: #
 [Generic]: #

@@ -10,7 +10,7 @@ Plaine ou savane, forêt ou montagne, vous êtes né dans une nature vierge et s
 
 Pour survivre, votre peuple a appris à communier avec la nature et à tisser des liens étroits avec les animaux par l'intermédiaire d'esprits magiques.
 
-Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la [Sagesse] (difficulté des jets de sauvegarde égale à 8 + bonus de maîtrise + modificateur de [Sagesse]).
+Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la [Sagesse] (difficulté des [jets de sauvegarde] égale à 8 + bonus de maîtrise + modificateur de [Sagesse]).
 
 [][Generic]
 

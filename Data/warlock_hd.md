@@ -100,9 +100,9 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de sorcier est le [Charisme]. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du jet de sauvegarde d'un sort de sorcier que vous avez lancé et quand vous faites une attaque avec un sort de sorcier.
+La caractéristique d'incantation que vous utilisez pour les sorts de sorcier est le [Charisme]. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du [jet de sauvegarde] d'un sort de sorcier que vous avez lancé et quand vous faites une attaque avec un sort de sorcier.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
+DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
 Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Charisme]
 
@@ -195,6 +195,11 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 [Magie de pacte]: warlock_hd.md#magie-de-pacte
 [Maître de l'occulte]: warlock_hd.md#maître-de-locculte
 [Protecteur de l'outremonde]: warlock_hd.md#protecteur-de-loutre-monde
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

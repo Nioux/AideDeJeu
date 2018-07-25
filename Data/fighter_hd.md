@@ -141,7 +141,7 @@ Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez 
 
 # Indomptable
 
-À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
+À partir du niveau 9, vous pouvez relancer un [jet de sauvegarde] raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
 
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
 
@@ -172,6 +172,10 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 [Second souffle]: fighter_hd.md#second-souffle
 [Style de combat]: fighter_hd.md#style-de-combat
 [Sursaut d'activité]: fighter_hd.md#sursaut-dactivité
+
+[Constitution]: abilities_hd.md#constitution
+[Force]: abilities_hd.md#force
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
 [Items]: #

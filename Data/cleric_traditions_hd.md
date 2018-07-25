@@ -72,5 +72,9 @@ Au niveau 17, vous obtenez deux points de caractéristiques supplémentaires que
 
 Désormais, vous êtes capable de lancer le sort soin des blessures de groupe en utilisant une action bonus et mot de guérison de groupe en utilisant une réaction (donc en dehors de votre propre tour).
 
+[Charisme]: abilities_hd.md#charisme
+[Sagesse]: abilities_hd.md#sagesse
+
+
 [Items]: #
 [Generic]: #

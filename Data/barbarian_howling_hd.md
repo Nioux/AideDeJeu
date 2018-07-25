@@ -30,7 +30,7 @@ Pour utiliser votre action à ce tour, vous perdez un point de vie et vous entre
 
 ## Hurlement du tonnerre
 
-À partir du niveau 6, vous pouvez pousser un cri dont la puissance est comparable à la foudre et au tonnerre. Vous utilisez votre action à ce tour et toutes les créatures dans un rayon de 6 mètres autour de vous doivent faire un [jet de sauvegarde] de [Constitution] (DD = 8 + bonus de maîtrise + modificateur de [Force]). En cas d'échec, chaque cible subit 1d8 dégâts de tonnerre par point de bonus de maîtrise du barbare et est assourdie pour 1 minute. Les cibles qui réussissent leur jet de sauvegarde subissent seulement la moitié des dégâts et ne sont pas assourdies.
+À partir du niveau 6, vous pouvez pousser un cri dont la puissance est comparable à la foudre et au tonnerre. Vous utilisez votre action à ce tour et toutes les créatures dans un rayon de 6 mètres autour de vous doivent faire un [jet de sauvegarde] de [Constitution] (DD = 8 + bonus de maîtrise + modificateur de [Force]). En cas d'échec, chaque cible subit 1d8 dégâts de tonnerre par point de bonus de maîtrise du barbare et est assourdie pour 1 minute. Les cibles qui réussissent leur [jet de sauvegarde] subissent seulement la moitié des dégâts et ne sont pas assourdies.
 
 Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
 
@@ -44,7 +44,7 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 ## Hurlement terrifiant
 
-À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde] de [Sagesse] ou de [Force] au choix (difficulté 8 + modificateur de [Force] + bonus de maîtrise) ou être terrorisés pendant 1 minute. Si vous êtes en rage, les cibles subissent un désavantage à leur jet de sauvegarde. Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
+À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde] de [Sagesse] ou de [Force] au choix (difficulté 8 + modificateur de [Force] + bonus de maîtrise) ou être terrorisés pendant 1 minute. Si vous êtes en rage, les cibles subissent un désavantage à leur [jet de sauvegarde]. Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
 
 [Force]: abilities_hd.md#force
 [Dextérité]: abilities_hd.md#dextérité

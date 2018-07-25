@@ -196,6 +196,13 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 [Ruse]: rogue_hd.md#ruse
 [Talent]: rogue_hd.md#talent
 
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[Intelligence]: abilities_hd.md#intelligence
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

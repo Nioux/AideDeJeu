@@ -193,7 +193,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\wizard_acadelician_hd.md" Link="Data\wizard_acadelician_hd.md" />
     <EmbeddedResource Include="..\..\Data\wizard_elementalist_hd.md" Link="Data\wizard_elementalist_hd.md" />
     <EmbeddedResource Include="..\..\Data\wizard_eminence_hd.md" Link="Data\wizard_eminence_hd.md" />
     <EmbeddedResource Include="..\..\Data\wizard_surveyor_hd.md" Link="Data\wizard_surveyor_hd.md" />
@@ -201,6 +200,10 @@
 
   <ItemGroup>
     <EmbeddedResource Include="..\..\Data\baby_bestiary_hd.md" Link="Data\baby_bestiary_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\wizard_academician_hd.md" Link="Data\wizard_academician_hd.md" />
   </ItemGroup>
 
   <ItemGroup>

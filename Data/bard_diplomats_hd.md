@@ -24,13 +24,18 @@ Lorsque vous rejoignez le collège des diplomates au niveau 3, vous apprenez deu
 
 ## Manipulateur redoutable
 
-Au niveau 6, vous pouvez lancer les sorts aura du héros, charme-personne et suggestion en utilisant une action bonus et une inspiration bardique. Vous ajoutez votre dé d'inspiration bardique à la difficulté du jet de sauvegarde. Si vous n'avez pas appris ces sorts, vous pouvez lancer chacun d'eux en dépensant une inspiration bardique, mais vous n'ajoutez pas le dé d'inspiration bardique à la difficulté de la sauvegarde.
+Au niveau 6, vous pouvez lancer les sorts aura du héros, charme-personne et suggestion en utilisant une action bonus et une inspiration bardique. Vous ajoutez votre dé d'inspiration bardique à la difficulté du [jet de sauvegarde]. Si vous n'avez pas appris ces sorts, vous pouvez lancer chacun d'eux en dépensant une inspiration bardique, mais vous n'ajoutez pas le dé d'inspiration bardique à la difficulté de la sauvegarde.
 
 [][Generic]
 
 ## Manipulateur subtil
 
 Au niveau 14, lorsqu'un de vos sorts de l'école d'enchantement cesse de faire effet, vous pouvez choisir de dépenser un dé d'inspiration pour que les victimes ne se rappellent pas avoir été sous l'effet de votre magie et que leur attitude à votre égard n'en soit pas altérée
+
+[Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

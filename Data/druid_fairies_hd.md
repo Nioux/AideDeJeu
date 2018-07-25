@@ -75,6 +75,8 @@ Vous maîtrisez à présent la plus puissante magie des fées.
 
 Également au niveau 14, vous devenez capable de prendre la forme d'un arbre éveillé en sacrifiant deux utilisations de votre aptitude de forme sauvage.
 
+[Charisme]: abilities_hd.md#charisme
+
 
 [Items]: #
 [Generic]: #

@@ -20,7 +20,7 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 
 ## Énergie positive
 
-Au niveau 1, bénéficiez d'un avantage à tous les jets de sauvegarde contre l'état terrorisé. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux.
+Au niveau 1, bénéficiez d'un avantage à tous les [jets de sauvegarde] contre l'état [terrorisé]. Lorsque vous êtes [terrorisé], vous divisez la durée de l'effet par deux.
 
 L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de sorcellerie, vous récupérez autant de points de vie que de points de sorcellerie utilisés.
 
@@ -49,6 +49,11 @@ Vous pouvez dépenser davantage de points de sorcellerie pour le lancer avec un 
 À partir du niveau 18, vous pouvez invoquer la présence apaisante de votre ancêtre céleste, redonnant courage et moral aux alliés qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de paix dans un rayon de 18 mètres.
 
 Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), tous les alliés qui débutent leur tour dans la zone d'effet ne peuvent être charmés, terrorisés ou empoisonnés jusqu'à ce que l'aura se dissipe. De plus, tant que vous êtes sous l'effet de cette aura, vous pouvez lancer le sort mineur flamme sacrée en action bonus en dépensant 1 point de sorcellerie.
+
+[Charisme]: abilities_hd.md#charisme
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[terrorisé]: conditions_hd.md#terrorisé
+
 
 [Items]: #
 [Generic]: #

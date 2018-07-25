@@ -93,9 +93,9 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le [Charisme], car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du jet de sauvegarde d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
+La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le [Charisme], car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du [jet de sauvegarde] d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
+DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
 Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Charisme]
 
@@ -161,9 +161,9 @@ Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous
 
 ## Invocation prudente
 
-Quand vous lancez un sort qui force d'autres créatures à faire un jet de sauvegarde, vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de [Charisme] (avec un minimum d'une créature).
+Quand vous lancez un sort qui force d'autres créatures à faire un [jet de sauvegarde], vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de [Charisme] (avec un minimum d'une créature).
 
-Les créatures désignées réussissent automatiquement leur jet de sauvegarde contre ce sort.
+Les créatures désignées réussissent automatiquement leur [jet de sauvegarde] contre ce sort.
 
 [][Generic]
 
@@ -191,7 +191,7 @@ Quand vous lancez un sort qui dure 1 minute ou plus, vous pouvez dépenser 1 poi
 
 ## Sort intense
 
-Quand vous lancez un sort qui force une créature à faire un jet de sauvegarde pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour infliger un désavantage à la cible lors de son premier jet de sauvegarde contre le sort.
+Quand vous lancez un sort qui force une créature à faire un [jet de sauvegarde] pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour infliger un désavantage à la cible lors de son premier [jet de sauvegarde] contre le sort.
 
 [][Generic]
 
@@ -249,6 +249,10 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 [Origine magique]: sorcerer_hd.md#origine-magique
 [Régénération de l'ensorceleur]: sorcerer_hd.md#régénération-de-lensorceleur
 [Source de magie]: sorcerer_hd.md#source-de-magie
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
 [Items]: #

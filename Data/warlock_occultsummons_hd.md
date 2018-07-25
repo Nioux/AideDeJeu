@@ -244,6 +244,9 @@ Vous pouvez communiquer par la pensée avec votre familier et percevoir le monde
 
 Vous pouvez lancer fléau en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
 
+[Charisme]: abilities_hd.md#charisme
+
+
 [Items]: #
 [Generic]: #
 [LinkItem]: #

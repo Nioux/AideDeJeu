@@ -62,5 +62,10 @@ Enfin, également au niveau 14, vous devenez capable de lancer des sorts sans vo
 
 Vous pouvez lancer vos quatre sorts privilégiés (compréhension des langues, déguisement, apaisement des émotions et non-détection) sans composante vocale ni somatique sans augmenter le niveau du sort utilisé.
 
+[Charisme]: abilities_hd.md#charisme
+[Intelligence]: abilities_hd.md#intelligence
+[Sagesse]: abilities_hd.md#sagesse
+
+
 [Items]: #
 [Generic]: #

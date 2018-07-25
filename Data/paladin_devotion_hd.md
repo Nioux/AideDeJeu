@@ -76,9 +76,15 @@ Au niveau 20, vous pouvez utiliser une action pour qu'une aura solaire se dégag
 
 Quand une créature ennemie commence son tour dans la lumière vive, elle subit 10 dégâts radiants.
 
-Pendant tout le temps que perdure ce halo, vous obtenez un avantage sur les jets de sauvegarde contre les sorts lancés par les fiélons et les morts-vivants.
+Pendant tout le temps que perdure ce halo, vous obtenez un avantage sur les [jets de sauvegarde] contre les sorts lancés par les fiélons et les morts-vivants.
 
 Après un usage de cette aptitude, vous devez terminer un repos long pour la recharger.
+
+[Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

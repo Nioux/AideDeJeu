@@ -40,5 +40,10 @@ Au niveau 10, vous pouvez choisir un deuxième style de combat.
 
 Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au début de votre tour, il ne vous reste pas plus de la moitié de vos points de vie, vous regagnez immédiatement un nombre de points de vie égal à 5 + votre modificateur de [Constitution]. Vous ne pouvez pas bénéficier de cette aptitude si vous êtes réduit à 0 point de vie.
 
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_hd.md#force
+
+
 [Items]: #
 [Generic]: #

@@ -89,9 +89,9 @@ Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, m
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation qui vous permet de lancer les sorts de magicien est l'[Intelligence], car c'est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre [Intelligence] dès qu'un sort de magicien vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d'[Intelligence] quand vous calculez le jet de sauvegarde d'un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de magicien est l'[Intelligence], car c'est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre [Intelligence] dès qu'un sort de magicien vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d'[Intelligence] quand vous calculez le [jet de sauvegarde] d'un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur d'[Intelligence]
+DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur d'[Intelligence]
 
 Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d'[Intelligence]
 
@@ -202,6 +202,11 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 [Restauration magique]: wizard_hd.md#restauration-magique
 [Sorts de prédilection]: wizard_hd.md#sorts-de-prédilection
 [Tradition arcanique]: wizard_hd.md#tradition-arcanique
+
+[Constitution]: abilities_hd.md#constitution
+[Intelligence]: abilities_hd.md#intelligence
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 [Items]: #
 [Generic]: #

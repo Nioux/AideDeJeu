@@ -90,9 +90,9 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de barde est le [Charisme]. Votre magie est issue de votre coeur et de votre âme, de tout ce que vous insufflez dans votre musique ou vos oraisons. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du jet de sauvegarde d'un sort de barde que vous avez lancé et quand vous faites une attaque avec un sort de barde. 
+La caractéristique d'incantation que vous utilisez pour les sorts de barde est le [Charisme]. Votre magie est issue de votre coeur et de votre âme, de tout ce que vous insufflez dans votre musique ou vos oraisons. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du [jet de sauvegarde] d'un sort de barde que vous avez lancé et quand vous faites une attaque avec un sort de barde. 
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
+DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
 Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Charisme]
 
@@ -110,7 +110,7 @@ Vous pouvez utiliser un instrument de musique (voir le chapitre 5, Équipement, 
 
 La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.
 
-Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un test de caractéristique, à un jet d'attaque ou à un jet de sauvegarde. Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiration bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
+Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un test de caractéristique, à un jet d'attaque ou à un [jet de sauvegarde]. Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiration bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de [Charisme] (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.
 
@@ -160,7 +160,7 @@ Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées 
 
 ## Contre-charme
 
-Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un avantage sur les jets de sauvegarde contre les effets terrorisé et charmé. Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes neutralisé, réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).
+Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un avantage sur les [jets de sauvegarde] contre les effets terrorisé et charmé. Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes neutralisé, réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).
 
 [][Generic]
 
@@ -209,6 +209,13 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [Secrets magiques]: bard_hd.md#secrets-magiques
 [Source d'inspiration]: bard_hd.md#source-dinspiration
 [Touche-à-tout]: bard_hd.md#touche-à-tout
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

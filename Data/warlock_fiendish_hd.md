@@ -34,7 +34,7 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 
 À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur.
 
-Quand vous faites un test de caractéristiques ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
+Quand vous faites un test de caractéristiques ou un [jet de sauvegarde], vous pouvez utiliser cette aptitude pour ajouter 1d10 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
 
 Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 
@@ -53,6 +53,10 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 À la fin de votre prochain tour, la cible réapparaît à l'endroit qu'elle occupait précédemment ou sur l'emplacement libre le plus proche. Si la cible n'est pas un fiélon, elle subit 10d10 de dégâts psychiques causés par son horrible expérience.
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre d'avoir terminé un repos long avant de pouvoir l'utiliser de nouveau.
+
+[Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

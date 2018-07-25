@@ -74,5 +74,14 @@ Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme
 
 De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un avantage à toutes vos attaques au corps-à-corps, ainsi que vos tests de [Force], de [Constitution], de [Sagesse] et de [Charisme] ([jets de sauvegarde] et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
+[à terre]: conditions_hd.md#À-terre
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[Force]: abilities_hd.md#force
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
+
 [Items]: #
 [Generic]: #

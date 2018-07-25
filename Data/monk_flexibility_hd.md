@@ -42,6 +42,12 @@ Une fois par round, lorsqu'une attaque portée par un adversaire vous fait perdr
 
 Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde] de [Constitution] (DD = 8 + votre modificateur de [Dextérité] + votre bonus de maîtrise). En cas d'échec, il devient inconscient pour 1d6 tours + votre modificateur de [Sagesse]. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.
 
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_hd.md#force
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

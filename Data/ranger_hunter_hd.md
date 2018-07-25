@@ -30,7 +30,7 @@ Au niveau 7, vous pouvez choisir l'une des trois aptitudes suivantes.
 
 Défense contre les attaques multiples. Quand une créature vous touche avec une attaque, vous gagnez un bonus de CA de +4 contre toutes les autres attaques que peut faire cette créature pour le reste du tour.
 
-Moral d'acier. Vous obtenez un avantage sur les jets de sauvegarde contre tout effet provoquant l'état terrorisé.
+Moral d'acier. Vous obtenez un avantage sur les [jets de sauvegarde] contre tout effet provoquant l'état [terrorisé].
 
 [][Generic]
 
@@ -53,6 +53,12 @@ Dérobade. Si vous subissez un effet, comme le souffle enflammé d'un dragon rou
 Retour de bâton. Quand une créature hostile vous cible et rate son attaque de corps-à-corps, vous pouvez utiliser votre réaction pour contraindre cette créature à répéter la même attaque contre une autre créature de votre choix, à l'exception d'elle-même.
 
 Esquive instinctive. Quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque .
+
+[Dextérité]: abilities_hd.md#dextérité
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[terrorisé]: conditions_hd.md#terrorisé
+
 
 [Items]: #
 [Generic]: #

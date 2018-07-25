@@ -38,5 +38,9 @@ Lorsque vous atteignez le niveau 15, vous pouvez enchanter une flèche tueuse po
 
 La flèche tueuse possède les propriétés d'une flèche ordinaire non magique si elle est utilisée par une autre créature que le rôdeur qui l'a fabriqué.
 
+[Constitution]: abilities_hd.md#constitution
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+
 [Items]: #
 [Generic]: #

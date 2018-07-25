@@ -40,5 +40,8 @@ Votre lame est à la fois votre arme et votre meilleure armure. Au niveau 15, vo
 
 De plus, à chaque fois que vous utilisez votre aptitude de frappe chirurgicale, vous pouvez choisir d'ignorer la résistance qui s'appliquait aux dégâts de votre attaque au lieu d'ajouter votre bonus de maîtrise.
 
+[Dextérité]: abilities_hd.md#dextérité
+
+
 [Items]: #
 [Generic]: #
