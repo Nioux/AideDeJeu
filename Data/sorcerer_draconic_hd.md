@@ -20,7 +20,7 @@ Au niveau 1, vous choisissez un type de dragon comme ancêtre. Le type de dégâ
 
 Vous pouvez parler, lire et écrire en draconique.
 
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des dragons, votre bonus de maîtrise est doublé s'il s'applique.
+De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des dragons, votre bonus de maîtrise est doublé s'il s'applique.
 
 
 [][Generic]
@@ -50,13 +50,13 @@ Au niveau 1, votre maximum de points de vie augmente de 1, puis encore de 1 à c
 
 De plus, votre peau est partiellement couverte d'une fine couche d'écailles ressemblant à celle des dragons.
 
-Quand vous ne portez pas d'armure, votre CA est égale à 13 + votre modificateur de Dextérité.
+Quand vous ne portez pas d'armure, votre CA est égale à 13 + votre modificateur de [Dextérité].
 
 [][Generic]
 
 ## Affinité élémentaire
 
-À partir du niveau 6, quand vous lancez un sort qui inflige des dégâts du type associé à votre héritage draconique, vous pouvez ajouter votre modificateur de Charisme à ces dégâts. Vous pouvez dans le même temps dépenser 1 point de sorcellerie pour devenir résistant à ce type de dégâts pendant 1 heure.
+À partir du niveau 6, quand vous lancez un sort qui inflige des dégâts du type associé à votre héritage draconique, vous pouvez ajouter votre modificateur de [Charisme] à ces dégâts. Vous pouvez dans le même temps dépenser 1 point de sorcellerie pour devenir résistant à ce type de dégâts pendant 1 heure.
 
 [][Generic]
 
@@ -72,7 +72,7 @@ Les vêtements que vous portez qui n'ont pas été conçus en tenant compte de v
 
 ## Présence draconique
 
-À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir charmée (si vous choisissez la fascination) ou terrorisée (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe.
+À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un [jet de sauvegarde] de [Sagesse] ou bien devenir charmée (si vous choisissez la fascination) ou terrorisée (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe.
 
 Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures.
 

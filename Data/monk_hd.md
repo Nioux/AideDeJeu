@@ -12,7 +12,7 @@ En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d8 par niveau de moine
-**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
 **Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de constitution par niveau de moine après le niveau 1
 
 ## Maîtrises
@@ -20,7 +20,7 @@ En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 **Armures :** aucune
 **Armes :** armes courantes, épées courtes
 **Outils :** choisissez un type d'outils d'artisan ou un instrument de musique
-**Jets de sauvegarde :** Force, Dextérité
+**Jets de sauvegarde :** [Force], [Dextérité]
 **Compétences :** choisissez deux compétences parmi Acrobaties, Athlétisme, Discrétion, Histoire, Perspicacité et Religion
 
 ## Équipement
@@ -65,7 +65,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## Défense sans armure
 
-Dès le niveau 1, si vous ne portez ni armure ni bouclier, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse.
+Dès le niveau 1, si vous ne portez ni armure ni bouclier, votre CA est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Sagesse].
 
 [][Generic]
 
@@ -75,7 +75,7 @@ Dès le niveau 1, votre pratique des arts martiaux vous permet de maîtriser dif
 
 Tant que vous ne portez ni armure ni bouclier et que vous combattez à mains nues ou avec des armes de moine, vous obtenez les bénéfices suivants :
 
-* Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque et de dégâts.
+* Vous pouvez utiliser votre [Dextérité] au lieu de votre [Force] pour vos jets d'attaque et de dégâts.
 * Vous pouvez lancer un d4 au lieu des dégâts normaux à mains nues ou avec une arme de moine. Ce dé change en fonction de votre niveau de moine, ainsi que vous pouvez le voir dans la colonne arts martiaux du tableau d'évolution du moine.
 * Quand vous utilisez l'action attaquer pour porter un coup à mains nues ou avec une arme de moine pendant votre tour, vous pouvez porter une attaque à mains nues en action bonus. Par exemple, si vous attaquez avec un bâton pendant votre action, vous pouvez aussi faire une attaque à mains nues en action bonus, si vous n'avez pas déjà utilisé d'action bonus lors de ce tour.
 
@@ -91,7 +91,7 @@ Ces points vous permettent d'utiliser certaines aptitudes qui fonctionnent avec 
 
 Une fois que vous avez dépensé des points de ki, vous ne pouvez plus les utiliser avant d'avoir terminé un repos court ou un repos long, qui vous permettent de recharger toute votre réserve de ki. Pour regagner vos points de ki, vous devez méditer au moins 30 minutes pendant votre période de repos.
 
-Certaines de vos aptitudes liées au ki permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi : DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de Sagesse.
+Certaines de vos aptitudes liées au ki permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi : DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse].
 
 [][Generic]
 
@@ -135,7 +135,7 @@ La tradition que vous avez choisie vous donne accès à des aptitudes spécifiqu
 
 À partir du niveau 3, vous pouvez utiliser votre réaction pour parer ou attraper un projectile quand vous êtes touché par une attaque venant d'une arme à distance.
 
-Quand vous utilisez cette aptitude, les dégâts que vous subissez sont réduits de 1d10 + votre modificateur de Dextérité + votre niveau de moine.
+Quand vous utilisez cette aptitude, les dégâts que vous subissez sont réduits de 1d10 + votre modificateur de [Dextérité] + votre niveau de moine.
 
 Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper le projectile si vous avez une main de libre et qu'il est assez petit pour que vous puissiez le tenir dans une main. Si vous réussissez à attraper un projectile de cette manière, vous pouvez dépenser 1 point de ki pour faire, toujours dans la même réaction, une attaque à distance avec l'arme ou la munition que vous venez d'attraper. Cette attaque est considérée comme maîtrisée, peu importe quelles armes vous maîtrisez ou non, et le projectile est considéré comme une arme de moine pour cette attaque, avec une portée normale de 6 mètres et une portée longue de 18 mètres.
 
@@ -161,7 +161,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Frappe étourdissante
 
-À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou elle sera étourdie jusqu'à la fin de votre prochain tour.
+À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un [jet de sauvegarde] de [Constitution] ou elle sera étourdie jusqu'à la fin de votre prochain tour.
 
 [][Generic]
 
@@ -173,7 +173,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Dérobade
 
-Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de boule de feu. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
+Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de boule de feu. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 [][Generic]
 

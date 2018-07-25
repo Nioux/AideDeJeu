@@ -12,15 +12,15 @@ En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d8 par niveau de sorcier
-**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de sorcier après le niveau 1
+**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de sorcier après le niveau 1
 
 ## Maîtrises
 
 **Armures :** armures légères
 **Armes :** armes courantes
 **Outils :** aucun
-**Jets de sauvegarde :** Sagesse, Charisme
+**Jets de sauvegarde :** [Sagesse], [Charisme]
 **Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Intimidation, Investigation, Nature, Religion et Supercherie
 
 ## Équipement
@@ -100,11 +100,11 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de sorcier est le Charisme. Vous utilisez votre Charisme dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Charisme afin de définir le DD du jet de sauvegarde d'un sort de sorcier que vous avez lancé et quand vous faites une attaque avec un sort de sorcier.
+La caractéristique d'incantation que vous utilisez pour les sorts de sorcier est le [Charisme]. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du jet de sauvegarde d'un sort de sorcier que vous avez lancé et quand vous faites une attaque avec un sort de sorcier.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Charisme
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Charisme
+Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Charisme]
 
 ## Focaliseur d'incantation
 

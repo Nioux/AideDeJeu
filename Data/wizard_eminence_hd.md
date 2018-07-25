@@ -14,7 +14,7 @@ Cela fait d'eux des magiciens parfaitement adaptés aux opérations sous couvert
 
 ## Politicien
 
-Dès le niveau 2, vous savez parfaitement vous comporter dans les milieux de pouvoir. En haute société, dans un milieu mondain ou auprès de toute personne qui détient le pouvoir local, vous obtenez un avantage à vos tests de compétence en Charisme ainsi qu'aux tests de Sagesse (Perspicacité) destinés à savoir si on vous ment.
+Dès le niveau 2, vous savez parfaitement vous comporter dans les milieux de pouvoir. En haute société, dans un milieu mondain ou auprès de toute personne qui détient le pouvoir local, vous obtenez un avantage à vos tests de compétence en [Charisme] ainsi qu'aux tests de [Sagesse] (Perspicacité) destinés à savoir si on vous ment.
 
 Interprète
 
@@ -38,7 +38,7 @@ Au niveau 10, ce bonus passe à 2d6 dégâts et au niveau 14 à 3d6. Les dégât
 
 ## Historiographe
 
-Au niveau 10, vous obtenez un avantage aux tests d'Intelligence (Histoire), lorsqu'ils concernent les lignées royales ou l'histoire des nations.
+Au niveau 10, vous obtenez un avantage aux tests d'[Intelligence] (Histoire), lorsqu'ils concernent les lignées royales ou l'histoire des nations.
 
 [][Generic]
 

@@ -72,7 +72,7 @@ Arts
 
 ## Canalisation d'énergie divine : Inspiration divine
 
-Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de Charisme est ajouté au résultat du nouveau jet.
+Vous chantez pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous pouvez utiliser une réaction à chacun de vos tours pour permettre à un allié situé à moins de 18 mètres et capable de vous entendre de relancer un dé de son choix (test de caractéristique, jet d'attaque, de sauvegarde ou de dégâts). Votre modificateur de [Charisme] est ajouté au résultat du nouveau jet.
 
 Charme, amour
 
@@ -88,7 +88,7 @@ Charme, amour
 
 ## Canalisation d'énergie divine : Splendeur céleste
 
-Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un désavantage à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un avantage aux tests de Charisme.
+Pendant un nombre de round égal à votre bonus de maîtrise, vous imposer un désavantage à toutes les sauvegardes des sorts d'enchantement que vous lancez et vous obtenez un avantage aux tests de [Charisme].
 
 Connaissance
 
@@ -170,7 +170,7 @@ Force, Exploits, Courage
 
 ## Canalisation d'énergie divine : Puissance divine
 
-Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un avantage à tous vos tests et jets de sauvegarde de Force et à vos attaques de corpsà- corps avec des armes dotées de la propriété lourde.
+Vous augmentez votre force pendant un nombre de round égal à votre bonus de maîtrise. Pendant cette durée, vous bénéficiez d'un avantage à tous vos tests et [jets de sauvegarde] de [Force] et à vos attaques de corps-à-corps avec des armes dotées de la propriété lourde.
 
 De plus, vous ajoutez 1d4 aux dégâts de vos attaques de corps-à-corps ou 1d6 avec les armes lourdes. Pendant la durée de cette aptitude, vous maîtrisez toutes les armes lourdes.
 
@@ -188,7 +188,7 @@ Froid
 
 ## Canalisation d'énergie divine : Cercueil de glace
 
-Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un jet de sauvegarde de Force, sans quoi elle est entravée pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau jet de sauvegarde de Force. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
+Choisissez jusqu'à une cible de votre choix par point de bonus de maîtrise, situées à moins de 9 mètres de vous et dans votre champ de vision. Chaque cible doit réussir un [jet de sauvegarde] de [Force], sans quoi elle est entravée pendant 1 minute. À la fin de chacun de vos tours, chaque cible a droit à un nouveau [jet de sauvegarde] de [Force]. Si elle le réussit, les effets de la canalisation d'énergie divine se terminent en ce qui la concerne.
 
 Guerre
 
@@ -236,7 +236,7 @@ Lumière
 
 ## Canalisation d'énergie divine : Explosion de lumière
 
-Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un jet de sauvegarde de Dextérité. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont aveuglées à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas aveuglées.
+Un rayon lumineux part de votre doigt tendu et s'étend vers un point de votre choix situé à moins de 30 mètres et dans votre champ de vision, où il explose dans une lumière aveuglante. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde] de [Dextérité]. Celles qui échouent subissent 1d10 dégâts radiants par point de bonus de maîtrise et sont aveuglées à leur prochain tour. Celles qui réussissent ne subissent que la moitié des dégâts et ne sont pas aveuglées.
 
 Magie
 
@@ -268,7 +268,7 @@ Maladie, Faiblesse
 
 ## Canalisation d'énergie divine : Arme infectée
 
-Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état empoisonné pour 1 round. Si elle réussit un jet de sauvegarde de Constitution, elle divise par deux les dégâts de poison et ignore l'état empoisonné.
+Pendant 1 minute, à chaque fois que vous réussissez une attaque avec une arme, la cible subit 1d4 points de dégâts supplémentaires de poison par point de votre bonus de maîtrise et l'état empoisonné pour 1 round. Si elle réussit un [jet de sauvegarde] de [Constitution], elle divise par deux les dégâts de poison et ignore l'état [empoisonné].
 
 Mort
 
@@ -432,7 +432,7 @@ Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre
 
 ## Aspect de l'avatar
 
-Lorsque vous atteignez le niveau 17, vous incarnez, au sens littéral, la puissance de votre divinité. Vous pouvez utiliser une canalisation d'énergie divine pour prendre l'aspect d'un avatar de votre dieu pendant 1 minute. Votre taille augmente d'une catégorie (de moyenne à grande, par exemple) et vous dégagez une aura de puissance quasi palpable. Votre voix porte sans peine à 100 mètres autour de vous et toutes les créatures qui vous entendent comprennent vos paroles, même celles qui n'ont pas habituellement de langage parlé. Vous bénéficiez d'un avantage à tous les tests de Force et de Charisme, et les dégâts de vos attaques avec des armes augmentent d'1d4. Enfin, pendant toute la durée de la transformation, vous pouvez lancer une seule fois chacun de vos sorts de domaine (à leur niveau normal) sans utiliser d'emplacement de sort.
+Lorsque vous atteignez le niveau 17, vous incarnez, au sens littéral, la puissance de votre divinité. Vous pouvez utiliser une canalisation d'énergie divine pour prendre l'aspect d'un avatar de votre dieu pendant 1 minute. Votre taille augmente d'une catégorie (de moyenne à grande, par exemple) et vous dégagez une aura de puissance quasi palpable. Votre voix porte sans peine à 100 mètres autour de vous et toutes les créatures qui vous entendent comprennent vos paroles, même celles qui n'ont pas habituellement de langage parlé. Vous bénéficiez d'un avantage à tous les tests de [Force] et de [Charisme], et les dégâts de vos attaques avec des armes augmentent d'1d4. Enfin, pendant toute la durée de la transformation, vous pouvez lancer une seule fois chacun de vos sorts de domaine (à leur niveau normal) sans utiliser d'emplacement de sort.
 
 Pour lancer un sort de domaine de cette façon, vous devez utiliser votre action à ce tour. Si vous n'avez qu'un seul domaine, vous pouvez lancer chaque sort deux fois.
 

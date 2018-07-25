@@ -12,15 +12,15 @@ En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d10 par niveau de paladin
-**Points de vie au niveau 1 :** 10 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de paladin après le niveau 1
+**Points de vie au niveau 1 :** 10 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de [Constitution] par niveau de paladin après le niveau 1
 
 ## Maîtrises
 
 **Armures :** toutes les armures, boucliers
 **Armes :** armes courantes, armes de guerre
 **Outils :** aucun
-**Jets de sauvegarde :** Sagesse, Charisme
+**Jets de sauvegarde :** [Sagesse], [Charisme]
 **Compétences :** choisissez deux compétences parmi les suivantes : Athlétisme, Intimidation, Médecine, Perspicacité, Persuasion et Religion
 
 ## Équipement
@@ -74,7 +74,7 @@ Vous ressentez le mal comme une odeur nauséabonde, tandis que le bien résonne 
 
 Jusqu'à la fin de votre prochain tour, vous savez où se trouve toute créature céleste, fiélonne ou mort-vivante qui n'est pas cachée derrière un abri total dans un rayon de 18 mètres autour de vous. Vous connaissez le type (céleste, fiélon ou mort-vivant) de chaque être dont vous ressentez la présence, mais vous n'en savez pas plus sur cette créature. Dans le même rayon, vous détectez aussi la présence de tout lieu ou objet qui a été consacré ou profané, comme cela peut être fait avec un sort comme sanctification.
 
-Entre deux repos longs, vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de Charisme.
+Entre deux repos longs, vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de [Charisme].
 
 [][Generic]
 
@@ -128,19 +128,19 @@ En arrivant au niveau 2, vous avez appris à puiser dans la magie divine grâce 
 
 Le tableau d'évolution du paladin vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de paladin, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
 
-Choisissez dans la liste de sorts de paladin des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de paladin égal à votre modificateur de Charisme + la moitié de votre niveau de paladin (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
+Choisissez dans la liste de sorts de paladin des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de paladin égal à votre modificateur de [Charisme] + la moitié de votre niveau de paladin (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un paladin de niveau 5, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Charisme de 14, votre liste de sorts peut compter quatre sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un paladin de niveau 5, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de [Charisme] de 14, votre liste de sorts peut compter quatre sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de paladin vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation qui vous permet de lancer les sorts de paladin est le Charisme, car vos pouvoirs découlent de la force de votre conviction. Vous utilisez le Charisme dès qu'un sort de paladin vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur de Charisme quand vous calculez le jet de sauvegarde d'un sort de paladin que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de paladin est le [Charisme], car vos pouvoirs découlent de la force de votre conviction. Vous utilisez le [Charisme] dès qu'un sort de paladin vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur de [Charisme] quand vous calculez le jet de sauvegarde d'un sort de paladin que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Charisme
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
-Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de Charisme
+Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de [Charisme]
 
 ## Focaliseur d'incantation
 
@@ -213,7 +213,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Aura de protection
 
-À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son jet de sauvegarde égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.
+À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son jet de sauvegarde égal à votre modificateur de [Charisme] (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
@@ -239,7 +239,7 @@ Si vous utilisez aussi votre châtiment divin lors d'une attaque, vous additionn
 
 À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux repos longs.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de [Charisme] (avec un minimum d'une fois) entre deux repos longs.
 
 [][Generic]
 

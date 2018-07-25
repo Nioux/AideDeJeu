@@ -12,15 +12,15 @@ En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d10 par niveau de rôdeur
-**Points de vie au niveau 1 :** 10 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de Constitution par niveau de rôdeur après le niveau 1
+**Points de vie au niveau 1 :** 10 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d10 (ou 6) + votre modificateur de [Constitution] par niveau de rôdeur après le niveau 1
 
 ## Maîtrises
 
 **Armures :** armures légères, armures intermédiaires, boucliers
 **Armes :** armes courantes, armes de guerre
 **Outils :** aucun
-**Jets de sauvegarde :** Force, Dextérité
+**Jets de sauvegarde :** [Force], [Dextérité]
 **Compétences :** choisissez trois compétences parmi : Athlétisme, Discrétion, Dressage, Investigation, Nature, Perception, Perspicacité et Survie
 
 ## Équipement
@@ -74,7 +74,7 @@ Choisissez un type d'ennemi juré : aberrations, bêtes, célestes, créatures a
 
 Alternativement, vous pouvez choisir deux races d'humanoïdes (comme les gnolls et les orcs) comme ennemis jurés.
 
-Vous obtenez un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d'Intelligence permettant de se rappeler d'informations les concernant.
+Vous obtenez un avantage sur les tests de [Sagesse] (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d'[Intelligence] permettant de se rappeler d'informations les concernant.
 
 Quand vous gagnez cette aptitude, vous apprenez également une langue de votre choix qui est parlée par l'un de vos ennemis jurés, dans la mesure où ils savent parler.
 
@@ -84,7 +84,7 @@ Vous pouvez choisir un nouvel ennemi juré ainsi qu'une langue qui lui est assoc
 
 ## Explorateur-né
 
-Vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, forêt, plaine, montagne ou marais. Quand vous faites un test d'Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
+Vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, forêt, plaine, montagne ou marais. Quand vous faites un test d'[Intelligence] ou de [Sagesse] lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
 
 Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous obtenez les bénéfices suivants :
 
@@ -151,11 +151,11 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur est la Sagesse, car votre magie découle de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Sagesse afin de définir le DD du jet de sauvegarde d'un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
+La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur est la [Sagesse], car votre magie découle de votre lien avec la nature. Vous utilisez votre [Sagesse] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Sagesse] afin de définir le DD du jet de sauvegarde d'un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Sagesse
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
 
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse
+Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
 
 [][Generic]
 
@@ -197,7 +197,7 @@ En plus de cela, vous obtenez un avantage sur les jets de sauvegarde contre les 
 
 À partir du niveau 10, vous pouvez passer une minute à créer de quoi vous camoufler. Vous devez pour cela avoir accès à de la boue, de la terre, des plantes, de la suie et d'autres matériaux naturels avec lesquels créer votre camouflage.
 
-Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de Dextérité (Discrétion) tant que vous vous restez immobile et ne faites pas d'action. Dès que vous bougez ou choisissez d'effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
+Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de [Dextérité] (Discrétion) tant que vous vous restez immobile et ne faites pas d'action. Dès que vous bougez ou choisissez d'effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
 
 [][Generic]
 
@@ -217,7 +217,7 @@ Vous arrivez aussi à percevoir l'endroit où se trouve toute créature invisibl
 
 ## Tueur d'ennemis
 
-Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque ou de dégâts d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
+Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de [Sagesse] au jet d'attaque ou de dégâts d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
 
 [][Generic]
 

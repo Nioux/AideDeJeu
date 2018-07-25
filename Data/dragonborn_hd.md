@@ -21,18 +21,18 @@ Votre lignée draconique se manifeste par différents traits que vous partagez a
 
 ### Ascendance 
 
-|Dragon|Type de dégâts|Souffle|Jet de sauvegarde|
+|Dragon|Type de dégâts|Souffle|[Jet de sauvegarde]|
 |---|---|---|---|
-|Airain|Feu|Ligne de 1,50 m sur 9 m|Dextérité|
-|Argent|Froid|Cône de 4,50 m|Constitution|
-|Blanc|Froid|Cône de 4,50 m|Constitution|
-|Bleu|Foudre|Ligne de 1,50 m sur 9 m|Dextérité|
-|Bronze|Foudre|Ligne de 1,50 m sur 9 m|Dextérité|
-|Cuivre|Acide|Ligne de 1,50 m sur 9 m|Dextérité|
-|Noir|Acide|Ligne de 1,50 m sur 9 m|Dextérité|
-|Or|Feu|Cône de 4,50 m|Dextérité|
-|Rouge|Feu|Cône de 4,50 m|Dextérité|
-|Vert|Poison|Cône de 4,50 m|Constitution|
+|Airain|Feu|Ligne de 1,50 m sur 9 m|[Dextérité]|
+|Argent|Froid|Cône de 4,50 m|[Constitution]|
+|Blanc|Froid|Cône de 4,50 m|[Constitution]|
+|Bleu|Foudre|Ligne de 1,50 m sur 9 m|[Dextérité]|
+|Bronze|Foudre|Ligne de 1,50 m sur 9 m|[Dextérité]|
+|Cuivre|Acide|Ligne de 1,50 m sur 9 m|[Dextérité]|
+|Noir|Acide|Ligne de 1,50 m sur 9 m|[Dextérité]|
+|Or|Feu|Cône de 4,50 m|[Dextérité]|
+|Rouge|Feu|Cône de 4,50 m|[Dextérité]|
+|Vert|Poison|Cône de 4,50 m|[Constitution]|
 
 **Souffle.** Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
 

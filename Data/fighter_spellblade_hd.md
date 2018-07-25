@@ -33,9 +33,9 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 Tout comme l'ensorceleur, votre magie coule dans vos veines et elle est basée sur la force de votre ego.
 
-Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de Charisme
+Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de [Charisme]
 
-Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de Charisme
+Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charisme]
 
 Vous pouvez utiliser une arme de corps-à-corps comme focaliseur d'incantation pour vos sorts d'ensorceleur.
 
@@ -45,7 +45,7 @@ Vous pouvez utiliser une arme de corps-à-corps comme focaliseur d'incantation p
 
 La magie est présente en chaque être que vous combattez, proportionnelle à sa puissance, et lorsque vous portez un coup mortel à un adversaire, cette énergie s'en échappe au même titre que son âme. Également au niveau 3, vous avez appris à capter cette énergie.
 
-Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher cette aptitude. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un jet de sauvegarde de Dextérité DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes neutralisé durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs.
+Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher cette aptitude. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un [jet de sauvegarde] de [Dextérité] DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes neutralisé durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs.
 
 Si l'indice de dangerosité de la créature est inférieur à 1, il s'agit en fait plutôt de modestes étincelles sans danger qui ne vous rapportent aucun point de sorcellerie.
 

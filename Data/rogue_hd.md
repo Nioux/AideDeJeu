@@ -12,15 +12,15 @@ En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d8 par niveau de roublard
-**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de roublard après le niveau 1
+**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de roublard après le niveau 1
 
 ## Maîtrises
 
 **Armures :** armures légères
 **Armes :** armes courantes, arbalètes de poing, épées longues, rapières, épées courtes
 **Outils :** outils de voleur
-**Jets de sauvegarde :** Dextérité, Intelligence
+**Jets de sauvegarde :** [Dextérité], [Intelligence]
 **Compétences :** choisissez quatre compétences parmi Acrobaties, Athlétisme, Discrétion, Escamotage, Intimidation, Investigation, Perception, Perspicacité, Persuasion, Représentation et Supercherie
 
 ## Équipement
@@ -122,7 +122,7 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 
 ## Dérobade
 
-À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de tempête de grêle. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
+À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de tempête de grêle. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
 [][Generic]
 
@@ -140,7 +140,7 @@ Au niveau 11, vous avez affiné vos compétences à un point proche de la perfec
 
 ## Esprit impénétrable
 
-Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
+Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde] de [Sagesse].
 
 [][Generic]
 

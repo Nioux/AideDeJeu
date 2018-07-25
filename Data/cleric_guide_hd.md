@@ -61,9 +61,9 @@ Au niveau 6, lorsque vous lancez le tour de magie assistance, la cible du sort p
 
 ## Analyse des faiblesses
 
-Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un jet de sauvegarde de Charisme.
+Également au niveau 6, votre habitude des mystères de l'âme vous permet de ressentir les fêlures et les faiblesses de vos interlocuteurs, et vous savez mettre à profit cette analyse pour améliorer votre emprise sur leur esprit. Lorsque vous conversez pendant au moins 1 minute avec une créature humanoïde, vous pouvez lui demander de faire un [jet de sauvegarde] de [Charisme].
 
-En cas d'échec, pendant 1 heure, vous bénéficiez d'un avantage à tous vos tests de Charisme effectués contre cette cible et elle subit un désavantage à tous ses jets de sauvegarde de Sagesse contre les sorts que vous lancez.
+En cas d'échec, pendant 1 heure, vous bénéficiez d'un avantage à tous vos tests de [Charisme] effectués contre cette cible et elle subit un désavantage à tous ses [jets de sauvegarde] de [Sagesse] contre les sorts que vous lancez.
 
 En cas de succès, vous ne pouvez faire de nouvelle tentative avant 24 heures.
 
@@ -87,7 +87,7 @@ Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres so
 
 ## Haranguer les foules
 
-Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de Sagesse. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un désavantage à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de [Sagesse]. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un désavantage à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
 [Items]: #
 [Generic]: #

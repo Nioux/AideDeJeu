@@ -14,7 +14,7 @@ Les célestes sont des entités issues des plans supérieurs, soit les plans qui
 
 Vous pouvez parler, lire et écrire en céleste.
 
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des célestes, votre bonus de maîtrise est doublé s'il s'applique.
+De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des célestes, votre bonus de maîtrise est doublé s'il s'applique.
 
 [][Generic]
 
@@ -32,7 +32,7 @@ Enfin, lorsque vous lancez un sort dont le type de dégâts correspond à feu ou
 
 À partir du niveau 6, votre lignée vous donne accès aux sorts de paladin. Vous apprenez immédiatement un sort de votre choix dans la liste de paladin de niveau 1. Vous apprenez un sort de paladin de niveau 2 lorsque vous atteignez le niveau 9 d'ensorceleur et un sort de niveau 3 lorsque vous atteignez le niveau 12.
 
-Ces sorts ne comptent pas dans le nombre total de sorts que vous connaissez. Vous lancez les sorts de paladin comme s'il s'agissait de sorts d'ensorceleur (le Charisme est votre caractéristique de magie) et vous pouvez utiliser des points de sorcellerie pour modifier les effets de vos sorts de paladin.
+Ces sorts ne comptent pas dans le nombre total de sorts que vous connaissez. Vous lancez les sorts de paladin comme s'il s'agissait de sorts d'ensorceleur (le [Charisme] est votre caractéristique de magie) et vous pouvez utiliser des points de sorcellerie pour modifier les effets de vos sorts de paladin.
 
 [][Generic]
 

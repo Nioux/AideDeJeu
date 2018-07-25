@@ -12,7 +12,7 @@ Généralement revêtu d'une lourde armure, le défenseur est un spécialiste de
 
 ## Bloquer un adversaire
 
-À partir du niveau 3, vous pouvez utiliser une réaction pour empêcher un ou plusieurs adversaires au corpsà- corps de se déplacer, dès que l'un d'eux annonce son intention de le faire. Vous pouvez bloquer simultanément un nombre d'adversaires à votre contact égal à votre bonus de maîtrise divisé par deux. Chaque adversaire doit faire un jet de sauvegarde de Force (DD = 8 + votre bonus de maîtrise + votre modificateur de Force) ou être obligé de rester à moins de 1,50 mètre de vous jusqu'à votre prochain tour tant que vous ne vous déplacez pas.
+À partir du niveau 3, vous pouvez utiliser une réaction pour empêcher un ou plusieurs adversaires au corpsà- corps de se déplacer, dès que l'un d'eux annonce son intention de le faire. Vous pouvez bloquer simultanément un nombre d'adversaires à votre contact égal à votre bonus de maîtrise divisé par deux. Chaque adversaire doit faire un [jet de sauvegarde] de [Force] (DD = 8 + votre bonus de maîtrise + votre modificateur de [Force]) ou être obligé de rester à moins de 1,50 mètre de vous jusqu'à votre prochain tour tant que vous ne vous déplacez pas.
 
 [][Generic]
 
@@ -38,9 +38,9 @@ Au niveau 10, vous pouvez choisir un deuxième style de combat parmi défense ou
 
 ## Tête de fer
 
-À partir du niveau 15, lorsque vous devez effectuer un jet de sauvegarde de Dextérité pour résister à un sort ou un pouvoir qui permet de diviser les dégâts par deux en cas de réussite (comme une boule de feu ou le souffle d'un dragon) et si vous portez une armure intermédiaire ou lourde, vous pouvez le remplacer par un jet de sauvegarde de Constitution. De plus, lorsque vous portez une armure lourde, vous êtes immunisé aux effets des attaques les plus dévastatrices : lorsque vous subissez un coup critique, vous subissez seulement les effets d'une attaque normale.
+À partir du niveau 15, lorsque vous devez effectuer un [jet de sauvegarde] de [Dextérité] pour résister à un sort ou un pouvoir qui permet de diviser les dégâts par deux en cas de réussite (comme une boule de feu ou le souffle d'un dragon) et si vous portez une armure intermédiaire ou lourde, vous pouvez le remplacer par un [jet de sauvegarde] de [Constitution]. De plus, lorsque vous portez une armure lourde, vous êtes immunisé aux effets des attaques les plus dévastatrices : lorsque vous subissez un coup critique, vous subissez seulement les effets d'une attaque normale.
 
-Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez désormais dépenser une action bonus pour imposer un désavantage au jet de sauvegarde de l'un de vos adversaires.
+Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez désormais dépenser une action bonus pour imposer un désavantage au [jet de sauvegarde] de l'un de vos adversaires.
 
 [][Generic]
 

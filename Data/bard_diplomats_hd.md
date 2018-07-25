@@ -18,7 +18,7 @@ Lorsque vous rejoignez le collège des diplomates au niveau 3, vous apprenez deu
 
 ## Orateur exceptionnel
 
-Également au niveau 3, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).
+Également au niveau 3, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de [Sagesse] (Perspicacité), de [Charisme] (Persuasion) et [Charisme] (Supercherie).
 
 [][Generic]
 

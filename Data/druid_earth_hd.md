@@ -130,7 +130,7 @@ Quand vous atteignez le niveau 10, vous ne pouvez pas être charmé ou terroris�
 
 ## Sanctuaire de la nature
 
-Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sorts de druide. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement.
+Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un [jet de sauvegarde] de [Sagesse] contre votre DD de sauvegarde de sorts de druide. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement.
 
 Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
 

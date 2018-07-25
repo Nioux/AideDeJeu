@@ -18,9 +18,9 @@ Dès que vous choisissez cet archétype au niveau 3, lorsque vous attaquez avec 
 
 ## Athlète remarquable
 
-À partir du niveau 7, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi à l'entier supérieur) à tout test de Force, Dextérité ou Constitution qui n'utilise pas déjà ce bonus.
+À partir du niveau 7, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi à l'entier supérieur) à tout test de [Force], [Dextérité] ou [Constitution] qui n'utilise pas déjà ce bonus.
 
-De plus, quand vous faites un saut en longueur avec élan, la distance à laquelle vous pouvez sauter est augmentée de 0,30 m × votre modificateur de Force.
+De plus, quand vous faites un saut en longueur avec élan, la distance à laquelle vous pouvez sauter est augmentée de 0,30 m × votre modificateur de [Force].
 
 [][Generic]
 
@@ -38,7 +38,7 @@ Au niveau 10, vous pouvez choisir un deuxième style de combat.
 
 ## Survivant
 
-Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au début de votre tour, il ne vous reste pas plus de la moitié de vos points de vie, vous regagnez immédiatement un nombre de points de vie égal à 5 + votre modificateur de Constitution. Vous ne pouvez pas bénéficier de cette aptitude si vous êtes réduit à 0 point de vie.
+Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au début de votre tour, il ne vous reste pas plus de la moitié de vos points de vie, vous regagnez immédiatement un nombre de points de vie égal à 5 + votre modificateur de [Constitution]. Vous ne pouvez pas bénéficier de cette aptitude si vous êtes réduit à 0 point de vie.
 
 [Items]: #
 [Generic]: #

@@ -56,7 +56,7 @@ Héros. En dépensant une réaction et votre canalisation d'énergie divine, vou
 
 Au niveau 7, lorsque vous utilisez le sort trouver une monture, vous pouvez appeler un cheval de guerre lourd ou, si votre MJ vous le permet, un hippogriffe ou un aigle géant (ID 1). Ces créatures sont considérées dressées, et vous pouvez les contrôler.
 
-De plus, lorsque vous utilisez une lance à dos de monture, vous obtenez un avantage en attaque sur chaque attaque effectuée après un déplacement d'au moins 6 mètres et, si vous blessez une créature, elle doit réaliser un jet de sauvegarde de Force ou se retrouver à terre (voir la section Combat monté, au chapitre 9 page 295 si la cible est elle-même sur une monture).
+De plus, lorsque vous utilisez une lance à dos de monture, vous obtenez un avantage en attaque sur chaque attaque effectuée après un déplacement d'au moins 6 mètres et, si vous blessez une créature, elle doit réaliser un [jet de sauvegarde] de [Force] ou se retrouver [à terre] (voir la section Combat monté, au chapitre 9 page 295 si la cible est elle-même sur une monture).
 
 [][Generic]
 
@@ -72,7 +72,7 @@ De plus, lorsque vous contrôlez une monture, vous pouvez lui faire utiliser son
 
 Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau prend la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous.
 
-De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un avantage à toutes vos attaques au corpsà- corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un avantage à toutes vos attaques au corps-à-corps, ainsi que vos tests de [Force], de [Constitution], de [Sagesse] et de [Charisme] ([jets de sauvegarde] et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
 [Items]: #
 [Generic]: #

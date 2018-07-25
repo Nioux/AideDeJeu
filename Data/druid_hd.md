@@ -12,15 +12,15 @@ En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d8 par niveau de druide
-**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre niveau de Constitution par niveau de druide après le premier niveau
+**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre niveau de [Constitution] par niveau de druide après le premier niveau
 
 ## Maîtrises
 
 **Armures :** armures légères, armures intermédiaires, boucliers (les druides n'utilisent pas d'armure ou de bouclier faits en métal)
 **Armes :** gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances
 **Outils :** matériel d'herboriste
-**Jets de sauvegarde :** Intelligence, Sagesse
+**Jets de sauvegarde :** [Intelligence], [Sagesse]
 **Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Médecine, Nature, Perception, Perspicacité, Religion et Survie
 
 ## Équipement
@@ -66,7 +66,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## Druidique
 
-Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
+Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse] (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
 
 [][Generic]
 
@@ -82,19 +82,19 @@ Au niveau 1, vous connaissez deux tours de magie de votre choix, que vous choisi
 
 Le tableau d'évolution du druide vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de druide, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
 
-Choisissez des sorts que vous pouvez lancer dans la liste de sorts de druide afin de les préparer. Vous pouvez choisir un nombre de sorts de druide égal à votre modificateur de Sagesse + votre niveau de druide (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
+Choisissez des sorts que vous pouvez lancer dans la liste de sorts de druide afin de les préparer. Vous pouvez choisir un nombre de sorts de druide égal à votre modificateur de [Sagesse] + votre niveau de druide (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un druide de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Sagesse de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un druide de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de [Sagesse] de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de druide vous demande de passer du temps à prier et à méditer : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation qui vous permet de lancer les sorts de druide est la Sagesse, car votre magie découle de votre dévotion et de votre lien avec la nature. Vous utilisez votre Sagesse dès qu'un sort de druide vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de Sagesse quand vous calculez le jet de sauvegarde d'un sort de druide que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de druide est la [Sagesse], car votre magie découle de votre dévotion et de votre lien avec la nature. Vous utilisez votre [Sagesse] dès qu'un sort de druide vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de [Sagesse] quand vous calculez le [jet de sauvegarde] d'un sort de druide que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Sagesse
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
 
-Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de Sagesse
+Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de [Sagesse]
 
 ## Incantation rituelle
 
@@ -124,7 +124,7 @@ Vous pouvez conserver votre forme sauvage pendant un nombre d'heures équivalent
 
 Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 
-* Votre profil technique est remplacé par celui de l'animal dont vous avez pris la forme, mais vous conservez votre alignement, votre personnalité et vos valeurs d'Intelligence, de Sagesse et de Charisme. Vous conservez aussi toutes vos compétences et vos maîtrises de jets de sauvegarde, en plus de celles de la créature dont vous avez pris la forme. Si la créature et vous disposez d'un bonus pour la même compétence, vous conservez le plus élevé des deux. Par contre, si elle possède des actions légendaires ou des actions d'antre (voir Créatures & Oppositions), comme certains puissants monstres, vous ne pouvez pas les utiliser.
+* Votre profil technique est remplacé par celui de l'animal dont vous avez pris la forme, mais vous conservez votre alignement, votre personnalité et vos valeurs d'[Intelligence], de [Sagesse] et de [Charisme]. Vous conservez aussi toutes vos compétences et vos maîtrises de jets de sauvegarde, en plus de celles de la créature dont vous avez pris la forme. Si la créature et vous disposez d'un bonus pour la même compétence, vous conservez le plus élevé des deux. Par contre, si elle possède des actions légendaires ou des actions d'antre (voir Créatures & Oppositions), comme certains puissants monstres, vous ne pouvez pas les utiliser.
 * Quand vous vous transformez, vous adoptez aussi les dés de vie et les points de vie de la créature. Quand vous reprenez votre forme normale, vous retrouvez le nombre de points de vie que vous aviez avant de vous transformer. Néanmoins, si vous retrouvez votre forme normale après avoir été réduit à 0 point de vie, tous les dégâts supplémentaires qui ont pu vous être infligés sont transférés à votre forme normale. Par exemple, si vous subissez 10 dégâts sous votre forme sauvage alors qu'il ne vous reste qu'1 point de vie, vous reprenez votre forme normale et subissez 9 dégâts sous cette forme. Tant que ces dégâts supplémentaires ne réduisent pas vos points de vie à 0, vous restez conscient.
 * Vous ne pouvez pas lancer de sorts. Vos capacités à parler et à faire n'importe quelle action qui nécessite l'usage des mains sont limitées par les capacités de votre forme sauvage. Vous transformer ne brise cependant pas votre concentration sur un sort que vous avez déjà lancé et ne vous empêche pas d'accomplir des actions qui font partie d'un sort, comme dans le cas d'appel de la foudre, si vous l'avez déjà lancé.
 * Vous conservez les bénéfices de toute aptitude propre à votre classe, à votre race ou de toute autre source. Vous pouvez les utiliser dans la mesure où votre forme sauvage vous le permet. Néanmoins, vous ne pouvez utiliser vos sens spéciaux, comme la vision dans le noir, que si votre nouvelle forme possède elle aussi ce sens.

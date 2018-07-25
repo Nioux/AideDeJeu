@@ -32,7 +32,7 @@ De plus, comme vous ne vous consacrez pas exclusivement à la magie divine, vous
 
 Choisissez les sorts que vous connaissez au moment où vous devenez capable de les lancer. Cette liste de sorts inscrits dans votre grimoire ne pourra plus changer.
 
-Lorsque vous lancez un sort de magicien, vous utilisez votre modificateur d'Intelligence pour déterminer la difficulté de vos sorts et votre modificateur d'attaque magique, au lieu de votre modificateur de Sagesse. Vous préparez le nombre standard de sorts d'un clerc de votre niveau en choisissant indifféremment des sorts de clerc ou de magicien.
+Lorsque vous lancez un sort de magicien, vous utilisez votre modificateur d'[Intelligence] pour déterminer la difficulté de vos sorts et votre modificateur d'attaque magique, au lieu de votre modificateur de [Sagesse]. Vous préparez le nombre standard de sorts d'un clerc de votre niveau en choisissant indifféremment des sorts de clerc ou de magicien.
 
 [][Generic]
 
@@ -60,7 +60,7 @@ Lorsque vous atteignez le niveau 8, vous améliorez l'efficacité de magie renfo
 
 ## Magie universelle
 
-Votre étude exhaustive des différentes traditions et théories magiques vous permet d'apprendre des sorts très variés. À partir du niveau 17 et à chaque niveau suivant, au lieu d'un sort de magicien, vous pouvez apprendre un sort de niveau 1 à 4 issu de n'importe quelle liste de sorts. Vous devez utiliser le modificateur de magie qui correspond à la liste de sorts où vous avez choisi le sort (par exemple, le Charisme pour un sort de la liste de sorcier).
+Votre étude exhaustive des différentes traditions et théories magiques vous permet d'apprendre des sorts très variés. À partir du niveau 17 et à chaque niveau suivant, au lieu d'un sort de magicien, vous pouvez apprendre un sort de niveau 1 à 4 issu de n'importe quelle liste de sorts. Vous devez utiliser le modificateur de magie qui correspond à la liste de sorts où vous avez choisi le sort (par exemple, le [Charisme] pour un sort de la liste de sorcier).
 
 
 [][Generic]

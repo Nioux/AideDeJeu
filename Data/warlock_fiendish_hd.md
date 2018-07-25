@@ -26,7 +26,7 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 
 ## Bénédiction du ténébreux
 
-À partir du niveau 1, quand vous réduisez une créature hostile à 0 point de vie, vous gagnez un nombre de points de vie temporaire égal à votre modificateur de Charisme + votre niveau de sorcier (avec un minimum de 1).
+À partir du niveau 1, quand vous réduisez une créature hostile à 0 point de vie, vous gagnez un nombre de points de vie temporaire égal à votre modificateur de [Charisme] + votre niveau de sorcier (avec un minimum de 1).
 
 [][Generic]
 

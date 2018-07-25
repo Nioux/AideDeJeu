@@ -56,7 +56,7 @@ Au niveau 7, si vous êtes sur la voie de la rédemption depuis au moins un nive
 
 Dans ce dernier cas, vous pouvez choisir l'une des options de canalisation d'énergie divine du serment de rédemption et remplacer définitivement l'une des options de votre serment par celle-ci.
 
-Si vous persistez dans la voie de la rédemption, vous pouvez désormais désigner une créature à 9 mètres ou moins de vous et la forcer à expier ses crimes et la noirceur de son âme. Si la créature rate un jet de sauvegarde de Sagesse (le DD est égal à celui de vos sorts de paladin), elle est paralysée.
+Si vous persistez dans la voie de la rédemption, vous pouvez désormais désigner une créature à 9 mètres ou moins de vous et la forcer à expier ses crimes et la noirceur de son âme. Si la créature rate un [jet de sauvegarde] de [Sagesse] (le DD est égal à celui de vos sorts de paladin), elle est paralysée.
 
 Elle effectue un nouveau jet de sauvegarde chaque tour pendant 1 minute, jusqu'à ce qu'elle résiste à l'expiation ou jusqu'à ce que vous soyez inconscient. Si la créature est une aberration, un mort-vivant ou un démon, elle subit un désavantage sur ce jet. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
@@ -81,7 +81,7 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 * Vous êtes immunisé aux effets d'épuisement, aux dégâts nécrotiques, ainsi qu'aux pouvoirs qui repoussent les morts-vivants.
 * Vous ne pouvez pas être charmé, terrorisé, paralysé, pétrifié ou empoisonné.
 * Vous flottez dans les airs et vous pouvez vous déplacer à travers les créatures et les objets, comme sur un terrain difficile. Votre vitesse de déplacement reste inchangée. Si vous occupez le même emplacement qu'un objet solide ou une créature lorsque la transformation se termine, vous êtes immédiatement projeté dans l'espace inoccupé le plus proche susceptible de vous accueillir et subissez un total de dégâts de force égal à 6 × le nombre de mètres sur lesquels vous avez été projeté.
-* Vous conservez votre bonus d'attaque et votre nombre d'attaques. Lorsque vous touchez un adversaire, vous lui infligez (2d6 + modificateur de Charisme) dégâts nécrotiques. De plus, il doit réussir un jet de sauvegarde de Constitution (même DD que vos sorts de paladin) ou subir un niveau d'épuisement.
+* Vous conservez votre bonus d'attaque et votre nombre d'attaques. Lorsque vous touchez un adversaire, vous lui infligez (2d6 + modificateur de [Charisme]) dégâts nécrotiques. De plus, il doit réussir un [jet de sauvegarde] de [Constitution] (même DD que vos sorts de paladin) ou subir un niveau d'épuisement.
 
 À la fin de la transformation, si le niveau d'épuisement de votre personnage est de 6, celui-ci meurt. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 

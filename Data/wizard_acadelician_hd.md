@@ -44,7 +44,7 @@ Transmutation : Amélioration. Vous apprenez le sort amélioration de caractéri
 
 ## Expertise
 
-Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d'Intelligence pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux jets de sauvegarde que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
+Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d'[Intelligence] pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux jets de sauvegarde que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
 
 [][Generic]
 
@@ -54,13 +54,13 @@ Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 
 Abjuration : Champs d'énergie. Lorsque vous êtes la cible d'un sort de niveau 3 ou inférieur, vous obtenez au choix un avantage à la sauvegarde ou une résistance aux dégâts du sort.
 
-Invocation : Invocation tenace. Vos sorts de invocation sont plus difficiles à dissiper, ils nécessitent un test d'Intelligence réussi quel que soit leur niveau.
+Invocation : Invocation tenace. Vos sorts de invocation sont plus difficiles à dissiper, ils nécessitent un test d'[Intelligence] réussi quel que soit leur niveau.
 
 Ceux de niveau 4 et supérieur imposent un désavantage au test. De plus, les créatures que vous invoquez obtiennent 2 points de vie temporaires par niveau du sort.
 
 Divination : Prédiction. Vous invoquez une vision du futur proche dont vous partagez la conscience avec vos alliés. Tous vos alliés jusqu'à une distance de 9 mètres bénéficient d'un avantage à leurs tests et leurs ennemis d'un désavantage pour les attaquer (sorts, attaques au corps-à-corps ou à distance) pendant un nombre de rounds égal à votre bonus de maîtrise. Vous devez terminer un repos long avant de pouvoir invoquer une nouvelle vision.
 
-Enchantement : Présence envoûtante. Si vous n'avez pas attaqué une créature, lorsque celle-ci vous attaque, elle doit auparavant réussir un jet de sauvegarde de Sagesse ou perdre son action à ce tour. Le DD est égal à celui de vos sorts de magicien. Au round suivant, elle peut vous attaquer normalement. Cette aptitude n'affecte pas les créatures qui ne peuvent être charmées.
+Enchantement : Présence envoûtante. Si vous n'avez pas attaqué une créature, lorsque celle-ci vous attaque, elle doit auparavant réussir un [jet de sauvegarde] de [Sagesse] ou perdre son action à ce tour. Le DD est égal à celui de vos sorts de magicien. Au round suivant, elle peut vous attaquer normalement. Cette aptitude n'affecte pas les créatures qui ne peuvent être charmées.
 
 Évocation : Sorts puissants. Vous ajoutez votre bonus de maîtrise aux dégâts des sorts d'évocation. Si votre sort affecte plusieurs cibles, votre bonus de maîtrise ne s'applique qu'à une seule cible de votre choix.
 

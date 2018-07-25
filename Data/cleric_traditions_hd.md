@@ -18,9 +18,9 @@ Au niveau 1, vous obtenez la maîtrise de la compétence Histoire. Si vous maît
 
 ## Foi élargie
 
-À partir du niveau 1 également, votre lien avec de nombreuses divinités ou des esprits vous permet de préparer une liste de sorts plus importante qu'un autre clerc de même niveau. Vous ajoutez votre bonus de maîtrise au nombre de sorts que vous pouvez préparer (normalement égale à modificateur de Sagesse + niveau de clerc). En revanche, la liste des sorts de domaine auxquels vous avez accès est plus limitée.
+À partir du niveau 1 également, votre lien avec de nombreuses divinités ou des esprits vous permet de préparer une liste de sorts plus importante qu'un autre clerc de même niveau. Vous ajoutez votre bonus de maîtrise au nombre de sorts que vous pouvez préparer (normalement égale à modificateur de [Sagesse] + niveau de clerc). En revanche, la liste des sorts de domaine auxquels vous avez accès est plus limitée.
 
-Par exemple, un gardien des traditions de premier niveau avec un modificateur de Sagesse de +2 peut préparer cinq sorts différents au lieu de trois : niveau (1) + modificateur de Sagesse (2) + bonus de maîtrise (2). Au niveau 17, il pourra préparer vingt-cinq sorts au lieu de dix-neuf.
+Par exemple, un gardien des traditions de premier niveau avec un modificateur de [Sagesse] de +2 peut préparer cinq sorts différents au lieu de trois : niveau (1) + modificateur de [Sagesse] (2) + bonus de maîtrise (2). Au niveau 17, il pourra préparer vingt-cinq sorts au lieu de dix-neuf.
 
 [][Generic]
 
@@ -68,7 +68,7 @@ Vous pouvez également passer dans le monde des esprits sans effort ; en utilisa
 
 ## Maître des traditions
 
-Au niveau 17, vous obtenez deux points de caractéristiques supplémentaires que vous pouvez ajouter au choix en Sagesse ou en Charisme. Vous pouvez choisir de répartir un point en Sagesse et l'autre en Charisme. Votre maximum pour ces deux valeurs est à présent de 22.
+Au niveau 17, vous obtenez deux points de caractéristiques supplémentaires que vous pouvez ajouter au choix en [Sagesse] ou en [Charisme]. Vous pouvez choisir de répartir un point en [Sagesse] et l'autre en [Charisme]. Votre maximum pour ces deux valeurs est à présent de 22.
 
 Désormais, vous êtes capable de lancer le sort soin des blessures de groupe en utilisant une action bonus et mot de guérison de groupe en utilisant une réaction (donc en dehors de votre propre tour).
 

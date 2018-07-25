@@ -12,15 +12,15 @@ En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d6 par niveau d'ensorceleur
-**Points de vie au niveau 1 :** 6 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d6 (ou 4) + votre modificateur de Constitution par niveau d'ensorceleur après le niveau 1
+**Points de vie au niveau 1 :** 6 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d6 (ou 4) + votre modificateur de [Constitution] par niveau d'ensorceleur après le niveau 1
 
 ## Maîtrises
 
 **Armures :** aucune
 **Armes :** dagues, fléchettes, frondes, bâtons, arbalètes légères
 **Outils :** aucun
-**Jets de sauvegarde :** Constitution, Charisme
+**Jets de sauvegarde :** [Constitution], [Charisme]
 **Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
 
 ## Équipement
@@ -93,11 +93,11 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le Charisme, car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre Charisme dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Charisme afin de définir le DD du jet de sauvegarde d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
+La caractéristique d'incantation que vous utilisez pour les sorts d'ensorceleur est le [Charisme], car votre magie découle de votre capacité à imposer votre volonté au monde qui vous entoure. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du jet de sauvegarde d'un sort d'ensorceleur que vous avez lancé et quand vous faites une attaque avec un sort d'ensorceleur.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Charisme
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Charisme
+Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Charisme]
 
 ## Focaliseur d'incantation
 
@@ -161,7 +161,7 @@ Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous
 
 ## Invocation prudente
 
-Quand vous lancez un sort qui force d'autres créatures à faire un jet de sauvegarde, vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de Charisme (avec un minimum d'une créature).
+Quand vous lancez un sort qui force d'autres créatures à faire un jet de sauvegarde, vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de [Charisme] (avec un minimum d'une créature).
 
 Les créatures désignées réussissent automatiquement leur jet de sauvegarde contre ce sort.
 
@@ -177,7 +177,7 @@ Quand vous lancez un sort de contact, vous pouvez dépenser 1 point de sorceller
 
 ## Sort puissant
 
-Quand vous lancez les dés de dégâts d'un sort, vous pouvez dépenser 1 point de sorcellerie pour annuler les résultats d'un nombre de dés de dégâts inférieur ou égal à votre modificateur de Charisme (avec un minimum de un) et les relancer. Vous devez utiliser les résultats du nouveau lancer.
+Quand vous lancez les dés de dégâts d'un sort, vous pouvez dépenser 1 point de sorcellerie pour annuler les résultats d'un nombre de dés de dégâts inférieur ou égal à votre modificateur de [Charisme] (avec un minimum de un) et les relancer. Vous devez utiliser les résultats du nouveau lancer.
 
 Vous pouvez utiliser sort puissant même si vous avez déjà utilisé une autre option de métamagie pour modifier ce sort.
 

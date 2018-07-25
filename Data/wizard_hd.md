@@ -12,15 +12,15 @@ En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d6 par niveau de magicien
-**Points de vie au niveau 1 :** 6 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d6 (ou 4) + votre modificateur de Constitution par niveau de magicien après le niveau 1
+**Points de vie au niveau 1 :** 6 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d6 (ou 4) + votre modificateur de [Constitution] par niveau de magicien après le niveau 1
 
 ## Maîtrises
 
 **Armures :** aucune
 **Armes :** dagues, fléchettes, frondes, bâtons, arbalètes légères
 **Outils :** aucun
-**Jets de sauvegarde :** Intelligence, Sagesse 
+**Jets de sauvegarde :** [Intelligence], [Sagesse] 
 **Compétences :** choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion
 
 ## Équipement
@@ -81,19 +81,19 @@ Au niveau 1, votre grimoire contient six sorts de magicien de niveau 1 de votre 
 
 Le tableau d'évolution du magicien vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort de magicien, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez accès à tous ces emplacements après un repos long.
 
-Choisissez dans la liste de sorts de magicien des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de magicien égal à votre modificateur d'Intelligence + votre niveau de magicien (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
+Choisissez dans la liste de sorts de magicien des sorts que vous pouvez lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de magicien égal à votre modificateur d'[Intelligence] + votre niveau de magicien (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un magicien de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur d'Intelligence de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 projectile magique, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
+Par exemple, si vous êtes un magicien de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur d'[Intelligence] de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez. Si vous préparez le sort de niveau 1 projectile magique, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
 Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, mais préparer une nouvelle liste de sorts de magicien vous demande de passer du temps à étudier votre grimoire et mémoriser les incantations et les gestes que vous devez faire afin de lancer vos sorts : au moins 1 minute par niveau de sort pour chaque sort qui se trouve sur votre liste.
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation qui vous permet de lancer les sorts de magicien est l'Intelligence, car c'est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre Intelligence dès qu'un sort de magicien vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d'Intelligence quand vous calculez le jet de sauvegarde d'un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de magicien est l'[Intelligence], car c'est grâce à des études approfondies et en faisant appel à vos capacités de mémorisation que vous avez appris vos sorts. Vous utilisez votre [Intelligence] dès qu'un sort de magicien vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur d'[Intelligence] quand vous calculez le jet de sauvegarde d'un sort de magicien que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur d'Intelligence
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur d'[Intelligence]
 
-Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d'Intelligence
+Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d'[Intelligence]
 
 ## Incantation rituelle
 

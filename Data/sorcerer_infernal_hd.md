@@ -18,7 +18,7 @@ Bien entendu, les tieffelins eux-mêmes sont particulièrement adaptés à une t
 
 Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre lignée descende des démons ou des diables.
 
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
+De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
 
 [][Generic]
 

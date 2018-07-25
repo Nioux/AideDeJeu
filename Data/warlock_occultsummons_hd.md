@@ -20,7 +20,7 @@ Vous pouvez lancer le sort armure de mage sur vousmême à volonté, sans utilis
 
 Prérequis : niveau 12, pacte de la lame
 
-Quand vous frappez une créature avec votre arme de pacte, votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de Charisme (avec un minimum de 1).
+Quand vous frappez une créature avec votre arme de pacte, votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de [Charisme] (avec un minimum de 1).
 
 [][Generic]
 
@@ -36,7 +36,7 @@ Vous pouvez lancer le sort immobiliser un monstre à volonté sans utiliser d'em
 
 Prérequis : tour de magie explosion occulte
 
-Quand vous lancez explosion occulte, ajoutez votre modificateur de Charisme aux dégâts causés par le sort.
+Quand vous lancez explosion occulte, ajoutez votre modificateur de [Charisme] aux dégâts causés par le sort.
 
 [][Generic]
 

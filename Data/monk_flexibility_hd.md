@@ -24,7 +24,7 @@ Enfin, vous bénéficiez d'un avantage à tous vos tests pour résister aux empo
 
 ## Projection
 
-Au niveau 6, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 1 point de ki et votre réaction afin de l'obliger à effectuer un jet de sauvegarde de Dextérité. Si la valeur de Force de la créature est supérieure à la vôtre, elle subit un désavantage. En cas d'échec, la créature se retrouve à terre et vous pouvez en profiter pour lui infliger vos dégâts à mains nues.
+Au niveau 6, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 1 point de ki et votre réaction afin de l'obliger à effectuer un [jet de sauvegarde] de [Dextérité]. Si la valeur de [Force] de la créature est supérieure à la vôtre, elle subit un désavantage. En cas d'échec, la créature se retrouve à terre et vous pouvez en profiter pour lui infliger vos dégâts à mains nues.
 
 [][Generic]
 
@@ -40,7 +40,7 @@ Une fois par round, lorsqu'une attaque portée par un adversaire vous fait perdr
 
 À partir du niveau 17, vous maîtrisez des clés, des techniques d'étranglement ou de points de pression sur des nerfs qui vous permettent de plonger vos adversaires dans l'inconscience.
 
-Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient inconscient pour 1d6 tours + votre modificateur de Sagesse. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.
+Lorsque vous réussissez une empoignade, vous pouvez dépenser 3 points de ki pour obliger votre adversaire à faire un [jet de sauvegarde] de [Constitution] (DD = 8 + votre modificateur de [Dextérité] + votre bonus de maîtrise). En cas d'échec, il devient inconscient pour 1d6 tours + votre modificateur de [Sagesse]. Cette aptitude est sans effet sur les élémentaires, les créatures artificielles, les vases et les morts-vivants.
 
 
 [Items]: #

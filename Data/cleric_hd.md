@@ -12,15 +12,15 @@ En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d8 par niveau de clerc
-**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution après le niveau 1
+**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] après le niveau 1
 
 ## Maîtrises
 
 **Armures :** armures légères, armures intermédiaires, boucliers
 **Armes :** armes courantes
 **Outils :** aucun
-**Jets de sauvegarde :** Sagesse, Charisme
+**Jets de sauvegarde :** [Sagesse], [Charisme]
 **Compétences :** choisissez deux compétences parmi les suivantes : Histoire, Médecine, Perspicacité, Persuasion, Religion
 
 ## Équipement
@@ -76,9 +76,9 @@ Au niveau 1, vous connaissez trois tours de magie que vous choisissez dans la li
 
 Le tableau d'évolution du clerc vous indique combien d'emplacements de sorts vous pouvez utiliser au niveau 1 et aux niveaux supérieurs. Pour lancer un sort, vous devez utiliser un emplacement d'un niveau équivalent ou supérieur à ce sort. Vous regagnez l'accès à tous ces emplacements après un repos long.
 
-Dans la liste de sorts de clerc, choisissez les sorts que vous êtes capable de lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de clerc égal à votre modificateur de Sagesse + votre niveau de clerc (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire ceux pour lesquels vous possédez au moins un emplacement de niveau équivalent.
+Dans la liste de sorts de clerc, choisissez les sorts que vous êtes capable de lancer afin de les préparer. Vous pouvez choisir un nombre de sorts de clerc égal à votre modificateur de [Sagesse] + votre niveau de clerc (avec un minimum d'un sort). Vous devez choisir des sorts que vous pouvez lancer, c'est-à-dire ceux pour lesquels vous possédez au moins un emplacement de niveau équivalent.
 
-Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de Sagesse de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez.
+Par exemple, si vous êtes un clerc de niveau 3, vous avez quatre emplacements de sorts de niveau 1 et deux emplacements de sorts de niveau 2. Avec une valeur de [Sagesse] de 16, votre liste de sorts peut compter six sorts de niveau 1 ou 2 que vous pouvez combiner comme vous le souhaitez.
 
 Si vous préparez le sort de niveau 1 soin des blessures, vous pouvez le lancer en utilisant un emplacement de sorts de niveau 1 ou 2. Lancer le sort ne l'efface pas de votre liste de sorts préparés.
 
@@ -86,13 +86,13 @@ Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, m
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation qui vous permet de lancer les sorts de clerc est la Sagesse. La puissance de vos sorts dépend de votre dévouement à votre déité.
+La caractéristique d'incantation qui vous permet de lancer les sorts de clerc est la [Sagesse]. La puissance de vos sorts dépend de votre dévouement à votre déité.
 
-Vous utilisez votre Sagesse dès qu'un sort de clerc vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de Sagesse quand vous calculez la difficulté du jet de sauvegarde d'un sort de clerc que vous avez lancé ou quand vous faites une attaque avec un sort.
+Vous utilisez votre [Sagesse] dès qu'un sort de clerc vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous pouvez utiliser votre modificateur de [Sagesse] quand vous calculez la difficulté du jet de sauvegarde d'un sort de clerc que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Sagesse
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
 
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Sagesse
+Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
 
 ## Incantation rituelle
 
@@ -130,7 +130,7 @@ Certains effets de la canalisation d'énergie divine impliquent des jets de sauv
 
 ## Canalisation d'énergie divine : Renvoi des morts-vivants
 
-Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un jet de sauvegarde de Sagesse. Si une créature échoue à son jet de sauvegarde, elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
+Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde] de [Sagesse]. Si une créature échoue à son jet de sauvegarde, elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
 
 [][Generic]
 

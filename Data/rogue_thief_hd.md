@@ -12,7 +12,7 @@ Vous affinez vos compétences dans l'art du larcin. Les cambrioleurs, bandits, v
 
 ## Mains lestes
 
-À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de Dextérité (Escamotage), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action utiliser un objet.
+À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de [Dextérité] (Escamotage), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action utiliser un objet.
 
 [][Generic]
 
@@ -22,13 +22,13 @@ Quand vous choisissez cet archétype au niveau 3, vous obtenez la capacité d'es
 
 Escalader ne vous coûte plus de déplacement supplémentaire.
 
-De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouvez sauter est augmentée de 30 cm × votre modificateur de Dextérité.
+De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouvez sauter est augmentée de 30 cm × votre modificateur de [Dextérité].
 
 [][Generic]
 
 ## Furtivité suprême
 
-À partir du niveau 9, vous obtenez un avantage sur vos tests de Dextérité (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
+À partir du niveau 9, vous obtenez un avantage sur vos tests de [Dextérité] (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
 
 [][Generic]
 

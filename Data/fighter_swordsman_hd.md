@@ -12,7 +12,7 @@ Le bretteur est un guerrier qui compte sur la précision et la vitesse de ses at
 
 ## Jeu de jambes
 
-À partir du niveau 3, vous gagnez la maîtrise des sauvegardes de Dextérité.
+À partir du niveau 3, vous gagnez la maîtrise des sauvegardes de [Dextérité].
 
 [][Generic]
 

@@ -14,21 +14,21 @@ Leur palette de talents est bien plus étendue que celle d'un simple ferrailleur
 
 ## Regard noir
 
-Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de Charisme et de Force pour les tests de Charisme (Intimidation) et Charisme (Persuasion).
+Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de [Charisme] et de [Force] pour les tests de [Charisme] (Intimidation) et [Charisme] (Persuasion).
 
-De plus, vous pouvez utiliser une action bonus pour faire un test opposé de Charisme (Intimidation) contre le test de Sagesse (Perspicacité) d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un désavantage à son prochain jet d'attaque ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état terrorisé ou aux dégâts psychiques sont immunisées à cette aptitude.
+De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Charisme] (Intimidation) contre le test de [Sagesse] (Perspicacité) d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un désavantage à son prochain jet d'attaque ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état terrorisé ou aux dégâts psychiques sont immunisées à cette aptitude.
 
 [][Generic]
 
 ## Dur à cuire
 
-Également au niveau 3, vous ajoutez votre modificateur de Force en plus de celui de Constitution aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de Force augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
+Également au niveau 3, vous ajoutez votre modificateur de [Force] en plus de celui de [Constitution] aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de [Force] augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
 
 [][Generic]
 
 ## Coup bas
 
-À partir du niveau 9, lorsque vous utilisez l'action attaquer, vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l'aide d'une arme improvisée (coup de tête, coup de genou ou du pommeau de l'arme, chope de bière, etc.) qui inflige 1d4 + votre modificateur de Force points de dégâts contondants (ou du type approprié dans le cas d'une arme improvisée). Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17.
+À partir du niveau 9, lorsque vous utilisez l'action attaquer, vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l'aide d'une arme improvisée (coup de tête, coup de genou ou du pommeau de l'arme, chope de bière, etc.) qui inflige 1d4 + votre modificateur de [Force] points de dégâts contondants (ou du type approprié dans le cas d'une arme improvisée). Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17.
 
 Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée normale, vous utilisez le même dé que pour cette aptitude pour déterminer vos dégâts.
 
@@ -38,7 +38,7 @@ Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée no
 
 Lorsque vous atteignez le niveau 13, vous obtenez un avantage au jet d'attaque lorsque vous attaquez une cible qui se trouve à moins de 1,50 mètre d'un allié non neutralisé.
 
-Désormais, si vous bénéficiez d'un avantage lorsque vous utilisez l'aptitude coup bas et que votre attaque à mains nue ou improvisée inflige des dégâts, votre cible doit réussir un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Force + votre bonus de maîtrise) ou être entravée par la douleur jusqu'au début de votre prochain tour. Les morts-vivants, les élémentaires, les vases, les plantes et les créatures artificielles sont immunisées à cet effet.
+Désormais, si vous bénéficiez d'un avantage lorsque vous utilisez l'aptitude coup bas et que votre attaque à mains nue ou improvisée inflige des dégâts, votre cible doit réussir un [jet de sauvegarde] de [Constitution] (DD = 8 + votre modificateur de [Force] + votre bonus de maîtrise) ou être entravée par la douleur jusqu'au début de votre prochain tour. Les morts-vivants, les élémentaires, les vases, les plantes et les créatures artificielles sont immunisées à cet effet.
 
 [][Generic]
 

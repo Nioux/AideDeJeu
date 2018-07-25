@@ -30,7 +30,7 @@ La puissance des profondeurs vous permet de choisir des sorts dans une liste de 
 
 ## Adepte des profondeurs
 
-Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l'air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'Intelligence (Investigation), Sagesse (Perception) et Charisme (Persuasion). Porter un chapeau à large bord ou une capuche permet d'annuler cet effet.
+Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l'air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'[Intelligence] (Investigation), [Sagesse] (Perception) et [Charisme] (Persuasion). Porter un chapeau à large bord ou une capuche permet d'annuler cet effet.
 
 À l'inverse, de nuit ou tant que vous êtes sous terre ou sous l'eau, vous bénéficiez d'un avantage à ces tests.
 
@@ -56,7 +56,7 @@ De plus, lorsque vous lancez le sort de sommeil, vous utilisez des d10 pour dét
 
 Au niveau 14, lorsque vous réussissez une attaque en mêlée contre une créature, vous pouvez utiliser cette aptitude pour ouvrir le sol sous les pieds de votre adversaire et l'envoyer dans les profondeurs abyssales de la terre. Vous devez être au niveau du sol pour que cela fonctionne et il ne se passe rien si votre cible se trouve à l'étage d'un bâtiment.
 
-La victime disparaît sous terre pendant 3 rounds et elle subit 5d6 dégâts contondants par round. À chaque round, un jet de sauvegarde de Force réussi permet de diviser les dégâts par deux. Si les dégâts subis réduisent la victime à 0 point de vie, son corps désarticulé est expulsé à la surface. Sinon, elle réapparaît à la fin de votre tour après 3 rounds passés sous terre.
+La victime disparaît sous terre pendant 3 rounds et elle subit 5d6 dégâts contondants par round. À chaque round, un [jet de sauvegarde] de [Force] réussi permet de diviser les dégâts par deux. Si les dégâts subis réduisent la victime à 0 point de vie, son corps désarticulé est expulsé à la surface. Sinon, elle réapparaît à la fin de votre tour après 3 rounds passés sous terre.
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 

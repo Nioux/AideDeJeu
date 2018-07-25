@@ -16,13 +16,13 @@ Les ensorceleurs de lignée féerique descendent de héros, lanceurs de sorts ou
 
 Vous pouvez parler, lire et écrire en sylvain.
 
-De plus, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des fées, votre bonus de maîtrise est doublé s'il s'applique.
+De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des fées, votre bonus de maîtrise est doublé s'il s'applique.
 
 [][Generic]
 
 ## Héritage féerique
 
-Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous bénéficiez d'un avantage à tous les tests de Charisme destinés à séduire ou charmer.
+Vous avez hérité de la beauté éthérée des fées. Dès le niveau 1, vous bénéficiez d'un avantage à tous les tests de [Charisme] destinés à séduire ou charmer.
 
 De plus, vous avez une affinité pour les armes de la forêt, au premier niveau vous acquérez la maîtrise de l'arc court et de la lance.
 

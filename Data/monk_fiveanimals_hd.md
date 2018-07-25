@@ -26,19 +26,19 @@ La griffe du tigre vous permet d'infliger des dégâts tranchants au lieu de con
 
 ## Morsure du serpent
 
-Au niveau 6, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites une attaque à mains nues si vous le souhaitez. De plus, en dépensant 1 point de ki sur une attaque à mains nues réussie, vous obligez votre cible à faire un jet de sauvegarde de Dextérité. En cas d'échec, elle est aveuglée jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.
+Au niveau 6, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites une attaque à mains nues si vous le souhaitez. De plus, en dépensant 1 point de ki sur une attaque à mains nues réussie, vous obligez votre cible à faire un [jet de sauvegarde] de [Dextérité]. En cas d'échec, elle est aveuglée jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.
 
 [][Generic]
 
 ## Vitesse du léopard
 
-À partir du niveau 11, vous pouvez utiliser votre réaction et 1 point de Ki pour ajouter le résultat de votre dé d'arts martiaux à un jet de sauvegarde de Dextérité ou au résultat de n'importe quel test de Dextérité.
+À partir du niveau 11, vous pouvez utiliser votre réaction et 1 point de Ki pour ajouter le résultat de votre dé d'arts martiaux à un [jet de sauvegarde] de [Dextérité] ou au résultat de n'importe quel test de [Dextérité].
 
 [][Generic]
 
 ## Fureur du dragon
 
-Lorsque vous atteignez le niveau 17, en dépensant 3 points de ki, vous pouvez utiliser votre action pour porter une attaque à mains nues contre chaque créature autour de vous dans un rayon de 4,50 mètres. La réussite de votre attaque est automatique et vous infligez vos dégât à mains nues normaux. Chaque créature de taille moyenne ou inférieure que vous blessez par cette attaque doit réussir un jet de sauvegarde de Force (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise) ou se retrouver à terre.
+Lorsque vous atteignez le niveau 17, en dépensant 3 points de ki, vous pouvez utiliser votre action pour porter une attaque à mains nues contre chaque créature autour de vous dans un rayon de 4,50 mètres. La réussite de votre attaque est automatique et vous infligez vos dégât à mains nues normaux. Chaque créature de taille moyenne ou inférieure que vous blessez par cette attaque doit réussir un [jet de sauvegarde] de [Force] (DD = 8 + votre modificateur de [Dextérité] + votre bonus de maîtrise) ou se retrouver à terre.
 
 
 [Items]: #

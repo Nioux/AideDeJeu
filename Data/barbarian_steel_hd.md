@@ -12,7 +12,7 @@ La magie est l'arme des faibles, des corrompus et des traîtres, vous savez qu'o
 
 ## Sens de la magie
 
-Dès le niveau 3, lorsque vous êtes en présence de magie, vous avez des sueurs froides et les poils de votre nuque se hérissent. Lorsque vous êtes sur le point d'entrer dans une zone imprégnée de magie ou sous l'influence d'un sort (comme un piège magique), le MJ doit vous demander un test de Sagesse (Perception) DD 10 ou réaliser ce test secrètement. En cas de succès, vous ressentez la présence de la magie juste avant d'y pénétrer. La même procédure doit être utilisée si vous vous préparez à toucher un objet ou une surface enchantée.
+Dès le niveau 3, lorsque vous êtes en présence de magie, vous avez des sueurs froides et les poils de votre nuque se hérissent. Lorsque vous êtes sur le point d'entrer dans une zone imprégnée de magie ou sous l'influence d'un sort (comme un piège magique), le MJ doit vous demander un test de [Sagesse] (Perception) DD 10 ou réaliser ce test secrètement. En cas de succès, vous ressentez la présence de la magie juste avant d'y pénétrer. La même procédure doit être utilisée si vous vous préparez à toucher un objet ou une surface enchantée.
 
 [][Generic]
 
@@ -30,7 +30,7 @@ Vous faites confiance à l'acier et il vous le rend bien.
 
 ## Briseur de sort
 
-Votre arme et votre esprit ne font qu'un, et votre volonté est assez forte pour briser la magie elle-même lorsque vous portez une attaque. Lorsque vous atteignez le niveau 10, vous pouvez utiliser une action bonus pour obtenir les effets d'un sort de dissipation de la magie (portée contact, lancé au niveau 3) sur la cible que vous frappez avec une arme d'acier non enchantée. Si cette cible est un adversaire, vous devez avoir réussi votre attaque et cet effet s'ajoute aux dégâts habituels. Vous utilisez votre modificateur de Sagesse pour un éventuel test de caractéristique. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
+Votre arme et votre esprit ne font qu'un, et votre volonté est assez forte pour briser la magie elle-même lorsque vous portez une attaque. Lorsque vous atteignez le niveau 10, vous pouvez utiliser une action bonus pour obtenir les effets d'un sort de dissipation de la magie (portée contact, lancé au niveau 3) sur la cible que vous frappez avec une arme d'acier non enchantée. Si cette cible est un adversaire, vous devez avoir réussi votre attaque et cet effet s'ajoute aux dégâts habituels. Vous utilisez votre modificateur de [Sagesse] pour un éventuel test de caractéristique. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
 
 [][Generic]
 

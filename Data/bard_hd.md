@@ -12,15 +12,15 @@ En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
 ## Points de vie
 
 **Dés de vie :** 1d8 par niveau de barde
-**Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de barde après le niveau 1
+**Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de barde après le niveau 1
 
 ## Maîtrises
 
 **Armures :** armures légères
 **Armes :** armes courantes, arbalète de poing, épée longue, rapière, épée courte
 **Outils :** trois instruments de musique de votre choix
-**Jets de sauvegarde :** Dextérité, Charisme
+**Jets de sauvegarde :** [Dextérité], [Charisme]
 **Compétences :** trois au choix
 
 ## Équipement
@@ -90,11 +90,11 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de barde est le Charisme. Votre magie est issue de votre coeur et de votre âme, de tout ce que vous insufflez dans votre musique ou vos oraisons. Vous utilisez votre Charisme dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de Charisme afin de définir le DD du jet de sauvegarde d'un sort de barde que vous avez lancé et quand vous faites une attaque avec un sort de barde. 
+La caractéristique d'incantation que vous utilisez pour les sorts de barde est le [Charisme]. Votre magie est issue de votre coeur et de votre âme, de tout ce que vous insufflez dans votre musique ou vos oraisons. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du jet de sauvegarde d'un sort de barde que vous avez lancé et quand vous faites une attaque avec un sort de barde. 
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de Charisme
+DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
-Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de Charisme
+Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Charisme]
 
 ## Incantation rituelle
 
@@ -112,7 +112,7 @@ La simple force de vos mots ou de votre musique vous permet d'inspirer les autre
 
 Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à un test de caractéristique, à un jet d'attaque ou à un jet de sauvegarde. Il peut attendre d'avoir lancé son d20 avant de choisir d'utiliser son dé d'inspiration bardique, mais doit se décider avant que le MJ annonce si l'action est réussie ou ratée. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une créature ne peut disposer que d'un dé d'inspiration bardique à la fois.
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de [Charisme] (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.
 
 Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.
 

@@ -18,7 +18,7 @@ Dès le niveau 2, vous êtes habitué à la vie en plein air et à affronter les
 
 ## Aguerri
 
-Les chemins que vous parcourez sont rarement sans danger et vous en savez plus sur l'art de vous défendre que n'importe quel autre magicien. Au niveau 6, lorsque vous utilisez votre action pour lancer un tour de magie, vous pouvez faire une attaque avec votre arme de prédilection en utilisant une action bonus. De plus, vous obtenez la maîtrise des jets de sauvegarde de Constitution.
+Les chemins que vous parcourez sont rarement sans danger et vous en savez plus sur l'art de vous défendre que n'importe quel autre magicien. Au niveau 6, lorsque vous utilisez votre action pour lancer un tour de magie, vous pouvez faire une attaque avec votre arme de prédilection en utilisant une action bonus. De plus, vous obtenez la maîtrise des [jets de sauvegarde] de [Constitution].
 
 [][Generic]
 

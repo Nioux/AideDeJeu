@@ -14,7 +14,7 @@ Les druides du cercle des fées sont parfois considérés comme des extrémistes
 
 ## Ami des fées
 
-Au niveau 2, lorsque vous choisissez le cercle des fées, vous apprenez le langage sylvain (langue exotique). De plus, vous bénéficiez d'un avantage à tous les tests de Charisme que vous effectuez pour interagir avec des créatures de la catégorie des fées.
+Au niveau 2, lorsque vous choisissez le cercle des fées, vous apprenez le langage sylvain (langue exotique). De plus, vous bénéficiez d'un avantage à tous les tests de [Charisme] que vous effectuez pour interagir avec des créatures de la catégorie des fées.
 
 [][Generic]
 

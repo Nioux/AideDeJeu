@@ -35,9 +35,9 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 ## Incantations
 
-Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de Charisme
+Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de [Charisme]
 
-Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de Charisme
+Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charisme]
 
 Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos sorts d'ombrelame.
 
@@ -49,7 +49,7 @@ Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos 
 
 Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mais sa zone de lumière faible reste de 6 mètres. Si la source de lumière est magique, vous devez dépenser 1 point de sorcellerie par niveau du sort (aucun point pour un tour de magie).
 
-De plus, vous obtenez un avantage aux tests de Dextérité (Discrétion) que vous effectuez dans une zone de lumière faible.
+De plus, vous obtenez un avantage aux tests de [Dextérité] (Discrétion) que vous effectuez dans une zone de lumière faible.
 
 [][Generic]
 

@@ -44,17 +44,17 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options de canalisation d'énergie divine suivantes.
 
-Porte-étendard. Au prix d'une action, vous provoquez tous les ennemis qui se trouvent dans un rayon de 9 mètres autour de vous. Ceux qui ratent un jet de sauvegarde de Sagesse doivent à leur prochain tour choisir l'action attaquer et vous choisir comme cible si vous êtes à une distance inférieure à leur allonge, ou l'action se précipiter et se rapprocher de vous dans le cas contraire. À votre prochain tour, vous pouvez au prix d'une action attaquer tous les ennemis à votre portée.
+Porte-étendard. Au prix d'une action, vous provoquez tous les ennemis qui se trouvent dans un rayon de 9 mètres autour de vous. Ceux qui ratent un [jet de sauvegarde] de [Sagesse] doivent à leur prochain tour choisir l'action attaquer et vous choisir comme cible si vous êtes à une distance inférieure à leur allonge, ou l'action se précipiter et se rapprocher de vous dans le cas contraire. À votre prochain tour, vous pouvez au prix d'une action attaquer tous les ennemis à votre portée.
 
 Si vous n'avez pas subi de dégât pendant le round précédent, vous obtenez un avantage sur ces attaques.
 
-Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés dans un rayon de 9 mètres autour de vous ainsi qu'à vous-même, un avantage sur la prochaine attaque réalisée avant le début de votre prochain tour. Toutes les attaques réussies bénéficient d'un bonus aux dégâts égal à votre modificateur de Charisme.
+Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés dans un rayon de 9 mètres autour de vous ainsi qu'à vous-même, un avantage sur la prochaine attaque réalisée avant le début de votre prochain tour. Toutes les attaques réussies bénéficient d'un bonus aux dégâts égal à votre modificateur de [Charisme].
 
 [][Generic]
 
 ## Cri de ralliement
 
-À partir du niveau 7, vous pouvez haranguer vos compagnons et les exhorter à faire de leur mieux. Tous vos alliés dans un rayon de 9 mètres autour de vous récupèrent 1d6 + votre modificateur de Charisme points de vie. De plus, tous ceux qui étaient charmés, terrorisés ou paralysés suite à un jet de sauvegarde raté peuvent tenter un nouveau jet de sauvegarde (avec le même DD) afin de se libérer de leur condition. Ils obtiennent un avantage sur ce jet de sauvegarde. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
+À partir du niveau 7, vous pouvez haranguer vos compagnons et les exhorter à faire de leur mieux. Tous vos alliés dans un rayon de 9 mètres autour de vous récupèrent 1d6 + votre modificateur de [Charisme] points de vie. De plus, tous ceux qui étaient charmés, terrorisés ou paralysés suite à un jet de sauvegarde raté peuvent tenter un nouveau jet de sauvegarde (avec le même DD) afin de se libérer de leur condition. Ils obtiennent un avantage sur ce jet de sauvegarde. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
 [][Generic]
 
@@ -72,7 +72,7 @@ Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre 
 
 * Vous émettez une vive lumière dans un rayon de 9 mètres, et une lumière faible dans un rayon de 9 mètres supplémentaires, dont la couleur rappelle les armoiries de votre seigneur ou cité.
 * Cette lumière s'accompagne d'une aura de sérénité de 9 mètres de rayon autour de vous. Vos alliés dans cette zone ne peuvent plus être charmés ou terrorisés.
-* Les créatures Chaotiques qui pénètrent dans cette aura ou y débutent leur tour (vous excepté) doivent réussir un jet de sauvegarde de Sagesse ou être terrorisées pendant 1 minute, ou jusqu'à ce qu'elles sortent de la zone d'effet. Le DD de ce jet de sauvegarde est le même que pour vos sorts de paladin.
+* Les créatures Chaotiques qui pénètrent dans cette aura ou y débutent leur tour (vous excepté) doivent réussir un [jet de sauvegarde] de [Sagesse] ou être terrorisées pendant 1 minute, ou jusqu'à ce qu'elles sortent de la zone d'effet. Le DD de ce jet de sauvegarde est le même que pour vos sorts de paladin.
 * Les ennemis invisibles redeviennent visibles tant qu'ils se trouvent à moins de 9 mètres de vous.
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
