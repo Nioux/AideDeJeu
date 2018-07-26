@@ -12,7 +12,7 @@ Les moines qui choisissent la voie de l'illumination sont des religieux et des p
 
 ## Prières
 
-Lorsque vous choisissez cette tradition au niveau 3, vous devenez capable de lancer des sorts de clerc en dépensant des points de ki. Chaque sort lancé vous coûte un nombre de points de ki égal à son niveau. Le nombre maximum de points de ki que vous pouvez dépenser pour lancer un sort ne doit pas dépasser votre bonus de maîtrise. Vous pouvez lancer un sort avec un emplacement de sort supérieur à son niveau initial en dépensant davantage de points de ki, tant que vous ne dépensez pas plus de points de ki que votre bonus de maîtrise. La [Sagesse] est votre caractéristique d'incantation pour lancer vos sorts. La difficulté des jets de sauvegarde est égale à celle de vos aptitudes de ki.
+Lorsque vous choisissez cette tradition au niveau 3, vous devenez capable de lancer des sorts de clerc en dépensant des points de ki. Chaque sort lancé vous coûte un nombre de points de ki égal à son niveau. Le nombre maximum de points de ki que vous pouvez dépenser pour lancer un sort ne doit pas dépasser votre bonus de maîtrise. Vous pouvez lancer un sort avec un emplacement de sort supérieur à son niveau initial en dépensant davantage de points de ki, tant que vous ne dépensez pas plus de points de ki que votre bonus de maîtrise. La [Sagesse] est votre caractéristique d'incantation pour lancer vos sorts. La difficulté des [jets de sauvegarde] est égale à celle de vos aptitudes de ki.
 
 Chaque matin après un repos long, vous préparez les sorts de clerc que vous pourrez lancer pendant la journée.
 
@@ -29,6 +29,9 @@ Vous devenez capable de les lancer comme s'il s'agissait de sorts de clerc et il
 À partir du niveau 11, choisissez deux sorts supplémentaires dans la liste précédente ou dans celleci : vision dans le noir, détection des pensée, lévitation, pas brumeux, voir l'invisible, pattes d'araignée.
 
 À partir du niveau 17, choisissez deux sorts supplémentaires dans les listes précédentes ou dans celle-ci : clignotement, porte dimensionnelle, hâte, non-détection, respiration aquatique, peau de pierre.
+
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

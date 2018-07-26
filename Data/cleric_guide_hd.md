@@ -49,7 +49,7 @@ Nul n'est votre égal pour utiliser les mots et pour convaincre les individus co
 
 À partir du niveau 2, à la suite d'une cérémonie durant laquelle tous les bénéficiaires sont tenus de prier en votre compagnie et de réciter les préceptes de votre religion pendant 1 minute, vous pouvez dépenser votre canalisation d'énergie divine pour apposer une marque de dévotion sur tous vos alliés et vous-même dans un rayon de 3 mètres. Lancez un d20 et notez le résultat obtenu.
 
-À tout moment pendant les prochaines 24 heures, le bénéficiaire peut dépenser sa marque de dévotion en utilisant une réaction pour remplacer le résultat d'un d20 qu'il vient de lancer par le résultat que vous avez obtenu. Alternativement, il peut dépenser sa marque de dévotion pour remplacer le résultat de son adversaire : par exemple, pour le jet de sauvegarde d'un sort ou pour le jet d'une attaque dirigée contre lui. Aucun bénéficiaire ne peut obtenir plus d'une marque de dévotion à la fois.
+À tout moment pendant les prochaines 24 heures, le bénéficiaire peut dépenser sa marque de dévotion en utilisant une réaction pour remplacer le résultat d'un d20 qu'il vient de lancer par le résultat que vous avez obtenu. Alternativement, il peut dépenser sa marque de dévotion pour remplacer le résultat de son adversaire : par exemple, pour le [jet de sauvegarde] d'un sort ou pour le jet d'une attaque dirigée contre lui. Aucun bénéficiaire ne peut obtenir plus d'une marque de dévotion à la fois.
 
 [][Generic]
 
@@ -88,6 +88,12 @@ Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres so
 ## Haranguer les foules
 
 Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de [Sagesse]. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un désavantage à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+
+[Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

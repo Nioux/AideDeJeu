@@ -136,9 +136,9 @@ Vous pouvez changer votre liste de sorts préparés à la fin d'un repos long, m
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation qui vous permet de lancer les sorts de paladin est le [Charisme], car vos pouvoirs découlent de la force de votre conviction. Vous utilisez le [Charisme] dès qu'un sort de paladin vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur de [Charisme] quand vous calculez le jet de sauvegarde d'un sort de paladin que vous avez lancé ou quand vous faites une attaque avec un sort.
+La caractéristique d'incantation qui vous permet de lancer les sorts de paladin est le [Charisme], car vos pouvoirs découlent de la force de votre conviction. Vous utilisez le [Charisme] dès qu'un sort de paladin vous demande d'utiliser votre caractéristique d'incantation pour être lancé. En plus de cela, vous utilisez votre modificateur de [Charisme] quand vous calculez le [jet de sauvegarde] d'un sort de paladin que vous avez lancé ou quand vous faites une attaque avec un sort.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
+DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
 Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur de [Charisme]
 
@@ -187,7 +187,7 @@ Quand vous utilisez une canalisation d'énergie divine, vous choisissez quel eff
 
 Après avoir utilisé une fois cette aptitude, vous devez finir un repos court ou un repos long pour pouvoir l'utiliser de nouveau.
 
-Certains effets de la canalisation d'énergie divine impliquent des jets de sauvegarde. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des jets de sauvegarde de vos sorts de paladin.
+Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde]. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde] de vos sorts de paladin.
 
 [][Generic]
 
@@ -213,7 +213,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Aura de protection
 
-À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son jet de sauvegarde égal à votre modificateur de [Charisme] (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.
+À partir du niveau 6, quand vous ou une créature amicale qui se trouve dans un rayon de 3 mètres doit faire un [jet de sauvegarde], cette créature gagne un bonus à son [jet de sauvegarde] égal à votre modificateur de [Charisme] (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
@@ -278,6 +278,12 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 [Sens divin]: paladin_hd.md#sens-divin
 [Serment sacré]: paladin_hd.md#serment-sacré
 [Style de combat]: paladin_hd.md#style-de-combat
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 [Items]: #
 [Generic]: #

@@ -151,9 +151,9 @@ De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un s
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur est la [Sagesse], car votre magie découle de votre lien avec la nature. Vous utilisez votre [Sagesse] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Sagesse] afin de définir le DD du jet de sauvegarde d'un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
+La caractéristique d'incantation que vous utilisez pour les sorts de rôdeur est la [Sagesse], car votre magie découle de votre lien avec la nature. Vous utilisez votre [Sagesse] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Sagesse] afin de définir le DD du [jet de sauvegarde] d'un sort de rôdeur que vous avez lancé et quand vous faites une attaque avec un sort de rôdeur.
 
-DD d'un jet de sauvegarde = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
+DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse]
 
 Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
 
@@ -189,7 +189,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 À partir du niveau 8, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle a des aiguilles, ou présente un quelconque risque de ce type.
 
-En plus de cela, vous obtenez un avantage sur les jets de sauvegarde contre les plantes créées par la magie ou manipulées pour gêner les déplacements, comme par exemple celles créées par le sort enchevêtrement.
+En plus de cela, vous obtenez un avantage sur les [jets de sauvegarde] contre les plantes créées par la magie ou manipulées pour gêner les déplacements, comme par exemple celles créées par le sort enchevêtrement.
 
 [][Generic]
 
@@ -257,6 +257,14 @@ Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l'arc
 [Traversée des terrains]: ranger_hd.md#traversée-des-terrains
 [Tueur d'ennemis]: ranger_hd.md#tueur-dennemis
 [Vigilance primitive]: ranger_hd.md#vigilance-primitive
+
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_hd.md#force
+[Intelligence]: abilities_hd.md#intelligence
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 [Items]: #
 [Generic]: #

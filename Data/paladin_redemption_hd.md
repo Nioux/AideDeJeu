@@ -58,7 +58,7 @@ Dans ce dernier cas, vous pouvez choisir l'une des options de canalisation d'én
 
 Si vous persistez dans la voie de la rédemption, vous pouvez désormais désigner une créature à 9 mètres ou moins de vous et la forcer à expier ses crimes et la noirceur de son âme. Si la créature rate un [jet de sauvegarde] de [Sagesse] (le DD est égal à celui de vos sorts de paladin), elle est paralysée.
 
-Elle effectue un nouveau jet de sauvegarde chaque tour pendant 1 minute, jusqu'à ce qu'elle résiste à l'expiation ou jusqu'à ce que vous soyez inconscient. Si la créature est une aberration, un mort-vivant ou un démon, elle subit un désavantage sur ce jet. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
+Elle effectue un nouveau [jet de sauvegarde] chaque tour pendant 1 minute, jusqu'à ce qu'elle résiste à l'expiation ou jusqu'à ce que vous soyez inconscient. Si la créature est une aberration, un mort-vivant ou un démon, elle subit un désavantage sur ce jet. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
 Au niveau 18, la portée passe à 15 mètres.
 
@@ -84,6 +84,12 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 * Vous conservez votre bonus d'attaque et votre nombre d'attaques. Lorsque vous touchez un adversaire, vous lui infligez (2d6 + modificateur de [Charisme]) dégâts nécrotiques. De plus, il doit réussir un [jet de sauvegarde] de [Constitution] (même DD que vos sorts de paladin) ou subir un niveau d'épuisement.
 
 À la fin de la transformation, si le niveau d'épuisement de votre personnage est de 6, celui-ci meurt. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

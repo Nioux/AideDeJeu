@@ -118,7 +118,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.
 
-En plus de cela, vous bénéficiez d'un avantage sur les jets de sauvegarde contre les plantes créées par magie ou manipulées pour gêner les déplacements, comme celles créées par le sort enchevêtrement.
+En plus de cela, vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre les plantes créées par magie ou manipulées pour gêner les déplacements, comme celles créées par le sort [enchevêtrement].
 
 [][Generic]
 
@@ -135,6 +135,11 @@ Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre
 Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
 
 La créature est consciente de cet effet avant de vous attaquer.
+
+[enchevêtrement]: spells_hd.md#enchevêtrement
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

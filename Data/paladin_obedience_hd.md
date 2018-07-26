@@ -54,7 +54,7 @@ Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés
 
 ## Cri de ralliement
 
-À partir du niveau 7, vous pouvez haranguer vos compagnons et les exhorter à faire de leur mieux. Tous vos alliés dans un rayon de 9 mètres autour de vous récupèrent 1d6 + votre modificateur de [Charisme] points de vie. De plus, tous ceux qui étaient charmés, terrorisés ou paralysés suite à un jet de sauvegarde raté peuvent tenter un nouveau jet de sauvegarde (avec le même DD) afin de se libérer de leur condition. Ils obtiennent un avantage sur ce jet de sauvegarde. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
+À partir du niveau 7, vous pouvez haranguer vos compagnons et les exhorter à faire de leur mieux. Tous vos alliés dans un rayon de 9 mètres autour de vous récupèrent 1d6 + votre modificateur de [Charisme] points de vie. De plus, tous ceux qui étaient charmés, terrorisés ou paralysés suite à un [jet de sauvegarde] raté peuvent tenter un nouveau [jet de sauvegarde] (avec le même DD) afin de se libérer de leur condition. Ils obtiennent un avantage sur ce [jet de sauvegarde]. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
 [][Generic]
 
@@ -72,10 +72,15 @@ Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre 
 
 * Vous émettez une vive lumière dans un rayon de 9 mètres, et une lumière faible dans un rayon de 9 mètres supplémentaires, dont la couleur rappelle les armoiries de votre seigneur ou cité.
 * Cette lumière s'accompagne d'une aura de sérénité de 9 mètres de rayon autour de vous. Vos alliés dans cette zone ne peuvent plus être charmés ou terrorisés.
-* Les créatures Chaotiques qui pénètrent dans cette aura ou y débutent leur tour (vous excepté) doivent réussir un [jet de sauvegarde] de [Sagesse] ou être terrorisées pendant 1 minute, ou jusqu'à ce qu'elles sortent de la zone d'effet. Le DD de ce jet de sauvegarde est le même que pour vos sorts de paladin.
+* Les créatures Chaotiques qui pénètrent dans cette aura ou y débutent leur tour (vous excepté) doivent réussir un [jet de sauvegarde] de [Sagesse] ou être terrorisées pendant 1 minute, ou jusqu'à ce qu'elles sortent de la zone d'effet. Le DD de ce [jet de sauvegarde] est le même que pour vos sorts de paladin.
 * Les ennemis invisibles redeviennent visibles tant qu'ils se trouvent à moins de 9 mètres de vous.
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+
+[Charisme]: abilities_hd.md#charisme
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

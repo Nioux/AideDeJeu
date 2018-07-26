@@ -35,7 +35,7 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 ## Incantations
 
-Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de [Charisme]
+Difficulté des [jets de sauvegarde] = 8 + bonus de maîtrise + modificateur de [Charisme]
 
 Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charisme]
 
@@ -80,6 +80,11 @@ Vous n'avez pas besoin de connaître ce sort et, si vous l'aviez appris, vous po
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : apparence trompeuse, passage dimensionnel ou tromperie. Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
+
+[Charisme]: abilities_hd.md#charisme
+[Dextérité]: abilities_hd.md#dextérité
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

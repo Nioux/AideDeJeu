@@ -104,7 +104,7 @@ Connaissance
 
 ## Canalisation d'énergie divine : nom secret
 
-Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un désavantage à ses jets de sauvegarde contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
+Choisissez une cible située dans votre champ de vision et à moins de 18 mètres de vous. Vous apprenez son nom secret et, pendant un nombre de rounds égal à votre bonus de maîtrise, elle subit un désavantage à ses [jets de sauvegarde] contre tous vos sorts. À la fin de cet effet, vous oubliez ce nom magique.
 
 Duperie, illusion
 
@@ -553,6 +553,15 @@ Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de
 [monture fantôme]: spells_hd.md#monture-fantôme
 [porte dimensionnelle]: spells_hd.md#porte-dimensionnelle
 [passage par les arbres]: spells_hd.md#passage-par-les-arbres
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[empoisonné]: conditions_hd.md#empoisonné
+[Force]: abilities_hd.md#force
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

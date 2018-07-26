@@ -40,7 +40,7 @@ La magie des fées est subtile et adaptable, vous apprenez une option de métama
 
 Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1 point de sorcellerie que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
 
-De plus, vous bénéficiez d'un avantage aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.
+De plus, vous bénéficiez d'un avantage aux [jets de sauvegarde] contre tous les sorts et les pouvoirs de charme ou d'enchantement.
 
 [][Generic]
 
@@ -49,6 +49,10 @@ De plus, vous bénéficiez d'un avantage aux jets de sauvegarde contre tous les 
 À partir du niveau 18, vous pouvez lancer le sort formes animales en dépensant 5 points de sorcellerie (aucun emplacement de sort n'est nécessaire). Toutefois, cette version particulière du sort n'affecte que vous-même et ne peut pas s'appliquer à d'autres cibles.
 
 Vous pouvez y mettre fin à tout moment en utilisant une action.
+
+[Charisme]: abilities_hd.md#charisme
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

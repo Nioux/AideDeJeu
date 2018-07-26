@@ -441,7 +441,7 @@
             {
                 grid.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
             }
-            double? gridHeight = null;
+            /*double? gridHeight = null;
             grid.SizeChanged += (object sender, EventArgs e) => 
             {
                 if (gridHeight == null)
@@ -452,15 +452,15 @@
                 {
                     grid.HeightRequest = gridHeight.Value;
                 }
-            };
+            };*/
 
             //grid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
             //grid.RowDefinitions.Add(new RowDefinition { Height= new GridLength(1, GridUnitType.Star) });
             stack.Children.Add(scroll);
             scroll.Content = grid;
             //grid.WidthRequest = 1000;
-            scroll.ForceLayout();
-            this.UpdateChildrenLayout();
+            //scroll.ForceLayout();
+            //this.UpdateChildrenLayout();
         }
 
 

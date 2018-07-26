@@ -53,7 +53,13 @@ Au niveau 14, les terribles secrets que vous maîtrisez transforment irrémédia
 
 Désormais, vous obtenez la résistance aux dégâts nécrotiques, de froid et de poison. Vous n'avez plus besoin de respirer ni de manger ou de boire et votre espérance de vie est doublée. Votre corps devient froid au toucher.
 
-Enfin, la difficulté du jet de sauvegarde de votre pacte avec la Mort est abaissée de 5 points.
+Enfin, la difficulté du [jet de sauvegarde] de votre [pacte avec la Mort] est abaissée de 5 points.
+
+[Charisme]: abilities_hd.md#charisme
+[Constitution]: abilities_hd.md#constitution
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[pacte avec la Mort]: warlock_immortal_hd.md#pacte-avec-la-mort
+
 
 [Items]: #
 [Generic]: #

@@ -33,7 +33,7 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 Tout comme l'ensorceleur, votre magie coule dans vos veines et elle est basée sur la force de votre ego.
 
-Difficulté des jets de sauvegarde = 8 + bonus de maîtrise + modificateur de [Charisme]
+Difficulté des [jets de sauvegarde] = 8 + bonus de maîtrise + modificateur de [Charisme]
 
 Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charisme]
 
@@ -61,7 +61,7 @@ Vous devez terminer un repos court ou long avant de pouvoir à nouveau utiliser 
 
 ## Résistance des arcanes
 
-Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie pour obtenir un avantage à un jet de sauvegarde de votre choix contre un sort ou un effet magique.
+Au niveau 10, vous pouvez dépenser votre réaction et 1 point de sorcellerie pour obtenir un avantage à un [jet de sauvegarde] de votre choix contre un sort ou un effet magique.
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un troisième tour de magie de la liste d'ensorceleur.
 
@@ -80,6 +80,12 @@ Si vous utilisez, dans le même round, la capacité Sursaut d'activité, vous de
 Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'incantation est normalement d'une action en utilisant une action bonus. Le coût en points de sorcellerie est doublé. Vous pouvez utiliser un tour de magie de cette façon en dépensant 1 point de sorcellerie.
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un quatrième tour de magie de la liste d'ensorceleur.
+
+[Charisme]: abilities_hd.md#charisme
+[Dextérité]: abilities_hd.md#dextérité
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

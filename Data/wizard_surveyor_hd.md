@@ -44,5 +44,9 @@ Vous êtes toujours capable de récupérer quelques forces pour pratiquer la mag
 
 Vous obtenez la maîtrise d'une nouvelle compétence de la liste proposée au niveau 2.
 
+[Constitution]: abilities_hd.md#constitution
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+
 [Items]: #
 [Generic]: #

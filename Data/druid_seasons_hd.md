@@ -135,6 +135,13 @@ De plus, vous bénéficiez d'un avantage à tous vos tests sur une caractéristi
 
 Cette aptitude remplace et annule l'aptitude du même nom obtenue par les druides des autres cercles.
 
+[Constitution]: abilities_hd.md#constitution
+[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_hd.md#force
+[Intelligence]: abilities_hd.md#intelligence
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

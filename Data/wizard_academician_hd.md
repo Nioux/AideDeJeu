@@ -44,7 +44,7 @@ Transmutation : Amélioration. Vous apprenez le sort amélioration de caractéri
 
 ## Expertise
 
-Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d'[Intelligence] pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux jets de sauvegarde que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
+Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d'[Intelligence] pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux [jets de sauvegarde] que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
 
 [][Generic]
 
@@ -88,7 +88,13 @@ Vous pouvez maintenir la concentration d'un autre sort normalement en parallèle
 
 Incantation rapide. À votre tour, vous pouvez dépenser une action bonus pour lancer un sort de votre école ayant un temps d'incantation d'une action.. Ce sort utilise un emplacement de sort d'un niveau supérieur à son niveau normal. Vous ne pouvez toujours lancer qu'un seul sort par round, à moins que vous n'utilisiez votre action pour lancer un sort mineur comme cela est précisé page 307, du chapitre 11 Lancer des sorts.
 
-Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un désavantage au jet de sauvegarde des cibles.
+Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un désavantage au [jet de sauvegarde] des cibles.
+
+[Intelligence]: abilities_hd.md#intelligence
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

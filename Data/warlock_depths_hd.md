@@ -60,6 +60,13 @@ La victime disparaît sous terre pendant 3 rounds et elle subit 5d6 dégâts con
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
+[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_hd.md#force
+[Intelligence]: abilities_hd.md#intelligence
+[jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Sagesse]: abilities_hd.md#sagesse
+
+
 [Items]: #
 [Generic]: #
 [LinkItem]: #

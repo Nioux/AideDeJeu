@@ -24,7 +24,7 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 
 ## Résistance des fiélons
 
-Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage à tous les jets de sauvegarde pour résister au poison. Lorsque vous subissez l'état empoisonné, il dure deux fois moins longtemps.
+Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage à tous les [jets de sauvegarde] pour résister au poison. Lorsque vous subissez l'état empoisonné, il dure deux fois moins longtemps.
 
 En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
 
@@ -47,6 +47,10 @@ En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résis
 À partir du niveau 18, vous pouvez dépenser des points de sorcellerie et votre action pour prendre une forme infernale. Cette aptitude est équivalente au sort changement de forme (avec la nécessité de maintenir sa concentration), mais vous ne pouvez prendre la forme que de diables ou de démons. En fonction de votre lignée, vous devez choisir entre les diables et les démons au moment de l'acquisition de l'aptitude.
 
 La transformation vous coûte un nombre de points de sorcellerie égal à l'indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitez changer de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l'aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
+
+[Charisme]: abilities_hd.md#charisme
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
 
 [Items]: #
 [Generic]: #

@@ -71,5 +71,10 @@ Nombre de sorts de clercs connus
 |---|---|---|---|---|---|---|---|---|---|
 |Sorts|8|8|7|6|5|4|3|2|2|
 
+[Charisme]: abilities_hd.md#charisme
+[Intelligence]: abilities_hd.md#intelligence
+[Sagesse]: abilities_hd.md#sagesse
+
+
 [Items]: #
 [Generic]: #
