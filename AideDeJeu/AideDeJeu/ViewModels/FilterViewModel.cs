@@ -60,6 +60,10 @@ namespace AideDeJeu.ViewModels
         MaxPower,
         Size,
         Legendary,
+        MinPrice,
+        MaxPrice,
+        MinWeight,
+        MaxWeight,
     }
 
     public class Filter : BaseViewModel
@@ -729,4 +733,104 @@ namespace AideDeJeu.ViewModels
         };
     }
     #endregion Monsters
-}
+
+    #region Equipments
+    public abstract class EquipmentFilterViewModel : FilterViewModel
+    {
+        private IEnumerable<Filter> _Filters = null;
+        public override IEnumerable<Filter> Filters
+        {
+            get
+            {
+                if (_Filters == null)
+                {
+                    _Filters = new List<Filter>()
+                    {
+                        new Filter() { Key = FilterKeys.Type, Name = "Type", KeyValues = Types, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MinPrice, Name = "Prix Minimum", KeyValues = Prices, _Index = 0 },
+                        new Filter() { Key = FilterKeys.MaxPrice, Name = "Prix Maximum", KeyValues = Prices, _Index = 7 },
+                    };
+                    RegisterFilters();
+                }
+                return _Filters;
+            }
+        }
+
+        public override async Task<IEnumerable<Item>> FilterItems(IEnumerable<Item> items, CancellationToken token = default)
+        {
+            return await Task.Run(() =>
+            {
+                var priceComparer = new PriceComparer();
+                var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
+                var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
+                var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
+                token.ThrowIfCancellationRequested();
+                return items.Where(item =>
+                {
+                    var equipment = item as Equipment;
+                    return equipment.Type.ToLower().Contains(type.ToLower()) &&
+                        priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
+                        priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
+                        (
+                            (Helpers.RemoveDiacritics(equipment.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
+                            (Helpers.RemoveDiacritics(equipment.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
+                        );
+                }).OrderBy(eq => eq.Name)
+                            .AsEnumerable();
+            }, token);
+
+        }
+
+        public abstract List<KeyValuePair<string, string>> Types { get; }
+
+        public abstract List<KeyValuePair<string, string>> Prices { get; }
+    }
+
+    public class VFEquipmentFilterViewModel : EquipmentFilterViewModel
+    {
+
+        public override List<KeyValuePair<string, string>> Types { get; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("", "Toutes" ),
+            new KeyValuePair<string, string>("Armure", "Armure" ),
+            new KeyValuePair<string, string>("Armure légère", "Armure légère" ),
+            new KeyValuePair<string, string>("Armure intermédiaire", "Armure intermédiaire" ),
+            new KeyValuePair<string, string>("Armure lourde", "Armure lourde" ),
+            new KeyValuePair<string, string>("Bouclier", "Bouclier" ),
+            new KeyValuePair<string, string>("Arme", "Arme" ),
+            new KeyValuePair<string, string>("Arme de corps-à-corps", "Arme de corps-à-corps" ),
+            new KeyValuePair<string, string>("Arme à distance", "Arme à distance" ),
+            new KeyValuePair<string, string>("Équipement d'aventurier", "Équipement d'aventurier" ),
+            new KeyValuePair<string, string>("Focaliseur arcanique", "Focaliseur arcanique" ),
+            new KeyValuePair<string, string>("Focaliseur druidique", "Focaliseur druidique" ),
+            new KeyValuePair<string, string>("Munitions", "Munitions" ),
+            new KeyValuePair<string, string>("Symbole sacré", "Symbole sacré" ),
+            new KeyValuePair<string, string>("Vêtements", "Vêtements" ),
+            new KeyValuePair<string, string>("Outil", "Outil" ),
+            new KeyValuePair<string, string>("Instrument de musique", "Instrument de musique" ),
+            new KeyValuePair<string, string>("Jeu", "Jeu" ),
+            new KeyValuePair<string, string>("Outil d'artisan", "Outil d'artisan" ),
+            new KeyValuePair<string, string>("Monture", "Monture" ),
+            new KeyValuePair<string, string>("Équipement, sellerie et véhicules à traction", "Équipement, sellerie et véhicules à traction" ),
+            new KeyValuePair<string, string>("Bateau", "Bateau" ),
+            new KeyValuePair<string, string>("Marchandise", "Marchandise" ),
+            new KeyValuePair<string, string>("Nourriture, boisson et logement", "Nourriture, boisson et logement" ),
+        };
+
+        public override List<KeyValuePair<string, string>> Prices { get; } = new List<KeyValuePair<string, string>>()
+        {
+            new KeyValuePair<string, string>("0 pc", "0 pc" ),
+            new KeyValuePair<string, string>("1 pc", "1 pc" ),
+            new KeyValuePair<string, string>("1 pa", "1 pa" ),
+            new KeyValuePair<string, string>("1 po", "1 po" ),
+            new KeyValuePair<string, string>("10 po", "10 po" ),
+            new KeyValuePair<string, string>("100 po", "100 po" ),
+            new KeyValuePair<string, string>("1 000 po", "1 000 po" ),
+            new KeyValuePair<string, string>("10 000 po", "10 000 po" ),
+            new KeyValuePair<string, string>("100 000 po", "100 000 po" ),
+            new KeyValuePair<string, string>("1 000 000 po", "1 000 000 po" ),
+        };
+    }
+
+    #endregion Equipments
+    }

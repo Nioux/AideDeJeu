@@ -15,6 +15,7 @@ namespace AideDeJeuLib
                     "# VF (H&D)\n\n" +
                     "## [Races](races_hd.md)\n\n" +
                     "## [Classes](classes_hd.md)\n\n" +
+                    "## [Équipement](equipment_hd.md)\n\n" +
                     "## [Caractéristiques](abilities_hd.md)\n\n" +
                     "## [Etats spéciaux](conditions_hd.md)\n\n" +
                     "## [Sorts](spells_hd.md)\n\n" +
