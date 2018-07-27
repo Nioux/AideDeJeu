@@ -114,10 +114,6 @@ Le harnois, ou armure de plates, est constitué de plaques de métal superposée
 Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bouclier augmente votre classe d’armure de 2. Vous ne pouvez pas bénéfcier de plus d’un bouclier à la fois.
 
 
-# Armes
-//Nom Prix Dégâts Poids Propriétés
-
-# ARMES DE CORPS-À-CORPS COURANTES
 
 # Bâton 
 - **Type** Arme de corps-à-corps
@@ -199,8 +195,6 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** 1 kg 
 - **Propriétés** Légère
 
-//Nom Prix Dégâts Poids Propriétés
-# ARMES À DISTANCE COURANTES
 
 # Arbalète légère 
 - **Type** Arme à distance
@@ -234,7 +228,6 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Poids** _ 
 - **Propriétés** Munitions (portée 9/36)
 
-# ARMES DE CORPS-À-CORPS DE GUERRE
 
 # Cimeterre 
 - **Type** Arme de corps-à-corps
@@ -382,7 +375,6 @@ Vous subissez un désavantage si vous utilisez une lance d’arçon contre une c
 - **Poids** 2 kg 
 - **Propriétés** Lancer (portée 6/18), polyvalente (1d8)
 
-# ARMES À DISTANCE DE GUERRE
 
 # Arbalète de poing 
 - **Type** Arme à distance
@@ -429,10 +421,6 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 - **Propriétés** Munitions (portée 7,5/30), chargement
 
 
-
-
-# Équipement d'aventurier
-//Objet Prix Poids
 
 # Acide 
 - **Type** Équipement d'aventurier
@@ -641,52 +629,48 @@ Ce liquide gluant et collant s’enflamme au contact de l’air. Vous pouvez uti
 - **Poids** 0,5 kg
 - **Capacité** 0,5 L de liquide
 
-# FOCALISEUR ARCANIQUE
-
-# Focaliseur arcanique : Cristal 
-- **Type** Équipement d'aventurier
+# Cristal (focaliseur arcanique)
+- **Type** Équipement d'aventurier / Focaliseur arcanique
 - **Prix** 10 po 
 - **Poids** 0,5 kg
 
-# Focaliseur arcanique : Orbe 
-- **Type** Équipement d'aventurier
+# Orbe (focaliseur arcanique)
+- **Type** Équipement d'aventurier / Focaliseur arcanique
 - **Prix** 20 po 
 - **Poids** 1,5 kg
 
-# Focaliseur arcanique : Sceptre 
-- **Type** Équipement d'aventurier
+# Sceptre (focaliseur arcanique)
+- **Type** Équipement d'aventurier / Focaliseur arcanique
 - **Prix** 10 po 
 - **Poids** 1 kg
 
-# Focaliseur arcanique : Bâton 
-- **Type** Équipement d'aventurier
+# Bâton (focaliseur arcanique)
+- **Type** Équipement d'aventurier / Focaliseur arcanique
 - **Prix** 5 po 
 - **Poids** 2 kg
 
-# Focaliseur arcanique : Baguette 
-- **Type** Équipement d'aventurier
+# Baguette (focaliseur arcanique)
+- **Type** Équipement d'aventurier / Focaliseur arcanique
 - **Prix** 10 po 
 - **Poids** 0,5 kg
 
-# FOCALISEUR DRUIDIQUE
-
-# Focaliseur druidique : Branche de houx 
-- **Type** Équipement d'aventurier
+# Branche de houx (focaliseur druidique)
+- **Type** Équipement d'aventurier / Focaliseur druidique
 - **Prix** 1 po 
 - **Poids** _
 
-# Focaliseur druidique : Totem 
-- **Type** Équipement d'aventurier
+# Totem (focaliseur druidique)
+- **Type** Équipement d'aventurier / Focaliseur druidique
 - **Prix** 1 po 
 - **Poids** _
 
-# Focaliseur druidique : Bâton 
-- **Type** Équipement d'aventurier
+# Bâton (focaliseur druidique)
+- **Type** Équipement d'aventurier / Focaliseur druidique
 - **Prix** 5 po 
 - **Poids** 2 kg
 
-# Focaliseur druidique : Baguette d’if 
-- **Type** Équipement d'aventurier
+# Baguette d’if (focaliseur druidique)  
+- **Type** Équipement d'aventurier / Focaliseur druidique
 - **Prix** 10 po 
 - **Poids** 0,5 kg
 
@@ -791,25 +775,25 @@ Ces menottes métalliques peuvent être utilisées sur une créature de taille P
 # MUNITIONS
 
 # Flèches  
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Munitions
 - **Prix** 1 po 
 - **Poids** 0,5 kg
 - **Unité** 20
 
 # Dards de sarbacane  
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Munitions
 - **Prix** 1 po 
 - **Poids** 0,5 kg
 - **Unité** 50
 
 # Carreaux d’arbalète  
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Munitions
 - **Prix** 1 po 
 - **Poids** 0,75 kg
 - **Unité** 20
 
 # Billes de fronde  
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Munitions
 - **Prix** 4 pc 
 - **Poids** 0,75 kg
 - **Unité** 20
@@ -861,8 +845,6 @@ Un palan est un système de poulies avec un câble et un crochet qui vous permet
 - **Prix** 5 pc 
 - **Poids** 3,5 kg
 - **Unité** 3 mètres
-
-// Objet Prix Poids
 
 # Pics en fer  
 - **Type** Équipement d'aventurier
@@ -988,20 +970,18 @@ Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à
 - **Prix** 5 pc 
 - **Poids** _
 
-# SYMBOLE SACRÉ
-
 # Amulette 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Symbole sacré
 - **Prix** 5 po 
 - **Poids** 0,5 kg
 
 # Emblème 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Symbole sacré
 - **Prix** 5 po 
 - **Poids** _
 
 # Reliquaire 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Symbole sacré
 - **Prix** 5 po 
 - **Poids** 1 kg
 
@@ -1033,30 +1013,29 @@ Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 
 
 Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l’aide de la trousse de soin sans que cela ne nécessite un test de Sagesse (Médecine).
 
-# VÊTEMENTS
 
 # Costume 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Vêtements
 - **Prix** 5 po 
 - **Poids** 2 kg
 
 # Habits courants 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Vêtements
 - **Prix** 5 pa 
 - **Poids** 1,5 kg
 
 # Habits de bonne qualité 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Vêtements
 - **Prix** 15 po 
 - **Poids** 3 kg
 
 # Robes 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Vêtements
 - **Prix** 1 po 
 - **Poids** 2 kg
 
 # Tenue de voyageur 
-- **Type** Équipement d'aventurier
+- **Type** Équipement d'aventurier / Vêtements
 - **Prix** 2 po 
 - **Poids** 2 kg
 
@@ -1065,154 +1044,178 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-# Outils
-//Objet Prix Poids
-
-# Instruments de musique
-
 # Chalemie 
+- **Type** Outil - Instrument de musique
 - **Prix** 2 po 
 - **Poids** 0,5 kg
 
 # Cor 
+- **Type** Outil - Instrument de musique
 - **Prix** 3 po 
 - **Poids** 1 kg
 
 # Cornemuse 
+- **Type** Outil - Instrument de musique
 - **Prix** 30 po 
 - **Poids** 3 kg
 
 # Flûte 
+- **Type** Outil - Instrument de musique
 - **Prix** 2 po 
 - **Poids** 0,5 kg
 
 # Flûte de pan 
+- **Type** Outil - Instrument de musique
 - **Prix** 12 po 
 - **Poids** 1 kg
 
 # Luth 
+- **Type** Outil - Instrument de musique
 - **Prix** 35 po 
 - **Poids** 1 kg
 
 # Lyre 
+- **Type** Outil - Instrument de musique
 - **Prix** 30 po 
 - **Poids** 1 kg
 
 # Tambour 
+- **Type** Outil - Instrument de musique
 - **Prix** 6 po 
 - **Poids** 1,5 kg
 
 # Tympanon 
+- **Type** Outil - Instrument de musique
 - **Prix** 25 po 
 - **Poids** 5 kg
 
 # Viole 
+- **Type** Outil - Instrument de musique
 - **Prix** 30 po 
 - **Poids** 0,5 kg
 
 # Instruments de navigation 
+- **Type** Outil
 - **Prix** 25 po 
 - **Poids** 1 kg
 
-# Jeux
-
 # Dés 
+- **Type** Outil - Jeu
 - **Prix** 1 pa 
 - **Poids** _
 
 # Jeu de cartes 
+- **Type** Outil - Jeu
 - **Prix** 5 pa 
 - **Poids** _
 
 # Matériel d’empoisonneur 
+- **Type** Outil
 - **Prix** 50 po 
 - **Poids** 1 kg
 
 # Matériel d’herboriste 
+- **Type** Outil
 - **Prix** 5 po 
 - **Poids** 1,5 kg
 
-# Outils d’artisan
-
 # Matériel d’alchimiste 
+- **Type** Outil d'artisan
 - **Prix** 50 po 
 - **Poids** 4 kg
 
 # Matériel de brasseur 
+- **Type** Outil d'artisan
 - **Prix** 20 po 
 - **Poids** 4,5 kg
 
-// Objet Prix Poids
-
 # Outils de bricoleur 
+- **Type** Outil d'artisan
 - **Prix** 50 po 
 - **Poids** 5 kg
 
 # Matériel de calligraphie 
+- **Type** Outil d'artisan
 - **Prix** 10 po 
 - **Poids** 2,5 kg
 
 # Outils de cartographe 
+- **Type** Outil d'artisan
 - **Prix** 15 po 
 - **Poids** 3 kg
 
 # Outils de charpentier 
+- **Type** Outil d'artisan
 - **Prix** 8 po 
 - **Poids** 3 kg
 
 # Outils de cordonnier 
+- **Type** Outil d'artisan
 - **Prix** 5 po 
 - **Poids** 2,5 kg
 
 # Ustensiles de cuisinier 
+- **Type** Outil d'artisan
 - **Prix** 1 po 
 - **Poids** 4 kg
 
 # Accessoires de déguisement 
+- **Type** Outil d'artisan
 - **Prix** 25 po 
 - **Poids** 1,5 kg
 
 # Accessoires de faussaire 
+- **Type** Outil d'artisan
 - **Prix** 15 po 
 - **Poids** 2,5 kg
 
 # Outils de forgeron 
+- **Type** Outil d'artisan
 - **Prix** 20 po 
 - **Poids** 4 kg
 
 # Outils de joaillier 
+- **Type** Outil d'artisan
 - **Prix** 25 po 
 - **Poids** 1 kg
 
 # Outils de maçon 
+- **Type** Outil d'artisan
 - **Prix** 10 po 
 - **Poids** 4 kg
 
 # Outils de menuisier 
+- **Type** Outil d'artisan
 - **Prix** 1 po 
 - **Poids** 2,5 kg
 
 # Matériel de peintre 
+- **Type** Outil d'artisan
 - **Prix** 10 po 
 - **Poids** 2,5 kg
 
 # Outils de potier 
+- **Type** Outil d'artisan
 - **Prix** 10 po 
 - **Poids** 1,5 kg
 
 # Outils de soufeur de verre 
+- **Type** Outil d'artisan
 - **Prix** 30 po 
 - **Poids** 2,5 kg
 
 # Outils de tanneur 
+- **Type** Outil d'artisan
 - **Prix** 5 po 
 - **Poids** 2,5 kg
 
 # Outils de tisserand 
+- **Type** Outil d'artisan
 - **Prix** 1 po 
 - **Poids** 2,5 kg
 
 # Outils de voleur 
+- **Type** Outil d'artisan
 - **Prix** 25 po 
 - **Poids** 0,5 kg
 
@@ -1221,45 +1224,50 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-# Montures et autres animaux
-//Animal Prix Vitesse Capacité de charge
-
 # Âne ou mule 
+- **Type** Monture
 - **Prix** 8 po 
 - **Vitesse** 12 m 
 - **Capacité de charge** 210 kg
 
 # Chameau 
+- **Type** Monture
 - **Prix** 50 po 
 - **Vitesse** 15 m 
 - **Capacité de charge** 240 kg
 
 # Cheval de guerre 
+- **Type** Monture
 - **Prix** 400 po 
 - **Vitesse** 18 m 
 - **Capacité de charge** 270 kg
 
 # Cheval de selle 
+- **Type** Monture
 - **Prix** 75 po 
 - **Vitesse** 18 m 
 - **Capacité de charge** 240 kg
 
 # Cheval de trait 
+- **Type** Monture
 - **Prix** 50 po 
 - **Vitesse** 12 m 
 - **Capacité de charge** 270 kg
 
 # Éléphant 
+- **Type** Monture
 - **Prix** 200 po 
 - **Vitesse** 12 m 
 - **Capacité de charge** 660 kg
 
 # Molosse 
+- **Type** Monture
 - **Prix** 25 po 
 - **Vitesse** 12 m 
 - **Capacité de charge** 97,5 kg
 
 # Poney 
+- **Type** Monture
 - **Prix** 30 po 
 - **Vitesse** 12 m 
 - **Capacité de charge** 112,5 kg
@@ -1267,328 +1275,359 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 
 
-# Équipement, sellerie et véhicules à traction
-//Objet Prix Poids
-
 # Barde 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** x 4 
 - **Poids** x 2
 
 # Calèche 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 100 po 
 - **Poids** 300 kg
 
 # Carriole 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 250 po 
 - **Poids** 50 kg
 
 # Chariot 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 35 po 
 - **Poids** 200 kg
 
 # Charrette 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 15 po 
 - **Poids** 100 kg
 
 # Écurie  
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 5 pa 
 - **Poids** _
 - **Unité** par jour
 
 # Fontes 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 4 po 
 - **Poids** 4 kg
 
 # Fourrage  
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 5 pc 
 - **Poids** 5 kg
 - **Unité** par jour
 
 # Mors et bride 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 2 po 
 - **Poids** 0,5 kg
 
-# Selle
-
 # Selle de bât 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 5 po 
 - **Poids** 7,5 kg
 
 # Selle d’équitation 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 10 po 
 - **Poids** 12,5 kg
 
 # Selle exotique 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 60 po 
 - **Poids** 20 kg
 
 # Selle militaire 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 20 po 
 - **Poids** 15 kg
 
 # Traîneau 
+- **Type** Équipement, sellerie et véhicules à traction
 - **Prix** 20 po 
 - **Poids** 150 kg
 
 
 
 
-# Bateaux
-//Véhicule Prix Vitesse
-
 # Barge 
+- **Type** Bateau
 - **Prix** 3 000 po 
 - **Vitesse** 1,4 km/h
 
 # Barque 
+- **Type** Bateau
 - **Prix** 50 po 
 - **Vitesse** 2,5 km/h
 
 # Bateau à voiles 
+- **Type** Bateau
 - **Prix** 10 000 po 
 - **Vitesse** 3 km/h
 
 # Drakkar 
+- **Type** Bateau
 - **Prix** 10 000 po 
 - **Vitesse** 5 km/h
 
 # Galère 
+- **Type** Bateau
 - **Prix** 30 000 po 
 - **Vitesse** 6,5 km/h
 
 # Navire de guerre 
+- **Type** Bateau
 - **Prix** 25 000 po 
 - **Vitesse** 4 km/h
 
 
 
 
-# Marchandises
-//Prix Marchandises
 # Blé
+- **Type** Marchandise
 - **Prix** 1 pc
 - **Unité** 1 livre
 
 # Farine
+- **Type** Marchandise
 - **Prix** 2 pc
 - **Unité** 1 livre
 
 # Poulet
+- **Type** Marchandise
 - **Prix** 2 pc
 
 # Sel
+- **Type** Marchandise
 - **Prix** 5 pc
 - **Unité** 1 livre
 
 # Fer
+- **Type** Marchandise
 - **Prix** 1 pa
 - **Unité** 1 livre
 
 # Toile
+- **Type** Marchandise
 - **Prix** 1 pa
 - **Unité** 1 m2
 
 # Cuivre
+- **Type** Marchandise
 - **Prix** 5 pa
 - **Unité** 1 livre
 
 # Tissu en coton
+- **Type** Marchandise
 - **Prix** 5 pa
 - **Unité** 1 m2
 
 # Gingembre
+- **Type** Marchandise
 - **Prix** 1 po
 - **Unité** 1 livre
 
 # Chèvre
+- **Type** Marchandise
 - **Prix** 1 po
 
 # Cannelle
+- **Type** Marchandise
 - **Prix** 2 po
 - **Unité** 1 livre
 
 # Poivre
+- **Type** Marchandise
 - **Prix** 2 po
 - **Unité** 1 livre
 
 # Mouton
+- **Type** Marchandise
 - **Prix** 2 po
 
 # Clous de girofle
+- **Type** Marchandise
 - **Prix** 3 po
 - **Unité** 1 livre
 
 # Cochon
+- **Type** Marchandise
 - **Prix** 3 po
 
 # Argent
+- **Type** Marchandise
 - **Prix** 5 po
 - **Unité** 1 livre
 
 # Lin
+- **Type** Marchandise
 - **Prix** 5 po
 - **Unité** 1 m2
 
 # Soie
+- **Type** Marchandise
 - **Prix** 10 po
 - **Unité** 1 m2
 
 # Vache
+- **Type** Marchandise
 - **Prix** 10 po
 
 # Safran
+- **Type** Marchandise
 - **Prix** 15 po
 - **Unité** 1 livre
 
 # Boeuf
+- **Type** Marchandise
 - **Prix** 15 po
 
 # Or
+- **Type** Marchandise
 - **Prix** 50 po
 - **Unité** 1 livre
 
 # Platine
+- **Type** Marchandise
 - **Prix** 500 po
 - **Unité** 1 livre
 
 
-1 pc 1 livre de blé
-2 pc 1 livre de farine ou un poulet
-5 pc 1 livre de sel
-1 pa 1 livre de fer ou 1 m2 de toile
-5 pa 1 livre de cuivre ou 1 m2 de tissu en coton
-1 po 1 livre de gingembre ou une chèvre
-2 po 1 livre de cannelle ou de poivre ou un mouton
-3 po 1 livre de clous de girofle ou un cochon
-5 po 1 livre d’argent ou 1 m2 de lin
-10 po 1 m2 de soie ou une vache
-15 po 1 livre de safran ou un bœuf
-50 po 1 livre d’or
-500 po 1 livre de platine
-Un livre est environ égale à 0,5 kg.
 
-
-
-
-# Services
-//Service Prix
-# Employé
-
-# Non-qualifé 
+# Employé non-qualifé 
+- **Type** Service
 - **Prix** 2 pa 
 - **Unité** par jour
 
-# Qualifé 
+# Employé qualifé 
+- **Type** Service
 - **Prix** 2 po 
 - **Unité** par jour
 
 # Messager 
+- **Type** Service
 - **Prix** 2 pc 
 - **Unité** par kilomètre
 
 # Péage  
+- **Type** Service
 - **Prix** 1 pc
 - **Unité** route ou porte
 
-# Transport
-
-# Dans une ville 
+# Transport dans une ville 
+- **Type** Service
 - **Prix** 1 pc
 
-# Entre deux villes 
+# Transport entre deux villes 
+- **Type** Service
 - **Prix** 2 pc 
 - **Unité** par kilomètre
 
 # Voyage maritime 
+- **Type** Service
 - **Prix** 7 pc 
 - **Unité** par kilomètre
 
 
 
 
-# Nourriture, boisson et logement
-//Objet Prix
-
 # Banquet 
+- **Type** Nourriture, boisson et logement
 - **Prix** 10 po
 - **Unité** par personne
 
 # Bière
-
-# Chope 
+- **Type** Nourriture, boisson et logement
 - **Prix** 4 pc
+- **Unité** chope
 
-# Cruche 
-- **Prix** 2 pa
-
-# Fromage, gros morceau 
-- **Prix** 1 pa
-
-# Hébergement à l’auberge (par jour)
-
-# Misérable 
-- **Prix** 7 pc
-- **Unité** par jour
-
-# Pauvre 
-- **Prix** 1 pa
-- **Unité** par jour
-
-# Modeste 
-- **Prix** 5 pa
-- **Unité** par jour
-
-# Confortable 
-- **Prix** 8 pa
-- **Unité** par jour
-
-# Riche 
-- **Prix** 2 po
-- **Unité** par jour
-
-# Aristocratique 
-- **Prix** 4 po
-- **Unité** par jour
-
-# Pain, miche 
-- **Prix** 2 pc
-
-# Repas (par jour)
-
-# Misérable 
-- **Prix** 3 pc
-- **Unité** par jour
-
-# Pauvre 
-- **Prix** 6 pc
-- **Unité** par jour
-
-# Modeste 
-- **Prix** 3 pa
-- **Unité** par jour
-
-# Confortable 
-- **Prix** 5 pa
-- **Unité** par jour
-
-# Riche 
-- **Prix** 8 pa
-- **Unité** par jour
-
-# Aristocratique 
-- **Prix** 2 po
-- **Unité** par jour
-
-# Viande, gros morceau 
-- **Prix** 3 pa
-
-# Vin
-
-# Ordinaire  
+# Bière
+- **Type** Nourriture, boisson et logement
 - **Prix** 2 pa
 - **Unité** cruche
 
-# Rafiné  
+# Fromage 
+- **Type** Nourriture, boisson et logement
+- **Prix** 1 pa
+- **Unité** gros morceau
+
+# Hébergement à l’auberge : Misérable 
+- **Type** Nourriture, boisson et logement
+- **Prix** 7 pc
+- **Unité** par jour
+
+# Hébergement à l’auberge : Pauvre 
+- **Type** Nourriture, boisson et logement
+- **Prix** 1 pa
+- **Unité** par jour
+
+# Hébergement à l’auberge : Modeste 
+- **Type** Nourriture, boisson et logement
+- **Prix** 5 pa
+- **Unité** par jour
+
+# Hébergement à l’auberge : Confortable 
+- **Type** Nourriture, boisson et logement
+- **Prix** 8 pa
+- **Unité** par jour
+
+# Hébergement à l’auberge : Riche 
+- **Type** Nourriture, boisson et logement
+- **Prix** 2 po
+- **Unité** par jour
+
+# Hébergement à l’auberge : Aristocratique 
+- **Type** Nourriture, boisson et logement
+- **Prix** 4 po
+- **Unité** par jour
+
+# Pain 
+- **Type** Nourriture, boisson et logement
+- **Prix** 2 pc
+- **Unité** miche
+
+# Repas : Misérable 
+- **Type** Nourriture, boisson et logement
+- **Prix** 3 pc
+- **Unité** par jour
+
+# Repas : Pauvre 
+- **Type** Nourriture, boisson et logement
+- **Prix** 6 pc
+- **Unité** par jour
+
+# Repas : Modeste 
+- **Type** Nourriture, boisson et logement
+- **Prix** 3 pa
+- **Unité** par jour
+
+# Repas : Confortable 
+- **Type** Nourriture, boisson et logement
+- **Prix** 5 pa
+- **Unité** par jour
+
+# Repas : Riche 
+- **Type** Nourriture, boisson et logement
+- **Prix** 8 pa
+- **Unité** par jour
+
+# Repas : Aristocratique 
+- **Type** Nourriture, boisson et logement
+- **Prix** 2 po
+- **Unité** par jour
+
+# Viande 
+- **Type** Nourriture, boisson et logement
+- **Prix** 3 pa
+- **Unité** gros morceau
+
+# Vin ordinaire  
+- **Type** Nourriture, boisson et logement
+- **Prix** 2 pa
+- **Unité** cruche
+
+# Vin rafiné  
+- **Type** Nourriture, boisson et logement
 - **Prix** 10 po
 - **Unité** bouteille
 
