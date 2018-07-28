@@ -4,9 +4,11 @@
 
 ## [Classes](classes_hd.md)
 
+## [Équipement](equipment_hd.md)
+
 ## [Caractéristiques](abilities_hd.md)
 
-## [Etats spéciaux](conditions_hd.md)
+## [États spéciaux](conditions_hd.md)
 
 ## [Sorts](spells_hd.md)
 
