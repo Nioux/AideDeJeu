@@ -166,7 +166,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 2 pa 
 - **Dégâts** 1d6 contondant 
 - **Poids** 2 kg 
-- **Propriétés** Polyvalente (1d8)
+- **Propriétés** [Polyvalente] (1d8)
 
 [][Equipment]
 
@@ -177,7 +177,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 2 po 
 - **Dégâts** 1d4 perforant 
 - **Poids** 0,5 kg 
-- **Propriétés** Finesse, légère, lancer (portée 6/18)
+- **Propriétés** [Finesse], [légère], [lancer] (portée 6/18)
 
 [][Equipment]
 
@@ -188,7 +188,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 1 pa 
 - **Dégâts** 1d4 contondant 
 - **Poids** 1 kg 
-- **Propriétés** Légère
+- **Propriétés** [Légère]
 
 [][Equipment]
 
@@ -199,7 +199,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 5 po 
 - **Dégâts** 1d6 tranchant 
 - **Poids** 1 kg 
-- **Propriétés** Légère, lancer (portée 6/18)
+- **Propriétés** [Légère], [lancer] (portée 6/18)
 
 [][Equipment]
 
@@ -210,7 +210,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 5 pa 
 - **Dégâts** 1d6 perforant 
 - **Poids** 1 kg 
-- **Propriétés** Lancer (portée 9/36)
+- **Propriétés** [Lancer] (portée 9/36)
 
 [][Equipment]
 
@@ -221,7 +221,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 1 po 
 - **Dégâts** 1d6 perforant 
 - **Poids** 1,5 kg 
-- **Propriétés** Lancer (portée 6/18), polyvalente (1d8)
+- **Propriétés** [Lancer] (portée 6/18), [polyvalente] (1d8)
 
 [][Equipment]
 
@@ -232,7 +232,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 2 po 
 - **Dégâts** 1d4 contondant 
 - **Poids** 1 kg 
-- **Propriétés** Légère, lancer (6/18)
+- **Propriétés** [Légère], [lancer] (6/18)
 
 [][Equipment]
 
@@ -254,7 +254,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 2 pa 
 - **Dégâts** 1d8 contondant 
 - **Poids** 5 kg 
-- **Propriétés** À deux mains
+- **Propriétés** [À deux mains]
 
 [][Equipment]
 
@@ -265,7 +265,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 1 po 
 - **Dégâts** 1d4 tranchant 
 - **Poids** 1 kg 
-- **Propriétés** Légère
+- **Propriétés** [Légère]
 
 
 [][Equipment]
@@ -277,7 +277,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 25 po 
 - **Dégâts** 1d8 perforant 
 - **Poids** 2,5 kg 
-- **Propriétés** Munitions (portée 24/96), chargement, à deux mains
+- **Propriétés** [Munitions] (portée 24/96), [chargement], [à deux mains]
 
 [][Equipment]
 
@@ -288,7 +288,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 25 po 
 - **Dégâts** 1d6 perforant 
 - **Poids** 1 kg 
-- **Propriétés** Munitions (portée 24/96), à deux mains
+- **Propriétés** [Munitions] (portée 24/96), [à deux mains]
 
 [][Equipment]
 
@@ -299,7 +299,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 5 pc 
 - **Dégâts** 1d4 perforant 
 - **Poids** 0,1 kg 
-- **Propriétés** Finesse, lancer (portée 6/18)
+- **Propriétés** [Finesse], [lancer] (portée 6/18)
 
 [][Equipment]
 
@@ -310,7 +310,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 1 pa 
 - **Dégâts** 1d4 contondant 
 - **Poids** _ 
-- **Propriétés** Munitions (portée 9/36)
+- **Propriétés** [Munitions] (portée 9/36)
 
 
 [][Equipment]
@@ -322,7 +322,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 25 po 
 - **Dégâts** 1d6 tranchant 
 - **Poids** 1,5 kg 
-- **Propriétés** Finesse, légère
+- **Propriétés** [Finesse], [légère]
 
 [][Equipment]
 
@@ -333,7 +333,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 20 po 
 - **Dégâts** 1d10 tranchant 
 - **Poids** 3 kg 
-- **Propriétés** Lourde, allonge, à deux mains
+- **Propriétés** [Lourde], [allonge], [à deux mains]
 
 [][Equipment]
 
@@ -344,7 +344,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 50 po 
 - **Dégâts** 2d6 tranchant 
 - **Poids** 3 kg 
-- **Propriétés** Lourde, à deux mains
+- **Propriétés** [Lourde], [à deux mains]
 
 [][Equipment]
 
@@ -355,7 +355,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 10 po 
 - **Dégâts** 1d6 perforant 
 - **Poids** 1 kg 
-- **Propriétés** Finesse, légère
+- **Propriétés** [Finesse], [légère]
 
 [][Equipment]
 
@@ -366,7 +366,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 15 po 
 - **Dégâts** 1d8 tranchant 
 - **Poids** 1,5 kg 
-- **Propriétés** Polyvalente (1d10)
+- **Propriétés** [Polyvalente] (1d10)
 
 [][Equipment]
 
@@ -388,7 +388,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 2 po 
 - **Dégâts** 1d4 tranchant 
 - **Poids** 1,5 kg 
-- **Propriétés** Finesse, allonge
+- **Propriétés** [Finesse], [allonge]
 
 [][Equipment]
 
@@ -399,7 +399,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 30 po 
 - **Dégâts** 1d12 tranchant 
 - **Poids** 3,5 kg 
-- **Propriétés** Lourde, à deux mains
+- **Propriétés** [Lourde], [à deux mains]
 
 [][Equipment]
 
@@ -410,7 +410,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 10 po 
 - **Dégâts** 1d8 tranchant 
 - **Poids** 2 kg 
-- **Propriétés** Polyvalente (1d10)
+- **Propriétés** [Polyvalente] (1d10)
 
 [][Equipment]
 
@@ -421,7 +421,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 20 po 
 - **Dégâts** 1d10 tranchant 
 - **Poids** 3 kg 
-- **Propriétés** Lourde, allonge, à deux mains
+- **Propriétés** [Lourde], [allonge], [à deux mains]
 
 [][Equipment]
 
@@ -432,7 +432,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 - **Prix** 10 po 
 - **Dégâts** 1d12 perforant 
 - **Poids** 3 kg 
-- **Propriétés** Allonge, spéciale
+- **Propriétés** [Allonge], [spéciale]
 
 Vous subissez un désavantage si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
 
@@ -456,7 +456,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 15 po 
 - **Dégâts** 1d8 contondant 
 - **Poids** 1 kg 
-- **Propriétés** Polyvalente (1d10)
+- **Propriétés** [Polyvalente] (1d10)
 
 [][Equipment]
 
@@ -467,7 +467,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 10 po 
 - **Dégâts** 2d6 contondant 
 - **Poids** 5 kg 
-- **Propriétés** Lourde, à deux mains
+- **Propriétés** [Lourde], [à deux mains]
 
 [][Equipment]
 
@@ -489,7 +489,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 5 po 
 - **Dégâts** 1d10 perforant 
 - **Poids** 9 kg 
-- **Propriétés** Lourde, allonge, à deux mains
+- **Propriétés** [Lourde], [allonge], [à deux mains]
 
 [][Equipment]
 
@@ -500,7 +500,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 25 po 
 - **Dégâts** 1d8 perforant 
 - **Poids** 1 kg 
-- **Propriétés** Finesse
+- **Propriétés** [Finesse]
 
 [][Equipment]
 
@@ -511,7 +511,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 5 po 
 - **Dégâts** 1d6 perforant 
 - **Poids** 2 kg 
-- **Propriétés** Lancer (portée 6/18), polyvalente (1d8)
+- **Propriétés** [Lancer] (portée 6/18), [polyvalente] (1d8)
 
 
 [][Equipment]
@@ -523,7 +523,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 75 po 
 - **Dégâts** 1d6 perforant 
 - **Poids** 1,5 kg 
-- **Propriétés** Munitions (portée 9/36), légère, chargement
+- **Propriétés** [Munitions] (portée 9/36), [légère], [chargement]
 
 [][Equipment]
 
@@ -534,7 +534,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 50 po 
 - **Dégâts** 1d10 perforant 
 - **Poids** 9 kg 
-- **Propriétés** Munitions (portée 30/120), lourde, chargement, à deux mains
+- **Propriétés** [Munitions] (portée 30/120), [lourde], [chargement], [à deux mains]
 
 [][Equipment]
 
@@ -545,7 +545,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 50 po 
 - **Dégâts** 1d8 perforant 
 - **Poids** 1 kg 
-- **Propriétés** Munitions (portée 45/180), lourde, à deux mains.
+- **Propriétés** [Munitions] (portée 45/180), [lourde], [à deux mains].
 
 [][Equipment]
 
@@ -556,7 +556,7 @@ Vous subissez un désavantage si vous utilisez une lance d'arçon contre une cr�
 - **Prix** 1 po 
 - **Dégâts** _ 
 - **Poids** 1,5 kg 
-- **Propriétés** Spéciale, lancer (portée 1,5/4,5)
+- **Propriétés** [Spéciale], [lancer] (portée 1,5/4,5)
 
 Une créature de taille G ou moins contre qui vous réussissez une attaque avec un filet se retrouve entravée jusqu'à ce qu'elle soit libérée. Un filet n'a aucun effet sur les créatures sans forme ou les créatures de taille TG ou supérieure. Une créature peut utiliser son action pour faire un test de Force DD 10 afin de tenter de se libérer ou de libérer une autre créature qui se trouve à sa portée. Il est aussi possible de libérer une créature sans la blesser en infligeant 5 dégâts tranchants au filet. Le filet est détruit et son effet prend alors fin.
 
@@ -571,7 +571,7 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 - **Prix** 10 po 
 - **Dégâts** 1 perforant 
 - **Poids** 0,5 kg 
-- **Propriétés** Munitions (portée 7,5/30), chargement
+- **Propriétés** [Munitions] (portée 7,5/30), [chargement]
 
 
 
@@ -751,6 +751,8 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 - **Poids** 5 kg
 - **Unité** 15 mètres
 
+Une corde a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
+
 [][Equipment]
 
 # Corde en soie  
@@ -759,6 +761,8 @@ Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une
 - **Prix** 10 po 
 - **Poids** 2,5 kg
 - **Unité** 15 mètres
+
+Une corde a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
 
 [][Equipment]
 
@@ -2419,6 +2423,24 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Prix** 10 po
 - **Unité** bouteille
 
+
+[à deux mains]: equipment_properties_hd.md#à-deux-mains
+[À deux mains]: equipment_properties_hd.md#À-deux-mains
+[allonge]: equipment_properties_hd.md#allonge
+[Allonge]: equipment_properties_hd.md#allonge
+[chargement]: equipment_properties_hd.md#chargement
+[Finesse]: equipment_properties_hd.md#finesse
+[lancer]: equipment_properties_hd.md#lancer
+[Lancer]: equipment_properties_hd.md#lancer
+[légère]: equipment_properties_hd.md#légère
+[Légère]: equipment_properties_hd.md#légère
+[lourde]: equipment_properties_hd.md#lourde
+[Lourde]: equipment_properties_hd.md#lourde
+[Munitions]: equipment_properties_hd.md#munitions
+[polyvalente]: equipment_properties_hd.md#polyvalente
+[Polyvalente]: equipment_properties_hd.md#polyvalente
+[spéciale]: equipment_properties_hd.md#spéciale
+[Spéciale]: equipment_properties_hd.md#spéciale
 
 [Equipments]: #
 [Equipment]: #
