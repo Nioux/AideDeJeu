@@ -90,7 +90,11 @@ Maîtriser une arme vous permet d'ajouter votre bonus de maîtrise au jet d'atta
 
 De nombreuses armes ont des propriétés spéciales liées à leur utilisation, ainsi que vous pourrez le voir dans le tableau des armes.
 
-À deux mains. Vous devez manier cette arme à deux mains pour effectuer une attaque.
+[][Generic]
+
+# À deux mains
+
+Vous devez manier cette arme à deux mains pour effectuer une attaque.
 
 [][Generic]
 
