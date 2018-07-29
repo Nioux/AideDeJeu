@@ -12,7 +12,7 @@ namespace AideDeJeuLib
             get
             {
                 return
-                    "# VF (H&D)\n\n" +
+                    "# Joueurs (H&D)\n\n" +
                     "## [Races](races_hd.md)\n\n" +
                     "## [Classes](classes_hd.md)\n\n" +
                     "## [Équipement](equipment_hd.md)\n\n" +
@@ -20,6 +20,7 @@ namespace AideDeJeuLib
                     "## [États spéciaux](conditions_hd.md)\n\n" +
                     "## [Sorts](spells_hd.md)\n\n" +
                     "## [Sorts de mago](spells_hd_with_class_magicien.md)\n\n" +
+                    "# MJ\n\n" +
                     "## [Créatures](monsters_hd.md)\n\n" +
                     //"## [Mignons](baby_bestiary_hd.md)\n\n" +
                     "# VO (SRD)\n\n" +
