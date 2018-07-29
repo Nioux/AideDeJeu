@@ -43,7 +43,7 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-
+        public virtual void FilterWith(string key, string val) { }
     }
 
     public enum FilterKeys
@@ -177,7 +177,7 @@ namespace AideDeJeu.ViewModels
                 var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
                 var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
                 var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
-                token.ThrowIfCancellationRequested();
+                //token.ThrowIfCancellationRequested();
                 return items.Where(item =>
                 {
                     var spell = item as Spell;
@@ -211,7 +211,6 @@ namespace AideDeJeu.ViewModels
 
     public class VFSpellFilterViewModel : SpellFilterViewModel
     {
-
         public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes" ),
@@ -323,6 +322,12 @@ namespace AideDeJeu.ViewModels
 
     public class HDSpellFilterViewModel : SpellFilterViewModel
     {
+        public override void FilterWith(string key, string val)
+        {
+            var filter = Filters.FirstOrDefault(f => f.Key.ToString().ToLower() == key.ToLower());
+            filter.Index = filter.KeyValues.FindIndex(kv => kv.Value.ToLower().Contains(val.ToLower()));
+        }
+
         public override List<KeyValuePair<string, string>> Classes { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes" ),

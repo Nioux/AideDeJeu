@@ -24,7 +24,7 @@
                                 <ViewCell.View>
                                     <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
                                         <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
-                                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index}" />
+                                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
                                     </StackLayout>
                                 </ViewCell.View>
                             </ViewCell>

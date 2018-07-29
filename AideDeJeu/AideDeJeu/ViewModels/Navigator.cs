@@ -80,6 +80,7 @@ namespace AideDeJeu.ViewModels
                             var filterViewModel = items.GetNewFilterViewModel();
                             var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
                             itemsViewModel.LoadItemsCommand.Execute(null);
+                            //filterViewModel.FilterWith("class", "magicien");
                             if (filterViewModel == null)
                             {
                                 await GotoItemsPageAsync(itemsViewModel);
