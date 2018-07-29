@@ -57,10 +57,11 @@ namespace AideDeJeu.ViewModels
         {
             if (s != null)
             {
-                var regex = new Regex("/(?<file>.*)\\.md(#(?<anchor>.*))?");
+                var regex = new Regex("/(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
                 var match = regex.Match(s);
                 var file = match.Groups["file"].Value;
                 var anchor = match.Groups["anchor"].Value;
+                var with = match.Groups["with"].Value;
                 var item = await Main.GetItemFromDataAsync(file);
                 if (item != null)
                 {
@@ -80,7 +81,13 @@ namespace AideDeJeu.ViewModels
                             var filterViewModel = items.GetNewFilterViewModel();
                             var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
                             itemsViewModel.LoadItemsCommand.Execute(null);
-                            //filterViewModel.FilterWith("class", "magicien");
+                            if(!string.IsNullOrEmpty(with))
+                            {
+                                var swith = with.Split('_');
+                                var key = swith[0];
+                                var val = swith[1];
+                                filterViewModel.FilterWith(key, val);
+                            }
                             if (filterViewModel == null)
                             {
                                 await GotoItemsPageAsync(itemsViewModel);
