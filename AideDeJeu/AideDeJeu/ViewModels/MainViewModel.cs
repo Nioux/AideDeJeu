@@ -38,13 +38,6 @@ namespace AideDeJeu.ViewModels
             return _AllItems[source];
         }
 
-        //public async Task<ItemsViewModel> GetItemsViewModelAsync(string source)
-        //{
-        //    var itemsViewModel = new ItemsViewModel();
-        //    itemsViewModel.AllItems = await GetAllItemsAsync(source);
-        //    return itemsViewModel;
-        //}
-
         public Command LoadItemsCommand { get; private set; }
         public Command AboutCommand { get; private set; }
 
@@ -53,54 +46,6 @@ namespace AideDeJeu.ViewModels
         public MainViewModel()
         {
             AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
-        }
-
-        public async Task NavigateToLink(string s)
-        {
-            if (s != null)
-            {
-                var regex = new Regex("/(?<file>.*)\\.md(#(?<anchor>.*))?");
-                var match = regex.Match(s);
-                var file = match.Groups["file"].Value;
-                var anchor = match.Groups["anchor"].Value;
-                var item = await GetItemFromDataAsync(file);
-                if (item != null)
-                {
-                    if (item is Items)
-                    {
-                        var items = item as Items;
-                        if (!string.IsNullOrEmpty(anchor))
-                        {
-                            var subitem = items.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                            if (subitem != null)
-                            {
-                                await Navigator.GotoItemDetailPageAsync(subitem);
-                            }
-                        }
-                        else
-                        {
-                            var itemsViewModel = new ItemsViewModel() { AllItems = items };
-                            itemsViewModel.LoadItemsCommand.Execute(null);
-                            if (items.GetNewFilterViewModel() == null)
-                            {
-                                await Navigator.GotoItemsPageAsync(itemsViewModel);
-                            }
-                            else
-                            {
-                                await Navigator.GotoFilteredItemsPageAsync(itemsViewModel);
-                            }
-                        }
-                    }
-                    else
-                    {
-                        await Navigator.GotoItemDetailPageAsync(item);
-                    }
-                }
-                else
-                {
-                    await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
-                }
-            }
         }
     }
 }

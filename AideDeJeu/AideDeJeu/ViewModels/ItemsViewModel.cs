@@ -68,7 +68,7 @@ namespace AideDeJeu.ViewModels
                 {
                     if (_SelectedItem is LinkItem)
                     {
-                        Main.NavigateToLink("/" + (_SelectedItem as LinkItem).Link);
+                        Main.Navigator.NavigateToLink("/" + (_SelectedItem as LinkItem).Link);
                     }
                     else
                     { 
