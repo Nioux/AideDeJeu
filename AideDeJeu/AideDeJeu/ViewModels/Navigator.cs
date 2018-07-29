@@ -53,7 +53,7 @@ namespace AideDeJeu.ViewModels
         }
 
 
-        public async Task NavigateToLink(string s)
+        public async Task NavigateToLinkAsync(string s)
         {
             if (s != null)
             {
@@ -77,9 +77,10 @@ namespace AideDeJeu.ViewModels
                         }
                         else
                         {
-                            var itemsViewModel = new ItemsViewModel() { AllItems = items };
+                            var filterViewModel = items.GetNewFilterViewModel();
+                            var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
                             itemsViewModel.LoadItemsCommand.Execute(null);
-                            if (items.GetNewFilterViewModel() == null)
+                            if (filterViewModel == null)
                             {
                                 await GotoItemsPageAsync(itemsViewModel);
                             }

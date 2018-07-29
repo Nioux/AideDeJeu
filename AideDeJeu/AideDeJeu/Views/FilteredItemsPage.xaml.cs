@@ -16,7 +16,6 @@ namespace AideDeJeu.Views
                 return DependencyService.Get<MainViewModel>();
             }
         }
-        //INavig//ator Navigator;
 
         public ItemsViewModel _ItemsViewModel;
         public ItemsViewModel ItemsViewModel
@@ -28,39 +27,15 @@ namespace AideDeJeu.Views
         }
         public FilteredItemsPage (ItemsViewModel itemsViewModel)
 		{
-			InitializeComponent ();
+			InitializeComponent();
 
-            BindingContext = _ItemsViewModel = itemsViewModel; // Main;
-
-            //this.SizeChanged += (o, e) => {
-            //    if(this.Width > 0 && this.Height > 0)
-            //    {
-            //        this.IsPresented = this.Width > this.Height;
-            //    }
-            //};
+            BindingContext = _ItemsViewModel = itemsViewModel;
         }
         public FilteredItemsPage()
         {
             InitializeComponent();
 
             BindingContext = Main;
-
-            //this.SizeChanged += (o, e) => {
-            //    if (this.Width > 0 && this.Height > 0)
-            //    {
-            //        this.IsPresented = this.Width > this.Height;
-            //    }
-            //};
-        }
-
-        protected override void OnAppearing()
-        {
-            base.OnAppearing();
-
-            //this.MasterBehavior = MasterBehavior.Popover;
-
-            //if (Main.Items.Count() == 0)
-                //Main.LoadItemsCommand.Execute(null);
         }
 
         private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)

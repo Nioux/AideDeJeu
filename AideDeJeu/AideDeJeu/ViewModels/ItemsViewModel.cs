@@ -38,6 +38,10 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _Filter, value);
+                if(_Filter != null)
+                {
+                    _Filter.LoadItemsCommand = LoadItemsCommand;
+                }
             }
         }
 
@@ -68,7 +72,7 @@ namespace AideDeJeu.ViewModels
                 {
                     if (_SelectedItem is LinkItem)
                     {
-                        Main.Navigator.NavigateToLink("/" + (_SelectedItem as LinkItem).Link);
+                        Main.Navigator.NavigateToLinkAsync("/" + (_SelectedItem as LinkItem).Link);
                     }
                     else
                     { 
@@ -92,10 +96,6 @@ namespace AideDeJeu.ViewModels
                 {
                     Title = _AllItems.Name;
                     Filter = _AllItems.GetNewFilterViewModel();
-                    if (Filter != null)
-                    {
-                        Filter.LoadItemsCommand = LoadItemsCommand;
-                    }
                 }
             }
         }
