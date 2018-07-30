@@ -84,9 +84,12 @@ namespace AideDeJeu.ViewModels
                             if(!string.IsNullOrEmpty(with))
                             {
                                 var swith = with.Split('_');
-                                var key = swith[0];
-                                var val = swith[1];
-                                filterViewModel.FilterWith(key, val);
+                                for (int i = 0; i < swith.Length / 2; i++)
+                                {
+                                    var key = swith[i * 2 + 0];
+                                    var val = swith[i * 2 + 1];
+                                    filterViewModel.FilterWith(key, val);
+                                }
                             }
                             if (filterViewModel == null)
                             {

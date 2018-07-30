@@ -70,7 +70,7 @@ Vous avez appris à remodeler la trame de la réalité en harmonie avec vos souh
 
 ## Tours de magie
 
-Vous connaissez deux tours de magie de votre choix parmi la liste de [sorts de barde]. Vous pouvez apprendre d'autres tours de magie de barde à des niveaux supérieurs, comme indiqué dans la colonne tours de magie connus du tableau d'évolution du barde.
+Vous connaissez deux [tours de magie] de votre choix parmi la liste de [sorts de barde]. Vous pouvez apprendre d'autres [tours de magie de barde] à des niveaux supérieurs, comme indiqué dans la colonne tours de magie connus du tableau d'évolution du barde.
 
 ## Emplacements de sorts
 
@@ -217,7 +217,8 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [sort de barde]: spells_hd_with_class_barde.md
 [sorts de barde]: spells_hd_with_class_barde.md
-
+[tours de magie]: spells_hd_with_class_barde_minlevel_sortsmineurs_maxlevel_sortsmineurs.md
+[tours de magie de barde]: spells_hd_with_class_barde_minlevel_sortsmineurs_maxlevel_sortsmineurs.md
 
 [Items]: #
 [Generic]: #

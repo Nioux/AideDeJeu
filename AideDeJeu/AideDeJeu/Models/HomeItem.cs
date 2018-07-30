@@ -20,6 +20,7 @@ namespace AideDeJeuLib
                     "## [États spéciaux](conditions_hd.md)\n\n" +
                     "## [Sorts](spells_hd.md)\n\n" +
                     "## [Sorts de mago](spells_hd_with_class_magicien.md)\n\n" +
+                    "## [Tours de magie de mago](spells_hd_with_class_magicien_minlevel_sortsmineurs_maxlevel_sortsmineurs.md)\n\n" +
                     "## [Armures légères](equipment_hd_with_type_armurelegere.md)\n\n" +
                     "# MJ\n\n" +
                     "## [Créatures](monsters_hd.md)\n\n" +
