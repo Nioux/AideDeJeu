@@ -70,7 +70,7 @@ Vous avez appris à remodeler la trame de la réalité en harmonie avec vos souh
 
 ## Tours de magie
 
-Vous connaissez deux tours de magie de votre choix parmi la liste de sorts de barde. Vous pouvez apprendre d'autres tours de magie de barde à des niveaux supérieurs, comme indiqué dans la colonne tours de magie connus du tableau d'évolution du barde.
+Vous connaissez deux tours de magie de votre choix parmi la liste de [sorts de barde]. Vous pouvez apprendre d'autres tours de magie de barde à des niveaux supérieurs, comme indiqué dans la colonne tours de magie connus du tableau d'évolution du barde.
 
 ## Emplacements de sorts
 
@@ -82,15 +82,15 @@ Par exemple, si vous connaissez le sort de niveau 1 soin des blessures et que vo
 
 ## Sorts connus de niveau 1 et supérieur
 
-Vous connaissez quatre sorts de niveau 1 choisis dans la liste de sorts de barde.
+Vous connaissez quatre sorts de niveau 1 choisis dans la liste de [sorts de barde].
 
 La colonne sorts connus du tableau d'évolution du barde vous indique à quels niveaux et combien de nouveaux sorts vous pouvez apprendre. Vous ne pouvez par contre apprendre que des sorts que vous êtes en mesure de lancer grâce à vos emplacements de sorts. Par exemple, quand vous atteignez le niveau 3 de cette classe, vous pouvez apprendre des sorts de niveau 1 ou 2.
 
-De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de barde que vous connaissez et le remplacer par un autre sort de la liste de sorts de barde. Il doit aussi s'agir d'un sort que vous êtes en mesure de lancer.
+De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de barde que vous connaissez et le remplacer par un autre sort de la liste de [sorts de barde]. Il doit aussi s'agir d'un sort que vous êtes en mesure de lancer.
 
 ## Caractéristique d'incantation
 
-La caractéristique d'incantation que vous utilisez pour les sorts de barde est le [Charisme]. Votre magie est issue de votre coeur et de votre âme, de tout ce que vous insufflez dans votre musique ou vos oraisons. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du [jet de sauvegarde] d'un sort de barde que vous avez lancé et quand vous faites une attaque avec un sort de barde. 
+La caractéristique d'incantation que vous utilisez pour les [sorts de barde] est le [Charisme]. Votre magie est issue de votre coeur et de votre âme, de tout ce que vous insufflez dans votre musique ou vos oraisons. Vous utilisez votre [Charisme] dès qu'un sort fait appel à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur de [Charisme] afin de définir le DD du [jet de sauvegarde] d'un sort de barde que vous avez lancé et quand vous faites une attaque avec un sort de barde. 
 
 DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur de [Charisme]
 
@@ -98,11 +98,11 @@ Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur d
 
 ## Incantation rituelle
 
-Vous pouvez lancer tous les sorts de barde que vous connaissez sous la forme d'un rituel dans la mesure où ceux-ci possèdent le sous-type rituel.
+Vous pouvez lancer tous les [sorts de barde] que vous connaissez sous la forme d'un rituel dans la mesure où ceux-ci possèdent le sous-type rituel.
 
 ## Focaliseur d'incantation
 
-Vous pouvez utiliser un instrument de musique (voir le chapitre 5, Équipement, page 236) comme focaliseur d'incantation pour vos sorts de barde.
+Vous pouvez utiliser un instrument de musique (voir le chapitre 5, Équipement, page 236) comme focaliseur d'incantation pour vos [sorts de barde].
 
 [][Generic]
 
@@ -170,7 +170,7 @@ Au niveau 10, vous avez exploré de nombreuses disciplines magiques et en avez t
 
 Choisissez deux sorts de n'importe quelle classe – y compris celle de barde – d'un niveau de sort que vous pouvez déjà utiliser, comme indiqué sur le tableau d'évolution du barde.
 
-Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde et sont comptabilisés dans le nombre de sorts connus indiqué dans la colonne du même nom dans le tableau d'évolution du barde.
+Les sorts que vous choisissez fonctionnent pour vous comme des [sorts de barde] et sont comptabilisés dans le nombre de sorts connus indiqué dans la colonne du même nom dans le tableau d'évolution du barde.
 
 Vous pouvez apprendre de la même manière deux sorts supplémentaires de la classe de votre choix au niveau 14 et deux autres au niveau 18.
 
@@ -215,6 +215,7 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [Dextérité]: abilities_hd.md#dextérité
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[sorts de barde]: spells_hd_with_class_barde.md
 
 
 [Items]: #

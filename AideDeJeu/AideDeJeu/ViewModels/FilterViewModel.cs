@@ -48,7 +48,7 @@ namespace AideDeJeu.ViewModels
             var filter = Filters.FirstOrDefault(f => f.Key.ToString().ToLower() == key.ToLower());
             if (filter != null)
             {
-                filter.Index = filter.KeyValues.FindIndex(kv => kv.Value.ToLower().Contains(val.ToLower()));
+                filter.Index = filter.KeyValues.FindIndex(kv => kv.Value.Simplify().Contains(val));
             }
         }
 

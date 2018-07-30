@@ -100,6 +100,20 @@ namespace AideDeJeu.Tools
             return RemoveDiacritics(name.ToLower().Replace(" ", "-")); //.Replace("\'", ""));
         }
 
+        public static string Simplify(this string text)
+        {
+            if (text == null) return null;
+            text = RemoveDiacritics(text).ToLower();
+            var ntext = string.Empty;
+            foreach(var c in text)
+            {
+                if (c >= 'a' && c <= 'z')
+                {
+                    ntext += c;
+                }
+            }
+            return ntext;
+        }
 
     }
 }
