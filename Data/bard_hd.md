@@ -102,7 +102,7 @@ Vous pouvez lancer tous les [sorts de barde] que vous connaissez sous la forme d
 
 ## Focaliseur d'incantation
 
-Vous pouvez utiliser un instrument de musique (voir le chapitre 5, Équipement, page 236) comme focaliseur d'incantation pour vos [sorts de barde].
+Vous pouvez utiliser un [instrument de musique] (voir le chapitre 5, Équipement, page 236) comme [focaliseur d'incantation] pour vos [sorts de barde].
 
 [][Generic]
 
@@ -219,6 +219,9 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [sorts de barde]: spells_hd_with_class_barde.md
 [tours de magie]: spells_hd_with_class_barde_minlevel_sortsmineurs_maxlevel_sortsmineurs.md
 [tours de magie de barde]: spells_hd_with_class_barde_minlevel_sortsmineurs_maxlevel_sortsmineurs.md
+[instrument de musique]: equipment_hd_with_type_instrumentdemusique.md
+[focaliseur d'incantation]: equipment_properties_hd.md#focaliseur-druidique
+
 
 [Items]: #
 [Generic]: #
