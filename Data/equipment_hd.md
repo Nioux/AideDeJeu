@@ -2273,7 +2273,7 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 [][Equipment]
 
-# Bière
+# Bière (chope)
 
 - **Type** Nourriture, boisson et logement
 - **Prix** 4 pc
@@ -2281,7 +2281,7 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 [][Equipment]
 
-# Bière
+# Bière (cruche)
 
 - **Type** Nourriture, boisson et logement
 - **Prix** 2 pa

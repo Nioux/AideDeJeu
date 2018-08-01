@@ -107,7 +107,7 @@ namespace AideDeJeuLib
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Unité** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Unity = s; m.Name += $" ({s})";
+                                            this.Text += "- " + str; m.Unity = s; //m.Name += $" ({s})";
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Capacité** ", (m, s) =>
                                         {
