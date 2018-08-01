@@ -53,13 +53,15 @@ Au niveau 14, votre spécialité fait de vous un professionnel accompli et un ad
 * Jongleur : lanceur de couteaux. À chacun de vos tours de jeu, vous pouvez utiliser une action bonus pour faire une attaque à distance avec une dague. Vous pouvez choisir de dépenser une inspiration bardique et ajouter le résultat du dé au test d'attaque (en utilisant la même et unique action bonus) ou remplacer le dé de dégâts par le dé d'inspiration.
 * Voyante : choisissez deux sorts parmi augure, appel de familier, clairvoyance, communication avec les morts, communion, détection des pensées, divination, légende, scrutation, trouver un chemin, voir l'invisible, vision suprême. Ces sorts sont considérés comme des sorts de barde, mais ils ne comptent pas dans le nombre de sorts que vous connaissez. De plus, vous êtes désormais capable d'utiliser la magie rituelle pour tous les sorts qui le permettent, même issus d'une liste de sorts autre que celle de barde.
 
-[Charisme]: abilities_hd.md#charisme
-[Dextérité]: abilities_hd.md#dextérité
-[Force]: abilities_hd.md#force
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegardes]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

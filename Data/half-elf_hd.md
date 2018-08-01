@@ -25,12 +25,12 @@ Un demi-elfe a quelques qualités communes avec les elfes, mais d'autres qui son
 
 **Langues.** Vous pouvez parler, lire et écrire en commun, en elfe et dans une autre langue de votre choix.
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

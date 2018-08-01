@@ -23,12 +23,12 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 
 **Hypnose.** Comme tous les vôtres, vous avez appris à infuser votre regard d'une étrange lueur. Vous pouvez utiliser une action bonus afin de tenter d'hypnotiser une créature se trouvant à 1,50 mètre ou moins de vous, et pouvant vous regarder dans les yeux. Vous lancez ainsi le sort charme-personne comme un sort de niveau 1. Vous devez terminer un repos long avant de pouvoir utiliser de nouveau cette capacité. Votre caractéristique d'incantation pour lancer ce sort est le [Charisme].
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

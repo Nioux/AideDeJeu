@@ -41,11 +41,13 @@ Quand vous touchez une créature avec une attaque à mains nues, vous pouvez dé
 Vous ne pouvez utiliser cette aptitude que sur une seule créature à la fois et vous pouvez décider de mettre fin aux vibrations gratuitement sans blesser la créature.
 
 [à terre]: conditions_hd.md#À-terre
-[Constitution]: abilities_hd.md#constitution
-[Dextérité]: abilities_hd.md#dextérité
-[Force]: abilities_hd.md#force
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

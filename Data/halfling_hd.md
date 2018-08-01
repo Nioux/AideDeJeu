@@ -43,12 +43,12 @@ En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu cr
 
 **Travailleur acharné.** Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

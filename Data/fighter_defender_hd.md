@@ -51,9 +51,12 @@ Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez déso
 * La résistance aux dégâts tranchants, perçants et contondants si vous portez une armure lourde.
 * La résistance aux dégâts tranchants, perçants et contondants non magiques si vous portez une armure intermédiaire.
 
-[Constitution]: abilities_hd.md#constitution
-[Dextérité]: abilities_hd.md#dextérité
-[Force]: abilities_hd.md#force
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

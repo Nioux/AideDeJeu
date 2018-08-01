@@ -46,12 +46,14 @@ Désormais, si vous bénéficiez d'un avantage lorsque vous utilisez l'aptitude 
 
 Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras, mais lorsqu'il s'agit de malmener une cible précise, nul n'est votre égal. Au niveau 17, vous désignez une créature de votre choix en utilisant une action bonus, elle devient la cible de votre vindicte personnelle. Vous obtenez un avantage aux tests en opposition, ainsi qu'aux [jets de sauvegarde] et d'attaque contre la cible sur laquelle vous vous focalisez. Vous ne pouvez pas bénéficier des effets de cette aptitude pour une autre cible avant d'avoir terminé un repos court.
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
-[Force]: abilities_hd.md#force
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

@@ -46,12 +46,12 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 À partir du niveau 14, vous pouvez pousser un terrible hurlement qui effraye vos ennemis. Vous utilisez votre action à ce round, et tous vos adversaires dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde] de [Sagesse] ou de [Force] au choix (difficulté 8 + modificateur de [Force] + bonus de maîtrise) ou être terrorisés pendant 1 minute. Si vous êtes en rage, les cibles subissent un désavantage à leur [jet de sauvegarde]. Vous devez terminer un repos court avant d'utiliser à nouveau cette aptitude.
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

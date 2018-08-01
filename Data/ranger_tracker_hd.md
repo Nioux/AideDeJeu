@@ -58,11 +58,13 @@ Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus,
 * En combat, vous pouvez effectuer une action bonus à chacun de vos tours. Cette action ne peut être utilisée que pour faire une unique attaque au corps-à-corps ou à distance, vous désengager ou se précipiter. Si vous utilisez une arme dans chaque main, exceptionnellement, cette action bonus vous permet de faire une attaque depuis chacune de vos mains (en utilisant les limitations habituelles en ce qui concerne la seconde arme).
 * Lorsque vous prenez un repos court, vous récupérez un nombre de points de vie égal à 1d8 + votre modificateur de [Constitution] s'il ne vous reste pas plus de la moitié de vos points de vie.
 
-[Constitution]: abilities_hd.md#constitution
-[Dextérité]: abilities_hd.md#dextérité
-[Force]: abilities_hd.md#force
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
 
 
 [Items]: #

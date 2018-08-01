@@ -38,12 +38,12 @@ Votre arme et votre esprit ne font qu'un, et votre volonté est assez forte pour
 
 Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous bénéficiez d'un avantage à toutes les [jets de sauvegarde] pour résister aux sorts ou aux pouvoirs magiques des créatures, et une résistance à tous les dégâts des sorts. Vous ne devez pas porter d'armure magique pour bénéficier de cette aptitude.
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

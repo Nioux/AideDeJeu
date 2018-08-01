@@ -212,6 +212,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\abilities_charisma_hd.md" Link="Data\abilities_charisma_hd.md" />
+    <EmbeddedResource Include="..\..\Data\abilities_constitution_hd.md" Link="Data\abilities_constitution_hd.md" />
+    <EmbeddedResource Include="..\..\Data\abilities_dexterity_hd.md" Link="Data\abilities_dexterity_hd.md" />
+    <EmbeddedResource Include="..\..\Data\abilities_intelligence_hd.md" Link="Data\abilities_intelligence_hd.md" />
+    <EmbeddedResource Include="..\..\Data\abilities_strength_hd.md" Link="Data\abilities_strength_hd.md" />
+    <EmbeddedResource Include="..\..\Data\abilities_wisdom_hd.md" Link="Data\abilities_wisdom_hd.md" />
+    <EmbeddedResource Include="..\..\Data\environment_hd.md" Link="Data\environment_hd.md" />
+    <EmbeddedResource Include="..\..\Data\resting_hd.md" Link="Data\resting_hd.md" />
+    <EmbeddedResource Include="..\..\Data\time_hd.md" Link="Data\time_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

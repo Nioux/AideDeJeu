@@ -1,6 +1,8 @@
 
 [][Items]
 
+# Caractéristiques
+
 [][Generic]
 
 # Utiliser les caractéristiques
@@ -200,209 +202,29 @@ Chaque action qu'un personnage ou un monstre tente de réaliser dans le jeu fait
 
 Vous trouverez dans cette section une présentation de chacune de ces caractéristiques et de la façon dont elles sont utilisées dans le cadre du jeu.
 
-[][Generic]
+[][LinkItem]
 
-# Force
+# [Force]
 
-La Force détermine la puissance physique d'un personnage, ses compétences en athlétisme et dans quelle mesure il peut se reposer sur sa force brute.
+[][LinkItem]
 
-## Tests de Force
+# [Dextérité]
 
-Un test de Force est utilisé lors de toute tentative visant à soulever, pousser, tirer ou briser quelque chose, forcer le passage ou utiliser la force brute d'une manière ou d'une autre. La compétence Athlétisme reflète votre aptitude à réaliser certains tests de Force.
+[][LinkItem]
 
-**Athlétisme.** Les tests de Force (Athlétisme) sont utilisés dans certaines situations que vous rencontrez quand vous escaladez un mur, sautez ou nagez. Par exemple :
+# [Constitution]
 
-* Vous tentez d'escalader une falaise escarpée ou glissante, éviter certains dangers en escaladant un mur, ou vous agripper à quelque chose pendant qu'on essaie de vous en déloger.
-* Vous tentez de traverser une distance particulièrement importante d'un bond ou de faire une cascade en plein saut.
-* Vous tentez de nager à contre-courant ou de garder la tête hors de l'eau au milieu des flots déchaînés, ballotté par les vagues lors d'une tempête, ou au milieu d'une zone envahie par les algues. Ou bien vous vous trouvez confronté à une créature qui tente de vous tirer ou vous pousser sous l'eau, ou encore de vous empêcher de nager.
+[][LinkItem]
 
-**Autres tests de Force.** Le MJ peut aussi vous demander de faire un test de Force quand vous tentez d'accomplir des tâches comme celles qui suivent :
+# [Intelligence]
 
-* Ouvrir de force une porte bloquée, fermée à clef ou barrée.
-* Vous libérer de liens par la force.
-* Forcer votre passage dans un tunnel trop petit pour vous.
-* Rester accroché derrière un chariot en mouvement pendant qu'il vous traîne.
-* Renverser une statue.
-* Empêcher un rocher de tomber.
+[][LinkItem]
 
-## Jets d'attaque et de dégâts
+# [Sagesse]
 
-Quand vous attaquez avec une arme de corps-à-corps comme une masse d'armes, une hache d'armes ou une javeline, vous ajoutez votre modificateur de Force à votre jet d'attaque et à votre jet de dégâts. Vous pouvez utiliser des armes de corps-à-corps pour faire des attaques au corps-à-corps et certaines peuvent être lancées pour faire des attaques à distance.
+[][LinkItem]
 
-## Soulever et transporter
-
-Votre valeur de Force détermine le poids que vous pouvez porter. Les termes suivants déterminent ce que vous pouvez soulever ou porter.
-
-**Capacité de charge.** Votre capacité de charge maximale est égale à votre valeur de Force multipliée par 7,5. Il s'agit du poids (en kilogrammes) que vous pouvez porter. Cette capacité est assez élevée pour que la plupart des personnages ne s'en inquiètent pas.
-
-**Pousser, tirer, soulever.** Vous pouvez pousser, tirer ou soulever un poids qui fait jusqu'à deux fois votre capacité de charge maximale, soit 15 fois votre valeur de Force. Cela dit, tant que vous poussez ou tirez un poids qui excède votre capacité de charge, votre vitesse est réduite à 1,50 mètres.
-
-**Taille et Force.** Les grandes créatures peuvent porter des poids plus importants que les petites. Pour chaque catégorie de taille au-dessus de la taille moyenne, doublez la capacité de charge d'une créature et le poids qu'elle peut pousser, tirer ou soulever. Pour une créature de taille très petite , divisez ces valeurs par deux.
-
-[][Generic]
-
-# Dextérité
-
-La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.
-
-## Tests de Dextérité
-
-Un test de Dextérité peut être fait pour tester toutes vos tentatives de vous déplacer rapidement, avec agilité ou en silence, ou pour vous éviter de chuter sur des surfaces irrégulières. Les compétences Acrobaties, Escamotage et Discrétion représentent des facettes de cette caractéristique utilisées pour certains tests de Dextérité.
-
-**Acrobaties.** Les tests de Dextérité (Acrobaties) servent à déterminer si vous restez sur vos pieds dans une situation délicate, comme quand vous tentez de courir sur une plaque de verglas ou de garder l'équilibre sur une corde tendue ou sur le pont d'un bateau en train de tanguer. Le MJ peut aussi vous demander de faire un test de Dextérité (Acrobaties) pour voir si vous pouvez réaliser des cascades acrobatiques comme des plongeons, des roulades, des sauts périlleux et des saltos.
-
-**Discrétion.** Faites un test de Dextérité (Discrétion) quand vous tentez de vous cacher à l'approche de vos ennemis, de vous faufiler discrètement à côté de gardes, de quitter un endroit sans vous faire remarquer ou de vous approcher de quelqu'un sans vous faire voir ou entendre.
-
-**Escamotage.** Quand vous tentez de réaliser un tour de passe-passe, comme cacher un objet sur quelqu'un ou dissimuler un objet sur votre personne, vous devez faire un test de Dextérité (Escamotage). Le MJ peut aussi demander un test de Dextérité (Escamotage) pour déterminer si vous arrivez à voler la bourse d'une autre personne ou lui glisser quelque chose dans la poche.
-
-**Autres tests de Dextérité.** Le MJ peut vous demander de faire un test de Dextérité quand vous tentez d'accomplir des tâches comme celles qui suivent :
-
-* Maîtriser une charrette lourdement chargée dans une descente.
-* Prendre un virage serré avec une carriole.
-* Crocheter une serrure.
-* Désamorcer un piège.
-* Attacher un prisonnier de manière sûre.
-* Vous libérer de liens.
-* Jouer d'un instrument à cordes.
-* Fabriquer un petit objet ou un objet avec des détails.
-
-## Jets d'attaque et de dégâts
-
-Quand vous attaquez avec une arme à distance, comme une fronde ou une arbalète, ajoutez votre modificateur de Dextérité à votre jet d'attaque et votre jet de dégâts. Vous pouvez aussi ajouter votre modificateur de Dextérité à vos jets d'attaque et de dégâts quand vous attaquez avec une arme de corps-à-corps qui possède la propriété finesse, comme une dague ou une rapière.
-
-## Classe d'armure
-
-En fonction de l'armure que vous portez, vous pouvez ajouter une partie ou le total de votre modificateur de Dextérité à votre classe d'armure.
-
-## Initiative
-
-Au début de chaque combat, vous déterminez votre initiative en faisant un test de Dextérité. L'initiative détermine l'ordre des tours des créatures pendant le combat.
-
-## Se cacher
-
-Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de Dextérité (Discrétion). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de [Sagesse] (Perception) de toute créature qui cherche activement des signes de votre présence.
-
-Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir clairement, et si vous faites du bruit, comme lancer un avertissement ou renverser un vase, vous révélez votre position.
-
-Une créature invisible peut toujours tenter de se cacher, mais des signes de son passage peuvent être remarqués et elle doit rester silencieuse.
-
-Pendant un combat, la plupart des créatures restent attentives aux signes de danger qui les entourent, donc si vous sortez de votre cachette pour vous approcher d'une créature, il est probable qu'elle vous remarque. Néanmoins, dans certaines circonstances, le MJ peut vous permettre de vous approcher d'une créature distraite en restant caché, ce qui vous permet d'obtenir un avantage sur votre attaque avant qu'elle ne vous remarque.
-
-**Perception passive.** Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de [Sagesse] (Perception) de cette créature, qui est égale à 10 + le modificateur de [Sagesse] de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un avantage, ajoutez 5 à sa valeur passive. Si au contraire elle subit un désavantage, retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une [Sagesse] de 15 (donc un modificateur de +2) et la maîtrise la compétence Perception, sa valeur passive de [Sagesse] (Perception) est de 14.
-
-**Que pouvez-vous voir ?** L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre 8, Partir à l'aventure, pages 274.
-
-
-[][Generic]
-
-# Constitution
-
-La Constitution représente la santé, l'endurance et la force vitale.
-
-## Tests de Constitution
-
-Les tests de Constitution ne sont pas fréquents, et il n'y a pas de compétence associée à cette caractéristique car l'endurance qu'elle représente est essentiellement une qualité passive qui ne demande pas d'effort particulier de la part d'un personnage ou d'un monstre. Un test de Constitution peut néanmoins représenter une tentative de repousser vos limites.
-
-Le MJ peut vous demander de faire un test de Constitution quand vous tentez d'accomplir des tâches comme celles qui suivent :
-
-* Retenir votre respiration.
-* Marcher ou travailler pendant des heures sans vous reposer.
-* Lutter contre le sommeil.
-* Survivre sans eau ni nourriture.
-* Vider une chope de bière d'un trait.
-
-## Points de vie
-
-Vos points de vie dépendent en partie de votre modificateur de Constitution. Pour déterminer votre nombre de points de vie, vous devez généralement ajouter votre modificateur de Constitution à chaque dé de vie que vous lancez.
-
-Si votre modificateur de Constitution change, votre maximum de points de vie est lui aussi modifié, et vous devez le recalculer comme si vous aviez ce nouveau modificateur depuis le premier niveau. Par exemple, si vous augmentez votre valeur de Constitution au niveau 4 et que votre modificateur de Constitution passe de +1 à +2, vous devez ajuster votre nombre de points de vie comme si ce modificateur avait toujours été de +2. Vous devez donc lui ajouter trois points de vie correspondant à vos trois premiers niveaux, puis calculer vos points de vie pour le niveau 4 en utilisant le nouveau modificateur. Ou, si vous êtes au niveau 7 et qu'un effet réduit votre modificateur de Constitution de 1, vous devez réduire votre maximum de points de vie de sept.
-
-[][Generic]
-
-# Intelligence
-
-L'intelligence représente la vivacité d'esprit, la mémoire et la capacité de raisonnement.
-
-## Tests d'Intelligence
-
-Un test d'Intelligence intervient quand vous devez faire appel à la logique, à votre éducation, à vos souvenirs ou à vos capacités de déduction. Les compétences Arcane, Histoire, Investigation, Nature et Religion représentent des facettes de cette caractéristique et requièrent des tests d'Intelligence.
-
-**Arcanes.** Un test d'Intelligence (Arcanes) permet de déterminer votre capacité à vous remémorer vos connaissances concernant les sorts, les objets magiques, les symboles mystiques, les traditions magiques, les plans d'existence et les habitants de ces plans.
-
-**Histoire.** Un test d'Intelligence (Histoire) permet de mesurer votre capacité à vous remémorer vos connaissances concernant les événements historiques, les personnages de légende, les royaumes antiques, les conflits passés, les guerres récentes et les civilisations perdues.
-
-**Investigation.** Faites un test d'Intelligence (Investigation) quand vous cherchez des indices dans votre environnement. Si vous réussissez, vous pouvez deviner où un objet a été caché, déduire de l'apparence d'une blessure l'objet qui l'a causée ou, dans un tunnel, déterminer quel point faible pourrait permettre de le faire s'effondrer. Vous pouvez aussi faire un test d'Intelligence (Investigation) quand vous lisez des parchemins antiques afin d'y découvrir une information dissimulée.
-
-**Nature.** Un test d'Intelligence (Nature) permet de mesurer votre capacité à vous remémorer vos connaissances des différents terrains, de la faune et de la flore, du climat et des cycles naturels.
-
-**Religion.** Un test d'Intelligence (Religion) permet de mesurer votre capacité à vous remémorer vos connaissances relatives aux déités, rites, prières, clergés, symboles sacrés et les pratiques des cultes secrets.
-
-**Autres tests d'Intelligence.** Le MJ peut vous demander de faire un test d'Intelligence quand vous tentez d'accomplir des tâches comme celles qui suivent :
-
-* Communiquer avec une créature en vous passant de mots.
-* Estimer la valeur d'un objet précieux.
-* Vous déguiser pour passer pour un garde de la ville.
-* Falsifier un document.
-* Vous rappeler de vos connaissances relatives à un métier.
-* L'emporter dans un jeu de stratégie.
-
-## Caractéristique d'incantation
-
-Les magiciens utilisent l'Intelligence comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
-
-[][Generic]
-
-# Sagesse
-
-La Sagesse représente votre sensibilité au monde qui vous entoure, votre perspicacité et votre intuition.
-
-## Tests de Sagesse
-
-Un test de Sagesse peut refléter une tentative de décrypter le langage corporel d'une créature, de comprendre les sentiments de quelqu'un, de remarquer des éléments dans votre environnement ou de prendre soin d'une personne blessée. Les compétences Dressage, Perspicacité, Médecine, Perception et Survie représentent des facettes de cette caractéristique utilisées pour certains tests de Sagesse.
-
-**Dressage.** Le MJ peut vous demander de faire un test de Sagesse (Dressage) pour savoir si vous parvenez à calmer un animal domestique, à empêcher une monture de s'affoler ou à deviner les intentions d'un animal. Vous devez aussi faire un test de Sagesse (Dressage) pour contrôler votre monture lors d'une manoeuvre risquée.
-
-**Médecine.** Un test de Sagesse (Médecine) vous permet de tenter de stabiliser un compagnon à l'agonie ou de diagnostiquer une maladie.
-
-**Perception.** Vous faites un test de Sagesse (Perception) afin de repérer, entendre ou détecter d'une manière ou d'une autre une présence. Ce test permet de tester votre attention et votre sensibilité à votre environnement et la finesse de vos sens. Par exemple, vous pouvez tenter d'écouter une conversation à travers une porte fermée ou par une fenêtre entrouverte, ou bien d'entendre des monstres qui se déplacent furtivement dans une forêt. Ou vous pouvez tenter de repérer des choses dissimulées ou difficiles à remarquer, comme des orcs en embuscade le long d'une route, des brigands qui se cachent dans les ombres d'une ruelle ou la lumière d'une bougie visible dans les interstices d'une porte secrète.
-
-**Perspicacité.** Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement. Survie. Le MJ peut vous demander de faire un test de Sagesse (Survie) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
-
-**Autres tests de Sagesse.** Le MJ peut vous demander de faire un test de Sagesse quand vous tentez d'accomplir des tâches comme celles qui suivent :
-
-* Avoir une intuition qui vous aide à faire un choix.
-* Discerner si une créature qui semble morte ou vivante est un mort-vivant.
-
-## Caractéristique d'incantation
-
-Les clercs, les druides et les rôdeurs utilisent la Sagesse comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
-
-[][Generic]
-
-# Charisme
-
-Le Charisme représente votre capacité à interagir avec les autres. Il prend en compte votre confiance en vous et votre éloquence, et est un indicateur du charme et de l'autorité qui se dégagent de vous.
-
-## Tests de Charisme
-
-Un test de Charisme peut se révéler utile si vous tentez d'influencer ou de divertir d'autres personnes, quand vous tentez d'impressionner quelqu'un ou de lui mentir de manière convaincante, ou encore de vous tirer d'une situation délicate en société. Les compétences Supercherie, Intimidation, Représentation et Persuasion représentent des facettes de cette caractéristique utilisées pour certains tests de [Sagesse].
-
-**Intimidation.** Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de Charisme (Intimidation). Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
-
-**Persuasion.** Le MJ peut vous demander de faire un test de Charisme (Persuasion) quand vous tentez d'influencer une ou plusieurs personnes en faisant preuve de tact, en faisant appel à l'étiquette ou à la bonne volonté de ces gens. La persuasion vous sert généralement quand vous voulez montrer que vous êtes de bonne foi ou pour vous faire des amis, pour demander respectueusement un service ou pour faire preuve du comportement approprié à une situation. Par exemple, lorsque vous devez convaincre un chambellan que votre groupe doit voir le roi, que vous négociez un traité de paix entre deux tribus ennemies ou que vous devez inspirer une foule.
-
-**Représentation.** Le résultat d'un test de Charisme (Représentation) détermine la réaction d'un auditoire à une performance musicale, dansée, théâtrale, à un conte ou à d'autres formes de divertissement.
-
-**Supercherie.** Un test de Charisme (Supercherie) permet de déterminer si vous parvenez à dissimuler la vérité de manière convaincante, verbalement ou par vos actions. Cet acte de dissimulation couvre un large spectre qui va des fausses pistes évoquées par le biais d'ambiguïtés au mensonge éhonté. On vous demandera généralement ce genre de test dans des situations où vous tentez d'abuser un garde, de tromper un marchand, de gagner de l'argent en pariant, d'être convaincant dans un déguisement, d'apaiser les doutes de quelqu'un avec de fausses assurances, ou de parvenir à mentir de façon éhontée tout en conservant votre sérieux.
-
-**Autres tests de Charisme.** Le MJ peut vous demander de faire un test de Charisme quand vous tentez d'accomplir des tâches comme celles qui suivent :
-
-* Trouver la personne qui saura vous renseigner et partager avec vous les dernières informations, rumeurs et ragots.
-* Vous infiltrer dans une foule en essayant de déterminer les sujets qui animent les conversations.
-
-## Caractéristique d'incantation
-
-Les bardes, les paladins, les ensorceleurs et les sorciers utilisent le Charisme comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
+# [Charisme]
 
 [][Generic]
 
@@ -424,12 +246,12 @@ Le degré de difficulté d'un jet de sauvegarde dépend de l'effet qui en est la
 
 Le résultat d'un jet de sauvegarde réussi ou raté est indiqué dans la description de l'effet à l'origine du jet de sauvegarde. D'habitude, un jet de sauvegarde réussi signifie qu'une créature n'est pas blessée, ou moins qu'elle aurait dû, par un effet.
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
@@ -437,3 +259,4 @@ Le résultat d'un jet de sauvegarde réussi ou raté est indiqué dans la descri
 
 [Items]: #
 [Generic]: #
+[LinkItem]: #

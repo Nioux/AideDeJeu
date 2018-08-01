@@ -40,8 +40,12 @@ Au niveau 6, vous apprenez la technique de la morsure du serpent. Elle vous perm
 
 Lorsque vous atteignez le niveau 17, en dépensant 3 points de ki, vous pouvez utiliser votre action pour porter une attaque à mains nues contre chaque créature autour de vous dans un rayon de 4,50 mètres. La réussite de votre attaque est automatique et vous infligez vos dégât à mains nues normaux. Chaque créature de taille moyenne ou inférieure que vous blessez par cette attaque doit réussir un [jet de sauvegarde] de [Force] (DD = 8 + votre modificateur de [Dextérité] + votre bonus de maîtrise) ou se retrouver à terre.
 
-[Dextérité]: abilities_hd.md#dextérité
-[Force]: abilities_hd.md#force
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

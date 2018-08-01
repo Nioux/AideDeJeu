@@ -27,12 +27,12 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en orc. La langue orc a une sonorité dure et certains sons évoquent des grincements. Les orcs n'ont pas d'alphabet propre et utilisent donc le même alphabet que les nains : le Runique.
 
-[Force]: abilities_hd.md#force
-[Dextérité]: abilities_hd.md#dextérité
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
-[Charisme]: abilities_hd.md#charisme
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
