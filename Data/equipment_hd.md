@@ -292,7 +292,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 
 [][Equipment]
 
-# Féchette 
+# Fléchette 
 
 - **Type** Arme à distance
 - **Rareté** Courante
