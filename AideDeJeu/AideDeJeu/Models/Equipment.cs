@@ -107,7 +107,7 @@ namespace AideDeJeuLib
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Unité** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Unity = s;
+                                            this.Text += "- " + str; m.Unity = s; m.Name += $" ({s})";
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Capacité** ", (m, s) =>
                                         {
@@ -131,7 +131,7 @@ namespace AideDeJeuLib
                                     {
                                         if (str.StartsWith(property.Item1))
                                         {
-                                            property.Item2.Invoke(this, str.Substring(property.Item1.Length));
+                                            property.Item2.Invoke(this, str.Substring(property.Item1.Length).Trim('\n', ' '));
                                             break;
                                         }
                                     }
