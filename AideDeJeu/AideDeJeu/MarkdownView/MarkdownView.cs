@@ -115,6 +115,23 @@
             } 
         }
 
+        private void AttachLink(Span span, KeyValuePair<string, string> link)
+        {
+            //span.GestureRecognizers.Add(new TapGestureRecognizer
+            //{
+            //    Command = new Command(async () =>
+            //    {
+            //        try
+            //        {
+            //            NavigateToLink(link.Value);
+            //        }
+            //        catch (Exception)
+            //        {
+            //        }
+            //    }),
+            //});
+        }
+
         #region Rendering blocks
 
         private void Render(Block block)
@@ -536,6 +553,11 @@
                     else
                     {
                         var spans = link.SelectMany(x => CreateSpans(x, this.Theme.Link.FontFamily ?? family, attributes| this.Theme.Link.Attributes, this.Theme.Link.ForegroundColor, this.Theme.Link.BackgroundColor, size)).ToArray();
+                        //var newlink = new KeyValuePair<string, string>(string.Join("", spans.Select(x => x.Text)), url);
+                        //foreach (var span in spans)
+                        //{
+                        //    AttachLink(span, newlink);
+                        //}
                         links.Add(new KeyValuePair<string, string>(string.Join("",spans.Select(x => x.Text)), url));
                         return spans;
                     }
