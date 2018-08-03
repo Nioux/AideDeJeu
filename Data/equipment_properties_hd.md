@@ -6,7 +6,7 @@
 
 # Armure lourde 
 
-Les armures les plus lourdes interfèrent avec la capacité de leur porteur à se déplacer rapidement, discrètement et librement. Si le tableau des armures indique « For 13 » ou « For 15 » dans la colonne Force pour un type d'armure, elle réduit la vitesse de celui qui la porte de 3 mètres, à moins qu'il possède une valeur de Force supérieure ou égale au nombre indiqué.
+Les armures les plus lourdes interfèrent avec la capacité de leur porteur à se déplacer rapidement, discrètement et librement. Si le tableau des armures indique « For 13 » ou « For 15 » dans la colonne Force pour un type d'armure, elle réduit la vitesse de celui qui la porte de 3 mètres, à moins qu'il possède une valeur de [Force] supérieure ou égale au nombre indiqué.
 
 [][Generic]
 
@@ -61,10 +61,10 @@ Enfiler et retirer une armure
 
 |Catégorie|Enfiler|Retirer|
 |---|---|---|
-|Armure légère|1 minute|1 minute|
-|Armure intermédiaire|5 minutes|1 minute|
-|Armure lourde|10 minutes|5 minutes|
-|Bouclier|1 action|1 action|
+|[Armure légère]|1 minute|1 minute|
+|[Armure intermédiaire]|5 minutes|1 minute|
+|[Armure lourde]|10 minutes|5 minutes|
+|[Bouclier]|1 action|1 action|
 
 
 
@@ -194,7 +194,7 @@ Un focaliseur druidique peut être une [branche de houx], une [baguette][baguett
 
 ## Symbole sacré 
 
-Un symbole sacré est la représentation d'un dieu ou d'un panthéon. Il peut s'agir d'une amulette sur laquelle se trouve le symbole d'un dieu, de ce même symbole gravé avec soin ou incrusté comme emblème d'un [bouclier], ou encore d'une petite boîte contenant un fragment de relique sacrée. Vous trouverez dans l'appendice A, Panthéons historiques et fantastiques, pages 414-418, une liste des symboles sacrés généralement associés à de nombreuses divinités du multivers.
+Un symbole sacré est la représentation d'un dieu ou d'un panthéon. Il peut s'agir d'une [amulette] sur laquelle se trouve le symbole d'un dieu, de ce même symbole gravé avec soin ou incrusté comme [emblème] d'un bouclier, ou encore d'une petite boîte contenant un fragment de [relique] sacrée. Vous trouverez dans l'appendice A, Panthéons historiques et fantastiques, pages 414-418, une liste des symboles sacrés généralement associés à de nombreuses divinités du multivers.
 
 Un [clerc] ou un [paladin] peut utiliser un symbole sacré comme focaliseur d'incantation. Afin de l'utiliser ainsi, le symbole sacré doit être tenu en main par le lanceur de sorts et être visible, ou se trouver sur son [bouclier].
 
