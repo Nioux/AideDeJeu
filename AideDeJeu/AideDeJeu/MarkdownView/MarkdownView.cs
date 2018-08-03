@@ -553,11 +553,11 @@
                     else
                     {
                         var spans = link.SelectMany(x => CreateSpans(x, this.Theme.Link.FontFamily ?? family, attributes| this.Theme.Link.Attributes, this.Theme.Link.ForegroundColor, this.Theme.Link.BackgroundColor, size)).ToArray();
-                        //var newlink = new KeyValuePair<string, string>(string.Join("", spans.Select(x => x.Text)), url);
-                        //foreach (var span in spans)
-                        //{
-                        //    AttachLink(span, newlink);
-                        //}
+                        var newlink = new KeyValuePair<string, string>(string.Join("", spans.Select(x => x.Text)), url);
+                        foreach (var span in spans)
+                        {
+                            AttachLink(span, newlink);
+                        }
                         links.Add(new KeyValuePair<string, string>(string.Join("",spans.Select(x => x.Text)), url));
                         return spans;
                     }
