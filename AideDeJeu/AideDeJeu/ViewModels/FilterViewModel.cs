@@ -420,16 +420,16 @@ namespace AideDeJeu.ViewModels
 
                 //var category = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Category).SelectedKey ?? "";
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
-                token.ThrowIfCancellationRequested();
+                //token.ThrowIfCancellationRequested();
 
                 var minPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPower).SelectedKey ?? "0 (0 PX)";
-                token.ThrowIfCancellationRequested();
+                //token.ThrowIfCancellationRequested();
 
                 var maxPower = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPower).SelectedKey ?? "30 (155000 PX)";
-                token.ThrowIfCancellationRequested();
+                //token.ThrowIfCancellationRequested();
 
                 var size = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Size).SelectedKey ?? "";
-                token.ThrowIfCancellationRequested();
+                //token.ThrowIfCancellationRequested();
                 //var legendary = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Legendary).SelectedKey ?? "";
 
                 var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
@@ -771,7 +771,7 @@ namespace AideDeJeu.ViewModels
                 var type = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Type).SelectedKey ?? "";
                 var minPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinPrice).SelectedKey ?? "0 pc";
                 var maxPrice = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxPrice).SelectedKey ?? "1 000 000 po";
-                token.ThrowIfCancellationRequested();
+                //token.ThrowIfCancellationRequested();
                 return items.Where(item =>
                 {
                     var equipment = item as Equipment;
