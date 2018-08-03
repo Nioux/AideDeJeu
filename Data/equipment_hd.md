@@ -2424,7 +2424,7 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Unité** bouteille
 
 
-[à deux mains]: equipment_properties_hd.md#à-deux-mains
+[à deux mains]: equipment_properties_hd.md#À-deux-mains
 [À deux mains]: equipment_properties_hd.md#À-deux-mains
 [allonge]: equipment_properties_hd.md#allonge
 [Allonge]: equipment_properties_hd.md#allonge

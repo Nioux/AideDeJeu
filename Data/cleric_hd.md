@@ -195,11 +195,14 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 [Intervention divine]: cleric_hd.md#intervention-divine
 [Intervention divine supérieure]: cleric_hd.md#intervention-divine
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

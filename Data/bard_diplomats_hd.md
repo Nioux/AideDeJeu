@@ -32,9 +32,13 @@ Au niveau 6, vous pouvez lancer les sorts aura du héros, charme-personne et sug
 
 Au niveau 14, lorsqu'un de vos sorts de l'école d'enchantement cesse de faire effet, vous pouvez choisir de dépenser un dé d'inspiration pour que les victimes ne se rappellent pas avoir été sous l'effet de votre magie et que leur attitude à votre égard n'en soit pas altérée
 
-[Charisme]: abilities_hd.md#charisme
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

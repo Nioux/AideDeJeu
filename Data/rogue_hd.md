@@ -196,12 +196,16 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 [Ruse]: rogue_hd.md#ruse
 [Talent]: rogue_hd.md#talent
 
-[Constitution]: abilities_hd.md#constitution
-[Dextérité]: abilities_hd.md#dextérité
-[Intelligence]: abilities_hd.md#intelligence
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

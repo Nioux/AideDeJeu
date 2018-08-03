@@ -195,12 +195,16 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 [Crocodile]: monsters_hd.md#crocodile
 [Aigle géant]: monsters_hd.md#aigle-géant
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

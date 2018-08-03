@@ -83,7 +83,14 @@ Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, v
 [Gorgone]: monsters_hd.md#gorgone
 [Terreur des roches]: monsters_hd.md#terreur-des-roches
 
-[Constitution]: abilities_hd.md#constitution
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

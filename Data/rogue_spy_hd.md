@@ -52,9 +52,13 @@ Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie
 
 Également au niveau 17, rien ne semble pouvoir venir à bout de votre résistance, les bagarres les plus dures comme les chutes les plus vertigineuses. Vous obtenez la résistance aux dégâts contondants.
 
-[Charisme]: abilities_hd.md#charisme
-[Intelligence]: abilities_hd.md#intelligence
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

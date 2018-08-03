@@ -36,10 +36,14 @@ Combat à deux armes. Quand vous combattez avec deux armes, vous pouvez ajouter 
 
 Au niveau 14, sur un champ de bataille, votre simple présence assure les protagonistes que leurs exploits ne seront pas oubliés, les poussant à toujours plus de bravoure ! Durant un combat, vous pouvez dépenser une inspiration bardique et utiliser une action bonus pour permettre à tous vos alliés à moins de 18 mètres de lancer un dé d'inspiration bardique et d'ajouter le résultat à l'un de leurs jets d'attaque avant votre prochain tour. Ils peuvent aussi ajouter ce résultat à tous les [jets de sauvegarde] contre l'effet [terrorisé] pour la même durée.
 
-[Intelligence]: abilities_hd.md#intelligence
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
 [terrorisé]: conditions_hd.md#terrorisé
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

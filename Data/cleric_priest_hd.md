@@ -554,6 +554,8 @@ Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de
 [porte dimensionnelle]: spells_hd.md#porte-dimensionnelle
 [passage par les arbres]: spells_hd.md#passage-par-les-arbres
 
+[empoisonné]: conditions_hd.md#empoisonné
+
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
 [Constitution]: abilities_constitution_hd.md

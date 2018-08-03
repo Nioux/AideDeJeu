@@ -196,10 +196,15 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 [Maître de l'occulte]: warlock_hd.md#maître-de-locculte
 [Protecteur de l'outremonde]: warlock_hd.md#protecteur-de-loutre-monde
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

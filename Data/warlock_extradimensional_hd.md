@@ -50,11 +50,16 @@ Au niveau 14, votre compréhension de l'espace-temps se renforce et vous permet 
 
 Si aucun espace libre n'existe à portée, vous êtes perdu dans les limbes et considéré comme mort. Vous pouvez observer et entendre ce qui se passe sur les lieux que vous avez quittés comme si vous y étiez et vous pouvez décider où et quand vous allez réapparaître dans les limites fixées précédemment. Lorsque vous réapparaissez, vous pouvez utiliser une réaction pour interrompre n'importe quelle action en cours. Vous devez terminer un repos court ou long pour pouvoir de nouveau utiliser cette aptitude.
 
-[Charisme]: abilities_hd.md#charisme
-[Dextérité]: abilities_hd.md#dextérité
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

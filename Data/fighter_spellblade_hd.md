@@ -81,8 +81,14 @@ Lorsque vous atteignez le niveau 18, vous pouvez lancer un sort dont le temps d'
 
 À ce niveau, en plus du sort que vous apprenez normalement, vous apprenez un quatrième tour de magie de la liste d'ensorceleur.
 
-[Charisme]: abilities_hd.md#charisme
-[Dextérité]: abilities_hd.md#dextérité
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

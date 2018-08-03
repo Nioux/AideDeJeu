@@ -34,10 +34,15 @@ Lorsque vous atteignez le niveau 7, une longue lutte ou une longue rancoeur vous
 
 À partir du niveau 15, vous êtes d'une efficacité sans égale face à vos ennemis jurés. Vous ajoutez 2d6 aux dégâts de chaque attaque au corps-à-corps ou à distance que vous infligez à vos ennemis jurés. Cette aptitude remplace némésis.
 
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
+
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

@@ -80,10 +80,16 @@ Pendant tout le temps que perdure ce halo, vous obtenez un avantage sur les [jet
 
 Après un usage de cette aptitude, vous devez terminer un repos long pour la recharger.
 
-[Charisme]: abilities_hd.md#charisme
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

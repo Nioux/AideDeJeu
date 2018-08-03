@@ -48,7 +48,14 @@ En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résis
 
 La transformation vous coûte un nombre de points de sorcellerie égal à l'indice de dangerosité du démon ou du diable choisi. Chaque fois que vous souhaitez changer de forme, vous devez à nouveau payer le coût en points de sorcellerie. Vous ne pouvez pas utiliser l'aptitude magie du sang lorsque vous êtes sous les effets de forme infernale.
 
-[Charisme]: abilities_hd.md#charisme
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

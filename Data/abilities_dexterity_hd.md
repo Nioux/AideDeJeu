@@ -89,5 +89,12 @@ Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez re
 
 L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre 8, Partir à l'aventure, pages 274.
 
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [Items]: #
 [Generic]: #

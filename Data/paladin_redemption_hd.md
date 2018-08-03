@@ -85,10 +85,15 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 
 À la fin de la transformation, si le niveau d'épuisement de votre personnage est de 6, celui-ci meurt. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

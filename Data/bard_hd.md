@@ -210,9 +210,13 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [Source d'inspiration]: bard_hd.md#source-dinspiration
 [Touche-à-tout]: bard_hd.md#touche-à-tout
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
-[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [sort de barde]: spells_hd_with_class_barde.md

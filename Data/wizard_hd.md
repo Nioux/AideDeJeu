@@ -203,10 +203,15 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 [Sorts de prédilection]: wizard_hd.md#sorts-de-prédilection
 [Tradition arcanique]: wizard_hd.md#tradition-arcanique
 
-[Constitution]: abilities_hd.md#constitution
-[Intelligence]: abilities_hd.md#intelligence
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 [Items]: #
 [Generic]: #

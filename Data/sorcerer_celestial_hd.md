@@ -50,7 +50,14 @@ Vous pouvez dépenser davantage de points de sorcellerie pour le lancer avec un 
 
 Pendant 1 minute ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), tous les alliés qui débutent leur tour dans la zone d'effet ne peuvent être charmés, terrorisés ou empoisonnés jusqu'à ce que l'aura se dissipe. De plus, tant que vous êtes sous l'effet de cette aura, vous pouvez lancer le sort mineur flamme sacrée en action bonus en dépensant 1 point de sorcellerie.
 
-[Charisme]: abilities_hd.md#charisme
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [terrorisé]: conditions_hd.md#terrorisé
 

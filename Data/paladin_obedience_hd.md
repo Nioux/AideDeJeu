@@ -77,9 +77,15 @@ Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre 
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-[Charisme]: abilities_hd.md#charisme
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

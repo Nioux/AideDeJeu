@@ -90,10 +90,16 @@ Incantation rapide. À votre tour, vous pouvez dépenser une action bonus pour l
 
 Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un désavantage au [jet de sauvegarde] des cibles.
 
-[Intelligence]: abilities_hd.md#intelligence
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

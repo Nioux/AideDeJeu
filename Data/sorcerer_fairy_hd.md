@@ -50,7 +50,14 @@ De plus, vous bénéficiez d'un avantage aux [jets de sauvegarde] contre tous le
 
 Vous pouvez y mettre fin à tout moment en utilisant une action.
 
-[Charisme]: abilities_hd.md#charisme
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

@@ -44,7 +44,14 @@ Vous êtes toujours capable de récupérer quelques forces pour pratiquer la mag
 
 Vous obtenez la maîtrise d'une nouvelle compétence de la liste proposée au niveau 2.
 
-[Constitution]: abilities_hd.md#constitution
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

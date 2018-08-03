@@ -54,7 +54,14 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre d'avoir terminé un repos long avant de pouvoir l'utiliser de nouveau.
 
-[Charisme]: abilities_hd.md#charisme
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

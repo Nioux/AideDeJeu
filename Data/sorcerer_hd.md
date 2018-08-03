@@ -250,8 +250,14 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 [Régénération de l'ensorceleur]: sorcerer_hd.md#régénération-de-lensorceleur
 [Source de magie]: sorcerer_hd.md#source-de-magie
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

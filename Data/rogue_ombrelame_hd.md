@@ -81,8 +81,14 @@ Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des s
 
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
 
-[Charisme]: abilities_hd.md#charisme
-[Dextérité]: abilities_hd.md#dextérité
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 

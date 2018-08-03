@@ -46,7 +46,12 @@ Quand vous atteignez le niveau 17, vous êtes devenu particulièrement doué dan
 
 Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez votre premier tour en fonction de votre jet d'initiative normal et, pour savoir quand vous jouez votre deuxième tour, vous utilisez votre résultat d'initiative moins 10. Vous ne pouvez pas utiliser cette aptitude si vous êtes surpris.
 
-[Dextérité]: abilities_hd.md#dextérité
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

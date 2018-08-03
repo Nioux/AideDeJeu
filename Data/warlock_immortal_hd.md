@@ -55,8 +55,14 @@ Désormais, vous obtenez la résistance aux dégâts nécrotiques, de froid et d
 
 Enfin, la difficulté du [jet de sauvegarde] de votre [pacte avec la Mort] est abaissée de 5 points.
 
-[Charisme]: abilities_hd.md#charisme
-[Constitution]: abilities_hd.md#constitution
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [pacte avec la Mort]: warlock_immortal_hd.md#pacte-avec-la-mort
 

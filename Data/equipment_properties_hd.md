@@ -162,11 +162,11 @@ Une arme qui possède la propriété spéciale utilise des règles de fonctionne
 
 # Armes improvisées
 
-Il peut arriver que les personnages n'aient pas leurs armes avec eux et doivent se contenter de ce qu'ils ont sous la main. Une arme improvisée peut être n'importe quel objet que vous pouvez tenir à une ou deux mains, comme un éclat de verre, un pied de table, une poêle, une roue de chariot ou un cadavre de gobelin.
+Il peut arriver que les personnages n'aient pas leurs armes avec eux et doivent se contenter de ce qu'ils ont sous la main. Une arme improvisée peut être n'importe quel objet que vous pouvez tenir à une ou [deux mains], comme un éclat de verre, un pied de table, une poêle, une roue de chariot ou un cadavre de gobelin.
 
-Une arme improvisée ressemble souvent à une arme réelle et elle peut être traitée comme telle. Par exemple, un pied de table ressemble à un gourdin. Le MJ peut décider qu'un personnage qui maîtrise une arme peut utiliser son bonus de maîtrise s'il utilise une arme qui ressemble assez à celle qu'il maîtrise.
+Une arme improvisée ressemble souvent à une arme réelle et elle peut être traitée comme telle. Par exemple, un pied de table ressemble à un [gourdin]. Le MJ peut décider qu'un personnage qui maîtrise une arme peut utiliser son bonus de maîtrise s'il utilise une arme qui ressemble assez à celle qu'il maîtrise.
 
-Un objet qui ne ressemble à aucune arme inflige 1d4 dégâts (le MJ décide d'un type de dégât approprié en fonction de l'objet). Si un personnage utilise une arme à distance pour faire une attaque de corps-à-corps ou lance une arme de corps-à-corps qui ne possède pas la propriété lancer, cette arme inflige aussi 1d4 dégâts. Une arme de lancer improvisée a une portée normale de 6 mètres et une portée longue de 18 mètres.
+Un objet qui ne ressemble à aucune arme inflige 1d4 dégâts (le MJ décide d'un type de dégât approprié en fonction de l'objet). Si un personnage utilise une [arme à distance] pour faire une attaque de corps-à-corps ou lance une arme de corps-à-corps qui ne possède pas la propriété [lancer], cette arme inflige aussi 1d4 dégâts. Une arme de [lancer] improvisée a une portée normale de 6 mètres et une portée longue de 18 mètres.
 
 [][Generic]
 
@@ -181,22 +181,46 @@ Certains monstres qui possèdent une immunité ou une résistance aux armes non-
 
 ## Focaliseur arcanique
 
-Un focaliseur arcanique est un objet spécial – un orbe, un cristal, une baguette, un bâton spécialement construit ou un objet similaire – conçu pour canaliser la puissance de la magie arcanique. Un ensorceleur, un sorcier ou un magicien peut utiliser de tels objets comme focaliseur d'incantation.
+Un focaliseur arcanique est un objet spécial – un [orbe], un [cristal], une [baguette][baguette arcanique], un [bâton][bâton arcanique] spécialement construit ou un objet similaire – conçu pour canaliser la puissance de la magie arcanique. Un [ensorceleur], un [sorcier] ou un [magicien] peut utiliser de tels objets comme focaliseur d'incantation.
 
 [][Generic]
 
 ## Focaliseur druidique
 
-Un focaliseur druidique peut être une branche de houx, une baguette ou un sceptre en if ou dans un autre bois spécial, un bâton taillé dans un arbre encore vivant ou un totem fait avec les plumes, la fourrure, les os ou les dents d'animaux sacrés. Un druide peut utiliser un tel objet comme focaliseur d'incantation.
+Un focaliseur druidique peut être une [branche de houx], une [baguette][baguette druidique] ou un [sceptre en if] ou dans un autre bois spécial, un [bâton][bâton druidique] taillé dans un arbre encore vivant ou un [totem] fait avec les plumes, la fourrure, les os ou les dents d'animaux sacrés. Un [druide] peut utiliser un tel objet comme focaliseur d'incantation.
 
 
 [][Generic]
 
 ## Symbole sacré 
 
-Un symbole sacré est la représentation d'un dieu ou d'un panthéon. Il peut s'agir d'une amulette sur laquelle se trouve le symbole d'un dieu, de ce même symbole gravé avec soin ou incrusté comme emblème d'un bouclier, ou encore d'une petite boîte contenant un fragment de relique sacrée. Vous trouverez dans l'appendice A, Panthéons historiques et fantastiques, pages 414-418, une liste des symboles sacrés généralement associés à de nombreuses divinités du multivers.
+Un symbole sacré est la représentation d'un dieu ou d'un panthéon. Il peut s'agir d'une amulette sur laquelle se trouve le symbole d'un dieu, de ce même symbole gravé avec soin ou incrusté comme emblème d'un [bouclier], ou encore d'une petite boîte contenant un fragment de relique sacrée. Vous trouverez dans l'appendice A, Panthéons historiques et fantastiques, pages 414-418, une liste des symboles sacrés généralement associés à de nombreuses divinités du multivers.
 
-Un clerc ou un paladin peut utiliser un symbole sacré comme focaliseur d'incantation. Afin de l'utiliser ainsi, le symbole sacré doit être tenu en main par le lanceur de sorts et être visible, ou se trouver sur son bouclier.
+Un [clerc] ou un [paladin] peut utiliser un symbole sacré comme focaliseur d'incantation. Afin de l'utiliser ainsi, le symbole sacré doit être tenu en main par le lanceur de sorts et être visible, ou se trouver sur son [bouclier].
+
+
+[arme à distance]: equipment_properties_hd.md#arme-à-distance
+[baguette arcanique]: equipment_hd.md#baguette-focaliseur-arcanique
+[baguette druidique]: equipment_hd.md#baguette-dif-focaliseur-druidique
+[bâton arcanique]: equipment_hd.md#bâton-focaliseur-arcanique
+[bâton druidique]: equipment_hd.md#bâton-focaliseur-druidique
+[bouclier]: equipment_hd.md#bouclier
+[branche de houx]: equipment_hd.md#branche-de-houx-focaliseur-druidique
+[clerc]: cleric_hd.md
+[cristal]: equipment_hd.md#cristal-focaliseur-arcanique
+[deux mains]: equipment_properties_hd.md#À-deux-mains
+[druide]: druid_hd.md
+[ensorceleur]: sorcerer_hd.md
+[gourdin]: equipment_hd.md#gourdin
+[lancer]: equipment_properties_hd.md#lancer
+[magicien]: wizard_hd.md
+[orbe]: equipment_hd.md#orbe-focaliseur-arcanique
+[paladin]: paladin_hd.md
+[sceptre en if]: equipment_hd.md#baguette-dif-focaliseur-druidique
+[sorcier]: warlock_hd.md
+[totem]: equipment_hd.md#totem-focaliseur-druidique
+
+
 
 
 [Items]: #

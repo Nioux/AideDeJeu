@@ -89,10 +89,14 @@ Toutefois, l'effet relatif aux sorts de soins ne s'applique qu'à vos propres so
 
 Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état émotionnel d'un groupe et de déclencher une ferveur collective afin d'inciter une foule à suivre vos instructions. Après avoir tenu un discours religieux, philosophique ou social pendant au moins 1 minute à une foule disposée à vous écouter, vous pouvez utiliser le sort suggestion de groupe sur un groupe de créatures dont le nombre ne dépasse pas votre valeur de [Sagesse]. Si toutes les créatures sont similaires et d'un indice de dangerosité inférieur à 1, vous pouvez affecter dix fois ce nombre de créatures. Ne faites alors qu'une sauvegarde pour toutes les cibles : le mouvement de foule affecte toutes les créatures ou aucune. Si vous haranguez la foule pendant 10 minutes, les créatures subissent un désavantage à leur sauvegarde. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-[Charisme]: abilities_hd.md#charisme
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #

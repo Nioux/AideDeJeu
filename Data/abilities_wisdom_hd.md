@@ -53,5 +53,18 @@ Le MJ peut vous demander de faire un test de [Sagesse] quand vous tentez d'accom
 
 Les [clercs], les [druides] et les [rôdeurs] utilisent la [Sagesse] comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
 
+[clercs]: cleric_hd.md
+[druides]: druid_hd.md
+[rôdeurs]: ranger_hd.md
+
+[jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
+
 [Items]: #
 [Generic]: #

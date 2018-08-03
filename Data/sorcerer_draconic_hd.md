@@ -76,10 +76,15 @@ Les vêtements que vous portez qui n'ont pas été conçus en tenant compte de v
 
 Une créature qui réussit son [jet de sauvegarde] est immunisée à votre aura pendant 24 heures.
 
-[Charisme]: abilities_hd.md#charisme
-[Dextérité]: abilities_hd.md#dextérité
+
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
-[Sagesse]: abilities_hd.md#sagesse
+
+[Force]: abilities_strength_hd.md
+[Dextérité]: abilities_dexterity_hd.md
+[Constitution]: abilities_constitution_hd.md
+[Intelligence]: abilities_intelligence_hd.md
+[Sagesse]: abilities_wisdom_hd.md
+[Charisme]: abilities_charisma_hd.md
 
 
 [Items]: #
