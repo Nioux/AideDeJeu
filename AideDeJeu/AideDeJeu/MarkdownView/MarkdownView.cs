@@ -10,10 +10,11 @@
     using System.IO;
     using Extensions;
     using Markdig;
+    using System.Threading.Tasks;
 
     public class MarkdownView : ContentView
     {
-        public Action<string> NavigateToLink { get; set; } = (s) => Device.OpenUri(new Uri(s));
+        public Func<string, Task> NavigateToLink { get; set; } = async(s) => Device.OpenUri(new Uri(s));
 
         public static MarkdownTheme Global = new LightMarkdownTheme();
 
@@ -100,11 +101,11 @@
                             {
                                 var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
                                 var link = blockLinks.FirstOrDefault(x => x.Key == result);
-                                NavigateToLink(link.Value);
+                                await NavigateToLink(link.Value);
                             }
                             else
                             {
-                                NavigateToLink(blockLinks.First().Value);
+                                await NavigateToLink(blockLinks.First().Value);
                             }
                         }
                         catch (Exception) { }
@@ -123,7 +124,7 @@
             //    {
             //        try
             //        {
-            //            NavigateToLink(link.Value);
+            //            await NavigateToLink(link.Value);
             //        }
             //        catch (Exception)
             //        {
