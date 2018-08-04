@@ -1,10 +1,6 @@
 
 [][Items]
 
-# Caractéristiques
-
-[][Generic]
-
 # Utiliser les caractéristiques
 
 Le profil physique et mental d'une créature est défini par six caractéristiques :

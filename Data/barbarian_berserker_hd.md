@@ -2,10 +2,6 @@
 
 # Voie du berserker
 
-[][Generic]
-
-# Voie du berserker
-
 Pour certains barbares, la rage est un moyen d'atteindre leur but, et ce but est la violence. Animé par une furie débridée, le berserker suit une voie sanglante.
 
 Quand vous entrez dans la rage du berserker, vous vous réalisez dans le chaos de la bataille et oubliez tout le reste, y compris votre santé et votre bien-être.

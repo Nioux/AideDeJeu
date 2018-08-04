@@ -2,10 +2,6 @@
 
 # Force
 
-[][Generic]
-
-# Force
-
 La Force détermine la puissance physique d'un personnage, ses compétences en athlétisme et dans quelle mesure il peut se reposer sur sa force brute.
 
 [][Generic]

@@ -45,8 +45,8 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public IEnumerable<Item> _Items = new List<Item>();
-        public IEnumerable<Item> Items
+        public Items _Items = new Items();
+        public Items Items
         {
             get
             {
@@ -109,11 +109,11 @@ namespace AideDeJeu.ViewModels
                 if (Filter != null)
                 {
                     var items = await Filter.FilterItems(AllItems, cancellationToken: cancellationToken);
-                    Items = items.ToList();
+                    Items = new Items(items.ToList());
                 }
                 else
                 {
-                    Items = AllItems.ToList();
+                    Items = AllItems;
                 }
             }
             catch (OperationCanceledException ex)

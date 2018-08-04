@@ -2,10 +2,6 @@
 
 # Dextérité
 
-[][Generic]
-
-# Dextérité
-
 La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.
 
 [][Generic]

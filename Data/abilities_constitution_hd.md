@@ -2,10 +2,6 @@
 
 # Constitution
 
-[][Generic]
-
-# Constitution
-
 La Constitution représente la santé, l'endurance et la force vitale.
 
 [][Generic]

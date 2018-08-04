@@ -2,10 +2,6 @@
 
 # Intelligence
 
-[][Generic]
-
-# Intelligence
-
 L'intelligence représente la vivacité d'esprit, la mémoire et la capacité de raisonnement.
 
 [][Generic]

@@ -13,11 +13,31 @@ namespace AideDeJeuLib
     public class Items : Item, IEnumerable<Item>
     {
         private IEnumerable<Item> _Items;
-        public override string Markdown => throw new NotImplementedException();
+
+        public Items(IEnumerable<Item> items)
+        {
+            _Items = items;
+        }
+
+        public Items()
+        {
+            _Items = new List<Item>();
+        }
+
+        private string _Markdown = "";
+        public override string Markdown
+        {
+            get
+            {
+                //return "\n\n# test\n\n";
+                return _Markdown;
+            }
+        }
+
 
         public IEnumerator<Item> GetEnumerator()
         {
-            return _Items.GetEnumerator();
+            return _Items?.GetEnumerator();
         }
 
         public override void Parse(ref ContainerBlock.Enumerator enumerator)
@@ -26,18 +46,27 @@ namespace AideDeJeuLib
             enumerator.MoveNext();
             while (enumerator.Current != null)
             {
-                if(enumerator.Current.IsNewItem())
+                var block = enumerator.Current;
+                if (block.IsNewItem())
                 {
                     break;
                 }
-                else if(enumerator.Current is HeadingBlock)
+                else if(block is HeadingBlock)
                 {
-                    var headingBlock = enumerator.Current as HeadingBlock;
+                    var headingBlock = block as HeadingBlock;
                     if(headingBlock.Level == 1 && headingBlock.HeaderChar == '#')
                     {
                         this.Name = headingBlock.Inline.ToMarkdownString();
 
                     }
+                    else
+                    {
+                        _Markdown += headingBlock.ToMarkdownString();
+                    }
+                }
+                else
+                {
+                    _Markdown += block.ToMarkdownString();
                 }
                 enumerator.MoveNext();
             }
@@ -52,7 +81,7 @@ namespace AideDeJeuLib
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return _Items.GetEnumerator();
+            return _Items?.GetEnumerator();
         }
 
         public virtual FilterViewModel GetNewFilterViewModel()

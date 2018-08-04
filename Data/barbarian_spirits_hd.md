@@ -2,10 +2,6 @@
 
 # Voie des esprits
 
-[][Generic]
-
-# Voie des esprits
-
 Plaine ou savane, forêt ou montagne, vous êtes né dans une nature vierge et sauvage, parfois dure et hostile.
 
 Pour survivre, votre peuple a appris à communier avec la nature et à tisser des liens étroits avec les animaux par l'intermédiaire d'esprits magiques.

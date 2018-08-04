@@ -4,13 +4,23 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     xmlns:local="clr-namespace:AideDeJeu.Views" 
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
+    xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
     x:Class="AideDeJeu.Views.ItemsPage" 
     x:Name="This" 
     Title="{Binding Title}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
     </ContentPage.ToolbarItems>
     <ListView BackgroundColor="{StaticResource bgtan}" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+        <ListView.Header>
+            <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" BackgroundColor="Red"/>
+        </ListView.Header>
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
