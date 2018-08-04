@@ -33,6 +33,7 @@ namespace AideDeJeuLib
                 if (this.Name == null)
                 {
                     this.Name = headingBlock.Inline.ToMarkdownString();
+                    this.NameLevel = headingBlock.Level - 1;
                 }
                 this.Text += block.ToMarkdownString();
             }

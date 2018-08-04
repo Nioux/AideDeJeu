@@ -29,10 +29,11 @@ namespace AideDeJeuLib
         {
             get
             {
-                //return "\n\n# test\n\n";
                 return _Markdown;
             }
         }
+
+        public string Header { get; set; }
 
 
         public IEnumerator<Item> GetEnumerator()
@@ -61,12 +62,12 @@ namespace AideDeJeuLib
                     }
                     else
                     {
-                        _Markdown += headingBlock.ToMarkdownString();
+                        Header += headingBlock.ToMarkdownString();
                     }
                 }
                 else
                 {
-                    _Markdown += block.ToMarkdownString();
+                    Header += block.ToMarkdownString();
                 }
                 enumerator.MoveNext();
             }

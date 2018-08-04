@@ -19,13 +19,13 @@
     </ContentPage.ToolbarItems>
     <ListView BackgroundColor="{StaticResource bgtan}" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
         <ListView.Header>
-            <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" BackgroundColor="Red"/>
+            <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding BindingContext.Items.Header, Source={x:Reference This}}" />
         </ListView.Header>
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
                     <StackLayout Padding="10" Orientation="Vertical">
-                        <Label Text="{Binding Name}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                        <Label Text="{Binding DisplayName}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
                         <Label Text="{Binding AltNameText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
                     </StackLayout>
                 </ViewCell>
