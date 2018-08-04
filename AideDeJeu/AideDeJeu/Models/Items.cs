@@ -41,10 +41,8 @@ namespace AideDeJeuLib
             return _Items?.GetEnumerator();
         }
 
-        public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        public void ParseHeader(ref ContainerBlock.Enumerator enumerator)
         {
-            var items = new List<Item>();
-            enumerator.MoveNext();
             while (enumerator.Current != null)
             {
                 var block = enumerator.Current;
@@ -52,12 +50,12 @@ namespace AideDeJeuLib
                 {
                     break;
                 }
-                else if(block is HeadingBlock)
+                else if (block is HeadingBlock)
                 {
                     var headingBlock = block as HeadingBlock;
-                    if(headingBlock.Level == 1 && headingBlock.HeaderChar == '#')
+                    if (headingBlock.Level == 1 && headingBlock.HeaderChar == '#')
                     {
-                        this.Name = headingBlock.Inline.ToMarkdownString();
+                        Name = headingBlock.Inline.ToMarkdownString();
 
                     }
                     else
@@ -71,9 +69,21 @@ namespace AideDeJeuLib
                 }
                 enumerator.MoveNext();
             }
+        }
+
+        public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        {
+            var items = new List<Item>();
+            enumerator.MoveNext();
+            ParseHeader(ref enumerator);
             while (enumerator.Current != null)
             {
-                var item = enumerator.Current.GetNewItem();
+                var block = enumerator.Current;
+                if (block.IsClosingItem())
+                {
+                    break;
+                }
+                var item = block.GetNewItem();
                 item.Parse(ref enumerator);
                 items.Add(item);
             }

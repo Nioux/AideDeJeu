@@ -3,11 +3,9 @@
 
 # Barbare
 
-[][Generic]
-
-# Aptitudes de classe
-
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
+
+[][Generic]
 
 ## Points de vie
 
@@ -15,21 +13,25 @@ En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 **Points de vie au niveau 1 :** 12 + votre modificateur de [Constitution]
 **Points de vie aux niveaux supérieurs :** 1d12 (ou 7) + votre modificateur de [Constitution] par niveau de barbare après le premier niveau
 
+[][Generic]
+
 ## Maîtrises
 
-**Armures :** armures légères, armures intermédiaires, boucliers
-**Armes :** armes courantes, armes de guerre
+**Armures :** [armures légères], [armures intermédiaires], [boucliers]
+**Armes :** [armes courantes], [armes de guerre]
 **Outils :** aucun
 **Jets de sauvegarde :** [Force], [Constitution]
-**Compétences :** choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception et Survie
+**Compétences :** choisissez deux compétences parmi [Athlétisme], [Dressage], [Intimidation], [Nature], [Perception] et [Survie]
+
+[][Generic]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) une hache à deux mains ou (b) n'importe quelle arme de guerre de corps-à-corps
-* (a) deux hachettes ou (b) n'importe quelle arme courante
-* un paquetage d'explorateur et quatre javelines
+* (a) une [hache à deux mains] ou (b) n'importe quelle [arme de guerre de corps-à-corps]
+* (a) deux [hachettes] ou (b) n'importe quelle [arme courante]
+* un [paquetage d'explorateur] et quatre [javelines]
 
 [][Generic]
 
@@ -65,29 +67,29 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## Rage
 
-Quand vous vous retrouvez au coeur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :
+Quand vous vous retrouvez au coeur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'[armure lourde], vous obtenez les bénéfices suivants :
 
 * Vous bénéficiez d'un avantage sur les tests de [Force] et les [jets de sauvegarde] de [Force].
-* Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts. Ce bonus augmente en même temps que votre niveau (voir le tableau d'évolution du barbare, colonne dégâts de rage).
-* Vous devenez résistant aux dégâts contondants, perforants et tranchants.
+* Quand vous utilisez une [arme de corps-à-corps], vous gagnez un bonus aux jet de dégâts. Ce bonus augmente en même temps que votre niveau (voir le [tableau d'évolution du barbare], colonne dégâts de rage).
+* Vous devenez résistant aux dégâts [contondants], [perforants] et [tranchants].
 
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.
 
-Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.
+Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes [inconscient] ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une [action bonus] pour mettre fin à cet état pendant votre tour.
 
-Une fois que vous êtes entré en état de rage le nombre de fois permis par votre niveau (voir le tableau d'évolution du barbare, colonne rages), vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.
+Une fois que vous êtes entré en état de rage le nombre de fois permis par votre niveau (voir le [tableau d'évolution du barbare], colonne rages), vous devez terminer un [repos long] avant de pouvoir entrer de nouveau en rage.
 
 [][Generic]
 
 ## Défense sans armure
 
-Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Constitution]. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
+Tant que vous ne portez pas d'armure, votre [classe d'armure] est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Constitution]. Vous pouvez utiliser un [bouclier] et bénéficier de cette aptitude.
 
 [][Generic]
 
 ## Témérité
 
-À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un avantage sur toutes vos attaques de corps-à-corps basées sur la [Force] pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un avantage jusqu'à votre prochain tour.
+À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un avantage sur toutes vos attaques de corps-à-corps basées sur la [Force] pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [avantage] jusqu'à votre prochain tour.
 
 [][Generic]
 
@@ -95,7 +97,7 @@ Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + v
 
 Quand vous atteignez le niveau 2, vous développez la capacité instinctive de ressentir si quelque chose ne tourne pas rond dans votre environnement, ce qui vous donne un temps d'avance quand vous tentez d'esquiver un danger.
 
-Vous bénéficiez d'un avantage sur vos [jets de sauvegarde] de [Dextérité] contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être aveuglé, assourdi ni neutralisé.
+Vous bénéficiez d'un avantage sur vos [jets de sauvegarde] de [Dextérité] contre les dangers que vous pouvez voir, comme les pièges et les sorts. Pour bénéficier de cette aptitude, vous ne devez pas être [aveuglé], [assourdi] ni [neutralisé].
 
 [][Generic]
 
@@ -119,15 +121,15 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## Déplacement rapide
 
-À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure lourde.
+À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde].
 
 [][Generic]
 
 ## Instinct sauvage
 
-Au niveau 7, votre instinct s'est affiné au point que vous bénéficiez d'un avantage sur vos jets d'initiative.
+Au niveau 7, votre instinct s'est affiné au point que vous bénéficiez d'un [avantage] sur vos jets d'[initiative].
 
-De plus, si vous êtes surpris au début d'un combat mais que vous n'êtes pas neutralisé, vous avez la possibilité d'agir normalement pendant votre premier tour si vous le commencez en entrant dans un état de rage.
+De plus, si vous êtes [surpris] au début d'un combat mais que vous n'êtes pas [neutralisé], vous avez la possibilité d'agir normalement pendant votre premier tour si vous le commencez en entrant dans un état de [rage].
 
 [][Generic]
 
@@ -149,7 +151,7 @@ Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un re
 
 ## Rage ininterrompue
 
-À partir du niveau 15, vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes inconscient ou que vous choisissez de sortir de cet état.
+À partir du niveau 15, vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes [inconscient] ou que vous choisissez de sortir de cet état.
 
 [][Generic]
 
@@ -176,7 +178,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 ## [Voie du hurlement] 
 
-
+[][]
 
 
 
@@ -207,6 +209,45 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 [voie de l'acier]: barbarian_steel_hd.md
 [voie du hurlement]: barbarian_howling_hd.md
 
+
+[action bonus]: #action-bonus
+[arme courante]: equipment_hd_with_type_armecourante.md
+[arme de corps-à-corps]: equipment_hd_with_type_armedecorpsàcorps.md
+[arme de guerre de corps-à-corps]: equipment_hd_with_type_armedecorpsàcorps.md
+[armes courantes]: #armes-courantes
+[armes de guerre]: #armes-de-guerre
+[armure lourde]: equipment_hd_with_type_armurelourde.md
+[armures intermédiaires]: equipment_hd_with_type_armureintermédiaire.md
+[armures légères]: equipment_hd_with_type_armurelégère.md
+[assourdi]: conditions_hd.md#assourdi
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[avantage]: #avantage
+[aveuglé]: conditions_hd.md#aveuglé
+[bouclier]: equipment_hd.md#bouclier
+[boucliers]: equipment_hd.md#bouclier
+[classe d'armure]: #classe-darmure
+[contondants]: #contondants
+[Dressage]: #dressage
+[hache à deux mains]: #hache-à-deux-mains
+[hachettes]: equipment_hd.md#hachette
+[inconscient]: conditions_hd.md#inconscient
+[initiative]: #initiative
+[Intimidation]: #intimidation
+[javelines]: equipment_hd.md#javeline
+[Nature]: #nature
+[neutralisé]: conditions_hd.md#neutralisé
+[paquetage d'explorateur]: equipment_hd.md#paquetage-dexplorateur
+[Perception]: #perception
+[perforants]: #perforants
+[repos long]: #repos-long
+[surpris]: conditions_hd.md#surpris
+[Survie]: #survie
+[tableau d'évolution du barbare]: #tableau-dévolution-du-barbare
+[tranchants]: #tranchants
+
+
+
+
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
 [Constitution]: abilities_constitution_hd.md
@@ -220,3 +261,4 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 [Items]: #
 [Generic]: #
+[]: #

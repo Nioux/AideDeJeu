@@ -54,8 +54,25 @@ namespace AideDeJeu.Tools
             var linkInline = paragraphBlock?.Inline?.FirstChild as LinkInline;
             if (linkInline != null)
             {
+                var label = linkInline.Label;
                 var title = linkInline.Title;
-                if (title == string.Empty)
+                if (title == string.Empty && label != string.Empty)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        public static bool IsClosingItem(this Block block)
+        {
+            var paragraphBlock = block as ParagraphBlock;
+            var linkInline = paragraphBlock?.Inline?.FirstChild as LinkInline;
+            if (linkInline != null)
+            {
+                var label = linkInline.Label;
+                var title = linkInline.Title;
+                if (title == string.Empty && label == string.Empty)
                 {
                     return true;
                 }
