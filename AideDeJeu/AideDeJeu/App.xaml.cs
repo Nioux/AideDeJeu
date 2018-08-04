@@ -17,7 +17,9 @@ namespace AideDeJeu
             DependencyService.Register<MainViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
             var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()) { Title = "Aide de Jeu" });
-            var navigationPage = new MainNavigationPage(mainPage);
+            var titlered = (Color)Resources["titlered"];
+            var bgtan = (Color)Resources["bgtan"];
+            var navigationPage = new MainNavigationPage(mainPage) { BarBackgroundColor = titlered, BarTextColor = bgtan };
             vm.Navigator = new Navigator(navigationPage.Navigation);
             MainPage = navigationPage;
         }

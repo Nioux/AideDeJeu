@@ -178,7 +178,6 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 ## [Voie du hurlement] 
 
-[][]
 
 
 
@@ -261,4 +260,3 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 [Items]: #
 [Generic]: #
-[]: #
