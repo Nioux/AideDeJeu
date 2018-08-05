@@ -58,15 +58,8 @@ namespace AideDeJeuLib
                         Name = headingBlock.Inline.ToMarkdownString();
 
                     }
-                    else
-                    {
-                        Header += headingBlock.ToMarkdownString();
-                    }
                 }
-                else
-                {
-                    Header += block.ToMarkdownString();
-                }
+                Header += block.ToMarkdownString();
                 enumerator.MoveNext();
             }
         }

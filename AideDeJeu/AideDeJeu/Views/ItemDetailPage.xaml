@@ -17,7 +17,6 @@
     </ContentPage.ToolbarItems>
     <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
         <mdview:MarkdownView 
-            x:Name="mdMarkdown" 
             Theme="{StaticResource MonsterMarkdownTheme}" 
             Markdown="{Binding Item.Markdown}" 
             NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"

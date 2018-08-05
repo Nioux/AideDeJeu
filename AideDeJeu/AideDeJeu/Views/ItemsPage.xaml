@@ -20,7 +20,6 @@
     <ListView BackgroundColor="{StaticResource bgtan}" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
         <ListView.Header>
             <mdview:MarkdownView 
-                x:Name="mdMarkdown" 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
                 Markdown="{Binding BindingContext.Items.Header, Source={x:Reference This}}" 
                 NavigateToLinkCommand="{Binding BindingContext.Main.Navigation.NavigateToLinkCommand, Source={x:Reference This}}"
