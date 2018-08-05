@@ -12,6 +12,7 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
@@ -29,7 +30,7 @@
             <DataTemplate>
                 <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
                     <StackLayout Padding="10" Orientation="Vertical">
-                        <Label Text="{Binding DisplayName}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                        <Label Text="{Binding DisplayName}" LineBreakMode="NoWrap" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}}" />
                         <Label Text="{Binding AltNameText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
                     </StackLayout>
                 </ViewCell>
