@@ -11,10 +11,11 @@
     using Extensions;
     using Markdig;
     using System.Threading.Tasks;
+    using System.Windows.Input;
 
     public class MarkdownView : ContentView
     {
-        public Func<string, Task> NavigateToLink { get; set; } = async(s) => Device.OpenUri(new Uri(s));
+        //public Func<string, Task> NavigateToLink { get; set; } = async(s) => Device.OpenUri(new Uri(s));
 
         public static MarkdownTheme Global = new LightMarkdownTheme();
 
@@ -41,6 +42,17 @@
         }
 
         public static readonly BindableProperty ThemeProperty = BindableProperty.Create(nameof(Theme), typeof(MarkdownTheme), typeof(MarkdownView), Global, propertyChanged: OnMarkdownChanged);
+
+
+        public ICommand NavigateToLinkCommand
+        {
+            get { return (ICommand)GetValue(NavigateToLinkCommandProperty); }
+            set { SetValue(NavigateToLinkCommandProperty, value); }
+        }
+
+        public static readonly BindableProperty NavigateToLinkCommandProperty = BindableProperty.Create(nameof(NavigateToLinkCommand), typeof(ICommand), typeof(MarkdownView)); //, Global, propertyChanged: OnMarkdownChanged);
+
+
 
         private bool isQuoted;
 
@@ -101,11 +113,13 @@
                             {
                                 var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
                                 var link = blockLinks.FirstOrDefault(x => x.Key == result);
-                                await NavigateToLink(link.Value);
+                                //await NavigateToLink(link.Value);
+                                NavigateToLinkCommand?.Execute(link.Value);
                             }
                             else
                             {
-                                await NavigateToLink(blockLinks.First().Value);
+                                //await NavigateToLink(blockLinks.First().Value);
+                                NavigateToLinkCommand?.Execute(blockLinks.First().Value);
                             }
                         }
                         catch (Exception) { }

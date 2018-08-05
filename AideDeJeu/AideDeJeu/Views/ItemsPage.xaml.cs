@@ -31,7 +31,7 @@ namespace AideDeJeu.Views
 
             BindingContext = _ItemsViewModel = itemsViewModel;
 
-            mdMarkdown.NavigateToLink = async (s) => await itemsViewModel.Main.Navigator.NavigateToLinkAsync(s);
+            //mdMarkdown.NavigateToLink = async (s) => await itemsViewModel.Main.Navigator.NavigateToLinkAsync(s);
         }
         public ItemsPage()
         {

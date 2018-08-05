@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Windows.Input;
 using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
@@ -52,6 +53,14 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new FilteredItemsPage(itemsVM));
         }
 
+        private ICommand _NavigateToLinkCommand = null;
+        public ICommand NavigateToLinkCommand
+        {
+            get
+            {
+                return _NavigateToLinkCommand ?? (_NavigateToLinkCommand = new Command<string>(async(s) => await NavigateToLinkAsync(s)));
+            }
+        }
 
         public async Task NavigateToLinkAsync(string s)
         {

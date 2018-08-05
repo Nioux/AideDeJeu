@@ -4,7 +4,8 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              x:Class="AideDeJeu.Views.ItemDetailPage"
-             Title="{Binding Title}">
+             Title="{Binding Title}"
+             x:Name="This">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -15,6 +16,11 @@
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
     </ContentPage.ToolbarItems>
     <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
-        <mdview:MarkdownView x:Name="mdMarkdown" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Item.Markdown}" />
+        <mdview:MarkdownView 
+            x:Name="mdMarkdown" 
+            Theme="{StaticResource MonsterMarkdownTheme}" 
+            Markdown="{Binding Item.Markdown}" 
+            NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
+            />
     </ScrollView>
 </ContentPage>
