@@ -181,18 +181,28 @@
                 <Setter Property="FontSize" Value="26" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading2">
                 <Setter Property="FontSize" Value="22" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading3">
                 <Setter Property="FontSize" Value="20" />
                 <Setter Property="TextColor" Value="{StaticResource titlered}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="heading4">
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="NavigationPage">

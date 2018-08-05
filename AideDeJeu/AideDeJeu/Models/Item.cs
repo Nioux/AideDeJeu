@@ -8,13 +8,6 @@ namespace AideDeJeuLib
     {
         public string Name { get; set; }
         public int NameLevel { get; set; }
-        public string DisplayName
-        {
-            get
-            {
-                return new string(' ', NameLevel * 4) + Name;
-            }
-        }
         public string AltName { get; set; }
         public string AltNameText
         {
