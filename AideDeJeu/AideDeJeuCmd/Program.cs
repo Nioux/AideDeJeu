@@ -272,6 +272,14 @@ namespace AideDeJeuCmd
                     alllinks.Add(name, links);
                     var names = GetMarkdownAnchorNames(md).ToList();
                     allnames.Add(name, names);
+                }
+            }
+            foreach (var resname in resnames)
+            {
+                if (resname.EndsWith(".md"))
+                {
+                    var name = resname.Substring(15, resname.Length - 18);
+                    var md = await Helpers.GetResourceStringAsync(resname);
                     var unlinkedrefs = GetMarkdownUnlinkedRefs(md).ToList();
                     if (unlinkedrefs.Count > 0)
                     {
@@ -279,16 +287,36 @@ namespace AideDeJeuCmd
                         Console.WriteLine();
                         foreach (var unlinkedref in unlinkedrefs.Distinct().OrderBy(i => i))
                         {
-                            var file = "";
+                            //var file = "";
+                            var files = new Dictionary<string, string>();
+                            foreach(var aalinks in alllinks)
+                            {
+                                var found = aalinks.Value.FirstOrDefault(t => t.Item2 == Helpers.IdFromName(unlinkedref));
+                                if(found != null)
+                                {
+                                    files[found.Item1] = $"{found.Item1}.md";
+                                    //file = $"{found.Item1}.md";
+                                    //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
+                                }
+                            }
                             foreach(var aanchors in allanchors)
                             {
                                 if(aanchors.Value.Contains(Helpers.IdFromName(unlinkedref)))
                                 {
-                                    file = $"{aanchors.Key}.md";
-                                    break;
+                                    files[aanchors.Key] = $"{aanchors.Key}.md";
+                                    //file = $"{aanchors.Key}.md";
+                                    //Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
+                                    //break;
                                 }
                             }
-                            Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
+                            if(files.Count == 0)
+                            {
+                                files[""] = "";
+                            }
+                            foreach (var file in files)
+                            {
+                                Console.WriteLine($"[{unlinkedref}]: {file.Value}#{Helpers.IdFromName(unlinkedref)}");
+                            }
                         }
                         Console.WriteLine();
                         Console.WriteLine();
@@ -379,7 +407,7 @@ namespace AideDeJeuCmd
 
         public static IEnumerable<string> GetMarkdownAnchorNames(string md)
         {
-            var regex = new Regex($"\\n##? (?<name>.*?)\\n");
+            var regex = new Regex($"\\n##* (?<name>.*?)\\s*?\\n");
             var matches = regex.Matches(md);
             foreach (Match match in matches)
             {

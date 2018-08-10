@@ -102,7 +102,7 @@
         {
             if (links.Any())
             {
-                var blockLinks = links.Distinct().OrderBy(l => l.Value).ToList();
+                var blockLinks = links.Distinct().OrderBy(l => l.Key).ToList();
                 view.GestureRecognizers.Add(new TapGestureRecognizer
                 {
                     Command = new Command(async () => 

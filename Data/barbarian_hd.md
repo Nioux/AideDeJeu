@@ -213,7 +213,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 [arme courante]: equipment_hd_with_type_armecourante.md
 [arme de corps-à-corps]: equipment_hd_with_type_armedecorpsàcorps.md
 [arme de guerre de corps-à-corps]: equipment_hd_with_type_armedecorpsàcorps.md
-[armes courantes]: #armes-courantes
+[armes courantes]: equipment_hd_with_type_armecourante.md
 [armes de guerre]: #armes-de-guerre
 [armure lourde]: equipment_hd_with_type_armurelourde.md
 [armures intermédiaires]: equipment_hd_with_type_armureintermédiaire.md
@@ -224,26 +224,25 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 [aveuglé]: conditions_hd.md#aveuglé
 [bouclier]: equipment_hd.md#bouclier
 [boucliers]: equipment_hd.md#bouclier
-[classe d'armure]: #classe-darmure
+[classe d'armure]: abilities_dexterity_hd.md#classe-darmure
 [contondants]: #contondants
-[Dressage]: #dressage
-[hache à deux mains]: #hache-à-deux-mains
+[Dressage]: abilities_wisdom_hd.md#dressage
+[hache à deux mains]: equipment_hd.md#hache-à-deux-mains
 [hachettes]: equipment_hd.md#hachette
 [inconscient]: conditions_hd.md#inconscient
-[initiative]: #initiative
-[Intimidation]: #intimidation
+[initiative]: abilities_dexterity_hd.md#initiative
+[Intimidation]: abilities_charisma_hd.md#intimidation
 [javelines]: equipment_hd.md#javeline
-[Nature]: #nature
+[Nature]: abilities_intelligence_hd.md#nature
 [neutralisé]: conditions_hd.md#neutralisé
-[paquetage d'explorateur]: equipment_hd.md#paquetage-dexplorateur
-[Perception]: #perception
+[paquetage d'explorateur]: #paquetage-dexplorateur
+[Perception]: abilities_wisdom_hd.md#perception
 [perforants]: #perforants
-[repos long]: #repos-long
-[surpris]: conditions_hd.md#surpris
+[repos long]: resting_hd.md#repos-long
+[surpris]: #surpris
 [Survie]: #survie
 [tableau d'évolution du barbare]: #tableau-dévolution-du-barbare
 [tranchants]: #tranchants
-
 
 
 
