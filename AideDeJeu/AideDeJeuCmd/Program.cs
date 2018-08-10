@@ -279,7 +279,16 @@ namespace AideDeJeuCmd
                         Console.WriteLine();
                         foreach (var unlinkedref in unlinkedrefs.Distinct().OrderBy(i => i))
                         {
-                            Console.WriteLine($"[{unlinkedref}]: #{Helpers.IdFromName(unlinkedref)}");
+                            var file = "";
+                            foreach(var aanchors in allanchors)
+                            {
+                                if(aanchors.Value.Contains(Helpers.IdFromName(unlinkedref)))
+                                {
+                                    file = $"{aanchors.Key}.md";
+                                    break;
+                                }
+                            }
+                            Console.WriteLine($"[{unlinkedref}]: {file}#{Helpers.IdFromName(unlinkedref)}");
                         }
                         Console.WriteLine();
                         Console.WriteLine();
