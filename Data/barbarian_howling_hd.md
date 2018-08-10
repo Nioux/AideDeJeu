@@ -54,7 +54,8 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 [Intimidation]: abilities_charisma_hd.md#intimidation
-[Force (Intimidation)]: abilities_hd.md#option---compétences-associées-avec-différentes-caractéristiques
+[Force (Intimidation)]: abilities_hd.md#option--compétences-associées-avec-différentes-caractéristiques
+
 
 
 [Items]: #

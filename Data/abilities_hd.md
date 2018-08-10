@@ -102,6 +102,8 @@ Degrés de difficulté typiques
 
 Pour faire un test de caractéristique, lancez un d20 et ajoutez le modificateur de caractéristique approprié. Comme pour tous les autres jets de d20, appliquez les bonus et malus et comparez le total au DD. Si le total est supérieur ou égal au DD, le test de caractéristique est un succès : la créature a réussi à surmonter le défi auquel elle était confrontée. Sinon, c'est un échec, ce qui signifie que le personnage ou le monstre ne progresse pas vers son objectif ou qu'il progresse, mais avec un effet négatif déterminé par le MJ.
 
+[][Generic]
+
 ## Opposition
 
 Il peut arriver que les efforts d'un personnage ou d'un monstre se retrouvent directement opposés à ceux d'un autre. Cela peut se produire si tous les deux cherchent à réaliser une même action et qu'un seul peut réussir, comme essayer d'attraper un anneau magique qui est tombé par terre. Cette situation survient aussi quand l'un des deux tente d'empêcher l'autre d'atteindre son but, par exemple quand un monstre tente d'ouvrir de force une porte qu'un aventurier est en train de bloquer. Dans ce type de situation, le résultat est déterminé par un type spécial de test de caractéristique appelé test opposé ou test en opposition.
@@ -109,6 +111,8 @@ Il peut arriver que les efforts d'un personnage ou d'un monstre se retrouvent di
 Les deux créatures qui s'opposent font un test de caractéristique correspondant à l'action qu'ils tentent de réaliser. Ils appliquent tous les bonus et malus appropriés mais, au lieu de comparer leur résultat à un DD, ils comparent leurs résultats entre eux. Le personnage ou le monstre qui a le résultat le plus élevé l'emporte et réussit son action, ou empêche son adversaire de réussir sa propre action.
 
 Si les résultats des tests sont identiques, la situation n'évolue pas et reste la même qu'auparavant. Une des deux créatures peut donc gagner par défaut. Si deux personnages s'opposent pour tenter d'attraper un anneau qui est tombé par terre se retrouvent à égalité, aucun ne réussit à l'attraper. Si un monstre qui cherche à ouvrir de force une porte s'oppose à un aventurier qui essaie de la garder fermée et qu'ils se retrouvent à égalité, cela signifie que la porte reste fermée.
+
+[][Generic]
 
 ## Compétences
 
@@ -150,6 +154,8 @@ Il peut arriver que le MJ demande un test de caractéristique lié à une compé
 
 Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force] ([Athlétisme]). Si le personnage maîtrise la compétence [Athlétisme], il ajoute son bonus de maîtrise à son test de [Force]. S'il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
 
+[][Generic]
+
 ### Option : compétences associées avec différentes caractéristiques
 
 Normalement, votre maîtrise d'une compétence n'intervient que dans des tests de caractéristique spécifiques. Maîtriser l'[Athlétisme], par exemple, n'est généralement utile que pour les tests de [Force]. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests.
@@ -157,6 +163,8 @@ Normalement, votre maîtrise d'une compétence n'intervient que dans des tests d
 Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de [Constitution] pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'[Athlétisme] et demander un test de [Constitution] ([Athlétisme]). Si vous maîtrisez la compétence [Athlétisme], vous appliquez votre bonus de maîtrise au test de [Constitution] comme vous le feriez pour un test de [Force] ([Athlétisme]).
 
 De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence [Intimidation] est normalement associée au [Charisme].
+
+[][Generic]
 
 ## Tests passifs
 
@@ -181,6 +189,8 @@ Parfois, deux personnages ou plus se rassemblent pour tenter de réaliser une ac
 Un personnage peut seulement apporter son aide s'il serait en mesure d'accomplir l'action seul. Par exemple, essayer de crocheter une serrure demande de maîtriser les outils de voleur, donc un personnage qui ne dispose pas de cette maîtrise ne pourra pas aider un autre personnage qui tente d'accomplir cette tâche. De plus, un personnage ne peut en aider un autre que si l'association de deux individus ou plus permet de réaliser cette tâche plus facilement.
 
 Certaines tâches, comme enfiler un fil dans le chas d'une aiguille, ne sont pas simplifiées parce qu'on vous aide.
+
+[][Generic]
 
 ### Tests de groupe
 
@@ -271,6 +281,7 @@ Le résultat d'un jet de sauvegarde réussi ou raté est indiqué dans la descri
 [Représentation]: abilities_charisma_hd.md#représentation
 [Supercherie]: abilities_charisma_hd.md#supercherie
 [Survie]: abilities_wisdom_hd.md#survie
+
 
 
 [Items]: #

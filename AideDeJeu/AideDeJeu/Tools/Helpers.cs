@@ -80,7 +80,7 @@ namespace AideDeJeu.Tools
                 {
                     id += '-';
                 }
-                else if(c== '\'' || c == '/' || c == '(' || c ==')')
+                else if(c== '\'' || c == '/' || c == '(' || c ==')' || c == ':')
                 {
                     // vide
                 }
