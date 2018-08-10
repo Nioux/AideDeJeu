@@ -25,7 +25,7 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 **Problème de taille.** Vous êtes grand et massif… trop grand et trop massif. Vos armures doivent être taillées sur mesure pour votre taille et votre corpulence. Quand vous achetez une armure, vous devez payer le double de son prix. De même, lorsque vous faites ajuster une armure magique à votre taille, vous devez payer un prix égal au prix de l'armure magique concernée. Si vous portez une armure qui n'a pas été spécialement ajustée à votre taille, votre CA est réduite de 1.
 
-**Paria.** Votre nature même rend souvent les gens nerveux. Vous êtes craint par les races civilisées et méprisé par les ogres. Vous subissez d'un désavantage sur vos tests de [Charisme] (Persuasion) et [Charisme] (Supercherie). De plus, la plupart des gens ont une attitude méfiante, au mieux, vis-àvis de vous : les gardes vous contrôlent, vous êtes victime de délit de sale gueule et il n'est pas rare que vous soyez le bouc émissaire rêvé pour les populations locales.
+**Paria.** Votre nature même rend souvent les gens nerveux. Vous êtes craint par les races civilisées et méprisé par les ogres. Vous subissez d'un désavantage sur vos tests de [Charisme] ([Persuasion]) et [Charisme] ([Supercherie]). De plus, la plupart des gens ont une attitude méfiante, au mieux, vis-àvis de vous : les gardes vous contrôlent, vous êtes victime de délit de sale gueule et il n'est pas rare que vous soyez le bouc émissaire rêvé pour les populations locales.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun ainsi que le géant.
 
@@ -37,5 +37,9 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Supercherie]: abilities_charisma_hd.md#supercherie
+
 
 [Generic]: #

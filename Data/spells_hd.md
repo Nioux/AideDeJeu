@@ -283,7 +283,7 @@ Vous pouvez faire croire que chaque créature affectée est plus petite ou plus 
 
 Les changements apportés par le sort ne résistent pas à un examen physique. Par exemple, si vous l'utilisez pour ajouter un chapeau à la tenue de la cible, les objets passent au travers et toute personne qui essaie de le toucher ne sentira que de l'air ou des cheveux et un crâne. Si vous utilisez le sort pour la faire paraître plus mince qu'en réalité, la main de quelqu'un qui tente de la toucher se heurtera à son corps alors que, visuellement, elle semble encore dans le vide.
 
-Une créature peut utiliser son action pour examiner une cible et faire un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] du sort. Si elle le réussit, elle comprend que la cible est déguisée.
+Une créature peut utiliser son action pour examiner une cible et faire un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] du sort. Si elle le réussit, elle comprend que la cible est déguisée.
 
 
 
@@ -2174,9 +2174,9 @@ Le niveau de l'eau reste plus élevé jusqu'à la fin du sort ou jusqu'à ce que
 
 **_Modifier le cours de l'eau._** Vous changez l'itinéraire de l'eau courante qui traverse la zone et l'envoyez dans la direction de votre choix, même si elle doit pour cela franchir des obstacles comme passer par-dessus un mur ou couler dans une direction improbable. L'eau suit vos instructions dans la zone affectée mais, dès qu'elle en sort, elle reprend un cours normal défini par le terrain qu'elle parcourt. L'eau continue de couler là où vous l'avez choisi jusqu'à la fin du sort ou jusqu'à ce que vous décidiez d'un autre effet.
 
-**_Tourbillon._** Cet effet nécessite une étendue d'eau d'au moins 15 mètres carrés pour 7,50 mètres de fond et se traduit par la formation d'un tourbillon au centre de la zone. Il se présente sous forme d'un vortex de 1,50 mètre de large à sa base pour un maximum de 15 mètres de large au sommet et une hauteur de 7,50 mètres. Toutes les créatures et tous les objets qui se trouvent dans l'eau et dans un rayon de 7,50 mètres autour du tourbillon sont entraînés vers lui sur 3 mètres. Une créature peut s'éloigner à la nage si elle réussit un test de [Force] (Athlétisme) contre le DD du [jet de sauvegarde] de votre sort.
+**_Tourbillon._** Cet effet nécessite une étendue d'eau d'au moins 15 mètres carrés pour 7,50 mètres de fond et se traduit par la formation d'un tourbillon au centre de la zone. Il se présente sous forme d'un vortex de 1,50 mètre de large à sa base pour un maximum de 15 mètres de large au sommet et une hauteur de 7,50 mètres. Toutes les créatures et tous les objets qui se trouvent dans l'eau et dans un rayon de 7,50 mètres autour du tourbillon sont entraînés vers lui sur 3 mètres. Une créature peut s'éloigner à la nage si elle réussit un test de [Force] ([Athlétisme]) contre le DD du [jet de sauvegarde] de votre sort.
 
-Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un [jet de sauvegarde] de [Force]. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de [Force] (Athlétisme). À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
+Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un [jet de sauvegarde] de [Force]. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de [Force] ([Athlétisme]). À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
 
 
 
@@ -2474,7 +2474,7 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 
 Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se met à se déformer et donne naissance à un tapis de pointes et d'épines. La zone se mue en terrain difficile pendant toute la durée du sort. Quand une créature entre dans la zone ou s'y déplace, elle reçoit 2d4 dégâts perforants par tranche de 1,50 mètre parcouru.
 
-La transformation du sol est camouflée, de manière à ce que le terrain ait l'air naturel. Une créature dans l'incapacité de voir la zone au moment de l'incantation doit réussir un test de [Sagesse] (Perception) contre le DD du [jet de sauvegarde] de votre sort pour remarquer que le terrain est dangereux avant d'y entrer.
+La transformation du sol est camouflée, de manière à ce que le terrain ait l'air naturel. Une créature dans l'incapacité de voir la zone au moment de l'incantation doit réussir un test de [Sagesse] ([Perception]) contre le DD du [jet de sauvegarde] de votre sort pour remarquer que le terrain est dangereux avant d'y entrer.
 
 
 
@@ -2574,7 +2574,7 @@ Vous faites en sorte que votre personne (y compris vos vêtements, votre armure,
 
 Les changements qu'apporte le sort ne résistent pas à un examen physique. Par exemple, si vous l'utilisez pour ajouter un chapeau à votre tenue, les objets passent au travers et toute personne qui essaie de le toucher ne sentira que de l'air, ou des cheveux et un crâne. Si vous utilisez le sort pour paraître plus mince qu'en réalité, la main de quelqu'un qui tente de vous toucher se heurtera à vous alors que, visuellement, elle semble encore dans le vide.
 
-Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] du sort.
+Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] du sort.
 
 
 
@@ -3288,7 +3288,7 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 
 ### Description
 
-Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un [jet de sauvegarde] de [Sagesse]. Une créature qui ne peut pas être [charmée] réussit automatiquement ce [jet de sauvegarde]. Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un avantage lors du [jet de sauvegarde]. Si la créature rate son jet, elle subit un désavantage lors des tests de [Sagesse] (Perception) destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [neutralisé] ou dans l'incapacité de parler.
+Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un [jet de sauvegarde] de [Sagesse]. Une créature qui ne peut pas être [charmée] réussit automatiquement ce [jet de sauvegarde]. Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un avantage lors du [jet de sauvegarde]. Si la créature rate son jet, elle subit un désavantage lors des tests de [Sagesse] ([Perception]) destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [neutralisé] ou dans l'incapacité de parler.
 
 
 
@@ -3976,7 +3976,7 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 
 Vous entrez dans un objet ou une surface de pierre assez grande pour contenir entièrement votre corps, votre personne et votre équipement fusionnant avec la pierre pendant toute la durée du sort. Vous utilisez votre déplacement pour entrer dans la pierre en un point que vous êtes en mesure de toucher. Il ne reste alors rien de visible ni de détectable indiquant votre présence pour des sens non-magiques.
 
-Tant que vous êtes fusionné avec la pierre, vous ne voyez pas ce qui se passe à l'extérieur et vous êtes affecté par un désavantage lors des tests de [Sagesse] (Perception) destinés à entendre les sons qui retentissent à l'extérieur de la pierre.
+Tant que vous êtes fusionné avec la pierre, vous ne voyez pas ce qui se passe à l'extérieur et vous êtes affecté par un désavantage lors des tests de [Sagesse] ([Perception]) destinés à entendre les sons qui retentissent à l'extérieur de la pierre.
 
 Vous restez conscient du temps qui passe et vous pouvez lancer des sorts à portée personnelle. Vous pouvez utiliser votre déplacement pour quitter la pierre par l'endroit par où vous y êtes entré, ce qui met fin au sort. En dehors de cela, vous êtes dans l'incapacité de vous déplacer.
 
@@ -4074,7 +4074,7 @@ Lorsque vous lancez ce sort, vous inscrivez un glyphe capable de blesser autrui,
 
 Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
 
-Le glyphe est presque [invisible]. Pour le discerner, il faut réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort.
+Le glyphe est presque [invisible]. Pour le discerner, il faut réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort.
 
 Lors de l'incantation, c'est à vous de décider de ce qui déclenchera le sort. Pour les glyphes tracés sur une surface quelconque, les déclencheurs les plus courants consistent à toucher le glyphe ou se tenir dessus, à déplacer un objet recouvrant le glyphe, à s'approcher à une certaine distance du glyphe ou encore à manipuler l'objet sur lequel le glyphe est tracé. Pour les glyphes inscrits dans un objet, on trouve parmi les déclencheurs les plus répandus le fait d'ouvrir l'objet, de s'en approcher à une certaine distance ou de voir ou de lire le glyphe. Le sort se termine dès que le glyphe se déclenche.
 
@@ -4308,7 +4308,7 @@ Si vous créez un son, son volume peut aller du simple murmure au hurlement. Ce 
 
 Si vous créez une image (comme une chaise, des empreintes boueuses ou un petit coffre), elle doit tenir dans un cube de 1,50 mètre d'arête. L'image ne s'accompagne pas de son, de lumière, d'odeur, ni d'autre effet sensoriel. Une interaction physique avec l'image révèle immédiatement qu'elle n'est qu'une illusion, car les objets la traversent.
 
-Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'[Intelligence] (Investigation) opposé au DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
+Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'[Intelligence] ([Investigation]) opposé au DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
 
 
 
@@ -4334,7 +4334,7 @@ Quand les conditions spécifiées se présentent, l'illusion apparaît et se com
 
 Les conditions de déclenchement peuvent être aussi génériques ou détaillées que vous le souhaitez, mais elles doivent toujours se baser sur des éléments visuels ou audibles se produisant dans un rayon de 9 mètres autour de la zone du sort. Par exemple, vous pouvez créer une illusion de vous-même qui apparaît pour avertir d'autres gens quand ils tentent d'ouvrir une porte piégée, ou vous pouvez programmer votre illusion pour qu'elle se déclenche seulement quand une créature prononce le mot de passe correct.
 
-Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
+Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
 
 
 
@@ -4358,7 +4358,7 @@ Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible pas 
 
 Tant que vous êtes à portée de l'illusion, vous pouvez utiliser votre action pour déplacer l'image vers un autre point situé à portée. Quand l'image bouge, vous pouvez modifier son apparence de manière à ce que ses mouvements paraissent naturels. Par exemple, si vous créez l'image d'une créature et la déplacez, vous pouvez modifier l'image pour donner l'impression que la créature marche. De même, vous pouvez modifier les sons que l'image émet, à tel point que vous pouvez lui faire tenir une conversation, par exemple.
 
-Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et ne perçoit plus que faiblement ses autres propriétés sensorielles.
+Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et ne perçoit plus que faiblement ses autres propriétés sensorielles.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, le sort persiste jusqu'à dissipation, sans que vous ayez besoin de vous concentrer.
 
@@ -4418,7 +4418,7 @@ Vous pouvez utiliser votre action pour déplacer votre illusion jusqu'au double 
 
 Vous pouvez entendre et voir par l'intermédiaire des oreilles et des yeux de votre double, comme si vous occupiez son emplacement. À votre tour, vous pouvez dépenser une action bonus pour passer de l'utilisation de ses sens à celle des vôtres et inversement. Tant que vous utilisez ses sens, vous êtes aveugle et sourd à votre propre environnement.
 
-Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
+Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
 
 
 
@@ -4442,7 +4442,7 @@ Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible tena
 
 Vous pouvez utiliser votre action pour déplacer l'image vers un autre point à portée. Pendant qu'elle se déplace, vous pouvez modifier son apparence pour donner l'impression d'un mouvement naturel. Par exemple, si vous créez l'image d'une créature et que vous la déplacez, vous pouvez modifier l'image pour donner l'impression que la créature est en train de marcher.
 
-Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image.
+Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image.
 
 
 
@@ -5480,7 +5480,7 @@ Lorsque vous lancez le sort, puis via une action bonus lors de vos tours ultéri
 
 **_Main interposée._** La main s'interpose entre vous et une créature de votre choix jusqu'à ce que vous lui donniez un autre ordre. Elle se déplace de manière à toujours rester entre vous et la cible désignée et vous offre un abri partiel contre elle. La cible ne peut pas franchir la zone occupée par la main si sa valeur de [Force] est inférieure ou égale à celle de la main. Si elle est supérieure, elle peut se déplacer dans votre direction en traversant la zone de la main, mais cette zone est considérée pour elle comme un terrain difficile.
 
-**_Main percutante._** La main tente de bousculer une créature située dans un rayon de 1,50 mètre dans la direction de votre choix. Faites un test avec la [Force] de la main opposé au test de [Force] (Athlétisme) de la cible.
+**_Main percutante._** La main tente de bousculer une créature située dans un rayon de 1,50 mètre dans la direction de votre choix. Faites un test avec la [Force] de la main opposé au test de [Force] ([Athlétisme]) de la cible.
 
 Si cette dernière est de taille M ou inférieur, vous bénéficiez d'un avantage lors du test. Si vous l'emportez, la main pousse la cible sur 1,50 mètre plus 1,50 mètre multiplié par votre modificateur de caractéristique d'incantation. La main se déplace de manière à rester à moins de 1,50 mètre de la cible.
 
@@ -5632,7 +5632,7 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 
 ### Description
 
-Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'avantage sur les éventuels tests de [Sagesse] (Perception) ou [Sagesse] (Survie) que vous faites pour la retrouver. Si la cible tombe à 0 point de vie avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
+Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'avantage sur les éventuels tests de [Sagesse] ([Perception]) ou [Sagesse] ([Survie]) que vous faites pour la retrouver. Si la cible tombe à 0 point de vie avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou 4, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
 
@@ -6646,7 +6646,7 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 
 Une aura d'ombre et de silence émane de vous et enveloppe vos compagnons, vous dissimulant aux sens d'autrui.
 
-Pendant toute la durée du sort, chaque créature que vous choisissez et qui se trouve dans un rayon de 9 mètres (vous y compris) bénéficie d'un bonus de +10 aux tests de [Dextérité] (Discrétion) et il devient impossible de suivre sa piste à moins de recourir à des méthodes magiques.
+Pendant toute la durée du sort, chaque créature que vous choisissez et qui se trouve dans un rayon de 9 mètres (vous y compris) bénéficie d'un bonus de +10 aux tests de [Dextérité] ([Discrétion]) et il devient impossible de suivre sa piste à moins de recourir à des méthodes magiques.
 
 Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni aucun autre indice de son passage.
 
@@ -8484,7 +8484,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 Quand vous lancez ce sort, vous inscrivez un glyphe néfaste sur une surface (comme une partie du sol, un pan de mur ou une table) ou dans un objet que l'on peut refermer pour le dissimuler, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
 
-Le glyphe est presque [invisible]. Pour le discerner, il faut réussir un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort.
+Le glyphe est presque [invisible]. Pour le discerner, il faut réussir un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort.
 
 C'est lors de l'incantation que vous décidez de ce qui déclenchera le sort. Pour les glyphes tracés sur une surface quelconque, les déclencheurs les plus courants consistent à toucher le glyphe ou à se tenir dessus, à déplacer un objet recouvrant le glyphe, à s'approcher à une certaine distance du glyphe ou encore à manipuler l'objet sur lequel le glyphe est tracé. Pour les glyphes inscrits dans un objet, on trouve parmi les déclencheurs les plus répandus le fait d'ouvrir l'objet, de s'en approcher à une certaine distance, ou de voir ou de lire le glyphe.
 
@@ -8790,7 +8790,7 @@ Vous maquillez le terrain naturel dans un cube de 45 mètres d'arête situé à 
 
 Ainsi, vous pouvez faire passer un champ ou une route pour un marais, une colline, une crevasse ou un autre terrain difficile voire impossible à traverser. Vous pouvez aussi déguiser une mare en prairie, un précipice en pente douce ou un goulet semé de rocaille en route large et aplanie. Les structures manufacturées, l'équipement et les créatures de la zone ne changent pas d'apparence.
 
-Les caractéristiques tactiles de la zone ne changent pas, les créatures qui y pénètrent risquent donc fort de percer l'illusion à jour. Si la différence entre le terrain réel et l'illusion n'est pas évidente au toucher, une créature qui examine soigneusement la zone a droit à un test d'[Intelligence] (Investigation) contre le DD du [jet de sauvegarde] de votre sort pour percer l'illusion à jour.
+Les caractéristiques tactiles de la zone ne changent pas, les créatures qui y pénètrent risquent donc fort de percer l'illusion à jour. Si la différence entre le terrain réel et l'illusion n'est pas évidente au toucher, une créature qui examine soigneusement la zone a droit à un test d'[Intelligence] ([Investigation]) contre le DD du [jet de sauvegarde] de votre sort pour percer l'illusion à jour.
 
 Une fois qu'une créature a compris l'illusion, elle la voit comme une image floue superposée au terrain réel.
 
@@ -8984,7 +8984,7 @@ Une structure s'effondre automatiquement si une fissure s'ouvre sous elle (voir 
 
 **_Structures._** Les secousses infligent 50 dégâts contondants à toute structure en contact avec le sol au moment où vous lancez le sort et au début de chacun de vos tours jusqu'à la fin du sort. Si l'une d'elles tombe à 0 point de vie, elle s'effondre et blesse peut-être les créatures voisines.
 
-Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe à terre et elle est ensevelie sous les décombres. Il faut réussir un test de [Force] (Athlétisme) DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son [jet de sauvegarde], elle subit seulement la moitié des dégâts, ne tombe pas à terre et n'est pas ensevelie.
+Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe à terre et elle est ensevelie sous les décombres. Il faut réussir un test de [Force] ([Athlétisme]) DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son [jet de sauvegarde], elle subit seulement la moitié des dégâts, ne tombe pas à terre et n'est pas ensevelie.
 
 
 
@@ -9387,6 +9387,12 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Perception]: abilities_wisdom_hd.md#perception
+[Survie]: abilities_wisdom_hd.md#survie
 
 [Barbare]: barbarian_hd.md
 [Barde]: bard_hd.md

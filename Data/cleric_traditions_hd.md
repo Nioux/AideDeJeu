@@ -12,7 +12,7 @@ Parmi les clercs, il est des sages formés à un culte plus large que celui d'un
 
 ## Tradition orale
 
-Au niveau 1, vous obtenez la maîtrise de la compétence Histoire. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
+Au niveau 1, vous obtenez la maîtrise de la compétence [Histoire]. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
 
 [][Generic]
 
@@ -79,6 +79,8 @@ Désormais, vous êtes capable de lancer le sort soin des blessures de groupe en
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Histoire]: abilities_intelligence_hd.md#histoire
 
 
 [Items]: #

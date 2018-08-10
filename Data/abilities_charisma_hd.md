@@ -8,13 +8,13 @@ Le Charisme représente votre capacité à interagir avec les autres. Il prend e
 
 ## Tests de Charisme
 
-Un test de Charisme peut se révéler utile si vous tentez d'influencer ou de divertir d'autres personnes, quand vous tentez d'impressionner quelqu'un ou de lui mentir de manière convaincante, ou encore de vous tirer d'une situation délicate en société. Les compétences Supercherie, Intimidation, Représentation et Persuasion représentent des facettes de cette caractéristique utilisées pour certains tests de [Sagesse].
+Un test de Charisme peut se révéler utile si vous tentez d'influencer ou de divertir d'autres personnes, quand vous tentez d'impressionner quelqu'un ou de lui mentir de manière convaincante, ou encore de vous tirer d'une situation délicate en société. Les compétences [Supercherie], [Intimidation], [Représentation] et [Persuasion] représentent des facettes de cette caractéristique utilisées pour certains tests de [Sagesse].
 
 [][Generic]
 
 ### Intimidation
 
-Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de Charisme (Intimidation). Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
+Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de Charisme ([Intimidation]). Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
 
 [][Generic]
 
@@ -61,6 +61,12 @@ Les [bardes], les [paladins], les [ensorceleurs] et les [sorciers] utilisent le 
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Représentation]: abilities_charisma_hd.md#représentation
+[Supercherie]: abilities_charisma_hd.md#supercherie
+
 
 [Items]: #
 [Generic]: #

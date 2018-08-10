@@ -17,20 +17,20 @@ En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Maîtrises
 
-**Armures :** armures légères
-**Armes :** armes courantes
+**Armures :** [armures légères]
+**Armes :** [armes courantes]
 **Outils :** aucun
 **Jets de sauvegarde :** [Sagesse], [Charisme]
-**Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Intimidation, Investigation, Nature, Religion et Supercherie
+**Compétences :** choisissez deux compétences parmi les suivantes : [Arcanes], [Histoire], [Intimidation], [Investigation], [Nature], [Religion] et [Supercherie]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de celui accordé par votre historique :
 
-* (a) une arbalète légère et vingt carreaux ou (b) n'importe quelle arme courante
-* (a) une sacoche à composantes ou (b) un focaliseur arcanique
-* (a) un paquetage d'érudit ou (b) un paquetage d'exploration souterraine
-* une armure de cuir, n'importe quelle arme courante et deux dagues
+* (a) une [arbalète légère] et vingt [carreaux] ou (b) n'importe quelle [arme courante]
+* (a) une [sacoche à composantes] ou (b) un [focaliseur arcanique]
+* (a) un [paquetage d'érudit] ou (b) un [paquetage d'exploration souterraine]
+* une [armure de cuir], n'importe quelle [arme courante] et deux [dagues]
 
 
 
@@ -205,6 +205,20 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[arbalète légère]: equipment_hd.md#arbalète-légère
+[Arcanes]: abilities_intelligence_hd.md#arcanes
+[armure de cuir]: equipment_hd.md#armure-de-cuir
+[armures légères]: equipment_properties_hd.md#armures-légères
+[focaliseur arcanique]: equipment_properties_hd.md#focaliseur-arcanique
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Nature]: abilities_intelligence_hd.md#nature
+[Religion]: abilities_intelligence_hd.md#religion
+[sacoche à composantes]: equipment_hd.md#sacoche-à-composantes
+[Supercherie]: abilities_charisma_hd.md#supercherie
+
 
 
 [Items]: #

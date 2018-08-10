@@ -18,19 +18,19 @@ En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 ## Maîtrises
 
 **Armures :** aucune
-**Armes :** dagues, fléchettes, frondes, bâtons, arbalètes légères
+**Armes :** [dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]
 **Outils :** aucun
 **Jets de sauvegarde :** [Intelligence], [Sagesse] 
-**Compétences :** choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion
+**Compétences :** choisissez deux compétences parmi [Arcanes], [Histoire], [Investigation], [Médecine], [Perspicacité] et [Religion]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) un bâton ou (b) une dague
-* (a) une sacoche à composantes ou (b) un focaliseur arcanique
-* (a) un paquetage d'érudit ou (b) un paquetage d'explorateur
-* un grimoire
+* (a) un [bâton] ou (b) une [dague]
+* (a) une [sacoche à composantes] ou (b) un [focaliseur arcanique]
+* (a) un [paquetage d'érudit] ou (b) un [paquetage d'explorateur]
+* un [grimoire]
 
 
 
@@ -205,6 +205,20 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Arcanes]: abilities_intelligence_hd.md#arcanes
+[bâton]: equipment_hd.md#bâton
+[dague]: equipment_hd.md#dague
+[focaliseur arcanique]: equipment_properties_hd.md#focaliseur-arcanique
+[grimoire]: wizard_hd.md#grimoire
+[grimoire]: equipment_hd.md#grimoire
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Religion]: abilities_intelligence_hd.md#religion
+[sacoche à composantes]: equipment_hd.md#sacoche-à-composantes
+
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

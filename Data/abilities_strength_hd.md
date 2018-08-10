@@ -2,13 +2,13 @@
 
 # Force
 
-La Force détermine la puissance physique d'un personnage, ses compétences en athlétisme et dans quelle mesure il peut se reposer sur sa force brute.
+La Force détermine la puissance physique d'un personnage, ses compétences en [athlétisme] et dans quelle mesure il peut se reposer sur sa force brute.
 
 [][Generic]
 
 ## Tests de Force
 
-Un test de Force est utilisé lors de toute tentative visant à soulever, pousser, tirer ou briser quelque chose, forcer le passage ou utiliser la force brute d'une manière ou d'une autre. La compétence Athlétisme reflète votre aptitude à réaliser certains tests de Force.
+Un test de Force est utilisé lors de toute tentative visant à soulever, pousser, tirer ou briser quelque chose, forcer le passage ou utiliser la force brute d'une manière ou d'une autre. La compétence [Athlétisme] reflète votre aptitude à réaliser certains tests de Force.
 
 [][Generic]
 
@@ -62,6 +62,10 @@ Vous pouvez pousser, tirer ou soulever un poids qui fait jusqu'à deux fois votr
 ### Taille et Force
 
 Les grandes créatures peuvent porter des poids plus importants que les petites. Pour chaque catégorie de taille au-dessus de la taille moyenne, doublez la capacité de charge d'une créature et le poids qu'elle peut pousser, tirer ou soulever. Pour une créature de taille très petite , divisez ces valeurs par deux.
+
+[athlétisme]: abilities_strength_hd.md#athlétisme
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+
 
 [Items]: #
 [Generic]: #

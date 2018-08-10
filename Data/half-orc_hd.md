@@ -19,7 +19,7 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 
 **Vision dans le noir.** Grâce à votre sang orc, vous avez hérité d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 
-**Menaçant.** Vous gagnez la maîtrise de la compétence Intimidation.
+**Menaçant.** Vous gagnez la maîtrise de la compétence [Intimidation].
 
 **Acharnement.** Quand vous vous retrouvez à 0 point de vie, mais que vous n'êtes pas tué sur le champ, vous pouvez choisir d'être réduit à 1 point de vie à la place. Vous ne pouvez pas réutiliser cette aptitude tant que vous n'avez pas terminé un repos long.
 
@@ -35,5 +35,8 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Intimidation]: abilities_charisma_hd.md#intimidation
+
 
 [Generic]: #

@@ -18,19 +18,19 @@ En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 ## Maîtrises
 
 **Armures :** aucune
-**Armes :** dagues, fléchettes, frondes, bâtons, arbalètes légères
+**Armes :** [dagues], [fléchettes], [frondes], [bâtons], [arbalètes légères]
 **Outils :** aucun
 **Jets de sauvegarde :** [Constitution], [Charisme]
-**Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, Perspicacité, Persuasion, Religion et Supercherie
+**Compétences :** choisissez deux compétences parmi les suivantes : [Arcanes], [Intimidation], [Perspicacité], [Persuasion], [Religion] et [Supercherie]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) une arbalète légère et vingt carreaux ou (b) n'importe quelle arme courante
-* (a) une sacoche à composantes ou (b) un focaliseur arcanique
-* (a) un paquetage d'exploration souterraine ou (b) un paquetage d'explorateur
-* deux dagues
+* (a) une [arbalète légère] et vingt [carreaux] ou (b) n'importe quelle [arme courante]
+* (a) une [sacoche à composantes] ou (b) un [focaliseur arcanique]
+* (a) un [paquetage d'exploration souterraine] ou (b) un [paquetage d'explorateur]
+* deux [dagues]
 
 
 [][Generic]
@@ -259,6 +259,16 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 [Charisme]: abilities_charisma_hd.md
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[arbalète légère]: equipment_hd.md#arbalète-légère
+[Arcanes]: abilities_intelligence_hd.md#arcanes
+[focaliseur arcanique]: equipment_properties_hd.md#focaliseur-arcanique
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Religion]: abilities_intelligence_hd.md#religion
+[sacoche à composantes]: equipment_hd.md#sacoche-à-composantes
+[Supercherie]: abilities_charisma_hd.md#supercherie
 
 
 [Items]: #

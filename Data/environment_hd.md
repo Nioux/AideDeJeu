@@ -33,7 +33,7 @@ Par exemple, une créature avec une Constitution de 14 peut retenir sa respirati
 
 Les fondamentaux de la vie d’un aventurier (remarquer des dangers, trouver des objets cachés, frapper un ennemi en combat, lancer un sort contre une cible donnée, pour ne citer que quelques exemples) reposent sur la capacité d’un personnage à voir et percevoir son environnement. Les ténèbres et autres effets qui viennent amoindrir ce sens peuvent se révéler de sérieux handicaps et des dangers mortels.
 
-Dans une zone donnée, la visibilité d’un personnage peut être réduite ou nulle. Dans une zone de visibilité réduite, comme une zone avec une lumière faible, ou envahie d’une brume légère ou de végétation luxuriante, les créatures subissent un désavantage sur les tests de Sagesse (Perception) liés à la vision.
+Dans une zone donnée, la visibilité d’un personnage peut être réduite ou nulle. Dans une zone de visibilité réduite, comme une zone avec une lumière faible, ou envahie d’une brume légère ou de végétation luxuriante, les créatures subissent un désavantage sur les tests de [Sagesse] ([Perception]) liés à la vision.
 
 Dans les zones de visibilité nulle, comme les ténèbres, un brouillard dense ou au milieu d’une végétation dense, le champ de vision d’un personnage est entièrement bloqué. On considère qu’il est alors sous l’effet de l’état aveuglé quand il tente de voir quelque chose dans une telle zone.
 
@@ -106,6 +106,10 @@ Les personnages peuvent également utiliser leurs armes et leurs sorts pour endo
 Quand un objet est réduit à 0 point de vie, il se brise.
 
 Un personnage peut aussi faire un test de Force pour tenter de briser un objet. C’est au MJ de déterminer le DD d’un tel test.
+
+[Perception]: abilities_wisdom_hd.md#perception
+[Sagesse]: abilities_wisdom_hd.md#sagesse
+
 
 [Items]: #
 [Generic]: #

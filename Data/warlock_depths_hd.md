@@ -20,17 +20,17 @@ La puissance des profondeurs vous permet de choisir des sorts dans une liste de 
 
 |Niv. de sort|Sorts|
 |---|---|
-|1|nappe de brouillard, sommeil|
-|2|modifier son apparence, vision dans le noir|
-|3|fusion dans la pierre, respiration aquatique|
-|4|liane chasseresse, insecte géant|
-|5|fléau d'insectes, passe-muraille|
+|1|[nappe de brouillard], [sommeil]|
+|2|[modifier son apparence], [vision dans le noir]|
+|3|[fusion dans la pierre], [respiration aquatique]|
+|4|[liane chasseresse], [insecte géant]|
+|5|[fléau d'insectes], [passe-muraille]|
 
 [][Generic]
 
 ## Adepte des profondeurs
 
-Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l'air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'[Intelligence] (Investigation), [Sagesse] (Perception) et [Charisme] (Persuasion). Porter un chapeau à large bord ou une capuche permet d'annuler cet effet.
+Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l'air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'[Intelligence] ([Investigation]), [Sagesse] ([Perception]) et [Charisme] ([Persuasion]). Porter un chapeau à large bord ou une capuche permet d'annuler cet effet.
 
 À l'inverse, de nuit ou tant que vous êtes sous terre ou sous l'eau, vous bénéficiez d'un avantage à ces tests.
 
@@ -67,6 +67,21 @@ Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette apt
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Perception]: abilities_wisdom_hd.md#perception
+[Persuasion]: abilities_charisma_hd.md#persuasion
+
+[fléau d'insectes]: spells_hd.md#fléau-dinsectes
+[fusion dans la pierre]: spells_hd.md#fusion-dans-la-pierre
+[insecte géant]: spells_hd.md#insecte-géant
+[liane chasseresse]: spells_hd.md#liane-chasseresse
+[modifier son apparence]: spells_hd.md#modifier-son-apparence
+[nappe de brouillard]: spells_hd.md#nappe-de-brouillard
+[passe-muraille]: spells_hd.md#passe-muraille
+[respiration aquatique]: spells_hd.md#respiration-aquatique
+[sommeil]: spells_hd.md#sommeil
+[vision dans le noir]: spells_hd.md#vision-dans-le-noir
 
 
 [Items]: #

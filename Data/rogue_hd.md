@@ -21,7 +21,7 @@ En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 **Armes :** armes courantes, arbalètes de poing, épées longues, rapières, épées courtes
 **Outils :** outils de voleur
 **Jets de sauvegarde :** [Dextérité], [Intelligence]
-**Compétences :** choisissez quatre compétences parmi Acrobaties, Athlétisme, Discrétion, Escamotage, Intimidation, Investigation, Perception, Perspicacité, Persuasion, Représentation et Supercherie
+**Compétences :** choisissez quatre compétences parmi [Acrobaties], [Athlétisme], [Discrétion], [Escamotage], [Intimidation], [Investigation], [Perception], [Perspicacité], [Persuasion], [Représentation] et [Supercherie]
 
 ## Équipement
 
@@ -206,6 +206,19 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Perception]: abilities_wisdom_hd.md#perception
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Représentation]: abilities_charisma_hd.md#représentation
+[Supercherie]: abilities_charisma_hd.md#supercherie
 
 
 [Items]: #

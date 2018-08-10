@@ -209,23 +209,19 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 [voie du hurlement]: barbarian_howling_hd.md
 
 
-[action bonus]: #action-bonus
 [arme courante]: equipment_hd_with_type_armecourante.md
 [arme de corps-à-corps]: equipment_hd_with_type_armedecorpsàcorps.md
 [arme de guerre de corps-à-corps]: equipment_hd_with_type_armedecorpsàcorps.md
 [armes courantes]: equipment_hd_with_type_armecourante.md
-[armes de guerre]: #armes-de-guerre
 [armure lourde]: equipment_hd_with_type_armurelourde.md
 [armures intermédiaires]: equipment_hd_with_type_armureintermédiaire.md
 [armures légères]: equipment_hd_with_type_armurelégère.md
 [assourdi]: conditions_hd.md#assourdi
 [Athlétisme]: abilities_strength_hd.md#athlétisme
-[avantage]: #avantage
 [aveuglé]: conditions_hd.md#aveuglé
 [bouclier]: equipment_hd.md#bouclier
 [boucliers]: equipment_hd.md#bouclier
 [classe d'armure]: abilities_dexterity_hd.md#classe-darmure
-[contondants]: #contondants
 [Dressage]: abilities_wisdom_hd.md#dressage
 [hache à deux mains]: equipment_hd.md#hache-à-deux-mains
 [hachettes]: equipment_hd.md#hachette
@@ -237,12 +233,8 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 [neutralisé]: conditions_hd.md#neutralisé
 [paquetage d'explorateur]: #paquetage-dexplorateur
 [Perception]: abilities_wisdom_hd.md#perception
-[perforants]: #perforants
 [repos long]: resting_hd.md#repos-long
-[surpris]: #surpris
-[Survie]: #survie
 [tableau d'évolution du barbare]: #tableau-dévolution-du-barbare
-[tranchants]: #tranchants
 
 
 
@@ -256,6 +248,8 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Survie]: abilities_wisdom_hd.md#survie
 
 [Items]: #
 [Generic]: #

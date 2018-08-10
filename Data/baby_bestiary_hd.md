@@ -16,8 +16,8 @@
 |13 (+1)|9 (-1)|15 (+2)|14 (+2)|15 (+2)|14 (+2)|
 
 - **Jets de sauvegarde** Con +4, Int +4
-- **Compétence** Perception +6
-- **Sens** vision dans le noir 36 m, Perception passive 16
+- **Compétence** [Perception] +6
+- **Sens** vision dans le noir 36 m, [Perception passive] 16
 - **Langues** profond, télépathie 36 m
 - **Dangerosité** 2 (450 PX)
 

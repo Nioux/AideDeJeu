@@ -70,5 +70,10 @@ Vous pouvez parler, lire et écrire en [commun], en [elfe] et dans une autre lan
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
+[charmé]: conditions_hd.md#charmé
+[compétences]: abilities_hd.md#compétences
+[elfe]: elf_hd.md#elfe
+
+
 [Items]: #
 [Generic]: #

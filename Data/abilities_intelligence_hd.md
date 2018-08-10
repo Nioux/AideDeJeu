@@ -8,7 +8,7 @@ L'intelligence représente la vivacité d'esprit, la mémoire et la capacité de
 
 ## Tests d'Intelligence
 
-Un test d'Intelligence intervient quand vous devez faire appel à la logique, à votre éducation, à vos souvenirs ou à vos capacités de déduction. Les compétences Arcane, Histoire, Investigation, Nature et Religion représentent des facettes de cette caractéristique et requièrent des tests d'Intelligence.
+Un test d'Intelligence intervient quand vous devez faire appel à la logique, à votre éducation, à vos souvenirs ou à vos capacités de déduction. Les compétences [Arcane], [Histoire], [Investigation], [Nature] et [Religion] représentent des facettes de cette caractéristique et requièrent des tests d'[Intelligence].
 
 [][Generic]
 
@@ -67,6 +67,12 @@ Les [magiciens] utilisent l'[Intelligence] comme caractéristique d'incantation 
 [Charisme]: abilities_charisma_hd.md
 
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Nature]: abilities_intelligence_hd.md#nature
+[Religion]: abilities_intelligence_hd.md#religion
+
 
 [magiciens]: wizard_hd.md
 

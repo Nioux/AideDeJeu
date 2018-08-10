@@ -17,19 +17,19 @@ En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Maîtrises
 
-**Armures :** armures légères, armures intermédiaires, boucliers (les druides n'utilisent pas d'armure ou de bouclier faits en métal)
-**Armes :** gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances
-**Outils :** matériel d'herboriste
+**Armures :** [armures légères], [armures intermédiaires], [boucliers] (les druides n'utilisent pas d'armure ou de bouclier faits en métal)
+**Armes :** [gourdins], [dagues], [fléchettes], [javelines], [massues], [bâtons], [cimeterres], [serpes], [frondes], [lances]
+**Outils :** [matériel d'herboriste]
 **Jets de sauvegarde :** [Intelligence], [Sagesse]
-**Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Médecine, Nature, Perception, Perspicacité, Religion et Survie
+**Compétences :** choisissez deux compétences parmi les suivantes : [Arcanes], [Dressage], [Médecine], [Nature], [Perception], [Perspicacité], [Religion] et [Survie]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) un bouclier de bois ou (b) n'importe quelle arme courante.
-* (a) un cimeterre ou (b) n'importe quelle arme de corps-à-corps courante.
-* une armure de cuir, un paquetage d'explorateur et un focaliseur druidique
+* (a) un [bouclier] de bois ou (b) n'importe quelle [arme courante].
+* (a) un [cimeterre] ou (b) n'importe quelle [arme de corps-à-corps courante].
+* une [armure de cuir], un [paquetage d'explorateur] et un [focaliseur druidique]
 
 
 
@@ -66,7 +66,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## Druidique
 
-Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse] (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
+Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse] ([Perception]) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
 
 [][Generic]
 
@@ -205,6 +205,22 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Arcanes]: abilities_intelligence_hd.md#arcanes
+[armure de cuir]: equipment_hd.md#armure-de-cuir
+[armures intermédiaires]: equipment_properties_hd.md#armures-intermédiaires
+[armures légères]: equipment_properties_hd.md#armures-légères
+[bouclier]: equipment_properties_hd.md#bouclier
+[cimeterre]: equipment_hd.md#cimeterre
+[Dressage]: abilities_wisdom_hd.md#dressage
+[focaliseur druidique]: equipment_properties_hd.md#focaliseur-druidique
+[matériel d'herboriste]: equipment_hd.md#matériel-dherboriste
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Nature]: abilities_intelligence_hd.md#nature
+[Perception]: abilities_wisdom_hd.md#perception
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Religion]: abilities_intelligence_hd.md#religion
+[Survie]: abilities_wisdom_hd.md#survie
 
 
 [Items]: #

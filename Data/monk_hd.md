@@ -13,23 +13,23 @@ En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 
 **Dés de vie :** 1d8 par niveau de moine
 **Points de vie au niveau 1 :** 8 + votre modificateur de [Constitution]
-**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de constitution par niveau de moine après le niveau 1
+**Points de vie aux niveaux supérieurs :** 1d8 (ou 5) + votre modificateur de [Constitution] par niveau de moine après le niveau 1
 
 ## Maîtrises
 
 **Armures :** aucune
-**Armes :** armes courantes, épées courtes
-**Outils :** choisissez un type d'outils d'artisan ou un instrument de musique
+**Armes :** [armes courantes], [épées courtes]
+**Outils :** choisissez un type d'[outils d'artisan] ou un [instrument de musique]
 **Jets de sauvegarde :** [Force], [Dextérité]
-**Compétences :** choisissez deux compétences parmi Acrobaties, Athlétisme, Discrétion, Histoire, Perspicacité et Religion
+**Compétences :** choisissez deux compétences parmi [Acrobaties], [Athlétisme], [Discrétion], [Histoire], [Perspicacité] et [Religion]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) une épée courte ou (b) n'importe quelle arme courante
-* (a) un paquetage d'exploration souterraine ou (b) un paquetage d'explorateur
-* dix fléchettes
+* (a) une [épée courte] ou (b) n'importe quelle [arme courante]
+* (a) un [paquetage d'exploration souterraine] ou (b) un [paquetage d'explorateur]
+* dix [fléchettes]
 
 
 [][Generic]
@@ -272,6 +272,14 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Religion]: abilities_intelligence_hd.md#religion
+
 
 [Items]: #
 [Generic]: #

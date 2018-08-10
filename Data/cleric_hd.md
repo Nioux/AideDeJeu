@@ -17,21 +17,21 @@ En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Maîtrises
 
-**Armures :** armures légères, armures intermédiaires, boucliers
-**Armes :** armes courantes
+**Armures :** [armures légères], [armures intermédiaires], [boucliers]
+**Armes :** [armes courantes]
 **Outils :** aucun
 **Jets de sauvegarde :** [Sagesse], [Charisme]
-**Compétences :** choisissez deux compétences parmi les suivantes : Histoire, Médecine, Perspicacité, Persuasion, Religion
+**Compétences :** choisissez deux compétences parmi les suivantes : [Histoire], [Médecine], [Perspicacité], [Persuasion], [Religion]
 
 ## Équipement
 
-Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique. Notez que le marteau de guerre et la cotte de mailles sont réservés aux clercs qui disposent des maîtrises correspondantes.
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique. Notez que le [marteau de guerre] et la [cotte de mailles] sont réservés aux clercs qui disposent des maîtrises correspondantes.
 
-* (a) une masse d'armes ou (b) un marteau de guerre*
-* (a) une armure d'écailles, (b) une armure de cuir ou (c) cotte de mailles*
-* (a) une arbalète légère avec vingt carreaux ou (b) n'importe quelle arme courante
-* (a) un paquetage d'ecclésiastique ou (b) un paquetage d'explorateur
-* un bouclier et un symbole sacré
+* (a) une [masse d'armes] ou (b) un [marteau de guerre]*
+* (a) une [armure d'écailles], (b) une [armure de cuir] ou (c) [cotte de mailles]*
+* (a) une [arbalète légère] avec vingt [carreaux] ou (b) n'importe quelle [arme courante]
+* (a) un [paquetage d'ecclésiastique] ou (b) un [paquetage d'explorateur]
+* un [bouclier] et un [symbole sacré]
 
 [][Generic]
 
@@ -203,6 +203,23 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+
+[arbalète légère]: equipment_hd.md#arbalète-légère
+[armure de cuir]: equipment_hd.md#armure-de-cuir
+[armure d'écailles]: equipment_hd.md#armure-décailles
+[armures intermédiaires]: equipment_properties_hd.md#armures-intermédiaires
+[armures légères]: equipment_properties_hd.md#armures-légères
+[bouclier]: equipment_properties_hd.md#bouclier
+[cotte de mailles]: equipment_hd.md#cotte-de-mailles
+[Histoire]: abilities_intelligence_hd.md#histoire
+[marteau de guerre]: equipment_hd.md#marteau-de-guerre
+[masse d'armes]: equipment_hd.md#masse-darmes
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Religion]: abilities_intelligence_hd.md#religion
+[symbole sacré]: equipment_properties_hd.md#symbole-sacré
 
 
 [Items]: #

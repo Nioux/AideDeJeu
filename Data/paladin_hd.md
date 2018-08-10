@@ -21,7 +21,7 @@ En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.
 **Armes :** armes courantes, armes de guerre
 **Outils :** aucun
 **Jets de sauvegarde :** [Sagesse], [Charisme]
-**Compétences :** choisissez deux compétences parmi les suivantes : Athlétisme, Intimidation, Médecine, Perspicacité, Persuasion et Religion
+**Compétences :** choisissez deux compétences parmi les suivantes : [Athlétisme], [Intimidation], [Médecine], [Perspicacité], [Persuasion] et [Religion]
 
 ## Équipement
 
@@ -289,6 +289,14 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Religion]: abilities_intelligence_hd.md#religion
+
 
 [Items]: #
 [Generic]: #

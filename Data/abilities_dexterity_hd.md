@@ -8,7 +8,7 @@ La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l
 
 ## Tests de Dextérité
 
-Un test de Dextérité peut être fait pour tester toutes vos tentatives de vous déplacer rapidement, avec agilité ou en silence, ou pour vous éviter de chuter sur des surfaces irrégulières. Les compétences Acrobaties, Escamotage et Discrétion représentent des facettes de cette caractéristique utilisées pour certains tests de Dextérité.
+Un test de Dextérité peut être fait pour tester toutes vos tentatives de vous déplacer rapidement, avec agilité ou en silence, ou pour vous éviter de chuter sur des surfaces irrégulières. Les compétences [Acrobaties], [Escamotage] et [Discrétion] représentent des facettes de cette caractéristique utilisées pour certains tests de Dextérité.
 
 [][Generic]
 
@@ -20,7 +20,7 @@ Les tests de Dextérité (Acrobaties) servent à déterminer si vous restez sur 
 
 ### Discrétion
 
-Faites un test de Dextérité (Discrétion) quand vous tentez de vous cacher à l'approche de vos ennemis, de vous faufiler discrètement à côté de gardes, de quitter un endroit sans vous faire remarquer ou de vous approcher de quelqu'un sans vous faire voir ou entendre.
+Faites un test de [Dextérité] ([Discrétion]) quand vous tentez de vous cacher à l'approche de vos ennemis, de vous faufiler discrètement à côté de gardes, de quitter un endroit sans vous faire remarquer ou de vous approcher de quelqu'un sans vous faire voir ou entendre.
 
 [][Generic]
 
@@ -65,7 +65,7 @@ Au début de chaque combat, vous déterminez votre initiative en faisant un test
 
 ## Se cacher
 
-Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de Dextérité (Discrétion). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de [Sagesse] (Perception) de toute créature qui cherche activement des signes de votre présence.
+Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de [Dextérité] ([Discrétion]). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de [Sagesse] ([Perception]) de toute créature qui cherche activement des signes de votre présence.
 
 Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir clairement, et si vous faites du bruit, comme lancer un avertissement ou renverser un vase, vous révélez votre position.
 
@@ -77,7 +77,7 @@ Pendant un combat, la plupart des créatures restent attentives aux signes de da
 
 ### Perception passive
 
-Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de [Sagesse] (Perception) de cette créature, qui est égale à 10 + le modificateur de [Sagesse] de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un avantage, ajoutez 5 à sa valeur passive. Si au contraire elle subit un désavantage, retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une [Sagesse] de 15 (donc un modificateur de +2) et la maîtrise la compétence Perception, sa valeur passive de [Sagesse] (Perception) est de 14.
+Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de [Dextérité] ([Discrétion]) avec la valeur passive de [Sagesse] ([Perception]) de cette créature, qui est égale à 10 + le modificateur de [Sagesse] de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un avantage, ajoutez 5 à sa valeur passive. Si au contraire elle subit un désavantage, retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une [Sagesse] de 15 (donc un modificateur de +2) et la maîtrise la compétence [Perception], sa valeur passive de [Sagesse] ([Perception]) est de 14.
 
 [][Generic]
 
@@ -91,6 +91,12 @@ L'un des facteurs principaux qui permet de déterminer si vous détectez une cr�
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Perception]: abilities_wisdom_hd.md#perception
+
 
 [Items]: #
 [Generic]: #

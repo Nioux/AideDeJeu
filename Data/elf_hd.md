@@ -19,7 +19,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Vision dans le noir.** Habitué à la pénombre des forêts et au ciel nocturne, vous jouissez d'une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. 
 
-**Sens aiguisés.** Vous maîtrisez la compétence Perception.
+**Sens aiguisés.** Vous maîtrisez la compétence [Perception].
 
 **Ascendance féerique.** Vous obtenez un avantage sur les [jets de sauvegarde] contre l'effet charmé et un effet magique ne peut pas vous plonger dans le sommeil.
 
@@ -57,7 +57,7 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 
 **Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de 1.
 
-**Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité] (Discrétion) et [Sagesse] (Survie) lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
+**Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité] ([Discrétion]) et [Sagesse] ([Survie]) lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
 
 **Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
 
@@ -69,5 +69,10 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Perception]: abilities_wisdom_hd.md#perception
+[Survie]: abilities_wisdom_hd.md#survie
+
 
 [Generic]: #

@@ -8,7 +8,7 @@ La Sagesse représente votre sensibilité au monde qui vous entoure, votre persp
 
 ## Tests de Sagesse
 
-Un test de Sagesse peut refléter une tentative de décrypter le langage corporel d'une créature, de comprendre les sentiments de quelqu'un, de remarquer des éléments dans votre environnement ou de prendre soin d'une personne blessée. Les compétences Dressage, Perspicacité, Médecine, Perception et Survie représentent des facettes de cette caractéristique utilisées pour certains tests de Sagesse.
+Un test de Sagesse peut refléter une tentative de décrypter le langage corporel d'une créature, de comprendre les sentiments de quelqu'un, de remarquer des éléments dans votre environnement ou de prendre soin d'une personne blessée. Les compétences [Dressage], [Perspicacité], [Médecine], [Perception] et [Survie] représentent des facettes de cette caractéristique utilisées pour certains tests de Sagesse.
 
 [][Generic]
 
@@ -32,7 +32,13 @@ Vous faites un test de Sagesse (Perception) afin de repérer, entendre ou détec
 
 ### Perspicacité
 
-Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement. Survie. Le MJ peut vous demander de faire un test de Sagesse (Survie) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
+Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement. 
+
+[][Generic]
+
+### Survie
+
+Le MJ peut vous demander de faire un test de [Sagesse] ([Survie]) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
 
 [][Generic]
 
@@ -61,6 +67,13 @@ Les [clercs], les [druides] et les [rôdeurs] utilisent la [Sagesse] comme carac
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Dressage]: abilities_wisdom_hd.md#dressage
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Perception]: abilities_wisdom_hd.md#perception
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Survie]: abilities_wisdom_hd.md#survie
+
 
 [Items]: #
 [Generic]: #

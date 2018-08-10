@@ -17,20 +17,20 @@ En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
 
 ## Maîtrises
 
-**Armures :** toutes les armures, boucliers
-**Armes :** armes courantes, armes de guerre
+**Armures :** toutes les [armures], [boucliers]
+**Armes :** [armes courantes], [armes de guerre]
 **Outils :** aucuns
 **Jets de sauvegarde :** [Force], [Constitution]
-**Compétences :** choisissez deux compétences parmi les suivantes : Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Perception, Perspicacité et Survie
+**Compétences :** choisissez deux compétences parmi les suivantes : [Acrobaties], [Athlétisme], [Dressage], [Histoire], [Intimidation], [Perception], [Perspicacité] et [Survie]
 
 ## Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
-* (a) une cotte de mailles ou (b) une armure de cuir, un arc long et vingt flèches
-* (a) une arme de guerre et un bouclier ou (b) deux armes de guerre
-* (a) une arbalète légère avec vingt carreaux ou (b) deux hachettes
-* (a) un paquetage d'exploration souterraine ou (b) un paquetage d'explorateur
+* (a) une [cotte de mailles] ou (b) une [armure de cuir], un [arc long] et vingt [flèches]
+* (a) une [arme de guerre] et un [bouclier] ou (b) deux [armes de guerre]
+* (a) une [arbalète légère] avec vingt [carreaux] ou (b) deux [hachettes]
+* (a) un [paquetage d'exploration souterraine] ou (b) un [paquetage d'explorateur]
 
 
 
@@ -73,11 +73,11 @@ Même si vous pouvez choisir un autre style plus tard, vous ne pouvez pas prendr
 
 ## Archerie
 
-Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance.
+Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des [armes à distance].
 
 ## Armes à deux mains
 
-Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
+Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une [arme de corps-à-corps] tenue [à deux mains], vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété [à deux mains] ou posséder la propriété [polyvalente] pour que vous puissiez bénéficier de cette aptitude.
 
 ## Combat à deux armes
 
@@ -180,6 +180,22 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[arbalète légère]: equipment_hd.md#arbalète-légère
+[arc long]: equipment_hd.md#arc-long
+[armure de cuir]: equipment_hd.md#armure-de-cuir
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[bouclier]: equipment_properties_hd.md#bouclier
+[cotte de mailles]: equipment_hd.md#cotte-de-mailles
+[Dressage]: abilities_wisdom_hd.md#dressage
+[flèches]: equipment_hd.md#flèches
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Perception]: abilities_wisdom_hd.md#perception
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[polyvalente]: equipment_properties_hd.md#polyvalente
+[Survie]: abilities_wisdom_hd.md#survie
 
 
 [Items]: #

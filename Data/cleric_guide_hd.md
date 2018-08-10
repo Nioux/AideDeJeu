@@ -35,7 +35,7 @@ Vous obtenez les sorts suivants au niveau de clerc indiqué ci-dessous.
 
 ## Force de persuasion
 
-Nul n'est votre égal pour utiliser les mots et pour convaincre les individus comme les foules de la justesse de vos propos. Au niveau 1, vous obtenez la maîtrise de la compétence Persuasion. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
+Nul n'est votre égal pour utiliser les mots et pour convaincre les individus comme les foules de la justesse de vos propos. Au niveau 1, vous obtenez la maîtrise de la compétence [Persuasion]. Si vous maîtrisez déjà cette compétence, vous doublez votre bonus de maîtrise lorsque vous l'utilisez.
 
 [][Generic]
 
@@ -97,6 +97,9 @@ Lorsque vous atteignez le niveau 17, vous devenez capable de ressentir l'état �
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Persuasion]: abilities_charisma_hd.md#persuasion
+
 
 
 [Items]: #

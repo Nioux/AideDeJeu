@@ -14,9 +14,9 @@ Leur palette de talents est bien plus étendue que celle d'un simple ferrailleur
 
 ## Regard noir
 
-Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de [Charisme] et de [Force] pour les tests de [Charisme] (Intimidation) et [Charisme] (Persuasion).
+Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de [Charisme] et de [Force] pour les tests de [Charisme] ([Intimidation]) et [Charisme] ([Persuasion]).
 
-De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Charisme] (Intimidation) contre le test de [Sagesse] (Perspicacité) d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un désavantage à son prochain jet d'attaque ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état terrorisé ou aux dégâts psychiques sont immunisées à cette aptitude.
+De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Charisme] ([Intimidation]) contre le test de [Sagesse] ([Perspicacité]) d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un désavantage à son prochain jet d'attaque ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état terrorisé ou aux dégâts psychiques sont immunisées à cette aptitude.
 
 [][Generic]
 
@@ -54,6 +54,11 @@ Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+
 
 
 [Items]: #

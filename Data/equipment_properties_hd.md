@@ -18,7 +18,7 @@ Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bou
 
 # Classe d'armure (CA)
 
-Les armures permettent de se protéger des attaques. Les armures (et le bouclier) que vous portez déterminent votre classe d'armure de base. Discrétion. Si le tableau des armures indique « désavantage » dans la colonne Discrétion, le porteur de l'armure subit un désavantage pour ses tests de Dextérité (Discrétion).
+Les armures permettent de se protéger des attaques. Les armures (et le bouclier) que vous portez déterminent votre classe d'armure de base. Discrétion. Si le tableau des armures indique « désavantage » dans la colonne Discrétion, le porteur de l'armure subit un désavantage pour ses tests de [Dextérité] ([Discrétion]).
 
 [][Generic]
 
@@ -220,6 +220,15 @@ Un [clerc] ou un [paladin] peut utiliser un symbole sacré comme focaliseur d'in
 [sorcier]: warlock_hd.md
 [totem]: equipment_hd.md#totem-focaliseur-druidique
 
+
+[amulette]: equipment_hd.md#amulette
+[Armure lourde]: equipment_properties_hd.md#armure-lourde
+[bâton]: equipment_hd.md#bâton
+[Dextérité]: abilities_dexterity_hd.md#dextérité
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[emblème]: equipment_hd.md#emblème
+[Force]: abilities_strength_hd.md#force
+[relique]: warlock_immortal_hd.md#relique
 
 
 

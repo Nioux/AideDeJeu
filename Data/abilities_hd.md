@@ -77,7 +77,7 @@ Votre bonus de maîtrise ne peut pas être ajouté plus d'une fois à un jet de 
 
 Il peut arriver que votre bonus de maîtrise soit multiplié ou divisé (multiplié ou divisé par deux, par exemple) avant que vous l'appliquiez au résultat de votre jet de dés. Par exemple, l'aptitude expertise du roublard permet de doubler le bonus de maîtrise lors de certains tests de caractéristique. Néanmoins, si une situation suggère que vous pouvez utiliser plus d'une fois votre bonus de maîtrise pour le même jet de dés, vous ne pouvez l'ajouter qu'une seule fois et vous ne pouvez le multiplier ou le diviser qu'une seule fois.
 
-De la même manière, si une aptitude ou un effet vous permet de multiplier votre bonus de maîtrise quand vous faites un test de caractéristique alors que ce test ne bénéficie normalement pas de ce bonus, vous n'ajoutez pas le bonus au test. Pour ce test, votre bonus de maîtrise est de 0, car multiplier 0 par un autre nombre donne toujours 0. Par exemple, si vous n'avez pas la compétence Histoire, une aptitude qui vous permet de multiplier par deux votre bonus de maîtrise quand vous faites un test d'[Intelligence] (Histoire) ne vous apporte rien.
+De la même manière, si une aptitude ou un effet vous permet de multiplier votre bonus de maîtrise quand vous faites un test de caractéristique alors que ce test ne bénéficie normalement pas de ce bonus, vous n'ajoutez pas le bonus au test. Pour ce test, votre bonus de maîtrise est de 0, car multiplier 0 par un autre nombre donne toujours 0. Par exemple, si vous n'avez pas la compétence [Histoire], une aptitude qui vous permet de multiplier par deux votre bonus de maîtrise quand vous faites un test d'[Intelligence] ([Histoire]) ne vous apporte rien.
 
 En règle générale, vous ne multipliez pas votre bonus de maîtrise pour les jets d'attaque ou les [jets de sauvegarde], mais si une aptitude ou un effet vous permet de le faire, ces mêmes règles s'appliquent.
 
@@ -114,47 +114,47 @@ Si les résultats des tests sont identiques, la situation n'évolue pas et reste
 
 À chaque caractéristique est associé un large éventail de capacités, et notamment des compétences qu'un personnage ou un monstre peut maîtriser. Les compétences initialement maîtrisées par un personnage sont déterminées au moment de sa création et celles maîtrisées par un monstre sont indiquées dans ses statistiques.
 
-Par exemple, un test de [Dextérité] peut refléter la tentative d'un personnage de réaliser une acrobatie, de voler un objet ou de rester caché. À chacun de ces aspects de la [Dextérité] est associée une compétence particulière. Ici, il s'agit respectivement d'Acrobaties, d'Escamotage et de Discrétion. Un personnage qui maîtrise la compétence Discrétion est donc particulièrement doué quand il doit faire des tests de [Dextérité] liés à la furtivité ou au fait de se cacher.
+Par exemple, un test de [Dextérité] peut refléter la tentative d'un personnage de réaliser une acrobatie, de voler un objet ou de rester caché. À chacun de ces aspects de la [Dextérité] est associée une compétence particulière. Ici, il s'agit respectivement d'[Acrobaties], d'[Escamotage] et de [Discrétion]. Un personnage qui maîtrise la compétence [Discrétion] est donc particulièrement doué quand il doit faire des tests de [Dextérité] liés à la furtivité ou au fait de se cacher.
 
 Les compétences liées à chaque valeur de caractéristique sont présentées dans la liste ci-dessous. Aucune compétence n'est associée à la [Constitution]. Plus loin dans ce chapitre, vous pourrez trouver un descriptif de chaque caractéristique avec des exemples de l'utilisation des compétences associées.
 
 * [Force]
-  * Athlétisme
+  * [Athlétisme]
 
 * [Dextérité]
-  * Acrobaties
-  * Discrétion
-  * Escamotage
+  * [Acrobaties]
+  * [Discrétion]
+  * [Escamotage]
 
 * [Intelligence]
-  * Arcanes
-  * Histoire
-  * Investigation
-  * Nature
-  * Religion
+  * [Arcanes]
+  * [Histoire]
+  * [Investigation]
+  * [Nature]
+  * [Religion]
 
 * [Sagesse]
-  * Dressage
-  * Médecine
-  * Perception
-  * Perspicacité
-  * Survie
+  * [Dressage]
+  * [Médecine]
+  * [Perception]
+  * [Perspicacité]
+  * [Survie]
 
 * [Charisme]
-  * Intimidation
-  * Persuasion
-  * Représentation
-  * Supercherie
+  * [Intimidation]
+  * [Persuasion]
+  * [Représentation]
+  * [Supercherie]
 
-Il peut arriver que le MJ demande un test de caractéristique lié à une compétence spécifique. Par exemple, un test de [Sagesse] (Perception). Un joueur peut aussi demander au MJ si sa maîtrise d'une compétence donnée s'applique à un test. Dans les deux cas, la maîtrise d'une compétence permet à un personnage d'ajouter son bonus de maîtrise au test de caractéristique lié à cette compétence. S'il ne maîtrise pas la compétence, le personnage fait un test de caractéristique normal.
+Il peut arriver que le MJ demande un test de caractéristique lié à une compétence spécifique. Par exemple, un test de [Sagesse] ([Perception]). Un joueur peut aussi demander au MJ si sa maîtrise d'une compétence donnée s'applique à un test. Dans les deux cas, la maîtrise d'une compétence permet à un personnage d'ajouter son bonus de maîtrise au test de caractéristique lié à cette compétence. S'il ne maîtrise pas la compétence, le personnage fait un test de caractéristique normal.
 
-Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force] (Athlétisme). Si le personnage maîtrise la compétence Athlétisme, il ajoute son bonus de maîtrise à son test de [Force]. S'il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
+Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force] ([Athlétisme]). Si le personnage maîtrise la compétence [Athlétisme], il ajoute son bonus de maîtrise à son test de [Force]. S'il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
 
 ### Option : compétences associées avec différentes caractéristiques
 
-Normalement, votre maîtrise d'une compétence n'intervient que dans des tests de caractéristique spécifiques. Maîtriser l'Athlétisme, par exemple, n'est généralement utile que pour les tests de [Force]. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests.
+Normalement, votre maîtrise d'une compétence n'intervient que dans des tests de caractéristique spécifiques. Maîtriser l'[Athlétisme], par exemple, n'est généralement utile que pour les tests de [Force]. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests.
 
-Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de [Constitution] pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'Athlétisme et demander un test de [Constitution] (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de [Constitution] comme vous le feriez pour un test de [Force] (Athlétisme).
+Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de [Constitution] pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'[Athlétisme] et demander un test de [Constitution] ([Athlétisme]). Si vous maîtrisez la compétence [Athlétisme], vous appliquez votre bonus de maîtrise au test de [Constitution] comme vous le feriez pour un test de [Force] ([Athlétisme]).
 
 De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence Intimidation est normalement associée au [Charisme].
 
@@ -168,7 +168,7 @@ Voilà comment déterminer le résultat d'un personnage à un test passif :
 
 Si un personnage obtient un avantage pour ce test, ajoutez 5 au résultat. Si le personnage subit un désavantage, soustrayez 5 au résultat. Le jeu se réfère au résultat d'un test passif sous le terme de valeur passive.
 
-Par exemple, si un personnage de niveau 1 a une valeur de [Sagesse] de 15 et maîtrise la compétence Perception, sa valeur passive de [Sagesse] (Perception) est de 14.
+Par exemple, si un personnage de niveau 1 a une valeur de [Sagesse] de 15 et maîtrise la compétence [Perception], sa valeur passive de [Sagesse] ([Perception]) est de 14.
 
 Les règles pour se cacher, dans la section [Dextérité] ciaprès, et les règles d'exploration décrites dans le chapitre 8, Partir à l'aventure, pages 269-281, se basent sur des tests passifs.
 
@@ -188,7 +188,7 @@ Quand plusieurs individus tentent d'accomplir quelque chose en tant que groupe, 
 
 Pour faire un test de caractéristique de groupe, tous les membres du groupe concerné doivent faire un test de caractéristique. Si au moins la moitié d'entre eux réussit, on considère que le test est un succès et tout le groupe réussit. Dans le cas contraire, c'est un échec.
 
-Les tests de groupe ne sont pas fréquents. Ils interviennent quand tous les personnages réussissent ou échouent ensemble. Par exemple, quand les aventuriers traversent un marais, le MJ peut leur demander de réaliser un test de caractéristique de groupe de [Sagesse] (Survie) afin de vérifier s'ils évitent les sables mouvants, les trous d'eau ou tout autre danger naturel qui se trouve dans leur environnement. Si au moins la moitié du groupe réussit, les personnages qui ont réussi leur test aident les autres à éviter les dangers. Sinon, l'ensemble du groupe tombe dans l'un de ces pièges.
+Les tests de groupe ne sont pas fréquents. Ils interviennent quand tous les personnages réussissent ou échouent ensemble. Par exemple, quand les aventuriers traversent un marais, le MJ peut leur demander de réaliser un test de caractéristique de groupe de [Sagesse] ([Survie]) afin de vérifier s'ils évitent les sables mouvants, les trous d'eau ou tout autre danger naturel qui se trouve dans leur environnement. Si au moins la moitié du groupe réussit, les personnages qui ont réussi leur test aident les autres à éviter les dangers. Sinon, l'ensemble du groupe tombe dans l'un de ces pièges.
 
 [][Generic]
 
@@ -252,6 +252,26 @@ Le résultat d'un jet de sauvegarde réussi ou raté est indiqué dans la descri
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Acrobaties]: abilities_dexterity_hd.md#acrobaties
+[Arcanes]: abilities_intelligence_hd.md#arcanes
+[Athlétisme]: abilities_strength_hd.md#athlétisme
+[Discrétion]: abilities_dexterity_hd.md#discrétion
+[Dressage]: abilities_wisdom_hd.md#dressage
+[Escamotage]: abilities_dexterity_hd.md#escamotage
+[Histoire]: abilities_intelligence_hd.md#histoire
+[Intimidation]: abilities_charisma_hd.md#intimidation
+[Investigation]: abilities_intelligence_hd.md#investigation
+[Médecine]: abilities_wisdom_hd.md#médecine
+[Nature]: abilities_intelligence_hd.md#nature
+[Perception]: abilities_wisdom_hd.md#perception
+[Perspicacité]: abilities_wisdom_hd.md#perspicacité
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Religion]: abilities_intelligence_hd.md#religion
+[Représentation]: abilities_charisma_hd.md#représentation
+[Supercherie]: abilities_charisma_hd.md#supercherie
+[Survie]: abilities_wisdom_hd.md#survie
+
 
 [Items]: #
 [Generic]: #

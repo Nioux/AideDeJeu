@@ -178,7 +178,7 @@ Vous pouvez lancer métamorphose en utilisant un emplacement de sort de sorcier.
 
 ## Séduction
 
-Vous gagnez la maîtrise des compétences Persuasion et Supercherie.
+Vous gagnez la maîtrise des compétences [Persuasion] et [Supercherie].
 
 [][Generic]
 
@@ -251,6 +251,9 @@ Vous pouvez lancer fléau en utilisant un emplacement de sort de sorcier. Vous d
 [Intelligence]: abilities_intelligence_hd.md
 [Sagesse]: abilities_wisdom_hd.md
 [Charisme]: abilities_charisma_hd.md
+
+[Persuasion]: abilities_charisma_hd.md#persuasion
+[Supercherie]: abilities_charisma_hd.md#supercherie
 
 
 [Items]: #

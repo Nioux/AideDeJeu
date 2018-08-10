@@ -49,7 +49,7 @@ Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos 
 
 Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mais sa zone de lumière faible reste de 6 mètres. Si la source de lumière est magique, vous devez dépenser 1 point de sorcellerie par niveau du sort (aucun point pour un tour de magie).
 
-De plus, vous obtenez un avantage aux tests de [Dextérité] (Discrétion) que vous effectuez dans une zone de lumière faible.
+De plus, vous obtenez un avantage aux tests de [Dextérité] ([Discrétion]) que vous effectuez dans une zone de lumière faible.
 
 [][Generic]
 
@@ -90,6 +90,8 @@ Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une second
 [Charisme]: abilities_charisma_hd.md
 
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+
+[Discrétion]: abilities_dexterity_hd.md#discrétion
 
 
 [Items]: #
