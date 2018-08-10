@@ -11,7 +11,7 @@
     <AssemblyName>AideDeJeu.UWP</AssemblyName>
     <DefaultLanguage>fr-FR</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
-    <TargetPlatformVersion>10.0.16299.0</TargetPlatformVersion>
+    <TargetPlatformVersion>10.0.17134.0</TargetPlatformVersion>
     <TargetPlatformMinVersion>10.0.16299.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
     <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
@@ -183,7 +183,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.7" />
     <PackageReference Include="Xamarin.Forms">
-      <Version>3.1.0.697729</Version>
+      <Version>3.2.0.637442-pre1</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

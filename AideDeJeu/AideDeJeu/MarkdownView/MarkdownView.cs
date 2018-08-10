@@ -12,6 +12,7 @@
     using Markdig;
     using System.Threading.Tasks;
     using System.Windows.Input;
+    using Xamarin.Forms.Internals;
 
     public class MarkdownView : ContentView
     {
@@ -66,7 +67,7 @@
 
         private StackLayout stack;
 
-        private List<KeyValuePair<string, string>> links = new List<KeyValuePair<string, string>>();
+        //private List<KeyValuePair<string, string>> links = new List<KeyValuePair<string, string>>();
 
         private void RenderMarkdown()
         {
@@ -100,52 +101,59 @@
 
         private void AttachLinks(View view)
         {
-            if (links.Any())
+            //return;
+            //if (links.Any())
+            //{
+            //    var blockLinks = links.Distinct().OrderBy(l => l.Value).ToList();
+            //    view.GestureRecognizers.Add(new TapGestureRecognizer
+            //    {
+            //        Command = new Command(async () => 
+            //        {
+            //            try
+            //            {
+            //                if (blockLinks.Count > 1)
+            //                {
+            //                    var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
+            //                    var link = blockLinks.FirstOrDefault(x => x.Key == result);
+            //                    //await NavigateToLink(link.Value);
+            //                    NavigateToLinkCommand?.Execute(link.Value);
+            //                }
+            //                else
+            //                {
+            //                    //await NavigateToLink(blockLinks.First().Value);
+            //                    NavigateToLinkCommand?.Execute(blockLinks.First().Value);
+            //                }
+            //            }
+            //            catch (Exception) { }
+            //        }),
+            //    });
+
+            //    links = new List<KeyValuePair<string, string>>();
+            //} 
+        }
+
+        private Span AttachLink(Span span, string link)
+        {
+            if (link != null)
             {
-                var blockLinks = links.Distinct().OrderBy(l => l.Value).ToList();
-                view.GestureRecognizers.Add(new TapGestureRecognizer
+                var gestureRecognizer = new TapGestureRecognizer()
                 {
-                    Command = new Command(async () => 
+                    Command = new Command(() =>
                     {
                         try
                         {
-                            if (blockLinks.Count > 1)
-                            {
-                                var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
-                                var link = blockLinks.FirstOrDefault(x => x.Key == result);
-                                //await NavigateToLink(link.Value);
-                                NavigateToLinkCommand?.Execute(link.Value);
-                            }
-                            else
-                            {
-                                //await NavigateToLink(blockLinks.First().Value);
-                                NavigateToLinkCommand?.Execute(blockLinks.First().Value);
-                            }
+                            NavigateToLinkCommand?.Execute(link);
                         }
-                        catch (Exception) { }
+                        catch (Exception)
+                        {
+                        }
                     }),
-                });
-
-                links = new List<KeyValuePair<string, string>>();
-            } 
+                };
+                span.GestureRecognizers.Add(gestureRecognizer);
+            }
+            return span;
         }
-
-        private void AttachLink(Span span, KeyValuePair<string, string> link)
-        {
-            //span.GestureRecognizers.Add(new TapGestureRecognizer
-            //{
-            //    Command = new Command(async () =>
-            //    {
-            //        try
-            //        {
-            //            await NavigateToLink(link.Value);
-            //        }
-            //        catch (Exception)
-            //        {
-            //        }
-            //    }),
-            //});
-        }
+             
 
         #region Rendering blocks
 
@@ -502,43 +510,44 @@
 
             foreach (var inline in inlines)
             {
-                var spans = CreateSpans(inline, family, attributes, foregroundColor, backgroundColor, size);
-                if (spans != null)
-                {
-                    foreach (var span in spans)
-                    {
-                        fs.Spans.Add(span);
-                    }
-                }
+                CreateSpans(fs, inline, family, attributes, foregroundColor, backgroundColor, size);
+                //if (spans != null)
+                //{
+                //    foreach (var span in spans)
+                //    {
+                //        fs.Spans.Add(span);
+                //    }
+                //}
             }
 
             return fs;
         }
 
-        private Span[] CreateSpans(Inline inline, string family, FontAttributes attributes, Color foregroundColor, Color backgroundColor, float size)
+        private void CreateSpans(FormattedString fs, Inline inline, string family, FontAttributes attributes, Color foregroundColor, Color backgroundColor, float size, string linkurl = null)
         {
             switch (inline)
             {
                 case LiteralInline literal:
-                    return new[]
+                    fs.Spans.Add(AttachLink(new Span
                     {
-                        new Span
-                        {
-                            Text = literal.Content.Text.Substring(literal.Content.Start, literal.Content.Length),
-                            FontAttributes = attributes,
-                            ForegroundColor = foregroundColor,
-                            BackgroundColor = backgroundColor,
-                            FontSize = size,
-                            FontFamily = family,
-                        }
-                    };
+                        Text = literal.Content.Text.Substring(literal.Content.Start, literal.Content.Length),
+                        FontAttributes = attributes,
+                        ForegroundColor = foregroundColor,
+                        BackgroundColor = backgroundColor,
+                        FontSize = size,
+                        FontFamily = family,
+                    }, linkurl));
+                    break;
 
                 case EmphasisInline emphasis:
                     var childAttributes = attributes | (emphasis.IsDouble ? FontAttributes.Bold : FontAttributes.Italic);
-                    return emphasis.SelectMany(x => CreateSpans(x, family, childAttributes, foregroundColor, backgroundColor, size)).ToArray();
+                    emphasis.ForEach(x => CreateSpans(fs, x, family, childAttributes, foregroundColor, backgroundColor, size, linkurl));
+                    break;
 
                 case LineBreakInline breakline:
-                    return new[] { new Span { Text = "\n" } };
+                    fs.Spans.Add(AttachLink(new Span { Text = "\n" }, linkurl));
+                    break;
+
 
                 case LinkInline link:
 
@@ -563,53 +572,56 @@
                         }
 
                         queuedViews.Add(image);
-                        return new Span[0];
+                        
+                        //return new Span[0];
                     }
                     else
                     {
-                        var spans = link.SelectMany(x => CreateSpans(x, this.Theme.Link.FontFamily ?? family, attributes| this.Theme.Link.Attributes, this.Theme.Link.ForegroundColor, this.Theme.Link.BackgroundColor, size)).ToArray();
-                        var newlink = new KeyValuePair<string, string>(string.Join("", spans.Select(x => x.Text)), url);
-                        foreach (var span in spans)
-                        {
-                            AttachLink(span, newlink);
-                        }
-                        links.Add(new KeyValuePair<string, string>(string.Join("",spans.Select(x => x.Text)), url));
-                        return spans;
+                        link.ForEach(x => CreateSpans(fs, x, this.Theme.Link.FontFamily ?? family, attributes| this.Theme.Link.Attributes, this.Theme.Link.ForegroundColor, this.Theme.Link.BackgroundColor, size, url));
+                        //var newlink = new KeyValuePair<string, string>(string.Join("", spans.Select(x => x.Text)), url);
+                        //foreach (var span in spans)
+                        //{
+                        //    AttachLink(span, newlink);
+                        //}
+                        //links.Add(new KeyValuePair<string, string>(string.Join("",spans.Select(x => x.Text)), url));
+                        //return spans;
                     }
+                    break;
 
-                case CodeInline code:
-                    return new[]
-                    {
-                        new Span()
-                        {
-                            Text="\u2002",
-                            FontSize = size,
-                            FontFamily = this.Theme.Code.FontFamily,
-                            ForegroundColor = this.Theme.Code.ForegroundColor,
-                            BackgroundColor = this.Theme.Code.BackgroundColor
-                        },
-                        new Span
-                        {
-                            Text = code.Content,
-                            FontAttributes = this.Theme.Code.Attributes,
-                            FontSize = size,
-                            FontFamily = this.Theme.Code.FontFamily,
-                            ForegroundColor = this.Theme.Code.ForegroundColor,
-                            BackgroundColor = this.Theme.Code.BackgroundColor
-                        },
-                        new Span()
-                        {
-                            Text="\u2002",
-                            FontSize = size,
-                            FontFamily = this.Theme.Code.FontFamily,
-                            ForegroundColor = this.Theme.Code.ForegroundColor,
-                            BackgroundColor = this.Theme.Code.BackgroundColor
-                        },
-                    };
+                //case CodeInline code:
+                //    return new[]
+                //    {
+                //        new Span()
+                //        {
+                //            Text="\u2002",
+                //            FontSize = size,
+                //            FontFamily = this.Theme.Code.FontFamily,
+                //            ForegroundColor = this.Theme.Code.ForegroundColor,
+                //            BackgroundColor = this.Theme.Code.BackgroundColor
+                //        },
+                //        new Span
+                //        {
+                //            Text = code.Content,
+                //            FontAttributes = this.Theme.Code.Attributes,
+                //            FontSize = size,
+                //            FontFamily = this.Theme.Code.FontFamily,
+                //            ForegroundColor = this.Theme.Code.ForegroundColor,
+                //            BackgroundColor = this.Theme.Code.BackgroundColor
+                //        },
+                //        new Span()
+                //        {
+                //            Text="\u2002",
+                //            FontSize = size,
+                //            FontFamily = this.Theme.Code.FontFamily,
+                //            ForegroundColor = this.Theme.Code.ForegroundColor,
+                //            BackgroundColor = this.Theme.Code.BackgroundColor
+                //        },
+                //    };
 
                 default:
                     Debug.WriteLine($"Can't render {inline.GetType()} inlines.");
-                    return null;
+                    break;
+                    //return null;
             }
         }
 
