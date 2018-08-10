@@ -11,6 +11,14 @@ namespace AideDeJeu.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ItemDetailPage : ContentPage
 	{
+        public MainViewModel Main
+        {
+            get
+            {
+                return DependencyService.Get<MainViewModel>();
+            }
+        }
+
         ItemDetailViewModel viewModel;
 
         public ItemDetailPage(ItemDetailViewModel itemVM)

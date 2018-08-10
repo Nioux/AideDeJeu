@@ -9,7 +9,7 @@ namespace AideDeJeu.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ItemsPage : ContentPage
     {
-        MainViewModel Main
+        public MainViewModel Main
         {
             get
             {
