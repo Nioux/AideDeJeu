@@ -1449,7 +1449,7 @@ Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 
 - **Prix** 5 po 
 - **Poids** 1,5 kg
 
-Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de [Sagesse] ([Médecine]).
+Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de [Sagesse (Médecine)].
 
 
 [][Equipment]
@@ -2444,6 +2444,8 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 
 [Médecine]: abilities_wisdom_hd.md#médecine
 [Sagesse]: abilities_wisdom_hd.md#sagesse
+
+[Sagesse (Médecine)]: abilities_wisdom_hd.md#médecine
 
 
 [Equipments]: #

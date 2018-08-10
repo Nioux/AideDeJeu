@@ -14,10 +14,10 @@ Saltimbanques, artistes de cirque, les enfants de la balle se déplacent par mon
 
 Au niveau 3, vous choisissez une spécialité emblématique des troupes de spectacle itinérantes qui vous permet de prétendre à certaines compétences. Choisissez une formation parmi les quatre proposées.
 
-* Bouffon : vous bénéficiez d'un avantage à tous les tests de [Charisme] ([Supercherie]) et lorsque vous utilisez des accessoires de déguisement.
-* Force de la nature : vous bénéficiez d'un avantage à tous les tests de [Force] ([Athlétisme]) et vous maîtrisez désormais les [jets de sauvegarde] de [Force].
-* Jongleur : vous bénéficiez d'un avantage à tous les tests de [Dextérité] ([Acrobatie]) et [Dextérité] ([Escamotage]).
-* Voyante : vous bénéficiez d'un avantage à tous les tests de [Sagesse] ([Perspicacité]) et vous maîtrisez désormais les [jets de sauvegardes] de [Sagesse].
+* Bouffon : vous bénéficiez d'un avantage à tous les tests de [Charisme (Supercherie)] et lorsque vous utilisez des accessoires de déguisement.
+* Force de la nature : vous bénéficiez d'un avantage à tous les tests de [Force (Athlétisme)] et vous maîtrisez désormais les [jets de sauvegarde] de [Force].
+* Jongleur : vous bénéficiez d'un avantage à tous les tests de [Dextérité] ([Acrobatie]) et [Dextérité (Escamotage)].
+* Voyante : vous bénéficiez d'un avantage à tous les tests de [Sagesse (Perspicacité)] et vous maîtrisez désormais les [jets de sauvegardes] de [Sagesse].
 
 [][Generic]
 
@@ -67,6 +67,11 @@ Au niveau 14, votre spécialité fait de vous un professionnel accompli et un ad
 [Escamotage]: abilities_dexterity_hd.md#escamotage
 [Perspicacité]: abilities_wisdom_hd.md#perspicacité
 [Supercherie]: abilities_charisma_hd.md#supercherie
+
+[Charisme (Supercherie)]: abilities_charisma_hd.md#supercherie
+[Dextérité (Escamotage)]: abilities_dexterity_hd.md#escamotage
+[Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
+[Sagesse (Perspicacité)]: abilities_wisdom_hd.md#perspicacité
 
 
 

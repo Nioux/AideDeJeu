@@ -20,7 +20,7 @@ Dès le niveau 3, vous faites l'acquisition d'un second terrain de prédilection
 
 Également au niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous êtes capable de piéger une zone de 3 mètres de côté en seulement 5 minutes.
 
-Toute créature qui s'apprête à entrer dans la zone piégée doit faire un test de [Sagesse] ([Perception]) pour détecter le piège (difficulté équivalente à un sort). Vous pouvez choisir l'effet du piège parmi deux variantes :
+Toute créature qui s'apprête à entrer dans la zone piégée doit faire un test de [Sagesse (Perception)] pour détecter le piège (difficulté équivalente à un sort). Vous pouvez choisir l'effet du piège parmi deux variantes :
 
 Piège létal (projectile, fosse, chausse-trappe, etc.). Inflige 1d6 dégâts par point de bonus de maîtrise. Si la victime réussit un [jet de sauvegarde] de [Dextérité], elle ne subit que la moitié des dégâts.
 
@@ -38,7 +38,7 @@ Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection,
 
 * Votre groupe ne peut plus être surpris (sauf si vous en décidez autrement).
 * Vous obtenez un avantage en initiative.
-* Vous obtenez un avantage à tous vos tests de [Force] ([Athlétisme]) et de [Dextérité] ([Discrétion]).
+* Vous obtenez un avantage à tous vos tests de [Force (Athlétisme)] et de [Dextérité (Discrétion)].
 
 [][Generic]
 
@@ -69,6 +69,10 @@ Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus,
 [Athlétisme]: abilities_strength_hd.md#athlétisme
 [Discrétion]: abilities_dexterity_hd.md#discrétion
 [Perception]: abilities_wisdom_hd.md#perception
+
+[Dextérité (Discrétion)]: abilities_dexterity_hd.md#discrétion
+[Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
 
 
 

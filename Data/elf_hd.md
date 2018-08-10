@@ -57,7 +57,7 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 
 **Augmentation de caractéristiques.** Votre valeur de [Sagesse] augmente de 1.
 
-**Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité] ([Discrétion]) et [Sagesse] ([Survie]) lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
+**Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité (Discrétion)] et [Sagesse (Survie)] lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
 
 **Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
 
@@ -73,6 +73,9 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 [Discrétion]: abilities_dexterity_hd.md#discrétion
 [Perception]: abilities_wisdom_hd.md#perception
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Dextérité (Discrétion)]: abilities_dexterity_hd.md#discrétion
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
 [Generic]: #

@@ -14,7 +14,7 @@ L'exilé est l'héritier d'une longue tradition ou d'une lignée de sang noble d
 
 À partir du niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous pouvez appliquer des herbes médicinales sur un nombre de créatures égal à votre bonus de maîtrise, vous inclus, durant un repos court. A la fin du repos, chaque patient récupère un nombre de d6 Points de Vie égal à votre bonus de maîtrise. Vous pouvez utiliser cette aptitude une fois entre deux repos longs. A partir du niveau 11, vous pouvez l'utiliser deux fois entre deux repos longs
 
-Vous obtenez un avantage à tous vos tests de [Sagesse] ([Médecine]), d'[Intelligence] ([Nature]), de [Sagesse] ([Perception]) ou de [Sagesse] ([Survie]) qui concernent les plantes.
+Vous obtenez un avantage à tous vos tests de [Sagesse (Médecine)], d'[Intelligence (Nature)], de [Sagesse (Perception)] ou de [Sagesse (Survie)] qui concernent les plantes.
 
 [][Generic]
 
@@ -48,6 +48,11 @@ Lorsque vous atteignez le niveau 7, une longue lutte ou une longue rancoeur vous
 [Nature]: abilities_intelligence_hd.md#nature
 [Perception]: abilities_wisdom_hd.md#perception
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Intelligence (Nature)]: abilities_intelligence_hd.md#nature
+[Sagesse (Médecine)]: abilities_wisdom_hd.md#médecine
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
 

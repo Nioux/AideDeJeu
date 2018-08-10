@@ -26,7 +26,7 @@ Vous apprenez de nouvelles langues lorsque votre bonus de maîtrise augmente.
 
 ## Lire sur les lèvres
 
-À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de [Sagesse] ([Perception]) dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un désavantage si votre cible est dans une zone de lumière faible.
+À partir du niveau 9, vous devenez capable de lire sur les lèvres ce que dit quelqu'un que vous n'entendez pas mais dont vous pouvez voir le visage. Vous devez réussir un test de [Sagesse (Perception)] dont la difficulté est égale à la moitié de la distance en mètres entre vous et votre cible (avec un minimum de 10 si la cible est à moins de 20 mètres). Vous subissez un désavantage si votre cible est dans une zone de lumière faible.
 
 [][Generic]
 
@@ -44,7 +44,7 @@ Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie
 
 ## Agent très spécial
 
-À partir du niveau 17, vous obtenez un avantage aux tests d'[Intelligence] ([Investigation]), de [Sagesse] ([Perception]) et de [Charisme] ([Supercherie]).
+À partir du niveau 17, vous obtenez un avantage aux tests d'[Intelligence (Investigation)], de [Sagesse (Perception)] et de [Charisme (Supercherie)].
 
 [][Generic]
 
@@ -63,6 +63,10 @@ Lorsque vous atteignez le niveau 13, vous ne pouvez plus être la cible de magie
 [Investigation]: abilities_intelligence_hd.md#investigation
 [Perception]: abilities_wisdom_hd.md#perception
 [Supercherie]: abilities_charisma_hd.md#supercherie
+
+[Charisme (Supercherie)]: abilities_charisma_hd.md#supercherie
+[Intelligence (Investigation)]: abilities_intelligence_hd.md#investigation
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
 
 
 [Items]: #

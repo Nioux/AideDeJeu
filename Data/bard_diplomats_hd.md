@@ -18,7 +18,7 @@ Lorsque vous rejoignez le collège des diplomates au niveau 3, vous apprenez deu
 
 ## Orateur exceptionnel
 
-Également au niveau 3, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de [Sagesse] ([Perspicacité]), de [Charisme] ([Persuasion]) et [Charisme] ([Supercherie]).
+Également au niveau 3, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de [Sagesse (Perspicacité)], de [Charisme (Persuasion)] et [Charisme (Supercherie)].
 
 [][Generic]
 
@@ -43,6 +43,10 @@ Au niveau 14, lorsqu'un de vos sorts de l'école d'enchantement cesse de faire e
 [Perspicacité]: abilities_wisdom_hd.md#perspicacité
 [Persuasion]: abilities_charisma_hd.md#persuasion
 [Supercherie]: abilities_charisma_hd.md#supercherie
+
+[Charisme (Persuasion)]: abilities_charisma_hd.md#persuasion
+[Charisme (Supercherie)]: abilities_charisma_hd.md#supercherie
+[Sagesse (Perspicacité)]: abilities_wisdom_hd.md#perspicacité
 
 
 

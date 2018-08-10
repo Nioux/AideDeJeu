@@ -66,7 +66,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 ## Druidique
 
-Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse] ([Perception]) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
+Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse (Perception)] DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
 
 [][Generic]
 
@@ -221,6 +221,8 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 [Perspicacité]: abilities_wisdom_hd.md#perspicacité
 [Religion]: abilities_intelligence_hd.md#religion
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
 
 
 [Items]: #

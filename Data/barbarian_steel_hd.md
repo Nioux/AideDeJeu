@@ -8,7 +8,7 @@ La magie est l'arme des faibles, des corrompus et des traîtres, vous savez qu'o
 
 ## Sens de la magie
 
-Dès le niveau 3, lorsque vous êtes en présence de magie, vous avez des sueurs froides et les poils de votre nuque se hérissent. Lorsque vous êtes sur le point d'entrer dans une zone imprégnée de magie ou sous l'influence d'un sort (comme un piège magique), le MJ doit vous demander un test de [Sagesse] ([Perception]) DD 10 ou réaliser ce test secrètement. En cas de succès, vous ressentez la présence de la magie juste avant d'y pénétrer. La même procédure doit être utilisée si vous vous préparez à toucher un objet ou une surface enchantée.
+Dès le niveau 3, lorsque vous êtes en présence de magie, vous avez des sueurs froides et les poils de votre nuque se hérissent. Lorsque vous êtes sur le point d'entrer dans une zone imprégnée de magie ou sous l'influence d'un sort (comme un piège magique), le MJ doit vous demander un test de [Sagesse (Perception)] DD 10 ou réaliser ce test secrètement. En cas de succès, vous ressentez la présence de la magie juste avant d'y pénétrer. La même procédure doit être utilisée si vous vous préparez à toucher un objet ou une surface enchantée.
 
 [][Generic]
 
@@ -46,6 +46,9 @@ Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous b
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 [Perception]: abilities_wisdom_hd.md#perception
+
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
+
 
 
 [Items]: #

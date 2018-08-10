@@ -12,13 +12,13 @@ Le héraut est à la fois un lettré, un spécialiste de l'héraldique, et un co
 
 ## Héraldique
 
-Au niveau 3, lorsque vous rejoignez ce collège, vous pouvez ajouter le résultat de votre dé d'inspiration bardique à tous vos tests d'[Intelligence] ([Histoire]) qui concernent l'héraldique ou la noblesse. Cette utilisation ne dépense aucun point d'inspiration bardique.
+Au niveau 3, lorsque vous rejoignez ce collège, vous pouvez ajouter le résultat de votre dé d'inspiration bardique à tous vos tests d'[Intelligence (Histoire)] qui concernent l'héraldique ou la noblesse. Cette utilisation ne dépense aucun point d'inspiration bardique.
 
 [][Generic]
 
 ## Par monts et par vaux
 
-Également au niveau 3, vous avez l'habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de [Sagesse] ([Survie]). De plus, vous obtenez le bénéfice au choix d'un style de combat :
+Également au niveau 3, vous avez l'habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de [Sagesse (Survie)]. De plus, vous obtenez le bénéfice au choix d'un style de combat :
 
 Duel. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
@@ -47,6 +47,9 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 
 [Histoire]: abilities_intelligence_hd.md#histoire
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Intelligence (Histoire)]: abilities_intelligence_hd.md#histoire
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
 

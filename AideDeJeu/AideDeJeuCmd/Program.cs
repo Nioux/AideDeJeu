@@ -311,7 +311,7 @@ namespace AideDeJeuCmd
                             }
                             if(files.Count == 0)
                             {
-                                files[""] = "";
+                                //files[""] = "";
                             }
                             foreach (var file in files)
                             {

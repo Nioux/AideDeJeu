@@ -49,6 +49,8 @@ Le MJ peut vous demander de faire un test de Charisme quand vous tentez d'accomp
 
 Les [bardes], les [paladins], les [ensorceleurs] et les [sorciers] utilisent le [Charisme] comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
 
+
+
 [bardes]: bard_hd.md
 [ensorceleurs]: sorcerer_hd.md
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

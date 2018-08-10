@@ -30,7 +30,7 @@ La puissance des profondeurs vous permet de choisir des sorts dans une liste de 
 
 ## Adepte des profondeurs
 
-Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l'air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'[Intelligence] ([Investigation]), [Sagesse] ([Perception]) et [Charisme] ([Persuasion]). Porter un chapeau à large bord ou une capuche permet d'annuler cet effet.
+Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela affecte à jamais votre façon de voir le monde et votre santé mentale. Désormais, vous êtes à votre aise dans les souterrains et les profondeurs abyssales, mais vous craignez l'air libre et la lumière du jour. Lorsque vous êtes en plein air et que rien ne vous cache le ciel et la lumière du soleil, par exemple par beau temps en montagne ou en plaine, vous subissez un désavantage à vos tests d'[Intelligence (Investigation)], [Sagesse (Perception)] et [Charisme (Persuasion)]. Porter un chapeau à large bord ou une capuche permet d'annuler cet effet.
 
 À l'inverse, de nuit ou tant que vous êtes sous terre ou sous l'eau, vous bénéficiez d'un avantage à ces tests.
 
@@ -82,6 +82,10 @@ Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette apt
 [respiration aquatique]: spells_hd.md#respiration-aquatique
 [sommeil]: spells_hd.md#sommeil
 [vision dans le noir]: spells_hd.md#vision-dans-le-noir
+
+[Charisme (Persuasion)]: abilities_charisma_hd.md#persuasion
+[Intelligence (Investigation)]: abilities_intelligence_hd.md#investigation
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
 
 
 [Items]: #

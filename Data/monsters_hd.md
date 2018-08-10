@@ -602,7 +602,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 ## Capacités
 
-**_Détection des proies._** Le cerbère peut détecter la direction de la créature à sang chaud de taille moyenne (ou petite, faute de mieux) la plus proche de lui dans un rayon d'un kilomètre. Pour cela il doit faire un test de [Sagesse] (Perception) opposé à la [Dextérité] ([Discrétion]) de sa cible. Si la cible est située à plus de 300 mètres de distance, il subit un désavantage à son test.
+**_Détection des proies._** Le cerbère peut détecter la direction de la créature à sang chaud de taille moyenne (ou petite, faute de mieux) la plus proche de lui dans un rayon d'un kilomètre. Pour cela il doit faire un test de [Sagesse] (Perception) opposé à la [Dextérité (Discrétion)] de sa cible. Si la cible est située à plus de 300 mètres de distance, il subit un désavantage à son test.
 
 ## Actions
 
@@ -1402,7 +1402,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants et la cible doit réussir un [jet de s
 
 **_Coutille._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 3 m, une cible.
 
-_Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas perdre 5 (1d10) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 5 (1d10). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse] ([Médecine]) DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
+_Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas perdre 5 (1d10) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 5 (1d10). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse (Médecine)] DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
 
 [][MonsterHD]
@@ -1446,7 +1446,7 @@ _Touché :_ 14 (4d6) dégâts de feu. La cible prend également feu si c'est un 
 
 **_Queue._** Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. 
 
-_Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 17 pour ne pas perdre 10 (3d6) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 10 (3d6). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse] ([Médecine]) DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
+_Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 17 pour ne pas perdre 10 (3d6) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 10 (3d6). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse (Médecine)] DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
 
 [][MonsterHD]
@@ -4754,7 +4754,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 
 ## Capacités
 
-**_Camouflage dans la rocaille._** Le géant obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués pour se cacher dans des environnements rocailleux.
+**_Camouflage dans la rocaille._** Le géant obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués pour se cacher dans des environnements rocailleux.
 
 ## Actions
 
@@ -5066,7 +5066,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 ## Capacités
 
-**_Camouflage dans la rocaille._** Le gnome obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués pour se cacher dans des environnements rocailleux.
+**_Camouflage dans la rocaille._** Le gnome obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués pour se cacher dans des environnements rocailleux.
 
 **_Incantation innée._** La caractéristique d'incantation innée du gnome est l'[Intelligence] (DD du [jet de sauvegarde] contre les sorts 11). Le gnome peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 
@@ -5630,7 +5630,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 
 ## Capacités
 
-**_Camouflage dans la rocaille._** Le grick obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués pour se cacher dans des environnements rocailleux.
+**_Camouflage dans la rocaille._** Le grick obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués pour se cacher dans des environnements rocailleux.
 
 ## Actions
 
@@ -5709,7 +5709,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 **_Apparence illusoire._** La guenaude cache son apparence, ainsi que celle de tous ses objets équipés ou transportés, par le biais d'une illusion qui la fait ressembler à une créature laide de forme humanoïde et d'une taille à peu près équivalente à la sienne. L'illusion disparaît si la guenaude effectue une action bonus pour y mettre un terme ou si elle meurt.
 
-Les modifications apportées par cet effet ne résistent pas à une inspection physique. Par exemple, l'illusion peut dissimuler les griffes de la guenaude mais quelqu'un qui touche sa main peut sentir la présence de griffes. Sinon, une créature doit effectuer une action pour inspecter visuellement l'illusion et réussir un test d'[Intelligence] ([Investigation]) DD 16 pour se rendre compte que la guenaude est déguisée.
+Les modifications apportées par cet effet ne résistent pas à une inspection physique. Par exemple, l'illusion peut dissimuler les griffes de la guenaude mais quelqu'un qui touche sa main peut sentir la présence de griffes. Sinon, une créature doit effectuer une action pour inspecter visuellement l'illusion et réussir un test d'[Intelligence (Investigation)] DD 16 pour se rendre compte que la guenaude est déguisée.
 
 **_Griffes._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
@@ -5797,7 +5797,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 
 L'illusion disparaît si la guenaude effectue une action bonus pour y mettre un terme ou si elle meurt.
 
-Les modifications apportées par cet effet ne résistent pas à une inspection physique. Par exemple, l'illusion peut lisser la peau de la guenaude mais quelqu'un qui la touche sentira la rugosité de son épiderme. Sinon, une créature doit effectuer une action pour inspecter visuellement l'illusion et réussir un test d'[Intelligence] ([Investigation]) DD 20 pour se rendre compte que la guenaude est déguisée.
+Les modifications apportées par cet effet ne résistent pas à une inspection physique. Par exemple, l'illusion peut lisser la peau de la guenaude mais quelqu'un qui la touche sentira la rugosité de son épiderme. Sinon, une créature doit effectuer une action pour inspecter visuellement l'illusion et réussir un test d'[Intelligence (Investigation)] DD 20 pour se rendre compte que la guenaude est déguisée.
 
 **_Griffes._** Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible.
 
@@ -8849,7 +8849,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 ## Capacités
 
-**_Camouflage dans la rocaille._** Le torve obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués pour se cacher dans des environnements rocailleux.
+**_Camouflage dans la rocaille._** Le torve obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués pour se cacher dans des environnements rocailleux.
 
 **_Odorat et ouïe aiguisés._** Le torve obtient un avantage lors des tests de [Sagesse] (Perception) basés sur l'odorat ou l'ouïe.
 
@@ -9324,7 +9324,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 ## Capacités
 
-**_Camouflage dans la rocaille._** Le xorn obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués pour se cacher dans des environnements rocailleux.
+**_Camouflage dans la rocaille._** Le xorn obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués pour se cacher dans des environnements rocailleux.
 
 **_Perception des trésors._** Le xorn peut localiser à l'odeur les pierres et les métaux précieux, tels que les pièces de monnaie et les gemmes, sur une distance maximale de 18 mètres.
 
@@ -9366,7 +9366,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 ## Capacités
 
-**_Camouflage dans la neige._** Un yéti a l'avantage aux jets de [Dextérité] ([Discrétion]) effectués pour se cacher sur un terrain enneigé.
+**_Camouflage dans la neige._** Un yéti a l'avantage aux jets de [Dextérité (Discrétion)] effectués pour se cacher sur un terrain enneigé.
 
 **_Crainte du feu._** Si le yéti subit des dégâts de feu, il subit un désavantage aux jets d'attaque et de caractéristique jusqu'à la fin de son tour de jeu suivant.
 
@@ -11175,7 +11175,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 **_Odorat et ouïe aiguisés._** Le loup obtient un avantage lors des tests de [Sagesse] (Perception) basés sur l'odorat ou l'ouïe.
 
-**_Camouflage dans la neige._** Le loup obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués pour se cacher dans des environnements enneigés.
+**_Camouflage dans la neige._** Le loup obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués pour se cacher dans des environnements enneigés.
 
 **_Tactique de groupe._** Le loup obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du loup qui n'est pas [neutralisé], se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 
@@ -11704,7 +11704,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 ## Capacités
 
-**_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués sous l'eau.
+**_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués sous l'eau.
 
 **_Respiration aquatique._** La pieuvre peut respirer uniquement sous l'eau.
 
@@ -11739,7 +11739,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 
 ## Capacités
 
-**_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de [Dextérité] ([Discrétion]) effectués sous l'eau.
+**_Camouflage sous l'eau._** La pieuvre obtient un avantage lors des tests de [Dextérité (Discrétion)] effectués sous l'eau.
 
 **_Respiration aquatique._** La pieuvre peut respirer uniquement sous l'eau.
 
@@ -12835,7 +12835,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 
 ## Capacités
 
-**_Ouïe et vue aiguisées._** L'éclaireur obtient un avantage lors des tests de [Sagesse] ([Perception]) basés sur l'ouïe ou la vue.
+**_Ouïe et vue aiguisées._** L'éclaireur obtient un avantage lors des tests de [Sagesse (Perception)] basés sur l'ouïe ou la vue.
 
 ## Actions
 
@@ -13493,6 +13493,11 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 [Représentation]: abilities_charisma_hd.md#représentation
 [Supercherie]: abilities_charisma_hd.md#supercherie
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Dextérité (Discrétion)]: abilities_dexterity_hd.md#discrétion
+[Intelligence (Investigation)]: abilities_intelligence_hd.md#investigation
+[Sagesse (Médecine)]: abilities_wisdom_hd.md#médecine
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
 
 [MonstersHD]: #
 [MonsterHD]: #

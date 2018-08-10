@@ -10,7 +10,7 @@ Le barbare qui choisit la voie du hurlement suit une tradition ancienne perpétu
 
 ## Intimidant
 
-Dès le niveau 3, votre apparence est si inhabituelle et effrayante que vous bénéficiez d'un avantage à tous les tests de [Charisme] ([Intimidation]) ou de [Force (Intimidation)].
+Dès le niveau 3, votre apparence est si inhabituelle et effrayante que vous bénéficiez d'un avantage à tous les tests de [Charisme (Intimidation)] ou de [Force (Intimidation)].
 
 [][Generic]
 
@@ -55,6 +55,8 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 [Intimidation]: abilities_charisma_hd.md#intimidation
 [Force (Intimidation)]: abilities_hd.md#option--compétences-associées-avec-différentes-caractéristiques
+
+[Charisme (Intimidation)]: abilities_charisma_hd.md#intimidation
 
 
 

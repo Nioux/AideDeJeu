@@ -12,7 +12,7 @@ Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spi
 
 ## Né dans la nature
 
-Au niveau 3, vous bénéficiez d'un avantage aux tests de [Sagesse] ([Perception]) effectués en milieu naturel (+5 pour le valeur passive) et aux tests de [Sagesse] ([Survie]).
+Au niveau 3, vous bénéficiez d'un avantage aux tests de [Sagesse (Perception)] effectués en milieu naturel (+5 pour le valeur passive) et aux tests de [Sagesse (Survie)].
 
 [][Generic]
 
@@ -30,7 +30,7 @@ Vous êtes capable de maintenir une concentration lorsque vous êtes sous les ef
 
 Lorsque vous atteignez le niveau 6, vous êtes habilité à porter une coiffe sacrée, un trophée qui symbolise l'esprit auquel vous êtes lié : une peau de bête, comme celle d'un loup avec la gueule en guise de capuche, celle d'un bison avec ses cornes ou encore une coiffe de plumes pour un oiseau, etc.
 
-Cet élément vous donne un avantage à tous les tests de [Charisme] ([Intimidation]) et, désormais, lorsque vous êtes en rage, vous êtes habité par l'instinct de l'animal.
+Cet élément vous donne un avantage à tous les tests de [Charisme (Intimidation)] et, désormais, lorsque vous êtes en rage, vous êtes habité par l'instinct de l'animal.
 
 Vous pouvez réaliser une attaque de griffes ou de morsure au lieu d'utiliser une arme. Vous infligez 1d6 dégâts plus tous les modificateurs habituels, et l'attaque est considérée comme magique pour ce qui concerne les résistances.
 
@@ -40,7 +40,7 @@ Vous pouvez réaliser une attaque de griffes ou de morsure au lieu d'utiliser un
 
 ## Communion
 
-À partir du niveau 10, vous bénéficiez d'un avantage sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : [Force] ([Athlétisme]). Renard : [Charisme] ([Supercherie]). Loup : [Dextérité] ([Discrétion]). Taureau : [Intelligence] ([Nature]). Aigle : [Charisme] ([Persuasion]). Chouette : [Sagesse] ([Perspicacité]). Lynx : [Dextérité] ([Acrobaties]).
+À partir du niveau 10, vous bénéficiez d'un avantage sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : [Force (Athlétisme)]. Renard : [Charisme (Supercherie)]. Loup : [Dextérité (Discrétion)]. Taureau : [Intelligence (Nature)]. Aigle : [Charisme (Persuasion)]. Chouette : [Sagesse (Perspicacité)]. Lynx : [Dextérité (Acrobaties)].
 
 En dépensant un point de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : [compagnon animal], [messager animal], [poison naturel], [protection contre le poison], [restauration inférieure], [vision dans le noir].
 
@@ -83,6 +83,17 @@ Désormais, lorsque vous terminez un repos court, vous récupérez un point de l
 [Supercherie]: abilities_charisma_hd.md#supercherie
 [Survie]: abilities_wisdom_hd.md#survie
 [vision dans le noir]: environment_hd.md#vision-dans-le-noir
+
+[Charisme (Intimidation)]: abilities_charisma_hd.md#intimidation
+[Charisme (Persuasion)]: abilities_charisma_hd.md#persuasion
+[Charisme (Supercherie)]: abilities_charisma_hd.md#supercherie
+[Dextérité (Acrobaties)]: abilities_dexterity_hd.md#acrobaties
+[Dextérité (Discrétion)]: abilities_dexterity_hd.md#discrétion
+[Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
+[Intelligence (Nature)]: abilities_intelligence_hd.md#nature
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
+[Sagesse (Perspicacité)]: abilities_wisdom_hd.md#perspicacité
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
 [Items]: #

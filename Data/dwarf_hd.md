@@ -25,7 +25,7 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 **Maîtrise des outils.** Vous obtenez la maîtrise des outils d'un artisanat de votre choix parmi cette liste : outils de forgeron, matériel de brasseur, outils de maçon.
 
-**Connaissance de la pierre.** Quand vous faites un test d'[Intelligence] ([Histoire]) relatif au travail de la pierre, vous considérez que vous possédez la maîtrise de la compétence [Histoire] et vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
+**Connaissance de la pierre.** Quand vous faites un test d'[Intelligence (Histoire)] relatif au travail de la pierre, vous considérez que vous possédez la maîtrise de la compétence [Histoire] et vous ajoutez le double de votre bonus de maîtrise au résultat du test au lieu de votre bonus de maîtrise normal.
 
 **Langues.** Vous pouvez parler et écrire en commun et en nain. Le nain est une langue aux consonnes dures et aux sons gutturaux, des spécificités qui se retrouvent dans l'accent qu'ont les nains en parlant un autre langage.
 
@@ -68,5 +68,6 @@ En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les 
 
 [Histoire]: abilities_intelligence_hd.md#histoire
 
+[Intelligence (Histoire)]: abilities_intelligence_hd.md#histoire
 
 [Generic]: #

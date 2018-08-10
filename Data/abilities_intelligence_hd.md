@@ -59,6 +59,8 @@ Le MJ peut vous demander de faire un test d'Intelligence quand vous tentez d'acc
 
 Les [magiciens] utilisent l'[Intelligence] comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
 
+
+
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
 [Constitution]: abilities_constitution_hd.md

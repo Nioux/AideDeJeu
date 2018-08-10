@@ -12,7 +12,7 @@ Vous affinez vos compétences dans l'art du larcin. Les cambrioleurs, bandits, v
 
 ## Mains lestes
 
-À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de [Dextérité] ([Escamotage]), utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action utiliser un objet.
+À partir du niveau 3, vous pouvez utiliser l'action bonus que vous permet votre aptitude ruse pour faire un test de [Dextérité (Escamotage)], utiliser vos outils de voleurs pour désamorcer un piège ou crocheter une serrure, ou encore réaliser l'action utiliser un objet.
 
 [][Generic]
 
@@ -28,7 +28,7 @@ De plus, quand vous faites un saut avec élan, la distance à laquelle vous pouv
 
 ## Furtivité suprême
 
-À partir du niveau 9, vous obtenez un avantage sur vos tests de [Dextérité] ([Discrétion]) si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
+À partir du niveau 9, vous obtenez un avantage sur vos tests de [Dextérité (Discrétion)] si vous ne vous déplacez pas de plus de la moitié de votre vitesse pendant un tour.
 
 [][Generic]
 
@@ -55,6 +55,9 @@ Lors du premier round de chaque combat, vous pouvez jouer deux tours. Vous jouez
 
 [Discrétion]: abilities_dexterity_hd.md#discrétion
 [Escamotage]: abilities_dexterity_hd.md#escamotage
+
+[Dextérité (Discrétion)]: abilities_dexterity_hd.md#discrétion
+[Dextérité (Escamotage)]: abilities_dexterity_hd.md#escamotage
 
 
 

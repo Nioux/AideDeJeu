@@ -79,7 +79,7 @@ Dans des souterrains où le danger rôde à chaque pas, en pleine montagne ou en
 
 # Escalader, nager et ramper
 
-Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mètre supplémentaire (et 2 mètres s’il s’agit d’un terrain difficile), sauf si vous possédez une vitesse d’escalade ou de nage. Le MJ peut choisir, quand vous tentez d’escalader une surface verticale et glissante, ou qui ne présente que peu de prises, de vous faire faire un test de [Force] ([Athlétisme]). De la même manière, si vous devez vous déplacer dans des eaux agitées, vous aurez peut-être à effectuer un [test de Force] ([Athlétisme]).
+Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mètre supplémentaire (et 2 mètres s’il s’agit d’un terrain difficile), sauf si vous possédez une vitesse d’escalade ou de nage. Le MJ peut choisir, quand vous tentez d’escalader une surface verticale et glissante, ou qui ne présente que peu de prises, de vous faire faire un test de [Force (Athlétisme)]. De la même manière, si vous devez vous déplacer dans des eaux agitées, vous aurez peut-être à effectuer un [test de Force] ([Athlétisme]).
 
 [][Generic]
 
@@ -95,7 +95,7 @@ Quand vous faites un saut en longueur, à condition de prendre au moins 3 mètre
 
 Cette règle part du principe que la hauteur de votre saut n’a pas d’importance, comme si vous deviez sauter par-dessus un ruisseau ou une crevasse. Votre MJ peut néanmoins vous demander de faire un [test de Force] ([Athlétisme]) pour déterminer si vous réussissez à sauter par-dessus un petit obstacle (pas plus grand que le quart de la longueur de votre saut), comme une haie ou un muret. Si vous échouez, vous heurtez cet obstacle.
 
-Quand vous vous trouvez sur un terrain difficile, vous devez réussir un test de [Dextérité] ([Acrobaties]) pour retomber sur vos pieds. Sinon, vous tombez à terre.
+Quand vous vous trouvez sur un terrain difficile, vous devez réussir un test de [Dextérité (Acrobaties)] pour retomber sur vos pieds. Sinon, vous tombez à terre.
 
 [][Generic]
 
@@ -109,6 +109,9 @@ Vous pouvez tendre les bras au-dessus de vous jusqu’à la moitié de votre pro
 [Athlétisme]: abilities_strength_hd.md#athlétisme
 [Dextérité]: abilities_dexterity_hd.md#dextérité
 [Force]: abilities_strength_hd.md#force
+
+[Dextérité (Acrobaties)]: abilities_dexterity_hd.md#acrobaties
+[Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
 
 
 [Items]: #

@@ -77,7 +77,7 @@ Votre bonus de maîtrise ne peut pas être ajouté plus d'une fois à un jet de 
 
 Il peut arriver que votre bonus de maîtrise soit multiplié ou divisé (multiplié ou divisé par deux, par exemple) avant que vous l'appliquiez au résultat de votre jet de dés. Par exemple, l'aptitude expertise du roublard permet de doubler le bonus de maîtrise lors de certains tests de caractéristique. Néanmoins, si une situation suggère que vous pouvez utiliser plus d'une fois votre bonus de maîtrise pour le même jet de dés, vous ne pouvez l'ajouter qu'une seule fois et vous ne pouvez le multiplier ou le diviser qu'une seule fois.
 
-De la même manière, si une aptitude ou un effet vous permet de multiplier votre bonus de maîtrise quand vous faites un test de caractéristique alors que ce test ne bénéficie normalement pas de ce bonus, vous n'ajoutez pas le bonus au test. Pour ce test, votre bonus de maîtrise est de 0, car multiplier 0 par un autre nombre donne toujours 0. Par exemple, si vous n'avez pas la compétence [Histoire], une aptitude qui vous permet de multiplier par deux votre bonus de maîtrise quand vous faites un test d'[Intelligence] ([Histoire]) ne vous apporte rien.
+De la même manière, si une aptitude ou un effet vous permet de multiplier votre bonus de maîtrise quand vous faites un test de caractéristique alors que ce test ne bénéficie normalement pas de ce bonus, vous n'ajoutez pas le bonus au test. Pour ce test, votre bonus de maîtrise est de 0, car multiplier 0 par un autre nombre donne toujours 0. Par exemple, si vous n'avez pas la compétence [Histoire], une aptitude qui vous permet de multiplier par deux votre bonus de maîtrise quand vous faites un test d'[Intelligence (Histoire)] ne vous apporte rien.
 
 En règle générale, vous ne multipliez pas votre bonus de maîtrise pour les jets d'attaque ou les [jets de sauvegarde], mais si une aptitude ou un effet vous permet de le faire, ces mêmes règles s'appliquent.
 
@@ -150,9 +150,9 @@ Les compétences liées à chaque valeur de caractéristique sont présentées d
   * [Représentation]
   * [Supercherie]
 
-Il peut arriver que le MJ demande un test de caractéristique lié à une compétence spécifique. Par exemple, un test de [Sagesse] ([Perception]). Un joueur peut aussi demander au MJ si sa maîtrise d'une compétence donnée s'applique à un test. Dans les deux cas, la maîtrise d'une compétence permet à un personnage d'ajouter son bonus de maîtrise au test de caractéristique lié à cette compétence. S'il ne maîtrise pas la compétence, le personnage fait un test de caractéristique normal.
+Il peut arriver que le MJ demande un test de caractéristique lié à une compétence spécifique. Par exemple, un test de [Sagesse (Perception)]. Un joueur peut aussi demander au MJ si sa maîtrise d'une compétence donnée s'applique à un test. Dans les deux cas, la maîtrise d'une compétence permet à un personnage d'ajouter son bonus de maîtrise au test de caractéristique lié à cette compétence. S'il ne maîtrise pas la compétence, le personnage fait un test de caractéristique normal.
 
-Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force] ([Athlétisme]). Si le personnage maîtrise la compétence [Athlétisme], il ajoute son bonus de maîtrise à son test de [Force]. S'il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
+Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peut lui demander de faire un test de [Force (Athlétisme)]. Si le personnage maîtrise la compétence [Athlétisme], il ajoute son bonus de maîtrise à son test de [Force]. S'il ne maîtrise pas cette compétence, il réalise simplement un test de [Force].
 
 [][Generic]
 
@@ -160,7 +160,7 @@ Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peu
 
 Normalement, votre maîtrise d'une compétence n'intervient que dans des tests de caractéristique spécifiques. Maîtriser l'[Athlétisme], par exemple, n'est généralement utile que pour les tests de [Force]. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests.
 
-Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de [Constitution] pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'[Athlétisme] et demander un test de [Constitution] ([Athlétisme]). Si vous maîtrisez la compétence [Athlétisme], vous appliquez votre bonus de maîtrise au test de [Constitution] comme vous le feriez pour un test de [Force] ([Athlétisme]).
+Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de [Constitution] pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'[Athlétisme] et demander un test de [Constitution] ([Athlétisme]). Si vous maîtrisez la compétence [Athlétisme], vous appliquez votre bonus de maîtrise au test de [Constitution] comme vous le feriez pour un test de [Force (Athlétisme)].
 
 De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence [Intimidation] est normalement associée au [Charisme].
 
@@ -176,7 +176,7 @@ Voilà comment déterminer le résultat d'un personnage à un test passif :
 
 Si un personnage obtient un avantage pour ce test, ajoutez 5 au résultat. Si le personnage subit un désavantage, soustrayez 5 au résultat. Le jeu se réfère au résultat d'un test passif sous le terme de valeur passive.
 
-Par exemple, si un personnage de niveau 1 a une valeur de [Sagesse] de 15 et maîtrise la compétence [Perception], sa valeur passive de [Sagesse] ([Perception]) est de 14.
+Par exemple, si un personnage de niveau 1 a une valeur de [Sagesse] de 15 et maîtrise la compétence [Perception], sa valeur passive de [Sagesse (Perception)] est de 14.
 
 Les règles pour se cacher, dans la section [Dextérité] ciaprès, et les règles d'exploration décrites dans le chapitre 8, Partir à l'aventure, pages 269-281, se basent sur des tests passifs.
 
@@ -198,7 +198,7 @@ Quand plusieurs individus tentent d'accomplir quelque chose en tant que groupe, 
 
 Pour faire un test de caractéristique de groupe, tous les membres du groupe concerné doivent faire un test de caractéristique. Si au moins la moitié d'entre eux réussit, on considère que le test est un succès et tout le groupe réussit. Dans le cas contraire, c'est un échec.
 
-Les tests de groupe ne sont pas fréquents. Ils interviennent quand tous les personnages réussissent ou échouent ensemble. Par exemple, quand les aventuriers traversent un marais, le MJ peut leur demander de réaliser un test de caractéristique de groupe de [Sagesse] ([Survie]) afin de vérifier s'ils évitent les sables mouvants, les trous d'eau ou tout autre danger naturel qui se trouve dans leur environnement. Si au moins la moitié du groupe réussit, les personnages qui ont réussi leur test aident les autres à éviter les dangers. Sinon, l'ensemble du groupe tombe dans l'un de ces pièges.
+Les tests de groupe ne sont pas fréquents. Ils interviennent quand tous les personnages réussissent ou échouent ensemble. Par exemple, quand les aventuriers traversent un marais, le MJ peut leur demander de réaliser un test de caractéristique de groupe de [Sagesse (Survie)] afin de vérifier s'ils évitent les sables mouvants, les trous d'eau ou tout autre danger naturel qui se trouve dans leur environnement. Si au moins la moitié du groupe réussit, les personnages qui ont réussi leur test aident les autres à éviter les dangers. Sinon, l'ensemble du groupe tombe dans l'un de ces pièges.
 
 [][Generic]
 
@@ -282,7 +282,10 @@ Le résultat d'un jet de sauvegarde réussi ou raté est indiqué dans la descri
 [Supercherie]: abilities_charisma_hd.md#supercherie
 [Survie]: abilities_wisdom_hd.md#survie
 
-
+[Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
+[Intelligence (Histoire)]: abilities_intelligence_hd.md#histoire
+[Sagesse (Perception)]: abilities_wisdom_hd.md#perception
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 [Items]: #
 [Generic]: #

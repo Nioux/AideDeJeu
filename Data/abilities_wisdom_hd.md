@@ -38,7 +38,7 @@ Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à dis
 
 ### Survie
 
-Le MJ peut vous demander de faire un test de [Sagesse] ([Survie]) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
+Le MJ peut vous demander de faire un test de [Sagesse (Survie)] si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
 
 [][Generic]
 
@@ -54,6 +54,8 @@ Le MJ peut vous demander de faire un test de [Sagesse] quand vous tentez d'accom
 ## Caractéristique d'incantation
 
 Les [clercs], les [druides] et les [rôdeurs] utilisent la [Sagesse] comme caractéristique d'incantation et afin de déterminer les DD des [jets de sauvegarde] de leurs sorts.
+
+
 
 [clercs]: cleric_hd.md
 [druides]: druid_hd.md
@@ -73,6 +75,8 @@ Les [clercs], les [druides] et les [rôdeurs] utilisent la [Sagesse] comme carac
 [Perception]: abilities_wisdom_hd.md#perception
 [Perspicacité]: abilities_wisdom_hd.md#perspicacité
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
 [Items]: #

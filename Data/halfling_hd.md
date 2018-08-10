@@ -39,7 +39,7 @@ En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu cr
 
 **Augmentation de caractéristiques.** Votre valeur de [Constitution] augmente de 1.
 
-**Esprit pragmatique.** Vous obtenez un avantage sur  les tests de [Sagesse] ([Perspicacité]) lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde] contre les sorts de charme.
+**Esprit pragmatique.** Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)] lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde] contre les sorts de charme.
 
 **Travailleur acharné.** Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
 
@@ -53,6 +53,8 @@ En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu cr
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 [Perspicacité]: abilities_wisdom_hd.md#perspicacité
+
+[Sagesse (Perspicacité)]: abilities_wisdom_hd.md#perspicacité
 
 
 [Generic]: #

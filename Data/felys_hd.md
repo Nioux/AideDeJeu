@@ -19,15 +19,15 @@ Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacit
 
 **Vision dans le noir.** Comme tous les membres de votre race, vous possédez une vision supérieure dans l'obscurité et dans la lumière faible. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris.
 
-**Sixième sens.** Vous êtes toujours sur le qui-vive. Si vous êtes surpris, vous pouvez tout de même effectuer, au choix, un déplacement ou une action unique (comme une unique attaque, par exemple) lors de votre premier tour. Vous ne disposez cependant pas de votre action bonus ou de votre réaction. De plus, vous obtenez un avantage sur les tests de [Sagesse] ([Survie]) effectués afin de pister une créature.
+**Sixième sens.** Vous êtes toujours sur le qui-vive. Si vous êtes surpris, vous pouvez tout de même effectuer, au choix, un déplacement ou une action unique (comme une unique attaque, par exemple) lors de votre premier tour. Vous ne disposez cependant pas de votre action bonus ou de votre réaction. De plus, vous obtenez un avantage sur les tests de [Sagesse (Survie)] effectués afin de pister une créature.
 
-**Agilité féline.** Vous obtenez un avantage sur vos tests de [Force] ([Athlétisme]) effectués afin d'escalader. Vous pouvez grimper à votre vitesse de déplacement normale.
+**Agilité féline.** Vous obtenez un avantage sur vos tests de [Force (Athlétisme)] effectués afin d'escalader. Vous pouvez grimper à votre vitesse de déplacement normale.
 
 **Griffes du fauve.** Vous possédez de petites griffes rétractiles. Vos dommages à mains nues peuvent être tranchants ou contondants, selon ce que vous préférez. Vous devez choisir avant d'effectuer votre jet d'attaque.
 
 **Toujours sur ses pattes.** Les chats retombent toujours sur leurs pattes, c'est connu. Lorsque vous tombez dans le vide, vous savez comment contrôler votre chute, que cela soit en vous réceptionnant sur les pieds ou en roulé-boulé, ou simplement en utilisant votre environnement afin de la ralentir. Vous pouvez effectuer un [jet de sauvegarde] de [Dextérité] contre une difficulté de 8 + la distance de chute (en mètres). En cas de réussite, vous ne subissez que la moitié des dommages habituels et vous vous réceptionnez correctement, évitant ainsi de vous retrouver à terre.
 
-**Difficile à croire.** Tout le monde sait qu'on ne peut pas faire confiance à un chat, et votre sincérité est souvent remise en question. Vous subissez un désavantage sur vos tests de [Charisme] ([Persuasion]) quand votre interlocuteur n'est pas un félys.
+**Difficile à croire.** Tout le monde sait qu'on ne peut pas faire confiance à un chat, et votre sincérité est souvent remise en question. Vous subissez un désavantage sur vos tests de [Charisme (Persuasion)] quand votre interlocuteur n'est pas un félys.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun, ainsi qu'une autre langue de votre choix.
 
@@ -43,6 +43,10 @@ Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacit
 [Athlétisme]: abilities_strength_hd.md#athlétisme
 [Persuasion]: abilities_charisma_hd.md#persuasion
 [Survie]: abilities_wisdom_hd.md#survie
+
+[Charisme (Persuasion)]: abilities_charisma_hd.md#persuasion
+[Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
+[Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
 [Generic]: #
