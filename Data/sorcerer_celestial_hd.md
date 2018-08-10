@@ -20,7 +20,7 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 
 ## Énergie positive
 
-Au niveau 1, bénéficiez d'un avantage à tous les [jets de sauvegarde] contre l'état [terrorisé]. Lorsque vous êtes [terrorisé], vous divisez la durée de l'effet par deux.
+Au niveau 1, vous bénéficiez d'un avantage à tous les [jets de sauvegarde] contre l'état [terrorisé]. Lorsque vous êtes [terrorisé], vous divisez la durée de l'effet par deux.
 
 L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de sorcellerie, vous récupérez autant de points de vie que de points de sorcellerie utilisés.
 

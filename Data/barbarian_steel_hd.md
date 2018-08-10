@@ -32,7 +32,7 @@ Votre arme et votre esprit ne font qu'un, et votre volonté est assez forte pour
 
 ## Rage froide
 
-Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous bénéficiez d'un avantage à toutes les [jets de sauvegarde] pour résister aux sorts ou aux pouvoirs magiques des créatures, et une résistance à tous les dégâts des sorts. Vous ne devez pas porter d'armure magique pour bénéficier de cette aptitude.
+Au niveau 14 et par la suite, lorsque vous êtes sous l'effet de la rage, vous bénéficiez d'un avantage à tous les [jets de sauvegarde] pour résister aux sorts ou aux pouvoirs magiques des créatures, et une résistance à tous les dégâts des sorts. Vous ne devez pas porter d'armure magique pour bénéficier de cette aptitude.
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

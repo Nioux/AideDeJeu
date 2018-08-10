@@ -35,7 +35,7 @@ Du niveau 2 au niveau 9, vous obtenez accès aux sorts suivants. Ces sorts sont 
 |2|appel de familier|
 |3|invisibilité|
 |4|pas brumeux|
-|5|confusion|
+|5|motif hypnotique|
 |6|nuage puant|
 |7|porte dimensionnelle|
 |8|terrain hallucinatoire|
