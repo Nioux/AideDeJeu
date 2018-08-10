@@ -156,7 +156,7 @@ Normalement, votre maîtrise d'une compétence n'intervient que dans des tests d
 
 Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de [Constitution] pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'[Athlétisme] et demander un test de [Constitution] ([Athlétisme]). Si vous maîtrisez la compétence [Athlétisme], vous appliquez votre bonus de maîtrise au test de [Constitution] comme vous le feriez pour un test de [Force] ([Athlétisme]).
 
-De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence Intimidation est normalement associée au [Charisme].
+De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de [Force] (Intimidation), même si la compétence [Intimidation] est normalement associée au [Charisme].
 
 ## Tests passifs
 
