@@ -6,6 +6,8 @@
 
 ## [Équipement](equipment_hd.md)
 
+## [Dons](feats_hd.md)
+
 ## [Caractéristiques](abilities_hd.md)
 
 ## [États spéciaux](conditions_hd.md)
