@@ -28,6 +28,7 @@ namespace AideDeJeu.Tools
             var assembly = typeof(Helpers).GetTypeInfo().Assembly;
             return assembly.GetManifestResourceNames();
         }
+
         public static async Task<string> GetResourceStringAsync(string resourceName)
         {
             var assembly = typeof(Helpers).GetTypeInfo().Assembly;
@@ -38,6 +39,22 @@ namespace AideDeJeu.Tools
                     using (var sr = new StreamReader(stream))
                     {
                         return await sr.ReadToEndAsync();
+                    }
+                }
+                return null;
+            }
+        }
+
+        public static string GetResourceString(string resourceName)
+        {
+            var assembly = typeof(Helpers).GetTypeInfo().Assembly;
+            using (var stream = assembly.GetManifestResourceStream(resourceName))
+            {
+                if (stream != null)
+                {
+                    using (var sr = new StreamReader(stream))
+                    {
+                        return sr.ReadToEnd();
                     }
                 }
                 return null;
