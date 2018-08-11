@@ -37,27 +37,27 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # Tableau d'évolution
 
-|Niveau|Bonus de maîtrise|Aptitudes|Rages|Dégâts de rage|
+|Niveau|Bonus<br>de<br>maîtrise|Aptitudes|Rages|Dégâts<br>de<br>rage|
 |---|---|---|---|---|
-|1|+2|[Rage], [Défense sans armure]|2|+2|
-|2|+2|[Témérité], [Sens du danger]|2|+2|
+|1|+2|[Rage],<br>[Défense sans armure]|2|+2|
+|2|+2|[Témérité],<br>[Sens du danger]|2|+2|
 |3|+2|[Voie primitive]|3|+2|
-|4|+2|[Amélioration de caractéristiques]|3|+2|
-|5|+3|[Attaque supplémentaire], [Déplacement rapide]|3|+2|
+|4|+2|[Amélioration de<br>caractéristiques]|3|+2|
+|5|+3|[Attaque supplémentaire],<br>[Déplacement rapide]|3|+2|
 |6|+3|[Aptitude de voie]|4|+2|
 |7|+3|[Instinct sauvage]|4|+2|
-|8|+3|[Amélioration de caractéristiques]|4|+2|
+|8|+3|[Amélioration de<br>caractéristiques]|4|+2|
 |9|+4|[Critique brutal] (1 dé)|4|+3|
 |10|+4|[Aptitude de voie]|4|+3|
 |11|+4|[Rage implacable]|4|+3|
-|12|+4|[Amélioration de caractéristiques]|5|+3|
+|12|+4|[Amélioration de<br>caractéristiques]|5|+3|
 |13|+5|[Critique brutal] (2 dés)|5|+3|
 |14|+5|[Aptitude de voie]|5|+3|
 |15|+5|[Rage ininterrompue]|5|+3|
-|16|+5|[Amélioration de caractéristiques]|5|+4|
+|16|+5|[Amélioration de<br>caractéristiques]|5|+4|
 |17|+6|[Critique brutal] (3 dés)|6|+4|
 |18|+6|[Puissance indomptable]|6|+4|
-|19|+6|[Amélioration de caractéristiques]|6|+4|
+|19|+6|[Amélioration de<br>caractéristiques]|6|+4|
 |20|+6|[Champion primitif]|Illimité|+4|
 
 
@@ -188,6 +188,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 
 [Amélioration de caractéristiques]: barbarian_hd.md#amélioration-de-caractéristiques
+[Amélioration de<br>caractéristiques]: barbarian_hd.md#amélioration-de-caractéristiques
 [Aptitude de voie]: barbarian_hd.md#voie-primitive
 [Attaque supplémentaire]: barbarian_hd.md#attaque-supplémentaire
 [Champion primitif]: barbarian_hd.md#champion-primitif

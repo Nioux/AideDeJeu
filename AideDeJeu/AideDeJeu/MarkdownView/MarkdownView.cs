@@ -607,6 +607,23 @@
                         },
                     };
 
+                case HtmlInline html:
+                    if (html.Tag == "<br>")
+                    {
+                        return new[]
+                        {
+                        new Span()
+                        {
+                            Text="\r\n",
+                            FontSize = size,
+                            FontFamily = family,
+                            ForegroundColor = foregroundColor,
+                            BackgroundColor = backgroundColor
+                        },
+                    };
+                    }
+                    return null;
+
                 default:
                     Debug.WriteLine($"Can't render {inline.GetType()} inlines.");
                     return null;

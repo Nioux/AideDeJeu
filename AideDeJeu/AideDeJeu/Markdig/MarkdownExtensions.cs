@@ -179,6 +179,11 @@ namespace AideDeJeu.Tools
                 var containerInline = inline as Markdig.Syntax.Inlines.ContainerInline;
                 add = containerInline.ToMarkdownString();
             }
+            else if (inline is Markdig.Syntax.Inlines.HtmlInline)
+            {
+                var htmlInline = inline as Markdig.Syntax.Inlines.HtmlInline;
+                add = htmlInline.Tag;
+            }
             else
             {
                 add = inline.ToString();
