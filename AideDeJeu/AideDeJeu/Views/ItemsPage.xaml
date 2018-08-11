@@ -30,8 +30,8 @@
             <DataTemplate>
                 <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
                     <StackLayout Padding="10" Orientation="Vertical">
-                        <Label Text="{Binding Name}" LineBreakMode="NoWrap" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}}" />
-                        <Label Text="{Binding AltNameText}" LineBreakMode="NoWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                        <Label Text="{Binding Name}" LineBreakMode="WordWrap" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}}" />
+                        <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
                     </StackLayout>
                 </ViewCell>
             </DataTemplate>
