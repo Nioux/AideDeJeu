@@ -3,13 +3,14 @@
 
 # Options de personnalisation
 
-[][Generic]
+[][LinkItem]
 
 ## [Multiclassage](multiclassing_hd.md)
 
-[][Generic]
+[][LinkItem]
 
 ## [Dons](feats_hd.md)
 
 [Items]: #
 [Generic]: #
+[LinkItem]: #

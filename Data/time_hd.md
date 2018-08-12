@@ -31,3 +31,4 @@ Dans le cadre des combats et d’autres situations de jeu où l’action se dér
 
 [Items]: #
 [Generic]: #
+[LinkItem]: #
