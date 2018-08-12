@@ -432,12 +432,25 @@
             var scroll = new ScrollView() { HorizontalScrollBarVisibility = ScrollBarVisibility.Default, Orientation = ScrollOrientation.Horizontal };
             var grid = new Grid() { HorizontalOptions = LayoutOptions.Start, Margin = 0, Padding = 1, BackgroundColor = Theme.TableHeader.BackgroundColor, RowSpacing = 1, ColumnSpacing = 1 };
 
-            int top = 0;
             int maxColumns = 0;
             foreach (Markdig.Extensions.Tables.TableRow row in tableBlock)
             {
+                maxColumns = Math.Max(maxColumns, row.Count);
+                grid.RowDefinitions.Add(new RowDefinition { Height= GridLength.Auto });
+            }
+            for (int i = 0; i < maxColumns; i++)
+            {
+                grid.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
+            }
+
+
+
+
+            int top = 0;
+            foreach (Markdig.Extensions.Tables.TableRow row in tableBlock)
+            {
                 int left = 0;
-                foreach(Markdig.Extensions.Tables.TableCell cell in row)
+                foreach (Markdig.Extensions.Tables.TableCell cell in row)
                 {
                     foreach (var blockpar in cell)
                     {
@@ -464,35 +477,11 @@
                     }
 
                     left++;
-                    maxColumns = Math.Max(maxColumns, left);
                 }
-                grid.RowDefinitions.Add(new RowDefinition { Height= GridLength.Auto });
                 top++;
             }
-            for (int i = 0; i < maxColumns; i++)
-            {
-                grid.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
-            }
-            /*double? gridHeight = null;
-            grid.SizeChanged += (object sender, EventArgs e) => 
-            {
-                if (gridHeight == null)
-                {
-                    gridHeight = grid.HeightRequest = grid.Height;
-                }
-                else
-                {
-                    grid.HeightRequest = gridHeight.Value;
-                }
-            };*/
-
-            //grid.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
-            //grid.RowDefinitions.Add(new RowDefinition { Height= new GridLength(1, GridUnitType.Star) });
             stack.Children.Add(scroll);
             scroll.Content = grid;
-            //grid.WidthRequest = 1000;
-            //scroll.ForceLayout();
-            //this.UpdateChildrenLayout();
         }
 
 
