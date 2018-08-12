@@ -3,6 +3,9 @@
 
 # Sangdragon
 
+- AltName: Dragonborn (SRD p5)
+- Source: (MDR p69)
+
 ## Traits des sangdragons
 
 Votre lignée draconique se manifeste par différents traits que vous partagez avec les autres sangdragons.

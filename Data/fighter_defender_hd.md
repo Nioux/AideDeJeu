@@ -1,10 +1,9 @@
+
 [][Items]
 
 # Défenseur
 
-[][Generic]
-
-# Défenseur
+- Source: (MDR p163)
 
 Généralement revêtu d'une lourde armure, le défenseur est un spécialiste de la protection, un garde du corps et un guerrier très résistant. Il est capable de gérer les créatures dans une mêlée de façon à ce qu'elles restent à son contact et ne puissent pas atteindre ses alliés. Ce type de guerrier devient rapidement le meilleur ami de tous ses compagnons d'aventure, mais il exige une certaine maîtrise tactique et une coordination de l'ensemble du groupe pour être efficace.
 

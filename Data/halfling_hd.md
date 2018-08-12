@@ -3,6 +3,9 @@
 
 # Halfelin
 
+- AltName: Halfling (SRD p4)
+- Source: (MDR p52)
+
 ## Traits des halfelins
 
 Un halfelin possède de nombreux traits en commun avec tous les autres halfelins.

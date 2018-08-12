@@ -2,9 +2,8 @@
 
 # Invocations occultes
 
-[][Generic]
-
-# Invocations occultes
+- AltName: Eldritch Invocations (SRD p48)
+- Source: (MDR p213)
 
 Si une invocation occulte a des prérequis, vous ne pouvez pas apprendre cette invocation tant que vous ne remplissez pas les conditions adéquates. Dès que c'est le cas, vous êtes en mesure d'apprendre l'invocation en question. Si une des conditions est un niveau, il s'agit du niveau que vous possédez dans la classe de sorcier.
 

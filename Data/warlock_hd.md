@@ -3,6 +3,9 @@
 
 # Sorcier
 
+- AltName: Warlock (SRD p46)
+- Source: (MDR p209)
+
 [][Generic]
 
 # Aptitudes de classe

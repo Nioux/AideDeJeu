@@ -2,9 +2,7 @@
 
 # Serment de rédemption
 
-[][Generic]
-
-# Serment de rédemption
+- Source: (MDR p191)
 
 Les paladins qui suivent cette voie le font très rarement par choix, et ce serment n'est pas accessible à la création.
 

@@ -2,6 +2,9 @@
 
 # Multiclassage
 
+- AltName: Multiclassing (SRD p56)
+- Source: (MDR p242)
+
 Le multiclassage vous permet de gagner des niveaux dans différentes classes. Vous pouvez ainsi mélanger les aptitudes de plusieurs classes afin de créer un type de personnage qui n'existe pas parmi les archétypes proposés.
 
 Grâce à cette règle, vous avez la possibilité de gagner un niveau dans une nouvelle classe à chaque fois que vous gagnez un niveau plutôt que de gagner un niveau dans votre classe actuelle. Afin de connaître le niveau de votre personnage, il faut additionner les niveaux de toutes vos classes. Par exemple, si vous avez trois niveaux en tant que magicien et deux niveaux en tant que guerrier, vous incarnez un personnage de niveau 5.

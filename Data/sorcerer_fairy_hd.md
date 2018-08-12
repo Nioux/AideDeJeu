@@ -2,9 +2,7 @@
 
 # Lignée féerique
 
-[][Generic]
-
-# Lignée féerique
+- Source: (MDR p157)
 
 Les fées sont des créatures magiques étroitement liées à la nature, et votre pouvoir puise sa source dans leur magie, à travers votre sang ou celui de vos ancêtres.
 

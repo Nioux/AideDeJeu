@@ -3,6 +3,9 @@
 
 # Druide
 
+- AltName: Druid (SRD p17)
+- Source: (MDR p142)
+
 [][Generic]
 
 # Aptitudes de classe

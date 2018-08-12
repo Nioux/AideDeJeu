@@ -3,6 +3,9 @@
 
 # Demi-elfe
 
+- AltName: Half-Elf (SRD p6)
+- Source: (MDR p39)
+
 ## Traits des demi-elfes
 
 Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui sont propres aux demi-elfes.

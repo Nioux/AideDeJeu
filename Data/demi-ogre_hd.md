@@ -3,6 +3,8 @@
 
 # Demi-ogre
 
+- Source: (MDR p62)
+
 ## Traits des demi-ogres
 
 Un demi-ogre a hérité de certains traits de son ascendance ogre.

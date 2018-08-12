@@ -2,9 +2,7 @@
 
 # Serment de piété
 
-[][Generic]
-
-# Serment de piété
+- Source: (MDR p190)
 
 Le serment de piété est celui des paladins qui adoptent les préceptes et les enseignements d'un culte divin. Ils consacrent dès lors leur vie à poursuivre l'idéal présenté par leur divinité et à lutter, les armes à la main, contre ses ennemis.
 

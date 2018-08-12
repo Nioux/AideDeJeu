@@ -1,10 +1,10 @@
+
 [][Items]
 
 # Champion
 
-[][Generic]
-
-# Champion
+- AltName: Champion (SRD p25)
+- Source: (MDR p162)
 
 Le champion se concentre sur le développement de la force physique brute perfectionnée pour en faire une arme mortelle. Ceux qui adoptent cet archétype associent entraînement rigoureux avec excellence physique afin de porter des coups dévastateurs.
 

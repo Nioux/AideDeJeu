@@ -3,6 +3,9 @@
 
 # Rôdeur
 
+- AltName: Ranger (SRD p35)
+- Source: (MDR p194)
+
 [][Generic]
 
 # Aptitudes de classe

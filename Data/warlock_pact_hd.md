@@ -2,9 +2,8 @@
 
 # Pacte
 
-[][Generic]
-
-# Pacte
+- AltName: Pact Boon (SRD p47)
+- Source: (MDR p211)
 
 Au niveau 3, votre protecteur d'outre-monde vous accorde un cadeau en récompense de vos loyaux services.
 

@@ -3,6 +3,8 @@
 
 # Homme serpent
 
+- Source: (MDR p66)
+
 ## Traits des hommes serpents
 
 Créature étrange et à sang froid, vous possédez les capacités suivantes.

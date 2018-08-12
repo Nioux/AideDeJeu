@@ -1,10 +1,9 @@
+
 [][Items]
 
 # Bretteur
 
-[][Generic]
-
-# Bretteur
+- Source: (MDR p162)
 
 Le bretteur est un guerrier qui compte sur la précision et la vitesse de ses attaques plutôt que sur sa force et la taille de son arme. Parfois aussi nommé duelliste, escrimeur ou encore spadassin, selon sa fonction ou sa philosophie du combat, cet archétype porte une armure légère afin de conserver assez de mobilité et de rapidité. Son style de combat peut être flamboyant et acrobatique ou, au contraire, efficace et sans fioriture, mais dans tous les cas son art a pour objectif d'atteindre les organes vitaux de sa cible avec une précision chirurgicale.
 

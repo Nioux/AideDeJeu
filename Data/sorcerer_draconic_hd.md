@@ -2,9 +2,8 @@
 
 # Lignée draconique
 
-[][Generic]
-
-# Lignée draconique
+- AltName: Draconic Bloodline (SRD p44)
+- Source: (MDR p155)
 
 Votre magie innée est une résurgence de la magie draconique mêlée à votre sang ou celui de vos ancêtres.
 

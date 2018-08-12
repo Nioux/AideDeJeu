@@ -2,9 +2,7 @@
 
 # Ombrelame
 
-[][Generic]
-
-# Ombrelame
+- Source: (MDR p206)
 
 Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l'adversaire semble une seconde nature chez certain.
 

@@ -2,9 +2,7 @@
 
 # Archer arcanique
 
-[][Generic]
-
-# Archer arcanique
+- Source: (MDR p198)
 
 L'archer arcanique est un rôdeur capable de canaliser sa magie pour enchanter ses flèches de façon à les rendre plus létales ou à leur permettre d'atteindre des cibles hors de portée pour tout autre que lui.
 

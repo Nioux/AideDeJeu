@@ -3,6 +3,9 @@
 
 # Tieffelin
 
+- AltName: Tiefling (SRD p7)
+- Source: (MDR p71)
+
 ## Traits des tieffelins
 
 Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur ascendance infernale.

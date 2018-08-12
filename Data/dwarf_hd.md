@@ -3,6 +3,9 @@
 
 # Nain
 
+- AltName: Dwarf (SRD p3)
+- Source: (MDR p57)
+
 ## Traits des nains
 
 Votre personnage nain est doté d'un ensemble de capacités innées liées à sa nature de nain.

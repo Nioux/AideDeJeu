@@ -3,6 +3,9 @@
 
 # Moine
 
+- AltName: Monk (SRD p26)
+- Source: (MDR p176)
+
 [][Generic]
 
 # Aptitudes de classe

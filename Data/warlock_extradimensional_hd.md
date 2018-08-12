@@ -2,9 +2,7 @@
 
 # L'entité extra-dimensionnelle
 
-[][Generic]
-
-# L'entité extra-dimensionnelle
+- Source: (MDR p217)
 
 Votre protecteur est une entité incompréhensible pour les sens humains, il existe dans une dimension qui n'est pas accessible aux mortels et probablement interdite aux dieux eux-mêmes. Sa nature ne respecte pas les lois physiques de notre monde, ni les règles de la géométrie euclidienne et sa présence se manifeste à travers des singularités dans la trame du temps ou des déformations de la réalité. Ses desseins sont aussi impénétrables que sa nature, mais il a besoin de relais mortels pour accéder à la perception de notre monde. Votre relation est donc basée sur un intérêt réciproque : à travers vous, il ouvre une fenêtre vers la réalité et vous bénéficiez en contrepartie des pouvoirs que votre connexion avec sa dimension vous octroie.
 

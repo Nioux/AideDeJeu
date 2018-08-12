@@ -2,9 +2,7 @@
 
 # Cercle des fées
 
-[][Generic]
-
-# Cercle des fées
+- Source: (MDR p149)
 
 Le druide du cercle des fées a appris les secrets du petit peuple des bois et des forêts, il sait reconnaître les signes et parler le langage des fées, il sait trouver les portes vers le monde invisible lorsqu'il existe. Il fait partie des rares mortels qui sont bienvenus à la cour féerique. En échange, il a juré de défendre les fées, mais aussi les lutins et autres korrigans, même ceux du peuple invisible dont l'âme est la plus sombre et, surtout, de protéger les lieux sauvages et les cercles sacrés qui les abritent.
 

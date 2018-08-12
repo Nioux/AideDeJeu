@@ -3,6 +3,8 @@
 
 # Félys
 
+- Source: (MDR p64)
+
 ## Traits des félys
 
 Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacités suivantes.

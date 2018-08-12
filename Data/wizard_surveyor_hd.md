@@ -2,9 +2,7 @@
 
 # Arpenteur
 
-[][Generic]
-
-# Arpenteur
+- Source: (MDR p171)
 
 L'arpenteur est un magicien dont la formation n'est pas aussi théorique que celle de son illustre confrère issu de l'académie. Moins spécialisé, il maîtrise quelques compétences utiles à la vie d'aventurier. Une fois sa formation initiale terminée, il ne peut compter sur les ressources d'une école de magie pour continuer à progresser et doit parcourir le monde pour nourrir son art. Les arpenteurs sont souvent des mages ambulants qui parcourent le pays pour étudier les légendes locales et faire profiter les villages qu'ils traversent de spectacles pyrotechniques. Mais cet intérêt pour les légendes cache souvent une double vie d'explorateur qui leur permet de trouver et de déchiffrer d'antiques formules magiques cachées au coeur de ruines oubliées.
 

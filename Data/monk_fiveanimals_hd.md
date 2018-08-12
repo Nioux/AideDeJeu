@@ -2,9 +2,7 @@
 
 # Voie des cinq animaux
 
-[][Generic]
-
-# Voie des cinq animaux
+- Source: (MDR p180)
 
 Les moines de la voie des cinq animaux s'inspirent de la nature et des créatures ordinaires ou fantastiques pour développer des techniques de combat originales et déconcertantes pour leurs adversaires. Les adeptes de cette tradition délaissent totalement les armes pour se concentrer sur les techniques à mains nues. Ils observent la nature durant de longues heures, puis répètent les mouvements qu'ils ont observés pendant des jours entiers. Enfin, ils affrontent – parfois de façon pacifique, parfois dans une lutte à mort – les créatures qu'ils imitent afin d'en saisir toutes les subtilités.
 

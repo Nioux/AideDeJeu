@@ -3,6 +3,9 @@
 
 # Ensorceleur
 
+- AltName: Sorcerer (SRD p41)
+- Source: (MDR p152)
+
 [][Generic]
 
 # Aptitudes de classe

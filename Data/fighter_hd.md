@@ -3,6 +3,9 @@
 
 # Guerrier
 
+- AltName: Fighter (SRD p24)
+- Source: (MDR p160)
+
 [][Generic]
 
 # Aptitudes de classe

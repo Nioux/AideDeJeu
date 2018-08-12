@@ -2,9 +2,7 @@
 
 # Brute
 
-[][Generic]
-
-# Brute
+- Source: (MDR p205)
 
 Tous les roublards ou crapules ne sont pas forcément des monte-en-l'air ou des acrobates. Dans le métier, on ne manque pas d'emplois pour les costauds et les coriaces, ceux qui sont plutôt taillés pour la bagarre, l'intimidation ou la protection… bien que ce terme ait un sens dans le milieu très différent de celui que les honnêtes gens lui prêtent. Sans doute ces individus auraient- ils pu faire une belle carrière de guerrier, mais la vie ou leur goût pour l'illégalité en a décidé autrement.
 

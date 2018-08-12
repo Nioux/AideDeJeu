@@ -3,6 +3,9 @@
 
 # Humain
 
+- AltName: Human (SRD p5)
+- Source: (MDR p54)
+
 ## Traits des humains
 
 Il est difficile de faire des généralisations en ce qui concerne les humains. Ils possèdent les traits suivants :

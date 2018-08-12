@@ -3,6 +3,9 @@
 
 # Magicien
 
+- AltName: Wizard (SRD p52)
+- Source: (MDR p166)
+
 [][Generic]
 
 ## Aptitudes de classe
@@ -169,6 +172,8 @@ Et même les magiciens qui forment des apprentis dans la solitude de leurs tours
 
 ## [Éminence grise]
 
+## [École d'évocation]
+
 [][Generic]
 
 # Votre grimoire
@@ -194,6 +199,7 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 [Arpenteur]: wizard_surveyor_hd.md
 [Élémentaliste]: wizard_elementalist_hd.md
 [Éminence grise]: wizard_eminence_hd.md
+[École d'évocation]: wizard_evocation_hd.md
 
 [Amélioration de caractéristiques]: wizard_hd.md#amélioration-de-caractéristiques
 [Aptitude de tradition arcanique]: wizard_hd.md#tradition-arcanique

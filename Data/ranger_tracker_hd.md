@@ -2,9 +2,7 @@
 
 # Traqueur
 
-[][Generic]
-
-# Traqueur
+- Source: (MDR p199)
 
 Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu'il s'agit de trouver et d'éliminer des adversaires sur son terrain de prédilection.
 

@@ -2,6 +2,9 @@
 
 # Chasseur
 
+- AltName: Hunter (SRD p37)
+- Source: (MDR p198)
+
 [][Generic]
 
 # Chasseur

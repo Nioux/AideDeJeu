@@ -3,6 +3,9 @@
 
 # Elfe
 
+- AltName: Elf (SRD p4)
+- Source: (MDR p44)
+
 ## Traits des elfes
 
 Votre personnage elfe possède un ensemble de qualités naturelles qui sont le fruit de millénaires de raffinement elfique.

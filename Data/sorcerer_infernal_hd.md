@@ -2,9 +2,7 @@
 
 # Lignée infernale
 
-[][Generic]
-
-# Lignée infernale
+- Source: (MDR p158)
 
 Votre magie innée est une résurgence de la magie fiélonne mêlée à votre sang ou à celui de vos ancêtres.
 

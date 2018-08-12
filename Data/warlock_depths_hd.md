@@ -2,9 +2,7 @@
 
 # La puissance des profondeurs
 
-[][Generic]
-
-# La puissance des profondeurs
+- Source: (MDR p216)
 
 Votre protecteur est une entité du dessous, des entrailles profondes de la terre, des abîmes insondables ou des profondeurs aquatiques. Il déteste la lumière et l'air libre et affectionne au contraire les pressions insupportables pour l'être humain et l'obscurité totale. Ses serviteurs n'ont pas forme humaine, ils rampent et creusent, ce sont les vers, les insectes rampants et les poissons aveugles.
 

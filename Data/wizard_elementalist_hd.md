@@ -2,9 +2,7 @@
 
 # Élémentaliste
 
-[][Generic]
-
-# Élémentaliste
+- Source: (MDR p171)
 
 Vous méprisez le cadre des écoles de magie structuralistes et leurs théories académiques en faveur d'une compréhension naturaliste et globale de la magie. Vos sorts impliquent les quatre éléments primaires que sont l'air, l'eau, la terre et le feu, que vous pliez à votre volonté.
 

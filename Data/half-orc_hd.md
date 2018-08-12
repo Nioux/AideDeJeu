@@ -3,6 +3,9 @@
 
 # Demi-orc
 
+- AltName: Half-Orc (SRD p7)
+- Source: (MDR p41)
+
 ## Traits des demi-orcs
 
 Un demi-orc a hérité de certains traits de son ascendance orc.

@@ -3,6 +3,9 @@
 
 # Gnome
 
+- AltName: Gnome (SRD p6)
+- Source: (MDR p48)
+
 ## Traits des gnomes
 
 Un personnage gnome partage de nombreux traits avec tous les autres gnomes.

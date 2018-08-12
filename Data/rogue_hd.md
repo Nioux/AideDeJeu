@@ -3,6 +3,9 @@
 
 # Roublard
 
+- AltName: Rogue (SRD p39)
+- Source: (MDR p202)
+
 [][Generic]
 
 # Aptitudes de classe

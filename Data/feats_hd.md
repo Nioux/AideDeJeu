@@ -2,6 +2,9 @@
 
 # Dons
 
+- AltName: Feats (SRD p75)
+- Source: (MDR p245)
+
 Un don représente un talent ou un domaine d'expertise d'un personnage, qui lui accorde des capacités spéciales. Un don représente un entraînement, une expérience et des capacités qui sortent du cadre de ce que la classe d'un personnage peut lui accorder.
 
 À certains niveaux, votre classe vous confère l'aptitude amélioration de caractéristiques. Si vous utilisez la règle optionnelle des dons, vous pouvez choisir de remplacer le bénéfice apporté par cette aptitude par un don de votre choix. Vous ne pouvez prendre chaque don qu'une seule fois, sauf dans le cas où la règle de fonctionnement du don précise le contraire.

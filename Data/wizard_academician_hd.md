@@ -2,9 +2,7 @@
 
 # Académicien
 
-[][Generic]
-
-# Académicien
+- Source: (MDR p169)
 
 L'académicien a suivi le cursus classique d'étude, ce qui lui permet de se spécialiser très tôt dans l'une des huit écoles de magie – abjuration, divination, enchantement, évocation, illusion, invocation, nécromancie et transmutation – afin d'y exceller.
 
