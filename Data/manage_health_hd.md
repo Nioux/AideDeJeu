@@ -5,7 +5,7 @@
 
 [][LinkItem]
 
-## Dégâts et guérison
+## [Dégâts et guérison](damage_healing_hd.md)
 
 [][LinkItem]
 

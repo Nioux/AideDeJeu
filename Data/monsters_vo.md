@@ -1,7 +1,7 @@
 
 [][MonstersVO]
 
-# Monsters (SRD)
+# Monsters, NPC and Animals
 - AltName: [Créatures](monsters_hd.md)
 
 
@@ -9,6 +9,7 @@
 
 # Aboleth
 - AltName: [Aboleth]
+- Source: (SRD p261)
 - Large aberration, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 135 (18d10 + 36)
@@ -63,6 +64,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 # Acolyte
 - AltName: [Acolyte]
+- Source: (SRD p395)
 - Medium humanoid (any race), any alignment
 - **Armor Class** 10
 - **Hit Points** 9 (2d8)
@@ -98,6 +100,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # Eagle
 - AltName: [Aigle]
+- Source: (SRD p371)
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -129,6 +132,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 # Giant Eagle
 - AltName: [Aigle géant]
+- Source: (SRD p375)
 - Large beast, neutral good
 - **Armor Class** 13
 - **Hit Points** 26 (4d10 + 4)
@@ -167,6 +171,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # Androsphinx
 - AltName: [Androsphinx]
+- Source: (SRD p347)
 - Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 199 (19d10 + 95)
@@ -239,6 +244,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 # Ankheg
 - AltName: [Ankheg]
+- Source: (SRD p264)
 - Large monstrosity, unaligned
 - **Armor Class** 14 (natural armor), 11 while prone
 - **Hit Points** 39 (6d10 + 6)
@@ -268,6 +274,7 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 
 # Spider
 - AltName: [Araignée]
+- Source: (SRD p389)
 - Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)
@@ -303,6 +310,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 
 # Phase Spider
 - AltName: [Araignée de phase]
+- Source: (SRD p385)
 - Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 32 (5d10 + 5)
@@ -338,6 +346,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 
 # Giant Spider
 - AltName: [Araignée géante]
+- Source: (SRD p379)
 - Large beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 26 (4d10 + 4)
@@ -377,6 +386,7 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 
 # Giant Wolf Spider
 - AltName: [Araignée-loup géante]
+- Source: (SRD p381)
 - Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 11 (2d8 + 2)
@@ -412,6 +422,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 
 # Awakened Tree
 - AltName: [Arbre éveillé]
+- Source: (SRD p366)
 - Huge plant, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 59 (7d12 + 14)
@@ -444,6 +455,7 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 
 # Awakened Shrub
 - AltName: [Arbuste éveillé]
+- Source: (SRD p366)
 - Small plant, unaligned
 - **Armor Class** 9
 - **Hit Points** 10 (3d6)
@@ -476,6 +488,7 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 
 # Archmage
 - AltName: [Archimage]
+- Source: (SRD p395)
 - Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with
 - **Hit Points** 99 (18d8 + 18)
@@ -533,6 +546,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # Animated Armor
 - AltName: [Armure animée]
+- Source: (SRD p263)
 - Medium construct, unaligned
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -569,6 +583,7 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 
 # Assassin
 - AltName: [Assassin]
+- Source: (SRD p396)
 - Medium humanoid (any race), any non-good alignment
 - **Armor Class** 15 (studded leather)
 - **Hit Points** 78 (12d8 + 24)
@@ -612,6 +627,7 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 
 # Azer
 - AltName: [Azer]
+- Source: (SRD p265)
 - Medium elemental, lawful neutral
 - **Armor Class** 17 (natural armor, shield)
 - **Hit Points** 39 (6d8 + 12)
@@ -649,6 +665,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 
 # Baboon
 - AltName: [Babouin]
+- Source: (SRD p367)
 - Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -679,6 +696,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 
 # Gibbering Mouther
 - AltName: [Babélien]
+- Source: (SRD p314)
 - Medium aberration, neutral
 - **Armor Class** 9
 - **Hit Points** 67 (9d8 + 27)
@@ -718,6 +736,7 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 
 # Balor
 - AltName: [Balor]
+- Source: (SRD p270)
 - Huge fiend (demon), chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 262 (21d12 + 126)
@@ -766,6 +785,7 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 
 # Bandit
 - AltName: [Bandit]
+- Source: (SRD p396)
 - Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 12 (leather armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -796,6 +816,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # Bandit Captain
 - AltName: [Capitaine Bandit]
+- Source: (SRD p397)
 - Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 15 (studded leather)
 - **Hit Points** 65 (10d8 + 20)
@@ -836,6 +857,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 # Basilisk
 - AltName: [Basilic]
+- Source: (SRD p265)
 - Medium monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -866,6 +888,7 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
 # Axe Beak
 - AltName: [Bec de hache]
+- Source: (SRD p366)
 - Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)
@@ -892,6 +915,7 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 
 # Weasel
 - AltName: [Belette]
+- Source: (SRD p392)
 - Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)
@@ -923,6 +947,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Weasel
 - AltName: [Belette géante]
+- Source: (SRD p381)
 - Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 9 (2d8)
@@ -954,6 +979,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 # Berserker
 - AltName: [Berserker]
+- Source: (SRD p397)
 - Medium humanoid (any race), any chaotic alignment
 - **Armor Class** 13 (hide armor)
 - **Hit Points** 67 (9d8 + 27)
@@ -984,6 +1010,7 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 
 # Badger
 - AltName: [Blaireau]
+- Source: (SRD p367)
 - Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 3 (1d4 + 1)
@@ -1014,6 +1041,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Badger
 - AltName: [Blaireau géant]
+- Source: (SRD p373)
 - Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d8 + 4)
@@ -1050,6 +1078,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 
 # Ghast
 - AltName: [Blême]
+- Source: (SRD p311)
 - Medium undead, chaotic evil
 - **Armor Class** 13
 - **Hit Points** 36 (8d8)
@@ -1090,6 +1119,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 
 # Bulette
 - AltName: [Bulette]
+- Source: (SRD p266)
 - Large monstrosity, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 94 (9d10 + 45)
@@ -1123,6 +1153,7 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 
 # Behir
 - AltName: [Béhir]
+- Source: (SRD p265)
 - Huge monstrosity, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 168 (16d12 + 64)

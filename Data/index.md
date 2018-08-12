@@ -42,4 +42,4 @@
 
 ## [Spells](spells_vo.md)
 
-## [Monsters](monsters_vo.md)
+## [Monsters, Animals and NPC](monsters_vo.md)
