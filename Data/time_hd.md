@@ -1,8 +1,4 @@
 
-[][Items]
-
-# Temps
-
 [][Generic]
 
 # Écoulement du temps
