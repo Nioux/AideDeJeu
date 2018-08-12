@@ -2,39 +2,23 @@
 
 ## [Races](races_hd.md)
 
-## Personnalité et Historique
-
-### [Alignement](alignment_hd.md)
-
-### [Langues](languages_hd.md)
-
-### [Inspiration](inspiration_hd.md)
-
-### [Historique](backgrounds_hd.md)
+## [Personnalité et Historique](personnality_background_hd.md)
 
 ## [Classes](classes_hd.md)
 
 ## [Équipement](equipment_hd.md)
 
-## Options de personnalisation
-
-### [Multiclassage](multiclassing_hd.md)
-
-### [Dons](feats_hd.md)
+## [Options de personnalisation](custom_options_hd.md)
 
 ## [Utiliser les Caractéristiques](abilities_hd.md)
 
-## Partir à l'aventure
+## [Partir à l'aventure](adventure_hd.md)
 
-### [États spéciaux](conditions_hd.md)
+## [Combattre](combat_hd.md)
 
-### [L'environnement](environment_hd.md)
+## [Gérer la santé](manage_health_hd.md)
 
-### [Temps](time_hd.md)
-
-### [Repos](resting_hd.md)
-
-## Lancer des sorts
+## [Lancer des sorts](spellcasting_hd.md)
 
 ## [Description des Sorts](spells_hd.md)
 

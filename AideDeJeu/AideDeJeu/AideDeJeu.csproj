@@ -247,6 +247,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\adventure_hd.md" Link="Data\adventure_hd.md" />
+    <EmbeddedResource Include="..\..\Data\combat_hd.md" Link="Data\combat_hd.md" />
+    <EmbeddedResource Include="..\..\Data\custom_options_hd.md" Link="Data\custom_options_hd.md" />
+    <EmbeddedResource Include="..\..\Data\manage_health_hd.md" Link="Data\manage_health_hd.md" />
+    <EmbeddedResource Include="..\..\Data\movement_hd.md" Link="Data\movement_hd.md" />
+    <EmbeddedResource Include="..\..\Data\personnality_background_hd.md" Link="Data\personnality_background_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
