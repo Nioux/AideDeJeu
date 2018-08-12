@@ -236,6 +236,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\alignment_hd.md" Link="Data\alignment_hd.md" />
+    <EmbeddedResource Include="..\..\Data\artifacts_hd.md" Link="Data\artifacts_hd.md" />
+    <EmbeddedResource Include="..\..\Data\backgrounds_hd.md" Link="Data\backgrounds_hd.md" />
+    <EmbeddedResource Include="..\..\Data\inspiration_hd.md" Link="Data\inspiration_hd.md" />
+    <EmbeddedResource Include="..\..\Data\languages_hd.md" Link="Data\languages_hd.md" />
+    <EmbeddedResource Include="..\..\Data\magicitems_az_hd.md" Link="Data\magicitems_az_hd.md" />
+    <EmbeddedResource Include="..\..\Data\magicitems_hd.md" Link="Data\magicitems_hd.md" />
+    <EmbeddedResource Include="..\..\Data\sentient_magicitems_hd.md" Link="Data\sentient_magicitems_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
