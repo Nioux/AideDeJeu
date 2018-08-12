@@ -2,6 +2,9 @@
 
 # Constitution
 
+- AltName: Constitution (SRD p81)
+- Source: (MDR p264)
+
 La Constitution représente la santé, l'endurance et la force vitale.
 
 [][Generic]

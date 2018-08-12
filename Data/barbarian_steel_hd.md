@@ -2,6 +2,8 @@
 
 # Voie de l'acier
 
+- Source: (MDR p117)
+
 La magie est l'arme des faibles, des corrompus et des traîtres, vous savez qu'on ne peut faire confiance qu'à une seule chose en ce bas monde : l'acier ! Attention, si vous choisissez cette voie, vous n'aimez pas porter ou utiliser des objets magiques, et certaines de vos aptitudes ne fonctionnent pas si vous utilisez une arme ou une armure magique. Vous refusez systématiquement les sorts de magie profane dont vos alliés pourraient vous faire profiter, mais vous faites preuve d'un peu plus de tolérance en ce qui concerne la magie divine, en particulier pour les sorts de soins. La magie druidique ne vous pose généralement pas de problème, sauf si elle s'avère corrompue. En effet, si sorciers et magiciens sont des êtres vils qui vivent dans les cités, les tribus barbares accueillent souvent des shamans et des guérisseurs en leur sein.
 
 [][Generic]

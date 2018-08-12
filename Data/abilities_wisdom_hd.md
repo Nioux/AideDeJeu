@@ -2,6 +2,9 @@
 
 # Sagesse
 
+- AltName: Wisdom (SRD p82)
+- Source: (MDR p265)
+
 La Sagesse représente votre sensibilité au monde qui vous entoure, votre perspicacité et votre intuition.
 
 [][Generic]

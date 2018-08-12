@@ -2,9 +2,8 @@
 
 # Collège du savoir
 
-[][Generic]
-
-# Collège du savoir
+- AltName: College of Lore (SRD p13)
+- Source: (MDR p125)
 
 Les bardes du collège du savoir sont versés dans de nombreux domaines de connaissance et ils collectionnent des fragments d'information issus de sources aussi diverses que des traités écrits par des érudits ou des légendes rurales. Qu'ils chantent des ballades populaires dans les tavernes ou interprètent des compositions élaborées dans les cours royales, ces bardes utilisent leurs dons pour captiver leur auditoire. Et quand les applaudissements s'arrêtent, l'audience se retrouve parfois en train de remettre en question ce qui semblait auparavant des évidences, comme leur foi dans la religion locale ou leur loyauté envers leur seigneur.
 

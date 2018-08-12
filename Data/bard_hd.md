@@ -3,6 +3,9 @@
 
 # Barde
 
+- AltName: Bard (SRD p11)
+- Source: (MDR p121)
+
 [][Generic]
 
 # Aptitudes de classe

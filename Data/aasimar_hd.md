@@ -3,6 +3,8 @@
 
 # Aasimar
 
+- Source: (MDR p59)
+
 ## Traits des aasimars
 
 Votre parenté céleste vous a octroyé certains pouvoirs innés.

@@ -2,6 +2,9 @@
 
 # Intelligence
 
+- AltName: Intelligence (SRD p81)
+- Source: (MDR p264)
+
 L'intelligence représente la vivacité d'esprit, la mémoire et la capacité de raisonnement.
 
 [][Generic]

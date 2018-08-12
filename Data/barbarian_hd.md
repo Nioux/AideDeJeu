@@ -3,6 +3,9 @@
 
 # Barbare
 
+- AltName: Barbarian (SRD p8)
+- Source: (MDR p114)
+
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 [][Generic]

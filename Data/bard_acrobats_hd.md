@@ -2,9 +2,7 @@
 
 # Collège des saltimbanques
 
-[][Generic]
-
-# Collège des saltimbanques
+- Source: (MDR p126)
 
 Saltimbanques, artistes de cirque, les enfants de la balle se déplacent par monts et par vaux pour distraire, de leurs prouesses physiques, les puissants tout autant que les manants. Ils forment une troupe qui regroupe différentes spécialités complémentaires afin de présenter un spectacle varié. La solidarité entre les individus n'y est pas un vain mot. Quelles que soient les raisons qui vous ont poussé à ne pas intégrer une troupe ou à quitter la vôtre, vos nouveaux compagnons remplacent cette famille et vous agissez avec eux dans le même esprit de solidarité.
 
