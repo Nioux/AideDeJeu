@@ -2,9 +2,7 @@
 
 # Prêtre
 
-[][Generic]
-
-# Prêtre
+- Source: (MDR p132)
 
 Le prêtre est un clerc qui prie une seule divinité et se met à son service corps et âme. Il n'a pas obligatoirement fait des études religieuses, mais il a été touché par la grâce divine en raison de sa foi et de sa valeur morale.
 

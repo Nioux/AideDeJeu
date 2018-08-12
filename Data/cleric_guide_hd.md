@@ -2,9 +2,7 @@
 
 # Guide spirituel
 
-[][Generic]
-
-# Guide spirituel
+- Source: (MDR p138)
 
 Le guide spirituel, parfois aussi appelé directeur de conscience, professe des principes éthiques et moraux associés à une doctrine religieuse ou à une pratique spirituelle. Cette doctrine peut concerner une divinité particulière ou au contraire englober un panthéon entier.
 

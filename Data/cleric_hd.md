@@ -3,6 +3,9 @@
 
 # Clerc
 
+- AltName:  (SRD p15)
+- Source: (MDR p129)
+
 [][Generic]
 
 # Aptitudes de classe
@@ -180,11 +183,14 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 ## [Théurge]
 
+## [Domaine de la vie]
+
 
 [Prêtre]: cleric_priest_hd.md
 [Gardien des traditions]: cleric_traditions_hd.md
 [Guide spirituel]: cleric_guide_hd.md
 [Théurge]: cleric_theurgist_hd.md
+[Domaine de la vie]: cleric_life_hd.md
 
 [Amélioration de caractéristiques]: cleric_hd.md#amélioration-de-caractéristiques
 [Aptitude de domaine divin]: cleric_hd.md#domaine-divin
