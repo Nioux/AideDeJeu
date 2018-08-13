@@ -14,14 +14,19 @@
 
 ## [Partir à l'aventure](adventure_hd.md)
 
+<!--
 ## [Combattre](combat_hd.md)
+-->
 
 ## [Gérer la santé](manage_health_hd.md)
 
+<!--
 ## [Lancer des sorts](spellcasting_hd.md)
+-->
 
 ## [Description des Sorts](spells_hd.md)
 
+<!--
 # Cadre de campagne
 
 ## [Objets magiques](magicitems_hd.md)
@@ -31,6 +36,7 @@
 ### [Objets magiques intelligents](sentient_magicitems_hd.md)
 
 ### [Artefacts](artifacts_hd.md)
+-->
 
 # Créatures et oppositions
 

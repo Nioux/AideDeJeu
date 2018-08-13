@@ -33,7 +33,7 @@
         <ScrollView Grid.Row="1" Grid.ColumnSpan="2">
             <StackLayout Orientation="Vertical" Padding="16,20,16,20" Spacing="10">
                 
-                <Label Text="Cette application est une aide de jeu pour le plus grand jeu de rôle au monde" />
+                <Label Text="Cette application est une aide de jeu pour le plus grand jeu de rôle au monde et ses dérivés" />
 
                 <Label>
                     <Label.FormattedText>
