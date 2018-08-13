@@ -26,7 +26,7 @@
         </StackLayout>
         <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="{StaticResource titlered}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
             <StackLayout BackgroundColor="{StaticResource titlered}" Padding="20,20,20,20" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
-                <Label Text="Aide de Jeu " FontSize="32" FontAttributes="Bold" TextColor="{StaticResource bgtan}" HorizontalOptions="Center"/>
+                <Label Text="Haches &amp; Dés " FontSize="32" FontAttributes="Bold" TextColor="{StaticResource bgtan}" HorizontalOptions="Center"/>
                 <Label Text="{Binding Version, StringFormat='Version {0}'}" TextColor="{StaticResource bgtan}" HorizontalOptions="Center"/>
             </StackLayout>
         </StackLayout>

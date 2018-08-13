@@ -2,5 +2,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="23" android:versionName="1.23" package="com.nioux.aidedejeu" android:installLocation="preferExternal">
 	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="27" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="Aide de Jeu" android:icon="@drawable/ic_launcher"></application>
+	<application android:label="Haches &amp; Dés" android:icon="@drawable/ic_launcher"></application>
 </manifest>
