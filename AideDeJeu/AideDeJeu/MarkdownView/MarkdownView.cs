@@ -462,14 +462,17 @@
                             Margin = 1,
                             Padding = 5,
                         };
+                        var align = tableBlock.ColumnDefinitions[left].Alignment;
+                        var layoutOptions = align != Markdig.Extensions.Tables.TableColumnAlign.Left ? LayoutOptions.CenterAndExpand : LayoutOptions.StartAndExpand;
+                        var textAlignment = align != Markdig.Extensions.Tables.TableColumnAlign.Left ? TextAlignment.Center : TextAlignment.Start;
                         var label = new Label
                         {
                             FormattedText = CreateFormatted(par.Inline, style.FontFamily, style.Attributes, style.ForegroundColor, style.BackgroundColor, style.FontSize),
-                            HorizontalOptions = LayoutOptions.CenterAndExpand,
+                            HorizontalOptions = layoutOptions,
                             BackgroundColor = style.BackgroundColor,
                             LineBreakMode = LineBreakMode.WordWrap,
                             VerticalTextAlignment = TextAlignment.Center,
-                            HorizontalTextAlignment = TextAlignment.Center,
+                            HorizontalTextAlignment = textAlignment,
                         };
                         frame.Content = label;
                         AttachLinks(label);
