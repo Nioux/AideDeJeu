@@ -14,7 +14,7 @@ Ce chapitre vous propose des règles pour lancer des sorts. Les personnages ont 
 
 ## Qu'est-ce qu'un sort ?
 
-- AltName:  (SRD p100)
+- AltName: What Is a Spell? (SRD p100)
 - Source: (MDR p306)
 
 Un sort est un effet magique perceptible, un remodelage unique des énergies magiques qui imprègnent le multivers et qui s'exprime de manière spécifique et limitée. Lorsqu'un personnage lance un sort, il prélève soigneusement quelques brins de la magie brute inhérente au monde, les fixe selon un motif choisi, les fait vibrer de manière spécifique et enfin les libère pour créer l'effet désiré. Le tout généralement en l'espace de quelques secondes.
@@ -27,7 +27,7 @@ D'innombrables sorts ont été inventés au fil des millénaires, dans toute l'h
 
 ### Niveau de sort
 
-- AltName:  (SRD p100)
+- AltName: Spell Level (SRD p100)
 - Source: (MDR p306)
 
 Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) projectile magique est de niveau 1 tandis que le souhait, capable de chambouler le monde, est de niveau 9. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer à volonté) sont de niveau 0. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
@@ -38,7 +38,7 @@ Les niveaux du sort ne correspondent pas directement au niveau du personnage : b
 
 ### Les sorts connus et les sorts préparés
 
-- AltName:  (SRD p100)
+- AltName: Known and Prepared Spells (SRD p100)
 - Source: (MDR p306)
 
 Avant de pouvoir incanter, le lanceur de sorts doit avoir fermement ancré le sort dans son esprit ou l'utiliser via un objet magique qui l'autorise. Les membres de quelques classes, comme les bardes et les ensorceleurs, connaissent une liste de sorts limitée mais les gardent toujours en tête. Il en va de même pour les monstres capables de recourir à la magie. Les autres lanceurs de sorts, comme les clerc et les magiciens, sont obligés de préparer leurs sorts. Ce processus se déroule différemment en fonction de leur classe, comme expliqué dans la description de chacune.
@@ -49,7 +49,7 @@ Dans tous les cas, le nombre de sorts qu'un personnage peut garder à l'esprit �
 
 ### Emplacements de sorts
 
-- AltName:  (SRD p100)
+- AltName: Spell Slots (SRD p100)
 - Source: (MDR p306)
 
 Quel que soit le nombre de sorts que le lanceur de sorts connaît ou qu'il a préparé, il ne peut en lancer qu'un nombre limité avant d'être contraint de se reposer. La manipulation du tissu magique et la canalisation de son énergie, même dans un sort simple, est un processus fatiguant aussi bien sur le plan mental que physique, et plus le niveau du sort est élevé, plus il est épuisant à lancer. C'est pourquoi la description de chaque classe de lanceur de sorts – à l'exception du sorcier – comprend une table indiquant le nombre de sorts de chaque niveau que le personnage est capable de lancer. Par exemple, Umare la magicienne de niveau 3 dispose de quatre emplacements de sorts de niveau 1 et de deux emplacements de sort de niveau 2.
@@ -64,7 +64,7 @@ Certains monstres et personnages disposent de pouvoirs spéciaux qui leur permet
 
 #### Lancer un sort via un emplacement de niveau supérieur
 
-- AltName:  (SRD p100)
+- AltName: Casting a Spell at a Higher Level (SRD p100)
 - Source: (MDR p306)
 
 Quand un lanceur de sorts utilise un emplacement d'un niveau supérieur à celui du sort, ce dernier adopte le niveau de l'emplacement lors de son incantation. Par exemple, si Umare lance projectile magique en dépensant un emplacement de niveau 2, ce projectile ma- gique devient un sort de niveau 2. En pratique, le sort se « dilate » pour occuper tout l'emplacement disponible.
@@ -75,7 +75,7 @@ Certains sorts, comme projectile magique et soins, ont un effet plus puissant qu
 
 ### Les incantations en armure
 
-- AltName:  (SRD p100)
+- AltName: Casting in Armor (SRD p100)
 - Source: (MDR p307)
 
 Pour incanter, il faut se concentrer intensément et exécuter des gestes précis, c'est pourquoi le personnage doit impérativement maîtriser le port de l'armure dont il est vêtu, sans quoi cette dernière le distrait et le gêne trop dans ses mouvements pour lui permettre de lancer un sort.
@@ -84,7 +84,7 @@ Pour incanter, il faut se concentrer intensément et exécuter des gestes préci
 
 ### Les tours de magie
 
-- AltName:  (SRD p101)
+- AltName: Cantrips (SRD p101)
 - Source: (MDR p307)
 
 Un tour de magie est un sort que l'on peut lancer à volonté, sans le préparer à l'avance ni dépenser d'emplacement de sort. Des exercices répétés ont fini par fixer le sort dans l'esprit du lanceur de sorts et l'ont imprégné de la magie nécessaire pour générer ses effets, encore et encore. Un tour de magie est un sort de niveau 0.
@@ -93,7 +93,7 @@ Un tour de magie est un sort que l'on peut lancer à volonté, sans le préparer
 
 ### Les rituels
 
-- AltName:  (SRD p101)
+- AltName: Rituals (SRD p101)
 - Source: (MDR p307)
 
 Certains sorts portent une mention spéciale : rituel. On peut les lancer en suivant les règles d'incantation ordinaires ou sous forme de rituel. Cette version du sort demande 10 minutes de plus et n'utilise pas d'emplacement de sort. Cela signifie qu'elle ne peut être lancée à plus haut niveau..
@@ -104,7 +104,7 @@ Pour lancer un sort sous forme de rituel, le lanceur de sorts doit disposer d'un
 
 ## Lancer un sort
 
-- AltName:  (SRD p101)
+- AltName: Casting a Spell (SRD p101)
 - Source: (MDR p307)
 
 Quand un personnage lance un sort, il suit toujours les mêmes règles de base, quelle que soit sa classe et quels que soient les effets du sort.
@@ -115,7 +115,7 @@ Chaque description de sort présenté dans le chapitre 11, Lancer des sorts - De
 
 ### Temps d'incantation
 
-- AltName:  (SRD p101)
+- AltName: Casting Time (SRD p101)
 - Source: (MDR p307)
 
 Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.
@@ -124,7 +124,7 @@ Généralement, un sort se lance par une seule action, mais certains exigent une
 
 #### Action bonus
 
-- AltName:  (SRD p101)
+- AltName: Bonus Action (SRD p101)
 - Source: (MDR p307)
 
 Un sort qui se lance par une action bonus est particulièrement rapide. Pour le lancer, il faut dépenser une action bonus à son tour, à condition de ne pas avoir déjà effectué une telle action au cours de ce tour. Impossible de lancer un autre sort lors de ce tour, à moins qu'il ne s'agisse d'un tour de magie avec un temps d'incantation d'une action.
@@ -133,7 +133,7 @@ Un sort qui se lance par une action bonus est particulièrement rapide. Pour le 
 
 #### Réaction
 
-- AltName:  (SRD p101)
+- AltName: Reactions (SRD p101)
 - Source: (MDR p307)
 
 Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de seconde pour les faire naître et ils se lancent en réponse à un événement. Si un sort peut se lancer ainsi, sa description précise exactement dans quelles conditions.
@@ -142,7 +142,7 @@ Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de
 
 #### Long temps d'incantation
 
-- AltName:  (SRD p101)
+- AltName: Longer Casting Times (SRD p101)
 - Source: (MDR p307)
 
 Certains sorts (dont les rituels) exigent une période d'incantation supérieure, allant de quelques minutes à quelques heures. Quand un sort avec un temps d'incantation supérieur à une seule action ou une réaction est lancé, il impose au lanceur de consacrer à chaque tour son action à l'incantation et, pendant tout ce temps, à maintenir sa concentration (voir Concentration, plus bas). Si elle vole en éclats, le sort échoue mais il ne perd pas l'emplacement de sort concerné. S'il veut recommencer l'incantation, il doit la reprendre à zéro.
@@ -151,7 +151,7 @@ Certains sorts (dont les rituels) exigent une période d'incantation supérieure
 
 ### Portée
 
-- AltName:  (SRD p101)
+- AltName: Range (SRD p101)
 - Source: (MDR p307)
 
 La cible d'un sort doit être à portée de ce sort. Pour un sort comme projectile magique, la cible est une créature, pour un sort comme boule de feu, c'est le point où la boule explose.
@@ -166,7 +166,7 @@ Une fois le sort lancé, ses effets ne sont pas limités par sa portée, à moin
 
 ### Composantes
 
-- AltName:  (SRD p101)
+- AltName: Components (SRD p101)
 - Source: (MDR p308)
 
 Les composantes du sort représentent les éléments physiques indispensables à l'incantation. La description du sort indique s'il nécessite des composantes verbales (V), somatiques (S) ou matérielles (M). Si le lanceur de sorts est incapable de fournir une ou plusieurs de ces composantes, il ne peut pas lancer le sort.
@@ -175,7 +175,7 @@ Les composantes du sort représentent les éléments physiques indispensables à
 
 #### Verbales (V)
 
-- AltName:  (SRD p101)
+- AltName: Verbal (V) (SRD p101)
 - Source: (MDR p308)
 
 Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mots ne constituent pas la source de puissance du sort, ce sont plutôt des combinaisons de sons, prononcées avec un timbre et une résonance spécifiques, qui animent des filaments de magie. Ainsi, un personnage bâillonné ou englobé dans une zone de silence comme celle résultant du sort silence ne peut pas lancer de sort à composante verbale.
@@ -184,7 +184,7 @@ Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mo
 
 #### Somatiques (S)
 
-- AltName:  (SRD p101)
+- AltName: Somatic (S) (SRD p101)
 - Source: (MDR p308)
 
 Les gestes à exécuter lors de l'incantation se traduisent par force gesticulations ou par un ensemble de mouvements complexes. Si un sort exige une composante somatique, le lanceur doit avoir au moins une main libre pour accomplir les mouvements nécessaires.
@@ -193,7 +193,7 @@ Les gestes à exécuter lors de l'incantation se traduisent par force gesticulat
 
 #### Matérielles (M)
 
-- AltName:  (SRD p102)
+- AltName: Material (M) (SRD p102)
 - Source: (MDR p308)
 
 L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre 5, Équipement, page 123) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.
@@ -206,7 +206,7 @@ Le lanceur de sorts doit avoir une main libre pour accéder à sa composante mat
 
 ### Durée
 
-- AltName:  (SRD p102)
+- AltName: Duration (SRD p102)
 - Source: (MDR p308)
 
 La durée du sort correspond à la période pendant laquelle le sort fait effet. Elle s'exprime en rounds, minutes, heures ou même en années. Certains sorts précisent que leurs effets persistent jusqu'à ce que quelqu'un les dissipe ou les détruise.
@@ -215,7 +215,7 @@ La durée du sort correspond à la période pendant laquelle le sort fait effet.
 
 #### Instantanée
 
-- AltName:  (SRD p102)
+- AltName: Instantaneous (SRD p102)
 - Source: (MDR p308)
 
 De nombreux sorts sont instantanés, ils blessent, soignent, créent ou modifient une créature ou un objet sans qu'il soit possible de les dissiper car leur magie existe seulement l'espace d'un bref instant.
@@ -224,7 +224,7 @@ De nombreux sorts sont instantanés, ils blessent, soignent, créent ou modifien
 
 #### Concentration
 
-- AltName:  (SRD p102)
+- AltName: Concentration (SRD p102)
 - Source: (MDR p308)
 
 Le lanceur de sorts doit rester concentré pour maintenir la magie de certains sorts qui se terminent dès qu'il perd sa concentration.
@@ -233,11 +233,11 @@ Si un sort se maintient par concentration, cette information apparaît dans la s
 
 Les activités normales, comme les déplacements et les attaques, n'interfèrent pas avec la concentration. En revanche, voici quelques facteurs susceptibles de la briser :
 
-Lancer un autre sort demandant de la concentration. Le lanceur de sorts perd sa concentration sur un sort s'il en lance un autre exigeant aussi de la concentration. Il ne peut pas se concentrer sur deux sorts à la fois.
+**Lancer un autre sort demandant de la concentration.** Le lanceur de sorts perd sa concentration sur un sort s'il en lance un autre exigeant aussi de la concentration. Il ne peut pas se concentrer sur deux sorts à la fois.
 
-Subir des dégâts. Si le lanceur de sorts subit des dégâts alors qu'il se concentre sur un sort, il doit réussir un jet de sauvegarde de Constitution, sans quoi sa concentration se brise. Le DD équivaut à la moitié des dégâts reçus (avec un minimum de 10). Si le lanceur de sorts subit des dégâts issus de plusieurs sources, comme une flèche d'une part et le souffle d'un dragon d'autre part, il doit faire un jet de sauvegarde pour chaque source de dégâts.
+**Subir des dégâts.** Si le lanceur de sorts subit des dégâts alors qu'il se concentre sur un sort, il doit réussir un jet de sauvegarde de Constitution, sans quoi sa concentration se brise. Le DD équivaut à la moitié des dégâts reçus (avec un minimum de 10). Si le lanceur de sorts subit des dégâts issus de plusieurs sources, comme une flèche d'une part et le souffle d'un dragon d'autre part, il doit faire un jet de sauvegarde pour chaque source de dégâts.
 
-Se retrouver neutralisé ou mourir. Le lanceur de sorts perd sa concentration s'il est neutralisé ou s'il meurt.
+**Se retrouver neutralisé ou mourir.** Le lanceur de sorts perd sa concentration s'il est neutralisé ou s'il meurt.
 
 Le MJ peut aussi décider que certains phénomènes environnementaux, comme une vague s'abattant sur le lanceur de sorts alors qu'il se trouve sur un bateau en pleine tempête, l'obligent à réussir un jet de sauvegarde de Constitution DD 10 s'il veut continuer à se concentrer sur son sort.
 
@@ -245,7 +245,7 @@ Le MJ peut aussi décider que certains phénomènes environnementaux, comme une 
 
 ### Cibles
 
-- AltName:  (SRD p102)
+- AltName: Targets (SRD p102)
 - Source: (MDR p308)
 
 Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles qui seront affectées par sa magie. La description du sort précise si ce dernier vise les créatures, les objets ou le point d'origine de la zone d'effet (voir plus loin).
@@ -256,7 +256,7 @@ Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles q
 
 #### Un chemin dégagé jusqu'à la cible
 
-- AltName:  (SRD p102)
+- AltName: A Clear Path to the Target (SRD p102)
 - Source: (MDR p309)
 
 Pour viser quelque chose, le lanceur de sorts doit avoir un itinéraire dégagé jusqu'à sa cible, elle ne doit donc pas se trouver derrière un abri total.
@@ -267,7 +267,7 @@ Si le lanceur de sorts positionne une zone d'effet en un point qu'il ne voit pas
 
 #### Se prendre pour cible
 
-- AltName:  (SRD p102)
+- AltName: Targeting Yourself (SRD p102)
 - Source: (MDR p309)
 
 Si le sort vise une cible au choix du lanceur de sorts, ce dernier peut se prendre pour cible, sauf si la cible doit impérativement être hostile ou qu'il est spécifié que ce ne peut pas être le lanceur. S'il se trouve dans la zone d'effet d'un sort qu'il lance, il peut se prendre pour cible.
@@ -276,7 +276,7 @@ Si le sort vise une cible au choix du lanceur de sorts, ce dernier peut se prend
 
 ### Zone d'effet
 
-- AltName:  (SRD p102)
+- AltName: Areas of Effect (SRD p102)
 - Source: (MDR p309)
 
 Les sorts tels que mains brûlantes et cône de froid couvrent une zone, ce qui leur permet d'affecter plusieurs créatures à la fois.
@@ -289,7 +289,7 @@ L'effet de sort s'étend en lignes droites depuis son point d'origine. Si aucune
 
 #### Cône
 
-- AltName:  (SRD p103)
+- AltName: Cone (SRD p103)
 - Source: (MDR p309)
 
 Un cône s'étend dans la direction de votre choix, à partir de son point d'origine. Sa largeur à un point donné de sa longueur est égale à la distance qui le sépare de son point d'origine. La longueur maximale du cône est notée dans sa zone d'effet.
@@ -300,7 +300,7 @@ Le point d'origine d'un cône n'est pas inclus dans sa zone d'effet, à moins qu
 
 #### Cube
 
-- AltName:  (SRD p103)
+- AltName: Cube (SRD p103)
 - Source: (MDR p309)
 
 Le lanceur de sorts choisit le point d'origine du cube, qui se trouve n'importe où sur une face de l'effet cubique. La taille du cube représente la longueur de chaque arrête.
@@ -311,7 +311,7 @@ Le point d'origine du cube n'est pas inclus dans sa zone d'effet, à moins que l
 
 #### Cylindre
 
-- AltName:  (SRD p103)
+- AltName: Cylinder (SRD p103)
 - Source: (MDR p309)
 
 Le point d'origine d'un cylindre est le centre d'un cercle du rayon du cylindre, comme indiqué dans la description du sort. Ce cercle doit se trouver au sol ou au sommet du cylindre. L'énergie du cylindre se répand en lignes droites depuis le point d'origine jusqu'au périmètre du cercle, formant la base du cylindre. L'effet se propage ensuite vers le haut depuis la base ou vers le bas depuis le sommet, sur une distance égale à la hauteur du cylindre.
@@ -322,7 +322,7 @@ Le point d'origine d'un cylindre est inclus dans sa zone d'effet.
 
 #### Ligne
 
-- AltName:  (SRD p103)
+- AltName: Line (SRD p103)
 - Source: (MDR p309)
 
 Une ligne s'étend depuis son point d'origine en ligne droite sur toute sa longueur et couvre une zone définie par sa largeur.
@@ -333,7 +333,7 @@ Le point d'origine d'une ligne n'est pas inclus dans sa zone d'effet, à moins q
 
 #### Sphère
 
-- AltName:  (SRD p103)
+- AltName: Sphere (SRD p103)
 - Source: (MDR p309)
 
 Le lanceur de sorts choisit le point d'origine de la sphère qui s'étend depuis ce point. Sa taille est exprimée en mètres sous forme de rayon qui s'étend depuis ce point.
@@ -344,7 +344,7 @@ Le point d'origine de la sphère est inclus dans sa zone d'effet.
 
 ### Jets de sauvegarde
 
-- AltName:  (SRD p103)
+- AltName: Saving Throws (SRD p103)
 - Source: (MDR p309)
 
 De nombreux sorts précisent que la cible a droit à un jet de sauvegarde pour éviter un ou plusieurs de ses effets. Le sort indique quelle caractéristique utiliser pour le jet et explique ce qui se passe en cas d'échec et de réussite.
@@ -355,7 +355,7 @@ Le DD pour résister à un sort est de 8 + modificateur de la caractéristique d
 
 ### Jets d'attaque
 
-- AltName:  (SRD p103)
+- AltName: Attack Rolls (SRD p103)
 - Source: (MDR p310)
 
 Dans certains cas, le lanceur de sorts doit faire un jet d'attaque pour savoir si l'effet du sort touche la cible prévue. Lors d'une attaque de sort, son bonus d'attaque est égal à son modificateur de caractéristique d'incantation + son bonus de maîtrise.
@@ -366,7 +366,7 @@ La plupart des sorts s'accompagnant d'un jet d'attaque exigent une attaque à di
 
 ### Combiner les effets magiques
 
-- AltName:  (SRD p104)
+- AltName: Combining Magical Effects (SRD p104)
 - Source: (MDR p310)
 
 Les effets de différents sorts s'additionnent quand leurs durées se superposent. En revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. Dans ce cas, l'effet le plus puissant (par exemple, le bonus le plus élevé) s'applique tant que sa durée se superpose à celle des autres.
@@ -378,28 +378,28 @@ Par exemple, si deux clerc lancent bénédiction sur une même cible, cette dern
 
 ## Les écoles de magie
 
-- AltName:  (SRD p103)
+- AltName: The Schools of Magic (SRD p103)
 - Source: (MDR p310)
 
 Les académies de magie regroupent les sorts en huit catégories appelées des écoles de magie. Les érudits, en particulier les magiciens, classent tous les sorts dans ces catégories, persuadés que la magie fonctionne toujours de la même manière, et ce qu'elle découle d'études rigoureuses ou qu'elle émane d'une divinité.
 
 Les écoles de magie aident à décrire les sorts mais n'obéissent pas à des règles particulières, bien que certaines règles se réfèrent à elles.
 
-Les sorts d'abjuration sont de nature protectrice, mais certains ont aussi un usage offensif. Ils créent des barrières magiques, annulent les effets néfastes, blessent les intrus ou bannissent des créatures vers d'autres plans d'existence.
+Les sorts d'**abjuration** sont de nature protectrice, mais certains ont aussi un usage offensif. Ils créent des barrières magiques, annulent les effets néfastes, blessent les intrus ou bannissent des créatures vers d'autres plans d'existence.
 
-Les sorts d'invocation transportent des créatures et des objets d'un endroit à l'autre. Certains appellent des créatures et des objets invoqués aux côtés du lanceur de sorts tandis que d'autres permettent à ce dernier de se téléporter ailleurs. Certains produisent des objets ou des effets à partir de rien.
+Les sorts d'**invocation** transportent des créatures et des objets d'un endroit à l'autre. Certains appellent des créatures et des objets invoqués aux côtés du lanceur de sorts tandis que d'autres permettent à ce dernier de se téléporter ailleurs. Certains produisent des objets ou des effets à partir de rien.
 
-Les sorts de divination révèlent des informations concernant des secrets oubliés depuis longtemps, des aperçus du futur, des cachettes, une vérité derrière une illusion ou des gens ou des lieux éloignés.
+Les sorts de **divination** révèlent des informations concernant des secrets oubliés depuis longtemps, des aperçus du futur, des cachettes, une vérité derrière une illusion ou des gens ou des lieux éloignés.
 
-Les sorts d'enchantement affectent l'esprit d'autrui et influencent ou contrôlent son comportement. Grâce à eux, le lanceur de sorts peut obliger un ennemi à le considérer comme un ami, contraindre des créatures à effectuer une action donnée ou même contrôler autrui comme une marionnette.
+Les sorts d'**enchantement** affectent l'esprit d'autrui et influencent ou contrôlent son comportement. Grâce à eux, le lanceur de sorts peut obliger un ennemi à le considérer comme un ami, contraindre des créatures à effectuer une action donnée ou même contrôler autrui comme une marionnette.
 
-Les sorts d'évocation manipulent l'énergie magique pour produire l'effet désiré. Certains déchaînent le feu ou la foudre, d'autres canalisent l'énergie positive pour soigner les plaies.
+Les sorts d'**évocation** manipulent l'énergie magique pour produire l'effet désiré. Certains déchaînent le feu ou la foudre, d'autres canalisent l'énergie positive pour soigner les plaies.
 
-Les sorts d'illusion dupent les sens ou l'esprit d'autrui. Ils poussent les gens à voir des choses qui n'existent pas, à ne pas voir celles qui sont devant eux, à entendre des bruits imaginaires ou à se souvenir de choses qui ne se sont jamais produites. Certaines illusions produisent des images que tout le monde peut voir mais d'autres sont plus insidieuses et implantent une image directement dans l'esprit d'une créature.
+Les sorts d'**illusion** dupent les sens ou l'esprit d'autrui. Ils poussent les gens à voir des choses qui n'existent pas, à ne pas voir celles qui sont devant eux, à entendre des bruits imaginaires ou à se souvenir de choses qui ne se sont jamais produites. Certaines illusions produisent des images que tout le monde peut voir mais d'autres sont plus insidieuses et implantent une image directement dans l'esprit d'une créature.
 
-Les sorts de nécromancie manipulent les énergies de la vie et de la mort. Ils servent à accroître les réserves de force vitale, à absorber l'énergie vitale d'autrui, à créer des morts-vivants et même à ressusciter les défunts.
+Les sorts de **nécromancie** manipulent les énergies de la vie et de la mort. Ils servent à accroître les réserves de force vitale, à absorber l'énergie vitale d'autrui, à créer des morts-vivants et même à ressusciter les défunts.
 
-Les sorts de transmutation modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en créature inoffensive, renforcer un allié, faire bouger un objet sur une simple injonction ou améliorer les capacités curatives innées d'une créature pour qu'elle se remette plus vite de ses blessures.
+Les sorts de **transmutation** modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en créature inoffensive, renforcer un allié, faire bouger un objet sur une simple injonction ou améliorer les capacités curatives innées d'une créature pour qu'elle se remette plus vite de ses blessures.
 
 
 
