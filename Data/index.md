@@ -18,9 +18,7 @@
 
 ## [Gérer la santé](manage_health_hd.md)
 
-<!--
 ## [Lancer des sorts](spellcasting_hd.md)
--->
 
 ## [Description des Sorts](spells_hd.md)
 
