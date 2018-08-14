@@ -14,9 +14,7 @@
 
 ## [Partir à l'aventure](adventure_hd.md)
 
-<!--
 ## [Combattre](combat_hd.md)
--->
 
 ## [Gérer la santé](manage_health_hd.md)
 

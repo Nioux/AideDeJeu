@@ -10,11 +10,17 @@
 
 ## Ordre de combat
 
+- AltName: The Order of Combat (SRD p90)
+- Source: (MDR p284)
+
 Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tourbillon de violence constitué de coups, de feintes, de parades, de sorts qui fusent entre des adversaires toujours en mouvement. Dans le cadre du jeu, le chaos du combat est organisé en un cycle de rounds et de tours. Un round est une période de 6 secondes dans le monde du jeu. Pendant un round, chaque créature qui participe au combat se voit attribuer un tour. L'ordre des tours de toutes les créatures présentes est déterminé au début du combat par les jets d'initiative. Une fois que chaque créature a agi lors de son tour, si aucun des camps n'a vaincu l'autre et si aucun des camps ne souhaite rompre l'affrontement, le combat continue pendant un nouveau round.
 
 [][Generic]
 
 ### Les étapes du combat
+
+- AltName:  (SRD p90)
+- Source: (MDR p284)
 
 1. Surprise. Le MJ détermine si l'une des créatures qui prend part au combat est surprise.
 2. Positionnement. Le MJ décide d'où tous les personnages et les monstres se trouvent. En fonction de la position des aventuriers (leur ordre de marche ou les positions où ils ont indiqué se trouver dans une pièce ou un autre lieu), le MJ détermine où se trouvent leurs adversaires, à quelle distance et dans quelle direction. Jouer à l'aide d'une représentation visuelle de la scène sur la table de jeu (à l'aide d'un tableau blanc, marqueurs, figurines ou autres) facilite grandement cette phase.
@@ -27,6 +33,9 @@ Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tour
 
 ### Surprise
 
+- AltName:  (SRD p90)
+- Source: (MDR p284)
+
 Les héros rampent sans un bruit dans les hautes herbes. Ils ont mis de la graisse sur leurs visages et sur leurs lames. Les guerriers ont laissé leurs amures de métal non loin de là. La nuit est parfaitement noire. Tout proches, les esclavagistes fêtent le butin de la journée autour d'un feu de camp. Ils n'ont aucune conscience du danger qui les guette… L'assassin, qui a bu une potion d'invisibilité, se place juste à côté du clerc et tire sa dague. Aucun héros ne l'a senti passer… Dans chacune de ces situations, l'un des deux partis est surpris par l'autre.
 
 Le MJ détermine qui est susceptible d'être pris par surprise. Si aucun des deux camps ne cherche à être discret, ils se remarquent automatiquement. Sinon, le MJ compare les résultats des tests de Dextérité (Discrétion) de toutes les créatures qui se cachent avec la valeur passive de Sagesse (Perception) de toutes les créatures qui appartiennent à l'autre camp. Tout personnage ou monstre qui ne remarque pas une menace est surpris au début de la rencontre.
@@ -37,6 +46,9 @@ Si vous êtes surpris, vous ne pouvez pas bouger ou accomplir d'action lors de v
 
 ### Initiative
 
+- AltName:  (SRD p90)
+- Source: (MDR p284)
+
 L'initiative permet de déterminer l'ordre des tours pendant un combat. Au début du combat, chaque par- ticipant fait un test de Dextérité afin de déterminer son rang dans l'ordre d'initiative. Le MJ lance un seul dé pour un groupe de créatures identiques, de sorte que tous les membres de ce groupe agissent en même temps.
 
 Le MJ classe les combattants par ordre de Dextérité, en commençant par celui qui a eu le résultat le plus élevé à son test de Dextérité et en terminant par celui dont le résultat était le moins élevé. C'est dans cet ordre, appelé ordre d'initiative, que les combattants agiront à chaque round. L'ordre d'initiative reste le même d'un round à l'autre.
@@ -46,6 +58,9 @@ En cas d'égalité, s'il s'agit de créatures contrôlées par le MJ, ce dernier
 [][Generic]
 
 ### Votre tour
+
+- AltName:  (SRD p90)
+- Source: (MDR p285)
 
 Pendant votre tour, vous pouvez vous déplacer d'une distance égale à votre vitesse et accomplir une action.
 
@@ -61,6 +76,9 @@ Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien 
 
 #### Action bonus
 
+- AltName:  (SRD p90)
+- Source: (MDR p285)
+
 Plusieurs aptitudes de classes, sorts et autres capacités vous permettent d'accomplir une action supplémentaire lors de votre tour. L'aptitude ruse, par exemple, permet à un roublard d'accomplir une action bonus. Vous ne pouvez accomplir d'action bonus que si une capacité spéciale, un sort ou une aptitude stipule que vous pouvez « accomplir quelque chose comme action bonus ». Si ce n'est pas le cas, vous ne pouvez pas accomplir d'action bonus.
 
 Vous ne pouvez accomplir qu'une seule action bonus pendant votre tour. Si vous avez le choix entre plusieurs actions bonus, vous devez donc choisir quelle action bonus accomplir.
@@ -70,6 +88,9 @@ Vous devez attendre votre tour pour accomplir une action bonus, sauf si celle-ci
 [][Generic]
 
 #### Autres activités pendant votre tour
+
+- AltName:  (SRD p91)
+- Source: (MDR p285)
 
 Pendant votre tour, vous pouvez faire de nombreuses choses qui ne vous demandent pas de vous déplacer ni d'utiliser une action.
 
@@ -86,6 +107,9 @@ Le MJ peut vous demander d'utiliser une action pour n'importe quelle activité q
 [][Generic]
 
 ### Réaction
+
+- AltName:  (SRD p91)
+- Source: (MDR p285)
 
 Certaines capacités spéciales, sorts ou situations permettent à votre personnage d'accomplir une action spéciale appelée une réaction. Une réaction est une réponse instantanée déclenchée par un stimulus qui peut se produire pendant votre tour ou celui de quelqu'un d'autre. Le type de réaction le plus courant est l'attaque d'opportunité, décrite plus loin dans ce chapitre.
 
