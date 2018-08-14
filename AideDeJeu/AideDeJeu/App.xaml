@@ -205,6 +205,20 @@
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
+            <Style TargetType="Label"  x:Key="heading5">
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="heading6">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource titlered}" />
                 <Setter Property="BarTextColor" Value="{StaticResource bgtan}" />

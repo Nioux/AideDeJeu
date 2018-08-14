@@ -264,6 +264,25 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\background_brigand_hd.md" Link="Data\background_brigand_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_crapule_hd.md" Link="Data\background_crapule_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_devot_hd.md" Link="Data\background_devot_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_erudit_hd.md" Link="Data\background_erudit_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_explorateur_hd.md" Link="Data\background_explorateur_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_hommedeloi_hd.md" Link="Data\background_hommedeloi_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_itinerant_hd.md" Link="Data\background_itinerant_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_manouvrier_hd.md" Link="Data\background_manouvrier_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_membredeguilde_hd.md" Link="Data\background_membredeguilde_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_militaire_hd.md" Link="Data\background_militaire_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_misereux_hd.md" Link="Data\background_misereux_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_primitif_hd.md" Link="Data\background_primitif_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_sangbleu_hd.md" Link="Data\background_sangbleu_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_serviteur_hd.md" Link="Data\background_serviteur_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_solitaire_hd.md" Link="Data\background_solitaire_hd.md" />
+    <EmbeddedResource Include="..\..\Data\background_villageois_hd.md" Link="Data\background_villageois_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
