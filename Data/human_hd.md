@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Humain
 
@@ -31,4 +31,5 @@ Il est difficile de faire des généralisations en ce qui concerne les humains. 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
+[Items]: #
 [Generic]: #

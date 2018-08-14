@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Demi-orc
 
@@ -42,4 +42,5 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 [Intimidation]: abilities_charisma_hd.md#intimidation
 
 
+[Items]: #
 [Generic]: #

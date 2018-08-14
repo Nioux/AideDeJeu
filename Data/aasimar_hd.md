@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Aasimar
 
@@ -36,4 +36,5 @@ Votre parenté céleste vous a octroyé certains pouvoirs innés.
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
+[Items]: #
 [Generic]: #

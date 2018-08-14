@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Félys
 
@@ -51,4 +51,5 @@ Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacit
 [Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
+[Items]: #
 [Generic]: #

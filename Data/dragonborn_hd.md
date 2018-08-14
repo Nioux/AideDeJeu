@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Sangdragon
 
@@ -22,6 +22,18 @@ Votre lignée draconique se manifeste par différents traits que vous partagez a
 
 **Ascendance.** Vous avez des ancêtres draconiques. Choisissez un type de dragon dans le tableau des ascendances. Votre choix détermine votre souffle et votre résistance aux dégâts, comme indiqué dans le tableau.
 
+**Souffle.** Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
+
+Quand vous utilisez votre souffle, chaque créature qui se trouve dans la zone affectée doit faire un [jet de sauvegarde], dont le type dépend de votre ascendance. Le DD de ce [jet de sauvegarde] est égal à 8 + votre modificateur de [Constitution] + votre bonus de maîtrise. Une créature qui rate son [jet de sauvegarde] subit 2d6 dégâts. Elle n'en subit que la moitié dans le cas contraire. La quantité de dégâts que vous infligez augmente avec votre niveau et atteint 3d6 au niveau 6, 4d6 au niveau 11 et 5d6 au niveau 16.
+
+Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou un repos long.
+
+**Résistance aux dégâts.** Vous bénéficiez d'une résistance au type de dégâts associé à votre ascendance.
+
+**Langue.** Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C'est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.
+
+[][Generic]
+
 ### Ascendance 
 
 |Dragon|Type de dégâts|Souffle|[Jet de sauvegarde]|
@@ -37,16 +49,6 @@ Votre lignée draconique se manifeste par différents traits que vous partagez a
 |Rouge|Feu|Cône de 4,50 m|[Dextérité]|
 |Vert|Poison|Cône de 4,50 m|[Constitution]|
 
-**Souffle.** Vous pouvez utiliser votre action pour exhaler une vague d'énergie destructrice. La taille, la forme et le type de dégâts que vous causez sont liés à votre ascendance.
-
-Quand vous utilisez votre souffle, chaque créature qui se trouve dans la zone affectée doit faire un [jet de sauvegarde], dont le type dépend de votre ascendance. Le DD de ce [jet de sauvegarde] est égal à 8 + votre modificateur de [Constitution] + votre bonus de maîtrise. Une créature qui rate son [jet de sauvegarde] subit 2d6 dégâts. Elle n'en subit que la moitié dans le cas contraire. La quantité de dégâts que vous infligez augmente avec votre niveau et atteint 3d6 au niveau 6, 4d6 au niveau 11 et 5d6 au niveau 16.
-
-Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou un repos long.
-
-**Résistance aux dégâts.** Vous bénéficiez d'une résistance au type de dégâts associé à votre ascendance.
-
-**Langue.** Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C'est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.
-
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
 [Constitution]: abilities_constitution_hd.md
@@ -56,4 +58,5 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
+[Items]: #
 [Generic]: #

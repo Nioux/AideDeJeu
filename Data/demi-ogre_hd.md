@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Demi-ogre
 
@@ -47,4 +47,5 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 [Charisme (Supercherie)]: abilities_charisma_hd.md#supercherie
 
 
+[Items]: #
 [Generic]: #

@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Gnome
 
@@ -26,7 +26,12 @@ Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en gnome. La langue gnome utilise le même alphabet que les nains (le Runique). Les gnomes sont renommés pour leurs traités techniques et leurs catalogues de connaissances sur la nature.
 
+[][Generic]
+
 ## Gnome des roches
+
+- AltName: Rock Gnome (SRD p6)
+- Source: (MDR p48)
 
 Les gnomes des roches sont naturellement plus inventifs et résistants que les autres gnomes.
 
@@ -42,7 +47,11 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 * **Briquet.** Ce mécanisme produit une petite flamme qui peut être utilisée pour allumer une bougie, une torche ou un feu de camp. L'utilisation du briquet coûte une action.
 * **Boîte à musique.** Quand elle est ouverte, la boîte à musique joue une mélodie à un volume modéré. La boîte redevient silencieuse à la fin de la mélodie ou quand elle est fermée.
 
+[][Generic]
+
 ## Gnome des fées
+
+- Source: (MDR p49)
 
 Les gnomes des fées sont très habiles et leur relation à la nature leur donne une aisance particulière pour le pistage.
 
@@ -50,7 +59,11 @@ Les gnomes des fées sont très habiles et leur relation à la nature leur donne
 
 **Projection spirituelle.** En dépensant une action, lorsque vous êtes en pleine forêt, vous pouvez appeler un petit animal : un petit oiseau de la taille d'une mésange ou d'un moineau ou un rongeur. Vous sifflez une étrange mélodie et, au bout d'une minute, une créature se présente à vous. Cette dernière doit être présente dans les environs afin de répondre à l'appel. Une fois la créature devant vous, vous projetez votre esprit et vos sens en elle. Vous pouvez prendre son contrôle et voir et entendre par ses yeux et ses oreilles. La projection dure 10 minutes et ne vous permet pas d'éloigner la créature de plus de 500 mètres de vous. Tant que le contrôle dure, vous ne pouvez pas voir, entendre, ni agir avec votre propre corps. Vous pouvez mettre fin à tout moment à votre emprise et revenir dans votre corps, sans autre contrecoup. Subir un coup ou des dégâts vous ramène immédiatement dans votre corps, libérant la créature de votre emprise. Cependant, dans ce cas, vous êtes désorienté et subissez un désavantage à toutes vos actions pendant 1 minute. Il en va de même si l'animal est tué pendant la projection. Vous devez terminer un repos long avant de pouvoir réutiliser cette capacité. ce pouvoir fonctionne aussi en zone urbaine. Il vous faut cependant vous trouver dans une zone où la nature est encore présente et puissante (un souterrain naturel, un bosquet sacré, un jardin luxuriant, etc...).
 
+[][Generic]
+
 ## Gnome des lacs
+
+- Source: (MDR p49)
 
 Les gnomes des lacs sont discrets et manifestent une sagesse supérieure aux autres gnomes. Leurs illusions sont très puissantes et difficiles à déjouer.
 
@@ -78,4 +91,5 @@ Les gnomes des lacs sont discrets et manifestent une sagesse supérieure aux aut
 [Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
+[Items]: #
 [Generic]: #

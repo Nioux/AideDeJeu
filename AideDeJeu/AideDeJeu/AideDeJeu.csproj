@@ -199,10 +199,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="..\..\Data\baby_bestiary_hd.md" Link="Data\baby_bestiary_hd.md" />
-  </ItemGroup>
-
-  <ItemGroup>
     <EmbeddedResource Include="..\..\Data\wizard_academician_hd.md" Link="Data\wizard_academician_hd.md" />
   </ItemGroup>
 

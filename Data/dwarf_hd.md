@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Nain
 
@@ -32,7 +32,12 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 **Langues.** Vous pouvez parler et écrire en commun et en nain. Le nain est une langue aux consonnes dures et aux sons gutturaux, des spécificités qui se retrouvent dans l'accent qu'ont les nains en parlant un autre langage.
 
+[][Generic]
+
 ## Nain des tertres
+
+- AltName: Hill Dwarf (SRD p3)
+- Source: (MDR p57)
 
 En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.
 
@@ -40,7 +45,11 @@ En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif
 
 **Ténacité naine.** Votre nombre maximum de points de vie augmente de 1. Il augmente à nouveau de +1 à chaque niveau que vous gagnez.
 
+[][Generic]
+
 ## Nain des pierres
+
+- Source: (MDR p57)
 
 En tant que nain des pierres, vous êtes ingénieux et savez comment tourner une situation à votre bénéfice.
 
@@ -48,7 +57,11 @@ En tant que nain des pierres, vous êtes ingénieux et savez comment tourner une
 
 **Maître des marteaux.** Lorsqu'un nain des pierres inflige des dégâts avec un marteau ou toute autre arme de corps-à-corps contondante, il ignore une éventuelle résistance aux dégâts contondants de sa cible sauf si cette résistance a été accordée par un sort.
 
+[][Generic]
+
 ## Nain des laves
+
+- Source: (MDR p57)
 
 En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les conflits et vous ne craignez pas la chaleur.
 
@@ -73,4 +86,5 @@ En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les 
 
 [Intelligence (Histoire)]: abilities_intelligence_hd.md#histoire
 
+[Items]: #
 [Generic]: #

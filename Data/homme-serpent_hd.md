@@ -1,5 +1,5 @@
 
-[][Generic]
+[][Items]
 
 # Homme serpent
 
@@ -43,4 +43,5 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 [Intelligence (Investigation)]: abilities_intelligence_hd.md#investigation
 
 
+[Items]: #
 [Generic]: #
