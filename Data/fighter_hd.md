@@ -189,7 +189,7 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 [arc long]: equipment_hd.md#arc-long
 [armure de cuir]: equipment_hd.md#armure-de-cuir
 [Athlétisme]: abilities_strength_hd.md#athlétisme
-[bouclier]: equipment_properties_hd.md#bouclier
+[bouclier]: armor_hd.md#bouclier
 [cotte de mailles]: equipment_hd.md#cotte-de-mailles
 [Dressage]: abilities_wisdom_hd.md#dressage
 [flèches]: equipment_hd.md#flèches
@@ -197,7 +197,7 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 [Intimidation]: abilities_charisma_hd.md#intimidation
 [Perception]: abilities_wisdom_hd.md#perception
 [Perspicacité]: abilities_wisdom_hd.md#perspicacité
-[polyvalente]: equipment_properties_hd.md#polyvalente
+[polyvalente]: weapons_hd.md#polyvalente
 [Survie]: abilities_wisdom_hd.md#survie
 
 

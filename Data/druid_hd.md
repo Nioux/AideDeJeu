@@ -211,9 +211,9 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 
 [Arcanes]: abilities_intelligence_hd.md#arcanes
 [armure de cuir]: equipment_hd.md#armure-de-cuir
-[armures intermédiaires]: equipment_properties_hd.md#armures-intermédiaires
-[armures légères]: equipment_properties_hd.md#armures-légères
-[bouclier]: equipment_properties_hd.md#bouclier
+[armures intermédiaires]: armor_hd.md#armures-intermédiaires
+[armures légères]: armor_hd.md#armures-légères
+[bouclier]: armor_hd.md#bouclier
 [cimeterre]: equipment_hd.md#cimeterre
 [Dressage]: abilities_wisdom_hd.md#dressage
 [focaliseur druidique]: equipment_properties_hd.md#focaliseur-druidique

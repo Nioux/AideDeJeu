@@ -212,7 +212,7 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 [arbalète légère]: equipment_hd.md#arbalète-légère
 [Arcanes]: abilities_intelligence_hd.md#arcanes
 [armure de cuir]: equipment_hd.md#armure-de-cuir
-[armures légères]: equipment_properties_hd.md#armures-légères
+[armures légères]: armor_hd.md#armures-légères
 [focaliseur arcanique]: equipment_properties_hd.md#focaliseur-arcanique
 [Histoire]: abilities_intelligence_hd.md#histoire
 [Intimidation]: abilities_charisma_hd.md#intimidation

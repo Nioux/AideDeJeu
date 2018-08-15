@@ -214,9 +214,9 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 [arbalète légère]: equipment_hd.md#arbalète-légère
 [armure de cuir]: equipment_hd.md#armure-de-cuir
 [armure d'écailles]: equipment_hd.md#armure-décailles
-[armures intermédiaires]: equipment_properties_hd.md#armures-intermédiaires
-[armures légères]: equipment_properties_hd.md#armures-légères
-[bouclier]: equipment_properties_hd.md#bouclier
+[armures intermédiaires]: armor_hd.md#armures-intermédiaires
+[armures légères]: armor_hd.md#armures-légères
+[bouclier]: armor_hd.md#bouclier
 [cotte de mailles]: equipment_hd.md#cotte-de-mailles
 [Histoire]: abilities_intelligence_hd.md#histoire
 [marteau de guerre]: equipment_hd.md#marteau-de-guerre

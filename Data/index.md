@@ -1,6 +1,6 @@
 # Manuel des règles
 
-## Création du personnage
+## [Création du personnage]
 
 ## [Races](races_hd.md)
 
