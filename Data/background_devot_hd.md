@@ -44,7 +44,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 - Source: (MDR p82)
 
 |d8|Trait de personnalité|
-|---|:---|
+|---|---|
 |1|J'ai élevé au rang d'idole un héros de ma foi<br>et je passe mon temps à parler de ses actions<br>comme autant d'exemples à suivre.|
 |2|Je suis capable de trouver un terrain d'entente<br>entre les pires ennemis, à avoir de l'empathie<br>pour eux et j'oeuvre en permanence pour la<br>paix.|
 |3|Chaque événement, chaque action, est un<br>présage à mes yeux. Les dieux tentent de nous<br>parler, il nous suffit d'écouter.|
