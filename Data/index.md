@@ -24,7 +24,6 @@
 
 ## [Description des Sorts](spells_hd.md)
 
-<!--
 # Cadre de campagne
 
 ## [Objets magiques](magicitems_hd.md)
@@ -34,7 +33,6 @@
 ### [Objets magiques intelligents](sentient_magicitems_hd.md)
 
 ### [Artefacts](artifacts_hd.md)
--->
 
 # Créatures et oppositions
 

@@ -7,7 +7,7 @@
 - Source: (COC p138)
 
 
-Les objets magiques sont présentés ici dans l’ordre
+Les objets magiques sont présentés ici dans l'ordre
 alphabétique. Le descriptif de chacun comprend son
 nom, sa catégorie, sa rareté et ses propriétés magiques.
 AILES DE VOL
@@ -15,8 +15,8 @@ Objet merveilleux, rare (harmonisation requise)
 Tant que vous êtes équipé de cette cape, vous
 pouvez utiliser une action pour prononcer son
 mot de commande. La cape se transforme alors en
-paire d’ailes de chauve-souris ou d’oiseau placée
-dans votre dos pendant 1 heure ou jusqu’au moment
+paire d'ailes de chauve-souris ou d'oiseau placée
+dans votre dos pendant 1 heure ou jusqu'au moment
 ou vous répétez le mot de commande par
 une action. Les ailes vous confèrent une vitesse de
 déplacement en vol de 18 mètres. Il faut attendre
@@ -25,11 +25,11 @@ ailes avant de pouvoir les réutiliser.
 AMULETTE ANTIDOTE
 Objet merveilleux, rare
 Une gemme noire luisante et parfaitement taillée
-orne cette délicate chaîne d’argent. Tant que vous
-portez ce pendentif, les poisons n’ont aucun effet sur
-vous : vous êtes immunisé contre l’état empoisonné et
+orne cette délicate chaîne d'argent. Tant que vous
+portez ce pendentif, les poisons n'ont aucun effet sur
+vous : vous êtes immunisé contre l'état empoisonné et
 contre les dégâts de poison.
-AMULETTE D’ANTIDÉTECTION
+AMULETTE D'ANTIDÉTECTION
 Objet merveilleux, peu courant
 (harmonisation requise)
 Tant que vous portez cette amulette, vous êtes caché
@@ -40,7 +40,7 @@ scrutation magiques.
 AMULETTE DE BONNE SANTÉ
 Objet merveilleux, rare (harmonisation requise)
 Tant que vous portez cette amulette, votre valeur
-de Constitution passe à 19. L’amulette n’a aucun
+de Constitution passe à 19. L'amulette n'a aucun
 effet si votre Constitution est déjà de 19 ou plus.
 AMULETTE DE CICATRISATION
 Objet merveilleux, peu courant
@@ -56,14 +56,14 @@ Objet merveilleux, peu courant
 Tant que vous portez ce pendentif, vous êtes
 immunisé contre toutes les maladies. Si vous êtes
 déjà malade, les effets de la maladie sont supprimés
-tant que vous portez l’amulette.
+tant que vous portez l'amulette.
 AMULETTE DES PLANS
 Objet merveilleux, très rare (harmonisation
 requise)
 Tant que vous portez cette amulette, vous pouvez
 utiliser votre action pour nommer un endroit qui
 vous est familier et se trouve sur un autre plan
-d’existence. Faites ensuite un test d’Intelligence
+d'existence. Faites ensuite un test d'Intelligence
 DD 15. Si vous réussissez, vous lancez changement
 de plan, si vous échouez, vous et toutes les
 créatures et tous les objets situés dans un rayon
@@ -71,8 +71,8 @@ de 4,50 mètres autour de vous êtes emportés vers
 une destination aléatoire. Lancez 1d100. De 1 à 60,
 cet endroit aléatoire se trouve sur le plan où vous
 trouviez déjà, de 61 à 100 vous arrivez sur un plan
-d’existence déterminé au hasard.
-ANNEAU D’ACTION LIBRE
+d'existence déterminé au hasard.
+ANNEAU D'ACTION LIBRE
 Anneau, rare (harmonisation requise)
 Tant que vous portez cet anneau au doigt, les
 terrains difficiles ne vous coûtent aucun déplacement
@@ -81,9 +81,9 @@ pas réduire votre vitesse, vous paralyser ou vous
 entraver.
 ANNEAU DE CHALEUR
 Anneau, peu courant (harmonisation requise)
-Vous bénéficiez d’une résistance contre les dégâts
+Vous bénéficiez d'une résistance contre les dégâts
 de froid tant que vous portez cet anneau au doigt.
-De plus, vous et tout l’équipement que vous portez
+De plus, vous et tout l'équipement que vous portez
 êtes protégés contre les températures extrêmement
 basses (jusque -10 degrés Celsius)
 ANNEAU DE CONVOCATION DE DJINN
@@ -91,65 +91,65 @@ Anneau, légendaire (harmonisation requise)
 Tant que vous portez cet anneau au doigt, vous
 pouvez prononcer son mot de commande par
 une action pour convoquer un djinn particulier
-originaire du plan élémentaire de l’Air. Le djinn
+originaire du plan élémentaire de l'Air. Le djinn
 apparaît dans un emplacement inoccupé que
 vous lui désignez et qui se situe à 36 mètres ou
 moins de vous. Il reste aussi longtemps que vous
 vous concentrez (comme si vous vous concentriez
-sur un sort), jusqu’à un maximum d’une heure ou
+sur un sort), jusqu'à un maximum d'une heure ou
 si les points de vie de la créature tombent à 0. Il
-retourne ensuite sur son plan d’origine.
+retourne ensuite sur son plan d'origine.
 Le djinn convoqué est amical envers vous et vos
 compagnons. Il obéit à la totalité de vos ordres,
 quelle que soit la langue utilisée. Si vous ne parvenez
-pas à lui donner d’ordre, le djinn se défend
-contre les éventuels agresseurs mais n’effectue
+pas à lui donner d'ordre, le djinn se défend
+contre les éventuels agresseurs mais n'effectue
 aucune autre action.
-Après le retour du djinn sur son plan d’origine, vous
+Après le retour du djinn sur son plan d'origine, vous
 ne pouvez plus le convoquer avant que 24 heures ne
-se soient écoulées. L’anneau devient ordinaire et sa
+se soient écoulées. L'anneau devient ordinaire et sa
 magie disparaît dès que le djinn meurt.
 ANNEAU DE DÉROBADE
 Anneau, rare (harmonisation requise)
 Cet anneau contient 3 charges et récupère
-1d3 charges dépensées chaque jour, à l’aube. Si
+1d3 charges dépensées chaque jour, à l'aube. Si
 vous ratez un jet de sauvegarde de Dextérité alors
 que vous portez cet anneau au doigt, vous pouvez
 utiliser votre réaction pour dépenser 1 de ses
-charges et remplacer l’échec de ce jet de sauvegarde
+charges et remplacer l'échec de ce jet de sauvegarde
 par une réussite.
-ANNEAU DE FEU D’ÉTOILES
+ANNEAU DE FEU D'ÉTOILES
 Anneau, très rare (harmonisation en plein air et
 de nuit exigée)
 Tant que vous portez cet anneau dans des endroits
 faiblement éclairés ou plongés dans les
 ténèbres, vous pouvez lancer lumières dansantes et
-lumière à volonté par le biais de l’anneau. L’incantation
-d’un de ces sorts sous cette forme nécessite
+lumière à volonté par le biais de l'anneau. L'incantation
+d'un de ces sorts sous cette forme nécessite
 une action.
-L’anneau contient 6 charges dans le cadre
+L'anneau contient 6 charges dans le cadre
 des autres propriétés suivantes. Il récupère
-1d6 charges dépensées chaque jour, à l’aube.
+1d6 charges dépensées chaque jour, à l'aube.
 Lueurs féeriques. Vous pouvez dépenser
 1 charge par une action pour lancer lueurs féeriques
-par le biais de l’anneau.
+par le biais de l'anneau.
 Boules de foudre. Vous pouvez dépenser
 2 charges par une action pour créer une à quatre
 sphères de foudre de 1 mètre de diamètre chacune.
 Plus les sphères créées sont nombreuses,
-moins chacune d’elles est puissante.
+moins chacune d'elles est puissante.
 Chaque sphère apparaît dans un emplacement
 inoccupé situé dans votre champ de vision à
 36 mètres ou moins de vous. Les sphères durent
 tant que vous vous concentrez (comme si vous
-vous concentriez sur un sort), jusqu’à un maximum
-d’une minute. Chaque sphère diffuse une
+vous concentriez sur un sort), jusqu'à un maximum
+d'une minute. Chaque sphère diffuse une
 faible lumière dans un rayon de 9 mètres.
 Par une action bonus, vous pouvez déplacer
-chaque sphère d’une distance maximale de
+chaque sphère d'une distance maximale de
 9 mètres, sans les éloigner de plus de 36 mètres de
-vous. Quand une créature, à l’exception de vousmême,
-approche à 1,50 mètre ou moins d’une
+vous. Quand une créature, à l'exception de vousmême,
+approche à 1,50 mètre ou moins d'une
 sphère, celle-ci la foudroie et disparaît. Cette
 créature doit effectuer un jet de sauvegarde de
 Dextérité DD 15. En cas de jet de sauvegarde raté,
@@ -160,14 +160,14 @@ Sphères Dégâts de foudre
 3 2d6
 2 5d4
 1 4d12
-Feu d’étoiles. Vous pouvez dépenser 1 à
+Feu d'étoiles. Vous pouvez dépenser 1 à
 3 charges par une action. Pour chaque charge
 dépensée, vous pouvez projeter une particule
-de lumière depuis l’anneau jusqu’à un point
+de lumière depuis l'anneau jusqu'à un point
 situé dans votre champ de vision à 18 mètres
 ou moins. Chaque créature située dans un cube
 de 4,50 mètres de côté autour du point désigné
-est criblée d’étincelles et doit effectuer un jet
+est criblée d'étincelles et doit effectuer un jet
 de sauvegarde de Dextérité DD 15 ; elle subit
 5d4 dégâts de feu en cas de jet de sauvegarde
 raté ou la moitié de ces dégâts seulement en cas
@@ -179,96 +179,96 @@ aucun dégât de chute tant que vous portez
 cet anneau au doigt.
 ANNEAU DE MAÎTRISE ÉLÉMENTAIRE
 Anneau, légendaire (harmonisation requise)
-Cet anneau est lié à l’un des quatre plans Élémentaires.
+Cet anneau est lié à l'un des quatre plans Élémentaires.
 Le MJ choisit ou détermine au hasard le
 plan concerné.
 Tant que vous portez cet anneau au doigt, vous
-obtenez l’avantage lors des jets d’attaque contre
+obtenez l'avantage lors des jets d'attaque contre
 les élémentaires originaires du plan lié et ceux-ci
-subissent un désavantage lors des jets d’attaque
+subissent un désavantage lors des jets d'attaque
 contre vous. De plus, vous avez accès aux propriétés
 associées au plan auquel il est lié.
-L’anneau contient 5 charges. Il récupère
-1d4+1 charges dépensées chaque jour, à l’aube.
-Les sorts lancés grâce à l’anneau ont un DD des
+L'anneau contient 5 charges. Il récupère
+1d4+1 charges dépensées chaque jour, à l'aube.
+Les sorts lancés grâce à l'anneau ont un DD des
 jets de sauvegarde contre eux de 17.
-Anneau de maîtrise élémentaire de l’Air. Vous
-pouvez dépenser 2 des charges de l’anneau pour
+Anneau de maîtrise élémentaire de l'Air. Vous
+pouvez dépenser 2 des charges de l'anneau pour
 lancer dominer un monstre sur un élémentaire
-de l’Air. De plus, lorsque vous chutez, vous pouvez
+de l'Air. De plus, lorsque vous chutez, vous pouvez
 descendre de 18 mètres par round sans subir
 aucun dégât de chute. Vous pouvez également
-parler et comprendre l’aérien.
-Si vous aidez à tuer un élémentaire de l’Air tout en
-étant harmonisé à l’anneau, vous avez accès aux
+parler et comprendre l'aérien.
+Si vous aidez à tuer un élémentaire de l'Air tout en
+étant harmonisé à l'anneau, vous avez accès aux
 propriétés supplémentaires suivantes :
-* Vous bénéficiez d’une résistance aux dégâts
+* Vous bénéficiez d'une résistance aux dégâts
 de foudre.
-* Vous disposez d’une vitesse de déplacement
+* Vous disposez d'une vitesse de déplacement
 en vol égale à votre vitesse au sol et vous
 pouvez voler en mode stationnaire.
 * Vous pouvez lancer les sorts suivants grâce à
-l’anneau en dépensant le nombre nécessaire
+l'anneau en dépensant le nombre nécessaire
 de charges : bourrasque (2 charges), chaîne
-d’éclairs (3 charges) et mur de vent (1 charge).
-Anneau de maîtrise élémentaire de l’Eau. Vous
-pouvez dépenser 2 des charges de l’anneau pour
+d'éclairs (3 charges) et mur de vent (1 charge).
+Anneau de maîtrise élémentaire de l'Eau. Vous
+pouvez dépenser 2 des charges de l'anneau pour
 lancer dominer un monstre sur un élémentaire
-de l’Eau. De plus, vous pouvez tenir debout et
+de l'Eau. De plus, vous pouvez tenir debout et
 marcher sur les surfaces liquides comme si elles
 étaient solides. Vous pouvez également parler et
-comprendre l’aquatique.
-Si vous aidez à tuer un élémentaire de l’Eau tout
-en étant harmonisé à l’anneau, vous avez accès
+comprendre l'aquatique.
+Si vous aidez à tuer un élémentaire de l'Eau tout
+en étant harmonisé à l'anneau, vous avez accès
 aux propriétés supplémentaires suivantes :
-* Vous pouvez respirer sous l’eau et disposez
-d’une vitesse de déplacement à la nage égale
+* Vous pouvez respirer sous l'eau et disposez
+d'une vitesse de déplacement à la nage égale
 à votre vitesse au sol.
 * Vous pouvez lancer les sorts suivants grâce
-à l’anneau en dépensant le nombre nécessaire
-de charges : contrôle de l’eau (3 charges),
-création ou destruction d’eau (1 charge),
+à l'anneau en dépensant le nombre nécessaire
+de charges : contrôle de l'eau (3 charges),
+création ou destruction d'eau (1 charge),
 mur de glace (3 charges) et tempête de grêle
 (2 charges).
 Anneau de maîtrise élémentaire de la Terre.
-Vous pouvez dépenser 2 des charges de l’anneau
+Vous pouvez dépenser 2 des charges de l'anneau
 pour lancer dominer un monstre sur un élémentaire
 de la Terre. De plus, vous pouvez vous déplacer
 dans les terrains difficiles composés de gravats, de
-rochers ou de terre comme si c’était des terrains
+rochers ou de terre comme si c'était des terrains
 normaux. Vous pouvez également parler et comprendre
 le terreux.
 Si vous aidez à tuer un élémentaire de la Terre
-tout en étant harmonisé à l’anneau, vous avez
+tout en étant harmonisé à l'anneau, vous avez
 accès aux propriétés supplémentaires suivantes :
-* Vous êtes résistant aux dégâts d’acide.
+* Vous êtes résistant aux dégâts d'acide.
 * Vous pouvez vous déplacer à travers la roche
 ou la terre solide comme si ces zones étaient
 un terrain difficile. Si vous terminez votre
 tour dans une telle zone, vous êtes expulsé
-vers l’emplacement inoccupé le plus proche
-du dernier emplacement occupé avant d’entrer
+vers l'emplacement inoccupé le plus proche
+du dernier emplacement occupé avant d'entrer
 dans cette zone.
 * Vous pouvez lancer les sorts suivants grâce à
-l’anneau en dépensant le nombre nécessaire
+l'anneau en dépensant le nombre nécessaire
 de charges : façonnage de la pierre (2 charges),
 peau de pierre (3 charges) et mur de pierre
 (3 charges).
 Anneau de maîtrise élémentaire du Feu. Vous
-pouvez dépenser 2 des charges de l’anneau pour
+pouvez dépenser 2 des charges de l'anneau pour
 lancer dominer un monstre sur un élémentaire du
-Feu. De plus, vous bénéficiez d’une résistance aux
+Feu. De plus, vous bénéficiez d'une résistance aux
 dégâts de feu. Vous pouvez également parler et
-comprendre l’ignée.
+comprendre l'ignée.
 Si vous aidez à tuer un élémentaire du Feu tout
-en étant harmonisé à l’anneau, vous avez accès
+en étant harmonisé à l'anneau, vous avez accès
 aux propriétés supplémentaires suivantes :
 * Vous êtes immunisé aux dégâts de feu.
 * Vous pouvez lancer les sorts suivants grâce à
-l’anneau en dépensant le nombre nécessaire
+l'anneau en dépensant le nombre nécessaire
 de charges : boule de feu (2 charges), mains
 brûlantes (1 charge) et mur de feu (3 charges).
-ANNEAU DE MARCHE SUR L’EAU
+ANNEAU DE MARCHE SUR L'EAU
 Anneau, peu courant
 Vous pouvez vous tenir debout sur toute surface
 liquide et vous déplacer dessus comme si elle
@@ -280,13 +280,13 @@ nage de 12 mètres tant que vous portez cet anneau
 au doigt.
 ANNEAU DE PROTECTION
 Anneau, rare (harmonisation requise)
-Vous bénéficiez d’un bonus de +1 à la CA et aux
+Vous bénéficiez d'un bonus de +1 à la CA et aux
 jets de sauvegarde tant que vous portez cet anneau
 au doigt.
 ANNEAU DE PROTECTION MENTALE
 Anneau, peu courant (harmonisation requise)
 Tant que vous portez cet anneau, vous êtes immunisé
-à la magie utilisée par d’autres créatures
+à la magie utilisée par d'autres créatures
 pour lire vos pensées, déterminer si vous mentez,
 connaître votre alignement ou le type de créature
 que vous êtes. Les créatures peuvent communiquer
@@ -296,41 +296,41 @@ Vous pouvez utiliser une action pour que
 l'anneau devienne invisible jusqu'à ce que vous
 utilisiez une autre action pour le rendre visible,
 que vous le retiriez ou que vous mourriez.
-Si vous perdez la vie avec l’anneau au doigt,
-votre âme se réfugie à l’intérieur, à moins qu’il ne
+Si vous perdez la vie avec l'anneau au doigt,
+votre âme se réfugie à l'intérieur, à moins qu'il ne
 contienne déjà une âme. Vous pouvez rester dans
-l’anneau ou vous en aller pour l’après-vie. Tant
-que votre âme est à l’intérieur de l’anneau, vous
+l'anneau ou vous en aller pour l'après-vie. Tant
+que votre âme est à l'intérieur de l'anneau, vous
 pouvez communiquer par télépathie avec la créature
-qui l’enfile. Un porteur ne peut pas empêcher
+qui l'enfile. Un porteur ne peut pas empêcher
 cette communication télépathique.
 ANNEAU DE RÉGÉNÉRATION
 Anneau, très rare (harmonisation requise)
 Tant que vous portez cet anneau, vous récupérez
 1d6 points de vie toutes les 10 minutes, à condition
-qu’il vous reste au moins 1 point de vie. Si
-vous perdez des parties de votre corps, l’anneau
+qu'il vous reste au moins 1 point de vie. Si
+vous perdez des parties de votre corps, l'anneau
 permet la repousse des parties manquantes qui
 retrouvent leur entière fonctionnalité au bout de
-1d6+1 jours s’il vous reste au moins 1 point de vie
+1d6+1 jours s'il vous reste au moins 1 point de vie
 pendant toute cette période.
 ANNEAU DE RENVOI DES SORTS
 Anneau, légendaire (harmonisation requise)
-Vous obtenez l’avantage lors des jets de sauvegarde
+Vous obtenez l'avantage lors des jets de sauvegarde
 contre les sorts qui ne prennent que vous
-pour cible (et non une zone d’effet) tant que vous
+pour cible (et non une zone d'effet) tant que vous
 portez cet anneau au doigt. De plus, si vous obtenez
 un 20 au jet de sauvegarde et que le sort est
 de niveau 7 ou moins, celui-ci ne produit aucun
 effet sur vous et il cible à la place son lanceur, en
-utilisant le niveau d’emplacement, le DD des jets
+utilisant le niveau d'emplacement, le DD des jets
 de sauvegarde contre le sort et la caractéristique
-d’incantation du lanceur.
+d'incantation du lanceur.
 ANNEAU DE RÉSISTANCE
 Anneau, rare (harmonisation requise)
-Vous bénéficiez d’une résistance contre un type
+Vous bénéficiez d'une résistance contre un type
 de dégâts tant que vous portez cet anneau au
-doigt. La pierre précieuse qui orne l’anneau indique
+doigt. La pierre précieuse qui orne l'anneau indique
 le type que le MJ peut choisir ou déterminer
 au hasard.
 d10 Type de dégâts Pierre précieuse
@@ -352,29 +352,29 @@ anneau au doigt. Seul vous bénéficiez des effets de
 ce sort.
 ANNEAU DE STOCKAGE DE SORTS
 Anneau, rare (harmonisation requise)
-Cet anneau stocke des sort que l’on lance à l’intérieur
-et les conserve jusqu’au moment où son porteur
-harmonisé les utilise. L’anneau peut stocker un
+Cet anneau stocke des sort que l'on lance à l'intérieur
+et les conserve jusqu'au moment où son porteur
+harmonisé les utilise. L'anneau peut stocker un
 maximum de 5 niveaux de sorts en même temps.
-Au moment de sa découverte, l’anneau contient
+Au moment de sa découverte, l'anneau contient
 1d6-1 niveaux de sorts stockés choisis par le MJ.
 Toute créature peut lancer un sort de niveau
-1 à 5 dans l’anneau en le touchant au
-moment de l’incantation du sort. Le sort ne produit
+1 à 5 dans l'anneau en le touchant au
+moment de l'incantation du sort. Le sort ne produit
 aucun effet ; il est simplement stocké dans
-l’anneau. Si l’anneau ne peut pas stocker le sort,
-celui-ci est dépensé sans produire d’effet. Le niveau
-de l’emplacement utilisé pour lancer le sort
-détermine l’espace de stockage qu’il occupe.
+l'anneau. Si l'anneau ne peut pas stocker le sort,
+celui-ci est dépensé sans produire d'effet. Le niveau
+de l'emplacement utilisé pour lancer le sort
+détermine l'espace de stockage qu'il occupe.
 Tant que vous portez cet anneau, vous pouvez
-lancer n’importe quel sort stocké à l’intérieur. Le
-sort utilise le niveau d’emplacement, le DD du jet
-de sauvegarde contre le sort, le bonus à l’attaque
-du sort et la caractéristique d’incantation de la
-créature qui l’a lancé mais, pour tous les autres
-paramètres, on considère que c’est vous qui
-lancez le sort. Le sort lancé depuis l’anneau n’est
-plus stocké à l’intérieur et libère ainsi de l’espace
+lancer n'importe quel sort stocké à l'intérieur. Le
+sort utilise le niveau d'emplacement, le DD du jet
+de sauvegarde contre le sort, le bonus à l'attaque
+du sort et la caractéristique d'incantation de la
+créature qui l'a lancé mais, pour tous les autres
+paramètres, on considère que c'est vous qui
+lancez le sort. Le sort lancé depuis l'anneau n'est
+plus stocké à l'intérieur et libère ainsi de l'espace
 de stockage.
 ANNEAU DE TÉLÉKINÉSIE
 Anneau, très rare (harmonisation requise)
@@ -385,8 +385,8 @@ ni équipés ni portés.
 ANNEAU DE TRIPLE SOUHAIT
 Anneau, légendaire
 Vous pouvez utiliser une action pour dépenser
-une des 3 charges que contient l’anneau et lancer
-un sort de souhait par son biais. L’anneau devient
+une des 3 charges que contient l'anneau et lancer
+un sort de souhait par son biais. L'anneau devient
 ordinaire et non-magique dès que vous utilisez sa
 dernière charge.
 ANNEAU DE VISION AUX RAYONS X
@@ -395,112 +395,112 @@ Vous pouvez utiliser une action pour prononcer le
 mot de commande de cet anneau. Une fois celui-ci
 prononcé, vous pouvez voir dans et à travers la
 matière solide pendant 1 minute. Le rayon de cette
-vision s’étend sur 9 mètres. Pour vous, les objets
-solides à l’intérieur de ce rayon paraissent transparents
+vision s'étend sur 9 mètres. Pour vous, les objets
+solides à l'intérieur de ce rayon paraissent transparents
 et ne bloquent pas la lumière. La vision peut
 traverser 30 centimètres de pierre, 3 centimètres
-de métal ordinaire ou jusqu’à 1 mètre de bois ou
+de métal ordinaire ou jusqu'à 1 mètre de bois ou
 de terre. Les substances plus épaisses bloquent la
 vision, tout comme une fine couche de plomb.
-Chaque fois que vous utilisez l’anneau à nouveau
+Chaque fois que vous utilisez l'anneau à nouveau
 avant de prendre un repos long, vous devez
 réussir un jet de sauvegarde de Constitution DD 15
-pour ne pas être affublé d’un niveau d’épuisement.
-ANNEAU D’INFLUENCE ANIMALE
+pour ne pas être affublé d'un niveau d'épuisement.
+ANNEAU D'INFLUENCE ANIMALE
 Anneau, rare
 Cet anneau contient 3 charges et récupère
-1d3 charges dépensées chaque jour, à l’aube. Tant
-que vous portez l’anneau au doigt, vous pouvez
+1d3 charges dépensées chaque jour, à l'aube. Tant
+que vous portez l'anneau au doigt, vous pouvez
 utiliser une action pour dépenser 1 de ses charges
 et lancer un des sorts suivants :
 * Amitié avec les animaux (DD des jets de sauvegarde
 contre le sort 13)
 * Peur (DD des jets de sauvegarde contre le
-sort 13). Seules les bêtes dotées d’une Intelligence
+sort 13). Seules les bêtes dotées d'une Intelligence
 de 3 ou moins peuvent être ciblées par
 ce sort.
 * Communication avec les animaux
-ANNEAU D’INVISIBILITÉ
+ANNEAU D'INVISIBILITÉ
 Anneau, légendaire (harmonisation requise)
 Vous pouvez devenir invisible par une action tant
-que vous portez cet anneau au doigt. L’ensemble
+que vous portez cet anneau au doigt. L'ensemble
 de vos objets équipés ou transportés deviennent
-également invisibles. Vous restez invisible jusqu’à
-ce que l’anneau soit retiré, si vous attaquez,
+également invisibles. Vous restez invisible jusqu'à
+ce que l'anneau soit retiré, si vous attaquez,
 lancez un sort ou utilisez une action bonus pour
 redevenir visible.
 ANNEAU DU BÉLIER
 Anneau, rare (harmonisation requise)
 Cet anneau contient 3 charges et récupère
-1d3 charges chaque jour, à l’aube. Tant que vous
+1d3 charges chaque jour, à l'aube. Tant que vous
 portez cet anneau au doigt, vous pouvez utiliser
 une action pour dépenser de 1 à 3 charges afin
-d’attaquer une créature située à 18 mètres ou
-moins dans votre champ de vision. L’anneau produit
+d'attaquer une créature située à 18 mètres ou
+moins dans votre champ de vision. L'anneau produit
 une tête de bélier spectrale et effectue son jet
-d’attaque avec un bonus de +7. En cas d’attaque
+d'attaque avec un bonus de +7. En cas d'attaque
 réussie et pour chaque charge dépensée, la cible
 subit 2d10 dégâts de force et elle est éloignée de
 vous sur une distance de 1,50 mètre.
 Par ailleurs, vous pouvez dépenser de 1 à 3 des
-charges que contient l’anneau par une action
+charges que contient l'anneau par une action
 pour tenter de briser un objet ni équipé, ni porté,
 et situé à 18 mètres ou moins de vous dans votre
-champ de vision. L’anneau effectue un test de
+champ de vision. L'anneau effectue un test de
 Force avec un bonus de +5 pour chaque charge
 dépensée.
 ARC DU SERMENT
 Arme (arc long), très rare (harmonisation requise)
 Quand vous encochez une flèche sur cet arc, il
 murmure en elfe « Une mort rapide à mes ennemis. »
-Lorsque vous l’utilisez pour une attaque à distance,
+Lorsque vous l'utilisez pour une attaque à distance,
 vous pouvez lui chuchoter sa phrase de commande
-« Une mort rapide pour vous qui m’avez causé du tort. »
+« Une mort rapide pour vous qui m'avez causé du tort. »
 La cible de votre attaque devient votre ennemi juré
-jusqu’à sa mort ou jusqu’à ce que l’aube se lève sur
+jusqu'à sa mort ou jusqu'à ce que l'aube se lève sur
 le septième jour suivant votre déclaration. Vous ne
-pouvez avoir qu’un seul ennemi juré de ce type. À
-sa mort, vous devez attendre l’aube suivante pour
+pouvez avoir qu'un seul ennemi juré de ce type. À
+sa mort, vous devez attendre l'aube suivante pour
 en désigner ainsi un nouveau.
 Quand vous faites une attaque à distance avec
 cet arc contre votre ennemi juré, vous obtenez
-l’avantage lors du test. De plus, votre cible ne tire
-aucun avantage d’un abri (à moins d’un abri total)
-et vous ne subissez pas de désavantage s’il se trouve
+l'avantage lors du test. De plus, votre cible ne tire
+aucun avantage d'un abri (à moins d'un abri total)
+et vous ne subissez pas de désavantage s'il se trouve
 à longue portée. Si vous touchez, votre ennemi juré
 subit 3d6 dégâts perforants supplémentaires.
 Tant que vit votre ennemi juré, vous subissez
 un désavantage lors de jets d'attaque effectués
 avec toutes les autres armes.
 ARME VICIEUSE
-Arme (n’importe quelle arme), rare
-Lorsque vous obtenez un 20 sur un jet d’attaque
+Arme (n'importe quelle arme), rare
+Lorsque vous obtenez un 20 sur un jet d'attaque
 avec cette arme magique, votre coup critique inflige
 2d6 dégâts supplémentaires du type normalement
-infligé par l’arme.
+infligé par l'arme.
 ARME +1, +2 OU +3
-Arme (n’importe quelle arme), peu courante (+1),
+Arme (n'importe quelle arme), peu courante (+1),
 rare (+2) ou très rare (+3)
-Vous bénéficiez d’un bonus aux jets d’attaque et
+Vous bénéficiez d'un bonus aux jets d'attaque et
 de dégâts effectués avec cette arme magique. Le
-bonus est déterminé par la rareté de l’arme.
-ARMURE D’ÉCAILLES DE DRAGON
-Armure (armure d’écaille), très rare (harmonisation
+bonus est déterminé par la rareté de l'arme.
+ARMURE D'ÉCAILLES DE DRAGON
+Armure (armure d'écaille), très rare (harmonisation
 requise)
-Une armure d’écaille de dragon est faite à partir des
-écailles d’une espèce de dragon. Parfois, un dragon
-récupère les écailles qu’il a perdues et les offre
+Une armure d'écaille de dragon est faite à partir des
+écailles d'une espèce de dragon. Parfois, un dragon
+récupère les écailles qu'il a perdues et les offre
 à un humanoïde, parfois ce sont des chasseurs
 qui écorchent soigneusement un dragon mort et
 conservent sa peau. Dans les deux cas, une armure
-d’écailles de dragon est un objet très précieux.
+d'écailles de dragon est un objet très précieux.
 Tant que vous portez cette armure, vous bénéficiez
-d’un bonus de +1 à la CA, vous obtenez
-l’avantage sur les jets de sauvegarde contre la
+d'un bonus de +1 à la CA, vous obtenez
+l'avantage sur les jets de sauvegarde contre la
 présence terrifiante et le souffle des dragons et
 vous êtes résistant au type de dégâts déterminé
-par l’espèce de dragon qui a fourni les écailles de
-l’armure (voir la table).
+par l'espèce de dragon qui a fourni les écailles de
+l'armure (voir la table).
 De plus, vous pouvez utiliser une action pour
 concentrer vos cinq sens et percevoir par magie
 la distance qui vous sépare du dragon le plus
@@ -508,7 +508,7 @@ proche, dans un rayon de 45 kilomètres, et la
 direction dans laquelle il se trouve. Ce pouvoir
 fonctionne uniquement vis-à-vis des dragons de la
 même espèce que celui qui a fourni les écailles de
-l’armure. Il faut attendre l’aube suivante avant de
+l'armure. Il faut attendre l'aube suivante avant de
 réutiliser ce pouvoir.
 Dragon Résistance
 Noir Acide
@@ -525,36 +525,36 @@ ARMURE DE MITHRAL
 Armure (intermédiaire ou lourde mais pas en
 peau), peu courante
 Le mithral est un métal léger et flexible, à tel point
-qu’on peut porter une chemise de mailles ou une
+qu'on peut porter une chemise de mailles ou une
 cuirasse de cette matière sous des vêtements normaux.
-Si le type d’armure impose d’ordinaire un
+Si le type d'armure impose d'ordinaire un
 désavantage lors des tests de Dextérité (Discrétion)
 ou si une certaine valeur de Force figure parmi
-ses conditions requises, ce n’est pas le cas de sa
+ses conditions requises, ce n'est pas le cas de sa
 version en mithral.
 ARMURE DÉMONIAQUE
 Armure (harnois), très rare (harmonisation
 requise)
 Tant que vous portez cette armure, vous gagnez
 un bonus de +1 à la CA et vous comprenez et
-parlez l’abyssal. De plus, les gantelets de l’armure
+parlez l'abyssal. De plus, les gantelets de l'armure
 sont équipés de griffes qui transforment les attaques
 à mains nues portées avec eux en attaques
 portées avec une arme magique infligeant des
-dégâts tranchants, dotée d’un bonus de +1 aux jets
-d’attaque et de dégâts et infligeant 1d8 de dégâts.
+dégâts tranchants, dotée d'un bonus de +1 aux jets
+d'attaque et de dégâts et infligeant 1d8 de dégâts.
 Malédiction. Une fois que vous avez enfilé cette
 armure maudite, vous ne pouvez plus la retirer, à
 moins de bénéficier du sort lever la malédiction ou
-d’une magie similaire. Tant que vous portez l’armure,
-vous subissez un désavantage lors de vos jets d’attaque
+d'une magie similaire. Tant que vous portez l'armure,
+vous subissez un désavantage lors de vos jets d'attaque
 contre les démons et de vos jets de sauvegarde
 contre leurs sorts et de leurs pouvoirs spéciaux.
 ARMURE DE RÉSISTANCE
 Armure (légère, intermédiaire ou lourde), rare
 (harmonisation requise)
 Tant que vous portez cette armure, vous êtes résistant
-à un type de dégâts. C’est au MJ de choisir
+à un type de dégâts. C'est au MJ de choisir
 ce type ou de le déterminer au hasard parmi les
 options suivantes.
 d10 Type de dégâts
@@ -572,43 +572,43 @@ ARMURE DE VULNÉRABILITÉ
 Armure (harnois), rare (harmonisation requise)
 Tant que vous portez cette armure, vous êtes
 résistant à un type de dégâts parmi les suivants :
-contondants, perforants ou tranchants. C’est au MJ
+contondants, perforants ou tranchants. C'est au MJ
 de choisir ce type ou de le déterminer au hasard.
 Malédiction. Cette armure est maudite, mais
-les gens l’ignorent à moins de lui lancer le sort
-identification ou de s’harmoniser avec elle. Si vous
-vous harmonisez avec l’armure, elle vous maudit
-jusqu’à ce que vous bénéficiez du sort lever la
-malédiction ou d’une magie similaire. Vous aurez
-beau enlever l’armure, cela ne suffit pas à briser la
+les gens l'ignorent à moins de lui lancer le sort
+identification ou de s'harmoniser avec elle. Si vous
+vous harmonisez avec l'armure, elle vous maudit
+jusqu'à ce que vous bénéficiez du sort lever la
+malédiction ou d'une magie similaire. Vous aurez
+beau enlever l'armure, cela ne suffit pas à briser la
 malédiction. Tant que vous êtes maudit, vous êtes
 vulnérable à deux des trois types de dégâts contre
-lesquels l’armure peut vous offrir une résistance
+lesquels l'armure peut vous offrir une résistance
 (jamais celui pour lequel elle vous rend résistant).
-ARMURE D’INVULNÉRABILITÉ
+ARMURE D'INVULNÉRABILITÉ
 Armure (harnois), légendaire
 (harmonisation requise)
 Tant que vous portez cette armure, vous résistez
 aux dégâts non-magiques. De plus, vous pouvez
 dépenser une action pour vous immuniser contre
 les dégâts non-magiques pendant 10 minutes ou
-jusqu’à ce que vous ne portiez plus l’armure. Une
+jusqu'à ce que vous ne portiez plus l'armure. Une
 fois que vous avez utilisé cette action spéciale, vous
-ne pouvez plus vous en servir avant l’aube suivante.
+ne pouvez plus vous en servir avant l'aube suivante.
 ARMURE EN ADAMANTIUM
 Armure (intermédiaire ou lourde, mais pas en
 peau), peu courante
-Cette armure est renforcée à base d’adamantium,
-l’une des substances les plus solides au monde.
+Cette armure est renforcée à base d'adamantium,
+l'une des substances les plus solides au monde.
 Tant que vous la portez, tous les coups critiques
 réussis contre vous se muent en coups normaux.
 ARMURE +1, +2 OU +3
 Armure (légère, intermédiaire ou lourde), rare
 (+1), très rare (+2) ou légendaire (+3)
-Vous disposez d’un bonus à la CA tant que vous
+Vous disposez d'un bonus à la CA tant que vous
 portez cette armure. Ce bonus dépend de la rareté
-de l’armure.
-BAGUETTE D’ÉCLAIRS
+de l'armure.
+BAGUETTE D'ÉCLAIRS
 Baguette, rare (harmonisation avec un lanceur
 de sorts exigée)
 Cette baguette contient 7 charges. Avec cette
@@ -617,10 +617,10 @@ pour dépenser 1 ou plusieurs charges et lancer le
 sort de éclair (DD des jets de sauvegarde contre le
 sort 15) par son biais. Pour 1 charge, vous lancez la
 version de niveau 3 du sort. Vous pouvez augmenter
-de un le niveau de l’emplacement du sort pour
+de un le niveau de l'emplacement du sort pour
 chaque charge supplémentaire que vous dépensez.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est
 détruite et tombe en cendres sur un résultat de 1.
 BAGUETTE DE BOULES DE FEU
@@ -632,14 +632,14 @@ pour dépenser 1 ou plusieurs charges et lancer
 le sort de boule de feu (DD des jets de sauvegarde
 contre le sort 15) par son biais. Pour 1 charge, vous
 lancez la version de niveau 3 du sort. Vous pouvez
-augmenter de un le niveau de l’emplacement du
+augmenter de un le niveau de l'emplacement du
 sort pour chaque charge supplémentaire que vous
 dépensez.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est
 détruite et tombe en cendres sur un résultat de 1.
-BAGUETTE DE DÉTECTION DE L’ENNEMI
+BAGUETTE DE DÉTECTION DE L'ENNEMI
 Baguette, rare (harmonisation requise)
 Cette baguette contient 7 charges. Avec cette
 baguette en main, vous pouvez utiliser une action
@@ -650,10 +650,10 @@ la créature hostile envers vous la plus proche et
 située à 18 mètres ou moins. La baguette perçoit
 la présence des créatures hostiles éthérées,
 invisibles, déguisées ou cachées, en plus de celles
-exposées à la vue de tous. L’effet prend fin si vous
+exposées à la vue de tous. L'effet prend fin si vous
 ne tenez plus la baguette en main.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. Sur un 1, elle est
 détruite et tombe en cendres.
 BAGUETTE DE DÉTECTION DE LA MAGIE
@@ -662,7 +662,7 @@ Cette baguette contient 3 charges. Avec cette
 baguette en main, vous pouvez dépenser 1 charge
 par une action pour lancer le sort détection de
 la magie par son biais. La baguette récupère
-1d3 charges dépensées chaque jour, à l’aube.
+1d3 charges dépensées chaque jour, à l'aube.
 BAGUETTE DE MÉTAMORPHOSE
 Baguette, très rare (harmonisation avec un lanceur
 de sorts exigée)
@@ -672,7 +672,7 @@ pour dépenser 1 de ses charges et lancer le sort de
 métamorphose (DD des jets de sauvegarde contre
 le sort 15) par son biais.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est
 détruite et tombe en cendres sur un résultat de 1.
 BAGUETTE DE PARALYSIE
@@ -681,16 +681,16 @@ de sorts exigée)
 Cette baguette contient 7 charges. Avec cette
 baguette en main, vous pouvez utiliser une action
 pour dépenser 1 de ses charges et projeter un fin
-rayon bleu de l’extrémité de la baguette vers une
+rayon bleu de l'extrémité de la baguette vers une
 créature située à 18 mètres ou moins dans votre
 champ de vision. La cible doit réussir un jet de
 sauvegarde de Constitution DD 15 pour ne pas être
 paralysée pendant 1 minute. À la fin de chacun des
 tours de la cible, elle peut retenter le jet de sauvegarde
-et mettre fin à l’effet dont elle est victime en
+et mettre fin à l'effet dont elle est victime en
 cas de réussite.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est
 détruite et tombe en cendres sur un résultat de 1.
 BAGUETTE DE PROJECTILES MAGIQUES
@@ -701,17 +701,17 @@ action pour dépenser 1 ou plusieurs charges
 et lancer le sort de projectile magique par son
 biais. Pour 1 charge, vous lancez la version de
 niveau 1 de ce sort. Vous pouvez augmenter de un
-le niveau de l’emplacement du sort pour chaque
+le niveau de l'emplacement du sort pour chaque
 charge supplémentaire que vous dépensez.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est
 détruite et tombe en cendres sur un résultat de 1.
 BAGUETTE DE TERREUR
 Baguette, rare (harmonisation requise)
 Cette baguette contient 7 charges en ce qui
 concerne les propriétés suivantes. Elle récupère
-1d6+1 charges dépensées chaque jour, à l’aube.
+1d6+1 charges dépensées chaque jour, à l'aube.
 Lancez un d20 si vous dépensez la dernière
 charge. Sur un 1, elle est détruite et tombe en
 cendres.
@@ -722,29 +722,29 @@ plat ventre, comme avec le sort ordre (DD des jets
 de sauvegarde 15).
 Cône de terreur. Avec cette baguette en main,
 vous pouvez utiliser une action pour dépenser
-2 charges et projeter depuis l’extrémité de la baguette
+2 charges et projeter depuis l'extrémité de la baguette
 un cône de 18 mètres de lumière ambrée.
 Les créatures dans le cône doivent chacune réussir
 un jet de sauvegarde de Sagesse DD 15 pour ne
 pas être terrorisées par votre présence pendant 1
 minute. Terrorisée de cette façon, une créature
-doit consacrer ses tours à tenter de s’éloigner le
+doit consacrer ses tours à tenter de s'éloigner le
 plus loin possible de vous. Elle ne peut pas approcher
 volontairement à 9 mètres ou moins de vous.
 Elle ne peut plus non plus faire de réaction. En ce
 qui concerne ses actions, elle peut effectuer uniquement
-l’action se précipiter ou tenter d’échapper
-à un effet qui l’empêche de se déplacer. Si elle
-n’a nulle part où aller, elle peut effectuer l’action
+l'action se précipiter ou tenter d'échapper
+à un effet qui l'empêche de se déplacer. Si elle
+n'a nulle part où aller, elle peut effectuer l'action
 esquiver. À la fin de chacun de ses tours, une créature
 peut retenter le jet de sauvegarde et mettre
-fin à l’effet dont elle est victime en cas de réussite.
+fin à l'effet dont elle est victime en cas de réussite.
 BAGUETTE DES ENTRAVES
 Baguette, rare (harmonisation avec un lanceur
 de sorts exigée)
 Cette baguette contient 7 charges en ce qui
 concerne les propriétés suivantes. Elle récupère
-1d6+1 charges dépensées chaque jour, à l’aube.
+1d6+1 charges dépensées chaque jour, à l'aube.
 Si vous dépensez sa dernière charge, lancez un
 d20. Sur un 1, la baguette est détruite et tombe en
 cendres.
@@ -756,10 +756,10 @@ monstre (5 charges) ou immobilisation de personne
 (2 charges).
 Évasion facilitée. Avec cette baguette en main,
 vous pouvez utiliser votre réaction et vous obtenez
-l’avantage lors d’un jet de sauvegarde effectué
+l'avantage lors d'un jet de sauvegarde effectué
 pour ne pas vous retrouver paralysé ou entravé.
 Vous pouvez aussi dépenser 1 charge de cette façon
-pour obtenir l’avantage lors d’un test effectué pour
+pour obtenir l'avantage lors d'un test effectué pour
 éviter de vous retrouver empoigné.
 BAGUETTE DES SECRETS
 Baguette, peu courante
@@ -769,13 +769,13 @@ si une porte secrète ou un piège est présent à 9
 mètres ou moins de vous, la baguette se met à
 pulser et pointe dans la direction du plus proche
 de vous. La baguette récupère 1d3 charges dépensées
-chaque jour, à l’aube.
+chaque jour, à l'aube.
 BAGUETTE DU MAGE DE GUERRE +1, +2 OU +3
 Baguette, peu courant (+1), rare (+2) ou très rare
 (+3) (harmonisation avec un lanceur de sorts
 exigée)
-Avec cette baguette en main, vous bénéficiez d’un
-bonus aux jets d’attaque des sorts déterminé par
+Avec cette baguette en main, vous bénéficiez d'un
+bonus aux jets d'attaque des sorts déterminé par
 la rareté de la baguette. En outre, vous ignorez les
 abris partiels lorsque vous effectuez une attaque
 de sort.
@@ -785,10 +785,10 @@ lanceur de sorts exigée)
 Cette baguette contient 7 charges. Avec cette
 baguette en main, vous pouvez utiliser une action
 pour dépenser 1 de ses charges et lancer le sort
-toile d’araignée (DD des jets de sauvegarde contre
+toile d'araignée (DD des jets de sauvegarde contre
 le sort 15) par son biais.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est
 détruite et tombe en cendres sur un résultat de 1.
 BAGUETTE MERVEILLEUSE
@@ -798,31 +798,31 @@ Cette baguette contient 7 charges. Avec cette
 baguette en main, vous pouvez utiliser une action
 pour dépenser 1 de ses charges et choisir une cible
 à 36 mètres ou moins de vous. La cible peut être
-une créature, un objet ou un point dans l’espace.
+une créature, un objet ou un point dans l'espace.
 Lancez un d100 et consultez la table suivante pour
-découvrir ce qu’il se passe.
-Si l’effet produit vous pousse à lancer un sort
+découvrir ce qu'il se passe.
+Si l'effet produit vous pousse à lancer un sort
 bar le biais de la baguette, le DD des jets de sauvegarde
-du sort s’élève à 15. Si le sort a normalement
+du sort s'élève à 15. Si le sort a normalement
 une portée exprimée en mètres, celle du
-sort lancé par le biais de la baguette s’élève à 36
-mètres si ce n’est pas déjà le cas.
-Si l’effet produit couvre une zone, vous devez
+sort lancé par le biais de la baguette s'élève à 36
+mètres si ce n'est pas déjà le cas.
+Si l'effet produit couvre une zone, vous devez
 centrer le sort sur la cible qui doit être comprise
-dans sa zone d’effet. Si l’effet produit peut cibler
+dans sa zone d'effet. Si l'effet produit peut cibler
 plusieurs sujets, le MJ détermine au hasard les
 créatures affectées.
 La baguette récupère 1d6+1 charges dépensées
-chaque jour, à l’aube. Lancez un d20 si vous
+chaque jour, à l'aube. Lancez un d20 si vous
 dépensez la dernière charge. La baguette est détruite
 et tombe en poussière sur un résultat de 1.
 d100 Effet
 01-05 Vous lancez lenteur.
 06-10 Vous lancez lueurs féeriques.
 11-15
-Vous êtes étourdi jusqu’à la fin de votre
+Vous êtes étourdi jusqu'à la fin de votre
 prochain tour, mais vous croyez que quelque
-chose d’incroyable vient tout juste d’arriver.
+chose d'incroyable vient tout juste d'arriver.
 16-20 Vous lancez bourrasque.
 21-25
 Vous lancez détection des pensées sur la
@@ -833,11 +833,11 @@ psychiques si vous ne ciblez aucune créature.
 Une forte pluie tombe dans un rayon de 18
 mètres centré sur la cible. La visibilité dans
 cette zone est réduite. La pluie tombe ainsi
-jusqu’au début de votre prochain tour.
+jusqu'au début de votre prochain tour.
 34-36
-Un animal apparaît dans l’emplacement
-inoccupé le plus proche de la cible. L’animal
-n’est pas sous votre contrôle et agit comme
+Un animal apparaît dans l'emplacement
+inoccupé le plus proche de la cible. L'animal
+n'est pas sous votre contrôle et agit comme
 tout autre animal de son espèce. Lancez un
 d100 pour déterminer quel animal apparaît.
 Entre 01 et 25, un rhinocéros apparaît ; entre 26
@@ -857,14 +857,14 @@ peut être affectée ou si vous ne ciblez aucune
 créature.
 54-58 Vous lancez ténèbres.
 59-62
-De l’herbe pousse par terre dans une zone de
-18 mètres de rayon centrée sur la cible. S’il y
-a déjà de l’herbe, elle pousse pour atteindre
+De l'herbe pousse par terre dans une zone de
+18 mètres de rayon centrée sur la cible. S'il y
+a déjà de l'herbe, elle pousse pour atteindre
 dix fois sa taille normale et conserve cette
 nouvelle taille pendant 1 minute.
 63-65
 Un objet au choix du MJ disparaît dans le plan
-éthéré. L’objet ne doit être équipé ou porté
+éthéré. L'objet ne doit être équipé ou porté
 par personne, il doit se trouver à 36 mètres ou
 moins de la cible et ses dimensions ne peuvent
 dépasser 3 mètres.
@@ -874,40 +874,40 @@ sort agrandir/rétrécir sur vous-même.
 80-84 Vous lancez invisibilité sur vous-même.
 85-87
 Des feuilles de plante poussent sur la cible. Si
-vous prenez un point dans l’espace pour cible,
+vous prenez un point dans l'espace pour cible,
 des feuilles poussent sur la créature la plus
-proche de ce point. À moins d’être arrachées,
+proche de ce point. À moins d'être arrachées,
 les feuilles se racornissent peu à peu et
 tombent au bout de 24 heures.
 88-90
 un flot de 1d4×10 pierres précieuses, avalant
-1 po chacune, surgit de l’extrémité de la
+1 po chacune, surgit de l'extrémité de la
 baguette sur une ligne de 9 mètres de long et
 1,50 mètre de large. Chaque pierre précieuse
 inflige 1 dégât contondant et les dégâts totaux
 infligés par ces pierres sont divisés à parts
 égales entre toutes les cibles sur la ligne.
 91-95
-Une explosion de lumière scintillante s’étend
+Une explosion de lumière scintillante s'étend
 autour de vous sur un rayon de 9 mètres.
 Vous, et les créatures dans la zone qui peuvent
 vous voir, devez chacune réussir un jet de
 sauvegarde de Constitution DD 15 pour ne pas
 être aveuglées pendant 1 minute. Une créature
 peut retenter le jet de sauvegarde à la fin de
-chacun de ses tours et mettre fin à l’effet dont
+chacun de ses tours et mettre fin à l'effet dont
 elle est victime en cas de réussite.
 96-97
 La peau de la cible devient bleue et
 luminescente pendant 1d10 jours. Si vous avez
-pris un point dans l’espace pour cible, c’est
+pris un point dans l'espace pour cible, c'est
 la créature la plus proche de ce point qui est
 affectée.
 98-00
 Si vous avez pris une créature pour cible,
 celle-ci doit effectuer un jet de sauvegarde de
-Constitution DD 15. Si vous n’avez pris aucune
-créature pour cible, c’est vous la cible du sort,
+Constitution DD 15. Si vous n'avez pris aucune
+créature pour cible, c'est vous la cible du sort,
 et vous devez effectuer le jet de sauvegarde. Si
 le jet de sauvegarde rate de 5 points ou plus,
 la cible est instantanément pétrifiée. Tous
@@ -916,9 +916,9 @@ que la cible est entravée et commence à se
 transformer en pierre. Entravée de cette façon,
 la cible doit retenter le jet de sauvegarde à
 la fin de son prochain tour ; elle est pétrifiée
-en cas d’échec ou met fin à l’effet en cas de
+en cas d'échec ou met fin à l'effet en cas de
 réussite. La pétrification dure tant que la cible
-n’est pas libérée par un sort de restauration
+n'est pas libérée par un sort de restauration
 supérieure ou une magie similaire.
 BALAI VOLANT
 Objet merveilleux, peu courant
@@ -927,8 +927,8 @@ un balai ordinaire, à moins que vous ne vous
 mettiez à califourchon dessus et prononciez son
 mot de commande. Il se met alors à flotter et vous
 pouvez le chevaucher pour vous déplacer dans les
-airs. Il dispose d’une vitesse de vol de 15 mètres et
-porte jusqu’à 200 kilos, mais sa vitesse se réduit à
+airs. Il dispose d'une vitesse de vol de 15 mètres et
+porte jusqu'à 200 kilos, mais sa vitesse se réduit à
 9 mètres si la charge dépasse les 100 kilos. Le balai
 cesse de flotter dès que vous atterrissez.
 Vous pouvez envoyer le balai rejoindre seul une
@@ -937,94 +937,94 @@ destination située dans un rayon de 1,5 kilomètre,
 le nom de la destination et de bien connaître
 cette dernière. Le balai revient à vous quand vous
 prononcez un autre mot de commande, à condition
-qu’il se trouve encore dans un rayon de 1,5
+qu'il se trouve encore dans un rayon de 1,5
 kilomètre autour de vous.
-BANDEAU D’INTELLIGENCE
+BANDEAU D'INTELLIGENCE
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ce bandeau, votre Intelligence
 passe à 19. Si elle est déjà de 19 ou plus, il
-n’a aucun effet sur vous.
+n'a aucun effet sur vous.
 BATEAU PLIABLE
 Objet merveilleux, rare
 Cet objet ressemble à une boîte en bois de
 30 centimètres de long pour 15 de large et 15 de
-profondeur. Il pèse 2 kilos et flotte. On peut l’ouvrir
-pour stocker des objets à l’intérieur. Il répond
+profondeur. Il pèse 2 kilos et flotte. On peut l'ouvrir
+pour stocker des objets à l'intérieur. Il répond
 à trois mots de commande, chacun nécessitant
 une action.
 Le premier déplie la boîte qui se transforme
 en bateau de 3 mètres de long pour 1,20 mètre de
 large et 60 centimètres de profondeur. Il est doté
-d’une paire de rames, d’une ancre, d’un mât et
-d’une voile latine. Quatre créatures de taille M au
-maximum peuvent s’y installer confortablement.
+d'une paire de rames, d'une ancre, d'un mât et
+d'une voile latine. Quatre créatures de taille M au
+maximum peuvent s'y installer confortablement.
 Le deuxième mot de commande déplie la
 boîte pour former un bateau de 7 mètres de long,
 2,40 mètres de large et 2 mètres de profondeur.
-Il est doté d’un pont, de bancs pour les rameurs,
-de cinq paires d’avirons, d’un aviron de queue,
-d’une ancre, d’une cabine de pont et d’un mât
+Il est doté d'un pont, de bancs pour les rameurs,
+de cinq paires d'avirons, d'un aviron de queue,
+d'une ancre, d'une cabine de pont et d'un mât
 à la voile carrée. Il accueille confortablement
 15 créatures de taille M.
 Quand la boîte se change en bateau, son poids
-devient celui d’un navire ordinaire de sa taille et
+devient celui d'un navire ordinaire de sa taille et
 tout ce qui se trouvait dans la boîte reste dans le
 bateau.
 Le troisième mot de commande replie le
-bateau qui redevient une boîte, à condition qu’il
-n’y ait pas de créatures à bord. Tout objet qui se
+bateau qui redevient une boîte, à condition qu'il
+n'y ait pas de créatures à bord. Tout objet qui se
 trouve à bord et ne peut pas tenir dans la boîte
-se retrouve à l’extérieur de ce récipient quand le
+se retrouve à l'extérieur de ce récipient quand le
 navire se replie. Tout objet qui se trouve à bord
 du bateau et peut tenir dans la boîte se retrouve à
-l’intérieur.
-BÂTON D’ENVOÛTEMENT
+l'intérieur.
+BÂTON D'ENVOÛTEMENT
 Bâton, rare (harmonisation avec un barde, un
 clerc, un druide, un ensorceleur, un magicien ou
 un sorcier exigée)
 Tant que vous tenez ce bâton en main, vous
 pouvez utiliser une action pour dépenser 1 des
-10 charges qu’il contient et lancer charme-personne,
+10 charges qu'il contient et lancer charme-personne,
 ordre ou compréhension des langages par
 son biais en appliquant le DD des jets de sauvegarde
 contre vos sorts. On peut également
 manier ce bâton comme une arme magique.
 Si vous tenez le bâton en main et ratez un jet
-de sauvegarde contre un sort d’enchantement
+de sauvegarde contre un sort d'enchantement
 qui vous prend vous, et uniquement vous, pour
 cible, vous pouvez transformer votre jet de sauvegarde
 raté en réussite. Vous ne pourrez plus
-utiliser cette propriété du bâton jusqu’à l’aube
+utiliser cette propriété du bâton jusqu'à l'aube
 suivante. Si vous réussissez un jet de sauvegarde
-contre un sort d’enchantement qui vous prend
+contre un sort d'enchantement qui vous prend
 vous, et uniquement vous, pour cible, avec ou
-sans l’intervention du bâton, vous pouvez utiliser
+sans l'intervention du bâton, vous pouvez utiliser
 votre réaction pour dépenser 1 charge du bâton
-et renvoyer le sort, comme si vous l’aviez vousmême
+et renvoyer le sort, comme si vous l'aviez vousmême
 lancé, vers son expéditeur.
 Le bâton récupère 1d8+2 charges dépensées
-chaque jour, à l’aube. Si vous dépensez la dernière
+chaque jour, à l'aube. Si vous dépensez la dernière
 charge, lancez un d20. La magie du bâton
 disparaît sur un résultat de 1.
 BÂTON DE COMBAT
 Bâton, très rare (harmonisation requise)
 Ce bâton peut être manié comme une arme
-magique qui confère un bonus de +3 à l’attaque et
+magique qui confère un bonus de +3 à l'attaque et
 aux jets de dégâts effectués par son biais.
 Le bâton contient 10 charges. Quand vous réussissez
-une attaque au corps à corps en l’utilisant,
-vous pouvez dépenser jusqu’à 3 charges. Pour
+une attaque au corps à corps en l'utilisant,
+vous pouvez dépenser jusqu'à 3 charges. Pour
 chaque charge dépensée, la cible subit 1d6 dégâts
 de force supplémentaires. Le bâton récupère
-1d6+4 charges dépensées chaque jour, à l’aube. Si
+1d6+4 charges dépensées chaque jour, à l'aube. Si
 vous dépensez la dernière charge, lancez un d20.
 La magie du bâton disparaît sur un résultat de 1.
 BÂTON DE FEU
 Bâton, très rare (harmonisation avec un druide,
 un ensorceleur, un magicien ou un sorcier
 exigée)
-Vous bénéficiez d’une résistance contre les dégâts
+Vous bénéficiez d'une résistance contre les dégâts
 de feu tant que vous tenez ce bâton en main.
 Le bâton contient 10 charges. Tant que vous le
 tenez en main, vous pouvez utiliser une action
@@ -1034,17 +1034,17 @@ appliquant le DD des jets de sauvegarde contre
 vos sorts : mains brûlantes (1 charge), boule de feu
 (3 charges) ou mur de feu (4 charges).
 Le bâton récupère 1d6+4 charges dépensées
-chaque jour, à l’aube. Si vous dépensez la dernière
+chaque jour, à l'aube. Si vous dépensez la dernière
 charge, lancez un d20. Le bâton est détruit, se
 racornit et tombe en cendres sur un résultat de 1.
 BÂTON DE FLÉTRISSEMENT
 Bâton, rare (harmonisation avec un druide, un
 clerc ou un sorcier exigée)
 Ce bâton contient 3 charges et récupère
-1d3 charges dépensées chaque jour, à l’aube.
+1d3 charges dépensées chaque jour, à l'aube.
 Le bâton peut être manié comme une arme
-magique. En cas d’attaque réussie, il inflige les
-dégâts d’un bâton normal et vous pouvez dépenser
+magique. En cas d'attaque réussie, il inflige les
+dégâts d'un bâton normal et vous pouvez dépenser
 1 charge pour infliger 2d10 dégâts nécrotiques
 supplémentaires à la cible. De plus, la cible doit
 réussir un jet de sauvegarde de Constitution DD 15
@@ -1059,18 +1059,18 @@ en main, vous pouvez utiliser une action pour
 dépenser 1 ou plusieurs de ses charges et lancer
 un des sorts suivants par son biais, en appliquant
 le DD des jets de sauvegarde contre vos sorts et le
-modificateur de votre caractéristique d’incantation
+modificateur de votre caractéristique d'incantation
 : soin des blessures (1 charge par niveau de sort,
 4e au maximum), restauration inférieure (2 charges)
 ou soin des blessures de groupe (5 charges).
 Le bâton récupère 1d6+4 charges dépensées
-chaque jour, à l’aube. Si vous dépensez la dernière
+chaque jour, à l'aube. Si vous dépensez la dernière
 charge, lancez un d20. Le bâton disparaît en un
 éclat de lumière sur un résultat de 1.
 BÂTON DE GIVRE
 Bâton, très rare (harmonisation avec un druide,
 un ensorceleur, un magicien ou un sorcier exigée)
-Vous bénéficiez d’une résistance contre les dégâts
+Vous bénéficiez d'une résistance contre les dégâts
 de froid tant que vous tenez ce bâton en main.
 Le bâton contient 10 charges. Tant que vous le
 tenez en main, vous pouvez utiliser une action
@@ -1080,24 +1080,24 @@ le DD des jets de sauvegarde contre vos
 sorts : cône de froid (5 charges), tempête de grêle (4
 charges) ou mur de glace (4 charges).
 Le bâton récupère 1d6+4 charges dépensées
-chaque jour, à l’aube. Si vous dépensez la dernière
+chaque jour, à l'aube. Si vous dépensez la dernière
 charge, lancez un d20. Le bâton est détruit et se
 transforme en eau sur un résultat de 1.
 BÂTON DE PUISSANCE
 Bâton, très rare (harmonisation avec un ensorceleur,
 un magicien ou un sorcier exigée)
 Ce bâton peut être manié comme une arme magique
-qui confère un bonus de +2 à l’attaque et aux
+qui confère un bonus de +2 à l'attaque et aux
 jets de dégâts effectués par son biais. Tant que vous
-le tenez en main, vous bénéficiez d’un bonus de +2
-à la Classe d’Armure, aux jets de sauvegarde et aux
-jets d’attaque des sorts.
+le tenez en main, vous bénéficiez d'un bonus de +2
+à la Classe d'Armure, aux jets de sauvegarde et aux
+jets d'attaque des sorts.
 Le bâton contient 20 charges en ce qui
-concerne l’utilisation des propriétés suivantes.
-Il récupère 2d8+4 charges dépensées à l’aube.
+concerne l'utilisation des propriétés suivantes.
+Il récupère 2d8+4 charges dépensées à l'aube.
 Si vous dépensez la dernière charge, lancez un
 d20. Le bâton conserve son bonus de +2 aux jets
-d’attaque et de dégâts mais perd toutes ses autres
+d'attaque et de dégâts mais perd toutes ses autres
 propriétés sur un résultat de 1. Le bâton récupère
 1d8+2 charges sur un résultat de 20.
 Frappe surpuissante. Quand vous réussissez une
@@ -1108,10 +1108,10 @@ Sorts. Tant que vous tenez ce bâton en main, vous
 pouvez utiliser une action pour dépenser 1 ou
 plusieurs charges et lancer un des sorts suivants,
 en appliquant le DD des jets de sauvegarde contre
-vos sorts et votre bonus d’attaque de sort : boule
+vos sorts et votre bonus d'attaque de sort : boule
 de feu (version de niveau 5, 5 charges), cône de froid
 (5 charges), éclair (version de niveau 5, 5 charges),
-globe d’invulnérabilité (6 charges), immobilisation
+globe d'invulnérabilité (6 charges), immobilisation
 de monstre (5 charges), lévitation (2 charges), mur
 de force (5 charges), projectile magique (1 charge) ou
 rayon affaiblissant (1 charge).
@@ -1122,20 +1122,20 @@ vengeur. Le bâton est détruit et libère le reste de
 sa magie en une explosion en forme de sphère de
 9 mètres de rayon centrée sur lui.
 Il y a 50 % de chances pour que vous soyez
-instantanément transporté vers un plan d’existence
+instantanément transporté vers un plan d'existence
 déterminé au hasard, ce qui vous permet
-d’éviter l’explosion. Si vous ne parvenez pas à
-l’éviter, vous subissez des dégâts de force égaux
+d'éviter l'explosion. Si vous ne parvenez pas à
+l'éviter, vous subissez des dégâts de force égaux
 à 16 × le nombre de charges restantes du bâton.
 Toutes les autres créatures présentes dans la zone
 doivent chacune effectuer un jet de sauvegarde de
 Dextérité DD 17. En cas de jet de sauvegarde raté,
 une créature subit un montant de dégâts basés
-sur la distance qui la sépare du point d’origine de
-l’explosion, comme indiqué dans la table suivante.
+sur la distance qui la sépare du point d'origine de
+l'explosion, comme indiqué dans la table suivante.
 En cas de jet de sauvegarde réussi, elle subit la
 moitié des dégâts seulement.
-Distance du point d’origine Dégâts
+Distance du point d'origine Dégâts
 < ou = à 3 m 8 × nombre de charges
 restantes du bâton
 > à 3 m et < ou = à 6 m 6 × nombre de charges
@@ -1145,25 +1145,25 @@ restantes du bâton
 BÂTON DE TONNERRE ET DE FOUDRE
 Bâton, très rare (harmonisation requise)
 Ce bâton peut être manié comme une arme
-magique qui confère un bonus de +2 à l’attaque
+magique qui confère un bonus de +2 à l'attaque
 et aux jets de dégâts effectués par son biais. Il
 possède également les propriétés supplémentaires
 suivantes. Quand une de ces propriétés est
-utilisée, il faut attendre l’aube suivante avant de
-pouvoir l’utiliser à nouveau.
+utilisée, il faut attendre l'aube suivante avant de
+pouvoir l'utiliser à nouveau.
 Foudre. Quand vous réussissez une attaque au
 corps à corps avec le bâton, vous pouvez faire en
 sorte que la cible subisse 2d6 dégâts de foudre
 supplémentaires.
 Tonnerre. Quand vous réussissez une attaque au
 corps à corps avec le bâton, vous pouvez faire en
-sorte qu’il émette un claquement de tonnerre
+sorte qu'il émette un claquement de tonnerre
 audible à 90 mètres à la ronde. La cible frappée
 doit réussir un jet de sauvegarde de Constitution
-DD 17 pour ne pas être étourdie jusqu’à la fin de
+DD 17 pour ne pas être étourdie jusqu'à la fin de
 votre prochain tour.
 Frappe foudroyante. Vous pouvez utiliser une
-action pour qu’un éclair surgisse de l’extrémité
+action pour qu'un éclair surgisse de l'extrémité
 du bâton sur une ligne de 1,50 mètre de large et
 36 mètres de long. Les créatures sur cette ligne
 doivent chacune effectuer un jet de sauvegarde
@@ -1179,26 +1179,26 @@ de sauvegarde de Constitution DD 17. En cas de jet
 de sauvegarde raté, une créature subit 2d6 dégâts
 de tonnerre et devient assourdie pendant 1 minute.
 En cas de jet de sauvegarde réussi, une créature
-subit la moitié des dégâts seulement et n’est pas
+subit la moitié des dégâts seulement et n'est pas
 assourdie.
 Tonnerre et foudre. Vous pouvez utiliser une
 action pour vous servir en même temps des propriétés
 Frappe foudroyante et Coup de tonnerre.
-L’activation de cette propriété dépense son utilisation
+L'activation de cette propriété dépense son utilisation
 quotidienne. Elle ne dépense toutefois pas
-l’utilisation quotidienne des propriétés Frappe
+l'utilisation quotidienne des propriétés Frappe
 foudroyante et Coup de tonnerre.
 BÂTON DES FORÊTS
 Bâton, rare (harmonisation avec un druide
 exigée)
 Ce bâton peut être manié comme une arme
-magique qui confère un bonus de +2 à l’attaque
+magique qui confère un bonus de +2 à l'attaque
 et aux jets de dégâts effectués par son biais. Tant
-que vous le tenez en main, vous bénéficiez d’un
-bonus de +2 aux jets d’attaque des sorts.
+que vous le tenez en main, vous bénéficiez d'un
+bonus de +2 aux jets d'attaque des sorts.
 Le bâton contient 10 charges en ce qui
 concerne les propriétés suivantes. Il récupère
-1d6+4 charges dépensées chaque jour, à l’aube.
+1d6+4 charges dépensées chaque jour, à l'aube.
 Si vous dépensez la dernière charge, lancez un
 d20. Sur un résultat de 1, la magie du bâton disparaît,
 il perd toutes ses propriétés et devient un
@@ -1211,49 +1211,49 @@ sorts : amitié avec les animaux (1 charge), communication
 avec les animaux (1 charge), communication
 avec les plantes (3 charges), éveil (5 charges),
 localiser des animaux ou des plantes (2 charges),
-mur d’épines (6 charges) ou peau d’écorce (2
+mur d'épines (6 charges) ou peau d'écorce (2
 charges).
 Vous pouvez également utiliser une action
 pour lancer le sort passage sans trace par le biais
 du bâton et ce, sans dépenser aucune charge.
-Forme d’arbre. Vous pouvez utiliser une action
+Forme d'arbre. Vous pouvez utiliser une action
 pour planter une extrémité du bâton dans
 la terre fertile et dépenser une charge afin de
 transformer le bâton en un arbre vigoureux. Cet
-arbre doté d’un tronc de 1,50 mètre de diamètre
+arbre doté d'un tronc de 1,50 mètre de diamètre
 fait 18 mètres de haut. Les branches au sommet
-de la canopée s’étendent depuis le haut du tronc
-sur un rayon de 6 mètres. L’arbre semble ordinaire
+de la canopée s'étendent depuis le haut du tronc
+sur un rayon de 6 mètres. L'arbre semble ordinaire
 ; il émane néanmoins de lui une faible aura
-de transmutation magique si on le cible d’une
-détection de la magie. Si vous touchez l’arbre et
+de transmutation magique si on le cible d'une
+détection de la magie. Si vous touchez l'arbre et
 utilisez une autre action pour prononcer le mot
 de commande du bâton, vous le forcez à retrouver
-sa forme normale. Les créatures dans l’arbre
+sa forme normale. Les créatures dans l'arbre
 chutent lorsque celui-ci redevient un bâton.
 BÂTON DU GRAND ESSAIM
 Bâton, rare (harmonisation requise)
 Ce bâton contient 10 charges. Il récupère
-1d6+4 charges dépensées chaque jour, à l’aube. Si
+1d6+4 charges dépensées chaque jour, à l'aube. Si
 vous dépensez la dernière charge, lancez un d20.
-Sur un résultat de 1, un nuée d’insectes dévore et
+Sur un résultat de 1, un nuée d'insectes dévore et
 détruit le bâton, puis se disperse.
 Sorts. Tant que vous tenez le bâton en main,
 vous pouvez utiliser une action pour dépenser
 plusieurs de ses charges et lancer un des sorts
 suivants par son biais, en appliquant le DD des jets
-de sauvegarde contre vos sorts : fléau d’insectes
+de sauvegarde contre vos sorts : fléau d'insectes
 (5 charges) ou insecte géant (4 charges).
-Nuée d’insectes. Tant que vous tenez le bâton
+Nuée d'insectes. Tant que vous tenez le bâton
 en main, vous pouvez utiliser une action pour
-dépenser 1 charge et provoquer l’apparition d’une
-nuée d’insectes volants inoffensifs qui s’étend dans
+dépenser 1 charge et provoquer l'apparition d'une
+nuée d'insectes volants inoffensifs qui s'étend dans
 un rayon de 3 mètres autour de vous. Les insectes
 restent ainsi pendant 10 minutes. La visibilité dans
-la zone qu’ils occupent est nulle pour toutes les
+la zone qu'ils occupent est nulle pour toutes les
 créatures sauf vous. La nuée vous suit et reste centrée
 sur vous. Un vent de 30 kilomètres par heure
-au moins disperse la nuée et met fin à l’effet qu’elle
+au moins disperse la nuée et met fin à l'effet qu'elle
 produit.
 BÂTON DU PYTHON
 Bâton, peu courant (harmonisation avec un
@@ -1263,15 +1263,15 @@ le mot de commande de ce bâton
 et le lancer par terre, à 3 mètres ou moins
 de vous. Le bâton se transforme alors en
 serpent constricteur géant. Il agit lors de
-son propre décompte d’initiative mais reste
+son propre décompte d'initiative mais reste
 sous votre contrôle. En utilisant une action
 bonus pour prononcer une nouvelle fois
 le mot de commande, le bâton reprend
 sa forme normale dans le dernier espace
-occupé lorsqu’il était serpent.
+occupé lorsqu'il était serpent.
 Lors de votre tour, vous pouvez mentalement
 diriger le serpent si celui-ci se situe à
-18 mètres ou moins de vous et si vous n’êtes pas
+18 mètres ou moins de vous et si vous n'êtes pas
 neutralisé. Vous choississez l'action qu'entreprend
 le serpent et l'endroit vers lequel il se déplace lors
 de son prochain tour. Vous pouvez également
@@ -1288,20 +1288,20 @@ Bâton, légendaire (harmonisation avec un
 ensorceleur, un magicien ou un sorcier
 exigée)
 Ce bâton peut être manié comme une arme
-magique qui confère un bonus de +3 à l’attaque
+magique qui confère un bonus de +3 à l'attaque
 et aux jets de dégâts effectués par son
 biais. Tant que vous le tenez en main, vous
-bénéficiez d’un bonus de +2 aux jets d’attaque
+bénéficiez d'un bonus de +2 aux jets d'attaque
 des sorts.
 Le bâton contient 50 charges en ce
 qui concerne les propriétés suivantes. Il
 récupère 4d6+2 charges dépensées chaque
-jour, à l’aube. Si vous dépensez la dernière
+jour, à l'aube. Si vous dépensez la dernière
 charge, lancez un d20. Sur un résultat de
 20, le bâton récupère 1d12+1 charges.
 Absorption des sorts. Tant que vous tenez
 le bâton en main, vous vous obtenez
-l’avantage lors des jets de sauvegarde
+l'avantage lors des jets de sauvegarde
 contre les sorts. De plus, vous pouvez
 utiliser votre réaction quand une autre
 créature lance un sort qui vous prend vous, et uniquement
@@ -1318,7 +1318,7 @@ certaines des charges du bâton
 et lancer un des sorts suivants,
 en appliquant le DD des jets de
 sauvegarde contre vos sorts et
-votre caractéristique d’incantation
+votre caractéristique d'incantation
 : boule de feu (version de
 niveau 7, 7 charges), changement
 de plan (7 charges), déblocage
@@ -1330,7 +1330,7 @@ un élémentaire (7 charges), mur de
 feu (4 charges), passe-muraille (5
 charges), sphère de feu (2 charges),
 télékinésie (5 charges), tempête de
-grêle (4 charges) ou toile d’araignée (2
+grêle (4 charges) ou toile d'araignée (2
 charges).
 Vous pouvez également utiliser
 une action pour lancer un des sorts
@@ -1348,20 +1348,20 @@ explosion en forme de sphère de 9 mètres de
 rayon centrée sur lui.
 Il y a 50 % de chances pour que vous soyez
 instantanément transporté vers un plan
-d’existence déterminé au hasard, ce qui vous
-permet d’éviter l’explosion. Si vous ne parvenez
-pas à l’éviter, vous subissez des dégâts
+d'existence déterminé au hasard, ce qui vous
+permet d'éviter l'explosion. Si vous ne parvenez
+pas à l'éviter, vous subissez des dégâts
 de force égaux à 16 × le nombre de charges
 restantes du bâton. Toutes les autres créatures
 présentes dans la zone doivent chacune effectuer
 un jet de sauvegarde de Dextérité DD 17. En
 cas de jet de sauvegarde raté, une créature subit
 un montant de dégâts basés sur la distance qui la
-sépare du point d’origine de l’explosion, comme
+sépare du point d'origine de l'explosion, comme
 indiqué dans la table suivante. En cas de jet de
 sauvegarde réussi, elle subit la moitié des dégâts
 seulement.
-Distance du point d’origine Dégâts
+Distance du point d'origine Dégâts
 < ou = à 3 m 8 × nombre de charges
 restantes du bâton
 > à 3 et < ou = à 6 m 6 × nombre de charges
@@ -1371,21 +1371,21 @@ restantes du bâton
 BAUME REVIGORANT
 Objet merveilleux, peu courant
 Ce pot en verre de 7 à 8 centimètres de diamètre
-contient 1d4+1 doses d’une mixture épaisse qui
-sent légèrement l’aloès. Le pot et son contenu
+contient 1d4+1 doses d'une mixture épaisse qui
+sent légèrement l'aloès. Le pot et son contenu
 pèsent un total de 250 grammes.
-Par une action, il est possible d’avaler ou d’appliquer
+Par une action, il est possible d'avaler ou d'appliquer
 sur la peau une dose de baume. La créature
 qui en bénéficie récupère 2d8+2 points de vie,
-elle n’est plus empoisonnée et toutes les maladies
+elle n'est plus empoisonnée et toutes les maladies
 dont elle est victime sont soignées.
-BOL DE CONTRÔLE DES ÉLÉMENTAIRES DE L’EAU
+BOL DE CONTRÔLE DES ÉLÉMENTAIRES DE L'EAU
 Objet merveilleux, rare
-Tant que ce bol est rempli d’eau, vous pouvez
+Tant que ce bol est rempli d'eau, vous pouvez
 utiliser une action pour prononcer son mot de
-commande et invoquer un élémentaire de l’eau,
-comme si vous aviez lancé le sort invocation d’élémentaires.
-Ensuite, il faut attendre l’aube suivante
+commande et invoquer un élémentaire de l'eau,
+comme si vous aviez lancé le sort invocation d'élémentaires.
+Ensuite, il faut attendre l'aube suivante
 avant de pouvoir réutiliser ainsi le bol.
 Le bol fait une trentaine de centimètres de diamètre
 pour quinze centimètres de profondeur.
@@ -1394,14 +1394,14 @@ BOTTES AILÉES
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ces bottes aux pieds, vous
-disposez d’une vitesse de déplacement en vol
+disposez d'une vitesse de déplacement en vol
 égale à votre vitesse au sol. Vous pouvez utiliser
 les bottes pour voler pendant un maximum de
-4 heures d’affilée ou lors de vols plus courts. Toutefois,
+4 heures d'affilée ou lors de vols plus courts. Toutefois,
 chaque utilisation dépense au minimum
 1 minute de cette durée. Si vous volez au moment
 où cette durée prend fin, vous descendez à une
-vitesse de 9 mètres par round jusqu’à toucher le
+vitesse de 9 mètres par round jusqu'à toucher le
 sol.
 Les bottes récupèrent 2 heures de capacité de
 vol pour chaque période de 12 heures passées
@@ -1415,7 +1415,7 @@ BOTTES DE MARCHE ET DE SAUT
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ces bottes, votre vitesse au
-sol passe à 9 mètres (à moins qu’elle ne soit déjà
+sol passe à 9 mètres (à moins qu'elle ne soit déjà
 supérieure) et elle ne se réduit pas si vous êtes
 encombré ou portez une armure lourde. De plus,
 vous pouvez sauter trois fois plus loin que la normale,
@@ -1427,13 +1427,13 @@ Objet merveilleux, rare (harmonisation requise)
 Tant que vous portez ces bottes, vous pouvez
 utiliser une action bonus pour claquer des talons.
 Dans ce cas, les bottes doublent votre vitesse au
-sol et toute créature effectuant une attaque d’opportunité
+sol et toute créature effectuant une attaque d'opportunité
 contre vous subit un désavantage lors
-du jet d’attaque. Vous mettez un terme à l’effet si
+du jet d'attaque. Vous mettez un terme à l'effet si
 vous claquez de nouveau des talons.
 Une fois que la capacité spéciale des bottes
 a servi pendant un total de 10 minutes, cette
-magie est indisponible jusqu’à ce que vous ayez
+magie est indisponible jusqu'à ce que vous ayez
 terminé un long repos.
 BOTTES DES TERRES GELÉES
 Objet merveilleux, peu courant (harmonisation
@@ -1445,74 +1445,74 @@ des avantages suivants.
 * Vous ignorez les terrains rendus difficiles à
 cause de la glace ou de la neige.
 * Vous supportez des températures descendant
-jusqu’à -45°C sans protection supplémentaire.
+jusqu'à -45°C sans protection supplémentaire.
 Si vous portez des vêtements
 chauds, vous supportez des températures
-allant jusqu’à -75°C.
+allant jusqu'à -75°C.
 BOTTES ELFIQUES
 Objet merveilleux, peu courant
-Tant que vous portez ces bottes, vos pas ne s’accompagnent
-d’aucun bruit, quelle que soit la surface
+Tant que vous portez ces bottes, vos pas ne s'accompagnent
+d'aucun bruit, quelle que soit la surface
 que vous traversez. Vous obtenez également
-l’avantage lors des tests de Dextérité (Discrétion)
+l'avantage lors des tests de Dextérité (Discrétion)
 basés sur le silence de vos déplacements.
 BOUCLIER ANIMÉ
 Armure (bouclier), très rare (harmonisation
 requise)
 Tant que vous maniez ce bouclier, vous pouvez
 prononcer son mot de commande par une action
-bonus. Il s’anime alors, bondit dans les airs et
+bonus. Il s'anime alors, bondit dans les airs et
 flotte dans votre emplacement pour vous protéger
 comme si vous le teniez alors que vous gardez
 les mains libres. Il reste animé pendant 1 minute,
-jusqu’à ce que vous utilisiez une action bonus pour
-mettre un terme à l’effet ou jusqu’à ce que vous
+jusqu'à ce que vous utilisiez une action bonus pour
+mettre un terme à l'effet ou jusqu'à ce que vous
 soyez neutralisé ou mort. Il tombe alors à terre ou
 revient dans votre main si vous avez une main libre.
 BOUCLIER ANTIPROJECTILES
 Armure (bouclier), rare (harmonisation requise)
 Tant que vous maniez ce bouclier, vous bénéficiez
-d’un bonus de +2 à la CA contre les attaques à distance.
-Ce bonus s’ajoute au bonus que le bouclier
-apporte déjà d’ordinaire à la CA. De plus, quand un
+d'un bonus de +2 à la CA contre les attaques à distance.
+Ce bonus s'ajoute au bonus que le bouclier
+apporte déjà d'ordinaire à la CA. De plus, quand un
 assaillant effectue une attaque à distance contre
 une cible située à 1,50 mètre de vous ou moins,
 vous pouvez utiliser votre réaction pour devenir la
 cible de cette attaque à sa place.
-BOUCLIER D’ATTRACTION DES PROJECTILES
+BOUCLIER D'ATTRACTION DES PROJECTILES
 Armure (bouclier), rare (harmonisation requise)
 Tant que vous tenez ce bouclier, vous bénéficiez
-d’une résistance contre les dégâts infligés par les
-attaques d’armes à distance.
-Malédiction. Ce bouclier est maudit. L’harmonisation
-avec ce bouclier vous maudit jusqu’à ce que vous
-soyez la cible du sort lever une malédiction ou d’une
+d'une résistance contre les dégâts infligés par les
+attaques d'armes à distance.
+Malédiction. Ce bouclier est maudit. L'harmonisation
+avec ce bouclier vous maudit jusqu'à ce que vous
+soyez la cible du sort lever une malédiction ou d'une
 magie similaire. Se débarrasser du bouclier ne met
 pas fin à la malédiction qui pèse sur vous. Chaque
-fois qu’une attaque d’arme à distance est effectuée
+fois qu'une attaque d'arme à distance est effectuée
 contre une cible située à 3 mètres ou moins de vous,
 la malédiction intervient pour que vous soyez la cible
-de l’attaque à la place de la cible initiale.
+de l'attaque à la place de la cible initiale.
 BOUCLIER DE PROTECTION CONTRE LA MAGIE
 Armure (bouclier), très rare (harmonisation
 requise)
 Tant que vous tenez ce bouclier, vous vous obtenez
-l’avantage lors des jets de sauvegarde contre les
+l'avantage lors des jets de sauvegarde contre les
 sorts et autres effets magiques. De plus, les attaques
-de sort subissent un désavantage lorsqu’elles vous
+de sort subissent un désavantage lorsqu'elles vous
 prennent pour cible.
 BOUCLIER +1, +2 OU +3
 Armure (bouclier), peu courant (+1), rare (+2) ou
 très rare (+3)
 Tant que vous tenez ce bouclier, vous bénéficiez
-d’un bonus à la CA qui dépend de la rareté du
+d'un bonus à la CA qui dépend de la rareté du
 bouclier. Ce bonus vient en plus du bonus normal
 à la CA que le bouclier confère.
 BOULE DE CRISTAL
 Objet merveilleux, très rare ou légendaire (harmonisation
 requise)
 La boule de cristal la plus courante est un objet très
-rare d’une quinzaine de centimètres de diamètre.
+rare d'une quinzaine de centimètres de diamètre.
 Vous pouvez lancer le sort scrutation (DD 17) par son
 intermédiaire.
 Voici des variantes de ce grand classique qui
@@ -1523,8 +1523,8 @@ pouvez dépenser une action pour lancer le sort
 détection des pensées (DD 17) tandis que vous êtes
 en pleine scrutation avec la boule de cristal. Vous
 devez prendre pour cible une créature située dans
-un rayon de 9 mètres autour de l’organe sensoriel
-et visible à travers lui. Vous n’avez pas besoin de
+un rayon de 9 mètres autour de l'organe sensoriel
+et visible à travers lui. Vous n'avez pas besoin de
 vous concentrer sur cette détection des pensées
 pour la maintenir pendant toute sa durée, mais
 elle se termine en même temps que la scrutation.
@@ -1532,53 +1532,53 @@ Boule de cristal de télépathie. Pendant que vous
 scrutez quelque chose avec la boule de cristal, vous
 pouvez communiquer par télépathie avec les
 créatures situées dans un rayon de 9 mètres autour
-de l’organe sensoriel et visibles à travers lui.
+de l'organe sensoriel et visibles à travers lui.
 Vous pouvez aussi utiliser une action pour lancer
-le sort suggestion (DD 17) sur l’une de ces créatures
-par l’intermédiaire de l’organe sensoriel. Vous
-n’avez pas besoin de vous concentrer sur cette
+le sort suggestion (DD 17) sur l'une de ces créatures
+par l'intermédiaire de l'organe sensoriel. Vous
+n'avez pas besoin de vous concentrer sur cette
 suggestion pour la maintenir pendant toute sa
 durée, mais elle se termine en même temps que la
 scrutation. Une fois le pouvoir de suggestion de la
-boule utilisé, vous devez attendre l’aube suivante
+boule utilisé, vous devez attendre l'aube suivante
 avant de pouvoir vous en servir à nouveau.
 Boule de cristal de vision suprême. Pendant
 que vous utilisez la boule de cristal pour scruter
 quelque chose, vous bénéficiez de la vision
 suprême dans un rayon de 36 mètres autour de
-l’organe sensoriel.
-BOUTEILLE DE L’ÉFRIT
+l'organe sensoriel.
+BOUTEILLE DE L'ÉFRIT
 Objet merveilleux, très rare
 Cette bouteille en laiton est ornée de peintures
 et pèse 0,5 kilo. Si vous utilisez une action pour
-la déboucher, un épais nuage de fumée s’en
+la déboucher, un épais nuage de fumée s'en
 échappe. La fumée se dissipe à la fin de votre tour
 dans un éclair de feu inoffensif et un éfrit apparaît
 dans un emplacement inoccupé dans un rayon de
 9 mètres autour de vous.
 Le MJ lance un dé dans la table suivante quand
-quelqu’un ouvre la bouteille pour la première fois
-afin de déterminer ce qu’il se produit.
+quelqu'un ouvre la bouteille pour la première fois
+afin de déterminer ce qu'il se produit.
 D100 Effet
-01-10 L’éfrit vous attaque. Il disparaît après 5 rounds
+01-10 L'éfrit vous attaque. Il disparaît après 5 rounds
 de combat et la bouteille perd sa magie.
 11-90
-L’éfrit vous sert pendant 1 heure et obéit à
+L'éfrit vous sert pendant 1 heure et obéit à
 vos ordres puis il retourne dans la bouteille
-qu’un nouveau bouchon vient sceller. Il
+qu'un nouveau bouchon vient sceller. Il
 est impossible de la déboucher pendant 24
 heures. Il se produit la même chose lorsque
-l’on ouvre la bouteille les deux fois suivantes.
-À la quatrième ouverture, l’éfrit s’échappe et
+l'on ouvre la bouteille les deux fois suivantes.
+À la quatrième ouverture, l'éfrit s'échappe et
 disparaît et la bouteille perd toute magie.
 91-100
-L’éfrit peut lancer le sort de souhait à trois
+L'éfrit peut lancer le sort de souhait à trois
 reprises pour vous. Il disparaît quand il a
-accordé le dernier souhait ou au bout d’une
+accordé le dernier souhait ou au bout d'une
 heure et la bouteille perd sa magie.
 BOUTEILLE FUMIGÈNE
 Objet merveilleux, peu courant
-De la fumée s’échappe du goulot de cette bouteille
+De la fumée s'échappe du goulot de cette bouteille
 pourtant scellée au plomb et pesant 0,5 kilo.
 Quand vous utilisez une action pour la déboucher,
 un épais nuage de fumée se déverse dans
@@ -1586,20 +1586,20 @@ un rayon de 18 mètres autour de la bouteille. La
 visibilité est nulle dans le nuage. À chaque fois
 que la bouteille passe une minute ouverte au sein
 du nuage, le rayon de ce dernier augmente de
-3 mètres, jusqu’à ce qu’il atteigne son rayon maximum,
+3 mètres, jusqu'à ce qu'il atteigne son rayon maximum,
 à savoir 36 mètres.
 Le nuage persiste tant que la bouteille est
 ouverte. Pour la fermer, vous devez prononcer
 son mot de commande par une action. Une fois
 la bouteille fermée, le nuage se dissipe en 10 minutes.
 Un vent modéré (16 à 30 km/h) disperse la
-fumée en 1 minute tandis qu’un vent fort (31 km/h
+fumée en 1 minute tandis qu'un vent fort (31 km/h
 ou plus) la dissipe en 1 round.
-BRACELETS D’ARCHERIE
+BRACELETS D'ARCHERIE
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ces bracelets, vous maîtrisez
-l’arc long et l’arc court et gagnez un bonus de +2
+l'arc long et l'arc court et gagnez un bonus de +2
 aux jets de dégâts des attaques à distance avec
 ces armes.
 BRACELETS DE DÉFENSE
@@ -1609,12 +1609,12 @@ un bonus de +2 à la CA, à condition que vous ne
 portiez ni armure, ni bouclier.
 BRASERO DE CONTRÔLE DES ÉLÉMENTAIRES DU FEU
 Objet merveilleux, rare
-Tant qu’un feu brûle dans ce brasero en laiton,
+Tant qu'un feu brûle dans ce brasero en laiton,
 vous pouvez utiliser une action pour prononcer
 son mot de commande et invoquer un élémentaire
 du feu, comme si vous aviez lancé le sort
-invocation d’élémentaires. Ensuite, il faut attendre
-l’aube suivante avant de pouvoir réutiliser ainsi le
+invocation d'élémentaires. Ensuite, il faut attendre
+l'aube suivante avant de pouvoir réutiliser ainsi le
 brasero.
 Le brasero pèse 2,5 kilos.
 BROCHE DE PROTECTION
@@ -1626,22 +1626,22 @@ contre les dégâts du sort de projectile magique.
 CAPE DE DÉPLACEMENT
 Objet merveilleux, rare (harmonisation requise)
 Quand vous enfilez cette cape, elle projette une
-illusion donnant l’impression que vous vous tenez
+illusion donnant l'impression que vous vous tenez
 non loin de votre position réelle. Les créatures qui
 vous attaquent subissent donc un désavantage lors
-de leur jet d’attaque contre vous. Si vous subissez
+de leur jet d'attaque contre vous. Si vous subissez
 des dégâts, cette propriété cesse de fonctionner
-jusqu’au début de votre prochain tour. Elle ne
+jusqu'au début de votre prochain tour. Elle ne
 fonctionne pas non plus si vous êtes neutralisé,
 entravé ou incapable de bouger.
-CAPE DE L’ARACHNIDE
+CAPE DE L'ARACHNIDE
 Objet merveilleux, très rare (harmonisation
 requise)
 Ce bel habit est fait de soie noire mêlée de discrets
-filaments d’argent. Tant que vous le portez, vous
+filaments d'argent. Tant que vous le portez, vous
 bénéficiez des avantages suivants.
 * Vous êtes résistant aux dégâts de poison.
-* Votre vitesse d’escalade est égale à votre
+* Votre vitesse d'escalade est égale à votre
 vitesse au sol.
 * Vous pouvez vous déplacer de haut en bas
 sur une surface verticale et la tête en bas au
@@ -1649,44 +1649,44 @@ plafond tout en gardant les mains libres.
 * Vous ne pouvez pas rester coincé dans une
 toile, quel que soit son type, et vous pouvez
 vous déplacer à travers ses filaments comme
-si c’était simplement un terrain difficile.
+si c'était simplement un terrain difficile.
 * Vous pouvez utiliser une action pour lancer le
-sort de toile d’araignée (DD 13). La toile créée
-occupe le double de l’espace habituel. Une
+sort de toile d'araignée (DD 13). La toile créée
+occupe le double de l'espace habituel. Une
 fois que vous avez utilisé la cape ainsi, vous
-ne pouvez pas recommencer avant l’aube
+ne pouvez pas recommencer avant l'aube
 suivante.
 CAPE DE LA CHAUVE-SOURIS
 Objet merveilleux, rare (harmonisation requise)
 Tant que vous portez cette cape, vous obtenez
-l’avantage lors des tests de Dextérité (Discrétion).
+l'avantage lors des tests de Dextérité (Discrétion).
 Dans les zones de faible lumière ou de ténèbres,
 vous pouvez attraper les bords de la cape à pleine
 main et vous en servir pour voler à une vitesse
 de 12 mètres. Si vous ne tenez plus les bords de la
-cape alors que vous volez ainsi ou si vous n’êtes
+cape alors que vous volez ainsi ou si vous n'êtes
 plus dans une zone de faible lumière ou de ténèbres,
 vous perdez cette vitesse de vol.
 Tant que vous portez la cape dans une zone de
 faible lumière ou de ténèbres, vous pouvez dépenser
 votre action pour lancer métamorphose sur votre
 personne et vous changer en chauve-souris. Vous
-conservez vos valeurs d’Intelligence, de Sagesse et
+conservez vos valeurs d'Intelligence, de Sagesse et
 de Charisme. Vous ne pouvez plus utiliser la cape
-pour vous transformer avant l’aube suivante.
+pour vous transformer avant l'aube suivante.
 CAPE DE LA RAIE MANTA
 Objet merveilleux, peu courant
 Tant que vous portez cette cape avec le capuchon
-tiré, vous pouvez respirer sous l’eau et vous bénéficiez
-d’une vitesse de nage de 18 mètres. Il faut
+tiré, vous pouvez respirer sous l'eau et vous bénéficiez
+d'une vitesse de nage de 18 mètres. Il faut
 dépenser une action pour coiffer le capuchon ou
 le repousser.
 CAPE DE PRESTIDIGITATEUR
 Objet merveilleux, rare
 Cette cape sent légèrement le soufre. Tant que
-vous la portez, vous pouvez l’utiliser pour lancer
+vous la portez, vous pouvez l'utiliser pour lancer
 le sort porte dimensionnelle par une action. Vous
-devez attendre l’aube suivante pour réutiliser ce
+devez attendre l'aube suivante pour réutiliser ce
 pouvoir.
 Quand vous disparaissez, vous laissez un nuage
 de fumée derrière vous et apparaissez dans un
@@ -1694,7 +1694,7 @@ nuage similaire à la destination choisie. La visibilité
 est réduite dans le nuage que vous quittez
 et dans celui dans lequel vous arrivez. La fumée
 se dissipe à la fin de votre prochain tour, à moins
-qu’un vent fort ou léger ne la disperse avant.
+qu'un vent fort ou léger ne la disperse avant.
 CAPE DE PROTECTION
 Objet merveilleux, peu courant (harmonisation
 requise)
@@ -1706,25 +1706,25 @@ requise)
 Tant que vous portez cette cape avec le capuchon
 tiré, les créatures qui tentent un test de Sagesse
 (Perception) pour vous voir subissent un désavantage,
-tandis que vous obtenez l’avantage sur les
+tandis que vous obtenez l'avantage sur les
 tests de Dextérité (Discrétion) effectués pour vous
 cacher, car les teintes de la cape se modifient pour
 vous camoufler au mieux. Il faut une action pour
 tirer ou rabattre la capuche.
 CARAFE INTARISSABLE
 Objet merveilleux, peu courant
-Cette carafe coiffée d’un couvercle fait un bruit de
+Cette carafe coiffée d'un couvercle fait un bruit de
 liquide quand on la secoue, comme si elle contenait
-de l’eau. Elle pèse 1 kilo.
+de l'eau. Elle pèse 1 kilo.
 Vous pouvez dépenser une action pour enlever
-le couvercle et prononcer l’un des trois mots de
-commande. De l’eau douce ou salée (à vous de
+le couvercle et prononcer l'un des trois mots de
+commande. De l'eau douce ou salée (à vous de
 choisir) se déverse alors. Elle cesse de couler au
-début de votre prochain tour. Choisissez l’une des
+début de votre prochain tour. Choisissez l'une des
 options suivantes.
-* « Ruisseau » produit 3,5 litres d’eau.
-* « Fontaine » produit 17,5 litres d’eau.
-* « Geyser » produit 105 litres d’eau qui jaillissent
+* « Ruisseau » produit 3,5 litres d'eau.
+* « Fontaine » produit 17,5 litres d'eau.
+* « Geyser » produit 105 litres d'eau qui jaillissent
 en un geyser de 9 mètres de long pour 30
 centimètres de large. Vous pouvez utiliser une
 action bonus tout en tenant la carafe pour
@@ -1733,22 +1733,22 @@ dans un rayon de 9 mètres autour de vous.
 Elle doit réussir un jet de sauvegarde de Force
 DD 13 ou subir 1d4 dégâts contondants et
 tomber à terre. Vous pouvez viser un objet au
-lieu d’une créature, à condition que personne
-ne l’ait équipé ou ne le transporte et qu’il pèse
-au maximum 100 kilos. L’objet est renversé ou
+lieu d'une créature, à condition que personne
+ne l'ait équipé ou ne le transporte et qu'il pèse
+au maximum 100 kilos. L'objet est renversé ou
 repoussé à 4,50 mètres de vous.
-CARILLON D’OUVERTURE
+CARILLON D'OUVERTURE
 Objet merveilleux, rare
 Ce tube métallique creux mesure une trentaine
 de centimètres de long pour 0,5 kilo. Vous pouvez
 utiliser une action pour le faire tinter et le pointer
-sur un objet que l’on peut ouvrir et qui se situe
+sur un objet que l'on peut ouvrir et qui se situe
 dans un rayon de 36 mètres, comme une porte,
 un couvercle ou un verrou. Le carillon émet un
-son clair et l’une des serrures ou l’un des verrous
-qui fermait l’objet s’ouvre soudain, à moins que le
-son ne puisse pas atteindre l’objet. S’il n’y a plus ni
-verrou ni serrure, l’objet s’ouvre.
+son clair et l'une des serrures ou l'un des verrous
+qui fermait l'objet s'ouvre soudain, à moins que le
+son ne puisse pas atteindre l'objet. S'il n'y a plus ni
+verrou ni serrure, l'objet s'ouvre.
 Le carillon dispose de dix utilisations. Il se fissure
 après la dixième et ne sert plus à rien.
 CARQUOIS EFFICACE
@@ -1757,16 +1757,16 @@ Ce carquois dispose de trois compartiments, chacun
 étant relié à un espace extradimensionnel qui
 lui permet de contenir de nombreux objets sans
 jamais peser plus de 1 kilo. Le compartiment le
-plus court peut accueillir jusqu’à soixante flèches,
+plus court peut accueillir jusqu'à soixante flèches,
 carreaux ou objets similaires. Le compartiment de
-taille intermédiaire peut recevoir jusqu’à dix-huit
+taille intermédiaire peut recevoir jusqu'à dix-huit
 javelines ou objets similaires et le plus long peut
 contenir six objets tout en longueur, comme des
 arcs, des bâtons ou des lances.
 Vous pouvez tirer ces objets du carquois
 comme vous le feriez avec un carquois ou un
 fourreau ordinaire.
-CARTES D’ILLUSION
+CARTES D'ILLUSION
 Objet merveilleux, peu courant
 Cette boîte contient un jeu de cartes faites de
 parchemin. Le jeu complet compte 34 cartes mais,
@@ -1774,31 +1774,31 @@ quand on trouve un jeu, il lui manque souvent
 1d20 - 1 cartes.
 La magie du jeu fonctionne uniquement si on tire
 les cartes au hasard (vous pouvez utiliser un jeu de
-cartes ordinaire modifié pour simuler les cartes d’illusion).
+cartes ordinaire modifié pour simuler les cartes d'illusion).
 Vous pouvez dépenser une action pour tirer
 une carte au hasard dans le jeu et la lancer au sol, à
 une distance maximum de 9 mètres.
-L’illusion d’une ou plusieurs créatures se forme
-au-dessus de la carte lancée et persiste jusqu’à
+L'illusion d'une ou plusieurs créatures se forme
+au-dessus de la carte lancée et persiste jusqu'à
 dissipation. Une créature illusoire semble réelle. Elle
 est de la taille appropriée et se comporte comme un
-véritable membre de son espèce, si ce n’est qu’elle
+véritable membre de son espèce, si ce n'est qu'elle
 ne peut pas causer le moindre mal. Tant que vous
 vous trouvez dans un rayon de 36 mètres autour
 de la créature illusoire et que vous la voyez, vous
 pouvez utiliser une action pour la déplacer magiquement
-n’importe où dans un rayon de 9 mètres
+n'importe où dans un rayon de 9 mètres
 autour de sa carte. Toute interaction physique avec
-la créature révèle qu’elle n’est qu’une illusion, car les
-objets la traversent. Quelqu’un qui utilise une action
+la créature révèle qu'elle n'est qu'une illusion, car les
+objets la traversent. Quelqu'un qui utilise une action
 pour inspecter visuellement la créature illusoire
-comprend qu’elle n’est pas réelle s’il réussit un test
-d’Intelligence (Investigation) DD 15. La créature lui
+comprend qu'elle n'est pas réelle s'il réussit un test
+d'Intelligence (Investigation) DD 15. La créature lui
 paraît ensuite translucide.
-L’illusion persiste jusqu’à ce qu’on la dissipe
-ou que l’on déplace la carte. Quand l’illusion se
-termine, l’image de la carte s’efface et on ne peut
-plus s’en servir.
+L'illusion persiste jusqu'à ce qu'on la dissipe
+ou que l'on déplace la carte. Quand l'illusion se
+termine, l'image de la carte s'efface et on ne peut
+plus s'en servir.
 Carte à jouer Illusion
 As de coeur Dragon rouge
 Roi de coeur Chevalier et quatre gardes
@@ -1837,21 +1837,21 @@ CARTES MERVEILLEUSES
 Objet merveilleux, légendaire
 Ce jeu de cartes, en ivoire ou sur vélin, se trouve
 généralement dans une boîte ou une bourse. La
-plupart des jeux (75 %) n’ont que treize cartes, mais
+plupart des jeux (75 %) n'ont que treize cartes, mais
 les autres en ont vingt-deux.
 Avant de piocher, vous devez annoncer combien
 de cartes vous comptez tirer, puis vous les piochez au
 hasard (vous pouvez utiliser un jeu de cartes ordinaire
 modifié pour représenter les cartes merveilleuses).
 Toute carte tirée en plus du nombre indiqué reste sans
-effet. En dehors de cela, la magie d’une carte s’active
-dès que vous la piochez. Il ne doit pas s’écouler plus
-d’une heure entre le tirage de deux cartes : si vous
+effet. En dehors de cela, la magie d'une carte s'active
+dès que vous la piochez. Il ne doit pas s'écouler plus
+d'une heure entre le tirage de deux cartes : si vous
 ne piochez pas le nombre de cartes que vous avez
-annoncé, des cartes s’envolent du jeu pour atteindre
+annoncé, des cartes s'envolent du jeu pour atteindre
 ce nombre et font effet toutes en même temps.
 Une fois une carte piochée, elle disparaît, mais
-à moins qu’il ne s’agisse du Fou ou du Bouffon, elle
+à moins qu'il ne s'agisse du Fou ou du Bouffon, elle
 réapparaît dans le jeu et il se peut donc que vous
 la tiriez de nouveau.
 Carte à jouer Illusion
@@ -1882,19 +1882,19 @@ Balance. Votre esprit subit une modification
 déchirante qui change votre alignement. Les
 loyaux deviennent chaotiques, les bons mauvais
 et inversement. Si vous êtes neutre strict ou sans
-alignement, cette carte n’a aucun effet sur vous.
+alignement, cette carte n'a aucun effet sur vous.
 Comète. Si vous triomphez à vous seul du prochain
 monstre ou groupe de monstres que vous
 rencontrez, vous gagnez suffisamment de points
-d’expérience pour monter de niveau. Sinon, cette
-carte n’a aucun effet.
+d'expérience pour monter de niveau. Sinon, cette
+carte n'a aucun effet.
 Donjon. Vous disparaissez et vous trouvez enfermé
-en état d’animation suspendue dans une
+en état d'animation suspendue dans une
 sphère extradimensionnelle. Tout ce que vous
 aviez équipé et ce que vous transportiez reste
-dans l’espace que vous occupiez avant de disparaître.
+dans l'espace que vous occupiez avant de disparaître.
 Vous restez emprisonné dans la sphère
-jusqu’à ce que quelqu’un vous trouve et vous
+jusqu'à ce que quelqu'un vous trouve et vous
 libère. La magie de divination ne suffit pas à vous
 localiser mais un souhait révèle la position de
 votre prison. Vous ne tirez pas plus de cartes.
@@ -1902,18 +1902,18 @@ Euryale. Le visage de méduse qui orne cette carte
 vous maudit. Tant que vous êtes victime de cette
 malédiction, vous subissez un malus de -2 aux jets
 de sauvegarde. Pour mettre un terme à la malédiction,
-il faut l’aide d’un dieu ou la magie de la carte
+il faut l'aide d'un dieu ou la magie de la carte
 des Parques.
 Les Parques. Le tissu de la réalité se défait et se
-tisse de nouveau, vous permettant d’éviter ou d’effacer
-un événement, comme s’il ne s’était jamais
+tisse de nouveau, vous permettant d'éviter ou d'effacer
+un événement, comme s'il ne s'était jamais
 produit. Vous pouvez utiliser la magie de la carte
-tout de suite après l’avoir piochée ou à n’importe
+tout de suite après l'avoir piochée ou à n'importe
 quel moment avant votre mort.
 Flammes. Un puissant diable devient votre ennemi.
-Il s’efforce de causer votre perte et de ruiner
+Il s'efforce de causer votre perte et de ruiner
 votre vie, savourant vos souffrances avant de
-tenter de vous tuer. Cette hostilité persiste jusqu’à
+tenter de vous tuer. Cette hostilité persiste jusqu'à
 la mort du diable ou la vôtre.
 Fou. Vous perdez 10 000 PX, jetez cette carte et en
 piochez-en une nouvelle, le tirage du Fou et celui
@@ -1923,9 +1923,9 @@ vouloir piocher. Si la perte de PX devrait vous faire
 perdre un niveau, vous ne le perdez pas : vous le
 conservez et perdez juste assez de PX pour arriver
 à la limite du niveau précédent.
-Gemme. Vingt-cinq bijoux d’une valeur de
-2 000 po pièce ou cinquante gemmes d’une valeur
-de 1 000 po l’une apparaissent à vos pieds.
+Gemme. Vingt-cinq bijoux d'une valeur de
+2 000 po pièce ou cinquante gemmes d'une valeur
+de 1 000 po l'une apparaissent à vos pieds.
 Idiot. Votre Intelligence diminue définitivement
 de 1d4+1 (sans descendre au-dessous de 1). Vous
 pouvez piocher une carte en plus par rapport à ce
@@ -1934,24 +1934,24 @@ Bouffon. Vous gagnez 10 000 PX ou vous pouvez
 piocher deux cartes de plus que ce que vous aviez
 annoncé.
 Clef. Une arme magique rare, très rare ou légendaire
-dont vous maîtrisez l’usage apparaît dans
-vos mains. C’est au MJ de choisir cette arme.
-Chevalier. Vous gagnez les services d’un guerrier
+dont vous maîtrisez l'usage apparaît dans
+vos mains. C'est au MJ de choisir cette arme.
+Chevalier. Vous gagnez les services d'un guerrier
 de niveau 4 qui apparaît dans un emplacement
 de votre choix situé dans un rayon de 9 mètres
 autour de vous. Ce guerrier est de la même race
-que vous et vous sert fidèlement jusqu’à la mort,
-persuadé que c’est le destin qui l’a conduit à vous.
-C’est vous en tant que joueur qui contrôlez ce
+que vous et vous sert fidèlement jusqu'à la mort,
+persuadé que c'est le destin qui l'a conduit à vous.
+C'est vous en tant que joueur qui contrôlez ce
 personnage.
 Lune. Vous êtes habilité à lancer le sort de souhait
 1d3 fois.
 Trahison. Un personnage non-joueur (au choix
-du MJ) devient hostile envers vous. L’identité de
-ce nouvel ennemi reste un secret jusqu’à ce qu’il
-décide de se dévoiler ou que quelqu’un d’autre
-s’en charge. Il est impossible d’enrayer son hostilité
-envers vous à moins d’un souhait ou d’une
+du MJ) devient hostile envers vous. L'identité de
+ce nouvel ennemi reste un secret jusqu'à ce qu'il
+décide de se dévoiler ou que quelqu'un d'autre
+s'en charge. Il est impossible d'enrayer son hostilité
+envers vous à moins d'un souhait ou d'une
 intervention divine.
 Ruine. Toutes les richesses que vous portiez ou
 possédiez, sous quelque forme que ce soit en dehors
@@ -1964,44 +1964,44 @@ Tout document prouvant que vous possédiez
 quelque chose que vous perdez à cause de cette
 carte disparaît aussi.
 Crâne. Vous invoquez un avatar de la mort, un
-squelette humanoïde fantomatique vêtu d’une
+squelette humanoïde fantomatique vêtu d'une
 robe noire en haillon et brandissant une faux
 spectrale. Il apparaît dans un emplacement choisi
 par le MJ, dans un rayon de 3 mètres autour de
 vous et vous attaque en avertissant toute personne
 alentour que vous devez livrer ce combat
-seul. L’avatar se bat jusqu’à ce que vous mourriez
-ou qu’il tombe à 0 point de vie, auquel cas il disparaît.
-Si quelqu’un tente de vous aider, il provoque
-l’apparition de son propre avatar de la mort. Il est
+seul. L'avatar se bat jusqu'à ce que vous mourriez
+ou qu'il tombe à 0 point de vie, auquel cas il disparaît.
+Si quelqu'un tente de vous aider, il provoque
+l'apparition de son propre avatar de la mort. Il est
 impossible de ramener à la vie une personne tuée
-par l’avatar de la mort.
-Étoile. Augmente l’une de vos valeurs de caractéristiques
+par l'avatar de la mort.
+Étoile. Augmente l'une de vos valeurs de caractéristiques
 de 2. Cette caractéristique peut dépasser
 20 mais ne peut aller au-delà de 24.
 Soleil. Vous gagnez 50 000 PX et un objet merveilleux
 (que le MJ détermine au hasard) apparaît
 dans vos mains.
 Serres. Tous les objets magiques en votre possession
-(qu’ils soient équipés ou transportés) se
+(qu'ils soient équipés ou transportés) se
 désintègrent. Vos artefacts ne sont pas détruits
 mais ils se volatilisent.
 Trône. Vous maîtrisez la compétence de Persuasion
 et vous doublez votre bonus de maîtrise lors
 des tests effectués avec cette compétence. De
-plus, vous devenez le propriétaire légal d’un petit
+plus, vous devenez le propriétaire légal d'un petit
 fort situé quelque part dans le monde. Cependant,
-il est actuellement entre les mains d’un groupe de
+il est actuellement entre les mains d'un groupe de
 monstres que vous devez chasser pour récupérer
 votre bien.
-Vizir. Dans un délai d’un an après avoir pioché
+Vizir. Dans un délai d'un an après avoir pioché
 cette carte, vous pouvez méditer pour poser une
 question à laquelle vous recevrez une réponse
-mentale fiable. En plus de l’information transmise,
+mentale fiable. En plus de l'information transmise,
 la réponse vous aide à résoudre votre problème
-ou votre dilemme. En d’autres termes, la connaissance
-acquise s’accompagne de la sagesse nécessaire
-pour l’appliquer au mieux.
+ou votre dilemme. En d'autres termes, la connaissance
+acquise s'accompagne de la sagesse nécessaire
+pour l'appliquer au mieux.
 Le Néant. Cette carte noire annonce une catastrophe.
 Votre âme est arrachée à votre corps et
 enfermée dans un objet en un lieu choisi par le
@@ -2009,7 +2009,7 @@ MJ. Un ou plusieurs êtres puissants gardent les
 lieux. Votre corps est neutralisé tant que votre
 âme est ainsi retenue. Le sort souhait ne suffit pas
 à ramener votre âme mais il révèle où se trouve
-l’objet qui la contient. Vous ne pouvez pas piocher
+l'objet qui la contient. Vous ne pouvez pas piocher
 de cartes supplémentaires.
 CEINTURON DE FORCE DE GÉANT
 Objet merveilleux, rareté variable (harmonisation
@@ -2017,7 +2017,7 @@ requise)
 Tant que vous portez ce ceinturon, votre valeur de
 Force se modifie en fonction des capacités de la
 ceinture. Si votre Force est déjà égale ou supérieure
-à celle qu’offre le ceinturon, ce dernier n’a
+à celle qu'offre le ceinturon, ce dernier n'a
 aucun effet sur vous.
 Il existe six modèles de ceinturon qui correspondent
 aux six espèces de géants, la rareté de
@@ -2037,7 +2037,7 @@ Tant que vous portez ce ceinturon, vous bénéficiez
 des avantages suivants :
 Votre valeur de Constitution augmente de 2,
 sans dépasser un maximum de 20.
-Vous obtenez l’avantage lors des tests de Charisme
+Vous obtenez l'avantage lors des tests de Charisme
 (Persuasion) pour interagir avec des nains.
 De plus, tant que vous êtes harmonisé avec le
 ceinturon, vous avez 50 % de chances par jour de
@@ -2045,10 +2045,10 @@ voir une belle barbe pousser sur votre menton
 (si vous êtes capable de développer une telle
 pilosité). Si vous en avez déjà une, elle devient
 visiblement plus touffue.
-Si vous n’êtes pas un nain, vous gagnez les
+Si vous n'êtes pas un nain, vous gagnez les
 avantages supplémentaires suivants quand vous
 portez le ceinturon.
-Vous obtenez l’avantage lors des jets de sauvegarde
+Vous obtenez l'avantage lors des jets de sauvegarde
 contre le poison et vous êtes résistant
 contre les dégâts de poison.
 Vous gagnez la vision dans le noir à une distance
@@ -2065,14 +2065,14 @@ CHAPELET
 Objet merveilleux, rare (harmonisation requise
 par un clerc, un druide ou un paladin)
 Ce chapelet se présente sous forme de collier
-et comporte 1d4+2 grains magiques faits d’aigues-
+et comporte 1d4+2 grains magiques faits d'aigues-
 marines, de perles noires ou de topazes.
 Il possède aussi de nombreux grains ordinaires
-taillés dans de l’ambre, de l’héliotrope, de la
+taillés dans de l'ambre, de l'héliotrope, de la
 citrine, du corail, du jade, des perles ou du quartz.
 Si on retire un grain magique du chapelet, il perd
 sa magie.
-Il existe six types de grains magiques. C’est au
+Il existe six types de grains magiques. C'est au
 MJ de décider du type de chaque grain ou de le
 déterminer au hasard. Un même chapelet peut
 posséder plusieurs grains du même type. Il faut
@@ -2080,8 +2080,8 @@ porter le collier pour en utiliser un. Chaque grain
 renferme un sort que vous pouvez lancer en
 utilisant une action bonus (en vous servant du DD
 des jets de sauvegarde contre vos sorts si besoin).
-Une fois qu’un grain a servi à lancer un sort, il faut
-attendre l’aube suivante avant de pouvoir s’en
+Une fois qu'un grain a servi à lancer un sort, il faut
+attendre l'aube suivante avant de pouvoir s'en
 servir de nouveau.
 d20 Grain de… Sort
 1-6 Bénédiction Bénédiction
@@ -2091,18 +2091,18 @@ ou restauration inférieure
 17-18 Châtiment Frappe lumineuse
 19 Convocations Allié planaire
 20 Vent Marche sur le vent
-CHAUSSONS DE L’ARAIGNÉE
+CHAUSSONS DE L'ARAIGNÉE
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ces souliers légers aux
 pieds, vous pouvez vous déplacer vers le haut,
 le bas et le long de surfaces verticales, ou la tête
 en bas le long de plafonds, tout en gardant les
-mains libres. Vous disposez d’une vitesse d’escalade
+mains libres. Vous disposez d'une vitesse d'escalade
 égale à votre vitesse au sol. Les chaussons
 ne permettent toutefois pas de se déplacer
 de cette façon sur des surfaces glissantes, si
-elles sont recouvertes de glace ou d’huile, par
+elles sont recouvertes de glace ou d'huile, par
 exemple.
 CHEMISE DE MAILLES ELFIQUE
 Armure (chemise de mailles), rare
@@ -2110,13 +2110,13 @@ Vous gagnez un bonus de +1 à la CA tant que vous
 portez cette armure. Vous êtes considéré comme
 maîtrisant le port de cette armure, même si vous
 ne maîtrisez pas les armures intermédiaires.
-CIERGE D’INVOCATION
+CIERGE D'INVOCATION
 Objet merveilleux, très rare (harmonisation
 requise)
 Ce mince cierge est dédié à une divinité précise et
 partage son alignement. On peut détecter ce dernier
-avec le sort détection du mal et du bien. C’est au MJ
-de choisir le dieu et l’alignement associé ou de les
+avec le sort détection du mal et du bien. C'est au MJ
+de choisir le dieu et l'alignement associé ou de les
 déterminer au hasard.
 d20 Alignement
 1-2 Chaotique mauvais
@@ -2128,31 +2128,31 @@ d20 Alignement
 14-15 Loyal mauvais
 16-17 Loyal neutre
 18-20 Loyal bon
-La magie du cierge s’active quand on l’allume,
+La magie du cierge s'active quand on l'allume,
 ce qui demande une action. Il est détruit après
-4 heures de combustion. Vous pouvez l’éteindre
+4 heures de combustion. Vous pouvez l'éteindre
 avant pour le réutiliser plus tard. Déduisez chaque
-période de combustion (par portions d’une minute)
+période de combustion (par portions d'une minute)
 de la durée totale de combustion du cierge.
 Tant que le cierge est allumé, il émet une faible
 lumière dans un rayon de 9 mètres. Chaque créature
 baignée dans cette lumière et disposant du
-même alignement que le cierge obtient l’avantage
-lors de ses jets d’attaque et de sauvegarde ainsi
+même alignement que le cierge obtient l'avantage
+lors de ses jets d'attaque et de sauvegarde ainsi
 que lors de ses tests de caractéristique. De plus,
 un clerc ou un druide présent dans la lumière et
 disposant du même alignement que le cierge peut
-lancer les sorts de niveau 1 qu’il a préparés sans
-dépenser d’emplacement de sort, bien que le sort
-fasse effet comme s’il était lancé depuis un emplacement
+lancer les sorts de niveau 1 qu'il a préparés sans
+dépenser d'emplacement de sort, bien que le sort
+fasse effet comme s'il était lancé depuis un emplacement
 de niveau 1.
 Sinon, vous pouvez lancer le sort portail avec le
-cierge quand vous l’allumez pour la première fois,
+cierge quand vous l'allumez pour la première fois,
 mais cela le détruit.
 CIMETERRE DE CÉLÉRITÉ
 Arme (cimeterre), très rare (harmonisation
 requise)
-Vous bénéficiez d’un bonus de +2 aux jets d’attaque
+Vous bénéficiez d'un bonus de +2 aux jets d'attaque
 et de dégâts effectués avec cette arme magique.
 De plus, vous pouvez effectuer une attaque
 avec elle par une action bonus lors de chacun de
@@ -2162,23 +2162,23 @@ Objet merveilleux, légendaire
 Cette substance visqueuse et aussi blanche que
 le lait peut coller deux objets de manière définitive.
 Elle doit être conservée dans un pot dont
-la surface intérieure a été badigeonnée d’huile
-d’insaisissabilité. Un récipient nouvellement
+la surface intérieure a été badigeonnée d'huile
+d'insaisissabilité. Un récipient nouvellement
 découvert contient 1d6+1 doses de cette colle, de
 30 grammes chacune.
 30 grammes de colle sont suffisants pour
 recouvrir une surface de 30 centimètres de côté.
 Il faut une minute pour que la colle se solidifie.
 Une fois solidifiée, il est impossible de la détruire,
-à moins d’utiliser un solvant universel ou une huile
-éthérée, ou à l’aide d’un sort de souhait.
-COLLIER D’ADAPTATION
+à moins d'utiliser un solvant universel ou une huile
+éthérée, ou à l'aide d'un sort de souhait.
+COLLIER D'ADAPTATION
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ce collier, vous pouvez respirer
-normalement quel que soit l’environnement
+normalement quel que soit l'environnement
 dans lequel vous vous trouvez, et vous obtenez
-l’avantage lors des jets de sauvegarde contre les
+l'avantage lors des jets de sauvegarde contre les
 gaz et vapeurs toxiques (comme un nuage mortel
 ou un nuage puant, un poison par inhalation ou le
 souffle de certains dragons).
@@ -2198,7 +2198,7 @@ Objet merveilleux, rare
 Vous pouvez utiliser votre action pour prononcer
 le mot de commande du cor puis souffler
 dedans. Il émet un fracas de tonnerre dans un
-cône de 9 mètres de long, qui s’entend jusqu’à
+cône de 9 mètres de long, qui s'entend jusqu'à
 180 mètres de distance. Chaque créature présente
 dans le cône doit faire un jet de sauvegarde de
 Constitution DD 15. Celles qui échouent subissent
@@ -2209,24 +2209,24 @@ les objets faits de verre ou de cristal subissent un
 désavantage sur le jet de sauvegarde et subissent
 10d6 dégâts de tonnerre au lieu de 5d6.
 À chaque utilisation, le cor a 20 % de chances
-d’exploser. L’explosion inflige 10d6 dégâts de feu
-à celui qui soufflait dans le cor et détruit l’instrument.
+d'exploser. L'explosion inflige 10d6 dégâts de feu
+à celui qui soufflait dans le cor et détruit l'instrument.
 COR DU VALHALLA
 Objet merveilleux, rare (argent ou cuivre), très
 rare (bronze) ou légendaire (fer)
 Si vous utilisez une action pour souffler dans ce
 cor, des esprits guerriers du Valhalla apparaissent
 dans un rayon de 18 mètres autour de vous. Ils utilisent
-les statistiques d’un berserker et retournent
-au Valhalla au bout d’une heure ou dès qu’ils
+les statistiques d'un berserker et retournent
+au Valhalla au bout d'une heure ou dès qu'ils
 tombent à 0 point de vie. Une fois que vous avez
 utilisé la corne, vous ne pouvez plus vous en servir
 pendant 7 jours.
 Il existe quatre types connus de cors du Valhalla,
-chacun conçu dans un métal différent. C’est
-le type du cor qui définit le nombre d’esprits qui
+chacun conçu dans un métal différent. C'est
+le type du cor qui définit le nombre d'esprits qui
 répondent à son appel mais aussi les conditions à
-remplir pour utiliser l’instrument. Le MJ choisit le
+remplir pour utiliser l'instrument. Le MJ choisit le
 type de cor ou le détermine au hasard.
 d100 Type de cor
 Fous de
@@ -2248,14 +2248,14 @@ remplissez pas les conditions requises, les fous
 de guerre invoqués vous attaquent. Si vous les
 remplissez, ils se montrent amicaux envers vous
 et vos compagnons et obéissent à vos ordres.
-CORDE D’ENCHEVÊTREMENT
+CORDE D'ENCHEVÊTREMENT
 Objet merveilleux, rare
 Cette corde fait 9 mètres de long pèse 1,5 kilo. Si
 vous tenez en main une extrémité de la corde
 et utilisez une action pour prononcer son mot
-de commande, l’autre extrémité se jette sur une
+de commande, l'autre extrémité se jette sur une
 créature située à 6 mètres ou moins de vous dans
-votre champ de vision pour l’enchevêtrer. La cible
+votre champ de vision pour l'enchevêtrer. La cible
 doit réussir un jet de sauvegarde de Dextérité DD
 15 pour ne pas se retrouver entravée.
 Vous pouvez libérer la créature en utilisant une
@@ -2263,66 +2263,66 @@ action bonus pour prononcer un deuxième mot
 de commande. Une cible entravée par la corde
 peut utiliser une action pour effectuer un test de
 Force ou de Dextérité (au choix de la cible) DD 15.
-En cas de réussite, elle n’est plus entravée par la
+En cas de réussite, elle n'est plus entravée par la
 corde.
 La corde possède une CA de 20 et 20 points de
 vie. Elle récupère 1 point de vie toutes les 5 minutes
-tant qu’il lui reste au moins 1 point de vie.
+tant qu'il lui reste au moins 1 point de vie.
 Elle est détruite si son nombre de points de vie
 tombe à 0.
-CORDE D’ESCALADE
+CORDE D'ESCALADE
 Objet merveilleux, peu courant
 Cette corde en soie de 18 mètres de long pèse 1,5
 kilo et peut soutenir un maximum de 1 500 kilos.
-La corde s’anime si vous tenez en main une
+La corde s'anime si vous tenez en main une
 extrémité et utilisez une action pour prononcer
 le mot de commande. Pour une action bonus,
-vous pouvez ordonner à l’autre extrémité de se
+vous pouvez ordonner à l'autre extrémité de se
 déplacer vers la destination de votre choix. Cette
 extrémité se déplace de 3 mètres lors du tour où
-vous lui avez donné l’ordre et de 3 mètres lors de
-chacun de vos tours, jusqu’à ce qu’elle atteigne
+vous lui avez donné l'ordre et de 3 mètres lors de
+chacun de vos tours, jusqu'à ce qu'elle atteigne
 sa destination, que sa longueur maximale soit
-atteinte ou que vous lui ordonniez de s’arrêter.
+atteinte ou que vous lui ordonniez de s'arrêter.
 Vous pouvez également ordonner à la corde de
-s’attacher fermement à un objet ou de s’en détacher,
-de se nouer ou se dénouer, ou de s’enrouler
+s'attacher fermement à un objet ou de s'en détacher,
+de se nouer ou se dénouer, ou de s'enrouler
 pour faciliter son transport.
 Si vous ordonnez à la corde de se nouer, des
 gros noeuds apparaissent sur sa longueur à
 30 centimètres les uns des autres. Nouée de la
 sorte, la corde ne fait plus que 15 mètres de long et
-permet d’obtenir l’avantage lors des tests effectués
+permet d'obtenir l'avantage lors des tests effectués
 pour la grimper.
 La corde possède une CA de 20 et 20 points de
 vie. Elle récupère 1 point de vie toutes les 5 minutes
-tant qu’il lui reste au moins 1 point de vie.
+tant qu'il lui reste au moins 1 point de vie.
 Elle est détruite si son nombre de points de vie
 tombe à 0.
 CUBE DE FORCE
 Objet merveilleux, rare (harmonisation requise)
-Ce cube fait 2,5 centimètres d’arête. Chaque face
-est dotée d’une marque distinctive sur laquelle on
+Ce cube fait 2,5 centimètres d'arête. Chaque face
+est dotée d'une marque distinctive sur laquelle on
 peut appuyer. Le cube a 36 charges au départ et,
-chaque matin à l’aube, il récupère 1d20 charges
+chaque matin à l'aube, il récupère 1d20 charges
 dépensées.
 Vous pouvez utiliser une action pour appuyer
-sur l’une des faces du cube et dépenser un
+sur l'une des faces du cube et dépenser un
 nombre de charges dépendant de la face choisie,
 comme indiqué dans la table Faces du cube de
 force. Chaque face produit un effet différent. Si
-le cube n’a plus assez de charges pour alimenter
-l’effet, il ne se passe rien. Sinon, une barrière
+le cube n'a plus assez de charges pour alimenter
+l'effet, il ne se passe rien. Sinon, une barrière
 de force invisible se déploie en un cube de
-4,50 mètres d’arête. Elle est centrée sur vous, se
-déplace avec vous et persiste une minute, jusqu’à
+4,50 mètres d'arête. Elle est centrée sur vous, se
+déplace avec vous et persiste une minute, jusqu'à
 ce que vous dépensiez une action pour appuyer
-sur la sixième face du cube ou jusqu’à ce que le
+sur la sixième face du cube ou jusqu'à ce que le
 cube ait épuisé toutes ses charges. Vous pouvez
-changer l’effet de la barrière en appuyant sur
+changer l'effet de la barrière en appuyant sur
 une nouvelle face et en dépensant le nombre
 de charges requis, ce qui réinitialise la durée de
-l’effet.
+l'effet.
 Si vos déplacements mettent la barrière en
 contact avec un objet solide qui ne peut pas traverser
 le cube, vous ne pouvez pas vous rapprocher
@@ -2347,7 +2347,7 @@ plafond peuvent la traverser.
 6 0 La barrière se désactive.
 Le cube perd des charges quand la barrière est
 la cible de certains sorts ou entre en contact avec
-certains effets issus de sorts ou d’objets magiques,
+certains effets issus de sorts ou d'objets magiques,
 comme indiqué dans la table suivante.
 Sort ou objet Charges perdues
 Désintégration 1d12
@@ -2360,25 +2360,25 @@ Armure (cuir cloutée), rare
 Tant que vous portez cette armure, vous gagnez
 un bonus de +1 à la CA. Vous pouvez également
 dépenser une action bonus pour prononcer son
-mot de commande et lui donner l’apparence
-d’habits normaux ou d’une autre armure. À vous
+mot de commande et lui donner l'apparence
+d'habits normaux ou d'une autre armure. À vous
 de décider à quoi elle ressemble, aussi bien au
 niveau de la couleur, du style que des accessoires.
 Cependant, elle conserve son poids et son
-volume. L’illusion persiste jusqu’à ce que vous
+volume. L'illusion persiste jusqu'à ce que vous
 utilisiez de nouveau ce pouvoir ou que vous ôtiez
-l’armure.
+l'armure.
 DAGUE VENIMEUSE
 Arme (dague), rare
-Vous gagnez un bonus de +1 aux jets d’attaque et
+Vous gagnez un bonus de +1 aux jets d'attaque et
 de dégâts effectués avec cette arme magique.
-Vous pouvez dépenser une action pour qu’un
+Vous pouvez dépenser une action pour qu'un
 épais poison noir enduise la lame. Il persiste pendant
-1 minute ou jusqu’à ce que l’arme touche
+1 minute ou jusqu'à ce que l'arme touche
 une créature suite à une attaque. Cette créature
 doit réussir un jet de sauvegarde de Constitution
 DD 15 ou subir 2d10 dégâts de poison pendant
-1 minute. Il faut attendre l’aube suivante pour
+1 minute. Il faut attendre l'aube suivante pour
 pouvoir utiliser de nouveau la dague de cette
 manière.
 DIADÈME DE DESTRUCTION
@@ -2386,64 +2386,64 @@ Objet merveilleux, peu courant
 Tant que vous portez ce diadème, vous pouvez
 utiliser votre action pour lancer le sort rayon ardent
 par son intermédiaire. Quand vous effectuez
-l’attaque de sort, votre bonus d’attaque est de +5.
-Il faut attendre l’aube suivante avant d’utiliser de
+l'attaque de sort, votre bonus d'attaque est de +5.
+Il faut attendre l'aube suivante avant d'utiliser de
 nouveau le diadème de cette manière.
 ENCENSOIR DE CONTRÔLE DES ÉLÉMENTAIRES DE
-L’AIR
+L'AIR
 Objet merveilleux, rare
-Tant que de l’encens brûle dans cet encensoir,
+Tant que de l'encens brûle dans cet encensoir,
 vous pouvez utiliser une action pour prononcer
 son mot de commande et invoquer un élémentaire
-de l’air, comme si vous aviez lancé le sort
-invocation d’élémentaires. Ensuite, il faut attendre
-l’aube suivante avant de pouvoir réutiliser ainsi
-l’encensoir.
-L’encensoir ressemble à un calice de 15 centimètres
+de l'air, comme si vous aviez lancé le sort
+invocation d'élémentaires. Ensuite, il faut attendre
+l'aube suivante avant de pouvoir réutiliser ainsi
+l'encensoir.
+L'encensoir ressemble à un calice de 15 centimètres
 de large pour 30 centimètres de haut
-fermé d’un couvercle ornementé. Il pèse 0,5 kilo.
+fermé d'un couvercle ornementé. Il pèse 0,5 kilo.
 ÉPÉE ARDENTE
 Arme (épée), rare (harmonisation requise)
 Vous pouvez utiliser une action bonus pour
 prononcer le mot de commande de cette épée
-magique et envelopper sa lame d’un linceul de
+magique et envelopper sa lame d'un linceul de
 flammes qui émettent une vive lumière dans un
 rayon de 12 mètres et une faible lumière dans un
-rayon de 12 mètres de plus. Tant que l’épée est
+rayon de 12 mètres de plus. Tant que l'épée est
 embrasée, elle inflige 2d6 dégâts de feu supplémentaire
-à toute cible qu’elle touche. Les flammes
-brûlent jusqu’à ce que vous dépensiez une action
+à toute cible qu'elle touche. Les flammes
+brûlent jusqu'à ce que vous dépensiez une action
 bonus pour prononcer de nouveau le mot de
-commande ou jusqu’à ce que vous lâchiez ou
-rengainiez l’épée.
+commande ou jusqu'à ce que vous lâchiez ou
+rengainiez l'épée.
 ÉPÉE DANSANTE
 Arme (épée), très rare (harmonisation requise)
 Vous pouvez utiliser une action bonus pour lancer
-cette épée magique en l’air et prononcer son
+cette épée magique en l'air et prononcer son
 mot de commande. Elle se met alors à flotter et
-s’envole à une distance maximum de 9 mètres,
+s'envole à une distance maximum de 9 mètres,
 attaquant la créature de votre choix située dans
-un rayon de 1,50 mètre autour d’elle. L’épée utilise
-votre jet d’attaque et votre modificateur de caractéristique
+un rayon de 1,50 mètre autour d'elle. L'épée utilise
+votre jet d'attaque et votre modificateur de caractéristique
 aux jets de dégâts.
-Tant que l’épée flotte dans les airs, vous pouvez
-utiliser une action bonus pour l’envoyer voler sur
-une distance maximum de 9 mètres jusqu’à un
+Tant que l'épée flotte dans les airs, vous pouvez
+utiliser une action bonus pour l'envoyer voler sur
+une distance maximum de 9 mètres jusqu'à un
 emplacement situé dans un rayon de 9 mètres autour
 de vous. Lors de cette action bonus, vous pouvez
-demander à l’épée d’attaquer une créature
-située dans un rayon de 1,50 mètre autour d’elle.
-Une fois que l’épée a attaqué pour la quatrième
+demander à l'épée d'attaquer une créature
+située dans un rayon de 1,50 mètre autour d'elle.
+Une fois que l'épée a attaqué pour la quatrième
 fois, elle vole sur un maximum de 9 mètres et
 tente de retourner dans votre main. Si vous avez
 les deux mains prises, elle tombe à vos pieds. Si
-l’épée ne dispose d’aucun chemin d’accès pour
+l'épée ne dispose d'aucun chemin d'accès pour
 vous rejoindre, elle se rapproche de vous autant
 que possible et tombe à terre. Elle cesse également
-de flotter dans les airs si vous l’attrapez ou si
-vous vous éloignez à plus de 9 mètres d’elle.
+de flotter dans les airs si vous l'attrapez ou si
+vous vous éloignez à plus de 9 mètres d'elle.
 ÉPÉE MORDANTE
-Arme (n’importe quel type d’épée), rare (harmonisation
+Arme (n'importe quel type d'épée), rare (harmonisation
 requise)
 Seul un repos court ou long permet de récupérer
 les points de vie perdus à cause des dégâts infligés
@@ -2455,103 +2455,103 @@ attaque contre une créature avec cette arme
 magique, vous pouvez inciser la cible. Au début
 de chacun des tours de la créature ainsi incisée,
 celle-ci subit 1d4 dégâts nécrotiques pour chaque
-attaque d’incision réussie à son encontre. Elle peut
+attaque d'incision réussie à son encontre. Elle peut
 ensuite effectuer un jet de sauvegarde de Constitution
-DD 15 et mettre fin à l’effet de la totalité des
+DD 15 et mettre fin à l'effet de la totalité des
 incisions dont elle est victime en cas de réussite.
 Par ailleurs, une créature incisée, ou une autre
-créature située à 1,50 mètre ou moins d’elle, peut
+créature située à 1,50 mètre ou moins d'elle, peut
 utiliser une action pour effectuer un test de Sagesse
-(Médecine) DD 15 et mettre fin à l’effet des incisions
+(Médecine) DD 15 et mettre fin à l'effet des incisions
 dont elle est victime en cas de réussite.
 ÉPÉE RADIEUSE
 Arme (épée longue), rare (harmonisation requise)
-Au premier abord, cet objet est la garde d’une
+Au premier abord, cet objet est la garde d'une
 épée longue. Lorsque vous la prenez en main,
 vous pouvez utiliser une action bonus pour
-qu’une lame de lumière pure en surgisse ou pour
+qu'une lame de lumière pure en surgisse ou pour
 la faire disparaître. Tant que la lame est sortie,
 cette épée longue magique est dotée de la propriété
 finesse. Si vous maîtrisez le maniement des
 épées courtes ou longues, vous maîtrisez également
-celui d’une épée radieuse.
-Vous bénéficiez d’un bonus de +2 aux jets d’attaque
+celui d'une épée radieuse.
+Vous bénéficiez d'un bonus de +2 aux jets d'attaque
 et de dégâts effectués avec cette arme qui
 inflige des dégâts radiants, et non plus des dégâts
 tranchants. Quand vous réussissez une attaque
 contre un mort-vivant avec cette arme, la cible
 subit 1d8 dégâts radiants supplémentaires.
-La lame lumineuse de l’épée diffuse une
+La lame lumineuse de l'épée diffuse une
 lumière vive sur un rayon de 4,50 mètres et une
 lumière faible 4,50 mètres au-delà. Cette lumière
 est celle du soleil. Tant que la lame est sortie, vous
 pouvez utiliser une action pour augmenter ou
 réduire le rayon de la lumière vive et de la lumière
-faible de 1,50 mètre chacun, jusqu’à ce qu’ils atteignent
+faible de 1,50 mètre chacun, jusqu'à ce qu'ils atteignent
 un maximum de 9 mètres chacun ou un
 minimum de 3 mètres chacun.
 ÉPÉE TRANCHANTE
-Arme (n’importe quelle épée qui inflige des
+Arme (n'importe quelle épée qui inflige des
 dégâts tranchants), très rare (harmonisation
 requise)
 Quand vous réussissez une attaque contre un
 objet avec cette arme magique, considérez que
-le(s) dé(s) de dégâts de l’arme obtient le plus haut
+le(s) dé(s) de dégâts de l'arme obtient le plus haut
 résultat contre la cible.
 Quand vous attaquez une créature avec cette
-arme et obtenez un 20 au jet d’attaque, la cible
+arme et obtenez un 20 au jet d'attaque, la cible
 subit 4d6 dégâts tranchants supplémentaires.
 Lancez ensuite un autre d20. Si vous obtenez un
-20, vous lui tranchez un de ses membres et l’effet
-de cette perte est laissé à l’appréciation du MJ. Si
+20, vous lui tranchez un de ses membres et l'effet
+de cette perte est laissé à l'appréciation du MJ. Si
 la créature ne possède aucun membre à trancher,
 vous tranchez une partie de son corps à la place.
 En outre, vous pouvez prononcer le mot de
-commande de l’épée pour que la lame diffuse
+commande de l'épée pour que la lame diffuse
 une lumière vive sur un rayon de 3 mètres et une
-lumière faible 3 mètres au-delà. La lumière s’éteint
+lumière faible 3 mètres au-delà. La lumière s'éteint
 si le mot de commande est prononcé une deuxième
-fois ou si l’épée est rengainée.
+fois ou si l'épée est rengainée.
 ÉPÉE VOLEUSE DE VIE
-Arme (n’importe quel type d’épée), rare (harmonisation
+Arme (n'importe quel type d'épée), rare (harmonisation
 requise)
 Quand vous attaquez une créature avec cette
-arme magique et obtenez un 20 sur le jet d’attaque,
+arme magique et obtenez un 20 sur le jet d'attaque,
 la cible subit 3d6 dégâts nécrotiques
-supplémentaires, à condition qu’elle ne soit ni
+supplémentaires, à condition qu'elle ne soit ni
 une créature artificielle, ni un mort-vivant. Vous
 gagnez un nombre de points de vie temporaires
 égal aux dégâts supplémentaires infligés.
 ÉPÉE VORPALE
-Arme (n’importe quel type d’épée qui inflige des
+Arme (n'importe quel type d'épée qui inflige des
 dégâts tranchants), légendaire (harmonisation
 requise)
-Vous obtenez un bonus de +3 aux jets d’attaque
+Vous obtenez un bonus de +3 aux jets d'attaque
 et de dégâts effectués avec cette arme magique.
-De plus, l’arme ignore toute résistance aux dégâts
+De plus, l'arme ignore toute résistance aux dégâts
 tranchants.
 Lorsque vous attaquez avec cette arme une créature
-dotée d’une tête au moins et que vous obtenez
-un 20 au jet d’attaque, vous tranchez une de ses
+dotée d'une tête au moins et que vous obtenez
+un 20 au jet d'attaque, vous tranchez une de ses
 têtes. La créature meurt si cette tête lui est nécessaire
 pour survivre à ce coup. Une créature est immunisée
-contre cet effet si elle l’est également contre les
-dégâts tranchants, si elle n’a pas de tête ou n’en pas
+contre cet effet si elle l'est également contre les
+dégâts tranchants, si elle n'a pas de tête ou n'en pas
 besoin, si elle peut effectuer des actions légendaires
 ou si le MJ décide que la créature est trop grosse pour
 que sa tête soit ainsi tranchée. Contre une telle créature,
-l’attaque pourrait à la place infliger 6d8 dégâts
+l'attaque pourrait à la place infliger 6d8 dégâts
 tranchants supplémentaires.
 ÉVENTAIL ENCHANTÉ
 Objet merveilleux, peu courant
 Avec cet éventail en main, vous pouvez utiliser
 une action pour lancer le sort bourrasque (DD des
 jets de sauvegarde contre le sort 13). Suite à cette
-première utilisation, l’éventail ne peut plus être
-utilisé sans risque de l’abîmer avant l’aube suivante.
-Chaque fois qu’il est utilisé une fois de plus
-avant l’aube prochaine, il y a 20 % de chances cumulatives
-qu’il ne fonctionne pas et se casse pour
+première utilisation, l'éventail ne peut plus être
+utilisé sans risque de l'abîmer avant l'aube suivante.
+Chaque fois qu'il est utilisé une fois de plus
+avant l'aube prochaine, il y a 20 % de chances cumulatives
+qu'il ne fonctionne pas et se casse pour
 devenir un éventail déchiré ordinaire et inutile.
 FER GELÉ
 Arme (épée), très rare (harmonisation requise)
@@ -2560,13 +2560,13 @@ avec cette arme magique, votre cible subit
 1d6 dégâts de froid supplémentaire. De plus, vous
 êtes résistant aux dégâts de feu tant que vous
 tenez cette épée.
-Si la température est glaciale, l’épée émet une
+Si la température est glaciale, l'épée émet une
 vive lumière dans un rayon de 3 mètres et une
 faible lumière dans un rayon de 3 mètres de plus.
 Quand vous dégainez cette épée, vous pouvez
 éteindre toutes les flammes non-magiques situées
 dans un rayon de 9 mètres autour de vous. Ce
-pouvoir s’utilise seulement une fois par heure.
+pouvoir s'utilise seulement une fois par heure.
 FERS DE RAPIDITÉ
 Objet merveilleux, rare
 Ces fers à cheval se trouvent par quatre. Quand
@@ -2581,11 +2581,11 @@ quatre avec eux, ils lui permettent de se déplacer
 normalement tout en flottant à une dizaine de
 centimètres du sol. Grâce à cet effet, la créature
 peut traverser une surface instable ou non-solide
-(comme de l’eau ou de la lave) ou se tenir dessus.
+(comme de l'eau ou de la lave) ou se tenir dessus.
 Elle ne laisse pas de trace et ignore les terrains
 difficiles. De plus, elle peut se déplacer à sa vitesse
 normale pendant un maximum de 12 heures par
-jour sans souffrir de l’épuisement lié à une marche
+jour sans souffrir de l'épuisement lié à une marche
 forcée.
 FIGURINE MERVEILLEUSE
 Objet merveilleux, rareté selon la figurine
@@ -2594,10 +2594,10 @@ un animal et assez petite pour tenir dans
 une poche. Si vous utilisez une action pour prononcer
 le mot de commande et lancez la figurine
 au sol dans un rayon de 18 mètres autour de vous,
-elle se change en créature vivante. Si l’emplacement
-qu’elle devrait occuper accueille déjà
-d’autres créatures ou objets, ou s’il n’y a pas assez
-de place pour l’animal, la figurine ne se métamorphose
+elle se change en créature vivante. Si l'emplacement
+qu'elle devrait occuper accueille déjà
+d'autres créatures ou objets, ou s'il n'y a pas assez
+de place pour l'animal, la figurine ne se métamorphose
 pas.
 La créature issue de la figurine existe pendant
 une durée dépendant de sa statuette. Ensuite, elle
@@ -2606,53 +2606,53 @@ sa forme de figurine avant cela si elle tombe à
 0 point de vie ou si vous utilisez une action pour
 prononcer de nouveau le mot de commande en la
 touchant. Une fois la créature redevenue bibelot,
-il faut attendre un certain temps avant qu’elle
+il faut attendre un certain temps avant qu'elle
 puisse se transformer de nouveau, comme indiqué
 dans sa description.
 Griffon de bronze (rare). Cette statuette de
 bronze représente un griffon rampant. Elle peut se
 changer en véritable griffon pendant un maximum
 de 6 heures. Une fois ce pouvoir utilisé, il
-faut attendre 5 jours avant de pouvoir s’en servir à
+faut attendre 5 jours avant de pouvoir s'en servir à
 nouveau.
-Mouche d’ébène (rare). Cette statuette en ébène
+Mouche d'ébène (rare). Cette statuette en ébène
 représente un taon. Elle se change en mouche
 géante pendant 12 heures et peut alors servir
 de monture. Une fois ce pouvoir utilisé, il faut
-attendre 2 jours avant de pouvoir s’en servir à
+attendre 2 jours avant de pouvoir s'en servir à
 nouveau.
 Lions dorés (rare). Ces statuettes de lions dorés
 sont toujours créées par paire. Vous pouvez utiliser
 une figurine à la fois ou les deux. Chacune peut
-se changer en lion pendant un maximum d’une
-heure. Une fois qu’un lion a été utilisé, il ne peut
+se changer en lion pendant un maximum d'une
+heure. Une fois qu'un lion a été utilisé, il ne peut
 plus servir avant 7 jours.
-Chèvres d’ivoire (rare). Ces statuettes de chèvre
+Chèvres d'ivoire (rare). Ces statuettes de chèvre
 en ivoire sont toujours créées par trois. Elles
 possèdent toutes une apparence unique et fonctionnent
 différemment les unes des autres. Voici
 leurs propriétés.
 La chèvre de voyage peut se changer en chèvre
-de taille G, dotée des mêmes statistiques qu’un
+de taille G, dotée des mêmes statistiques qu'un
 cheval de selle. Elle a 24 charges et chaque
 heure passée ou entamée sous forme de bête en
 consomme une. Vous pouvez utiliser cette chèvre
-aussi souvent que vous le voulez tant qu’il lui
+aussi souvent que vous le voulez tant qu'il lui
 reste des charges, ensuite, elle reprend sa forme
-de figurine et ne peut plus servir jusqu’à ce que 7
+de figurine et ne peut plus servir jusqu'à ce que 7
 jours se soient écoulés. Elle récupère alors toutes
 ses charges.
 La chèvre de travail se transforme en chèvre
 géante pendant un maximum de 3 heures. Une fois
 utilisée, il faut attendre 30 jours avant de pouvoir
-s’en servir à nouveau.
+s'en servir à nouveau.
 La chèvre de terreur se change en chèvre géante
 pendant un maximum de 3 heures. Elle ne peut
 pas attaquer, mais vous pouvez lui retirer ses
-cornes et vous en servir comme armes. L’une
-d’elle se mue en lance +1, l’autre en épée longue +2.
+cornes et vous en servir comme armes. L'une
+d'elle se mue en lance +1, l'autre en épée longue +2.
 Il faut dépenser une action pour retirer une corne.
-L’arme disparaît et la chèvre récupère sa corne
+L'arme disparaît et la chèvre récupère sa corne
 quand elle se transforme de nouveau en statuette.
 De plus, la chèvre émet une aura de terreur dans
 un rayon de 9 mètres quand vous la chevauchez.
@@ -2660,54 +2660,54 @@ Une créature hostile envers vous qui commence
 son tour au sein de cette aura doit réussir un jet
 de sauvegarde de Sagesse DD 15, sans quoi elle a
 peur de la chèvre et reste terrorisée pendant 1 minute
-ou jusqu’à ce que la chèvre redeviennent une
+ou jusqu'à ce que la chèvre redeviennent une
 figurine. La créature terrorisée peut refaire un jet
 de sauvegarde à la fin de chacun de ses tours. Si
-elle en réussit un, l’effet se termine pour elle. Une
-fois qu’une créature a réussi son jet de sauvegarde
-contre cet effet, elle est immunisée contre l’aura
+elle en réussit un, l'effet se termine pour elle. Une
+fois qu'une créature a réussi son jet de sauvegarde
+contre cet effet, elle est immunisée contre l'aura
 de la chèvre pendant 24 heures. Une fois cette
 figurine utilisée, il faut attendre 15 jours avant de
-pouvoir s’en servir à nouveau.
+pouvoir s'en servir à nouveau.
 Éléphant de marbre (rare). Cette statuette de
 marbre fait une dizaine de centimètres de long
 comme de large. Elle peut se changer en éléphant
-pendant 24 heures. Une fois qu’elle a été utilisée,
-il faut attendre 7 jours avant de s’en servir de
+pendant 24 heures. Une fois qu'elle a été utilisée,
+il faut attendre 7 jours avant de s'en servir de
 nouveau.
-Destrier d’ébène (très rare). Ce cheval en obsidienne
+Destrier d'ébène (très rare). Ce cheval en obsidienne
 polie se change en destrier noir pendant
 24 heures. Il se bat seulement pour se défendre
 et, une fois utilisé, il faut attendre 5 jours avant de
-pouvoir s’en servir à nouveau.
-Si vous êtes d’alignement bon, la figurine a 10 %
-de chance d’ignorer vos ordres, y compris celui
+pouvoir s'en servir à nouveau.
+Si vous êtes d'alignement bon, la figurine a 10 %
+de chance d'ignorer vos ordres, y compris celui
 lui intimant de reprendre sa forme de statuette.
 Si vous êtes en selle alors que le destrier ignore
 un de vos ordres, vous êtes instantanément tous
 deux transportés sur un plan des enfers où le destrier
 reprend sa forme de statuette.
-Chien d’onyx (rare). Cette statuette de chien en
+Chien d'onyx (rare). Cette statuette de chien en
 onyx peut se changer en mastiff pendant un maximum
 de 6 heures. Le mastiff a une intelligence de
 8 et parle le commun. Il dispose aussi de la vision
 dans le noir à 18 mètres et discerne les créatures
 et objets invisibles présents dans ce périmètre.
-Une fois utilisé, on ne peut plus s’en servir avant
+Une fois utilisé, on ne peut plus s'en servir avant
 7 jours.
 Chouette de serpentine (rare). Cette statuette en
 serpentine représente une chouette et se change
 en chouette géante pendant un maximum de
 8 heures. Une fois utilisée, il faut attendre 2 jours
-avant de s’en servir à nouveau. La chouette peut
-communiquer avec vous par télépathie sur n’importe
+avant de s'en servir à nouveau. La chouette peut
+communiquer avec vous par télépathie sur n'importe
 quelle distance, tant que vous vous trouvez
-tous sur le même plan d’existence.
-Corbeau d’argent (peu courant). Cette statuette
+tous sur le même plan d'existence.
+Corbeau d'argent (peu courant). Cette statuette
 de corbeau en argent peut se changer en véritable
 corbeau pendant un maximum de 12 heures.
 Ensuite, il faut attendre 2 jours avant de pouvoir
-s’en servir de nouveau. Sous forme de corbeau,
+s'en servir de nouveau. Sous forme de corbeau,
 la figurine vous permet de lancer le sort messager
 animal sur elle à volonté.
 FLASQUE DE FER
@@ -2717,25 +2717,25 @@ bouchon de laiton. Vous pouvez utiliser une
 action pour prononcer le mot de commande de
 la flasque et viser une créature située dans votre
 champ de vision et dans un rayon de 18 mètres
-autour de vous. Si la cible est originaire d’un plan
+autour de vous. Si la cible est originaire d'un plan
 autre que celui sur lequel vous vous trouvez,
 elle doit réussir un jet de sauvegarde de Sagesse
 DD 17. Si elle échoue, elle se retrouve piégée dans
 la flasque. Si la cible a déjà été piégée dans cette
-flasque auparavant, elle obtient l’avantage lors
+flasque auparavant, elle obtient l'avantage lors
 du jet de sauvegarde. La flasque ne peut contenir
-qu’une créature à la fois. Une créature prisonnière
-de la flasque n’a pas besoin de respirer, de manger
+qu'une créature à la fois. Une créature prisonnière
+de la flasque n'a pas besoin de respirer, de manger
 ni de boire.
 Vous pouvez utiliser une action pour déboucher
-la flasque et libérer la créature qu’elle
+la flasque et libérer la créature qu'elle
 contient. Elle se montre amicale envers vous et
 vos compagnons pendant 1 heure et vous obéit
 pendant tout ce temps. Si vous ne donnez pas
-d’ordre à la créature ou que vous lui donnez des
+d'ordre à la créature ou que vous lui donnez des
 directives qui se solderont probablement par
-sa mort, elle se défend mais n’entreprend pas
-d’autres actions. À la fin de l’heure, la créature agit
+sa mort, elle se défend mais n'entreprend pas
+d'autres actions. À la fin de l'heure, la créature agit
 en accord avec son caractère et son alignement
 habituels.
 Le sort identification révèle si la flasque contient
@@ -2767,7 +2767,7 @@ FLÈCHE TUEUSE
 Arme (flèche), très rare
 Une flèche tueuse est une arme magique conçue
 pour tuer un type précis de créature. Certaines
-sont plus spécialisées que d’autres : il existe par
+sont plus spécialisées que d'autres : il existe par
 exemple des flèches tueuses de dragons et des
 flèches tueuses de dragons bleus. Si une créature
 appartient au type, à la race ou au groupe associé
@@ -2778,7 +2778,7 @@ la moitié seulement si elle réussit.
 Dès que la flèche tueuse a infligé des dégâts supplémentaires
 à une créature, elle redevient une
 simple flèche ordinaire.
-Il existe d’autres munitions magiques similaires,
+Il existe d'autres munitions magiques similaires,
 comme des carreaux tueurs pour les arbalètes,
 mais les flèches restent les plus répandues.
 FLÛTE DES ÉGOUTS
@@ -2794,33 +2794,33 @@ La flûte a trois charges. Si vous utilisez une
 action pour jouer de la flûte, vous pouvez dépenser
 une action bonus pour utiliser de 1 à 3 charges
 et appeler une nuée de rats par charge dépensée,
-à condition qu’il y ait assez de rats dans un rayon
-d’un kilomètre pour répondre ainsi à votre appel
-(c’est au MJ d’en décider). S’il n’y a pas assez de
+à condition qu'il y ait assez de rats dans un rayon
+d'un kilomètre pour répondre ainsi à votre appel
+(c'est au MJ d'en décider). S'il n'y a pas assez de
 rats pour former une nuée, la charge est gaspillée.
-Une nuée ainsi appelée se précipite vers l’origine
+Une nuée ainsi appelée se précipite vers l'origine
 de la musique par le chemin le plus court, mais
-vous ne la contrôlez pas. Chaque jour à l’aube, la
+vous ne la contrôlez pas. Chaque jour à l'aube, la
 flûte récupère 1d3 charges dépensées.
 Quand une nuée de rats qui ne se trouve pas
-sous le contrôle d’une tierce personne arrive dans
+sous le contrôle d'une tierce personne arrive dans
 un rayon de 9 mètres autour de vous alors que
 vous jouez de la flûte, vous pouvez faire un test de
 Charisme opposé au test de Sagesse de la nuée. Si
 vous perdez, la nuée se comporte comme elle le
-ferait d’ordinaire et ne se laisse plus influencer par
+ferait d'ordinaire et ne se laisse plus influencer par
 la musique de la flûte pendant les 24 heures qui
-suivent. Si vous l’emportez, la nuée est envoûtée
+suivent. Si vous l'emportez, la nuée est envoûtée
 par votre mélodie et se montre amicale envers
 vous et vos compagnons tant que vous continuez
 de jouer en dépensant une action à chaque round.
-Une nuée amicale obéit à vos ordres. Si vous n’en
+Une nuée amicale obéit à vos ordres. Si vous n'en
 donnez pas, elle se défend mais, en dehors de
-cela, elle n’entreprend pas la moindre action. Si
+cela, elle n'entreprend pas la moindre action. Si
 une nuée est amicale mais débute son tour dans
-l’incapacité d’entendre la flûte, vous en perdez
+l'incapacité d'entendre la flûte, vous en perdez
 le contrôle et elle se comporte comme le veut sa
-nature. La musique de la flûte ne l’influence plus
+nature. La musique de la flûte ne l'influence plus
 pendant les 24 heures suivantes.
 FLÛTE TERRIFIANTE
 Objet merveilleux, peu courant
@@ -2837,11 +2837,11 @@ les créatures qui ne sont pas hostiles envers vous
 mais sont présentes dans la zone réussissent
 automatiquement leur jet de sauvegarde. Une
 créature qui a raté son jet de sauvegarde peut
-le refaire à la fin de chacun de ses tours. L’effet
-se termine pour elle dès qu’elle le réussit. Si une
+le refaire à la fin de chacun de ses tours. L'effet
+se termine pour elle dès qu'elle le réussit. Si une
 créature réussit son jet de sauvegarde contre la
 flûte, elle est immunisée contre ses effets pendant
-24 heures. Chaque matin à l’aube, la flûte récupère
+24 heures. Chaque matin à l'aube, la flûte récupère
 1d3 charges dépensées.
 FORTERESSE INSTANTANÉE
 Objet merveilleux, rare
@@ -2849,22 +2849,22 @@ Vous pouvez utiliser une action pour poser
 ce tube de métal de 2,5 centimètres à terre et
 prononcer son mot de commande. Il grandit
 rapidement pour se muer en forteresse. Il reste
-sous cette forme jusqu’à ce que vous dépensiez
+sous cette forme jusqu'à ce que vous dépensiez
 une action pour prononcer le mot de commande
 permettant de la révoquer (ce qui fonctionne
 uniquement si elle est vide).
 La forteresse est une tour carrée de 6 mètres
 de côté pour 9 mètres de haut. Tous ses murs sont
 percés de meurtrières et couronnés de créneaux.
-L’intérieur se divise en deux étages, reliés par une
-échelle courant le long d’un mur. Elle se termine
+L'intérieur se divise en deux étages, reliés par une
+échelle courant le long d'un mur. Elle se termine
 sur une trappe donnant sur le toit. Quand vous
 activez la tour, elle apparaît avec une petite porte
-en face de vous. Elle s’ouvre uniquement sur votre
+en face de vous. Elle s'ouvre uniquement sur votre
 ordre, quand vous prononcez le mot de commande
 par une action bonus. Elle est immunisée
 contre le sort déblocage et les magies similaires,
-comme celle d’un carillon d’ouverture.
+comme celle d'un carillon d'ouverture.
 Chaque créature qui se trouve dans la zone
 lorsque la forteresse se déploie doit faire un jet
 de sauvegarde de Dextérité DD 15. Celles qui
@@ -2874,30 +2874,30 @@ la créature est repoussée dans un emplacement
 inoccupé situé hors de la zone que recouvre la forteresse,
 mais adjacente à elle. Les objets présents
 dans la zone subissent automatiquement des
-dégâts et sont repoussés, à moins qu’ils ne soient
-équipés ou transportés par quelqu’un.
+dégâts et sont repoussés, à moins qu'ils ne soient
+équipés ou transportés par quelqu'un.
 La tour est faite en adamantium et sa magie
-empêche qu’une force extérieure la renverse. Le
+empêche qu'une force extérieure la renverse. Le
 toit, la porte et les murs ont tous 100 points de vie
 et sont immunisés contre les dégâts des armes
 non-magiques, mais pas contre ceux des armes
 de siège. Ils sont résistants contre tous les autres
 types de dégâts. Il est impossible de réparer la
 forteresse, à moins de recourir au sort de souhait
-(cette utilisation est assimilée à une copie d’un
+(cette utilisation est assimilée à une copie d'un
 sort de niveau 8 ou inférieur). Chaque souhait ainsi
 utilisé rend 50 points de vie au toit, à la porte ou à
 un mur.
-GANTELETS DE PUISSANCE D’OGRE
+GANTELETS DE PUISSANCE D'OGRE
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez ces gants, votre valeur de
 Force est de 19. Si elle est déjà de 19 ou plus, ils
-n’ont aucun effet sur vous.
-GANTS DE NAGE ET D’ESCALADE
+n'ont aucun effet sur vous.
+GANTS DE NAGE ET D'ESCALADE
 Objet merveilleux, peu courant (harmonisation
 requise)
-Tant que vous portez ces gants, la natation et l’escalade
+Tant que vous portez ces gants, la natation et l'escalade
 ne vous demandent pas de déplacement
 supplémentaire et vous gagnez un bonus de +5
 aux tests de Force (Athlétisme) pour grimper ou
@@ -2907,14 +2907,14 @@ Objet merveilleux, peu courant (harmonisation
 requise)
 Quand vous enfliez ces gants, ils semblent
 presque fusionner avec votre peau. Quand vous
-êtes touché par une attaque d’arme à distance
+êtes touché par une attaque d'arme à distance
 alors que vous les portez, vous pouvez utiliser
 votre réaction pour réduire les dégâts subis de
 1d10 + votre modificateur de Dextérité, à condition
 que vous ayez une main libre. Si vous réduisez les
-dégâts à 0, vous attrapez le projectile (s’il est de
+dégâts à 0, vous attrapez le projectile (s'il est de
 taille assez réduite pour que vous puissiez le tenir
-d’une main).
+d'une main).
 GEMME DE VISION
 Objet merveilleux, rare (harmonisation requise)
 Cette gemme a 3 charges. Vous pouvez prononcer
@@ -2923,34 +2923,34 @@ une charge. Pendant les 10 minutes suivantes,
 vous disposez de la vision parfaite dans un rayon
 de 36 mètres, à condition de regarder à travers la
 gemme.
-Chaque matin à l’aube, la gemme récupère
+Chaque matin à l'aube, la gemme récupère
 1d3 charges dépensées.
 GEMME ÉLÉMENTAIRE
 Objet merveilleux, peu courant
-Cette gemme contient une particule d’énergie
+Cette gemme contient une particule d'énergie
 élémentaire. Quand vous brisez la gemme par une
 action, un élémentaire apparaît, comme si vous
-l’aviez invoqué avec un sort d’invocation d’élémentaire
-et la gemme perd toute magie. Le type d’élémentaire
+l'aviez invoqué avec un sort d'invocation d'élémentaire
+et la gemme perd toute magie. Le type d'élémentaire
 invoqué dépend de la gemme utilisée.
 Gemme Élémentaire invoqué
-Saphir bleu Élémentaire de l’air
+Saphir bleu Élémentaire de l'air
 Diamant jaune Élémentaire de la terre
 Corindon rouge Élémentaire du feu
-Émeraude Élémentaire de l’eau
+Émeraude Élémentaire de l'eau
 GEMME LUMINEUSE
 Objet merveilleux, rare
 Ce prisme a 50 charges. Tant que vous le tenez,
 vous pouvez utiliser une action pour prononcer
-l’un des trois mots de commande qui provoquent
-l’un des effets suivants.
+l'un des trois mots de commande qui provoquent
+l'un des effets suivants.
 Grâce au premier mot de commande, la
 gemme émet une vive lumière dans un rayon de
 9 mètres et une faible lumière dans un rayon de
 9 mètres de plus. Cet effet ne dépense aucune
-charge. Il se maintient jusqu’à ce que vous utilisiez
+charge. Il se maintient jusqu'à ce que vous utilisiez
 une action bonus pour répéter le mot de commande
-ou jusqu’à ce que vous utilisiez une autre
+ou jusqu'à ce que vous utilisiez une autre
 fonction de la gemme.
 Le second mot de commande dépense 1 charge
 et fait jaillir un rayon de lumière de la gemme. Il
@@ -2959,8 +2959,8 @@ va frapper une créature située dans un rayon de
 créature doit réussir un jet de sauvegarde DD 15,
 sans quoi elle est aveuglée pendant 1 minute. Elle
 peut refaire ce jet de sauvegarde à la fin de chacun
-de ses tours, jusqu’à ce qu’elle le réussisse, ce qui
-met fin à l’essai.
+de ses tours, jusqu'à ce qu'elle le réussisse, ce qui
+met fin à l'essai.
 Le troisième mot de commande dépense
 5 charges et génère une explosion de lumière
 dans un cône de 9 mètres partant de la gemme.
@@ -2969,11 +2969,11 @@ réussir un jet de sauvegarde comme si elle était
 touchée par le rayon de lumière né du deuxième
 mot de commande.
 Quand la gemme a épuisé toutes ses charges,
-elle devient un joyau dépourvu de magie d’une
+elle devient un joyau dépourvu de magie d'une
 valeur de 50 po.
 HACHE DU BERSERKER
 Arme (hache), rare (harmonisation requise)
-Vous gagnez un bonus de +1 aux jets d’attaque
+Vous gagnez un bonus de +1 aux jets d'attaque
 et de dégâts liés à cette arme magique. De plus,
 tant que vous êtes harmonisé avec elle, votre
 maximum de points de vie augmente de 1 par
@@ -2984,9 +2984,9 @@ harmonisez avec elle. Tant que vous êtes maudit,
 vous refusez catégoriquement de vous séparer de
 la hache et la gardez à portée de main en toute
 circonstance. Vous subissez un désavantage si
-vous effectuez un jet d’attaque avec une autre
-arme, à moins que vous ne voyiez et n’entendiez
-pas d’ennemis dans un rayon de 18 mètres.
+vous effectuez un jet d'attaque avec une autre
+arme, à moins que vous ne voyiez et n'entendiez
+pas d'ennemis dans un rayon de 18 mètres.
 Quand une créature hostile vous blesse alors
 que vous êtes en possession de cette hache, vous
 devez réussir un jet de sauvegarde de Sagesse
@@ -2994,13 +2994,13 @@ DD 15 ou devenir fou furieux. Dans ce cas, vous
 devez utiliser votre action du round pour attaquer
 la créature la plus proche de vous avec la hache.
 Si vous êtes en mesure de porter des attaques
-supplémentaires lors d’une action d’Attaque,
+supplémentaires lors d'une action d'Attaque,
 vous le faites et vous vous déplacez pour attaquer
 la créature la plus proche après votre cible
 actuelle une fois que vous avez éliminé celle-ci. Si
 vous avez plusieurs cibles à disposition, vous en
 attaquez une au hasard. Vous restez fou furieux
-jusqu’à ce que vous commenciez votre tour sans
+jusqu'à ce que vous commenciez votre tour sans
 la moindre créature visible ou audible dans un
 rayon de 18 mètres.
 HARNOIS ÉTHÉRÉ
@@ -3009,57 +3009,57 @@ requise)
 Tant que vous portez cette armure, vous pouvez
 prononcer son mot de commande par une action
 pour bénéficier des effets du sort forme éthérée
-pendant 10 minutes, jusqu’à ce que vous retiriez
-l’armure ou jusqu’à ce que vous dépensiez une
+pendant 10 minutes, jusqu'à ce que vous retiriez
+l'armure ou jusqu'à ce que vous dépensiez une
 action pour prononcer de nouveau le mot de
-commande. Ensuite, vous devez attendre l’aube
-suivante avant d’utiliser de nouveau ce pouvoir.
+commande. Ensuite, vous devez attendre l'aube
+suivante avant d'utiliser de nouveau ce pouvoir.
 HARNOIS NAIN
 Armure (harnois), très rare
 Tant que vous portez cette armure, vous gagnez
 un bonus de +2 à la CA. De plus, si un effet vous déplace
 contre votre gré, vous pouvez utiliser votre
-réaction pour réduire la distance parcourue d’un
+réaction pour réduire la distance parcourue d'un
 maximum de 3 mètres.
 HAVRESAC MAGIQUE
 Objet merveilleux, rare
-Ce sac à dos dispose d’une poche centrale et de
+Ce sac à dos dispose d'une poche centrale et de
 deux poches latérales, chacune donnant sur un
 espace extradimensionnel. Chaque poche latérale
-peut recevoir jusqu’à 10 kilos de matériel, sans
+peut recevoir jusqu'à 10 kilos de matériel, sans
 dépasser un volume de 30 litres. La grande poche
-centrale peut accueillir jusqu’à 120 litres ou 40 kilos
+centrale peut accueillir jusqu'à 120 litres ou 40 kilos
 de matériel. Le sac pèse toujours 2,5 kilos, quel
 que soit son contenu.
 Pour placer un objet dans le havresac, vous
-devez suivre les règles habituelles d’interaction
+devez suivre les règles habituelles d'interaction
 avec les objets. Pour récupérer un objet dans le
 sac, vous devez dépenser une action. Quand vous
 plongez la main dans le havresac pour y prendre
 un objet précis, ce dernier se trouve toujours par
 magie au sommet de la pile.
-Le havresac a quelques limites. S’il est surchargé
+Le havresac a quelques limites. S'il est surchargé
 ou si un objet pointu le perce ou le lacère,
 il se déchire et il est détruit. À sa destruction, son
 contenu est perdu à jamais, bien que les artefacts
 finissent toujours par réapparaître quelque part.
-Si on retourne le sac pour le mettre sur l’envers,
+Si on retourne le sac pour le mettre sur l'envers,
 son contenu se répand à terre, sans dommage, et
-il faut remettre le sac sur l’endroit avant de s’en
-servir de nouveau. Si l’on place une créature qui a
+il faut remettre le sac sur l'endroit avant de s'en
+servir de nouveau. Si l'on place une créature qui a
 besoin de respirer dans le havresac, elle survit au
 maximum 10 minutes, ensuite, elle commence à
 suffoquer.
-Si l’on place le havresac dans l’espace extradimensionnel
-né d’un sac sans fond, d’un puits
-portatif ou d’un objet similaire, les deux objets
-sont instantanément détruis et un portail s’ouvre
-vers le plan Astral. Il apparaît là où l’on a placé le
+Si l'on place le havresac dans l'espace extradimensionnel
+né d'un sac sans fond, d'un puits
+portatif ou d'un objet similaire, les deux objets
+sont instantanément détruis et un portail s'ouvre
+vers le plan Astral. Il apparaît là où l'on a placé le
 premier objet dans le second et toutes les créatures
 situées dans un rayon de 3 mètres autour de
 ce portail sont emportées vers un endroit aléatoire
 du plan Astral. Le portail se referme ensuite,
-sachant qu’il est à sens unique et qu’il est impossible
+sachant qu'il est à sens unique et qu'il est impossible
 de le rouvrir.
 HEAUME DE COMPRÉHENSION DES LANGAGES
 Objet merveilleux, peu courant
@@ -3080,15 +3080,15 @@ bonus) tant que vous restez concentré sur elle.
 Tant que vous vous concentrez sur une créature
 avec détection des pensées, vous pouvez utiliser
 une action pour lancer le sort suggestion (DD 13)
-sur elle par l’intermédiaire du heaume. Une fois
+sur elle par l'intermédiaire du heaume. Une fois
 que vous avez utilisé ce pouvoir, vous devez attendre
-l’aube suivante avant de pouvoir recommencer.
+l'aube suivante avant de pouvoir recommencer.
 HEAUME DE TÉLÉPORTATION
 Objet merveilleux, rare (harmonisation requise)
 Ce heaume possède 3 charges. Tant que vous
 le portez, vous pouvez utiliser une action pour
 dépenser 1 charge et lancer téléportation par son
-intermédiaire. Chaque matin à l’aube, il récupère
+intermédiaire. Chaque matin à l'aube, il récupère
 1d3 charges dépensées.
 HEAUME SCINTILLANT
 Objet merveilleux, très rare (harmonisation
@@ -3102,19 +3102,19 @@ ou arrachées.
 Tant que vous portez le heaume, vous bénéficiez
 des avantages suivants :
 * Vous pouvez utiliser une action pour lancer
-l’un des sorts suivants (DD 18) en utilisant
+l'un des sorts suivants (DD 18) en utilisant
 une gemme du type indiqué comme composante
 : lumière du jour (opale), boule de feu
 (opale de feu), rayon prismatique (diamant) ou
 mur de feu (rubis). La gemme est détruite au
-moment de l’incantation et disparaît.
+moment de l'incantation et disparaît.
 Tant que le heaume possède encore au moins
 un diamant, il émet une faible lumière dans
 un rayon de 9 mètres quand il y a au moins un
 mort-vivant dans ce même rayon. Tout mort-vivant
 qui débute son tour dans cette zone subit 1d6
 dégâts radiants.
-Tant qu’il reste au moins un rubis sur le
+Tant qu'il reste au moins un rubis sur le
 heaume, vous êtes résistant aux dégâts de feu.
 Tant que le heaume possède au moins une
 opale de feu, vous pouvez utiliser une action
@@ -3125,14 +3125,14 @@ un rayon de 3 mètres et une faible lumière dans
 un rayon de 3 mètres de plus. Les flammes ne
 causent aucun dégât à votre personne ni à votre
 arme, en revanche, quand vous attaquez avec
-l’arme enflammée et touchez votre cible, vous lui
+l'arme enflammée et touchez votre cible, vous lui
 infligez 1d6 dégâts de feu supplémentaires. Les
-flammes persistent jusqu’à ce que vous utilisiez
+flammes persistent jusqu'à ce que vous utilisiez
 une action bonus pour prononcer de nouveau le
-mot de commande ou que vous lâchiez l’arme ou
+mot de commande ou que vous lâchiez l'arme ou
 la rengainiez.
 Lancez 1d20 si vous portez le heaume et
-subissez des dégâts de feu à cause d’un échec à
+subissez des dégâts de feu à cause d'un échec à
 un jet de sauvegarde contre un sort. Sur un 1, les
 gemmes encore présentes émettent des rayons
 de lumière. Chaque créature (autre que vous)
@@ -3142,41 +3142,41 @@ Dextérité DD 17, sans quoi un rayon la frappe et lui
 inflige des dégâts radiants égaux au nombre de
 gemmes restant sur le heaume. Le heaume et ses
 gemmes sont ensuite détruits.
-HUILE D’AFFÛTAGE
+HUILE D'AFFÛTAGE
 Potion, très rare
 Cette huile claire et gélatineuse est constellée de
-minuscules paillettes d’argent. On peut s’en servir
+minuscules paillettes d'argent. On peut s'en servir
 pour enduire une arme tranchante ou perforante
 ou bien 5 munitions tranchantes ou perforantes
 au maximum. Il faut 1 minute pour appliquer
-l’huile, ensuite, l’objet enduit devient magique
-et doté d’un bonus de +3 aux jets d’attaque et de
+l'huile, ensuite, l'objet enduit devient magique
+et doté d'un bonus de +3 aux jets d'attaque et de
 dégâts pendant 1 heure.
 HUILE ÉTHÉRÉE
 Potion, rare
-L’huile d’un gris trouble contenue dans ce récipient
+L'huile d'un gris trouble contenue dans ce récipient
 forme des perles sur sa paroi externe, mais
-elles s’évaporent rapidement. On peut recouvrir
-une créature de taille M ou inférieure avec l’huile,
+elles s'évaporent rapidement. On peut recouvrir
+une créature de taille M ou inférieure avec l'huile,
 ainsi que tout son équipement et tous les objets
 en sa possession (il faut vider une fiole de plus par
 catégorie de taille au-dessus de M si la créature
 est plus grande). Il faut 10 minutes pour appliquer
-l’huile correctement. La créature affectée bénéficie
+l'huile correctement. La créature affectée bénéficie
 alors des effets du sort forme éthérée pendant
 1 heure.
 HUILE GLISSANTE
 Potion, peu courante
-Cet épais onguent noir est dense et lourd tant qu’il
+Cet épais onguent noir est dense et lourd tant qu'il
 reste dans son récipient, mais il coule avec fluidité
-dès qu’on le verse. Il permet de recouvrir une
+dès qu'on le verse. Il permet de recouvrir une
 créature de taille M ou inférieure (il faut verser
 une fiole de plus pour chaque catégorie de taille
 au-dessus de M). Il faut 10 minutes pour appliquer
-l’huile. La créature affectée bénéficie alors
+l'huile. La créature affectée bénéficie alors
 des effets du sort liberté de mouvement pendant
 8 heures.
-Sinon, vous pouvez verser l’huile à terre par
+Sinon, vous pouvez verser l'huile à terre par
 une action. Elle recouvre une zone de 3 mètres de
 côté
 JAVELINE DE FOUDRE
@@ -3184,47 +3184,47 @@ Arme (javeline), peu courante
 Cette javeline est une arme magique. Quand vous
 la lancez et prononcez son mot de commande,
 elle se transforme en éclair, formant une ligne de
-1,50 mètre de large qui s’étend de votre personne
-jusqu’à une cible située à une distance maximale
+1,50 mètre de large qui s'étend de votre personne
+jusqu'à une cible située à une distance maximale
 de 36 mètres. Chaque créature présente
-sur cette ligne, à l’exception de vous et de votre
+sur cette ligne, à l'exception de vous et de votre
 cible, doit faire un jet de sauvegarde de Dextérité
 DD 13. Celles qui échouent subissent 4d6 points
 de dégâts de foudre, les autres la moitié seulement.
-L’éclair reprend sa forme de javeline quand
-il atteint sa cible. Faites une attaque d’arme à
+L'éclair reprend sa forme de javeline quand
+il atteint sa cible. Faites une attaque d'arme à
 distance contre elle. Si vous touchez, la cible subit
 les dégâts habituels de la javeline plus 4d6 dégâts
 de foudre.
-Il faut attendre l’aube suivante pour se servir
+Il faut attendre l'aube suivante pour se servir
 de nouveau de cette propriété de la javeline. En
 attendant, elle fonctionne tout de même comme
 une arme magique.
 LAME PORTE-BONHEUR
 Arme (épée), légendaire (harmonisation requise)
-Vous gagnez un bonus de +1 aux jets d’attaque et
-de dégâts avec cette arme magique. Tant qu’elle
+Vous gagnez un bonus de +1 aux jets d'attaque et
+de dégâts avec cette arme magique. Tant qu'elle
 se trouve en votre possession, vous gagnez un
 bonus de +1 aux jets de sauvegarde.
-Chance. Si l’épée se trouve sur votre personne,
+Chance. Si l'épée se trouve sur votre personne,
 vous pouvez faire appel à sa chance (sans faire
-d’action) pour relancer un jet d’attaque, un test de
+d'action) pour relancer un jet d'attaque, un test de
 caractéristique ou un jet de sauvegarde qui vous
 déplaît. Vous devez conserver le résultat du second
-jet. Il faut attendre l’aube suivante avant de
+jet. Il faut attendre l'aube suivante avant de
 pouvoir se servir de nouveau de cette propriété.
-Souhait. L’épée dispose de 1d4-1 charges. Tant
-qu’elle se trouve en votre possession, vous pouvez
+Souhait. L'épée dispose de 1d4-1 charges. Tant
+qu'elle se trouve en votre possession, vous pouvez
 utiliser une action pour dépenser une charge
 et lancer le sort souhait. Il est impossible de se
-servir de nouveau de cette propriété avant l’aube
-suivante. L’épée perd ce pouvoir si elle n’a plus de
+servir de nouveau de cette propriété avant l'aube
+suivante. L'épée perd ce pouvoir si elle n'a plus de
 charge.
 LANTERNE DE RÉVÉLATION
 Objet merveilleux, peu courant
 Quand cette lanterne à capote est allumée, elle
 brûle pendant 6 heures en consommant 0,5 litre
-d’huile. Elle émet alors une vive lumière dans
+d'huile. Elle émet alors une vive lumière dans
 un rayon de 9 mètres et une faible lumière dans
 un rayon de 9 mètres de plus. Les créatures et
 les objets invisibles situés dans la zone de vive
@@ -3236,8 +3236,8 @@ LENTILLES DE NETTETÉ
 Objet merveilleux, peu courant
 Ces lentilles de cristal se portent sur les yeux. Tant
 que vous les portez, votre vue est bien meilleure
-que d’habitude dans un rayon de 30 centimètres.
-Vous obtenez l’avantage lors des tests d’Intelligence
+que d'habitude dans un rayon de 30 centimètres.
+Vous obtenez l'avantage lors des tests d'Intelligence
 (Investigation) basés sur la vue quand vous
 fouillez une zone ou étudiez un objet situé dans
 ce rayon.
@@ -3250,11 +3250,11 @@ et lancer la sphère sur une créature de taille TG
 ou inférieure située dans votre champ de vision
 et dans un rayon de 18 mètres autour de vous. La
 sphère se déploie en un entrelacs de bandes de
-métal alors qu’elle file dans les airs.
-Faites un jet d’attaque à distance avec un bonus
-d’attaque égal à votre modificateur de Dextérité
+métal alors qu'elle file dans les airs.
+Faites un jet d'attaque à distance avec un bonus
+d'attaque égal à votre modificateur de Dextérité
 plus votre bonus de maîtrise. Si vous touchez
-votre cible, elle est entravée jusqu’à ce que vous
+votre cible, elle est entravée jusqu'à ce que vous
 dépensiez une action bonus pour prononcer le
 mot de commande afin de la libérer. Dans ce cas,
 ou si vous ratez votre cible, les bandes de métal se
@@ -3262,12 +3262,12 @@ rétractent et reprennent leur forme de sphère.
 Une créature (y compris la victime entravée)
 peut utiliser une action pour faire un test de
 Force DD 20 pour briser les liens de fer. Si elle
-réussit, l’objet est détruit et la créature entravée
+réussit, l'objet est détruit et la créature entravée
 est libérée. Si la créature rate son test, toutes ses
 tentatives ultérieures échouent automatiquement
 pendant les 24 heures suivantes.
-Une fois les fers utilisés, il faut attendre l’aube
-prochaine pour s’en servir à nouveau.
+Une fois les fers utilisés, il faut attendre l'aube
+prochaine pour s'en servir à nouveau.
 LUNETTES NOCTURNES
 Objet merveilleux, peu courant
 Quand vous portez ces verres sombres, vous bénéficiez
@@ -3277,39 +3277,39 @@ de 18 mètres.
 MANTEAU DE RÉSISTANCE AUX SORTS
 Objet merveilleux, rare (harmonisation requise)
 Tant que vous portez ce manteau, vous obtenez
-l’avantage lors des jets de sauvegarde contre les
+l'avantage lors des jets de sauvegarde contre les
 sorts.
 MANUEL DE BONNE SANTÉ
 Objet merveilleux, très rare
 Ce livre contient des conseils pour rester en
-bonne santé et s’alimenter sainement, et ses
+bonne santé et s'alimenter sainement, et ses
 mots sont chargés de magie. Si vous passez
 48 heures sur une période de 6 jours au moins à
 étudier ce livre et appliquer ses conseils, votre valeur
 de Constitution augmente de 2, tout comme
 votre maximum pour cette valeur. Le manuel
 perd alors toute magie, mais elle se recharge au
-bout d’un siècle.
-MANUEL D’EXERCICES PHYSIQUES
+bout d'un siècle.
+MANUEL D'EXERCICES PHYSIQUES
 Objet merveilleux, très rare
-Ce livre propose des exercices d’entretien musculaire,
+Ce livre propose des exercices d'entretien musculaire,
 et ses mots sont chargés de magie. Si vous
 passez 48 heures sur une période de 6 jours au
 moins à étudier ce livre et appliquer ses conseils,
 votre valeur de Force augmente de 2, tout comme
 votre maximum pour cette valeur. Le manuel perd
 alors toute magie mais elle se recharge au bout
-d’un siècle.
+d'un siècle.
 MANUEL DES GOLEMS
 Objet merveilleux, très rare
 Ce livre présente des informations et des incantations
-nécessaires à la fabrication d’un certain type
-de golems. C’est au MJ de choisir ce type ou de le
+nécessaires à la fabrication d'un certain type
+de golems. C'est au MJ de choisir ce type ou de le
 déterminer au hasard. Pour déchiffrer le manuel
 et vous en servir, vous devez être un incantateur
-disposant d’au moins deux emplacements de sort
+disposant d'au moins deux emplacements de sort
 de niveau 5. Si une créature tente de lire le manuel
-des golems alors qu’elle est incapable de s’en servir,
+des golems alors qu'elle est incapable de s'en servir,
 elle subit 6d6 dégâts psychiques.
 d20 Golem Durée Prix
 1-5 Argile 30 jours 65 000 po
@@ -3324,63 +3324,63 @@ reposer plus de 8 heures par jour. Vous devez
 fournitures.
 Dès que vous avez achevé la construction du
 golem, le manuel se consume dans des flammes
-surnaturelles. Le golem s’anime une fois que vous
-l’avez saupoudré avec les cendres du livre. Il est
+surnaturelles. Le golem s'anime une fois que vous
+l'avez saupoudré avec les cendres du livre. Il est
 sous votre contrôle, comprend vos ordres vocaux
 et leur obéit.
 MANUEL DE VIVACITÉ
 Objet merveilleux, très rare
-Ce livre propose des exercices d’équilibre et de
+Ce livre propose des exercices d'équilibre et de
 coordination, et ses mots sont chargés de magie.
 Si vous passez 48 heures sur une période de
 6 jours au moins à étudier ce livre et appliquer ses
 conseils, votre valeur de Dextérité augmente de 2,
 tout comme votre maximum pour cette valeur.
 Le manuel perd alors toute magie mais elle se
-recharge au bout d’un siècle.
+recharge au bout d'un siècle.
 MARTEAU DE LANCER NAIN
 Arme (marteau de guerre), très rare (harmonisation
 requise avec un nain)
-Vous gagnez un bonus de +3 aux jets d’attaque et
+Vous gagnez un bonus de +3 aux jets d'attaque et
 de dégâts avec cette arme magique. Elle dispose
 de la propriété de lancer à une portée normale
 de 6 mètres et une longue portée de 18 mètres.
 Quand vous touchez votre cible avec une attaque
 à distance effectuée avec cette arme, elle inflige
 1d8 dégâts supplémentaires ou 2d8 dégâts supplémentaires
-si la cible est un géant. L’arme revient
-dans votre main immédiatement après l’attaque.
+si la cible est un géant. L'arme revient
+dans votre main immédiatement après l'attaque.
 MARTEAU DU TONNERRE
-Arme (maillet d’armes), légendaire
-Vous gagnez un bonus de +1 aux jets d’attaque et
+Arme (maillet d'armes), légendaire
+Vous gagnez un bonus de +1 aux jets d'attaque et
 de dégâts effectués avec cette arme magique.
 Tueur de géant (harmonisation requise). Pour
 vous harmoniser avec cette arme, vous devez
 porter un ceinturon de force de géant et des gantelets
-de puissance d’ogre. L’harmonisation se rompt
-si vous ôtez l’un de ces objets. Tant que vous êtes
+de puissance d'ogre. L'harmonisation se rompt
+si vous ôtez l'un de ces objets. Tant que vous êtes
 harmonisé avec cette arme et que vous la tenez en
 main, votre valeur de Force augmente de 4 et peut
 dépasser 20, mais pas 30. Quand vous obtenez un
-20 au dé sur un jet d’attaque effectué avec cette
+20 au dé sur un jet d'attaque effectué avec cette
 arme contre un géant, ce dernier doit réussir un
 jet de sauvegarde de Constitution DD 17 ou mourir
 sur-le-champ.
 Le marteau dispose de 5 charges. Tant que vous
 êtes harmonisé avec lui, vous pouvez dépenser
-une charge pour faire une attaque d’arme à
-distance avec lui et le lancer comme s’il disposait
+une charge pour faire une attaque d'arme à
+distance avec lui et le lancer comme s'il disposait
 de la propriété lancer avec une portée normale
 de 6 mètres et une portée longue de 18 mètres.
-Si l’attaque touche, le marteau fait résonner un
-coup de tonnerre qui s’entend dans un rayon de
+Si l'attaque touche, le marteau fait résonner un
+coup de tonnerre qui s'entend dans un rayon de
 90 mètres. La cible et toutes les créatures situées
-dans un rayon de 9 mètres autour d’elle doivent
+dans un rayon de 9 mètres autour d'elle doivent
 réussir un jet de sauvegarde de Constitution ou se
-trouver étourdies jusqu’à la fin de votre prochain
-tour. Chaque matin à l’aube, le marteau récupère
+trouver étourdies jusqu'à la fin de votre prochain
+tour. Chaque matin à l'aube, le marteau récupère
 1d4+1 charges dépensées.
-MASSE D’ANÉANTISSEMENT
+MASSE D'ANÉANTISSEMENT
 Arme (masse), rare (harmonisation requise)
 Quand vous touchez un fiélon ou un mort-vivant
 avec cette arme magique, cette créature subit
@@ -3389,7 +3389,7 @@ retrouve avec 25 points de vie ou moins après avoir
 subi ces dégâts, elle doit réussir un jet de sauvegarde
 de Sagesse DD 15, sans quoi elle est détruite. Si
 elle réussit son jet de sauvegarde, elle est terrorisée :
-elle a peur de vous jusqu’à la fin de votre prochain
+elle a peur de vous jusqu'à la fin de votre prochain
 tour.
 Tant que vous tenez cette arme en main, elle
 émet une vive lumière dans un rayon de 6 mètres
@@ -3397,13 +3397,13 @@ et une faible lumière dans un rayon de 6 mètres
 supplémentaires.
 MASSE DESTRUCTRICE
 Arme (masse), rare
-Vous gagnez un bonus de +1 aux jets d’attaque
+Vous gagnez un bonus de +1 aux jets d'attaque
 et de dégâts avec cette arme magique. Ce bonus
-passe à +3 si vous l’utilisez contre une créature
+passe à +3 si vous l'utilisez contre une créature
 artificielle.
-Quand vous obtenez un 20 sur un jet d’attaque
+Quand vous obtenez un 20 sur un jet d'attaque
 effectué avec cette arme, la cible subit 2d6 dégâts
-contondants supplémentaires ou 4d6 si c’est une
+contondants supplémentaires ou 4d6 si c'est une
 créature artificielle. Si une créature artificielle a
 seulement 25 points de vie ou moins après avoir
 subi de tels dégâts, elle est détruite.
@@ -3416,20 +3416,20 @@ de terreur. Les créatures de votre choix se trouvant
 dans un rayon de 9 mètres autour de vous
 doivent réussir un jet de sauvegarde de Sagesse
 DD 15, sans quoi elles sont terrorisées et ont peur
-de vous pendant 1 minute. Tant qu’une créature
-est ainsi terrorisée, elle s’efforce de s’éloigner au
+de vous pendant 1 minute. Tant qu'une créature
+est ainsi terrorisée, elle s'efforce de s'éloigner au
 maximum de vous pendant tout son tour et elle
-est incapable de s’avancer de son plein gré dans
+est incapable de s'avancer de son plein gré dans
 un emplacement situé dans un rayon de 9 mètres
-autour de vous. Elle est aussi dans l’incapacité
-d’utiliser une réaction. Au niveau de ses actions,
+autour de vous. Elle est aussi dans l'incapacité
+d'utiliser une réaction. Au niveau de ses actions,
 elle est limitée à se précipiter ou à tenter de se
-libérer de tout effet l’empêchant de se déplacer.
-Si la créature n’a aucun endroit où aller, elle peut
-utiliser l’action esquiver. Elle a droit à un nouveau
+libérer de tout effet l'empêchant de se déplacer.
+Si la créature n'a aucun endroit où aller, elle peut
+utiliser l'action esquiver. Elle a droit à un nouveau
 jet de sauvegarde à la fin de chacun de ses tours,
 la terreur se terminant si elle en réussit un.
-Chaque matin à l’aube, la masse récupère
+Chaque matin à l'aube, la masse récupère
 1d3 charges dépensées.
 MÉDAILLON DES PENSÉES
 Objet merveilleux, peu courant (harmonisation
@@ -3438,18 +3438,18 @@ Le médaillon a trois charges. Tant que vous le
 portez, vous pouvez utiliser une action et dépenser
 une charge pour lancer détection des pensées
 (DD 13) par son intermédiaire. Chaque matin à
-l’aube, il récupère 1d3 charges dépensées.
+l'aube, il récupère 1d3 charges dépensées.
 MENOTTES DIMENSIONNELLES
 Objet merveilleux, rare
 Vous pouvez utiliser une action pour menotter
 une créature neutralisée avec cet objet. Les
-menottes s’ajustent aux poignets des créatures
-de taille P à G. En plus de servir d’entraves traditionnelles,
+menottes s'ajustent aux poignets des créatures
+de taille P à G. En plus de servir d'entraves traditionnelles,
 elles empêchent la créature attachée
-d’utiliser la moindre méthode de déplacement
+d'utiliser la moindre méthode de déplacement
 extradimensionnel, y compris la téléportation
-et les voyages vers d’autres plans d’existence. En
-revanche, elles n’empêchent pas leur prisonnier
+et les voyages vers d'autres plans d'existence. En
+revanche, elles n'empêchent pas leur prisonnier
 de traverser un portail interdimensionnel.
 Vous-même et toute créature que vous désignez
 au moment de fermer les menottes pouvez
@@ -3457,19 +3457,19 @@ dépenser une action pour les retirer. Une fois tous
 les 30 jours, la créature menottée peut faire un
 test de Force (Athlétisme) DD 30. Si elle le réussit,
 elle se libère et détruit les menottes.
-MIROIR D’EMPRISONNEMENT
+MIROIR D'EMPRISONNEMENT
 Objet merveilleux, très rare
 Quand on regarde indirectement ce miroir de
 1,20 mètre de haut, on y aperçoit vaguement les
 reflets de plusieurs créatures. Il pèse 25 kilos
 pour une CA de 11, a 10 points de vie et il est vulnérable
 aux dégâts contondants. Il vole en éclats
-et il est détruit s’il tombe à 0 point de vie.
-S’il est accroché sur une surface verticale
+et il est détruit s'il tombe à 0 point de vie.
+S'il est accroché sur une surface verticale
 et que vous vous trouvez dans un rayon de
 1,50 mètre autour de lui, vous pouvez utiliser une
 action pour prononcer son mot de commande et
-l’activer. Il reste ainsi jusqu’à ce que vous utilisiez
+l'activer. Il reste ainsi jusqu'à ce que vous utilisiez
 une action pour prononcer de nouveau son mot
 de commande.
 Toute créature autre que vous qui regarde son
@@ -3477,54 +3477,54 @@ reflet dans le miroir activé et se trouve dans un
 rayon de 9 mètres autour de lui doit réussir un
 jet de sauvegarde de Charisme ou se faire piéger,
 avec tout son équipement et toutes ses possessions,
-dans l’une des douze cellules extradimensionnelles
+dans l'une des douze cellules extradimensionnelles
 du miroir. Si la créature connaît les
-propriétés du miroir, elle obtient l’avantage lors
+propriétés du miroir, elle obtient l'avantage lors
 du jet de sauvegarde. Les créatures artificielles
 réussissent automatiquement leur jet de sauvegarde.
 Chaque cellule extradimensionnelle est un espace
-infini emplit d’un épais brouillard qui réduit
+infini emplit d'un épais brouillard qui réduit
 la visibilité à 3 mètres. Les créatures piégées dans
-le miroir ne vieillissent pas et n’ont pas besoin de
+le miroir ne vieillissent pas et n'ont pas besoin de
 manger, boire, ni dormir. Une créature enfermée
-peut s’enfuir via une magie de déplacement planaire,
-sinon, elle reste prisonnière jusqu’à ce que
-quelqu’un la libère.
+peut s'enfuir via une magie de déplacement planaire,
+sinon, elle reste prisonnière jusqu'à ce que
+quelqu'un la libère.
 Si le miroir piège une créature alors que ses
 douze cellules sont occupées, il en libère une
 au hasard pour faire de la place au nouveau
 prisonnier. Une créature libérée apparaît dans
 un emplacement inoccupé dans le champ de
 vision du miroir mais en lui tournant le dos. Si le
-miroir vole en éclats, toutes les créatures qu’il
+miroir vole en éclats, toutes les créatures qu'il
 renfermait sont libres et apparaissent dans des
 emplacements inoccupés proches de lui.
 Tant que vous vous trouvez dans un rayon de
 1,50 mètre autour du miroir, vous pouvez utiliser
-une action pour prononcer le nom d’une créature
+une action pour prononcer le nom d'une créature
 piégée en son sein ou donner le numéro
-d’une cellule. L’image de la créature nommée
+d'une cellule. L'image de la créature nommée
 ou se trouvant dans la cellule nommée apparaît
 alors à la surface du miroir. Vous pouvez communiquer
 normalement avec elle.
 De même, vous pouvez prononcer un deuxième
 mot de commande et libérer une créature
 piégée dans le miroir. La créature libérée apparaît
-dans l’emplacement inoccupé le plus proche
+dans l'emplacement inoccupé le plus proche
 du miroir, dos à lui.
 MUNITIONS +1, +2 OU +3
-Arme (n’importe quelle munition), peu courante
+Arme (n'importe quelle munition), peu courante
 (+1), rare (+2) ou très rare (+3)
-Vous bénéficiez d’un bonus aux jets d’attaque et
+Vous bénéficiez d'un bonus aux jets d'attaque et
 de dégâts effectués avec cette munition, ce bonus
 étant déterminé par la rareté de la munition. Cette
-dernière perd toute magie dès qu’elle a touché
+dernière perd toute magie dès qu'elle a touché
 une cible.
 OEIL DE LYNX
 Objet merveilleux, peu courant (harmonisation
 requise)
 Ces lentilles de cristal se portent sur les yeux. Tant
-que vous les portez, vous obtenez l’avantage lors
+que vous les portez, vous obtenez l'avantage lors
 des tests de Sagesse (Perception) basés sur la vue.
 Si la visibilité est bien dégagée, vous percevez tous
 les détails des créatures et des objets, même très
@@ -3533,34 +3533,34 @@ fassent au moins 60 centimètres de large.
 PARCHEMIN MAGIQUE
 Parchemin, variable
 Sur un parchemin magique est inscrite la formule
-d’un unique sort, rédigée tel un message mystique
+d'un unique sort, rédigée tel un message mystique
 crypté. Si le sort est présent dans la liste de
 sorts de votre classe de personnage, vous pouvez
 utiliser une action pour lire le parchemin et lancer
-le sort qu’il contient dans devoir fournir aucune
+le sort qu'il contient dans devoir fournir aucune
 de ses composantes. Sinon, le sort est incompréhensible.
 Si le sort est présent dans la liste de sorts de
-votre classe de personnage mais d’un niveau
+votre classe de personnage mais d'un niveau
 supérieur à ceux que vous êtes normalement
 capable de lancer, vous devez effectuer un test de
 caractéristique en utilisant votre caractéristique
-d’incantation pour déterminer si vous parvenez
+d'incantation pour déterminer si vous parvenez
 à le lancer. Le DD est égal à 10 + le niveau du sort.
 En cas de test raté, le sort disparaît du parchemin
-sans produire d’effet.
+sans produire d'effet.
 Une fois le sort lancé, la formule disparaît de
 la surface du parchemin qui tombe ensuite en
 poussière.
 Le niveau du sort inscrit sur le parchemin
 détermine le DD des jets de sauvegarde contre
-le sort et le bonus à l’attaque, ainsi que la rareté
+le sort et le bonus à l'attaque, ainsi que la rareté
 du parchemin, comme indiqué dans la table des
 Parchemins magiques.
 Parchemins magiques
 Niveau du sort Rareté DD du jet de
 sauvegarde
 Bonus à
-l’attaque
+l'attaque
 Tour de
 magie Courant 13 +5
 1er Courant 13 +5
@@ -3575,8 +3575,8 @@ magie Courant 13 +5
 Un sort de magicien inscrit sur un parchemin
 magique peut être recopié, tout comme on recopie
 les sorts dans un grimoire. Quand un sort est
-recopié depuis un parchemin magique, celui qui s’y
-adonne doit réussir un test d’Intelligence (Arcanes)
+recopié depuis un parchemin magique, celui qui s'y
+adonne doit réussir un test d'Intelligence (Arcanes)
 contre un DD égal à 10 + le niveau du sort.
 En cas de réussite sur ce test, le sort est recopié
 avec succès. Le parchemin magique est détruit
@@ -3588,27 +3588,27 @@ diamètre pèse 30 grammes. En général, on trouve
 1d4+4 perles de force à la fois.
 Vous pouvez utiliser votre action pour lancer
 la bille à une distance maximale de 18 mètres. Elle
-explose et se détruit à l’impact. Chaque créature
+explose et se détruit à l'impact. Chaque créature
 située dans un rayon de 3 mètres autour du point
-d’impact doit réussir un jet de sauvegarde de
+d'impact doit réussir un jet de sauvegarde de
 Dextérité DD 15 ou subir 5d4 dégâts de force. Une
 sphère de force transparente englobe cette zone
 pendant 1 minute. Une créature qui rate le jet de
 sauvegarde et se trouve entièrement englobée
-dans la zone affectée s’y retrouve piégée. Les
+dans la zone affectée s'y retrouve piégée. Les
 créatures qui réussissent leur jet de sauvegarde
-ou ne se trouvent qu’en partie dans la sphère sont
-repoussées à l’opposé du centre de la sphère,
-jusqu’à ce qu’elles ne se trouvent plus du tout en
+ou ne se trouvent qu'en partie dans la sphère sont
+repoussées à l'opposé du centre de la sphère,
+jusqu'à ce qu'elles ne se trouvent plus du tout en
 son sein. La paroi de la sphère ne laisse rien passer
-à part l’air respirable, pas même les attaques
+à part l'air respirable, pas même les attaques
 ou autres effets.
 Une créature enfermée peut utiliser son action
 pour peser contre la paroi de la sphère et la faire
 rouler à la moitié de sa vitesse au sol. On peut
 ramasser la sphère qui, grâce à sa magie, ne pèse
 que 500 grammes, quel que soit le poids des créatures
-prisonnières à l’intérieur.
+prisonnières à l'intérieur.
 PERLE DE PUISSANCE
 Objet merveilleux, peu courant (harmonisation
 requise par un incantateur)
@@ -3618,14 +3618,14 @@ mot de commande et récupérer un emplacement
 de sort dépensé. En revanche, si ce dernier est de
 niveau 4 ou supérieur, le nouvel emplacement est
 de niveau 3. Une fois que vous avez utilisé la perle,
-vous devez attendre l’aube suivante pour vous en
+vous devez attendre l'aube suivante pour vous en
 servir à nouveau.
-PHILTRE D’AMOUR
+PHILTRE D'AMOUR
 Potion, peu courante
-Dans les 10 minutes qui suivent l’absorption de
+Dans les 10 minutes qui suivent l'absorption de
 cette potion, vous êtes charmé pendant 1 heure
 par la première créature que vous voyez. Si cette
-créature est d’une espèce et d’un sexe pour
+créature est d'une espèce et d'un sexe pour
 lesquels vous êtes susceptible de ressentir une
 attirance naturelle, vous considérez vos sentiments
 comme un amour véritable pendant toute
@@ -3637,35 +3637,35 @@ PIGMENTS MERVEILLEUX
 Objet merveilleux, très rare
 Ces pigments se trouvent généralement dans
 1d4 pots rangés dans une boîte de bois en compagnie
-d’un pinceau (le tout pesant 0,5 kilo). Ils vous
+d'un pinceau (le tout pesant 0,5 kilo). Ils vous
 permettent de créer des objets en trois dimensions
 en les peignant en deux dimensions. La peinture
-coule du pinceau pour dessiner l’objet désiré
+coule du pinceau pour dessiner l'objet désiré
 alors que vous vous concentrez sur son image.
 Chaque pot de peinture permet de couvrir
 90 mètres carrés de surface, ce qui vous permet
 de créer des objets inanimés ou des caractéristiques
 paysagères (comme une porte, un puits,
 des fleurs, des arbres, une cellule, une pièce, une
-arme…) d’au maximum 280 mètres cubes. Il faut
+arme…) d'au maximum 280 mètres cubes. Il faut
 10 minutes pour couvrir une surface de 9 mètres
 carrés.
-Une fois la peinture terminée, l’objet ou le
+Une fois la peinture terminée, l'objet ou le
 terrain représenté devient réel et non-magique.
 Ainsi, si vous peignez une porte sur un mur, ce
-dernier se dote d’une véritable porte donnant sur
+dernier se dote d'une véritable porte donnant sur
 ce qui se trouve derrière, quoi que ce soit. Si vous
-peignez un trou au sol, un véritable trou s’y creuse
-et sa profondeur est décomptée de l’aire totale
+peignez un trou au sol, un véritable trou s'y creuse
+et sa profondeur est décomptée de l'aire totale
 des objets que vous pouvez créer.
-Il est impossible d’utiliser les pigments pour
+Il est impossible d'utiliser les pigments pour
 créer quelque chose valant plus de 25 po. Si vous
-peignez un objet d’une valeur supérieure (comme
-un diamant ou un tas de pièce d’or), l’objet a l’air
-authentique mais il suffit de l’inspecter de près
-pour comprendre qu’il est fait de pâte, d’os ou
-d’un autre matériau sans valeur.
-Si vous peigniez une forme d’énergie, comme
+peignez un objet d'une valeur supérieure (comme
+un diamant ou un tas de pièce d'or), l'objet a l'air
+authentique mais il suffit de l'inspecter de près
+pour comprendre qu'il est fait de pâte, d'os ou
+d'un autre matériau sans valeur.
+Si vous peigniez une forme d'énergie, comme
 du feu ou de la foudre, elle apparaît dès la peinture
 terminée mais se dissipe aussitôt, sans faire
 le moindre mal.
@@ -3676,7 +3676,7 @@ Si la pierre est en contact avec le sol, vous pouvez
 utiliser une action pour prononcer son mot de
 commande et convoquer un élémentaire de la
 Terre, comme si vous aviez lancé le sort invoquer
-un élémentaire. Il faut attendre l’aube suivante
+un élémentaire. Il faut attendre l'aube suivante
 avant de pouvoir réutiliser la pierre. Elle pèse 2,5
 kilos.
 PIERRE IOUN
@@ -3687,18 +3687,18 @@ et des prophéties vénéré sur certains mondes.
 Il existe de nombreuses variétés de pierre de Ioun,
 chacune caractérisée par sa forme et sa couleur.
 Quand vous utilisez une action pour lancer
-une telle pierre en l’air, elle se met à tournoyer en
+une telle pierre en l'air, elle se met à tournoyer en
 orbite à 1d3 × 30 centimètres autour de votre tête.
 Ensuite, si une tierce personne veut séparer la
 pierre de votre personne, elle doit dépenser une
-action pour l’attraper, soit en réussissent un jet
-d’attaque contre une CA de 24, soit en réussissant
+action pour l'attraper, soit en réussissent un jet
+d'attaque contre une CA de 24, soit en réussissant
 un test de Dextérité (Acrobaties) DD 24. Vous, en
 revanche, avez seulement à utiliser une action
 pour vous saisir de la pierre et la ranger, ce qui
 met fin à ses effets.
 Une pierre a une CA de 24, 10 points de vie et
-une résistance contre tous les dégâts. Tant qu’elle
+une résistance contre tous les dégâts. Tant qu'elle
 est en orbite autour de votre tête, elle est considérée
 comme un objet équipé.
 Absorption (très rare). Tant que cet ellipsoïde
@@ -3709,10 +3709,10 @@ présente dans votre champ de vision et qui
 vise uniquement votre personne.
 Une fois que la pierre a annulé 20 niveaux
 de sort, elle est épuisée et prend une teinte gris
-terne, indiquant qu’elle a perdu toute magie. Si
-vous êtes la cible d’un sort d’un niveau supérieur
+terne, indiquant qu'elle a perdu toute magie. Si
+vous êtes la cible d'un sort d'un niveau supérieur
 au nombre de niveaux de sorts que la pierre peut
-encore annuler, elle est incapable de l’annuler.
+encore annuler, elle est incapable de l'annuler.
 Agilité (très rare). Votre valeur de Dextérité
 augmente de 2, sans dépasser un maximum de 20,
 tant que cette sphère rouge sombre tourne autour
@@ -3733,14 +3733,14 @@ champ de vision et qui vise uniquement votre
 personne.
 Une fois que la pierre a annulé 50 niveaux
 de sort, elle est épuisée et prend une teinte gris
-terne, indiquant qu’elle a perdu toute magie. Si
-vous êtes la cible d’un sort d’un niveau supérieur
+terne, indiquant qu'elle a perdu toute magie. Si
+vous êtes la cible d'un sort d'un niveau supérieur
 au nombre de niveaux de sorts que la pierre peut
-encore annuler, elle est incapable de l’annuler.
+encore annuler, elle est incapable de l'annuler.
 Intuition (très rare). Votre valeur de Sagesse
 augmente de 2, pour un maximum de 20, tant que
 cette sphère bleu vif tourne autour de votre tête.
-Intellect (très rare). Votre valeur d’Intelligence
+Intellect (très rare). Votre valeur d'Intelligence
 augmente de 2, pour un maximum de 20, tant que
 cette sphère marbrée de rouge et de bleu tourne
 autour de votre tête.
@@ -3760,45 +3760,45 @@ que ce fuseau blanc perle tourne autour de votre
 tête et que vous avez au moins encore 1 point de
 vie.
 Réserve (rare). Ce prisme violet vif stocke les sorts
-qu’on lui lance et les conserve jusqu’à ce que vous
-les utilisiez. Il peut contenir jusqu’à trois niveaux
+qu'on lui lance et les conserve jusqu'à ce que vous
+les utilisiez. Il peut contenir jusqu'à trois niveaux
 de sort à la fois. Quand vous le découvrez, il
 contient 1d4-1 niveaux de sorts choisis par le MJ.
-N’importe quelle créature peut lancer un sort
+N'importe quelle créature peut lancer un sort
 de niveau 1 à 3 sur la pierre en la touchant au
-moment de l’incantation. Le sort n’a alors aucun
+moment de l'incantation. Le sort n'a alors aucun
 effet, il est simplement stocké dans la pierre. Si la
-pierre est incapable d’accueillir le sort, ce dernier
+pierre est incapable d'accueillir le sort, ce dernier
 est simplement dépensé sans le moindre effet.
-C’est le niveau d’emplacement de sort utilisé lors
-de l’incantation qui détermine la place que tient
+C'est le niveau d'emplacement de sort utilisé lors
+de l'incantation qui détermine la place que tient
 le sort.
 Tant que cette pierre tourne autour de votre
-tête, vous pouvez lancer n’importe quel sort
-stocké en son sein. L’emplacement de sort, le DD
-du jet de sauvegarde, le bonus d’attaque du sort
-et la caractéristique d’incantation dépendent de
-l’incantateur original, pour le reste, on considère
-que c’est vous qui lancez le sort. Une fois le sort
+tête, vous pouvez lancer n'importe quel sort
+stocké en son sein. L'emplacement de sort, le DD
+du jet de sauvegarde, le bonus d'attaque du sort
+et la caractéristique d'incantation dépendent de
+l'incantateur original, pour le reste, on considère
+que c'est vous qui lancez le sort. Une fois le sort
 lancé, il ne se trouve plus dans la pierre et libère
-l’emplacement qu’il y occupait.
+l'emplacement qu'il y occupait.
 Force (très rare). Votre valeur de Force augmente
 de 2, pour un maximum de 20, tant que ce rhomboïde
 bleu clair tourne autour de votre tête.
-Nourriture (rare). Vous n’avez pas besoin de
+Nourriture (rare). Vous n'avez pas besoin de
 manger ni de boire tant que ce fuseau translucide
 tourne autour de votre tête.
 PIERRE PORTE-BONHEUR
 Objet merveilleux, peu courant (harmonisation
 requise)
 Tant que vous portez sur vous cette agate lustrée,
-vous bénéficiez d’un bonus de +1 aux tests de
+vous bénéficiez d'un bonus de +1 aux tests de
 caractéristique et aux jets de sauvegarde.
 PLUME MAGIQUE
 Objet merveilleux, rare
 Ce petit bibelot ressemble à une plume. Il existe
 plusieurs types de plume, chacune produisant un
-effet différent à usage unique. C’est au MJ de décider
+effet différent à usage unique. C'est au MJ de décider
 du type ou de le déterminer au hasard.
 d100 Plume magique
 01-20 Ancre
@@ -3813,45 +3813,45 @@ les 24 heures qui suivent, il est impossible
 de déplacer ce navire, par quelque moyen que
 ce soit. Il suffit de mettre de nouveau le bibelot
 en contact avec le bateau pour mettre un terme
-à l’effet. Le bibelot disparaît dès que l’effet se
+à l'effet. Le bibelot disparaît dès que l'effet se
 termine.
 Oiseau. Vous pouvez utiliser une action pour
 lancer ce bibelot à 1,50 mètre de haut. Il disparaît
-tandis qu’un énorme oiseau multicolore se
-matérialise. Il a les mêmes statistiques qu’un roc
+tandis qu'un énorme oiseau multicolore se
+matérialise. Il a les mêmes statistiques qu'un roc
 (voir Créatures & Oppositions, page 250) mais obéit
 aux ordres simples que vous lui donnez et ne
-peut pas attaquer. Il peut transporter jusqu’à 250
+peut pas attaquer. Il peut transporter jusqu'à 250
 kilos en volant à sa vitesse maximale (24 km/h
 sur un maximum de 216 kilomètres par jour avec
-des pauses d’une heure toutes les trois heures
-de vol). S’il vole moitié moins vite, il peut porter
-jusqu’à 500 kilos. L’oiseau disparaît une fois qu’il
+des pauses d'une heure toutes les trois heures
+de vol). S'il vole moitié moins vite, il peut porter
+jusqu'à 500 kilos. L'oiseau disparaît une fois qu'il
 a parcouru sa distance maximale en une journée
-ou s’il tombe à 0 point de vie. Vous pouvez le
+ou s'il tombe à 0 point de vie. Vous pouvez le
 révoquer par une action.
 Éventail. Si vous vous trouvez sur un navire, vous
 pouvez utiliser une action pour lancer ce bibelot
 à 3 mètres de haut. Il disparaît pour faire place à
-un éventail géant qui flotte et s’agite pour générer
+un éventail géant qui flotte et s'agite pour générer
 un vent assez puissant pour gonfler les voiles
 du bateau et augmenter sa vitesse de 7,5 kilomètres
 pendant 8 heures. Vous pouvez révoquer
-l’éventail par une action.
+l'éventail par une action.
 Bateau-cygne. Vous pouvez utiliser une action
 pour mettre le bibelot en contact avec
-une étendue aqueuse d’au moins 18 mètres de
+une étendue aqueuse d'au moins 18 mètres de
 diamètre. Il se mue alors en bateau en forme de
 cygne, de 15 mètres de long pour 6 mètres de
 large. Le bateau dispose de son propre système
-de propulsion et vogue sur l’eau à une vitesse de
+de propulsion et vogue sur l'eau à une vitesse de
 9 km/h. Tant que vous êtes à bord, vous pouvez
 utiliser une action pour ordonner au bateau de
 se déplacer ou de tourner, au maximum à 90 degrés.
 Le bateau peut transporter un maximum de
 trente-deux créatures de taille M ou inférieure.
 Une créature de taille G compte comme quatre
-créatures de taille M tandis qu’une créature TG
+créatures de taille M tandis qu'une créature TG
 compte comme neuf créatures de taille M. Le
 bateau existe pendant 24 heures puis disparaît.
 Vous pouvez révoquer le bateau par une action.
@@ -3868,26 +3868,26 @@ lancer le bibelot à une distance maximale de
 Vous pouvez dépenser une action bonus pour
 faire une attaque de sort au corps à corps contre
 une créature située dans un rayon de 3 mètres
-autour du fouet, avec un bonus d’attaque de +9.
+autour du fouet, avec un bonus d'attaque de +9.
 Si vous touchez la cible, elle subit 1d6+5 dégâts
 de force.
 À votre tour et par une action bonus, vous
-pouvez ordonner au fouet de s’envoler à une
+pouvez ordonner au fouet de s'envoler à une
 distance maximale de 6 mètres et répéter
-l’attaque contre une créature située dans
-un rayon de 3 mètres autour d’elle. Le fouet
-disparaît au bout d’une heure, quand vous
+l'attaque contre une créature située dans
+un rayon de 3 mètres autour d'elle. Le fouet
+disparaît au bout d'une heure, quand vous
 utilisez une action pour le révoquer ou si vous
 êtes neutralisé ou mort.
 PORTAIL CUBIQUE
 Objet merveilleux, légendaire
-Ce cube de 7,5 centimètres d’arête émet une
+Ce cube de 7,5 centimètres d'arête émet une
 énergie magique palpable. Chacune de ses six
-faces est liée à un plan d’existence distinct, l’un
-d’eux étant le plan Matériel. Les autres sont liées
+faces est liée à un plan d'existence distinct, l'un
+d'eux étant le plan Matériel. Les autres sont liées
 à des plans déterminés par le MJ.
 Vous pouvez dépenser une action pour
-appuyer sur l’une des faces du cube et lancer le
+appuyer sur l'une des faces du cube et lancer le
 sort portail à travers elle, ouvrant une porte sur le
 plan lié à cette face. Sinon, vous pouvez utiliser
 une action pour appuyer deux fois sur une face et
@@ -3895,38 +3895,38 @@ lancer le sort changement de plan (DD 17) grâce au
 cube. Vous transportez alors les créatures visées
 sur le plan lié à la face concernée.
 Le cube a trois charges et en perd une à
-chaque utilisation. Chaque matin à l’aube, il récupère
+chaque utilisation. Chaque matin à l'aube, il récupère
 1d3 charges dépensées.
-POTION D’AGRANDISSEMENT
+POTION D'AGRANDISSEMENT
 Potion, peu courante
 Quand vous buvez cette potion, vous êtes affecté
 par la version « agrandir » du sort agrandir/rétrécir
 pendant 1d4 heures (sans avoir besoin de vous
 concentrer). Une tache rouge dans le liquide
-s’étend jusqu’à colorer tout le liquide translucide
+s'étend jusqu'à colorer tout le liquide translucide
 et se rétracte pour former une petite bille. Ce cycle
 se répète sans cesse sans interruption, même si
 on secoue la bouteille.
-POTION D’AMITIÉ AVEC LES ANIMAUX
+POTION D'AMITIÉ AVEC LES ANIMAUX
 Potion, peu courante
 Quand vous buvez cette potion, vous pouvez lancer
 le sort amitié avec les animaux (DD 13) à volonté
 pendant 1 heure. Si on agite ce liquide trouble,
 on distingue de petits morceaux : une écaille de
 poisson, une langue de colibri, une griffe de chat
-ou des poils d’écureuil.
+ou des poils d'écureuil.
 POTION DE CLAIRVOYANCE
 Potion, rare
 Quand vous buvez cette potion, vous bénéficiez
 des effets du sort clairvoyance. Un globe oculaire
 flotte dans ce liquide jaunâtre, mais disparaît dès
-qu’on ouvre la potion.
-POTION D’ESCALADE
+qu'on ouvre la potion.
+POTION D'ESCALADE
 Potion, peu courante
 Quand vous buvez cette potion, vous gagnez une
-vitesse d’escalade égale à votre vitesse au sol pendant
+vitesse d'escalade égale à votre vitesse au sol pendant
 1 heure. Pendant tout ce temps, vous obtenez
-l’avantage lors des tests de Force (Escalade) que
+l'avantage lors des tests de Force (Escalade) que
 vous effectuez pour grimper. La potion se divise en
 couches brunes, argent et grises qui rappellent des
 stries dans la roche. Les couleurs ne se mélangent
@@ -3936,10 +3936,10 @@ Potion, rareté variable
 Quand vous buvez cette potion, votre valeur de
 Force se modifie pendant 1 heure, en fonction du
 type de géant auquel la potion est associée (voir la
-table suivante). La potion n’a aucun effet si votre
+table suivante). La potion n'a aucun effet si votre
 Force est déjà égale ou supérieure à la valeur
 indiquée.
-Une rognure d’ongle d’un géant du type approprié
+Une rognure d'ongle d'un géant du type approprié
 flotte dans cette potion transparente. La
 potion de force de géant du givre et la potion de force
 de géant des pierres ont le même effet.
@@ -3953,24 +3953,24 @@ POTION DE FORME GAZEUSE
 Potion, rare
 Quand vous buvez cette potion, vous bénéficiez
 des effets du sort forme gazeuse pendant 1 heure
-(sans avoir besoin de vous concentrer) ou jusqu’à
-ce que vous mettiez un terme à l’effet par une
+(sans avoir besoin de vous concentrer) ou jusqu'à
+ce que vous mettiez un terme à l'effet par une
 action bonus. La bouteille semble contenir une
-brume qui bouge et se verse comme de l’eau.
+brume qui bouge et se verse comme de l'eau.
 POTION DE LECTURE DES PENSÉES
 Potion, rare
-Vous bénéficiez des effets d’un sort de détection
+Vous bénéficiez des effets d'un sort de détection
 des pensées (DD des jets de sauvegarde contre le
 sort 13) quand vous buvez cette potion. Dans le
 liquide violet et épais de cette concoction flotte
-un nuage rose en forme d’oeuf.
+un nuage rose en forme d'oeuf.
 POTION DE POISON
 Potion, peu courante
 Cette concoction ressemble, tant au niveau du
-goût, de l’odeur et de l’aspect visuel, à une potion
-de soins ou autre potion bénéfique. C’est pourtant
+goût, de l'odeur et de l'aspect visuel, à une potion
+de soins ou autre potion bénéfique. C'est pourtant
 du poison dissimulé par une magie illusoire, et un
-sort d’identification révèle sa véritable nature.
+sort d'identification révèle sa véritable nature.
 Vous subissez 3d6 dégâts de poison et devez
 réussir un jet de sauvegarde de Constitution DD 13
 pour ne pas être empoisonné si vous la buvez. Vous
@@ -3983,7 +3983,7 @@ suivants diminuent de 1d6, et le poison disparaît
 quand les dégâts sont réduits à 0.
 POTION DE RÉSISTANCE
 Potion, peu courante
-Vous bénéficiez d’une résistance à un type spécifique
+Vous bénéficiez d'une résistance à un type spécifique
 de dégâts pendant 1 heure après avoir bu
 cette potion. Le MJ choisit le type ou le détermine
 au hasard parmi les potions suivantes.
@@ -3995,18 +3995,18 @@ d10 Type de dégâts d10 Type de dégâts
 5 Foudre 10 Tonnerre
 POTION DE RESPIRATION AQUATIQUE
 Potion, peu courante
-Vous pouvez respirer sous l’eau pendant 1 heure
+Vous pouvez respirer sous l'eau pendant 1 heure
 après avoir bu cette potion. Le liquide vert et
-trouble qu’elle contient, dans lequel flotte une
-bulle à l’aspect de méduse, sent la mer.
+trouble qu'elle contient, dans lequel flotte une
+bulle à l'aspect de méduse, sent la mer.
 POTION DE RÉTRÉCISSEMENT
 Potion, rare
 Quand vous buvez cette potion, vous êtes affecté
 par la version « rétrécir » du sort agrandir/rétrécir
 pendant 1d4 heures (sans avoir besoin de vous
 concentrer). Une tache rouge dans le liquide se
-rétrécit jusqu’à former une petit bille et s’étale
-ensuite jusqu’à colorer tout le liquide translucide.
+rétrécit jusqu'à former une petit bille et s'étale
+ensuite jusqu'à colorer tout le liquide translucide.
 Ce cycle se répète sans cesse sans interruption,
 même si on secoue la bouteille.
 POTION DE SOINS
@@ -4016,7 +4016,7 @@ buvez cette potion, le montant dépendant de la
 rareté de la potion, comme indiqué dans la table
 Potions de soins. Quelle que soit la puissance de
 la potion, son liquide rouge scintille quand on
-l’agite.
+l'agite.
 Potions de soins
 Potion de… Rareté pv récupérés
 Soins Courante 2d4+2
@@ -4025,11 +4025,11 @@ Soins excellents Rare 8d4+8
 Soins suprêmes Très rare 10d4+20
 POTION DE VITESSE
 Potion, très rare
-Vous bénéficiez des effets d’un sort de hâte
+Vous bénéficiez des effets d'un sort de hâte
 pendant 1 minute (aucune concentration requise)
 après avoir bu cette potion. Le liquide jaune strié
 de noir de cette concoction tournoie de lui-même
-sans qu’on le remue.
+sans qu'on le remue.
 POTION DE VOL
 Potion, très rare
 Quand vous buvez cette potion, vous gagnez une
@@ -4037,32 +4037,32 @@ vitesse de vol égale à votre vitesse au sol pendant
 1 heure. Vous êtes aussi en mesure de faire du
 vol stationnaire. Si vous vous trouvez dans les
 airs quand les effets de la potion se dissipent,
-vous tombez, à moins que vous ne disposiez d’un
-autre moyen de vous maintenir en l’air. Le liquide
+vous tombez, à moins que vous ne disposiez d'un
+autre moyen de vous maintenir en l'air. Le liquide
 transparent de cette potion flotte au sommet de
-sa bouteille tandis que des impuretés d’un blanc
+sa bouteille tandis que des impuretés d'un blanc
 laiteux le traversent.
-POTION D’HÉROÏSME
+POTION D'HÉROÏSME
 Potion, rare
-Pendant 1 heure après l’avoir bue, vous obtenez
+Pendant 1 heure après l'avoir bue, vous obtenez
 10 points de vie temporaires. Pendant cette
-même période, vous êtes sous l’effet d’un sort de
+même période, vous êtes sous l'effet d'un sort de
 bénédiction (aucune concentration requise). Le
-liquide bleu bouillonne comme s’il était chauffé
+liquide bleu bouillonne comme s'il était chauffé
 en permanence.
-POTION D’INVISIBILITÉ
+POTION D'INVISIBILITÉ
 Potion, très rare
 Le contenant de cette potion paraît vide mais il
 semble, au contact, contenir un liquide. Vous devenez
-invisible pendant 1 heure après l’avoir bue. La totalité
+invisible pendant 1 heure après l'avoir bue. La totalité
 des objets équipés ou transportés deviennent
-également invisibles. L’effet prend fin prématurément
+également invisibles. L'effet prend fin prématurément
 si vous attaquez ou lancez un sort.
 POUSSIÈRE À ÉTERNUER
 Objet merveilleux, peu courant
 Cette poudre se trouve dans un petit récipient et
 ressemble à du sable fin. On dirait de la poussière de
-disparition et le sort d’identification confirme cette
+disparition et le sort d'identification confirme cette
 erreur. Il y en a assez pour une seule utilisation.
 Quand vous utilisez une action pour jeter une
 poignée de poussière dans les airs, vous et chaque
@@ -4071,27 +4071,27 @@ un rayon de 9 mètres autour de vous doit réussir
 un jet de sauvegarde de Constitution DD 15 ou se
 retrouver incapable de respirer tant elle tousse.
 Une créature ainsi affectée est neutralisée et suffoque.
-Tant qu’elle est consciente, la créature peut
+Tant qu'elle est consciente, la créature peut
 refaire le jet de sauvegarde à la fin de chacun de
-ses tours, sachant que l’effet se termine pour elle
+ses tours, sachant que l'effet se termine pour elle
 si elle réussit. Le sort de restauration mineure met
-aussi un terme à l’effet sur la créature qu’il touche.
-POUSSIÈRE D’ASSÈCHEMENT
+aussi un terme à l'effet sur la créature qu'il touche.
+POUSSIÈRE D'ASSÈCHEMENT
 Objet merveilleux, peu courant
 Ce petit paquet contient 1d6+4 pincées de poussière.
 Vous pouvez dépenser une action pour
-en saupoudrer une sur l’eau. La poussière transforme
-un cube d’eau de 4,50 mètres d’arête en
-une boulette de la taille d’une bille. Elle flotte ou
-repose près de l’endroit où vous avez saupoudré
+en saupoudrer une sur l'eau. La poussière transforme
+un cube d'eau de 4,50 mètres d'arête en
+une boulette de la taille d'une bille. Elle flotte ou
+repose près de l'endroit où vous avez saupoudré
 la poussière. Son poids est négligeable.
-Quelqu’un peut utiliser une action pour briser
+Quelqu'un peut utiliser une action pour briser
 la boulette contre une surface solide : elle éclate
-alors et libère l’eau absorbée. La magie de la boulette
+alors et libère l'eau absorbée. La magie de la boulette
 disparaît alors.
 Un élémentaire majoritairement composé
-d’eau exposé à la poussière doit faire un jet de
-sauvegarde de Constitution. S’il échoue, il subit
+d'eau exposé à la poussière doit faire un jet de
+sauvegarde de Constitution. S'il échoue, il subit
 10d6 dégâts nécrotiques, la moitié seulement
 sinon.
 POUSSIÈRE DE DISPARITION
@@ -4099,44 +4099,44 @@ Objet merveilleux, peu courant
 Cette poudre se trouve dans un petit paquet et
 ressemble à du sable fin. Il y en a assez pour une
 utilisation. Si vous utilisez une action pour lancer
-la poussière en l’air, vous et chaque créature et
+la poussière en l'air, vous et chaque créature et
 objet situé dans un rayon de 3 mètres autour de
 vous devenez invisible pendant 2d4 minutes. La
 durée est la même pour toutes les cibles et la
 poussière est entièrement consumée dès que sa
 magie fait effet. Si une créature affectée par la
-poussière attaque ou lance un sort, l’invisibilité se
+poussière attaque ou lance un sort, l'invisibilité se
 termine pour elle.
 PROTECTRICE
 Arme (épée), légendaire (harmonisation requise)
-Vous gagnez un bonus de +3 aux jets d’attaque et
+Vous gagnez un bonus de +3 aux jets d'attaque et
 de dégâts effectués avec cette arme magique.
 À chacun de vos tours, quand vous attaquez
 pour la première fois avec cette épée, vous pouvez
-transférer tout ou partie du bonus de l’arme
-à votre CA au lieu d’utiliser le bonus pour les
+transférer tout ou partie du bonus de l'arme
+à votre CA au lieu d'utiliser le bonus pour les
 attaques de ce tour. Par exemple, vous pouvez
-réduire le bonus de vos jets d’attaque et de dégâts
+réduire le bonus de vos jets d'attaque et de dégâts
 en le faisant passer à +1, ce qui vous apporte un
 bonus de +2 à la CA. Ces bonus modifiés restent
-valables jusqu’au début de votre prochain tour,
-bien que vous deviez tenir l’épée en main pour
+valables jusqu'au début de votre prochain tour,
+bien que vous deviez tenir l'épée en main pour
 bénéficier de son bonus à la CA.
 PUITS DES MONDES
 Objet merveilleux, légendaire
-Ce morceau d’étoffe noire, fine et douce comme
+Ce morceau d'étoffe noire, fine et douce comme
 la soie, peut se plier pour adopter les dimensions
-d’un mouchoir. On peut le déplier pour former
+d'un mouchoir. On peut le déplier pour former
 une étendue circulaire de 1,80 mètre de diamètre.
 Vous pouvez utiliser une action pour déplier et
 positionner le puits des mondes contre une surface
 solide et créer ainsi un portail, empruntable dans
 les deux sens, qui permet de voyager vers un
-autre monde ou plan d’existence. Chaque fois que
-l’objet ouvre un portail, le MJ décide de l’endroit
+autre monde ou plan d'existence. Chaque fois que
+l'objet ouvre un portail, le MJ décide de l'endroit
 où il mène. Vous pouvez utiliser une action pour
 fermer un portail ouvert en prenant les bords du
-morceau d’étoffe et en le repliant. Une fois qu’un
+morceau d'étoffe et en le repliant. Une fois qu'un
 portail a été ouvert grâce au puits des mondes, il
 faut attendre 1d8 heures avant que cet objet magique
 ne puisse en ouvrir un nouveau.
@@ -4144,25 +4144,25 @@ PUITS PORTATIF
 Objet merveilleux, rare
 Cette mince étoffe noire, aussi douce que de la
 soie, est repliée pour tenir aussi peu de place
-qu’un mouchoir. Dépliée, elle se présente sous
-forme d’un disque de 1,80 mètre de diamètre.
+qu'un mouchoir. Dépliée, elle se présente sous
+forme d'un disque de 1,80 mètre de diamètre.
 Vous pouvez utiliser une action pour déplier le
 puits portatif et le poser sur ou contre une surface
 solide, où il crée un trou extradimensionnel de
-3 mètres de profondeur. L’espace cylindrique qui
+3 mètres de profondeur. L'espace cylindrique qui
 forme le trou existe sur un autre plan, il est donc
 impossible de se servir du puits pour créer un
 passage. Si une créature se trouve dans le puits
-portatif alors qu’il est ouvert, il lui suffit d’escalader
+portatif alors qu'il est ouvert, il lui suffit d'escalader
 la paroi pour en sortir.
 Vous pouvez dépenser une action pour fermer
 le puits en attrapant les bords du tissu avant
 de replier ce dernier. Une fois le trou fermé, les
-créatures et les objets qu’il contient sont piégés
+créatures et les objets qu'il contient sont piégés
 dans son espace extradimensionnel. Le puits ne
 pèse presque rien, peu importe ce qui se trouve à
-l’intérieur.
-Si le puits est refermé et qu’une créature se
+l'intérieur.
+Si le puits est refermé et qu'une créature se
 trouve dans son espace extradimensionnel, elle
 peut utiliser une action pour faire un test de
 Force DD 10. Si elle réussit, elle se fraie de force un
@@ -4170,18 +4170,18 @@ chemin hors du puits et apparaît dans un rayon de
 1,50 mètre autour du puits portatif ou de la créature
 qui le transporte. Une créature qui a besoin
 de respirer et se trouve dans un puits refermé y
-survit jusqu’à 10 minutes, ensuite, elle commence
+survit jusqu'à 10 minutes, ensuite, elle commence
 à suffoquer.
-Si l’on place un puits portatif dans l’espace
-extradimensionnel né d’un havresac magique,
-d’un sac sans fond ou d’un objet similaire, les deux
+Si l'on place un puits portatif dans l'espace
+extradimensionnel né d'un havresac magique,
+d'un sac sans fond ou d'un objet similaire, les deux
 objets sont instantanément détruits et un portail
-s’ouvre vers le plan Astral. Il apparaît là où l’on a
+s'ouvre vers le plan Astral. Il apparaît là où l'on a
 placé le premier objet dans le second et toutes
 les créatures situées dans un rayon de 3 mètres
 autour de ce portail sont emportées vers un endroit
 aléatoire du plan Astral. Le portail se referme
-ensuite, sachant qu’il est à sens unique et qu’il est
+ensuite, sachant qu'il est à sens unique et qu'il est
 impossible de le rouvrir.
 REGARD CHARMEUR
 Objet merveilleux, peu courant (harmonisation
@@ -4191,40 +4191,40 @@ possèdent trois charges. Tant que vous les portez,
 vous pouvez dépenser une charge pour lancer le
 sort charme-personne (DD 13) sur un humanoïde
 situé dans un rayon de 9 mètres, à condition que
-vous voyiez la cible et qu’elle vous voie. Chaque
-jour à l’aube, les lentilles régénèrent toutes les
+vous voyiez la cible et qu'elle vous voie. Chaque
+jour à l'aube, les lentilles régénèrent toutes les
 charges dépensées.
 ROBE AUX ÉTOILES
 Objet merveilleux, très rare (harmonisation
 requise)
 Cette robe noire ou bleue foncée est brodée de
 petites étoiles blanches ou argentées. Vous bénéficiez
-d’un bonus de +1 aux jets de sauvegarde tant
+d'un bonus de +1 aux jets de sauvegarde tant
 que vous la portez.
 Six étoiles, situées sur la partie avant supérieure
 de la robe, sont particulièrement grandes.
 Tant que vous portez cette robe, vous pouvez
 effectuer une action pour détacher une de ces
-étoiles et l’utiliser pour lancer projectile magique
+étoiles et l'utiliser pour lancer projectile magique
 comme un sort de niveau 5. Tous les jours au
 crépuscule, 1d6 étoiles détachées réapparaissent
 sur la robe.
 Tant que vous portez la robe, vous pouvez
 effectuer une action pour entrer dans le plan Astral
 avec tous vos objets équipés ou portés. Vous
-restez là-bas jusqu’à ce que vous effectuiez une
+restez là-bas jusqu'à ce que vous effectuiez une
 action pour revenir sur le plan duquel vous êtes
 parti. Vous réapparaissez dans le dernier emplacement
 que vous occupiez à ce moment-là ou, si
-cet emplacement est déjà occupé, dans l’emplacement
+cet emplacement est déjà occupé, dans l'emplacement
 inoccupé le plus proche.
 ROBE AUX YEUX MULTIPLES
 Objet merveilleux, rare (harmonisation requise)
-Cette robe est ornée de motifs en forme d’yeux.
+Cette robe est ornée de motifs en forme d'yeux.
 Vous bénéficiez des avantages suivants tant que
 vous portez cette robe :
 * La robe vous permet de voir dans toutes les
-directions et vous obtenez l’avantage lors des
+directions et vous obtenez l'avantage lors des
 tests de Sagesse (Perception) basés sur la vue.
 * Vous disposez de la vision dans le noir sur
 une distance de 36 mètres.
@@ -4246,52 +4246,52 @@ ROBE DE COULEURS ÉTINCELANTES
 Objet merveilleux, très rare (harmonisation
 requise)
 Cette robe contient 3 charges et récupère
-1d3 charges dépensées chaque jour, à l’aube.
+1d3 charges dépensées chaque jour, à l'aube.
 Tant que vous la portez, vous pouvez utiliser une
 action et dépenser 1 charge pour que le vêtement
 produise un motif changeant de couleurs éblouissantes
-jusqu’à la fin de son prochain tour. Pendant
+jusqu'à la fin de son prochain tour. Pendant
 cette période, la robe diffuse une lumière vive
 sur un rayon de 9 mètres et une faible lumière
 sur 9 mètres au-delà. Les créatures qui peuvent
 vous voir subissent un désavantage lors des jets
-d’attaque contre vous. De plus, les créatures situées
+d'attaque contre vous. De plus, les créatures situées
 dans la zone de lumière vive et qui peuvent
 vous voir lorsque le pouvoir de la robe est activé
 doivent réussir un jet de sauvegarde de Sagesse
-DD 15 pour ne pas être étourdies jusqu’à la fin de
+DD 15 pour ne pas être étourdies jusqu'à la fin de
 cet effet.
-ROBE DE L’ARCHIMAGE
+ROBE DE L'ARCHIMAGE
 Objet merveilleux, légendaire (harmonisation
 avec un ensorceleur, un sorcier ou un magicien
 exigée)
 Ce vêtement élégant est taillé dans un magnifique
 tissu blanc, gris ou noir, brodé de runes argentées.
-La couleur de la robe correspond à l’alignement
-pour lequel l’objet à été crée. Les robes blanches
+La couleur de la robe correspond à l'alignement
+pour lequel l'objet à été crée. Les robes blanches
 sont conçues pour soutenir le bien, les grises pour
 soutenir la neutralité et les noires pour soutenir
 le mal. Vous ne pouvez pas vous harmoniser avec
-une robe de l’archimage qui ne correspond pas à
+une robe de l'archimage qui ne correspond pas à
 votre alignement.
 Vous bénéficiez des avantages suivants lorsque
 vous portez la robe :
-* Votre Classe d’Armure de base est égale à
+* Votre Classe d'Armure de base est égale à
 15 + votre modificateur de Dextérité si vous
 ne portez aucune armure.
-* vous obtenez l’avantage lors des jets de
+* vous obtenez l'avantage lors des jets de
 sauvegarde contre les sorts et autres effets
 magiques.
 * Les DD des jets de sauvegarde contre vos sorts
-et votre bonus d’attaque des sorts augmentent
+et votre bonus d'attaque des sorts augmentent
 chacun de 2.
-ROBE D’OBJETS PRATIQUES
+ROBE D'OBJETS PRATIQUES
 Objet merveilleux, peu courant
 Cette robe est couverte de pièces de tissu de
 formes et de couleurs diverses. Tant que vous
 portez ce vêtement, vous pouvez effectuer une
 action pour détacher une des pièces et provoquer
-sa transformation en l’objet ou la créature qu’elle
+sa transformation en l'objet ou la créature qu'elle
 représente. Dès que la dernière pièce est détachée,
 la robe devient un vêtement ordinaire.
 Deux pièces de chacun des éléments suivants
@@ -4310,19 +4310,19 @@ d100 Pièce
 09-15
 Coffre en argent (30 centimètres de long,
 15 centimètres de large et de profondeur)
-d’une valeur de 500 po
+d'une valeur de 500 po
 16-22
-Porte en fer (d’une largeur et d’une hauteur
+Porte en fer (d'une largeur et d'une hauteur
 maximales de 3 mètres, barrée du côté de
 votre choix) que vous pouvez placer dans une
-ouverture à votre portée ; la taille s’adapte
-aux dimensions de l’ouverture et s’y fixe d’ellemême.
-23-30 10 pierres précieuses d’une valeur de 100 po
+ouverture à votre portée ; la taille s'adapte
+aux dimensions de l'ouverture et s'y fixe d'ellemême.
+23-30 10 pierres précieuses d'une valeur de 100 po
 chacune
 31-44 Échelle en bois de 7,30 mètres de long
 45-51 Cheval de selle avec fontes
 52-59
-Fosse (cube de 3 mètres d’arête) que vous
+Fosse (cube de 3 mètres d'arête) que vous
 pouvez placer dans le sol à 3 mètres ou moins
 de vous
 60-68 4 potions de soins
@@ -4332,52 +4332,52 @@ niveau 1 à 3
 84-90 2 molosses
 91-96
 Fenêtre (60 centimètres sur 1,20 mètre et
-jusqu’à 60 centimètres d’épaisseur) que vous
+jusqu'à 60 centimètres d'épaisseur) que vous
 pouvez placer sur une surface verticale à votre
 portée
 97-00 Bélier portable
 SAC AFFAMÉ
 Objet merveilleux, très rare
 À première vue, ce sac ressemble à un sac sans
-fond, mais en réalité, il s’agit de l’orifice nourricier
-d’une créature extradimensionnelle gigantesque.
-L’orifice se ferme si l’on met le sac sur l’envers,
-c’est-à-dire la paroi interne devenant la paroi
+fond, mais en réalité, il s'agit de l'orifice nourricier
+d'une créature extradimensionnelle gigantesque.
+L'orifice se ferme si l'on met le sac sur l'envers,
+c'est-à-dire la paroi interne devenant la paroi
 externe.
 La créature extradimensionnelle reliée au
-sac perçoit tout ce que l’on met à l’intérieur: les
+sac perçoit tout ce que l'on met à l'intérieur: les
 matières animales et végétales sont dévorées et
-perdues à jamais dès qu’elles entrent dans le sac.
+perdues à jamais dès qu'elles entrent dans le sac.
 Quand une créature vivante place un bout de sa
-personne dans le sac, ce qui arrive si quelqu’un y
+personne dans le sac, ce qui arrive si quelqu'un y
 plonge la main pour récupérer quelque chose, il y
 a 50 % de chances que la malheureuse soit entraînée
 dans le sac. Dans ce cas, elle doit utiliser son
-action pour s’échapper via un test de Force DD 15.
+action pour s'échapper via un test de Force DD 15.
 Une tierce personne peut utiliser son action pour
 plonger la main dans le sac et en sortir la créature
 à condition de réussir un test de Force DD 20 (et
-de ne pas s’être laissée emportée dans le sac).
+de ne pas s'être laissée emportée dans le sac).
 Toute créature qui débute son tour dans le sac se
 fait dévorer et son corps est détruit.
 On peut stocker des objets inanimés dans le
 sac, qui contient au maximum 28 litres de matière
 inanimée. Cependant, une fois par jour, le
 sac avale tous les objets placés en son sein et les
-recrache sur un autre plan d’existence. C’est au MJ
+recrache sur un autre plan d'existence. C'est au MJ
 de décider à quelle heure cela se produit et quel
 est le plan de destination.
 Si le sac est perforé ou déchiré, il est détruit
-et tout ce qu’il contenait est emporté en un lieu
+et tout ce qu'il contenait est emporté en un lieu
 aléatoire du plan Astral.
 SAC À MALICE
 Objet merveilleux, peu courant
 Ce banal sac gris, rouille ou brun semble vide.
-Cependant, si l’on plonge la main à l’intérieur,
+Cependant, si l'on plonge la main à l'intérieur,
 on sent un petit objet duveteux. Le sac pèse
 250 grammes.
 Vous pouvez dépenser une action pour sortir
-l’objet duveteux du sac et le lancer à une distance
+l'objet duveteux du sac et le lancer à une distance
 maximale de 6 mètres. Quand il atterrit, il se
 transforme en une créature que vous déterminez
 en lançant un d8 dans la table correspondant à la
@@ -4387,10 +4387,10 @@ vos compagnons et agit à votre tour. Vous pouvez
 utiliser une action bonus pour gérer ses déplacements
 et son action lors de son prochain tour ou
 pour lui donner des ordres génériques, comme
-d’attaquer vos ennemis. En l’absence d’ordre, la
+d'attaquer vos ennemis. En l'absence d'ordre, la
 créature se comporte en accord avec sa nature.
 Une fois que vous avez sorti trois objets
-duveteux du sac, il devient inutile jusqu’à l’aube
+duveteux du sac, il devient inutile jusqu'à l'aube
 suivante.
 Sac à malice gris
 d8 Créature
@@ -4428,17 +4428,17 @@ Ce lourd sac de toile contient 3d4 haricots secs. Il
 pèse 250 grammes plus 125 grammes par haricot.
 Si vous jetez le contenu du sac par terre, les haricots
 explosent, la déflagration affectant un rayon
-de 3 mètres autour d’eux. Chaque créature située
+de 3 mètres autour d'eux. Chaque créature située
 dans la zone, vous compris, doit faire un jet de sauvegarde
 de Dextérité DD 15. Celles qui échouent subissent
 5d4 dégâts de feu, les autres moitié moins.
 Le feu embrase les objets inflammables de la zone,
 sauf ceux qui sont déjà équipés ou transportés.
 Si vous sortez un haricot du sac, le plantez dans
-la terre ou le sable et l’arrosez, il génère un effet une
+la terre ou le sable et l'arrosez, il génère un effet une
 minute plus tard, au niveau du sol où il a été planté.
-C’est au MJ de choisir cet effet, de le déterminer au
-hasard dans la liste suivante ou bien d’en créer un.
+C'est au MJ de choisir cet effet, de le déterminer au
+hasard dans la liste suivante ou bien d'en créer un.
 d100 Effet
 01
 5d4 champignons vénéneux poussent soudain.
@@ -4450,33 +4450,33 @@ empoisonnée pendant 1 heure. Sur un nombre
 pair, elle gagne 5d6 points de vie temporaires
 pendant 1 heure.
 02-10
-Un geyser crache de l’eau, de la bière, du jus de
-fruit, du thé, du vinaigre, du vin ou de l’huile
+Un geyser crache de l'eau, de la bière, du jus de
+fruit, du thé, du vinaigre, du vin ou de l'huile
 (au choix du MJ) à 9 mètres de haut pendant
 1d12 rounds.
 11-20
-Un sylvanien germe du haricot, sachant qu’il y
-a 50 % de chances qu’il soit chaotique mauvais
+Un sylvanien germe du haricot, sachant qu'il y
+a 50 % de chances qu'il soit chaotique mauvais
 et attaque.
 21-30
 Une statue pousse. Elle est animée, en pierre,
 immobile et à votre effigie. Elle vous lance des
 menaces verbales. Si vous la quittez et que
-d’autres créatures approchent, elle vous décrit
+d'autres créatures approchent, elle vous décrit
 comme étant le pire des scélérats et charge les
 nouveaux-venus de vous retrouver et de vous
 éliminer. Si vous vous trouvez sur le même
-plan d’existence que la statue, elle sait où vous
+plan d'existence que la statue, elle sait où vous
 vous trouvez. Elle devient inanimée au bout de
 24 heures.
 31-40
 Un feu de camp aux flammes bleues apparaît
-et brûle pendant 24 heures (ou jusqu’à ce que
-quelqu’un l’éteigne).
+et brûle pendant 24 heures (ou jusqu'à ce que
+quelqu'un l'éteigne).
 41-50 1d6+6 criards apparaissent.
 51-60
-1d4+8 crapauds sortent de terre. Ils sont d’un
-beau rose vif et, dès qu’on en touche un, il se
+1d4+8 crapauds sortent de terre. Ils sont d'un
+beau rose vif et, dès qu'on en touche un, il se
 transforme en monstre de taille G ou inférieure
 choisi par le MJ. Le monstre reste 1 minute puis
 disparaît dans un nuage de fumée rose.
@@ -4484,68 +4484,68 @@ disparaît dans un nuage de fumée rose.
 71-80
 Un arbre fruitier sort de terre. Il porte
 1d10+20 fruits, dont 1d8 agissent comme une
-potion magique aléatoire tandis qu’un seul
-agit comme un poison par voie d’ingestion que
-choisit le MJ. L’arbre disparaît au bout d’une
-heure. Les fruits déjà cueillis ne s’évanouissent
+potion magique aléatoire tandis qu'un seul
+agit comme un poison par voie d'ingestion que
+choisit le MJ. L'arbre disparaît au bout d'une
+heure. Les fruits déjà cueillis ne s'évanouissent
 pas et conservent leur magie pendant 30 jours.
 81-90
 Un nid sort de terre, contenant 1d4+3 oeufs. Une
-créature qui mange l’un d’eux doit faire un jet
+créature qui mange l'un d'eux doit faire un jet
 de sauvegarde de Constitution DD 20. Si elle
 le réussit, sa valeur de caractéristique la plus
 basse augmente définitivement de 1. En cas
-d’égalité entre plusieurs caractéristique, c’est
+d'égalité entre plusieurs caractéristique, c'est
 le hasard qui décide de celle qui augmente.
 Si la créature rate son jet de sauvegarde, elle
 subit 10d6 dégâts de force suite à une explosion
 magique interne.
 91-99
-Une pyramide dotée d’une base de 5 mètres de
+Une pyramide dotée d'une base de 5 mètres de
 côté jaillit du sol. Elle contient le sarcophage
-d’une momie auguste. La pyramide fonctionne
-comme l’antre de la momie et le sarcophage
+d'une momie auguste. La pyramide fonctionne
+comme l'antre de la momie et le sarcophage
 contient un trésor à choisir par le MJ.
 100
 Un pied de haricot géant pousse soudain et
 grimpe à une hauteur à définir par le MJ. Le
 sommet débouche là où le MJ le souhaite : il
 offre une vue magnifique sur le paysage, donne
-accès au château d’un géant des nuages ou
-rejoint un autre plan d’existence.
+accès au château d'un géant des nuages ou
+rejoint un autre plan d'existence.
 SAC SANS FOND
 Objet merveilleux, peu courant
 Ce sac abrite un espace intérieur bien plus grand
 que ce que ses dimensions extérieures laissent
 présager. Visuellement, il fait une soixantaine de
-centimètres de diamètre au niveau de l’ouverture
+centimètres de diamètre au niveau de l'ouverture
 pour 1,20 mètre de profondeur. En revanche, il
-peut contenir jusqu’à 250 kilos de matière, sans
+peut contenir jusqu'à 250 kilos de matière, sans
 dépasser un volume de 2 000 litres. Le sac pèse
 7,5 kilos, quel que soit son contenu. Il faut dépenser
 une action pour récupérer un objet dans le sac.
 Si le sac est surchargé, percé ou déchiré, il se
 découd complètement. Il est alors détruit et son
-contenu s’éparpille sur le plan Astral. Si on retourne
-le sac sur l’envers, son contenu se répand
+contenu s'éparpille sur le plan Astral. Si on retourne
+le sac sur l'envers, son contenu se répand
 à terre, sans dommage, mais il faut le remettre sur
-l’endroit avant de pouvoir s’en servir de nouveau.
-Si l’on place une créature ayant besoin de respirer
+l'endroit avant de pouvoir s'en servir de nouveau.
+Si l'on place une créature ayant besoin de respirer
 dans le sac, sa survie est limitée : elle peut y
 rester un nombre de minutes égal à 10 divisé par
 le nombre de créatures présentes dans le sac (une
 minute au minimum), ensuite, elle commence à
 suffoquer.
-Si l’on place un sac sans fond dans l’espace
-extradimensionnel né d’un havresac magique,
-d’un puits portatif ou d’un objet similaire, les deux
+Si l'on place un sac sans fond dans l'espace
+extradimensionnel né d'un havresac magique,
+d'un puits portatif ou d'un objet similaire, les deux
 objets sont instantanément détruits et un portail
-s’ouvre vers le plan Astral. Il apparaît là où l’on a
+s'ouvre vers le plan Astral. Il apparaît là où l'on a
 placé le premier objet dans le second et toutes
 les créatures situées dans un rayon de 3 mètres
 autour de ce portail sont emportées vers un endroit
 aléatoire du plan Astral. Le portail se referme
-ensuite, sachant qu’il est à sens unique et qu’il est
+ensuite, sachant qu'il est à sens unique et qu'il est
 impossible de le rouvrir.
 SCARABÉE DE PROTECTION
 Objet merveilleux, légendaire (harmonisation
@@ -4555,100 +4555,100 @@ dans la main pendant 1 round, une inscription
 apparaît à sa surface, révélant sa nature magique.
 Il confère deux avantages tant que vous le portez
 sur vous :
-* vous obtenez l’avantage lors des jets de sauvegarde
+* vous obtenez l'avantage lors des jets de sauvegarde
 contre les sorts.
 * Le scarabée contient 12 charges. Si vous
 ratez un jet de sauvegarde contre un sort de
 nécromancie ou un effet nuisible infligé par
 un mort-vivant, vous pouvez utiliser votre réaction
 pour dépenser 1 charge et transformer
-l’échec du jet de sauvegarde en réussite. Le
+l'échec du jet de sauvegarde en réussite. Le
 scarabée est détruit et tombe alors en poussière
 quand sa dernière charge est dépensée.
-SCEPTRE D’ABSORPTION
+SCEPTRE D'ABSORPTION
 Sceptre, très rare (harmonisation requise)
 Tant que vous tenez ce sceptre en main, vous
 pouvez utiliser votre réaction pour absorber un
-sort qui ne cible que vous et n’est donc pas un sort
-à zone d’effet. L’effet du sort absorbé est annulé
-et l’énergie magique (et non le sort lui-même)
+sort qui ne cible que vous et n'est donc pas un sort
+à zone d'effet. L'effet du sort absorbé est annulé
+et l'énergie magique (et non le sort lui-même)
 est stockée dans le sceptre. Cette énergie est
 du même niveau que le sort au moment de son
 incantation. Le sceptre peut absorber et stocker
-jusqu’à 50 niveaux d’énergie au cours de son
+jusqu'à 50 niveaux d'énergie au cours de son
 existence. Dès que le sceptre a absorbé 50 niveaux
-d’énergie, il ne peut plus en absorber davantage.
-Si vous êtes la cible d’un sort dont le sceptre ne
-peut pas absorber l’énergie, l’objet magique ne
+d'énergie, il ne peut plus en absorber davantage.
+Si vous êtes la cible d'un sort dont le sceptre ne
+peut pas absorber l'énergie, l'objet magique ne
 produit aucun effet sur ce sort.
 Quand vous êtes en harmonie avec le sceptre,
-vous connaissez le nombre de niveaux d’énergie
+vous connaissez le nombre de niveaux d'énergie
 absorbés par le sceptre au cours de son existence
-et le nombre de niveaux d’énergie magique qu’il
+et le nombre de niveaux d'énergie magique qu'il
 contient actuellement.
 Si vous êtes un lanceur de sorts et que vous
 tenez le sceptre en main, vous pouvez convertir
-l’énergie stockée en emplacements de sort pour
+l'énergie stockée en emplacements de sort pour
 lancer des sorts que vous connaissez ou que vous
 avez préparés. Vous pouvez créer des emplacements
-de sort uniquement d’un niveau égal
+de sort uniquement d'un niveau égal
 ou inférieur à vos propres niveaux de sort et ce,
-jusqu’au niveau 5 au maximum. Vous utilisez les
+jusqu'au niveau 5 au maximum. Vous utilisez les
 niveaux stockés à la place de vos emplacements
-et lancez, par ailleurs, le sort comme à l’accoutumée.
+et lancez, par ailleurs, le sort comme à l'accoutumée.
 Par exemple, vous pouvez utiliser 3 niveaux
 stockés dans le sceptre comme un emplacement
 de sort de niveau 3.
-Un sceptre qui vient d’être découvert contient
-1d10 niveaux d’énergie magique. La magie du
-sceptre disparaît dès qu’il ne peut plus absorber
-d’énergie magique et qu’aucune énergie n’est
-stockée à l’intérieur.
+Un sceptre qui vient d'être découvert contient
+1d10 niveaux d'énergie magique. La magie du
+sceptre disparaît dès qu'il ne peut plus absorber
+d'énergie magique et qu'aucune énergie n'est
+stockée à l'intérieur.
 SCEPTRE DE PUISSANCE SEIGNEURIALE
 Sceptre, légendaire (harmonisation requise)
 Ce sceptre à la tête en collerette fonctionne
-comme une masse d’armes magique qui confère
-un bonus de +3 aux jets d’attaque et de dégâts
+comme une masse d'armes magique qui confère
+un bonus de +3 aux jets d'attaque et de dégâts
 effectués avec elle. Le sceptre possède les propriétés
 associées aux six boutons différents alignés le
 long de son manche. Il possède également trois
 autres propriétés, comme décrit ci-dessous.
-Six boutons. Vous pouvez appuyer sur l’un des six
-boutons du sceptre par une action bonus. L’effet
-d’un bouton dure jusqu’au moment où vous
+Six boutons. Vous pouvez appuyer sur l'un des six
+boutons du sceptre par une action bonus. L'effet
+d'un bouton dure jusqu'au moment où vous
 appuyez sur un bouton différent ou sur le même
 bouton à nouveau, auquel cas le sceptre retrouve
 sa forme normale.
 Si vous appuyez sur le bouton 1, le sceptre
-devient une épée ardente, tandis qu’une lame
-enflammée s’étend depuis l’extrémité opposée à
+devient une épée ardente, tandis qu'une lame
+enflammée s'étend depuis l'extrémité opposée à
 la tête en collerette du sceptre.
 Si vous appuyez sur le bouton 2, la tête en collerette
 du sceptre se replie pour laisser apparaître
 deux lames en forme de croissant, ce qui transforme
-le sceptre en hache d’armes magique qui
-confère un bonus de +3 aux jets d’attaque et de
+le sceptre en hache d'armes magique qui
+confère un bonus de +3 aux jets d'attaque et de
 dégâts effectués avec elle.
 Si vous appuyez sur le bouton 3, la tête en
 collerette se replie, une pointe de lance surgit de
-l’extrémité supérieure du sceptre et le manche
-s’allonge sur une longueur de 1,80 mètre, ce qui
-transforme l’objet en une lance magique qui
-confère un bonus de +3 aux jets d’attaque et de
+l'extrémité supérieure du sceptre et le manche
+s'allonge sur une longueur de 1,80 mètre, ce qui
+transforme l'objet en une lance magique qui
+confère un bonus de +3 aux jets d'attaque et de
 dégâts effectués avec elle.
 Si vous appuyez sur le bouton 4, le sceptre
-se transforme en une perche d’escalade d’une
+se transforme en une perche d'escalade d'une
 longueur maximale de 15 mètres que vous déterminez.
 Une pointe située à une extrémité et trois
-crochets à l’autre permettent de fixer la perche
+crochets à l'autre permettent de fixer la perche
 sur des surfaces aussi solides que le granit. Des
 barreaux horizontaux de 7,50 centimètres de long,
 espacés de 30 centimètres les uns des autres,
 se déploient le long de la perche pour former
-une échelle. La perche peut supporter jusqu’à
+une échelle. La perche peut supporter jusqu'à
 2 tonnes. Le sceptre retrouve sa forme normale si
 la perche supporte un poids trop important ou si
-elle n’est pas fixée convenablement.
+elle n'est pas fixée convenablement.
 Si vous appuyez sur le bouton 5, le sceptre se
 transforme en bélier portable et confère à son
 utilisateur un bonus de +10 aux tests de Force
@@ -4658,215 +4658,215 @@ Si vous appuyez sur le bouton 6, le sceptre reprend
 ou conserve sa forme normale et indique le
 nord magnétique (rien ne se passe si cette fonction
 est utilisée dans un endroit où le nord magnétique
-n’existe pas). Le sceptre vous indique également
+n'existe pas). Le sceptre vous indique également
 la distance approximative qui vous sépare de la
 surface, que ce soit sous terre ou dans les airs.
 Absorption de vie. Quand vous réussissez une
 attaque au corps à corps contre une créature à
-l’aide du sceptre, vous pouvez la forcer à effectuer
+l'aide du sceptre, vous pouvez la forcer à effectuer
 un jet de sauvegarde de Constitution DD 17. En cas
-d’échec, elle subit 4d6 dégâts nécrotiques et vous
+d'échec, elle subit 4d6 dégâts nécrotiques et vous
 récupérez un nombre de points de vie égal à la
 moitié de ces dégâts nécrotiques. Cette propriété
-n’est réutilisable qu’à l’aube suivante.
+n'est réutilisable qu'à l'aube suivante.
 Paralysie. Quand vous réussissez une attaque
-au corps à corps contre une créature à l’aide du
+au corps à corps contre une créature à l'aide du
 sceptre, vous pouvez la forcer à effectuer un jet de
-sauvegarde de Force DD 17. En cas d’échec, elle est
+sauvegarde de Force DD 17. En cas d'échec, elle est
 paralysée pendant 1 minute. La cible peut retenter
 le jet de sauvegarde à la fin de chacun de ses tours
-et mettre fin à l’effet en cas de réussite. Cette propriété
-n’est réutilisable qu’à l’aube suivante.
+et mettre fin à l'effet en cas de réussite. Cette propriété
+n'est réutilisable qu'à l'aube suivante.
 Terreur. En tenant le sceptre en main, vous pouvez
 utiliser une action pour forcer chaque créature
 située à 9 mètres ou moins dans votre champ de
 vision à effectuer un jet de sauvegarde de Sagesse
-DD 17. En cas d’échec, une cible est terrorisée par
+DD 17. En cas d'échec, une cible est terrorisée par
 vous pendant 1 minute. Une cible terrorisée peut retenter
 le jet de sauvegarde à la fin de chacun de ses
-tours et mettre fin à l’effet en cas de réussite. Cette
-propriété n’est réutilisable qu’à l’aube suivante.
+tours et mettre fin à l'effet en cas de réussite. Cette
+propriété n'est réutilisable qu'à l'aube suivante.
 SCEPTRE DE SÉCURITÉ
 Sceptre, très rare
 Tant que vous tenez ce sceptre en main, vous
-pouvez utiliser une action pour l’activer. Le
+pouvez utiliser une action pour l'activer. Le
 sceptre vous transporte alors instantanément,
-ainsi qu’un maximum de 199 autres créatures
+ainsi qu'un maximum de 199 autres créatures
 consentantes situées dans votre champ de vision,
 vers un espace extraplanaire paradisiaque. Vous
 décidez à quoi ressemble cet endroit paradisiaque
 qui peut être un jardin paisible, une jolie clairière,
 une taverne accueillante, un immense palais, une
-île tropicale, un fantastique carnaval ou n’importe
+île tropicale, un fantastique carnaval ou n'importe
 quel autre endroit sorti de votre imagination.
 Quelle que soit sa nature, cet endroit paradisiaque
-contient suffisamment d’eau et de nourriture pour
+contient suffisamment d'eau et de nourriture pour
 toutes les créatures présentes. Toutes les autres
-choses avec lesquelles il est possible d’interagir
-à l’intérieur de l’espace extraplanaire n’existent
+choses avec lesquelles il est possible d'interagir
+à l'intérieur de l'espace extraplanaire n'existent
 que là-bas. Par exemple, une fleur cueillie dans un
-jardin paradisiaque disparaît dès qu’elle en sort.
-Pour chaque heure passée dans l’endroit paradisiaque,
+jardin paradisiaque disparaît dès qu'elle en sort.
+Pour chaque heure passée dans l'endroit paradisiaque,
 un visiteur récupère des points de vie
-comme s’il avait dépensé 1 dé de vie. De plus, les
+comme s'il avait dépensé 1 dé de vie. De plus, les
 créatures ne vieillissent plus pendant leur séjour
-là-bas, même si le temps s’écoule normalement.
-Les visiteurs peuvent rester dans l’endroit paradisiaque
+là-bas, même si le temps s'écoule normalement.
+Les visiteurs peuvent rester dans l'endroit paradisiaque
 pendant un maximum de 200 jours divisés
 par le nombre de créatures présentes (arrondis à
-l’inférieur).
+l'inférieur).
 Une fois cette période écoulée ou si vous utilisez
-une action pour y mettre fin, l’ensemble des
-visiteurs réapparaissent à l’endroit qu’ils occupaient
-au moment de l’activation du sceptre ou
-dans l’emplacement inoccupé le plus proche de
-cet endroit. Le sceptre n’est réutilisable qu’au bout
+une action pour y mettre fin, l'ensemble des
+visiteurs réapparaissent à l'endroit qu'ils occupaient
+au moment de l'activation du sceptre ou
+dans l'emplacement inoccupé le plus proche de
+cet endroit. Le sceptre n'est réutilisable qu'au bout
 de dix jours.
 SCEPTRE DE SUZERAINETÉ
 Sceptre, rare (harmonisation requise)
 Vous pouvez utiliser une action pour présenter
-le sceptre et exiger l’obéissance des créatures de
+le sceptre et exiger l'obéissance des créatures de
 votre choix situées à 36 mètres ou moins dans
 votre champ de vision. Les créatures doivent
 chacune réussir un jet de sauvegarde de Sagesse
 DD 15 pour ne pas être charmées par vous pendant
 8 heures. Une fois charmées de cette façon, les
 créatures vous considèrent comme un chef fiable.
-Une cible n’est plus charmée par ce biais si vous ou
-vos compagnons lui nuisent ou lui ordonnent d’accomplir
+Une cible n'est plus charmée par ce biais si vous ou
+vos compagnons lui nuisent ou lui ordonnent d'accomplir
 quelque chose de contraire à sa nature. Le
-sceptre n’est réutilisable qu’à l’aube suivante.
+sceptre n'est réutilisable qu'à l'aube suivante.
 SCEPTRE DE VIGILANCE
 Sceptre, très rare (harmonisation requise)
 Ce sceptre à la tête en collerette possède les propriétés
 suivantes.
 Vigilance. Tant que vous tenez le sceptre en main,
-vous obtenez l’avantage lors des tests de Sagesse
-(Perception) et des jets d’initiative.
+vous obtenez l'avantage lors des tests de Sagesse
+(Perception) et des jets d'initiative.
 Sorts. Tant que vous tenez le sceptre en main,
 vous pouvez utiliser une action pour lancer un des
 sorts suivants par son biais : détection de la magie,
 détection du mal et du bien, détection du poison et
-des maladies ou voir l’invisible.
+des maladies ou voir l'invisible.
 Aura protectrice. Par une action, vous pouvez
 planter le manche du sceptre dans le sol pour que
 sa tête diffuse une lumière vive sur un rayon de
 18 mètres et une lumière faible sur 18 mètres audelà.
 Vous et les créatures amicales envers vous
 situés dans la zone vivement éclairée bénéficient
-d’un bonus de +1 à la CA et aux jets de sauvegarde.
+d'un bonus de +1 à la CA et aux jets de sauvegarde.
 Vous et ces mêmes créatures pouvez également
-percevoir la position d’éventuelles créatures hostiles
+percevoir la position d'éventuelles créatures hostiles
 et invisibles qui se tiennent elles aussi dans la
 zone vivement éclairée.
 La lumière diffusée par la tête du sceptre
-s’éteint et l’effet prend fin au bout de 10 minutes
+s'éteint et l'effet prend fin au bout de 10 minutes
 ou quand une créature utilise une action pour déplanter
-le sceptre. Il faut attendre l’aube suivante
+le sceptre. Il faut attendre l'aube suivante
 avant de pouvoir réutiliser cette propriété.
 SCEPTRE INAMOVIBLE
 Objet merveilleux, peu courant
-Ce sceptre plat en fer est équipé d’un bouton sur
+Ce sceptre plat en fer est équipé d'un bouton sur
 une extrémité. Vous pouvez utiliser une action
 pour appuyer dessus : il se fixe alors par magie à
-l’endroit où il se trouve. Il ne bouge plus tant que
-vous ou une tierce personne n’utilisez pas une
+l'endroit où il se trouve. Il ne bouge plus tant que
+vous ou une tierce personne n'utilisez pas une
 action pour appuyer de nouveau sur le bouton,
-même s’il doit pour cela défier les lois de la gravité.
-Le sceptre peut soutenir jusqu’à 4 tonnes. Il
+même s'il doit pour cela défier les lois de la gravité.
+Le sceptre peut soutenir jusqu'à 4 tonnes. Il
 se désactive et tombe si on lui fait porter plus de
 poids. Une créature peut utiliser une action pour
 faire un test de Force DD 30 afin de déplacer le
-sceptre. Si elle réussit, il bouge d’au maximum
+sceptre. Si elle réussit, il bouge d'au maximum
 3 mètres.
-SPHÈRE D’ANNIHILATION
+SPHÈRE D'ANNIHILATION
 Objet merveilleux, légendaire
 Cette sphère noire de 60 centimètres de diamètre
 est un trou dans le multivers, en lévitation dans
-l’espace et stabilisé grâce au champ magique qui
-l’enveloppe.
+l'espace et stabilisé grâce au champ magique qui
+l'enveloppe.
 La sphère oblitère toute matière qui la traverse.
 Seuls les artefacts ne sont pas détruits. À moins
-qu’il ne soit sensible aux dégâts infligés par une
-sphère d’annihilation, un artefact passe à travers
+qu'il ne soit sensible aux dégâts infligés par une
+sphère d'annihilation, un artefact passe à travers
 la sphère sans subir le moindre dégât. Tout autre
 chose qui entre en contact avec la sphère – mais
-n’est pas complètement engloutie et donc oblitérée
+n'est pas complètement engloutie et donc oblitérée
 par elle – subit 4d10 dégâts de force.
 La sphère reste immobile à moins que
-quelqu’un ne la contrôle. Si vous vous situez à
-18 mètres ou moins d’une sphère que personne
+quelqu'un ne la contrôle. Si vous vous situez à
+18 mètres ou moins d'une sphère que personne
 ne contrôle, vous pouvez utiliser une action pour
-effectuer un test d’Intelligence (Arcanes) DD 25. En
+effectuer un test d'Intelligence (Arcanes) DD 25. En
 cas de réussite, la sphère lévite dans la direction
 de votre choix sur une distance maximale égale
-à 1,50 mètre × votre modificateur d’Intelligence
-(1,50 mètre au minimum). En cas d’échec, la
+à 1,50 mètre × votre modificateur d'Intelligence
+(1,50 mètre au minimum). En cas d'échec, la
 sphère se déplace de 3 mètres vers vous. Quand
-la sphère entre dans l’emplacement occupée par
+la sphère entre dans l'emplacement occupée par
 une créature, celle-ci soit réussir un jet de sauvegarde
 de Dextérité DD 13 pour éviter de la toucher
 et de subir 4d10 dégâts de force.
 Si vous tentez de contrôler une sphère déjà
-sous le contrôle d’une autre créature, vous devez
-effectuer un test d’Intelligence (Arcanes) opposé
-au test d’Intelligence (Arcanes) de cette créature.
-Celui qui l’emporte obtient ou garde le contrôle de
+sous le contrôle d'une autre créature, vous devez
+effectuer un test d'Intelligence (Arcanes) opposé
+au test d'Intelligence (Arcanes) de cette créature.
+Celui qui l'emporte obtient ou garde le contrôle de
 la sphère et peut la faire léviter normalement.
 Si la sphère entre en contact avec un portail
 planaire, tel que ceux créés par le sort de portail,
 ou un espace extradimensionnel, tel que ceux
 contenus dans un puits portatif, le MJ détermine
-au hasard ce qu’il se passe en utilisant la table
+au hasard ce qu'il se passe en utilisant la table
 ci-dessous.
 d100 Résultat
 01-50 La sphère est détruite.
 51-85 La sphère traverse le portail ou entre dans
-l’espace extradimensionnel.
+l'espace extradimensionnel.
 86-00
 Une faille spatiale envoie chaque créature et
 objet situés à 54 mètres ou moins de la sphère,
 y compris la sphère elle-même, vers un plan
-d’existence déterminé au hasard.
+d'existence déterminé au hasard.
 SOLVANT UNIVERSEL
 Objet merveilleux, légendaire
 Ce tube contient un liquide laiteux qui sent fort
-l’alcool. Vous pouvez utiliser une action pour
+l'alcool. Vous pouvez utiliser une action pour
 déverser le contenu du tube sur une surface à
-portée. Le liquide dissout instantanément jusqu’à
+portée. Le liquide dissout instantanément jusqu'à
 30 centimètres carrés de colle avec laquelle il
 entre en contact, y compris de la colle universelle.
 SUBMERSIBLE DU CRABE
 Objet merveilleux, légendaire
 Au premier abord, cet objet ressemble à un
 tonneau de fer scellé de taille G. Il pèse 250 kilos
-et dispose d’un loquet dissimulé qui se remarque
-seulement suite à un test d’Intelligence (Investigation)
+et dispose d'un loquet dissimulé qui se remarque
+seulement suite à un test d'Intelligence (Investigation)
 DD 20. Si on le débloque, il ouvre une trappe
 au sommet du tonneau, ce qui permet à deux
 créatures de taille M ou inférieure de se glisser à
-l’intérieur. Là, dix leviers sont disposés en rangée,
-tous en position neutre et susceptibles d’être
+l'intérieur. Là, dix leviers sont disposés en rangée,
+tous en position neutre et susceptibles d'être
 tirés vers le haut ou le bas. Si on actionne les bons
 leviers, le submersible se transforme en homard
 géant.
 Le submersible du crabe est un objet de taille G
 doté des statistiques suivantes.
-Classe d’armure: 20
+Classe d'armure: 20
 Points de vie: 200
 Vitesse: 9 mètres, nage 9 mètres (ou 0 si les pattes
 et la queue ne sont pas dépliées)
 Immunité aux dégâts: poison, psychiques
-Le submersible a besoin d’un pilote pour fonctionner
+Le submersible a besoin d'un pilote pour fonctionner
 comme un véhicule. Tant que la trappe
-est fermée, le compartiment est étanche: l’eau et
-l’air ne peuvent pas y pénétrer. Le compartiment
-abrite assez d’air pour qu’une créature de taille
+est fermée, le compartiment est étanche: l'eau et
+l'air ne peuvent pas y pénétrer. Le compartiment
+abrite assez d'air pour qu'une créature de taille
 M y respire pendant 10 heures, cette durée étant
 à diviser par le nombre de créatures obligées de
-respirer s’il y en a plusieurs à l’intérieur.
-Le submersible flotte sur l’eau mais peut aussi
-s’enfoncer jusqu’à une profondeur de 270 mètres.
+respirer s'il y en a plusieurs à l'intérieur.
+Le submersible flotte sur l'eau mais peut aussi
+s'enfoncer jusqu'à une profondeur de 270 mètres.
 Plus bas, le véhicule subit 2d6 points de dégâts
 contondants par minute à cause de la pression.
 Une créature installée dans le compartiment
@@ -4882,8 +4882,8 @@ Levier Haut Bas
 1 Déploiement de la queue et des pattes, ce qui permet
 au submersible de marcher et nager.
 Repliement de la queue et des pattes, ce qui réduit
-la vitesse du submersible à 0 et l’empêche de
-profiter d’éventuels bonus de vitesse.
+la vitesse du submersible à 0 et l'empêche de
+profiter d'éventuels bonus de vitesse.
 2 Ouverture du volet de la fenêtre avant. Fermeture du volet de la fenêtre avant.
 3 Ouverture des volets des fenêtres latérales (deux de
 chaque côté).
@@ -4891,57 +4891,57 @@ Fermeture des volets des fenêtres latérales (deux
 de chaque côté).
 4 Deux pinces se déploient de chaque côté du
 submersible. Les deux pinces se rétractent.
-5 Chaque pince dépliée est considérée comme une arme de corps à corps et porte l’attaque suivante : +8 pour
+5 Chaque pince dépliée est considérée comme une arme de corps à corps et porte l'attaque suivante : +8 pour
 toucher, allonge 1,50 m, une cible. Coup: 7 (2d6) dégâts contondants.
 6 Le submersible avance en marchant ou en nageant. Le submersible recule en marchant ou en
 nageant.
-7 L’appareil tourne de 90° sur la gauche. L’appareil tourne de 90° sur la droite.
+7 L'appareil tourne de 90° sur la gauche. L'appareil tourne de 90° sur la droite.
 8
-Des pièces d’équipement semblables à des yeux
+Des pièces d'équipement semblables à des yeux
 émettent une vive lumière dans un rayon de 9 mètres et
 une lumière faible dans un rayon de 9 mètres de plus.
-Les lumières s’éteignent.
-9 Le submersible s’enfonce d’au maximum 6 mètres dans
+Les lumières s'éteignent.
+9 Le submersible s'enfonce d'au maximum 6 mètres dans
 un liquide.
-Le submersible remonte d’au maximum 6 mètres
+Le submersible remonte d'au maximum 6 mètres
 dans un liquide.
-10 La trappe arrière se descelle et s’ouvre. La trappe arrière se ferme et se scelle.
+10 La trappe arrière se descelle et s'ouvre. La trappe arrière se ferme et se scelle.
 
 TALISMAN DE LA SPHÈRE
 Objet merveilleux, légendaire (harmonisation
 requise)
-Lorsque vous effectuez un test d’Intelligence
-(Arcanes) pour contrôler une sphère d’annihilation
+Lorsque vous effectuez un test d'Intelligence
+(Arcanes) pour contrôler une sphère d'annihilation
 en tenant ce talisman en main, vous doublez votre
 bonus de maîtrise pour ce test. En outre, lorsque
 vous commencez votre tour en contrôlant une
-sphère d’annihilation, vous pouvez utiliser une
+sphère d'annihilation, vous pouvez utiliser une
 action pour la faire léviter sur une distance de 3
 mètres plus 3 mètres supplémentaires × votre modificateur
-d’Intelligence.
+d'Intelligence.
 TALISMAN DU BIEN ULTIME
 Objet merveilleux, légendaire (harmonisation
-avec une créature d’alignement bon exigée)
+avec une créature d'alignement bon exigée)
 Ce talisman est un puissant symbole du bien. Une
-créature dont l’alignement n’est ni bon ni mauvais
+créature dont l'alignement n'est ni bon ni mauvais
 subit 6d6 dégâts radiants quand elle le touche.
-Une créature d’alignement mauvais subit 8d6 dégâts
+Une créature d'alignement mauvais subit 8d6 dégâts
 radiants quand elle le touche. Quand elles le
 tiennent en main ou portent le talisman sur elles,
 ces deux types de créature subissent une nouvelle
 fois les dégâts à la fin de chacun de leurs tours.
-Si vous êtes un clerc ou un paladin d’alignement
+Si vous êtes un clerc ou un paladin d'alignement
 bon, le talisman peut faire office de symbole
-sacré, et vous bénéficiez d’un bonus de +2 aux jets
-d’attaque des sorts tant que vous le portez sur
+sacré, et vous bénéficiez d'un bonus de +2 aux jets
+d'attaque des sorts tant que vous le portez sur
 vous ou le tenez en main.
 Le talisman contient 7 charges. Si vous le portez
 sur vous ou le tenez en main, vous pouvez utiliser
 une action pour dépenser 1 charge et choisir une
 créature située à 36 mètres de vous, en contact
-avec le sol et dans votre champ de vision. Si l’alignement
+avec le sol et dans votre champ de vision. Si l'alignement
 de la cible est mauvais, une fissure de
-flammes rugissantes s’ouvre sous elle. La créature
+flammes rugissantes s'ouvre sous elle. La créature
 doit réussir un jet de sauvegarde de Dextérité
 DD 20 pour ne pas trébucher dans la fissure, ce qui
 aboutirait à sa destruction définitive, sans aucun
@@ -4951,33 +4951,33 @@ et se désagrège en particules de lumière dorée
 lorsque vous dépensez la dernière charge.
 TALISMAN DU MAL ULTIME
 Objet merveilleux, légendaire (harmonisation
-avec une créature d’alignement mauvais exigée)
+avec une créature d'alignement mauvais exigée)
 Ce talisman est un puissant symbole du mal. Une
-créature dont l’alignement n’est ni bon ni mauvais
+créature dont l'alignement n'est ni bon ni mauvais
 subit 6d6 dégâts nécrotiques quand elle le touche.
-Une créature d’alignement bon subit 8d6 dégâts
+Une créature d'alignement bon subit 8d6 dégâts
 nécrotiques quand elle le touche. Quand elles
 tiennent en main ou portent le talisman sur elles,
 ces deux types de créature subissent une nouvelle
 fois les dégâts à la fin de chacun de leurs tours.
-Si vous êtes un clerc ou un paladin d’alignement
+Si vous êtes un clerc ou un paladin d'alignement
 mauvais, le talisman peut faire office de
-symbole sacré et vous bénéficiez d’un bonus de
-+2 aux jets d’attaque des sorts tant que vous le
+symbole sacré et vous bénéficiez d'un bonus de
++2 aux jets d'attaque des sorts tant que vous le
 portez sur vous ou le tenez en main.
 Le talisman contient 6 charges. Si vous le portez
 sur vous ou le tenez en main, vous pouvez utiliser
 une action pour dépenser 1 charge et choisir une
 créature située à 36 mètres de vous, en contact
 avec le sol et dans votre champ de vision. Si
-l’alignement de la cible est bon, une fissure de
-flammes rugissantes s’ouvre sous elle. Elle doit
+l'alignement de la cible est bon, une fissure de
+flammes rugissantes s'ouvre sous elle. Elle doit
 réussir un jet de sauvegarde de Dextérité DD 20
 pour ne pas trébucher dans la fissure, ce qui abou-
 tirait à sa destruction définitive, sans aucun reste
 à récupérer. La fissure se referme ensuite en ne
 laissant aucune trace. Le talisman est détruit et se
-désagrège en bave à l’odeur nauséabonde lorsque
+désagrège en bave à l'odeur nauséabonde lorsque
 vous dépensez la dernière charge.
 TAPIS VOLANT
 Objet merveilleux, très rare
@@ -4986,7 +4986,7 @@ ce tapis par une action, il flotte dans les airs. Il se
 déplace en volant selon vos indications vocales
 tant que vous vous trouvez à 9 mètres ou moins
 de lui.
-Il existe quatre tailles de tapis. C’est au MJ de
+Il existe quatre tailles de tapis. C'est au MJ de
 choisir celle de chaque tapis ou de la déterminer
 au hasard.
 d100 Taille Capacité Vitesse de vol
@@ -4995,43 +4995,43 @@ d100 Taille Capacité Vitesse de vol
 56-80 1,50 m × 2,10 m 600 kg 12 m
 81-100 1,80 m × 2,70 m 400 kg 9 m
 Un tapis peut porter deux fois le poids indiqué
-dans la table mais, s’il porte plus que sa capacité
+dans la table mais, s'il porte plus que sa capacité
 normale, il se déplace à la moitié de la vitesse
 indiquée.
-TRAITÉ D’AUTORITÉ ET D’INFLUENCE
+TRAITÉ D'AUTORITÉ ET D'INFLUENCE
 Objet merveilleux, très rare
-Ce livre contient des exercices d’interactions
+Ce livre contient des exercices d'interactions
 sociales basées sur la manipulation et la charme.
 Ses mots sont imprégnés de magie. Si vous passez
-48 heures, lors d’une période de 6 jours ou
+48 heures, lors d'une période de 6 jours ou
 moins, à étudier le contenu du traité, à suivre ses
 indications et faire ses exercices, votre valeur de
 Charisme ainsi que votre valeur maximale dans
 cette caractéristique augmentent de 2. La magie
 du traité disparaît ensuite, mais elle réapparaît au
-bout d’un siècle.
+bout d'un siècle.
 TRAITÉ DE COMPRÉHENSION
 Objet merveilleux, très rare
 Ce livre contient des exercices intuitifs de sagacité.
 Ses mots sont imprégnés de magie. Si vous
-passez 48 heures, lors d’une période de 6 jours
+passez 48 heures, lors d'une période de 6 jours
 ou moins, à étudier le contenu du traité, à suivre
 ses indications et faire ses exercices, votre valeur
 de Sagesse ainsi que votre valeur maximale dans
 cette caractéristique augmentent de 2. La magie
 du traité disparaît ensuite, mais elle réapparaît au
-bout d’un siècle.
+bout d'un siècle.
 TRAITÉ DE PERSPICACITÉ
 Objet merveilleux, très rare
 Ce livre contient des exercices de logique et de
 mémoire. Ses mots sont imprégnés de magie.
-Si vous passez 48 heures, lors d’une période de
+Si vous passez 48 heures, lors d'une période de
 6 jours ou moins, à étudier le contenu du traité,
 à suivre ses indications et faire ses exercices,
-votre valeur d’Intelligence ainsi que votre valeur
+votre valeur d'Intelligence ainsi que votre valeur
 maximale dans cette caractéristique augmentent
 de 2. La magie du traité disparaît ensuite, mais elle
-réapparaît au bout d’un siècle.
+réapparaît au bout d'un siècle.
 TRIDENT DE DOMINATION AQUATIQUE
 Arme (trident), peu courante (harmonisation
 requise)
@@ -5042,23 +5042,23 @@ pour lancer dominer une bête (DD du jet de sauvegarde
 15) par son biais sur une créature qui sait nager
 de manière innée et possède une vitesse à la
 nage. Le trident récupère 1d3 charges dépensées
-chaque jour, à l’aube.
+chaque jour, à l'aube.
 TUEUSE DE DRAGONS
 Arme (épée), rare
-Vous gagnez un bonus de +1 aux jets d’attaque et
+Vous gagnez un bonus de +1 aux jets d'attaque et
 de dégâts effectués avec cette arme magique.
 Quand vous touchez un dragon avec elle, il
 subit 3d6 dégâts supplémentaires du type de
-l’arme. Le terme « dragon » utilisé dans le cadre de
+l'arme. Le terme « dragon » utilisé dans le cadre de
 cette description regroupe toutes les créatures du
 type dragon, y compris les dragons-tortues et les
 vouivres.
 TUEUSE DE GÉANT
 Arme (épée ou hache), rare
-Vous gagnez un bonus de +1 aux jets d’attaque et
+Vous gagnez un bonus de +1 aux jets d'attaque et
 de dégâts avec cette arme magique.
 Quand vous touchez un géant avec elle, il subit
-2d6 dégâts supplémentaires du type de l’arme et
+2d6 dégâts supplémentaires du type de l'arme et
 doit réussir un jet de sauvegarde de Force DD 15
 ou tomber à terre. Vis-à-vis de cette arme, « géant »
 désigne toute créature du type géant, y compris
@@ -5066,30 +5066,30 @@ les ettins et les trolls.
 VENGERESSE SACRÉE
 Arme (épée), légendaire (harmonisation requise
 avec un paladin)
-Vous gagnez un bonus de +3 aux jets d’attaque et
+Vous gagnez un bonus de +3 aux jets d'attaque et
 de dégâts avec cette arme magique. Quand vous
 touchez un fiélon ou un mort-vivant avec, il subit
 2d10 dégâts radiants supplémentaires.
-Tant que vous tenez l’arme en main, elle génère
+Tant que vous tenez l'arme en main, elle génère
 une aura de 3 mètres de rayon autour de vous.
 Vous et toutes les créatures amicales envers vous
-affectées par l’aura obtenez l’avantage lors des
+affectées par l'aura obtenez l'avantage lors des
 jets de sauvegarde contre les sorts et autres effets
 magiques. Si vous possédez 17 niveaux ou plus
-dans la classe de paladin, le rayon de l’aura passe
+dans la classe de paladin, le rayon de l'aura passe
 à 9 mètres.
 VOLEUSE DE VIES
 Arme (épée), très rare (harmonisation requise)
-Vous gagnez un bonus de +2 aux jets d’attaque et
+Vous gagnez un bonus de +2 aux jets d'attaque et
 de dégâts avec cette arme magique.
-L’épée possède 1d8+1 charges. Si vous réussissez
+L'épée possède 1d8+1 charges. Si vous réussissez
 un coup critique contre une créature possédant
 moins de 100 points de vie, elle doit réussir
 un jet de sauvegarde de Constitution DD 15, sans
-quoi l’épée lui arrache sa force vitale et la tue surle-
+quoi l'épée lui arrache sa force vitale et la tue surle-
 champ (les créatures artificielles et les morts-vivants
 sont immunisés contre ce pouvoir). Si la
-créature meurt, l’épée perd une charge. Quand il
+créature meurt, l'épée perd une charge. Quand il
 ne lui en reste plus, elle perd ce pouvoir.
 
 [Items]: #
