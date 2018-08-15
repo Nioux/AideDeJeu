@@ -1,11 +1,19 @@
 [][Items]
 
+<Items>
+
+<Header>
+
 # Races
 
 - AltName: <AltName>Races</AltName> (SRD p3)
 - Source: (MDR p36)
 
+</Header>
+
 [][Generic]
+
+<Generic>
 
 ### Traits raciaux
 
@@ -13,6 +21,8 @@
 - Source: (MDR p36)
 
 Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
+
+</Generic>
 
 [][Generic]
 
@@ -137,6 +147,8 @@ Certaines races se divisent en plusieurs peuples avec des différences culturell
 
 ## [Tieffelin]
 - AltName: [Tiefling](#)
+
+</Items>
 
 [Demi-elfe]: half-elf_hd.md
 [Demi-orc]: half-orc_hd.md
