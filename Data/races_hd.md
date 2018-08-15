@@ -2,7 +2,7 @@
 
 # Races
 
-- AltName: Races (SRD p3)
+- AltName: <AltName>Races</AltName> (SRD p3)
 - Source: (MDR p36)
 
 [][Generic]
