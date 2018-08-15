@@ -21,6 +21,12 @@ namespace AideDeJeuLib
                 }
                 else
                 {
+                    regex = new Regex("(?<text>.*?)( \\(SRD p\\d*\\))");
+                    match = regex.Match(AltName ?? string.Empty);
+                    if (!string.IsNullOrEmpty(match.Groups["text"].Value))
+                    {
+                        return match.Groups["text"].Value;
+                    }
                     return AltName ?? string.Empty;
                 }
             }

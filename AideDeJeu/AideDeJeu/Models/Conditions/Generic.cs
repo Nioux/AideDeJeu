@@ -42,28 +42,43 @@ namespace AideDeJeuLib
                 var listBlock = block as ListBlock;
                 if (listBlock.BulletType == '-')
                 {
-                    var regex = new Regex("(?<key>.*?): (?<value>.*)");
-                    var str = block.ToMarkdownString();
-                    var properties = new List<Tuple<string, Action<Generic, string>>>()
-                        {
-                            new Tuple<string, Action<Generic, string>>("- AltName: ", (m, s) =>
-                            {
-                                this.Text += "- " + s; m.AltName = s;
-                            }),
-                            new Tuple<string, Action<Generic, string>>("", (m, s) =>
-                            {
-                                this.Text += str;
-                            }),
-                        };
-
-                    foreach (var property in properties)
+                    foreach (var inblock in listBlock)
                     {
-                        if (str.StartsWith(property.Item1))
+                        if (inblock is Markdig.Syntax.ListItemBlock)
                         {
-                            property.Item2.Invoke(this, str.Substring(property.Item1.Length));
-                            break;
+                            var listItemBlock = inblock as Markdig.Syntax.ListItemBlock;
+                            foreach (var ininblock in listItemBlock)
+                            {
+                                if (ininblock is Markdig.Syntax.ParagraphBlock)
+                                {
+                                    var paragraphBlock = ininblock as Markdig.Syntax.ParagraphBlock;
+                                    var str = paragraphBlock.ToMarkdownString();
+                                    var regex = new Regex("(?<key>.*?): (?<value>.*)");
+                                    var properties = new List<Tuple<string, Action<Generic, string>>>()
+                                        {
+                                            new Tuple<string, Action<Generic, string>>("AltName: ", (m, s) =>
+                                            {
+                                                this.Text += "- " + s; m.AltName = s;
+                                            }),
+                                            new Tuple<string, Action<Generic, string>>("", (m, s) =>
+                                            {
+                                                this.Text += str;
+                                            }),
+                                        };
+
+                                    foreach (var property in properties)
+                                    {
+                                        if (str.StartsWith(property.Item1))
+                                        {
+                                            property.Item2.Invoke(this, str.Substring(property.Item1.Length));
+                                            break;
+                                        }
+                                    }
+                                }
+                            }
                         }
                     }
+                    this.Text += "\n";
                 }
                 else
                 {
