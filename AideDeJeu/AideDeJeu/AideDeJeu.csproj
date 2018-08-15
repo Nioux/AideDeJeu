@@ -283,6 +283,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\armor_hd.md" Link="Data\armor_hd.md" />
+    <EmbeddedResource Include="..\..\Data\beyond1stlevel_hd.md" Link="Data\beyond1stlevel_hd.md" />
+    <EmbeddedResource Include="..\..\Data\weapons_hd.md" Link="Data\weapons_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

@@ -2424,26 +2424,26 @@ Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents
 - **Unité** bouteille
 
 
-[à deux mains]: equipment_properties_hd.md#À-deux-mains
-[À deux mains]: equipment_properties_hd.md#À-deux-mains
-[allonge]: equipment_properties_hd.md#allonge
-[Allonge]: equipment_properties_hd.md#allonge
-[chargement]: equipment_properties_hd.md#chargement
-[Finesse]: equipment_properties_hd.md#finesse
-[lancer]: equipment_properties_hd.md#lancer
-[Lancer]: equipment_properties_hd.md#lancer
-[légère]: equipment_properties_hd.md#légère
-[Légère]: equipment_properties_hd.md#légère
-[lourde]: equipment_properties_hd.md#lourde
-[Lourde]: equipment_properties_hd.md#lourde
-[Munitions]: equipment_properties_hd.md#munitions
-[polyvalente]: equipment_properties_hd.md#polyvalente
-[Polyvalente]: equipment_properties_hd.md#polyvalente
-[spéciale]: equipment_properties_hd.md#spéciale
-[Spéciale]: equipment_properties_hd.md#spéciale
+[à deux mains]: weapons_hd.md#À-deux-mains
+[À deux mains]: weapons_hd.md#À-deux-mains
+[allonge]: weapons_hd.md#allonge
+[Allonge]: weapons_hd.md#allonge
+[chargement]: weapons_hd.md#chargement
+[Finesse]: weapons_hd.md#finesse
+[lancer]: weapons_hd.md#lancer
+[Lancer]: weapons_hd.md#lancer
+[légère]: weapons_hd.md#légère
+[Légère]: weapons_hd.md#légère
+[lourde]: weapons_hd.md#lourde
+[Lourde]: weapons_hd.md#lourde
+[Munitions]: weapons_hd.md#munitions
+[polyvalente]: weapons_hd.md#polyvalente
+[Polyvalente]: weapons_hd.md#polyvalente
+[spéciale]: weapons_hd.md#spéciale
+[Spéciale]: weapons_hd.md#spéciale
 
 [Médecine]: abilities_wisdom_hd.md#médecine
-[Sagesse]: abilities_wisdom_hd.md#sagesse
+[Sagesse]: abilities_wisdom_hd.md
 
 [Sagesse (Médecine)]: abilities_wisdom_hd.md#médecine
 
