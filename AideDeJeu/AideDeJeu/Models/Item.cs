@@ -15,7 +15,14 @@ namespace AideDeJeuLib
             {
                 var regex = new Regex("\\[(?<text>.*?)\\]");
                 var match = regex.Match(AltName ?? string.Empty);
-                return match.Groups["text"].Value;
+                if (!string.IsNullOrEmpty(match.Groups["text"].Value))
+                {
+                    return match.Groups["text"].Value;
+                }
+                else
+                {
+                    return AltName ?? string.Empty;
+                }
             }
         }
 
