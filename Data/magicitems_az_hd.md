@@ -1,7 +1,7 @@
 
 [][Items]
 
-# Les objets magiques
+## Les objets magiques
 
 - AltName: Magic Items A-Z (SRD p207)
 - Source: (COC p138)
@@ -11,61 +11,81 @@ Les objets magiques sont présentés ici dans l'ordre
 alphabétique. Le descriptif de chacun comprend son
 nom, sa catégorie, sa rareté et ses propriétés magiques.
 
-AILES DE VOL
+[][Generic]
+
+### AILES DE VOL
 
 Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous êtes équipé de cette cape, vous pouvez utiliser une action pour prononcer son mot de commande. La cape se transforme alors en paire d'ailes de chauve-souris ou d'oiseau placée dans votre dos pendant 1 heure ou jusqu'au moment ou vous répétez le mot de commande par une action. Les ailes vous confèrent une vitesse de déplacement en vol de 18 mètres. Il faut attendre 1d12 heures depuis la dernière disparition des ailes avant de pouvoir les réutiliser.
 
-AMULETTE ANTIDOTE
+[][Generic]
+
+### AMULETTE ANTIDOTE
 
 Objet merveilleux, rare
 
 Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d'argent. Tant que vous portez ce pendentif, les poisons n'ont aucun effet sur vous : vous êtes immunisé contre l'état empoisonné et contre les dégâts de poison.
 
-AMULETTE D'ANTIDÉTECTION
+[][Generic]
+
+### AMULETTE D'ANTIDÉTECTION
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de divination. Ce genre de magie ne peut plus vous prendre pour cible et ne vous perçoit plus à travers ses organes de scrutation magiques.
 
-AMULETTE DE BONNE SANTÉ
+[][Generic]
+
+### AMULETTE DE BONNE SANTÉ
 
 Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L'amulette n'a aucun effet si votre Constitution est déjà de 19 ou plus.
 
-AMULETTE DE CICATRISATION
+[][Generic]
+
+### AMULETTE DE CICATRISATION
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au début de votre tour si vous êtes mourant. De plus, à chaque fois que vous lancez un dé de vie pour récupérer des points de vie, vous doublez le nombre de points de vie rendus.
 
-AMULETTE DE SANTÉ
+[][Generic]
+
+### AMULETTE DE SANTÉ
 
 Objet merveilleux, peu courant
 
 Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladies. Si vous êtes déjà malade, les effets de la maladie sont supprimés tant que vous portez l'amulette.
 
-AMULETTE DES PLANS
+[][Generic]
+
+### AMULETTE DES PLANS
 
 Objet merveilleux, très rare (harmonisation requise)
 
 Tant que vous portez cette amulette, vous pouvez utiliser votre action pour nommer un endroit qui vous est familier et se trouve sur un autre plan d'existence. Faites ensuite un test d'Intelligence DD 15. Si vous réussissez, vous lancez changement de plan, si vous échouez, vous et toutes les créatures et tous les objets situés dans un rayon de 4,50 mètres autour de vous êtes emportés vers une destination aléatoire. Lancez 1d100. De 1 à 60, cet endroit aléatoire se trouve sur le plan où vous trouviez déjà, de 61 à 100 vous arrivez sur un plan d'existence déterminé au hasard.
 
-ANNEAU D'ACTION LIBRE
+[][Generic]
+
+### ANNEAU D'ACTION LIBRE
 
 Anneau, rare (harmonisation requise)
 
 Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûtent aucun déplacement supplémentaire. De plus, la magie ne peut pas réduire votre vitesse, vous paralyser ou vous entraver.
 
-ANNEAU DE CHALEUR
+[][Generic]
+
+### ANNEAU DE CHALEUR
 
 Anneau, peu courant (harmonisation requise)
 
 Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous portez cet anneau au doigt. De plus, vous et tout l'équipement que vous portez êtes protégés contre les températures extrêmement basses (jusque -10 degrés Celsius)
 
-ANNEAU DE CONVOCATION DE DJINN
+[][Generic]
+
+### ANNEAU DE CONVOCATION DE DJINN
 
 Anneau, légendaire (harmonisation requise)
 
@@ -75,13 +95,17 @@ Le djinn convoqué est amical envers vous et vos compagnons. Il obéit à la tot
 
 Après le retour du djinn sur son plan d'origine, vous ne pouvez plus le convoquer avant que 24 heures ne se soient écoulées. L'anneau devient ordinaire et sa magie disparaît dès que le djinn meurt.
 
-ANNEAU DE DÉROBADE
+[][Generic]
+
+### ANNEAU DE DÉROBADE
 
 Anneau, rare (harmonisation requise)
 
 Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Si vous ratez un jet de sauvegarde de Dextérité alors que vous portez cet anneau au doigt, vous pouvez utiliser votre réaction pour dépenser 1 de ses charges et remplacer l'échec de ce jet de sauvegarde par une réussite.
 
-ANNEAU DE FEU D'ÉTOILES
+[][Generic]
+
+### ANNEAU DE FEU D'ÉTOILES
 
 Anneau, très rare (harmonisation en plein air et de nuit exigée)
 
@@ -105,13 +129,17 @@ Sphères Dégâts de foudre
 
 Feu d'étoiles. Vous pouvez dépenser 1 à 3 charges par une action. Pour chaque charge dépensée, vous pouvez projeter une particule de lumière depuis l'anneau jusqu'à un point situé dans votre champ de vision à 18 mètres ou moins. Chaque créature située dans un cube de 4,50 mètres de côté autour du point désigné est criblée d'étincelles et doit effectuer un jet de sauvegarde de Dextérité DD 15 ; elle subit 5d4 dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
-ANNEAU DE LÉGÈRETÉ
+[][Generic]
+
+### ANNEAU DE LÉGÈRETÉ
 
 Anneau, rare (harmonisation requise)
 
 Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tant que vous portez cet anneau au doigt.
 
-ANNEAU DE MAÎTRISE ÉLÉMENTAIRE
+[][Generic]
+
+### ANNEAU DE MAÎTRISE ÉLÉMENTAIRE
 
 Anneau, légendaire (harmonisation requise)
 
@@ -151,25 +179,33 @@ Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'ann
 * Vous êtes immunisé aux dégâts de feu.
 * Vous pouvez lancer les sorts suivants grâce à l'anneau en dépensant le nombre nécessaire de charges : boule de feu (2 charges), mains brûlantes (1 charge) et mur de feu (3 charges).
 
-ANNEAU DE MARCHE SUR L'EAU
+[][Generic]
+
+### ANNEAU DE MARCHE SUR L'EAU
 
 Anneau, peu courant
 
 Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus comme si elle était solide.
 
-ANNEAU DE NAGE
+[][Generic]
+
+### ANNEAU DE NAGE
 
 Anneau, peu courant
 
 Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vous portez cet anneau au doigt.
 
-ANNEAU DE PROTECTION
+[][Generic]
+
+### ANNEAU DE PROTECTION
 
 Anneau, rare (harmonisation requise)
 
 Vous bénéficiez d'un bonus de +1 à la CA et aux jets de sauvegarde tant que vous portez cet anneau au doigt.
 
-ANNEAU DE PROTECTION MENTALE
+[][Generic]
+
+### ANNEAU DE PROTECTION MENTALE
 
 Anneau, peu courant (harmonisation requise)
 
@@ -179,19 +215,25 @@ Vous pouvez utiliser une action pour que l'anneau devienne invisible jusqu'à ce
 
 Si vous perdez la vie avec l'anneau au doigt, votre âme se réfugie à l'intérieur, à moins qu'il ne contienne déjà une âme. Vous pouvez rester dans l'anneau ou vous en aller pour l'après-vie. Tant que votre âme est à l'intérieur de l'anneau, vous pouvez communiquer par télépathie avec la créature qui l'enfile. Un porteur ne peut pas empêcher cette communication télépathique.
 
-ANNEAU DE RÉGÉNÉRATION
+[][Generic]
+
+### ANNEAU DE RÉGÉNÉRATION
 
 Anneau, très rare (harmonisation requise)
 
 Tant que vous portez cet anneau, vous récupérez 1d6 points de vie toutes les 10 minutes, à condition qu'il vous reste au moins 1 point de vie. Si vous perdez des parties de votre corps, l'anneau permet la repousse des parties manquantes qui retrouvent leur entière fonctionnalité au bout de 1d6+1 jours s'il vous reste au moins 1 point de vie pendant toute cette période.
 
-ANNEAU DE RENVOI DES SORTS
+[][Generic]
+
+### ANNEAU DE RENVOI DES SORTS
 
 Anneau, légendaire (harmonisation requise)
 
 Vous obtenez l'avantage lors des jets de sauvegarde contre les sorts qui ne prennent que vous pour cible (et non une zone d'effet) tant que vous portez cet anneau au doigt. De plus, si vous obtenez un 20 au jet de sauvegarde et que le sort est de niveau 7 ou moins, celui-ci ne produit aucun effet sur vous et il cible à la place son lanceur, en utilisant le niveau d'emplacement, le DD des jets de sauvegarde contre le sort et la caractéristique d'incantation du lanceur.
 
-ANNEAU DE RÉSISTANCE
+[][Generic]
+
+### ANNEAU DE RÉSISTANCE
 
 Anneau, rare (harmonisation requise)
 
@@ -209,13 +251,17 @@ d10 Type de dégâts Pierre précieuse
 9 Radiant Topaze
 10 Tonnerre Spinelle
 
-ANNEAU DE SAUT
+[][Generic]
+
+### ANNEAU DE SAUT
 
 Anneau, peu courant (harmonisation requise)
 
 Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant que vous portez cet anneau au doigt. Seul vous bénéficiez des effets de ce sort.
 
-ANNEAU DE STOCKAGE DE SORTS
+[][Generic]
+
+### ANNEAU DE STOCKAGE DE SORTS
 
 Anneau, rare (harmonisation requise)
 
@@ -225,19 +271,25 @@ Toute créature peut lancer un sort de niveau 1 à 5 dans l'anneau en le touchan
 
 Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké à l'intérieur. Le sort utilise le niveau d'emplacement, le DD du jet de sauvegarde contre le sort, le bonus à l'attaque du sort et la caractéristique d'incantation de la créature qui l'a lancé mais, pour tous les autres paramètres, on considère que c'est vous qui lancez le sort. Le sort lancé depuis l'anneau n'est plus stocké à l'intérieur et libère ainsi de l'espace de stockage.
 
-ANNEAU DE TÉLÉKINÉSIE
+[][Generic]
+
+### ANNEAU DE TÉLÉKINÉSIE
 
 Anneau, très rare (harmonisation requise)
 
 Tant que vous portez cet anneau au doigt, vous pouvez lancer le sort de télékinésie à volonté mais vous ne pouvez cibler que des objets qui ne sont ni équipés ni portés.
 
-ANNEAU DE TRIPLE SOUHAIT
+[][Generic]
+
+### ANNEAU DE TRIPLE SOUHAIT
 
 Anneau, légendaire
 
 Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'anneau et lancer un sort de souhait par son biais. L'anneau devient ordinaire et non-magique dès que vous utilisez sa dernière charge.
 
-ANNEAU DE VISION AUX RAYONS X
+[][Generic]
+
+### ANNEAU DE VISION AUX RAYONS X
 
 Anneau, rare (harmonisation requise)
 
@@ -245,7 +297,9 @@ Vous pouvez utiliser une action pour prononcer le mot de commande de cet anneau.
 
 Chaque fois que vous utilisez l'anneau à nouveau avant de prendre un repos long, vous devez réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être affublé d'un niveau d'épuisement.
 
-ANNEAU D'INFLUENCE ANIMALE
+[][Generic]
+
+### ANNEAU D'INFLUENCE ANIMALE
 
 Anneau, rare
 
@@ -255,13 +309,17 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 * Peur (DD des jets de sauvegarde contre le sort 13). Seules les bêtes dotées d'une Intelligence de 3 ou moins peuvent être ciblées par ce sort.
 * Communication avec les animaux
 
-ANNEAU D'INVISIBILITÉ
+[][Generic]
+
+### ANNEAU D'INVISIBILITÉ
 
 Anneau, légendaire (harmonisation requise)
 
 Vous pouvez devenir invisible par une action tant que vous portez cet anneau au doigt. L'ensemble de vos objets équipés ou transportés deviennent également invisibles. Vous restez invisible jusqu'à ce que l'anneau soit retiré, si vous attaquez, lancez un sort ou utilisez une action bonus pour redevenir visible.
 
-ANNEAU DU BÉLIER
+[][Generic]
+
+### ANNEAU DU BÉLIER
 
 Anneau, rare (harmonisation requise)
 
@@ -269,7 +327,9 @@ Cet anneau contient 3 charges et récupère 1d3 charges chaque jour, à l'aube. 
 
 Par ailleurs, vous pouvez dépenser de 1 à 3 des charges que contient l'anneau par une action pour tenter de briser un objet ni équipé, ni porté, et situé à 18 mètres ou moins de vous dans votre champ de vision. L'anneau effectue un test de Force avec un bonus de +5 pour chaque charge dépensée.
 
-ARC DU SERMENT
+[][Generic]
+
+### ARC DU SERMENT
 
 Arme (arc long), très rare (harmonisation requise)
 
@@ -279,19 +339,25 @@ Quand vous faites une attaque à distance avec cet arc contre votre ennemi juré
 
 Tant que vit votre ennemi juré, vous subissez un désavantage lors de jets d'attaque effectués avec toutes les autres armes.
 
-ARME VICIEUSE
+[][Generic]
+
+### ARME VICIEUSE
 
 Arme (n'importe quelle arme), rare
 
 Lorsque vous obtenez un 20 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires du type normalement infligé par l'arme.
 
-ARME +1, +2 OU +3
+[][Generic]
+
+### ARME +1, +2 OU +3
 
 Arme (n'importe quelle arme), peu courante (+1), rare (+2) ou très rare (+3)
 
 Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec cette arme magique. Le bonus est déterminé par la rareté de l'arme.
 
-ARMURE D'ÉCAILLES DE DRAGON
+[][Generic]
+
+### ARMURE D'ÉCAILLES DE DRAGON
 
 Armure (armure d'écaille), très rare (harmonisation requise)
 
@@ -313,13 +379,17 @@ Rouge Feu
 Argent Froid
 Blanc Froid
 
-ARMURE DE MITHRAL
+[][Generic]
+
+### ARMURE DE MITHRAL
 
 Armure (intermédiaire ou lourde mais pas en peau), peu courante
 
 Le mithral est un métal léger et flexible, à tel point qu'on peut porter une chemise de mailles ou une cuirasse de cette matière sous des vêtements normaux. Si le type d'armure impose d'ordinaire un désavantage lors des tests de Dextérité (Discrétion) ou si une certaine valeur de Force figure parmi ses conditions requises, ce n'est pas le cas de sa version en mithral.
 
-ARMURE DÉMONIAQUE
+[][Generic]
+
+### ARMURE DÉMONIAQUE
 
 Armure (harnois), très rare (harmonisation requise)
 
@@ -327,7 +397,9 @@ Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA et vous c
 
 Malédiction. Une fois que vous avez enfilé cette armure maudite, vous ne pouvez plus la retirer, à moins de bénéficier du sort lever la malédiction ou d'une magie similaire. Tant que vous portez l'armure, vous subissez un désavantage lors de vos jets d'attaque contre les démons et de vos jets de sauvegarde contre leurs sorts et de leurs pouvoirs spéciaux.
 
-ARMURE DE RÉSISTANCE
+[][Generic]
+
+### ARMURE DE RÉSISTANCE
 
 Armure (légère, intermédiaire ou lourde), rare (harmonisation requise)
 
@@ -345,7 +417,9 @@ d10 Type de dégâts
 9 Radiant
 10 Tonnerre
 
-ARMURE DE VULNÉRABILITÉ
+[][Generic]
+
+### ARMURE DE VULNÉRABILITÉ
 
 Armure (harnois), rare (harmonisation requise)
 
@@ -353,25 +427,33 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts 
 
 Malédiction. Cette armure est maudite, mais les gens l'ignorent à moins de lui lancer le sort identification ou de s'harmoniser avec elle. Si vous vous harmonisez avec l'armure, elle vous maudit jusqu'à ce que vous bénéficiez du sort lever la malédiction ou d'une magie similaire. Vous aurez beau enlever l'armure, cela ne suffit pas à briser la malédiction. Tant que vous êtes maudit, vous êtes vulnérable à deux des trois types de dégâts contre lesquels l'armure peut vous offrir une résistance (jamais celui pour lequel elle vous rend résistant).
 
-ARMURE D'INVULNÉRABILITÉ
+[][Generic]
+
+### ARMURE D'INVULNÉRABILITÉ
 
 Armure (harnois), légendaire (harmonisation requise)
 
 Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De plus, vous pouvez dépenser une action pour vous immuniser contre les dégâts non-magiques pendant 10 minutes ou jusqu'à ce que vous ne portiez plus l'armure. Une fois que vous avez utilisé cette action spéciale, vous ne pouvez plus vous en servir avant l'aube suivante.
 
-ARMURE EN ADAMANTIUM
+[][Generic]
+
+### ARMURE EN ADAMANTIUM
 
 Armure (intermédiaire ou lourde, mais pas en peau), peu courante
 
 Cette armure est renforcée à base d'adamantium, l'une des substances les plus solides au monde. Tant que vous la portez, tous les coups critiques réussis contre vous se muent en coups normaux.
 
-ARMURE +1, +2 OU +3
+[][Generic]
+
+### ARMURE +1, +2 OU +3
 
 Armure (légère, intermédiaire ou lourde), rare (+1), très rare (+2) ou légendaire (+3)
 
 Vous disposez d'un bonus à la CA tant que vous portez cette armure. Ce bonus dépend de la rareté de l'armure.
 
-BAGUETTE D'ÉCLAIRS
+[][Generic]
+
+### BAGUETTE D'ÉCLAIRS
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -379,7 +461,9 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres sur un résultat de 1.
 
-BAGUETTE DE BOULES DE FEU
+[][Generic]
+
+### BAGUETTE DE BOULES DE FEU
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -387,7 +471,9 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres sur un résultat de 1.
 
-BAGUETTE DE DÉTECTION DE L'ENNEMI
+[][Generic]
+
+### BAGUETTE DE DÉTECTION DE L'ENNEMI
 
 Baguette, rare (harmonisation requise)
 
@@ -395,13 +481,17 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. Sur un 1, elle est détruite et tombe en cendres.
 
-BAGUETTE DE DÉTECTION DE LA MAGIE
+[][Generic]
+
+### BAGUETTE DE DÉTECTION DE LA MAGIE
 
 Baguette, peu courante
 
 Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dépenser 1 charge par une action pour lancer le sort détection de la magie par son biais. La baguette récupère 1d3 charges dépensées chaque jour, à l'aube.
 
-BAGUETTE DE MÉTAMORPHOSE
+[][Generic]
+
+### BAGUETTE DE MÉTAMORPHOSE
 
 Baguette, très rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -409,7 +499,9 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres sur un résultat de 1.
 
-BAGUETTE DE PARALYSIE
+[][Generic]
+
+### BAGUETTE DE PARALYSIE
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -417,7 +509,9 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres sur un résultat de 1.
 
-BAGUETTE DE PROJECTILES MAGIQUES
+[][Generic]
+
+### BAGUETTE DE PROJECTILES MAGIQUES
 
 Baguette, peu courante
 
@@ -425,7 +519,9 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres sur un résultat de 1.
 
-BAGUETTE DE TERREUR
+[][Generic]
+
+### BAGUETTE DE TERREUR
 
 Baguette, rare (harmonisation requise)
 
@@ -435,7 +531,9 @@ Ordre. Avec cette baguette en main, vous pouvez utiliser une action pour dépens
 
 Cône de terreur. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 2 charges et projeter depuis l'extrémité de la baguette un cône de 18 mètres de lumière ambrée. Les créatures dans le cône doivent chacune réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être terrorisées par votre présence pendant 1 minute. Terrorisée de cette façon, une créature doit consacrer ses tours à tenter de s'éloigner le plus loin possible de vous. Elle ne peut pas approcher volontairement à 9 mètres ou moins de vous. Elle ne peut plus non plus faire de réaction. En ce qui concerne ses actions, elle peut effectuer uniquement l'action se précipiter ou tenter d'échapper à un effet qui l'empêche de se déplacer. Si elle n'a nulle part où aller, elle peut effectuer l'action esquiver. À la fin de chacun de ses tours, une créature peut retenter le jet de sauvegarde et mettre fin à l'effet dont elle est victime en cas de réussite.
 
-BAGUETTE DES ENTRAVES
+[][Generic]
+
+### BAGUETTE DES ENTRAVES
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -445,19 +543,25 @@ Sorts. Avec cette baguette en main, vous pouvez utiliser une action pour dépens
 
 Évasion facilitée. Avec cette baguette en main, vous pouvez utiliser votre réaction et vous obtenez l'avantage lors d'un jet de sauvegarde effectué pour ne pas vous retrouver paralysé ou entravé. Vous pouvez aussi dépenser 1 charge de cette façon pour obtenir l'avantage lors d'un test effectué pour éviter de vous retrouver empoigné.
 
-BAGUETTE DES SECRETS
+[][Generic]
+
+### BAGUETTE DES SECRETS
 
 Baguette, peu courante
 
 Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et, si une porte secrète ou un piège est présent à 9 mètres ou moins de vous, la baguette se met à pulser et pointe dans la direction du plus proche de vous. La baguette récupère 1d3 charges dépensées chaque jour, à l'aube.
 
-BAGUETTE DU MAGE DE GUERRE +1, +2 OU +3
+[][Generic]
+
+### BAGUETTE DU MAGE DE GUERRE +1, +2 OU +3
 
 Baguette, peu courant (+1), rare (+2) ou très rare (+3) (harmonisation avec un lanceur de sorts exigée)
 
 Avec cette baguette en main, vous bénéficiez d'un bonus aux jets d'attaque des sorts déterminé par la rareté de la baguette. En outre, vous ignorez les abris partiels lorsque vous effectuez une attaque de sort.
 
-BAGUETTE ENTOILÉE
+[][Generic]
+
+### BAGUETTE ENTOILÉE
 
 Baguette, peu courante (harmonisation avec un lanceur de sorts exigée)
 
@@ -465,7 +569,9 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres sur un résultat de 1.
 
-BAGUETTE MERVEILLEUSE
+[][Generic]
+
+### BAGUETTE MERVEILLEUSE
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -582,7 +688,9 @@ réussite. La pétrification dure tant que la cible
 n'est pas libérée par un sort de restauration
 supérieure ou une magie similaire.
 
-BALAI VOLANT
+[][Generic]
+
+### BALAI VOLANT
 
 Objet merveilleux, peu courant
 
@@ -590,13 +698,17 @@ Ce balai de bois pèse 1,5 kilo et fonctionne comme un balai ordinaire, à moins
 
 Vous pouvez envoyer le balai rejoindre seul une destination située dans un rayon de 1,5 kilomètre, à condition de prononcer le mot de commande, le nom de la destination et de bien connaître cette dernière. Le balai revient à vous quand vous prononcez un autre mot de commande, à condition qu'il se trouve encore dans un rayon de 1,5 kilomètre autour de vous.
 
-BANDEAU D'INTELLIGENCE
+[][Generic]
+
+### BANDEAU D'INTELLIGENCE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est déjà de 19 ou plus, il n'a aucun effet sur vous.
 
-BATEAU PLIABLE
+[][Generic]
+
+### BATEAU PLIABLE
 
 Objet merveilleux, rare
 
@@ -610,7 +722,9 @@ Quand la boîte se change en bateau, son poids devient celui d'un navire ordinai
 
 Le troisième mot de commande replie le bateau qui redevient une boîte, à condition qu'il n'y ait pas de créatures à bord. Tout objet qui se trouve à bord et ne peut pas tenir dans la boîte se retrouve à l'extérieur de ce récipient quand le navire se replie. Tout objet qui se trouve à bord du bateau et peut tenir dans la boîte se retrouve à l'intérieur.
 
-BÂTON D'ENVOÛTEMENT
+[][Generic]
+
+### BÂTON D'ENVOÛTEMENT
 
 Bâton, rare (harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -620,7 +734,9 @@ Si vous tenez le bâton en main et ratez un jet de sauvegarde contre un sort d'e
 
 Le bâton récupère 1d8+2 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. La magie du bâton disparaît sur un résultat de 1.
 
-BÂTON DE COMBAT
+[][Generic]
+
+### BÂTON DE COMBAT
 
 Bâton, très rare (harmonisation requise)
 
@@ -628,7 +744,9 @@ Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 �
 
 Le bâton contient 10 charges. Quand vous réussissez une attaque au corps à corps en l'utilisant, vous pouvez dépenser jusqu'à 3 charges. Pour chaque charge dépensée, la cible subit 1d6 dégâts de force supplémentaires. Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. La magie du bâton disparaît sur un résultat de 1.
 
-BÂTON DE FEU
+[][Generic]
+
+### BÂTON DE FEU
 
 Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -638,7 +756,9 @@ Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utili
 
 Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Le bâton est détruit, se racornit et tombe en cendres sur un résultat de 1.
 
-BÂTON DE FLÉTRISSEMENT
+[][Generic]
+
+### BÂTON DE FLÉTRISSEMENT
 
 Bâton, rare (harmonisation avec un druide, un clerc ou un sorcier exigée)
 
@@ -646,7 +766,9 @@ Ce bâton contient 3 charges et récupère 1d3 charges dépensées chaque jour, 
 
 Le bâton peut être manié comme une arme magique. En cas d'attaque réussie, il inflige les dégâts d'un bâton normal et vous pouvez dépenser 1 charge pour infliger 2d10 dégâts nécrotiques supplémentaires à la cible. De plus, la cible doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas subir de désavantage pendant 1 heure lors des tests de caractéristique et des jets de sauvegarde basés sur la Force ou la Constitution.
 
-BÂTON DE GUÉRISON
+[][Generic]
+
+### BÂTON DE GUÉRISON
 
 Bâton, rare (harmonisation avec un barde, un clerc ou un druide exigée)
 
@@ -654,7 +776,9 @@ Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utili
 
 Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Le bâton disparaît en un éclat de lumière sur un résultat de 1.
 
-BÂTON DE GIVRE
+[][Generic]
+
+### BÂTON DE GIVRE
 
 Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée) 
 
@@ -664,7 +788,9 @@ Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utili
 
 Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Le bâton est détruit et se transforme en eau sur un résultat de 1.
 
-BÂTON DE PUISSANCE
+[][Generic]
+
+### BÂTON DE PUISSANCE
 
 Bâton, très rare (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -688,7 +814,9 @@ restantes du bâton
 > à 6 m et < ou = à 9 m 4 × nombre de charges
 restantes du bâton
 
-BÂTON DE TONNERRE ET DE FOUDRE
+[][Generic]
+
+### BÂTON DE TONNERRE ET DE FOUDRE
 
 Bâton, très rare (harmonisation requise)
 
@@ -704,7 +832,9 @@ Coup de tonnerre. Vous pouvez utiliser une action pour que le bâton émette un 
 
 Tonnerre et foudre. Vous pouvez utiliser une action pour vous servir en même temps des propriétés Frappe foudroyante et Coup de tonnerre. L'activation de cette propriété dépense son utilisation quotidienne. Elle ne dépense toutefois pas l'utilisation quotidienne des propriétés Frappe foudroyante et Coup de tonnerre.
 
-BÂTON DES FORÊTS
+[][Generic]
+
+### BÂTON DES FORÊTS
 
 Bâton, rare (harmonisation avec un druide exigée)
 
@@ -718,7 +848,9 @@ Vous pouvez également utiliser une action pour lancer le sort passage sans trac
 
 Forme d'arbre. Vous pouvez utiliser une action pour planter une extrémité du bâton dans la terre fertile et dépenser une charge afin de transformer le bâton en un arbre vigoureux. Cet arbre doté d'un tronc de 1,50 mètre de diamètre fait 18 mètres de haut. Les branches au sommet de la canopée s'étendent depuis le haut du tronc sur un rayon de 6 mètres. L'arbre semble ordinaire ; il émane néanmoins de lui une faible aura de transmutation magique si on le cible d'une détection de la magie. Si vous touchez l'arbre et utilisez une autre action pour prononcer le mot de commande du bâton, vous le forcez à retrouver sa forme normale. Les créatures dans l'arbre chutent lorsque celui-ci redevient un bâton.
 
-BÂTON DU GRAND ESSAIM
+[][Generic]
+
+### BÂTON DU GRAND ESSAIM
 
 Bâton, rare (harmonisation requise)
 
@@ -728,7 +860,9 @@ Sorts. Tant que vous tenez le bâton en main, vous pouvez utiliser une action po
 
 Nuée d'insectes. Tant que vous tenez le bâton en main, vous pouvez utiliser une action pour dépenser 1 charge et provoquer l'apparition d'une nuée d'insectes volants inoffensifs qui s'étend dans un rayon de 3 mètres autour de vous. Les insectes restent ainsi pendant 10 minutes. La visibilité dans la zone qu'ils occupent est nulle pour toutes les créatures sauf vous. La nuée vous suit et reste centrée sur vous. Un vent de 30 kilomètres par heure au moins disperse la nuée et met fin à l'effet qu'elle produit.
 
-BÂTON DU PYTHON
+[][Generic]
+
+### BÂTON DU PYTHON
 
 Bâton, peu courant (harmonisation avec un clerc, druide ou un sorcier exigée)
 
@@ -738,7 +872,9 @@ Lors de votre tour, vous pouvez mentalement diriger le serpent si celui-ci se si
 
 Si le nombre de points de vie du serpent tombe à 0, il meurt et reprend sa forme de bâton. Le bâton est alors détruit et vole en éclats. Si le serpent reprend sa forme de bâton avant de perdre la totalité de ses points de vie, il les récupère tous.
 
-BÂTON DU THAUMATURGE
+[][Generic]
+
+### BÂTON DU THAUMATURGE
 
 Bâton, légendaire (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -764,7 +900,9 @@ restantes du bâton
 > à 6 m et < ou = à 9 m 4 × nombre de charges
 restantes du bâton
 
-BAUME REVIGORANT
+[][Generic]
+
+### BAUME REVIGORANT
 
 Objet merveilleux, peu courant
 
@@ -772,7 +910,9 @@ Ce pot en verre de 7 à 8 centimètres de diamètre contient 1d4+1 doses d'une m
 
 Par une action, il est possible d'avaler ou d'appliquer sur la peau une dose de baume. La créature qui en bénéficie récupère 2d8+2 points de vie, elle n'est plus empoisonnée et toutes les maladies dont elle est victime sont soignées.
 
-BOL DE CONTRÔLE DES ÉLÉMENTAIRES DE L'EAU
+[][Generic]
+
+### BOL DE CONTRÔLE DES ÉLÉMENTAIRES DE L'EAU
 
 Objet merveilleux, rare
 
@@ -780,7 +920,9 @@ Tant que ce bol est rempli d'eau, vous pouvez utiliser une action pour prononcer
 
 Le bol fait une trentaine de centimètres de diamètre pour quinze centimètres de profondeur. Vide, il pèse 1,5 kilo et contient dans les 10 litres.
 
-BOTTES AILÉES
+[][Generic]
+
+### BOTTES AILÉES
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -788,19 +930,25 @@ Tant que vous portez ces bottes aux pieds, vous disposez d'une vitesse de dépla
 
 Les bottes récupèrent 2 heures de capacité de vol pour chaque période de 12 heures passées sans être utilisées.
 
-BOTTES DE LÉVITATION
+[][Generic]
+
+### BOTTES DE LÉVITATION
 
 Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ces bottes, vous pouvez utiliser une action pour lancer le sort lévitation sur votre personne à volonté.
 
-BOTTES DE MARCHE ET DE SAUT
+[][Generic]
+
+### BOTTES DE MARCHE ET DE SAUT
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moins qu'elle ne soit déjà supérieure) et elle ne se réduit pas si vous êtes encombré ou portez une armure lourde. De plus, vous pouvez sauter trois fois plus loin que la normale, sans dépasser la distance que vous pourriez parcourir avec la distance de déplacement qui vous reste.
 
-BOTTES DE RAPIDITÉ
+[][Generic]
+
+### BOTTES DE RAPIDITÉ
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -808,7 +956,9 @@ Tant que vous portez ces bottes, vous pouvez utiliser une action bonus pour claq
 
 Une fois que la capacité spéciale des bottes a servi pendant un total de 10 minutes, cette magie est indisponible jusqu'à ce que vous ayez terminé un long repos.
 
-BOTTES DES TERRES GELÉES
+[][Generic]
+
+### BOTTES DES TERRES GELÉES
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -818,25 +968,33 @@ Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez,
 * Vous ignorez les terrains rendus difficiles à cause de la glace ou de la neige.
 * Vous supportez des températures descendant jusqu'à -45°C sans protection supplémentaire. Si vous portez des vêtements chauds, vous supportez des températures allant jusqu'à -75°C.
 
-BOTTES ELFIQUES
+[][Generic]
+
+### BOTTES ELFIQUES
 
 Objet merveilleux, peu courant
 
 Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle que soit la surface que vous traversez. Vous obtenez également l'avantage lors des tests de Dextérité (Discrétion) basés sur le silence de vos déplacements.
 
-BOUCLIER ANIMÉ
+[][Generic]
+
+### BOUCLIER ANIMÉ
 
 Armure (bouclier), très rare (harmonisation requise)
 
 Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par une action bonus. Il s'anime alors, bondit dans les airs et flotte dans votre emplacement pour vous protéger comme si vous le teniez alors que vous gardez les mains libres. Il reste animé pendant 1 minute, jusqu'à ce que vous utilisiez une action bonus pour mettre un terme à l'effet ou jusqu'à ce que vous soyez neutralisé ou mort. Il tombe alors à terre ou revient dans votre main si vous avez une main libre.
 
-BOUCLIER ANTIPROJECTILES
+[][Generic]
+
+### BOUCLIER ANTIPROJECTILES
 
 Armure (bouclier), rare (harmonisation requise)
 
 Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la CA contre les attaques à distance. Ce bonus s'ajoute au bonus que le bouclier apporte déjà d'ordinaire à la CA. De plus, quand un assaillant effectue une attaque à distance contre une cible située à 1,50 mètre de vous ou moins, vous pouvez utiliser votre réaction pour devenir la cible de cette attaque à sa place.
 
-BOUCLIER D'ATTRACTION DES PROJECTILES
+[][Generic]
+
+### BOUCLIER D'ATTRACTION DES PROJECTILES
 
 Armure (bouclier), rare (harmonisation requise)
 
@@ -844,19 +1002,25 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'une résistance contre les 
 
 Malédiction. Ce bouclier est maudit. L'harmonisation avec ce bouclier vous maudit jusqu'à ce que vous soyez la cible du sort lever une malédiction ou d'une magie similaire. Se débarrasser du bouclier ne met pas fin à la malédiction qui pèse sur vous. Chaque fois qu'une attaque d'arme à distance est effectuée contre une cible située à 3 mètres ou moins de vous, la malédiction intervient pour que vous soyez la cible de l'attaque à la place de la cible initiale.
 
-BOUCLIER DE PROTECTION CONTRE LA MAGIE
+[][Generic]
+
+### BOUCLIER DE PROTECTION CONTRE LA MAGIE
 
 Armure (bouclier), très rare (harmonisation requise)
 
 Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. De plus, les attaques de sort subissent un désavantage lorsqu'elles vous prennent pour cible.
 
-BOUCLIER +1, +2 OU +3
+[][Generic]
+
+### BOUCLIER +1, +2 OU +3
 
 Armure (bouclier), peu courant (+1), rare (+2) ou très rare (+3)
 
 Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus à la CA qui dépend de la rareté du bouclier. Ce bonus vient en plus du bonus normal à la CA que le bouclier confère.
 
-BOULE DE CRISTAL
+[][Generic]
+
+### BOULE DE CRISTAL
 
 Objet merveilleux, très rare ou légendaire (harmonisation requise)
 
@@ -870,7 +1034,9 @@ Boule de cristal de télépathie. Pendant que vous scrutez quelque chose avec la
 
 Boule de cristal de vision suprême. Pendant que vous utilisez la boule de cristal pour scruter quelque chose, vous bénéficiez de la vision suprême dans un rayon de 36 mètres autour de l'organe sensoriel.
 
-BOUTEILLE DE L'ÉFRIT
+[][Generic]
+
+### BOUTEILLE DE L'ÉFRIT
 
 Objet merveilleux, très rare
 
@@ -896,7 +1062,9 @@ reprises pour vous. Il disparaît quand il a
 accordé le dernier souhait ou au bout d'une
 heure et la bouteille perd sa magie.
 
-BOUTEILLE FUMIGÈNE
+[][Generic]
+
+### BOUTEILLE FUMIGÈNE
 
 Objet merveilleux, peu courant
 
@@ -904,19 +1072,25 @@ De la fumée s'échappe du goulot de cette bouteille pourtant scellée au plomb 
 
 Le nuage persiste tant que la bouteille est ouverte. Pour la fermer, vous devez prononcer son mot de commande par une action. Une fois la bouteille fermée, le nuage se dissipe en 10 minutes. Un vent modéré (16 à 30 km/h) disperse la fumée en 1 minute tandis qu'un vent fort (31 km/h ou plus) la dissipe en 1 round.
 
-BRACELETS D'ARCHERIE
+[][Generic]
+
+### BRACELETS D'ARCHERIE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces bracelets, vous maîtrisez l'arc long et l'arc court et gagnez un bonus de +2 aux jets de dégâts des attaques à distance avec ces armes.
 
-BRACELETS DE DÉFENSE
+[][Generic]
+
+### BRACELETS DE DÉFENSE
 
 Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la CA, à condition que vous ne portiez ni armure, ni bouclier.
 
-BRASERO DE CONTRÔLE DES ÉLÉMENTAIRES DU FEU
+[][Generic]
+
+### BRASERO DE CONTRÔLE DES ÉLÉMENTAIRES DU FEU
 
 Objet merveilleux, rare
 
@@ -924,19 +1098,25 @@ Tant qu'un feu brûle dans ce brasero en laiton, vous pouvez utiliser une action
 
 Le brasero pèse 2,5 kilos.
 
-BROCHE DE PROTECTION
+[][Generic]
+
+### BROCHE DE PROTECTION
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez cette broche, vous êtes résistant aux dégâts de force et vous êtes immunisé contre les dégâts du sort de projectile magique.
 
-CAPE DE DÉPLACEMENT
+[][Generic]
+
+### CAPE DE DÉPLACEMENT
 
 Objet merveilleux, rare (harmonisation requise)
 
 Quand vous enfilez cette cape, elle projette une illusion donnant l'impression que vous vous tenez non loin de votre position réelle. Les créatures qui vous attaquent subissent donc un désavantage lors de leur jet d'attaque contre vous. Si vous subissez des dégâts, cette propriété cesse de fonctionner jusqu'au début de votre prochain tour. Elle ne fonctionne pas non plus si vous êtes neutralisé, entravé ou incapable de bouger.
 
-CAPE DE L'ARACHNIDE
+[][Generic]
+
+### CAPE DE L'ARACHNIDE
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -948,7 +1128,9 @@ Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant
 * Vous ne pouvez pas rester coincé dans une toile, quel que soit son type, et vous pouvez vous déplacer à travers ses filaments comme si c'était simplement un terrain difficile.
 * Vous pouvez utiliser une action pour lancer le sort de toile d'araignée (DD 13). La toile créée occupe le double de l'espace habituel. Une fois que vous avez utilisé la cape ainsi, vous ne pouvez pas recommencer avant l'aube suivante.
 
-CAPE DE LA CHAUVE-SOURIS
+[][Generic]
+
+### CAPE DE LA CHAUVE-SOURIS
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -956,13 +1138,17 @@ Tant que vous portez cette cape, vous obtenez l'avantage lors des tests de Dext�
 
 Tant que vous portez la cape dans une zone de faible lumière ou de ténèbres, vous pouvez dépenser votre action pour lancer métamorphose sur votre personne et vous changer en chauve-souris. Vous conservez vos valeurs d'Intelligence, de Sagesse et de Charisme. Vous ne pouvez plus utiliser la cape pour vous transformer avant l'aube suivante.
 
-CAPE DE LA RAIE MANTA
+[][Generic]
+
+### CAPE DE LA RAIE MANTA
 
 Objet merveilleux, peu courant
 
 Tant que vous portez cette cape avec le capuchon tiré, vous pouvez respirer sous l'eau et vous bénéficiez d'une vitesse de nage de 18 mètres. Il faut dépenser une action pour coiffer le capuchon ou le repousser.
 
-CAPE DE PRESTIDIGITATEUR
+[][Generic]
+
+### CAPE DE PRESTIDIGITATEUR
 
 Objet merveilleux, rare
 
@@ -970,19 +1156,25 @@ Cette cape sent légèrement le soufre. Tant que vous la portez, vous pouvez l'u
 
 Quand vous disparaissez, vous laissez un nuage de fumée derrière vous et apparaissez dans un nuage similaire à la destination choisie. La visibilité est réduite dans le nuage que vous quittez et dans celui dans lequel vous arrivez. La fumée se dissipe à la fin de votre prochain tour, à moins qu'un vent fort ou léger ne la disperse avant.
 
-CAPE DE PROTECTION
+[][Generic]
+
+### CAPE DE PROTECTION
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Vous gagnez un bonus de +1 à la CA et aux jets de sauvegarde tant que vous portez cette cape.
 
-CAPE ELFIQUE
+[][Generic]
+
+### CAPE ELFIQUE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez cette cape avec le capuchon tiré, les créatures qui tentent un test de Sagesse (Perception) pour vous voir subissent un désavantage, tandis que vous obtenez l'avantage sur les tests de Dextérité (Discrétion) effectués pour vous cacher, car les teintes de la cape se modifient pour vous camoufler au mieux. Il faut une action pour tirer ou rabattre la capuche.
 
-CARAFE INTARISSABLE
+[][Generic]
+
+### CARAFE INTARISSABLE
 
 Objet merveilleux, peu courant
 
@@ -994,7 +1186,9 @@ Vous pouvez dépenser une action pour enlever le couvercle et prononcer l'un des
 * « Fontaine » produit 17,5 litres d'eau.
 * « Geyser » produit 105 litres d'eau qui jaillissent en un geyser de 9 mètres de long pour 30 centimètres de large. Vous pouvez utiliser une action bonus tout en tenant la carafe pour diriger le geyser contre une créature située dans un rayon de 9 mètres autour de vous. Elle doit réussir un jet de sauvegarde de Force DD 13 ou subir 1d4 dégâts contondants et tomber à terre. Vous pouvez viser un objet au lieu d'une créature, à condition que personne ne l'ait équipé ou ne le transporte et qu'il pèse au maximum 100 kilos. L'objet est renversé ou repoussé à 4,50 mètres de vous.
 
-CARILLON D'OUVERTURE
+[][Generic]
+
+### CARILLON D'OUVERTURE
 
 Objet merveilleux, rare
 
@@ -1002,7 +1196,9 @@ Ce tube métallique creux mesure une trentaine de centimètres de long pour 0,5 
 
 Le carillon dispose de dix utilisations. Il se fissure après la dixième et ne sert plus à rien.
 
-CARQUOIS EFFICACE
+[][Generic]
+
+### CARQUOIS EFFICACE
 
 Objet merveilleux, peu courant
 
@@ -1010,7 +1206,9 @@ Ce carquois dispose de trois compartiments, chacun étant relié à un espace ex
 
 Vous pouvez tirer ces objets du carquois comme vous le feriez avec un carquois ou un fourreau ordinaire.
 
-CARTES D'ILLUSION
+[][Generic]
+
+### CARTES D'ILLUSION
 
 Objet merveilleux, peu courant
 
@@ -1057,7 +1255,9 @@ Valet de trèfle Berserker
 2 de trèfle Kobold
 Jokers (2) Vous (le propriétaire des cartes)
 
-CARTES MERVEILLEUSES
+[][Generic]
+
+### CARTES MERVEILLEUSES
 
 Objet merveilleux, légendaire
 
@@ -1136,7 +1336,9 @@ Vizir. Dans un délai d'un an après avoir pioché cette carte, vous pouvez méd
 
 Le Néant. Cette carte noire annonce une catastrophe. Votre âme est arrachée à votre corps et enfermée dans un objet en un lieu choisi par le MJ. Un ou plusieurs êtres puissants gardent les lieux. Votre corps est neutralisé tant que votre âme est ainsi retenue. Le sort souhait ne suffit pas à ramener votre âme mais il révèle où se trouve l'objet qui la contient. Vous ne pouvez pas piocher de cartes supplémentaires.
 
-CEINTURON DE FORCE DE GÉANT
+[][Generic]
+
+### CEINTURON DE FORCE DE GÉANT
 
 Objet merveilleux, rareté variable (harmonisation requise)
 
@@ -1151,7 +1353,9 @@ Géant du feu 25 Très rare
 Géant des nuages 27 Légendaire
 Géant des tempêtes 29 Légendaire
 
-CEINTURON DES NAINS
+[][Generic]
+
+### CEINTURON DES NAINS
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1171,13 +1375,17 @@ Vous gagnez la vision dans le noir à une distance de 18 mètres.
 
 Vous parlez, lisez et écrivez le nain.
 
-CHAPEAU DE DÉGUISEMENT
+[][Generic]
+
+### CHAPEAU DE DÉGUISEMENT
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ce chapeau, vous pouvez lancer déguisement sur vous par son intermédiaire, et ce à volonté. Le sort se termine si vous enlevez le chapeau.
 
-CHAPELET
+[][Generic]
+
+### CHAPELET
 
 Objet merveilleux, rare (harmonisation requise par un clerc, un druide ou un paladin)
 
@@ -1194,19 +1402,25 @@ ou restauration inférieure
 19 Convocations Allié planaire
 20 Vent Marche sur le vent
 
-CHAUSSONS DE L'ARAIGNÉE
+[][Generic]
+
+### CHAUSSONS DE L'ARAIGNÉE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces souliers légers aux pieds, vous pouvez vous déplacer vers le haut, le bas et le long de surfaces verticales, ou la tête en bas le long de plafonds, tout en gardant les mains libres. Vous disposez d'une vitesse d'escalade égale à votre vitesse au sol. Les chaussons ne permettent toutefois pas de se déplacer de cette façon sur des surfaces glissantes, si elles sont recouvertes de glace ou d'huile, par exemple.
 
-CHEMISE DE MAILLES ELFIQUE
+[][Generic]
+
+### CHEMISE DE MAILLES ELFIQUE
 
 Armure (chemise de mailles), rare
 
 Vous gagnez un bonus de +1 à la CA tant que vous portez cette armure. Vous êtes considéré comme maîtrisant le port de cette armure, même si vous ne maîtrisez pas les armures intermédiaires.
 
-CIERGE D'INVOCATION
+[][Generic]
+
+### CIERGE D'INVOCATION
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -1229,13 +1443,17 @@ Tant que le cierge est allumé, il émet une faible lumière dans un rayon de 9 
 
 Sinon, vous pouvez lancer le sort portail avec le cierge quand vous l'allumez pour la première fois, mais cela le détruit.
 
-CIMETERRE DE CÉLÉRITÉ
+[][Generic]
+
+### CIMETERRE DE CÉLÉRITÉ
 
 Arme (cimeterre), très rare (harmonisation requise)
 
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, vous pouvez effectuer une attaque avec elle par une action bonus lors de chacun de vos tours.
 
-COLLE UNIVERSELLE
+[][Generic]
+
+### COLLE UNIVERSELLE
 
 Objet merveilleux, légendaire
 
@@ -1243,13 +1461,17 @@ Cette substance visqueuse et aussi blanche que le lait peut coller deux objets d
 
 30 grammes de colle sont suffisants pour recouvrir une surface de 30 centimètres de côté. Il faut une minute pour que la colle se solidifie. Une fois solidifiée, il est impossible de la détruire, à moins d'utiliser un solvant universel ou une huile éthérée, ou à l'aide d'un sort de souhait.
 
-COLLIER D'ADAPTATION
+[][Generic]
+
+### COLLIER D'ADAPTATION
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit l'environnement dans lequel vous vous trouvez, et vous obtenez l'avantage lors des jets de sauvegarde contre les gaz et vapeurs toxiques (comme un nuage mortel ou un nuage puant, un poison par inhalation ou le souffle de certains dragons).
 
-COLLIER DE BOULES DE FEU
+[][Generic]
+
+### COLLIER DE BOULES DE FEU
 
 Objet merveilleux, rare
 
@@ -1257,7 +1479,9 @@ Ce collier possède 1d6+3 perles. Vous pouvez utiliser une action pour détacher
 
 Vous pouvez lancer plusieurs perles, ou même tout le collier, en une seule action. Dans ce cas, le niveau du sort de boule de feu augmente de 1 par perle en plus de la première.
 
-COR DE DESTRUCTION
+[][Generic]
+
+### COR DE DESTRUCTION
 
 Objet merveilleux, rare
 
@@ -1265,7 +1489,9 @@ Vous pouvez utiliser votre action pour prononcer le mot de commande du cor puis 
 
 À chaque utilisation, le cor a 20 % de chances d'exploser. L'explosion inflige 10d6 dégâts de feu à celui qui soufflait dans le cor et détruit l'instrument.
 
-COR DU VALHALLA
+[][Generic]
+
+### COR DU VALHALLA
 
 Objet merveilleux, rare (argent ou cuivre), très rare (bronze) ou légendaire (fer)
 
@@ -1291,7 +1517,9 @@ les armes de guerre
 
 Si vous soufflez dans le cor alors que vous ne remplissez pas les conditions requises, les fous de guerre invoqués vous attaquent. Si vous les remplissez, ils se montrent amicaux envers vous et vos compagnons et obéissent à vos ordres.
 
-CORDE D'ENCHEVÊTREMENT
+[][Generic]
+
+### CORDE D'ENCHEVÊTREMENT
 
 Objet merveilleux, rare
 
@@ -1301,7 +1529,9 @@ Vous pouvez libérer la créature en utilisant une action bonus pour prononcer u
 
 La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de vie toutes les 5 minutes tant qu'il lui reste au moins 1 point de vie. Elle est détruite si son nombre de points de vie tombe à 0.
 
-CORDE D'ESCALADE
+[][Generic]
+
+### CORDE D'ESCALADE
 
 Objet merveilleux, peu courant
 
@@ -1311,7 +1541,9 @@ Si vous ordonnez à la corde de se nouer, des gros noeuds apparaissent sur sa lo
 
 La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de vie toutes les 5 minutes tant qu'il lui reste au moins 1 point de vie. Elle est détruite si son nombre de points de vie tombe à 0.
 
-CUBE DE FORCE
+[][Generic]
+
+### CUBE DE FORCE
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1349,13 +1581,17 @@ Passe-muraille 1d6
 Rayon prismatique 1d20
 Mur de feu 1d4
 
-CUIR CLOUTÉE GLAMOUR
+[][Generic]
+
+### CUIR CLOUTÉE GLAMOUR
 
 Armure (cuir cloutée), rare
 
 Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA. Vous pouvez également dépenser une action bonus pour prononcer son mot de commande et lui donner l'apparence d'habits normaux ou d'une autre armure. À vous de décider à quoi elle ressemble, aussi bien au niveau de la couleur, du style que des accessoires. Cependant, elle conserve son poids et son volume. L'illusion persiste jusqu'à ce que vous utilisiez de nouveau ce pouvoir ou que vous ôtiez l'armure.
 
-DAGUE VENIMEUSE
+[][Generic]
+
+### DAGUE VENIMEUSE
 
 Arme (dague), rare
 
@@ -1363,13 +1599,17 @@ Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cet
 
 Vous pouvez dépenser une action pour qu'un épais poison noir enduise la lame. Il persiste pendant 1 minute ou jusqu'à ce que l'arme touche une créature suite à une attaque. Cette créature doit réussir un jet de sauvegarde de Constitution DD 15 ou subir 2d10 dégâts de poison pendant 1 minute. Il faut attendre l'aube suivante pour pouvoir utiliser de nouveau la dague de cette manière.
 
-DIADÈME DE DESTRUCTION
+[][Generic]
+
+### DIADÈME DE DESTRUCTION
 
 Objet merveilleux, peu courant
 
 Tant que vous portez ce diadème, vous pouvez utiliser votre action pour lancer le sort rayon ardent par son intermédiaire. Quand vous effectuez l'attaque de sort, votre bonus d'attaque est de +5. Il faut attendre l'aube suivante avant d'utiliser de nouveau le diadème de cette manière.
 
-ENCENSOIR DE CONTRÔLE DES ÉLÉMENTAIRES DE L'AIR
+[][Generic]
+
+### ENCENSOIR DE CONTRÔLE DES ÉLÉMENTAIRES DE L'AIR
 
 Objet merveilleux, rare
 
@@ -1377,13 +1617,17 @@ Tant que de l'encens brûle dans cet encensoir, vous pouvez utiliser une action 
 
 L'encensoir ressemble à un calice de 15 centimètres de large pour 30 centimètres de haut fermé d'un couvercle ornementé. Il pèse 0,5 kilo.
 
-ÉPÉE ARDENTE
+[][Generic]
+
+### ÉPÉE ARDENTE
 
 Arme (épée), rare (harmonisation requise)
 
 Vous pouvez utiliser une action bonus pour prononcer le mot de commande de cette épée magique et envelopper sa lame d'un linceul de flammes qui émettent une vive lumière dans un rayon de 12 mètres et une faible lumière dans un rayon de 12 mètres de plus. Tant que l'épée est embrasée, elle inflige 2d6 dégâts de feu supplémentaire à toute cible qu'elle touche. Les flammes brûlent jusqu'à ce que vous dépensiez une action bonus pour prononcer de nouveau le mot de commande ou jusqu'à ce que vous lâchiez ou rengainiez l'épée.
 
-ÉPÉE DANSANTE
+[][Generic]
+
+### ÉPÉE DANSANTE
 
 Arme (épée), très rare (harmonisation requise)
 
@@ -1393,7 +1637,9 @@ Tant que l'épée flotte dans les airs, vous pouvez utiliser une action bonus po
 
 Une fois que l'épée a attaqué pour la quatrième fois, elle vole sur un maximum de 9 mètres et tente de retourner dans votre main. Si vous avez les deux mains prises, elle tombe à vos pieds. Si l'épée ne dispose d'aucun chemin d'accès pour vous rejoindre, elle se rapproche de vous autant que possible et tombe à terre. Elle cesse également de flotter dans les airs si vous l'attrapez ou si vous vous éloignez à plus de 9 mètres d'elle.
 
-ÉPÉE MORDANTE
+[][Generic]
+
+### ÉPÉE MORDANTE
 
 Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
@@ -1401,7 +1647,9 @@ Seul un repos court ou long permet de récupérer les points de vie perdus à ca
 
 Une fois par tour, lorsque vous réussissez une attaque contre une créature avec cette arme magique, vous pouvez inciser la cible. Au début de chacun des tours de la créature ainsi incisée, celle-ci subit 1d4 dégâts nécrotiques pour chaque attaque d'incision réussie à son encontre. Elle peut ensuite effectuer un jet de sauvegarde de Constitution DD 15 et mettre fin à l'effet de la totalité des incisions dont elle est victime en cas de réussite. Par ailleurs, une créature incisée, ou une autre créature située à 1,50 mètre ou moins d'elle, peut utiliser une action pour effectuer un test de Sagesse (Médecine) DD 15 et mettre fin à l'effet des incisions dont elle est victime en cas de réussite.
 
-ÉPÉE RADIEUSE
+[][Generic]
+
+### ÉPÉE RADIEUSE
 
 Arme (épée longue), rare (harmonisation requise)
 
@@ -1411,7 +1659,9 @@ Vous bénéficiez d'un bonus de +2 aux jets d'attaque et de dégâts effectués 
 
 La lame lumineuse de l'épée diffuse une lumière vive sur un rayon de 4,50 mètres et une lumière faible 4,50 mètres au-delà. Cette lumière est celle du soleil. Tant que la lame est sortie, vous pouvez utiliser une action pour augmenter ou réduire le rayon de la lumière vive et de la lumière faible de 1,50 mètre chacun, jusqu'à ce qu'ils atteignent un maximum de 9 mètres chacun ou un minimum de 3 mètres chacun.
 
-ÉPÉE TRANCHANTE
+[][Generic]
+
+### ÉPÉE TRANCHANTE
 
 Arme (n'importe quelle épée qui inflige des dégâts tranchants), très rare (harmonisation requise)
 
@@ -1421,13 +1671,17 @@ Quand vous attaquez une créature avec cette arme et obtenez un 20 au jet d'atta
 
 En outre, vous pouvez prononcer le mot de commande de l'épée pour que la lame diffuse une lumière vive sur un rayon de 3 mètres et une lumière faible 3 mètres au-delà. La lumière s'éteint si le mot de commande est prononcé une deuxième fois ou si l'épée est rengainée.
 
-ÉPÉE VOLEUSE DE VIE
+[][Generic]
+
+### ÉPÉE VOLEUSE DE VIE
 
 Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
 Quand vous attaquez une créature avec cette arme magique et obtenez un 20 sur le jet d'attaque, la cible subit 3d6 dégâts nécrotiques supplémentaires, à condition qu'elle ne soit ni une créature artificielle, ni un mort-vivant. Vous gagnez un nombre de points de vie temporaires égal aux dégâts supplémentaires infligés.
 
-ÉPÉE VORPALE
+[][Generic]
+
+### ÉPÉE VORPALE
 
 Arme (n'importe quel type d'épée qui inflige des dégâts tranchants), légendaire (harmonisation requise)
 
@@ -1435,13 +1689,17 @@ Vous obtenez un bonus de +3 aux jets d'attaque et de dégâts effectués avec ce
 
 Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez un 20 au jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 6d8 dégâts tranchants supplémentaires.
 
-ÉVENTAIL ENCHANTÉ
+[][Generic]
+
+### ÉVENTAIL ENCHANTÉ
 
 Objet merveilleux, peu courant
 
 Avec cet éventail en main, vous pouvez utiliser une action pour lancer le sort bourrasque (DD des jets de sauvegarde contre le sort 13). Suite à cette première utilisation, l'éventail ne peut plus être utilisé sans risque de l'abîmer avant l'aube suivante. Chaque fois qu'il est utilisé une fois de plus avant l'aube prochaine, il y a 20 % de chances cumulatives qu'il ne fonctionne pas et se casse pour devenir un éventail déchiré ordinaire et inutile.
 
-FER GELÉ
+[][Generic]
+
+### FER GELÉ
 
 Arme (épée), très rare (harmonisation requise)
 
@@ -1451,19 +1709,25 @@ Si la température est glaciale, l'épée émet une vive lumière dans un rayon 
 
 Quand vous dégainez cette épée, vous pouvez éteindre toutes les flammes non-magiques situées dans un rayon de 9 mètres autour de vous. Ce pouvoir s'utilise seulement une fois par heure.
 
-FERS DE RAPIDITÉ
+[][Generic]
+
+### FERS DE RAPIDITÉ
 
 Objet merveilleux, rare
 
 Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature similaire est ferrée des quatre avec eux, ils augmentent sa vitesse au sol de 9 mètres.
 
-FERS DU ZÉPHYR
+[][Generic]
+
+### FERS DU ZÉPHYR
 
 Objet merveilleux, très rare
 
 Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature similaire est ferrée des quatre avec eux, ils lui permettent de se déplacer normalement tout en flottant à une dizaine de centimètres du sol. Grâce à cet effet, la créature peut traverser une surface instable ou non-solide (comme de l'eau ou de la lave) ou se tenir dessus. Elle ne laisse pas de trace et ignore les terrains difficiles. De plus, elle peut se déplacer à sa vitesse normale pendant un maximum de 12 heures par jour sans souffrir de l'épuisement lié à une marche forcée.
 
-FIGURINE MERVEILLEUSE
+[][Generic]
+
+### FIGURINE MERVEILLEUSE
 
 Objet merveilleux, rareté selon la figurine
 
@@ -1508,7 +1772,9 @@ Chouette de serpentine (rare). Cette statuette en serpentine représente une cho
 
 Corbeau d'argent (peu courant). Cette statuette de corbeau en argent peut se changer en véritable corbeau pendant un maximum de 12 heures. Ensuite, il faut attendre 2 jours avant de pouvoir s'en servir de nouveau. Sous forme de corbeau, la figurine vous permet de lancer le sort messager animal sur elle à volonté.
 
-FLASQUE DE FER
+[][Generic]
+
+### FLASQUE DE FER
 
 Objet merveilleux, légendaire
 
@@ -1539,7 +1805,9 @@ d100 Contenu
 97-99 Succube/incube
 100 Xorn
 
-FLÈCHE TUEUSE
+[][Generic]
+
+### FLÈCHE TUEUSE
 
 Arme (flèche), très rare
 
@@ -1549,7 +1817,9 @@ Dès que la flèche tueuse a infligé des dégâts supplémentaires à une créa
 
 Il existe d'autres munitions magiques similaires, comme des carreaux tueurs pour les arbalètes, mais les flèches restent les plus répandues.
 
-FLÛTE DES ÉGOUTS
+[][Generic]
+
+### FLÛTE DES ÉGOUTS
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1559,13 +1829,17 @@ La flûte a trois charges. Si vous utilisez une action pour jouer de la flûte, 
 
 Quand une nuée de rats qui ne se trouve pas sous le contrôle d'une tierce personne arrive dans un rayon de 9 mètres autour de vous alors que vous jouez de la flûte, vous pouvez faire un test de Charisme opposé au test de Sagesse de la nuée. Si vous perdez, la nuée se comporte comme elle le ferait d'ordinaire et ne se laisse plus influencer par la musique de la flûte pendant les 24 heures qui suivent. Si vous l'emportez, la nuée est envoûtée par votre mélodie et se montre amicale envers vous et vos compagnons tant que vous continuez de jouer en dépensant une action à chaque round. Une nuée amicale obéit à vos ordres. Si vous n'en donnez pas, elle se défend mais, en dehors de cela, elle n'entreprend pas la moindre action. Si une nuée est amicale mais débute son tour dans l'incapacité d'entendre la flûte, vous en perdez le contrôle et elle se comporte comme le veut sa nature. La musique de la flûte ne l'influence plus pendant les 24 heures suivantes.
 
-FLÛTE TERRIFIANTE
+[][Generic]
+
+### FLÛTE TERRIFIANTE
 
 Objet merveilleux, peu courant
 
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte dotée de 3 charges. Vous pouvez utiliser une action pour jouer et dépenser une charge pour créer une étrange mélodie envoûtante. Chaque créature qui se situe dans un rayon de 9 mètres autour de vous et vous entend jouer doit réussir un jet de sauvegarde de Sagesse DD 15, sans quoi vous la terrorisez pendant 1 minute. Si vous le désirez, toutes les créatures qui ne sont pas hostiles envers vous mais sont présentes dans la zone réussissent automatiquement leur jet de sauvegarde. Une créature qui a raté son jet de sauvegarde peut le refaire à la fin de chacun de ses tours. L'effet se termine pour elle dès qu'elle le réussit. Si une créature réussit son jet de sauvegarde contre la flûte, elle est immunisée contre ses effets pendant 24 heures. Chaque matin à l'aube, la flûte récupère 1d3 charges dépensées.
 
-FORTERESSE INSTANTANÉE
+[][Generic]
+
+### FORTERESSE INSTANTANÉE
 
 Objet merveilleux, rare
 
@@ -1577,25 +1851,33 @@ Chaque créature qui se trouve dans la zone lorsque la forteresse se déploie do
 
 La tour est faite en adamantium et sa magie empêche qu'une force extérieure la renverse. Le toit, la porte et les murs ont tous 100 points de vie et sont immunisés contre les dégâts des armes non-magiques, mais pas contre ceux des armes de siège. Ils sont résistants contre tous les autres types de dégâts. Il est impossible de réparer la forteresse, à moins de recourir au sort de souhait (cette utilisation est assimilée à une copie d'un sort de niveau 8 ou inférieur). Chaque souhait ainsi utilisé rend 50 points de vie au toit, à la porte ou à un mur.
 
-GANTELETS DE PUISSANCE D'OGRE
+[][Generic]
+
+### GANTELETS DE PUISSANCE D'OGRE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces gants, votre valeur de Force est de 19. Si elle est déjà de 19 ou plus, ils n'ont aucun effet sur vous.
 
-GANTS DE NAGE ET D'ESCALADE
+[][Generic]
+
+### GANTS DE NAGE ET D'ESCALADE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.
 
-GANTS PIÉGEURS DE PROJECTILES
+[][Generic]
+
+### GANTS PIÉGEURS DE PROJECTILES
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Quand vous enfliez ces gants, ils semblent presque fusionner avec votre peau. Quand vous êtes touché par une attaque d'arme à distance alors que vous les portez, vous pouvez utiliser votre réaction pour réduire les dégâts subis de 1d10 + votre modificateur de Dextérité, à condition que vous ayez une main libre. Si vous réduisez les dégâts à 0, vous attrapez le projectile (s'il est de taille assez réduite pour que vous puissiez le tenir d'une main).
 
-GEMME DE VISION
+[][Generic]
+
+### GEMME DE VISION
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1603,7 +1885,9 @@ Cette gemme a 3 charges. Vous pouvez prononcer son mot de commande par une actio
 
 Chaque matin à l'aube, la gemme récupère 1d3 charges dépensées.
 
-GEMME ÉLÉMENTAIRE
+[][Generic]
+
+### GEMME ÉLÉMENTAIRE
 
 Objet merveilleux, peu courant
 
@@ -1615,7 +1899,9 @@ Diamant jaune Élémentaire de la terre
 Corindon rouge Élémentaire du feu
 Émeraude Élémentaire de l'eau
 
-GEMME LUMINEUSE
+[][Generic]
+
+### GEMME LUMINEUSE
 
 Objet merveilleux, rare
 
@@ -1629,7 +1915,9 @@ Le troisième mot de commande dépense 5 charges et génère une explosion de lu
 
 Quand la gemme a épuisé toutes ses charges, elle devient un joyau dépourvu de magie d'une valeur de 50 po.
 
-HACHE DU BERSERKER
+[][Generic]
+
+### HACHE DU BERSERKER
 
 Arme (hache), rare (harmonisation requise)
 
@@ -1639,19 +1927,25 @@ Malédiction. Cette hache est maudite et vous transmet sa malédiction dès que 
 
 Quand une créature hostile vous blesse alors que vous êtes en possession de cette hache, vous devez réussir un jet de sauvegarde de Sagesse DD 15 ou devenir fou furieux. Dans ce cas, vous devez utiliser votre action du round pour attaquer la créature la plus proche de vous avec la hache. Si vous êtes en mesure de porter des attaques supplémentaires lors d'une action d'Attaque, vous le faites et vous vous déplacez pour attaquer la créature la plus proche après votre cible actuelle une fois que vous avez éliminé celle-ci. Si vous avez plusieurs cibles à disposition, vous en attaquez une au hasard. Vous restez fou furieux jusqu'à ce que vous commenciez votre tour sans la moindre créature visible ou audible dans un rayon de 18 mètres.
 
-HARNOIS ÉTHÉRÉ
+[][Generic]
+
+### HARNOIS ÉTHÉRÉ
 
 Armure (harnois), légendaire (harmonisation requise)
 
 Tant que vous portez cette armure, vous pouvez prononcer son mot de commande par une action pour bénéficier des effets du sort forme éthérée pendant 10 minutes, jusqu'à ce que vous retiriez l'armure ou jusqu'à ce que vous dépensiez une action pour prononcer de nouveau le mot de commande. Ensuite, vous devez attendre l'aube suivante avant d'utiliser de nouveau ce pouvoir.
 
-HARNOIS NAIN
+[][Generic]
+
+### HARNOIS NAIN
 
 Armure (harnois), très rare
 
 Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus, si un effet vous déplace contre votre gré, vous pouvez utiliser votre réaction pour réduire la distance parcourue d'un maximum de 3 mètres.
 
-HAVRESAC MAGIQUE
+[][Generic]
+
+### HAVRESAC MAGIQUE
 
 Objet merveilleux, rare
 
@@ -1663,13 +1957,17 @@ Le havresac a quelques limites. S'il est surchargé ou si un objet pointu le per
 
 Si l'on place le havresac dans l'espace extradimensionnel né d'un sac sans fond, d'un puits portatif ou d'un objet similaire, les deux objets sont instantanément détruis et un portail s'ouvre vers le plan Astral. Il apparaît là où l'on a placé le premier objet dans le second et toutes les créatures situées dans un rayon de 3 mètres autour de ce portail sont emportées vers un endroit aléatoire du plan Astral. Le portail se referme ensuite, sachant qu'il est à sens unique et qu'il est impossible de le rouvrir.
 
-HEAUME DE COMPRÉHENSION DES LANGAGES
+[][Generic]
+
+### HEAUME DE COMPRÉHENSION DES LANGAGES
 
 Objet merveilleux, peu courant
 
 Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer compréhension des langages à volonté par son intermédiaire.
 
-HEAUME DE TÉLÉPATHIE
+[][Generic]
+
+### HEAUME DE TÉLÉPATHIE
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1677,13 +1975,17 @@ Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer dét
 
 Tant que vous vous concentrez sur une créature avec détection des pensées, vous pouvez utiliser une action pour lancer le sort suggestion (DD 13) sur elle par l'intermédiaire du heaume. Une fois que vous avez utilisé ce pouvoir, vous devez attendre l'aube suivante avant de pouvoir recommencer.
 
-HEAUME DE TÉLÉPORTATION
+[][Generic]
+
+### HEAUME DE TÉLÉPORTATION
 
 Objet merveilleux, rare (harmonisation requise)
 
 Ce heaume possède 3 charges. Tant que vous le portez, vous pouvez utiliser une action pour dépenser 1 charge et lancer téléportation par son intermédiaire. Chaque matin à l'aube, il récupère 1d3 charges dépensées.
 
-HEAUME SCINTILLANT
+[][Generic]
+
+### HEAUME SCINTILLANT
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -1701,19 +2003,25 @@ Tant que le heaume possède au moins une opale de feu, vous pouvez utiliser une 
 
 Lancez 1d20 si vous portez le heaume et subissez des dégâts de feu à cause d'un échec à un jet de sauvegarde contre un sort. Sur un 1, les gemmes encore présentes émettent des rayons de lumière. Chaque créature (autre que vous) présente dans un rayon de 18 mètres autour du heaume doit réussir un jet de sauvegarde de Dextérité DD 17, sans quoi un rayon la frappe et lui inflige des dégâts radiants égaux au nombre de gemmes restant sur le heaume. Le heaume et ses gemmes sont ensuite détruits.
 
-HUILE D'AFFÛTAGE
+[][Generic]
+
+### HUILE D'AFFÛTAGE
 
 Potion, très rare
 
 Cette huile claire et gélatineuse est constellée de minuscules paillettes d'argent. On peut s'en servir pour enduire une arme tranchante ou perforante ou bien 5 munitions tranchantes ou perforantes au maximum. Il faut 1 minute pour appliquer l'huile, ensuite, l'objet enduit devient magique et doté d'un bonus de +3 aux jets d'attaque et de dégâts pendant 1 heure.
 
-HUILE ÉTHÉRÉE
+[][Generic]
+
+### HUILE ÉTHÉRÉE
 
 Potion, rare
 
 L'huile d'un gris trouble contenue dans ce récipient forme des perles sur sa paroi externe, mais elles s'évaporent rapidement. On peut recouvrir une créature de taille M ou inférieure avec l'huile, ainsi que tout son équipement et tous les objets en sa possession (il faut vider une fiole de plus par catégorie de taille au-dessus de M si la créature est plus grande). Il faut 10 minutes pour appliquer l'huile correctement. La créature affectée bénéficie alors des effets du sort forme éthérée pendant 1 heure.
 
-HUILE GLISSANTE
+[][Generic]
+
+### HUILE GLISSANTE
 
 Potion, peu courante
 
@@ -1721,7 +2029,9 @@ Cet épais onguent noir est dense et lourd tant qu'il reste dans son récipient,
 
 Sinon, vous pouvez verser l'huile à terre par une action. Elle recouvre une zone de 3 mètres de côté
 
-JAVELINE DE FOUDRE
+[][Generic]
+
+### JAVELINE DE FOUDRE
 
 Arme (javeline), peu courante
 
@@ -1729,7 +2039,9 @@ Cette javeline est une arme magique. Quand vous la lancez et prononcez son mot d
 
 Il faut attendre l'aube suivante pour se servir de nouveau de cette propriété de la javeline. En attendant, elle fonctionne tout de même comme une arme magique.
 
-LAME PORTE-BONHEUR
+[][Generic]
+
+### LAME PORTE-BONHEUR
 
 Arme (épée), légendaire (harmonisation requise)
 
@@ -1739,19 +2051,25 @@ Chance. Si l'épée se trouve sur votre personne, vous pouvez faire appel à sa 
 
 Souhait. L'épée dispose de 1d4-1 charges. Tant qu'elle se trouve en votre possession, vous pouvez utiliser une action pour dépenser une charge et lancer le sort souhait. Il est impossible de se servir de nouveau de cette propriété avant l'aube suivante. L'épée perd ce pouvoir si elle n'a plus de charge.
 
-LANTERNE DE RÉVÉLATION
+[][Generic]
+
+### LANTERNE DE RÉVÉLATION
 
 Objet merveilleux, peu courant
 
 Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en consommant 0,5 litre d'huile. Elle émet alors une vive lumière dans un rayon de 9 mètres et une faible lumière dans un rayon de 9 mètres de plus. Les créatures et les objets invisibles situés dans la zone de vive lumière de la lanterne deviennent visibles. Vous pouvez utiliser une action pour baisser la capote et réduire la luminosité à une faible lumière dans un rayon de 1,50 mètre.
 
-LENTILLES DE NETTETÉ
+[][Generic]
+
+### LENTILLES DE NETTETÉ
 
 Objet merveilleux, peu courant
 
 Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, votre vue est bien meilleure que d'habitude dans un rayon de 30 centimètres. Vous obtenez l'avantage lors des tests d'Intelligence (Investigation) basés sur la vue quand vous fouillez une zone ou étudiez un objet situé dans ce rayon.
 
-LIENS DE FER
+[][Generic]
+
+### LIENS DE FER
 
 Objet merveilleux, rare
 
@@ -1763,31 +2081,41 @@ Une créature (y compris la victime entravée) peut utiliser une action pour fai
 
 Une fois les fers utilisés, il faut attendre l'aube prochaine pour s'en servir à nouveau.
 
-LUNETTES NOCTURNES
+[][Generic]
+
+### LUNETTES NOCTURNES
 
 Objet merveilleux, peu courant
 
 Quand vous portez ces verres sombres, vous bénéficiez de la vision dans le noir à 18 mètres. Si vous disposez déjà de ce pouvoir, son rayon augmente de 18 mètres.
 
-MANTEAU DE RÉSISTANCE AUX SORTS
+[][Generic]
+
+### MANTEAU DE RÉSISTANCE AUX SORTS
 
 Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ce manteau, vous obtenez l'avantage lors des jets de sauvegarde contre les sorts.
 
-MANUEL DE BONNE SANTÉ
+[][Generic]
+
+### MANUEL DE BONNE SANTÉ
 
 Objet merveilleux, très rare
 
 Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainement, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Constitution augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie, mais elle se recharge au bout d'un siècle.
 
-MANUEL D'EXERCICES PHYSIQUES
+[][Generic]
+
+### MANUEL D'EXERCICES PHYSIQUES
 
 Objet merveilleux, très rare
 
 Ce livre propose des exercices d'entretien musculaire, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Force augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
 
-MANUEL DES GOLEMS
+[][Generic]
+
+### MANUEL DES GOLEMS
 
 Objet merveilleux, très rare
 
@@ -1803,19 +2131,25 @@ Pour créer un golem, vous devez passer le temps indiqué dans la table à trava
 
 Dès que vous avez achevé la construction du golem, le manuel se consume dans des flammes surnaturelles. Le golem s'anime une fois que vous l'avez saupoudré avec les cendres du livre. Il est sous votre contrôle, comprend vos ordres vocaux et leur obéit.
 
-MANUEL DE VIVACITÉ
+[][Generic]
+
+### MANUEL DE VIVACITÉ
 
 Objet merveilleux, très rare
 
 Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Dextérité augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
 
-MARTEAU DE LANCER NAIN
+[][Generic]
+
+### MARTEAU DE LANCER NAIN
 
 Arme (marteau de guerre), très rare (harmonisation requise avec un nain)
 
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Elle dispose de la propriété de lancer à une portée normale de 6 mètres et une longue portée de 18 mètres. Quand vous touchez votre cible avec une attaque à distance effectuée avec cette arme, elle inflige 1d8 dégâts supplémentaires ou 2d8 dégâts supplémentaires si la cible est un géant. L'arme revient dans votre main immédiatement après l'attaque.
 
-MARTEAU DU TONNERRE
+[][Generic]
+
+### MARTEAU DU TONNERRE
 
 Arme (maillet d'armes), légendaire
 
@@ -1825,7 +2159,9 @@ Tueur de géant (harmonisation requise). Pour vous harmoniser avec cette arme, v
 
 Le marteau dispose de 5 charges. Tant que vous êtes harmonisé avec lui, vous pouvez dépenser une charge pour faire une attaque d'arme à distance avec lui et le lancer comme s'il disposait de la propriété lancer avec une portée normale de 6 mètres et une portée longue de 18 mètres. Si l'attaque touche, le marteau fait résonner un coup de tonnerre qui s'entend dans un rayon de 90 mètres. La cible et toutes les créatures situées dans un rayon de 9 mètres autour d'elle doivent réussir un jet de sauvegarde de Constitution ou se trouver étourdies jusqu'à la fin de votre prochain tour. Chaque matin à l'aube, le marteau récupère 1d4+1 charges dépensées.
 
-MASSE D'ANÉANTISSEMENT
+[][Generic]
+
+### MASSE D'ANÉANTISSEMENT
 
 Arme (masse), rare (harmonisation requise)
 
@@ -1833,7 +2169,9 @@ Quand vous touchez un fiélon ou un mort-vivant avec cette arme magique, cette c
 
 Tant que vous tenez cette arme en main, elle émet une vive lumière dans un rayon de 6 mètres et une faible lumière dans un rayon de 6 mètres supplémentaires.
 
-MASSE DESTRUCTRICE
+[][Generic]
+
+### MASSE DESTRUCTRICE
 
 Arme (masse), rare
 
@@ -1841,7 +2179,9 @@ Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme mag
 
 Quand vous obtenez un 20 sur un jet d'attaque effectué avec cette arme, la cible subit 2d6 dégâts contondants supplémentaires ou 4d6 si c'est une créature artificielle. Si une créature artificielle a seulement 25 points de vie ou moins après avoir subi de tels dégâts, elle est détruite.
 
-MASSE TERRIFIANTE
+[][Generic]
+
+### MASSE TERRIFIANTE
 
 Arme (masse), rare (harmonisation requise)
 
@@ -1849,13 +2189,17 @@ Cette arme magique dispose de 3 charges. Tant que vous la tenez en main, vous po
 
 Chaque matin à l'aube, la masse récupère 1d3 charges dépensées.
 
-MÉDAILLON DES PENSÉES
+[][Generic]
+
+### MÉDAILLON DES PENSÉES
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Le médaillon a trois charges. Tant que vous le portez, vous pouvez utiliser une action et dépenser une charge pour lancer détection des pensées (DD 13) par son intermédiaire. Chaque matin à l'aube, il récupère 1d3 charges dépensées.
 
-MENOTTES DIMENSIONNELLES
+[][Generic]
+
+### MENOTTES DIMENSIONNELLES
 
 Objet merveilleux, rare
 
@@ -1863,7 +2207,9 @@ Vous pouvez utiliser une action pour menotter une créature neutralisée avec ce
 
 Vous-même et toute créature que vous désignez au moment de fermer les menottes pouvez dépenser une action pour les retirer. Une fois tous les 30 jours, la créature menottée peut faire un test de Force (Athlétisme) DD 30. Si elle le réussit, elle se libère et détruit les menottes.
 
-MIROIR D'EMPRISONNEMENT
+[][Generic]
+
+### MIROIR D'EMPRISONNEMENT
 
 Objet merveilleux, très rare
 
@@ -1881,19 +2227,25 @@ Tant que vous vous trouvez dans un rayon de 1,50 mètre autour du miroir, vous p
 
 De même, vous pouvez prononcer un deuxième mot de commande et libérer une créature piégée dans le miroir. La créature libérée apparaît dans l'emplacement inoccupé le plus proche du miroir, dos à lui.
 
-MUNITIONS +1, +2 OU +3
+[][Generic]
+
+### MUNITIONS +1, +2 OU +3
 
 Arme (n'importe quelle munition), peu courante (+1), rare (+2) ou très rare (+3)
 
 Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec cette munition, ce bonus étant déterminé par la rareté de la munition. Cette dernière perd toute magie dès qu'elle a touché une cible.
 
-OEIL DE LYNX
+[][Generic]
+
+### OEIL DE LYNX
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, vous obtenez l'avantage lors des tests de Sagesse (Perception) basés sur la vue. Si la visibilité est bien dégagée, vous percevez tous les détails des créatures et des objets, même très éloignés, à conditions que ces créatures et objets fassent au moins 60 centimètres de large.
 
-PARCHEMIN MAGIQUE
+[][Generic]
+
+### PARCHEMIN MAGIQUE
 
 Parchemin, variable
 
@@ -1924,7 +2276,9 @@ magie Courant 13 +5
 
 Un sort de magicien inscrit sur un parchemin magique peut être recopié, tout comme on recopie les sorts dans un grimoire. Quand un sort est recopié depuis un parchemin magique, celui qui s'y adonne doit réussir un test d'Intelligence (Arcanes) contre un DD égal à 10 + le niveau du sort. En cas de réussite sur ce test, le sort est recopié avec succès. Le parchemin magique est détruit quel que la soit le résultat du test.
 
-PERLE DE FORCE
+[][Generic]
+
+### PERLE DE FORCE
 
 Objet merveilleux, rare
 
@@ -1934,19 +2288,25 @@ Vous pouvez utiliser votre action pour lancer la bille à une distance maximale 
 
 Une créature enfermée peut utiliser son action pour peser contre la paroi de la sphère et la faire rouler à la moitié de sa vitesse au sol. On peut ramasser la sphère qui, grâce à sa magie, ne pèse que 500 grammes, quel que soit le poids des créatures prisonnières à l'intérieur.
 
-PERLE DE PUISSANCE
+[][Generic]
+
+### PERLE DE PUISSANCE
 
 Objet merveilleux, peu courant (harmonisation requise par un incantateur)
 
 Tant que vous portez cette perle sur vous, vous pouvez utiliser une action pour prononcer son mot de commande et récupérer un emplacement de sort dépensé. En revanche, si ce dernier est de niveau 4 ou supérieur, le nouvel emplacement est de niveau 3. Une fois que vous avez utilisé la perle, vous devez attendre l'aube suivante pour vous en servir à nouveau.
 
-PHILTRE D'AMOUR
+[][Generic]
+
+### PHILTRE D'AMOUR
 
 Potion, peu courante
 
 Dans les 10 minutes qui suivent l'absorption de cette potion, vous êtes charmé pendant 1 heure par la première créature que vous voyez. Si cette créature est d'une espèce et d'un sexe pour lesquels vous êtes susceptible de ressentir une attirance naturelle, vous considérez vos sentiments comme un amour véritable pendant toute la durée du charme. La potion est effervescente et de teinte rose et contient une bulle en forme de coeur, mais on peut facilement ne pas la voir parmi les autres.
 
-PIGMENTS MERVEILLEUX
+[][Generic]
+
+### PIGMENTS MERVEILLEUX
 
 Objet merveilleux, très rare
 
@@ -1960,13 +2320,17 @@ Il est impossible d'utiliser les pigments pour créer quelque chose valant plus 
 
 Si vous peigniez une forme d'énergie, comme du feu ou de la foudre, elle apparaît dès la peinture terminée mais se dissipe aussitôt, sans faire le moindre mal.
 
-PIERRE DE CONTRÔLE DES ÉLÉMENTAIRES DE LA TERRE
+[][Generic]
+
+### PIERRE DE CONTRÔLE DES ÉLÉMENTAIRES DE LA TERRE
 
 Objet merveilleux, rare
 
 Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour prononcer son mot de commande et convoquer un élémentaire de la Terre, comme si vous aviez lancé le sort invoquer un élémentaire. Il faut attendre l'aube suivante avant de pouvoir réutiliser la pierre. Elle pèse 2,5 kilos.
 
-PIERRE IOUN
+[][Generic]
+
+### PIERRE IOUN
 
 Objet merveilleux, rareté variable (harmonisation requise)
 
@@ -2012,13 +2376,17 @@ Force (très rare). Votre valeur de Force augmente de 2, pour un maximum de 20, 
 
 Nourriture (rare). Vous n'avez pas besoin de manger ni de boire tant que ce fuseau translucide tourne autour de votre tête.
 
-PIERRE PORTE-BONHEUR
+[][Generic]
+
+### PIERRE PORTE-BONHEUR
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus de +1 aux tests de caractéristique et aux jets de sauvegarde.
 
-PLUME MAGIQUE
+[][Generic]
+
+### PLUME MAGIQUE
 
 Objet merveilleux, rare
 
@@ -2046,7 +2414,9 @@ Fouet. Vous pouvez utiliser une action pour lancer le bibelot à une distance ma
 
 À votre tour et par une action bonus, vous pouvez ordonner au fouet de s'envoler à une distance maximale de 6 mètres et répéter l'attaque contre une créature située dans un rayon de 3 mètres autour d'elle. Le fouet disparaît au bout d'une heure, quand vous utilisez une action pour le révoquer ou si vous êtes neutralisé ou mort.
 
-PORTAIL CUBIQUE
+[][Generic]
+
+### PORTAIL CUBIQUE
 
 Objet merveilleux, légendaire
 
@@ -2056,31 +2426,41 @@ Vous pouvez dépenser une action pour appuyer sur l'une des faces du cube et lan
 
 Le cube a trois charges et en perd une à chaque utilisation. Chaque matin à l'aube, il récupère 1d3 charges dépensées.
 
-POTION D'AGRANDISSEMENT
+[][Generic]
+
+### POTION D'AGRANDISSEMENT
 
 Potion, peu courante
 
 Quand vous buvez cette potion, vous êtes affecté par la version « agrandir » du sort agrandir/rétrécir pendant 1d4 heures (sans avoir besoin de vous concentrer). Une tache rouge dans le liquide s'étend jusqu'à colorer tout le liquide translucide et se rétracte pour former une petite bille. Ce cycle se répète sans cesse sans interruption, même si on secoue la bouteille.
 
-POTION D'AMITIÉ AVEC LES ANIMAUX
+[][Generic]
+
+### POTION D'AMITIÉ AVEC LES ANIMAUX
 
 Potion, peu courante
 
 Quand vous buvez cette potion, vous pouvez lancer le sort amitié avec les animaux (DD 13) à volonté pendant 1 heure. Si on agite ce liquide trouble, on distingue de petits morceaux : une écaille de poisson, une langue de colibri, une griffe de chat ou des poils d'écureuil.
 
-POTION DE CLAIRVOYANCE
+[][Generic]
+
+### POTION DE CLAIRVOYANCE
 
 Potion, rare
 
 Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance. Un globe oculaire flotte dans ce liquide jaunâtre, mais disparaît dès qu'on ouvre la potion.
 
-POTION D'ESCALADE
+[][Generic]
+
+### POTION D'ESCALADE
 
 Potion, peu courante
 
 Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votre vitesse au sol pendant 1 heure. Pendant tout ce temps, vous obtenez l'avantage lors des tests de Force (Escalade) que vous effectuez pour grimper. La potion se divise en couches brunes, argent et grises qui rappellent des stries dans la roche. Les couleurs ne se mélangent pas, même quand on agite la bouteille.
 
-POTION DE FORCE DE GÉANT
+[][Generic]
+
+### POTION DE FORCE DE GÉANT
 
 Potion, rareté variable
 
@@ -2095,19 +2475,25 @@ Géant du feu 25 Rare
 Géant des nuages 27 Très rare
 Géant des tempêtes 29 Légendaire
 
-POTION DE FORME GAZEUSE
+[][Generic]
+
+### POTION DE FORME GAZEUSE
 
 Potion, rare
 
 Quand vous buvez cette potion, vous bénéficiez des effets du sort forme gazeuse pendant 1 heure (sans avoir besoin de vous concentrer) ou jusqu'à ce que vous mettiez un terme à l'effet par une action bonus. La bouteille semble contenir une brume qui bouge et se verse comme de l'eau.
 
-POTION DE LECTURE DES PENSÉES
+[][Generic]
+
+### POTION DE LECTURE DES PENSÉES
 
 Potion, rare
 
 Vous bénéficiez des effets d'un sort de détection des pensées (DD des jets de sauvegarde contre le sort 13) quand vous buvez cette potion. Dans le liquide violet et épais de cette concoction flotte un nuage rose en forme d'oeuf.
 
-POTION DE POISON
+[][Generic]
+
+### POTION DE POISON
 
 Potion, peu courante
 
@@ -2115,7 +2501,9 @@ Cette concoction ressemble, tant au niveau du goût, de l'odeur et de l'aspect v
 
 Vous subissez 3d6 dégâts de poison et devez réussir un jet de sauvegarde de Constitution DD 13 pour ne pas être empoisonné si vous la buvez. Vous subissez 3d6 dégâts de poison au début de chacun de vos tours tant que vous êtes empoisonné de cette façon. À la fin de chacun de vos tours, vous pouvez retenter le jet de sauvegarde. En cas de réussite, les dégâts de poison subis lors des tours suivants diminuent de 1d6, et le poison disparaît quand les dégâts sont réduits à 0.
 
-POTION DE RÉSISTANCE
+[][Generic]
+
+### POTION DE RÉSISTANCE
 
 Potion, peu courante
 
@@ -2128,19 +2516,25 @@ d10 Type de dégâts d10 Type de dégâts
 4 Force 9 Radiant
 5 Foudre 10 Tonnerre
 
-POTION DE RESPIRATION AQUATIQUE
+[][Generic]
+
+### POTION DE RESPIRATION AQUATIQUE
 
 Potion, peu courante
 
 Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le liquide vert et trouble qu'elle contient, dans lequel flotte une bulle à l'aspect de méduse, sent la mer.
 
-POTION DE RÉTRÉCISSEMENT
+[][Generic]
+
+### POTION DE RÉTRÉCISSEMENT
 
 Potion, rare
 
 Quand vous buvez cette potion, vous êtes affecté par la version « rétrécir » du sort agrandir/rétrécir pendant 1d4 heures (sans avoir besoin de vous concentrer). Une tache rouge dans le liquide se rétrécit jusqu'à former une petit bille et s'étale ensuite jusqu'à colorer tout le liquide translucide. Ce cycle se répète sans cesse sans interruption, même si on secoue la bouteille.
 
-POTION DE SOINS
+[][Generic]
+
+### POTION DE SOINS
 
 Potion, rareté variable
 
@@ -2153,31 +2547,41 @@ Soins supérieurs Peu courante 4d4+4
 Soins excellents Rare 8d4+8
 Soins suprêmes Très rare 10d4+20
 
-POTION DE VITESSE
+[][Generic]
+
+### POTION DE VITESSE
 
 Potion, très rare
 
 Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concentration requise) après avoir bu cette potion. Le liquide jaune strié de noir de cette concoction tournoie de lui-même sans qu'on le remue.
 
-POTION DE VOL
+[][Generic]
+
+### POTION DE VOL
 
 Potion, très rare
 
 Quand vous buvez cette potion, vous gagnez une vitesse de vol égale à votre vitesse au sol pendant 1 heure. Vous êtes aussi en mesure de faire du vol stationnaire. Si vous vous trouvez dans les airs quand les effets de la potion se dissipent, vous tombez, à moins que vous ne disposiez d'un autre moyen de vous maintenir en l'air. Le liquide transparent de cette potion flotte au sommet de sa bouteille tandis que des impuretés d'un blanc laiteux le traversent.
 
-POTION D'HÉROÏSME
+[][Generic]
+
+### POTION D'HÉROÏSME
 
 Potion, rare
 
 Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. Pendant cette même période, vous êtes sous l'effet d'un sort de bénédiction (aucune concentration requise). Le liquide bleu bouillonne comme s'il était chauffé en permanence.
 
-POTION D'INVISIBILITÉ
+[][Generic]
+
+### POTION D'INVISIBILITÉ
 
 Potion, très rare
 
 Le contenant de cette potion paraît vide mais il semble, au contact, contenir un liquide. Vous devenez invisible pendant 1 heure après l'avoir bue. La totalité des objets équipés ou transportés deviennent également invisibles. L'effet prend fin prématurément si vous attaquez ou lancez un sort.
 
-POUSSIÈRE À ÉTERNUER
+[][Generic]
+
+### POUSSIÈRE À ÉTERNUER
 
 Objet merveilleux, peu courant
 
@@ -2185,7 +2589,9 @@ Cette poudre se trouve dans un petit récipient et ressemble à du sable fin. On
 
 Quand vous utilisez une action pour jeter une poignée de poussière dans les airs, vous et chaque créature qui a besoin de respirer et se trouve dans un rayon de 9 mètres autour de vous doit réussir un jet de sauvegarde de Constitution DD 15 ou se retrouver incapable de respirer tant elle tousse. Une créature ainsi affectée est neutralisée et suffoque. Tant qu'elle est consciente, la créature peut refaire le jet de sauvegarde à la fin de chacun de ses tours, sachant que l'effet se termine pour elle si elle réussit. Le sort de restauration mineure met aussi un terme à l'effet sur la créature qu'il touche.
 
-POUSSIÈRE D'ASSÈCHEMENT
+[][Generic]
+
+### POUSSIÈRE D'ASSÈCHEMENT
 
 Objet merveilleux, peu courant
 
@@ -2195,13 +2601,17 @@ Quelqu'un peut utiliser une action pour briser la boulette contre une surface so
 
 Un élémentaire majoritairement composé d'eau exposé à la poussière doit faire un jet de sauvegarde de Constitution. S'il échoue, il subit 10d6 dégâts nécrotiques, la moitié seulement sinon.
 
-POUSSIÈRE DE DISPARITION
+[][Generic]
+
+### POUSSIÈRE DE DISPARITION
 
 Objet merveilleux, peu courant
 
 Cette poudre se trouve dans un petit paquet et ressemble à du sable fin. Il y en a assez pour une utilisation. Si vous utilisez une action pour lancer la poussière en l'air, vous et chaque créature et objet situé dans un rayon de 3 mètres autour de vous devenez invisible pendant 2d4 minutes. La durée est la même pour toutes les cibles et la poussière est entièrement consumée dès que sa magie fait effet. Si une créature affectée par la poussière attaque ou lance un sort, l'invisibilité se termine pour elle.
 
-PROTECTRICE
+[][Generic]
+
+### PROTECTRICE
 
 Arme (épée), légendaire (harmonisation requise)
 
@@ -2209,7 +2619,9 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cet
 
 À chacun de vos tours, quand vous attaquez pour la première fois avec cette épée, vous pouvez transférer tout ou partie du bonus de l'arme à votre CA au lieu d'utiliser le bonus pour les attaques de ce tour. Par exemple, vous pouvez réduire le bonus de vos jets d'attaque et de dégâts en le faisant passer à +1, ce qui vous apporte un bonus de +2 à la CA. Ces bonus modifiés restent valables jusqu'au début de votre prochain tour, bien que vous deviez tenir l'épée en main pour bénéficier de son bonus à la CA.
 
-PUITS DES MONDES
+[][Generic]
+
+### PUITS DES MONDES
 
 Objet merveilleux, légendaire
 
@@ -2217,7 +2629,9 @@ Ce morceau d'étoffe noire, fine et douce comme la soie, peut se plier pour adop
 
 Vous pouvez utiliser une action pour déplier et positionner le puits des mondes contre une surface solide et créer ainsi un portail, empruntable dans les deux sens, qui permet de voyager vers un autre monde ou plan d'existence. Chaque fois que l'objet ouvre un portail, le MJ décide de l'endroit où il mène. Vous pouvez utiliser une action pour fermer un portail ouvert en prenant les bords du morceau d'étoffe et en le repliant. Une fois qu'un portail a été ouvert grâce au puits des mondes, il faut attendre 1d8 heures avant que cet objet magique ne puisse en ouvrir un nouveau.
 
-PUITS PORTATIF
+[][Generic]
+
+### PUITS PORTATIF
 
 Objet merveilleux, rare
 
@@ -2231,13 +2645,17 @@ Si le puits est refermé et qu'une créature se trouve dans son espace extradime
 
 Si l'on place un puits portatif dans l'espace extradimensionnel né d'un havresac magique, d'un sac sans fond ou d'un objet similaire, les deux objets sont instantanément détruits et un portail s'ouvre vers le plan Astral. Il apparaît là où l'on a placé le premier objet dans le second et toutes les créatures situées dans un rayon de 3 mètres autour de ce portail sont emportées vers un endroit aléatoire du plan Astral. Le portail se referme ensuite, sachant qu'il est à sens unique et qu'il est impossible de le rouvrir.
 
-REGARD CHARMEUR
+[][Generic]
+
+### REGARD CHARMEUR
 
 Objet merveilleux, peu courant (harmonisation requise)
 
 Ces lentilles de cristal se portent sur les yeux et possèdent trois charges. Tant que vous les portez, vous pouvez dépenser une charge pour lancer le sort charme-personne (DD 13) sur un humanoïde situé dans un rayon de 9 mètres, à condition que vous voyiez la cible et qu'elle vous voie. Chaque jour à l'aube, les lentilles régénèrent toutes les charges dépensées.
 
-ROBE AUX ÉTOILES
+[][Generic]
+
+### ROBE AUX ÉTOILES
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -2247,7 +2665,9 @@ Six étoiles, situées sur la partie avant supérieure de la robe, sont particul
 
 Tant que vous portez la robe, vous pouvez effectuer une action pour entrer dans le plan Astral avec tous vos objets équipés ou portés. Vous restez là-bas jusqu'à ce que vous effectuiez une action pour revenir sur le plan duquel vous êtes parti. Vous réapparaissez dans le dernier emplacement que vous occupiez à ce moment-là ou, si cet emplacement est déjà occupé, dans l'emplacement inoccupé le plus proche.
 
-ROBE AUX YEUX MULTIPLES
+[][Generic]
+
+### ROBE AUX YEUX MULTIPLES
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -2261,13 +2681,17 @@ Il est impossible de fermer ou de couvrir les yeux sur la robe. Même si vous po
 
 Un sort de lumière lancé sur la robe ou un sort de lumière du jour lancé à 1,50 mètre ou moins de celle-ci provoque votre cécité pendant 1 minute. À la fin de chacun de vos tours, vous pouvez effectuer un jet de sauvegarde de Constitution (DD 11 contre une lumière ou DD 15 contre une lumière du jour) et mettre fin à la cécité en cas de réussite.
 
-ROBE DE COULEURS ÉTINCELANTES
+[][Generic]
+
+### ROBE DE COULEURS ÉTINCELANTES
 
 Objet merveilleux, très rare (harmonisation requise)
 
 Cette robe contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous la portez, vous pouvez utiliser une action et dépenser 1 charge pour que le vêtement produise un motif changeant de couleurs éblouissantes jusqu'à la fin de son prochain tour. Pendant cette période, la robe diffuse une lumière vive sur un rayon de 9 mètres et une faible lumière sur 9 mètres au-delà. Les créatures qui peuvent vous voir subissent un désavantage lors des jets d'attaque contre vous. De plus, les créatures situées dans la zone de lumière vive et qui peuvent vous voir lorsque le pouvoir de la robe est activé doivent réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être étourdies jusqu'à la fin de cet effet.
 
-ROBE DE L'ARCHIMAGE
+[][Generic]
+
+### ROBE DE L'ARCHIMAGE
 
 Objet merveilleux, légendaire (harmonisation avec un ensorceleur, un sorcier ou un magicien exigée)
 
@@ -2279,7 +2703,9 @@ Vous bénéficiez des avantages suivants lorsque vous portez la robe :
 * vous obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
 * Les DD des jets de sauvegarde contre vos sorts et votre bonus d'attaque des sorts augmentent chacun de 2.
 
-ROBE D'OBJETS PRATIQUES
+[][Generic]
+
+### ROBE D'OBJETS PRATIQUES
 
 Objet merveilleux, peu courant
 
@@ -2328,7 +2754,9 @@ pouvez placer sur une surface verticale à votre
 portée
 97-00 Bélier portable
 
-SAC AFFAMÉ
+[][Generic]
+
+### SAC AFFAMÉ
 
 Objet merveilleux, très rare
 
@@ -2340,7 +2768,9 @@ On peut stocker des objets inanimés dans le sac, qui contient au maximum 28 lit
 
 Si le sac est perforé ou déchiré, il est détruit et tout ce qu'il contenait est emporté en un lieu aléatoire du plan Astral.
 
-SAC À MALICE
+[][Generic]
+
+### SAC À MALICE
 
 Objet merveilleux, peu courant
 
@@ -2385,7 +2815,9 @@ d8 Créature
 7 Hyène géante
 8 Tigre
 
-SAC DE HARICOTS
+[][Generic]
+
+### SAC DE HARICOTS
 
 Objet merveilleux, rare
 
@@ -2470,7 +2902,9 @@ offre une vue magnifique sur le paysage, donne
 accès au château d'un géant des nuages ou
 rejoint un autre plan d'existence.
 
-SAC SANS FOND
+[][Generic]
+
+### SAC SANS FOND
 
 Objet merveilleux, peu courant
 
@@ -2480,7 +2914,9 @@ Si le sac est surchargé, percé ou déchiré, il se découd complètement. Il e
 
 Si l'on place un sac sans fond dans l'espace extradimensionnel né d'un havresac magique, d'un puits portatif ou d'un objet similaire, les deux objets sont instantanément détruits et un portail s'ouvre vers le plan Astral. Il apparaît là où l'on a placé le premier objet dans le second et toutes les créatures situées dans un rayon de 3 mètres autour de ce portail sont emportées vers un endroit aléatoire du plan Astral. Le portail se referme ensuite, sachant qu'il est à sens unique et qu'il est impossible de le rouvrir.
 
-SCARABÉE DE PROTECTION
+[][Generic]
+
+### SCARABÉE DE PROTECTION
 
 Objet merveilleux, légendaire (harmonisation requise)
 
@@ -2489,7 +2925,9 @@ Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, 
 * vous obtenez l'avantage lors des jets de sauvegarde contre les sorts.
 * Le scarabée contient 12 charges. Si vous ratez un jet de sauvegarde contre un sort de nécromancie ou un effet nuisible infligé par un mort-vivant, vous pouvez utiliser votre réaction pour dépenser 1 charge et transformer l'échec du jet de sauvegarde en réussite. Le scarabée est détruit et tombe alors en poussière quand sa dernière charge est dépensée.
 
-SCEPTRE D'ABSORPTION
+[][Generic]
+
+### SCEPTRE D'ABSORPTION
 
 Sceptre, très rare (harmonisation requise)
 
@@ -2501,7 +2939,9 @@ Si vous êtes un lanceur de sorts et que vous tenez le sceptre en main, vous pou
 
 Un sceptre qui vient d'être découvert contient 1d10 niveaux d'énergie magique. La magie du sceptre disparaît dès qu'il ne peut plus absorber d'énergie magique et qu'aucune énergie n'est stockée à l'intérieur.
 
-SCEPTRE DE PUISSANCE SEIGNEURIALE
+[][Generic]
+
+### SCEPTRE DE PUISSANCE SEIGNEURIALE
 
 Sceptre, légendaire (harmonisation requise)
 
@@ -2527,7 +2967,9 @@ Paralysie. Quand vous réussissez une attaque au corps à corps contre une créa
 
 Terreur. En tenant le sceptre en main, vous pouvez utiliser une action pour forcer chaque créature située à 9 mètres ou moins dans votre champ de vision à effectuer un jet de sauvegarde de Sagesse DD 17. En cas d'échec, une cible est terrorisée par vous pendant 1 minute. Une cible terrorisée peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite. Cette propriété n'est réutilisable qu'à l'aube suivante.
 
-SCEPTRE DE SÉCURITÉ
+[][Generic]
+
+### SCEPTRE DE SÉCURITÉ
 
 Sceptre, très rare
 
@@ -2537,13 +2979,17 @@ Pour chaque heure passée dans l'endroit paradisiaque, un visiteur récupère de
 
 Une fois cette période écoulée ou si vous utilisez une action pour y mettre fin, l'ensemble des visiteurs réapparaissent à l'endroit qu'ils occupaient au moment de l'activation du sceptre ou dans l'emplacement inoccupé le plus proche de cet endroit. Le sceptre n'est réutilisable qu'au bout de dix jours.
 
-SCEPTRE DE SUZERAINETÉ
+[][Generic]
+
+### SCEPTRE DE SUZERAINETÉ
 
 Sceptre, rare (harmonisation requise)
 
 Vous pouvez utiliser une action pour présenter le sceptre et exiger l'obéissance des créatures de votre choix situées à 36 mètres ou moins dans votre champ de vision. Les créatures doivent chacune réussir un jet de sauvegarde de Sagesse DD 15 pour ne pas être charmées par vous pendant 8 heures. Une fois charmées de cette façon, les créatures vous considèrent comme un chef fiable. Une cible n'est plus charmée par ce biais si vous ou vos compagnons lui nuisent ou lui ordonnent d'accomplir quelque chose de contraire à sa nature. Le sceptre n'est réutilisable qu'à l'aube suivante.
 
-SCEPTRE DE VIGILANCE
+[][Generic]
+
+### SCEPTRE DE VIGILANCE
 
 Sceptre, très rare (harmonisation requise)
 
@@ -2557,13 +3003,17 @@ Aura protectrice. Par une action, vous pouvez planter le manche du sceptre dans 
 
 La lumière diffusée par la tête du sceptre s'éteint et l'effet prend fin au bout de 10 minutes ou quand une créature utilise une action pour déplanter le sceptre. Il faut attendre l'aube suivante avant de pouvoir réutiliser cette propriété.
 
-SCEPTRE INAMOVIBLE
+[][Generic]
+
+### SCEPTRE INAMOVIBLE
 
 Objet merveilleux, peu courant
 
 Ce sceptre plat en fer est équipé d'un bouton sur une extrémité. Vous pouvez utiliser une action pour appuyer dessus : il se fixe alors par magie à l'endroit où il se trouve. Il ne bouge plus tant que vous ou une tierce personne n'utilisez pas une action pour appuyer de nouveau sur le bouton, même s'il doit pour cela défier les lois de la gravité. Le sceptre peut soutenir jusqu'à 4 tonnes. Il se désactive et tombe si on lui fait porter plus de poids. Une créature peut utiliser une action pour faire un test de Force DD 30 afin de déplacer le sceptre. Si elle réussit, il bouge d'au maximum 3 mètres.
 
-SPHÈRE D'ANNIHILATION
+[][Generic]
+
+### SPHÈRE D'ANNIHILATION
 
 Objet merveilleux, légendaire
 
@@ -2587,13 +3037,17 @@ objet situés à 54 mètres ou moins de la sphère,
 y compris la sphère elle-même, vers un plan
 d'existence déterminé au hasard.
 
-SOLVANT UNIVERSEL
+[][Generic]
+
+### SOLVANT UNIVERSEL
 
 Objet merveilleux, légendaire
 
 Ce tube contient un liquide laiteux qui sent fort l'alcool. Vous pouvez utiliser une action pour déverser le contenu du tube sur une surface à portée. Le liquide dissout instantanément jusqu'à 30 centimètres carrés de colle avec laquelle il entre en contact, y compris de la colle universelle.
 
-SUBMERSIBLE DU CRABE
+[][Generic]
+
+### SUBMERSIBLE DU CRABE
 
 Objet merveilleux, légendaire
 
@@ -2642,13 +3096,17 @@ Le submersible remonte d'au maximum 6 mètres
 dans un liquide.
 10 La trappe arrière se descelle et s'ouvre. La trappe arrière se ferme et se scelle.
 
-TALISMAN DE LA SPHÈRE
+[][Generic]
+
+### TALISMAN DE LA SPHÈRE
 
 Objet merveilleux, légendaire (harmonisation requise)
 
 Lorsque vous effectuez un test d'Intelligence (Arcanes) pour contrôler une sphère d'annihilation en tenant ce talisman en main, vous doublez votre bonus de maîtrise pour ce test. En outre, lorsque vous commencez votre tour en contrôlant une sphère d'annihilation, vous pouvez utiliser une action pour la faire léviter sur une distance de 3 mètres plus 3 mètres supplémentaires × votre modificateur d'Intelligence.
 
-TALISMAN DU BIEN ULTIME
+[][Generic]
+
+### TALISMAN DU BIEN ULTIME
 
 Objet merveilleux, légendaire (harmonisation avec une créature d'alignement bon exigée)
 
@@ -2658,7 +3116,9 @@ Si vous êtes un clerc ou un paladin d'alignement bon, le talisman peut faire of
 
 Le talisman contient 7 charges. Si vous le portez sur vous ou le tenez en main, vous pouvez utiliser une action pour dépenser 1 charge et choisir une créature située à 36 mètres de vous, en contact avec le sol et dans votre champ de vision. Si l'alignement de la cible est mauvais, une fissure de flammes rugissantes s'ouvre sous elle. La créature doit réussir un jet de sauvegarde de Dextérité DD 20 pour ne pas trébucher dans la fissure, ce qui aboutirait à sa destruction définitive, sans aucun reste à récupérer. La fissure se referme ensuite en ne laissant aucune trace. Le talisman est détruit et se désagrège en particules de lumière dorée lorsque vous dépensez la dernière charge.
 
-TALISMAN DU MAL ULTIME
+[][Generic]
+
+### TALISMAN DU MAL ULTIME
 
 Objet merveilleux, légendaire (harmonisation avec une créature d'alignement mauvais exigée)
 
@@ -2668,7 +3128,9 @@ Si vous êtes un clerc ou un paladin d'alignement mauvais, le talisman peut fair
 
 Le talisman contient 6 charges. Si vous le portez sur vous ou le tenez en main, vous pouvez utiliser une action pour dépenser 1 charge et choisir une créature située à 36 mètres de vous, en contact avec le sol et dans votre champ de vision. Si l'alignement de la cible est bon, une fissure de flammes rugissantes s'ouvre sous elle. Elle doit réussir un jet de sauvegarde de Dextérité DD 20 pour ne pas trébucher dans la fissure, ce qui abou- tirait à sa destruction définitive, sans aucun reste à récupérer. La fissure se referme ensuite en ne laissant aucune trace. Le talisman est détruit et se désagrège en bave à l'odeur nauséabonde lorsque vous dépensez la dernière charge.
 
-TAPIS VOLANT
+[][Generic]
+
+### TAPIS VOLANT
 
 Objet merveilleux, très rare
 
@@ -2684,31 +3146,41 @@ d100 Taille Capacité Vitesse de vol
 
 Un tapis peut porter deux fois le poids indiqué dans la table mais, s'il porte plus que sa capacité normale, il se déplace à la moitié de la vitesse indiquée.
 
-TRAITÉ D'AUTORITÉ ET D'INFLUENCE
+[][Generic]
+
+### TRAITÉ D'AUTORITÉ ET D'INFLUENCE
 
 Objet merveilleux, très rare
 
 Ce livre contient des exercices d'interactions sociales basées sur la manipulation et la charme. Ses mots sont imprégnés de magie. Si vous passez 48 heures, lors d'une période de 6 jours ou moins, à étudier le contenu du traité, à suivre ses indications et faire ses exercices, votre valeur de Charisme ainsi que votre valeur maximale dans cette caractéristique augmentent de 2. La magie du traité disparaît ensuite, mais elle réapparaît au bout d'un siècle.
 
-TRAITÉ DE COMPRÉHENSION
+[][Generic]
+
+### TRAITÉ DE COMPRÉHENSION
 
 Objet merveilleux, très rare
 
 Ce livre contient des exercices intuitifs de sagacité. Ses mots sont imprégnés de magie. Si vous passez 48 heures, lors d'une période de 6 jours ou moins, à étudier le contenu du traité, à suivre ses indications et faire ses exercices, votre valeur de Sagesse ainsi que votre valeur maximale dans cette caractéristique augmentent de 2. La magie du traité disparaît ensuite, mais elle réapparaît au bout d'un siècle.
 
-TRAITÉ DE PERSPICACITÉ
+[][Generic]
+
+### TRAITÉ DE PERSPICACITÉ
 
 Objet merveilleux, très rare
 
 Ce livre contient des exercices de logique et de mémoire. Ses mots sont imprégnés de magie. Si vous passez 48 heures, lors d'une période de 6 jours ou moins, à étudier le contenu du traité, à suivre ses indications et faire ses exercices, votre valeur d'Intelligence ainsi que votre valeur maximale dans cette caractéristique augmentent de 2. La magie du traité disparaît ensuite, mais elle réapparaît au bout d'un siècle.
 
-TRIDENT DE DOMINATION AQUATIQUE
+[][Generic]
+
+### TRIDENT DE DOMINATION AQUATIQUE
 
 Arme (trident), peu courante (harmonisation requise)
 
 Ce trident est une arme magique. Il contient 3 charges. Tant que vous le portez sur vous, vous pouvez utiliser une action et dépenser 1 charge pour lancer dominer une bête (DD du jet de sauvegarde 15) par son biais sur une créature qui sait nager de manière innée et possède une vitesse à la nage. Le trident récupère 1d3 charges dépensées chaque jour, à l'aube.
 
-TUEUSE DE DRAGONS
+[][Generic]
+
+### TUEUSE DE DRAGONS
 
 Arme (épée), rare
 
@@ -2716,7 +3188,9 @@ Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cet
 
 Quand vous touchez un dragon avec elle, il subit 3d6 dégâts supplémentaires du type de l'arme. Le terme « dragon » utilisé dans le cadre de cette description regroupe toutes les créatures du type dragon, y compris les dragons-tortues et les vouivres.
 
-TUEUSE DE GÉANT
+[][Generic]
+
+### TUEUSE DE GÉANT
 
 Arme (épée ou hache), rare
 
@@ -2724,7 +3198,9 @@ Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme mag
 
 Quand vous touchez un géant avec elle, il subit 2d6 dégâts supplémentaires du type de l'arme et doit réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Vis-à-vis de cette arme, « géant » désigne toute créature du type géant, y compris les ettins et les trolls.
 
-VENGERESSE SACRÉE
+[][Generic]
+
+### VENGERESSE SACRÉE
 
 Arme (épée), légendaire (harmonisation requise avec un paladin)
 
@@ -2732,7 +3208,9 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme mag
 
 Tant que vous tenez l'arme en main, elle génère une aura de 3 mètres de rayon autour de vous. Vous et toutes les créatures amicales envers vous affectées par l'aura obtenez l'avantage lors des jets de sauvegarde contre les sorts et autres effets magiques. Si vous possédez 17 niveaux ou plus dans la classe de paladin, le rayon de l'aura passe à 9 mètres.
 
-VOLEUSE DE VIES
+[][Generic]
+
+### VOLEUSE DE VIES
 
 Arme (épée), très rare (harmonisation requise) 
 
