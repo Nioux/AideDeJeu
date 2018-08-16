@@ -40,6 +40,9 @@ Le sort identification est le meilleur moyen d'obtenir des informations sur un o
 
 ### Harmonisation
 
+- AltName: Attunement (SRD p206)
+- Source: (CDC p130)
+
 Une créature doit parfois sceller un pacte avec certains objets magiques avant de pouvoir utiliser leurs propriétés magiques. Ce pacte est appelé harmonisation et il faut parfois remplir certaines conditions pour plusieurs d'entre eux. Si la condition est une classe, une créature doit appartenir à cette classe pour qu'elle et lui puissent s'harmoniser (si la classe est celle d'un lanceur de sorts, un monstre remplit la condition s'il possède des emplacements de sort et utilise la liste de sorts de cette classe).
 
 Une créature non-harmonisée avec un objet nécessitant une harmonisation bénéficie uniquement des avantages non-magiques conférés par l'objet, à moins que le contraire ne soit indiqué dans sa description. Par exemple, un bouclier magique nécessitant une harmonisation confère les avantages d'un bouclier ordinaire à une créature non-harmonisée avec lui, mais aucune de ses propriétés magiques.

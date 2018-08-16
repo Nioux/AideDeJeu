@@ -3067,34 +3067,19 @@ Le submersible flotte sur l'eau mais peut aussi s'enfoncer jusqu'à une profonde
 Une créature installée dans le compartiment peut utiliser une action pour tirer deux leviers au maximum, vers le bas ou le haut. Chaque levier revient en position neutre après utilisation. De gauche à droite, chaque levier fonctionne comme indiqué dans la table Leviers du submersible du crabe.
 
 Leviers du submersible du crabe
-Levier Haut Bas
-1 Déploiement de la queue et des pattes, ce qui permet
-au submersible de marcher et nager.
-Repliement de la queue et des pattes, ce qui réduit
-la vitesse du submersible à 0 et l'empêche de
-profiter d'éventuels bonus de vitesse.
-2 Ouverture du volet de la fenêtre avant. Fermeture du volet de la fenêtre avant.
-3 Ouverture des volets des fenêtres latérales (deux de
-chaque côté).
-Fermeture des volets des fenêtres latérales (deux
-de chaque côté).
-4 Deux pinces se déploient de chaque côté du
-submersible. Les deux pinces se rétractent.
-5 Chaque pince dépliée est considérée comme une arme de corps à corps et porte l'attaque suivante : +8 pour
-toucher, allonge 1,50 m, une cible. Coup: 7 (2d6) dégâts contondants.
-6 Le submersible avance en marchant ou en nageant. Le submersible recule en marchant ou en
-nageant.
-7 L'appareil tourne de 90° sur la gauche. L'appareil tourne de 90° sur la droite.
-8
-Des pièces d'équipement semblables à des yeux
-émettent une vive lumière dans un rayon de 9 mètres et
-une lumière faible dans un rayon de 9 mètres de plus.
-Les lumières s'éteignent.
-9 Le submersible s'enfonce d'au maximum 6 mètres dans
-un liquide.
-Le submersible remonte d'au maximum 6 mètres
-dans un liquide.
-10 La trappe arrière se descelle et s'ouvre. La trappe arrière se ferme et se scelle.
+
+|Levier|Haut|Bas|
+|---|---|---
+|1|Déploiement de la queue et des pattes, ce qui permet<br> au submersible de marcher et nager.|Repliement de la queue et des pattes, ce qui réduit<br> la vitesse du submersible à 0 et l'empêche de profiter d'éventuels bonus de vitesse.|
+|2|Ouverture du volet de la fenêtre avant.|Fermeture du volet de la fenêtre avant.|
+|3|Ouverture des volets des fenêtres latérales (deux de<br> chaque côté).|Fermeture des volets des fenêtres latérales (deux<br> de chaque côté).|
+|4|Deux pinces se déploient de chaque côté du<br> submersible.|Les deux pinces se rétractent.|
+|5|Chaque pince dépliée est considérée comme une arme de corps à corps et porte l'attaque suivante : +8 pour<br> toucher, allonge 1,50 m, une cible. Coup: 7 (2d6) dégâts contondants.
+|6|Le submersible avance en marchant ou en nageant.|Le submersible recule en marchant ou en<br> nageant.|
+|7|L'appareil tourne de 90° sur la gauche.|L'appareil tourne de 90° sur la droite.|
+|8|Des pièces d'équipement semblables à des yeux<br> émettent une vive lumière dans un rayon de 9 mètres et<br> une lumière faible dans un rayon de 9 mètres de plus.|Les lumières s'éteignent.|
+|9|Le submersible s'enfonce d'au maximum 6 mètres dans<br> un liquide.|Le submersible remonte d'au maximum 6 mètres<br> dans un liquide.|
+|10|La trappe arrière se descelle et s'ouvre.|La trappe arrière se ferme et se scelle.|
 
 [][Generic]
 
@@ -3138,11 +3123,12 @@ Quand vous prononcez le mot de commande de ce tapis par une action, il flotte da
 
 Il existe quatre tailles de tapis. C'est au MJ de choisir celle de chaque tapis ou de la déterminer au hasard.
 
-d100 Taille Capacité Vitesse de vol
-01-20 0,9 m × 1,5 m 100 kg 24 m
-21-55 1,20 m × 1,80 m 200 kg 18 m
-56-80 1,50 m × 2,10 m 600 kg 12 m
-81-100 1,80 m × 2,70 m 400 kg 9 m
+|d100|Taille|Capacité|Vitesse de vol|
+|---|---|---|---|
+|01-20|0,9 m × 1,5 m|100 kg|24 m|
+|21-55|1,20 m × 1,80 m|200 kg|18 m|
+|56-80|1,50 m × 2,10 m|600 kg|12 m|
+|81-100|1,80 m × 2,70 m|400 kg|9 m|
 
 Un tapis peut porter deux fois le poids indiqué dans la table mais, s'il porte plus que sa capacité normale, il se déplace à la moitié de la vitesse indiquée.
 
