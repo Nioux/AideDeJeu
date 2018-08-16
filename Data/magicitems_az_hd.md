@@ -13,7 +13,7 @@ nom, sa catégorie, sa rareté et ses propriétés magiques.
 
 [][Generic]
 
-### AILES DE VOL
+### Ailes de vol
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -21,7 +21,7 @@ Tant que vous êtes équipé de cette cape, vous pouvez utiliser une action pour
 
 [][Generic]
 
-### AMULETTE ANTIDOTE
+### Amulette antidote
 
 Objet merveilleux, rare
 
@@ -29,7 +29,7 @@ Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d
 
 [][Generic]
 
-### AMULETTE D'ANTIDÉTECTION
+### Amulette d'antidétection
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -37,7 +37,7 @@ Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de d
 
 [][Generic]
 
-### AMULETTE DE BONNE SANTÉ
+### Amulette de bonne santé
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -45,7 +45,7 @@ Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L
 
 [][Generic]
 
-### AMULETTE DE CICATRISATION
+### Amulette de cicatrisation
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -53,7 +53,7 @@ Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au débu
 
 [][Generic]
 
-### AMULETTE DE SANTÉ
+### Amulette de santé
 
 Objet merveilleux, peu courant
 
@@ -61,7 +61,7 @@ Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladi
 
 [][Generic]
 
-### AMULETTE DES PLANS
+### Amulette des plans
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -69,7 +69,7 @@ Tant que vous portez cette amulette, vous pouvez utiliser votre action pour nomm
 
 [][Generic]
 
-### ANNEAU D'ACTION LIBRE
+### Anneau d'action libre
 
 Anneau, rare (harmonisation requise)
 
@@ -77,7 +77,7 @@ Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûte
 
 [][Generic]
 
-### ANNEAU DE CHALEUR
+### Anneau de chaleur
 
 Anneau, peu courant (harmonisation requise)
 
@@ -85,7 +85,7 @@ Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous p
 
 [][Generic]
 
-### ANNEAU DE CONVOCATION DE DJINN
+### Anneau de convocation de djinn
 
 Anneau, légendaire (harmonisation requise)
 
@@ -97,7 +97,7 @@ Après le retour du djinn sur son plan d'origine, vous ne pouvez plus le convoqu
 
 [][Generic]
 
-### ANNEAU DE DÉROBADE
+### Anneau de dérobade
 
 Anneau, rare (harmonisation requise)
 
@@ -105,7 +105,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 [][Generic]
 
-### ANNEAU DE FEU D'ÉTOILES
+### Anneau de feu d'étoiles
 
 Anneau, très rare (harmonisation en plein air et de nuit exigée)
 
@@ -131,7 +131,7 @@ Feu d'étoiles. Vous pouvez dépenser 1 à 3 charges par une action. Pour chaque
 
 [][Generic]
 
-### ANNEAU DE LÉGÈRETÉ
+### Anneau de légèreté
 
 Anneau, rare (harmonisation requise)
 
@@ -139,7 +139,7 @@ Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tan
 
 [][Generic]
 
-### ANNEAU DE MAÎTRISE ÉLÉMENTAIRE
+### Anneau de maîtrise élémentaire
 
 Anneau, légendaire (harmonisation requise)
 
@@ -181,7 +181,7 @@ Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'ann
 
 [][Generic]
 
-### ANNEAU DE MARCHE SUR L'EAU
+### Anneau de marche sur l'eau
 
 Anneau, peu courant
 
@@ -189,7 +189,7 @@ Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus
 
 [][Generic]
 
-### ANNEAU DE NAGE
+### Anneau de nage
 
 Anneau, peu courant
 
@@ -197,7 +197,7 @@ Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vou
 
 [][Generic]
 
-### ANNEAU DE PROTECTION
+### Anneau de protection
 
 Anneau, rare (harmonisation requise)
 
@@ -205,7 +205,7 @@ Vous bénéficiez d'un bonus de +1 à la CA et aux jets de sauvegarde tant que v
 
 [][Generic]
 
-### ANNEAU DE PROTECTION MENTALE
+### Anneau de protection mentale
 
 Anneau, peu courant (harmonisation requise)
 
@@ -217,7 +217,7 @@ Si vous perdez la vie avec l'anneau au doigt, votre âme se réfugie à l'intér
 
 [][Generic]
 
-### ANNEAU DE RÉGÉNÉRATION
+### Anneau de régénération
 
 Anneau, très rare (harmonisation requise)
 
@@ -225,7 +225,7 @@ Tant que vous portez cet anneau, vous récupérez 1d6 points de vie toutes les 1
 
 [][Generic]
 
-### ANNEAU DE RENVOI DES SORTS
+### Anneau de renvoi des sorts
 
 Anneau, légendaire (harmonisation requise)
 
@@ -233,7 +233,7 @@ Vous obtenez l'avantage lors des jets de sauvegarde contre les sorts qui ne pren
 
 [][Generic]
 
-### ANNEAU DE RÉSISTANCE
+### Anneau de résistance
 
 Anneau, rare (harmonisation requise)
 
@@ -253,7 +253,7 @@ d10 Type de dégâts Pierre précieuse
 
 [][Generic]
 
-### ANNEAU DE SAUT
+### Anneau de saut
 
 Anneau, peu courant (harmonisation requise)
 
@@ -261,7 +261,7 @@ Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant qu
 
 [][Generic]
 
-### ANNEAU DE STOCKAGE DE SORTS
+### Anneau de stockage de sorts
 
 Anneau, rare (harmonisation requise)
 
@@ -273,7 +273,7 @@ Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké 
 
 [][Generic]
 
-### ANNEAU DE TÉLÉKINÉSIE
+### Anneau de télékinésie
 
 Anneau, très rare (harmonisation requise)
 
@@ -281,7 +281,7 @@ Tant que vous portez cet anneau au doigt, vous pouvez lancer le sort de téléki
 
 [][Generic]
 
-### ANNEAU DE TRIPLE SOUHAIT
+### Anneau de triple souhait
 
 Anneau, légendaire
 
@@ -289,7 +289,7 @@ Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'
 
 [][Generic]
 
-### ANNEAU DE VISION AUX RAYONS X
+### Anneau de vision aux rayons X
 
 Anneau, rare (harmonisation requise)
 
@@ -299,7 +299,7 @@ Chaque fois que vous utilisez l'anneau à nouveau avant de prendre un repos long
 
 [][Generic]
 
-### ANNEAU D'INFLUENCE ANIMALE
+### Anneau d'influence animale
 
 Anneau, rare
 
@@ -311,7 +311,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 [][Generic]
 
-### ANNEAU D'INVISIBILITÉ
+### Anneau d'invisibilité
 
 Anneau, légendaire (harmonisation requise)
 
@@ -319,7 +319,7 @@ Vous pouvez devenir invisible par une action tant que vous portez cet anneau au 
 
 [][Generic]
 
-### ANNEAU DU BÉLIER
+### Anneau du bélier
 
 Anneau, rare (harmonisation requise)
 
@@ -329,7 +329,7 @@ Par ailleurs, vous pouvez dépenser de 1 à 3 des charges que contient l'anneau 
 
 [][Generic]
 
-### ARC DU SERMENT
+### Arc du serment
 
 Arme (arc long), très rare (harmonisation requise)
 
@@ -341,7 +341,7 @@ Tant que vit votre ennemi juré, vous subissez un désavantage lors de jets d'at
 
 [][Generic]
 
-### ARME VICIEUSE
+### Arme vicieuse
 
 Arme (n'importe quelle arme), rare
 
@@ -349,7 +349,7 @@ Lorsque vous obtenez un 20 sur un jet d'attaque avec cette arme magique, votre c
 
 [][Generic]
 
-### ARME +1, +2 OU +3
+### Arme +1, +2 ou +3
 
 Arme (n'importe quelle arme), peu courante (+1), rare (+2) ou très rare (+3)
 
@@ -357,7 +357,7 @@ Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec c
 
 [][Generic]
 
-### ARMURE D'ÉCAILLES DE DRAGON
+### Armure d'écailles de dragon
 
 Armure (armure d'écaille), très rare (harmonisation requise)
 
@@ -381,7 +381,7 @@ Blanc Froid
 
 [][Generic]
 
-### ARMURE DE MITHRAL
+### Armure de mithral
 
 Armure (intermédiaire ou lourde mais pas en peau), peu courante
 
@@ -389,7 +389,7 @@ Le mithral est un métal léger et flexible, à tel point qu'on peut porter une 
 
 [][Generic]
 
-### ARMURE DÉMONIAQUE
+### Armure démoniaque
 
 Armure (harnois), très rare (harmonisation requise)
 
@@ -399,7 +399,7 @@ Malédiction. Une fois que vous avez enfilé cette armure maudite, vous ne pouve
 
 [][Generic]
 
-### ARMURE DE RÉSISTANCE
+### Armure de résistance
 
 Armure (légère, intermédiaire ou lourde), rare (harmonisation requise)
 
@@ -419,7 +419,7 @@ d10 Type de dégâts
 
 [][Generic]
 
-### ARMURE DE VULNÉRABILITÉ
+### Armure de vulnérabilité
 
 Armure (harnois), rare (harmonisation requise)
 
@@ -429,7 +429,7 @@ Malédiction. Cette armure est maudite, mais les gens l'ignorent à moins de lui
 
 [][Generic]
 
-### ARMURE D'INVULNÉRABILITÉ
+### Armure d'invulnérabilité
 
 Armure (harnois), légendaire (harmonisation requise)
 
@@ -437,7 +437,7 @@ Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De 
 
 [][Generic]
 
-### ARMURE EN ADAMANTIUM
+### Armure en adamantium
 
 Armure (intermédiaire ou lourde, mais pas en peau), peu courante
 
@@ -445,7 +445,7 @@ Cette armure est renforcée à base d'adamantium, l'une des substances les plus 
 
 [][Generic]
 
-### ARMURE +1, +2 OU +3
+### Armure +1, +2 ou +3
 
 Armure (légère, intermédiaire ou lourde), rare (+1), très rare (+2) ou légendaire (+3)
 
@@ -453,7 +453,7 @@ Vous disposez d'un bonus à la CA tant que vous portez cette armure. Ce bonus d�
 
 [][Generic]
 
-### BAGUETTE D'ÉCLAIRS
+### Baguette d'éclairs
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -463,7 +463,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE DE BOULES DE FEU
+### Baguette de boules de feu
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -473,7 +473,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE DE DÉTECTION DE L'ENNEMI
+### Baguette de détection de l'ennemi
 
 Baguette, rare (harmonisation requise)
 
@@ -483,7 +483,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE DE DÉTECTION DE LA MAGIE
+### Baguette de détection de la magie
 
 Baguette, peu courante
 
@@ -491,7 +491,7 @@ Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dép
 
 [][Generic]
 
-### BAGUETTE DE MÉTAMORPHOSE
+### Baguette de métamorphose
 
 Baguette, très rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -501,7 +501,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE DE PARALYSIE
+### Baguette de paralysie
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -511,7 +511,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE DE PROJECTILES MAGIQUES
+### Baguette de projectiles magiques
 
 Baguette, peu courante
 
@@ -521,7 +521,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE DE TERREUR
+### Baguette de terreur
 
 Baguette, rare (harmonisation requise)
 
@@ -533,7 +533,7 @@ Cône de terreur. Avec cette baguette en main, vous pouvez utiliser une action p
 
 [][Generic]
 
-### BAGUETTE DES ENTRAVES
+### Baguette des entraves
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -545,7 +545,7 @@ Sorts. Avec cette baguette en main, vous pouvez utiliser une action pour dépens
 
 [][Generic]
 
-### BAGUETTE DES SECRETS
+### Baguette des secrets
 
 Baguette, peu courante
 
@@ -553,7 +553,7 @@ Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de
 
 [][Generic]
 
-### BAGUETTE DU MAGE DE GUERRE +1, +2 OU +3
+### Baguette du mage de guerre +1, +2 ou +3
 
 Baguette, peu courant (+1), rare (+2) ou très rare (+3) (harmonisation avec un lanceur de sorts exigée)
 
@@ -561,7 +561,7 @@ Avec cette baguette en main, vous bénéficiez d'un bonus aux jets d'attaque des
 
 [][Generic]
 
-### BAGUETTE ENTOILÉE
+### Baguette entoilée
 
 Baguette, peu courante (harmonisation avec un lanceur de sorts exigée)
 
@@ -571,7 +571,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 [][Generic]
 
-### BAGUETTE MERVEILLEUSE
+### Baguette merveilleuse
 
 Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -690,7 +690,7 @@ supérieure ou une magie similaire.
 
 [][Generic]
 
-### BALAI VOLANT
+### Balai volant
 
 Objet merveilleux, peu courant
 
@@ -700,7 +700,7 @@ Vous pouvez envoyer le balai rejoindre seul une destination située dans un rayo
 
 [][Generic]
 
-### BANDEAU D'INTELLIGENCE
+### Bandeau d'intelligence
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -708,7 +708,7 @@ Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est dé
 
 [][Generic]
 
-### BATEAU PLIABLE
+### Bateau pliable
 
 Objet merveilleux, rare
 
@@ -724,7 +724,7 @@ Le troisième mot de commande replie le bateau qui redevient une boîte, à cond
 
 [][Generic]
 
-### BÂTON D'ENVOÛTEMENT
+### Bâton d'envoûtement
 
 Bâton, rare (harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -736,7 +736,7 @@ Le bâton récupère 1d8+2 charges dépensées chaque jour, à l'aube. Si vous d
 
 [][Generic]
 
-### BÂTON DE COMBAT
+### Bâton de combat
 
 Bâton, très rare (harmonisation requise)
 
@@ -746,7 +746,7 @@ Le bâton contient 10 charges. Quand vous réussissez une attaque au corps à co
 
 [][Generic]
 
-### BÂTON DE FEU
+### Bâton de feu
 
 Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -758,7 +758,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 [][Generic]
 
-### BÂTON DE FLÉTRISSEMENT
+### Bâton de flétrissement
 
 Bâton, rare (harmonisation avec un druide, un clerc ou un sorcier exigée)
 
@@ -768,7 +768,7 @@ Le bâton peut être manié comme une arme magique. En cas d'attaque réussie, i
 
 [][Generic]
 
-### BÂTON DE GUÉRISON
+### Bâton de guérison
 
 Bâton, rare (harmonisation avec un barde, un clerc ou un druide exigée)
 
@@ -778,7 +778,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 [][Generic]
 
-### BÂTON DE GIVRE
+### Bâton de givre
 
 Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée) 
 
@@ -790,7 +790,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 [][Generic]
 
-### BÂTON DE PUISSANCE
+### Bâton de puissance
 
 Bâton, très rare (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -816,7 +816,7 @@ restantes du bâton
 
 [][Generic]
 
-### BÂTON DE TONNERRE ET DE FOUDRE
+### Bâton de tonnerre et de foudre
 
 Bâton, très rare (harmonisation requise)
 
@@ -834,7 +834,7 @@ Tonnerre et foudre. Vous pouvez utiliser une action pour vous servir en même te
 
 [][Generic]
 
-### BÂTON DES FORÊTS
+### Bâton des forêts
 
 Bâton, rare (harmonisation avec un druide exigée)
 
@@ -850,7 +850,7 @@ Forme d'arbre. Vous pouvez utiliser une action pour planter une extrémité du b
 
 [][Generic]
 
-### BÂTON DU GRAND ESSAIM
+### Bâton du grand essaim
 
 Bâton, rare (harmonisation requise)
 
@@ -862,7 +862,7 @@ Nuée d'insectes. Tant que vous tenez le bâton en main, vous pouvez utiliser un
 
 [][Generic]
 
-### BÂTON DU PYTHON
+### Bâton du python
 
 Bâton, peu courant (harmonisation avec un clerc, druide ou un sorcier exigée)
 
@@ -874,7 +874,7 @@ Si le nombre de points de vie du serpent tombe à 0, il meurt et reprend sa form
 
 [][Generic]
 
-### BÂTON DU THAUMATURGE
+### Bâton du thaumaturge
 
 Bâton, légendaire (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -902,7 +902,7 @@ restantes du bâton
 
 [][Generic]
 
-### BAUME REVIGORANT
+### Baume revigorant
 
 Objet merveilleux, peu courant
 
@@ -912,7 +912,7 @@ Par une action, il est possible d'avaler ou d'appliquer sur la peau une dose de 
 
 [][Generic]
 
-### BOL DE CONTRÔLE DES ÉLÉMENTAIRES DE L'EAU
+### Bol de contrôle des élémentaires de l'eau
 
 Objet merveilleux, rare
 
@@ -922,7 +922,7 @@ Le bol fait une trentaine de centimètres de diamètre pour quinze centimètres 
 
 [][Generic]
 
-### BOTTES AILÉES
+### Bottes ailées
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -932,7 +932,7 @@ Les bottes récupèrent 2 heures de capacité de vol pour chaque période de 12 
 
 [][Generic]
 
-### BOTTES DE LÉVITATION
+### Bottes de lévitation
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -940,7 +940,7 @@ Tant que vous portez ces bottes, vous pouvez utiliser une action pour lancer le 
 
 [][Generic]
 
-### BOTTES DE MARCHE ET DE SAUT
+### Bottes de marche et de saut
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -948,7 +948,7 @@ Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moi
 
 [][Generic]
 
-### BOTTES DE RAPIDITÉ
+### Bottes de rapidité
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -958,7 +958,7 @@ Une fois que la capacité spéciale des bottes a servi pendant un total de 10 mi
 
 [][Generic]
 
-### BOTTES DES TERRES GELÉES
+### Bottes des terres gelées
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -970,7 +970,7 @@ Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez,
 
 [][Generic]
 
-### BOTTES ELFIQUES
+### Bottes elfiques
 
 Objet merveilleux, peu courant
 
@@ -978,7 +978,7 @@ Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle
 
 [][Generic]
 
-### BOUCLIER ANIMÉ
+### Bouclier animé
 
 Armure (bouclier), très rare (harmonisation requise)
 
@@ -986,7 +986,7 @@ Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par 
 
 [][Generic]
 
-### BOUCLIER ANTIPROJECTILES
+### Bouclier antiprojectiles
 
 Armure (bouclier), rare (harmonisation requise)
 
@@ -994,7 +994,7 @@ Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la CA co
 
 [][Generic]
 
-### BOUCLIER D'ATTRACTION DES PROJECTILES
+### Bouclier d'attraction des projectiles
 
 Armure (bouclier), rare (harmonisation requise)
 
@@ -1004,7 +1004,7 @@ Malédiction. Ce bouclier est maudit. L'harmonisation avec ce bouclier vous maud
 
 [][Generic]
 
-### BOUCLIER DE PROTECTION CONTRE LA MAGIE
+### Bouclier de protection contre la magie
 
 Armure (bouclier), très rare (harmonisation requise)
 
@@ -1012,7 +1012,7 @@ Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de s
 
 [][Generic]
 
-### BOUCLIER +1, +2 OU +3
+### Bouclier +1, +2 ou +3
 
 Armure (bouclier), peu courant (+1), rare (+2) ou très rare (+3)
 
@@ -1020,7 +1020,7 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus à la CA qui dépe
 
 [][Generic]
 
-### BOULE DE CRISTAL
+### Boule de cristal
 
 Objet merveilleux, très rare ou légendaire (harmonisation requise)
 
@@ -1036,7 +1036,7 @@ Boule de cristal de vision suprême. Pendant que vous utilisez la boule de crist
 
 [][Generic]
 
-### BOUTEILLE DE L'ÉFRIT
+### Bouteille de l'éfrit
 
 Objet merveilleux, très rare
 
@@ -1064,7 +1064,7 @@ heure et la bouteille perd sa magie.
 
 [][Generic]
 
-### BOUTEILLE FUMIGÈNE
+### Bouteille fumigène
 
 Objet merveilleux, peu courant
 
@@ -1074,7 +1074,7 @@ Le nuage persiste tant que la bouteille est ouverte. Pour la fermer, vous devez 
 
 [][Generic]
 
-### BRACELETS D'ARCHERIE
+### Bracelets d'archerie
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1082,7 +1082,7 @@ Tant que vous portez ces bracelets, vous maîtrisez l'arc long et l'arc court et
 
 [][Generic]
 
-### BRACELETS DE DÉFENSE
+### Bracelets de défense
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1090,7 +1090,7 @@ Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la CA, à cond
 
 [][Generic]
 
-### BRASERO DE CONTRÔLE DES ÉLÉMENTAIRES DU FEU
+### Brasero de contrôle des élémentaires du feu
 
 Objet merveilleux, rare
 
@@ -1100,7 +1100,7 @@ Le brasero pèse 2,5 kilos.
 
 [][Generic]
 
-### BROCHE DE PROTECTION
+### Broche de protection
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1108,7 +1108,7 @@ Tant que vous portez cette broche, vous êtes résistant aux dégâts de force e
 
 [][Generic]
 
-### CAPE DE DÉPLACEMENT
+### Cape de déplacement
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1116,7 +1116,7 @@ Quand vous enfilez cette cape, elle projette une illusion donnant l'impression q
 
 [][Generic]
 
-### CAPE DE L'ARACHNIDE
+### Cape de l'arachnide
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -1130,7 +1130,7 @@ Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant
 
 [][Generic]
 
-### CAPE DE LA CHAUVE-SOURIS
+### Cape de la chauve-souris
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1140,7 +1140,7 @@ Tant que vous portez la cape dans une zone de faible lumière ou de ténèbres, 
 
 [][Generic]
 
-### CAPE DE LA RAIE MANTA
+### Cape de la raie manta
 
 Objet merveilleux, peu courant
 
@@ -1148,7 +1148,7 @@ Tant que vous portez cette cape avec le capuchon tiré, vous pouvez respirer sou
 
 [][Generic]
 
-### CAPE DE PRESTIDIGITATEUR
+### Cape de prestidigitateur
 
 Objet merveilleux, rare
 
@@ -1158,7 +1158,7 @@ Quand vous disparaissez, vous laissez un nuage de fumée derrière vous et appar
 
 [][Generic]
 
-### CAPE DE PROTECTION
+### Cape de protection
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1166,7 +1166,7 @@ Vous gagnez un bonus de +1 à la CA et aux jets de sauvegarde tant que vous port
 
 [][Generic]
 
-### CAPE ELFIQUE
+### Cape elfique
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1174,7 +1174,7 @@ Tant que vous portez cette cape avec le capuchon tiré, les créatures qui tente
 
 [][Generic]
 
-### CARAFE INTARISSABLE
+### Carafe intarissable
 
 Objet merveilleux, peu courant
 
@@ -1188,7 +1188,7 @@ Vous pouvez dépenser une action pour enlever le couvercle et prononcer l'un des
 
 [][Generic]
 
-### CARILLON D'OUVERTURE
+### Carillon d'ouverture
 
 Objet merveilleux, rare
 
@@ -1198,7 +1198,7 @@ Le carillon dispose de dix utilisations. Il se fissure après la dixième et ne 
 
 [][Generic]
 
-### CARQUOIS EFFICACE
+### Carquois efficace
 
 Objet merveilleux, peu courant
 
@@ -1208,7 +1208,7 @@ Vous pouvez tirer ces objets du carquois comme vous le feriez avec un carquois o
 
 [][Generic]
 
-### CARTES D'ILLUSION
+### Cartes d'illusion
 
 Objet merveilleux, peu courant
 
@@ -1257,7 +1257,7 @@ Jokers (2) Vous (le propriétaire des cartes)
 
 [][Generic]
 
-### CARTES MERVEILLEUSES
+### Cartes merveilleuses
 
 Objet merveilleux, légendaire
 
@@ -1338,7 +1338,7 @@ Le Néant. Cette carte noire annonce une catastrophe. Votre âme est arrachée �
 
 [][Generic]
 
-### CEINTURON DE FORCE DE GÉANT
+### Ceinturon de force de géant
 
 Objet merveilleux, rareté variable (harmonisation requise)
 
@@ -1355,7 +1355,7 @@ Géant des tempêtes 29 Légendaire
 
 [][Generic]
 
-### CEINTURON DES NAINS
+### Ceinturon des nains
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1377,7 +1377,7 @@ Vous parlez, lisez et écrivez le nain.
 
 [][Generic]
 
-### CHAPEAU DE DÉGUISEMENT
+### Chapeau de déguisement
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1385,7 +1385,7 @@ Tant que vous portez ce chapeau, vous pouvez lancer déguisement sur vous par so
 
 [][Generic]
 
-### CHAPELET
+### Chapelet
 
 Objet merveilleux, rare (harmonisation requise par un clerc, un druide ou un paladin)
 
@@ -1404,7 +1404,7 @@ ou restauration inférieure
 
 [][Generic]
 
-### CHAUSSONS DE L'ARAIGNÉE
+### Chaussons de l'araignée
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1412,7 +1412,7 @@ Tant que vous portez ces souliers légers aux pieds, vous pouvez vous déplacer 
 
 [][Generic]
 
-### CHEMISE DE MAILLES ELFIQUE
+### Chemise de mailles elfique
 
 Armure (chemise de mailles), rare
 
@@ -1420,7 +1420,7 @@ Vous gagnez un bonus de +1 à la CA tant que vous portez cette armure. Vous ête
 
 [][Generic]
 
-### CIERGE D'INVOCATION
+### Cierge d'invocation
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -1445,7 +1445,7 @@ Sinon, vous pouvez lancer le sort portail avec le cierge quand vous l'allumez po
 
 [][Generic]
 
-### CIMETERRE DE CÉLÉRITÉ
+### Cimeterre de célérité
 
 Arme (cimeterre), très rare (harmonisation requise)
 
@@ -1453,7 +1453,7 @@ Vous bénéficiez d'un bonus de +2 aux jets d'attaque et de dégâts effectués 
 
 [][Generic]
 
-### COLLE UNIVERSELLE
+### Colle universelle
 
 Objet merveilleux, légendaire
 
@@ -1463,7 +1463,7 @@ Cette substance visqueuse et aussi blanche que le lait peut coller deux objets d
 
 [][Generic]
 
-### COLLIER D'ADAPTATION
+### Collier d'adaptation
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1471,7 +1471,7 @@ Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit 
 
 [][Generic]
 
-### COLLIER DE BOULES DE FEU
+### Collier de boules de feu
 
 Objet merveilleux, rare
 
@@ -1481,7 +1481,7 @@ Vous pouvez lancer plusieurs perles, ou même tout le collier, en une seule acti
 
 [][Generic]
 
-### COR DE DESTRUCTION
+### Cor de destruction
 
 Objet merveilleux, rare
 
@@ -1491,7 +1491,7 @@ Vous pouvez utiliser votre action pour prononcer le mot de commande du cor puis 
 
 [][Generic]
 
-### COR DU VALHALLA
+### Cor du valhalla
 
 Objet merveilleux, rare (argent ou cuivre), très rare (bronze) ou légendaire (fer)
 
@@ -1519,7 +1519,7 @@ Si vous soufflez dans le cor alors que vous ne remplissez pas les conditions req
 
 [][Generic]
 
-### CORDE D'ENCHEVÊTREMENT
+### Corde d'enchevêtrement
 
 Objet merveilleux, rare
 
@@ -1531,7 +1531,7 @@ La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de v
 
 [][Generic]
 
-### CORDE D'ESCALADE
+### Corde d'escalade
 
 Objet merveilleux, peu courant
 
@@ -1543,7 +1543,7 @@ La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de v
 
 [][Generic]
 
-### CUBE DE FORCE
+### Cube de force
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1583,7 +1583,7 @@ Mur de feu 1d4
 
 [][Generic]
 
-### CUIR CLOUTÉE GLAMOUR
+### Cuir cloutée glamour
 
 Armure (cuir cloutée), rare
 
@@ -1591,7 +1591,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA. Vous pou
 
 [][Generic]
 
-### DAGUE VENIMEUSE
+### Dague venimeuse
 
 Arme (dague), rare
 
@@ -1601,7 +1601,7 @@ Vous pouvez dépenser une action pour qu'un épais poison noir enduise la lame. 
 
 [][Generic]
 
-### DIADÈME DE DESTRUCTION
+### Diadème de destruction
 
 Objet merveilleux, peu courant
 
@@ -1609,7 +1609,7 @@ Tant que vous portez ce diadème, vous pouvez utiliser votre action pour lancer 
 
 [][Generic]
 
-### ENCENSOIR DE CONTRÔLE DES ÉLÉMENTAIRES DE L'AIR
+### Encensoir de contrôle des élémentaires de l'air
 
 Objet merveilleux, rare
 
@@ -1619,7 +1619,7 @@ L'encensoir ressemble à un calice de 15 centimètres de large pour 30 centimèt
 
 [][Generic]
 
-### ÉPÉE ARDENTE
+### Épée ardente
 
 Arme (épée), rare (harmonisation requise)
 
@@ -1627,7 +1627,7 @@ Vous pouvez utiliser une action bonus pour prononcer le mot de commande de cette
 
 [][Generic]
 
-### ÉPÉE DANSANTE
+### Épée dansante
 
 Arme (épée), très rare (harmonisation requise)
 
@@ -1639,7 +1639,7 @@ Une fois que l'épée a attaqué pour la quatrième fois, elle vole sur un maxim
 
 [][Generic]
 
-### ÉPÉE MORDANTE
+### Épée mordante
 
 Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
@@ -1649,7 +1649,7 @@ Une fois par tour, lorsque vous réussissez une attaque contre une créature ave
 
 [][Generic]
 
-### ÉPÉE RADIEUSE
+### Épée radieuse
 
 Arme (épée longue), rare (harmonisation requise)
 
@@ -1661,7 +1661,7 @@ La lame lumineuse de l'épée diffuse une lumière vive sur un rayon de 4,50 mè
 
 [][Generic]
 
-### ÉPÉE TRANCHANTE
+### Épée tranchante
 
 Arme (n'importe quelle épée qui inflige des dégâts tranchants), très rare (harmonisation requise)
 
@@ -1673,7 +1673,7 @@ En outre, vous pouvez prononcer le mot de commande de l'épée pour que la lame 
 
 [][Generic]
 
-### ÉPÉE VOLEUSE DE VIE
+### Épée voleuse de vie
 
 Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
@@ -1681,7 +1681,7 @@ Quand vous attaquez une créature avec cette arme magique et obtenez un 20 sur l
 
 [][Generic]
 
-### ÉPÉE VORPALE
+### Épée vorpale
 
 Arme (n'importe quel type d'épée qui inflige des dégâts tranchants), légendaire (harmonisation requise)
 
@@ -1691,7 +1691,7 @@ Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins 
 
 [][Generic]
 
-### ÉVENTAIL ENCHANTÉ
+### Éventail enchanté
 
 Objet merveilleux, peu courant
 
@@ -1699,7 +1699,7 @@ Avec cet éventail en main, vous pouvez utiliser une action pour lancer le sort 
 
 [][Generic]
 
-### FER GELÉ
+### Fer gelé
 
 Arme (épée), très rare (harmonisation requise)
 
@@ -1711,7 +1711,7 @@ Quand vous dégainez cette épée, vous pouvez éteindre toutes les flammes non-
 
 [][Generic]
 
-### FERS DE RAPIDITÉ
+### Fers de rapidité
 
 Objet merveilleux, rare
 
@@ -1719,7 +1719,7 @@ Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature simi
 
 [][Generic]
 
-### FERS DU ZÉPHYR
+### Fers du zéphyr
 
 Objet merveilleux, très rare
 
@@ -1727,7 +1727,7 @@ Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature simi
 
 [][Generic]
 
-### FIGURINE MERVEILLEUSE
+### Figurine merveilleuse
 
 Objet merveilleux, rareté selon la figurine
 
@@ -1774,7 +1774,7 @@ Corbeau d'argent (peu courant). Cette statuette de corbeau en argent peut se cha
 
 [][Generic]
 
-### FLASQUE DE FER
+### Flasque de fer
 
 Objet merveilleux, légendaire
 
@@ -1807,7 +1807,7 @@ d100 Contenu
 
 [][Generic]
 
-### FLÈCHE TUEUSE
+### Flèche tueuse
 
 Arme (flèche), très rare
 
@@ -1819,7 +1819,7 @@ Il existe d'autres munitions magiques similaires, comme des carreaux tueurs pour
 
 [][Generic]
 
-### FLÛTE DES ÉGOUTS
+### Flûte des égouts
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1831,7 +1831,7 @@ Quand une nuée de rats qui ne se trouve pas sous le contrôle d'une tierce pers
 
 [][Generic]
 
-### FLÛTE TERRIFIANTE
+### Flûte terrifiante
 
 Objet merveilleux, peu courant
 
@@ -1839,7 +1839,7 @@ Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flû
 
 [][Generic]
 
-### FORTERESSE INSTANTANÉE
+### Forteresse instantanée
 
 Objet merveilleux, rare
 
@@ -1853,7 +1853,7 @@ La tour est faite en adamantium et sa magie empêche qu'une force extérieure la
 
 [][Generic]
 
-### GANTELETS DE PUISSANCE D'OGRE
+### Gantelets de puissance d'ogre
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1861,7 +1861,7 @@ Tant que vous portez ces gants, votre valeur de Force est de 19. Si elle est dé
 
 [][Generic]
 
-### GANTS DE NAGE ET D'ESCALADE
+### Gants de nage et d'escalade
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1869,7 +1869,7 @@ Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas 
 
 [][Generic]
 
-### GANTS PIÉGEURS DE PROJECTILES
+### Gants piégeurs de projectiles
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1877,7 +1877,7 @@ Quand vous enfliez ces gants, ils semblent presque fusionner avec votre peau. Qu
 
 [][Generic]
 
-### GEMME DE VISION
+### Gemme de vision
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1887,7 +1887,7 @@ Chaque matin à l'aube, la gemme récupère 1d3 charges dépensées.
 
 [][Generic]
 
-### GEMME ÉLÉMENTAIRE
+### Gemme élémentaire
 
 Objet merveilleux, peu courant
 
@@ -1901,7 +1901,7 @@ Corindon rouge Élémentaire du feu
 
 [][Generic]
 
-### GEMME LUMINEUSE
+### Gemme lumineuse
 
 Objet merveilleux, rare
 
@@ -1917,7 +1917,7 @@ Quand la gemme a épuisé toutes ses charges, elle devient un joyau dépourvu de
 
 [][Generic]
 
-### HACHE DU BERSERKER
+### Hache du berserker
 
 Arme (hache), rare (harmonisation requise)
 
@@ -1929,7 +1929,7 @@ Quand une créature hostile vous blesse alors que vous êtes en possession de ce
 
 [][Generic]
 
-### HARNOIS ÉTHÉRÉ
+### Harnois éthéré
 
 Armure (harnois), légendaire (harmonisation requise)
 
@@ -1937,7 +1937,7 @@ Tant que vous portez cette armure, vous pouvez prononcer son mot de commande par
 
 [][Generic]
 
-### HARNOIS NAIN
+### Harnois nain
 
 Armure (harnois), très rare
 
@@ -1945,7 +1945,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus,
 
 [][Generic]
 
-### HAVRESAC MAGIQUE
+### Havresac magique
 
 Objet merveilleux, rare
 
@@ -1959,7 +1959,7 @@ Si l'on place le havresac dans l'espace extradimensionnel né d'un sac sans fond
 
 [][Generic]
 
-### HEAUME DE COMPRÉHENSION DES LANGAGES
+### Heaume de compréhension des langages
 
 Objet merveilleux, peu courant
 
@@ -1967,7 +1967,7 @@ Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer comp
 
 [][Generic]
 
-### HEAUME DE TÉLÉPATHIE
+### Heaume de télépathie
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -1977,7 +1977,7 @@ Tant que vous vous concentrez sur une créature avec détection des pensées, vo
 
 [][Generic]
 
-### HEAUME DE TÉLÉPORTATION
+### Heaume de téléportation
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -1985,7 +1985,7 @@ Ce heaume possède 3 charges. Tant que vous le portez, vous pouvez utiliser une 
 
 [][Generic]
 
-### HEAUME SCINTILLANT
+### Heaume scintillant
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -2005,7 +2005,7 @@ Lancez 1d20 si vous portez le heaume et subissez des dégâts de feu à cause d'
 
 [][Generic]
 
-### HUILE D'AFFÛTAGE
+### Huile d'affûtage
 
 Potion, très rare
 
@@ -2013,7 +2013,7 @@ Cette huile claire et gélatineuse est constellée de minuscules paillettes d'ar
 
 [][Generic]
 
-### HUILE ÉTHÉRÉE
+### Huile éthérée
 
 Potion, rare
 
@@ -2021,7 +2021,7 @@ L'huile d'un gris trouble contenue dans ce récipient forme des perles sur sa pa
 
 [][Generic]
 
-### HUILE GLISSANTE
+### Huile glissante
 
 Potion, peu courante
 
@@ -2031,7 +2031,7 @@ Sinon, vous pouvez verser l'huile à terre par une action. Elle recouvre une zon
 
 [][Generic]
 
-### JAVELINE DE FOUDRE
+### Javeline de foudre
 
 Arme (javeline), peu courante
 
@@ -2041,7 +2041,7 @@ Il faut attendre l'aube suivante pour se servir de nouveau de cette propriété 
 
 [][Generic]
 
-### LAME PORTE-BONHEUR
+### Lame porte-bonheur
 
 Arme (épée), légendaire (harmonisation requise)
 
@@ -2053,7 +2053,7 @@ Souhait. L'épée dispose de 1d4-1 charges. Tant qu'elle se trouve en votre poss
 
 [][Generic]
 
-### LANTERNE DE RÉVÉLATION
+### Lanterne de révélation
 
 Objet merveilleux, peu courant
 
@@ -2061,7 +2061,7 @@ Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en con
 
 [][Generic]
 
-### LENTILLES DE NETTETÉ
+### Lentilles de netteté
 
 Objet merveilleux, peu courant
 
@@ -2069,7 +2069,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, votr
 
 [][Generic]
 
-### LIENS DE FER
+### Liens de fer
 
 Objet merveilleux, rare
 
@@ -2083,7 +2083,7 @@ Une fois les fers utilisés, il faut attendre l'aube prochaine pour s'en servir 
 
 [][Generic]
 
-### LUNETTES NOCTURNES
+### Lunettes nocturnes
 
 Objet merveilleux, peu courant
 
@@ -2091,7 +2091,7 @@ Quand vous portez ces verres sombres, vous bénéficiez de la vision dans le noi
 
 [][Generic]
 
-### MANTEAU DE RÉSISTANCE AUX SORTS
+### Manteau de résistance aux sorts
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -2099,7 +2099,7 @@ Tant que vous portez ce manteau, vous obtenez l'avantage lors des jets de sauveg
 
 [][Generic]
 
-### MANUEL DE BONNE SANTÉ
+### Manuel de bonne santé
 
 Objet merveilleux, très rare
 
@@ -2107,7 +2107,7 @@ Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainem
 
 [][Generic]
 
-### MANUEL D'EXERCICES PHYSIQUES
+### Manuel d'exercices physiques
 
 Objet merveilleux, très rare
 
@@ -2115,7 +2115,7 @@ Ce livre propose des exercices d'entretien musculaire, et ses mots sont chargés
 
 [][Generic]
 
-### MANUEL DES GOLEMS
+### Manuel des golems
 
 Objet merveilleux, très rare
 
@@ -2133,7 +2133,7 @@ Dès que vous avez achevé la construction du golem, le manuel se consume dans d
 
 [][Generic]
 
-### MANUEL DE VIVACITÉ
+### Manuel de vivacité
 
 Objet merveilleux, très rare
 
@@ -2141,7 +2141,7 @@ Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont
 
 [][Generic]
 
-### MARTEAU DE LANCER NAIN
+### Marteau de lancer nain
 
 Arme (marteau de guerre), très rare (harmonisation requise avec un nain)
 
@@ -2149,7 +2149,7 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme mag
 
 [][Generic]
 
-### MARTEAU DU TONNERRE
+### Marteau du tonnerre
 
 Arme (maillet d'armes), légendaire
 
@@ -2161,7 +2161,7 @@ Le marteau dispose de 5 charges. Tant que vous êtes harmonisé avec lui, vous p
 
 [][Generic]
 
-### MASSE D'ANÉANTISSEMENT
+### Masse d'anéantissement
 
 Arme (masse), rare (harmonisation requise)
 
@@ -2171,7 +2171,7 @@ Tant que vous tenez cette arme en main, elle émet une vive lumière dans un ray
 
 [][Generic]
 
-### MASSE DESTRUCTRICE
+### Masse destructrice
 
 Arme (masse), rare
 
@@ -2181,7 +2181,7 @@ Quand vous obtenez un 20 sur un jet d'attaque effectué avec cette arme, la cibl
 
 [][Generic]
 
-### MASSE TERRIFIANTE
+### Masse terrifiante
 
 Arme (masse), rare (harmonisation requise)
 
@@ -2191,7 +2191,7 @@ Chaque matin à l'aube, la masse récupère 1d3 charges dépensées.
 
 [][Generic]
 
-### MÉDAILLON DES PENSÉES
+### Médaillon des pensées
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -2199,7 +2199,7 @@ Le médaillon a trois charges. Tant que vous le portez, vous pouvez utiliser une
 
 [][Generic]
 
-### MENOTTES DIMENSIONNELLES
+### Menottes dimensionnelles
 
 Objet merveilleux, rare
 
@@ -2209,7 +2209,7 @@ Vous-même et toute créature que vous désignez au moment de fermer les menotte
 
 [][Generic]
 
-### MIROIR D'EMPRISONNEMENT
+### Miroir d'emprisonnement
 
 Objet merveilleux, très rare
 
@@ -2229,7 +2229,7 @@ De même, vous pouvez prononcer un deuxième mot de commande et libérer une cr�
 
 [][Generic]
 
-### MUNITIONS +1, +2 OU +3
+### Munitions +1, +2 ou +3
 
 Arme (n'importe quelle munition), peu courante (+1), rare (+2) ou très rare (+3)
 
@@ -2237,7 +2237,7 @@ Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec c
 
 [][Generic]
 
-### OEIL DE LYNX
+### Oeil de lynx
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -2245,7 +2245,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, vous
 
 [][Generic]
 
-### PARCHEMIN MAGIQUE
+### Parchemin magique
 
 Parchemin, variable
 
@@ -2278,7 +2278,7 @@ Un sort de magicien inscrit sur un parchemin magique peut être recopié, tout c
 
 [][Generic]
 
-### PERLE DE FORCE
+### Perle de force
 
 Objet merveilleux, rare
 
@@ -2290,7 +2290,7 @@ Une créature enfermée peut utiliser son action pour peser contre la paroi de l
 
 [][Generic]
 
-### PERLE DE PUISSANCE
+### Perle de puissance
 
 Objet merveilleux, peu courant (harmonisation requise par un incantateur)
 
@@ -2298,7 +2298,7 @@ Tant que vous portez cette perle sur vous, vous pouvez utiliser une action pour 
 
 [][Generic]
 
-### PHILTRE D'AMOUR
+### Philtre d'amour
 
 Potion, peu courante
 
@@ -2306,7 +2306,7 @@ Dans les 10 minutes qui suivent l'absorption de cette potion, vous êtes charmé
 
 [][Generic]
 
-### PIGMENTS MERVEILLEUX
+### Pigments merveilleux
 
 Objet merveilleux, très rare
 
@@ -2322,7 +2322,7 @@ Si vous peigniez une forme d'énergie, comme du feu ou de la foudre, elle appara
 
 [][Generic]
 
-### PIERRE DE CONTRÔLE DES ÉLÉMENTAIRES DE LA TERRE
+### Pierre de contrôle des élémentaires de la terre
 
 Objet merveilleux, rare
 
@@ -2330,7 +2330,7 @@ Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour pr
 
 [][Generic]
 
-### PIERRE IOUN
+### Pierre Ioun
 
 Objet merveilleux, rareté variable (harmonisation requise)
 
@@ -2378,7 +2378,7 @@ Nourriture (rare). Vous n'avez pas besoin de manger ni de boire tant que ce fuse
 
 [][Generic]
 
-### PIERRE PORTE-BONHEUR
+### Pierre porte-bonheur
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -2386,7 +2386,7 @@ Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus
 
 [][Generic]
 
-### PLUME MAGIQUE
+### Plume magique
 
 Objet merveilleux, rare
 
@@ -2416,7 +2416,7 @@ Fouet. Vous pouvez utiliser une action pour lancer le bibelot à une distance ma
 
 [][Generic]
 
-### PORTAIL CUBIQUE
+### Portail cubique
 
 Objet merveilleux, légendaire
 
@@ -2428,7 +2428,7 @@ Le cube a trois charges et en perd une à chaque utilisation. Chaque matin à l'
 
 [][Generic]
 
-### POTION D'AGRANDISSEMENT
+### Potion d'agrandissement
 
 Potion, peu courante
 
@@ -2436,7 +2436,7 @@ Quand vous buvez cette potion, vous êtes affecté par la version « agrandir »
 
 [][Generic]
 
-### POTION D'AMITIÉ AVEC LES ANIMAUX
+### Potion d'amitié avec les animaux
 
 Potion, peu courante
 
@@ -2444,7 +2444,7 @@ Quand vous buvez cette potion, vous pouvez lancer le sort amitié avec les anima
 
 [][Generic]
 
-### POTION DE CLAIRVOYANCE
+### Potion de clairvoyance
 
 Potion, rare
 
@@ -2452,7 +2452,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance
 
 [][Generic]
 
-### POTION D'ESCALADE
+### Potion d'escalade
 
 Potion, peu courante
 
@@ -2460,7 +2460,7 @@ Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votr
 
 [][Generic]
 
-### POTION DE FORCE DE GÉANT
+### Potion de force de géant
 
 Potion, rareté variable
 
@@ -2477,7 +2477,7 @@ Géant des tempêtes 29 Légendaire
 
 [][Generic]
 
-### POTION DE FORME GAZEUSE
+### Potion de forme gazeuse
 
 Potion, rare
 
@@ -2485,7 +2485,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort forme gazeus
 
 [][Generic]
 
-### POTION DE LECTURE DES PENSÉES
+### Potion de lecture des pensées
 
 Potion, rare
 
@@ -2493,7 +2493,7 @@ Vous bénéficiez des effets d'un sort de détection des pensées (DD des jets d
 
 [][Generic]
 
-### POTION DE POISON
+### Potion de poison
 
 Potion, peu courante
 
@@ -2503,7 +2503,7 @@ Vous subissez 3d6 dégâts de poison et devez réussir un jet de sauvegarde de C
 
 [][Generic]
 
-### POTION DE RÉSISTANCE
+### Potion de résistance
 
 Potion, peu courante
 
@@ -2518,7 +2518,7 @@ d10 Type de dégâts d10 Type de dégâts
 
 [][Generic]
 
-### POTION DE RESPIRATION AQUATIQUE
+### Potion de respiration aquatique
 
 Potion, peu courante
 
@@ -2526,7 +2526,7 @@ Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le
 
 [][Generic]
 
-### POTION DE RÉTRÉCISSEMENT
+### Potion de rétrécissement
 
 Potion, rare
 
@@ -2534,7 +2534,7 @@ Quand vous buvez cette potion, vous êtes affecté par la version « rétrécir 
 
 [][Generic]
 
-### POTION DE SOINS
+### Potion de soins
 
 Potion, rareté variable
 
@@ -2549,7 +2549,7 @@ Soins suprêmes Très rare 10d4+20
 
 [][Generic]
 
-### POTION DE VITESSE
+### Potion de vitesse
 
 Potion, très rare
 
@@ -2557,7 +2557,7 @@ Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concent
 
 [][Generic]
 
-### POTION DE VOL
+### Potion de vol
 
 Potion, très rare
 
@@ -2565,7 +2565,7 @@ Quand vous buvez cette potion, vous gagnez une vitesse de vol égale à votre vi
 
 [][Generic]
 
-### POTION D'HÉROÏSME
+### Potion d'héroïsme
 
 Potion, rare
 
@@ -2573,7 +2573,7 @@ Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. P
 
 [][Generic]
 
-### POTION D'INVISIBILITÉ
+### Potion d'invisibilité
 
 Potion, très rare
 
@@ -2581,7 +2581,7 @@ Le contenant de cette potion paraît vide mais il semble, au contact, contenir u
 
 [][Generic]
 
-### POUSSIÈRE À ÉTERNUER
+### Poussière à éternuer
 
 Objet merveilleux, peu courant
 
@@ -2591,7 +2591,7 @@ Quand vous utilisez une action pour jeter une poignée de poussière dans les ai
 
 [][Generic]
 
-### POUSSIÈRE D'ASSÈCHEMENT
+### Poussière d'assèchement
 
 Objet merveilleux, peu courant
 
@@ -2603,7 +2603,7 @@ Un élémentaire majoritairement composé d'eau exposé à la poussière doit fa
 
 [][Generic]
 
-### POUSSIÈRE DE DISPARITION
+### Poussière de disparition
 
 Objet merveilleux, peu courant
 
@@ -2611,7 +2611,7 @@ Cette poudre se trouve dans un petit paquet et ressemble à du sable fin. Il y e
 
 [][Generic]
 
-### PROTECTRICE
+### Protectrice
 
 Arme (épée), légendaire (harmonisation requise)
 
@@ -2621,7 +2621,7 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cet
 
 [][Generic]
 
-### PUITS DES MONDES
+### Puits des mondes
 
 Objet merveilleux, légendaire
 
@@ -2631,7 +2631,7 @@ Vous pouvez utiliser une action pour déplier et positionner le puits des mondes
 
 [][Generic]
 
-### PUITS PORTATIF
+### Puits portatif
 
 Objet merveilleux, rare
 
@@ -2647,7 +2647,7 @@ Si l'on place un puits portatif dans l'espace extradimensionnel né d'un havresa
 
 [][Generic]
 
-### REGARD CHARMEUR
+### Regard charmeur
 
 Objet merveilleux, peu courant (harmonisation requise)
 
@@ -2655,7 +2655,7 @@ Ces lentilles de cristal se portent sur les yeux et possèdent trois charges. Ta
 
 [][Generic]
 
-### ROBE AUX ÉTOILES
+### Robe aux étoiles
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -2667,7 +2667,7 @@ Tant que vous portez la robe, vous pouvez effectuer une action pour entrer dans 
 
 [][Generic]
 
-### ROBE AUX YEUX MULTIPLES
+### Robe aux yeux multiples
 
 Objet merveilleux, rare (harmonisation requise)
 
@@ -2683,7 +2683,7 @@ Un sort de lumière lancé sur la robe ou un sort de lumière du jour lancé à 
 
 [][Generic]
 
-### ROBE DE COULEURS ÉTINCELANTES
+### Robe de couleurs étincelantes
 
 Objet merveilleux, très rare (harmonisation requise)
 
@@ -2691,7 +2691,7 @@ Cette robe contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 [][Generic]
 
-### ROBE DE L'ARCHIMAGE
+### Robe de l'archimage
 
 Objet merveilleux, légendaire (harmonisation avec un ensorceleur, un sorcier ou un magicien exigée)
 
@@ -2705,7 +2705,7 @@ Vous bénéficiez des avantages suivants lorsque vous portez la robe :
 
 [][Generic]
 
-### ROBE D'OBJETS PRATIQUES
+### Robe d'objets pratiques
 
 Objet merveilleux, peu courant
 
@@ -2756,7 +2756,7 @@ portée
 
 [][Generic]
 
-### SAC AFFAMÉ
+### Sac affamé
 
 Objet merveilleux, très rare
 
@@ -2770,7 +2770,7 @@ Si le sac est perforé ou déchiré, il est détruit et tout ce qu'il contenait 
 
 [][Generic]
 
-### SAC À MALICE
+### Sac à malice
 
 Objet merveilleux, peu courant
 
@@ -2817,7 +2817,7 @@ d8 Créature
 
 [][Generic]
 
-### SAC DE HARICOTS
+### Sac de haricots
 
 Objet merveilleux, rare
 
@@ -2904,7 +2904,7 @@ rejoint un autre plan d'existence.
 
 [][Generic]
 
-### SAC SANS FOND
+### Sac sans fond
 
 Objet merveilleux, peu courant
 
@@ -2916,7 +2916,7 @@ Si l'on place un sac sans fond dans l'espace extradimensionnel né d'un havresac
 
 [][Generic]
 
-### SCARABÉE DE PROTECTION
+### Scarabée de protection
 
 Objet merveilleux, légendaire (harmonisation requise)
 
@@ -2927,7 +2927,7 @@ Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, 
 
 [][Generic]
 
-### SCEPTRE D'ABSORPTION
+### Sceptre d'absorption
 
 Sceptre, très rare (harmonisation requise)
 
@@ -2941,7 +2941,7 @@ Un sceptre qui vient d'être découvert contient 1d10 niveaux d'énergie magique
 
 [][Generic]
 
-### SCEPTRE DE PUISSANCE SEIGNEURIALE
+### Sceptre de puissance seigneuriale
 
 Sceptre, légendaire (harmonisation requise)
 
@@ -2969,7 +2969,7 @@ Terreur. En tenant le sceptre en main, vous pouvez utiliser une action pour forc
 
 [][Generic]
 
-### SCEPTRE DE SÉCURITÉ
+### Sceptre de sécurité
 
 Sceptre, très rare
 
@@ -2981,7 +2981,7 @@ Une fois cette période écoulée ou si vous utilisez une action pour y mettre f
 
 [][Generic]
 
-### SCEPTRE DE SUZERAINETÉ
+### Sceptre de suzeraineté
 
 Sceptre, rare (harmonisation requise)
 
@@ -2989,7 +2989,7 @@ Vous pouvez utiliser une action pour présenter le sceptre et exiger l'obéissan
 
 [][Generic]
 
-### SCEPTRE DE VIGILANCE
+### Sceptre de vigilance
 
 Sceptre, très rare (harmonisation requise)
 
@@ -3005,7 +3005,7 @@ La lumière diffusée par la tête du sceptre s'éteint et l'effet prend fin au 
 
 [][Generic]
 
-### SCEPTRE INAMOVIBLE
+### Sceptre inamovible
 
 Objet merveilleux, peu courant
 
@@ -3013,7 +3013,7 @@ Ce sceptre plat en fer est équipé d'un bouton sur une extrémité. Vous pouvez
 
 [][Generic]
 
-### SPHÈRE D'ANNIHILATION
+### Sphère d'annihilation
 
 Objet merveilleux, légendaire
 
@@ -3039,7 +3039,7 @@ d'existence déterminé au hasard.
 
 [][Generic]
 
-### SOLVANT UNIVERSEL
+### Solvant universel
 
 Objet merveilleux, légendaire
 
@@ -3047,7 +3047,7 @@ Ce tube contient un liquide laiteux qui sent fort l'alcool. Vous pouvez utiliser
 
 [][Generic]
 
-### SUBMERSIBLE DU CRABE
+### Submersible du crabe
 
 Objet merveilleux, légendaire
 
@@ -3098,7 +3098,7 @@ dans un liquide.
 
 [][Generic]
 
-### TALISMAN DE LA SPHÈRE
+### Talisman de la sphère
 
 Objet merveilleux, légendaire (harmonisation requise)
 
@@ -3106,7 +3106,7 @@ Lorsque vous effectuez un test d'Intelligence (Arcanes) pour contrôler une sph�
 
 [][Generic]
 
-### TALISMAN DU BIEN ULTIME
+### Talisman du bien ultime
 
 Objet merveilleux, légendaire (harmonisation avec une créature d'alignement bon exigée)
 
@@ -3118,7 +3118,7 @@ Le talisman contient 7 charges. Si vous le portez sur vous ou le tenez en main, 
 
 [][Generic]
 
-### TALISMAN DU MAL ULTIME
+### Talisman du mal ultime
 
 Objet merveilleux, légendaire (harmonisation avec une créature d'alignement mauvais exigée)
 
@@ -3130,7 +3130,7 @@ Le talisman contient 6 charges. Si vous le portez sur vous ou le tenez en main, 
 
 [][Generic]
 
-### TAPIS VOLANT
+### Tapis volant
 
 Objet merveilleux, très rare
 
@@ -3148,7 +3148,7 @@ Un tapis peut porter deux fois le poids indiqué dans la table mais, s'il porte 
 
 [][Generic]
 
-### TRAITÉ D'AUTORITÉ ET D'INFLUENCE
+### Traité d'autorité et d'influence
 
 Objet merveilleux, très rare
 
@@ -3156,7 +3156,7 @@ Ce livre contient des exercices d'interactions sociales basées sur la manipulat
 
 [][Generic]
 
-### TRAITÉ DE COMPRÉHENSION
+### Traité de compréhension
 
 Objet merveilleux, très rare
 
@@ -3164,7 +3164,7 @@ Ce livre contient des exercices intuitifs de sagacité. Ses mots sont imprégné
 
 [][Generic]
 
-### TRAITÉ DE PERSPICACITÉ
+### Traité de perspicacité
 
 Objet merveilleux, très rare
 
@@ -3172,7 +3172,7 @@ Ce livre contient des exercices de logique et de mémoire. Ses mots sont imprég
 
 [][Generic]
 
-### TRIDENT DE DOMINATION AQUATIQUE
+### Trident de domination aquatique
 
 Arme (trident), peu courante (harmonisation requise)
 
@@ -3180,7 +3180,7 @@ Ce trident est une arme magique. Il contient 3 charges. Tant que vous le portez 
 
 [][Generic]
 
-### TUEUSE DE DRAGONS
+### Tueuse de dragons
 
 Arme (épée), rare
 
@@ -3190,7 +3190,7 @@ Quand vous touchez un dragon avec elle, il subit 3d6 dégâts supplémentaires d
 
 [][Generic]
 
-### TUEUSE DE GÉANT
+### Tueuse de géant
 
 Arme (épée ou hache), rare
 
@@ -3200,7 +3200,7 @@ Quand vous touchez un géant avec elle, il subit 2d6 dégâts supplémentaires d
 
 [][Generic]
 
-### VENGERESSE SACRÉE
+### Vengeresse sacrée
 
 Arme (épée), légendaire (harmonisation requise avec un paladin)
 
@@ -3210,7 +3210,7 @@ Tant que vous tenez l'arme en main, elle génère une aura de 3 mètres de rayon
 
 [][Generic]
 
-### VOLEUSE DE VIES
+### Voleuse de vies
 
 Arme (épée), très rare (harmonisation requise) 
 
