@@ -58,7 +58,7 @@ Certains objets magiques infligent une malédiction à leur utilisateur. Génér
 
 [][Generic]
 
-### Les différents types d'objets ma giques
+### Les différents types d'objets magiques
 
 Il existe neuf types d'objets magiques : anneaux, armes, armures, baguettes, bâtons, objets merveilleux, parchemins, potions et sceptres.
 
@@ -82,7 +82,7 @@ Sceptres. Les sceptres sont des bâtonnets mesurant entre 50 cm et 1 m. La descr
 
 [][Generic]
 
-### Porter et ma nier des objets ma giques
+### Porter et ma nier des objets magiques
 
 Certains objets doivent être portés ou maniés pour pouvoir utiliser leurs propriétés magiques. Un objet magique censé être porté doit être placé sur le corps de la manière prévue : les bottes se portent aux pieds, les gants aux mains, les chapeaux et les casques sur la tête et les anneaux aux doigts. Une armure magique doit être enfilée, un bouclier sanglé au bras, une cape fixée autour des épaules, et une arme tenue en main.
 
@@ -214,7 +214,7 @@ Destin. L'objet a été conçu dans un but bien précis. Lorsque cet événement
 
 [][Generic]
 
-### Objets ma giques aléatoires
+### Objets magiques aléatoires
 
 Les tableaux suivants vous seront utiles pour déterminer les objets magiques présents dans les trésors des monstres rencontrés par les personnages.
 
@@ -225,21 +225,21 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |d100|Objet magique|
 |---|---|
 |**01-50**|**Potions (lancer 1d6)**|
-|1-3|Potion de soins|
-|4|Potion d'escalade|
-|5|Potion d'amitié avec les animaux|
-|6|Potion de soins supérieurs|
-|**51-80**|**Parchemins de sorts (lancer 1d6)**|
+|1-3|[Potion de soins]|
+|4|[Potion d'escalade]|
+|5|[Potion d'amitié avec les animaux]|
+|6|[Potion de soins supérieurs]|
+|**51-80**|**[Parchemins de sorts] (lancer 1d6)**|
 |1-2|1d4 (2) tours de magie|
 |3-4|1d4 (2) sorts de 1er niveau|
 |5-6|1 sorts de 2e niveau|
 |**81-90**|**Munitions magiques (lancer 1D6)**|
-|1-3|1 munition +1|
-|4-5|1d6 munitions +1|
-|6|2d6 munitions +1|
-|**91-93**|Broche de protection|
-|**94-95**|Sac sans fond|
-|**96-00**|Relancer sur table 2|
+|1-3|1 [munition +1]|
+|4-5|1d6 [munitions +1]|
+|6|2d6 [munitions +1]|
+|**91-93**|[Broche de protection]|
+|**94-95**|[Sac sans fond]|
+|**96-00**|Relancer sur [table 2]|
 
 [][Generic]
 
@@ -248,49 +248,49 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |d100|Objet magique|
 |---|---|
 |**01-25**|**Potions (lancer 1d10)**|
-|1-2|1d4 (2) potions de soins courants|
-|3-4|Potion de soins supérieurs|
-|5|Potion d'agrandissement|
-|6|Potion d'amitié avec les animaux|
-|7|Potion de force de géant des collines|
-|8|Potion de poison|
-|9|Potion de résistance|
-|10|Potion de respiration aquatique|
-|**26-45**|**Parchemins de sorts (lancer 1d6)**|
+|1-2|1d4 (2) [potions de soins courants]|
+|3-4|[Potion de soins supérieurs]|
+|5|[Potion d'agrandissement]|
+|6|[Potion d'amitié avec les animaux]|
+|7|[Potion de force de géant des collines]|
+|8|[Potion de poison]|
+|9|[Potion de résistance]|
+|10|[Potion de respiration aquatique]|
+|**26-45**|**[Parchemins de sorts] (lancer 1d6)**|
 |1-2|1d4 (2) sorts de 1er niveau|
 |3-4|1d4 (2) sorts de 2e niveau|
 |5-6|1d4 (2) sorts de 3e niveau|
 |**46-60**|**Armes et armures (lancer 1d10)**|
-|1-3|Arme +1|
-|4-6|Bouclier +1|
-|7|3d6 (10) Munitions +1|
-|8|Cape de protection|
-|9|Broche de protection|
-|10|Javeline de foudre|
+|1-3|[Arme +1]|
+|4-6|[Bouclier +1]|
+|7|3d6 (10) [Munitions +1]|
+|8|[Cape de protection]|
+|9|[Broche de protection]|
+|10|[Javeline de foudre]|
 |**61-65**|**Baguettes, bâtons et sceptres (lancer 1d6)**|
-|1-2|Baguette du mage de guerre +1|
-|3-4|Baguette de détection de la magie|
-|5|Baguette des secrets|
-|6|Sceptre inamovible|
-|**66-68**|Sac sans fond|
-|**69-71**|Bottes de marche et de saut|
-|**72-74**|Bottes des terres gelées|
-|**75-79**|Bottes elfiques|
-|**78-80**|Bracelets d'archerie|
-|**81-82**|Cape elfique|
-|**83-84**|Carquois efficace|
-|**85**|Amulette d'antidétection|
-|**86**|Anneau de nage|
-|**87**|Anneau de saut|
-|**88**|Chaussons de l'araignée|
-|**89**|Corde d'escalade|
-|**90**|Figurine merveilleuse de corbeau d'argent|
-|**91**|Gants de nage et d'escalade|
-|**92**|Pierre porte-bonheur|
-|**93**|Poussière à éternuer|
-|**94**|Poussière d'assèchement|
-|**95**|Poussière de disparition|
-|**96-00**|Relancer sur table 3|
+|1-2|[Baguette du mage de guerre +1]|
+|3-4|[Baguette de détection de la magie]|
+|5|[Baguette des secrets]|
+|6|[Sceptre inamovible]|
+|**66-68**|[Sac sans fond]|
+|**69-71**|[Bottes de marche et de saut]|
+|**72-74**|[Bottes des terres gelées]|
+|**75-79**|[Bottes elfiques]|
+|**78-80**|[Bracelets d'archerie]|
+|**81-82**|[Cape elfique]|
+|**83-84**|[Carquois efficace]|
+|**85**|[Amulette d'antidétection]|
+|**86**|[Anneau de nage]|
+|**87**|[Anneau de saut]|
+|**88**|[Chaussons de l'araignée]|
+|**89**|[Corde d'escalade]|
+|**90**|[Figurine merveilleuse de corbeau d'argent]|
+|**91**|[Gants de nage et d'escalade]|
+|**92**|[Pierre porte-bonheur]|
+|**93**|[Poussière à éternuer]|
+|**94**|[Poussière d'assèchement]|
+|**95**|[Poussière de disparition]|
+|**96-00**|Relancer sur [table 3]|
 
 [][Generic]
 
@@ -298,52 +298,52 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 |d100|Objet magique|
 |---|---|
-|**01-05**|Relancer sur table 2|
+|**01-05**|Relancer sur [table 2]|
 |**06-25**|**Potions et huiles (lancer 1d8)**|
-|1-2|Baume revigorant|
-|3-4|Huile glissante|
-|5-6|Philtre d'amour|
-|7|Potion de clairvoyance|
-|8|Potion de force de géant du givre/des pierres|
+|1-2|[Baume revigorant]|
+|3-4|[Huile glissante]|
+|5-6|[Philtre d'amour]|
+|7|[Potion de clairvoyance]|
+|8|[Potion de force de géant du givre/des pierres]|
 |**26-45**|**Armures (lancer 1d6)**|
-|1-4|Armure +1|
-|5|Armure en adamantium|
-|6|Armure de mithral|
-|**46-48**|Amulette de santé|
-|**49-51**|Anneau de chaleur|
-|**52-54**|Anneau de marche sur l'eau|
-|**55-57**|Anneau de protection mentale|
-|**58-60**|Bâton du python|
-|**61-62**|Cartes d'illusion|
-|**63-65**|Gantelets de puissance d'ogre|
-|**66-67**|Gemme élémentaire|
-|**68-69**|Perle de puissance|
-|**70-71**|Sac à malice|
-|**72**|Amulette de cicatrisation|
-|**73**|Balai volant|
-|**74**|Bandeau d'intelligence|
-|**75**|Bottes ailées|
-|**76**|Bouteille fumigène|
-|**77**|Cape de la raie manta|
-|**78**|Carafe intarissable|
-|**79**|Chapeau de déguisement|
-|**80**|Collier d'adaptation|
-|**81**|Diadème de destruction|
-|**82**|Éventail enchanté|
-|**83**|Flûte des égouts|
-|**84**|Flûte terrifiante|
-|**85**|Gants piégeurs de projectiles|
-|**86**|Heaume de compréhension des langages|
-|**87**|Heaume de télépathie|
-|**88**|Lanterne de révélation|
-|**89**|Lentilles de netteté|
-|**90**|Lunettes nocturnes|
-|**91**|Médaillon des pensées|
-|**92**|OEil de lynx|
-|**93**|Regard charmeur|
-|**94**|Robe d'objets pratiques|
-|**95**|Trident de domination aquatique|
-|**96-00**|Relancer sur table 4|
+|1-4|[Armure +1]|
+|5|[Armure en adamantium]|
+|6|[Armure de mithral]|
+|**46-48**|[Amulette de santé]|
+|**49-51**|[Anneau de chaleur]|
+|**52-54**|[Anneau de marche sur l'eau]|
+|**55-57**|[Anneau de protection mentale]|
+|**58-60**|[Bâton du python]|
+|**61-62**|[Cartes d'illusion]|
+|**63-65**|[Gantelets de puissance d'ogre]|
+|**66-67**|[Gemme élémentaire]|
+|**68-69**|[Perle de puissance]|
+|**70-71**|[Sac à malice]|
+|**72**|[Amulette de cicatrisation]|
+|**73**|[Balai volant]|
+|**74**|[Bandeau d'intelligence]|
+|**75**|[Bottes ailées]|
+|**76**|[Bouteille fumigène]|
+|**77**|[Cape de la raie manta]|
+|**78**|[Carafe intarissable]|
+|**79**|[Chapeau de déguisement]|
+|**80**|[Collier d'adaptation]|
+|**81**|[Diadème de destruction]|
+|**82**|[Éventail enchanté]|
+|**83**|[Flûte des égouts]|
+|**84**|[Flûte terrifiante]|
+|**85**|[Gants piégeurs de projectiles]|
+|**86**|[Heaume de compréhension des langages]|
+|**87**|[Heaume de télépathie]|
+|**88**|[Lanterne de révélation]|
+|**89**|[Lentilles de netteté]|
+|**90**|[Lunettes nocturnes]|
+|**91**|[Médaillon des pensées]|
+|**92**|[Oeil de lynx]|
+|**93**|[Regard charmeur]|
+|**94**|[Robe d'objets pratiques]|
+|**95**|[Trident de domination aquatique]|
+|**96-00**|Relancer sur [table 4]|
 
 [][Generic]
 
@@ -351,68 +351,68 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 |d100|Objet magique|
 |---|---|
-|**01-05**|Relancer sur table 3|
+|**01-05**|Relancer sur [table 3]|
 |**06-25**|**Potions (lancer 1d8)**|
-|1-3|Potion de soins excellents|
-|4|Potion d'héroïsme|
-|5|Potion de force de géant du feu|
-|6|Potion de forme gazeuse|
-|7|Potion de lecture des pensées|
-|8|Potion de rétrécissement|
-|**26-40**|**Parchemins (lancer 1d8)**|
+|1-3|[Potion de soins excellents]|
+|4|[Potion d'héroïsme]|
+|5|[Potion de force de géant du feu]|
+|6|[Potion de forme gazeuse]|
+|7|[Potion de lecture des pensées]|
+|8|[Potion de rétrécissement]|
+|**26-40**|**[Parchemins] (lancer 1d8)**|
 |1-2|1d4 (2) sorts de 3e niveau|
 |3-6|1d4 (2) sorts de 4e niveau|
 |7-8|1d4 (2) sorts de 5e niveau|
 |**41-60**|**Armes (lancer 1d20)**|
-|1-5|Arme +2|
-|6-8|3d6 (10) Munitions +2|
-|9|Arme vicieuse|
-|10|Dague venimeuse|
-|11|Épée radieuse|
-|12|Épée voleuse de vie|
-|13|Épée mordante|
-|14|Épée ardente|
-|15|Hache du berserker|
-|16|Masse d'anéantissement|
-|17|Masse destructrice|
-|18|Masse terrifiante|
-|19|Tueuse de géants|
-|20|Tueuse de dragons|
+|1-5|[Arme +2]|
+|6-8|3d6 (10) [Munitions +2]|
+|9|[Arme vicieuse]|
+|10|[Dague venimeuse]|
+|11|[Épée radieuse]|
+|12|[Épée voleuse de vie]|
+|13|[Épée mordante]|
+|14|[Épée ardente]|
+|15|[Hache du berserker]|
+|16|[Masse d'anéantissement]|
+|17|[Masse destructrice]|
+|18|[Masse terrifiante]|
+|19|[Tueuse de géants]|
+|20|[Tueuse de dragons]|
 |**61-75**|**Armures et boucliers (lancer 1d20)**|
-|1-5|Armure +1|
-|6-0|Bouclier +2|
-|11-12|Bouclier antiprojectiles|
-|13|Bouclier d'attraction des projectiles|
-|14-15|Armure de résistance|
-|16|Armure de vulnérabilité|
-|17-19|Chemise de mailles elfique|
-|20|Cuir clouté glamour|
-|**75-81**|**baguettes (lancer 1d12)**|
-|1-2|Baguette du mage de guerre +2|
-|3-4|Baguette de projectiles magiques|
-|5|Baguette d'éclairs|
-|6|Baguette de boules de feu|
-|7|Baguette de détection de l'ennemi|
-|8|Baguette de paralysie|
-|9|Baguette de terreur|
-|10|Baguette des entraves|
-|11|Baguette entoilée|
-|12|Baguette merveilleuse|
-|**82**|Amulette antidote|
-|**83**|Amulette de bonne santé|
-|**84**|Bottes de lévitation|
-|**85**|Bottes de rapidité|
-|**86**|Cape de déplacement|
-|**87**|Cape de la chauve-souris|
-|**88**|Cape de prestidigitateur|
-|**89**|Ceinturon de force de géant des collines|
-|**90**|Ceinturon des nains|
-|**91**|Corde d'enchevêtrement|
-|**92**|Havresac magique|
-|**93**|Huile éthérée|
-|**94**|Menottes dimensionnelles|
-|**95**|Puits portatif|
-|**96-00**|Relancer sur table 5|
+|1-5|[Armure +1]|
+|6-0|[Bouclier +2]|
+|11-12|[Bouclier antiprojectiles]|
+|13|[Bouclier d'attraction des projectiles]|
+|14-15|[Armure de résistance]|
+|16|[Armure de vulnérabilité]|
+|17-19|[Chemise de mailles elfique]|
+|20|[Cuir clouté glamour]|
+|**75-81**|**Baguettes (lancer 1d12)**|
+|1-2|[Baguette du mage de guerre +2]|
+|3-4|[Baguette de projectiles magiques]|
+|5|[Baguette d'éclairs]|
+|6|[Baguette de boules de feu]|
+|7|[Baguette de détection de l'ennemi]|
+|8|[Baguette de paralysie]|
+|9|[Baguette de terreur]|
+|10|[Baguette des entraves]|
+|11|[Baguette entoilée]|
+|12|[Baguette merveilleuse]|
+|**82**|[Amulette antidote]|
+|**83**|[Amulette de bonne santé]|
+|**84**|[Bottes de lévitation]|
+|**85**|[Bottes de rapidité]|
+|**86**|[Cape de déplacement]|
+|**87**|[Cape de la chauve-souris]|
+|**88**|[Cape de prestidigitateur]|
+|**89**|[Ceinturon de force de géant des collines]|
+|**90**|[Ceinturon des nains]|
+|**91**|[Corde d'enchevêtrement]|
+|**92**|[Havresac magique]|
+|**93**|[Huile éthérée]|
+|**94**|[Menottes dimensionnelles]|
+|**95**|[Puits portatif]|
+|**96-00**|Relancer sur [table 5]|
 
 [][Generic]
 
@@ -420,64 +420,64 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 |d100|Objet magique|
 |---|---|
-|**01-05**|Relancer sur table 4|
+|**01-05**|Relancer sur [table 4]|
 |**06-25**|**Anneaux magiques (lancer 1d12)**|
-|1-2|Anneau d'action libre|
-|3-4|Anneau d'influence animale|
-|5|Anneau de dérobade|
-|6|Anneau de légèreté|
-|7-8|Anneau de protection|
-|9|Anneau de résistance|
-|10|Anneau de stockage de sorts|
-|11|Anneau de vision aux rayons X|
-|12|Anneau du bélier|
+|1-2|[Anneau d'action libre]|
+|3-4|[Anneau d'influence animale]|
+|5|[Anneau de dérobade]|
+|6|[Anneau de légèreté]|
+|7-8|[Anneau de protection]|
+|9|[Anneau de résistance]|
+|10|[Anneau de stockage de sorts]|
+|11|[Anneau de vision aux rayons X]|
+|12|[Anneau du bélier]|
 |**26-40**|**Bâtons magiques (lancer 1d6)**|
-|1|Bâton d'envoûtement|
-|2|Bâton de flétrissement|
-|3-4|Bâton de guérison|
-|5|Bâton des forêts|
-|6|Bâton du grand essaim|
+|1|[Bâton d'envoûtement]|
+|2|[Bâton de flétrissement]|
+|3-4|[Bâton de guérison]|
+|5|[Bâton des forêts]|
+|6|[Bâton du grand essaim]|
 |**41-54**|**Figurines merveilleuses (lancer 1d8)**|
-|1|Figurine merveilleuse de chèvres d'ivoire|
-|2|Figurine merveilleuse de chien d'onyx|
-|3|Figurine merveilleuse de griffon de bronze|
-|4|Figurine merveilleuse de lions dorés|
-|5|Figurine merveilleuse de mouche d'ébène|
-|6|Figurine merveilleuse de serpentine|
-|7|Figurine merveilleuse d'éléphant de marbre|
-|8|Figurine merveilleuse de destrier d'ébène|
-|**55-69**|**Pierres ioun (lancer 1d4)**|
-|1|Pierre ioun de nourriture|
-|2|Pierre ioun de protection|
-|3|Pierre ioun de réserve|
-|4|Pierre ioun de vigilance|
-|**70**|Ailes de vol|
-|**71**|Bateau pliable|
-|**72**|Bol de contrôle des élémentaires de l'eau|
-|**73**|Bracelets de défense|
-|**74**|Brasero de contrôle des élémentaires du feu|
-|**75**|Carillon d'ouverture|
-|**76**|Chapelet|
-|**77**|Collier de boules de feu|
-|**78**|Cor de destruction|
-|**79**|Cor du Valhalla d'argent|
-|**80**|Cor du Valhalla de cuivre|
-|**81**|Cube de force|
-|**82**|Encensoir de contrôle des élémentaires de l'air|
-|**83**|Fers de rapidité|
-|**84**|Forteresse instantanée|
-|**85**|Gemme de vision|
-|**86**|Gemme lumineuse|
-|**87**|Heaume de téléportation|
-|**88**|Liens de fer|
-|**89**|Manteau de résistance aux sorts|
-|**90**|Perle de force|
-|**91**|Pierre de contrôle des élémentaires de la Terre|
-|**92**|Plume magique|
-|**93**|Robe aux yeux multiples|
-|**94**|Sac de haricots|
-|**95**|Sceptre de suzeraineté|
-|**96-00**|Relancer sur table 6|
+|1|[Figurine merveilleuse de chèvres d'ivoire]|
+|2|[Figurine merveilleuse de chien d'onyx]|
+|3|[Figurine merveilleuse de griffon de bronze]|
+|4|[Figurine merveilleuse de lions dorés]|
+|5|[Figurine merveilleuse de mouche d'ébène]|
+|6|[Figurine merveilleuse de serpentine]|
+|7|[Figurine merveilleuse d'éléphant de marbre]|
+|8|[Figurine merveilleuse de destrier d'ébène]|
+|**55-69**|**Pierres Ioun (lancer 1d4)**|
+|1|[Pierre Ioun de nourriture]|
+|2|[Pierre Ioun de protection]|
+|3|[Pierre Ioun de réserve]|
+|4|[Pierre Ioun de vigilance]|
+|**70**|[Ailes de vol]|
+|**71**|[Bateau pliable]|
+|**72**|[Bol de contrôle des élémentaires de l'eau]|
+|**73**|[Bracelets de défense]|
+|**74**|[Brasero de contrôle des élémentaires du feu]|
+|**75**|[Carillon d'ouverture]|
+|**76**|[Chapelet]|
+|**77**|[Collier de boules de feu]|
+|**78**|[Cor de destruction]|
+|**79**|[Cor du Valhalla d'argent]|
+|**80**|[Cor du Valhalla de cuivre]|
+|**81**|[Cube de force]|
+|**82**|[Encensoir de contrôle des élémentaires de l'air]|
+|**83**|[Fers de rapidité]|
+|**84**|[Forteresse instantanée]|
+|**85**|[Gemme de vision]|
+|**86**|[Gemme lumineuse]|
+|**87**|[Heaume de téléportation]|
+|**88**|[Liens de fer]|
+|**89**|[Manteau de résistance aux sorts]|
+|**90**|[Perle de force]|
+|**91**|[Pierre de contrôle des élémentaires de la Terre]|
+|**92**|[Plume magique]|
+|**93**|[Robe aux yeux multiples]|
+|**94**|[Sac de haricots]|
+|**95**|[Sceptre de suzeraineté]|
+|**96-00**|Relancer sur [table 6]|
 
 [][Generic]
 
@@ -485,49 +485,49 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 |d100|Objet magique|
 |---|---|
-|**01-05**|Relancer sur table 5|
+|**01-05**|Relancer sur [table 5]|
 |**06-20**|**Potions (lancer 1d8)**|
-|1-2|Potion de soins suprêmes|
-|3|Potion d'invisibilité|
-|4-5|Potion de force de géant des nuages|
-|6|Potion de vitesse|
-|7|Potion de vol|
-|8|Potion de force de géant des tempêtes|
-|**21-40**|**Parchemins (lancer 1d8)**|
+|1-2|[Potion de soins suprêmes]|
+|3|[Potion d'invisibilité]|
+|4-5|[Potion de force de géant des nuages]|
+|6|[Potion de vitesse]|
+|7|[Potion de vol]|
+|8|[Potion de force de géant des tempêtes]|
+|**21-40**|**[Parchemins] (lancer 1d8)**|
 |1-2|1d4 (2) sorts de 5e niveau|
 |3-6|1d4 (2) sorts de 6e niveau|
 |7-8|1d4 (2) sorts de 7e niveau|
 |**41-60**|Armes (lancer 1d20)|
-|1-6|Arme +3|
-|7-11|3d6 (10) Munitions +3|
-|12|Arc du serment|
-|13|Cimeterre de célérité|
-|14|Épée dansante|
-|15|Épée tranchante|
-|16-18|Flèche tueuse|
-|19|Marteau de lancer nain|
-|20|Voleuse de vies|
+|1-6|[Arme +3]|
+|7-11|3d6 (10) [Munitions +3]|
+|12|[Arc du serment]|
+|13|[Cimeterre de célérité]|
+|14|[Épée dansante]|
+|15|[Épée tranchante]|
+|16-18|[Flèche tueuse]|
+|19|[Marteau de lancer nain]|
+|20|[Voleuse de vies]|
 |**61-74**|**Armures et boucliers (lancer 1d12)**|
-|1-4|Armure +2|
-|5-7|Bouclier +3|
-|8|Armure d'écailles de dragon|
-|9|Armure démoniaque|
-|10|Bouclier animé|
-|11|Bouclier de protection contre la magie|
-|12|Harnois nain|
+|1-4|[Armure +2]|
+|5-7|[Bouclier +3]|
+|8|[Armure d'écailles de dragon]|
+|9|[Armure démoniaque]|
+|10|[Bouclier animé]|
+|11|[Bouclier de protection contre la magie]|
+|12|[Harnois nain]|
 |**75-86**|**Pierres Ioun (lancer 1d8)**|
-|1-2|Pierre ioun d'absorption|
-|3|Pierre ioun d'agilité|
-|4|Pierre ioun de dirigeant|
-|5|Pierre ioun de force|
-|6|Pierre ioun de vigueur|
-|7|Pierre ioun d'intellect|
-|8|Pierre ioun d'intuition|
-|**87-88**|Baguette de métamorphose|
-|**89-92**|Baguette de mage de guerre +3|
-|**93**|Ceinturon de force de géant du feu|
-|**94-95**|Ceinturon de force de géant du givre/des pierres|
-|**96-00**|Relancer sur table 7|
+|1-2|[Pierre Ioun d'absorption]|
+|3|[Pierre Ioun d'agilité]|
+|4|[Pierre Ioun de dirigeant]|
+|5|[Pierre Ioun de force]|
+|6|[Pierre Ioun de vigueur]|
+|7|[Pierre Ioun d'intellect]|
+|8|[Pierre Ioun d'intuition]|
+|**87-88**|[Baguette de métamorphose]|
+|**89-92**|[Baguette de mage de guerre +3]|
+|**93**|[Ceinturon de force de géant du feu]|
+|**94-95**|[Ceinturon de force de géant du givre/des pierres]|
+|**96-00**|Relancer sur [table 7]|
 
 [][Generic]
 
@@ -535,46 +535,46 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 |d100|Objet magique|
 |---|---|
-|**01-05**|Relancer sur table 6|
+|**01-05**|Relancer sur [table 6]|
 |**06-20**|**Anneaux magiques (lancer 1d6)**|
-|1-2|Anneau de feu d'étoiles|
-|3-4|Anneau de régénération|
-|5-6|Anneau de télékinésie|
+|1-2|[Anneau de feu d'étoiles]|
+|3-4|[Anneau de régénération]|
+|5-6|[Anneau de télékinésie]|
 |**21-40**|**Bâtons magiques (lancer 1d10)**|
-|1-2|Bâton de combat|
-|3-4|Bâton de feu|
-|5-6|Bâton de givre|
-|7-8|Bâton de puissance|
-|9-10|Bâton de tonnerre et de foudre|
+|1-2|[Bâton de combat]|
+|3-4|[Bâton de feu]|
+|5-6|[Bâton de givre]|
+|7-8|[Bâton de puissance]|
+|9-10|[Bâton de tonnerre et de foudre]|
 |**41-45**|**Manuels et traités (lancer 1d20)**|
-|1-3|Manuel d'exercices physiques|
-|4-6|Manuel de bonne santé|
-|7-9|Manuel de vivacité|
-|10-11|Manuel des golems|
-|12-14|Traité d'autorité et d'influence|
-|15-17|Traité de compréhension|
-|18-20|Traité de perspicacité|
+|1-3|[Manuel d'exercices physiques]|
+|4-6|[Manuel de bonne santé]|
+|7-9|[Manuel de vivacité]|
+|10-11|[Manuel des golems]|
+|12-14|[Traité d'autorité et d'influence]|
+|15-17|[Traité de compréhension]|
+|18-20|[Traité de perspicacité]|
 |**46-60**|**Sceptres (lancer 1d6)**|
-|1-2|Sceptre d'absorption|
-|3-4|Sceptre de sécurité|
-|5-6|Sceptre de vigilance|
-|**61-62**|Amulette des plans|
-|**63-64**|Boule de cristal|
-|**65-66**|Bouteille de l'éfrit|
-|**67-68**|Cape de l'arachnide|
-|**69-72**|Cierge d'invocation|
-|**73-74**|Cor du Valhalla de bronze|
-|**75-76**|Fer gelé|
-|**77-78**|Fers du zéphyr|
-|**79-80**|Heaume scintillant|
-|**81-85**|Huile d'affûtage|
-|**86**|Miroir d'emprisonnement|
-|**87-89**|Pigments merveilleux|
-|**90**|Robe aux étoiles|
-|**91**|Robe de couleurs étincelantes|
-|**92-93**|Sac affamé|
-|**94-95**|Tapis volant|
-|**96-00**|Relancer sur table 8|
+|1-2|[Sceptre d'absorption]|
+|3-4|[Sceptre de sécurité]|
+|5-6|[Sceptre de vigilance]|
+|**61-62**|[Amulette des plans]|
+|**63-64**|[Boule de cristal]|
+|**65-66**|[Bouteille de l'éfrit]|
+|**67-68**|[Cape de l'arachnide]|
+|**69-72**|[Cierge d'invocation]|
+|**73-74**|[Cor du Valhalla de bronze]|
+|**75-76**|[Fer gelé]|
+|**77-78**|[Fers du zéphyr]|
+|**79-80**|[Heaume scintillant]|
+|**81-85**|[Huile d'affûtage]|
+|**86**|[Miroir d'emprisonnement]|
+|**87-89**|[Pigments merveilleux]|
+|**90**|[Robe aux étoiles]|
+|**91**|[Robe de couleurs étincelantes]|
+|**92-93**|[Sac affamé]|
+|**94-95**|[Tapis volant]|
+|**96-00**|Relancer sur [table 8]|
 
 [][Generic]
 
@@ -582,55 +582,371 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 |d100|Objet magique|
 |---|---|
-|**01-05**|Relancer sur table 7|
-|**06-20**|**Parchemins (lancer 1d8)**|
+|**01-05**|Relancer sur [table 7]|
+|**06-20**|**[Parchemins] (lancer 1d8)**|
 |1-2|1d4 (2) sorts de 7e niveau|
 |3-6|1d4 (2) sorts de 8e niveau|
 |7-8|1d4 (2) sorts de 9e niveau|
 |**21-35**|**Armes (lancer 1d10)**|
-|1-2|Épée vorpale|
-|3-4|Lame porte-bonheur|
-|5-6|Marteau du tonnerre|
-|7-8|Protectrice|
-|9-10|Vengeresse sacrée|
+|1-2|[Épée vorpale]|
+|3-4|[Lame porte-bonheur]|
+|5-6|[Marteau du tonnerre]|
+|7-8|[Protectrice]|
+|9-10|Vengeresse sacrée]|
 |**36-50**|**Armures (lancer 1d8)**|
-|1-4|Armure +3|
-|5-6|Armure d'invulnérabilité|
-|7-8|Harnois éthéré|
+|1-4|[Armure +3]|
+|5-6|[Armure d'invulnérabilité]|
+|7-8|[Harnois éthéré]|
 |**51-60**|**Anneaux (lancer 1d10)**|
-|1-2|Anneau d'invisibilité|
-|3-4|Anneau de convocation de djinn|
-|5-6|Anneau de maîtrise élémentaire|
-|7-8|Anneau de renvoi des sorts|
-|9-10|Anneau de triple souhait|
+|1-2|[Anneau d'invisibilité]|
+|3-4|[Anneau de convocation de djinn]|
+|5-6|[Anneau de maîtrise élémentaire]|
+|7-8|[Anneau de renvoi des sorts]|
+|9-10|[Anneau de triple souhait]|
 |**61-65**|**Boule de cristal (lancer 1d6)**|
-|1-2|Boule de cristal de lecture des pensées|
-|3-4|Boule de cristal de télépathie|
-|5-6|Boule de cristal de vision suprême|
+|1-2|[Boule de cristal de lecture des pensées]|
+|3-4|[Boule de cristal de télépathie]|
+|5-6|[Boule de cristal de vision suprême]|
 |**66-75**|**Pierres Ioun (lancer 1d6)**|
-|1-2|Pierre ioun d'absorption supérieure|
-|3-4|Pierre ioun de maîtrise|
-|5-6|Pierre ioun de régénération|
+|1-2|[Pierre Ioun d'absorption supérieure]|
+|3-4|[Pierre Ioun de maîtrise]|
+|5-6|[Pierre Ioun de régénération]|
 |**76-80**|**Talismans (lancer 1d6)**|
-|1-2|Talisman de la sphère|
-|3-4|Talisman du bien ultime|
-|5-6|Talisman du mal ultime|
-|**81**|Bâton du thaumaturge|
-|**82**|Cartes merveilleuses|
-|**83**|Ceinturon de force de géant des nuages|
-|**84**|Ceinturon de force de géant des tempêtes|
-|**85**|Colle universelle|
-|**86**|Cor du Valhalla de fer|
-|**87**|Flasque de fer|
-|**88**|Portail cubique|
-|**89**|Puits des mondes|
-|**90**|Robe de l'archimage|
-|**91**|Scarabée de protection|
-|**92**|Sceptre de puissance seigneuriale|
-|**93**|Solvant universel|
-|**94**|Sphère d'annihilation|
-|**95**|Submersible du crabe|
-|**96-00**|Artefact (au choix du MJ)|
+|1-2|[Talisman de la sphère]|
+|3-4|[Talisman du bien ultime]|
+|5-6|[Talisman du mal ultime]|
+|**81**|[Bâton du thaumaturge]|
+|**82**|[Cartes merveilleuses]|
+|**83**|[Ceinturon de force de géant des nuages]|
+|**84**|[Ceinturon de force de géant des tempêtes]|
+|**85**|[Colle universelle]|
+|**86**|[Cor du Valhalla de fer]|
+|**87**|[Flasque de fer]|
+|**88**|[Portail cubique]|
+|**89**|[Puits des mondes]|
+|**90**|[Robe de l'archimage]|
+|**91**|[Scarabée de protection]|
+|**92**|[Sceptre de puissance seigneuriale]|
+|**93**|[Solvant universel]|
+|**94**|[Sphère d'annihilation]|
+|**95**|[Submersible du crabe]|
+|**96-00**|[Artefact] (au choix du MJ)|
+
+
+
+
+
+
+
+
+
+
+[Ailes de vol]: magicitems_az_hd.md#ailes-de-vol
+[Amulette antidote]: magicitems_az_hd.md#amulette-antidote
+[Amulette d'antidétection]: magicitems_az_hd.md#amulette-dantidétection
+[Amulette de bonne santé]: magicitems_az_hd.md#amulette-de-bonne-santé
+[Amulette de cicatrisation]: magicitems_az_hd.md#amulette-de-cicatrisation
+[Amulette de santé]: magicitems_az_hd.md#amulette-de-santé
+[Amulette des plans]: magicitems_az_hd.md#amulette-des-plans
+[Anneau d'action libre]: magicitems_az_hd.md#anneau-daction-libre
+[Anneau de chaleur]: magicitems_az_hd.md#anneau-de-chaleur
+[Anneau de convocation de djinn]: magicitems_az_hd.md#anneau-de-convocation-de-djinn
+[Anneau de dérobade]: magicitems_az_hd.md#anneau-de-dérobade
+[Anneau de feu d'étoiles]: magicitems_az_hd.md#anneau-de-feu-détoiles
+[Anneau de légèreté]: magicitems_az_hd.md#anneau-de-légèreté
+[Anneau de maîtrise élémentaire]: magicitems_az_hd.md#anneau-de-maîtrise-élémentaire
+[Anneau de marche sur l'eau]: magicitems_az_hd.md#anneau-de-marche-sur-leau
+[Anneau de nage]: magicitems_az_hd.md#anneau-de-nage
+[Anneau de protection]: magicitems_az_hd.md#anneau-de-protection
+[Anneau de protection mentale]: magicitems_az_hd.md#anneau-de-protection-mentale
+[Anneau de régénération]: magicitems_az_hd.md#anneau-de-régénération
+[Anneau de renvoi des sorts]: magicitems_az_hd.md#anneau-de-renvoi-des-sorts
+[Anneau de résistance]: magicitems_az_hd.md#anneau-de-résistance
+[Anneau de saut]: magicitems_az_hd.md#anneau-de-saut
+[Anneau de stockage de sorts]: magicitems_az_hd.md#anneau-de-stockage-de-sorts
+[Anneau de télékinésie]: magicitems_az_hd.md#anneau-de-télékinésie
+[Anneau de triple souhait]: magicitems_az_hd.md#anneau-de-triple-souhait
+[Anneau de vision aux rayons X]: magicitems_az_hd.md#anneau-de-vision-aux-rayons-x
+[Anneau d'influence animale]: magicitems_az_hd.md#anneau-dinfluence-animale
+[Anneau d'invisibilité]: magicitems_az_hd.md#anneau-dinvisibilité
+[Anneau du bélier]: magicitems_az_hd.md#anneau-du-bélier
+[Arc du serment]: magicitems_az_hd.md#arc-du-serment
+[Arme +1]: magicitems_az_hd.md#arme-+1--+2-ou-+3
+[Arme +2]: magicitems_az_hd.md#arme-+1--+2-ou-+3
+[Arme +3]: magicitems_az_hd.md#arme-+1--+2-ou-+3
+[Arme vicieuse]: magicitems_az_hd.md#arme-vicieuse
+[Armure +1]: #armure-+1
+[Armure +2]: #armure-+2
+[Armure +3]: #armure-+3
+[Armure de mithral]: magicitems_az_hd.md#armure-de-mithral
+[Armure de résistance]: magicitems_az_hd.md#armure-de-résistance
+[Armure de vulnérabilité]: magicitems_az_hd.md#armure-de-vulnérabilité
+[Armure d'écailles de dragon]: magicitems_az_hd.md#armure-décailles-de-dragon
+[Armure démoniaque]: magicitems_az_hd.md#armure-démoniaque
+[Armure d'invulnérabilité]: magicitems_az_hd.md#armure-dinvulnérabilité
+[Armure en adamantium]: magicitems_az_hd.md#armure-en-adamantium
+[Artefact]: #artefact
+[Baguette de boules de feu]: magicitems_az_hd.md#baguette-de-boules-de-feu
+[Baguette de détection de la magie]: magicitems_az_hd.md#baguette-de-détection-de-la-magie
+[Baguette de détection de l'ennemi]: magicitems_az_hd.md#baguette-de-détection-de-lennemi
+[Baguette de mage de guerre +3]: #baguette-de-mage-de-guerre-+3
+[Baguette de métamorphose]: magicitems_az_hd.md#baguette-de-métamorphose
+[Baguette de paralysie]: magicitems_az_hd.md#baguette-de-paralysie
+[Baguette de projectiles magiques]: magicitems_az_hd.md#baguette-de-projectiles-magiques
+[Baguette de terreur]: magicitems_az_hd.md#baguette-de-terreur
+[Baguette d'éclairs]: magicitems_az_hd.md#baguette-déclairs
+[Baguette des entraves]: magicitems_az_hd.md#baguette-des-entraves
+[Baguette des secrets]: magicitems_az_hd.md#baguette-des-secrets
+[Baguette du mage de guerre +1]: #baguette-du-mage-de-guerre-+1
+[Baguette du mage de guerre +2]: #baguette-du-mage-de-guerre-+2
+[Baguette entoilée]: magicitems_az_hd.md#baguette-entoilée
+[Baguette merveilleuse]: magicitems_az_hd.md#baguette-merveilleuse
+[Balai volant]: magicitems_az_hd.md#balai-volant
+[Bandeau d'intelligence]: magicitems_az_hd.md#bandeau-dintelligence
+[Bateau pliable]: magicitems_az_hd.md#bateau-pliable
+[Bâton de combat]: magicitems_az_hd.md#bâton-de-combat
+[Bâton de feu]: magicitems_az_hd.md#bâton-de-feu
+[Bâton de flétrissement]: magicitems_az_hd.md#bâton-de-flétrissement
+[Bâton de givre]: magicitems_az_hd.md#bâton-de-givre
+[Bâton de guérison]: magicitems_az_hd.md#bâton-de-guérison
+[Bâton de puissance]: magicitems_az_hd.md#bâton-de-puissance
+[Bâton de tonnerre et de foudre]: magicitems_az_hd.md#bâton-de-tonnerre-et-de-foudre
+[Bâton d'envoûtement]: magicitems_az_hd.md#bâton-denvoûtement
+[Bâton des forêts]: magicitems_az_hd.md#bâton-des-forêts
+[Bâton du grand essaim]: magicitems_az_hd.md#bâton-du-grand-essaim
+[Bâton du python]: magicitems_az_hd.md#bâton-du-python
+[Bâton du thaumaturge]: magicitems_az_hd.md#bâton-du-thaumaturge
+[Baume revigorant]: magicitems_az_hd.md#baume-revigorant
+[Bol de contrôle des élémentaires de l'eau]: magicitems_az_hd.md#bol-de-contrôle-des-élémentaires-de-leau
+[Bottes ailées]: magicitems_az_hd.md#bottes-ailées
+[Bottes de lévitation]: magicitems_az_hd.md#bottes-de-lévitation
+[Bottes de marche et de saut]: magicitems_az_hd.md#bottes-de-marche-et-de-saut
+[Bottes de rapidité]: magicitems_az_hd.md#bottes-de-rapidité
+[Bottes des terres gelées]: magicitems_az_hd.md#bottes-des-terres-gelées
+[Bottes elfiques]: magicitems_az_hd.md#bottes-elfiques
+[Bouclier +1]: #bouclier-+1
+[Bouclier +2]: #bouclier-+2
+[Bouclier +3]: #bouclier-+3
+[Bouclier animé]: magicitems_az_hd.md#bouclier-animé
+[Bouclier antiprojectiles]: magicitems_az_hd.md#bouclier-antiprojectiles
+[Bouclier d'attraction des projectiles]: magicitems_az_hd.md#bouclier-dattraction-des-projectiles
+[Bouclier de protection contre la magie]: magicitems_az_hd.md#bouclier-de-protection-contre-la-magie
+[Boule de cristal]: magicitems_az_hd.md#boule-de-cristal
+[Boule de cristal de lecture des pensées]: #boule-de-cristal-de-lecture-des-pensées
+[Boule de cristal de télépathie]: #boule-de-cristal-de-télépathie
+[Boule de cristal de vision suprême]: #boule-de-cristal-de-vision-suprême
+[Bouteille de l'éfrit]: magicitems_az_hd.md#bouteille-de-léfrit
+[Bouteille fumigène]: magicitems_az_hd.md#bouteille-fumigène
+[Bracelets d'archerie]: magicitems_az_hd.md#bracelets-darcherie
+[Bracelets de défense]: magicitems_az_hd.md#bracelets-de-défense
+[Brasero de contrôle des élémentaires du feu]: magicitems_az_hd.md#brasero-de-contrôle-des-élémentaires-du-feu
+[Broche de protection]: magicitems_az_hd.md#broche-de-protection
+[Cape de déplacement]: magicitems_az_hd.md#cape-de-déplacement
+[Cape de la chauve-souris]: magicitems_az_hd.md#cape-de-la-chauve-souris
+[Cape de la raie manta]: magicitems_az_hd.md#cape-de-la-raie-manta
+[Cape de l'arachnide]: magicitems_az_hd.md#cape-de-larachnide
+[Cape de prestidigitateur]: magicitems_az_hd.md#cape-de-prestidigitateur
+[Cape de protection]: magicitems_az_hd.md#cape-de-protection
+[Cape elfique]: magicitems_az_hd.md#cape-elfique
+[Carafe intarissable]: magicitems_az_hd.md#carafe-intarissable
+[Carillon d'ouverture]: magicitems_az_hd.md#carillon-douverture
+[Carquois efficace]: magicitems_az_hd.md#carquois-efficace
+[Cartes d'illusion]: magicitems_az_hd.md#cartes-dillusion
+[Cartes merveilleuses]: magicitems_az_hd.md#cartes-merveilleuses
+[Ceinturon de force de géant des collines]: #ceinturon-de-force-de-géant-des-collines
+[Ceinturon de force de géant des nuages]: #ceinturon-de-force-de-géant-des-nuages
+[Ceinturon de force de géant des tempêtes]: #ceinturon-de-force-de-géant-des-tempêtes
+[Ceinturon de force de géant du feu]: #ceinturon-de-force-de-géant-du-feu
+[Ceinturon de force de géant du givre/des pierres]: #ceinturon-de-force-de-géant-du-givredes-pierres
+[Ceinturon des nains]: magicitems_az_hd.md#ceinturon-des-nains
+[Chapeau de déguisement]: magicitems_az_hd.md#chapeau-de-déguisement
+[Chapelet]: magicitems_az_hd.md#chapelet
+[Chaussons de l'araignée]: magicitems_az_hd.md#chaussons-de-laraignée
+[Chemise de mailles elfique]: magicitems_az_hd.md#chemise-de-mailles-elfique
+[Cierge d'invocation]: magicitems_az_hd.md#cierge-dinvocation
+[Cimeterre de célérité]: magicitems_az_hd.md#cimeterre-de-célérité
+[Colle universelle]: magicitems_az_hd.md#colle-universelle
+[Collier d'adaptation]: magicitems_az_hd.md#collier-dadaptation
+[Collier de boules de feu]: magicitems_az_hd.md#collier-de-boules-de-feu
+[Cor de destruction]: magicitems_az_hd.md#cor-de-destruction
+[Cor du Valhalla d'argent]: #cor-du-valhalla-dargent
+[Cor du Valhalla de bronze]: #cor-du-valhalla-de-bronze
+[Cor du Valhalla de cuivre]: #cor-du-valhalla-de-cuivre
+[Cor du Valhalla de fer]: #cor-du-valhalla-de-fer
+[Corde d'enchevêtrement]: magicitems_az_hd.md#corde-denchevêtrement
+[Corde d'escalade]: magicitems_az_hd.md#corde-descalade
+[Cube de force]: magicitems_az_hd.md#cube-de-force
+[Cuir clouté glamour]: #cuir-clouté-glamour
+[Dague venimeuse]: magicitems_az_hd.md#dague-venimeuse
+[Diadème de destruction]: magicitems_az_hd.md#diadème-de-destruction
+[Encensoir de contrôle des élémentaires de l'air]: magicitems_az_hd.md#encensoir-de-contrôle-des-élémentaires-de-lair
+[Épée ardente]: magicitems_az_hd.md#Épée-ardente
+[Épée dansante]: magicitems_az_hd.md#Épée-dansante
+[Épée mordante]: magicitems_az_hd.md#Épée-mordante
+[Épée radieuse]: magicitems_az_hd.md#Épée-radieuse
+[Épée tranchante]: magicitems_az_hd.md#Épée-tranchante
+[Épée voleuse de vie]: magicitems_az_hd.md#Épée-voleuse-de-vie
+[Épée vorpale]: magicitems_az_hd.md#Épée-vorpale
+[Éventail enchanté]: magicitems_az_hd.md#Éventail-enchanté
+[Fer gelé]: magicitems_az_hd.md#fer-gelé
+[Fers de rapidité]: magicitems_az_hd.md#fers-de-rapidité
+[Fers du zéphyr]: magicitems_az_hd.md#fers-du-zéphyr
+[Figurine merveilleuse de chèvres d'ivoire]: #figurine-merveilleuse-de-chèvres-divoire
+[Figurine merveilleuse de chien d'onyx]: #figurine-merveilleuse-de-chien-donyx
+[Figurine merveilleuse de corbeau d'argent]: #figurine-merveilleuse-de-corbeau-dargent
+[Figurine merveilleuse de destrier d'ébène]: #figurine-merveilleuse-de-destrier-débène
+[Figurine merveilleuse de griffon de bronze]: #figurine-merveilleuse-de-griffon-de-bronze
+[Figurine merveilleuse de lions dorés]: #figurine-merveilleuse-de-lions-dorés
+[Figurine merveilleuse de mouche d'ébène]: #figurine-merveilleuse-de-mouche-débène
+[Figurine merveilleuse de serpentine]: #figurine-merveilleuse-de-serpentine
+[Figurine merveilleuse d'éléphant de marbre]: #figurine-merveilleuse-déléphant-de-marbre
+[Flasque de fer]: magicitems_az_hd.md#flasque-de-fer
+[Flèche tueuse]: ranger_arcane_hd.md#flèche-tueuse
+[Flèche tueuse]: magicitems_az_hd.md#flèche-tueuse
+[Flûte des égouts]: magicitems_az_hd.md#flûte-des-égouts
+[Flûte terrifiante]: magicitems_az_hd.md#flûte-terrifiante
+[Forteresse instantanée]: magicitems_az_hd.md#forteresse-instantanée
+[Gantelets de puissance d'ogre]: magicitems_az_hd.md#gantelets-de-puissance-dogre
+[Gants de nage et d'escalade]: magicitems_az_hd.md#gants-de-nage-et-descalade
+[Gants piégeurs de projectiles]: magicitems_az_hd.md#gants-piégeurs-de-projectiles
+[Gemme de vision]: magicitems_az_hd.md#gemme-de-vision
+[Gemme élémentaire]: magicitems_az_hd.md#gemme-élémentaire
+[Gemme lumineuse]: magicitems_az_hd.md#gemme-lumineuse
+[Hache du berserker]: magicitems_az_hd.md#hache-du-berserker
+[Harnois éthéré]: magicitems_az_hd.md#harnois-éthéré
+[Harnois nain]: magicitems_az_hd.md#harnois-nain
+[Havresac magique]: magicitems_az_hd.md#havresac-magique
+[Heaume de compréhension des langages]: magicitems_az_hd.md#heaume-de-compréhension-des-langages
+[Heaume de télépathie]: magicitems_az_hd.md#heaume-de-télépathie
+[Heaume de téléportation]: magicitems_az_hd.md#heaume-de-téléportation
+[Heaume scintillant]: magicitems_az_hd.md#heaume-scintillant
+[Huile d'affûtage]: magicitems_az_hd.md#huile-daffûtage
+[Huile éthérée]: magicitems_az_hd.md#huile-éthérée
+[Huile glissante]: magicitems_az_hd.md#huile-glissante
+[Javeline de foudre]: magicitems_az_hd.md#javeline-de-foudre
+[Lame porte-bonheur]: magicitems_az_hd.md#lame-porte-bonheur
+[Lanterne de révélation]: magicitems_az_hd.md#lanterne-de-révélation
+[Lentilles de netteté]: magicitems_az_hd.md#lentilles-de-netteté
+[Liens de fer]: magicitems_az_hd.md#liens-de-fer
+[Lunettes nocturnes]: magicitems_az_hd.md#lunettes-nocturnes
+[Manteau de résistance aux sorts]: magicitems_az_hd.md#manteau-de-résistance-aux-sorts
+[Manuel de bonne santé]: magicitems_az_hd.md#manuel-de-bonne-santé
+[Manuel de vivacité]: magicitems_az_hd.md#manuel-de-vivacité
+[Manuel des golems]: magicitems_az_hd.md#manuel-des-golems
+[Manuel d'exercices physiques]: magicitems_az_hd.md#manuel-dexercices-physiques
+[Marteau de lancer nain]: magicitems_az_hd.md#marteau-de-lancer-nain
+[Marteau du tonnerre]: magicitems_az_hd.md#marteau-du-tonnerre
+[Masse d'anéantissement]: magicitems_az_hd.md#masse-danéantissement
+[Masse destructrice]: magicitems_az_hd.md#masse-destructrice
+[Masse terrifiante]: magicitems_az_hd.md#masse-terrifiante
+[Médaillon des pensées]: magicitems_az_hd.md#médaillon-des-pensées
+[Menottes dimensionnelles]: magicitems_az_hd.md#menottes-dimensionnelles
+[Miroir d'emprisonnement]: magicitems_az_hd.md#miroir-demprisonnement
+[munition +1]: #munition-+1
+[munitions +1]: #munitions-+1
+[Munitions +1]: #munitions-+1
+[Munitions +2]: #munitions-+2
+[Munitions +3]: #munitions-+3
+[Oeil de lynx]: magicitems_az_hd.md#oeil-de-lynx
+[Parchemins]: #parchemins
+[Parchemins de sorts]: #parchemins-de-sorts
+[Perle de force]: magicitems_az_hd.md#perle-de-force
+[Perle de puissance]: magicitems_az_hd.md#perle-de-puissance
+[Philtre d'amour]: magicitems_az_hd.md#philtre-damour
+[Pierre de contrôle des élémentaires de la Terre]: magicitems_az_hd.md#pierre-de-contrôle-des-élémentaires-de-la-terre
+[Pierre Ioun d'absorption]: #pierre-ioun-dabsorption
+[Pierre Ioun d'absorption supérieure]: #pierre-ioun-dabsorption-supérieure
+[Pierre Ioun d'agilité]: #pierre-ioun-dagilité
+[Pierre Ioun de dirigeant]: #pierre-ioun-de-dirigeant
+[Pierre Ioun de force]: #pierre-ioun-de-force
+[Pierre Ioun de maîtrise]: #pierre-ioun-de-maîtrise
+[Pierre Ioun de nourriture]: #pierre-ioun-de-nourriture
+[Pierre Ioun de protection]: #pierre-ioun-de-protection
+[Pierre Ioun de régénération]: #pierre-ioun-de-régénération
+[Pierre Ioun de réserve]: #pierre-ioun-de-réserve
+[Pierre Ioun de vigilance]: #pierre-ioun-de-vigilance
+[Pierre Ioun de vigueur]: #pierre-ioun-de-vigueur
+[Pierre Ioun d'intellect]: #pierre-ioun-dintellect
+[Pierre Ioun d'intuition]: #pierre-ioun-dintuition
+[Pierre porte-bonheur]: magicitems_az_hd.md#pierre-porte-bonheur
+[Pigments merveilleux]: magicitems_az_hd.md#pigments-merveilleux
+[Plume magique]: magicitems_az_hd.md#plume-magique
+[Portail cubique]: magicitems_az_hd.md#portail-cubique
+[Potion d'agrandissement]: magicitems_az_hd.md#potion-dagrandissement
+[Potion d'amitié avec les animaux]: magicitems_az_hd.md#potion-damitié-avec-les-animaux
+[Potion de clairvoyance]: magicitems_az_hd.md#potion-de-clairvoyance
+[Potion de force de géant des collines]: #potion-de-force-de-géant-des-collines
+[Potion de force de géant des nuages]: #potion-de-force-de-géant-des-nuages
+[Potion de force de géant des tempêtes]: #potion-de-force-de-géant-des-tempêtes
+[Potion de force de géant du feu]: #potion-de-force-de-géant-du-feu
+[Potion de force de géant du givre/des pierres]: #potion-de-force-de-géant-du-givredes-pierres
+[Potion de forme gazeuse]: magicitems_az_hd.md#potion-de-forme-gazeuse
+[Potion de lecture des pensées]: magicitems_az_hd.md#potion-de-lecture-des-pensées
+[Potion de poison]: magicitems_az_hd.md#potion-de-poison
+[Potion de résistance]: magicitems_az_hd.md#potion-de-résistance
+[Potion de respiration aquatique]: magicitems_az_hd.md#potion-de-respiration-aquatique
+[Potion de rétrécissement]: magicitems_az_hd.md#potion-de-rétrécissement
+[Potion de soins]: equipment_hd.md#potion-de-soins
+[Potion de soins]: magicitems_az_hd.md#potion-de-soins
+[Potion de soins excellents]: #potion-de-soins-excellents
+[Potion de soins supérieurs]: #potion-de-soins-supérieurs
+[Potion de soins suprêmes]: #potion-de-soins-suprêmes
+[Potion de vitesse]: magicitems_az_hd.md#potion-de-vitesse
+[Potion de vol]: magicitems_az_hd.md#potion-de-vol
+[Potion d'escalade]: magicitems_az_hd.md#potion-descalade
+[Potion d'héroïsme]: magicitems_az_hd.md#potion-dhéroïsme
+[Potion d'invisibilité]: magicitems_az_hd.md#potion-dinvisibilité
+[potions de soins courants]: #potions-de-soins-courants
+[Poussière à éternuer]: magicitems_az_hd.md#poussière-à-éternuer
+[Poussière d'assèchement]: magicitems_az_hd.md#poussière-dassèchement
+[Poussière de disparition]: magicitems_az_hd.md#poussière-de-disparition
+[Protectrice]: magicitems_az_hd.md#protectrice
+[Puits des mondes]: magicitems_az_hd.md#puits-des-mondes
+[Puits portatif]: magicitems_az_hd.md#puits-portatif
+[Regard charmeur]: magicitems_az_hd.md#regard-charmeur
+[Robe aux étoiles]: magicitems_az_hd.md#robe-aux-étoiles
+[Robe aux yeux multiples]: magicitems_az_hd.md#robe-aux-yeux-multiples
+[Robe de couleurs étincelantes]: magicitems_az_hd.md#robe-de-couleurs-étincelantes
+[Robe de l'archimage]: magicitems_az_hd.md#robe-de-larchimage
+[Robe d'objets pratiques]: magicitems_az_hd.md#robe-dobjets-pratiques
+[Sac à malice]: magicitems_az_hd.md#sac-à-malice
+[Sac affamé]: magicitems_az_hd.md#sac-affamé
+[Sac de haricots]: magicitems_az_hd.md#sac-de-haricots
+[Sac sans fond]: magicitems_az_hd.md#sac-sans-fond
+[Scarabée de protection]: magicitems_az_hd.md#scarabée-de-protection
+[Sceptre d'absorption]: magicitems_az_hd.md#sceptre-dabsorption
+[Sceptre de puissance seigneuriale]: magicitems_az_hd.md#sceptre-de-puissance-seigneuriale
+[Sceptre de sécurité]: magicitems_az_hd.md#sceptre-de-sécurité
+[Sceptre de suzeraineté]: magicitems_az_hd.md#sceptre-de-suzeraineté
+[Sceptre de vigilance]: magicitems_az_hd.md#sceptre-de-vigilance
+[Sceptre inamovible]: magicitems_az_hd.md#sceptre-inamovible
+[Solvant universel]: magicitems_az_hd.md#solvant-universel
+[Sphère d'annihilation]: magicitems_az_hd.md#sphère-dannihilation
+[Submersible du crabe]: magicitems_az_hd.md#submersible-du-crabe
+[table 2]: #table-2
+[table 3]: #table-3
+[table 4]: #table-4
+[table 5]: #table-5
+[table 6]: #table-6
+[table 7]: #table-7
+[table 8]: #table-8
+[Talisman de la sphère]: magicitems_az_hd.md#talisman-de-la-sphère
+[Talisman du bien ultime]: magicitems_az_hd.md#talisman-du-bien-ultime
+[Talisman du mal ultime]: magicitems_az_hd.md#talisman-du-mal-ultime
+[Tapis volant]: magicitems_az_hd.md#tapis-volant
+[Traité d'autorité et d'influence]: magicitems_az_hd.md#traité-dautorité-et-dinfluence
+[Traité de compréhension]: magicitems_az_hd.md#traité-de-compréhension
+[Traité de perspicacité]: magicitems_az_hd.md#traité-de-perspicacité
+[Trident de domination aquatique]: magicitems_az_hd.md#trident-de-domination-aquatique
+[Tueuse de dragons]: magicitems_az_hd.md#tueuse-de-dragons
+[Tueuse de géants]: #tueuse-de-géants
+[Voleuse de vies]: magicitems_az_hd.md#voleuse-de-vies
+
+
+
+
+
+
 
 [Items]: #
 [Generic]: #
