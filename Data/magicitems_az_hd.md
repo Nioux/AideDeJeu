@@ -1491,7 +1491,7 @@ Vous pouvez utiliser votre action pour prononcer le mot de commande du cor puis 
 
 [][Generic]
 
-### Cor du valhalla
+### Cor du Valhalla
 
 Objet merveilleux, rare (argent ou cuivre), très rare (bronze) ou légendaire (fer)
 

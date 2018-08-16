@@ -640,7 +640,6 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 
 
-
 [Ailes de vol]: magicitems_az_hd.md#ailes-de-vol
 [Amulette antidote]: magicitems_az_hd.md#amulette-antidote
 [Amulette d'antidétection]: magicitems_az_hd.md#amulette-dantidétection
@@ -671,13 +670,13 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Anneau d'invisibilité]: magicitems_az_hd.md#anneau-dinvisibilité
 [Anneau du bélier]: magicitems_az_hd.md#anneau-du-bélier
 [Arc du serment]: magicitems_az_hd.md#arc-du-serment
-[Arme +1]: magicitems_az_hd.md#arme-+1--+2-ou-+3
-[Arme +2]: magicitems_az_hd.md#arme-+1--+2-ou-+3
-[Arme +3]: magicitems_az_hd.md#arme-+1--+2-ou-+3
+[Arme +1]: magicitems_az_hd.md#arme-1-2-ou-3
+[Arme +2]: magicitems_az_hd.md#arme-1-2-ou-3
+[Arme +3]: magicitems_az_hd.md#arme-1-2-ou-3
 [Arme vicieuse]: magicitems_az_hd.md#arme-vicieuse
-[Armure +1]: #armure-+1
-[Armure +2]: #armure-+2
-[Armure +3]: #armure-+3
+[Armure +1]: magicitems_az_hd.md#armure-1-2-ou-3
+[Armure +2]: magicitems_az_hd.md#armure-1-2-ou-3
+[Armure +3]: magicitems_az_hd.md#armure-1-2-ou-3
 [Armure de mithral]: magicitems_az_hd.md#armure-de-mithral
 [Armure de résistance]: magicitems_az_hd.md#armure-de-résistance
 [Armure de vulnérabilité]: magicitems_az_hd.md#armure-de-vulnérabilité
@@ -685,11 +684,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Armure démoniaque]: magicitems_az_hd.md#armure-démoniaque
 [Armure d'invulnérabilité]: magicitems_az_hd.md#armure-dinvulnérabilité
 [Armure en adamantium]: magicitems_az_hd.md#armure-en-adamantium
-[Artefact]: #artefact
+[Artefact]: artifacts_hd.md
 [Baguette de boules de feu]: magicitems_az_hd.md#baguette-de-boules-de-feu
 [Baguette de détection de la magie]: magicitems_az_hd.md#baguette-de-détection-de-la-magie
 [Baguette de détection de l'ennemi]: magicitems_az_hd.md#baguette-de-détection-de-lennemi
-[Baguette de mage de guerre +3]: #baguette-de-mage-de-guerre-+3
+[Baguette de mage de guerre +3]: magicitems_az_hd.md#baguette-du-mage-de-guerre-1-2-ou-3
 [Baguette de métamorphose]: magicitems_az_hd.md#baguette-de-métamorphose
 [Baguette de paralysie]: magicitems_az_hd.md#baguette-de-paralysie
 [Baguette de projectiles magiques]: magicitems_az_hd.md#baguette-de-projectiles-magiques
@@ -697,8 +696,8 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Baguette d'éclairs]: magicitems_az_hd.md#baguette-déclairs
 [Baguette des entraves]: magicitems_az_hd.md#baguette-des-entraves
 [Baguette des secrets]: magicitems_az_hd.md#baguette-des-secrets
-[Baguette du mage de guerre +1]: #baguette-du-mage-de-guerre-+1
-[Baguette du mage de guerre +2]: #baguette-du-mage-de-guerre-+2
+[Baguette du mage de guerre +1]: magicitems_az_hd.md#baguette-du-mage-de-guerre-1-2-ou-3
+[Baguette du mage de guerre +2]: magicitems_az_hd.md#baguette-du-mage-de-guerre-1-2-ou-3
 [Baguette entoilée]: magicitems_az_hd.md#baguette-entoilée
 [Baguette merveilleuse]: magicitems_az_hd.md#baguette-merveilleuse
 [Balai volant]: magicitems_az_hd.md#balai-volant
@@ -724,17 +723,17 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Bottes de rapidité]: magicitems_az_hd.md#bottes-de-rapidité
 [Bottes des terres gelées]: magicitems_az_hd.md#bottes-des-terres-gelées
 [Bottes elfiques]: magicitems_az_hd.md#bottes-elfiques
-[Bouclier +1]: #bouclier-+1
-[Bouclier +2]: #bouclier-+2
-[Bouclier +3]: #bouclier-+3
+[Bouclier +1]: magicitems_az_hd.md#bouclier-1-2-ou-3
+[Bouclier +2]: magicitems_az_hd.md#bouclier-1-2-ou-3
+[Bouclier +3]: magicitems_az_hd.md#bouclier-1-2-ou-3
 [Bouclier animé]: magicitems_az_hd.md#bouclier-animé
 [Bouclier antiprojectiles]: magicitems_az_hd.md#bouclier-antiprojectiles
 [Bouclier d'attraction des projectiles]: magicitems_az_hd.md#bouclier-dattraction-des-projectiles
 [Bouclier de protection contre la magie]: magicitems_az_hd.md#bouclier-de-protection-contre-la-magie
 [Boule de cristal]: magicitems_az_hd.md#boule-de-cristal
-[Boule de cristal de lecture des pensées]: #boule-de-cristal-de-lecture-des-pensées
-[Boule de cristal de télépathie]: #boule-de-cristal-de-télépathie
-[Boule de cristal de vision suprême]: #boule-de-cristal-de-vision-suprême
+[Boule de cristal de lecture des pensées]: magicitems_az_hd.md#boule-de-cristal
+[Boule de cristal de télépathie]: magicitems_az_hd.md#boule-de-cristal
+[Boule de cristal de vision suprême]: magicitems_az_hd.md#boule-de-cristal
 [Bouteille de l'éfrit]: magicitems_az_hd.md#bouteille-de-léfrit
 [Bouteille fumigène]: magicitems_az_hd.md#bouteille-fumigène
 [Bracelets d'archerie]: magicitems_az_hd.md#bracelets-darcherie
@@ -753,11 +752,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Carquois efficace]: magicitems_az_hd.md#carquois-efficace
 [Cartes d'illusion]: magicitems_az_hd.md#cartes-dillusion
 [Cartes merveilleuses]: magicitems_az_hd.md#cartes-merveilleuses
-[Ceinturon de force de géant des collines]: #ceinturon-de-force-de-géant-des-collines
-[Ceinturon de force de géant des nuages]: #ceinturon-de-force-de-géant-des-nuages
-[Ceinturon de force de géant des tempêtes]: #ceinturon-de-force-de-géant-des-tempêtes
-[Ceinturon de force de géant du feu]: #ceinturon-de-force-de-géant-du-feu
-[Ceinturon de force de géant du givre/des pierres]: #ceinturon-de-force-de-géant-du-givredes-pierres
+[Ceinturon de force de géant des collines]: magicitems_az_hd.md#ceinturon-de-force-de-géant
+[Ceinturon de force de géant des nuages]: magicitems_az_hd.md#ceinturon-de-force-de-géant
+[Ceinturon de force de géant des tempêtes]: magicitems_az_hd.md#ceinturon-de-force-de-géant
+[Ceinturon de force de géant du feu]: magicitems_az_hd.md#ceinturon-de-force-de-géant
+[Ceinturon de force de géant du givre/des pierres]: magicitems_az_hd.md#ceinturon-de-force-de-géant
 [Ceinturon des nains]: magicitems_az_hd.md#ceinturon-des-nains
 [Chapeau de déguisement]: magicitems_az_hd.md#chapeau-de-déguisement
 [Chapelet]: magicitems_az_hd.md#chapelet
@@ -769,14 +768,14 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Collier d'adaptation]: magicitems_az_hd.md#collier-dadaptation
 [Collier de boules de feu]: magicitems_az_hd.md#collier-de-boules-de-feu
 [Cor de destruction]: magicitems_az_hd.md#cor-de-destruction
-[Cor du Valhalla d'argent]: #cor-du-valhalla-dargent
-[Cor du Valhalla de bronze]: #cor-du-valhalla-de-bronze
-[Cor du Valhalla de cuivre]: #cor-du-valhalla-de-cuivre
-[Cor du Valhalla de fer]: #cor-du-valhalla-de-fer
+[Cor du Valhalla d'argent]: magicitems_az_hd.md#cor-du-valhalla
+[Cor du Valhalla de bronze]: magicitems_az_hd.md#cor-du-valhalla
+[Cor du Valhalla de cuivre]: magicitems_az_hd.md#cor-du-valhalla
+[Cor du Valhalla de fer]: magicitems_az_hd.md#cor-du-valhalla
 [Corde d'enchevêtrement]: magicitems_az_hd.md#corde-denchevêtrement
 [Corde d'escalade]: magicitems_az_hd.md#corde-descalade
 [Cube de force]: magicitems_az_hd.md#cube-de-force
-[Cuir clouté glamour]: #cuir-clouté-glamour
+[Cuir clouté glamour]: magicitems_az_hd.md#cuir-cloutée-glamour
 [Dague venimeuse]: magicitems_az_hd.md#dague-venimeuse
 [Diadème de destruction]: magicitems_az_hd.md#diadème-de-destruction
 [Encensoir de contrôle des élémentaires de l'air]: magicitems_az_hd.md#encensoir-de-contrôle-des-élémentaires-de-lair
@@ -791,15 +790,15 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Fer gelé]: magicitems_az_hd.md#fer-gelé
 [Fers de rapidité]: magicitems_az_hd.md#fers-de-rapidité
 [Fers du zéphyr]: magicitems_az_hd.md#fers-du-zéphyr
-[Figurine merveilleuse de chèvres d'ivoire]: #figurine-merveilleuse-de-chèvres-divoire
-[Figurine merveilleuse de chien d'onyx]: #figurine-merveilleuse-de-chien-donyx
-[Figurine merveilleuse de corbeau d'argent]: #figurine-merveilleuse-de-corbeau-dargent
-[Figurine merveilleuse de destrier d'ébène]: #figurine-merveilleuse-de-destrier-débène
-[Figurine merveilleuse de griffon de bronze]: #figurine-merveilleuse-de-griffon-de-bronze
-[Figurine merveilleuse de lions dorés]: #figurine-merveilleuse-de-lions-dorés
-[Figurine merveilleuse de mouche d'ébène]: #figurine-merveilleuse-de-mouche-débène
-[Figurine merveilleuse de serpentine]: #figurine-merveilleuse-de-serpentine
-[Figurine merveilleuse d'éléphant de marbre]: #figurine-merveilleuse-déléphant-de-marbre
+[Figurine merveilleuse de chèvres d'ivoire]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de chien d'onyx]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de corbeau d'argent]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de destrier d'ébène]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de griffon de bronze]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de lions dorés]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de mouche d'ébène]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse de serpentine]: magicitems_az_hd.md#figurine-merveilleuse
+[Figurine merveilleuse d'éléphant de marbre]: magicitems_az_hd.md#figurine-merveilleuse
 [Flasque de fer]: magicitems_az_hd.md#flasque-de-fer
 [Flèche tueuse]: ranger_arcane_hd.md#flèche-tueuse
 [Flèche tueuse]: magicitems_az_hd.md#flèche-tueuse
@@ -842,32 +841,32 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Médaillon des pensées]: magicitems_az_hd.md#médaillon-des-pensées
 [Menottes dimensionnelles]: magicitems_az_hd.md#menottes-dimensionnelles
 [Miroir d'emprisonnement]: magicitems_az_hd.md#miroir-demprisonnement
-[munition +1]: #munition-+1
-[munitions +1]: #munitions-+1
-[Munitions +1]: #munitions-+1
-[Munitions +2]: #munitions-+2
-[Munitions +3]: #munitions-+3
+[munition +1]: magicitems_az_hd.md#munitions-1-2-ou-3
+[munitions +1]: magicitems_az_hd.md#munitions-1-2-ou-3
+[Munitions +1]: magicitems_az_hd.md#munitions-1-2-ou-3
+[Munitions +2]: magicitems_az_hd.md#munitions-1-2-ou-3
+[Munitions +3]: magicitems_az_hd.md#munitions-1-2-ou-3
 [Oeil de lynx]: magicitems_az_hd.md#oeil-de-lynx
-[Parchemins]: #parchemins
-[Parchemins de sorts]: #parchemins-de-sorts
+[Parchemins]: magicitems_az_hd.md#parchemin-magique
+[Parchemins de sorts]: magicitems_az_hd.md#parchemin-magique
 [Perle de force]: magicitems_az_hd.md#perle-de-force
 [Perle de puissance]: magicitems_az_hd.md#perle-de-puissance
 [Philtre d'amour]: magicitems_az_hd.md#philtre-damour
 [Pierre de contrôle des élémentaires de la Terre]: magicitems_az_hd.md#pierre-de-contrôle-des-élémentaires-de-la-terre
-[Pierre Ioun d'absorption]: #pierre-ioun-dabsorption
-[Pierre Ioun d'absorption supérieure]: #pierre-ioun-dabsorption-supérieure
-[Pierre Ioun d'agilité]: #pierre-ioun-dagilité
-[Pierre Ioun de dirigeant]: #pierre-ioun-de-dirigeant
-[Pierre Ioun de force]: #pierre-ioun-de-force
-[Pierre Ioun de maîtrise]: #pierre-ioun-de-maîtrise
-[Pierre Ioun de nourriture]: #pierre-ioun-de-nourriture
-[Pierre Ioun de protection]: #pierre-ioun-de-protection
-[Pierre Ioun de régénération]: #pierre-ioun-de-régénération
-[Pierre Ioun de réserve]: #pierre-ioun-de-réserve
-[Pierre Ioun de vigilance]: #pierre-ioun-de-vigilance
-[Pierre Ioun de vigueur]: #pierre-ioun-de-vigueur
-[Pierre Ioun d'intellect]: #pierre-ioun-dintellect
-[Pierre Ioun d'intuition]: #pierre-ioun-dintuition
+[Pierre Ioun d'absorption]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun d'absorption supérieure]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun d'agilité]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de dirigeant]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de force]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de maîtrise]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de nourriture]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de protection]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de régénération]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de réserve]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de vigilance]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun de vigueur]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun d'intellect]: magicitems_az_hd.md#pierre-ioun
+[Pierre Ioun d'intuition]: magicitems_az_hd.md#pierre-ioun
 [Pierre porte-bonheur]: magicitems_az_hd.md#pierre-porte-bonheur
 [Pigments merveilleux]: magicitems_az_hd.md#pigments-merveilleux
 [Plume magique]: magicitems_az_hd.md#plume-magique
@@ -875,28 +874,27 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Potion d'agrandissement]: magicitems_az_hd.md#potion-dagrandissement
 [Potion d'amitié avec les animaux]: magicitems_az_hd.md#potion-damitié-avec-les-animaux
 [Potion de clairvoyance]: magicitems_az_hd.md#potion-de-clairvoyance
-[Potion de force de géant des collines]: #potion-de-force-de-géant-des-collines
-[Potion de force de géant des nuages]: #potion-de-force-de-géant-des-nuages
-[Potion de force de géant des tempêtes]: #potion-de-force-de-géant-des-tempêtes
-[Potion de force de géant du feu]: #potion-de-force-de-géant-du-feu
-[Potion de force de géant du givre/des pierres]: #potion-de-force-de-géant-du-givredes-pierres
+[Potion de force de géant des collines]: magicitems_az_hd.md#potion-de-force-de-géant
+[Potion de force de géant des nuages]: magicitems_az_hd.md#potion-de-force-de-géant
+[Potion de force de géant des tempêtes]: magicitems_az_hd.md#potion-de-force-de-géant
+[Potion de force de géant du feu]: magicitems_az_hd.md#potion-de-force-de-géant
+[Potion de force de géant du givre/des pierres]: magicitems_az_hd.md#potion-de-force-de-géant
 [Potion de forme gazeuse]: magicitems_az_hd.md#potion-de-forme-gazeuse
 [Potion de lecture des pensées]: magicitems_az_hd.md#potion-de-lecture-des-pensées
 [Potion de poison]: magicitems_az_hd.md#potion-de-poison
 [Potion de résistance]: magicitems_az_hd.md#potion-de-résistance
 [Potion de respiration aquatique]: magicitems_az_hd.md#potion-de-respiration-aquatique
 [Potion de rétrécissement]: magicitems_az_hd.md#potion-de-rétrécissement
-[Potion de soins]: equipment_hd.md#potion-de-soins
 [Potion de soins]: magicitems_az_hd.md#potion-de-soins
-[Potion de soins excellents]: #potion-de-soins-excellents
-[Potion de soins supérieurs]: #potion-de-soins-supérieurs
-[Potion de soins suprêmes]: #potion-de-soins-suprêmes
+[Potion de soins excellents]: magicitems_az_hd.md#potion-de-soins
+[Potion de soins supérieurs]: magicitems_az_hd.md#potion-de-soins
+[Potion de soins suprêmes]: magicitems_az_hd.md#potion-de-soins
 [Potion de vitesse]: magicitems_az_hd.md#potion-de-vitesse
 [Potion de vol]: magicitems_az_hd.md#potion-de-vol
 [Potion d'escalade]: magicitems_az_hd.md#potion-descalade
 [Potion d'héroïsme]: magicitems_az_hd.md#potion-dhéroïsme
 [Potion d'invisibilité]: magicitems_az_hd.md#potion-dinvisibilité
-[potions de soins courants]: #potions-de-soins-courants
+[potions de soins courants]: magicitems_az_hd.md#potion-de-soins
 [Poussière à éternuer]: magicitems_az_hd.md#poussière-à-éternuer
 [Poussière d'assèchement]: magicitems_az_hd.md#poussière-dassèchement
 [Poussière de disparition]: magicitems_az_hd.md#poussière-de-disparition
@@ -923,13 +921,13 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Solvant universel]: magicitems_az_hd.md#solvant-universel
 [Sphère d'annihilation]: magicitems_az_hd.md#sphère-dannihilation
 [Submersible du crabe]: magicitems_az_hd.md#submersible-du-crabe
-[table 2]: #table-2
-[table 3]: #table-3
-[table 4]: #table-4
-[table 5]: #table-5
-[table 6]: #table-6
-[table 7]: #table-7
-[table 8]: #table-8
+[table 2]: magicitems_hd.md#objets-magiques-2
+[table 3]: magicitems_hd.md#objets-magiques-3
+[table 4]: magicitems_hd.md#objets-magiques-4
+[table 5]: magicitems_hd.md#objets-magiques-5
+[table 6]: magicitems_hd.md#objets-magiques-6
+[table 7]: magicitems_hd.md#objets-magiques-7
+[table 8]: magicitems_hd.md#objets-magiques-8
 [Talisman de la sphère]: magicitems_az_hd.md#talisman-de-la-sphère
 [Talisman du bien ultime]: magicitems_az_hd.md#talisman-du-bien-ultime
 [Talisman du mal ultime]: magicitems_az_hd.md#talisman-du-mal-ultime
@@ -939,9 +937,8 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 [Traité de perspicacité]: magicitems_az_hd.md#traité-de-perspicacité
 [Trident de domination aquatique]: magicitems_az_hd.md#trident-de-domination-aquatique
 [Tueuse de dragons]: magicitems_az_hd.md#tueuse-de-dragons
-[Tueuse de géants]: #tueuse-de-géants
+[Tueuse de géants]: magicitems_az_hd.md#tueuse-de-géant
 [Voleuse de vies]: magicitems_az_hd.md#voleuse-de-vies
-
 
 
 
