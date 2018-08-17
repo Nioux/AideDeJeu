@@ -308,6 +308,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\l5r_general_hd.md" Link="Data\l5r_general_hd.md" />
+    <EmbeddedResource Include="..\..\Data\l5r_gofurther_hd.md" Link="Data\l5r_gofurther_hd.md" />
+    <EmbeddedResource Include="..\..\Data\l5r_hitpoints_hd.md" Link="Data\l5r_hitpoints_hd.md" />
+    <EmbeddedResource Include="..\..\Data\l5r_index_hd.md" Link="Data\l5r_index_hd.md" />
+    <EmbeddedResource Include="..\..\Data\l5r_magic_hd.md" Link="Data\l5r_magic_hd.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
