@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="24" android:versionName="1.24" package="com.nioux.aidedejeu" android:installLocation="preferExternal">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="25" android:versionName="1.25" package="com.nioux.aidedejeu" android:installLocation="preferExternal">
 	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="27" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="Haches &amp; Dés" android:icon="@drawable/ic_launcher"></application>

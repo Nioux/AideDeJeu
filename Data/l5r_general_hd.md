@@ -1,0 +1,612 @@
+
+
+
+Le jeu dans l'univers des cinq royaumes est
+un peu plus « dur » que dans les autres univers
+pour Héros & Dragons. Il comporte
+ses propres spécificités, imposant quelques
+modifications de règles. Créer un univers,
+c'est aussi faire des choix techniques, parfois drastiques.
+Ici, il s'agit de rendre la magie moins présente, voire totalement
+absente, de recentrer sur les PJ humains et de
+revoir certaines classes de personnages.
+Règles générales
+Niveau maximum optimal
+Dans l'univers des cinq royaumes, on ne trouve pas
+une tour de mage dans chaque village, ni des créatures
+bizarres au moindre carrefour. Les ogres, les géants, les
+gobelins et autres créatures monstrueuses sont rares. Le
+gros des ennemis que les personnages vont affronter seront
+simplement humains. Dans cette optique, l'univers
+perd toute crédibilité s'il est joué avec des personnages
+de niveaux trop élevés.
+Le niveau maximal optimal pour une campagne au sein
+des cinq royaumes devrait être de 12 à 14. Les personnages
+peuvent exister au-delà mais seront particulièrement fragiles.
+Ainsi, nous vous déconseillons d'utiliser des créatures
+au-delà de l'ID 12 ou 14. De même, les PNJ humains
+ne devraient pas dépasser un ID de 9 ou 10. Les créatures à
+l'ID élevé devraient donc être affaiblies avant d'être affrontées
+via une quête, un rituel, un objet magique ou autre.
+Moins de classes jouables
+L'univers des cinq royaumes ne s'accommode pas de la
+présence de toutes les classes de personnage. Les restrictions
+qui suivent ne sont là qu'à titre indicatif. Vous êtes libre d'intégrer
+une classe qui ne serait pas dans la liste ci-dessous,
+c'est votre jeu et votre plaisir de jeu. Cependant, l'absence
+de classes divines, en dehors du druide, est un élément important
+: les prêtres des différents cultes n'ont pas de pouvoir
+divin, et les dieux n'intercèdent pas en faveur de leurs
+adorateurs. Dans tous les cas, s'ils le font, cela ne se déroule
+pas selon le processus de sorts habituellement utilisé en jeu.
+Les classes jouables sont : barbare, barde, druide, guerrier,
+rôdeur et roublard. Enfin, pour obtenir une ambiance
+optimale, nous déconseillons également les archétypes
+sorcelame pour le guerrier, archer arcanique pour le rôdeur,
+et ombrelame pour le roublard. Vous pouvez aussi
+mettre de côté la voie des Esprits pour le barbare. Si vous
+l'intégrez, vous rendrez le monde plus magique et vous
+devriez réserver cela à un personnage ayant obtenu une
+bénédiction faërique, ou un apprentissage druidique.
+Le barde et le rôdeur ne lancent plus de sorts. Le druide
+est donc le dernier lanceur de sorts disponible dans les
+cinq royaumes. Cependant, il fonctionne légèrement
+différemment. Ces trois classes ont été transformées ou
+reconstruites pour mieux s'adapter à l'ambiance de l'univers
+(voir p.52, 57 et 59).
+Points de vie et blessures
+Les cinq royaumes sont un univers difficile et sans pitié.
+Pour refléter cet aspect, le système de gestion des
+blessures physiques est modifié au-delà de la simple
+perte de points de vie. Les blessures doivent faire mal.
+Les personnages disposent désormais de deux jauges.
+Les points de vie deviennent les points de combativité
+(PC). À cela se rajoutent les points de vitalité (PVit).
+Points de combativité
+Les PC correspondent à l'adresse, la chance, les blessures
+superficielles et la capacité du personnage à endurer
+un combat et à éviter les coups. Quand un personnage
+perd des points de combativité, il n'est pas blessé :
+il est acculé, mis en difficulté, égratigné…
+Un personnage obtient au niveau 1 un nombre de PC
+égal au score maximum de son dé de vie (DV) et ajoute
+son modificateur de Constitution. Chaque fois qu'il
+gagne un niveau, le personnage relance tous ses DV (2
+au niveau 2, 3 au niveau 3) et y ajoute son modificateur
+de Constitution (une fois seulement, peu importe le
+nombre de niveaux). Si le résultat total est inférieur au
+nombre de PC maximum du personnage avant de monter
+de niveau, ignorez le résultat des dés. Le personnage
+a alors 1 PC de plus par rapport à son nombre de PC
+maximum précédant la montée de niveau.
+À partir du niveau 9, les personnages ne gagnent plus
+de points de combativité de cette manière. Chaque fois
+qu'ils changent de niveau, ils peuvent rejeter l'intégralité
+de leurs 8DV précédents. S'ils obtiennent un score supérieur
+à leur score avant la prise de niveau, ils conservent
+ce nouveau score. S'ils obtiennent un score inférieur ou
+égal à leur score maximal de PC avant la prise de niveau,
+ils gagnent un unique point de combativité. Un personnage
+ne peut jamais dépasser un score de PC supérieur
+à [8xDV + modificateur de CON]. À terme, ils pourront
+donc maximiser leur nombre de points de combativité
+sans dépasser leur maximum. Le seul moyen de le dépasser
+est l'acquisition du don Coriace et l'augmentation
+du score de Constitution (et de son modificateur).
+Points de vitalité
+Les PVit mesurent les blessures plus importantes. Un
+personnage possède un nombre de PVit égal à son score
+de Constitution + la moitié du dé de vie de sa classe +
+son niveau (avec un maximum de 8, c'est-à-dire que
+pour un personnage de niveau 10, on gardera le chiffre 8
+pour ce calcul).
+Subir des dégâts
+Quand un personnage reçoit des dommages, il perd
+tout d'abord « normalement » ses PC. Cependant, quand
+un personnage subit un coup critique (ou qu'il obtient
+un 1 naturel sur un jet de sauvegarde contre un sort),
+contrairement aux règles de base de Héros & Dragons,
+jetez deux fois les dégâts de votre arme. Appliquez-les une
+fois aux PC, puis la seconde fois aux PVit. En cas de dés
+additionnels tels que l'attaque sournoise, appliquez aux
+PVit les dégâts fixes tels que décrits plus loin (cf. Spécial :
+l'attaque sournoise). Si le personnage n'a plus de PC, doublez
+simplement les dégâts et appliquez-les aux PVit. Si
+une capacité vous offre un bonus aux dégâts spécifique
+en cas de critique (comme la capacité "critique brutal"
+du barbare), appliquez par défaut les dégâts issus de cette
+source sur les PC. Oui, les critiques sont mortels, surtout
+avec une attaque sournoise. S'il ne lui reste plus aucun
+PC, alors l'intégralité des dégâts est doublée.
+Ce n'est que lorsqu'un personnage arrive à 0 PC (ou
+qu'il subit un coup critique) que les spécificités de ce système
+entrent en jeu. Elles sont détaillées dans les paragraphes
+qui suivent.
+Cette double jauge peut rendre les personnages de bas
+niveau plus résistants que leurs homologues de Héros
+& Dragons. Cependant, à partir du niveau 3, ils deviennent
+plus fragiles face à des créatures puissantes.
+0 PC
+Arrivé à 0 PC, un personnage doit effectuer un jet de sauvegarde
+de Constitution contre une difficulté égale à [8 + modificateur
+de la caractéristique ayant infligé les dégâts + Indice
+de Dangerosité (minimum 1)] de l'adversaire afin d'éviter de
+tomber inconscient. Si les dégâts ont été causés par un sortilège,
+un rituel, un piège ou un élément naturel, la difficulté du
+jet de sauvegarde de Constitution est égale au degré de difficulté
+de l'obstacle ou du jet de sauvegarde pour y échapper.
+En cas d'échec, le personnage tombe inconscient et subit
+une blessure légère (cf. la table des blessures page 45). Si le
+coup infligeant les dégâts est une réussite critique, il subit une
+blessure sérieuse. En cas de réussite, il n'est pas inconscient
+et ne subit pas de blessure. Il peut encore agir normalement.
+De plus, tous les dégâts excédentaires qui auraient dû amener
+le personnage en dessous de 0 sont appliqués aux PVit.
+0 PVit
+Quand un personnage arrive à 0 PC, s'il subit de nouveaux
+dommages, ce sont alors ses PVit qui sont entamés.
+Une fois arrivé à 0 PVit, le personnage meurt.
+Quand des dégâts sont infligés aux PVit, aucune Résistance
+aux dégâts ne s'applique. Cependant, pour toute
+créature possédant un Indice de Dangerosité supérieur
+à 9, les Résistances s'appliquent tant que la créature n'est
+pas arrivée à 0 PC (donc sur les coups critiques).
+Spécial : les dégâts d'attaque sournoise
+L'attaque sournoise du roublard est un peu particulière.
+Elle offre une certaine puissance au Roublard, lui
+permettant de faire des dégâts massifs et rapidement.
+Lorsqu'un roublard effectue une attaque sournoise, plusieurs
+options s'offrent à lui.
+Il peut, s'il le désire, effectuer une attaque sournoise
+non-mortelle. Elle s'exécute alors comme dans les règles de
+base de Héros & Dragons, mais si l'attaque amène la créature
+visée à 0PC, les dégâts excédentaires ne s'appliquent
+pas aux PVit. Cependant, la difficulté du jet de sauvegarde
+afin d'éviter l'inconscience est augmentée du nombre de dé
+d'attaque sournoise jetés par le roublard. Ainsi, un roublard
+de niveau 3 jette 2d6 dégâts supplémentaires dus à son attaque
+sournoise. Le test se fera alors avec une difficulté de
++2 (et +4 s'il a obtenu une réussite critique sur son attaque).
+Il peut aussi effectuer une attaque sournoise normale.
+Les dégâts sont appliqués normalement selon les règles
+présentes dans ce livre. Cependant, si l'adversaire tombe
+à 0PC, les dégâts reportés sur les PVit sont divisés par 2.
+S'il est déjà à 0PC, les dégâts sont appliqués normalement.
+Il peut enfin effectuer une attaque sournoise en
+conjonction avec une attaque féroce. Le roublard doit
+alors trouver comment obtenir l'avantage sur son attaque
+afin d'annuler le désavantage de l'attaque féroce.
+L'attaque sournoise prend place normalement."
+Éviter de perdre des PVit
+Un joueur dont le personnage subit des dégâts infligés à ses
+PVit peut décider de réduire de moitié cette perte de points,
+ou de l'annuler totalement. S'il la réduit de moitié, il décide
+alors de tirer une blessure légère aléatoire. S'il l'annule, il décide
+alors de tirer une blessure sérieuse aléatoire (cf. table
+des blessures ci-contre). Lors d'un unique combat, vous
+pouvez subir [modificateur de constitution] (minimum 2)
+blessures légères et [modificateur de constitution/2] (minimum
+1) blessures graves. Un personnage ne peut supporter
+d'avoir au maximum [modificateur de Constitutionx2]
+(minimum 2) blessures légères, et [modifiacteur de Consitution]
+(minimum 1) blessures graves en même temps.
+Regagner des PC
+Pour regagner des PC, la règle sur les points de vie de
+Héros & Dragons s'applique normalement. Les pouvoirs
+magiques de druide et les capacités de barde s'appliquent
+normalement aux PC, autant que la dépense de dés de
+vie et toute autre capacité de guérison.
+Regagner des PVit
+C'est un cas un peu différent. Chaque personnage regagne
+un certain nombre de PVit par jour. Ce nombre dépend
+des conditions dans lesquelles le personnage guérit, ainsi
+que des soins apportés. Un jet de Médecine d'une difficulté
+égale à [20 - modificateur de Constitution du blessé] est nécessaire
+afin que les soins prodigués soient efficaces. Ce jet
+doit être renouvelé chaque jour si les personnages voyagent
+ou ont une activité modérée ou intense, et chaque semaine
+si le blessé est au repos complet (Cf. tableau ci-contre).
+Éviter la mort
+Le joueur d'un personnage ayant atteint 0 PVit peut décider
+que son personnage ne meurt pas. À la place, il peut
+tirer sur la table des séquelles (cf. la table des séquelles cicontre).
+Les séquelles sont des blessures graves et durables.
+Vous ne pouvez en subir qu'une par combat.
+Guérir des blessures
+Une blessure légère nécessite [7 - modificateur de
+Constitution] jours pour être guérie, avec un minimum
+incompressible de 1 jour. Une blessure sérieuse
+nécessite [7 - modificateur de Constitution] semaines
+pour être guérie, avec un minimum incompressible de
+1 semaine. Enfin, une séquelle ne guérit jamais.
+Un test d'intelligence (Médecine) difficulté 15 (pour
+les blessures légères) ou 20 (pour les blessures sérieuses)
+permet de diviser le temps de récupération par 2. Pour
+les blessures sérieuses, cela ne fonctionne que si l'activité
+du personnage est nulle ou modérée (minimum une demi-
+journée de repos par jour). Si un personnage a subi
+plusieurs blessures, il guérit une blessure après l'autre.
+Les blessures sérieuses sont les premières à être guéries,
+puis les légères. S'il a plusieurs blessures du même type,
+elles guérissent dans l'ordre d'obtention des blessures.
+Note : tant que le combat n'est pas terminé, le personnage ne
+ressent pas les effets des blessures subies. Ce n'est qu'une fois
+que la poussière retombe et que l'adrénaline redescend que les
+niveaux de blessure agissent. À partir de ce moment précis, le
+personnage subit les effets techniques de son niveau de blessure
+jusqu'à ce que le personnage soit définitivement guéri.
+Regagner ses points de vitalité
+Conditions Regain de vitalité pour une nuit de repos
+Activité intense 1 point, ou 0 si le modificateur de Constitution du personnage est
+inférieur à +2
+Activité modérée (repos complet sur
+une demi-journée) Modificateur de Constitution divisé par deux (minimum 1).
+Repos complet Modificateur de Constitution (minimum 2)
+Jet de Médecine réussi Doubler le nombre de points récupérés
+Blessures
+1d12 Blessure légère technique
+1 Arcade ouverte Désavantage sur les tests liés à la vue
+2 Main écrasée Désavantage sur les tests liés à la manipulation manuelle de précision
+3 Mâchoire déboitée Désavantage sur les tests nécessitant de parler et de se faire comprendre
+4 Commotion légère Désavantage sur les tests de connaissance
+5 Côte fêlée Désavantage sur les tests liés à l'effort physique
+6 OEdème dorsal Désavantage sur les jets de sauvegarde de Dextérité
+7 Cheville foulée Désavantage sur les tests liés à la vitesse
+8 Poignet tordu Désavantage sur les tests d'attaque
+9 Nez cassé Désavantage sur les tests liés à un effort intense
+10 Plaie superficielle Désavantage sur les jets de sauvegarde de Charisme
+11 Gorge écrasée Désavantage sur tous les tests liés à l'interaction sociale
+12 Hématome à la
+nuque Désavantage sur les jets de sauvegarde d'Intelligence et de Sagesse
+1d12 Blessure sérieuse technique
+1 Commotion sévère Désavantage sur tous les tests de Sagesse et d'Intelligence
+2 Bras cassé Désavantage sur tous les tests de Force, impossibilité de porter une seconde arme ou
+un bouclier.
+3 Éventration Désavantage sur tous les tests de Constitution et les jets de sauvegarde de
+Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.
+4 Jambe fracturée Désavantage sur tous les tests de Dextérité et les jets de sauvegarde de Dextérité.
+5 Épaule brisée Désavantage sur tous les tests de Force, impossibilité de rajouter son bonus de Force
+aux dégâts.
+6 Main broyée Désavantage sur tous les tests d'attaque impliquant la Dextérité, impossibilité de
+rajouter son bonus de caractéristique aux dégâts.
+7 Côtes cassées Désavantage sur tous les tests de Constitution et de Dextérité.
+8 OEil balafré Désavantage aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux
+tests de Charisme (sauf Charisme (Intimidation)).
+9 Hanche éclatée Désavantage sur tous les tests de Dextérité et Force
+10 Torse tailladé Désavantage sur tous les tests de Dextérité et sur les jets de sauvegarde de
+Constitution.
+11 Mâchoire brisée Désavantage sur tous les tests de Charisme.
+12 Pied transpercé Désavantage sur tous les tests de Dextérité et les adversaires ont l'avantage sur leurs
+tests d'attaque.
+Et pour les créatures et PNJ ?
+Les choses fonctionnent peu ou prou de la même manière.
+Un monstre ou un PNJ possède un nombre de PC égal
+à son score de PV, ainsi qu'un nombre de PVit égal à son
+score de Constitution + 4 + son Indice de Dangerosité.
+Le système de gestion des deux jauges fonctionne de
+la même façon que pour les PJ si ce n'est les exceptions
+suivantes.
+Quand une créature arrive à 0 PC, il y a deux façons
+de procéder selon qu'il s'agit d'un adversaire mineur
+ou majeur. Pour un adversaire mineur, 0 PC ou 0 PVit
+signifie la mort. Pour un adversaire majeur, les règles
+sont les mêmes que pour les PJ. Elles peuvent donc aussi
+subir des blessures légères et graves de la même manière
+que les PJ (avec les mêmes limitations).
+Une créature possédant des actions légendaires peut
+décider d'en dépenser une pour annuler totalement
+une perte de PVit. La créature peut aussi décider de
+dépenser une action légendaire afin d'infliger la moitié
+des dégâts qu'elle inflige aux PVit de la cible.
+Une créature possédant l'aptitude résistance légendaire
+peut aussi dépenser une utilisation de cette dernière
+afin de diviser par deux une perte de PVit. Elle
+peut dépenser deux utilisations afin d'annuler totalement
+une perte de PVit.
+Tuer ou garder en vie
+Quand un monstre ou un PNJ arrive à 0 PVit, vous
+avez trois options.
+»» Laisser la créature mourir. Les PJ avaient clairement
+l'intention de la tuer, et sa survie n'a aucun
+intérêt pour la suite de l'histoire.
+»» La créature est importante, gérez-la comme un PJ.
+Vous pouvez choisir de lui infliger une séquelle
+pour éviter la mort. À vous de voir si elle est alors
+capable de s'enfuir ou de se faire passer pour
+morte… ou si elle sera capturée, selon la logique
+que dicte la situation. Pour une créature possédant
+des actions légendaires, la dépense d'une action
+légendaire lui permet de fuir malgré les blessures,
+à condition de trouver un récit qui convienne à
+tous autour de la table.
+»» Laissez les joueurs choisir d'achever ou non la
+créature. Si la situation n'est pas totalement claire,
+alors que les joueurs fassent leur choix : l'achèveront-
+ils ou l'assommeront-ils pour la capturer ?
+Desobjetsmagiquesrareset
+merveilleux
+Dans les cinq royaumes, les objets magiques sont extrêmement
+rares et ne sont pas l'oeuvre d'un puissant mage.
+Chaque objet s'infuse de magie grâce à celui qui le manie
+ou le forge. Quand les conditions sont particulières, dramatiques,
+fortes, puissantes…, alors un objet peut devenir magique.
+C'est ainsi que l'on ne trouve pas de « bouclier +1 ».
+Mais le boulier de Garundar, héros de la bataille finale
+contre les barbares venus du Nord, trempé du sang de celui
+qui s'est sacrifié pour sauver son roi d'un coup de hache,
+est effectivement aujourd'hui animé d'une énergie surnaturelle.
+Chaque objet possède ainsi une histoire et en récupérer
+un devrait être la finalité d'une quête longue et difficile.
+La plupart des objets magiques possèdent une puissance
+limitée. Ce sont au mieux des épées ou des pièces
+d'armure de famille, se passant de génération en génération,
+ou encore des objets dont la réputation est telle
+qu'on leur prête des capacités étranges. Les plus puissants
+sont d'une immense rareté. Ne tombez pas dans le
+travers de distribuer moult objets magiques à vos PNJ :
+pour un PNJ comme pour un PJ, posséder un objet magique
+est quelque chose de très peu commun.
+Nous vous déconseillons donc de donner un objet magique,
+quel qu'il soit, trop tôt dans l'évolution des personnages.
+Mais pour aller plus loin encore, nous vous déconseillons
+de leur permettre d'en posséder plusieurs chacun.
+Ne vous contentez pas de leur donner des objets, armes et
+armures possédant un simple bonus. Il est plus intéressant
+que les objets en jeu possèdent de véritables capacités extraordinaires.
+Mais n'hésitez pas à donner à chaque objet une
+volonté propre : la magie qu'il porte vient de la volonté de
+son créateur ou de son premier porteur, et il en garde la trace.
+Il est, d'une certaine manière, habité par un fragment de cet
+esprit. Quand un personnage entre en possession de l'objet, il
+se lie à lui et à son esprit. Mais l'objet possède une personnalité
+: si son porteur va à l'encontre des principes fondamentaux
+qui ont présidé à sa création, alors l'objet cesse de fonctionner
+tant que le personnage n'agit plus dans le « bon sens. »
+Les objets permettant d'obtenir un bonus peuvent évoluer à
+mesure que leur niveau augmente. Considérez que le bonus
+de l'objet magique équivaut au maximum au bonus de maîtrise
+du personnage divisé par deux (arrondi au supérieur).
+Concernant les capacités spéciales des objets, là encore,
+elles peuvent évoluer ou devenir petit à petit plus puissantes
+pour accompagner la montée en niveaux d'un personnage.
+Mais faites-en sorte que la force de personnalité des objets
+évolue aussi. Un objet +1 (ou Peu courant) devrait avoir une
+influence très faible sur son porteur : son esprit et sa volonté
+sont trop faibles. Un objet +3 (ou Rare, ou Légendaire) devrait,
+quant à lui, posséder une volonté affirmée et pouvoir
+communiquer d'une manière ou d'une autre avec le porteur.
+Aller encore plus loin ?
+Les cinq royaumes sont un univers qui se prête particulièrement
+bien à des groupes sans une once de magie.
+Certains pourraient ainsi trouver appréciable et rafraîchissant
+de reléguer les jeteurs de sorts au rang de PNJ
+étranges, rares et mystérieux. Il convient alors d'éliminer
+aussi la classe de druide. L'ambiance sera radicalement
+différente. Le fantastique et la magie seront plus rares mais
+ceci ne devrait pas vous empêcher de jouer des aventures
+palpitantes. Dans ce mode de jeu, vous pourriez bien tirer
+la substantifique moelle de l'ambiance de l'univers. C'est
+la manière d'envisager l'univers la plus en accord avec la
+façon dont il a été pensé au départ. Après, libre à vous…
+
+
+Ces dons ne sont pas accessibles
+Concentré, Fléau des mages, Initié des arcanes,
+Initié de la foi, Mage combattant, Sang
+de sorcier, Sang des étoiles, Sort de prédilection,
+Volonté de fer
+
+
+Concernant l'attaque sournoise
+L’attaque sournoise devient une technique
+réellement mortelle. Un roublard peut, grâce
+à l’attaque féroce, réduire à 0 les PVit d’un adversaire.
+Soyez plus exigeant, demandez bien
+au joueur de chercher des stratégies efficaces :
+qu’il soit discret et surprenant. Que les choses
+ne soient jamais évidentes ! Une simple prise
+en tenaille ne devrait jamais suffire.
+
+
+
+Option encore plus mortelle
+Pour plus de mortalité et des combats expéditifs,
+vous pouvez décider qu'en cas de coup critique,
+les dégâts de l'arme sont doublés et que l'intégralité
+de ces derniers s'applique aux points de vitalité.
+Alternativement, vous pouvez décider que le
+nombre de PVit est égal au score de Constitution
+du personnage, sans aucun autre bonus. En effet,
+certains pourraient trouver le score de PVit trop
+élevé. Enfin, pour plus de difficulté, vous pouvez
+décider d'appliquer les conséquences d'une
+blessure directement au moment où le personnage
+la subit, et non après le combat.
+
+
+
+Viser où ça fait mal !
+Un joueur peut décider de viser là où ça fait
+mal et tenter de toucher directement les PVit
+de son adversaire sans attendre une réussite
+critique.
+Avant de porter une attaque, il doit déclarer
+qu'il effectue une attaque féroce. Il effectue
+alors un test d'attaque avec désavantage. En
+cas de réussite, il inflige l'intégralité des dégâts
+aux PVit de son adversaire, et la moitié des dégâts
+à ses propres PC (ceci représentant l'effort
+nécessaire pour passer la défense de son adversaire).
+En cas d'échec sur le test d'attaque, il
+jette tout de même les dégâts et s'inflige la moitié
+à ses propres PC. Le personnage peut éviter
+cette perte en prenant, à la place, un niveau de
+fatigue.
+
+
+
+
+1d12 Séquelle technique
+1 Crâne fendu Le personnage a des problèmes de mémoire. Une fois par séance, le Meneur de Jeu peut
+décréter que le personnage ne se souvient pas d'une information ou d'une scène.
+2
+Tendons
+d'une main
+coupés
+Le personnage ne peut plus saisir avec la main concernée. Cela compromet son utilisation
+d'armes nécessitant deux mains, et le combat à deux armes. Il peut toujours tirer avec
+un arc en utilisant un accessoire lui permettant de tenir arc ou corde, mais est affublé du
+désavantage à l'attaque.
+3 Main
+tranchée
+Le personnage ne peut plus utiliser la main tranchée. Ses tests de caractéristique concernant
+des actions physiques requérant deux mains ont le désavantage.
+4 Rotule
+éclatée
+La vitesse du personnage est divisée par deux. Ses tests de caractéristique concernant des
+actions physiques requérant l'usage actif des jambes ont le désavantage.
+5 OEil percé Le personnage subit un désavantage aux tests d'attaque.
+6 Doigts
+sectionnés
+Le personnage ne peut plus utiliser d'arc. Il tient difficilement ses armes et le dé de dégâts de
+ces dernières est réduit d'un cran (1d10 devient 1d8 par exemple, ou 2d6 deviennent 1d10)
+7 Poumon
+transpercé
+Le personnage ne peut plus faire d'efforts comme avant. Tous les tests et jets de sauvegarde
+impliquant la Force ou la Constitution ont le désavantage.
+8 Cheville
+disloquée
+Le personnage n'a presque plus rien pour tenir sa cheville. Tous les tests impliquant les jambes
+subissent le désavantage. De plus, le personnage boite et tout test réalisé afin de passer
+inaperçu subit aussi un désavantage.
+9 Pied
+sectionné
+Le personnage a un pied en moins, qu'il devra remplacer par une prothèse grossière. Tous les
+tests impliquant la course, l'escalade ou les acrobaties subissent le désavantage. Espérons
+qu'il n'en perde pas un second !
+10 Visage
+écrasé
+Le visage du personnage a été littéralement brisé. Même sa mère ne saurait le reconnaître.
+Malheureusement, il est plus ridicule qu'effrayant. Les gens le fuient ou le harcèlent, et surtout
+ne lui portent plus crédit. Tous les tests de caractéristique en lien avec la sociabilité et le
+Charisme sont affublés du désavantage.
+11 Dos brisé
+La structure osseuse même du dos a été atteinte. La colonne n'est pas sectionnée, mais le
+personnage a perdu une immense partie de sa souplesse. Tous ses tests liés à la dextérité
+subissent le désavantage. De plus, il ne peut plus ajouter sa dextérité à la CA.
+12 Trippes
+sectionnées
+Le personnage est sujet à des douleurs chroniques qui lui gâchent la vie, voire le mettent en
+danger. Une fois par séance, le MJ peut décider que les douleurs se réveillent. Le personnage a
+le désavantage sur tous ses tests de caractéristique et jets de sauvegarde. Cependant, dès la
+fin de la scène, le personnage gagne l'inspiration.
+
+
+
+
+Option : un peu moins de mortalité
+Si vous désirez être un peu moins punitif, vous
+pouvez décider d'adopter une des trois (ou les
+trois) options qui suivent.
+Bris d'armure. Un joueur peut décider d'éviter
+la totalité d'une perte de PVit en déclarant que
+son armure est brisée sous la puissance du coup.
+Elle devient alors inutilisable, bouclier compris,
+et ne procure plus aucun bonus à la CA. Il en va
+de même pour une armure infusée de magie.
+L'inspiration. En dépensant une inspiration,
+un personnage peut ignorer la moitié (ou la totalité,
+selon votre préférence) de la perte de PVit
+subie sur un coup.
+L'abandon. À tout moment, avant que les dés
+ne soient lancés, un joueur peut abandonner le
+conflit. Son personnage est mis hors combat,
+il est laissé pour mort, abandonné, ou simplement
+il réussit à se mettre à l'abri avant de perdre
+connaissance. Trouvez, en accord avec le MJ,
+une raison valable pour que le personnage, inconscient,
+survive. Il ne pourra cependant pas tirer
+avantage de cette situation. C'est la scène typique
+où le héros est laissé pour mort, tombe d'une falaise
+dans la rivière en contrebas, bascule par la
+fenêtre dans un tas de foin, etc. Cette méthode est
+atypique et à réserver aux joueurs et MJ qui souhaitent
+inclure un peu de narration partagée dans
+le jeu. Mais ceci n'est qu'une option, même si elle
+est fortement conseillée si vous décidez de jouer
+en campagne longue en tentant de minimiser les
+pertes de personnage. Si vous l'utilisez, cependant,
+laissez le temps au joueur de s'exprimer avant de
+lancer les dés lors d'une attaque de l'une de vos
+créatures. Tant que vous n'avez pas lancé le d20,
+il est encore temps pour le joueur de décider que
+son personnage abandonne le conflit !
+Utiliser ces trois options réduit grandement
+la possibilité de voir un personnage tomber.
+Le bris d'armure devrait cependant être accompagné
+d'une gestion serrée des ressources
+rendant difficile l'acquisition d'une nouvelle armure
+afin d'en faire un choix difficile, même s'il
+restera préférable à une séquelle.
+
+
+
+Lescréatures sontvraimentdangereuses
+alors ?
+Oui, certaines créatures, notamment de très
+haut niveau, deviennent redoutables. Mais
+aussi paradoxalement fragiles. Cependant,
+à partir du niveau 9, les créatures puissantes
+restent des dangers réels et mortels. Mais les
+créatures dont l'Indice de Dangerosité est de
+10 ou plus sont particulièrement rares dans
+les cinq royaumes. Pour les plus puissantes
+(comme les terribles mais rarissimes dragons),
+n'hésitez pas à en faire un vecteur d'histoire : la
+créature est d'une puissance immense, mais un
+objet magique, une arme sacrée ou un sombre
+rituel sont en capacité de l'affaiblir (l'amenant
+à un Indice de Dangerosité plus raisonnable).
+Ne prenez cependant pas l'Indice de Dangerosité
+pour argent comptant : le système de
+double jauge peut rendre le combat rapide et
+expéditif pour les PJ comme pour les créatures,
+surtout en cas de coups critiques.
+
+
+
+Pas de magie divine ?
+Les dieux existent, sûrement, et le Démiurge
+aussi. Mais aucun dieu n'investit quelque humain
+de pouvoirs magiques. Leur présence est
+plus subtile : la foi peut amener des miracles, les
+hommes peuvent découvrir d'anciennes reliques
+divines et magiques possédant d'étonnants pouvoirs.
+Cependant, s'il est possible pour un personnage
+d'être laïc, il est impensable d'être athée. On
+peut remettre en question la volonté des dieux
+d'aider l'humanité, mais pas leur existence. D'une
+manière ou d'une autre, chaque personnage est
+spirituel, qu'il croie en le Démiurge, en les anciens
+dieux, en les dieux des Mörrträadi, ou encore en
+les esprits naturels et les incarnations de la nature
+des hommes du Nord. Peu importe : le divin
+fait partie du monde et de la vie, et il n'est pas rare
+de prononcer une petite prière pour se donner de
+la chance ou du courage avant d'entreprendre
+une tâche importante.
+Les potions
+Les potions sont rares, mais elles ne sont pas magiques.
+Ce sont des décoctions spéciales permettant
+simplement de stimuler les capacités d'un
+individu. Elles sont souvent l'oeuvre de rebouteux
+ou de sorcières, mais aussi parfois d'érudits se versant
+dans l'art de la médecine et de la guérison.
+Les potions suivantes n'existent pas : potion
+d'agrandissement, potion de forme gazeuse,
+potion de vol, potion d'amitié avec les animaux,
+potion d'invisibilité, potion de lecture
+des pensées, potion de respiration aquatique.
+
+
+

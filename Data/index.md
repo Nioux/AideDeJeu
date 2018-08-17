@@ -1,7 +1,7 @@
 # Manuel des règles
-
+<!--
 ## [Création du personnage]
-
+-->
 ## [Races](races_hd.md)
 
 ## [Personnalité et Historique](personnality_background_hd.md)
@@ -24,6 +24,8 @@
 
 ## [Description des Sorts](spells_hd.md)
 
+## [Panthéons](pantheons_hd.md)
+
 # Cadre de campagne
 
 ## [Objets magiques](magicitems_hd.md)
@@ -34,9 +36,25 @@
 
 ### [Artefacts](artifacts_hd.md)
 
+## [Jouer dans un multivers](planes_hd.md)
+
 # Créatures et oppositions
 
 ## [Créatures](monsters_hd.md)
+
+## [Pièges](traps_hd.md)
+
+## [Maladies](diseases_hd.md)
+
+## [Folie](madness_hd.md)
+
+## [Objets](objects_hd.md)
+
+## [Poisons](poisons_hd.md)
+
+# Les Cinq Royaumes
+
+## ?
 
 # SRD
 
