@@ -52,10 +52,6 @@
 
 ## [Poisons](poisons_hd.md)
 
-# Les Cinq Royaumes
-
-## ?
-
 # SRD
 
 ## [Conditions](conditions_vo.md)
