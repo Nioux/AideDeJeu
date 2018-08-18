@@ -3,15 +3,21 @@
 
 ## Barde des cinq royaumes
 
+- <Source>(L5R p55)</Source>
+
 [][Generic]
 
 ### Aptitudes de classe
+
+- <Source>(L5R p56)</Source>
 
 Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du barde de Héros & Dragons.
 
 [][Generic]
 
 #### Tableau d'évolution
+
+- <Source>(L5R p56)</Source>
 
 |Niveau|bonus de<br>maîtrise|Aptitudes|
 |---|---|---|
@@ -41,6 +47,8 @@ Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras da
 
 #### Maître des ombres
 
+- <Source>(L5R p56)</Source>
+
 Vous savez passer inaperçu. Vous pouvez passer 10 minutes avec du matériel de déguisement afin d'obtenir les effets du sort [Déguisement]. Votre déguisement est si efficace qu'il est presque impossible de le percer à jour. Pourtant, il ne s'agit que d'un déguisement. Vous devez attendre d'avoir effectué un repos long avant d'utiliser à nouveau cette capacité.
 
 De plus, vous êtes capable, en passant une dizaine de minutes à parler avec une cible, de plonger une créature de taille inférieure ou égale à la vôtre dans une torpeur proche du sommeil. Dépensez un dé d'inspiration bardique. La créature ciblée doit effectuer un jet de sauvegarde de Charisme contre un score égal à 8 + votre modificateur de Charisme + votre bonus de maîtrise. Si le jet échoue, la cible s'endort pour 10 minutes par niveau. Si le jet réussit, elle n'est pas affectée par cette capacité et ne peut plus y être sujette pour les prochaines 24 heures.
@@ -50,6 +58,8 @@ Au niveau 7, vous devenez capable de créer de petits fumigènes explosifs. Une 
 [][Generic]
 
 #### Présence amicale
+
+- <Source>(L5R p56)</Source>
 
 Simplement en parlant avec une personne, vous êtes capable de la mettre dans votre poche. En discutant une minute avec une créature capable de vous comprendre, vous pouvez lancer l'équivalent (non magique) du sort [charme personne]. La sauvegarde s'effectue contre un score égal à 8 + votre modificateur de Charisme + votre bonus de maîtrise.
 
@@ -63,11 +73,15 @@ Au niveau 9, vous devez désormais effectuer un simple repos court entre deux ut
 
 #### Esprit insondable
 
+- <Source>(L5R p57)</Source>
+
 Au niveau 5, vous obtenez l'[avantage] sur vos jets de sauvegarde de Sagesse et de Charisme.
 
 [][Generic]
 
 #### Distraction
+
+- <Source>(L5R p57)</Source>
 
 Vous lancez une série d'invectives et de phrases étranges capables de plonger votre interlocuteur dans le plus profond désarroi. En passant un round entier à invectiver une créature capable de vous comprendre, vous pouvez lancer l'équivalent (non magique) du sort [confusion]. Le jet de sauvegarde s'effectue contre un score égal à 8 + votre modificateur de Charisme + votre bonus de maîtrise.
 
@@ -79,6 +93,8 @@ Vous devez effectuer un repos long entre deux utilisations de cette capacité.
 
 #### Maître espion
 
+- <Source>(L5R p57)</Source>
+
 Vous êtes passé maître dans l'art de tromper votre monde ainsi que d'obtenir des informations quel qu'en soit le prix. Choisissez deux compétences ou types d'outils parmi les suivants : les compétences Tromperie, Persuasion, Intimidation, Escamotage et les Outils de voleur ou Outils de contrefaçon. Quand vous effectuez un jet de dé afin de tester l'une de ces deux compétences ou outils, et que vous obtenez un résultat sur le dé inférieur à 10, vous pouvez ignorer le résultat du dé. Considérez que le résultat du dé est alors de 10. Il est nécessaire de prendre un repos court entre deux utilisations de cette capacité sur la même compétence.
 
 Au niveau 14, vous pouvez choisir deux nouvelles compétences ou outils dans la liste ci-dessus.
@@ -88,6 +104,8 @@ Au niveau 18, vous pouvez utiliser cette capacité deux fois entre deux repos co
 [][Generic]
 
 #### Manipulation de l'esprit
+
+- <Source>(L5R p57)</Source>
 
 Vous avez élevé l'art de la voix et de la manipulation de l'esprit à un tel niveau que votre maîtrise a quelque chose de surnaturel. En passant une minute à chanter, vous pouvez provoquer chez une créature l'équivalent du sort [danse irrésistible] (le jet de sauvegarde s'effectue contre un score égal à 8 + votre modificateur de Charisme + votre bonus de maîtrise).
 
@@ -101,17 +119,23 @@ Au niveau 18, vous devez désormais effectuer un simple repos court entre deux u
 
 ### Collèges de bardes
 
+- <Source>(L5R p58)</Source>
+
 Tous les collèges issus du livre de base de Héros & Dragons sont compatibles avec cette version du barde, mais certaines capacités demandent modification.
 
 [][Generic]
 
 #### Collège du savoir
 
+- <Source>(L5R p58)</Source>
+
 La capacité [secrets magiques supplémentaires] est remplacée par [maître espion aguerri]. Choisissez deux compétences ou outils supplémentaires dans la liste de [maître espion] et appliquez-leur cette dernière aptitude. Lorsque vous arrivez au niveau 10 et que vous obtenez la capacité Maître espion, choisissez les compétences et outils normalement.
 
 [][Generic]
 
 #### Collège des saltimbanques
+
+- <Source>(L5R p58)</Source>
 
 Au niveau 14, si vous êtres une voyante, vous ne gagnez pas de sorts supplémentaires. À la place, vous obtenez la capacité [Augure]. Une fois par scénario, lorsqu'une scène ne s'est pas déroulée de la bonne manière à vos yeux, dépensez l'intégralité de vos dés d'Inspiration bardique et perdez un nombre de points de vitalité égal à la valeur de votre dé d'Inspiration bardique. Si vous avez déjà dépensé un ou plusieurs dés, vous perdez, en plus, un nombre de points de vitalité égal au nombre de dés d'Inspiration bardique déjà dépensés.
 
@@ -122,6 +146,8 @@ Au niveau 14, la capacité [Prouesse de cirque du Bouffon] est modifiée de la m
 [][Generic]
 
 #### Collège des diplomates
+
+- <Source>(L5R p58)</Source>
 
 Au niveau 3, la capacité [arsenal diplomatique] est modifiée de la manière suivante : en passant quelques instants à sentir un plat ou une boisson, puis en dépensant un dé d'Inspiration bardique, vous pouvez y détecter la présence d'un poison. De plus, vous obtenez l'[avantage] sur tout test effectué afin de l'identifier. Vous devenez compétent avec les Outils d'empoisonneur. Si vous l'êtes déjà, lorsque vous effectuez un test le concernant, si vous obtenez moins de 10 sur votre d20, vous pouvez ignorer le résultat du dé. Considérez que le résultat du dé est alors de 10.
 

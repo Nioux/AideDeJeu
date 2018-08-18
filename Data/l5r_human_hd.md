@@ -3,9 +3,13 @@
 
 ## Humain des cinq royaumes
 
+- <Source>(L5R p49)</Source>
+
 [][Generic]
 
 ### Traits de base des humains
+
+- <Source>(L5R p49)</Source>
 
 Les humains sont versatiles et talentueux. Contrairement aux faës, ils ne possèdent pas de pouvoirs particuliers et ne comptent que sur leurs compétences, leurs savoir-faire et leur ingéniosité.
 
@@ -17,6 +21,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils de la terre
 
+- <Source>(L5R p49)</Source>
+
 **Augmentation de Caractéristique.** Votre Force augmente de 1.
 
 **Sens commun.** Vous avez développé un sens commun et un pragmatisme propre à ceux qui vivent de la terre. Vous connaissez la sagesse populaire, savez calmer les esprits et rappeler le sens des priorités. Quand vous tentez de calmer les gens et d'apaiser une situation tendue, ou simplement de rappeler à certains le sens des priorités, vous obtenez l'[avantage] sur votre test de compétence.
@@ -26,6 +32,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 [][Generic]
 
 #### Fils du sel
+
+- <Source>(L5R p50)</Source>
 
 **Augmentation de Caractéristique.** Votre Dextérité augmente de 1.
 
@@ -37,6 +45,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils des bois
 
+- <Source>(L5R p50)</Source>
+
 **Augmentation de Caractéristique.** Votre Sagesse augmente de 1.
 
 **Entraîné à la chasse.** Vous maîtrisez l'arc long et la pique de guerre.
@@ -46,6 +56,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 [][Generic]
 
 #### Fils des cités
+
+- <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Intelligence augmente de 1.
 
@@ -57,6 +69,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils du vent
 
+- <Source>(L5R p51)</Source>
+
 **Augmentation de Caractéristique.** Votre Sagesse augmente de 1.
 
 **Voyageur.** Quand vous conduisez un attelage ou que vous montez un cheval ou une mule, vous avez l'avantage sur vos tests visant à les contrôler et à conserver leur contrôle en cas de panique.
@@ -66,6 +80,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 [][Generic]
 
 #### Fils du roc
+
+- <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Constitution augmente de 1.
 
@@ -77,6 +93,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Gwynnddaerain
 
+- <Source>(L5R p51)</Source>
+
 **Augmentation de Caractéristique.** Votre Charisme augmente de 1.
 
 **Chantre de la tradition.** Vous obtenez l'[avantage] sur tous les tests d'Intelligence (Histoire).
@@ -87,6 +105,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils des terres sauvages
 
+- <Source>(L5R p51)</Source>
+
 **Augmentation de Caractéristique.** Votre Constitution augmente de 1.
 
 **Menaçant.** Vous obtenez l'[avantage] sur vos tests de Charisme (Intimidation).
@@ -96,6 +116,8 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 [][Generic]
 
 #### Bâtard
+
+- <Source>(L5R p52)</Source>
 
 **Augmentation de Caractéristiques.** Votre Charisme augmente de 1.
 

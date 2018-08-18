@@ -3,15 +3,21 @@
 
 ## Druide des cinq royaumes
 
+- <Source>(L5R p59)</Source>
+
 [Generic]
 
 ### Aptitudes de classe
+
+- <Source>(L5R p59)</Source>
 
 Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du druide de Héros & Dragons.
 
 [Generic]
 
 #### Tableau d'évolution
+
+- <Source>(L5R p60)</Source>
 
 |Niveau|Bonus de<br>Maîtrise|Aptitudes|
 |---|---|---|
@@ -40,6 +46,8 @@ Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras da
 
 #### Gardien des traditions
 
+- <Source>(L5R p59)</Source>
+
 Vous connaissez les secrets de votre ordre. Vous êtes capable de véritables prouesses et savez canaliser la magie du monde, de la nature et des esprits. Vous connaissez d'anciens rites enseignés il y a longtemps par les dieux primordiaux, les aspects de la nature et même les premières faës. Au premier niveau, choisissez un secret parmi les secrets proposés plus bas.
 
 Aux niveaux 5, 9, 13 et 17, vous apprenez un secret supplémentaire. Il vous faut cependant vous rendre dans un lieu sacré de votre ordre afin d'y méditer pendant plusieurs jours avant d'accéder à la révélation, ou qu'un autre druide vous l'enseigne.
@@ -49,6 +57,8 @@ Vous pouvez utiliser chaque secret (et une seule des actions permises par celui-
 [Generic]
 
 ##### Baies apaisantes
+
+- <Source>(L5R p59)</Source>
 
 Vous cueillez quelques baies fraîches que vous enchantez lors d'un rituel ancestral. Plongeant les baies dans une eau de source pure et fraîche, au milieu d'un cercle de terre, au coeur d'une clairière consacrée pour l'occasion, vous leur octroyez des capacités extraordinaires. Le rituel dure une heure et doit être réalisé en début ou en fin de journée, à l'aube ou au crépuscule. Vous pouvez enchanter un nombre de baies égal à votre modificateur de Sagesse. Ces dernières, une fois ingérées, rendent 1d8 + \[modificateur de Sagesse\] points de combativité, ou \[modificateur de Sagesse\] points de vitalité. Une créature ne peut en ingérer qu'une par jour. Manger une baie suffit également à être rassasié et nourrit pour une journée entière.
 
@@ -63,6 +73,8 @@ Au niveau 17, le rituel permet également de guérir d'une maladie magique ou d'
 [Generic]
 
 ##### Parler aux arbres
+
+- <Source>(L5R p60)</Source>
 
 En passant une heure à incanter au milieu de la forêt, vous êtes capable de toucher la conscience des arbres autour de vous. Vous devenez en mesure de communiquer quelques instants avec eux. Plus un arbre est ancien, plus il est intelligent, mais plus il met de temps à répondre. Vous pouvez poser un nombre de questions égal à votre bonus de maîtrise. Les arbres communiquent entre eux et ils peuvent répondre sur des choses se passant dans un rayon de \[niveau du druide\] x 100m. Un arbre jeune répondra avec une intelligence de 5, un vieil arbre avec une intelligence de 8 et un arbre vénérable avec une intelligence de 16.
 
@@ -80,6 +92,8 @@ Ces créatures ne vous obéissent pas : vous devez négocier avec elles. Mais el
 
 ##### Maître des bêtes
 
+- <Source>(L5R p60)</Source>
+
 En utilisant la langue ancienne, vous êtes capable de communiquer avec les animaux et de les comprendre. Vous pouvez parlementer avec eux (mais sans jamais trop lever la voix), leur poser des questions et pourquoi pas vous en faire des alliés. Il vous faut une action pour psalmodier l'ancienne formule permettant d'établir un pont entre l'homme et l'animal. Ce pouvoir devient actif pendant un nombre de minutes égal à la moitié de votre niveau de druide (minimum une minute). Vous pouvez également utiliser ce pouvoir afin d'apaiser les animaux capables de vous entendre. Pour ce faire, vous ne devez pas crier, mais psalmodier d'anciens mots dans une langue étrange et gutturale.
 
 Au niveau 9, vous pouvez utiliser ce pouvoir entre deux repos courts.
@@ -90,6 +104,8 @@ Au niveau 13, quand vous communiquez avec eux, vous êtes capable d'éveiller le
 
 ##### Maître des brumes
 
+- <Source>(L5R p61)</Source>
+
 Vous passez une heure à psalmodier dans la langue du dragon puis vous canalisez votre souffle. Vous désignez une zone que vous pouvez voir se situant au moins partiellement en extérieur. Dans un rayon de 50m par niveau de druide, une brume se lève pour un nombre d'heures égal à votre niveau divisé par 4 (minimum 1), ou jusqu'à ce que vous arrêtiez de vous concentrer. Cette brume surnaturelle est épaisse et offre un couvert important. Tous les tests de perception au sein de la brume subissent un [désavantage], et tous les tests de discrétion bénéficient d'un [avantage]. La brume est épaisse mais un vent violent peut la dissiper. Elle se dissipe en un nombre de minutes égal à la moitié du niveau de druide (minimum une minute).
 
 Au niveau 9, cette brume devient magique et ne peut plus être dissipée, sauf par un vent magique.
@@ -97,6 +113,8 @@ Au niveau 9, cette brume devient magique et ne peut plus être dissipée, sauf p
 [Generic]
 
 ##### Maître des hommes
+
+- <Source>(L5R p61)</Source>
 
 L'être humain fait partie de la nature. Il n'y a que les hommes ne jurant que par la civilisation ainsi que les suivants du Démiurge pour vouloir s'extraire du règne naturel et placer l'humain au-dessus des autres espèces animales ou végétales. Les pouvoirs druidiques montrent bien à quel point l'humain et l'animal sont semblables. Vous pouvez susurrer un mot de pouvoir ancien à portée d'oreille de votre interlocuteur (un mètre maximum) afin de l'inciter à mener une action. Cette action doit être compréhensible en deux ou trois mots maximum. Il doit s'agir d'un ordre actif : « _soutiens-moi_ », « _écarte-toi_ » ou « _lâche cette arme_ » fonctionnent ; « _sois mon ami_ » est trop vague. La personne pense réellement faire pour le mieux et ne se souvient pas avoir agi contre son gré. Cependant, tout ordre qui contreviendrait à sa sécurité directe ou dans un futur proche ne peut être exécuté (comme attaquer une créature clairement trop puissante, se mettre dans une position telle qu'elle pourrait en mourir, etc.).
 
@@ -110,6 +128,8 @@ Au niveau 17, vous pouvez utiliser cette capacité entre deux repos courts.
 
 ##### Maître des vents
 
+- <Source>(L5R p61)</Source>
+
 En extérieur, vous passez une heure à psalmodier dans la langue ancienne et commandez aux vents et aux nuages. Vous pouvez faire se lever un vent qui balaie une zone de 50m de large par niveau de druide. Sa vitesse, en kilomètres par heure, est égale à votre niveau multiplié par 5. Ce vent dure une minute par niveau de druide ou jusqu'à ce que vous arrêtiez de vous concentrer. Vous ne pouvez en changer le sens ou déplacer la zone qu'il balaie.
 
 Au niveau 9, ce vent devient magique et il faut un jet de sauvegarde de Force contre une difficulté de **8** + \[**votre modificateur de Sagesse**\] + \[**votre bonus de maîtrise**\] afin de ne pas être mis à terre (1d8 dégâts).
@@ -121,6 +141,8 @@ Au niveau 17, vous soulevez une véritable tempête, et lorsque le vent dépasse
 [Generic]
 
 ##### Voyageur des terres
+
+- <Source>(L5R p62)</Source>
 
 Les druides errent sur les terres et certains ont appris à ne faire qu'un avec la terre et les arbres. Lorsque vous prononcez un mot de pouvoir, les plantes et arbres s'écartent devant vous. Plus aucun terrain ne devient difficile pour un nombre d'heures égal à votre niveau. De plus, vous ne laissez aucune trace derrière vous.
 
@@ -134,6 +156,8 @@ Au niveau 17, vous pouvez utiliser un arbre ancien comme un portail. En une heur
 
 ##### Colère de la nature
 
+- <Source>(L5R p62)</Source>
+
 Vous êtes l'incarnation de la colère de la nature et vous savez en maîtriser la puissance. Vous portez un bâton gravé de symboles anciens. Ce bâton porte votre nom véritable, un nom ésotérique qui est personnalisé et définit votre être le plus profond. Vous pouvez invoquer un mot de pouvoir afin de le transformer en une arme terrible, aussi dure que l'acier le plus solide. Votre bâton devient une arme considérée comme magique et vous pouvez remplacer le modifcateur de caractéristique utilisé afin d'attaquer et de faire des dommages par votre modifcateur de Sagesse (pour un nombre d'heures égal à votre modificateur de Sagesse). Au niveau 5, votre bâton peut se transformer en serpent venimeux pendant une heure, et cibler un ennemi de son venin. Si le serpent est tué, il redevient votre bâton.
 
 Au niveau 9, vous pouvez agiter plantes, buissons et racines autour de vous. Pendant un nombre de rounds égal à votre niveau, vos ennemis dans un rayon de 10m autour de vous subissent un [désavantage] à leurs tests d'actions, à leurs jets de sauvegarde physiques, ainsi qu'à leurs tests d'attaque.
@@ -146,6 +170,8 @@ Au niveau 17, la zone sur laquelle vous animez racines et arbustes s'étend à 5
 
 #### Secrets ancestraux
 
+- <Source>(L5R p62)</Source>
+
 Au niveau 3, choisissez une compétence liée à l'Intelligence. Quand vous effectuez un test avec cette compétence et que vous obtenez un résultat sur le dé inférieur à 10, vous pouvez ignorer le résultat du dé. Considérez que ce dernier est alors de 10.
 
 Aux niveaux 9 et 15, choisissez une nouvelle compétence liée à l'Intelligence.
@@ -154,11 +180,15 @@ Aux niveaux 9 et 15, choisissez une nouvelle compétence liée à l'Intelligence
 
 #### Bénédiction de Cernunos
 
+- <Source>(L5R p62)</Source>
+
 Au niveau 3, vous devenez capable de favoriser la fertilité des êtres et des plantes. En effectuant un rituel du crépuscule jusqu'à l'aube, vous pouvez bénir un champ ou une femme enceinte. Le champ sera aussi fertile que possible pour l'année à venir ; l'enfant naîtra sans difformité, ni maladie… Si la mère ou l'enfant à naître devaient être soumis à une malédiction, vous devez réussir un test de Sagesse (en y ajoutant votre bonus de maîtrise) contre une difficulté de **8** + \[**bonus de maîtrise**\] + \[**modificateur de caractéristique approprié à la créature qui les a maudit**\].)
 
 [Generic]
 
 #### Le souffle du dragon
+
+- <Source>(L5R p62)</Source>
 
 Quand Dagda toucha de sa main son premier enfant, il lui transmit la connaissance du dragon. Ce dernier n'est pas l'un de ces puissants êtres au corps reptilien dont parlent les légendes. Il est bien plus que ça. Les druides savent que la terre sur laquelle ils marchent constitue le corps du dragon. Les montages sont ses épines, les rochers ses écailles. Sommeillant depuis des temps immémoriaux, il fut, dit-on, apaisé et endormi par Dagda lui-même. Et quand il se réveillera, alors le monde des hommes trouvera sa fin. Bien qu'il soit endormi, sa puissance est toujours là, présente, et Dagda a appris à ses enfants comment la canaliser.
 
@@ -172,11 +202,15 @@ Au niveau 11, vous pouvez faire appel à l'esprit du dragon. La puissance spirit
 
 #### Forme animale
 
+- <Source>(L5R p64)</Source>
+
 Dans les cinq royaumes, l'aptitude [forme animale] subit quelques limitations. Ainsi, quand le druide acquiert cette aptitude, il doit choisir deux formes qu'il peut adopter en utilisant ce pouvoir. S'il désire acquérir des formes supplémentaires, il doit alors traquer l'animal dont il désire prendre la forme et passer une semaine entière à l'étudier. Ceci requiert un jet de Survie réussi contre une difficulté de 14 + \[valeur de Perception de l'animal\]. Si le jet échoue, le druide doit reprendre à zéro. Un druide ne peut posséder un nombre de formes animales mémorisées supérieur à son modificateur de Sagesse + 1.
 
 [Generic]
 
 #### Archidruide
+
+- <Source>(L5R p64)</Source>
 
 Dans les cinq royaumes, l'aptitude [archidruide][archidruide Druide] est légèrement modifiée dans son fonctionnement. L'aptitude permettant d'ignorer les composantes verbales, somatiques et matérielles devient obsolète. À la place, tous les pouvoirs issus de l'aptitude [Gardien des traditions] peuvent désormais être lancés entre deux repos courts.
 
@@ -184,11 +218,15 @@ Dans les cinq royaumes, l'aptitude [archidruide][archidruide Druide] est légèr
 
 ### Cercles de druides
 
+- <Source>(L5R p64)</Source>
+
 Tous les cercles issus du livre de base de Héros & Dragons sont utilisables avec le druide des cinq royaumes, mais certaines capacités demandent à être expliquées ou légèrement modifiées. De plus, les listes de sorts bonus de chaque cercle ne s'appliquent pas au druide des cinq royaumes, ce dernier ne lançant pas de sorts de manière traditionnelle.
 
 [Generic]
 
 #### Cercle des fées
+
+- <Source>(L5R p64)</Source>
 
 Le fonctionnement de ce cercle reste peu ou prou le même. Mais au vu du mystère qui tourne autour de la disparition des faës et de leur monde, certaines choses changent.
 
@@ -200,6 +238,8 @@ La capacité [disparition instinctive] vous permet de disparaître et de devenir
 
 #### Cercle de la Terre
 
+- <Source>(L5R p64)</Source>
+
 Le fonctionnement de ce cercle reste peu ou prou le même. Cependant, deux aptitudes changent :
 
 Tour de magie bonus devient [secret ancestral bonus]. Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence d'Intelligence supplémentaire et appliquez-lui le bonus de l'aptitude de classe secrets ancestraux.
@@ -210,11 +250,15 @@ Récupération naturelle devient [sens de la terre]. Vous posez vos deux mains �
 
 #### Cercle des Saisons
 
+- <Source>(L5R p64)</Source>
+
 Le fonctionnement de ce Cercle reste le même. Cependant, l'aptitude "Tours de magie bonus" devient [secret ancestral bonus]. Quand vous sélectionnez ce cercle au niveau 2, choisissez une compétence d'Intelligence supplémentaire et appliquez-lui le bonus de l'aptitude de classe secrets ancestraux
 
 [Generic]
 
 #### Cercle des profondeurs
+
+- <Source>(L5R p64)</Source>
 
 L'aptitude [Magie des profondeurs] fonctionne normalement. Cependant, ne pouvant dépenser d'emplacement de sorts afin d'effectuer des dégâts supplémentaires, vous devez désormais dépenser des dés de vie afin de rajouter 2d4 dégâts par dé de vie dépensé. Vous pouvez, à la place d'un dé de vie, décider de dépenser un niveau de fatigue.
 
