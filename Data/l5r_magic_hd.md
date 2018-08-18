@@ -3,7 +3,7 @@
 
 ## Des objets magiques rares et merveilleux
 
-- <Source>(L5R p48)</Source>
+- Source: (L5R p48)
 
 Dans les cinq royaumes, les objets magiques sont extrêmement rares et ne sont pas l'oeuvre d'un puissant mage. Chaque objet s'infuse de magie grâce à celui qui le manie ou le forge. Quand les conditions sont particulières, dramatiques, fortes, puissantes…, alors un objet peut devenir magique. C'est ainsi que l'on ne trouve pas de « bouclier +1 ». Mais le boulier de Garundar, héros de la bataille finale contre les barbares venus du Nord, trempé du sang de celui qui s'est sacrifié pour sauver son roi d'un coup de hache, est effectivement aujourd'hui animé d'une énergie surnaturelle. Chaque objet possède ainsi une histoire et en récupérer un devrait être la finalité d'une quête longue et difficile.
 
@@ -22,7 +22,7 @@ Concernant les capacités spéciales des objets, là encore, elles peuvent évol
 
 #### Ces dons ne sont pas accessibles
 
-- <Source>(L5R p42)</Source>
+- Source: (L5R p42)
 
 Concentré, Fléau des mages, Initié des arcanes, Initié de la foi, Mage combattant, Sang de sorcier, Sang des étoiles, Sort de prédilection, Volonté de fer
 
@@ -31,7 +31,7 @@ Concentré, Fléau des mages, Initié des arcanes, Initié de la foi, Mage comba
 
 #### Pas de magie divine ?
 
-- <Source>(L5R p48)</Source>
+- Source: (L5R p48)
 
 Les dieux existent, sûrement, et le Démiurge aussi. Mais aucun dieu n'investit quelque humain de pouvoirs magiques. Leur présence est plus subtile : la foi peut amener des miracles, les hommes peuvent découvrir d'anciennes reliques divines et magiques possédant d'étonnants pouvoirs. Cependant, s'il est possible pour un personnage d'être laïc, il est impensable d'être athée. On peut remettre en question la volonté des dieux d'aider l'humanité, mais pas leur existence. D'une manière ou d'une autre, chaque personnage est spirituel, qu'il croie en le Démiurge, en les anciens dieux, en les dieux des Mörrträadi, ou encore en les esprits naturels et les incarnations de la nature des hommes du Nord. Peu importe : le divin fait partie du monde et de la vie, et il n'est pas rare de prononcer une petite prière pour se donner de la chance ou du courage avant d'entreprendre une tâche importante.
 
@@ -39,7 +39,7 @@ Les dieux existent, sûrement, et le Démiurge aussi. Mais aucun dieu n'investit
 
 #### Les potions
 
-- <Source>(L5R p48)</Source>
+- Source: (L5R p48)
 
 Les potions sont rares, mais elles ne sont pas magiques. Ce sont des décoctions spéciales permettant simplement de stimuler les capacités d'un individu. Elles sont souvent l'oeuvre de rebouteux ou de sorcières, mais aussi parfois d'érudits se versant dans l'art de la médecine et de la guérison.
 

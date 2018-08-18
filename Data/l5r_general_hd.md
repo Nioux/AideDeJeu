@@ -3,13 +3,13 @@
 
 ## Règles générales
 
-- <Source>(L5R p42)</Source>
+- Source: (L5R p42)
 
 [][Generic]
 
 ### Niveau maximum optimal
 
-- <Source>(L5R p42)</Source>
+- Source: (L5R p42)
 
 Dans l'univers des cinq royaumes, on ne trouve pas une tour de mage dans chaque village, ni des créatures bizarres au moindre carrefour. Les ogres, les géants, les gobelins et autres créatures monstrueuses sont rares. Le gros des ennemis que les personnages vont affronter seront simplement humains. Dans cette optique, l'univers perd toute crédibilité s'il est joué avec des personnages de niveaux trop élevés.
 
@@ -19,7 +19,7 @@ Le niveau maximal optimal pour une campagne au sein des cinq royaumes devrait ê
 
 ### Moins de classes jouables
 
-- <Source>(L5R p42)</Source>
+- Source: (L5R p42)
 
 L'univers des cinq royaumes ne s'accommode pas de la présence de toutes les classes de personnage. Les restrictions qui suivent ne sont là qu'à titre indicatif. Vous êtes libre d'intégrer une classe qui ne serait pas dans la liste ci-dessous, c'est votre jeu et votre plaisir de jeu. Cependant, l'absence de classes divines, en dehors du druide, est un élément important : les prêtres des différents cultes n'ont pas de pouvoir divin, et les dieux n'intercèdent pas en faveur de leurs adorateurs. Dans tous les cas, s'ils le font, cela ne se déroule pas selon le processus de sorts habituellement utilisé en jeu.
 

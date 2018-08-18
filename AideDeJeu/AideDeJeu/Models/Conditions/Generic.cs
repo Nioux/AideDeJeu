@@ -62,7 +62,7 @@ namespace AideDeJeuLib
                                             }),
                                             new Tuple<string, Action<Generic, string>>("", (m, s) =>
                                             {
-                                                this.Text += str;
+                                                this.Text += "- " + str;
                                             }),
                                         };
 

@@ -3,13 +3,13 @@
 
 ## Rôdeur des cinq Royaumes
 
-- <Source>(L5R p52)</Source>
+- Source: (L5R p52)
 
 [Generic]
 
 ### Aptitudes de classe
 
-- <Source>(L5R p52)</Source>
+- Source: (L5R p52)
 
 Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau ci-contre sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du rôdeur de Héros & Dragons.
 
@@ -18,7 +18,7 @@ Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitud
 
 #### Tableau d'évolution
 
-- <Source>(L5R p53)</Source>
+- Source: (L5R p53)
 
 |Niveau|bonus de<br>maîtrise|Aptitudes|
 |---|---|---|
@@ -48,7 +48,7 @@ Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitud
 
 #### Fils de la nature
 
-- <Source>(L5R p52)</Source>
+- Source: (L5R p52)
 
 Vous ne faites plus qu'un avec la nature. En raison de votre enfance ou d'un entraînement intensif, vous savez comment survivre, vous soigner, et bien d'autres choses encore. Au niveau 2, vous gagnez l'une des capacités suivantes. Vous en gagnez une nouvelle aux niveaux 5, 9, 13 et 17. Une fois que l'une de ces capacités a été utilisée, il vous faut un repos long afin de pouvoir l'utiliser de nouveau, à moins que le texte de la capacité ne dise le contraire.
 
@@ -56,7 +56,7 @@ Vous ne faites plus qu'un avec la nature. En raison de votre enfance ou d'un ent
 
 ##### Onguents
 
-- <Source>(L5R p52)</Source>
+- Source: (L5R p52)
 
 Vous êtes passé maître dans l'art de la survie. Vous connaissez les plantes qui soignent et revigorent. En passant une heure à chercher les bonnes plantes et à les mélanger avec un peu d'huile et d'autres composants mystérieux, vous créez un nombre d'onguents égal à votre modificateur de Sagesse (minimum 1). Ces onguents possèdent une durée de vie en jours égale à votre bonus de maîtrise. Au-delà de cette durée, ils deviennent inefficaces. Chaque onguent permet à une personne, au choix, de doubler le regain de points de vitalité dans la nuit (ne s'applique qu'une fois, même en cas de jet de Sagesse (Médecine) réussi), ou de réduire de moitié le temps de guérison d'une blessure. Dans ce cas, la réduction de temps de guérison ne s'applique qu'une seule fois, mais on doit alors utiliser chaque jour un onguent jusqu'à totale guérison de la blessure. Vous pouvez porter un nombre d'onguents (ou contrepoisons, ou remèdes, cf. plus bas) égal à votre modificateur de Sagesse (minimum 1).
 
@@ -70,7 +70,7 @@ Au niveau 13, vos remèdes peuvent contrer tous types de maladies non-magiques.
 
 ##### Apaisement des animaux
 
-- <Source>(L5R p53)</Source>
+- Source: (L5R p53)
 
 Vous savez comment vous y prendre avec les animaux, et comment vous faire accepter par eux. Vous connaissez leurs fonctionnements et pouvez, d'un simple geste accompagné d'un regard approprié et d'une approche adéquate, automatiquement calmer un animal hostile tant que ce dernier ne se sent pas directement menacé par vous ou vos compagnons. Lorsque vous utilisez cette capacité, un animal hostile ou effrayé se calme automatiquement et vous considère de manière neutre. Il n'en oublie pas pour autant son comportement naturel.
 
@@ -88,7 +88,7 @@ De plus, dès le niveau 2 et de manière permanente, lorsque vous effectuez un t
 
 ##### Chasseur émérite
 
-- <Source>(L5R p53)</Source>
+- Source: (L5R p53)
 
 Vous savez comment tirer avantage du terrain et vos attaques peuvent être mortelles. Quand vous êtes caché au début d'un combat, lors de votre toute première attaque, vous obtenez un bonus de 1d6 de dommages par point de bonus de maîtrise. Une fois votre première attaque passée, vous ne pouvez plus vous servir de cette capacité. Au niveau 17, sur cette attaque uniquement, si vous obtenez une réussite critique, l'intégralité des dommages issus de ces d6 bonus sont infligés aux points de vitalité de la cible (et non la moitié). Vous pouvez vous servir de cette capacité à chaque combat, si les circonstances le permettent.
 
@@ -96,7 +96,7 @@ Vous savez comment tirer avantage du terrain et vos attaques peuvent être morte
 
 ##### Sens aiguisés
 
-- <Source>(L5R p54)</Source>
+- Source: (L5R p54)
 
 Au niveau 2, et ce de manière permanente, lorsque vous êtes surpris, vous bénéficiez tout de même d'une action à utiliser avant le premier round de combat (à choisir entre se déplacer, se cacher ou attaquer, cette dernière ne permettant d'effectuer qu'une seule et unique attaque).
 
@@ -110,7 +110,7 @@ Au niveau 17, vous êtes désormais capable d'utiliser cette capacité entre deu
 
 ##### Fantôme insaisissable
 
-- <Source>(L5R p54)</Source>
+- Source: (L5R p54)
 
 Lorsque vous êtes en pleine nature, il est presque impossible de vous repérer. Vous pouvez utiliser cette capacité une fois entre chaque repos long. Quand vous l'utilisez, vous devenez presque invisible : tant que vous vous déplacez de couvert en couvert, c'est comme si vous étiez invisible aux yeux des autres. Cependant, lorsque vous désirez rester silencieux (comme lors d'un déplacement), il reste nécessaire d'effectuer des tests de Dextérité (Discrétion). Une fois activée, cette capacité dure un nombre de minutes égal à votre bonus de maîtrise, mais vous devez garder votre Concentration. Si vous êtes repéré ou que des dégâts occasionnés brisent votre concentration, cette capacité prend fin. Au niveau 5, lorsque vous effectuez un test de Dextérité (Discrétion) afin de ne pas faire de bruit en vous déplaçant, si vous obtenez moins de 10 sur votre d20, ne tenez pas compte du résultat du dé et faites comme si le résultat du dé était de 10 (ce bonus est permanent et non-sujet à activation).
 
@@ -120,7 +120,7 @@ Au niveau 9, lorsque vous activez cette capacité, vous ne faites plus aucun bru
 
 ##### Constitution hors norme
 
-- <Source>(L5R p54)</Source>
+- Source: (L5R p54)
 
 Le temps passé en pleine nature et les morsures de bêtes venimeuses ou les piqûres de plantes urticantes vous ont conféré une constitution hors norme. Désormais, vous avez l'avantage sur tous vos jets de sauvegarde de Constitution afin de résister aux poisons ou à la maladie. Au niveau 5, vous obtenez la maîtrise des jets de sauvegarde de Constitution. Si vous la possédez déjà, quand vous effectuez un jet de sauvegarde de Constitution, vous doublez votre bonus de maîtrise.
 
@@ -130,7 +130,7 @@ Au niveau 9, vous êtes immunisé aux poisons non-magiques ne pouvant pas être 
 
 ##### Compagnon spirituel
 
-- <Source>(L5R p54)</Source>
+- Source: (L5R p54)
 
 Un esprit de la nature s'est lié à vous. Il apparaît parfois en rêve, vous guidant sur le chemin et vous prévenant, de manière subtile et métaphorique, des dangers qui vous attendent. Depuis son arrivée, votre corps s'est légèrement altéré et vous affichez des traits évoquant votre compagnon spirituel (changement de couleur des pupilles, d'une partie ou de la totalité des cheveux, augmentation de la pilosité, changement de la posture du corps, canines étrangement pointues, etc.). Une fois entre chaque repos long, vous pouvez l'appeler. Pour cela, il faut prier en prononçant un mot de pouvoir qu'il vous a appris en rêves. Votre compagnon spirituel intervient alors à vos côtés. Il s'agit d'un animal (toujours le même, à choisir lors de l'obtention de cette capacité) avec un Indice de Dangerosité ½ au maximum. L'animal possède les statistiques disponibles dans le livre Créatures & Oppositions, mais il obtient un bonus à l'attaque et aux dégâts égal à votre modificateur de Sagesse, et possède un nombre de points de combativité égal aux points de vie de la créature ou égal à la moitié de vos points de combativité (le meilleur des deux). Il reste à vos côtés un nombre d'heures maximum égal à votre bonus de maîtrise. Tant qu'il est à vos côtés, tous les tests visant à pister ou à suivre une piste bénéficient de l'avantage. De plus, il peut combattre à vos côtés si vous le désirez. Mais s'il est tué, il ne réapparaîtra pas avant le niveau suivant. Au moment de sa mort, vous subissez immédiatement un niveau de fatigue. De plus, le compagnon se montre très rarement dans les zones urbaines. Au mieux se montrera-t-il aux abords d'un village, mais jamais dans une ville.
 
@@ -142,7 +142,7 @@ Au niveau 17, la créature peut devenir une créature avec un Indice de Dangeros
 
 #### Sens du danger
 
-- <Source>(L5R p55)</Source>
+- Source: (L5R p55)
 
 Au niveau 3, vos sens deviennent si aiguisés qu'il est difficile de vous surprendre. Vous obtenez l'[avantage] sur vos jets de sauvegarde de Dextérité contre les dangers que vous pouvez voir arriver (pièges ou effets magiques physiques). De plus, lors d'un test d'Initiative, si vous obtenez un résultat inférieur à 10 sur le d20, considérez que vous avez obtenu 10. Vous ne pouvez utiliser cette aptitude si vous êtes [assourdi], [aveuglé] ou [neutralisé].
 
@@ -150,7 +150,7 @@ Au niveau 3, vos sens deviennent si aiguisés qu'il est difficile de vous surpre
 
 ### Archétypes de rôdeur
 
-- <Source>(L5R p55)</Source>
+- Source: (L5R p55)
 
 Tous les archétypes de rôdeur s'appliquent au rôdeur des cinq royaumes. Cependant, l'archer arcanique propose une version plus magique et nous vous conseillons soit de l'ignorer, soit de ne l'autoriser qu'à un rôdeur possédant la capacité [compagnon spirituel] (et ayant donc touché du doigt la magie du monde), ou à un personnage ayant eu une expérience particulière avec la magie ou les puissances faëriques.
 
@@ -158,7 +158,7 @@ Tous les archétypes de rôdeur s'appliquent au rôdeur des cinq royaumes. Cepen
 
 #### Exilé
 
-- <Source>(L5R p55)</Source>
+- Source: (L5R p55)
 
 Certaines capacités de l'exilé semblent faire doublon avec la capacité [Onguents]. Dans ce cas, considérez que plantes médicinales s'applique normalement, et que plantes miraculeuses permet plutôt de transporter un nombre de contrepoisons égal au modificateur de Sagesse (minimum 1) en plus de vos autres préparations.
 
@@ -168,7 +168,7 @@ Voir [Exilé].
 
 #### Traqueur
 
-- <Source>(L5R p55)</Source>
+- Source: (L5R p55)
 
 Cet archétype reste le même.
 
@@ -178,7 +178,7 @@ Voir [Traqueur].
 
 #### Pisteur
 
-- <Source>(L5R p55)</Source>
+- Source: (L5R p55)
 
 Cette option ne s'applique pas aux cinq royaumes.
 

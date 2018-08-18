@@ -3,13 +3,13 @@
 
 ## Humain des cinq royaumes
 
-- <Source>(L5R p49)</Source>
+- Source: (L5R p49)
 
 [][Generic]
 
 ### Traits de base des humains
 
-- <Source>(L5R p49)</Source>
+- Source: (L5R p49)
 
 Les humains sont versatiles et talentueux. Contrairement aux faës, ils ne possèdent pas de pouvoirs particuliers et ne comptent que sur leurs compétences, leurs savoir-faire et leur ingéniosité.
 
@@ -21,7 +21,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils de la terre
 
-- <Source>(L5R p49)</Source>
+- Source: (L5R p49)
 
 **Augmentation de Caractéristique.** Votre Force augmente de 1.
 
@@ -33,7 +33,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils du sel
 
-- <Source>(L5R p50)</Source>
+- Source: (L5R p50)
 
 **Augmentation de Caractéristique.** Votre Dextérité augmente de 1.
 
@@ -45,7 +45,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils des bois
 
-- <Source>(L5R p50)</Source>
+- Source: (L5R p50)
 
 **Augmentation de Caractéristique.** Votre Sagesse augmente de 1.
 
@@ -57,7 +57,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils des cités
 
-- <Source>(L5R p51)</Source>
+- Source: (L5R p51)
 
 **Augmentation de Caractéristique.** Votre Intelligence augmente de 1.
 
@@ -69,7 +69,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils du vent
 
-- <Source>(L5R p51)</Source>
+- Source: (L5R p51)
 
 **Augmentation de Caractéristique.** Votre Sagesse augmente de 1.
 
@@ -81,7 +81,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils du roc
 
-- <Source>(L5R p51)</Source>
+- Source: (L5R p51)
 
 **Augmentation de Caractéristique.** Votre Constitution augmente de 1.
 
@@ -93,7 +93,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Gwynnddaerain
 
-- <Source>(L5R p51)</Source>
+- Source: (L5R p51)
 
 **Augmentation de Caractéristique.** Votre Charisme augmente de 1.
 
@@ -105,7 +105,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Fils des terres sauvages
 
-- <Source>(L5R p51)</Source>
+- Source: (L5R p51)
 
 **Augmentation de Caractéristique.** Votre Constitution augmente de 1.
 
@@ -117,7 +117,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 #### Bâtard
 
-- <Source>(L5R p52)</Source>
+- Source: (L5R p52)
 
 **Augmentation de Caractéristiques.** Votre Charisme augmente de 1.
 
