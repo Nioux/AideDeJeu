@@ -43,14 +43,6 @@ Le jeu dans l'univers des cinq royaumes est un peu plus « dur » que dans les a
 
 ## [Savant](l5r_rogue_hd.md)
 
-[][LinkItem]
-
-## [Rituels](l5r_rituals_hd.md)
-
-[][LinkItem]
-
-## [Sourcelin](l5r_sourcelin_hd.md)
-
 
 [Items]: #
 [LinkItem]: #

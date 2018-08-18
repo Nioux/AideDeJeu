@@ -3,6 +3,8 @@
 
 ## Le savant
 
+- <Source>(L5R p65)</Source>
+
 Il s'agit en réalité d'une variante de la classe de roublard dont il partage un certain nombre de caractéristiques. Vous pourrez d'ailleurs sans peine utiliser les archétypes de roublard avec ce savant. Modifiez la classe de roublard comme suit.
 
 [][Generic]
