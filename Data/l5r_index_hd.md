@@ -25,19 +25,31 @@ Le jeu dans l'univers des cinq royaumes est un peu plus « dur » que dans les a
 
 [][LinkItem]
 
-## Race jouable
+## [Humain des Cinq Royaumes](l5r_human_hd.md)
 
 [][LinkItem]
 
-## Classes spécifiques
+## [Rôdeur des Cinq Royaumes](l5r_ranger_hd.md)
 
 [][LinkItem]
 
-## Rituels
+## [Barde des Cinq Royaumes](l5r_bard_hd.md)
 
 [][LinkItem]
 
-## Sourcelin
+## [Druide des Cinq Royaumes](l5r_druid_hd.md)
+
+[][LinkItem]
+
+## [Savant](l5r_rogue_hd.md)
+
+[][LinkItem]
+
+## [Rituels](l5r_rituals_hd.md)
+
+[][LinkItem]
+
+## [Sourcelin](l5r_sourcelin_hd.md)
 
 
 [Items]: #

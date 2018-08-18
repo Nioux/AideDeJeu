@@ -330,9 +330,12 @@ namespace AideDeJeuCmd
                 {
                     var file = link.Item1;
                     var anchor = link.Item2;
-                    if (!allanchors[file].Contains(anchor))
+                    if (allanchors.ContainsKey(file))
                     {
-                        Console.WriteLine($"{links.Key} => {file} {anchor}");
+                        if (!allanchors[file].Contains(anchor))
+                        {
+                            Console.WriteLine($"{links.Key} => {file} {anchor}");
+                        }
                     }
                 }
             }
