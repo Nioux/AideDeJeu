@@ -1,3 +1,4 @@
+
 # Manuel des règles
 <!--
 ## [Création du personnage]
@@ -26,6 +27,8 @@
 
 ## [Panthéons](pantheons_hd.md)
 
+<br>
+
 # Cadre de campagne
 
 ## [Objets magiques](magicitems_hd.md)
@@ -37,6 +40,8 @@
 ### [Artefacts](artifacts_hd.md)
 
 ## [Jouer dans un multivers](planes_hd.md)
+
+<br>
 
 # Créatures et oppositions
 
@@ -52,7 +57,11 @@
 
 ## [Poisons](poisons_hd.md)
 
+<br>
+
 # [Les Cinq Royaumes](l5r_index_hd.md)
+
+<br>
 
 # SRD
 

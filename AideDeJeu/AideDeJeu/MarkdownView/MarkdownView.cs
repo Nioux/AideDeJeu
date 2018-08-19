@@ -361,6 +361,18 @@
 
         private void Render(HtmlBlock block)
         {
+            if(block.Type == HtmlBlockType.NonInterruptingBlock)
+            {
+                if(block.Lines.Lines.FirstOrDefault().Slice.ToString() == "<br>")
+                {
+                    var label = new Label
+                    {
+                        Text = "\n",
+                    };
+                    this.stack.Children.Add(label);
+
+                }
+            }
             // ?
         }
 
