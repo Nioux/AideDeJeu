@@ -35,7 +35,7 @@ namespace AideDeJeu.Views
         {
             InitializeComponent();
 
-            var item = new MonsterHD
+            var item = new Item
             {
                 Name = "",
                 AltName = "",

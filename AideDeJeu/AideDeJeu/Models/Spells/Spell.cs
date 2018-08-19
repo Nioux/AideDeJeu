@@ -23,15 +23,5 @@ namespace AideDeJeuLib
         public string DescriptionHtml { get; set; }
         public string Source { get; set; }
         public string Classes { get; set; }
-        public Description Description { get; set; }
-
-        public virtual string LevelType { get; set; }
-
-        //public override string Markdown => throw new NotImplementedException();
-
-        public override void Parse(ref ContainerBlock.Enumerator enumerator)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

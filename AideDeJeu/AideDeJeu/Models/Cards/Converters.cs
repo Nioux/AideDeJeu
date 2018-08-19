@@ -133,7 +133,7 @@ namespace AideDeJeuLib.Cards
             var contents = new List<CardContent>();
             contents.AddRange(new CardContent[]
             {
-                new SubtitleCardContent(spell.LevelType),
+                //new SubtitleCardContent(spell.LevelType),
                 new RuleCardContent(),
                 new PropertyCardContent("Durée d'incantation", spell.CastingTime),
                 new PropertyCardContent("Portée", spell.Range),
