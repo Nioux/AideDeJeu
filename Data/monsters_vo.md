@@ -1,29 +1,29 @@
 
-[][MonstersVO]
+<MonstersVO>
 
-# Monsters, NPC and Animals
-- AltName: [Créatures](monsters_hd.md)
+# <Name>Monsters, NPC and Animals</Name>
+- <AltName>[Créatures](monsters_hd.md)</AltName>
 
 
-[][MonsterVO]
+<Monster>
 
-# Aboleth
-- AltName: [Aboleth]
-- Source: (SRD p261)
-- Large aberration, lawful evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 135 (18d10 + 36)
-- **Speed** 10 ft., swim 40 ft.
+# <Name>Aboleth</Name>
+- <AltName>[Aboleth]</AltName>
+- <Source>(SRD p261)</Source>
+- <Size>Large</Size> <Type>aberration</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>135 (18d10 + 36)</HitPoints>
+- **Speed** <Speed>10 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Con +6, Int +8, Wis +6
-- **Skills** History +12, Perception +10
-- **Senses** darkvision 120 ft., passive Perception 20
-- **Languages** Deep Speech, telepathy 120 ft.
-- **Challenge** 10 (5900 XP)
+- **Saving Throws** <SavingThrows>Con +6, Int +8, Wis +6</SavingThrows>
+- **Skills** <Skills>History +12, Perception +10</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 20</Senses>
+- **Languages** <Languages>Deep Speech, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>10 (5900 XP)</Challenge>
 
 ## Special Features
 
@@ -60,24 +60,26 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 [Aboleth]: monsters_hd.md#aboleth
 
 
-[][MonsterVO]
+</Monster>
 
-# Acolyte
-- AltName: [Acolyte]
-- Source: (SRD p395)
-- Medium humanoid (any race), any alignment
-- **Armor Class** 10
-- **Hit Points** 9 (2d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Acolyte</Name>
+- <AltName>[Acolyte]</AltName>
+- <Source>(SRD p395)</Source>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>9 (2d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Medicine +4, Religion +2
-- **Senses** passive Perception 12
-- **Languages** any one language (usually Common)
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Medicine +4, Religion +2</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -96,24 +98,26 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Acolyte]: monsters_hd.md#acolyte
 
 
-[][MonsterVO]
+</Monster>
 
-# Eagle
-- AltName: [Aigle]
-- Source: (SRD p371)
-- Small beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 3 (1d6)
-- **Speed** 10 ft., fly 60 ft.
+<Monster>
+
+# <Name>Eagle</Name>
+- <AltName>[Aigle]</AltName>
+- <Source>(SRD p371)</Source>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>3 (1d6)</HitPoints>
+- **Speed** <Speed>10 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|15 (+2)|10 (+0)| 2 (-4)|14 (+2)| 7 (-2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -128,24 +132,26 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Aigle]: monsters_hd.md#aigle
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Eagle
-- AltName: [Aigle géant]
-- Source: (SRD p375)
-- Large beast, neutral good
-- **Armor Class** 13
-- **Hit Points** 26 (4d10 + 4)
-- **Speed** 10 ft., fly 80 ft.
+<Monster>
+
+# <Name>Giant Eagle</Name>
+- <AltName>[Aigle géant]</AltName>
+- <Source>(SRD p375)</Source>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>neutral good</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>26 (4d10 + 4)</HitPoints>
+- **Speed** <Speed>10 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** Giant Eagle understands Common and Auran but can't speak them
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>Giant Eagle understands Common and Auran but can't speak them</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -167,27 +173,29 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Androsphinx
-- AltName: [Androsphinx]
-- Source: (SRD p347)
-- Large monstrosity, lawful neutral
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 199 (19d10 + 95)
-- **Speed** 40 ft., fly 60 ft.
+<Monster>
+
+# <Name>Androsphinx</Name>
+- <AltName>[Androsphinx]</AltName>
+- <Source>(SRD p347)</Source>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>lawful neutral</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>199 (19d10 + 95)</HitPoints>
+- **Speed** <Speed>40 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)|
+|<Strength>22 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>23 (+6)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
-- **Skills** Arcana +9, Perception +10, Religion +15
-- **Senses** truesight 120 ft., passive Perception 20
-- **Languages** Common, Sphinx
-- **Challenge** 17 (18000 XP)
-- **Damage Immunities** psychic; bludgeoning, piercing and slashing from nonmagical attacks
-- **Condition Immunities** charmed, frightened
+- **Saving Throws** <SavingThrows>Dex +6, Con +11, Int +9, Wis +10</SavingThrows>
+- **Skills** <Skills>Arcana +9, Perception +10, Religion +15</Skills>
+- **Senses** <Senses>truesight 120 ft., passive Perception 20</Senses>
+- **Languages** <Languages>Common, Sphinx</Languages>
+- **Challenge** <Challenge>17 (18000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>psychic; bludgeoning, piercing and slashing from nonmagical attacks</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened</ConditionImmunities>
 
 ## Special Features
 
@@ -240,23 +248,25 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [Androsphinx]: monsters_hd.md#androsphinx
 
 
-[][MonsterVO]
+</Monster>
 
-# Ankheg
-- AltName: [Ankheg]
-- Source: (SRD p264)
-- Large monstrosity, unaligned
-- **Armor Class** 14 (natural armor), 11 while prone
-- **Hit Points** 39 (6d10 + 6)
-- **Speed** 30 ft., burrow 10 ft.
+<Monster>
+
+# <Name>Ankheg</Name>
+- <AltName>[Ankheg]</AltName>
+- <Source>(SRD p264)</Source>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor), 11 while prone</ArmorClass>
+- **Hit Points** <HitPoints>39 (6d10 + 6)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|11 (+0)|13 (+1)| 1 (-5)|13 (+1)| 6 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>darkvision 60 ft., tremorsense 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -270,24 +280,26 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Spider
-- AltName: [Araignée]
-- Source: (SRD p389)
-- Tiny beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 20 ft., climb 20 ft.
+<Monster>
+
+# <Name>Spider</Name>
+- <AltName>[Araignée]</AltName>
+- <Source>(SRD p389)</Source>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>20 ft., climb 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|14 (+2)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Skills** Stealth +4
-- **Senses** darkvision 30 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Stealth +4</Skills>
+- **Senses** <Senses>darkvision 30 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -306,24 +318,26 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 [Araignée]: monsters_hd.md#araignée
 
 
-[][MonsterVO]
+</Monster>
 
-# Phase Spider
-- AltName: [Araignée de phase]
-- Source: (SRD p385)
-- Large monstrosity, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 32 (5d10 + 5)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Phase Spider</Name>
+- <AltName>[Araignée de phase]</AltName>
+- <Source>(SRD p385)</Source>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>32 (5d10 + 5)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|15 (+2)|12 (+1)| 6 (-2)|10 (+0)| 6 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Stealth +6
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 3 (700 XP)
+- **Skills** <Skills>Stealth +6</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -342,24 +356,26 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 [Araignée de phase]: monsters_hd.md#araignée-de-phase
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Spider
-- AltName: [Araignée géante]
-- Source: (SRD p379)
-- Large beast, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 26 (4d10 + 4)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Giant Spider</Name>
+- <AltName>[Araignée géante]</AltName>
+- <Source>(SRD p379)</Source>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>26 (4d10 + 4)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|16 (+3)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Stealth +7
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Stealth +7</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -382,24 +398,26 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 [Araignée géante]: monsters_hd.md#araignée-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Wolf Spider
-- AltName: [Araignée-loup géante]
-- Source: (SRD p381)
-- Medium beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 40 ft., climb 40 ft.
+<Monster>
+
+# <Name>Giant Wolf Spider</Name>
+- <AltName>[Araignée-loup géante]</AltName>
+- <Source>(SRD p381)</Source>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|16 (+3)|13 (+1)| 3 (-4)|12 (+1)| 4 (-3)|
+|<Strength>12 (+1)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Perception +3, Stealth +7
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +3, Stealth +7</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -418,24 +436,26 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 [Araignée-loup géante]: monsters_hd.md#araignée-loup-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Awakened Tree
-- AltName: [Arbre éveillé]
-- Source: (SRD p366)
-- Huge plant, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 59 (7d12 + 14)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Awakened Tree</Name>
+- <AltName>[Arbre éveillé]</AltName>
+- <Source>(SRD p366)</Source>
+- <Size>Huge</Size> <Type>plant</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>59 (7d12 + 14)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** one language known by its creator
-- **Challenge** 2 (450 XP)
-- **Damage Resistances** bludgeoning, piercing
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>one language known by its creator</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing</DamageResistances>
 - **Damage Vulnerabilities** fire
 
 ## Special Features
@@ -451,24 +471,26 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 [Arbre éveillé]: monsters_hd.md#arbre-éveillé
 
 
-[][MonsterVO]
+</Monster>
 
-# Awakened Shrub
-- AltName: [Arbuste éveillé]
-- Source: (SRD p366)
-- Small plant, unaligned
-- **Armor Class** 9
-- **Hit Points** 10 (3d6)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Awakened Shrub</Name>
+- <AltName>[Arbuste éveillé]</AltName>
+- <Source>(SRD p366)</Source>
+- <Size>Small</Size> <Type>plant</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>9</ArmorClass>
+- **Hit Points** <HitPoints>10 (3d6)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)| 8 (-1)|11 (+0)|10 (+0)|10 (+0)| 6 (-2)|
+|<Strength> 3 (-4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** one language known by its creator
-- **Challenge** 0 (10 XP)
-- **Damage Resistances** piercing
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>one language known by its creator</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>piercing</DamageResistances>
 - **Damage Vulnerabilities** fire
 
 ## Special Features
@@ -484,26 +506,28 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 [Arbuste éveillé]: monsters_hd.md#arbuste-éveillé
 
 
-[][MonsterVO]
+</Monster>
 
-# Archmage
-- AltName: [Archimage]
-- Source: (SRD p395)
-- Medium humanoid (any race), any alignment
-- **Armor Class** 12 (15 with
-- **Hit Points** 99 (18d8 + 18)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Archmage</Name>
+- <AltName>[Archimage]</AltName>
+- <Source>(SRD p395)</Source>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>12 (15 with</ArmorClass>
+- **Hit Points** <HitPoints>99 (18d8 + 18)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Int +9, Wis +6
-- **Skills** Arcana +13, History +13
-- **Senses** passive Perception 12
-- **Languages** any six languages
-- **Challenge** 12 (8400 XP)
-- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, and slashing (from
+- **Saving Throws** <SavingThrows>Int +9, Wis +6</SavingThrows>
+- **Skills** <Skills>Arcana +13, History +13</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>any six languages</Languages>
+- **Challenge** <Challenge>12 (8400 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>damage from spells; nonmagical bludgeoning, piercing, and slashing (from</DamageResistances>
 
 ## Special Features
 
@@ -542,25 +566,27 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Archimage]: monsters_hd.md#archimage
 
 
-[][MonsterVO]
+</Monster>
 
-# Animated Armor
-- AltName: [Armure animée]
-- Source: (SRD p263)
-- Medium construct, unaligned
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 33 (6d8 + 6)
-- **Speed** 25 ft.
+<Monster>
+
+# <Name>Animated Armor</Name>
+- <AltName>[Armure animée]</AltName>
+- <Source>(SRD p263)</Source>
+- <Size>Medium</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>33 (6d8 + 6)</HitPoints>
+- **Speed** <Speed>25 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength>14 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
-- **Languages** -
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** poison, psychic
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Senses** <Senses>blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison, psychic</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -579,26 +605,28 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 [Armure animée]: monsters_hd.md#armure-animée
 
 
-[][MonsterVO]
+</Monster>
 
-# Assassin
-- AltName: [Assassin]
-- Source: (SRD p396)
-- Medium humanoid (any race), any non-good alignment
-- **Armor Class** 15 (studded leather)
-- **Hit Points** 78 (12d8 + 24)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Assassin</Name>
+- <AltName>[Assassin]</AltName>
+- <Source>(SRD p396)</Source>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any non-good alignment</Alignment>
+- **Armor Class** <ArmorClass>15 (studded leather)</ArmorClass>
+- **Hit Points** <HitPoints>78 (12d8 + 24)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Saving Throws** Dex +6, Int +4
-- **Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9
-- **Senses** passive Perception 13
-- **Languages** Thieves' cant plus any two languages
-- **Challenge** 8 (3900 XP)
-- **Damage Resistances** poison
+- **Saving Throws** <SavingThrows>Dex +6, Int +4</SavingThrows>
+- **Skills** <Skills>Acrobatics +6, Deception +3, Perception +3, Stealth +9</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Thieves' cant plus any two languages</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>poison</DamageResistances>
 
 ## Special Features
 
@@ -623,26 +651,28 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 [Assassin]: monsters_hd.md#assassin
 
 
-[][MonsterVO]
+</Monster>
 
-# Azer
-- AltName: [Azer]
-- Source: (SRD p265)
-- Medium elemental, lawful neutral
-- **Armor Class** 17 (natural armor, shield)
-- **Hit Points** 39 (6d8 + 12)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Azer</Name>
+- <AltName>[Azer]</AltName>
+- <Source>(SRD p265)</Source>
+- <Size>Medium</Size> <Type>elemental</Type>, <Alignment>lawful neutral</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor, shield)</ArmorClass>
+- **Hit Points** <HitPoints>39 (6d8 + 12)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
+|<Strength>17 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Saving Throws** Con +4
-- **Senses** passive Perception 11
-- **Languages** Ignan
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Con +4</SavingThrows>
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>Ignan</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -661,23 +691,25 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 [Azer]: monsters_hd.md#azer
 
 
-[][MonsterVO]
+</Monster>
 
-# Baboon
-- AltName: [Babouin]
-- Source: (SRD p367)
-- Small beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 3 (1d6)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Baboon</Name>
+- <AltName>[Babouin]</AltName>
+- <Source>(SRD p367)</Source>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>3 (1d6)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 11
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -692,24 +724,26 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [Babouin]: monsters_hd.md#babouin
 
 
-[][MonsterVO]
+</Monster>
 
-# Gibbering Mouther
-- AltName: [Babélien]
-- Source: (SRD p314)
-- Medium aberration, neutral
-- **Armor Class** 9
-- **Hit Points** 67 (9d8 + 27)
-- **Speed** 10 ft., swim 10 ft.
+<Monster>
+
+# <Name>Gibbering Mouther</Name>
+- <AltName>[Babélien]</AltName>
+- <Source>(SRD p314)</Source>
+- <Size>Medium</Size> <Type>aberration</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>9</ArmorClass>
+- **Hit Points** <HitPoints>67 (9d8 + 27)</HitPoints>
+- **Speed** <Speed>10 ft., swim 10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
+|<Strength>10 (+0)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Condition Immunities** prone
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>prone</ConditionImmunities>
 
 ## Special Features
 
@@ -732,27 +766,29 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 [Babélien]: monsters_hd.md#babélien
 
 
-[][MonsterVO]
+</Monster>
 
-# Balor
-- AltName: [Balor]
-- Source: (SRD p270)
-- Huge fiend (demon), chaotic evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 262 (21d12 + 126)
-- **Speed** 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Balor</Name>
+- <AltName>[Balor]</AltName>
+- <Source>(SRD p270)</Source>
+- <Size>Huge</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>262 (21d12 + 126)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
+|<Strength>26 (+8)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>22 (+6)</Charisma>|
 
-- **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
-- **Senses** truesight 120 ft., passive Perception 13
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 19 (22000 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +14, Con +12, Wis +9, Cha +12</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Abyssal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>19 (22000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -781,23 +817,25 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 [Balor]: monsters_hd.md#balor
 
 
-[][MonsterVO]
+</Monster>
 
-# Bandit
-- AltName: [Bandit]
-- Source: (SRD p396)
-- Medium humanoid (any race), any non-lawful alignment
-- **Armor Class** 12 (leather armor)
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Bandit</Name>
+- <AltName>[Bandit]</AltName>
+- <Source>(SRD p396)</Source>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any non-lawful alignment</Alignment>
+- **Armor Class** <ArmorClass>12 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -812,25 +850,27 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Bandit]: monsters_hd.md#bandit
 
 
-[][MonsterVO]
+</Monster>
 
-# Bandit Captain
-- AltName: [Capitaine Bandit]
-- Source: (SRD p397)
-- Medium humanoid (any race), any non-lawful alignment
-- **Armor Class** 15 (studded leather)
-- **Hit Points** 65 (10d8 + 20)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Bandit Captain</Name>
+- <AltName>[Capitaine Bandit]</AltName>
+- <Source>(SRD p397)</Source>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any non-lawful alignment</Alignment>
+- **Armor Class** <ArmorClass>15 (studded leather)</ArmorClass>
+- **Hit Points** <HitPoints>65 (10d8 + 20)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Saving Throws** Str +4, Dex +5, Wis +2
-- **Skills** Athletics +4, Deception +4
-- **Senses** passive Perception 10
-- **Languages** any two languages
-- **Challenge** 2 (450 XP)
+- **Saving Throws** <SavingThrows>Str +4, Dex +5, Wis +2</SavingThrows>
+- **Skills** <Skills>Athletics +4, Deception +4</Skills>
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any two languages</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -853,23 +893,25 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Basilisk
-- AltName: [Basilic]
-- Source: (SRD p265)
-- Medium monstrosity, unaligned
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 52 (8d8 + 16)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Basilisk</Name>
+- <AltName>[Basilic]</AltName>
+- <Source>(SRD p265)</Source>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>52 (8d8 + 16)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 3 (700 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -884,23 +926,25 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 [Basilic]: monsters_hd.md#basilic
 
 
-[][MonsterVO]
+</Monster>
 
-# Axe Beak
-- AltName: [Bec de hache]
-- Source: (SRD p366)
-- Large beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Axe Beak</Name>
+- <AltName>[Bec de hache]</AltName>
+- <Source>(SRD p366)</Source>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -911,24 +955,26 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 [Bec de hache]: monsters_hd.md#bec-de-hache
 
 
-[][MonsterVO]
+</Monster>
 
-# Weasel
-- AltName: [Belette]
-- Source: (SRD p392)
-- Tiny beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Weasel</Name>
+- <AltName>[Belette]</AltName>
+- <Source>(SRD p392)</Source>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|16 (+3)| 8 (-1)| 2 (-4)|12 (+1)| 3 (-4)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Skills** Perception +3, Stealth +5
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3, Stealth +5</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -943,24 +989,26 @@ _Hit_: 1 piercing damage.
 [Belette]: monsters_hd.md#belette
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Weasel
-- AltName: [Belette géante]
-- Source: (SRD p381)
-- Medium beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 9 (2d8)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Giant Weasel</Name>
+- <AltName>[Belette géante]</AltName>
+- <Source>(SRD p381)</Source>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>9 (2d8)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|10 (+0)| 4 (-3)|12 (+1)| 5 (-3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +3, Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Perception +3, Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -975,23 +1023,25 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 [Belette géante]: monsters_hd.md#belette-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Berserker
-- AltName: [Berserker]
-- Source: (SRD p397)
-- Medium humanoid (any race), any chaotic alignment
-- **Armor Class** 13 (hide armor)
-- **Hit Points** 67 (9d8 + 27)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Berserker</Name>
+- <AltName>[Berserker]</AltName>
+- <Source>(SRD p397)</Source>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any chaotic alignment</Alignment>
+- **Armor Class** <ArmorClass>13 (hide armor)</ArmorClass>
+- **Hit Points** <HitPoints>67 (9d8 + 27)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|17 (+3)| 9 (-1)|11 (+0)| 9 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -1006,23 +1056,25 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 [Berserker]: monsters_hd.md#berserker
 
 
-[][MonsterVO]
+</Monster>
 
-# Badger
-- AltName: [Blaireau]
-- Source: (SRD p367)
-- Tiny beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 3 (1d4 + 1)
-- **Speed** 20 ft., burrow 5 ft.
+<Monster>
+
+# <Name>Badger</Name>
+- <AltName>[Blaireau]</AltName>
+- <Source>(SRD p367)</Source>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>3 (1d4 + 1)</HitPoints>
+- **Speed** <Speed>20 ft., burrow 5 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|11 (+0)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>darkvision 30 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1037,23 +1089,25 @@ _Hit_: 1 piercing damage.
 [Blaireau]: monsters_hd.md#blaireau
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Badger
-- AltName: [Blaireau géant]
-- Source: (SRD p373)
-- Medium beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 13 (2d8 + 4)
-- **Speed** 30 ft., burrow 10 ft.
+<Monster>
+
+# <Name>Giant Badger</Name>
+- <AltName>[Blaireau géant]</AltName>
+- <Source>(SRD p373)</Source>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>13 (2d8 + 4)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|10 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>13 (+1)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>darkvision 30 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -1074,26 +1128,28 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 [Blaireau géant]: monsters_hd.md#blaireau-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Ghast
-- AltName: [Blême]
-- Source: (SRD p311)
-- Medium undead, chaotic evil
-- **Armor Class** 13
-- **Hit Points** 36 (8d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Ghast</Name>
+- <AltName>[Blême]</AltName>
+- <Source>(SRD p311)</Source>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>36 (8d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)| 8 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** necrotic
-- **Condition Immunities** charmed, exhaustion, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Common</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>necrotic</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -1115,24 +1171,26 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Bulette
-- AltName: [Bulette]
-- Source: (SRD p266)
-- Large monstrosity, unaligned
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 94 (9d10 + 45)
-- **Speed** 40 ft., burrow 40 ft.
+<Monster>
+
+# <Name>Bulette</Name>
+- <AltName>[Bulette]</AltName>
+- <Source>(SRD p266)</Source>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>94 (9d10 + 45)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +6
-- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
-- **Languages** -
-- **Challenge** 5 (1800 XP)
+- **Skills** <Skills>Perception +6</Skills>
+- **Senses** <Senses>darkvision 60 ft., tremorsense 60 ft., passive Perception 16</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -1149,25 +1207,27 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 [Bulette]: monsters_hd.md#bulette
 
 
-[][MonsterVO]
+</Monster>
 
-# Behir
-- AltName: [Béhir]
-- Source: (SRD p265)
-- Huge monstrosity, neutral evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 168 (16d12 + 64)
-- **Speed** 50 ft., climb 40 ft.
+<Monster>
+
+# <Name>Behir</Name>
+- <AltName>[Béhir]</AltName>
+- <Source>(SRD p265)</Source>
+- <Size>Huge</Size> <Type>monstrosity</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>168 (16d12 + 64)</HitPoints>
+- **Speed** <Speed>50 ft., climb 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
+|<Strength>23 (+6)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Skills** Perception +6, Stealth +7
-- **Senses** darkvision 90 ft., passive Perception 16
-- **Languages** Draconic
-- **Challenge** 11 (7200 XP)
-- **Damage Immunities** lightning
+- **Skills** <Skills>Perception +6, Stealth +7</Skills>
+- **Senses** <Senses>darkvision 90 ft., passive Perception 16</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -1188,23 +1248,25 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 [Béhir]: monsters_hd.md#béhir
 
 
-[][MonsterVO]
+</Monster>
 
-# Centaur
-- AltName: [Centaure]
-- Large monstrosity, neutral good
-- **Armor Class** 12
-- **Hit Points** 45 (6d10 + 12)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Centaur</Name>
+- <AltName>[Centaure]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>neutral good</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d10 + 12)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|14 (+2)| 9 (-1)|13 (+1)|11 (+0)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Athletics +6, Perception +3, Survival +3
-- **Senses** passive Perception 13
-- **Languages** Elvish, Sylvan
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Athletics +6, Perception +3, Survival +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Elvish, Sylvan</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -1229,23 +1291,25 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Centaure]: monsters_hd.md#centaure
 
 
-[][MonsterVO]
+</Monster>
 
-# Jackal
-- AltName: [Chacal]
-- Small beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 3 (1d6)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Jackal</Name>
+- <AltName>[Chacal]</AltName>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>3 (1d6)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|15 (+2)|11 (+0)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1262,22 +1326,24 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 [Chacal]: monsters_hd.md#chacal
 
 
-[][MonsterVO]
+</Monster>
 
-# Camel
-- AltName: [Chameau]
-- Large beast, unaligned
-- **Armor Class** 9
-- **Hit Points** 15 (2d10 + 4)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Camel</Name>
+- <AltName>[Chameau]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>9</ArmorClass>
+- **Hit Points** <HitPoints>15 (2d10 + 4)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 8 (-1)|14 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 9
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -1288,23 +1354,25 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Chameau]: monsters_hd.md#chameau
 
 
-[][MonsterVO]
+</Monster>
 
-# Cat
-- AltName: [Chat]
-- Tiny beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 2 (1d4)
-- **Speed** 40 ft., climb 30 ft.
+<Monster>
+
+# <Name>Cat</Name>
+- <AltName>[Chat]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>2 (1d4)</HitPoints>
+- **Speed** <Speed>40 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|15 (+2)|10 (+0)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3, Stealth +4</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1319,22 +1387,24 @@ _Hit_: 1 slashing damage.
 [Chat]: monsters_hd.md#chat
 
 
-[][MonsterVO]
+</Monster>
 
-# Bat
-- AltName: [Chauve-souris]
-- Tiny beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 5 ft., fly 30 ft.
+<Monster>
+
+# <Name>Bat</Name>
+- <AltName>[Chauve-souris]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>5 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|15 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 4 (-3)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Senses** blindsight 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>blindsight 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1351,22 +1421,24 @@ _Hit_: 1 piercing damage.
 [Chauve-souris]: monsters_hd.md#chauve-souris
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Bat
-- AltName: [Chauve-souris géante]
-- Large beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 22 (4d10)
-- **Speed** 10 ft., fly 60 ft.
+<Monster>
+
+# <Name>Giant Bat</Name>
+- <AltName>[Chauve-souris géante]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>22 (4d10)</HitPoints>
+- **Speed** <Speed>10 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|16 (+3)|11 (+0)| 2 (-4)|12 (+1)| 6 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** blindsight 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>blindsight 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -1383,22 +1455,24 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Chauve-souris géante]: monsters_hd.md#chauve-souris-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Warhorse
-- AltName: [Cheval de guerre]
-- Large beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 60 ft.
+<Monster>
+
+# <Name>Warhorse</Name>
+- <AltName>[Cheval de guerre]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** passive Perception 11
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -1413,22 +1487,24 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Cheval de guerre]: monsters_hd.md#cheval-de-guerre
 
 
-[][MonsterVO]
+</Monster>
 
-# Riding Horse
-- AltName: [Cheval de selle]
-- Large beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 13 (2d10 + 2)
-- **Speed** 60 ft.
+<Monster>
+
+# <Name>Riding Horse</Name>
+- <AltName>[Cheval de selle]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>13 (2d10 + 2)</HitPoints>
+- **Speed** <Speed>60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -1439,22 +1515,24 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Cheval de selle]: monsters_hd.md#cheval-de-selle
 
 
-[][MonsterVO]
+</Monster>
 
-# Draft Horse
-- AltName: [Cheval de trait]
-- Large beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Draft Horse</Name>
+- <AltName>[Cheval de trait]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -1465,23 +1543,25 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 [Cheval de trait]: monsters_hd.md#cheval-de-trait
 
 
-[][MonsterVO]
+</Monster>
 
-# Knight
-- AltName: [Chevalier]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 18 (plate)
-- **Hit Points** 52 (8d8 + 16)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Knight</Name>
+- <AltName>[Chevalier]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>18 (plate)</ArmorClass>
+- **Hit Points** <HitPoints>52 (8d8 + 16)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Con +4, Wis +2
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 3 (700 XP)
+- **Saving Throws** <SavingThrows>Con +4, Wis +2</SavingThrows>
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -1508,22 +1588,24 @@ _Hit_: 5 (1d10) piercing damage.
 [Chevalier]: monsters_hd.md#chevalier
 
 
-[][MonsterVO]
+</Monster>
 
-# Deer
-- AltName: [Chevreuil]
-- Medium beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 4 (1d8)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Deer</Name>
+- <AltName>[Chevreuil]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>4 (1d8)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|11 (+0)| 2 (-4)|14 (+2)| 5 (-3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 12
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1534,23 +1616,25 @@ _Hit_: 2 (1d4) piercing damage.
 [Chevreuil]: monsters_hd.md#chevreuil
 
 
-[][MonsterVO]
+</Monster>
 
-# Death Dog
-- AltName: [Chien du trépas]
-- Medium monstrosity, neutral evil
-- **Armor Class** 12
-- **Hit Points** 39 (6d8 + 12)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Death Dog</Name>
+- <AltName>[Chien du trépas]</AltName>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>39 (6d8 + 12)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|14 (+2)| 3 (-4)|13 (+1)| 6 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +5, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 15
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +5, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 15</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -1567,23 +1651,25 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 [Chien du trépas]: monsters_hd.md#chien-du-trépas
 
 
-[][MonsterVO]
+</Monster>
 
-# Blink Dog
-- AltName: [Chien esquiveur]
-- Medium fey, lawful good
-- **Armor Class** 13
-- **Hit Points** 22 (4d8 + 4)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Blink Dog</Name>
+- <AltName>[Chien esquiveur]</AltName>
+- <Size>Medium</Size> <Type>fey</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>22 (4d8 + 4)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
+|<Strength>12 (+1)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Perception +3, Stealth +5
-- **Senses** passive Perception 13
-- **Languages** Blink Dog understands Sylvan but can't speak it
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +3, Stealth +5</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Blink Dog understands Sylvan but can't speak it</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -1600,23 +1686,25 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 [Chien esquiveur]: monsters_hd.md#chien-esquiveur
 
 
-[][MonsterVO]
+</Monster>
 
-# Chimera
-- AltName: [Chimère]
-- Large monstrosity, chaotic evil
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 114 (12d10 + 48)
-- **Speed** 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Chimera</Name>
+- <AltName>[Chimère]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>114 (12d10 + 48)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|11 (+0)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
+|<Strength>19 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +8
-- **Senses** darkvision 60 ft., passive Perception 18
-- **Languages** understands Draconic but can't speak
-- **Challenge** 6 (2300 XP)
+- **Skills** <Skills>Perception +8</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 18</Senses>
+- **Languages** <Languages>understands Draconic but can't speak</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
 
 ## Special Features
 
@@ -1639,23 +1727,25 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Chimère]: monsters_hd.md#chimère
 
 
-[][MonsterVO]
+</Monster>
 
-# Owl
-- AltName: [Chouette]
-- Tiny beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 5 ft., fly 60 ft.
+<Monster>
+
+# <Name>Owl</Name>
+- <AltName>[Chouette]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>5 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3, Stealth +3
-- **Senses** darkvision 120 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1672,23 +1762,25 @@ _Hit_: 1 slashing damage.
 [Chouette]: monsters_hd.md#chouette
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Owl
-- AltName: [Chouette géante]
-- Large beast, neutral
-- **Armor Class** 12
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 5 ft., fly 60 ft.
+<Monster>
+
+# <Name>Giant Owl</Name>
+- <AltName>[Chouette géante]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>5 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|15 (+2)|12 (+1)| 8 (-1)|13 (+1)|10 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +5, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 15
-- **Languages** Giant Owl understands Common, Elvish, and
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +5, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 15</Senses>
+- **Languages** <Languages>Giant Owl understands Common, Elvish, and</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -1705,25 +1797,27 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 [Chouette géante]: monsters_hd.md#chouette-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Chuul
-- AltName: [Chuul]
-- Large aberration, chaotic evil
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 93 (11d10 + 33)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Chuul</Name>
+- <AltName>[Chuul]</AltName>
+- <Size>Large</Size> <Type>aberration</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>93 (11d10 + 33)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|16 (+3)| 5 (-3)|11 (+0)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** understands Deep Speech but can't speak
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>understands Deep Speech but can't speak</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -1744,22 +1838,24 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 [Chuul]: monsters_hd.md#chuul
 
 
-[][MonsterVO]
+</Monster>
 
-# Goat
-- AltName: [Chèvre]
-- Medium beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 4 (1d8)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Goat</Name>
+- <AltName>[Chèvre]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>4 (1d8)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>12 (+1)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1776,22 +1872,24 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 [Chèvre]: monsters_hd.md#chèvre
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Goat
-- AltName: [Chèvre géante]
-- Large beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Giant Goat</Name>
+- <AltName>[Chèvre géante]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|11 (+0)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 11
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -1808,22 +1906,24 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Chèvre géante]: monsters_hd.md#chèvre-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Cockatrice
-- AltName: [Cockatrice]
-- Small monstrosity, unaligned
-- **Armor Class** 11
-- **Hit Points** 27 (6d6 + 6)
-- **Speed** 20 ft., fly 40 ft.
+<Monster>
+
+# <Name>Cockatrice</Name>
+- <AltName>[Cockatrice]</AltName>
+- <Size>Small</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>27 (6d6 + 6)</HitPoints>
+- **Speed** <Speed>20 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|12 (+1)|12 (+1)| 2 (-4)|13 (+1)| 5 (-3)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -1834,23 +1934,25 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 [Cockatrice]: monsters_hd.md#cockatrice
 
 
-[][MonsterVO]
+</Monster>
 
-# Raven
-- AltName: [Corbeau]
-- Tiny beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 10 ft., fly 50 ft.
+<Monster>
+
+# <Name>Raven</Name>
+- <AltName>[Corbeau]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>10 ft., fly 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|14 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 6 (-2)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1865,25 +1967,27 @@ _Hit_: 1 piercing damage.
 [Corbeau]: monsters_hd.md#corbeau
 
 
-[][MonsterVO]
+</Monster>
 
-# Couatl
-- AltName: [Couatl]
-- Medium celestial, lawful good
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 97 (13d8 + 39)
-- **Speed** 30 ft., fly 90 ft.
+<Monster>
+
+# <Name>Couatl</Name>
+- <AltName>[Couatl]</AltName>
+- <Size>Medium</Size> <Type>celestial</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>97 (13d8 + 39)</HitPoints>
+- **Speed** <Speed>30 ft., fly 90 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
+|<Strength>16 (+3)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>20 (+5)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Con +5, Wis +7, Cha +6
-- **Senses** truesight 120 ft., passive Perception 15
-- **Languages** all, telepathy 120 ft.
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Damage Resistances** radiant
+- **Saving Throws** <SavingThrows>Con +5, Wis +7, Cha +6</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 15</Senses>
+- **Languages** <Languages>all, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>psychic; bludgeoning, piercing, and slashing from nonmagical attacks</DamageImmunities>
+- **Damage Resistances** <DamageResistances>radiant</DamageResistances>
 
 ## Special Features
 
@@ -1914,23 +2018,25 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 [Couatl]: monsters_hd.md#couatl
 
 
-[][MonsterVO]
+</Monster>
 
-# Crab
-- AltName: [Crabe]
-- Tiny beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 2 (1d4)
-- **Speed** 20 ft., swim 20 ft.
+<Monster>
+
+# <Name>Crab</Name>
+- <AltName>[Crabe]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>2 (1d4)</HitPoints>
+- **Speed** <Speed>20 ft., swim 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Skills** Stealth +2
-- **Senses** blindsight 30 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Stealth +2</Skills>
+- **Senses** <Senses>blindsight 30 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -1945,23 +2051,25 @@ _Hit_: 1 bludgeoning damage.
 [Crabe]: monsters_hd.md#crabe
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Crab
-- AltName: [Crabe géant]
-- Medium beast, unaligned
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 13 (3d8)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Giant Crab</Name>
+- <AltName>[Crabe géant]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>13 (3d8)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|15 (+2)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
+|<Strength>13 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Skills** Stealth +4
-- **Senses** blindsight 30 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Stealth +4</Skills>
+- **Senses** <Senses>blindsight 30 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -1976,22 +2084,24 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 [Crabe géant]: monsters_hd.md#crabe-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Toad
-- AltName: [Crapaud géant]
-- Large beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 39 (6d10 + 6)
-- **Speed** 20 ft., swim 40 ft.
+<Monster>
+
+# <Name>Giant Toad</Name>
+- <AltName>[Crapaud géant]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>39 (6d10 + 6)</HitPoints>
+- **Speed** <Speed>20 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength>15 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Senses** <Senses>darkvision 30 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -2010,23 +2120,25 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [Crapaud géant]: monsters_hd.md#crapaud-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Shrieker
-- AltName: [Criard]
-- Medium plant, unaligned
-- **Armor Class** 5
-- **Hit Points** 13 (3d8)
-- **Speed** 0 ft.
+<Monster>
+
+# <Name>Shrieker</Name>
+- <AltName>[Criard]</AltName>
+- <Size>Medium</Size> <Type>plant</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>5</ArmorClass>
+- **Hit Points** <HitPoints>13 (3d8)</HitPoints>
+- **Speed** <Speed>0 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength> 1 (-5)</Strength>|<Dexterity> 1 (-5)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
-- **Languages** -
-- **Challenge** 0 (10 XP)
-- **Condition Immunities** blinded, deafened, frightened
+- **Senses** <Senses>blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>blinded, deafened, frightened</ConditionImmunities>
 
 ## Special Features
 
@@ -2039,23 +2151,25 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 [Criard]: monsters_hd.md#criard
 
 
-[][MonsterVO]
+</Monster>
 
-# Crocodile
-- AltName: [Crocodile]
-- Large beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 20 ft., swim 30 ft.
+<Monster>
+
+# <Name>Crocodile</Name>
+- <AltName>[Crocodile]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>20 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Stealth +2
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Stealth +2</Skills>
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -2070,23 +2184,25 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 [Crocodile]: monsters_hd.md#crocodile
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Crocodile
-- AltName: [Crocodile géant]
-- Huge beast, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 85 (9d12 + 27)
-- **Speed** 30 ft., swim 50 ft.
+<Monster>
+
+# <Name>Giant Crocodile</Name>
+- <AltName>[Crocodile géant]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>85 (9d12 + 27)</HitPoints>
+- **Speed** <Speed>30 ft., swim 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Stealth +5
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 5 (1800 XP)
+- **Skills** <Skills>Stealth +5</Skills>
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -2108,23 +2224,25 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Gelatinous Cube
-- AltName: [Cube gélatineux]
-- Large ooze, unaligned
-- **Armor Class** 6
-- **Hit Points** 84 (8d10 + 40)
-- **Speed** 15 ft.
+<Monster>
+
+# <Name>Gelatinous Cube</Name>
+- <AltName>[Cube gélatineux]</AltName>
+- <Size>Large</Size> <Type>ooze</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>6</ArmorClass>
+- **Hit Points** <HitPoints>84 (8d10 + 40)</HitPoints>
+- **Speed** <Speed>15 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
+|<Strength>14 (+2)</Strength>|<Dexterity> 3 (-4)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Senses** <Senses>blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, exhaustion, frightened, prone</ConditionImmunities>
 
 ## Special Features
 
@@ -2144,23 +2262,25 @@ _Hit_: 10 (3d6) acid damage.
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Nightmare
-- AltName: [Destrier noir]
-- Large fiend, neutral evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 68 (8d10 + 24)
-- **Speed** 60 ft., fly 90 ft.
+<Monster>
+
+# <Name>Nightmare</Name>
+- <AltName>[Destrier noir]</AltName>
+- <Size>Large</Size> <Type>fiend</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>68 (8d10 + 24)</HitPoints>
+- **Speed** <Speed>60 ft., fly 90 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Senses** passive Perception 11
-- **Languages** understands Abyssal, Common, and Infernal but can't speak
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** fire
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>understands Abyssal, Common, and Infernal but can't speak</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -2179,27 +2299,29 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 [Destrier noir]: monsters_hd.md#destrier-noir
 
 
-[][MonsterVO]
+</Monster>
 
-# Barbed Devil
-- AltName: [Diable barbelé]
-- Medium fiend (devil), lawful evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 110 (13d8 + 52)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Barbed Devil</Name>
+- <AltName>[Diable barbelé]</AltName>
+- <Size>Medium</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>110 (13d8 + 52)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
-- **Skills** Deception +5, Insight +5, Perception +8
-- **Senses** darkvision 120 ft., passive Perception 18
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +6, Con +7, Wis +5, Cha +5</SavingThrows>
+- **Skills** <Skills>Deception +5, Insight +5, Perception +8</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 18</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2228,26 +2350,28 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 [Diable barbelé]: monsters_hd.md#diable-barbelé
 
 
-[][MonsterVO]
+</Monster>
 
-# Bearded Devil
-- AltName: [Diable barbu]
-- Medium fiend (devil), lawful evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 52 (8d8 + 16)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Bearded Devil</Name>
+- <AltName>[Diable barbu]</AltName>
+- <Size>Medium</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>52 (8d8 + 16)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|15 (+2)|15 (+2)| 9 (-1)|11 (+0)|11 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Saving Throws** Str +5, Con +4, Wis +2
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +5, Con +4, Wis +2</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2272,26 +2396,28 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 [Diable barbu]: monsters_hd.md#diable-barbu
 
 
-[][MonsterVO]
+</Monster>
 
-# Horned Devil
-- AltName: [Diable cornu]
-- Large fiend (devil), lawful evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (17d10 + 85)
-- **Speed** 20 ft., fly 60 ft.
+<Monster>
+
+# <Name>Horned Devil</Name>
+- <AltName>[Diable cornu]</AltName>
+- <Size>Large</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>178 (17d10 + 85)</HitPoints>
+- **Speed** <Speed>20 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
+|<Strength>22 (+6)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
-- **Senses** darkvision 120 ft., passive Perception 13
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 11 (7200 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +10, Dex +7, Wis +7, Cha +7</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2318,26 +2444,28 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 [Diable cornu]: monsters_hd.md#diable-cornu
 
 
-[][MonsterVO]
+</Monster>
 
-# Chain Devil
-- AltName: [Diable des chaînes]
-- Medium fiend (devil), lawful evil
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 85 (10d8 + 40)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Chain Devil</Name>
+- <AltName>[Diable des chaînes]</AltName>
+- <Size>Medium</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>85 (10d8 + 40)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Saving Throws** Con +7, Wis +4, Cha +5
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 8 (3900 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Con +7, Wis +4, Cha +5</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2362,26 +2490,28 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 [Diable des chaînes]: monsters_hd.md#diable-des-chaînes
 
 
-[][MonsterVO]
+</Monster>
 
-# Ice Devil
-- AltName: [Diable gelé]
-- Large fiend (devil), lawful evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 180 (19d10 + 76)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Ice Devil</Name>
+- <AltName>[Diable gelé]</AltName>
+- <Size>Large</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>180 (19d10 + 76)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
+|<Strength>21 (+5)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 14 (11500 XP)
-- **Damage Immunities** cold, fire, poison
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +7, Con +9, Wis +7, Cha +9</SavingThrows>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>14 (11500 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold, fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2410,27 +2540,29 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 [Diable gelé]: monsters_hd.md#diable-gelé
 
 
-[][MonsterVO]
+</Monster>
 
-# Bone Devil
-- AltName: [Diable osseux]
-- Large fiend (devil), lawful evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 142 (15d10 + 60)
-- **Speed** 40 ft., fly 40 ft.
+<Monster>
+
+# <Name>Bone Devil</Name>
+- <AltName>[Diable osseux]</AltName>
+- <Size>Large</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>142 (15d10 + 60)</HitPoints>
+- **Speed** <Speed>40 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Int +5, Wis +6, Cha +7
-- **Skills** Deception +7, Insight +6
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 9 (5000 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Int +5, Wis +6, Cha +7</SavingThrows>
+- **Skills** <Skills>Deception +7, Insight +6</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2453,26 +2585,28 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 [Diable osseux]: monsters_hd.md#diable-osseux
 
 
-[][MonsterVO]
+</Monster>
 
-# Imp
-- AltName: [Diablotin]
-- Tiny fiend (devil, shapechanger), lawful evil
-- **Armor Class** 13
-- **Hit Points** 10 (3d4 + 3)
-- **Speed** 20 ft., fly 40 ft.
+<Monster>
+
+# <Name>Imp</Name>
+- <AltName>[Diablotin]</AltName>
+- <Size>Tiny</Size> <Type>fiend (devil</Type>, <Alignment>shapechanger), lawful evil</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>10 (3d4 + 3)</HitPoints>
+- **Speed** <Speed>20 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Languages** Infernal, Common
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Skills** <Skills>Deception +4, Insight +3, Persuasion +4, Stealth +5</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Infernal, Common</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2493,26 +2627,28 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 [Diablotin]: monsters_hd.md#diablotin
 
 
-[][MonsterVO]
+</Monster>
 
-# Pit Fiend
-- AltName: [Diantrefosse]
-- Large fiend (devil), lawful evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 300 (24d10 + 168)
-- **Speed** 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Pit Fiend</Name>
+- <AltName>[Diantrefosse]</AltName>
+- <Size>Large</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>300 (24d10 + 168)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
+|<Strength>26 (+8)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>24 (+7)</Constitution>|<Intelligence>22 (+6)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>24 (+7)</Charisma>|
 
-- **Saving Throws** Dex +8, Con +13, Wis +10
-- **Senses** truesight 120 ft., passive Perception 14
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 20 (25000 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +8, Con +13, Wis +10</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>20 (25000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -2551,24 +2687,26 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 [Diantrefosse]: monsters_hd.md#diantrefosse
 
 
-[][MonsterVO]
+</Monster>
 
-# Djinni
-- AltName: [Djinn]
-- Large elemental, chaotic good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 161 (14d10 + 84)
-- **Speed** 30 ft., fly 90 ft.
+<Monster>
+
+# <Name>Djinni</Name>
+- <AltName>[Djinn]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>161 (14d10 + 84)</HitPoints>
+- **Speed** <Speed>30 ft., fly 90 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
+|<Strength>21 (+5)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>15 (+2)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Saving Throws** Dex +6, Wis +7, Cha +9
-- **Senses** darkvision 120 ft., passive Perception 13
-- **Languages** Auran
-- **Challenge** 11 (7200 XP)
-- **Damage Immunities** lightning, thunder
+- **Saving Throws** <SavingThrows>Dex +6, Wis +7, Cha +9</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Auran</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning, thunder</DamageImmunities>
 
 ## Special Features
 
@@ -2595,24 +2733,26 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 [Djinn]: monsters_hd.md#djinn
 
 
-[][MonsterVO]
+</Monster>
 
-# Doppelganger
-- AltName: [Doppleganger]
-- Medium monstrosity (shapechanger), neutral
-- **Armor Class** 14
-- **Hit Points** 52 (8d8 + 16)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Doppelganger</Name>
+- <AltName>[Doppleganger]</AltName>
+- <Size>Medium</Size> <Type>monstrosity (shapechanger)</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>14</ArmorClass>
+- **Hit Points** <HitPoints>52 (8d8 + 16)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
+|<Strength>11 (+0)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Skills** Deception +6, Insight +3
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** Common
-- **Challenge** 3 (700 XP)
-- **Condition Immunities** charmed
+- **Skills** <Skills>Deception +6, Insight +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Common</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>charmed</ConditionImmunities>
 
 ## Special Features
 
@@ -2635,25 +2775,27 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 [Doppleganger]: monsters_hd.md#doppleganger
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult White Dragon
-- AltName: [Dragon blanc adulte]
-- Huge dragon, chaotic evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 200 (16d12 + 96)
-- **Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Adult White Dragon</Name>
+- <AltName>[Dragon blanc adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>200 (16d12 + 96)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|10 (+0)|22 (+6)| 8 (-1)|12 (+1)|12 (+1)|
+|<Strength>22 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
-- **Skills** Perception +11, Stealth +5
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
-- **Languages** Common, Draconic
-- **Challenge** 13 (10000 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +5, Con +11, Wis +6, Cha +6</SavingThrows>
+- **Skills** <Skills>Perception +11, Stealth +5</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 21</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>13 (10000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -2694,25 +2836,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon blanc adulte]: monsters_hd.md#dragon-blanc-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient White Dragon
-- AltName: [Dragon blanc vénérable]
-- Gargantuan dragon, chaotic evil
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 333 (18d20 + 144)
-- **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Ancient White Dragon</Name>
+- <AltName>[Dragon blanc vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>20 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>333 (18d20 + 144)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|
+|<Strength>26 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>26 (+8)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
-- **Skills** Perception +13, Stealth +6
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
-- **Languages** Common, Draconic
-- **Challenge** 20 (25000 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +6, Con +14, Wis +7, Cha +8</SavingThrows>
+- **Skills** <Skills>Perception +13, Stealth +6</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 23</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>20 (25000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -2753,25 +2897,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon blanc vénérable]: monsters_hd.md#dragon-blanc-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young White Dragon
-- AltName: [Jeune dragon blanc]
-- Large dragon, chaotic evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 133 (14d10 + 56)
-- **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Young White Dragon</Name>
+- <AltName>[Jeune dragon blanc]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>133 (14d10 + 56)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|18 (+4)| 6 (-2)|11 (+0)|12 (+1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
-- **Skills** Perception +6, Stealth +3
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
-- **Languages** Common, Draconic
-- **Challenge** 6 (2300 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +3, Con +7, Wis +3, Cha +4</SavingThrows>
+- **Skills** <Skills>Perception +6, Stealth +3</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 16</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -2794,25 +2940,27 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon blanc]: monsters_hd.md#jeune-dragon-blanc
 
 
-[][MonsterVO]
+</Monster>
 
-# White Dragon Wyrmling
-- AltName: [Dragonnet blanc]
-- Medium dragon, chaotic evil
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 32 (5d8 + 10)
-- **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+<Monster>
+
+# <Name>White Dragon Wyrmling</Name>
+- <AltName>[Dragonnet blanc]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>32 (5d8 + 10)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|10 (+0)|14 (+2)| 5 (-3)|10 (+0)|11 (+0)|
+|<Strength>14 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +2, Con +4, Wis +2, Cha +2</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -2825,25 +2973,27 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 [Dragonnet blanc]: monsters_hd.md#dragonnet-blanc
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Blue Dragon
-- AltName: [Dragon bleu adulte]
-- Huge dragon, lawful evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 225 (18d12 + 108)
-- **Speed** 40 ft., burrow 30 ft., fly 80 ft.
+<Monster>
+
+# <Name>Adult Blue Dragon</Name>
+- <AltName>[Dragon bleu adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>225 (18d12 + 108)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 30 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>23 (+6)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
-- **Skills** Perception +12, Stealth +5
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
-- **Languages** Common, Draconic
-- **Challenge** 16 (15000 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +5, Con +11, Wis +7, Cha +9</SavingThrows>
+- **Skills** <Skills>Perception +12, Stealth +5</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 22</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>16 (15000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -2882,25 +3032,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon bleu adulte]: monsters_hd.md#dragon-bleu-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Blue Dragon
-- AltName: [Dragon bleu vénérable]
-- Gargantuan dragon, lawful evil
-- **Armor Class** 22 (natural armor)
-- **Hit Points** 481 (26d20 + 208)
-- **Speed** 40 ft., burrow 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Ancient Blue Dragon</Name>
+- <AltName>[Dragon bleu vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>22 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>481 (26d20 + 208)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
+|<Strength>29 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>27 (+8)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
-- **Skills** Perception +17, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Languages** Common, Draconic
-- **Challenge** 23 (50000 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +7, Con +15, Wis +10, Cha +12</SavingThrows>
+- **Skills** <Skills>Perception +17, Stealth +7</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 27</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>23 (50000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -2939,25 +3091,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon bleu vénérable]: monsters_hd.md#dragon-bleu-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Blue Dragon
-- AltName: [Jeune dragon bleu]
-- Large dragon, lawful evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 152 (16d10 + 64)
-- **Speed** 40 ft., burrow 20 ft., fly 80 ft.
+<Monster>
+
+# <Name>Young Blue Dragon</Name>
+- <AltName>[Jeune dragon bleu]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>152 (16d10 + 64)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 20 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>21 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
-- **Skills** Perception +9, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
-- **Languages** Common, Draconic
-- **Challenge** 9 (5000 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +4, Con +8, Wis +5, Cha +7</SavingThrows>
+- **Skills** <Skills>Perception +9, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 19</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -2976,25 +3130,27 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Jeune dragon bleu]: monsters_hd.md#jeune-dragon-bleu
 
 
-[][MonsterVO]
+</Monster>
 
-# Blue Dragon Wyrmling
-- AltName: [Dragonnet bleu]
-- Medium dragon, lawful evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 52 (8d8 + 16)
-- **Speed** 30 ft., burrow 15 ft., fly 60 ft.
+<Monster>
+
+# <Name>Blue Dragon Wyrmling</Name>
+- <AltName>[Dragonnet bleu]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>52 (8d8 + 16)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 15 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +2, Con +4, Wis +2, Cha +4</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -3007,25 +3163,27 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 [Dragonnet bleu]: monsters_hd.md#dragonnet-bleu
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Brass Dragon
-- AltName: [Dragon d'airain adulte]
-- Huge dragon, chaotic good
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 172 (15d12 + 75)
-- **Speed** 40 ft., burrow 30 ft., fly 80 ft.
+<Monster>
+
+# <Name>Adult Brass Dragon</Name>
+- <AltName>[Dragon d'airain adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>172 (15d12 + 75)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 30 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
-- **Skills** History +7, Perception +11, Persuasion +8, Stealth +5
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
-- **Languages** Common, Draconic
-- **Challenge** 13 (10000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +5, Con +10, Wis +6, Cha +8</SavingThrows>
+- **Skills** <Skills>History +7, Perception +11, Persuasion +8, Stealth +5</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 21</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>13 (10000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3068,25 +3226,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'airain adulte]: monsters_hd.md#dragon-dairain-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Brass Dragon
-- AltName: [Dragon d'airain vénérable]
-- Gargantuan dragon, chaotic good
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 297 (17d20 + 119)
-- **Speed** 40 ft., burrow 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Ancient Brass Dragon</Name>
+- <AltName>[Dragon d'airain vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>20 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>297 (17d20 + 119)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +13, Wis +8, Cha +10
-- **Skills** History +9, Perception +14, Persuasion +10, Stealth +6
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
-- **Languages** Common, Draconic
-- **Challenge** 20 (25000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +6, Con +13, Wis +8, Cha +10</SavingThrows>
+- **Skills** <Skills>History +9, Perception +14, Persuasion +10, Stealth +6</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 24</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>20 (25000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3131,25 +3291,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'airain vénérable]: monsters_hd.md#dragon-dairain-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Brass Dragon
-- AltName: [Jeune dragon d'airain]
-- Large dragon, chaotic good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 110 (13d10 + 39)
-- **Speed** 40 ft., burrow 20 ft., fly 80 ft.
+<Monster>
+
+# <Name>Young Brass Dragon</Name>
+- <AltName>[Jeune dragon d'airain]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>110 (13d10 + 39)</HitPoints>
+- **Speed** <Speed>40 ft., burrow 20 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
-- **Skills** Perception +6, Persuasion +5, Stealth +3
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
-- **Languages** Common, Draconic
-- **Challenge** 6 (2300 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +3, Con +6, Wis +3, Cha +5</SavingThrows>
+- **Skills** <Skills>Perception +6, Persuasion +5, Stealth +3</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 16</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3172,25 +3334,27 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon d'airain]: monsters_hd.md#jeune-dragon-dairain
 
 
-[][MonsterVO]
+</Monster>
 
-# Brass Dragon Wyrmling
-- AltName: [Dragonnet d'airain]
-- Medium dragon, chaotic good
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 16 (3d8 + 3)
-- **Speed** 30 ft., burrow 15 ft., fly 60 ft.
+<Monster>
+
+# <Name>Brass Dragon Wyrmling</Name>
+- <AltName>[Dragonnet d'airain]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>16 (3d8 + 3)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 15 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +2, Con +3, Wis +2, Cha +3</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3207,25 +3371,27 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 [Dragonnet d'airain]: monsters_hd.md#dragonnet-dairain
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Silver Dragon
-- AltName: [Dragon d'argent adulte]
-- Huge dragon, lawful good
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 243 (18d12 + 126)
-- **Speed** 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Adult Silver Dragon</Name>
+- <AltName>[Dragon d'argent adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>243 (18d12 + 126)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
-- **Skills** Arcana +8, History +8, Perception +11, Stealth +5
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
-- **Languages** Common, Draconic
-- **Challenge** 16 (15000 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +5, Con +12, Wis +6, Cha +10</SavingThrows>
+- **Skills** <Skills>Arcana +8, History +8, Perception +11, Stealth +5</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 21</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>16 (15000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -3270,25 +3436,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'argent adulte]: monsters_hd.md#dragon-dargent-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Silver Dragon
-- AltName: [Dragon d'argent vénérable]
-- Gargantuan dragon, lawful good
-- **Armor Class** 22 (natural armor)
-- **Hit Points** 487 (25d20 + 225)
-- **Speed** 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Ancient Silver Dragon</Name>
+- <AltName>[Dragon d'argent vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>22 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>487 (25d20 + 225)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
+|<Strength>30 (+10)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>29 (+9)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>23 (+6)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
-- **Skills** Arcana +11, History +11, Perception +16, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
-- **Languages** Common, Draconic
-- **Challenge** 23 (50000 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +7, Con +16, Wis +9, Cha +13</SavingThrows>
+- **Skills** <Skills>Arcana +11, History +11, Perception +16, Stealth +7</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 26</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>23 (50000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -3333,25 +3501,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'argent vénérable]: monsters_hd.md#dragon-dargent-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Silver Dragon
-- AltName: [Jeune dragon d'argent]
-- Large dragon, lawful good
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 168 (16d10 + 80)
-- **Speed** 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Young Silver Dragon</Name>
+- <AltName>[Jeune dragon d'argent]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>168 (16d10 + 80)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
+|<Strength>23 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
-- **Skills** Arcana +6, History +6, Perception +8, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
-- **Languages** Common, Draconic
-- **Challenge** 9 (5000 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +4, Con +9, Wis +4, Cha +8</SavingThrows>
+- **Skills** <Skills>Arcana +6, History +6, Perception +8, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 18</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -3374,25 +3544,27 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon d'argent]: monsters_hd.md#jeune-dragon-dargent
 
 
-[][MonsterVO]
+</Monster>
 
-# Silver Dragon Wyrmling
-- AltName: [Dragonnet d'argent]
-- Medium dragon, lawful good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 45 (6d8 + 18)
-- **Speed** 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Silver Dragon Wyrmling</Name>
+- <AltName>[Dragonnet d'argent]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d8 + 18)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Dex +2, Con +5, Wis +2, Cha +4</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -3409,25 +3581,27 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 [Dragonnet d'argent]: monsters_hd.md#dragonnet-dargent
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Gold Dragon
-- AltName: [Dragon d'or adulte]
-- Huge dragon, lawful good
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 256 (19d12 + 133)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Adult Gold Dragon</Name>
+- <AltName>[Dragon d'or adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>256 (19d12 + 133)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)|
+|<Strength>27 (+8)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>24 (+7)</Charisma>|
 
-- **Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
-- **Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
-- **Languages** Common, Draconic
-- **Challenge** 17 (18000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +8, Con +13, Wis +8, Cha +13</SavingThrows>
+- **Skills** <Skills>Insight +8, Perception +14, Persuasion +13, Stealth +8</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 24</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>17 (18000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3474,25 +3648,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'or adulte]: monsters_hd.md#dragon-dor-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Gold Dragon
-- AltName: [Dragon d'or vénérable]
-- Gargantuan dragon, lawful good
-- **Armor Class** 22 (natural armor)
-- **Hit Points** 546 (28d20 + 252)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Ancient Gold Dragon</Name>
+- <AltName>[Dragon d'or vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>22 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>546 (28d20 + 252)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)|
+|<Strength>30 (+10)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>29 (+9)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>28 (+9)</Charisma>|
 
-- **Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
-- **Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Languages** Common, Draconic
-- **Challenge** 24 (62000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +9, Con +16, Wis +10, Cha +16</SavingThrows>
+- **Skills** <Skills>Insight +10, Perception +17, Persuasion +16, Stealth +9</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 27</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>24 (62000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3539,25 +3715,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon d'or vénérable]: monsters_hd.md#dragon-dor-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Gold Dragon
-- AltName: [Jeune dragon d'or]
-- Large dragon, lawful good
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (17d10 + 85)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Young Gold Dragon</Name>
+- <AltName>[Jeune dragon d'or]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>178 (17d10 + 85)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)|
+|<Strength>23 (+6)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
-- **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
-- **Languages** Common, Draconic
-- **Challenge** 10 (5900 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +6, Con +9, Wis +5, Cha +9</SavingThrows>
+- **Skills** <Skills>Insight +5, Perception +9, Persuasion +9, Stealth +6</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 19</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>10 (5900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3584,25 +3762,27 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon d'or]: monsters_hd.md#jeune-dragon-dor
 
 
-[][MonsterVO]
+</Monster>
 
-# Gold Dragon Wyrmling
-- AltName: [Dragonnet d'or]
-- Medium dragon, lawful good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 60 (8d8 + 24)
-- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+<Monster>
+
+# <Name>Gold Dragon Wyrmling</Name>
+- <AltName>[Dragonnet d'or]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>60 (8d8 + 24)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)|
+|<Strength>19 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
-- **Skills** Perception +4, Stealth +4
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +4, Con +5, Wis +2, Cha +5</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -3623,25 +3803,27 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 [Dragonnet d'or]: monsters_hd.md#dragonnet-dor
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Bronze Dragon
-- AltName: [Dragon de bronze adulte]
-- Huge dragon, lawful good
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 212 (17d12 + 102)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Adult Bronze Dragon</Name>
+- <AltName>[Dragon de bronze adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>212 (17d12 + 102)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>23 (+6)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
-- **Skills** Insight +7, Perception +12, Stealth +5
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
-- **Languages** Common, Draconic
-- **Challenge** 15 (13000 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +5, Con +11, Wis +7, Cha +9</SavingThrows>
+- **Skills** <Skills>Insight +7, Perception +12, Stealth +5</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 22</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>15 (13000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -3688,25 +3870,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de bronze adulte]: monsters_hd.md#dragon-de-bronze-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Bronze Dragon
-- AltName: [Dragon de bronze vénérable]
-- Gargantuan dragon, lawful good
-- **Armor Class** 22 (natural armor)
-- **Hit Points** 444 (24d20 + 192)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Ancient Bronze Dragon</Name>
+- <AltName>[Dragon de bronze vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>22 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>444 (24d20 + 192)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
+|<Strength>29 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>27 (+8)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
-- **Skills** Insight +10, Perception +17, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Languages** Common, Draconic
-- **Challenge** 22 (41000 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +7, Con +15, Wis +10, Cha +12</SavingThrows>
+- **Skills** <Skills>Insight +10, Perception +17, Stealth +7</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 27</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>22 (41000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -3753,25 +3937,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de bronze vénérable]: monsters_hd.md#dragon-de-bronze-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Bronze Dragon
-- AltName: [Jeune dragon de bronze]
-- Large dragon, lawful good
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 142 (15d10 + 60)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Young Bronze Dragon</Name>
+- <AltName>[Jeune dragon de bronze]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>142 (15d10 + 60)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>21 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
-- **Skills** Insight +4, Perception +7, Stealth +3
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
-- **Languages** Common, Draconic
-- **Challenge** 8 (3900 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +3, Con +7, Wis +4, Cha +6</SavingThrows>
+- **Skills** <Skills>Insight +4, Perception +7, Stealth +3</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 17</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -3798,25 +3984,27 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Jeune dragon de bronze]: monsters_hd.md#jeune-dragon-de-bronze
 
 
-[][MonsterVO]
+</Monster>
 
-# Bronze Dragon Wyrmling
-- AltName: [Dragonnet de bronze]
-- Medium dragon, lawful good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 32 (5d8 + 10)
-- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+<Monster>
+
+# <Name>Bronze Dragon Wyrmling</Name>
+- <AltName>[Dragonnet de bronze]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>32 (5d8 + 10)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** lightning
+- **Saving Throws** <SavingThrows>Dex +2, Con +4, Wis +2, Cha +4</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
 
 ## Special Features
 
@@ -3837,25 +4025,27 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 [Dragonnet de bronze]: monsters_hd.md#dragonnet-de-bronze
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Copper Dragon
-- AltName: [Dragon de cuivre adulte]
-- Huge dragon, chaotic good
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 184 (16d12 + 80)
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Adult Copper Dragon</Name>
+- <AltName>[Dragon de cuivre adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>184 (16d12 + 80)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
-- **Skills** Deception +8, Perception +12, Stealth +6
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
-- **Languages** Common, Draconic
-- **Challenge** 14 (11500 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +6, Con +10, Wis +7, Cha +8</SavingThrows>
+- **Skills** <Skills>Deception +8, Perception +12, Stealth +6</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 22</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>14 (11500 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -3898,25 +4088,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de cuivre adulte]: monsters_hd.md#dragon-de-cuivre-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Copper Dragon
-- AltName: [Dragon de cuivre vénérable]
-- Gargantuan dragon, chaotic good
-- **Armor Class** 21 (natural armor)
-- **Hit Points** 350 (20d20 + 140)
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Ancient Copper Dragon</Name>
+- <AltName>[Dragon de cuivre vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>21 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>350 (20d20 + 140)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
-- **Skills** Deception +11, Perception +17, Stealth +8
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Languages** Common, Draconic
-- **Challenge** 21 (33000 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +8, Con +14, Wis +10, Cha +11</SavingThrows>
+- **Skills** <Skills>Deception +11, Perception +17, Stealth +8</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 27</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>21 (33000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -3961,25 +4153,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon de cuivre vénérable]: monsters_hd.md#dragon-de-cuivre-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Copper Dragon
-- AltName: [Jeune dragon de cuivre]
-- Large dragon, chaotic good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 119 (14d10 + 42)
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Young Copper Dragon</Name>
+- <AltName>[Jeune dragon de cuivre]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>119 (14d10 + 42)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
-- **Skills** Deception +5, Perception +7, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
-- **Languages** Common, Draconic
-- **Challenge** 7 (2900 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +4, Con +6, Wis +4, Cha +5</SavingThrows>
+- **Skills** <Skills>Deception +5, Perception +7, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 17</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>7 (2900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -4002,25 +4196,27 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon de cuivre]: monsters_hd.md#jeune-dragon-de-cuivre
 
 
-[][MonsterVO]
+</Monster>
 
-# Copper Dragon Wyrmling
-- AltName: [Dragonnet de cuivre]
-- Medium dragon, chaotic good
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 22 (4d8 + 4)
-- **Speed** 30 ft., climb 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Copper Dragon Wyrmling</Name>
+- <AltName>[Dragonnet de cuivre]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>22 (4d8 + 4)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
-- **Skills** Perception +4, Stealth +3
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +3, Con +3, Wis +2, Cha +3</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +3</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -4037,25 +4233,27 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 [Dragonnet de cuivre]: monsters_hd.md#dragonnet-de-cuivre
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Black Dragon
-- AltName: [Dragon noir adulte]
-- Huge dragon, chaotic evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 195 (17d12 + 85)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Adult Black Dragon</Name>
+- <AltName>[Dragon noir adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>195 (17d12 + 85)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
-- **Skills** Perception +11, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
-- **Languages** Common, Draconic
-- **Challenge** 14 (11500 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +7, Con +10, Wis +6, Cha +8</SavingThrows>
+- **Skills** <Skills>Perception +11, Stealth +7</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 21</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>14 (11500 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -4096,25 +4294,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon noir adulte]: monsters_hd.md#dragon-noir-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Black Dragon
-- AltName: [Dragon noir vénérable]
-- Gargantuan dragon, chaotic evil
-- **Armor Class** 22 (natural armor)
-- **Hit Points** 367 (21d20 + 147)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Ancient Black Dragon</Name>
+- <AltName>[Dragon noir vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>22 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>367 (21d20 + 147)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
-- **Skills** Perception +16, Stealth +9
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
-- **Languages** Common, Draconic
-- **Challenge** 21 (33000 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +9, Con +14, Wis +9, Cha +11</SavingThrows>
+- **Skills** <Skills>Perception +16, Stealth +9</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 26</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>21 (33000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -4155,25 +4355,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon noir vénérable]: monsters_hd.md#dragon-noir-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Black Dragon
-- AltName: [Jeune dragon noir]
-- Large dragon, chaotic evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 127 (15d10 + 45)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Young Black Dragon</Name>
+- <AltName>[Jeune dragon noir]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>127 (15d10 + 45)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
-- **Skills** Perception +6, Stealth +5
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
-- **Languages** Common, Draconic
-- **Challenge** 7 (2900 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +5, Con +6, Wis +3, Cha +5</SavingThrows>
+- **Skills** <Skills>Perception +6, Stealth +5</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 16</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>7 (2900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -4196,25 +4398,27 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon noir]: monsters_hd.md#jeune-dragon-noir
 
 
-[][MonsterVO]
+</Monster>
 
-# Black Dragon Wyrmling
-- AltName: [Dragonnet noir]
-- Medium dragon, chaotic evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 33 (6d8 + 6)
-- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+<Monster>
+
+# <Name>Black Dragon Wyrmling</Name>
+- <AltName>[Dragonnet noir]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>33 (6d8 + 6)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
-- **Skills** Perception +4, Stealth +4
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** acid
+- **Saving Throws** <SavingThrows>Dex +4, Con +3, Wis +2, Cha +3</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
 
 ## Special Features
 
@@ -4231,25 +4435,27 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 [Dragonnet noir]: monsters_hd.md#dragonnet-noir
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Red Dragon
-- AltName: [Dragon rouge adulte]
-- Huge dragon, chaotic evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 256 (19d12 + 133)
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Adult Red Dragon</Name>
+- <AltName>[Dragon rouge adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>256 (19d12 + 133)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
-- **Skills** Perception +13, Stealth +6
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
-- **Languages** Common, Draconic
-- **Challenge** 17 (18000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +6, Con +13, Wis +7, Cha +11</SavingThrows>
+- **Skills** <Skills>Perception +13, Stealth +6</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 23</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>17 (18000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -4288,25 +4494,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon rouge adulte]: monsters_hd.md#dragon-rouge-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Red Dragon
-- AltName: [Dragon rouge vénérable]
-- Gargantuan dragon, chaotic evil
-- **Armor Class** 22 (natural armor)
-- **Hit Points** 546 (28d20 + 252)
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Ancient Red Dragon</Name>
+- <AltName>[Dragon rouge vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>22 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>546 (28d20 + 252)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
+|<Strength>30 (+10)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>29 (+9)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>23 (+6)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
-- **Skills** Perception +16, Stealth +7
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
-- **Languages** Common, Draconic
-- **Challenge** 24 (62000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +7, Con +16, Wis +9, Cha +13</SavingThrows>
+- **Skills** <Skills>Perception +16, Stealth +7</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 26</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>24 (62000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -4345,25 +4553,27 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon rouge vénérable]: monsters_hd.md#dragon-rouge-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Red Dragon
-- AltName: [Jeune dragon rouge]
-- Large dragon, chaotic evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (17d10 + 85)
-- **Speed** 40 ft., climb 40 ft., fly 80 ft.
+<Monster>
+
+# <Name>Young Red Dragon</Name>
+- <AltName>[Jeune dragon rouge]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>178 (17d10 + 85)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
+|<Strength>23 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
-- **Skills** Perception +8, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
-- **Languages** Common, Draconic
-- **Challenge** 10 (5900 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +4, Con +9, Wis +4, Cha +8</SavingThrows>
+- **Skills** <Skills>Perception +8, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 18</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>10 (5900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -4382,25 +4592,27 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 [Jeune dragon rouge]: monsters_hd.md#jeune-dragon-rouge
 
 
-[][MonsterVO]
+</Monster>
 
-# Red Dragon Wyrmling
-- AltName: [Dragonnet rouge]
-- Medium dragon, chaotic evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 75 (10d8 + 30)
-- **Speed** 30 ft., climb 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Red Dragon Wyrmling</Name>
+- <AltName>[Dragonnet rouge]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>75 (10d8 + 30)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
-- **Skills** Perception +4, Stealth +2
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +2, Con +5, Wis +2, Cha +4</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -4413,26 +4625,28 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 [Dragonnet rouge]: monsters_hd.md#dragonnet-rouge
 
 
-[][MonsterVO]
+</Monster>
 
-# Adult Green Dragon
-- AltName: [Dragon vert adulte]
-- Huge dragon, lawful evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 207 (18d12 + 90)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Adult Green Dragon</Name>
+- <AltName>[Dragon vert adulte]</AltName>
+- <Size>Huge</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>207 (18d12 + 90)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
-- **Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
-- **Languages** Common, Draconic
-- **Challenge** 15 (13000 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +6, Con +10, Wis +7, Cha +8</SavingThrows>
+- **Skills** <Skills>Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 22</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>15 (13000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -4473,26 +4687,28 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon vert adulte]: monsters_hd.md#dragon-vert-adulte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ancient Green Dragon
-- AltName: [Dragon vert vénérable]
-- Gargantuan dragon, lawful evil
-- **Armor Class** 21 (natural armor)
-- **Hit Points** 385 (22d20 + 154)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Ancient Green Dragon</Name>
+- <AltName>[Dragon vert vénérable]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>21 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>385 (22d20 + 154)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
-- **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
-- **Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
-- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
-- **Languages** Common, Draconic
-- **Challenge** 22 (41000 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +8, Con +14, Wis +10, Cha +11</SavingThrows>
+- **Skills** <Skills>Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8</Skills>
+- **Senses** <Senses>blindsight 60 ft., darkvision 120 ft., passive Perception 27</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>22 (41000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -4533,26 +4749,28 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 [Dragon vert vénérable]: monsters_hd.md#dragon-vert-vénérable
 
 
-[][MonsterVO]
+</Monster>
 
-# Young Green Dragon
-- AltName: [Jeune dragon vert]
-- Large dragon, lawful evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 136 (16d10 + 48)
-- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+<Monster>
+
+# <Name>Young Green Dragon</Name>
+- <AltName>[Jeune dragon vert]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>136 (16d10 + 48)</HitPoints>
+- **Speed** <Speed>40 ft., fly 80 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
-- **Skills** Deception +5, Perception +7, Stealth +4
-- **Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
-- **Languages** Common, Draconic
-- **Challenge** 8 (3900 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +4, Con +6, Wis +4, Cha +5</SavingThrows>
+- **Skills** <Skills>Deception +5, Perception +7, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 30 ft., darkvision 120 ft., passive Perception 17</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -4575,26 +4793,28 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Jeune dragon vert]: monsters_hd.md#jeune-dragon-vert
 
 
-[][MonsterVO]
+</Monster>
 
-# Green Dragon Wyrmling
-- AltName: [Dragonnet vert]
-- Medium dragon, lawful evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 38 (7d8 + 7)
-- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+<Monster>
+
+# <Name>Green Dragon Wyrmling</Name>
+- <AltName>[Dragonnet vert]</AltName>
+- <Size>Medium</Size> <Type>dragon</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>38 (7d8 + 7)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
-- **Skills** Perception +4, Stealth +3
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
-- **Languages** Draconic
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +3, Con +3, Wis +2, Cha +3</SavingThrows>
+- **Skills** <Skills>Perception +4, Stealth +3</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -4611,24 +4831,26 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 [Dragonnet vert]: monsters_hd.md#dragonnet-vert
 
 
-[][MonsterVO]
+</Monster>
 
-# Dragon Turtle
-- AltName: [Dragon-tortue]
-- Gargantuan dragon, neutral
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 341 (22d20 + 110)
-- **Speed** 20 ft., swim 40 ft.
+<Monster>
+
+# <Name>Dragon Turtle</Name>
+- <AltName>[Dragon-tortue]</AltName>
+- <Size>Gargantuan</Size> <Type>dragon</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>20 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>341 (22d20 + 110)</HitPoints>
+- **Speed** <Speed>20 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +11, Wis +7
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Languages** Aquan, Draconic
-- **Challenge** 17 (18000 XP)
-- **Damage Resistances** fire
+- **Saving Throws** <SavingThrows>Dex +6, Con +11, Wis +7</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Aquan, Draconic</Languages>
+- **Challenge** <Challenge>17 (18000 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>fire</DamageResistances>
 
 ## Special Features
 
@@ -4655,25 +4877,27 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 [Dragon-tortue]: monsters_hd.md#dragon-tortue
 
 
-[][MonsterVO]
+</Monster>
 
-# Dretch
-- AltName: [Dretch]
-- Small fiend (demon), chaotic evil
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 18 (4d6 + 4)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Dretch</Name>
+- <AltName>[Dretch]</AltName>
+- <Size>Small</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>18 (4d6 + 4)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|11 (+0)|12 (+1)| 5 (-3)| 8 (-1)| 3 (-4)|
+|<Strength>11 (+0)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
-- **Challenge** 1/4 (50 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning
-- **Condition Immunities** poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -4692,23 +4916,25 @@ _Hit_: 5 (2d4) slashing damage.
 [Dretch]: monsters_hd.md#dretch
 
 
-[][MonsterVO]
+</Monster>
 
-# Drider
-- AltName: [Drider]
-- Large monstrosity, chaotic evil
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 123 (13d10 + 52)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Drider</Name>
+- <AltName>[Drider]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>123 (13d10 + 52)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Skills** Perception +5, Stealth +9
-- **Senses** darkvision 120 ft., passive Perception 15
-- **Languages** Elvish, Undercommon
-- **Challenge** 6 (2300 XP)
+- **Skills** <Skills>Perception +5, Stealth +9</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 15</Senses>
+- **Languages** <Languages>Elvish, Undercommon</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
 
 ## Special Features
 
@@ -4745,23 +4971,25 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 [Drider]: monsters_hd.md#drider
 
 
-[][MonsterVO]
+</Monster>
 
-# Drow
-- AltName: [Drow]
-- Medium humanoid (elf), neutral evil
-- **Armor Class** 15 (chain shirt)
-- **Hit Points** 13 (3d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Drow</Name>
+- <AltName>[Drow]</AltName>
+- <Size>Medium</Size> <Type>humanoid (elf)</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>15 (chain shirt)</ArmorClass>
+- **Hit Points** <HitPoints>13 (3d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Skills** Perception +2, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Languages** Elvish, Undercommon
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +2, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Elvish, Undercommon</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -4788,23 +5016,25 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 [Drow]: monsters_hd.md#drow
 
 
-[][MonsterVO]
+</Monster>
 
-# Druid
-- AltName: [Druide]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 11 (16 with
-- **Hit Points** 27 (5d8 + 5)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Druid</Name>
+- <AltName>[Druide]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>11 (16 with</ArmorClass>
+- **Hit Points** <HitPoints>27 (5d8 + 5)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Medicine +4, Nature +3, Perception +4
-- **Senses** passive Perception 14
-- **Languages** Druidic plus any two languages
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Medicine +4, Nature +3, Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>Druidic plus any two languages</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -4825,23 +5055,25 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 [Druide]: monsters_hd.md#druide
 
 
-[][MonsterVO]
+</Monster>
 
-# Dryad
-- AltName: [Dryade]
-- Medium fey, neutral
-- **Armor Class** 11 (16 with
-- **Hit Points** 22 (5d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Dryad</Name>
+- <AltName>[Dryade]</AltName>
+- <Size>Medium</Size> <Type>fey</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>11 (16 with</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
+|<Strength>10 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Skills** Perception +4, Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Elvish, Sylvan
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +4, Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Elvish, Sylvan</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -4870,23 +5102,25 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 [Dryade]: monsters_hd.md#dryade
 
 
-[][MonsterVO]
+</Monster>
 
-# Duergar
-- AltName: [Duergar]
-- Medium humanoid (dwarf), lawful evil
-- **Armor Class** 16 (scale mail, shield)
-- **Hit Points** 26 (4d8 + 8)
-- **Speed** 25 ft.
+<Monster>
+
+# <Name>Duergar</Name>
+- <AltName>[Duergar]</AltName>
+- <Size>Medium</Size> <Type>humanoid (dwarf)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>16 (scale mail, shield)</ArmorClass>
+- **Hit Points** <HitPoints>26 (4d8 + 8)</HitPoints>
+- **Speed** <Speed>25 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)| 9 (-1)|
+|<Strength>14 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Languages** Dwarvish, Undercommon
-- **Challenge** 1 (200 XP)
-- **Damage Resistances** poison
+- **Senses** <Senses>darkvision 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Dwarvish, Undercommon</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>poison</DamageResistances>
 
 ## Special Features
 
@@ -4911,26 +5145,28 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 [Duergar]: monsters_hd.md#duergar
 
 
-[][MonsterVO]
+</Monster>
 
-# Deva
-- AltName: [Déva]
-- Medium celestial, lawful good
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 136 (16d8 + 64)
-- **Speed** 30 ft., fly 90 ft.
+<Monster>
+
+# <Name>Deva</Name>
+- <AltName>[Déva]</AltName>
+- <Size>Medium</Size> <Type>celestial</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>136 (16d8 + 64)</HitPoints>
+- **Speed** <Speed>30 ft., fly 90 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
+|<Strength>18 (+4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>17 (+3)</Intelligence>|<Wisdom>20 (+5)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Saving Throws** Wis +9, Cha +9
-- **Skills** Insight +9, Perception +9
-- **Senses** darkvision 120 ft., passive Perception 19
-- **Languages** all, telepathy 120 ft.
-- **Challenge** 10 (5900 XP)
-- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** charmed, exhaustion, frightened
+- **Saving Throws** <SavingThrows>Wis +9, Cha +9</SavingThrows>
+- **Skills** <Skills>Insight +9, Perception +9</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 19</Senses>
+- **Languages** <Languages>all, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>10 (5900 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>radiant; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened</ConditionImmunities>
 
 ## Special Features
 
@@ -4959,23 +5195,25 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 [Déva]: monsters_hd.md#déva
 
 
-[][MonsterVO]
+</Monster>
 
-# Priest
-- AltName: [Ecclésiastique]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 13 (chain shirt)
-- **Hit Points** 27 (5d8 + 5)
-- **Speed** 25 ft.
+<Monster>
+
+# <Name>Priest</Name>
+- <AltName>[Ecclésiastique]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>13 (chain shirt)</ArmorClass>
+- **Hit Points** <HitPoints>27 (5d8 + 5)</HitPoints>
+- **Speed** <Speed>25 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Skills** Medicine +7, Persuasion +3, Religion +4
-- **Senses** passive Perception 13
-- **Languages** any two languages
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Medicine +7, Persuasion +3, Religion +4</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>any two languages</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -5000,23 +5238,25 @@ _Hit_: 3 (1d6) bludgeoning damage.
 [Ecclésiastique]: monsters_hd.md#ecclésiastique
 
 
-[][MonsterVO]
+</Monster>
 
-# Roper
-- AltName: [Enlaceur]
-- Large monstrosity, neutral evil
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 93 (11d10 + 33)
-- **Speed** 10 ft., climb 10 ft.
+<Monster>
+
+# <Name>Roper</Name>
+- <AltName>[Enlaceur]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>20 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>93 (11d10 + 33)</HitPoints>
+- **Speed** <Speed>10 ft., climb 10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)| 8 (-1)|17 (+3)| 7 (-2)|16 (+3)| 6 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +6, Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 16
-- **Languages** -
-- **Challenge** 5 (1800 XP)
+- **Skills** <Skills>Perception +6, Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 16</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -5043,23 +5283,25 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 [Enlaceur]: monsters_hd.md#enlaceur
 
 
-[][MonsterVO]
+</Monster>
 
-# Spy
-- AltName: [Espion]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 12
-- **Hit Points** 27 (6d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Spy</Name>
+- <AltName>[Espion]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>27 (6d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
-- **Senses** passive Perception 16
-- **Languages** any two languages
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4</Skills>
+- **Senses** <Senses>passive Perception 16</Senses>
+- **Languages** <Languages>any two languages</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -5082,23 +5324,25 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Espion]: monsters_hd.md#espion
 
 
-[][MonsterVO]
+</Monster>
 
-# Sprite
-- AltName: [Esprit follet]
-- Tiny fey, neutral good
-- **Armor Class** 15 (leather armor)
-- **Hit Points** 2 (1d4)
-- **Speed** 10 ft., fly 40 ft.
+<Monster>
+
+# <Name>Sprite</Name>
+- <AltName>[Esprit follet]</AltName>
+- <Size>Tiny</Size> <Type>fey</Type>, <Alignment>neutral good</Alignment>
+- **Armor Class** <ArmorClass>15 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>2 (1d4)</HitPoints>
+- **Speed** <Speed>10 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Perception +3, Stealth +8
-- **Senses** passive Perception 13
-- **Languages** Common, Elvish, Sylvan
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +3, Stealth +8</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Common, Elvish, Sylvan</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -5117,23 +5361,25 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 [Esprit follet]: monsters_hd.md#esprit-follet
 
 
-[][MonsterVO]
+</Monster>
 
-# Ettercap
-- AltName: [Ettercap]
-- Medium monstrosity, neutral evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 44 (8d8 + 8)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Ettercap</Name>
+- <AltName>[Ettercap]</AltName>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>44 (8d8 + 8)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|15 (+2)|13 (+1)| 7 (-2)|12 (+1)| 8 (-1)|
+|<Strength>14 (+2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4, Survival +3
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +3, Stealth +4, Survival +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -5162,23 +5408,25 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 [Ettercap]: monsters_hd.md#ettercap
 
 
-[][MonsterVO]
+</Monster>
 
-# Ettin
-- AltName: [Ettin]
-- Large giant, chaotic evil
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 85 (10d10 + 30)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Ettin</Name>
+- <AltName>[Ettin]</AltName>
+- <Size>Large</Size> <Type>giant</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>85 (10d10 + 30)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Giant, Orc
-- **Challenge** 4 (1100 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Giant, Orc</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
 
 ## Special Features
 
@@ -5201,23 +5449,25 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 [Ettin]: monsters_hd.md#ettin
 
 
-[][MonsterVO]
+</Monster>
 
-# Cult Fanatic
-- AltName: [Fanatique de secte]
-- Medium humanoid (any race), any non-good alignment
-- **Armor Class** 13 (leather armor)
-- **Hit Points** 33 (6d8 + 6)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Cult Fanatic</Name>
+- <AltName>[Fanatique de secte]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any non-good alignment</Alignment>
+- **Armor Class** <ArmorClass>13 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>33 (6d8 + 6)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
+|<Strength>11 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Skills** Deception +4, Persuasion +4, Religion +2
-- **Senses** passive Perception 11
-- **Languages** any one language (usually Common)
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Deception +4, Persuasion +4, Religion +2</Skills>
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -5242,25 +5492,27 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Fanatique de secte]: monsters_hd.md#fanatique-de-secte
 
 
-[][MonsterVO]
+</Monster>
 
-# Ghost
-- AltName: [Fantôme]
-- Medium undead, any alignment
-- **Armor Class** 11
-- **Hit Points** 45 (10d8)
-- **Speed** 0 ft., fly 40 ft. (hover)
+<Monster>
+
+# <Name>Ghost</Name>
+- <AltName>[Fantôme]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>45 (10d8)</HitPoints>
+- **Speed** <Speed>0 ft., fly 40 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** the languages it knew in life
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** cold, necrotic, poison
-- **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold, necrotic, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</ConditionImmunities>
 
 ## Special Features
 
@@ -5283,23 +5535,25 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 [Fantôme]: monsters_hd.md#fantôme
 
 
-[][MonsterVO]
+</Monster>
 
-# Hawk
-- AltName: [Faucon]
-- Tiny beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 10 ft., fly 60 ft.
+<Monster>
+
+# <Name>Hawk</Name>
+- <AltName>[Faucon]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>10 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|16 (+3)| 8 (-1)| 2 (-4)|14 (+2)| 6 (-2)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -5314,23 +5568,25 @@ _Hit_: 1 slashing damage.
 [Faucon]: monsters_hd.md#faucon
 
 
-[][MonsterVO]
+</Monster>
 
-# Blood Hawk
-- AltName: [Faucon de sang]
-- Small beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 7 (2d6)
-- **Speed** 10 ft., fly 60 ft.
+<Monster>
+
+# <Name>Blood Hawk</Name>
+- <AltName>[Faucon de sang]</AltName>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>7 (2d6)</HitPoints>
+- **Speed** <Speed>10 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)|10 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -5347,25 +5603,27 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Faucon de sang]: monsters_hd.md#faucon-de-sang
 
 
-[][MonsterVO]
+</Monster>
 
-# Will-o'-Wisp
-- AltName: [Feu follet]
-- Tiny undead, chaotic evil
-- **Armor Class** 19
-- **Hit Points** 22 (9d4)
-- **Speed** 0 ft., fly 50 ft. (hover)
+<Monster>
+
+# <Name>Will-o'-Wisp</Name>
+- <AltName>[Feu follet]</AltName>
+- <Size>Tiny</Size> <Type>undead</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>19</ArmorClass>
+- **Hit Points** <HitPoints>22 (9d4)</HitPoints>
+- **Speed** <Speed>0 ft., fly 50 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>28 (+9)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Languages** the languages it knew in life
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** lightning, poison
-- **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+- **Senses** <Senses>darkvision 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -5388,23 +5646,25 @@ _Hit_: 9 (2d8) lightning damage.
 [Feu follet]: monsters_hd.md#feu-follet
 
 
-[][MonsterVO]
+</Monster>
 
-# Guard
-- AltName: [Garde]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 16 (chain shirt, shield)
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Guard</Name>
+- <AltName>[Garde]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>16 (chain shirt, shield)</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** passive Perception 12
-- **Languages** any one language (usually Common)
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -5415,24 +5675,26 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Garde]: monsters_hd.md#garde
 
 
-[][MonsterVO]
+</Monster>
 
-# Shield Guardian
-- AltName: [Garde animé]
-- Large construct, unaligned
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 142 (15d10 + 60)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Shield Guardian</Name>
+- <AltName>[Garde animé]</AltName>
+- <Size>Large</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>142 (15d10 + 60)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
+|<Strength>18 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
-- **Languages** understands commands given in any language but can't speak
-- **Challenge** 7 (2900 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands commands given in any language but can't speak</Languages>
+- **Challenge** <Challenge>7 (2900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5457,25 +5719,27 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Garde animé]: monsters_hd.md#garde-animé
 
 
-[][MonsterVO]
+</Monster>
 
-# Gargoyle
-- AltName: [Gargouille]
-- Medium elemental, chaotic evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 52 (7d8 + 21)
-- **Speed** 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Gargoyle</Name>
+- <AltName>[Gargouille]</AltName>
+- <Size>Medium</Size> <Type>elemental</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>52 (7d8 + 21)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|11 (+0)|16 (+3)| 6 (-2)|11 (+0)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Terran
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** exhaustion, petrified, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Terran</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5496,25 +5760,27 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 [Gargouille]: monsters_hd.md#gargouille
 
 
-[][MonsterVO]
+</Monster>
 
-# Ochre Jelly
-- AltName: [Gelée ocre]
-- Large ooze, unaligned
-- **Armor Class** 8
-- **Hit Points** 45 (6d10 + 12)
-- **Speed** 10 ft., climb 10 ft.
+<Monster>
+
+# <Name>Ochre Jelly</Name>
+- <AltName>[Gelée ocre]</AltName>
+- <Size>Large</Size> <Type>ooze</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>8</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d10 + 12)</HitPoints>
+- **Speed** <Speed>10 ft., climb 10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
+|<Strength>15 (+2)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 60 ft. ([blind] beyond this radius), passive Perception 8
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** lightning, slashing
-- **Damage Resistances** acid
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Senses** <Senses>blindsight 60 ft. ([blind] beyond this radius), passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning, slashing</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, exhaustion, frightened, prone</ConditionImmunities>
 
 ## Special Features
 
@@ -5535,26 +5801,28 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 [Gelée ocre]: monsters_hd.md#gelée-ocre
 
 
-[][MonsterVO]
+</Monster>
 
-# Glabrezu
-- AltName: [Glabrezu]
-- Large fiend (demon), chaotic evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 157 (15d10 + 75)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Glabrezu</Name>
+- <AltName>[Glabrezu]</AltName>
+- <Size>Large</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>157 (15d10 + 75)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
+|<Strength>20 (+5)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>19 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
-- **Senses** truesight 120 ft., passive Perception 13
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 9 (5000 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +9, Con +9, Wis +7, Cha +7</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Abyssal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5581,24 +5849,26 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [Glabrezu]: monsters_hd.md#glabrezu
 
 
-[][MonsterVO]
+</Monster>
 
-# Gladiator
-- AltName: [Gladiateur]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 16 (studded leather, shield)
-- **Hit Points** 112 (15d8 + 45)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Gladiator</Name>
+- <AltName>[Gladiateur]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>16 (studded leather, shield)</ArmorClass>
+- **Hit Points** <HitPoints>112 (15d8 + 45)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Str +7, Dex +5, Con +6
-- **Skills** Athletics +10, Intimidation +5
-- **Senses** passive Perception 11
-- **Languages** any one language (usually Common)
-- **Challenge** 5 (1800 XP)
+- **Saving Throws** <SavingThrows>Str +7, Dex +5, Con +6</SavingThrows>
+- **Skills** <Skills>Athletics +10, Intimidation +5</Skills>
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -5625,22 +5895,24 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 [Gladiateur]: monsters_hd.md#gladiateur
 
 
-[][MonsterVO]
+</Monster>
 
-# Gnoll
-- AltName: [Gnoll]
-- Medium humanoid (gnoll), chaotic evil
-- **Armor Class** 15 (hide armor, shield)
-- **Hit Points** 22 (5d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Gnoll</Name>
+- <AltName>[Gnoll]</AltName>
+- <Size>Medium</Size> <Type>humanoid (gnoll)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>15 (hide armor, shield)</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
+|<Strength>14 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Gnoll
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Gnoll</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -5663,23 +5935,25 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Gnoll]: monsters_hd.md#gnoll
 
 
-[][MonsterVO]
+</Monster>
 
-# Deep Gnome (Svirfneblin)
-- AltName: [Gnome des profondeurs (svirfneblin)]
-- Small humanoid (gnome), neutral good
-- **Armor Class** 15 (chain shirt)
-- **Hit Points** 16 (3d6 + 6)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Deep Gnome (Svirfneblin)</Name>
+- <AltName>[Gnome des profondeurs (svirfneblin)]</AltName>
+- <Size>Small</Size> <Type>humanoid (gnome)</Type>, <Alignment>neutral good</Alignment>
+- **Armor Class** <ArmorClass>15 (chain shirt)</ArmorClass>
+- **Hit Points** <HitPoints>16 (3d6 + 6)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)| 9 (-1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Skills** Investigation +3, Perception +2, Stealth +4
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Languages** Gnomish, Terran, Undercommon
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Investigation +3, Perception +2, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Gnomish, Terran, Undercommon</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -5706,23 +5980,25 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 [Gnome des profondeurs (svirfneblin)]: monsters_hd.md#gnome-des-profondeurs-svirfneblin
 
 
-[][MonsterVO]
+</Monster>
 
-# Goblin
-- AltName: [Gobelin]
-- Small humanoid (goblinoid), neutral evil
-- **Armor Class** 15 (leather armor, shield)
-- **Hit Points** 7 (2d6)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Goblin</Name>
+- <AltName>[Gobelin]</AltName>
+- <Size>Small</Size> <Type>humanoid (goblinoid)</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>15 (leather armor, shield)</ArmorClass>
+- **Hit Points** <HitPoints>7 (2d6)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|14 (+2)|10 (+0)|10 (+0)| 8 (-1)| 8 (-1)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Stealth +6
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** Common, Goblin
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Stealth +6</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>Common, Goblin</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -5741,23 +6017,25 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Gobelin]: monsters_hd.md#gobelin
 
 
-[][MonsterVO]
+</Monster>
 
-# Bugbear
-- AltName: [Gobelours]
-- Medium humanoid (goblinoid), chaotic evil
-- **Armor Class** 16 (hide armor, shield)
-- **Hit Points** 27 (5d8 + 5)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Bugbear</Name>
+- <AltName>[Gobelours]</AltName>
+- <Size>Medium</Size> <Type>humanoid (goblinoid)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>16 (hide armor, shield)</ArmorClass>
+- **Hit Points** <HitPoints>27 (5d8 + 5)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|13 (+1)| 8 (-1)|11 (+0)| 9 (-1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Skills** Stealth +6, Survival +2
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common, Goblin
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Stealth +6, Survival +2</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Common, Goblin</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -5778,24 +6056,26 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 [Gobelours]: monsters_hd.md#gobelours
 
 
-[][MonsterVO]
+</Monster>
 
-# Clay Golem
-- AltName: [Golem d'argile]
-- Large construct, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 133 (14d10 + 56)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Clay Golem</Name>
+- <AltName>[Golem d'argile]</AltName>
+- <Size>Large</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>133 (14d10 + 56)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
+|<Strength>20 (+5)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** understands the languages of its creator but can't speak
-- **Challenge** 9 (5000 XP)
-- **Damage Immunities** acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>understands the languages of its creator but can't speak</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5822,24 +6102,26 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 [Golem d'argile]: monsters_hd.md#golem-dargile
 
 
-[][MonsterVO]
+</Monster>
 
-# Flesh Golem
-- AltName: [Golem de chair]
-- Medium construct, neutral
-- **Armor Class** 9
-- **Hit Points** 93 (11d8 + 44)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Flesh Golem</Name>
+- <AltName>[Golem de chair]</AltName>
+- <Size>Medium</Size> <Type>construct</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>9</ArmorClass>
+- **Hit Points** <HitPoints>93 (11d8 + 44)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** understands the languages of its creator but can't speak
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands the languages of its creator but can't speak</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5866,24 +6148,26 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Golem de chair]: monsters_hd.md#golem-de-chair
 
 
-[][MonsterVO]
+</Monster>
 
-# Iron Golem
-- AltName: [Golem de fer]
-- Large construct, unaligned
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 210 (20d10 + 100)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Iron Golem</Name>
+- <AltName>[Golem de fer]</AltName>
+- <Size>Large</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>20 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>210 (20d10 + 100)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
+|<Strength>24 (+7)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Languages** understands the languages of its creator but can't speak
-- **Challenge** 16 (15000 XP)
-- **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Senses** <Senses>darkvision 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands the languages of its creator but can't speak</Languages>
+- **Challenge** <Challenge>16 (15000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5912,24 +6196,26 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 [Golem de fer]: monsters_hd.md#golem-de-fer
 
 
-[][MonsterVO]
+</Monster>
 
-# Stone Golem
-- AltName: [Golem de pierre]
-- Large construct, unaligned
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 178 (17d10 + 85)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Stone Golem</Name>
+- <AltName>[Golem de pierre]</AltName>
+- <Size>Large</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>178 (17d10 + 85)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
+|<Strength>22 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Languages** understands the languages of its creator but can't speak
-- **Challenge** 10 (5900 XP)
-- **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+- **Senses** <Senses>darkvision 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands the languages of its creator but can't speak</Languages>
+- **Challenge** <Challenge>10 (5900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -5952,24 +6238,26 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 [Golem de pierre]: monsters_hd.md#golem-de-pierre
 
 
-[][MonsterVO]
+</Monster>
 
-# Gorgon
-- AltName: [Gorgone]
-- Large monstrosity, unaligned
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 114 (12d10 + 48)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Gorgon</Name>
+- <AltName>[Gorgone]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>114 (12d10 + 48)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|11 (+0)|18 (+4)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** -
-- **Challenge** 5 (1800 XP)
-- **Condition Immunities** petrified
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>petrified</ConditionImmunities>
 
 ## Special Features
 
@@ -5990,24 +6278,26 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 [Gorgone]: monsters_hd.md#gorgone
 
 
-[][MonsterVO]
+</Monster>
 
-# Ghoul
-- AltName: [Goule]
-- Medium undead, chaotic evil
-- **Armor Class** 12
-- **Hit Points** 22 (5d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Ghoul</Name>
+- <AltName>[Goule]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
+|<Strength>13 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, exhaustion, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Common</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -6022,23 +6312,25 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 [Goule]: monsters_hd.md#goule
 
 
-[][MonsterVO]
+</Monster>
 
-# Ape
-- AltName: [Grand singe]
-- Medium beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 19 (3d8 + 6)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Ape</Name>
+- <AltName>[Grand singe]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d8 + 6)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|14 (+2)|14 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Athletics +5, Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Athletics +5, Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -6055,23 +6347,25 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [Grand singe]: monsters_hd.md#grand-singe
 
 
-[][MonsterVO]
+</Monster>
 
-# Frog
-- AltName: [Grenouille]
-- Tiny beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 20 ft., swim 20 ft.
+<Monster>
+
+# <Name>Frog</Name>
+- <AltName>[Grenouille]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>20 ft., swim 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Skills** Perception +1, Stealth +3
-- **Senses** darkvision 30 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 0 (0 XP)
+- **Skills** <Skills>Perception +1, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 30 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (0 XP)</Challenge>
 
 ## Special Features
 
@@ -6082,23 +6376,25 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 [Grenouille]: monsters_hd.md#grenouille
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Frog
-- AltName: [Grenouille géante]
-- Medium beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 18 (4d8)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Giant Frog</Name>
+- <AltName>[Grenouille géante]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>18 (4d8)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength>12 (+1)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Skills** Perception +2, Stealth +3
-- **Senses** darkvision 30 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +2, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 30 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -6117,23 +6413,25 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 [Grenouille géante]: monsters_hd.md#grenouille-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Grick
-- AltName: [Grick]
-- Medium monstrosity, neutral
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 27 (6d8)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Grick</Name>
+- <AltName>[Grick]</AltName>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>27 (6d8)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|14 (+2)|11 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical attacks
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing damage from nonmagical attacks</DamageResistances>
 
 ## Special Features
 
@@ -6154,23 +6452,25 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Grick]: monsters_hd.md#grick
 
 
-[][MonsterVO]
+</Monster>
 
-# Griffon
-- AltName: [Griffon]
-- Large monstrosity, unaligned
-- **Armor Class** 12
-- **Hit Points** 59 (7d10 + 21)
-- **Speed** 30 ft., fly 80 ft.
+<Monster>
+
+# <Name>Griffon</Name>
+- <AltName>[Griffon]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>59 (7d10 + 21)</HitPoints>
+- **Speed** <Speed>30 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)| 2 (-4)|13 (+1)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +5
-- **Senses** darkvision 60 ft., passive Perception 15
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 15</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -6191,22 +6491,24 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Griffon]: monsters_hd.md#griffon
 
 
-[][MonsterVO]
+</Monster>
 
-# Sea Hag
-- AltName: [Guenaude aquatique]
-- Medium fey, chaotic evil
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 52 (7d8 + 21)
-- **Speed** 30 ft., swim 40 ft.
+<Monster>
+
+# <Name>Sea Hag</Name>
+- <AltName>[Guenaude aquatique]</AltName>
+- <Size>Medium</Size> <Type>fey</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>52 (7d8 + 21)</HitPoints>
+- **Speed** <Speed>30 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** Aquan, Common, Giant
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Aquan, Common, Giant</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -6227,25 +6529,27 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Guenaude aquatique]: monsters_hd.md#guenaude-aquatique
 
 
-[][MonsterVO]
+</Monster>
 
-# Night Hag
-- AltName: [Guenaude nocturne]
-- Medium fiend, neutral evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 112 (15d8 + 45)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Night Hag</Name>
+- <AltName>[Guenaude nocturne]</AltName>
+- <Size>Medium</Size> <Type>fiend</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>112 (15d8 + 45)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
-- **Senses** darkvision 120 ft., passive Perception 16
-- **Languages** Abyssal, Common, Infernal, Primordial
-- **Challenge** 5 (1800 XP)
-- **Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-- **Condition Immunities** charmed
+- **Skills** <Skills>Deception +7, Insight +6, Perception +6, Stealth +6</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 16</Senses>
+- **Languages** <Languages>Abyssal, Common, Infernal, Primordial</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed</ConditionImmunities>
 
 ## Special Features
 
@@ -6272,23 +6576,25 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [Guenaude nocturne]: monsters_hd.md#guenaude-nocturne
 
 
-[][MonsterVO]
+</Monster>
 
-# Green Hag
-- AltName: [Guenaude verte]
-- Medium fey, neutral evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 82 (11d8 + 33)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Green Hag</Name>
+- <AltName>[Guenaude verte]</AltName>
+- <Size>Medium</Size> <Type>fey</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>82 (11d8 + 33)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Common, Draconic, Sylvan
-- **Challenge** 3 (700 XP)
+- **Skills** <Skills>Arcana +3, Deception +4, Perception +4, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Common, Draconic, Sylvan</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -6313,22 +6619,24 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 [Guenaude verte]: monsters_hd.md#guenaude-verte
 
 
-[][MonsterVO]
+</Monster>
 
-# Tribal Warrior
-- AltName: [Guerrier tribal]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 12 (hide armor)
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Tribal Warrior</Name>
+- <AltName>[Guerrier tribal]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>12 (hide armor)</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)| 8 (-1)|11 (+0)| 8 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** any one language
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -6343,22 +6651,24 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Guerrier tribal]: monsters_hd.md#guerrier-tribal
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Wasp
-- AltName: [Guêpe géante]
-- Medium beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 13 (3d8)
-- **Speed** 10 ft., fly 50 ft.
+<Monster>
+
+# <Name>Giant Wasp</Name>
+- <AltName>[Guêpe géante]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>13 (3d8)</HitPoints>
+- **Speed** <Speed>10 ft., fly 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|10 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -6369,26 +6679,28 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 [Guêpe géante]: monsters_hd.md#guêpe-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Gynosphinx
-- AltName: [Gynosphinx]
-- Large monstrosity, lawful neutral
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 136 (16d10 + 48)
-- **Speed** 40 ft., fly 60 ft.
+<Monster>
+
+# <Name>Gynosphinx</Name>
+- <AltName>[Gynosphinx]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>lawful neutral</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>136 (16d10 + 48)</HitPoints>
+- **Speed** <Speed>40 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Skills** Arcana +12, History +12, Perception +8, Religion +8
-- **Senses** truesight 120 ft., passive Perception 18
-- **Languages** Common, Sphinx
-- **Challenge** 11 (7200 XP)
-- **Damage Immunities** psychic
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** charmed, frightened
+- **Skills** <Skills>Arcana +12, History +12, Perception +8, Religion +8</Skills>
+- **Senses** <Senses>truesight 120 ft., passive Perception 18</Senses>
+- **Languages** <Languages>Common, Sphinx</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>psychic</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened</ConditionImmunities>
 
 ## Special Features
 
@@ -6431,23 +6743,25 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 [Gynosphinx]: monsters_hd.md#gynosphinx
 
 
-[][MonsterVO]
+</Monster>
 
-# Hill Giant
-- AltName: [Géant des collines]
-- Huge giant, chaotic evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 105 (10d12 + 40)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Hill Giant</Name>
+- <AltName>[Géant des collines]</AltName>
+- <Size>Huge</Size> <Type>giant</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>105 (10d12 + 40)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|19 (+4)| 5 (-3)| 9 (-1)| 6 (-2)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** passive Perception 12
-- **Languages** Giant
-- **Challenge** 5 (1800 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>Giant</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -6464,24 +6778,26 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 [Géant des collines]: monsters_hd.md#géant-des-collines
 
 
-[][MonsterVO]
+</Monster>
 
-# Cloud Giant
-- AltName: [Géant des nuages]
-- Huge giant, neutral good (50 %) or neutral evil (50 %)
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 200 (16d12 + 96)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Cloud Giant</Name>
+- <AltName>[Géant des nuages]</AltName>
+- <Size>Huge</Size> <Type>giant</Type>, <Alignment>neutral good (50 %) or neutral evil (50 %)</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>200 (16d12 + 96)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Con +10, Wis +7, Cha +7
-- **Skills** Insight +7, Perception +7
-- **Senses** passive Perception 17
-- **Languages** Common, Giant
-- **Challenge** 9 (5000 XP)
+- **Saving Throws** <SavingThrows>Con +10, Wis +7, Cha +7</SavingThrows>
+- **Skills** <Skills>Insight +7, Perception +7</Skills>
+- **Senses** <Senses>passive Perception 17</Senses>
+- **Languages** <Languages>Common, Giant</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
 
 ## Special Features
 
@@ -6510,24 +6826,26 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 [Géant des nuages]: monsters_hd.md#géant-des-nuages
 
 
-[][MonsterVO]
+</Monster>
 
-# Stone Giant
-- AltName: [Géant des pierres]
-- Huge giant, neutral
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 126 (11d12 + 55)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Stone Giant</Name>
+- <AltName>[Géant des pierres]</AltName>
+- <Size>Huge</Size> <Type>giant</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>126 (11d12 + 55)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)| 9 (-1)|
+|<Strength>23 (+6)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Saving Throws** Dex +5, Con +8, Wis +4
-- **Skills** Athletics +12, Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Giant
-- **Challenge** 7 (2900 XP)
+- **Saving Throws** <SavingThrows>Dex +5, Con +8, Wis +4</SavingThrows>
+- **Skills** <Skills>Athletics +12, Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Giant</Languages>
+- **Challenge** <Challenge>7 (2900 XP)</Challenge>
 
 ## Special Features
 
@@ -6550,26 +6868,28 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 [Géant des pierres]: monsters_hd.md#géant-des-pierres
 
 
-[][MonsterVO]
+</Monster>
 
-# Storm Giant
-- AltName: [Géant des tempêtes]
-- Huge giant, chaotic good
-- **Armor Class** 16 (scale mail)
-- **Hit Points** 230 (20d12 + 100)
-- **Speed** 50 ft., swim 50 ft.
+<Monster>
+
+# <Name>Storm Giant</Name>
+- <AltName>[Géant des tempêtes]</AltName>
+- <Size>Huge</Size> <Type>giant</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>16 (scale mail)</ArmorClass>
+- **Hit Points** <HitPoints>230 (20d12 + 100)</HitPoints>
+- **Speed** <Speed>50 ft., swim 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)|
+|<Strength>29 (+9)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
-- **Skills** Arcana +8, Athletics +14, History +8, Perception +9
-- **Senses** passive Perception 19
-- **Languages** Common, Giant
-- **Challenge** 13 (10000 XP)
-- **Damage Immunities** lightning, thunder
-- **Damage Resistances** cold
+- **Saving Throws** <SavingThrows>Str +14, Con +10, Wis +9, Cha +9</SavingThrows>
+- **Skills** <Skills>Arcana +8, Athletics +14, History +8, Perception +9</Skills>
+- **Senses** <Senses>passive Perception 19</Senses>
+- **Languages** <Languages>Common, Giant</Languages>
+- **Challenge** <Challenge>13 (10000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning, thunder</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold</DamageResistances>
 
 ## Special Features
 
@@ -6598,25 +6918,27 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 [Géant des tempêtes]: monsters_hd.md#géant-des-tempêtes
 
 
-[][MonsterVO]
+</Monster>
 
-# Fire Giant
-- AltName: [Géant du feu]
-- Huge giant, lawful evil
-- **Armor Class** 18 (plate)
-- **Hit Points** 162 (13d12 + 78)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Fire Giant</Name>
+- <AltName>[Géant du feu]</AltName>
+- <Size>Huge</Size> <Type>giant</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (plate)</ArmorClass>
+- **Hit Points** <HitPoints>162 (13d12 + 78)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)| 9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
+|<Strength>25 (+7)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>23 (+6)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +10, Cha +5
-- **Skills** Athletics +11, Perception +6
-- **Senses** passive Perception 16
-- **Languages** Giant
-- **Challenge** 9 (5000 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Dex +3, Con +10, Cha +5</SavingThrows>
+- **Skills** <Skills>Athletics +11, Perception +6</Skills>
+- **Senses** <Senses>passive Perception 16</Senses>
+- **Languages** <Languages>Giant</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -6633,25 +6955,27 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 [Géant du feu]: monsters_hd.md#géant-du-feu
 
 
-[][MonsterVO]
+</Monster>
 
-# Frost Giant
-- AltName: [Géant du givre]
-- Huge giant, neutral evil
-- **Armor Class** 15 (patchwork armor)
-- **Hit Points** 138 (12d12 + 60)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Frost Giant</Name>
+- <AltName>[Géant du givre]</AltName>
+- <Size>Huge</Size> <Type>giant</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>15 (patchwork armor)</ArmorClass>
+- **Hit Points** <HitPoints>138 (12d12 + 60)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)| 9 (-1)|21 (+5)| 9 (-1)|10 (+0)|12 (+1)|
+|<Strength>23 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Saving Throws** Con +8, Wis +3, Cha +4
-- **Skills** Athletics +9, Perception +3
-- **Senses** passive Perception 13
-- **Languages** Giant
-- **Challenge** 8 (3900 XP)
-- **Damage Immunities** cold
+- **Saving Throws** <SavingThrows>Con +8, Wis +3, Cha +4</SavingThrows>
+- **Skills** <Skills>Athletics +9, Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Giant</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -6668,22 +6992,24 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [Géant du givre]: monsters_hd.md#géant-du-givre
 
 
-[][MonsterVO]
+</Monster>
 
-# Harpy
-- AltName: [Harpie]
-- Medium monstrosity, chaotic evil
-- **Armor Class** 11
-- **Hit Points** 38 (7d8 + 7)
-- **Speed** 20 ft., fly 40 ft.
+<Monster>
+
+# <Name>Harpy</Name>
+- <AltName>[Harpie]</AltName>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>38 (7d8 + 7)</HitPoints>
+- **Speed** <Speed>20 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|13 (+1)|12 (+1)| 7 (-2)|10 (+0)|13 (+1)|
+|<Strength>12 (+1)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** Common
-- **Challenge** 1 (200 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>Common</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -6702,26 +7028,28 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 [Harpie]: monsters_hd.md#harpie
 
 
-[][MonsterVO]
+</Monster>
 
-# Hezrou
-- AltName: [Hezrou]
-- Large fiend (demon), chaotic evil
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 136 (13d10 + 65)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Hezrou</Name>
+- <AltName>[Hezrou]</AltName>
+- <Size>Large</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>136 (13d10 + 65)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|17 (+3)|20 (+5)| 5 (-3)|12 (+1)|13 (+1)|
+|<Strength>19 (+4)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Str +7, Con +8, Wis +4
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 8 (3900 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +7, Con +8, Wis +4</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Abyssal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -6744,23 +7072,25 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Hezrou]: monsters_hd.md#hezrou
 
 
-[][MonsterVO]
+</Monster>
 
-# Owlbear
-- AltName: [Hibours]
-- Large monstrosity, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 59 (7d10 + 21)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Owlbear</Name>
+- <AltName>[Hibours]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>59 (7d10 + 21)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 3 (700 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -6781,22 +7111,24 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [Hibours]: monsters_hd.md#hibours
 
 
-[][MonsterVO]
+</Monster>
 
-# Sea Horse
-- AltName: [Hippocampe]
-- Tiny beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 0 ft., swim 20 ft.
+<Monster>
+
+# <Name>Sea Horse</Name>
+- <AltName>[Hippocampe]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>0 ft., swim 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|12 (+1)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 0 (0 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (0 XP)</Challenge>
 
 ## Special Features
 
@@ -6805,22 +7137,24 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 [Hippocampe]: monsters_hd.md#hippocampe
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Sea Horse
-- AltName: [Hippocampe géant]
-- Large beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 16 (3d10)
-- **Speed** 0 ft., swim 40 ft.
+<Monster>
+
+# <Name>Giant Sea Horse</Name>
+- <AltName>[Hippocampe géant]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>16 (3d10)</HitPoints>
+- **Speed** <Speed>0 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|15 (+2)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>12 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 11
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -6837,23 +7171,25 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [Hippocampe géant]: monsters_hd.md#hippocampe-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Hippogriff
-- AltName: [Hippogriffe]
-- Large monstrosity, unaligned
-- **Armor Class** 11
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 40 ft., fly 60 ft.
+<Monster>
+
+# <Name>Hippogriff</Name>
+- <AltName>[Hippogriffe]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>40 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +5
-- **Senses** passive Perception 15
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +5</Skills>
+- **Senses** <Senses>passive Perception 15</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -6874,22 +7210,24 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Hippogriffe]: monsters_hd.md#hippogriffe
 
 
-[][MonsterVO]
+</Monster>
 
-# Hobgoblin
-- AltName: [Hobgobelin]
-- Medium humanoid (goblinoid), lawful evil
-- **Armor Class** 18 (chain mail, shield)
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Hobgoblin</Name>
+- <AltName>[Hobgobelin]</AltName>
+- <Size>Medium</Size> <Type>humanoid (goblinoid)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (chain mail, shield)</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common, Goblin
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Common, Goblin</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -6908,23 +7246,25 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Hobgobelin]: monsters_hd.md#hobgobelin
 
 
-[][MonsterVO]
+</Monster>
 
-# Lizardfolk
-- AltName: [Homme-lézard]
-- Medium humanoid (lizardfolk), neutral
-- **Armor Class** 15 (natural armor, shield)
-- **Hit Points** 22 (4d8 + 4)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Lizardfolk</Name>
+- <AltName>[Homme-lézard]</AltName>
+- <Size>Medium</Size> <Type>humanoid (lizardfolk)</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor, shield)</ArmorClass>
+- **Hit Points** <HitPoints>22 (4d8 + 4)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4, Survival +5
-- **Senses** passive Perception 13
-- **Languages** Draconic
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Perception +3, Stealth +4, Survival +5</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Draconic</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -6953,23 +7293,25 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Homme-lézard]: monsters_hd.md#homme-lézard
 
 
-[][MonsterVO]
+</Monster>
 
-# Merfolk
-- AltName: [Homme-poisson]
-- Medium humanoid (merfolk), neutral
-- **Armor Class** 11
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 10 ft., swim 40 ft.
+<Monster>
+
+# <Name>Merfolk</Name>
+- <AltName>[Homme-poisson]</AltName>
+- <Size>Medium</Size> <Type>humanoid (merfolk)</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>10 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** passive Perception 12
-- **Languages** Aquan, Common
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>Aquan, Common</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -6984,24 +7326,26 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 [Homme-poisson]: monsters_hd.md#homme-poisson
 
 
-[][MonsterVO]
+</Monster>
 
-# Homunculus
-- AltName: [Homoncule]
-- Tiny construct, neutral
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 5 (2d4)
-- **Speed** 20 ft., fly 40 ft.
+<Monster>
+
+# <Name>Homunculus</Name>
+- <AltName>[Homoncule]</AltName>
+- <Size>Tiny</Size> <Type>construct</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>5 (2d4)</HitPoints>
+- **Speed** <Speed>20 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)| 7 (-2)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** understands the languages of its creator but can't speak
-- **Challenge** 0 (10 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands the languages of its creator but can't speak</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -7016,23 +7360,25 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 [Homoncule]: monsters_hd.md#homoncule
 
 
-[][MonsterVO]
+</Monster>
 
-# Hydra
-- AltName: [Hydre]
-- Huge monstrosity, unaligned
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 172 (15d12 + 75)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Hydra</Name>
+- <AltName>[Hydre]</AltName>
+- <Size>Huge</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>172 (15d12 + 75)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|12 (+1)|20 (+5)| 2 (-4)|10 (+0)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +6
-- **Senses** darkvision 60 ft., passive Perception 16
-- **Languages** -
-- **Challenge** 8 (3900 XP)
+- **Skills** <Skills>Perception +6</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 16</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
 
 ## Special Features
 
@@ -7055,23 +7401,25 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 [Hydre]: monsters_hd.md#hydre
 
 
-[][MonsterVO]
+</Monster>
 
-# Hyena
-- AltName: [Hyène]
-- Medium beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 5 (1d8 + 1)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Hyena</Name>
+- <AltName>[Hyène]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>5 (1d8 + 1)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|13 (+1)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -7086,23 +7434,25 @@ _Hit_: 3 (1d6) piercing damage.
 [Hyène]: monsters_hd.md#hyène
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Hyena
-- AltName: [Hyène géante]
-- Large beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 45 (6d10 + 12)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Giant Hyena</Name>
+- <AltName>[Hyène géante]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d10 + 12)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|14 (+2)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -7117,22 +7467,24 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 [Hyène géante]: monsters_hd.md#hyène-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Kobold
-- AltName: [Kobold]
-- Small humanoid (kobold), lawful evil
-- **Armor Class** 12
-- **Hit Points** 5 (2d6 - 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Kobold</Name>
+- <AltName>[Kobold]</AltName>
+- <Size>Small</Size> <Type>humanoid (kobold)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>5 (2d6 - 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|15 (+2)| 9 (-1)| 8 (-1)| 7 (-2)| 8 (-1)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 8
-- **Languages** Common, Draconic
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 8</Senses>
+- **Languages** <Languages>Common, Draconic</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -7153,25 +7505,27 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 [Kobold]: monsters_hd.md#kobold
 
 
-[][MonsterVO]
+</Monster>
 
-# Kraken
-- AltName: [Kraken]
-- Gargantuan monstrosity (titan), chaotic evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 472 (27d20 + 189)
-- **Speed** 20 ft., swim 60 ft.
+<Monster>
+
+# <Name>Kraken</Name>
+- <AltName>[Kraken]</AltName>
+- <Size>Gargantuan</Size> <Type>monstrosity (titan)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>472 (27d20 + 189)</HitPoints>
+- **Speed** <Speed>20 ft., swim 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
+|<Strength>30 (+10)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>22 (+6)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
-- **Senses** truesight 120 ft., passive Perception 14
-- **Languages** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
-- **Challenge** 23 (50000 XP)
-- **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** frightened, paralyzed
+- **Saving Throws** <SavingThrows>Str +17, Dex +7, Con +14, Int +13, Wis +11</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 14</Senses>
+- **Languages** <Languages>understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>23 (50000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>frightened, paralyzed</ConditionImmunities>
 
 ## Special Features
 
@@ -7210,23 +7564,25 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 [Kraken]: monsters_hd.md#kraken
 
 
-[][MonsterVO]
+</Monster>
 
-# Lamia
-- AltName: [Lamie]
-- Large monstrosity, chaotic evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 97 (13d10 + 26)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Lamia</Name>
+- <AltName>[Lamie]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>97 (13d10 + 26)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Skills** Deception +7, Insight +4, Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** Abyssal, Common
-- **Challenge** 4 (1100 XP)
+- **Skills** <Skills>Deception +7, Insight +4, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Abyssal, Common</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
 
 ## Special Features
 
@@ -7257,27 +7613,29 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 [Lamie]: monsters_hd.md#lamie
 
 
-[][MonsterVO]
+</Monster>
 
-# Lich
-- AltName: [Liche]
-- Medium undead, any evil alignment
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 135 (18d8 + 54)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Lich</Name>
+- <AltName>[Liche]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>any evil alignment</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>135 (18d8 + 54)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Con +10, Int +12, Wis +9
-- **Skills** Arcana +18, History +12, Insight +9, Perception +9
-- **Senses** truesight 120 ft., passive Perception 19
-- **Languages** Common plus up to five other languages
-- **Challenge** 21 (33000 XP)
-- **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Damage Resistances** cold, lightning, necrotic
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Saving Throws** <SavingThrows>Con +10, Int +12, Wis +9</SavingThrows>
+- **Skills** <Skills>Arcana +18, History +12, Insight +9, Perception +9</Skills>
+- **Senses** <Senses>truesight 120 ft., passive Perception 19</Senses>
+- **Languages** <Languages>Common plus up to five other languages</Languages>
+- **Challenge** <Challenge>21 (33000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison; bludgeoning, piercing, and slashing from nonmagical attacks</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, lightning, necrotic</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -7330,24 +7688,26 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 [Liche]: monsters_hd.md#liche
 
 
-[][MonsterVO]
+</Monster>
 
-# Unicorn
-- AltName: [Licorne]
-- Large celestial, lawful good
-- **Armor Class** 12
-- **Hit Points** 67 (9d10 + 18)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Unicorn</Name>
+- <AltName>[Licorne]</AltName>
+- <Size>Large</Size> <Type>celestial</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>67 (9d10 + 18)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, paralyzed, poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Celestial, Elvish, Sylvan, telepathy 60 ft.</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, paralyzed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -7392,23 +7752,25 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 [Licorne]: monsters_hd.md#licorne
 
 
-[][MonsterVO]
+</Monster>
 
-# Lion
-- AltName: [Lion]
-- Large beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 26 (4d10 + 4)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Lion</Name>
+- <AltName>[Lion]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>26 (4d10 + 4)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|13 (+1)| 3 (-4)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +3, Stealth +6
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +3, Stealth +6</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -7433,23 +7795,25 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [Lion]: monsters_hd.md#lion
 
 
-[][MonsterVO]
+</Monster>
 
-# Wolf
-- AltName: [Loup]
-- Medium beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Wolf</Name>
+- <AltName>[Loup]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength>12 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +3, Stealth +4</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -7466,24 +7830,26 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 [Loup]: monsters_hd.md#loup
 
 
-[][MonsterVO]
+</Monster>
 
-# Winter Wolf
-- AltName: [Loup arctique]
-- Large monstrosity, neutral evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 75 (10d10 + 20)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Winter Wolf</Name>
+- <AltName>[Loup arctique]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>75 (10d10 + 20)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +5, Stealth +3
-- **Senses** passive Perception 15
-- **Languages** Common, Giant, Winter Wolf
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** cold
+- **Skills** <Skills>Perception +5, Stealth +3</Skills>
+- **Senses** <Senses>passive Perception 15</Senses>
+- **Languages** <Languages>Common, Giant, Winter Wolf</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold</DamageImmunities>
 
 ## Special Features
 
@@ -7504,23 +7870,25 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 [Loup arctique]: monsters_hd.md#loup-arctique
 
 
-[][MonsterVO]
+</Monster>
 
-# Dire Wolf
-- AltName: [Loup sanguinaire]
-- Large beast, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 37 (5d10 + 10)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Dire Wolf</Name>
+- <AltName>[Loup sanguinaire]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>37 (5d10 + 10)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|15 (+2)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +3, Stealth +4</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -7537,24 +7905,26 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 [Loup sanguinaire]: monsters_hd.md#loup-sanguinaire
 
 
-[][MonsterVO]
+</Monster>
 
-# Werewolf
-- AltName: [Loup-garou]
-- Medium humanoid (human, shapechanger), chaotic evil
-- **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
-- **Hit Points** 58 (9d8 + 18)
-- **Speed** 30 ft. (40 ft. in wolf form)
+<Monster>
+
+# <Name>Werewolf</Name>
+- <AltName>[Loup-garou]</AltName>
+- <Size>Medium</Size> <Type>humanoid (human</Type>, <Alignment>shapechanger), chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>11 in humanoid form, 12 (natural armor) in wolf or hybrid form</ArmorClass>
+- **Hit Points** <HitPoints>58 (9d8 + 18)</HitPoints>
+- **Speed** <Speed>30 ft. (40 ft. in wolf form)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>15 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +4, Stealth +3
-- **Senses** passive Perception 14
-- **Languages** Common (can't speak in wolf form)
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
+- **Skills** <Skills>Perception +4, Stealth +3</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>Common (can't speak in wolf form)</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered</DamageImmunities>
 
 ## Special Features
 
@@ -7581,25 +7951,27 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 [Loup-garou]: monsters_hd.md#loup-garou
 
 
-[][MonsterVO]
+</Monster>
 
-# Lemure
-- AltName: [Lémure]
-- Medium fiend (devil), lawful evil
-- **Armor Class** 7
-- **Hit Points** 13 (3d8)
-- **Speed** 15 ft.
+<Monster>
+
+# <Name>Lemure</Name>
+- <AltName>[Lémure]</AltName>
+- <Size>Medium</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>7</ArmorClass>
+- **Hit Points** <HitPoints>13 (3d8)</HitPoints>
+- **Speed** <Speed>15 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)| 5 (-3)|11 (+0)| 1 (-5)|11 (+0)| 3 (-4)|
+|<Strength>10 (+0)</Strength>|<Dexterity> 5 (-3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Languages** understands Infernal but can't speak
-- **Challenge** 0 (10 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold
-- **Condition Immunities** charmed, frightened, poisoned
+- **Senses** <Senses>darkvision 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands Infernal but can't speak</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -7616,22 +7988,24 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Lémure]: monsters_hd.md#lémure
 
 
-[][MonsterVO]
+</Monster>
 
-# Lizard
-- AltName: [Lézard]
-- Tiny beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 2 (1d4)
-- **Speed** 20 ft., climb 20 ft.
+<Monster>
+
+# <Name>Lizard</Name>
+- <AltName>[Lézard]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>2 (1d4)</HitPoints>
+- **Speed** <Speed>20 ft., climb 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>darkvision 30 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -7642,22 +8016,24 @@ _Hit_: 1 piercing damage.
 [Lézard]: monsters_hd.md#lézard
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Lizard
-- AltName: [Lézard géant]
-- Large beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Giant Lizard</Name>
+- <AltName>[Lézard géant]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d10 + 3)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>darkvision 30 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -7668,24 +8044,26 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Lézard géant]: monsters_hd.md#lézard-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Mage
-- AltName: [Mage]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 12 (15 with
-- **Hit Points** 40 (9d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Mage</Name>
+- <AltName>[Mage]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>12 (15 with</ArmorClass>
+- **Hit Points** <HitPoints>40 (9d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
+|<Strength> 9 (-1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>17 (+3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Saving Throws** Int +6, Wis +4
-- **Skills** Arcana +6, History +6
-- **Senses** passive Perception 11
-- **Languages** any four languages
-- **Challenge** 6 (2300 XP)
+- **Saving Throws** <SavingThrows>Int +6, Wis +4</SavingThrows>
+- **Skills** <Skills>Arcana +6, History +6</Skills>
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>any four languages</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
 
 ## Special Features
 
@@ -7712,24 +8090,26 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Mage]: monsters_hd.md#mage
 
 
-[][MonsterVO]
+</Monster>
 
-# Magmin
-- AltName: [Magmatique]
-- Small elemental, chaotic neutral
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 9 (2d6 + 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Magmin</Name>
+- <AltName>[Magmatique]</AltName>
+- <Size>Small</Size> <Type>elemental</Type>, <Alignment>chaotic neutral</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>9 (2d6 + 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|15 (+2)|12 (+1)| 8 (-1)|11 (+0)|10 (+0)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Ignan
-- **Challenge** 1/2 (100 XP)
-- **Damage Immunities** fire
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Ignan</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 
 ## Special Features
 
@@ -7746,23 +8126,25 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 [Magmatique]: monsters_hd.md#magmatique
 
 
-[][MonsterVO]
+</Monster>
 
-# Thug
-- AltName: [Malfrat]
-- Medium humanoid (any race), any non-good alignment
-- **Armor Class** 11 (leather armor)
-- **Hit Points** 32 (5d8 + 10)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Thug</Name>
+- <AltName>[Malfrat]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any non-good alignment</Alignment>
+- **Armor Class** <ArmorClass>11 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>32 (5d8 + 10)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
+|<Strength>15 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Intimidation +2
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Intimidation +2</Skills>
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -7783,22 +8165,24 @@ _Hit_: 5 (1d10) piercing damage.
 [Malfrat]: monsters_hd.md#malfrat
 
 
-[][MonsterVO]
+</Monster>
 
-# Mammoth
-- AltName: [Mammouth]
-- Huge beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 126 (11d12 + 55)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Mammoth</Name>
+- <AltName>[Mammouth]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>126 (11d12 + 55)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
+|<Strength>24 (+7)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 6 (2300 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
 
 ## Special Features
 
@@ -7817,23 +8201,25 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 [Mammouth]: monsters_hd.md#mammouth
 
 
-[][MonsterVO]
+</Monster>
 
-# Darkmantle
-- AltName: [Mante obscure]
-- Small monstrosity, unaligned
-- **Armor Class** 11
-- **Hit Points** 22 (5d6 + 5)
-- **Speed** 10 ft., fly 30 ft.
+<Monster>
+
+# <Name>Darkmantle</Name>
+- <AltName>[Mante obscure]</AltName>
+- <Size>Small</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d6 + 5)</HitPoints>
+- **Speed** <Speed>10 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Stealth +3
-- **Senses** blindsight 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Stealth +3</Skills>
+- **Senses** <Senses>blindsight 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -7852,23 +8238,25 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 [Mante obscure]: monsters_hd.md#mante-obscure
 
 
-[][MonsterVO]
+</Monster>
 
-# Cloaker
-- AltName: [Manteleur]
-- Large aberration, chaotic neutral
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 78 (12d10 + 12)
-- **Speed** 10 ft., fly 40 ft.
+<Monster>
+
+# <Name>Cloaker</Name>
+- <AltName>[Manteleur]</AltName>
+- <Size>Large</Size> <Type>aberration</Type>, <Alignment>chaotic neutral</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>78 (12d10 + 12)</HitPoints>
+- **Speed** <Speed>10 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Skills** Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** Deep Speech, Undercommon
-- **Challenge** 8 (3900 XP)
+- **Skills** <Skills>Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Deep Speech, Undercommon</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
 
 ## Special Features
 
@@ -7897,22 +8285,24 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [Manteleur]: monsters_hd.md#manteleur
 
 
-[][MonsterVO]
+</Monster>
 
-# Manticore
-- AltName: [Manticore]
-- Large monstrosity, lawful evil
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 68 (8d10 + 24)
-- **Speed** 30 ft., fly 50 ft.
+<Monster>
+
+# <Name>Manticore</Name>
+- <AltName>[Manticore]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>68 (8d10 + 24)</HitPoints>
+- **Speed** <Speed>30 ft., fly 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** Common
-- **Challenge** 3 (700 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Common</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -7937,26 +8327,28 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 [Manticore]: monsters_hd.md#manticore
 
 
-[][MonsterVO]
+</Monster>
 
-# Marilith
-- AltName: [Marilith]
-- Large fiend (demon), chaotic evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 189 (18d10 + 90)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Marilith</Name>
+- <AltName>[Marilith]</AltName>
+- <Size>Large</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>189 (18d10 + 90)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
+|<Strength>18 (+4)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
-- **Senses** truesight 120 ft., passive Perception 13
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 16 (15000 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Str +9, Con +10, Wis +8, Cha +10</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Abyssal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>16 (15000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -7987,23 +8379,25 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 [Marilith]: monsters_hd.md#marilith
 
 
-[][MonsterVO]
+</Monster>
 
-# Cultist
-- AltName: [Membre de secte]
-- Medium humanoid (any race), any non-good alignment
-- **Armor Class** 12 (leather armor)
-- **Hit Points** 9 (2d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Cultist</Name>
+- <AltName>[Membre de secte]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any non-good alignment</Alignment>
+- **Armor Class** <ArmorClass>12 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>9 (2d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Deception +2, Religion +2
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Deception +2, Religion +2</Skills>
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -8017,22 +8411,24 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 
 [Membre de secte]: monsters_hd.md#membre-de-secte
 
-[][MonsterVO]
+</Monster>
 
-# Merrow
-- AltName: [Merrow]
-- Large monstrosity, chaotic evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 45 (6d10 + 12)
-- **Speed** 10 ft., swim 40 ft.
+<Monster>
+
+# <Name>Merrow</Name>
+- <AltName>[Merrow]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d10 + 12)</HitPoints>
+- **Speed** <Speed>10 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|15 (+2)| 8 (-1)|10 (+0)| 9 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Abyssal, Aquan
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Abyssal, Aquan</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -8057,22 +8453,24 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 [Merrow]: monsters_hd.md#merrow
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Centipede
-- AltName: [Mille-pattes géant]
-- Small beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 4 (1d6 + 1)
-- **Speed** 30 ft., climb 30 ft.
+<Monster>
+
+# <Name>Giant Centipede</Name>
+- <AltName>[Mille-pattes géant]</AltName>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>4 (1d6 + 1)</HitPoints>
+- **Speed** <Speed>30 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|14 (+2)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 30 ft., passive Perception 8
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>blindsight 30 ft., passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -8083,25 +8481,27 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 [Mille-pattes géant]: monsters_hd.md#mille-pattes-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Mimic
-- AltName: [Mimique]
-- Medium monstrosity (shapechanger), neutral
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 58 (9d8 + 18)
-- **Speed** 15 ft.
+<Monster>
+
+# <Name>Mimic</Name>
+- <AltName>[Mimique]</AltName>
+- <Size>Medium</Size> <Type>monstrosity (shapechanger)</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>58 (9d8 + 18)</HitPoints>
+- **Speed** <Speed>15 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|12 (+1)|15 (+2)| 5 (-3)|13 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** acid
-- **Condition Immunities** prone
+- **Skills** <Skills>Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>prone</ConditionImmunities>
 
 ## Special Features
 
@@ -8126,23 +8526,25 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 [Mimique]: monsters_hd.md#mimique
 
 
-[][MonsterVO]
+</Monster>
 
-# Minotaur
-- AltName: [Minotaure]
-- Large monstrosity, chaotic evil
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 76 (9d10 + 27)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Minotaur</Name>
+- <AltName>[Minotaure]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>76 (9d10 + 27)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Skills** Perception +7
-- **Senses** darkvision 60 ft., passive Perception 17
-- **Languages** Abyssal
-- **Challenge** 3 (700 XP)
+- **Skills** <Skills>Perception +7</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 17</Senses>
+- **Languages** <Languages>Abyssal</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -8165,23 +8567,25 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Minotaure]: monsters_hd.md#minotaure
 
 
-[][MonsterVO]
+</Monster>
 
-# Violet Fungus
-- AltName: [Moisissure violette]
-- Medium plant, unaligned
-- **Armor Class** 5
-- **Hit Points** 18 (4d8)
-- **Speed** 5 ft.
+<Monster>
+
+# <Name>Violet Fungus</Name>
+- <AltName>[Moisissure violette]</AltName>
+- <Size>Medium</Size> <Type>plant</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>5</ArmorClass>
+- **Hit Points** <HitPoints>18 (4d8)</HitPoints>
+- **Speed** <Speed>5 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength> 3 (-4)</Strength>|<Dexterity> 1 (-5)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
-- **Condition Immunities** blinded, deafened, frightened
+- **Senses** <Senses>blindsight 30 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>blinded, deafened, frightened</ConditionImmunities>
 
 ## Special Features
 
@@ -8198,23 +8602,25 @@ _Hit_: 4 (1d8) necrotic damage.
 [Moisissure violette]: monsters_hd.md#moisissure-violette
 
 
-[][MonsterVO]
+</Monster>
 
-# Mastiff
-- AltName: [Mastiff]
-- Medium beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 5 (1d8 + 1)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Mastiff</Name>
+- <AltName>[Mastiff]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>5 (1d8 + 1)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>13 (+1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -8229,24 +8635,26 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 [Mastiff]: monsters_hd.md#mastiff
 
 
-[][MonsterVO]
+</Monster>
 
-# Hell Hound
-- AltName: [Molosse infernal]
-- Medium fiend, lawful evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 45 (7d8 + 14)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Hell Hound</Name>
+- <AltName>[Molosse infernal]</AltName>
+- <Size>Medium</Size> <Type>fiend</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>45 (7d8 + 14)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|12 (+1)|14 (+2)| 6 (-2)|13 (+1)| 6 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +5
-- **Senses** darkvision 60 ft., passive Perception 15
-- **Languages** understands Infernal but can't speak it
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** fire
+- **Skills** <Skills>Perception +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 15</Senses>
+- **Languages** <Languages>understands Infernal but can't speak it</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -8267,27 +8675,29 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 [Molosse infernal]: monsters_hd.md#molosse-infernal
 
 
-[][MonsterVO]
+</Monster>
 
-# Mummy
-- AltName: [Momie]
-- Medium undead, lawful evil
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 58 (9d8 + 18)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Mummy</Name>
+- <AltName>[Momie]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>58 (9d8 + 18)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|10 (+0)|12 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Saving Throws** Wis +2
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** the languages it knew in life
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** necrotic, poison
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Saving Throws** <SavingThrows>Wis +2</SavingThrows>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>necrotic, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 - **Damage Vulnerabilities** fire
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8302,27 +8712,29 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 [Momie]: monsters_hd.md#momie
 
 
-[][MonsterVO]
+</Monster>
 
-# Mummy Lord
-- AltName: [Momie auguste]
-- Medium undead, lawful evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 97 (13d8 + 39)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Mummy Lord</Name>
+- <AltName>[Momie auguste]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>97 (13d8 + 39)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Con +8, Int +5, Wis +9, Cha +8
-- **Skills** History +5, Religion +5
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** the languages it knew in life
-- **Challenge** 15 (13000 XP)
-- **Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Saving Throws** <SavingThrows>Con +8, Int +5, Wis +9, Cha +8</SavingThrows>
+- **Skills** <Skills>History +5, Religion +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>15 (13000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks</DamageImmunities>
 - **Damage Vulnerabilities** fire
-- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, paralyzed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8373,22 +8785,24 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 [Momie auguste]: monsters_hd.md#momie-auguste
 
 
-[][MonsterVO]
+</Monster>
 
-# Mule
-- AltName: [Mule]
-- Medium beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Mule</Name>
+- <AltName>[Mule]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -8405,23 +8819,25 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 [Mule]: monsters_hd.md#mule
 
 
-[][MonsterVO]
+</Monster>
 
-# Medusa
-- AltName: [Méduse]
-- Medium monstrosity, lawful evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 127 (17d8 + 51)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Medusa</Name>
+- <AltName>[Méduse]</AltName>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>127 (17d8 + 51)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
+|<Strength>10 (+0)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Skills** Deception +5, Insight +4, Perception +4, Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Common
-- **Challenge** 6 (2300 XP)
+- **Skills** <Skills>Deception +5, Insight +4, Perception +4, Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Common</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
 
 ## Special Features
 
@@ -8447,26 +8863,28 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Ice Mephit
-- AltName: [Méphite de glace]
-- Small elemental, neutral evil
-- **Armor Class** 11
-- **Hit Points** 21 (6d6)
-- **Speed** 30 ft., fly 30 ft.
+<Monster>
+
+# <Name>Ice Mephit</Name>
+- <AltName>[Méphite de glace]</AltName>
+- <Size>Small</Size> <Type>elemental</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>21 (6d6)</HitPoints>
+- **Speed** <Speed>30 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|13 (+1)|10 (+0)| 9 (-1)|11 (+0)|12 (+1)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Skills** Perception +2, Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** Aquan, Auran
-- **Challenge** 1/2 (100 XP)
-- **Damage Immunities** cold, poison
+- **Skills** <Skills>Perception +2, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Aquan, Auran</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold, poison</DamageImmunities>
 - **Damage Vulnerabilities** bludgeoning, fire
-- **Condition Immunities** poisoned
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8487,26 +8905,28 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 [Méphite de glace]: monsters_hd.md#méphite-de-glace
 
 
-[][MonsterVO]
+</Monster>
 
-# Magma Mephit
-- AltName: [Méphite de magma]
-- Small elemental, neutral evil
-- **Armor Class** 11
-- **Hit Points** 22 (5d6 + 5)
-- **Speed** 30 ft., fly 30 ft.
+<Monster>
+
+# <Name>Magma Mephit</Name>
+- <AltName>[Méphite de magma]</AltName>
+- <Size>Small</Size> <Type>elemental</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d6 + 5)</HitPoints>
+- **Speed** <Speed>30 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|12 (+1)|12 (+1)| 7 (-2)|10 (+0)|10 (+0)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Stealth +3
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Ignan, Terran
-- **Challenge** 1/2 (100 XP)
-- **Damage Immunities** fire, poison
+- **Skills** <Skills>Stealth +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Ignan, Terran</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
 - **Damage Vulnerabilities** cold
-- **Condition Immunities** poisoned
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8527,26 +8947,28 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 [Méphite de magma]: monsters_hd.md#méphite-de-magma
 
 
-[][MonsterVO]
+</Monster>
 
-# Dust Mephit
-- AltName: [Méphite de poussière]
-- Small elemental, neutral evil
-- **Armor Class** 12
-- **Hit Points** 17 (5d6)
-- **Speed** 30 ft., fly 30 ft.
+<Monster>
+
+# <Name>Dust Mephit</Name>
+- <AltName>[Méphite de poussière]</AltName>
+- <Size>Small</Size> <Type>elemental</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>17 (5d6)</HitPoints>
+- **Speed** <Speed>30 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|14 (+2)|10 (+0)| 9 (-1)|11 (+0)|10 (+0)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +2, Stealth +4
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** Auran, Terran
-- **Challenge** 1/2 (100 XP)
-- **Damage Immunities** poison
+- **Skills** <Skills>Perception +2, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Auran, Terran</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
 - **Damage Vulnerabilities** fire
-- **Condition Immunities** poisoned
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8565,24 +8987,26 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Méphite de poussière]: monsters_hd.md#méphite-de-poussière
 
 
-[][MonsterVO]
+</Monster>
 
-# Steam Mephit
-- AltName: [Méphite de vapeur]
-- Small elemental, neutral evil
-- **Armor Class** 10
-- **Hit Points** 21 (6d6)
-- **Speed** 30 ft., fly 30 ft.
+<Monster>
+
+# <Name>Steam Mephit</Name>
+- <AltName>[Méphite de vapeur]</AltName>
+- <Size>Small</Size> <Type>elemental</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>21 (6d6)</HitPoints>
+- **Speed** <Speed>30 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Aquan, Ignan
-- **Challenge** 1/4 (50 XP)
-- **Damage Immunities** fire, poison
-- **Condition Immunities** poisoned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Aquan, Ignan</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8601,25 +9025,27 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 [Méphite de vapeur]: monsters_hd.md#méphite-de-vapeur
 
 
-[][MonsterVO]
+</Monster>
 
-# Spirit Naga
-- AltName: [Naga corrupteur]
-- Large monstrosity, chaotic evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 75 (10d10 + 20)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Spirit Naga</Name>
+- <AltName>[Naga corrupteur]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>75 (10d10 + 20)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** Abyssal, Common
-- **Challenge** 8 (3900 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, poisoned
+- **Saving Throws** <SavingThrows>Dex +6, Con +5, Wis +5, Cha +6</SavingThrows>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Abyssal, Common</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8648,25 +9074,27 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 [Naga corrupteur]: monsters_hd.md#naga-corrupteur
 
 
-[][MonsterVO]
+</Monster>
 
-# Guardian Naga
-- AltName: [Naga gardien]
-- Large monstrosity, lawful good
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 127 (15d10 + 45)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Guardian Naga</Name>
+- <AltName>[Naga gardien]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>127 (15d10 + 45)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
+|<Strength>19 (+4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>19 (+4)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Celestial, Common
-- **Challenge** 10 (5900 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** charmed, poisoned
+- **Saving Throws** <SavingThrows>Dex +8, Con +7, Int +7, Wis +8, Cha +8</SavingThrows>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Celestial, Common</Languages>
+- **Challenge** <Challenge>10 (5900 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8701,26 +9129,28 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 [Naga gardien]: monsters_hd.md#naga-gardien
 
 
-[][MonsterVO]
+</Monster>
 
-# Nalfeshnee
-- AltName: [Nalfeshnie]
-- Large fiend (demon), chaotic evil
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 184 (16d10 + 96)
-- **Speed** 20 ft., fly 30 ft.
+<Monster>
+
+# <Name>Nalfeshnee</Name>
+- <AltName>[Nalfeshnie]</AltName>
+- <Size>Large</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>184 (16d10 + 96)</HitPoints>
+- **Speed** <Speed>20 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
+|<Strength>21 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>19 (+4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
-- **Senses** truesight 120 ft., passive Perception 11
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 13 (10000 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Con +11, Int +9, Wis +6, Cha +7</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Abyssal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>13 (10000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -8745,23 +9175,25 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 [Nalfeshnie]: monsters_hd.md#nalfeshnie
 
 
-[][MonsterVO]
+</Monster>
 
-# Noble
-- AltName: [Noble]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 15 (breastplate)
-- **Hit Points** 9 (2d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Noble</Name>
+- <AltName>[Noble]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>15 (breastplate)</ArmorClass>
+- **Hit Points** <HitPoints>9 (2d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Skills** Deception +5, Insight +4, Persuasion +5
-- **Senses** passive Perception 12
-- **Languages** any two languages
-- **Challenge** 1/8 (25 XP)
+- **Skills** <Skills>Deception +5, Insight +4, Persuasion +5</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>any two languages</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -8776,24 +9208,26 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Noble]: monsters_hd.md#noble
 
 
-[][MonsterVO]
+</Monster>
 
-# Swarm of Insects
-- AltName: [Nuée d'insectes]
-- Medium swarm of Tiny beasts, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 22 (5d8)
-- **Speed** 20 ft., climb 20 ft.
+<Monster>
+
+# <Name>Swarm of Insects</Name>
+- <AltName>[Nuée d'insectes]</AltName>
+- <Size>Medium</Size> <Type>swarm of Tiny beasts</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d8)</HitPoints>
+- **Speed** <Speed>20 ft., climb 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 10 ft., passive Perception 8
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Senses** <Senses>blindsight 10 ft., passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, slashing</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</ConditionImmunities>
 
 ## Special Features
 
@@ -8808,24 +9242,26 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 [Nuée d'insectes]: monsters_hd.md#nuée-dinsectes
 
 
-[][MonsterVO]
+</Monster>
 
-# Swarm of Bats
-- AltName: [Nuée de chauve-souris]
-- Medium swarm of Tiny beasts, unaligned
-- **Armor Class** 12
-- **Hit Points** 22 (5d8)
-- **Speed** 0 ft., fly 30 ft.
+<Monster>
+
+# <Name>Swarm of Bats</Name>
+- <AltName>[Nuée de chauve-souris]</AltName>
+- <Size>Medium</Size> <Type>swarm of Tiny beasts</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d8)</HitPoints>
+- **Speed** <Speed>0 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Senses** blindsight 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Senses** <Senses>blindsight 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, slashing</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</ConditionImmunities>
 
 ## Special Features
 
@@ -8844,25 +9280,27 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 [Nuée de chauve-souris]: monsters_hd.md#nuée-de-chauve-souris
 
 
-[][MonsterVO]
+</Monster>
 
-# Swarm of Ravens
-- AltName: [Nuée de corbeaux]
-- Medium swarm of Tiny beasts, unaligned
-- **Armor Class** 12
-- **Hit Points** 24 (7d8 - 7)
-- **Speed** 10 ft., fly 50 ft.
+<Monster>
+
+# <Name>Swarm of Ravens</Name>
+- <AltName>[Nuée de corbeaux]</AltName>
+- <Size>Medium</Size> <Type>swarm of Tiny beasts</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>24 (7d8 - 7)</HitPoints>
+- **Speed** <Speed>10 ft., fly 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)| 8 (-1)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +5
-- **Senses** passive Perception 15
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Skills** <Skills>Perception +5</Skills>
+- **Senses** <Senses>passive Perception 15</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, slashing</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</ConditionImmunities>
 
 ## Special Features
 
@@ -8877,24 +9315,26 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de corbeaux]: monsters_hd.md#nuée-de-corbeaux
 
 
-[][MonsterVO]
+</Monster>
 
-# Swarm of Quippers
-- AltName: [Nuée de piranhas]
-- Medium swarm of Tiny beasts, unaligned
-- **Armor Class** 13
-- **Hit Points** 28 (8d8 - 8)
-- **Speed** 0 ft., swim 40 ft.
+<Monster>
+
+# <Name>Swarm of Quippers</Name>
+- <AltName>[Nuée de piranhas]</AltName>
+- <Size>Medium</Size> <Type>swarm of Tiny beasts</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>28 (8d8 - 8)</HitPoints>
+- **Speed** <Speed>0 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
+|<Strength>13 (+1)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 8
-- **Languages** -
-- **Challenge** 1 (200 XP)
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Senses** <Senses>darkvision 60 ft., passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, slashing</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</ConditionImmunities>
 
 ## Special Features
 
@@ -8913,24 +9353,26 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 [Nuée de piranhas]: monsters_hd.md#nuée-de-piranhas
 
 
-[][MonsterVO]
+</Monster>
 
-# Swarm of Rats
-- AltName: [Nuée de rats]
-- Medium swarm of Tiny beasts, unaligned
-- **Armor Class** 10
-- **Hit Points** 24 (7d8 - 7)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Swarm of Rats</Name>
+- <AltName>[Nuée de rats]</AltName>
+- <Size>Medium</Size> <Type>swarm of Tiny beasts</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>24 (7d8 - 7)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength> 9 (-1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Senses** <Senses>darkvision 30 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, slashing</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</ConditionImmunities>
 
 ## Special Features
 
@@ -8947,24 +9389,26 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de rats]: monsters_hd.md#nuée-de-rats
 
 
-[][MonsterVO]
+</Monster>
 
-# Swarm of Poisonous Snakes
-- AltName: [Nuée de serpents venimeux]
-- Medium swarm of Tiny beasts, unaligned
-- **Armor Class** 14
-- **Hit Points** 36 (8d8)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Swarm of Poisonous Snakes</Name>
+- <AltName>[Nuée de serpents venimeux]</AltName>
+- <Size>Medium</Size> <Type>swarm of Tiny beasts</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14</ArmorClass>
+- **Hit Points** <HitPoints>36 (8d8)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 10 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+- **Senses** <Senses>blindsight 10 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, slashing</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned</ConditionImmunities>
 
 ## Special Features
 
@@ -8979,26 +9423,28 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 [Nuée de serpents venimeux]: monsters_hd.md#nuée-de-serpents-venimeux
 
 
-[][MonsterVO]
+</Monster>
 
-# Wight
-- AltName: [Nécrophage]
-- Medium undead, neutral evil
-- **Armor Class** 14 (studded leather)
-- **Hit Points** 45 (6d8 + 18)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Wight</Name>
+- <AltName>[Nécrophage]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>14 (studded leather)</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d8 + 18)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** the languages it knew in life
-- **Challenge** 3 (700 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** exhaustion, poisoned
+- **Skills** <Skills>Perception +3, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -9023,22 +9469,24 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Nécrophage]: monsters_hd.md#nécrophage
 
 
-[][MonsterVO]
+</Monster>
 
-# Ogre
-- AltName: [Ogre]
-- Large giant, chaotic evil
-- **Armor Class** 11 (hide armor)
-- **Hit Points** 59 (7d10 + 21)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Ogre</Name>
+- <AltName>[Ogre]</AltName>
+- <Size>Large</Size> <Type>giant</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>11 (hide armor)</ArmorClass>
+- **Hit Points** <HitPoints>59 (7d10 + 21)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 8 (-1)|16 (+3)| 5 (-3)| 7 (-2)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 8
-- **Languages** Common, Giant
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 8</Senses>
+- **Languages** <Languages>Common, Giant</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -9053,27 +9501,29 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 [Ogre]: monsters_hd.md#ogre
 
 
-[][MonsterVO]
+</Monster>
 
-# Shadow
-- AltName: [Ombre]
-- Medium undead, chaotic evil
-- **Armor Class** 12
-- **Hit Points** 16 (3d8 + 3)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Shadow</Name>
+- <AltName>[Ombre]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>16 (3d8 + 3)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Stealth +4 (+6 in dim light or darkness)
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
-- **Damage Immunities** necrotic, poison
-- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Skills** <Skills>Stealth +4 (+6 in dim light or darkness)</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>necrotic, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 - **Damage Vulnerabilities** radiant
-- **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Condition Immunities** <ConditionImmunities>exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</ConditionImmunities>
 
 ## Special Features
 
@@ -9092,24 +9542,26 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 [Ombre]: monsters_hd.md#ombre
 
 
-[][MonsterVO]
+</Monster>
 
-# Oni
-- AltName: [Oni]
-- Large giant, lawful evil
-- **Armor Class** 16 (chain mail)
-- **Hit Points** 110 (13d10 + 39)
-- **Speed** 30 ft., fly 30 ft.
+<Monster>
+
+# <Name>Oni</Name>
+- <AltName>[Oni]</AltName>
+- <Size>Large</Size> <Type>giant</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>16 (chain mail)</ArmorClass>
+- **Hit Points** <HitPoints>110 (13d10 + 39)</HitPoints>
+- **Speed** <Speed>30 ft., fly 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5
-- **Skills** Arcana +5, Deception +8, Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Common, Giant
-- **Challenge** 7 (2900 XP)
+- **Saving Throws** <SavingThrows>Dex +3, Con +6, Wis +4, Cha +5</SavingThrows>
+- **Skills** <Skills>Arcana +5, Deception +8, Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Common, Giant</Languages>
+- **Challenge** <Challenge>7 (2900 XP)</Challenge>
 
 ## Special Features
 
@@ -9140,23 +9592,25 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 [Oni]: monsters_hd.md#oni
 
 
-[][MonsterVO]
+</Monster>
 
-# Orc
-- AltName: [Orc]
-- Medium humanoid (orc), chaotic evil
-- **Armor Class** 13 (hide armor)
-- **Hit Points** 15 (2d8 + 6)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Orc</Name>
+- <AltName>[Orc]</AltName>
+- <Size>Medium</Size> <Type>humanoid (orc)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>13 (hide armor)</ArmorClass>
+- **Hit Points** <HitPoints>15 (2d8 + 6)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|16 (+3)| 7 (-2)|11 (+0)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Intimidation +2
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Common, Orc
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Intimidation +2</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Common, Orc</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -9175,23 +9629,25 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [Orc]: monsters_hd.md#orc
 
 
-[][MonsterVO]
+</Monster>
 
-# Otyugh
-- AltName: [Otyugh]
-- Large aberration, neutral
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 114 (12d10 + 48)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Otyugh</Name>
+- <AltName>[Otyugh]</AltName>
+- <Size>Large</Size> <Type>aberration</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>114 (12d10 + 48)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|11 (+0)|19 (+4)| 6 (-2)|13 (+1)| 6 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Saving Throws** Con +7
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Languages** Otyugh
-- **Challenge** 5 (1800 XP)
+- **Saving Throws** <SavingThrows>Con +7</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Otyugh</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -9214,23 +9670,25 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 [Otyugh]: monsters_hd.md#otyugh
 
 
-[][MonsterVO]
+</Monster>
 
-# Brown Bear
-- AltName: [Ours brun]
-- Large beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 34 (4d10 + 12)
-- **Speed** 40 ft., climb 30 ft.
+<Monster>
+
+# <Name>Brown Bear</Name>
+- <AltName>[Ours brun]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>34 (4d10 + 12)</HitPoints>
+- **Speed** <Speed>40 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -9251,23 +9709,25 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Ours brun]: monsters_hd.md#ours-brun
 
 
-[][MonsterVO]
+</Monster>
 
-# Black Bear
-- AltName: [Ours noir]
-- Medium beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 19 (3d8 + 6)
-- **Speed** 40 ft., climb 30 ft.
+<Monster>
+
+# <Name>Black Bear</Name>
+- <AltName>[Ours noir]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>19 (3d8 + 6)</HitPoints>
+- **Speed** <Speed>40 ft., climb 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -9288,23 +9748,25 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 [Ours noir]: monsters_hd.md#ours-noir
 
 
-[][MonsterVO]
+</Monster>
 
-# Polar Bear
-- AltName: [Ours polaire]
-- Large beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 42 (5d10 + 15)
-- **Speed** 40 ft., swim 30 ft.
+<Monster>
+
+# <Name>Polar Bear</Name>
+- <AltName>[Ours polaire]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>42 (5d10 + 15)</HitPoints>
+- **Speed** <Speed>40 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -9325,24 +9787,26 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Ours polaire]: monsters_hd.md#ours-polaire
 
 
-[][MonsterVO]
+</Monster>
 
-# Werebear
-- AltName: [Ours-garou]
-- Medium humanoid (human, shapechanger), neutral good
-- **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
-- **Hit Points** 135 (18d8 + 54)
-- **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
+<Monster>
+
+# <Name>Werebear</Name>
+- <AltName>[Ours-garou]</AltName>
+- <Size>Medium</Size> <Type>humanoid (human</Type>, <Alignment>shapechanger), neutral good</Alignment>
+- **Armor Class** <ArmorClass>10 in humanoid form, 11 (natural armor) in bear and hybrid form</ArmorClass>
+- **Hit Points** <HitPoints>135 (18d8 + 54)</HitPoints>
+- **Speed** <Speed>30 ft. (40 ft., climb 30 ft. in bear or hybrid form)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Skills** Perception +7
-- **Senses** passive Perception 17
-- **Languages** Common (can't speak in bear form)
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+- **Skills** <Skills>Perception +7</Skills>
+- **Senses** <Senses>passive Perception 17</Senses>
+- **Languages** <Languages>Common (can't speak in bear form)</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons</DamageImmunities>
 
 ## Special Features
 
@@ -9369,22 +9833,24 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 [Ours-garou]: monsters_hd.md#ours-garou
 
 
-[][MonsterVO]
+</Monster>
 
-# Rust Monster
-- AltName: [Oxydeur]
-- Medium monstrosity, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 27 (5d8 + 5)
-- **Speed** 40 ft
+<Monster>
+
+# <Name>Rust Monster</Name>
+- <AltName>[Oxydeur]</AltName>
+- <Size>Medium</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>27 (5d8 + 5)</HitPoints>
+- **Speed** <Speed>40 ft</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|13 (+1)| 2 (-4)|13 (+1)| 6 (-2)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -9403,23 +9869,25 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 [Oxydeur]: monsters_hd.md#oxydeur
 
 
-[][MonsterVO]
+</Monster>
 
-# Panther
-- AltName: [Panthère]
-- Medium beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 13 (3d8)
-- **Speed** 50 ft., climb 40 ft.
+<Monster>
+
+# <Name>Panther</Name>
+- <AltName>[Panthère]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>13 (3d8)</HitPoints>
+- **Speed** <Speed>50 ft., climb 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|15 (+2)|10 (+0)| 3 (-4)|14 (+2)| 7 (-2)|
+|<Strength>14 (+2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +4, Stealth +6
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +4, Stealth +6</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -9440,23 +9908,25 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 [Panthère]: monsters_hd.md#panthère
 
 
-[][MonsterVO]
+</Monster>
 
-# Octopus
-- AltName: [Pieuvre]
-- Small beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 3 (1d6)
-- **Speed** 5 ft., swim 30 ft.
+<Monster>
+
+# <Name>Octopus</Name>
+- <AltName>[Pieuvre]</AltName>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>3 (1d6)</HitPoints>
+- **Speed** <Speed>5 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Perception +2, Stealth +4
-- **Senses** darkvision 30 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +2, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 30 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -9477,23 +9947,25 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 [Pieuvre]: monsters_hd.md#pieuvre
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Octopus
-- AltName: [Pieuvre géante]
-- Large beast, unaligned
-- **Armor Class** 11
-- **Hit Points** 52 (8d10 + 8)
-- **Speed** 10 ft., swim 60 ft.
+<Monster>
+
+# <Name>Giant Octopus</Name>
+- <AltName>[Pieuvre géante]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>52 (8d10 + 8)</HitPoints>
+- **Speed** <Speed>10 ft., swim 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|13 (+1)|13 (+1)| 4 (-3)|10 (+0)| 4 (-3)|
+|<Strength>17 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Perception +4, Stealth +5
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +4, Stealth +5</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -9514,22 +9986,24 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 [Pieuvre géante]: monsters_hd.md#pieuvre-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Quipper
-- AltName: [Piranha]
-- Tiny beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 0 ft., swim 40 ft.
+<Monster>
+
+# <Name>Quipper</Name>
+- <AltName>[Piranha]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>0 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 8
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -9546,26 +10020,28 @@ _Hit_: 1 piercing damage.
 [Piranha]: monsters_hd.md#piranha
 
 
-[][MonsterVO]
+</Monster>
 
-# Planetar
-- AltName: [Planétar]
-- Large celestial, lawful good
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 200 (16d10 + 112)
-- **Speed** 40 ft., fly 120 ft.
+<Monster>
+
+# <Name>Planetar</Name>
+- <AltName>[Planétar]</AltName>
+- <Size>Large</Size> <Type>celestial</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>200 (16d10 + 112)</HitPoints>
+- **Speed** <Speed>40 ft., fly 120 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
+|<Strength>24 (+7)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>24 (+7)</Constitution>|<Intelligence>19 (+4)</Intelligence>|<Wisdom>22 (+6)</Wisdom>|<Charisma>25 (+7)</Charisma>|
 
-- **Saving Throws** Con +12, Wis +11, Cha +12
-- **Skills** Perception +11
-- **Senses** truesight 120 ft., passive Perception 21
-- **Languages** all, telepathy 120 ft.
-- **Challenge** 16 (15000 XP)
-- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** charmed, exhaustion, frightened
+- **Saving Throws** <SavingThrows>Con +12, Wis +11, Cha +12</SavingThrows>
+- **Skills** <Skills>Perception +11</Skills>
+- **Senses** <Senses>truesight 120 ft., passive Perception 21</Senses>
+- **Languages** <Languages>all, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>16 (15000 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>radiant; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened</ConditionImmunities>
 
 ## Special Features
 
@@ -9596,23 +10072,25 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 [Planétar]: monsters_hd.md#planétar
 
 
-[][MonsterVO]
+</Monster>
 
-# Plesiosaurus
-- AltName: [Plésiosaure]
-- Large beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 68 (8d10 + 24)
-- **Speed** 20 ft., swim 40 ft.
+<Monster>
+
+# <Name>Plesiosaurus</Name>
+- <AltName>[Plésiosaure]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>68 (8d10 + 24)</HitPoints>
+- **Speed** <Speed>20 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +3, Stealth +4</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -9627,22 +10105,24 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 [Plésiosaure]: monsters_hd.md#plésiosaure
 
 
-[][MonsterVO]
+</Monster>
 
-# Pony
-- AltName: [Poney]
-- Medium beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Pony</Name>
+- <AltName>[Poney]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -9653,24 +10133,26 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 [Poney]: monsters_hd.md#poney
 
 
-[][MonsterVO]
+</Monster>
 
-# Black Pudding
-- AltName: [Pouding noir]
-- Large ooze, unaligned
-- **Armor Class** 7
-- **Hit Points** 85 (10d10 + 30)
-- **Speed** 20 ft., climb 20 ft.
+<Monster>
+
+# <Name>Black Pudding</Name>
+- <AltName>[Pouding noir]</AltName>
+- <Size>Large</Size> <Type>ooze</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>7</ArmorClass>
+- **Hit Points** <HitPoints>85 (10d10 + 30)</HitPoints>
+- **Speed** <Speed>20 ft., climb 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 5 (-3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
-- **Languages** -
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** acid, cold, lightning, slashing
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Senses** <Senses>blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>acid, cold, lightning, slashing</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, exhaustion, frightened, prone</ConditionImmunities>
 
 ## Special Features
 
@@ -9693,23 +10175,25 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 [Pouding noir]: monsters_hd.md#pouding-noir
 
 
-[][MonsterVO]
+</Monster>
 
-# Pseudodragon
-- AltName: [Pseudodragon]
-- Tiny dragon, neutral good
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 7 (2d4 + 2)
-- **Speed** 15 ft., fly 60 ft.
+<Monster>
+
+# <Name>Pseudodragon</Name>
+- <AltName>[Pseudodragon]</AltName>
+- <Size>Tiny</Size> <Type>dragon</Type>, <Alignment>neutral good</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>7 (2d4 + 2)</HitPoints>
+- **Speed** <Speed>15 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +3, Stealth +4
-- **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
-- **Languages** understands Common and Draconic but can't speak
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +3, Stealth +4</Skills>
+- **Senses** <Senses>blindsight 10 ft., darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>understands Common and Draconic but can't speak</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -9733,22 +10217,24 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Fire Beetle
-- AltName: [Punaise de feu géante]
-- Small beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 4 (1d6 + 1)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Giant Fire Beetle</Name>
+- <AltName>[Punaise de feu géante]</AltName>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>4 (1d6 + 1)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|10 (+0)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 30 ft., passive Perception 8
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>blindsight 30 ft., passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -9763,24 +10249,26 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 [Punaise de feu géante]: monsters_hd.md#punaise-de-feu-géante
 
 
-[][MonsterVO]
+</Monster>
 
-# Pegasus
-- AltName: [Pégase]
-- Large celestial, chaotic good
-- **Armor Class** 12
-- **Hit Points** 59 (7d10 + 21)
-- **Speed** 60 ft., fly 90 ft.
+<Monster>
+
+# <Name>Pegasus</Name>
+- <AltName>[Pégase]</AltName>
+- <Size>Large</Size> <Type>celestial</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>59 (7d10 + 21)</HitPoints>
+- **Speed** <Speed>60 ft., fly 90 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Saving Throws** Dex +4, Wis +4, Cha +3
-- **Skills** Perception +6
-- **Senses** passive Perception 16
-- **Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
-- **Challenge** 2 (450 XP)
+- **Saving Throws** <SavingThrows>Dex +4, Wis +4, Cha +3</SavingThrows>
+- **Skills** <Skills>Perception +6</Skills>
+- **Senses** <Senses>passive Perception 16</Senses>
+- **Languages** <Languages>understands Celestial, Common, Elvish, and Sylvan but can't speak</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -9791,26 +10279,28 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Pégase]: monsters_hd.md#pégase
 
 
-[][MonsterVO]
+</Monster>
 
-# Quasit
-- AltName: [Quasit]
-- Tiny fiend (demon, shapechanger), chaotic evil
-- **Armor Class** 13
-- **Hit Points** 7 (3d4)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Quasit</Name>
+- <AltName>[Quasit]</AltName>
+- <Size>Tiny</Size> <Type>fiend (demon</Type>, <Alignment>shapechanger), chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>7 (3d4)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Stealth +5
-- **Senses** darkvision 120 ft., passive Perception 10
-- **Languages** Abyssal, Common
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Skills** <Skills>Stealth +5</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Abyssal, Common</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -9831,24 +10321,26 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 [Quasit]: monsters_hd.md#quasit
 
 
-[][MonsterVO]
+</Monster>
 
-# Rakshasa
-- AltName: [Rakshasa]
-- Medium fiend, lawful evil
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 110 (13d8 + 52)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Rakshasa</Name>
+- <AltName>[Rakshasa]</AltName>
+- <Size>Medium</Size> <Type>fiend</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>110 (13d8 + 52)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
+|<Strength>14 (+2)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Skills** Deception +10, Insight +8
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** Common, Infernal
-- **Challenge** 13 (10000 XP)
-- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Skills** <Skills>Deception +10, Insight +8</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>Common, Infernal</Languages>
+- **Challenge** <Challenge>13 (10000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>bludgeoning, piercing, and slashing from nonmagical attacks</DamageImmunities>
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 
 ## Special Features
@@ -9874,22 +10366,24 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 [Rakshasa]: monsters_hd.md#rakshasa
 
 
-[][MonsterVO]
+</Monster>
 
-# Rat
-- AltName: [Rat]
-- Tiny beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Rat</Name>
+- <AltName>[Rat]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Senses** darkvision 30 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>darkvision 30 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -9904,22 +10398,24 @@ _Hit_: 1 piercing damage.
 [Rat]: monsters_hd.md#rat
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Rat
-- AltName: [Rat géant]
-- Small beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 7 (2d6)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Giant Rat</Name>
+- <AltName>[Rat géant]</AltName>
+- <Size>Small</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>7 (2d6)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|15 (+2)|11 (+0)| 2 (-4)|10 (+0)| 4 (-3)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -9936,24 +10432,26 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 [Rat géant]: monsters_hd.md#rat-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Wererat
-- AltName: [Rat-garou]
-- Medium humanoid (human, shapechanger), lawful evil
-- **Armor Class** 12
-- **Hit Points** 33 (6d8 + 6)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Wererat</Name>
+- <AltName>[Rat-garou]</AltName>
+- <Size>Medium</Size> <Type>humanoid (human</Type>, <Alignment>shapechanger), lawful evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>33 (6d8 + 6)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)| 8 (-1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +2, Stealth +4
-- **Senses** darkvision 60 ft. (rat form only), passive Perception 12
-- **Languages** Common (can't speak in rat form)
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+- **Skills** <Skills>Perception +2, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 60 ft. (rat form only), passive Perception 12</Senses>
+- **Languages** <Languages>Common (can't speak in rat form)</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons</DamageImmunities>
 
 ## Special Features
 
@@ -9980,23 +10478,25 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Rat-garou]: monsters_hd.md#rat-garou
 
 
-[][MonsterVO]
+</Monster>
 
-# Reef Shark
-- AltName: [Requin de récif]
-- Medium beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 22 (4d8 + 4)
-- **Speed** 0 ft., swim 40 ft.
+<Monster>
+
+# <Name>Reef Shark</Name>
+- <AltName>[Requin de récif]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>22 (4d8 + 4)</HitPoints>
+- **Speed** <Speed>0 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|13 (+1)|13 (+1)| 1 (-5)|10 (+0)| 4 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** blindsight 30 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>blindsight 30 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -10013,23 +10513,25 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Requin de récif]: monsters_hd.md#requin-de-récif
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Shark
-- AltName: [Requin géant]
-- Huge beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 126 (11d12 + 55)
-- **Speed** 0 ft., swim 50 ft.
+<Monster>
+
+# <Name>Giant Shark</Name>
+- <AltName>[Requin géant]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>126 (11d12 + 55)</HitPoints>
+- **Speed** <Speed>0 ft., swim 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|11 (+0)|21 (+5)| 1 (-5)|10 (+0)| 5 (-3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** blindsight 60 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 5 (1800 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>blindsight 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -10046,23 +10548,25 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 [Requin géant]: monsters_hd.md#requin-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Hunter Shark
-- AltName: [Requin chasseur]
-- Large beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 45 (6d10 + 12)
-- **Speed** 0 ft., swim 40 ft.
+<Monster>
+
+# <Name>Hunter Shark</Name>
+- <AltName>[Requin chasseur]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d10 + 12)</HitPoints>
+- **Speed** <Speed>0 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|13 (+1)|15 (+2)| 1 (-5)|10 (+0)| 4 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** blindsight 30 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>blindsight 30 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -10079,22 +10583,24 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Requin chasseur]: monsters_hd.md#requin-chasseur
 
 
-[][MonsterVO]
+</Monster>
 
-# Rhinoceros
-- AltName: [Rhinocéros]
-- Large beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 45 (6d10 + 12)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Rhinoceros</Name>
+- <AltName>[Rhinocéros]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>45 (6d10 + 12)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 11
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -10109,24 +10615,26 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [Rhinocéros]: monsters_hd.md#rhinocéros
 
 
-[][MonsterVO]
+</Monster>
 
-# Roc
-- AltName: [Roc]
-- Gargantuan monstrosity, unaligned
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 248 (16d20 + 80)
-- **Speed** 20 ft., fly 120 ft.
+<Monster>
+
+# <Name>Roc</Name>
+- <AltName>[Roc]</AltName>
+- <Size>Gargantuan</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>248 (16d20 + 80)</HitPoints>
+- **Speed** <Speed>20 ft., fly 120 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|28 (+9)|10 (+0)|20 (+5)| 3 (-4)|10 (+0)| 9 (-1)|
+|<Strength>28 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 11 (7200 XP)
+- **Saving Throws** <SavingThrows>Dex +4, Con +9, Wis +4, Cha +3</SavingThrows>
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
 
 ## Special Features
 
@@ -10147,22 +10655,24 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 [Roc]: monsters_hd.md#roc
 
 
-[][MonsterVO]
+</Monster>
 
-# Commoner
-- AltName: [Roturier]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 10
-- **Hit Points** 4 (1d8)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Commoner</Name>
+- <AltName>[Roturier]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>4 (1d8)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** any one language (usually Common)
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -10173,23 +10683,25 @@ _Hit_: 2 (1d4) bludgeoning damage.
 [Roturier]: monsters_hd.md#roturier
 
 
-[][MonsterVO]
+</Monster>
 
-# Remorhaz
-- AltName: [Remorhaz]
-- Huge monstrosity, unaligned
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 195 (17d12 + 85)
-- **Speed** 30 ft., burrow 20 ft.
+<Monster>
+
+# <Name>Remorhaz</Name>
+- <AltName>[Remorhaz]</AltName>
+- <Size>Huge</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>195 (17d12 + 85)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)|13 (+1)|21 (+5)| 4 (-3)|10 (+0)| 5 (-3)|
+|<Strength>24 (+7)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 11 (7200 XP)
-- **Damage Immunities** cold, fire
+- **Senses** <Senses>darkvision 60 ft., tremorsense 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>cold, fire</DamageImmunities>
 
 ## Special Features
 
@@ -10206,23 +10718,25 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 [Remorhaz]: monsters_hd.md#remorhaz
 
 
-[][MonsterVO]
+</Monster>
 
-# Sahuagin
-- AltName: [Sahuagin]
-- Medium humanoid (sahuagin), lawful evil
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 22 (4d8 + 4)
-- **Speed** 30 ft., swim 40 ft.
+<Monster>
+
+# <Name>Sahuagin</Name>
+- <AltName>[Sahuagin]</AltName>
+- <Size>Medium</Size> <Type>humanoid (sahuagin)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>22 (4d8 + 4)</HitPoints>
+- **Speed** <Speed>30 ft., swim 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)| 9 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Skills** Perception +5
-- **Senses** darkvision 120 ft., passive Perception 15
-- **Languages** Sahuagin
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Perception +5</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 15</Senses>
+- **Languages** <Languages>Sahuagin</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -10251,24 +10765,26 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 [Sahuagin]: monsters_hd.md#sahuagin
 
 
-[][MonsterVO]
+</Monster>
 
-# Salamander
-- AltName: [Salamandre]
-- Large elemental, neutral evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 90 (12d10 + 24)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Salamander</Name>
+- <AltName>[Salamandre]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>90 (12d10 + 24)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Ignan
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** fire
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Ignan</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 - **Damage Vulnerabilities** cold
 
 ## Special Features
@@ -10292,22 +10808,24 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 [Salamandre]: monsters_hd.md#salamandre
 
 
-[][MonsterVO]
+</Monster>
 
-# Boar
-- AltName: [Sanglier]
-- Medium beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Boar</Name>
+- <AltName>[Sanglier]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)| 2 (-4)| 9 (-1)| 5 (-3)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 9
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -10324,22 +10842,24 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 [Sanglier]: monsters_hd.md#sanglier
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Boar
-- AltName: [Sanglier géant]
-- Large beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 42 (5d10 + 15)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Giant Boar</Name>
+- <AltName>[Sanglier géant]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>42 (5d10 + 15)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 8
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Senses** <Senses>passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -10356,24 +10876,26 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 [Sanglier géant]: monsters_hd.md#sanglier-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Wereboar
-- AltName: [Sanglier-garou]
-- Medium humanoid (human, shapechanger), neutral evil
-- **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
-- **Hit Points** 78 (12d8 + 24)
-- **Speed** 30 ft. (40 ft. in boar form)
+<Monster>
+
+# <Name>Wereboar</Name>
+- <AltName>[Sanglier-garou]</AltName>
+- <Size>Medium</Size> <Type>humanoid (human</Type>, <Alignment>shapechanger), neutral evil</Alignment>
+- **Armor Class** <ArmorClass>10 in humanoid form, 11 (natural armor) in boar or hybrid form</ArmorClass>
+- **Hit Points** <HitPoints>78 (12d8 + 24)</HitPoints>
+- **Speed** <Speed>30 ft. (40 ft. in boar form)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** passive Perception 12
-- **Languages** Common (can't speak in boar form)
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>Common (can't speak in boar form)</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered</DamageImmunities>
 
 ## Special Features
 
@@ -10398,23 +10920,25 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 [Sanglier-garou]: monsters_hd.md#sanglier-garou
 
 
-[][MonsterVO]
+</Monster>
 
-# Satyr
-- AltName: [Satyre]
-- Medium fey, chaotic neutral
-- **Armor Class** 14 (leather armor)
-- **Hit Points** 31 (7d8)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Satyr</Name>
+- <AltName>[Satyre]</AltName>
+- <Size>Medium</Size> <Type>fey</Type>, <Alignment>chaotic neutral</Alignment>
+- **Armor Class** <ArmorClass>14 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>31 (7d8)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
+|<Strength>12 (+1)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Skills** Perception +2, Performance +6, Stealth +5
-- **Senses** passive Perception 12
-- **Languages** Common, Elvish, Sylvan
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Perception +2, Performance +6, Stealth +5</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>Common, Elvish, Sylvan</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -10437,22 +10961,24 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 [Satyre]: monsters_hd.md#satyre
 
 
-[][MonsterVO]
+</Monster>
 
-# Scorpion
-- AltName: [Scorpion]
-- Tiny beast, unaligned
-- **Armor Class** 11 (natural armor)
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 10 ft.
+<Monster>
+
+# <Name>Scorpion</Name>
+- <AltName>[Scorpion]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>11 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>1 (1d4 - 1)</HitPoints>
+- **Speed** <Speed>10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)| 8 (-1)| 1 (-5)| 8 (-1)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Senses** blindsight 10 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Senses** <Senses>blindsight 10 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -10463,22 +10989,24 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 [Scorpion]: monsters_hd.md#scorpion
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Scorpion
-- AltName: [Scorpion géant]
-- Large beast, unaligned
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 52 (7d10 + 14)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Giant Scorpion</Name>
+- <AltName>[Scorpion géant]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>52 (7d10 + 14)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|13 (+1)|15 (+2)| 1 (-5)| 9 (-1)| 3 (-4)|
+|<Strength>15 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 60 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 3 (700 XP)
+- **Senses** <Senses>blindsight 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -10495,22 +11023,24 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 [Scorpion géant]: monsters_hd.md#scorpion-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Constrictor Snake
-- AltName: [Serpent constricteur]
-- Large beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 13 (2d10 + 2)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Constrictor Snake</Name>
+- <AltName>[Serpent constricteur]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>13 (2d10 + 2)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 10 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>blindsight 10 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -10525,23 +11055,25 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 [Serpent constricteur]: monsters_hd.md#serpent-constricteur
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Constrictor Snake
-- AltName: [Serpent constricteur géant]
-- Huge beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 60 (8d12 + 8)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Giant Constrictor Snake</Name>
+- <AltName>[Serpent constricteur géant]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>60 (8d12 + 8)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength>19 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** blindsight 10 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -10556,22 +11088,24 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 [Serpent constricteur géant]: monsters_hd.md#serpent-constricteur-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Poisonous Snake
-- AltName: [Serpent venimeux]
-- Tiny beast, unaligned
-- **Armor Class** 13
-- **Hit Points** 2 (1d4)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Poisonous Snake</Name>
+- <AltName>[Serpent venimeux]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>2 (1d4)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|16 (+3)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Senses** blindsight 10 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>blindsight 10 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -10582,23 +11116,25 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 [Serpent venimeux]: monsters_hd.md#serpent-venimeux
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Poisonous Snake
-- AltName: [Serpent venimeux géant]
-- Medium beast, unaligned
-- **Armor Class** 14
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 30 ft., swim 30 ft.
+<Monster>
+
+# <Name>Giant Poisonous Snake</Name>
+- <AltName>[Serpent venimeux géant]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>30 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|18 (+4)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength>10 (+0)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** blindsight 10 ft., passive Perception 12
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>blindsight 10 ft., passive Perception 12</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -10609,22 +11145,24 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 [Serpent venimeux géant]: monsters_hd.md#serpent-venimeux-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Flying Snake
-- AltName: [Serpent volant]
-- Tiny beast, unaligned
-- **Armor Class** 14
-- **Hit Points** 5 (2d4)
-- **Speed** 30 ft., fly 60 ft., swim 30 ft.
+<Monster>
+
+# <Name>Flying Snake</Name>
+- <AltName>[Serpent volant]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14</ArmorClass>
+- **Hit Points** <HitPoints>5 (2d4)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft., swim 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|18 (+4)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** blindsight 10 ft., passive Perception 11
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>blindsight 10 ft., passive Perception 11</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -10639,23 +11177,25 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 [Serpent volant]: monsters_hd.md#serpent-volant
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Ape
-- AltName: [Singe géant]
-- Huge beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 157 (15d12 + 60)
-- **Speed** 40 ft., climb 40 ft.
+<Monster>
+
+# <Name>Giant Ape</Name>
+- <AltName>[Singe géant]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>157 (15d12 + 60)</HitPoints>
+- **Speed** <Speed>40 ft., climb 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|14 (+2)|18 (+4)| 7 (-2)|12 (+1)| 7 (-2)|
+|<Strength>23 (+6)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Athletics +9, Perception +4
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 7 (2900 XP)
+- **Skills** <Skills>Athletics +9, Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>7 (2900 XP)</Challenge>
 
 ## Special Features
 
@@ -10672,27 +11212,29 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 [Singe géant]: monsters_hd.md#singe-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Solar
-- AltName: [Solar]
-- Large celestial, lawful good
-- **Armor Class** 21 (natural armor)
-- **Hit Points** 243 (18d10 + 144)
-- **Speed** 50 ft., fly 150 ft.
+<Monster>
+
+# <Name>Solar</Name>
+- <AltName>[Solar]</AltName>
+- <Size>Large</Size> <Type>celestial</Type>, <Alignment>lawful good</Alignment>
+- **Armor Class** <ArmorClass>21 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>243 (18d10 + 144)</HitPoints>
+- **Speed** <Speed>50 ft., fly 150 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
+|<Strength>26 (+8)</Strength>|<Dexterity>22 (+6)</Dexterity>|<Constitution>26 (+8)</Constitution>|<Intelligence>25 (+7)</Intelligence>|<Wisdom>25 (+7)</Wisdom>|<Charisma>30 (+10)</Charisma>|
 
-- **Saving Throws** Int +14, Wis +14, Cha +17
-- **Skills** Perception +14
-- **Senses** truesight 120 ft., passive Perception 24
-- **Languages** all, telepathy 120 ft.
-- **Challenge** 21 (33000 XP)
-- **Damage Immunities** necrotic, poison
-- **Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** charmed, exhaustion, frightened, poisoned
+- **Saving Throws** <SavingThrows>Int +14, Wis +14, Cha +17</SavingThrows>
+- **Skills** <Skills>Perception +14</Skills>
+- **Senses** <Senses>truesight 120 ft., passive Perception 24</Senses>
+- **Languages** <Languages>all, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>21 (33000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>necrotic, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>radiant; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, frightened, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -10739,25 +11281,27 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 [Solar]: monsters_hd.md#solar
 
 
-[][MonsterVO]
+</Monster>
 
-# Specter
-- AltName: [Spectre]
-- Medium undead, chaotic evil
-- **Armor Class** 12
-- **Hit Points** 22 (5d8)
-- **Speed** 0 ft., fly 50 ft. (hover)
+<Monster>
+
+# <Name>Specter</Name>
+- <AltName>[Spectre]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>22 (5d8)</HitPoints>
+- **Speed** <Speed>0 ft., fly 50 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** understands the languages it knew in life but can't speak
-- **Challenge** 1 (200 XP)
-- **Damage Immunities** necrotic, poison
-- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>understands the languages it knew in life but can't speak</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>necrotic, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -10774,25 +11318,27 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 [Spectre]: monsters_hd.md#spectre
 
 
-[][MonsterVO]
+</Monster>
 
-# Skeleton
-- AltName: [Squelette]
-- Medium undead, lawful evil
-- **Armor Class** 13 (armor scraps)
-- **Hit Points** 13 (2d8 + 4)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Skeleton</Name>
+- <AltName>[Squelette]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>13 (armor scraps)</ArmorClass>
+- **Hit Points** <HitPoints>13 (2d8 + 4)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** understands the languages it knew in life but can't speak
-- **Challenge** 1/4 (50 XP)
-- **Damage Immunities** poison
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>understands the languages it knew in life but can't speak</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
 - **Damage Vulnerabilities** bludgeoning
-- **Condition Immunities** exhaustion, poisoned
+- **Condition Immunities** <ConditionImmunities>exhaustion, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -10807,25 +11353,27 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 [Squelette]: monsters_hd.md#squelette
 
 
-[][MonsterVO]
+</Monster>
 
-# Warhorse Skeleton
-- AltName: [Squelette cheval de guerre]
-- Large undead, lawful evil
-- **Armor Class** 13 (barding scraps)
-- **Hit Points** 22 (3d10 + 6)
-- **Speed** 60 ft.
+<Monster>
+
+# <Name>Warhorse Skeleton</Name>
+- <AltName>[Squelette cheval de guerre]</AltName>
+- <Size>Large</Size> <Type>undead</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>13 (barding scraps)</ArmorClass>
+- **Hit Points** <HitPoints>22 (3d10 + 6)</HitPoints>
+- **Speed** <Speed>60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|15 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
-- **Damage Immunities** poison
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
 - **Damage Vulnerabilities** bludgeoning
-- **Condition Immunities** exhaustion, poisoned
+- **Condition Immunities** <ConditionImmunities>exhaustion, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -10836,25 +11384,27 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 [Squelette cheval de guerre]: monsters_hd.md#squelette-cheval-de-guerre
 
 
-[][MonsterVO]
+</Monster>
 
-# Minotaur Skeleton
-- AltName: [Squelette minotaure]
-- Large undead, lawful evil
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 67 (9d10 + 18)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Minotaur Skeleton</Name>
+- <AltName>[Squelette minotaure]</AltName>
+- <Size>Large</Size> <Type>undead</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>67 (9d10 + 18)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|11 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** understands Abyssal but can't speak
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** poison
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>understands Abyssal but can't speak</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
 - **Damage Vulnerabilities** bludgeoning
-- **Condition Immunities** exhaustion, poisoned
+- **Condition Immunities** <ConditionImmunities>exhaustion, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -10873,22 +11423,24 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 [Squelette minotaure]: monsters_hd.md#squelette-minotaure
 
 
-[][MonsterVO]
+</Monster>
 
-# Stirge
-- AltName: [Strige]
-- Tiny beast, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 2 (1d4)
-- **Speed** 10 ft., fly 40 ft.
+<Monster>
+
+# <Name>Stirge</Name>
+- <AltName>[Strige]</AltName>
+- <Size>Tiny</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>2 (1d4)</HitPoints>
+- **Speed** <Speed>10 ft., fly 40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 1/8 (25 XP)
+- **Senses** <Senses>darkvision 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/8 (25 XP)</Challenge>
 
 ## Special Features
 
@@ -10899,24 +11451,26 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 [Strige]: monsters_hd.md#strige
 
 
-[][MonsterVO]
+</Monster>
 
-# Succubus
-- AltName: [Succube/Incube]
-- Medium fiend (shapechanger), neutral evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 66 (12d8 + 12)
-- **Speed** 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Succubus</Name>
+- <AltName>[Succube/Incube]</AltName>
+- <Size>Medium</Size> <Type>fiend (shapechanger)</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>66 (12d8 + 12)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>15 (+2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-- **Senses** darkvision 60 ft., passive Perception 15
-- **Languages** Abyssal, Common, Infernal, telepathy 60 ft.
-- **Challenge** 4 (1100 XP)
-- **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Skills** <Skills>Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 15</Senses>
+- **Languages** <Languages>Abyssal, Common, Infernal, telepathy 60 ft.</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 
 ## Special Features
 
@@ -10939,23 +11493,25 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 [Succube/Incube]: monsters_hd.md#succubeincube
 
 
-[][MonsterVO]
+</Monster>
 
-# Treant
-- AltName: [Sylvanien]
-- Huge plant, chaotic good
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 138 (12d12 + 60)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Treant</Name>
+- <AltName>[Sylvanien]</AltName>
+- <Size>Huge</Size> <Type>plant</Type>, <Alignment>chaotic good</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>138 (12d12 + 60)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
+|<Strength>23 (+6)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Senses** passive Perception 13
-- **Languages** Common, Druidic, Elvish, Sylvan
-- **Challenge** 9 (5000 XP)
-- **Damage Resistances** bludgeoning, piercing
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>Common, Druidic, Elvish, Sylvan</Languages>
+- **Challenge** <Challenge>9 (5000 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing</DamageResistances>
 - **Damage Vulnerabilities** fire
 
 ## Special Features
@@ -10981,24 +11537,26 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 [Sylvanien]: monsters_hd.md#sylvanien
 
 
-[][MonsterVO]
+</Monster>
 
-# Rug of Smothering
-- AltName: [Tapis étrangleur]
-- Large construct, unaligned
-- **Armor Class** 12
-- **Hit Points** 33 (6d10)
-- **Speed** 10 ft.
+<Monster>
+
+# <Name>Rug of Smothering</Name>
+- <AltName>[Tapis étrangleur]</AltName>
+- <Size>Large</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>33 (6d10)</HitPoints>
+- **Speed** <Speed>10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength>17 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6
-- **Languages** -
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** poison, psychic
-- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+- **Senses** <Senses>blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 6</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison, psychic</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -11017,25 +11575,27 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 [Tapis étrangleur]: monsters_hd.md#tapis-étrangleur
 
 
-[][MonsterVO]
+</Monster>
 
-# Tarrasque
-- AltName: [Tarasque]
-- Gargantuan monstrosity (titan), unaligned
-- **Armor Class** 25 (natural armor)
-- **Hit Points** 676 (33d20 + 330)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Tarrasque</Name>
+- <AltName>[Tarasque]</AltName>
+- <Size>Gargantuan</Size> <Type>monstrosity (titan)</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>25 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>676 (33d20 + 330)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)|11 (+0)|
+|<Strength>30 (+10)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>30 (+10)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Saving Throws** Int +5, Wis +9, Cha +9
-- **Senses** blindsight 120 ft., passive Perception 10
-- **Languages** -
-- **Challenge** 30 (155000 XP)
-- **Damage Immunities** fire, poison; bludgeoning, piercing and slashing from nonmagical attacks
-- **Condition Immunities** charmed, frightened, paralyzed, poisoned
+- **Saving Throws** <SavingThrows>Int +5, Wis +9, Cha +9</SavingThrows>
+- **Senses** <Senses>blindsight 120 ft., passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>30 (155000 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison; bludgeoning, piercing and slashing from nonmagical attacks</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>charmed, frightened, paralyzed, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -11084,26 +11644,28 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 [Tarasque]: monsters_hd.md#tarasque
 
 
-[][MonsterVO]
+</Monster>
 
-# Shambling Mound
-- AltName: [Tertre errant]
-- Large plant, unaligned
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 136 (16d10 + 48)
-- **Speed** 20 ft., swim 20 ft.
+<Monster>
+
+# <Name>Shambling Mound</Name>
+- <AltName>[Tertre errant]</AltName>
+- <Size>Large</Size> <Type>plant</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>136 (16d10 + 48)</HitPoints>
+- **Speed** <Speed>20 ft., swim 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Skills** Stealth +2
-- **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
-- **Languages** -
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** lightning
-- **Damage Resistances** cold, fire
-- **Condition Immunities** blinded, deafened, exhaustion
+- **Skills** <Skills>Stealth +2</Skills>
+- **Senses** <Senses>blindsight 60 ft. (blind beyond this radius), passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>lightning</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>blinded, deafened, exhaustion</ConditionImmunities>
 
 ## Special Features
 
@@ -11122,23 +11684,25 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Tertre errant]: monsters_hd.md#tertre-errant
 
 
-[][MonsterVO]
+</Monster>
 
-# Tiger
-- AltName: [Tigre]
-- Large beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 37 (5d10 + 10)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Tiger</Name>
+- <AltName>[Tigre]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>37 (5d10 + 10)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +3, Stealth +6
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +3, Stealth +6</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -11159,23 +11723,25 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 [Tigre]: monsters_hd.md#tigre
 
 
-[][MonsterVO]
+</Monster>
 
-# Saber-Toothed Tiger
-- AltName: [Tigre à dents de sabre]
-- Large beast, unaligned
-- **Armor Class** 12
-- **Hit Points** 52 (7d10 + 14)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Saber-Toothed Tiger</Name>
+- <AltName>[Tigre à dents de sabre]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>52 (7d10 + 14)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|15 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +3, Stealth +6
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +3, Stealth +6</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -11196,24 +11762,26 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 [Tigre à dents de sabre]: monsters_hd.md#tigre-à-dents-de-sabre
 
 
-[][MonsterVO]
+</Monster>
 
-# Weretiger
-- AltName: [Tigre-garou]
-- Medium humanoid (human, shapechanger), neutral
-- **Armor Class** 12
-- **Hit Points** 120 (16d8 + 48)
-- **Speed** 30 ft. (40 ft. in tiger form)
+<Monster>
+
+# <Name>Weretiger</Name>
+- <AltName>[Tigre-garou]</AltName>
+- <Size>Medium</Size> <Type>humanoid (human</Type>, <Alignment>shapechanger), neutral</Alignment>
+- **Armor Class** <ArmorClass>12</ArmorClass>
+- **Hit Points** <HitPoints>120 (16d8 + 48)</HitPoints>
+- **Speed** <Speed>30 ft. (40 ft. in tiger form)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Perception +5, Stealth +4
-- **Senses** darkvision 60 ft., passive Perception 15
-- **Languages** Common (can't speak in tiger form)
-- **Challenge** 4 (1100 XP)
-- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+- **Skills** <Skills>Perception +5, Stealth +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 15</Senses>
+- **Languages** <Languages>Common (can't speak in tiger form)</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons</DamageImmunities>
 
 ## Special Features
 
@@ -11246,24 +11814,26 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Tigre-garou]: monsters_hd.md#tigre-garou
 
 
-[][MonsterVO]
+</Monster>
 
-# Grimlock
-- AltName: [Torve]
-- Medium humanoid (grimlock), neutral evil
-- **Armor Class** 11
-- **Hit Points** 11 (2d8 + 2)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Grimlock</Name>
+- <AltName>[Torve]</AltName>
+- <Size>Medium</Size> <Type>humanoid (grimlock)</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>11</ArmorClass>
+- **Hit Points** <HitPoints>11 (2d8 + 2)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Athletics +5, Perception +3, Stealth +3
-- **Senses** blindsight 30 ft. or 10 ft. while deafened ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 13
-- **Languages** Undercommon
-- **Challenge** 1/4 (50 XP)
-- **Condition Immunities** blinded
+- **Skills** <Skills>Athletics +5, Perception +3, Stealth +3</Skills>
+- **Senses** <Senses>blindsight 30 ft. or 10 ft. while deafened ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 13</Senses>
+- **Languages** <Languages>Undercommon</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Condition Immunities** <ConditionImmunities>blinded</ConditionImmunities>
 
 ## Special Features
 
@@ -11282,26 +11852,28 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 [Torve]: monsters_hd.md#torve
 
 
-[][MonsterVO]
+</Monster>
 
-# Invisible Stalker
-- AltName: [Traqueur invisible]
-- Medium elemental, neutral
-- **Armor Class** 14
-- **Hit Points** 104 (16d8 + 32)
-- **Speed** 50 ft., fly 50 ft. (hover)
+<Monster>
+
+# <Name>Invisible Stalker</Name>
+- <AltName>[Traqueur invisible]</AltName>
+- <Size>Medium</Size> <Type>elemental</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>14</ArmorClass>
+- **Hit Points** <HitPoints>104 (16d8 + 32)</HitPoints>
+- **Speed** <Speed>50 ft., fly 50 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>19 (+4)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Perception +8, Stealth +10
-- **Senses** darkvision 60 ft., passive Perception 18
-- **Languages** Auran, understands Common but doesn't speak it
-- **Challenge** 6 (2300 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Skills** <Skills>Perception +8, Stealth +10</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 18</Senses>
+- **Languages** <Languages>Auran, understands Common but doesn't speak it</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -11320,22 +11892,24 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 [Traqueur invisible]: monsters_hd.md#traqueur-invisible
 
 
-[][MonsterVO]
+</Monster>
 
-# Triceratops
-- AltName: [Tricératops]
-- Huge beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 95 (10d12 + 30)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Triceratops</Name>
+- <AltName>[Tricératops]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>95 (10d12 + 30)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)| 9 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
+|<Strength>22 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 5 (1800 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -11354,23 +11928,25 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 [Tricératops]: monsters_hd.md#tricératops
 
 
-[][MonsterVO]
+</Monster>
 
-# Troll
-- AltName: [Troll]
-- Large giant, chaotic evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 84 (8d10 + 40)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Troll</Name>
+- <AltName>[Troll]</AltName>
+- <Size>Large</Size> <Type>giant</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>84 (8d10 + 40)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|13 (+1)|20 (+5)| 7 (-2)| 9 (-1)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +2
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** Giant
-- **Challenge** 5 (1800 XP)
+- **Skills** <Skills>Perception +2</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Giant</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
 
 ## Special Features
 
@@ -11393,23 +11969,25 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 [Troll]: monsters_hd.md#troll
 
 
-[][MonsterVO]
+</Monster>
 
-# Tyrannosaurus Rex
-- AltName: [Tyrannosaure]
-- Huge beast, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 136 (13d12 + 52)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Tyrannosaurus Rex</Name>
+- <AltName>[Tyrannosaure]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>136 (13d12 + 52)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|19 (+4)| 2 (-4)|12 (+1)| 9 (-1)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** -
-- **Challenge** 8 (3900 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>8 (3900 XP)</Challenge>
 
 ## Special Features
 
@@ -11426,25 +12004,27 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 [Tyrannosaure]: monsters_hd.md#tyrannosaure
 
 
-[][MonsterVO]
+</Monster>
 
-# Vampire
-- AltName: [Vampire]
-- Medium undead (shapechanger), lawful evil
-- **Armor Class** 16 (natural armor)
-- **Hit Points** 144 (17d8 + 68)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Vampire</Name>
+- <AltName>[Vampire]</AltName>
+- <Size>Medium</Size> <Type>undead (shapechanger)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>16 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>144 (17d8 + 68)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
+|<Strength>18 (+4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>17 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Dex +9, Wis +7, Cha +9
-- **Skills** Perception +7, Stealth +9
-- **Senses** darkvision 120 ft., passive Perception 17
-- **Languages** the languages it knew in life
-- **Challenge** 13 (10000 XP)
-- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Saving Throws** <SavingThrows>Dex +9, Wis +7, Cha +9</SavingThrows>
+- **Skills** <Skills>Perception +7, Stealth +9</Skills>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 17</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>13 (10000 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 
 ## Special Features
 
@@ -11497,25 +12077,27 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 [Vampire]: monsters_hd.md#vampire
 
 
-[][MonsterVO]
+</Monster>
 
-# Vampire Spawn
-- AltName: [Vampirien]
-- Medium undead, neutral evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 82 (11d8 + 33)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Vampire Spawn</Name>
+- <AltName>[Vampirien]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>82 (11d8 + 33)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Saving Throws** Dex +6, Wis +3
-- **Skills** Perception +3, Stealth +6
-- **Senses** darkvision 60 ft., passive Perception 13
-- **Languages** the languages it knew in life
-- **Challenge** 5 (1800 XP)
-- **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+- **Saving Throws** <SavingThrows>Dex +6, Wis +3</SavingThrows>
+- **Skills** <Skills>Perception +3, Stealth +6</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 13</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>necrotic; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 
 ## Special Features
 
@@ -11548,25 +12130,27 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 [Vampirien]: monsters_hd.md#vampirien
 
 
-[][MonsterVO]
+</Monster>
 
-# Gray Ooze
-- AltName: [Vase grise]
-- Medium ooze, unaligned
-- **Armor Class** 8
-- **Hit Points** 22 (3d8 + 9)
-- **Speed** 10 ft., climb 10 ft.
+<Monster>
+
+# <Name>Gray Ooze</Name>
+- <AltName>[Vase grise]</AltName>
+- <Size>Medium</Size> <Type>ooze</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>8</ArmorClass>
+- **Hit Points** <HitPoints>22 (3d8 + 9)</HitPoints>
+- **Speed** <Speed>10 ft., climb 10 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)| 6 (-2)|16 (+3)| 1 (-5)| 6 (-2)| 2 (-4)|
+|<Strength>12 (+1)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Skills** Stealth +2
-- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8
-- **Languages** -
-- **Challenge** 1/2 (100 XP)
-- **Damage Resistances** acid, cold, fire
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
+- **Skills** <Skills>Stealth +2</Skills>
+- **Senses** <Senses>blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 8</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>acid, cold, fire</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, exhaustion, frightened, prone</ConditionImmunities>
 
 ## Special Features
 
@@ -11587,23 +12171,25 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 [Vase grise]: monsters_hd.md#vase-grise
 
 
-[][MonsterVO]
+</Monster>
 
-# Vulture
-- AltName: [Vautour]
-- Medium beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 5 (1d8 + 1)
-- **Speed** 10 ft., fly 50 ft.
+<Monster>
+
+# <Name>Vulture</Name>
+- <AltName>[Vautour]</AltName>
+- <Size>Medium</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>5 (1d8 + 1)</HitPoints>
+- **Speed** <Speed>10 ft., fly 50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|10 (+0)|13 (+1)| 2 (-4)|12 (+1)| 4 (-3)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** -
-- **Challenge** 0 (10 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>0 (10 XP)</Challenge>
 
 ## Special Features
 
@@ -11620,23 +12206,25 @@ _Hit_: 2 (1d4) piercing damage.
 [Vautour]: monsters_hd.md#vautour
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Vulture
-- AltName: [Vautour géant]
-- Large beast, neutral evil
-- **Armor Class** 10
-- **Hit Points** 22 (3d10 + 6)
-- **Speed** 10 ft., fly 60 ft.
+<Monster>
+
+# <Name>Giant Vulture</Name>
+- <AltName>[Vautour géant]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>22 (3d10 + 6)</HitPoints>
+- **Speed** <Speed>10 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|15 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** passive Perception 13
-- **Languages** understands Common but can't speak
-- **Challenge** 1 (200 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>passive Perception 13</Senses>
+- **Languages** <Languages>understands Common but can't speak</Languages>
+- **Challenge** <Challenge>1 (200 XP)</Challenge>
 
 ## Special Features
 
@@ -11659,23 +12247,25 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 [Vautour géant]: monsters_hd.md#vautour-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Purple Worm
-- AltName: [Ver pourpre]
-- Gargantuan monstrosity, unaligned
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 247 (15d20 + 90)
-- **Speed** 50 ft., burrow 30 ft.
+<Monster>
+
+# <Name>Purple Worm</Name>
+- <AltName>[Ver pourpre]</AltName>
+- <Size>Gargantuan</Size> <Type>monstrosity</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>18 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>247 (15d20 + 90)</HitPoints>
+- **Speed** <Speed>50 ft., burrow 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
+|<Strength>28 (+9)</Strength>|<Dexterity> 7 (-2)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Saving Throws** Con +11, Wis +4
-- **Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
-- **Languages** -
-- **Challenge** 15 (13000 XP)
+- **Saving Throws** <SavingThrows>Con +11, Wis +4</SavingThrows>
+- **Senses** <Senses>blindsight 30 ft., tremorsense 60 ft., passive Perception 9</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>15 (13000 XP)</Challenge>
 
 ## Special Features
 
@@ -11696,23 +12286,25 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 [Ver pourpre]: monsters_hd.md#ver-pourpre
 
 
-[][MonsterVO]
+</Monster>
 
-# Wyvern
-- AltName: [Vouivre]
-- Large dragon, unaligned
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 110 (13d10 + 39)
-- **Speed** 20 ft., fly 80 ft.
+<Monster>
+
+# <Name>Wyvern</Name>
+- <AltName>[Vouivre]</AltName>
+- <Size>Large</Size> <Type>dragon</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>110 (13d10 + 39)</HitPoints>
+- **Speed** <Speed>20 ft., fly 80 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|16 (+3)| 5 (-3)|12 (+1)| 6 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** -
-- **Challenge** 6 (2300 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
 
 ## Special Features
 
@@ -11733,26 +12325,28 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 [Vouivre]: monsters_hd.md#vouivre
 
 
-[][MonsterVO]
+</Monster>
 
-# Vrock
-- AltName: [Vrock]
-- Large fiend (demon), chaotic evil
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 104 (11d10 + 44)
-- **Speed** 40 ft., fly 60 ft.
+<Monster>
+
+# <Name>Vrock</Name>
+- <AltName>[Vrock]</AltName>
+- <Size>Large</Size> <Type>fiend (demon)</Type>, <Alignment>chaotic evil</Alignment>
+- **Armor Class** <ArmorClass>15 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>104 (11d10 + 44)</HitPoints>
+- **Speed** <Speed>40 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Saving Throws** Dex +5, Wis +4, Cha +2
-- **Senses** darkvision 120 ft., passive Perception 11
-- **Languages** Abyssal, telepathy 120 ft.
-- **Challenge** 6 (2300 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +5, Wis +4, Cha +2</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 11</Senses>
+- **Languages** <Languages>Abyssal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>6 (2300 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -11779,23 +12373,25 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 [Vrock]: monsters_hd.md#vrock
 
 
-[][MonsterVO]
+</Monster>
 
-# Veteran
-- AltName: [Vétéran]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 17 (splint)
-- **Hit Points** 58 (9d8 + 18)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Veteran</Name>
+- <AltName>[Vétéran]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>17 (splint)</ArmorClass>
+- **Hit Points** <HitPoints>58 (9d8 + 18)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Athletics +5, Perception +2
-- **Senses** passive Perception 12
-- **Languages** any one language (usually Common)
-- **Challenge** 3 (700 XP)
+- **Skills** <Skills>Athletics +5, Perception +2</Skills>
+- **Senses** <Senses>passive Perception 12</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -11816,23 +12412,25 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 [Vétéran]: monsters_hd.md#vétéran
 
 
-[][MonsterVO]
+</Monster>
 
-# Worg
-- AltName: [Worg]
-- Large monstrosity, neutral evil
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 26 (4d10 + 4)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Worg</Name>
+- <AltName>[Worg]</AltName>
+- <Size>Large</Size> <Type>monstrosity</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>13 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>26 (4d10 + 4)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|13 (+1)| 7 (-2)|11 (+0)| 8 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** darkvision 60 ft., passive Perception 14
-- **Languages** Goblin, Worg
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 14</Senses>
+- **Languages** <Languages>Goblin, Worg</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -11847,24 +12445,26 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 [Worg]: monsters_hd.md#worg
 
 
-[][MonsterVO]
+</Monster>
 
-# Xorn
-- AltName: [Xorn]
-- Medium elemental, neutral
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 73 (7d8 + 42)
-- **Speed** 20 ft., burrow 20 ft.
+<Monster>
+
+# <Name>Xorn</Name>
+- <AltName>[Xorn]</AltName>
+- <Size>Medium</Size> <Type>elemental</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>19 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>73 (7d8 + 42)</HitPoints>
+- **Speed** <Speed>20 ft., burrow 20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Perception +6, Stealth +3
-- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
-- **Languages** Terran
-- **Challenge** 5 (1800 XP)
-- **Damage Resistances** piercing and slashing from nonmagical attacks that aren't adamantine
+- **Skills** <Skills>Perception +6, Stealth +3</Skills>
+- **Senses** <Senses>darkvision 60 ft., tremorsense 60 ft., passive Perception 16</Senses>
+- **Languages** <Languages>Terran</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Resistances** <DamageResistances>piercing and slashing from nonmagical attacks that aren't adamantine</DamageResistances>
 
 ## Special Features
 
@@ -11890,25 +12490,27 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 
 
 
-[][MonsterVO]
+</Monster>
 
-# Zombie
-- AltName: [Zombi]
-- Medium undead, neutral evil
-- **Armor Class** 8
-- **Hit Points** 22 (3d8 + 9)
-- **Speed** 20 ft.
+<Monster>
+
+# <Name>Zombie</Name>
+- <AltName>[Zombi]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>8</ArmorClass>
+- **Hit Points** <HitPoints>22 (3d8 + 9)</HitPoints>
+- **Speed** <Speed>20 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)| 6 (-2)|16 (+3)| 3 (-4)| 6 (-2)| 5 (-3)|
+|<Strength>13 (+1)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Saving Throws** Wis +0
-- **Senses** darkvision 60 ft., passive Perception 8
-- **Languages** understands the languages it knew in life but can't speak
-- **Challenge** 1/4 (50 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Wis +0</SavingThrows>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 8</Senses>
+- **Languages** <Languages>understands the languages it knew in life but can't speak</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -11923,25 +12525,27 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 [Zombi]: monsters_hd.md#zombi
 
 
-[][MonsterVO]
+</Monster>
 
-# Ogre Zombie
-- AltName: [Zombi ogre]
-- Large undead, neutral evil
-- **Armor Class** 8
-- **Hit Points** 85 (9d10 + 36)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Ogre Zombie</Name>
+- <AltName>[Zombi ogre]</AltName>
+- <Size>Large</Size> <Type>undead</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>8</ArmorClass>
+- **Hit Points** <HitPoints>85 (9d10 + 36)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 6 (-2)|18 (+4)| 3 (-4)| 6 (-2)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Saving Throws** Wis +0
-- **Senses** darkvision 60 ft., passive Perception 8
-- **Languages** understands Common and Giant but can't speak
-- **Challenge** 2 (450 XP)
-- **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Wis +0</SavingThrows>
+- **Senses** <Senses>darkvision 60 ft., passive Perception 8</Senses>
+- **Languages** <Languages>understands Common and Giant but can't speak</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -11956,25 +12560,27 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Zombi ogre]: monsters_hd.md#zombi-ogre
 
 
-[][MonsterVO]
+</Monster>
 
-# Wraith
-- AltName: [Âme en peine]
-- Medium undead, neutral evil
-- **Armor Class** 13
-- **Hit Points** 67 (9d8 + 27)
-- **Speed** 0 ft., fly 60 ft. (hover)
+<Monster>
+
+# <Name>Wraith</Name>
+- <AltName>[Âme en peine]</AltName>
+- <Size>Medium</Size> <Type>undead</Type>, <Alignment>neutral evil</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>67 (9d8 + 27)</HitPoints>
+- **Speed** <Speed>0 ft., fly 60 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 12
-- **Languages** the languages it knew in life
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** necrotic, poison
-- **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+- **Senses** <Senses>darkvision 60 ft., passive Perception 12</Senses>
+- **Languages** <Languages>the languages it knew in life</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>necrotic, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained</ConditionImmunities>
 
 ## Special Features
 
@@ -11993,23 +12599,25 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 [Âme en peine]: monsters_hd.md#Âme-en-peine
 
 
-[][MonsterVO]
+</Monster>
 
-# Scout
-- AltName: [Éclaireur]
-- Medium humanoid (any race), any alignment
-- **Armor Class** 13 (leather armor)
-- **Hit Points** 16 (3d8 + 3)
-- **Speed** 30 ft.
+<Monster>
+
+# <Name>Scout</Name>
+- <AltName>[Éclaireur]</AltName>
+- <Size>Medium</Size> <Type>humanoid (any race)</Type>, <Alignment>any alignment</Alignment>
+- **Armor Class** <ArmorClass>13 (leather armor)</ArmorClass>
+- **Hit Points** <HitPoints>16 (3d8 + 3)</HitPoints>
+- **Speed** <Speed>30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
-- **Senses** passive Perception 15
-- **Languages** any one language (usually Common)
-- **Challenge** 1/2 (100 XP)
+- **Skills** <Skills>Nature +4, Perception +5, Stealth +6, Survival +5</Skills>
+- **Senses** <Senses>passive Perception 15</Senses>
+- **Languages** <Languages>any one language (usually Common)</Languages>
+- **Challenge** <Challenge>1/2 (100 XP)</Challenge>
 
 ## Special Features
 
@@ -12030,24 +12638,26 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 [Éclaireur]: monsters_hd.md#Éclaireur
 
 
-[][MonsterVO]
+</Monster>
 
-# Efreeti
-- AltName: [Éfrit]
-- Large elemental, lawful evil
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 200 (16d10 + 112)
-- **Speed** 40 ft., fly 60 ft.
+<Monster>
+
+# <Name>Efreeti</Name>
+- <AltName>[Éfrit]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>200 (16d10 + 112)</HitPoints>
+- **Speed** <Speed>40 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
+|<Strength>22 (+6)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>24 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Saving Throws** Int +7, Wis +6, Cha +7
-- **Senses** darkvision 120 ft., passive Perception 12
-- **Languages** Ignan
-- **Challenge** 11 (7200 XP)
-- **Damage Immunities** fire
+- **Saving Throws** <SavingThrows>Int +7, Wis +6, Cha +7</SavingThrows>
+- **Senses** <Senses>darkvision 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Ignan</Languages>
+- **Challenge** <Challenge>11 (7200 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire</DamageImmunities>
 
 ## Special Features
 
@@ -12076,22 +12686,24 @@ _Hit_: 17 (5d6) fire damage.
 [Éfrit]: monsters_hd.md#Éfrit
 
 
-[][MonsterVO]
+</Monster>
 
-# Elk
-- AltName: [Élan]
-- Large beast, unaligned
-- **Armor Class** 10
-- **Hit Points** 13 (2d10 + 2)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Elk</Name>
+- <AltName>[Élan]</AltName>
+- <Size>Large</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>10</ArmorClass>
+- **Hit Points** <HitPoints>13 (2d10 + 2)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|10 (+0)|12 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Special Features
 
@@ -12110,23 +12722,25 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 [Élan]: monsters_hd.md#Élan
 
 
-[][MonsterVO]
+</Monster>
 
-# Giant Elk
-- AltName: [Élan géant]
-- Huge beast, unaligned
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 42 (5d12 + 10)
-- **Speed** 60 ft.
+<Monster>
+
+# <Name>Giant Elk</Name>
+- <AltName>[Élan géant]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>42 (5d12 + 10)</HitPoints>
+- **Speed** <Speed>60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|16 (+3)|14 (+2)| 7 (-2)|14 (+2)|10 (+0)|
+|<Strength>19 (+4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Skills** Perception +4
-- **Senses** passive Perception 14
-- **Languages** Giant Elk understands Common, Elvish, and Sylvan but can't speak them
-- **Challenge** 2 (450 XP)
+- **Skills** <Skills>Perception +4</Skills>
+- **Senses** <Senses>passive Perception 14</Senses>
+- **Languages** <Languages>Giant Elk understands Common, Elvish, and Sylvan but can't speak them</Languages>
+- **Challenge** <Challenge>2 (450 XP)</Challenge>
 
 ## Special Features
 
@@ -12145,25 +12759,27 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 [Élan géant]: monsters_hd.md#Élan-géant
 
 
-[][MonsterVO]
+</Monster>
 
-# Air Elemental
-- AltName: [Élémentaire de l'air]
-- Large elemental, neutral
-- **Armor Class** 15
-- **Hit Points** 90 (12d10 + 24)
-- **Speed** 0 ft., fly 90 ft. (hover)
+<Monster>
+
+# <Name>Air Elemental</Name>
+- <AltName>[Élémentaire de l'air]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>15</ArmorClass>
+- **Hit Points** <HitPoints>90 (12d10 + 24)</HitPoints>
+- **Speed** <Speed>0 ft., fly 90 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|20 (+5)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
+|<Strength>14 (+2)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Auran
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Auran</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -12182,25 +12798,27 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [Élémentaire de l'air]: monsters_hd.md#Élémentaire-de-lair
 
 
-[][MonsterVO]
+</Monster>
 
-# Water Elemental
-- AltName: [Élémentaire de l'eau]
-- Large elemental, neutral
-- **Armor Class** 14 (natural armor)
-- **Hit Points** 114 (12d10 + 48)
-- **Speed** 30 ft., swim 90 ft.
+<Monster>
+
+# <Name>Water Elemental</Name>
+- <AltName>[Élémentaire de l'eau]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>14 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>114 (12d10 + 48)</HitPoints>
+- **Speed** <Speed>30 ft., swim 90 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|18 (+4)| 5 (-3)|10 (+0)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Aquan
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Aquan</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>acid; bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -12221,26 +12839,28 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 [Élémentaire de l'eau]: monsters_hd.md#Élémentaire-de-leau
 
 
-[][MonsterVO]
+</Monster>
 
-# Earth Elemental
-- AltName: [Élémentaire de la terre]
-- Large elemental, neutral
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 126 (12d10 + 60)
-- **Speed** 30 ft., burrow 30 ft.
+<Monster>
+
+# <Name>Earth Elemental</Name>
+- <AltName>[Élémentaire de la terre]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>126 (12d10 + 60)</HitPoints>
+- **Speed** <Speed>30 ft., burrow 30 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)| 8 (-1)|20 (+5)| 5 (-3)|10 (+0)| 5 (-3)|
+|<Strength>20 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10
-- **Languages** Terran
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** poison
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Senses** <Senses>darkvision 60 ft., tremorsense 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Terran</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
 - **Damage Vulnerabilities** thunder
-- **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
+- **Condition Immunities** <ConditionImmunities>exhaustion, paralyzed, petrified, poisoned, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -12259,25 +12879,27 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 [Élémentaire de la terre]: monsters_hd.md#Élémentaire-de-la-terre
 
 
-[][MonsterVO]
+</Monster>
 
-# Fire Elemental
-- AltName: [Élémentaire du feu]
-- Large elemental, neutral
-- **Armor Class** 13
-- **Hit Points** 102 (12d10 + 36)
-- **Speed** 50 ft.
+<Monster>
+
+# <Name>Fire Elemental</Name>
+- <AltName>[Élémentaire du feu]</AltName>
+- <Size>Large</Size> <Type>elemental</Type>, <Alignment>neutral</Alignment>
+- **Armor Class** <ArmorClass>13</ArmorClass>
+- **Hit Points** <HitPoints>102 (12d10 + 36)</HitPoints>
+- **Speed** <Speed>50 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|17 (+3)|16 (+3)| 6 (-2)|10 (+0)| 7 (-2)|
+|<Strength>10 (+0)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Ignan
-- **Challenge** 5 (1800 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+- **Senses** <Senses>darkvision 60 ft., passive Perception 10</Senses>
+- **Languages** <Languages>Ignan</Languages>
+- **Challenge** <Challenge>5 (1800 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>bludgeoning, piercing, and slashing from nonmagical attacks</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</ConditionImmunities>
 
 ## Special Features
 
@@ -12298,22 +12920,24 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 [Élémentaire du feu]: monsters_hd.md#Élémentaire-du-feu
 
 
-[][MonsterVO]
+</Monster>
 
-# Elephant
-- AltName: [Éléphant]
-- Huge beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 76 (8d12 + 24)
-- **Speed** 40 ft.
+<Monster>
+
+# <Name>Elephant</Name>
+- <AltName>[Éléphant]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>76 (8d12 + 24)</HitPoints>
+- **Speed** <Speed>40 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)| 9 (-1)|17 (+3)| 3 (-4)|11 (+0)| 6 (-2)|
+|<Strength>22 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Senses** passive Perception 10
-- **Languages** -
-- **Challenge** 4 (1100 XP)
+- **Senses** <Senses>passive Perception 10</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>4 (1100 XP)</Challenge>
 
 ## Special Features
 
@@ -12332,23 +12956,25 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 [Éléphant]: monsters_hd.md#Éléphant
 
 
-[][MonsterVO]
+</Monster>
 
-# Killer Whale
-- AltName: [Épaulard]
-- Huge beast, unaligned
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 90 (12d12 + 12)
-- **Speed** 0 ft., swim 60 ft.
+<Monster>
+
+# <Name>Killer Whale</Name>
+- <AltName>[Épaulard]</AltName>
+- <Size>Huge</Size> <Type>beast</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>12 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>90 (12d12 + 12)</HitPoints>
+- **Speed** <Speed>0 ft., swim 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Skills** Perception +3
-- **Senses** blindsight 120 ft., passive Perception 13
-- **Languages** -
-- **Challenge** 3 (700 XP)
+- **Skills** <Skills>Perception +3</Skills>
+- **Senses** <Senses>blindsight 120 ft., passive Perception 13</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>3 (700 XP)</Challenge>
 
 ## Special Features
 
@@ -12367,25 +12993,27 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 [Épaulard]: monsters_hd.md#Épaulard
 
 
-[][MonsterVO]
+</Monster>
 
-# Flying Sword
-- AltName: [Épée volante]
-- Small construct, unaligned
-- **Armor Class** 17 (natural armor)
-- **Hit Points** 17 (5d6)
-- **Speed** 0 ft., fly 50 ft. (hover)
+<Monster>
+
+# <Name>Flying Sword</Name>
+- <AltName>[Épée volante]</AltName>
+- <Size>Small</Size> <Type>construct</Type>, <Alignment>unaligned</Alignment>
+- **Armor Class** <ArmorClass>17 (natural armor)</ArmorClass>
+- **Hit Points** <HitPoints>17 (5d6)</HitPoints>
+- **Speed** <Speed>0 ft., fly 50 ft. (hover)</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|15 (+2)|11 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
+|<Strength>12 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 5 (-3)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
-- **Saving Throws** Dex +4
-- **Senses** blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 7
-- **Languages** -
-- **Challenge** 1/4 (50 XP)
-- **Damage Immunities** poison, psychic
-- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+- **Saving Throws** <SavingThrows>Dex +4</SavingThrows>
+- **Senses** <Senses>blindsight 60 ft. ([blind](conditions_vo.md#blinded) beyond this radius), passive Perception 7</Senses>
+- **Languages** <Languages>-</Languages>
+- **Challenge** <Challenge>1/4 (50 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>poison, psychic</DamageImmunities>
+- **Condition Immunities** <ConditionImmunities>blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -12402,26 +13030,28 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 [Épée volante]: monsters_hd.md#Épée-volante
 
 
-[][MonsterVO]
+</Monster>
 
-# Erinyes
-- AltName: [Érinye]
-- Medium fiend (devil), lawful evil
-- **Armor Class** 18 (plate)
-- **Hit Points** 153 (18d8 + 72)
-- **Speed** 30 ft., fly 60 ft.
+<Monster>
+
+# <Name>Erinyes</Name>
+- <AltName>[Érinye]</AltName>
+- <Size>Medium</Size> <Type>fiend (devil)</Type>, <Alignment>lawful evil</Alignment>
+- **Armor Class** <ArmorClass>18 (plate)</ArmorClass>
+- **Hit Points** <HitPoints>153 (18d8 + 72)</HitPoints>
+- **Speed** <Speed>30 ft., fly 60 ft.</Speed>
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
+|<Strength>18 (+4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
-- **Senses** truesight 120 ft., passive Perception 12
-- **Languages** Infernal, telepathy 120 ft.
-- **Challenge** 12 (8400 XP)
-- **Damage Immunities** fire, poison
-- **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** poisoned
+- **Saving Throws** <SavingThrows>Dex +7, Con +8, Wis +6, Cha +8</SavingThrows>
+- **Senses** <Senses>truesight 120 ft., passive Perception 12</Senses>
+- **Languages** <Languages>Infernal, telepathy 120 ft.</Languages>
+- **Challenge** <Challenge>12 (8400 XP)</Challenge>
+- **Damage Immunities** <DamageImmunities>fire, poison</DamageImmunities>
+- **Damage Resistances** <DamageResistances>cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</DamageResistances>
+- **Condition Immunities** <ConditionImmunities>poisoned</ConditionImmunities>
 
 ## Special Features
 
@@ -12447,6 +13077,9 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target m
 
 [Érinye]: monsters_hd.md#Érinye
 
+</Monster>
+
+</MonstersVO>
 
 [animal messenger]: spells_vo.md#animal-messenger
 [animate dead]: spells_vo.md#animate-dead
