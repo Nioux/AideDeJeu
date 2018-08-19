@@ -184,7 +184,7 @@ namespace AideDeJeu.ViewModels
                 var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
                 var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
                 var ecole = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.School).SelectedKey ?? "";
-                var rituel = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
+                var ritual = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Ritual).SelectedKey ?? "";
                 var source = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Source).SelectedKey ?? "";
                 //token.ThrowIfCancellationRequested();
                 return items.Where(item =>
@@ -196,7 +196,7 @@ namespace AideDeJeu.ViewModels
                         spell.Type.ToLower().Contains(ecole.ToLower()) &&
                         (spell.Source != null && spell.Source.Contains(source)) &&
                         (spell.Classes != null && spell.Classes.Contains(classe)) &&
-                        (spell.Ritual != null && spell.Ritual.Contains(rituel)) &&
+                        (string.IsNullOrEmpty(ritual) || (spell.Ritual != null && spell.Ritual.Contains(ritual))) &&
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
@@ -270,7 +270,7 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD)", "SRD"),
+            new KeyValuePair<string, string>("(SRD", "SRD"),
         };
 
     }
@@ -326,7 +326,7 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("(SRD)", "SRD"),
+            new KeyValuePair<string, string>("(SRD", "SRD"),
         };
     }
 
@@ -382,8 +382,8 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD)", "SRD"),
-            new KeyValuePair<string, string>("(HD)", "H&D"),
+            new KeyValuePair<string, string>("(SRD", "SRD"),
+            new KeyValuePair<string, string>("(MDR", "MDR (H&D)"),
         };
     }
     #endregion Spells
@@ -555,10 +555,7 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD)", "SRD"),
-            //new KeyValuePair<string, string>("Monster Manual", "MM"),
-            //new KeyValuePair<string, string>("sup", "VGtM, MToF"),
-            //new KeyValuePair<string, string>("supno", "AL, AideDD"),
+            new KeyValuePair<string, string>("(SRD", "SRD"),
         };
     }
 
@@ -645,10 +642,7 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "All"),
-            new KeyValuePair<string, string>("(SRD)", "SRD"),
-            //new KeyValuePair<string, string>("Monster Manual", "MM"),
-            //new KeyValuePair<string, string>("sup", "VGtM, MToF"),
-            //new KeyValuePair<string, string>("supno", "AL, AideDD"),
+            new KeyValuePair<string, string>("(SRD", "SRD"),
         };
     }
 
@@ -735,10 +729,8 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Toutes"),
-            new KeyValuePair<string, string>("(SRD)", "SRD"),
-            //new KeyValuePair<string, string>("Monster Manual", "MM"),
-            //new KeyValuePair<string, string>("sup", "VGtM, MToF"),
-            //new KeyValuePair<string, string>("supno", "AL, AideDD"),
+            new KeyValuePair<string, string>("(SRD", "SRD"),
+            new KeyValuePair<string, string>("(CEO", "CEO (H&D)"),
         };
     }
     #endregion Monsters

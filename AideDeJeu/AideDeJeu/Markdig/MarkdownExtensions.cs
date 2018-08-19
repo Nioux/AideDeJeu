@@ -139,6 +139,10 @@ namespace AideDeJeu.Tools
 
         public static void ParseItemProperties(Item item, ContainerInline inlines)
         {
+            if(inlines == null)
+            {
+                return;
+            }
             PropertyInfo prop = null;
             foreach (var inline in inlines)
             {

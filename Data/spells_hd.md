@@ -17,7 +17,7 @@
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -45,7 +45,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 - **Composantes :** <Components>V, S, M (une minuscule bandelette de tissu blanc)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -69,7 +69,7 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 - **Composantes :** <Components>V, S, M (une minuscule clochette et un filament en argent)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -95,7 +95,7 @@ Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -131,7 +131,7 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 - **Composantes :** <Components>V, S, M (des poils ou des plumes venant d'un animal)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -167,7 +167,7 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 - **Composantes :** <Components>V, S, M (un peu de nourriture)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -191,7 +191,7 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 - **Composantes :** <Components>V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -221,7 +221,7 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -261,7 +261,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -287,7 +287,7 @@ Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -319,7 +319,7 @@ Une créature peut utiliser son action pour examiner une cible et faire un test 
 - **Composantes :** <Components>V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -353,7 +353,7 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -381,7 +381,7 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 - **Composantes :** <Components>V, S, M (un arc)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -407,7 +407,7 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Magicien], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -431,7 +431,7 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -455,7 +455,7 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -485,7 +485,7 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 - **Composantes :** <Components>V, S, M (un bout de cuir tanné)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -507,7 +507,7 @@ Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -531,7 +531,7 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -555,7 +555,7 @@ Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 1
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -583,7 +583,7 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -605,7 +605,7 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 - **Composantes :** <Components>V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -639,7 +639,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>Concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -661,7 +661,7 @@ Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -685,7 +685,7 @@ Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètre
 - **Composantes :** <Components>V, S, M (un petit carré de soie)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -713,7 +713,7 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 - **Composantes :** <Components>V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -737,7 +737,7 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -759,7 +759,7 @@ Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme], v
 - **Composantes :** <Components>V, S, M (un brin de gui)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -785,7 +785,7 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -809,7 +809,7 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 - **Composantes :** <Components>V, S, M (un objet qui répugne à la cible)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Ensorceleur], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -841,7 +841,7 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -865,7 +865,7 @@ Quand une créature pénètre dans la zone du mur pour la première fois au cour
 - **Composantes :** <Components>V, S, M (un peu d'eau bénite à asperger)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -889,7 +889,7 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -911,7 +911,7 @@ Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cib
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -935,7 +935,7 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 - **Composantes :** <Components>V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -963,7 +963,7 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -985,7 +985,7 @@ Une barrière [invisible] faite de force magique apparaît autour de vous et vou
 - **Composantes :** <Components>V, S, M (un morceau de phosphore ou une luciole)</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1011,7 +1011,7 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 - **Composantes :** <Components>V, S, M (un petit parchemin avec un extrait de texte sacré)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1033,7 +1033,7 @@ Un champ scintillant apparaît autour d'une créature de votre choix située à 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1057,7 +1057,7 @@ Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12),
 - **Composantes :** <Components>V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1083,7 +1083,7 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 - **Composantes :** <Components>V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1115,7 +1115,7 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 - **Composantes :** <Components>V, S, M (une graine de légume)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1143,7 +1143,7 @@ Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'
 - **Composantes :** <Components>V, S, M (un éclat de mica)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1171,7 +1171,7 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1201,7 +1201,7 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 - **Composantes :** <Components>V, S, M (poussière de rubis d'une valeur de 1 500 po)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1233,7 +1233,7 @@ La _[dissipation de la magie]_ est sans effet sur ce sort.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1257,7 +1257,7 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 - **Composantes :** <Components>V, S, M (un petit morceau de linceul)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1287,7 +1287,7 @@ Au niveau 9, la cible doit réussir un [jet de sauvegarde] de constitution diffi
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1313,7 +1313,7 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 - **Composantes :** <Components>V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1337,7 +1337,7 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 - **Composantes :** <Components>V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1367,7 +1367,7 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 - **Composantes :** <Components>V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Clerc], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1403,7 +1403,7 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 - **Composantes :** <Components>V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1433,7 +1433,7 @@ Chaque cible doit faire un [jet de sauvegarde] de [Dextérité] et subit 10d8 d�
 - **Composantes :** <Components>V, S, M (une pincée de poudre de fer ou de limaille)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1473,7 +1473,7 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 - **Composantes :** <Components>V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1509,7 +1509,7 @@ Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une no
 - **Composantes :** <Components>V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1537,7 +1537,7 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1561,7 +1561,7 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 - **Composantes :** <Components>V, S, M (un bout de fer et une flamme)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1591,7 +1591,7 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 - **Composantes :** <Components>V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1617,7 +1617,7 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1639,7 +1639,7 @@ Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversai
 - **Composantes :** <Components>V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1667,7 +1667,7 @@ Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple d
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1691,7 +1691,7 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 - **Composantes :** <Components>V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1715,7 +1715,7 @@ Une fois que le clone est arrivé à maturité, si la créature originale meurt,
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>30 jours</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1747,7 +1747,7 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 - **Composantes :** <Components>V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1775,7 +1775,7 @@ Si le sort se termine alors que le grand coffre est encore sur le plan éthéré
 - **Composantes :** <Components>V, S, M (un peu de cendre et de poussière d'os)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1799,7 +1799,7 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 - **Composantes :** <Components>V, S, M (une ficelle)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -1827,7 +1827,7 @@ Une créature [entravée] peut utiliser son action à chaque tour pour faire un 
 - **Composantes :** <Components>V, S, M (une pincée de soufre)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1853,7 +1853,7 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1875,7 +1875,7 @@ Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec
 - **Composantes :** <Components>V, S, M (encens incandescent)</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1899,7 +1899,7 @@ Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1929,7 +1929,7 @@ Ce sort permet de libérer une créature [entravée] par les plantes nées d'un 
 - **Composantes :** <Components>V, S, M (de l'encens et une fiole d'eau bénite ou maudite)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1955,7 +1955,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -1995,7 +1995,7 @@ Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résida
 - **Composantes :** <Components>V, S, M (un peu de nourriture adaptée à l'animal)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2039,7 +2039,7 @@ Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie auss
 - **Composantes :** <Components>V, S, M (une pincée de suie et de sel)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2063,7 +2063,7 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2087,7 +2087,7 @@ Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dang
 - **Composantes :** <Components>V, S, M (un petit cône de cristal ou de verre)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2113,7 +2113,7 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 - **Composantes :** <Components>V, S, M (trois coquilles de noix)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2150,7 +2150,7 @@ Une créature affectée peut faire un [jet de sauvegarde] de [Sagesse] à la fin
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2178,7 +2178,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2204,7 +2204,7 @@ Si vous réussissez votre [jet de sauvegarde], vous pouvez poser jusqu'à cinq q
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>7 jours</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2248,7 +2248,7 @@ Elle subit un désavantage lors des tests de [Charisme] et devient vulnérable �
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2270,7 +2270,7 @@ Vous transmettez une maladie virulente à une créature située à portée et da
 - **Composantes :** <Components>V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)</Components>
 - **Durée :** <Duration>10 jours</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2298,7 +2298,7 @@ Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en la
 - **Composantes :** <Components>S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2324,7 +2324,7 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 - **Composantes :** <Components>V, S, M (une goutte d'eau et une pincée de poussière)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2360,7 +2360,7 @@ Quand une créature entre dans le vortex pour la première fois de son tour ou q
 - **Composantes :** <Components>V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 8 heures</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2418,7 +2418,7 @@ Vent
 - **Composantes :** <Components>V, S, M (un saphir d'une valeur de 1 000 po)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2448,7 +2448,7 @@ _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2474,7 +2474,7 @@ Si vous vous déplacez de telle manière qu'une créature affectée est contrain
 - **Composantes :** <Components>V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2504,7 +2504,7 @@ Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quan
 - **Composantes :** <Components>V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2530,7 +2530,7 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 - **Composantes :** <Components>V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)</Components>
 - **Durée :** <Duration>spéciale</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2568,7 +2568,7 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 - **Composantes :** <Components>V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2602,7 +2602,7 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2624,7 +2624,7 @@ Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, so
 - **Composantes :** <Components>V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2654,7 +2654,7 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 - **Composantes :** <Components>V, S, M (sept épines acérées ou sept brindilles taillées en pointe)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2678,7 +2678,7 @@ La transformation du sol est camouflée, de manière à ce que le terrain ait l'
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2708,7 +2708,7 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2734,7 +2734,7 @@ Tant que la cible est affectée par ce sort, les autres créatures bénéficient
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2760,7 +2760,7 @@ Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2786,7 +2786,7 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 - **Composantes :** <Components>S</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2810,7 +2810,7 @@ Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relie
 - **Composantes :** <Components>V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 2 heures</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2838,7 +2838,7 @@ De même, le sort n'affecte pas directement la croissance des plantes. La terre 
 - **Composantes :** <Components>V, S, M (de la magnétite et une pincée de poussière)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2868,7 +2868,7 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 - **Composantes :** <Components>V, S, M (une goutte d'eau)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -2894,7 +2894,7 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2918,7 +2918,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 - **Composantes :** <Components>V, S, M (une pièce de cuivre)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2956,7 +2956,7 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -2980,7 +2980,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 - **Composantes :** <Components>V, S, M (un brin d'if)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3004,7 +3004,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 - **Composantes :** <Components>V, S, M (une goutte de mercure)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3032,7 +3032,7 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3056,7 +3056,7 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 - **Composantes :** <Components>V, S, M (eau bénite ou poudre d'argent et de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3084,7 +3084,7 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 - **Composantes :** <Components>V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3110,7 +3110,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3134,7 +3134,7 @@ Si ce sort achève un humanoïde, ce dernier se relève au début de votre proch
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3170,7 +3170,7 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3204,7 +3204,7 @@ Si elle le réussit, le sort prend fin.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3238,7 +3238,7 @@ Si elle le réussit, le sort prend fin.
 - **Composantes :** <Components>V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)</Components>
 - **Durée :** <Duration>10 jours</Duration>
 - Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3262,7 +3262,7 @@ Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3292,7 +3292,7 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 - **Composantes :** <Components>V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3320,7 +3320,7 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 - **Composantes :** <Components>V, S, M (une écharde de bois)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3346,7 +3346,7 @@ Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les 
 - **Composantes :** <Components>V, S, M (du feu et un éclat d'héliotrope)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3374,7 +3374,7 @@ Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3410,7 +3410,7 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 - **Composantes :** <Components>V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3456,7 +3456,7 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3482,7 +3482,7 @@ Quand le sort se termine, les plantes invoquées flétrissent.
 - **Composantes :** <Components>V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3508,7 +3508,7 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 - **Composantes :** <Components>V, S, M (un petit bout de fil de cuivre)</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3532,7 +3532,7 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Barde], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3554,7 +3554,7 @@ Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de v
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3576,7 +3576,7 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3598,7 +3598,7 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 - **Composantes :** <Components>V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3622,7 +3622,7 @@ Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps c
 - **Composantes :** <Components>V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3648,7 +3648,7 @@ La créature peut refaire un [jet de sauvegarde] tous les 30 jours. Le sort se t
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3670,7 +3670,7 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 - **Composantes :** <Components>V, S M (un symbole sacré)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3698,7 +3698,7 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3720,7 +3720,7 @@ Vous puisez dans les peurs les plus profondes d'un groupe de créatures et crée
 - **Composantes :** <Components>V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3746,7 +3746,7 @@ La bête ou la plante éveillée est considérée [charmée] par vous pendant 30
 - **Composantes :** <Components>V, S, M (une cuillère)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3768,7 +3768,7 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3790,7 +3790,7 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3814,7 +3814,7 @@ Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3840,7 +3840,7 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 - **Composantes :** <Components>V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3862,7 +3862,7 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3886,7 +3886,7 @@ Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d
 - **Composantes :** <Components>V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3912,7 +3912,7 @@ Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de p
 - **Composantes :** <Components>V, S, M (morceau d'onyx)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -3938,7 +3938,7 @@ Chaque créature dans la zone doit réussir un [jet de sauvegarde] de [Dextérit
 - **Composantes :** <Components>V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3960,7 +3960,7 @@ Une flamme à la luminosité égale à celle d'une torche embrase soudain l'obje
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -3986,7 +3986,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 - **Composantes :** <Components>V, S, M (une goutte de sang)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4012,7 +4012,7 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 - **Composantes :** <Components>V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4040,7 +4040,7 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 - **Composantes :** <Components>V, S, M (poudre de feuille de rhubarbe et estomac de vipère)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4064,7 +4064,7 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4090,7 +4090,7 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4112,7 +4112,7 @@ Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autru
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>jusqu'à 8 heures</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4144,7 +4144,7 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 - **Composantes :** <Components>V, S, M (un morceau de gaze et une volute de fumée)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4172,7 +4172,7 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 24 heures</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4198,7 +4198,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 - **Composantes :** <Components>V, S, M (de minuscules tartes et une plume à agiter dans les airs)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4222,7 +4222,7 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4254,7 +4254,7 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4278,7 +4278,7 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4306,7 +4306,7 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4330,7 +4330,7 @@ Toute créature hostile envers vous qui entre dans un emplacement situé dans un
 - **Composantes :** <Components>V, S, M (une petite poire remplie d'air)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4356,7 +4356,7 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 - **Composantes :** <Components>V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4382,7 +4382,7 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 - **Composantes :** <Components>V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation ou déclenchement</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4420,7 +4420,7 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 - **Composantes :** <Components>V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4442,7 +4442,7 @@ La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous
 - **Composantes :** <Components>V, S, M (de la couenne de porc ou du beurre)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4466,7 +4466,7 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 - **Composantes :** <Components>V, S, M (une pincée de poussière)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Druide], [Magicien], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4490,7 +4490,7 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4514,7 +4514,7 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4538,7 +4538,7 @@ Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des 
 - **Composantes :** <Components>V, S, M (un verre en cristal d'une valeur de 500 po)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4562,7 +4562,7 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 - **Composantes :** <Components>V, S, M (un copeau de racine de réglisse)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4586,7 +4586,7 @@ Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une act
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4610,7 +4610,7 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 - **Composantes :** <Components>V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4634,7 +4634,7 @@ Si, à la place, vous touchez une créature pendant toute l'incantation, vous d�
 - **Composantes :** <Components>S, M (un morceau de toison)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4662,7 +4662,7 @@ Si une créature utilise son action pour examiner le son ou l'image, elle compre
 - **Composantes :** <Components>V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4690,7 +4690,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 - **Composantes :** <Components>V, S, M (un morceau de toison)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4718,7 +4718,7 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4752,7 +4752,7 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 - **Composantes :** <Components>V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 jour</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4780,7 +4780,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 - **Composantes :** <Components>V, S, M (un morceau de toison)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4806,7 +4806,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 - **Composantes :** <Components>V, S, M (un petit morceau de fer bien droit)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4830,7 +4830,7 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 - **Composantes :** <Components>V, S, M (un petit morceau de fer bien droit)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4856,7 +4856,7 @@ Les créatures visées doivent se trouver à 9 mètres ou moins les unes des aut
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4892,7 +4892,7 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4922,7 +4922,7 @@ Par exemple, si vous transformez une abeille, sa version géante peut disposer d
 - **Composantes :** <Components>V, S, M (un archet et un morceau d'os)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -4948,7 +4948,7 @@ Au début de chacun de ses tours, la créature doit réussir un [jet de sauvegar
 - **Composantes :** <Components>V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)</Components>
 - **Durée :** <Duration>1 jour</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -4980,7 +4980,7 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 - **Composantes :** <Components>V, S, M (de la magnétite et de la limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5006,7 +5006,7 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 - **Composantes :** <Components>V, S, M (un cil enrobé de gomme arabique)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5030,7 +5030,7 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5052,7 +5052,7 @@ Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez acco
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5092,7 +5092,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5130,7 +5130,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 - **Composantes :** <Components>V, S, M (une baie de houx par créature invoquée)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5168,7 +5168,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5200,7 +5200,7 @@ C'est le MJ qui dispose du profil technique du céleste.
 - **Composantes :** <Components>V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5232,7 +5232,7 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5262,7 +5262,7 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5298,7 +5298,7 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5320,7 +5320,7 @@ Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de v
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5350,7 +5350,7 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 - **Composantes :** <Components>V, S, M (feuille de sumac)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5378,7 +5378,7 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5402,7 +5402,7 @@ De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un [
 - **Composantes :** <Components>V, M (un modèle réduit de ziggourat en argile)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5426,7 +5426,7 @@ De plus, quand elle parle, toute créature qui maîtrise au moins une langue et 
 - **Composantes :** <Components>V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5452,7 +5452,7 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 - **Composantes :** <Components>V, M (une petite plume ou un peu de duvet)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5474,7 +5474,7 @@ Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de
 - **Composantes :** <Components>V, S, M (une goutte de mélasse)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5504,7 +5504,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sage
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5526,7 +5526,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sage
 - **Composantes :** <Components>V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5554,7 +5554,7 @@ Si la cible est encore en l'air quand le sort se termine, elle flotte délicatem
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5580,7 +5580,7 @@ La liane a le profil suivant : CA 15, points de vie 30, [Force] 20 (+5), résist
 - **Composantes :** <Components>V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5604,7 +5604,7 @@ La cible peut également dépenser 1,50 mètre de déplacement pour échapper au
 - **Composantes :** <Components>V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5630,7 +5630,7 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 - **Composantes :** <Components>V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5656,7 +5656,7 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 - **Composantes :** <Components>V, S, M (des poils de chien de chasse)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5678,7 +5678,7 @@ Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous conce
 - **Composantes :** <Components>V, S, M (une branche fourchue)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Ombrelame], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5706,7 +5706,7 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 - **Composantes :** <Components>V, S, M (des poils de chien de chasse)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5734,7 +5734,7 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5758,7 +5758,7 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jet
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Druide], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5782,7 +5782,7 @@ Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il
 - **Composantes :** <Components>V, M (une luciole ou de la mousse phosphorescente)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5810,7 +5810,7 @@ Si vous visez un objet porté ou transporté par une créature hostile, cette de
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Ensorceleur], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5836,7 +5836,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres 
 - **Composantes :** <Components>V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5866,7 +5866,7 @@ Elle s'éteint si elle passe hors de portée.
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5892,7 +5892,7 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 - **Composantes :** <Components>V, S, M (une coquille d'oeuf et un gant en peau de serpent)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5932,7 +5932,7 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -5960,7 +5960,7 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 - **Composantes :** <Components>V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -5994,7 +5994,7 @@ Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace ex
 - **Composantes :** <Components>V, S, M (un peu d'eau)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -6018,7 +6018,7 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 - **Composantes :** <Components>V, S, M (un bout de liège)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Ensorceleur], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -6042,7 +6042,7 @@ Si vous prenez pour cible une créature immergée dans un liquide, le sort la ra
 - **Composantes :** <Components>V, S, M (du feu et de l'eau bénite)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6066,7 +6066,7 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6090,7 +6090,7 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6118,7 +6118,7 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 - **Composantes :** <Components>V, S, M (un petit bout de fil de cuivre)</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6142,7 +6142,7 @@ Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien 
 - **Composantes :** <Components>V, S, M (un peu de nourriture)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6172,7 +6172,7 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 - **Composantes :** <Components>V, S, M (un cocon de chenille)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6202,7 +6202,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 - **Composantes :** <Components>V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6250,7 +6250,7 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>10 jours</Duration>
 - Classes: <Classes>[Barde], [Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6276,7 +6276,7 @@ Les créatures dotées de vision parfaite distinguent le véritable terrain derr
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute </Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6308,7 +6308,7 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6336,7 +6336,7 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6362,7 +6362,7 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6386,7 +6386,7 @@ Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), l
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6410,7 +6410,7 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6434,7 +6434,7 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6458,7 +6458,7 @@ Une cible [étourdie] a droit à un [jet de sauvegarde] de [Constitution] à la 
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6480,7 +6480,7 @@ Vous prononcez un mot de pouvoir capable d'obliger une créature située à port
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6504,7 +6504,7 @@ Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à vo
 - **Composantes :** <Components>S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6530,7 +6530,7 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 - **Composantes :** <Components>V, S, M (une poignée d'épines)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -6560,7 +6560,7 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 - **Composantes :** <Components>V, S, M (un éclat de phosphore)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6590,7 +6590,7 @@ L'autre face du mur n'inflige pas de dégâts.
 - **Composantes :** <Components>V, S, M (une pincée de poudre de gemme translucide)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6614,7 +6614,7 @@ Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre t
 - **Composantes :** <Components>V, S, M (un éclat de quartz)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6642,7 +6642,7 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 - **Composantes :** <Components>V, S, M (un petit bloc de granite)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6674,7 +6674,7 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 - **Composantes :** <Components>V, S, M (un petit éventail et une plume exotique)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6700,7 +6700,7 @@ Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les cr
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6748,7 +6748,7 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6772,7 +6772,7 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -6796,7 +6796,7 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 - **Composantes :** <Components>V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6820,7 +6820,7 @@ Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6848,7 +6848,7 @@ Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au d�
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6878,7 +6878,7 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 - **Composantes :** <Components>V, S, M (un oeuf pourri ou des feuilles de chou pourri)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6904,7 +6904,7 @@ Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent f
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6930,7 +6930,7 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 - **Composantes :** <Components>V, S, M (un projectile)</Components>
 - **Durée :** <Duration>instantané</Duration>
 - Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -6952,7 +6952,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 - **Composantes :** <Components>V, S, M (des poils de chauve-souris)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -6976,7 +6976,7 @@ Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la d
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7000,7 +7000,7 @@ Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'ell
 - **Composantes :** <Components>V, S, M (un morceau de charbon)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7024,7 +7024,7 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>Instantanée</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7046,7 +7046,7 @@ Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7080,7 +7080,7 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7102,7 +7102,7 @@ Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7134,7 +7134,7 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7158,7 +7158,7 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 - **Composantes :** <Components>V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7184,7 +7184,7 @@ Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni a
 - **Composantes :** <Components>V, S, M (une pincée de graines de sésame)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7208,7 +7208,7 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 - **Composantes :** <Components>V, S, M (une goutte de bitume et une araignée)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7230,7 +7230,7 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 - **Composantes :** <Components>V, S, M (une poignée d'écorce de chêne)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7252,7 +7252,7 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 - **Composantes :** <Components>V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7274,7 +7274,7 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 - **Composantes :** <Components>V, S, M (une petite perle de cristal)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7300,7 +7300,7 @@ Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur
 - **Composantes :** <Components>V, S, M (une pincée de chaux, de l'eau et de la terre)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7328,7 +7328,7 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 - **Composantes :** <Components>V, S, M (une plume blanche ou un coeur de poule)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute.</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7352,7 +7352,7 @@ Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utilise
 - **Composantes :** <Components>V, S, M (un projectile)</Components>
 - **Durée :** <Duration>instantané</Duration>
 - Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7376,7 +7376,7 @@ Le projectile se dédouble de nombreuses fois et affecte toutes les créatures d
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7400,7 +7400,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7424,7 +7424,7 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 - **Composantes :** <Components>V, S, M (un diamant d'une valeur minimale de 5 000 po)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7452,7 +7452,7 @@ Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifi
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7480,7 +7480,7 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 - **Composantes :** <Components>V, S, M (objet porte-bonheur)</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7502,7 +7502,7 @@ Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, 
 - **Composantes :** <Components>V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7548,7 +7548,7 @@ Le réceptacle est détruit quand le sort se termine.
 - **Composantes :** <Components>V, S, M (une plume d'oiseau chanteur)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Barde], [Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7572,7 +7572,7 @@ Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de s
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7608,7 +7608,7 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7632,7 +7632,7 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7660,7 +7660,7 @@ Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8)
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7684,7 +7684,7 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 - **Composantes :** <Components>V, S, M (un projectile)</Components>
 - **Durée :** <Duration>instantané</Duration>
 - Classes: <Classes>[Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7710,7 +7710,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 - **Composantes :** <Components>V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)</Components>
 - **Durée :** <Duration>spéciale</Duration>
 - Classes: <Classes>[Clerc], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7742,7 +7742,7 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7766,7 +7766,7 @@ Si le sort est encore actif quand la cible est soumise à un effet qui devrait l
 - **Composantes :** <Components>V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Clerc], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7792,7 +7792,7 @@ Les créatures des types précédemment nommés subissent un désavantage lors d
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7816,7 +7816,7 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [je
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Ombrelame]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7838,7 +7838,7 @@ Pendant toute la durée du sort, la créature consentante que vous touchez devie
 - **Composantes :** <Components>V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7888,7 +7888,7 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7910,7 +7910,7 @@ Toute la nourriture et les boissons non magiques présentes dans une sphère d'u
 - **Composantes :** <Components>V, S, M</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7938,7 +7938,7 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 - **Composantes :** <Components>V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -7966,7 +7966,7 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -7990,7 +7990,7 @@ La cible a droit à un [jet de sauvegarde] de [Constitution] contre le sort à l
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8014,7 +8014,7 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8038,7 +8038,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11
 - **Composantes :** <Components>V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8068,7 +8068,7 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 - **Composantes :** <Components>V, S, M (une loupe)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8096,7 +8096,7 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 - **Composantes :** <Components>V, S, M (un moulin à prières et de l'eau bénite)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8122,7 +8122,7 @@ Si vous disposez de la partie amputée et la maintenez contre le moignon, le sor
 - **Composantes :** <Components>V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8170,7 +8170,7 @@ La créature réincarnée se souvient de son ancienne vie et de ses expériences
 - **Composantes :** <Components>V, S, M (deux magnétites)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8196,7 +8196,7 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8218,7 +8218,7 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8242,7 +8242,7 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 - **Composantes :** <Components>V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)</Components>
 - **Durée :** <Duration>10 jours</Duration>
 - Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8278,7 +8278,7 @@ Une créature qui réussit son [jet de sauvegarde] contre l'effet est immunisée
 - **Composantes :** <Components>V, S, M (une cape miniature)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8302,7 +8302,7 @@ Le sort se termine alors.
 - **Composantes :** <Components>V, S, M (un petit roseau ou un brin de paille)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8324,7 +8324,7 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8346,7 +8346,7 @@ Vous touchez une créature et mettez fin à une maladie ou à un état spécial 
 - **Composantes :** <Components>V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8376,7 +8376,7 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 - **Composantes :** <Components>V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8408,7 +8408,7 @@ Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavanta
 - **Composantes :** <Components>V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8434,7 +8434,7 @@ Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes l
 - **Composantes :** <Components>V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8462,7 +8462,7 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 - **Composantes :** <Components>V, S, M (diamant d'une valeur de 300 po, que le sort consume)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8484,7 +8484,7 @@ Vous touchez une créature morte au cours de la minute précédente. Elle revien
 - **Composantes :** <Components>V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8534,7 +8534,7 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 - **Composantes :** <Components>V, S, M (un petit miroir en argent)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8560,7 +8560,7 @@ Ce sort se termine si la créature protégée attaque ou lance un sort affectant
 - **Composantes :** <Components>V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -8600,7 +8600,7 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 - **Composantes :** <Components>V, S, M (une fiole d'un mélange de sang et d'acide)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -8624,7 +8624,7 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 - **Composantes :** <Components>V, S, M (une patte arrière de sauterelle)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8646,7 +8646,7 @@ Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sor
 - **Composantes :** <Components>V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8686,7 +8686,7 @@ Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vou
 - **Composantes :** <Components>V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8712,7 +8712,7 @@ Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce
 - **Composantes :** <Components>V, S, M (un bout de ficelle et un morceau de bois)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8738,7 +8738,7 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8762,7 +8762,7 @@ Une créature ou un objet entièrement contenu dans la sphère sont immunisés c
 - **Composantes :** <Components>V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8792,7 +8792,7 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 - **Composantes :** <Components>V, S, M (une petite quantité d'alcool ou de spiritueux)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8816,7 +8816,7 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8840,7 +8840,7 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8864,7 +8864,7 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 - **Composantes :** <Components>V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8892,7 +8892,7 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8936,7 +8936,7 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 - **Composantes :** <Components>V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -8964,7 +8964,7 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 - **Composantes :** <Components>V, S, M (une petite sphère de cristal)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -8998,7 +8998,7 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 - **Composantes :** <Components>V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9028,7 +9028,7 @@ Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute.</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9052,7 +9052,7 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9076,7 +9076,7 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 - **Composantes :** <Components>V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 8 heures</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9108,7 +9108,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 - **Composantes :** <Components>V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9138,7 +9138,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 - **Composantes :** <Components>V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation ou déclenchement</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9188,7 +9188,7 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9220,7 +9220,7 @@ Vous exercez un contrôle précis sur les objets pris dans votre étreinte tél�
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9270,7 +9270,7 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9296,7 +9296,7 @@ Le feu endommage les objets présents dans la zone et embrase les objets inflamm
 - **Composantes :** <Components>V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9324,7 +9324,7 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 - **Composantes :** <Components>V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9350,7 +9350,7 @@ Si une créature se concentre dans la zone d'effet du sort, elle doit réussir u
 - **Composantes :** <Components>V, S, M (une rose des sables)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9376,7 +9376,7 @@ Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dég
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9410,7 +9410,7 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 - **Composantes :** <Components>V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9436,7 +9436,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 - **Composantes :** <Components>V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9462,7 +9462,7 @@ Une créature [entravée] par les tentacules peut utiliser son action pour effec
 - **Composantes :** <Components>V, S, M (une pierre, une brindille et un bout de plante verte)</Components>
 - **Durée :** <Duration>24 heures</Duration>
 - Classes: <Classes>[Barde], [Druide], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9490,7 +9490,7 @@ Une fois qu'une créature a compris l'illusion, elle la voit comme une image flo
 - **Composantes :** <Components>S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)</Components>
 - **Durée :** <Duration>10 jours</Duration>
 - Classes: <Classes>[Barde], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9516,7 +9516,7 @@ Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original au
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9554,7 +9554,7 @@ Vous pouvez révoquer un tel effet par une action.
 - **Composantes :** <Components>V, S, M (un bout de toile d'araignée)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9586,7 +9586,7 @@ Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9610,7 +9610,7 @@ Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10),
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9636,7 +9636,7 @@ Retirer l'arme lui inflige 2d4 dégâts, ou la moitié si elle réussit un [jet 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 round</Duration>
 - Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9658,7 +9658,7 @@ Ce sort crée un lien magique entre une plante inanimée de taille G ou supérie
 - **Composantes :** <Components>V, S, M (une pincée de poussière, un caillou et un peu d'argile)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9696,7 +9696,7 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 - **Composantes :** <Components>S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
 - Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9724,7 +9724,7 @@ Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à 
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Clerc], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9748,7 +9748,7 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 - **Composantes :** <Components>V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 jour</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9772,7 +9772,7 @@ Tant que le sort persiste et que vous êtes sur le même plan d'existence que vo
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9806,7 +9806,7 @@ Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vo
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
 - Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9836,7 +9836,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 - **Composantes :** <Components>V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)</Components>
 - **Durée :** <Duration>jusqu'à dissipation</Duration>
 - Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9860,7 +9860,7 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 - **Composantes :** <Components>S</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 round</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9882,7 +9882,7 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 - **Composantes :** <Components>V, S, M (une pincée de carotte séchée ou une agate)</Components>
 - **Durée :** <Duration>8 heures</Duration>
 - Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9904,7 +9904,7 @@ Vous touchez une créature consentante pour lui permettre de voir dans le noir. 
 - **Composantes :** <Components>V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9928,7 +9928,7 @@ Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repèr
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>1 minute</Duration>
 - Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9952,7 +9952,7 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 - **Composantes :** <Components>V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)</Components>
 - **Durée :** <Duration>1 heure</Duration>
 - Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)</Source>
+- Source: <Source>(MDR p)</Source>
 
 ### Description
 
@@ -9974,7 +9974,7 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 - **Composantes :** <Components>V, S, M (une rémige)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
@@ -9998,7 +9998,7 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>10 minutes</Duration>
 - Classes: <Classes>[Barde], [Clerc], [Paladin]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(MDR p)(SRD p)</Source>
 
 ### Description
 
