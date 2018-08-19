@@ -5,15 +5,9 @@ using Markdig.Syntax;
 
 namespace AideDeJeuLib
 {
-    public class HomeItem : Item
+    public class Description : Item
     {
-        public new string Markdown
-        {
-            get
-            {
-                return AideDeJeu.Tools.Helpers.GetResourceString($"AideDeJeu.Data.index.md");
-            }
-        }
+        //public override string Markdown => string.Empty;
 
         public override void Parse(ref ContainerBlock.Enumerator enumerator)
         {

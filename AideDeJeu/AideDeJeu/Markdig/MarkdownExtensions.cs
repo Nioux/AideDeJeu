@@ -10,11 +10,219 @@ using Markdig.Parsers;
 using System.IO;
 using Markdig.Renderers.Normalize;
 using Markdig.Renderers.Normalize.Inlines;
+using System.Reflection;
 
 namespace AideDeJeu.Tools
 {
     public static class MarkdownExtensions
     {
+        public static Item ToItem(string md)
+        {
+            var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
+            var document = MarkdownParser.Parse(md, pipeline);
+
+            var enumerator = document.GetEnumerator();
+            try
+            {
+                enumerator.MoveNext();
+                while (enumerator.Current != null)
+                {
+                    var block = enumerator.Current;
+
+                    if (block is HtmlBlock)
+                    {
+                        if (block.IsNewItem())
+                        {
+                            var item = ParseItem(ref enumerator);
+                            return item;
+                        }
+                    }
+                    enumerator.MoveNext();
+                }
+
+            }
+            finally
+            {
+                enumerator.Dispose();
+            }
+            return null;
+        }
+
+        public static Item ParseItem(ref ContainerBlock.Enumerator enumerator)
+        {
+            var currentItem = enumerator.Current.GetNewItem();
+            //item.Parse(ref enumerator);
+
+            enumerator.MoveNext();
+            while (enumerator.Current != null)
+            {
+                var block = enumerator.Current;
+
+                if (block is HtmlBlock)
+                {
+                    if (block.IsClosingItem())
+                    {
+                        return currentItem;
+                    }
+                    else if (block.IsNewItem())
+                    {
+                        var subItem = ParseItem(ref enumerator);
+
+                        var propertyName = subItem.GetType().Name;
+
+                        if (currentItem.GetType().GetProperty(propertyName) != null)
+                        {
+                            PropertyInfo prop = currentItem.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                            if (null != prop && prop.CanWrite)
+                            {
+                                prop.SetValue(currentItem, subItem, null);
+                            }
+                        }
+                        else if (currentItem is Items)
+                        {
+                            var items = currentItem as Items;
+                            items.Add(subItem);
+                        }
+                    }
+                }
+
+                else // if (block is ContainerBlock)
+                {
+                    ParseItemProperties(currentItem, block);
+                    //var listBlock = block as ContainerBlock;
+                    //foreach (var inblock in listBlock)
+                    //{
+                    //    if (inblock is ListItemBlock)
+                    //    {
+                    //        var listItemBlock = inblock as ListItemBlock;
+                    //        foreach (var ininblock in listItemBlock)
+                    //        {
+                    //            if (ininblock is ParagraphBlock)
+                    //            {
+                    //                var parBlock = ininblock as ParagraphBlock;
+                    //                ParseItemProperties(currentItem, parBlock.Inline);
+                    //            }
+                    //        }
+                    //    }
+                    //}
+                }
+
+                currentItem.Markdown += enumerator.Current.ToMarkdownString();
+
+                enumerator.MoveNext();
+            }
+
+            // bad !
+            return currentItem;
+        }
+
+        public static void ParseItemProperties(Item item, Block block)
+        {
+            switch(block)
+            {
+                case ContainerBlock blocks:
+                    ParseItemProperties(item, blocks);
+                    break;
+                case LeafBlock leaf:
+                    ParseItemProperties(item, leaf.Inline);
+                    break;
+            }
+        }
+
+        public static void ParseItemProperties(Item item, ContainerBlock blocks)
+        {
+            foreach(var block in blocks)
+            {
+                ParseItemProperties(item, block);
+            }
+        }
+
+        public static void ParseItemProperties(Item item, ContainerInline inlines)
+        {
+            PropertyInfo prop = null;
+            foreach (var inline in inlines)
+            {
+                if(inline is HtmlInline)
+                {
+                    var tag = (inline as HtmlInline).Tag;
+                    if (tag.StartsWith("</"))
+                    {
+                        prop = null;
+                    }
+                    else if (tag.StartsWith("<") && !tag.StartsWith("</"))
+                    {
+                        var propertyName = tag.Substring(1, tag.Length - 2);
+                        prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                    }
+                }
+                else
+                {
+                    if (null != prop && prop.CanWrite)
+                    {
+                        prop.SetValue(item, inline.ToMarkdownString(), null);
+                    }
+                }
+            }
+        }
+
+
+
+        public static bool IsNewItem(this Block block)
+        {
+            var htmlBlock = block as HtmlBlock;
+            if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
+            {
+                var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
+                if (!string.IsNullOrEmpty(tag))
+                {
+                    if (tag.StartsWith("<") && !tag.StartsWith("</"))
+                    {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        public static bool IsClosingItem(this Block block)
+        {
+            var htmlBlock = block as HtmlBlock;
+            if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
+            {
+                var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
+                if (!string.IsNullOrEmpty(tag))
+                {
+                    if (tag.StartsWith("</"))
+                    {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
+
+        public static Item GetNewItem(this Block block)
+        {
+            var htmlBlock = block as HtmlBlock;
+            if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
+            {
+                var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
+                if (!string.IsNullOrEmpty(tag))
+                {
+                    if (tag.StartsWith("<") && !tag.StartsWith("</"))
+                    {
+                        var name = $"AideDeJeuLib.{tag.Substring(1, tag.Length - 2)}, AideDeJeu";
+                        var type = Type.GetType(name);
+                        var instance = Activator.CreateInstance(type) as Item;
+                        return instance;
+                    }
+                }
+            }
+            return null;
+        }
+
+
+        /*
         public static Item ToItem(string md)
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
@@ -99,7 +307,7 @@ namespace AideDeJeu.Tools
             }
             return null;
         }
-
+        */
 
 
         public static string ToMarkdownString(this Block block)
@@ -205,21 +413,21 @@ namespace AideDeJeu.Tools
         public static string ToMarkdownString(this Markdig.Extensions.Tables.Table tableBlock)
         {
             var ret = string.Empty;
-            foreach(Markdig.Extensions.Tables.TableRow row in tableBlock)
+            foreach (Markdig.Extensions.Tables.TableRow row in tableBlock)
             {
                 var line = "|";
-                foreach(Markdig.Extensions.Tables.TableCell cell in row)
+                foreach (Markdig.Extensions.Tables.TableCell cell in row)
                 {
-                    foreach(Markdig.Syntax.ParagraphBlock block in cell)
+                    foreach (Markdig.Syntax.ParagraphBlock block in cell)
                     {
                         line += block.ToMarkdownString().Replace("\n", "");
                     }
                     line += "|";
                 }
-                if(row.IsHeader)
+                if (row.IsHeader)
                 {
                     line += "\n|";
-                    for(int i = 0; i < row.Count; i++)
+                    for (int i = 0; i < row.Count; i++)
                     {
                         line += "---|";
                     }

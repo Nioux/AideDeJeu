@@ -194,7 +194,7 @@ namespace AideDeJeu.ViewModels
                         spell.Type.ToLower().Contains(ecole.ToLower()) &&
                         spell.Source.Contains(source) &&
                         spell.Classes.Contains(classe) &&
-                        spell.Rituel.Contains(rituel) &&
+                        (spell.Rituel == null || spell.Rituel.Contains(rituel)) &&
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))

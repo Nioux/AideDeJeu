@@ -28,7 +28,15 @@ namespace AideDeJeu.ViewModels
                 //return Tools.MarkdownExtensions.ToItem(md);
                 if (md != null)
                 {
-                    _AllItems[source] = Tools.MarkdownExtensions.ToItem(md);
+                    var item = Tools.MarkdownExtensions.ToItem(md);
+                    if (item != null)
+                    {
+                        _AllItems[source] = item;
+                    }
+                    else
+                    {
+                        return null;
+                    }
                 }
                 else
                 {

@@ -32,24 +32,24 @@ namespace AideDeJeuLib
             }
         }
 
-        public override string Markdown
-        {
-            get
-            {
-                return
-                    $"# {Name}\n" +
-                    $"{AltName}\n\n" +
-                    $"_{LevelType}_\n" +
-                    $"**Casting Time :** {CastingTime}\n" +
-                    $"**Range :** {Range}\n" +
-                    $"**Components :** {Components}\n" +
-                    $"**Duration :** {Duration}\n" +
-                    $"**Classes :** {Classes}\n" +
-                    $"**Source :** {Source}\n" +
-                    $"\n" +
-                    $"{DescriptionHtml}";
-            }
-        }
+        //public override string Markdown
+        //{
+        //    get
+        //    {
+        //        return
+        //            $"# {Name}\n" +
+        //            $"{AltName}\n\n" +
+        //            $"_{LevelType}_\n" +
+        //            $"**Casting Time :** {CastingTime}\n" +
+        //            $"**Range :** {Range}\n" +
+        //            $"**Components :** {Components}\n" +
+        //            $"**Duration :** {Duration}\n" +
+        //            $"**Classes :** {Classes}\n" +
+        //            $"**Source :** {Source}\n" +
+        //            $"\n" +
+        //            $"{DescriptionHtml}";
+        //    }
+        //}
 
         public override void Parse(ref ContainerBlock.Enumerator enumerator)
         {

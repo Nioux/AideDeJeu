@@ -328,6 +328,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="..\..\Data\sandbox.md" Link="Data\sandbox.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Views\MainNavigationPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

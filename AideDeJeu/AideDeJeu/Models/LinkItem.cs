@@ -26,15 +26,16 @@ namespace AideDeJeuLib
                 var match = regex.Match(value);
                 Name = match.Groups["name"].Value;
                 Link = match.Groups["link"].Value;
+                Markdown = $"# {NameLink}\n\n";
             }
         }
-        public override string Markdown
-        {
-            get
-            {
-                return $"# {NameLink}\n\n";
-            }
-        }
+        //public override string Markdown
+        //{
+        //    get
+        //    {
+        //        return $"# {NameLink}\n\n";
+        //    }
+        //}
 
         public override void Parse(ref ContainerBlock.Enumerator enumerator)
         {

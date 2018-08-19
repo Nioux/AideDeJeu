@@ -4,7 +4,7 @@ using System.Xml;
 
 namespace AideDeJeuLib
 {
-    public abstract class Item
+    public class Item
     {
         public string Name { get; set; }
         public int NameLevel { get; set; }
@@ -32,7 +32,7 @@ namespace AideDeJeuLib
             }
         }
 
-        public abstract string Markdown { get; }
-        public abstract void Parse(ref Markdig.Syntax.ContainerBlock.Enumerator enumerator);
+        public string Markdown { get; set; }
+        public virtual void Parse(ref Markdig.Syntax.ContainerBlock.Enumerator enumerator) { }
     }
 }

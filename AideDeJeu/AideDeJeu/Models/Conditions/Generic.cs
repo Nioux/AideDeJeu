@@ -12,18 +12,18 @@ namespace AideDeJeuLib
 {
     public class Generic : Item
     {
-        public string Text { get; set; }
+        //public string Text { get; set; }
 
-        public override string Markdown
-        {
-            get
-            {
-                return 
-                    //$"# {Name}\n\n" +
-                    //$"{AltName}\n\n" +
-                    Text;
-            }
-        }
+        //public override string Markdown
+        //{
+        //    get
+        //    {
+        //        return 
+        //            //$"# {Name}\n\n" +
+        //            //$"{AltName}\n\n" +
+        //            Text;
+        //    }
+        //}
 
         public void ParseBlock(Block block)
         {
@@ -35,7 +35,7 @@ namespace AideDeJeuLib
                     this.Name = headingBlock.Inline.ToMarkdownString();
                     this.NameLevel = headingBlock.Level - 1;
                 }
-                this.Text += block.ToMarkdownString();
+                this.Markdown += block.ToMarkdownString();
             }
             else if (block is ListBlock)
             {
@@ -58,11 +58,11 @@ namespace AideDeJeuLib
                                         {
                                             new Tuple<string, Action<Generic, string>>("AltName: ", (m, s) =>
                                             {
-                                                this.Text += "- " + s; m.AltName = s;
+                                                this.Markdown += "- " + s; m.AltName = s;
                                             }),
                                             new Tuple<string, Action<Generic, string>>("", (m, s) =>
                                             {
-                                                this.Text += "- " + str;
+                                                this.Markdown += "- " + str;
                                             }),
                                         };
 
@@ -78,16 +78,16 @@ namespace AideDeJeuLib
                             }
                         }
                     }
-                    this.Text += "\n";
+                    this.Markdown += "\n";
                 }
                 else
                 {
-                    this.Text += block.ToMarkdownString();
+                    this.Markdown += block.ToMarkdownString();
                 }
             }
             else
             {
-                this.Text += block.ToMarkdownString();
+                this.Markdown += block.ToMarkdownString();
             }
         }
         public override void Parse(ref ContainerBlock.Enumerator enumerator)

@@ -9,7 +9,7 @@ namespace AideDeJeuLib
 {
     public class Equipment : Item
     {
-        public string Text { get; set; }
+        //public string Text { get; set; }
         public string Type { get; set; }
         public string Price { get; set; }
         public string ArmorClass { get; set; }
@@ -24,16 +24,16 @@ namespace AideDeJeuLib
         public string WeightCapacity { get; set; }
         public string Speed { get; set; }
 
-        public override string Markdown
-        {
-            get
-            {
-                return
-                    //$"# {Name}\n\n" +
-                    //$"{AltName}\n\n" +
-                    Text;
-            }
-        }
+        //public override string Markdown
+        //{
+        //    get
+        //    {
+        //        return
+        //            //$"# {Name}\n\n" +
+        //            //$"{AltName}\n\n" +
+        //            Text;
+        //    }
+        //}
 
         public void ParseBlock(Block block)
         {
@@ -44,7 +44,7 @@ namespace AideDeJeuLib
                 {
                     this.Name = headingBlock.Inline.ToMarkdownString();
                 }
-                this.Text += block.ToMarkdownString();
+                this.Markdown += block.ToMarkdownString();
             }
             else if (block is ListBlock)
             {
@@ -67,63 +67,63 @@ namespace AideDeJeuLib
                                     {
                                         new Tuple<string, Action<Equipment, string>>("AltName: ", (m, s) =>
                                         {
-                                            this.Text += "- " + s; m.AltName = s;
+                                            this.Markdown += "- " + s; m.AltName = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Type** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Type = s;
+                                            this.Markdown += "- " + str; m.Type = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Prix** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Price = s;
+                                            this.Markdown += "- " + str; m.Price = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Classe d'armure** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.ArmorClass = s;
+                                            this.Markdown += "- " + str; m.ArmorClass = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Discrétion** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Discretion = s;
+                                            this.Markdown += "- " + str; m.Discretion = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Poids** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Weight = s;
+                                            this.Markdown += "- " + str; m.Weight = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Force** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Force = s;
+                                            this.Markdown += "- " + str; m.Force = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Rareté** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Rarity = s;
+                                            this.Markdown += "- " + str; m.Rarity = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Dégâts** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Damages = s;
+                                            this.Markdown += "- " + str; m.Damages = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Propriétés** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Properties = s;
+                                            this.Markdown += "- " + str; m.Properties = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Unité** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Unity = s; //m.Name += $" ({s})";
+                                            this.Markdown += "- " + str; m.Unity = s; //m.Name += $" ({s})";
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Capacité** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Capacity = s;
+                                            this.Markdown += "- " + str; m.Capacity = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Capacité de charge** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.WeightCapacity = s;
+                                            this.Markdown += "- " + str; m.WeightCapacity = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Vitesse** ", (m, s) =>
                                         {
-                                            this.Text += "- " + str; m.Speed = s;
+                                            this.Markdown += "- " + str; m.Speed = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("", (m, s) =>
                                         {
-                                            this.Text += str;
+                                            this.Markdown += str;
                                         }),
                                     };
 
@@ -139,16 +139,16 @@ namespace AideDeJeuLib
                             }
                         }
                     }
-                    this.Text += "\n";
+                    this.Markdown += "\n";
                 }
                 else
                 {
-                    this.Text += block.ToMarkdownString();
+                    this.Markdown += block.ToMarkdownString();
                 }
             }
             else
             {
-                this.Text += block.ToMarkdownString();
+                this.Markdown += block.ToMarkdownString();
             }
         }
 
