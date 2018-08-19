@@ -1,28 +1,28 @@
 
-[][MonstersHD]
+<MonstersHD>
 
-# Créatures (H&D)
-- AltName: [Monsters](monsters_vo.md)
+# <Name>Créatures (H&D)</Name>
+- <AltName>[Monsters](monsters_vo.md)</AltName>
 
 
-[][MonsterHD]
+<Monster>
 
-# Aboleth
-- AltName: [Aboleth](monsters_vo.md#aboleth)
-- Aberration de taille G, Loyal Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 135 (18d10+36)
-- **Vitesse** 3 m, nage 12 m
+# <Name>Aboleth</Name>
+- <AltName>[Aboleth](monsters_vo.md#aboleth)</AltName>
+- <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>135 (18d10+36)</HitPoints>
+- **Vitesse** <Speed>3 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
 
-- **Jets de sauvegarde** Con +6, Int +8, Sag +6
-- **Compétences** [Histoire] +12, [Perception] +10
-- **Sens** vision dans le noir 36 m, [Perception passive] 20
-- **Langues** profond, télépathie 36 m
-- **Dangerosité** 10 (5 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +6, Int +8, Sag +6</SavingThrows>
+- **Compétences** <Abilities>[Histoire] +12, [Perception] +10</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 20</Senses>
+- **Langues** <Languages>profond, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
 
 ## Capacités
 
@@ -57,26 +57,28 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **Succion psychique (coûte 2 actions).** Une créature [charmée] par l'aboleth subit 10 (3d6) dégâts psychiques et l'aboleth récupère un nombre de points de vie égal aux dégâts subis par la créature.
 
 
-[][MonsterHD]
+</Monster>
 
-# Abothid
-- Aberration de taille M, loyal mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 104 (16d8+32)
-- **Vitesse** 9 m au sol
+<Monster>
+
+# <Name>Abothid</Name>
+- <Type>Aberration</Type> de taille <Size>M</Size>, <Alignment>loyal mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>104 (16d8+32)</HitPoints>
+- **Vitesse** <Speed>9 m au sol</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|15 (+2)|18 (+4)|13 (+1)|14 (+2)|
 
-- **Jets de sauvegarde** Int +7, Sag +4, Cha +5
-- **Compétences** [Intimidation] +7, [Perception] +6, [Perspicacité] +6
-- **Résistance aux dégâts** acide et froid
-- **Vulnérabilité aux dégâts** feu
-- **Immunité contre les dégâts** de poison
-- **Sens** vision dans le noir (18 m) ; [Perception passive] 16
-- **Langue** Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine
-- **Dangerosité** 7 (2 900 XP)
+- **Jets de sauvegarde** <SavingThrows>Int +7, Sag +4, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Intimidation] +7, [Perception] +6, [Perspicacité] +6</Abilities>
+- **Résistance aux dégâts** <DamageResistances>acide et froid</DamageResistances>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>feu</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Sens** <Senses>vision dans le noir (18 m) ; [Perception passive] 16</Senses>
+- **Langue** <Languages>Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine</Languages>
+- **Dangerosité** <Challenge>7 (2 900 XP)</Challenge>
 
 ## Capacités
 
@@ -107,25 +109,27 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le [j
 **_Absorption psychique._** L'abothid peut se nourrir du psychisme d'une cible asservie située à 18 mètres ou moins pour récupérer des points de vie. Il occasionne ainsi 10 (3d6) points de dégâts psychiques à sa cible et récupère un nombre de points de vie équivalent. Cette aptitude utilise toutes les actions de l'abothid à ce tour.
 
 
-[][MonsterHD]
+</Monster>
 
-# Âme-en-peine
-- AltName: [Wraith](monsters_vo.md#wraith)
-- Mort-vivant de taille M, Neutre Mauvais
-- **Classe d'armure** 13
-- **Points de vie** 67 (9d8+27)
-- **Vitesse** 0 m, vol 18 m (vol stationnaire)
+<Monster>
+
+# <Name>Âme-en-peine</Name>
+- <AltName>[Wraith](monsters_vo.md#wraith)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>67 (9d8+27)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 18 m (vol stationnaire)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
 
-- **Résistance aux dégâts** d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [à terre], [charmé], [empoigné], [empoisonné], [épuisé], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** celles qu'elle connaissait de son vivant
-- **Dangerosité** 5 (1 800 PX)
+- **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [empoigné], [empoisonné], [épuisé], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>celles qu'elle connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -142,22 +146,24 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de 
 **_Création de spectre._** L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
 
 
-[][MonsterHD]
+</Monster>
 
-# Amphibe
-- Aberration de taille M, loyal mauvais
-- **Classe d'armure** 12
-- **Points de vie** 71 (13d8+13)
-- **Vitesse** 9 m au sol ; nage 9 m
+<Monster>
+
+# <Name>Amphibe</Name>
+- <Type>Aberration</Type> de taille <Size>M</Size>, <Alignment>loyal mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>71 (13d8+13)</HitPoints>
+- **Vitesse** <Speed>9 m au sol ; nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|13 (+1)|10 (+0)|10 (+0)| 4 (-3)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Sens** vision dans le noir 18 m ; [Perception passive] 13
-- **Langue** commun des profondeurs
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m ; [Perception passive] 13</Senses>
+- **Langue** <Languages>commun des profondeurs</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -180,26 +186,28 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Déva
-- AltName: [Deva](monsters_vo.md#deva)
-- Céleste de taille M, Loyal Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 136 (16d8+64)
-- **Vitesse** 9 m, vol 27 m
+<Monster>
+
+# <Name>Déva</Name>
+- <AltName>[Deva](monsters_vo.md#deva)</AltName>
+- <Type>Céleste</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>136 (16d8+64)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 27 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
 
-- **Jets de sauvegarde** Sag +9, Cha +9
-- **Compétences** [Perception] +9, [Perspicacité] +9
-- **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé] et [épuisé]
-- **Sens** vision dans le noir 36 m, [Perception passive] 19
-- **Langues** toutes, télépathie 36 m
-- **Dangerosité** 10 (5 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Sag +9, Cha +9</SavingThrows>
+- **Compétences** <Abilities>[Perception] +9, [Perspicacité] +9</Abilities>
+- **Résistance aux dégâts** <DamageResistances>radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 19</Senses>
+- **Langues** <Languages>toutes, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
 
 ## Capacités
 
@@ -228,26 +236,28 @@ Une fois métamorphosé, le déva conserve ses statistiques de jeu et sa capacit
 _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Planétar
-- AltName: [Planetar](monsters_vo.md#planetar)
-- Céleste de taille G, Loyal Bon
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 200 (16d10+112)
-- **Vitesse** 12 m, vol 36 m
+<Monster>
+
+# <Name>Planétar</Name>
+- <AltName>[Planetar](monsters_vo.md#planetar)</AltName>
+- <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>200 (16d10+112)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 36 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
 
-- **Jets de sauvegarde** Con +12, Sag +11, Cha +12
-- **Compétences** [Perception] +11
-- **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé] et [épuisé]
-- **Sens** vision parfaite 36 m, [Perception passive] 21
-- **Langues** toutes, télépathie 36 m
-- **Dangerosité** 16 (15 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +12, Sag +11, Cha +12</SavingThrows>
+- **Compétences** <Abilities>[Perception] +11</Abilities>
+- **Résistance aux dégâts** <DamageResistances>radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 21</Senses>
+- **Langues** <Languages>toutes, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>16 (15 000 PX)</Challenge>
 
 ## Capacités
 
@@ -276,27 +286,29 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Solar
-- AltName: [Solar](monsters_vo.md#solar)
-- Céleste de taille G, Loyal Bon
-- **Classe d'armure** 21 (armure naturelle)
-- **Points de vie** 243 (18d10+144)
-- **Vitesse** 15 m, vol 45 m
+<Monster>
+
+# <Name>Solar</Name>
+- <AltName>[Solar](monsters_vo.md#solar)</AltName>
+- <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>21 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>243 (18d10+144)</HitPoints>
+- **Vitesse** <Speed>15 m, vol 45 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
 
-- **Jets de sauvegarde** Int +14, Sag +14, Cha +17 
-- **Compétence** [Perception] +14
-- **Résistance aux dégâts** radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné] et [épuisé]
-- **Sens** vision parfaite 36 m, [Perception passive] 24
-- **Langues** toutes, télépathie 36 m
-- **Dangerosité** 21 (33 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Int +14, Sag +14, Cha +17 </SavingThrows>
+- **Compétence** <Abilities>[Perception] +14</Abilities>
+- **Résistance aux dégâts** <DamageResistances>radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 24</Senses>
+- **Langues** <Languages>toutes, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>21 (33 000 PX)</Challenge>
 
 ## Capacités
 
@@ -343,22 +355,24 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 **_Téléportation._** Le solar se téléporte par magie, avec tous ses objets portés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ankheg
-- AltName: [Ankheg](monsters_vo.md#ankheg)
-- Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre]
-- **Points de vie** 39 (6d10+6)
-- **Vitesse** 9 m, fouissement 3 m
+<Monster>
+
+# <Name>Ankheg</Name>
+- <AltName>[Ankheg](monsters_vo.md#ankheg)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle), 11 quand il est [à terre]</ArmorClass>
+- **Points de vie** <HitPoints>39 (6d10+6)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|13 (+1)| 1 (-5)|13 (+1)| 6 (-2)|
 
-- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -369,25 +383,27 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 **_Aspersion acide (Recharge 6)._** L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Azer
-- AltName: [Azer](monsters_vo.md#azer)
-- Élémentaire de taille M, Loyal Neutre
-- **Classe d'armure** 17 (armure naturelle, bouclier)
-- **Points de vie** 39 (6d8+12)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Azer</Name>
+- <AltName>[Azer](monsters_vo.md#azer)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>Loyal Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>39 (6d8+12)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
 
-- **Jet de sauvegarde** Con +4
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** [Perception passive] 11
-- **Langue** ignée
-- **Dangerosité** 2 (450 PX)
+- **Jet de sauvegarde** <SavingThrows>Con +4</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langue** <Languages>ignée</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -404,23 +420,25 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'il est manié à deux mains pour effectuer une attaque au corps à corps, plus 3 (1d6) dégâts de feu.
 
 
-[][MonsterHD]
+</Monster>
 
-# Babélien
-- AltName: [Gibbering Mouther](monsters_vo.md#gibbering-mouther)
-- Aberration de taille M, neutre
-- **Classe d'armure** 9
-- **Points de vie** 67 (9d8+27)
-- **Vitesse** 3 m, nage 3 m
+<Monster>
+
+# <Name>Babélien</Name>
+- <AltName>[Gibbering Mouther](monsters_vo.md#gibbering-mouther)</AltName>
+- <Type>Aberration</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>9</ArmorClass>
+- **Points de vie** <HitPoints>67 (9d8+27)</HitPoints>
+- **Vitesse** <Speed>3 m, nage 3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- **Immunité contre l'état** [à terre]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** —
-- **Dangerosité** 2 (450 PX)
+- **Immunité contre l'état** <ConditionImmunities>[à terre]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -439,22 +457,24 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus petite, elle doit réussir un [jet de sauvegarde] de [Force] DD 10 pour ne pas être jetée [à terre]. Si la cible est tuée par ces dégâts, le babélien l'absorbe.
 
 
-[][MonsterHD]
+</Monster>
 
-# Basilic
-- AltName: [Basilisk](monsters_vo.md#basilisk)
-- Créature monstrueuse de taille M, non-alignée
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 52 (8d8+16)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Basilic</Name>
+- <AltName>[Basilisk](monsters_vo.md#basilisk)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 3 (700 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -471,24 +491,26 @@ Si le basilic voit son reflet sous une lumière vive à une distance maximale de
 _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 
-[][MonsterHD]
+</Monster>
 
-# Béhir
-- AltName: [Behir](monsters_vo.md#behir)
-- Créature monstrueuse de taille TG, Neutre Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 168 (16d12+64)
-- **Vitesse** 15 m, escalade 12 m
+<Monster>
+
+# <Name>Béhir</Name>
+- <AltName>[Behir](monsters_vo.md#behir)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>TG</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>168 (16d12+64)</HitPoints>
+- **Vitesse** <Speed>15 m, escalade 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
 
-- **Compétences** [Discrétion] +7, [Perception] +6
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision dans le noir 27 m, [Perception passive] 16
-- **Langue** draconique
-- **Dangerosité** 11 (7 200 PX)
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +6</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 27 m, [Perception passive] 16</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Actions
 
@@ -509,23 +531,25 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 **_Souffle de foudre (Recharge 5-6)._** Le béhir souffle une ligne de foudre de 6 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent effectuer un [jet de sauvegarde] de [Dextérité] DD 16 ; elles subissent 66 (12d10) dégâts de foudre en cas de [jet de sauvegarde] raté ou la moitié seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Bulette
-- AltName: [Bulette](monsters_vo.md#bulette)
-- Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 94 (9d10+45)
-- **Vitesse** 12 m, fouissement 12 m
+<Monster>
+
+# <Name>Bulette</Name>
+- <AltName>[Bulette](monsters_vo.md#bulette)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>94 (9d10+45)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Compétence** [Perception] +6
-- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 16
-- **Langue** —
-- **Dangerosité** 5 (1 800 PX)
+- **Compétence** <Abilities>[Perception] +6</Abilities>
+- **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 16</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -542,23 +566,25 @@ _Touché :_ 30 (4d12+4) dégâts perforants.
 Chacune de ces créatures doit réussir un [jet de sauvegarde] de [Force] ou de [Dextérité] DD 16 (au choix de la cible), sans quoi elle se retrouve [à terre] et subit 14 (3d6+4) dégâts contondants plus 14 (3d6+4) dégâts tranchants. En cas de [jet de sauvegarde] réussi, la créature subit la moitié des dégâts seulement, elle n'est pas [à terre] et elle est repoussée sur 1,50 mètre hors de l'emplacement de la bulette vers un emplacement inoccupé de son choix. S'il n'y a aucun emplacement inoccupé à portée, la créature tombe [à terre] dans l'emplacement de la bulette à la place.
 
 
-[][MonsterHD]
+</Monster>
 
-# Centaure
-- AltName: [Centaur](monsters_vo.md#centaur)
-- Créature monstrueuse de taille G, Neutre Bon
-- **Classe d'armure** 12
-- **Points de vie** 45 (6d10+12)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Centaure</Name>
+- <AltName>[Centaur](monsters_vo.md#centaur)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Bon</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|14 (+2)| 9 (-1)|13 (+1)|11 (+0)|
 
-- **Compétences** [Athlétisme] +6, [Perception] +3, [Survie] +3
-- **Sens** [Perception passive] 13
-- **Langues** elfe, sylvestre
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Athlétisme] +6, [Perception] +3, [Survie] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>elfe, sylvestre</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -581,24 +607,26 @@ _Touché :_ 9 (1d10+4) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cerbère
-- Créature monstrueuse de taille G, Neutre Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 102 (12d10+36)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Cerbère</Name>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>102 (12d10+36)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)| 5 (-3)|14 (+2)|10 (+0)|
 
-- **Compétences** [Discrétion] +5, [Perception] +10
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [assourdi], [aveuglé] et [empoisonné]
-- **Sens** vision parfaite 12 m, [Perception passive] 20
-- **Langues** —
-- **Dangerosité** 6 (2 300 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +10</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 12 m, [Perception passive] 20</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -615,23 +643,25 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 **_Déchirer._** Si le cerbère réussi plusieurs attaques de morsure sur la même cible, chaque tête tire violemment dans une direction opposée en tentant de déchirer le corps de la victime. La cible subit 7 (2d6) dégâts perforants supplémentaires par attaque réussie après la première dans le même tour.
 
 
-[][MonsterHD]
+</Monster>
 
-# Criard
-- AltName: [Shrieker](monsters_vo.md#shrieker)
-- Plante de taille M, non-alignée
-- **Classe d'armure** 5
-- **Points de vie** 13 (3d8)
-- **Vitesse** 0 m
+<Monster>
+
+# <Name>Criard</Name>
+- <AltName>[Shrieker](monsters_vo.md#shrieker)</AltName>
+- <Type>Plante</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>5</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d8)</HitPoints>
+- **Vitesse** <Speed>0 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Immunité contre les états** [assourdi], [aveuglé] et [terrorisé]
-- **Sens** vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive] 6
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive] 6</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -642,23 +672,25 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 **_Hurlement._** Quand une lumière vive ou une créature s'approche à 9 mètres ou moins du criard, celui-ci émet un hurlement audible jusqu'à 90 mètres. Le criard continue de hurler jusqu'à ce que la source de gêne se déplace hors de portée et pendant ses 1d4 prochains tours.
 
 
-[][MonsterHD]
+</Monster>
 
-# Moisissure violette
-- AltName: [Violet Fungus](monsters_vo.md#violet-fungus)
-- Plante de taille M, non-alignée
-- **Classe d'armure** 5
-- **Points de vie** 18 (4d8)
-- **Vitesse** 1,50 m
+<Monster>
+
+# <Name>Moisissure violette</Name>
+- <AltName>[Violet Fungus](monsters_vo.md#violet-fungus)</AltName>
+- <Type>Plante</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>5</ArmorClass>
+- **Points de vie** <HitPoints>18 (4d8)</HitPoints>
+- **Vitesse** <Speed>1,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Immunité contre les états** [assourdi], [aveuglé] et [terrorisé]
-- **Sens** vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive] 6
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive] 6</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -673,23 +705,25 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 _Touché :_ 4 (1d8) dégâts nécrotiques.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chimère
-- AltName: [Chimera](monsters_vo.md#chimera)
-- Créature monstrueuse de taille G, Chaotique Mauvais
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 114 (12d10+48)
-- **Vitesse** 9 m, vol 18 m
+<Monster>
+
+# <Name>Chimère</Name>
+- <AltName>[Chimera](monsters_vo.md#chimera)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
 
-- **Compétence** [Perception] +8
-- **Sens** vision dans le noir 18 m, [Perception passive] 18
-- **Langues** comprend le draconique mais ne peut pas parler
-- **Dangerosité** 6 (2 300 PX)
+- **Compétence** <Abilities>[Perception] +8</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 18</Senses>
+- **Langues** <Languages>comprend le draconique mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Actions
 
@@ -710,25 +744,27 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 **_Souffle de feu (Recharge 5-6)._** La tête de dragon souffle un cône de feu de 4,50 mètres. Les créatures dans le cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 15 ; elles subissent 31 (7d8) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chuul
-- AltName: [Chuul](monsters_vo.md#chuul)
-- Aberration de taille G, Chaotique Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 93 (11d10+33)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Chuul</Name>
+- <AltName>[Chuul](monsters_vo.md#chuul)</AltName>
+- <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>93 (11d10+33)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 5 (-3)|11 (+0)| 5 (-3)|
 
-- **Compétence** [Perception] +4
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** comprend le profond mais ne peut pas parler
-- **Dangerosité** 4 (1 100 PX)
+- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>comprend le profond mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -749,22 +785,24 @@ _Touché :_ 11 (2d6+4) dégâts contondants. La cible est [empoignée] (évasion
 La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cockatrice
-- AltName: [Cockatrice](monsters_vo.md#cockatrice)
-- Créature monstrueuse de taille P, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 27 (6d6+6)
-- **Vitesse** 6 m, vol 12 m
+<Monster>
+
+# <Name>Cockatrice</Name>
+- <AltName>[Cockatrice](monsters_vo.md#cockatrice)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>27 (6d6+6)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|12 (+1)|12 (+1)| 2 (-4)|13 (+1)| 5 (-3)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langue** —
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Actions
 
@@ -773,25 +811,27 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [
 _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas être [pétrifiée] par magie. En cas de [jet de sauvegarde] raté, le corps de la créature commence à se transformer en pierre et elle est [entravée]. Elle doit retenter le [jet de sauvegarde] à la fin de son prochain tour. En cas de réussite, l'effet prend fin. En cas d'échec, la créature est [pétrifiée] pendant 24 heures.
 
 
-[][MonsterHD]
+</Monster>
 
-# Couatl
-- AltName: [Couatl](monsters_vo.md#couatl)
-- Céleste de taille M, Loyal Bon
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 97 (13d8+39)
-- **Vitesse** 9 m, vol 27 m
+<Monster>
+
+# <Name>Couatl</Name>
+- <AltName>[Couatl](monsters_vo.md#couatl)</AltName>
+- <Type>Céleste</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>97 (13d8+39)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 27 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
 
-- **Jets de sauvegarde** Con +5, Sag +7, Cha +6
-- **Résistance aux dégâts** radiants
-- **Immunité contre les dégâts** psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Sens** vision parfaite 36 m, [Perception passive] 15
-- **Langues** toutes, télépathie 36 m
-- **Dangerosité** 4 (1 100 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +5, Sag +7, Cha +6</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>radiants</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>toutes, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -826,23 +866,25 @@ Elle est [inconsciente] tant que le poison fait effet.
 Une autre créature peut effectuer une action pour secouer la cible afin qu'elle reprenne connaissance.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vétéran demi-dragon rouge
-- Humanoïde (humain) de taille M, n'importe quel alignement
-- **Classe d'armure** 18 (harnois)
-- **Points de vie** 65 (10d8+20)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Vétéran demi-dragon rouge</Name>
+- <Type>Humanoïde (humain)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
+- **Points de vie** <HitPoints>65 (10d8+20)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Compétences** [Athlétisme] +5, [Perception] +2
-- **Résistance aux dégâts** de feu
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 12
-- **Langues** commun, draconique
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Athlétisme] +5, [Perception] +2</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de feu</DamageResistances>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Actions
 
@@ -863,26 +905,28 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 **_Souffle de feu (Recharge 5-6)._** Le vétéran souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 15 ; elles subissent 24 (7d6) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Balor
-- AltName: [Balor](monsters_vo.md#balor)
-- Fiélon (démon) de taille TG, Chaotique Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 262 (21d12+126)
-- **Vitesse** 12 m, vol 24 m
+<Monster>
+
+# <Name>Balor</Name>
+- <AltName>[Balor](monsters_vo.md#balor)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>262 (21d12+126)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
 
-- **Jets de sauvegarde** For +14, Con +12, Sag +9, Cha +12
-- **Résistance aux dégâts** de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision parfaite 36 m, [Perception passive] 13
-- **Langue** abyssal, télépathie 36 m
-- **Dangerosité** 19 (22 000 PX)
+- **Jets de sauvegarde** <SavingThrows>For +14, Con +12, Sag +9, Cha +12</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 13</Senses>
+- **Langue** <Languages>abyssal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>19 (22 000 PX)</Challenge>
 
 ## Capacités
 
@@ -909,25 +953,27 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 **_Téléportation._** Le balor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dretch
-- AltName: [Dretch](monsters_vo.md#dretch)
-- Fiélon (démon) de taille P, Chaotique Mauvais
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 18 (4d6+4)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Dretch</Name>
+- <AltName>[Dretch](monsters_vo.md#dretch)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>P</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>18 (4d6+4)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|11 (+0)|12 (+1)| 5 (-3)| 8 (-1)| 3 (-4)|
 
-- **Résistance aux dégâts** de feu, de foudre et de froid
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langue** abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
-- **Dangerosité** 1/4 (50 PX)
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre et de froid</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langue** <Languages>abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -944,26 +990,28 @@ _Touché :_ 3 (1d6) dégâts perforants.
 **_Nuage fétide (1/jour)._** Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dans la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas être [empoisonnées] jusqu'au début de leur prochain tour. Les créatures [empoisonnées] de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.
 
 
-[][MonsterHD]
+</Monster>
 
-# Glabrezu
-- AltName: [Glabrezu](monsters_vo.md#glabrezu)
-- Fiélon (démon) de taille G, Chaotique Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 157 (15d10+75)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Glabrezu</Name>
+- <AltName>[Glabrezu](monsters_vo.md#glabrezu)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>157 (15d10+75)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
 
-- **Jets de sauvegarde** For +9, Con +9, Sag +7, Cha +7
-- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision parfaite 36 m, [Perception passive] 13
-- **Langues** abyssal, télépathie 36 m
-- **Dangerosité** 9 (5 000 PX)
+- **Jets de sauvegarde** <SavingThrows>For +9, Con +9, Sag +7, Cha +7</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>abyssal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Capacités
 
@@ -988,26 +1036,28 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature de t
 _Touché :_ 7 (2d4+2) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hezrou
-- AltName: [Hezrou](monsters_vo.md#hezrou)
-- Fiélon (démon) de taille G, Chaotique Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 136 (13d10+65)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Hezrou</Name>
+- <AltName>[Hezrou](monsters_vo.md#hezrou)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>136 (13d10+65)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|17 (+3)|20 (+5)| 5 (-3)|12 (+1)|13 (+1)|
 
-- **Jets de sauvegarde** For +7, Con +8, Sag +4
-- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 11
-- **Langues** abyssal, télépathie 36 m
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>For +7, Con +8, Sag +4</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>abyssal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -1030,26 +1080,28 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 _Touché :_ 15 (2d10+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Marilith
-- AltName: [Marilith](monsters_vo.md#marilith)
-- Fiélon (démon) de taille G, Chaotique Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 189 (18d10+90)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Marilith</Name>
+- <AltName>[Marilith](monsters_vo.md#marilith)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>189 (18d10+90)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
 
-- **Jets de sauvegarde** For +9, Con +10, Sag +8, Cha +10
-- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision parfaite 36 m, [Perception passive] 13
-- **Langues** abyssal, télépathie 36 m
-- **Dangerosité** 16 (15 000 PX)
+- **Jets de sauvegarde** <SavingThrows>For +9, Con +10, Sag +8, Cha +10</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>abyssal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>16 (15 000 PX)</Challenge>
 
 ## Capacités
 
@@ -1080,26 +1132,28 @@ _Touché :_ 15 (2d10+4) dégâts contondants. La cible est [empoignée] (évasio
 Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nalfeshnie
-- AltName: [Nalfeshnee](monsters_vo.md#nalfeshnee)
-- Fiélon (démon) de taille G, Chaotique Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 184 (16d10+96)
-- **Vitesse** 6 m, vol 9 m
+<Monster>
+
+# <Name>Nalfeshnie</Name>
+- <AltName>[Nalfeshnee](monsters_vo.md#nalfeshnee)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>184 (16d10+96)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
 
-- **Jets de sauvegarde** Con +11, Int +9, Sag +6, Cha +7
-- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre des dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision parfaite 36 m, [Perception passive] 11
-- **Langues** abyssal, télépathie 36 m
-- **Dangerosité** 13 (10 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +11, Int +9, Sag +6, Cha +7</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre des dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>abyssal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>13 (10 000 PX)</Challenge>
 
 ## Capacités
 
@@ -1126,26 +1180,28 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 **_Téléportation._** Le nalfeshnie se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Quasit
-- AltName: [Quasit](monsters_vo.md#quasit)
-- Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
-- **Classe d'armure** 13
-- **Points de vie** 7 (3d4)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Quasit</Name>
+- <AltName>[Quasit](monsters_vo.md#quasit)</AltName>
+- <Type>Fiélon (démon, métamorphe)</Type> de taille <Size>TP</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>7 (3d4)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
 
-- **Compétence** [Discrétion] +5
-- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 10
-- **Langues** abyssal, commun
-- **Dangerosité** 1 (200 PX)
+- **Compétence** <Abilities>[Discrétion] +5</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>abyssal, commun</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -1168,26 +1224,28 @@ La cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours e
 **_Invisibilité._** Le quasit devient [invisible] par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-[][MonsterHD]
+</Monster>
 
-# Vrock
-- AltName: [Vrock](monsters_vo.md#vrock)
-- Fiélon (démon) de taille G, Chaotique Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 104 (11d10+44)
-- **Vitesse** 12 m, vol 18 m
+<Monster>
+
+# <Name>Vrock</Name>
+- <AltName>[Vrock](monsters_vo.md#vrock)</AltName>
+- <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>104 (11d10+44)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
 
-- **Jets de sauvegarde** Dex +5, Sag +4, Cha +2
-- **Résistance aux dégâts** de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 11
-- **Langues** abyssal, télépathie 36 m
-- **Dangerosité** 6 (2 300 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Sag +4, Cha +2</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>abyssal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -1212,23 +1270,25 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 14 pour ne pas être [empoisonnées]. Une cible subit 5 (1d10) dégâts de poison au début de chacun de ses tours tant qu'elle est [empoisonnée] de cette façon. Une cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
 
 
-[][MonsterHD]
+</Monster>
 
-# Destrier noir
-- AltName: [Nightmare](monsters_vo.md#nightmare)
-- Fiélon de taille G, Neutre Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 68 (8d10+24)
-- **Vitesse** 18 m, vol 27 m
+<Monster>
+
+# <Name>Destrier noir</Name>
+- <AltName>[Nightmare](monsters_vo.md#nightmare)</AltName>
+- <Type>Fiélon</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>68 (8d10+24)</HitPoints>
+- **Vitesse** <Speed>18 m, vol 27 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
-- **Immunité contre les dégâts** de feu
-- **Sens** [Perception passive] 11
-- **Langues** comprend l'abyssal, le commun et l'infernal mais ne peut pas parler
-- **Dangerosité** 3 (700 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>comprend l'abyssal, le commun et l'infernal mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -1245,23 +1305,25 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dévoreur arcanique
-- Aberration de taille G, Neutre Mauvais
-- **Classe d'armure** 15
-- **Points de vie** 212 (25d10+75)
-- **Vitesse** 1,50 m au sol ; 9 mètres en vol
+<Monster>
+
+# <Name>Dévoreur arcanique</Name>
+- <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15</ArmorClass>
+- **Points de vie** <HitPoints>212 (25d10+75)</HitPoints>
+- **Vitesse** <Speed>1,50 m au sol ; 9 mètres en vol</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|14 (+2)|16 (+3)|15 (+2)|14 (+2)|18 (+4)|
 
-- **Compétences** [Perception] +4
-- **Immunité contre les états** [aveuglé], [à terre]
-- **Sens** vision aveugle 18 m (aveugle au-delà) ; [Perception passive] 14
-- **Langues** profond, commun des profondeurs, télépathie (36 m)
-- **Dangerosité** 13 (10 000 XP)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Immunité contre les états** <ConditionImmunities>[aveuglé], [à terre]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà) ; [Perception passive] 14</Senses>
+- **Langues** <Languages>profond, commun des profondeurs, télépathie (36 m)</Languages>
+- **Dangerosité** <Challenge>13 (10 000 XP)</Challenge>
 
 ## Capacités
 
@@ -1316,27 +1378,29 @@ Chaque créature se trouvant dans un cône de 18 mètres doit effectuer un [jet 
 Relancez deux fois le dé et rejouez tous les 8.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diable barbelé
-- AltName: [Barbed Devil](monsters_vo.md#barbed-devil)
-- Fiélon (diable) de taille M, Loyal Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 110 (13d8+52)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Diable barbelé</Name>
+- <AltName>[Barbed Devil](monsters_vo.md#barbed-devil)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>110 (13d8+52)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
 
-- **Jets de sauvegarde** For +6, Con +7, Sag +5, Cha +5
-- **Compétences** [Perception] +8, [Perspicacité] +5, [Supercherie] +5
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 18
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 5 (1 800 PX)
+- **Jets de sauvegarde** <SavingThrows>For +6, Con +7, Sag +5, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Perception] +8, [Perspicacité] +5, [Supercherie] +5</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 18</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -1363,26 +1427,28 @@ _Touché :_ 10 (3d6) dégâts de feu. La cible prend également feu si c'est un 
 _Touché :_ 10 (2d6+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diable barbu
-- AltName: [Bearded Devil](monsters_vo.md#bearded-devil)
-- Fiélon (diable) de taille M, Loyal Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 52 (8d8+16)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Diable barbu</Name>
+- <AltName>[Bearded Devil](monsters_vo.md#bearded-devil)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|15 (+2)|15 (+2)| 9 (-1)|11 (+0)|11 (+0)|
 
-- **Jets de sauvegarde** For +5, Con +4, Sag +2
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 10
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 3 (700 PX)
+- **Jets de sauvegarde** <SavingThrows>For +5, Con +4, Sag +2</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -1405,26 +1471,28 @@ _Touché :_ 6 (1d8+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas perdre 5 (1d10) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 5 (1d10). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse (Médecine)] DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diable cornu
-- AltName: [Horned Devil](monsters_vo.md#horned-devil)
-- Fiélon (diable) de taille G, Loyal Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 178 (17d10+85)
-- **Vitesse** 6 m, vol 18 m
+<Monster>
+
+# <Name>Diable cornu</Name>
+- <AltName>[Horned Devil](monsters_vo.md#horned-devil)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
 
-- **Jets de sauvegarde** For +10, Dex +7, Sag +7, Cha +7
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 13
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 11 (7 200 PX)
+- **Jets de sauvegarde** <SavingThrows>For +10, Dex +7, Sag +7, Cha +7</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 13</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Capacités
 
@@ -1449,26 +1517,28 @@ _Touché :_ 14 (4d6) dégâts de feu. La cible prend également feu si c'est un 
 _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 17 pour ne pas perdre 10 (3d6) points de vie au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 10 (3d6). N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de [Sagesse (Médecine)] DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diable gelé
-- AltName: [Ice Devil](monsters_vo.md#ice-devil)
-- Fiélon (diable) de taille G, Loyal Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 180 (19d10+76)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Diable gelé</Name>
+- <AltName>[Ice Devil](monsters_vo.md#ice-devil)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>180 (19d10+76)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
 
-- **Jets de sauvegarde** Dex +7, Con +9, Sag +7, Cha +9
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu, de froid et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 12
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 14 (11 500 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +9, Sag +7, Cha +9</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu, de froid et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 12</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>14 (11 500 PX)</Challenge>
 
 ## Capacités
 
@@ -1507,26 +1577,28 @@ Si une section est détruite, elle est remplacée par une zone d'air froid dans 
 _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diable des chaînes
-- AltName: [Chain Devil](monsters_vo.md#chain-devil)
-- Fiélon (diable) de taille M, Loyal Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 85 (10d8+40)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Diable des chaînes</Name>
+- <AltName>[Chain Devil](monsters_vo.md#chain-devil)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>85 (10d8+40)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
 
-- **Jets de sauvegarde** Con +7, Sag +4, Cha +5
-- **Résistances aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 11
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +7, Sag +4, Cha +5</SavingThrows>
+- **Résistances aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -1553,27 +1625,29 @@ _Touché :_ 11 (2d6+4) dégâts tranchants. La cible est [empoignée] (évasion 
 Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde] de [Sagesse] DD 14 pour ne pas être [terrorisée] jusqu'à la fin de son tour.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diable osseux
-- AltName: [Bone Devil](monsters_vo.md#bone-devil)
-- Fiélon (diable) de taille G, Loyal Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 142 (15d10+60)
-- **Vitesse** 12 m, vol 12 m
+<Monster>
+
+# <Name>Diable osseux</Name>
+- <AltName>[Bone Devil](monsters_vo.md#bone-devil)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>142 (15d10+60)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
 
-- **Jets de sauvegarde** Int +5, Sag +6, Cha +7
-- **Compétences** [Perspicacité] +6, [Supercherie] +7
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 12
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 9 (5 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Int +5, Sag +6, Cha +7</SavingThrows>
+- **Compétences** <Abilities>[Perspicacité] +6, [Supercherie] +7</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Capacités
 
@@ -1594,26 +1668,28 @@ _Touché :_ 13 (2d8+4) dégâts perforants plus 17 (5d6) dégâts de poison, et 
 _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diablotin
-- AltName: [Imp](monsters_vo.md#imp)
-- Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
-- **Classe d'armure** 13
-- **Points de vie** 10 (3d4+3)
-- **Vitesse** 6 m, vol 12 m
+<Monster>
+
+# <Name>Diablotin</Name>
+- <AltName>[Imp](monsters_vo.md#imp)</AltName>
+- <Type>Fiélon (diable, métamorphe)</Type> de taille <Size>TP</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>10 (3d4+3)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
 
-- **Compétences** [Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 11
-- **Langues** commun, infernal
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>commun, infernal</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -1634,26 +1710,28 @@ _Touché :_ 5 (1d4+3) dégâts perforants et la cible doit effectuer un [jet de 
 Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-[][MonsterHD]
+</Monster>
 
-# Diantrefosse
-- AltName: [Pit Fiend](monsters_vo.md#pit-fiend)
-- Fiélon (diable) de taille G, Loyal Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 300 (24d10+168)
-- **Vitesse** 9 m, vol 18 m
+<Monster>
+
+# <Name>Diantrefosse</Name>
+- <AltName>[Pit Fiend](monsters_vo.md#pit-fiend)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>300 (24d10+168)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
 
-- **Jets de sauvegarde** Dex +8, Con +13, Sag +10
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision parfaite 36 m, [Perception passive] 14
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 20 (25 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +8, Con +13, Sag +10</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>20 (25 000 PX)</Challenge>
 
 ## Capacités
 
@@ -1690,26 +1768,28 @@ _Touché :_ 22 (4d6+8) dégâts perforants. La cible doit réussir un [jet de sa
 _Touché :_ 24 (3d10+8) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Érinye
-- AltName: [Erinyes](monsters_vo.md#erinyes)
-- Fiélon (diable) de taille M, Loyal Mauvais
-- **Classe d'armure** 18 (harnois)
-- **Points de vie** 153 (18d8+72)
-- **Vitesse** 9 m, vol 18 m
+<Monster>
+
+# <Name>Érinye</Name>
+- <AltName>[Erinyes](monsters_vo.md#erinyes)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
+- **Points de vie** <HitPoints>153 (18d8+72)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
 
-- **Jets de sauvegarde** Dex +7, Con +8, Sag +6, Cha +8
-- **Résistance aux dégâts** de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision parfaite 36 m, [Perception passive] 12
-- **Langue** infernal, télépathie 36 m
-- **Dangerosité** 12 (8 400 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +8, Sag +6, Cha +8</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 12</Senses>
+- **Langue** <Languages>infernal, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>12 (8 400 PX)</Challenge>
 
 ## Capacités
 
@@ -1734,25 +1814,27 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 **_Parade._** L'érynie ajoute 4 à sa CA lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-[][MonsterHD]
+</Monster>
 
-# Lémure
-- AltName: [Lemure](monsters_vo.md#lemure)
-- Fiélon (diable) de taille M, Loyal Mauvais
-- **Classe d'armure** 7
-- **Points de vie** 13 (3d8)
-- **Vitesse** 4,50 m
+<Monster>
+
+# <Name>Lémure</Name>
+- <AltName>[Lemure](monsters_vo.md#lemure)</AltName>
+- <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>7</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d8)</HitPoints>
+- **Vitesse** <Speed>4,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)| 5 (-3)|11 (+0)| 1 (-5)|11 (+0)| 3 (-4)|
 
-- **Résistance aux dégâts** de froid
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre les états** [charmé], [terrorisé] et [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 10
-- **Langues** comprend l'infernal mais ne peut pas parler
-- **Dangerosité** 0 (10 PX)
+- **Résistance aux dégâts** <DamageResistances>de froid</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé] et [empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend l'infernal mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -1767,22 +1849,24 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Diaspaad
-- Aberration de taille G, Chaotique Neutre
-- **Classe d'armure** 14
-- **Points de vie** 199 (19d12+76)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Diaspaad</Name>
+- <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Chaotique Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Points de vie** <HitPoints>199 (19d12+76)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|18 (+4)| 6 (-2)|10 (+0)| 6 (-2)|
 
-- **Résistance aux dégâts** voir description
-- **Sens** vision dans le noir (18 m)
-- **Langue** diaspaad, répète des mots sans les comprendre
-- **Dangerosité** 10 (5 900 XP)
+- **Résistance aux dégâts** <DamageResistances>voir description</DamageResistances>
+- **Sens** <Senses>vision dans le noir (18 m)</Senses>
+- **Langue** <Languages>diaspaad, répète des mots sans les comprendre</Languages>
+- **Dangerosité** <Challenge>10 (5 900 XP)</Challenge>
 
 ## Capacités
 
@@ -1807,23 +1891,25 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 **_Hâte (Recharge 5-6)._** Jusqu'à la fin de son prochain tour, le diaspaad bénéficie d'un bonus de +2 à sa CA, il obtient l'avantage lors des [jets de sauvegarde] de [Dextérité] et il peut utiliser son attaque de coup par une action bonus.
 
 
-[][MonsterHD]
+</Monster>
 
-# Plésiosaure
-- AltName: [Plesiosaurus](monsters_vo.md#plesiosaurus)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 68 (8d10+24)
-- **Vitesse** 6 m, nage 12 m
+<Monster>
+
+# <Name>Plésiosaure</Name>
+- <AltName>[Plesiosaurus](monsters_vo.md#plesiosaurus)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>68 (8d10+24)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langue** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -1836,22 +1922,24 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 _Touché :_ 14 (3d6+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tricératops
-- AltName: [Triceratops](monsters_vo.md#triceratops)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 95 (10d12+30)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Tricératops</Name>
+- <AltName>[Triceratops](monsters_vo.md#triceratops)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>95 (10d12+30)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
 
-- **Sens** [Perception passive] 10
-- **Langue** —
-- **Dangerosité** 5 (1 800 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -1868,23 +1956,25 @@ _Touché :_ 24 (4d8+6) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tyrannosaure
-- AltName: [Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 136 (13d12+52)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Tyrannosaure</Name>
+- <AltName>[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>136 (13d12+52)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|19 (+4)| 2 (-4)|12 (+1)| 9 (-1)|
 
-- **Compétence** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langue** —
-- **Dangerosité** 8 (3 900 PX)
+- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Actions
 
@@ -1899,24 +1989,26 @@ _Touché :_ 33 (4d12+7) dégâts perforants. La cible est [empoignée] (évasion
 _Touché :_ 20 (3d8+7) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Doppleganger
-- AltName: [Doppelganger](monsters_vo.md#doppelganger)
-- Créature monstrueuse (métamorphe) de taille M, neutre
-- **Classe d'armure** 14
-- **Points de vie** 52 (8d8+16)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Doppleganger</Name>
+- <AltName>[Doppelganger](monsters_vo.md#doppelganger)</AltName>
+- <Type>Créature monstrueuse (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
 
-- **Compétences** [Perspicacité] +3, [Supercherie] +6
-- **Immunité contre l'état** [charmé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langue** commun
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Perspicacité] +3, [Supercherie] +6</Abilities>
+- **Immunité contre l'état** <ConditionImmunities>[charmé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langue** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -1939,25 +2031,27 @@ _Touché :_ 7 (1d6+4) dégâts contondants.
 Tant que la créature est à portée, le doppleganger peut continuer à lire ses pensées si sa concentration n'est pas interrompue (comme s'il se concentrait sur un sort). Pendant qu'il lit les pensées de la cible, il obtient un avantage lors des tests de [Sagesse] (Perspicacité) et de [Charisme] ([Intimidation], [Persuasion] et [Supercherie]) effectués contre elle.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon blanc vénérable
-- AltName: [Ancient White Dragon]
-- Dragon de taille Gig, Chaotique Mauvais
-- **Classe d'armure** 20 (armure naturelle)
-- **Points de vie** 333 (18d20+144)
-- **Vitesse** 12 m, fouissement 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon blanc vénérable</Name>
+- <AltName>[Ancient White Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>333 (18d20+144)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|
 
-- **Jets de sauvegarde** Dex +6, Con +14, Sag +7, Cha +8
-- **Compétences** [Discrétion] +6, [Perception] +13
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 23
-- **Langues** commun, draconique
-- **Dangerosité** 20 (25 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +14, Sag +7, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +13</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 23</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>20 (25 000 PX)</Challenge>
 
 ## Capacités
 
@@ -1996,25 +2090,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon blanc adulte
-- AltName: [Adult White Dragon]
-- Dragon de taille TG, Chaotique Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 200 (16d12+96)
-- **Vitesse** 12 m, fouissement 9 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon blanc adulte</Name>
+- <AltName>[Adult White Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>200 (16d12+96)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 9 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|10 (+0)|22 (+6)| 8 (-1)|12 (+1)|12 (+1)|
 
-- **Jets de sauvegarde** Dex +5, Con +11, Sag +6, Cha +6
-- **Compétences** [Discrétion] +5, [Perception] +11
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21
-- **Langues** commun, draconique
-- **Dangerosité** 13 (10 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +11, Sag +6, Cha +6</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +11</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>13 (10 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2053,25 +2149,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon blanc
-- AltName: [Young White Dragon]
-- Dragon de taille G, Chaotique Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 133 (14d10+56)
-- **Vitesse** 12 m, fouissement 6 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon blanc</Name>
+- <AltName>[Young White Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>133 (14d10+56)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 6 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|18 (+4)| 6 (-2)|11 (+0)|12 (+1)|
 
-- **Jets de sauvegarde** Dex +3, Con +7, Sag +3, Cha +4
-- **Compétences** [Discrétion] +3, [Perception] +6
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16
-- **Langues** commun, draconique
-- **Dangerosité** 6 (2 300 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +7, Sag +3, Cha +4</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -2092,25 +2190,27 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 **_Souffle de glace (Recharge 5-6)._** Le dragon souffle de la glace sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 15 ; elles subissent 45 (10d8) dégâts de froid en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet blanc
-- AltName: [White Dragon Wyrmling]
-- Dragon de taille M, Chaotique Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 32 (5d8+10)
-- **Vitesse** 9 m, fouissement 4,50 m, nage 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet blanc</Name>
+- <AltName>[White Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 4,50 m, nage 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|10 (+0)|14 (+2)| 5 (-3)|10 (+0)|11 (+0)|
 
-- **Jets de sauvegarde** Dex +2, Con +4, Sag +2, Cha +2
-- **Compétences** [Discrétion] +2, [Perception] +4
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +2, Con +4, Sag +2, Cha +2</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -2121,25 +2221,27 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 **_Souffle de glace (Recharge 5-6)._** Le dragon souffle de la glace sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 12 ; elles subissent 22 (5d8) dégâts de froid en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon bleu vénérable
-- AltName: [Ancient Blue Dragon]
-- Dragon de taille Gig, Loyal Mauvais
-- **Classe d'armure** 22 (armure naturelle)
-- **Points de vie** 481 (26d20+208)
-- **Vitesse** 12 m, fouissement 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon bleu vénérable</Name>
+- <AltName>[Ancient Blue Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>481 (26d20+208)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
 
-- **Jets de sauvegarde** Dex +7, Con +15, Sag +10, Cha +12
-- **Compétences** [Discrétion] +7, [Perception] +17
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27
-- **Langues** commun, draconique
-- **Dangerosité** 23 (50 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +15, Sag +10, Cha +12</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +17</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>23 (50 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2176,25 +2278,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon bleu adulte
-- AltName: [Adult Blue Dragon]
-- Dragon de taille TG, Loyal Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 225 (18d12+108)
-- **Vitesse** 12 m, fouissement 9 m, vol 24 m
+<Monster>
+
+# <Name>Dragon bleu adulte</Name>
+- <AltName>[Adult Blue Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>225 (18d12+108)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 9 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +5, Con +11, Sag +7, Cha +9
-- **Compétences** [Discrétion] +5, [Perception] +12
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22
-- **Langues** commun, draconique
-- **Dangerosité** 16 (15 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +11, Sag +7, Cha +9</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +12</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>16 (15 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2231,25 +2335,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon bleu
-- AltName: [Young Blue Dragon]
-- Dragon de taille G, Loyal Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 152 (16d10+64)
-- **Vitesse** 12 m, fouissement 6 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon bleu</Name>
+- <AltName>[Young Blue Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>152 (16d10+64)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 6 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 
-- **Jets de sauvegarde** Dex +4, Con +8, Sag +5, Cha +7
-- **Compétences** [Discrétion] +4, [Perception] +9
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 19
-- **Langues** commun, draconique
-- **Dangerosité** 9 (5 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +8, Sag +5, Cha +7</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +9</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 19</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Actions
 
@@ -2266,25 +2372,27 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 **_Souffle de foudre (Recharge 5-6)._** Le dragon souffle de la foudre sur une ligne de 18 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 16 ; elles subissent 55 (10d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet bleu
-- AltName: [Blue Dragon Wyrmling]
-- Dragon de taille M, Loyal Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 52 (8d8+16)
-- **Vitesse** 9 m, fouissement 4,50 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet bleu</Name>
+- <AltName>[Blue Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 4,50 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +2, Con +4, Sag +2, Cha +4
-- **Compétences** [Discrétion] +2, [Perception] +4
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 3 (700 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +2, Con +4, Sag +2, Cha +4</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Actions
 
@@ -2295,25 +2403,27 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 **_Souffle de foudre (Recharge 5-6)._** Le dragon souffle de la foudre sur une ligne de 9 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 12 ; elles subissent 22 (4d10) dégâts de foudre en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon noir vénérable
-- AltName: [Ancient Black Dragon]
-- Dragon de taille Gig, Chaotique Mauvais
-- **Classe d'armure** 22 (armure naturelle)
-- **Points de vie** 367 (21d20+147)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon noir vénérable</Name>
+- <AltName>[Ancient Black Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>367 (21d20+147)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +9, Con +14, Sag +9, Cha +11
-- **Compétences** [Discrétion] +9, [Perception] +16
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26
-- **Langues** commun, draconique
-- **Dangerosité** 21 (33 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +9, Con +14, Sag +9, Cha +11</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +9, [Perception] +16</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>21 (33 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2350,25 +2460,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat violemment des ailes. Les créatures situées à 4,50 mètres ou moins de lui doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 23 pour ne pas subir 15 (2d6+8) dégâts contondants et être jetées [à terre]. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol. Détecter. Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon noir adulte
-- AltName: [Adult Black Dragon]
-- Dragon de taille TG, Chaotique Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 195 (17d12+85)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon noir adulte</Name>
+- <AltName>[Adult Black Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>195 (17d12+85)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
 
-- **Jets de sauvegarde** Dex +7, Con +10, Sag +6, Cha +8
-- **Compétences** [Discrétion] +7, [Perception] +11
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21
-- **Langues** commun, draconique
-- **Dangerosité** 14 (11 500 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +10, Sag +6, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +11</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>14 (11 500 PX)</Challenge>
 
 ## Capacités
 
@@ -2407,25 +2519,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon noir
-- AltName: [Young Black Dragon]
-- Dragon de taille G, Chaotique Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 127 (15d10+45)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon noir</Name>
+- <AltName>[Young Black Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>127 (15d10+45)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +5, Con +6, Sag +3, Cha +5
-- **Compétences** [Discrétion] +5, [Perception] +6
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16
-- **Langues** commun, draconique
-- **Dangerosité** 7 (2 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +6, Sag +3, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +6</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
 
 ## Capacités
 
@@ -2446,25 +2560,27 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 9 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 14 ; elles subissent 49 (11d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet noir
-- AltName: [Black Dragon Wyrmling]
-- Dragon de taille M, Chaotique Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 33 (6d8+6)
-- **Vitesse** 9 m, nage 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet noir</Name>
+- <AltName>[Black Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
 
-- **Jets de sauvegarde** Dex +4, Con +3, Sag +2, Cha +3
-- **Compétences** [Discrétion] +4, [Perception] +4
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +3, Sag +2, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -2479,25 +2595,27 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 **_Souffle d'acide (Recharge 5-6)._** Le dragon souffle de l'acide sur une ligne de 4,50 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 11 ; elles subissent 22 (5d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon rouge vénérable
-- AltName: [Ancient Red Dragon]
-- Dragon de taille Gig, Chaotique Mauvais
-- **Classe d'armure** 22 (armure naturelle)
-- **Points de vie** 546 (28d20+252)
-- **Vitesse** 12 m, escalade 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon rouge vénérable</Name>
+- <AltName>[Ancient Red Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>546 (28d20+252)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
 
-- **Jets de sauvegarde** Dex +7, Con +16, Sag +9, Cha +13
-- **Compétences** [Discrétion] +7, [Perception] +16
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26
-- **Langues** commun, draconique
-- **Dangerosité** 24 (62 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +16, Sag +9, Cha +13</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +16</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>24 (62 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2534,25 +2652,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon rouge adulte
-- AltName: [Adult Red Dragon]
-- Dragon de taille TG, Chaotique Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 256 (19d12+133)
-- **Vitesse** 12 m, escalade 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon rouge adulte</Name>
+- <AltName>[Adult Red Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>256 (19d12+133)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
 
-- **Jets de sauvegarde** Dex +6, Con +13, Sag +7, Cha +11
-- **Compétences** [Discrétion] +6, [Perception] +13
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 23
-- **Langues** commun, draconique
-- **Dangerosité** 17 (18 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +13, Sag +7, Cha +11</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +13</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 23</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>17 (18 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2589,25 +2709,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon rouge
-- AltName: [Young Red Dragon]
-- Dragon de taille G, Chaotique Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 178 (17d10+85)
-- **Vitesse** 12 m, escalade 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon rouge</Name>
+- <AltName>[Young Red Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +4, Con +9, Sag +4, Cha +8
-- **Compétences** [Discrétion] +4, [Perception] +8
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 18
-- **Langues** commun, draconique
-- **Dangerosité** 10 (5 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +9, Sag +4, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +8</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 18</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
 
 ## Actions
 
@@ -2624,25 +2746,27 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 17 ; elles subissent 56 (16d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet rouge
-- AltName: [Red Dragon Wyrmling]
-- Dragon de taille M, Chaotique Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 75 (10d8+30)
-- **Vitesse** 9 m, escalade 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet rouge</Name>
+- <AltName>[Red Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>75 (10d8+30)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +2, Con +5, Sag +2, Cha +4
-- **Compétences** [Discrétion] +2, [Perception] +4
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 4 (1 100 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +2, Con +5, Sag +2, Cha +4</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Actions
 
@@ -2653,26 +2777,28 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le dragon souffle du feu sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 13 ; elles subissent 24 (7d6) dégâts de feu en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon vert vénérable
-- AltName: [Ancient Green Dragon]
-- Dragon de taille Gig, Loyal Mauvais
-- **Classe d'armure** 21 (armure naturelle)
-- **Points de vie** 385 (22d20+154)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon vert vénérable</Name>
+- <AltName>[Ancient Green Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>21 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>385 (22d20+154)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +8, Con +14, Sag +10, Cha +11
-- **Compétences** [Discrétion] +8, [Perception] +17, [Perspicacité] +10, [Persuasion] +11, [Supercherie] +11
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27
-- **Langues** commun, draconique
-- **Dangerosité** 22 (41 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +8, Con +14, Sag +10, Cha +11</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +8, [Perception] +17, [Perspicacité] +10, [Persuasion] +11, [Supercherie] +11</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>22 (41 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2713,26 +2839,28 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon vert adulte
-- AltName: [Adult Green Dragon]
-- Dragon de taille TG, Loyal Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 207 (18d12+90)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon vert adulte</Name>
+- <AltName>[Adult Green Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>207 (18d12+90)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
 
-- **Jets de sauvegarde** Dex +6, Con +10, Sag +7, Cha +8
-- **Compétences** [Discrétion] +6, [Perception] +12, [Perspicacité] +7, [Persuasion] +8, [Supercherie] +8
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22
-- **Langues** commun, draconique
-- **Dangerosité** 15 (13 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +10, Sag +7, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +12, [Perspicacité] +7, [Persuasion] +8, [Supercherie] +8</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>15 (13 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2771,26 +2899,28 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon vert
-- AltName: [Young Green Dragon]
-- Dragon de taille G, Loyal Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 136 (16d10+48)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon vert</Name>
+- <AltName>[Young Green Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>136 (16d10+48)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +4, Con +6, Sag +4, Cha +5
-- **Compétences** [Discrétion] +4, [Perception] +7, [Supercherie] +5
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17
-- **Langues** commun, draconique
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +6, Sag +4, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +7, [Supercherie] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -2811,26 +2941,28 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon souffle du gaz [empoisonné] sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 14 ; elles subissent 42 (12d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet vert
-- AltName: [Green Dragon Wyrmling]
-- Dragon de taille M, Loyal Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 38 (7d8+7)
-- **Vitesse** 9 m, nage 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet vert</Name>
+- <AltName>[Green Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>38 (7d8+7)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 
-- **Jets de sauvegarde** Dex +3, Con +3, Sag +2, Cha +3
-- **Compétences** [Discrétion] +3, [Perception] +4
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +3, Sag +2, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -2845,25 +2977,27 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon souffle du gaz [empoisonné] sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 11 ; elles subissent 21 (6d6) dégâts de poison en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon d'airain vénérable
-- AltName: [Ancient Brass Dragon]
-- Dragon de taille Gig, Chaotique Bon
-- **Classe d'armure** 20 (armure naturelle)
-- **Points de vie** 297 (17d20+119)
-- **Vitesse** 12 m, fouissement 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon d'airain vénérable</Name>
+- <AltName>[Ancient Brass Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>297 (17d20+119)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +6, Con +13, Sag +8, Cha +10
-- **Compétences** [Discrétion] +6, [Histoire] +9, [Perception] +14, [Persuasion] +10
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 24
-- **Langues** commun, draconique
-- **Dangerosité** 20 (25 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +13, Sag +8, Cha +10</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Histoire] +9, [Perception] +14, [Persuasion] +10</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 24</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>20 (25 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2910,25 +3044,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon d'airain adulte
-- AltName: [Adult Brass Dragon]
-- Dragon de taille TG, Chaotique Bon
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 172 (15d12+75)
-- **Vitesse** 12 m, fouissement 9 m, vol 24 m
+<Monster>
+
+# <Name>Dragon d'airain adulte</Name>
+- <AltName>[Adult Brass Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>172 (15d12+75)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 9 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
 
-- **Jets de sauvegarde** Dex +5, Con +10, Sag +6, Cha +8
-- **Compétences** [Discrétion] +5, [Histoire] +7, [Perception] +11, [Persuasion] +8
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21
-- **Langues** commun, draconique
-- **Dangerosité** 13 (10 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +10, Sag +6, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +5, [Histoire] +7, [Perception] +11, [Persuasion] +8</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>13 (10 000 PX)</Challenge>
 
 ## Capacités
 
@@ -2969,25 +3105,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon d'airain
-- AltName: [Young Brass Dragon]
-- Dragon de taille G, Chaotique Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 110 (13d10+39)
-- **Vitesse** 12 m, fouissement 6 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon d'airain</Name>
+- <AltName>[Young Brass Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>110 (13d10+39)</HitPoints>
+- **Vitesse** <Speed>12 m, fouissement 6 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +3, Con +6, Sag +3, Cha +5
-- **Compétences** [Discrétion] +3, [Perception] +6, [Persuasion] +5
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16
-- **Langues** commun, draconique
-- **Dangerosité** 6 (2 300 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +6, Sag +3, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6, [Persuasion] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Actions
 
@@ -3008,25 +3146,27 @@ _Souffle de feu._ Le dragon souffle du feu sur une ligne de 12 mètres de long e
 _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 14 pour ne pas tomber [inconscientes] pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet d'airain
-- AltName: [Brass Dragon Wyrmling]
-- Dragon de taille M, Chaotique Bon
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 16 (3d8+3)
-- **Vitesse** 9 m, fouissement 4,50 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet d'airain</Name>
+- <AltName>[Brass Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>16 (3d8+3)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 4,50 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
 
-- **Jets de sauvegarde** Dex +2, Con +3, Sag +2, Cha +3
-- **Compétences** [Discrétion] +2, [Perception] +4
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 1 (200 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +2, Con +3, Sag +2, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Actions
 
@@ -3041,25 +3181,27 @@ _Souffle de feu._ Le dragon souffle du feu sur une ligne de 6 mètres de long et
 _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas tomber [inconscientes] pendant 1 minute. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu'un consacre une action à lui faire reprendre ses esprits.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon d'argent vénérable
-- AltName: [Ancient Silver Dragon]
-- Dragon de taille Gig, Loyal Bon
-- **Classe d'armure** 22 (armure naturelle)
-- **Points de vie** 487 (25d20+225)
-- **Vitesse** 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon d'argent vénérable</Name>
+- <AltName>[Ancient Silver Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>487 (25d20+225)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
 
-- **Jets de sauvegarde** Dex +7, Con +16, Sag +9, Cha +13
-- **Compétences** [Arcanes] +11, [Discrétion] +7, [Histoire] +11, [Perception] +16
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26
-- **Langues** commun, draconique
-- **Dangerosité** 23 (50 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +16, Sag +9, Cha +13</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +11, [Discrétion] +7, [Histoire] +11, [Perception] +16</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>23 (50 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3104,25 +3246,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon d'argent adulte
-- AltName: [Adult Silver Dragon]
-- Dragon de taille TG, Loyal Bon
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 243 (18d12+126)
-- **Vitesse** 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon d'argent adulte</Name>
+- <AltName>[Adult Silver Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>243 (18d12+126)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
 
-- **Jets de sauvegarde** Dex +5, Con +12, Sag +6, Cha +10
-- **Compétences** [Arcanes] +8, [Discrétion] +5, [Histoire] +8, [Perception] +11
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21
-- **Langues** commun, draconique
-- **Dangerosité** 16 (15 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +12, Sag +6, Cha +10</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +8, [Discrétion] +5, [Histoire] +8, [Perception] +11</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>16 (15 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3169,25 +3313,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon d'argent
-- AltName: [Young Silver Dragon]
-- Dragon de taille G, Loyal Bon
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 168 (16d10+80)
-- **Vitesse** 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon d'argent</Name>
+- <AltName>[Young Silver Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>168 (16d10+80)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +4, Con +9, Sag +4, Cha +8
-- **Compétences** [Arcanes] +6, [Discrétion] +4, [Histoire] +6, [Perception] +8
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 18
-- **Langues** commun, draconique
-- **Dangerosité** 9 (5 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +9, Sag +4, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +6, [Discrétion] +4, [Histoire] +6, [Perception] +8</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 18</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Actions
 
@@ -3208,25 +3354,27 @@ _Souffle de glace._ Le dragon souffle de la glace sur un cône de 9 mètres. Les
 _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 17 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet d'argent
-- AltName: [Silver Dragon Wyrmling]
-- Dragon de taille M, Loyal Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 45 (6d8+18)
-- **Vitesse** 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet d'argent</Name>
+- <AltName>[Silver Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d8+18)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +2, Con +5, Sag +2, Cha +4
-- **Compétences** [Discrétion] +2, [Perception] +4
-- **Immunité contre les dégâts** de froid
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +2, Con +5, Sag +2, Cha +4</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -3241,25 +3389,27 @@ _Souffle de glace._ Le dragon souffle de la glace sur un cône de 4,50 mètres. 
 _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Constitution] DD 13 pour ne pas être [paralysées] pendant 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon de bronze vénérable
-- AltName: [Ancient Bronze Dragon]
-- Dragon de taille Gig, Loyal Bon
-- **Classe d'armure** 22 (armure naturelle)
-- **Points de vie** 444 (24d20+192)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon de bronze vénérable</Name>
+- <AltName>[Ancient Bronze Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>444 (24d20+192)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
 
-- **Jets de sauvegarde** Dex +7, Con +15, Sag +10, Cha +12
-- **Compétences** [Discrétion] +7, [Perception] +17, [Perspicacité] +10
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27
-- **Langues** commun, draconique
-- **Dangerosité** 22 (41 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +7, Con +15, Sag +10, Cha +12</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +17, [Perspicacité] +10</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>22 (41 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3306,25 +3456,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon de bronze adulte
-- AltName: [Adult Bronze Dragon]
-- Dragon de taille TG, Loyal Bon
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 212 (17d12+102)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon de bronze adulte</Name>
+- <AltName>[Adult Bronze Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>212 (17d12+102)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +5, Con +11, Sag +7, Cha +9
-- **Compétences** [Discrétion] +5, [Perception] +12, [Perspicacité] +7
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22
-- **Langues** commun, draconique
-- **Dangerosité** 15 (13 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +11, Sag +7, Cha +9</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +12, [Perspicacité] +7</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>15 (13 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3373,25 +3525,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon de bronze
-- AltName: [Young Bronze Dragon]
-- Dragon de taille G, Loyal Bon
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 142 (15d10+60)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon de bronze</Name>
+- <AltName>[Young Bronze Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>142 (15d10+60)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
 
-- **Jets de sauvegarde** Dex +3, Con +7, Sag +4, Cha +6
-- **Compétences** [Discrétion] +3, [Perception] +7, [Perspicacité] +4
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17
-- **Langues** commun, draconique
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +7, Sag +4, Cha +6</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +7, [Perspicacité] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -3416,25 +3570,27 @@ _Souffle de foudre._ Le dragon souffle de la foudre sur une ligne de 18 mètres 
 _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Force] DD 15. Les créatures qui ratent ce [jet de sauvegarde] sont éloignées du dragon sur une distance de 12 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet de bronze
-- AltName: [Bronze Dragon Wyrmling]
-- Dragon de taille M, Loyal Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 32 (5d8+10)
-- **Vitesse** 9 m, nage 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet de bronze</Name>
+- <AltName>[Bronze Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +2, Con +4, Sag +2, Cha +4
-- **Compétences** [Discrétion] +2, [Perception] +4
-- **Immunité contre les dégâts** de foudre
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +2, Con +4, Sag +2, Cha +4</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -3453,25 +3609,27 @@ _Souffle de foudre._ Le dragon souffle de la foudre sur une ligne de 12 mètres 
 _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Force] DD 12. Les créatures qui ratent ce [jet de sauvegarde] sont éloignées du dragon sur une distance de 9 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon de cuivre vénérable
-- AltName: [Ancient Copper Dragon]
-- Dragon de taille Gig, Chaotique Bon
-- **Classe d'armure** 21 (armure naturelle)
-- **Points de vie** 350 (20d20+140)
-- **Vitesse** 12 m, escalade 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon de cuivre vénérable</Name>
+- <AltName>[Ancient Copper Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>21 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>350 (20d20+140)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
 
-- **Jets de sauvegarde** Dex +8, Con +14, Sag +10, Cha +11
-- **Compétences** [Discrétion] +8, [Perception] +17, [Supercherie] +11
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27
-- **Langues** commun, draconique
-- **Dangerosité** 21 (33 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +8, Con +14, Sag +10, Cha +11</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +8, [Perception] +17, [Supercherie] +11</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>21 (33 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3520,25 +3678,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon de cuivre adulte
-- AltName: [Adult Copper Dragon]
-- Dragon de taille TG, Chaotique Bon
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 184 (16d12+80)
-- **Vitesse** 12 m, escalade 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon de cuivre adulte</Name>
+- <AltName>[Adult Copper Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>184 (16d12+80)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
 
-- **Jets de sauvegarde** Dex +6, Con +10, Sag +7, Cha +8
-- **Compétences** [Discrétion] +6, [Perception] +12, [Supercherie] +8
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22
-- **Langues** commun, draconique
-- **Dangerosité** 14 (11 500 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +10, Sag +7, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +12, [Supercherie] +8</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>14 (11 500 PX)</Challenge>
 
 ## Capacités
 
@@ -3581,25 +3741,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon de cuivre
-- AltName: [Young Copper Dragon]
-- Dragon de taille G, Chaotique Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 119 (14d10+42)
-- **Vitesse** 12m, escalade 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon de cuivre</Name>
+- <AltName>[Young Copper Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>119 (14d10+42)</HitPoints>
+- **Vitesse** <Speed>12m, escalade 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +4, Con +6, Sag +4, Cha +5
-- **Compétences** [Discrétion] +4, [Perception] +7, [Supercherie] +5
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17
-- **Langues** commun, draconique
-- **Dangerosité** 7 (2 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +6, Sag +4, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +7, [Supercherie] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
 
 ## Actions
 
@@ -3624,25 +3786,27 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les 
 Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet de cuivre
-- AltName: [Copper Dragon Wyrmling]
-- Dragon de taille M, Chaotique Bon
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 22 (4d8+4)
-- **Vitesse** 9 m, escalade 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet de cuivre</Name>
+- <AltName>[Copper Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
 
-- **Jets de sauvegarde** Dex +3, Con +3, Sag +2, Cha +3
-- **Compétences** [Discrétion] +3, [Perception] +4
-- **Immunité contre les dégâts** d'acide
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 1 (200 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +3, Sag +2, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Actions
 
@@ -3657,25 +3821,27 @@ _Souffle d'acide._ Le dragon souffle de l'acide sur une ligne de 6 mètres de lo
 _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 11. Les créatures qui ratent ce [jet de sauvegarde] ne peuvent plus utiliser de réaction, leur vitesse est réduite de moitié et elles ne peuvent effectuer qu'une seule attaque lors de leur tour. De plus, elles ne peuvent utiliser qu'une action ou une action bonus lors de leurs tours, mais pas les deux. Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegarde] à la fin de chacun de leurs tours et mettre fin à cet effet en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon d'or vénérable
-- AltName: [Ancient Gold Dragon]
-- Dragon de taille Gig, Loyal Bon
-- **Classe d'armure** 22 (armure naturelle)
-- **Points de vie** 546 (28d20+252)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon d'or vénérable</Name>
+- <AltName>[Ancient Gold Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>546 (28d20+252)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)|
 
-- **Jets de sauvegarde** Dex +9, Con +16, Sag +10, Cha +16
-- **Compétences** [Discrétion] +9, [Perception] +17, [Perspicacité] +10, [Persuasion] +16
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27
-- **Langues** commun, draconique
-- **Dangerosité** 24 (62 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +9, Con +16, Sag +10, Cha +16</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +9, [Perception] +17, [Perspicacité] +10, [Persuasion] +16</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>24 (62 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3722,25 +3888,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon d'or adulte
-- AltName: [Adult Gold Dragon]
-- Dragon de taille TG, Loyal Bon
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 256 (19d12+133)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Dragon d'or adulte</Name>
+- <AltName>[Adult Gold Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>256 (19d12+133)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)|
 
-- **Jets de sauvegarde** Dex +8, Con +13, Sag +8, Cha +13
-- **Compétences** [Discrétion] +8, [Perception] +14, [Perspicacité] +8, [Persuasion] +13
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 24
-- **Langues** commun, draconique
-- **Dangerosité** 17 (18 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +8, Con +13, Sag +8, Cha +13</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +8, [Perception] +14, [Perspicacité] +8, [Persuasion] +13</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 24</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>17 (18 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3789,25 +3957,27 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Détecter._** Le dragon effectue un test de [Sagesse] (Perception).
 
 
-[][MonsterHD]
+</Monster>
 
-# Jeune dragon d'or
-- AltName: [Young Gold Dragon]
-- Dragon de taille G, Loyal Bon
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 178 (17d10+85)
-- **Vitesse** 12 m, nage 12 m, vol 24 m
+<Monster>
+
+# <Name>Jeune dragon d'or</Name>
+- <AltName>[Young Gold Dragon]</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 12 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)|
 
-- **Jets de sauvegarde** Dex +6, Con +9, Sag +5, Cha +9
-- **Compétences** [Discrétion] +6, [Perception] +9, [Perspicacité] +5, [Persuasion] +9
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 19
-- **Langues** commun, draconique
-- **Dangerosité** 10 (5 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +9, Sag +5, Cha +9</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +9, [Perspicacité] +5, [Persuasion] +9</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 19</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
 
 ## Capacités
 
@@ -3832,25 +4002,27 @@ _Souffle affaiblissant._ Le dragon souffle du gaz sur un cône de 9 mètres. Les
 _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 17 ; elles subissent 55 (10d10) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragonnet d'or
-- AltName: [Gold Dragon Wyrmling]
-- Dragon de taille M, Loyal Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 60 (8d8+24)
-- **Vitesse** 9 m, nage 9 m, vol 18 m
+<Monster>
+
+# <Name>Dragonnet d'or</Name>
+- <AltName>[Gold Dragon Wyrmling]</AltName>
+- <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>60 (8d8+24)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)|
 
-- **Jets de sauvegarde** Dex +4, Con +5, Sag +2, Cha +5
-- **Compétences** [Discrétion] +4, [Perception] +4
-- **Immunité contre les dégâts** de feu
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14
-- **Langue** draconique
-- **Dangerosité** 3 (700 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +5, Sag +2, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -3869,24 +4041,26 @@ _Souffle affaiblissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. 
 _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 13 ; elles subissent 22 (4d10) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dragon-tortue
-- AltName: [Dragon Turtle](monsters_vo.md#dragon-turtle)
-- Dragon de taille Gig, neutre
-- **Classe d'armure** 20 (armure naturelle)
-- **Points de vie** 341 (22d20+110)
-- **Vitesse** 6 m, nage 12 m
+<Monster>
+
+# <Name>Dragon-tortue</Name>
+- <AltName>[Dragon Turtle](monsters_vo.md#dragon-turtle)</AltName>
+- <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>341 (22d20+110)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
 
-- **Jets de sauvegarde** Dex +6, Con +11, Sag +7
-- **Résistance aux dégâts** de feu
-- **Sens** vision dans le noir 36 m, [Perception passive] 11
-- **Langues** aquatique, draconique
-- **Dangerosité** 17 (18 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +11, Sag +7</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de feu</DamageResistances>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>aquatique, draconique</Languages>
+- **Dangerosité** <Challenge>17 (18 000 PX)</Challenge>
 
 ## Capacités
 
@@ -3911,24 +4085,26 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 **_Souffle de vapeur (Recharge 5-6)._** Le dragon-tortue souffle de la vapeur brûlante sur un cône de 18 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 18 ; elles subissent 52 (15d6) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Être sous l'eau ne confère aucune résistance contre ces dégâts.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dref
-- Fiélon de taille TP, chaotique neutre
-- **Classe d'armure** 13
-- **Points de vie** 7 (2d4+2)
-- **Vitesse** 6 m, vol 12 m
+<Monster>
+
+# <Name>Dref</Name>
+- <Type>Fiélon</Type> de taille <Size>TP</Size>, <Alignment>chaotique neutre</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>7 (2d4+2)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|15 (+2)|
 
-- **Compétences** [Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4
-- **Résistances aux dégâts** contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison
-- **Immunités à l'état** spécial [empoisonné]
-- **Sens** vision dans le noir à 36 m, [Perception passive] 12
-- **Langues** commun
-- **Dangerosité** 1/4 (50 XP)
+- **Compétences** <Abilities>[Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4</Abilities>
+- **Résistances aux dégâts** <DamageResistances>contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison</DamageResistances>
+- **Immunités à l'état** <ConditionImmunities>spécial [empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir à 36 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Capacités
 
@@ -3949,23 +4125,25 @@ Il réapparaît 1D4 heures plus tard, comme si de rien n'était.
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Drider
-- AltName: [Drider](monsters_vo.md#drider)
-- Créature monstrueuse de taille G, Chaotique Mauvais
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 123 (13d10+52)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Drider</Name>
+- <AltName>[Drider](monsters_vo.md#drider)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>123 (13d10+52)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
 
-- **Compétences** [Discrétion] +9, [Perception] +5
-- **Sens** vision dans le noir 36 m, [Perception passive] 15
-- **Langues** commun des profondeurs, elfe
-- **Dangerosité** 6 (2 300 PX)
+- **Compétences** <Abilities>[Discrétion] +9, [Perception] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>commun des profondeurs, elfe</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -4000,23 +4178,25 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 
-[][MonsterHD]
+</Monster>
 
-# Drow
-- AltName: [Drow](monsters_vo.md#drow)
-- Humanoïde (elfe) de taille M, Neutre Mauvais
-- **Classe d'armure** 15 (chemise de mailles)
-- **Points de vie** 13 (3d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Drow</Name>
+- <AltName>[Drow](monsters_vo.md#drow)</AltName>
+- <Type>Humanoïde (elfe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (chemise de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
 
-- **Compétences** [Discrétion] +4, [Perception] +2
-- **Sens** vision dans le noir 36 m, [Perception passive] 12
-- **Langues** commun des profondeurs, elfe
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>commun des profondeurs, elfe</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -4043,25 +4223,27 @@ Si le [jet de sauvegarde] rate de 5 points ou plus, la cible est également [inc
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Drow, prêtresse
-- Humanoïde (elfe) de taille M, neutre mauvais
-- **Classe d'armure** 18 (cuirasse +2)
-- **Points de vie** 58 (9d8+18)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Drow, prêtresse</Name>
+- <Type>Humanoïde (elfe)</Type> de taille <Size>M</Size>, <Alignment>neutre mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (cuirasse +2)</ArmorClass>
+- **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|14 (+2)|13 (+1)|16 (+3)|17 (+3)|
 
-- **Jets de sauvegarde** Con +6, Sag +7, Cha +7
-- **Compétences** [Discrétion] +6, [Intimidation] +11, [Perception] +7, [Religion] +7
-- **Résistance aux dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 36 m, [Perception passive] 17
-- **Langues** commun des profondeurs, elfe
-- **Dangerosité** 7 (2900 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +6, Sag +7, Cha +7</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Intimidation] +11, [Perception] +7, [Religion] +7</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de poison</DamageResistances>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>commun des profondeurs, elfe</Languages>
+- **Dangerosité** <Challenge>7 (2900 PX)</Challenge>
 
 ## Capacités
 
@@ -4104,23 +4286,25 @@ Voici ses sorts de clerc préparés :
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Dryade
-- AltName: [Dryad](monsters_vo.md#dryad)
-- Fée de taille M, neutre
-- **Classe d'armure** 11 (16 avec peau d'écorce)
-- **Points de vie** 22 (5d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Dryade</Name>
+- <AltName>[Dryad](monsters_vo.md#dryad)</AltName>
+- <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>11 (16 avec peau d'écorce)</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
 
-- **Compétences** [Discrétion] +5, [Perception] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** elfe, sylvestre
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>elfe, sylvestre</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -4151,23 +4335,25 @@ La dryade ne peut charmer plus d'un humanoïde et trois bêtes en même temps.
 _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec gourdin magique.
 
 
-[][MonsterHD]
+</Monster>
 
-# Duergar
-- AltName: [Duergar](monsters_vo.md#duergar)
-- Humanoïde (nain) de taille M, Loyal Mauvais
-- **Classe d'armure** 16 (armure d'écailles, bouclier)
-- **Points de vie** 26 (4d8+8)
-- **Vitesse** 7,50 m
+<Monster>
+
+# <Name>Duergar</Name>
+- <AltName>[Duergar](monsters_vo.md#duergar)</AltName>
+- <Type>Humanoïde (nain)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure d'écailles, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>26 (4d8+8)</HitPoints>
+- **Vitesse** <Speed>7,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)| 9 (-1)|
 
-- **Résistance aux dégâts** de poison
-- **Sens** vision dans le noir 36 m, [Perception passive] 10
-- **Langues** commun des profondeurs, nain
-- **Dangerosité** 1 (200 PX)
+- **Résistance aux dégâts** <DamageResistances>de poison</DamageResistances>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>commun des profondeurs, nain</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -4192,25 +4378,27 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 9 (2d6+2) dégâts perforants s'il 
 _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il s'est agrandi.
 
 
-[][MonsterHD]
+</Monster>
 
-# Élémentaire de l'air
-- AltName: [Air Elemental](monsters_vo.md#air-elemental)
-- Élémentaire de taille G, neutre
-- **Classe d'armure** 15
-- **Points de vie** 90 (12d10+24)
-- **Vitesse** 0 m, vol 27 m (vol stationnaire)
+<Monster>
+
+# <Name>Élémentaire de l'air</Name>
+- <AltName>[Air Elemental](monsters_vo.md#air-elemental)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>15</ArmorClass>
+- **Points de vie** <HitPoints>90 (12d10+24)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 27 m (vol stationnaire)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|20 (+5)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
 
-- **Résistances aux dégâts** de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [à terre], [empoigné], [empoisonné], [entravé], [épuisé], [inconscient], [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** aérien
-- **Dangerosité** 5 (1 800 PX)
+- **Résistances aux dégâts** <DamageResistances>de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunités contre les états** <ConditionImmunities>[à terre], [empoigné], [empoisonné], [entravé], [épuisé], [inconscient], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>aérien</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -4231,25 +4419,27 @@ Celles qui ratent le [jet de sauvegarde] subissent 15 (3d8+2) dégâts contondan
 Si le [jet de sauvegarde] est réussi, la cible subit la moitié des dégâts contondants seulement, elle n'est pas repoussée et n'est pas jetée [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Élémentaire de l'eau
-- AltName: [Water Elemental](monsters_vo.md#water-elemental)
-- Élémentaire de taille G, neutre
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 114 (12d10+48)
-- **Vitesse** 9 m, nage 27 m
+<Monster>
+
+# <Name>Élémentaire de l'eau</Name>
+- <AltName>[Water Elemental](monsters_vo.md#water-elemental)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 27 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|18 (+4)| 5 (-3)|10 (+0)| 8 (-1)|
 
-- **Résistance aux dégâts** d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** aquatique
-- **Dangerosité** 5 (1 800 PX)
+- **Résistance aux dégâts** <DamageResistances>d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunités contre les états** <ConditionImmunities>[à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>aquatique</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -4270,25 +4460,27 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créatures de taille M ou plus petites en même temps. Au début de chacun des tours de l'élémentaire, chaque cible [empoignée] par lui subit 13 (2d8+4) dégâts contondants. Une créature située à 1,50 mètre ou moins de l'élémentaire peut tenter d'extirper une créature ou un objet en y consacrant une action et en réussissant un test de [Force] DD 14.
 
 
-[][MonsterHD]
+</Monster>
 
-# Élémentaire du feu
-- AltName: [Fire Elemental](monsters_vo.md#fire-elemental)
-- Élémentaire de taille G, neutre
-- **Classe d'armure** 13
-- **Points de vie** 102 (12d10+36)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Élémentaire du feu</Name>
+- <AltName>[Fire Elemental](monsters_vo.md#fire-elemental)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>102 (12d10+36)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|17 (+3)|16 (+3)| 6 (-2)|10 (+0)| 7 (-2)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** ignée
-- **Dangerosité** 5 (1 800 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>ignée</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -4307,26 +4499,28 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
 
 
-[][MonsterHD]
+</Monster>
 
-# Élémentaire de la terre
-- AltName: [Earth Elemental](monsters_vo.md#earth-elemental)
-- Élémentaire de taille G, neutre
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 126 (12d10+60)
-- **Vitesse** 9 m, fouissement 9 m
+<Monster>
+
+# <Name>Élémentaire de la terre</Name>
+- <AltName>[Earth Elemental](monsters_vo.md#earth-elemental)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>126 (12d10+60)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)| 8 (-1)|20 (+5)| 5 (-3)|10 (+0)| 5 (-3)|
 
-- **Vulnérabilité aux dégâts** de tonnerre
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [empoisonné], [épuisé], [inconscient], [paralysé] et [pétrifié]
-- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 10
-- **Langue** terreux
-- **Dangerosité** 5 (1 800 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de tonnerre</DamageVulnerabilities>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunités contre les états** <ConditionImmunities>[empoisonné], [épuisé], [inconscient], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>terreux</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -4343,23 +4537,25 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 _Touché :_ 14 (2d8+5) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Enlaceur
-- AltName: [Roper](monsters_vo.md#roper)
-- Créature monstrueuse de taille G, Neutre Mauvais
-- **Classe d'armure** 20 (armure naturelle)
-- **Points de vie** 93 (11d10+33)
-- **Vitesse** 3 m, escalade 3 m
+<Monster>
+
+# <Name>Enlaceur</Name>
+- <AltName>[Roper](monsters_vo.md#roper)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>93 (11d10+33)</HitPoints>
+- **Vitesse** <Speed>3 m, escalade 3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|17 (+3)| 7 (-2)|16 (+3)| 6 (-2)|
 
-- **Compétences** [Discrétion] +5, [Perception] +6
-- **Sens** vision dans le noir 18 m, [Perception passive] 16
-- **Langues** —
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +6</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -4386,23 +4582,25 @@ _Touché :_ la cible est [empoignée] (évasion DD 15). Jusqu'à la fin de l'emp
 _Touché :_ 22 (4d8+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Esprit follet
-- AltName: [Sprite](monsters_vo.md#sprite)
-- Fée de taille TP, Neutre Bonne
-- **Classe d'armure** 15 (armure de cuir)
-- **Points de vie** 2 (1d4)
-- **Vitesse** 3 m, vol 12 m
+<Monster>
+
+# <Name>Esprit follet</Name>
+- <AltName>[Sprite](monsters_vo.md#sprite)</AltName>
+- <Type>Fée</Type> de taille <Size>TP</Size>, <Alignment>Neutre Bonne</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>2 (1d4)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
 
-- **Compétences** [Discrétion] +8, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** Commun, Elfe, Sylvestre
-- **Dangerosité** 1/4 (50 XP)
+- **Compétences** <Abilities>[Discrétion] +8, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>Commun, Elfe, Sylvestre</Languages>
+- **Dangerosité** <Challenge>1/4 (50 XP)</Challenge>
 
 ## Actions
 
@@ -4419,23 +4617,25 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 **_Invisibilité._** L'esprit follet devient [invisible] par magie. Il redevient visible s'il attaque, lance un sort, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-[][MonsterHD]
+</Monster>
 
-# Ettercap
-- AltName: [Ettercap](monsters_vo.md#ettercap)
-- Créature monstrueuse de taille M, Neutre Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 44 (8d8+8)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Ettercap</Name>
+- <AltName>[Ettercap](monsters_vo.md#ettercap)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>44 (8d8+8)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|15 (+2)|13 (+1)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3, [Survie] +3
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3, [Survie] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -4462,23 +4662,25 @@ _Touché :_ 6 (1d8+2) dégâts perforants plus 4 (1d8) dégâts de poison. La ci
 _Touché :_ la créature est [entravée] par la toile. Par une action, la créature [entravée] peut effectuer un test de [Force] DD 11 et s'en libérer en cas de réussite. L'effet prend également fin si la toile est détruite. Elle a une CA de 10, 5 points de vie, une vulnérabilité aux dégâts de feu et une immunité contre les dégâts contondants, de poison et psychiques.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ettin
-- AltName: [Ettin](monsters_vo.md#ettin)
-- Géant de taille G, Chaotique Mauvais
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 85 (10d10+30)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Ettin</Name>
+- <AltName>[Ettin](monsters_vo.md#ettin)</AltName>
+- <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>85 (10d10+30)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
 
-- **Compétence** [Perception] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** géant, orc
-- **Dangerosité** 4 (1 100 PX)
+- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>géant, orc</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -4499,25 +4701,27 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 _Touché :_ 14 (2d8+5) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Fantôme
-- AltName: [Ghost](monsters_vo.md#ghost)
-- Mort-vivant de taille M, n'importe quel alignement
-- **Classe d'armure** 11
-- **Points de vie** 45 (10d8)
-- **Vitesse** 0 m, vol 12 m (vol stationnaire)
+<Monster>
+
+# <Name>Fantôme</Name>
+- <AltName>[Ghost](monsters_vo.md#ghost)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>45 (10d8)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 12 m (vol stationnaire)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)|
 
-- **Résistance aux dégâts** d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de froid, de poison et nécrotiques
-- **Immunités contre les états** [à terre], [charmé], [empoigné], [empoisonné], [épuisé], [entravé], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langues** toutes les langues qu'il connaissait de son vivant
-- **Dangerosité** 4 (1 100 PX)
+- **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de froid, de poison et nécrotiques</DamageImmunities>
+- **Immunités contre les états** <ConditionImmunities>[à terre], [charmé], [empoigné], [empoisonné], [épuisé], [entravé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>toutes les langues qu'il connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -4542,25 +4746,27 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 **_Visage terrifiant._** Toutes les créatures, à l'exception des morts-vivants, situées à 18 mètres ou moins du fantôme et qui le voient doivent chacune réussir un [jet de sauvegarde] de [Sagesse] DD 13 pour ne pas être [terrorisées] pendant 1 minute. Si le [jet de sauvegarde] rate de 5 points ou plus, la cible vieillit également de 1d4×10 ans. Une cible [terrorisée] peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde] d'une cible est réussi ou si l'effet prend fin, la cible est immunisée aux effets du visage terrifiant de ce fantôme pendant 24 heures. Il est possible d'inverser l'effet de vieillissement grâce à un sort de restauration supérieure s'il est lancé dans les 24 heures suivantes.
 
 
-[][MonsterHD]
+</Monster>
 
-# Feu follet
-- AltName: [Will-o'-Wisp](monsters_vo.md#will-o-wisp)
-- Mort-vivant de taille TP, Chaotique Mauvais
-- **Classe d'armure** 19
-- **Points de vie** 22 (9d4)
-- **Vitesse** 0 m, vol 15 m (vol stationnaire)
+<Monster>
+
+# <Name>Feu follet</Name>
+- <AltName>[Will-o'-Wisp](monsters_vo.md#will-o-wisp)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>TP</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>19</ArmorClass>
+- **Points de vie** <HitPoints>22 (9d4)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 15 m (vol stationnaire)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
 
-- **Résistance aux dégâts** d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de foudre et de poison
-- **Immunité contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé] et [paralysé]
-- **Sens** vision dans le noir 36 m, [Perception passive] 12
-- **Langues** celles qu'il connaissait de son vivant
-- **Dangerosité** 2 (450 PX)
+- **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre et de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>celles qu'il connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -4581,24 +4787,26 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 **_Invisibilité._** Le feu follet et la lumière qu'il diffuse deviennent [invisibles] par magie jusqu'au moment où il attaque, utilise son trait Dévorer la vie ou interrompt sa concentration (comme s'il se concentrait sur un sort).
 
 
-[][MonsterHD]
+</Monster>
 
-# Garde animé
-- AltName: [Shield Guardian](monsters_vo.md#shield-guardian)
-- Créature artificielle de taille G, non-alignée
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 142 (15d10+60)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Garde animé</Name>
+- <AltName>[Shield Guardian](monsters_vo.md#shield-guardian)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>142 (15d10+60)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
 
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 10
-- **Langues** comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
-- **Dangerosité** 7 (2 900 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
 
 ## Capacités
 
@@ -4621,25 +4829,27 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 **_Protection._** Quand une créature effectue une attaque contre le porteur de son amulette, le garde confère un bonus de +2 à la CA du porteur s'il se trouve à 1,50 mètre ou moins du porteur.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gargouille
-- AltName: [Gargoyle](monsters_vo.md#gargoyle)
-- Élémentaire de taille M, Chaotique Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 52 (7d8+21)
-- **Vitesse** 9 m, vol 18 m
+<Monster>
+
+# <Name>Gargouille</Name>
+- <AltName>[Gargoyle](monsters_vo.md#gargoyle)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>52 (7d8+21)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|16 (+3)| 6 (-2)|11 (+0)| 7 (-2)|
 
-- **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné], [épuisé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** terreux
-- **Dangerosité** 2 (450 PX)
+- **Résistances aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[empoisonné], [épuisé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>terreux</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -4658,23 +4868,25 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Géant des collines
-- AltName: [Hill Giant](monsters_vo.md#hill-giant)
-- Géant de taille TG, Chaotique Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 105 (10d12+40)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Géant des collines</Name>
+- <AltName>[Hill Giant](monsters_vo.md#hill-giant)</AltName>
+- <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>105 (10d12+40)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|19 (+4)| 5 (-3)| 9 (-1)| 6 (-2)|
 
-- **Compétence** [Perception] +2
-- **Sens** [Perception passive] 12
-- **Langue** géant
-- **Dangerosité** 5 (1 800 PX)
+- **Compétence** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langue** <Languages>géant</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Actions
 
@@ -4689,24 +4901,26 @@ _Touché :_ 18 (3d8+5) dégâts contondants.
 _Touché :_ 21 (3d10+5) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Géant des nuages
-- AltName: [Cloud Giant](monsters_vo.md#cloud-giant)
-- Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 200 (16d12+96)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Géant des nuages</Name>
+- <AltName>[Cloud Giant](monsters_vo.md#cloud-giant)</AltName>
+- <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Neutre Bon (50 %) ou Neutre Mauvais (50 %)</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>200 (16d12+96)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
 
-- **Jets de sauvegarde** Con +10, Sag +7, Cha +7
-- **Compétences** [Perception] +7, [Perspicacité] +7
-- **Sens** [Perception passive] 17
-- **Langues** commun, géant
-- **Dangerosité** 9 (5 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +10, Sag +7, Cha +7</SavingThrows>
+- **Compétences** <Abilities>[Perception] +7, [Perspicacité] +7</Abilities>
+- **Sens** <Senses>[Perception passive] 17</Senses>
+- **Langues** <Languages>commun, géant</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Capacités
 
@@ -4733,24 +4947,26 @@ _Touché :_ 21 (3d8+8) dégâts perforants.
 _Touché :_ 30 (4d10+8) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Géant des pierres
-- AltName: [Stone Giant](monsters_vo.md#stone-giant)
-- Géant de taille TG, neutre
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 126 (11d12+55)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Géant des pierres</Name>
+- <AltName>[Stone Giant](monsters_vo.md#stone-giant)</AltName>
+- <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>126 (11d12+55)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)| 9 (-1)|
 
-- **Jets de sauvegarde** Dex +5, Con +8, Sag +4
-- **Compétences** [Athlétisme] +12, [Perception] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langue** géant
-- **Dangerosité** 7 (2 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +5, Con +8, Sag +4</SavingThrows>
+- **Compétences** <Abilities>[Athlétisme] +12, [Perception] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>géant</Languages>
+- **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
 
 ## Capacités
 
@@ -4769,26 +4985,28 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 17 pour ne pas être jetée [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Géant des tempêtes
-- AltName: [Storm Giant](monsters_vo.md#storm-giant)
-- Géant de taille TG, Chaotique Bon
-- **Classe d'armure** 16 (armure d'écailles)
-- **Points de vie** 230 (20d12+100)
-- **Vitesse** 15 m, nage 15 m
+<Monster>
+
+# <Name>Géant des tempêtes</Name>
+- <AltName>[Storm Giant](monsters_vo.md#storm-giant)</AltName>
+- <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure d'écailles)</ArmorClass>
+- **Points de vie** <HitPoints>230 (20d12+100)</HitPoints>
+- **Vitesse** <Speed>15 m, nage 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)|
 
-- **Jets de sauvegarde** For +14, Con +10, Sag +9, Cha +9
-- **Compétences** [Arcanes] +8, [Athlétisme] +14, [Histoire] +8, [Perception] +9
-- **Résistance aux dégâts** de froid
-- **Immunité contre les dégâts** de foudre et de tonnerre
-- **Sens** [Perception passive] 19
-- **Langues** commun, géant
-- **Dangerosité** 13 (10 000 PX)
+- **Jets de sauvegarde** <SavingThrows>For +14, Con +10, Sag +9, Cha +9</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +8, [Athlétisme] +14, [Histoire] +8, [Perception] +9</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de froid</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre et de tonnerre</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 19</Senses>
+- **Langues** <Languages>commun, géant</Languages>
+- **Dangerosité** <Challenge>13 (10 000 PX)</Challenge>
 
 ## Capacités
 
@@ -4815,25 +5033,27 @@ _Touché :_ 30 (6d6+9) dégâts tranchants.
 _Touché :_ 35 (4d12+9) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Géant du feu
-- AltName: [Fire Giant](monsters_vo.md#fire-giant)
-- Géant de taille TG, Loyal Mauvais
-- **Classe d'armure** 18 (harnois)
-- **Points de vie** 162 (13d12+78)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Géant du feu</Name>
+- <AltName>[Fire Giant](monsters_vo.md#fire-giant)</AltName>
+- <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
+- **Points de vie** <HitPoints>162 (13d12+78)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |25 (+7)| 9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
 
-- **Jets de sauvegarde** Dex +3, Con +10, Cha +5
-- **Compétences** [Athlétisme] +11, [Perception] +6
-- **Immunité contre les dégâts** de feu
-- **Sens** [Perception passive] 16
-- **Langue** géant
-- **Dangerosité** 9 (5 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +10, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Athlétisme] +11, [Perception] +6</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 16</Senses>
+- **Langue** <Languages>géant</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Actions
 
@@ -4848,25 +5068,27 @@ _Touché :_ 28 (6d6+7) dégâts tranchants.
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Géant du givre
-- AltName: [Frost Giant](monsters_vo.md#frost-giant)
-- Géant de taille TG, Neutre Mauvais
-- **Classe d'armure** 15 (armure composite)
-- **Points de vie** 138 (12d12+60)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Géant du givre</Name>
+- <AltName>[Frost Giant](monsters_vo.md#frost-giant)</AltName>
+- <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure composite)</ArmorClass>
+- **Points de vie** <HitPoints>138 (12d12+60)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)| 9 (-1)|21 (+5)| 9 (-1)|10 (+0)|12 (+1)|
 
-- **Jets de sauvegarde** Con +8, Sag +3, Cha +4
-- **Compétences** [Athlétisme] +9, [Perception] +3
-- **Immunité contre les dégâts** de froid
-- **Sens** [Perception passive] 13
-- **Langue** géant
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +8, Sag +3, Cha +4</SavingThrows>
+- **Compétences** <Abilities>[Athlétisme] +9, [Perception] +3</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langue** <Languages>géant</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Actions
 
@@ -4881,24 +5103,26 @@ _Touché :_ 25 (3d12+6) dégâts tranchants.
 _Touché :_ 28 (4d10+6) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Djinn
-- AltName: [Djinni](monsters_vo.md#djinni)
-- Élémentaire de taille G, Chaotique Bon
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 161 (14d10+84)
-- **Vitesse** 9 m, vol 27 m
+<Monster>
+
+# <Name>Djinn</Name>
+- <AltName>[Djinni](monsters_vo.md#djinni)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>161 (14d10+84)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 27 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
 
-- **Jets de sauvegarde** Dex +6, Sag +7, Cha +9
-- **Immunité contre les dégâts** de foudre et de tonnerre
-- **Sens** vision dans le noir 36 m, [Perception passive] 13
-- **Langue** aérien
-- **Dangerosité** 11 (7 200 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Sag +7, Cha +9</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre et de tonnerre</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 13</Senses>
+- **Langue** <Languages>aérien</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Capacités
 
@@ -4927,24 +5151,26 @@ Une créature peut consacrer une action à dégager une créature [entravée] pa
 Si le test est réussi, la créature n'est plus [entravée] et se déplace vers l'emplacement le plus proche à l'extérieur du tourbillon.
 
 
-[][MonsterHD]
+</Monster>
 
-# Éfrit
-- AltName: [Efreeti](monsters_vo.md#efreeti)
-- Élémentaire de taille G, Loyal Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 200 (16d10+112)
-- **Vitesse** 12 m, vol 18 m
+<Monster>
+
+# <Name>Éfrit</Name>
+- <AltName>[Efreeti](monsters_vo.md#efreeti)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>200 (16d10+112)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
 
-- **Jets de sauvegarde** Int +7, Sag +6, Cha +7
-- **Immunité contre les dégâts** de feu
-- **Sens** vision dans le noir 36 m, [Perception passive] 12
-- **Langue** ignée
-- **Dangerosité** 11 (7 200 PX)
+- **Jets de sauvegarde** <SavingThrows>Int +7, Sag +6, Cha +7</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
+- **Langue** <Languages>ignée</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Capacités
 
@@ -4971,22 +5197,24 @@ _Touché :_ 13 (2d6+6) dégâts tranchants plus 7 (2d6) dégâts de feu.
 _Touché :_ 17 (5d6) dégâts de feu.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gnoll
-- AltName: [Gnoll](monsters_vo.md#gnoll)
-- Humanoïde (gnoll) de taille M, Chaotique Mauvais
-- **Classe d'armure** 15 (armure de peau, bouclier)
-- **Points de vie** 22 (5d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gnoll</Name>
+- <AltName>[Gnoll](monsters_vo.md#gnoll)</AltName>
+- <Type>Humanoïde (gnoll)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure de peau, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** gnoll
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>gnoll</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -5007,21 +5235,23 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si el
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gnoll, chef de meute
-- Humanoïde (gnoll) de taille M, Chaotique Mauvais
-- **Classe d'armure** 15 (armure de peau, bouclier)
-- **Points de vie** 44 (8d8+8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gnoll, chef de meute</Name>
+- <Type>Humanoïde (gnoll)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure de peau, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>44 (8d8+8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|13 (+1)| 6 (-2)|10 (+0)| 9 (-1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** gnoll
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>gnoll</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -5046,23 +5276,25 @@ _Touché :_ 6 (1d6+3) dégâts perforants ou 7 (1d8+3) dégâts perforants si el
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gnome des profondeurs (svirfneblin)
-- AltName: [Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)
-- Humanoïde (gnome) de taille P, Neutre Bon
-- **Classe d'armure** 15 (chemise de mailles)
-- **Points de vie** 16 (3d6+6)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Gnome des profondeurs (svirfneblin)</Name>
+- <AltName>[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)</AltName>
+- <Type>Humanoïde (gnome)</Type> de taille <Size>P</Size>, <Alignment>Neutre Bon</Alignment>
+- **Classe d'armure** <ArmorClass>15 (chemise de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>16 (3d6+6)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)| 9 (-1)|
 
-- **Compétences** [Discrétion] +4, [Investigation] +3, [Perception] +2
-- **Sens** vision dans le noir 36 m, [Perception passive] 12
-- **Langues** commun des profondeurs, gnome, terreux
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Investigation] +3, [Perception] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>commun des profondeurs, gnome, terreux</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -5087,23 +5319,25 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gobelin
-- AltName: [Goblin](monsters_vo.md#goblin)
-- Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
-- **Classe d'armure** 15 (armure de cuir, bouclier)
-- **Points de vie** 7 (2d6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gobelin</Name>
+- <AltName>[Goblin](monsters_vo.md#goblin)</AltName>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure de cuir, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>7 (2d6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|14 (+2)|10 (+0)|10 (+0)| 8 (-1)| 8 (-1)|
 
-- **Compétence** [Discrétion] +6
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** commun, gobelin
-- **Dangerosité** 1/4 (50 PX)
+- **Compétence** <Abilities>[Discrétion] +6</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -5120,22 +5354,24 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gobelin, chaman
-- Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
-- **Classe d'armure** 13 (armure de cuir)
-- **Points de vie** 27 (6d6+6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gobelin, chaman</Name>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>27 (6d6+6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
 
-- **Compétence** [Discrétion] +8, [Religion] +5
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** commun, gobelin
-- **Dangerosité** 1 (200 PX)
+- **Compétence** <Abilities>[Discrétion] +8, [Religion] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -5158,23 +5394,25 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 3 (1d4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gobelin blanc
-- Humanoïde (gobelinoïde) de taille P, neutre mauvais
-- **Classe d'armure** 14 (armure de peau)
-- **Points de vie** 13 (3d6+3)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gobelin blanc</Name>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>P</Size>, <Alignment>neutre mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure de peau)</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d6+3)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|13 (+1)|13 (+1)|10 (+0)|12 (+1)| 8 (-1)|
 
-- **Compétence** [Discrétion] +7, [Survie] +7
-- **Résistance contre les dégâts** de froid
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** commun, gobelin
-- **Dangerosité** 1/2 (100 PX)
+- **Compétence** <Abilities>[Discrétion] +7, [Survie] +7</Abilities>
+- **Résistance contre les dégâts** <DamageResistances>de froid</DamageResistances>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -5203,23 +5441,25 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chaman gobelin blanc
-- Humanoïde (gobelinoïde) de taille P, neutre mauvais
-- **Classe d'armure** 14 (armure de peau)
-- **Points de vie** 22 (5d6+5)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Chaman gobelin blanc</Name>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>P</Size>, <Alignment>neutre mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure de peau)</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d6+5)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|13 (+1)|13 (+1)|10 (+0)|14 (+2)|10 (+0)|
 
-- **Compétence** [Discrétion] +7, [Religion] +3, [Survie] +7
-- **Résistance contre les dégâts** de froid
-- **Sens** vision dans le noir 18 m, [Perception passive] 15
-- **Langues** commun, gobelin
-- **Dangerosité** 1 (200 PX)
+- **Compétence** <Abilities>[Discrétion] +7, [Religion] +3, [Survie] +7</Abilities>
+- **Résistance contre les dégâts** <DamageResistances>de froid</DamageResistances>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -5248,23 +5488,25 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 5 (1d8+1) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gobelours
-- AltName: [Bugbear](monsters_vo.md#bugbear)
-- Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
-- **Classe d'armure** 16 (armure de peau, bouclier)
-- **Points de vie** 27 (5d8+5)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gobelours</Name>
+- <AltName>[Bugbear](monsters_vo.md#bugbear)</AltName>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure de peau, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|13 (+1)| 8 (-1)|11 (+0)| 9 (-1)|
 
-- **Compétences** [Discrétion] +6, [Survie] +2
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** commun, gobelin
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Survie] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -5283,22 +5525,24 @@ _Touché :_ 9 (2d6+2) dégâts perforants au corps à corps ou 5 (1d6+2) dégât
 _Touché :_ 11 (2d8+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gobelours, chef barbare
-- Humanoïde (gobelinoïde) de taille M, chaotique mauvais
-- **Classe d'armure** 16 (armure de peau, bouclier)
-- **Points de vie** 55 (10d8+10)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gobelours, chef barbare</Name>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>M</Size>, <Alignment>chaotique mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure de peau, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>55 (10d8+10)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|14 (+2)|13 (+1)|10 (+0)|11 (+0)| 9 (-1)|
 
-- **Compétences** [Discrétion] +8, [Intimidation] +6, [Survie] +3
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** commun, gobelin
-- **Dangerosité** 4 (1 100 PX)
+- **Compétences** <Abilities>[Discrétion] +8, [Intimidation] +6, [Survie] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -5325,24 +5569,26 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâts perforants à distance.
 
 
-[][MonsterHD]
+</Monster>
 
-# Golem d'argile
-- AltName: [Clay Golem](monsters_vo.md#clay-golem)
-- Créature artificielle de taille G, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 133 (14d10+56)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Golem d'argile</Name>
+- <AltName>[Clay Golem](monsters_vo.md#clay-golem)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>133 (14d10+56)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
 
-- **Immunité contre les dégâts** d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** comprend les langues de son créateur mais ne peut pas parler
-- **Dangerosité** 9 (5 000 PX)
+- **Immunité contre les dégâts** <DamageImmunities>d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>comprend les langues de son créateur mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Capacités
 
@@ -5371,24 +5617,26 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 **_Hâte (Recharge 5-6)._** Jusqu'à la fin de son prochain tour, le golem bénéficie par magie d'un bonus de +2 à sa CA, il obtient un avantage lors des [jets de sauvegarde] de [Dextérité] et il peut utiliser son attaque de coup par une action bonus.
 
 
-[][MonsterHD]
+</Monster>
 
-# Golem de chair
-- AltName: [Flesh Golem](monsters_vo.md#flesh-golem)
-- Créature artificielle de taille M, neutre
-- **Classe d'armure** 9
-- **Points de vie** 93 (11d8+44)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Golem de chair</Name>
+- <AltName>[Flesh Golem](monsters_vo.md#flesh-golem)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>9</ArmorClass>
+- **Points de vie** <HitPoints>93 (11d8+44)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
 
-- **Immunité contre les dégâts** de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** comprend les langues de son créateur mais ne peut pas parler
-- **Dangerosité** 5 (1 800 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend les langues de son créateur mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -5423,24 +5671,26 @@ Ce dernier doit effectuer une action pour tenter un test de [Charisme] (Persuasi
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Golem de fer
-- AltName: [Iron Golem](monsters_vo.md#iron-golem)
-- Créature artificielle de taille G, non-alignée
-- **Classe d'armure** 20 (armure naturelle)
-- **Points de vie** 210 (20d10+100)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Golem de fer</Name>
+- <AltName>[Iron Golem](monsters_vo.md#iron-golem)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>210 (20d10+100)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
-- **Immunité contre les dégâts** de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision dans le noir 36 m, [Perception passive] 10
-- **Langues** comprend les langues de son créateur mais ne peut pas parler
-- **Dangerosité** 16 (15 000 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend les langues de son créateur mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>16 (15 000 PX)</Challenge>
 
 ## Capacités
 
@@ -5467,24 +5717,26 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 **_Souffle empoisonné (Recharge 6)._** Le golem souffle du gaz [empoisonné] dans un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 19 ; elles subissent 45 (10d8) dégâts de poison en cas de jet sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Golem de pierre
-- AltName: [Stone Golem](monsters_vo.md#stone-golem)
-- Créature artificielle de taille G, non-alignée
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 178 (17d10+85)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Golem de pierre</Name>
+- <AltName>[Stone Golem](monsters_vo.md#stone-golem)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
 
-- **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Immunité contre les états** [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision dans le noir 36 m, [Perception passive] 10
-- **Langues** comprend les langues de son créateur mais ne peut pas parler
-- **Dangerosité** 10 (5 900 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend les langues de son créateur mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
 
 ## Capacités
 
@@ -5505,24 +5757,26 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 **_Lenteur (Recharge 5-6)._** Le golem cible une ou plusieurs créatures situées dans son champ de vision à 3 mètres ou moins de lui. Les cibles doivent chacune effectuer un [jet de sauvegarde] de [Sagesse] DD 17 contre cette magie. En cas de [jet de sauvegarde] raté, une cible ne peut plus effectuer de réaction, sa vitesse est réduite de moitié et elle ne peut pas effectuer plus d'une attaque lors de son tour. De plus, la cible peut effectuer soit une action, soit une action bonus lors de son tour, mais pas les deux. Ces effets durent 1 minute. Une cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gorgone
-- AltName: [Gorgon](monsters_vo.md#gorgon)
-- Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 114 (12d10+48)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Gorgone</Name>
+- <AltName>[Gorgon](monsters_vo.md#gorgon)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|11 (+0)|18 (+4)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétence** [Perception] +4
-- **Immunité contre l'état** [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langue** —
-- **Dangerosité** 5 (1 800 PX)
+- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Immunité contre l'état** <ConditionImmunities>[pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -5543,24 +5797,26 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 Les créatures situées dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 13. En cas de [jet de sauvegarde] raté, une cible commence à se transformer en pierre et elle est [entravée]. Une cible [entravée] doit retenter le [jet de sauvegarde] à la fin de son prochain tour. En cas de réussite, l'effet dont elle est victime prend fin. En cas d'échec, la cible est [pétrifiée] à moins qu'on ne la libère grâce à un sort de restauration supérieure ou une magie similaire.
 
 
-[][MonsterHD]
+</Monster>
 
-# Goule
-- AltName: [Ghoul](monsters_vo.md#ghoul)
-- Mort-vivant de taille M, Chaotique Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 22 (5d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Goule</Name>
+- <AltName>[Ghoul](monsters_vo.md#ghoul)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
 
-- **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [charmé], [empoisonné] et [épuisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** commun
-- **Dangerosité** 1 (200 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunités contre les états** <ConditionImmunities>[charmé], [empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Actions
 
@@ -5573,25 +5829,27 @@ _Touché :_ 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant 
 _Touché :_ 9 (2d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Blême
-- AltName: [Ghast](monsters_vo.md#ghast)
-- Mort-vivant de taille M, Chaotique Mauvais
-- **Classe d'armure** 13
-- **Points de vie** 36 (8d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Blême</Name>
+- <AltName>[Ghast](monsters_vo.md#ghast)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>36 (8d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)| 8 (-1)|
 
-- **Résistance aux dégâts** nécrotiques
-- **Immunité contre les dégâts** de poison
-- **Immunités contre les états** [charmé], [empoisonné] et [épuisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langue** commun
-- **Dangerosité** 2 (450 PX)
+- **Résistance aux dégâts** <DamageResistances>nécrotiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunités contre les états** <ConditionImmunities>[charmé], [empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -5610,23 +5868,25 @@ _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 _Touché :_ 12 (2d8+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Grick
-- AltName: [Grick](monsters_vo.md#grick)
-- Créature monstrueuse de taille M, neutre
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 27 (6d8)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Grick</Name>
+- <AltName>[Grick](monsters_vo.md#grick)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>27 (6d8)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|14 (+2)|11 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
 
-- **Résistance contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langue** —
-- **Dangerosité** 2 (450 PX)
+- **Résistance contre les dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -5645,23 +5905,25 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Griffon
-- AltName: [Griffon](monsters_vo.md#griffon)
-- Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 59 (7d10+21)
-- **Vitesse** 9 m, vol 24 m
+<Monster>
+
+# <Name>Griffon</Name>
+- <AltName>[Griffon](monsters_vo.md#griffon)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)| 2 (-4)|13 (+1)| 8 (-1)|
 
-- **Compétence** [Perception] +5
-- **Sens** vision dans le noir 18 m, [Perception passive] 15
-- **Langue** —
-- **Dangerosité** 2 (450 PX)
+- **Compétence** <Abilities>[Perception] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -5680,22 +5942,24 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Guenaude aquatique
-- AltName: [Sea Hag](monsters_vo.md#sea-hag)
-- Fée de taille M, Chaotique Mauvais
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 52 (7d8+21)
-- **Vitesse** 9 m, nage 12 m
+<Monster>
+
+# <Name>Guenaude aquatique</Name>
+- <AltName>[Sea Hag](monsters_vo.md#sea-hag)</AltName>
+- <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>52 (7d8+21)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langues** aquatique, commun, géant
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>aquatique, commun, géant</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -5718,25 +5982,27 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 **_Regard mortel._** La guenaude cible une créature [terrorisée] située dans son champ de vision à 9 mètres ou moins. Si la cible peut voir la guenaude, elle doit réussir un [jet de sauvegarde] de [Sagesse] DD 11 contre cette magie pour ne pas voir ses points de vie tomber à 0.
 
 
-[][MonsterHD]
+</Monster>
 
-# Guenaude nocturne
-- AltName: [Night Hag](monsters_vo.md#night-hag)
-- Fiélon de taille M, Neutre Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 112 (15d8+45)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Guenaude nocturne</Name>
+- <AltName>[Night Hag](monsters_vo.md#night-hag)</AltName>
+- <Type>Fiélon</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>112 (15d8+45)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
 
-- **Compétences** [Discrétion] +6, [Perception] +6, [Perspicacité] +6, [Supercherie] +7
-- **Résistance aux dégâts** de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.
-- **Immunité contre l'état** [charmé]
-- **Sens** vision dans le noir 36 m, [Perception passive] 16
-- **Langues** abyssal, commun, infernal, primordial
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +6, [Perspicacité] +6, [Supercherie] +7</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.</DamageResistances>
+- **Immunité contre l'état** <ConditionImmunities>[charmé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>abyssal, commun, infernal, primordial</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -5763,23 +6029,25 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 Un sort de protection contre le mal et le bien lancé sur la cible, tout comme un cercle magique, empêche ce contact. Tant que dure le contact, la cible est la victime de terrifiantes visions. Si ces visions durent 1 heure au moins, le repos ne permet plus à la cible de récupérer quoi que ce soit et son total maximum de points de vie est réduit de 5 (1d10). Si cet effet réduit le total maximum de points de vie de la cible à 0, celle-ci meurt et, si son alignement était mauvais, son âme se retrouve piégée dans le sac des âmes de la guenaude. La réduction persiste tant qu'elle n'est pas éliminée grâce à un sort de restauration supérieure ou une magie similaire.
 
 
-[][MonsterHD]
+</Monster>
 
-# Guenaude verte
-- AltName: [Green Hag](monsters_vo.md#green-hag)
-- Fée de taille M, Neutre Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 82 (11d8+33)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Guenaude verte</Name>
+- <AltName>[Green Hag](monsters_vo.md#green-hag)</AltName>
+- <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>82 (11d8+33)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
 
-- **Compétences** [Arcanes] +3, [Discrétion] +3, [Perception] +4, [Supercherie] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** commun, draconique, sylvestre
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Arcanes] +3, [Discrétion] +3, [Perception] +4, [Supercherie] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>commun, draconique, sylvestre</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -5806,22 +6074,24 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 **_Passage dans l'invisible._** La guenaude reste [invisible] jusqu'à ce qu'elle attaque ou lance un sort, ou jusqu'à interruption de sa concentration (comme si elle se concentrait sur un sort). Elle ne laisse aucun signe physique de son passage lorsqu'elle est [invisible] et seule l'utilisation de la magie peut permettre de la pister. Ses objets équipés ou transportés deviennent également [invisibles].
 
 
-[][MonsterHD]
+</Monster>
 
-# Harpie
-- AltName: [Harpy](monsters_vo.md#harpy)
-- Créature monstrueuse de taille M, Chaotique Mauvais
-- **Classe d'armure** 11
-- **Points de vie** 38 (7d8+7)
-- **Vitesse** 6 m, vol 12 m
+<Monster>
+
+# <Name>Harpie</Name>
+- <AltName>[Harpy](monsters_vo.md#harpy)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>38 (7d8+7)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|13 (+1)|12 (+1)| 7 (-2)|10 (+0)|13 (+1)|
 
-- **Sens** [Perception passive] 10
-- **Langue** commun
-- **Dangerosité** 1 (200 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langue** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Actions
 
@@ -5844,23 +6114,25 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hibours
-- AltName: [Owlbear](monsters_vo.md#owlbear)
-- Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 59 (7d10+21)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Hibours</Name>
+- <AltName>[Owlbear](monsters_vo.md#owlbear)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -5879,23 +6151,25 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 _Touché :_ 14 (2d8+5) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hippogriffe
-- AltName: [Hippogriff](monsters_vo.md#hippogriff)
-- Créature monstrueuse de taille G, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 12 m, vol 18 m
+<Monster>
+
+# <Name>Hippogriffe</Name>
+- <AltName>[Hippogriff](monsters_vo.md#hippogriff)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
 
-- **Compétence** [Perception] +5
-- **Sens** [Perception passive] 15
-- **Langue** —
-- **Dangerosité** 1 (200 PX)
+- **Compétence** <Abilities>[Perception] +5</Abilities>
+- **Sens** <Senses>[Perception passive] 15</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -5914,22 +6188,24 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hobgobelin
-- AltName: [Hobgoblin](monsters_vo.md#hobgoblin)
-- Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
-- **Classe d'armure** 18 (bouclier, cotte de mailles)
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Hobgobelin</Name>
+- <AltName>[Hobgoblin](monsters_vo.md#hobgoblin)</AltName>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (bouclier, cotte de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** commun, gobelin
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -5946,21 +6222,23 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si elle est maniée à deux mains.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hobgobelin, sergent
-- Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
-- **Classe d'armure** 18 (bouclier, cotte de mailles)
-- **Points de vie** 29 (5d8+7)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Hobgobelin, sergent</Name>
+- <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (bouclier, cotte de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>29 (5d8+7)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|11 (+0)|10 (+0)|11 (+0)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** commun, gobelin
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>commun, gobelin</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -5981,23 +6259,25 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 **_Protéger un allié._** Le sergent peut utiliser sa réaction pour ajouter un bonus de +2 à sa CA ou à celle d'un allié situé à 1,50 mètre ou moins de lui.
 
 
-[][MonsterHD]
+</Monster>
 
-# Homme-lézard
-- AltName: [Lizardfolk](monsters_vo.md#lizardfolk)
-- Humanoïde (homme-lézard) de taille M, Neutre
-- **Classe d'armure** 15 (armure naturelle, bouclier)
-- **Points de vie** 22 (4d8+4)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Homme-lézard</Name>
+- <AltName>[Lizardfolk](monsters_vo.md#lizardfolk)</AltName>
+- <Type>Humanoïde (homme-lézard)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3, [Survie] +5
-- **Sens** [Perception passive] 13
-- **Langues** draconique
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3, [Survie] +5</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -6024,22 +6304,24 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Homme-lézard, champion
-- Humanoïde (homme-lézard) de taille M, Neutre
-- **Classe d'armure** 15 (armure naturelle, bouclier)
-- **Points de vie** 44 (8d8+8)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Homme-lézard, champion</Name>
+- <Type>Humanoïde (homme-lézard)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>44 (8d8+8)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3, [Survie] +5
-- **Sens** [Perception passive] 13
-- **Langues** draconique
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3, [Survie] +5</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>draconique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -6066,23 +6348,25 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Homme-poisson
-- AltName: [Merfolk](monsters_vo.md#merfolk)
-- Humanoïde (homme-poisson) de taille M, Neutre
-- **Classe d'armure** 11
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 3 m, nage 12 m
+<Monster>
+
+# <Name>Homme-poisson</Name>
+- <AltName>[Merfolk](monsters_vo.md#merfolk)</AltName>
+- <Type>Humanoïde (homme-poisson)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>3 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
 
-- **Compétences** [Perception] +2
-- **Sens** [Perception passive] 12
-- **Langues** aquatique, commun
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>aquatique, commun</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -6095,24 +6379,26 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
-[][MonsterHD]
+</Monster>
 
-# Homoncule
-- AltName: [Homunculus](monsters_vo.md#homunculus)
-- Créature artificielle de taille TP, neutre
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 5 (2d4)
-- **Vitesse** 6 m, vol 12 m
+<Monster>
+
+# <Name>Homoncule</Name>
+- <AltName>[Homunculus](monsters_vo.md#homunculus)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>TP</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>5 (2d4)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)| 7 (-2)|
 
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [charmé] et [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** comprend les langues de son créateur mais ne peut pas parler
-- **Dangerosité** 0 (10 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé] et [empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend les langues de son créateur mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -6125,23 +6411,25 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde] de [Constitution] DD 10 pour ne pas être [empoisonnée] pendant 1 minute. Si le [jet de sauvegarde] rate de 5 points ou plus, la cible est à la place [empoisonnée] pendant 5 (1d10) minutes, et [inconsciente] tant qu'elle est [empoisonnée] de la sorte.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hydre
-- AltName: [Hydra](monsters_vo.md#hydra)
-- Créature monstrueuse de taille TG, non-alignée
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 172 (15d12+75)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Hydre</Name>
+- <AltName>[Hydra](monsters_vo.md#hydra)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>172 (15d12+75)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|12 (+1)|20 (+5)| 2 (-4)|10 (+0)| 7 (-2)|
 
-- **Compétence** [Perception] +6
-- **Sens** vision dans le noir 18 m, [Perception passive] 16
-- **Langue** —
-- **Dangerosité** 8 (3 900 PX)
+- **Compétence** <Abilities>[Perception] +6</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 16</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -6166,22 +6454,24 @@ Chaque fois que l'hydre subit 25 dégâts ou plus lors d'un même tour, une de s
 _Touché :_ 10 (1d10+5) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Kobold
-- AltName: [Kobold](monsters_vo.md#kobold)
-- Humanoïde (kobold) de taille P, Loyal Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 5 (2d6-2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Kobold</Name>
+- <AltName>[Kobold](monsters_vo.md#kobold)</AltName>
+- <Type>Humanoïde (kobold)</Type> de taille <Size>P</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>5 (2d6-2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)| 9 (-1)| 8 (-1)| 7 (-2)| 8 (-1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 8
-- **Langues** commun, draconique
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -6200,21 +6490,23 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Kobold, saigneur
-- Humanoïde (kobold) de taille P, Neutre Mauvais
-- **Classe d'armure** 13
-- **Points de vie** 17 (5d6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Kobold, saigneur</Name>
+- <Type>Humanoïde (kobold)</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>17 (5d6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|16 (+3)|10 (+0)|10 (+0)| 9 (-1)| 9 (-1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** commun, draconique
-- **Dangerosité** 1/2 (50 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>commun, draconique</Languages>
+- **Dangerosité** <Challenge>1/2 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -6237,25 +6529,27 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 _Touché :_ 5 (1d4+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Kraken
-- AltName: [Kraken](monsters_vo.md#kraken)
-- Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 472 (27d20+189)
-- **Vitesse** 6 m, nage 18 m
+<Monster>
+
+# <Name>Kraken</Name>
+- <AltName>[Kraken](monsters_vo.md#kraken)</AltName>
+- <Type>Créature monstrueuse (titan)</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>472 (27d20+189)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
 
-- **Jets de sauvegarde** For +17, Dex +7, Con +14, Int +13, Sag +11
-- **Immunité contre les dégâts** de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [terrorisé] et [paralysé]
-- **Sens** vision parfaite 36 m, [Perception passive] 14
-- **Langues** comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m
-- **Dangerosité** 23 (50 000 PX)
+- **Jets de sauvegarde** <SavingThrows>For +17, Dex +7, Con +14, Int +13, Sag +11</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[terrorisé] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m</Languages>
+- **Dangerosité** <Challenge>23 (50 000 PX)</Challenge>
 
 ## Capacités
 
@@ -6294,23 +6588,25 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Tempête foudroyante (coûte 2 actions)._** Le kraken utilise sa Tempête foudroyante.
 
 
-[][MonsterHD]
+</Monster>
 
-# Lamie
-- AltName: [Lamia](monsters_vo.md#lamia)
-- Créature monstrueuse de taille G, Chaotique Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 97 (13d10+26)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Lamie</Name>
+- <AltName>[Lamia](monsters_vo.md#lamia)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>97 (13d10+26)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
 
-- **Compétences** [Discrétion] +3, [Perspicacité] +4, [Supercherie] +7
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** abyssal, commun
-- **Dangerosité** 4 (1 100 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perspicacité] +4, [Supercherie] +7</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>abyssal, commun</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -6339,26 +6635,28 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 _Touché :_ 14 (2d10+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Liche
-- AltName: [Lich](monsters_vo.md#lich)
-- Mort-vivant de taille M, alignement Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 135 (18d8+54)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Liche</Name>
+- <AltName>[Lich](monsters_vo.md#lich)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>alignement Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>135 (18d8+54)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 
-- **Jets de sauvegarde** CON +10, INT +12, SAG +9
-- **Résistance aux dégâts** de froid, de foudre, nécrotiques
-- **Immunité contre les dégâts** de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [épuisé], [empoisonné], [paralysé] et [terrorisé]
-- **Sens** vision parfaite 36 m, [Perception passive] 19
-- **Langues** commun et jusqu'à cinq autres langues
-- **Dangerosité** 21 (33 000 PX)
+- **Jets de sauvegarde** <SavingThrows>CON +10, INT +12, SAG +9</SavingThrows>
+- **Résistance aux dégâts** <DamageResistances>de froid, de foudre, nécrotiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [épuisé], [empoisonné], [paralysé] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 19</Senses>
+- **Langues** <Languages>commun et jusqu'à cinq autres langues</Languages>
+- **Dangerosité** <Challenge>21 (33 000 PX)</Challenge>
 
 ## Capacités
 
@@ -6409,24 +6707,26 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 **_Perturbation de la vie (coûte 3 actions)._** Chaque créature non morte-vivante dans un rayon de 6 m de la liche doit effectuer un [jet de sauvegarde] de [Constitution] DD18 contre cette magie. Ceux qui y échouent subissent 21 (6d6) dégâts nécrotiques, ou la moitié seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Licorne
-- AltName: [Unicorn](monsters_vo.md#unicorn)
-- Céleste de taille G, Loyal Bon
-- **Classe d'armure** 12
-- **Points de vie** 67 (9d10+18)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Licorne</Name>
+- <AltName>[Unicorn](monsters_vo.md#unicorn)</AltName>
+- <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>67 (9d10+18)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
 
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [charmé], [empoisonné] et [paralysé]
-- **Sens** vision aveugle 18 m, [Perception passive] 13
-- **Langues** céleste, elfe, sylvestre, télépathie 18 m
-- **Dangerosité** 5 (1 800 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>céleste, elfe, sylvestre, télépathie 18 m</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -6469,24 +6769,26 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 **_Soin personnel (coûte 3 actions)._** La licorne récupère par magie 11 (2d8+2) points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Loup-garou
-- AltName: [Werewolf](monsters_vo.md#werewolf)
-- Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
-- **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
-- **Points de vie** 58 (9d8+18)
-- **Vitesse** 9 m (12 m sous forme de loup)
+<Monster>
+
+# <Name>Loup-garou</Name>
+- <AltName>[Werewolf](monsters_vo.md#werewolf)</AltName>
+- <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup</ArmorClass>
+- **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
+- **Vitesse** <Speed>9 m (12 m sous forme de loup)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Compétences** [Discrétion] +3, [Perception] +4
-- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Sens** [Perception passive] 14
-- **Langues** commun (ne peut pas parler sous forme de loup)
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +4</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>commun (ne peut pas parler sous forme de loup)</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -6511,24 +6813,26 @@ _Touché :_ 5 (1d6+2) dégâts perforants ou 6 (1d8+2) dégâts perforants si el
 _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 pour ne pas contracter la malédiction de la lycanthropie du loup-garou.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ours-garou
-- AltName: [Werebear](monsters_vo.md#werebear)
-- Humanoïde (humain, métamorphe) de taille M, Neutre Bon
-- **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
-- **Points de vie** 135 (18d8+54)
-- **Vitesse** 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)
+<Monster>
+
+# <Name>Ours-garou</Name>
+- <AltName>[Werebear](monsters_vo.md#werebear)</AltName>
+- <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Bon</Alignment>
+- **Classe d'armure** <ArmorClass>10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours</ArmorClass>
+- **Points de vie** <HitPoints>135 (18d8+54)</HitPoints>
+- **Vitesse** <Speed>9 m (12 m, escalade 9 m sous forme hybride ou d'ours)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
 
-- **Compétences** [Perception] +7
-- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Sens** [Perception passive] 17
-- **Langues** commun (ne peut pas parler sous forme d'ours)
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Perception] +7</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 17</Senses>
+- **Langues** <Languages>commun (ne peut pas parler sous forme d'ours)</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -6553,24 +6857,26 @@ _Touché :_ 10 (1d12+4) dégâts tranchants.
 _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 14 pour ne pas contracter la malédiction de la lycanthropie de l'ours-garou.
 
 
-[][MonsterHD]
+</Monster>
 
-# Rat-garou
-- AltName: [Wererat](monsters_vo.md#wererat)
-- Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 33 (6d8+6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Rat-garou</Name>
+- <AltName>[Wererat](monsters_vo.md#wererat)</AltName>
+- <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)| 8 (-1)|
 
-- **Compétences** [Discrétion] +4, [Perception] +2
-- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Sens** vision dans le noir 18 m (forme de rat uniquement), [Perception passive] 12
-- **Langues** commun (ne peut pas parler sous forme de rat)
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 18 m (forme de rat uniquement), [Perception passive] 12</Senses>
+- **Langues** <Languages>commun (ne peut pas parler sous forme de rat)</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -6595,24 +6901,26 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas contracter la malédiction de la lycanthropie du rat-garou.
 
 
-[][MonsterHD]
+</Monster>
 
-# Sanglier-garou
-- AltName: [Wereboar](monsters_vo.md#wereboar)
-- Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
-- **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
-- **Points de vie** 78 (12d8+24)
-- **Vitesse** 9 m (12 m sous forme de sanglier)
+<Monster>
+
+# <Name>Sanglier-garou</Name>
+- <AltName>[Wereboar](monsters_vo.md#wereboar)</AltName>
+- <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier</ArmorClass>
+- **Points de vie** <HitPoints>78 (12d8+24)</HitPoints>
+- **Vitesse** <Speed>9 m (12 m sous forme de sanglier)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
 
-- **Compétences** [Perception] +2
-- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Sens** [Perception passive] 12
-- **Langues** commun (ne peut pas parler sous forme de sanglier)
-- **Dangerosité** 4 (1 100 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>commun (ne peut pas parler sous forme de sanglier)</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -6635,24 +6943,26 @@ _Touché :_ 10 (2d6+3) dégâts tranchants. Si la cible est un humanoïde, elle 
 _Touché :_ 10 (2d6+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tigre-garou
-- AltName: [Weretiger](monsters_vo.md#weretiger)
-- Humanoïde (humain, métamorphe) de taille M, Neutre
-- **Classe d'armure** 12
-- **Points de vie** 120 (16d8+48)
-- **Vitesse** 9 m (12 m sous forme de tigre)
+<Monster>
+
+# <Name>Tigre-garou</Name>
+- <AltName>[Weretiger](monsters_vo.md#weretiger)</AltName>
+- <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>120 (16d8+48)</HitPoints>
+- **Vitesse** <Speed>9 m (12 m sous forme de tigre)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
 
-- **Compétences** [Discrétion] +4, [Perception] +5
-- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Sens** vision dans le noir 18 m, [Perception passive] 15
-- **Langues** commun (ne peut pas parler sous forme de tigre)
-- **Dangerosité** 4 (1 100 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>commun (ne peut pas parler sous forme de tigre)</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -6683,24 +6993,26 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 13 pour ne pas contracter la malédiction de la lycanthropie du tigre-garou.
 
 
-[][MonsterHD]
+</Monster>
 
-# Magmatique
-- AltName: [Magmin](monsters_vo.md#magmin)
-- Élémentaire de taille P, Chaotique Neutre
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 9 (2d6+2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Magmatique</Name>
+- <AltName>[Magmin](monsters_vo.md#magmin)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Chaotique Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>9 (2d6+2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)|12 (+1)| 8 (-1)|11 (+0)|10 (+0)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de feu
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** ignée
-- **Dangerosité** 1/2 (100 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>ignée</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -6719,23 +7031,25 @@ _Touché :_ 7 (2d6) dégâts de feu. Si la cible est un objet inflammable ou une
 Jusqu'au moment où une créature consacre une action à étouffer les flammes, la cible subit 3 (1d6) dégâts de feu à la fin de chacun de ses tours.
 
 
-[][MonsterHD]
+</Monster>
 
-# Manteleur
-- AltName: [Cloaker](monsters_vo.md#cloaker)
-- Aberration de taille G, Chaotique Neutre
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 78 (12d10+12)
-- **Vitesse** 3 m, vol 12 m
+<Monster>
+
+# <Name>Manteleur</Name>
+- <AltName>[Cloaker](monsters_vo.md#cloaker)</AltName>
+- <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Chaotique Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>78 (12d10+12)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
 
-- **Compétence** [Discrétion] +5
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langues** commun des profondeurs, profond
-- **Dangerosité** 8 (3 900 PX)
+- **Compétence** <Abilities>[Discrétion] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>commun des profondeurs, profond</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -6768,23 +7082,25 @@ Une créature, y compris la cible, peut consacrer son action à détacher le man
 _Touché :_ 7 (1d8+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Mante obscure
-- AltName: [Darkmantle](monsters_vo.md#darkmantle)
-- Créature monstrueuse de taille P, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 22 (5d6+5)
-- **Vitesse** 3 m, vol 9 m
+<Monster>
+
+# <Name>Mante obscure</Name>
+- <AltName>[Darkmantle](monsters_vo.md#darkmantle)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d6+5)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Compétence** [Discrétion] +3
-- **Sens** vision aveugle 18 m, [Perception passive] 10
-- **Langue** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétence** <Abilities>[Discrétion] +3</Abilities>
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 10</Senses>
+- **Langue** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -6807,22 +7123,24 @@ Une créature peut détacher la mante obscure en réussissant un test de [Force]
 Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1,50 mètre de déplacement.
 
 
-[][MonsterHD]
+</Monster>
 
-# Manticore
-- AltName: [Manticore](monsters_vo.md#manticore)
-- Créature monstrueuse de taille G, Loyal Mauvais
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 68 (8d10+24)
-- **Vitesse** 9 m, vol 15 m
+<Monster>
+
+# <Name>Manticore</Name>
+- <AltName>[Manticore](monsters_vo.md#manticore)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>68 (8d10+24)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langues** commun
-- **Dangerosité** 3 (700 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -6845,23 +7163,25 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 _Touché :_ 7 (1d8+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Méduse
-- AltName: [Medusa](monsters_vo.md#medusa)
-- Créature monstrueuse de taille M, Loyal Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 127 (17d8+51)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Méduse</Name>
+- <AltName>[Medusa](monsters_vo.md#medusa)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>127 (17d8+51)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
 
-- **Compétences** [Discrétion] +5, [Perception] +4, [Perspicacité] +4, [Supercherie] +5
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** commun
-- **Dangerosité** 6 (2 300 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +4, [Perspicacité] +4, [Supercherie] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>commun</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -6888,26 +7208,28 @@ _Touché :_ 4 (1d4+2) dégâts perforants plus 14 (4d6) dégâts de poison.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Méphite de glace
-- AltName: [Ice Mephit](monsters_vo.md#ice-mephit)
-- Élémentaire de taille P, Neutre Mauvais
-- **Classe d'armure** 11
-- **Points de vie** 21 (6d6)
-- **Vitesse** 9 m, vol 9 m
+<Monster>
+
+# <Name>Méphite de glace</Name>
+- <AltName>[Ice Mephit](monsters_vo.md#ice-mephit)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>21 (6d6)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-3)|13 (+1)|10 (+0)| 9 (-1)|11 (+0)|12 (+1)|
 
-- **Compétences** [Discrétion] +3, [Perception] +2
-- **Vulnérabilité aux dégâts** contondants et de feu
-- **Immunité contre les dégâts** de froid et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** aérien, aquatique
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +2</Abilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants et de feu</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>aérien, aquatique</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -6928,26 +7250,28 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 **_Souffle de givre (Recharge 6)._** Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 10 ; elles subissent 5 (2d4) dégâts de froid en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Méphite de magma
-- AltName: [Magma Mephit](monsters_vo.md#magma-mephit)
-- Élémentaire de taille P, Neutre Mauvais
-- **Classe d'armure** 11
-- **Points de vie** 22 (5d6+5)
-- **Vitesse** 9 m, vol 9 m
+<Monster>
+
+# <Name>Méphite de magma</Name>
+- <AltName>[Magma Mephit](monsters_vo.md#magma-mephit)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d6+5)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|12 (+1)|12 (+1)| 7 (-2)|10 (+0)|10 (+0)|
 
-- **Compétences** [Discrétion] +3
-- **Vulnérabilité aux dégâts** de froid
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** ignée, terreux
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +3</Abilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de froid</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>ignée, terreux</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -6966,26 +7290,28 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 **_Souffle de feu (Recharge 6)._** Le méphite souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 11 ; elles subissent 7 (2d6) dégâts de feu en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Méphite de poussière
-- AltName: [Dust Mephit](monsters_vo.md#dust-mephit)
-- Élémentaire de taille P, Neutre Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 17 (5d6)
-- **Vitesse** 9 m, vol 9 m
+<Monster>
+
+# <Name>Méphite de poussière</Name>
+- <AltName>[Dust Mephit](monsters_vo.md#dust-mephit)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>17 (5d6)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|14 (+2)|10 (+0)| 9 (-1)|11 (+0)|10 (+0)|
 
-- **Compétences** [Discrétion] +4, [Perception] +2
-- **Vulnérabilité aux dégâts** de feu
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** aérien, terreux
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>aérien, terreux</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -7004,24 +7330,26 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 Une créature peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Méphite de vapeur
-- AltName: [Steam Mephit](monsters_vo.md#steam-mephit)
-- Élémentaire de taille P, Neutre Mauvais
-- **Classe d'armure** 10
-- **Points de vie** 21 (6d6)
-- **Vitesse** 9 m, vol 9 m
+<Monster>
+
+# <Name>Méphite de vapeur</Name>
+- <AltName>[Steam Mephit](monsters_vo.md#steam-mephit)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>21 (6d6)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
 
-- **Immunité contre les dégâts** de feu et de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** aquatique, ignée
-- **Dangerosité** 1/4 (50 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>aquatique, ignée</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -7040,22 +7368,24 @@ _Touché :_ 2 (1d4) dégâts tranchants plus 2 (1d4) dégâts de feu.
 Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 10 ; elles subissent 4 (1d8) dégâts de feu en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Merrow
-- AltName: [Merrow](monsters_vo.md#merrow)
-- Créature monstrueuse de taille G, Chaotique Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 45 (6d10+12)
-- **Vitesse** 3 m, nage 12 m
+<Monster>
+
+# <Name>Merrow</Name>
+- <AltName>[Merrow](monsters_vo.md#merrow)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
+- **Vitesse** <Speed>3 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|15 (+2)| 8 (-1)|10 (+0)| 9 (-1)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** abyssal, aquatique
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>abyssal, aquatique</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -7080,25 +7410,27 @@ Si la cible est une créature de taille TG ou plus petite, elle doit réussir un
 _Touché :_ 8 (1d8+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Mimique
-- AltName: [Mimic](monsters_vo.md#mimic)
-- Créature monstrueuse (métamorphe) de taille M, Neutre
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 58 (9d8+18)
-- **Vitesse** 4,50 m
+<Monster>
+
+# <Name>Mimique</Name>
+- <AltName>[Mimic](monsters_vo.md#mimic)</AltName>
+- <Type>Créature monstrueuse (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
+- **Vitesse** <Speed>4,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|15 (+2)| 5 (-3)|13 (+1)| 8 (-1)|
 
-- **Compétences** [Discrétion] +5
-- **Immunité contre les dégâts** d'acide
-- **Immunité contre l'état** [à terre]
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[à terre]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -7123,23 +7455,25 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 4 (1d8) dégâts d'acide.
 _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet, la cible est également victime de son trait Collante.
 
 
-[][MonsterHD]
+</Monster>
 
-# Minotaure
-- AltName: [Minotaur](monsters_vo.md#minotaur)
-- Créature monstrueuse de taille G, Chaotique Mauvais
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 76 (9d10+27)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Minotaure</Name>
+- <AltName>[Minotaur](monsters_vo.md#minotaur)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>76 (9d10+27)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
 
-- **Compétences** [Perception] +7
-- **Sens** vision dans le noir 18 m, [Perception passive] 17
-- **Langues** abyssal
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Perception] +7</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>abyssal</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -7162,24 +7496,26 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Molosse infernal
-- AltName: [Hell Hound](monsters_vo.md#hell-hound)
-- Fiélon de taille M, Loyal Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 45 (7d8+14)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Molosse infernal</Name>
+- <AltName>[Hell Hound](monsters_vo.md#hell-hound)</AltName>
+- <Type>Fiélon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>45 (7d8+14)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|12 (+1)|14 (+2)| 6 (-2)|13 (+1)| 6 (-2)|
 
-- **Compétence** [Perception] +5
-- **Immunité contre les dégâts** de feu
-- **Sens** vision dans le noir 18 m, [Perception passive] 15
-- **Langue** comprend l'infernal mais ne peut pas parler
-- **Dangerosité** 3 (700 PX)
+- **Compétence** <Abilities>[Perception] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
+- **Langue** <Languages>comprend l'infernal mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -7196,27 +7532,29 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 **_Souffle de feu (Recharge 5-6)._** Le molosse souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde] de [Dextérité] DD 12 ; elles subissent 21 (6d6) dégâts de feu en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Momie
-- AltName: [Mummy](monsters_vo.md#mummy)
-- Mort-vivant de taille M, Loyal Mauvais
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 58 (9d8+18)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Momie</Name>
+- <AltName>[Mummy](monsters_vo.md#mummy)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|10 (+0)|12 (+1)|
 
-- **Jets de sauvegarde** Sag +2
-- **Vulnérabilité aux dégâts** de feu
-- **Résistances aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** celles qu'elle connaissait de son vivant
-- **Dangerosité** 3 (700 PX)
+- **Jets de sauvegarde** <SavingThrows>Sag +2</SavingThrows>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Résistances aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>celles qu'elle connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Actions
 
@@ -7231,27 +7569,29 @@ _Touché :_ 10 (2d6+3) dégâts contondants plus 10 (3d6) dégâts nécrotiques.
 Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde] de [Sagesse] DD 11 contre cette magie pour ne pas être [terrorisée] jusqu'à la fin du prochain tour de la momie. Si la cible rate le [jet de sauvegarde] de 5 points ou plus, elle est également [paralysée] pendant la même durée. Une cible qui réussit le [jet de sauvegarde] est immunisée contre le regard effroyable de toutes les momies (mais pas contre celui des momies augustes) pendant 24 heures.
 
 
-[][MonsterHD]
+</Monster>
 
-# Momie auguste
-- AltName: [Mummy Lord](monsters_vo.md#mummy-lord)
-- Mort-vivant de taille M, Loyal Mauvais
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 97 (13d8+39)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Momie auguste</Name>
+- <AltName>[Mummy Lord](monsters_vo.md#mummy-lord)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>97 (13d8+39)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)|
 
-- **Jets de sauvegarde** Con +8, Int +5, Sag +9, Cha +8
-- **Compétences** [Histoire] +5, [Religion] +5
-- **Vulnérabilité aux dégâts** de feu
-- **Immunité contre les dégâts** de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** celles qu'elle connaissait de son vivant
-- **Dangerosité** 15 (13 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +8, Int +5, Sag +9, Cha +8</SavingThrows>
+- **Compétences** <Abilities>[Histoire] +5, [Religion] +5</Abilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>celles qu'elle connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>15 (13 000 PX)</Challenge>
 
 ## Capacités
 
@@ -7306,25 +7646,27 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 **_Tourbillon de sable (coûte 2 actions)._** La momie auguste se transforme par magie en un tourbillon de sable, se déplace d'une distance maximale de 18 mètres, puis reprend sa forme normale. Sous forme de tourbillon, la momie auguste est immunisée contre tous les dégâts et elle ne peut pas être [empoignée], [pétrifiée], jetée [à terre], [entravée] ni [étourdie]. Ses objets équipés ou transportés restent en sa possession.
 
 
-[][MonsterHD]
+</Monster>
 
-# Naga corrupteur
-- AltName: [Spirit Naga](monsters_vo.md#spirit-naga)
-- Créature monstrueuse de taille G, Chaotique Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 75 (10d10+20)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Naga corrupteur</Name>
+- <AltName>[Spirit Naga](monsters_vo.md#spirit-naga)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>75 (10d10+20)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
 
-- **Jets de sauvegarde** Dex +6, Con +5, Sag +5, Cha +6
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [charmé] et [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** abyssal, commun
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +5, Sag +5, Cha +6</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé] et [empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>abyssal, commun</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -7351,25 +7693,27 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 13 ; elle subit 31 (7d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Naga gardien
-- AltName: [Guardian Naga](monsters_vo.md#guardian-naga)
-- Créature monstrueuse de taille G, Loyal Bon
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 127 (15d10+45)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Naga gardien</Name>
+- <AltName>[Guardian Naga](monsters_vo.md#guardian-naga)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>127 (15d10+45)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
 
-- **Jets de sauvegarde** Dex +8, Con +7, Int +7, Sag +8, Cha +8
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [charmé] et [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** céleste, commun
-- **Dangerosité** 10 (5 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +8, Con +7, Int +7, Sag +8, Cha +8</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé] et [empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>céleste, commun</Languages>
+- **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
 
 ## Capacités
 
@@ -7402,26 +7746,28 @@ _Touché :_ la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 
 _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 15 ; elle subit 45 (10d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nécrophage
-- AltName: [Wight](monsters_vo.md#wight)
-- Mort-vivant de taille M, Neutre Mauvais
-- **Classe d'armure** 14 (armure de cuir clouté)
-- **Points de vie** 45 (6d8+18)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Nécrophage</Name>
+- <AltName>[Wight](monsters_vo.md#wight)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure de cuir clouté)</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d8+18)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et [épuisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** celles qu'il connaissait de son vivant
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Résistance aux dégâts** <DamageResistances>nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>celles qu'il connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -7446,24 +7792,26 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si elle est maniée à deux mains.
 
 
-[][MonsterHD]
+</Monster>
 
-# Armure animée
-- AltName: [Animated Armor](monsters_vo.md#animated-armor)
-- Créature artificielle de taille M, non-alignée
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 33 (6d8+6)
-- **Vitesse** 7,50 m
+<Monster>
+
+# <Name>Armure animée</Name>
+- <AltName>[Animated Armor](monsters_vo.md#animated-armor)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
+- **Vitesse** <Speed>7,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive] 6
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison et psychiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive] 6</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -7480,25 +7828,27 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Épée volante
-- AltName: [Flying Sword](monsters_vo.md#flying-sword)
-- Créature artificielle de taille P, non-alignée
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 17 (5d6)
-- **Vitesse** 0 m, vol 15 m (vol stationnaire)
+<Monster>
+
+# <Name>Épée volante</Name>
+- <AltName>[Flying Sword](monsters_vo.md#flying-sword)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>17 (5d6)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 15 m (vol stationnaire)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|11 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
 
-- **Jets de sauvegarde** Dex +4
-- **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié], [terrorisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive] 7
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de poison et psychiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié], [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive] 7</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -7513,24 +7863,26 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 _Touché :_ 5 (1d8+1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tapis étrangleur
-- AltName: [Rug of Smothering](monsters_vo.md#rug-of-smothering)
-- Créature artificielle de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 33 (6d10)
-- **Vitesse** 3 m
+<Monster>
+
+# <Name>Tapis étrangleur</Name>
+- <AltName>[Rug of Smothering](monsters_vo.md#rug-of-smothering)</AltName>
+- <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>33 (6d10)</HitPoints>
+- **Vitesse** <Speed>3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
 
-- **Immunité contre les dégâts** de poison et psychiques
-- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié] et [terrorisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive] 6
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de poison et psychiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive] 6</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -7551,22 +7903,24 @@ _Touché :_ la créature est [empoignée] (évasion DD 13). Jusqu'à la fin de c
 De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ogre
-- AltName: [Ogre](monsters_vo.md#ogre)
-- Géant de taille G, Chaotique Mauvais
-- **Classe d'armure** 11 (armure de peau)
-- **Points de vie** 59 (7d10+21)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Ogre</Name>
+- <AltName>[Ogre](monsters_vo.md#ogre)</AltName>
+- <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure de peau)</ArmorClass>
+- **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 8 (-1)|16 (+3)| 5 (-3)| 7 (-2)| 7 (-2)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 8
-- **Langues** commun, géant
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>commun, géant</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -7579,27 +7933,29 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ombre
-- AltName: [Shadow](monsters_vo.md#shadow)
-- Mort-vivant de taille M, Chaotique Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 16 (3d8+3)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Ombre</Name>
+- <AltName>[Shadow](monsters_vo.md#shadow)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>16 (3d8+3)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
 
-- **Compétences** [Discrétion] +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)
-- **Vulnérabilité aux dégâts** radiants
-- **Résistance aux dégâts** d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de poison et nécrotiques
-- **Immunité contre les états** [à terre], [terrorisé], [empoigné], [empoisonné], [épuisé], [entravé] [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)</Abilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>radiants</DamageVulnerabilities>
+- **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [terrorisé], [empoigné], [empoisonné], [épuisé], [entravé] [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -7618,24 +7974,26 @@ _Touché :_ 9 (2d6+2) dégâts nécrotiques et la valeur de [Force] de la cible 
 Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures.
 
 
-[][MonsterHD]
+</Monster>
 
-# Oni
-- AltName: [Oni](monsters_vo.md#oni)
-- Géant de taille G, Loyal Mauvais
-- **Classe d'armure** 16 (cotte de mailles)
-- **Points de vie** 110 (13d10+39)
-- **Vitesse** 9 m, vol 9 m
+<Monster>
+
+# <Name>Oni</Name>
+- <AltName>[Oni](monsters_vo.md#oni)</AltName>
+- <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (cotte de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>110 (13d10+39)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
 
-- **Jets de sauvegarde** Dex +3, Con +6, Sag +4, Cha +5
-- **Compétences** [Arcanes] +5, [Perception] +4, [Supercherie] +8
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** commun, géant
-- **Dangerosité** 7 (2 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +3, Con +6, Sag +4, Cha +5</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +5, [Perception] +4, [Supercherie] +8</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>commun, géant</Languages>
+- **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
 
 ## Capacités
 
@@ -7664,22 +8022,24 @@ _Touché :_ 15 (2d10+4) dégâts tranchants ou 9 (1d10+4) dégâts tranchants si
 _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Orc
-- Humanoïde (orc) de taille M, Chaotique Mauvais
-- **Classe d'armure** 13 (armure de peau)
-- **Points de vie** 15 (2d8+6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Orc</Name>
+- <Type>Humanoïde (orc)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure de peau)</ArmorClass>
+- **Points de vie** <HitPoints>15 (2d8+6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|16 (+3)| 7 (-2)|11 (+0)|10 (+0)|
 
-- **Compétences** [Intimidation] +2
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** commun, orc
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Intimidation] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>commun, orc</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -7696,22 +8056,24 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chaman orc
-- Humanoïde (demi-orc) de taille M, Neutre Mauvais
-- **Classe d'armure** 13 (armure de cuir)
-- **Points de vie** 33 (6d8+6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Chaman orc</Name>
+- <Type>Humanoïde (demi-orc)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|13 (+1)|10 (+0)|14 (+2)|12 (+1)|
 
-- **Compétences** [Religion] +2, [Persuasion] +3
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** commun, orc
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Religion] +2, [Persuasion] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>commun, orc</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -7734,23 +8096,25 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Otyugh
-- AltName: [Otyugh](monsters_vo.md#otyugh)
-- Aberration de taille G, Neutre
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 114 (12d10+48)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Otyugh</Name>
+- <AltName>[Otyugh](monsters_vo.md#otyugh)</AltName>
+- <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|11 (+0)|19 (+4)| 6 (-2)|13 (+1)| 6 (-2)|
 
-- **Jets de sauvegarde** Con +7
-- **Sens** vision dans le noir 36 m, [Perception passive] 11
-- **Langues** otyugh
-- **Dangerosité** 5 (1 800 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +7</SavingThrows>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>otyugh</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -7775,22 +8139,24 @@ _Touché :_ 7 (1d8+3) dégâts contondants plus 4 (1d8) dégâts perforants. Si 
 L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Oxydeur
-- AltName: [Rust Monster](monsters_vo.md#rust-monster)
-- Créature monstrueuse de taille M, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 27 (5d8+5)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Oxydeur</Name>
+- <AltName>[Rust Monster](monsters_vo.md#rust-monster)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|13 (+1)| 2 (-4)|13 (+1)| 6 (-2)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -7811,24 +8177,26 @@ Si l'objet touché est une arme métallique tenue en main par une créature, ell
 _Touché :_ 5 (1d8+1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Parasite arcanique
-- Aberration de taille TP, Neutre
-- **Classe d'armure** 12
-- **Points de vie** 7 (2d6)
-- **Vitesse** 9 m au sol
+<Monster>
+
+# <Name>Parasite arcanique</Name>
+- <Type>Aberration</Type> de taille <Size>TP</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>7 (2d6)</HitPoints>
+- **Vitesse** <Speed>9 m au sol</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|15 (+2)|11 (+0)| 2 (-4)| 7 (-2)| 4 (-3)|
 
-- **Compétences** [Perception] +0
-- **Résistance aux dégâts** acide, feu, foudre, froid, tonnerre
-- **Immunité contre l'état** [aveuglé]
-- **Sens** vision aveugle 18 mètres (aveugle au-delà) ; [Perception passive] 8
-- **Langue** –
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Perception] +0</Abilities>
+- **Résistance aux dégâts** <DamageResistances>acide, feu, foudre, froid, tonnerre</DamageResistances>
+- **Immunité contre l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 mètres (aveugle au-delà) ; [Perception passive] 8</Senses>
+- **Langue** <Languages>–</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -7858,24 +8226,26 @@ _Touché :_ 5 (1d4+2) dégâts perçants et le parasite arcanique s'ancre à sa 
 Une fois accroché, le parasite absorbe à la cible un emplacement de sort du plus haut niveau disponible à chaque round. Le parasite se détache généralement après avoir absorbé 1d4+1 emplacements de sorts ou si la cible n'a plus d'emplacement de sorts à absorber. Il peut se détacher en utilisant 1,50 mètre sur son déplacement. La victime du parasite ou toute autre créature peut également détacher le parasite en utilisant une action mais, en s'arrachant, le rostre occasionne à nouveau 5 (1d4+2) dégâts perçants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Pégase
-- AltName: [Pegasus](monsters_vo.md#pegasus)
-- Céleste de taille G, Chaotique Bon
-- **Classe d'armure** 12
-- **Points de vie** 59 (7d10+21)
-- **Vitesse** 18 m, vol 27 m
+<Monster>
+
+# <Name>Pégase</Name>
+- <AltName>[Pegasus](monsters_vo.md#pegasus)</AltName>
+- <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
+- **Vitesse** <Speed>18 m, vol 27 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
 
-- **Jets de sauvegarde** Dex +4, Sag +4, Cha +3
-- **Compétences** [Perception] +6
-- **Sens** [Perception passive] 16
-- **Langues** comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Sag +4, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Perception] +6</Abilities>
+- **Sens** <Senses>[Perception passive] 16</Senses>
+- **Langues** <Languages>comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -7884,23 +8254,25 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Pseudodragon
-- AltName: [Pseudodragon](monsters_vo.md#pseudodragon)
-- Dragon de taille TP, Neutre Bon
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 7 (2d4+2)
-- **Vitesse** 4,50 m, vol 18 m
+<Monster>
+
+# <Name>Pseudodragon</Name>
+- <AltName>[Pseudodragon](monsters_vo.md#pseudodragon)</AltName>
+- <Type>Dragon</Type> de taille <Size>TP</Size>, <Alignment>Neutre Bon</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>7 (2d4+2)</HitPoints>
+- **Vitesse** <Speed>4,50 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 13
-- **Langues** comprend le commun et le draconique mais ne peut pas parler
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>comprend le commun et le draconique mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -7921,25 +8293,27 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Rakshasa
-- AltName: [Rakshasa](monsters_vo.md#rakshasa)
-- Fiélon de taille M, Loyal Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 110 (13d8+52)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Rakshasa</Name>
+- <AltName>[Rakshasa](monsters_vo.md#rakshasa)</AltName>
+- <Type>Fiélon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>110 (13d8+52)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
-- **Compétences** [Perspicacité] +8, [Supercherie] +10
-- **Vulnérabilité contre les dégâts** perforants infligés par des armes magiques maniées par des créatures Bonnes.
-- **Immunité contre les dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** commun, infernal
-- **Dangerosité** 13 (10 000 PX)
+- **Compétences** <Abilities>[Perspicacité] +8, [Supercherie] +10</Abilities>
+- **Vulnérabilité contre les dégâts** <DamageVulnerabilities>perforants infligés par des armes magiques maniées par des créatures Bonnes.</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>commun, infernal</Languages>
+- **Dangerosité** <Challenge>13 (10 000 PX)</Challenge>
 
 ## Capacités
 
@@ -7964,22 +8338,24 @@ _Touché :_ 9 (2d6+2) dégâts tranchants et la cible est maudite si c'est une c
 La malédiction magique prend effet chaque fois que la cible prend un repos court ou long en envahissant ses pensées d'images horribles et de cauchemars. Le repos long ou court ne permet plus à la cible maudite de récupérer quoi que ce soit. La malédiction persiste tant qu'elle n'est pas levée par le sort _[lever une malédiction]_ ou une magie similaire.
 
 
-[][MonsterHD]
+</Monster>
 
-# Remorhaz
-- Créature monstrueuse de taille TG, non-alignée
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 195 (17d12+85)
-- **Vitesse** 9 m, fouissement 6 m
+<Monster>
+
+# <Name>Remorhaz</Name>
+- <Type>Créature monstrueuse</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>195 (17d12+85)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)|13 (+1)|21 (+5)| 4 (-3)|10 (+0)| 5 (-3)|
 
-- **Immunité contre les dégâts** de feu et de froid
-- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 11 (7 200 PX)
+- **Immunité contre les dégâts** <DamageImmunities>de feu et de froid</DamageImmunities>
+- **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Capacités
 
@@ -7998,24 +8374,26 @@ Si le remorhaz meurt, une créature engloutie n'est plus [entravée] à cause de
 _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la cible est une créature, elle est [empoignée] (évasion DD 17). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le remorhaz ne peut pas mordre une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Roc
-- AltName: [Roc](monsters_vo.md#roc)
-- Créature monstrueuse de taille Gig, non-alignée
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 248 (16d20+80)
-- **Vitesse** 6 m, vol 36 m
+<Monster>
+
+# <Name>Roc</Name>
+- <AltName>[Roc](monsters_vo.md#roc)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>248 (16d20+80)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 36 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |28 (+9)|10 (+0)|20 (+5)| 3 (-4)|10 (+0)| 9 (-1)|
 
-- **Jets de sauvegarde** Dex +4, Con +9, Sag +4, Cha +3
-- **Compétences** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 11 (7 200 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +4, Con +9, Sag +4, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Capacités
 
@@ -8034,23 +8412,25 @@ _Touché :_ 27 (4d8+9) dégâts perforants.
 _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasion DD 19). Jusqu'à la fin de l'empoignade, la cible est [entravée] et le roc ne peut plus utiliser ses serres sur une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Sahuagin
-- AltName: [Sahuagin](monsters_vo.md#sahuagin)
-- Humanoïde (sahuagin) de taille M, Loyal Mauvais
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 22 (4d8+4)
-- **Vitesse** 9 m, nage 12 m
+<Monster>
+
+# <Name>Sahuagin</Name>
+- <AltName>[Sahuagin](monsters_vo.md#sahuagin)</AltName>
+- <Type>Humanoïde (sahuagin)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)| 9 (-1)|
 
-- **Compétences** [Perception] +5
-- **Sens** vision dans le noir 36 m, [Perception passive] 15
-- **Langues** sahuagin
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Perception] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>sahuagin</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -8077,22 +8457,24 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Sahuagin, prêtresse de Mikala
-- Humanoïde (sahuagin) de taille M, Loyal Mauvais
-- **Classe d'armure** 14 (armure de coquillages)
-- **Points de vie** 50 (9d8+9)
-- **Vitesse** 9 m, nage 12 m
+<Monster>
+
+# <Name>Sahuagin, prêtresse de Mikala</Name>
+- <Type>Humanoïde (sahuagin)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure de coquillages)</ArmorClass>
+- **Points de vie** <HitPoints>50 (9d8+9)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)|12 (+1)|17 (+3)|11 (+0)|
 
-- **Compétences** [Perception] +6, [Religion] +6
-- **Sens** vision dans le noir 36 m, [Perception passive] 16
-- **Langues** sahuagin
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Perception] +6, [Religion] +6</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>sahuagin</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -8131,25 +8513,27 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Salamandre
-- AltName: [Salamander](monsters_vo.md#salamander)
-- Élémentaire de taille G, Neutre Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 90 (12d10+24)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Salamandre</Name>
+- <AltName>[Salamander](monsters_vo.md#salamander)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>90 (12d10+24)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
 
-- **Vulnérabilité aux dégâts** de froid
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** de feu
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** ignée
-- **Dangerosité** 5 (1 800 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de froid</DamageVulnerabilities>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>ignée</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -8170,23 +8554,25 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la cible est [empoignée] (évasion DD 14). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la salamandre peut réussir automatiquement une attaque de queue contre elle, mais ne peut plus effectuer d'attaque de queue contre d'autres cibles.
 
 
-[][MonsterHD]
+</Monster>
 
-# Satyre
-- AltName: [Satyr](monsters_vo.md#satyr)
-- Fée de taille M, Chaotique Neutre
-- **Classe d'armure** 14 (armure de cuir)
-- **Points de vie** 31 (7d8)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Satyre</Name>
+- <AltName>[Satyr](monsters_vo.md#satyr)</AltName>
+- <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Chaotique Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>31 (7d8)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
 
-- **Compétences** [Discrétion] +5, [Perception] +2, [Représentation] +6
-- **Sens** [Perception passive] 12
-- **Langues** commun, elfe, sylvestre
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +2, [Représentation] +6</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>commun, elfe, sylvestre</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -8207,24 +8593,26 @@ _Touché :_ 6 (2d4+1) dégâts contondants.
 _Touché :_ 6 (1d6+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Saule étrangleur
-- Plante de taille TG, non-alignée
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 115 (10d12+50)
-- **Vitesse** 0 m
+<Monster>
+
+# <Name>Saule étrangleur</Name>
+- <Type>Plante</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>115 (10d12+50)</HitPoints>
+- **Vitesse** <Speed>0 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|21 (+5)| 1 (-5)|10 (+0)| 1 (-5)|
 
-- **Résistance aux dégâts** contondant, perforant, poison, tonnerre
-- **Immunité contre les états** [assourdi], [aveuglé], [charmé], [terrorisé]
-- **Vulnérabilité aux dégâts** feu
-- **Sens** [Perception passive] (10)
-- **Langues** -
-- **Dangerosité** 6 (2 300 XP)
+- **Résistance aux dégâts** <DamageResistances>contondant, perforant, poison, tonnerre</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [terrorisé]</ConditionImmunities>
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>feu</DamageVulnerabilities>
+- **Sens** <Senses>[Perception passive] (10)</Senses>
+- **Langues** <Languages>-</Languages>
+- **Dangerosité** <Challenge>6 (2 300 XP)</Challenge>
 
 ## Capacités
 
@@ -8243,22 +8631,24 @@ _Touché :_ 7 (1d4+5) dégâts contondants et la cible est [entravée] à moins 
 _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du jet d'évasion 15). Une créature [empoignée] ne peut plus respirer et subit 9 (1d8+5) dégâts contondants au début de son tour à moins de réussir un [jet de sauvegarde] de [Constitution] DD 14. À son tour, le saule peut cibler une créature déjà [empoignée] avec un nouvel étranglement. Chaque nouvelle attaque réussie implique un jet d'évasion supplémentaire avant de se libérer. Toutefois, les dégâts en début de tour ne se cumulent pas et un seul [jet de sauvegarde] est nécessaire quel que soit le nombre de branches empoignant la créature.
 
 
-[][MonsterHD]
+</Monster>
 
-# Serpent de mer
-- Créature monstrueuse de taille Gig, non-alignée
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 231 (14d20+84)
-- **Vitesse** nage 15 m
+<Monster>
+
+# <Name>Serpent de mer</Name>
+- <Type>Créature monstrueuse</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>231 (14d20+84)</HitPoints>
+- **Vitesse** <Speed>nage 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |28 (+9)|10 (+0)|22 (+6)| 3 (-4)|10 (+0)| 6 (-2)|
 
-- **Jets de sauvegarde** Con +10, Sag +4
-- **Sens** vision aveugle 18 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 16 (15 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +10, Sag +4</SavingThrows>
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>16 (15 000 PX)</Challenge>
 
 ## Capacités
 
@@ -8291,25 +8681,27 @@ La cible est [empoignée] (évasion DD 16) si le serpent n'est pas déjà en tra
 _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 20 pour ne pas tomber [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Spectre
-- AltName: [Specter](monsters_vo.md#specter)
-- Mort-vivant de taille M, Chaotique Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 22 (5d8)
-- **Vitesse** 0 m, vol 15 m
+<Monster>
+
+# <Name>Spectre</Name>
+- <AltName>[Specter](monsters_vo.md#specter)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d8)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 
-- **Résistance aux dégâts** acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** nécrotiques et de poison
-- **Immunité contre les états** [à terre], [charmé], [entravé], [empoigné], [empoisonné], [épuisé], [inconscient], [paralysé], [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
-- **Dangerosité** 1 (200 PX)
+- **Résistance aux dégâts** <DamageResistances>acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>nécrotiques et de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [entravé], [empoigné], [empoisonné], [épuisé], [inconscient], [paralysé], [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -8324,26 +8716,28 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde] de [Constitution] DD 10 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Androsphinx
-- AltName: [Androsphinx](monsters_vo.md#androsphinx)
-- Créature monstrueuse de taille G, Loyal Neutre
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 199 (19d10+95)
-- **Vitesse** 12 m, vol 18 m
+<Monster>
+
+# <Name>Androsphinx</Name>
+- <AltName>[Androsphinx](monsters_vo.md#androsphinx)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>199 (19d10+95)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)|
 
-- **Jets de sauvegarde** Dex +6, Con +11, Int +9, Sag +10
-- **Compétences** [Arcanes] +9, [Perception] +10, [Religion] +15
-- **Immunité contre les dégâts** psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé] et [terrorisé]
-- **Sens** vision parfaite 36 m, [Perception passive] 20
-- **Langues** commun, sphinx
-- **Dangerosité** 17 (18 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Con +11, Int +9, Sag +10</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +9, [Perception] +10, [Religion] +15</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 20</Senses>
+- **Langues** <Languages>commun, sphinx</Languages>
+- **Dangerosité** <Challenge>17 (18 000 PX)</Challenge>
 
 ## Capacités
 
@@ -8394,26 +8788,28 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gynosphinx
-- AltName: [Gynosphinx](monsters_vo.md#gynosphinx)
-- Créature monstrueuse de taille G, Loyal Neutre
-- **Classe d'armure** 17 (armure naturelle)
-- **Points de vie** 136 (16d10+48)
-- **Vitesse** 12 m, vol 18 m
+<Monster>
+
+# <Name>Gynosphinx</Name>
+- <AltName>[Gynosphinx](monsters_vo.md#gynosphinx)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>136 (16d10+48)</HitPoints>
+- **Vitesse** <Speed>12 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
 
-- **Compétences** [Arcanes] +12, [Histoire] +12, [Perception] +8, [Religion] +8
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les dégâts** psychiques
-- **Immunité contre les états** [charmé] et [terrorisé]
-- **Sens** vision parfaite 36 m, [Perception passive] 18
-- **Langues** commun, sphinx
-- **Dangerosité** 11 (7 200 PX)
+- **Compétences** <Abilities>[Arcanes] +12, [Histoire] +12, [Perception] +8, [Religion] +8</Abilities>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>psychiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé] et [terrorisé]</ConditionImmunities>
+- **Sens** <Senses>vision parfaite 36 m, [Perception passive] 18</Senses>
+- **Langues** <Languages>commun, sphinx</Languages>
+- **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
 
 ## Capacités
 
@@ -8454,25 +8850,27 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 **_Téléportation (coûte 2 actions)._** Le sphinx se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 
 
-[][MonsterHD]
+</Monster>
 
-# Squelette
-- AltName: [Skeleton](monsters_vo.md#skeleton)
-- Mort-vivant de taille M, Loyal Mauvais
-- **Classe d'armure** 13 (débris d'armure)
-- **Points de vie** 13 (2d8+4)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Squelette</Name>
+- <AltName>[Skeleton](monsters_vo.md#skeleton)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (débris d'armure)</ArmorClass>
+- **Points de vie** <HitPoints>13 (2d8+4)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
-- **Vulnérabilité aux dégâts** contondants
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et [épuisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
-- **Dangerosité** 1/4 (50 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -8485,25 +8883,27 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Squelette cheval de guerre
-- AltName: [Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)
-- Mort-vivant de taille G, Loyal Mauvais
-- **Classe d'armure** 13 (débris de barde)
-- **Points de vie** 22 (3d10+6)
-- **Vitesse** 18 m
+<Monster>
+
+# <Name>Squelette cheval de guerre</Name>
+- <AltName>[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (débris de barde)</ArmorClass>
+- **Points de vie** <HitPoints>22 (3d10+6)</HitPoints>
+- **Vitesse** <Speed>18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|15 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
 
-- **Vulnérabilité aux dégâts** contondants
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et [épuisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Actions
 
@@ -8512,25 +8912,27 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Squelette minotaure
-- AltName: [Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)
-- Mort-vivant de taille G, Loyal Mauvais
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 67 (9d10+18)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Squelette minotaure</Name>
+- <AltName>[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>67 (9d10+18)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|11 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
 
-- **Vulnérabilité aux dégâts** contondants
-- **Immunité contre les dégâts** de poison
-- **Immunité contre les états** [empoisonné] et [épuisé]
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** comprend l'abyssal mais ne peut pas parler
-- **Dangerosité** 2 (450 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants</DamageVulnerabilities>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>comprend l'abyssal mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -8547,22 +8949,24 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Strige
-- AltName: [Stirge](monsters_vo.md#stirge)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 2 (1d4)
-- **Vitesse** 3 m, vol 12 m
+<Monster>
+
+# <Name>Strige</Name>
+- <AltName>[Stirge](monsters_vo.md#stirge)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>2 (1d4)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -8575,24 +8979,26 @@ _Touché :_ 5 (1d4+3) dégâts perforants et la strige se fixe sur la cible. Ell
 La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacement. Elle se détache après avoir sucé une quantité de sang équivalente à 10 points de vie ou si la cible meurt. Une créature, y compris la cible, peut effectuer une action pour arracher la strige.
 
 
-[][MonsterHD]
+</Monster>
 
-# Succube/Incube
-- AltName: [Succubus](monsters_vo.md#succubus)
-- Fiélon (métamorphe) de taille M, Neutre Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 66 (12d8+12)
-- **Vitesse** 9 m, vol 18 m
+<Monster>
+
+# <Name>Succube/Incube</Name>
+- <AltName>[Succubus](monsters_vo.md#succubus)</AltName>
+- <Type>Fiélon (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>66 (12d8+12)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
 
-- **Compétences** [Discrétion] +7, [Perception] +5, [Perspicacité] +5, [Persuasion] +9, [Supercherie] +9
-- **Résistance aux dégâts** de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Sens** vision dans le noir 18 m, [Perception passive] 15
-- **Langues** abyssal, commun, infernal, télépathie 18 m
-- **Dangerosité** 4 (1 100 PX)
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +5, [Perspicacité] +5, [Persuasion] +9, [Supercherie] +9</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>abyssal, commun, infernal, télépathie 18 m</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -8617,24 +9023,26 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 **_Griffe (forme de fiélon uniquement)._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible ; Touché : 6 (1d6+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Sylvanien
-- AltName: [Treant](monsters_vo.md#treant)
-- Plante de taille TG, Chaotique Bonne
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 138 (12d12+60)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Sylvanien</Name>
+- <AltName>[Treant](monsters_vo.md#treant)</AltName>
+- <Type>Plante</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bonne</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>138 (12d12+60)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
 
-- **Résistance aux dégâts** contondants et perçants
-- **Vulnérabilité contre les dégâts** de feu
-- **Sens** [Perception passive] 13
-- **Langues** Commun, elfe, druidique, sylvestre
-- **Dangerosité** 9 (5 000 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants et perçants</DamageResistances>
+- **Vulnérabilité contre les dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>Commun, elfe, druidique, sylvestre</Languages>
+- **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
 
 ## Capacités
 
@@ -8657,25 +9065,27 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 **_Animation des arbres (1/jour)._** Le sylvanien anime par magie un ou deux arbres qu'il peut voir et situés à 18 m ou moins de lui. Ces arbres ont les mêmes statistiques qu'un sylvanien, si ce n'est qu'ils ont une [Intelligence] et un [Charisme] de 1, qu'ils ne savent pas parler, et qu'ils n'ont accès qu'à l'action de Coup. Un arbre animé se comporte avec les sylvaniens comme un allié. L'arbre reste animé un jour durant ou jusqu'à sa mort ; jusqu'à ce que le sylvanien meure ou se trouve à plus de 36 m de l'arbre ; ou jusqu'à ce que le sylvanien prenne une action bonus pour le retransformer en arbre inanimé. Si possible, l'arbre prend alors racine.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tarasque
-- AltName: [Tarrasque](monsters_vo.md#tarrasque)
-- Créature monstrueuse (titan) de taille Gig, non-alignée
-- **Classe d'armure** 25 (armure naturelle)
-- **Points de vie** 676 (33d20+330)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Tarasque</Name>
+- <AltName>[Tarrasque](monsters_vo.md#tarrasque)</AltName>
+- <Type>Créature monstrueuse (titan)</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>25 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>676 (33d20+330)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)|11 (+0)|
 
-- **Jets de sauvegarde** Int +5, Sag +9, Cha +9
-- **Immunité contre les dégâts** de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [charmé], [terrorisé], [empoisonné] et [paralysé]
-- **Sens** vision aveugle 36 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 30 (155 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Int +5, Sag +9, Cha +9</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné] et [paralysé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 36 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>30 (155 000 PX)</Challenge>
 
 ## Capacités
 
@@ -8728,23 +9138,25 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 **_Mordre (coûte 2 actions)._** La tarasque effectue une attaque de morsure ou utilise son action Engloutir.
 
 
-[][MonsterHD]
+</Monster>
 
-# Terreur des roches
-- Créature monstrueuse de taille G, Neutre Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 102 (12d10+36)
-- **Vitesse** 9 m, fouissement 6 m
+<Monster>
+
+# <Name>Terreur des roches</Name>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>102 (12d10+36)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|16 (+3)| 7 (-2)|14 (+2)|10 (+0)|
 
-- **Compétences** [Discrétion] +4, [Perception] +8
-- **Immunité contre l'état** [aveuglé]
-- **Sens** perception des vibrations 18 m, vision aveugle 18 m, [Perception passive] 18
-- **Langues** comprend le commun des profondeurs mais ne parle pas
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +8</Abilities>
+- **Immunité contre l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
+- **Sens** <Senses>perception des vibrations 18 m, vision aveugle 18 m, [Perception passive] 18</Senses>
+- **Langues** <Languages>comprend le commun des profondeurs mais ne parle pas</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -8765,23 +9177,25 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 **_Onde vibratoire (Recharge 5-6)._** La terreur des roches produit une onde sur un cône de 4,50 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 14 ; elles subissent 11 (2d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de [jet de sauvegarde] raté. Les créatures qui réussissent leur [jet de sauvegarde] subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau [jet de sauvegarde] à chaque round pour mettre fin à cet état spécial.
 
 
-[][MonsterHD]
+</Monster>
 
-# Larve des roches
-- Créature monstrueuse de taille M, Neutre
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 32 (5d8+10)
-- **Vitesse** 6 m, fouissement 6 m
+<Monster>
+
+# <Name>Larve des roches</Name>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
+- **Vitesse** <Speed>6 m, fouissement 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|14 (+2)| 3 (-4)|14 (+2)| 6 (-2)|
 
-- **Compétences** [Discrétion] +3, [Perception] +6
-- **Immunité contre l'état** [aveuglé]
-- **Sens** perception des vibrations 12 m, vision aveugle 12 m, [Perception passive] 16
-- **Langues** -
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6</Abilities>
+- **Immunité contre l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
+- **Sens** <Senses>perception des vibrations 12 m, vision aveugle 12 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>-</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Actions
 
@@ -8792,26 +9206,28 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 **_Onde vibratoire (Recharge 5-6)._** La larve des roches produit une onde sur un cône de 3 mètres. Les créatures dans ce cône doivent chacune effectuer un [jet de sauvegarde] de [Constitution] DD 12 ; elles subissent 5 (1d10) dégâts de tonnerre et elles sont [étourdies] pendant 1 minute en cas de [jet de sauvegarde] raté. Les créatures qui réussissent leur [jet de sauvegarde] subissent seulement la moitié des dégâts et ne sont pas [étourdies]. Une créature [étourdie] peut faire un nouveau [jet de sauvegarde] à chaque round pour mettre fin à cet état spécial.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tertre errant
-- AltName: [Shambling Mound](monsters_vo.md#shambling-mound)
-- Plante de taille G, non-alignée
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 136 (16d10+48)
-- **Vitesse** 6 m, nage 6 m
+<Monster>
+
+# <Name>Tertre errant</Name>
+- <AltName>[Shambling Mound](monsters_vo.md#shambling-mound)</AltName>
+- <Type>Plante</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>136 (16d10+48)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
 
-- **Compétences** [Discrétion] +2
-- **Résistance aux dégâts** de feu et de froid
-- **Immunité contre les dégâts** de foudre
-- **Immunité contre les états** [assourdi], [aveuglé] et [épuisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Discrétion] +2</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de feu et de froid</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -8828,24 +9244,26 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 **_Enveloppement._** Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [aveuglée], [entravée] et incapable de respirer. Elle doit réussir un [jet de sauvegarde] de [Constitution] DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois.
 
 
-[][MonsterHD]
+</Monster>
 
-# Torve
-- AltName: [Grimlock](monsters_vo.md#grimlock)
-- Humanoïde (torve) de taille M, Neutre Mauvais
-- **Classe d'armure** 11
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Torve</Name>
+- <AltName>[Grimlock](monsters_vo.md#grimlock)</AltName>
+- <Type>Humanoïde (torve)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
 
-- **Compétences** [Athlétisme] +5, [Discrétion] +3, [Perception] +3
-- **Immunité à l'état** [aveuglé]
-- **Sens** vision aveugle 9 m ou 3 m s'il est [assourdi] (aveugle au-delà de cette distance), [Perception passive] 13
-- **Langue** commun des profondeurs
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Athlétisme] +5, [Discrétion] +3, [Perception] +3</Abilities>
+- **Immunité à l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 9 m ou 3 m s'il est [assourdi] (aveugle au-delà de cette distance), [Perception passive] 13</Senses>
+- **Langue** <Languages>commun des profondeurs</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -8862,25 +9280,27 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Traqueur invisible
-- AltName: [Invisible Stalker](monsters_vo.md#invisible-stalker)
-- Élémentaire de taille M, neutre
-- **Classe d'armure** 14
-- **Points de vie** 104 (16d8+32)
-- **Vitesse** 15 m, vol 15 m (vol stationnaire)
+<Monster>
+
+# <Name>Traqueur invisible</Name>
+- <AltName>[Invisible Stalker](monsters_vo.md#invisible-stalker)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Points de vie** <HitPoints>104 (16d8+32)</HitPoints>
+- **Vitesse** <Speed>15 m, vol 15 m (vol stationnaire)</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
 
-- **Compétences** [Discrétion] +10, [Perception] +8
-- **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Immunité contre les états** [à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 18 m, [Perception passive] 18
-- **Langues** aérien, comprend le commun mais ne peut pas le parler
-- **Dangerosité** 6 (2 300 PX)
+- **Compétences** <Abilities>[Discrétion] +10, [Perception] +8</Abilities>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 18</Senses>
+- **Langues** <Languages>aérien, comprend le commun mais ne peut pas le parler</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -8897,23 +9317,25 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Troll
-- AltName: [Troll](monsters_vo.md#troll)
-- Géant de taille G, Chaotique Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 84 (8d10+40)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Troll</Name>
+- <AltName>[Troll](monsters_vo.md#troll)</AltName>
+- <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>84 (8d10+40)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|20 (+5)| 7 (-2)| 9 (-1)| 7 (-2)|
 
-- **Compétences** [Perception] +2
-- **Sens** vision dans le noir 18 m, [Perception passive] 12
-- **Langues** géant
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>géant</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -8934,25 +9356,27 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 _Touché :_ 7 (1d6+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vampire
-- AltName: [Vampire](monsters_vo.md#vampire)
-- Mort-vivant (métamorphe) de taille M, Loyal Mauvais
-- **Classe d'armure** 16 (armure naturelle)
-- **Points de vie** 144 (17d8+68)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Vampire</Name>
+- <AltName>[Vampire](monsters_vo.md#vampire)</AltName>
+- <Type>Mort-vivant (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>144 (17d8+68)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 
-- **Jets de sauvegarde** Dex +9, Sag +7, Cha +9
-- **Compétences** [Discrétion] +9, [Perception] +7
-- **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Sens** vision dans le noir 36 m, [Perception passive] 17
-- **Langues** celles qu'il connaissait de son vivant
-- **Dangerosité** 13 (10 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +9, Sag +7, Cha +9</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +9, [Perception] +7</Abilities>
+- **Résistance aux dégâts** <DamageResistances>nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>celles qu'il connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>13 (10 000 PX)</Challenge>
 
 ## Capacités
 
@@ -9015,25 +9439,27 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 **_Morsure (coûte 2 actions)._** Le vampire effectue une attaque de morsure.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vampirien
-- AltName: [Vampire Spawn](monsters_vo.md#vampire-spawn)
-- Mort-vivant de taille M, Neutre Mauvais
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 82 (11d8+33)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Vampirien</Name>
+- <AltName>[Vampire Spawn](monsters_vo.md#vampire-spawn)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>82 (11d8+33)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
 
-- **Jets de sauvegarde** Dex +6, Sag +3
-- **Compétences** [Discrétion] +6, [Perception] +3
-- **Résistance aux dégâts** nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** celles qu'il connaissait de son vivant
-- **Dangerosité** 5 (1 800 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Sag +3</SavingThrows>
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Résistance aux dégâts** <DamageResistances>nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>celles qu'il connaissait de son vivant</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -9066,23 +9492,25 @@ _Touché :_ 8 (2d4+3) dégâts tranchants. Au lieu d'infliger des dégâts, le v
 _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le total maximum de points de vie de la cible est réduit d'un montant égal aux dégâts nécrotiques subis et le vampirien récupère un nombre de points de vie égal à ce montant. La réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si l'effet réduit à 0 son total maximum de points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cube gélatineux
-- AltName: [Gelatinous Cube](monsters_vo.md#gelatinous-cube)
-- Vase de taille G, non-alignée
-- **Classe d'armure** 6
-- **Points de vie** 84 (8d10+40)
-- **Vitesse** 4,50 m
+<Monster>
+
+# <Name>Cube gélatineux</Name>
+- <AltName>[Gelatinous Cube](monsters_vo.md#gelatinous-cube)</AltName>
+- <Type>Vase</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>6</ArmorClass>
+- **Points de vie** <HitPoints>84 (8d10+40)</HitPoints>
+- **Vitesse** <Speed>4,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Immunité contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -9113,25 +9541,27 @@ Une créature enveloppée peut tenter de s'échapper en faisant une action pour 
 _Touché :_ 10 (3d6) dégâts d'acide.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gelée ocre
-- AltName: [Ochre Jelly](monsters_vo.md#ochre-jelly)
-- Vase de taille G, non-alignée
-- **Classe d'armure** 8
-- **Points de vie** 45 (6d10+12)
-- **Vitesse** 3 m, escalade 3 m
+<Monster>
+
+# <Name>Gelée ocre</Name>
+- <AltName>[Ochre Jelly](monsters_vo.md#ochre-jelly)</AltName>
+- <Type>Vase</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>8</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
+- **Vitesse** <Speed>3 m, escalade 3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
 
-- **Résistance aux dégâts** d'acide
-- **Immunité contre les dégâts** de foudre et tranchants
-- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Résistance aux dégâts** <DamageResistances>d'acide</DamageResistances>
+- **Immunité contre les dégâts** <DamageImmunities>de foudre et tranchants</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -9150,24 +9580,26 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 **_Division._** Quand une gelée de taille M ou plus grande subit des dégâts tranchants ou de foudre, elle se divise en deux nouvelles gelées s'il lui reste au moins 10 points de vie. Chaque nouvelle gelée possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par la gelée d'origine. La taille des nouvelles gelées est d'une catégorie inférieure à la gelée d'origine.
 
 
-[][MonsterHD]
+</Monster>
 
-# Pouding noir
-- AltName: [Black Pudding](monsters_vo.md#black-pudding)
-- Vase de taille G, non-alignée
-- **Classe d'armure** 7
-- **Points de vie** 85 (10d10+30)
-- **Vitesse** 6 m, escalade 6 m
+<Monster>
+
+# <Name>Pouding noir</Name>
+- <AltName>[Black Pudding](monsters_vo.md#black-pudding)</AltName>
+- <Type>Vase</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>7</ArmorClass>
+- **Points de vie** <HitPoints>85 (10d10+30)</HitPoints>
+- **Vitesse** <Speed>6 m, escalade 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
 
-- **Immunité contre les dégâts** d'acide, de foudre, de froid, tranchants
-- **Immunité contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 4 (1 100 PX)
+- **Immunité contre les dégâts** <DamageImmunities>d'acide, de foudre, de froid, tranchants</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -9190,25 +9622,27 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 **_Division._** Quand un pouding de taille M ou plus grand subit des dégâts tranchants ou de foudre, il se divise en deux nouveaux poudings s'il lui reste au moins 10 points de vie. Chaque nouveau pouding possède un nombre de points de vie égal à la moitié (arrondie à l'inférieur) de ceux possédés par le pouding d'origine. La taille des nouveaux poudings est d'une catégorie inférieure à celui d'origine.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vase grise
-- AltName: [Gray Ooze](monsters_vo.md#gray-ooze)
-- Vase de taille M, non-alignée
-- **Classe d'armure** 8
-- **Points de vie** 22 (3d8+9)
-- **Vitesse** 3 m, escalade 3 m
+<Monster>
+
+# <Name>Vase grise</Name>
+- <AltName>[Gray Ooze](monsters_vo.md#gray-ooze)</AltName>
+- <Type>Vase</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>8</ArmorClass>
+- **Points de vie** <HitPoints>22 (3d8+9)</HitPoints>
+- **Vitesse** <Speed>3 m, escalade 3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)| 6 (-2)|16 (+3)| 1 (-5)| 6 (-2)| 2 (-4)|
 
-- **Compétences** [Discrétion] +2
-- **Résistances aux dégâts** d'acide, de feu et de froid
-- **Immunités contre les états** [à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]
-- **Sens** vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +2</Abilities>
+- **Résistances aux dégâts** <DamageResistances>d'acide, de feu et de froid</DamageResistances>
+- **Immunités contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -9229,23 +9663,25 @@ La vase peut ronger une épaisseur de 5 centimètres de métal non-magique en 1 
 _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si la cible porte une armure métallique non-magique, celle-ci est partiellement rongée et subit un malus permanent et cumulatif de -1 à la CA qu'elle confère. L'armure est détruite si le malus réduit à 10 sa CA.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ver pourpre
-- AltName: [Purple Worm](monsters_vo.md#purple-worm)
-- Créature monstrueuse de taille Gig, non-alignée
-- **Classe d'armure** 18 (armure naturelle)
-- **Points de vie** 247 (15d20+90)
-- **Vitesse** 15 m, fouissement 9 m
+<Monster>
+
+# <Name>Ver pourpre</Name>
+- <AltName>[Purple Worm](monsters_vo.md#purple-worm)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>247 (15d20+90)</HitPoints>
+- **Vitesse** <Speed>15 m, fouissement 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
 
-- **Jets de sauvegarde** Con +11, Sag +4
-- **Sens** perception des vibrations 18 m, vision aveugle 9 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 15 (13 000 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +11, Sag +4</SavingThrows>
+- **Sens** <Senses>perception des vibrations 18 m, vision aveugle 9 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>15 (13 000 PX)</Challenge>
 
 ## Capacités
 
@@ -9268,23 +9704,25 @@ S'il subit 30 dégâts ou plus infligés lors d'un seul tour par une créature �
 Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et peuvent s'extirper de la carcasse en dépensant 6 mètres de déplacement. Elles en sortent [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Vouivre
-- AltName: [Wyvern](monsters_vo.md#wyvern)
-- Dragon de taille G, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 110 (13d10+39)
-- **Vitesse** 6 m, vol 24 m
+<Monster>
+
+# <Name>Vouivre</Name>
+- <AltName>[Wyvern](monsters_vo.md#wyvern)</AltName>
+- <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>110 (13d10+39)</HitPoints>
+- **Vitesse** <Speed>6 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 5 (-3)|12 (+1)| 6 (-2)|
 
-- **Compétences** [Perception] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 6 (2 300 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Actions
 
@@ -9303,24 +9741,26 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Xorn
-- AltName: [Xorn](monsters_vo.md#xorn)
-- Élémentaire de taille M, Neutre
-- **Classe d'armure** 19 (armure naturelle)
-- **Points de vie** 73 (7d8+42)
-- **Vitesse** 6 m, fouissement 6 m
+<Monster>
+
+# <Name>Xorn</Name>
+- <AltName>[Xorn](monsters_vo.md#xorn)</AltName>
+- <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
+- **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>73 (7d8+42)</HitPoints>
+- **Vitesse** <Speed>6 m, fouissement 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
 
-- **Compétences** [Discrétion] +3, [Perception] +6
-- **Résistance aux dégâts** perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-- **Sens** perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 16
-- **Langues** terreux
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6</Abilities>
+- **Résistance aux dégâts** <DamageResistances>perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageResistances>
+- **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 16</Senses>
+- **Langues** <Languages>terreux</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -9346,25 +9786,27 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 
 
-[][MonsterHD]
+</Monster>
 
-# Zombi
-- AltName: [Zombie](monsters_vo.md#zombie)
-- Mort-vivant de taille M, Neutre Mauvais
-- **Classe d'armure** 8
-- **Points de vie** 22 (3d8+9)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Zombi</Name>
+- <AltName>[Zombie](monsters_vo.md#zombie)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>8</ArmorClass>
+- **Points de vie** <HitPoints>22 (3d8+9)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)| 6 (-2)|16 (+3)| 3 (-4)| 6 (-2)| 5 (-3)|
 
-- **Jets de sauvegarde** Sag +0
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 8
-- **Langues** comprend les langues qu'il connaissait de son vivant mais ne peut pas parler
-- **Dangerosité** 1/4 (50 PX)
+- **Jets de sauvegarde** <SavingThrows>Sag +0</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>comprend les langues qu'il connaissait de son vivant mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -9377,25 +9819,27 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Zombi ogre
-- AltName: [Ogre Zombie](monsters_vo.md#ogre-zombie)
-- Mort-vivant de taille G, Neutre Mauvais
-- **Classe d'armure** 8
-- **Points de vie** 85 (9d10+36)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Zombi ogre</Name>
+- <AltName>[Ogre Zombie](monsters_vo.md#ogre-zombie)</AltName>
+- <Type>Mort-vivant</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>8</ArmorClass>
+- **Points de vie** <HitPoints>85 (9d10+36)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 6 (-2)|18 (+4)| 3 (-4)| 6 (-2)| 5 (-3)|
 
-- **Jets de sauvegarde** Sag +0
-- **Immunité contre les dégâts** de poison
-- **Immunité contre l'état** [empoisonné]
-- **Sens** vision dans le noir 18 m, [Perception passive] 8
-- **Langues** comprend le commun et le géant mais ne peut pas parler
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>Sag +0</SavingThrows>
+- **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
+- **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>comprend le commun et le géant mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -9408,23 +9852,25 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 _Touché :_ 13 (2d8+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Aigle
-- AltName: [Eagle](monsters_vo.md#eagle)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 3 (1d6)
-- **Vitesse** 3 m, vol 18 m
+<Monster>
+
+# <Name>Aigle</Name>
+- <AltName>[Eagle](monsters_vo.md#eagle)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>3 (1d6)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|15 (+2)|10 (+0)| 2 (-4)|14 (+2)| 7 (-2)|
 
-- **Compétences** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9437,23 +9883,25 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Aigle géant
-- AltName: [Giant Eagle](monsters_vo.md#giant-eagle)
-- Bête de taille G, neutre bon
-- **Classe d'armure** 13
-- **Points de vie** 26 (4d10+4)
-- **Vitesse** 3 m, vol 24 m
+<Monster>
+
+# <Name>Aigle géant</Name>
+- <AltName>[Giant Eagle](monsters_vo.md#giant-eagle)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>neutre bon</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
 
-- **Compétences** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** aigle géant, comprend le commun et l'aérien mais ne peut pas les parler
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>aigle géant, comprend le commun et l'aérien mais ne peut pas les parler</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -9472,23 +9920,25 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Araignée
-- AltName: [Spider](monsters_vo.md#spider)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 6 m, escalade 6 m
+<Monster>
+
+# <Name>Araignée</Name>
+- <AltName>[Spider](monsters_vo.md#spider)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>6 m, escalade 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|14 (+2)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
 
-- **Compétences** [Discrétion] +4
-- **Sens** vision dans le noir 9 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Discrétion] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9505,23 +9955,25 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 9 pour ne pas subir 2 (1d4) dégâts de poison.
 
 
-[][MonsterHD]
+</Monster>
 
-# Araignée de phase
-- AltName: [Phase Spider](monsters_vo.md#phase-spider)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 32 (5d10+5)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Araignée de phase</Name>
+- <AltName>[Phase Spider](monsters_vo.md#phase-spider)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>32 (5d10+5)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|15 (+2)|12 (+1)| 6 (-2)|10 (+0)| 6 (-6)|
 
-- **Compétences** [Discrétion] +6
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Discrétion] +6</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -9538,23 +9990,25 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 11. Elle subit 18 (4d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-[][MonsterHD]
+</Monster>
 
-# Araignée géante
-- AltName: [Giant Spider](monsters_vo.md#giant-spider)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 26 (4d10+4)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Araignée géante</Name>
+- <AltName>[Giant Spider](monsters_vo.md#giant-spider)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|16 (+3)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
 
-- **Compétences** [Discrétion] +7
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +7</Abilities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -9575,23 +10029,25 @@ _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [entravée] peut effectuer un test de [Force] DD 12 et s'en libérer en cas de réussite. L'effet prend fin également si la toile est attaquée et détruite (CA 10 ; 5 points de vie ; vulnérabilité aux dégâts de feu ; immunité contre les dégâts contondants, de poison et psychiques).
 
 
-[][MonsterHD]
+</Monster>
 
-# Araignée-loup géante
-- AltName: [Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 12 m, escalade 12 m
+<Monster>
+
+# <Name>Araignée-loup géante</Name>
+- <AltName>[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|16 (+3)|13 (+1)| 3 (-4)|12 (+1)| 4 (-3)|
 
-- **Compétences** [Discrétion] +7, [Perception] +3
-- **Sens** vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +7, [Perception] +3</Abilities>
+- **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -9608,24 +10064,26 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 11. Elle subit 7 (2d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-[][MonsterHD]
+</Monster>
 
-# Arbre éveillé
-- AltName: [Awakened Tree](monsters_vo.md#awakened-tree)
-- Plante de taille TG, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 59 (7d12+14)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Arbre éveillé</Name>
+- <AltName>[Awakened Tree](monsters_vo.md#awakened-tree)</AltName>
+- <Type>Plante</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>59 (7d12+14)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
 
-- **Vulnérabilité aux dégâts** de feu
-- **Résistance aux dégâts** contondants, perforants
-- **Sens** [Perception passive] 10
-- **Langues** une langue connue de son créateur
-- **Dangerosité** 2 (450 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants</DamageResistances>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue connue de son créateur</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -9638,24 +10096,26 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ 14 (3d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Arbuste éveillé
-- AltName: [Awakened Shrub](monsters_vo.md#awakened-shrub)
-- Plante de taille P, non-alignée
-- **Classe d'armure** 9
-- **Points de vie** 10 (3d6)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Arbuste éveillé</Name>
+- <AltName>[Awakened Shrub](monsters_vo.md#awakened-shrub)</AltName>
+- <Type>Plante</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>9</ArmorClass>
+- **Points de vie** <HitPoints>10 (3d6)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)| 8 (-1)|11 (+0)|10 (+0)|10 (+0)| 6 (-2)|
 
-- **Vulnérabilité aux dégâts** de feu
-- **Résistance aux dégâts** perforants
-- **Sens** [Perception passive] 10
-- **Langues** une langue connue de son créateur
-- **Dangerosité** 0 (10 PX)
+- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Résistance aux dégâts** <DamageResistances>perforants</DamageResistances>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue connue de son créateur</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9668,22 +10128,24 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 _Touché :_ 1 (1d4-1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Babouin
-- AltName: [Baboon](monsters_vo.md#baboon)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 3 (1d6)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Babouin</Name>
+- <AltName>[Baboon](monsters_vo.md#baboon)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>3 (1d6)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
 
-- **Sens** [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9696,22 +10158,24 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 _Touché :_ 1 (1d4-1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Bec de hache
-- AltName: [Axe Beak](monsters_vo.md#axe-beak)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Bec de hache</Name>
+- <AltName>[Axe Beak](monsters_vo.md#axe-beak)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -9720,23 +10184,25 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Belette
-- AltName: [Weasel](monsters_vo.md#weasel)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Belette</Name>
+- <AltName>[Weasel](monsters_vo.md#weasel)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|16 (+3)| 8 (-1)| 2 (-4)|12 (+1)| 3 (-4)|
 
-- **Compétences** [Discrétion] +5, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9749,23 +10215,25 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Belette géante
-- AltName: [Giant Weasel](monsters_vo.md#giant-weasel)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 9 (2d8)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Belette géante</Name>
+- <AltName>[Giant Weasel](monsters_vo.md#giant-weasel)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>9 (2d8)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|10 (+0)| 4 (-3)|12 (+1)| 5 (-3)|
 
-- **Compétences** [Discrétion] +5, [Perception] +3
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -9778,22 +10246,24 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 5 (1d4+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Blaireau
-- AltName: [Badger](monsters_vo.md#badger)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 3 (1d4+1)
-- **Vitesse** 6 m, fouissement 1,50 m
+<Monster>
+
+# <Name>Blaireau</Name>
+- <AltName>[Badger](monsters_vo.md#badger)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>3 (1d4+1)</HitPoints>
+- **Vitesse** <Speed>6 m, fouissement 1,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|11 (+0)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Sens** vision dans le noir 9 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9806,22 +10276,24 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Blaireau géant
-- AltName: [Giant Badger](monsters_vo.md#giant-badger)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 13 (2d8+4)
-- **Vitesse** 9 m, fouissement 3 m
+<Monster>
+
+# <Name>Blaireau géant</Name>
+- <AltName>[Giant Badger](monsters_vo.md#giant-badger)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>13 (2d8+4)</HitPoints>
+- **Vitesse** <Speed>9 m, fouissement 3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|10 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Sens** vision dans le noir 9 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -9840,23 +10312,25 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 _Touché :_ 4 (1d6+1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chacal
-- AltName: [Jackal](monsters_vo.md#jackal)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 3 (1d6)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Chacal</Name>
+- <AltName>[Jackal](monsters_vo.md#jackal)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>3 (1d6)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|15 (+2)|11 (+0)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9871,22 +10345,24 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 1 (1d4-1) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chameau
-- AltName: [Camel](monsters_vo.md#camel)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 9
-- **Points de vie** 15 (2d10+4)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Chameau</Name>
+- <AltName>[Camel](monsters_vo.md#camel)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>9</ArmorClass>
+- **Points de vie** <HitPoints>15 (2d10+4)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)| 8 (-1)|14 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
 
-- **Sens** [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>[Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -9895,23 +10371,25 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chat
-- AltName: [Cat](monsters_vo.md#cat)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 2 (1d4)
-- **Vitesse** 12 m, escalade 9 m
+<Monster>
+
+# <Name>Chat</Name>
+- <AltName>[Cat](monsters_vo.md#cat)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>2 (1d4)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|15 (+2)|10 (+0)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9924,22 +10402,24 @@ _Touché :_ 2 (1d4) dégâts contondants.
 _Touché :_ 1 dégât tranchant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chauve-souris
-- AltName: [Bat](monsters_vo.md#bat)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 1,50 m, vol 9 m
+<Monster>
+
+# <Name>Chauve-souris</Name>
+- <AltName>[Bat](monsters_vo.md#bat)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>1,50 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|15 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- **Sens** vision aveugle 18 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -9954,22 +10434,24 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chauve-souris géante
-- AltName: [Giant Bat](monsters_vo.md#giant-bat)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 22 (4d10)
-- **Vitesse** 3 m, vol 18 m
+<Monster>
+
+# <Name>Chauve-souris géante</Name>
+- <AltName>[Giant Bat](monsters_vo.md#giant-bat)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>22 (4d10)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|16 (+3)|11 (+0)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- **Sens** vision aveugle 18 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -9984,22 +10466,24 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cheval de guerre
-- AltName: [Warhorse](monsters_vo.md#warhorse)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 18 m
+<Monster>
+
+# <Name>Cheval de guerre</Name>
+- <AltName>[Warhorse](monsters_vo.md#warhorse)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Sens** [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -10012,26 +10496,28 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cheval de guerre céleste
-- Bête de taille G, Loyal Bon
-- **Classe d'armure** 13
-- **Points de vie** 59 (7d10+21)
-- **Vitesse** 18 m
+<Monster>
+
+# <Name>Cheval de guerre céleste</Name>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
+- **Vitesse** <Speed>18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|17 (+3)| 8 (-1)|14 (+2)|10 (+0)|
 
-- **Jets de sauvegarde** For +7, Sag +5, Cha +3
-- **Compétences** [Perception] +6
-- **Résistance aux dégâts** nécrotiques
-- **Immunité aux dégâts** poison
-- **Immunité contre les états** [empoisonné], [charmé], [terrorisé] et [épuisé]
-- **Sens** vision dans le noir 36 m, [Perception passive] 17
-- **Langues** comprend le commun et le céleste mais ne peut pas parler
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>For +7, Sag +5, Cha +3</SavingThrows>
+- **Compétences** <Abilities>[Perception] +6</Abilities>
+- **Résistance aux dégâts** <DamageResistances>nécrotiques</DamageResistances>
+- **Immunité aux dégâts** <DamageImmunities>poison</DamageImmunities>
+- **Immunité contre les états** <ConditionImmunities>[empoisonné], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 17</Senses>
+- **Langues** <Languages>comprend le commun et le céleste mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -10050,21 +10536,23 @@ Dans le cas ou un autre personnage vient à chevaucher un cheval de guerre céle
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cheval de guerre lourd
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 37 (5d10+10)
-- **Vitesse** 18 m
+<Monster>
+
+# <Name>Cheval de guerre lourd</Name>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>37 (5d10+10)</HitPoints>
+- **Vitesse** <Speed>18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|12 (+1)|15 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Sens** [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -10079,22 +10567,24 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 11 (2d6+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cheval de selle
-- AltName: [Riding Horse](monsters_vo.md#riding-horse)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 13 (2d10+2)
-- **Vitesse** 18 m
+<Monster>
+
+# <Name>Cheval de selle</Name>
+- <AltName>[Riding Horse](monsters_vo.md#riding-horse)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>13 (2d10+2)</HitPoints>
+- **Vitesse** <Speed>18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -10103,22 +10593,24 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Cheval de trait
-- AltName: [Draft Horse](monsters_vo.md#draft-horse)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Cheval de trait</Name>
+- <AltName>[Draft Horse](monsters_vo.md#draft-horse)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -10127,22 +10619,24 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 _Touché :_ 9 (2d4+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chèvre
-- AltName: [Goat](monsters_vo.md#goat)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 4 (1d8)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Chèvre</Name>
+- <AltName>[Goat](monsters_vo.md#goat)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>4 (1d8)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10157,22 +10651,24 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 _Touché :_ 3 (1d4+1) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chèvre géante
-- AltName: [Giant Goat](monsters_vo.md#giant-goat)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Chèvre géante</Name>
+- <AltName>[Giant Goat](monsters_vo.md#giant-goat)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|11 (+0)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Sens** [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -10187,22 +10683,24 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chevreuil
-- AltName: [Deer](monsters_vo.md#deer)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 4 (1d8)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Chevreuil</Name>
+- <AltName>[Deer](monsters_vo.md#deer)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>4 (1d8)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|11 (+0)| 2 (-4)|14 (+2)| 5 (-3)|
 
-- **Sens** [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Actions
 
@@ -10211,23 +10709,25 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 _Touché :_ 2 (1d4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chien du trépas
-- AltName: [Death Dog](monsters_vo.md#death-dog)
-- Créature monstrueuse de taille M, Neutre Mauvais
-- **Classe d'armure** 12
-- **Points de vie** 39 (6d8+12)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Chien du trépas</Name>
+- <AltName>[Death Dog](monsters_vo.md#death-dog)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>39 (6d8+12)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|14 (+2)| 3 (-4)|13 (+1)| 6 (-2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +5
-- **Sens** vision dans le noir 36 m, [Perception passive] 15
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -10242,23 +10742,25 @@ _Touché :_ 2 (1d4) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 12 contre la maladie pour ne pas être [empoisonnée] jusqu'au moment où cette maladie est soignée. Toutes les 24 heures par la suite, la créature doit retenter le [jet de sauvegarde] et réduire de 5 (1d10) son total maximum de points de vie en cas d'échec. Cette réduction persiste jusqu'à guérison de la maladie. La créature meurt si la maladie réduit à 0 son total maximum de points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chien esquiveur
-- AltName: [Blink Dog](monsters_vo.md#blink-dog)
-- Fée de taille M, Loyal Bon
-- **Classe d'armure** 13
-- **Points de vie** 22 (4d8+4)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Chien esquiveur</Name>
+- <AltName>[Blink Dog](monsters_vo.md#blink-dog)</AltName>
+- <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
 
-- **Compétences** [Discrétion] +5, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** chien esquiveur, comprend le sylvestre mais ne peut pas le parler
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>chien esquiveur, comprend le sylvestre mais ne peut pas le parler</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -10273,23 +10775,25 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 **_Téléportation (Recharge 4-6)._** Le chien se téléporte par magie, avec tous les ses objets équipés et transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 12 mètres. Le chien peut effectuer une attaque de morsure avant ou après s'être téléporté.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chouette
-- AltName: [Owl](monsters_vo.md#owl)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 1,50 m, vol 18 m
+<Monster>
+
+# <Name>Chouette</Name>
+- <AltName>[Owl](monsters_vo.md#owl)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>1,50 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (+4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Discrétion] +3, [Perception] +3
-- **Sens** vision dans le noir 36 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10304,23 +10808,25 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 _Touché :_ 1 dégât tranchant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chouette géante
-- AltName: [Giant Owl](monsters_vo.md#giant-owl)
-- Bête de taille G, neutre
-- **Classe d'armure** 12
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 1,50 m, vol 18 m
+<Monster>
+
+# <Name>Chouette géante</Name>
+- <AltName>[Giant Owl](monsters_vo.md#giant-owl)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>1,50 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|12 (+1)| 8 (-1)|13 (+1)|10 (+0)|
 
-- **Compétences** [Discrétion] +4, [Perception] +5
-- **Sens** vision dans le noir 36 m, [Perception passive] 15
-- **Langues** chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +5</Abilities>
+- **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
+- **Langues** <Languages>chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -10335,23 +10841,25 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Corbeau
-- AltName: [Raven](monsters_vo.md#raven)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 3 m, vol 15 m
+<Monster>
+
+# <Name>Corbeau</Name>
+- <AltName>[Raven](monsters_vo.md#raven)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|14 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10364,23 +10872,25 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Crabe
-- AltName: [Crab](monsters_vo.md#crab)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 2 (1d4)
-- **Vitesse** 6 m, nage 6 m
+<Monster>
+
+# <Name>Crabe</Name>
+- <AltName>[Crab](monsters_vo.md#crab)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>2 (1d4)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
 
-- **Compétences** [Discrétion] +2
-- **Sens** vision aveugle 9 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Discrétion] +2</Abilities>
+- **Sens** <Senses>vision aveugle 9 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10393,23 +10903,25 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 1 dégât contondant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Crabe géant
-- AltName: [Giant Crab](monsters_vo.md#giant-crab)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 13 (3d8)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Crabe géant</Name>
+- <AltName>[Giant Crab](monsters_vo.md#giant-crab)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d8)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|15 (+2)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
 
-- **Compétences** [Discrétion] +4
-- **Sens** vision aveugle 9 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Discrétion] +4</Abilities>
+- **Sens** <Senses>vision aveugle 9 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -10422,22 +10934,24 @@ _Touché :_ 1 dégât contondant.
 _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion DD 11). Le crabe a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Crapaud géant
-- AltName: [Giant Toad](monsters_vo.md#giant-toad)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 39 (6d10+6)
-- **Vitesse** 6 m, nage 12 m
+<Monster>
+
+# <Name>Crapaud géant</Name>
+- <AltName>[Giant Toad](monsters_vo.md#giant-toad)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>39 (6d10+6)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Sens** vision dans le noir 9 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -10456,23 +10970,25 @@ Si le crapaud meurt, une créature engloutie n'est plus [entravée] à cause de 
 _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et la cible est [empoignée] (évasion DD 13). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crapaud ne peut pas mordre une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Crocodile
-- AltName: [Crocodile](monsters_vo.md#crocodile)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 6 m, nage 9 m
+<Monster>
+
+# <Name>Crocodile</Name>
+- <AltName>[Crocodile](monsters_vo.md#crocodile)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Compétence** [Discrétion] +2
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétence** <Abilities>[Discrétion] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -10485,23 +11001,25 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [entravée] et le crocodile ne peut pas mordre une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Crocodile géant
-- AltName: [Giant Crocodile](monsters_vo.md#giant-crocodile)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 85 (9d12+27)
-- **Vitesse** 9 m, nage 15 m
+<Monster>
+
+# <Name>Crocodile géant</Name>
+- <AltName>[Giant Crocodile](monsters_vo.md#giant-crocodile)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>85 (9d12+27)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
 
-- **Compétences** [Discrétion] +5
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Discrétion] +5</Abilities>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -10520,22 +11038,24 @@ _Touché :_ 21 (3d10+5) dégâts perforants et la cible est [empoignée] (évasi
 _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 16 pour ne pas être jetée au sol.
 
 
-[][MonsterHD]
+</Monster>
 
-# Élan
-- AltName: [Elk](monsters_vo.md#elk)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 13 (2d10+2)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Élan</Name>
+- <AltName>[Elk](monsters_vo.md#elk)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>13 (2d10+2)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|10 (+0)|12 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -10552,23 +11072,25 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 _Touché :_ 8 (2d4+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Élan géant
-- AltName: [Giant Elk](monsters_vo.md#giant-elk)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 42 (5d12+10)
-- **Vitesse** 18 m
+<Monster>
+
+# <Name>Élan géant</Name>
+- <AltName>[Giant Elk](monsters_vo.md#giant-elk)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>42 (5d12+10)</HitPoints>
+- **Vitesse** <Speed>18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|16 (+3)|14 (+2)| 7 (-2)|14 (+2)|10 (+0)|
 
-- **Compétences** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -10585,22 +11107,24 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 _Touché :_ 22 (4d8+4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Éléphant
-- AltName: [Elephant](monsters_vo.md#elephant)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 76 (8d12+24)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Éléphant</Name>
+- <AltName>[Elephant](monsters_vo.md#elephant)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>76 (8d12+24)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |22 (+6)| 9 (-1)|17 (+3)| 3 (-4)|11 (+0)| 6 (-2)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 4 (1 100 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
 
 ## Capacités
 
@@ -10617,23 +11141,25 @@ _Touché :_ 19 (3d8+6) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Épaulard
-- AltName: [Killer Whale](monsters_vo.md#killer-whale)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 90 (12d12+12)
-- **Vitesse** 0 m, nage 18 m
+<Monster>
+
+# <Name>Épaulard</Name>
+- <AltName>[Killer Whale](monsters_vo.md#killer-whale)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>90 (12d12+12)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** vision aveugle 36 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>vision aveugle 36 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -10650,23 +11176,25 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 _Touché :_ 21 (5d6+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Faucon
-- AltName: [Hawk](monsters_vo.md#hawk)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 3 m, vol 18 m
+<Monster>
+
+# <Name>Faucon</Name>
+- <AltName>[Hawk](monsters_vo.md#hawk)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|16 (+3)| 8 (-1)| 2 (-4)|14 (+2)| 6 (-2)|
 
-- **Compétence** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10679,23 +11207,25 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 _Touché :_ 1 dégât tranchant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Faucon de sang
-- AltName: [Blood Hawk](monsters_vo.md#blood-hawk)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 7 (2d6)
-- **Vitesse** 3 m, vol 18 m
+<Monster>
+
+# <Name>Faucon de sang</Name>
+- <AltName>[Blood Hawk](monsters_vo.md#blood-hawk)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>7 (2d6)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|10 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
 
-- **Compétences** [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -10710,23 +11240,25 @@ _Touché :_ 1 dégât tranchant.
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Grand singe
-- AltName: [Ape](monsters_vo.md#ape)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 19 (3d8+6)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Grand singe</Name>
+- <AltName>[Ape](monsters_vo.md#ape)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d8+6)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|14 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Athlétisme] +5, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Athlétisme] +5, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Actions
 
@@ -10741,23 +11273,25 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 _Touché :_ 6 (1d6+3) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Grenouille
-- AltName: [Frog](monsters_vo.md#frog)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 6 m, nage 6 m
+<Monster>
+
+# <Name>Grenouille</Name>
+- <AltName>[Frog](monsters_vo.md#frog)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>6 m, nage 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
 
-- **Compétences** [Discrétion] +3, [Perception] +1
-- **Sens** vision dans le noir 9 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 0 (0 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +1</Abilities>
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (0 PX)</Challenge>
 
 ## Capacités
 
@@ -10766,23 +11300,25 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 **_Saut sans élan._** La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
 
 
-[][MonsterHD]
+</Monster>
 
-# Grenouille géante
-- AltName: [Giant Frog](monsters_vo.md#giant-frog)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 18 (4d8)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Grenouille géante</Name>
+- <AltName>[Giant Frog](monsters_vo.md#giant-frog)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>18 (4d8)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Compétences** [Discrétion] +3, [Perception] +2
-- **Sens** vision dans le noir 9 m, [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -10801,22 +11337,24 @@ Si la grenouille meurt, une créature engloutie n'est plus [entravée] à cause 
 _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion DD 11). Jusqu'à la fin de cette empoignade, la cible est [entravée] et la grenouille ne peut pas mordre une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Guêpe géante
-- AltName: [Giant Wasp](monsters_vo.md#giant-wasp)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 13 (3d8)
-- **Vitesse** 3 m, vol 15 m
+<Monster>
+
+# <Name>Guêpe géante</Name>
+- <AltName>[Giant Wasp](monsters_vo.md#giant-wasp)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d8)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|10 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Actions
 
@@ -10825,22 +11363,24 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 11. Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hibou
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 3 (1d6)
-- **Vitesse** 3 m, vol 18 m
+<Monster>
+
+# <Name>Hibou</Name>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>3 (1d6)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)|10 (+0)| 2 (-4)|15 (+2)| 7 (-2)|
 
-- **Compétences** [Perception] +4
-- **Sens** Vision dans le noir 18 m, [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>Vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10853,22 +11393,24 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hibou géant
-- Bête de taille G, neutre bon
-- **Classe d'armure** 13
-- **Points de vie** 26 (4d10+4)
-- **Vitesse** 3 m, vol 24 m
+<Monster>
+
+# <Name>Hibou géant</Name>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>neutre bon</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 24 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|16 (+3)|13 (+1)| 8 (-1)|15 (+2)|10 (+0)|
 
-- **Compétences** [Perception] +4
-- **Sens** Vision dans le noir 18 m, [Perception passive] 14
-- **Langues** hibou géant, comprend le commun et l'aérien mais ne peut pas les parler
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>Vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>hibou géant, comprend le commun et l'aérien mais ne peut pas les parler</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -10887,44 +11429,48 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hippocampe
-- AltName: [Sea Horse](monsters_vo.md#sea-horse)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 0 m, nage 6 m
+<Monster>
+
+# <Name>Hippocampe</Name>
+- <AltName>[Sea Horse](monsters_vo.md#sea-horse)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 1 (-5)|12 (+1)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 0 (0 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (0 PX)</Challenge>
 
 ## Capacités
 
 **_Respiration aquatique._** L'hippocampe peut respirer uniquement sous l'eau.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hippocampe géant
-- AltName: [Giant Sea Horse](monsters_vo.md#giant-sea-horse)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 16 (3d10)
-- **Vitesse** 0 m, nage 12 m
+<Monster>
+
+# <Name>Hippocampe géant</Name>
+- <AltName>[Giant Sea Horse](monsters_vo.md#giant-sea-horse)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>16 (3d10)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Sens** [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -10939,23 +11485,25 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 4 (1d6+1) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hyène
-- AltName: [Hyena](monsters_vo.md#hyena)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 5 (1d8+1)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Hyène</Name>
+- <AltName>[Hyena](monsters_vo.md#hyena)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>5 (1d8+1)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|13 (+1)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -10968,23 +11516,25 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 _Touché :_ 3 (1d6) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Hyène géante
-- AltName: [Giant Hyena](monsters_vo.md#giant-hyena)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 45 (6d10+12)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Hyène géante</Name>
+- <AltName>[Giant Hyena](monsters_vo.md#giant-hyena)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|14 (+2)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -10997,22 +11547,24 @@ _Touché :_ 3 (1d6) dégâts perforants.
 _Touché :_ 10 (2d6+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Lézard
-- AltName: [Lizard](monsters_vo.md#lizard)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 2 (1d4)
-- **Vitesse** 6 m, escalade 6 m
+<Monster>
+
+# <Name>Lézard</Name>
+- <AltName>[Lizard](monsters_vo.md#lizard)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>2 (1d4)</HitPoints>
+- **Vitesse** <Speed>6 m, escalade 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)|
 
-- **Sens** vision dans le noir 9 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Actions
 
@@ -11021,22 +11573,24 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Lézard géant
-- AltName: [Giant Lizard](monsters_vo.md#giant-lizard)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 19 (3d10+3)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Lézard géant</Name>
+- <AltName>[Giant Lizard](monsters_vo.md#giant-lizard)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Sens** vision dans le noir 9 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -11045,23 +11599,25 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Lion
-- AltName: [Lion](monsters_vo.md#lion)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 26 (4d10+4)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Lion</Name>
+- <AltName>[Lion](monsters_vo.md#lion)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|13 (+1)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- **Compétences** [Discrétion] +6, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -11082,23 +11638,25 @@ _Touché :_ 6 (1d6+3) dégâts tranchants.
 _Touché :_ 7 (1d8+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Loup
-- AltName: [Wolf](monsters_vo.md#wolf)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Loup</Name>
+- <AltName>[Wolf](monsters_vo.md#wolf)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |12 (+1)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -11113,24 +11671,26 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 11 pour ne pas être jetée [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Loup arctique
-- AltName: [Winter Wolf](monsters_vo.md#winter-wolf)
-- Créature monstrueuse de taille G, Neutre Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 75 (10d10+20)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Loup arctique</Name>
+- <AltName>[Winter Wolf](monsters_vo.md#winter-wolf)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>75 (10d10+20)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
 
-- **Compétences** [Discrétion] +3, [Perception] +5
-- **Immunité contre les dégâts** de froid
-- **Sens** [Perception passive] 15
-- **Langues** commun, géant, loup arctique
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Discrétion] +3, [Perception] +5</Abilities>
+- **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
+- **Sens** <Senses>[Perception passive] 15</Senses>
+- **Langues** <Languages>commun, géant, loup arctique</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -11151,23 +11711,25 @@ _Touché :_ 11 (2d6+4) dégâts perforants. Si la cible est une créature, elle 
 Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de [Dextérité] DD 12 ; elles subissent 18 (4d8) dégâts de froid en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Loup sanguinaire
-- AltName: [Dire Wolf](monsters_vo.md#dire-wolf)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 14 (armure naturelle)
-- **Points de vie** 37 (5d10+10)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Loup sanguinaire</Name>
+- <AltName>[Dire Wolf](monsters_vo.md#dire-wolf)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>37 (5d10+10)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|15 (+2)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Discrétion] +4, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -11182,22 +11744,24 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de 
 _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 13 pour ne pas être jetée [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Mammouth
-- AltName: [Mammoth](monsters_vo.md#mammoth)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 126 (11d12+55)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Mammouth</Name>
+- <AltName>[Mammoth](monsters_vo.md#mammoth)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>126 (11d12+55)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 6 (2 300 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -11214,23 +11778,25 @@ _Touché :_ 25 (4d8+7) dégâts perforants.
 _Touché :_ 29 (4d10+7) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Mastiff
-- AltName: [Mastiff](monsters_vo.md#mastiff)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 5 (1d8+1)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Mastiff</Name>
+- <AltName>[Mastiff](monsters_vo.md#mastiff)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>5 (1d8+1)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -11243,22 +11809,24 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 11 pour ne pas être jetée [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Mille-pattes géant
-- AltName: [Giant Centipede](monsters_vo.md#giant-centipede)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 4 (1d6+1)
-- **Vitesse** 9 m, escalade 9 m
+<Monster>
+
+# <Name>Mille-pattes géant</Name>
+- <AltName>[Giant Centipede](monsters_vo.md#giant-centipede)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>4 (1d6+1)</HitPoints>
+- **Vitesse** <Speed>9 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|14 (+2)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
-- **Sens** vision aveugle 9 m, [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>vision aveugle 9 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -11267,22 +11835,24 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de sauvegarde] de [Constitution] DD 11 pour ne pas subir 10 (3d6) dégâts de poison. Si les dégâts de poison réduisent à 0 les points de vie de la cible, celle-ci est stable mais [empoisonnée] pendant 1 heure, même après avoir récupéré des points de vie, et elle est [paralysée] tant que le poison continue de faire effet.
 
 
-[][MonsterHD]
+</Monster>
 
-# Mule
-- AltName: [Mule](monsters_vo.md#mule)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Mule</Name>
+- <AltName>[Mule](monsters_vo.md#mule)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -11297,24 +11867,26 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 _Touché :_ 4 (1d4+2) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nuée de chauve-souris
-- AltName: [Swarm of Bats](monsters_vo.md#swarm-of-bats)
-- Nuée de taille M composée de bêtes de taille TP, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 22 (5d8)
-- **Vitesse** 0 m, vol 9 m
+<Monster>
+
+# <Name>Nuée de chauve-souris</Name>
+- <AltName>[Swarm of Bats](monsters_vo.md#swarm-of-bats)</AltName>
+- <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d8)</HitPoints>
+- **Vitesse** <Speed>0 m, vol 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision aveugle 18 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -11331,25 +11903,27 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nuée de corbeaux
-- AltName: [Swarm of Ravens](monsters_vo.md#swarm-of-ravens)
-- Nuée de taille M composée de bêtes de taille TP, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 24 (7d8-7)
-- **Vitesse** 3 m, vol 15 m
+<Monster>
+
+# <Name>Nuée de corbeaux</Name>
+- <AltName>[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)</AltName>
+- <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>24 (7d8-7)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 6 (-2)|14 (+2)| 8 (-1)| 3 (-4)|12 (+1)| 6 (-2)|
 
-- **Compétences** [Perception] +5
-- **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
-- **Sens** [Perception passive] 15
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Perception] +5</Abilities>
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>[Perception passive] 15</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -11362,24 +11936,26 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nuée de piranhas
-- AltName: [Swarm of Quippers](monsters_vo.md#swarm-of-quippers)
-- Nuée de taille M composée de bêtes de taille TP, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 28 (8d8-8)
-- **Vitesse** 0 m, nage 12 m
+<Monster>
+
+# <Name>Nuée de piranhas</Name>
+- <AltName>[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)</AltName>
+- <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>28 (8d8-8)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision aveugle 18 m, [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -11396,24 +11972,26 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nuée de rats
-- AltName: [Swarm of Rats](monsters_vo.md#swarm-of-rats)
-- Nuée de taille M composée de bêtes de taille TP, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 24 (7d8-7)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Nuée de rats</Name>
+- <AltName>[Swarm of Rats](monsters_vo.md#swarm-of-rats)</AltName>
+- <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>24 (7d8-7)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision dans le noir 9 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -11428,24 +12006,26 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nuée de serpents venimeux
-- AltName: [Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)
-- Nuée de taille M composée de bêtes de taille TP, non-alignée
-- **Classe d'armure** 14
-- **Points de vie** 36 (8d8)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Nuée de serpents venimeux</Name>
+- <AltName>[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)</AltName>
+- <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Points de vie** <HitPoints>36 (8d8)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision aveugle 3 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -11458,24 +12038,26 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie. La cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 10. Elle subit 14 (4d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Nuée d'insectes
-- AltName: [Swarm of Insects](monsters_vo.md#swarm-of-insects)
-- Nuée de taille M composée de bêtes de taille TP, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 22 (5d8)
-- **Vitesse** 6 m, escalade 6 m
+<Monster>
+
+# <Name>Nuée d'insectes</Name>
+- <AltName>[Swarm of Insects](monsters_vo.md#swarm-of-insects)</AltName>
+- <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>22 (5d8)</HitPoints>
+- **Vitesse** <Speed>6 m, escalade 6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
 
-- **Résistance aux dégâts** contondants, perforants et tranchants
-- **Immunité contre les états** [à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]
-- **Sens** vision aveugle 3 m, [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
+- **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -11505,23 +12087,25 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 
 
 
-[][MonsterHD]
+</Monster>
 
-# Ours brun
-- AltName: [Brown Bear](monsters_vo.md#brown-bear)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 34 (4d10+12)
-- **Vitesse** 12 m, escalade 9 m
+<Monster>
+
+# <Name>Ours brun</Name>
+- <AltName>[Brown Bear](monsters_vo.md#brown-bear)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>34 (4d10+12)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -11540,23 +12124,25 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 _Touché :_ 8 (1d8+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ours noir
-- AltName: [Black Bear](monsters_vo.md#black-bear)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 19 (3d8+6)
-- **Vitesse** 12 m, escalade 9 m
+<Monster>
+
+# <Name>Ours noir</Name>
+- <AltName>[Black Bear](monsters_vo.md#black-bear)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>19 (3d8+6)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -11575,23 +12161,25 @@ _Touché :_ 7 (2d4+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ours polaire
-- AltName: [Polar Bear](monsters_vo.md#polar-bear)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 42 (5d10+15)
-- **Vitesse** 12 m, nage 9 m
+<Monster>
+
+# <Name>Ours polaire</Name>
+- <AltName>[Polar Bear](monsters_vo.md#polar-bear)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>42 (5d10+15)</HitPoints>
+- **Vitesse** <Speed>12 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |20 (+5)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -11610,23 +12198,25 @@ _Touché :_ 12 (2d6+5) dégâts tranchants.
 _Touché :_ 9 (1d8+5) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Panthère
-- AltName: [Panther](monsters_vo.md#panther)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 13 (3d8)
-- **Vitesse** 15 m, escalade 12 m
+<Monster>
+
+# <Name>Panthère</Name>
+- <AltName>[Panther](monsters_vo.md#panther)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>13 (3d8)</HitPoints>
+- **Vitesse** <Speed>15 m, escalade 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|15 (+2)|10 (+0)| 3 (-4)|14 (+2)| 7 (-2)|
 
-- **Compétences** [Discrétion] +6, [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -11645,23 +12235,25 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Pieuvre
-- AltName: [Octopus](monsters_vo.md#octopus)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 3 (1d6)
-- **Vitesse** 1,50 m, nage 9 m
+<Monster>
+
+# <Name>Pieuvre</Name>
+- <AltName>[Octopus](monsters_vo.md#octopus)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>3 (1d6)</HitPoints>
+- **Vitesse** <Speed>1,50 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
 
-- **Compétences** [Discrétion] +4, [Perception] +2
-- **Sens** vision dans le noir 9 m, [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -11680,23 +12272,25 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Pieuvre géante
-- AltName: [Giant Octopus](monsters_vo.md#giant-octopus)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11
-- **Points de vie** 52 (8d10+8)
-- **Vitesse** 3 m, nage 18 m
+<Monster>
+
+# <Name>Pieuvre géante</Name>
+- <AltName>[Giant Octopus](monsters_vo.md#giant-octopus)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11</ArmorClass>
+- **Points de vie** <HitPoints>52 (8d10+8)</HitPoints>
+- **Vitesse** <Speed>3 m, nage 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|13 (+1)|13 (+1)| 4 (-3)|10 (+0)| 4 (-3)|
 
-- **Compétences** [Discrétion] +5, [Perception] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +5, [Perception] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -11717,22 +12311,24 @@ _Touché :_ 10 (2d6+3) dégâts contondants et, si la cible est une créature, e
 Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Piranha
-- AltName: [Quipper](monsters_vo.md#quipper)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 0 m, nage 12 m
+<Monster>
+
+# <Name>Piranha</Name>
+- <AltName>[Quipper](monsters_vo.md#quipper)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -11747,22 +12343,24 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Poney
-- AltName: [Pony](monsters_vo.md#pony)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Poney</Name>
+- <AltName>[Pony](monsters_vo.md#pony)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|13 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
 
-- **Sens** [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -11771,22 +12369,24 @@ _Touché :_ 1 dégât perforant.
 _Touché :_ 7 (2d4+2) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Punaise de feu géante
-- AltName: [Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 4 (1d6+1)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Punaise de feu géante</Name>
+- <AltName>[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>4 (1d6+1)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 8 (-1)|10 (+0)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
 
-- **Sens** vision aveugle 9 m, [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision aveugle 9 m, [Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -11799,22 +12399,24 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 _Touché :_ 2 (1d6-1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Rat
-- AltName: [Rat](monsters_vo.md#rat)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 6 m
+<Monster>
+
+# <Name>Rat</Name>
+- <AltName>[Rat](monsters_vo.md#rat)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>6 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
 
-- **Sens** vision dans le noir 9 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -11827,22 +12429,24 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 _Touché :_ 1 dégât perforant.
 
 
-[][MonsterHD]
+</Monster>
 
-# Rat géant
-- AltName: [Giant Rat](monsters_vo.md#giant-rat)
-- Bête de taille P, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 7 (2d6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Rat géant</Name>
+- <AltName>[Giant Rat](monsters_vo.md#giant-rat)</AltName>
+- <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>7 (2d6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|15 (+2)|11 (+0)| 2 (-4)|10 (+0)| 4 (-3)|
 
-- **Sens** vision dans le noir 18 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -11865,23 +12469,25 @@ Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsu
 _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Constitution] DD 10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points de vie, sauf par des moyens magiques, et son total maximum de points de vie diminue de 3 (1d6) toutes les 24 heures. Elle meurt si son total maximum de points de vie tombe à 0 à cause de cette maladie.
 
 
-[][MonsterHD]
+</Monster>
 
-# Requin chasseur
-- AltName: [Hunter Shark](monsters_vo.md#hunter-shark)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 45 (6d10+12)
-- **Vitesse** 0 m, nage 12 m
+<Monster>
+
+# <Name>Requin chasseur</Name>
+- <AltName>[Hunter Shark](monsters_vo.md#hunter-shark)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|13 (+1)|15 (+2)| 1 (-5)|10 (+0)| 4 (-3)|
 
-- **Compétences** [Perception] +2
-- **Sens** vision aveugle 9 m, [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>vision aveugle 9 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -11896,23 +12502,25 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 _Touché :_ 13 (2d8+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Requin de récif
-- AltName: [Reef Shark](monsters_vo.md#reef-shark)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 22 (4d8+4)
-- **Vitesse** 0 m, nage 12 m
+<Monster>
+
+# <Name>Requin de récif</Name>
+- <AltName>[Reef Shark](monsters_vo.md#reef-shark)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |14 (+2)|13 (+1)|13 (+1)| 1 (-5)|10 (+0)| 4 (-3)|
 
-- **Compétences** [Perception] +2
-- **Sens** vision aveugle 9 m, [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>vision aveugle 9 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -11927,23 +12535,25 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 _Touché :_ 6 (1d8+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Requin géant
-- AltName: [Giant Shark](monsters_vo.md#giant-shark)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 126 (11d12+55)
-- **Vitesse** 0 m, nage 15 m
+<Monster>
+
+# <Name>Requin géant</Name>
+- <AltName>[Giant Shark](monsters_vo.md#giant-shark)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>126 (11d12+55)</HitPoints>
+- **Vitesse** <Speed>0 m, nage 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|11 (+0)|21 (+5)| 1 (-5)|10 (+0)| 5 (-3)|
 
-- **Compétences** [Perception] +3
-- **Sens** vision aveugle 18 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 5 (1 800 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -11958,22 +12568,24 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 22 (3d10+6) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Rhinocéros
-- AltName: [Rhinoceros](monsters_vo.md#rhinoceros)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 45 (6d10+12)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Rhinocéros</Name>
+- <AltName>[Rhinoceros](monsters_vo.md#rhinoceros)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
 
-- **Sens** [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -11988,22 +12600,24 @@ Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [For
 _Touché :_ 14 (2d8+5) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Sanglier
-- AltName: [Boar](monsters_vo.md#boar)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Sanglier</Name>
+- <AltName>[Boar](monsters_vo.md#boar)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)| 2 (-4)| 9 (-1)| 5 (-3)|
 
-- **Sens** [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>[Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -12018,22 +12632,24 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Sanglier géant
-- AltName: [Giant Boar](monsters_vo.md#giant-boar)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12 (armure naturelle)
-- **Points de vie** 42 (5d10+15)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Sanglier géant</Name>
+- <AltName>[Giant Boar](monsters_vo.md#giant-boar)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>42 (5d10+15)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
 
-- **Sens** [Perception passive] 8
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>[Perception passive] 8</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -12048,22 +12664,24 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Scorpion
-- AltName: [Scorpion](monsters_vo.md#scorpion)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 11 (armure naturelle)
-- **Points de vie** 1 (1d4-1)
-- **Vitesse** 3 m
+<Monster>
+
+# <Name>Scorpion</Name>
+- <AltName>[Scorpion](monsters_vo.md#scorpion)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
+- **Vitesse** <Speed>3 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|11 (+0)| 8 (-1)| 1 (-5)| 8 (-1)| 2 (-4)|
 
-- **Sens** vision aveugle 3 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Actions
 
@@ -12072,22 +12690,24 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 9. Elle subit 4 (1d8) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Scorpion géant
-- AltName: [Giant Scorpion](monsters_vo.md#giant-scorpion)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 15 (armure naturelle)
-- **Points de vie** 52 (7d10+14)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Scorpion géant</Name>
+- <AltName>[Giant Scorpion](monsters_vo.md#giant-scorpion)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>52 (7d10+14)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|13 (+1)|15 (+2)| 1 (-5)| 9 (-1)| 3 (-4)|
 
-- **Sens** vision aveugle 18 m, [Perception passive] 9
-- **Langues** —
-- **Dangerosité** 3 (700 PX)
+- **Sens** <Senses>vision aveugle 18 m, [Perception passive] 9</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Actions
 
@@ -12102,22 +12722,24 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
 
 
-[][MonsterHD]
+</Monster>
 
-# Serpent constricteur
-- AltName: [Constrictor Snake](monsters_vo.md#constrictor-snake)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 13 (2d10+2)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Serpent constricteur</Name>
+- <AltName>[Constrictor Snake](monsters_vo.md#constrictor-snake)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>13 (2d10+2)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Sens** vision aveugle 3 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -12130,23 +12752,25 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Serpent constricteur géant
-- AltName: [Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 60 (8d12+8)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Serpent constricteur géant</Name>
+- <AltName>[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>60 (8d12+8)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |19 (+4)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Compétences** [Perception] +2
-- **Sens** vision aveugle 3 m, [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -12159,22 +12783,24 @@ _Touché :_ 13 (2d8+4) dégâts contondants et la cible est [empoignée] (évasi
 _Touché :_ 11 (2d6+4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Serpent venimeux
-- AltName: [Poisonous Snake](monsters_vo.md#poisonous-snake)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 13
-- **Points de vie** 2 (1d4)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Serpent venimeux</Name>
+- <AltName>[Poisonous Snake](monsters_vo.md#poisonous-snake)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>13</ArmorClass>
+- **Points de vie** <HitPoints>2 (1d4)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 2 (-4)|16 (+3)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
 
-- **Sens** vision aveugle 3 m, [Perception passive] 10
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 10</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -12183,23 +12809,25 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 10. Elle subit 5 (2d4) dégâts de poison en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Serpent venimeux géant
-- AltName: [Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 14
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 9 m, nage 9 m
+<Monster>
+
+# <Name>Serpent venimeux géant</Name>
+- <AltName>[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>9 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|18 (+4)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
 
-- **Compétences** [Perception] +2
-- **Sens** vision aveugle 3 m, [Perception passive] 12
-- **Langues** —
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 12</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Actions
 
@@ -12210,22 +12838,24 @@ _Touché :_ 6 (1d4+4) dégâts perforants et la cible doit effectuer un [jet de 
 Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Serpent volant
-- AltName: [Flying Snake](monsters_vo.md#flying-snake)
-- Bête de taille TP, non-alignée
-- **Classe d'armure** 14
-- **Points de vie** 5 (2d4)
-- **Vitesse** 9 m, vol 18 m, nage 9 m
+<Monster>
+
+# <Name>Serpent volant</Name>
+- <AltName>[Flying Snake](monsters_vo.md#flying-snake)</AltName>
+- <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Points de vie** <HitPoints>5 (2d4)</HitPoints>
+- **Vitesse** <Speed>9 m, vol 18 m, nage 9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 4 (-3)|18 (+4)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
 
-- **Sens** vision aveugle 3 m, [Perception passive] 11
-- **Langues** —
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>vision aveugle 3 m, [Perception passive] 11</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -12238,23 +12868,25 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la
 _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 
 
-[][MonsterHD]
+</Monster>
 
-# Singe géant
-- AltName: [Giant Ape](monsters_vo.md#giant-ape)
-- Bête de taille TG, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 157 (15d12+60)
-- **Vitesse** 12 m, escalade 12 m
+<Monster>
+
+# <Name>Singe géant</Name>
+- <AltName>[Giant Ape](monsters_vo.md#giant-ape)</AltName>
+- <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>157 (15d12+60)</HitPoints>
+- **Vitesse** <Speed>12 m, escalade 12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |23 (+6)|14 (+2)|18 (+4)| 7 (-2)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Athlétisme] +9, [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** —
-- **Dangerosité** 7 (2 900 PX)
+- **Compétences** <Abilities>[Athlétisme] +9, [Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
 
 ## Actions
 
@@ -12269,23 +12901,25 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 _Touché :_ 30 (7d6+6) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tigre
-- AltName: [Tiger](monsters_vo.md#tiger)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 37 (5d10+10)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Tigre</Name>
+- <AltName>[Tiger](monsters_vo.md#tiger)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>37 (5d10+10)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- **Compétences** [Discrétion] +6, [Perception] +3
-- **Sens** vision dans le noir 18 m, [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -12304,23 +12938,25 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 _Touché :_ 8 (1d10+3) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Tigre à dents de sabre
-- AltName: [Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)
-- Bête de taille G, non-alignée
-- **Classe d'armure** 12
-- **Points de vie** 52 (7d10+14)
-- **Vitesse** 12 m
+<Monster>
+
+# <Name>Tigre à dents de sabre</Name>
+- <AltName>[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>52 (7d10+14)</HitPoints>
+- **Vitesse** <Speed>12 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|14 (+2)|15 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
 
-- **Compétences** [Discrétion] +6, [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -12339,23 +12975,25 @@ _Touché :_ 12 (2d6+5) dégâts tranchants.
 _Touché :_ 10 (1d10+5) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vautour
-- AltName: [Vulture](monsters_vo.md#vulture)
-- Bête de taille M, non-alignée
-- **Classe d'armure** 10
-- **Points de vie** 5 (1d188+1)
-- **Vitesse** 3 m, vol 15 m
+<Monster>
+
+# <Name>Vautour</Name>
+- <AltName>[Vulture](monsters_vo.md#vulture)</AltName>
+- <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>5 (1d188+1)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 7 (-2)|10 (+0)|13 (+1)| 2 (-4)|12 (+1)| 4 (-3)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** —
-- **Dangerosité** 0 (10 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>—</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Capacités
 
@@ -12370,23 +13008,25 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 _Touché :_ 2 (1d4) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vautour géant
-- AltName: [Giant Vulture](monsters_vo.md#giant-vulture)
-- Bête de taille G, Neutre Mauvais
-- **Classe d'armure** 10
-- **Points de vie** 22 (3d10+6)
-- **Vitesse** 3 m, vol 18 m
+<Monster>
+
+# <Name>Vautour géant</Name>
+- <AltName>[Giant Vulture](monsters_vo.md#giant-vulture)</AltName>
+- <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>22 (3d10+6)</HitPoints>
+- **Vitesse** <Speed>3 m, vol 18 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|10 (+0)|15 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
 
-- **Compétences** [Perception] +3
-- **Sens** [Perception passive] 13
-- **Langues** comprend le commun mais ne peut pas parler
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>comprend le commun mais ne peut pas parler</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -12407,23 +13047,25 @@ _Touché :_ 7 (2d4+2) dégâts perforants.
 _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Worg
-- AltName: [Worg](monsters_vo.md#worg)
-- Créature monstrueuse de taille G, Neutre Mauvais
-- **Classe d'armure** 13 (armure naturelle)
-- **Points de vie** 26 (4d10+4)
-- **Vitesse** 15 m
+<Monster>
+
+# <Name>Worg</Name>
+- <AltName>[Worg](monsters_vo.md#worg)</AltName>
+- <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
+- **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
+- **Vitesse** <Speed>15 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|13 (+1)| 7 (-2)|11 (+0)| 8 (-1)|
 
-- **Compétences** [Perception] +4
-- **Sens** vision dans le noir 18 m, [Perception passive] 14
-- **Langues** gobelin, worg
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
+- **Langues** <Languages>gobelin, worg</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -12436,23 +13078,25 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde] de [Force] DD 13 pour ne pas être jetée [à terre].
 
 
-[][MonsterHD]
+</Monster>
 
-# Acolyte
-- AltName: [Acolyte](monsters_vo.md#acolyte)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 10
-- **Points de vie** 9 (2d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Acolyte</Name>
+- <AltName>[Acolyte](monsters_vo.md#acolyte)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>9 (2d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
 
-- **Compétences** [Médecine] +4, [Religion] +2
-- **Sens** [Perception passive] 12
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 1/4 (50 PX)
+- **Compétences** <Abilities>[Médecine] +4, [Religion] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
 
 ## Capacités
 
@@ -12469,25 +13113,27 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Archimage
-- AltName: [Archmage](monsters_vo.md#archmage)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 12 (15 avec armure du mage)
-- **Points de vie** 99 (18d8+18)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Archimage</Name>
+- <AltName>[Archmage](monsters_vo.md#archmage)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>12 (15 avec armure du mage)</ArmorClass>
+- **Points de vie** <HitPoints>99 (18d8+18)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
 
-- **Jets de sauvegarde** Int +9, Sag +6
-- **Compétences** [Arcanes] +13, [Histoire] +13
-- **Résistance aux dégâts** des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)
-- **Sens** [Perception passive] 12
-- **Langues** six langues au choix
-- **Dangerosité** 12 (8 400 PX)
+- **Jets de sauvegarde** <SavingThrows>Int +9, Sag +6</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +13, [Histoire] +13</Abilities>
+- **Résistance aux dégâts** <DamageResistances>des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)</DamageResistances>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>six langues au choix</Languages>
+- **Dangerosité** <Challenge>12 (8 400 PX)</Challenge>
 
 ## Capacités
 
@@ -12526,25 +13172,27 @@ L'archimage peut lancer déguisement et invisibilité à volonté et dispose des
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Assassin
-- AltName: [Assassin](monsters_vo.md#assassin)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
-- **Classe d'armure** 15 (armure de cuir clouté)
-- **Points de vie** 78 (12d8+24)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Assassin</Name>
+- <AltName>[Assassin](monsters_vo.md#assassin)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Bon</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure de cuir clouté)</ArmorClass>
+- **Points de vie** <HitPoints>78 (12d8+24)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
 
-- **Jets de sauvegarde** Dex +6, Int +4
-- **Compétences** [Acrobaties] +6, [Discrétion] +9, [Perception] +3, [Supercherie] +3
-- **Résistance aux dégâts** de poison
-- **Sens** [Perception passive] 13
-- **Langues** argot des voleurs plus deux autres langues au choix
-- **Dangerosité** 8 (3 900 PX)
+- **Jets de sauvegarde** <SavingThrows>Dex +6, Int +4</SavingThrows>
+- **Compétences** <Abilities>[Acrobaties] +6, [Discrétion] +9, [Perception] +3, [Supercherie] +3</Abilities>
+- **Résistance aux dégâts** <DamageResistances>de poison</DamageResistances>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>argot des voleurs plus deux autres langues au choix</Languages>
+- **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
 
 ## Capacités
 
@@ -12567,22 +13215,24 @@ _Touché :_ 7 (1d8+3) dégâts perforants et la cible doit effectuer un [jet de 
 _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de sauvegarde] de [Constitution] DD 15. Elle subit 24 (7d6) dégâts de poison en cas de [jet de sauvegarde] raté ou la moitié de ces dégâts seulement en cas de réussite.
 
 
-[][MonsterHD]
+</Monster>
 
-# Bandit
-- AltName: [Bandit](monsters_vo.md#bandit)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
-- **Classe d'armure** 12 (armure de cuir)
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Bandit</Name>
+- <AltName>[Bandit](monsters_vo.md#bandit)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Loyal</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
 
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -12595,22 +13245,24 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Berserker
-- AltName: [Berserker](monsters_vo.md#berserker)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
-- **Classe d'armure** 13 (armure de peau)
-- **Points de vie** 67 (9d8+27)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Berserker</Name>
+- <AltName>[Berserker](monsters_vo.md#berserker)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement Chaotique</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure de peau)</ArmorClass>
+- **Points de vie** <HitPoints>67 (9d8+27)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|12 (+1)|17 (+3)| 9 (-1)|11 (+0)| 9 (-1)|
 
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 2 (450 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -12623,24 +13275,26 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 _Touché :_ 9 (1d12+3) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Capitaine bandit
-- AltName: [Bandit Captain](monsters_vo.md#bandit-captain)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
-- **Classe d'armure** 15 (armure de cuir clouté)
-- **Points de vie** 65 (10d8+20)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Capitaine bandit</Name>
+- <AltName>[Bandit Captain](monsters_vo.md#bandit-captain)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Loyal</Alignment>
+- **Classe d'armure** <ArmorClass>15 (armure de cuir clouté)</ArmorClass>
+- **Points de vie** <HitPoints>65 (10d8+20)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
 
-- **Jets de sauvegarde** For +4, Dex +5, Sag +2
-- **Compétences** [Athlétisme] +4, [Supercherie] +4
-- **Sens** [Perception passive] 10
-- **Langues** deux langues au choix
-- **Dangerosité** 2 (450 PX)
+- **Jets de sauvegarde** <SavingThrows>For +4, Dex +5, Sag +2</SavingThrows>
+- **Compétences** <Abilities>[Athlétisme] +4, [Supercherie] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>deux langues au choix</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Actions
 
@@ -12659,23 +13313,25 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 **_Parade._** Le capitaine ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-[][MonsterHD]
+</Monster>
 
-# Chevalier
-- AltName: [Knight](monsters_vo.md#knight)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 18 (harnois)
-- **Points de vie** 52 (8d8+16)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Chevalier</Name>
+- <AltName>[Knight](monsters_vo.md#knight)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
+- **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
 
-- **Jets de sauvegarde** Con +4, Sag +2
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 3 (700 PX)
+- **Jets de sauvegarde** <SavingThrows>Con +4, Sag +2</SavingThrows>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Capacités
 
@@ -12700,23 +13356,25 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 **_Parade._** Le chevalier ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon. 
 
 
-[][MonsterHD]
+</Monster>
 
-# Druide
-- AltName: [Druid](monsters_vo.md#druid)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 11 (16 avec peau d'écorce)
-- **Points de vie** 27 (5d8+5)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Druide</Name>
+- <AltName>[Druid](monsters_vo.md#druid)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>11 (16 avec peau d'écorce)</ArmorClass>
+- **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
 
-- **Compétences** [Médecine] +4, [Nature] +3, [Perception] +4
-- **Sens** [Perception passive] 14
-- **Langues** langue des druides plus deux langues au choix
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Médecine] +4, [Nature] +3, [Perception] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 14</Senses>
+- **Langues** <Languages>langue des druides plus deux langues au choix</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -12735,23 +13393,25 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est manié à deux mains, ou 6 (1d8+2) dégâts contondants avec gourdin magique.
 
 
-[][MonsterHD]
+</Monster>
 
-# Ecclésiastique
-- AltName: [Priest](monsters_vo.md#priest)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 13 (chemise de mailles)
-- **Points de vie** 27 (5d8+5)
-- **Vitesse** 7,50 m
+<Monster>
+
+# <Name>Ecclésiastique</Name>
+- <AltName>[Priest](monsters_vo.md#priest)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>13 (chemise de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
+- **Vitesse** <Speed>7,50 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
 
-- **Compétences** [Médecine] +7, [Persuasion] +3, [Religion] +4
-- **Sens** [Perception passive] 13
-- **Langues** deux langues au choix
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Médecine] +7, [Persuasion] +3, [Religion] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 13</Senses>
+- **Langues** <Languages>deux langues au choix</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -12776,23 +13436,25 @@ Voici ses sorts de clerc préparés :
 _Touché :_ 3 (1d6) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Éclaireur
-- AltName: [Scout](monsters_vo.md#scout)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 13 (armure de cuir)
-- **Points de vie** 16 (3d8+3)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Éclaireur</Name>
+- <AltName>[Scout](monsters_vo.md#scout)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>16 (3d8+3)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
 
-- **Compétences** [Discrétion] +6, [Nature] +4, [Perception] +5, [Survie] +5
-- **Sens** [Perception passive] 15
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Discrétion] +6, [Nature] +4, [Perception] +5, [Survie] +5</Abilities>
+- **Sens** <Senses>[Perception passive] 15</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -12811,23 +13473,25 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Espion
-- AltName: [Spy](monsters_vo.md#spy)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 12
-- **Points de vie** 27 (6d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Espion</Name>
+- <AltName>[Spy](monsters_vo.md#spy)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>12</ArmorClass>
+- **Points de vie** <HitPoints>27 (6d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
-- **Compétences** [Discrétion] +4, [Investigation] +5, [Perception] +6, [Perspicacité] +4, [Persuasion] +5, [Supercherie] +5, [Escamotage] +4
-- **Sens** [Perception passive] 16
-- **Langues** deux langues au choix
-- **Dangerosité** 1 (200 PX)
+- **Compétences** <Abilities>[Discrétion] +4, [Investigation] +5, [Perception] +6, [Perspicacité] +4, [Persuasion] +5, [Supercherie] +5, [Escamotage] +4</Abilities>
+- **Sens** <Senses>[Perception passive] 16</Senses>
+- **Langues** <Languages>deux langues au choix</Languages>
+- **Dangerosité** <Challenge>1 (200 PX)</Challenge>
 
 ## Capacités
 
@@ -12848,23 +13512,25 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 5 (1d6+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Fanatique de secte
-- AltName: [Cult Fanatic](monsters_vo.md#cult-fanatic)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
-- **Classe d'armure** 13 (armure de cuir)
-- **Points de vie** 33 (6d8+6)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Fanatique de secte</Name>
+- <AltName>[Cult Fanatic](monsters_vo.md#cult-fanatic)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Bon</Alignment>
+- **Classe d'armure** <ArmorClass>13 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
 
-- **Compétences** [Religion] +2, [Persuasion] +4, Supercherie +4
-- **Sens** [Perception passive] 11
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 2 (450 PX)
+- **Compétences** <Abilities>[Religion] +2, [Persuasion] +4, Supercherie +4</Abilities>
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>2 (450 PX)</Challenge>
 
 ## Capacités
 
@@ -12887,23 +13553,25 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Garde
-- AltName: [Guard](monsters_vo.md#guard)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 16 (bouclier, chemise de mailles)
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Garde</Name>
+- <AltName>[Guard](monsters_vo.md#guard)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>16 (bouclier, chemise de mailles)</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Compétences** [Perception] +2
-- **Sens** [Perception passive] 12
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -12912,24 +13580,26 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
-[][MonsterHD]
+</Monster>
 
-# Gladiateur
-- AltName: [Gladiator](monsters_vo.md#gladiator)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 16 (armure de cuir clouté, bouclier)
-- **Points de vie** 112 (15d8+45)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Gladiateur</Name>
+- <AltName>[Gladiator](monsters_vo.md#gladiator)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>16 (armure de cuir clouté, bouclier)</ArmorClass>
+- **Points de vie** <HitPoints>112 (15d8+45)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
 
-- **Jets de sauvegarde** For +7, Dex +5, Con +6
-- **Compétences** [Athlétisme] +10, [Intimidation] +5
-- **Sens** [Perception passive] 11
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 5 (1 800 PX)
+- **Jets de sauvegarde** <SavingThrows>For +7, Dex +5, Con +6</SavingThrows>
+- **Compétences** <Abilities>[Athlétisme] +10, [Intimidation] +5</Abilities>
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
 
 ## Capacités
 
@@ -12956,22 +13626,24 @@ _Touché :_ 11 (2d6+4) dégâts perforants ou 13 (2d8+4) dégâts perforants si 
 Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-[][MonsterHD]
+</Monster>
 
-# Guerrier tribal
-- AltName: [Tribal Warrior](monsters_vo.md#tribal-warrior)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 12 (armure de peau)
-- **Points de vie** 11 (2d8+2)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Guerrier tribal</Name>
+- <AltName>[Tribal Warrior](monsters_vo.md#tribal-warrior)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure de peau)</ArmorClass>
+- **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |13 (+1)|11 (+0)|12 (+1)| 8 (-1)|11 (+0)| 8 (-1)|
 
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix
-- **Dangerosité** 1/8 (25 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -12984,24 +13656,26 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps.
 
 
-[][MonsterHD]
+</Monster>
 
-# Mage
-- AltName: [Mage](monsters_vo.md#mage)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 12 (15 avec armure du mage)
-- **Points de vie** 40 (9d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Mage</Name>
+- <AltName>[Mage](monsters_vo.md#mage)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>12 (15 avec armure du mage)</ArmorClass>
+- **Points de vie** <HitPoints>40 (9d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 | 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
 
-- **Jets de sauvegarde** Int +6, Sag +4
-- **Compétences** [Arcanes] +6, [Histoire] +6
-- **Sens** [Perception passive] 11
-- **Langues** quatre langues au choix
-- **Dangerosité** 6 (2 300 PX)
+- **Jets de sauvegarde** <SavingThrows>Int +6, Sag +4</SavingThrows>
+- **Compétences** <Abilities>[Arcanes] +6, [Histoire] +6</Abilities>
+- **Sens** <Senses>[Perception passive] 11</Senses>
+- **Langues** <Languages>quatre langues au choix</Languages>
+- **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
 
 ## Capacités
 
@@ -13026,23 +13700,25 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 _Touché :_ 4 (1d4+2) dégâts perforants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Malfrat
-- AltName: [Thug](monsters_vo.md#thug)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
-- **Classe d'armure** 11 (armure de cuir)
-- **Points de vie** 32 (5d8+10)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Malfrat</Name>
+- <AltName>[Thug](monsters_vo.md#thug)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que bon</Alignment>
+- **Classe d'armure** <ArmorClass>11 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
 
-- **Compétences** [Intimidation] +2
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 1/2 (100 PX)
+- **Compétences** <Abilities>[Intimidation] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
 
 ## Capacités
 
@@ -13063,23 +13739,25 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidation et de violence. Ils travaillent pour l'argent et n'éprouvent guère de scrupules.
 
 
-[][MonsterHD]
+</Monster>
 
-# Membre de secte
-- AltName: [Cultist](monsters_vo.md#cultist)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
-- **Classe d'armure** 12 (armure de cuir)
-- **Points de vie** 9 (2d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Membre de secte</Name>
+- <AltName>[Cultist](monsters_vo.md#cultist)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Bon</Alignment>
+- **Classe d'armure** <ArmorClass>12 (armure de cuir)</ArmorClass>
+- **Points de vie** <HitPoints>9 (2d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Compétences** [Religion] +2, Supercherie +2
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Religion] +2, Supercherie +2</Abilities>
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Capacités
 
@@ -13092,23 +13770,25 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Noble
-- AltName: [Noble](monsters_vo.md#noble)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 15 (cuirasse)
-- **Points de vie** 9 (2d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Noble</Name>
+- <AltName>[Noble](monsters_vo.md#noble)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>15 (cuirasse)</ArmorClass>
+- **Points de vie** <HitPoints>9 (2d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
 
-- **Compétences** [Perspicacité] +4, [Persuasion] +5, Supercherie +5
-- **Sens** [Perception passive] 12
-- **Langues** deux langues au choix
-- **Dangerosité** 1/8 (25 PX)
+- **Compétences** <Abilities>[Perspicacité] +4, [Persuasion] +5, Supercherie +5</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>deux langues au choix</Languages>
+- **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
 
 ## Actions
 
@@ -13121,22 +13801,24 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 **_Parade._** Le noble ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 
-[][MonsterHD]
+</Monster>
 
-# Roturier
-- AltName: [Commoner](monsters_vo.md#commoner)
-- Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
-- **Classe d'armure** 10
-- **Points de vie** 4 (1d8)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Roturier</Name>
+- <AltName>[Commoner](monsters_vo.md#commoner)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
+- **Classe d'armure** <ArmorClass>10</ArmorClass>
+- **Points de vie** <HitPoints>4 (1d8)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
-- **Sens** [Perception passive] 10
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 0 (10 PX)
+- **Sens** <Senses>[Perception passive] 10</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>0 (10 PX)</Challenge>
 
 ## Actions
 
@@ -13145,23 +13827,25 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 _Touché :_ 2 (1d4) dégâts contondants.
 
 
-[][MonsterHD]
+</Monster>
 
-# Vétéran
-- AltName: [Veteran](monsters_vo.md#veteran)
-- Humanoïde (n'importe quelle race) de taille M, alignement quelconque
-- **Classe d'armure** 17 (clibanion)
-- **Points de vie** 58 (9d8+18)
-- **Vitesse** 9 m
+<Monster>
+
+# <Name>Vétéran</Name>
+- <AltName>[Veteran](monsters_vo.md#veteran)</AltName>
+- <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>alignement quelconque</Alignment>
+- **Classe d'armure** <ArmorClass>17 (clibanion)</ArmorClass>
+- **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
+- **Vitesse** <Speed>9 m</Speed>
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
 |16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
 
-- **Compétences** [Athlétisme] +5, [Perception] +2
-- **Sens** [Perception passive] 12
-- **Langues** une langue au choix (commun le plus souvent)
-- **Dangerosité** 3 (700 PX)
+- **Compétences** <Abilities>[Athlétisme] +5, [Perception] +2</Abilities>
+- **Sens** <Senses>[Perception passive] 12</Senses>
+- **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
+- **Dangerosité** <Challenge>3 (700 PX)</Challenge>
 
 ## Actions
 
@@ -13179,7 +13863,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si elle est maniée à deux mains.
 
+</Monster>
 
+</MonstersHD>
 
 [Ancient White Dragon]: monsters_vo.md#ancient-white-dragon
 [Adult White Dragon]: monsters_vo.md#adult-white-dragon

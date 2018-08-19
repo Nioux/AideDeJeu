@@ -10,7 +10,7 @@ using System.Xml;
 
 namespace AideDeJeuLib
 {
-    public abstract class Monster : Item
+    public class Monster : Item
     {
         public string Type { get; set; }
         public string Size { get; set; }
@@ -35,6 +35,7 @@ namespace AideDeJeuLib
         public string Senses { get; set; }
         public string Languages { get; set; }
         public string Challenge { get; set; }
+        public string Abilities { get; set; }
         public string Description { get; set; }
 
         public IEnumerable<string> SpecialFeatures { get; set; }

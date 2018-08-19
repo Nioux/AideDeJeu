@@ -12,7 +12,7 @@
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(HD)(SRD p)</Source>
 
 ### Description
 
@@ -38,7 +38,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(HD)(SRD p)</Source>
 
 ### Description
 
@@ -64,7 +64,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD)</Source>
+- Source: <Source>(HD)(SRD p)</Source>
 
 ### Description
 

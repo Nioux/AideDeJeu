@@ -444,7 +444,7 @@ namespace AideDeJeu.ViewModels
                         monster != null &&
                         monster.Type.Contains(type) &&
                         (string.IsNullOrEmpty(size) || monster.Size.Equals(size)) &&
-                        monster.Source.Contains(source) &&
+                        (string.IsNullOrEmpty(source) || (monster.Source != null && monster.Source.Contains(source))) &&
                         powerComparer.Compare(monster.Challenge, minPower) >= 0 &&
                         powerComparer.Compare(monster.Challenge, maxPower) <= 0 &&
                         (
