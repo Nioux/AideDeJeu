@@ -13,13 +13,13 @@ namespace AideDeJeuLib
         {
             get
             {
-                if (string.IsNullOrEmpty(Rituel))
+                if (string.IsNullOrEmpty(Ritual))
                 {
                     return $"Level {Level} - {Type}";
                 }
                 else
                 {
-                    return $"Level {Level} - {Type} {Rituel}";
+                    return $"Level {Level} - {Type} {Ritual}";
                 }
             }
             set
@@ -28,7 +28,7 @@ namespace AideDeJeuLib
                 var match = re.Match(value);
                 this.Type = match.Groups["type"].Value;
                 this.Level = match.Groups["level"].Value;
-                this.Rituel = match.Groups["rituel"].Value;
+                this.Ritual = match.Groups["rituel"].Value;
             }
         }
 

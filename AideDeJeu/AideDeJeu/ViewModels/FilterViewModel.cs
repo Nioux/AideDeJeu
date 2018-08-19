@@ -179,6 +179,7 @@ namespace AideDeJeu.ViewModels
         {
             return await Task.Run(() =>
             {
+                var levelComparer = new LevelComparer();
                 var classe = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.Class).SelectedKey ?? "";
                 var niveauMin = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MinLevel).SelectedKey ?? "0";
                 var niveauMax = Filters.SingleOrDefault(filter => filter.Key == FilterKeys.MaxLevel).SelectedKey ?? "9";
@@ -189,12 +190,13 @@ namespace AideDeJeu.ViewModels
                 return items.Where(item =>
                 {
                     var spell = item as Spell;
-                    return (int.Parse(spell.Level) >= int.Parse(niveauMin)) &&
-                        (int.Parse(spell.Level) <= int.Parse(niveauMax)) &&
+                    return
+                        levelComparer.Compare(spell.Level, niveauMin) >= 0 &&
+                        levelComparer.Compare(spell.Level, niveauMax) <= 0 &&
                         spell.Type.ToLower().Contains(ecole.ToLower()) &&
-                        spell.Source.Contains(source) &&
-                        spell.Classes.Contains(classe) &&
-                        (spell.Rituel == null || spell.Rituel.Contains(rituel)) &&
+                        (spell.Source != null && spell.Source.Contains(source)) &&
+                        (spell.Classes != null && spell.Classes.Contains(classe)) &&
+                        (spell.Ritual != null && spell.Ritual.Contains(rituel)) &&
                         (
                             (Helpers.RemoveDiacritics(spell.Name).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())) ||
                             (Helpers.RemoveDiacritics(spell.AltNameText ?? string.Empty).ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()))
@@ -262,7 +264,7 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Rituels { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Tous"),
-            new KeyValuePair<string, string>("(rituel)", "Rituel"),
+            new KeyValuePair<string, string>("rituel", "Rituel"),
         };
 
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()
@@ -374,7 +376,7 @@ namespace AideDeJeu.ViewModels
         public override List<KeyValuePair<string, string>> Rituels { get; } = new List<KeyValuePair<string, string>>()
         {
             new KeyValuePair<string, string>("", "Tous"),
-            new KeyValuePair<string, string>("(rituel)", "Rituel"),
+            new KeyValuePair<string, string>("rituel", "Rituel"),
         };
 
         public override List<KeyValuePair<string, string>> Sources { get; } = new List<KeyValuePair<string, string>>()

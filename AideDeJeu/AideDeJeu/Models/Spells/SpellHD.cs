@@ -17,13 +17,13 @@ namespace AideDeJeuLib
             {
                 if (int.Parse(Level) > 0)
                 {
-                    if (string.IsNullOrEmpty(Rituel))
+                    if (string.IsNullOrEmpty(Ritual))
                     {
                         return $"{Type} de niveau {Level}";
                     }
                     else
                     {
-                        return $"{Type} de niveau {Level} {Rituel}";
+                        return $"{Type} de niveau {Level} {Ritual}";
                     }
                 }
                 else
@@ -37,7 +37,7 @@ namespace AideDeJeuLib
                 var match = re.Match(value);
                 this.Type = match.Groups["type"].Value;
                 this.Level = match.Groups["level"].Value;
-                this.Rituel = match.Groups["rituel"].Value;
+                this.Ritual = match.Groups["rituel"].Value;
                 if (string.IsNullOrEmpty(this.Type))
                 {
                     re = new Regex("(?<type>.*), (?<level>tour de magie)");
@@ -46,7 +46,7 @@ namespace AideDeJeuLib
                     {
                         this.Type = match.Groups["type"].Value;
                         this.Level = "0"; // match.Groups["level"].Value;
-                        this.Rituel = match.Groups["rituel"].Value;
+                        this.Ritual = match.Groups["rituel"].Value;
                     }
                 }
             }

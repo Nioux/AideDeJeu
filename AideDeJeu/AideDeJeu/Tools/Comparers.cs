@@ -28,6 +28,22 @@ namespace AideDeJeu.Tools
         }
     }
 
+    public class LevelComparer : Comparer<string>
+    {
+        public override int Compare(string x, string y)
+        {
+            if (string.IsNullOrEmpty(x) && string.IsNullOrEmpty(y)) return 0;
+            if (string.IsNullOrEmpty(x)) return 1;
+            if (string.IsNullOrEmpty(y)) return -1;
+
+            int ix = 0;
+            int.TryParse(x, out ix);
+            int iy = 0;
+            int.TryParse(y, out iy);
+            return ix - iy;
+        }
+    }
+
     public class PriceComparer : Comparer<string>
     {
         int ToCopperPieces(string price)
