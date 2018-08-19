@@ -1,152 +1,185 @@
-[][Items]
 
 <Items>
 
-<Header>
+# <Name>Races</Name>
 
-# Races
-
-- AltName: <AltName>Races</AltName> (SRD p3)
-- Source: (MDR p36)
-
-</Header>
-
-[][Generic]
+- <AltName>Races</AltName>
+- Source: <Source>(MDR p36)(SRD p3)</Source>
 
 <Generic>
 
-### Traits raciaux
+### <Name>Traits raciaux</Name>
 
-- AltName: Racial Traits (SRD p3)
-- Source: (MDR p36)
+- <AltName>Racial Traits</AltName>
+- Source: <Source>(MDR p36)(SRD p3)</Source>
 
 Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
 
 </Generic>
 
-[][Generic]
+<Generic>
 
-#### Augmentation de caractéristiques
+#### <Name>Augmentation de caractéristiques</Name>
 
-- AltName: Ability Score Increase (SRD p3)
-- Source: (MDR p36)
+- <AltName>Ability Score Increase</AltName>
+- Source: <Source>(MDR p36)(SRD p3)</Source>
 
 Chaque race accorde un bonus à une ou plusieurs caractéristiques du personnage.
 
-[][Generic]
+</Generic>
 
-#### Âge
+<Generic>
 
-- AltName: Age (SRD p3)
-- Source: (MDR p36)
+#### <Name>Âge</Name>
+
+- <AltName>Age</AltName>
+- Source: <Source>(MDR p36)(SRD p3)</Source>
 
 Cette entrée indique l’âge à partir duquel un individu est considéré comme un adulte ainsi que la longévité moyenne des représentants de cette race. Cette information peut vous aider à choisir l’âge de votre personnage au début du jeu. Vous êtes libre de lui donner l’âge de votre choix. Ce dernier peut expliquer la répartition de vos valeurs de caractéristiques. Par exemple, si vous jouez un personnage jeune ou très vieux, votre âge pourra expliquer des valeurs de Force et Constitution particulièrement basses, et un âge avancé pourra justifier de bonnes valeurs d’Intelligence et de Sagesse.
 
-[][Generic]
+</Generic>
 
-#### Alignement
+<Generic>
 
-- AltName: Alignment (SRD p3)
-- Source: (MDR p36)
+#### <Name>Alignement</Name>
+
+- <AltName>Alignment</AltName>
+- Source: <Source>(MDR p36)(SRD p3)</Source>
 
 La plupart des races tendent naturellement vers un alignement donné, mentionné dans cette entrée. L’alignement est indiqué à titre informatif et les joueurs ne sont pas obligés de l’adopter, mais si vous vous demandez pourquoi votre nain est d’alignement Chaotique, en rébellion par rapport à une société naine plutôt Loyale, par exemple, cela peut vous aider à mieux déterminer son comportement.
 
-[][Generic]
+</Generic>
 
-#### Taille
+<Generic>
 
-- AltName: Size (SRD p3)
-- Source: (MDR p37)
+#### <Name>Taille</Name>
+
+- <AltName>Size</AltName>
+- Source: <Source>(MDR p37)(SRD p3)</Source>
 
 Les personnages de la plupart des races sont de taille moyenne, une catégorie qui regroupe les créatures qui se situent entre 1,20 mètre et 2,40 mètres. Les membres de certaines races sont de taille petite (60 centimètres à 1,20 mètre), ce qui signifie que certaines règles du jeu ne les affecteront pas de la même manière que les autres. La règle la plus importante pour les petites créatures est qu’elles ont des difficultés à manier les armes lourdes, comme cela est expliqué au chapitre 5, Équipement, page 227.
 
-[][Generic]
+</Generic>
 
-#### Vitesse
+<Generic>
 
-- AltName: Speed (SRD p3)
-- Source: (MDR p37)
+#### <Name>Vitesse</Name>
+
+- <AltName>Speed</AltName>
+- Source: <Source>(MDR p37)(SRD p3)</Source>
 
 Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voyagez (voir le chapitre 8, Partir à l’aventure, pages 269-281) ou quand vous combattez (voir le chapitre 9, Combattre, pages 282-295).
 
-[][Generic]
+</Generic>
 
-#### Langues
+<Generic>
 
-- AltName: Languages (SRD p3)
-- Source: (MDR p37)
+#### <Name>Langues</Name>
+
+- <AltName>Languages</AltName>
+- Source: <Source>(MDR p37)(SRD p3)</Source>
 
 Le fait d’appartenir à une race donnée vous permet de parler, lire et écrire certaines langues.
 
-[][Generic]
+</Generic>
 
-#### Peuples
+<Generic>
 
-- AltName: Subraces (SRD p3)
-- Source: (MDR p37)
+#### <Name>Peuples</Name>
+
+- <AltName>Subraces</AltName>
+- Source: <Source>(MDR p37)(SRD p3)</Source>
 
 Certaines races se divisent en plusieurs peuples avec des différences culturelles et parfois physiques. Les membres de chaque peuple possèdent les traits de la race dont ils sont issus, ainsi que ceux du peuple auquel ils appartiennent. Les relations entre les diverses populations d’une même race peuvent varier énormément d’une race ou d’un monde à l’autre.
 
-[][LinkItem]
+</Generic>
 
-## [Demi-elfe]
-- AltName: [Half-Elf](#)
+<LinkItem>
 
-[][LinkItem]
+## <NameLink>[Demi-elfe]</NameLink>
+- <AltName>[Half-Elf](#)</AltName>
 
-## [Demi-orc]
-- AltName: [Half-Orc](#)
+</LinkItem>
 
-[][LinkItem]
+<LinkItem>
 
-## [Elfe]
-- AltName: [Elf](#)
+## <NameLink>[Demi-orc]</NameLink>
+- <AltName>[Half-Orc](#)</AltName>
 
-[][LinkItem]
+</LinkItem>
 
-## [Gnome]
-- AltName: [Gnome](#)
+<LinkItem>
 
-[][LinkItem]
+## <NameLink>[Elfe]</NameLink>
+- <AltName>[Elf](#)</AltName>
 
-## [Halfelin]
-- AltName: [Halfling](#)
+</LinkItem>
 
-[][LinkItem]
+<LinkItem>
 
-## [Humain]
-- AltName: [Human](#)
+## <NameLink>[Gnome]</NameLink>
+- <AltName>[Gnome](#)</AltName>
 
-[][LinkItem]
+</LinkItem>
 
-## [Nain]
-- AltName: [Dwarf](#)
+<LinkItem>
 
-[][LinkItem]
+## <NameLink>[Halfelin]</NameLink>
+- <AltName>[Halfling](#)</AltName>
 
-## [Aasimar]
+</LinkItem>
 
-[][LinkItem]
+<LinkItem>
 
-## [Demi-ogre]
+## <NameLink>[Humain]</NameLink>
+- <AltName>[Human](#)</AltName>
 
-[][LinkItem]
+</LinkItem>
 
-## [Félys]
+<LinkItem>
 
-[][LinkItem]
+## <NameLink>[Nain]</NameLink>
+- <AltName>[Dwarf](#)</AltName>
 
-## [Homme serpent]
+</LinkItem>
 
-[][LinkItem]
+<LinkItem>
 
-## [Sangdragon]
-- AltName: [Dragonborn](#)
+## <NameLink>[Aasimar]</NameLink>
 
-[][LinkItem]
+</LinkItem>
 
-## [Tieffelin]
-- AltName: [Tiefling](#)
+<LinkItem>
+
+## <NameLink>[Demi-ogre]</NameLink>
+
+</LinkItem>
+
+<LinkItem>
+
+## <NameLink>[Félys]</NameLink>
+
+</LinkItem>
+
+<LinkItem>
+
+## <NameLink>[Homme serpent]</NameLink>
+
+</LinkItem>
+
+<LinkItem>
+
+## <NameLink>[Sangdragon]</NameLink>
+- <AltName>[Dragonborn](#)</AltName>
+
+</LinkItem>
+
+<LinkItem>
+
+## <NameLink>[Tieffelin]</NameLink>
+- <AltName>[Tiefling](#)</AltName>
+
+</LinkItem>
 
 </Items>
 
@@ -163,7 +196,3 @@ Certaines races se divisent en plusieurs peuples avec des différences culturell
 [Homme serpent]: homme-serpent_hd.md
 [Sangdragon]: dragonborn_hd.md
 [Tieffelin]: tiefling_hd.md
-
-[Items]: #
-[LinkItem]: #
-[Generic]: #

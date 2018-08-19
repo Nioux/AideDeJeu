@@ -69,24 +69,24 @@ namespace AideDeJeuLib
             }
         }
 
-        public override void Parse(ref ContainerBlock.Enumerator enumerator)
-        {
-            var items = new List<Item>();
-            enumerator.MoveNext();
-            ParseHeader(ref enumerator);
-            while (enumerator.Current != null)
-            {
-                var block = enumerator.Current;
-                if (block.IsClosingItem())
-                {
-                    break;
-                }
-                var item = block.GetNewItem();
-                item.Parse(ref enumerator);
-                items.Add(item);
-            }
-            _Items = items;
-        }
+        //public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        //{
+        //    var items = new List<Item>();
+        //    enumerator.MoveNext();
+        //    ParseHeader(ref enumerator);
+        //    while (enumerator.Current != null)
+        //    {
+        //        var block = enumerator.Current;
+        //        if (block.IsClosingItem())
+        //        {
+        //            break;
+        //        }
+        //        var item = block.GetNewItem();
+        //        item.Parse(ref enumerator);
+        //        items.Add(item);
+        //    }
+        //    _Items = items;
+        //}
 
         IEnumerator IEnumerable.GetEnumerator()
         {

@@ -152,20 +152,20 @@ namespace AideDeJeuLib
             }
         }
 
-        public override void Parse(ref ContainerBlock.Enumerator enumerator)
-        {
-            enumerator.MoveNext();
-            while (enumerator.Current != null)
-            {
-                var block = enumerator.Current;
-                if (block.IsNewItem())
-                {
-                    return;
-                }
-                ParseBlock(block);
-                enumerator.MoveNext();
+        //public override void Parse(ref ContainerBlock.Enumerator enumerator)
+        //{
+        //    enumerator.MoveNext();
+        //    while (enumerator.Current != null)
+        //    {
+        //        var block = enumerator.Current;
+        //        if (block.IsNewItem())
+        //        {
+        //            return;
+        //        }
+        //        ParseBlock(block);
+        //        enumerator.MoveNext();
 
-            }
-        }
+        //    }
+        //}
     }
 }
