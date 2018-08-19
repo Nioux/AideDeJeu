@@ -199,8 +199,98 @@ namespace AideDeJeuCmd
             //Console.WriteLine();
         }
 
+        static async Task ReorderSpellsAsync()
+        {
+            string dataDir = @"..\..\..\..\..\Data\";
+            var mdVF = await LoadStringAsync(dataDir + "spells_hd.md");
+            var mdVO = await LoadStringAsync(dataDir + "spells_vo.md");
+            var md = mdVO;
+
+            StringBuilder mdOut = new StringBuilder();
+            using (var writer = new StringWriter(mdOut) { NewLine = "\n" })
+            {
+                using (var reader = new StringReader(md))
+                {
+                    var line = await reader.ReadLineAsync();
+                    string levelType = null;
+                    string castingTime = null;
+                    string range = null;
+                    string components = null;
+                    string duration = null;
+                    string classes = null;
+                    string source = null;
+                    while (line != null)
+                    {
+                        if (line.StartsWith("- ") && !line.StartsWith("- AltName:"))
+                        {
+                            if (line.StartsWith("- LevelType:"))
+                            {
+                                levelType = line;
+                            }
+                            else if (line.StartsWith("- **Temps d'incantation :**") || line.StartsWith("- **Casting Time :**"))
+                            {
+                                castingTime = line;
+                            }
+                            else if (line.StartsWith("- **Portée :**") || line.StartsWith("- **Range :**"))
+                            {
+                                range = line;
+                            }
+                            else if (line.StartsWith("- **Composantes :**") || line.StartsWith("- **Components :**"))
+                            {
+                                components = line;
+                            }
+                            else if (line.StartsWith("- **Durée :**") || line.StartsWith("- **Duration :**"))
+                            {
+                                duration = line;
+                            }
+                            else if (line.StartsWith("- Classes:"))
+                            {
+                                classes = line;
+                            }
+                            else if (line.StartsWith("- Source:"))
+                            {
+                                source = line;
+                            }
+                            else
+                            {
+                                Console.WriteLine(line);
+                                Console.ReadLine();
+                            }
+                        }
+                        else
+                        {
+                            if(levelType != null)
+                            {
+                                await writer.WriteLineAsync(levelType);
+                                if(castingTime != null) await writer.WriteLineAsync(castingTime);
+                                if(range != null) await writer.WriteLineAsync(range);
+                                if(components != null) await writer.WriteLineAsync(components);
+                                if(duration != null) await writer.WriteLineAsync(duration);
+                                if(classes != null) await writer.WriteLineAsync(classes);
+                                if(source != null) await writer.WriteLineAsync(source);
+                                levelType = null;
+                                castingTime = null;
+                                range = null;
+                                components = null;
+                                duration = null;
+                                classes = null;
+                                source = null;
+                            }
+                            await writer.WriteLineAsync(line);
+                        }
+                        line = await reader.ReadLineAsync();
+                    }
+                }
+            }
+            await SaveStringAsync(dataDir + "spells_vo_rev.md", mdOut.ToString());
+            Console.Write(mdOut);
+            Console.ReadLine();
+        }
+
         static async Task Main(string[] args)
         {
+            await ReorderSpellsAsync();
+            return;
             string dataDir = @"..\..\..\..\..\Data\";
             await CheckAllLinks();
             //var anchors = await GetAllAnchorsAsync();

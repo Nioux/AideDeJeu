@@ -12,13 +12,13 @@
 
 - AltName: [Aspersion acide]
 
+- LevelType: 0 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -35,13 +35,13 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 - AltName: [Aide]
 
+- LevelType: 2 - abjuration
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a tiny strip of white cloth)
 - **Duration :** 8 hours
-- LevelType: 2 - abjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -58,13 +58,13 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 - AltName: [Alarme]
 
+- LevelType: 1 - abjuration (ritual)
 - **Casting Time :** 1 minute
+- **Range :** 30 feet
 - **Components :** V, S, M (a tiny bell and a piece of fine silver wire)
 - **Duration :** 8 hours
-- LevelType: 1 - abjuration (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Ranger, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -81,13 +81,13 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 - AltName: [Modifier son apparence]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -108,13 +108,13 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 - AltName: [Amitié avec les animaux]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a morsel of food)
 - **Duration :** 24 hours
-- LevelType: 1 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -131,13 +131,13 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 - AltName: [Messager animal]
 
+- LevelType: 2 - enchantment (ritual)
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a morsel of food)
 - **Duration :** 24 hours
-- LevelType: 2 - enchantment (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -156,13 +156,13 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 - AltName: [Formes animales]
 
+- LevelType: 8 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 24 hours
-- LevelType: 8 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -181,13 +181,13 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 
 - AltName: [Animation des morts]
 
+- LevelType: 3 - necromancy
 - **Casting Time :** 1 minute
+- **Range :** 10 feet
 - **Components :** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
 - **Duration :** Instantaneous
-- LevelType: 3 - necromancy
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -208,13 +208,13 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 - AltName: [Animation des objets]
 
+- LevelType: 5 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - transmutation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -245,13 +245,13 @@ If you command an object to attack, it can make a single melee attack against a 
 
 - AltName: [Coquille antivie]
 
+- LevelType: 5 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Self (10-foot radius)
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 5 - abjuration
-- **Range :** Self (10-foot radius)
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -270,13 +270,13 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 - AltName: [Champ antimagie]
 
+- LevelType: 8 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Self (10-foot-radius sphere)
 - **Components :** V, S, M (a pinch of powdered iron or iron filings)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 8 - abjuration
-- **Range :** Self (10-foot-radius sphere)
-- Source: (SRD)
 - Classes: Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -309,13 +309,13 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 - AltName: [Répulsion/attirance]
 
+- LevelType: 8 - enchantment
 - **Casting Time :** 1 hour
+- **Range :** 60 feet
 - **Components :** V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)
 - **Duration :** 10 days
-- LevelType: 8 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -340,13 +340,13 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 - AltName: [Oeil magique]
 
+- LevelType: 4 - divination
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a bit of bat fur)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 4 - divination
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -365,13 +365,13 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 - AltName: [Verrou magique]
 
+- LevelType: 2 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (gold dust worth at least 25 gp, which the spell consumes)
 - **Duration :** Until dispelled
-- LevelType: 2 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -388,13 +388,13 @@ While affected by this spell, the object is more difficult to break or force ope
 
 - AltName: [Projection astrale]
 
+- LevelType: 9 - necromancy
 - **Casting Time :** 1 hour
+- **Range :** 10 feet
 - **Components :** V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
 - **Duration :** Special
-- LevelType: 9 - necromancy
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Cleric, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -419,13 +419,13 @@ If you are returned to your body prematurely, your companions remain in their as
 
 - AltName: [Augure]
 
+- LevelType: 2 - divination (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Self
 - **Components :** V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
 - **Duration :** Instantaneous
-- LevelType: 2 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -452,13 +452,13 @@ If you cast the spell two or more times before completing your next long rest, t
 
 - AltName: [Éveil]
 
+- LevelType: 5 - transmutation
 - **Casting Time :** 8 hours
+- **Range :** Touch
 - **Components :** V, S, M (an agate worth at least 1,000 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 5 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -475,13 +475,13 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 - AltName: [Fléau]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a drop of blood)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -498,13 +498,13 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 - AltName: [Bannissement]
 
+- LevelType: 4 - abjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (an item distasteful to the target)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - abjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -525,13 +525,13 @@ If the target is native to a different plane of existence than the one you're on
 
 - AltName: [Peau d'écorce]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a handful of oak bark)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -546,13 +546,13 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 - AltName: [Lueur d'espoir]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - abjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -567,13 +567,13 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 - AltName: [Jeter une malédiction]
 
+- LevelType: 3 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -600,13 +600,13 @@ A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an
 
 - AltName: [Main magique]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (an eggshell and a snakeskin glove)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -635,13 +635,13 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 - AltName: [Barrière de lames]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 6 - evocation
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -658,13 +658,13 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 - AltName: [Bénédiction]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a sprinkling of holy water)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -681,13 +681,13 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 - AltName: [Flétrissement]
 
+- LevelType: 4 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 4 - necromancy
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -706,13 +706,13 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 - AltName: [Cécité/Surdité]
 
+- LevelType: 2 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V
 - **Duration :** 1 minute
-- LevelType: 2 - necromancy
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -729,13 +729,13 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - AltName: [Clignotement]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** 1 minute
-- LevelType: 3 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -752,13 +752,13 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 - AltName: [Flou]
 
+- LevelType: 2 - illusion
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - illusion
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -773,13 +773,13 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 - AltName: [Frappe lumineuse]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** Self
 - **Components :** V
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - evocation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -796,13 +796,13 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 - AltName: [Mains brûlantes]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (15-foot cone)
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - evocation
-- **Range :** Self (15-foot cone)
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -821,13 +821,13 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 - AltName: [Appel de la foudre]
 
+- LevelType: 3 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 3 - conjuration
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -848,13 +848,13 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 - AltName: [Apaisement des émotions]
 
+- LevelType: 2 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -873,13 +873,13 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 - AltName: [Chaîne d'éclairs]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)
 - **Duration :** Instantaneous
-- LevelType: 6 - evocation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -898,13 +898,13 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 - AltName: [Charme-personne]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** 1 hour
-- LevelType: 1 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -921,13 +921,13 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 - AltName: [Contact glacial]
 
+- LevelType: 0 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** 1 round
-- LevelType: 0 - necromancy
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -944,13 +944,13 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 - AltName: [Cercle de mort]
 
+- LevelType: 6 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (the powder of a crushed black pearl worth at least 500 gp)
 - **Duration :** Instantaneous
-- LevelType: 6 - necromancy
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -967,13 +967,13 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 - AltName: [Clairvoyance]
 
+- LevelType: 3 - divination
 - **Casting Time :** 10 minutes
+- **Range :** 1 mile
 - **Components :** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 3 - divination
-- **Range :** 1 mile
-- Source: (SRD)
 - Classes: Bard, Cleric, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -992,13 +992,13 @@ A creature that can see the sensor (such as a creature benefiting from _see invi
 
 - AltName: [Clone]
 
+- LevelType: 8 - necromancy
 - **Casting Time :** 1 hour
+- **Range :** Touch
 - **Components :** V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)
 - **Duration :** Instantaneous
-- LevelType: 8 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1017,13 +1017,13 @@ The clone is physically identical to the original and has the same personality, 
 
 - AltName: [Nuage mortel]
 
+- LevelType: 5 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 5 - conjuration
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1044,13 +1044,13 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 - AltName: [Couleurs dansantes]
 
+- LevelType: 1 - illusion
 - **Casting Time :** 1 action
+- **Range :** Self (15-foot cone)
 - **Components :** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
 - **Duration :** 1 round
-- LevelType: 1 - illusion
-- **Range :** Self (15-foot cone)
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1069,13 +1069,13 @@ Starting with the creature that has the lowest current hit points, each creature
 
 - AltName: [Injonction]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** 1 round
-- LevelType: 1 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -1104,13 +1104,13 @@ Some typical commands and their effects follow. You might issue a command other 
 
 - AltName: [Communion]
 
+- LevelType: 5 - divination (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Self
 - **Components :** V, S, M (incense and a vial of holy or unholy water)
 - **Duration :** 1 minute
-- LevelType: 5 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -1129,13 +1129,13 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 - AltName: [Communion avec la nature]
 
+- LevelType: 5 - divination (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 5 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -1164,13 +1164,13 @@ For example, you could determine the location of powerful undead in the area, th
 
 - AltName: [Compréhension des langues]
 
+- LevelType: 1 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a pinch of soot and salt)
 - **Duration :** 1 hour
-- LevelType: 1 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1187,13 +1187,13 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 - AltName: [Compulsion]
 
+- LevelType: 4 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard
+- Source: (SRD)
 
 ### Description
 
@@ -1210,13 +1210,13 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 - AltName: [Cône de froid]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (60-foot cone)
 - **Components :** V, S, M (a small crystal or glass cone)
 - **Duration :** Instantaneous
-- LevelType: 5 - evocation
-- **Range :** Self (60-foot cone)
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1235,13 +1235,13 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 - AltName: [Confusion]
 
+- LevelType: 4 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S, M (three nut shells)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - enchantment
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1269,13 +1269,13 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 - AltName: [Invoquer des animaux]
 
+- LevelType: 3 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 3 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -1302,13 +1302,13 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
 
 - AltName: [Invoquer un céleste]
 
+- LevelType: 7 - conjuration
 - **Casting Time :** 1 minute
+- **Range :** 90 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 7 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -1329,13 +1329,13 @@ The DM has the celestial's statistics.
 
 - AltName: [Invoquer un élémentaire]
 
+- LevelType: 5 - conjuration
 - **Casting Time :** 1 minute
+- **Range :** 90 feet
 - **Components :** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 5 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1354,13 +1354,13 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 
 - AltName: [Invoquer une fée]
 
+- LevelType: 6 - conjuration
 - **Casting Time :** 1 minute
+- **Range :** 90 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 6 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Druid, Warlock
+- Source: (SRD)
 
 ### Description
 
@@ -1383,13 +1383,13 @@ The DM has the fey creature's statistics.
 
 - AltName: [Invoquer des élémentaires mineurs]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 minute
+- **Range :** 90 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 4 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1420,13 +1420,13 @@ The DM has the creatures' statistics.
 
 - AltName: [Invoquer des êtres des bois]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (one holly berry per creature summoned)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 4 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -1457,13 +1457,13 @@ The DM has the creatures' statistics.
 
 - AltName: [Contacter un autre plan]
 
+- LevelType: 5 - divination (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Self
 - **Components :** V
 - **Duration :** 1 minute
-- LevelType: 5 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1480,13 +1480,13 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 - AltName: [Contagion]
 
+- LevelType: 5 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** 
 - **Duration :** 7 days
-- LevelType: 5 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -1519,13 +1519,13 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 - AltName: [Contingence]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 10 minutes
+- **Range :** Self
 - **Components :** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
 - **Duration :** 10 days
-- LevelType: 6 - evocation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1544,13 +1544,13 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 - AltName: [Flamme éternelle]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (ruby dust worth 50 gp, which the spell consumes)
 - **Duration :** Until dispelled
-- LevelType: 2 - evocation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1565,13 +1565,13 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 - AltName: [Contrôle de l'eau]
 
+- LevelType: 4 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 300 feet
 - **Components :** V, S, M (a drop of water and a pinch of dust)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 4 - transmutation
-- **Range :** 300 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1598,13 +1598,13 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 - AltName: [Contrôle du climat]
 
+- LevelType: 8 - transmutation
 - **Casting Time :** 10 minutes
+- **Range :** Self (5-mile radius)
 - **Components :** V, S, M (burning incense and bits of earth and wood mixed in water)
 - **Duration :** Concentration, up to 8 hours
-- LevelType: 8 - transmutation
-- **Range :** Self (5-mile radius)
-- Source: (SRD)
 - Classes: Cleric, Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1653,13 +1653,13 @@ Wind
 
 - AltName: [Contresort]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
+- **Range :** 60 feet
 - **Components :** S
 - **Duration :** Instantaneous
-- LevelType: 3 - abjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1676,13 +1676,13 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 - AltName: [Création de nourriture et d'eau]
 
+- LevelType: 3 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 3 - conjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -1697,13 +1697,13 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 - AltName: [Création ou destruction d'eau]
 
+- LevelType: 1 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)
 - **Duration :** Instantaneous
-- LevelType: 1 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -1724,13 +1724,13 @@ You either create or destroy water.
 
 - AltName: [Création de mort-vivant]
 
+- LevelType: 6 - necromancy
 - **Casting Time :** 1 minute
+- **Range :** 10 feet
 - **Components :** V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
 - **Duration :** Instantaneous
-- LevelType: 6 - necromancy
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Cleric, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1751,13 +1751,13 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 - AltName: [Création]
 
+- LevelType: 5 - illusion
 - **Casting Time :** 1 minute
+- **Range :** 30 feet
 - **Components :** V, S, M (a tiny piece of matter of the same type of the item you plan to create)
 - **Duration :** Special
-- LevelType: 5 - illusion
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1786,13 +1786,13 @@ Using any material created by this spell as another spell's material component c
 
 - AltName: [Soin des blessures]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - evocation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -1809,13 +1809,13 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 - AltName: [Lumières dansantes]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a bit of phosphorus or wychwood, or a glowworm)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 0 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1832,13 +1832,13 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 - AltName: [Ténèbres]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, M (bat fur and a drop of pitch or piece of coal)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 2 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1857,13 +1857,13 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 - AltName: [Vision dans le noir]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (either a pinch of dried carrot or an agate)
 - **Duration :** 8 hours
-- LevelType: 2 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1878,13 +1878,13 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 - AltName: [Lumière du jour]
 
+- LevelType: 3 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** 1 hour
-- LevelType: 3 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Paladin, Ranger, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -1903,13 +1903,13 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 - AltName: [Protection contre la mort]
 
+- LevelType: 4 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** 8 hours
-- LevelType: 4 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -1928,13 +1928,13 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 - AltName: [Boule de feu à explosion retardée]
 
+- LevelType: 7 - evocation
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (a tiny ball of bat guano and sulfur)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 7 - evocation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1957,13 +1957,13 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 - AltName: [Demi-plan]
 
+- LevelType: 8 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** S
 - **Duration :** 1 hour
-- LevelType: 8 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -1980,13 +1980,13 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 - AltName: [Détection du mal et du bien]
 
+- LevelType: 1 - divination
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -2003,13 +2003,13 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 - AltName: [Détection de la magie]
 
+- LevelType: 1 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2026,13 +2026,13 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 - AltName: [Détection du poison et des maladies]
 
+- LevelType: 1 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a yew leaf)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric, Druid, Paladin, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -2049,13 +2049,13 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 - AltName: [Détection des pensées]
 
+- LevelType: 2 - divination
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a copper piece)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2078,13 +2078,13 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 - AltName: [Porte dimensionnelle]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 500 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 4 - conjuration
-- **Range :** 500 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2103,13 +2103,13 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 - AltName: [Déguisement]
 
+- LevelType: 1 - illusion
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** 1 hour
-- LevelType: 1 - illusion
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2128,13 +2128,13 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 - AltName: [Désintégration]
 
+- LevelType: 6 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a lodestone and a pinch of dust)
 - **Duration :** Instantaneous
-- LevelType: 6 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2157,13 +2157,13 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 - AltName: [Dissipation du mal et du bien]
 
+- LevelType: 5 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (holy water or powdered silver and iron)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - abjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -2184,13 +2184,13 @@ You can end the spell early by using either of the following special functions.
 
 - AltName: [Dissipation de la magie]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 3 - abjuration
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2207,13 +2207,13 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 - AltName: [Divination]
 
+- LevelType: 4 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 4 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -2232,13 +2232,13 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 - AltName: [Faveur divine]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - evocation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -2253,13 +2253,13 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 - AltName: [Parole divine]
 
+- LevelType: 7 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** 30 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 7 - evocation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -2284,13 +2284,13 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 
 - AltName: [Dominer une bête]
 
+- LevelType: 4 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -2311,13 +2311,13 @@ You can use your action to take total and precise control of the target. Until t
 
 - AltName: [Dominer un monstre]
 
+- LevelType: 8 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 8 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2340,13 +2340,13 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 - AltName: [Dominer un humanoïde]
 
+- LevelType: 5 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2371,13 +2371,13 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 
 - AltName: [Convocations instantanées]
 
+- LevelType: 6 - conjuration (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** V, S, M (a sapphire worth 1,000 gp)
 - **Duration :** Until dispelled
-- LevelType: 6 - conjuration (ritual)
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2398,13 +2398,13 @@ _[dispel magic]_ or a similar effect successfully applied to the sapphire ends t
 
 - AltName: [Rêve]
 
+- LevelType: 5 - illusion
 - **Casting Time :** 1 minute
+- **Range :** Special
 - **Components :** V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)
 - **Duration :** 8 hours
-- LevelType: 5 - illusion
-- **Range :** Special
-- Source: (SRD)
 - Classes: Bard, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2425,13 +2425,13 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 - AltName: [Druidisme]
 
+- LevelType: 0 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -2454,13 +2454,13 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 - AltName: [Tremblement de terre]
 
+- LevelType: 8 - evocation
 - **Casting Time :** 1 action
+- **Range :** 500 feet
 - **Components :** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 8 - evocation
-- **Range :** 500 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -2487,13 +2487,13 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 - AltName: [Explosion occulte]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Warlock
+- Source: (SRD)
 
 ### Description
 
@@ -2510,13 +2510,13 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 - AltName: [Amélioration de caractéristique]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (fur or a feather from a beast)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -2545,13 +2545,13 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 - AltName: [Agrandir/Rétrécir]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a pinch of powdered iron)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2572,13 +2572,13 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 - AltName: [Enchevêtrement]
 
+- LevelType: 1 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -2597,13 +2597,13 @@ When the spell ends, the conjured plants wilt away.
 
 - AltName: [Envoûtement]
 
+- LevelType: 2 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** 1 minute
-- LevelType: 2 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Warlock
+- Source: (SRD)
 
 ### Description
 
@@ -2618,13 +2618,13 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 - AltName: [Forme éthérée]
 
+- LevelType: 7 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Up to 8 hours
-- LevelType: 7 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2649,13 +2649,13 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 - AltName: [Tentacules noirs]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2674,13 +2674,13 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 - AltName: [Repli expéditif]
 
+- LevelType: 1 - transmutation
 - **Casting Time :** 1 bonus action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2695,13 +2695,13 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 - AltName: [Mauvais oeil]
 
+- LevelType: 6 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 6 - necromancy
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2722,13 +2722,13 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 - AltName: [Fabrication]
 
+- LevelType: 4 - transmutation
 - **Casting Time :** 10 minutes
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 4 - transmutation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2747,13 +2747,13 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 
 - AltName: [Lueurs féeriques]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -2770,13 +2770,13 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 - AltName: [Simulacre de vie]
 
+- LevelType: 1 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a small amount of alcohol or distilled spirits)
 - **Duration :** 1 hour
-- LevelType: 1 - necromancy
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2793,13 +2793,13 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 - AltName: [Peur]
 
+- LevelType: 3 - illusion
 - **Casting Time :** 1 action
+- **Range :** Self (30-foot cone)
 - **Components :** V, S, M (a white feather or the heart of a hen)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - illusion
-- **Range :** Self (30-foot cone)
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2814,13 +2814,13 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 - AltName: [Léger comme une plume]
 
+- LevelType: 1 - transmutation
 - **Casting Time :** 1 reaction, which you take when you or a creature within 60 feet of you falls
+- **Range :** 60 feet
 - **Components :** V, M (a small feather or piece of down)
 - **Duration :** 1 minute
-- LevelType: 1 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2835,13 +2835,13 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 - AltName: [Esprit faible]
 
+- LevelType: 8 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (a handful of clay, crystal, glass, or mineral spheres)
 - **Duration :** Instantaneous
-- LevelType: 8 - enchantment
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2862,13 +2862,13 @@ The spell can also be ended by _[greater restoration], [heal]_, or _[wish]_.
 
 - AltName: [Appel de familier]
 
+- LevelType: 1 - conjuration (ritual)
 - **Casting Time :** 1 hour
+- **Range :** 10 feet
 - **Components :** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
 - **Duration :** Instantaneous
-- LevelType: 1 - conjuration (ritual)
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2895,13 +2895,13 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 - AltName: [Trouver une monture]
 
+- LevelType: 2 - conjuration
 - **Casting Time :** 10 minutes
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 2 - conjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -2924,13 +2924,13 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 - AltName: [Trouver un chemin]
 
+- LevelType: 6 - divination
 - **Casting Time :** 1 minute
+- **Range :** Self
 - **Components :** V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)
 - **Duration :** Concentration, up to 1 day
-- LevelType: 6 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -2947,13 +2947,13 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 - AltName: [Trouver les pièges]
 
+- LevelType: 2 - divination
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 2 - divination
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -2970,13 +2970,13 @@ This spell merely reveals that a trap is present. You don't learn the location o
 
 - AltName: [Doigt de mort]
 
+- LevelType: 7 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 7 - necromancy
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -2993,13 +2993,13 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 - AltName: [Trait de feu]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3016,13 +3016,13 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 - AltName: [Bouclier de feu]
 
+- LevelType: 4 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a bit of phosphorus or a firefly)
 - **Duration :** 10 minutes
-- LevelType: 4 - evocation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3041,13 +3041,13 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 - AltName: [Tempête de feu]
 
+- LevelType: 7 - evocation
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 7 - evocation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -3064,13 +3064,13 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 - AltName: [Boule de feu]
 
+- LevelType: 3 - evocation
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (a tiny ball of bat guano and sulfur)
 - **Duration :** Instantaneous
-- LevelType: 3 - evocation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3089,13 +3089,13 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 - AltName: [Lame de feu]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** Self
 - **Components :** V, S, M (leaf of sumac)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 2 - evocation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3116,13 +3116,13 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 - AltName: [Colonne de flamme]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (pinch of sulfur)
 - **Duration :** Instantaneous
-- LevelType: 5 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -3139,13 +3139,13 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 - AltName: [Sphère de feu]
 
+- LevelType: 2 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3166,13 +3166,13 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 - AltName: [Pétrification]
 
+- LevelType: 6 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a pinch of lime, water, and earth)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 6 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3193,13 +3193,13 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 - AltName: [Vol]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a wing feather from any bird)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 3 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3216,13 +3216,13 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 - AltName: [Nappe de brouillard]
 
+- LevelType: 1 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 1 - conjuration
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3239,13 +3239,13 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 - AltName: [Interdiction]
 
+- LevelType: 6 - abjuration (ritual)
 - **Casting Time :** 10 minutes
+- **Range :** Touch
 - **Components :** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
 - **Duration :** 1 day
-- LevelType: 6 - abjuration (ritual)
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -3266,13 +3266,13 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 
 - AltName: [Cage de force]
 
+- LevelType: 7 - evocation
 - **Casting Time :** 1 action
+- **Range :** 100 feet
 - **Components :** V, S, M (ruby dust worth 1,500 gp)
 - **Duration :** 1 hour
-- LevelType: 7 - evocation
-- **Range :** 100 feet
-- Source: (SRD)
 - Classes: Bard, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3297,13 +3297,13 @@ This spell can't be dispelled by _[dispel magic]_.
 
 - AltName: [Prémonition]
 
+- LevelType: 9 - divination
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** V, S, M (a hummingbird feather)
 - **Duration :** 8 hours
-- LevelType: 9 - divination
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Druid, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3320,13 +3320,13 @@ This spell immediately ends if you cast it again before its duration ends.
 
 - AltName: [Liberté de mouvement]
 
+- LevelType: 4 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a leather strap, bound around the arm or a similar appendage)
 - **Duration :** 1 hour
-- LevelType: 4 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -3343,13 +3343,13 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 - AltName: [Forme gazeuse]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a bit of gauze and a wisp of smoke)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 3 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3368,13 +3368,13 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 - AltName: [Portail]
 
+- LevelType: 9 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a diamond worth at least 5,000 gp)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 9 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3395,13 +3395,13 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 - AltName: [Coercition mystique]
 
+- LevelType: 5 - enchantment
 - **Casting Time :** 1 minute
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** 30 days
-- LevelType: 5 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3422,13 +3422,13 @@ You can end the spell early by using an action to dismiss it. A _[remove curse],
 
 - AltName: [Doux repos]
 
+- LevelType: 2 - necromancy (ritual)
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration
 - **Duration :** 10 days
-- LevelType: 2 - necromancy (ritual)
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3445,13 +3445,13 @@ The spell also effectively extends the time limit on raising the target from the
 
 - AltName: [Insecte géant]
 
+- LevelType: 4 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 4 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3472,13 +3472,13 @@ The DM might allow you to choose different targets. For example, if you transfor
 
 - AltName: [Bagou]
 
+- LevelType: 8 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V
 - **Duration :** 1 hour
-- LevelType: 8 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Warlock
+- Source: (SRD)
 
 ### Description
 
@@ -3493,13 +3493,13 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 - AltName: [Globe d'invulnérabilité]
 
+- LevelType: 6 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Self (10-foot radius)
 - **Components :** V, S, M (a glass or crystal bead that shatters when the spell ends)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 6 - abjuration
-- **Range :** Self (10-foot radius)
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3518,13 +3518,13 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 - AltName: [Glyphe de protection]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 hour
+- **Range :** Touch
 - **Components :** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
 - **Duration :** Until dispelled or triggered
-- LevelType: 3 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3553,13 +3553,13 @@ When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
 - AltName: [Baies nourricières]
 
+- LevelType: 1 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a sprig of mistletoe)
 - **Duration :** Instantaneous
-- LevelType: 1 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -3576,13 +3576,13 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 - AltName: [Graisse]
 
+- LevelType: 1 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a bit of pork rind or butter)
 - **Duration :** 1 minute
-- LevelType: 1 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3599,13 +3599,13 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 - AltName: [Invisibilité supérieure]
 
+- LevelType: 4 - illusion
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - illusion
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3620,13 +3620,13 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 - AltName: [Restauration supérieure]
 
+- LevelType: 5 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 5 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3649,13 +3649,13 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 - AltName: [Gardien de la foi]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V
 - **Duration :** 8 hours
-- LevelType: 4 - conjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -3672,13 +3672,13 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 - AltName: [Protections et sceaux]
 
+- LevelType: 6 - abjuration
 - **Casting Time :** 10 minutes
+- **Range :** Touch
 - **Components :** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
 - **Duration :** 24 hours
-- LevelType: 6 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3719,13 +3719,13 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 - AltName: [Assistance]
 
+- LevelType: 0 - divination
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 0 - divination
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3740,13 +3740,13 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 - AltName: [Balisage]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** 1 round
-- LevelType: 1 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -3763,13 +3763,13 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 - AltName: [Bourrasque]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (60-foot line)
 - **Components :** V, S, M (a legume seed)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - evocation
-- **Range :** Self (60-foot line)
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3790,13 +3790,13 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 - AltName: [Sanctification]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 24 hours
+- **Range :** Touch
 - **Components :** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)
 - **Duration :** Until dispelled
-- LevelType: 5 - evocation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -3835,13 +3835,13 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 - AltName: [Terrain hallucinatoire]
 
+- LevelType: 4 - illusion
 - **Casting Time :** 10 minutes
+- **Range :** 300 feet
 - **Components :** V, S, M (a stone, a twig, and a bit of green plant)
 - **Duration :** 24 hours
-- LevelType: 4 - illusion
-- **Range :** 300 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3858,13 +3858,13 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 - AltName: [Contamination]
 
+- LevelType: 6 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 6 - necromancy
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -3879,13 +3879,13 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 - AltName: [Hâte]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a shaving of licorice root)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -3902,13 +3902,13 @@ When the spell ends, the target can't move or take actions until after its next 
 
 - AltName: [Guérison]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 6 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3925,13 +3925,13 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 - AltName: [Mot de guérison]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 1 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3948,13 +3948,13 @@ A creature of your choice that you can see within range regains hit points equal
 
 - AltName: [Chauffer le métal]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a piece of iron and a flame)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -3973,13 +3973,13 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 - AltName: [Représailles infernales]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Warlock
+- Source: (SRD)
 
 ### Description
 
@@ -3996,13 +3996,13 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 - AltName: [Festin des héros]
 
+- LevelType: 6 - conjuration
 - **Casting Time :** 10 minutes
+- **Range :** 30 feet
 - **Components :** V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 6 - conjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -4019,13 +4019,13 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 - AltName: [Héroïsme]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - enchantment
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -4042,13 +4042,13 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 - AltName: [Immobiliser un monstre]
 
+- LevelType: 5 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S, M (a small, straight piece of iron)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - enchantment
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4065,13 +4065,13 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 - AltName: [Immobiliser un humanoïde]
 
+- LevelType: 2 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a small, straight piece of iron)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4088,13 +4088,13 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 - AltName: [Aura sacrée]
 
+- LevelType: 8 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 8 - abjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -4109,13 +4109,13 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 - AltName: [Marque du chasseur]
 
+- LevelType: 1 - divination
 - **Casting Time :** 1 bonus action
+- **Range :** 90 feet
 - **Components :** V
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 1 - divination
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -4132,13 +4132,13 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 - AltName: [Motif hypnotique]
 
+- LevelType: 3 - illusion
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - illusion
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4153,13 +4153,13 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 - AltName: [Tempête de grêle]
 
+- LevelType: 4 - evocation
 - **Casting Time :** 1 action
+- **Range :** 300 feet
 - **Components :** V, S, M (a pinch of dust and a few drops of water)
 - **Duration :** Instantaneous
-- LevelType: 4 - evocation
-- **Range :** 300 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4178,13 +4178,13 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 - AltName: [Identification]
 
+- LevelType: 1 - divination (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** V, S, M (a pearl worth at least 100 gp and an owl feather)
 - **Duration :** Instantaneous
-- LevelType: 1 - divination (ritual)
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4201,13 +4201,13 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 - AltName: [Texte illusoire]
 
+- LevelType: 1 - illusion (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
 - **Duration :** 10 days
-- LevelType: 1 - illusion (ritual)
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4228,13 +4228,13 @@ A creature with truesight can read the hidden message.
 
 - AltName: [Emprisonnement]
 
+- LevelType: 9 - abjuration
 - **Casting Time :** 1 minute
+- **Range :** 30 feet
 - **Components :** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
 - **Duration :** Until dispelled
-- LevelType: 9 - abjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4277,13 +4277,13 @@ You can use a particular special component to create only one prison at a time. 
 
 - AltName: [Nuage incendiaire]
 
+- LevelType: 8 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 8 - conjuration
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4302,13 +4302,13 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 - AltName: [Blessure]
 
+- LevelType: 1 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -4325,13 +4325,13 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 - AltName: [Fléau d'insectes]
 
+- LevelType: 5 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 300 feet
 - **Components :** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 5 - conjuration
-- **Range :** 300 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -4350,13 +4350,13 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 - AltName: [Invisibilité]
 
+- LevelType: 2 - illusion
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (an eyelash encased in gum arabic)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - illusion
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4373,13 +4373,13 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 - AltName: [Saut]
 
+- LevelType: 1 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a grasshopper's hind leg)
 - **Duration :** 1 minute
-- LevelType: 1 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4394,13 +4394,13 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 - AltName: [Déblocage]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 2 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4421,13 +4421,13 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 - AltName: [Légende]
 
+- LevelType: 5 - divination
 - **Casting Time :** 10 minutes
+- **Range :** Self
 - **Components :** V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
 - **Duration :** Instantaneous
-- LevelType: 5 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4444,13 +4444,13 @@ The information you learn is accurate but might be couched in figurative languag
 
 - AltName: [Coffre secret]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
 - **Duration :** Instantaneous
-- LevelType: 4 - conjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4469,13 +4469,13 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 - AltName: [Petite hutte]
 
+- LevelType: 3 - evocation (ritual)
 - **Casting Time :** 1 minute
+- **Range :** Self (10-foot-radius hemisphere)
 - **Components :** V, S, M (a small crystal bead)
 - **Duration :** 8 hours
-- LevelType: 3 - evocation (ritual)
-- **Range :** Self (10-foot-radius hemisphere)
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4494,13 +4494,13 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 - AltName: [Restauration inférieure]
 
+- LevelType: 2 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 2 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -4515,13 +4515,13 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 - AltName: [Lévitation]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 2 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4540,13 +4540,13 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 - AltName: [Lumière]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, M (a firefly or phosphorescent moss)
 - **Duration :** 1 hour
-- LevelType: 0 - evocation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4563,13 +4563,13 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 - AltName: [Éclair]
 
+- LevelType: 3 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (100-foot line)
 - **Components :** V, S, M (a bit of fur and a rod of amber, crystal, or glass)
 - **Duration :** Instantaneous
-- LevelType: 3 - evocation
-- **Range :** Self (100-foot line)
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4588,13 +4588,13 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 - AltName: [Localiser des animaux ou des plantes]
 
+- LevelType: 2 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a bit of fur from a bloodhound)
 - **Duration :** Instantaneous
-- LevelType: 2 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -4609,13 +4609,13 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 - AltName: [Localiser une créature]
 
+- LevelType: 4 - divination
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a bit of fur from a bloodhound)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 4 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4634,13 +4634,13 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 - AltName: [Localiser un objet]
 
+- LevelType: 2 - divination
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a forked twig)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 2 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4659,13 +4659,13 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 - AltName: [Grande foulée]
 
+- LevelType: 1 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a pinch of dirt)
 - **Duration :** 1 hour
-- LevelType: 1 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4682,13 +4682,13 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 - AltName: [Armure du mage]
 
+- LevelType: 1 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a piece of cured leather)
 - **Duration :** 8 hours
-- LevelType: 1 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4703,13 +4703,13 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 - AltName: [Main du mage]
 
+- LevelType: 0 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** 1 minute
-- LevelType: 0 - conjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4728,13 +4728,13 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 - AltName: [Cercle magique]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 minute
+- **Range :** 10 feet
 - **Components :** V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
 - **Duration :** 1 hour
-- LevelType: 3 - abjuration
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4761,13 +4761,13 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 - AltName: [Possession]
 
+- LevelType: 6 - necromancy
 - **Casting Time :** 1 minute
+- **Range :** Self
 - **Components :** V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
 - **Duration :** Until dispelled
-- LevelType: 6 - necromancy
-- **Range :** Self
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4794,13 +4794,13 @@ When the spell ends, the container is destroyed.
 
 - AltName: [Projectile magique]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4817,13 +4817,13 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - AltName: [Bouche magique]
 
+- LevelType: 2 - illusion (ritual)
 - **Casting Time :** 1 minute
+- **Range :** 30 feet
 - **Components :** V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
 - **Duration :** Until dispelled
-- LevelType: 2 - illusion (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4842,13 +4842,13 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 - AltName: [Arme magique]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 bonus action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Paladin, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4865,13 +4865,13 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 - AltName: [Image majeure]
 
+- LevelType: 3 - illusion
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a bit of fleece)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 3 - illusion
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4892,13 +4892,13 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - AltName: [Soin des blessures de groupe]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 5 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -4915,13 +4915,13 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 - AltName: [Guérison de groupe]
 
+- LevelType: 9 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 9 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -4936,13 +4936,13 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 - AltName: [Mot de guérison de groupe]
 
+- LevelType: 3 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 3 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -4959,13 +4959,13 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 - AltName: [Suggestion de groupe]
 
+- LevelType: 6 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
 - **Duration :** 24 hours
-- LevelType: 6 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -4988,13 +4988,13 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 - AltName: [Labyrinthe]
 
+- LevelType: 8 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 8 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5013,13 +5013,13 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 - AltName: [Fusion dans la pierre]
 
+- LevelType: 3 - transmutation (ritual)
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** 8 hours
-- LevelType: 3 - transmutation (ritual)
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -5038,13 +5038,13 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 - AltName: [Flèche acide]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S, M (powdered rhubarb leaf and an adder's stomach)
 - **Duration :** Instantaneous
-- LevelType: 2 - evocation
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5061,13 +5061,13 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 - AltName: [Réparation]
 
+- LevelType: 0 - transmutation
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** V, S, M (two lodestones)
 - **Duration :** Instantaneous
-- LevelType: 0 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5082,13 +5082,13 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 - AltName: [Message]
 
+- LevelType: 0 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a short piece of copper wire)
 - **Duration :** 1 round
-- LevelType: 0 - transmutation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5105,13 +5105,13 @@ You can cast this spell through solid objects if you re familiar with the target
 
 - AltName: [Nuée de météores]
 
+- LevelType: 9 - evocation
 - **Casting Time :** 1 action
+- **Range :** 1 mile
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 9 - evocation
-- **Range :** 1 mile
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5128,13 +5128,13 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 - AltName: [Esprit impénétrable]
 
+- LevelType: 8 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** 24 hours
-- LevelType: 8 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5149,13 +5149,13 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 - AltName: [Illusion mineure]
 
+- LevelType: 0 - illusion
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** S, M (a bit of fleece)
 - **Duration :** 1 minute
-- LevelType: 0 - illusion
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5176,13 +5176,13 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 - AltName: [Mirage]
 
+- LevelType: 7 - illusion
 - **Casting Time :** 10 minutes
+- **Range :** Sight
 - **Components :** V, S
 - **Duration :** 10 days
-- LevelType: 7 - illusion
-- **Range :** Sight
-- Source: (SRD)
 - Classes: Bard, Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5203,13 +5203,13 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 - AltName: [Image miroir]
 
+- LevelType: 2 - illusion
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** 1 minute
-- LevelType: 2 - illusion
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5232,13 +5232,13 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 - AltName: [Tromperie]
 
+- LevelType: 5 - illusion
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 5 - illusion
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5257,13 +5257,13 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 - AltName: [Pas brumeux]
 
+- LevelType: 2 - conjuration
 - **Casting Time :** 1 bonus action
+- **Range :** Self
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 2 - conjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5278,13 +5278,13 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 - AltName: [Modification de mémoire]
 
+- LevelType: 5 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5309,13 +5309,13 @@ A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores 
 
 - AltName: [Rayon de lune]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -5338,13 +5338,13 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 - AltName: [Chien de garde]
 
+- LevelType: 4 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 - **Duration :** 8 hours
-- LevelType: 4 - conjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5363,13 +5363,13 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 - AltName: [Manoir somptueux]
 
+- LevelType: 7 - conjuration
 - **Casting Time :** 1 minute
+- **Range :** 300 feet
 - **Components :** V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
 - **Duration :** 24 hours
-- LevelType: 7 - conjuration
-- **Range :** 300 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5388,13 +5388,13 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 - AltName: [Sanctuaire privé]
 
+- LevelType: 4 - abjuration
 - **Casting Time :** 10 minutes
+- **Range :** 120 feet
 - **Components :** V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
 - **Duration :** 24 hours
-- LevelType: 4 - abjuration
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5427,13 +5427,13 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 - AltName: [Épée magique]
 
+- LevelType: 7 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 7 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5450,13 +5450,13 @@ When the sword appears, you make a melee spell attack against a target of your c
 
 - AltName: [Déplacer la terre]
 
+- LevelType: 6 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)
 - **Duration :** Concentration, up to 2 hours
-- LevelType: 6 - transmutation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5479,13 +5479,13 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 - AltName: [Non-détection]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)
 - **Duration :** 8 hours
-- LevelType: 3 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Ranger, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5500,13 +5500,13 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 - AltName: [Aura magique de l'arcaniste]
 
+- LevelType: 2 - illusion
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a small square of silk)
 - **Duration :** 24 hours
-- LevelType: 2 - illusion
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5527,13 +5527,13 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 - AltName: [Sphère glacée]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 1 action
+- **Range :** 300 feet
 - **Components :** V, S, M (a small crystal sphere
 - **Duration :** Instantaneous
-- LevelType: 6 - evocation
-- **Range :** 300 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5554,13 +5554,13 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 - AltName: [Sphère résiliente]
 
+- LevelType: 4 - evocation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - evocation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5581,13 +5581,13 @@ A _[disintegrate]_ spell targeting the globe destroys it without harming anythin
 
 - AltName: [Danse irrésistible]
 
+- LevelType: 6 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 6 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5604,13 +5604,13 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 - AltName: [Passage sans trace]
 
+- LevelType: 2 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - abjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -5625,13 +5625,13 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 - AltName: [Passe-muraille]
 
+- LevelType: 5 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a pinch of sesame seeds)
 - **Duration :** 1 hour
-- LevelType: 5 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5648,13 +5648,13 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 - AltName: [Assassin imaginaire]
 
+- LevelType: 4 - illusion
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - illusion
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5671,13 +5671,13 @@ You tap into the nightmares of a creature you can see within range and create an
 
 - AltName: [Monture fantôme]
 
+- LevelType: 3 - illusion (ritual)
 - **Casting Time :** 1 minute
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** 1 hour
-- LevelType: 3 - illusion (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5694,13 +5694,13 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 - AltName: [Allié planaire]
 
+- LevelType: 6 - conjuration
 - **Casting Time :** 10 minutes
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 6 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -5727,13 +5727,13 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 - AltName: [Entrave planaire]
 
+- LevelType: 5 - abjuration
 - **Casting Time :** 1 hour
+- **Range :** 60 feet
 - **Components :** V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)
 - **Duration :** 24 hours
-- LevelType: 5 - abjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5752,13 +5752,13 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 - AltName: [Changement de plan]
 
+- LevelType: 7 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)
 - **Duration :** Instantaneous
-- LevelType: 7 - conjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5777,13 +5777,13 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 - AltName: [Croissance végétale]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action or 8 hours
+- **Range :** 150 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 3 - transmutation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -5804,13 +5804,13 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 - AltName: [Bouffée de poison]
 
+- LevelType: 0 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 10 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - conjuration
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5827,13 +5827,13 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 - AltName: [Métamorphose]
 
+- LevelType: 4 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a caterpillar cocoon)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 4 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5856,13 +5856,13 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 - AltName: [Mot de pouvoir mortel]
 
+- LevelType: 9 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 9 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5877,13 +5877,13 @@ You utter a word of power that can compel one creature you can see within range 
 
 - AltName: [Mot de pouvoir étourdissant]
 
+- LevelType: 8 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 8 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5900,13 +5900,13 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 - AltName: [Prière de soins]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 10 minutes
+- **Range :** 30 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 2 - evocation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -5923,13 +5923,13 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 - AltName: [Prestidigitation]
 
+- LevelType: 0 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 10 feet
 - **Components :** V, S
 - **Duration :** Up to 1 hour
-- LevelType: 0 - transmutation
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5958,13 +5958,13 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 - AltName: [Embruns prismatiques]
 
+- LevelType: 7 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (60-foot cone)
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 7 - evocation
-- **Range :** Self (60-foot cone)
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -5995,13 +5995,13 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 - AltName: [Mur prismatique]
 
+- LevelType: 9 - abjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** 10 minutes
-- LevelType: 9 - abjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6038,13 +6038,13 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 - AltName: [Produire une flamme]
 
+- LevelType: 0 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** 10 minutes
-- LevelType: 0 - conjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -6063,13 +6063,13 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 - AltName: [Illusion programmée]
 
+- LevelType: 6 - illusion
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a bit of fleece and jade dust worth at least 25 gp)
 - **Duration :** Until dispelled
-- LevelType: 6 - illusion
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6090,13 +6090,13 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - AltName: [Image projetée]
 
+- LevelType: 7 - illusion
 - **Casting Time :** 1 action
+- **Range :** 500 miles
 - **Components :** V, S, M (a small replica of you made from materials worth at least 5 gp)
 - **Duration :** Concentration, up to 1 day
-- LevelType: 7 - illusion
-- **Range :** 500 miles
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6117,13 +6117,13 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - AltName: [Protection contre les énergies]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 3 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6138,13 +6138,13 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 - AltName: [Protection contre le mal et le bien]
 
+- LevelType: 1 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (holy water or powdered silver and iron, which the spell consumes)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Paladin, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6161,13 +6161,13 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 - AltName: [Protection contre le poison]
 
+- LevelType: 2 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** 1 hour
-- LevelType: 2 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid, Paladin, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -6184,13 +6184,13 @@ For the duration, the target has advantage on saving throws against being poison
 
 - AltName: [Purification de la nourriture et de l'eau]
 
+- LevelType: 1 - transmutation (ritual)
 - **Casting Time :** 1 action
+- **Range :** 10 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - transmutation (ritual)
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -6205,13 +6205,13 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 - AltName: [Rappel à la vie]
 
+- LevelType: 5 - necromancy
 - **Casting Time :** 1 hour
+- **Range :** Touch
 - **Components :** V, S, M (a diamond worth at least 500 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 5 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -6232,13 +6232,13 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 - AltName: [Lien télépathique]
 
+- LevelType: 5 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (pieces of eggshell from two different kinds of creatures)
 - **Duration :** 1 hour
-- LevelType: 5 - divination (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6255,13 +6255,13 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 - AltName: [Rayon affaiblissant]
 
+- LevelType: 2 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 2 - necromancy
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6278,13 +6278,13 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 - AltName: [Rayon de givre]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6301,13 +6301,13 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 - AltName: [Régénération]
 
+- LevelType: 7 - transmutation
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** V, S, M (a prayer wheel and holy water)
 - **Duration :** 1 hour
-- LevelType: 7 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -6324,13 +6324,13 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 
 - AltName: [Réincarnation]
 
+- LevelType: 5 - transmutation
 - **Casting Time :** 1 hour
+- **Range :** Touch
 - **Components :** V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 5 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -6368,13 +6368,13 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 - AltName: [Lever une malédiction]
 
+- LevelType: 3 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 3 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Paladin, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6389,13 +6389,13 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 - AltName: [Résistance]
 
+- LevelType: 0 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a miniature cloak)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 0 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -6410,13 +6410,13 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 - AltName: [Résurrection]
 
+- LevelType: 7 - necromancy
 - **Casting Time :** 1 hour
+- **Range :** Touch
 - **Components :** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 7 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -6439,13 +6439,13 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 - AltName: [Inversion de la gravité]
 
+- LevelType: 7 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 100 feet
 - **Components :** V, S, M (a lodestone and iron filings)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 7 - transmutation
-- **Range :** 100 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6464,13 +6464,13 @@ At the end of the duration, affected objects and creatures fall back down.
 
 - AltName: [Revigorer]
 
+- LevelType: 3 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (diamonds worth 300 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 3 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -6485,13 +6485,13 @@ You touch a creature that has died within the last minute. That creature returns
 
 - AltName: [Corde enchantée]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (powdered corn extract and a twisted loop of parchment)
 - **Duration :** 1 hour
-- LevelType: 2 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6512,13 +6512,13 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 - AltName: [Flamme sacrée]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -6535,13 +6535,13 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 - AltName: [Sanctuaire]
 
+- LevelType: 1 - abjuration
 - **Casting Time :** 1 bonus action
+- **Range :** 30 feet
 - **Components :** V, S, M (a small silver mirror)
 - **Duration :** 1 minute
-- LevelType: 1 - abjuration
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -6558,13 +6558,13 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 - AltName: [Rayon ardent]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 2 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6583,13 +6583,13 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 - AltName: [Scrutation]
 
+- LevelType: 5 - divination
 - **Casting Time :** 10 minutes
+- **Range :** Self
 - **Components :** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 5 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Cleric, Druid, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6618,13 +6618,13 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 - AltName: [Voir l'invisible]
 
+- LevelType: 2 - divination
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a pinch of talc and a small sprinkling of powdered silver)
 - **Duration :** 1 hour
-- LevelType: 2 - divination
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6639,13 +6639,13 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 - AltName: [Apparence trompeuse]
 
+- LevelType: 5 - illusion
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S
 - **Duration :** 8 hours
-- LevelType: 5 - illusion
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6666,13 +6666,13 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 
 - AltName: [Envoi de message]
 
+- LevelType: 3 - evocation
 - **Casting Time :** 1 action
+- **Range :** Unlimited
 - **Components :** V, S, M (a short piece of fine copper wire)
 - **Duration :** 1 round
-- LevelType: 3 - evocation
-- **Range :** Unlimited
-- Source: (SRD)
 - Classes: Bard, Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6689,13 +6689,13 @@ You can send the message across any distance and even to other planes of existen
 
 - AltName: [Séquestration]
 
+- LevelType: 7 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
 - **Duration :** Until dispelled
-- LevelType: 7 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6714,13 +6714,13 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 - AltName: [Changement de forme]
 
+- LevelType: 9 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 9 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6745,13 +6745,13 @@ During this spell's duration, you can use your action to assume a different form
 
 - AltName: [Briser]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a chip of mica)
 - **Duration :** Instantaneous
-- LevelType: 2 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6770,13 +6770,13 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 - AltName: [Bouclier]
 
+- LevelType: 1 - abjuration
 - **Casting Time :** 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** 1 round
-- LevelType: 1 - abjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6791,13 +6791,13 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 - AltName: [Bouclier de la foi]
 
+- LevelType: 1 - abjuration
 - **Casting Time :** 1 bonus action
+- **Range :** 60 feet
 - **Components :** V, S, M (a small parchment with a bit of holy text written on it)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - abjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
@@ -6812,13 +6812,13 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 - AltName: [Gourdin magique]
 
+- LevelType: 0 - transmutation
 - **Casting Time :** 1 bonus action
+- **Range :** Touch
 - **Components :** V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
 - **Duration :** 1 minute
-- LevelType: 0 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -6833,13 +6833,13 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 - AltName: [Poigne électrique]
 
+- LevelType: 0 - evocation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - evocation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6856,13 +6856,13 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 - AltName: [Silence]
 
+- LevelType: 2 - illusion (ritual)
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 2 - illusion (ritual)
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -6879,13 +6879,13 @@ Casting a spell that includes a verbal component is impossible there.
 
 - AltName: [Image silencieuse]
 
+- LevelType: 1 - illusion
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a bit of fleece)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 1 - illusion
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6904,13 +6904,13 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 - AltName: [Simulacre]
 
+- LevelType: 7 - illusion
 - **Casting Time :** 12 hours
+- **Range :** Touch
 - **Components :** V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
 - **Duration :** Until dispelled
-- LevelType: 7 - illusion
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6931,13 +6931,13 @@ If you cast this spell again, any currently active duplicates you created with t
 
 - AltName: [Sommeil]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S, M (a pinch of fine sand, rose petals, or a cricket)
 - **Duration :** 1 minute
-- LevelType: 1 - enchantment
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6958,13 +6958,13 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 - AltName: [Tempête de neige]
 
+- LevelType: 3 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (a pinch of dust and a few drops of water)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - conjuration
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -6983,13 +6983,13 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 
 - AltName: [Lenteur]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a drop of molasses)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - transmutation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7010,13 +7010,13 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 - AltName: [Épargner les mourants]
 
+- LevelType: 0 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 0 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -7031,13 +7031,13 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 - AltName: [Communication avec les animaux]
 
+- LevelType: 1 - divination (ritual)
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** 10 minutes
-- LevelType: 1 - divination (ritual)
-- **Range :** Self
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -7052,13 +7052,13 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 - AltName: [Communication avec les morts]
 
+- LevelType: 3 - necromancy
 - **Casting Time :** 1 action
+- **Range :** 10 feet
 - **Components :** V, S, M (burning incense)
 - **Duration :** 10 minutes
-- LevelType: 3 - necromancy
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Bard, Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -7075,13 +7075,13 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 - AltName: [Communication avec les plantes]
 
+- LevelType: 3 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self (30-foot radius)
 - **Components :** V, S
 - **Duration :** 10 minutes
-- LevelType: 3 - transmutation
-- **Range :** Self (30-foot radius)
-- Source: (SRD)
 - Classes: Bard, Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -7104,13 +7104,13 @@ This spell can cause the plants created by the _[entangle]_ spell to release a r
 
 - AltName: [Pattes d'araignée]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a drop of bitumen and a spider)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7125,13 +7125,13 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 - AltName: [Croissance d'épines]
 
+- LevelType: 2 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 2 - transmutation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -7148,13 +7148,13 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 - AltName: [Esprits gardiens]
 
+- LevelType: 3 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Self (15-foot radius)
 - **Components :** V, S, M (a holy symbol)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 3 - conjuration
-- **Range :** Self (15-foot radius)
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -7173,13 +7173,13 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 - AltName: [Arme spirituelle]
 
+- LevelType: 2 - evocation
 - **Casting Time :** 1 bonus action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** 1 minute
-- LevelType: 2 - evocation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -7200,13 +7200,13 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 - AltName: [Nuage puant]
 
+- LevelType: 3 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 90 feet
 - **Components :** V, S, M (a rotten egg or several skunk cabbage leaves)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - conjuration
-- **Range :** 90 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7225,13 +7225,13 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 - AltName: [Façonnage de la pierre]
 
+- LevelType: 4 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)
 - **Duration :** Instantaneous
-- LevelType: 4 - transmutation
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7246,13 +7246,13 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 - AltName: [Peau de pierre]
 
+- LevelType: 4 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (diamond dust worth 100 gp, which the spell consumes)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 4 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Druid, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7267,13 +7267,13 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 - AltName: [Tempête vengeresse]
 
+- LevelType: 9 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Sight
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 9 - conjuration
-- **Range :** Sight
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -7298,13 +7298,13 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 - AltName: [Suggestion]
 
+- LevelType: 2 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)
 - **Duration :** Concentration, up to 8 hours
-- LevelType: 2 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7325,13 +7325,13 @@ If you or any of your companions damage the target, the spell ends.
 
 - AltName: [Rayon de soleil]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (60-foot line)
 - **Components :** V, S, M (a magnifying glass)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 6 - evocation
-- **Range :** Self (60-foot line)
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7350,13 +7350,13 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 - AltName: [Éclat du soleil]
 
+- LevelType: 8 - evocation
 - **Casting Time :** 1 action
+- **Range :** 150 feet
 - **Components :** V, S, M (fire and a piece of sunstone)
 - **Duration :** Instantaneous
-- LevelType: 8 - evocation
-- **Range :** 150 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7375,13 +7375,13 @@ This spell dispels any darkness in its area that was created by a spell.
 
 - AltName: [Symbole]
 
+- LevelType: 7 - abjuration
 - **Casting Time :** 1 minute
+- **Range :** Touch
 - **Components :** V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
 - **Duration :** Until dispelled or triggered
-- LevelType: 7 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7420,13 +7420,13 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 - AltName: [Fou rire]
 
+- LevelType: 1 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (tiny tarts and a feather that is waved in the air)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 1 - enchantment
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7443,13 +7443,13 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 - AltName: [Télékinésie]
 
+- LevelType: 5 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 5 - transmutation
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7470,13 +7470,13 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 - AltName: [Téléportation]
 
+- LevelType: 7 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 10 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 7 - conjuration
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7525,13 +7525,13 @@ The destination you choose must be known to you, and it must be on the same plan
 
 - AltName: [Cercle de téléportation]
 
+- LevelType: 5 - conjuration
 - **Casting Time :** 1 minute
+- **Range :** 10 feet
 - **Components :** V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)
 - **Duration :** 1 round
-- LevelType: 5 - conjuration
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7550,13 +7550,13 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 - AltName: [Disque flottant]
 
+- LevelType: 1 - conjuration (ritual)
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a drop of mercury)
 - **Duration :** 1 hour
-- LevelType: 1 - conjuration (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7575,13 +7575,13 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 - AltName: [Thaumaturgie]
 
+- LevelType: 0 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V
 - **Duration :** Up to 1 minute
-- LevelType: 0 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -7610,13 +7610,13 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 - AltName: [Vague tonnante]
 
+- LevelType: 1 - evocation
 - **Casting Time :** 1 action
+- **Range :** Self (15-foot cube)
 - **Components :** V, S
 - **Duration :** Instantaneous
-- LevelType: 1 - evocation
-- **Range :** Self (15-foot cube)
-- Source: (SRD)
 - Classes: Bard, Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7635,13 +7635,13 @@ In addition, unsecured objects that are completely within the area of effect are
 
 - AltName: [Arrêt du temps]
 
+- LevelType: 9 - transmutation
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 9 - transmutation
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7658,13 +7658,13 @@ This spell ends if one of the actions you use during this period, or any effects
 
 - AltName: [Langues]
 
+- LevelType: 3 - divination
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, M (a small clay model of a ziggurat)
 - **Duration :** 1 hour
-- LevelType: 3 - divination
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7679,13 +7679,13 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 - AltName: [Transport végétal]
 
+- LevelType: 6 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 10 feet
 - **Components :** V, S
 - **Duration :** 1 round
-- LevelType: 6 - conjuration
-- **Range :** 10 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -7700,13 +7700,13 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 - AltName: [Passage par les arbres]
 
+- LevelType: 5 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 5 - conjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -7723,13 +7723,13 @@ You can use this transportation ability once per round for the duration. You mus
 
 - AltName: [Métamorphose suprême]
 
+- LevelType: 9 - transmutation
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 9 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7760,13 +7760,13 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 - AltName: [Résurrection suprême]
 
+- LevelType: 9 - necromancy
 - **Casting Time :** 1 hour
+- **Range :** Touch
 - **Components :** V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
 - **Duration :** Instantaneous
-- LevelType: 9 - necromancy
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric, Druid
+- Source: (SRD)
 
 ### Description
 
@@ -7785,13 +7785,13 @@ The spell can even provide a new body if the original no longer exists, in which
 
 - AltName: [Vision suprême]
 
+- LevelType: 6 - divination
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
 - **Duration :** 1 hour
-- LevelType: 6 - divination
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7806,13 +7806,13 @@ This spell gives the willing creature you touch the ability to see things as the
 
 - AltName: [Viser juste]
 
+- LevelType: 0 - divination
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** S
 - **Duration :** Concentration, up to 1 round
-- LevelType: 0 - divination
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Bard, Sorcerer, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7827,13 +7827,13 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 - AltName: [Serviteur invisible]
 
+- LevelType: 1 - conjuration (ritual)
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a piece of string and a bit of wood)
 - **Duration :** 1 hour
-- LevelType: 1 - conjuration (ritual)
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7852,13 +7852,13 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 - AltName: [Caresse du vampire]
 
+- LevelType: 3 - necromancy
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - necromancy
-- **Range :** Self
-- Source: (SRD)
 - Classes: Warlock, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7875,13 +7875,13 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 - AltName: [Moquerie cruelle]
 
+- LevelType: 0 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 0 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard
+- Source: (SRD)
 
 ### Description
 
@@ -7898,13 +7898,13 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 - AltName: [Mur de feu]
 
+- LevelType: 4 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a small piece of phosphorus)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 4 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7927,13 +7927,13 @@ The other side of the wall deals no damage.
 
 - AltName: [Mur de force]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a pinch of powder made by crushing a clear gemstone)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 5 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7950,13 +7950,13 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 - AltName: [Mur de glace]
 
+- LevelType: 6 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a small piece of quartz)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 6 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -7977,13 +7977,13 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 - AltName: [Mur de pierre]
 
+- LevelType: 5 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a small block of granite)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 5 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -8008,13 +8008,13 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 - AltName: [Mur d'épines]
 
+- LevelType: 6 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a handful of thorns)
 - **Duration :** Concentration, up to 10 minutes
-- LevelType: 6 - conjuration
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -8035,13 +8035,13 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 - AltName: [Lien de protection]
 
+- LevelType: 2 - abjuration
 - **Casting Time :** 1 action
+- **Range :** Touch
 - **Components :** V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)
 - **Duration :** 1 hour
-- LevelType: 2 - abjuration
-- **Range :** Touch
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -8058,13 +8058,13 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 - AltName: [Respiration aquatique]
 
+- LevelType: 3 - transmutation (ritual)
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a short reed or piece of straw)
 - **Duration :** 24 hours
-- LevelType: 3 - transmutation (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Druid, Ranger, Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -8079,13 +8079,13 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 - AltName: [Marche sur l'eau]
 
+- LevelType: 3 - transmutation (ritual)
 - **Casting Time :** 1 action
+- **Range :** 30 feet
 - **Components :** V, S, M (a piece of cork)
 - **Duration :** 1 hour
-- LevelType: 3 - transmutation (ritual)
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Cleric, Druid, Ranger, Sorcerer
+- Source: (SRD)
 
 ### Description
 
@@ -8102,13 +8102,13 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 - AltName: [Toile d'araignée]
 
+- LevelType: 2 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S, M (a bit of spiderweb)
 - **Duration :** Concentration, up to 1 hour
-- LevelType: 2 - conjuration
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -8131,13 +8131,13 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 - AltName: [Étrangeté]
 
+- LevelType: 9 - illusion
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 9 - illusion
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -8152,13 +8152,13 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 - AltName: [Marche sur le vent]
 
+- LevelType: 6 - transmutation
 - **Casting Time :** 1 minute
+- **Range :** 30 feet
 - **Components :** V, S, M (fire and holy water)
 - **Duration :** 8 hours
-- LevelType: 6 - transmutation
-- **Range :** 30 feet
-- Source: (SRD)
 - Classes: Druid
+- Source: (SRD)
 
 ### Description
 
@@ -8175,13 +8175,13 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 
 - AltName: [Mur de vent]
 
+- LevelType: 3 - evocation
 - **Casting Time :** 1 action
+- **Range :** 120 feet
 - **Components :** V, S, M (a tiny fan and a feather of exotic origin)
 - **Duration :** Concentration, up to 1 minute
-- LevelType: 3 - evocation
-- **Range :** 120 feet
-- Source: (SRD)
 - Classes: Druid, Ranger
+- Source: (SRD)
 
 ### Description
 
@@ -8200,13 +8200,13 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 - AltName: [Souhait]
 
+- LevelType: 9 - conjuration
 - **Casting Time :** 1 action
+- **Range :** Self
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 9 - conjuration
-- **Range :** Self
-- Source: (SRD)
 - Classes: Sorcerer, Wizard
+- Source: (SRD)
 
 ### Description
 
@@ -8239,13 +8239,13 @@ The stress of casting this spell to produce any effect other than duplicating an
 
 - AltName: [Mot de retour]
 
+- LevelType: 6 - conjuration
 - **Casting Time :** 1 action
+- **Range :** 5 feet
 - **Components :** V
 - **Duration :** Instantaneous
-- LevelType: 6 - conjuration
-- **Range :** 5 feet
-- Source: (SRD)
 - Classes: Cleric
+- Source: (SRD)
 
 ### Description
 
@@ -8262,13 +8262,13 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 - AltName: [Zone de vérité]
 
+- LevelType: 2 - enchantment
 - **Casting Time :** 1 action
+- **Range :** 60 feet
 - **Components :** V, S
 - **Duration :** 10 minutes
-- LevelType: 2 - enchantment
-- **Range :** 60 feet
-- Source: (SRD)
 - Classes: Bard, Cleric, Paladin
+- Source: (SRD)
 
 ### Description
 
