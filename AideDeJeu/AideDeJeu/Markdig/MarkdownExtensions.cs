@@ -120,6 +120,9 @@ namespace AideDeJeu.Tools
         {
             switch(block)
             {
+                case Markdig.Extensions.Tables.Table table:
+                    ParseItemProperties(item, table);
+                    break;
                 case ContainerBlock blocks:
                     ParseItemProperties(item, blocks);
                     break;

@@ -35,7 +35,6 @@ namespace AideDeJeuLib
         public string Senses { get; set; }
         public string Languages { get; set; }
         public string Challenge { get; set; }
-        public string Abilities { get; set; }
         public string Description { get; set; }
 
         public IEnumerable<string> SpecialFeatures { get; set; }

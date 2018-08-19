@@ -16,10 +16,10 @@
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 9 (-1)|15 (+2)|18 (+4)|15 (+2)|18 (+4)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +6, Int +8, Sag +6</SavingThrows>
-- **Compétences** <Abilities>[Histoire] +12, [Perception] +10</Abilities>
+- **Compétences** <Skills>[Histoire] +12, [Perception] +10</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 20</Senses>
 - **Langues** <Languages>profond, télépathie 36 m</Languages>
 - **Dangerosité** <Challenge>10 (5 900 PX)</Challenge>
@@ -69,12 +69,12 @@ L'aboleth peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|14 (+2)|15 (+2)|18 (+4)|13 (+1)|14 (+2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +7, Sag +4, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Intimidation] +7, [Perception] +6, [Perspicacité] +6</Abilities>
+- **Compétences** <Skills>[Intimidation] +7, [Perception] +6, [Perspicacité] +6</Skills>
 - **Résistance aux dégâts** <DamageResistances>acide et froid</DamageResistances>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>feu</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>feu</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Sens** <Senses>vision dans le noir (18 m) ; [Perception passive] 16</Senses>
 - **Langue** <Languages>Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine</Languages>
@@ -122,7 +122,7 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le [j
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|16 (+3)|16 (+3)|12 (+1)|14 (+2)|15 (+2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
@@ -158,9 +158,9 @@ _Touché :_ 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|11 (+0)|13 (+1)|10 (+0)|10 (+0)| 4 (-3)|
+|<Strength>17 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m ; [Perception passive] 13</Senses>
 - **Langue** <Languages>commun des profondeurs</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -199,10 +199,10 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|18 (+4)|18 (+4)|17 (+3)|20 (+5)|20 (+5)|
+|<Strength>18 (+4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>17 (+3)</Intelligence>|<Wisdom>20 (+5)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Sag +9, Cha +9</SavingThrows>
-- **Compétences** <Abilities>[Perception] +9, [Perspicacité] +9</Abilities>
+- **Compétences** <Skills>[Perception] +9, [Perspicacité] +9</Skills>
 - **Résistance aux dégâts** <DamageResistances>radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 19</Senses>
@@ -249,10 +249,10 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)|20 (+5)|24 (+7)|19 (+4)|22 (+6)|25 (+7)|
+|<Strength>24 (+7)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>24 (+7)</Constitution>|<Intelligence>19 (+4)</Intelligence>|<Wisdom>22 (+6)</Wisdom>|<Charisma>25 (+7)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +12, Sag +11, Cha +12</SavingThrows>
-- **Compétences** <Abilities>[Perception] +11</Abilities>
+- **Compétences** <Skills>[Perception] +11</Skills>
 - **Résistance aux dégâts** <DamageResistances>radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision parfaite 36 m, [Perception passive] 21</Senses>
@@ -299,10 +299,10 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|22 (+6)|26 (+8)|25 (+7)|25 (+7)|30 (+10)|
+|<Strength>26 (+8)</Strength>|<Dexterity>22 (+6)</Dexterity>|<Constitution>26 (+8)</Constitution>|<Intelligence>25 (+7)</Intelligence>|<Wisdom>25 (+7)</Wisdom>|<Charisma>30 (+10)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +14, Sag +14, Cha +17 </SavingThrows>
-- **Compétence** <Abilities>[Perception] +14</Abilities>
+- **Compétence** <Skills>[Perception] +14</Skills>
 - **Résistance aux dégâts** <DamageResistances>radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné] et [épuisé]</ConditionImmunities>
@@ -368,7 +368,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|11 (+0)|13 (+1)| 1 (-5)|13 (+1)| 6 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -396,7 +396,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|12 (+1)|15 (+2)|12 (+1)|13 (+1)|10 (+0)|
+|<Strength>17 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
 - **Jet de sauvegarde** <SavingThrows>Con +4</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
@@ -433,7 +433,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)| 8 (-1)|16 (+3)| 3 (-4)|10 (+0)| 6 (-2)|
+|<Strength>10 (+0)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Immunité contre l'état** <ConditionImmunities>[à terre]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
@@ -470,7 +470,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 8 (-1)|15 (+2)| 2 (-4)| 8 (-1)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -504,9 +504,9 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|16 (+3)|18 (+4)| 7 (-2)|14 (+2)|12 (+1)|
+|<Strength>23 (+6)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +6</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision dans le noir 27 m, [Perception passive] 16</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -544,9 +544,9 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|11 (+0)|21 (+5)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +6</Abilities>
+- **Compétence** <Skills>[Perception] +6</Skills>
 - **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 16</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -579,9 +579,9 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde] de [Force] ou de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|14 (+2)| 9 (-1)|13 (+1)|11 (+0)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Athlétisme] +6, [Perception] +3, [Survie] +3</Abilities>
+- **Compétences** <Skills>[Athlétisme] +6, [Perception] +3, [Survie] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>elfe, sylvestre</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -619,9 +619,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|16 (+3)| 5 (-3)|14 (+2)|10 (+0)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +10</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +10</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision parfaite 12 m, [Perception passive] 20</Senses>
@@ -656,7 +656,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength> 1 (-5)</Strength>|<Dexterity> 1 (-5)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [terrorisé]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive] 6</Senses>
@@ -685,7 +685,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)| 1 (-5)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength> 3 (-4)</Strength>|<Dexterity> 1 (-5)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [terrorisé]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive] 6</Senses>
@@ -718,9 +718,9 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|11 (+0)|19 (+4)| 3 (-4)|14 (+2)|10 (+0)|
+|<Strength>19 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +8</Abilities>
+- **Compétence** <Skills>[Perception] +8</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 18</Senses>
 - **Langues** <Languages>comprend le draconique mais ne peut pas parler</Languages>
 - **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
@@ -757,9 +757,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|16 (+3)| 5 (-3)|11 (+0)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Compétence** <Skills>[Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
@@ -798,7 +798,7 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|12 (+1)|12 (+1)| 2 (-4)|13 (+1)| 5 (-3)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langue** <Languages>—</Languages>
@@ -824,7 +824,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|20 (+5)|17 (+3)|18 (+4)|20 (+5)|18 (+4)|
+|<Strength>16 (+3)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>20 (+5)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +5, Sag +7, Cha +6</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>radiants</DamageResistances>
@@ -878,9 +878,9 @@ Une autre créature peut effectuer une action pour secouer la cible afin qu'elle
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Athlétisme] +5, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Athlétisme] +5, [Perception] +2</Skills>
 - **Résistance aux dégâts** <DamageResistances>de feu</DamageResistances>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -918,7 +918,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|15 (+2)|22 (+6)|20 (+5)|16 (+3)|22 (+6)|
+|<Strength>26 (+8)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>22 (+6)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +14, Con +12, Sag +9, Cha +12</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
@@ -966,7 +966,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|11 (+0)|12 (+1)| 5 (-3)| 8 (-1)| 3 (-4)|
+|<Strength>11 (+0)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre et de froid</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -1003,7 +1003,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|15 (+2)|21 (+5)|19 (+4)|17 (+3)|16 (+3)|
+|<Strength>20 (+5)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>19 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +9, Con +9, Sag +7, Cha +7</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
@@ -1049,7 +1049,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|17 (+3)|20 (+5)| 5 (-3)|12 (+1)|13 (+1)|
+|<Strength>19 (+4)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +7, Con +8, Sag +4</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
@@ -1093,7 +1093,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|20 (+5)|20 (+5)|18 (+4)|16 (+3)|20 (+5)|
+|<Strength>18 (+4)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +9, Con +10, Sag +8, Cha +10</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
@@ -1145,7 +1145,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|10 (+0)|22 (+6)|19 (+4)|12 (+1)|15 (+2)|
+|<Strength>21 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>19 (+4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +11, Int +9, Sag +6, Cha +7</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
@@ -1193,9 +1193,9 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|17 (+3)|10 (+0)| 7 (-2)|10 (+0)|10 (+0)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +5</Abilities>
+- **Compétence** <Skills>[Discrétion] +5</Skills>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
@@ -1237,7 +1237,7 @@ La cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours e
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|18 (+4)| 8 (-1)|13 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Sag +4, Cha +2</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
@@ -1283,7 +1283,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 11</Senses>
@@ -1317,9 +1317,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants plus 7 (2d6) dégâts de feu.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|14 (+2)|16 (+3)|15 (+2)|14 (+2)|18 (+4)|
+|<Strength>12 (+1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>15 (+2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Immunité contre les états** <ConditionImmunities>[aveuglé], [à terre]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 18 m (aveugle au-delà) ; [Perception passive] 14</Senses>
 - **Langues** <Languages>profond, commun des profondeurs, télépathie (36 m)</Languages>
@@ -1391,10 +1391,10 @@ Relancez deux fois le dé et rejouez tous les 8.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|17 (+3)|18 (+4)|12 (+1)|14 (+2)|14 (+2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +6, Con +7, Sag +5, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Perception] +8, [Perspicacité] +5, [Supercherie] +5</Abilities>
+- **Compétences** <Skills>[Perception] +8, [Perspicacité] +5, [Supercherie] +5</Skills>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
@@ -1440,7 +1440,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|15 (+2)|15 (+2)| 9 (-1)|11 (+0)|11 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +5, Con +4, Sag +2</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
@@ -1484,7 +1484,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|17 (+3)|21 (+5)|12 (+1)|16 (+3)|17 (+3)|
+|<Strength>22 (+6)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +10, Dex +7, Sag +7, Cha +7</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
@@ -1530,7 +1530,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|14 (+2)|18 (+4)|18 (+4)|15 (+2)|18 (+4)|
+|<Strength>21 (+5)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +9, Sag +7, Cha +9</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
@@ -1590,7 +1590,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|18 (+4)|11 (+0)|12 (+1)|14 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +7, Sag +4, Cha +5</SavingThrows>
 - **Résistances aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
@@ -1638,10 +1638,10 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde] de [S
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +5, Sag +6, Cha +7</SavingThrows>
-- **Compétences** <Abilities>[Perspicacité] +6, [Supercherie] +7</Abilities>
+- **Compétences** <Skills>[Perspicacité] +6, [Supercherie] +7</Skills>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
@@ -1681,9 +1681,9 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|17 (+3)|13 (+1)|11 (+0)|12 (+1)|14 (+2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4</Skills>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
@@ -1723,7 +1723,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|14 (+2)|24 (+7)|22 (+6)|18 (+4)|24 (+7)|
+|<Strength>26 (+8)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>24 (+7)</Constitution>|<Intelligence>22 (+6)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>24 (+7)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +8, Con +13, Sag +10</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
@@ -1781,7 +1781,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|16 (+3)|18 (+4)|14 (+2)|14 (+2)|18 (+4)|
+|<Strength>18 (+4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +8, Sag +6, Cha +8</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
@@ -1827,7 +1827,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)| 5 (-3)|11 (+0)| 1 (-5)|11 (+0)| 3 (-4)|
+|<Strength>10 (+0)</Strength>|<Dexterity> 5 (-3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>de froid</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
@@ -1861,7 +1861,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|12 (+1)|18 (+4)| 6 (-2)|10 (+0)| 6 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>voir description</DamageResistances>
 - **Sens** <Senses>vision dans le noir (18 m)</Senses>
@@ -1904,9 +1904,9 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -1935,7 +1935,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)| 9 (-1)|17 (+3)| 2 (-4)|11 (+0)| 5 (-3)|
+|<Strength>22 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langue** <Languages>—</Languages>
@@ -1969,9 +1969,9 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|19 (+4)| 2 (-4)|12 (+1)| 9 (-1)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Compétence** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
@@ -2002,9 +2002,9 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|18 (+4)|14 (+2)|11 (+0)|12 (+1)|14 (+2)|
+|<Strength>11 (+0)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Perspicacité] +3, [Supercherie] +6</Abilities>
+- **Compétences** <Skills>[Perspicacité] +3, [Supercherie] +6</Skills>
 - **Immunité contre l'état** <ConditionImmunities>[charmé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langue** <Languages>commun</Languages>
@@ -2044,10 +2044,10 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|26 (+8)|10 (+0)|26 (+8)|10 (+0)|13 (+1)|14 (+2)|
+|<Strength>26 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>26 (+8)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +14, Sag +7, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +13</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +13</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 23</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2103,10 +2103,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|10 (+0)|22 (+6)| 8 (-1)|12 (+1)|12 (+1)|
+|<Strength>22 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +11, Sag +6, Cha +6</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +11</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +11</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2162,10 +2162,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|18 (+4)| 6 (-2)|11 (+0)|12 (+1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +7, Sag +3, Cha +4</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +6</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2203,10 +2203,10 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|10 (+0)|14 (+2)| 5 (-3)|10 (+0)|11 (+0)|
+|<Strength>14 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +2, Con +4, Sag +2, Cha +2</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +2, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -2234,10 +2234,10 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
+|<Strength>29 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>27 (+8)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +15, Sag +10, Cha +12</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +17</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +17</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2291,10 +2291,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>23 (+6)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +11, Sag +7, Cha +9</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +12</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +12</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2348,10 +2348,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>21 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +8, Sag +5, Cha +7</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +9</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +9</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 19</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2385,10 +2385,10 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +2, Con +4, Sag +2, Cha +4</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +2, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -2416,10 +2416,10 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +9, Con +14, Sag +9, Cha +11</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +9, [Perception] +16</Abilities>
+- **Compétences** <Skills>[Discrétion] +9, [Perception] +16</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2473,10 +2473,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|14 (+2)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +10, Sag +6, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +11</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +11</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2532,10 +2532,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|14 (+2)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +6, Sag +3, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +6</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2573,10 +2573,10 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +3, Sag +2, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -2608,10 +2608,10 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
+|<Strength>30 (+10)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>29 (+9)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>23 (+6)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +16, Sag +9, Cha +13</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +16</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +16</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2665,10 +2665,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +13, Sag +7, Cha +11</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +13</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +13</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 23</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2722,10 +2722,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
+|<Strength>23 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +9, Sag +4, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +8</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +8</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 18</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -2759,10 +2759,10 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +2, Con +5, Sag +2, Cha +4</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +2, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -2790,10 +2790,10 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +8, Con +14, Sag +10, Cha +11</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +8, [Perception] +17, [Perspicacité] +10, [Persuasion] +11, [Supercherie] +11</Abilities>
+- **Compétences** <Skills>[Discrétion] +8, [Perception] +17, [Perspicacité] +10, [Persuasion] +11, [Supercherie] +11</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
@@ -2852,10 +2852,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +10, Sag +7, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +12, [Perspicacité] +7, [Persuasion] +8, [Supercherie] +8</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +12, [Perspicacité] +7, [Persuasion] +8, [Supercherie] +8</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
@@ -2912,10 +2912,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +6, Sag +4, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +7, [Supercherie] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +7, [Supercherie] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17</Senses>
@@ -2954,10 +2954,10 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +3, Sag +2, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
@@ -2990,10 +2990,10 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|25 (+7)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +13, Sag +8, Cha +10</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Histoire] +9, [Perception] +14, [Persuasion] +10</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Histoire] +9, [Perception] +14, [Persuasion] +10</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 24</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3057,10 +3057,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +10, Sag +6, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +5, [Histoire] +7, [Perception] +11, [Persuasion] +8</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Histoire] +7, [Perception] +11, [Persuasion] +8</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3118,10 +3118,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +6, Sag +3, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6, [Persuasion] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +6, [Persuasion] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3159,10 +3159,10 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)|10 (+0)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +2, Con +3, Sag +2, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +2, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -3194,10 +3194,10 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|10 (+0)|29 (+9)|18 (+4)|15 (+2)|23 (+6)|
+|<Strength>30 (+10)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>29 (+9)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>23 (+6)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +16, Sag +9, Cha +13</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +11, [Discrétion] +7, [Histoire] +11, [Perception] +16</Abilities>
+- **Compétences** <Skills>[Arcanes] +11, [Discrétion] +7, [Histoire] +11, [Perception] +16</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 26</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3259,10 +3259,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|25 (+7)|16 (+3)|13 (+1)|21 (+5)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +12, Sag +6, Cha +10</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +8, [Discrétion] +5, [Histoire] +8, [Perception] +11</Abilities>
+- **Compétences** <Skills>[Arcanes] +8, [Discrétion] +5, [Histoire] +8, [Perception] +11</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 21</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3326,10 +3326,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|10 (+0)|21 (+5)|14 (+2)|11 (+0)|19 (+4)|
+|<Strength>23 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +9, Sag +4, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +6, [Discrétion] +4, [Histoire] +6, [Perception] +8</Abilities>
+- **Compétences** <Skills>[Arcanes] +6, [Discrétion] +4, [Histoire] +6, [Perception] +8</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 18</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3367,10 +3367,10 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +2, Con +5, Sag +2, Cha +4</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +2, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -3402,10 +3402,10 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|29 (+9)|10 (+0)|27 (+8)|18 (+4)|17 (+3)|21 (+5)|
+|<Strength>29 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>27 (+8)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>21 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +7, Con +15, Sag +10, Cha +12</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +17, [Perspicacité] +10</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +17, [Perspicacité] +10</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3469,10 +3469,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|23 (+6)|16 (+3)|15 (+2)|19 (+4)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>23 (+6)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +11, Sag +7, Cha +9</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +12, [Perspicacité] +7</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +12, [Perspicacité] +7</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3538,10 +3538,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|10 (+0)|19 (+4)|14 (+2)|13 (+1)|17 (+3)|
+|<Strength>21 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +7, Sag +4, Cha +6</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +7, [Perspicacité] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +7, [Perspicacité] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3583,10 +3583,10 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|15 (+2)|12 (+1)|11 (+0)|15 (+2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +2, Con +4, Sag +2, Cha +4</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +2, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +2, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -3622,10 +3622,10 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|12 (+1)|25 (+7)|20 (+5)|17 (+3)|19 (+4)|
+|<Strength>27 (+8)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>19 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +8, Con +14, Sag +10, Cha +11</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +8, [Perception] +17, [Supercherie] +11</Abilities>
+- **Compétences** <Skills>[Discrétion] +8, [Perception] +17, [Supercherie] +11</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3691,10 +3691,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|12 (+1)|21 (+5)|18 (+4)|15 (+2)|17 (+3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +10, Sag +7, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +12, [Supercherie] +8</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +12, [Supercherie] +8</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 22</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3754,10 +3754,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|12 (+1)|17 (+3)|16 (+3)|13 (+1)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +6, Sag +4, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +7, [Supercherie] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +7, [Supercherie] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 17</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3799,10 +3799,10 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|13 (+1)|14 (+2)|11 (+0)|13 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +3, Sag +2, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -3834,10 +3834,10 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|14 (+2)|29 (+9)|18 (+4)|17 (+3)|28 (+9)|
+|<Strength>30 (+10)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>29 (+9)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>28 (+9)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +9, Con +16, Sag +10, Cha +16</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +9, [Perception] +17, [Perspicacité] +10, [Persuasion] +16</Abilities>
+- **Compétences** <Skills>[Discrétion] +9, [Perception] +17, [Perspicacité] +10, [Persuasion] +16</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 27</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3901,10 +3901,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|14 (+2)|25 (+7)|16 (+3)|15 (+2)|24 (+7)|
+|<Strength>27 (+8)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>24 (+7)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +8, Con +13, Sag +8, Cha +13</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +8, [Perception] +14, [Perspicacité] +8, [Persuasion] +13</Abilities>
+- **Compétences** <Skills>[Discrétion] +8, [Perception] +14, [Perspicacité] +8, [Persuasion] +13</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 18 m, vision dans le noir 36 m, [Perception passive] 24</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -3970,10 +3970,10 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|14 (+2)|21 (+5)|16 (+3)|13 (+1)|20 (+5)|
+|<Strength>23 (+6)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +9, Sag +5, Cha +9</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +9, [Perspicacité] +5, [Persuasion] +9</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +9, [Perspicacité] +5, [Persuasion] +9</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 9 m, vision dans le noir 36 m, [Perception passive] 19</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -4015,10 +4015,10 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|14 (+2)|17 (+3)|14 (+2)|11 (+0)|16 (+3)|
+|<Strength>19 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +5, Sag +2, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>draconique</Languages>
@@ -4054,7 +4054,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)|10 (+0)|20 (+5)|10 (+0)|12 (+1)|12 (+1)|
+|<Strength>25 (+7)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +11, Sag +7</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de feu</DamageResistances>
@@ -4097,9 +4097,9 @@ _Touché :_ 26 (3d12+7) dégâts contondants. Si la cible est une créature, ell
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|17 (+3)|12 (+1)|10 (+0)|14 (+2)|15 (+2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perspicacité] +3, [Persuasion] +4, [Supercherie] +4</Skills>
 - **Résistances aux dégâts** <DamageResistances>contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison</DamageResistances>
 - **Immunités à l'état** <ConditionImmunities>spécial [empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir à 36 m, [Perception passive] 12</Senses>
@@ -4138,9 +4138,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|16 (+3)|18 (+4)|13 (+1)|14 (+2)|12 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +9, [Perception] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +9, [Perception] +5</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>commun des profondeurs, elfe</Languages>
 - **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
@@ -4191,9 +4191,9 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|10 (+0)|11 (+0)|11 (+0)|12 (+1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +2</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>commun des profondeurs, elfe</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -4235,10 +4235,10 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|14 (+2)|13 (+1)|16 (+3)|17 (+3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +6, Sag +7, Cha +7</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Intimidation] +11, [Perception] +7, [Religion] +7</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Intimidation] +11, [Perception] +7, [Religion] +7</Skills>
 - **Résistance aux dégâts** <DamageResistances>de poison</DamageResistances>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 17</Senses>
@@ -4299,9 +4299,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|12 (+1)|11 (+0)|14 (+2)|15 (+2)|18 (+4)|
+|<Strength>10 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>elfe, sylvestre</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -4348,7 +4348,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|11 (+0)|14 (+2)|11 (+0)|10 (+0)| 9 (-1)|
+|<Strength>14 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>de poison</DamageResistances>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 10</Senses>
@@ -4391,7 +4391,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|20 (+5)|14 (+2)| 6 (-2)|10 (+0)| 6 (-2)|
+|<Strength>14 (+2)</Strength>|<Dexterity>20 (+5)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Résistances aux dégâts** <DamageResistances>de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -4432,7 +4432,7 @@ Si le [jet de sauvegarde] est réussi, la cible subit la moitié des dégâts co
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|18 (+4)| 5 (-3)|10 (+0)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -4473,7 +4473,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|17 (+3)|16 (+3)| 6 (-2)|10 (+0)| 7 (-2)|
+|<Strength>10 (+0)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
@@ -4512,9 +4512,9 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)| 8 (-1)|20 (+5)| 5 (-3)|10 (+0)| 5 (-3)|
+|<Strength>20 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de tonnerre</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de tonnerre</DamageVulnerSkills>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunités contre les états** <ConditionImmunities>[empoisonné], [épuisé], [inconscient], [paralysé] et [pétrifié]</ConditionImmunities>
@@ -4550,9 +4550,9 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)| 8 (-1)|17 (+3)| 7 (-2)|16 (+3)| 6 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +6</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -4595,9 +4595,9 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|18 (+4)|10 (+0)|14 (+2)|13 (+1)|11 (+0)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +8, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +8, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>Commun, Elfe, Sylvestre</Languages>
 - **Dangerosité** <Challenge>1/4 (50 XP)</Challenge>
@@ -4630,9 +4630,9 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|15 (+2)|13 (+1)| 7 (-2)|12 (+1)| 8 (-1)|
+|<Strength>14 (+2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3, [Survie] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3, [Survie] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -4675,9 +4675,9 @@ _Touché :_ la créature est [entravée] par la toile. Par une action, la créat
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|17 (+3)| 6 (-2)|10 (+0)| 8 (-1)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Compétence** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>géant, orc</Languages>
 - **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
@@ -4714,7 +4714,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|13 (+1)|10 (+0)|10 (+0)|12 (+1)|17 (+3)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>17 (+3)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de froid, de poison et nécrotiques</DamageImmunities>
@@ -4759,7 +4759,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|28 (+9)|10 (+0)|13 (+1)|14 (+2)|11 (+0)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>28 (+9)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre et de poison</DamageImmunities>
@@ -4800,7 +4800,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)| 8 (-1)|18 (+4)| 7 (-2)|10 (+0)| 3 (-4)|
+|<Strength>18 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]</ConditionImmunities>
@@ -4842,7 +4842,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|11 (+0)|16 (+3)| 6 (-2)|11 (+0)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Résistances aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -4881,9 +4881,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|19 (+4)| 5 (-3)| 9 (-1)| 6 (-2)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +2</Abilities>
+- **Compétence** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langue** <Languages>géant</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -4914,10 +4914,10 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|27 (+8)|10 (+0)|22 (+6)|12 (+1)|16 (+3)|16 (+3)|
+|<Strength>27 (+8)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +10, Sag +7, Cha +7</SavingThrows>
-- **Compétences** <Abilities>[Perception] +7, [Perspicacité] +7</Abilities>
+- **Compétences** <Skills>[Perception] +7, [Perspicacité] +7</Skills>
 - **Sens** <Senses>[Perception passive] 17</Senses>
 - **Langues** <Languages>commun, géant</Languages>
 - **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
@@ -4960,10 +4960,10 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|15 (+2)|20 (+5)|10 (+0)|12 (+1)| 9 (-1)|
+|<Strength>23 (+6)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +5, Con +8, Sag +4</SavingThrows>
-- **Compétences** <Abilities>[Athlétisme] +12, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Athlétisme] +12, [Perception] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>géant</Languages>
 - **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
@@ -4998,10 +4998,10 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|29 (+9)|14 (+2)|20 (+5)|16 (+3)|18 (+4)|18 (+4)|
+|<Strength>29 (+9)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +14, Con +10, Sag +9, Cha +9</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +8, [Athlétisme] +14, [Histoire] +8, [Perception] +9</Abilities>
+- **Compétences** <Skills>[Arcanes] +8, [Athlétisme] +14, [Histoire] +8, [Perception] +9</Skills>
 - **Résistance aux dégâts** <DamageResistances>de froid</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre et de tonnerre</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 19</Senses>
@@ -5046,10 +5046,10 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|25 (+7)| 9 (-1)|23 (+6)|10 (+0)|14 (+2)|13 (+1)|
+|<Strength>25 (+7)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>23 (+6)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +10, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Athlétisme] +11, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Athlétisme] +11, [Perception] +6</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 16</Senses>
 - **Langue** <Languages>géant</Languages>
@@ -5081,10 +5081,10 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)| 9 (-1)|21 (+5)| 9 (-1)|10 (+0)|12 (+1)|
+|<Strength>23 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +8, Sag +3, Cha +4</SavingThrows>
-- **Compétences** <Abilities>[Athlétisme] +9, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Athlétisme] +9, [Perception] +3</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langue** <Languages>géant</Languages>
@@ -5116,7 +5116,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)|15 (+2)|22 (+6)|15 (+2)|16 (+3)|20 (+5)|
+|<Strength>21 (+5)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>15 (+2)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Sag +7, Cha +9</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre et de tonnerre</DamageImmunities>
@@ -5164,7 +5164,7 @@ Si le test est réussi, la créature n'est plus [entravée] et se déplace vers 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|12 (+1)|24 (+7)|16 (+3)|15 (+2)|16 (+3)|
+|<Strength>22 (+6)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>24 (+7)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +7, Sag +6, Cha +7</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
@@ -5210,7 +5210,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|12 (+1)|11 (+0)| 6 (-2)|10 (+0)| 7 (-2)|
+|<Strength>14 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langue** <Languages>gnoll</Languages>
@@ -5247,7 +5247,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|13 (+1)| 6 (-2)|10 (+0)| 9 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langue** <Languages>gnoll</Languages>
@@ -5289,9 +5289,9 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)| 9 (-1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Investigation] +3, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Investigation] +3, [Perception] +2</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>commun des profondeurs, gnome, terreux</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -5332,9 +5332,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|14 (+2)|10 (+0)|10 (+0)| 8 (-1)| 8 (-1)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +6</Abilities>
+- **Compétence** <Skills>[Discrétion] +6</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -5366,9 +5366,9 @@ _Touché :_ 5 (1d6+2) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|12 (+1)|11 (+0)|14 (+2)|10 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +8, [Religion] +5</Abilities>
+- **Compétence** <Skills>[Discrétion] +8, [Religion] +5</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -5406,9 +5406,9 @@ _Touché :_ 3 (1d4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|13 (+1)|13 (+1)|10 (+0)|12 (+1)| 8 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +7, [Survie] +7</Abilities>
+- **Compétence** <Skills>[Discrétion] +7, [Survie] +7</Skills>
 - **Résistance contre les dégâts** <DamageResistances>de froid</DamageResistances>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
@@ -5453,9 +5453,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|13 (+1)|13 (+1)|10 (+0)|14 (+2)|10 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +7, [Religion] +3, [Survie] +7</Abilities>
+- **Compétence** <Skills>[Discrétion] +7, [Religion] +3, [Survie] +7</Skills>
 - **Résistance contre les dégâts** <DamageResistances>de froid</DamageResistances>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
@@ -5501,9 +5501,9 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|13 (+1)| 8 (-1)|11 (+0)| 9 (-1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Survie] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Survie] +2</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -5537,9 +5537,9 @@ _Touché :_ 11 (2d8+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|14 (+2)|13 (+1)|10 (+0)|11 (+0)| 9 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +8, [Intimidation] +6, [Survie] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +8, [Intimidation] +6, [Survie] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
 - **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
@@ -5582,7 +5582,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)| 9 (-1)|18 (+4)| 3 (-4)| 8 (-1)| 1 (-5)|
+|<Strength>20 (+5)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
@@ -5630,7 +5630,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 9 (-1)|18 (+4)| 6 (-2)|10 (+0)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
@@ -5684,7 +5684,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
+|<Strength>24 (+7)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
@@ -5730,7 +5730,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)| 9 (-1)|20 (+5)| 3 (-4)|11 (+0)| 1 (-5)|
+|<Strength>22 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
@@ -5770,9 +5770,9 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|11 (+0)|18 (+4)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Compétence** <Skills>[Perception] +4</Skills>
 - **Immunité contre l'état** <ConditionImmunities>[pétrifié]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langue** <Languages>—</Languages>
@@ -5810,7 +5810,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|15 (+2)|10 (+0)| 7 (-2)|10 (+0)| 6 (-2)|
+|<Strength>13 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunités contre les états** <ConditionImmunities>[charmé], [empoisonné] et [épuisé]</ConditionImmunities>
@@ -5842,7 +5842,7 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|17 (+3)|10 (+0)|11 (+0)|10 (+0)| 8 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>nécrotiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -5881,7 +5881,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|14 (+2)|11 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Résistance contre les dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
@@ -5918,9 +5918,9 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)| 2 (-4)|13 (+1)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +5</Abilities>
+- **Compétence** <Skills>[Perception] +5</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -5955,7 +5955,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|16 (+3)|12 (+1)|12 (+1)|13 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>aquatique, commun, géant</Languages>
@@ -5995,9 +5995,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|16 (+3)|14 (+2)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +6, [Perspicacité] +6, [Supercherie] +7</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +6, [Perspicacité] +6, [Supercherie] +7</Skills>
 - **Résistance aux dégâts** <DamageResistances>de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.</DamageResistances>
 - **Immunité contre l'état** <ConditionImmunities>[charmé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 16</Senses>
@@ -6042,9 +6042,9 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|16 (+3)|13 (+1)|14 (+2)|14 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Arcanes] +3, [Discrétion] +3, [Perception] +4, [Supercherie] +4</Abilities>
+- **Compétences** <Skills>[Arcanes] +3, [Discrétion] +3, [Perception] +4, [Supercherie] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>commun, draconique, sylvestre</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
@@ -6087,7 +6087,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|13 (+1)|12 (+1)| 7 (-2)|10 (+0)|13 (+1)|
+|<Strength>12 (+1)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langue** <Languages>commun</Languages>
@@ -6127,9 +6127,9 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|12 (+1)|17 (+3)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
@@ -6164,9 +6164,9 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|13 (+1)|13 (+1)| 2 (-4)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +5</Abilities>
+- **Compétence** <Skills>[Perception] +5</Skills>
 - **Sens** <Senses>[Perception passive] 15</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -6201,7 +6201,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|12 (+1)|10 (+0)|10 (+0)| 9 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
@@ -6234,7 +6234,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|12 (+1)|11 (+0)|10 (+0)|11 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>commun, gobelin</Languages>
@@ -6272,9 +6272,9 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3, [Survie] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3, [Survie] +5</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>draconique</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -6316,9 +6316,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 7 (-2)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3, [Survie] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3, [Survie] +5</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>draconique</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -6361,9 +6361,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|12 (+1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>aquatique, commun</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -6392,7 +6392,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|15 (+2)|11 (+0)|10 (+0)|10 (+0)| 7 (-2)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé] et [empoisonné]</ConditionImmunities>
@@ -6424,9 +6424,9 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|12 (+1)|20 (+5)| 2 (-4)|10 (+0)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +6</Abilities>
+- **Compétence** <Skills>[Perception] +6</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 16</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
@@ -6467,7 +6467,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|15 (+2)| 9 (-1)| 8 (-1)| 7 (-2)| 8 (-1)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -6502,7 +6502,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|16 (+3)|10 (+0)|10 (+0)| 9 (-1)| 9 (-1)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>commun, draconique</Languages>
@@ -6542,7 +6542,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|11 (+0)|25 (+7)|22 (+6)|18 (+4)|20 (+5)|
+|<Strength>30 (+10)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>25 (+7)</Constitution>|<Intelligence>22 (+6)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +17, Dex +7, Con +14, Int +13, Sag +11</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
@@ -6601,9 +6601,9 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|15 (+2)|14 (+2)|15 (+2)|16 (+3)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perspicacité] +4, [Supercherie] +7</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perspicacité] +4, [Supercherie] +7</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>abyssal, commun</Languages>
 - **Dangerosité** <Challenge>4 (1 100 PX)</Challenge>
@@ -6648,7 +6648,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>CON +10, INT +12, SAG +9</SavingThrows>
 - **Résistance aux dégâts** <DamageResistances>de froid, de foudre, nécrotiques</DamageResistances>
@@ -6720,7 +6720,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|15 (+2)|11 (+0)|17 (+3)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [empoisonné] et [paralysé]</ConditionImmunities>
@@ -6782,9 +6782,9 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>15 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +4</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>commun (ne peut pas parler sous forme de loup)</Languages>
@@ -6826,9 +6826,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|17 (+3)|11 (+0)|12 (+1)|12 (+1)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +7</Abilities>
+- **Compétences** <Skills>[Perception] +7</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 17</Senses>
 - **Langues** <Languages>commun (ne peut pas parler sous forme d'ours)</Languages>
@@ -6870,9 +6870,9 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|15 (+2)|12 (+1)|11 (+0)|10 (+0)| 8 (-1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +2</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
 - **Sens** <Senses>vision dans le noir 18 m (forme de rat uniquement), [Perception passive] 12</Senses>
 - **Langues** <Languages>commun (ne peut pas parler sous forme de rat)</Languages>
@@ -6914,9 +6914,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|15 (+2)|10 (+0)|11 (+0)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>commun (ne peut pas parler sous forme de sanglier)</Languages>
@@ -6956,9 +6956,9 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|16 (+3)|10 (+0)|13 (+1)|11 (+0)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>commun (ne peut pas parler sous forme de tigre)</Languages>
@@ -7006,7 +7006,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|15 (+2)|12 (+1)| 8 (-1)|11 (+0)|10 (+0)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
@@ -7044,9 +7044,9 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|12 (+1)|13 (+1)|12 (+1)|14 (+2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +5</Abilities>
+- **Compétence** <Skills>[Discrétion] +5</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>commun des profondeurs, profond</Languages>
 - **Dangerosité** <Challenge>8 (3 900 PX)</Challenge>
@@ -7095,9 +7095,9 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +3</Abilities>
+- **Compétence** <Skills>[Discrétion] +3</Skills>
 - **Sens** <Senses>vision aveugle 18 m, [Perception passive] 10</Senses>
 - **Langue** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -7136,7 +7136,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|16 (+3)|17 (+3)| 7 (-2)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>commun</Languages>
@@ -7176,9 +7176,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|15 (+2)|16 (+3)|12 (+1)|13 (+1)|15 (+2)|
+|<Strength>10 (+0)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +4, [Perspicacité] +4, [Supercherie] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +4, [Perspicacité] +4, [Supercherie] +5</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>commun</Languages>
 - **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
@@ -7221,10 +7221,10 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-3)|13 (+1)|10 (+0)| 9 (-1)|11 (+0)|12 (+1)|
+|<Strength> 7 (-3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +2</Abilities>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants et de feu</DamageVulnerabilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +2</Skills>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>contondants et de feu</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid et de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
@@ -7263,10 +7263,10 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|12 (+1)|12 (+1)| 7 (-2)|10 (+0)|10 (+0)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3</Abilities>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de froid</DamageVulnerabilities>
+- **Compétences** <Skills>[Discrétion] +3</Skills>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de froid</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
@@ -7303,10 +7303,10 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|14 (+2)|10 (+0)| 9 (-1)|11 (+0)|10 (+0)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +2</Skills>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de feu</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
@@ -7343,7 +7343,7 @@ Une créature peut retenter le [jet de sauvegarde] à la fin de chacun de ses to
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|11 (+0)|10 (+0)|11 (+0)|10 (+0)|12 (+1)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de poison</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[empoisonné]</ConditionImmunities>
@@ -7381,7 +7381,7 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|15 (+2)| 8 (-1)|10 (+0)| 9 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>abyssal, aquatique</Languages>
@@ -7423,9 +7423,9 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|12 (+1)|15 (+2)| 5 (-3)|13 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>d'acide</DamageImmunities>
 - **Immunité contre l'état** <ConditionImmunities>[à terre]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
@@ -7468,9 +7468,9 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|11 (+0)|16 (+3)| 6 (-2)|16 (+3)| 9 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +7</Abilities>
+- **Compétences** <Skills>[Perception] +7</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 17</Senses>
 - **Langues** <Languages>abyssal</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
@@ -7509,9 +7509,9 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|12 (+1)|14 (+2)| 6 (-2)|13 (+1)| 6 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +5</Abilities>
+- **Compétence** <Skills>[Perception] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
 - **Langue** <Languages>comprend l'infernal mais ne peut pas parler</Languages>
@@ -7545,10 +7545,10 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 8 (-1)|15 (+2)| 6 (-2)|10 (+0)|12 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Sag +2</SavingThrows>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de feu</DamageVulnerSkills>
 - **Résistances aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]</ConditionImmunities>
@@ -7582,11 +7582,11 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde] de [Sa
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|17 (+3)|11 (+0)|18 (+4)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +8, Int +5, Sag +9, Cha +8</SavingThrows>
-- **Compétences** <Abilities>[Histoire] +5, [Religion] +5</Abilities>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Compétences** <Skills>[Histoire] +5, [Religion] +5</Skills>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de feu</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé], [terrorisé], [empoisonné], [épuisé] et [paralysé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
@@ -7659,7 +7659,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|17 (+3)|14 (+2)|16 (+3)|15 (+2)|16 (+3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +5, Sag +5, Cha +6</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -7706,7 +7706,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|18 (+4)|16 (+3)|16 (+3)|19 (+4)|18 (+4)|
+|<Strength>19 (+4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>19 (+4)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +8, Con +7, Int +7, Sag +8, Cha +8</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -7759,9 +7759,9 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|16 (+3)|10 (+0)|13 (+1)|15 (+2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Résistance aux dégâts** <DamageResistances>nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
@@ -7805,7 +7805,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|11 (+0)|13 (+1)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength>14 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison et psychiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [empoisonné], [épuisé], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
@@ -7841,7 +7841,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|15 (+2)|11 (+0)| 1 (-5)| 5 (-3)| 1 (-5)|
+|<Strength>12 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 5 (-3)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de poison et psychiques</DamageImmunities>
@@ -7876,7 +7876,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|14 (+2)|10 (+0)| 1 (-5)| 3 (-4)| 1 (-5)|
+|<Strength>17 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 3 (-4)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de poison et psychiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [empoisonné], [paralysé], [pétrifié] et [terrorisé]</ConditionImmunities>
@@ -7916,7 +7916,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 8 (-1)|16 (+3)| 5 (-3)| 7 (-2)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
 - **Langues** <Languages>commun, géant</Languages>
@@ -7946,10 +7946,10 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)|13 (+1)| 6 (-2)|10 (+0)| 8 (-1)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)</Abilities>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>radiants</DamageVulnerabilities>
+- **Compétences** <Skills>[Discrétion] +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)</Skills>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>radiants</DamageVulnerSkills>
 - **Résistance aux dégâts** <DamageResistances>d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de poison et nécrotiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [terrorisé], [empoigné], [empoisonné], [épuisé], [entravé] [paralysé] et [pétrifié]</ConditionImmunities>
@@ -7987,10 +7987,10 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|11 (+0)|16 (+3)|14 (+2)|12 (+1)|15 (+2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +3, Con +6, Sag +4, Cha +5</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +5, [Perception] +4, [Supercherie] +8</Abilities>
+- **Compétences** <Skills>[Arcanes] +5, [Perception] +4, [Supercherie] +8</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>commun, géant</Languages>
 - **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
@@ -8034,9 +8034,9 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|16 (+3)| 7 (-2)|11 (+0)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Intimidation] +2</Abilities>
+- **Compétences** <Skills>[Intimidation] +2</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>commun, orc</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -8068,9 +8068,9 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|11 (+0)|13 (+1)|10 (+0)|14 (+2)|12 (+1)|
+|<Strength>15 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Religion] +2, [Persuasion] +3</Abilities>
+- **Compétences** <Skills>[Religion] +2, [Persuasion] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>commun, orc</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -8109,7 +8109,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|11 (+0)|19 (+4)| 6 (-2)|13 (+1)| 6 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>19 (+4)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +7</SavingThrows>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 11</Senses>
@@ -8152,7 +8152,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|13 (+1)| 2 (-4)|13 (+1)| 6 (-2)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -8189,9 +8189,9 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|15 (+2)|11 (+0)| 2 (-4)| 7 (-2)| 4 (-3)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +0</Abilities>
+- **Compétences** <Skills>[Perception] +0</Skills>
 - **Résistance aux dégâts** <DamageResistances>acide, feu, foudre, froid, tonnerre</DamageResistances>
 - **Immunité contre l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 18 mètres (aveugle au-delà) ; [Perception passive] 8</Senses>
@@ -8239,10 +8239,10 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|10 (+0)|15 (+2)|13 (+1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Sag +4, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Perception] +6</Abilities>
+- **Compétences** <Skills>[Perception] +6</Skills>
 - **Sens** <Senses>[Perception passive] 16</Senses>
 - **Langues** <Languages>comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -8267,9 +8267,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|15 (+2)|13 (+1)|10 (+0)|12 (+1)|10 (+0)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>comprend le commun et le draconique mais ne peut pas parler</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -8306,10 +8306,10 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|17 (+3)|18 (+4)|13 (+1)|16 (+3)|20 (+5)|
+|<Strength>14 (+2)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Compétences** <Abilities>[Perspicacité] +8, [Supercherie] +10</Abilities>
-- **Vulnérabilité contre les dégâts** <DamageVulnerabilities>perforants infligés par des armes magiques maniées par des créatures Bonnes.</DamageVulnerabilities>
+- **Compétences** <Skills>[Perspicacité] +8, [Supercherie] +10</Skills>
+- **Vulnérabilité contre les dégâts** <DamageVulnerSkills>perforants infligés par des armes magiques maniées par des créatures Bonnes.</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>commun, infernal</Languages>
@@ -8350,7 +8350,7 @@ La malédiction magique prend effet chaque fois que la cible prend un repos cour
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)|13 (+1)|21 (+5)| 4 (-3)|10 (+0)| 5 (-3)|
+|<Strength>24 (+7)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>de feu et de froid</DamageImmunities>
 - **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 10</Senses>
@@ -8387,10 +8387,10 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|28 (+9)|10 (+0)|20 (+5)| 3 (-4)|10 (+0)| 9 (-1)|
+|<Strength>28 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +4, Con +9, Sag +4, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>11 (7 200 PX)</Challenge>
@@ -8425,9 +8425,9 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasio
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)|12 (+1)|13 (+1)| 9 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +5</Abilities>
+- **Compétences** <Skills>[Perception] +5</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>sahuagin</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -8469,9 +8469,9 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)|12 (+1)|17 (+3)|11 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>17 (+3)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +6, [Religion] +6</Abilities>
+- **Compétences** <Skills>[Perception] +6, [Religion] +6</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>sahuagin</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
@@ -8526,9 +8526,9 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|15 (+2)|11 (+0)|10 (+0)|12 (+1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de froid</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de froid</DamageVulnerSkills>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de feu</DamageImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
@@ -8567,9 +8567,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|16 (+3)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|
+|<Strength>12 (+1)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +2, [Représentation] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +2, [Représentation] +6</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>commun, elfe, sylvestre</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -8605,11 +8605,11 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|21 (+5)| 1 (-5)|10 (+0)| 1 (-5)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondant, perforant, poison, tonnerre</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé], [charmé], [terrorisé]</ConditionImmunities>
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>feu</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>feu</DamageVulnerSkills>
 - **Sens** <Senses>[Perception passive] (10)</Senses>
 - **Langues** <Languages>-</Languages>
 - **Dangerosité** <Challenge>6 (2 300 XP)</Challenge>
@@ -8643,7 +8643,7 @@ _Touché :_ 9 (1d8+5) dégâts contondants et la cible est [empoignée] (DD du j
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|28 (+9)|10 (+0)|22 (+6)| 3 (-4)|10 (+0)| 6 (-2)|
+|<Strength>28 (+9)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +10, Sag +4</SavingThrows>
 - **Sens** <Senses>vision aveugle 18 m, [Perception passive] 10</Senses>
@@ -8694,7 +8694,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|14 (+2)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>nécrotiques et de poison</DamageImmunities>
@@ -8729,10 +8729,10 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)|10 (+0)|20 (+5)|16 (+3)|18 (+4)|23 (+6)|
+|<Strength>22 (+6)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence>16 (+3)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>23 (+6)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Con +11, Int +9, Sag +10</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +9, [Perception] +10, [Religion] +15</Abilities>
+- **Compétences** <Skills>[Arcanes] +9, [Perception] +10, [Religion] +15</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé] et [terrorisé]</ConditionImmunities>
 - **Sens** <Senses>vision parfaite 36 m, [Perception passive] 20</Senses>
@@ -8801,9 +8801,9 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|18 (+4)|18 (+4)|18 (+4)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>18 (+4)</Intelligence>|<Wisdom>18 (+4)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
-- **Compétences** <Abilities>[Arcanes] +12, [Histoire] +12, [Perception] +8, [Religion] +8</Abilities>
+- **Compétences** <Skills>[Arcanes] +12, [Histoire] +12, [Perception] +8, [Religion] +8</Skills>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>psychiques</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[charmé] et [terrorisé]</ConditionImmunities>
@@ -8863,9 +8863,9 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>contondants</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
@@ -8896,9 +8896,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|15 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>contondants</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
@@ -8925,9 +8925,9 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|11 (+0)|15 (+2)| 6 (-2)| 8 (-1)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>contondants</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>contondants</DamageVulnerSkills>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[empoisonné] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
@@ -8962,7 +8962,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|16 (+3)|11 (+0)| 2 (-4)| 8 (-1)| 6 (-2)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -8992,9 +8992,9 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|17 (+3)|13 (+1)|15 (+2)|12 (+1)|20 (+5)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>15 (+2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>20 (+5)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +5, [Perspicacité] +5, [Persuasion] +9, [Supercherie] +9</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +5, [Perspicacité] +5, [Persuasion] +9, [Supercherie] +9</Skills>
 - **Résistance aux dégâts** <DamageResistances>de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>abyssal, commun, infernal, télépathie 18 m</Languages>
@@ -9036,10 +9036,10 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)| 8 (-1)|21 (+5)|12 (+1)|16 (+3)|12 (+1)|
+|<Strength>23 (+6)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants et perçants</DamageResistances>
-- **Vulnérabilité contre les dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Vulnérabilité contre les dégâts** <DamageVulnerSkills>de feu</DamageVulnerSkills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>Commun, elfe, druidique, sylvestre</Languages>
 - **Dangerosité** <Challenge>9 (5 000 PX)</Challenge>
@@ -9078,7 +9078,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|30 (+10)|11 (+0)|30 (+10)| 3 (-4)|11 (+0)|11 (+0)|
+|<Strength>30 (+10)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>30 (+10)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +5, Sag +9, Cha +9</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageImmunities>
@@ -9150,9 +9150,9 @@ La tarasque peut effectuer 3 actions légendaires qu'elle choisit parmi celles d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|16 (+3)| 7 (-2)|14 (+2)|10 (+0)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +8</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +8</Skills>
 - **Immunité contre l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
 - **Sens** <Senses>perception des vibrations 18 m, vision aveugle 18 m, [Perception passive] 18</Senses>
 - **Langues** <Languages>comprend le commun des profondeurs mais ne parle pas</Languages>
@@ -9189,9 +9189,9 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|14 (+2)| 3 (-4)|14 (+2)| 6 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +6</Skills>
 - **Immunité contre l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
 - **Sens** <Senses>perception des vibrations 12 m, vision aveugle 12 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>-</Languages>
@@ -9219,9 +9219,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)| 8 (-1)|16 (+3)| 5 (-3)|10 (+0)| 5 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +2</Skills>
 - **Résistance aux dégâts** <DamageResistances>de feu et de froid</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[assourdi], [aveuglé] et [épuisé]</ConditionImmunities>
@@ -9257,9 +9257,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|12 (+1)| 9 (-1)| 8 (-1)| 6 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Athlétisme] +5, [Discrétion] +3, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Athlétisme] +5, [Discrétion] +3, [Perception] +3</Skills>
 - **Immunité à l'état** <ConditionImmunities>[aveuglé]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 9 m ou 3 m s'il est [assourdi] (aveugle au-delà de cette distance), [Perception passive] 13</Senses>
 - **Langue** <Languages>commun des profondeurs</Languages>
@@ -9293,9 +9293,9 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|19 (+4)|14 (+2)|10 (+0)|15 (+2)|11 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>19 (+4)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +10, [Perception] +8</Abilities>
+- **Compétences** <Skills>[Discrétion] +10, [Perception] +8</Skills>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [empoigné], [empoisonné], [épuisé], [inconscient], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 18</Senses>
@@ -9330,9 +9330,9 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|13 (+1)|20 (+5)| 7 (-2)| 9 (-1)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>géant</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -9369,10 +9369,10 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
+|<Strength>18 (+4)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence>17 (+3)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>18 (+4)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +9, Sag +7, Cha +9</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +9, [Perception] +7</Abilities>
+- **Compétences** <Skills>[Discrétion] +9, [Perception] +7</Skills>
 - **Résistance aux dégâts** <DamageResistances>nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 17</Senses>
 - **Langues** <Languages>celles qu'il connaissait de son vivant</Languages>
@@ -9452,10 +9452,10 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|16 (+3)|16 (+3)|11 (+0)|10 (+0)|12 (+1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>12 (+1)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Sag +3</SavingThrows>
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +3</Skills>
 - **Résistance aux dégâts** <DamageResistances>nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques</DamageResistances>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>celles qu'il connaissait de son vivant</Languages>
@@ -9505,7 +9505,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)| 3 (-4)|20 (+5)| 1 (-5)| 6 (-2)| 1 (-5)|
+|<Strength>14 (+2)</Strength>|<Dexterity> 3 (-4)</Dexterity>|<Constitution>20 (+5)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8</Senses>
@@ -9554,7 +9554,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)| 6 (-2)|14 (+2)| 2 (-4)| 6 (-2)| 1 (-5)|
+|<Strength>15 (+2)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>d'acide</DamageResistances>
 - **Immunité contre les dégâts** <DamageImmunities>de foudre et tranchants</DamageImmunities>
@@ -9593,7 +9593,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 5 (-3)|16 (+3)| 1 (-5)| 6 (-2)| 1 (-5)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 5 (-3)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Immunité contre les dégâts** <DamageImmunities>d'acide, de foudre, de froid, tranchants</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
@@ -9635,9 +9635,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)| 6 (-2)|16 (+3)| 1 (-5)| 6 (-2)| 2 (-4)|
+|<Strength>12 (+1)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +2</Skills>
 - **Résistances aux dégâts** <DamageResistances>d'acide, de feu et de froid</DamageResistances>
 - **Immunités contre les états** <ConditionImmunities>[à terre], [assourdi], [aveuglé], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
 - **Sens** <Senses>vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive] 8</Senses>
@@ -9676,7 +9676,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|28 (+9)| 7 (-2)|22 (+6)| 1 (-5)| 8 (-1)| 4 (-3)|
+|<Strength>28 (+9)</Strength>|<Dexterity> 7 (-2)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +11, Sag +4</SavingThrows>
 - **Sens** <Senses>perception des vibrations 18 m, vision aveugle 9 m, [Perception passive] 9</Senses>
@@ -9717,9 +9717,9 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|16 (+3)| 5 (-3)|12 (+1)| 6 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 5 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
@@ -9754,9 +9754,9 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|22 (+6)|11 (+0)|10 (+0)|11 (+0)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>22 (+6)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +6</Skills>
 - **Résistance aux dégâts** <DamageResistances>perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium</DamageResistances>
 - **Sens** <Senses>perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive] 16</Senses>
 - **Langues** <Languages>terreux</Languages>
@@ -9799,7 +9799,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)| 6 (-2)|16 (+3)| 3 (-4)| 6 (-2)| 5 (-3)|
+|<Strength>13 (+1)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Sag +0</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -9832,7 +9832,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 6 (-2)|18 (+4)| 3 (-4)| 6 (-2)| 5 (-3)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom> 6 (-2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Sag +0</SavingThrows>
 - **Immunité contre les dégâts** <DamageImmunities>de poison</DamageImmunities>
@@ -9865,9 +9865,9 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|15 (+2)|10 (+0)| 2 (-4)|14 (+2)| 7 (-2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -9896,9 +9896,9 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|17 (+3)|13 (+1)| 8 (-1)|14 (+2)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>aigle géant, comprend le commun et l'aérien mais ne peut pas les parler</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -9933,9 +9933,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|14 (+2)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +4</Skills>
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -9968,9 +9968,9 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|15 (+2)|12 (+1)| 6 (-2)|10 (+0)| 6 (-6)|
+|<Strength>15 (+2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-6)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6</Abilities>
+- **Compétences** <Skills>[Discrétion] +6</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
@@ -10003,9 +10003,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|16 (+3)|12 (+1)| 2 (-4)|11 (+0)| 4 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +7</Abilities>
+- **Compétences** <Skills>[Discrétion] +7</Skills>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -10042,9 +10042,9 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|16 (+3)|13 (+1)| 3 (-4)|12 (+1)| 4 (-3)|
+|<Strength>12 (+1)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +7, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +7, [Perception] +3</Skills>
 - **Sens** <Senses>vision aveugle 3 m, vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -10077,9 +10077,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)| 6 (-2)|15 (+2)|10 (+0)|10 (+0)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity> 6 (-2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de feu</DamageVulnerSkills>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants</DamageResistances>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue connue de son créateur</Languages>
@@ -10109,9 +10109,9 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)| 8 (-1)|11 (+0)|10 (+0)|10 (+0)| 6 (-2)|
+|<Strength> 3 (-4)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Vulnérabilité aux dégâts** <DamageVulnerabilities>de feu</DamageVulnerabilities>
+- **Vulnérabilité aux dégâts** <DamageVulnerSkills>de feu</DamageVulnerSkills>
 - **Résistance aux dégâts** <DamageResistances>perforants</DamageResistances>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue connue de son créateur</Languages>
@@ -10141,7 +10141,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|14 (+2)|11 (+0)| 4 (-3)|12 (+1)| 6 (-2)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10171,7 +10171,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|12 (+1)|12 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10197,9 +10197,9 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|16 (+3)| 8 (-1)| 2 (-4)|12 (+1)| 3 (-4)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -10228,9 +10228,9 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|10 (+0)| 4 (-3)|12 (+1)| 5 (-3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -10259,7 +10259,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|11 (+0)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10289,7 +10289,7 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|10 (+0)|15 (+2)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>13 (+1)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10325,9 +10325,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|15 (+2)|11 (+0)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -10358,7 +10358,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)| 8 (-1)|14 (+2)| 2 (-4)| 8 (-1)| 5 (-3)|
+|<Strength>16 (+3)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10384,9 +10384,9 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|15 (+2)|10 (+0)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -10415,7 +10415,7 @@ _Touché :_ 1 dégât tranchant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|15 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 4 (-3)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10447,7 +10447,7 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|16 (+3)|11 (+0)| 2 (-4)|12 (+1)| 6 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 18 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10479,7 +10479,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|13 (+1)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10508,10 +10508,10 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|17 (+3)| 8 (-1)|14 (+2)|10 (+0)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +7, Sag +5, Cha +3</SavingThrows>
-- **Compétences** <Abilities>[Perception] +6</Abilities>
+- **Compétences** <Skills>[Perception] +6</Skills>
 - **Résistance aux dégâts** <DamageResistances>nécrotiques</DamageResistances>
 - **Immunité aux dégâts** <DamageImmunities>poison</DamageImmunities>
 - **Immunité contre les états** <ConditionImmunities>[empoisonné], [charmé], [terrorisé] et [épuisé]</ConditionImmunities>
@@ -10548,7 +10548,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|12 (+1)|15 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10580,7 +10580,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10606,7 +10606,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|10 (+0)|12 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10632,7 +10632,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|10 (+0)|11 (+0)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>12 (+1)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10664,7 +10664,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|11 (+0)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10696,7 +10696,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|11 (+0)| 2 (-4)|14 (+2)| 5 (-3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10722,9 +10722,9 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|14 (+2)| 3 (-4)|13 (+1)| 6 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +5</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -10755,9 +10755,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|17 (+3)|12 (+1)|10 (+0)|13 (+1)|11 (+0)|
+|<Strength>12 (+1)</Strength>|<Dexterity>17 (+3)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>chien esquiveur, comprend le sylvestre mais ne peut pas le parler</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -10788,9 +10788,9 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (+4)|13 (+1)| 8 (-1)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength> 3 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +3</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -10821,9 +10821,9 @@ _Touché :_ 1 dégât tranchant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|15 (+2)|12 (+1)| 8 (-1)|13 (+1)|10 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +5</Skills>
 - **Sens** <Senses>vision dans le noir 36 m, [Perception passive] 15</Senses>
 - **Langues** <Languages>chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -10854,9 +10854,9 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|14 (+2)| 8 (-1)| 2 (-4)|12 (+1)| 6 (-2)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -10885,9 +10885,9 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +2</Skills>
 - **Sens** <Senses>vision aveugle 9 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -10916,9 +10916,9 @@ _Touché :_ 1 dégât contondant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|15 (+2)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
+|<Strength>13 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +4</Skills>
 - **Sens** <Senses>vision aveugle 9 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -10947,7 +10947,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|13 (+1)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength>15 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -10983,9 +10983,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétence** <Abilities>[Discrétion] +2</Abilities>
+- **Compétence** <Skills>[Discrétion] +2</Skills>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -11014,9 +11014,9 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasio
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 9 (-1)|17 (+3)| 2 (-4)|10 (+0)| 7 (-2)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +5</Skills>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -11051,7 +11051,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|10 (+0)|12 (+1)| 2 (-4)|10 (+0)| 6 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11085,9 +11085,9 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|16 (+3)|14 (+2)| 7 (-2)|14 (+2)|10 (+0)|
+|<Strength>19 (+4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -11120,7 +11120,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|22 (+6)| 9 (-1)|17 (+3)| 3 (-4)|11 (+0)| 6 (-2)|
+|<Strength>22 (+6)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11154,9 +11154,9 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|13 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>vision aveugle 36 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
@@ -11189,9 +11189,9 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|16 (+3)| 8 (-1)| 2 (-4)|14 (+2)| 6 (-2)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétence** <Abilities>[Perception] +4</Abilities>
+- **Compétence** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -11220,9 +11220,9 @@ _Touché :_ 1 dégât tranchant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)|10 (+0)| 3 (-4)|14 (+2)| 5 (-3)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -11253,9 +11253,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|14 (+2)|14 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Athlétisme] +5, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Athlétisme] +5, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -11286,9 +11286,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|13 (+1)| 8 (-1)| 1 (-5)| 8 (-1)| 3 (-4)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +1</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +1</Skills>
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (0 PX)</Challenge>
@@ -11313,9 +11313,9 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|13 (+1)|11 (+0)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength>12 (+1)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +2</Skills>
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -11350,7 +11350,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|10 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11375,9 +11375,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants et la cible doit effectuer un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)|10 (+0)| 2 (-4)|15 (+2)| 7 (-2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>Vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -11405,9 +11405,9 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|16 (+3)|13 (+1)| 8 (-1)|15 (+2)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>Vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>hibou géant, comprend le commun et l'aérien mais ne peut pas les parler</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -11442,7 +11442,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 1 (-5)|12 (+1)| 8 (-1)| 1 (-5)|10 (+0)| 2 (-4)|
+|<Strength> 1 (-5)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11466,7 +11466,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|15 (+2)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>12 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11498,9 +11498,9 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|13 (+1)|12 (+1)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -11529,9 +11529,9 @@ _Touché :_ 3 (1d6) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|14 (+2)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -11560,7 +11560,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)|10 (+0)| 1 (-5)| 8 (-1)| 3 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11586,7 +11586,7 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|12 (+1)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>15 (+2)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11612,9 +11612,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|13 (+1)| 3 (-4)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -11651,9 +11651,9 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|12 (+1)|15 (+2)|12 (+1)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength>12 (+1)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -11684,9 +11684,9 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|13 (+1)|14 (+2)| 7 (-2)|12 (+1)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +3, [Perception] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +3, [Perception] +5</Skills>
 - **Immunité contre les dégâts** <DamageImmunities>de froid</DamageImmunities>
 - **Sens** <Senses>[Perception passive] 15</Senses>
 - **Langues** <Languages>commun, géant, loup arctique</Languages>
@@ -11724,9 +11724,9 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|15 (+2)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -11757,7 +11757,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|24 (+7)| 9 (-1)|21 (+5)| 3 (-4)|11 (+0)| 6 (-2)|
+|<Strength>24 (+7)</Strength>|<Dexterity> 9 (-1)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11791,9 +11791,9 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|14 (+2)|12 (+1)| 3 (-4)|12 (+1)| 7 (-2)|
+|<Strength>13 (+1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -11822,7 +11822,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|14 (+2)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 9 m, [Perception passive] 8</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11848,7 +11848,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|10 (+0)|13 (+1)| 2 (-4)|10 (+0)| 5 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -11880,7 +11880,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 5 (-3)|15 (+2)|10 (+0)| 2 (-4)|12 (+1)| 4 (-3)|
+|<Strength> 5 (-3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
@@ -11916,9 +11916,9 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 6 (-2)|14 (+2)| 8 (-1)| 3 (-4)|12 (+1)| 6 (-2)|
+|<Strength> 6 (-2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +5</Abilities>
+- **Compétences** <Skills>[Perception] +5</Skills>
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
 - **Sens** <Senses>[Perception passive] 15</Senses>
@@ -11949,7 +11949,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
+|<Strength>13 (+1)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
@@ -11985,7 +11985,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 9 (-1)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength> 9 (-1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
@@ -12019,7 +12019,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|18 (+4)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
@@ -12051,7 +12051,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 3 (-4)|13 (+1)|10 (+0)| 1 (-5)| 7 (-2)| 1 (-5)|
+|<Strength> 3 (-4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 1 (-5)</Charisma>|
 
 - **Résistance aux dégâts** <DamageResistances>contondants, perforants et tranchants</DamageResistances>
 - **Immunité contre les états** <ConditionImmunities>[à terre], [charmé], [terrorisé], [empoigné], [étourdi], [entravé], [paralysé] et [pétrifié]</ConditionImmunities>
@@ -12100,9 +12100,9 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
+|<Strength>19 (+4)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -12137,9 +12137,9 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|14 (+2)| 2 (-4)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -12174,9 +12174,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|20 (+5)|10 (+0)|16 (+3)| 2 (-4)|13 (+1)| 7 (-2)|
+|<Strength>20 (+5)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -12211,9 +12211,9 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|15 (+2)|10 (+0)| 3 (-4)|14 (+2)| 7 (-2)|
+|<Strength>14 (+2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -12248,9 +12248,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|15 (+2)|11 (+0)| 3 (-4)|10 (+0)| 4 (-3)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Perception] +2</Skills>
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -12285,9 +12285,9 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|13 (+1)|13 (+1)| 4 (-3)|10 (+0)| 4 (-3)|
+|<Strength>17 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 4 (-3)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +5, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +5, [Perception] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -12324,7 +12324,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|16 (+3)| 9 (-1)| 1 (-5)| 7 (-2)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 8</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12356,7 +12356,7 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|13 (+1)| 2 (-4)|11 (+0)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12382,7 +12382,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 8 (-1)|10 (+0)|12 (+1)| 1 (-5)| 7 (-2)| 3 (-4)|
+|<Strength> 8 (-1)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 9 m, [Perception passive] 8</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12412,7 +12412,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)| 9 (-1)| 2 (-4)|10 (+0)| 4 (-3)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution> 9 (-1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 9 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12442,7 +12442,7 @@ _Touché :_ 1 dégât perforant.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|15 (+2)|11 (+0)| 2 (-4)|10 (+0)| 4 (-3)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12482,9 +12482,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|13 (+1)|15 (+2)| 1 (-5)|10 (+0)| 4 (-3)|
+|<Strength>18 (+4)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>vision aveugle 9 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -12515,9 +12515,9 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|14 (+2)|13 (+1)|13 (+1)| 1 (-5)|10 (+0)| 4 (-3)|
+|<Strength>14 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>vision aveugle 9 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -12548,9 +12548,9 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|11 (+0)|21 (+5)| 1 (-5)|10 (+0)| 5 (-3)|
+|<Strength>23 (+6)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>21 (+5)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>vision aveugle 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -12581,7 +12581,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
+|<Strength>21 (+5)</Strength>|<Dexterity> 8 (-1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 6 (-2)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12613,7 +12613,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)| 2 (-4)| 9 (-1)| 5 (-3)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12645,7 +12645,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|10 (+0)|16 (+3)| 2 (-4)| 7 (-2)| 5 (-3)|
+|<Strength>17 (+3)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom> 7 (-2)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 8</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12677,7 +12677,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|11 (+0)| 8 (-1)| 1 (-5)| 8 (-1)| 2 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution> 8 (-1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 8 (-1)</Wisdom>|<Charisma> 2 (-4)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 3 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12703,7 +12703,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|13 (+1)|15 (+2)| 1 (-5)| 9 (-1)| 3 (-4)|
+|<Strength>15 (+2)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom> 9 (-1)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 18 m, [Perception passive] 9</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12735,7 +12735,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength>15 (+2)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 3 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12765,9 +12765,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|19 (+4)|14 (+2)|12 (+1)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength>19 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>vision aveugle 3 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -12796,7 +12796,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 2 (-4)|16 (+3)|11 (+0)| 1 (-5)|10 (+0)| 3 (-4)|
+|<Strength> 2 (-4)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 1 (-5)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 3 m, [Perception passive] 10</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12822,9 +12822,9 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|18 (+4)|13 (+1)| 2 (-4)|10 (+0)| 3 (-4)|
+|<Strength>10 (+0)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma> 3 (-4)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>vision aveugle 3 m, [Perception passive] 12</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -12851,7 +12851,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 4 (-3)|18 (+4)|11 (+0)| 2 (-4)|12 (+1)| 5 (-3)|
+|<Strength> 4 (-3)</Strength>|<Dexterity>18 (+4)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 5 (-3)</Charisma>|
 
 - **Sens** <Senses>vision aveugle 3 m, [Perception passive] 11</Senses>
 - **Langues** <Languages>—</Languages>
@@ -12881,9 +12881,9 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|23 (+6)|14 (+2)|18 (+4)| 7 (-2)|12 (+1)| 7 (-2)|
+|<Strength>23 (+6)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>18 (+4)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Athlétisme] +9, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Athlétisme] +9, [Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>7 (2 900 PX)</Challenge>
@@ -12914,9 +12914,9 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|17 (+3)|15 (+2)|14 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
+|<Strength>17 (+3)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +3</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -12951,9 +12951,9 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|14 (+2)|15 (+2)| 3 (-4)|12 (+1)| 8 (-1)|
+|<Strength>18 (+4)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 3 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Perception] +3</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -12988,9 +12988,9 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 7 (-2)|10 (+0)|13 (+1)| 2 (-4)|12 (+1)| 4 (-3)|
+|<Strength> 7 (-2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 2 (-4)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 4 (-3)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>—</Languages>
 - **Dangerosité** <Challenge>0 (10 PX)</Challenge>
@@ -13021,9 +13021,9 @@ _Touché :_ 2 (1d4) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|10 (+0)|15 (+2)| 6 (-2)|12 (+1)| 7 (-2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>15 (+2)</Constitution>|<Intelligence> 6 (-2)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma> 7 (-2)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +3</Abilities>
+- **Compétences** <Skills>[Perception] +3</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>comprend le commun mais ne peut pas parler</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -13060,9 +13060,9 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|13 (+1)| 7 (-2)|11 (+0)| 8 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence> 7 (-2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +4</Abilities>
+- **Compétences** <Skills>[Perception] +4</Skills>
 - **Sens** <Senses>vision dans le noir 18 m, [Perception passive] 14</Senses>
 - **Langues** <Languages>gobelin, worg</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -13091,9 +13091,9 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|14 (+2)|11 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Médecine] +4, [Religion] +2</Abilities>
+- **Compétences** <Skills>[Médecine] +4, [Religion] +2</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>1/4 (50 PX)</Challenge>
@@ -13126,10 +13126,10 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|14 (+2)|12 (+1)|20 (+5)|15 (+2)|16 (+3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>20 (+5)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +9, Sag +6</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +13, [Histoire] +13</Abilities>
+- **Compétences** <Skills>[Arcanes] +13, [Histoire] +13</Skills>
 - **Résistance aux dégâts** <DamageResistances>des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)</DamageResistances>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>six langues au choix</Languages>
@@ -13185,10 +13185,10 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|16 (+3)|14 (+2)|13 (+1)|11 (+0)|10 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Dex +6, Int +4</SavingThrows>
-- **Compétences** <Abilities>[Acrobaties] +6, [Discrétion] +9, [Perception] +3, [Supercherie] +3</Abilities>
+- **Compétences** <Skills>[Acrobaties] +6, [Discrétion] +9, [Perception] +3, [Supercherie] +3</Skills>
 - **Résistance aux dégâts** <DamageResistances>de poison</DamageResistances>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>argot des voleurs plus deux autres langues au choix</Languages>
@@ -13228,7 +13228,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
@@ -13258,7 +13258,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|12 (+1)|17 (+3)| 9 (-1)|11 (+0)| 9 (-1)|
+|<Strength>16 (+3)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>17 (+3)</Constitution>|<Intelligence> 9 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 9 (-1)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
@@ -13288,10 +13288,10 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
+|<Strength>15 (+2)</Strength>|<Dexterity>16 (+3)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>14 (+2)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +4, Dex +5, Sag +2</SavingThrows>
-- **Compétences** <Abilities>[Athlétisme] +4, [Supercherie] +4</Abilities>
+- **Compétences** <Skills>[Athlétisme] +4, [Supercherie] +4</Skills>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>deux langues au choix</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -13326,7 +13326,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
+|<Strength>16 (+3)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Con +4, Sag +2</SavingThrows>
 - **Sens** <Senses>[Perception passive] 10</Senses>
@@ -13369,9 +13369,9 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|12 (+1)|13 (+1)|12 (+1)|15 (+2)|11 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>13 (+1)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>15 (+2)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Médecine] +4, [Nature] +3, [Perception] +4</Abilities>
+- **Compétences** <Skills>[Médecine] +4, [Nature] +3, [Perception] +4</Skills>
 - **Sens** <Senses>[Perception passive] 14</Senses>
 - **Langues** <Languages>langue des druides plus deux langues au choix</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -13406,9 +13406,9 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
+|<Strength>10 (+0)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>13 (+1)</Intelligence>|<Wisdom>16 (+3)</Wisdom>|<Charisma>13 (+1)</Charisma>|
 
-- **Compétences** <Abilities>[Médecine] +7, [Persuasion] +3, [Religion] +4</Abilities>
+- **Compétences** <Skills>[Médecine] +7, [Persuasion] +3, [Religion] +4</Skills>
 - **Sens** <Senses>[Perception passive] 13</Senses>
 - **Langues** <Languages>deux langues au choix</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -13449,9 +13449,9 @@ _Touché :_ 3 (1d6) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|14 (+2)|12 (+1)|11 (+0)|13 (+1)|11 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>11 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +6, [Nature] +4, [Perception] +5, [Survie] +5</Abilities>
+- **Compétences** <Skills>[Discrétion] +6, [Nature] +4, [Perception] +5, [Survie] +5</Skills>
 - **Sens** <Senses>[Perception passive] 15</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -13486,9 +13486,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|15 (+2)|10 (+0)|12 (+1)|14 (+2)|16 (+3)|
+|<Strength>10 (+0)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Compétences** <Abilities>[Discrétion] +4, [Investigation] +5, [Perception] +6, [Perspicacité] +4, [Persuasion] +5, [Supercherie] +5, [Escamotage] +4</Abilities>
+- **Compétences** <Skills>[Discrétion] +4, [Investigation] +5, [Perception] +6, [Perspicacité] +4, [Persuasion] +5, [Supercherie] +5, [Escamotage] +4</Skills>
 - **Sens** <Senses>[Perception passive] 16</Senses>
 - **Langues** <Languages>deux langues au choix</Languages>
 - **Dangerosité** <Challenge>1 (200 PX)</Challenge>
@@ -13525,9 +13525,9 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|14 (+2)|12 (+1)|10 (+0)|13 (+1)|14 (+2)|
+|<Strength>11 (+0)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>13 (+1)</Wisdom>|<Charisma>14 (+2)</Charisma>|
 
-- **Compétences** <Abilities>[Religion] +2, [Persuasion] +4, Supercherie +4</Abilities>
+- **Compétences** <Skills>[Religion] +2, [Persuasion] +4, Supercherie +4</Skills>
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>2 (450 PX)</Challenge>
@@ -13566,9 +13566,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|12 (+1)|12 (+1)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>13 (+1)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Perception] +2</Abilities>
+- **Compétences** <Skills>[Perception] +2</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -13593,10 +13593,10 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|18 (+4)|15 (+2)|16 (+3)|10 (+0)|12 (+1)|15 (+2)|
+|<Strength>18 (+4)</Strength>|<Dexterity>15 (+2)</Dexterity>|<Constitution>16 (+3)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>15 (+2)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>For +7, Dex +5, Con +6</SavingThrows>
-- **Compétences** <Abilities>[Athlétisme] +10, [Intimidation] +5</Abilities>
+- **Compétences** <Skills>[Athlétisme] +10, [Intimidation] +5</Skills>
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>5 (1 800 PX)</Challenge>
@@ -13639,7 +13639,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|13 (+1)|11 (+0)|12 (+1)| 8 (-1)|11 (+0)| 8 (-1)|
+|<Strength>13 (+1)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>12 (+1)</Constitution>|<Intelligence> 8 (-1)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma> 8 (-1)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue au choix</Languages>
@@ -13669,10 +13669,10 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-| 9 (-1)|14 (+2)|11 (+0)|17 (+3)|12 (+1)|11 (+0)|
+|<Strength> 9 (-1)</Strength>|<Dexterity>14 (+2)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>17 (+3)</Intelligence>|<Wisdom>12 (+1)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
 - **Jets de sauvegarde** <SavingThrows>Int +6, Sag +4</SavingThrows>
-- **Compétences** <Abilities>[Arcanes] +6, [Histoire] +6</Abilities>
+- **Compétences** <Skills>[Arcanes] +6, [Histoire] +6</Skills>
 - **Sens** <Senses>[Perception passive] 11</Senses>
 - **Langues** <Languages>quatre langues au choix</Languages>
 - **Dangerosité** <Challenge>6 (2 300 PX)</Challenge>
@@ -13713,9 +13713,9 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|11 (+0)|
+|<Strength>15 (+2)</Strength>|<Dexterity>11 (+0)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>11 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Intimidation] +2</Abilities>
+- **Compétences** <Skills>[Intimidation] +2</Skills>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>1/2 (100 PX)</Challenge>
@@ -13752,9 +13752,9 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|12 (+1)|10 (+0)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>11 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Religion] +2, Supercherie +2</Abilities>
+- **Compétences** <Skills>[Religion] +2, Supercherie +2</Skills>
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -13783,9 +13783,9 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|11 (+0)|12 (+1)|11 (+0)|12 (+1)|14 (+2)|16 (+3)|
+|<Strength>11 (+0)</Strength>|<Dexterity>12 (+1)</Dexterity>|<Constitution>11 (+0)</Constitution>|<Intelligence>12 (+1)</Intelligence>|<Wisdom>14 (+2)</Wisdom>|<Charisma>16 (+3)</Charisma>|
 
-- **Compétences** <Abilities>[Perspicacité] +4, [Persuasion] +5, Supercherie +5</Abilities>
+- **Compétences** <Skills>[Perspicacité] +4, [Persuasion] +5, Supercherie +5</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>deux langues au choix</Languages>
 - **Dangerosité** <Challenge>1/8 (25 PX)</Challenge>
@@ -13814,7 +13814,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+|<Strength>10 (+0)</Strength>|<Dexterity>10 (+0)</Dexterity>|<Constitution>10 (+0)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>10 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
 - **Sens** <Senses>[Perception passive] 10</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
@@ -13840,9 +13840,9 @@ _Touché :_ 2 (1d4) dégâts contondants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|16 (+3)|13 (+1)|14 (+2)|10 (+0)|11 (+0)|10 (+0)|
+|<Strength>16 (+3)</Strength>|<Dexterity>13 (+1)</Dexterity>|<Constitution>14 (+2)</Constitution>|<Intelligence>10 (+0)</Intelligence>|<Wisdom>11 (+0)</Wisdom>|<Charisma>10 (+0)</Charisma>|
 
-- **Compétences** <Abilities>[Athlétisme] +5, [Perception] +2</Abilities>
+- **Compétences** <Skills>[Athlétisme] +5, [Perception] +2</Skills>
 - **Sens** <Senses>[Perception passive] 12</Senses>
 - **Langues** <Languages>une langue au choix (commun le plus souvent)</Languages>
 - **Dangerosité** <Challenge>3 (700 PX)</Challenge>
