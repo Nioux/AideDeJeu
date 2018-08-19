@@ -372,6 +372,16 @@
                     this.stack.Children.Add(label);
 
                 }
+                else
+                {
+                    var test = "";
+                    // ?
+                }
+            }
+            else
+            {
+                var test = "";
+                // ?
             }
             // ?
         }
@@ -616,15 +626,15 @@
                     {
                         return new[]
                         {
-                        new Span()
-                        {
-                            Text="\r\n",
-                            FontSize = size,
-                            FontFamily = family,
-                            ForegroundColor = foregroundColor,
-                            BackgroundColor = backgroundColor
-                        },
-                    };
+                            new Span()
+                            {
+                                Text="\r\n",
+                                FontSize = size,
+                                FontFamily = family,
+                                ForegroundColor = foregroundColor,
+                                BackgroundColor = backgroundColor
+                            },
+                        };
                     }
                     return null;
 
