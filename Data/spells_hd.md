@@ -677,7 +677,7 @@ Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètre
 
 # <Name>Aura magique de l'arcaniste</Name>
 
-- SRD: <AltName>[Nystul's Magic Aura](spells_vo.md#nystuls-magic-aura)</AltName>
+- SRD: <AltName>[Arcanist's Magic Aura](spells_vo.md#arcanists-magic-aura)</AltName>
 
 - <Type>Illusion</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1583,7 +1583,7 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 
 # <Name>Chien de garde</Name>
 
-- SRD: <AltName>[Mordenkainen's Faithful Hound](spells_vo.md#mordenkainens-faithful-hound)</AltName>
+- SRD: <AltName>[Faithful Hound](spells_vo.md#faithful-hound)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1739,7 +1739,7 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 
 # <Name>Coffre secret</Name>
 
-- SRD: <AltName>[Leomund's Secret Chest](spells_vo.md#leomunds-secret-chest)</AltName>
+- SRD: <AltName>[Secret Chest](spells_vo.md#secret-chest)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -2410,7 +2410,7 @@ Vent
 
 # <Name>Convocations instantanées</Name>
 
-- SRD: <AltName>[Drawmij's Instant Summons](spells_vo.md#drawmijs-instant-summons)</AltName>
+- SRD: <AltName>[Instant Summons](spells_vo.md#instant-summons)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>6</Level> (<Ritual>rituel</Ritual>)
 - **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
@@ -2700,7 +2700,7 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 
 # <Name>Danse irrésistible</Name>
 
-- SRD: <AltName>[Otto's Irresistible Dance](spells_vo.md#ottos-irresistible-dance)</AltName>
+- SRD: <AltName>[Irresistible Dance](spells_vo.md#irresistible-dance)</AltName>
 
 - <Type>Enchantement</Type> de niveau <Level>6</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -2996,7 +2996,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 # <Name>Disque flottant</Name>
 
-- SRD: <AltName>[Tenser's Floating Disk](spells_vo.md#tensers-floating-disk)</AltName>
+- SRD: <AltName>[Floating Disk](spells_vo.md#floating-disk)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -3590,7 +3590,7 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 
 # <Name>Épée magique</Name>
 
-- SRD: <AltName>[Mordenkainen's Sword](spells_vo.md#mordenkainens-sword)</AltName>
+- SRD: <AltName>[Arcane Sword](spells_vo.md#arcane-sword)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>7</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -4032,7 +4032,7 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 
 # <Name>Flèche acide</Name>
 
-- SRD: <AltName>[Melf's Acid Arrow](spells_vo.md#melfs-acid-arrow)</AltName>
+- SRD: <AltName>[Acid Arrow](spells_vo.md#acid-arrow)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -4190,7 +4190,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 
 # <Name>Fou rire</Name>
 
-- SRD: <AltName>[Tasha's Hideous Laughter](spells_vo.md#tashas-hideous-laughter)</AltName>
+- SRD: <AltName>[Hideous Laughter](spells_vo.md#hideous-laughter)</AltName>
 
 - <Type>Enchantement</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -5622,7 +5622,7 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 
 # <Name>Lien télépathique</Name>
 
-- SRD: <AltName>[Rary's Telepathic Bond](spells_vo.md#rarys-telepathic-bond)</AltName>
+- SRD: <AltName>[Telepathic Bond](spells_vo.md#telepathic-bond)</AltName>
 
 - <Type>Divination</Type> de niveau <Level>5</Level> (<Ritual>rituel</Ritual>)
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -5884,7 +5884,7 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 
 # <Name>Main magique</Name>
 
-- SRD: <AltName>[Bigby's Hand](spells_vo.md#bigbys-hand)</AltName>
+- SRD: <AltName>[Arcane Hand](spells_vo.md#arcane-hand)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>5</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -5952,7 +5952,7 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 
 # <Name>Manoir somptueux</Name>
 
-- SRD: <AltName>[Mordenkainen's Magnificent Mansion](spells_vo.md#mordenkainens-magnificent-mansion)</AltName>
+- SRD: <AltName>[Magnificent Mansion](spells_vo.md#magnificent-mansion)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>7</Level>
 - **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
@@ -7266,7 +7266,7 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 
 # <Name>Petite hutte</Name>
 
-- SRD: <AltName>[Leomund's Tiny Hut](spells_vo.md#leomunds-tiny-hut)</AltName>
+- SRD: <AltName>[Tiny Hut](spells_vo.md#tiny-hut)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>3</Level> (<Ritual>rituel</Ritual>)
 - **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
@@ -8552,7 +8552,7 @@ Ce sort se termine si la créature protégée attaque ou lance un sort affectant
 
 # <Name>Sanctuaire privé</Name>
 
-- SRD: <AltName>[Mordenkainen's Private Sanctum](spells_vo.md#mordenkainens-private-sanctum)</AltName>
+- SRD: <AltName>[Private Sanctum](spells_vo.md#private-sanctum)</AltName>
 
 - <Type>Abjuration</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
@@ -8956,7 +8956,7 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 
 # <Name>Sphère glacée</Name>
 
-- SRD: <AltName>[Otiluke's Freezing Sphere](spells_vo.md#otilukes-freezing-sphere)</AltName>
+- SRD: <AltName>[Freezing Sphere](spells_vo.md#freezing-sphere)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>6</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -8990,7 +8990,7 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 
 # <Name>Sphère résiliente</Name>
 
-- SRD: <AltName>[Otiluke's Resilient Sphere](spells_vo.md#otilukes-resilient-sphere)</AltName>
+- SRD: <AltName>[Resilient Sphere](spells_vo.md#resilient-sphere)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -9428,7 +9428,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 
 # <Name>Tentacules noirs</Name>
 
-- SRD: <AltName>[Evard's Black Tentacles](spells_vo.md#evards-black-tentacles)</AltName>
+- SRD: <AltName>[Black Tentacles](spells_vo.md#black-tentacles)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
