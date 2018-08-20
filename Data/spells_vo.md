@@ -3,16 +3,16 @@
 
 # <Name>Spells (SRD p)</Name>
 
-- <AltName>[Sorts (H&D)](spells_hd.md)</AltName>
+- MDR: <AltName>[Sorts](spells_hd.md)</AltName>
 
 
 <Spell>
 
 # <Name>Acid Splash</Name>
 
-- <AltName>[Aspersion acide]</AltName>
+- MDR: <AltName>[Aspersion acide]</AltName>
 
-- LevelType: <Type>Conjuration</Type> <Level>cantrip</Level>
+- <Type>Conjuration</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -35,9 +35,9 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 # <Name>Aid</Name>
 
-- <AltName>[Aide]</AltName>
+- MDR: <AltName>[Aide]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>abjuration</Type>
+- <Level>2</Level>nd-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a tiny strip of white cloth)</Components>
@@ -60,9 +60,9 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 # <Name>Alarm</Name>
 
-- <AltName>[Alarme]</AltName>
+- MDR: <AltName>[Alarme]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>abjuration</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>abjuration</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a tiny bell and a piece of fine silver wire)</Components>
@@ -85,9 +85,9 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 # <Name>Alter Self</Name>
 
-- <AltName>[Modifier son apparence]</AltName>
+- MDR: <AltName>[Modifier son apparence]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -114,9 +114,9 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 # <Name>Animal Friendship</Name>
 
-- <AltName>[Amitié avec les animaux]</AltName>
+- MDR: <AltName>[Amitié avec les animaux]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a morsel of food)</Components>
@@ -139,9 +139,9 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 # <Name>Animal Messenger</Name>
 
-- <AltName>[Messager animal]</AltName>
+- MDR: <AltName>[Messager animal]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>enchantment</Type> (<Ritual>ritual</Ritual>)
+- <Level>2</Level>nd-level <Type>enchantment</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a morsel of food)</Components>
@@ -166,9 +166,9 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 # <Name>Animal Shapes</Name>
 
-- <AltName>[Formes animales]</AltName>
+- MDR: <AltName>[Formes animales]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>transmutation</Type>
+- <Level>8</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -193,9 +193,9 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 
 # <Name>Animate Dead</Name>
 
-- <AltName>[Animation des morts]</AltName>
+- MDR: <AltName>[Animation des morts]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>necromancy</Type>
+- <Level>3</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)</Components>
@@ -222,9 +222,9 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 # <Name>Animate Objects</Name>
 
-- <AltName>[Animation des objets]</AltName>
+- MDR: <AltName>[Animation des objets]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>transmutation</Type>
+- <Level>5</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -261,9 +261,9 @@ If you command an object to attack, it can make a single melee attack against a 
 
 # <Name>Antilife Shell</Name>
 
-- <AltName>[Coquille antivie]</AltName>
+- MDR: <AltName>[Coquille antivie]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>abjuration</Type>
+- <Level>5</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (10-foot radius)</Range>
 - **Components :** <Components>V, S</Components>
@@ -288,9 +288,9 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 # <Name>Antimagic Field</Name>
 
-- <AltName>[Champ antimagie]</AltName>
+- MDR: <AltName>[Champ antimagie]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>abjuration</Type>
+- <Level>8</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (10-foot-radius sphere)</Range>
 - **Components :** <Components>V, S, M (a pinch of powdered iron or iron filings)</Components>
@@ -329,9 +329,9 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 # <Name>Antipathy/Sympathy</Name>
 
-- <AltName>[Répulsion/attirance]</AltName>
+- MDR: <AltName>[Répulsion/attirance]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>enchantment</Type>
+- <Level>8</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)</Components>
@@ -362,9 +362,9 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 # <Name>Arcane Eye</Name>
 
-- <AltName>[Oeil magique]</AltName>
+- MDR: <AltName>[Oeil magique]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>divination</Type>
+- <Level>4</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a bit of bat fur)</Components>
@@ -389,9 +389,9 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 # <Name>Arcane Lock</Name>
 
-- <AltName>[Verrou magique]</AltName>
+- MDR: <AltName>[Verrou magique]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>abjuration</Type>
+- <Level>2</Level>nd-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (gold dust worth at least 25 gp, which the spell consumes)</Components>
@@ -414,9 +414,9 @@ While affected by this spell, the object is more difficult to break or force ope
 
 # <Name>Astral Projection</Name>
 
-- <AltName>[Projection astrale]</AltName>
+- MDR: <AltName>[Projection astrale]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>necromancy</Type>
+- <Level>9</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)</Components>
@@ -447,9 +447,9 @@ If you are returned to your body prematurely, your companions remain in their as
 
 # <Name>Augury</Name>
 
-- <AltName>[Augure]</AltName>
+- MDR: <AltName>[Augure]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>2</Level>nd-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)</Components>
@@ -482,9 +482,9 @@ If you cast the spell two or more times before completing your next long rest, t
 
 # <Name>Awaken</Name>
 
-- <AltName>[Éveil]</AltName>
+- MDR: <AltName>[Éveil]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>transmutation</Type>
+- <Level>5</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>8 hours</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (an agate worth at least 1,000 gp, which the spell consumes)</Components>
@@ -507,9 +507,9 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 # <Name>Bane</Name>
 
-- <AltName>[Fléau]</AltName>
+- MDR: <AltName>[Fléau]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a drop of blood)</Components>
@@ -532,9 +532,9 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 # <Name>Banishment</Name>
 
-- <AltName>[Bannissement]</AltName>
+- MDR: <AltName>[Bannissement]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>abjuration</Type>
+- <Level>4</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (an item distasteful to the target)</Components>
@@ -561,9 +561,9 @@ If the target is native to a different plane of existence than the one you're on
 
 # <Name>Barkskin</Name>
 
-- <AltName>[Peau d'écorce]</AltName>
+- MDR: <AltName>[Peau d'écorce]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a handful of oak bark)</Components>
@@ -584,9 +584,9 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 # <Name>Beacon of Hope</Name>
 
-- <AltName>[Lueur d'espoir]</AltName>
+- MDR: <AltName>[Lueur d'espoir]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -607,9 +607,9 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 # <Name>Bestow curse</Name>
 
-- <AltName>[Jeter une malédiction]</AltName>
+- MDR: <AltName>[Jeter une malédiction]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>necromancy</Type>
+- <Level>3</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -642,9 +642,9 @@ A _[remove curse]_ spell ends this effect. At the DM's option, you may choose an
 
 # <Name>Bigby's Hand</Name>
 
-- <AltName>[Main magique]</AltName>
+- MDR: <AltName>[Main magique]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (an eggshell and a snakeskin glove)</Components>
@@ -679,9 +679,9 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 # <Name>Blade Barrier</Name>
 
-- <AltName>[Barrière de lames]</AltName>
+- MDR: <AltName>[Barrière de lames]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -704,9 +704,9 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 # <Name>Bless</Name>
 
-- <AltName>[Bénédiction]</AltName>
+- MDR: <AltName>[Bénédiction]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a sprinkling of holy water)</Components>
@@ -729,9 +729,9 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 # <Name>Blight</Name>
 
-- <AltName>[Flétrissement]</AltName>
+- MDR: <AltName>[Flétrissement]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>necromancy</Type>
+- <Level>4</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -756,9 +756,9 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 # <Name>Blindness/Deafness</Name>
 
-- <AltName>[Cécité/Surdité]</AltName>
+- MDR: <AltName>[Cécité/Surdité]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>necromancy</Type>
+- <Level>2</Level>nd-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V</Components>
@@ -781,9 +781,9 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 # <Name>Blink</Name>
 
-- <AltName>[Clignotement]</AltName>
+- MDR: <AltName>[Clignotement]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -806,9 +806,9 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 # <Name>Blur</Name>
 
-- <AltName>[Flou]</AltName>
+- MDR: <AltName>[Flou]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>illusion</Type>
+- <Level>2</Level>nd-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -829,9 +829,9 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 # <Name>Branding Smite</Name>
 
-- <AltName>[Frappe lumineuse]</AltName>
+- MDR: <AltName>[Frappe lumineuse]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -854,9 +854,9 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 # <Name>Burning Hands</Name>
 
-- <AltName>[Mains brûlantes]</AltName>
+- MDR: <AltName>[Mains brûlantes]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (15-foot cone)</Range>
 - **Components :** <Components>V, S</Components>
@@ -881,9 +881,9 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 # <Name>Call Lightning</Name>
 
-- <AltName>[Appel de la foudre]</AltName>
+- MDR: <AltName>[Appel de la foudre]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>conjuration</Type>
+- <Level>3</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -910,9 +910,9 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 # <Name>Calm Emotions</Name>
 
-- <AltName>[Apaisement des émotions]</AltName>
+- MDR: <AltName>[Apaisement des émotions]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>enchantment</Type>
+- <Level>2</Level>nd-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -937,9 +937,9 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 # <Name>Chain Lightning</Name>
 
-- <AltName>[Chaîne d'éclairs]</AltName>
+- MDR: <AltName>[Chaîne d'éclairs]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)</Components>
@@ -964,9 +964,9 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 # <Name>Charm Person</Name>
 
-- <AltName>[Charme-personne]</AltName>
+- MDR: <AltName>[Charme-personne]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -989,9 +989,9 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 # <Name>Chill Touch</Name>
 
-- <AltName>[Contact glacial]</AltName>
+- MDR: <AltName>[Contact glacial]</AltName>
 
-- LevelType: <Type>Necromancy</Type> <Level>cantrip</Level>
+- <Type>Necromancy</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1014,9 +1014,9 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 # <Name>Circle of Death</Name>
 
-- <AltName>[Cercle de mort]</AltName>
+- MDR: <AltName>[Cercle de mort]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>necromancy</Type>
+- <Level>6</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (the powder of a crushed black pearl worth at least 500 gp)</Components>
@@ -1039,9 +1039,9 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 # <Name>Clairvoyance</Name>
 
-- <AltName>[Clairvoyance]</AltName>
+- MDR: <AltName>[Clairvoyance]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>divination</Type>
+- <Level>3</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>1 mile</Range>
 - **Components :** <Components>V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)</Components>
@@ -1066,9 +1066,9 @@ A creature that can see the sensor (such as a creature benefiting from _see invi
 
 # <Name>Clone</Name>
 
-- <AltName>[Clone]</AltName>
+- MDR: <AltName>[Clone]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>necromancy</Type>
+- <Level>8</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)</Components>
@@ -1093,9 +1093,9 @@ The clone is physically identical to the original and has the same personality, 
 
 # <Name>Cloudkill</Name>
 
-- <AltName>[Nuage mortel]</AltName>
+- MDR: <AltName>[Nuage mortel]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>conjuration</Type>
+- <Level>5</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1122,9 +1122,9 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 # <Name>Color Spray</Name>
 
-- <AltName>[Couleurs dansantes]</AltName>
+- MDR: <AltName>[Couleurs dansantes]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>illusion</Type>
+- <Level>1</Level>st-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (15-foot cone)</Range>
 - **Components :** <Components>V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)</Components>
@@ -1149,9 +1149,9 @@ Starting with the creature that has the lowest current hit points, each creature
 
 # <Name>Command</Name>
 
-- <AltName>[Injonction]</AltName>
+- MDR: <AltName>[Injonction]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -1186,9 +1186,9 @@ Some typical commands and their effects follow. You might issue a command other 
 
 # <Name>Commune</Name>
 
-- <AltName>[Communion]</AltName>
+- MDR: <AltName>[Communion]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (incense and a vial of holy or unholy water)</Components>
@@ -1213,9 +1213,9 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 # <Name>Commune with Nature</Name>
 
-- <AltName>[Communion avec la nature]</AltName>
+- MDR: <AltName>[Communion avec la nature]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -1250,9 +1250,9 @@ For example, you could determine the location of powerful undead in the area, th
 
 # <Name>Comprehend Languages</Name>
 
-- <AltName>[Compréhension des langues]</AltName>
+- MDR: <AltName>[Compréhension des langues]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a pinch of soot and salt)</Components>
@@ -1275,9 +1275,9 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 # <Name>Compulsion</Name>
 
-- <AltName>[Compulsion]</AltName>
+- MDR: <AltName>[Compulsion]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>enchantment</Type>
+- <Level>4</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1300,9 +1300,9 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 # <Name>Cone of Cold</Name>
 
-- <AltName>[Cône de froid]</AltName>
+- MDR: <AltName>[Cône de froid]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (60-foot cone)</Range>
 - **Components :** <Components>V, S, M (a small crystal or glass cone)</Components>
@@ -1327,9 +1327,9 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 # <Name>Confusion</Name>
 
-- <AltName>[Confusion]</AltName>
+- MDR: <AltName>[Confusion]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>enchantment</Type>
+- <Level>4</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (three nut shells)</Components>
@@ -1363,9 +1363,9 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 # <Name>Conjure Animals</Name>
 
-- <AltName>[Invoquer des animaux]</AltName>
+- MDR: <AltName>[Invoquer des animaux]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>conjuration</Type>
+- <Level>3</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1398,9 +1398,9 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
 
 # <Name>Conjure Celestial</Name>
 
-- <AltName>[Invoquer un céleste]</AltName>
+- MDR: <AltName>[Invoquer un céleste]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>conjuration</Type>
+- <Level>7</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1427,9 +1427,9 @@ The DM has the celestial's statistics.
 
 # <Name>Conjure Elemental</Name>
 
-- <AltName>[Invoquer un élémentaire]</AltName>
+- MDR: <AltName>[Invoquer un élémentaire]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>conjuration</Type>
+- <Level>5</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)</Components>
@@ -1454,9 +1454,9 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 
 # <Name>Conjure Fey</Name>
 
-- <AltName>[Invoquer une fée]</AltName>
+- MDR: <AltName>[Invoquer une fée]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type>
+- <Level>6</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1485,9 +1485,9 @@ The DM has the fey creature's statistics.
 
 # <Name>Conjure Minor Elementals</Name>
 
-- <AltName>[Invoquer des élémentaires mineurs]</AltName>
+- MDR: <AltName>[Invoquer des élémentaires mineurs]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1524,9 +1524,9 @@ The DM has the creatures' statistics.
 
 # <Name>Conjure Woodland Beings</Name>
 
-- <AltName>[Invoquer des êtres des bois]</AltName>
+- MDR: <AltName>[Invoquer des êtres des bois]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (one holly berry per creature summoned)</Components>
@@ -1563,9 +1563,9 @@ The DM has the creatures' statistics.
 
 # <Name>Contact Other Plane</Name>
 
-- <AltName>[Contacter un autre plan]</AltName>
+- MDR: <AltName>[Contacter un autre plan]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -1588,9 +1588,9 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 # <Name>Contagion</Name>
 
-- <AltName>[Contagion]</AltName>
+- MDR: <AltName>[Contagion]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>necromancy</Type>
+- <Level>5</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components></Components>
@@ -1629,9 +1629,9 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 # <Name>Contingency</Name>
 
-- <AltName>[Contingence]</AltName>
+- MDR: <AltName>[Contingence]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)</Components>
@@ -1656,9 +1656,9 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 # <Name>Continual Flame</Name>
 
-- <AltName>[Flamme éternelle]</AltName>
+- MDR: <AltName>[Flamme éternelle]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (ruby dust worth 50 gp, which the spell consumes)</Components>
@@ -1679,9 +1679,9 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 # <Name>Control Water</Name>
 
-- <AltName>[Contrôle de l'eau]</AltName>
+- MDR: <AltName>[Contrôle de l'eau]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>transmutation</Type>
+- <Level>4</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>300 feet</Range>
 - **Components :** <Components>V, S, M (a drop of water and a pinch of dust)</Components>
@@ -1714,9 +1714,9 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 # <Name>Control Weather</Name>
 
-- <AltName>[Contrôle du climat]</AltName>
+- MDR: <AltName>[Contrôle du climat]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>transmutation</Type>
+- <Level>8</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Self (5-mile radius)</Range>
 - **Components :** <Components>V, S, M (burning incense and bits of earth and wood mixed in water)</Components>
@@ -1771,9 +1771,9 @@ Wind
 
 # <Name>Counterspell</Name>
 
-- <AltName>[Contresort]</AltName>
+- MDR: <AltName>[Contresort]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 reaction, which you take when you see a creature within 60 feet of you casting a spell</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>S</Components>
@@ -1796,9 +1796,9 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 # <Name>Create Food and Water</Name>
 
-- <AltName>[Création de nourriture et d'eau]</AltName>
+- MDR: <AltName>[Création de nourriture et d'eau]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>conjuration</Type>
+- <Level>3</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -1819,9 +1819,9 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 # <Name>Create or Destroy Water</Name>
 
-- <AltName>[Création ou destruction d'eau]</AltName>
+- MDR: <AltName>[Création ou destruction d'eau]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type>
+- <Level>1</Level>st-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a drop of water if creating water or a few grains of sand if destroying it)</Components>
@@ -1848,9 +1848,9 @@ You either create or destroy water.
 
 # <Name>Create Undead</Name>
 
-- <AltName>[Création de mort-vivant]</AltName>
+- MDR: <AltName>[Création de mort-vivant]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>necromancy</Type>
+- <Level>6</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)</Components>
@@ -1877,9 +1877,9 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 # <Name>Creation</Name>
 
-- <AltName>[Création]</AltName>
+- MDR: <AltName>[Création]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>illusion</Type>
+- <Level>5</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a tiny piece of matter of the same type of the item you plan to create)</Components>
@@ -1914,9 +1914,9 @@ Using any material created by this spell as another spell's material component c
 
 # <Name>Cure Wounds</Name>
 
-- <AltName>[Soin des blessures]</AltName>
+- MDR: <AltName>[Soin des blessures]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -1939,9 +1939,9 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 # <Name>Dancing Lights</Name>
 
-- <AltName>[Lumières dansantes]</AltName>
+- MDR: <AltName>[Lumières dansantes]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a bit of phosphorus or wychwood, or a glowworm)</Components>
@@ -1964,9 +1964,9 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 # <Name>Darkness</Name>
 
-- <AltName>[Ténèbres]</AltName>
+- MDR: <AltName>[Ténèbres]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, M (bat fur and a drop of pitch or piece of coal)</Components>
@@ -1991,9 +1991,9 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 # <Name>Darkvision</Name>
 
-- <AltName>[Vision dans le noir]</AltName>
+- MDR: <AltName>[Vision dans le noir]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (either a pinch of dried carrot or an agate)</Components>
@@ -2014,9 +2014,9 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 # <Name>Daylight</Name>
 
-- <AltName>[Lumière du jour]</AltName>
+- MDR: <AltName>[Lumière du jour]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type>
+- <Level>3</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2041,9 +2041,9 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 # <Name>Death Ward</Name>
 
-- <AltName>[Protection contre la mort]</AltName>
+- MDR: <AltName>[Protection contre la mort]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>abjuration</Type>
+- <Level>4</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -2068,9 +2068,9 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 # <Name>Delayed Blast Fireball</Name>
 
-- <AltName>[Boule de feu à explosion retardée]</AltName>
+- MDR: <AltName>[Boule de feu à explosion retardée]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>evocation</Type>
+- <Level>7</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (a tiny ball of bat guano and sulfur)</Components>
@@ -2099,9 +2099,9 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 # <Name>Demiplane</Name>
 
-- <AltName>[Demi-plan]</AltName>
+- MDR: <AltName>[Demi-plan]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>conjuration</Type>
+- <Level>8</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>S</Components>
@@ -2124,9 +2124,9 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 # <Name>Detect Evil and Good</Name>
 
-- <AltName>[Détection du mal et du bien]</AltName>
+- MDR: <AltName>[Détection du mal et du bien]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type>
+- <Level>1</Level>st-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2149,9 +2149,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 # <Name>Detect Magic</Name>
 
-- <AltName>[Détection de la magie]</AltName>
+- MDR: <AltName>[Détection de la magie]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2174,9 +2174,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 # <Name>Detect Poison and Disease</Name>
 
-- <AltName>[Détection du poison et des maladies]</AltName>
+- MDR: <AltName>[Détection du poison et des maladies]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a yew leaf)</Components>
@@ -2199,9 +2199,9 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 # <Name>Detect Thoughts</Name>
 
-- <AltName>[Détection des pensées]</AltName>
+- MDR: <AltName>[Détection des pensées]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>divination</Type>
+- <Level>2</Level>nd-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a copper piece)</Components>
@@ -2230,9 +2230,9 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 # <Name>Dimension Door</Name>
 
-- <AltName>[Porte dimensionnelle]</AltName>
+- MDR: <AltName>[Porte dimensionnelle]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>500 feet</Range>
 - **Components :** <Components>V</Components>
@@ -2257,9 +2257,9 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 # <Name>Disguise Self</Name>
 
-- <AltName>[Déguisement]</AltName>
+- MDR: <AltName>[Déguisement]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>illusion</Type>
+- <Level>1</Level>st-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2284,9 +2284,9 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 # <Name>Disintegrate</Name>
 
-- <AltName>[Désintégration]</AltName>
+- MDR: <AltName>[Désintégration]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>transmutation</Type>
+- <Level>6</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a lodestone and a pinch of dust)</Components>
@@ -2315,9 +2315,9 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 # <Name>Dispel Evil and Good</Name>
 
-- <AltName>[Dissipation du mal et du bien]</AltName>
+- MDR: <AltName>[Dissipation du mal et du bien]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>abjuration</Type>
+- <Level>5</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (holy water or powdered silver and iron)</Components>
@@ -2344,9 +2344,9 @@ You can end the spell early by using either of the following special functions.
 
 # <Name>Dispel Magic</Name>
 
-- <AltName>[Dissipation de la magie]</AltName>
+- MDR: <AltName>[Dissipation de la magie]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2369,9 +2369,9 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 # <Name>Divination</Name>
 
-- <AltName>[Divination]</AltName>
+- MDR: <AltName>[Divination]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>4</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)</Components>
@@ -2396,9 +2396,9 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 # <Name>Divine Favor</Name>
 
-- <AltName>[Faveur divine]</AltName>
+- MDR: <AltName>[Faveur divine]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2419,9 +2419,9 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 # <Name>Divine Word</Name>
 
-- <AltName>[Parole divine]</AltName>
+- MDR: <AltName>[Parole divine]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>evocation</Type>
+- <Level>7</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V</Components>
@@ -2452,9 +2452,9 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 
 # <Name>Dominate Beast</Name>
 
-- <AltName>[Dominer une bête]</AltName>
+- MDR: <AltName>[Dominer une bête]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>enchantment</Type>
+- <Level>4</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2481,9 +2481,9 @@ You can use your action to take total and precise control of the target. Until t
 
 # <Name>Dominate Monster</Name>
 
-- <AltName>[Dominer un monstre]</AltName>
+- MDR: <AltName>[Dominer un monstre]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>enchantment</Type>
+- <Level>8</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2512,9 +2512,9 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 # <Name>Dominate Person</Name>
 
-- <AltName>[Dominer un humanoïde]</AltName>
+- MDR: <AltName>[Dominer un humanoïde]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>enchantment</Type>
+- <Level>5</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2545,9 +2545,9 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 
 # <Name>Drawmij's Instant Summons</Name>
 
-- <AltName>[Convocations instantanées]</AltName>
+- MDR: <AltName>[Convocations instantanées]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
+- <Level>6</Level>th-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a sapphire worth 1,000 gp)</Components>
@@ -2574,9 +2574,9 @@ _[dispel magic]_ or a similar effect successfully applied to the sapphire ends t
 
 # <Name>Dream</Name>
 
-- <AltName>[Rêve]</AltName>
+- MDR: <AltName>[Rêve]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>illusion</Type>
+- <Level>5</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Special</Range>
 - **Components :** <Components>V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)</Components>
@@ -2603,9 +2603,9 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 # <Name>Druidcraft</Name>
 
-- <AltName>[Druidisme]</AltName>
+- MDR: <AltName>[Druidisme]</AltName>
 
-- LevelType: <Type>Transmutation</Type> <Level>cantrip</Level>
+- <Type>Transmutation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2634,9 +2634,9 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 # <Name>Earthquake</Name>
 
-- <AltName>[Tremblement de terre]</AltName>
+- MDR: <AltName>[Tremblement de terre]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>evocation</Type>
+- <Level>8</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>500 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)</Components>
@@ -2669,9 +2669,9 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 # <Name>Eldritch Blast</Name>
 
-- <AltName>[Explosion occulte]</AltName>
+- MDR: <AltName>[Explosion occulte]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2694,9 +2694,9 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 # <Name>Enhance Ability</Name>
 
-- <AltName>[Amélioration de caractéristique]</AltName>
+- MDR: <AltName>[Amélioration de caractéristique]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (fur or a feather from a beast)</Components>
@@ -2731,9 +2731,9 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 # <Name>Enlarge/Reduce</Name>
 
-- <AltName>[Agrandir/Rétrécir]</AltName>
+- MDR: <AltName>[Agrandir/Rétrécir]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of powdered iron)</Components>
@@ -2760,9 +2760,9 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 # <Name>Entangle</Name>
 
-- <AltName>[Enchevêtrement]</AltName>
+- MDR: <AltName>[Enchevêtrement]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>conjuration</Type>
+- <Level>1</Level>st-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2787,9 +2787,9 @@ When the spell ends, the conjured plants wilt away.
 
 # <Name>Enthrall</Name>
 
-- <AltName>[Envoûtement]</AltName>
+- MDR: <AltName>[Envoûtement]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>enchantment</Type>
+- <Level>2</Level>nd-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2810,9 +2810,9 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 # <Name>Etherealness</Name>
 
-- <AltName>[Forme éthérée]</AltName>
+- MDR: <AltName>[Forme éthérée]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>transmutation</Type>
+- <Level>7</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2843,9 +2843,9 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 # <Name>Evard's Black Tentacles</Name>
 
-- <AltName>[Tentacules noirs]</AltName>
+- MDR: <AltName>[Tentacules noirs]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (a piece of tentacle from a giant octopus or a giant squid)</Components>
@@ -2870,9 +2870,9 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 # <Name>Expeditious Retreat</Name>
 
-- <AltName>[Repli expéditif]</AltName>
+- MDR: <AltName>[Repli expéditif]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type>
+- <Level>1</Level>st-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2893,9 +2893,9 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 # <Name>Eyebite</Name>
 
-- <AltName>[Mauvais oeil]</AltName>
+- MDR: <AltName>[Mauvais oeil]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>necromancy</Type>
+- <Level>6</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -2922,9 +2922,9 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 # <Name>Fabricate</Name>
 
-- <AltName>[Fabrication]</AltName>
+- MDR: <AltName>[Fabrication]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>transmutation</Type>
+- <Level>4</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -2949,9 +2949,9 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 
 # <Name>Faerie Fire</Name>
 
-- <AltName>[Lueurs féeriques]</AltName>
+- MDR: <AltName>[Lueurs féeriques]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -2974,9 +2974,9 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 # <Name>False Life</Name>
 
-- <AltName>[Simulacre de vie]</AltName>
+- MDR: <AltName>[Simulacre de vie]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>necromancy</Type>
+- <Level>1</Level>st-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a small amount of alcohol or distilled spirits)</Components>
@@ -2999,9 +2999,9 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 # <Name>Fear</Name>
 
-- <AltName>[Peur]</AltName>
+- MDR: <AltName>[Peur]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>illusion</Type>
+- <Level>3</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (30-foot cone)</Range>
 - **Components :** <Components>V, S, M (a white feather or the heart of a hen)</Components>
@@ -3022,9 +3022,9 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 # <Name>Feather Fall</Name>
 
-- <AltName>[Léger comme une plume]</AltName>
+- MDR: <AltName>[Léger comme une plume]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type>
+- <Level>1</Level>st-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 reaction, which you take when you or a creature within 60 feet of you falls</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, M (a small feather or piece of down)</Components>
@@ -3045,9 +3045,9 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 # <Name>Feeblemind</Name>
 
-- <AltName>[Esprit faible]</AltName>
+- MDR: <AltName>[Esprit faible]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>enchantment</Type>
+- <Level>8</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (a handful of clay, crystal, glass, or mineral spheres)</Components>
@@ -3074,9 +3074,9 @@ The spell can also be ended by _[greater restoration], [heal]_, or _[wish]_.
 
 # <Name>Find Familiar</Name>
 
-- <AltName>[Appel de familier]</AltName>
+- MDR: <AltName>[Appel de familier]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)</Components>
@@ -3109,9 +3109,9 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 # <Name>Find Steed</Name>
 
-- <AltName>[Trouver une monture]</AltName>
+- MDR: <AltName>[Trouver une monture]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>conjuration</Type>
+- <Level>2</Level>nd-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3140,9 +3140,9 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 # <Name>Find the Path</Name>
 
-- <AltName>[Trouver un chemin]</AltName>
+- MDR: <AltName>[Trouver un chemin]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>divination</Type>
+- <Level>6</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)</Components>
@@ -3165,9 +3165,9 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 # <Name>Find Traps</Name>
 
-- <AltName>[Trouver les pièges]</AltName>
+- MDR: <AltName>[Trouver les pièges]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>divination</Type>
+- <Level>2</Level>nd-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3190,9 +3190,9 @@ This spell merely reveals that a trap is present. You don't learn the location o
 
 # <Name>Finger of Death</Name>
 
-- <AltName>[Doigt de mort]</AltName>
+- MDR: <AltName>[Doigt de mort]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>necromancy</Type>
+- <Level>7</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3215,9 +3215,9 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 # <Name>Fire Bolt</Name>
 
-- <AltName>[Trait de feu]</AltName>
+- MDR: <AltName>[Trait de feu]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3240,9 +3240,9 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 # <Name>Fire Shield</Name>
 
-- <AltName>[Bouclier de feu]</AltName>
+- MDR: <AltName>[Bouclier de feu]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>evocation</Type>
+- <Level>4</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a bit of phosphorus or a firefly)</Components>
@@ -3267,9 +3267,9 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 # <Name>Fire Storm</Name>
 
-- <AltName>[Tempête de feu]</AltName>
+- MDR: <AltName>[Tempête de feu]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>evocation</Type>
+- <Level>7</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3292,9 +3292,9 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 # <Name>Fireball</Name>
 
-- <AltName>[Boule de feu]</AltName>
+- MDR: <AltName>[Boule de feu]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type>
+- <Level>3</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (a tiny ball of bat guano and sulfur)</Components>
@@ -3319,9 +3319,9 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 # <Name>Flame Blade</Name>
 
-- <AltName>[Lame de feu]</AltName>
+- MDR: <AltName>[Lame de feu]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (leaf of sumac)</Components>
@@ -3348,9 +3348,9 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 # <Name>Flame Strike</Name>
 
-- <AltName>[Colonne de flamme]</AltName>
+- MDR: <AltName>[Colonne de flamme]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (pinch of sulfur)</Components>
@@ -3373,9 +3373,9 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 # <Name>Flaming Sphere</Name>
 
-- <AltName>[Sphère de feu]</AltName>
+- MDR: <AltName>[Sphère de feu]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>conjuration</Type>
+- <Level>2</Level>nd-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)</Components>
@@ -3402,9 +3402,9 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 # <Name>Flesh to Stone</Name>
 
-- <AltName>[Pétrification]</AltName>
+- MDR: <AltName>[Pétrification]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>transmutation</Type>
+- <Level>6</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of lime, water, and earth)</Components>
@@ -3431,9 +3431,9 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 # <Name>Fly</Name>
 
-- <AltName>[Vol]</AltName>
+- MDR: <AltName>[Vol]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a wing feather from any bird)</Components>
@@ -3456,9 +3456,9 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 # <Name>Fog Cloud</Name>
 
-- <AltName>[Nappe de brouillard]</AltName>
+- MDR: <AltName>[Nappe de brouillard]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>conjuration</Type>
+- <Level>1</Level>st-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3481,9 +3481,9 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 # <Name>Forbiddance</Name>
 
-- <AltName>[Interdiction]</AltName>
+- MDR: <AltName>[Interdiction]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>abjuration</Type> (<Ritual>ritual</Ritual>)
+- <Level>6</Level>th-level <Type>abjuration</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)</Components>
@@ -3510,9 +3510,9 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 
 # <Name>Forcecage</Name>
 
-- <AltName>[Cage de force]</AltName>
+- MDR: <AltName>[Cage de force]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>evocation</Type>
+- <Level>7</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>100 feet</Range>
 - **Components :** <Components>V, S, M (ruby dust worth 1,500 gp)</Components>
@@ -3543,9 +3543,9 @@ This spell can't be dispelled by _[dispel magic]_.
 
 # <Name>Foresight</Name>
 
-- <AltName>[Prémonition]</AltName>
+- MDR: <AltName>[Prémonition]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>divination</Type>
+- <Level>9</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a hummingbird feather)</Components>
@@ -3568,9 +3568,9 @@ This spell immediately ends if you cast it again before its duration ends.
 
 # <Name>Freedom of Movement</Name>
 
-- <AltName>[Liberté de mouvement]</AltName>
+- MDR: <AltName>[Liberté de mouvement]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>abjuration</Type>
+- <Level>4</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a leather strap, bound around the arm or a similar appendage)</Components>
@@ -3593,9 +3593,9 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 # <Name>Gaseous Form</Name>
 
-- <AltName>[Forme gazeuse]</AltName>
+- MDR: <AltName>[Forme gazeuse]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a bit of gauze and a wisp of smoke)</Components>
@@ -3620,9 +3620,9 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 # <Name>Gate</Name>
 
-- <AltName>[Portail]</AltName>
+- MDR: <AltName>[Portail]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>conjuration</Type>
+- <Level>9</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a diamond worth at least 5,000 gp)</Components>
@@ -3649,9 +3649,9 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 # <Name>Geas</Name>
 
-- <AltName>[Coercition mystique]</AltName>
+- MDR: <AltName>[Coercition mystique]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>enchantment</Type>
+- <Level>5</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -3678,9 +3678,9 @@ You can end the spell early by using an action to dismiss it. A _[remove curse],
 
 # <Name>Gentle Repose</Name>
 
-- <AltName>[Doux repos]</AltName>
+- MDR: <AltName>[Doux repos]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>necromancy</Type> (<Ritual>ritual</Ritual>)
+- <Level>2</Level>nd-level <Type>necromancy</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration</Components>
@@ -3703,9 +3703,9 @@ The spell also effectively extends the time limit on raising the target from the
 
 # <Name>Giant Insect</Name>
 
-- <AltName>[Insecte géant]</AltName>
+- MDR: <AltName>[Insecte géant]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>transmutation</Type>
+- <Level>4</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -3732,9 +3732,9 @@ The DM might allow you to choose different targets. For example, if you transfor
 
 # <Name>Glibness</Name>
 
-- <AltName>[Bagou]</AltName>
+- MDR: <AltName>[Bagou]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>transmutation</Type>
+- <Level>8</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -3755,9 +3755,9 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 # <Name>Globe of Invulnerability</Name>
 
-- <AltName>[Globe d'invulnérabilité]</AltName>
+- MDR: <AltName>[Globe d'invulnérabilité]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>abjuration</Type>
+- <Level>6</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (10-foot radius)</Range>
 - **Components :** <Components>V, S, M (a glass or crystal bead that shatters when the spell ends)</Components>
@@ -3782,9 +3782,9 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 # <Name>Glyph of Warding</Name>
 
-- <AltName>[Glyphe de protection]</AltName>
+- MDR: <AltName>[Glyphe de protection]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)</Components>
@@ -3819,9 +3819,9 @@ When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
 # <Name>Goodberry</Name>
 
-- <AltName>[Baies nourricières]</AltName>
+- MDR: <AltName>[Baies nourricières]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type>
+- <Level>1</Level>st-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a sprig of mistletoe)</Components>
@@ -3844,9 +3844,9 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 # <Name>Grease</Name>
 
-- <AltName>[Graisse]</AltName>
+- MDR: <AltName>[Graisse]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>conjuration</Type>
+- <Level>1</Level>st-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a bit of pork rind or butter)</Components>
@@ -3869,9 +3869,9 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 # <Name>Greater Invisibility</Name>
 
-- <AltName>[Invisibilité supérieure]</AltName>
+- MDR: <AltName>[Invisibilité supérieure]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>illusion</Type>
+- <Level>4</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -3892,9 +3892,9 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 # <Name>Greater Restoration</Name>
 
-- <AltName>[Restauration supérieure]</AltName>
+- MDR: <AltName>[Restauration supérieure]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>abjuration</Type>
+- <Level>5</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (diamond dust worth at least 100 gp, which the spell consumes)</Components>
@@ -3923,9 +3923,9 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 # <Name>Guardian of Faith</Name>
 
-- <AltName>[Gardien de la foi]</AltName>
+- MDR: <AltName>[Gardien de la foi]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V</Components>
@@ -3948,9 +3948,9 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 # <Name>Guards and Wards</Name>
 
-- <AltName>[Protections et sceaux]</AltName>
+- MDR: <AltName>[Protections et sceaux]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>abjuration</Type>
+- <Level>6</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)</Components>
@@ -3997,9 +3997,9 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 # <Name>Guidance</Name>
 
-- <AltName>[Assistance]</AltName>
+- MDR: <AltName>[Assistance]</AltName>
 
-- LevelType: <Type>Divination</Type> <Level>cantrip</Level>
+- <Type>Divination</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -4020,9 +4020,9 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 # <Name>Guiding Bolt</Name>
 
-- <AltName>[Balisage]</AltName>
+- MDR: <AltName>[Balisage]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -4045,9 +4045,9 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 # <Name>Gust of Wind</Name>
 
-- <AltName>[Bourrasque]</AltName>
+- MDR: <AltName>[Bourrasque]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (60-foot line)</Range>
 - **Components :** <Components>V, S, M (a legume seed)</Components>
@@ -4074,9 +4074,9 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 # <Name>Hallow</Name>
 
-- <AltName>[Sanctification]</AltName>
+- MDR: <AltName>[Sanctification]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>24 hours</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)</Components>
@@ -4121,9 +4121,9 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 # <Name>Hallucinatory Terrain</Name>
 
-- <AltName>[Terrain hallucinatoire]</AltName>
+- MDR: <AltName>[Terrain hallucinatoire]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>illusion</Type>
+- <Level>4</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>300 feet</Range>
 - **Components :** <Components>V, S, M (a stone, a twig, and a bit of green plant)</Components>
@@ -4146,9 +4146,9 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 # <Name>Harm</Name>
 
-- <AltName>[Contamination]</AltName>
+- MDR: <AltName>[Contamination]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>necromancy</Type>
+- <Level>6</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -4169,9 +4169,9 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 # <Name>Haste</Name>
 
-- <AltName>[Hâte]</AltName>
+- MDR: <AltName>[Hâte]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a shaving of licorice root)</Components>
@@ -4194,9 +4194,9 @@ When the spell ends, the target can't move or take actions until after its next 
 
 # <Name>Heal</Name>
 
-- <AltName>[Guérison]</AltName>
+- MDR: <AltName>[Guérison]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -4219,9 +4219,9 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 # <Name>Healing Word</Name>
 
-- <AltName>[Mot de guérison]</AltName>
+- MDR: <AltName>[Mot de guérison]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -4244,9 +4244,9 @@ A creature of your choice that you can see within range regains hit points equal
 
 # <Name>Heat Metal</Name>
 
-- <AltName>[Chauffer le métal]</AltName>
+- MDR: <AltName>[Chauffer le métal]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a piece of iron and a flame)</Components>
@@ -4271,9 +4271,9 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 # <Name>Hellish Rebuke</Name>
 
-- <AltName>[Représailles infernales]</AltName>
+- MDR: <AltName>[Représailles infernales]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -4296,9 +4296,9 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 # <Name>Heroes' Feast</Name>
 
-- <AltName>[Festin des héros]</AltName>
+- MDR: <AltName>[Festin des héros]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type>
+- <Level>6</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)</Components>
@@ -4321,9 +4321,9 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 # <Name>Heroism</Name>
 
-- <AltName>[Héroïsme]</AltName>
+- MDR: <AltName>[Héroïsme]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -4346,9 +4346,9 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 # <Name>Hold Monster</Name>
 
-- <AltName>[Immobiliser un monstre]</AltName>
+- MDR: <AltName>[Immobiliser un monstre]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>enchantment</Type>
+- <Level>5</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (a small, straight piece of iron)</Components>
@@ -4371,9 +4371,9 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 # <Name>Hold Person</Name>
 
-- <AltName>[Immobiliser un humanoïde]</AltName>
+- MDR: <AltName>[Immobiliser un humanoïde]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>enchantment</Type>
+- <Level>2</Level>nd-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a small, straight piece of iron)</Components>
@@ -4396,9 +4396,9 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 # <Name>Holy Aura</Name>
 
-- <AltName>[Aura sacrée]</AltName>
+- MDR: <AltName>[Aura sacrée]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>abjuration</Type>
+- <Level>8</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)</Components>
@@ -4419,9 +4419,9 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 # <Name>Hunter's Mark</Name>
 
-- <AltName>[Marque du chasseur]</AltName>
+- MDR: <AltName>[Marque du chasseur]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type>
+- <Level>1</Level>st-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V</Components>
@@ -4444,9 +4444,9 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 # <Name>Hypnotic Pattern</Name>
 
-- <AltName>[Motif hypnotique]</AltName>
+- MDR: <AltName>[Motif hypnotique]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>illusion</Type>
+- <Level>3</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)</Components>
@@ -4467,9 +4467,9 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 # <Name>Ice Storm</Name>
 
-- <AltName>[Tempête de grêle]</AltName>
+- MDR: <AltName>[Tempête de grêle]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>evocation</Type>
+- <Level>4</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>300 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of dust and a few drops of water)</Components>
@@ -4494,9 +4494,9 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 # <Name>Identify</Name>
 
-- <AltName>[Identification]</AltName>
+- MDR: <AltName>[Identification]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a pearl worth at least 100 gp and an owl feather)</Components>
@@ -4519,9 +4519,9 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 # <Name>Illusory Script</Name>
 
-- <AltName>[Texte illusoire]</AltName>
+- MDR: <AltName>[Texte illusoire]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>S, M (a lead-based ink worth at least 10 gp, which the spell consumes)</Components>
@@ -4548,9 +4548,9 @@ A creature with truesight can read the hidden message.
 
 # <Name>Imprisonment</Name>
 
-- <AltName>[Emprisonnement]</AltName>
+- MDR: <AltName>[Emprisonnement]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>abjuration</Type>
+- <Level>9</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)</Components>
@@ -4599,9 +4599,9 @@ You can use a particular special component to create only one prison at a time. 
 
 # <Name>Incendiary Cloud</Name>
 
-- <AltName>[Nuage incendiaire]</AltName>
+- MDR: <AltName>[Nuage incendiaire]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>conjuration</Type>
+- <Level>8</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -4626,9 +4626,9 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 # <Name>Inflict Wounds</Name>
 
-- <AltName>[Blessure]</AltName>
+- MDR: <AltName>[Blessure]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>necromancy</Type>
+- <Level>1</Level>st-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -4651,9 +4651,9 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 # <Name>Insect Plague</Name>
 
-- <AltName>[Fléau d'insectes]</AltName>
+- MDR: <AltName>[Fléau d'insectes]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>conjuration</Type>
+- <Level>5</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>300 feet</Range>
 - **Components :** <Components>V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)</Components>
@@ -4678,9 +4678,9 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 # <Name>Invisibility</Name>
 
-- <AltName>[Invisibilité]</AltName>
+- MDR: <AltName>[Invisibilité]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>illusion</Type>
+- <Level>2</Level>nd-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (an eyelash encased in gum arabic)</Components>
@@ -4703,9 +4703,9 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 # <Name>Jump</Name>
 
-- <AltName>[Saut]</AltName>
+- MDR: <AltName>[Saut]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type>
+- <Level>1</Level>st-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a grasshopper's hind leg)</Components>
@@ -4726,9 +4726,9 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 # <Name>Knock</Name>
 
-- <AltName>[Déblocage]</AltName>
+- MDR: <AltName>[Déblocage]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -4755,9 +4755,9 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 # <Name>Legend Lore</Name>
 
-- <AltName>[Légende]</AltName>
+- MDR: <AltName>[Légende]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>divination</Type>
+- <Level>5</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)</Components>
@@ -4780,9 +4780,9 @@ The information you learn is accurate but might be couched in figurative languag
 
 # <Name>Leomund's Secret Chest</Name>
 
-- <AltName>[Coffre secret]</AltName>
+- MDR: <AltName>[Coffre secret]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)</Components>
@@ -4807,9 +4807,9 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 # <Name>Leomund's Tiny Hut</Name>
 
-- <AltName>[Petite hutte]</AltName>
+- MDR: <AltName>[Petite hutte]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type> (<Ritual>ritual</Ritual>)
+- <Level>3</Level>th-level <Type>evocation</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self (10-foot-radius hemisphere)</Range>
 - **Components :** <Components>V, S, M (a small crystal bead)</Components>
@@ -4834,9 +4834,9 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 # <Name>Lesser Restoration</Name>
 
-- <AltName>[Restauration inférieure]</AltName>
+- MDR: <AltName>[Restauration inférieure]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>abjuration</Type>
+- <Level>2</Level>nd-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -4857,9 +4857,9 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 # <Name>Levitate</Name>
 
-- <AltName>[Lévitation]</AltName>
+- MDR: <AltName>[Lévitation]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)</Components>
@@ -4884,9 +4884,9 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 # <Name>Light</Name>
 
-- <AltName>[Lumière]</AltName>
+- MDR: <AltName>[Lumière]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, M (a firefly or phosphorescent moss)</Components>
@@ -4909,9 +4909,9 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 # <Name>Lightning Bolt</Name>
 
-- <AltName>[Éclair]</AltName>
+- MDR: <AltName>[Éclair]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type>
+- <Level>3</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (100-foot line)</Range>
 - **Components :** <Components>V, S, M (a bit of fur and a rod of amber, crystal, or glass)</Components>
@@ -4936,9 +4936,9 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 # <Name>Locate Animals or Plants</Name>
 
-- <AltName>[Localiser des animaux ou des plantes]</AltName>
+- MDR: <AltName>[Localiser des animaux ou des plantes]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>2</Level>nd-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a bit of fur from a bloodhound)</Components>
@@ -4959,9 +4959,9 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 # <Name>Locate Creature</Name>
 
-- <AltName>[Localiser une créature]</AltName>
+- MDR: <AltName>[Localiser une créature]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>divination</Type>
+- <Level>4</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a bit of fur from a bloodhound)</Components>
@@ -4986,9 +4986,9 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 # <Name>Locate Object</Name>
 
-- <AltName>[Localiser un objet]</AltName>
+- MDR: <AltName>[Localiser un objet]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>divination</Type>
+- <Level>2</Level>nd-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a forked twig)</Components>
@@ -5013,9 +5013,9 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 # <Name>Longstrider</Name>
 
-- <AltName>[Grande foulée]</AltName>
+- MDR: <AltName>[Grande foulée]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type>
+- <Level>1</Level>st-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a pinch of dirt)</Components>
@@ -5038,9 +5038,9 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 # <Name>Mage Armor</Name>
 
-- <AltName>[Armure du mage]</AltName>
+- MDR: <AltName>[Armure du mage]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>abjuration</Type>
+- <Level>1</Level>st-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a piece of cured leather)</Components>
@@ -5061,9 +5061,9 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 # <Name>Mage Hand</Name>
 
-- <AltName>[Main du mage]</AltName>
+- MDR: <AltName>[Main du mage]</AltName>
 
-- LevelType: <Type>Conjuration</Type> <Level>cantrip</Level>
+- <Type>Conjuration</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -5088,9 +5088,9 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 # <Name>Magic Circle</Name>
 
-- <AltName>[Cercle magique]</AltName>
+- MDR: <AltName>[Cercle magique]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)</Components>
@@ -5123,9 +5123,9 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 # <Name>Magic Jar</Name>
 
-- <AltName>[Possession]</AltName>
+- MDR: <AltName>[Possession]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>necromancy</Type>
+- <Level>6</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)</Components>
@@ -5158,9 +5158,9 @@ When the spell ends, the container is destroyed.
 
 # <Name>Magic Missile</Name>
 
-- <AltName>[Projectile magique]</AltName>
+- MDR: <AltName>[Projectile magique]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -5183,9 +5183,9 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 # <Name>Magic Mouth</Name>
 
-- <AltName>[Bouche magique]</AltName>
+- MDR: <AltName>[Bouche magique]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
+- <Level>2</Level>nd-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)</Components>
@@ -5210,9 +5210,9 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 # <Name>Magic Weapon</Name>
 
-- <AltName>[Arme magique]</AltName>
+- MDR: <AltName>[Arme magique]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -5235,9 +5235,9 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 # <Name>Major Image</Name>
 
-- <AltName>[Image majeure]</AltName>
+- MDR: <AltName>[Image majeure]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>illusion</Type>
+- <Level>3</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a bit of fleece)</Components>
@@ -5264,9 +5264,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # <Name>Mass Cure Wounds</Name>
 
-- <AltName>[Soin des blessures de groupe]</AltName>
+- MDR: <AltName>[Soin des blessures de groupe]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -5289,9 +5289,9 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 # <Name>Mass Heal</Name>
 
-- <AltName>[Guérison de groupe]</AltName>
+- MDR: <AltName>[Guérison de groupe]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>evocation</Type>
+- <Level>9</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -5312,9 +5312,9 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 # <Name>Mass Healing Word</Name>
 
-- <AltName>[Mot de guérison de groupe]</AltName>
+- MDR: <AltName>[Mot de guérison de groupe]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type>
+- <Level>3</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -5337,9 +5337,9 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 # <Name>Mass Suggestion</Name>
 
-- <AltName>[Suggestion de groupe]</AltName>
+- MDR: <AltName>[Suggestion de groupe]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>enchantment</Type>
+- <Level>6</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)</Components>
@@ -5368,9 +5368,9 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 # <Name>Maze</Name>
 
-- <AltName>[Labyrinthe]</AltName>
+- MDR: <AltName>[Labyrinthe]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>conjuration</Type>
+- <Level>8</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -5395,9 +5395,9 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 # <Name>Meld into Stone</Name>
 
-- <AltName>[Fusion dans la pierre]</AltName>
+- MDR: <AltName>[Fusion dans la pierre]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
+- <Level>3</Level>th-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -5422,9 +5422,9 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 # <Name>Melf's Acid Arrow</Name>
 
-- <AltName>[Flèche acide]</AltName>
+- MDR: <AltName>[Flèche acide]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (powdered rhubarb leaf and an adder's stomach)</Components>
@@ -5447,9 +5447,9 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 # <Name>Mending</Name>
 
-- <AltName>[Réparation]</AltName>
+- MDR: <AltName>[Réparation]</AltName>
 
-- LevelType: <Type>Transmutation</Type> <Level>cantrip</Level>
+- <Type>Transmutation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (two lodestones)</Components>
@@ -5470,9 +5470,9 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 # <Name>Message</Name>
 
-- <AltName>[Message]</AltName>
+- MDR: <AltName>[Message]</AltName>
 
-- LevelType: <Type>Transmutation</Type> <Level>cantrip</Level>
+- <Type>Transmutation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a short piece of copper wire)</Components>
@@ -5495,9 +5495,9 @@ You can cast this spell through solid objects if you re familiar with the target
 
 # <Name>Meteor Swarm</Name>
 
-- <AltName>[Nuée de météores]</AltName>
+- MDR: <AltName>[Nuée de météores]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>evocation</Type>
+- <Level>9</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>1 mile</Range>
 - **Components :** <Components>V, S</Components>
@@ -5520,9 +5520,9 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 # <Name>Mind Blank</Name>
 
-- <AltName>[Esprit impénétrable]</AltName>
+- MDR: <AltName>[Esprit impénétrable]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>abjuration</Type>
+- <Level>8</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -5543,9 +5543,9 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 # <Name>Minor Illusion</Name>
 
-- <AltName>[Illusion mineure]</AltName>
+- MDR: <AltName>[Illusion mineure]</AltName>
 
-- LevelType: <Type>Illusion</Type> <Level>cantrip</Level>
+- <Type>Illusion</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>S, M (a bit of fleece)</Components>
@@ -5572,9 +5572,9 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 # <Name>Mirage Arcane</Name>
 
-- <AltName>[Mirage]</AltName>
+- MDR: <AltName>[Mirage]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>illusion</Type>
+- <Level>7</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Sight</Range>
 - **Components :** <Components>V, S</Components>
@@ -5601,9 +5601,9 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 # <Name>Mirror Image</Name>
 
-- <AltName>[Image miroir]</AltName>
+- MDR: <AltName>[Image miroir]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>illusion</Type>
+- <Level>2</Level>nd-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -5632,9 +5632,9 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 # <Name>Mislead</Name>
 
-- <AltName>[Tromperie]</AltName>
+- MDR: <AltName>[Tromperie]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>illusion</Type>
+- <Level>5</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>S</Components>
@@ -5659,9 +5659,9 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 # <Name>Misty Step</Name>
 
-- <AltName>[Pas brumeux]</AltName>
+- MDR: <AltName>[Pas brumeux]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>conjuration</Type>
+- <Level>2</Level>nd-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -5682,9 +5682,9 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 # <Name>Modify Memory</Name>
 
-- <AltName>[Modification de mémoire]</AltName>
+- MDR: <AltName>[Modification de mémoire]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>enchantment</Type>
+- <Level>5</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -5715,9 +5715,9 @@ A _[remove curse]_ or _[greater restoration]_ spell cast on the target restores 
 
 # <Name>Moonbeam</Name>
 
-- <AltName>[Rayon de lune]</AltName>
+- MDR: <AltName>[Rayon de lune]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)</Components>
@@ -5746,9 +5746,9 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 # <Name>Mordenkainen's Faithful Hound</Name>
 
-- <AltName>[Chien de garde]</AltName>
+- MDR: <AltName>[Chien de garde]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>conjuration</Type>
+- <Level>4</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a tiny silver whistle, a piece of bone, and a thread)</Components>
@@ -5773,9 +5773,9 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 # <Name>Mordenkainen's Magnificent Mansion</Name>
 
-- <AltName>[Manoir somptueux]</AltName>
+- MDR: <AltName>[Manoir somptueux]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>conjuration</Type>
+- <Level>7</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>300 feet</Range>
 - **Components :** <Components>V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)</Components>
@@ -5800,9 +5800,9 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 # <Name>Mordenkainen's Private Sanctum</Name>
 
-- <AltName>[Sanctuaire privé]</AltName>
+- MDR: <AltName>[Sanctuaire privé]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>abjuration</Type>
+- <Level>4</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)</Components>
@@ -5841,9 +5841,9 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 # <Name>Mordenkainen's Sword</Name>
 
-- <AltName>[Épée magique]</AltName>
+- MDR: <AltName>[Épée magique]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>evocation</Type>
+- <Level>7</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)</Components>
@@ -5866,9 +5866,9 @@ When the sword appears, you make a melee spell attack against a target of your c
 
 # <Name>Move Earth</Name>
 
-- <AltName>[Déplacer la terre]</AltName>
+- MDR: <AltName>[Déplacer la terre]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>transmutation</Type>
+- <Level>6</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)</Components>
@@ -5897,9 +5897,9 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 # <Name>Nondetection</Name>
 
-- <AltName>[Non-détection]</AltName>
+- MDR: <AltName>[Non-détection]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)</Components>
@@ -5920,9 +5920,9 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 # <Name>Nystul's Magic Aura</Name>
 
-- <AltName>[Aura magique de l'arcaniste]</AltName>
+- MDR: <AltName>[Aura magique de l'arcaniste]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>illusion</Type>
+- <Level>2</Level>nd-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a small square of silk)</Components>
@@ -5949,9 +5949,9 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 # <Name>Otiluke's Freezing Sphere</Name>
 
-- <AltName>[Sphère glacée]</AltName>
+- MDR: <AltName>[Sphère glacée]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>300 feet</Range>
 - **Components :** <Components>V, S, M (a small crystal sphere</Components>
@@ -5978,9 +5978,9 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 # <Name>Otiluke's Resilient Sphere</Name>
 
-- <AltName>[Sphère résiliente]</AltName>
+- MDR: <AltName>[Sphère résiliente]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>evocation</Type>
+- <Level>4</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)</Components>
@@ -6007,9 +6007,9 @@ A _[disintegrate]_ spell targeting the globe destroys it without harming anythin
 
 # <Name>Otto's Irresistible Dance</Name>
 
-- <AltName>[Danse irrésistible]</AltName>
+- MDR: <AltName>[Danse irrésistible]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>enchantment</Type>
+- <Level>6</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V</Components>
@@ -6032,9 +6032,9 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 # <Name>Pass without Trace</Name>
 
-- <AltName>[Passage sans trace]</AltName>
+- MDR: <AltName>[Passage sans trace]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>abjuration</Type>
+- <Level>2</Level>nd-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)</Components>
@@ -6055,9 +6055,9 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 # <Name>Passwall</Name>
 
-- <AltName>[Passe-muraille]</AltName>
+- MDR: <AltName>[Passe-muraille]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>transmutation</Type>
+- <Level>5</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of sesame seeds)</Components>
@@ -6080,9 +6080,9 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 # <Name>Phantasmal Killer</Name>
 
-- <AltName>[Assassin imaginaire]</AltName>
+- MDR: <AltName>[Assassin imaginaire]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>illusion</Type>
+- <Level>4</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6105,9 +6105,9 @@ You tap into the nightmares of a creature you can see within range and create an
 
 # <Name>Phantom Steed</Name>
 
-- <AltName>[Monture fantôme]</AltName>
+- MDR: <AltName>[Monture fantôme]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
+- <Level>3</Level>th-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6130,9 +6130,9 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 # <Name>Planar Ally</Name>
 
-- <AltName>[Allié planaire]</AltName>
+- MDR: <AltName>[Allié planaire]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type>
+- <Level>6</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6165,9 +6165,9 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 # <Name>Planar Binding</Name>
 
-- <AltName>[Entrave planaire]</AltName>
+- MDR: <AltName>[Entrave planaire]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>abjuration</Type>
+- <Level>5</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)</Components>
@@ -6192,9 +6192,9 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 # <Name>Plane Shift</Name>
 
-- <AltName>[Changement de plan]</AltName>
+- MDR: <AltName>[Changement de plan]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>conjuration</Type>
+- <Level>7</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)</Components>
@@ -6219,9 +6219,9 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 # <Name>Plant Growth</Name>
 
-- <AltName>[Croissance végétale]</AltName>
+- MDR: <AltName>[Croissance végétale]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action or 8 hours</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6248,9 +6248,9 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 # <Name>Poison Spray</Name>
 
-- <AltName>[Bouffée de poison]</AltName>
+- MDR: <AltName>[Bouffée de poison]</AltName>
 
-- LevelType: <Type>Conjuration</Type> <Level>cantrip</Level>
+- <Type>Conjuration</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6273,9 +6273,9 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 # <Name>Polymorph</Name>
 
-- <AltName>[Métamorphose]</AltName>
+- MDR: <AltName>[Métamorphose]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>transmutation</Type>
+- <Level>4</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a caterpillar cocoon)</Components>
@@ -6304,9 +6304,9 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 # <Name>Power Word Kill</Name>
 
-- <AltName>[Mot de pouvoir mortel]</AltName>
+- MDR: <AltName>[Mot de pouvoir mortel]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>enchantment</Type>
+- <Level>9</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -6327,9 +6327,9 @@ You utter a word of power that can compel one creature you can see within range 
 
 # <Name>Power Word Stun</Name>
 
-- <AltName>[Mot de pouvoir étourdissant]</AltName>
+- MDR: <AltName>[Mot de pouvoir étourdissant]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>enchantment</Type>
+- <Level>8</Level>th-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -6352,9 +6352,9 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 # <Name>Prayer of Healing</Name>
 
-- <AltName>[Prière de soins]</AltName>
+- MDR: <AltName>[Prière de soins]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V</Components>
@@ -6377,9 +6377,9 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 # <Name>Prestidigitation</Name>
 
-- <AltName>[Prestidigitation]</AltName>
+- MDR: <AltName>[Prestidigitation]</AltName>
 
-- LevelType: <Type>Transmutation</Type> <Level>cantrip</Level>
+- <Type>Transmutation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6414,9 +6414,9 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 # <Name>Prismatic Spray</Name>
 
-- <AltName>[Embruns prismatiques]</AltName>
+- MDR: <AltName>[Embruns prismatiques]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>evocation</Type>
+- <Level>7</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (60-foot cone)</Range>
 - **Components :** <Components>V, S</Components>
@@ -6453,9 +6453,9 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 # <Name>Prismatic Wall</Name>
 
-- <AltName>[Mur prismatique]</AltName>
+- MDR: <AltName>[Mur prismatique]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>abjuration</Type>
+- <Level>9</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6498,9 +6498,9 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 # <Name>Produce Flame</Name>
 
-- <AltName>[Produire une flamme]</AltName>
+- MDR: <AltName>[Produire une flamme]</AltName>
 
-- LevelType: <Type>Conjuration</Type> <Level>cantrip</Level>
+- <Type>Conjuration</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -6525,9 +6525,9 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 # <Name>Programmed Illusion</Name>
 
-- <AltName>[Illusion programmée]</AltName>
+- MDR: <AltName>[Illusion programmée]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>illusion</Type>
+- <Level>6</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a bit of fleece and jade dust worth at least 25 gp)</Components>
@@ -6554,9 +6554,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # <Name>Project Image</Name>
 
-- <AltName>[Image projetée]</AltName>
+- MDR: <AltName>[Image projetée]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>illusion</Type>
+- <Level>7</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>500 miles</Range>
 - **Components :** <Components>V, S, M (a small replica of you made from materials worth at least 5 gp)</Components>
@@ -6583,9 +6583,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # <Name>Protection from Energy</Name>
 
-- <AltName>[Protection contre les énergies]</AltName>
+- MDR: <AltName>[Protection contre les énergies]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -6606,9 +6606,9 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 # <Name>Protection from Evil and Good</Name>
 
-- <AltName>[Protection contre le mal et le bien]</AltName>
+- MDR: <AltName>[Protection contre le mal et le bien]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>abjuration</Type>
+- <Level>1</Level>st-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (holy water or powdered silver and iron, which the spell consumes)</Components>
@@ -6631,9 +6631,9 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 # <Name>Protection from Poison</Name>
 
-- <AltName>[Protection contre le poison]</AltName>
+- MDR: <AltName>[Protection contre le poison]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>abjuration</Type>
+- <Level>2</Level>nd-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -6656,9 +6656,9 @@ For the duration, the target has advantage on saving throws against being poison
 
 # <Name>Purify Food and Drink</Name>
 
-- <AltName>[Purification de la nourriture et de l'eau]</AltName>
+- MDR: <AltName>[Purification de la nourriture et de l'eau]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6679,9 +6679,9 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 # <Name>Raise Dead</Name>
 
-- <AltName>[Rappel à la vie]</AltName>
+- MDR: <AltName>[Rappel à la vie]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>necromancy</Type>
+- <Level>5</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a diamond worth at least 500 gp, which the spell consumes)</Components>
@@ -6708,9 +6708,9 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 # <Name>Rary's Telepathic Bond</Name>
 
-- <AltName>[Lien télépathique]</AltName>
+- MDR: <AltName>[Lien télépathique]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>5</Level>th-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (pieces of eggshell from two different kinds of creatures)</Components>
@@ -6733,9 +6733,9 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 # <Name>Ray of Enfeeblement</Name>
 
-- <AltName>[Rayon affaiblissant]</AltName>
+- MDR: <AltName>[Rayon affaiblissant]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>necromancy</Type>
+- <Level>2</Level>nd-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6758,9 +6758,9 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 # <Name>Ray of Frost</Name>
 
-- <AltName>[Rayon de givre]</AltName>
+- MDR: <AltName>[Rayon de givre]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -6783,9 +6783,9 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 # <Name>Regenerate</Name>
 
-- <AltName>[Régénération]</AltName>
+- MDR: <AltName>[Régénération]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>transmutation</Type>
+- <Level>7</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a prayer wheel and holy water)</Components>
@@ -6808,9 +6808,9 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 
 # <Name>Reincarnate</Name>
 
-- <AltName>[Réincarnation]</AltName>
+- MDR: <AltName>[Réincarnation]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>transmutation</Type>
+- <Level>5</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)</Components>
@@ -6854,9 +6854,9 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 # <Name>Remove Curse</Name>
 
-- <AltName>[Lever une malédiction]</AltName>
+- MDR: <AltName>[Lever une malédiction]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>abjuration</Type>
+- <Level>3</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -6877,9 +6877,9 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 # <Name>Resistance</Name>
 
-- <AltName>[Résistance]</AltName>
+- MDR: <AltName>[Résistance]</AltName>
 
-- LevelType: <Type>Abjuration</Type> <Level>cantrip</Level>
+- <Type>Abjuration</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a miniature cloak)</Components>
@@ -6900,9 +6900,9 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 # <Name>Resurrection</Name>
 
-- <AltName>[Résurrection]</AltName>
+- MDR: <AltName>[Résurrection]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>necromancy</Type>
+- <Level>7</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)</Components>
@@ -6931,9 +6931,9 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 # <Name>Reverse Gravity</Name>
 
-- <AltName>[Inversion de la gravité]</AltName>
+- MDR: <AltName>[Inversion de la gravité]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>transmutation</Type>
+- <Level>7</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>100 feet</Range>
 - **Components :** <Components>V, S, M (a lodestone and iron filings)</Components>
@@ -6958,9 +6958,9 @@ At the end of the duration, affected objects and creatures fall back down.
 
 # <Name>Revivify</Name>
 
-- <AltName>[Revigorer]</AltName>
+- MDR: <AltName>[Revigorer]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>necromancy</Type>
+- <Level>3</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (diamonds worth 300 gp, which the spell consumes)</Components>
@@ -6981,9 +6981,9 @@ You touch a creature that has died within the last minute. That creature returns
 
 # <Name>Rope Trick</Name>
 
-- <AltName>[Corde enchantée]</AltName>
+- MDR: <AltName>[Corde enchantée]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (powdered corn extract and a twisted loop of parchment)</Components>
@@ -7010,9 +7010,9 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 # <Name>Sacred Flame</Name>
 
-- <AltName>[Flamme sacrée]</AltName>
+- MDR: <AltName>[Flamme sacrée]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -7035,9 +7035,9 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 # <Name>Sanctuary</Name>
 
-- <AltName>[Sanctuaire]</AltName>
+- MDR: <AltName>[Sanctuaire]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>abjuration</Type>
+- <Level>1</Level>st-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a small silver mirror)</Components>
@@ -7060,9 +7060,9 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 # <Name>Scorching Ray</Name>
 
-- <AltName>[Rayon ardent]</AltName>
+- MDR: <AltName>[Rayon ardent]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -7087,9 +7087,9 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 # <Name>Scrying</Name>
 
-- <AltName>[Scrutation]</AltName>
+- MDR: <AltName>[Scrutation]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>divination</Type>
+- <Level>5</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>10 minutes</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)</Components>
@@ -7124,9 +7124,9 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 # <Name>See Invisibility</Name>
 
-- <AltName>[Voir l'invisible]</AltName>
+- MDR: <AltName>[Voir l'invisible]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>divination</Type>
+- <Level>2</Level>nd-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a pinch of talc and a small sprinkling of powdered silver)</Components>
@@ -7147,9 +7147,9 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 # <Name>Seeming</Name>
 
-- <AltName>[Apparence trompeuse]</AltName>
+- MDR: <AltName>[Apparence trompeuse]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>illusion</Type>
+- <Level>5</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -7176,9 +7176,9 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 
 # <Name>Sending</Name>
 
-- <AltName>[Envoi de message]</AltName>
+- MDR: <AltName>[Envoi de message]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type>
+- <Level>3</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Unlimited</Range>
 - **Components :** <Components>V, S, M (a short piece of fine copper wire)</Components>
@@ -7201,9 +7201,9 @@ You can send the message across any distance and even to other planes of existen
 
 # <Name>Sequester</Name>
 
-- <AltName>[Séquestration]</AltName>
+- MDR: <AltName>[Séquestration]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>transmutation</Type>
+- <Level>7</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)</Components>
@@ -7228,9 +7228,9 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 # <Name>Shapechange</Name>
 
-- <AltName>[Changement de forme]</AltName>
+- MDR: <AltName>[Changement de forme]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>transmutation</Type>
+- <Level>9</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)</Components>
@@ -7261,9 +7261,9 @@ During this spell's duration, you can use your action to assume a different form
 
 # <Name>Shatter</Name>
 
-- <AltName>[Briser]</AltName>
+- MDR: <AltName>[Briser]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a chip of mica)</Components>
@@ -7288,9 +7288,9 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 # <Name>Shield</Name>
 
-- <AltName>[Bouclier]</AltName>
+- MDR: <AltName>[Bouclier]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>abjuration</Type>
+- <Level>1</Level>st-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -7311,9 +7311,9 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 # <Name>Shield of Faith</Name>
 
-- <AltName>[Bouclier de la foi]</AltName>
+- MDR: <AltName>[Bouclier de la foi]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>abjuration</Type>
+- <Level>1</Level>st-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a small parchment with a bit of holy text written on it)</Components>
@@ -7334,9 +7334,9 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 # <Name>Shillelagh</Name>
 
-- <AltName>[Gourdin magique]</AltName>
+- MDR: <AltName>[Gourdin magique]</AltName>
 
-- LevelType: <Type>Transmutation</Type> <Level>cantrip</Level>
+- <Type>Transmutation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)</Components>
@@ -7357,9 +7357,9 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 # <Name>Shocking Grasp</Name>
 
-- <AltName>[Poigne électrique]</AltName>
+- MDR: <AltName>[Poigne électrique]</AltName>
 
-- LevelType: <Type>Evocation</Type> <Level>cantrip</Level>
+- <Type>Evocation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -7382,9 +7382,9 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 # <Name>Silence</Name>
 
-- <AltName>[Silence]</AltName>
+- MDR: <AltName>[Silence]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
+- <Level>2</Level>nd-level <Type>illusion</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -7407,9 +7407,9 @@ Casting a spell that includes a verbal component is impossible there.
 
 # <Name>Silent Image</Name>
 
-- <AltName>[Image silencieuse]</AltName>
+- MDR: <AltName>[Image silencieuse]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>illusion</Type>
+- <Level>1</Level>st-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a bit of fleece)</Components>
@@ -7434,9 +7434,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # <Name>Simulacrum</Name>
 
-- <AltName>[Simulacre]</AltName>
+- MDR: <AltName>[Simulacre]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>illusion</Type>
+- <Level>7</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>12 hours</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)</Components>
@@ -7463,9 +7463,9 @@ If you cast this spell again, any currently active duplicates you created with t
 
 # <Name>Sleep</Name>
 
-- <AltName>[Sommeil]</AltName>
+- MDR: <AltName>[Sommeil]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of fine sand, rose petals, or a cricket)</Components>
@@ -7492,9 +7492,9 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 # <Name>Sleet Storm</Name>
 
-- <AltName>[Tempête de neige]</AltName>
+- MDR: <AltName>[Tempête de neige]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>conjuration</Type>
+- <Level>3</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of dust and a few drops of water)</Components>
@@ -7519,9 +7519,9 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 
 # <Name>Slow</Name>
 
-- <AltName>[Lenteur]</AltName>
+- MDR: <AltName>[Lenteur]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a drop of molasses)</Components>
@@ -7548,9 +7548,9 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 # <Name>Spare the Dying</Name>
 
-- <AltName>[Épargner les mourants]</AltName>
+- MDR: <AltName>[Épargner les mourants]</AltName>
 
-- LevelType: <Type>Necromancy</Type> <Level>cantrip</Level>
+- <Type>Necromancy</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S</Components>
@@ -7571,9 +7571,9 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 # <Name>Speak with Animals</Name>
 
-- <AltName>[Communication avec les animaux]</AltName>
+- MDR: <AltName>[Communication avec les animaux]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>divination</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -7594,9 +7594,9 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 # <Name>Speak with Dead</Name>
 
-- <AltName>[Communication avec les morts]</AltName>
+- MDR: <AltName>[Communication avec les morts]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>necromancy</Type>
+- <Level>3</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S, M (burning incense)</Components>
@@ -7619,9 +7619,9 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 # <Name>Speak with Plants</Name>
 
-- <AltName>[Communication avec les plantes]</AltName>
+- MDR: <AltName>[Communication avec les plantes]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type>
+- <Level>3</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (30-foot radius)</Range>
 - **Components :** <Components>V, S</Components>
@@ -7650,9 +7650,9 @@ This spell can cause the plants created by the _[entangle]_ spell to release a r
 
 # <Name>Spider Climb</Name>
 
-- <AltName>[Pattes d'araignée]</AltName>
+- MDR: <AltName>[Pattes d'araignée]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a drop of bitumen and a spider)</Components>
@@ -7673,9 +7673,9 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 # <Name>Spike Growth</Name>
 
-- <AltName>[Croissance d'épines]</AltName>
+- MDR: <AltName>[Croissance d'épines]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>transmutation</Type>
+- <Level>2</Level>nd-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)</Components>
@@ -7698,9 +7698,9 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 # <Name>Spirit Guardians</Name>
 
-- <AltName>[Esprits gardiens]</AltName>
+- MDR: <AltName>[Esprits gardiens]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>conjuration</Type>
+- <Level>3</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (15-foot radius)</Range>
 - **Components :** <Components>V, S, M (a holy symbol)</Components>
@@ -7725,9 +7725,9 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 # <Name>Spiritual Weapon</Name>
 
-- <AltName>[Arme spirituelle]</AltName>
+- MDR: <AltName>[Arme spirituelle]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>evocation</Type>
+- <Level>2</Level>nd-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 bonus action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -7754,9 +7754,9 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 # <Name>Stinking Cloud</Name>
 
-- <AltName>[Nuage puant]</AltName>
+- MDR: <AltName>[Nuage puant]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>conjuration</Type>
+- <Level>3</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>90 feet</Range>
 - **Components :** <Components>V, S, M (a rotten egg or several skunk cabbage leaves)</Components>
@@ -7781,9 +7781,9 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 # <Name>Stone Shape</Name>
 
-- <AltName>[Façonnage de la pierre]</AltName>
+- MDR: <AltName>[Façonnage de la pierre]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>transmutation</Type>
+- <Level>4</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)</Components>
@@ -7804,9 +7804,9 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 # <Name>Stoneskin</Name>
 
-- <AltName>[Peau de pierre]</AltName>
+- MDR: <AltName>[Peau de pierre]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>abjuration</Type>
+- <Level>4</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (diamond dust worth 100 gp, which the spell consumes)</Components>
@@ -7827,9 +7827,9 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 # <Name>Storm of Vengeance</Name>
 
-- <AltName>[Tempête vengeresse]</AltName>
+- MDR: <AltName>[Tempête vengeresse]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>conjuration</Type>
+- <Level>9</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Sight</Range>
 - **Components :** <Components>V, S</Components>
@@ -7860,9 +7860,9 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 # <Name>Suggestion</Name>
 
-- <AltName>[Suggestion]</AltName>
+- MDR: <AltName>[Suggestion]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>enchantment</Type>
+- <Level>2</Level>nd-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)</Components>
@@ -7889,9 +7889,9 @@ If you or any of your companions damage the target, the spell ends.
 
 # <Name>Sunbeam</Name>
 
-- <AltName>[Rayon de soleil]</AltName>
+- MDR: <AltName>[Rayon de soleil]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (60-foot line)</Range>
 - **Components :** <Components>V, S, M (a magnifying glass)</Components>
@@ -7916,9 +7916,9 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 # <Name>Sunburst</Name>
 
-- <AltName>[Éclat du soleil]</AltName>
+- MDR: <AltName>[Éclat du soleil]</AltName>
 
-- LevelType: <Level>8</Level>th-level <Type>evocation</Type>
+- <Level>8</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>150 feet</Range>
 - **Components :** <Components>V, S, M (fire and a piece of sunstone)</Components>
@@ -7943,9 +7943,9 @@ This spell dispels any darkness in its area that was created by a spell.
 
 # <Name>Symbol</Name>
 
-- <AltName>[Symbole]</AltName>
+- MDR: <AltName>[Symbole]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>abjuration</Type>
+- <Level>7</Level>th-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)</Components>
@@ -7990,9 +7990,9 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 # <Name>Tasha's Hideous Laughter</Name>
 
-- <AltName>[Fou rire]</AltName>
+- MDR: <AltName>[Fou rire]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>enchantment</Type>
+- <Level>1</Level>st-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (tiny tarts and a feather that is waved in the air)</Components>
@@ -8015,9 +8015,9 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 # <Name>Telekinesis</Name>
 
-- <AltName>[Télékinésie]</AltName>
+- MDR: <AltName>[Télékinésie]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>transmutation</Type>
+- <Level>5</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -8044,9 +8044,9 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 # <Name>Teleport</Name>
 
-- <AltName>[Téléportation]</AltName>
+- MDR: <AltName>[Téléportation]</AltName>
 
-- LevelType: <Level>7</Level>th-level <Type>conjuration</Type>
+- <Level>7</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V</Components>
@@ -8101,9 +8101,9 @@ The destination you choose must be known to you, and it must be on the same plan
 
 # <Name>Teleportation Circle</Name>
 
-- <AltName>[Cercle de téléportation]</AltName>
+- MDR: <AltName>[Cercle de téléportation]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>conjuration</Type>
+- <Level>5</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)</Components>
@@ -8128,9 +8128,9 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 # <Name>Tenser's Floating Disk</Name>
 
-- <AltName>[Disque flottant]</AltName>
+- MDR: <AltName>[Disque flottant]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a drop of mercury)</Components>
@@ -8155,9 +8155,9 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 # <Name>Thaumaturgy</Name>
 
-- <AltName>[Thaumaturgie]</AltName>
+- MDR: <AltName>[Thaumaturgie]</AltName>
 
-- LevelType: <Type>Transmutation</Type> <Level>cantrip</Level>
+- <Type>Transmutation</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V</Components>
@@ -8192,9 +8192,9 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 # <Name>Thunderwave</Name>
 
-- <AltName>[Vague tonnante]</AltName>
+- MDR: <AltName>[Vague tonnante]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>evocation</Type>
+- <Level>1</Level>st-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self (15-foot cube)</Range>
 - **Components :** <Components>V, S</Components>
@@ -8219,9 +8219,9 @@ In addition, unsecured objects that are completely within the area of effect are
 
 # <Name>Time Stop</Name>
 
-- <AltName>[Arrêt du temps]</AltName>
+- MDR: <AltName>[Arrêt du temps]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>transmutation</Type>
+- <Level>9</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -8244,9 +8244,9 @@ This spell ends if one of the actions you use during this period, or any effects
 
 # <Name>Tongues</Name>
 
-- <AltName>[Langues]</AltName>
+- MDR: <AltName>[Langues]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>divination</Type>
+- <Level>3</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, M (a small clay model of a ziggurat)</Components>
@@ -8267,9 +8267,9 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 # <Name>Transport via Plants</Name>
 
-- <AltName>[Transport végétal]</AltName>
+- MDR: <AltName>[Transport végétal]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type>
+- <Level>6</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>10 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -8290,9 +8290,9 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 # <Name>Tree Stride</Name>
 
-- <AltName>[Passage par les arbres]</AltName>
+- MDR: <AltName>[Passage par les arbres]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>conjuration</Type>
+- <Level>5</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -8315,9 +8315,9 @@ You can use this transportation ability once per round for the duration. You mus
 
 # <Name>True Polymorph</Name>
 
-- <AltName>[Métamorphose suprême]</AltName>
+- MDR: <AltName>[Métamorphose suprême]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>transmutation</Type>
+- <Level>9</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)</Components>
@@ -8354,9 +8354,9 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 # <Name>True Resurrection</Name>
 
-- <AltName>[Résurrection suprême]</AltName>
+- MDR: <AltName>[Résurrection suprême]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>necromancy</Type>
+- <Level>9</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 hour</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)</Components>
@@ -8381,9 +8381,9 @@ The spell can even provide a new body if the original no longer exists, in which
 
 # <Name>True Seeing</Name>
 
-- <AltName>[Vision suprême]</AltName>
+- MDR: <AltName>[Vision suprême]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>divination</Type>
+- <Level>6</Level>th-level <Type>divination</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)</Components>
@@ -8404,9 +8404,9 @@ This spell gives the willing creature you touch the ability to see things as the
 
 # <Name>True Strike</Name>
 
-- <AltName>[Viser juste]</AltName>
+- MDR: <AltName>[Viser juste]</AltName>
 
-- LevelType: <Type>Divination</Type> <Level>cantrip</Level>
+- <Type>Divination</Type> <Level>cantrip</Level>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>S</Components>
@@ -8427,9 +8427,9 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 # <Name>Unseen Servant</Name>
 
-- <AltName>[Serviteur invisible]</AltName>
+- MDR: <AltName>[Serviteur invisible]</AltName>
 
-- LevelType: <Level>1</Level>st-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
+- <Level>1</Level>st-level <Type>conjuration</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a piece of string and a bit of wood)</Components>
@@ -8454,9 +8454,9 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 # <Name>Vampiric Touch</Name>
 
-- <AltName>[Caresse du vampire]</AltName>
+- MDR: <AltName>[Caresse du vampire]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>necromancy</Type>
+- <Level>3</Level>th-level <Type>necromancy</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V, S</Components>
@@ -8479,9 +8479,9 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 # <Name>Vicious Mockery</Name>
 
-- <AltName>[Moquerie cruelle]</AltName>
+- MDR: <AltName>[Moquerie cruelle]</AltName>
 
-- LevelType: <Type>Enchantment</Type> <Level>cantrip</Level> 
+- <Type>Enchantment</Type> <Level>cantrip</Level> 
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V</Components>
@@ -8504,9 +8504,9 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 # <Name>Wall of Fire</Name>
 
-- <AltName>[Mur de feu]</AltName>
+- MDR: <AltName>[Mur de feu]</AltName>
 
-- LevelType: <Level>4</Level>th-level <Type>evocation</Type>
+- <Level>4</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a small piece of phosphorus)</Components>
@@ -8535,9 +8535,9 @@ The other side of the wall deals no damage.
 
 # <Name>Wall of Force</Name>
 
-- <AltName>[Mur de force]</AltName>
+- MDR: <AltName>[Mur de force]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a pinch of powder made by crushing a clear gemstone)</Components>
@@ -8560,9 +8560,9 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 # <Name>Wall of Ice</Name>
 
-- <AltName>[Mur de glace]</AltName>
+- MDR: <AltName>[Mur de glace]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>evocation</Type>
+- <Level>6</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a small piece of quartz)</Components>
@@ -8589,9 +8589,9 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 # <Name>Wall of Stone</Name>
 
-- <AltName>[Mur de pierre]</AltName>
+- MDR: <AltName>[Mur de pierre]</AltName>
 
-- LevelType: <Level>5</Level>th-level <Type>evocation</Type>
+- <Level>5</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a small block of granite)</Components>
@@ -8622,9 +8622,9 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 # <Name>Wall of Thorns</Name>
 
-- <AltName>[Mur d'épines]</AltName>
+- MDR: <AltName>[Mur d'épines]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type>
+- <Level>6</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a handful of thorns)</Components>
@@ -8651,9 +8651,9 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 # <Name>Warding Bond</Name>
 
-- <AltName>[Lien de protection]</AltName>
+- MDR: <AltName>[Lien de protection]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>abjuration</Type>
+- <Level>2</Level>nd-level <Type>abjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Touch</Range>
 - **Components :** <Components>V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)</Components>
@@ -8676,9 +8676,9 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 # <Name>Water Breathing</Name>
 
-- <AltName>[Respiration aquatique]</AltName>
+- MDR: <AltName>[Respiration aquatique]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
+- <Level>3</Level>th-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a short reed or piece of straw)</Components>
@@ -8699,9 +8699,9 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 # <Name>Water Walk</Name>
 
-- <AltName>[Marche sur l'eau]</AltName>
+- MDR: <AltName>[Marche sur l'eau]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
+- <Level>3</Level>th-level <Type>transmutation</Type> (<Ritual>ritual</Ritual>)
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (a piece of cork)</Components>
@@ -8724,9 +8724,9 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 # <Name>Web</Name>
 
-- <AltName>[Toile d'araignée]</AltName>
+- MDR: <AltName>[Toile d'araignée]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>conjuration</Type>
+- <Level>2</Level>nd-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S, M (a bit of spiderweb)</Components>
@@ -8755,9 +8755,9 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 # <Name>Weird</Name>
 
-- <AltName>[Étrangeté]</AltName>
+- MDR: <AltName>[Étrangeté]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>illusion</Type>
+- <Level>9</Level>th-level <Type>illusion</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S</Components>
@@ -8778,9 +8778,9 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 # <Name>Wind Walk</Name>
 
-- <AltName>[Marche sur le vent]</AltName>
+- MDR: <AltName>[Marche sur le vent]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>transmutation</Type>
+- <Level>6</Level>th-level <Type>transmutation</Type>
 - **Casting Time :** <CastingTime>1 minute</CastingTime>
 - **Range :** <Range>30 feet</Range>
 - **Components :** <Components>V, S, M (fire and holy water)</Components>
@@ -8803,9 +8803,9 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 
 # <Name>Wind Wall</Name>
 
-- <AltName>[Mur de vent]</AltName>
+- MDR: <AltName>[Mur de vent]</AltName>
 
-- LevelType: <Level>3</Level>th-level <Type>evocation</Type>
+- <Level>3</Level>th-level <Type>evocation</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>120 feet</Range>
 - **Components :** <Components>V, S, M (a tiny fan and a feather of exotic origin)</Components>
@@ -8830,9 +8830,9 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 # <Name>Wish</Name>
 
-- <AltName>[Souhait]</AltName>
+- MDR: <AltName>[Souhait]</AltName>
 
-- LevelType: <Level>9</Level>th-level <Type>conjuration</Type>
+- <Level>9</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>Self</Range>
 - **Components :** <Components>V</Components>
@@ -8871,9 +8871,9 @@ The stress of casting this spell to produce any effect other than duplicating an
 
 # <Name>Word of Recall</Name>
 
-- <AltName>[Mot de retour]</AltName>
+- MDR: <AltName>[Mot de retour]</AltName>
 
-- LevelType: <Level>6</Level>th-level <Type>conjuration</Type>
+- <Level>6</Level>th-level <Type>conjuration</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>5 feet</Range>
 - **Components :** <Components>V</Components>
@@ -8896,9 +8896,9 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 # <Name>Zone of Truth</Name>
 
-- <AltName>[Zone de vérité]</AltName>
+- MDR: <AltName>[Zone de vérité]</AltName>
 
-- LevelType: <Level>2</Level>nd-level <Type>enchantment</Type>
+- <Level>2</Level>nd-level <Type>enchantment</Type>
 - **Casting Time :** <CastingTime>1 action</CastingTime>
 - **Range :** <Range>60 feet</Range>
 - **Components :** <Components>V, S</Components>

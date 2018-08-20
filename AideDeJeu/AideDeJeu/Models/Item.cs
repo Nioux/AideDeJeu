@@ -31,10 +31,7 @@ namespace AideDeJeuLib
                 }
             }
         }
-
         public string Source { get; set; }
-
         public string Markdown { get; set; }
-        //public virtual void Parse(ref Markdig.Syntax.ContainerBlock.Enumerator enumerator) { }
     }
 }

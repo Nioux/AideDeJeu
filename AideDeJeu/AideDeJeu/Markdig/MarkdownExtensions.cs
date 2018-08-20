@@ -51,7 +51,6 @@ namespace AideDeJeu.Tools
         public static Item ParseItem(ref ContainerBlock.Enumerator enumerator)
         {
             var currentItem = enumerator.Current.GetNewItem();
-            //item.Parse(ref enumerator);
 
             enumerator.MoveNext();
             while (enumerator.Current != null)
@@ -89,22 +88,6 @@ namespace AideDeJeu.Tools
                 else // if (block is ContainerBlock)
                 {
                     ParseItemProperties(currentItem, block);
-                    //var listBlock = block as ContainerBlock;
-                    //foreach (var inblock in listBlock)
-                    //{
-                    //    if (inblock is ListItemBlock)
-                    //    {
-                    //        var listItemBlock = inblock as ListItemBlock;
-                    //        foreach (var ininblock in listItemBlock)
-                    //        {
-                    //            if (ininblock is ParagraphBlock)
-                    //            {
-                    //                var parBlock = ininblock as ParagraphBlock;
-                    //                ParseItemProperties(currentItem, parBlock.Inline);
-                    //            }
-                    //        }
-                    //    }
-                    //}
                 }
 
                 currentItem.Markdown += enumerator.Current.ToMarkdownString();
@@ -112,7 +95,6 @@ namespace AideDeJeu.Tools
                 enumerator.MoveNext();
             }
 
-            // bad !
             return currentItem;
         }
 

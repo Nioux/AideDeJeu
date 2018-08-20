@@ -22,7 +22,7 @@
         <ListView.Header>
             <mdview:MarkdownView 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
-                Markdown="{Binding BindingContext.Items.Header, Source={x:Reference This}}" 
+                Markdown="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" 
                 NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
                 />
         </ListView.Header>

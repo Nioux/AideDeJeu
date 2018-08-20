@@ -2,13 +2,13 @@
 <MonstersHD>
 
 # <Name>Créatures (H&D)</Name>
-- <AltName>[Monsters](monsters_vo.md)</AltName>
+- SRD: <AltName>[Monsters](monsters_vo.md)</AltName>
 
 
 <Monster>
 
 # <Name>Aboleth</Name>
-- <AltName>[Aboleth](monsters_vo.md#aboleth)</AltName>
+- SRD: <AltName>[Aboleth](monsters_vo.md#aboleth)</AltName>
 - <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>135 (18d10+36)</HitPoints>
@@ -114,7 +114,7 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le [j
 <Monster>
 
 # <Name>Âme-en-peine</Name>
-- <AltName>[Wraith](monsters_vo.md#wraith)</AltName>
+- SRD: <AltName>[Wraith](monsters_vo.md#wraith)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>67 (9d8+27)</HitPoints>
@@ -191,7 +191,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 <Monster>
 
 # <Name>Déva</Name>
-- <AltName>[Deva](monsters_vo.md#deva)</AltName>
+- SRD: <AltName>[Deva](monsters_vo.md#deva)</AltName>
 - <Type>Céleste</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>136 (16d8+64)</HitPoints>
@@ -241,7 +241,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 <Monster>
 
 # <Name>Planétar</Name>
-- <AltName>[Planetar](monsters_vo.md#planetar)</AltName>
+- SRD: <AltName>[Planetar](monsters_vo.md#planetar)</AltName>
 - <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>200 (16d10+112)</HitPoints>
@@ -291,7 +291,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 <Monster>
 
 # <Name>Solar</Name>
-- <AltName>[Solar](monsters_vo.md#solar)</AltName>
+- SRD: <AltName>[Solar](monsters_vo.md#solar)</AltName>
 - <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>21 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>243 (18d10+144)</HitPoints>
@@ -360,7 +360,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 <Monster>
 
 # <Name>Ankheg</Name>
-- <AltName>[Ankheg](monsters_vo.md#ankheg)</AltName>
+- SRD: <AltName>[Ankheg](monsters_vo.md#ankheg)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle), 11 quand il est [à terre]</ArmorClass>
 - **Points de vie** <HitPoints>39 (6d10+6)</HitPoints>
@@ -388,7 +388,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 <Monster>
 
 # <Name>Azer</Name>
-- <AltName>[Azer](monsters_vo.md#azer)</AltName>
+- SRD: <AltName>[Azer](monsters_vo.md#azer)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>Loyal Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>39 (6d8+12)</HitPoints>
@@ -425,7 +425,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 <Monster>
 
 # <Name>Babélien</Name>
-- <AltName>[Gibbering Mouther](monsters_vo.md#gibbering-mouther)</AltName>
+- SRD: <AltName>[Gibbering Mouther](monsters_vo.md#gibbering-mouther)</AltName>
 - <Type>Aberration</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>9</ArmorClass>
 - **Points de vie** <HitPoints>67 (9d8+27)</HitPoints>
@@ -462,7 +462,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 <Monster>
 
 # <Name>Basilic</Name>
-- <AltName>[Basilisk](monsters_vo.md#basilisk)</AltName>
+- SRD: <AltName>[Basilisk](monsters_vo.md#basilisk)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
@@ -496,7 +496,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 <Monster>
 
 # <Name>Béhir</Name>
-- <AltName>[Behir](monsters_vo.md#behir)</AltName>
+- SRD: <AltName>[Behir](monsters_vo.md#behir)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>TG</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>168 (16d12+64)</HitPoints>
@@ -536,7 +536,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 <Monster>
 
 # <Name>Bulette</Name>
-- <AltName>[Bulette](monsters_vo.md#bulette)</AltName>
+- SRD: <AltName>[Bulette](monsters_vo.md#bulette)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>94 (9d10+45)</HitPoints>
@@ -571,7 +571,7 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde] de [Force] ou de 
 <Monster>
 
 # <Name>Centaure</Name>
-- <AltName>[Centaur](monsters_vo.md#centaur)</AltName>
+- SRD: <AltName>[Centaur](monsters_vo.md#centaur)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Bon</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
@@ -648,7 +648,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 <Monster>
 
 # <Name>Criard</Name>
-- <AltName>[Shrieker](monsters_vo.md#shrieker)</AltName>
+- SRD: <AltName>[Shrieker](monsters_vo.md#shrieker)</AltName>
 - <Type>Plante</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>5</ArmorClass>
 - **Points de vie** <HitPoints>13 (3d8)</HitPoints>
@@ -677,7 +677,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 <Monster>
 
 # <Name>Moisissure violette</Name>
-- <AltName>[Violet Fungus](monsters_vo.md#violet-fungus)</AltName>
+- SRD: <AltName>[Violet Fungus](monsters_vo.md#violet-fungus)</AltName>
 - <Type>Plante</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>5</ArmorClass>
 - **Points de vie** <HitPoints>18 (4d8)</HitPoints>
@@ -710,7 +710,7 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 <Monster>
 
 # <Name>Chimère</Name>
-- <AltName>[Chimera](monsters_vo.md#chimera)</AltName>
+- SRD: <AltName>[Chimera](monsters_vo.md#chimera)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
@@ -749,7 +749,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 <Monster>
 
 # <Name>Chuul</Name>
-- <AltName>[Chuul](monsters_vo.md#chuul)</AltName>
+- SRD: <AltName>[Chuul](monsters_vo.md#chuul)</AltName>
 - <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>93 (11d10+33)</HitPoints>
@@ -790,7 +790,7 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [
 <Monster>
 
 # <Name>Cockatrice</Name>
-- <AltName>[Cockatrice](monsters_vo.md#cockatrice)</AltName>
+- SRD: <AltName>[Cockatrice](monsters_vo.md#cockatrice)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>27 (6d6+6)</HitPoints>
@@ -816,7 +816,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 <Monster>
 
 # <Name>Couatl</Name>
-- <AltName>[Couatl](monsters_vo.md#couatl)</AltName>
+- SRD: <AltName>[Couatl](monsters_vo.md#couatl)</AltName>
 - <Type>Céleste</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>97 (13d8+39)</HitPoints>
@@ -910,7 +910,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 <Monster>
 
 # <Name>Balor</Name>
-- <AltName>[Balor](monsters_vo.md#balor)</AltName>
+- SRD: <AltName>[Balor](monsters_vo.md#balor)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>262 (21d12+126)</HitPoints>
@@ -958,7 +958,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 <Monster>
 
 # <Name>Dretch</Name>
-- <AltName>[Dretch](monsters_vo.md#dretch)</AltName>
+- SRD: <AltName>[Dretch](monsters_vo.md#dretch)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>P</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>18 (4d6+4)</HitPoints>
@@ -995,7 +995,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 <Monster>
 
 # <Name>Glabrezu</Name>
-- <AltName>[Glabrezu](monsters_vo.md#glabrezu)</AltName>
+- SRD: <AltName>[Glabrezu](monsters_vo.md#glabrezu)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>157 (15d10+75)</HitPoints>
@@ -1041,7 +1041,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 <Monster>
 
 # <Name>Hezrou</Name>
-- <AltName>[Hezrou](monsters_vo.md#hezrou)</AltName>
+- SRD: <AltName>[Hezrou](monsters_vo.md#hezrou)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>136 (13d10+65)</HitPoints>
@@ -1085,7 +1085,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 <Monster>
 
 # <Name>Marilith</Name>
-- <AltName>[Marilith](monsters_vo.md#marilith)</AltName>
+- SRD: <AltName>[Marilith](monsters_vo.md#marilith)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>189 (18d10+90)</HitPoints>
@@ -1137,7 +1137,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 <Monster>
 
 # <Name>Nalfeshnie</Name>
-- <AltName>[Nalfeshnee](monsters_vo.md#nalfeshnee)</AltName>
+- SRD: <AltName>[Nalfeshnee](monsters_vo.md#nalfeshnee)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>184 (16d10+96)</HitPoints>
@@ -1185,7 +1185,7 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 <Monster>
 
 # <Name>Quasit</Name>
-- <AltName>[Quasit](monsters_vo.md#quasit)</AltName>
+- SRD: <AltName>[Quasit](monsters_vo.md#quasit)</AltName>
 - <Type>Fiélon (démon, métamorphe)</Type> de taille <Size>TP</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>7 (3d4)</HitPoints>
@@ -1229,7 +1229,7 @@ La cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours e
 <Monster>
 
 # <Name>Vrock</Name>
-- <AltName>[Vrock](monsters_vo.md#vrock)</AltName>
+- SRD: <AltName>[Vrock](monsters_vo.md#vrock)</AltName>
 - <Type>Fiélon (démon)</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>104 (11d10+44)</HitPoints>
@@ -1275,7 +1275,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 <Monster>
 
 # <Name>Destrier noir</Name>
-- <AltName>[Nightmare](monsters_vo.md#nightmare)</AltName>
+- SRD: <AltName>[Nightmare](monsters_vo.md#nightmare)</AltName>
 - <Type>Fiélon</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>68 (8d10+24)</HitPoints>
@@ -1383,7 +1383,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 <Monster>
 
 # <Name>Diable barbelé</Name>
-- <AltName>[Barbed Devil](monsters_vo.md#barbed-devil)</AltName>
+- SRD: <AltName>[Barbed Devil](monsters_vo.md#barbed-devil)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>110 (13d8+52)</HitPoints>
@@ -1432,7 +1432,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 <Monster>
 
 # <Name>Diable barbu</Name>
-- <AltName>[Bearded Devil](monsters_vo.md#bearded-devil)</AltName>
+- SRD: <AltName>[Bearded Devil](monsters_vo.md#bearded-devil)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
@@ -1476,7 +1476,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 <Monster>
 
 # <Name>Diable cornu</Name>
-- <AltName>[Horned Devil](monsters_vo.md#horned-devil)</AltName>
+- SRD: <AltName>[Horned Devil](monsters_vo.md#horned-devil)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
@@ -1522,7 +1522,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 <Monster>
 
 # <Name>Diable gelé</Name>
-- <AltName>[Ice Devil](monsters_vo.md#ice-devil)</AltName>
+- SRD: <AltName>[Ice Devil](monsters_vo.md#ice-devil)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>180 (19d10+76)</HitPoints>
@@ -1582,7 +1582,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 <Monster>
 
 # <Name>Diable des chaînes</Name>
-- <AltName>[Chain Devil](monsters_vo.md#chain-devil)</AltName>
+- SRD: <AltName>[Chain Devil](monsters_vo.md#chain-devil)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>85 (10d8+40)</HitPoints>
@@ -1630,7 +1630,7 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde] de [S
 <Monster>
 
 # <Name>Diable osseux</Name>
-- <AltName>[Bone Devil](monsters_vo.md#bone-devil)</AltName>
+- SRD: <AltName>[Bone Devil](monsters_vo.md#bone-devil)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>142 (15d10+60)</HitPoints>
@@ -1673,7 +1673,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 <Monster>
 
 # <Name>Diablotin</Name>
-- <AltName>[Imp](monsters_vo.md#imp)</AltName>
+- SRD: <AltName>[Imp](monsters_vo.md#imp)</AltName>
 - <Type>Fiélon (diable, métamorphe)</Type> de taille <Size>TP</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>10 (3d4+3)</HitPoints>
@@ -1715,7 +1715,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 <Monster>
 
 # <Name>Diantrefosse</Name>
-- <AltName>[Pit Fiend](monsters_vo.md#pit-fiend)</AltName>
+- SRD: <AltName>[Pit Fiend](monsters_vo.md#pit-fiend)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>300 (24d10+168)</HitPoints>
@@ -1773,7 +1773,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 <Monster>
 
 # <Name>Érinye</Name>
-- <AltName>[Erinyes](monsters_vo.md#erinyes)</AltName>
+- SRD: <AltName>[Erinyes](monsters_vo.md#erinyes)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
 - **Points de vie** <HitPoints>153 (18d8+72)</HitPoints>
@@ -1819,7 +1819,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 <Monster>
 
 # <Name>Lémure</Name>
-- <AltName>[Lemure](monsters_vo.md#lemure)</AltName>
+- SRD: <AltName>[Lemure](monsters_vo.md#lemure)</AltName>
 - <Type>Fiélon (diable)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>7</ArmorClass>
 - **Points de vie** <HitPoints>13 (3d8)</HitPoints>
@@ -1896,7 +1896,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 <Monster>
 
 # <Name>Plésiosaure</Name>
-- <AltName>[Plesiosaurus](monsters_vo.md#plesiosaurus)</AltName>
+- SRD: <AltName>[Plesiosaurus](monsters_vo.md#plesiosaurus)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>68 (8d10+24)</HitPoints>
@@ -1927,7 +1927,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 <Monster>
 
 # <Name>Tricératops</Name>
-- <AltName>[Triceratops](monsters_vo.md#triceratops)</AltName>
+- SRD: <AltName>[Triceratops](monsters_vo.md#triceratops)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>95 (10d12+30)</HitPoints>
@@ -1961,7 +1961,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 <Monster>
 
 # <Name>Tyrannosaure</Name>
-- <AltName>[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)</AltName>
+- SRD: <AltName>[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>136 (13d12+52)</HitPoints>
@@ -1994,7 +1994,7 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 <Monster>
 
 # <Name>Doppleganger</Name>
-- <AltName>[Doppelganger](monsters_vo.md#doppelganger)</AltName>
+- SRD: <AltName>[Doppelganger](monsters_vo.md#doppelganger)</AltName>
 - <Type>Créature monstrueuse (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14</ArmorClass>
 - **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
@@ -2036,7 +2036,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 <Monster>
 
 # <Name>Dragon blanc vénérable</Name>
-- <AltName>[Ancient White Dragon]</AltName>
+- SRD: <AltName>[Ancient White Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>333 (18d20+144)</HitPoints>
@@ -2095,7 +2095,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon blanc adulte</Name>
-- <AltName>[Adult White Dragon]</AltName>
+- SRD: <AltName>[Adult White Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>200 (16d12+96)</HitPoints>
@@ -2154,7 +2154,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon blanc</Name>
-- <AltName>[Young White Dragon]</AltName>
+- SRD: <AltName>[Young White Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>133 (14d10+56)</HitPoints>
@@ -2195,7 +2195,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 <Monster>
 
 # <Name>Dragonnet blanc</Name>
-- <AltName>[White Dragon Wyrmling]</AltName>
+- SRD: <AltName>[White Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
@@ -2226,7 +2226,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 <Monster>
 
 # <Name>Dragon bleu vénérable</Name>
-- <AltName>[Ancient Blue Dragon]</AltName>
+- SRD: <AltName>[Ancient Blue Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>481 (26d20+208)</HitPoints>
@@ -2283,7 +2283,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon bleu adulte</Name>
-- <AltName>[Adult Blue Dragon]</AltName>
+- SRD: <AltName>[Adult Blue Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>225 (18d12+108)</HitPoints>
@@ -2340,7 +2340,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon bleu</Name>
-- <AltName>[Young Blue Dragon]</AltName>
+- SRD: <AltName>[Young Blue Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>152 (16d10+64)</HitPoints>
@@ -2377,7 +2377,7 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 <Monster>
 
 # <Name>Dragonnet bleu</Name>
-- <AltName>[Blue Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Blue Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
@@ -2408,7 +2408,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 <Monster>
 
 # <Name>Dragon noir vénérable</Name>
-- <AltName>[Ancient Black Dragon]</AltName>
+- SRD: <AltName>[Ancient Black Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>367 (21d20+147)</HitPoints>
@@ -2465,7 +2465,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon noir adulte</Name>
-- <AltName>[Adult Black Dragon]</AltName>
+- SRD: <AltName>[Adult Black Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>195 (17d12+85)</HitPoints>
@@ -2524,7 +2524,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon noir</Name>
-- <AltName>[Young Black Dragon]</AltName>
+- SRD: <AltName>[Young Black Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>127 (15d10+45)</HitPoints>
@@ -2565,7 +2565,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 <Monster>
 
 # <Name>Dragonnet noir</Name>
-- <AltName>[Black Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Black Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
@@ -2600,7 +2600,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 <Monster>
 
 # <Name>Dragon rouge vénérable</Name>
-- <AltName>[Ancient Red Dragon]</AltName>
+- SRD: <AltName>[Ancient Red Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>546 (28d20+252)</HitPoints>
@@ -2657,7 +2657,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon rouge adulte</Name>
-- <AltName>[Adult Red Dragon]</AltName>
+- SRD: <AltName>[Adult Red Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>256 (19d12+133)</HitPoints>
@@ -2714,7 +2714,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon rouge</Name>
-- <AltName>[Young Red Dragon]</AltName>
+- SRD: <AltName>[Young Red Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
@@ -2751,7 +2751,7 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 <Monster>
 
 # <Name>Dragonnet rouge</Name>
-- <AltName>[Red Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Red Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>75 (10d8+30)</HitPoints>
@@ -2782,7 +2782,7 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 <Monster>
 
 # <Name>Dragon vert vénérable</Name>
-- <AltName>[Ancient Green Dragon]</AltName>
+- SRD: <AltName>[Ancient Green Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>21 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>385 (22d20+154)</HitPoints>
@@ -2844,7 +2844,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon vert adulte</Name>
-- <AltName>[Adult Green Dragon]</AltName>
+- SRD: <AltName>[Adult Green Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>207 (18d12+90)</HitPoints>
@@ -2904,7 +2904,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon vert</Name>
-- <AltName>[Young Green Dragon]</AltName>
+- SRD: <AltName>[Young Green Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>136 (16d10+48)</HitPoints>
@@ -2946,7 +2946,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 <Monster>
 
 # <Name>Dragonnet vert</Name>
-- <AltName>[Green Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Green Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>38 (7d8+7)</HitPoints>
@@ -2982,7 +2982,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 <Monster>
 
 # <Name>Dragon d'airain vénérable</Name>
-- <AltName>[Ancient Brass Dragon]</AltName>
+- SRD: <AltName>[Ancient Brass Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>297 (17d20+119)</HitPoints>
@@ -3049,7 +3049,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon d'airain adulte</Name>
-- <AltName>[Adult Brass Dragon]</AltName>
+- SRD: <AltName>[Adult Brass Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>172 (15d12+75)</HitPoints>
@@ -3110,7 +3110,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon d'airain</Name>
-- <AltName>[Young Brass Dragon]</AltName>
+- SRD: <AltName>[Young Brass Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>110 (13d10+39)</HitPoints>
@@ -3151,7 +3151,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 <Monster>
 
 # <Name>Dragonnet d'airain</Name>
-- <AltName>[Brass Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Brass Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>16 (3d8+3)</HitPoints>
@@ -3186,7 +3186,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 <Monster>
 
 # <Name>Dragon d'argent vénérable</Name>
-- <AltName>[Ancient Silver Dragon]</AltName>
+- SRD: <AltName>[Ancient Silver Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>487 (25d20+225)</HitPoints>
@@ -3251,7 +3251,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon d'argent adulte</Name>
-- <AltName>[Adult Silver Dragon]</AltName>
+- SRD: <AltName>[Adult Silver Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>243 (18d12+126)</HitPoints>
@@ -3318,7 +3318,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon d'argent</Name>
-- <AltName>[Young Silver Dragon]</AltName>
+- SRD: <AltName>[Young Silver Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>168 (16d10+80)</HitPoints>
@@ -3359,7 +3359,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 <Monster>
 
 # <Name>Dragonnet d'argent</Name>
-- <AltName>[Silver Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Silver Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d8+18)</HitPoints>
@@ -3394,7 +3394,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 <Monster>
 
 # <Name>Dragon de bronze vénérable</Name>
-- <AltName>[Ancient Bronze Dragon]</AltName>
+- SRD: <AltName>[Ancient Bronze Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>444 (24d20+192)</HitPoints>
@@ -3461,7 +3461,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon de bronze adulte</Name>
-- <AltName>[Adult Bronze Dragon]</AltName>
+- SRD: <AltName>[Adult Bronze Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>212 (17d12+102)</HitPoints>
@@ -3530,7 +3530,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon de bronze</Name>
-- <AltName>[Young Bronze Dragon]</AltName>
+- SRD: <AltName>[Young Bronze Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>142 (15d10+60)</HitPoints>
@@ -3575,7 +3575,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 <Monster>
 
 # <Name>Dragonnet de bronze</Name>
-- <AltName>[Bronze Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Bronze Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
@@ -3614,7 +3614,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 <Monster>
 
 # <Name>Dragon de cuivre vénérable</Name>
-- <AltName>[Ancient Copper Dragon]</AltName>
+- SRD: <AltName>[Ancient Copper Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>21 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>350 (20d20+140)</HitPoints>
@@ -3683,7 +3683,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon de cuivre adulte</Name>
-- <AltName>[Adult Copper Dragon]</AltName>
+- SRD: <AltName>[Adult Copper Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>184 (16d12+80)</HitPoints>
@@ -3746,7 +3746,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon de cuivre</Name>
-- <AltName>[Young Copper Dragon]</AltName>
+- SRD: <AltName>[Young Copper Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>119 (14d10+42)</HitPoints>
@@ -3791,7 +3791,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 <Monster>
 
 # <Name>Dragonnet de cuivre</Name>
-- <AltName>[Copper Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Copper Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
@@ -3826,7 +3826,7 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 <Monster>
 
 # <Name>Dragon d'or vénérable</Name>
-- <AltName>[Ancient Gold Dragon]</AltName>
+- SRD: <AltName>[Ancient Gold Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>22 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>546 (28d20+252)</HitPoints>
@@ -3893,7 +3893,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Dragon d'or adulte</Name>
-- <AltName>[Adult Gold Dragon]</AltName>
+- SRD: <AltName>[Adult Gold Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>TG</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>256 (19d12+133)</HitPoints>
@@ -3962,7 +3962,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Jeune dragon d'or</Name>
-- <AltName>[Young Gold Dragon]</AltName>
+- SRD: <AltName>[Young Gold Dragon]</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
@@ -4007,7 +4007,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 <Monster>
 
 # <Name>Dragonnet d'or</Name>
-- <AltName>[Gold Dragon Wyrmling]</AltName>
+- SRD: <AltName>[Gold Dragon Wyrmling]</AltName>
 - <Type>Dragon</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>60 (8d8+24)</HitPoints>
@@ -4046,7 +4046,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 <Monster>
 
 # <Name>Dragon-tortue</Name>
-- <AltName>[Dragon Turtle](monsters_vo.md#dragon-turtle)</AltName>
+- SRD: <AltName>[Dragon Turtle](monsters_vo.md#dragon-turtle)</AltName>
 - <Type>Dragon</Type> de taille <Size>Gig</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>341 (22d20+110)</HitPoints>
@@ -4130,7 +4130,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <Monster>
 
 # <Name>Drider</Name>
-- <AltName>[Drider](monsters_vo.md#drider)</AltName>
+- SRD: <AltName>[Drider](monsters_vo.md#drider)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>123 (13d10+52)</HitPoints>
@@ -4183,7 +4183,7 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 <Monster>
 
 # <Name>Drow</Name>
-- <AltName>[Drow](monsters_vo.md#drow)</AltName>
+- SRD: <AltName>[Drow](monsters_vo.md#drow)</AltName>
 - <Type>Humanoïde (elfe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (chemise de mailles)</ArmorClass>
 - **Points de vie** <HitPoints>13 (3d8)</HitPoints>
@@ -4291,7 +4291,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <Monster>
 
 # <Name>Dryade</Name>
-- <AltName>[Dryad](monsters_vo.md#dryad)</AltName>
+- SRD: <AltName>[Dryad](monsters_vo.md#dryad)</AltName>
 - <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>11 (16 avec peau d'écorce)</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d8)</HitPoints>
@@ -4340,7 +4340,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 <Monster>
 
 # <Name>Duergar</Name>
-- <AltName>[Duergar](monsters_vo.md#duergar)</AltName>
+- SRD: <AltName>[Duergar](monsters_vo.md#duergar)</AltName>
 - <Type>Humanoïde (nain)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure d'écailles, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>26 (4d8+8)</HitPoints>
@@ -4383,7 +4383,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 <Monster>
 
 # <Name>Élémentaire de l'air</Name>
-- <AltName>[Air Elemental](monsters_vo.md#air-elemental)</AltName>
+- SRD: <AltName>[Air Elemental](monsters_vo.md#air-elemental)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>15</ArmorClass>
 - **Points de vie** <HitPoints>90 (12d10+24)</HitPoints>
@@ -4424,7 +4424,7 @@ Si le [jet de sauvegarde] est réussi, la cible subit la moitié des dégâts co
 <Monster>
 
 # <Name>Élémentaire de l'eau</Name>
-- <AltName>[Water Elemental](monsters_vo.md#water-elemental)</AltName>
+- SRD: <AltName>[Water Elemental](monsters_vo.md#water-elemental)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
@@ -4465,7 +4465,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 <Monster>
 
 # <Name>Élémentaire du feu</Name>
-- <AltName>[Fire Elemental](monsters_vo.md#fire-elemental)</AltName>
+- SRD: <AltName>[Fire Elemental](monsters_vo.md#fire-elemental)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>102 (12d10+36)</HitPoints>
@@ -4504,7 +4504,7 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 <Monster>
 
 # <Name>Élémentaire de la terre</Name>
-- <AltName>[Earth Elemental](monsters_vo.md#earth-elemental)</AltName>
+- SRD: <AltName>[Earth Elemental](monsters_vo.md#earth-elemental)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>126 (12d10+60)</HitPoints>
@@ -4542,7 +4542,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 <Monster>
 
 # <Name>Enlaceur</Name>
-- <AltName>[Roper](monsters_vo.md#roper)</AltName>
+- SRD: <AltName>[Roper](monsters_vo.md#roper)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>93 (11d10+33)</HitPoints>
@@ -4587,7 +4587,7 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 <Monster>
 
 # <Name>Esprit follet</Name>
-- <AltName>[Sprite](monsters_vo.md#sprite)</AltName>
+- SRD: <AltName>[Sprite](monsters_vo.md#sprite)</AltName>
 - <Type>Fée</Type> de taille <Size>TP</Size>, <Alignment>Neutre Bonne</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>2 (1d4)</HitPoints>
@@ -4622,7 +4622,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 <Monster>
 
 # <Name>Ettercap</Name>
-- <AltName>[Ettercap](monsters_vo.md#ettercap)</AltName>
+- SRD: <AltName>[Ettercap](monsters_vo.md#ettercap)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>44 (8d8+8)</HitPoints>
@@ -4667,7 +4667,7 @@ _Touché :_ la créature est [entravée] par la toile. Par une action, la créat
 <Monster>
 
 # <Name>Ettin</Name>
-- <AltName>[Ettin](monsters_vo.md#ettin)</AltName>
+- SRD: <AltName>[Ettin](monsters_vo.md#ettin)</AltName>
 - <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>85 (10d10+30)</HitPoints>
@@ -4706,7 +4706,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 <Monster>
 
 # <Name>Fantôme</Name>
-- <AltName>[Ghost](monsters_vo.md#ghost)</AltName>
+- SRD: <AltName>[Ghost](monsters_vo.md#ghost)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>45 (10d8)</HitPoints>
@@ -4751,7 +4751,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 <Monster>
 
 # <Name>Feu follet</Name>
-- <AltName>[Will-o'-Wisp](monsters_vo.md#will-o-wisp)</AltName>
+- SRD: <AltName>[Will-o'-Wisp](monsters_vo.md#will-o-wisp)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>TP</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>19</ArmorClass>
 - **Points de vie** <HitPoints>22 (9d4)</HitPoints>
@@ -4792,7 +4792,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 <Monster>
 
 # <Name>Garde animé</Name>
-- <AltName>[Shield Guardian](monsters_vo.md#shield-guardian)</AltName>
+- SRD: <AltName>[Shield Guardian](monsters_vo.md#shield-guardian)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>142 (15d10+60)</HitPoints>
@@ -4834,7 +4834,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <Monster>
 
 # <Name>Gargouille</Name>
-- <AltName>[Gargoyle](monsters_vo.md#gargoyle)</AltName>
+- SRD: <AltName>[Gargoyle](monsters_vo.md#gargoyle)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>52 (7d8+21)</HitPoints>
@@ -4873,7 +4873,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Géant des collines</Name>
-- <AltName>[Hill Giant](monsters_vo.md#hill-giant)</AltName>
+- SRD: <AltName>[Hill Giant](monsters_vo.md#hill-giant)</AltName>
 - <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>105 (10d12+40)</HitPoints>
@@ -4906,7 +4906,7 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 <Monster>
 
 # <Name>Géant des nuages</Name>
-- <AltName>[Cloud Giant](monsters_vo.md#cloud-giant)</AltName>
+- SRD: <AltName>[Cloud Giant](monsters_vo.md#cloud-giant)</AltName>
 - <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Neutre Bon (50 %) ou Neutre Mauvais (50 %)</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>200 (16d12+96)</HitPoints>
@@ -4952,7 +4952,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 <Monster>
 
 # <Name>Géant des pierres</Name>
-- <AltName>[Stone Giant](monsters_vo.md#stone-giant)</AltName>
+- SRD: <AltName>[Stone Giant](monsters_vo.md#stone-giant)</AltName>
 - <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>126 (11d12+55)</HitPoints>
@@ -4990,7 +4990,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 <Monster>
 
 # <Name>Géant des tempêtes</Name>
-- <AltName>[Storm Giant](monsters_vo.md#storm-giant)</AltName>
+- SRD: <AltName>[Storm Giant](monsters_vo.md#storm-giant)</AltName>
 - <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure d'écailles)</ArmorClass>
 - **Points de vie** <HitPoints>230 (20d12+100)</HitPoints>
@@ -5038,7 +5038,7 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 <Monster>
 
 # <Name>Géant du feu</Name>
-- <AltName>[Fire Giant](monsters_vo.md#fire-giant)</AltName>
+- SRD: <AltName>[Fire Giant](monsters_vo.md#fire-giant)</AltName>
 - <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
 - **Points de vie** <HitPoints>162 (13d12+78)</HitPoints>
@@ -5073,7 +5073,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 <Monster>
 
 # <Name>Géant du givre</Name>
-- <AltName>[Frost Giant](monsters_vo.md#frost-giant)</AltName>
+- SRD: <AltName>[Frost Giant](monsters_vo.md#frost-giant)</AltName>
 - <Type>Géant</Type> de taille <Size>TG</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure composite)</ArmorClass>
 - **Points de vie** <HitPoints>138 (12d12+60)</HitPoints>
@@ -5108,7 +5108,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 <Monster>
 
 # <Name>Djinn</Name>
-- <AltName>[Djinni](monsters_vo.md#djinni)</AltName>
+- SRD: <AltName>[Djinni](monsters_vo.md#djinni)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>161 (14d10+84)</HitPoints>
@@ -5156,7 +5156,7 @@ Si le test est réussi, la créature n'est plus [entravée] et se déplace vers 
 <Monster>
 
 # <Name>Éfrit</Name>
-- <AltName>[Efreeti](monsters_vo.md#efreeti)</AltName>
+- SRD: <AltName>[Efreeti](monsters_vo.md#efreeti)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>200 (16d10+112)</HitPoints>
@@ -5202,7 +5202,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 <Monster>
 
 # <Name>Gnoll</Name>
-- <AltName>[Gnoll](monsters_vo.md#gnoll)</AltName>
+- SRD: <AltName>[Gnoll](monsters_vo.md#gnoll)</AltName>
 - <Type>Humanoïde (gnoll)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure de peau, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d8)</HitPoints>
@@ -5281,7 +5281,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <Monster>
 
 # <Name>Gnome des profondeurs (svirfneblin)</Name>
-- <AltName>[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)</AltName>
+- SRD: <AltName>[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)</AltName>
 - <Type>Humanoïde (gnome)</Type> de taille <Size>P</Size>, <Alignment>Neutre Bon</Alignment>
 - **Classe d'armure** <ArmorClass>15 (chemise de mailles)</ArmorClass>
 - **Points de vie** <HitPoints>16 (3d6+6)</HitPoints>
@@ -5324,7 +5324,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <Monster>
 
 # <Name>Gobelin</Name>
-- <AltName>[Goblin](monsters_vo.md#goblin)</AltName>
+- SRD: <AltName>[Goblin](monsters_vo.md#goblin)</AltName>
 - <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure de cuir, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>7 (2d6)</HitPoints>
@@ -5493,7 +5493,7 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 <Monster>
 
 # <Name>Gobelours</Name>
-- <AltName>[Bugbear](monsters_vo.md#bugbear)</AltName>
+- SRD: <AltName>[Bugbear](monsters_vo.md#bugbear)</AltName>
 - <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure de peau, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
@@ -5574,7 +5574,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 <Monster>
 
 # <Name>Golem d'argile</Name>
-- <AltName>[Clay Golem](monsters_vo.md#clay-golem)</AltName>
+- SRD: <AltName>[Clay Golem](monsters_vo.md#clay-golem)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>133 (14d10+56)</HitPoints>
@@ -5622,7 +5622,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 <Monster>
 
 # <Name>Golem de chair</Name>
-- <AltName>[Flesh Golem](monsters_vo.md#flesh-golem)</AltName>
+- SRD: <AltName>[Flesh Golem](monsters_vo.md#flesh-golem)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>9</ArmorClass>
 - **Points de vie** <HitPoints>93 (11d8+44)</HitPoints>
@@ -5676,7 +5676,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <Monster>
 
 # <Name>Golem de fer</Name>
-- <AltName>[Iron Golem](monsters_vo.md#iron-golem)</AltName>
+- SRD: <AltName>[Iron Golem](monsters_vo.md#iron-golem)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>20 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>210 (20d10+100)</HitPoints>
@@ -5722,7 +5722,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 <Monster>
 
 # <Name>Golem de pierre</Name>
-- <AltName>[Stone Golem](monsters_vo.md#stone-golem)</AltName>
+- SRD: <AltName>[Stone Golem](monsters_vo.md#stone-golem)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>178 (17d10+85)</HitPoints>
@@ -5762,7 +5762,7 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 <Monster>
 
 # <Name>Gorgone</Name>
-- <AltName>[Gorgon](monsters_vo.md#gorgon)</AltName>
+- SRD: <AltName>[Gorgon](monsters_vo.md#gorgon)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
@@ -5802,7 +5802,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 <Monster>
 
 # <Name>Goule</Name>
-- <AltName>[Ghoul](monsters_vo.md#ghoul)</AltName>
+- SRD: <AltName>[Ghoul](monsters_vo.md#ghoul)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d8)</HitPoints>
@@ -5834,7 +5834,7 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Blême</Name>
-- <AltName>[Ghast](monsters_vo.md#ghast)</AltName>
+- SRD: <AltName>[Ghast](monsters_vo.md#ghast)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>36 (8d8)</HitPoints>
@@ -5873,7 +5873,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 <Monster>
 
 # <Name>Grick</Name>
-- <AltName>[Grick](monsters_vo.md#grick)</AltName>
+- SRD: <AltName>[Grick](monsters_vo.md#grick)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>27 (6d8)</HitPoints>
@@ -5910,7 +5910,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 <Monster>
 
 # <Name>Griffon</Name>
-- <AltName>[Griffon](monsters_vo.md#griffon)</AltName>
+- SRD: <AltName>[Griffon](monsters_vo.md#griffon)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
@@ -5947,7 +5947,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 <Monster>
 
 # <Name>Guenaude aquatique</Name>
-- <AltName>[Sea Hag](monsters_vo.md#sea-hag)</AltName>
+- SRD: <AltName>[Sea Hag](monsters_vo.md#sea-hag)</AltName>
 - <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>52 (7d8+21)</HitPoints>
@@ -5987,7 +5987,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Guenaude nocturne</Name>
-- <AltName>[Night Hag](monsters_vo.md#night-hag)</AltName>
+- SRD: <AltName>[Night Hag](monsters_vo.md#night-hag)</AltName>
 - <Type>Fiélon</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>112 (15d8+45)</HitPoints>
@@ -6034,7 +6034,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 <Monster>
 
 # <Name>Guenaude verte</Name>
-- <AltName>[Green Hag](monsters_vo.md#green-hag)</AltName>
+- SRD: <AltName>[Green Hag](monsters_vo.md#green-hag)</AltName>
 - <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>82 (11d8+33)</HitPoints>
@@ -6079,7 +6079,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 <Monster>
 
 # <Name>Harpie</Name>
-- <AltName>[Harpy](monsters_vo.md#harpy)</AltName>
+- SRD: <AltName>[Harpy](monsters_vo.md#harpy)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>38 (7d8+7)</HitPoints>
@@ -6119,7 +6119,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 <Monster>
 
 # <Name>Hibours</Name>
-- <AltName>[Owlbear](monsters_vo.md#owlbear)</AltName>
+- SRD: <AltName>[Owlbear](monsters_vo.md#owlbear)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
@@ -6156,7 +6156,7 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 <Monster>
 
 # <Name>Hippogriffe</Name>
-- <AltName>[Hippogriff](monsters_vo.md#hippogriff)</AltName>
+- SRD: <AltName>[Hippogriff](monsters_vo.md#hippogriff)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -6193,7 +6193,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Hobgobelin</Name>
-- <AltName>[Hobgoblin](monsters_vo.md#hobgoblin)</AltName>
+- SRD: <AltName>[Hobgoblin](monsters_vo.md#hobgoblin)</AltName>
 - <Type>Humanoïde (gobelinoïde)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (bouclier, cotte de mailles)</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -6264,7 +6264,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 <Monster>
 
 # <Name>Homme-lézard</Name>
-- <AltName>[Lizardfolk](monsters_vo.md#lizardfolk)</AltName>
+- SRD: <AltName>[Lizardfolk](monsters_vo.md#lizardfolk)</AltName>
 - <Type>Humanoïde (homme-lézard)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
@@ -6353,7 +6353,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 <Monster>
 
 # <Name>Homme-poisson</Name>
-- <AltName>[Merfolk](monsters_vo.md#merfolk)</AltName>
+- SRD: <AltName>[Merfolk](monsters_vo.md#merfolk)</AltName>
 - <Type>Humanoïde (homme-poisson)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -6384,7 +6384,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 <Monster>
 
 # <Name>Homoncule</Name>
-- <AltName>[Homunculus](monsters_vo.md#homunculus)</AltName>
+- SRD: <AltName>[Homunculus](monsters_vo.md#homunculus)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>TP</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>5 (2d4)</HitPoints>
@@ -6416,7 +6416,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 <Monster>
 
 # <Name>Hydre</Name>
-- <AltName>[Hydra](monsters_vo.md#hydra)</AltName>
+- SRD: <AltName>[Hydra](monsters_vo.md#hydra)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>172 (15d12+75)</HitPoints>
@@ -6459,7 +6459,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 <Monster>
 
 # <Name>Kobold</Name>
-- <AltName>[Kobold](monsters_vo.md#kobold)</AltName>
+- SRD: <AltName>[Kobold](monsters_vo.md#kobold)</AltName>
 - <Type>Humanoïde (kobold)</Type> de taille <Size>P</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>5 (2d6-2)</HitPoints>
@@ -6534,7 +6534,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 <Monster>
 
 # <Name>Kraken</Name>
-- <AltName>[Kraken](monsters_vo.md#kraken)</AltName>
+- SRD: <AltName>[Kraken](monsters_vo.md#kraken)</AltName>
 - <Type>Créature monstrueuse (titan)</Type> de taille <Size>Gig</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>472 (27d20+189)</HitPoints>
@@ -6593,7 +6593,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Lamie</Name>
-- <AltName>[Lamia](monsters_vo.md#lamia)</AltName>
+- SRD: <AltName>[Lamia](monsters_vo.md#lamia)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>97 (13d10+26)</HitPoints>
@@ -6640,7 +6640,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 <Monster>
 
 # <Name>Liche</Name>
-- <AltName>[Lich](monsters_vo.md#lich)</AltName>
+- SRD: <AltName>[Lich](monsters_vo.md#lich)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>alignement Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>135 (18d8+54)</HitPoints>
@@ -6712,7 +6712,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 <Monster>
 
 # <Name>Licorne</Name>
-- <AltName>[Unicorn](monsters_vo.md#unicorn)</AltName>
+- SRD: <AltName>[Unicorn](monsters_vo.md#unicorn)</AltName>
 - <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>67 (9d10+18)</HitPoints>
@@ -6774,7 +6774,7 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 <Monster>
 
 # <Name>Loup-garou</Name>
-- <AltName>[Werewolf](monsters_vo.md#werewolf)</AltName>
+- SRD: <AltName>[Werewolf](monsters_vo.md#werewolf)</AltName>
 - <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup</ArmorClass>
 - **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
@@ -6818,7 +6818,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 <Monster>
 
 # <Name>Ours-garou</Name>
-- <AltName>[Werebear](monsters_vo.md#werebear)</AltName>
+- SRD: <AltName>[Werebear](monsters_vo.md#werebear)</AltName>
 - <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Bon</Alignment>
 - **Classe d'armure** <ArmorClass>10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours</ArmorClass>
 - **Points de vie** <HitPoints>135 (18d8+54)</HitPoints>
@@ -6862,7 +6862,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 <Monster>
 
 # <Name>Rat-garou</Name>
-- <AltName>[Wererat](monsters_vo.md#wererat)</AltName>
+- SRD: <AltName>[Wererat](monsters_vo.md#wererat)</AltName>
 - <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
@@ -6906,7 +6906,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 <Monster>
 
 # <Name>Sanglier-garou</Name>
-- <AltName>[Wereboar](monsters_vo.md#wereboar)</AltName>
+- SRD: <AltName>[Wereboar](monsters_vo.md#wereboar)</AltName>
 - <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier</ArmorClass>
 - **Points de vie** <HitPoints>78 (12d8+24)</HitPoints>
@@ -6948,7 +6948,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 <Monster>
 
 # <Name>Tigre-garou</Name>
-- <AltName>[Weretiger](monsters_vo.md#weretiger)</AltName>
+- SRD: <AltName>[Weretiger](monsters_vo.md#weretiger)</AltName>
 - <Type>Humanoïde (humain, métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>120 (16d8+48)</HitPoints>
@@ -6998,7 +6998,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 <Monster>
 
 # <Name>Magmatique</Name>
-- <AltName>[Magmin](monsters_vo.md#magmin)</AltName>
+- SRD: <AltName>[Magmin](monsters_vo.md#magmin)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Chaotique Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>9 (2d6+2)</HitPoints>
@@ -7036,7 +7036,7 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 <Monster>
 
 # <Name>Manteleur</Name>
-- <AltName>[Cloaker](monsters_vo.md#cloaker)</AltName>
+- SRD: <AltName>[Cloaker](monsters_vo.md#cloaker)</AltName>
 - <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Chaotique Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>78 (12d10+12)</HitPoints>
@@ -7087,7 +7087,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 <Monster>
 
 # <Name>Mante obscure</Name>
-- <AltName>[Darkmantle](monsters_vo.md#darkmantle)</AltName>
+- SRD: <AltName>[Darkmantle](monsters_vo.md#darkmantle)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d6+5)</HitPoints>
@@ -7128,7 +7128,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 <Monster>
 
 # <Name>Manticore</Name>
-- <AltName>[Manticore](monsters_vo.md#manticore)</AltName>
+- SRD: <AltName>[Manticore](monsters_vo.md#manticore)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>68 (8d10+24)</HitPoints>
@@ -7168,7 +7168,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 <Monster>
 
 # <Name>Méduse</Name>
-- <AltName>[Medusa](monsters_vo.md#medusa)</AltName>
+- SRD: <AltName>[Medusa](monsters_vo.md#medusa)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>127 (17d8+51)</HitPoints>
@@ -7213,7 +7213,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Méphite de glace</Name>
-- <AltName>[Ice Mephit](monsters_vo.md#ice-mephit)</AltName>
+- SRD: <AltName>[Ice Mephit](monsters_vo.md#ice-mephit)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>21 (6d6)</HitPoints>
@@ -7255,7 +7255,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 <Monster>
 
 # <Name>Méphite de magma</Name>
-- <AltName>[Magma Mephit](monsters_vo.md#magma-mephit)</AltName>
+- SRD: <AltName>[Magma Mephit](monsters_vo.md#magma-mephit)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d6+5)</HitPoints>
@@ -7295,7 +7295,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 <Monster>
 
 # <Name>Méphite de poussière</Name>
-- <AltName>[Dust Mephit](monsters_vo.md#dust-mephit)</AltName>
+- SRD: <AltName>[Dust Mephit](monsters_vo.md#dust-mephit)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>17 (5d6)</HitPoints>
@@ -7335,7 +7335,7 @@ Une créature peut retenter le [jet de sauvegarde] à la fin de chacun de ses to
 <Monster>
 
 # <Name>Méphite de vapeur</Name>
-- <AltName>[Steam Mephit](monsters_vo.md#steam-mephit)</AltName>
+- SRD: <AltName>[Steam Mephit](monsters_vo.md#steam-mephit)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>P</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>21 (6d6)</HitPoints>
@@ -7373,7 +7373,7 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] d
 <Monster>
 
 # <Name>Merrow</Name>
-- <AltName>[Merrow](monsters_vo.md#merrow)</AltName>
+- SRD: <AltName>[Merrow](monsters_vo.md#merrow)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
@@ -7415,7 +7415,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 <Monster>
 
 # <Name>Mimique</Name>
-- <AltName>[Mimic](monsters_vo.md#mimic)</AltName>
+- SRD: <AltName>[Mimic](monsters_vo.md#mimic)</AltName>
 - <Type>Créature monstrueuse (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
@@ -7460,7 +7460,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 <Monster>
 
 # <Name>Minotaure</Name>
-- <AltName>[Minotaur](monsters_vo.md#minotaur)</AltName>
+- SRD: <AltName>[Minotaur](monsters_vo.md#minotaur)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>76 (9d10+27)</HitPoints>
@@ -7501,7 +7501,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 <Monster>
 
 # <Name>Molosse infernal</Name>
-- <AltName>[Hell Hound](monsters_vo.md#hell-hound)</AltName>
+- SRD: <AltName>[Hell Hound](monsters_vo.md#hell-hound)</AltName>
 - <Type>Fiélon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>45 (7d8+14)</HitPoints>
@@ -7537,7 +7537,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 <Monster>
 
 # <Name>Momie</Name>
-- <AltName>[Mummy](monsters_vo.md#mummy)</AltName>
+- SRD: <AltName>[Mummy](monsters_vo.md#mummy)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>
@@ -7574,7 +7574,7 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde] de [Sa
 <Monster>
 
 # <Name>Momie auguste</Name>
-- <AltName>[Mummy Lord](monsters_vo.md#mummy-lord)</AltName>
+- SRD: <AltName>[Mummy Lord](monsters_vo.md#mummy-lord)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>97 (13d8+39)</HitPoints>
@@ -7651,7 +7651,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 <Monster>
 
 # <Name>Naga corrupteur</Name>
-- <AltName>[Spirit Naga](monsters_vo.md#spirit-naga)</AltName>
+- SRD: <AltName>[Spirit Naga](monsters_vo.md#spirit-naga)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>75 (10d10+20)</HitPoints>
@@ -7698,7 +7698,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 <Monster>
 
 # <Name>Naga gardien</Name>
-- <AltName>[Guardian Naga](monsters_vo.md#guardian-naga)</AltName>
+- SRD: <AltName>[Guardian Naga](monsters_vo.md#guardian-naga)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>127 (15d10+45)</HitPoints>
@@ -7751,7 +7751,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 <Monster>
 
 # <Name>Nécrophage</Name>
-- <AltName>[Wight](monsters_vo.md#wight)</AltName>
+- SRD: <AltName>[Wight](monsters_vo.md#wight)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure de cuir clouté)</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d8+18)</HitPoints>
@@ -7797,7 +7797,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 <Monster>
 
 # <Name>Armure animée</Name>
-- <AltName>[Animated Armor](monsters_vo.md#animated-armor)</AltName>
+- SRD: <AltName>[Animated Armor](monsters_vo.md#animated-armor)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
@@ -7833,7 +7833,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 <Monster>
 
 # <Name>Épée volante</Name>
-- <AltName>[Flying Sword](monsters_vo.md#flying-sword)</AltName>
+- SRD: <AltName>[Flying Sword](monsters_vo.md#flying-sword)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>17 (5d6)</HitPoints>
@@ -7868,7 +7868,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 <Monster>
 
 # <Name>Tapis étrangleur</Name>
-- <AltName>[Rug of Smothering](monsters_vo.md#rug-of-smothering)</AltName>
+- SRD: <AltName>[Rug of Smothering](monsters_vo.md#rug-of-smothering)</AltName>
 - <Type>Créature artificielle</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>33 (6d10)</HitPoints>
@@ -7908,7 +7908,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 <Monster>
 
 # <Name>Ogre</Name>
-- <AltName>[Ogre](monsters_vo.md#ogre)</AltName>
+- SRD: <AltName>[Ogre](monsters_vo.md#ogre)</AltName>
 - <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure de peau)</ArmorClass>
 - **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
@@ -7938,7 +7938,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <Monster>
 
 # <Name>Ombre</Name>
-- <AltName>[Shadow](monsters_vo.md#shadow)</AltName>
+- SRD: <AltName>[Shadow](monsters_vo.md#shadow)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>16 (3d8+3)</HitPoints>
@@ -7979,7 +7979,7 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 <Monster>
 
 # <Name>Oni</Name>
-- <AltName>[Oni](monsters_vo.md#oni)</AltName>
+- SRD: <AltName>[Oni](monsters_vo.md#oni)</AltName>
 - <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (cotte de mailles)</ArmorClass>
 - **Points de vie** <HitPoints>110 (13d10+39)</HitPoints>
@@ -8101,7 +8101,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 <Monster>
 
 # <Name>Otyugh</Name>
-- <AltName>[Otyugh](monsters_vo.md#otyugh)</AltName>
+- SRD: <AltName>[Otyugh](monsters_vo.md#otyugh)</AltName>
 - <Type>Aberration</Type> de taille <Size>G</Size>, <Alignment>Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>114 (12d10+48)</HitPoints>
@@ -8144,7 +8144,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 <Monster>
 
 # <Name>Oxydeur</Name>
-- <AltName>[Rust Monster](monsters_vo.md#rust-monster)</AltName>
+- SRD: <AltName>[Rust Monster](monsters_vo.md#rust-monster)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
@@ -8231,7 +8231,7 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 <Monster>
 
 # <Name>Pégase</Name>
-- <AltName>[Pegasus](monsters_vo.md#pegasus)</AltName>
+- SRD: <AltName>[Pegasus](monsters_vo.md#pegasus)</AltName>
 - <Type>Céleste</Type> de taille <Size>G</Size>, <Alignment>Chaotique Bon</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>59 (7d10+21)</HitPoints>
@@ -8259,7 +8259,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <Monster>
 
 # <Name>Pseudodragon</Name>
-- <AltName>[Pseudodragon](monsters_vo.md#pseudodragon)</AltName>
+- SRD: <AltName>[Pseudodragon](monsters_vo.md#pseudodragon)</AltName>
 - <Type>Dragon</Type> de taille <Size>TP</Size>, <Alignment>Neutre Bon</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>7 (2d4+2)</HitPoints>
@@ -8298,7 +8298,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <Monster>
 
 # <Name>Rakshasa</Name>
-- <AltName>[Rakshasa](monsters_vo.md#rakshasa)</AltName>
+- SRD: <AltName>[Rakshasa](monsters_vo.md#rakshasa)</AltName>
 - <Type>Fiélon</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>110 (13d8+52)</HitPoints>
@@ -8379,7 +8379,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 <Monster>
 
 # <Name>Roc</Name>
-- <AltName>[Roc](monsters_vo.md#roc)</AltName>
+- SRD: <AltName>[Roc](monsters_vo.md#roc)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>248 (16d20+80)</HitPoints>
@@ -8417,7 +8417,7 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasio
 <Monster>
 
 # <Name>Sahuagin</Name>
-- <AltName>[Sahuagin](monsters_vo.md#sahuagin)</AltName>
+- SRD: <AltName>[Sahuagin](monsters_vo.md#sahuagin)</AltName>
 - <Type>Humanoïde (sahuagin)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
@@ -8518,7 +8518,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 <Monster>
 
 # <Name>Salamandre</Name>
-- <AltName>[Salamander](monsters_vo.md#salamander)</AltName>
+- SRD: <AltName>[Salamander](monsters_vo.md#salamander)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>90 (12d10+24)</HitPoints>
@@ -8559,7 +8559,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 <Monster>
 
 # <Name>Satyre</Name>
-- <AltName>[Satyr](monsters_vo.md#satyr)</AltName>
+- SRD: <AltName>[Satyr](monsters_vo.md#satyr)</AltName>
 - <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Chaotique Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>31 (7d8)</HitPoints>
@@ -8686,7 +8686,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 <Monster>
 
 # <Name>Spectre</Name>
-- <AltName>[Specter](monsters_vo.md#specter)</AltName>
+- SRD: <AltName>[Specter](monsters_vo.md#specter)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d8)</HitPoints>
@@ -8721,7 +8721,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 <Monster>
 
 # <Name>Androsphinx</Name>
-- <AltName>[Androsphinx](monsters_vo.md#androsphinx)</AltName>
+- SRD: <AltName>[Androsphinx](monsters_vo.md#androsphinx)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>199 (19d10+95)</HitPoints>
@@ -8793,7 +8793,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Gynosphinx</Name>
-- <AltName>[Gynosphinx](monsters_vo.md#gynosphinx)</AltName>
+- SRD: <AltName>[Gynosphinx](monsters_vo.md#gynosphinx)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Loyal Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>17 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>136 (16d10+48)</HitPoints>
@@ -8855,7 +8855,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 <Monster>
 
 # <Name>Squelette</Name>
-- <AltName>[Skeleton](monsters_vo.md#skeleton)</AltName>
+- SRD: <AltName>[Skeleton](monsters_vo.md#skeleton)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (débris d'armure)</ArmorClass>
 - **Points de vie** <HitPoints>13 (2d8+4)</HitPoints>
@@ -8888,7 +8888,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Squelette cheval de guerre</Name>
-- <AltName>[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)</AltName>
+- SRD: <AltName>[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (débris de barde)</ArmorClass>
 - **Points de vie** <HitPoints>22 (3d10+6)</HitPoints>
@@ -8917,7 +8917,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <Monster>
 
 # <Name>Squelette minotaure</Name>
-- <AltName>[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)</AltName>
+- SRD: <AltName>[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>G</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>67 (9d10+18)</HitPoints>
@@ -8954,7 +8954,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 <Monster>
 
 # <Name>Strige</Name>
-- <AltName>[Stirge](monsters_vo.md#stirge)</AltName>
+- SRD: <AltName>[Stirge](monsters_vo.md#stirge)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>2 (1d4)</HitPoints>
@@ -8984,7 +8984,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 <Monster>
 
 # <Name>Succube/Incube</Name>
-- <AltName>[Succubus](monsters_vo.md#succubus)</AltName>
+- SRD: <AltName>[Succubus](monsters_vo.md#succubus)</AltName>
 - <Type>Fiélon (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>66 (12d8+12)</HitPoints>
@@ -9028,7 +9028,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 <Monster>
 
 # <Name>Sylvanien</Name>
-- <AltName>[Treant](monsters_vo.md#treant)</AltName>
+- SRD: <AltName>[Treant](monsters_vo.md#treant)</AltName>
 - <Type>Plante</Type> de taille <Size>TG</Size>, <Alignment>Chaotique Bonne</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>138 (12d12+60)</HitPoints>
@@ -9070,7 +9070,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 <Monster>
 
 # <Name>Tarasque</Name>
-- <AltName>[Tarrasque](monsters_vo.md#tarrasque)</AltName>
+- SRD: <AltName>[Tarrasque](monsters_vo.md#tarrasque)</AltName>
 - <Type>Créature monstrueuse (titan)</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>25 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>676 (33d20+330)</HitPoints>
@@ -9211,7 +9211,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <Monster>
 
 # <Name>Tertre errant</Name>
-- <AltName>[Shambling Mound](monsters_vo.md#shambling-mound)</AltName>
+- SRD: <AltName>[Shambling Mound](monsters_vo.md#shambling-mound)</AltName>
 - <Type>Plante</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>136 (16d10+48)</HitPoints>
@@ -9249,7 +9249,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <Monster>
 
 # <Name>Torve</Name>
-- <AltName>[Grimlock](monsters_vo.md#grimlock)</AltName>
+- SRD: <AltName>[Grimlock](monsters_vo.md#grimlock)</AltName>
 - <Type>Humanoïde (torve)</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -9285,7 +9285,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 <Monster>
 
 # <Name>Traqueur invisible</Name>
-- <AltName>[Invisible Stalker](monsters_vo.md#invisible-stalker)</AltName>
+- SRD: <AltName>[Invisible Stalker](monsters_vo.md#invisible-stalker)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>14</ArmorClass>
 - **Points de vie** <HitPoints>104 (16d8+32)</HitPoints>
@@ -9322,7 +9322,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 <Monster>
 
 # <Name>Troll</Name>
-- <AltName>[Troll](monsters_vo.md#troll)</AltName>
+- SRD: <AltName>[Troll](monsters_vo.md#troll)</AltName>
 - <Type>Géant</Type> de taille <Size>G</Size>, <Alignment>Chaotique Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>84 (8d10+40)</HitPoints>
@@ -9361,7 +9361,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 <Monster>
 
 # <Name>Vampire</Name>
-- <AltName>[Vampire](monsters_vo.md#vampire)</AltName>
+- SRD: <AltName>[Vampire](monsters_vo.md#vampire)</AltName>
 - <Type>Mort-vivant (métamorphe)</Type> de taille <Size>M</Size>, <Alignment>Loyal Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>144 (17d8+68)</HitPoints>
@@ -9444,7 +9444,7 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 <Monster>
 
 # <Name>Vampirien</Name>
-- <AltName>[Vampire Spawn](monsters_vo.md#vampire-spawn)</AltName>
+- SRD: <AltName>[Vampire Spawn](monsters_vo.md#vampire-spawn)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>82 (11d8+33)</HitPoints>
@@ -9497,7 +9497,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 <Monster>
 
 # <Name>Cube gélatineux</Name>
-- <AltName>[Gelatinous Cube](monsters_vo.md#gelatinous-cube)</AltName>
+- SRD: <AltName>[Gelatinous Cube](monsters_vo.md#gelatinous-cube)</AltName>
 - <Type>Vase</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>6</ArmorClass>
 - **Points de vie** <HitPoints>84 (8d10+40)</HitPoints>
@@ -9546,7 +9546,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 <Monster>
 
 # <Name>Gelée ocre</Name>
-- <AltName>[Ochre Jelly](monsters_vo.md#ochre-jelly)</AltName>
+- SRD: <AltName>[Ochre Jelly](monsters_vo.md#ochre-jelly)</AltName>
 - <Type>Vase</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>8</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
@@ -9585,7 +9585,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 <Monster>
 
 # <Name>Pouding noir</Name>
-- <AltName>[Black Pudding](monsters_vo.md#black-pudding)</AltName>
+- SRD: <AltName>[Black Pudding](monsters_vo.md#black-pudding)</AltName>
 - <Type>Vase</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>7</ArmorClass>
 - **Points de vie** <HitPoints>85 (10d10+30)</HitPoints>
@@ -9627,7 +9627,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 <Monster>
 
 # <Name>Vase grise</Name>
-- <AltName>[Gray Ooze](monsters_vo.md#gray-ooze)</AltName>
+- SRD: <AltName>[Gray Ooze](monsters_vo.md#gray-ooze)</AltName>
 - <Type>Vase</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>8</ArmorClass>
 - **Points de vie** <HitPoints>22 (3d8+9)</HitPoints>
@@ -9668,7 +9668,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 <Monster>
 
 # <Name>Ver pourpre</Name>
-- <AltName>[Purple Worm](monsters_vo.md#purple-worm)</AltName>
+- SRD: <AltName>[Purple Worm](monsters_vo.md#purple-worm)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>Gig</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>18 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>247 (15d20+90)</HitPoints>
@@ -9709,7 +9709,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 <Monster>
 
 # <Name>Vouivre</Name>
-- <AltName>[Wyvern](monsters_vo.md#wyvern)</AltName>
+- SRD: <AltName>[Wyvern](monsters_vo.md#wyvern)</AltName>
 - <Type>Dragon</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>110 (13d10+39)</HitPoints>
@@ -9746,7 +9746,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 <Monster>
 
 # <Name>Xorn</Name>
-- <AltName>[Xorn](monsters_vo.md#xorn)</AltName>
+- SRD: <AltName>[Xorn](monsters_vo.md#xorn)</AltName>
 - <Type>Élémentaire</Type> de taille <Size>M</Size>, <Alignment>Neutre</Alignment>
 - **Classe d'armure** <ArmorClass>19 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>73 (7d8+42)</HitPoints>
@@ -9791,7 +9791,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 <Monster>
 
 # <Name>Zombi</Name>
-- <AltName>[Zombie](monsters_vo.md#zombie)</AltName>
+- SRD: <AltName>[Zombie](monsters_vo.md#zombie)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>8</ArmorClass>
 - **Points de vie** <HitPoints>22 (3d8+9)</HitPoints>
@@ -9824,7 +9824,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 <Monster>
 
 # <Name>Zombi ogre</Name>
-- <AltName>[Ogre Zombie](monsters_vo.md#ogre-zombie)</AltName>
+- SRD: <AltName>[Ogre Zombie](monsters_vo.md#ogre-zombie)</AltName>
 - <Type>Mort-vivant</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>8</ArmorClass>
 - **Points de vie** <HitPoints>85 (9d10+36)</HitPoints>
@@ -9857,7 +9857,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 <Monster>
 
 # <Name>Aigle</Name>
-- <AltName>[Eagle](monsters_vo.md#eagle)</AltName>
+- SRD: <AltName>[Eagle](monsters_vo.md#eagle)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>3 (1d6)</HitPoints>
@@ -9888,7 +9888,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 <Monster>
 
 # <Name>Aigle géant</Name>
-- <AltName>[Giant Eagle](monsters_vo.md#giant-eagle)</AltName>
+- SRD: <AltName>[Giant Eagle](monsters_vo.md#giant-eagle)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>neutre bon</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
@@ -9925,7 +9925,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Araignée</Name>
-- <AltName>[Spider](monsters_vo.md#spider)</AltName>
+- SRD: <AltName>[Spider](monsters_vo.md#spider)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -9960,7 +9960,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 <Monster>
 
 # <Name>Araignée de phase</Name>
-- <AltName>[Phase Spider](monsters_vo.md#phase-spider)</AltName>
+- SRD: <AltName>[Phase Spider](monsters_vo.md#phase-spider)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>32 (5d10+5)</HitPoints>
@@ -9995,7 +9995,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 <Monster>
 
 # <Name>Araignée géante</Name>
-- <AltName>[Giant Spider](monsters_vo.md#giant-spider)</AltName>
+- SRD: <AltName>[Giant Spider](monsters_vo.md#giant-spider)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
@@ -10034,7 +10034,7 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 <Monster>
 
 # <Name>Araignée-loup géante</Name>
-- <AltName>[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)</AltName>
+- SRD: <AltName>[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -10069,7 +10069,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 <Monster>
 
 # <Name>Arbre éveillé</Name>
-- <AltName>[Awakened Tree](monsters_vo.md#awakened-tree)</AltName>
+- SRD: <AltName>[Awakened Tree](monsters_vo.md#awakened-tree)</AltName>
 - <Type>Plante</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>59 (7d12+14)</HitPoints>
@@ -10101,7 +10101,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 <Monster>
 
 # <Name>Arbuste éveillé</Name>
-- <AltName>[Awakened Shrub](monsters_vo.md#awakened-shrub)</AltName>
+- SRD: <AltName>[Awakened Shrub](monsters_vo.md#awakened-shrub)</AltName>
 - <Type>Plante</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>9</ArmorClass>
 - **Points de vie** <HitPoints>10 (3d6)</HitPoints>
@@ -10133,7 +10133,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 <Monster>
 
 # <Name>Babouin</Name>
-- <AltName>[Baboon](monsters_vo.md#baboon)</AltName>
+- SRD: <AltName>[Baboon](monsters_vo.md#baboon)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>3 (1d6)</HitPoints>
@@ -10163,7 +10163,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 <Monster>
 
 # <Name>Bec de hache</Name>
-- <AltName>[Axe Beak](monsters_vo.md#axe-beak)</AltName>
+- SRD: <AltName>[Axe Beak](monsters_vo.md#axe-beak)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -10189,7 +10189,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 <Monster>
 
 # <Name>Belette</Name>
-- <AltName>[Weasel](monsters_vo.md#weasel)</AltName>
+- SRD: <AltName>[Weasel](monsters_vo.md#weasel)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -10220,7 +10220,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Belette géante</Name>
-- <AltName>[Giant Weasel](monsters_vo.md#giant-weasel)</AltName>
+- SRD: <AltName>[Giant Weasel](monsters_vo.md#giant-weasel)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>9 (2d8)</HitPoints>
@@ -10251,7 +10251,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <Monster>
 
 # <Name>Blaireau</Name>
-- <AltName>[Badger](monsters_vo.md#badger)</AltName>
+- SRD: <AltName>[Badger](monsters_vo.md#badger)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>3 (1d4+1)</HitPoints>
@@ -10281,7 +10281,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Blaireau géant</Name>
-- <AltName>[Giant Badger](monsters_vo.md#giant-badger)</AltName>
+- SRD: <AltName>[Giant Badger](monsters_vo.md#giant-badger)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>13 (2d8+4)</HitPoints>
@@ -10317,7 +10317,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 <Monster>
 
 # <Name>Chacal</Name>
-- <AltName>[Jackal](monsters_vo.md#jackal)</AltName>
+- SRD: <AltName>[Jackal](monsters_vo.md#jackal)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>3 (1d6)</HitPoints>
@@ -10350,7 +10350,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 <Monster>
 
 # <Name>Chameau</Name>
-- <AltName>[Camel](monsters_vo.md#camel)</AltName>
+- SRD: <AltName>[Camel](monsters_vo.md#camel)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>9</ArmorClass>
 - **Points de vie** <HitPoints>15 (2d10+4)</HitPoints>
@@ -10376,7 +10376,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <Monster>
 
 # <Name>Chat</Name>
-- <AltName>[Cat](monsters_vo.md#cat)</AltName>
+- SRD: <AltName>[Cat](monsters_vo.md#cat)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>2 (1d4)</HitPoints>
@@ -10407,7 +10407,7 @@ _Touché :_ 1 dégât tranchant.
 <Monster>
 
 # <Name>Chauve-souris</Name>
-- <AltName>[Bat](monsters_vo.md#bat)</AltName>
+- SRD: <AltName>[Bat](monsters_vo.md#bat)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -10439,7 +10439,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Chauve-souris géante</Name>
-- <AltName>[Giant Bat](monsters_vo.md#giant-bat)</AltName>
+- SRD: <AltName>[Giant Bat](monsters_vo.md#giant-bat)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>22 (4d10)</HitPoints>
@@ -10471,7 +10471,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Cheval de guerre</Name>
-- <AltName>[Warhorse](monsters_vo.md#warhorse)</AltName>
+- SRD: <AltName>[Warhorse](monsters_vo.md#warhorse)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -10572,7 +10572,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 <Monster>
 
 # <Name>Cheval de selle</Name>
-- <AltName>[Riding Horse](monsters_vo.md#riding-horse)</AltName>
+- SRD: <AltName>[Riding Horse](monsters_vo.md#riding-horse)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>13 (2d10+2)</HitPoints>
@@ -10598,7 +10598,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 <Monster>
 
 # <Name>Cheval de trait</Name>
-- <AltName>[Draft Horse](monsters_vo.md#draft-horse)</AltName>
+- SRD: <AltName>[Draft Horse](monsters_vo.md#draft-horse)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -10624,7 +10624,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 <Monster>
 
 # <Name>Chèvre</Name>
-- <AltName>[Goat](monsters_vo.md#goat)</AltName>
+- SRD: <AltName>[Goat](monsters_vo.md#goat)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>4 (1d8)</HitPoints>
@@ -10656,7 +10656,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 <Monster>
 
 # <Name>Chèvre géante</Name>
-- <AltName>[Giant Goat](monsters_vo.md#giant-goat)</AltName>
+- SRD: <AltName>[Giant Goat](monsters_vo.md#giant-goat)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -10688,7 +10688,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 <Monster>
 
 # <Name>Chevreuil</Name>
-- <AltName>[Deer](monsters_vo.md#deer)</AltName>
+- SRD: <AltName>[Deer](monsters_vo.md#deer)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>4 (1d8)</HitPoints>
@@ -10714,7 +10714,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 <Monster>
 
 # <Name>Chien du trépas</Name>
-- <AltName>[Death Dog](monsters_vo.md#death-dog)</AltName>
+- SRD: <AltName>[Death Dog](monsters_vo.md#death-dog)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>M</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>39 (6d8+12)</HitPoints>
@@ -10747,7 +10747,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 <Monster>
 
 # <Name>Chien esquiveur</Name>
-- <AltName>[Blink Dog](monsters_vo.md#blink-dog)</AltName>
+- SRD: <AltName>[Blink Dog](monsters_vo.md#blink-dog)</AltName>
 - <Type>Fée</Type> de taille <Size>M</Size>, <Alignment>Loyal Bon</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
@@ -10780,7 +10780,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 <Monster>
 
 # <Name>Chouette</Name>
-- <AltName>[Owl](monsters_vo.md#owl)</AltName>
+- SRD: <AltName>[Owl](monsters_vo.md#owl)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -10813,7 +10813,7 @@ _Touché :_ 1 dégât tranchant.
 <Monster>
 
 # <Name>Chouette géante</Name>
-- <AltName>[Giant Owl](monsters_vo.md#giant-owl)</AltName>
+- SRD: <AltName>[Giant Owl](monsters_vo.md#giant-owl)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>neutre</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -10846,7 +10846,7 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 <Monster>
 
 # <Name>Corbeau</Name>
-- <AltName>[Raven](monsters_vo.md#raven)</AltName>
+- SRD: <AltName>[Raven](monsters_vo.md#raven)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -10877,7 +10877,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Crabe</Name>
-- <AltName>[Crab](monsters_vo.md#crab)</AltName>
+- SRD: <AltName>[Crab](monsters_vo.md#crab)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>2 (1d4)</HitPoints>
@@ -10908,7 +10908,7 @@ _Touché :_ 1 dégât contondant.
 <Monster>
 
 # <Name>Crabe géant</Name>
-- <AltName>[Giant Crab](monsters_vo.md#giant-crab)</AltName>
+- SRD: <AltName>[Giant Crab](monsters_vo.md#giant-crab)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>13 (3d8)</HitPoints>
@@ -10939,7 +10939,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion 
 <Monster>
 
 # <Name>Crapaud géant</Name>
-- <AltName>[Giant Toad](monsters_vo.md#giant-toad)</AltName>
+- SRD: <AltName>[Giant Toad](monsters_vo.md#giant-toad)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>39 (6d10+6)</HitPoints>
@@ -10975,7 +10975,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 <Monster>
 
 # <Name>Crocodile</Name>
-- <AltName>[Crocodile](monsters_vo.md#crocodile)</AltName>
+- SRD: <AltName>[Crocodile](monsters_vo.md#crocodile)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -11006,7 +11006,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasio
 <Monster>
 
 # <Name>Crocodile géant</Name>
-- <AltName>[Giant Crocodile](monsters_vo.md#giant-crocodile)</AltName>
+- SRD: <AltName>[Giant Crocodile](monsters_vo.md#giant-crocodile)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>85 (9d12+27)</HitPoints>
@@ -11043,7 +11043,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 <Monster>
 
 # <Name>Élan</Name>
-- <AltName>[Elk](monsters_vo.md#elk)</AltName>
+- SRD: <AltName>[Elk](monsters_vo.md#elk)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>13 (2d10+2)</HitPoints>
@@ -11077,7 +11077,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 <Monster>
 
 # <Name>Élan géant</Name>
-- <AltName>[Giant Elk](monsters_vo.md#giant-elk)</AltName>
+- SRD: <AltName>[Giant Elk](monsters_vo.md#giant-elk)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>42 (5d12+10)</HitPoints>
@@ -11112,7 +11112,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 <Monster>
 
 # <Name>Éléphant</Name>
-- <AltName>[Elephant](monsters_vo.md#elephant)</AltName>
+- SRD: <AltName>[Elephant](monsters_vo.md#elephant)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>76 (8d12+24)</HitPoints>
@@ -11146,7 +11146,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 <Monster>
 
 # <Name>Épaulard</Name>
-- <AltName>[Killer Whale](monsters_vo.md#killer-whale)</AltName>
+- SRD: <AltName>[Killer Whale](monsters_vo.md#killer-whale)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>90 (12d12+12)</HitPoints>
@@ -11181,7 +11181,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 <Monster>
 
 # <Name>Faucon</Name>
-- <AltName>[Hawk](monsters_vo.md#hawk)</AltName>
+- SRD: <AltName>[Hawk](monsters_vo.md#hawk)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -11212,7 +11212,7 @@ _Touché :_ 1 dégât tranchant.
 <Monster>
 
 # <Name>Faucon de sang</Name>
-- <AltName>[Blood Hawk](monsters_vo.md#blood-hawk)</AltName>
+- SRD: <AltName>[Blood Hawk](monsters_vo.md#blood-hawk)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>7 (2d6)</HitPoints>
@@ -11245,7 +11245,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <Monster>
 
 # <Name>Grand singe</Name>
-- <AltName>[Ape](monsters_vo.md#ape)</AltName>
+- SRD: <AltName>[Ape](monsters_vo.md#ape)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d8+6)</HitPoints>
@@ -11278,7 +11278,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 <Monster>
 
 # <Name>Grenouille</Name>
-- <AltName>[Frog](monsters_vo.md#frog)</AltName>
+- SRD: <AltName>[Frog](monsters_vo.md#frog)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -11305,7 +11305,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 <Monster>
 
 # <Name>Grenouille géante</Name>
-- <AltName>[Giant Frog](monsters_vo.md#giant-frog)</AltName>
+- SRD: <AltName>[Giant Frog](monsters_vo.md#giant-frog)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>18 (4d8)</HitPoints>
@@ -11342,7 +11342,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 <Monster>
 
 # <Name>Guêpe géante</Name>
-- <AltName>[Giant Wasp](monsters_vo.md#giant-wasp)</AltName>
+- SRD: <AltName>[Giant Wasp](monsters_vo.md#giant-wasp)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>13 (3d8)</HitPoints>
@@ -11434,7 +11434,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Hippocampe</Name>
-- <AltName>[Sea Horse](monsters_vo.md#sea-horse)</AltName>
+- SRD: <AltName>[Sea Horse](monsters_vo.md#sea-horse)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -11458,7 +11458,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Hippocampe géant</Name>
-- <AltName>[Giant Sea Horse](monsters_vo.md#giant-sea-horse)</AltName>
+- SRD: <AltName>[Giant Sea Horse](monsters_vo.md#giant-sea-horse)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>16 (3d10)</HitPoints>
@@ -11490,7 +11490,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 <Monster>
 
 # <Name>Hyène</Name>
-- <AltName>[Hyena](monsters_vo.md#hyena)</AltName>
+- SRD: <AltName>[Hyena](monsters_vo.md#hyena)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>5 (1d8+1)</HitPoints>
@@ -11521,7 +11521,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 <Monster>
 
 # <Name>Hyène géante</Name>
-- <AltName>[Giant Hyena](monsters_vo.md#giant-hyena)</AltName>
+- SRD: <AltName>[Giant Hyena](monsters_vo.md#giant-hyena)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
@@ -11552,7 +11552,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 <Monster>
 
 # <Name>Lézard</Name>
-- <AltName>[Lizard](monsters_vo.md#lizard)</AltName>
+- SRD: <AltName>[Lizard](monsters_vo.md#lizard)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>2 (1d4)</HitPoints>
@@ -11578,7 +11578,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Lézard géant</Name>
-- <AltName>[Giant Lizard](monsters_vo.md#giant-lizard)</AltName>
+- SRD: <AltName>[Giant Lizard](monsters_vo.md#giant-lizard)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d10+3)</HitPoints>
@@ -11604,7 +11604,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <Monster>
 
 # <Name>Lion</Name>
-- <AltName>[Lion](monsters_vo.md#lion)</AltName>
+- SRD: <AltName>[Lion](monsters_vo.md#lion)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
@@ -11643,7 +11643,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 <Monster>
 
 # <Name>Loup</Name>
-- <AltName>[Wolf](monsters_vo.md#wolf)</AltName>
+- SRD: <AltName>[Wolf](monsters_vo.md#wolf)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -11676,7 +11676,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 <Monster>
 
 # <Name>Loup arctique</Name>
-- <AltName>[Winter Wolf](monsters_vo.md#winter-wolf)</AltName>
+- SRD: <AltName>[Winter Wolf](monsters_vo.md#winter-wolf)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>75 (10d10+20)</HitPoints>
@@ -11716,7 +11716,7 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de 
 <Monster>
 
 # <Name>Loup sanguinaire</Name>
-- <AltName>[Dire Wolf](monsters_vo.md#dire-wolf)</AltName>
+- SRD: <AltName>[Dire Wolf](monsters_vo.md#dire-wolf)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>37 (5d10+10)</HitPoints>
@@ -11749,7 +11749,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 <Monster>
 
 # <Name>Mammouth</Name>
-- <AltName>[Mammoth](monsters_vo.md#mammoth)</AltName>
+- SRD: <AltName>[Mammoth](monsters_vo.md#mammoth)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>126 (11d12+55)</HitPoints>
@@ -11783,7 +11783,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 <Monster>
 
 # <Name>Mastiff</Name>
-- <AltName>[Mastiff](monsters_vo.md#mastiff)</AltName>
+- SRD: <AltName>[Mastiff](monsters_vo.md#mastiff)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>5 (1d8+1)</HitPoints>
@@ -11814,7 +11814,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 <Monster>
 
 # <Name>Mille-pattes géant</Name>
-- <AltName>[Giant Centipede](monsters_vo.md#giant-centipede)</AltName>
+- SRD: <AltName>[Giant Centipede](monsters_vo.md#giant-centipede)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>4 (1d6+1)</HitPoints>
@@ -11840,7 +11840,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 <Monster>
 
 # <Name>Mule</Name>
-- <AltName>[Mule](monsters_vo.md#mule)</AltName>
+- SRD: <AltName>[Mule](monsters_vo.md#mule)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -11872,7 +11872,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 <Monster>
 
 # <Name>Nuée de chauve-souris</Name>
-- <AltName>[Swarm of Bats](monsters_vo.md#swarm-of-bats)</AltName>
+- SRD: <AltName>[Swarm of Bats](monsters_vo.md#swarm-of-bats)</AltName>
 - <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d8)</HitPoints>
@@ -11908,7 +11908,7 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 <Monster>
 
 # <Name>Nuée de corbeaux</Name>
-- <AltName>[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)</AltName>
+- SRD: <AltName>[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)</AltName>
 - <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>24 (7d8-7)</HitPoints>
@@ -11941,7 +11941,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 <Monster>
 
 # <Name>Nuée de piranhas</Name>
-- <AltName>[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)</AltName>
+- SRD: <AltName>[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)</AltName>
 - <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>28 (8d8-8)</HitPoints>
@@ -11977,7 +11977,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 <Monster>
 
 # <Name>Nuée de rats</Name>
-- <AltName>[Swarm of Rats](monsters_vo.md#swarm-of-rats)</AltName>
+- SRD: <AltName>[Swarm of Rats](monsters_vo.md#swarm-of-rats)</AltName>
 - <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>24 (7d8-7)</HitPoints>
@@ -12011,7 +12011,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 <Monster>
 
 # <Name>Nuée de serpents venimeux</Name>
-- <AltName>[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)</AltName>
+- SRD: <AltName>[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)</AltName>
 - <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14</ArmorClass>
 - **Points de vie** <HitPoints>36 (8d8)</HitPoints>
@@ -12043,7 +12043,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 <Monster>
 
 # <Name>Nuée d'insectes</Name>
-- <AltName>[Swarm of Insects](monsters_vo.md#swarm-of-insects)</AltName>
+- SRD: <AltName>[Swarm of Insects](monsters_vo.md#swarm-of-insects)</AltName>
 - <Type>Nuée</Type> de taille <Size>M composée de bêtes de taille TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>22 (5d8)</HitPoints>
@@ -12092,7 +12092,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 <Monster>
 
 # <Name>Ours brun</Name>
-- <AltName>[Brown Bear](monsters_vo.md#brown-bear)</AltName>
+- SRD: <AltName>[Brown Bear](monsters_vo.md#brown-bear)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>34 (4d10+12)</HitPoints>
@@ -12129,7 +12129,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 <Monster>
 
 # <Name>Ours noir</Name>
-- <AltName>[Black Bear](monsters_vo.md#black-bear)</AltName>
+- SRD: <AltName>[Black Bear](monsters_vo.md#black-bear)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>19 (3d8+6)</HitPoints>
@@ -12166,7 +12166,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Ours polaire</Name>
-- <AltName>[Polar Bear](monsters_vo.md#polar-bear)</AltName>
+- SRD: <AltName>[Polar Bear](monsters_vo.md#polar-bear)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>42 (5d10+15)</HitPoints>
@@ -12203,7 +12203,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 <Monster>
 
 # <Name>Panthère</Name>
-- <AltName>[Panther](monsters_vo.md#panther)</AltName>
+- SRD: <AltName>[Panther](monsters_vo.md#panther)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>13 (3d8)</HitPoints>
@@ -12240,7 +12240,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Pieuvre</Name>
-- <AltName>[Octopus](monsters_vo.md#octopus)</AltName>
+- SRD: <AltName>[Octopus](monsters_vo.md#octopus)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>3 (1d6)</HitPoints>
@@ -12277,7 +12277,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 <Monster>
 
 # <Name>Pieuvre géante</Name>
-- <AltName>[Giant Octopus](monsters_vo.md#giant-octopus)</AltName>
+- SRD: <AltName>[Giant Octopus](monsters_vo.md#giant-octopus)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11</ArmorClass>
 - **Points de vie** <HitPoints>52 (8d10+8)</HitPoints>
@@ -12316,7 +12316,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 <Monster>
 
 # <Name>Piranha</Name>
-- <AltName>[Quipper](monsters_vo.md#quipper)</AltName>
+- SRD: <AltName>[Quipper](monsters_vo.md#quipper)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -12348,7 +12348,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Poney</Name>
-- <AltName>[Pony](monsters_vo.md#pony)</AltName>
+- SRD: <AltName>[Pony](monsters_vo.md#pony)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -12374,7 +12374,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 <Monster>
 
 # <Name>Punaise de feu géante</Name>
-- <AltName>[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)</AltName>
+- SRD: <AltName>[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>4 (1d6+1)</HitPoints>
@@ -12404,7 +12404,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 <Monster>
 
 # <Name>Rat</Name>
-- <AltName>[Rat](monsters_vo.md#rat)</AltName>
+- SRD: <AltName>[Rat](monsters_vo.md#rat)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -12434,7 +12434,7 @@ _Touché :_ 1 dégât perforant.
 <Monster>
 
 # <Name>Rat géant</Name>
-- <AltName>[Giant Rat](monsters_vo.md#giant-rat)</AltName>
+- SRD: <AltName>[Giant Rat](monsters_vo.md#giant-rat)</AltName>
 - <Type>Bête</Type> de taille <Size>P</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>7 (2d6)</HitPoints>
@@ -12474,7 +12474,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 <Monster>
 
 # <Name>Requin chasseur</Name>
-- <AltName>[Hunter Shark](monsters_vo.md#hunter-shark)</AltName>
+- SRD: <AltName>[Hunter Shark](monsters_vo.md#hunter-shark)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
@@ -12507,7 +12507,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 <Monster>
 
 # <Name>Requin de récif</Name>
-- <AltName>[Reef Shark](monsters_vo.md#reef-shark)</AltName>
+- SRD: <AltName>[Reef Shark](monsters_vo.md#reef-shark)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>22 (4d8+4)</HitPoints>
@@ -12540,7 +12540,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 <Monster>
 
 # <Name>Requin géant</Name>
-- <AltName>[Giant Shark](monsters_vo.md#giant-shark)</AltName>
+- SRD: <AltName>[Giant Shark](monsters_vo.md#giant-shark)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>126 (11d12+55)</HitPoints>
@@ -12573,7 +12573,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 <Monster>
 
 # <Name>Rhinocéros</Name>
-- <AltName>[Rhinoceros](monsters_vo.md#rhinoceros)</AltName>
+- SRD: <AltName>[Rhinoceros](monsters_vo.md#rhinoceros)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>45 (6d10+12)</HitPoints>
@@ -12605,7 +12605,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 <Monster>
 
 # <Name>Sanglier</Name>
-- <AltName>[Boar](monsters_vo.md#boar)</AltName>
+- SRD: <AltName>[Boar](monsters_vo.md#boar)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -12637,7 +12637,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 <Monster>
 
 # <Name>Sanglier géant</Name>
-- <AltName>[Giant Boar](monsters_vo.md#giant-boar)</AltName>
+- SRD: <AltName>[Giant Boar](monsters_vo.md#giant-boar)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>42 (5d10+15)</HitPoints>
@@ -12669,7 +12669,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Scorpion</Name>
-- <AltName>[Scorpion](monsters_vo.md#scorpion)</AltName>
+- SRD: <AltName>[Scorpion](monsters_vo.md#scorpion)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>1 (1d4-1)</HitPoints>
@@ -12695,7 +12695,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 <Monster>
 
 # <Name>Scorpion géant</Name>
-- <AltName>[Giant Scorpion](monsters_vo.md#giant-scorpion)</AltName>
+- SRD: <AltName>[Giant Scorpion](monsters_vo.md#giant-scorpion)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>52 (7d10+14)</HitPoints>
@@ -12727,7 +12727,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 <Monster>
 
 # <Name>Serpent constricteur</Name>
-- <AltName>[Constrictor Snake](monsters_vo.md#constrictor-snake)</AltName>
+- SRD: <AltName>[Constrictor Snake](monsters_vo.md#constrictor-snake)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>13 (2d10+2)</HitPoints>
@@ -12757,7 +12757,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Serpent constricteur géant</Name>
-- <AltName>[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)</AltName>
+- SRD: <AltName>[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>60 (8d12+8)</HitPoints>
@@ -12788,7 +12788,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 <Monster>
 
 # <Name>Serpent venimeux</Name>
-- <AltName>[Poisonous Snake](monsters_vo.md#poisonous-snake)</AltName>
+- SRD: <AltName>[Poisonous Snake](monsters_vo.md#poisonous-snake)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>13</ArmorClass>
 - **Points de vie** <HitPoints>2 (1d4)</HitPoints>
@@ -12814,7 +12814,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 <Monster>
 
 # <Name>Serpent venimeux géant</Name>
-- <AltName>[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)</AltName>
+- SRD: <AltName>[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -12843,7 +12843,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la
 <Monster>
 
 # <Name>Serpent volant</Name>
-- <AltName>[Flying Snake](monsters_vo.md#flying-snake)</AltName>
+- SRD: <AltName>[Flying Snake](monsters_vo.md#flying-snake)</AltName>
 - <Type>Bête</Type> de taille <Size>TP</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>14</ArmorClass>
 - **Points de vie** <HitPoints>5 (2d4)</HitPoints>
@@ -12873,7 +12873,7 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 <Monster>
 
 # <Name>Singe géant</Name>
-- <AltName>[Giant Ape](monsters_vo.md#giant-ape)</AltName>
+- SRD: <AltName>[Giant Ape](monsters_vo.md#giant-ape)</AltName>
 - <Type>Bête</Type> de taille <Size>TG</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>157 (15d12+60)</HitPoints>
@@ -12906,7 +12906,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 <Monster>
 
 # <Name>Tigre</Name>
-- <AltName>[Tiger](monsters_vo.md#tiger)</AltName>
+- SRD: <AltName>[Tiger](monsters_vo.md#tiger)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>37 (5d10+10)</HitPoints>
@@ -12943,7 +12943,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 <Monster>
 
 # <Name>Tigre à dents de sabre</Name>
-- <AltName>[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)</AltName>
+- SRD: <AltName>[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>52 (7d10+14)</HitPoints>
@@ -12980,7 +12980,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 <Monster>
 
 # <Name>Vautour</Name>
-- <AltName>[Vulture](monsters_vo.md#vulture)</AltName>
+- SRD: <AltName>[Vulture](monsters_vo.md#vulture)</AltName>
 - <Type>Bête</Type> de taille <Size>M</Size>, <Alignment>non-alignée</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>5 (1d188+1)</HitPoints>
@@ -13013,7 +13013,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 <Monster>
 
 # <Name>Vautour géant</Name>
-- <AltName>[Giant Vulture](monsters_vo.md#giant-vulture)</AltName>
+- SRD: <AltName>[Giant Vulture](monsters_vo.md#giant-vulture)</AltName>
 - <Type>Bête</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>22 (3d10+6)</HitPoints>
@@ -13052,7 +13052,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 <Monster>
 
 # <Name>Worg</Name>
-- <AltName>[Worg](monsters_vo.md#worg)</AltName>
+- SRD: <AltName>[Worg](monsters_vo.md#worg)</AltName>
 - <Type>Créature monstrueuse</Type> de taille <Size>G</Size>, <Alignment>Neutre Mauvais</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure naturelle)</ArmorClass>
 - **Points de vie** <HitPoints>26 (4d10+4)</HitPoints>
@@ -13083,7 +13083,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 <Monster>
 
 # <Name>Acolyte</Name>
-- <AltName>[Acolyte](monsters_vo.md#acolyte)</AltName>
+- SRD: <AltName>[Acolyte](monsters_vo.md#acolyte)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>9 (2d8)</HitPoints>
@@ -13118,7 +13118,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <Monster>
 
 # <Name>Archimage</Name>
-- <AltName>[Archmage](monsters_vo.md#archmage)</AltName>
+- SRD: <AltName>[Archmage](monsters_vo.md#archmage)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>12 (15 avec armure du mage)</ArmorClass>
 - **Points de vie** <HitPoints>99 (18d8+18)</HitPoints>
@@ -13177,7 +13177,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <Monster>
 
 # <Name>Assassin</Name>
-- <AltName>[Assassin](monsters_vo.md#assassin)</AltName>
+- SRD: <AltName>[Assassin](monsters_vo.md#assassin)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Bon</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure de cuir clouté)</ArmorClass>
 - **Points de vie** <HitPoints>78 (12d8+24)</HitPoints>
@@ -13220,7 +13220,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 <Monster>
 
 # <Name>Bandit</Name>
-- <AltName>[Bandit](monsters_vo.md#bandit)</AltName>
+- SRD: <AltName>[Bandit](monsters_vo.md#bandit)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Loyal</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -13250,7 +13250,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 <Monster>
 
 # <Name>Berserker</Name>
-- <AltName>[Berserker](monsters_vo.md#berserker)</AltName>
+- SRD: <AltName>[Berserker](monsters_vo.md#berserker)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement Chaotique</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure de peau)</ArmorClass>
 - **Points de vie** <HitPoints>67 (9d8+27)</HitPoints>
@@ -13280,7 +13280,7 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 <Monster>
 
 # <Name>Capitaine bandit</Name>
-- <AltName>[Bandit Captain](monsters_vo.md#bandit-captain)</AltName>
+- SRD: <AltName>[Bandit Captain](monsters_vo.md#bandit-captain)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Loyal</Alignment>
 - **Classe d'armure** <ArmorClass>15 (armure de cuir clouté)</ArmorClass>
 - **Points de vie** <HitPoints>65 (10d8+20)</HitPoints>
@@ -13318,7 +13318,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 <Monster>
 
 # <Name>Chevalier</Name>
-- <AltName>[Knight](monsters_vo.md#knight)</AltName>
+- SRD: <AltName>[Knight](monsters_vo.md#knight)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>18 (harnois)</ArmorClass>
 - **Points de vie** <HitPoints>52 (8d8+16)</HitPoints>
@@ -13361,7 +13361,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 <Monster>
 
 # <Name>Druide</Name>
-- <AltName>[Druid](monsters_vo.md#druid)</AltName>
+- SRD: <AltName>[Druid](monsters_vo.md#druid)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>11 (16 avec peau d'écorce)</ArmorClass>
 - **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
@@ -13398,7 +13398,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 <Monster>
 
 # <Name>Ecclésiastique</Name>
-- <AltName>[Priest](monsters_vo.md#priest)</AltName>
+- SRD: <AltName>[Priest](monsters_vo.md#priest)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>13 (chemise de mailles)</ArmorClass>
 - **Points de vie** <HitPoints>27 (5d8+5)</HitPoints>
@@ -13441,7 +13441,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 <Monster>
 
 # <Name>Éclaireur</Name>
-- <AltName>[Scout](monsters_vo.md#scout)</AltName>
+- SRD: <AltName>[Scout](monsters_vo.md#scout)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>16 (3d8+3)</HitPoints>
@@ -13478,7 +13478,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Espion</Name>
-- <AltName>[Spy](monsters_vo.md#spy)</AltName>
+- SRD: <AltName>[Spy](monsters_vo.md#spy)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>12</ArmorClass>
 - **Points de vie** <HitPoints>27 (6d8)</HitPoints>
@@ -13517,7 +13517,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 <Monster>
 
 # <Name>Fanatique de secte</Name>
-- <AltName>[Cult Fanatic](monsters_vo.md#cult-fanatic)</AltName>
+- SRD: <AltName>[Cult Fanatic](monsters_vo.md#cult-fanatic)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Bon</Alignment>
 - **Classe d'armure** <ArmorClass>13 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>33 (6d8+6)</HitPoints>
@@ -13558,7 +13558,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <Monster>
 
 # <Name>Garde</Name>
-- <AltName>[Guard](monsters_vo.md#guard)</AltName>
+- SRD: <AltName>[Guard](monsters_vo.md#guard)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>16 (bouclier, chemise de mailles)</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -13585,7 +13585,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 <Monster>
 
 # <Name>Gladiateur</Name>
-- <AltName>[Gladiator](monsters_vo.md#gladiator)</AltName>
+- SRD: <AltName>[Gladiator](monsters_vo.md#gladiator)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>16 (armure de cuir clouté, bouclier)</ArmorClass>
 - **Points de vie** <HitPoints>112 (15d8+45)</HitPoints>
@@ -13631,7 +13631,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 <Monster>
 
 # <Name>Guerrier tribal</Name>
-- <AltName>[Tribal Warrior](monsters_vo.md#tribal-warrior)</AltName>
+- SRD: <AltName>[Tribal Warrior](monsters_vo.md#tribal-warrior)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure de peau)</ArmorClass>
 - **Points de vie** <HitPoints>11 (2d8+2)</HitPoints>
@@ -13661,7 +13661,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 <Monster>
 
 # <Name>Mage</Name>
-- <AltName>[Mage](monsters_vo.md#mage)</AltName>
+- SRD: <AltName>[Mage](monsters_vo.md#mage)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>12 (15 avec armure du mage)</ArmorClass>
 - **Points de vie** <HitPoints>40 (9d8)</HitPoints>
@@ -13705,7 +13705,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 <Monster>
 
 # <Name>Malfrat</Name>
-- <AltName>[Thug](monsters_vo.md#thug)</AltName>
+- SRD: <AltName>[Thug](monsters_vo.md#thug)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que bon</Alignment>
 - **Classe d'armure** <ArmorClass>11 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>32 (5d8+10)</HitPoints>
@@ -13744,7 +13744,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 <Monster>
 
 # <Name>Membre de secte</Name>
-- <AltName>[Cultist](monsters_vo.md#cultist)</AltName>
+- SRD: <AltName>[Cultist](monsters_vo.md#cultist)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement autre que Bon</Alignment>
 - **Classe d'armure** <ArmorClass>12 (armure de cuir)</ArmorClass>
 - **Points de vie** <HitPoints>9 (2d8)</HitPoints>
@@ -13775,7 +13775,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 <Monster>
 
 # <Name>Noble</Name>
-- <AltName>[Noble](monsters_vo.md#noble)</AltName>
+- SRD: <AltName>[Noble](monsters_vo.md#noble)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>15 (cuirasse)</ArmorClass>
 - **Points de vie** <HitPoints>9 (2d8)</HitPoints>
@@ -13806,7 +13806,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 <Monster>
 
 # <Name>Roturier</Name>
-- <AltName>[Commoner](monsters_vo.md#commoner)</AltName>
+- SRD: <AltName>[Commoner](monsters_vo.md#commoner)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>n'importe quel alignement</Alignment>
 - **Classe d'armure** <ArmorClass>10</ArmorClass>
 - **Points de vie** <HitPoints>4 (1d8)</HitPoints>
@@ -13832,7 +13832,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 <Monster>
 
 # <Name>Vétéran</Name>
-- <AltName>[Veteran](monsters_vo.md#veteran)</AltName>
+- SRD: <AltName>[Veteran](monsters_vo.md#veteran)</AltName>
 - <Type>Humanoïde (n'importe quelle race)</Type> de taille <Size>M</Size>, <Alignment>alignement quelconque</Alignment>
 - **Classe d'armure** <ArmorClass>17 (clibanion)</ArmorClass>
 - **Points de vie** <HitPoints>58 (9d8+18)</HitPoints>

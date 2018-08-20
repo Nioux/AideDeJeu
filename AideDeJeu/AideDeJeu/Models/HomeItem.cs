@@ -14,10 +14,5 @@ namespace AideDeJeuLib
                 return AideDeJeu.Tools.Helpers.GetResourceString($"AideDeJeu.Data.index.md");
             }
         }
-
-        //public override void Parse(ref ContainerBlock.Enumerator enumerator)
-        //{
-
-        //}
     }
 }
