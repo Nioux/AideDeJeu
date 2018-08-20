@@ -15,7 +15,7 @@ namespace AideDeJeuLib
         public string ArmorClass { get; set; }
         public string Discretion { get; set; }
         public string Weight { get; set; }
-        public string Force { get; set; }
+        public string Strength { get; set; }
         public string Rarity { get; set; }
         public string Damages { get; set; }
         public string Properties { get; set; }
@@ -91,7 +91,7 @@ namespace AideDeJeuLib
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Force** ", (m, s) =>
                                         {
-                                            this.Markdown += "- " + str; m.Force = s;
+                                            this.Markdown += "- " + str; m.Strength = s;
                                         }),
                                         new Tuple<string, Action<Equipment, string>>("**Rareté** ", (m, s) =>
                                         {

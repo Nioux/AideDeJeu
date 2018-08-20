@@ -1,2428 +1,2953 @@
-[][Equipments]
+<Equipments>
 
-# Équipement
+# <Name>Équipement</Name>
 
-[][Equipment]
+<Equipment>
 
-# Armure matelassée 
+# <Name>Armure matelassée</Name>
 
-- **Type** Armure légère 
-- **Prix** 5 po 
-- **Classe d'armure** 11 + modifcateur de Dex 
-- **Discrétion** Désavantage 
-- **Poids** 4 kg
+- **Type** <Type>Armure légère</Type>
+- **Prix** <Price>5 po</Price>
+- **Classe d'armure** <ArmorClass>11 + modifcateur de Dex</ArmorClass>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>4 kg</Weight>
 
 Une armure matelassée est faite de couches de tissu rembourrées.
 
-[][Equipment]
+</Equipment>
 
-# Armure de cuir 
+<Equipment>
 
-- **Type** Armure légère
-- **Prix** 10 po 
-- **Classe d'armure** 11 + modifcateur de Dex 
-- **Poids** 5 kg
+# <Name>Armure de cuir</Name>
+
+- **Type** <Type>Armure légère</Type>
+- **Prix** <Price>10 po</Price>
+- **Classe d'armure** <ArmorClass>11 + modifcateur de Dex</ArmorClass>
+- **Poids** <Weight>5 kg</Weight>
 
 La cuirasse et les spalières de cette armure sont en cuir bouilli dans l'huile pour le durcir. Le reste de l'armure est composé de matériaux plus souples et plus flexibles.
 
-[][Equipment]
+</Equipment>
 
-# Armure de cuir clouté 
+<Equipment>
 
-- **Type** Armure légère
-- **Prix** 45 po 
-- **Classe d'armure** 12 + modifcateur de Dex 
-- **Poids** 6,5 kg
+# <Name>Armure de cuir clouté</Name>
+
+- **Type** <Type>Armure légère</Type>
+- **Prix** <Price>45 po</Price>
+- **Classe d'armure** <ArmorClass>12 + modifcateur de Dex</ArmorClass>
+- **Poids** <Weight>6,5 kg</Weight>
 
 Cette armure est faite d'un cuir résistant mais souple, piqueté de rivets à intervalles réguliers.
 
-[][Equipment]
+</Equipment>
 
-# Armure de peau 
+<Equipment>
 
-- **Type** Armure intermédiaire
-- **Prix** 10 po 
-- **Classe d'armure** 12 + modifcateur de Dex (max 2) 
-- **Poids** 6 kg
+# <Name>Armure de peau</Name>
+
+- **Type** <Type>Armure intermédiaire</Type>
+- **Prix** <Price>10 po</Price>
+- **Classe d'armure** <ArmorClass>12 + modifcateur de Dex (max 2)</ArmorClass>
+- **Poids** <Weight>6 kg</Weight>
 
 Cette armure fruste est composée d'épaisses fourrures et de peaux de bêtes. Elle est généralement portée par les tribus barbares, les humanoïdes maléfques et autres personnes qui n'ont pas accès aux outils et matériaux nécessaires pour fabriquer de meilleures armures
 
-[][Equipment]
+</Equipment>
 
-# Chemise de mailles 
+<Equipment>
 
-- **Type** Armure intermédiaire
-- **Prix** 50 po 
-- **Classe d'armure** 13 + modifcateur de Dex (max 2) 
-- **Poids** 10 kg
+# <Name>Chemise de mailles</Name>
+
+- **Type** <Type>Armure intermédiaire</Type>
+- **Prix** <Price>50 po</Price>
+- **Classe d'armure** <ArmorClass>13 + modifcateur de Dex (max 2)</ArmorClass>
+- **Poids** <Weight>10 kg</Weight>
 
 Une chemise de mailles est faite d'anneaux métalliques reliés entre eux. Elle est portée entre plusieurs couches de tissu ou de cuir. Cette armure offre une modeste protection au tronc de son porteur et le crissement des anneaux est étouffé par les couches qui les recouvrent.
 
-[][Equipment]
+</Equipment>
 
-# Armure d'écailles 
+<Equipment>
 
-- **Type** Armure intermédiaire
-- **Prix** 50 po 
-- **Classe d'armure** 14 + modifcateur de Dex (max 2) 
-- **Discrétion** Désavantage 
-- **Poids** 22,5 kg
+# <Name>Armure d'écailles</Name>
+
+- **Type** <Type>Armure intermédiaire</Type>
+- **Prix** <Price>50 po</Price>
+- **Classe d'armure** <ArmorClass>14 + modifcateur de Dex (max 2)</ArmorClass>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>22,5 kg</Weight>
 
 Cette armure se compose d'un manteau et d'un pantalon (et parfois d'une jupe séparée) de cuir recouverts de plaques de métal qui se superposent, un peu comme les écailles d'un poisson. Des gantelets viennent compléter l'ensemble.
 
-[][Equipment]
+</Equipment>
 
-# Cuirasse 
+<Equipment>
 
-- **Type** Armure intermédiaire
-- **Prix** 400 po 
-- **Classe d'armure** 14 + modifcateur de Dex (max 2) 
-- **Poids** 10 kg
+# <Name>Cuirasse</Name>
+
+- **Type** <Type>Armure intermédiaire</Type>
+- **Prix** <Price>400 po</Price>
+- **Classe d'armure** <ArmorClass>14 + modifcateur de Dex (max 2)</ArmorClass>
+- **Poids** <Weight>10 kg</Weight>
 
 Cette armure consiste en une pièce de métal qui couvre le buste, complétée de cuir souple. Bien que les bras et les jambes de son porteur soient peu protégés, cette armure permet de protéger efcacement les organes vitaux sans réduire la liberté de mouvement de son porteur.
 
-[][Equipment]
+</Equipment>
 
-# Armure de demi-plate 
+<Equipment>
 
-- **Type** Armure intermédiaire
-- **Prix** 750 po 
-- **Classe d'armure** 15 + modifcateur de Dex (max 2) 
-- **Discrétion** Désavantage 
-- **Poids** 20 kg
+# <Name>Armure de demi-plate</Name>
+
+- **Type** <Type>Armure intermédiaire</Type>
+- **Prix** <Price>750 po</Price>
+- **Classe d'armure** <ArmorClass>15 + modifcateur de Dex (max 2)</ArmorClass>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>20 kg</Weight>
 
 Cette armure se compose de plaques de métal qui couvrent la majorité du haut du corps de son porteur. Par contre, ses jambes sont seulement protégées par des grèves attachées par des lanières de cuir.
 
-[][Equipment]
+</Equipment>
 
-# Armure annelée (Broigne)
+<Equipment>
 
-- **Type** Armure lourde
-- **Prix** 30 po 
-- **Classe d'armure** 14 
-- **Discrétion** Désavantage 
-- **Poids** 20 kg
+# <Name>Armure annelée (Broigne)</Name>
+
+- **Type** <Type>Armure lourde</Type>
+- **Prix** <Price>30 po</Price>
+- **Classe d'armure** <ArmorClass>14</ArmorClass>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>20 kg</Weight>
 
 Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'oﬀrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'oﬀrir une meilleure armure.
 
-[][Equipment]
+</Equipment>
 
-# Cotte de mailles 
+<Equipment>
 
-- **Type** Armure lourde
-- **Prix** 75 po 
-- **Classe d'armure** 16 
-- **Force** 13 
-- **Discrétion** Désavantage 
-- **Poids** 27,5 kg
+# <Name>Cotte de mailles</Name>
+
+- **Type** <Type>Armure lourde</Type>
+- **Prix** <Price>75 po</Price>
+- **Classe d'armure** <ArmorClass>16</ArmorClass>
+- **Force** <Strength>13</Strength>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>27,5 kg</Weight>
 
 Une cotte de mailles est faite d'anneaux de métal entrecroisés. Elle se porte sur une couche de tissu renforcé afn d'éviter les frottements et d'amortir les coups. L'armure comporte des gantelets.
 
-[][Equipment]
+</Equipment>
 
-# Clibanion 
+<Equipment>
 
-- **Type** Armure lourde
-- **Prix** 200 po 
-- **Classe d'armure** 17 
-- **Force** 15 
-- **Discrétion** Désavantage 
-- **Poids** 30 kg
+# <Name>Clibanion</Name>
+
+- **Type** <Type>Armure lourde</Type>
+- **Prix** <Price>200 po</Price>
+- **Classe d'armure** <ArmorClass>17</ArmorClass>
+- **Force** <Strength>15</Strength>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>30 kg</Weight>
 
 Cette armure est faite d'étroites plaques de métal rivetées à un support de cuir porté sur un vêtement rembourré. Les articulations sont protégées par des pièces de cotte de mailles plus souples.
 
-[][Equipment]
+</Equipment>
 
-# Harnois 
+<Equipment>
 
-- **Type** Armure lourde
-- **Prix** 1 500 po 
-- **Classe d'armure** 18 
-- **Force** 15 
-- **Discrétion** Désavantage 
-- **Poids** 32,5 kg
+# <Name>Harnois</Name>
+
+- **Type** <Type>Armure lourde</Type>
+- **Prix** <Price>1 500 po</Price>
+- **Classe d'armure** <ArmorClass>18</ArmorClass>
+- **Force** <Strength>15</Strength>
+- **Discrétion** <Discretion>Désavantage</Discretion>
+- **Poids** <Weight>32,5 kg</Weight>
 
 Le harnois, ou armure de plates, est constitué de plaques de métal superposées qui couvrent l'ensemble du corps. L'armure inclut des gantelets lourds, de lourdes bottes de cuir, un casque avec une visière et plusieurs épaisseurs de rembourrage sous l'armure. Des sangles permettent de répartir le poids sur tout le corps.
 
-[][Equipment]
+</Equipment>
 
-# Bouclier 
+<Equipment>
 
-- **Type** Bouclier
-- **Prix** 10 po 
-- **Classe d'armure** +2 
-- **Poids** 3 kg
+# <Name>Bouclier</Name>
+
+- **Type** <Type>Bouclier</Type>
+- **Prix** <Price>10 po</Price>
+- **Classe d'armure** <ArmorClass>+2</ArmorClass>
+- **Poids** <Weight>3 kg</Weight>
 
 Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bouclier augmente votre classe d'armure de 2. Vous ne pouvez pas bénéfcier de plus d'un bouclier à la fois.
 
 
 
-[][Equipment]
+</Equipment>
 
-# Bâton 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 2 pa 
-- **Dégâts** 1d6 contondant 
-- **Poids** 2 kg 
-- **Propriétés** [Polyvalente] (1d8)
+# <Name>Bâton</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>2 pa</Price>
+- **Dégâts** <Damages>1d6 contondant</Damages>
+- **Poids** <Weight>2 kg</Weight>
+- **Propriétés** <Properties>[Polyvalente] (1d8)</Properties>
 
-# Dague 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 2 po 
-- **Dégâts** 1d4 perforant 
-- **Poids** 0,5 kg 
-- **Propriétés** [Finesse], [légère], [lancer] (portée 6/18)
+<Equipment>
 
-[][Equipment]
+# <Name>Dague</Name>
 
-# Gourdin 
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>2 po</Price>
+- **Dégâts** <Damages>1d4 perforant</Damages>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Propriétés** <Properties>[Finesse], [légère], [lancer] (portée 6/18)</Properties>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 1 pa 
-- **Dégâts** 1d4 contondant 
-- **Poids** 1 kg 
-- **Propriétés** [Légère]
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Hachette 
+# <Name>Gourdin</Name>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 5 po 
-- **Dégâts** 1d6 tranchant 
-- **Poids** 1 kg 
-- **Propriétés** [Légère], [lancer] (portée 6/18)
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>1 pa</Price>
+- **Dégâts** <Damages>1d4 contondant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Légère]</Properties>
 
-[][Equipment]
+</Equipment>
 
-# Javeline 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 5 pa 
-- **Dégâts** 1d6 perforant 
-- **Poids** 1 kg 
-- **Propriétés** [Lancer] (portée 9/36)
+# <Name>Hachette</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>5 po</Price>
+- **Dégâts** <Damages>1d6 tranchant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Légère], [lancer] (portée 6/18)</Properties>
 
-# Lance 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 1 po 
-- **Dégâts** 1d6 perforant 
-- **Poids** 1,5 kg 
-- **Propriétés** [Lancer] (portée 6/18), [polyvalente] (1d8)
+<Equipment>
 
-[][Equipment]
+# <Name>Javeline</Name>
 
-# Marteau léger 
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>5 pa</Price>
+- **Dégâts** <Damages>1d6 perforant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Lancer] (portée 9/36)</Properties>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 2 po 
-- **Dégâts** 1d4 contondant 
-- **Poids** 1 kg 
-- **Propriétés** [Légère], [lancer] (6/18)
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Masse d'armes 
+# <Name>Lance</Name>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 5 po 
-- **Dégâts** 1d6 contondant 
-- **Poids** 2 kg 
-- **Propriétés** _
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>1 po</Price>
+- **Dégâts** <Damages>1d6 perforant</Damages>
+- **Poids** <Weight>1,5 kg</Weight>
+- **Propriétés** <Properties>[Lancer] (portée 6/18), [polyvalente] (1d8)</Properties>
 
-[][Equipment]
+</Equipment>
 
-# Massue 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 2 pa 
-- **Dégâts** 1d8 contondant 
-- **Poids** 5 kg 
-- **Propriétés** [À deux mains]
+# <Name>Marteau léger</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>2 po</Price>
+- **Dégâts** <Damages>1d4 contondant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Légère], [lancer] (6/18)</Properties>
 
-# Serpe 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** Courante
-- **Prix** 1 po 
-- **Dégâts** 1d4 tranchant 
-- **Poids** 1 kg 
-- **Propriétés** [Légère]
+<Equipment>
 
+# <Name>Masse d'armes</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>5 po</Price>
+- **Dégâts** <Damages>1d6 contondant</Damages>
+- **Poids** <Weight>2 kg</Weight>
+- **Propriétés** <Properties>_</Properties>
 
-# Arbalète légère 
+</Equipment>
 
-- **Type** Arme à distance
-- **Rareté** Courante
-- **Prix** 25 po 
-- **Dégâts** 1d8 perforant 
-- **Poids** 2,5 kg 
-- **Propriétés** [Munitions] (portée 24/96), [chargement], [à deux mains]
+<Equipment>
 
-[][Equipment]
+# <Name>Massue</Name>
 
-# Arc court 
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>2 pa</Price>
+- **Dégâts** <Damages>1d8 contondant</Damages>
+- **Poids** <Weight>5 kg</Weight>
+- **Propriétés** <Properties>[À deux mains]</Properties>
 
-- **Type** Arme à distance
-- **Rareté** Courante
-- **Prix** 25 po 
-- **Dégâts** 1d6 perforant 
-- **Poids** 1 kg 
-- **Propriétés** [Munitions] (portée 24/96), [à deux mains]
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Fléchette 
+# <Name>Serpe</Name>
 
-- **Type** Arme à distance
-- **Rareté** Courante
-- **Prix** 5 pc 
-- **Dégâts** 1d4 perforant 
-- **Poids** 0,1 kg 
-- **Propriétés** [Finesse], [lancer] (portée 6/18)
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>1 po</Price>
+- **Dégâts** <Damages>1d4 tranchant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Légère]</Properties>
 
-[][Equipment]
 
-# Fronde 
+</Equipment>
 
-- **Type** Arme à distance
-- **Rareté** Courante
-- **Prix** 1 pa 
-- **Dégâts** 1d4 contondant 
-- **Poids** _ 
-- **Propriétés** [Munitions] (portée 9/36)
+<Equipment>
 
+# <Name>Arbalète légère</Name>
 
-[][Equipment]
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>25 po</Price>
+- **Dégâts** <Damages>1d8 perforant</Damages>
+- **Poids** <Weight>2,5 kg</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 24/96), [chargement], [à deux mains]</Properties>
 
-# Cimeterre 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 25 po 
-- **Dégâts** 1d6 tranchant 
-- **Poids** 1,5 kg 
-- **Propriétés** [Finesse], [légère]
+<Equipment>
 
-[][Equipment]
+# <Name>Arc court</Name>
 
-# Coutille 
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>25 po</Price>
+- **Dégâts** <Damages>1d6 perforant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 24/96), [à deux mains]</Properties>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 20 po 
-- **Dégâts** 1d10 tranchant 
-- **Poids** 3 kg 
-- **Propriétés** [Lourde], [allonge], [à deux mains]
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Épée à deux mains 
+# <Name>Fléchette</Name>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 50 po 
-- **Dégâts** 2d6 tranchant 
-- **Poids** 3 kg 
-- **Propriétés** [Lourde], [à deux mains]
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>5 pc</Price>
+- **Dégâts** <Damages>1d4 perforant</Damages>
+- **Poids** <Weight>0,1 kg</Weight>
+- **Propriétés** <Properties>[Finesse], [lancer] (portée 6/18)</Properties>
 
-[][Equipment]
+</Equipment>
 
-# Épée courte 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 10 po 
-- **Dégâts** 1d6 perforant 
-- **Poids** 1 kg 
-- **Propriétés** [Finesse], [légère]
+# <Name>Fronde</Name>
 
-[][Equipment]
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>Courante</Rarity>
+- **Prix** <Price>1 pa</Price>
+- **Dégâts** <Damages>1d4 contondant</Damages>
+- **Poids** <Weight>_</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 9/36)</Properties>
 
-# Épée longue 
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 15 po 
-- **Dégâts** 1d8 tranchant 
-- **Poids** 1,5 kg 
-- **Propriétés** [Polyvalente] (1d10)
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Fléau 
+# <Name>Cimeterre</Name>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 10 po 
-- **Dégâts** 1d8 contondant 
-- **Poids** 1 kg 
-- **Propriétés** _
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>25 po</Price>
+- **Dégâts** <Damages>1d6 tranchant</Damages>
+- **Poids** <Weight>1,5 kg</Weight>
+- **Propriétés** <Properties>[Finesse], [légère]</Properties>
 
-[][Equipment]
+</Equipment>
 
-# Fouet 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 2 po 
-- **Dégâts** 1d4 tranchant 
-- **Poids** 1,5 kg 
-- **Propriétés** [Finesse], [allonge]
+# <Name>Coutille</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>20 po</Price>
+- **Dégâts** <Damages>1d10 tranchant</Damages>
+- **Poids** <Weight>3 kg</Weight>
+- **Propriétés** <Properties>[Lourde], [allonge], [à deux mains]</Properties>
 
-# Hache à deux mains 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 30 po 
-- **Dégâts** 1d12 tranchant 
-- **Poids** 3,5 kg 
-- **Propriétés** [Lourde], [à deux mains]
+<Equipment>
 
-[][Equipment]
+# <Name>Épée à deux mains</Name>
 
-# Hache d'armes 
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>50 po</Price>
+- **Dégâts** <Damages>2d6 tranchant</Damages>
+- **Poids** <Weight>3 kg</Weight>
+- **Propriétés** <Properties>[Lourde], [à deux mains]</Properties>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 10 po 
-- **Dégâts** 1d8 tranchant 
-- **Poids** 2 kg 
-- **Propriétés** [Polyvalente] (1d10)
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Hallebarde 
+# <Name>Épée courte</Name>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 20 po 
-- **Dégâts** 1d10 tranchant 
-- **Poids** 3 kg 
-- **Propriétés** [Lourde], [allonge], [à deux mains]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>10 po</Price>
+- **Dégâts** <Damages>1d6 perforant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Finesse], [légère]</Properties>
 
-[][Equipment]
+</Equipment>
 
-# Lance d'arçon 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 10 po 
-- **Dégâts** 1d12 perforant 
-- **Poids** 3 kg 
-- **Propriétés** [Allonge], [spéciale]
+# <Name>Épée longue</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>15 po</Price>
+- **Dégâts** <Damages>1d8 tranchant</Damages>
+- **Poids** <Weight>1,5 kg</Weight>
+- **Propriétés** <Properties>[Polyvalente] (1d10)</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Fléau</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>10 po</Price>
+- **Dégâts** <Damages>1d8 contondant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>_</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Fouet</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>2 po</Price>
+- **Dégâts** <Damages>1d4 tranchant</Damages>
+- **Poids** <Weight>1,5 kg</Weight>
+- **Propriétés** <Properties>[Finesse], [allonge]</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hache à deux mains</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>30 po</Price>
+- **Dégâts** <Damages>1d12 tranchant</Damages>
+- **Poids** <Weight>3,5 kg</Weight>
+- **Propriétés** <Properties>[Lourde], [à deux mains]</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hache d'armes</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>10 po</Price>
+- **Dégâts** <Damages>1d8 tranchant</Damages>
+- **Poids** <Weight>2 kg</Weight>
+- **Propriétés** <Properties>[Polyvalente] (1d10)</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hallebarde</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>20 po</Price>
+- **Dégâts** <Damages>1d10 tranchant</Damages>
+- **Poids** <Weight>3 kg</Weight>
+- **Propriétés** <Properties>[Lourde], [allonge], [à deux mains]</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Lance d'arçon</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>10 po</Price>
+- **Dégâts** <Damages>1d12 perforant</Damages>
+- **Poids** <Weight>3 kg</Weight>
+- **Propriétés** <Properties>[Allonge], [spéciale]</Properties>
 
 Vous subissez un désavantage si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
 
-[][Equipment]
+</Equipment>
 
-# Pic de guerre 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 5 po 
-- **Dégâts** 1d8 perforant 
-- **Poids** 1 kg 
-- **Propriétés** _
+# <Name>Pic de guerre</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>5 po</Price>
+- **Dégâts** <Damages>1d8 perforant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>_</Properties>
 
-# Marteau de guerre 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 15 po 
-- **Dégâts** 1d8 contondant 
-- **Poids** 1 kg 
-- **Propriétés** [Polyvalente] (1d10)
+<Equipment>
 
-[][Equipment]
+# <Name>Marteau de guerre</Name>
 
-# Merlin 
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>15 po</Price>
+- **Dégâts** <Damages>1d8 contondant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Polyvalente] (1d10)</Properties>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 10 po 
-- **Dégâts** 2d6 contondant 
-- **Poids** 5 kg 
-- **Propriétés** [Lourde], [à deux mains]
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Morgenstern 
+# <Name>Merlin</Name>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 15 po 
-- **Dégâts** 1d8 perforant 
-- **Poids** 2 kg 
-- **Propriétés** _
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>10 po</Price>
+- **Dégâts** <Damages>2d6 contondant</Damages>
+- **Poids** <Weight>5 kg</Weight>
+- **Propriétés** <Properties>[Lourde], [à deux mains]</Properties>
 
-[][Equipment]
+</Equipment>
 
-# Pique 
+<Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 5 po 
-- **Dégâts** 1d10 perforant 
-- **Poids** 9 kg 
-- **Propriétés** [Lourde], [allonge], [à deux mains]
+# <Name>Morgenstern</Name>
 
-[][Equipment]
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>15 po</Price>
+- **Dégâts** <Damages>1d8 perforant</Damages>
+- **Poids** <Weight>2 kg</Weight>
+- **Propriétés** <Properties>_</Properties>
 
-# Rapière 
+</Equipment>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 25 po 
-- **Dégâts** 1d8 perforant 
-- **Poids** 1 kg 
-- **Propriétés** [Finesse]
+<Equipment>
 
-[][Equipment]
+# <Name>Pique</Name>
 
-# Trident 
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>5 po</Price>
+- **Dégâts** <Damages>1d10 perforant</Damages>
+- **Poids** <Weight>9 kg</Weight>
+- **Propriétés** <Properties>[Lourde], [allonge], [à deux mains]</Properties>
 
-- **Type** Arme de corps-à-corps
-- **Rareté** De guerre
-- **Prix** 5 po 
-- **Dégâts** 1d6 perforant 
-- **Poids** 2 kg 
-- **Propriétés** [Lancer] (portée 6/18), [polyvalente] (1d8)
+</Equipment>
+
+<Equipment>
+
+# <Name>Rapière</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>25 po</Price>
+- **Dégâts** <Damages>1d8 perforant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Finesse]</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Trident</Name>
+
+- **Type** <Type>Arme de corps-à-corps</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>5 po</Price>
+- **Dégâts** <Damages>1d6 perforant</Damages>
+- **Poids** <Weight>2 kg</Weight>
+- **Propriétés** <Properties>[Lancer] (portée 6/18), [polyvalente] (1d8)</Properties>
 
 
-[][Equipment]
+</Equipment>
 
-# Arbalète de poing 
+<Equipment>
 
-- **Type** Arme à distance
-- **Rareté** De guerre
-- **Prix** 75 po 
-- **Dégâts** 1d6 perforant 
-- **Poids** 1,5 kg 
-- **Propriétés** [Munitions] (portée 9/36), [légère], [chargement]
+# <Name>Arbalète de poing</Name>
 
-[][Equipment]
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>75 po</Price>
+- **Dégâts** <Damages>1d6 perforant</Damages>
+- **Poids** <Weight>1,5 kg</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 9/36), [légère], [chargement]</Properties>
 
-# Arbalète lourde 
+</Equipment>
 
-- **Type** Arme à distance
-- **Rareté** De guerre
-- **Prix** 50 po 
-- **Dégâts** 1d10 perforant 
-- **Poids** 9 kg 
-- **Propriétés** [Munitions] (portée 30/120), [lourde], [chargement], [à deux mains]
+<Equipment>
 
-[][Equipment]
+# <Name>Arbalète lourde</Name>
 
-# Arc long 
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>50 po</Price>
+- **Dégâts** <Damages>1d10 perforant</Damages>
+- **Poids** <Weight>9 kg</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 30/120), [lourde], [chargement], [à deux mains]</Properties>
 
-- **Type** Arme à distance
-- **Rareté** De guerre
-- **Prix** 50 po 
-- **Dégâts** 1d8 perforant 
-- **Poids** 1 kg 
-- **Propriétés** [Munitions] (portée 45/180), [lourde], [à deux mains].
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Filet 
+# <Name>Arc long</Name>
 
-- **Type** Arme à distance
-- **Rareté** De guerre
-- **Prix** 1 po 
-- **Dégâts** _ 
-- **Poids** 1,5 kg 
-- **Propriétés** [Spéciale], [lancer] (portée 1,5/4,5)
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>50 po</Price>
+- **Dégâts** <Damages>1d8 perforant</Damages>
+- **Poids** <Weight>1 kg</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 45/180), [lourde], [à deux mains].</Properties>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Filet</Name>
+
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>1 po</Price>
+- **Dégâts** <Damages>_</Damages>
+- **Poids** <Weight>1,5 kg</Weight>
+- **Propriétés** <Properties>[Spéciale], [lancer] (portée 1,5/4,5)</Properties>
 
 Une créature de taille G ou moins contre qui vous réussissez une attaque avec un filet se retrouve entravée jusqu'à ce qu'elle soit libérée. Un filet n'a aucun effet sur les créatures sans forme ou les créatures de taille TG ou supérieure. Une créature peut utiliser son action pour faire un test de Force DD 10 afin de tenter de se libérer ou de libérer une autre créature qui se trouve à sa portée. Il est aussi possible de libérer une créature sans la blesser en infligeant 5 dégâts tranchants au filet. Le filet est détruit et son effet prend alors fin.
 
 Quand vous utilisez une action, une action bonus ou une réaction pour attaquer à l'aide d'un filet, vous ne pouvez faire qu'une seule attaque, peu importe le nombre d'attaques que vous pouvez normalement faire.
 
-[][Equipment]
+</Equipment>
 
-# Sarbacane 
+<Equipment>
 
-- **Type** Arme à distance
-- **Rareté** De guerre
-- **Prix** 10 po 
-- **Dégâts** 1 perforant 
-- **Poids** 0,5 kg 
-- **Propriétés** [Munitions] (portée 7,5/30), [chargement]
+# <Name>Sarbacane</Name>
+
+- **Type** <Type>Arme à distance</Type>
+- **Rareté** <Rarity>De guerre</Rarity>
+- **Prix** <Price>10 po</Price>
+- **Dégâts** <Damages>1 perforant</Damages>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Propriétés** <Properties>[Munitions] (portée 7,5/30), [chargement]</Properties>
 
 
 
-[][Equipment]
+</Equipment>
 
-# Acide 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 25 po 
-- **Poids** 0,5 kg
-- **Unité** fiole
+# <Name>Acide</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Unité** <Unity>fiole</Unity>
 
 Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous avec le contenu de cette fiole ou bien la lancer jusqu'à une distance de 6 mètres. La fiole se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'acide doit être considéré comme une arme improvisée. Si vous touchez votre cible, celle-ci reçoit 2d6 dégâts acides.
 
-[][Equipment]
+</Equipment>
 
-# Antitoxine 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 50 po 
-- **Poids** _
-- **Unité** fiole
+# <Name>Antitoxine</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>fiole</Unity>
 
 Une créature qui boit cette fiole de liquide obtient un avantage sur les jets de sauvegarde contre le poison pendant 1 heure. Cet objet n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
-[][Equipment]
+</Equipment>
 
-# Balance de marchand 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 1,5 kg
+# <Name>Balance de marchand</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
 Cet appareil de mesure se présente sous la forme d'une petite balance, de plateaux et d'un assortiment de poids qui vont jusqu'à 1 kilogramme. Elle permet de mesurer le poids exact de petits objets, comme des métaux précieux ou des denrées courantes, afin de déterminer leur valeur.
 
-[][Equipment]
+</Equipment>
 
-# Bélier portatif 
+<Equipment>
 
-- **Type** Équipement d'aventurier
+# <Name>Bélier portatif</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 4 po 
-- **Poids** 17,5 kg
+- **Type** <Type>Équipement d'aventurier</Type>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>4 po</Price>
+- **Poids** <Weight>17,5 kg</Weight>
 
 Vous pouvez utiliser un bélier portable pour enfoncer des portes. Vous gagnez dans ce cas un bonus de +4 à vos tests de Force. Si un autre personnage vous aide à utiliser le bélier, vous obtenez un avantage lors de ce test.
 
-[][Equipment]
+</Equipment>
 
-# Billes 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 1 kg
-- **Unité** sac de 1 000
+# <Name>Billes</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>1 kg</Weight>
+- **Unité** <Unity>sac de 1 000</Unity>
 
 Vous pouvez utiliser une action pour répandre ces petites billes de métal sur une surface plane de 3 mètres de côté. Une créature qui traverse cette surface doit réussir un jet de sauvegarde de Dextérité DD 10 ou tomber à terre. Une créature peut traverser la zone sans avoir besoin de faire un jet de sauvegarde si elle se déplace à la moitié de sa vitesse.
 
-[][Equipment]
+</Equipment>
 
-# Boîte à amadou 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pa 
-- **Poids** 0,5 kg
+# <Name>Boîte à amadou</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Cette petite boîte contient tout ce qu'il faut pour faire un feu : un silex, un briquet métallique et de l'amadou (généralement des morceaux de tissu imbibés d'huile). Utiliser la boîte à amadou pour allumer une torche ou quoi que ce soit d'autre qui se présente avec assez de combustible prend 1 action. Allumer un autre type de feu prend 1 minute.
 
-[][Equipment]
+</Equipment>
 
-# Bougie 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pc 
-- **Poids** _
+# <Name>Bougie</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pc</Price>
+- **Poids** <Weight>_</Weight>
 
 Pendant 1 heure, une bougie diffuse une lumière vive dans une zone de 1,50 mètre et une lumière faible dans un rayon de 1,50 mètre supplémentaire. 
 
-[][Equipment]
+</Equipment>
 
-# Boulier 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 1 kg
+# <Name>Boulier</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-# Bouteille en verre 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 1 kg
-- **Capacité** 0,75 L de liquide
+<Equipment>
 
-[][Equipment]
+# <Name>Bouteille en verre</Name>
 
-# Cadenas 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>1 kg</Weight>
+- **Capacité** <Capacity>0,75 L de liquide</Capacity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 10 po 
-- **Poids** 0,5 kg
+</Equipment>
+
+<Equipment>
+
+# <Name>Cadenas</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Ce cadenas est accompagné d'une clef. Si elle n'a pas la clef, une créature qui maîtrise les outils de voleur peut crocheter le cadenas en réussissant un test de Dextérité DD 15. Votre MJ peut décider que de meilleurs cadenas sont disponibles pour un prix plus élevé.
 
-[][Equipment]
+</Equipment>
 
-# Carquois 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 0,5 kg
+# <Name>Carquois</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Un carquois peut contenir jusqu'à vingt flèches.
 
-[][Equipment]
+</Equipment>
 
-# Chaîne  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 5 kg
-- **Unité** 3 mètres
+# <Name>Chaîne</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>5 kg</Weight>
+- **Unité** <Unity>3 mètres</Unity>
 
 Une chaîne a 10 points de vie. Elle peut être brisée en réussissant un test de Force DD 20.
 
-[][Equipment]
+</Equipment>
 
-# Chausse-trappes  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 1 kg
-- **Unité** sac de 20
+# <Name>Chausse-trappes</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>1 kg</Weight>
+- **Unité** <Unity>sac de 20</Unity>
 
 Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une surface de 1,50 mètre de côté. Une créature qui traverse cette surface doit réussir un jet de sauvegarde de Dextérité DD 15 ou arrêter de se déplacer jusqu'à la fin de son tour et subir 1 dégât perforant. Si elle subit ce dégât, la vitesse de cette créature est réduite de 3 mètres jusqu'à ce qu'elle regagne au moins 1 point de vie. Une créature peut traverser la zone sans avoir besoin de faire un jet de sauvegarde si elle se déplace à la moitié de sa vitesse.
 
-[][Equipment]
+</Equipment>
 
-# Chevalière 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** _
+# <Name>Chevalière</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>_</Weight>
 
-# Cire à cacheter 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pa 
-- **Poids** _
+<Equipment>
 
-[][Equipment]
+# <Name>Cire à cacheter</Name>
 
-# Cloche 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>_</Weight>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** _
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Coffre 
+# <Name>Cloche</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 12,5 kg
-- **Capacité** 350 L/150 kg d'équipement
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>_</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Corde en chanvre  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 5 kg
-- **Unité** 15 mètres
+# <Name>Coffre</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>12,5 kg</Weight>
+- **Capacité** <Capacity>350 L/150 kg d'équipement</Capacity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Corde en chanvre</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>5 kg</Weight>
+- **Unité** <Unity>15 mètres</Unity>
 
 Une corde a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
 
-[][Equipment]
+</Equipment>
 
-# Corde en soie  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 10 po 
-- **Poids** 2,5 kg
-- **Unité** 15 mètres
+# <Name>Corde en soie</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
+- **Unité** <Unity>15 mètres</Unity>
 
 Une corde a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
 
-[][Equipment]
+</Equipment>
 
-# Couverture 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pa 
-- **Poids** 1,5 kg
+# <Name>Couverture</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-# Craie  
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pc 
-- **Poids** _
-- **Unité** 1 morceau
+<Equipment>
 
-[][Equipment]
+# <Name>Craie</Name>
 
-# Cruche ou pichet 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pc</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>1 morceau</Unity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pc 
-- **Poids** 2 kg
-- **Capacité** 3,5 L de liquide
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Eau bénite 
+# <Name>Cruche ou pichet</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 25 po 
-- **Poids** 0,5 kg
-- **Unité** flasque
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pc</Price>
+- **Poids** <Weight>2 kg</Weight>
+- **Capacité** <Capacity>3,5 L de liquide</Capacity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Eau bénite</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Unité** <Unity>flasque</Unity>
 
 Vous pouvez utiliser une action pour asperger d'eau bénite une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, ou lancer la flasque jusqu'à 6 mètres de vous. La flasque se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'eau bénite doit être considérée comme une arme improvisée. Si votre cible est un fiélon ou un mort-vivant, elle subit 2d6 dégâts radiants.
 
 Un clerc ou un paladin peut créer de l'eau bénite, de quoi remplir une flasque, en accomplissant un rituel spécifique. Ce rituel dure 1 heure, consomme pour 25 po de poudre d'argent et requiert du lanceur de sort qu'il utilise un emplacement de sort de niveau 1.
 
-[][Equipment]
+</Equipment>
 
-# Échelle  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pa 
-- **Poids** 12,5 kg
-- **Unité** 3 mètres
+# <Name>Échelle</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pa</Price>
+- **Poids** <Weight>12,5 kg</Weight>
+- **Unité** <Unity>3 mètres</Unity>
 
-# Encre 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 10 po 
-- **Poids** _
-- **Unité** bouteille de 30 grammes
+<Equipment>
 
-[][Equipment]
+# <Name>Encre</Name>
 
-# Équipement d'escalade 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>bouteille de 30 grammes</Unity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 25 po 
-- **Poids** 6 kg
+</Equipment>
+
+<Equipment>
+
+# <Name>Équipement d'escalade</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>6 kg</Weight>
 
 Le matériel d'escalade comprend des pitons spéciaux, des pointes pour chaussures, des gants et un harnais. Vous pouvez utiliser le matériel d'escalade lors d'une action pour vous accrocher à une paroi. Vous ne pouvez alors plus chuter de plus de 7,50 mètres depuis votre point d'ancrage, mais vous devez vous décrocher si vous voulez vous éloigner de plus de 7,50 mètres de ce point.
 
-[][Equipment]
+</Equipment>
 
-# Étui pour carreaux 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 0,5 kg
+# <Name>Étui pour carreaux</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Cet étui de bois peut contenir jusqu'à vingt carreaux d'arbalète.
 
-[][Equipment]
+</Equipment>
 
-# Étui pour cartes ou parchemins 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 0,5 kg
+# <Name>Étui pour cartes ou parchemins</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Cet étui cylindrique de cuir peut contenir jusqu'à dix feuilles de papier roulées ou cinq feuilles de parchemin roulées.
 
-[][Equipment]
+</Equipment>
 
-# Feu grégeois 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 50 po 
-- **Poids** 0,5 kg
-- **Unité** flasque
+# <Name>Feu grégeois</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Unité** <Unity>flasque</Unity>
 
 Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utiliser une action pour lancer la flasque jusqu'à une distance de 6 mètres. La flasque se brise à l'impact. Il s'agit d'une attaque à distance contre une créature ou un objet, et vous devez considérer le feu grégeois comme une arme improvisée. Si vous touchez votre cible, celle-ci subit 1d4 dégâts de feu au début de chacun de ses tours. La cible peut mettre fin à cet effet et tenter d'éteindre les flammes en utilisant son action pour faire un test de Dextérité DD 10.
 
-[][Equipment]
+</Equipment>
 
-# Fiole 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** _
-- **Capacité** 100 g de liquide
+# <Name>Fiole</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>_</Weight>
+- **Capacité** <Capacity>100 g de liquide</Capacity>
 
-# Flasque ou chope 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pc 
-- **Poids** 0,5 kg
-- **Capacité** 0,5 L de liquide
+<Equipment>
 
-[][Equipment]
+# <Name>Flasque ou chope</Name>
 
-# Cristal (focaliseur arcanique)
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pc</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Capacité** <Capacity>0,5 L de liquide</Capacity>
 
-- **Type** Équipement d'aventurier / Focaliseur arcanique
-- **Prix** 10 po 
-- **Poids** 0,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Orbe (focaliseur arcanique)
+# <Name>Cristal (focaliseur arcanique)</Name>
 
-- **Type** Équipement d'aventurier / Focaliseur arcanique
-- **Prix** 20 po 
-- **Poids** 1,5 kg
+- **Type** <Type>Équipement d'aventurier / Focaliseur arcanique</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Sceptre (focaliseur arcanique)
+<Equipment>
 
-- **Type** Équipement d'aventurier / Focaliseur arcanique
-- **Prix** 10 po 
-- **Poids** 1 kg
+# <Name>Orbe (focaliseur arcanique)</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier / Focaliseur arcanique</Type>
+- **Prix** <Price>20 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-# Bâton (focaliseur arcanique)
+</Equipment>
 
-- **Type** Équipement d'aventurier / Focaliseur arcanique
-- **Prix** 5 po 
-- **Poids** 2 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Sceptre (focaliseur arcanique)</Name>
 
-# Baguette (focaliseur arcanique)
+- **Type** <Type>Équipement d'aventurier / Focaliseur arcanique</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-- **Type** Équipement d'aventurier / Focaliseur arcanique
-- **Prix** 10 po 
-- **Poids** 0,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Branche de houx (focaliseur druidique)
+# <Name>Bâton (focaliseur arcanique)</Name>
 
-- **Type** Équipement d'aventurier / Focaliseur druidique
-- **Prix** 1 po 
-- **Poids** _
+- **Type** <Type>Équipement d'aventurier / Focaliseur arcanique</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>2 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Totem (focaliseur druidique)
+<Equipment>
 
-- **Type** Équipement d'aventurier / Focaliseur druidique
-- **Prix** 1 po 
-- **Poids** _
+# <Name>Baguette (focaliseur arcanique)</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier / Focaliseur arcanique</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-# Bâton (focaliseur druidique)
+</Equipment>
 
-- **Type** Équipement d'aventurier / Focaliseur druidique
-- **Prix** 5 po 
-- **Poids** 2 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Branche de houx (focaliseur druidique)</Name>
 
-# Baguette d'if (focaliseur druidique)  
+- **Type** <Type>Équipement d'aventurier / Focaliseur druidique</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>_</Weight>
 
-- **Type** Équipement d'aventurier / Focaliseur druidique
-- **Prix** 10 po 
-- **Poids** 0,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Gamelle 
+# <Name>Totem (focaliseur druidique)</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pa 
-- **Poids** 0,5 kg
+- **Type** <Type>Équipement d'aventurier / Focaliseur druidique</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>_</Weight>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Bâton (focaliseur druidique)</Name>
+
+- **Type** <Type>Équipement d'aventurier / Focaliseur druidique</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>2 kg</Weight>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Baguette d'if (focaliseur druidique)</Name>
+
+- **Type** <Type>Équipement d'aventurier / Focaliseur druidique</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Gamelle</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pa</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Cette boîte métallique contient un gobelet et des couverts simples. La boîte est composée de deux parties qui s'assemblent. Un côté peut être utilisé pour cuire les aliments et l'autre comme une assiette creuse.
 
-[][Equipment]
+</Equipment>
 
-# Grappin 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 2 kg
+# <Name>Grappin</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>2 kg</Weight>
 
-# Grimoire 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 50 po 
-- **Poids** 1,5 kg
+<Equipment>
+
+# <Name>Grimoire</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
 Un grimoire est un outil indispensable pour un magicien. Il s'agit d'un livre relié en cuir avec cent pages de vélin blanc dans lequel il écrit des sorts.
 
-[][Equipment]
+</Equipment>
 
-# Huile  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pa 
-- **Poids** 0,5 kg
-- **Unité** flasque
+# <Name>Huile</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pa</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Unité** <Unity>flasque</Unity>
 
 L'huile est généralement vendue dans des flasques d'argile de 0,5 litre. Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou pour lancer la flasque jusqu'à une distance de 6 mètres. La flasque se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature ou un objet et l'huile doit être considérée comme une arme improvisée. Si vous touchez votre cible, elle est couverte d'huile et, si elle subit au moins 1 dégât de feu avant que l'huile ne sèche (après 1 minute), la cible subit 5 dégâts de feu supplémentaires causés par l'huile enflammée. Vous pouvez aussi verser le contenu de la flasque d'huile sur une surface plane afin de recouvrir une surface de 1,50 mètre de côté. Si vous y mettez le feu, l'huile brûle pendant 2 rounds et inflige 5 dégâts de feu à toute créature qui pénètre dans la zone ou y termine son tour. Une créature ne peut subir ces dégâts qu'une fois par tour.
 
-[][Equipment]
+</Equipment>
 
-# Lampe 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pa 
-- **Poids** 0,5 kg
+# <Name>Lampe</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Une lampe dégage une lumière vive dans un rayon de 4,50 mètres et une lumière faible sur 9 mètres supplémentaires. Une fois qu'elle est allumée, elle brûle pendant 6 heures et consomme une flasque (0,5 litre) d'huile.
 
-[][Equipment]
+</Equipment>
 
-# Lanterne à capote 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 1 kg
+# <Name>Lanterne à capote</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
 Une lanterne à capote dégage une lumière vive sur un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. Une fois allumée, elle brûle pendant 6 heures et consomme une flasque (0,5 litre) d'huile. Vous pouvez utiliser une action pour abaisser la capote de la lanterne afin qu'elle ne dégage plus qu'une lumière faible sur un rayon de 1,50 mètre.
 
-[][Equipment]
+</Equipment>
 
-# Lanterne sourde 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 10 po 
-- **Poids** 1 kg
+# <Name>Lanterne sourde</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
 Une lanterne sourde dégage une lumière vive sur un cône de 18 mètres et une lumière faible sur 18 mètres supplémentaires. Une fois allumée, elle brûle pendant 6 heures et consomme une flasque (0,5 litre) d'huile.
 
-[][Equipment]
+</Equipment>
 
-# Livre 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 25 po 
-- **Poids** 2,5 kg
+# <Name>Livre</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
 Un livre peut contenir de la poésie, des récits historiques, des informations relatives à un domaine particulier de connaissance, des diagrammes et des notes sur des inventions gnomes, ou tout ce qui peut être représenté grâce à du texte ou des images. Un livre de sorts est appelé un grimoire (ses particularités sont décrites plus haut dans cette section).
 
-[][Equipment]
+</Equipment>
 
-# Longue-vue 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 000 po 
-- **Poids** 0,5 kg
+# <Name>Longue-vue</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 000 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Une longue-vue permet de grossir jusqu'à deux fois les objets que vous voyez à distance.
 
-[][Equipment]
+</Equipment>
 
-# Loupe 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 100 po 
-- **Poids** _
+# <Name>Loupe</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>100 po</Price>
+- **Poids** <Weight>_</Weight>
 
 Cette lentille permet d'examiner de près les petits objets. Elle peut également remplacer un briquet à silex pour allumer un feu. Allumer un feu à l'aide d'une loupe nécessite d'avoir une lumière aussi vive que celle du soleil afin de faire prendre l'amadou et environ 5 minutes pour que le feu prenne. Une loupe confère un avantage pour les tests de caractéristique faits dans le but d'inspecter ou d'estimer la valeur d'un objet petit ou très détaillé.
 
-[][Equipment]
+</Equipment>
 
-# Marteau 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 1,5 kg
+# <Name>Marteau</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-# Masse 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Masse</Name>
 
-# Matériel de pêche 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>5 kg</Weight>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 2 kg
+</Equipment>
+
+<Equipment>
+
+# <Name>Matériel de pêche</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>2 kg</Weight>
 
 Le matériel de pêche se compose d'une canne de bois, d'un fil de soie, de bouchons en liège, d'hameçons métalliques, de plombs, d'appâts de velours et d'un petit filet.
 
-[][Equipment]
+</Equipment>
 
-# Menottes 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 3 kg
+# <Name>Menottes</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>3 kg</Weight>
 
 Ces menottes métalliques peuvent être utilisées sur une créature de taille P ou M. Pour s'en échapper, une créature doit réussir un test de Dextérité DD 20. Pour les briser, elle doit réussir un test de Force DD 20. Chaque paire de menotte est accompagnée d'une clef. Une créature qui n'a pas la clef mais qui maîtrise les outils de voleur peut crocheter la serrure des menottes en réussissant un test de Dextérité DD 15. Les menottes ont 15 points de vie.
 
-[][Equipment]
+</Equipment>
 
-# Miroir en acier 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 0,25 kg
+# <Name>Miroir en acier</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>0,25 kg</Weight>
 
-# Flèches  
+</Equipment>
 
-- **Type** Équipement d'aventurier / Munitions
-- **Prix** 1 po 
-- **Poids** 0,5 kg
-- **Unité** 20
+<Equipment>
 
-[][Equipment]
+# <Name>Flèches</Name>
 
-# Dards de sarbacane  
+- **Type** <Type>Équipement d'aventurier / Munitions</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Unité** <Unity>20</Unity>
 
-- **Type** Équipement d'aventurier / Munitions
-- **Prix** 1 po 
-- **Poids** 0,5 kg
-- **Unité** 50
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Carreaux d'arbalète  
+# <Name>Dards de sarbacane</Name>
 
-- **Type** Équipement d'aventurier / Munitions
-- **Prix** 1 po 
-- **Poids** 0,75 kg
-- **Unité** 20
+- **Type** <Type>Équipement d'aventurier / Munitions</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Unité** <Unity>50</Unity>
 
-[][Equipment]
+</Equipment>
 
-# Billes de fronde  
+<Equipment>
 
-- **Type** Équipement d'aventurier / Munitions
-- **Prix** 4 pc 
-- **Poids** 0,75 kg
-- **Unité** 20
+# <Name>Carreaux d'arbalète</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier / Munitions</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>0,75 kg</Weight>
+- **Unité** <Unity>20</Unity>
 
-# Outre 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pa 
-- **Poids** 2,5 kg
-- **Capacité** 2 L de liquide
+<Equipment>
 
-[][Equipment]
+# <Name>Billes de fronde</Name>
 
-# Palan 
+- **Type** <Type>Équipement d'aventurier / Munitions</Type>
+- **Prix** <Price>4 pc</Price>
+- **Poids** <Weight>0,75 kg</Weight>
+- **Unité** <Unity>20</Unity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 2,5 kg
+</Equipment>
+
+<Equipment>
+
+# <Name>Outre</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pa</Price>
+- **Poids** <Weight>2,5 kg</Weight>
+- **Capacité** <Capacity>2 L de liquide</Capacity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Palan</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
 Un palan est un système de poulies avec un câble et un crochet qui vous permet de soulever jusqu'à quatre fois le poids que vous pouvez normalement porter.
 
-[][Equipment]
+</Equipment>
 
-# Panier 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 4 pa 
-- **Poids** 1 kg
-- **Capacité** 60 L/20 kg d'équipement
+# <Name>Panier</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>4 pa</Price>
+- **Poids** <Weight>1 kg</Weight>
+- **Capacité** <Capacity>60 L/20 kg d'équipement</Capacity>
 
-# Papier  
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pa 
-- **Poids** _
-- **Unité** 1 feuille
+<Equipment>
 
-[][Equipment]
+# <Name>Papier</Name>
 
-# Parchemin  
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pa</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>1 feuille</Unity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pa 
-- **Poids** _
-- **Unité** 1 feuille
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Parfum 
+# <Name>Parchemin</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** _
-- **Unité** fiole
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pa</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>1 feuille</Unity>
 
-[][Equipment]
+</Equipment>
 
-# Pelle 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 2,5 kg
+# <Name>Parfum</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>fiole</Unity>
 
-# Perche  
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pc 
-- **Poids** 3,5 kg
-- **Unité** 3 mètres
+<Equipment>
 
-[][Equipment]
+# <Name>Pelle</Name>
 
-# Pics en fer  
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 2,5 kg
-- **Unité** 10
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Pied-de-biche 
+# <Name>Perche</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 2,5 kg
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pc</Price>
+- **Poids** <Weight>3,5 kg</Weight>
+- **Unité** <Unity>3 mètres</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Pics en fer</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
+- **Unité** <Unity>10</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Pied-de-biche</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
 Utiliser un pied-de-biche vous donne un avantage aux tests de Force quand le pied-debiche est utilisé pour faire levier.
 
-[][Equipment]
+</Equipment>
 
-# Piège à mâchoires 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 12,5 kg
+# <Name>Piège à mâchoires</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>12,5 kg</Weight>
 
 Vous pouvez utiliser une action pour installer ce piège, qui se présente sous la forme d'un anneau d'acier dentelé qui se referme violemment quand une créature marche sur la plaque de pression qui se trouve en son centre. Le piège est ancré à un objet immobile, comme un arbre ou un piquet enfoncé dans le sol, grâce à une lourde chaîne. Une créature qui marche sur la plaque doit réussir un jet de sauvegarde de Dextérité DD 13 pour éviter de subir 1d4 dégâts perforants et être immobilisée. Si elle échoue, tant que la créature est prise au piège, son déplacement est limité par la longueur de la chaîne (qui fait généralement 1 mètre de long). Une créature peut utiliser une action pour faire un test de Force DD 13 afin de tenter de se libérer elle-même ou une autre créature qui se trouve à sa portée. À chaque échec, la créature prise au piège subit 1 dégât perforant.
 
-[][Equipment]
+</Equipment>
 
-# Pierre à affûter 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pc 
-- **Poids** 0,5 kg
+# <Name>Pierre à affûter</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pc</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-# Pioche de mineur 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Pioche de mineur</Name>
 
-# Piton 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>5 kg</Weight>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pc 
-- **Poids** 125 g
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Poison 
+# <Name>Piton</Name>
 
-- **Type** Équipement d'aventurier
-- **Prix** 100 po 
-- **Poids** _
-- **Unité** fiole
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pc</Price>
+- **Poids** <Weight>125 g</Weight>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Poison</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>100 po</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>fiole</Unity>
 
 Un personnage peut utiliser le poison qui se trouve dans cette fiole pour enduire la lame d'une arme tranchante ou perforante, ou jusqu'à trois munitions. Il vous faut utiliser une action pour appliquer le poison. Une créature touchée par l'arme ou la munition empoisonnée doit faire un jet de sauvegarde de Constitution DD 10 ou subir 1d4 dégâts de poison. Une fois qu'il est appliqué, le poison reste efficace pendant 1 minute avant de sécher.
 
-[][Equipment]
+</Equipment>
 
-# Porte-plume 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pc 
-- **Poids** _
+# <Name>Porte-plume</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pc</Price>
+- **Poids** <Weight>_</Weight>
 
-# Pot en fer 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 5 kg
-- **Capacité** 3,5 L de liquide
+<Equipment>
 
-[][Equipment]
+# <Name>Pot en fer</Name>
 
-# Potion de soins 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>5 kg</Weight>
+- **Capacité** <Capacity>3,5 L de liquide</Capacity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 50 po 
-- **Poids** 0,25 kg
+</Equipment>
+
+<Equipment>
+
+# <Name>Potion de soins</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>0,25 kg</Weight>
 
 Un personnage qui boit le liquide magique rouge qui se trouve dans cette fiole regagne 2d4+2 points de vie. Une action est nécessaire pour boire ou administrer la potion.
 
-[][Equipment]
+</Equipment>
 
-# Rations  
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pa 
-- **Poids** 1 kg
-- **Unité** 1 jour
+# <Name>Rations</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>1 kg</Weight>
+- **Unité** <Unity>1 jour</Unity>
 
 Les rations sont des aliments séchés (viande séchée, biscuits, noix…) utilisés pour de longs voyages.
 
-[][Equipment]
+</Equipment>
 
-# Sablier 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 25 po 
-- **Poids** 0,5 kg
+# <Name>Sablier</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-# Sac 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pc 
-- **Poids** 0,25 kg
-- **Capacité** 30 L/15 kg d'équipement
+<Equipment>
 
-[][Equipment]
+# <Name>Sac</Name>
 
-# Sac à dos 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pc</Price>
+- **Poids** <Weight>0,25 kg</Weight>
+- **Capacité** <Capacity>30 L/15 kg d'équipement</Capacity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 2,5 kg
-- **Capacité** 30 L / 15 kg d'équipement
+</Equipment>
+
+<Equipment>
+
+# <Name>Sac à dos</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
+- **Capacité** <Capacity>30 L / 15 kg d'équipement</Capacity>
 
 Vous pouvez aussi attacher des objets comme un sac de couchage ou un rouleau de corde sur le sac à dos
 
-[][Equipment]
+</Equipment>
 
-# Sac de couchage 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 po 
-- **Poids** 3,5 kg
+# <Name>Sac de couchage</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>3,5 kg</Weight>
 
-# Sacoche 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pa 
-- **Poids** 0,5 kg
-- **Capacité** 6 L/3 kg d'équipement
+<Equipment>
+
+# <Name>Sacoche</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>0,5 kg</Weight>
+- **Capacité** <Capacity>6 L/3 kg d'équipement</Capacity>
 
 Une bourse en tissu ou en cuir peut notamment contenir jusqu'à vingt billes de fronde ou cinquante dards de sarbacane. Une sacoche à compartiments qui est utilisée pour stocker les composantes de sorts s'appelle une sacoche à composantes (voir ci-dessous).
 
-[][Equipment]
+</Equipment>
 
-# Sacoche à composantes 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 25 po 
-- **Poids** 1 kg
+# <Name>Sacoche à composantes</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
 Une sacoche à composantes est une petite sacoche de cuir imperméable fixée à la ceinture et qui possède plusieurs compartiments permettant de stocker toutes les composantes matérielles et autres objets spéciaux qui vous servent à lancer un sort, à l'exception des composantes qui ont un coût spécifique (ainsi qu'il est indiqué dans la description d'un sort).
 
-[][Equipment]
+</Equipment>
 
-# Savon 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 pc 
-- **Poids** _
+# <Name>Savon</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 pc</Price>
+- **Poids** <Weight>_</Weight>
 
-# Seau 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pc 
-- **Poids** 1 kg
-- **Capacité** 10 L de liquide, 15 L de solide
+<Equipment>
 
-[][Equipment]
+# <Name>Seau</Name>
 
-# Siflet 
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pc</Price>
+- **Poids** <Weight>1 kg</Weight>
+- **Capacité** <Capacity>10 L de liquide, 15 L de solide</Capacity>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 pc 
-- **Poids** _
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Amulette 
+# <Name>Siflet</Name>
 
-- **Type** Équipement d'aventurier / Symbole sacré
-- **Prix** 5 po 
-- **Poids** 0,5 kg
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 pc</Price>
+- **Poids** <Weight>_</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Emblème 
+<Equipment>
 
-- **Type** Équipement d'aventurier / Symbole sacré
-- **Prix** 5 po 
-- **Poids** _
+# <Name>Amulette</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier / Symbole sacré</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-# Reliquaire 
+</Equipment>
 
-- **Type** Équipement d'aventurier / Symbole sacré
-- **Prix** 5 po 
-- **Poids** 1 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Emblème</Name>
 
-# Tente 
+- **Type** <Type>Équipement d'aventurier / Symbole sacré</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>_</Weight>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 10 kg
-- **Unité** deux personnes
+</Equipment>
+
+<Equipment>
+
+# <Name>Reliquaire</Name>
+
+- **Type** <Type>Équipement d'aventurier / Symbole sacré</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>1 kg</Weight>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Tente</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>10 kg</Weight>
+- **Unité** <Unity>deux personnes</Unity>
 
 Un abri de toile simple et portable, qui peut accueillir deux personnes.
 
-[][Equipment]
+</Equipment>
 
-# Tonneau 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 2 po 
-- **Poids** 35 kg
-- **Capacité** 140 L de liquide, 120 L de solide
+# <Name>Tonneau</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>35 kg</Weight>
+- **Capacité** <Capacity>140 L de liquide, 120 L de solide</Capacity>
 
-# Torche 
+</Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 1 pc 
-- **Poids** 0,5 kg
+<Equipment>
+
+# <Name>Torche</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>1 pc</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
 Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 6 mètres et une lumière faible dans un rayon supplémentaire de 6 mètres. Si vous réussissez une attaque de corps-à-corps avec une torche, celle-ci inflige 1 dégât de feu à votre cible.
 
-[][Equipment]
+</Equipment>
 
-# Trousse de soins 
+<Equipment>
 
-- **Type** Équipement d'aventurier
-- **Prix** 5 po 
-- **Poids** 1,5 kg
+# <Name>Trousse de soins</Name>
+
+- **Type** <Type>Équipement d'aventurier</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
 Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de [Sagesse (Médecine)].
 
 
-[][Equipment]
+</Equipment>
 
-# Costume 
+<Equipment>
 
-- **Type** Équipement d'aventurier / Vêtements
-- **Prix** 5 po 
-- **Poids** 2 kg
+# <Name>Costume</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement d'aventurier / Vêtements</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>2 kg</Weight>
 
-# Habits courants 
+</Equipment>
 
-- **Type** Équipement d'aventurier / Vêtements
-- **Prix** 5 pa 
-- **Poids** 1,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Habits courants</Name>
 
-# Habits de bonne qualité 
+- **Type** <Type>Équipement d'aventurier / Vêtements</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-- **Type** Équipement d'aventurier / Vêtements
-- **Prix** 15 po 
-- **Poids** 3 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Robes 
+# <Name>Habits de bonne qualité</Name>
 
-- **Type** Équipement d'aventurier / Vêtements
-- **Prix** 1 po 
-- **Poids** 2 kg
+- **Type** <Type>Équipement d'aventurier / Vêtements</Type>
+- **Prix** <Price>15 po</Price>
+- **Poids** <Weight>3 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Tenue de voyageur 
+<Equipment>
 
-- **Type** Équipement d'aventurier / Vêtements
-- **Prix** 2 po 
-- **Poids** 2 kg
+# <Name>Robes</Name>
 
+- **Type** <Type>Équipement d'aventurier / Vêtements</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>2 kg</Weight>
 
+</Equipment>
 
+<Equipment>
 
+# <Name>Tenue de voyageur</Name>
 
+- **Type** <Type>Équipement d'aventurier / Vêtements</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>2 kg</Weight>
 
-[][Equipment]
 
-# Chalemie 
 
-- **Type** Outil - Instrument de musique
-- **Prix** 2 po 
-- **Poids** 0,5 kg
 
-[][Equipment]
 
-# Cor 
 
-- **Type** Outil - Instrument de musique
-- **Prix** 3 po 
-- **Poids** 1 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Cornemuse 
+# <Name>Chalemie</Name>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 30 po 
-- **Poids** 3 kg
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Flûte 
+<Equipment>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 2 po 
-- **Poids** 0,5 kg
+# <Name>Cor</Name>
 
-[][Equipment]
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>3 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-# Flûte de pan 
+</Equipment>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 12 po 
-- **Poids** 1 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Cornemuse</Name>
 
-# Luth 
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>30 po</Price>
+- **Poids** <Weight>3 kg</Weight>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 35 po 
-- **Poids** 1 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Lyre 
+# <Name>Flûte</Name>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 30 po 
-- **Poids** 1 kg
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Tambour 
+<Equipment>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 6 po 
-- **Poids** 1,5 kg
+# <Name>Flûte de pan</Name>
 
-[][Equipment]
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>12 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-# Tympanon 
+</Equipment>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 25 po 
-- **Poids** 5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Luth</Name>
 
-# Viole 
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>35 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-- **Type** Outil - Instrument de musique
-- **Prix** 30 po 
-- **Poids** 0,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Instruments de navigation 
+# <Name>Lyre</Name>
 
-- **Type** Outil
-- **Prix** 25 po 
-- **Poids** 1 kg
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>30 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Dés 
+<Equipment>
 
-- **Type** Outil - Jeu
-- **Prix** 1 pa 
-- **Poids** _
+# <Name>Tambour</Name>
 
-[][Equipment]
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>6 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-# Jeu de cartes 
+</Equipment>
 
-- **Type** Outil - Jeu
-- **Prix** 5 pa 
-- **Poids** _
+<Equipment>
 
-[][Equipment]
+# <Name>Tympanon</Name>
 
-# Matériel d'empoisonneur 
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>5 kg</Weight>
 
-- **Type** Outil
-- **Prix** 50 po 
-- **Poids** 1 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Matériel d'herboriste 
+# <Name>Viole</Name>
 
-- **Type** Outil
-- **Prix** 5 po 
-- **Poids** 1,5 kg
+- **Type** <Type>Outil - Instrument de musique</Type>
+- **Prix** <Price>30 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Matériel d'alchimiste 
+<Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 50 po 
-- **Poids** 4 kg
+# <Name>Instruments de navigation</Name>
 
-[][Equipment]
+- **Type** <Type>Outil</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-# Matériel de brasseur 
+</Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 20 po 
-- **Poids** 4,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Dés</Name>
 
-# Outils de bricoleur 
+- **Type** <Type>Outil - Jeu</Type>
+- **Prix** <Price>1 pa</Price>
+- **Poids** <Weight>_</Weight>
 
-- **Type** Outil d'artisan
-- **Prix** 50 po 
-- **Poids** 5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Matériel de calligraphie 
+# <Name>Jeu de cartes</Name>
 
-- **Type** Outil d'artisan
-- **Prix** 10 po 
-- **Poids** 2,5 kg
+- **Type** <Type>Outil - Jeu</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>_</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Outils de cartographe 
+<Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 15 po 
-- **Poids** 3 kg
+# <Name>Matériel d'empoisonneur</Name>
 
-[][Equipment]
+- **Type** <Type>Outil</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-# Outils de charpentier 
+</Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 8 po 
-- **Poids** 3 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Matériel d'herboriste</Name>
 
-# Outils de cordonnier 
+- **Type** <Type>Outil</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-- **Type** Outil d'artisan
-- **Prix** 5 po 
-- **Poids** 2,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Ustensiles de cuisinier 
+# <Name>Matériel d'alchimiste</Name>
 
-- **Type** Outil d'artisan
-- **Prix** 1 po 
-- **Poids** 4 kg
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>4 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Accessoires de déguisement 
+<Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 25 po 
-- **Poids** 1,5 kg
+# <Name>Matériel de brasseur</Name>
 
-[][Equipment]
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>20 po</Price>
+- **Poids** <Weight>4,5 kg</Weight>
 
-# Accessoires de faussaire 
+</Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 15 po 
-- **Poids** 2,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Outils de bricoleur</Name>
 
-# Outils de forgeron 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>50 po</Price>
+- **Poids** <Weight>5 kg</Weight>
 
-- **Type** Outil d'artisan
-- **Prix** 20 po 
-- **Poids** 4 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Outils de joaillier 
+# <Name>Matériel de calligraphie</Name>
 
-- **Type** Outil d'artisan
-- **Prix** 25 po 
-- **Poids** 1 kg
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Outils de maçon 
+<Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 10 po 
-- **Poids** 4 kg
+# <Name>Outils de cartographe</Name>
 
-[][Equipment]
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>15 po</Price>
+- **Poids** <Weight>3 kg</Weight>
 
-# Outils de menuisier 
+</Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 1 po 
-- **Poids** 2,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Outils de charpentier</Name>
 
-# Matériel de peintre 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>8 po</Price>
+- **Poids** <Weight>3 kg</Weight>
 
-- **Type** Outil d'artisan
-- **Prix** 10 po 
-- **Poids** 2,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Outils de potier 
+# <Name>Outils de cordonnier</Name>
 
-- **Type** Outil d'artisan
-- **Prix** 10 po 
-- **Poids** 1,5 kg
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Outils de soufeur de verre 
+<Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 30 po 
-- **Poids** 2,5 kg
+# <Name>Ustensiles de cuisinier</Name>
 
-[][Equipment]
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>4 kg</Weight>
 
-# Outils de tanneur 
+</Equipment>
 
-- **Type** Outil d'artisan
-- **Prix** 5 po 
-- **Poids** 2,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Accessoires de déguisement</Name>
 
-# Outils de tisserand 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-- **Type** Outil d'artisan
-- **Prix** 1 po 
-- **Poids** 2,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Outils de voleur 
+# <Name>Accessoires de faussaire</Name>
 
-- **Type** Outil d'artisan
-- **Prix** 25 po 
-- **Poids** 0,5 kg
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>15 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
+</Equipment>
 
+<Equipment>
 
+# <Name>Outils de forgeron</Name>
 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>20 po</Price>
+- **Poids** <Weight>4 kg</Weight>
 
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Âne ou mule 
+# <Name>Outils de joaillier</Name>
 
-- **Type** Monture
-- **Prix** 8 po 
-- **Vitesse** 12 m 
-- **Capacité de charge** 210 kg
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>1 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Chameau 
+<Equipment>
 
-- **Type** Monture
-- **Prix** 50 po 
-- **Vitesse** 15 m 
-- **Capacité de charge** 240 kg
+# <Name>Outils de maçon</Name>
 
-[][Equipment]
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>4 kg</Weight>
 
-# Cheval de guerre 
+</Equipment>
 
-- **Type** Monture
-- **Prix** 400 po 
-- **Vitesse** 18 m 
-- **Capacité de charge** 270 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Outils de menuisier</Name>
 
-# Cheval de selle 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-- **Type** Monture
-- **Prix** 75 po 
-- **Vitesse** 18 m 
-- **Capacité de charge** 240 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Cheval de trait 
+# <Name>Matériel de peintre</Name>
 
-- **Type** Monture
-- **Prix** 50 po 
-- **Vitesse** 12 m 
-- **Capacité de charge** 270 kg
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Éléphant 
+<Equipment>
 
-- **Type** Monture
-- **Prix** 200 po 
-- **Vitesse** 12 m 
-- **Capacité de charge** 660 kg
+# <Name>Outils de potier</Name>
 
-[][Equipment]
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>1,5 kg</Weight>
 
-# Molosse 
+</Equipment>
 
-- **Type** Monture
-- **Prix** 25 po 
-- **Vitesse** 12 m 
-- **Capacité de charge** 97,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Outils de soufeur de verre</Name>
 
-# Poney 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>30 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-- **Type** Monture
-- **Prix** 30 po 
-- **Vitesse** 12 m 
-- **Capacité de charge** 112,5 kg
+</Equipment>
 
+<Equipment>
 
+# <Name>Outils de tanneur</Name>
 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Barde 
+<Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** x 4 
-- **Poids** x 2
+# <Name>Outils de tisserand</Name>
 
-[][Equipment]
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>1 po</Price>
+- **Poids** <Weight>2,5 kg</Weight>
 
-# Calèche 
+</Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 100 po 
-- **Poids** 300 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Outils de voleur</Name>
 
-# Carriole 
+- **Type** <Type>Outil d'artisan</Type>
+- **Prix** <Price>25 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 250 po 
-- **Poids** 50 kg
 
-[][Equipment]
 
-# Chariot 
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 35 po 
-- **Poids** 200 kg
 
-[][Equipment]
 
-# Charrette 
+</Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 15 po 
-- **Poids** 100 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Âne ou mule</Name>
 
-# Écurie  
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>8 po</Price>
+- **Vitesse** <Speed>12 m</Speed>
+- **Capacité de charge** <WeightCapacity>210 kg</WeightCapacity>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 5 pa 
-- **Poids** _
-- **Unité** par jour
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Fontes 
+# <Name>Chameau</Name>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 4 po 
-- **Poids** 4 kg
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>50 po</Price>
+- **Vitesse** <Speed>15 m</Speed>
+- **Capacité de charge** <WeightCapacity>240 kg</WeightCapacity>
 
-[][Equipment]
+</Equipment>
 
-# Fourrage  
+<Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 5 pc 
-- **Poids** 5 kg
-- **Unité** par jour
+# <Name>Cheval de guerre</Name>
 
-[][Equipment]
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>400 po</Price>
+- **Vitesse** <Speed>18 m</Speed>
+- **Capacité de charge** <WeightCapacity>270 kg</WeightCapacity>
 
-# Mors et bride 
+</Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 2 po 
-- **Poids** 0,5 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Cheval de selle</Name>
 
-# Selle de bât 
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>75 po</Price>
+- **Vitesse** <Speed>18 m</Speed>
+- **Capacité de charge** <WeightCapacity>240 kg</WeightCapacity>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 5 po 
-- **Poids** 7,5 kg
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Selle d'équitation 
+# <Name>Cheval de trait</Name>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 10 po 
-- **Poids** 12,5 kg
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>50 po</Price>
+- **Vitesse** <Speed>12 m</Speed>
+- **Capacité de charge** <WeightCapacity>270 kg</WeightCapacity>
 
-[][Equipment]
+</Equipment>
 
-# Selle exotique 
+<Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 60 po 
-- **Poids** 20 kg
+# <Name>Éléphant</Name>
 
-[][Equipment]
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>200 po</Price>
+- **Vitesse** <Speed>12 m</Speed>
+- **Capacité de charge** <WeightCapacity>660 kg</WeightCapacity>
 
-# Selle militaire 
+</Equipment>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 20 po 
-- **Poids** 15 kg
+<Equipment>
 
-[][Equipment]
+# <Name>Molosse</Name>
 
-# Traîneau 
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>25 po</Price>
+- **Vitesse** <Speed>12 m</Speed>
+- **Capacité de charge** <WeightCapacity>97,5 kg</WeightCapacity>
 
-- **Type** Équipement, sellerie et véhicules à traction
-- **Prix** 20 po 
-- **Poids** 150 kg
+</Equipment>
 
+<Equipment>
 
+# <Name>Poney</Name>
 
+- **Type** <Type>Monture</Type>
+- **Prix** <Price>30 po</Price>
+- **Vitesse** <Speed>12 m</Speed>
+- **Capacité de charge** <WeightCapacity>112,5 kg</WeightCapacity>
 
-[][Equipment]
 
-# Barge 
 
-- **Type** Bateau
-- **Prix** 3 000 po 
-- **Vitesse** 1,4 km/h
 
-[][Equipment]
+</Equipment>
 
-# Barque 
+<Equipment>
 
-- **Type** Bateau
-- **Prix** 50 po 
-- **Vitesse** 2,5 km/h
+# <Name>Barde</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>x 4</Price>
+- **Poids** <Weight>x 2</Weight>
 
-# Bateau à voiles 
+</Equipment>
 
-- **Type** Bateau
-- **Prix** 10 000 po 
-- **Vitesse** 3 km/h
+<Equipment>
 
-[][Equipment]
+# <Name>Calèche</Name>
 
-# Drakkar 
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>100 po</Price>
+- **Poids** <Weight>300 kg</Weight>
 
-- **Type** Bateau
-- **Prix** 10 000 po 
-- **Vitesse** 5 km/h
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Galère 
+# <Name>Carriole</Name>
 
-- **Type** Bateau
-- **Prix** 30 000 po 
-- **Vitesse** 6,5 km/h
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>250 po</Price>
+- **Poids** <Weight>50 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Navire de guerre 
+<Equipment>
 
-- **Type** Bateau
-- **Prix** 25 000 po 
-- **Vitesse** 4 km/h
+# <Name>Chariot</Name>
 
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>35 po</Price>
+- **Poids** <Weight>200 kg</Weight>
 
+</Equipment>
 
+<Equipment>
 
-[][Equipment]
+# <Name>Charrette</Name>
 
-# Blé
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>15 po</Price>
+- **Poids** <Weight>100 kg</Weight>
 
-- **Type** Marchandise
-- **Prix** 1 pc
-- **Unité** 1 livre
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Farine
+# <Name>Écurie</Name>
 
-- **Type** Marchandise
-- **Prix** 2 pc
-- **Unité** 1 livre
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>5 pa</Price>
+- **Poids** <Weight>_</Weight>
+- **Unité** <Unity>par jour</Unity>
 
-[][Equipment]
+</Equipment>
 
-# Poulet
+<Equipment>
 
-- **Type** Marchandise
-- **Prix** 2 pc
+# <Name>Fontes</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>4 po</Price>
+- **Poids** <Weight>4 kg</Weight>
 
-# Sel
+</Equipment>
 
-- **Type** Marchandise
-- **Prix** 5 pc
-- **Unité** 1 livre
+<Equipment>
 
-[][Equipment]
+# <Name>Fourrage</Name>
 
-# Fer
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>5 pc</Price>
+- **Poids** <Weight>5 kg</Weight>
+- **Unité** <Unity>par jour</Unity>
 
-- **Type** Marchandise
-- **Prix** 1 pa
-- **Unité** 1 livre
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Toile
+# <Name>Mors et bride</Name>
 
-- **Type** Marchandise
-- **Prix** 1 pa
-- **Unité** 1 m2
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>2 po</Price>
+- **Poids** <Weight>0,5 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Cuivre
+<Equipment>
 
-- **Type** Marchandise
-- **Prix** 5 pa
-- **Unité** 1 livre
+# <Name>Selle de bât</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>5 po</Price>
+- **Poids** <Weight>7,5 kg</Weight>
 
-# Tissu en coton
+</Equipment>
 
-- **Type** Marchandise
-- **Prix** 5 pa
-- **Unité** 1 m2
+<Equipment>
 
-[][Equipment]
+# <Name>Selle d'équitation</Name>
 
-# Gingembre
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>10 po</Price>
+- **Poids** <Weight>12,5 kg</Weight>
 
-- **Type** Marchandise
-- **Prix** 1 po
-- **Unité** 1 livre
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Chèvre
+# <Name>Selle exotique</Name>
 
-- **Type** Marchandise
-- **Prix** 1 po
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>60 po</Price>
+- **Poids** <Weight>20 kg</Weight>
 
-[][Equipment]
+</Equipment>
 
-# Cannelle
+<Equipment>
 
-- **Type** Marchandise
-- **Prix** 2 po
-- **Unité** 1 livre
+# <Name>Selle militaire</Name>
 
-[][Equipment]
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>20 po</Price>
+- **Poids** <Weight>15 kg</Weight>
 
-# Poivre
+</Equipment>
 
-- **Type** Marchandise
-- **Prix** 2 po
-- **Unité** 1 livre
+<Equipment>
 
-[][Equipment]
+# <Name>Traîneau</Name>
 
-# Mouton
+- **Type** <Type>Équipement, sellerie et véhicules à traction</Type>
+- **Prix** <Price>20 po</Price>
+- **Poids** <Weight>150 kg</Weight>
 
-- **Type** Marchandise
-- **Prix** 2 po
 
-[][Equipment]
 
-# Clous de girofle
 
-- **Type** Marchandise
-- **Prix** 3 po
-- **Unité** 1 livre
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Cochon
+# <Name>Barge</Name>
 
-- **Type** Marchandise
-- **Prix** 3 po
+- **Type** <Type>Bateau</Type>
+- **Prix** <Price>3 000 po</Price>
+- **Vitesse** <Speed>1,4 km/h</Speed>
 
-[][Equipment]
+</Equipment>
 
-# Argent
+<Equipment>
 
-- **Type** Marchandise
-- **Prix** 5 po
-- **Unité** 1 livre
+# <Name>Barque</Name>
 
-[][Equipment]
+- **Type** <Type>Bateau</Type>
+- **Prix** <Price>50 po</Price>
+- **Vitesse** <Speed>2,5 km/h</Speed>
 
-# Lin
+</Equipment>
 
-- **Type** Marchandise
-- **Prix** 5 po
-- **Unité** 1 m2
+<Equipment>
 
-[][Equipment]
+# <Name>Bateau à voiles</Name>
 
-# Soie
+- **Type** <Type>Bateau</Type>
+- **Prix** <Price>10 000 po</Price>
+- **Vitesse** <Speed>3 km/h</Speed>
 
-- **Type** Marchandise
-- **Prix** 10 po
-- **Unité** 1 m2
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Vache
+# <Name>Drakkar</Name>
 
-- **Type** Marchandise
-- **Prix** 10 po
+- **Type** <Type>Bateau</Type>
+- **Prix** <Price>10 000 po</Price>
+- **Vitesse** <Speed>5 km/h</Speed>
 
-[][Equipment]
+</Equipment>
 
-# Safran
+<Equipment>
 
-- **Type** Marchandise
-- **Prix** 15 po
-- **Unité** 1 livre
+# <Name>Galère</Name>
 
-[][Equipment]
+- **Type** <Type>Bateau</Type>
+- **Prix** <Price>30 000 po</Price>
+- **Vitesse** <Speed>6,5 km/h</Speed>
 
-# Boeuf
+</Equipment>
 
-- **Type** Marchandise
-- **Prix** 15 po
+<Equipment>
 
-[][Equipment]
+# <Name>Navire de guerre</Name>
 
-# Or
+- **Type** <Type>Bateau</Type>
+- **Prix** <Price>25 000 po</Price>
+- **Vitesse** <Speed>4 km/h</Speed>
 
-- **Type** Marchandise
-- **Prix** 50 po
-- **Unité** 1 livre
 
-[][Equipment]
 
-# Platine
 
-- **Type** Marchandise
-- **Prix** 500 po
-- **Unité** 1 livre
+</Equipment>
 
+<Equipment>
 
+# <Name>Blé</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>1 pc</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-# Employé non-qualifé 
+</Equipment>
 
-- **Type** Service
-- **Prix** 2 pa 
-- **Unité** par jour
+<Equipment>
 
-[][Equipment]
+# <Name>Farine</Name>
 
-# Employé qualifé 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>2 pc</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-- **Type** Service
-- **Prix** 2 po 
-- **Unité** par jour
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Messager 
+# <Name>Poulet</Name>
 
-- **Type** Service
-- **Prix** 2 pc 
-- **Unité** par kilomètre
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>2 pc</Price>
 
-[][Equipment]
+</Equipment>
 
-# Péage  
+<Equipment>
 
-- **Type** Service
-- **Prix** 1 pc
-- **Unité** route ou porte
+# <Name>Sel</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>5 pc</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-# Transport dans une ville 
+</Equipment>
 
-- **Type** Service
-- **Prix** 1 pc
+<Equipment>
 
-[][Equipment]
+# <Name>Fer</Name>
 
-# Transport entre deux villes 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>1 pa</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-- **Type** Service
-- **Prix** 2 pc 
-- **Unité** par kilomètre
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Voyage maritime 
+# <Name>Toile</Name>
 
-- **Type** Service
-- **Prix** 7 pc 
-- **Unité** par kilomètre
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>1 pa</Price>
+- **Unité** <Unity>1 m2</Unity>
 
+</Equipment>
 
+<Equipment>
 
+# <Name>Cuivre</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>5 pa</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-# Banquet 
+</Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 10 po
-- **Unité** par personne
+<Equipment>
 
-[][Equipment]
+# <Name>Tissu en coton</Name>
 
-# Bière (chope)
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>5 pa</Price>
+- **Unité** <Unity>1 m2</Unity>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 4 pc
-- **Unité** chope
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Bière (cruche)
+# <Name>Gingembre</Name>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 2 pa
-- **Unité** cruche
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>1 po</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-[][Equipment]
+</Equipment>
 
-# Fromage 
+<Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 1 pa
-- **Unité** gros morceau
+# <Name>Chèvre</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>1 po</Price>
 
-# Hébergement à l'auberge : Misérable 
+</Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 7 pc
-- **Unité** par jour
+<Equipment>
 
-[][Equipment]
+# <Name>Cannelle</Name>
 
-# Hébergement à l'auberge : Pauvre 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>2 po</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 1 pa
-- **Unité** par jour
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Hébergement à l'auberge : Modeste 
+# <Name>Poivre</Name>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 5 pa
-- **Unité** par jour
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>2 po</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-[][Equipment]
+</Equipment>
 
-# Hébergement à l'auberge : Confortable 
+<Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 8 pa
-- **Unité** par jour
+# <Name>Mouton</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>2 po</Price>
 
-# Hébergement à l'auberge : Riche 
+</Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 2 po
-- **Unité** par jour
+<Equipment>
 
-[][Equipment]
+# <Name>Clous de girofle</Name>
 
-# Hébergement à l'auberge : Aristocratique 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>3 po</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 4 po
-- **Unité** par jour
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Pain 
+# <Name>Cochon</Name>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 2 pc
-- **Unité** miche
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>3 po</Price>
 
-[][Equipment]
+</Equipment>
 
-# Repas : Misérable 
+<Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 3 pc
-- **Unité** par jour
+# <Name>Argent</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>5 po</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-# Repas : Pauvre 
+</Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 6 pc
-- **Unité** par jour
+<Equipment>
 
-[][Equipment]
+# <Name>Lin</Name>
 
-# Repas : Modeste 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>5 po</Price>
+- **Unité** <Unity>1 m2</Unity>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 3 pa
-- **Unité** par jour
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Repas : Confortable 
+# <Name>Soie</Name>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 5 pa
-- **Unité** par jour
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>10 po</Price>
+- **Unité** <Unity>1 m2</Unity>
 
-[][Equipment]
+</Equipment>
 
-# Repas : Riche 
+<Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 8 pa
-- **Unité** par jour
+# <Name>Vache</Name>
 
-[][Equipment]
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>10 po</Price>
 
-# Repas : Aristocratique 
+</Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 2 po
-- **Unité** par jour
+<Equipment>
 
-[][Equipment]
+# <Name>Safran</Name>
 
-# Viande 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>15 po</Price>
+- **Unité** <Unity>1 livre</Unity>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 3 pa
-- **Unité** gros morceau
+</Equipment>
 
-[][Equipment]
+<Equipment>
 
-# Vin ordinaire  
+# <Name>Boeuf</Name>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 2 pa
-- **Unité** cruche
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>15 po</Price>
 
-[][Equipment]
+</Equipment>
 
-# Vin rafiné  
+<Equipment>
 
-- **Type** Nourriture, boisson et logement
-- **Prix** 10 po
-- **Unité** bouteille
+# <Name>Or</Name>
 
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>50 po</Price>
+- **Unité** <Unity>1 livre</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Platine</Name>
+
+- **Type** <Type>Marchandise</Type>
+- **Prix** <Price>500 po</Price>
+- **Unité** <Unity>1 livre</Unity>
+
+
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Employé non-qualifé</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>2 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Employé qualifé</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>2 po</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Messager</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>2 pc</Price>
+- **Unité** <Unity>par kilomètre</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Péage</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>1 pc</Price>
+- **Unité** <Unity>route ou porte</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Transport dans une ville</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>1 pc</Price>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Transport entre deux villes</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>2 pc</Price>
+- **Unité** <Unity>par kilomètre</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Voyage maritime</Name>
+
+- **Type** <Type>Service</Type>
+- **Prix** <Price>7 pc</Price>
+- **Unité** <Unity>par kilomètre</Unity>
+
+
+
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Banquet</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>10 po</Price>
+- **Unité** <Unity>par personne</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Bière (chope)</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>4 pc</Price>
+- **Unité** <Unity>chope</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Bière (cruche)</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>2 pa</Price>
+- **Unité** <Unity>cruche</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Fromage</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>1 pa</Price>
+- **Unité** <Unity>gros morceau</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hébergement à l'auberge : Misérable</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>7 pc</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hébergement à l'auberge : Pauvre</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>1 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hébergement à l'auberge : Modeste</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>5 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hébergement à l'auberge : Confortable</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>8 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hébergement à l'auberge : Riche</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>2 po</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Hébergement à l'auberge : Aristocratique</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>4 po</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Pain</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>2 pc</Price>
+- **Unité** <Unity>miche</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Repas : Misérable</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>3 pc</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Repas : Pauvre</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>6 pc</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Repas : Modeste</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>3 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Repas : Confortable</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>5 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Repas : Riche</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>8 pa</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Repas : Aristocratique</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>2 po</Price>
+- **Unité** <Unity>par jour</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Viande</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>3 pa</Price>
+- **Unité** <Unity>gros morceau</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Vin ordinaire</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>2 pa</Price>
+- **Unité** <Unity>cruche</Unity>
+
+</Equipment>
+
+<Equipment>
+
+# <Name>Vin rafiné</Name>
+
+- **Type** <Type>Nourriture, boisson et logement</Type>
+- **Prix** <Price>10 po</Price>
+- **Unité** <Unity>bouteille</Unity>
+
+</Equipment>
+
+</Equipments>
 
 [à deux mains]: weapons_hd.md#À-deux-mains
 [À deux mains]: weapons_hd.md#À-deux-mains
