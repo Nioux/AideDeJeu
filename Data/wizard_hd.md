@@ -3,7 +3,7 @@
 
 # Magicien
 
-- AltName: Wizard (SRD p52)
+- AltName: <AltName>Wizard (SRD p52)</AltName>
 - Source: <Source>(MDR p166)</Source>
 
 </Generic>

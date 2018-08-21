@@ -3,7 +3,7 @@
 
 # Barbare
 
-- AltName: Barbarian (SRD p8)
+- AltName: <AltName>Barbarian (SRD p8)</AltName>
 - Source: <Source>(MDR p114)</Source>
 
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.

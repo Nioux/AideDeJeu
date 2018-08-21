@@ -3,7 +3,7 @@
 
 ## Jouer dans un multivers
 
-- AltName: Planes 
+- AltName: <AltName>Planes </AltName>
 - Source: <Source>(CDC p120)(SRD p363)</Source>
 
 Dans l’univers de Héros & Dragons, considérez que le cosmos recèle une multitude de mondes, ainsi qu’une myriade de dimensions alternatives : les plans d’existence. Ils englobent tous les mondes où un MJ peut diriger une aventure, le tout compris dans le royaume relativement ordinaire que l’on nomme le plan matériel. Au-delà de ce plan, on trouve des domaines faits de matière et d’énergie brutes, des royaumes de pensées et d’esprits purs, demeures des anges et des démons, domaine des dieux. À vous de choisir, d’intégrer à votre guise des ouvertures sur ces dimensions qui existent dans le jeu de rôle med-fan depuis la création du loisir.

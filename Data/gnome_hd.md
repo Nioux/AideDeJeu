@@ -3,7 +3,7 @@
 
 # Gnome
 
-- AltName: Gnome (SRD p6)
+- AltName: <AltName>Gnome (SRD p6)</AltName>
 - Source: <Source>(MDR p48)</Source>
 
 ## Traits des gnomes
@@ -32,7 +32,7 @@ Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
 ## Gnome des roches
 
-- AltName: Rock Gnome (SRD p6)
+- AltName: <AltName>Rock Gnome (SRD p6)</AltName>
 - Source: <Source>(MDR p48)</Source>
 
 Les gnomes des roches sont naturellement plus inventifs et résistants que les autres gnomes.

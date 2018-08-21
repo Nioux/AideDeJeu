@@ -3,7 +3,7 @@
 
 # Nain
 
-- AltName: Dwarf (SRD p3)
+- AltName: <AltName>Dwarf (SRD p3)</AltName>
 - Source: <Source>(MDR p57)</Source>
 
 ## Traits des nains
@@ -38,7 +38,7 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 ## Nain des tertres
 
-- AltName: Hill Dwarf (SRD p3)
+- AltName: <AltName>Hill Dwarf (SRD p3)</AltName>
 - Source: <Source>(MDR p57)</Source>
 
 En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.

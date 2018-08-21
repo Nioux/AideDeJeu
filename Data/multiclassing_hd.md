@@ -2,7 +2,7 @@
 
 # Multiclassage
 
-- AltName: Multiclassing (SRD p56)
+- AltName: <AltName>Multiclassing (SRD p56)</AltName>
 - Source: <Source>(MDR p242)</Source>
 
 Le multiclassage vous permet de gagner des niveaux dans différentes classes. Vous pouvez ainsi mélanger les aptitudes de plusieurs classes afin de créer un type de personnage qui n'existe pas parmi les archétypes proposés.

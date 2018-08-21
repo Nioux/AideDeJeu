@@ -2,7 +2,7 @@
 
 # <Name>Intelligence</Name>
 
-- AltName: Intelligence (SRD p81)
+- AltName: <AltName>Intelligence (SRD p81)</AltName>
 - Source: <Source>(MDR p264)</Source>
 
 L'intelligence représente la vivacité d'esprit, la mémoire et la capacité de raisonnement.

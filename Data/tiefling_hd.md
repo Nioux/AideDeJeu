@@ -3,7 +3,7 @@
 
 # Tieffelin
 
-- AltName: Tiefling (SRD p7)
+- AltName: <AltName>Tiefling (SRD p7)</AltName>
 - Source: <Source>(MDR p71)</Source>
 
 ## Traits des tieffelins

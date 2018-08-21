@@ -2,7 +2,7 @@
 
 # <Name>Force</Name>
 
-- AltName: Strength (SRD p79)
+- AltName: <AltName>Strength (SRD p79)</AltName>
 - Source: <Source>(MDR p262)</Source>
 
 La Force détermine la puissance physique d'un personnage, ses compétences en [athlétisme] et dans quelle mesure il peut se reposer sur sa force brute.

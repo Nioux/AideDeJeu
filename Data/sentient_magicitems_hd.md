@@ -3,7 +3,7 @@
 
 # Objets magiques intelligents
 
-- AltName: Sentient Magic Items (SRD p251)
+- AltName: <AltName>Sentient Magic Items (SRD p251)</AltName>
 - Source: <Source>(CDC p189)</Source>
 
 

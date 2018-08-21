@@ -3,7 +3,7 @@
 
 # Guerrier
 
-- AltName: Fighter (SRD p24)
+- AltName: <AltName>Fighter (SRD p24)</AltName>
 - Source: <Source>(MDR p160)</Source>
 
 </Generic>

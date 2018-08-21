@@ -3,7 +3,7 @@
 
 # Conditions
 
-- AltName: [États spéciaux](conditions_hd.md#États-spéciaux)
+- AltName: <AltName>[États spéciaux](conditions_hd.md#États-spéciaux)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monsters attack, or other effect. Most conditions, such as [blinded](conditions_vo.md#blinded), are impairments, but a few, such as invisible, can be advantageous.
@@ -21,7 +21,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Blinded
 
-- AltName: [Aveuglé](conditions_hd.md#aveuglé)
+- AltName: <AltName>[Aveuglé](conditions_hd.md#aveuglé)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * A blinded creature can't see and automatically fails any ability check that requires sight.
@@ -35,7 +35,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Charmed
 
-- AltName: [Charmé](conditions_hd.md#charmé)
+- AltName: <AltName>[Charmé](conditions_hd.md#charmé)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
@@ -49,7 +49,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Deafened
 
-- AltName: [Assourdi](conditions_hd.md#assourdi)
+- AltName: <AltName>[Assourdi](conditions_hd.md#assourdi)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * A deafened creature can't hear and automatically fails any ability check that requires hearing.
@@ -61,7 +61,7 @@ The following definitions specify what happens to a creature while it is subject
 
 # Exhaustion
 
-- AltName: [Fatigue et épuisement](conditions_hd.md#fatigue-et-épuisement)
+- AltName: <AltName>[Fatigue et épuisement](conditions_hd.md#fatigue-et-épuisement)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
@@ -92,7 +92,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Frightened
 
-- AltName: [Terrorisé](conditions_hd.md#terrorisé)
+- AltName: <AltName>[Terrorisé](conditions_hd.md#terrorisé)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
@@ -106,7 +106,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Grappled
 
-- AltName: [Empoigné](conditions_hd.md#empoigné)
+- AltName: <AltName>[Empoigné](conditions_hd.md#empoigné)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
@@ -122,7 +122,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Incapacitated
 
-- AltName: [Neutralisé](conditions_hd.md#neutralisé)
+- AltName: <AltName>[Neutralisé](conditions_hd.md#neutralisé)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * An incapacitated creature can't take actions or reactions.
@@ -134,7 +134,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Invisible
 
-- AltName: [Invisible](conditions_hd.md#invisible)
+- AltName: <AltName>[Invisible](conditions_hd.md#invisible)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
@@ -148,7 +148,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Paralyzed
 
-- AltName: [Paralysé](conditions_hd.md#paralysé)
+- AltName: <AltName>[Paralysé](conditions_hd.md#paralysé)</AltName>
 - Source: <Source>(SRD p358)</Source>
 
 * A paralyzed creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition) and can't move or speak.
@@ -166,7 +166,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Petrified
 
-- AltName: [Pétrifié](conditions_hd.md#pétrifié)
+- AltName: <AltName>[Pétrifié](conditions_hd.md#pétrifié)</AltName>
 - Source: <Source>(SRD p359)</Source>
 
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
@@ -188,7 +188,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Poisoned
 
-- AltName: [Empoisonné](conditions_hd.md#empoisonné)
+- AltName: <AltName>[Empoisonné](conditions_hd.md#empoisonné)</AltName>
 - Source: <Source>(SRD p359)</Source>
 
 * A poisoned creature has disadvantage on attack rolls and ability checks.
@@ -200,7 +200,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Prone
 
-- AltName: [À terre](conditions_hd.md#À-terre)
+- AltName: <AltName>[À terre](conditions_hd.md#À-terre)</AltName>
 - Source: <Source>(SRD p359)</Source>
 
 * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
@@ -216,7 +216,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Restrained
 
-- AltName: [Entravé](conditions_hd.md#entravé)
+- AltName: <AltName>[Entravé](conditions_hd.md#entravé)</AltName>
 - Source: <Source>(SRD p359)</Source>
 
 * A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
@@ -232,7 +232,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Stunned
 
-- AltName: [Étourdi](conditions_hd.md#Étourdi)
+- AltName: <AltName>[Étourdi](conditions_hd.md#Étourdi)</AltName>
 - Source: <Source>(SRD p359)</Source>
 
 * A stunned creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move, and can speak only falteringly.
@@ -248,7 +248,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 # Unconscious
 
-- AltName: [Inconscient](conditions_hd.md#inconscient)
+- AltName: <AltName>[Inconscient](conditions_hd.md#inconscient)</AltName>
 - Source: <Source>(SRD p359)</Source>
 
 * An unconscious creature is [incapacitated](conditions_vo.md#incapacitated) (see the condition), can't move or speak, and is unaware of its surroundings

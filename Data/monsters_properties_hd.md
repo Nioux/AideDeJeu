@@ -1,3 +1,3 @@
 Monstres (général)
 
-- AltName: Monsters (SRD p254)
+- AltName: <AltName>Monsters (SRD p254)</AltName>

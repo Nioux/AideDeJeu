@@ -3,7 +3,7 @@
 
 # Sorcier
 
-- AltName: Warlock (SRD p46)
+- AltName: <AltName>Warlock (SRD p46)</AltName>
 - Source: <Source>(MDR p209)</Source>
 
 </Generic>

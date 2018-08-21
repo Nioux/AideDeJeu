@@ -3,7 +3,7 @@
 
 # Elfe
 
-- AltName: Elf (SRD p4)
+- AltName: <AltName>Elf (SRD p4)</AltName>
 - Source: <Source>(MDR p44)</Source>
 
 ## Traits des elfes
@@ -36,7 +36,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 ## Elfe d'aether
 
-- AltName: High Elf (SRD p4)
+- AltName: <AltName>High Elf (SRD p4)</AltName>
 - Source: <Source>(MDR p45)</Source>
 
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.

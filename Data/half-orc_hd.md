@@ -3,7 +3,7 @@
 
 # Demi-orc
 
-- AltName: Half-Orc (SRD p7)
+- AltName: <AltName>Half-Orc (SRD p7)</AltName>
 - Source: <Source>(MDR p41)</Source>
 
 ## Traits des demi-orcs

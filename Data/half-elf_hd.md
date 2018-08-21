@@ -3,7 +3,7 @@
 
 # Demi-elfe
 
-- AltName: Half-Elf (SRD p6)
+- AltName: <AltName>Half-Elf (SRD p6)</AltName>
 - Source: <Source>(MDR p39)</Source>
 
 ## Traits des demi-elfes

@@ -3,7 +3,7 @@
 
 # <Name>Utiliser les caractéristiques</Name>
 
-- AltName: Using Ability Scores (SRD p76)
+- AltName: <AltName>Using Ability Scores (SRD p76)</AltName>
 - Source: <Source>(MDR p258)</Source>
 
 Le profil physique et mental d'une créature est défini par six caractéristiques :

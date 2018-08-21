@@ -3,7 +3,7 @@
 
 ## Les maladies
 
-- AltName: Diseases
+- AltName: <AltName>Diseases</AltName>
 - Source: <Source>(CEO p379)(SRD p199)</Source>
 
 Une épidémie ravage le royaume et nos aventuriers se mettent en quête d'un remède. Une aventurière ressort d'une antique tombe qui n'a pas été ouverte depuis des siècles et souffre bientôt d'une maladie débilitante. Un sorcier offense de sinistres puissances et contracte une étrange maladie qui se propage à chaque fois qu'il lance un sort.

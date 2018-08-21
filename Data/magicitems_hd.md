@@ -3,7 +3,7 @@
 
 # Objets magiques
 
-- AltName: Magic Items (SRD p206)
+- AltName: <AltName>Magic Items (SRD p206)</AltName>
 - Source: <Source>(CDC p129)</Source>
 
 Les objets magiques sont récupérés dans les caches aux trésors de monstres vaincus ou dans des chambres fortes depuis longtemps oubliées. Ces objets confèrent à leur détenteur des capacités qu'ils ont rarement l'occasion de maîtriser par ailleurs ou complètent leurs capacités par le biais d'une extraordinaire magie.
@@ -48,7 +48,7 @@ Le sort identification est le meilleur moyen d'obtenir des informations sur un o
 
 ### Harmonisation
 
-- AltName: Attunement (SRD p206)
+- AltName: <AltName>Attunement (SRD p206)</AltName>
 - Source: <Source>(CDC p130)</Source>
 
 Une créature doit parfois sceller un pacte avec certains objets magiques avant de pouvoir utiliser leurs propriétés magiques. Ce pacte est appelé harmonisation et il faut parfois remplir certaines conditions pour plusieurs d'entre eux. Si la condition est une classe, une créature doit appartenir à cette classe pour qu'elle et lui puissent s'harmoniser (si la classe est celle d'un lanceur de sorts, un monstre remplit la condition s'il possède des emplacements de sort et utilise la liste de sorts de cette classe).

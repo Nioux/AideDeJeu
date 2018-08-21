@@ -3,7 +3,7 @@
 
 # Clerc
 
-- AltName:  (SRD p15)
+- AltName: <AltName> (SRD p15)</AltName>
 - Source: <Source>(MDR p129)</Source>
 
 </Generic>

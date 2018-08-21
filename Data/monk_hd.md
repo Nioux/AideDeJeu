@@ -3,7 +3,7 @@
 
 # Moine
 
-- AltName: Monk (SRD p26)
+- AltName: <AltName>Monk (SRD p26)</AltName>
 - Source: <Source>(MDR p176)</Source>
 
 </Generic>

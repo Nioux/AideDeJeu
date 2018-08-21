@@ -3,7 +3,7 @@
 
 # Dévot
 
-- AltName: Acolyte (SRD p60)
+- AltName: <AltName>Acolyte (SRD p60)</AltName>
 - Source: <Source>(MDR p81)</Source>
 
 Vous avez passé votre vie au service d'un temple dédié à un dieu particulier ou à un panthéon de dieux. Vous serviez d'intermédiaire entre le domaine du sacré et le monde mortel. Vous accomplissiez les rites sacrés et faisiez les sacrifices nécessaires qui permettent de mettre les fidèles en présence du divin. Vous n'étiez pas nécessairement un clerc (accomplir des rites sacrés n'est pas la même chose que canaliser la puissance divine).
@@ -22,7 +22,7 @@ Langues maîtrisées : Deux langues au choix.
 
 #### Aptitude : Refuge du pèlerin
 
-- AltName: Feature: Shelter of the Faithful (SRD p61)
+- AltName: <AltName>Feature: Shelter of the Faithful (SRD p61)</AltName>
 - Source: <Source>(MDR p82)</Source>
 
 Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vous pouvez accomplir les cérémonies religieuses liées à votre déité. Vous et vos compagnons d'aventure pouvez espérer recevoir des soins gratuits dans les temples, autels et autres endroits dédiés à la divinité que vous vénérez. Cela ne vous dispense par contre pas de fournir les ingrédients nécessaires au lancement des sorts. Ceux qui partagent votre religion peuvent aussi vous donner (mais seulement à vous) de quoi mener un train de vie modeste.
@@ -35,7 +35,7 @@ Vous pouvez être lié à un temple spécifique dédié à votre déité ou votr
 
 #### Personnalités suggérées
 
-- AltName: Feature: Suggested Characteristics (SRD p61)
+- AltName: <AltName>Feature: Suggested Characteristics (SRD p61)</AltName>
 - Source: <Source>(MDR p82)</Source>
 
 La personnalité des acolytes est façonnée par leurs expériences dans les temples ou les communautés religieuses. Leurs études de l'histoire et des fondements de leur religion, ainsi que leurs rapports aux temples, autels ou clergés ont une influence sur leurs manières et leurs idéaux.
@@ -46,7 +46,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### Trait de personnalité
 
-- AltName: Feature: Personality Trait (SRD p61)
+- AltName: <AltName>Feature: Personality Trait (SRD p61)</AltName>
 - Source: <Source>(MDR p82)</Source>
 
 |d8|Trait de personnalité|
@@ -66,7 +66,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### Idéal
 
-- AltName: Ideal  (SRD p61)
+- AltName: <AltName>Ideal  (SRD p61)</AltName>
 - Source: <Source>(MDR p83)</Source>
 
 |d6|Idéal|
@@ -84,7 +84,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### Lien
 
-- AltName: Bond  (SRD p61)
+- AltName: <AltName>Bond  (SRD p61)</AltName>
 - Source: <Source>(MDR p83)</Source>
 
 |d6|Lien|
@@ -102,7 +102,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### Défaut
 
-- AltName: Flaw  (SRD p61)
+- AltName: <AltName>Flaw  (SRD p61)</AltName>
 - Source: <Source>(MDR p83)</Source>
 
 |d6|Défaut|

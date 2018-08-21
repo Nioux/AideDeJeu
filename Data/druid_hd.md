@@ -3,7 +3,7 @@
 
 # Druide
 
-- AltName: Druid (SRD p17)
+- AltName: <AltName>Druid (SRD p17)</AltName>
 - Source: <Source>(MDR p142)</Source>
 
 </Generic>

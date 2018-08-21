@@ -2,7 +2,7 @@
 
 # Chasseur
 
-- AltName: Hunter (SRD p37)
+- AltName: <AltName>Hunter (SRD p37)</AltName>
 - Source: <Source>(MDR p198)</Source>
 
 </Generic>

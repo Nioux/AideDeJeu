@@ -3,7 +3,7 @@
 
 # Champion
 
-- AltName: Champion (SRD p25)
+- AltName: <AltName>Champion (SRD p25)</AltName>
 - Source: <Source>(MDR p162)</Source>
 
 Le champion se concentre sur le développement de la force physique brute perfectionnée pour en faire une arme mortelle. Ceux qui adoptent cet archétype associent entraînement rigoureux avec excellence physique afin de porter des coups dévastateurs.

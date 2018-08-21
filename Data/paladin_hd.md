@@ -3,7 +3,7 @@
 
 # Paladin
 
-- AltName: Paladin (SRD p30)
+- AltName: <AltName>Paladin (SRD p30)</AltName>
 - Source: <Source>(MDR p183)</Source>
 
 </Generic>

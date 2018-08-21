@@ -7,84 +7,84 @@
 <LinkItem>
 
 ## [Barbare]
-- AltName: [Barbarian](#)
+- AltName: <AltName>[Barbarian](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Barde]
-- AltName: [Bard](#)
+- AltName: <AltName>[Bard](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Clerc]
-- AltName: [Cleric](#)
+- AltName: <AltName>[Cleric](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Druide]
-- AltName: [Druid](#)
+- AltName: <AltName>[Druid](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Ensorceleur]
-- AltName: [Sorcerer](#)
+- AltName: <AltName>[Sorcerer](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Guerrier]
-- AltName: [Fighter](#)
+- AltName: <AltName>[Fighter](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Magicien]
-- AltName: [Wizard](#)
+- AltName: <AltName>[Wizard](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Moine]
-- AltName: [Monk](#)
+- AltName: <AltName>[Monk](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Paladin]
-- AltName: [Paladin](#)
+- AltName: <AltName>[Paladin](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Rôdeur]
-- AltName: [Ranger](#)
+- AltName: <AltName>[Ranger](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Roublard]
-- AltName: [Rogue](#)
+- AltName: <AltName>[Rogue](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
 ## [Sorcier]
-- AltName: [Warlock](#)
+- AltName: <AltName>[Warlock](#)</AltName>
 
 [Barbare]: barbarian_hd.md
 [Barde]: bard_hd.md

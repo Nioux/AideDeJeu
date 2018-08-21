@@ -3,7 +3,7 @@
 
 # Ensorceleur
 
-- AltName: Sorcerer (SRD p41)
+- AltName: <AltName>Sorcerer (SRD p41)</AltName>
 - Source: <Source>(MDR p152)</Source>
 
 </Generic>

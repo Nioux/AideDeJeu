@@ -3,7 +3,7 @@
 
 # Halfelin
 
-- AltName: Halfling (SRD p4)
+- AltName: <AltName>Halfling (SRD p4)</AltName>
 - Source: <Source>(MDR p52)</Source>
 
 ## Traits des halfelins
@@ -34,7 +34,7 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 ## Halfelin pied-léger
 
-- AltName: Lightfoot (SRD p5)
+- AltName: <AltName>Lightfoot (SRD p5)</AltName>
 - Source: <Source>(MDR p52)</Source>
 
 En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.

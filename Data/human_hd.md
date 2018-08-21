@@ -3,7 +3,7 @@
 
 # Humain
 
-- AltName: Human (SRD p5)
+- AltName: <AltName>Human (SRD p5)</AltName>
 - Source: <Source>(MDR p54)</Source>
 
 ## Traits des humains
