@@ -1,9 +1,9 @@
 
-[][Items]
+<Items>
 
 # Demi-ogre
 
-- Source: (MDR p62)
+- Source: <Source>(MDR p62)</Source>
 
 ## Traits des demi-ogres
 
@@ -47,5 +47,5 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 [Charisme (Supercherie)]: abilities_charisma_hd.md#supercherie
 
 
-[Items]: #
-[Generic]: #
+
+

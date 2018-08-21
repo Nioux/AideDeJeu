@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Rôdeur
 
 - AltName: Ranger (SRD p35)
-- Source: (MDR p194)
+- Source: <Source>(MDR p194)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -37,7 +39,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -67,7 +71,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 (* Emplacement de sorts par niveau de sort)
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Ennemi juré
 
@@ -83,7 +89,9 @@ Quand vous gagnez cette aptitude, vous apprenez également une langue de votre c
 
 Vous pouvez choisir un nouvel ennemi juré ainsi qu'une langue qui lui est associée au niveau 6, puis au niveau 14. Ces choix devraient être faits en fonction du type de monstres que vous avez rencontrés pendant vos aventures.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Explorateur-né
 
@@ -100,37 +108,49 @@ Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous 
 
 Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection supplémentaire.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Style de combat
 
 Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Archerie
 
 Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Combat à deux armes
 
 Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Défense
 
 Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Duel
 
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux jets de dégâts infligés avec cette arme.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Incantations
 
@@ -160,13 +180,17 @@ DD d'un [jet de sauvegarde] = 8 + votre bonus de maîtrise + votre modificateur 
 
 Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur de [Sagesse]
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Archétype de rôdeur
 
 Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d'adhérer : chasseur, archer arcanique, exilé ou traqueur. Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 7, 11 et 15.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vigilance primitive
 
@@ -174,19 +198,25 @@ Au niveau 3, vous choisissez un archétype auquel vous vous efforcez d'adhérer 
 
 Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Attaque supplémentaire
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Traversée des terrains
 
@@ -194,7 +224,9 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 En plus de cela, vous obtenez un avantage sur les [jets de sauvegarde] contre les plantes créées par la magie ou manipulées pour gêner les déplacements, comme par exemple celles créées par le sort enchevêtrement.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Camouflage naturel
 
@@ -202,13 +234,17 @@ En plus de cela, vous obtenez un avantage sur les [jets de sauvegarde] contre le
 
 Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une surface solide, comme un arbre ou un mur, qui est au moins aussi grande et large que vous. Vous gagnez un bonus de +10 aux tests de [Dextérité (Discrétion)] tant que vous vous restez immobile et ne faites pas d'action. Dès que vous bougez ou choisissez d'effectuer une action ou une réaction, vous devez vous camoufler de nouveau pour regagner ce bonus.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Disparition
 
 À partir du niveau 14, vous pouvez utiliser l'action se cacher comme action bonus lors de votre tour. Vous arrivez aussi à échapper aux tentatives de pistage par tout moyen non magique, sauf si vous choisissez de laisser des traces de votre passage.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sens sauvages
 
@@ -216,13 +252,17 @@ Au niveau 18, vous gagnez des sens surnaturels qui vous aident à combattre les 
 
 Vous arrivez aussi à percevoir l'endroit où se trouve toute créature invisible dans un rayon de 9 mètres autour de vous, dans la mesure où elle n'est pas cachée et que vous n'êtes ni aveuglé ni assourdi.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tueur d'ennemis
 
 Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de [Sagesse] au jet d'attaque ou de dégâts d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Archétypes de rôdeur
 
@@ -283,5 +323,5 @@ Les idéaux du rôdeur se déclinent en quatre types de spécialisations : l'arc
 [Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
-[Items]: #
-[Generic]: #
+
+

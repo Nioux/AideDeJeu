@@ -1,24 +1,30 @@
-[][Items]
+<Items>
 
 # Théurge
 
-- Source: (MDR p139)
+- Source: <Source>(MDR p139)</Source>
 
 Le théurge est un clerc attiré par la magie sous toutes ses formes, qu'elle soit d'origine divine ou profane. À la façon des magiciens, il cherche à comprendre et à analyser la magie divine pour en faire un usage plus varié et universel, que ce soit dans le but de repousser les limites de la connaissance ou pour asseoir sa puissance au service des principes moraux qu'il prêche. C'est pourquoi il étudie tous les parchemins et les livres de magie qu'il trouve, visite les bibliothèques et, enfin, il inscrit ses sorts, ses recherches et ses prières dans un épais grimoire qu'il conserve précieusement (voir Votre grimoire page 169). Il réussit ainsi à allier le meilleur des deux mondes : la maîtrise du corps et de l'âme accordée par la magie divine et l'aspect pratique et universel de la magie profane.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Études académiques
 
 Le temps que vous avez passé à prier, à méditer et à compulser des grimoires ne vous a pas permis d'apprendre à maîtriser les armures intermédiaires. Contrairement aux autres clercs, vous débutez avec seulement la maîtrise des armures légères. En revanche, vous ajoutez [Arcanes] à la liste de compétences parmi lesquelles vous pouvez choisir vos compétences initiales.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts mineurs
 
 Le nombre de tours de magie que vous connaissez correspond à celui indiqué pour un clerc, mais vous pouvez les choisir indifféremment dans la liste de clerc ou celle de magicien. Au moins la moitié (arrondie au supérieur) des tours de magie que vous connaissez doit appartenir à la liste de clerc.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de domaine
 
@@ -32,13 +38,17 @@ Choisissez les sorts que vous connaissez au moment où vous devenez capable de l
 
 Lorsque vous lancez un sort de magicien, vous utilisez votre modificateur d'[Intelligence] pour déterminer la difficulté de vos sorts et votre modificateur d'attaque magique, au lieu de votre modificateur de [Sagesse]. Vous préparez le nombre standard de sorts d'un clerc de votre niveau en choisissant indifféremment des sorts de clerc ou de magicien.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Magie renforcée
 
 Dès le niveau 2, votre compréhension des principes fondamentaux de la magie vous permet d'utiliser votre canalisation d'énergie divine pour améliorer l'efficacité de vos sorts. Vous pouvez utiliser votre canalisation d'énergie divine pour lancer un sort un niveau au-dessus de l'emplacement de sort utilisé. Par exemple, si vous lancez projectile magique au niveau 1, vous créez quatre projectiles, comme si vous aviez utilisé un emplacement de sort de niveau 2. De cette façon, vous pouvez lancer un sort à un niveau au-dessus de celui que vous êtes habituellement capable de lancer (mais jamais au-dessus du niveau 9).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Récupération de sorts
 
@@ -48,20 +58,26 @@ Une fois par jour, après avoir terminé un repos court, vous pouvez choisir des
 
 Par exemple, si votre bonus de maîtrise est égal à +4, vous pouvez choisir de récupérer deux emplacements de niveau 1 et un emplacement de niveau 2 ou toute autre combinaison dont la somme vaut 4.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Magie puissante
 
 Lorsque vous atteignez le niveau 8, vous améliorez l'efficacité de magie renforcée. Désormais, vous pouvez utiliser votre canalisation d'énergie divine pour lancer un sort de deux niveaux au-dessus de l'emplacement de sort utilisé (mais jamais au-dessus du niveau 9).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Magie universelle
 
 Votre étude exhaustive des différentes traditions et théories magiques vous permet d'apprendre des sorts très variés. À partir du niveau 17 et à chaque niveau suivant, au lieu d'un sort de magicien, vous pouvez apprendre un sort de niveau 1 à 4 issu de n'importe quelle liste de sorts. Vous devez utiliser le modificateur de magie qui correspond à la liste de sorts où vous avez choisi le sort (par exemple, le [Charisme] pour un sort de la liste de sorcier).
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 Nombre de sorts de clercs connus
 
@@ -80,5 +96,5 @@ Nombre de sorts de clercs connus
 [Arcanes]: abilities_intelligence_hd.md#arcanes
 
 
-[Items]: #
-[Generic]: #
+
+

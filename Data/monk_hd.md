@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Moine
 
 - AltName: Monk (SRD p26)
-- Source: (MDR p176)
+- Source: <Source>(MDR p176)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -35,7 +37,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * dix [fléchettes]
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -64,13 +68,17 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Défense sans armure
 
 Dès le niveau 1, si vous ne portez ni armure ni bouclier, votre CA est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Sagesse].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Arts martiaux
 
@@ -84,7 +92,9 @@ Tant que vous ne portez ni armure ni bouclier et que vous combattez à mains nue
 
 Certains monastères utilisent des versions particulières d'armes de moines. Par exemple, vous pouvez utiliser un gourdin qui se présente sous la forme de deux morceaux de bois connectés par une chaîne (appelé un nunchaku) ou une serpe avec une lame plus petite et plus droite (appelée un kama). Quel que soit le nom que vous donnez à votre arme de moine, vous pouvez utiliser les statistiques données dans le jeu pour cette arme.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Ki
 
@@ -96,25 +106,33 @@ Une fois que vous avez dépensé des points de ki, vous ne pouvez plus les utili
 
 Certaines de vos aptitudes liées au ki permettent à votre cible de faire un [jet de sauvegarde] pour résister à leurs effets. Le DD du [jet de sauvegarde] est calculé ainsi : DD de sauvegarde contre le ki = 8 + votre bonus de maîtrise + votre modificateur de [Sagesse].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Déluge de coups
 
 Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Défense patiente
 
 Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Déplacement aérien
 
 Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Déplacement sans armure
 
@@ -122,7 +140,9 @@ Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se 
 
 Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surfaces verticales ou sur des liquides pendant votre tour, tant que vous finissez votre mouvement sur une surface plane et solide.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tradition monacale
 
@@ -132,7 +152,9 @@ Toutes sont détaillées à la fin du descriptif de cette classe.
 
 La tradition que vous avez choisie vous donne accès à des aptitudes spécifiques aux niveaux 3, 6, 11 et 17.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Parade de projectiles
 
@@ -142,61 +164,81 @@ Quand vous utilisez cette aptitude, les dégâts que vous subissez sont réduits
 
 Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper le projectile si vous avez une main de libre et qu'il est assez petit pour que vous puissiez le tenir dans une main. Si vous réussissez à attraper un projectile de cette manière, vous pouvez dépenser 1 point de ki pour faire, toujours dans la même réaction, une attaque à distance avec l'arme ou la munition que vous venez d'attraper. Cette attaque est considérée comme maîtrisée, peu importe quelles armes vous maîtrisez ou non, et le projectile est considéré comme une arme de moine pour cette attaque, avec une portée normale de 6 mètres et une portée longue de 18 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Chute ralentie
 
 À partir du niveau 4, quand vous êtes en train de chuter, vous pouvez utiliser votre réaction afin de réduire les dégâts de chute que vous subissez d'un montant égal à cinq fois votre niveau de moine.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Attaque supplémentaire
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Frappe étourdissante
 
 À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un [jet de sauvegarde] de [Constitution] ou elle sera étourdie jusqu'à la fin de votre prochain tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Frappe de ki
 
 À partir du niveau 6, vos frappes à mains nues sont considérées comme des attaques magiques quand vous êtes confronté à des résistances ou des immunités aux attaques et aux dégâts non magiques.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Dérobade
 
 Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de boule de feu. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tranquillité de l'esprit
 
 À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Pureté du corps
 
 Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Langage du Soleil et de la Lune
 
 À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Âme de diamant
 
@@ -204,7 +246,9 @@ Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies
 
 De plus, quand vous faites un [jet de sauvegarde] et échouez, vous pouvez dépenser 1 point de ki pour le retenter et conserver le deuxième résultat.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Jeunesse éternelle
 
@@ -212,7 +256,9 @@ Au niveau 15, votre ki vous apporte ce qu'il faut pour ne souffrir aucun des dé
 
 Vous pouvez toujours mourir de vieillesse, cela dit. Vous n'avez en outre plus besoin de boire ou manger.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Corps vide
 
@@ -220,13 +266,17 @@ Vous pouvez toujours mourir de vieillesse, cela dit. Vous n'avez en outre plus b
 
 De plus, vous pouvez utiliser 8 points de ki pour lancer le sort projection astrale sans avoir besoin de composantes matérielles. Néanmoins, vous ne pouvez pas emmener d'autres créatures avec vous.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Perfection
 
 Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Traditions monacales
 
@@ -284,5 +334,5 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 [Religion]: abilities_intelligence_hd.md#religion
 
 
-[Items]: #
-[Generic]: #
+
+

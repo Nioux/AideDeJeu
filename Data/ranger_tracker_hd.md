@@ -1,18 +1,22 @@
-[][Items]
+<Items>
 
 # Traqueur
 
-- Source: (MDR p199)
+- Source: <Source>(MDR p199)</Source>
 
 Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu'il s'agit de trouver et d'éliminer des adversaires sur son terrain de prédilection.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Terrain de prédilection
 
 Dès le niveau 3, vous faites l'acquisition d'un second terrain de prédilection. De plus vous ajoutez les profondeurs (milieu naturel souterrain) à la liste des terrains de prédilection qui vous sont accessibles.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Pièges
 
@@ -28,7 +32,9 @@ Le DD est de 8 + votre modificateur de [Dextérité] + votre bonus de maîtrise.
 
 Un piège qui a affecté une créature n'est plus actif. Il peut être réamorcé en seulement 1d6 rounds.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Avantage du terrain
 
@@ -38,7 +44,9 @@ Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection,
 * Vous obtenez un avantage en initiative.
 * Vous obtenez un avantage à tous vos tests de [Force (Athlétisme)] et de [Dextérité (Discrétion)].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Terrain favorable
 
@@ -47,7 +55,9 @@ Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection,
 * Vous pouvez utiliser votre réaction pour obtenir au choix un avantage sur un test d'attaque ou imposer un désavantage à une attaque dont vous êtes la cible.
 * Il vous faut seulement 10 minutes pour bénéficier des effets d'un repos court et 4 heures pour bénéficier des effets d'un repos long.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Maître du terrain
 
@@ -74,5 +84,5 @@ Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus,
 
 
 
-[Items]: #
-[Generic]: #
+
+

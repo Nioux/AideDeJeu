@@ -1,12 +1,14 @@
-[][Items]
+<Items>
 
 # Voie des cinq animaux
 
-- Source: (MDR p180)
+- Source: <Source>(MDR p180)</Source>
 
 Les moines de la voie des cinq animaux s'inspirent de la nature et des créatures ordinaires ou fantastiques pour développer des techniques de combat originales et déconcertantes pour leurs adversaires. Les adeptes de cette tradition délaissent totalement les armes pour se concentrer sur les techniques à mains nues. Ils observent la nature durant de longues heures, puis répètent les mouvements qu'ils ont observés pendant des jours entiers. Enfin, ils affrontent – parfois de façon pacifique, parfois dans une lutte à mort – les créatures qu'ils imitent afin d'en saisir toutes les subtilités.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Griffe du tigre
 
@@ -14,25 +16,33 @@ Vous faites l'acquisition de cette technique au niveau 3.
 
 La griffe du tigre vous permet d'infliger des dégâts tranchants au lieu de contondants lorsque vous faites une attaque à mains nues si vous le souhaitez. De plus, en dépensant 1 point de ki, vous obtenez automatiquement le résultat maximum sur votre dé de dégâts lors d'une attaque à mains nues réussie. Si vous dépensez 2 points de ki, vous obtenez le maximum de dégâts sur toutes vos attaques à mains nues lors de votre tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Parade de la grue
 
 Également à partir du niveau 3, la technique de la Parade de la grue vous permet, en dépensant une réaction et 1 point de ki, d'ajouter le résultat de votre dé d'arts martiaux à votre CA jusqu'à votre prochain tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Morsure du serpent
 
 Au niveau 6, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites une attaque à mains nues si vous le souhaitez. De plus, en dépensant 1 point de ki sur une attaque à mains nues réussie, vous obligez votre cible à faire un [jet de sauvegarde] de [Dextérité]. En cas d'échec, elle est aveuglée jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vitesse du léopard
 
 À partir du niveau 11, vous pouvez utiliser votre réaction et 1 point de Ki pour ajouter le résultat de votre dé d'arts martiaux à un [jet de sauvegarde] de [Dextérité] ou au résultat de n'importe quel test de [Dextérité].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Fureur du dragon
 
@@ -47,5 +57,5 @@ Lorsque vous atteignez le niveau 17, en dépensant 3 points de ki, vous pouvez u
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
+
+

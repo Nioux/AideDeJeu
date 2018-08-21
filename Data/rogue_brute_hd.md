@@ -1,14 +1,16 @@
-[][Items]
+<Items>
 
 # Brute
 
-- Source: (MDR p205)
+- Source: <Source>(MDR p205)</Source>
 
 Tous les roublards ou crapules ne sont pas forcément des monte-en-l'air ou des acrobates. Dans le métier, on ne manque pas d'emplois pour les costauds et les coriaces, ceux qui sont plutôt taillés pour la bagarre, l'intimidation ou la protection… bien que ce terme ait un sens dans le milieu très différent de celui que les honnêtes gens lui prêtent. Sans doute ces individus auraient- ils pu faire une belle carrière de guerrier, mais la vie ou leur goût pour l'illégalité en a décidé autrement.
 
 Leur palette de talents est bien plus étendue que celle d'un simple ferrailleur ; pour eux, l'usage de la force n'est qu'un moyen parmi tant d'autres, puisque tous les coups sont permis.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Regard noir
 
@@ -16,13 +18,17 @@ Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modific
 
 De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Charisme (Intimidation)] contre le test de [Sagesse (Perspicacité)] d'une cible humanoïde à moins de 3 mètres de vous. En cas de succès, la cible souffre d'un désavantage à son prochain jet d'attaque ou d'opposition contre vous. Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude. Les créatures immunisées à l'état terrorisé ou aux dégâts psychiques sont immunisées à cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Dur à cuire
 
 Également au niveau 3, vous ajoutez votre modificateur de [Force] en plus de celui de [Constitution] aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de [Force] augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Coup bas
 
@@ -30,7 +36,9 @@ De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Ch
 
 Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée normale, vous utilisez le même dé que pour cette aptitude pour déterminer vos dégâts.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Attaque en meute
 
@@ -38,7 +46,9 @@ Lorsque vous atteignez le niveau 13, vous obtenez un avantage au jet d'attaque l
 
 Désormais, si vous bénéficiez d'un avantage lorsque vous utilisez l'aptitude coup bas et que votre attaque à mains nue ou improvisée inflige des dégâts, votre cible doit réussir un [jet de sauvegarde] de [Constitution] (DD = 8 + votre modificateur de [Force] + votre bonus de maîtrise) ou être entravée par la douleur jusqu'au début de votre prochain tour. Les morts-vivants, les élémentaires, les vases, les plantes et les créatures artificielles sont immunisées à cet effet.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Persécuter
 
@@ -63,5 +73,5 @@ Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras
 
 
 
-[Items]: #
-[Generic]: #
+
+

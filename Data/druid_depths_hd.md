@@ -1,12 +1,14 @@
-[][Items]
+<Items>
 
 # Cercle des profondeurs
 
-- Source: (MDR p150)
+- Source: <Source>(MDR p150)</Source>
 
 Certains druides n'ont pas pour domaine de prédilection les vertes forêts et la douce lumière du soleil. Ils considèrent que la surface n'est que la partie visible de l'iceberg et que les profondeurs souterraines recèlent des trésors naturels tout aussi précieux et des créatures tout aussi importantes. La vie dans les profondeurs est une lutte pour la survie encore plus féroce que celle qui règne à la surface, et les druides du cercle des profondeurs sont armés pour affronter ces dangers. Leurs pairs du monde de la lumière les regardent à la fois avec une certaine pitié, mais aussi avec un peu de crainte.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Enfant des ténèbres
 
@@ -14,7 +16,9 @@ Au niveau 2, lorsque vous choisissez le cercle des profondeurs, vous apprenez le
 
 De plus, vous obtenez la vision dans le noir. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. Si vous disposez déjà de ce trait, vous doublez sa portée. Enfin, le druide conserve ce trait même s'il adopte une forme sauvage qui n'y a pas normalement accès.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Forme monstrueuse
 
@@ -36,19 +40,25 @@ De plus, vous doublez votre niveau de druide pour déterminer les formes sauvage
 (* Le druide n'obtient aucun équipement lorsqu'il prend cette forme, s'il veut réaliser une attaque avec une arme, il doit se la procurer d'une façon ou d'une autre.)
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Pouvoir des profondeurs
 
 À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir pattes d'araignées pour toute la durée de la transformation. Ce pouvoir vous demande de maintenir votre concentration, toutefois cette concentration ne peut pas être brisée contre votre gré (blessure, provocation, etc.). Si vous décidez volontairement de cesser de vous concentrer, vous devez dépenser une nouvelle forme sauvage pour obtenir de nouveau pattes d'araignées.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Magie des profondeurs
 
 Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois de plus par repos, si vous avez effectué ce repos sous terre. De plus, lorsque vous êtes sous forme sauvage, vous pouvez utiliser une action bonus pour dépenser un emplacement de sort et ajouter 1d6 par niveau du sort aux dégâts d'une attaque que vous venez de porter. Les dégâts de l'attaque sont considérés comme magiques et du même type que l'attaque initiale.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Déplacement souterrain
 
@@ -92,6 +102,6 @@ Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, v
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
+
+
 

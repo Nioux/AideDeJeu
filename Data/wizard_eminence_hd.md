@@ -1,14 +1,16 @@
-[][Items]
+<Items>
 
 # Éminence grise
 
-- Source: (MDR p174)
+- Source: <Source>(MDR p174)</Source>
 
 Certains magiciens sont attirés par le pouvoir terrestre plus que par le pouvoir magique. Ils se rapprochent des puissants et complotent là où les décisions comptent, auprès des chefs de guilde, des princes ou des rois. Certains deviennent les conseillers des têtes couronnées et oeuvrent dans l'ombre, tandis que d'autres sillonnent le monde pour transmettre des informations cruciales en tant que diplomates ou émissaires, parfois autoproclamés. Ce sont des pièces majeures sur le grand échiquier politique et ils sont capables d'éviter une guerre ou de la déclencher. Ils savent être discrets et ne révèlent leur véritable force qu'en de rares occasions, mais dans ces moments là, ils doivent être d'une efficacité absolue, et la magie remplace la lame de l'assassin.
 
 Cela fait d'eux des magiciens parfaitement adaptés aux opérations sous couverture, capables d'oeuvrer dans des régions ou des cultures où la magie est contrôlée voire interdite.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Politicien
 
@@ -18,13 +20,17 @@ Interprète
 
 Toujours au niveau 2, vous apprenez le sort [compréhension des langues]. Vous le lancez sans utiliser d'emplacement, comme s'il s'agissait d'un tour de magie. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Imposture
 
 Au niveau 6, vous apprenez le sort [déguisement], et vous le lancez sans utiliser d'emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer. Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un avantage sur votre premier jet d'attaque contre cette cible. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tour silencieux
 
@@ -32,13 +38,17 @@ Vous préférez éviter l'emploi de la violence pour régler vos affaires. Toute
 
 Au niveau 10, ce bonus passe à 2d6 dégâts et au niveau 14 à 3d6. Les dégâts sont du même type que ceux du sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Historiographe
 
 Au niveau 10, vous obtenez un avantage aux tests d'[Intelligence (Histoire)], lorsqu'ils concernent les lignées royales ou l'histoire des nations.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Influence
 
@@ -46,13 +56,17 @@ Au niveau 10 encore, vous apprenez le sort [apaisement des émotions] et pouvez 
 
 Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Esprit impénétrable
 
 Au niveau 14, vous apprenez le sort [non-détection] et pouvez le lancer sans utiliser d'emplacement. Il est toujours considéré comme préparé et ne compte pas dans le nombre maximum de sorts que vous pouvez préparer.Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Incantation discrète
 
@@ -80,5 +94,5 @@ Vous pouvez lancer vos quatre sorts privilégiés ([compréhension des langues],
 [Sagesse (Perspicacité)]: abilities_wisdom_hd.md#perspicacité
 
 
-[Items]: #
-[Generic]: #
+
+

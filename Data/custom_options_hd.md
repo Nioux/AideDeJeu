@@ -1,16 +1,20 @@
 
-[][Items]
+<Items>
 
 # Options de personnalisation
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Multiclassage](multiclassing_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Dons](feats_hd.md)
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

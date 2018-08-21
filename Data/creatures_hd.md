@@ -1,20 +1,28 @@
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Créatures
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Monstres](monsters_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Animaux](animals_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [PNJ](npc_hd.md)
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

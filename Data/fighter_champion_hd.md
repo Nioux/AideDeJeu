@@ -1,20 +1,24 @@
 
-[][Items]
+<Items>
 
 # Champion
 
 - AltName: Champion (SRD p25)
-- Source: (MDR p162)
+- Source: <Source>(MDR p162)</Source>
 
 Le champion se concentre sur le développement de la force physique brute perfectionnée pour en faire une arme mortelle. Ceux qui adoptent cet archétype associent entraînement rigoureux avec excellence physique afin de porter des coups dévastateurs.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Critique amélioré
 
 Dès que vous choisissez cet archétype au niveau 3, lorsque vous attaquez avec une arme, vous faites un coup critique sur un résultat de 19 ou 20.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Athlète remarquable
 
@@ -22,19 +26,25 @@ Dès que vous choisissez cet archétype au niveau 3, lorsque vous attaquez avec 
 
 De plus, quand vous faites un saut en longueur avec élan, la distance à laquelle vous pouvez sauter est augmentée de 0,30 m × votre modificateur de [Force].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Style de combat supplémentaire
 
 Au niveau 10, vous pouvez choisir un deuxième style de combat.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Critique supérieur
 
 À partir du niveau 15, dès lors que vous attaquez avec une arme, vous faites un coup critique sur un résultat de 18 à 20.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Survivant
 
@@ -48,5 +58,5 @@ Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au d
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

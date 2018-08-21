@@ -1,63 +1,87 @@
-[][Items]
+<Items>
 
 # Classes
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Barbare]
 - AltName: [Barbarian](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Barde]
 - AltName: [Bard](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Clerc]
 - AltName: [Cleric](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Druide]
 - AltName: [Druid](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Ensorceleur]
 - AltName: [Sorcerer](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Guerrier]
 - AltName: [Fighter](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Magicien]
 - AltName: [Wizard](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Moine]
 - AltName: [Monk](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Paladin]
 - AltName: [Paladin](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Rôdeur]
 - AltName: [Ranger](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Roublard]
 - AltName: [Rogue](#)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Sorcier]
 - AltName: [Warlock](#)
@@ -75,5 +99,5 @@
 [Roublard]: rogue_hd.md
 [Sorcier]: warlock_hd.md
 
-[Items]: #
-[LinkItem]: #
+
+

@@ -1,16 +1,18 @@
 
-[][Items]
+<Items>
 
 ## Les objets
 
 - AltName: Objects 
-- Source: (CEO p380)(SRD p203)
+- Source: <Source>(CEO p380)(SRD p203)</Source>
 
 Quand un personnage a besoin de scier une corde, de briser une fenêtre ou de détruire le cercueil d'un vampire, voici la seule règle à suivre : avec assez de temps et des outils adaptés, un personnage peut détruire n'importe quel objet destructible. Faites appel à votre bon sens pour savoir si le personnage réussit à endommager l'objet. Est-ce qu'un guerrier peut faire une brèche dans un mur de pierre avec son épée ? Non, l'épée se cassera probablement avant le mur.
 
 Dans cette section de règle, le terme « objet » renvoie à un élément inanimé distinct, comme une fenêtre, une porte, une épée, un livre, une table, une chaise ou une pierre, pas à un bâtiment ni un véhicule qui se composent, eux, de plusieurs objets.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Les statistiques des objets
 
@@ -26,7 +28,9 @@ Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armu
 
 **Seuil de dégâts.** Les grands objets, comme les murs d'un château, ont souvent une résilience particulière représentée par un seuil de dégâts. Un objet doté d'un seuil de dégâts est immunisé contre tous les dégâts, à moins qu'une unique attaque ou un seul coup ne lui en inflige un montant supérieur ou égal à son seuil de dégâts, auquel cas l'objet subit les dégâts normalement. Des dégâts dont le montant n'égale ni ne dépasse le seuil de dégâts de l'objet sont considérés comme superficiels et ne réduisent pas les points de vie de l'objet.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Classe d'armure des objets
 
@@ -40,7 +44,9 @@ Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armu
 |Mithral|21|
 |Adamantium|23|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Points de vie des objets
 
@@ -51,5 +57,5 @@ Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armu
 |M (tonneau, lustre)|4 (1d8)|18 (4d8)|
 |G (chariot, fenêtre de 3 × 3 m)|5 (1d10)|27 (5d10)|
 
-[Items]: #
-[Generic]: #
+
+

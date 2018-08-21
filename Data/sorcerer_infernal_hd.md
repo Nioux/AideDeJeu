@@ -1,8 +1,8 @@
-[][Items]
+<Items>
 
 # Lignée infernale
 
-- Source: (MDR p158)
+- Source: <Source>(MDR p158)</Source>
 
 Votre magie innée est une résurgence de la magie fiélonne mêlée à votre sang ou à celui de vos ancêtres.
 
@@ -10,7 +10,9 @@ Généralement, les ensorceleurs issus de cette origine peuvent retracer leur as
 
 Bien entendu, les tieffelins eux-mêmes sont particulièrement adaptés à une telle lignée.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Ancêtre fiélon
 
@@ -18,7 +20,9 @@ Vous pouvez parler, lire et écrire en infernal ou en abyssal selon que votre li
 
 De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des fiélons, votre bonus de maîtrise est doublé s'il s'applique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Résistance des fiélons
 
@@ -26,19 +30,25 @@ Au niveau 1, vous obtenez la résistance aux dégâts de poison et un avantage �
 
 En dépensant 1 point de sorcellerie et une action bonus, vous obtenez la résistance au dégâts contondants, perforants et tranchants infligés par des attaques non magiques pendant un nombre de rounds égal à votre bonus de maîtrise.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Magie du sang
 
 À partir du niveau 6, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points de vie et vous gagnez immédiatement 1 point de sorcellerie que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de vie supplémentaires pour chaque point de sorcellerie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux repos courts ou longs.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Résistance supérieure
 
 À mesure que la magie de votre lignée coule dans vos veines, elle fait émerger la résistance des fiélons aux agressions élémentaires. Au niveau 14, en dépensant 1point de sorcellerie et une action bonus, vous obtenez la résistance aux dégâts de feu, de foudre et de froid pendant un nombre de minutes égal à votre bonus de maîtrise.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Forme infernale
 
@@ -57,5 +67,5 @@ La transformation vous coûte un nombre de points de sorcellerie égal à l'indi
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
+
+

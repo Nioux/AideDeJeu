@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Armures
 
 - AltName: Armor (SRD p62)
-- Source: (MDR p223)
+- Source: <Source>(MDR p223)</Source>
 
 Les univers de Héros & Dragons sont une vaste tapisserie réunissant de nombreuses cultures qui ont chacune leur propre niveau de technologie. Pour cette raison, les aventuriers ont accès à un vaste éventail de types d’armure, de l’armure de cuir à la cotte de mailles, et jusqu’à la coûteuse armure de plates, avec de nombreux types intermédiaires. Le tableau des armures réunit les types d’armure les plus courants qui se trouvent dans le jeu et les présente selon trois catégories : armures légères, armures intermédiaires et armures lourdes. De nombreux guerriers utilisent un bouclier en complément de leur armure.
 
@@ -20,41 +20,49 @@ Le tableau des armures indique le prix, le poids et toute autre propriété des 
 
 **Maîtrise des armures.** Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un désavantage pour tous les tests de caractéristique, jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Armures légères
 
 - AltName: Light Armor (SRD p63)
-- Source: (MDR p223)
+- Source: <Source>(MDR p223)</Source>
 
 Les armures légères sont faites de matériaux souples et fins. Elles sont adaptées aux aventuriers agiles dans la mesure où elles offrent une protection sans sacrifier leur mobilité. Si vous portez une armure légère, vous ajoutez votre modificateur de Dextérité à la valeur de base de votre armure pour déterminer votre classe d'armure.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Armures intermédiaires
 
 - AltName: Medium Armor (SRD p63)
-- Source: (MDR p224)
+- Source: <Source>(MDR p224)</Source>
 
 Une armure intermédiaire protège plus qu'une armure légère mais, en contrepartie, elle gène davantage les mouvements. Si vous portez une armure intermédiaire, ajoutez votre modificateur de Dextérité jusqu'à un maximum de +2 à la valeur de base de votre armure afin de déterminer votre classe d'armure.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Armures lourdes
 
 - AltName: Heavy Armor (SRD p63)
-- Source: (MDR p225)
+- Source: <Source>(MDR p225)</Source>
 
 Parmi toutes les catégories d'armures, ce sont les armures lourdes qui offrent la meilleure protection. Ces armures couvrent l'ensemble du corps et sont conçues pour arrêter une large gamme d'attaques. Seuls les guerriers expérimentés arrivent à bien en gérer le poids et l'encombrement.
 
 Les armures lourdes ne vous permettent pas d'ajouter votre modificateur de Dextérité à votre classe d'armure, mais elles ne vous pénalisent pas non plus si votre modificateur de Dextérité est négatif.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Enfiler et retirer une armure
 
 - AltName: Getting Into and Out of Armor (SRD p64)
-- Source: (MDR p225)
+- Source: <Source>(MDR p225)</Source>
 
 Le temps mis pour enfiler ou retirer une armure dépend de sa catégorie.
 
@@ -109,5 +117,5 @@ Enfiler et retirer une armure
 
 
 
-[Items]: #
-[Generic]: #
+
+

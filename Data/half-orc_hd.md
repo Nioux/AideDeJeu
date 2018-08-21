@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Demi-orc
 
 - AltName: Half-Orc (SRD p7)
-- Source: (MDR p41)
+- Source: <Source>(MDR p41)</Source>
 
 ## Traits des demi-orcs
 
@@ -42,5 +42,5 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 [Intimidation]: abilities_charisma_hd.md#intimidation
 
 
-[Items]: #
-[Generic]: #
+
+

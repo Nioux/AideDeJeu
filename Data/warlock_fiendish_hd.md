@@ -1,13 +1,15 @@
-[][Items]
+<Items>
 
 # Le fiélon
 
 - AltName: The Fiend (SRD p50)
-- Source: (MDR p215)
+- Source: <Source>(MDR p215)</Source>
 
 Vous avez passé un pacte avec un fiélon des plans inférieurs, un être qui vit pour faire le mal, même si vous êtes opposé à ses ambitions. De tels êtres désirent la corruption ou la destruction de toutes choses, vous compris. Parmi les fiélons assez puissants pour forger un pacte, on trouve des seigneurs démons comme Orcus ou Baphomet, des archidiables comme Asmodée, Méphistophélès ou Bélial, des diantrefosses et des balors particulièrement puissants, ainsi que des ultroloths et autres seigneurs yugoloths.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Liste de sorts étendue
 
@@ -21,13 +23,17 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 |4|bouclier de feu, mur de feu|
 |5|colonne de flamme, sanctification|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Bénédiction du ténébreux
 
 À partir du niveau 1, quand vous réduisez une créature hostile à 0 point de vie, vous gagnez un nombre de points de vie temporaire égal à votre modificateur de [Charisme] + votre niveau de sorcier (avec un minimum de 1).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Chance du ténébreux
 
@@ -37,13 +43,17 @@ Quand vous faites un test de caractéristiques ou un [jet de sauvegarde], vous p
 
 Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Résistance fiélonne
 
 À partir du niveau 10, vous pouvez choisir un type de dégâts à la fin d'un repos court ou d'un repos long. Vous gagnez une résistance à ce type de dégâts jusqu'à ce que vous utilisiez cette aptitude pour en changer. Cette résistance n'est par contre pas prise en compte si vous subissez des dégâts infligés par des armes magiques ou des armes en argent.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Traversée des Enfers
 
@@ -64,6 +74,6 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre d'avoir term
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

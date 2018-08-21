@@ -14148,4 +14148,4 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 
 [MonstersHD]: #
 [MonsterHD]: #
-[Generic]: #
+

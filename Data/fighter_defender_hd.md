@@ -1,19 +1,23 @@
 
-[][Items]
+<Items>
 
 # Défenseur
 
-- Source: (MDR p163)
+- Source: <Source>(MDR p163)</Source>
 
 Généralement revêtu d'une lourde armure, le défenseur est un spécialiste de la protection, un garde du corps et un guerrier très résistant. Il est capable de gérer les créatures dans une mêlée de façon à ce qu'elles restent à son contact et ne puissent pas atteindre ses alliés. Ce type de guerrier devient rapidement le meilleur ami de tous ses compagnons d'aventure, mais il exige une certaine maîtrise tactique et une coordination de l'ensemble du groupe pour être efficace.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Bloquer un adversaire
 
 À partir du niveau 3, vous pouvez utiliser une réaction pour empêcher un ou plusieurs adversaires au corpsà- corps de se déplacer, dès que l'un d'eux annonce son intention de le faire. Vous pouvez bloquer simultanément un nombre d'adversaires à votre contact égal à votre bonus de maîtrise divisé par deux. Chaque adversaire doit faire un [jet de sauvegarde] de [Force] (DD = 8 + votre bonus de maîtrise + votre modificateur de [Force]) ou être obligé de rester à moins de 1,50 mètre de vous jusqu'à votre prochain tour tant que vous ne vous déplacez pas.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Garde du corps
 
@@ -21,19 +25,25 @@ Au niveau 7, lorsqu'une créature attaque un allié situé à moins de 1,50 mèt
 
 Cette aptitude fonctionne pour tout type d'attaque qui nécessite un jet d'attaque (au corps-à-corps, à distance ou par sort). Vous devez annoncer votre intention avant que le résultat de l'attaque soit connu. Si l'attaque vous inflige des dégâts, vous obtenez la résistance à ces dégâts.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Posture défensive
 
 Même lorsque vous adoptez une attitude défensive, vous restez dangereux. Également au niveau 7, lorsque vous utilisez l'action esquiver, vous pouvez faire une attaque au corps-à-corps en action bonus.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Style de combat supplémentaire
 
 Au niveau 10, vous pouvez choisir un deuxième style de combat parmi défense ou protection. De plus, vos réflexes incroyables vous permettent d'utiliser une de vos aptitudes parmi bloquer un adversaire et garde du corps au moment de votre choix dans le round, sans utiliser de réaction. Vous pouvez normalement utiliser votre réaction pour tout autre usage légal au même round, cela vous permet éventuellement une seconde utilisation d'une de ces aptitudes.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tête de fer
 
@@ -41,7 +51,9 @@ Au niveau 10, vous pouvez choisir un deuxième style de combat parmi défense ou
 
 Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez désormais dépenser une action bonus pour imposer un désavantage au [jet de sauvegarde] de l'un de vos adversaires.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Résistance surhumaine
 
@@ -59,5 +71,5 @@ Enfin, lorsque vous utilisez l'aptitude bloquer un adversaire, vous pouvez déso
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
+
+

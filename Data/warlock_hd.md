@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Sorcier
 
 - AltName: Warlock (SRD p46)
-- Source: (MDR p209)
+- Source: <Source>(MDR p209)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -37,7 +39,9 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -65,13 +69,17 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 |20|+6|[Maître de l'occulte]|4|15|4|5|8|
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Protecteur de l'outre-monde
 
 Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un fiélon, un seigneur immortel, une puissance des profondeurs ou une entité extra-dimensionnelle. Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Magie de pacte
 
@@ -113,7 +121,9 @@ Modificateur d'attaque de sort = votre bonus de maîtrise + votre modificateur d
 
 Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour vos sorts de sorcier.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Invocations occultes
 
@@ -125,17 +135,23 @@ Une fois que vous atteignez certains niveaux de sorcier, vous pouvez apprendre d
 
 De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une invocation que vous connaissez et la remplacer par une autre que vous pouvez apprendre à ce niveau.
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 # [Pacte](warlock_pact_hd.md)
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Arcanum mystique
 
@@ -145,17 +161,23 @@ Vous pouvez lancer votre sort d'arcanum une fois sans utiliser d'emplacement de 
 
 Au fil de votre progression, vous obtenez de nouveaux sorts de sorciers de votre choix que vous pouvez lancer ainsi : un sort de niveau 7 quand vous atteignez le niveau 13, un sort de niveau 8 quand vous atteignez le niveau 15 et un sort de niveau 9 quand vous atteignez le niveau 17. Il vous suffit d'un repos long pour regagner la possibilité d'utiliser tous vos sorts d'arcanum.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Maître de l'occulte
 
 Au niveau 20, vous pouvez puiser dans vos réserves d'énergie mystique et demander à votre protecteur de regagner vos emplacements de sorts utilisés. Vous passez 1 minute à demander l'aide de votre protecteur pour qu'il vous fasse regagner tous les emplacements de sorts liés à votre aptitude magie de pacte. Dès que vous avez utilisé cette aptitude pour regagner vos emplacements de sorts, vous devrez attendre d'avoir terminé un repos long avant de pouvoir de nouveau faire appel à votre protecteur de la sorte.
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 # [Invocations occultes](warlock_occultsummons_hd.md)
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Protecteurs d'outre-monde
 
@@ -174,7 +196,9 @@ Des sorciers qui servent un même protecteur peuvent se voir comme des alliés, 
 ## [L'entité extra-dimensionnelle]
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Votre pacte
 
@@ -224,6 +248,6 @@ Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, no
 
 
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

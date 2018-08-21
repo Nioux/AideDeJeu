@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # États spéciaux
 
 - AltName: [Conditions](conditions_vo.md#conditions)
-- Source: (MDR p299)
+- Source: <Source>(MDR p299)</Source>
 
 Les états modifient les capacités d'une créature de diverses manières et résultent d'un sort, d'une aptitude de classe, d'une attaque de monstre ou d'un autre effet. La plupart des états ont un effet négatif, comme lorsque vous êtes [aveuglé](conditions_hd.md#aveuglé), mais quelques-uns confèrent un bénéfice, comme d'être [invisible](conditions_hd.md#invisible).
 
@@ -15,7 +15,9 @@ Si divers effets imposent un même état à une créature, chaque effet a sa pro
 Les définitions suivantes expliquent les conséquences de chaque état spécial pour une créature ciblée.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # À terre
 
@@ -28,7 +30,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un avantage lors de ses attaques contre la créature. Sinon, il subit un désavantage.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Assourdi
 
@@ -37,7 +41,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aveuglé
 
@@ -48,7 +54,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque contre la créature bénéficient d'un avantage. Les attaques de la créature subissent un désavantage.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Charmé
 
@@ -59,7 +67,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'individu qui a charmé la créature bénéficie d'un avantage pour toutes les interactions sociales avec celle-ci.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Empoigné
 
@@ -72,7 +82,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'état se termine également si un effet emporte la créature empoignée au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort [vague tonnante](spells_hd.md#vague-tonnante).
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Empoisonné
 
@@ -81,7 +93,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses tests de caractéristique.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Entravé
 
@@ -94,7 +108,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature souffre d'un désavantage lors de ses [jets de sauvegarde] de [Dextérité].
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Étourdi
 
@@ -107,7 +123,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque qui visent la créature se font avec un avantage.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Inconscient
 
@@ -126,7 +144,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Invisible
 
@@ -137,7 +157,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les attaques visant une créature invisible souffrent d'un désavantage tandis que les attaques de la créature bénéficient d'un avantage.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Neutralisé
 
@@ -146,7 +168,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Une créature neutralisée est incapable d'effectuer une action ou une réaction.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Paralysé
 
@@ -161,7 +185,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Pétrifié
 
@@ -180,7 +206,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est immunisée contre le poison et les maladies, mais les poisons et maladies qui l'affectent déjà ne sont pas neutralisés, leurs effets sont juste suspendus.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Terrorisé
 
@@ -191,7 +219,9 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est incapable de se rapprocher de la source de sa frayeur de son plein gré.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Fatigue et épuisement
 
@@ -227,5 +257,5 @@ Une fois terminé, un repos long réduit le niveau d'épuisement d'une créature
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
-[Items]: #
-[Generic]: #
+
+

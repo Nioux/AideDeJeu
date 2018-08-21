@@ -1,9 +1,9 @@
 
-[][Items]
+<Items>
 
 # Félys
 
-- Source: (MDR p64)
+- Source: <Source>(MDR p64)</Source>
 
 ## Traits des félys
 
@@ -51,5 +51,5 @@ Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacit
 [Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
-[Items]: #
-[Generic]: #
+
+

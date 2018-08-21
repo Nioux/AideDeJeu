@@ -1,9 +1,9 @@
 
-[][Items]
+<Items>
 
 # Homme serpent
 
-- Source: (MDR p66)
+- Source: <Source>(MDR p66)</Source>
 
 ## Traits des hommes serpents
 
@@ -43,5 +43,5 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 [Intelligence (Investigation)]: abilities_intelligence_hd.md#investigation
 
 
-[Items]: #
-[Generic]: #
+
+

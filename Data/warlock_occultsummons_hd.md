@@ -1,19 +1,23 @@
-[][Items]
+<Items>
 
 # Invocations occultes
 
 - AltName: Eldritch Invocations (SRD p48)
-- Source: (MDR p213)
+- Source: <Source>(MDR p213)</Source>
 
 Si une invocation occulte a des prérequis, vous ne pouvez pas apprendre cette invocation tant que vous ne remplissez pas les conditions adéquates. Dès que c'est le cas, vous êtes en mesure d'apprendre l'invocation en question. Si une des conditions est un niveau, il s'agit du niveau que vous possédez dans la classe de sorcier.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Armure des ombres
 
 Vous pouvez lancer le sort armure de mage sur vousmême à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Buveuse de vie
 
@@ -21,7 +25,9 @@ Prérequis : niveau 12, pacte de la lame
 
 Quand vous frappez une créature avec votre arme de pacte, votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de [Charisme] (avec un minimum de 1).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Chaînes de Carcères
 
@@ -29,7 +35,9 @@ Prérequis : niveau 15, pacte de la chaîne
 
 Vous pouvez lancer le sort immobiliser un monstre à volonté sans utiliser d'emplacement de sort ni de composante matérielle quand votre cible est un céleste, un fiélon ou un élémentaire. Néanmoins, vous devez terminer un repos long avant de pouvoir utiliser cette invocation une seconde fois sur une créature donnée.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Explosion insoutenable
 
@@ -37,7 +45,9 @@ Prérequis : tour de magie explosion occulte
 
 Quand vous lancez explosion occulte, ajoutez votre modificateur de [Charisme] aux dégâts causés par le sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Lame assoiffée
 
@@ -45,13 +55,17 @@ Prérequis : niveau 5, pacte de la lame
 
 À chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Langage animal
 
 Vous pouvez lancer le sort communication avec les animaux à volonté, sans utiliser d'emplacement de sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Lance occulte
 
@@ -59,7 +73,9 @@ Prérequis : tour de magie explosion occulte
 
 Quand vous lancez le sort explosion occulte, sa portée est de 90 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Lenteur de l'esprit
 
@@ -67,7 +83,9 @@ Prérequis : niveau 5
 
 Vous pouvez lancer lenteur en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation une nouvelle fois.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Maître des mille formes
 
@@ -75,7 +93,9 @@ Prérequis : niveau 15
 
 Vous pouvez lancer le sort modifier son apparence à volonté, sans utiliser d'emplacement de sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Maître des ombres
 
@@ -83,13 +103,17 @@ Prérequis : niveau 5
 
 Quand vous êtes dans une zone de lumière faible ou de ténèbres, vous pouvez utiliser une action pour devenir invisible et le rester tant que vous ne bougez pas et ne faites ni action ni réaction.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Masque des mille visages
 
 Vous pouvez lancer déguisement à volonté, sans utiliser d'emplacement de sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Mauvais présage
 
@@ -97,7 +121,9 @@ Prérequis : niveau 5
 
 Vous pouvez lancer jeter une malédiction en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation une nouvelle fois.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Mot d'effroi
 
@@ -105,7 +131,9 @@ Prérequis : niveau 7
 
 Vous pouvez lancer confusion en utilisant un emplacement de sort de sorcier. Vous devez finir un repos long avant de pouvoir utiliser cette invocation de nouveau.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Murmures d'outre-tombe
 
@@ -113,7 +141,9 @@ Prérequis : niveau 9
 
 Vous pouvez lancer communication avec les morts à volonté, sans utiliser d'emplacement de sorts.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Murmures ensorcelants
 
@@ -121,13 +151,17 @@ Prérequis : niveau 7
 
 Vous pouvez lancer le sort compulsion en utilisant un emplacement de sort de sorcier. Vous ne pouvez réutiliser cette invocation qu'après avoir terminé un repos long.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## OEil du gardien des runes
 
 Vous pouvez lire toutes les formes d'écriture.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Onde de choc
 
@@ -135,7 +169,9 @@ Prérequis : tour de magie explosion occulte
 
 Quand vous touchez une créature avec explosion occulte, vous pouvez utiliser cette invocation pour que le souffle de l'explosion l'éloigne de 3 mètres de vous en ligne droite.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Pas aérien
 
@@ -143,13 +179,17 @@ Prérequis : niveau 9
 
 Vous pouvez lancer le sort lévitation sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Regard de deux esprits
 
 Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utiliser ses sens pour percevoir le monde jusqu'à la fin de votre prochain tour. Tant que cette créature est sur le même plan d'existence que vous, vous pouvez utiliser votre action lors des tours suivants pour maintenir cette connexion et étendre sa durée jusqu'à la fin de votre prochain tour. Tant que vous voyez par les yeux de l'autre créature, vous bénéficiez de tous ses sens spéciaux si elle en a et vous êtes aveugle et sourd à ce qui se passe autour de votre propre corps.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Saut d'outre-monde
 
@@ -157,7 +197,9 @@ Prérequis : niveau 9
 
 Vous pouvez lancer saut sur vous-même à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sbires du chaos
 
@@ -165,7 +207,9 @@ Prérequis : niveau 9
 
 Vous pouvez lancer invoquer un élémentaire en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sculpteur de chair
 
@@ -173,13 +217,17 @@ Prérequis : niveau 7
 
 Vous pouvez lancer métamorphose en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Séduction
 
 Vous gagnez la maîtrise des compétences [Persuasion] et [Supercherie].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Livre des secrets anciens
 
@@ -189,19 +237,25 @@ Vous pouvez maintenant inscrire des rituels magiques dans votre livre des ombres
 
 Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre des ombres. Quand vous trouvez un tel sort, vous pouvez l'ajouter à votre livre si le niveau du sort est inférieur ou égal à la moitié de votre niveau de sorcier (arrondi à l'entier supérieur) et si vous avez le temps de le transcrire. Pour chaque niveau de sort, le processus de transcription prend 2 heures et coûte 50 po (correspondant aux encres rares nécessaires pour écrire le sort).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vigueur fiélonne
 
 Vous pouvez lancer simulacre de vie sur vous-même à volonté et en tant que sort de niveau 1 sans utiliser d'emplacement de sort de ou de composante matérielle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vision du diable
 
 Vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vision de sorcier
 
@@ -209,19 +263,25 @@ Prérequis : niveau 15
 
 Vous pouvez voir la véritable forme de n'importe quel métamorphe ou créature dont l'apparence a été modifiée par une illusion ou un sort de magie de transmutation si cette créature se trouve dans un rayon de 9 mètres autour de vous et dans votre champ de vision.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vision occulte
 
 Vous pouvez lancer détection de la magie à volonté, sans utiliser d'emplacement de sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Visions embrumées
 
 Vous pouvez lancer image silencieuse à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Visions de royaumes lointains
 
@@ -229,7 +289,9 @@ Prérequis : niveau 15
 
 Vous pouvez lancer oeil magique à volonté, sans utiliser d'emplacement de sort.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Voix du maître des chaînes
 
@@ -237,7 +299,9 @@ Prérequis : pacte de la chaîne
 
 Vous pouvez communiquer par la pensée avec votre familier et percevoir le monde par le biais de ses sens tant que vous êtes sur le même plan d'existence. De plus, tant que vous percevez le monde par l'intermédiaire de votre familier, vous pouvez aussi l'utiliser comme médium pour parler tout en conservant votre propre voix, même si votre familier n'est normalement pas capable de parler.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Voleur des cinq destinées
 
@@ -255,6 +319,6 @@ Vous pouvez lancer fléau en utilisant un emplacement de sort de sorcier. Vous d
 [Supercherie]: abilities_charisma_hd.md#supercherie
 
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

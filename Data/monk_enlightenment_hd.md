@@ -1,12 +1,14 @@
-[][Items]
+<Items>
 
 # Voie de l'illumination
 
-- Source: (MDR p180)
+- Source: <Source>(MDR p180)</Source>
 
 Les moines qui choisissent la voie de l'illumination sont des religieux et des philosophes qui passent de longues heures en contemplation, en méditation et en prière. Ils ne prient aucun dieu en particulier et tous à la fois, ils vouent un culte à l'ordre universel, à l'équilibre et à la perfection. Les exercices corporels et les techniques de combat à mains nues ne sont qu'une extension de cette philosophie qui vise à intégrer le pratiquant à l'équilibre universel par la perfection de l'être, corps et esprit ne faisant qu'un. Les moines de la voie de l'illumination développent de nombreux pouvoirs spirituels.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Prières
 
@@ -16,7 +18,9 @@ Chaque matin après un repos long, vous préparez les sorts de clerc que vous po
 
 Il vous faut 10 minutes de méditation par sort que vous préparez et vous pouvez préparer un nombre de sorts égal à votre bonus de maîtrise + votre modificateur de [Sagesse].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Magie universelle
 
@@ -38,5 +42,5 @@ Vous devenez capable de les lancer comme s'il s'agissait de sorts de clerc et il
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

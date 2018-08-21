@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Demi-elfe
 
 - AltName: Half-Elf (SRD p6)
-- Source: (MDR p39)
+- Source: <Source>(MDR p39)</Source>
 
 ## Traits des demi-elfes
 
@@ -42,5 +42,5 @@ Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui s
 [elfe]: elf_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

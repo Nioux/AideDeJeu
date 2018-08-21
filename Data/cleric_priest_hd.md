@@ -1,8 +1,8 @@
-[][Items]
+<Items>
 
 # Prêtre
 
-- Source: (MDR p132)
+- Source: <Source>(MDR p132)</Source>
 
 Le prêtre est un clerc qui prie une seule divinité et se met à son service corps et âme. Il n'a pas obligatoirement fait des études religieuses, mais il a été touché par la grâce divine en raison de sa foi et de sa valeur morale.
 
@@ -10,7 +10,9 @@ C'est un élu qu'un dieu ou une déesse a choisi pour répandre sa parole sacré
 
 Certains remplissent cette mission à travers le développement de l'institution religieuse, tandis que d'autres mènent une vie d'aventurier à l'extérieur des murs des temples en quête d'exploits et d'ennemis de la foi.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Enseignement religieux
 
@@ -20,7 +22,9 @@ Enseignement théorique. Vous développez une compétence en accord avec les pri
 
 Enseignement martial. Cette variante est adaptée à un dieu de la guerre, du métal, de la force, de la justice ou de la noblesse, par exemple. Vous gagnez au choix la maîtrise des armes martiales ou des armures lourdes. Si votre divinité ne vous donne accès qu'à un seul domaine, vous gagnez la maîtrise à la fois des armes martiales et des armures lourdes. En revanche vous ne bénéficiez pas de canalisation d'énergie divine supplémentaire aux niveaux 4 et 8 (voir ci-après).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de domaine
 
@@ -30,13 +34,17 @@ Si votre divinité ne vous accorde qu'un seul domaine, vous obtenez en échange 
 
 Vous pouvez donc utiliser votre canalisation d'énergie divine cinq fois lorsque vous atteignez le niveau 18.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Aptitude de domaine
 
 Dès le niveau 2, vous obtenez une canalisation d'énergie divine qui dépend de votre domaine. Si votre divinité vous donne accès à deux domaines, vous devez choisir l'une ou l'autre des aptitudes et ce choix est définitif. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Liste des domaines
 
@@ -50,7 +58,9 @@ Air
 |7|[forme gazeuse]|
 |9|[invoquer un élémentaire] (Air)|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Asphyxie
 
@@ -66,7 +76,9 @@ Arts
 |7|[façonnage de la pierre]|
 |9|[apparence trompeuse]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Inspiration divine
 
@@ -82,7 +94,9 @@ Charme, amour
 |7|[confusion]|
 |9|[modification de mémoire]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Splendeur céleste
 
@@ -98,7 +112,9 @@ Connaissance
 |7|[divination]|
 |9|[contacter un autre plan]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : nom secret
 
@@ -114,7 +130,9 @@ Duperie, illusion
 |7|[confusion]|
 |9|[tromperie]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Dédoublement
 
@@ -132,7 +150,9 @@ Eau
 |7|[contrôle de l'eau]|
 |9|[invoquer un élémentaire] (eau)|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Forme liquide
 
@@ -148,7 +168,9 @@ Feu
 |7|[mur de feu]|
 |9|[invoquer un élémentaire] (Feu)|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Armes enflammées
 
@@ -164,7 +186,9 @@ Force, Exploits, Courage
 |7|[nimbe de bienfaisance]|
 |9|[aura de force]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Puissance divine
 
@@ -182,7 +206,9 @@ Froid
 |7|[tempête de grêle]|
 |9|[cône de froid]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Cercueil de glace
 
@@ -198,7 +224,9 @@ Guerre
 |7|[bénédiction héroïque]|
 |9|[peau de pierre]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Transe guerrière
 
@@ -214,7 +242,9 @@ Justice, noblesse
 |7|[lance du juste]|
 |9|[expiation du juste]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Jugement de dieu
 
@@ -230,7 +260,9 @@ Lumière
 |8|[nimbe de bienfaisance]|
 |11|[rayon de soleil]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Explosion de lumière
 
@@ -246,7 +278,9 @@ Magie
 |7|[contresort]|
 |9|[fabrication]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Magie profane
 
@@ -262,7 +296,9 @@ Maladie, Faiblesse
 |7|[flétrissement]|
 |9|[contagion]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Arme infectée
 
@@ -278,7 +314,9 @@ Mort
 |7|[protection contre la mort]|
 |9|[nuage mortel]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Connexion mortelle
 
@@ -296,7 +334,9 @@ Nature
 |7|[terrain hallucinatoire]|
 |9|[communion avec la nature]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Légion des bêtes
 
@@ -312,7 +352,9 @@ Nuit, Ténèbres
 |7|[invisibilité supérieure]|
 |9|[rêve]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Vision des ténèbres
 
@@ -328,7 +370,9 @@ Protection
 |7|[chien de garde]|
 |9|[coquille antivie]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Résistance
 
@@ -344,7 +388,9 @@ Temps
 |7|[porte dimensionnelle]|
 |9|[immobiliser un monstre]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Repli du temps
 
@@ -360,7 +406,9 @@ Terre
 |7|[peau de pierre]|
 |9|[invoquer un élémentaire] (Terre)|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Enfouissement 
 
@@ -376,7 +424,9 @@ Tonnerre, tempête
 |8|[tempête de grêle]|
 |11|[chaîne d'éclairs]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Sous tension
 
@@ -392,7 +442,9 @@ Vie, soins
 |7|[panacée]|
 |9|[restauration supérieure]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Salve de guérison
 
@@ -408,25 +460,33 @@ Voyage
 |7|[porte dimensionnelle]|
 |9|[passage par les arbres]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Marche des brumes
 
 Vous pouvez lancer le sort pas brumeux en dépensant au choix une action bonus ou une réaction (et sans utiliser d'emplacement de sort) une fois par tour pendant un nombre de rounds égal à votre bonus de maîtrise.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Sort de domaine
 
 Au niveau 6, vous pouvez lancer un sort de domaine en utilisant votre aptitude de canalisation d'énergie divine sans dépenser d'emplacement de sort. Lorsque vous lancez le sort de cette façon, s'il nécessite normalement une action pour être lancé, vous pouvez le lancer au prix d'une action bonus.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine : Aptitude de domaine
 
 Au niveau 8, vous obtenez la canalisation d'énergie divine qui dépend de votre second domaine, celui que vous n'avez pas choisie au niveau 2. Quel que soit le domaine, vous devez utiliser une action pour déclencher cette aptitude. Bien que les effets des canalisations d'énergie divine ne comptent par comme une concentration, vous ne pouvez pas bénéficier des effets des deux aptitudes de domaine à la fois.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Aspect de l'avatar
 
@@ -568,5 +628,5 @@ Accueillir dans le corps d'un simple mortel ne serait-ce qu'une infime partie de
 
 
 
-[Items]: #
-[Generic]: #
+
+

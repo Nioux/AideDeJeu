@@ -1,20 +1,26 @@
 
-[][Items]
+<Items>
 
 # Gérer la santé
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Dégâts et guérison](damage_healing_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [États spéciaux](conditions_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Repos](resting_hd.md)
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Déplacement
 
 - AltName: Movement (SRD p84)
-- Source: (MDR p270)
+- Source: <Source>(MDR p270)</Source>
 
 Ramper dans l’ombre de la nuit, le long d’un campement ennemi, marcher à pas de loup dans la salle du trône après un banquet où les convives sont endormies sur la grande table, escalader la tour d’un château construite en pierres de taille… Les déplacements constituent un élément essentiel de l’aventure dans Héros & Dragons.
 
@@ -12,7 +12,9 @@ Le MJ peut tout à fait choisir de faire simple pour décrire les déplacements 
 
 Cela dit, selon les scénarios, il est parfois vital de connaître exactement le temps nécessaire pour aller d’un point à un autre, que ce soit en jours, en heures ou en minutes. La règle qui permet de déterminer ce temps de trajet dépend de deux facteurs : la vitesse et le rythme de déplacement des créatures, et le type terrain parcouru.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Vitesse
 
@@ -20,13 +22,17 @@ Chaque personnage ou monstre est caractérisé par une vitesse qui correspond à
 
 Les règles suivantes permettent de déterminer la distance que peut parcourir un personnage ou un monstre en une minute, une heure ou une journée.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Rythme de déplacement
 
 Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voyage : normal, rapide ou lent, comme vous pouvez le voir dans le tableau rythmes de déplacement. Ce tableau indique quelle distance le groupe parcourt en un temps donné et si ce rythme implique un effet. Une marche rapide implique que les personnages sont moins attentifs à ce qui les entoure, tandis qu’une marche lente leur permet de se déplacer plus furtivement et d’étudier un endroit avec plus d’attention.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Marche forcée
 
@@ -34,7 +40,9 @@ Les chiffres indiqués dans le tableau partent du principe que les personnages m
 
 Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de base, les personnages couvrent la distance parcourue dans la colonne « heure » du tableau correspondant à leur rythme de déplacement, mais chacun d'entre eux doit faire un jet de sauvegarde de Constitution à la fin de l'heure. Le DD de ce jet est de 10 + 1 pour chaque heure passée à marcher au-delà des 8 heures. Si un personnage rate un jet de sauvegarde, il gagne un niveau d'épuisement (voir chapitre 10, Gérer la santé).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Montures et véhicules
 
@@ -44,7 +52,9 @@ Les personnages qui voyagent en chariot, en calèche ou grâce à un autre véhi
 
 Certaines montures spéciales, comme un pégase ou un griffon, ou un véhicule spécial comme un tapis volant, vous permettent de voyager plus vite.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Terrain difficile
 
@@ -52,25 +62,33 @@ La distance parcourue donnée dans le tableau des rythmes de déplacement a ét�
 
 Sur un terrain difficile, vous vous déplacez à la moitié de votre vitesse (parcourir un mètre vous coûte deux mètres de vitesse), donc vous ne pouvez parcourir que la moitié de la distance normale en une minute, une heure ou un jour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Types de mouvement spéciaux
 
 Dans des souterrains où le danger rôde à chaque pas, en pleine montagne ou en territoire ennemi, la plupart du temps, les aventuriers ne se contentent pas de marcher tranquillement. Ils doivent escalader, ramper, nager ou sauter pour atteindre leur destination.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Escalader, nager et ramper
 
 Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mètre supplémentaire (et 2 mètres s’il s’agit d’un terrain difficile), sauf si vous possédez une vitesse d’escalade ou de nage. Le MJ peut choisir, quand vous tentez d’escalader une surface verticale et glissante, ou qui ne présente que peu de prises, de vous faire faire un test de [Force (Athlétisme)]. De la même manière, si vous devez vous déplacer dans des eaux agitées, vous aurez peut-être à effectuer un [test de Force] ([Athlétisme]).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Sauter
 
 Votre Force détermine la longueur que vous pouvez parcourir en sautant.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Saut en longueur
 
@@ -80,7 +98,9 @@ Cette règle part du principe que la hauteur de votre saut n’a pas d’importa
 
 Quand vous vous trouvez sur un terrain difficile, vous devez réussir un test de [Dextérité (Acrobaties)] pour retomber sur vos pieds. Sinon, vous tombez à terre.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Saut en hauteur
 
@@ -97,5 +117,5 @@ Vous pouvez tendre les bras au-dessus de vous jusqu’à la moitié de votre pro
 [Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
 
 
-[Items]: #
-[Generic]: #
+
+

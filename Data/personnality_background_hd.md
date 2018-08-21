@@ -1,24 +1,32 @@
 
-[][Items]
+<Items>
 
 # Personnalité et Historique
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Alignement](alignment_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Langues](languages_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Inspiration](inspiration_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Historique](backgrounds_hd.md)
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

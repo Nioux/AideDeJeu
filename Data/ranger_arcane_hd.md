@@ -1,12 +1,14 @@
-[][Items]
+<Items>
 
 # Archer arcanique
 
-- Source: (MDR p198)
+- Source: <Source>(MDR p198)</Source>
 
 L'archer arcanique est un rôdeur capable de canaliser sa magie pour enchanter ses flèches de façon à les rendre plus létales ou à leur permettre d'atteindre des cibles hors de portée pour tout autre que lui.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Flèche arcanique
 
@@ -14,7 +16,9 @@ Dès le niveau 3, vous devenez capable d'enchanter votre flèche afin d'amélior
 
 La flèche est considérée comme magique en ce qui concerne la résistance aux dégâts des créatures.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Flèche infaillible
 
@@ -22,13 +26,17 @@ La flèche est considérée comme magique en ce qui concerne la résistance aux 
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, puis vous devez terminer un repos long pour récupérer cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Flèche intangible
 
 À partir du niveau 11, cette aptitude remplace et annule flèche infaillible. Cette fois, la flèche devient intangible pour passer à travers les obstacles (murs, créatures) et vous pouvez cibler une créature que vous avez vue depuis moins de 12 heures. Les barrières magiques comme un mur de force bloquent la flèche. Votre attaque est un succès automatique et inflige ses dégâts habituels.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Flèche tueuse
 
@@ -47,5 +55,5 @@ La flèche tueuse possède les propriétés d'une flèche ordinaire non magique 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
+
+

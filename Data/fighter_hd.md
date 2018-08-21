@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Guerrier
 
 - AltName: Fighter (SRD p24)
-- Source: (MDR p160)
+- Source: <Source>(MDR p160)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -37,7 +39,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -66,7 +70,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Style de combat
 
@@ -92,19 +98,25 @@ Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Duel
 
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Protection
 
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Second souffle
 
@@ -112,7 +124,9 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Sursaut d'activité
 
@@ -120,19 +134,25 @@ Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court 
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Archétype martial
 
 Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des archétypes martiaux disponibles : champion, bretteur, défenseur et sorcelame. En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Attaque supplémentaire
 
@@ -140,7 +160,9 @@ Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmente
 
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Indomptable
 
@@ -148,7 +170,9 @@ Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez 
 
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Archétypes martiaux
 
@@ -201,5 +225,5 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 [Survie]: abilities_wisdom_hd.md#survie
 
 
-[Items]: #
-[Generic]: #
+
+

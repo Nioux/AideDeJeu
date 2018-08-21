@@ -1,12 +1,14 @@
-[][Items]
+<Items>
 
 # Cercle des saisons
 
-- Source: (MDR p147)
+- Source: <Source>(MDR p147)</Source>
 
 Les druides du cercle des saisons sont le plus souvent des solitaires et des contemplatifs, ils égrènent les jours, observent le ciel et les étoiles et veillent au bon déroulement du cycle naturel des saisons. Ils dressent des alignements de pierres pour déterminer précisément les dates des solstices et des équinoxes grâce à la conjonction des astres. Lors de ces jours sacrés, ils se réunissent avec leurs pairs et organisent des cérémonies avec les populations locales. Les druides du cercle des saisons ne sont pas liés à une région précise, et on trouve parmi eux de nombreux voyageurs qui errent dans les terres sauvages pour les préserver et pour contempler les beautés de la nature dans de nouveaux lieux à chaque nouvelle saison.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Vigueur du printemps
 
@@ -18,7 +20,9 @@ De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un n
 
 Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tour de magie bonus
 
@@ -29,14 +33,18 @@ Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
 * Automne : résistance
 * Hiver : rayon de givre
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de saison
 
 Votre connexion mystique avec les saisons vous permet de lancer certains sorts en rapport avec la saison actuelle. Du niveau 2 au niveau 9, vous obtenez accès à des sorts particuliers selon la saison. La liste de sorts à laquelle vous avez accès change durant une cérémonie d'1 heure que vous devez effectuer aux solstices ou aux équinoxes. Tant que vous n'effectuez pas cette cérémonie, vous ne gagnez pas accès aux sorts de la nouvelle saison, mais vous perdez malgré tout l'accès à ceux de la saison passée. Vous en obtenez l'accès dès que la cérémonie est réalisée. Ces sorts sont toujours préparés et ils ne comptent pas dans le nombre maximum de sorts que vous pouvez préparer. Si vous apprenez un sort qui n'apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Printemps
 
@@ -51,7 +59,9 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 |8|liane chasseresse|
 |9|réincarnation|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Été
 
@@ -66,7 +76,9 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 |8|mur de feu|
 |9|fléau d'insectes|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Automne
 
@@ -81,7 +93,9 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 |8|peau de pierre|
 |9|passage par les arbres|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Hiver
 
@@ -96,19 +110,25 @@ Votre connexion mystique avec les saisons vous permet de lancer certains sorts e
 |8|flétrissement|
 |9|coquille antivie|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Migration d'été
 
 L'été est la période des voyages et des grandes migrations pour les animaux. Au niveau 6, vous augmentez votre vitesse de déplacement de 3 mètres. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Refuge d'automne
 
 Après un été confortable, vous vous préparez déjà aux rigueurs à venir en renforçant votre corps et en le préparant au plus dur. Au niveau 10, vous devenez compétent pour les [jets de sauvegarde] de [Constitution]. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Prédateur de l'hiver
 
@@ -116,7 +136,9 @@ L'hiver, la lutte pour la survie est âpre et vous devez vous adapter pour rési
 
 Vous pouvez prendre la forme d'une bête dont l'indice de dangerosité peut aller jusqu'à 2. De plus, lorsque vous êtes sous forme sauvage, vous obtenez la résistance au feu et au froid. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Jeunesse éternelle
 
@@ -142,5 +164,5 @@ Cette aptitude remplace et annule l'aptitude du même nom obtenue par les druide
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 
-[Items]: #
-[Generic]: #
+
+

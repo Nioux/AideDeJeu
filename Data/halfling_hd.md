@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Halfelin
 
 - AltName: Halfling (SRD p4)
-- Source: (MDR p52)
+- Source: <Source>(MDR p52)</Source>
 
 ## Traits des halfelins
 
@@ -28,12 +28,14 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Halfelin pied-léger
 
 - AltName: Lightfoot (SRD p5)
-- Source: (MDR p52)
+- Source: <Source>(MDR p52)</Source>
 
 En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.
 
@@ -41,11 +43,13 @@ En tant que halfelin pied-léger, vous cacher est presque une seconde nature et 
 
 **Discrétion naturelle.** Vous pouvez tenter de vous cacher même quand vous êtes seulement dissimulé par une créature qui fait une taille de plus que vous.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Halfelin grand-sabot
 
-- Source: (MDR p52)
+- Source: <Source>(MDR p52)</Source>
 
 En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu crédule. Grâce à votre vie de labeur, vous êtes résistant et très manuel.
 
@@ -69,5 +73,5 @@ En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu cr
 [Sagesse (Perspicacité)]: abilities_wisdom_hd.md#perspicacité
 
 
-[Items]: #
-[Generic]: #
+
+

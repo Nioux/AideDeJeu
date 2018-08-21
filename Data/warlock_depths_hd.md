@@ -1,8 +1,8 @@
-[][Items]
+<Items>
 
 # La puissance des profondeurs
 
-- Source: (MDR p216)
+- Source: <Source>(MDR p216)</Source>
 
 Votre protecteur est une entité du dessous, des entrailles profondes de la terre, des abîmes insondables ou des profondeurs aquatiques. Il déteste la lumière et l'air libre et affectionne au contraire les pressions insupportables pour l'être humain et l'obscurité totale. Ses serviteurs n'ont pas forme humaine, ils rampent et creusent, ce sont les vers, les insectes rampants et les poissons aveugles.
 
@@ -10,7 +10,9 @@ L'entité des profondeurs est endormie depuis des millénaires.
 
 Vous lui soutirez des secrets et votre pouvoir dans ses rêves, à son insu. Attention toutefois à ne pas trop la solliciter, vos intrusions répétées dans ses songes pourraient finir par attirer son attention. Si son oeil intérieur s'ouvre sur le monde, celui-ci pourrait connaître une période de cataclysmes, de séismes et de destructions. Et s'il prend conscience de vos menus larcins, votre sort pourrait être pire que la mort. Pour l'éternité.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Liste de sorts étendue
 
@@ -24,7 +26,9 @@ La puissance des profondeurs vous permet de choisir des sorts dans une liste de 
 |4|[liane chasseresse], [insecte géant]|
 |5|[fléau d'insectes], [passe-muraille]|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Adepte des profondeurs
 
@@ -34,13 +38,17 @@ Au niveau 1, lorsque vous tissez un lien spirituel avec votre protecteur, cela a
 
 Les environnements protégés de la lumière du ciel (bâtiment, forêt, pleine nuit, ciel nuageux) ne vous affectent ni de façon positive ni de façon négative.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Comme une anguille
 
 À partir du niveau 6, votre protecteur et les créatures des profondeurs vous inspirent une magie qui vous permet de résister aux pressions insoutenables et aux choses qui tentent de vous agripper. Vous obtenez la résistance aux dégâts contondants infligés par des effets de constriction, d'écrasement ou de compression, et vous bénéficiez d'un avantage à tous les tests d'empoignade ainsi que pour résister aux états empoigné ou entravé, ou pour échapper à des liens.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Maître des cauchemars
 
@@ -48,7 +56,9 @@ Vous pouvez partager les visions cauchemardesques issues du sommeil de votre pro
 
 De plus, lorsque vous lancez le sort de sommeil, vous utilisez des d10 pour déterminer le nombre de points de vie affectés et la durée du sort passe à 1 heure.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Ensevelissement
 
@@ -86,6 +96,6 @@ Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette apt
 [Sagesse (Perception)]: abilities_wisdom_hd.md#perception
 
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

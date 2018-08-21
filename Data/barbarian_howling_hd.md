@@ -1,20 +1,24 @@
-[][Items]
+<Items>
 
 # Voie du hurlement
 
-- Source: (MDR p118)
+- Source: <Source>(MDR p118)</Source>
 
 Le hurlement est un exutoire à la rage qui gronde dans les entrailles du barbare et qui remonte en cris violents.
 
 Le barbare qui choisit la voie du hurlement suit une tradition ancienne perpétuée depuis de nombreuses générations au sein de son clan. Ceux qui pratiquent l'art du hurlement marquent leur statut dans leur peau et leurs chairs afin de se distinguer des autres membres du clan, mais aussi pour effrayer leurs adversaires par une apparence féroce qui contribue à leur réputation. Cela prend généralement la forme de tatouages, de coiffures originales (crâne à demi rasé, tresses), de piercings et de scarifications (cicatrices rituelles). À chaque fois que vous obtenez une nouvelle aptitude de la voie du hurlement, vous devrez ajouter une modification corporelle supplémentaire à votre apparence afin de marquer votre changement de statut.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Intimidant
 
 Dès le niveau 3, votre apparence est si inhabituelle et effrayante que vous bénéficiez d'un avantage à tous les tests de [Charisme (Intimidation)] ou de [Force (Intimidation)].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Scarification rituelle
 
@@ -24,7 +28,9 @@ Pour utiliser votre action à ce tour, vous perdez un point de vie et vous entre
 
 À chaque fois que vous entrez en rage, vous pouvez choisir d'utiliser ou non cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Hurlement du tonnerre
 
@@ -32,13 +38,17 @@ Pour utiliser votre action à ce tour, vous perdez un point de vie et vous entre
 
 Vous devez terminer un repos court avant de pouvoir de nouveau utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Cri sauvage
 
 Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous poussez lorsque vous frappez un ennemi de toutes vos forces. À partir du niveau 10, lorsque vous choisissez d'utiliser votre aptitude témérité, vous pouvez dépenser une action bonus pour pousser un cri sauvage et obtenir un bonus de 1d6 aux dégâts infligés par une attaque au corps-à-corps à votre tour. Si vous êtes à ce moment-là en rage, vous ajoutez 1d8 aux dégâts de l'attaque au lieu de 1d6.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Hurlement terrifiant
 
@@ -62,5 +72,5 @@ Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous pouss
 
 
 
-[Items]: #
-[Generic]: #
+
+

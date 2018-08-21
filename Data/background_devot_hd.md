@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Dévot
 
 - AltName: Acolyte (SRD p60)
-- Source: (MDR p81)
+- Source: <Source>(MDR p81)</Source>
 
 Vous avez passé votre vie au service d'un temple dédié à un dieu particulier ou à un panthéon de dieux. Vous serviez d'intermédiaire entre le domaine du sacré et le monde mortel. Vous accomplissiez les rites sacrés et faisiez les sacrifices nécessaires qui permettent de mettre les fidèles en présence du divin. Vous n'étiez pas nécessairement un clerc (accomplir des rites sacrés n'est pas la même chose que canaliser la puissance divine).
 
@@ -16,32 +16,38 @@ Langues maîtrisées : Deux langues au choix.
 
 Équipement : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Aptitude : Refuge du pèlerin
 
 - AltName: Feature: Shelter of the Faithful (SRD p61)
-- Source: (MDR p82)
+- Source: <Source>(MDR p82)</Source>
 
 Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vous pouvez accomplir les cérémonies religieuses liées à votre déité. Vous et vos compagnons d'aventure pouvez espérer recevoir des soins gratuits dans les temples, autels et autres endroits dédiés à la divinité que vous vénérez. Cela ne vous dispense par contre pas de fournir les ingrédients nécessaires au lancement des sorts. Ceux qui partagent votre religion peuvent aussi vous donner (mais seulement à vous) de quoi mener un train de vie modeste.
 
 Vous pouvez être lié à un temple spécifique dédié à votre déité ou votre panthéon et dans lequel vous avez un logement. Cela peut être le temple dans lequel vous officiez, si vous êtes resté en bons termes avec ses occupants, ou un temple qui est devenu votre nouvelle maison. Quand vous vous trouvez à proximité de votre temple, vous pouvez demander l'assistance des clercs qui s'y trouvent, dans la mesure où l'aide qu'ils vous apportent ne les met pas en danger et que vous êtes en bons termes avec eux.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Personnalités suggérées
 
 - AltName: Feature: Suggested Characteristics (SRD p61)
-- Source: (MDR p82)
+- Source: <Source>(MDR p82)</Source>
 
 La personnalité des acolytes est façonnée par leurs expériences dans les temples ou les communautés religieuses. Leurs études de l'histoire et des fondements de leur religion, ainsi que leurs rapports aux temples, autels ou clergés ont une influence sur leurs manières et leurs idéaux.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ##### Trait de personnalité
 
 - AltName: Feature: Personality Trait (SRD p61)
-- Source: (MDR p82)
+- Source: <Source>(MDR p82)</Source>
 
 |d8|Trait de personnalité|
 |---|---|
@@ -54,12 +60,14 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |7|J'ai connu des nourritures et des boissons<br>raffinées et fréquenté la haute société parmi<br>l'élite de mon temple. Je supporte néanmoins<br>un mode de vie fruste.|
 |8|J'ai passé tellement de temps dans le temple<br>que je n'ai pas beaucoup d'expérience quand il<br>s'agit de traiter avec les gens de l'extérieur.|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ##### Idéal
 
 - AltName: Ideal  (SRD p61)
-- Source: (MDR p83)
+- Source: <Source>(MDR p83)</Source>
 
 |d6|Idéal|
 |---|---|
@@ -70,12 +78,14 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |5|Foi. Je sais que ma déité guide mes pas. Je sais que si je suis fidèle à ses préceptes, tout ira bien. (Loyal)|
 |6|Aspiration. Je dois me prouver digne de mon dieu en agissant selon ses enseignements. (N'importe lequel)|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ##### Lien
 
 - AltName: Bond  (SRD p61)
-- Source: (MDR p83)
+- Source: <Source>(MDR p83)</Source>
 
 |d6|Lien|
 |---|---|
@@ -86,12 +96,14 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |5|Je suis prêt à tout pour protéger le temple dans lequel j'ai servi.|
 |6|Je dois protéger un texte sacré que mes ennemis considèrent hérétique et cherchent à détruire.|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ##### Défaut
 
 - AltName: Flaw  (SRD p61)
-- Source: (MDR p83)
+- Source: <Source>(MDR p83)</Source>
 
 |d6|Défaut|
 |---|---|
@@ -102,7 +114,9 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 |5|Je ne fais pas confiance aux étrangers et je m'attends au pire de leur part.|
 |6|Une fois que je me suis fixé un objectif, je deviens obsédé par celui-ci au détriment de tout le reste.|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Variante : Initié
 
@@ -116,7 +130,9 @@ Langues maîtrisées : Une langue au choix.
 
 Équipement : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), instrument de musique ou outils d'artisan, tenue de cérémonie, habits courants, bourse contenant 10 po.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Variante : Prédicateur
 
@@ -130,13 +146,17 @@ Langues maîtrisées : Une langue au choix.
 
 Équipement : Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Variante : Repenti
 
 Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un temple. Vous fuyez les horreurs de votre passé et tentez de vous racheter, ou simplement de changer de vie. Vous n'être plus le même et vous préféreriez que l'on ne sache rien de ce que vous étiez.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Aptitude : Ancienne vie
 
@@ -148,6 +168,6 @@ Outils maîtrisés : Accessoires de déguisement, Véhicules (terrestres).
 
 Équipement : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

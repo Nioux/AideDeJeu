@@ -1,8 +1,8 @@
-[][Items]
+<Items>
 
 # Serment de piété
 
-- Source: (MDR p190)
+- Source: <Source>(MDR p190)</Source>
 
 Le serment de piété est celui des paladins qui adoptent les préceptes et les enseignements d'un culte divin. Ils consacrent dès lors leur vie à poursuivre l'idéal présenté par leur divinité et à lutter, les armes à la main, contre ses ennemis.
 
@@ -10,7 +10,9 @@ Qu'ils soient en première ligne des éventuelles guerres saintes dans lesquelle
 
 Ces cas sont toutefois exceptionnels et amènent bien souvent le paladin sur une voie hasardeuse où ses idéaux personnels sont mis à mal par la dure réalité des conflits divins.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Préceptes de piété
 
@@ -24,7 +26,9 @@ Humilité. Ne cherchez pas le renom pour vousmême, et vantez la gloire de votre
 
 Courage. Soyez prêt à tous les sacrifices pour votre foi. Détermination. Ne laissez pas de place au doute dans votre coeur.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de serment
 
@@ -38,7 +42,9 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |13|divination, gardien de la foi|
 |17|communion, rappel à la vie|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine
 
@@ -52,19 +58,25 @@ Guerrier saint. Par une action, vous tenez votre symbole sacré contre votre coe
 
 L'effet prend fin si vous êtes inconscient ou terrorisé.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Aura de piété
 
 À partir du niveau 7, la puissance de votre divinité forme une protection sainte autour de vous. Vous et vos alliés dans un rayon de 3 mètres gagnez la résistance aux dégâts causés par les sorts (après éventuelle réduction des dégâts grâce à une sauvegarde réussie), y compris pour les effets de zone tels ceux d'une boule de feu. Au niveau 18, le rayon passe à 9 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Pureté de la lame
 
 À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de faveur divine.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Avatar divin
 
@@ -90,5 +102,5 @@ Vous devez terminer un repos long avant de pouvoir utiliser cette aptitude à no
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

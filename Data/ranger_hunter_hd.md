@@ -1,17 +1,21 @@
-[][Items]
+<Items>
 
 # Chasseur
 
 - AltName: Hunter (SRD p37)
-- Source: (MDR p198)
+- Source: <Source>(MDR p198)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Chasseur
 
 Adopter l'archétype du chasseur signifie accepter votre place comme rempart entre la civilisation et les terreurs qui hantent la nature. En suivant la voie du chasseur, vous apprenez des techniques spécifiques vous permettant d'affronter diverses menaces, que ce soient des ogres déchaînés, des hordes d'orcs, d'immenses géants ou de terrifiants dragons.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## La proie du chasseur
 
@@ -23,7 +27,9 @@ Tueur de géants. Quand une créature de taille grande ou supérieure qui se tro
 
 Briseur de hordes. Une fois par tour, quand vous faites une attaque avec une arme, vous pouvez attaquer une seconde fois avec la même arme en ciblant une autre créature, dans la mesure où celle-ci se trouve dans un rayon de 1,50 mètre autour de la première créature et à portée de votre arme.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tactiques défensives
 
@@ -35,7 +41,9 @@ Défense contre les attaques multiples. Quand une créature vous touche avec une
 
 Moral d'acier. Vous obtenez un avantage sur les [jets de sauvegarde] contre tout effet provoquant l'état [terrorisé].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Attaques multiples
 
@@ -45,7 +53,9 @@ Salve. Vous pouvez utiliser votre action pour faire une attaque à distance cont
 
 Attaque tourbillonnante. Vous pouvez utiliser votre action pour faire une attaque de corps-à-corps contre autant de créatures que vous le souhaitez dans la mesure où elles se trouvent dans un rayon de 1,50 mètre autour de vous, en faisant un jet d'attaque séparé pour chaque créature.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Défense de chasseur supérieure
 
@@ -70,5 +80,5 @@ Esquive instinctive. Quand un attaquant que vous pouvez voir réussit une attaqu
 [terrorisé]: conditions_hd.md#terrorisé
 
 
-[Items]: #
-[Generic]: #
+
+

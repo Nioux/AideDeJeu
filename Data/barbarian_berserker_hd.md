@@ -1,21 +1,25 @@
-[][Items]
+<Items>
 
 # Voie du berserker
 
 - AltName: Wisdom (SRD p9)
-- Source: (MDR p116)
+- Source: <Source>(MDR p116)</Source>
 
 Pour certains barbares, la rage est un moyen d'atteindre leur but, et ce but est la violence. Animé par une furie débridée, le berserker suit une voie sanglante.
 
 Quand vous entrez dans la rage du berserker, vous vous réalisez dans le chaos de la bataille et oubliez tout le reste, y compris votre santé et votre bien-être.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Frénésie
 
 Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de devenir frénétique pendant que vous êtes sous le coup de la rage. Si vous devenez frénétique, pendant la durée de votre rage, vous pouvez porter une unique attaque supplémentaire avec une arme de corps-à-corps en action bonus à la fin de chacun des tours suivant celui pendant lequel vous êtes devenu frénétique. Quand votre rage prend fin, vous gagnez un niveau d'épuisement. Voir le chapitre 10, Gérer la santé du personnage, page 302, pour plus d'information sur les règles de fatigue.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Rage aveugle
 
@@ -25,7 +29,9 @@ Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de deven
 
 Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser cette aptitude sur elle pendant les prochaines 24 heures.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Représailles
 
@@ -42,5 +48,5 @@ Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser c
 [Jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [Jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
-[Items]: #
-[Generic]: #
+
+

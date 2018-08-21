@@ -1,12 +1,14 @@
-[][Items]
+<Items>
 
 # L'entité extra-dimensionnelle
 
-- Source: (MDR p217)
+- Source: <Source>(MDR p217)</Source>
 
 Votre protecteur est une entité incompréhensible pour les sens humains, il existe dans une dimension qui n'est pas accessible aux mortels et probablement interdite aux dieux eux-mêmes. Sa nature ne respecte pas les lois physiques de notre monde, ni les règles de la géométrie euclidienne et sa présence se manifeste à travers des singularités dans la trame du temps ou des déformations de la réalité. Ses desseins sont aussi impénétrables que sa nature, mais il a besoin de relais mortels pour accéder à la perception de notre monde. Votre relation est donc basée sur un intérêt réciproque : à travers vous, il ouvre une fenêtre vers la réalité et vous bénéficiez en contrepartie des pouvoirs que votre connexion avec sa dimension vous octroie.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Liste de sorts étendue
 
@@ -20,13 +22,17 @@ L'entité extra-dimensionnelle vous permet de choisir des sorts dans une liste d
 |4|divination, assassin imaginaire|
 |5|tromperie, cercle de téléportation|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Apparences trompeuses
 
 Au niveau 1, vous apprenez le sort de déguisement, et il ne compte pas dans le nombre de sorts que vous connaissez. De plus, lorsque vous êtes sous l'effet de ce sort, votre image est légèrement décalée par rapport à votre position réelle, ce qui inflige un désavantage à toutes les créatures qui vous attaquent, sauf si elles sont capables de voir les créatures invisibles ou éthérées, ou s'il s'agit d'une attaque de zone. Si vous faîtes l'acquisition de l'invocation occulte du masque des mille visages, cela ne concerne pas votre aptitude d'apparences trompeuses : vous continuez à devoir utiliser un emplacement de sort lorsque vous lancez déguisement si vous souhaitez bénéficier des effets de cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Duo-dimension
 
@@ -34,13 +40,17 @@ Au niveau 1, vous apprenez le sort de déguisement, et il ne compte pas dans le 
 
 Vous pouvez ressortir de l'espace extra-dimensionnel et reprendre votre forme originale en utilisant une action bonus.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Magie extra-dimensionnelle
 
 À partir du niveau 10, la nature de votre magie est si étrange et incompréhensible que les victimes de vos sorts sont désorientées. À chaque fois que vous infligez des dégâts à une créature au moyen d'un sort, elle subit un désavantage à tous ses tests à son prochain tour à moins de réussir un [jet de sauvegarde] de [Sagesse] dont la difficulté est égale à la moitié des dégâts subis (avec un DD maximum de 20 à partir de 40 points de dégâts).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Bond temporel
 
@@ -60,6 +70,6 @@ Si aucun espace libre n'existe à portée, vous êtes perdu dans les limbes et c
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

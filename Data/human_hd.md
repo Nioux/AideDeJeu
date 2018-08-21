@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Humain
 
 - AltName: Human (SRD p5)
-- Source: (MDR p54)
+- Source: <Source>(MDR p54)</Source>
 
 ## Traits des humains
 
@@ -31,5 +31,5 @@ Il est difficile de faire des généralisations en ce qui concerne les humains. 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
-[Items]: #
-[Generic]: #
+
+

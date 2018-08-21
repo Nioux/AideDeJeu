@@ -1,8 +1,8 @@
-[][Items]
+<Items>
 
 # Serment de rédemption
 
-- Source: (MDR p191)
+- Source: <Source>(MDR p191)</Source>
 
 Les paladins qui suivent cette voie le font très rarement par choix, et ce serment n'est pas accessible à la création.
 
@@ -12,7 +12,9 @@ Cette voie est celle de la rédemption. Une voie difficile et amère, qui permet
 
 Un paladin de la rédemption ne prête pas serment comme les autres au niveau 3. Il rejoint cette voie s'il faillit à l'un ou l'autre de ses engagements. C'est ultimement au MJ de décider si les actions d'un paladin sont en violation avec son serment actuel. Toutefois, il devrait au moins prévenir le joueur de cette éventualité avant d'assigner son personnage à la voie de la Rédemption, et lui laisser une chance de rectifier les choses.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Préceptes de rédemption
 
@@ -28,13 +30,17 @@ Humilité. N'ayez pas d'autre ambition pour vousmême que la simplicité.
 
 Honnêteté. Soyez honnête avec tous, y compris avec vous-même.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de serment
 
 Contrairement aux autres paladins, ceux qui entrent sur la voie de la rédemption ne bénéficient pas de sort de serment. Le lien avec l'entité ou la force qui leur donnait leur pouvoir est en partie brisé, et ils doivent avant tout compter sur eux-mêmes pour faire face aux embûches.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine
 
@@ -46,7 +52,9 @@ Défenseur. En utilisant votre canalisation d'énergie divine, vous pouvez dési
 
 Vous pouvez interrompre cet effet à tout moment. L'effet s'interrompt automatiquement si vous êtes inconscient ou neutralisé.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Expiation
 
@@ -60,7 +68,9 @@ Elle effectue un nouveau [jet de sauvegarde] chaque tour pendant 1 minute, jusqu
 
 Au niveau 18, la portée passe à 15 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Purgatoire
 
@@ -68,7 +78,9 @@ Au niveau 15, si vous êtes sur la voie de la rédemption depuis au moins un niv
 
 Si vous poursuivez avec le serment de rédemption, vous êtes désormais capable de créer autour de vous une zone de purgatoire de 9 mètres de rayon pendant 1 minute, particulièrement douloureuse pour certains types de créatures. Aberrations, morts-vivants et fiélons considèrent cette zone comme un terrain difficile. De plus, ils subissent 2d6 dégâts radiants la première fois qu'ils pénètrent dans cette zone, et à chaque fois qu'ils y débutent leur tour. Enfin, ils subissent un désavantage sur leurs attaques tant qu'ils restent dans la zone. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Esprit de la rédemption
 
@@ -94,5 +106,5 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

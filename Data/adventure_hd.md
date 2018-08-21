@@ -1,20 +1,26 @@
 
-[][Items]
+<Items>
 
 # Partir à l'aventure
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Ecoulement du temps](time_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [Déplacement](movement_hd.md)
 
-[][LinkItem]
+</LinkItem>
+
+<LinkItem>
 
 ## [L'environnement](environment_hd.md)
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

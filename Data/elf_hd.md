@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Elfe
 
 - AltName: Elf (SRD p4)
-- Source: (MDR p44)
+- Source: <Source>(MDR p44)</Source>
 
 ## Traits des elfes
 
@@ -30,12 +30,14 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Elfe d'aether
 
 - AltName: High Elf (SRD p4)
-- Source: (MDR p45)
+- Source: <Source>(MDR p45)</Source>
 
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.
 
@@ -47,11 +49,13 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Elfe de fer
 
-- Source: (MDR p45)
+- Source: <Source>(MDR p45)</Source>
 
 En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
 
@@ -63,11 +67,13 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Elfe des sylves
 
-- Source: (MDR p45)
+- Source: <Source>(MDR p45)</Source>
 
 En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dans laquelle vous vous sentez chez vous. Vos doigts sont agiles et vous possédez un don pour l'artisanat.
 
@@ -94,5 +100,5 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 [Sagesse (Survie)]: abilities_wisdom_hd.md#survie
 
 
-[Items]: #
-[Generic]: #
+
+

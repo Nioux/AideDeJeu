@@ -1,9 +1,9 @@
-[][Items]
+<Items>
 
 # Lignée draconique
 
 - AltName: Draconic Bloodline (SRD p44)
-- Source: (MDR p155)
+- Source: <Source>(MDR p155)</Source>
 
 Votre magie innée est une résurgence de la magie draconique mêlée à votre sang ou celui de vos ancêtres.
 
@@ -11,7 +11,9 @@ Le plus souvent, les ensorceleurs qui ont cette origine peuvent retracer leur as
 
 Certaines de ces lignées sont bien établies, mais la plupart du temps elles sont assez obscures. N'importe quel ensorceleur peut être le premier d'une nouvelle lignée suite à un pacte ou une autre circonstance exceptionnelle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Ancêtre dragon
 
@@ -22,7 +24,9 @@ Vous pouvez parler, lire et écrire en draconique.
 De plus, à chaque fois que vous faites un test de [Charisme] alors que vous interagissez avec des dragons, votre bonus de maîtrise est doublé s'il s'applique.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Lignée draconique
 
@@ -39,7 +43,9 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 |Rouge|Feu|
 |Vert|Poison|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Résistance draconique
 
@@ -51,13 +57,17 @@ De plus, votre peau est partiellement couverte d'une fine couche d'écailles res
 
 Quand vous ne portez pas d'armure, votre CA est égale à 13 + votre modificateur de [Dextérité].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Affinité élémentaire
 
 À partir du niveau 6, quand vous lancez un sort qui inflige des dégâts du type associé à votre héritage draconique, vous pouvez ajouter votre modificateur de [Charisme] à ces dégâts. Vous pouvez dans le même temps dépenser 1 point de sorcellerie pour devenir résistant à ce type de dégâts pendant 1 heure.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Ailes de dragon
 
@@ -67,7 +77,9 @@ Vous ne pouvez pas utiliser ces ailes si vous portez une armure, sauf si l'armur
 
 Les vêtements que vous portez qui n'ont pas été conçus en tenant compte de vos ailes peuvent être déchirés quand elles émergent.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Présence draconique
 
@@ -86,5 +98,5 @@ Une créature qui réussit son [jet de sauvegarde] est immunisée à votre aura 
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

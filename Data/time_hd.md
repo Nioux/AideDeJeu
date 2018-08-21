@@ -1,10 +1,12 @@
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Écoulement du temps
 
 - AltName: Time (SRD p84)
-- Source: (MDR p270)
+- Source: <Source>(MDR p270)</Source>
 
 Dans certaines situations, il est nécessaire de porter une attention spéciale à l’écoulement du temps. Dans ce cas, c’est au MJ de décider du temps que prend une tâche. Le MJ peut utiliser une échelle de temps différente en fonction des situations. Dans un environnement d’exploration de souterrains ou de complexes de salles – ce qu’on appelle un « donjon », les déplacements des PJ sont calculés sur une échelle de minutes. Il leur faut environ une minute pour traverser de façon discrète un long couloir, une autre minute pour s’assurer que la porte qu’ils comptent ouvrir n’est pas piégée et une bonne dizaine de minutes pour fouiller la salle dans laquelle ils ont pénétré et mettre la main sur ce qui pourrait être intéressant ou précieux.
 
@@ -28,6 +30,6 @@ Dans le cadre des combats et d’autres situations de jeu où l’action se dér
 [Force (Athlétisme)]: abilities_strength_hd.md#athlétisme
 
 
-[Items]: #
-[Generic]: #
-[LinkItem]: #
+
+
+

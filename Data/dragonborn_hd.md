@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Sangdragon
 
 - AltName: Dragonborn (SRD p5)
-- Source: (MDR p69)
+- Source: <Source>(MDR p69)</Source>
 
 ## Traits des sangdragons
 
@@ -32,7 +32,9 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 
 **Langue.** Vous pouvez parler, lire et écrire en commun et en draconique. Le draconique est considéré comme une des langues les plus anciennes et est souvent utilisé pour étudier la magie. C'est une langue composée de consonnes dures et de sifflement, qui semble rude à la plupart des autres créatures.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Ascendance 
 
@@ -58,5 +60,5 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
-[Items]: #
-[Generic]: #
+
+

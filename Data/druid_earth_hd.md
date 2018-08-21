@@ -1,19 +1,23 @@
-[][Items]
+<Items>
 
 # Cercle de la terre
 
 - AltName: Circle of the Land (SRD p21)
-- Source: (MDR p145)
+- Source: <Source>(MDR p145)</Source>
 
 Le cercle de la terre réunit des mystiques et des sages qui perpétuent d'antiques connaissances et rites grâce à une tradition orale très développée. Ces druides se rassemblent dans des cercles d'arbres sacrés ou de pierres dressées pour se murmurer des secrets primordiaux en druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés qui respectent encore l'antique religion, et conseillent leurs dirigeants. En tant que membre du cercle, votre magie est influencée par le type de terrain sur lequel vous avez été initié aux rites mystérieux du cercle.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Tour de magie bonus
 
 Quand vous choisissez ce cercle au niveau 2, vous pouvez apprendre un tour de magie de druide supplémentaire de votre choix.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Récupération naturelle
 
@@ -23,7 +27,9 @@ Ces emplacements de sorts doivent avoir un niveau combiné inférieur ou égal �
 
 Par exemple, si vous êtes un druide de niveau 4, vous pouvez récupérer un équivalent de deux niveaux d'emplacements de sorts, donc soit un emplacement de niveau 2, soit deux emplacements de niveau 1.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de cercle
 
@@ -32,7 +38,9 @@ Votre connexion mystique avec la terre vous donne la capacité de lancer certain
 Une fois que vous avez appris un sort de cercle, il est toujours considéré comme préparé et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour. Si vous apprenez un sort qui n'apparaît pas dans la liste de sorts de druide, considérez-le quand même comme un sort de druide.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Arctique
 
@@ -43,7 +51,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 7|liberté de mouvement, tempête de grêle|
 9|communion avec la nature, cône de froid|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Littoral
 
@@ -54,7 +64,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|contrôle de l'eau, liberté de mouvement|
 |9|invoquer un élémentaire, scrutation|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Désert
 
@@ -65,7 +77,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|flétrissement, terrain hallucinatoire|
 |9|fléau d'insectes, mur de pierre|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Forêt
 
@@ -76,7 +90,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|divination, liberté de mouvement|
 |9|communion avec la nature, passage par les arbres|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Plaine
 
@@ -87,7 +103,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|divination, liberté de mouvement|
 |9|rêve, fléau d'insectes|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Montagne
 
@@ -98,7 +116,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|façonnage de la pierre, peau de pierre|
 |9|passe-muraille, mur de pierre|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Marais
 
@@ -109,7 +129,9 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 |7|liberté de mouvement, localiser une créature|
 |9|fléau d'insectes, scrutation|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Traversée des terrains
 
@@ -119,13 +141,17 @@ Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralent
 
 En plus de cela, vous bénéficiez d'un avantage sur les [jets de sauvegarde] contre les plantes créées par magie ou manipulées pour gêner les déplacements, comme celles créées par le sort [enchevêtrement].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Enfant de la nature
 
 Quand vous atteignez le niveau 10, vous ne pouvez pas être charmé ou terrorisé par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sanctuaire de la nature
 
@@ -147,5 +173,5 @@ La créature est consciente de cet effet avant de vous attaquer.
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

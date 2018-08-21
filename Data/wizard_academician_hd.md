@@ -1,18 +1,22 @@
-[][Items]
+<Items>
 
 # Académicien
 
-- Source: (MDR p169)
+- Source: <Source>(MDR p169)</Source>
 
 L'académicien a suivi le cursus classique d'étude, ce qui lui permet de se spécialiser très tôt dans l'une des huit écoles de magie – abjuration, divination, enchantement, évocation, illusion, invocation, nécromancie et transmutation – afin d'y exceller.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Magie académique
 
 Au niveau 2, puis à chaque fois que vous gagnez un niveau, vous inscrivez dans votre grimoire et vous apprenez un sort supplémentaire qui doit être issu de votre école. Lorsque vous obtenez l'aptitude maîtrise des sorts (au niveau 18), vous devez choisir des sorts de votre école. Lorsque vous obtenez l'aptitude sorts de prédilection (au niveau 20), vous devez choisir au moins un sort de votre école.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Spécialisation
 
@@ -38,13 +42,17 @@ Vous ne pouvez dépasser votre maximum de points de vie de cette façon. Vous ne
 
 Transmutation : Amélioration. Vous apprenez le sort amélioration de caractéristique et pouvez le lancer sans dépenser d'emplacement, tout en étant considéré comme utilisant un emplacement de niveau égal à votre bonus de maîtrise (par exemple, au niveau 10 de magicien, vous le lancez comme avec un emplacement de niveau 4 et affectez trois cibles). Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Expertise
 
 Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d'[Intelligence] pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux [jets de sauvegarde] que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Maîtrise
 
@@ -74,7 +82,9 @@ Si le résultat est inférieur ou égal au niveau du sort, utilisez une réactio
 
 Transmutation : Élixir. Vous pouvez lancer un sort de transmutation sur un liquide. Ce liquide reste actif pendant 1 heure. Toute créature qui le boit bénéficie des effets du sort comme s'il était lancé par le créateur de la potion, toutefois c'est celui qui la boit qui doit maintenir la concentration si le sort le nécessite. Une créature qui boit un second élixir alors que le premier est encore actif subit 2d6 dégâts et annule le premier effet.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Haute maîtrise
 
@@ -100,5 +110,5 @@ Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un em
 [Charisme]: abilities_charisma_hd.md
 
 
-[Items]: #
-[Generic]: #
+
+

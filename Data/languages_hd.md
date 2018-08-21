@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Langues
 
 - AltName: Languages (SRD p59)
-- Source: (MDR p75)
+- Source: <Source>(MDR p75)</Source>
 
 La race d'un personnage détermine la langue qu'il parle par défaut et son historique peut lui permettre de parler une ou deux langues supplémentaires au choix. Ces langues doivent être notées sur la fiche de personnage.
 
@@ -14,7 +14,9 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Langues courantes
 
@@ -30,7 +32,9 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |Orc|Orcs|Runique|
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Langues exotiques
 
@@ -46,7 +50,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |Sseslish|Hommes serpents|-|
 |Sylvestre|Fées|Elfique|
 
-[Items]: #
-[Generic]: #
+
+
 
 

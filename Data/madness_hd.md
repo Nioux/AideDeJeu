@@ -1,14 +1,16 @@
 
-[][Items]
+<Items>
 
 ## La folie
 
 - AltName: Madness
-- Source: (CEO p380)(SRD p201)
+- Source: <Source>(CEO p380)(SRD p201)</Source>
 
 Dans une campagne ordinaire, il est bien rare que les personnages deviennent fous à force d'affronter de multiples horreurs et de se livrer à maints carnages, cependant, parfois, le stress de la vie d'aventurier devient un poids trop lourd à porter. Si l'horreur tient une place de choix parmi les thèmes de votre campagne, vous pouvez utiliser la folie pour lui donner encore plus d'importance et mettre en valeur la nature horrifiante hors du commun des dangers à surmonter.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Devenir fou
 
@@ -16,7 +18,9 @@ Divers effets magiques sont capables de plonger un esprit normalement stable dan
 
 Pour résister à un effet entraînant la démence, il faut généralement réussir un jet de sauvegarde de Charisme ou de Sagesse.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Les effets de la folie
 
@@ -28,7 +32,9 @@ Un personnage victime d'une **folie persistante** est sujet à un effet tiré de
 
 Un personnage victime d'une **folie à durée illimitée** acquiert un défaut tiré de la table de la [Folie à durée illimitée] qu'il conserve jusqu'à ce que quelqu'un le soigne.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ### Soigner la folie
 
@@ -36,7 +42,9 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Folie passagère
 
@@ -54,7 +62,9 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |91-100|Le personnage tombe inconscient.|
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Folie persistante
 
@@ -74,7 +84,9 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |96-100|Le personnage tombe inconscient. Il est impossible de le réveiller en le secouant ou même en lui infligeant des dégâts.|
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 #### Folie à durée illimitée
 
@@ -93,5 +105,5 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |86-95|« Je suis incapable de prendre quelque chose au sérieux. Plus la situation est grave, plus je la trouve marrante. »|
 |96-100|« Je viens de découvrir que j'adore tuer des gens. »|
 
-[Items]: #
-[Generic]: #
+
+

@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Clerc
 
 - AltName:  (SRD p15)
-- Source: (MDR p129)
+- Source: <Source>(MDR p129)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -36,7 +38,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * (a) un [paquetage d'ecclésiastique] ou (b) un [paquetage d'explorateur]
 * un [bouclier] et un [symbole sacré]
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -65,7 +69,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Incantations
 
@@ -105,19 +111,25 @@ Vous pouvez lancer un sort de clerc que vous connaissez et que vous avez prépar
 
 Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 233) comme focaliseur d'incantation pour vos sorts de clerc.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Domaine divin
 
 Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêtre et théurge. Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de domaines
 
 Une liste de sorts spécifique est associée à chaque domaine divin. Dans le cas du clerc, cette liste dépend de la divinité que vous adorez. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour (le théurge est une exception). Si vous avez appris un sort de domaine qui n'apparaît pas dans la liste de sorts de clerc, vous pouvez quand même le considérer comme un sort de clerc en ce qui vous concerne.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine
 
@@ -135,13 +147,17 @@ Certains effets de la canalisation d'énergie divine impliquent des [jets de sau
 
 Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un [jet de sauvegarde] de [Sagesse]. Si une créature échoue à son [jet de sauvegarde], elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Destruction des morts-vivants
 
@@ -155,7 +171,9 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 |14|3 ou moins|
 |17|4 ou moins|
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Intervention divine
 
@@ -171,7 +189,9 @@ Si votre déité est intervenue, vous ne pouvez plus utiliser cette aptitude pen
 
 Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez donc plus besoin de lancer de dé.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Domaines divins
 
@@ -228,5 +248,5 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 [symbole sacré]: equipment_properties_hd.md#symbole-sacré
 
 
-[Items]: #
-[Generic]: #
+
+

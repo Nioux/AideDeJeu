@@ -1,10 +1,10 @@
 
-[][Items]
+<Items>
 
 # Tieffelin
 
 - AltName: Tiefling (SRD p7)
-- Source: (MDR p71)
+- Source: <Source>(MDR p71)</Source>
 
 ## Traits des tieffelins
 
@@ -37,5 +37,5 @@ Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur a
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
-[Items]: #
-[Generic]: #
+
+

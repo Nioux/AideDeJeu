@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Paladin
 
 - AltName: Paladin (SRD p30)
-- Source: (MDR p183)
+- Source: <Source>(MDR p183)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -38,7 +40,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -69,7 +73,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sens divin
 
@@ -79,7 +85,9 @@ Jusqu'à la fin de votre prochain tour, vous savez où se trouve toute créature
 
 Entre deux repos longs, vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de [Charisme].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Imposition des mains
 
@@ -91,37 +99,49 @@ Vous pouvez aussi choisir de puiser 5 points de vie dans cette réserve de guér
 
 Cette aptitude n'a aucun effet sur les morts-vivants ou les créatures artificielles.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Style de combat
 
 Au niveau 2, vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre deux fois un même style de combat, même si vous pouvez choisir un autre style plus tard.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Défense
 
 Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Duel
 
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Armes à deux mains
 
 Quand vous faites 1 ou 2 avec un dé de dégâts pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1 ou d'un 2. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Protection
 
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Incantations
 
@@ -149,7 +169,9 @@ Modificateur de sort de combat = votre bonus de maîtrise + votre modificateur d
 
 Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos sorts de paladin.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Châtiment divin
 
@@ -157,13 +179,17 @@ Vous pouvez utiliser un symbole sacré comme focaliseur d'incantation pour vos s
 
 Vous infligez 2d8 dégâts supplémentaires si vous utilisez un emplacement de sort de niveau 1, auquel vous ajoutez 1d8 par niveau de sort supplémentaire, jusqu'à un maximum de 5d8. Les dégâts subis sont augmentés d'1d8 supplémentaire si la cible est un mortvivant ou un fiélon.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Santé divine
 
 Au niveau 3, la magie divine qui vous anime vous immunise contre les maladies.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Serment sacré
 
@@ -172,7 +198,9 @@ Quand vous atteignez le niveau 3, vous prêtez un serment qui vous engage à tou
 Votre choix vous permet d'avoir accès à des aptitudes particulières aux niveaux 3, 7, 15 et 20. Parmi ces aptitudes se trouvent les sorts de serment et la canalisation d'énergie divine.
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Sorts de serment
 
@@ -180,7 +208,9 @@ Votre choix vous permet d'avoir accès à des aptitudes particulières aux nivea
 
 Si vous gagnez un sort de serment qui n'apparaît pas dans la liste de sorts de paladin, vous le considérez tout de même comme un sort de paladin en ce qui vous concerne.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Canalisation d'énergie divine
 
@@ -192,19 +222,25 @@ Après avoir utilisé une fois cette aptitude, vous devez finir un repos court o
 
 Certains effets de la canalisation d'énergie divine impliquent des [jets de sauvegarde]. Quand vous utilisez un tel effet avec un personnage de cette classe, vous devez utiliser un DD égal au DD des [jets de sauvegarde] de vos sorts de paladin.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Attaque supplémentaire
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Auras
 
@@ -212,7 +248,9 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 ## [Aura de courage]
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Aura de protection
 
@@ -220,7 +258,9 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Aura de courage
 
@@ -228,7 +268,9 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
 Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Châtiment divin amélioré
 
@@ -236,7 +278,9 @@ Au niveau 11, vous débordez tellement de vertu que tous les coups que vous port
 
 Si vous utilisez aussi votre châtiment divin lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment divin.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Contact purifiant
 
@@ -244,7 +288,9 @@ Si vous utilisez aussi votre châtiment divin lors d'une attaque, vous additionn
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de [Charisme] (avec un minimum d'une fois) entre deux repos longs.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Serments sacrés
 
@@ -301,5 +347,5 @@ Pour devenir un paladin, vous devez prêter un serment qui vous engage à servir
 [Religion]: abilities_intelligence_hd.md#religion
 
 
-[Items]: #
-[Generic]: #
+
+

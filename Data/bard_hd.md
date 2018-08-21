@@ -1,12 +1,14 @@
 
-[][Items]
+<Items>
 
 # Barde
 
 - AltName: Bard (SRD p11)
-- Source: (MDR p121)
+- Source: <Source>(MDR p121)</Source>
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Aptitudes de classe
 
@@ -36,7 +38,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * une armure de cuir et une dague
 
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Tableau d'évolution
 
@@ -65,7 +69,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Incantations
 
@@ -107,7 +113,9 @@ Vous pouvez lancer tous les [sorts de barde] que vous connaissez sous la forme d
 
 Vous pouvez utiliser un [instrument de musique] (voir le chapitre 5, Équipement, page 236) comme [focaliseur d'incantation] pour vos [sorts de barde].
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Inspiration bardique
 
@@ -119,13 +127,17 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Touche-à-tout
 
 À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Chant reposant
 
@@ -133,13 +145,17 @@ Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devien
 
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 1d8 au niveau 9, 1d10 au niveau 13 et 1d12 au niveau 17.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Collège bardique
 
 Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir], le [collège des diplomates], le [collège des hérauts] ou le [collège des saltimbanques]. L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Expertise
 
@@ -147,25 +163,33 @@ Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois
 
 Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Amélioration de caractéristiques
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Source d'inspiration
 
 Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Contre-charme
 
 Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un avantage sur les [jets de sauvegarde] contre les effets terrorisé et charmé. Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes neutralisé, réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Secrets magiques
 
@@ -177,13 +201,17 @@ Les sorts que vous choisissez fonctionnent pour vous comme des [sorts de barde] 
 
 Vous pouvez apprendre de la même manière deux sorts supplémentaires de la classe de votre choix au niveau 14 et deux autres au niveau 18.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 ## Inspiration supérieure
 
 Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez une.
 
-[][Generic]
+</Generic>
+
+<Generic>
 
 # Collèges bardiques
 
@@ -232,5 +260,5 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [focaliseur d'incantation]: equipment_properties_hd.md#focaliseur-druidique
 
 
-[Items]: #
-[Generic]: #
+
+

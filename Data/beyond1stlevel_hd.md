@@ -1,6 +1,6 @@
 
 - AltName: Beyond 1st Level (SRD p56)
-- Source: (MDR p32)
+- Source: <Source>(MDR p32)</Source>
 
 Au-delà du niveau 1
 
