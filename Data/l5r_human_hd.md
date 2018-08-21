@@ -1,15 +1,15 @@
 
-[][Items]
+<Items>
 
-## Humain des cinq royaumes
+## <Name>Humain des cinq royaumes</Name>
 
-- Source: (L5R p49)
+- Source: <Source>(L5R p49)</Source>
 
-[][Generic]
+<Generic>
 
-### Traits de base des humains
+### <Name>Traits de base des humains</Name>
 
-- Source: (L5R p49)
+- Source: <Source>(L5R p49)</Source>
 
 Les humains sont versatiles et talentueux. Contrairement aux faës, ils ne possèdent pas de pouvoirs particuliers et ne comptent que sur leurs compétences, leurs savoir-faire et leur ingéniosité.
 
@@ -17,11 +17,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Langues.** Vous pouvez parler, lire et écrire la langue d'or, ainsi qu'une autre langue (souvent la langue de votre royaume d'origine).
 
-[][Generic]
+</Generic>
 
-#### Fils de la terre
+<Generic>
 
-- Source: (L5R p49)
+#### <Name>Fils de la terre</Name>
+
+- Source: <Source>(L5R p49)</Source>
 
 **Augmentation de Caractéristique.** Votre Force augmente de 1.
 
@@ -29,11 +31,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Maîtrises supplémentaires.** Vous obtenez la maîtrise d'un outil d'artisan parmi les suivants : les outils de charpentier, de forgeron, de brasseur, les ustensiles de cuisine, les outils de maçon ou les outils de menuisier.
 
-[][Generic]
+</Generic>
 
-#### Fils du sel
+<Generic>
 
-- Source: (L5R p50)
+#### <Name>Fils du sel</Name>
+
+- Source: <Source>(L5R p50)</Source>
 
 **Augmentation de Caractéristique.** Votre Dextérité augmente de 1.
 
@@ -41,11 +45,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Marin né.** Vous maîtrisez particulièrement bien les embarcations aquatiques. Quand vous utilisez un tel moyen de transport, vous avez l'avantage pour le piloter.
 
-[][Generic]
+</Generic>
 
-#### Fils des bois
+<Generic>
 
-- Source: (L5R p50)
+#### <Name>Fils des bois</Name>
+
+- Source: <Source>(L5R p50)</Source>
 
 **Augmentation de Caractéristique.** Votre Sagesse augmente de 1.
 
@@ -53,11 +59,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Inébranlable.** Vous avez l'[avantage] sur les jets de sauvegarde effectués afin de résister à la peur.
 
-[][Generic]
+</Generic>
 
-#### Fils des cités
+<Generic>
 
-- Source: (L5R p51)
+#### <Name>Fils des cités</Name>
+
+- Source: <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Intelligence augmente de 1.
 
@@ -65,11 +73,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Langues.** Vous maîtrisez une langue supplémentaire.
 
-[][Generic]
+</Generic>
 
-#### Fils du vent
+<Generic>
 
-- Source: (L5R p51)
+#### <Name>Fils du vent</Name>
+
+- Source: <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Sagesse augmente de 1.
 
@@ -77,11 +87,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Débrouillard.** Vous maîtrisez deux compétences supplémentaires.
 
-[][Generic]
+</Generic>
 
-#### Fils du roc
+<Generic>
 
-- Source: (L5R p51)
+#### <Name>Fils du roc</Name>
+
+- Source: <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Constitution augmente de 1.
 
@@ -89,11 +101,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Résistant.** Vous possédez un point de combativité supplémentaire. Chaque fois que vous gagnez un niveau, vous gagnez un point de combativité supplémentaire par rapport aux autres.
 
-[][Generic]
+</Generic>
 
-#### Gwynnddaerain
+<Generic>
 
-- Source: (L5R p51)
+#### <Name>Gwynnddaerain</Name>
+
+- Source: <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Charisme augmente de 1.
 
@@ -101,11 +115,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Autorité de la tradition.** Votre origine vous a apporté une confiance telle en votre légitimité que vous dégagez une confiance naturelle sans limite. Quand vous tentez de vous imposer, que cela soit pour calmer une assemblée ou pour faire valoir la légitimité de vos arguments (moraux, politiques ou religieux), vous avez l'[avantage].
 
-[][Generic]
+</Generic>
 
-#### Fils des terres sauvages
+<Generic>
 
-- Source: (L5R p51)
+#### <Name>Fils des terres sauvages</Name>
+
+- Source: <Source>(L5R p51)</Source>
 
 **Augmentation de Caractéristique.** Votre Constitution augmente de 1.
 
@@ -113,11 +129,13 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Immunités naturelles.** Vous avez l'[avantage] sur les jets de sauvegarde contre les poisons, et possédez la Résistance contre les dommages dus aux poisons.
 
-[][Generic]
+</Generic>
 
-#### Bâtard
+<Generic>
 
-- Source: (L5R p52)
+#### <Name>Bâtard</Name>
+
+- Source: <Source>(L5R p52)</Source>
 
 **Augmentation de Caractéristiques.** Votre Charisme augmente de 1.
 
@@ -127,5 +145,7 @@ Choisissez quatre caractéristiques et augmentez-les de 1. Vous pouvez, à la pl
 
 **Vulnérabilité ancestrale.** Malheureusement, vous êtes affligé d'une Vulnérabilité au Fer Froid. Mais pire que les faës, votre héritage humain vous a aussi rendu plus faible face aux armes d'acier. Quand vous êtes touché par une arme en acier, un des points de dégâts est toujours infligé à vos points de vitalité.
 
-[Items]: #
-[Generic]: #
+</Generic>
+
+</Items>
+
