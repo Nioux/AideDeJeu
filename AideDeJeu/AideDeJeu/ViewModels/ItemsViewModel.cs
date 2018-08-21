@@ -102,8 +102,6 @@ namespace AideDeJeu.ViewModels
 
         async Task LoadItemsAsync(CancellationToken cancellationToken = default)
         {
-            IsBusy = true;
-            Main.IsLoading = true;
             try
             {
                 if (Filter != null)
@@ -119,11 +117,6 @@ namespace AideDeJeu.ViewModels
             catch (OperationCanceledException ex)
             {
                 Debug.WriteLine(ex);
-            }
-            finally
-            {
-                Main.IsLoading = false;
-                IsBusy = false;
             }
         }
 

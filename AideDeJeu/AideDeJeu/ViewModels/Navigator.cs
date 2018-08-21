@@ -71,7 +71,11 @@ namespace AideDeJeu.ViewModels
                 var file = match.Groups["file"].Value;
                 var anchor = match.Groups["anchor"].Value;
                 var with = match.Groups["with"].Value;
+                Main.IsBusy = true;
+                Main.IsLoading = true;
                 var item = await Main.GetItemFromDataAsync(file);
+                Main.IsBusy = false;
+                Main.IsLoading = false;
                 if (item != null)
                 {
                     if (item is Items)

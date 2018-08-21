@@ -5,7 +5,8 @@
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              x:Class="AideDeJeu.Views.ItemDetailPage"
              Title="{Binding Title}"
-             x:Name="This">
+             x:Name="This"
+             IsBusy="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />

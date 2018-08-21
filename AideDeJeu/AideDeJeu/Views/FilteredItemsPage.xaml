@@ -6,7 +6,8 @@
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
     x:Class="AideDeJeu.Views.FilteredItemsPage" 
     x:Name="This" 
-    Title="{Binding Title}">
+    Title="{Binding Title}"
+    IsBusy="{Binding Main.IsLoading}">
     <MasterDetailPage.ToolbarItems>
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
     </MasterDetailPage.ToolbarItems>

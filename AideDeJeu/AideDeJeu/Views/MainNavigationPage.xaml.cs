@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AideDeJeu.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,15 @@ namespace AideDeJeu.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MainNavigationPage : NavigationPage
 	{
-		public MainNavigationPage ()
+        public MainViewModel Main
+        {
+            get
+            {
+                return DependencyService.Get<MainViewModel>();
+            }
+        }
+
+        public MainNavigationPage ()
 		{
 			InitializeComponent ();
 		}
