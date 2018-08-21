@@ -4,84 +4,84 @@
 
 <LinkItem>
 
-## <Name>[Barbare]</Name>
+## <NameLink>[Barbare]</NameLink>
 - AltName: <AltName>[Barbarian](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Barde]</Name>
+## <NameLink>[Barde]</NameLink>
 - AltName: <AltName>[Bard](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Clerc]</Name>
+## <NameLink>[Clerc]</NameLink>
 - AltName: <AltName>[Cleric](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Druide]</Name>
+## <NameLink>[Druide]</NameLink>
 - AltName: <AltName>[Druid](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Ensorceleur]</Name>
+## <NameLink>[Ensorceleur]</NameLink>
 - AltName: <AltName>[Sorcerer](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Guerrier]</Name>
+## <NameLink>[Guerrier]</NameLink>
 - AltName: <AltName>[Fighter](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Magicien]</Name>
+## <NameLink>[Magicien]</NameLink>
 - AltName: <AltName>[Wizard](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Moine]</Name>
+## <NameLink>[Moine]</NameLink>
 - AltName: <AltName>[Monk](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Paladin]</Name>
+## <NameLink>[Paladin]</NameLink>
 - AltName: <AltName>[Paladin](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Rôdeur]</Name>
+## <NameLink>[Rôdeur]</NameLink>
 - AltName: <AltName>[Ranger](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Roublard]</Name>
+## <NameLink>[Roublard]</NameLink>
 - AltName: <AltName>[Rogue](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## <Name>[Sorcier]</Name>
+## <NameLink>[Sorcier]</NameLink>
 - AltName: <AltName>[Warlock](#)</AltName>
 
 </LinkItem>

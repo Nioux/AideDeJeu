@@ -30,8 +30,6 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
 
-</Generic>
-
 <Generic>
 
 ## <Name>Elfe d'aether</Name>
