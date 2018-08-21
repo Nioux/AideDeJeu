@@ -1,26 +1,27 @@
 
 <Items>
 
-# Gérer la santé
+# <Name>Gérer la santé</Name>
+
+<LinkItem>
+
+## <NameLink>[Dégâts et guérison](damage_healing_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Dégâts et guérison](damage_healing_hd.md)
+## <NameLink>[États spéciaux](conditions_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [États spéciaux](conditions_hd.md)
+## <NameLink>[Repos](resting_hd.md)</NameLink>
 
 </LinkItem>
 
-<LinkItem>
-
-## [Repos](resting_hd.md)
-
+</Items>
 
 
 

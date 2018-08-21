@@ -1,7 +1,7 @@
 
 <Items>
 
-# Conditions
+# <Name>Conditions</Name>
 
 - AltName: <AltName>[États spéciaux](conditions_hd.md#États-spéciaux)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -15,11 +15,9 @@ If multiple effects impose the same condition on a creature, each instance of th
 The following definitions specify what happens to a creature while it is subjected to a condition.
 
 
-</Generic>
-
 <Generic>
 
-# Blinded
+# <Name>Blinded</Name>
 
 - AltName: <AltName>[Aveuglé](conditions_hd.md#aveuglé)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -33,7 +31,7 @@ The following definitions specify what happens to a creature while it is subject
 
 <Generic>
 
-# Charmed
+# <Name>Charmed</Name>
 
 - AltName: <AltName>[Charmé](conditions_hd.md#charmé)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -47,7 +45,7 @@ The following definitions specify what happens to a creature while it is subject
 
 <Generic>
 
-# Deafened
+# <Name>Deafened</Name>
 
 - AltName: <AltName>[Assourdi](conditions_hd.md#assourdi)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -59,7 +57,7 @@ The following definitions specify what happens to a creature while it is subject
 
 <Generic>
 
-# Exhaustion
+# <Name>Exhaustion</Name>
 
 - AltName: <AltName>[Fatigue et épuisement](conditions_hd.md#fatigue-et-épuisement)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -90,7 +88,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Frightened
+# <Name>Frightened</Name>
 
 - AltName: <AltName>[Terrorisé](conditions_hd.md#terrorisé)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -104,7 +102,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Grappled
+# <Name>Grappled</Name>
 
 - AltName: <AltName>[Empoigné](conditions_hd.md#empoigné)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -120,7 +118,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Incapacitated
+# <Name>Incapacitated</Name>
 
 - AltName: <AltName>[Neutralisé](conditions_hd.md#neutralisé)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -132,7 +130,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Invisible
+# <Name>Invisible</Name>
 
 - AltName: <AltName>[Invisible](conditions_hd.md#invisible)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -146,7 +144,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Paralyzed
+# <Name>Paralyzed</Name>
 
 - AltName: <AltName>[Paralysé](conditions_hd.md#paralysé)</AltName>
 - Source: <Source>(SRD p358)</Source>
@@ -164,7 +162,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Petrified
+# <Name>Petrified</Name>
 
 - AltName: <AltName>[Pétrifié](conditions_hd.md#pétrifié)</AltName>
 - Source: <Source>(SRD p359)</Source>
@@ -186,7 +184,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Poisoned
+# <Name>Poisoned</Name>
 
 - AltName: <AltName>[Empoisonné](conditions_hd.md#empoisonné)</AltName>
 - Source: <Source>(SRD p359)</Source>
@@ -198,7 +196,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Prone
+# <Name>Prone</Name>
 
 - AltName: <AltName>[À terre](conditions_hd.md#À-terre)</AltName>
 - Source: <Source>(SRD p359)</Source>
@@ -214,7 +212,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Restrained
+# <Name>Restrained</Name>
 
 - AltName: <AltName>[Entravé](conditions_hd.md#entravé)</AltName>
 - Source: <Source>(SRD p359)</Source>
@@ -230,7 +228,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Stunned
+# <Name>Stunned</Name>
 
 - AltName: <AltName>[Étourdi](conditions_hd.md#Étourdi)</AltName>
 - Source: <Source>(SRD p359)</Source>
@@ -246,7 +244,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 <Generic>
 
-# Unconscious
+# <Name>Unconscious</Name>
 
 - AltName: <AltName>[Inconscient](conditions_hd.md#inconscient)</AltName>
 - Source: <Source>(SRD p359)</Source>
@@ -261,6 +259,9 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 * Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
+</Generic>
+
+</Items>
 
 
 

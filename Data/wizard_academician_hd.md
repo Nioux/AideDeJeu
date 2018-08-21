@@ -1,16 +1,14 @@
 <Items>
 
-# Académicien
+# <Name>Académicien</Name>
 
 - Source: <Source>(MDR p169)</Source>
 
 L'académicien a suivi le cursus classique d'étude, ce qui lui permet de se spécialiser très tôt dans l'une des huit écoles de magie – abjuration, divination, enchantement, évocation, illusion, invocation, nécromancie et transmutation – afin d'y exceller.
 
-</Generic>
-
 <Generic>
 
-## Magie académique
+## <Name>Magie académique</Name>
 
 Au niveau 2, puis à chaque fois que vous gagnez un niveau, vous inscrivez dans votre grimoire et vous apprenez un sort supplémentaire qui doit être issu de votre école. Lorsque vous obtenez l'aptitude maîtrise des sorts (au niveau 18), vous devez choisir des sorts de votre école. Lorsque vous obtenez l'aptitude sorts de prédilection (au niveau 20), vous devez choisir au moins un sort de votre école.
 
@@ -18,7 +16,7 @@ Au niveau 2, puis à chaque fois que vous gagnez un niveau, vous inscrivez dans 
 
 <Generic>
 
-## Spécialisation
+## <Name>Spécialisation</Name>
 
 Dès le niveau 2, vous obtenez une aptitude qui dépend de votre école.
 
@@ -46,7 +44,7 @@ Transmutation : Amélioration. Vous apprenez le sort amélioration de caractéri
 
 <Generic>
 
-## Expertise
+## <Name>Expertise</Name>
 
 Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école de magie, ainsi dissiper ou résister aux sorts de cette école vous est plus facile que pour tout autre magicien. Vous obtenez un avantage lorsque vous faites un test d'[Intelligence] pour dissiper ou contrer un sort de votre école. Vous obtenez un avantage aux [jets de sauvegarde] que vous faites pour résister aux sorts de votre propre école, sauf si le lanceur est lui aussi un spécialiste de cette école.
 
@@ -54,7 +52,7 @@ Lorsque vous atteignez le niveau 6, vous êtes devenu un expert de votre école 
 
 <Generic>
 
-## Maîtrise
+## <Name>Maîtrise</Name>
 
 Au niveau 10, vous obtenez une nouvelle aptitude qui dépend de votre école.
 
@@ -86,7 +84,7 @@ Transmutation : Élixir. Vous pouvez lancer un sort de transmutation sur un liqu
 
 <Generic>
 
-## Haute maîtrise
+## <Name>Haute maîtrise</Name>
 
 Au niveau 14, vous obtenez les aptitudes suivantes : Sans effort. Le magicien peut maintenir actif un sort de son école de magie nécessitant une concentration en dépensant une action bonus à chaque tour. Ce sort ne nécessite aucune concentration tant que vous dépensez une action bonus à chaque round sans interruption.
 
@@ -98,6 +96,9 @@ Incantation rapide. À votre tour, vous pouvez dépenser une action bonus pour l
 
 Sorts supérieurs. Lorsque vous lancez un sort de votre école qui utilise un emplacement de sort de niveau 3 ou inférieur, vous imposez un désavantage au [jet de sauvegarde] des cibles.
 
+</Generic>
+
+</Items>
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

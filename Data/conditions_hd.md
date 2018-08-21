@@ -1,7 +1,7 @@
 
 <Items>
 
-# États spéciaux
+# <Name>États spéciaux</Name>
 
 - AltName: <AltName>[Conditions](conditions_vo.md#conditions)</AltName>
 - Source: <Source>(MDR p299)</Source>
@@ -15,11 +15,9 @@ Si divers effets imposent un même état à une créature, chaque effet a sa pro
 Les définitions suivantes expliquent les conséquences de chaque état spécial pour une créature ciblée.
 
 
-</Generic>
-
 <Generic>
 
-# À terre
+# <Name>À terre</Name>
 
 - AltName: <AltName>[Prone](conditions_vo.md#prone)</AltName>
 
@@ -34,7 +32,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Assourdi
+# <Name>Assourdi</Name>
 
 - AltName: <AltName>[Deafened](conditions_vo.md#deafened)</AltName>
 
@@ -45,7 +43,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Aveuglé
+# <Name>Aveuglé</Name>
 
 - AltName: <AltName>[Blinded](conditions_vo.md#blinded)</AltName>
 
@@ -58,7 +56,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Charmé
+# <Name>Charmé</Name>
 
 - AltName: <AltName>[Charmed](conditions_vo.md#charmed)</AltName>
 
@@ -71,7 +69,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Empoigné
+# <Name>Empoigné</Name>
 
 - AltName: <AltName>[Grappled](conditions_vo.md#grappled)</AltName>
 
@@ -86,7 +84,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Empoisonné
+# <Name>Empoisonné</Name>
 
 - AltName: <AltName>[Poisoned](conditions_vo.md#poisoned)</AltName>
 
@@ -97,7 +95,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Entravé
+# <Name>Entravé</Name>
 
 - AltName: <AltName>[Restrained](conditions_vo.md#restrained)</AltName>
 
@@ -112,7 +110,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Étourdi
+# <Name>Étourdi</Name>
 
 - AltName: <AltName>[Stunned](conditions_vo.md#stunned)</AltName>
 
@@ -127,7 +125,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Inconscient
+# <Name>Inconscient</Name>
 
 - AltName: <AltName>[Unconscious](conditions_vo.md#unconscious)</AltName>
 
@@ -148,7 +146,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Invisible
+# <Name>Invisible</Name>
 
 - AltName: <AltName>[Invisible](conditions_vo.md#invisible)</AltName>
 
@@ -161,7 +159,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Neutralisé
+# <Name>Neutralisé</Name>
 
 - AltName: <AltName>[Incapacitated](conditions_vo.md#incapacitated)</AltName>
 
@@ -172,7 +170,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Paralysé
+# <Name>Paralysé</Name>
 
 - AltName: <AltName>[Paralyzed](conditions_vo.md#paralyzed)</AltName>
 
@@ -189,7 +187,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Pétrifié
+# <Name>Pétrifié</Name>
 
 - AltName: <AltName>[Petrified](conditions_vo.md#petrified)</AltName>
 
@@ -210,7 +208,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Terrorisé
+# <Name>Terrorisé</Name>
 
 - AltName: <AltName>[Frightened](conditions_vo.md#frightened)</AltName>
 
@@ -223,7 +221,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 
 <Generic>
 
-# Fatigue et épuisement
+# <Name>Fatigue et épuisement</Name>
 
 - AltName: <AltName>[Exhaustion](conditions_vo.md#exhaustion)</AltName>
 
@@ -245,6 +243,10 @@ Une créature souffre des effets de son niveau d'épuisement actuel et de tous l
 Un effet qui réduit l'épuisement diminue son niveau du montant indiqué dans sa description. Tous les effets d'épuisement se terminent si le niveau d'épuisement de la créature est réduit à moins de 1.
 
 Une fois terminé, un repos long réduit le niveau d'épuisement d'une créature de 1, à condition qu'elle ait eu à boire et à manger.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

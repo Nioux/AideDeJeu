@@ -1,7 +1,7 @@
 
 <Items>
 
-# Elfe
+# <Name>Elfe</Name>
 
 - AltName: <AltName>Elf (SRD p4)</AltName>
 - Source: <Source>(MDR p44)</Source>
@@ -34,7 +34,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 <Generic>
 
-## Elfe d'aether
+## <Name>Elfe d'aether</Name>
 
 - AltName: <AltName>High Elf (SRD p4)</AltName>
 - Source: <Source>(MDR p45)</Source>
@@ -53,7 +53,7 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 <Generic>
 
-## Elfe de fer
+## <Name>Elfe de fer</Name>
 
 - Source: <Source>(MDR p45)</Source>
 
@@ -71,7 +71,7 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 <Generic>
 
-## Elfe des sylves
+## <Name>Elfe des sylves</Name>
 
 - Source: <Source>(MDR p45)</Source>
 
@@ -82,6 +82,10 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 **Créature des terres sauvages.** Vous avez l'habitude de parcourir les espaces naturels. Vous obtenez l'avantage sur vos tests de [Dextérité (Discrétion)] et [Sagesse (Survie)] lorsque vous parcourez des espaces naturels à la lumière du jour ou des étoiles.
 
 **Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

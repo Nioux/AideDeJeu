@@ -1,17 +1,15 @@
 <Items>
 
-# Invocations occultes
+# <Name>Invocations occultes</Name>
 
 - AltName: <AltName>Eldritch Invocations (SRD p48)</AltName>
 - Source: <Source>(MDR p213)</Source>
 
 Si une invocation occulte a des prérequis, vous ne pouvez pas apprendre cette invocation tant que vous ne remplissez pas les conditions adéquates. Dès que c'est le cas, vous êtes en mesure d'apprendre l'invocation en question. Si une des conditions est un niveau, il s'agit du niveau que vous possédez dans la classe de sorcier.
 
-</Generic>
-
 <Generic>
 
-## Armure des ombres
+## <Name>Armure des ombres</Name>
 
 Vous pouvez lancer le sort armure de mage sur vousmême à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
@@ -19,7 +17,7 @@ Vous pouvez lancer le sort armure de mage sur vousmême à volonté, sans utilis
 
 <Generic>
 
-## Buveuse de vie
+## <Name>Buveuse de vie</Name>
 
 Prérequis : niveau 12, pacte de la lame
 
@@ -29,7 +27,7 @@ Quand vous frappez une créature avec votre arme de pacte, votre cible subit une
 
 <Generic>
 
-## Chaînes de Carcères
+## <Name>Chaînes de Carcères</Name>
 
 Prérequis : niveau 15, pacte de la chaîne
 
@@ -39,7 +37,7 @@ Vous pouvez lancer le sort immobiliser un monstre à volonté sans utiliser d'em
 
 <Generic>
 
-## Explosion insoutenable
+## <Name>Explosion insoutenable</Name>
 
 Prérequis : tour de magie explosion occulte
 
@@ -49,7 +47,7 @@ Quand vous lancez explosion occulte, ajoutez votre modificateur de [Charisme] au
 
 <Generic>
 
-## Lame assoiffée
+## <Name>Lame assoiffée</Name>
 
 Prérequis : niveau 5, pacte de la lame
 
@@ -59,7 +57,7 @@ Prérequis : niveau 5, pacte de la lame
 
 <Generic>
 
-## Langage animal
+## <Name>Langage animal</Name>
 
 Vous pouvez lancer le sort communication avec les animaux à volonté, sans utiliser d'emplacement de sort.
 
@@ -67,7 +65,7 @@ Vous pouvez lancer le sort communication avec les animaux à volonté, sans util
 
 <Generic>
 
-## Lance occulte
+## <Name>Lance occulte</Name>
 
 Prérequis : tour de magie explosion occulte
 
@@ -77,7 +75,7 @@ Quand vous lancez le sort explosion occulte, sa portée est de 90 mètres.
 
 <Generic>
 
-## Lenteur de l'esprit
+## <Name>Lenteur de l'esprit</Name>
 
 Prérequis : niveau 5
 
@@ -87,7 +85,7 @@ Vous pouvez lancer lenteur en utilisant un emplacement de sort de sorcier. Vous 
 
 <Generic>
 
-## Maître des mille formes
+## <Name>Maître des mille formes</Name>
 
 Prérequis : niveau 15
 
@@ -97,7 +95,7 @@ Vous pouvez lancer le sort modifier son apparence à volonté, sans utiliser d'e
 
 <Generic>
 
-## Maître des ombres
+## <Name>Maître des ombres</Name>
 
 Prérequis : niveau 5
 
@@ -107,7 +105,7 @@ Quand vous êtes dans une zone de lumière faible ou de ténèbres, vous pouvez 
 
 <Generic>
 
-## Masque des mille visages
+## <Name>Masque des mille visages</Name>
 
 Vous pouvez lancer déguisement à volonté, sans utiliser d'emplacement de sort.
 
@@ -115,7 +113,7 @@ Vous pouvez lancer déguisement à volonté, sans utiliser d'emplacement de sort
 
 <Generic>
 
-## Mauvais présage
+## <Name>Mauvais présage</Name>
 
 Prérequis : niveau 5
 
@@ -125,7 +123,7 @@ Vous pouvez lancer jeter une malédiction en utilisant un emplacement de sort de
 
 <Generic>
 
-## Mot d'effroi
+## <Name>Mot d'effroi</Name>
 
 Prérequis : niveau 7
 
@@ -135,7 +133,7 @@ Vous pouvez lancer confusion en utilisant un emplacement de sort de sorcier. Vou
 
 <Generic>
 
-## Murmures d'outre-tombe
+## <Name>Murmures d'outre-tombe</Name>
 
 Prérequis : niveau 9
 
@@ -145,7 +143,7 @@ Vous pouvez lancer communication avec les morts à volonté, sans utiliser d'emp
 
 <Generic>
 
-## Murmures ensorcelants
+## <Name>Murmures ensorcelants</Name>
 
 Prérequis : niveau 7
 
@@ -155,7 +153,7 @@ Vous pouvez lancer le sort compulsion en utilisant un emplacement de sort de sor
 
 <Generic>
 
-## OEil du gardien des runes
+## <Name>OEil du gardien des runes</Name>
 
 Vous pouvez lire toutes les formes d'écriture.
 
@@ -163,7 +161,7 @@ Vous pouvez lire toutes les formes d'écriture.
 
 <Generic>
 
-## Onde de choc
+## <Name>Onde de choc</Name>
 
 Prérequis : tour de magie explosion occulte
 
@@ -173,7 +171,7 @@ Quand vous touchez une créature avec explosion occulte, vous pouvez utiliser ce
 
 <Generic>
 
-## Pas aérien
+## <Name>Pas aérien</Name>
 
 Prérequis : niveau 9
 
@@ -183,7 +181,7 @@ Vous pouvez lancer le sort lévitation sur vous-même à volonté, sans utiliser
 
 <Generic>
 
-## Regard de deux esprits
+## <Name>Regard de deux esprits</Name>
 
 Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utiliser ses sens pour percevoir le monde jusqu'à la fin de votre prochain tour. Tant que cette créature est sur le même plan d'existence que vous, vous pouvez utiliser votre action lors des tours suivants pour maintenir cette connexion et étendre sa durée jusqu'à la fin de votre prochain tour. Tant que vous voyez par les yeux de l'autre créature, vous bénéficiez de tous ses sens spéciaux si elle en a et vous êtes aveugle et sourd à ce qui se passe autour de votre propre corps.
 
@@ -191,7 +189,7 @@ Vous pouvez utiliser votre action pour toucher un humanoïde consentant et utili
 
 <Generic>
 
-## Saut d'outre-monde
+## <Name>Saut d'outre-monde</Name>
 
 Prérequis : niveau 9
 
@@ -201,7 +199,7 @@ Vous pouvez lancer saut sur vous-même à volonté, sans utiliser d'emplacement 
 
 <Generic>
 
-## Sbires du chaos
+## <Name>Sbires du chaos</Name>
 
 Prérequis : niveau 9
 
@@ -211,7 +209,7 @@ Vous pouvez lancer invoquer un élémentaire en utilisant un emplacement de sort
 
 <Generic>
 
-## Sculpteur de chair
+## <Name>Sculpteur de chair</Name>
 
 Prérequis : niveau 7
 
@@ -221,7 +219,7 @@ Vous pouvez lancer métamorphose en utilisant un emplacement de sort de sorcier.
 
 <Generic>
 
-## Séduction
+## <Name>Séduction</Name>
 
 Vous gagnez la maîtrise des compétences [Persuasion] et [Supercherie].
 
@@ -229,7 +227,7 @@ Vous gagnez la maîtrise des compétences [Persuasion] et [Supercherie].
 
 <Generic>
 
-## Livre des secrets anciens
+## <Name>Livre des secrets anciens</Name>
 
 Prérequis : pacte du grimoire
 
@@ -241,7 +239,7 @@ Lors de vos aventures, vous pouvez ajouter de nouveaux rituels dans votre livre 
 
 <Generic>
 
-## Vigueur fiélonne
+## <Name>Vigueur fiélonne</Name>
 
 Vous pouvez lancer simulacre de vie sur vous-même à volonté et en tant que sort de niveau 1 sans utiliser d'emplacement de sort de ou de composante matérielle.
 
@@ -249,7 +247,7 @@ Vous pouvez lancer simulacre de vie sur vous-même à volonté et en tant que so
 
 <Generic>
 
-## Vision du diable
+## <Name>Vision du diable</Name>
 
 Vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.
 
@@ -257,7 +255,7 @@ Vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à 
 
 <Generic>
 
-## Vision de sorcier
+## <Name>Vision de sorcier</Name>
 
 Prérequis : niveau 15
 
@@ -267,7 +265,7 @@ Vous pouvez voir la véritable forme de n'importe quel métamorphe ou créature 
 
 <Generic>
 
-## Vision occulte
+## <Name>Vision occulte</Name>
 
 Vous pouvez lancer détection de la magie à volonté, sans utiliser d'emplacement de sort.
 
@@ -275,7 +273,7 @@ Vous pouvez lancer détection de la magie à volonté, sans utiliser d'emplaceme
 
 <Generic>
 
-## Visions embrumées
+## <Name>Visions embrumées</Name>
 
 Vous pouvez lancer image silencieuse à volonté, sans utiliser d'emplacement de sort ou de composante matérielle.
 
@@ -283,7 +281,7 @@ Vous pouvez lancer image silencieuse à volonté, sans utiliser d'emplacement de
 
 <Generic>
 
-## Visions de royaumes lointains
+## <Name>Visions de royaumes lointains</Name>
 
 Prérequis : niveau 15
 
@@ -293,7 +291,7 @@ Vous pouvez lancer oeil magique à volonté, sans utiliser d'emplacement de sort
 
 <Generic>
 
-## Voix du maître des chaînes
+## <Name>Voix du maître des chaînes</Name>
 
 Prérequis : pacte de la chaîne
 
@@ -303,10 +301,13 @@ Vous pouvez communiquer par la pensée avec votre familier et percevoir le monde
 
 <Generic>
 
-## Voleur des cinq destinées
+## <Name>Voleur des cinq destinées</Name>
 
 Vous pouvez lancer fléau en utilisant un emplacement de sort de sorcier. Vous devez terminer un repos long avant de pouvoir utiliser cette invocation de nouveau.
 
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

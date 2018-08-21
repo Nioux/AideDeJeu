@@ -1,7 +1,7 @@
 
-<Items>
+<Generic>
 
-# Tieffelin
+# <Name>Tieffelin</Name>
 
 - AltName: <AltName>Tiefling (SRD p7)</AltName>
 - Source: <Source>(MDR p71)</Source>
@@ -27,6 +27,8 @@ Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur a
 **Ascendance infernale.** Vous connaissez le tour de magie thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer une fois le sort représailles infernales comme sort de niveau 2 grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez terminer un repos long. À partir du niveau 5, vous pouvez lancer une fois le sort ténèbres grâce à ce trait. Pour pouvoir lancer de nouveau ce sort, vous devez finir un repos long. Votre caractéristique d'incantation pour lancer ces sorts est le [Charisme].
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en infernal.
+
+</Generic>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

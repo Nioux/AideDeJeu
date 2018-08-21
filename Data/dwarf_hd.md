@@ -1,7 +1,7 @@
 
 <Items>
 
-# Nain
+# <Name>Nain</Name>
 
 - AltName: <AltName>Dwarf (SRD p3)</AltName>
 - Source: <Source>(MDR p57)</Source>
@@ -32,11 +32,9 @@ Votre personnage nain est doté d'un ensemble de capacités innées liées à sa
 
 **Langues.** Vous pouvez parler et écrire en commun et en nain. Le nain est une langue aux consonnes dures et aux sons gutturaux, des spécificités qui se retrouvent dans l'accent qu'ont les nains en parlant un autre langage.
 
-</Generic>
-
 <Generic>
 
-## Nain des tertres
+## <Name>Nain des tertres</Name>
 
 - AltName: <AltName>Hill Dwarf (SRD p3)</AltName>
 - Source: <Source>(MDR p57)</Source>
@@ -51,7 +49,7 @@ En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif
 
 <Generic>
 
-## Nain des pierres
+## <Name>Nain des pierres</Name>
 
 - Source: <Source>(MDR p57)</Source>
 
@@ -65,7 +63,7 @@ En tant que nain des pierres, vous êtes ingénieux et savez comment tourner une
 
 <Generic>
 
-## Nain des laves
+## <Name>Nain des laves</Name>
 
 - Source: <Source>(MDR p57)</Source>
 
@@ -78,6 +76,10 @@ En tant que nain des laves, vous êtes mystique, aimez résoudre rapidement les 
 **Sensibilité à la lumière.** Vous supportez mal les changements de luminosité. Lorsque la lumière augmente soudainement d'intensité (de lumière faible à lumière vive, ou d'obscurité à lumière vive), vous subissez un désavantage à tous vos tests de caractéristique nécessitant votre vue (dont les tests physique pour se précipiter, grimper ou autres). Il en va de même pour tous vos jets d'attaque, et les ennemis bénéficient d'un avantage s'ils vous attaquent au corps-à-corps. L'effet dure 3 rounds.
 
 **Résistance à la chaleur.** Vous bénéficiez d'une résistance aux dégâts de feu.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,9 +1,7 @@
 
-</Generic>
-
 <Generic>
 
-# Écoulement du temps
+# <Name>Écoulement du temps</Name>
 
 - AltName: <AltName>Time (SRD p84)</AltName>
 - Source: <Source>(MDR p270)</Source>
@@ -20,6 +18,7 @@ Puis, tout à coup, une violente attaque d’orcs sauvages les oblige à se batt
 
 Dans le cadre des combats et d’autres situations de jeu où l’action se déroule très vite et où chaque instant peut être crucial, le jeu utilise un système de rounds, le round étant une unité de temps qui dure 6 secondes.
 
+</Generic>
 
 [Acrobaties]: abilities_dexterity_hd.md#acrobaties
 [Athlétisme]: abilities_strength_hd.md#athlétisme

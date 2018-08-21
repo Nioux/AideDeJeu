@@ -1,7 +1,7 @@
 
 <Items>
 
-# Halfelin
+# <Name>Halfelin</Name>
 
 - AltName: <AltName>Halfling (SRD p4)</AltName>
 - Source: <Source>(MDR p52)</Source>
@@ -28,11 +28,9 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en halfelin. Bien que la langue des halfelins n'ait rien d'un secret, ils n'aiment pas l'apprendre aux autres. Ils écrivent très peu et n'ont donc pas énormément de livres. Leur tradition orale est par contre très riche. Presque tous les halfelins parlent le commun, une langue dont ils partagent l'alphabet, ce qui leur permet de converser avec les gens qui habitent sur les mêmes territoires qu'eux ou dont ils traversent les terres.
 
-</Generic>
-
 <Generic>
 
-## Halfelin pied-léger
+## <Name>Halfelin pied-léger</Name>
 
 - AltName: <AltName>Lightfoot (SRD p5)</AltName>
 - Source: <Source>(MDR p52)</Source>
@@ -47,7 +45,7 @@ En tant que halfelin pied-léger, vous cacher est presque une seconde nature et 
 
 <Generic>
 
-## Halfelin grand-sabot
+## <Name>Halfelin grand-sabot</Name>
 
 - Source: <Source>(MDR p52)</Source>
 
@@ -58,6 +56,10 @@ En tant que halfelin grand-sabot, vous aimez les traditions et vous êtes peu cr
 **Esprit pragmatique.** Vous obtenez un avantage sur  les tests de [Sagesse (Perspicacité)] lorsque l'on tente de vous mentir ou de vous baratiner. De plus, vous obtenez un avantage aux [jets de sauvegarde] contre les sorts de charme.
 
 **Travailleur acharné.** Vous obtenez la maîtrise d'un ensemble d'outils d'artisan au choix.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

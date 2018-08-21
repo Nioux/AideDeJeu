@@ -1,7 +1,7 @@
 
 <Items>
 
-# Lancer des sorts
+# <Name>Lancer des sorts</Name>
 
 - AltName: <AltName>Spellcasting (SRD p100)</AltName>
 - Source: <Source>(MDR p306)</Source>
@@ -10,11 +10,9 @@ La magie imprègne les mondes de Héros & Dragons et se présente souvent sous f
 
 Ce chapitre vous propose des règles pour lancer des sorts. Les personnages ont différentes manières de préparer et de lancer leurs sorts, en fonction de leur classe. Quant aux monstres, ils les utilisent à leur propre manière. Mais quoi qu'il en soit, un sort répond toujours aux règles suivantes.
 
-</Generic>
-
 <Generic>
 
-## Qu'est-ce qu'un sort ?
+## <Name>Qu'est-ce qu'un sort ?</Name>
 
 - AltName: <AltName>What Is a Spell? (SRD p100)</AltName>
 - Source: <Source>(MDR p306)</Source>
@@ -29,7 +27,7 @@ D'innombrables sorts ont été inventés au fil des millénaires, dans toute l'h
 
 <Generic>
 
-### Niveau de sort
+### <Name>Niveau de sort</Name>
 
 - AltName: <AltName>Spell Level (SRD p100)</AltName>
 - Source: <Source>(MDR p306)</Source>
@@ -42,7 +40,7 @@ Les niveaux du sort ne correspondent pas directement au niveau du personnage : b
 
 <Generic>
 
-### Les sorts connus et les sorts préparés
+### <Name>Les sorts connus et les sorts préparés</Name>
 
 - AltName: <AltName>Known and Prepared Spells (SRD p100)</AltName>
 - Source: <Source>(MDR p306)</Source>
@@ -55,7 +53,7 @@ Dans tous les cas, le nombre de sorts qu'un personnage peut garder à l'esprit �
 
 <Generic>
 
-### Emplacements de sorts
+### <Name>Emplacements de sorts</Name>
 
 - AltName: <AltName>Spell Slots (SRD p100)</AltName>
 - Source: <Source>(MDR p306)</Source>
@@ -72,7 +70,7 @@ Certains monstres et personnages disposent de pouvoirs spéciaux qui leur permet
 
 <Generic>
 
-#### Lancer un sort via un emplacement de niveau supérieur
+#### <Name>Lancer un sort via un emplacement de niveau supérieur</Name>
 
 - AltName: <AltName>Casting a Spell at a Higher Level (SRD p100)</AltName>
 - Source: <Source>(MDR p306)</Source>
@@ -85,7 +83,7 @@ Certains sorts, comme projectile magique et soins, ont un effet plus puissant qu
 
 <Generic>
 
-### Les incantations en armure
+### <Name>Les incantations en armure</Name>
 
 - AltName: <AltName>Casting in Armor (SRD p100)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -96,7 +94,7 @@ Pour incanter, il faut se concentrer intensément et exécuter des gestes préci
 
 <Generic>
 
-### Les tours de magie
+### <Name>Les tours de magie</Name>
 
 - AltName: <AltName>Cantrips (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -107,7 +105,7 @@ Un tour de magie est un sort que l'on peut lancer à volonté, sans le préparer
 
 <Generic>
 
-### Les rituels
+### <Name>Les rituels</Name>
 
 - AltName: <AltName>Rituals (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -120,7 +118,7 @@ Pour lancer un sort sous forme de rituel, le lanceur de sorts doit disposer d'un
 
 <Generic>
 
-## Lancer un sort
+## <Name>Lancer un sort</Name>
 
 - AltName: <AltName>Casting a Spell (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -133,7 +131,7 @@ Chaque description de sort présenté dans le chapitre 11, Lancer des sorts - De
 
 <Generic>
 
-### Temps d'incantation
+### <Name>Temps d'incantation</Name>
 
 - AltName: <AltName>Casting Time (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -144,7 +142,7 @@ Généralement, un sort se lance par une seule action, mais certains exigent une
 
 <Generic>
 
-#### Action bonus
+#### <Name>Action bonus</Name>
 
 - AltName: <AltName>Bonus Action (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -155,7 +153,7 @@ Un sort qui se lance par une action bonus est particulièrement rapide. Pour le 
 
 <Generic>
 
-#### Réaction
+#### <Name>Réaction</Name>
 
 - AltName: <AltName>Reactions (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -166,7 +164,7 @@ Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de
 
 <Generic>
 
-#### Long temps d'incantation
+#### <Name>Long temps d'incantation</Name>
 
 - AltName: <AltName>Longer Casting Times (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -177,7 +175,7 @@ Certains sorts (dont les rituels) exigent une période d'incantation supérieure
 
 <Generic>
 
-### Portée
+### <Name>Portée</Name>
 
 - AltName: <AltName>Range (SRD p101)</AltName>
 - Source: <Source>(MDR p307)</Source>
@@ -194,7 +192,7 @@ Une fois le sort lancé, ses effets ne sont pas limités par sa portée, à moin
 
 <Generic>
 
-### Composantes
+### <Name>Composantes</Name>
 
 - AltName: <AltName>Components (SRD p101)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -205,7 +203,7 @@ Les composantes du sort représentent les éléments physiques indispensables à
 
 <Generic>
 
-#### Verbales (V)
+#### <Name>Verbales (V)</Name>
 
 - AltName: <AltName>Verbal (V) (SRD p101)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -216,7 +214,7 @@ Pour lancer la plupart des sorts, il faut entonner des paroles mystiques. Ces mo
 
 <Generic>
 
-#### Somatiques (S)
+#### <Name>Somatiques (S)</Name>
 
 - AltName: <AltName>Somatic (S) (SRD p101)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -227,7 +225,7 @@ Les gestes à exécuter lors de l'incantation se traduisent par force gesticulat
 
 <Generic>
 
-#### Matérielles (M)
+#### <Name>Matérielles (M)</Name>
 
 - AltName: <AltName>Material (M) (SRD p102)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -242,7 +240,7 @@ Le lanceur de sorts doit avoir une main libre pour accéder à sa composante mat
 
 <Generic>
 
-### Durée
+### <Name>Durée</Name>
 
 - AltName: <AltName>Duration (SRD p102)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -253,7 +251,7 @@ La durée du sort correspond à la période pendant laquelle le sort fait effet.
 
 <Generic>
 
-#### Instantanée
+#### <Name>Instantanée</Name>
 
 - AltName: <AltName>Instantaneous (SRD p102)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -264,7 +262,7 @@ De nombreux sorts sont instantanés, ils blessent, soignent, créent ou modifien
 
 <Generic>
 
-#### Concentration
+#### <Name>Concentration</Name>
 
 - AltName: <AltName>Concentration (SRD p102)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -287,7 +285,7 @@ Le MJ peut aussi décider que certains phénomènes environnementaux, comme une 
 
 <Generic>
 
-### Cibles
+### <Name>Cibles</Name>
 
 - AltName: <AltName>Targets (SRD p102)</AltName>
 - Source: <Source>(MDR p308)</Source>
@@ -300,7 +298,7 @@ Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles q
 
 <Generic>
 
-#### Un chemin dégagé jusqu'à la cible
+#### <Name>Un chemin dégagé jusqu'à la cible</Name>
 
 - AltName: <AltName>A Clear Path to the Target (SRD p102)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -313,7 +311,7 @@ Si le lanceur de sorts positionne une zone d'effet en un point qu'il ne voit pas
 
 <Generic>
 
-#### Se prendre pour cible
+#### <Name>Se prendre pour cible</Name>
 
 - AltName: <AltName>Targeting Yourself (SRD p102)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -324,7 +322,7 @@ Si le sort vise une cible au choix du lanceur de sorts, ce dernier peut se prend
 
 <Generic>
 
-### Zone d'effet
+### <Name>Zone d'effet</Name>
 
 - AltName: <AltName>Areas of Effect (SRD p102)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -339,7 +337,7 @@ L'effet de sort s'étend en lignes droites depuis son point d'origine. Si aucune
 
 <Generic>
 
-#### Cône
+#### <Name>Cône</Name>
 
 - AltName: <AltName>Cone (SRD p103)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -352,7 +350,7 @@ Le point d'origine d'un cône n'est pas inclus dans sa zone d'effet, à moins qu
 
 <Generic>
 
-#### Cube
+#### <Name>Cube</Name>
 
 - AltName: <AltName>Cube (SRD p103)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -365,7 +363,7 @@ Le point d'origine du cube n'est pas inclus dans sa zone d'effet, à moins que l
 
 <Generic>
 
-#### Cylindre
+#### <Name>Cylindre</Name>
 
 - AltName: <AltName>Cylinder (SRD p103)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -378,7 +376,7 @@ Le point d'origine d'un cylindre est inclus dans sa zone d'effet.
 
 <Generic>
 
-#### Ligne
+#### <Name>Ligne</Name>
 
 - AltName: <AltName>Line (SRD p103)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -391,7 +389,7 @@ Le point d'origine d'une ligne n'est pas inclus dans sa zone d'effet, à moins q
 
 <Generic>
 
-#### Sphère
+#### <Name>Sphère</Name>
 
 - AltName: <AltName>Sphere (SRD p103)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -404,7 +402,7 @@ Le point d'origine de la sphère est inclus dans sa zone d'effet.
 
 <Generic>
 
-### Jets de sauvegarde
+### <Name>Jets de sauvegarde</Name>
 
 - AltName: <AltName>Saving Throws (SRD p103)</AltName>
 - Source: <Source>(MDR p309)</Source>
@@ -417,7 +415,7 @@ Le DD pour résister à un sort est de 8 + modificateur de la caractéristique d
 
 <Generic>
 
-### Jets d'attaque
+### <Name>Jets d'attaque</Name>
 
 - AltName: <AltName>Attack Rolls (SRD p103)</AltName>
 - Source: <Source>(MDR p310)</Source>
@@ -430,7 +428,7 @@ La plupart des sorts s'accompagnant d'un jet d'attaque exigent une attaque à di
 
 <Generic>
 
-### Combiner les effets magiques
+### <Name>Combiner les effets magiques</Name>
 
 - AltName: <AltName>Combining Magical Effects (SRD p104)</AltName>
 - Source: <Source>(MDR p310)</Source>
@@ -444,7 +442,7 @@ Par exemple, si deux clerc lancent bénédiction sur une même cible, cette dern
 
 <Generic>
 
-## Les écoles de magie
+## <Name>Les écoles de magie</Name>
 
 - AltName: <AltName>The Schools of Magic (SRD p103)</AltName>
 - Source: <Source>(MDR p310)</Source>
@@ -469,6 +467,9 @@ Les sorts de **nécromancie** manipulent les énergies de la vie et de la mort. 
 
 Les sorts de **transmutation** modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en créature inoffensive, renforcer un allié, faire bouger un objet sur une simple injonction ou améliorer les capacités curatives innées d'une créature pour qu'elle se remette plus vite de ses blessures.
 
+</Generic>
+
+</Items>
 
 
 

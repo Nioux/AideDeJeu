@@ -1,17 +1,15 @@
 <Items>
 
-# Le fiélon
+# <Name>Le fiélon</Name>
 
 - AltName: <AltName>The Fiend (SRD p50)</AltName>
 - Source: <Source>(MDR p215)</Source>
 
 Vous avez passé un pacte avec un fiélon des plans inférieurs, un être qui vit pour faire le mal, même si vous êtes opposé à ses ambitions. De tels êtres désirent la corruption ou la destruction de toutes choses, vous compris. Parmi les fiélons assez puissants pour forger un pacte, on trouve des seigneurs démons comme Orcus ou Baphomet, des archidiables comme Asmodée, Méphistophélès ou Bélial, des diantrefosses et des balors particulièrement puissants, ainsi que des ultroloths et autres seigneurs yugoloths.
 
-</Generic>
-
 <Generic>
 
-## Liste de sorts étendue
+## <Name>Liste de sorts étendue</Name>
 
 Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue quand vous devez apprendre un sort de sorcier. Les sorts suivants sont ajoutés dans votre liste de sorts de sorcier.
 
@@ -27,7 +25,7 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 
 <Generic>
 
-## Bénédiction du ténébreux
+## <Name>Bénédiction du ténébreux</Name>
 
 À partir du niveau 1, quand vous réduisez une créature hostile à 0 point de vie, vous gagnez un nombre de points de vie temporaire égal à votre modificateur de [Charisme] + votre niveau de sorcier (avec un minimum de 1).
 
@@ -35,7 +33,7 @@ Le fiélon vous permet de choisir des sorts dans une liste de sorts étendue qua
 
 <Generic>
 
-## Chance du ténébreux
+## <Name>Chance du ténébreux</Name>
 
 À partir du niveau 6, vous pouvez faire appel à votre protecteur pour qu'il altère le destin en votre faveur.
 
@@ -47,7 +45,7 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 <Generic>
 
-## Résistance fiélonne
+## <Name>Résistance fiélonne</Name>
 
 À partir du niveau 10, vous pouvez choisir un type de dégâts à la fin d'un repos court ou d'un repos long. Vous gagnez une résistance à ce type de dégâts jusqu'à ce que vous utilisiez cette aptitude pour en changer. Cette résistance n'est par contre pas prise en compte si vous subissez des dégâts infligés par des armes magiques ou des armes en argent.
 
@@ -55,7 +53,7 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 <Generic>
 
-## Traversée des Enfers
+## <Name>Traversée des Enfers</Name>
 
 À partir du niveau 14, quand vous réussissez à atteindre une créature avec une attaque, vous pouvez utiliser cette aptitude pour la transporter instantanément jusqu'aux plans inférieurs. La créature disparaît et est projetée à travers un paysage cauchemardesque.
 
@@ -63,6 +61,9 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre d'avoir terminé un repos long avant de pouvoir l'utiliser de nouveau.
 
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

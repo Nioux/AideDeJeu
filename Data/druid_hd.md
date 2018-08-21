@@ -1,16 +1,14 @@
 
 <Items>
 
-# Druide
+# <Name>Druide</Name>
 
 - AltName: <AltName>Druid (SRD p17)</AltName>
 - Source: <Source>(MDR p142)</Source>
 
-</Generic>
-
 <Generic>
 
-# Aptitudes de classe
+# <Name>Aptitudes de classe</Name>
 
 En tant que druide, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -42,7 +40,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -73,7 +71,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-## Druidique
+## <Name>Druidique</Name>
 
 Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de [Sagesse (Perception)] DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.
 
@@ -81,7 +79,7 @@ Vous connaissez le druidique, la langue secrète des druides. Vous pouvez parler
 
 <Generic>
 
-## Incantations
+## <Name>Incantations</Name>
 
 Vos pouvoirs découlant de l'essence divine de la nature elle-même, vous êtes en mesure de lancer des sorts qui vous permettent de manipuler cette essence selon votre volonté.
 
@@ -119,7 +117,7 @@ Vous pouvez utiliser un focaliseur druidique (voir le chapitre 5, Équipement, p
 
 <Generic>
 
-## Forme sauvage
+## <Name>Forme sauvage</Name>
 
 À partir du niveau 2, vous pouvez utiliser une action pour vous métamorphoser en un animal que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois.
 
@@ -147,7 +145,7 @@ Pendant que vous êtes transformé, les règles suivantes s'appliquent :
 
 <Generic>
 
-## Cercle druidique
+## <Name>Cercle druidique</Name>
 
 Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un cercle druidique : le cercle de la terre, le cercle des saisons, le cercle des fées ou le cercle des profondeurs. Tous sont détaillés à la fin de la section consacrée à cette classe. En fonction de votre choix, vous avez accès à différentes aptitudes aux niveaux 2, 6, 10 et 14.
 
@@ -155,7 +153,7 @@ Quand vous atteignez le niveau 2, vous décidez d'adopter les valeurs d'un cercl
 
 <Generic>
 
-## Amélioration de caractéristiques
+## <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -163,7 +161,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Jeunesse éternelle
+## <Name>Jeunesse éternelle</Name>
 
 À partir du niveau 18, la magie primitive que vous maniez vous permet de vieillir plus lentement. Pour chaque décennie qui passe, votre corps ne vieillit que d'un an.
 
@@ -171,7 +169,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Incantation animale
+## <Name>Incantation animale</Name>
 
 À partir du niveau 18, vous pouvez lancer la plupart de vos sorts de druide quelle que soit la forme que vous prenez grâce à l'aptitude forme sauvage. Vous pouvez accomplir les composantes verbales et somatiques d'un sort de druide pendant que vous avez une forme sauvage, mais vous ne pouvez pas utiliser de composantes matérielles.
 
@@ -179,7 +177,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Archidruide
+## <Name>Archidruide</Name>
 
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.
 
@@ -189,7 +187,7 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 
 <Generic>
 
-# Cercles druidiques
+# <Name>Cercles druidiques</Name>
 
 ## [Cercle de la terre]
 
@@ -199,6 +197,9 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 
 ## [Cercle des profondeurs]
 
+</Generic>
+
+</Items>
 
 [Cercle de la terre]: druid_earth_hd.md
 [Cercle des saisons]: druid_seasons_hd.md

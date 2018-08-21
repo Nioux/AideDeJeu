@@ -1,16 +1,14 @@
 
 <Items>
 
-# Clerc
+# <Name>Clerc</Name>
 
 - AltName: <AltName> (SRD p15)</AltName>
 - Source: <Source>(MDR p129)</Source>
 
-</Generic>
-
 <Generic>
 
-# Aptitudes de classe
+# <Name>Aptitudes de classe</Name>
 
 En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -42,7 +40,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -73,7 +71,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-## Incantations
+## <Name>Incantations</Name>
 
 En tant que relais de la puissance divine, vous pouvez lancer des sorts de clerc.
 
@@ -115,7 +113,7 @@ Vous pouvez utiliser un symbole sacré (voir le chapitre 5, Équipement, pages 2
 
 <Generic>
 
-## Domaine divin
+## <Name>Domaine divin</Name>
 
 Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêtre et théurge. Vous trouverez une description de chacun de ces domaines à la fin de la section consacrée à cette classe. Dès le niveau 1, le choix de votre domaine divin vous permet d'accéder à des sorts de domaine et d'autres aptitudes. Il vous permet aussi d'utiliser la canalisation d'énergie divine d'une manière supplémentaire quand vous gagnez cette aptitude au niveau 2, puis de l'améliorer aux niveaux 6, 8 et 17.
 
@@ -123,7 +121,7 @@ Choisissez un domaine divin parmi gardien des traditions, guide spirituel, prêt
 
 <Generic>
 
-## Sorts de domaines
+## <Name>Sorts de domaines</Name>
 
 Une liste de sorts spécifique est associée à chaque domaine divin. Dans le cas du clerc, cette liste dépend de la divinité que vous adorez. Une fois que vous avez appris un sort de domaine, vous pouvez considérer qu'il est toujours préparé, et il n'est pas comptabilisé dans le nombre de sorts que vous pouvez préparer chaque jour (le théurge est une exception). Si vous avez appris un sort de domaine qui n'apparaît pas dans la liste de sorts de clerc, vous pouvez quand même le considérer comme un sort de clerc en ce qui vous concerne.
 
@@ -131,7 +129,7 @@ Une liste de sorts spécifique est associée à chaque domaine divin. Dans le ca
 
 <Generic>
 
-## Canalisation d'énergie divine
+## <Name>Canalisation d'énergie divine</Name>
 
 Au niveau 2, vous gagnez la capacité de canaliser directement l'énergie divine qui émane de votre déité et vous pouvez utiliser cette énergie pour alimenter vos effets magiques. Vous débutez avec deux effets de ce type : renvoi des morts-vivants et un effet déterminé par votre domaine. Certains domaines vous permettent d'acquérir des effets supplémentaires à certains niveaux. Cela est alors indiqué dans la section les détaillant.
 
@@ -151,7 +149,7 @@ Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer u
 
 <Generic>
 
-## Amélioration de caractéristiques
+## <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -159,7 +157,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Destruction des morts-vivants
+## <Name>Destruction des morts-vivants</Name>
 
 À partir du niveau 5, quand un mort-vivant échoue à son [jet de sauvegarde] contre votre aptitude renvoi des morts-vivants, il est immédiatement détruit si son indice de dangerosité (ID) est inférieur ou égal à un certain seuil (voir le tableau destruction des morts-vivants).
 
@@ -175,7 +173,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Intervention divine
+## <Name>Intervention divine</Name>
 
 À partir du niveau 10, vous pouvez faire appel à votre déité pour qu'elle intervienne en votre faveur en cas de besoin impérieux.
 
@@ -193,7 +191,7 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 <Generic>
 
-# Domaines divins
+# <Name>Domaines divins</Name>
 
 ## [Prêtre]
 
@@ -205,6 +203,9 @@ Au niveau 20, votre déité répond automatiquement à votre appel, vous n'avez 
 
 ## [Domaine de la vie]
 
+</Generic>
+
+</Items>
 
 [Prêtre]: cleric_priest_hd.md
 [Gardien des traditions]: cleric_traditions_hd.md

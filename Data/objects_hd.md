@@ -1,7 +1,7 @@
 
 <Items>
 
-## Les objets
+## <Name>Les objets</Name>
 
 - AltName: <AltName>Objects </AltName>
 - Source: <Source>(CEO p380)(SRD p203)</Source>
@@ -10,11 +10,9 @@ Quand un personnage a besoin de scier une corde, de briser une fenêtre ou de d�
 
 Dans cette section de règle, le terme « objet » renvoie à un élément inanimé distinct, comme une fenêtre, une porte, une épée, un livre, une table, une chaise ou une pierre, pas à un bâtiment ni un véhicule qui se composent, eux, de plusieurs objets.
 
-</Generic>
-
 <Generic>
 
-### Les statistiques des objets
+### <Name>Les statistiques des objets</Name>
 
 Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armure et des points de vie à un objet destructible. Vous pouvez aussi lui attribuer des immunités, des résistances et des vulnérabilités face à certains types de dégâts.
 
@@ -32,7 +30,7 @@ Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armu
 
 <Generic>
 
-#### Classe d'armure des objets
+#### <Name>Classe d'armure des objets</Name>
 
 |Matériau|CA|
 |---|---|
@@ -48,7 +46,7 @@ Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armu
 
 <Generic>
 
-#### Points de vie des objets
+#### <Name>Points de vie des objets</Name>
 
 |Taille|Fragile|Résilient|
 |---|---|---|
@@ -58,4 +56,7 @@ Quand le facteur temps a son importance, vous pouvez attribuer une classe d'armu
 |G (chariot, fenêtre de 3 × 3 m)|5 (1d10)|27 (5d10)|
 
 
+</Generic>
+
+</Items>
 

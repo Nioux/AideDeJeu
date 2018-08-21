@@ -1,16 +1,14 @@
 
 <Items>
 
-# Moine
+# <Name>Moine</Name>
 
 - AltName: <AltName>Monk (SRD p26)</AltName>
 - Source: <Source>(MDR p176)</Source>
 
-</Generic>
-
 <Generic>
 
-# Aptitudes de classe
+# <Name>Aptitudes de classe</Name>
 
 En tant que moine, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -41,7 +39,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niveau|Bonus de maîtrise|Arts martiaux|Points de ki|Mouvement sans armure|Aptitudes|
 |---|---|---|---|---|---|
@@ -72,7 +70,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-## Défense sans armure
+## <Name>Défense sans armure</Name>
 
 Dès le niveau 1, si vous ne portez ni armure ni bouclier, votre CA est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Sagesse].
 
@@ -80,7 +78,7 @@ Dès le niveau 1, si vous ne portez ni armure ni bouclier, votre CA est égale �
 
 <Generic>
 
-## Arts martiaux
+## <Name>Arts martiaux</Name>
 
 Dès le niveau 1, votre pratique des arts martiaux vous permet de maîtriser différents styles de combat à mains nues ou avec des armes de moine, comme les épées courtes ou toutes les armes courantes qui n'ont pas la propriété à deux mains ou lourde.
 
@@ -96,7 +94,7 @@ Certains monastères utilisent des versions particulières d'armes de moines. Pa
 
 <Generic>
 
-## Ki
+## <Name>Ki</Name>
 
 À partir du niveau 2, votre entraînement vous permet d'utiliser l'énergie mystique du ki. Votre capacité à puiser dans cette énergie se présente sous la forme d'un nombre de points de ki qui dépend de votre niveau de moine (voir la colonne points de ki du tableau d'évolution du moine).
 
@@ -110,7 +108,7 @@ Certaines de vos aptitudes liées au ki permettent à votre cible de faire un [j
 
 <Generic>
 
-## Déluge de coups
+## <Name>Déluge de coups</Name>
 
 Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous pouvez dépenser 1 point de ki et utiliser une action bonus pour porter deux attaques à mains nues.
 
@@ -118,7 +116,7 @@ Immédiatement après avoir choisi l'action attaquer lors de votre tour, vous po
 
 <Generic>
 
-## Défense patiente
+## <Name>Défense patiente</Name>
 
 Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bonus lors de votre tour.
 
@@ -126,7 +124,7 @@ Vous pouvez dépenser 1 point de ki pour utiliser l'action esquiver en action bo
 
 <Generic>
 
-## Déplacement aérien
+## <Name>Déplacement aérien</Name>
 
 Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.
 
@@ -134,7 +132,7 @@ Vous pouvez dépenser 1 point de ki pour utiliser l'action se désengager ou se 
 
 <Generic>
 
-## Déplacement sans armure
+## <Name>Déplacement sans armure</Name>
 
 À partir du niveau 2, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure ni de bouclier. Ce bonus s'accroît en même temps que vos niveaux, comme indiqué dans le tableau d'évolution du moine.
 
@@ -144,7 +142,7 @@ Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surf
 
 <Generic>
 
-## Tradition monacale
+## <Name>Tradition monacale</Name>
 
 Quand vous atteignez le niveau 3, vous devez vous engager dans une tradition monacale parmi les quatre suivantes : la voie de la main ouverte, la voie des cinq animaux, la voie de l'illumination et la voie de la souplesse.
 
@@ -156,7 +154,7 @@ La tradition que vous avez choisie vous donne accès à des aptitudes spécifiqu
 
 <Generic>
 
-## Parade de projectiles
+## <Name>Parade de projectiles</Name>
 
 À partir du niveau 3, vous pouvez utiliser votre réaction pour parer ou attraper un projectile quand vous êtes touché par une attaque venant d'une arme à distance.
 
@@ -168,7 +166,7 @@ Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper
 
 <Generic>
 
-## Amélioration de caractéristiques
+## <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -176,7 +174,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Chute ralentie
+## <Name>Chute ralentie</Name>
 
 À partir du niveau 4, quand vous êtes en train de chuter, vous pouvez utiliser votre réaction afin de réduire les dégâts de chute que vous subissez d'un montant égal à cinq fois votre niveau de moine.
 
@@ -184,7 +182,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Attaque supplémentaire
+## <Name>Attaque supplémentaire</Name>
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer lors de votre tour.
 
@@ -192,7 +190,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Frappe étourdissante
+## <Name>Frappe étourdissante</Name>
 
 À partir du niveau 5, vous pouvez interférer avec le flux du ki d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de moine ou à mains nues, vous pouvez dépenser 1 point de ki pour tenter de réaliser une frappe étourdissante. La cible doit réussir un [jet de sauvegarde] de [Constitution] ou elle sera étourdie jusqu'à la fin de votre prochain tour.
 
@@ -200,7 +198,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Frappe de ki
+## <Name>Frappe de ki</Name>
 
 À partir du niveau 6, vos frappes à mains nues sont considérées comme des attaques magiques quand vous êtes confronté à des résistances ou des immunités aux attaques et aux dégâts non magiques.
 
@@ -208,7 +206,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Dérobade
+## <Name>Dérobade</Name>
 
 Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effets, comme le souffle de foudre d'un dragon bleu ou un sort de boule de feu. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
@@ -216,7 +214,7 @@ Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zone
 
 <Generic>
 
-## Tranquillité de l'esprit
+## <Name>Tranquillité de l'esprit</Name>
 
 À partir du niveau 7, vous pouvez utiliser votre action pour mettre fin à un effet qui vous affecte et qui cause l'état charmé ou terrorisé.
 
@@ -224,7 +222,7 @@ Au niveau 7, votre agilité vous permet d'éviter instinctivement certaines zone
 
 <Generic>
 
-## Pureté du corps
+## <Name>Pureté du corps</Name>
 
 Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies et aux poisons.
 
@@ -232,7 +230,7 @@ Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies
 
 <Generic>
 
-## Langage du Soleil et de la Lune
+## <Name>Langage du Soleil et de la Lune</Name>
 
 À partir du niveau 13, vous apprenez à entrer en contact avec le ki d'autres esprits, ce qui vous permet de comprendre toutes les langues. De plus, n'importe quelle créature qui a la capacité de comprendre une langue peut vous comprendre.
 
@@ -240,7 +238,7 @@ Au niveau 10, la maîtrise du ki qui vous anime vous rend immunisé aux maladies
 
 <Generic>
 
-## Âme de diamant
+## <Name>Âme de diamant</Name>
 
 À partir du niveau 14, votre contrôle du ki vous permet de maîtriser tous les [jets de sauvegarde].
 
@@ -250,7 +248,7 @@ De plus, quand vous faites un [jet de sauvegarde] et échouez, vous pouvez dépe
 
 <Generic>
 
-## Jeunesse éternelle
+## <Name>Jeunesse éternelle</Name>
 
 Au niveau 15, votre ki vous apporte ce qu'il faut pour ne souffrir aucun des désagréments de la vieillesse et vous ne pouvez pas non plus vieillir suite à un effet magique.
 
@@ -260,7 +258,7 @@ Vous pouvez toujours mourir de vieillesse, cela dit. Vous n'avez en outre plus b
 
 <Generic>
 
-## Corps vide
+## <Name>Corps vide</Name>
 
 À partir du niveau 18, vous pouvez utiliser une action et utiliser 4 points de ki pour devenir invisible pendant 1 minute. Pendant ce laps de temps, vous devenez résistant à tous les types de dégâts, sauf les dégâts de force.
 
@@ -270,7 +268,7 @@ De plus, vous pouvez utiliser 8 points de ki pour lancer le sort projection astr
 
 <Generic>
 
-## Perfection
+## <Name>Perfection</Name>
 
 Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de ki en réserve, vous regagnez automatiquement 4 points de ki.
 
@@ -278,7 +276,7 @@ Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de p
 
 <Generic>
 
-# Traditions monacales
+# <Name>Traditions monacales</Name>
 
 Il est possible de suivre quatre traditions monacales différentes dans les monastères qui se trouvent éparpillés dans le multivers. La plupart des monastères ne pratiquent qu'une seule de ces traditions, mais certains les honorent toutes et instruisent chaque moine en fonction de ses capacités et de son intérêt. Les quatre traditions se basent sur les mêmes techniques et divergent quand le disciple se montre plus performant. C'est pourquoi un moine attend le niveau 3 avant de choisir une tradition.
 
@@ -289,6 +287,10 @@ Il est possible de suivre quatre traditions monacales différentes dans les mona
 ## [Voie de l'illumination]
 
 ## [Voie de la souplesse]
+
+</Generic>
+
+</Items>
 
 [Voie de la main ouverte]: monk_openhand_hd.md
 [Voie des cinq animaux]: monk_fiveanimals_hd.md

@@ -1,12 +1,11 @@
 
 <Items>
 
-
-</Generic>
+# <Name>Équipement</Name>
 
 <Generic>
 
-## Focaliseur arcanique
+## <Name>Focaliseur arcanique</Name>
 
 - AltName: <AltName>Arcane Focus (SRD p66)</AltName>
 - Source: <Source>(MDR p230)</Source>
@@ -17,7 +16,7 @@ Un focaliseur arcanique est un objet spécial – un [orbe], un [cristal], une [
 
 <Generic>
 
-## Focaliseur druidique
+## <Name>Focaliseur druidique</Name>
 
 - AltName: <AltName>Druidic Focus (SRD p67)</AltName>
 - Source: <Source>(MDR p230)</Source>
@@ -29,7 +28,7 @@ Un focaliseur druidique peut être une [branche de houx], une [baguette][baguett
 
 <Generic>
 
-## Symbole sacré 
+## <Name>Symbole sacré</Name>
 
 - AltName: <AltName>Holy Symbol (SRD p67)</AltName>
 - Source: <Source>(MDR p233)</Source>
@@ -38,6 +37,9 @@ Un symbole sacré est la représentation d'un dieu ou d'un panthéon. Il peut s'
 
 Un [clerc] ou un [paladin] peut utiliser un symbole sacré comme focaliseur d'incantation. Afin de l'utiliser ainsi, le symbole sacré doit être tenu en main par le lanceur de sorts et être visible, ou se trouver sur son [bouclier].
 
+</Generic>
+
+</Items>
 
 [arme à distance]: weapons_hd.md#arme-à-distance
 [baguette arcanique]: equipment_hd.md#baguette-focaliseur-arcanique

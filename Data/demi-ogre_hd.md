@@ -1,7 +1,7 @@
 
-<Items>
+<Generic>
 
-# Demi-ogre
+# <Name>Demi-ogre</Name>
 
 - Source: <Source>(MDR p62)</Source>
 
@@ -30,6 +30,8 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 **Paria.** Votre nature même rend souvent les gens nerveux. Vous êtes craint par les races civilisées et méprisé par les ogres. Vous subissez d'un désavantage sur vos tests de [Charisme (Persuasion)] et [Charisme (Supercherie)]. De plus, la plupart des gens ont une attitude méfiante, au mieux, vis-àvis de vous : les gardes vous contrôlent, vous êtes victime de délit de sale gueule et il n'est pas rare que vous soyez le bouc émissaire rêvé pour les populations locales.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun ainsi que le géant.
+
+</Generic>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

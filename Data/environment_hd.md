@@ -1,18 +1,16 @@
 
 <Items>
 
-# L’environnement
+# <Name>L’environnement</Name>
 
 - AltName: <AltName>The Environment (SRD p86)</AltName>
 - Source: <Source>(MDR p274)</Source>
 
 Par définition, l’aventure rime avec l’exploration d’endroits dangereux et mystérieux. Les règles présentées dans cette section traitent des principales manières dont les aventuriers interagissent avec leur environnement dans ce genre de situations très particulières.
 
-</Generic>
-
 <Generic>
 
-# Chute
+# <Name>Chute</Name>
 
 Pour un aventurier, la chute constitue un des risques les plus courants. Suite à une chute, une créature subit 1d6 dégâts contondants pour chaque tranche de 3 mètres de chute, jusqu’à un maximum de 20d6. À moins qu’elle n’ait réussi à éviter de subir les dégâts occasionnés par la chute, la créature termine à terre.
 
@@ -20,7 +18,7 @@ Pour un aventurier, la chute constitue un des risques les plus courants. Suite �
 
 <Generic>
 
-# Asphyxie
+# <Name>Asphyxie</Name>
 
 Une créature peut retenir sa respiration pendant un nombre de minutes égal à 1 + son modificateur de Constitution, avec un minimum de 30 secondes.
 
@@ -34,7 +32,7 @@ Par exemple, une créature avec une Constitution de 14 peut retenir sa respirati
 
 <Generic>
 
-# Vision et lumière
+# <Name>Vision et lumière</Name>
 
 Les fondamentaux de la vie d’un aventurier (remarquer des dangers, trouver des objets cachés, frapper un ennemi en combat, lancer un sort contre une cible donnée, pour ne citer que quelques exemples) reposent sur la capacité d’un personnage à voir et percevoir son environnement. Les ténèbres et autres effets qui viennent amoindrir ce sens peuvent se révéler de sérieux handicaps et des dangers mortels.
 
@@ -56,7 +54,7 @@ Les ténèbres sont une zone de visibilité nulle. Les personnages se retrouvent
 
 <Generic>
 
-## Vision aveugle
+## <Name>Vision aveugle</Name>
 
 Une créature dotée du trait vision aveugle est capable de percevoir son environnement dans un périmètre donné sans avoir besoin de faire appel à sa vision. Des créatures dépourvues d’yeux comme les vases, des créatures dotées d’écholocation ou de sens particulièrement aiguisés, comme les chauves-souris et les vrais dragons, possèdent cette capacité.
 
@@ -64,7 +62,7 @@ Une créature dotée du trait vision aveugle est capable de percevoir son enviro
 
 <Generic>
 
-## Vision dans le noir
+## <Name>Vision dans le noir</Name>
 
 Dans Héros & Dragons, de nombreuses créatures ont la capacité de voir dans le noir, et plus particulièrement celles qui vivent sous terre. Une créature dotée du trait vision dans le noir peut, dans un périmètre donné, voir dans les ténèbres comme s’il s’agissait d’une zone faiblement éclairée. Les zones de ténèbres ne sont donc pour elles que des zones de visibilité réduite. Néanmoins, ces créatures ne peuvent pas distinguer les couleurs dans les ténèbres, mais seulement des nuances de gris.
 
@@ -72,7 +70,7 @@ Dans Héros & Dragons, de nombreuses créatures ont la capacité de voir dans le
 
 <Generic>
 
-## Vision parfaite
+## <Name>Vision parfaite</Name>
 
 Une créature dotée de vision parfaite peut, dans un périmètre donné, voir parfaitement dans les ténèbres et les ténèbres magiques, voir les créatures et les objets invisibles, automatiquement détecter les illusions visuelles et réussir son jet de sauvegarde contre celles-ci, percevoir la forme originale d’un métamorphe ou d’une créature transformée par magie et voir dans le plan éthéré.
 
@@ -80,7 +78,7 @@ Une créature dotée de vision parfaite peut, dans un périmètre donné, voir p
 
 <Generic>
 
-# Eau et nourriture
+# <Name>Eau et nourriture</Name>
 
 Les personnages privés d’eau ou de nourriture subissent les effets de l’épuisement. Une créature ne peut sortir de l’état d’épuisement causé par le manque de nourriture ou d’eau que si elle mange et boit en quantité suffisante.
 
@@ -88,7 +86,7 @@ Les personnages privés d’eau ou de nourriture subissent les effets de l’ép
 
 <Generic>
 
-## Nourriture
+## <Name>Nourriture</Name>
 
 Un personnage a besoin de 500 grammes de nourriture par jour. Il peut faire durer ses réserves de nourriture plus longtemps en ne mangeant que des demi-rations. Manger 250 grammes de nourriture par jour revient à passer une demi- journée sans manger.
 
@@ -100,7 +98,7 @@ Il suffit de manger normalement un jour pour remettre le compteur de journées d
 
 <Generic>
 
-## Eau
+## <Name>Eau</Name>
 
 Un personnage a besoin de boire 3 litres d’eau par jour, ou 6 litres par temps chaud. Un personnage qui ne boit que la moitié de cette quantité doit réussir un jet de sauvegarde de Constitution ou gagner un niveau d’épuisement à la fin de la journée. Si le personnage ne peut pas accéder à la quantité d’eau requise, il subit automatiquement un niveau d’épuisement à la fin de la journée.
 
@@ -110,7 +108,7 @@ Si le personnage a déjà un ou plusieurs niveaux d’épuisement, il gagne deux
 
 <Generic>
 
-# Interaction avec des objets
+# <Name>Interaction avec des objets</Name>
 
 De façon générale, il est assez simple de gérer l’interaction d’un personnage avec des objets dans le cadre du jeu.
 
@@ -125,6 +123,10 @@ Les personnages peuvent également utiliser leurs armes et leurs sorts pour endo
 Quand un objet est réduit à 0 point de vie, il se brise.
 
 Un personnage peut aussi faire un test de Force pour tenter de briser un objet. C’est au MJ de déterminer le DD d’un tel test.
+
+</Generic>
+
+</Items>
 
 [Perception]: abilities_wisdom_hd.md#perception
 [Sagesse]: abilities_wisdom_hd.md#sagesse

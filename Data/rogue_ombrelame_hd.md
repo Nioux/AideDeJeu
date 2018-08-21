@@ -1,6 +1,6 @@
 <Items>
 
-# Ombrelame
+# <Name>Ombrelame</Name>
 
 - Source: <Source>(MDR p206)</Source>
 
@@ -8,11 +8,9 @@ Si la plupart des roublards cultivent la discrétion et la manipulation, se fond
 
 Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l'obscurité, quelque chose d'inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
 
-</Generic>
-
 <Generic>
 
-## Initié
+## <Name>Initié</Name>
 
 Vous obtenez un nombre de points de sorcellerie égal à votre niveau, soit 3 points de sorcellerie au niveau 3.
 
@@ -35,7 +33,7 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 <Generic>
 
-## Incantations
+## <Name>Incantations</Name>
 
 Difficulté des [jets de sauvegarde] = 8 + bonus de maîtrise + modificateur de [Charisme]
 
@@ -47,7 +45,7 @@ Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos 
 
 <Generic>
 
-## Enfant de l'ombre
+## <Name>Enfant de l'ombre</Name>
 
 Également au niveau 3, en utilisant une action bonus, vous pouvez désigner une source de lumière non magique à une portée de 18 mètres et réduire de moitié le rayon de lumière vive qu'elle émet pendant 1 minute. La zone de lumière faible n'est pas affectée.
 
@@ -59,7 +57,7 @@ De plus, vous obtenez un avantage aux tests de [Dextérité (Discrétion)] que v
 
 <Generic>
 
-## Énergie de l'ombre
+## <Name>Énergie de l'ombre</Name>
 
 Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points de sorcellerie égal à votre bonus de maîtrise après avoir terminé un repos court.
 
@@ -69,7 +67,7 @@ Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au
 
 <Generic>
 
-## Frappe maudite
+## <Name>Frappe maudite</Name>
 
 Également au niveau 9, lorsque vous réussissez une attaque sournoise, vous pouvez dépenser 1 point de sorcellerie pour transformer les dégâts infligés par votre attaque sournoise en dégâts nécrotiques (mais pas les dégâts de l'arme). Les dégâts infligés par l'arme sont considérés comme des dégâts magiques.
 
@@ -77,7 +75,7 @@ Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au
 
 <Generic>
 
-## Ombre et magie
+## <Name>Ombre et magie</Name>
 
 À partir du niveau 13, vous pouvez lancer le sort pas brumeux en dépensant 1 point de sorcellerie.
 
@@ -87,12 +85,15 @@ Vous n'avez pas besoin de connaître ce sort et, si vous l'aviez appris, vous po
 
 <Generic>
 
-## Maître de l'ombre
+## <Name>Maître de l'ombre</Name>
 
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : apparence trompeuse, passage dimensionnel ou tromperie. Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
 
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

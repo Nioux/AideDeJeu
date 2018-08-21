@@ -1,7 +1,7 @@
 
 <Items>
 
-# Déplacement
+# <Name>Déplacement</Name>
 
 - AltName: <AltName>Movement (SRD p84)</AltName>
 - Source: <Source>(MDR p270)</Source>
@@ -12,11 +12,9 @@ Le MJ peut tout à fait choisir de faire simple pour décrire les déplacements 
 
 Cela dit, selon les scénarios, il est parfois vital de connaître exactement le temps nécessaire pour aller d’un point à un autre, que ce soit en jours, en heures ou en minutes. La règle qui permet de déterminer ce temps de trajet dépend de deux facteurs : la vitesse et le rythme de déplacement des créatures, et le type terrain parcouru.
 
-</Generic>
-
 <Generic>
 
-# Vitesse
+# <Name>Vitesse</Name>
 
 Chaque personnage ou monstre est caractérisé par une vitesse qui correspond à la distance que ce personnage ou monstre peut parcourir en 1 round. Ce nombre correspond à un mouvement rapide et volontaire au coeur d’une situation dangereuse.
 
@@ -26,7 +24,7 @@ Les règles suivantes permettent de déterminer la distance que peut parcourir u
 
 <Generic>
 
-# Rythme de déplacement
+# <Name>Rythme de déplacement</Name>
 
 Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voyage : normal, rapide ou lent, comme vous pouvez le voir dans le tableau rythmes de déplacement. Ce tableau indique quelle distance le groupe parcourt en un temps donné et si ce rythme implique un effet. Une marche rapide implique que les personnages sont moins attentifs à ce qui les entoure, tandis qu’une marche lente leur permet de se déplacer plus furtivement et d’étudier un endroit avec plus d’attention.
 
@@ -34,7 +32,7 @@ Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voya
 
 <Generic>
 
-## Marche forcée
+## <Name>Marche forcée</Name>
 
 Les chiffres indiqués dans le tableau partent du principe que les personnages marchent 8 heures par jour. Ils peuvent dépasser cette durée, mais risquent alors l’épuisement.
 
@@ -44,7 +42,7 @@ Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de ba
 
 <Generic>
 
-## Montures et véhicules
+## <Name>Montures et véhicules</Name>
 
 De nombreux animaux sont capables de se déplacer bien plus rapidement que les humanoïdes sur de courtes périodes de temps (jusqu’à une heure). Un personnage sur une monture peut galoper pendant environ une heure, pendant laquelle il couvre le double de la distance normale d’une marche rapide. S’il échange sa monture contre une monture « fraîche » tous les 12 à 15 km, un personnage peut couvrir de grandes distances à cette vitesse, mais c'est un cas de figure très rare, sauf dans les régions densément peuplées et à condition d’en avoir les moyens.
 
@@ -56,7 +54,7 @@ Certaines montures spéciales, comme un pégase ou un griffon, ou un véhicule s
 
 <Generic>
 
-# Terrain difficile
+# <Name>Terrain difficile</Name>
 
 La distance parcourue donnée dans le tableau des rythmes de déplacement a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.
 
@@ -66,7 +64,7 @@ Sur un terrain difficile, vous vous déplacez à la moitié de votre vitesse (pa
 
 <Generic>
 
-# Types de mouvement spéciaux
+# <Name>Types de mouvement spéciaux</Name>
 
 Dans des souterrains où le danger rôde à chaque pas, en pleine montagne ou en territoire ennemi, la plupart du temps, les aventuriers ne se contentent pas de marcher tranquillement. Ils doivent escalader, ramper, nager ou sauter pour atteindre leur destination.
 
@@ -74,7 +72,7 @@ Dans des souterrains où le danger rôde à chaque pas, en pleine montagne ou en
 
 <Generic>
 
-# Escalader, nager et ramper
+# <Name>Escalader, nager et ramper</Name>
 
 Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mètre supplémentaire (et 2 mètres s’il s’agit d’un terrain difficile), sauf si vous possédez une vitesse d’escalade ou de nage. Le MJ peut choisir, quand vous tentez d’escalader une surface verticale et glissante, ou qui ne présente que peu de prises, de vous faire faire un test de [Force (Athlétisme)]. De la même manière, si vous devez vous déplacer dans des eaux agitées, vous aurez peut-être à effectuer un [test de Force] ([Athlétisme]).
 
@@ -82,7 +80,7 @@ Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mè
 
 <Generic>
 
-# Sauter
+# <Name>Sauter</Name>
 
 Votre Force détermine la longueur que vous pouvez parcourir en sautant.
 
@@ -90,7 +88,7 @@ Votre Force détermine la longueur que vous pouvez parcourir en sautant.
 
 <Generic>
 
-## Saut en longueur
+## <Name>Saut en longueur</Name>
 
 Quand vous faites un saut en longueur, à condition de prendre au moins 3 mètres d’élan au sol immédiatement avant de sauter, vous parcourez 0,3 mètres × votre valeur de Force. Quand vous faites un saut en longueur sans élan, vous ne pouvez parcourir que la moitié de cette distance. Dans tous les cas, chaque mètre parcouru en saut réduit d’autant votre déplacement.
 
@@ -102,11 +100,15 @@ Quand vous vous trouvez sur un terrain difficile, vous devez réussir un test de
 
 <Generic>
 
-## Saut en hauteur
+## <Name>Saut en hauteur</Name>
 
 Quand vous faites un saut en hauteur, vous sautez dans les airs d’un nombre de mètres égal à 1 + 0,3 × votre modificateur de [Force], à condition de prendre au moins 3 mètres d’élan au sol immédiatement avant de sauter. Quand vous faites un saut en hauteur sans élan, vous ne pouvez sauter que la moitié de la hauteur avec élan. Dans tous les cas, chaque mètre parcouru en hauteur réduit d’autant votre déplacement. Dans certaines circonstances, votre MJ peut vous permettre de faire un [test de Force] ([Athlétisme]) pour sauter plus haut que vous ne le pourriez normalement.
 
 Vous pouvez tendre les bras au-dessus de vous jusqu’à la moitié de votre propre taille pendant le saut. Vous pouvez ainsi atteindre une hauteur égale à la hauteur du saut plus une fois et demi votre taille.
+
+</Generic>
+
+</Items>
 
 [Acrobaties]: abilities_dexterity_hd.md#acrobaties
 [Athlétisme]: abilities_strength_hd.md#athlétisme

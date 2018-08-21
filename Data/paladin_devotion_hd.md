@@ -1,6 +1,6 @@
 <Items>
 
-# Serment de dévotion
+# <Name>Serment de dévotion</Name>
 
 - AltName: <AltName>Oath of Devotion (SRD p32)</AltName>
 - Source: <Source>(MDR p186)</Source>
@@ -9,11 +9,9 @@ Le serment de dévotion engage un paladin à suivre les idéaux de justice, de v
 
 Parfois appelés cavaliers, chevaliers blancs ou guerriers saints, ces paladins incarnent l'idéal romantique du chevalier dont les actions sont guidées par l'honneur, la justice et le bien commun. Ces paladins suivent des codes de conduite d'une exigence extrême et nombre d'entre eux, pour le meilleur ou pour le pire, s'attendent à ce que tout le monde respecte le même code. De nombreux individus qui ont prêté ce serment croient en des divinités associées à la loi et au bien, et ils font des préceptes de leur dieu l'aune à laquelle ils évaluent leur dévotion. Pour les paladins, les anges, qui sont les parfaits serviteurs du bien, représentent des idéaux et ils intègrent des représentations d'ailes d'anges sur leurs casques ou sur leurs armoiries.
 
-</Generic>
-
 <Generic>
 
-## Préceptes de dévotion
+## <Name>Préceptes de dévotion</Name>
 
 Bien que les termes exacts et les limites imposées par le serment de dévotion varient, les paladins qui ont prêté ce serment en partagent tous les préceptes fondamentaux.
 
@@ -31,7 +29,7 @@ Devoir. Soyez responsable de vos actions et de leurs conséquences, protégez ce
 
 <Generic>
 
-## Sorts de serment
+## <Name>Sorts de serment</Name>
 
 Vous avez accès aux sorts de paladins de la liste suivante.
 
@@ -47,7 +45,7 @@ Vous avez accès aux sorts de paladins de la liste suivante.
 
 <Generic>
 
-## Canalisation d'énergie divine
+## <Name>Canalisation d'énergie divine</Name>
 
 Quand vous prêtez serment au niveau 3, vous pouvez décliner votre aptitude canalisation d'énergie divine de deux façons différentes.
 
@@ -61,7 +59,7 @@ Renvoi des impies. Vous pouvez utiliser une action pour utiliser l'aptitude cana
 
 <Generic>
 
-## Aura de dévotion
+## <Name>Aura de dévotion</Name>
 
 À partir du niveau 7, vous et les créatures amicales qui se trouvent à 3 mètres de vous ne pouvez pas être charmés.
 
@@ -73,7 +71,7 @@ Au niveau 18, le rayon de cette aura s'étend à 9 mètres.
 
 <Generic>
 
-## Pureté de l'esprit
+## <Name>Pureté de l'esprit</Name>
 
 À partir du niveau 15, vous êtes toujours sous l'effet du sort protection contre le mal et le bien.
 
@@ -81,7 +79,7 @@ Au niveau 18, le rayon de cette aura s'étend à 9 mètres.
 
 <Generic>
 
-## Halo sacré
+## <Name>Halo sacré</Name>
 
 Au niveau 20, vous pouvez utiliser une action pour qu'une aura solaire se dégage de vous. Pendant 1 minute, une lumière vive émane de vous dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires.
 
@@ -91,6 +89,9 @@ Pendant tout le temps que perdure ce halo, vous obtenez un avantage sur les [jet
 
 Après un usage de cette aptitude, vous devez terminer un repos long pour la recharger.
 
+</Generic>
+
+</Items>
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

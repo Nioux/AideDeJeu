@@ -1,16 +1,14 @@
 
 <Items>
 
-# Sorcier
+# <Name>Sorcier</Name>
 
 - AltName: <AltName>Warlock (SRD p46)</AltName>
 - Source: <Source>(MDR p209)</Source>
 
-</Generic>
-
 <Generic>
 
-# Aptitudes de classe
+# <Name>Aptitudes de classe</Name>
 
 En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -43,7 +41,7 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|
 |---|---|---|---|---|---|---|---|
@@ -73,7 +71,7 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 
 <Generic>
 
-## Protecteur de l'outre-monde
+## <Name>Protecteur de l'outre-monde</Name>
 
 Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre choix : un fiélon, un seigneur immortel, une puissance des profondeurs ou une entité extra-dimensionnelle. Chacun est détaillé à la fin de la section consacrée à cette classe. Ce choix vous permet de bénéficier de certaines aptitudes particulières au niveau 1 puis aux niveaux 6, 10 et 14.
 
@@ -81,7 +79,7 @@ Au niveau 1, vous avez passé un pacte avec un être de l'outre-monde de votre c
 
 <Generic>
 
-# Magie de pacte
+# <Name>Magie de pacte</Name>
 
 Vos recherches ésotériques ainsi que la magie dont vous a fait don votre protecteur vous permettent de lancer des sorts avec facilité.
 
@@ -125,7 +123,7 @@ Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour
 
 <Generic>
 
-# Invocations occultes
+# <Name>Invocations occultes</Name>
 
 Vos recherches ésotériques vous ont permis de découvrir des invocations occultes, fragments d'un savoir interdit, qui vous confèrent des capacités magiques permanentes.
 
@@ -135,17 +133,17 @@ Une fois que vous atteignez certains niveaux de sorcier, vous pouvez apprendre d
 
 De plus, quand vous gagnez un niveau dans cette classe, vous pouvez choisir une invocation que vous connaissez et la remplacer par une autre que vous pouvez apprendre à ce niveau.
 
-</LinkItem>
+</Generic>
 
 <LinkItem>
 
-# [Pacte](warlock_pact_hd.md)
+# <NameLink>[Pacte](warlock_pact_hd.md)</NameLink>
 
-</Generic>
+</LinkItem>
 
 <Generic>
 
-# Amélioration de caractéristiques
+# <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -153,7 +151,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-# Arcanum mystique
+# <Name>Arcanum mystique</Name>
 
 Au niveau 11, votre protecteur vous transmet un secret magique appelé un arcanum. Choisissez un sort de niveau 6 dans la liste de sorts de sorcier pour qu'il devienne cet arcanum.
 
@@ -165,21 +163,21 @@ Au fil de votre progression, vous obtenez de nouveaux sorts de sorciers de votre
 
 <Generic>
 
-# Maître de l'occulte
+# <Name>Maître de l'occulte</Name>
 
 Au niveau 20, vous pouvez puiser dans vos réserves d'énergie mystique et demander à votre protecteur de regagner vos emplacements de sorts utilisés. Vous passez 1 minute à demander l'aide de votre protecteur pour qu'il vous fasse regagner tous les emplacements de sorts liés à votre aptitude magie de pacte. Dès que vous avez utilisé cette aptitude pour regagner vos emplacements de sorts, vous devrez attendre d'avoir terminé un repos long avant de pouvoir de nouveau faire appel à votre protecteur de la sorte.
 
-</LinkItem>
+</Generic>
 
 <LinkItem>
 
-# [Invocations occultes](warlock_occultsummons_hd.md)
+# <NameLink>[Invocations occultes](warlock_occultsummons_hd.md)</NameLink>
 
-</Generic>
+</LinkItem>
 
 <Generic>
 
-# Protecteurs d'outre-monde
+# <Name>Protecteurs d'outre-monde</Name>
 
 Les êtres qui acceptent d'être les protecteurs des sorciers sont de puissantes créatures habitant d'autres plans d'existence. Ce ne sont pas des dieux, mais leurs pouvoirs sont quasi divins. Ces protecteurs accordent divers pouvoirs et invocations à leurs sorciers, mais ils attendent des faveurs significatives en retour.
 
@@ -200,7 +198,7 @@ Des sorciers qui servent un même protecteur peuvent se voir comme des alliés, 
 
 <Generic>
 
-# Votre pacte
+# <Name>Votre pacte</Name>
 
 À chaque pacte est associé une créature ou un objet spécial qui reflète la nature de votre protecteur.
 
@@ -210,6 +208,9 @@ Pacte de la lame. Si votre protecteur est le seigneur immortel, votre arme corre
 
 Pacte du grimoire. Votre livre des ombres peut être un ouvrage très ancien, noir et or, hérité du seigneur immortel. Mais il s'agit peutêtre aussi d'un lourd grimoire relié avec du cuir de démon et garni de clous de fers contenant des sorts d'invocation et une grande quantité de connaissances interdites sur les régions les plus sinistres du cosmos, qui vous a été offert par le fiélon. Le grimoire de la puissance des profondeurs peut être un simple rouleau de papyrus d'un âge incroyable ou une tablette de pierre ornée de hyéroglyphes changeants. Enfin, celui de l'entité extra-dimensionnelle prend probablement la forme d'un cristal translucide ou d'un cube de métal sur lequel seul un initié peut faire apparaître les runes étranges qui véhiculent les secrets de votre magie.
 
+</Generic>
+
+</Items>
 
 [Le fiélon]: warlock_fiendish_hd.md
 [Le seigneur immortel]: warlock_immortal_hd.md

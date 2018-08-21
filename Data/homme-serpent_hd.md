@@ -1,7 +1,7 @@
 
-<Items>
+<Generic>
 
-# Homme serpent
+# <Name>Homme serpent</Name>
 
 - Source: <Source>(MDR p66)</Source>
 
@@ -24,6 +24,8 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 **Métamorphe.** Vous êtes capable de transformer votre corps afin de recouvrer, momentanément, la forme primale de vos ancêtres. Vous pouvez utiliser une action afin de vous métamorphoser. Vos jambes deviennent un corps de serpent, mais vous conservez votre tronc, votre tête et vos bras. Sous cette forme, vous obtenez un avantage à vos tests de [Charisme (Intimidation)] et de [Force (Athlétisme)]. De plus, lorsque vous escaladez une surface, votre vitesse de déplacement correspond à votre vitesse de déplacement normale. Alternativement, vous pouvez utiliser ce pouvoir afin de ressembler à un être humain normal. Votre visage devient humain et votre queue disparaît. Votre transformation n'est pas parfaite : un individu peut dépenser une action pour vous examiner et effectuer un test d'[Intelligence (Investigation)] contre une difficulté de 8 + votre modificateur d'[Intelligence] + votre bonus de maîtrise. S'il le réussit, il réalise que quelque chose ne va pas, aperçoit l'espace d'un instant vos pupilles fendues, remarque furtivement des écailles sur votre main, etc. Votre forme humaine est constante : vous ne pouvez changer de visage ou de couleur de cheveux, par exemple, et encore moins prendre l'apparence d'une autre personne. Maintenir l'une ou l'autre de ces formes vous demande de maintenir votre concentration. Une fois la concentration brisée, vous reprenez votre forme humanoïde de base. Vous devez effectuer un repos long avant de pouvoir utiliser de nouveau cette capacité.
 
 **Hypnose.** Comme tous les vôtres, vous avez appris à infuser votre regard d'une étrange lueur. Vous pouvez utiliser une action bonus afin de tenter d'hypnotiser une créature se trouvant à 1,50 mètre ou moins de vous, et pouvant vous regarder dans les yeux. Vous lancez ainsi le sort charme-personne comme un sort de niveau 1. Vous devez terminer un repos long avant de pouvoir utiliser de nouveau cette capacité. Votre caractéristique d'incantation pour lancer ce sort est le [Charisme].
+
+</Generic>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

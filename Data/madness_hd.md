@@ -1,18 +1,16 @@
 
 <Items>
 
-## La folie
+## <Name>La folie</Name>
 
 - AltName: <AltName>Madness</AltName>
 - Source: <Source>(CEO p380)(SRD p201)</Source>
 
 Dans une campagne ordinaire, il est bien rare que les personnages deviennent fous à force d'affronter de multiples horreurs et de se livrer à maints carnages, cependant, parfois, le stress de la vie d'aventurier devient un poids trop lourd à porter. Si l'horreur tient une place de choix parmi les thèmes de votre campagne, vous pouvez utiliser la folie pour lui donner encore plus d'importance et mettre en valeur la nature horrifiante hors du commun des dangers à surmonter.
 
-</Generic>
-
 <Generic>
 
-### Devenir fou
+### <Name>Devenir fou</Name>
 
 Divers effets magiques sont capables de plonger un esprit normalement stable dans la démence. Certains sorts, comme [contacter un autre plan] et [symbole] mènent parfois à la folie et vous pouvez utiliser les règles données ici pour gérer ce phénomène au lieu d'utiliser les effets décrits avec chaque sort. La démence peut aussi découler d'une maladie, d'un empoisonnement ou d'un effet planaire comme un vent psychique ou les vents hurlants de l'enfer. Certains artefacts sont aussi à même de briser la psyché du personnage qui les utilise ou s'harmonise avec eux.
 
@@ -22,7 +20,7 @@ Pour résister à un effet entraînant la démence, il faut généralement réus
 
 <Generic>
 
-### Les effets de la folie
+### <Name>Les effets de la folie</Name>
 
 La démence peut être de courte durée, de longue durée ou de durée illimitée. Les effets ordinaires entraînent souvent une démence de courte durée, durant quelques minutes tout au plus. Des effets bien plus atroces ou cumulables se soldent par une démence à long terme voire à durée illimitée.
 
@@ -36,7 +34,7 @@ Un personnage victime d'une **folie à durée illimitée** acquiert un défaut t
 
 <Generic>
 
-### Soigner la folie
+### <Name>Soigner la folie</Name>
 
 Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis qu'une restauration partielle peut débarrasser un personnage d'une folie de courte ou longue durée. Selon l'origine de la démence, [lever une malédiction] ou [dissipation du mal] fonctionne parfois. En revanche, il faut recourir à une [restauration suprême] ou une magie encore plus puissante pour débarrasser un personnage d'une folie à durée illimitée.
 
@@ -46,7 +44,7 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 
 <Generic>
 
-#### Folie passagère
+#### <Name>Folie passagère</Name>
 
 |d100|Effet (durant 1d10 minutes)|
 |---|---|
@@ -66,7 +64,7 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 
 <Generic>
 
-#### Folie persistante
+#### <Name>Folie persistante</Name>
 
 |d100|Effet (durant 1d10 × 10 heures)|
 |---|---|
@@ -88,7 +86,7 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 
 <Generic>
 
-#### Folie à durée illimitée
+#### <Name>Folie à durée illimitée</Name>
 
 |d100|Défaut (jusqu'à guérison)|
 |---|---|
@@ -105,5 +103,8 @@ Le sort [apaisement des émotions] peut supprimer les effets de la folie, tandis
 |86-95|« Je suis incapable de prendre quelque chose au sérieux. Plus la situation est grave, plus je la trouve marrante. »|
 |96-100|« Je viens de découvrir que j'adore tuer des gens. »|
 
+</Generic>
+
+</Items>
 
 

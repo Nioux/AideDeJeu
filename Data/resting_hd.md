@@ -1,7 +1,7 @@
 
 <Items>
 
-# Repos
+# <Name>Repos</Name>
 
 - AltName: <AltName>Resting (SRD p87)</AltName>
 - Source: <Source>(MDR p303)</Source>
@@ -10,11 +10,9 @@ Même si les aventuriers sont des héros, il est impossible de passer ses journ�
 
 Au cours d’une journée, les aventuriers peuvent observer des périodes de repos court. À la fin d’une journée, on parle d’une période de repos long. Il est aussi possible de choisir de récupérer pendant un moment de répit (voir Entre les aventures, page 278 du chapitre 8).
 
-</Generic>
-
 <Generic>
 
-## Repos court
+## <Name>Repos court</Name>
 
 Un repos court est une période de repos d’au moins 1 heure pendant laquelle un personnage ne fait rien de plus fatigant que de manger, boire, lire et panser ses blessures.
 
@@ -28,7 +26,7 @@ Un personnage regagne une partie des dés de vie utilisés après un repos long,
 
 <Generic>
 
-## Repos long
+## <Name>Repos long</Name>
 
 Un repos long est une période de repos d’au moins 8 heures, pendant laquelle un personnage dort ou n’entreprend que des activités reposantes, comme lire, parler, manger. S’il monte la garde, il ne peut pas le faire pendant plus de 2 heures. Si ce repos est interrompu par une période d’activité soutenue, comme par exemple 1 heure passée à marcher, se battre, lancer des sorts, ou tout autre activité similaire, tout le temps passé dans l’optique d’un repos long est perdu. Le personnage doit recommencer la période de repos long du début pour en tirer bénéfice.
 
@@ -38,5 +36,8 @@ Par exemple, si un personnage possède 8 dés de vie, il peut en regagner 4 au m
 
 Un personnage ne peut profiter qu’une fois par période de 24 heures des bénéfices conférés par un repos long et, pour cela, il doit avoir au moins 1 point de vie au début de cette période de repos.
 
+</Generic>
+
+</Items>
 
 

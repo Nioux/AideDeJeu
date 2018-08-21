@@ -1,16 +1,14 @@
 
 <Items>
 
-# Ensorceleur
+# <Name>Ensorceleur</Name>
 
 - AltName: <AltName>Sorcerer (SRD p41)</AltName>
 - Source: <Source>(MDR p152)</Source>
 
-</Generic>
-
 <Generic>
 
-# Aptitudes de classe
+# <Name>Aptitudes de classe</Name>
 
 En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -42,7 +40,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niv.|Bonus de maîtrise|Points de sorcellerie|Aptitudes|Tours de magie connus|Sorts connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -74,7 +72,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Incantations
+# <Name>Incantations</Name>
 
 Il est arrivé quelque chose à l'un de vos parents, de vos ancêtres ou à vous, qui vous a profondément marqué et a révélé en vous la capacité d'utiliser la magie.
 
@@ -116,7 +114,7 @@ Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour
 
 <Generic>
 
-## Origine magique
+## <Name>Origine magique</Name>
 
 Choisissez une origine qui explique la source de vos pouvoirs magiques innés : lignée draconique, lignée céleste, lignée féerique ou lignée infernale. Ces origines sont détaillées à la fin de la section consacrée à cette classe.
 
@@ -126,7 +124,7 @@ Votre choix vous permet d'accéder à certaines aptitudes particulières quand v
 
 <Generic>
 
-## Source de magie
+## <Name>Source de magie</Name>
 
 Au niveau 2, vous pouvez puiser dans la profonde réserve de magie qui réside en vous. Cette source de magie est représentée par les points de sorcellerie qui vous permettent de créer de nombreux effets magiques.
 
@@ -134,7 +132,7 @@ Au niveau 2, vous pouvez puiser dans la profonde réserve de magie qui réside e
 
 <Generic>
 
-## Points de sorcellerie
+## <Name>Points de sorcellerie</Name>
 
 Vous commencez avec 2 points de sorcellerie et vous en gagnez d'autres en progressant dans cette classe, comme vous pouvez le constater dans la colonne points de sorcellerie du tableau d'évolution de l'ensorceleur. Vous ne pouvez jamais avoir plus de points de sorcellerie que ceux indiqués par le tableau pour votre niveau. Vous regagnez vos points de sorcellerie après un repos long.
 
@@ -142,7 +140,7 @@ Vous commencez avec 2 points de sorcellerie et vous en gagnez d'autres en progre
 
 <Generic>
 
-## Flexibilité incantatoire
+## <Name>Flexibilité incantatoire</Name>
 
 Vous pouvez utiliser vos points de sorcellerie pour gagner des emplacements de sorts supplémentaires ou sacrifier des emplacements de sorts pour gagner des points de sorcellerie supplémentaires. Vous apprenez de nouvelles façons d'utiliser vos points de sorcellerie au fur et à mesure de votre évolution dans cette classe.
 
@@ -154,7 +152,7 @@ Tout emplacement de sort que vous avez créé grâce à cette méthode disparaî
 
 <Generic>
 
-## Création d'emplacements de sorts
+## <Name>Création d'emplacements de sorts</Name>
 
 |Niveau d'emplacement de sort|Points de sorcellerie dépensés|
 |---|---|
@@ -170,7 +168,7 @@ Convertir un emplacement de sort en points de sorcellerie. Lors de votre tour, v
 
 <Generic>
 
-## Métamagie
+## <Name>Métamagie</Name>
 
 Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins. Vous gagnez deux options de métamagie de votre choix parmi les suivantes.
 
@@ -182,7 +180,7 @@ Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous
 
 <Generic>
 
-## Invocation prudente
+## <Name>Invocation prudente</Name>
 
 Quand vous lancez un sort qui force d'autres créatures à faire un [jet de sauvegarde], vous pouvez choisir d'atténuer l'effet du sort pour certaines de ces créatures. Dépensez 1 point de sorcellerie et sélectionnez un nombre de créatures dont le maximum est égal à votre modificateur de [Charisme] (avec un minimum d'une créature).
 
@@ -192,7 +190,7 @@ Les créatures désignées réussissent automatiquement leur [jet de sauvegarde]
 
 <Generic>
 
-## Sort distant
+## <Name>Sort distant</Name>
 
 Quand vous lancez un sort qui a une portée de 1,50 mètre ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler la portée de ce sort.
 
@@ -202,7 +200,7 @@ Quand vous lancez un sort de contact, vous pouvez dépenser 1 point de sorceller
 
 <Generic>
 
-## Sort puissant
+## <Name>Sort puissant</Name>
 
 Quand vous lancez les dés de dégâts d'un sort, vous pouvez dépenser 1 point de sorcellerie pour annuler les résultats d'un nombre de dés de dégâts inférieur ou égal à votre modificateur de [Charisme] (avec un minimum de un) et les relancer. Vous devez utiliser les résultats du nouveau lancer.
 
@@ -212,7 +210,7 @@ Vous pouvez utiliser sort puissant même si vous avez déjà utilisé une autre 
 
 <Generic>
 
-## Sort étendu
+## <Name>Sort étendu</Name>
 
 Quand vous lancez un sort qui dure 1 minute ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler sa durée jusqu'à un maximum de 24 heures.
 
@@ -220,7 +218,7 @@ Quand vous lancez un sort qui dure 1 minute ou plus, vous pouvez dépenser 1 poi
 
 <Generic>
 
-## Sort intense
+## <Name>Sort intense</Name>
 
 Quand vous lancez un sort qui force une créature à faire un [jet de sauvegarde] pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour infliger un désavantage à la cible lors de son premier [jet de sauvegarde] contre le sort.
 
@@ -228,7 +226,7 @@ Quand vous lancez un sort qui force une créature à faire un [jet de sauvegarde
 
 <Generic>
 
-## Sort accéléré
+## <Name>Sort accéléré</Name>
 
 Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez dépenser 2 points de sorcellerie pour transformer ce temps d'incantation en une action bonus pour cette fois-ci.
 
@@ -236,7 +234,7 @@ Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pou
 
 <Generic>
 
-## Sort subtil
+## <Name>Sort subtil</Name>
 
 Quand vous lancez un sort, vous pouvez dépenser 1 point de sorcellerie pour le lancer sans utiliser de composante verbale ni somatique.
 
@@ -244,7 +242,7 @@ Quand vous lancez un sort, vous pouvez dépenser 1 point de sorcellerie pour le 
 
 <Generic>
 
-## Sort jumeau
+## <Name>Sort jumeau</Name>
 
 Quand vous lancez un sort qui a pour cible une seule créature et dont la portée n'est pas personnelle, vous pouvez dépenser un nombre de points de sorcellerie égal au niveau du sort pour cibler une seconde créature qui se trouve à portée avec le même sort (1 point de sorcellerie s'il s'agit d'un tour de magie).
 
@@ -252,7 +250,7 @@ Quand vous lancez un sort qui a pour cible une seule créature et dont la porté
 
 <Generic>
 
-## Amélioration de caractéristiques
+## <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -260,7 +258,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Régénération de l'ensorceleur
+## <Name>Régénération de l'ensorceleur</Name>
 
 Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
@@ -268,7 +266,7 @@ Au niveau 20, un repos court vous permet de regagner 4 points de sorcellerie.
 
 <Generic>
 
-# Origines magiques
+# <Name>Origines magiques</Name>
 
 La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si de nombreuses variantes existent, on peut néanmoins les regrouper en grandes lignées : draconique, céleste, féerique et infernale.
 
@@ -279,6 +277,10 @@ La magie innée des ensorceleurs peut provenir de plusieurs origines. Même si d
 ## [Lignée féerique]
 
 ## [Lignée infernale]
+
+</Generic>
+
+</Items>
 
 [Lignée draconique]: sorcerer_draconic_hd.md
 [Lignée céleste]: sorcerer_celestial_hd.md

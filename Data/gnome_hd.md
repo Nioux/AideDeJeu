@@ -1,7 +1,7 @@
 
 <Items>
 
-# Gnome
+# <Name>Gnome</Name>
 
 - AltName: <AltName>Gnome (SRD p6)</AltName>
 - Source: <Source>(MDR p48)</Source>
@@ -26,11 +26,9 @@ Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en gnome. La langue gnome utilise le même alphabet que les nains (le Runique). Les gnomes sont renommés pour leurs traités techniques et leurs catalogues de connaissances sur la nature.
 
-</Generic>
-
 <Generic>
 
-## Gnome des roches
+## <Name>Gnome des roches</Name>
 
 - AltName: <AltName>Rock Gnome (SRD p6)</AltName>
 - Source: <Source>(MDR p48)</Source>
@@ -53,7 +51,7 @@ Quand vous créez un mécanisme, vous avez le choix entre trois options :
 
 <Generic>
 
-## Gnome des fées
+## <Name>Gnome des fées</Name>
 
 - Source: <Source>(MDR p49)</Source>
 
@@ -67,7 +65,7 @@ Les gnomes des fées sont très habiles et leur relation à la nature leur donne
 
 <Generic>
 
-## Gnome des lacs
+## <Name>Gnome des lacs</Name>
 
 - Source: <Source>(MDR p49)</Source>
 
@@ -80,6 +78,10 @@ Les gnomes des lacs sont discrets et manifestent une sagesse supérieure aux aut
 **Amphibie.** Vous êtes capable de respirer sous l'eau pendant une durée de 10 minutes au maximum. Au bout de ces 10 minutes, vous devez reprendre votre souffle à l'air libre.
 
 **Magie instinctive.** Vous connaissez deux tours de magie que vous choisissez parmi la liste de sorts du barde. Votre caractéristique d'incantation pour ces sorts est la [Sagesse].
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

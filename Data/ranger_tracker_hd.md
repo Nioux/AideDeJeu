@@ -1,16 +1,14 @@
 <Items>
 
-# Traqueur
+# <Name>Traqueur</Name>
 
 - Source: <Source>(MDR p199)</Source>
 
 Le traqueur est un habitant des terres sauvages qui compte sur sa connaissance du terrain pour chasser, piéger et tuer ses proies. Protecteur du royaume, chasseur de primes ou trappeur en milieu hostile, il connaît parfaitement le terrain et il est sans égal lorsqu'il s'agit de trouver et d'éliminer des adversaires sur son terrain de prédilection.
 
-</Generic>
-
 <Generic>
 
-## Terrain de prédilection
+## <Name>Terrain de prédilection</Name>
 
 Dès le niveau 3, vous faites l'acquisition d'un second terrain de prédilection. De plus vous ajoutez les profondeurs (milieu naturel souterrain) à la liste des terrains de prédilection qui vous sont accessibles.
 
@@ -18,7 +16,7 @@ Dès le niveau 3, vous faites l'acquisition d'un second terrain de prédilection
 
 <Generic>
 
-## Pièges
+## <Name>Pièges</Name>
 
 Également au niveau 3, lorsque vous êtes sur votre terrain de prédilection, vous êtes capable de piéger une zone de 3 mètres de côté en seulement 5 minutes.
 
@@ -36,7 +34,7 @@ Un piège qui a affecté une créature n'est plus actif. Il peut être réamorc�
 
 <Generic>
 
-## Avantage du terrain
+## <Name>Avantage du terrain</Name>
 
 Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
 
@@ -48,7 +46,7 @@ Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection,
 
 <Generic>
 
-## Terrain favorable
+## <Name>Terrain favorable</Name>
 
 À partir du niveau 11, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices supplémentaires suivants :
 
@@ -59,12 +57,16 @@ Au niveau 7 et par la suite, lorsque vous êtes sur un terrain de prédilection,
 
 <Generic>
 
-## Maître du terrain
+## <Name>Maître du terrain</Name>
 
 Au niveau 15, vous obtenez un terrain de prédilection supplémentaire. De plus, désormais, lorsque vous êtes sur un terrain de prédilection, vous obtenez les bénéfices suivants :
 
 * En combat, vous pouvez effectuer une action bonus à chacun de vos tours. Cette action ne peut être utilisée que pour faire une unique attaque au corps-à-corps ou à distance, vous désengager ou se précipiter. Si vous utilisez une arme dans chaque main, exceptionnellement, cette action bonus vous permet de faire une attaque depuis chacune de vos mains (en utilisant les limitations habituelles en ce qui concerne la seconde arme).
 * Lorsque vous prenez un repos court, vous récupérez un nombre de points de vie égal à 1d8 + votre modificateur de [Constitution] s'il ne vous reste pas plus de la moitié de vos points de vie.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

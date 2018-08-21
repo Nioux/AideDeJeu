@@ -1,6 +1,6 @@
 <Items>
 
-# Brute
+# <Name>Brute</Name>
 
 - Source: <Source>(MDR p205)</Source>
 
@@ -8,11 +8,9 @@ Tous les roublards ou crapules ne sont pas forcément des monte-en-l'air ou des 
 
 Leur palette de talents est bien plus étendue que celle d'un simple ferrailleur ; pour eux, l'usage de la force n'est qu'un moyen parmi tant d'autres, puisque tous les coups sont permis.
 
-</Generic>
-
 <Generic>
 
-## Regard noir
+## <Name>Regard noir</Name>
 
 Lorsque vous atteignez le niveau 3, vous pouvez ajouter à la fois votre modificateur de [Charisme] et de [Force] pour les tests de [Charisme (Intimidation)] et [Charisme (Persuasion)].
 
@@ -22,7 +20,7 @@ De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Ch
 
 <Generic>
 
-## Dur à cuire
+## <Name>Dur à cuire</Name>
 
 Également au niveau 3, vous ajoutez votre modificateur de [Force] en plus de celui de [Constitution] aux points de vie obtenus à ce niveau. Vous ferez de même au niveau 9 et au niveau 17. Si votre modificateur de [Force] augmente par la suite, vous augmentez les points de vie obtenus aux niveaux 3, 9 et 17.
 
@@ -30,7 +28,7 @@ De plus, vous pouvez utiliser une action bonus pour faire un test opposé de [Ch
 
 <Generic>
 
-## Coup bas
+## <Name>Coup bas</Name>
 
 À partir du niveau 9, lorsque vous utilisez l'action attaquer, vous pouvez effectuer en plus de votre attaque habituelle une attaque à mains nues ou à l'aide d'une arme improvisée (coup de tête, coup de genou ou du pommeau de l'arme, chope de bière, etc.) qui inflige 1d4 + votre modificateur de [Force] points de dégâts contondants (ou du type approprié dans le cas d'une arme improvisée). Le dé de dégât passe à 1d6 au niveau 13 et 1d8 au niveau 17.
 
@@ -40,7 +38,7 @@ Lorsque vous réalisez une attaque à mains nues ou avec une arme improvisée no
 
 <Generic>
 
-## Attaque en meute
+## <Name>Attaque en meute</Name>
 
 Lorsque vous atteignez le niveau 13, vous obtenez un avantage au jet d'attaque lorsque vous attaquez une cible qui se trouve à moins de 1,50 mètre d'un allié non neutralisé.
 
@@ -50,9 +48,13 @@ Désormais, si vous bénéficiez d'un avantage lorsque vous utilisez l'aptitude 
 
 <Generic>
 
-## Persécuter
+## <Name>Persécuter</Name>
 
 Vous n'êtes sans doute pas comparable à un guerrier pour taper à tour de bras, mais lorsqu'il s'agit de malmener une cible précise, nul n'est votre égal. Au niveau 17, vous désignez une créature de votre choix en utilisant une action bonus, elle devient la cible de votre vindicte personnelle. Vous obtenez un avantage aux tests en opposition, ainsi qu'aux [jets de sauvegarde] et d'attaque contre la cible sur laquelle vous vous focalisez. Vous ne pouvez pas bénéficier des effets de cette aptitude pour une autre cible avant d'avoir terminé un repos court.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

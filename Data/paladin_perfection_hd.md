@@ -1,16 +1,14 @@
 <Items>
 
-# Serment de perfection
+# <Name>Serment de perfection</Name>
 
 - Source: <Source>(MDR p189)</Source>
 
 Le paladin qui choisit le serment de perfection poursuit un idéal de noblesse à travers la confrontation avec ses pairs lors de joutes ou de tournois, mais aussi un idéal de beauté et de romance à travers l'art de l'amour courtois. Ce chevalier correspond à l'image d'Épinal du chevalier en armure brillante, voire dorée, qui agit autant pour la gloire que pour le bien commun. Parfois aussi appelé chevalier de la rose, il prête généralement allégeance à une personne de sang noble dont il défend les couleurs lors des tournois. En son nom, il parcourt le monde sur sa fidèle monture, afin de réaliser des exploits, prouver sa bravoure et combattre le mal. Cette personne peut être une femme ou un homme dont il cherche à conquérir le coeur, mais ce peut aussi être une personnalité importante, comme un roi ou une reine dont il se fait le champion de façon à défendre son honneur et couvrir son nom de gloire.
 
-</Generic>
-
 <Generic>
 
-## Préceptes de perfection
+## <Name>Préceptes de perfection</Name>
 
 Bien que les termes exacts et les limites imposées par le serment de perfection varient, les paladins qui ont prêté ce serment en partagent tous les préceptes fondamentaux.
 
@@ -28,7 +26,7 @@ Destrier. Prenez soin de votre monture comme vous prendriez soin d'un ami. Elle 
 
 <Generic>
 
-## Sorts de serment
+## <Name>Sorts de serment</Name>
 
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
@@ -44,7 +42,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
 <Generic>
 
-## Canalisation d'énergie divine
+## <Name>Canalisation d'énergie divine</Name>
 
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options suivantes de canalisation d'énergie divine.
 
@@ -58,7 +56,7 @@ Héros. En dépensant une réaction et votre canalisation d'énergie divine, vou
 
 <Generic>
 
-## Chevalier émérite
+## <Name>Chevalier émérite</Name>
 
 Au niveau 7, lorsque vous utilisez le sort trouver une monture, vous pouvez appeler un cheval de guerre lourd ou, si votre MJ vous le permet, un hippogriffe ou un aigle géant (ID 1). Ces créatures sont considérées dressées, et vous pouvez les contrôler.
 
@@ -68,7 +66,7 @@ De plus, lorsque vous utilisez une lance à dos de monture, vous obtenez un avan
 
 <Generic>
 
-## Chevalier prestigieux
+## <Name>Chevalier prestigieux</Name>
 
 À partir du niveau 15, vous pouvez appeler un cheval de guerre céleste ou encore, si votre MJ vous le permet, un pégase ou un griffon (ID 2). Votre MJ est habilité à vous autoriser d'autres créatures plus exotiques s'il le juge crédible (par exemple, un tigre à dents de sabre pour un elfe sauvage), l'indice de dangerosité de la créature ne doit pas dépasser 2.
 
@@ -78,11 +76,15 @@ De plus, lorsque vous contrôlez une monture, vous pouvez lui faire utiliser son
 
 <Generic>
 
-## Parangon héroïque
+## <Name>Parangon héroïque</Name>
 
 Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau prend la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous.
 
 De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un avantage à toutes vos attaques au corps-à-corps, ainsi que vos tests de [Force], de [Constitution], de [Sagesse] et de [Charisme] ([jets de sauvegarde] et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+
+</Generic>
+
+</Items>
 
 [à terre]: conditions_hd.md#À-terre
 [Force]: abilities_strength_hd.md

@@ -1,16 +1,14 @@
 <Items>
 
-# Serment d'obédience
+# <Name>Serment d'obédience</Name>
 
 - Source: <Source>(MDR p187)</Source>
 
 Le roi est la terre. La terre est le roi. Plusieurs paladins sont convaincus que, quelque part, un royaume terrestre doit émerger, prenant comme modèle le royaume divin, avec à sa tête un roi sage et généreux qui fera régner l'ordre et la paix. Ce serment et cette quête sont ceux des paladins qui espèrent brandir haut la bannière de ce royaume et qui cherchent sans relâche celui ou celle qui sera digne de leur fidélité. Le paladin lie bien souvent son existence à celle d'une nation, d'un royaume ou d'une cité, et aux idéaux que reflète cette entité, en même temps qu'à ses gouvernants, qu'ils soient roi, prince, simple baron ou conseil élu. Si de nombreux paladins de ce type deviennent tôt ou tard des officiers respectés dans les armées du royaume ou de la cité, il n'en est pas toujours de même. Certains prennent ainsi fait et cause pour le peuple opprimé d'un ancien royaume contre un conquérant ou un tyran. D'autres tiennent à faire resurgir le souvenir lointain d'une nation disparue. Tous ont à l'esprit le royaume idéal dont ils sont les champions.
 
-</Generic>
-
 <Generic>
 
-## Préceptes d'obédience
+## <Name>Préceptes d'obédience</Name>
 
 Bien que les termes exacts et les limites imposées par le serment d'obédience varient, les paladins qui ont prêté ce serment en partagent tous les préceptes fondamentaux.
 
@@ -28,7 +26,7 @@ Droiture. Ne vous abaissez pas à vous compromettre dans les jeux politiques.
 
 <Generic>
 
-## Sorts de serment
+## <Name>Sorts de serment</Name>
 
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
@@ -44,7 +42,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
 <Generic>
 
-## Canalisation d'énergie divine
+## <Name>Canalisation d'énergie divine</Name>
 
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options de canalisation d'énergie divine suivantes.
 
@@ -58,7 +56,7 @@ Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés
 
 <Generic>
 
-## Cri de ralliement
+## <Name>Cri de ralliement</Name>
 
 À partir du niveau 7, vous pouvez haranguer vos compagnons et les exhorter à faire de leur mieux. Tous vos alliés dans un rayon de 9 mètres autour de vous récupèrent 1d6 + votre modificateur de [Charisme] points de vie. De plus, tous ceux qui étaient charmés, terrorisés ou paralysés suite à un [jet de sauvegarde] raté peuvent tenter un nouveau [jet de sauvegarde] (avec le même DD) afin de se libérer de leur condition. Ils obtiennent un avantage sur ce [jet de sauvegarde]. Vous devez terminer un repos court ou long avant de pouvoir de nouveau utiliser cette aptitude.
 
@@ -66,7 +64,7 @@ Tacticien. Au prix d'une action bonus, vous procurez à tous vos alliés situés
 
 <Generic>
 
-## Charge héroïque
+## <Name>Charge héroïque</Name>
 
 À partir du niveau 15, votre réputation de meneur d'hommes est telle que tous sont prêts à vous suivre malgré les périls et redoublent d'ardeur au combat.
 
@@ -76,7 +74,7 @@ Utilisez une action pour charger un ennemi situé à 6 mètres au moins de vous,
 
 <Generic>
 
-## Héros de guerre
+## <Name>Héros de guerre</Name>
 
 Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre patrie. Vous priez pendant une action pour implorer l'aide d'un ancien héros. Son aura, reconnaissable par tous vos compatriotes, apparaît autour de vous pendant 1 heure. Pendant cette durée, vous gagnez les bénéfices suivants :
 
@@ -87,6 +85,9 @@ Au niveau 20, vous pouvez prendre la forme d'une des figures mythiques de votre 
 
 Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
+</Generic>
+
+</Items>
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

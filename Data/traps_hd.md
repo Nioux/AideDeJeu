@@ -1,7 +1,7 @@
 
 <Items>
 
-## Les pièges
+## <Name>Les pièges</Name>
 
 - AltName: <AltName>Traps </AltName>
 - Source: <Source>(CEO 374)(SRD p195)</Source>
@@ -10,11 +10,9 @@ Les pièges se trouvent partout ou presque. Il suffit d'un faux pas dans une tom
 
 Un piège est de nature ordinaire ou magique. Parmi les pièges mécaniques se trouvent les fosses, les volées de flèches, les chutes de pierre, les salles inondables, les lames tournoyantes et tout ce qui opère grâce à un mécanisme quelconque. Les pièges magiques sont soit des pièges basés sur un objet magique, soit des pièges basés sur un sort. Un piège comprenant un objet magique provoque un effet de sort quand on le déclenche, tandis que l'autre catégorie regroupe les sorts fonctionnant comme des pièges, comme [glyphe de protection] et [symbole].
 
-</Generic>
-
 <Generic>
 
-## Les pièges dans une partie
+## <Name>Les pièges dans une partie</Name>
 
 Quand des aventuriers se heurtent à un piège, vous devez savoir comment il se déclenche et ce qu'il fait, mais aussi si les personnages ont une chance de le repérer et de le désactiver ou de l'éviter.
 
@@ -22,7 +20,7 @@ Quand des aventuriers se heurtent à un piège, vous devez savoir comment il se 
 
 <Generic>
 
-### Déclencher un piège
+### <Name>Déclencher un piège</Name>
 
 La plupart des pièges se déclenchent quand une créature se rend dans un endroit ou touche à quelque chose que le créateur du piège veut protéger. Parmi les déclencheurs les plus courants, on trouve les plaques de pression et les sections de faux-plancher sur lesquels il ne faut pas marcher, les fils tendus en travers d'un chemin dans lesquels il ne faut pas se prendre les pieds, les poignées de porte à ne pas tourner, les serrures exigeant la bonne clef… Les pièges magiques se déclenchent souvent quand une créature entre dans un lieu ou touche quelque chose. Certains, comme le [glyphe de protection], sont dotés de conditions de déclenchement plus complexes, comprenant un mot de commande les empêchant de se déclencher.
 
@@ -30,7 +28,7 @@ La plupart des pièges se déclenchent quand une créature se rend dans un endro
 
 <Generic>
 
-### Repérer et neutraliser un piège
+### <Name>Repérer et neutraliser un piège</Name>
 
 En général, un piège possède un élément visible après un examen détaillé des lieux. Un personnage peut repérer une pierre descellée qui cache une plaque de pression, remarquer la lumière qui se reflète sur un fil tendu en travers du chemin, déceler de petits trous dans le mur d'où sortiront des jets de flammes ou détecter n'importe quel élément trahissant la présence d'un piège.
 
@@ -50,7 +48,7 @@ Les pièges sont souvent dotés d'un mécanisme permettant de les désarmer ou d
 
 <Generic>
 
-### Les effets des pièges
+### <Name>Les effets des pièges</Name>
 
 Les effets des pièges vont de la gêne à la mort, grâce à des volées de flèches, des pointes, des lames, du poison, des gaz toxiques, des gerbes de feu ou encore des fosses profondes. Les plus dangereux combinent plusieurs de ces éléments pour tuer, blesser, retenir ou repousser les créatures assez malchanceuses pour les déclencher. La description du piège précise tout ce qui se passe lorsqu'il se déclenche.
 
@@ -62,7 +60,7 @@ Un piège gênant a peu de risques de tuer ou blesser grièvement un personnage 
 
 <Generic>
 
-#### DD du jet de sauvegarde et bonus d'attaque des pièges
+#### <Name>DD du jet de sauvegarde et bonus d'attaque des pièges</Name>
 
 |Sévérité du piège|DD du JdS|Bonus d'attaque|
 |---|---|---|
@@ -74,7 +72,7 @@ Un piège gênant a peu de risques de tuer ou blesser grièvement un personnage 
 
 <Generic>
 
-#### Sévérité des dégâts par niveau
+#### <Name>Sévérité des dégâts par niveau</Name>
 
 |Niveau du<br>personnage|Gênant|Dangereux|Mortel|
 |---|---|---|---|
@@ -87,7 +85,7 @@ Un piège gênant a peu de risques de tuer ou blesser grièvement un personnage 
 
 <Generic>
 
-## Les pièges complexes
+## <Name>Les pièges complexes</Name>
 
 Les pièges complexes fonctionnent comme les pièges ordinaires mais, une fois activés, ils effectuent une série d'actions à chaque round. Une rencontre avec un piège complexe tient alors beaucoup du combat.
 
@@ -99,7 +97,7 @@ Prenons comme exemple un piège qui inonde progressivement une salle. Il fonctio
 
 <Generic>
 
-### Exemples de pièges
+### <Name>Exemples de pièges</Name>
 
 Les pièges magiques et mécaniques présentés ici sont plus ou moins dangereux et sont classés par ordre alphabétique.
 
@@ -107,7 +105,7 @@ Les pièges magiques et mécaniques présentés ici sont plus ou moins dangereux
 
 <Generic>
 
-#### Aiguille empoisonnée
+#### <Name>Aiguille empoisonnée</Name>
 
 Piège mécanique
 
@@ -121,7 +119,7 @@ Un test d'Intelligence (Investigation) DD 20 permet de deviner la présence de l
 
 <Generic>
 
-#### Ascenseur soporifique
+#### <Name>Ascenseur soporifique</Name>
 
 Piège mécanique
 
@@ -137,7 +135,7 @@ Tout type de gaz peut être utilisé, en fonction de l'effet souhaité (par exem
 
 <Generic>
 
-#### Effondrement du plafond
+#### <Name>Effondrement du plafond</Name>
 
 Piège mécanique
 
@@ -153,7 +151,7 @@ Quand le piège se déclenche, le plafond instable s'effondre. Toute créature q
 
 <Generic>
 
-#### Filet
+#### <Name>Filet</Name>
 
 Piège mécanique
 
@@ -167,7 +165,7 @@ Le filet tombe dès que le piège se déclenche et recouvre une zone de 3 mètre
 
 <Generic>
 
-#### Fléchettes empoisonnées
+#### <Name>Fléchettes empoisonnées</Name>
 
 Piège mécanique
 
@@ -181,7 +179,7 @@ Le piège s'active quand un poids de 10 kilos ou plus appuie sur la plaque de pr
 
 <Generic>
 
-#### Fosse
+#### <Name>Fosse</Name>
 
 Piège mécanique
 
@@ -209,7 +207,7 @@ Il faut réussir un test de Force DD 20 pour ouvrir la trappe de force, mais on 
 
 <Generic>
 
-#### Mur de lames
+#### <Name>Mur de lames</Name>
 
 Piège mécanique
 
@@ -225,7 +223,7 @@ Dans une structure en bois, comme une cabane ou une maison orientale, il est pos
 
 <Generic>
 
-#### Sphère d'annihilation
+#### <Name>Sphère d'annihilation</Name>
 
 Piège magique
 
@@ -239,7 +237,7 @@ Certaines versions du piège comportent en plus un enchantement qui affecte la s
 
 <Generic>
 
-#### Sphère roulante
+#### <Name>Sphère roulante</Name>
 
 Piège mécanique
 
@@ -257,7 +255,7 @@ Par une action, une créature qui se trouve à 1,50 mètre ou moins de la sphèr
 
 <Generic>
 
-#### Statue cracheuse de feu
+#### <Name>Statue cracheuse de feu</Name>
 
 Piège magique
 
@@ -273,7 +271,7 @@ Il suffit de glisser une pointe de fer ou un autre objet sous la plaque de press
 
 <Generic>
 
-#### Zone de gravité inversée
+#### <Name>Zone de gravité inversée</Name>
 
 Piège magique
 
@@ -285,5 +283,8 @@ Les personnages pris dans la zone de gravité inversée et situés à moins de 3
 
 Des variantes existent, au niveau du lieu et de la finalité. Le déclencheur peut être l'ouverture d'un coffre ou de la porte de sortie du couloir. Le DD de détection est le même et un test de Dextérité DD 15 effectué avec des outils de voleur désarme le piège. Les piques au plafond peuvent être remplacées par une cage ou de la colle qui piège les personnages en attendant qu'un garde vienne les récupérer.
 
+</Generic>
+
+</Items>
 
 

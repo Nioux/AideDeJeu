@@ -1,17 +1,15 @@
 <Items>
 
-# Cercle de la terre
+# <Name>Cercle de la terre</Name>
 
 - AltName: <AltName>Circle of the Land (SRD p21)</AltName>
 - Source: <Source>(MDR p145)</Source>
 
 Le cercle de la terre réunit des mystiques et des sages qui perpétuent d'antiques connaissances et rites grâce à une tradition orale très développée. Ces druides se rassemblent dans des cercles d'arbres sacrés ou de pierres dressées pour se murmurer des secrets primordiaux en druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés qui respectent encore l'antique religion, et conseillent leurs dirigeants. En tant que membre du cercle, votre magie est influencée par le type de terrain sur lequel vous avez été initié aux rites mystérieux du cercle.
 
-</Generic>
-
 <Generic>
 
-## Tour de magie bonus
+## <Name>Tour de magie bonus</Name>
 
 Quand vous choisissez ce cercle au niveau 2, vous pouvez apprendre un tour de magie de druide supplémentaire de votre choix.
 
@@ -19,7 +17,7 @@ Quand vous choisissez ce cercle au niveau 2, vous pouvez apprendre un tour de ma
 
 <Generic>
 
-## Récupération naturelle
+## <Name>Récupération naturelle</Name>
 
 À partir du niveau 2, vous pouvez regagner une partie de votre énergie magique en méditant et en communiant avec la nature. Pendant un repos court, vous pouvez choisir de récupérer certains emplacements de sorts.
 
@@ -31,7 +29,7 @@ Par exemple, si vous êtes un druide de niveau 4, vous pouvez récupérer un éq
 
 <Generic>
 
-## Sorts de cercle
+## <Name>Sorts de cercle</Name>
 
 Votre connexion mystique avec la terre vous donne la capacité de lancer certains sorts. Aux niveaux 3, 5, 7 et 9, vous avez accès à des sorts de cercles liés au type de terrain sur lequel vous êtes devenu druide. Choisissez ce terrain (arctique, littoral, désert, forêt, plaine, montagne ou marais) et consultez la liste de sort qui y est liée.
 
@@ -42,7 +40,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Arctique
+## <Name>Arctique</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -55,7 +53,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Littoral
+## <Name>Littoral</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -68,7 +66,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Désert
+## <Name>Désert</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -81,7 +79,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Forêt
+## <Name>Forêt</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -94,7 +92,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Plaine
+## <Name>Plaine</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -107,7 +105,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Montagne
+## <Name>Montagne</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -120,7 +118,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Marais
+## <Name>Marais</Name>
 
 |Niv. de druide|Sorts de cercle|
 |---|---|
@@ -133,7 +131,7 @@ Une fois que vous avez appris un sort de cercle, il est toujours considéré com
 
 <Generic>
 
-## Traversée des terrains
+## <Name>Traversée des terrains</Name>
 
 À partir du niveau 6, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire.
 
@@ -145,7 +143,7 @@ En plus de cela, vous bénéficiez d'un avantage sur les [jets de sauvegarde] co
 
 <Generic>
 
-## Enfant de la nature
+## <Name>Enfant de la nature</Name>
 
 Quand vous atteignez le niveau 10, vous ne pouvez pas être charmé ou terrorisé par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.
 
@@ -153,13 +151,17 @@ Quand vous atteignez le niveau 10, vous ne pouvez pas être charmé ou terroris�
 
 <Generic>
 
-## Sanctuaire de la nature
+## <Name>Sanctuaire de la nature</Name>
 
 Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un [jet de sauvegarde] de [Sagesse] contre votre DD de sauvegarde de sorts de druide. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement.
 
 Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.
 
 La créature est consciente de cet effet avant de vous attaquer.
+
+</Generic>
+
+</Items>
 
 [enchevêtrement]: spells_hd.md#enchevêtrement
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde

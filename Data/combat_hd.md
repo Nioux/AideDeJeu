@@ -1,16 +1,14 @@
 
 <Items>
 
-# Combattre
+# <Name>Combattre</Name>
 
 - AltName: <AltName>The Order of Combat (SRD p90)</AltName>
 - Source: <Source>(MDR p283)</Source>
 
-</Generic>
-
 <Generic>
 
-## Ordre de combat
+## <Name>Ordre de combat</Name>
 
 - AltName: <AltName>The Order of Combat (SRD p90)</AltName>
 - Source: <Source>(MDR p284)</Source>
@@ -21,7 +19,7 @@ Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tour
 
 <Generic>
 
-### Les étapes du combat
+### <Name>Les étapes du combat</Name>
 
 - AltName: <AltName>Combat Step by Step (SRD p90)</AltName>
 - Source: <Source>(MDR p284)</Source>
@@ -37,7 +35,7 @@ Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tour
 
 <Generic>
 
-### Surprise
+### <Name>Surprise</Name>
 
 - AltName: <AltName>Surprise (SRD p90)</AltName>
 - Source: <Source>(MDR p284)</Source>
@@ -52,7 +50,7 @@ Si vous êtes surpris, vous ne pouvez pas bouger ou accomplir d'action lors de v
 
 <Generic>
 
-### Initiative
+### <Name>Initiative</Name>
 
 - AltName: <AltName>Initiative (SRD p90)</AltName>
 - Source: <Source>(MDR p284)</Source>
@@ -67,7 +65,7 @@ En cas d'égalité, s'il s'agit de créatures contrôlées par le MJ, ce dernier
 
 <Generic>
 
-### Votre tour
+### <Name>Votre tour</Name>
 
 - AltName: <AltName>Your Turn (SRD p90)</AltName>
 - Source: <Source>(MDR p285)</Source>
@@ -86,7 +84,7 @@ Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien 
 
 <Generic>
 
-#### Action bonus
+#### <Name>Action bonus</Name>
 
 - AltName: <AltName>Bonus Actions (SRD p90)</AltName>
 - Source: <Source>(MDR p285)</Source>
@@ -101,7 +99,7 @@ Vous devez attendre votre tour pour accomplir une action bonus, sauf si celle-ci
 
 <Generic>
 
-#### Autres activités pendant votre tour
+#### <Name>Autres activités pendant votre tour</Name>
 
 - AltName: <AltName>Other Activity on Your Turn (SRD p91)</AltName>
 - Source: <Source>(MDR p285)</Source>
@@ -122,7 +120,7 @@ Le MJ peut vous demander d'utiliser une action pour n'importe quelle activité q
 
 <Generic>
 
-### Réaction
+### <Name>Réaction</Name>
 
 - AltName: <AltName>Reactions (SRD p91)</AltName>
 - Source: <Source>(MDR p285)</Source>
@@ -135,7 +133,7 @@ Quand vous réagissez, vous ne pouvez pas réagir de nouveau avant le début de 
 
 <Generic>
 
-## Déplacement et position
+## <Name>Déplacement et position</Name>
 
 - AltName: <AltName>Movement and Position (SRD p91)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -150,7 +148,7 @@ Dans le cadre de votre mouvement, vous pouvez sauter, escalader et nager. Ces di
 
 <Generic>
 
-#### Fragmenter votre mouvement
+#### <Name>Fragmenter votre mouvement</Name>
 
 - AltName: <AltName>Breaking Up Your Move (SRD p91)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -161,7 +159,7 @@ Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une pa
 
 <Generic>
 
-#### Se déplacer entre des attaques
+#### <Name>Se déplacer entre des attaques</Name>
 
 - AltName: <AltName>Moving between Attacks (SRD p91)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -172,7 +170,7 @@ Si vous utilisez une action qui vous permet de porter plusieurs attaques avec un
 
 <Generic>
 
-#### Utiliser différentes vitesses
+#### <Name>Utiliser différentes vitesses</Name>
 
 - AltName: <AltName>Using Different Speeds (SRD p91)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -185,7 +183,7 @@ Par exemple, si votre vitesse est de 9 mètres et qu'un magicien vous a lancé u
 
 <Generic>
 
-### Terrain difficile
+### <Name>Terrain difficile</Name>
 
 - AltName: <AltName>Difficult Terrain (SRD p91)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -200,7 +198,7 @@ Des meubles bas, des gravats, des buissons, des escaliers raides, de la neige ou
 
 <Generic>
 
-### Être à terre
+### <Name>Être à terre</Name>
 
 - AltName: <AltName>Being Prone (SRD p91)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -217,7 +215,7 @@ Pour vous déplacer quand vous êtes à terre, vous devez ramper ou utiliser une
 
 <Generic>
 
-### Interagir avec les objets alentours
+### <Name>Interagir avec les objets alentours</Name>
 
 - AltName: <AltName>Interacting with Objects Around You (SRD p92)</AltName>
 - Source: <Source>(MDR p287)</Source>
@@ -250,7 +248,7 @@ Voici quelques exemples de ce que vous pouvez accomplir librement, en même temp
 
 <Generic>
 
-### Se déplacer au milieu d'autres créatures
+### <Name>Se déplacer au milieu d'autres créatures</Name>
 
 - AltName: <AltName>Moving Around Other Creatures (SRD p92)</AltName>
 - Source: <Source>(MDR p286)</Source>
@@ -265,7 +263,7 @@ Si vous vous mettez hors de portée de la capacité d'allonge d'une créature pe
 
 <Generic>
 
-#### Déplacement en vol
+#### <Name>Déplacement en vol</Name>
 
 - AltName: <AltName>Flying Movement (SRD p92)</AltName>
 - Source: <Source>(MDR p287)</Source>
@@ -276,7 +274,7 @@ Les créatures volantes bénéficient d'une grande mobilité. En revanche elles 
 
 <Generic>
 
-### Taille des créatures
+### <Name>Taille des créatures</Name>
 
 - AltName: <AltName>Creature Size (SRD p92)</AltName>
 - Source: <Source>(MDR p287)</Source>
@@ -296,7 +294,7 @@ Chaque créature occupe une surface plus ou moins importante en fonction de sa t
 
 <Generic>
 
-#### Emplacement
+#### <Name>Emplacement</Name>
 
 - AltName: <AltName>Space (SRD p92)</AltName>
 - Source: <Source>(MDR p287)</Source>
@@ -311,7 +309,7 @@ Les créatures plus grandes occupent un emplacement plus important. Et le nombre
 
 <Generic>
 
-#### Se faufiler dans un espace réduit
+#### <Name>Se faufiler dans un espace réduit</Name>
 
 - AltName: <AltName>Squeezing into a Smaller Space (SRD p92)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -322,7 +320,7 @@ Une créature peut se faufiler dans un espace minimum d'une taille égale à l'e
 
 <Generic>
 
-## Actions en combat
+## <Name>Actions en combat</Name>
 
 - AltName: <AltName>Actions in Combat (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -335,7 +333,7 @@ Quand vous décrivez une action qui n'est pas présentée dans les règles, c'es
 
 <Generic>
 
-### Aider
+### <Name>Aider</Name>
 
 - AltName: <AltName>Help (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -348,7 +346,7 @@ Vous pouvez aussi aider une créature amicale qui veut attaquer une autre créat
 
 <Generic>
 
-### Attaquer
+### <Name>Attaquer</Name>
 
 - AltName: <AltName>Attack (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -363,7 +361,7 @@ Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à 
 
 <Generic>
 
-### Chercher
+### <Name>Chercher</Name>
 
 - AltName: <AltName>Search (SRD p94)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -374,7 +372,7 @@ Quand vous choisissez l'action chercher, toute votre attention est tournée vers
 
 <Generic>
 
-### Esquiver
+### <Name>Esquiver</Name>
 
 - AltName: <AltName>Dodge (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -385,7 +383,7 @@ Quand vous choisissez l'action esquiver, votre unique objectif est d'éviter les
 
 <Generic>
 
-### Lancer un sort
+### <Name>Lancer un sort</Name>
 
 - AltName: <AltName>Cast a Spell (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -396,7 +394,7 @@ Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux mo
 
 <Generic>
 
-### Se cacher
+### <Name>Se cacher</Name>
 
 - AltName: <AltName>Hide (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -407,7 +405,7 @@ Quand vous choisissez l'action se cacher, vous devez faire un test de Dextérit�
 
 <Generic>
 
-### Se désengager
+### <Name>Se désengager</Name>
 
 - AltName: <AltName>Disengage (SRD p93)</AltName>
 - Source: <Source>(MDR p288)</Source>
@@ -418,7 +416,7 @@ Si vous choisissez l'action se désengager, vous pouvez vous déplacer sans risq
 
 <Generic>
 
-### Se précipiter
+### <Name>Se précipiter</Name>
 
 - AltName: <AltName>Dash (SRD p93)</AltName>
 - Source: <Source>(MDR p290)</Source>
@@ -431,7 +429,7 @@ Tout effet qui a une incidence positive ou négative sur votre vitesse a le mêm
 
 <Generic>
 
-### Se tenir prêt
+### <Name>Se tenir prêt</Name>
 
 - AltName: <AltName>Ready (SRD p93)</AltName>
 - Source: <Source>(MDR p290)</Source>
@@ -448,7 +446,7 @@ De la même manière, quand vous choisissez l'action se tenir prêt avec un sort
 
 <Generic>
 
-### Utiliser un objet
+### <Name>Utiliser un objet</Name>
 
 - AltName: <AltName>Use an Object (SRD p94)</AltName>
 - Source: <Source>(MDR p290)</Source>
@@ -459,7 +457,7 @@ Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, p
 
 <Generic>
 
-### Autre chose ?
+### <Name>Autre chose ?</Name>
 
 - Source: <Source>(MDR p290)</Source>
 
@@ -469,7 +467,7 @@ Dans Héros & Dragons, la seule limite au jeu est votre imagination. Les précé
 
 <Generic>
 
-## Porter une attaque
+## <Name>Porter une attaque</Name>
 
 - AltName: <AltName>Making an Attack (SRD p94)</AltName>
 - Source: <Source>(MDR p290)</Source>
@@ -486,7 +484,7 @@ Si vous vous demandez si une action que vous êtes en train de faire peut être 
 
 <Generic>
 
-### Jets d'attaque
+### <Name>Jets d'attaque</Name>
 
 - AltName: <AltName>Attack Rolls (SRD p94)</AltName>
 - Source: <Source>(MDR p290)</Source>
@@ -497,7 +495,7 @@ Quand vous faites une attaque, votre jet d'attaque permet de déterminer si vous
 
 <Generic>
 
-#### Modificateurs du jet
+#### <Name>Modificateurs du jet</Name>
 
 - AltName: <AltName>Modifiers to the Roll (SRD p94)</AltName>
 - Source: <Source>(MDR p290)</Source>
@@ -514,7 +512,7 @@ Bonus de maîtrise. Quand vous faites une attaque en utilisant une arme que vous
 
 <Generic>
 
-#### Faire 1 ou 20
+#### <Name>Faire 1 ou 20</Name>
 
 - AltName: <AltName>Rolling 1 or 20 (SRD p94)</AltName>
 - Source: <Source>(MDR p291)</Source>
@@ -529,7 +527,7 @@ Si le d20 lancé pour un jet d'attaque donne un résultat de 1, l'attaque échou
 
 <Generic>
 
-### Attaquants et cibles invisibles
+### <Name>Attaquants et cibles invisibles</Name>
 
 - AltName: <AltName>Unseen Attackers and Targets (SRD p94)</AltName>
 - Source: <Source>(MDR p291)</Source>
@@ -544,7 +542,7 @@ Quand une créature ne peut pas vous voir, vous bénéficiez d'un avantage quand
 
 <Generic>
 
-### Attaque à distance
+### <Name>Attaque à distance</Name>
 
 - AltName: <AltName>Ranged Attacks (SRD p95)</AltName>
 - Source: <Source>(MDR p291)</Source>
@@ -555,7 +553,7 @@ Vous faites une attaque à distance quand vous utilisez une arme ou un projectil
 
 <Generic>
 
-#### Portée
+#### <Name>Portée</Name>
 
 - AltName: <AltName>Range (SRD p95)</AltName>
 - Source: <Source>(MDR p291)</Source>
@@ -570,7 +568,7 @@ Certaines attaques à distance, comme celles faites avec un arc long ou un arc c
 
 <Generic>
 
-#### Attaque à distance dans un combat au corps-à-corps
+#### <Name>Attaque à distance dans un combat au corps-à-corps</Name>
 
 - AltName: <AltName>Ranged Attacks in Close Combat (SRD p95)</AltName>
 - Source: <Source>(MDR p291)</Source>
@@ -581,7 +579,7 @@ Il est plus difficile de faire une attaque à distance si un ennemi est à côt�
 
 <Generic>
 
-### Attaque de corps-à-corps
+### <Name>Attaque de corps-à-corps</Name>
 
 - AltName: <AltName>Melee Attacks (SRD p95)</AltName>
 - Source: <Source>(MDR p291)</Source>
@@ -596,7 +594,7 @@ Quand vous êtes au corps-à-corps, vous pouvez aussi porter une attaque à main
 
 <Generic>
 
-#### Attaque d'opportunité
+#### <Name>Attaque d'opportunité</Name>
 
 - AltName: <AltName>Opportunity Attacks (SRD p95)</AltName>
 - Source: <Source>(MDR p292)</Source>
@@ -611,7 +609,7 @@ Vous pouvez éviter de provoquer une attaque d'opportunité en utilisant l'actio
 
 <Generic>
 
-#### Combat à deux armes
+#### <Name>Combat à deux armes</Name>
 
 - AltName: <AltName>Two-Weapon Fighting (SRD p95)</AltName>
 - Source: <Source>(MDR p292)</Source>
@@ -624,7 +622,7 @@ Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez l
 
 <Generic>
 
-#### Opposition en combat
+#### <Name>Opposition en combat</Name>
 
 - AltName: <AltName>Contests in Combat (SRD p96)</AltName>
 - Source: <Source>(MDR p292)</Source>
@@ -635,7 +633,7 @@ Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures 
 
 <Generic>
 
-#### Empoignade
+#### <Name>Empoignade</Name>
 
 - AltName: <AltName>Grappling (SRD p95)</AltName>
 - Source: <Source>(MDR p292)</Source>
@@ -652,7 +650,7 @@ Déplacer une créature empoignée. Quand vous vous déplacez, vous pouvez traî
 
 <Generic>
 
-#### Bousculer une créature
+#### <Name>Bousculer une créature</Name>
 
 - AltName: <AltName>Shoving a Creature (SRD p96)</AltName>
 - Source: <Source>(MDR p292)</Source>
@@ -665,7 +663,7 @@ La cible ne doit pas faire plus d'une taille de plus que vous et doit se trouver
 
 <Generic>
 
-## Abri
+## <Name>Abri</Name>
 
 - AltName: <AltName>Cover (SRD p96)</AltName>
 - Source: <Source>(MDR p293)</Source>
@@ -684,7 +682,7 @@ Une cible qui bénéficie d'un abri total ne peut pas être ciblée directement 
 
 <Generic>
 
-## Dégâts
+## <Name>Dégâts</Name>
 
 - AltName: <AltName>Hit Points (SRD p96)</AltName>
 - Source: <Source>(MDR p293)</Source>
@@ -695,7 +693,7 @@ Lorsqu'une attaque est réussie, la créature ciblée subit des dégâts. Certai
 
 <Generic>
 
-### Jets de dégâts
+### <Name>Jets de dégâts</Name>
 
 - AltName: <AltName>Damage Rolls (SRD p96)</AltName>
 - Source: <Source>(MDR p293)</Source>
@@ -710,7 +708,7 @@ Si un sort ou un effet inflige des dégâts à plus d'une créature au même mom
 
 <Generic>
 
-#### Coups critiques
+#### <Name>Coups critiques</Name>
 
 - AltName: <AltName>Critical Hits (SRD p96)</AltName>
 - Source: <Source>(MDR p293)</Source>
@@ -723,7 +721,7 @@ Par exemple, si vous réussissez un coup critique avec une dague, vous devez lan
 
 <Generic>
 
-#### Types de dégâts
+#### <Name>Types de dégâts</Name>
 
 - AltName: <AltName>Damage Types (SRD p97)</AltName>
 - Source: <Source>(MDR p294)</Source>
@@ -762,7 +760,7 @@ Tranchant. Les épées, les haches et les griffes des monstres infligent des dé
 
 <Generic>
 
-### Résistance et vulnérabilité aux dégâts
+### <Name>Résistance et vulnérabilité aux dégâts</Name>
 
 - AltName: <AltName>Damage Resistance and Vulnerability (SRD p97)</AltName>
 - Source: <Source>(MDR p294)</Source>
@@ -780,7 +778,7 @@ Si une créature ou un objet possède plusieurs fois une résistance ou une vuln
 
 <Generic>
 
-### Assommer une créature
+### <Name>Assommer une créature</Name>
 
 - AltName: <AltName>Knocking a Creature Out (SRD p98)</AltName>
 - Source: <Source>(MDR p294)</Source>
@@ -791,7 +789,7 @@ Parfois, un attaquant souhaite neutraliser une ennemi plutôt que le tuer. Quand
 
 <Generic>
 
-## Combat monté
+## <Name>Combat monté</Name>
 
 - AltName: <AltName>Mounted Combat (SRD p99)</AltName>
 - Source: <Source>(MDR p295)</Source>
@@ -804,7 +802,7 @@ Une créature consentante qui fait au minimum une taille de plus qu'un personnag
 
 <Generic>
 
-### Monter et descendre de sa monture
+### <Name>Monter et descendre de sa monture</Name>
 
 - AltName: <AltName>Mounting and Dismounting (SRD p99)</AltName>
 - Source: <Source>(MDR p295)</Source>
@@ -819,7 +817,7 @@ Si votre monture est jetée à terre, vous pouvez utiliser votre réaction pour 
 
 <Generic>
 
-### Contrôler sa monture
+### <Name>Contrôler sa monture</Name>
 
 - AltName: <AltName>Controlling a Mount (SRD p99)</AltName>
 - Source: <Source>(MDR p295)</Source>
@@ -836,7 +834,7 @@ Dans tous les cas, si votre monture provoque une attaque d'opportunité pendant 
 
 <Generic>
 
-## Combat sous-marin
+## <Name>Combat sous-marin</Name>
 
 - AltName: <AltName>Underwater Combat (SRD p99)</AltName>
 - Source: <Source>(MDR p295)</Source>
@@ -847,6 +845,9 @@ Quand elle porte une attaque de corps-à-corps, une créature qui n'a pas de vit
 
 Une attaque à distance manque automatiquement une cible qui se trouve au-delà de la portée normale de l'arme. Et même contre une cible qui se trouve à portée normale de l'arme, le jet d'attaque de la créature attaquante subit un désavantage, sauf si elle utilise une arbalète, un filet ou une arme de lancer comme une javeline (ou une lance, un trident ou une fléchette). Les créatures et les objets complètement immergés sont résistants aux dégâts de feu.
 
+</Generic>
+
+</Items>
 
 
 

@@ -1,28 +1,27 @@
 
-</Generic>
+<Items>
 
-<Generic>
+# <Name>Créatures</Name>
 
-# Créatures
+<LinkItem>
+
+## <NameLink>[Monstres](monsters_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Monstres](monsters_hd.md)
+## <NameLink>[Animaux](animals_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Animaux](animals_hd.md)
+## <NameLink>[PNJ](npc_hd.md)</NameLink>
 
 </LinkItem>
 
-<LinkItem>
-
-## [PNJ](npc_hd.md)
-
+</Items>
 
 
 

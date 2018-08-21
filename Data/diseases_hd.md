@@ -1,7 +1,7 @@
 
 <Items>
 
-## Les maladies
+## <Name>Les maladies</Name>
 
 - AltName: <AltName>Diseases</AltName>
 - Source: <Source>(CEO p379)(SRD p199)</Source>
@@ -12,11 +12,9 @@ Une maladie peu étendue peut taxer les ressources d'un groupe et se traduire pa
 
 Une maladie qui contamine plus que quelques membres du groupe est un outil d'intrigue. Les règles aident à décrire les effets de la maladie et ses méthodes de guérison, mais le fonctionnement spécifique de chacune n'est pas soumis à un ensemble de règles. N'importe quelle créature peut tomber malade, et une maladie peut se transmettre ou non d'une race à une autre, d'un type de créature à un autre. Une épidémie peut toucher les créatures artificielles ou les morts-vivants seulement, une autre s'abattre sur tous les halfelins du voisinage et épargner les autres races… Tout ce qui importe, c'est l'histoire que vous désirez raconter.
 
-</Generic>
-
 <Generic>
 
-### Exemples de maladies
+### <Name>Exemples de maladies</Name>
 
 Les maladies proposées ici illustrent leurs nombreux modes de fonctionnement en jeu. Libre à vous de modifier le DD du jet de sauvegarde, la période d'incubation, les symptômes et les autres caractéristiques d'une maladie pour l'adapter à votre campagne.
 
@@ -24,7 +22,7 @@ Les maladies proposées ici illustrent leurs nombreux modes de fonctionnement en
 
 <Generic>
 
-#### La fièvre rieuse
+#### <Name>La fièvre rieuse</Name>
 
 Cette maladie touche les humanoïdes, bien que les gnomes soient étonnamment immunisés contre. Une fois en proie à la maladie, la victime éclate souvent d'un rire dément, à l'origine du nom vernaculaire de la maladie et de son morbide surnom, _« la ricanante »_.
 
@@ -40,7 +38,7 @@ Une créature infectée a droit à un jet de sauvegarde de Constitution DD 13 à
 
 <Generic>
 
-#### La peste des égouts
+#### <Name>La peste des égouts</Name>
 
 La peste des égouts est un terme générique qui regroupe une vaste catégorie de maladies qui incubent dans les égouts, les tas d'ordures et les marais stagnants et sont parfois transmises par des créatures qui résident dans ces environnements, comme les rats et les otyughs.
 
@@ -54,7 +52,7 @@ Il faut 1d4 jours d'incubation avant que la fièvre des égouts se manifeste che
 
 <Generic>
 
-#### Pourriture oculaire
+#### <Name>Pourriture oculaire</Name>
 
 Cette douloureuse infection provoque des saignements au niveau des yeux et finit par entraîner la cécité.
 
@@ -62,5 +60,6 @@ Une bête ou un humanoïde qui boit une eau contaminée par la pourriture oculai
 
 On peut soigner la pourriture oculaire à l'aide d'une fleur très rare appelée l'oeil vif, qui pousse dans certains marécages. En une heure, un personnage maîtrisant l'utilisation d'une trousse d'herboriste peut transformer la fleur en une dose d'onguent. Si le malade l'applique sur ses yeux avant un long repos, la dose empêche la maladie de s'aggraver à l'issue de ce repos. Il faut appliquer trois doses de cette manière pour soigner complètement la maladie.
 
+</Generic>
 
-
+</Items>

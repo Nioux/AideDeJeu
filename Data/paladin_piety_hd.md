@@ -1,6 +1,6 @@
 <Items>
 
-# Serment de piété
+# <Name>Serment de piété</Name>
 
 - Source: <Source>(MDR p190)</Source>
 
@@ -10,11 +10,9 @@ Qu'ils soient en première ligne des éventuelles guerres saintes dans lesquelle
 
 Ces cas sont toutefois exceptionnels et amènent bien souvent le paladin sur une voie hasardeuse où ses idéaux personnels sont mis à mal par la dure réalité des conflits divins.
 
-</Generic>
-
 <Generic>
 
-## Préceptes de piété
+## <Name>Préceptes de piété</Name>
 
 Bien que les termes exacts et les limites imposées par le serment de piété varient, les paladins qui ont prêté ce serment en partagent tous les préceptes fondamentaux.
 
@@ -30,7 +28,7 @@ Courage. Soyez prêt à tous les sacrifices pour votre foi. Détermination. Ne l
 
 <Generic>
 
-## Sorts de serment
+## <Name>Sorts de serment</Name>
 
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
@@ -46,7 +44,7 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
 <Generic>
 
-## Canalisation d'énergie divine
+## <Name>Canalisation d'énergie divine</Name>
 
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options suivantes de canalisation d'énergie divine.
 
@@ -62,7 +60,7 @@ L'effet prend fin si vous êtes inconscient ou terrorisé.
 
 <Generic>
 
-## Aura de piété
+## <Name>Aura de piété</Name>
 
 À partir du niveau 7, la puissance de votre divinité forme une protection sainte autour de vous. Vous et vos alliés dans un rayon de 3 mètres gagnez la résistance aux dégâts causés par les sorts (après éventuelle réduction des dégâts grâce à une sauvegarde réussie), y compris pour les effets de zone tels ceux d'une boule de feu. Au niveau 18, le rayon passe à 9 mètres.
 
@@ -70,7 +68,7 @@ L'effet prend fin si vous êtes inconscient ou terrorisé.
 
 <Generic>
 
-## Pureté de la lame
+## <Name>Pureté de la lame</Name>
 
 À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de faveur divine.
 
@@ -78,7 +76,7 @@ L'effet prend fin si vous êtes inconscient ou terrorisé.
 
 <Generic>
 
-## Avatar divin
+## <Name>Avatar divin</Name>
 
 Au niveau 20, vous pouvez prendre la forme d'un avatar de votre divinité. Il s'agit généralement d'un géant portant les symboles de votre divinité tutélaire et de son domaine : des éclairs dans le cas d'une divinité du ciel et de la foudre, une épée ou un marteau géant pour un dieu de la guerre, une tête animale pour un dieu de la nature, etc.
 
@@ -91,6 +89,10 @@ Pendant ce temps, vous obtenez les bénéfices suivants :
 * Au début de chaque tour, vous regagnez 10 points de vie.
 
 Vous devez terminer un repos long avant de pouvoir utiliser cette aptitude à nouveau.
+
+</Generic>
+
+</Items>
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

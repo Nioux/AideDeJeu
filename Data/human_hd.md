@@ -1,7 +1,7 @@
 
-<Items>
+<Generic>
 
-# Humain
+# <Name>Humain</Name>
 
 - AltName: <AltName>Human (SRD p5)</AltName>
 - Source: <Source>(MDR p54)</Source>
@@ -21,6 +21,8 @@ Il est difficile de faire des généralisations en ce qui concerne les humains. 
 **Vitesse.** Votre vitesse au sol de base est de 9 mètres.
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et dans une langue supplémentaire de votre choix. Les humains apprennent généralement la langue des peuples qu'ils fréquentent, même s'il s'agit parfois d'obscurs dialectes. Ils aiment parsemer leur langue d'expressions empruntées à d'autres races : des jurons orcs, des expressions musicales elfes, des citations militaires naines, etc.
+
+</Generic>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

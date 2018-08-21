@@ -1,18 +1,16 @@
 
 <Items>
 
-# Panthéons historiques et fantastiques
+# <Name>Panthéons historiques et fantastiques</Name>
 
 - AltName: <AltName>Pantheons</AltName>
 - Source: <Source>(MDR p413)(SRD p360)</Source>
 
 Les panthéons celtique, égyptien, grec et nordique sont des interprétations fantastiques des religions historiques de l’aube de la civilisation occidentale. Ils présentent des divinités parfaitement adaptées au jeu, séparées de leur contexte historique dans le monde réel et réunies dans des panthéons servant les besoins du jeu.
 
-</Generic>
-
 <Generic>
 
-### Le panthéon celtique
+### <Name>Le panthéon celtique</Name>
 
 - AltName: <AltName>The Celtic Pantheon</AltName>
 - Source: <Source>(MDR p413)(SRD p360)</Source>
@@ -25,7 +23,7 @@ Les dieux celtiques ont autant de druides que de clercs à leur service, car ils
 
 <Generic>
 
-#### Les divinités celtiques
+#### <Name>Les divinités celtiques</Name>
 
 - AltName: <AltName>Celtic Deities</AltName>
 - Source: <Source>(MDR p414)(SRD p360)</Source>
@@ -52,7 +50,7 @@ Les dieux celtiques ont autant de druides que de clercs à leur service, car ils
 
 <Generic>
 
-### Le panthéon grec
+### <Name>Le panthéon grec</Name>
 
 - AltName: <AltName>Pantheons</AltName>
 - Source: <Source>(MDR p413)(SRD p360)</Source>
@@ -63,7 +61,7 @@ Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des
 
 <Generic>
 
-#### Les divinités grecques
+#### <Name>Les divinités grecques</Name>
 
 - AltName: <AltName>Greek Deities</AltName>
 - Source: <Source>(MDR p414)(SRD p361)</Source>
@@ -95,7 +93,7 @@ Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des
 
 <Generic>
 
-### Le panthéon égyptien
+### <Name>Le panthéon égyptien</Name>
 
 - AltName: <AltName>Pantheons </AltName>
 - Source: <Source>(MDR p413)(SRD p360)</Source>
@@ -108,7 +106,7 @@ Le panthéon égyptien est assez inhabituel en ce qu’il a trois dieux responsa
 
 <Generic>
 
-#### Les divinités égyptiennes
+#### <Name>Les divinités égyptiennes</Name>
 
 - AltName: <AltName>Egyptian Deities</AltName>
 - Source: <Source>(MDR p415)(SRD p361)</Source>
@@ -135,7 +133,7 @@ Le panthéon égyptien est assez inhabituel en ce qu’il a trois dieux responsa
 
 <Generic>
 
-### Le panthéon nordique
+### <Name>Le panthéon nordique</Name>
 
 - AltName: <AltName>Pantheons </AltName>
 - Source: <Source>(MDR p413)(SRD p360)</Source>
@@ -148,7 +146,7 @@ Le panthéon nordique comprend deux grandes familles, les ases (les divinités d
 
 <Generic>
 
-#### Les divinités nordiques
+#### <Name>Les divinités nordiques</Name>
 
 - AltName: <AltName>Norse Deities</AltName>
 - Source: <Source>(MDR p415)(SRD p361)</Source>
@@ -181,7 +179,7 @@ Le panthéon nordique comprend deux grandes familles, les ases (les divinités d
 
 <Generic>
 
-### Le panthéon d’Osgild
+### <Name>Le panthéon d’Osgild</Name>
 
 - Source: <Source>(MDR p413)</Source>
 
@@ -196,7 +194,7 @@ Le second âge débuta avec la chute des Pierres du Ciel (Kaer Ouros) et il marq
 
 <Generic>
 
-#### Les divinités d’Osgild
+#### <Name>Les divinités d’Osgild</Name>
 
 - Source: <Source>(MDR p416)</Source>
 
@@ -251,6 +249,9 @@ Le second âge débuta avec la chute des Pierres du Ciel (Kaer Ouros) et il marq
 |Tyriolith, dieu du Combat contre le Chaos et du Feu purificateur|LB|Guerre, Feu|Flamme|
 |Vorona, déesse de la Justice et de la Loi|LN|Justice|Balance|
 
+</Generic>
+
+</Items>
 
 
 

@@ -1,16 +1,14 @@
 
 <Items>
 
-# Roublard
+# <Name>Roublard</Name>
 
 - AltName: <AltName>Rogue (SRD p39)</AltName>
 - Source: <Source>(MDR p202)</Source>
 
-</Generic>
-
 <Generic>
 
-# Aptitudes de classe
+# <Name>Aptitudes de classe</Name>
 
 En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -43,7 +41,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|
 |---|---|---|---|
@@ -73,7 +71,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-## Expertise
+## <Name>Expertise</Name>
 
 Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 
@@ -83,7 +81,7 @@ Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences 
 
 <Generic>
 
-## Attaque sournoise
+## <Name>Attaque sournoise</Name>
 
 Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire.
 
@@ -97,7 +95,7 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 
 <Generic>
 
-## Argot des voleurs
+## <Name>Argot des voleurs</Name>
 
 Pendant votre entraînement de roublard, vous avez appris l'argot des voleurs, un mélange secret de dialecte, de jargon et de codes qui vous permet de dissimuler des messages dans des conversations en apparence anodines.
 
@@ -109,7 +107,7 @@ De plus, vous comprenez un ensemble de signes et de symboles qui permettent de t
 
 <Generic>
 
-## Ruse
+## <Name>Ruse</Name>
 
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
@@ -117,7 +115,7 @@ De plus, vous comprenez un ensemble de signes et de symboles qui permettent de t
 
 <Generic>
 
-## Archétype de roublard
+## <Name>Archétype de roublard</Name>
 
 Au niveau 3, vous choisissez un archétype auquel vous vous efforcer d'adhérer : voleur, brute, espion ou ombrelame.
 
@@ -127,7 +125,7 @@ Tous sont détaillés à la fin de la section consacrée à cette classe. Votre 
 
 <Generic>
 
-## Amélioration de caractéristiques
+## <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -135,7 +133,7 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Esquive instinctive
+## <Name>Esquive instinctive</Name>
 
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
@@ -143,7 +141,7 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Dérobade
+## <Name>Dérobade</Name>
 
 À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de tempête de grêle. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
@@ -151,7 +149,7 @@ Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Talent
+## <Name>Talent</Name>
 
 Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
@@ -159,7 +157,7 @@ Au niveau 11, vous avez affiné vos compétences à un point proche de la perfec
 
 <Generic>
 
-## Ouïe fine
+## <Name>Ouïe fine</Name>
 
 À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.
 
@@ -167,7 +165,7 @@ Au niveau 11, vous avez affiné vos compétences à un point proche de la perfec
 
 <Generic>
 
-## Esprit impénétrable
+## <Name>Esprit impénétrable</Name>
 
 Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde] de [Sagesse].
 
@@ -175,7 +173,7 @@ Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez 
 
 <Generic>
 
-## Insaisissable
+## <Name>Insaisissable</Name>
 
 Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent.
 
@@ -185,7 +183,7 @@ Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peu
 
 <Generic>
 
-## Coup de chance
+## <Name>Coup de chance</Name>
 
 Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun.
 
@@ -197,7 +195,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 
 <Generic>
 
-# Archétypes de roublard
+# <Name>Archétypes de roublard</Name>
 
 Tous les roublards partagent un certain nombre d'aptitudes et de comportements, notamment une tendance à perfectionner leurs compétences, des techniques de combat aussi précises que mortelles et une volonté d'affiner toujours plus leurs réflexes. Mais chaque roublard choisit de développer ses talents en se spécialisant de manière différente. Ces spécialisations sont représentées par les archétypes de roublard. Votre choix d'archétype vient traduire les qualités sur lesquelles vous voulez mettre l'accent.
 
@@ -210,6 +208,10 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 ## [Espion]
 
 ## [Ombrelame]
+
+</Generic>
+
+</Items>
 
 [Voleur]: rogue_thief_hd.md
 [Brute]: rogue_brute_hd.md

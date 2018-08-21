@@ -1,90 +1,92 @@
 <Items>
 
-# Classes
-
-</LinkItem>
+# <Name>Classes</Name>
 
 <LinkItem>
 
-## [Barbare]
+## <Name>[Barbare]</Name>
 - AltName: <AltName>[Barbarian](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Barde]
+## <Name>[Barde]</Name>
 - AltName: <AltName>[Bard](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Clerc]
+## <Name>[Clerc]</Name>
 - AltName: <AltName>[Cleric](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Druide]
+## <Name>[Druide]</Name>
 - AltName: <AltName>[Druid](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Ensorceleur]
+## <Name>[Ensorceleur]</Name>
 - AltName: <AltName>[Sorcerer](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Guerrier]
+## <Name>[Guerrier]</Name>
 - AltName: <AltName>[Fighter](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Magicien]
+## <Name>[Magicien]</Name>
 - AltName: <AltName>[Wizard](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Moine]
+## <Name>[Moine]</Name>
 - AltName: <AltName>[Monk](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Paladin]
+## <Name>[Paladin]</Name>
 - AltName: <AltName>[Paladin](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Rôdeur]
+## <Name>[Rôdeur]</Name>
 - AltName: <AltName>[Ranger](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Roublard]
+## <Name>[Roublard]</Name>
 - AltName: <AltName>[Rogue](#)</AltName>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Sorcier]
+## <Name>[Sorcier]</Name>
 - AltName: <AltName>[Warlock](#)</AltName>
+
+</LinkItem>
+
+</Items>
 
 [Barbare]: barbarian_hd.md
 [Barde]: bard_hd.md

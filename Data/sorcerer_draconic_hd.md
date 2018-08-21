@@ -1,6 +1,6 @@
 <Items>
 
-# Lignée draconique
+# <Name>Lignée draconique</Name>
 
 - AltName: <AltName>Draconic Bloodline (SRD p44)</AltName>
 - Source: <Source>(MDR p155)</Source>
@@ -11,11 +11,9 @@ Le plus souvent, les ensorceleurs qui ont cette origine peuvent retracer leur as
 
 Certaines de ces lignées sont bien établies, mais la plupart du temps elles sont assez obscures. N'importe quel ensorceleur peut être le premier d'une nouvelle lignée suite à un pacte ou une autre circonstance exceptionnelle.
 
-</Generic>
-
 <Generic>
 
-## Ancêtre dragon
+## <Name>Ancêtre dragon</Name>
 
 Au niveau 1, vous choisissez un type de dragon comme ancêtre. Le type de dégâts associé à chaque dragon est pris en compte dans les aptitudes que vous gagnerez plus tard.
 
@@ -28,7 +26,7 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 
 <Generic>
 
-## Lignée draconique
+## <Name>Lignée draconique</Name>
 
 |Dragon|Type de dégâts|
 |---|---|
@@ -47,7 +45,7 @@ De plus, à chaque fois que vous faites un test de [Charisme] alors que vous int
 
 <Generic>
 
-## Résistance draconique
+## <Name>Résistance draconique</Name>
 
 Avec le temps, la magie qui parcourt vos veines fait émerger certains traits physiques de vos ancêtres dragons.
 
@@ -61,7 +59,7 @@ Quand vous ne portez pas d'armure, votre CA est égale à 13 + votre modificateu
 
 <Generic>
 
-## Affinité élémentaire
+## <Name>Affinité élémentaire</Name>
 
 À partir du niveau 6, quand vous lancez un sort qui inflige des dégâts du type associé à votre héritage draconique, vous pouvez ajouter votre modificateur de [Charisme] à ces dégâts. Vous pouvez dans le même temps dépenser 1 point de sorcellerie pour devenir résistant à ce type de dégâts pendant 1 heure.
 
@@ -69,7 +67,7 @@ Quand vous ne portez pas d'armure, votre CA est égale à 13 + votre modificateu
 
 <Generic>
 
-## Ailes de dragon
+## <Name>Ailes de dragon</Name>
 
 Au niveau 14, vous gagnez la capacité de faire émerger des ailes de dragon de votre dos. Vous gagnez alors une vitesse en vol égale à votre vitesse actuelle. Vous pouvez créer ces ailes comme une action bonus lors de votre tour. Vous les conservez tant que vous ne décidez pas d'utiliser une action bonus pendant votre tour pour les faire disparaître.
 
@@ -81,12 +79,15 @@ Les vêtements que vous portez qui n'ont pas été conçus en tenant compte de v
 
 <Generic>
 
-## Présence draconique
+## <Name>Présence draconique</Name>
 
 À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre dragon, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action et dépenser 5 points de sorcellerie afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un [jet de sauvegarde] de [Sagesse] ou bien devenir charmée (si vous choisissez la fascination) ou terrorisée (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe.
 
 Une créature qui réussit son [jet de sauvegarde] est immunisée à votre aura pendant 24 heures.
 
+</Generic>
+
+</Items>
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

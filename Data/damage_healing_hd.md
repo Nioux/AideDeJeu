@@ -1,18 +1,16 @@
 
 <Items>
 
-## Dégâts et guérison 
+## <Name>Dégâts et guérison </Name>
 
 - AltName: <AltName>Damage and Healing</AltName>
 - Source: <Source>(MDR p298)(SRD p96)</Source>
 
 Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d’un dragon, les griffes d’un troll, le poison d’un ennemi, un carreau d’arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
 
-</Generic>
-
 <Generic>
 
-### Points de vie
+### <Name>Points de vie</Name>
 
 - AltName: <AltName>Hit Points</AltName>
 - Source: <Source>(MDR p298)(SRD p96)</Source>
@@ -27,7 +25,7 @@ Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel 
 
 <Generic>
 
-### Soins
+### <Name>Soins</Name>
 
 - AltName: <AltName>Healing</AltName>
 - Source: <Source>(MDR p298)(SRD p97)</Source>
@@ -42,7 +40,7 @@ Une créature morte ne peut pas regagner de point de vie avant d’avoir été r
 
 <Generic>
 
-### Tomber à 0 point de vie
+### <Name>Tomber à 0 point de vie</Name>
 
 - AltName: <AltName>Dropping to 0 Hit Points</AltName>
 - Source: <Source>(MDR p298)(SRD p97)</Source>
@@ -53,7 +51,7 @@ Quand vous atteignez 0 point de vie, vous pouvez soit mourir, soit perdre consci
 
 <Generic>
 
-#### Mort instantanée
+#### <Name>Mort instantanée</Name>
 
 - AltName: <AltName>Instant Death</AltName>
 - Source: <Source>(MDR p298)(SRD p98)</Source>
@@ -66,7 +64,7 @@ Par exemple, une clerc a un nombre de points de vie maximum de 12. Il lui reste 
 
 <Generic>
 
-#### Perdre conscience
+#### <Name>Perdre conscience</Name>
 
 - AltName: <AltName>Falling Unconscious</AltName>
 - Source: <Source>(MDR p298)(SRD p98)</Source>
@@ -77,7 +75,7 @@ Si les dégâts que vous subissez vous font tomber à 0 point de vie mais ne vou
 
 <Generic>
 
-#### Jets de sauvegarde contre la mort
+#### <Name>Jets de sauvegarde contre la mort</Name>
 
 - AltName: <AltName>Death Saving Throws</AltName>
 - Source: <Source>(MDR p298)(SRD p98)</Source>
@@ -94,7 +92,7 @@ Dégâts à 0 point de vie. Si vous subissez des dégâts alors que vous êtes d
 
 <Generic>
 
-#### Stabiliser une créature
+#### <Name>Stabiliser une créature</Name>
 
 - AltName: <AltName>Stabilizing a Creature</AltName>
 - Source: <Source>(MDR p299)(SRD p98)</Source>
@@ -109,7 +107,7 @@ Une créature stabilisée n’a pas besoin de faire de jet de sauvegarde contre 
 
 <Generic>
 
-#### Les monstres et la mort
+#### <Name>Les monstres et la mort</Name>
 
 - AltName: <AltName>Monsters and Death</AltName>
 - Source: <Source>(MDR p299)(SRD p98)</Source>
@@ -122,7 +120,7 @@ Les principaux adversaires et personnages nonjoueurs spéciaux constituent une e
 
 <Generic>
 
-### Points de vie temporaires
+### <Name>Points de vie temporaires</Name>
 
 - AltName: <AltName>Temporary Hit Points</AltName>
 - Source: <Source>(MDR p299)(SRD p98)</Source>
@@ -139,6 +137,9 @@ Si vous êtes à 0 point de vie, recevoir des points de vie temporaires ne vous 
 
 Vos points de vie temporaires subsistent jusqu’à ce qu’ils servent à encaisser des dégâts ou jusqu’au terme d’un repos long. Il existe des exceptions à cette règle, dans le cas par exemple d’une aptitude qui vous permet d’obtenir des points de vie temporaires et qui précise combien de temps vous pouvez les conserver.
 
+</Generic>
+
+</Items>
 
 
 

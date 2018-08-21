@@ -1,7 +1,7 @@
 
 <Items>
 
-## Les poisons
+## <Name>Les poisons</Name>
 
 - AltName: <AltName>Poisons</AltName>
 - Source (CEO p382)(SRD p204)
@@ -16,11 +16,9 @@
 
 **Blessure.** Un poison agissant via une blessure s'applique sur une arme, une munition, un élément d'un piège ou tout autre objet infligeant des dégâts perforants ou tranchants. Le poison reste actif tant qu'il n'a pas affecté quelqu'un ou été lavé. Une créature est soumise aux effets du poison après avoir reçu des dégâts perforants ou tranchants via un objet enduit de ce type de poison.
 
-</Generic>
-
 <Generic>
 
-#### Les poisons
+#### <Name>Les poisons</Name>
 
 |Objet|Type|Prix pour<br>une dose|
 |---|---|---|
@@ -43,7 +41,7 @@
 
 <Generic>
 
-### Exemples de poisons
+### <Name>Exemples de poisons</Name>
 
 Chaque poison possède ses propres effets débilitants.
 
@@ -51,7 +49,7 @@ Chaque poison possède ses propres effets débilitants.
 
 <Generic>
 
-#### Essence éthérée (inhalation)
+#### <Name>Essence éthérée (inhalation)</Name>
 
 Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver [empoisonnée] pendant 8 heures. Une créature ainsi [empoisonnée] est [inconsciente]. Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
 
@@ -59,7 +57,7 @@ Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constit
 
 <Generic>
 
-#### Fumées d'othur (inhalation)
+#### <Name>Fumées d'othur (inhalation)</Name>
 
 Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 13. Si elle le rate, elle subit 10 (3d6) dégâts de poison et doit refaire ce jet de sauvegarde au début de chacun de ses tours. Elle subit 3 (1d6) dégâts de poison pour chaque échec suivant. L'empoisonnement se termine après trois jets de sauvegarde réussis.
 
@@ -67,7 +65,7 @@ Une créature soumise à ce poison doit faire un jet de sauvegarde de Constituti
 
 <Generic>
 
-#### Huile de taggit (contact)
+#### <Name>Huile de taggit (contact)</Name>
 
 Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou se trouver [empoisonnée] pendant 24 heures. Une créature ainsi [empoisonnée] est [inconsciente]. Elle se réveille si elle subit des dégâts.
 
@@ -75,7 +73,7 @@ Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constit
 
 <Generic>
 
-#### Larmes de minuit (ingestion)
+#### <Name>Larmes de minuit (ingestion)</Name>
 
 Une créature qui ingère ce poison ne souffre d'aucun effet… jusqu'à ce que sonne le premier coup de minuit. Si le poison n'a pas été neutralisé auparavant, la créature doit faire un jet de sauvegarde de Constitution DD 17. Si elle échoue, elle subit 31 (9d6) dégâts de poison, la moitié seulement si elle réussit.
 
@@ -83,7 +81,7 @@ Une créature qui ingère ce poison ne souffre d'aucun effet… jusqu'à ce que 
 
 <Generic>
 
-#### Malice (inhalation)
+#### <Name>Malice (inhalation)</Name>
 
 Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver [empoisonnée] pendant 1 heure. Une créature ainsi [empoisonnée] est [aveuglée].
 
@@ -91,7 +89,7 @@ Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constit
 
 <Generic>
 
-#### Mucus de rampant (contact)
+#### <Name>Mucus de rampant (contact)</Name>
 
 Ce poison se récolte sur un rampant mort ou [neutralisé]. Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est [empoisonnée] pendant 1 minute. Elle est [paralysée] pendant toute la durée de l'empoisonnement, mais elle a droit à un nouveau jet de sauvegarde à la fin de chacun de ses tours. Si elle en réussit un, l'effet se termine pour elle.
 
@@ -99,7 +97,7 @@ Ce poison se récolte sur un rampant mort ou [neutralisé]. Une créature soumis
 
 <Generic>
 
-#### Poison de ver pourpre (blessure)
+#### <Name>Poison de ver pourpre (blessure)</Name>
 
 Ce poison se récolte sur un ver pourpre mort ou [neutralisé]. Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 19. Si elle échoue, elle subit 42 (12d6) dégâts de poison, la moitié seulement si elle réussit.
 
@@ -107,7 +105,7 @@ Ce poison se récolte sur un ver pourpre mort ou [neutralisé]. Une créature so
 
 <Generic>
 
-#### Poison de vouivre (blessure)
+#### <Name>Poison de vouivre (blessure)</Name>
 
 Ce poison se récolte sur une vouivre morte ou [neutralisée]. Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 15. Si elle échoue, elle subit 24 (7d6) dégâts de poison, la moitié seulement si elle réussit.
 
@@ -115,7 +113,7 @@ Ce poison se récolte sur une vouivre morte ou [neutralisée]. Une créature sou
 
 <Generic>
 
-#### Poison drow (blessure)
+#### <Name>Poison drow (blessure)</Name>
 
 En règle générale, les drows sont les seuls à fabriquer ce poison et seulement en des lieux très éloignés de la lumière du soleil. Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou se trouver [empoisonnée] pendant 1 heure. Si elle rate son jet de 5 ou plus, elle est [inconsciente] tout le temps que dure l'empoisonnement. Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
 
@@ -123,7 +121,7 @@ En règle générale, les drows sont les seuls à fabriquer ce poison et seuleme
 
 <Generic>
 
-#### Sang d'assassin (ingestion)
+#### <Name>Sang d'assassin (ingestion)</Name>
 
 Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 10. Si elle le rate, elle subit 6 (1d12) dégâts de poison et elle est [empoisonnée] pendant 24 heures. Si elle le réussit, elle subit la moitié des dégâts seulement et elle n'est pas [empoisonnée].
 
@@ -131,7 +129,7 @@ Une créature soumise à ce poison doit faire un jet de sauvegarde de Constituti
 
 <Generic>
 
-#### Sérum de vérité (ingestion)
+#### <Name>Sérum de vérité (ingestion)</Name>
 
 Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 11 ou se trouver [empoisonnée] pendant 1 heure. Une créature ainsi [empoisonnée] ne peut pas mentir délibérément, comme si elle était sous l'effet du sort zone de vérité.
 
@@ -139,7 +137,7 @@ Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constit
 
 <Generic>
 
-#### Teinture pâle (ingestion)
+#### <Name>Teinture pâle (ingestion)</Name>
 
 Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 16 ou subir 3 (1d6) dégâts de poison et se trouver [empoisonnée]. Une créature ainsi [empoisonnée] doit répéter le jet de sauvegarde toutes les 24 heures et subit 3 (1d6) points de dégâts de poison à chaque fois. Tant que l'empoisonnement n'est pas terminé, il est impossible de soigner les dégâts venant du poison, de quelque manière que ce soit. L'effet se termine et la victime peut guérir normalement une fois qu'elle a réussi sept jets de sauvegarde.
 
@@ -147,7 +145,7 @@ Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constit
 
 <Generic>
 
-#### Torpeur (ingestion)
+#### <Name>Torpeur (ingestion)</Name>
 
 Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver [empoisonnée] pendant 4d6 heures. Une créature ainsi [empoisonnée] est [neutralisée].
 
@@ -155,9 +153,12 @@ Une créature soumise à ce poison doit réussir un jet de sauvegarde de Constit
 
 <Generic>
 
-#### Venin de serpent (blessure)
+#### <Name>Venin de serpent (blessure)</Name>
 
 Ce poison se récolte sur un serpent venimeux géant mort ou [neutralisé]. Une créature soumise à ce poison doit faire un jet de sauvegarde de Constitution DD 11. Si elle échoue, elle subit 10 (3d6) dégâts de poison, la moitié seulement si elle réussit.
 
+</Generic>
+
+</Items>
 
 

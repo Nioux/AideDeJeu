@@ -1,6 +1,7 @@
+
 <Items>
 
-# Dons
+# <Name>Dons</Name>
 
 - AltName: <AltName>Feats (SRD p75)</AltName>
 - Source: <Source>(MDR p245)</Source>
@@ -11,11 +12,9 @@ Un don représente un talent ou un domaine d'expertise d'un personnage, qui lui 
 
 Afin de choisir un don, vous devez remplir toutes les conditions nécessaires au préalable. Si vous ne remplissez plus les conditions d'utilisation d'un don que vous possédez, vous devez attendre de les remplir de nouveau pour pouvoir utiliser ce don. Par exemple, vous devez avoir une [Force] supérieure ou égale à 13 pour choisir le don [Lutteur]. Si votre valeur de [Force] passe en dessous de 13 pour une raison ou une autre – peut-être à la suite d'une ponction de force (la capacité d'une [ombre]), – vous ne pouvez plus utiliser le don [Lutteur] tant que vous n'aurez pas retrouvé une [Force] de 13 ou plus.
 
-</Generic>
-
 <Generic>
 
-### Acrobate
+### <Name>Acrobate</Name>
 
 Vous avez passé de longues heures à pratiquer des exercices de haute voltige, d'escalade et de culbute afin d'améliorer vos performances acrobatiques. Lorsque vous ne portez pas d'armure plus lourde qu'une [armure légère], vous obtenez les atouts suivants.
 
@@ -28,7 +27,7 @@ Vous avez passé de longues heures à pratiquer des exercices de haute voltige, 
 
 <Generic>
 
-### Ambidextre
+### <Name>Ambidextre</Name>
 
 Lorsque vous faites l'acquisition de ce don, choisissez trois bénéfices différents parmi les cinq présentés ci-dessous. Ce choix est définitif.
 
@@ -42,7 +41,7 @@ Lorsque vous faites l'acquisition de ce don, choisissez trois bénéfices diffé
 
 <Generic>
 
-### Arbalétrier
+### <Name>Arbalétrier</Name>
 
 Au cours de longues années de pratique, vous avez appris à transformer votre arbalète en instrument de mort, même en combat rapproché.
 
@@ -55,7 +54,7 @@ Au cours de longues années de pratique, vous avez appris à transformer votre a
 
 <Generic>
 
-### Archer
+### <Name>Archer</Name>
 
 Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :
 
@@ -68,7 +67,7 @@ Votre longue pratique du tir à l'arc vous procure les bénéfices suivants :
 
 <Generic>
 
-### Archer monté
+### <Name>Archer monté</Name>
 
 Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et à utiliser ce mouvement à votre avantage. Si vous êtes sur votre monture (contrôlée) et que vous n'êtes pas neutralisé, vous disposez des bénéfices suivants :
 
@@ -80,7 +79,7 @@ Vous avez appris à tirer à l'arc depuis le dos d'une monture en mouvement et �
 
 <Generic>
 
-### Bagarreur
+### <Name>Bagarreur</Name>
 
 Que vous soyez adepte d'un art martial ou du combat appris à la dure dans la rue, vous êtes un expert du combat à mains nues.
 
@@ -93,7 +92,7 @@ Que vous soyez adepte d'un art martial ou du combat appris à la dure dans la ru
 
 <Generic>
 
-### Botte secrète
+### <Name>Botte secrète</Name>
 
 Au cours de vos aventures ou de votre éducation martiale, vous avez appris d'un vieux maître ou d'un adversaire vaincu une botte secrète que vous seul connaissez. Cette botte secrète est propre à un type d'arme en particulier que vous maîtrisez (épée longue, hache d'arme, etc.). La botte secrète vous confère l'avantage sur votre attaque et, en cas de succès de celle-ci, votre adversaire subit un effet de votre choix parmi les trois suivants :
 
@@ -107,7 +106,7 @@ Après avoir utilisé votre botte secrète, que l'attaque soit un succès ou un 
 
 <Generic>
 
-### Caméléon
+### <Name>Caméléon</Name>
 
 Vous avez une capacité innée à vous adapter à n'importe quelle situation et à vous faire passer pour compétent dans des domaines qui vous sont inconnus.
 
@@ -119,7 +118,7 @@ Vous avez une capacité innée à vous adapter à n'importe quelle situation et 
 
 <Generic>
 
-### Cavalier
+### <Name>Cavalier</Name>
 
 Vous n'avez besoin que de 1,50 mètre de mouvement pour monter en selle. Lorsque vous êtes sur votre monture et que vous n'êtes pas neutralisé, vous obtenez les bénéfices suivants :
 
@@ -132,7 +131,7 @@ Vous n'avez besoin que de 1,50 mètre de mouvement pour monter en selle. Lorsque
 
 <Generic>
 
-### Combattant en équipe
+### <Name>Combattant en équipe</Name>
 
 Vous avez été entraîné à combattre au sein d'une unité et vous êtes sensible aux notions militaires de fixation et de soutien.
 
@@ -143,7 +142,7 @@ Vous avez été entraîné à combattre au sein d'une unité et vous êtes sensi
 
 <Generic>
 
-### Chef né
+### <Name>Chef né</Name>
 
 Vous êtes un leader né, vous savez trouver les mots justes pour redonner force et espoir et, à vos côtés, vos alliés donnent le meilleur d'eux-mêmes. Vous pouvez utiliser ce don autant de fois que votre modificateur de Charisme. Vous devez terminer un repos court ou long pour pouvoir de nouveau utiliser cette aptitude. À chaque utilisation, vous obtenez un des effets suivant au choix :
 
@@ -154,7 +153,7 @@ Vous êtes un leader né, vous savez trouver les mots justes pour redonner force
 
 <Generic>
 
-### Concentré
+### <Name>Concentré</Name>
 
 Des exercices mentaux ardus vous ont permis de développer vos capacités de concentration dans un domaine précis. Ce don peut être choisi plusieurs fois pour des caractéristiques différentes.
 
@@ -165,7 +164,7 @@ Des exercices mentaux ardus vous ont permis de développer vos capacités de con
 
 <Generic>
 
-### Coriace
+### <Name>Coriace</Name>
 
 Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.
 
@@ -177,7 +176,7 @@ Vous êtes dur au mal et il en faut beaucoup pour vous mettre au tapis.
 
 <Generic>
 
-### Destiné
+### <Name>Destiné</Name>
 
 Il semble que vous soyez destiné à accomplir de grandes choses. Vous possédez un nombre maximal de points de destin égal à votre bonus de maîtrise. Vous récupérez 1 point de destin après chaque repos long.
 
@@ -188,7 +187,7 @@ Il semble que vous soyez destiné à accomplir de grandes choses. Vous possédez
 
 <Generic>
 
-### Destructeur
+### <Name>Destructeur</Name>
 
 Vous vous êtes spécialisé dans un type de sorts et, avec ces sorts, votre capacité de destruction est sans égale.
 
@@ -201,7 +200,7 @@ Vous pouvez choisir ce don plusieurs fois, mais vous devez choisir à chaque foi
 
 <Generic>
 
-### Docte
+### <Name>Docte</Name>
 
 Comme une éponge, votre esprit est rompu à l'assimilation de nouvelles informations. Vous obtenez les bénéfices suivants :
 
@@ -213,7 +212,7 @@ Comme une éponge, votre esprit est rompu à l'assimilation de nouvelles informa
 
 <Generic>
 
-### Enfant des profondeurs
+### <Name>Enfant des profondeurs</Name>
 
 Vous avez vécu de longues périodes sans lumière, dans les profondeurs de la terre.
 
@@ -225,7 +224,7 @@ Vous avez vécu de longues périodes sans lumière, dans les profondeurs de la t
 
 <Generic>
 
-### Escrimeur
+### <Name>Escrimeur</Name>
 
 Vous avez appris les subtilités du duel à l'arme blanche et maîtrisez parfaitement la discipline et le style de combat rapide et précis qu'impose l'escrime. Lorsque vous utilisez une arme de corps-à-corps dotée de la propriété finesse et que vous portez une armure légère (ou aucune armure) sans bouclier, vous pouvez obtenir un seul des bénéfices suivants à chaque round :
 
@@ -236,7 +235,7 @@ Vous avez appris les subtilités du duel à l'arme blanche et maîtrisez parfait
 
 <Generic>
 
-### Expert en armes de jet
+### <Name>Expert en armes de jet</Name>
 
 Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous êtes d'une précision légendaire.
 
@@ -248,7 +247,7 @@ Vous avez travaillé sans relâche votre maîtrise des armes de jet et vous ête
 
 <Generic>
 
-### Expert en armes doubles
+### <Name>Expert en armes doubles</Name>
 
 Vous êtes capable d'utiliser les deux extrémités d'un bâton ou d'une arme longue. Lorsque vous choisissez l'action attaquer avec un bâton, une lance, un trident, une pique, une hallebarde ou une coutille que vous utilisez à deux mains, vous obtenez les bénéfices suivants :
 
@@ -259,7 +258,7 @@ Vous êtes capable d'utiliser les deux extrémités d'un bâton ou d'une arme lo
 
 <Generic>
 
-### Expert en armes longues
+### <Name>Expert en armes longues</Name>
 
 Vous êtes passé maître dans l'art d'attaquer vos ennemis de plus loin avec les armes pourvues d'un long manche. Lorsque vous utilisez une arme qui dispose de la propriété allonge, vous obtenez les bénéfices suivants :
 
@@ -271,7 +270,7 @@ Vous êtes passé maître dans l'art d'attaquer vos ennemis de plus loin avec le
 
 <Generic>
 
-### Expert en armes lourdes
+### <Name>Expert en armes lourdes</Name>
 
 Vous savez tirer le meilleur parti possible des armes les plus lourdes et les plus létales. Lorsque vous utilisez une arme dotée de la propriété lourde, vous obtenez les bénéfices suivants :
 
@@ -283,7 +282,7 @@ Vous savez tirer le meilleur parti possible des armes les plus lourdes et les pl
 
 <Generic>
 
-### Expert en armures
+### <Name>Expert en armures</Name>
 
 Vous savez utiliser au mieux la protection que votre armure vous offre pour atténuer un coup. Vous obtenez les bénéfices suivants :
 
@@ -297,7 +296,7 @@ Si vous changez d'armure, cela ne modifie pas le nombre d'utilisation de cette a
 
 <Generic>
 
-### Expert au bouclier
+### <Name>Expert au bouclier</Name>
 
 Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d'ailleurs appris à vous en servir autant pour vous défendre que pour attaquer vos adversaires. Lorsque vous utiliser un bouclier dans une de vos mains :
 
@@ -309,7 +308,7 @@ Votre bouclier est devenu un compagnon aussi fidèle que votre arme, vous avez d
 
 <Generic>
 
-### Expert en manoeuvres
+### <Name>Expert en manoeuvres</Name>
 
 Vous avez étudié des méthodes alternatives de remporter un combat en maîtrisant votre adversaire plutôt qu'en lui infligeant des blessures. Vous obtenez les bénéfices suivants :
 
@@ -321,7 +320,7 @@ Vous avez étudié des méthodes alternatives de remporter un combat en maîtris
 
 <Generic>
 
-### Fantassin léger
+### <Name>Fantassin léger</Name>
 
 Vous avez reçu une formation militaire supérieure à celles des autres individus de votre classe. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les trois présentés ci-dessous.
 
@@ -333,7 +332,7 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 
 <Generic>
 
-### Fantassin intermédiaire
+### <Name>Fantassin intermédiaire</Name>
 
 **Prérequis :** maîtrise des [armures légères]
 
@@ -347,7 +346,7 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 
 <Generic>
 
-### Fantassin lourd
+### <Name>Fantassin lourd</Name>
 
 **Prérequis :** maîtrise des [armures intermédiaires].
 
@@ -361,7 +360,7 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 
 <Generic>
 
-### Féroce
+### <Name>Féroce</Name>
 
 Vous êtes un spécialiste des attaques brutales, en particulier après une charge furieuse.
 
@@ -373,7 +372,7 @@ Vous êtes un spécialiste des attaques brutales, en particulier après une char
 
 <Generic>
 
-### Fléau des mages
+### <Name>Fléau des mages</Name>
 
 Que ce soit par haine ou par intérêt, vous avez fait du combat contre les lanceurs de sorts votre fonds de commerce et vous êtes devenu leur Némésis.
 
@@ -385,7 +384,7 @@ Lorsque vous blessez un lanceur de sort qui maintient sa concentration, la diffi
 
 <Generic>
 
-### Furtif
+### <Name>Furtif</Name>
 
 Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser.
 
@@ -398,7 +397,7 @@ Vous cultivez l'art de passer inaperçu, de vous dissimuler ou de vous déguiser
 
 <Generic>
 
-### Impitoyable
+### <Name>Impitoyable</Name>
 
 Vous êtes un spécialiste des mêlées confuses et vous savez tirer profit des erreurs de vos adversaires.
 
@@ -409,7 +408,7 @@ Vous êtes un spécialiste des mêlées confuses et vous savez tirer profit des 
 
 <Generic>
 
-### Infatigable
+### <Name>Infatigable</Name>
 
 Vos capacités de récupération sont exceptionnelles et font de vous un individu très au-dessus de la moyenne dans ce domaine précis.
 
@@ -421,7 +420,7 @@ Vos capacités de récupération sont exceptionnelles et font de vous un individ
 
 <Generic>
 
-### Initié des arcanes
+### <Name>Initié des arcanes</Name>
 
 Vous avez étudié pendant quelques temps auprès d'un magicien ou bien vous avez trouvé un grimoire antique dans lequel vous avez appris des secrets oubliés. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les quatre proposés :
 
@@ -436,7 +435,7 @@ Votre caractéristique d'incantation pour les sorts appris par ce biais est l'In
 
 <Generic>
 
-### Initié de la foi
+### <Name>Initié de la foi</Name>
 
 Vous avez été touché par la grâce divine ou bien vous avez été formé par un maître spirituel. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les quatre proposés :
 
@@ -451,7 +450,7 @@ Votre caractéristique d'incantation pour les sorts appris par ce biais est la S
 
 <Generic>
 
-### Lutteur
+### <Name>Lutteur</Name>
 
 **Prérequis :** [Force] 13 ou plus
 
@@ -464,7 +463,7 @@ Vous avez développé des compétences qui vous permettent de bien vous débroui
 
 <Generic>
 
-### Mage combattant
+### <Name>Mage combattant</Name>
 
 Vous êtes une exception, votre talent est le fruit d'un entraînement très particulier qui vous permet d'allier la puissance des armes à celle de la magie.
 
@@ -476,7 +475,7 @@ Vous êtes une exception, votre talent est le fruit d'un entraînement très par
 
 <Generic>
 
-### Mains de guérisseur
+### <Name>Mains de guérisseur</Name>
 
 Que ce soit par une longue tradition familiale ou l'apprentissage auprès d'un guérisseur ou d'un rebouteux, vous disposez d'une compréhension intuitive et intime des mécanismes de la vie.
 
@@ -488,7 +487,7 @@ Que ce soit par une longue tradition familiale ou l'apprentissage auprès d'un g
 
 <Generic>
 
-### Maître empoisonneur
+### <Name>Maître empoisonneur</Name>
 
 Vous êtes passé maître dans l'utilisation de ce que certains appellent l'arme des lâches.
 
@@ -500,7 +499,7 @@ Vous êtes passé maître dans l'utilisation de ce que certains appellent l'arme
 
 <Generic>
 
-### Pilleur de tombes
+### <Name>Pilleur de tombes</Name>
 
 Vous êtes un chasseur de trésor expérimenté, les tombeaux et les nécropoles n'ont plus de secret pour vous. Lorsque vous faites l'acquisition de ce don, choisissez quatre bénéfices différents parmi les six proposés :
 
@@ -515,7 +514,7 @@ Vous êtes un chasseur de trésor expérimenté, les tombeaux et les nécropoles
 
 <Generic>
 
-### Sang de sorcier
+### <Name>Sang de sorcier</Name>
 
 Vous vous êtes découvert un don étrange. Lorsque vous faites l'acquisition de ce don, choisissez deux bénéfices différents parmi les quatre proposés.
 
@@ -530,7 +529,7 @@ Votre caractéristique d'incantation pour les sorts appris par ce biais est le C
 
 <Generic>
 
-### Sang des étoiles
+### <Name>Sang des étoiles</Name>
 
 Vous avez une aptitude innée à moduler la magie ou à l'adapter à la situation. Choisissez deux bénéfices différents parmi les trois proposés.
 
@@ -542,7 +541,7 @@ Vous avez une aptitude innée à moduler la magie ou à l'adapter à la situatio
 
 <Generic>
 
-### Sort de prédilection
+### <Name>Sort de prédilection</Name>
 
 Vous avez lancé le même sort encore et encore, jusqu'à ce que l'utiliser devienne pour vous d'une facilité déconcertante. Choisissez un sort (mais pas un tour de magie) que vous êtes capable de lancer, dont le niveau est inférieur ou égal à la moitié de votre bonus de maîtrise et dont le temps d'incantation est égal à une action.
 
@@ -555,7 +554,7 @@ Vous pouvez choisir ce don plusieurs fois, mais à chaque fois pour un sort de p
 
 <Generic>
 
-### Talentueux
+### <Name>Talentueux</Name>
 
 Choisissez une caractéristique. Vous bénéficiez de deux bénéfices différents à choisir parmi les trois présentés :
 
@@ -567,7 +566,7 @@ Choisissez une caractéristique. Vous bénéficiez de deux bénéfices différen
 
 <Generic>
 
-### Tireur d'élite
+### <Name>Tireur d'élite</Name>
 
 Vous êtes un maître des armes à distance et nul n'est votre égal en ce domaine.
 
@@ -580,7 +579,7 @@ Vous êtes un maître des armes à distance et nul n'est votre égal en ce domai
 
 <Generic>
 
-### Touche-à-tout
+### <Name>Touche-à-tout</Name>
 
 Vos voyages et votre curiosité naturelle vous ont permis d'apprendre un peu de tout. Choisissez trois options parmi les quatre proposées ci-dessous, mais pas plus de deux fois la même.
 
@@ -593,7 +592,7 @@ Vos voyages et votre curiosité naturelle vous ont permis d'apprendre un peu de 
 
 <Generic>
 
-### Vétéran
+### <Name>Vétéran</Name>
 
 Vous avez reçu une formation militaire supérieure à celles des autres individus de votre classe et vous obtenez les atouts suivants :
 
@@ -604,7 +603,7 @@ Vous avez reçu une formation militaire supérieure à celles des autres individ
 
 <Generic>
 
-### Vigilant
+### <Name>Vigilant</Name>
 
 Vous êtes toujours sur vos gardes et il est exceptionnellement difficile de vous prendre de court.
 
@@ -615,7 +614,7 @@ Vous êtes toujours sur vos gardes et il est exceptionnellement difficile de vou
 
 <Generic>
 
-### Volonté de fer
+### <Name>Volonté de fer</Name>
 
 Nul ne peut vous empêcher de recourir à votre magie lorsque vous le décidez, votre volonté est telle que vous êtes capable de puiser dans vos forces intérieures et par-delà la douleur pour parvenir à vos fins.
 
@@ -623,5 +622,6 @@ Nul ne peut vous empêcher de recourir à votre magie lorsque vous le décidez, 
 * Lorsque vous cessez volontairement de vous concentrer sur un sort, ou à la fin de sa durée légale, vous pouvez prolonger son effet d'un round supplémentaire en sacrifiant 1 point de vie. À chaque round suivant, le nombre de points de vie nécessaire pour maintenir l'effet du sort est égal au nombre de round de prolongation : 2 points de vie au deuxième round (pour un total de 1 + 2 = 3 pv), 3 points au troisième (pour un total de 1 + 2 + 3 = 6 pv), etc. Vous ne pouvez pas prolonger un sort de cette façon au-delà du double de sa durée légale.
 * Lorsque vous tombez à 0 point de vie ou que vous êtes neutralisé, si vous mainteniez un sort, il dure encore jusqu'à la fin de votre prochain tour.
 
+</Generic>
 
-
+</Items>

@@ -1,7 +1,7 @@
 
 <Items>
 
-# Armes
+# <Name>Armes</Name>
 
 - AltName: <AltName>Weapons (SRD p64)</AltName>
 - Source: <Source>(MDR p226)</Source>
@@ -10,11 +10,9 @@ Votre classe vous donne la maîtrise de certaines armes, qui sont représentativ
 
 Le tableau des armes vous présente les armes les plus couramment rencontrées dans l'univers du jeu, leur prix et leur poids, les dégâts qu'elles infligent et les propriétés spéciales dont elles disposent. Les armes sont classées en fonction de deux grandes catégories : corps-à-corps ou à distance. Une arme de corps-à-corps vous permet d'attaquer une cible qui se trouve dans un rayon de 1,50 mètre autour de vous et une arme à distance vous permet d'attaquer une cible qui se trouve loin de vous.
 
-</Generic>
-
 <Generic>
 
-### Maîtrise des armes
+### <Name>Maîtrise des armes</Name>
 
 - AltName: <AltName>Weapon Proficiency (SRD p64)</AltName>
 - Source: <Source>(MDR p226)</Source>
@@ -27,7 +25,7 @@ Maîtriser une arme vous permet d'ajouter votre bonus de maîtrise au jet d'atta
 
 <Generic>
 
-### Propriétés des armes
+### <Name>Propriétés des armes</Name>
 
 - AltName: <AltName>Weapon Properties (SRD p64)</AltName>
 - Source: <Source>(MDR p226)</Source>
@@ -38,7 +36,7 @@ De nombreuses armes ont des propriétés spéciales liées à leur utilisation, 
 
 <Generic>
 
-##### À deux mains
+##### <Name>À deux mains</Name>
 
 - AltName: <AltName>Two-Handed (SRD p65)</AltName>
 - Source: <Source>(MDR p226)</Source>
@@ -49,7 +47,7 @@ Vous devez manier cette arme à deux mains pour effectuer une attaque.
 
 <Generic>
 
-##### Allonge
+##### <Name>Allonge</Name>
 
 - AltName: <AltName>Reach (SRD p65)</AltName>
 - Source: <Source>(MDR p226)</Source>
@@ -60,7 +58,7 @@ Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand
 
 <Generic>
 
-##### Chargement
+##### <Name>Chargement</Name>
 
 - AltName: <AltName>Loading (SRD p65)</AltName>
 - Source: <Source>(MDR p226)</Source>
@@ -71,7 +69,7 @@ Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu
 
 <Generic>
 
-##### Finesse
+##### <Name>Finesse</Name>
 
 - AltName: <AltName>Finesse (SRD p64)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -82,7 +80,7 @@ Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez 
 
 <Generic>
 
-##### Lancer
+##### <Name>Lancer</Name>
 
 - AltName: <AltName>Thrown (SRD p65)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -93,7 +91,7 @@ Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une
 
 <Generic>
 
-##### Légère
+##### <Name>Légère</Name>
 
 - AltName: <AltName>Light (SRD p65)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -104,7 +102,7 @@ Une arme légère est petite et facile à manier, ce qui la rend idéale pour le
 
 <Generic>
 
-##### Lourde
+##### <Name>Lourde</Name>
 
 - AltName: <AltName>Heavy (SRD p65)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -115,7 +113,7 @@ Les créatures de petite taille subissent un désavantage sur les jets d'attaque
 
 <Generic>
 
-##### Munitions
+##### <Name>Munitions</Name>
 
 - AltName: <AltName>Ammunition (SRD p64)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -128,7 +126,7 @@ Si vous utilisez une arme qui a la propriété munitions pour faire une attaque 
 
 <Generic>
 
-##### Polyvalente
+##### <Name>Polyvalente</Name>
 
 - AltName: <AltName>Versatile (SRD p65)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -139,7 +137,7 @@ Une telle arme peut être utilisée avec une ou deux mains. À côté de la prop
 
 <Generic>
 
-##### Portée
+##### <Name>Portée</Name>
 
 - AltName: <AltName>Range (SRD p65)</AltName>
 - Source: <Source>(MDR p227)</Source>
@@ -150,7 +148,7 @@ Une arme qui peut être utilisée pour faire des attaques à distance affiche un
 
 <Generic>
 
-##### Spéciale
+##### <Name>Spéciale</Name>
 
 - AltName: <AltName>Special (SRD p65)</AltName>
 - Source: <Source>(MDR p228)</Source>
@@ -161,7 +159,7 @@ Une arme qui possède la propriété spéciale utilise des règles de fonctionne
 
 <Generic>
 
-#### Armes improvisées
+#### <Name>Armes improvisées</Name>
 
 - AltName: <AltName>Improvised Weapons (SRD p65)</AltName>
 - Source: <Source>(MDR p228)</Source>
@@ -176,13 +174,16 @@ Un objet qui ne ressemble à aucune arme inflige 1d4 dégâts (le MJ décide d'u
 
 <Generic>
 
-#### Armes en argent
+#### <Name>Armes en argent</Name>
 
 - AltName: <AltName>Silvered Weapons (SRD p65)</AltName>
 - Source: <Source>(MDR p228)</Source>
 
 Certains monstres qui possèdent une immunité ou une résistance aux armes non-magiques sont vulnérables aux armes en argent. Les aventuriers prudents n'hésitent donc pas à dépenser quelques pièces supplémentaires pour plaquer leurs armes avec de l'argent. Un personnage peut plaquer une arme unique ou dix munitions avec de l'argent pour 100 po. Ce tarif prend en compte non seulement le prix de l'argent, mais aussi celui de l'expertise nécessaire pour plaquer l'argent sur une arme sans lui faire perdre en efficacité.
 
+</Generic>
+
+</Items>
 
 
 

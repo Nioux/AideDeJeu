@@ -1,7 +1,7 @@
 
 <Items>
 
-# Objets magiques intelligents
+# <Name>Objets magiques intelligents</Name>
 
 - AltName: <AltName>Sentient Magic Items (SRD p251)</AltName>
 - Source: <Source>(CDC p189)</Source>
@@ -13,11 +13,9 @@ La plupart des objets intelligents sont des armes. D'autres types d'objets peuve
 
 Les objets intelligents fonctionnent comme des PNJ sous le contrôle du MJ. Toute propriété activée de l'objet reste sous le contrôle de l'objet et non de son utilisateur. Tant que son utilisateur entretient une bonne relation avec l'objet, il peut accéder à ses propriétés normalement. Si la relation dégénère, l'objet peut réprimer ses propriétés activées, voire les retourner contre son utilisateur.
 
-</Generic>
-
 <Generic>
 
-#### Création d'objets magiques intelligents
+#### <Name>Création d'objets magiques intelligents</Name>
 
 Lorsque vous décidez de donner une conscience à un objet magique, la création du « personnage » qu'est l'objet se déroule de la même façon que celle d'un PNJ, aux exceptions suivantes.
 
@@ -25,7 +23,7 @@ Lorsque vous décidez de donner une conscience à un objet magique, la création
 
 <Generic>
 
-##### Caractéristiques
+##### <Name>Caractéristiques</Name>
 
 Un objet magique intelligent possède des valeurs d'Intelligence, de Sagesse et de Charisme. Vous pouvez choisir les caractéristiques de l'objet ou les déterminer au hasard. Pour les déterminer au hasard, lancez 4d6 pour chacune d'elles, en éliminant le résultat le plus bas et en faisant le total du reste.
 
@@ -33,7 +31,7 @@ Un objet magique intelligent possède des valeurs d'Intelligence, de Sagesse et 
 
 <Generic>
 
-##### Communication
+##### <Name>Communication</Name>
 
 Un objet intelligent peut communiquer d'une façon une d'une autre, que ce soit en partageant ses émotions, en diffusant ses pensées par télépathie ou en parlant à voix haute. Choisissez la façon employée par l'objet pour communiquer ou déterminez la au hasard grâce à la table page suivante.
 
@@ -47,7 +45,7 @@ Un objet intelligent peut communiquer d'une façon une d'une autre, que ce soit 
 
 <Generic>
 
-##### Sens
+##### <Name>Sens</Name>
 
 De la conscience naît la sensibilité. Un objet intelligent perçoit son environnement sur une distance limitée. Choisissez ses modes de perception ou déterminez-les au hasard grâce à la table ci-dessous.
 
@@ -62,7 +60,7 @@ De la conscience naît la sensibilité. Un objet intelligent perçoit son enviro
 
 <Generic>
 
-##### Alignement
+##### <Name>Alignement</Name>
 
 Un objet intelligent possède un alignement. Son créateur ou sa nature peuvent influer sur cet alignement. Sinon, choisissez son alignement ou déterminez-le au hasard grâce à la table ci-dessous.
 
@@ -82,7 +80,7 @@ Un objet intelligent possède un alignement. Son créateur ou sa nature peuvent 
 
 <Generic>
 
-##### Dessein spécial
+##### <Name>Dessein spécial</Name>
 
 Vous pouvez doter l'objet intelligent d'un objectif qu'il cherchera à remplir, pourquoi pas à l'exclusion de tous autres. Tant que son utilisateur agit en accord avec ce dessein spécial, l'objet continue de coopérer. Toute déviation de l'atteinte de cet objectif peut provoquer un conflit entre l'objet et son utilisateur. Ce conflit peut pousser l'objet à bloquer l'utilisation de ses propriétés activées. Choisissez un dessein spécial ou déterminez-le au hasard grâce à la table page ci-contre.
 
@@ -103,7 +101,7 @@ Vous pouvez doter l'objet intelligent d'un objectif qu'il cherchera à remplir, 
 
 <Generic>
 
-##### Conflit
+##### <Name>Conflit</Name>
 
 Un objet intelligent possède son libre-arbitre, façonné par sa personnalité et son alignement. Si son utilisateur agit d'une façon opposée à l'alignement ou au dessein de l'objet, un conflit peut éclater. Dans ce cas, l'objet effectue un test de Charisme opposé au test de Charisme de son utilisateur. Si l'objet remporte l'opposition, il impose une ou plusieurs des exigences suivantes :
 
@@ -120,5 +118,8 @@ Si son utilisateur refuse d'obéir aux ordres de l'objet, celui-ci peut effectue
 
 Si un objet intelligent tente de prendre le contrôle de son utilisateur, celui-ci doit effectuer un jet de sauvegarde de Charisme contre un DD égal à 12 + le modificateur de Charisme de l'objet. En cas de jet de sauvegarde raté, l'utilisateur est charmé par l'objet pendant 1d12 heures. L'utilisateur ainsi charmé doit tenter de suivre les ordres de l'objet. S'il subit des dégâts, il peut retenter le jet de sauvegarde et mettre fin à l'effet en cas de réussite. Il est impossible d'utiliser l'objet à nouveau avant l'aube prochaine, que son utilisateur ait réussi ou non sa tentative de contrôle.
 
+</Generic>
+
+</Items>
 
 
