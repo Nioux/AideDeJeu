@@ -1,7 +1,7 @@
 
 <Items>
 
-# Armures
+# <Name>Armures</Name>
 
 - AltName: <AltName>Armor (SRD p62)</AltName>
 - Source: <Source>(MDR p223)</Source>
@@ -20,11 +20,9 @@ Le tableau des armures indique le prix, le poids et toute autre propriété des 
 
 **Maîtrise des armures.** Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un désavantage pour tous les tests de caractéristique, jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
-</Generic>
-
 <Generic>
 
-### Armures légères
+### <Name>Armures légères</Name>
 
 - AltName: <AltName>Light Armor (SRD p63)</AltName>
 - Source: <Source>(MDR p223)</Source>
@@ -35,7 +33,7 @@ Les armures légères sont faites de matériaux souples et fins. Elles sont adap
 
 <Generic>
 
-### Armures intermédiaires
+### <Name>Armures intermédiaires</Name>
 
 - AltName: <AltName>Medium Armor (SRD p63)</AltName>
 - Source: <Source>(MDR p224)</Source>
@@ -46,7 +44,7 @@ Une armure intermédiaire protège plus qu'une armure légère mais, en contrepa
 
 <Generic>
 
-### Armures lourdes
+### <Name>Armures lourdes</Name>
 
 - AltName: <AltName>Heavy Armor (SRD p63)</AltName>
 - Source: <Source>(MDR p225)</Source>
@@ -59,7 +57,7 @@ Les armures lourdes ne vous permettent pas d'ajouter votre modificateur de Dext�
 
 <Generic>
 
-### Enfiler et retirer une armure
+### <Name>Enfiler et retirer une armure</Name>
 
 - AltName: <AltName>Getting Into and Out of Armor (SRD p64)</AltName>
 - Source: <Source>(MDR p225)</Source>
@@ -80,6 +78,9 @@ Enfiler et retirer une armure
 |[Bouclier]|1 action|1 action|
 
 
+</Generic>
+
+</Items>
 
 
 [arme à distance]: weapons_hd.md#arme-à-distance

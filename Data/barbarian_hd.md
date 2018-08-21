@@ -1,18 +1,16 @@
 
 <Items>
 
-# Barbare
+# <Name>Barbare</Name>
 
 - AltName: <AltName>Barbarian (SRD p8)</AltName>
 - Source: <Source>(MDR p114)</Source>
 
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
-</Generic>
-
 <Generic>
 
-## Points de vie
+## <Name>Points de vie</Name>
 
 **Dés de vie :** 1d12 par niveau de barbare
 **Points de vie au niveau 1 :** 12 + votre modificateur de [Constitution]
@@ -22,7 +20,7 @@ En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 <Generic>
 
-## Maîtrises
+## <Name>Maîtrises</Name>
 
 **Armures :** [armures légères], [armures intermédiaires], [boucliers]
 **Armes :** [armes courantes], [armes de guerre]
@@ -34,7 +32,7 @@ En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
 <Generic>
 
-## Équipement
+## <Name>Équipement</Name>
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
 
@@ -46,7 +44,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-# Tableau d'évolution
+# <Name>Tableau d'évolution</Name>
 
 |Niveau|Bonus<br>de<br>maîtrise|Aptitudes|Rages|Dégâts<br>de<br>rage|
 |---|---|---|---|---|
@@ -78,7 +76,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 <Generic>
 
-## Rage
+## <Name>Rage</Name>
 
 Quand vous vous retrouvez au coeur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'[armure lourde], vous obtenez les bénéfices suivants :
 
@@ -96,7 +94,7 @@ Une fois que vous êtes entré en état de rage le nombre de fois permis par vot
 
 <Generic>
 
-## Défense sans armure
+## <Name>Défense sans armure</Name>
 
 Tant que vous ne portez pas d'armure, votre [classe d'armure] est égale à 10 + votre modificateur de [Dextérité] + votre modificateur de [Constitution]. Vous pouvez utiliser un [bouclier] et bénéficier de cette aptitude.
 
@@ -104,7 +102,7 @@ Tant que vous ne portez pas d'armure, votre [classe d'armure] est égale à 10 +
 
 <Generic>
 
-## Témérité
+## <Name>Témérité</Name>
 
 À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un avantage sur toutes vos attaques de corps-à-corps basées sur la [Force] pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [avantage] jusqu'à votre prochain tour.
 
@@ -112,7 +110,7 @@ Tant que vous ne portez pas d'armure, votre [classe d'armure] est égale à 10 +
 
 <Generic>
 
-## Sens du danger
+## <Name>Sens du danger</Name>
 
 Quand vous atteignez le niveau 2, vous développez la capacité instinctive de ressentir si quelque chose ne tourne pas rond dans votre environnement, ce qui vous donne un temps d'avance quand vous tentez d'esquiver un danger.
 
@@ -122,7 +120,7 @@ Vous bénéficiez d'un avantage sur vos [jets de sauvegarde] de [Dextérité] co
 
 <Generic>
 
-## Voie primitive
+## <Name>Voie primitive</Name>
 
 Au troisième niveau, vous choisissez une voie qui détermine la nature de votre rage. Vous pouvez choisir la [voie du berserker], la [voie des esprits], la [voie de l'acier] ou la [voie du hurlement]. Toutes sont détaillées à la fin de la section consacrée à cette classe.
 
@@ -130,7 +128,7 @@ Au troisième niveau, vous choisissez une voie qui détermine la nature de votre
 
 <Generic>
 
-## Amélioration de caractéristiques
+## <Name>Amélioration de caractéristiques</Name>
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
@@ -138,7 +136,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Attaque supplémentaire
+## <Name>Attaque supplémentaire</Name>
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 
@@ -146,7 +144,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Déplacement rapide
+## <Name>Déplacement rapide</Name>
 
 À partir du niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'[armure lourde].
 
@@ -154,7 +152,7 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 
 
 <Generic>
 
-## Instinct sauvage
+## <Name>Instinct sauvage</Name>
 
 Au niveau 7, votre instinct s'est affiné au point que vous bénéficiez d'un [avantage] sur vos jets d'[initiative].
 
@@ -164,7 +162,7 @@ De plus, si vous êtes [surpris] au début d'un combat mais que vous n'êtes pas
 
 <Generic>
 
-## Critique brutal
+## <Name>Critique brutal</Name>
 
 À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel quand vous déterminez les dégâts supplémentaires causés par un coup critique lors d'une attaque de corps-à-corps.
 
@@ -174,7 +172,7 @@ De plus, si vous êtes [surpris] au début d'un combat mais que vous n'êtes pas
 
 <Generic>
 
-## Rage implacable
+## <Name>Rage implacable</Name>
 
 À partir du niveau 11, votre rage vous permet de poursuivre le combat malgré des blessures mortelles. Si vous tombez à 0 point de vie alors que vous êtes en rage mais que vous ne mourez pas sur-le-champ, vous faites un [jet de sauvegarde] de [Constitution] DD 10. En cas de réussite, vous conservez 1 point de vie.
 
@@ -184,7 +182,7 @@ Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un re
 
 <Generic>
 
-## Rage ininterrompue
+## <Name>Rage ininterrompue</Name>
 
 À partir du niveau 15, vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes [inconscient] ou que vous choisissez de sortir de cet état.
 
@@ -192,7 +190,7 @@ Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un re
 
 <Generic>
 
-## Puissance indomptable
+## <Name>Puissance indomptable</Name>
 
 À partir du niveau 18, si le total que vous obtenez à un test de [Force] est moins élevé que votre valeur de [Force], vous pouvez utiliser votre valeur de [Force] à la place du résultat du test.
 
@@ -200,7 +198,7 @@ Chaque fois que vous utilisez cette aptitude, le DD augmente de 5. Prendre un re
 
 <Generic>
 
-## Champion primitif
+## <Name>Champion primitif</Name>
 
 Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs de [Force] et de [Constitution] augmentent de 4. Le maximum que vous pouvez atteindre pour ces caractéristiques est désormais de 24.
 
@@ -209,7 +207,7 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 <Generic>
 
-# Voies primitives
+# <Name>Voies primitives</Name>
 
 ## [Voie du berserker] 
 
@@ -219,6 +217,9 @@ Au niveau 20, vous êtes devenu une véritable force de la nature. Vos valeurs d
 
 ## [Voie du hurlement] 
 
+</Generic>
+
+</Items>
 
 
 

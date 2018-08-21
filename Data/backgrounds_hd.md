@@ -1,7 +1,7 @@
 
 <Items>
 
-## Historique
+## <Name>Historique</Name>
 
 - AltName: <AltName>Backgrounds (SRD p60)</AltName>
 - Source: <Source>(MDR p77)</Source>
@@ -12,11 +12,9 @@ Choisir un historique vous permet d'obtenir de nombreux indices sur l'identité 
 
 Vous trouverez dans ce chapitre des exemples d'historiques de personnages concrets (aptitudes, maîtrises et langues) et des suggestions d'interprétation.
 
-</Generic>
-
 <Generic>
 
-### Maîtrises
+### <Name>Maîtrises</Name>
 
 - AltName: <AltName>Proficiencies (SRD p60)</AltName>
 - Source: <Source>(MDR p77)</Source>
@@ -27,7 +25,7 @@ Chaque historique confère à un personnage la maîtrise de deux compétences. C
 
 <Generic>
 
-### Langues
+### <Name>Langues</Name>
 
 - AltName: <AltName>Languages (SRD p60)</AltName>
 - Source: <Source>(MDR p77)</Source>
@@ -38,7 +36,7 @@ Le passé de certains personnages leur donne la capacité de pratiquer des langu
 
 <Generic>
 
-### Équipement
+### <Name>Équipement</Name>
 
 - AltName: <AltName>Equipment (SRD p60)</AltName>
 - Source: <Source>(MDR p77)</Source>
@@ -49,7 +47,7 @@ Chaque historique donne accès à un équipement de départ. Si vous utilisez la
 
 <Generic>
 
-### Suggestions de personnalités
+### <Name>Suggestions de personnalités</Name>
 
 - AltName: <AltName>Suggested Characteristics (SRD p60)</AltName>
 - Source: <Source>(MDR p77)</Source>
@@ -61,7 +59,7 @@ Chaque historique vous suggère des traits de personnalité liés à l'histoire 
 
 <Generic>
 
-### Personnaliser votre historique
+### <Name>Personnaliser votre historique</Name>
 
 - AltName: <AltName>Customizing a Background (SRD p60)</AltName>
 - Source: <Source>(MDR p78)</Source>
@@ -69,102 +67,105 @@ Chaque historique vous suggère des traits de personnalité liés à l'histoire 
 Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre 1, Création du personnage, page 30. Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut. Si vous n'arrivez pas à trouver d'option qui corresponde à l'historique que vous voulez donner à votre personnage, vous pouvez collaborer avec le MJ pour en créer une.
 
 
-</LinkItem>
+</Generic>
 
 <LinkItem>
 
-# [Brigand](background_brigand_hd.md)
+# <NameLink>[Brigand](background_brigand_hd.md)</NameLink>
  
 </LinkItem>
 
 <LinkItem>
 
-# [Crapule](background_crapule_hd.md)
+# <NameLink>[Crapule](background_crapule_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Dévot](background_devot_hd.md) 
+# <NameLink>[Dévot](background_devot_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Érudit](background_erudit_hd.md)
+# <NameLink>[Érudit](background_erudit_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Explorateur](background_explorateur_hd.md)
+# <NameLink>[Explorateur](background_explorateur_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Homme de Loi](background_hommedeloi_hd.md)
+# <NameLink>[Homme de Loi](background_hommedeloi_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Itinérant](background_itinerant_hd.md)
+# <NameLink>[Itinérant](background_itinerant_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Manouvrier](background_manouvrier_hd.md)
+# <NameLink>[Manouvrier](background_manouvrier_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Membre de guilde](background_membredeguilde_hd.md)
+# <NameLink>[Membre de guilde](background_membredeguilde_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Militaire](background_militaire_hd.md)
+# <NameLink>[Militaire](background_militaire_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Miséreux](background_misereux_hd.md)
+# <NameLink>[Miséreux](background_misereux_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Primitif](background_primitif_hd.md)
+# <NameLink>[Primitif](background_primitif_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Sang bleu](background_sangbleu_hd.md)
+# <NameLink>[Sang bleu](background_sangbleu_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Serviteur](background_serviteur_hd.md)
+# <NameLink>[Serviteur](background_serviteur_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Solitaire](background_solitaire_hd.md)
+# <NameLink>[Solitaire](background_solitaire_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-# [Villageois](background_villageois_hd.md)
+# <NameLink>[Villageois](background_villageois_hd.md)</NameLink>
 
+</LinkItem>
+
+</Items>
 
 
 

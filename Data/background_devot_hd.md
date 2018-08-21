@@ -16,8 +16,6 @@ Langues maîtrisées : Deux langues au choix.
 
 Équipement : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.
 
-</Generic>
-
 <Generic>
 
 #### Aptitude : Refuge du pèlerin
@@ -168,6 +166,9 @@ Outils maîtrisés : Accessoires de déguisement, Véhicules (terrestres).
 
 Équipement : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.
 
+</Generic>
+
+</Items>
 
 
 

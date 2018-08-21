@@ -1,6 +1,6 @@
 <Items>
 
-# Voie des esprits
+# <Name>Voie des esprits</Name>
 
 - Source: <Source>(MDR p117)</Source>
 
@@ -10,11 +10,9 @@ Pour survivre, votre peuple a appris à communier avec la nature et à tisser de
 
 Lorsque vous choisissez la voie des esprits, vous obtenez une valeur de lien spirituel égal à votre bonus de maîtrise (deux points au troisième niveau). Vous récupérez vos points de lien spirituel après avoir terminé un repos long. Tous les sorts lancés grâce à l'utilisation de ces points le sont à leur niveau minimum, et la caractéristique utilisée pour lancer des sorts est la [Sagesse] (difficulté des [jets de sauvegarde] égale à 8 + bonus de maîtrise + modificateur de [Sagesse]).
 
-</Generic>
-
 <Generic>
 
-## Né dans la nature
+## <Name>Né dans la nature</Name>
 
 Au niveau 3, vous bénéficiez d'un avantage aux tests de [Sagesse (Perception)] effectués en milieu naturel (+5 pour le valeur passive) et aux tests de [Sagesse (Survie)].
 
@@ -22,7 +20,7 @@ Au niveau 3, vous bénéficiez d'un avantage aux tests de [Sagesse (Perception)]
 
 <Generic>
 
-## Initiation
+## <Name>Initiation</Name>
 
 Également au niveau 3, à la suite d'une cérémonie, vous entrez en communion avec un esprit animal : ours, taureau (ou bison), loup, chouette, aigle, renard, lynx (ou tout autre félin), etc. L'animal qui correspond à votre alter ego spirituel ne vous est jamais hostile et vous bénéficiez d'un avantage aux tests lorsque vous essayez de le pister, de le repérer, de l'influencer ou de le dresser.
 
@@ -34,7 +32,7 @@ Vous êtes capable de maintenir une concentration lorsque vous êtes sous les ef
 
 <Generic>
 
-## Incarnation
+## <Name>Incarnation</Name>
 
 Lorsque vous atteignez le niveau 6, vous êtes habilité à porter une coiffe sacrée, un trophée qui symbolise l'esprit auquel vous êtes lié : une peau de bête, comme celle d'un loup avec la gueule en guise de capuche, celle d'un bison avec ses cornes ou encore une coiffe de plumes pour un oiseau, etc.
 
@@ -48,7 +46,7 @@ Vous pouvez réaliser une attaque de griffes ou de morsure au lieu d'utiliser un
 
 <Generic>
 
-## Communion
+## <Name>Communion</Name>
 
 À partir du niveau 10, vous bénéficiez d'un avantage sur les tests d'une compétence selon l'esprit auquel vous êtes lié. Ours : [Force (Athlétisme)]. Renard : [Charisme (Supercherie)]. Loup : [Dextérité (Discrétion)]. Taureau : [Intelligence (Nature)]. Aigle : [Charisme (Persuasion)]. Chouette : [Sagesse (Perspicacité)]. Lynx : [Dextérité (Acrobaties)].
 
@@ -60,13 +58,17 @@ Désormais, vous ajoutez la moitié de votre modificateur de [Sagesse], s'il est
 
 <Generic>
 
-## Élévation
+## <Name>Élévation</Name>
 
 Au niveau 14, lorsque vous êtes en rage, vous pouvez exécuter une attaque de griffe ou de morsure, issue de l'aptitude incarnation, en utilisant une action bonus.
 
 En dépensant deux points de lien spirituel, vous pouvez utiliser un sort de votre choix parmi : esprits gardiens, invoquer les animaux, liberté de mouvement, mauvais oeil, protection contre les énergies, respiration aquatique.
 
 Désormais, lorsque vous terminez un repos court, vous récupérez un point de lien spirituel.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

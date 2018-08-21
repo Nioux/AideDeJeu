@@ -1,26 +1,27 @@
 
 <Items>
 
-# Partir à l'aventure
+# <Name>Partir à l'aventure</Name>
+
+<LinkItem>
+
+## <NameLink>[Ecoulement du temps](time_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Ecoulement du temps](time_hd.md)
+## <NameLink>[Déplacement](movement_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Déplacement](movement_hd.md)
+## <NameLink>[L'environnement](environment_hd.md)</NameLink>
 
 </LinkItem>
 
-<LinkItem>
-
-## [L'environnement](environment_hd.md)
-
+</Items>
 
 
 

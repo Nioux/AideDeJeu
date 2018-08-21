@@ -1,6 +1,6 @@
 <Items>
 
-# Voie du berserker
+# <Name>Voie du berserker</Name>
 
 - AltName: <AltName>Wisdom (SRD p9)</AltName>
 - Source: <Source>(MDR p116)</Source>
@@ -9,11 +9,9 @@ Pour certains barbares, la rage est un moyen d'atteindre leur but, et ce but est
 
 Quand vous entrez dans la rage du berserker, vous vous réalisez dans le chaos de la bataille et oubliez tout le reste, y compris votre santé et votre bien-être.
 
-</Generic>
-
 <Generic>
 
-## Frénésie
+## <Name>Frénésie</Name>
 
 Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de devenir frénétique pendant que vous êtes sous le coup de la rage. Si vous devenez frénétique, pendant la durée de votre rage, vous pouvez porter une unique attaque supplémentaire avec une arme de corps-à-corps en action bonus à la fin de chacun des tours suivant celui pendant lequel vous êtes devenu frénétique. Quand votre rage prend fin, vous gagnez un niveau d'épuisement. Voir le chapitre 10, Gérer la santé du personnage, page 302, pour plus d'information sur les règles de fatigue.
 
@@ -21,7 +19,7 @@ Quand vous choisissez cette voie au niveau 3, vous avez la possibilité de deven
 
 <Generic>
 
-## Rage aveugle
+## <Name>Rage aveugle</Name>
 
 À partir du niveau 6, vous ne pouvez pas être charmé ou terrorisé pendant que vous êtes enragé. Si vous êtes déjà charmé ou terrorisé au moment où vous vous mettez en rage, l'effet est suspendu le temps de la rage. Présence intimidante
 
@@ -33,9 +31,13 @@ Si la créature réussit son [jet de sauvegarde], vous ne pouvez plus utiliser c
 
 <Generic>
 
-## Représailles
+## <Name>Représailles</Name>
 
 À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une attaque de corps-à-corps visant cette créature en représailles.
+
+</Generic>
+
+</Items>
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

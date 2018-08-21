@@ -1,6 +1,6 @@
 <Items>
 
-# Collège du savoir
+# <Name>Collège du savoir</Name>
 
 - AltName: <AltName>College of Lore (SRD p13)</AltName>
 - Source: <Source>(MDR p125)</Source>
@@ -11,11 +11,9 @@ Aux yeux de ces bardes, seule compte la poursuite de la beauté et de la vérit�
 
 Les membres de ce collège se réunissent dans des bibliothèques et parfois dans de véritables universités, avec des classes et des dortoirs, afin de partager leurs connaissances. Ils se rencontrent aussi à l'occasion de festivals ou lors des réunions des puissants, où ils peuvent révéler au grand jour la corruption et les mensonges des dirigeants et se moquer de toutes ces figures d'autorité gonflées d'importance.
 
-</Generic>
-
 <Generic>
 
-## Maîtrises supplémentaires
+## <Name>Maîtrises supplémentaires</Name>
 
 Quand vous rejoignez le collège du savoir au niveau 3, vous gagnez la maîtrise de trois compétences de votre choix.
 
@@ -23,7 +21,7 @@ Quand vous rejoignez le collège du savoir au niveau 3, vous gagnez la maîtrise
 
 <Generic>
 
-## Mots cinglants
+## <Name>Mots cinglants</Name>
 
 Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un jet d'attaque, de dégâts ou un test de caractéristique, vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le jet d'attaque ou le test de caractéristique a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet charmé.
 
@@ -31,7 +29,7 @@ Toujours au niveau 3, vous apprenez à utiliser votre répartie pour distraire, 
 
 <Generic>
 
-## Secrets magiques supplémentaires
+## <Name>Secrets magiques supplémentaires</Name>
 
 Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe. Vous ne pouvez par contre choisir que des sorts ou des tours de magie que vous êtes en mesure de lancer, comme indiqué dans le tableau d'évolution du barde.
 
@@ -41,9 +39,12 @@ Les sorts que vous choisissez fonctionnent pour vous comme des sorts de barde ma
 
 <Generic>
 
-## Compétence hors pair
+## <Name>Compétence hors pair</Name>
 
 À partir du niveau 14, quand vous faites un test de caractéristique, vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre test de caractéristique. Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au test de caractéristique, mais avant que le MJ annonce si le test est un succès ou un échec.
 
+</Generic>
+
+</Items>
 
 

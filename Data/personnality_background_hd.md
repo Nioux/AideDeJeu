@@ -1,32 +1,33 @@
 
 <Items>
 
-# Personnalité et Historique
+# <Name>Personnalité et Historique</Name>
+
+<LinkItem>
+
+## <NameLink>[Alignement](alignment_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Alignement](alignment_hd.md)
+## <NameLink>[Langues](languages_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Langues](languages_hd.md)
+## <NameLink>[Inspiration](inspiration_hd.md)</NameLink>
 
 </LinkItem>
 
 <LinkItem>
 
-## [Inspiration](inspiration_hd.md)
+## <NameLink>[Historique](backgrounds_hd.md)</NameLink>
 
 </LinkItem>
 
-<LinkItem>
-
-## [Historique](backgrounds_hd.md)
-
+</Items>
 
 
 

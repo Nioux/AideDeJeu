@@ -1,16 +1,14 @@
 
 <Items>
 
-# Artefacts
+# <Name>Artefacts</Name>
 
 - AltName: <AltName>Artifacts (SRD p252)</AltName>
 - Source: <Source>(CDC p191)</Source>
 
-</Generic>
-
 <Generic>
 
-## ANNEAU DE LUNE
+## <Name>ANNEAU DE LUNE</Name>
 
 - Source: <Source>(CDC p191)</Source>
 
@@ -41,7 +39,7 @@ Cet anneau en pierre grisâtre, d’apparence très banale, fut forgé à partir
 
 <Generic>
 
-## BOUCLIER DE HROLJNIR
+## <Name>BOUCLIER DE HROLJNIR</Name>
 
 - Source: <Source>(CDC p191)</Source>
 
@@ -67,7 +65,7 @@ Hroljnir fixait sa targe à son avant-bras. Elle peut servir de pavois pour une 
 
 <Generic>
 
-## LYRE DE LA REINE SYLVESTRE
+## <Name>LYRE DE LA REINE SYLVESTRE</Name>
 
 - Source: <Source>(CDC p192)</Source>
 
@@ -91,7 +89,7 @@ Faite d’acajou serti d’or, cette lyre à onze cordes était l’instrument d
 
 <Generic>
 
-## ORBE DES DRAGONS
+## <Name>ORBE DES DRAGONS</Name>
 
 - AltName: <AltName>Orb of Dragonkind (SRD p252)</AltName>
 - Source: <Source>(CDC p192)</Source>
@@ -128,7 +126,7 @@ Vous pouvez également utiliser une action pour lancer le sort détection de la 
 
 <Generic>
 
-## PERLE DES PROFONDEURS
+## <Name>PERLE DES PROFONDEURS</Name>
 
 - Source: <Source>(CDC p193)</Source>
 
@@ -149,5 +147,8 @@ Même les dieux font des erreurs. Il y a des millénaires de cela, l’un d’en
 
 **_Détruire la perle._** Le sang d’un Solar a créé la perle, seul le sang de son ennemi peut la détruire. La perle doit être immergée pendant une heure dans un litre de sang de kraken par au moins 100 mètres de profondeur pour être détruite.
 
+</Generic>
+
+</Items>
 
 
