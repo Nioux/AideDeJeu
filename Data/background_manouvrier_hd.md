@@ -1,94 +1,147 @@
 
+<Items>
 
-Manouvrier
+# <Name>Manouvrier</Name>
 
 Vous n'avez jamais rien possédé de votre vie, hormis vos bras, votre dos et votre endurance. Vous arpentiez les rues de votre cité en vous levant à l'aube, afin de vendre vos services à la journée, parfois pour quelques jours. Votre vie n'a pas toujours été simple, et vous avez souvent flirté avec la mendicité ou la délinquance pour gagner votre pain. Par un coup de pouce du hasard, vous avez pu échapper à cette vie. Vous en concevez une volonté inébranlable et la conscience aiguë d'une main invisible qui veille sur votre destinée.
 
-Compétences : Athlétisme, Escamotage.
+**Compétences :** Athlétisme, Escamotage.
 
-Outils maîtrisés : Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
+**Outils maîtrisés :** Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
 
-Équipement : Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
+**Équipement :** Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.
 
-Signe du destin
+<Generic>
+
+#### <Name>Signe du destin</Name>
 
 Un événement est survenu dans votre vie, qui a radicalement altéré votre destin. Choisissez ou déterminez aléatoirement ce signe parmi les événements suivants. Précisez ensuite avec votre MJ les détails correspondant.
 
-d6 Signe du destin
-1 Vous êtes persuadé avoir été choisi par
-l'une des divinités du panthéon afin d'être le récipiendaire d'une vision prophétique.
-2 Vous avez été enrôlé de force dans une armée, et y avez fait la preuve de vos capacités.
-3 Votre communauté a subi une épidémie ou une invasion, que vous avez aidé à combattre.
-4 Vous avez participé à une révolte paysanne, et vous vous êtes retrouvé propulsé parmi les meneurs du soulèvement.
-5 Vous êtes parvenu à sauver des villageois d'une mort certaine en bravant les éléments.
-6 Vous avez trouvé une arme ou un symbole qui vous a mené sur votre nouvelle voie.
+|d6|Signe du destin|
+|---|---|
+|1|Vous êtes persuadé avoir été choisi par<br>l'une des divinités du panthéon afin d'être le<br>récipiendaire d'une vision prophétique.|
+|2|Vous avez été enrôlé de force dans une armée,<br>et y avez fait la preuve de vos capacités.|
+|3|Votre communauté a subi une épidémie ou une<br>invasion, que vous avez aidé à combattre.|
+|4|Vous avez participé à une révolte paysanne,<br>et vous vous êtes retrouvé propulsé parmi les<br>meneurs du soulèvement.|
+|5|Vous êtes parvenu à sauver des villageois d'une<br>mort certaine en bravant les éléments.|
+|6|Vous avez trouvé une arme ou un symbole qui<br>vous a mené sur votre nouvelle voie.|
 
-Aptitude : Communauté
+</Generic>
+
+<Generic>
+
+#### <Name>Aptitude : Communauté</Name>
 
 Les manouvriers et journaliers forment une communauté soudée qui se serre les coudes en période de vaches maigres, et qui sait que les quelques pièces obtenues du travail d'une journée peuvent parfois faire la différence entre la vie et la mort. En cas de besoin, vous savez faire appel à la solidarité de vos anciens collègues pour obtenir des informations, un peu d'aide ou l'hospitalité.
 
-Personnalités suggérées
+</Generic>
+
+<Items>
+
+#### <Name>Personnalités suggérées</Name>
 
 Les manouvriers constituent une large part de la main d'oeuvre bon marché dans les villes et les cités, où les chantiers, les artisans et les commerçants font appel à eux pour des tâches ponctuelles. Une volonté de fer, un fort sens de la débrouillardise et un dos d'airain sont les principaux atouts de ces travailleurs de l'ombre, qui parviennent parfois à élever leur condition, à force de sacrifices, de talent et de travail.
 
-d8 Trait de personnalité
-1 Je ne supporte pas le travail bâclé ou inachevé.
-2 Je ne refuse jamais d'apporter mon aide lorsqu'on me la demande.
-3 Je n'aime pas perdre de temps en vaines réflexions.
-4 Je méprise ouvertement ceux qui ne savent pas se salir les mains.
-5 Je ris fort, et souvent. La vie est trop courte pour ne pas rire de tout.
-6 Je n'ai jamais été à l'aise avec les mots.
-7 Je m'emporte facilement, et je pardonne encore plus facilement.
-8 Je m'arrange toujours pour travailler moins que les autres.
+<Generic>
 
-d6 Idéal
-1 Entraide. Les patrons divisent pour mieux régner. Les travailleurs doivent se serrer les coudes et présenter un front uni pour se défendre. (Loyal)
-2 Honnêteté. Travailler pour gagner sa vie vaut mieux que de voler ou profiter. (Neutre)
-3 Revanche. Je compte bien faire payer à tous les chefs de chantier, les officiers et les puissants l'injustice de ma situation passée. (Mauvais)
-4 Responsabilité. Des gens comptent sur mon travail pour vivre et je dois penser à eux avant tout. (Bon)
-5 Indépendance. Le travail devrait être un moyen de gagner sa liberté. (Chaotique)
-6 Ambition. Les événements m'ont prouvé que je valais mieux que ce que je pensais. (Tous)
+##### <Name>Trait de personnalité</Name>
 
-d6 Lien
-1 Un ancien collègue a subi un grave accident en me sauvant d'une mort certaine, et je fais mon possible pour subvenir à ses besoins.
-2 J'ai une famille et des bouches à nourrir, même si elles sont loin de moi.
-3 J'ai juré de me venger d'un chef de chantier particulièrement cruel.
-4 J'ai participé à une bagarre générale qui a causé de gros dégâts, et je dois depuis de l'argent au patron de la taverne.
-5 J'ai été déclaré hérétique par les prêtres d'un temple qui n'étaient pas satisfaits de mes services.
-6 Brièvement engagé de force dans une armée, j'ai déserté et suis depuis recherché.
+|d8|Trait de personnalité|
+|---|---|
+|1|Je ne supporte pas le travail bâclé ou inachevé.|
+|2|Je ne refuse jamais d'apporter mon aide<br>lorsqu'on me la demande.|
+|3|Je n'aime pas perdre de temps en vaines<br>réflexions.|
+|4|Je méprise ouvertement ceux qui ne savent pas<br>se salir les mains.|
+|5|Je ris fort, et souvent. La vie est trop courte pour<br>ne pas rire de tout.|
+|6|Je n'ai jamais été à l'aise avec les mots.|
+|7|Je m'emporte facilement, et je pardonne encore<br>plus facilement.|
+|8|Je m'arrange toujours pour travailler moins<br>que les autres.|
 
-d6 Défaut
-1 J'ai pris goût au jeu, et notamment au jeu d'argent, pour meubler les journées sans travail.
-2 Je ne termine jamais une journée sans une ou plusieurs bonnes pintes.
-3 J'ai aisément recours à la violence lorsque les choses ne se passent pas comme je l'espère.
-4 Je me plains des agissements des chefs de chantier et des puissants, mais je serais sans doute pire encore si j'étais à leur place.
-5 Je suis extrêmement crédule, pour peu qu'on me témoigne du respect.
-6 Je ne supporte pas de rester enfermé.
+</Generic>
 
-Variante : Serveur
+<Generic>
+
+##### <Name>Idéal</Name>
+
+|d6|Idéal|
+|---|---|
+|1|**Entraide.** Les patrons divisent pour mieux<br>régner. Les travailleurs doivent se serrer<br>les coudes et présenter un front uni pour se<br>défendre. (Loyal)|
+|2|**Honnêteté.** Travailler pour gagner sa vie vaut<br>mieux que de voler ou profiter. (Neutre)|
+|3|**Revanche.** Je compte bien faire payer à tous les<br>chefs de chantier, les officiers et les puissants<br>l'injustice de ma situation passée. (Mauvais)|
+|4|**Responsabilité.** Des gens comptent sur mon<br>travail pour vivre et je dois penser à eux avant<br>tout. (Bon)|
+|5|**Indépendance.** Le travail devrait être un<br>moyen de gagner sa liberté. (Chaotique)|
+|6|**Ambition.** Les événements m'ont prouvé que je<br>valais mieux que ce que je pensais. (Tous)|
+
+</Generic>
+
+<Generic>
+
+##### <Name>Lien</Name>
+
+|d6|Lien|
+|---|---|
+|1|Un ancien collègue a subi un grave accident en<br>me sauvant d'une mort certaine, et je fais mon<br>possible pour subvenir à ses besoins.|
+|2|J'ai une famille et des bouches à nourrir, même<br>si elles sont loin de moi.|
+|3|J'ai juré de me venger d'un chef de chantier<br>particulièrement cruel.|
+|4|J'ai participé à une bagarre générale qui a<br>causé de gros dégâts, et je dois depuis de<br>l'argent au patron de la taverne.|
+|5|J'ai été déclaré hérétique par les prêtres d'un<br>temple qui n'étaient pas satisfaits de mes<br>services.|
+|6|Brièvement engagé de force dans une armée,<br>j'ai déserté et suis depuis recherché.|
+
+</Generic>
+
+<Generic>
+
+##### <Name>Défaut</Name>
+
+|d6|Défaut|
+|---|---|
+|1|J'ai pris goût au jeu, et notamment au jeu<br>d'argent, pour meubler les journées sans<br>travail.|
+|2|Je ne termine jamais une journée sans une ou<br>plusieurs bonnes pintes.|
+|3|J'ai aisément recours à la violence lorsque les<br>choses ne se passent pas comme je l'espère.|
+|4|Je me plains des agissements des chefs de<br>chantier et des puissants, mais je serais sans<br>doute pire encore si j'étais à leur place.|
+|5|Je suis extrêmement crédule, pour peu qu'on<br>me témoigne du respect.|
+|6|Je ne supporte pas de rester enfermé.|
+
+</Generic>
+
+</Items>
+
+<Items>
+
+### <Name>Variante : Serveur</Name>
 
 Aucune cité digne de ce nom ne peut fonctionner sans au moins quelques bonnes tavernes où artisans, ouvriers et autres bourgeois se rencontrent autour d'une chope et d'une assiette bien remplie. Vous avez longtemps travaillé dans ce type d'établissements, servant à boire et nettoyant les tables en écoutant les multiples histoires des clients.
 
-Aptitude : Histoires de terres lointaines
+**Compétences :** Athlétisme, Représentation.
+
+**Outils maîtrisés :** Ustensiles de cuisinier ou un type de jeu au choix.
+
+**Langues maîtrisées :** Une langue au choix.
+
+**Équipement :** Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.
+
+<Generic>
+
+#### <Name>Aptitude : Histoires de terres lointaines</Name>
 
 Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que vous avez entendues alors que vous alliez et veniez entre les tables. Même si vous n'avez jamais vu aucune de ces régions mystérieuses, vous avez l'impression d'en connaître certaines intimement. Lorsque vous voyagez vers une contrée inconnue, vous pouvez demander au MJ de vous fournir des informations de base sur votre destination. De plus, lorsque vous et vos compagnons vous trouvez dans une taverne ou une auberge, vous pouvez vous attirer les faveurs du tenancier et de quelques clients en racontant vos histoires ou en profitant de votre expérience. Cela peut vous permettre de glaner quelques informations ou une aide ponctuelle.
 
-Compétences : Athlétisme, Représentation.
+</Generic>
 
-Outils maîtrisés : Ustensiles de cuisinier ou un type de jeu au choix.
+</Items>
 
-Langues maîtrisées : Une langue au choix.
+<Generic>
 
-Équipement : Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.
-
-Variante : Journalier
+### <Name>Variante : Journalier</Name>
 
 Les journaliers proposent leurs services dans les villages et les campagnes. Ils y sont coutumiers des travaux agricoles, d'un petit artisanat d'appoint dans les villages, et du transport de quelques biens indispensables entre les différentes communautés. Les plus chanceux trouvent des travaux saisonniers pendant lesquels ils sont nourris et logés à la ferme, et n'ont pas à se demander – au moins pendant quelques semaines – de quoi le lendemain sera fait.
 
-Compétences : Athlétisme, Survie.
+**Compétences :** Athlétisme, Survie.
 
-Outils maîtrisés : Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
+**Outils maîtrisés :** Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.
 
-Équipement : Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.
+**Équipement :** Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.
 
+</Generic>
 
+</Items>

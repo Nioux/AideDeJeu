@@ -152,23 +152,21 @@ La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vou
 
 Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un temple. Vous fuyez les horreurs de votre passé et tentez de vous racheter, ou simplement de changer de vie. Vous n'être plus le même et vous préféreriez que l'on ne sache rien de ce que vous étiez.
 
-<Generic>
-
-#### <Name>Aptitude : Ancienne vie</Name>
-
-Vous étiez autre chose, avant. En plus de l'aptitude de dévot, choisissez l'aptitude d'un historique approprié à refléter votre passé. Quand vous le désirez, vous pouvez reprendre momentanément votre ancienne vie et votre ancienne identité afin de pouvoir l'utiliser en plus de l'aptitude de base de dévot. Mais si votre nouvelle vie devait être découverte par l'un de vos ennemis, ou si le temple qui vous a accueilli devait se rendre compte de votre rechute, vous ne pourriez plus utiliser cette aptitude. De plus, vous ne pourrez plus non plus utiliser votre aptitude de dévot tant que vous n'aurez pas fait sincère pénitence aux yeux de ceux qui ont accepté de vous accueillir pour que vous changiez de vie.
-
 **Compétences :** Religion, Supercherie.
 
 **Outils maîtrisés :** Accessoires de déguisement, Véhicules (terrestres).
 
 **Équipement :** Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.
 
+<Generic>
+
+#### <Name>Aptitude : Ancienne vie</Name>
+
+Vous étiez autre chose, avant. En plus de l'aptitude de dévot, choisissez l'aptitude d'un historique approprié à refléter votre passé. Quand vous le désirez, vous pouvez reprendre momentanément votre ancienne vie et votre ancienne identité afin de pouvoir l'utiliser en plus de l'aptitude de base de dévot. Mais si votre nouvelle vie devait être découverte par l'un de vos ennemis, ou si le temple qui vous a accueilli devait se rendre compte de votre rechute, vous ne pourriez plus utiliser cette aptitude. De plus, vous ne pourrez plus non plus utiliser votre aptitude de dévot tant que vous n'aurez pas fait sincère pénitence aux yeux de ceux qui ont accepté de vous accueillir pour que vous changiez de vie.
+
 </Generic>
 
 </Items>
 
 </Items>
-
-
 

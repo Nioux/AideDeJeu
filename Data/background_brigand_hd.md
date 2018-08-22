@@ -144,17 +144,17 @@ Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs
 
 Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
 
-<Generic>
-
-#### <Name>Aptitude : Confrérie</Name>
-
-Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.
-
 **Compétences :** Athlétisme, Supercherie.
 
 **Outils maîtrisés :** Instruments de navigation, véhicules (marins).
 
 **Équipement :** Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
+
+<Generic>
+
+#### <Name>Aptitude : Confrérie</Name>
+
+Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.
 
 </Generic>
 

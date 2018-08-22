@@ -109,17 +109,17 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-il à délester un benêt de ses précieuses pièces ? Vous avez vécu en arnaquant les gens. Vous avez toujours su comment les manipuler pour obtenir ce que vous vouliez. Peut-être étiezvous un faussaire talentueux, un arnaqueur, un tricheur aux jeux, ou encore peut-être pratiquiez-vous une forme de bonneteau.
 
-<Generic>
-
-#### <Name>Aptitude : Fausse identité</Name>
-
-Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrouver. Vous possédez tous les documents et les objets nécessaires à l'entretenir et vous y recourez quand le besoin se fait sentir.
-
 **Compétences :** Persuasion, Supercherie.
 
 **Outils maîtrisés :** Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.
 
 **Équipement :** Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.
+
+<Generic>
+
+#### <Name>Aptitude : Fausse identité</Name>
+
+Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrouver. Vous possédez tous les documents et les objets nécessaires à l'entretenir et vous y recourez quand le besoin se fait sentir.
 
 </Generic>
 
