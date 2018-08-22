@@ -5,11 +5,11 @@
 
 Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
 
-Compétences : Discrétion, Survie.
+**Compétences :** Discrétion, Survie.
 
-Outils maîtrisés : Véhicules (terrestres), un type de jeu au choix.
+**Outils maîtrisés :** Véhicules (terrestres), un type de jeu au choix.
 
-Équipement : Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
+**Équipement :** Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 
 <Generic>
 
@@ -17,7 +17,7 @@ Outils maîtrisés : Véhicules (terrestres), un type de jeu au choix.
 
 Vous avez une affinité avec un milieu naturel en particulier, où vous avez vécu et avez appris à survivre et à prospérer. Même si vous êtes capable de survivre dans des environnements variés, c'est là que vous vous sentez réellement chez vous. Lancez un dé ou sélectionnez l'un des choix suivants.
 
-|d8|Milieu naturel<br>de prédilection|
+|d8|Milieu naturel de prédilection|
 |---|---|
 |1|Forêt tropicale|
 |2|Forêt tempérée|
@@ -48,15 +48,16 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 ##### <Name>Trait de personnalité</Name>
 
-d8 Trait de personnalité
-1 Je suis extrêmement méfiant. Ma confiance a un prix, et ce prix est élevé.
-2 Je tourne toute situation en dérision, et fais fi des sentiments des autres.
-3 Je ne suis à mon aise qu'avec le ciel étoilé comme toit.
-4 Je ne recule jamais face à un défi, aussi insurmontable soit-il.
-5 Je ne me soucie guère des problèmes des autres.
-6 Ma parole est mon bien le plus précieux, je ne la donne jamais à la légère.
-7 Je protège les miens comme une mère protège ses petits.
-8 Je suis aussi impitoyable que la nature peut l'être. La survie est à ce prix.
+|d8|Trait de personnalité|
+|---|---|
+|1|Je suis extrêmement méfiant. Ma confiance a<br>un prix, et ce prix est élevé.|
+|2|Je tourne toute situation en dérision, et fais fi<br>des sentiments des autres.|
+|3|Je ne suis à mon aise qu'avec le ciel étoilé<br>comme toit.|
+|4|Je ne recule jamais face à un défi, aussi<br>insurmontable soit-il.|
+|5|Je ne me soucie guère des problèmes des<br>autres.|
+|6|Ma parole est mon bien le plus précieux, je ne<br>la donne jamais à la légère.|
+|7|Je protège les miens comme une mère protège<br>ses petits.|
+|8|Je suis aussi impitoyable que la nature peut<br>l'être. La survie est à ce prix.|
 
 </Generic>
 
@@ -64,13 +65,14 @@ d8 Trait de personnalité
 
 ##### <Name>Idéal</Name>
 
-d6 Idéal
-1 Honneur. La société peut penser ce qu'elle veut de vous. Ce qui vous importe avant tout, c'est votre conscience. (Loyal)
-2 Pouvoir. Vous faites ce qui vous chante et prenez ce dont vous avez besoin quand vous en avez besoin. (Mauvais)
-3 Nature. Vous avez développé un lien particulier avec la nature et souhaitez la préserver de la corruption de la civilisation. (Neutre)
-4 Bien commun. Vous avez développé un sens élevé du partage, et vous mettez souvent l'intérêt de la communauté avant le vôtre. (Bon)
-5 Liberté. La vie en société est faite de chaînes et de restrictions et vous ne comptez pas vous laisser emprisonner. (Chaotique)
-6 Autonomie. Chacun doit pouvoir être en mesure d'assurer sa propre survie. (Neutre)
+|d6|Idéal|
+|---|---|
+|1|**Honneur.** La société peut penser ce qu'elle veut<br>de vous. Ce qui vous importe avant tout, c'est<br>votre conscience. (Loyal)|
+|2|**Pouvoir.** Vous faites ce qui vous chante et<br>prenez ce dont vous avez besoin quand vous en<br>avez besoin. (Mauvais)|
+|3|**Nature.** Vous avez développé un lien<br>particulier avec la nature et souhaitez la<br>préserver de la corruption de la civilisation.<br>(Neutre)|
+|4|**Bien commun.** Vous avez développé un sens<br>élevé du partage, et vous mettez souvent<br>l'intérêt de la communauté avant le vôtre.<br>(Bon)|
+|5|**Liberté.** La vie en société est faite de chaînes<br>et de restrictions et vous ne comptez pas vous<br>laisser emprisonner. (Chaotique)|
+|6|**Autonomie.** Chacun doit pouvoir être en<br>mesure d'assurer sa propre survie. (Neutre)|
 
 </Generic>
 
@@ -78,13 +80,14 @@ d6 Idéal
 
 ##### <Name>Lien</Name>
 
-d6 Lien
-1 Certaines personnes dépendent de moi (famille, bande, amis) et je veux être digne de leur attachement.
-2 Ma région d'origine a une grande importance à mes yeux, et je ferai tout ce qui est en mon pouvoir pour la préserver.
-3 J'ai fait une promesse à l'un de mes proches disparus, et je tiendrai parole.
-4 L'un des miens m'a été enlevé. Je suis persuadé qu'il est encore en vie quelque part, et j'ai juré de le retrouver et de le ramener chez lui.
-5 Ma région a été frappée par un désastre, et c'est à moi qu'il revient de trouver le moyen de restaurer ce qui peut l'être.
-6 J'ai déniché une information capitale (secret, carte au trésor, etc.) qui pourrait assurer définitivement la prospérité de ma communauté, et je compte bien en profiter.
+|d6|Lien|
+|---|---|
+|1|Certaines personnes dépendent de moi<br>(famille, bande, amis) et je veux être digne de<br>leur attachement.|
+|2|Ma région d'origine a une grande importance<br>à mes yeux, et je ferai tout ce qui est en mon<br>pouvoir pour la préserver.|
+|3|J'ai fait une promesse à l'un de mes proches<br>disparus, et je tiendrai parole.|
+|4|L'un des miens m'a été enlevé. Je suis persuadé<br>qu'il est encore en vie quelque part, et j'ai juré<br>de le retrouver et de le ramener chez lui.|
+|5|Ma région a été frappée par un désastre, et<br>c'est à moi qu'il revient de trouver le moyen de<br>restaurer ce qui peut l'être.|
+|6|J'ai déniché une information capitale<br>(secret, carte au trésor, etc.) qui pourrait<br>assurer définitivement la prospérité de ma<br>communauté, et je compte bien en profiter.|
 
 </Generic>
 
@@ -92,13 +95,14 @@ d6 Lien
 
 ##### <Name>Défaut</Name>
 
-d6 Défaut
-1 Je ne pardonne jamais une offense ou une trahison.
-2 Par ignorance ou par mépris des conventions, j'apparais souvent comme un rustre.
-3 J'ai tendance à penser que ma solution est toujours la meilleure.
-4 Je parle souvent avant de réfléchir.
-5 Je n'accorde aucun crédit aux citadins et aux nantis.
-6 J'ai une confiance excessive en mes propres capacités.
+|d6|Défaut|
+|---|---|
+|1|Je ne pardonne jamais une offense ou une<br>trahison.|
+|2|Par ignorance ou par mépris des conventions,<br>j'apparais souvent comme un rustre.|
+|3|J'ai tendance à penser que ma solution est<br>toujours la meilleure.|
+|4|Je parle souvent avant de réfléchir.|
+|5|Je n'accorde aucun crédit aux citadins et aux<br>nantis.|
+|6|J'ai une confiance excessive en mes propres<br>capacités.|
 
 </Generic>
 
@@ -110,13 +114,13 @@ d6 Défaut
 
 Les bandits vivent en marge des principaux axes de communication, et s'en prennent en bande aux voyageurs et aux commerçants, qu'ils détroussent en un tournemain avant de se réfugier dans des repaires isolés et difficiles d'accès.
 
-Compétences : Intimidation, Survie.
+**Compétences :** Intimidation, Survie.
 
-Outils maîtrisés : Véhicules (terrestres).
+**Outils maîtrisés :** Véhicules (terrestres).
 
-Langues maîtrisées : Une langue au choix.
+**Langues maîtrisées :** Une langue au choix.
 
-Équipement : Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
+**Équipement :** Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
 </Generic>
 
@@ -126,31 +130,35 @@ Langues maîtrisées : Une langue au choix.
 
 Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs se regroupent et se réfugient loin de ceux qui les pourchassent, en essayant de recréer dans la nature un semblant de leur vie passée.
 
-Compétences : Supercherie, Survie.
+**Compétences :** Supercherie, Survie.
 
-Outils maîtrisés : Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.
+**Outils maîtrisés :** Un type de jeu au choix, un ensemble d'outils d'artisan au choix, vestiges de sa vie passée.
 
-Équipement : Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
+**Équipement :** Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
 </Generic>
 
-<Generic>
+<Items>
 
 ### <Name>Variante : Pirate</Name>
 
 Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
 
-Aptitude : Confrérie
+<Generic>
+
+#### <Name>Aptitude : Confrérie</Name>
 
 Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.
 
-Compétences : Athlétisme, Supercherie.
+**Compétences :** Athlétisme, Supercherie.
 
-Outils maîtrisés : Instruments de navigation, véhicules (marins).
+**Outils maîtrisés :** Instruments de navigation, véhicules (marins).
 
-Équipement : Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
+**Équipement :** Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
 
 </Generic>
+
+</Items>
 
 </Items>
 
