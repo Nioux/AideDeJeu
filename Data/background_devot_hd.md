@@ -1,7 +1,7 @@
 
 <Items>
 
-# Dévot
+# <Name>Dévot</Name>
 
 - AltName: <AltName>Acolyte (SRD p60)</AltName>
 - Source: <Source>(MDR p81)</Source>
@@ -18,7 +18,7 @@ Langues maîtrisées : Deux langues au choix.
 
 <Generic>
 
-#### Aptitude : Refuge du pèlerin
+#### <Name>Aptitude : Refuge du pèlerin</Name>
 
 - AltName: <AltName>Feature: Shelter of the Faithful (SRD p61)</AltName>
 - Source: <Source>(MDR p82)</Source>
@@ -31,7 +31,7 @@ Vous pouvez être lié à un temple spécifique dédié à votre déité ou votr
 
 <Generic>
 
-#### Personnalités suggérées
+#### <Name>Personnalités suggérées</Name>
 
 - AltName: <AltName>Feature: Suggested Characteristics (SRD p61)</AltName>
 - Source: <Source>(MDR p82)</Source>
@@ -42,7 +42,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 <Generic>
 
-##### Trait de personnalité
+##### <Name>Trait de personnalité</Name>
 
 - AltName: <AltName>Feature: Personality Trait (SRD p61)</AltName>
 - Source: <Source>(MDR p82)</Source>
@@ -62,7 +62,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 <Generic>
 
-##### Idéal
+##### <Name>Idéal</Name>
 
 - AltName: <AltName>Ideal  (SRD p61)</AltName>
 - Source: <Source>(MDR p83)</Source>
@@ -80,7 +80,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 <Generic>
 
-##### Lien
+##### <Name>Lien</Name>
 
 - AltName: <AltName>Bond  (SRD p61)</AltName>
 - Source: <Source>(MDR p83)</Source>
@@ -98,7 +98,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 <Generic>
 
-##### Défaut
+##### <Name>Défaut</Name>
 
 - AltName: <AltName>Flaw  (SRD p61)</AltName>
 - Source: <Source>(MDR p83)</Source>
@@ -116,7 +116,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 <Generic>
 
-### Variante : Initié
+### <Name>Variante : Initié</Name>
 
 Que vous viviez ou non au temple, vous faites partie de la hiérarchie de votre clergé. Vous avez été initié, et êtes ainsi devenu un agent de votre dieu. Peut-être était-ce une démarche sincère, ou simplement une obligation familiale. Mais vous avez appris les rituels et les croyances de votre clergé. Vous avez assisté les prêtres, aiguillé les croyants, accompli toutes les missions que l'on vous a demandé d'accomplir.
 
@@ -132,7 +132,7 @@ Langues maîtrisées : Une langue au choix.
 
 <Generic>
 
-### Variante : Prédicateur
+### <Name>Variante : Prédicateur</Name>
 
 La parole de votre dieu doit être portée et répandue. C'est votre devoir. Vous transmettez sa parole et voyagez loin des temples. Vous parlez au nom de votre clergé et assurez le lien avec la population.
 
@@ -148,7 +148,7 @@ Langues maîtrisées : Une langue au choix.
 
 <Generic>
 
-### Variante : Repenti
+### <Name>Variante : Repenti</Name>
 
 Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un temple. Vous fuyez les horreurs de votre passé et tentez de vous racheter, ou simplement de changer de vie. Vous n'être plus le même et vous préféreriez que l'on ne sache rien de ce que vous étiez.
 
@@ -156,7 +156,7 @@ Vous avez eu une autre vie, avant. Mais vous avez trouvé le salut dans un templ
 
 <Generic>
 
-#### Aptitude : Ancienne vie
+#### <Name>Aptitude : Ancienne vie</Name>
 
 Vous étiez autre chose, avant. En plus de l'aptitude de dévot, choisissez l'aptitude d'un historique approprié à refléter votre passé. Quand vous le désirez, vous pouvez reprendre momentanément votre ancienne vie et votre ancienne identité afin de pouvoir l'utiliser en plus de l'aptitude de base de dévot. Mais si votre nouvelle vie devait être découverte par l'un de vos ennemis, ou si le temple qui vous a accueilli devait se rendre compte de votre rechute, vous ne pourriez plus utiliser cette aptitude. De plus, vous ne pourrez plus non plus utiliser votre aptitude de dévot tant que vous n'aurez pas fait sincère pénitence aux yeux de ceux qui ont accepté de vous accueillir pour que vous changiez de vie.
 

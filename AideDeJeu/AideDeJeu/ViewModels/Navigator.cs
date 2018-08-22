@@ -33,8 +33,26 @@ namespace AideDeJeu.ViewModels
             if (item == null)
                 return;
 
-            var vm = new ItemDetailViewModel(item);
-            await Navigation.PushAsync(new ItemDetailPage(vm));
+            if (item is Items)
+            {
+                var items = item as Items;
+                var filterViewModel = items.GetNewFilterViewModel();
+                var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
+                itemsViewModel.LoadItemsCommand.Execute(null);
+                if (filterViewModel == null)
+                {
+                    await GotoItemsPageAsync(itemsViewModel);
+                }
+                else
+                {
+                    await GotoFilteredItemsPageAsync(itemsViewModel);
+                }
+            }
+            else
+            { 
+                var vm = new ItemDetailViewModel(item);
+                await Navigation.PushAsync(new ItemDetailPage(vm));
+            }
         }
 
         public async Task GotoItemsPageAsync(ItemsViewModel itemsVM)

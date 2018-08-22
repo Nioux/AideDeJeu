@@ -1,6 +1,7 @@
 
+<Items>
 
-Brigand
+# <Name>Brigand</Name>
 
 Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
 
@@ -10,27 +11,42 @@ Outils maîtrisés : Véhicules (terrestres), un type de jeu au choix.
 
 Équipement : Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 
-Milieu naturel de prédilection
+<Generic>
+
+#### <Name>Milieu naturel de prédilection</Name>
 
 Vous avez une affinité avec un milieu naturel en particulier, où vous avez vécu et avez appris à survivre et à prospérer. Même si vous êtes capable de survivre dans des environnements variés, c'est là que vous vous sentez réellement chez vous. Lancez un dé ou sélectionnez l'un des choix suivants.
 
-d8 Milieu naturel de prédilection
-1 Forêt tropicale
-2 Forêt tempérée
-3 Taïga
-4 Montagne
-5 Marécage
-6 Désert
-7 Toundra
-8 Steppe
+|d8|Milieu naturel<br>de prédilection|
+|---|---|
+|1|Forêt tropicale|
+|2|Forêt tempérée|
+|3|Taïga|
+|4|Montagne|
+|5|Marécage|
+|6|Désert|
+|7|Toundra|
+|8|Steppe|
 
-Aptitude : Signes de piste
+</Generic>
+
+<Generic>
+
+#### <Name>Aptitude : Signes de piste</Name>
 
 Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lire les multiples signes de la nature qui sont invisibles à un oeil moins averti que le vôtre. De plus, vous pratiquez un langage codé qui permet de laisser des indices à ceux qui, comme vous, ont embrassé le brigandage. Cela vous permet d'éviter la plupart des dangers et des embûches qui guettent souvent le voyageur dans les régions les moins civilisées du monde, et de communiquer avec d'autres brigands sans attirer l'attention.
 
-Personnalités suggérées
+</Generic>
+
+<Items>
+
+#### <Name>Personnalités suggérées</Name>
 
 Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
+
+<Generic>
+
+##### <Name>Trait de personnalité</Name>
 
 d8 Trait de personnalité
 1 Je suis extrêmement méfiant. Ma confiance a un prix, et ce prix est élevé.
@@ -42,6 +58,12 @@ d8 Trait de personnalité
 7 Je protège les miens comme une mère protège ses petits.
 8 Je suis aussi impitoyable que la nature peut l'être. La survie est à ce prix.
 
+</Generic>
+
+<Generic>
+
+##### <Name>Idéal</Name>
+
 d6 Idéal
 1 Honneur. La société peut penser ce qu'elle veut de vous. Ce qui vous importe avant tout, c'est votre conscience. (Loyal)
 2 Pouvoir. Vous faites ce qui vous chante et prenez ce dont vous avez besoin quand vous en avez besoin. (Mauvais)
@@ -49,6 +71,12 @@ d6 Idéal
 4 Bien commun. Vous avez développé un sens élevé du partage, et vous mettez souvent l'intérêt de la communauté avant le vôtre. (Bon)
 5 Liberté. La vie en société est faite de chaînes et de restrictions et vous ne comptez pas vous laisser emprisonner. (Chaotique)
 6 Autonomie. Chacun doit pouvoir être en mesure d'assurer sa propre survie. (Neutre)
+
+</Generic>
+
+<Generic>
+
+##### <Name>Lien</Name>
 
 d6 Lien
 1 Certaines personnes dépendent de moi (famille, bande, amis) et je veux être digne de leur attachement.
@@ -58,6 +86,12 @@ d6 Lien
 5 Ma région a été frappée par un désastre, et c'est à moi qu'il revient de trouver le moyen de restaurer ce qui peut l'être.
 6 J'ai déniché une information capitale (secret, carte au trésor, etc.) qui pourrait assurer définitivement la prospérité de ma communauté, et je compte bien en profiter.
 
+</Generic>
+
+<Generic>
+
+##### <Name>Défaut</Name>
+
 d6 Défaut
 1 Je ne pardonne jamais une offense ou une trahison.
 2 Par ignorance ou par mépris des conventions, j'apparais souvent comme un rustre.
@@ -66,7 +100,13 @@ d6 Défaut
 5 Je n'accorde aucun crédit aux citadins et aux nantis.
 6 J'ai une confiance excessive en mes propres capacités.
 
-Variante : Bandit de grand chemin
+</Generic>
+
+</Items>
+
+<Generic>
+
+### <Name>Variante : Bandit de grand chemin</Name>
 
 Les bandits vivent en marge des principaux axes de communication, et s'en prennent en bande aux voyageurs et aux commerçants, qu'ils détroussent en un tournemain avant de se réfugier dans des repaires isolés et difficiles d'accès.
 
@@ -78,7 +118,11 @@ Langues maîtrisées : Une langue au choix.
 
 Équipement : Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
-Variante : Fugitif
+</Generic>
+
+<Generic>
+
+### <Name>Variante : Fugitif</Name>
 
 Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs se regroupent et se réfugient loin de ceux qui les pourchassent, en essayant de recréer dans la nature un semblant de leur vie passée.
 
@@ -88,7 +132,11 @@ Outils maîtrisés : Un type de jeu au choix, un ensemble d'outils d'artisan au 
 
 Équipement : Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
-Variante : Pirate
+</Generic>
+
+<Generic>
+
+### <Name>Variante : Pirate</Name>
 
 Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
 
@@ -101,3 +149,8 @@ Compétences : Athlétisme, Supercherie.
 Outils maîtrisés : Instruments de navigation, véhicules (marins).
 
 Équipement : Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
+
+</Generic>
+
+</Items>
+
