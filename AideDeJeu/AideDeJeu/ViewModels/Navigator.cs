@@ -73,7 +73,7 @@ namespace AideDeJeu.ViewModels
                 var with = match.Groups["with"].Value;
                 Main.IsBusy = true;
                 Main.IsLoading = true;
-                var item = await Main.GetItemFromDataAsync(file);
+                var item = await Main.GetItemFromDataAsync(file, anchor);
                 Main.IsBusy = false;
                 Main.IsLoading = false;
                 if (item != null)
@@ -81,37 +81,26 @@ namespace AideDeJeu.ViewModels
                     if (item is Items)
                     {
                         var items = item as Items;
-                        if (!string.IsNullOrEmpty(anchor))
+                        var filterViewModel = items.GetNewFilterViewModel();
+                        var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
+                        itemsViewModel.LoadItemsCommand.Execute(null);
+                        if(!string.IsNullOrEmpty(with))
                         {
-                            var subitem = items.Where(i => Tools.Helpers.IdFromName(i.Name) == anchor).FirstOrDefault();
-                            if (subitem != null)
+                            var swith = with.Split('_');
+                            for (int i = 0; i < swith.Length / 2; i++)
                             {
-                                await GotoItemDetailPageAsync(subitem);
+                                var key = swith[i * 2 + 0];
+                                var val = swith[i * 2 + 1];
+                                filterViewModel.FilterWith(key, val);
                             }
+                        }
+                        if (filterViewModel == null)
+                        {
+                            await GotoItemsPageAsync(itemsViewModel);
                         }
                         else
                         {
-                            var filterViewModel = items.GetNewFilterViewModel();
-                            var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
-                            itemsViewModel.LoadItemsCommand.Execute(null);
-                            if(!string.IsNullOrEmpty(with))
-                            {
-                                var swith = with.Split('_');
-                                for (int i = 0; i < swith.Length / 2; i++)
-                                {
-                                    var key = swith[i * 2 + 0];
-                                    var val = swith[i * 2 + 1];
-                                    filterViewModel.FilterWith(key, val);
-                                }
-                            }
-                            if (filterViewModel == null)
-                            {
-                                await GotoItemsPageAsync(itemsViewModel);
-                            }
-                            else
-                            {
-                                await GotoFilteredItemsPageAsync(itemsViewModel);
-                            }
+                            await GotoFilteredItemsPageAsync(itemsViewModel);
                         }
                     }
                     else

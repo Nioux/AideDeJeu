@@ -1,4 +1,5 @@
-﻿using AideDeJeuLib;
+﻿using AideDeJeu.Tools;
+using AideDeJeuLib;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -18,20 +19,58 @@ namespace AideDeJeu.ViewModels
             set => SetProperty(ref _isLoading, value);
         }
 
-        private Dictionary<string, Item> _AllItems = new Dictionary<string, Item>();
-        public async Task<Item> GetItemFromDataAsync(string source)
+        void AddAnchor(Dictionary<string, Item> anchors, Item item)
+        {
+            if (item != null)
+            {
+                var basename = Helpers.IdFromName(item.Name);
+                var name = basename;
+                int index = 0;
+                while (true)
+                {
+                    if (!anchors.ContainsKey(name))
+                    {
+                        anchors.Add(name, item);
+                        return;
+                    }
+                    index++;
+                    name = $"{basename}{index}";
+                }
+            }
+        }
+        void MakeAnchors(Dictionary<string, Item> anchors, Item baseItem)
+        {
+            AddAnchor(anchors, baseItem);
+            if(baseItem is Items)
+            {
+                foreach(var item in (baseItem as Items))
+                {
+                    MakeAnchors(anchors, item);
+                }
+            }
+        }
+
+        public class ItemWithAnchors
+        {
+            public Item Item { get; set; }
+            public Dictionary<string, Item> Anchors { get; set; } = new Dictionary<string, Item>();
+        }
+
+        private Dictionary<string, ItemWithAnchors> _AllItems = new Dictionary<string, ItemWithAnchors>();
+        public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
             if (!_AllItems.ContainsKey(source))
             {
                 //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{source}.md");
                 var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{source}.md");
-                //return Tools.MarkdownExtensions.ToItem(md);
                 if (md != null)
                 {
                     var item = Tools.MarkdownExtensions.ToItem(md);
                     if (item != null)
                     {
-                        _AllItems[source] = item;
+                        var anchors = new Dictionary<string, Item>();
+                        MakeAnchors(anchors, item);
+                        _AllItems[source] = new ItemWithAnchors() { Item = item, Anchors = anchors };
                     }
                     else
                     {
@@ -43,7 +82,15 @@ namespace AideDeJeu.ViewModels
                     return null;
                 }
             }
-            return _AllItems[source];
+            var itemWithAnchors = _AllItems[source];
+            if (!string.IsNullOrEmpty(anchor))
+            {
+                if (itemWithAnchors.Anchors.ContainsKey(anchor))
+                {
+                    return itemWithAnchors.Anchors[anchor];
+                }
+            }
+            return itemWithAnchors.Item;
         }
 
         public Command LoadItemsCommand { get; private set; }
