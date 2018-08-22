@@ -67,12 +67,12 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d6|Idéal|
 |---|---|
-|1|**Tradition.** Il faut préserver et respecter les anciennes traditions religieuses et sacrificielles. (Loyal)|
-|2|**Charité.** J'essaie toujours d'aider ceux qui sont dans le besoin, peu importe ce qu'il m'en coûte. (Bon)|
-|3|**Changement.** Nous devons mettre en oeuvre les changements que les dieux apportent constamment au monde. (Chaotique)|
-|4|**Pouvoir.** J'espère un jour être à la tête du clergé de mon Église. (Loyal)|
-|5|**Foi.** Je sais que ma déité guide mes pas. Je sais que si je suis fidèle à ses préceptes, tout ira bien. (Loyal)|
-|6|**Aspiration.** Je dois me prouver digne de mon dieu en agissant selon ses enseignements. (N'importe lequel)|
+|1|**Tradition.** Il faut préserver et respecter<br>les anciennes traditions religieuses et<br>sacrificielles. (Loyal)|
+|2|**Charité.** J'essaie toujours d'aider ceux qui sont<br>dans le besoin, peu importe ce qu'il m'en coûte.<br>(Bon)|
+|3|**Changement.** Nous devons mettre en oeuvre<br>les changements que les dieux apportent<br>constamment au monde. (Chaotique)|
+|4|**Pouvoir.** J'espère un jour être à la tête du<br>clergé de mon Église. (Loyal)|
+|5|**Foi.** Je sais que ma déité guide mes pas. Je sais<br>que si je suis fidèle à ses préceptes, tout ira<br>bien. (Loyal)|
+|6|**Aspiration.** Je dois me prouver digne de mon<br>dieu en agissant selon ses enseignements.<br>(N'importe lequel)|
 
 </Generic>
 
@@ -85,12 +85,12 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d6|Lien|
 |---|---|
-|1|Je suis prêt à mourir en tentant de récupérer une ancienne relique liée à ma foi et qui a été perdue il y a très longtemps.|
-|2|Un jour, je me vengerai de la hiérarchie corrompue qui m'a accusé d'être un hérétique.|
-|3|Je dois ma vie au clerc qui m'a recueilli après la mort de mes parents.|
+|1|Je suis prêt à mourir en tentant de récupérer<br>une ancienne relique liée à ma foi et qui a été<br>perdue il y a très longtemps.|
+|2|Un jour, je me vengerai de la hiérarchie<br>corrompue qui m'a accusé d'être un hérétique.|
+|3|Je dois ma vie au clerc qui m'a recueilli après la<br>mort de mes parents.|
 |4|Tout ce que je fais, je le fais pour le peuple.|
-|5|Je suis prêt à tout pour protéger le temple dans lequel j'ai servi.|
-|6|Je dois protéger un texte sacré que mes ennemis considèrent hérétique et cherchent à détruire.|
+|5|Je suis prêt à tout pour protéger le temple dans<br>lequel j'ai servi.|
+|6|Je dois protéger un texte sacré que mes<br>ennemis considèrent hérétique et cherchent à<br>détruire.|
 
 </Generic>
 
@@ -103,12 +103,12 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d6|Défaut|
 |---|---|
-|1|Je juge les autres sévèrement, mais je me juge encore plus durement.|
-|2|J'accorde trop de confiance à ceux qui détiennent le pouvoir dans la hiérarchie de mon temple.|
-|3|Ma piété me pousse parfois à croire aveuglément ceux qui professent croire en mon dieu.|
-|4|Je n'ai aucune flexibilité dans ma manière de penser.|
-|5|Je ne fais pas confiance aux étrangers et je m'attends au pire de leur part.|
-|6|Une fois que je me suis fixé un objectif, je deviens obsédé par celui-ci au détriment de tout le reste.|
+|1|Je juge les autres sévèrement, mais je me juge<br>encore plus durement.|
+|2|J'accorde trop de confiance à ceux qui<br>détiennent le pouvoir dans la hiérarchie de<br>mon temple.|
+|3|Ma piété me pousse parfois à croire<br>aveuglément ceux qui professent croire en<br>mon dieu.|
+|4|Je n'ai aucune flexibilité dans ma manière de<br>penser.|
+|5|Je ne fais pas confiance aux étrangers et je<br>m'attends au pire de leur part.|
+|6|Une fois que je me suis fixé un objectif, je<br>deviens obsédé par celui-ci au détriment de<br>tout le reste.|
 
 </Generic>
 
