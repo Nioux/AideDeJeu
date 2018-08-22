@@ -85,7 +85,7 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|La curiosité est un vilain défaut, et je suis<br>beaucoup trop curieux.|
 |6|Je me sens coupable d'un acte terrible qui est<br>advenu par ma faute. Je veux me racheter à<br>tout prix.|
 
-</Generic
+</Generic>
 
 </Items>
 
