@@ -71,6 +71,4 @@
 
 ## [Monsters, Animals and NPC](monsters_vo.md)
 
-<br>
-
-# [Sandbox](sandbox.md)
+<!-- <br> # [Sandbox](sandbox.md) -->
