@@ -13,7 +13,8 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.AboutCommand}" />
+        <ToolbarItem Name="DeepSearch" Text="Rechercher..." Order="Primary" Icon="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
     </ContentPage.ToolbarItems>
     <Grid>
         <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">

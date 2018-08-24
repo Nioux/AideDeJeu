@@ -23,9 +23,37 @@ namespace AideDeJeu.ViewModels
             Navigation = navigation;
         }
 
+        private Command _AboutCommand = null;
+        public Command AboutCommand
+        {
+            get
+            {
+                return _AboutCommand ?? (_AboutCommand = new Command(async () => await GotoAboutPageAsync()));
+            }
+        }
+
         public async Task GotoAboutPageAsync()
         {
             await Navigation.PushAsync(new Views.AboutPage());
+        }
+
+        private Command _DeepSearchCommand = null;
+        public Command DeepSearchCommand
+        {
+            get
+            {
+                return _DeepSearchCommand ?? (_DeepSearchCommand = new Command(async () => await GotoDeepSearchPageAsync()));
+            }
+        }
+
+        public async Task GotoDeepSearchPageAsync()
+        {
+            Main.IsLoading = true;
+            // à remplacer par gros chargement
+            await Task.Run(async () => await Main.PreloadAllItemsAsync());
+            //await Task.Run(async () => await Task.Delay(5000));
+            Main.IsLoading = false;
+            //await Navigation.PushAsync(new Views.DeepSearchPage());
         }
 
         public async Task GotoItemDetailPageAsync(Item item)

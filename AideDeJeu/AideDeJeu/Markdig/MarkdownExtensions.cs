@@ -52,47 +52,50 @@ namespace AideDeJeu.Tools
         {
             var currentItem = enumerator.Current.GetNewItem();
 
-            enumerator.MoveNext();
-            while (enumerator.Current != null)
+            if (currentItem != null)
             {
-                var block = enumerator.Current;
-
-                if (block is HtmlBlock)
+                enumerator.MoveNext();
+                while (enumerator.Current != null)
                 {
-                    if (block.IsClosingItem())
-                    {
-                        return currentItem;
-                    }
-                    else if (block.IsNewItem())
-                    {
-                        var subItem = ParseItem(ref enumerator);
+                    var block = enumerator.Current;
 
-                        var propertyName = subItem.GetType().Name;
-
-                        if (currentItem.GetType().GetProperty(propertyName) != null)
+                    if (block is HtmlBlock)
+                    {
+                        if (block.IsClosingItem())
                         {
-                            PropertyInfo prop = currentItem.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
-                            if (null != prop && prop.CanWrite)
+                            return currentItem;
+                        }
+                        else if (block.IsNewItem())
+                        {
+                            var subItem = ParseItem(ref enumerator);
+
+                            var propertyName = subItem.GetType().Name;
+
+                            if (currentItem.GetType().GetProperty(propertyName) != null)
                             {
-                                prop.SetValue(currentItem, subItem, null);
+                                PropertyInfo prop = currentItem.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
+                                if (null != prop && prop.CanWrite)
+                                {
+                                    prop.SetValue(currentItem, subItem, null);
+                                }
+                            }
+                            else if (currentItem is Items)
+                            {
+                                var items = currentItem as Items;
+                                items.Add(subItem);
                             }
                         }
-                        else if (currentItem is Items)
-                        {
-                            var items = currentItem as Items;
-                            items.Add(subItem);
-                        }
                     }
+
+                    else // if (block is ContainerBlock)
+                    {
+                        ParseItemProperties(currentItem, block);
+                    }
+
+                    currentItem.Markdown += enumerator.Current.ToMarkdownString();
+
+                    enumerator.MoveNext();
                 }
-
-                else // if (block is ContainerBlock)
-                {
-                    ParseItemProperties(currentItem, block);
-                }
-
-                currentItem.Markdown += enumerator.Current.ToMarkdownString();
-
-                enumerator.MoveNext();
             }
 
             return currentItem;
@@ -196,7 +199,7 @@ namespace AideDeJeu.Tools
             if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
-                if (!string.IsNullOrEmpty(tag))
+                if (!string.IsNullOrEmpty(tag) && tag != "<br>")
                 {
                     if (tag.StartsWith("<") && !tag.StartsWith("</"))
                     {

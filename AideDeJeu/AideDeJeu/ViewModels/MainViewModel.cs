@@ -21,7 +21,7 @@ namespace AideDeJeu.ViewModels
 
         void AddAnchor(Dictionary<string, Item> anchors, Item item)
         {
-            if (item != null)
+            if (item != null && item.Name != null)
             {
                 var basename = Helpers.IdFromName(item.Name);
                 var name = basename;
@@ -57,9 +57,37 @@ namespace AideDeJeu.ViewModels
         }
 
         private Dictionary<string, ItemWithAnchors> _AllItems = new Dictionary<string, ItemWithAnchors>();
+
+        public async Task PreloadAllItemsAsync()
+        {
+            foreach (var resourceName in Tools.Helpers.GetResourceNames())
+            {
+                var regex = new Regex(@"AideDeJeu\.Data\.(?<name>.*?)\.md");
+                var match = regex.Match(resourceName);
+                var source = match.Groups["name"].Value;
+                if (!string.IsNullOrEmpty(source))
+                {
+                    if (!_AllItems.ContainsKey(source))
+                    {
+                        var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
+                        if (md != null)
+                        {
+                            var item = Tools.MarkdownExtensions.ToItem(md);
+                            if (item != null)
+                            {
+                                var anchors = new Dictionary<string, Item>();
+                                MakeAnchors(anchors, item);
+                                _AllItems[source] = new ItemWithAnchors() { Item = item, Anchors = anchors };
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
-            await Task.Delay(3000);
+            //await Task.Delay(3000);
             if (!_AllItems.ContainsKey(source))
             {
                 //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{source}.md");
@@ -95,13 +123,22 @@ namespace AideDeJeu.ViewModels
         }
 
         public Command LoadItemsCommand { get; private set; }
-        public Command AboutCommand { get; private set; }
 
-        public Navigator Navigator { get; set; }
+        private Navigator _Navigator = null;
+        public Navigator Navigator
+        {
+            get
+            {
+                return _Navigator;
+            }
+            set
+            {
+                SetProperty(ref _Navigator, value);
+            }
+        }
 
         public MainViewModel()
         {
-            AboutCommand = new Command(async () => await Main.Navigator.GotoAboutPageAsync());
         }
     }
 }
