@@ -3,8 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AideDeJeu.Views.AboutPage"
              xmlns:vm="clr-namespace:AideDeJeu.ViewModels;"
-             Title="{Binding Title}" 
-             IsBusy="{Binding IsBusy}">
+             Title="{Binding Title}">
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
     </ContentPage.BindingContext>

@@ -91,7 +91,7 @@ namespace AideDeJeu.ViewModels
                 var with = match.Groups["with"].Value;
                 Main.IsBusy = true;
                 Main.IsLoading = true;
-                var item = await Main.GetItemFromDataAsync(file, anchor);
+                var item = await Task.Run(async () => await Main.GetItemFromDataAsync(file, anchor));
                 Main.IsBusy = false;
                 Main.IsLoading = false;
                 if (item != null)

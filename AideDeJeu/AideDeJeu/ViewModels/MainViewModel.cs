@@ -59,6 +59,7 @@ namespace AideDeJeu.ViewModels
         private Dictionary<string, ItemWithAnchors> _AllItems = new Dictionary<string, ItemWithAnchors>();
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
+            await Task.Delay(3000);
             if (!_AllItems.ContainsKey(source))
             {
                 //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{source}.md");
