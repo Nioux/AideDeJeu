@@ -15,6 +15,11 @@ namespace AideDeJeuLib
             _Items = items;
         }
 
+        public Items(IEnumerable<Item> items)
+        {
+            _Items = items.ToList();
+        }
+
         public Items()
         {
             _Items = new List<Item>();

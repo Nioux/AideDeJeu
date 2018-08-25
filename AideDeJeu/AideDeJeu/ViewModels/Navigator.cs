@@ -48,12 +48,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoDeepSearchPageAsync()
         {
-            Main.IsLoading = true;
-            // à remplacer par gros chargement
-            await Task.Run(async () => await Main.PreloadAllItemsAsync());
-            //await Task.Run(async () => await Task.Delay(5000));
-            Main.IsLoading = false;
-            //await Navigation.PushAsync(new Views.DeepSearchPage());
+            await Navigation.PushAsync(new Views.DeepSearchPage());
         }
 
         public async Task GotoItemDetailPageAsync(Item item)
