@@ -30,6 +30,7 @@ namespace AideDeJeu.ViewModels
                 {
                     if (!anchors.ContainsKey(name))
                     {
+                        item.Id = name;
                         anchors.Add(name, item);
                         return;
                     }
