@@ -5,7 +5,8 @@
     x:Class="AideDeJeu.Views.DeepSearchPage"
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
     x:Name="This" 
-    BackgroundColor="{StaticResource bgtan}" >
+    BackgroundColor="{StaticResource bgtan}" 
+    Title="Recherche">
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="DeepSearch" Text="Rechercher..." Order="Primary" Icon="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
