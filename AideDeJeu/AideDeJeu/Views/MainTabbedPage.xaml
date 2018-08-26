@@ -12,4 +12,5 @@
     </views:MainNavigationPage>
     <views:DeepSearchPage Title="Recherche"  Icon="crystal_ball.png" /> 
     <ContentPage Title="Favoris" />
+    <views:AboutPage Title="?" Icon="wooden_sign" />
 </TabbedPage>
