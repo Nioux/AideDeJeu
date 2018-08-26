@@ -76,6 +76,9 @@ namespace AideDeJeu.ViewModels
                 var vm = new ItemDetailViewModel(item);
                 await Navigation.PushAsync(new ItemDetailPage(vm));
             }
+            var tabbedPage = App.Current.MainPage as MainTabbedPage;
+            tabbedPage.SelectedItem = null;
+            tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
         }
 
         public async Task GotoItemsPageAsync(ItemsViewModel itemsVM)

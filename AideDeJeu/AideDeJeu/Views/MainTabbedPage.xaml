@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:views="clr-namespace:AideDeJeu.Views"
+            x:Class="AideDeJeu.Views.MainTabbedPage"
+            Padding="0">
+  <!--Pages can be added as references or inline-->
+    <views:MainNavigationPage x:Name="NavigationPage" Title="Haches &amp; Dés" Padding="0">
+        <x:Arguments>
+            <views:ItemDetailPage />
+        </x:Arguments>
+    </views:MainNavigationPage>
+    <views:DeepSearchPage Title="Recherche"  Icon="crystal_ball.png" /> 
+    <ContentPage Title="Favoris" />
+</TabbedPage>

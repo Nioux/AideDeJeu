@@ -1,4 +1,5 @@
-﻿using AideDeJeuLib;
+﻿using AideDeJeu.Views;
+using AideDeJeuLib;
 using System;
 using System.Collections.Generic;
 using System.Text;

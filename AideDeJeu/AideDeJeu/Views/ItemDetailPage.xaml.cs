@@ -35,15 +35,16 @@ namespace AideDeJeu.Views
         {
             InitializeComponent();
 
-            var item = new Item
-            {
-                Name = "",
-                AltName = "",
-                //Description = "This is an item description."
-            };
+            BindingContext = this.viewModel = new ItemDetailViewModel(new HomeItem()) { Title = "Haches & Dés" };
+            //var item = new Item
+            //{
+            //    Name = "",
+            //    AltName = "",
+            //    //Description = "This is an item description."
+            //};
 
-            viewModel = new ItemDetailViewModel(item);
-            BindingContext = viewModel;
+            //viewModel = new ItemDetailViewModel(item);
+            //BindingContext = viewModel;
         }
 
         void PaintHeaderBar(object sender, SKPaintSurfaceEventArgs args)
