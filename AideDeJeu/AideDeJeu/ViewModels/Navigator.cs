@@ -51,6 +51,35 @@ namespace AideDeJeu.ViewModels
             await Navigation.PushAsync(new Views.DeepSearchPage());
         }
 
+        private Command _AddToFavoritesCommand = null;
+        public Command AddToFavoritesCommand
+        {
+            get
+            {
+                return _AddToFavoritesCommand ?? (_AddToFavoritesCommand = new Command(async () => await ExecuteAddToFavoritesCommandAsync()));
+            }
+        }
+
+        public async Task ExecuteAddToFavoritesCommandAsync()
+        {
+            var tabbedPage = App.Current.MainPage as MainTabbedPage;
+            var navigationPage = tabbedPage.MainNavigationPage;
+            var lastPage = navigationPage.Navigation.NavigationStack.LastOrDefault();
+            var context = lastPage.BindingContext;
+            Item item = null;
+            if(context is ItemDetailViewModel)
+            {
+                item = (context as ItemDetailViewModel).Item;
+            }
+            else if(context is ItemsViewModel)
+            {
+                item = (context as ItemsViewModel).Items;
+            }
+            await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
+            var vm = new BookmarksViewModel();
+            await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarksKeyValues.Select(kv => kv.Key).ToArray());
+        }
+
         public async Task GotoItemDetailPageAsync(Item item)
         {
             if (item == null)

@@ -7,17 +7,17 @@
   <!--Pages can be added as references or inline-->
     <views:MainNavigationPage x:Name="NavigationPage" Icon="spell_book">
         <views:MainNavigationPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="Grimoire" WinPhone="Grimoire"/>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="Bibliothèque" WinPhone="Bibliothèque"/>
         </views:MainNavigationPage.Title>
         <x:Arguments>
             <views:ItemDetailPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <ContentPage Icon="stars_stack">
-        <ContentPage.Title>
+    <views:BookmarksPage Icon="stars_stack">
+        <views:BookmarksPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
-        </ContentPage.Title>
-    </ContentPage>
+        </views:BookmarksPage.Title>
+    </views:BookmarksPage>
     <views:DeepSearchPage Icon="crystal_ball">
         <views:DeepSearchPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche" />

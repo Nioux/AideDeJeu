@@ -4,10 +4,16 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="AideDeJeu.Views.DeepSearchPage"
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
+    xmlns:properties="clr-namespace:AideDeJeu.Properties"
     x:Name="This" 
     BackgroundColor="{StaticResource bgtan}" 
     Title="Recherche"
     Icon="crystal_ball.png">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.ToolbarItems>
         <!--<ToolbarItem Name="DeepSearch" Text="Rechercher..." Order="Primary" Icon="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />-->
@@ -18,11 +24,16 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            <SearchBar Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+            <SearchBar Style="{StaticResource subsubsection}"  Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
                 <!--<SearchBar.Behaviors>
                     <tools:TextChangedBehavior />
                 </SearchBar.Behaviors>-->
             </SearchBar>
+
+            <!--<Label Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="Lancez une recherche pour voir ici vos résultats !\n\n(Notez que la première recherche peut être assez longue)" IsVisible="{Binding Bookmarks.Count, Converter={StaticResource IntToBooleanConverter}}" />-->
+
+            <Label Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="{x:Static properties:Resource.EmptySearchAltText}" IsVisible="{Binding Bookmarks.Count, Converter={StaticResource IntToBooleanConverter}}" />
+
             <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>

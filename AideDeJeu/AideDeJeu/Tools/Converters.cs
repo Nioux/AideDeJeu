@@ -1,10 +1,12 @@
 ﻿using AideDeJeu.ViewModels;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 using System.Xml;
 using Xamarin.Forms;
+using System.Linq;
 
 namespace AideDeJeu.Tools
 {
@@ -33,6 +35,32 @@ namespace AideDeJeu.Tools
             return null;
         }
     }
+
+    public class IntToValueConverter<T> : IValueConverter
+    {
+        public T NullOrZeroValue { get; set; }
+        public T NonZeroValue { get; set; }
+
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if(value != null)
+            {
+                int? ivalue = value as int?;
+                if(ivalue.HasValue && ivalue > 0)
+                {
+                    return NonZeroValue;
+                }
+            }
+            return NullOrZeroValue;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return null;
+        }
+    }
+
+    public class IntToBooleanConverter : IntToValueConverter<bool> { }
 
     public class HeaderLevelToStyleConverter : IValueConverter
     {

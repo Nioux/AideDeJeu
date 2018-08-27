@@ -19,12 +19,12 @@ namespace AideDeJeu.ViewModels
             set => SetProperty(ref _isLoading, value);
         }
 
-        void AddAnchor(Dictionary<string, Item> anchors, Item item)
+        void AddAnchor(string source, Dictionary<string, Item> anchors, Item item)
         {
             if (item != null && item.Name != null)
             {
                 var basename = Helpers.IdFromName(item.Name);
-                var name = basename;
+                var name = $"{source}.md#{basename}";
                 int index = 0;
                 while (true)
                 {
@@ -35,18 +35,18 @@ namespace AideDeJeu.ViewModels
                         return;
                     }
                     index++;
-                    name = $"{basename}{index}";
+                    name = $"{source}.md#{basename}{index}";
                 }
             }
         }
-        void MakeAnchors(Dictionary<string, Item> anchors, Item baseItem)
+        void MakeAnchors(string source, Dictionary<string, Item> anchors, Item baseItem)
         {
-            AddAnchor(anchors, baseItem);
+            AddAnchor(source, anchors, baseItem);
             if(baseItem is Items)
             {
                 foreach(var item in (baseItem as Items))
                 {
-                    MakeAnchors(anchors, item);
+                    MakeAnchors(source, anchors, item);
                 }
             }
         }
@@ -77,7 +77,7 @@ namespace AideDeJeu.ViewModels
                             if (item != null)
                             {
                                 var anchors = new Dictionary<string, Item>();
-                                MakeAnchors(anchors, item);
+                                MakeAnchors(source, anchors, item);
                                 _AllItems[source] = new ItemWithAnchors() { Item = item, Anchors = anchors };
                             }
                         }
@@ -139,7 +139,7 @@ namespace AideDeJeu.ViewModels
                     if (item != null)
                     {
                         var anchors = new Dictionary<string, Item>();
-                        MakeAnchors(anchors, item);
+                        MakeAnchors(source, anchors, item);
                         _AllItems[source] = new ItemWithAnchors() { Item = item, Anchors = anchors };
                     }
                     else
