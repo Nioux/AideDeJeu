@@ -5,12 +5,27 @@
             x:Class="AideDeJeu.Views.MainTabbedPage"
             Padding="0">
   <!--Pages can be added as references or inline-->
-    <views:MainNavigationPage x:Name="NavigationPage" Title="Haches &amp; Dés" Padding="0">
+    <views:MainNavigationPage x:Name="NavigationPage" Icon="spell_book">
+        <views:MainNavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="Grimoire" WinPhone="Grimoire"/>
+        </views:MainNavigationPage.Title>
         <x:Arguments>
             <views:ItemDetailPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:DeepSearchPage Title="Recherche"  Icon="crystal_ball.png" /> 
-    <ContentPage Title="Favoris" />
-    <views:AboutPage Title="?" Icon="wooden_sign" />
+    <ContentPage Icon="stars_stack">
+        <ContentPage.Title>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
+        </ContentPage.Title>
+    </ContentPage>
+    <views:DeepSearchPage Icon="crystal_ball">
+        <views:DeepSearchPage.Title>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche" />
+        </views:DeepSearchPage.Title>
+    </views:DeepSearchPage>
+    <views:AboutPage Title="?" Icon="wooden_sign">
+        <views:AboutPage.Title>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="À propos de..." WinPhone="À propos de..." />
+        </views:AboutPage.Title>
+    </views:AboutPage>
 </TabbedPage>
