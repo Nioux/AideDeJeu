@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Militaire</Name>
+# <!--Name-->Militaire<!--/Name-->
 
 Conscrit, soldat de métier ou milicien, vous avez passé une large part de votre ancienne vie au sein d'une organisation hiérarchique disciplinée vouée aux métiers des armes. Rythmée par les corvées, les exercices et les combats, votre existence a été exposée au danger à maintes reprises, et vous devez votre salut à vos aptitudes au maniement des armes autant qu'à certains de vos compagnons d'armes, dont plusieurs sont tombés au combat.
 
@@ -11,9 +11,9 @@ Conscrit, soldat de métier ou milicien, vous avez passé une large part de votr
 
 **Équipement :** Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Unité</Name>
+#### <!--Name-->Unité<!--/Name-->
 
 Vous avez passé une large part de votre temps dans une unité en particulier. Établissez avec votre MJ le type d'unité et son rôle, ainsi que d'éventuelles batailles ou sièges auxquels vous avez participé. Vous pouvez vous inspirer de la liste suivante, ou déterminer aléatoirement le rôle de votre unité.
 
@@ -26,25 +26,25 @@ Vous avez passé une large part de votre temps dans une unité en particulier. �
 |5|Irréguliers/Éclaireurs|
 |6|Sapeurs/Ingénieurs|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Frères d'armes</Name>
+#### <!--Name-->Aptitude : Frères d'armes<!--/Name-->
 
 Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous savez intuitivement à qui vous adresser et de quelle manière au sein d'une unité militaire. Vous avez aussi une connaissance approfondie des rivalités seigneuriales dans votre région d'origine, et savez parfaitement reconnaître d'éventuels soldats « amis », auprès de qui vous pouvez solliciter de l'aide en cas de nécessité.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'hommes d'armes survivent au chaos de la bataille sans être profondément affectés. Ils voient à la fois le plus laid et le plus beau en l'homme : la violence et la barbarie, l'héroïsme et le sens du sacrifice.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -57,11 +57,11 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |7|J'ai le plus grand respect pour la hiérarchie et<br>le règlement.|
 |8|Je masque les blessures du passé sous un<br>humour salace et imagé.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -72,11 +72,11 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |5|**Changement.** Le chaos de la bataille est une<br>source primale d'énergie et de changement.<br>(Chaotique)|
 |6|**Honneur.** Servir son seigneur, sa cité ou sa<br>patrie est la mission la plus honorable qui soit.<br>(Loyal)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -87,11 +87,11 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |5|Mon meilleur ami a été lâchement abattu par<br>un soldat ennemi au cours d'une bataille. Je<br>traquerai cet ennemi au bout du monde s'il le<br>faut.|
 |6|Ma seule obligation est pour mes actuels<br>compagnons d'armes. Ils sont mon unique<br>famille.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -102,13 +102,13 @@ Le sang, la boue et la sueur sont les fidèles compagnons du soldat. Peu d'homme
 |5|Je noie les souvenirs du passé dans l'alcool.|
 |6|J'ai pris goût au chaos de la bataille et à la<br>violence du combat. Rien d'autre ne m'enivre<br>plus désormais.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Garde</Name>
+### <!--Name-->Variante : Garde<!--/Name-->
 
 Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n'était pas fait de grandes batailles et d'actes héroïques, mais bien plus souvent de citoyens avinés, de mendiants, de voleurs, de marchands mécontents et autres charlatans en tous genres.
 
@@ -120,11 +120,11 @@ Vous avez été membre de la garde d'une ville ou d'une cité. Votre quotidien n
 
 **Équipement :** Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Mercenaire</Name>
+### <!--Name-->Variante : Mercenaire<!--/Name-->
 
 Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plus offrant. Vous avez combattu avec et contre la plupart des seigneurs locaux, au gré des fortunes des uns et des autres. Pour vous, la guerre était avant tout une source de profit.
 
@@ -134,11 +134,11 @@ Vous avez fait partie d'une compagnie de mercenaires vendant ses services au plu
 
 **Équipement :** Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Officier</Name>
+### <!--Name-->Variante : Officier<!--/Name-->
 
 Par votre courage ou un hasard des événements, à force de ténacité aussi, vous avez gravi quelques échelons dans la hiérarchie militaire, devenant sergent, enseigne, lieutenant ou même capitaine d'une compagnie. Vos hommes vous respectaient d'autant plus que votre statut n'avait rien à voir avec votre naissance.
 
@@ -150,14 +150,14 @@ Par votre courage ou un hasard des événements, à force de ténacité aussi, v
 
 **Équipement :** Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.
 
-</Generic>
+<!--/Generic-->
 
-#### <Name>Aptitude : Position d'autorité</Name>
+#### <!--Name-->Aptitude : Position d'autorité<!--/Name-->
 
 Les soldats « amis » reconnaissent votre autorité et votre expérience, et ont tendance à accepter tout naturellement vos ordres et vos directives. En cas de nécessité, dans une ville de votre région d'origine, vous êtes capable de réunir rapidement un petit groupe d'anciens soldats prêts à vous rendre service.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-</Items>
+<!--/Items-->

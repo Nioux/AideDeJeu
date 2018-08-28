@@ -1,24 +1,24 @@
-<Items>
+<!--Items-->
 
-# <Name>Cercle des profondeurs</Name>
+# <!--Name-->Cercle des profondeurs<!--/Name-->
 
-- Source: <Source>(MDR p150)</Source>
+- Source: <!--Source-->(MDR p150)<!--/Source-->
 
 Certains druides n'ont pas pour domaine de prédilection les vertes forêts et la douce lumière du soleil. Ils considèrent que la surface n'est que la partie visible de l'iceberg et que les profondeurs souterraines recèlent des trésors naturels tout aussi précieux et des créatures tout aussi importantes. La vie dans les profondeurs est une lutte pour la survie encore plus féroce que celle qui règne à la surface, et les druides du cercle des profondeurs sont armés pour affronter ces dangers. Leurs pairs du monde de la lumière les regardent à la fois avec une certaine pitié, mais aussi avec un peu de crainte.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Enfant des ténèbres</Name>
+## <!--Name-->Enfant des ténèbres<!--/Name-->
 
 Au niveau 2, lorsque vous choisissez le cercle des profondeurs, vous apprenez le commun des profondeurs (langue exotique) et vous devenez capable de lancer le tour de magie lumière.
 
 De plus, vous obtenez la vision dans le noir. Dans un rayon de 18 mètres, vous pouvez voir dans une zone de lumière faible comme s'il s'agissait d'une lumière vive et dans l'obscurité comme s'il s'agissait d'une lumière faible. Par contre, vous ne distinguez pas les couleurs dans l'obscurité, seulement des nuances de gris. Si vous disposez déjà de ce trait, vous doublez sa portée. Enfin, le druide conserve ce trait même s'il adopte une forme sauvage qui n'y a pas normalement accès.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Forme monstrueuse</Name>
+## <!--Name-->Forme monstrueuse<!--/Name-->
 
 Le druide du cercle des profondeurs reconnaît les créatures étranges comme des enfants de la nature au même titre que les animaux. À partir du niveau 2, vous pouvez sacrifier deux formes sauvages pour vous transformer en créature monstrueuse, l'ID et les créatures auxquelles vous avez accès sont précisés dans le tableau ci-dessous.
 
@@ -38,35 +38,35 @@ De plus, vous doublez votre niveau de druide pour déterminer les formes sauvage
 (* Le druide n'obtient aucun équipement lorsqu'il prend cette forme, s'il veut réaliser une attaque avec une arme, il doit se la procurer d'une façon ou d'une autre.)
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Pouvoir des profondeurs</Name>
+## <!--Name-->Pouvoir des profondeurs<!--/Name-->
 
 À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir pattes d'araignées pour toute la durée de la transformation. Ce pouvoir vous demande de maintenir votre concentration, toutefois cette concentration ne peut pas être brisée contre votre gré (blessure, provocation, etc.). Si vous décidez volontairement de cesser de vous concentrer, vous devez dépenser une nouvelle forme sauvage pour obtenir de nouveau pattes d'araignées.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Magie des profondeurs</Name>
+## <!--Name-->Magie des profondeurs<!--/Name-->
 
 Lorsque vous atteignez le niveau 10, vous pouvez utiliser forme sauvage une fois de plus par repos, si vous avez effectué ce repos sous terre. De plus, lorsque vous êtes sous forme sauvage, vous pouvez utiliser une action bonus pour dépenser un emplacement de sort et ajouter 1d6 par niveau du sort aux dégâts d'une attaque que vous venez de porter. Les dégâts de l'attaque sont considérés comme magiques et du même type que l'attaque initiale.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Déplacement souterrain</Name>
+## <!--Name-->Déplacement souterrain<!--/Name-->
 
 À partir du niveau 14, vous pouvez vous déplacer à travers la pierre ou la terre d'un sol ou d'une paroi, s'ils sont naturels, à la moitié de votre vitesse normale, que ce soit sous votre forme normale ou sous forme sauvage.
 
 Vous devez terminer votre déplacement à l'air libre. Si ce n'est pas le cas, vous subissez 2d6 dégâts par tour, seulement la moitié si vous réussissez un [jet de sauvegarde] de [Constitution] DD 15.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 
 [Oxydeur]: monsters_hd.md#oxydeur

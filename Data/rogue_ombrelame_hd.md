@@ -1,16 +1,16 @@
-<Items>
+<!--Items-->
 
-# <Name>Ombrelame</Name>
+# <!--Name-->Ombrelame<!--/Name-->
 
-- Source: <Source>(MDR p206)</Source>
+- Source: <!--Source-->(MDR p206)<!--/Source-->
 
 Si la plupart des roublards cultivent la discrétion et la manipulation, se fondre dans les ombres et tromper l'adversaire semble une seconde nature chez certain.
 
 Ceux-ci semblent avoir une connexion surnaturelle avec le monde des ombres et de l'obscurité, quelque chose d'inexplicable qui coule dans leur sang et leur donne accès à une magie étrange et inquiétante, parfois sombre et mortelle.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Initié</Name>
+## <!--Name-->Initié<!--/Name-->
 
 Vous obtenez un nombre de points de sorcellerie égal à votre niveau, soit 3 points de sorcellerie au niveau 3.
 
@@ -29,11 +29,11 @@ Au niveau 3, vous connaissez deux tours de magie et deux sorts de niveau 1 de la
 
 À chaque fois que vous gagnez un niveau pair de roublard (4, 6, etc.), vous apprenez un nouveau sort de cette liste (mais pas un tour de magie).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Incantations</Name>
+## <!--Name-->Incantations<!--/Name-->
 
 Difficulté des [jets de sauvegarde] = 8 + bonus de maîtrise + modificateur de [Charisme]
 
@@ -41,11 +41,11 @@ Modificateur d'attaque des sorts = bonus de maîtrise + modificateur de [Charism
 
 Vous pouvez utiliser votre propre ombre comme focaliseur d'incantation pour vos sorts d'ombrelame.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Enfant de l'ombre</Name>
+## <!--Name-->Enfant de l'ombre<!--/Name-->
 
 Également au niveau 3, en utilisant une action bonus, vous pouvez désigner une source de lumière non magique à une portée de 18 mètres et réduire de moitié le rayon de lumière vive qu'elle émet pendant 1 minute. La zone de lumière faible n'est pas affectée.
 
@@ -53,47 +53,47 @@ Par exemple, une torche voit sa zone de lumière vive réduite à 3 mètres, mai
 
 De plus, vous obtenez un avantage aux tests de [Dextérité (Discrétion)] que vous effectuez dans une zone de lumière faible.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Énergie de l'ombre</Name>
+## <!--Name-->Énergie de l'ombre<!--/Name-->
 
 Lorsque vous atteignez le niveau 9, vous pouvez récupérer un nombre de points de sorcellerie égal à votre bonus de maîtrise après avoir terminé un repos court.
 
 Vous devez passer l'intégralité de votre repos court dans un lieu éclairé au maximum par une lumière faible. Vous ne pouvez bénéficier de cette aptitude qu'une seule fois entre deux repos long.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Frappe maudite</Name>
+## <!--Name-->Frappe maudite<!--/Name-->
 
 Également au niveau 9, lorsque vous réussissez une attaque sournoise, vous pouvez dépenser 1 point de sorcellerie pour transformer les dégâts infligés par votre attaque sournoise en dégâts nécrotiques (mais pas les dégâts de l'arme). Les dégâts infligés par l'arme sont considérés comme des dégâts magiques.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Ombre et magie</Name>
+## <!--Name-->Ombre et magie<!--/Name-->
 
 À partir du niveau 13, vous pouvez lancer le sort pas brumeux en dépensant 1 point de sorcellerie.
 
 Vous n'avez pas besoin de connaître ce sort et, si vous l'aviez appris, vous pouvez apprendre un autre sort à sa place. Vous apprenez en outre un troisième tour de magie.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Maître de l'ombre</Name>
+## <!--Name-->Maître de l'ombre<!--/Name-->
 
 Au niveau 17, vous pouvez dépenser 5 points de sorcellerie pour lancer un des sorts suivants : apparence trompeuse, passage dimensionnel ou tromperie. Vous devez terminer un repos court avant de pouvoir à nouveau lancer un sort de cette liste.
 
 Enfin, vous pouvez bénéficier de votre aptitude énergie de l'ombre une seconde fois entre deux repos longs.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

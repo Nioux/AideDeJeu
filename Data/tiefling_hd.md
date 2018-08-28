@@ -1,10 +1,10 @@
 
-<Generic>
+<!--Generic-->
 
-# <Name>Tieffelin</Name>
+# <!--Name-->Tieffelin<!--/Name-->
 
-- AltName: <AltName>Tiefling (SRD p7)</AltName>
-- Source: <Source>(MDR p71)</Source>
+- AltName: <!--AltName-->Tiefling (SRD p7)<!--/AltName-->
+- Source: <!--Source-->(MDR p71)<!--/Source-->
 
 ## Traits des tieffelins
 
@@ -28,7 +28,7 @@ Les tieffelins ont hérité de certains traits raciaux infernaux liés à leur a
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en infernal.
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

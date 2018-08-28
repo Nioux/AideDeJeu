@@ -1,19 +1,19 @@
 
-<Items>
+<!--Items-->
 
-## <Name>Points de vie et blessures</Name>
+## <!--Name-->Points de vie et blessures<!--/Name-->
 
-- Source: <Source>(L5R p42)</Source>
+- Source: <!--Source-->(L5R p42)<!--/Source-->
 
 Les cinq royaumes sont un univers difficile et sans pitié. Pour refléter cet aspect, le système de gestion des blessures physiques est modifié au-delà de la simple perte de points de vie. Les blessures doivent faire mal.
 
 Les personnages disposent désormais de deux jauges. Les points de vie deviennent les points de combativité (PC). À cela se rajoutent les points de vitalité (PVit).
 
-<Generic>
+<!--Generic-->
 
-### <Name>Points de combativité</Name>
+### <!--Name-->Points de combativité<!--/Name-->
 
-- Source: <Source>(L5R p42)</Source>
+- Source: <!--Source-->(L5R p42)<!--/Source-->
 
 Les PC correspondent à l'adresse, la chance, les blessures superficielles et la capacité du personnage à endurer un combat et à éviter les coups. Quand un personnage perd des points de combativité, il n'est pas blessé : il est acculé, mis en difficulté, égratigné…
 
@@ -21,23 +21,23 @@ Un personnage obtient au niveau 1 un nombre de PC égal au score maximum de son 
 
 À partir du niveau 9, les personnages ne gagnent plus de points de combativité de cette manière. Chaque fois qu'ils changent de niveau, ils peuvent rejeter l'intégralité de leurs 8DV précédents. S'ils obtiennent un score supérieur à leur score avant la prise de niveau, ils conservent ce nouveau score. S'ils obtiennent un score inférieur ou égal à leur score maximal de PC avant la prise de niveau, ils gagnent un unique point de combativité. Un personnage ne peut jamais dépasser un score de PC supérieur à [8xDV + modificateur de CON]. À terme, ils pourront donc maximiser leur nombre de points de combativité sans dépasser leur maximum. Le seul moyen de le dépasser est l'acquisition du don Coriace et l'augmentation du score de Constitution (et de son modificateur).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Points de vitalité</Name>
+### <!--Name-->Points de vitalité<!--/Name-->
 
-- Source: <Source>(L5R p43)</Source>
+- Source: <!--Source-->(L5R p43)<!--/Source-->
 
 Les PVit mesurent les blessures plus importantes. Un personnage possède un nombre de PVit égal à son score de Constitution + la moitié du dé de vie de sa classe + son niveau (avec un maximum de 8, c'est-à-dire que pour un personnage de niveau 10, on gardera le chiffre 8 pour ce calcul).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Subir des dégâts</Name>
+### <!--Name-->Subir des dégâts<!--/Name-->
 
-- Source: <Source>(L5R p43)</Source>
+- Source: <!--Source-->(L5R p43)<!--/Source-->
 
 Quand un personnage reçoit des dommages, il perd tout d'abord « normalement » ses PC. Cependant, quand un personnage subit un coup critique (ou qu'il obtient un 1 naturel sur un jet de sauvegarde contre un sort), contrairement aux règles de base de Héros & Dragons, jetez deux fois les dégâts de votre arme. Appliquez-les une fois aux PC, puis la seconde fois aux PVit. En cas de dés additionnels tels que l'attaque sournoise, appliquez aux PVit les dégâts fixes tels que décrits plus loin (cf. Spécial : l'attaque sournoise). Si le personnage n'a plus de PC, doublez simplement les dégâts et appliquez-les aux PVit. Si une capacité vous offre un bonus aux dégâts spécifique en cas de critique (comme la capacité "critique brutal" du barbare), appliquez par défaut les dégâts issus de cette source sur les PC. Oui, les critiques sont mortels, surtout avec une attaque sournoise. S'il ne lui reste plus aucun PC, alors l'intégralité des dégâts est doublée.
 
@@ -45,13 +45,13 @@ Ce n'est que lorsqu'un personnage arrive à 0 PC (ou qu'il subit un coup critiqu
 
 Cette double jauge peut rendre les personnages de bas niveau plus résistants que leurs homologues de Héros & Dragons. Cependant, à partir du niveau 3, ils deviennent plus fragiles face à des créatures puissantes.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>0 PC</Name>
+#### <!--Name-->0 PC<!--/Name-->
 
-- Source: <Source>(L5R p43)</Source>
+- Source: <!--Source-->(L5R p43)<!--/Source-->
 
 Arrivé à 0 PC, un personnage doit effectuer un jet de sauvegarde de Constitution contre une difficulté égale à [8 + modificateur de la caractéristique ayant infligé les dégâts + Indice de Dangerosité (minimum 1)] de l'adversaire afin d'éviter de tomber inconscient. Si les dégâts ont été causés par un sortilège, un rituel, un piège ou un élément naturel, la difficulté du jet de sauvegarde de Constitution est égale au degré de difficulté de l'obstacle ou du jet de sauvegarde pour y échapper.
 
@@ -59,25 +59,25 @@ En cas d'échec, le personnage tombe inconscient et subit une blessure légère 
 
 De plus, tous les dégâts excédentaires qui auraient dû amener le personnage en dessous de 0 sont appliqués aux PVit.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>0 PVit</Name>
+#### <!--Name-->0 PVit<!--/Name-->
 
-- Source: <Source>(L5R p43)</Source>
+- Source: <!--Source-->(L5R p43)<!--/Source-->
 
 Quand un personnage arrive à 0 PC, s'il subit de nouveaux dommages, ce sont alors ses PVit qui sont entamés. Une fois arrivé à 0 PVit, le personnage meurt.
 
 Quand des dégâts sont infligés aux PVit, aucune Résistance aux dégâts ne s'applique. Cependant, pour toute créature possédant un Indice de Dangerosité supérieur à 9, les Résistances s'appliquent tant que la créature n'est pas arrivée à 0 PC (donc sur les coups critiques).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Spécial : les dégâts d'attaque sournoise</Name>
+#### <!--Name-->Spécial : les dégâts d'attaque sournoise<!--/Name-->
 
-- Source: <Source>(L5R p43)</Source>
+- Source: <!--Source-->(L5R p43)<!--/Source-->
 
 L'attaque sournoise du roublard est un peu particulière. Elle offre une certaine puissance au Roublard, lui permettant de faire des dégâts massifs et rapidement. Lorsqu'un roublard effectue une attaque sournoise, plusieurs options s'offrent à lui.
 
@@ -87,53 +87,53 @@ Il peut aussi effectuer une attaque sournoise normale. Les dégâts sont appliqu
 
 Il peut enfin effectuer une attaque sournoise en conjonction avec une attaque féroce. Le roublard doit alors trouver comment obtenir l'avantage sur son attaque afin d'annuler le désavantage de l'attaque féroce. L'attaque sournoise prend place normalement."
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Éviter de perdre des PVit</Name>
+#### <!--Name-->Éviter de perdre des PVit<!--/Name-->
 
-- Source: <Source>(L5R p44)</Source>
+- Source: <!--Source-->(L5R p44)<!--/Source-->
 
 Un joueur dont le personnage subit des dégâts infligés à ses PVit peut décider de réduire de moitié cette perte de points, ou de l'annuler totalement. S'il la réduit de moitié, il décide alors de tirer une blessure légère aléatoire. S'il l'annule, il décide alors de tirer une blessure sérieuse aléatoire (cf. table des blessures ci-contre). Lors d'un unique combat, vous pouvez subir [modificateur de constitution] (minimum 2) blessures légères et [modificateur de constitution/2] (minimum 1) blessures graves. Un personnage ne peut supporter d'avoir au maximum [modificateur de Constitutionx2] (minimum 2) blessures légères, et [modificateur de Constitution] (minimum 1) blessures graves en même temps.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Regagner des PC</Name>
+#### <!--Name-->Regagner des PC<!--/Name-->
 
-- Source: <Source>(L5R p44)</Source>
+- Source: <!--Source-->(L5R p44)<!--/Source-->
 
 Pour regagner des PC, la règle sur les points de vie de Héros & Dragons s'applique normalement. Les pouvoirs magiques de druide et les capacités de barde s'appliquent normalement aux PC, autant que la dépense de dés de vie et toute autre capacité de guérison.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Regagner des PVit</Name>
+#### <!--Name-->Regagner des PVit<!--/Name-->
 
-- Source: <Source>(L5R p44)</Source>
+- Source: <!--Source-->(L5R p44)<!--/Source-->
 
 C'est un cas un peu différent. Chaque personnage regagne un certain nombre de PVit par jour. Ce nombre dépend des conditions dans lesquelles le personnage guérit, ainsi que des soins apportés. Un jet de Médecine d'une difficulté égale à [20 - modificateur de Constitution du blessé] est nécessaire afin que les soins prodigués soient efficaces. Ce jet doit être renouvelé chaque jour si les personnages voyagent ou ont une activité modérée ou intense, et chaque semaine si le blessé est au repos complet (Cf. tableau ci-contre).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Éviter la mort</Name>
+#### <!--Name-->Éviter la mort<!--/Name-->
 
-- Source: <Source>(L5R p44)</Source>
+- Source: <!--Source-->(L5R p44)<!--/Source-->
 
 Le joueur d'un personnage ayant atteint 0 PVit peut décider que son personnage ne meurt pas. À la place, il peut tirer sur la table des séquelles (cf. la table des séquelles cicontre). Les séquelles sont des blessures graves et durables. Vous ne pouvez en subir qu'une par combat.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Guérir des blessures</Name>
+#### <!--Name-->Guérir des blessures<!--/Name-->
 
-- Source: <Source>(L5R p44)</Source>
+- Source: <!--Source-->(L5R p44)<!--/Source-->
 
 Une blessure légère nécessite [7 - modificateur de Constitution] jours pour être guérie, avec un minimum incompressible de 1 jour. Une blessure sérieuse nécessite [7 - modificateur de Constitution] semaines pour être guérie, avec un minimum incompressible de 1 semaine. Enfin, une séquelle ne guérit jamais.
 
@@ -142,13 +142,13 @@ Un test d'intelligence (Médecine) difficulté 15 (pour les blessures légères)
 Note : tant que le combat n'est pas terminé, le personnage ne ressent pas les effets des blessures subies. Ce n'est qu'une fois que la poussière retombe et que l'adrénaline redescend que les niveaux de blessure agissent. À partir de ce moment précis, le personnage subit les effets techniques de son niveau de blessure jusqu'à ce que le personnage soit définitivement guéri.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Et pour les créatures et PNJ ?</Name>
+### <!--Name-->Et pour les créatures et PNJ ?<!--/Name-->
 
-- Source: <Source>(L5R p46)</Source>
+- Source: <!--Source-->(L5R p46)<!--/Source-->
 
 Les choses fonctionnent peu ou prou de la même manière.
 
@@ -162,13 +162,13 @@ Une créature possédant des actions légendaires peut décider d'en dépenser u
 
 Une créature possédant l'aptitude résistance légendaire peut aussi dépenser une utilisation de cette dernière afin de diviser par deux une perte de PVit. Elle peut dépenser deux utilisations afin d'annuler totalement une perte de PVit.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Tuer ou garder en vie</Name>
+#### <!--Name-->Tuer ou garder en vie<!--/Name-->
 
-- Source: <Source>(L5R p47)</Source>
+- Source: <!--Source-->(L5R p47)<!--/Source-->
 
 Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 
@@ -177,13 +177,13 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 * Laissez les joueurs choisir d'achever ou non la créature. Si la situation n'est pas totalement claire, alors que les joueurs fassent leur choix : l'achèveront- ils ou l'assommeront-ils pour la capturer ?
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Regagner ses points de vitalité</Name>
+#### <!--Name-->Regagner ses points de vitalité<!--/Name-->
 
-- Source: <Source>(L5R p45)</Source>
+- Source: <!--Source-->(L5R p45)<!--/Source-->
 
 |Conditions|Regain de vitalité pour une nuit de repos|
 |---|---|
@@ -193,13 +193,13 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 |Jet de Médecine réussi|Doubler le nombre de points récupérés|
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Blessures légères</Name>
+#### <!--Name-->Blessures légères<!--/Name-->
 
-- Source: <Source>(L5R p45)</Source>
+- Source: <!--Source-->(L5R p45)<!--/Source-->
 
 |1d12|Blessure légère|Technique|
 |---|---|---|
@@ -216,13 +216,13 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 |11|Gorge écrasée|Désavantage sur tous les tests liés à l'interaction sociale|
 |12|Hématome à la<br>nuque|Désavantage sur les jets de sauvegarde d'Intelligence et de Sagesse|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Blessures sérieuses</Name>
+#### <!--Name-->Blessures sérieuses<!--/Name-->
 
-- Source: <Source>(L5R p45)</Source>
+- Source: <!--Source-->(L5R p45)<!--/Source-->
 
 |1d12|Blessure sérieuse|Technique|
 |---|---|---|
@@ -239,11 +239,11 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 |11|Mâchoire brisée|Désavantage sur tous les tests de Charisme.|
 |12|Pied transpercé|Désavantage sur tous les tests de Dextérité et les adversaires ont l'avantage sur leurs<br> tests d'attaque.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Séquelles</Name>
+#### <!--Name-->Séquelles<!--/Name-->
 
 - Source (L5R p46)
 
@@ -263,49 +263,49 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 |12|Trippes<br> sectionnées|Le personnage est sujet à des douleurs chroniques qui lui gâchent la vie, voire le mettent en<br> danger. Une fois par séance, le MJ peut décider que les douleurs se réveillent. Le personnage a<br> le désavantage sur tous ses tests de caractéristique et jets de sauvegarde. Cependant, dès la<br> fin de la scène, le personnage gagne l'inspiration.|
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Concernant l'attaque sournoise</Name>
+#### <!--Name-->Concernant l'attaque sournoise<!--/Name-->
 
-- Source: <Source>(L5R p43)</Source>
+- Source: <!--Source-->(L5R p43)<!--/Source-->
 
 L’attaque sournoise devient une technique réellement mortelle. Un roublard peut, grâce à l’attaque féroce, réduire à 0 les PVit d’un adversaire. Soyez plus exigeant, demandez bien au joueur de chercher des stratégies efficaces : qu’il soit discret et surprenant. Que les choses ne soient jamais évidentes ! Une simple prise en tenaille ne devrait jamais suffire.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Option encore plus mortelle</Name>
+#### <!--Name-->Option encore plus mortelle<!--/Name-->
 
-- Source: <Source>(L5R p44)</Source>
+- Source: <!--Source-->(L5R p44)<!--/Source-->
 
 Pour plus de mortalité et des combats expéditifs, vous pouvez décider qu'en cas de coup critique, les dégâts de l'arme sont doublés et que l'intégralité de ces derniers s'applique aux points de vitalité.
 
 Alternativement, vous pouvez décider que le nombre de PVit est égal au score de Constitution du personnage, sans aucun autre bonus. En effet, certains pourraient trouver le score de PVit trop élevé. Enfin, pour plus de difficulté, vous pouvez décider d'appliquer les conséquences d'une blessure directement au moment où le personnage la subit, et non après le combat.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Viser où ça fait mal !</Name>
+#### <!--Name-->Viser où ça fait mal !<!--/Name-->
 
-- Source: <Source>(L5R p46)</Source>
+- Source: <!--Source-->(L5R p46)<!--/Source-->
 
 Un joueur peut décider de viser là où ça fait mal et tenter de toucher directement les PVit de son adversaire sans attendre une réussite critique.
 
 Avant de porter une attaque, il doit déclarer qu'il effectue une attaque féroce. Il effectue alors un test d'attaque avec désavantage. En cas de réussite, il inflige l'intégralité des dégâts aux PVit de son adversaire, et la moitié des dégâts à ses propres PC (ceci représentant l'effort nécessaire pour passer la défense de son adversaire). En cas d'échec sur le test d'attaque, il jette tout de même les dégâts et s'inflige la moitié à ses propres PC. Le personnage peut éviter cette perte en prenant, à la place, un niveau de fatigue.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Option : un peu moins de mortalité </Name>
+#### <!--Name-->Option : un peu moins de mortalité <!--/Name-->
 
-- Source: <Source>(L5R p47)</Source>
+- Source: <!--Source-->(L5R p47)<!--/Source-->
 
 Si vous désirez être un peu moins punitif, vous pouvez décider d'adopter une des trois (ou les trois) options qui suivent.
 
@@ -318,18 +318,18 @@ Si vous désirez être un peu moins punitif, vous pouvez décider d'adopter une 
 Utiliser ces trois options réduit grandement la possibilité de voir un personnage tomber. Le bris d'armure devrait cependant être accompagné d'une gestion serrée des ressources rendant difficile l'acquisition d'une nouvelle armure afin d'en faire un choix difficile, même s'il restera préférable à une séquelle.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Les créatures sont vraiment dangereuses alors ?</Name>
+#### <!--Name-->Les créatures sont vraiment dangereuses alors ?<!--/Name-->
 
-- Source: <Source>(L5R p47)</Source>
+- Source: <!--Source-->(L5R p47)<!--/Source-->
 
 Oui, certaines créatures, notamment de très haut niveau, deviennent redoutables. Mais aussi paradoxalement fragiles. Cependant, à partir du niveau 9, les créatures puissantes restent des dangers réels et mortels. Mais les créatures dont l'Indice de Dangerosité est de 10 ou plus sont particulièrement rares dans les cinq royaumes. Pour les plus puissantes (comme les terribles mais rarissimes dragons), n'hésitez pas à en faire un vecteur d'histoire : la créature est d'une puissance immense, mais un objet magique, une arme sacrée ou un sombre rituel sont en capacité de l'affaiblir (l'amenant à un Indice de Dangerosité plus raisonnable). Ne prenez cependant pas l'Indice de Dangerosité pour argent comptant : le système de double jauge peut rendre le combat rapide et expéditif pour les PJ comme pour les créatures, surtout en cas de coups critiques.
 
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 

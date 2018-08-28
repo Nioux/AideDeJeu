@@ -1,14 +1,14 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Guerrier</Name>
+# <!--Name-->Guerrier<!--/Name-->
 
-- AltName: <AltName>Fighter (SRD p24)</AltName>
-- Source: <Source>(MDR p160)</Source>
+- AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
+- Source: <!--Source-->(MDR p160)<!--/Source-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Aptitudes de classe</Name>
+# <!--Name-->Aptitudes de classe<!--/Name-->
 
 En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -37,11 +37,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Tableau d'évolution</Name>
+# <!--Name-->Tableau d'évolution<!--/Name-->
 
 |Niveau|Bonus de maîtrise|Aptitudes|
 |---|---|---|
@@ -68,11 +68,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Style de combat</Name>
+# <!--Name-->Style de combat<!--/Name-->
 
 Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes.
 
@@ -96,83 +96,83 @@ Quand vous portez une armure, vous gagnez un bonus de +1 à votre CA.
 
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Duel</Name>
+# <!--Name-->Duel<!--/Name-->
 
 Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 aux dégâts infligés avec cette arme.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Protection</Name>
+# <!--Name-->Protection<!--/Name-->
 
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Second souffle</Name>
+# <!--Name-->Second souffle<!--/Name-->
 
 Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points de vie égal à 1d10 + votre niveau de guerrier.
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Sursaut d'activité</Name>
+# <!--Name-->Sursaut d'activité<!--/Name-->
 
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Archétype martial</Name>
+# <!--Name-->Archétype martial<!--/Name-->
 
 Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. Vous trouverez à la fin de la section consacrée à cette classe une description des archétypes martiaux disponibles : champion, bretteur, défenseur et sorcelame. En fonction de votre archétype, vous aurez accès à différentes aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Amélioration de caractéristiques</Name>
+# <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 6, 8, 12, 14, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Attaque supplémentaire</Name>
+# <!--Name-->Attaque supplémentaire<!--/Name-->
 
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 11, puis à quatre quand vous atteignez le niveau 20 de cette classe.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Indomptable</Name>
+# <!--Name-->Indomptable<!--/Name-->
 
 À partir du niveau 9, vous pouvez relancer un [jet de sauvegarde] raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
 
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Archétypes martiaux</Name>
+# <!--Name-->Archétypes martiaux<!--/Name-->
 
 Chaque guerrier a sa propre approche du combat et de la façon de se perfectionner. L'archétype martial que vous choisissez reflète votre propre vision du combat.
 
@@ -184,9 +184,9 @@ Chaque guerrier a sa propre approche du combat et de la façon de se perfectionn
 
 ## [Sorcelame]
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Champion]: fighter_champion_hd.md
 [Bretteur]: fighter_swordsman_hd.md

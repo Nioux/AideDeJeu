@@ -1,10 +1,10 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Langues</Name>
+# <!--Name-->Langues<!--/Name-->
 
-- AltName: <AltName>Languages (SRD p59)</AltName>
-- Source: <Source>(MDR p75)</Source>
+- AltName: <!--AltName-->Languages (SRD p59)<!--/AltName-->
+- Source: <!--Source-->(MDR p75)<!--/Source-->
 
 La race d'un personnage détermine la langue qu'il parle par défaut et son historique peut lui permettre de parler une ou deux langues supplémentaires au choix. Ces langues doivent être notées sur la fiche de personnage.
 
@@ -13,9 +13,9 @@ Choisissez vos langues dans le tableau ci-dessous, ou une langue couramment util
 Certaines de ces langues sont en réalité une famille de langues comportant plusieurs dialectes. Par exemple, les langues primordiales sont constituées de quatre dialectes (aérien, aquatique, ignée et terreux), un pour chaque plan élémentaire. Des créatures qui parlent des dialectes différents issus d'une même langue d'origine peuvent communiquer entre elles.
 
 
-<Generic>
+<!--Generic-->
 
-## <Name>Langues courantes</Name>
+## <!--Name-->Langues courantes<!--/Name-->
 
 |Langue|Parlée par...|Alphabet|
 |---|---|---|
@@ -29,11 +29,11 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |Orc|Orcs|Runique|
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Langues exotiques</Name>
+## <!--Name-->Langues exotiques<!--/Name-->
 
 |Langue|Parlée par...|Alphabet|
 |---|---|---|
@@ -48,9 +48,9 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |Sylvestre|Fées|Elfique|
 
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 
 

@@ -1,9 +1,9 @@
 
-<Generic>
+<!--Generic-->
 
-# <Name>Demi-ogre</Name>
+# <!--Name-->Demi-ogre<!--/Name-->
 
-- Source: <Source>(MDR p62)</Source>
+- Source: <!--Source-->(MDR p62)<!--/Source-->
 
 ## Traits des demi-ogres
 
@@ -31,7 +31,7 @@ Un demi-ogre a hérité de certains traits de son ascendance ogre.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun ainsi que le géant.
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

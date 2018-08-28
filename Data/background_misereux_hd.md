@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Miséreux</Name>
+# <!--Name-->Miséreux<!--/Name-->
 
 Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré par beaucoup comme la lie de la société. Vous avez longtemps survécu en mendiant, en errant dans les rues des cités ou sur les chemins du monde, et en récupérant ce dont d'autres voulaient bien se débarrasser. Vous avez pu alors constater la réelle étendue de leur « charité ». Votre vie a maintes fois été mise en danger à cause du dénuement dans lequel vous viviez : maladies, infections, malnutrition ont été vos ennemies, en plus du voleur ou du brigand occasionnel s'en prenant à vos maigres biens.
 
@@ -11,23 +11,23 @@ Vous êtes issu de la classe sociale la plus basse, de ce qui est considéré pa
 
 **Équipement :** Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Refuge</Name>
+#### <!--Name-->Aptitude : Refuge<!--/Name-->
 
 Vous avez une connaissance intime des zones urbaines, qui vous permet de dénicher un refuge sûr pour vous et vos compagnons. Ce n'est pas un endroit particulièrement confortable ou accueillant, mais vous pouvez gratuitement y trouver un peu de repos sans être inquiété par les intempéries ou les autorités.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 La vie de miséreux est une lutte permanente pour la survie, dans un environnement aussi hostile que le plus sombre donjon. Nombre d'entre eux sont affectés par des troubles physiques ou mentaux, mais les quelquesuns qui parviennent à s'en sortir le font grâce à un courage et une force de caractère exemplaires.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -40,11 +40,11 @@ La vie de miséreux est une lutte permanente pour la survie, dans un environneme
 |7|Je ne soigne pas mon apparence, et je m'amuse<br>des réactions à mon égard.|
 |8|Quand j'en ai, je cache quelques pièces dans les<br>doublures de mes vêtements.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -55,11 +55,11 @@ La vie de miséreux est une lutte permanente pour la survie, dans un environneme
 |5|Autonomie. C'est à chacun de s'élever au-<br>dessus de sa situation, et de faire le nécessaire<br>pour survivre. (Neutre)|
 |6|Liberté. La richesse est une prison, la pauvreté<br>une libération. (Chaotique)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -70,11 +70,11 @@ La vie de miséreux est une lutte permanente pour la survie, dans un environneme
 |5|Alors que j'étais au plus mal, un membre du<br>clergé m'a recueilli chez lui et m'a offert un<br>repas chaud. J'ai juré d'apprendre et suivre les<br>préceptes de son dieu.|
 |6|Avant de me retrouver dans la rue, j'avais une<br>famille. Ceux qui la composent m'ont abandonné<br>et n'ont pas levé le petit doigt pour m'aider.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -85,13 +85,13 @@ La vie de miséreux est une lutte permanente pour la survie, dans un environneme
 |5|Je déteste que l'on se repose sur moi : la vie,<br>c'est chacun pour soi.|
 |6|J'ai découvert des pâtisseries sucrées qui sont<br>pour moi un véritable trésor.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Mendiant</Name>
+### <!--Name-->Variante : Mendiant<!--/Name-->
 
 Vous avez vécu de la maigre charité des citadins et, pour accroître vos chances, vous avez appris à les amuser, les tromper ou parfois les voler, lorsque tout le reste ne suffisait pas.
 
@@ -101,11 +101,11 @@ Vous avez vécu de la maigre charité des citadins et, pour accroître vos chanc
 
 **Équipement :** Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Orphelin</Name>
+### <!--Name-->Variante : Orphelin<!--/Name-->
 
 Votre jeunesse s'est déroulée dans un orphelinat pauvre, ou parmi une bande de gamins des rues. À l'âge où d'autres aident leurs parents tout en apprenant les bases de leur futur métier, font leurs premières armes ou vont à l'école, vous traîniez dans les rues en tentant de rassembler quelques piécettes pour vous acheter une maigre pitance. Vous avez toujours su que le monde n'était pas beau, que les forts régnaient sur les faibles, et qu'il fallait savoir se salir les mains pour survivre.
 
@@ -115,19 +115,19 @@ Votre jeunesse s'est déroulée dans un orphelinat pauvre, ou parmi une bande de
 
 **Équipement :** Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Mouches des rues</Name>
+#### <!--Name-->Aptitude : Mouches des rues<!--/Name-->
 
 Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Vagabond</Name>
+### <!--Name-->Variante : Vagabond<!--/Name-->
 
 Vous avez choisi de quitter les villes et de vivre votre errance dans la nature, en quêtant votre pain quotidien de village en village, ou en vous abritant dans les ruines de fermes abandonnées.
 
@@ -139,6 +139,6 @@ Vous avez choisi de quitter les villes et de vivre votre errance dans la nature,
 
 **Équipement :** Couverture, habits courants, matériel d'herboriste, bourse contenant 5 po.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->

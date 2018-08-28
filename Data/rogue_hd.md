@@ -1,14 +1,14 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Roublard</Name>
+# <!--Name-->Roublard<!--/Name-->
 
-- AltName: <AltName>Rogue (SRD p39)</AltName>
-- Source: <Source>(MDR p202)</Source>
+- AltName: <!--AltName-->Rogue (SRD p39)<!--/AltName-->
+- Source: <!--Source-->(MDR p202)<!--/Source-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Aptitudes de classe</Name>
+# <!--Name-->Aptitudes de classe<!--/Name-->
 
 En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -37,11 +37,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Tableau d'évolution</Name>
+# <!--Name-->Tableau d'évolution<!--/Name-->
 
 |Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|
 |---|---|---|---|
@@ -67,21 +67,21 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 |20|+6|10d6|[Coup de chance]|
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Expertise</Name>
+## <!--Name-->Expertise<!--/Name-->
 
 Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Attaque sournoise</Name>
+## <!--Name-->Attaque sournoise<!--/Name-->
 
 Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire.
 
@@ -91,11 +91,11 @@ Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre enne
 
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous pouvez le voir dans la colonne attaque sournoise du tableau d'évolution du roublard.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Argot des voleurs</Name>
+## <!--Name-->Argot des voleurs<!--/Name-->
 
 Pendant votre entraînement de roublard, vous avez appris l'argot des voleurs, un mélange secret de dialecte, de jargon et de codes qui vous permet de dissimuler des messages dans des conversations en apparence anodines.
 
@@ -103,87 +103,87 @@ Seule une autre créature qui connaît l'argot des voleurs peut comprendre de te
 
 De plus, vous comprenez un ensemble de signes et de symboles qui permettent de transmettre des messages courts et simples, comme par exemple indiquer si une zone est dangereuse, si vous entrez sur le territoire d'une guilde des voleurs, si un trésor se trouve à proximité, si des personnes qui habitent dans le coin sont des proies faciles ou si elles accepteront de cacher des voleurs en fuite.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Ruse</Name>
+## <!--Name-->Ruse<!--/Name-->
 
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Archétype de roublard</Name>
+## <!--Name-->Archétype de roublard<!--/Name-->
 
 Au niveau 3, vous choisissez un archétype auquel vous vous efforcer d'adhérer : voleur, brute, espion ou ombrelame.
 
 Tous sont détaillés à la fin de la section consacrée à cette classe. Votre choix vous permet d'accéder à certaines aptitudes particulières aux niveaux 3, 9, 13 et 17.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Amélioration de caractéristiques</Name>
+## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4,8,10,12,16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Esquive instinctive</Name>
+## <!--Name-->Esquive instinctive<!--/Name-->
 
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Dérobade</Name>
+## <!--Name-->Dérobade<!--/Name-->
 
 À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet, comme celles du souffle enflammé d'un dragon rouge ou d'un sort de tempête de grêle. Si vous subissez un effet qui vous permet de faire un [jet de sauvegarde] de [Dextérité] pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Talent</Name>
+## <!--Name-->Talent<!--/Name-->
 
 Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de d20 est inférieur ou égal à 9, vous le transformez en 10.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Ouïe fine</Name>
+## <!--Name-->Ouïe fine<!--/Name-->
 
 À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Esprit impénétrable</Name>
+## <!--Name-->Esprit impénétrable<!--/Name-->
 
 Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les [jets de sauvegarde] de [Sagesse].
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Insaisissable</Name>
+## <!--Name-->Insaisissable<!--/Name-->
 
 Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent.
 
 Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peut bénéficier d'un avantage.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Coup de chance</Name>
+## <!--Name-->Coup de chance<!--/Name-->
 
 Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun.
 
@@ -191,11 +191,11 @@ Si vous attaquez une cible qui se trouve à votre portée et que vous échouez �
 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Archétypes de roublard</Name>
+# <!--Name-->Archétypes de roublard<!--/Name-->
 
 Tous les roublards partagent un certain nombre d'aptitudes et de comportements, notamment une tendance à perfectionner leurs compétences, des techniques de combat aussi précises que mortelles et une volonté d'affiner toujours plus leurs réflexes. Mais chaque roublard choisit de développer ses talents en se spécialisant de manière différente. Ces spécialisations sont représentées par les archétypes de roublard. Votre choix d'archétype vient traduire les qualités sur lesquelles vous voulez mettre l'accent.
 
@@ -209,9 +209,9 @@ Il ne s'agit pas nécessairement de votre profession, mais d'une description des
 
 ## [Ombrelame]
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Voleur]: rogue_thief_hd.md
 [Brute]: rogue_brute_hd.md

@@ -1,9 +1,9 @@
 
-<Generic>
+<!--Generic-->
 
 # Félys
 
-- Source: <Source>(MDR p64)</Source>
+- Source: <!--Source-->(MDR p64)<!--/Source-->
 
 ## Traits des félys
 
@@ -33,7 +33,7 @@ Vos ancêtres étaient des félins. Ceci vous permet de bénéficier des capacit
 
 **Langues.** Vous pouvez lire, écrire et parler le commun, ainsi qu'une autre langue de votre choix.
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

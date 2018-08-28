@@ -1,10 +1,10 @@
 
-<Items>
+<!--Items-->
 
-# <Name>États spéciaux</Name>
+# <!--Name-->États spéciaux<!--/Name-->
 
-- AltName: <AltName>[Conditions](conditions_vo.md#conditions)</AltName>
-- Source: <Source>(MDR p299)</Source>
+- AltName: <!--AltName-->[Conditions](conditions_vo.md#conditions)<!--/AltName-->
+- Source: <!--Source-->(MDR p299)<!--/Source-->
 
 Les états modifient les capacités d'une créature de diverses manières et résultent d'un sort, d'une aptitude de classe, d'une attaque de monstre ou d'un autre effet. La plupart des états ont un effet négatif, comme lorsque vous êtes [aveuglé](conditions_hd.md#aveuglé), mais quelques-uns confèrent un bénéfice, comme d'être [invisible](conditions_hd.md#invisible).
 
@@ -15,11 +15,11 @@ Si divers effets imposent un même état à une créature, chaque effet a sa pro
 Les définitions suivantes expliquent les conséquences de chaque état spécial pour une créature ciblée.
 
 
-<Generic>
+<!--Generic-->
 
-# <Name>À terre</Name>
+# <!--Name-->À terre<!--/Name-->
 
-- AltName: <AltName>[Prone](conditions_vo.md#prone)</AltName>
+- AltName: <!--AltName-->[Prone](conditions_vo.md#prone)<!--/AltName-->
 
 * Une créature à terre n'a plus l'option que de ramper pour se déplacer, à moins de se relever et de mettre ainsi un terme à son état.
 
@@ -28,50 +28,50 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un avantage lors de ses attaques contre la créature. Sinon, il subit un désavantage.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Assourdi</Name>
+# <!--Name-->Assourdi<!--/Name-->
 
-- AltName: <AltName>[Deafened](conditions_vo.md#deafened)</AltName>
+- AltName: <!--AltName-->[Deafened](conditions_vo.md#deafened)<!--/AltName-->
 
 * Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Aveuglé</Name>
+# <!--Name-->Aveuglé<!--/Name-->
 
-- AltName: <AltName>[Blinded](conditions_vo.md#blinded)</AltName>
+- AltName: <!--AltName-->[Blinded](conditions_vo.md#blinded)<!--/AltName-->
 
 * Une créature aveuglée ne voit plus rien et rate automatiquement tout test de caractéristique qui requiert la vue.
 
 * Les jets d'attaque contre la créature bénéficient d'un avantage. Les attaques de la créature subissent un désavantage.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Charmé</Name>
+# <!--Name-->Charmé<!--/Name-->
 
-- AltName: <AltName>[Charmed](conditions_vo.md#charmed)</AltName>
+- AltName: <!--AltName-->[Charmed](conditions_vo.md#charmed)<!--/AltName-->
 
 * Une créature charmée se trouve dans l'incapacité d'attaquer l'individu qui l'a charmée ou de le cibler avec une capacité ou un effet magique néfaste.
 
 * L'individu qui a charmé la créature bénéficie d'un avantage pour toutes les interactions sociales avec celle-ci.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Empoigné</Name>
+# <!--Name-->Empoigné<!--/Name-->
 
-- AltName: <AltName>[Grappled](conditions_vo.md#grappled)</AltName>
+- AltName: <!--AltName-->[Grappled](conditions_vo.md#grappled)<!--/AltName-->
 
 * La vitesse d'une créature empoignée devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 
@@ -80,24 +80,24 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'état se termine également si un effet emporte la créature empoignée au-delà de l'allonge de l'empoigneur ou de l'effet d'empoignade, comme cela arrive si une créature est projetée au loin par le sort [vague tonnante](spells_hd.md#vague-tonnante).
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Empoisonné</Name>
+# <!--Name-->Empoisonné<!--/Name-->
 
-- AltName: <AltName>[Poisoned](conditions_vo.md#poisoned)</AltName>
+- AltName: <!--AltName-->[Poisoned](conditions_vo.md#poisoned)<!--/AltName-->
 
 * Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses tests de caractéristique.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Entravé</Name>
+# <!--Name-->Entravé<!--/Name-->
 
-- AltName: <AltName>[Restrained](conditions_vo.md#restrained)</AltName>
+- AltName: <!--AltName-->[Restrained](conditions_vo.md#restrained)<!--/AltName-->
 
 * La vitesse de la créature entravée tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 
@@ -106,13 +106,13 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature souffre d'un désavantage lors de ses [jets de sauvegarde] de [Dextérité].
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Étourdi</Name>
+# <!--Name-->Étourdi<!--/Name-->
 
-- AltName: <AltName>[Stunned](conditions_vo.md#stunned)</AltName>
+- AltName: <!--AltName-->[Stunned](conditions_vo.md#stunned)<!--/AltName-->
 
 * Une créature étourdie est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et parle en balbutiant.
 
@@ -121,13 +121,13 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Les jets d'attaque qui visent la créature se font avec un avantage.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Inconscient</Name>
+# <!--Name-->Inconscient<!--/Name-->
 
-- AltName: <AltName>[Unconscious](conditions_vo.md#unconscious)</AltName>
+- AltName: <!--AltName-->[Unconscious](conditions_vo.md#unconscious)<!--/AltName-->
 
 * Une créature inconsciente est [neutralisée](conditions_hd.md#neutralisé) (voir l'état), incapable de se déplacer et de parler et n'a pas conscience de ce qui l'entoure.
 
@@ -142,37 +142,37 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Invisible</Name>
+# <!--Name-->Invisible<!--/Name-->
 
-- AltName: <AltName>[Invisible](conditions_vo.md#invisible)</AltName>
+- AltName: <!--AltName-->[Invisible](conditions_vo.md#invisible)<!--/AltName-->
 
 * Il est impossible de voir une créature invisible à moins de recourir à la magie ou à un sens spécial. Quand il s'agit de se cacher, la créature est considérée comme en situation de visibilité nulle. Il est possible de détecter l'endroit où se trouve la créature si elle émet des sons ou laisse des traces.
 
 * Les attaques visant une créature invisible souffrent d'un désavantage tandis que les attaques de la créature bénéficient d'un avantage.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Neutralisé</Name>
+# <!--Name-->Neutralisé<!--/Name-->
 
-- AltName: <AltName>[Incapacitated](conditions_vo.md#incapacitated)</AltName>
+- AltName: <!--AltName-->[Incapacitated](conditions_vo.md#incapacitated)<!--/AltName-->
 
 * Une créature neutralisée est incapable d'effectuer une action ou une réaction.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Paralysé</Name>
+# <!--Name-->Paralysé<!--/Name-->
 
-- AltName: <AltName>[Paralyzed](conditions_vo.md#paralyzed)</AltName>
+- AltName: <!--AltName-->[Paralyzed](conditions_vo.md#paralyzed)<!--/AltName-->
 
 * Une créature paralysée est [neutralisée](conditions_hd.md#neutralisé) (voir l'état) et ne peut ni parler ni se déplacer.
 
@@ -183,13 +183,13 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Pétrifié</Name>
+# <!--Name-->Pétrifié<!--/Name-->
 
-- AltName: <AltName>[Petrified](conditions_vo.md#petrified)</AltName>
+- AltName: <!--AltName-->[Petrified](conditions_vo.md#petrified)<!--/AltName-->
 
 * Une créature pétrifiée est transformée en substance solide inanimée (généralement en pierre), de même que tous les objets non-magiques qu'elle transporte. Le poids de la créature est multiplié par dix et elle ne vieillit plus.
 
@@ -204,26 +204,26 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature est immunisée contre le poison et les maladies, mais les poisons et maladies qui l'affectent déjà ne sont pas neutralisés, leurs effets sont juste suspendus.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Terrorisé</Name>
+# <!--Name-->Terrorisé<!--/Name-->
 
-- AltName: <AltName>[Frightened](conditions_vo.md#frightened)</AltName>
+- AltName: <!--AltName-->[Frightened](conditions_vo.md#frightened)<!--/AltName-->
 
 * Une créature terrorisée subit un désavantage lors de ses tests de caractéristique et de ses jets d'attaque tant que la source de sa frayeur se trouve dans son champ de vision.
 
 * La créature est incapable de se rapprocher de la source de sa frayeur de son plein gré.
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Fatigue et épuisement</Name>
+# <!--Name-->Fatigue et épuisement<!--/Name-->
 
-- AltName: <AltName>[Exhaustion](conditions_vo.md#exhaustion)</AltName>
+- AltName: <!--AltName-->[Exhaustion](conditions_vo.md#exhaustion)<!--/AltName-->
 
 Certaines aptitudes et certains dangers environnementaux, comme la faim et les effets à long terme des températures glaciales et étouffantes, provoquent un état particulier appelé l'épuisement. Celui-ci se divise en six niveaux. Un effet peut donner un ou plusieurs niveaux d'épuisement, comme indiqué dans la description de chaque effet.
 
@@ -244,9 +244,9 @@ Un effet qui réduit l'épuisement diminue son niveau du montant indiqué dans s
 
 Une fois terminé, un repos long réduit le niveau d'épuisement d'une créature de 1, à condition qu'elle ait eu à boire et à manger.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

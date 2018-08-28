@@ -1,10 +1,10 @@
 
-<Generic>
+<!--Generic-->
 
-# <Name>Demi-elfe</Name>
+# <!--Name-->Demi-elfe<!--/Name-->
 
-- AltName: <AltName>Half-Elf (SRD p6)</AltName>
-- Source: <Source>(MDR p39)</Source>
+- AltName: <!--AltName-->Half-Elf (SRD p6)<!--/AltName-->
+- Source: <!--Source-->(MDR p39)<!--/Source-->
 
 ## Traits des demi-elfes
 
@@ -28,7 +28,7 @@ Un demi-elfe a quelques qualités communes avec les [elfes], mais d'autres qui s
 
 **Langues.** Vous pouvez parler, lire et écrire en [commun], en [elfe] et dans une autre langue de votre choix.
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

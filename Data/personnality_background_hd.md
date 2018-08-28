@@ -1,33 +1,33 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Personnalité et Historique</Name>
+# <!--Name-->Personnalité et Historique<!--/Name-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Alignement](alignment_hd.md)</NameLink>
+## <!--NameLink-->[Alignement](alignment_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Langues](languages_hd.md)</NameLink>
+## <!--NameLink-->[Langues](languages_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Inspiration](inspiration_hd.md)</NameLink>
+## <!--NameLink-->[Inspiration](inspiration_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Historique](backgrounds_hd.md)</NameLink>
+## <!--NameLink-->[Historique](backgrounds_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-</Items>
+<!--/Items-->
 
 
 

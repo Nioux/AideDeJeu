@@ -1,8 +1,8 @@
-<Items>
+<!--Items-->
 
-# <Name>Serment de rédemption</Name>
+# <!--Name-->Serment de rédemption<!--/Name-->
 
-- Source: <Source>(MDR p191)</Source>
+- Source: <!--Source-->(MDR p191)<!--/Source-->
 
 Les paladins qui suivent cette voie le font très rarement par choix, et ce serment n'est pas accessible à la création.
 
@@ -12,9 +12,9 @@ Cette voie est celle de la rédemption. Une voie difficile et amère, qui permet
 
 Un paladin de la rédemption ne prête pas serment comme les autres au niveau 3. Il rejoint cette voie s'il faillit à l'un ou l'autre de ses engagements. C'est ultimement au MJ de décider si les actions d'un paladin sont en violation avec son serment actuel. Toutefois, il devrait au moins prévenir le joueur de cette éventualité avant d'assigner son personnage à la voie de la Rédemption, et lui laisser une chance de rectifier les choses.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Préceptes de rédemption</Name>
+## <!--Name-->Préceptes de rédemption<!--/Name-->
 
 S'il veut parvenir à la rédemption, le paladin qui a prêté ce serment doit faire sien tous les préceptes fondamentaux suivants.
 
@@ -28,19 +28,19 @@ Humilité. N'ayez pas d'autre ambition pour vousmême que la simplicité.
 
 Honnêteté. Soyez honnête avec tous, y compris avec vous-même.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Sorts de serment</Name>
+## <!--Name-->Sorts de serment<!--/Name-->
 
 Contrairement aux autres paladins, ceux qui entrent sur la voie de la rédemption ne bénéficient pas de sort de serment. Le lien avec l'entité ou la force qui leur donnait leur pouvoir est en partie brisé, et ils doivent avant tout compter sur eux-mêmes pour faire face aux embûches.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Canalisation d'énergie divine</Name>
+## <!--Name-->Canalisation d'énergie divine<!--/Name-->
 
 Le serment de rédemption n'est accessible qu'à des paladins de niveau 3 ou plus. Un paladin de niveau 1 ou 2 qui faillit à son devoir et qui persiste dans l'erreur deviendra généralement un guerrier. À partir du niveau 3, un paladin qui fait serment de rédemption remplace ses options de canalisation d'énergie divine par les options suivantes.
 
@@ -50,11 +50,11 @@ Défenseur. En utilisant votre canalisation d'énergie divine, vous pouvez dési
 
 Vous pouvez interrompre cet effet à tout moment. L'effet s'interrompt automatiquement si vous êtes inconscient ou neutralisé.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Expiation</Name>
+## <!--Name-->Expiation<!--/Name-->
 
 Au niveau 7, si vous êtes sur la voie de la rédemption depuis au moins un niveau et que votre MJ juge que vous avez racheté vos fautes, vous avez le choix de poursuivre avec le serment de rédemption ou de revenir à votre serment d'origine.
 
@@ -66,21 +66,21 @@ Elle effectue un nouveau [jet de sauvegarde] chaque tour pendant 1 minute, jusqu
 
 Au niveau 18, la portée passe à 15 mètres.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Purgatoire</Name>
+## <!--Name-->Purgatoire<!--/Name-->
 
 Au niveau 15, si vous êtes sur la voie de la rédemption depuis au moins un niveau et que votre MJ juge que vous avez racheté vos fautes, vous avez le choix de poursuivre avec le serment de rédemption, ou de revenir à votre serment d'origine. Dans ce dernier cas, vous pouvez choisir l'une des options de canalisation d'énergie divine du serment de rédemption, et remplacer définitivement l'une des options de votre serment par celle-ci.
 
 Si vous poursuivez avec le serment de rédemption, vous êtes désormais capable de créer autour de vous une zone de purgatoire de 9 mètres de rayon pendant 1 minute, particulièrement douloureuse pour certains types de créatures. Aberrations, morts-vivants et fiélons considèrent cette zone comme un terrain difficile. De plus, ils subissent 2d6 dégâts radiants la première fois qu'ils pénètrent dans cette zone, et à chaque fois qu'ils y débutent leur tour. Enfin, ils subissent un désavantage sur leurs attaques tant qu'ils restent dans la zone. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Esprit de la rédemption</Name>
+## <!--Name-->Esprit de la rédemption<!--/Name-->
 
 Au niveau 20, si vous êtes sur la voie de la rédemption depuis au moins un niveau et que votre MJ juge que vous avez racheté vos fautes, vous avez le choix de poursuivre avec le serment de la rédemption, ou de revenir à votre serment d'origine. Dans ce dernier cas, vous pouvez choisir l'une des options de canalisation d'énergie divine du serment de rédemption, et remplacer définitivement l'une des options de votre serment par celle-ci. Si vous conservez le serment de rédemption, vous devenez alors définitivement un paladin rédempteur, traquant partout celles et ceux qui ont failli afin de les ramener sur le droit chemin et de les faire expier leurs fautes.
 
@@ -93,9 +93,9 @@ Au prix d'une action et d'un niveau d'épuisement, vous pouvez désormais prendr
 
 À la fin de la transformation, si le niveau d'épuisement de votre personnage est de 6, celui-ci meurt. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

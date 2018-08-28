@@ -1,10 +1,10 @@
 
-<Items>
+<!--Items-->
 
-- AltName: <AltName>Beyond 1st Level (SRD p56)</AltName>
-- Source: <Source>(MDR p32)</Source>
+- AltName: <!--AltName-->Beyond 1st Level (SRD p56)<!--/AltName-->
+- Source: <!--Source-->(MDR p32)<!--/Source-->
 
-# <Name>Au-delà du niveau 1</Name>
+# <!--Name-->Au-delà du niveau 1<!--/Name-->
 
 Quand votre personnage part à l’aventure et surmonte des défis, il ou elle gagne de l’expérience, représentée par des points d’expérience. Un personnage qui atteint un nombre déterminé de points d’expérience obtient de nouvelles capacités. Cette progression est appelée gagner un niveau.
 
@@ -16,9 +16,9 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de points 
 
 Le tableau d’évolution des personnages ci-contre ou ci-après vous indique le nombre de points d’expérience nécessaire pour évoluer du niveau 1 au niveau 20 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu’il gagne à chaque niveau.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Évolution des personnages</Name>
+## <!--Name-->Évolution des personnages<!--/Name-->
 
 |Points d’expérience|Niveau|Bonus de maîtrise|
 |---|---|---|
@@ -43,6 +43,6 @@ Le tableau d’évolution des personnages ci-contre ou ci-après vous indique le
 |305 000|19|+6|
 |355 000|20|+6|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->

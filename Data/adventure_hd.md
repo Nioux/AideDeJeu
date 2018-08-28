@@ -1,27 +1,27 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Partir à l'aventure</Name>
+# <!--Name-->Partir à l'aventure<!--/Name-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Ecoulement du temps](time_hd.md)</NameLink>
+## <!--NameLink-->[Ecoulement du temps](time_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Déplacement](movement_hd.md)</NameLink>
+## <!--NameLink-->[Déplacement](movement_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[L'environnement](environment_hd.md)</NameLink>
+## <!--NameLink-->[L'environnement](environment_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-</Items>
+<!--/Items-->
 
 
 

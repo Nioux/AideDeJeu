@@ -1,56 +1,56 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Champion</Name>
+# <!--Name-->Champion<!--/Name-->
 
-- AltName: <AltName>Champion (SRD p25)</AltName>
-- Source: <Source>(MDR p162)</Source>
+- AltName: <!--AltName-->Champion (SRD p25)<!--/AltName-->
+- Source: <!--Source-->(MDR p162)<!--/Source-->
 
 Le champion se concentre sur le développement de la force physique brute perfectionnée pour en faire une arme mortelle. Ceux qui adoptent cet archétype associent entraînement rigoureux avec excellence physique afin de porter des coups dévastateurs.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Critique amélioré</Name>
+## <!--Name-->Critique amélioré<!--/Name-->
 
 Dès que vous choisissez cet archétype au niveau 3, lorsque vous attaquez avec une arme, vous faites un coup critique sur un résultat de 19 ou 20.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Athlète remarquable</Name>
+## <!--Name-->Athlète remarquable<!--/Name-->
 
 À partir du niveau 7, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi à l'entier supérieur) à tout test de [Force], [Dextérité] ou [Constitution] qui n'utilise pas déjà ce bonus.
 
 De plus, quand vous faites un saut en longueur avec élan, la distance à laquelle vous pouvez sauter est augmentée de 0,30 m × votre modificateur de [Force].
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Style de combat supplémentaire</Name>
+## <!--Name-->Style de combat supplémentaire<!--/Name-->
 
 Au niveau 10, vous pouvez choisir un deuxième style de combat.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Critique supérieur</Name>
+## <!--Name-->Critique supérieur<!--/Name-->
 
 À partir du niveau 15, dès lors que vous attaquez avec une arme, vous faites un coup critique sur un résultat de 18 à 20.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Survivant</Name>
+## <!--Name-->Survivant<!--/Name-->
 
 Au niveau 18, vous avez atteint le summum de votre endurance en combat. Si, au début de votre tour, il ne vous reste pas plus de la moitié de vos points de vie, vous regagnez immédiatement un nombre de points de vie égal à 5 + votre modificateur de [Constitution]. Vous ne pouvez pas bénéficier de cette aptitude si vous êtes réduit à 0 point de vie.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

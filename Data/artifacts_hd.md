@@ -1,16 +1,16 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Artefacts</Name>
+# <!--Name-->Artefacts<!--/Name-->
 
-- AltName: <AltName>Artifacts (SRD p252)</AltName>
-- Source: <Source>(CDC p191)</Source>
+- AltName: <!--AltName-->Artifacts (SRD p252)<!--/AltName-->
+- Source: <!--Source-->(CDC p191)<!--/Source-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>ANNEAU DE LUNE</Name>
+## <!--Name-->ANNEAU DE LUNE<!--/Name-->
 
-- Source: <Source>(CDC p191)</Source>
+- Source: <!--Source-->(CDC p191)<!--/Source-->
 
 #### Objet merveilleux, artefact (harmonisation requise)
 
@@ -35,13 +35,13 @@ Cet anneau en pierre grisâtre, d’apparence très banale, fut forgé à partir
 
 **_Détruire l’anneau._** La destruction de l’anneau de lune est une tâche plus qu’épique : il faut d’abord annihiler toute trace de lycanthropie sur le monde. Une fois que le porteur de l’anneau est le dernier loup-garou vivant, le tuer réduit l’anneau en poussière.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>BOUCLIER DE HROLJNIR</Name>
+## <!--Name-->BOUCLIER DE HROLJNIR<!--/Name-->
 
-- Source: <Source>(CDC p191)</Source>
+- Source: <!--Source-->(CDC p191)<!--/Source-->
 
 #### Objet merveilleux, artefact (harmonisation requise)
 
@@ -61,13 +61,13 @@ Hroljnir fixait sa targe à son avant-bras. Elle peut servir de pavois pour une 
 
 **_Détruire le bouclier._** Le bouclier n’est détruit que s’il subit simultanément le souffle de cinq dragons vénérables : un rouge, un bleu, un noir, un vert et un blanc.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>LYRE DE LA REINE SYLVESTRE</Name>
+## <!--Name-->LYRE DE LA REINE SYLVESTRE<!--/Name-->
 
-- Source: <Source>(CDC p192)</Source>
+- Source: <!--Source-->(CDC p192)<!--/Source-->
 
 #### Objet merveilleux, artefact (harmonisation requise)
 
@@ -85,14 +85,14 @@ Faite d’acajou serti d’or, cette lyre à onze cordes était l’instrument d
 
 **_Détruire la lyre._** Seule la joie véritable de la reine sylvestre pourrait détruire la lyre. Une véritable quête épique attend celui qui voudrait retrouver le nom de cette reine, la ramener à la vie et lui ramener son époux décédé à l’aube des temps. La lyre perdrait tout pouvoir si la reine, enfin heureuse, y jouait quelques notes.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>ORBE DES DRAGONS</Name>
+## <!--Name-->ORBE DES DRAGONS<!--/Name-->
 
-- AltName: <AltName>Orb of Dragonkind (SRD p252)</AltName>
-- Source: <Source>(CDC p192)</Source>
+- AltName: <!--AltName-->Orb of Dragonkind (SRD p252)<!--/AltName-->
+- Source: <!--Source-->(CDC p192)<!--/Source-->
 
 #### Objet merveilleux, artefact (harmonisation requise)
 
@@ -122,13 +122,13 @@ Vous pouvez également utiliser une action pour lancer le sort détection de la 
 
 **_Destruction d’un orbe._** Un orbe des dragons paraît fragile, mais rien ne peut en venir à bout, pas même les attaques et les souffles des dragons. Un sort de désintégration ou une frappe réussie avec une arme magique +3 suffit néanmoins pour détruire un orbe.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>PERLE DES PROFONDEURS</Name>
+## <!--Name-->PERLE DES PROFONDEURS<!--/Name-->
 
-- Source: <Source>(CDC p193)</Source>
+- Source: <!--Source-->(CDC p193)<!--/Source-->
 
 #### Objet merveilleux, artefact (harmonisation requise)
 
@@ -147,8 +147,8 @@ Même les dieux font des erreurs. Il y a des millénaires de cela, l’un d’en
 
 **_Détruire la perle._** Le sang d’un Solar a créé la perle, seul le sang de son ennemi peut la détruire. La perle doit être immergée pendant une heure dans un litre de sang de kraken par au moins 100 mètres de profondeur pour être détruite.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 

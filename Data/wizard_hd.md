@@ -1,14 +1,14 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Magicien</Name>
+# <!--Name-->Magicien<!--/Name-->
 
-- AltName: <AltName>Wizard (SRD p52)</AltName>
-- Source: <Source>(MDR p166)</Source>
+- AltName: <!--AltName-->Wizard (SRD p52)<!--/AltName-->
+- Source: <!--Source-->(MDR p166)<!--/Source-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Aptitudes de classe</Name>
+## <!--Name-->Aptitudes de classe<!--/Name-->
 
 En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -37,11 +37,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Tableau d'évolution</Name>
+# <!--Name-->Tableau d'évolution<!--/Name-->
 
 |Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -68,11 +68,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Incantations</Name>
+## <!--Name-->Incantations<!--/Name-->
 
 En tant qu'étudiant de la magie des arcanes, vous possédez un grimoire contenant des sorts qui ne sont qu'un premier pas vers la véritable puissance.
 
@@ -118,39 +118,39 @@ Chaque fois que vous gagnez un niveau dans la classe de magicien, vous pouvez aj
 
 Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer grâce à vos emplacements de sorts, ainsi que vous pouvez le voir dans le tableau d'évolution du magicien. Lors de vos aventures, vous pouvez trouver de nouveaux sorts à copier dans votre grimoire (voir encadré page suivante).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Restauration magique</Name>
+## <!--Name-->Restauration magique<!--/Name-->
 
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant votre grimoire. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer des emplacements de sorts utilisés. Le niveau total de ces emplacements de sorts doit être inférieur ou égal à la moitié de votre niveau de magicien (arrondi à l'entier supérieur) et vous ne pouvez pas récupérer d'emplacement de niveau 6 ou supérieur.
 
 Par exemple, si vous êtes un magicien de niveau 4, vous pouvez récupérer l'équivalent de deux niveaux d'emplacements de sorts, soit un emplacement de sort de niveau 2 ou deux emplacements de sorts de niveau 1.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Tradition arcanique</Name>
+## <!--Name-->Tradition arcanique<!--/Name-->
 
 Quand vous atteignez le niveau 2, vous choisissez une tradition arcanique qui définit votre manière de pratiquer la magie. Les traditions disponibles sont celles de l'académicien, de l'arpenteur, de l'élémentaliste et de l'éminence grise.
 
 Votre tradition vous permet d'accéder à certaines aptitudes particulières quand vous la choisissez au niveau 2, puis aux niveaux 6, 10 et 14.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Amélioration de caractéristiques</Name>
+## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Maîtrise des sorts</Name>
+## <!--Name-->Maîtrise des sorts<!--/Name-->
 
 Au niveau 18, vous avez acquis une telle maîtrise de certains sorts que vous pouvez les lancer à volonté.
 
@@ -158,21 +158,21 @@ Choisissez un sort de magicien de niveau 1 et un sort de magicien de niveau 2 da
 
 Vous pouvez échanger l'un de ces sorts ou les deux pour des sorts de même niveau en passant 8 heures à étudier.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Sorts de prédilection</Name>
+## <!--Name-->Sorts de prédilection<!--/Name-->
 
 Quand vous atteignez le niveau 20, vous maîtrisez deux puissants sorts que vous pouvez lancer très facilement. Choisissez deux sorts de niveau 3 dans votre grimoire, qui deviendront vos sorts de prédilection. Ces sorts sont toujours considérés comme préparés mais ne sont pas comptabilisés dans votre nombre de sorts préparés. Vous pouvez lancer chacun d'eux une fois au niveau 3 sans utiliser d'emplacement de sort. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un repos court ou un repos long.
 
 Si vous voulez lancer un de ces sorts à un niveau supérieur, vous êtes soumis à la règle normale et devez utiliser un emplacement de sort.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Traditions arcaniques</Name>
+## <!--Name-->Traditions arcaniques<!--/Name-->
 
 L'étude des arcanes est une pratique très ancienne, qui remonte à l'époque où les mortels ont été pour la première fois confrontés à la magie. C'est un fait clairement établi dans les univers fantastiques, et de nombreux groupes se sont consacrés à l'étude de cette discipline complexe.
 
@@ -190,11 +190,11 @@ Et même les magiciens qui forment des apprentis dans la solitude de leurs tours
 
 ## [École d'évocation]
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Votre grimoire</Name>
+# <!--Name-->Votre grimoire<!--/Name-->
 
 Les sorts que vous ajoutez à votre grimoire au fur et à mesure de votre progression sont le reflet des recherches arcaniques que vous menez ainsi que de vos découvertes sur la nature du multivers. Néanmoins, vous pouvez découvrir d'autres sorts au cours de vos aventures. Vous pouvez par exemple découvrir un sort noté sur un parchemin dans le coffre d'un magicien maléfique, ou un grimoire poussiéreux dans une antique bibliothèque.
 
@@ -212,9 +212,9 @@ Si vous perdez votre grimoire, vous pouvez utiliser le même processus pour tran
 
 L'apparence de votre grimoire. Votre grimoire est une compilation unique de sorts avec ses propres enluminures et notes dans la marge. Il peut se présenter sous la forme d'un livre simple et fonctionnel avec une reliure de cuir donné par votre maître, ou comme un tome à la tranche dorée que vous avez trouvé dans une antique bibliothèque, ou encore simplement un ensemble épars de notes réunies à la va-vite après la perte de votre précédent grimoire suite à une mésaventure.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Académicien]: wizard_acadelician_hd.md
 [Arpenteur]: wizard_surveyor_hd.md

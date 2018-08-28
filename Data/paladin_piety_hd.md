@@ -1,8 +1,8 @@
-<Items>
+<!--Items-->
 
-# <Name>Serment de piété</Name>
+# <!--Name-->Serment de piété<!--/Name-->
 
-- Source: <Source>(MDR p190)</Source>
+- Source: <!--Source-->(MDR p190)<!--/Source-->
 
 Le serment de piété est celui des paladins qui adoptent les préceptes et les enseignements d'un culte divin. Ils consacrent dès lors leur vie à poursuivre l'idéal présenté par leur divinité et à lutter, les armes à la main, contre ses ennemis.
 
@@ -10,9 +10,9 @@ Qu'ils soient en première ligne des éventuelles guerres saintes dans lesquelle
 
 Ces cas sont toutefois exceptionnels et amènent bien souvent le paladin sur une voie hasardeuse où ses idéaux personnels sont mis à mal par la dure réalité des conflits divins.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Préceptes de piété</Name>
+## <!--Name-->Préceptes de piété<!--/Name-->
 
 Bien que les termes exacts et les limites imposées par le serment de piété varient, les paladins qui ont prêté ce serment en partagent tous les préceptes fondamentaux.
 
@@ -24,11 +24,11 @@ Humilité. Ne cherchez pas le renom pour vousmême, et vantez la gloire de votre
 
 Courage. Soyez prêt à tous les sacrifices pour votre foi. Détermination. Ne laissez pas de place au doute dans votre coeur.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Sorts de serment</Name>
+## <!--Name-->Sorts de serment<!--/Name-->
 
 Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 
@@ -40,11 +40,11 @@ Vous gagnez des sorts de serment aux niveaux de paladin indiqués.
 |13|divination, gardien de la foi|
 |17|communion, rappel à la vie|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Canalisation d'énergie divine</Name>
+## <!--Name-->Canalisation d'énergie divine<!--/Name-->
 
 Quand vous prêtez votre serment au niveau 3, vous accédez aux deux options suivantes de canalisation d'énergie divine.
 
@@ -56,27 +56,27 @@ Guerrier saint. Par une action, vous tenez votre symbole sacré contre votre coe
 
 L'effet prend fin si vous êtes inconscient ou terrorisé.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Aura de piété</Name>
+## <!--Name-->Aura de piété<!--/Name-->
 
 À partir du niveau 7, la puissance de votre divinité forme une protection sainte autour de vous. Vous et vos alliés dans un rayon de 3 mètres gagnez la résistance aux dégâts causés par les sorts (après éventuelle réduction des dégâts grâce à une sauvegarde réussie), y compris pour les effets de zone tels ceux d'une boule de feu. Au niveau 18, le rayon passe à 9 mètres.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Pureté de la lame</Name>
+## <!--Name-->Pureté de la lame<!--/Name-->
 
 À partir du niveau 15, vous êtes en permanence sous l'effet d'un sort de faveur divine.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Avatar divin</Name>
+## <!--Name-->Avatar divin<!--/Name-->
 
 Au niveau 20, vous pouvez prendre la forme d'un avatar de votre divinité. Il s'agit généralement d'un géant portant les symboles de votre divinité tutélaire et de son domaine : des éclairs dans le cas d'une divinité du ciel et de la foudre, une épée ou un marteau géant pour un dieu de la guerre, une tête animale pour un dieu de la nature, etc.
 
@@ -90,9 +90,9 @@ Pendant ce temps, vous obtenez les bénéfices suivants :
 
 Vous devez terminer un repos long avant de pouvoir utiliser cette aptitude à nouveau.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 

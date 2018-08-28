@@ -1,10 +1,10 @@
 
-<Generic>
+<!--Generic-->
 
-# <Name>Demi-orc</Name>
+# <!--Name-->Demi-orc<!--/Name-->
 
-- AltName: <AltName>Half-Orc (SRD p7)</AltName>
-- Source: <Source>(MDR p41)</Source>
+- AltName: <!--AltName-->Half-Orc (SRD p7)<!--/AltName-->
+- Source: <!--Source-->(MDR p41)<!--/Source-->
 
 ## Traits des demi-orcs
 
@@ -30,7 +30,7 @@ Un demi-orc a hérité de certains traits de son ascendance orc.
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en orc. La langue orc a une sonorité dure et certains sons évoquent des grincements. Les orcs n'ont pas d'alphabet propre et utilisent donc le même alphabet que les nains : le Runique.
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

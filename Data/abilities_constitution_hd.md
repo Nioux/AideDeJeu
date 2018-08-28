@@ -1,15 +1,15 @@
-<Items>
+<!--Items-->
 
-# <Name>Constitution</Name>
+# <!--Name-->Constitution<!--/Name-->
 
-- AltName: <AltName>Constitution (SRD p81)</AltName>
-- Source: <Source>(MDR p264)</Source>
+- AltName: <!--AltName-->Constitution (SRD p81)<!--/AltName-->
+- Source: <!--Source-->(MDR p264)<!--/Source-->
 
 La Constitution représente la santé, l'endurance et la force vitale.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Tests de Constitution</Name>
+## <!--Name-->Tests de Constitution<!--/Name-->
 
 Les tests de Constitution ne sont pas fréquents, et il n'y a pas de compétence associée à cette caractéristique car l'endurance qu'elle représente est essentiellement une qualité passive qui ne demande pas d'effort particulier de la part d'un personnage ou d'un monstre. Un test de Constitution peut néanmoins représenter une tentative de repousser vos limites.
 
@@ -21,19 +21,19 @@ Le MJ peut vous demander de faire un test de Constitution quand vous tentez d'ac
 * Survivre sans eau ni nourriture.
 * Vider une chope de bière d'un trait.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Points de vie</Name>
+## <!--Name-->Points de vie<!--/Name-->
 
 Vos points de vie dépendent en partie de votre modificateur de [Constitution]. Pour déterminer votre nombre de points de vie, vous devez généralement ajouter votre modificateur de [Constitution] à chaque dé de vie que vous lancez.
 
 Si votre modificateur de [Constitution] change, votre maximum de points de vie est lui aussi modifié, et vous devez le recalculer comme si vous aviez ce nouveau modificateur depuis le premier niveau. Par exemple, si vous augmentez votre valeur de [Constitution] au niveau 4 et que votre modificateur de [Constitution] passe de +1 à +2, vous devez ajuster votre nombre de points de vie comme si ce modificateur avait toujours été de +2. Vous devez donc lui ajouter trois points de vie correspondant à vos trois premiers niveaux, puis calculer vos points de vie pour le niveau 4 en utilisant le nouveau modificateur. Ou, si vous êtes au niveau 7 et qu'un effet réduit votre modificateur de [Constitution] de 1, vous devez réduire votre maximum de points de vie de sept.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,9 +1,9 @@
 
-<Generic>
+<!--Generic-->
 
-# <Name>Homme serpent</Name>
+# <!--Name-->Homme serpent<!--/Name-->
 
-- Source: <Source>(MDR p66)</Source>
+- Source: <!--Source-->(MDR p66)<!--/Source-->
 
 ## Traits des hommes serpents
 
@@ -25,7 +25,7 @@ Créature étrange et à sang froid, vous possédez les capacités suivantes.
 
 **Hypnose.** Comme tous les vôtres, vous avez appris à infuser votre regard d'une étrange lueur. Vous pouvez utiliser une action bonus afin de tenter d'hypnotiser une créature se trouvant à 1,50 mètre ou moins de vous, et pouvant vous regarder dans les yeux. Vous lancez ainsi le sort charme-personne comme un sort de niveau 1. Vous devez terminer un repos long avant de pouvoir utiliser de nouveau cette capacité. Votre caractéristique d'incantation pour lancer ce sort est le [Charisme].
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

@@ -1,27 +1,27 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Créatures</Name>
+# <!--Name-->Créatures<!--/Name-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Monstres](monsters_hd.md)</NameLink>
+## <!--NameLink-->[Monstres](monsters_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Animaux](animals_hd.md)</NameLink>
+## <!--NameLink-->[Animaux](animals_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[PNJ](npc_hd.md)</NameLink>
+## <!--NameLink-->[PNJ](npc_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-</Items>
+<!--/Items-->
 
 
 

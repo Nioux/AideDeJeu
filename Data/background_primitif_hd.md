@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Primitif</Name>
+# <!--Name-->Primitif<!--/Name-->
 
 Toutes les terres n'ont pas été civilisées. Vous êtes de ceux que les citadins appellent des sauvages, des barbares ou, tout simplement, des primitifs. Vous avez toujours vécu au sein de structures claniques, en contact avec la nature, nourri par des croyances animistes que d'aucuns considéreraient comme dépassées. Les gens issus des terres civilisées vous regardent souvent avec condescendance, parfois avec peur. On vous croit sauvages et sanguinaires, ou simplement attardés. Mais vous savez ce qu'il en est.
 
@@ -15,23 +15,23 @@ Vous vivez au plus près de la nature, dans une certaine harmonie avec les ancie
 
 **Équipement :** Sac contenant tente et couverture, bâton de marche, tenue de voyageur, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Fils de la nature</Name>
+#### <!--Name-->Aptitude : Fils de la nature<!--/Name-->
 
 Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'être jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes toujours senti à l'aise. Vous avez grandi au coeur d'un clan soudé, ou peut-être avez-vous été abandonné par vos parents et élevé par des loups… Pour vous, la civilisation n'est qu'une notion lointaine et incompréhensible. Ou alors peut-être aspirez-vous à la rejoindre, sans vraiment la comprendre.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -44,11 +44,11 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 |7|Je ferais tout pour mon clan, quitte à en mourir.|
 |8|Je n'accorde aucune valeur aux pierres<br>précieuses et aux métaux. C'est une obsession<br>de citadin.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -59,11 +59,11 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 |5|**Tradition.** Nos coutumes nous ont été<br>transmises par nos ancêtres et nous devons les<br>respecter. (Loyal)|
 |6|**Entraide.** C'est ensemble que nous avançons<br>en dépit de la puissance de la nature. Je dois<br>mon aide à ceux qui ne peuvent subvenir à<br>leurs besoins. (Bon)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -74,11 +74,11 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 |5|Ma tribu est plus importante que tout, je la<br>protégerai à tous prix.|
 |6|Un être aimé a disparu, enlevé par les cavaliers<br>d'une terre lointaine. Je le retrouverai.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -89,13 +89,13 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 |5|Je suis aussi impétueux que le félin le plus<br>sauvage.|
 |6|Chaque action doit être mesurée. Je préfère<br>prendre mon temps et observer la situation<br>avant de décider d'agir, même si cela veut dire<br>agir trop tard.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Chasseur</Name>
+### <!--Name-->Variante : Chasseur<!--/Name-->
 
 Les vôtres ont toujours compté sur vous. Vous avez toujours été doué pour la chasse et c'est ainsi que vous avez fait partie des chasseurs. Vous rameniez la nourriture au péril de votre vie. Vous connaissez la valeur d'une vie animale et la respectez. Mais vous savez que la mort est le prix de votre survie, et de celle des vôtres.
 
@@ -105,11 +105,11 @@ Les vôtres ont toujours compté sur vous. Vous avez toujours été doué pour l
 
 **Équipement :** Couverture, tenue de voyageur, quelques pièges, peau tannée d'un animal que vous avez tué de vos mains, sacoche contenant des pierres précieuses ou des morceaux d'ivoire pour une valeur de 10 po.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Gardien tribal</Name>
+### <!--Name-->Variante : Gardien tribal<!--/Name-->
 
 Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre deux mondes. Vous connaissez le monde des esprits et préservez la tribu ou le clan des dangers physiques et spirituels. Certains pensent que vous comprenez les animaux ou que vous entendez la voix de la terre. Mais vous n'êtes que le garant des traditions, et le gardien de l'équilibre, ainsi que le défenseur de votre peuple.
 
@@ -119,19 +119,19 @@ Personne n'est plus étrange que le gardien tribal. Vous êtes à cheval entre d
 
 **Équipement :** Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Esprit protecteur</Name>
+#### <!--Name-->Aptitude : Esprit protecteur<!--/Name-->
 
 Vous avez un gardien spirituel qui vous suit, invisible, et vous aide parfois. Il incarne la puissance naturelle et animale. Les animaux vous sont rarement hostiles, à moins que vous les menaciez. Au pire ils préfèrent vous éviter. Quand un animal sauvage se présente, il ne prend que rarement la peine de s'enfuir et ne vous agresse que dans des cas extrêmes. De plus, vous êtes toujours capable de retrouver votre chemin en pleine nature.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Homme-médecine</Name>
+### <!--Name-->Variante : Homme-médecine<!--/Name-->
 
 Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isolé, à reconnaître les plantes et leurs propriétés parfois miraculeuses. Vous avez vite compris la valeur de votre savoir. Vous avez toujours eu un rôle-clef dans la vie du clan, à la fois médical et spirituel.
 
@@ -143,6 +143,6 @@ Vous avez appris auprès de l'homme-médecine de votre clan, ou d'un ermite isol
 
 **Équipement :** Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->

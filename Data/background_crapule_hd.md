@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Crapule</Name>
+# <!--Name-->Crapule<!--/Name-->
 
 Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le monde n'a pas le privilège de vivre dans les beaux quartiers. Vous êtes de ces gens que l'on considère avec mépris. Vous avez fait ce qu'il fallait pour survivre, quitte à vous compromettre moralement. Vous avez rapidement compris que la vie n'était qu'un rapport de pouvoir et vous avez tiré votre épingle du jeu en agissant de manière plus ou moins honnête, délestant d'autres moins avisés que vous de leur maigre fortune dans les rues de la cité qui vous abrite.
 
@@ -11,23 +11,23 @@ Tout le monde ne naît pas avec une cuillère en argent dans la bouche. Tout le 
 
 **Équipement :** Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Enfant de la rue</Name>
+#### <!--Name-->Aptitude : Enfant de la rue<!--/Name-->
 
 Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'oeil, vous savez reconnaître les lieux fréquentés par les personnes de votre genre. Si vous cherchez un lieu fréquenté par les crapules de la cité, vous arrivez toujours à le trouver sans trop d'effort. Vous ne pouvez découvrir automatiquement les lieux cachés et les bases d'opérations secrètes ou autres, mais vous trouvez toujours à qui poser la bonne question. Cette recherche ne vous prend jamais plus d'une ou deux heures. De plus, vous connaissez les codes et les manières des bas-fonds, et savez toujours comment vous comporter afin que l'on comprenne que vous appartenez au même milieu, ce qui rend votre intégration plus aisée.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les bas-fonds. Cette vie passée vous a profondément marqué et vous savez désormais que la fin justifie parfois les moyens, et que les idéaux ne résistent pas toujours face à la dureté de la vie. Vous l'avez appris, certainement au prix fort. Et pourtant, vous en êtes ressorti grandi d'une manière ou d'une autre.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -40,11 +40,11 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |7|Je parle beaucoup. Trop. Souvent pour cacher<br>mon malaise. Certains pensent qu'il s'agit<br>d'une forme de narcissisme.|
 |8|Je tente toujours d'analyser la situation le plus<br>froidement possible. Mais quand mes émotions<br>s'expriment, c'est une tempête sans nom.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -55,11 +55,11 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|**Famille.** Une famille se crée, et ses liens sont<br>plus forts que le sang. Ma famille de sang ou<br>de coeur, voilà ce qui compte. Le reste, et les<br>autres, sont quantité négligeable. (Neutre)|
 |6|**Gloire.** Je ferai tout pour que mon nom soit<br>reconnu, quel qu'en soit le prix ! (Chaotique)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -70,11 +70,11 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|Tout ce que je fais, je le fais pour venger un<br>proche, floué ou tué par mon ennemi.|
 |6|Je reprendrai ce que l'on m'a pris et qui me<br>revient de droit !|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -85,13 +85,13 @@ Vous avez toujours vécu dans ces milieux interlopes que l'on nomme souvent les 
 |5|La curiosité est un vilain défaut, et je suis<br>beaucoup trop curieux.|
 |6|Je me sens coupable d'un acte terrible qui est<br>advenu par ma faute. Je veux me racheter à<br>tout prix.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Cambrioleur</Name>
+### <!--Name-->Variante : Cambrioleur<!--/Name-->
 
 Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait votre gagne-pain de les délester un peu de leurs richesses pour les revendre, empochant au passage une jolie commission.
 
@@ -101,11 +101,11 @@ Il y a toujours des gens un peu trop riches. Des années durant, vous avez fait 
 
 **Équipement :** Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Escroc</Name>
+### <!--Name-->Variante : Escroc<!--/Name-->
 
 Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-il à délester un benêt de ses précieuses pièces ? Vous avez vécu en arnaquant les gens. Vous avez toujours su comment les manipuler pour obtenir ce que vous vouliez. Peut-être étiezvous un faussaire talentueux, un arnaqueur, un tricheur aux jeux, ou encore peut-être pratiquiez-vous une forme de bonneteau.
 
@@ -115,19 +115,19 @@ Vous avez très vite compris que les gens étaient crédules. Et quel mal y a-t-
 
 **Équipement :** Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Fausse identité</Name>
+#### <!--Name-->Aptitude : Fausse identité<!--/Name-->
 
 Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrouver. Vous possédez tous les documents et les objets nécessaires à l'entretenir et vous y recourez quand le besoin se fait sentir.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Voleur à la tire</Name>
+### <!--Name-->Variante : Voleur à la tire<!--/Name-->
 
 Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe avant même de marcher. C'est tout naturellement que, afin de survivre (ou sous la contrainte d'un parent ou d'un tuteur), vous avez appris à utiliser vos dons pour délester les autres de leurs bourses trop bien remplies.
 
@@ -139,4 +139,4 @@ Vous avez des doigts de fée. Vous faisiez vos premiers tours de passe-passe ava
 
 **Équipement :** Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.
 
-</Generic>
+<!--/Generic-->

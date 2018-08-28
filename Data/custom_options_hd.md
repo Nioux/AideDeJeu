@@ -1,21 +1,21 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Options de personnalisation</Name>
+# <!--Name-->Options de personnalisation<!--/Name-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Multiclassage](multiclassing_hd.md)</NameLink>
+## <!--NameLink-->[Multiclassage](multiclassing_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Dons](feats_hd.md)</NameLink>
+## <!--NameLink-->[Dons](feats_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-</Items>
+<!--/Items-->
 
 
 

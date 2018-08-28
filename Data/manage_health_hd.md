@@ -1,27 +1,27 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Gérer la santé</Name>
+# <!--Name-->Gérer la santé<!--/Name-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Dégâts et guérison](damage_healing_hd.md)</NameLink>
+## <!--NameLink-->[Dégâts et guérison](damage_healing_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[États spéciaux](conditions_hd.md)</NameLink>
+## <!--NameLink-->[États spéciaux](conditions_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-<LinkItem>
+<!--LinkItem-->
 
-## <NameLink>[Repos](resting_hd.md)</NameLink>
+## <!--NameLink-->[Repos](resting_hd.md)<!--/NameLink-->
 
-</LinkItem>
+<!--/LinkItem-->
 
-</Items>
+<!--/Items-->
 
 
 

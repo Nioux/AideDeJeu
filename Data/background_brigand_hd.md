@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Brigand</Name>
+# <!--Name-->Brigand<!--/Name-->
 
 Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en marge de la société. Par choix ou par contrainte, vous avez préféré vous tenir loin des villes et des routes les plus fréquentées, préférant les chemins de terre et les pistes sinueuses aux rues étroites des cités. Une large part de votre existence a été consacrée à assurer votre survie et celle de vos proches, qu'il s'agisse de votre famille ou de compagnons de brigandage. Et lorsque la nature n'y suffisait pas, vous n'avez jamais rechigné à vous en prendre aux voyageurs ou aux villageois afin d'assurer votre subsistance.
 
@@ -11,9 +11,9 @@ Vous n'êtes ni un solitaire, ni un sauvage, mais vous avez grandi et vécu en m
 
 **Équipement :** Couverture, habits de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Milieu naturel de prédilection</Name>
+#### <!--Name-->Milieu naturel de prédilection<!--/Name-->
 
 Vous avez une affinité avec un milieu naturel en particulier, où vous avez vécu et avez appris à survivre et à prospérer. Même si vous êtes capable de survivre dans des environnements variés, c'est là que vous vous sentez réellement chez vous. Lancez un dé ou sélectionnez l'un des choix suivants.
 
@@ -28,25 +28,25 @@ Vous avez une affinité avec un milieu naturel en particulier, où vous avez vé
 |7|Toundra|
 |8|Steppe|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Signes de piste</Name>
+#### <!--Name-->Aptitude : Signes de piste<!--/Name-->
 
 Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lire les multiples signes de la nature qui sont invisibles à un oeil moins averti que le vôtre. De plus, vous pratiquez un langage codé qui permet de laisser des indices à ceux qui, comme vous, ont embrassé le brigandage. Cela vous permet d'éviter la plupart des dangers et des embûches qui guettent souvent le voyageur dans les régions les moins civilisées du monde, et de communiquer avec d'autres brigands sans attirer l'attention.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de la société et de la vie bien réglée des citadins ou des villageois. Souvent considérés comme des individus dangereux ou peu recommandables, les brigands se concentrent avant tout sur l'instant présent et sur la survie de leur communauté.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -59,11 +59,11 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |7|Je protège les miens comme une mère protège<br>ses petits.|
 |8|Je suis aussi impitoyable que la nature peut<br>l'être. La survie est à ce prix.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -74,11 +74,11 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |5|**Liberté.** La vie en société est faite de chaînes<br>et de restrictions et vous ne comptez pas vous<br>laisser emprisonner. (Chaotique)|
 |6|**Autonomie.** Chacun doit pouvoir être en<br>mesure d'assurer sa propre survie. (Neutre)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -89,11 +89,11 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |5|Ma région a été frappée par un désastre, et<br>c'est à moi qu'il revient de trouver le moyen de<br>restaurer ce qui peut l'être.|
 |6|J'ai déniché une information capitale<br>(secret, carte au trésor, etc.) qui pourrait<br>assurer définitivement la prospérité de ma<br>communauté, et je compte bien en profiter.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -104,13 +104,13 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 |5|Je n'accorde aucun crédit aux citadins et aux<br>nantis.|
 |6|J'ai une confiance excessive en mes propres<br>capacités.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Bandit de grand chemin</Name>
+### <!--Name-->Variante : Bandit de grand chemin<!--/Name-->
 
 Les bandits vivent en marge des principaux axes de communication, et s'en prennent en bande aux voyageurs et aux commerçants, qu'ils détroussent en un tournemain avant de se réfugier dans des repaires isolés et difficiles d'accès.
 
@@ -122,11 +122,11 @@ Les bandits vivent en marge des principaux axes de communication, et s'en prenne
 
 **Équipement :** Couverture, tenue de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Fugitif</Name>
+### <!--Name-->Variante : Fugitif<!--/Name-->
 
 Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs se regroupent et se réfugient loin de ceux qui les pourchassent, en essayant de recréer dans la nature un semblant de leur vie passée.
 
@@ -136,11 +136,11 @@ Prisonniers évadés, braconniers ou paysans privés de leur terre, les fugitifs
 
 **Équipement :** Sac avec tente et couverture, tenue de voyageur, outils d'artisan, boîte à amadou, outre d'eau, bourse contenant 10 po.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Pirate</Name>
+### <!--Name-->Variante : Pirate<!--/Name-->
 
 Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se retrouvent sur toutes les mers et les voies navigables au sein d'une confrérie étrange faite de violence, de sens de l'honneur et d'un goût prononcé pour la liberté.
 
@@ -150,15 +150,15 @@ Vieux loups de mer, aventuriers, idéalistes et crapules de la pire espèce se r
 
 **Équipement :** Couverture, tenue de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Confrérie</Name>
+#### <!--Name-->Aptitude : Confrérie<!--/Name-->
 
 Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-</Items>
+<!--/Items-->
 

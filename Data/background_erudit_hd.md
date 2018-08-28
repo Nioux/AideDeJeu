@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Érudit</Name>
+# <!--Name-->Érudit<!--/Name-->
 
 Vous avez passé une large part de votre jeunesse le nez dans des parchemins et de vieux grimoires, à arpenter bibliothèques et scriptoriums à la recherche de précieux et poussiéreux manuscrits. Votre soif de connaissances, votre persévérance et votre intelligence vous ont permis de devenir une référence parmi vos pairs.
 
@@ -13,9 +13,9 @@ Vous avez passé une large part de votre jeunesse le nez dans des parchemins et 
 
 **Équipement :** Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Domaine d'études</Name>
+#### <!--Name-->Domaine d'études<!--/Name-->
 
 Vous avez une affinité pour un sujet d'études en particulier, ce qui vous a amené à vous spécialiser. Si vous avez de nombreuses connaissances sur tous les sujets, c'est dans ce domaine en particulier que d'autres recherchent votre expertise et vous citent en référence.
 
@@ -28,25 +28,25 @@ Vous avez une affinité pour un sujet d'études en particulier, ce qui vous a am
 |5|Cultures / Géographie|
 |6|Philosophie / Littérature|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Culture générale</Name>
+#### <!--Name-->Aptitude : Culture générale<!--/Name-->
 
 Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Les érudits se distinguent par leur soif inextinguible de connaissances. Pour certains, ce savoir est une fin en soi. Pour d'autres, il ne s'agit que d'un moyen parmi d'autres d'arriver à d'autres fins. Parvenir à un tel niveau d'érudition requiert cependant toujours une détermination sans faille.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -59,11 +59,11 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |7|Chaque individu est un mystère, une énigme<br>à résoudre, et j'aime particulièrement les<br>énigmes.|
 |8|La logique est mon moyen principal de<br>communication et le filtre à travers lequel je<br>cherche à comprendre le monde qui m'entoure.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -74,11 +74,11 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |5|**Logique.** C'est par une application<br>pragmatique et logique des connaissances que<br>l'homme peut s'améliorer. (Loyal)|
 |6|**Responsabilité.** La connaissance est un outil<br>comme un autre, qui doit être employé avec<br>discernement. (Neutre)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -89,11 +89,11 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |5|Mon érudition m'a attiré les faveurs d'un prince<br>ou d'un puissant, qui compte sur moi pour le<br>conseiller.|
 |6|J'ai conclu un pacte contre nature ou je me<br>suis laissé corrompre afin d'obtenir un savoir<br>réputé inaccessible. Je compte bien faire le<br>nécessaire pour effacer cela par mes actes.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |1|Je passe beaucoup de temps absorbé par mes<br>pensées, ce qui me rend parfois distrait ou peu<br>attentif à ce qui m'entoure.|
@@ -103,13 +103,13 @@ Les érudits se distinguent par leur soif inextinguible de connaissances. Pour c
 |5|Je suis un incorrigible gaffeur, et je suis bien<br>incapable de tenir ma langue.|
 |6|J'estime qu'un texte dans un grimoire ancien<br>vaut souvent mieux qu'une opinion, même<br>avertie.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Juriste</Name>
+### <!--Name-->Variante : Juriste<!--/Name-->
 
 Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages essentiels de la justice et de la société civile médiévale. L'art du juriste mêle la rhétorique, la logique, la connaissance des textes anciens aussi bien que la théologie.
 
@@ -119,19 +119,19 @@ Avocats, glossateurs, légistes et autres étudiants en droit sont des rouages e
 
 **Équipement :** Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Rouages de la justice</Name>
+#### <!--Name-->Aptitude : Rouages de la justice<!--/Name-->
 
 Vous connaissez les rouages de la justice telle qu'elle est pratiquée dans votre région d'origine. Vous savez exploiter ces connaissances et votre propre influence pour garantir une peine réduite si jamais vous ou un de vos compagnons êtes la cible des foudres judiciaires.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Médecin</Name>
+### <!--Name-->Variante : Médecin<!--/Name-->
 
 Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la guérison des blessures et maladies. Certaines parties de vos recherches vous ont amené sur des pistes sombres et terribles, mais cela vous a permis d'en apprendre plus et de mettre ces connaissances au service du bien commun.
 
@@ -141,11 +141,11 @@ Vos études se sont concentrées sur l'anatomie, les mécanismes de la vie et la
 
 **Équipement :** Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Naturaliste</Name>
+### <!--Name-->Variante : Naturaliste<!--/Name-->
 
 Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de faire de la nature votre principal domaine d'expertise, et des forêts ou des montagnes votre salle d'étude. Vous avez passé de longues heures sur les chemins, et plantes et animaux n'ont plus de secret pour vous.
 
@@ -155,6 +155,6 @@ Au lieu des bibliothèques et des grimoires poussiéreux, vous avez choisi de fa
 
 **Équipement :** Tenue de voyageur, sac contenant tente et couverture, matériel d'herboriste, boîte à amadou, bourse contenant 20 po.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->

@@ -1,9 +1,9 @@
 
-<Generic>
+<!--Generic-->
 
-# <Name>Aasimar</Name>
+# <!--Name-->Aasimar<!--/Name-->
 
-- Source: <Source>(MDR p59)</Source>
+- Source: <!--Source-->(MDR p59)<!--/Source-->
 
 ## Traits des aasimars
 
@@ -27,7 +27,7 @@ Votre parenté céleste vous a octroyé certains pouvoirs innés.
 
 **Langues.** Vous pouvez lire, écrire et parler le commun, ainsi que le céleste.
 
-</Generic>
+<!--/Generic-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md

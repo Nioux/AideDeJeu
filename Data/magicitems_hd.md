@@ -1,16 +1,16 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Objets magiques</Name>
+# <!--Name-->Objets magiques<!--/Name-->
 
-- AltName: <AltName>Magic Items (SRD p206)</AltName>
-- Source: <Source>(CDC p129)</Source>
+- AltName: <!--AltName-->Magic Items (SRD p206)<!--/AltName-->
+- Source: <!--Source-->(CDC p129)<!--/Source-->
 
 Les objets magiques sont récupérés dans les caches aux trésors de monstres vaincus ou dans des chambres fortes depuis longtemps oubliées. Ces objets confèrent à leur détenteur des capacités qu'ils ont rarement l'occasion de maîtriser par ailleurs ou complètent leurs capacités par le biais d'une extraordinaire magie.
 
-<Generic>
+<!--Generic-->
 
-### <Name>Rareté</Name>
+### <!--Name-->Rareté<!--/Name-->
 
 Les objets magiques sont classés selon leur rareté : courant, peu courant, rare, très rare et légendaire. La rareté permet de déterminer la fréquence à laquelle les PJ sont susceptibles d'en découvrir et le niveau qu'il faut généralement atteindre pour en utiliser. Ainsi, les objets courants et peu courants peuvent déjà se trouver dans l'équipement de personnages de niveau 1. Le niveau 5 marque généralement le début de l'utilisation des objets rares. Les objets très rares apparaissent vers le niveau 11 et les objets légendaires sont l'apanage des personnages de niveaux 17 et plus. La rareté permet également de déterminer le prix moyen d'un objet magique, quoique la plupart de ces objets ne pourront jamais être achetés avec de l'argent.
 
@@ -22,32 +22,32 @@ Les objets magiques sont classés selon leur rareté : courant, peu courant, rar
 |Très rare|2d10 (11) × 2 500 po|
 |Légendaire|2d6 (7) × 10 000 po|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Le commerce des objets magiques</Name>
+### <!--Name-->Le commerce des objets magiques<!--/Name-->
 
 Dans la plupart des univers de campagne, les objets magiques ne sont pas disponibles dans des échoppes. S'il est théoriquement envisageable d'acheter des objets communs chez un lanceur de sorts ou un alchimiste à – la condition surprenante que ce dernier souhaite s'en séparer, les objets plus rares sont généralement échangés contre des services qui devraient constituer autant d'amorces de scénarios et de difficultés pour les PJ. Ne bradez jamais l'acquisition d'un objet magique. Vous en détruiriez immédiatement le charme auprès de vos joueurs. Pour la même raison, il est difficile de vendre des objets magiques de grande valeur. Peu de gens, hormis les riches collectionneurs et les nobles de haut rang, peuvent se permettre de débourser des milliers de pièces d'or pour une baguette magique ou une boule de cristal.
 
 Bien entendu, vous pouvez en décider autrement et permettre un commerce florissant d'objets magiques si vous souhaitez un univers plus haut en couleur, mais l'esprit du jeu le déconseille.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Identifier un objet magique</Name>
+### <!--Name-->Identifier un objet magique<!--/Name-->
 
 Le sort identification est le meilleur moyen d'obtenir des informations sur un objet magique. Le coût élevé des composantes nécessaires pousse cependant nombre d'aventuriers à découvrir les secrets de leurs objets magiques par d'autres moyens. Le premier est l'observation. Beaucoup d'objets portent des inscriptions qui peuvent être un mot de commande ou une sorte de notice d'utilisation. D'autres sont créés de manière à donner des indices, comme un anneau de nage qui serait gravé de motifs aquatiques. Le second moyen est l'expérimentation. Passez le même anneau de nage et jetez-vous à l'eau, par exemple. Les potions sont les objets les plus expérimentés : y tremper les lèvres un instant peut suffire, avec de l'expérience, à en découvrir les propriétés. Mais attention aux pièges et aux erreurs qui peuvent coûter très cher !
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Harmonisation</Name>
+### <!--Name-->Harmonisation<!--/Name-->
 
-- AltName: <AltName>Attunement (SRD p206)</AltName>
-- Source: <Source>(CDC p130)</Source>
+- AltName: <!--AltName-->Attunement (SRD p206)<!--/AltName-->
+- Source: <!--Source-->(CDC p130)<!--/Source-->
 
 Une créature doit parfois sceller un pacte avec certains objets magiques avant de pouvoir utiliser leurs propriétés magiques. Ce pacte est appelé harmonisation et il faut parfois remplir certaines conditions pour plusieurs d'entre eux. Si la condition est une classe, une créature doit appartenir à cette classe pour qu'elle et lui puissent s'harmoniser (si la classe est celle d'un lanceur de sorts, un monstre remplit la condition s'il possède des emplacements de sort et utilise la liste de sorts de cette classe).
 
@@ -59,19 +59,19 @@ Un objet s'harmonise avec une seule créature à la fois, tandis qu'une même cr
 
 L'harmonisation entre une créature et un objet se dissipe si cette créature ne remplit plus les prérequis d'harmonisation, si elle est séparée de l'objet de plus de 30 mètres pendant au moins 24 heures, si elle meurt ou encore si une autre créature s'harmonise avec l'objet. Une créature peut mettre volontairement un terme à son harmonisation en passant une période de court repos concentrée sur l'objet, à moins que celui-ci ne soit maudit.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Objets maudits</Name>
+### <!--Name-->Objets maudits<!--/Name-->
 
 Certains objets magiques infligent une malédiction à leur utilisateur. Généralement, une fois qu'un personnage l'a utilisé ou s'y est harmonisé, la malédiction ne peut être enlevée que par les sorts lever une malédiction ou restauration supérieure. Les moyens habituels d'identification d'un objet magique ne révèlent pas la malédiction. Cette dernière est donc une mauvaise surprise qui frappe l'utilisateur de l'objet.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Les différents types d'objets magiques</Name>
+### <!--Name-->Les différents types d'objets magiques<!--/Name-->
 
 Il existe neuf types d'objets magiques : anneaux, armes, armures, baguettes, bâtons, objets merveilleux, parchemins, potions et sceptres.
 
@@ -93,11 +93,11 @@ Potions. Toutes sortes de liquides magiques sont regroupés dans cette catégori
 
 Sceptres. Les sceptres sont des bâtonnets mesurant entre 50 cm et 1 m. La description de chaque sceptre indique la manière de l'utiliser.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Porter et ma nier des objets magiques</Name>
+### <!--Name-->Porter et ma nier des objets magiques<!--/Name-->
 
 Certains objets doivent être portés ou maniés pour pouvoir utiliser leurs propriétés magiques. Un objet magique censé être porté doit être placé sur le corps de la manière prévue : les bottes se portent aux pieds, les gants aux mains, les chapeaux et les casques sur la tête et les anneaux aux doigts. Une armure magique doit être enfilée, un bouclier sanglé au bras, une cape fixée autour des épaules, et une arme tenue en main.
 
@@ -105,87 +105,87 @@ Dans la plupart des cas, un objet magique qui n'est pas censé être porté peut
 
 Quand une créature non-humanoïde tente de porter un objet, vous décidez si celui-ci fonctionne comme prévu. Un anneau placé sur un tentacule peut fonctionner mais un yuan-ti avec une queue semblable à celle d'un serpent en guise de jambes ne peut pas porter de bottes.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Plusieurs objets du même type</Name>
+#### <!--Name-->Plusieurs objets du même type<!--/Name-->
 
 Faites appel à votre bon sens pour déterminer s'il est possible de porter plus d'un objet magique du même type. Un personnage peut normalement porter, au maximum, une paire de chaussures, une paire de gants ou de gantelets d'armes, une paire de brassards, une armure, un couvre-chef, une cape et un anneau à chaque main. Des exceptions sont possibles, si vous le souhaitez : un personnage pourrait, par exemple, porter une tiare sous un casque ou deux capes superposées.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets appariés</Name>
+#### <!--Name-->Objets appariés<!--/Name-->
 
 Les objets appariés, comme les bottes, les brassards, les gantelets d'armes et les gants, octroient leurs avantages uniquement si les deux objets formant la paire sont portés. Par exemple, un personnage porte une botte de marche et de saut à un pied et une botte elfique à l'autre, mais aucun des deux objets n'octroie ses avantages.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Activation d'un objet magique</Name>
+### <!--Name-->Activation d'un objet magique<!--/Name-->
 
 L'activation de certains objets magiques nécessite de l'utilisateur une action spéciale, comme tenir simplement l'objet en main ou murmurer un mot de commande. La description des catégories d'objets ou de certains objets particuliers précise comment les activer. Certains objets appliquent une ou plusieurs des règles suivantes en ce qui concerne leur activation.
 
 S'il faut effectuer une action pour activer un objet, cette action n'est pas une fonction de l'action utiliser un objet. Donc, une aptitude telle que mains lestes du roublard ne peut pas être utilisée pour activer l'objet.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Mot de commande</Name>
+#### <!--Name-->Mot de commande<!--/Name-->
 
 Un mot de commande est un mot ou une phrase qui doit être prononcé pour que l'objet fonctionne. Un objet magique qui nécessite la prononciation d'un mot de commande précis ne peut pas être activé dans une zone où les sons sont étouffés, comme dans la zone créée par un sort de silence.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets à utilisation unique</Name>
+#### <!--Name-->Objets à utilisation unique<!--/Name-->
 
 Certains objets ne peuvent s'utiliser qu'une seule fois et sont dépensés une fois activés. Une potion ou un élixir doit être avalé et une huile appliquée sur le corps. Les inscriptions sur un parchemin disparaissent une fois lues. La magie d'un objet à utilisation unique disparaît une fois utilisée.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Sorts</Name>
+#### <!--Name-->Sorts<!--/Name-->
 
 Certains objets magiques permettent à leurs utilisateurs de lancer des sorts par leur biais. Ces sorts sont lancés au niveau le plus bas possible, ils ne dépensent aucun des emplacements de sort de l'utilisateur et ne nécessitent aucune composante, à moins que le contraire ne soit indiqué dans la description de l'objet. Le temps d'incantation, la portée et la durée des sorts restent les mêmes, et l'utilisateur de l'objet doit se concentrer si un sort donné exige de la concentration. Nombre d'objets, comme les potions, ne nécessitent aucune incantation et confèrent les effets d'un sort, en appliquant sa durée habituelle. Certains objets font exception à cette règle et modifient le temps d'incantation, la durée ou d'autres aspects d'un sort.
 
 Avec certains objets magiques, comme les bâtons, l'utilisateur doit appliquer sa caractéristique d'incantation quand il lance un sort par le biais de l'objet. S'il possède plusieurs caractéristiques d'incantation, il choisit celle utilisée avec l'objet. S'il ne possède aucune caractéristique d'incantation (un roublard avec l'aptitude utilisation d'objets magiques, par exemple), on considère que son modificateur de caractéristique d'incantation est égal à +0 lorsqu'il utilise l'objet et qu'il applique son bonus de maîtrise.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Charges</Name>
+#### <!--Name-->Charges<!--/Name-->
 
 Certains objets magiques possèdent des charges qu'il faut dépenser pour activer leurs propriétés. Le nombre de charges restantes que contient un objet est révélé quand on lui lance un sort d'identification ou quand une créature s'harmonise avec lui. De plus, quand un objet récupère des charges, la créature harmonisée sait combien de charges celui-ci récupère.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Détruire un objet magique</Name>
+### <!--Name-->Détruire un objet magique<!--/Name-->
 
 La majorité des objets magiques sont plus résistants que leur équivalent non-magique. La plupart, grâce à la magie qu'ils renferment, sont résistants à tous les types de dégâts. Les potions et les parchemins font exception. Les premières sont détruites si leur contenant est détruit ou renversé, les seconds peuvent aisément prendre feu ou être déchirés. Quant aux artefacts, ils sont pratiquement indestructibles. Chacun d'eux possède une méthode unique, souvent l'objet d'une quête épique, pour être détruit.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Particularité d'un objet magique</Name>
+### <!--Name-->Particularité d'un objet magique<!--/Name-->
 
 Les objets magiques sont par essence mystérieux. Afin de transformer la découverte d'un objet magique en réel émerveillement, il peut être utile de réfléchir à son histoire. Les tableaux suivants peuvent vous aider à déterminer quelques détails pittoresques qui transformeront votre dague +2 en un objet bien plus intéressant.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Détails amusants</Name>
+#### <!--Name-->Détails amusants<!--/Name-->
 
 Difficile à décrire. L'objet semble constamment changer de couleur ou de forme.
 
@@ -199,11 +199,11 @@ Exubérant. Lorsqu'il est utilisé, l'effet produit par l'objet est très voyant
 
 Capricieux. L'objet ne fonctionne que si son utilisateur le lui demande gentiment.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Propriété additionnelle</Name>
+#### <!--Name-->Propriété additionnelle<!--/Name-->
 
 Lumineux. L'objet dégage une lumière vive dans un rayon de 3 mètres.
 
@@ -217,11 +217,11 @@ Bénéfique. Lorsqu'il lance un dé de vie pour récupérer pendant un repos, le
 
 Vision dans le noir. Le porteur de l'objet bénéficie d'une vision dans le noir avec une portée de 9 mètres. S'il possède déjà cette aptitude, le personnage augmente la portée de sa vision dans le noir de 9 mètres.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Qui l'a créé ?</Name>
+#### <!--Name-->Qui l'a créé ?<!--/Name-->
 
 Peuple disparu. L'objet a été créé par un royaume ou un empire si ancien qu'il n'est plus aujourd'hui qu'un mythe. Il est convoité par les collectionneurs.
 
@@ -235,11 +235,11 @@ Animal éveillé. C'est un animal d'une intelligence humaine qui a créé l'obje
 
 Mage célèbre. L'objet a été créé par un magicien particulièrement célèbre. Son nom est même gravé dessus. La plupart des gens considéreront le porteur de l'objet comme un voleur. Et qu'en pense le mage en question ?
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Détail historique</Name>
+#### <!--Name-->Détail historique<!--/Name-->
 
 Royal. L'objet a été créé pour un monarque. Les sujets du royaume considèrent le porteur comme un membre de la famille royale.
 
@@ -253,19 +253,19 @@ Mauvais présage. Tous les porteurs précédents connus de l'objet sont morts da
 
 Destin. L'objet a été conçu dans un but bien précis. Lorsque cet événement arrivera, l'objet s'éveillera à la conscience et exigera de son porteur qu'il le conduise à un endroit précis du monde.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Objets magiques aléatoires</Name>
+### <!--Name-->Objets magiques aléatoires<!--/Name-->
 
 Les tableaux suivants vous seront utiles pour déterminer les objets magiques présents dans les trésors des monstres rencontrés par les personnages.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 1</Name>
+#### <!--Name-->Objets magiques 1<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -286,11 +286,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**94-95**|[Sac sans fond]|
 |**96-00**|Relancer sur [table 2]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 2</Name>
+#### <!--Name-->Objets magiques 2<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -339,11 +339,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Poussière de disparition]|
 |**96-00**|Relancer sur [table 3]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 3</Name>
+#### <!--Name-->Objets magiques 3<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -394,11 +394,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Trident de domination aquatique]|
 |**96-00**|Relancer sur [table 4]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 4</Name>
+#### <!--Name-->Objets magiques 4<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -465,11 +465,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Puits portatif]|
 |**96-00**|Relancer sur [table 5]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 5</Name>
+#### <!--Name-->Objets magiques 5<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -532,11 +532,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**95**|[Sceptre de suzeraineté]|
 |**96-00**|Relancer sur [table 6]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 6</Name>
+#### <!--Name-->Objets magiques 6<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -584,11 +584,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**94-95**|[Ceinturon de force de géant du givre/des pierres]|
 |**96-00**|Relancer sur [table 7]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 7</Name>
+#### <!--Name-->Objets magiques 7<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -633,11 +633,11 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**94-95**|[Tapis volant]|
 |**96-00**|Relancer sur [table 8]|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Objets magiques 8</Name>
+#### <!--Name-->Objets magiques 8<!--/Name-->
 
 |d100|Objet magique|
 |---|---|
@@ -692,9 +692,9 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**96-00**|[Artefact] (au choix du MJ)|
 
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 
 

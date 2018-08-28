@@ -1,14 +1,14 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Barde</Name>
+# <!--Name-->Barde<!--/Name-->
 
-- AltName: <AltName>Bard (SRD p11)</AltName>
-- Source: <Source>(MDR p121)</Source>
+- AltName: <!--AltName-->Bard (SRD p11)<!--/AltName-->
+- Source: <!--Source-->(MDR p121)<!--/Source-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Aptitudes de classe</Name>
+# <!--Name-->Aptitudes de classe<!--/Name-->
 
 En tant que barde, vous bénéficiez des aptitudes de classe suivantes.
 
@@ -36,11 +36,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 * une armure de cuir et une dague
 
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Tableau d'évolution</Name>
+# <!--Name-->Tableau d'évolution<!--/Name-->
 
 |Niveau|Bonus<br>de<br>maîtrise|Aptitudes|Tours<br>de<br>magie<br>connus|Sorts<br>connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -67,11 +67,11 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 (* Emplacement de sorts par niveau de sort)
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Incantations</Name>
+## <!--Name-->Incantations<!--/Name-->
 
 Vous avez appris à remodeler la trame de la réalité en harmonie avec vos souhaits et votre musique. Vos sorts sont une partie intégrante de votre vaste répertoire, une magie que vous pouvez adapter en fonction de la situation.
 
@@ -111,11 +111,11 @@ Vous pouvez lancer tous les [sorts de barde] que vous connaissez sous la forme d
 
 Vous pouvez utiliser un [instrument de musique] (voir le chapitre 5, Équipement, page 236) comme [focaliseur d'incantation] pour vos [sorts de barde].
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Inspiration bardique</Name>
+## <!--Name-->Inspiration bardique<!--/Name-->
 
 La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.
 
@@ -125,71 +125,71 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Votre dé d'inspiration bardique évolue avec votre niveau de barde et il devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Touche-à-tout</Name>
+## <!--Name-->Touche-à-tout<!--/Name-->
 
 À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Chant reposant</Name>
+## <!--Name-->Chant reposant<!--/Name-->
 
 À partir du niveau 2, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points de vie à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.
 
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 1d8 au niveau 9, 1d10 au niveau 13 et 1d12 au niveau 17.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Collège bardique</Name>
+## <!--Name-->Collège bardique<!--/Name-->
 
 Au niveau 3, vous vous penchez sur les techniques avancées d'un collège bardique de votre choix : le [collège du savoir], le [collège des diplomates], le [collège des hérauts] ou le [collège des saltimbanques]. L'enseignement dispensé dans ces collèges est détaillé à la fin de la section consacrée à cette classe. Votre choix vous donne accès à des aptitudes particulières aux niveaux 3, 6 et 14.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Expertise</Name>
+## <!--Name-->Expertise<!--/Name-->
 
 Au niveau 3, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout test de caractéristiques qui met en jeu ces compétences.
 
 Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Amélioration de caractéristiques</Name>
+## <!--Name-->Amélioration de caractéristiques<!--/Name-->
 
 Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous pouvez augmenter de 2 la valeur d'une caractéristique de votre choix ou augmenter de 1 la valeur de deux caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Source d'inspiration</Name>
+## <!--Name-->Source d'inspiration<!--/Name-->
 
 Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Contre-charme</Name>
+## <!--Name-->Contre-charme<!--/Name-->
 
 Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un avantage sur les [jets de sauvegarde] contre les effets terrorisé et charmé. Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes neutralisé, réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Secrets magiques</Name>
+## <!--Name-->Secrets magiques<!--/Name-->
 
 Au niveau 10, vous avez exploré de nombreuses disciplines magiques et en avez tiré des connaissances.
 
@@ -199,19 +199,19 @@ Les sorts que vous choisissez fonctionnent pour vous comme des [sorts de barde] 
 
 Vous pouvez apprendre de la même manière deux sorts supplémentaires de la classe de votre choix au niveau 14 et deux autres au niveau 18.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Inspiration supérieure</Name>
+## <!--Name-->Inspiration supérieure<!--/Name-->
 
 Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez une.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-# <Name>Collèges bardiques</Name>
+# <!--Name-->Collèges bardiques<!--/Name-->
 
 ## [Collège du savoir]
 
@@ -221,9 +221,9 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 
 ## [Collège des saltimbanques]
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Collège du savoir]: bard_knowledge_hd.md
 [Collège des diplomates]: bard_diplomats_hd.md

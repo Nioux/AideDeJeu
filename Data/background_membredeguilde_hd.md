@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Membre de guilde</Name>
+# <!--Name-->Membre de guilde<!--/Name-->
 
 Vous appartenez à une guilde, une caste ou un groupe relativement fermé de personnes qui s'entraident dans un but commun. Votre prospérité est due au moins autant à l'appartenance à ce groupe qu'à vos talents individuels. En formant un réseau de personnes dont les intérêts convergent, les guildes passent bien souvent outre l'ordre féodal et permettent à leurs membres d'accéder à la richesse et au pouvoir. Elles défendent jalousement leurs prérogatives, et font généralement payer l'adhésion à prix d'or. Cependant, une fois lié au groupe, chaque membre bénéficie de l'aide et de l'expérience des autres membres plus anciens, en plus d'un réseau étendu de contacts.
 
@@ -13,23 +13,23 @@ Vous appartenez à une guilde, une caste ou un groupe relativement fermé de per
 
 **Équipement :** Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Réseau de guilde</Name>
+#### <!--Name-->Aptitude : Réseau de guilde<!--/Name-->
 
 En se positionnant comme intermédiaire privilégié dans une catégorie de biens ou de service, chaque guilde s'assure de contrôler au maximum le commerce et les échanges dans sa zone d'opération. De fait, les membres bénéficient d'un traitement de faveur partout où la guilde est installée. Outre des tarifs préférentiels pour le négoce, cela vous permet aussi d'accéder aux bâtiments de la guilde, d'y trouver éventuellement un abri confortable et de quoi vous approvisionner, ainsi que des informations via les membres locaux. Cela vous permet aussi d'accéder à certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde : contrebande, prostitution et trafics en tous genres.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Les membres de guilde font partie des rouages essentiels de la vie des cités, et ils deviennent de précieux alliés pour leurs compagnons lorsqu'ils décident de partir à l'aventure. Ils accordent toutefois une grande importance au gain pécuniaire et au confort matériel.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -42,11 +42,11 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 |7|J'ai un profond respect pour l'ancienneté et<br>l'expérience, et une déférence naturelle pour<br>mes aînés.|
 |8|Je peux oublier tout ce qui me préoccupait un<br>instant plus tôt lorsque je me trouve face à une<br>oeuvre de qualité.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -57,11 +57,11 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 |5|**Pouvoir.** Les concurrents doivent être éliminés<br>par tous les moyens afin d'assurer la primauté<br>de la guilde. (Mauvais)|
 |6|**Ambition.** Il n'y a qu'un seul objectif<br>acceptable : être le meilleur. (Tous)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -72,11 +72,11 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 |5|Je me suis approprié le travail d'un autre<br>artisan sans qu'il le sache, et ce secret me<br>ronge.|
 |6|Je n'ai pas d'autre foyer que le siège de ma<br>guilde.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -87,13 +87,13 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 |5|Toutes mes actions visent à acquérir une<br>reconnaissance que j'estime m'être due.|
 |6|L'or est la seule chose qui ait de la valeur à mes<br>yeux.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Artisan</Name>
+### <!--Name-->Variante : Artisan<!--/Name-->
 
 Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent les premiers à s'être organisés, la plupart du temps par corps de métier, afin de faire vivre et progresser leur savoir-faire. La guilde est alors un lieu d'apprentissage en même temps qu'un réseau efficace pour contrôler la concurrence et la qualité des produits. Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequel vous vous êtes spécialisé.
 
@@ -114,11 +114,11 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 
 **Équipement :** Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Assassin</Name>
+### <!--Name-->Variante : Assassin<!--/Name-->
 
 Tous les royaumes, tous les États abritent en leur sein la lie de la civilisation. Des êtres abjects qui n'hésitent pas à éliminer une vie humaine pour quelques pièces d'or. Cependant, c'est une carrière dangereuse, et il n'est pas rare que les employeurs d'hier soient les ennemis de demain. L'existence d'une guilde d'assassins, même informelle, est une garantie de relative sécurité pour ses membres, et d'efficacité pour les clients potentiels.
 
@@ -130,19 +130,19 @@ Tous les royaumes, tous les États abritent en leur sein la lie de la civilisati
 
 **Équipement :** Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Marque de la mort</Name>
+#### <!--Name-->Aptitude : Marque de la mort<!--/Name-->
 
 Par le truchement de votre guilde, vous savez avec qui prendre contact dans la plupart des villes de votre région d'origine, au cas où vous voudriez vous débarrasser d'un indésirable pour une somme modique, ou bien si vous souhaitez vous procurer du poison. Votre guilde entretient en outre une aura de mystère et de menace par une subtile manipulation de l'information, qui vous permet de vous prévaloir, grâce à quelques menaces voilées, d'aide ou d'information auprès de la population des cités où la guilde opère.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Commerçant</Name>
+### <!--Name-->Variante : Commerçant<!--/Name-->
 
 Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, en achetant et en vendant des denrées, provenant parfois de contrées lointaines. Ils ont mauvaise réputation auprès des classes sociales les plus élevées, sont méprisés par le clergé, mais ont su rendre leur présence indispensable et accroître leur pouvoir. En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégories suivantes pour déterminer le négoce principal de votre guilde.
 
@@ -163,6 +163,6 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 
 **Équipement :** Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, sceau de la guilde, balance de marchand, livre de comptes, plume et encre, bourse contenant 20 po.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->

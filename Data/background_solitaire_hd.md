@@ -1,7 +1,7 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Solitaire</Name>
+# <!--Name-->Solitaire<!--/Name-->
 
 Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux, vous ne vous êtes jamais vraiment mêlé à la population. Vous n'appréciez pas les foules, vous vous sentez bien dans la solitude. Vous n'avez pas peur de vous retrouver seul : c'est là que vous pouvez réellement être vous-même, loin du jugement et des peurs des autres. Ou peut-être avez-vous simplement décidé de vous exiler afin de méditer et de découvrir les secrets de l'univers.
 
@@ -11,23 +11,23 @@ Vous avez toujours vécu seul. Loin des cités, loin des villages et des hameaux
 
 **Équipement :** Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Besoin de personne</Name>
+#### <!--Name-->Aptitude : Besoin de personne<!--/Name-->
 
 Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles.
 
-</Generic>
+<!--/Generic-->
 
-<Items>
+<!--Items-->
 
-#### <Name>Personnalités suggérées</Name>
+#### <!--Name-->Personnalités suggérées<!--/Name-->
 
 Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé à vous éloigner, mais dans tous les cas, vous aimez l'espace et la solitude. Les foules vous dérangent et vous préférez compter sur vous-même pour votre propre survie, loin de tous. Au moins, là, personne ne vient vous déranger.
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Trait de personnalité</Name>
+##### <!--Name-->Trait de personnalité<!--/Name-->
 
 |d8|Trait de personnalité|
 |---|---|
@@ -40,11 +40,11 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |7|Parfois, je plonge dans mes pensées et m'y<br>perds. Et cela se voit.|
 |8|J'ai toujours une pensée philosophique et<br>profonde appropriée à la situation.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Idéal</Name>
+##### <!--Name-->Idéal<!--/Name-->
 
 |d6|Idéal|
 |---|---|
@@ -55,11 +55,11 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |5|**Vengeance.** Ce que je subis, je le rends au<br>centuple. (Mauvais)|
 |6|**Survivant.** La nature ne nous fait pas de<br>cadeau. Nous devons tous savoir nous<br>débrouiller seuls. (Neutre)|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Lien</Name>
+##### <!--Name-->Lien<!--/Name-->
 
 |d6|Lien|
 |---|---|
@@ -70,11 +70,11 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |5|J'ai été soldat autrefois. Je ne reverrai jamais<br>les horreurs de la guerre.|
 |6|Je me suis fixé comme mission de protéger<br>les terres sauvages qui m'accueillent des<br>déprédations des êtres dits civilisés.|
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-##### <Name>Défaut</Name>
+##### <!--Name-->Défaut<!--/Name-->
 
 |d6|Défaut|
 |---|---|
@@ -85,13 +85,13 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |5|Je prends parfois des risques inconsidérés par<br>simple curiosité.|
 |6|Quand je reviens à la civilisation, j'ai tendance<br>à m'abandonner aux plaisirs qu'elle m'offre. Un<br>peu trop, parfois.|
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Items>
+<!--Items-->
 
-### <Name>Variante : Ermite</Name>
+### <!--Name-->Variante : Ermite<!--/Name-->
 
 Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous vivez seul, loin de tous, et c'est un choix. Vous ne revenez dans les communautés civilisées que lorsque vous en avez réellement besoin et préférez la compagnie des animaux, le murmure de la nature et le chant du vent dans les arbres. Une vie sans les fioritures de la ville, vous contentant de peu afin de méditer. Votre isolement est une quête spirituelle avant tout.
 
@@ -101,19 +101,19 @@ Quelle qu'en soit la raison, vous avez décidé de vous retirer du monde. Vous v
 
 **Équipement :** Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.
 
-<Generic>
+<!--Generic-->
 
-#### <Name>Aptitude : Révélation</Name>
+#### <!--Name-->Aptitude : Révélation<!--/Name-->
 
 Vous avez eu une révélation. Votre vie solitaire et votre méditation vous ont donné les clés d'un secret dont vous ne comprenez pas encore tous les tenants et les aboutissants. Mais c'est elle qui vous a encouragé à sortir de votre réclusion volontaire. Déterminez un secret ou une révélation avec votre MJ. Il doit être assez flou pour vous pousser à l'aventure afin d'en savoir plus et, qui sait, de le contrer ou de le réaliser.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Guide</Name>
+### <!--Name-->Variante : Guide<!--/Name-->
 
 Votre vie n'est que voyage et isolement. Vous passez de communauté en communauté, guidant les caravanes à bon port. Cela ne vous empêche pas de savoir comment sociabiliser, mais vous portez sur vos épaules, à chaque voyage, la responsabilité de toute une caravane.
 
@@ -123,11 +123,11 @@ Votre vie n'est que voyage et isolement. Vous passez de communauté en communaut
 
 **Équipement :** Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-### <Name>Variante : Trappeur</Name>
+### <!--Name-->Variante : Trappeur<!--/Name-->
 
 Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane au milieu de la nature sauvage. Mais vous revenez régulièrement dans un village non loin, afin de vendre le produit de votre chasse. Malgré votre isolement, vous faites tout de même partie de la communauté que vous rejoignez parfois.
 
@@ -137,6 +137,6 @@ Vous vivez de la chasse. La plupart du temps vous êtes seul, dans votre cabane 
 
 **Équipement :** Tenue de voyageur, couverture, boîte à amadou, fourrure d'un animal que vous avez tué et qui vous sert de couverture, piège à mâchoires, bourse contenant 10 po.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->

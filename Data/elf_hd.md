@@ -1,10 +1,10 @@
 
-<Items>
+<!--Items-->
 
-# <Name>Elfe</Name>
+# <!--Name-->Elfe<!--/Name-->
 
-- AltName: <AltName>Elf (SRD p4)</AltName>
-- Source: <Source>(MDR p44)</Source>
+- AltName: <!--AltName-->Elf (SRD p4)<!--/AltName-->
+- Source: <!--Source-->(MDR p44)<!--/Source-->
 
 ## Traits des elfes
 
@@ -30,12 +30,12 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 **Langues.** Vous pouvez parler, lire et écrire en commun et en elfe. Le langage des elfes est fluide, avec des intonations subtiles et une grammaire élaborée. La littérature elfique est riche et variée, et leurs chansons et poèmes sont populaires parmi les autres races. De nombreux bardes apprennent à parler elfe afin de pouvoir ajouter des ballades elfiques à leur répertoire.
 
-<Generic>
+<!--Generic-->
 
-## <Name>Elfe d'aether</Name>
+## <!--Name-->Elfe d'aether<!--/Name-->
 
-- AltName: <AltName>High Elf (SRD p4)</AltName>
-- Source: <Source>(MDR p45)</Source>
+- AltName: <!--AltName-->High Elf (SRD p4)<!--/AltName-->
+- Source: <!--Source-->(MDR p45)<!--/Source-->
 
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.
 
@@ -47,13 +47,13 @@ En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples 
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Elfe de fer</Name>
+## <!--Name-->Elfe de fer<!--/Name-->
 
-- Source: <Source>(MDR p45)</Source>
+- Source: <!--Source-->(MDR p45)<!--/Source-->
 
 En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vous avez une grande aisance en société. Vous avez une affinité supérieure avec la magie et appréciez l'art sous toutes ses formes.
 
@@ -65,13 +65,13 @@ En tant qu'elfe de fer, vous aimez nouer des liens avec les autres peuples et vo
 
 **Langue supplémentaire.** Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
 
-</Generic>
+<!--/Generic-->
 
-<Generic>
+<!--Generic-->
 
-## <Name>Elfe des sylves</Name>
+## <!--Name-->Elfe des sylves<!--/Name-->
 
-- Source: <Source>(MDR p45)</Source>
+- Source: <!--Source-->(MDR p45)<!--/Source-->
 
 En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dans laquelle vous vous sentez chez vous. Vos doigts sont agiles et vous possédez un don pour l'artisanat.
 
@@ -81,9 +81,9 @@ En tant qu'elfe des sylves, vous entretenez des liens ténus avec la nature, dan
 
 **Artisans reconnus.** Vous maîtrisez un type d'outils d'artisan de votre choix.
 
-</Generic>
+<!--/Generic-->
 
-</Items>
+<!--/Items-->
 
 [Force]: abilities_strength_hd.md
 [Dextérité]: abilities_dexterity_hd.md
