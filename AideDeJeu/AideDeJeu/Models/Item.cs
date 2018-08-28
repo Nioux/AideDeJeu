@@ -1,15 +1,22 @@
 ﻿using System.Collections.Generic;
+using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Xml;
 
 namespace AideDeJeuLib
 {
+    [DataContract]
     public class Item
     {
-        public string Id { get; set; }
+        [DataMember]
+        public virtual string Id { get; set; }
+        [DataMember]
         public string Name { get; set; }
+        [DataMember]
         public int NameLevel { get; set; }
+        [DataMember]
         public string AltName { get; set; }
+        [IgnoreDataMember]
         public string AltNameText
         {
             get
@@ -32,7 +39,9 @@ namespace AideDeJeuLib
                 }
             }
         }
+        [DataMember]
         public string Source { get; set; }
-        public string Markdown { get; set; }
+        [DataMember]
+        public virtual string Markdown { get; set; }
     }
 }

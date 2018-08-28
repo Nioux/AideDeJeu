@@ -1,13 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.Serialization;
 using System.Text;
 using Markdig.Syntax;
 
 namespace AideDeJeuLib
 {
+    [DataContract]
     public class HomeItem : Item
     {
-        public new string Markdown
+        [DataMember]
+        public override string Id
+        {
+            get
+            {
+                return "index.md";
+            }
+            set
+            {
+            }
+        }
+
+        [DataMember]
+        public override string Markdown
         {
             get
             {

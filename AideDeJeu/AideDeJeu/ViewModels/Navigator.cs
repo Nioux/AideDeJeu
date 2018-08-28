@@ -73,11 +73,14 @@ namespace AideDeJeu.ViewModels
             }
             else if(context is ItemsViewModel)
             {
-                item = (context as ItemsViewModel).Items;
+                item = (context as ItemsViewModel).AllItems;
             }
-            await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
-            var vm = new BookmarksViewModel();
-            await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarksKeyValues.Select(kv => kv.Key).ToArray());
+            //await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
+            var vm = Main.Bookmarks;
+            var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarksKeyValues.Select(kv => kv.Key).ToArray());
+            var kval = vm.BookmarksKeyValues.FirstOrDefault(kv => kv.Key == result);
+            kval.Value.Add(item);
+            await vm.SaveBookmarksAsync();
         }
 
         public async Task GotoItemDetailPageAsync(Item item)

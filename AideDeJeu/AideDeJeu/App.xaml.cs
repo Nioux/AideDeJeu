@@ -15,6 +15,7 @@ namespace AideDeJeu
 			InitializeComponent();
 
             DependencyService.Register<MainViewModel>();
+            DependencyService.Register<BookmarksViewModel>();
             var vm = DependencyService.Get<MainViewModel>();
             var tabbeddPage = new AideDeJeu.Views.MainTabbedPage();
             //var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()) { Title = "Haches & Dés" });

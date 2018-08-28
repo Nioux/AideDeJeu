@@ -16,6 +16,13 @@ namespace AideDeJeu.ViewModels
                 return DependencyService.Get<MainViewModel>();
             }
         }
+        public BookmarksViewModel Bookmarks
+        {
+            get
+            {
+                return DependencyService.Get<BookmarksViewModel>();
+            }
+        }
 
         bool isBusy = false;
         public bool IsBusy
