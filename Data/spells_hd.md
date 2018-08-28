@@ -29,8 +29,6 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 **_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de [Force] et des [jets de sauvegarde] de [Force] jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
-
-
 </Spell>
 
 <Spell>
@@ -52,8 +50,6 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chacune d'entre elles augmentent de 5 pendant toute la durée du sort.
 
 **_À plus haut niveau._** Quand vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 points supplémentaires pour chaque niveau au-delà du niveau 2.
-
-
 
 </Spell>
 
@@ -78,8 +74,6 @@ Vous installez une alarme pour vous avertir en cas d'intrusion. Choisissez une p
 Une alarme mentale vous avertit d'un tintement dans votre tête tant que vous vous trouvez dans un rayon de 1,5 kilomètre autour de la zone protégée. Ce tintement suffit à vous réveiller si vous êtes endormi.
 
 Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes et retentit dans un rayon de 18 mètres.
-
-
 
 </Spell>
 
@@ -115,8 +109,6 @@ Si vous êtes incapable de vous mettre d'accord avec la créature sur le prix de
 
 Une telle créature enrôlée dans votre groupe compte comme un membre à part entière et reçoit sa part de points d'expérience.
 
-
-
 </Spell>
 
 <Spell>
@@ -151,8 +143,6 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez prendre une créature de plus pour cible par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -174,8 +164,6 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une [Intelligence] de 4 ou plus. Dans le cas contraire, elle doit réussir un [jet de sauvegarde] de [Sagesse] ou être [charmée] par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -204,8 +192,6 @@ Elle devient un squelette si vous avez lancé le sort sur un tas d'os, et un zom
 La créature est placée sous votre contrôle pendant 24 heures, après quoi elle cesse d'obéir aux ordres que vous lui avez donnés. Pour la contrôler pendant 24 heures de plus, il vous faut relancer ce sort sur elle avant la fin de la période de 24 heures pendant laquelle il fait effet. Si vous utilisez ce sort ainsi, il vous permet de réaffirmer votre contrôle sur un maximum de quatre créatures animées grâce à lui plutôt que d'en animer une nouvelle.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous animez ou réaffirmez votre contrôle sur deux créatures de plus par niveau au-delà du niveau 3. Chaque créature doit provenir d'un tas d'os ou d'un cadavre différent.
-
-
 
 </Spell>
 
@@ -245,8 +231,6 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez animer deux objets supplémentaires par emplacement au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -270,8 +254,6 @@ Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20
 * Vous débarrassez temporairement la cible de tout état [charmé] ou [terrorisé]. Une fois le sort terminé, l'état s'applique de nouveau, à moins que sa durée n'ait expiré.
 
 * Vous rendez la cible indifférente vis-à-vis des créatures de votre choix, envers lesquelles elle était auparavant hostile. Cette indifférence prend fin si la cible est attaquée ou affectée par un sort néfaste, ou bien si elle voit l'un de ses amis être ainsi agressé. La cible redevient hostile dès que le sort se termine, à moins que le MJ n'en décide autrement.
-
-
 
 </Spell>
 
@@ -302,8 +284,6 @@ Vous pouvez faire croire que chaque créature affectée est plus petite ou plus 
 Les changements apportés par le sort ne résistent pas à un examen physique. Par exemple, si vous l'utilisez pour ajouter un chapeau à la tenue de la cible, les objets passent au travers et toute personne qui essaie de le toucher ne sentira que de l'air ou des cheveux et un crâne. Si vous utilisez le sort pour la faire paraître plus mince qu'en réalité, la main de quelqu'un qui tente de la toucher se heurtera à son corps alors que, visuellement, elle semble encore dans le vide.
 
 Une créature peut utiliser son action pour examiner une cible et faire un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] du sort. Si elle le réussit, elle comprend que la cible est déguisée.
-
-
 
 </Spell>
 
@@ -337,8 +317,6 @@ Vous ne pouvez avoir qu'un seul familier à la fois. Si vous lancez ce sort alor
 
 Enfin, quand vous lancez un sort avec une portée de « contact », votre familier peut livrer le sort comme si c'était lui qui le lançait. Il doit se trouver à 30 mètres ou moins de vous et utiliser sa réaction pour transmettre le sort au moment où vous le lancez. Si le sort exige un jet d'attaque, vous utilisez votre propre modificateur d'attaque lors du jet.
 
-
-
 </Spell>
 
 <Spell>
@@ -365,15 +343,11 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 3.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Arc enchanté</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Enchantement</Type> de niveau <Level>5</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -390,8 +364,6 @@ Vous enchantez votre arc (ou votre arbalète). Pendant 1 minute, à chaque fois 
 Personne d'autre que vous ne peut l'utiliser et, si vous relâchez la corde sans tirer, la flèche disparaît simplement.
 
 Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plus, vous pouvez utiliser une action bonus afin d'effectuer une attaque à distance supplémentaire avec l'arc (ou l'arbalète).
-
-
 
 </Spell>
 
@@ -415,15 +387,11 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le bonus passe à +2, et à +3 si vous utilisez un emplacement de niveau 6 ou plus.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Arme sainte</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Transmutation</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -438,8 +406,6 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusqu'à la fin du sort, l'arme est considérée comme étant une arme magique. Lorsque vous attaquez un mort-vivant ou un fiélon avec cette arme, vous bénéficiez d'un avantage à vos jets d'attaque et vous infligez 1d8 dégâts radiants supplémentaires.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le bonus de dégâts passe à 2d8.
-
-
 
 </Spell>
 
@@ -469,8 +435,6 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 tous les 2 niveaux au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -490,8 +454,6 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 ### Description
 
 Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La CA de base de la cible passe à 13 + son modificateur de [Dextérité]. Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
-
-
 
 </Spell>
 
@@ -515,8 +477,6 @@ Vous arrêtez brièvement le cours du temps pour tout le monde sauf vous. Le tem
 
 Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de temps ou l'un des effets que vous créez lors de ce laps de temps affecte une créature autre que vous ou un objet porté ou transporté par une créature autre que vous. Le sort se termine également si vous vous éloignez à plus de 300 mètres de l'endroit où vous l'avez lancé.
 
-
-
 </Spell>
 
 <Spell>
@@ -538,8 +498,6 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux créatures à portée situées à 1,50 mètre ou moins l'une de l'autre. Une cible doit réussir un [jet de sauvegarde] de [Dextérité], sinon elle subit 1d6 dégâts d'acide.
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
-
-
 
 </Spell>
 
@@ -567,8 +525,6 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 4.
 
-
-
 </Spell>
 
 <Spell>
@@ -588,8 +544,6 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 ### Description
 
 Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer 1d4 et ajouter le résultat obtenu au test de caractéristique de son choix. Elle peut lancer le dé avant ou après le test. Le sort se termine alors.
-
-
 
 </Spell>
 
@@ -623,15 +577,11 @@ Le sort ne tient pas compte d'une éventuelle modification des circonstances, co
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d'une prémonition fiable. C'est au MJ de faire ce jet en secret.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Aura de force</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Abjuration</Type> de niveau <Level>5</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -645,15 +595,11 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un avantage à tous les tests et les [jets de sauvegarde] de [Force].
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Aura du héros</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Enchantement</Type>, <Level>tour de magie</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -668,8 +614,6 @@ Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et
 Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéficiez d'un avantage à tous vos tests de [Charisme] visant les créatures situées dans l'aura. À la fin du sort, les créatures qui en ont subi l'influence peuvent faire un [jet de sauvegarde] d'[Intelligence]. En cas de réussite, elles se rendent compte avoir été influencées par magie et elles peuvent, à la discrétion du MJ, en concevoir de l'hostilité.
 
 Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
-
-
 
 </Spell>
 
@@ -697,8 +641,6 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 
 **_Masque._** Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme le sens divin d'un paladin ou le déclencheur d'un sort de [symbole]. Vous choisissez un type de créatures : les autres sorts et effets magiques traitent la cible comme si elle appartenait au type ou à l'alignement choisi.
 
-
-
 </Spell>
 
 <Spell>
@@ -721,8 +663,6 @@ Une lumière divine émane de votre personne dans un rayon de 9 mètres et forme
 
 Les créatures de votre choix qui se trouvent dans cette zone au moment où vous lancez ce sort émettent une faible lumière dans un rayon de 1,50 mètre. De plus, jusqu'à la fin du sort, elles ont l'avantage lors des [jets de sauvegarde] tandis que les autres créatures subissent un désavantage quand elles effectuent un jet d'attaque contre elles. Quand un fiélon ou un mort-vivant touche une créature affectée avec une attaque au corps-à-corps, l'aura qui enveloppe la créature flamboie soudain. L'assaillant doit réussir un [jet de sauvegarde] de [Constitution] ou se retrouver [aveuglé] jusqu'à la fin du sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -742,8 +682,6 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 ### Description
 
 Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme], vous pouvez remplacer le nombre obtenu au dé par un 15. De plus, quoi que vous disiez, la magie visant à déterminer si vous dites la vérité vous identifie toujours comme sincère.
-
-
 
 </Spell>
 
@@ -769,8 +707,6 @@ Une créature peut utiliser son action pour manger une baie, ce qui lui rend 1 p
 
 Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures qui suivent l'incantation.
 
-
-
 </Spell>
 
 <Spell>
@@ -792,8 +728,6 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 Un rayon de lumière frappe une créature de votre choix située à portée. Faites un jet d'attaque de sort à distance contre elle. Si vous le réussissez, elle subit 4d6 dégâts radiants et scintille d'une faible lumière mystique jusqu'à la fin de votre prochain tour. D'ici là et grâce à cette lueur, le prochain jet d'attaque effectué contre elle bénéficie d'un avantage.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -825,8 +759,6 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 4.
 
-
-
 </Spell>
 
 <Spell>
@@ -848,8 +780,6 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 Vous créez un mur vertical constitué de lames tournoyantes faites d'énergie magique et tranchantes comme des rasoirs. Le mur apparaît à portée et persiste pour toute la durée du sort. Vous pouvez créer un mur droit d'un maximum de 30 mètres de long, 6 mètres de haut et 1,50 mètre d'épaisseur, ou un mur circulaire d'un maximum de 18 mètres de diamètre, 6 mètres de haut et 1,50 mètre d'épaisseur. Le mur offre un abri important aux créatures qui se trouvent derrière lui, et son espace est traité comme un terrain difficile.
 
 Quand une créature pénètre dans la zone du mur pour la première fois au cours de son tour ou quand elle commence son tour dans cette zone, elle doit faire un [jet de sauvegarde] de [Dextérité]. Si elle le rate, elle subit 6d10 dégâts tranchants ; si elle le réussit, elle en subit seulement la moitié.
-
-
 
 </Spell>
 
@@ -873,15 +803,11 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Bénédiction héroïque</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Divination</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -894,8 +820,6 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 ### Description
 
 Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un avantage au jet d'attaque sur la première attaque de chacun de vos tours pour toute la durée du sort.
-
-
 
 </Spell>
 
@@ -918,8 +842,6 @@ Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cib
 Faites une attaque de sort au corps-à-corps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous la touchez, elle subit 3d10 dégâts nécrotiques.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -947,8 +869,6 @@ Quand les conditions de déclenchement sont remplies, une bouche magique appara�
 
 Ces dernières peuvent être aussi génériques ou spécifiques que vous le désirez, mais elles doivent se baser sur des données visuelles ou audibles, perceptibles dans un rayon de 9 mètres autour de l'objet. Par exemple, vous pouvez ordonner à la bouche de parler dès qu'une créature approche à 9 mètres ou moins de l'objet ou quand une cloche d'argent retentit dans un rayon de 9 mètres.
 
-
-
 </Spell>
 
 <Spell>
@@ -968,8 +888,6 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 ### Description
 
 Une barrière [invisible] faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort _[projectile magique]_.
-
-
 
 </Spell>
 
@@ -995,8 +913,6 @@ Les flammes vous offrent un bouclier chaud ou froid, comme bon vous semble. Le b
 
 De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous vous touche avec une attaque au corps-à-corps, le bouclier génère une gerbe de flammes. Si le bouclier est chaud, il inflige 2d8 dégâts de feu à l'assaillant, s'il est froid, il lui inflige 2d8 dégâts de froid.
 
-
-
 </Spell>
 
 <Spell>
@@ -1016,8 +932,6 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 ### Description
 
 Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la CA pendant toute la durée du sort.
-
-
 
 </Spell>
 
@@ -1040,8 +954,6 @@ Un champ scintillant apparaît autour d'une créature de votre choix située à 
 Vous tendez la main en direction d'une créature située à portée et dans votre champ de vision et projetez une bouffée de gaz toxique sortie de votre paume. La créature doit réussir un [jet de sauvegarde] de [Constitution] ou subir 1d12 dégâts de poison.
 
 Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12), 11 (3d12) et 17 (4d12).
-
-
 
 </Spell>
 
@@ -1066,8 +978,6 @@ Une traînée luisante part de votre doigt tendu et file vers un point de votre 
 Le feu s'étend en contournant les angles. Il embrase les objets inflammables de la zone, à moins que quelqu'un ne les porte ou ne les transporte.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
-
-
 
 </Spell>
 
@@ -1099,8 +1009,6 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 8 ou supérieur, les dégâts de base augmentent de 1d6 par niveau au-delà du niveau 7.
 
-
-
 </Spell>
 
 <Spell>
@@ -1126,8 +1034,6 @@ Une créature qui se trouve dans la zone doit dépenser 60 centimètres de mouve
 La bourrasque disperse les gaz et les vapeurs et éteint les bougies, les torches et autres flammes nues similaires dans la zone. Les flammes protégées, par une lanterne par exemple, s'agitent follement et ont 50 % de chance de s'éteindre.
 
 Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'une action bonus à chacun de vos tours jusqu'à la fin du sort.
-
-
 
 </Spell>
 
@@ -1155,15 +1061,11 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Brûlure du juste</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1184,8 +1086,6 @@ La lumière est semblable à la lumière du soleil.
 Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en cas de [jet de sauvegarde] réussi.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -1217,8 +1117,6 @@ Une créature enfermée dans la cage ne peut pas la quitter par des moyens non-m
 
 La _[dissipation de la magie]_ est sans effet sur ce sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -1241,15 +1139,11 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Catalepsie</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Nécromancie</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1270,8 +1164,6 @@ Il ne ressent aucune blessure ou autre mauvais traitement et aucune réaction co
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau supérieur, sa durée augmente et le sort s'apparente alors à une longue hibernation (la cible ne vieillit plus pendant cette période) : un jour au niveau 4, une semaine au niveau 5, un mois au niveau 6, un an au niveau 7, dix ans au niveau 8 et enfin jusqu'à un siècle au niveau 9. Lorsqu'elle sort de catalepsie, la cible subit un niveau d'épuisement par niveau du sort au-delà du niveau 3 (jusqu'à un maximum de 5).
 
 Au niveau 9, la cible doit réussir un [jet de sauvegarde] de constitution difficulté 8 + 1 tous les dix ans écoulés lorsqu'elle sort du sommeil, ou mourir immédiatement.
-
-
 
 </Spell>
 
@@ -1297,8 +1189,6 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -1320,8 +1210,6 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir d'un point situé à portée. Chaque créature située dans la sphère doit faire un [jet de sauvegarde] de [Constitution]. Celles qui échouent subissent 8d6 dégâts nécrotiques, les autres la moitié seulement.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 2d6 par niveau au-delà du niveau 6.
-
-
 
 </Spell>
 
@@ -1350,8 +1238,6 @@ Nombre de temples majeurs, de guildes et d'autres lieux d'importance possèdent 
 Chacun de ces cercles utilise une séquence de symboles uniques : une série de runes magiques disposées selon un motif particulier. Lorsque vous apprenez à lancer ce sort, vous apprenez la séquence associée à deux destinations situées sur le plan matériel et déterminées par le MJ. Vous pouvez apprendre d'autres séquences de symboles au cours de vos aventures. Pour en mémoriser une, vous devez l'étudier pendant 1 minute.
 
 Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au même endroit tous les jours pendant un an. Vous n'avez pas besoin d'utiliser le cercle pour vous téléporter quand vous lancez ce sort pour cela.
-
-
 
 </Spell>
 
@@ -1387,8 +1273,6 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, la durée du sort augmente d'une heure par niveau au-delà du niveau 3.
 
-
-
 </Spell>
 
 <Spell>
@@ -1416,8 +1300,6 @@ Une cible peut être une créature ou un objet et ne peut recevoir qu'un seul é
 Chaque cible doit faire un [jet de sauvegarde] de [Dextérité] et subit 10d8 dégâts de foudre en cas d'échec, la moitié en cas de réussite.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, un éclair de plus rebondit de la première cible vers une autre pour chaque niveau au-delà du niveau 6.
-
-
 
 </Spell>
 
@@ -1457,8 +1339,6 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 
 **_Dissipation de la magie._** Les sorts et les effets magiques comme _[dissipation de la magie]_ n'ont aucun effet sur la sphère. De même, les sphères issues de divers sorts de _[champ antimagie]_ ne s'annulent pas les unes les autres.
 
-
-
 </Spell>
 
 <Spell>
@@ -1493,8 +1373,6 @@ Quand vous vous transformez, vous choisissez si votre équipement tombe au sol, 
 
 Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une nouvelle forme répondant aux mêmes critères et aux mêmes règles que précédemment, à une exception : si votre nouvelle forme possède plus de points de vie que la précédente, votre nombre de points de vie reste tel qu'il était.
 
-
-
 </Spell>
 
 <Spell>
@@ -1521,8 +1399,6 @@ S'il est trop étroit pour accueillir toutes les créatures qui voyagent avec vo
 
 Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur un autre plan. Choisissez une créature à votre portée et faites une attaque de sort au corps-à-corps contre elle. Si vous touchez, elle doit réussir un [jet de sauvegarde] de [Charisme] ou être transporté en un endroit aléatoire du plan d'existence que vous nommez. Une fois à cet endroit, c'est à elle de trouver un moyen de rentrer sur son plan d'origine.
 
-
-
 </Spell>
 
 <Spell>
@@ -1544,8 +1420,6 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ de vision. Il doit faire un [jet de sauvegarde] de [Sagesse], pour lequel il dispose d'un avantage si vous ou vos compagnons êtes actuellement en train de le combattre. S'il rate son test, il est [charmé] par vous jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez du mal. La créature [charmée] vous considère comme un ami. Quand le sort se termine, elle sait que vous l'avez [charmée].
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez charmer une créature de plus par niveau au-delà du niveau 1. Toutes les cibles doivent se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
-
-
 
 </Spell>
 
@@ -1575,8 +1449,6 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -1601,15 +1473,11 @@ Le chien est [invisible] pour tout le monde sauf pour vous, et il est impossible
 
 Au début de votre tour, le chien tente de mordre une créature qui vous est hostile, située dans un rayon de 1,50 mètre autour de lui. Son bonus d'attaque est égal à votre modificateur de caractéristique d'incantation + votre bonus de maîtrise. S'il touche, il inflige 4d8 dégâts perforants.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Choc des titans</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Enchantement</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1622,8 +1490,6 @@ Au début de votre tour, le chien tente de mordre une créature qui vous est hos
 ### Description
 
 Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un avantage à votre première attaque à chacun de vos tours.
-
-
 
 </Spell>
 
@@ -1651,8 +1517,6 @@ Vous pouvez dépenser une action pour passer de la vue à l'ouïe ou inversement
 
 Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple de voir l'invisible ou de vision parfaite) le perçoit comme un orbe lumineux intangible de la taille de votre poing.
 
-
-
 </Spell>
 
 <Spell>
@@ -1675,8 +1539,6 @@ Pendant toute la durée du sort, vous lancez 1d20 à la fin de chacun de vos tou
 
 Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se passe sur le plan d'où vous venez, qui apparaît sous forme d'ombres grises, mais votre vision ne porte pas au-delà de 18 mètres. Vous pouvez seulement affecter des créatures se trouvant sur le plan éthéré et elles sont les seules à pouvoir vous affecter. Les créatures qui ne se trouvent pas sur ce plan ne peuvent ni vous percevoir, ni interagir avec vous, à moins qu'elles ne disposent d'un pouvoir le leur permettant.
 
-
-
 </Spell>
 
 <Spell>
@@ -1698,8 +1560,6 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 Ce sort génère la réplique inerte d'une créature vivante, pour la protéger de la mort. Le clone se forme au sein d'un réceptacle scellé et grandit jusqu'à atteindre sa taille adulte et sa maturité en 120 jours ; cependant, vous pouvez décider que le clone sera une version plus jeune de la créature qu'il reproduit. Il reste inerte et indéfiniment dans le même état tant que le réceptacle reste scellé.
 
 Une fois que le clone est arrivé à maturité, si la créature originale meurt, son âme se transfère dans le clone, à condition que cette âme soit libre et désireuse de revenir à la vie. D'un point de vue physique, le clone est identique à l'original. De plus, il possède la même personnalité, les mêmes souvenirs et les mêmes capacités, mais il n'hérite pas de son équipement. Les restes physiques de la créature originale ne disparaissent pas. S'ils ne sont pas détruits, ils deviennent inertes et ne peuvent pas servir à ramener la créature à la vie puisque son âme se trouve ailleurs.
-
-
 
 </Spell>
 
@@ -1731,8 +1591,6 @@ Vous pouvez mettre prématurément fin au sort en dépensant une action pour le 
 
 Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un le dissipe avec l'un des sorts mentionnés précédemment.
 
-
-
 </Spell>
 
 <Spell>
@@ -1759,15 +1617,11 @@ Au bout de 60 jours, il y a 5 % de chances cumulatifs par jour que les effets du
 
 Si le sort se termine alors que le grand coffre est encore sur le plan éthéré, ce coffre est irrémédiablement perdu.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Colère des damnés</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1783,15 +1637,11 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Collet magique</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -1810,8 +1660,6 @@ Elle peut se relever normalement avec sa prochaine action.
 Une créature [entravée] peut utiliser son action à chaque tour pour faire un nouveau [jet de sauvegarde] de [Dextérité] ou de [Force] au choix afin de se délivrer. Toutefois, à chaque fois qu'elle lutte pour échapper aux liens, ceux-ci se resserrent et lui infligent 1d6 dégâts tranchants. Tant qu'elle n'essaye pas de se délivrer, elle ne subit pas de dégât.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, le sort affecte une cible supplémentaire par niveau au-delà du niveau 2.
-
-
 
 </Spell>
 
@@ -1837,8 +1685,6 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts de feu ou les dégâts radiants (à vous de choisir) augmentent de 1d6 par niveau au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -1858,8 +1704,6 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 ### Description
 
 Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec elles pendant toute la durée du sort. Les connaissances et le degré de conscience de nombreuses bêtes sont limités par leur intelligence réduite, mais elles peuvent au moins vous renseigner sur les environs et les monstres aux alentours, ainsi que sur ce qu'elles perçoivent aujourd'hui ou ont perçu la veille. Si le MJ accepte, vous pouvez convaincre une bête de vous accorder une petite faveur.
-
-
 
 </Spell>
 
@@ -1882,8 +1726,6 @@ Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec
 Vous donnez un semblant de vie et d'intelligence à un cadavre de votre choix situé à portée. Il est alors en mesure de répondre à vos questions. Le cadavre doit encore disposer d'une bouche et ne doit pas être un mort-vivant. Le sort échoue si le cadavre choisi a déjà été la cible de ce sort au cours des 10 jours précédents.
 
 Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les connaissances du cadavre se limitent à ce qu'il savait de son vivant, y compris au niveau des langues qu'il est capable de parler. Les réponses sont souvent brèves, cryptiques ou répétitives et le cadavre n'est absolument pas obligé de vous donner une réponse sincère si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne ramène pas l'âme de la cible dans son corps, juste l'esprit qui l'animait ; le cadavre ne peut donc pas apprendre de nouvelles informations, ne comprend rien de ce qui s'est passé après sa mort et est incapable de faire des spéculations sur l'avenir.
-
-
 
 </Spell>
 
@@ -1913,8 +1755,6 @@ Si une créature végétale se trouve dans la zone, vous pouvez communiquer avec
 
 Ce sort permet de libérer une créature [entravée] par les plantes nées d'un sort d'_[enchevêtrement]_.
 
-
-
 </Spell>
 
 <Spell>
@@ -1938,8 +1778,6 @@ Vous entrez en contact avec votre divinité ou l'un de ses représentants et lui
 Les êtres divins ne sont pas forcément omniscients, il se peut donc que vous obteniez « incertain » comme réponse si votre question porte sur des informations sortant du champ des connaissances de votre divinité. Si une réponse d'un seul mot risque de se révéler trompeuse ou contraire aux intérêts de la divinité, le MJ peut lui substituer une courte phrase.
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances (cumulables) que chaque incantation en sus de la première ne reçoive pas de réponse. Le MJ effectue ce jet en secret.
-
-
 
 </Spell>
 
@@ -1979,15 +1817,11 @@ Vous obtenez instantanément des informations sur un maximum de trois éléments
 
 Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résidant dans la zone, savoir où se trouvent les points d'eau potable majeurs et où se trouvent les villages les plus proches.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Compagnon animal</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Enchantement</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
@@ -2023,8 +1857,6 @@ Chaque jour, vous pouvez conserver le même compagnon animal sans devoir à nouv
 
 Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie aussi.
 
-
-
 </Spell>
 
 <Spell>
@@ -2047,8 +1879,6 @@ Pendant toute la durée du sort, vous comprenez le sens littéral de tout langag
 
 Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un _[symbole]_ magique.
 
-
-
 </Spell>
 
 <Spell>
@@ -2070,8 +1900,6 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 Les créatures de votre choix, situées à portée, dans votre champ de vision et en mesure de vous entendre, doivent réussir un [jet de sauvegarde] de [Sagesse] ou être affectées par le sort. Une cible qui ne peut être [charmée] réussit automatiquement ce jet. À chaque tour jusqu'à la fin du sort, vous pouvez utiliser une action bonus pour désigner une direction (vers laquelle la cible peut se diriger) par rapport à vous. Chaque cible affectée doit alors utiliser son déplacement au mieux pour se diriger dans cette direction à son prochain tour. De plus, elle ne peut pas effectuer d'action avant de se déplacer. Une fois qu'elle s'est ainsi déplacée, elle peut faire un nouveau [jet de sauvegarde] de [Sagesse] pour tenter de mettre un terme à l'effet du sort.
 
 Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dangereuse, comme un brasier ou une fosse béante, mais elle est prête à provoquer des attaques d'opportunité pour se déplacer dans la direction indiquée.
-
-
 
 </Spell>
 
@@ -2096,8 +1924,6 @@ Une bouffée d'air froid jaillit de vos mains. Toutes les créatures présentes 
 Une créature qui succombe suite à ce sort se transforme en statue de glace jusqu'à ce qu'elle fonde.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 5.
-
-
 
 </Spell>
 
@@ -2134,8 +1960,6 @@ Une créature affectée peut faire un [jet de sauvegarde] de [Sagesse] à la fin
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, le rayon de la sphère augmente de 1,50 mètre par niveau au-delà du niveau 4.
 
-
-
 </Spell>
 
 <Spell>
@@ -2162,8 +1986,6 @@ Si votre cible est un mort-vivant, il subit en plus un désavantage lors des jet
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).
 
-
-
 </Spell>
 
 <Spell>
@@ -2187,8 +2009,6 @@ Vous contactez mentalement un demi-dieu, l'esprit d'un sage décédé depuis lon
 En cas d'échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusqu'à ce que vous ayez bénéficié d'un repos long. Tant que vous êtes fou, vous ne pouvez pas entreprendre la moindre action, vous ne comprenez pas ce que disent les autres créatures, vous êtes incapable de lire et vous ne bredouillez que des paroles insensées. Une tierce personne peut mettre un terme à cet effet en vous ciblant avec un sort de _[restauration supérieure]_.
 
 Si vous réussissez votre [jet de sauvegarde], vous pouvez poser jusqu'à cinq questions à l'entité. Vous devez les poser avant la fin du sort. C'est le MJ qui répond à chacune d'entre elles avec un mot, comme « oui », « non », « peutêtre », « jamais », « hors sujet » ou « incertain » (si l'entité ignore la réponse à votre question). Si une réponse limitée à un seul mot risque de se révéler trompeuse, le MJ peut la remplacer par une courte phrase.
-
-
 
 </Spell>
 
@@ -2232,8 +2052,6 @@ Elle subit un désavantage lors des tests de [Sagesse] et des [jets de sauvegard
 
 Elle subit un désavantage lors des tests de [Charisme] et devient vulnérable à tous les dégâts.
 
-
-
 </Spell>
 
 <Spell>
@@ -2253,8 +2071,6 @@ Elle subit un désavantage lors des tests de [Charisme] et devient vulnérable �
 ### Description
 
 Vous transmettez une maladie virulente à une créature située à portée et dans votre champ de vision. La cible doit faire un [jet de sauvegarde] de [Constitution]. Si elle échoue, elle subit 14d6 dégâts nécrotiques, la moitié seulement si elle réussit. Ces dégâts ne peuvent pas faire passer les points de vie de la cible au-dessous de 1. Si la cible rate son [jet de sauvegarde], son total de points de vie maximum est réduit, pendant 1 heure, d'un montant égal aux dégâts nécrotiques reçus. Tout effet qui guérit les maladies ramène le maximum de points de vie de la cible à la normale sans avoir besoin d'attendre 1 heure.
-
-
 
 </Spell>
 
@@ -2282,8 +2098,6 @@ Le sort contingent affecte uniquement votre personne, même s'il peut normalemen
 
 Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en lancez un second, les effets du précédent se dissipent. De plus, la contingence prend fin si sa composante matérielle n'est plus sur votre personne.
 
-
-
 </Spell>
 
 <Spell>
@@ -2307,8 +2121,6 @@ Vous tentez d'interrompre une créature en pleine incantation.
 Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste sans effet. Si le sort est de niveau 4 ou plus, faites un test de caractéristique en utilisant votre caractéristique d'incantation. Le DD est de 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et reste sans effet.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort à interrompre est automatiquement sans effet s'il est d'un niveau égal ou inférieur à celui de l'emplacement de sort utilisé.
-
-
 
 </Spell>
 
@@ -2343,8 +2155,6 @@ Le niveau de l'eau reste plus élevé jusqu'à la fin du sort ou jusqu'à ce que
 **_Tourbillon._** Cet effet nécessite une étendue d'eau d'au moins 15 mètres carrés pour 7,50 mètres de fond et se traduit par la formation d'un tourbillon au centre de la zone. Il se présente sous forme d'un vortex de 1,50 mètre de large à sa base pour un maximum de 15 mètres de large au sommet et une hauteur de 7,50 mètres. Toutes les créatures et tous les objets qui se trouvent dans l'eau et dans un rayon de 7,50 mètres autour du tourbillon sont entraînés vers lui sur 3 mètres. Une créature peut s'éloigner à la nage si elle réussit un test de [Force (Athlétisme)] contre le DD du [jet de sauvegarde] de votre sort.
 
 Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un [jet de sauvegarde] de [Force]. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de [Force (Athlétisme)]. À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
-
-
 
 </Spell>
 
@@ -2403,7 +2213,6 @@ Vent
 |4|Grand vent|
 |5|Tempête|
 
-
 </Spell>
 
 <Spell>
@@ -2432,8 +2241,6 @@ Si l'objet est actuellement porté ou transporté par quelqu'un d'autre, il n'ar
 
 _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un terme à l'effet du sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -2457,8 +2264,6 @@ Une barrière scintillante se déploie depuis votre personne, jusqu'à englober 
 La barrière empêche les créatures affectées de la franchir ou de passer un membre au travers. Une créature affectée peut lancer des sorts ou porter des attaques à distance ou via une arme à allonge, tout cela franchissant la barrière.
 
 Si vous vous déplacez de telle manière qu'une créature affectée est contrainte de traverser la barrière, le sort se termine.
-
-
 
 </Spell>
 
@@ -2488,8 +2293,6 @@ Les attaques et les sorts ne peuvent traverser l'entrée de l'espace extradimens
 
 Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quand le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
@@ -2513,8 +2316,6 @@ Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez
 Chaque créature affectée, en commençant par celle qui possède actuellement le moins de points de vie, est [aveuglée] jusqu'à la fin du sort. Soustrayez du total obtenu le nombre de points de vie actuel de chaque créature affectée avant de passer à la suivante, en choisissant chaque fois celle qui possède le moins de points de vie. Pour qu'une créature soit affectée, elle doit posséder un nombre de points de vie actuels inférieur ou égal au total restant.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d10 supplémentaires par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -2552,8 +2353,6 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, l'arête du cube augmente de 1,50 mètre par niveau au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -2586,8 +2385,6 @@ Quand vous le lancez à partir d'un emplacement de niveau 8, vous pouvez animer 
 
 Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer ou maintenir votre contrôle sur six goules ou trois blêmes ou trois nécrophages ou deux momies.
 
-
-
 </Spell>
 
 <Spell>
@@ -2607,8 +2404,6 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 ### Description
 
 Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Cela suffit à nourrir et abreuver un maximum de quinze humanoïdes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.
-
-
 
 </Spell>
 
@@ -2638,8 +2433,6 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous créez ou détruisez 40 litres d'eau de plus, ou bien l'arête du cube affecté augmente de 1,50 mètre par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
@@ -2661,8 +2454,6 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se met à se déformer et donne naissance à un tapis de pointes et d'épines. La zone se mue en terrain difficile pendant toute la durée du sort. Quand une créature entre dans la zone ou s'y déplace, elle reçoit 2d4 dégâts perforants par tranche de 1,50 mètre parcouru.
 
 La transformation du sol est camouflée, de manière à ce que le terrain ait l'air naturel. Une créature dans l'incapacité de voir la zone au moment de l'incantation doit réussir un test de [Sagesse (Perception)] contre le DD du [jet de sauvegarde] de votre sort pour remarquer que le terrain est dangereux avant d'y entrer.
-
-
 
 </Spell>
 
@@ -2692,8 +2483,6 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 
 **_Si vous lancez le sort sur une période de huit heures, vous enrichissez la terre._** Toute la végétation dans un rayon de 800 mètres autour d'un point de votre choix situé à portée devient luxuriante pendant un an. Elle donne deux fois plus de nourriture que la normale lors de la récolte.
 
-
-
 </Spell>
 
 <Spell>
@@ -2717,8 +2506,6 @@ Choisissez une créature située à portée et dans votre champ de vision. La ci
 Une fois que la créature s'est mise à danser, elle doit dépenser la totalité de son déplacement pour danser sans quitter son espace. De plus, elle souffre d'un désavantage lors des [jets de sauvegarde] de [Dextérité] et des jets d'attaque.
 
 Tant que la cible est affectée par ce sort, les autres créatures bénéficient d'un avantage lors de leurs jets d'attaque contre elle. Une créature en train de danser peut utiliser son action pour effectuer un [jet de sauvegarde] de [Sagesse] et reprendre le contrôle de son corps. Si elle réussit, le sort se termine.
-
-
 
 </Spell>
 
@@ -2744,8 +2531,6 @@ Une cible fermée par une serrure ordinaire, coincée ou bloquée par une barre 
 
 Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu'on l'entend dans un rayon de 90 mètres.
 
-
-
 </Spell>
 
 <Spell>
@@ -2770,8 +2555,6 @@ Les changements qu'apporte le sort ne résistent pas à un examen physique. Par 
 
 Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] du sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -2793,8 +2576,6 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 Vous créez une porte floue sur une surface plate et solide située à portée et dans votre champ de vision. Elle est assez large pour laisser passer sans mal des créatures de taille M. Quand quelqu'un ouvre la porte, elle donne sur un demi-plan ressemblant à une pièce vide de 9 mètres de côté (dans toutes les dimensions) faite de bois ou de pierre. La porte disparaît quand le sort se termine et les créatures et les objets encore dans le demi-plan y restent piégés, car elle s'efface aussi de leur côté.
 
 Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relier la porte à un demi-plan que vous avez précédemment créé via ce sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan qu'une autre créature a créé grâce à ce sort, vous pouvez lui relier votre propre porte.
-
-
 
 </Spell>
 
@@ -2821,8 +2602,6 @@ Au bout de chaque période de 10 minutes passées à vous concentrer sur le sort
 Ce sort est incapable de manipuler la pierre naturelle et les constructions de pierre. La roche et les structures s'adaptent au nouvel agencement du terrain. Si vos mo- difications déstabilisent une structure, elle peut très bien s'effondrer.
 
 De même, le sort n'affecte pas directement la croissance des plantes. La terre déplacée emporte les végétaux avec elle.
-
-
 
 </Spell>
 
@@ -2852,15 +2631,11 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 3d6 par niveau au-delà du niveau 6.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Dessiccation</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Transmutation</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -2877,8 +2652,6 @@ Vous désignez une cible vivante à portée du sort et tant que vous vous concen
 Les morts-vivants, les créatures artificielles et les élémentaires sont immunisés à ce sort.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez affecter une cible supplémentaire par niveau d'emplacement au-delà du niveau 2.
-
-
 
 </Spell>
 
@@ -2901,8 +2674,6 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 Pendant toute la durée du sort, vous percevez la présence de magie dans un rayon de 9 mètres autour de vous. Si vous percevez ainsi la magie, vous pouvez utiliser votre action pour discerner une faible aura autour d'une créature ou d'un objet visible dans la zone et imprégné de magie. Vous découvrez aussi à quelle école appartient cette magie, le cas échéant.
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
-
-
 
 </Spell>
 
@@ -2940,8 +2711,6 @@ Vous pouvez chercher les pensées qui se trouvent dans un rayon de 9 mètres aut
 
 Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez lire ses pensées pendant le reste de la durée du sort, comme expliqué plus haut, même si vous ne la voyez pas, mais elle doit tout de même se trouver à portée.
 
-
-
 </Spell>
 
 <Spell>
@@ -2964,8 +2733,6 @@ Pendant toute la durée du sort, vous savez s'il y a une aberration, un céleste
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
-
-
 </Spell>
 
 <Spell>
@@ -2987,8 +2754,6 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 Pendant toute la durée du sort, vous percevez la présence de poisons, de créatures venimeuses et de maladies dans un rayon de 9 mètres autour de vous. Vous déterminez également leur emplacement et identifiez à chaque fois le type de poison, de créature ou de maladie concerné.
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
-
-
 
 </Spell>
 
@@ -3016,8 +2781,6 @@ Le disque reste immobile tant que vous vous tenez à moins de 6 mètres. Si vous
 
 Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il ne peut pas contourner un obstacle pour vous suivre), le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
@@ -3039,8 +2802,6 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 Choisissez une créature, un objet ou un effet magique à portée. Tout sort de niveau 3 ou inférieur qui l'affecte se termine. Si la cible est affectée par un sort de niveau 4 ou plus, faites un test de caractéristique en utilisant votre caractéristique d'incantation. Le DD est de 10 + niveau du sort. Ce dernier se termine si vous réussissez votre test.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous mettez automatiquement un terme à un sort affectant la cible quand le niveau de ce sort est égal ou inférieur au niveau de l'emplacement de sort que vous utilisez.
-
-
 
 </Spell>
 
@@ -3068,8 +2829,6 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 
 **_Renvoi._** Vous utilisez votre action pour faire une attaque de sort au corps-à-corps contre un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant situé à une distance inférieure ou égale à votre allonge. Si vous touchez la créature, vous tentez de la renvoyer sur son plan natal. Elle doit réussir un [jet de sauvegarde] de [Charisme] ou retourner sur son plan natal (si elle ne s'y trouve pas déjà). Si un mort-vivant ne se trouve pas sur son plan natal, il est renvoyé dans les plans inférieurs, tandis qu'une fée sera expulsée sur son plan d'origine.
 
-
-
 </Spell>
 
 <Spell>
@@ -3094,8 +2853,6 @@ Le sort ne tient pas compte d'une éventuelle modification des circonstances sus
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d'une prémonition fiable. C'est au MJ de faire ce jet en secret.
 
-
-
 </Spell>
 
 <Spell>
@@ -3117,8 +2874,6 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 Vous envoyez de l'énergie négative dans le corps d'une créature située à portée et dans votre champ de vision, ce qui lui inflige des douleurs déchirantes. La cible doit effectuer un [jet de sauvegarde] de [Constitution]. Si elle échoue, elle subit 7d8+30 dégâts nécrotiques, la moitié seulement si elle réussit.
 
 Si ce sort achève un humanoïde, ce dernier se relève au début de votre prochain tour sous forme de zombi à jamais sous votre contrôle. Il suit vos ordres verbaux au mieux de ses capacités.
-
-
 
 </Spell>
 
@@ -3154,8 +2909,6 @@ Si elle le réussit, le sort prend fin.
 
 Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devient « concentration, jusqu'à 8 heures ».
 
-
-
 </Spell>
 
 <Spell>
@@ -3187,8 +2940,6 @@ Jusqu'à la fin de votre prochain tour, elle exécute seulement les actions que 
 Si elle le réussit, le sort prend fin.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 9, la durée devient « concentration, jusqu'à 8 heures ».
-
-
 
 </Spell>
 
@@ -3222,8 +2973,6 @@ Si elle le réussit, le sort prend fin.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5, la durée devient « concentration, jusqu'à 10 minutes ». Si vous lancez ce sort en utilisant un emplacement de niveau 6, la durée devient « concentration, jusqu'à 1 heure ». Si vous lancez ce sort en utilisant un emplacement de niveau 7, la durée devient « concentration, jusqu'à 8 heures ».
 
-
-
 </Spell>
 
 <Spell>
@@ -3245,8 +2994,6 @@ Si elle le réussit, le sort prend fin.
 Vous touchez un cadavre ou des restes. Pendant toute la durée du sort, la cible est protégée contre la décomposition et ne peut pas se transformer en mort-vivant.
 
 Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'entre les morts, car les jours passés sous l'influence de ce sort ne sont pas décomptés de la période pendant laquelle on peut utiliser des sorts comme rappel à la vie.
-
-
 
 </Spell>
 
@@ -3276,8 +3023,6 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 
 * Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
 
-
-
 </Spell>
 
 <Spell>
@@ -3304,15 +3049,11 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Éclat de bois</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> , <Level>tour de magie</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -3329,8 +3070,6 @@ Vous jetez un éclat de bois qui prend la forme d'une véritable javeline et par
 Vous devez réussir une attaque de sort à distance pour toucher votre cible. En cas de réussite, l'éclat de bois inflige 1d6 dégâts perforants. La zone de critique de l'attaque est de 18-20. L'éclat de bois est considéré comme une arme magique.
 
 Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les niveaux 5, 11 et 17. Ces éclats peuvent viser différentes cibles à portée du sort.
-
-
 
 </Spell>
 
@@ -3357,8 +3096,6 @@ Celles qui échouent subissent 12d6 dégâts radiants et sont [aveuglées] penda
 Une créature [aveuglée] par le sort fait un autre jet de [Constitution] à la fin de chacun de ses tours. Dès qu'elle réussit, sa cécité disparaît.
 
 Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
-
-
 
 </Spell>
 
@@ -3393,8 +3130,6 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 **_6. Indigo._** Si la cible rate son [jet de sauvegarde], elle est [entravée] et doit alors faire un [jet de sauvegarde] de [Constitution] à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine, si elle en rate trois, elle se change définitivement en pierre et est [pétrifiée]. Les succès et les échecs n'ont pas à être consécutifs : tenez le compte dans chaque catégorie jusqu'à ce que l'une d'elles arrive à trois.
 
 **_7. Violet._** La cible est [aveuglée] si elle rate son [jet de sauvegarde]. Elle doit alors faire un [jet de sauvegarde] de [Sagesse] au début de votre prochain tour. Si elle le réussit, elle recouvre la vue ; si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) 8. Spécial. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 8.
-
-
 
 </Spell>
 
@@ -3440,8 +3175,6 @@ _[Dissipation de la magie]_ peut mettre fin au sort à condition d'être lancée
 
 Vous pouvez utiliser une composante spéciale pour créer une prison à la fois seulement. Si vous relancez ce sort en utilisant la même composante, la cible de la première incantation est libérée sur-le-champ.
 
-
-
 </Spell>
 
 <Spell>
@@ -3465,8 +3198,6 @@ Des herbes et des lianes entremêlées jaillissent du sol dans un carré de 6 m�
 Une créature qui se trouve dans la zone affectée lorsque vous lancez le sort doit réussir un [jet de sauvegarde] de [Force], sans quoi elle reste [entravée] dans les plantes jusqu'à ce que le sort se termine. Une créature [entravée] peut utiliser une action pour faire un test de [Force] contre le DD du sort. Si elle réussit, elle se libère.
 
 Quand le sort se termine, les plantes invoquées flétrissent.
-
-
 
 </Spell>
 
@@ -3492,8 +3223,6 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau supérieur, la durée augmente : 10 jours au niveau 6, 30 au niveau 7, 180 au niveau 8 et 1 an et 1 jour au niveau 9.
 
-
-
 </Spell>
 
 <Spell>
@@ -3516,8 +3245,6 @@ Vous envoyez un court message d'au maximum vingtcinq mots à une créature qui v
 
 Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un autre plan d'existence, mais il y a 5 % de chances, si la cible est sur un autre plan, que le message ne lui parvienne pas.
 
-
-
 </Spell>
 
 <Spell>
@@ -3537,8 +3264,6 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 ### Description
 
 Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un [jet de sauvegarde] de [Sagesse]. Une créature qui ne peut pas être [charmée] réussit automatiquement ce [jet de sauvegarde]. Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un avantage lors du [jet de sauvegarde]. Si la créature rate son jet, elle subit un désavantage lors des tests de [Sagesse (Perception)] destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [neutralisé] ou dans l'incapacité de parler.
-
-
 
 </Spell>
 
@@ -3560,15 +3285,11 @@ Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de v
 
 Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Épée du juste</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>5</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -3581,8 +3302,6 @@ Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce so
 ### Description
 
 Votre épée devient une épée de justice pour toute la durée du sort. Elle bénéficie donc d'un bonus de +3 aux jets d'attaque et aux dégâts, inflige 2d10 dégâts radiants supplémentaires contre les fiélons et les morts-vivants, et crée une aura de 3 mètres de rayon octroyant à vos alliés qui s'y trouvent un avantage aux [jets de sauvegarde] contre les sorts et effets magiques. De plus, lorsque l'épée de justice blesse pour la première fois un fiélon ayant un nombre de DV inférieur ou égal au vôtre, celui-ci doit réussir un [jet de sauvegarde] de [Charisme] sous peine de disparaître aussitôt et d'être contraint de retourner à son plan d'origine.
-
-
 
 </Spell>
 
@@ -3605,8 +3324,6 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 Vous créez un plan de force en forme d'épée qui plane à portée et persiste pendant toute la durée du sort.
 
 Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps contre une cible de votre choix située dans un rayon de 1,50 mètre autour de l'épée. Si l'épée touche, la cible subit 3d10 dégâts de force. Tant que le sort n'est pas terminé, vous pouvez dépenser une action bonus à chacun de vos tours pour déplacer l'épée d'un maximum de 6 mètres afin de la conduire à un endroit situé dans votre champ de vision, puis répéter l'attaque contre la même cible ou une autre.
-
-
 
 </Spell>
 
@@ -3632,8 +3349,6 @@ Si la cible rate son jet, son [Intelligence] et son [Charisme] tombent à 1. Ell
 
 La créature peut refaire un [jet de sauvegarde] tous les 30 jours. Le sort se termine dès qu'elle réussit. On peut aussi mettre un terme à ce sort grâce à l'un des sorts suivants : _[restauration supérieure]_, _[guérison]_ ou _[souhait]_.
 
-
-
 </Spell>
 
 <Spell>
@@ -3653,8 +3368,6 @@ La créature peut refaire un [jet de sauvegarde] tous les 30 jours. Le sort se t
 ### Description
 
 Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l'état [charmé]. Ce sort déjoue même les _[souhaits]_ et les sorts et effets de même puissance qui cherchent à affecter l'esprit de la cible ou à obtenir des informations à son propos.
-
-
 
 </Spell>
 
@@ -3682,8 +3395,6 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 3.
 
-
-
 </Spell>
 
 <Spell>
@@ -3703,8 +3414,6 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 ### Description
 
 Vous puisez dans les peurs les plus profondes d'un groupe de créatures et créez des êtres illusoires dans leurs esprits, qu'elles sont les seules à voir. Chaque créature située dans une sphère de 9 mètres de rayon centrée sur un point de votre choix situé à portée doit réussir un [jet de sauvegarde] de [Sagesse] ou être [terrorisée] pendant toute la durée du sort. Les illusions se basent sur les peurs enfouies en chaque cible et transforment leurs pires cauchemars en menace implacable. À la fin de chacun de ses tours, une créature [terrorisée] doit effectuer un [jet de sauvegarde] de [Sagesse]. Si elle échoue, elle subit 4d10 dégâts psychiques. Si elle réussit, le sort se termine pour elle.
-
-
 
 </Spell>
 
@@ -3730,15 +3439,11 @@ C'est au MJ de choisir les caractéristiques appropriées à la plante éveillé
 
 La bête ou la plante éveillée est considérée [charmée] par vous pendant 30 jours ou jusqu'à ce que vous ou l'un de vos compagnons la blessiez. Une fois que cet effet se termine, la créature éveillée décide seule si elle reste amicale envers vous, selon la façon dont vous l'avez traitée lorsqu'elle était [charmée].
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Excavation</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Transmutation</Type> de niveau <Level>8</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -3752,15 +3457,11 @@ La bête ou la plante éveillée est considérée [charmée] par vous pendant 30
 
 Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur dans la pierre ou la terre (de la roche ou un mur) et dans le bois, mais pas dans le métal. Le passage créé est permanent et l'effet du sort ne peut être dissipé. Plusieurs incantations du sort permettent de de former des tunnels souterrains ne nécessitant pas d'étaiement. Vous pouvez orienter le tunnel dans la direction de votre choix.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Expiation du juste</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -3773,8 +3474,6 @@ Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur d
 ### Description
 
 La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, vous lancez un ordre de repentir sur la créature que vous frappez. Sur cette attaque, elle subit 3d8 dégâts psychiques, écrasée par le poids de ses péchés et la culpabilité. En outre, elle doit réussir un [jet de sauvegarde] de [Sagesse] ou être [étourdie] jusqu'à la fin de son prochain tour et subir un désavantage à tous ses tests de [Sagesse] pour une minute.
-
-
 
 </Spell>
 
@@ -3797,8 +3496,6 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 Un éclair d'énergie crépitante file vers une créature à portée. Faites un jet d'attaque de sort à distance contre la cible. Si vous réussissez, elle subit 1d10 dégâts de force.
 
 Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux : deux rayons au niveau 5, trois au niveau 11 et quatre au niveau 17. Vous pouvez diriger tous les rayons sur une même cible ou les répartir entre plusieurs. Faites un jet d'attaque distinct pour chacun.
-
-
 
 </Spell>
 
@@ -3824,8 +3521,6 @@ Choisissez des matériaux bruts situés à portée et dans votre champ de vision
 
 Il est impossible de créer ou de transmuter des créatures ou des objets magiques à l'aide de ce sort. Vous ne pouvez pas non plus y recourir pour fabriquer des objets demandant un haut degré d'expertise, comme des bijoux, des armes, du verre ou une armure, à moins que vous n'ayez la maîtrise des outils d'artisan nécessaires à l'élaboration de tels objets.
 
-
-
 </Spell>
 
 <Spell>
@@ -3845,8 +3540,6 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 ### Description
 
 Vous touchez un objet de pierre de taille M ou inférieure ou une section de pierre d'un maximum de 1,50 mètre dans toutes les dimensions et lui donnez la forme que vous désirez. Vous pouvez, par exemple, façonner un gros caillou de manière à en faire une arme, une idole ou un coffre, ou bien creuser un étroit passage dans un mur, à condition que ce dernier ne fasse pas plus de 1,50 mètre d'épaisseur. Vous pouvez façonner une porte de pierre ou son chambranle pour la sceller. L'objet créé peut avoir au maximum deux charnières et un loquet, mais il est impossible de créer des mécanismes plus complexes.
-
-
 
 </Spell>
 
@@ -3869,8 +3562,6 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 Vos prières vous imprègnent d'une aura radieuse.
 
 Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d4 dégâts radiants supplémentaires en cas de coup au but.
-
-
 
 </Spell>
 
@@ -3896,15 +3587,11 @@ Une créature qui participe au festin en retire plusieurs bénéfices. Elle est 
 
 Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de points de vie. Ces bénéfices persistent pendant 24 heures.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Flamboiement funeste</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -3921,8 +3608,6 @@ Une explosion de flammes noires jaillit de votre corps et blesse les créatures 
 Chaque créature dans la zone doit réussir un [jet de sauvegarde] de [Dextérité], ou subir 2d6 dégâts nécrotiques et être [aveuglée] jusqu'à votre prochain tour. En cas de réussite, elle ne subit que la moitié des dégâts et n'est pas [aveuglée].
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque emplacement au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -3943,8 +3628,6 @@ Chaque créature dans la zone doit réussir un [jet de sauvegarde] de [Dextérit
 ### Description
 
 Une flamme à la luminosité égale à celle d'une torche embrase soudain l'objet que vous touchez. L'effet du sort ressemble à une flamme ordinaire, mais ne dégage pas de chaleur et ne consomme pas d'oxygène. On peut couvrir ou cacher la flamme éternelle, mais pas l'étouffer ni l'éteindre avec de l'eau.
-
-
 
 </Spell>
 
@@ -3970,8 +3653,6 @@ Même si elle se trouve derrière un abri, la cible ne bénéficie pas d'un avan
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
-
-
 </Spell>
 
 <Spell>
@@ -3995,8 +3676,6 @@ Trois créatures de votre choix au maximum, toutes situées à portée et dans v
 Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde alors que le sort n'est pas terminé, elle doit lancer 1d4 et soustraire le résultat obtenu de son jet d'attaque ou de sauvegarde.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -4024,8 +3703,6 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -4047,8 +3724,6 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 Une flèche d'un vert chatoyant file vers une cible située à portée et explose en une gerbe d'acide. Faites une attaque de sort à distance contre la cible. Si vous touchez, la cible reçoit 4d4 dégâts d'acide immédiatement et 2d4 dégâts d'acide à la fin de son prochain tour. Si vous ne touchez pas, l'acide éclabousse la cible et lui inflige la moitié des dégâts initiaux, mais aucun à la fin de son prochain tour.
 
 **_À plus haut niveau._** Quand vous utilisez ce sort via un emplacement de niveau 3 ou supérieur, les dégâts initiaux et secondaires augmentent de 1d4 par niveau au-delà du niveau 2.
-
-
 
 </Spell>
 
@@ -4074,8 +3749,6 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 4.
 
-
-
 </Spell>
 
 <Spell>
@@ -4095,8 +3768,6 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 ### Description
 
 Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un désavantage lorsqu'elles font un jet d'attaque contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
-
-
 
 </Spell>
 
@@ -4128,8 +3799,6 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 8 ou supérieur, vous pouvez affecter jusqu'à trois créatures consentantes (vous y compris) par niveau au-delà du niveau 7. Toutes ces créatures doivent se trouver dans un rayon de 3 mètres autour de vous quand vous lancez le sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -4156,8 +3825,6 @@ En revanche, les liquides équivalent pour elle à des surfaces solides. Elle ne
 
 Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. Il lui est impossible de lâcher les objets qu'elle portait et qu'elle transportait, et personne ne peut les utiliser ni interagir avec eux. Elle ne peut pas attaquer ni lancer de sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -4182,8 +3849,6 @@ La transformation persiste pour chaque cible pendant toute la durée du sort ou 
 
 L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas activer ni manier la moindre pièce d'équipement et n'obtient pas les bénéfices qui en découlent habituellement.
 
-
-
 </Spell>
 
 <Spell>
@@ -4206,15 +3871,11 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 
 À la fin de chacun de ses tours et à chaque fois qu'elle subit des dégâts, la cible a droit à un nouveau [jet de sauvegarde] de [Sagesse]. Elle bénéficie d'un avantage lors de ce jet si ce sont des dégâts qui l'ont provoqué. Si le jet est réussi, le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Frappe du juste</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -4238,8 +3899,6 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous infligez 1d6 points de dégât par niveau d'emplacement de sort au-dessus du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
@@ -4261,8 +3920,6 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous permet de toucher une créature avant la fin de ce sort voit votre arme briller soudain d'une lumière astrale et infliger 2d6 dégâts radiants additionnels à votre cible, qui devient visible si elle était [invisible] et se met à émettre une faible lumière dans un rayon de 1,50 mètre jusqu'à la fin du sort. Elle ne peut plus devenir [invisible] pendant toute cette durée.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d6 par emplacement de sort au-dessus du niveau 2.
-
-
 
 </Spell>
 
@@ -4290,8 +3947,6 @@ Vous restez conscient du temps qui passe et vous pouvez lancer des sorts à port
 
 Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle est partiellement détruite ou change de forme (au point que vous ne tenez plus entièrement à l'intérieur), elle vous expulse et vous subissez 6d6 dégâts contondants. Si la pierre est complètement détruite (ou transmutée en une substance différente), elle vous expulse et vous subissez 50 dégâts contondants. Si vous vous faites expulser de la pierre, vous vous retrouvez à terre dans l'emplacement inoccupé le plus proche de celui par lequel vous êtes entré dans la roche.
 
-
-
 </Spell>
 
 <Spell>
@@ -4301,7 +3956,7 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 - SRD: <AltName>[Guardian of Faith](spells_vo.md#guardian-of-faith)</AltName>
 
 - <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime></CastingTime>
+- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
 - **Portée :** <Range>9 mètres</Range>
 - **Composantes :** <Components>V</Components>
 - **Durée :** <Duration>8 heures</Duration>
@@ -4314,15 +3969,11 @@ Durée d'incantation : 1 action Un gardien spectral de taille G apparaît et flo
 
 Toute créature hostile envers vous qui entre dans un emplacement situé dans un rayon de 3 mètres autour du gardien pour la première fois de son tour doit réussir un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 20 dégâts radiant, la moitié seulement si elle réussit. Le gardien disparaît dès qu'il a infligé un total de 60 dégâts.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Geyser d'énergie</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -4339,8 +3990,6 @@ Un geyser d'énergie jaillit du sol d'un endroit que vous spécifiez dans la por
 Si le jet est réussi, les dégâts sont réduits de moitié.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d8 par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -4365,8 +4014,6 @@ Une barrière immobile scintille légèrement dans un rayon de 3 mètres autour 
 Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière se trouve dans l'incapacité d'affecter les créatures et les objets se trouvant à l'intérieur, même si le lanceur de sort utilise un emplacement de niveau supérieur. Le sort peut très bien viser les créatures et les objets situés au sein de la barrière, mais il n'a aucun effet sur eux. De même, la zone protégée par la barrière est exclue de la zone affectée par les sorts de ces niveaux.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la barrière bloque les sorts d'un niveau de plus par niveau au-delà du niveau 6.
-
-
 
 </Spell>
 
@@ -4404,8 +4051,6 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts des runes explosives augmentent de 1d8 par niveau au-delà du niveau 3. Si vous créez un glyphe à sort, vous pouvez stocker un sort d'un niveau égal ou inférieur à celui employé pour lancer le glyphe.
 
-
-
 </Spell>
 
 <Spell>
@@ -4425,8 +4070,6 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 ### Description
 
 La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre [Force] pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Le dé de dégâts de l'arme devient un d8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.
-
-
 
 </Spell>
 
@@ -4450,8 +4093,6 @@ Une couche de graisse particulièrement glissante recouvre le sol dans une zone 
 
 Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affectée doit réussir un [jet de sauvegarde] de [Dextérité] ou tomber à terre. Une créature qui entre dans la zone ou y termine son tour doit aussi réussir ce jet sous peine de se retrouver à terre.
 
-
-
 </Spell>
 
 <Spell>
@@ -4473,8 +4114,6 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin du sort.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -4498,8 +4137,6 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la quantité de soins prodigués augmente de 10 points par niveau au-delà du niveau 6.
 
-
-
 </Spell>
 
 <Spell>
@@ -4522,15 +4159,11 @@ Un flot d'énergie curative émane de vous et enveloppe les créatures blessées
 
 Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des états [assourdi] ou [aveuglé]. Ce sort n'a aucun effet sur les morts-vivants et sur les créatures artificielles.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Harmonique miraculeuse</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>9</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -4545,8 +4178,6 @@ Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des 
 Vous effleurez le bord d'un verre, et le corps de vos alliés à portée et capables entendre le son produit se met à résonner avec l'énergie positive. Vous-même et chaque créature affectée récupérez 10 points de vie et annulez un niveau d'épuisement au début de chacun de vos tours.
 
 Enfin, le sort met un terme aux effets de réduction des points de vie maximum provoqué par certaines créatures (momie, spectre, vampire, etc.) ainsi qu'aux états [charmé] et [pétrifié].
-
-
 
 </Spell>
 
@@ -4570,8 +4201,6 @@ Choisissez une créature consentante située à portée et dans votre champ de v
 
 Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une action avant que son prochain tour ne se soit écoulé, car une vague de léthargie déferle sur elle.
 
-
-
 </Spell>
 
 <Spell>
@@ -4594,8 +4223,6 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
@@ -4617,8 +4244,6 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 Vous choisissez un objet avec lequel vous devez rester en contact pendant toute l'incantation du sort. Si c'est un objet magique ou un objet imprégné de magie, vous apprenez immédiatement quelles sont ses propriétés et comment vous en servir. Vous savez aussi s'il faut s'harmoniser avec lui pour l'utiliser et combien de charges il possède, le cas échéant. Vous savez si des sorts affectent l'objet et quel est leur nom. Si l'objet a été créé grâce à un sort, vous apprenez quel sort lui a donné naissance.
 
 Si, à la place, vous touchez une créature pendant toute l'incantation, vous découvrez quels sorts l'affectent présentement, le cas échéant.
-
-
 
 </Spell>
 
@@ -4646,8 +4271,6 @@ Si vous créez une image (comme une chaise, des empreintes boueuses ou un petit 
 
 Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'[Intelligence (Investigation)] opposé au DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
 
-
-
 </Spell>
 
 <Spell>
@@ -4674,8 +4297,6 @@ Les conditions de déclenchement peuvent être aussi génériques ou détaillée
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
 
-
-
 </Spell>
 
 <Spell>
@@ -4701,8 +4322,6 @@ Tant que vous êtes à portée de l'illusion, vous pouvez utiliser votre action 
 Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et ne perçoit plus que faiblement ses autres propriétés sensorielles.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, le sort persiste jusqu'à dissipation, sans que vous ayez besoin de vous concentrer.
-
-
 
 </Spell>
 
@@ -4736,8 +4355,6 @@ Le sort se termine si les trois répliques sont détruites.
 
 Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se sert d'un mode de perception autre que la vue (comme la vision aveugle) ou encore si elle perçoit les illusions comme telles, avec vision parfaite, par exemple.
 
-
-
 </Spell>
 
 <Spell>
@@ -4764,8 +4381,6 @@ Vous pouvez entendre et voir par l'intermédiaire des oreilles et des yeux de vo
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
 
-
-
 </Spell>
 
 <Spell>
@@ -4790,8 +4405,6 @@ Vous pouvez utiliser votre action pour déplacer l'image vers un autre point à 
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image.
 
-
-
 </Spell>
 
 <Spell>
@@ -4813,8 +4426,6 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde] de [Sagesse], sans quoi il est [paralysé] pour toute la durée du sort. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde] de [Sagesse]. Si elle le réussit, le sort se termine.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser un humanoïde de plus par niveau au-delà du niveau 2. Les humanoïdes visés doivent se trouver à 9 mètres ou moins les uns des autres au moment où vous lancez le sort.
-
-
 
 </Spell>
 
@@ -4839,8 +4450,6 @@ Choisissez une créature située à portée et dans votre champ de vision. Elle 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 5.
 
 Les créatures visées doivent se trouver à 9 mètres ou moins les unes des autres au moment où vous lancez le sort.
-
-
 
 </Spell>
 
@@ -4876,8 +4485,6 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1. Ces créatures doivent toutes se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -4906,15 +4513,11 @@ Le MJ peut vous autoriser à choisir une cible différente.
 
 Par exemple, si vous transformez une abeille, sa version géante peut disposer du même profil technique qu'une guêpe géante.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Instrument fantomatique</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Illusion</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -4931,8 +4534,6 @@ Vous créez une manifestation illusoire d'un instrument de musique fantomatique 
 Au début de chacun de ses tours, la créature doit réussir un [jet de sauvegarde] de [Sagesse] ou subir 2d4 dégâts psychiques et être [étourdie] jusqu'à son prochain tour. En cas de réussite, les dégâts sont annulés et le sort prend fin. Les créatures dont l'[Intelligence] est inférieure à 3 sont immunisées à ce sort, celles autres qu'humanoïdes ou géants obtiennent un avantage à leur [jet de sauvegarde].
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature de plus par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -4964,8 +4565,6 @@ Vous pouvez décider d'un mot de passe lors de l'incantation du sort. Si une cr�
 
 La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'interdiction. Si vous lancez interdiction tous les jours pendant 30 jours au même endroit, le sort persiste jusqu'à dissipation et les composantes matérielles sont consommées lors de la dernière incantation.
 
-
-
 </Spell>
 
 <Spell>
@@ -4990,8 +4589,6 @@ Si un objet solide (comme un plafond) se trouve sur la trajectoire de la chute, 
 
 Une fois la durée du sort écoulée, les objets et les créatures affectés retombent au sol.
 
-
-
 </Spell>
 
 <Spell>
@@ -5014,8 +4611,6 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -5035,8 +4630,6 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 ### Description
 
 Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [invisible] tant que les objets restent sur sa personne.
-
-
 
 </Spell>
 
@@ -5076,8 +4669,6 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 5, trois fois plus pour un emplacement de niveau 7 et quatre fois plus pour un emplacement de niveau 9.
 
-
-
 </Spell>
 
 <Spell>
@@ -5113,8 +4704,6 @@ Les créatures invoquées se montrent amicales envers vous et vos compagnons. D�
 C'est le MJ qui dispose du profil technique des créatures.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 6 et trois fois plus pour un emplacement de niveau 8.
-
-
 
 </Spell>
 
@@ -5152,8 +4741,6 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 6, et trois fois plus pour un emplacement de niveau 8.
 
-
-
 </Spell>
 
 <Spell>
@@ -5183,8 +4770,6 @@ Déterminez son initiative, sachant qu'il dispose de ses propres tours de jeu. I
 C'est le MJ qui dispose du profil technique du céleste.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 9 ou supérieur, vous invoquez un céleste doté d'un indice de dangerosité inférieur ou égal à 5.
-
-
 
 </Spell>
 
@@ -5216,8 +4801,6 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -5245,8 +4828,6 @@ Si votre concentration se brise, la créature féerique ne disparaît pas, mais 
 C'est le MJ qui dispose du profil technique de la créature féerique.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau 6.
-
-
 
 </Spell>
 
@@ -5282,15 +4863,11 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort fait effet tant que vous vous concentrez, sans dépasser un maximum de 10 minutes. Si vous utilisez un emplacement de niveau 5 ou supérieur, la durée est de 8 heures, tandis qu'elle passe à 24 heures si vous utilisez un emplacement de sort de niveau 7 ou plus. Si vous utilisez un emplacement de niveau 9, le sort persiste jusqu'à ce qu'il soit dissipé. L'utilisation d'un emplacement de niveau 5 ou plus vous dispense de vous concentrer.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Jugement dernier</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Nécromancie</Type> de niveau <Level>5</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -5303,8 +4880,6 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 ### Description
 
 Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de votre choix à portée. Toute créature située dans la sphère doit réussir un [jet de sauvegarde] de [Charisme] ou subir 4d8 points de dégâts radiants. Si la créature est une créature céleste, un fiélon ou un mort-vivant les dégâts sont doublées et la créature est [aveuglée] pour 1 round. En cas de réussite, la cible subit seulement la moitié des dégâts et n'est pas [aveuglée].
-
-
 
 </Spell>
 
@@ -5334,8 +4909,6 @@ Pour cela, elle effectue un test d'[Intelligence] DD 20. Si elle le réussit, el
 
 Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitté ou, s'il est occupé, dans l'emplacement libre le plus proche.
 
-
-
 </Spell>
 
 <Spell>
@@ -5362,15 +4935,11 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 tous les deux niveaux au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Lance du juste</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Transmutation</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -5385,8 +4954,6 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 La lumière ambiante se concentre dans votre main et prend la forme d'un rayon en forme de lance. Vous devez réussir une attaque au corps-à-corps pour frapper la cible. La lance de lumière inflige 3d8 dégâts radiants.
 
 De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un [jet de sauvegarde] de [Constitution] à chacun de ses tours suivants jusqu'à réussite pour ne plus être [aveuglée].
-
-
 
 </Spell>
 
@@ -5409,8 +4976,6 @@ De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un [
 Ce sort permet à la créature que vous touchez de comprendre toutes les langues parlées qu'elle entend.
 
 De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit.
-
-
 
 </Spell>
 
@@ -5458,8 +5023,6 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 
 Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute de chacune passe à 18 mètres par round jusqu'à la fin du sort. Si une créature atterrit avant la fin du sort, elle ne subit pas de dégât de chute et se reçoit sur ses pieds, le sort se terminant alors pour elle.
 
-
-
 </Spell>
 
 <Spell>
@@ -5488,8 +5051,6 @@ Si la créature affectée tente de lancer un sort doté d'un temps d'incantation
 
 Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sagesse] à la fin de chacun de ses tours. Si elle le réussit, le sort se termine pour elle.
 
-
-
 </Spell>
 
 <Spell>
@@ -5509,8 +5070,6 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sage
 ### Description
 
 À votre contact, toutes les malédictions qui affectent une créature ou un objet disparaissent. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort rompt l'harmonisation entre l'objet et son détenteur, ce qui permet à ce dernier de l'ôter ou de s'en débarrasser.
-
-
 
 </Spell>
 
@@ -5538,15 +5097,11 @@ En dehors de cela, vous devez dépenser une action pour déplacer la cible qui d
 
 Si la cible est encore en l'air quand le sort se termine, elle flotte délicatement jusqu'au sol.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Liane chasseresse</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -5563,8 +5118,6 @@ Vous invoquez une liane mobile dotée de sarments flexibles et vous la contrôle
 La victime doit réussir un [jet de sauvegarde] de [Force] ou subir 1d6+7 dégâts contondants et être [entravée]. À son tour, la cible peut effectuer un [jet de sauvegarde] de [Force] pour se libérer en utilisant une action bonus.
 
 La liane a le profil suivant : CA 15, points de vie 30, [Force] 20 (+5), résistance au feu et au froid, immunité à la foudre.
-
-
 
 </Spell>
 
@@ -5587,8 +5140,6 @@ La liane a le profil suivant : CA 15, points de vie 30, [Force] 20 (+5), résist
 Vous touchez une créature consentante. Pendant toute la durée du sort, ses déplacements ne sont pas affectés par un terrain difficile, tandis que les sorts et autres effets magiques ne peuvent ni réduire sa vitesse, ni provoquer l'état [paralysé] ou [entravé].
 
 La cible peut également dépenser 1,50 mètre de déplacement pour échapper automatiquement à des liens non magiques, comme des menottes ou la prise d'une créature qui l'empoigne. Enfin, sous l'eau, elle ne subit pas de malus aux déplacements ni aux attaques.
-
-
 
 </Spell>
 
@@ -5614,8 +5165,6 @@ Tant que la cible se trouve dans un rayon de 18 mètres autour de vous, elle bé
 
 Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous êtes séparés de plus 18 mètres. Il se termine aussi si vous le lancez de nouveau le sort. Vous pouvez également révoquer le sort par une action.
 
-
-
 </Spell>
 
 <Spell>
@@ -5640,8 +5189,6 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 6, la durée passe à 12 heures. Au niveau 7, vous pouvez transmettre des images, sons et autres perceptions sensorielles aux créatures ciblées. Enfin, au niveau 8, la portée devient illimitée tant que vous êtes sur le même plan et que vous connaissez les créatures ciblées.
 
-
-
 </Spell>
 
 <Spell>
@@ -5661,8 +5208,6 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 ### Description
 
 Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous concentrez sur la voix de la nature qui vous entoure et découvrez dans quelle direction et à quelle distance se trouve le spécimen le plus proche, s'il y en a, dans un rayon de 7,5 kilomètres.
-
-
 
 </Spell>
 
@@ -5690,8 +5235,6 @@ Le sort permet de localiser un objet spécifique de votre connaissance à condit
 
 Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince soit-elle, bloque une trajectoire directe entre vous et l'objet.
 
-
-
 </Spell>
 
 <Spell>
@@ -5718,8 +5261,6 @@ Le sort permet de localiser une créature spécifique de votre connaissance ou l
 
 Le sort ne parvient pas à localiser la créature si le chemin qui vous relie directement est coupé par une étendue d'eau courante d'au moins 3 mètres de large.
 
-
-
 </Spell>
 
 <Spell>
@@ -5742,8 +5283,6 @@ Ce sort offre espoir et robustesse. Choisissez autant de créatures consentantes
 
 Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jets de sauvegarde] de [Sagesse] et des [jets de sauvegarde] contre la mort. De plus, elles récupèrent le maximum de points de vie possible dès qu'elles reçoivent des soins.
 
-
-
 </Spell>
 
 <Spell>
@@ -5765,8 +5304,6 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jet
 Tous les objets contenus dans un cube de 6 mètres d'arête situé à portée sont auréolés d'une lumière bleue, verte ou violette (à vous de choisir). Les créatures qui se trouvent dans la zone au moment de l'incantation sont aussi entourées de lumière, à moins de réussir un [jet de sauvegarde] de [Dextérité]. Pendant toute la durée du sort, les créatures et les objets affectés émettent une faible luminosité dans un rayon de 3 mètres.
 
 Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il peut la voir. Les créatures et les objets affectés ne peuvent pas bénéficier de l'état [invisible].
-
-
 
 </Spell>
 
@@ -5794,8 +5331,6 @@ Il suffit de recouvrir complètement l'objet avec quelque chose d'opaque pour bl
 
 Si vous visez un objet porté ou transporté par une créature hostile, cette dernière doit réussir un [jet de sauvegarde] de [Dextérité] pour éviter les effets du sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -5819,8 +5354,6 @@ Une sphère de lumière de 18 mètres de rayon s'étend depuis un point de votre
 Si le point que vous avez choisi est un objet en votre possession ou un objet qui n'est ni porté ni transporté par autrui, la lumière irradie de l'objet et se déplace avec lui. Il suffit de recouvrir complètement l'objet affecté avec un objet opaque, comme un bol ou un heaume, pour bloquer la lumière.
 
 Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres issue d'un sort de niveau 3 ou moins, elle dissipe le sort en question.
-
-
 
 </Spell>
 
@@ -5850,8 +5383,6 @@ Quelle que soit l'option choisie, chaque source lumineuse offre une lumière fai
 
 Elle s'éteint si elle passe hors de portée.
 
-
-
 </Spell>
 
 <Spell>
@@ -5875,8 +5406,6 @@ Une main spectrale flottante apparaît à portée, en un point de votre choix. E
 Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour manipuler un objet, ouvrir une porte ou un récipient qui ne sont pas verrouillés, placer un objet dans un récipient ouvert ou l'en sortir, ou bien verser le contenu d'une flasque. Vous pouvez déplacer la main d'un maximum de 9 mètres à chaque fois que vous l'utilisez.
 
 La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
-
-
 
 </Spell>
 
@@ -5916,8 +5445,6 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts de l'option poing serré augmentent de 2d8 et ceux de la main agrippeuse de 2d6 par niveau au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -5943,8 +5470,6 @@ Chaque créature située dans un cône de 4,50 mètres doit faire un [jet de sau
 Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un ne les porte ou ne les transporte.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -5978,15 +5503,11 @@ Ils peuvent se rendre partout dans la demeure, mais sont incapables de la quitte
 
 Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace extradimensionnel sont expulsées dans les emplacements libres les plus proches de l'entrée.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Manteau de givre</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Abjuration</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -6001,8 +5522,6 @@ Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace ex
 Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.
-
-
 
 </Spell>
 
@@ -6026,8 +5545,6 @@ Ce sort permet de se déplacer sur n'importe quelle surface liquide (comme de l'
 
 Si vous prenez pour cible une créature immergée dans un liquide, le sort la ramène à la surface du liquide à une vitesse de 18 mètres par round.
 
-
-
 </Spell>
 
 <Spell>
@@ -6050,8 +5567,6 @@ Vous et un maximum de dix créatures consentantes, situées à portée et dans v
 
 Si une créature est sous forme de nuage et en plein vol quand le sort se termine, elle descend de 18 mètres par round pendant 1 minute, jusqu'à ce qu'elle atterrisse, en parfaite sécurité. Si elle n'arrive pas à atterrir avant la fin de cette minute, elle tombe sur la distance qui lui reste à parcourir.
 
-
-
 </Spell>
 
 <Spell>
@@ -6073,8 +5588,6 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'avantage sur les éventuels tests de [Sagesse (Perception)] ou [Sagesse (Survie)] que vous faites pour la retrouver. Si la cible tombe à 0 point de vie avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou 4, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
-
-
 
 </Spell>
 
@@ -6102,8 +5615,6 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 
 **_Paniqué._** Vous terrorisez la cible. À chacun de ses tours, la cible [terrorisée] doit utiliser l'action se précipiter et s'éloigner de vous via l'itinéraire le plus rapide et le plus sûr, à moins qu'elle n'ait nulle part où aller. Cet effet se termine si la cible gagne un emplacement situé à au moins 18 mètres de vous et d'où elle ne vous voit plus.
 
-
-
 </Spell>
 
 <Spell>
@@ -6125,8 +5636,6 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.
 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
-
-
 
 </Spell>
 
@@ -6156,8 +5665,6 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, la durée du sort augmente de 48 heures par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -6185,8 +5692,6 @@ La cible possède les points de vie correspondant à sa nouvelle forme. Quand el
 La nouvelle forme de la créature limite les actions qu'elle peut entreprendre et elle ne peut ni parler, ni lancer de sorts, ni effectuer une action qui nécessite de parler ou de se servir de ses mains.
 
 L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas activer, utiliser ni manier la moindre pièce d'équipement et ne peut pas non plus bénéficier de ses effets.
-
-
 
 </Spell>
 
@@ -6234,8 +5739,6 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 
 **_Créature en objet._** Si vous transformez une créature en objet, tous les objets qu'elle porte et transporte se métamorphosent avec elle. Le profil technique de l'objet remplace celui de la créature qui, une fois revenue à sa forme d'origine à la fin du sort, n'a aucun souvenir de la période pendant laquelle elle a été métamorphosée.
 
-
-
 </Spell>
 
 <Spell>
@@ -6259,8 +5762,6 @@ Vous donnez à un terrain d'au maximum 2,5 kilomètres carrés la même apparenc
 L'illusion comprend des composantes auditives, visuelles, tactiles et olfactives, elle peut donc changer un sol dégagé en terrain difficile (ou inversement) ou gêner les déplacements dans la zone. Tout élément de terrain illusoire (comme une pierre ou une brindille) disparaît dès qu'il quitte la zone d'effet du sort.
 
 Les créatures dotées de vision parfaite distinguent le véritable terrain derrière l'illusion, mais les autres composantes restent en place ; elles savent donc qu'elles ont affaire à une illusion, mais peuvent toujours interagir physiquement avec celle-ci.
-
-
 
 </Spell>
 
@@ -6292,8 +5793,6 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez modifier les souvenirs d'un événement remontant à 7 jours (niveau 6), 30 jours (niveau 7), 1 an (niveau 8) ou issus de n'importe quelle période du passé de la cible (niveau 9).
 
-
-
 </Spell>
 
 <Spell>
@@ -6320,8 +5819,6 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 
 **_Changer d'apparence._** Vous modifiez votre apparence et choisissez votre taille, votre poids, vos traits, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et toute caractéristique distinctive désirée. Vous pouvez vous faire passer pour un membre d'une autre race, mais vos caractéristiques ne changent pas. Vous ne pouvez pas vous faire passer pour une créature d'une catégorie de taille différente de la vôtre, et votre silhouette générale doit rester la même (par exemple, si vous êtes un bipède, vous ne pouvez pas utiliser ce sort pour prendre l'apparence d'un quadrupède). À tout moment lors de la durée du sort, vous pouvez dépenser une action pour modifier de nouveau votre apparence de cette manière.
 
-
-
 </Spell>
 
 <Spell>
@@ -6346,8 +5843,6 @@ Une créature équine de taille G quasi réelle apparaît dans un emplacement au
 
 Pendant toute la durée du sort, vous et une créature de votre choix pouvez chevaucher la monture. Cette dernière possède le même profil technique qu'un cheval de selle, excepté sa vitesse, de 30 mètres. En 1 heure, elle peut parcourir 15 kilomètres, ou 20 kilomètres au galop. Quand le sort se termine, la monture s'estompe progressivement, ce qui laisse 1 minute au cavalier pour mettre pied à terre. Le sort se termine si vous utilisez une action pour le révoquer ou si la monture subit le moindre dégât.
 
-
-
 </Spell>
 
 <Spell>
@@ -6369,8 +5864,6 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 Vous lancez une bordée d'insultes empreintes d'un subtil enchantement à une créature située à portée et dans votre champ de vision. Tant qu'elle vous entend (elle n'a pas besoin de vous comprendre), elle doit réussir un [jet de sauvegarde] de [Sagesse], sans quoi elle subit 1d4 dégâts psychiques et subit un désavantage sur le prochain jet d'attaque qu'elle effectue avant la fin de son prochain tour.
 
 Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).
-
-
 
 </Spell>
 
@@ -6394,8 +5887,6 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les soins augmentent de 1d4 par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
@@ -6417,8 +5908,6 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 Vous prononcez des paroles curatives qui rendent un nombre de points de vie égal à 1d4 + votre modificateur de caractéristique d'incantation à un maximum de six créatures de votre choix situées à portée et dans votre champ de vision. Ce sort reste sans effet sur les morts-vivants et les créatures artificielles.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les soins augmentent de 1d4 par niveau au-delà du niveau 3.
-
-
 
 </Spell>
 
@@ -6442,8 +5931,6 @@ Vous prononcez un mot de pouvoir capable de submerger l'esprit d'une créature s
 
 Une cible [étourdie] a droit à un [jet de sauvegarde] de [Constitution] à la fin de chacun de ses tours. L'effet d'étourdissement se termine dès qu'elle en réussit un.
 
-
-
 </Spell>
 
 <Spell>
@@ -6463,8 +5950,6 @@ Une cible [étourdie] a droit à un [jet de sauvegarde] de [Constitution] à la 
 ### Description
 
 Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.
-
-
 
 </Spell>
 
@@ -6487,8 +5972,6 @@ Vous prononcez un mot de pouvoir capable d'obliger une créature située à port
 Vous et un maximum de cinq créatures consentantes situées dans un rayon de 1,50 mètre autour de vous vous téléportez immédiatement dans un sanctuaire précédemment choisi. Vous – et les créatures qui se téléportent éventuellement avec vous – apparaissez dans l'emplacement inoccupé le plus proche de l'endroit que vous avez désigné lorsque vous avez préparé votre sanctuaire (voir plus bas). Si vous lancez ce sort sans avoir préparé un sanctuaire au préalable, il n'a aucun effet.
 
 Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à votre divinité, comme un temple, ou entretenant des liens étroits avec elle. Si vous tentez de lancer ainsi le sort dans une zone qui n'est pas dédiée à votre divinité, il n'a aucun effet.
-
-
 
 </Spell>
 
@@ -6513,8 +5996,6 @@ Vous tissez dans les airs un motif aux couleurs mouvantes dans un cube de 9 mèt
 Le motif apparaît pendant un bref instant avant de s'évanouir. Chaque créature qui se trouve dans la zone et voit le motif doit faire un [jet de sauvegarde] de [Sagesse]. Celles qui échouent sont [charmées] pendant la durée du sort. Tant qu'une créature est [charmée] par ce sort, elle est [neutralisée] et a une vitesse de 0.
 
 Le sort se termine pour une créature donnée si elle subit le moindre dégât ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.
-
-
 
 </Spell>
 
@@ -6544,8 +6025,6 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les deux types de dégâts augmentent chacun de 1d8 par niveau au-delà du niveau 6.
 
-
-
 </Spell>
 
 <Spell>
@@ -6574,8 +6053,6 @@ L'autre face du mur n'inflige pas de dégâts.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 4.
 
-
-
 </Spell>
 
 <Spell>
@@ -6597,8 +6074,6 @@ L'autre face du mur n'inflige pas de dégâts.
 Un mur de force [invisible] se matérialise soudain en un point de votre choix situé à portée. Il s'oriente comme bon vous semble, comme une barrière horizontale, verticale ou inclinée. Il peut flotter librement ou reposer sur une surface solide. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d'un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 0,5 centimètre d'épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre (à vous de choisir).
 
 Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre tous les dégâts et résiste à toute _[dissipation de la magie]_. En revanche, on peut le détruire instantanément avec une _[désintégration]_. Le mur s'étend également sur le plan éthéré, ce qui empêche de le franchir sous forme éthérée.
-
-
 
 </Spell>
 
@@ -6625,8 +6100,6 @@ Le mur est un objet que l'on peut endommager, et on peut donc y ouvrir des brèc
 Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle réussit.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts que le mur inflige en apparaissant augmentent de 2d6 et les dégâts provoqués par un passage dans la zone d'air glacé augmentent de 1d6 par niveau au-delà du niveau 6.
-
-
 
 </Spell>
 
@@ -6658,8 +6131,6 @@ Le mur est un objet de pierre que l'on peut endommager et on peut donc y ouvrir 
 
 Si vous restez concentré sur le sort pendant toute sa durée, le mur devient une structure permanente et ne peut plus être dissipé, sinon il disparaît à la fin du sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -6683,8 +6154,6 @@ Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde] de [Force]. Les créatures qui échouent subissent 3d8 dégâts contondants, les autres la moitié seulement.
 
 Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les créatures et objets volants de taille P ou inférieure ne peuvent pas traverser le mur. Les matériaux libres et légers s'envolent si on les apporte dans le mur. Les flèches, les carreaux et autres projectiles ordinaires visant une cible située derrière le mur sont systématiquement détournés vers le haut et ratent automatiquement leur cible. (Ce phénomène n'affecte pas les rochers que lancent les géants ou les engins de siège, ni les projectiles similaires.) Les créatures sous forme gazeuse ne peuvent pas franchir le mur.
-
-
 
 </Spell>
 
@@ -6732,8 +6201,6 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 
 **_7. Violet._** La cible est [aveuglée] si elle rate son [jet de sauvegarde]. Elle doit alors faire un [jet de sauvegarde] de [Sagesse] au début de votre prochain tour. Si elle le réussit, elle recouvre la vue, si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas, tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) On peut détruire cette couche avec une _[dissipation de la magie]_ ou un sort similaire de niveau identique ou supérieur, capable de mettre un terme à un sort ou à un effet magique.
 
-
-
 </Spell>
 
 <Spell>
@@ -6756,15 +6223,11 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Nimbe de bienfaisance</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Abjuration</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -6779,8 +6242,6 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du sort. Au moment de l'incantation, les créatures vivantes situées à 3 mètres ou moins de vous récupèrent autant de points de vie que leur bonus de maîtrise, sans dépasser leur maximum. De plus, toutes bénéficient d'une résistance aux dégâts nécrotiques pour toute la durée du sort. Les morts-vivants présents dans cette zone au début de leur tour subissent 1d6 points de dégâts radiants.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 5 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 4.
-
-
 
 </Spell>
 
@@ -6803,8 +6264,6 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 Pour toute la durée du sort, vous dissimulez la cible que vous touchez aux yeux de la magie de divination.
 
 Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet ne mesurant pas plus de 3 mètres dans chaque dimension. La magie de divination ne peut plus viser votre cible et les organes de scrutation magiques ne la perçoivent plus.
-
-
 
 </Spell>
 
@@ -6831,8 +6290,6 @@ Quand le nuage apparaît, chaque créature se trouvant à l'intérieur doit effe
 Celles qui échouent subissent 10d8 dégâts de feu, les autres la moitié seulement. Une créature doit aussi effectuer ce jet quand elle entre dans la zone affectée pour la première fois du tour ou lorsqu'elle y finit son tour.
 
 Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au début de chacun de vos tours.
-
-
 
 </Spell>
 
@@ -6862,8 +6319,6 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 5.
 
-
-
 </Spell>
 
 <Spell>
@@ -6887,8 +6342,6 @@ Vous créez une sphère d'un gaz jaunâtre et nauséabond de 6 mètres de rayon 
 Chaque créature entièrement englobée dans le nuage au début de son tour doit effectuer un [jet de sauvegarde] de [Constitution] contre le poison. Celles qui échouent passent toutes leurs actions du tour à vomir. Les créatures qui ne respirent pas et celles qui sont immunisées contre le poison réussissent automatiquement ce jet.
 
 Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (au moins 30 km/h) le disperse au bout de seulement 1 round.
-
-
 
 </Spell>
 
@@ -6914,15 +6367,11 @@ Les sphères s'étendent en contournant les angles. Une créature qui rate son [
 
 Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas portés ou transportés.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Nuée de projectiles</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>5</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -6935,8 +6384,6 @@ Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas p
 ### Description
 
 Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort. Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 6 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul jet d'attaque à distance, chaque créature dans la zone subit automatiquement les dégâts habituels de l'arme. Celles dont votre attaque permet d'atteindre ou de dépasser la CA subissent le double des dégâts. Vous ajoutez normalement votre modificateur de [Dextérité] aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégât sont magiques (du type approprié aux projectiles).
-
-
 
 </Spell>
 
@@ -6960,15 +6407,11 @@ Vous créez un oeil magique [invisible] à portée, qui flotte dans les airs pen
 
 Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la direction de votre choix. Il peut s'éloigner de vous sur une distance illimitée, mais il ne peut pas entrer dans un autre plan d'existence. Une barrière solide l'empêche de passer, mais il peut se glisser à travers une ouverture d'au minimum 2,5 centimètres de diamètre.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Offrande inéluctable</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Enchantement</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -6984,15 +6427,11 @@ Une créature vivante à portée et dans votre champ de vision doit réussir un 
 
 Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'elle doit vous donner et ne peut donc pas s'en servir pour attaquer ni pour se défendre et subit par ailleurs d'un désavantage sur ses jets d'attaques Le sort prend fin si vous ou vos alliés blessez la cible ou lui lancez un sort néfaste, ou si vous vous trouvez au-delà de la portée du sort.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Ombres imaginaires</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Illusion</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -7008,15 +6447,11 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le sort persiste jusqu'à la fin de sa durée normale sans nécessiter de concentration.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Panacée</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Abjuration</Type> de niveau <Level>4</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -7029,8 +6464,6 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 ### Description
 
 Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux maladies, poisons et états spéciaux suivants qui affectent vos alliés situés dans la zone : [assourdi], [aveuglé], [charmé], [empoisonné], [étourdi], [neutralisé], [pétrifié] et [terrorisé]. Elle annule également les effets de sommeil et les effets du sort esprit faible.
-
-
 
 </Spell>
 
@@ -7064,8 +6497,6 @@ Choisissez autant de créatures situées à portée et dans votre champ de visio
 
 Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son [jet de sauvegarde], il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un _[souhait]_.
 
-
-
 </Spell>
 
 <Spell>
@@ -7086,15 +6517,11 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 
 Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Passage dimensionnel</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>6</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -7118,8 +6545,6 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le diamètre de l'ouverture augmente de 1,50 mètre par niveau au-delà du niveau 6.
 
-
-
 </Spell>
 
 <Spell>
@@ -7141,8 +6566,6 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 Vous êtes soudain capable d'entrer dans un arbre et de passer de son sein à celui d'un autre arbre de la même espèce situé dans un rayon de 150 mètres. Ces deux arbres doivent être vivants et au moins de la même taille que vous. Vous devez dépenser 1,50 mètre de déplacement pour entrer dans un arbre. Vous apprenez alors instantanément où se trouvent tous les autres arbres de la même espèce dans un rayon de 150 mètres et vous pouvez gagner l'un d'eux ou ressortir par l'arbre dans lequel vous êtes entré, ce mouvement faisant partie de votre déplacement de 1,50 mètre. Vous apparaissez à l'endroit de votre choix dans un rayon de 1,50 mètre autour de l'arbre dans lequel vous êtes arrivé en dépensant de nouveau 1,50 mètre de déplacement. S'il ne vous reste pas de distance de déplacement à dépenser, vous apparaissez dans un rayon de 1,50 mètre autour de l'arbre par lequel vous êtes entré.
 
 Vous pouvez utiliser cette capacité de transport une fois par round pendant toute la durée du sort. Vous devez terminer chaque tour en dehors d'un arbre.
-
-
 
 </Spell>
 
@@ -7168,8 +6591,6 @@ Pendant toute la durée du sort, chaque créature que vous choisissez et qui se 
 
 Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni aucun autre indice de son passage.
 
-
-
 </Spell>
 
 <Spell>
@@ -7192,8 +6613,6 @@ Un passage apparaît en un point de votre choix situé à portée et dans votre 
 
 Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient encore sont expulsés en toute sécurité dans l'emplacement inoccupé le plus proche de la surface sur laquelle vous avez lancé le sort.
 
-
-
 </Spell>
 
 <Spell>
@@ -7213,8 +6632,6 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 ### Description
 
 Jusqu'à la fin du sort, une créature consentante que vous touchez devient capable de se déplacer sur les surfaces verticales, et même au plafond la tête en bas, tout en gardant les mains libres. La cible bénéficie aussi d'une vitesse d'escalade égale à sa vitesse de marche.
-
-
 
 </Spell>
 
@@ -7236,8 +6653,6 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 
 Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau prend la consistance et l'apparence de l'écorce, et sa CA ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.
 
-
-
 </Spell>
 
 <Spell>
@@ -7257,8 +6672,6 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 ### Description
 
 Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure que de la pierre. Jusqu'à la fin du sort, la cible est résistante aux dégâts non magiques contondants, perforants et tranchants.
-
-
 
 </Spell>
 
@@ -7283,8 +6696,6 @@ Un dôme de force immobile, de 3 mètres de rayon, apparaît soudain autour et a
 Le dôme peut abriter un maximum de neuf créatures de taille M ou inférieure, en plus de vous. Le sort échoue si la zone comprend une créature de taille supérieure ou plus de dix créatures. Les créatures et les objets qui se trouvent à l'intérieur du dôme lors de l'incantation peuvent en sortir et y rentrer librement ; en revanche, les autres créatures sont incapables de franchir ses limites. Les sorts et autres effets magiques ne peuvent pas s'étendre au-delà de la limite du dôme ni être lancés à travers. L'atmosphère au sein du dôme est agréable et sèche, quelles que soient les conditions météorologiques à l'extérieur.
 
 Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé ou plongé dans le noir. Vu de l'extérieur, le dôme est opaque, de la couleur que vous désirez, mais vu de l'intérieur, il est transparent.
-
-
 
 </Spell>
 
@@ -7312,8 +6723,6 @@ Si quelqu'un brise le corps physique de la cible alors qu'elle est [pétrifiée]
 
 Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée maximale, la cible est définitivement changée en pierre jusqu'à ce que quelqu'un dissipe l'effet.
 
-
-
 </Spell>
 
 <Spell>
@@ -7336,15 +6745,11 @@ Vous projetez une image fantasmagorique des pires terreurs d'une créature. Chaq
 
 Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utiliser l'action se précipiter à chacun de ses tours et de s'éloigner de vous par l'itinéraire le plus sûr, à moins qu'elle n'ait nulle part où aller. Si elle termine son tour en un endroit où vous ne figurez plus dans son champ de vision, elle peut faire un [jet de sauvegarde] de [Sagesse]. Si elle le réussit, le sort se termine pour elle.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Pluie de projectiles</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -7359,8 +6764,6 @@ Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utilise
 Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort.
 
 Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 3 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul test d'attaque à distance, chaque créature dans la zone subit les dégâts habituels de votre attaque, la moitié seulement si le résultat du test d'attaque n'a pas atteint la CA de la créature. Vous ajoutez normalement votre modificateur de [Dextérité] aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégâts sont magiques (du type approprié aux projectiles).
-
-
 
 </Spell>
 
@@ -7384,15 +6787,11 @@ La foudre jaillit de votre main et bondit sur la créature que vous tentez de to
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Poison naturel</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -7407,8 +6806,6 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 Une arme de votre choix exsude une substance poisseuse et venimeuse. À la première attaque que vous réussissez avec cette arme, la victime doit réussir un [jet de sauvegarde] de [Constitution] ou subir 2d6 dégât de poison et être [empoisonnée]. En cas de succès, elle subit seulement la moitié des dégâts et elle n'est pas [empoisonnée].
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -7436,8 +6833,6 @@ Les divinités et autres dirigeants planaires peuvent empêcher un portail né d
 
 Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifique (sachant que les pseudonymes, les titres et les surnoms ne fonctionnent pas). Si cette créature se trouve sur un autre plan que celui sur lequel vous vous trouvez, le portail s'ouvre dans ses environs immédiats et attire la créature en son sein. Elle réapparaît de votre côté du portail, dans l'espace inoccupé le plus proche. Cela ne vous donne aucun contrôle sur la créature, qui agit librement, comme le MJ le désire. Elle peut s'en aller, vous attaquer ou vous aider.
 
-
-
 </Spell>
 
 <Spell>
@@ -7464,15 +6859,11 @@ Vous pouvez amener des objets avec vous, tant que leur poids ne dépasse pas la 
 
 Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une créature, vous et la créature qui voyage avec vous subissez chacun 4d6 dégâts de force tandis que le sort s'avère incapable de vous téléporter.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Porte-bonheur</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Abjuration</Type>, <Level>tour de magie</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -7485,8 +6876,6 @@ Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une cr
 ### Description
 
 Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
-
-
 
 </Spell>
 
@@ -7532,8 +6921,6 @@ Si le réceptacle est détruit ou que le sort se termine, votre âme regagne imm
 
 Le réceptacle est détruit quand le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
@@ -7555,8 +6942,6 @@ Le réceptacle est détruit quand le sort se termine.
 Vous touchez une créature consentante et lui conférez une aptitude limitée à voir dans le futur immédiat. Pendant toute la durée du sort, elle ne peut pas être surprise et elle a l'avantage sur les jets d'attaque, les tests de caractéristique et les [jets de sauvegarde]. De plus, les autres créatures sont affectées par un désavantage lors de leurs jets d'attaque contre elle pendant toute la durée du sort.
 
 Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de sa durée.
-
-
 
 </Spell>
 
@@ -7592,8 +6977,6 @@ Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner
 
 Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de trois effets non instantanés actifs à la fois. Vous pouvez révoquer un tel effet par une action.
 
-
-
 </Spell>
 
 <Spell>
@@ -7615,8 +6998,6 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 Un maximum de six créatures de votre choix, situées à portée et dans votre champ de vision, récupèrent chacune un nombre de points de vie égal à 2d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 2.
-
-
 
 </Spell>
 
@@ -7644,8 +7025,6 @@ Vous pouvez attaquer avec la flamme, mais cela met fin au sort. Pour cela, quand
 
 Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).
 
-
-
 </Spell>
 
 <Spell>
@@ -7668,15 +7047,11 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort crée une fléchette de plus par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Projectile toxique</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -7693,8 +7068,6 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 À son impact, le projectile explose en un nuage toxique de 3 mètres de diamètre, centré sur votre cible. Si vous touchez votre cible, elle doit réussir un [jet de sauvegarde] de [Constitution] ou subir 4d6 dégâts de poison (en remplacement des dégâts habituels) et être [empoisonnée] pendant 1 minute. En cas de réussite, elle divise les dégâts par deux et n'est pas [empoisonnée]. Toutes les créatures dans la zone d'effet, y compris la cible initiale si vous l'avez manquée, subissent 2d6 dégâts de poison (la moitié si la sauvegarde est réussie) et, en cas de [jet de sauvegarde] raté, elles sont [empoisonnées] pendant seulement 1 round.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
-
-
 
 </Spell>
 
@@ -7726,8 +7099,6 @@ Le sort peut se terminer plus tôt pour vous ou pour l'un de vos camarades. Si q
 
 Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons restent sous forme astrale et doivent se débrouiller seuls pour regagner leur corps physique, en général en se laissant tomber à 0 point de vie.
 
-
-
 </Spell>
 
 <Spell>
@@ -7749,8 +7120,6 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 Vous touchez une créature et lui donnez une protection relative contre la mort. Quand elle devrait tomber à 0 point de vie pour la première fois suite à des dégâts, elle tombe à la place à 1 point de vie et le sort se termine.
 
 Si le sort est encore actif quand la cible est soumise à un effet qui devrait la tuer sur-le-champ sans lui infliger de dégâts, l'effet est annulé contre cette cible et le sort se termine.
-
-
 
 </Spell>
 
@@ -7776,8 +7145,6 @@ Cette protection se traduit par plusieurs bénéfices.
 
 Les créatures des types précédemment nommés subissent un désavantage lors des jets d'attaque contre la cible, et cette dernière ne peut être [charmée], [terrorisée] ou possédée par elles. Si la cible est déjà sous l'effet d'un tel état spécial émanant d'une telle créature, elle obtient un avantage lors d'un éventuel nouveau [jet de sauvegarde] contre l'effet en question.
 
-
-
 </Spell>
 
 <Spell>
@@ -7800,8 +7167,6 @@ Vous touchez une créature. Si elle est [empoisonnée], vous neutralisez ce pois
 
 Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [jets de sauvegarde] contre le poison et se montre résistante aux dégâts de poison.
 
-
-
 </Spell>
 
 <Spell>
@@ -7821,8 +7186,6 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [je
 ### Description
 
 Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
-
-
 
 </Spell>
 
@@ -7872,8 +7235,6 @@ Toute la zone protégée émet une aura magique. Si quelqu'un lance avec succès
 
 Vous pouvez protéger une structure en permanence si vous lancez ce sort tous les jours pendant un an.
 
-
-
 </Spell>
 
 <Spell>
@@ -7894,15 +7255,11 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 
 Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Putréfaction</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Nécromancie</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -7921,8 +7278,6 @@ Les dégâts cessent si la cible quitte la portée du sort.
 Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate et affecte les créatures situées à 1,50 mètre ou moins d'elle. Les nouvelles cibles affectées doivent réussir un [jet de sauvegarde] de [Constitution] ou de [Dextérité] pour éviter d'être affecté par le sort.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3, les victimes subissent 2d4 dégâts. Les dégâts passent à 3d4 au niveau 5, 4d4 au niveau 6 et 5d4 au niveau 9.
-
-
 
 </Spell>
 
@@ -7950,8 +7305,6 @@ Ce sort referme les plaies mortelles, mais ne restaure pas les parties manquante
 
 Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux tests de caractéristique. À chaque fois que la cible termine un repos long, ce malus se réduit de 1 jusqu'à disparaître.
 
-
-
 </Spell>
 
 <Spell>
@@ -7973,8 +7326,6 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d'une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, la créature inflige seulement la moitié des dégâts habituels lorsqu'elle attaque avec une arme basée sur la [Force].
 
 La cible a droit à un [jet de sauvegarde] de [Constitution] contre le sort à la fin de chacun de ses tours. Le sort se termine si elle réussit.
-
-
 
 </Spell>
 
@@ -7998,8 +7349,6 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous créez un rayon de plus par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -8021,8 +7370,6 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, elle subit 1d8 dégâts de froid et sa vitesse est réduite de 3 mètres jusqu'au début de votre prochain tour.
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11 (3d8) et 17 (4d8).
-
-
 
 </Spell>
 
@@ -8052,8 +7399,6 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
@@ -8080,8 +7425,6 @@ Vous pouvez créer une nouvelle ligne de lumière en dépensant votre action à 
 
 Pendant toute la durée du sort, une boule de lumière brille dans votre main. Elle émet une lumière vive dans un rayon de 9 mètres et une lumière faible dans un rayon de 9 mètres supplémentaires. Cette lumière est de la même nature que la lumière du soleil.
 
-
-
 </Spell>
 
 <Spell>
@@ -8105,8 +7448,6 @@ Vous touchez une créature et stimulez ses capacités de guérison naturelle. La
 Si la cible a des membres sectionnés (des doigts, des jambes, une queue, etc.), ils repoussent au bout de 2 minutes.
 
 Si vous disposez de la partie amputée et la maintenez contre le moignon, le sort ressoude instantanément le membre au moignon.
-
-
 
 </Spell>
 
@@ -8154,8 +7495,6 @@ La magie façonne un nouveau corps pour accueillir l'âme, ce qui risque de modi
 
 La créature réincarnée se souvient de son ancienne vie et de ses expériences passées. Elle conserve les capacités dont elle disposait sous sa forme d'origine, mais échange sa race précédente contre la nouvelle et modifie ses traits raciaux en conséquence.
 
-
-
 </Spell>
 
 <Spell>
@@ -8180,8 +7519,6 @@ Pour cela, vous devez toucher l'objet et la cassure ou la déchirure ne doit pas
 
 Le sort permet de réparer un objet magique ou une créature artificielle, mais pas de restaurer sa magie.
 
-
-
 </Spell>
 
 <Spell>
@@ -8202,8 +7539,6 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action se précipiter quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
@@ -8213,7 +7548,7 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 - SRD: <AltName>[Hellish Rebuke](spells_vo.md#hellish-rebuke)</AltName>
 
 - <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime></CastingTime>
+- **Temps d'incantation :** <CastingTime>1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous</CastingTime>
 - **Portée :** <Range>18 mètres</Range>
 - **Composantes :** <Components>V, S</Components>
 - **Durée :** <Duration>instantanée</Duration>
@@ -8225,8 +7560,6 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle soit un instant enveloppée d'un linceul de flammes infernales. Elle doit faire un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 2d10 dégâts de feu, sinon la moitié seulement.
 
 **_À plus haut niveau._**Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par emplacement de sort au-dessus du 1er.
-
-
 
 </Spell>
 
@@ -8262,8 +7595,6 @@ Tant que la cible l'effraie, la créature doit impérativement utiliser son dép
 
 Une créature qui réussit son [jet de sauvegarde] contre l'effet est immunisée contre lui pendant 1 minute, après quoi, il peut de nouveau l'affecter.
 
-
-
 </Spell>
 
 <Spell>
@@ -8286,8 +7617,6 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, elle peut
 
 Le sort se termine alors.
 
-
-
 </Spell>
 
 <Spell>
@@ -8308,8 +7637,6 @@ Le sort se termine alors.
 
 Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.
 
-
-
 </Spell>
 
 <Spell>
@@ -8329,8 +7656,6 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 ### Description
 
 Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [aveuglé], [assourdi], [paralysé] ou [empoisonné].
-
-
 
 </Spell>
 
@@ -8359,8 +7684,6 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 * Une réduction sur l'une des valeurs de caractéristique de la cible.
 
 * Un effet réduisant le maximum de points de vie de la cible.
-
-
 
 </Spell>
 
@@ -8392,8 +7715,6 @@ Si ce sort est destiné à une créature décédée depuis un an ou plus, son in
 
 Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavantage lors des jets d'attaque et de sauvegarde et des tests de caractéristique jusqu'à ce que vous ayez terminé un repos long.
 
-
-
 </Spell>
 
 <Spell>
@@ -8417,8 +7738,6 @@ Vous touchez une créature décédée depuis 200 ans au maximum, de n'importe qu
 Si son âme est libre et consentante, elle revient à la vie avec tous ses points de vie.
 
 Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes les maladies et lève toutes les malédictions qui affectaient éventuellement la cible à sa mort. Il remplace les organes et les membres abîmés ou manquants. Il peut même fournir un nouveau corps à la cible si l'original n'existe plus, mais dans ce cas, vous devez prononcer le nom de la créature à ressusciter. Elle apparaît alors dans un emplacement inoccupé de votre choix dans un rayon de 3 mètres autour de vous.
-
-
 
 </Spell>
 
@@ -8446,8 +7765,6 @@ Vous pouvez affubler le messager d'une apparence que la cible trouvera monstrueu
 
 Si vous êtes en possession d'un élément corporel de la cible, comme une mèche de cheveux, des rognures d'ongles ou autre, elle subit un désavantage lors de son [jet de sauvegarde].
 
-
-
 </Spell>
 
 <Spell>
@@ -8467,8 +7784,6 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 ### Description
 
 Vous touchez une créature morte au cours de la minute précédente. Elle revient à la vie avec 1 point de vie. Ce sort ne ramène pas à la vie les créatures mortes de vieillesse et ne restaure pas les parties manquantes du corps.
-
-
 
 </Spell>
 
@@ -8518,8 +7833,6 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 
 **_Terreur._** Les créatures affectées sont [terrorisées] tant qu'elles se trouvent dans la zone.
 
-
-
 </Spell>
 
 <Spell>
@@ -8543,8 +7856,6 @@ Vous protégez une créature à portée contre les attaques.
 Jusqu'à la fin du sort, toute créature qui vise la cible avec une attaque ou un sort néfaste doit d'abord effectuer un [jet de sauvegarde] de [Sagesse]. Si elle le rate, elle doit choisir une nouvelle cible, sans quoi l'attaque ou le sort est perdu. Ce sort ne protège pas la cible contre les effets de zone, comme l'explosion d'une _[boule de feu]_.
 
 Ce sort se termine si la créature protégée attaque ou lance un sort affectant une créature ennemie.
-
-
 
 </Spell>
 
@@ -8584,15 +7895,11 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, vous pouvez augmenter la taille du cube de 30 mètres par niveau au-delà du niveau 4. Ainsi, avec un emplacement de niveau 5, vous pouvez protéger une zone de 60 mètres de côté.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Sang du démon</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Nécromancie</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -8607,8 +7914,6 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez une attaque de sort au contact. Si elle est réussie, le sang de la cible devient corrosif, lui infligeant 1d6 dégâts d'acide à chacun de vos tours. Si la cible réussit un [jet de sauvegarde] de [Constitution], les dégâts sont ignorés pour ce tour.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -8629,8 +7934,6 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 ### Description
 
 Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
-
-
 
 </Spell>
 
@@ -8670,8 +7973,6 @@ Si elle rate son jet, le sort crée un organe sensoriel [invisible] dans un rayo
 
 Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vous avez déjà vu. L'organe sensoriel apparaît alors à cet endroit et n'en bouge pas.
 
-
-
 </Spell>
 
 <Spell>
@@ -8695,8 +7996,6 @@ Grâce à ce sort, vous pouvez dissimuler une créature consentante ou un objet 
 Si la cible est une créature, elle entre en état d'animation suspendue. Le temps ne s'écoule plus pour elle et elle ne vieillit plus.
 
 Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce peut être ce que vous voulez, mais ce doit être visible ou se produire dans un rayon de 1,5 kilomètre autour de la cible. Par exemple, « au bout de 1 000 ans » ou « quand la tarasque se réveillera ». Ce sort se termine également si la cible subit le moindre dégât.
-
-
 
 </Spell>
 
@@ -8722,8 +8021,6 @@ Une fois à chacun de vos tours, vous pouvez utiliser une action bonus pour ordo
 
 Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plus de 18 mètres de vous, le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
@@ -8745,8 +8042,6 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 Pendant toute la durée du sort, aucun son ne peut se créer au sein d'une sphère de 6 mètres de rayon centrée sur un point de votre choix à portée, ni la traverser.
 
 Une créature ou un objet entièrement contenu dans la sphère sont immunisés contre les dégâts de tonnerre, et les créatures entièrement contenues dans la sphère sont [assourdies]. Il est impossible de lancer un sort à composante verbale depuis la sphère.
-
-
 
 </Spell>
 
@@ -8776,8 +8071,6 @@ Si le simulacre est endommagé, vous pouvez le réparer dans un laboratoire d'al
 
 Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà en activité est détruit sur-lechamp.
 
-
-
 </Spell>
 
 <Spell>
@@ -8799,8 +8092,6 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie temporaires pendant la durée du sort.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -8824,8 +8115,6 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 1.
 
-
-
 </Spell>
 
 <Spell>
@@ -8847,8 +8136,6 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 Une vague d'énergie curative s'étend depuis un point de votre choix situé à portée. Choisissez un maximum de six créatures présentes dans une sphère de 9 mètres de rayon centrée sur ce point. Chacune d'entre elles récupère un nombre de points de vie égal à 3d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants ni sur les créatures artificielles.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 5.
-
-
 
 </Spell>
 
@@ -8875,8 +8162,6 @@ Chaque créature affectée par le sort tombe [inconsciente], en commençant par 
 Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent être [charmées].
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d8 de plus par niveau au-delà du niveau 1.
-
-
 
 </Spell>
 
@@ -8920,8 +8205,6 @@ Formulez votre souhait à votre MJ de la manière la plus précise possible. Le 
 
 Le stress lié à l'incantation d'un souhait pour faire autre chose que répliquer un autre sort vous affaiblit grandement. À tel point que vous subissez 1d10 dégâts nécrotiques par niveau de sort à chaque fois que vous lancez un autre sort par la suite, et ce jusqu'à ce que vous ayez terminé un repos long. Il est absolument impossible de réduire ces dégâts ou de les empêcher, de quelque manière que ce soit. De plus, votre [Force] tombe à 3 (si elle n'est pas déjà de 3 ou moins) pendant 2d4 jours. À chaque fois que vous passez une de ces journées à vous reposer et ne rien faire de plus que des activités légères, le temps de récupération qui vous reste diminue de 2 jours. Enfin, suite à ce stress, il y a 33 % de chances que vous ne puissiez plus jamais lancer souhait.
 
-
-
 </Spell>
 
 <Spell>
@@ -8947,8 +8230,6 @@ Vous pouvez déplacer la sphère sur un maximum de 9 mètres par une action bonu
 Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de 1,50 mètre de haut et la faire sauter par-dessus des fosses de 3 mètres de large. Elle embrase les objets inflammables qui ne sont ni portés ni transportés. Elle émet une lumière vive dans un rayon de 6 mètres et une lumière faible dans un rayon de 6 mètres supplémentaires.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 2.
-
-
 
 </Spell>
 
@@ -8982,8 +8263,6 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 6.
 
-
-
 </Spell>
 
 <Spell>
@@ -9012,15 +8291,11 @@ Une créature enfermée dans la sphère peut utiliser son action pour exercer un
 
 Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce qu'elle contient.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Stalagmites fulgurantes</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -9036,15 +8311,11 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts perforants augmentent de 2d4 pour chaque niveau au-delà du niveau 2.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Strangulation</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -9059,8 +8330,6 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 Vous tendez le bras en direction de votre cible et, de votre main, vous mimez son étranglement. Faites une attaque de sort à distance. En cas de réussite, la cible subit 1d6 points de dégâts contondants et elle doit faire un [jet de sauvegarde] de [Force] ou être [entravée]. Si le jet d'attaque initial était un succès, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement les mêmes dégâts et l'obliger à faire un nouveau [jet de sauvegarde] de [Force]. Si vous faites quoi que ce soit d'autre (vous pouvez toutefois parler), le sort prend fin. Le sort prend aussi fin si la cible passe hors de portée ou en dehors de votre champ de vision.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3, vous infligez 2d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par tranche de 2 niveaux de plus (jusqu'à 5d6 au niveau 9).
-
-
 
 </Spell>
 
@@ -9092,8 +8361,6 @@ Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pe
 
 Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine.
 
-
-
 </Spell>
 
 <Spell>
@@ -9121,8 +8388,6 @@ Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pe
 Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine pour elle.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la durée du sort est de 10 jours. Si vous utilisez un emplacement de niveau 8, elle est de 30 jours et si vous utilisez un emplacement de niveau 9, elle est de 1 an et 1 jour.
-
-
 
 </Spell>
 
@@ -9172,8 +8437,6 @@ Pendant tout ce temps, elles sont incapables de tenir une conversation sensée e
 
 Une telle créature se réveille si elle subit des dégâts ou si quelqu'un utilise son action pour la réveiller en la secouant ou la giflant.
 
-
-
 </Spell>
 
 <Spell>
@@ -9203,8 +8466,6 @@ Lors des rounds suivants, vous pouvez utiliser votre action pour maintenir votre
 Si l'objet est porté ou transporté par une créature, faites un test de caractéristique avec votre caractéristique d'incantation, opposé à un test de [Force] de cette créature. Si vous l'emportez, vous éloignez l'objet de cette créature sur un maximum de 9 mètres dans la direction de votre choix, mais pas hors de portée du sort.
 
 Vous exercez un contrôle précis sur les objets pris dans votre étreinte télékinétique, vous pouvez donc manipuler un outil basique, ouvrir une porte ou un récipient, déposer un objet dans un récipient ou en retirer un, ou encore verser le contenu d'une fiole.
-
-
 
 </Spell>
 
@@ -9254,8 +8515,6 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 
 **_Incident._** La magie imprévisible du sort complique le voyage. Chaque créature téléportée (ou l'objet téléporté) subit 3d10 dégâts de force tandis que le MJ relance le dé pour savoir où vous arrivez (sachant qu'il peut se produire plusieurs incidents, chacun infligeant ses propres dégâts).
 
-
-
 </Spell>
 
 <Spell>
@@ -9279,8 +8538,6 @@ Une tempête faite de nuages de feu ronflant se forme à l'endroit que vous avez
 Celles qui échouent subissent 7d10 dégâts de feu, les autres la moitié seulement.
 
 Le feu endommage les objets présents dans la zone et embrase les objets inflammables de la zone que personne ne porte ou ne transporte. Si vous le désirez, les flammes peuvent épargner la végétation présente dans la zone.
-
-
 
 </Spell>
 
@@ -9308,8 +8565,6 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts contondants augmentent de 1d8 par niveau au-delà du niveau 4.
 
-
-
 </Spell>
 
 <Spell>
@@ -9334,15 +8589,11 @@ Le sol de la zone est couvert d'une couche de verglas si glissante que le terrai
 
 Si une créature se concentre dans la zone d'effet du sort, elle doit réussir un [jet de sauvegarde] de [Constitution] contre le DD du [jet de sauvegarde] de votre sort, ou perdre sa concentration.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Tempête de sable</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>8</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -9359,8 +8610,6 @@ Vous créez une gigantesque tempête de sable qui balaye tout sur son passage. L
 Une fois la direction fixée, il n'est plus possible d'en modifier la course. La vague inflige 8d6 dégâts contondants à toute créature qui se trouve sur son passage. Chaque créature affectée a droit à un [jet de sauvegarde] de [Force] pour réduire les dégâts de moitié. Les créatures de taille G ou inférieure qui le ratent sont emportées dans les airs et subissent 3d6 dégâts supplémentaires (non affectés par le résultat du [jet de sauvegarde]), tandis que les créatures de taille TG ou supérieure tombent à terre. Tant qu'une créature se trouve dans la zone d'effet de la tempête, elle est [aveuglée] et elle bénéficie d'un abri important.
 
 Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dégâts supplémentaires (qui sont divisés par deux en cas de [jet de sauvegarde] de [Force] réussi).
-
-
 
 </Spell>
 
@@ -9394,8 +8643,6 @@ De menaçantes nuées orageuses se forment en un point situé dans votre champ d
 
 Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit de se concentrer sur un sort. Enfin, des bourrasques de vent fort (de 30 à 75 kilomètres par heure) dispersent automatiquement le brouillard, la brume et les phénomènes similaires stagnant dans la zone, qu'ils soient d'origine ordinaire ou magique.
 
-
-
 </Spell>
 
 <Spell>
@@ -9420,8 +8667,6 @@ Si le point que vous avez choisi est un objet en votre possession ou un objet qu
 
 Si une partie de la zone affectée par ce sort chevauche une zone de lumière issue d'un sort de niveau 2 ou moins, elle dissipe le sort de lumière.
 
-
-
 </Spell>
 
 <Spell>
@@ -9445,8 +8690,6 @@ Des tentacules noirs grouillants envahissent le sol d'un emplacement de 6 mètre
 Quand une créature pénètre dans la zone affectée pour la première fois au cours d'un tour, ou quand elle débute son tour dans cette zone, elle doit réussir un [jet de sauvegarde] de [Dextérité], sans quoi elle reçoit 3d6 dégâts contondants et se retrouve [entravée] par les tentacules jusqu'à la fin du sort. Une créature qui commence son tour déjà [entravée] dans la zone subit 3d6 dégâts contondants.
 
 Une créature [entravée] par les tentacules peut utiliser son action pour effectuer un test de [Force] ou de [Dextérité] (à elle de choisir) contre le DD de sauvegarde de votre sort. Si elle le réussit, elle parvient à se libérer.
-
-
 
 </Spell>
 
@@ -9474,8 +8717,6 @@ Les caractéristiques tactiles de la zone ne changent pas, les créatures qui y 
 
 Une fois qu'une créature a compris l'illusion, elle la voit comme une image floue superposée au terrain réel.
 
-
-
 </Spell>
 
 <Spell>
@@ -9499,8 +8740,6 @@ Vous écrivez sur un papier, un parchemin ou un autre matériau adapté à l'éc
 À vos yeux et à ceux de toutes les créatures que vous désignez lors de l'incantation, l'écriture semble normale, de votre main, et transmet le message que vous aviez en tête en rédigeant le texte. Pour les autres personnes, vos écrits semblent appartenir à une langue inconnue ou magique complètement inintelligible, ou alors ils transmettent un message complètement différent de la réalité, rédigé d'une main qui n'est pas la vôtre et dans une autre langue de votre connaissance.
 
 Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original aussi. Une créature dotée de vision parfaite est capable de lire le message original.
-
-
 
 </Spell>
 
@@ -9538,8 +8777,6 @@ Si vous lancez ce sort à plusieurs reprises, vous ne pouvez avoir que trois eff
 
 Vous pouvez révoquer un tel effet par une action.
 
-
-
 </Spell>
 
 <Spell>
@@ -9570,8 +8807,6 @@ Une créature [entravée] par les toiles peut utiliser son action pour effectuer
 
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu brûle en 1 round, infligeant 2d4 dégâts de feu à toute créature qui commence son tour dans les flammes.
 
-
-
 </Spell>
 
 <Spell>
@@ -9594,15 +8829,11 @@ Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites 
 
 Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Transpercer</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Invocation</Type> de niveau <Level>1</Level>
 - **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
@@ -9619,8 +8850,6 @@ La prochaine fois que vous blessez une créature avec une arme à distance qui i
 Retirer l'arme lui inflige 2d4 dégâts, ou la moitié si elle réussit un [jet de sauvegarde] de [Dextérité].
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2, remplacez les d4 par des d6. Pour chaque niveau de sort supérieur augmentez le dé utilisé, jusqu'au d12 pour un emplacement de niveau 5.
-
-
 
 </Spell>
 
@@ -9641,8 +8870,6 @@ Retirer l'arme lui inflige 2d4 dégâts, ou la moitié si elle réussit un [jet 
 ### Description
 
 Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure située à portée et une autre plante de mêmes dimensions, située à n'importe quelle distance mais sur le même plan d'existence. Vous devez impérativement avoir vu ou touché la plante de destination au moins une fois auparavant. Pendant toute la durée du sort, n'importe quelle créature peut entrer par la plante de départ et ressortir par celle d'arrivée en dépensant 1,50 mètre de déplacement.
-
-
 
 </Spell>
 
@@ -9680,8 +8907,6 @@ Une structure s'effondre automatiquement si une fissure s'ouvre sous elle (voir 
 
 Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe à terre et elle est ensevelie sous les décombres. Il faut réussir un test de [Force (Athlétisme)] DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son [jet de sauvegarde], elle subit seulement la moitié des dégâts, ne tombe pas à terre et n'est pas ensevelie.
 
-
-
 </Spell>
 
 <Spell>
@@ -9708,8 +8933,6 @@ Vous pouvez voir par les yeux et entendre par les oreilles de votre double comme
 
 Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à ce qui se passe directement autour de vous.
 
-
-
 </Spell>
 
 <Spell>
@@ -9732,8 +8955,6 @@ Vous percevez la présence de tout piège se trouvant à portée et dans votre c
 
 Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vous donne une idée générale de la nature du danger qu'il représente.
 
-
-
 </Spell>
 
 <Spell>
@@ -9755,8 +8976,6 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 Ce sort vous permet de trouver le chemin physique le plus direct et le plus court vers un endroit fixe spécifique avec lequel vous êtes familier et qui se trouve sur le même plan d'existence que vous. Le sort échoue si vous choisissez une destination située sur un autre plan d'existence, une destination mouvante (comme une forteresse mobile) ou une destination n'ayant rien de spécifique (comme l'antre d'un dragon vert).
 
 Tant que le sort persiste et que vous êtes sur le même plan d'existence que votre destination, vous savez dans quelle direction et à quelle distance elle se trouve. Tant que vous faites route vers votre destination, à chaque fois que vous avez le choix entre plusieurs itinéraires, vous déterminez automatiquement celui qui sera le plus court et le plus direct (mais pas forcément le plus sûr).
-
-
 
 </Spell>
 
@@ -9790,8 +9009,6 @@ Vous pouvez communiquer par télépathie avec votre monture tant qu'elle se trou
 
 Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vous pouvez libérer la monture du lien quand vous le désirez, par une action qui la fait disparaître.
 
-
-
 </Spell>
 
 <Spell>
@@ -9820,8 +9037,6 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du premier.
 
-
-
 </Spell>
 
 <Spell>
@@ -9844,8 +9059,6 @@ Vous touchez une ouverture fermée, comme une porte, une fenêtre, un portail, u
 
 Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser ou à ouvrir de force : le DD pour le briser ou crocheter ses éventuelles serrures augmente de 10.
 
-
-
 </Spell>
 
 <Spell>
@@ -9866,8 +9079,6 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 
 Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'avantage lors de votre premier jet d'attaque contre elle, à condition que le sort ne se soit pas terminé avant.
 
-
-
 </Spell>
 
 <Spell>
@@ -9887,8 +9098,6 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 ### Description
 
 Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
-
-
 
 </Spell>
 
@@ -9912,15 +9121,11 @@ Grâce à ce sort, la créature consentante que vous touchez est capable de voir
 
 Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repère les portes dérobées cachées par magie et voit le plan éthéré, tout cela dans un rayon de 36 mètres.
 
-
-
 </Spell>
 
 <Spell>
 
 # <Name>Vitalité</Name>
-
-- SRD: <AltName></AltName>
 
 - <Type>Évocation</Type> de niveau <Level>3</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
@@ -9935,8 +9140,6 @@ Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repèr
 Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ de vision, récupèrent 1 point de vie par round jusqu'à la fin du sort.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, vous augmentez le nombre de points de vie récupéré par round de 1 point par niveau au-delà du niveau 3.
-
-
 
 </Spell>
 
@@ -9957,8 +9160,6 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 ### Description
 
 Pendant toute la durée du sort, vous voyez les créatures et les objets [invisibles] comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
-
-
 
 </Spell>
 
@@ -9981,8 +9182,6 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 Vous touchez une créature consentante et lui conférez la capacité de voler à une vitesse de 18 mètres pendant toute la durée du sort. Si la cible se trouve dans les airs quand le sort se termine, elle tombe, à moins de pouvoir arrêter sa chute.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 3.
-
-
 
 </Spell>
 
@@ -10009,8 +9208,6 @@ Une créature affectée est consciente du sort qui la limite et peut donc soigne
 </Spell>
 
 </SpellsHD>
-
-
 
 [à terre]: conditions_hd.md#À-terre
 [assourdi]: conditions_hd.md#assourdi
