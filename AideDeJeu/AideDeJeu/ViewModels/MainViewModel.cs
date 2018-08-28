@@ -24,7 +24,8 @@ namespace AideDeJeu.ViewModels
             if (item != null && item.Name != null)
             {
                 var basename = Helpers.IdFromName(item.Name);
-                var name = $"{source}.md#{basename}";
+                //var name = $"{source}.md#{basename}";
+                var name = $"{basename}";
                 int index = 0;
                 while (true)
                 {
@@ -35,7 +36,8 @@ namespace AideDeJeu.ViewModels
                         return;
                     }
                     index++;
-                    name = $"{source}.md#{basename}{index}";
+                    //name = $"{source}.md#{basename}{index}";
+                    name = $"{basename}{index}";
                 }
             }
         }
