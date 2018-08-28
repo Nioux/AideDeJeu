@@ -51,13 +51,13 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 |d8|Trait de personnalité|
 |---|---|
 |1|Je garde mon calme en toute situation.
-|2|Malgré mon statut, je m'estime supérieur à la<br>plupart de mes contemporains.|
-|3|Je suis une tombe qui sait garder les secrets<br>comme personne.|
-|4|Je juge du caractère d'une personne<br>simplement en regardant sa manière<br>d'interagir avec des individus d'un statut social<br>inférieur.|
-|5|Je ne peux m'empêcher de glisser quelques<br>piques ironiques dans chacun de mes propos.|
-|6|J'aime le travail bien fait et ne supporte pas les<br>tire-au-flanc.|
-|7|Je suis une source intarissable d'anecdotes<br>amusantes, que je prends un malin plaisir à<br>distiller au moment opportun.|
-|8|Quelle que soit la situation, je reste souriant et<br>enjoué.|
+|2|Malgré mon statut, je m'estime supérieur à la <!--br-->plupart de mes contemporains.|
+|3|Je suis une tombe qui sait garder les secrets <!--br-->comme personne.|
+|4|Je juge du caractère d'une personne <!--br-->simplement en regardant sa manière <!--br-->d'interagir avec des individus d'un statut social <!--br-->inférieur.|
+|5|Je ne peux m'empêcher de glisser quelques <!--br-->piques ironiques dans chacun de mes propos.|
+|6|J'aime le travail bien fait et ne supporte pas les <!--br-->tire-au-flanc.|
+|7|Je suis une source intarissable d'anecdotes <!--br-->amusantes, que je prends un malin plaisir à <!--br-->distiller au moment opportun.|
+|8|Quelle que soit la situation, je reste souriant et <!--br-->enjoué.|
 
 <!--/Generic-->
 
@@ -67,12 +67,12 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 
 |d6|Idéal|
 |---|---|
-|1|**Égalité.** Quel que soit leur rang, les individus<br>doivent être bien traités. (Bon)|
-|2|**Indépendance.** Servir un maître n'empêche<br>pas de se forger ses propres opinions. (Neutre)|
-|3|**Liberté.** Aucun homme ne devrait vivre dans<br>la servitude d'un autre sous prétexte de sa<br>naissance. (Chaotique)|
-|4|**Responsabilité.** La société repose sur des<br>piliers qui, s'ils peuvent paraître injustes, sont<br>indispensables à la bonne marche du monde.<br>(Loyal)|
-|5|**Pouvoir.** Le vrai pouvoir n'est pas dans la<br>lumières et les parures. Il est dans l'ombre des<br>alcôves. (Mauvais)|
-|6|**Ambition.** L'important n'est pas tant ce que l'on<br>fait que ce que l'on ambitionne de faire. (Tous)|
+|1|**Égalité.** Quel que soit leur rang, les individus <!--br-->doivent être bien traités. (Bon)|
+|2|**Indépendance.** Servir un maître n'empêche <!--br-->pas de se forger ses propres opinions. (Neutre)|
+|3|**Liberté.** Aucun homme ne devrait vivre dans <!--br-->la servitude d'un autre sous prétexte de sa <!--br-->naissance. (Chaotique)|
+|4|**Responsabilité.** La société repose sur des <!--br-->piliers qui, s'ils peuvent paraître injustes, sont <!--br-->indispensables à la bonne marche du monde. <!--br-->(Loyal)|
+|5|**Pouvoir.** Le vrai pouvoir n'est pas dans la <!--br-->lumières et les parures. Il est dans l'ombre des <!--br-->alcôves. (Mauvais)|
+|6|**Ambition.** L'important n'est pas tant ce que l'on <!--br-->fait que ce que l'on ambitionne de faire. (Tous)|
 
 <!--/Generic-->
 
@@ -82,12 +82,12 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 
 |d6|Lien|
 |---|---|
-|1|Mon seigneur et sa maisonnée ont été<br>déshonorés et j'ai juré de découvrir par qui et<br>pourquoi.|
-|2|Une ancienne servante est morte en accouchant<br>d'un bâtard de mon maître. J'ai pris l'enfant<br>sous ma protection, en attendant le jour où il<br>pourra réclamer son dû.|
-|3|Je suis au courant de secrets qui pourraient<br>mettre à mal le statut de mes anciens maîtres. Je<br>me suis juré de ne jamais rien révéler.|
-|4|J'ai trahi mon seigneur et causé sa perte au<br>profit d'un rival, et je suis prêt à tout pour le<br>cacher.|
-|5|J'ai fui le service de mes maîtres et je suis<br>pourchassé depuis.|
-|6|Je reste farouchement loyal à la famille de mon<br>ancien seigneur.|
+|1|Mon seigneur et sa maisonnée ont été <!--br-->déshonorés et j'ai juré de découvrir par qui et <!--br-->pourquoi.|
+|2|Une ancienne servante est morte en accouchant <!--br-->d'un bâtard de mon maître. J'ai pris l'enfant <!--br-->sous ma protection, en attendant le jour où il <!--br-->pourra réclamer son dû.|
+|3|Je suis au courant de secrets qui pourraient <!--br-->mettre à mal le statut de mes anciens maîtres. Je <!--br-->me suis juré de ne jamais rien révéler.|
+|4|J'ai trahi mon seigneur et causé sa perte au <!--br-->profit d'un rival, et je suis prêt à tout pour le <!--br-->cacher.|
+|5|J'ai fui le service de mes maîtres et je suis <!--br-->pourchassé depuis.|
+|6|Je reste farouchement loyal à la famille de mon <!--br-->ancien seigneur.|
 
 <!--/Generic-->
 
@@ -97,12 +97,12 @@ Les serviteurs sont des individus de l'ombre, qui font souvent une grande diffé
 
 |d6|Défaut|
 |---|---|
-|1|J'aime les ragots et les rumeurs, et je ne peux<br>m'empêcher de les colporter.|
-|2|J'ai tendance à dérober de petits objets de<br>valeur quand l'occasion se présente.|
-|3|J'ai une fascination excessive pour les dorures,<br>les parures, et les atours du pouvoir.|
-|4|Je ne fais jamais confiance à une personne d'un<br>statut social supérieur au mien.|
-|5|Je suis d'un naturel obséquieux, même dans<br>des circonstances qui ne l'exigent pas.|
-|6|Je porte en moi un profond sentiment<br>d'infériorité, et je me dévalorise sans cesse.|
+|1|J'aime les ragots et les rumeurs, et je ne peux <!--br-->m'empêcher de les colporter.|
+|2|J'ai tendance à dérober de petits objets de <!--br-->valeur quand l'occasion se présente.|
+|3|J'ai une fascination excessive pour les dorures, <!--br-->les parures, et les atours du pouvoir.|
+|4|Je ne fais jamais confiance à une personne d'un <!--br-->statut social supérieur au mien.|
+|5|Je suis d'un naturel obséquieux, même dans <!--br-->des circonstances qui ne l'exigent pas.|
+|6|Je porte en moi un profond sentiment <!--br-->d'infériorité, et je me dévalorise sans cesse.|
 
 <!--/Generic-->
 

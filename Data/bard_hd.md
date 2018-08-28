@@ -42,27 +42,27 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niveau|Bonus<br>de<br>maîtrise|Aptitudes|Tours<br>de<br>magie<br>connus|Sorts<br>connus|1|2|3|4|5|6|7|8|9|
+|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|Sorts <!--br-->connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|+2|[Incantations],<br>[Inspiration bardique] (d6)|2|4|2|-|-|-|-|-|-|-|-|
-|2|+2|[Touche-à-tout],<br>[Chant reposant] (d6)|2|5|3|-|-|-|-|-|-|-|-|
-|3|+2|[Collège bardique],<br>[Expertise]|2|6|4|2|-|-|-|-|-|-|-|
-|4|+2|[Amélioration de<br>caractéristiques]|3|7|4|3|-|-|-|-|-|-|-|
-|5|+3|[Inspiration bardique] (d8),<br>[Source d'inspiration]|3|8|4|3|2|-|-|-|-|-|-|
-|6|+3|[Contre-charme],<br>[Aptitude de<br>collège bardique]|3|9|4|3|3|-|-|-|-|-|-|
+|1|+2|[Incantations], <!--br-->[Inspiration bardique] (d6)|2|4|2|-|-|-|-|-|-|-|-|
+|2|+2|[Touche-à-tout], <!--br-->[Chant reposant] (d6)|2|5|3|-|-|-|-|-|-|-|-|
+|3|+2|[Collège bardique], <!--br-->[Expertise]|2|6|4|2|-|-|-|-|-|-|-|
+|4|+2|[Amélioration de <!--br-->caractéristiques]|3|7|4|3|-|-|-|-|-|-|-|
+|5|+3|[Inspiration bardique] (d8), <!--br-->[Source d'inspiration]|3|8|4|3|2|-|-|-|-|-|-|
+|6|+3|[Contre-charme], <!--br-->[Aptitude de <!--br-->collège bardique]|3|9|4|3|3|-|-|-|-|-|-|
 |7|+3|_|3|10|4|3|3|1|-|-|-|-|-|
-|8|+3|[Amélioration de<br>caractéristiques]|3|11|4|3|3|2|-|-|-|-|-|
+|8|+3|[Amélioration de <!--br-->caractéristiques]|3|11|4|3|3|2|-|-|-|-|-|
 |9|+4|[Chant reposant] (d8)|3|12|4|3|3|3|1|-|-|-|-|
-|10|+4|[Inspiration bardique] (d10),<br>[Expertise],<br>[Secrets magiques]|4|14|4|3|3|3|2|-|-|-|-|
+|10|+4|[Inspiration bardique] (d10), <!--br-->[Expertise], <!--br-->[Secrets magiques]|4|14|4|3|3|3|2|-|-|-|-|
 |11|+4|_|4|15|4|3|3|3|2|1|-|-|-|
-|12|+4|[Amélioration de<br>caractéristiques]|4|15|4|3|3|3|2|1|-|-|-|
+|12|+4|[Amélioration de <!--br-->caractéristiques]|4|15|4|3|3|3|2|1|-|-|-|
 |13|+5|[Chant reposant] (d10)|4|16|4|3|3|3|2|1|1|-|-|
-|14|+5|[Secrets magiques],<br>[Aptitude de<br>collège bardique]|4|18|4|3|3|3|2|1|1|-|-|
+|14|+5|[Secrets magiques], <!--br-->[Aptitude de <!--br-->collège bardique]|4|18|4|3|3|3|2|1|1|-|-|
 |15|+5|[Inspiration bardique] (d12)|4|19|4|3|3|3|2|1|1|1|-|
-|16|+5|[Amélioration de<br>caractéristiques]|4|19|4|3|3|3|2|1|1|1|-|
+|16|+5|[Amélioration de <!--br-->caractéristiques]|4|19|4|3|3|3|2|1|1|1|-|
 |17|+6|[Chant reposant] (d12)|4|20|4|3|3|3|2|1|1|1|1|
 |18|+6|[Secrets magiques]|4|22|4|3|3|3|3|1|1|1|1|
-|19|+6|[Amélioration de<br>caractéristiques]|4|22|4|3|3|3|3|2|1|1|1|
+|19|+6|[Amélioration de <!--br-->caractéristiques]|4|22|4|3|3|3|3|2|1|1|1|
 |20|+6|[Inspiration supérieure]|4|22|4|3|3|3|3|2|2|1|1|
 
 (* Emplacement de sorts par niveau de sort)
@@ -231,9 +231,9 @@ Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative 
 [Collège des saltimbanques]: bard_acrobats_hd.md
 
 [Amélioration de caractéristiques]: bard_hd.md#amélioration-de-caractéristiques
-[Amélioration de<br>caractéristiques]: bard_hd.md#amélioration-de-caractéristiques
+[Amélioration de <!--br-->caractéristiques]: bard_hd.md#amélioration-de-caractéristiques
 [Aptitude de collège bardique]: bard_hd.md#collège-bardique
-[Aptitude de<br>collège bardique]: bard_hd.md#collège-bardique
+[Aptitude de <!--br-->collège bardique]: bard_hd.md#collège-bardique
 [Chant reposant]: bard_hd.md#chant-reposant
 [Collège bardique]: bard_hd.md#collège-bardique
 [Contre-charme]: bard_hd.md#contre-charme

@@ -21,27 +21,27 @@ Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras da
 
 - Source: <!--Source-->(L5R p60)<!--/Source-->
 
-|Niveau|Bonus de<br>Maîtrise|Aptitudes|
+|Niveau|Bonus de <!--br-->Maîtrise|Aptitudes|
 |---|---|---|
-|1|+2|[Druidique],<br>**[gardien des traditions]**|
-|2|+2|[Forme sauvage],<br>[cercle druidique]|
-|3|+2|**[Secrets ancestraux]**,<br>**[bénédiction de Cernunos]**|
-|4|+2|[Forme sauvage améliorée],<br>[amélioration de<br>caractéristique]|
+|1|+2|[Druidique], <!--br-->**[gardien des traditions]**|
+|2|+2|[Forme sauvage], <!--br-->[cercle druidique]|
+|3|+2|**[Secrets ancestraux]**, <!--br-->**[bénédiction de Cernunos]**|
+|4|+2|[Forme sauvage améliorée], <!--br-->[amélioration de <!--br-->caractéristique]|
 |5|+3|**[Gardien des traditions]**|
 |6|+3|[Aptitude de cercle druidique]|
 |7|+3|**[Le souffle du dragon]**|
-|8|+3|[Forme sauvage améliorée],<br>[amélioration de<br>caractéristique]|
-|9|+4|**[Gardien des traditions]**,<br>**[secrets ancestraux]**|
+|8|+3|[Forme sauvage améliorée], <!--br-->[amélioration de <!--br-->caractéristique]|
+|9|+4|**[Gardien des traditions]**, <!--br-->**[secrets ancestraux]**|
 |10|+4|[Aptitude de cercle druidique]|
 |11|+4|**[Le souffle du dragon]**|
-|12|+4|[Amélioration de<br>caractéristique]|
+|12|+4|[Amélioration de <!--br-->caractéristique]|
 |13|+5|**[Gardien des traditions]**|
 |14|+5|[Aptitude de cercle druidique]|
 |15|+5|**[Secrets ancestraux]**|
-|16|+5|[Amélioration de<br>caractéristique]|
+|16|+5|[Amélioration de <!--br-->caractéristique]|
 |17|+6|**[Gardien des traditions]**|
 |18|+6|[Jeunesse éternelle]|
-|19|+6|[Amélioration de<br>caractéristique]|
+|19|+6|[Amélioration de <!--br-->caractéristique]|
 |20|+6|**[Archidruide]**|
 
 <!--/Generic-->
@@ -309,8 +309,8 @@ L'aptitude [Magie des profondeurs] fonctionne normalement. Cependant, ne pouvant
 
 
 
-[amélioration de<br>caractéristique]: druid_hd.md#amélioration-de-caractéristiques
-[Amélioration de<br>caractéristique]: druid_hd.md#amélioration-de-caractéristiques
+[amélioration de <!--br-->caractéristique]: druid_hd.md#amélioration-de-caractéristiques
+[Amélioration de <!--br-->caractéristique]: druid_hd.md#amélioration-de-caractéristiques
 [Aptitude de cercle druidique]: druid_hd.md#cercle-druidique
 [arbre éveillé]: monsters_hd.md#arbre-éveillé
 [arbuste éveillé]: monsters_hd.md#arbuste-éveillé

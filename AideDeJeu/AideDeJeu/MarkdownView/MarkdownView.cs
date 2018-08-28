@@ -361,9 +361,10 @@
 
         private void Render(HtmlBlock block)
         {
-            if(block.Type == HtmlBlockType.NonInterruptingBlock)
+            if(block.Type == HtmlBlockType.NonInterruptingBlock || block.Type == HtmlBlockType.Comment)
             {
-                if(block.Lines.Lines.FirstOrDefault().Slice.ToString() == "<br>")
+                var tag = block.Lines.Lines.FirstOrDefault().Slice.ToString();
+                if (tag == "<!--br-->" || tag == "<br>")
                 {
                     var label = new Label
                     {
@@ -622,7 +623,7 @@
                     };
 
                 case HtmlInline html:
-                    if (html.Tag == "<br>")
+                    if (html.Tag == "<!--br-->" || html.Tag == "<br>")
                     {
                         return new[]
                         {

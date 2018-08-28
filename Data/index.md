@@ -27,7 +27,7 @@
 
 ## [Panthéons](pantheons_hd.md)
 
-<br>
+<!--br-->
 
 # Cadre de campagne
 
@@ -41,7 +41,7 @@
 
 ## [Jouer dans un multivers](planes_hd.md)
 
-<br>
+<!--br-->
 
 # Créatures et oppositions
 
@@ -57,11 +57,11 @@
 
 ## [Poisons](poisons_hd.md)
 
-<br>
+<!--br-->
 
 # [Les Cinq Royaumes](l5r_index_hd.md)
 
-<br>
+<!--br-->
 
 # SRD
 
@@ -71,4 +71,4 @@
 
 ## [Monsters, Animals and NPC](monsters_vo.md)
 
-<!-- <br> # [Sandbox](sandbox.md) -->
+<!--  <!--br--># [Sandbox](sandbox.md) -->

@@ -32,13 +32,13 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 |d8|Trait de personnalité|
 |---|---|
 |1|Je parle peu, mais jamais pour ne rien dire.|
-|2|Je me mets toujours dans un recoin de la pièce,<br>pour mieux observer mon environnement.|
-|3|Les gens trop bavards me donnent mal à la<br>tête. J'apprécie le calme avant tout.|
-|4|Dès que je le peux, je m'éloigne des autres, et<br>des lieux habités, afin de retrouver la nature et<br>la solitude qui sont miennes.|
-|5|J'ai toujours l'impression que quelqu'un me<br>suit quand je suis en ville.|
-|6|Je déteste le regard que les gens posent sur<br>moi. Ils me jugent, je le sais.|
-|7|Parfois, je plonge dans mes pensées et m'y<br>perds. Et cela se voit.|
-|8|J'ai toujours une pensée philosophique et<br>profonde appropriée à la situation.|
+|2|Je me mets toujours dans un recoin de la pièce, <!--br-->pour mieux observer mon environnement.|
+|3|Les gens trop bavards me donnent mal à la <!--br-->tête. J'apprécie le calme avant tout.|
+|4|Dès que je le peux, je m'éloigne des autres, et <!--br-->des lieux habités, afin de retrouver la nature et <!--br-->la solitude qui sont miennes.|
+|5|J'ai toujours l'impression que quelqu'un me <!--br-->suit quand je suis en ville.|
+|6|Je déteste le regard que les gens posent sur <!--br-->moi. Ils me jugent, je le sais.|
+|7|Parfois, je plonge dans mes pensées et m'y <!--br-->perds. Et cela se voit.|
+|8|J'ai toujours une pensée philosophique et <!--br-->profonde appropriée à la situation.|
 
 <!--/Generic-->
 
@@ -48,12 +48,12 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 
 |d6|Idéal|
 |---|---|
-|1|**Bien commun.** Nous vivons des épreuves<br>pour en tirer des enseignements que nous<br>transmettons aux autres. J'aide ceux qui en ont<br>besoin. (Bon)|
-|2|**Indifférence.** Chacun sa vie, son chemin, et<br>sa destinée. Je ne me mêle pas des affaires<br>des autres, cela n'apporte que des problèmes.<br>(Neutre)|
-|3|**Curiosité.** On dit que la curiosité est un vilain<br>défaut. Je pense au contraire qu'elle mène<br>à la connaissance et au perfectionnement.<br>(Chaotique)|
-|4|**Beauté.** Il y a une beauté et une harmonie<br>dans le sauvage, et je ne laisserai personne les<br>altérer. (Bon)|
-|5|**Vengeance.** Ce que je subis, je le rends au<br>centuple. (Mauvais)|
-|6|**Survivant.** La nature ne nous fait pas de<br>cadeau. Nous devons tous savoir nous<br>débrouiller seuls. (Neutre)|
+|1|**Bien commun.** Nous vivons des épreuves <!--br-->pour en tirer des enseignements que nous <!--br-->transmettons aux autres. J'aide ceux qui en ont <!--br-->besoin. (Bon)|
+|2|**Indifférence.** Chacun sa vie, son chemin, et <!--br-->sa destinée. Je ne me mêle pas des affaires <!--br-->des autres, cela n'apporte que des problèmes. <!--br-->(Neutre)|
+|3|**Curiosité.** On dit que la curiosité est un vilain <!--br-->défaut. Je pense au contraire qu'elle mène <!--br-->à la connaissance et au perfectionnement. <!--br-->(Chaotique)|
+|4|**Beauté.** Il y a une beauté et une harmonie <!--br-->dans le sauvage, et je ne laisserai personne les <!--br-->altérer. (Bon)|
+|5|**Vengeance.** Ce que je subis, je le rends au <!--br-->centuple. (Mauvais)|
+|6|**Survivant.** La nature ne nous fait pas de <!--br-->cadeau. Nous devons tous savoir nous <!--br-->débrouiller seuls. (Neutre)|
 
 <!--/Generic-->
 
@@ -63,12 +63,12 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 
 |d6|Lien|
 |---|---|
-|1|Je fuis une personne, ou un groupe, qui me<br>pourchasse. Voilà pourquoi je reste seul.|
-|2|Même si je vis hors de toute communauté,<br>je m'estime responsable de la sécurité<br>d'un village qui m'accueille quand je viens<br>commercer avec eux.|
-|3|J'ai tout quitté à cause d'un scandale terrible.<br>Mais ceux que j'aime restent dans mon coeur à<br>chaque instant.|
-|4|J'ai vécu un événement traumatisant. Il m'a<br>tant marqué que je reste seul, de peur d'en<br>infliger les conséquences aux autres.|
-|5|J'ai été soldat autrefois. Je ne reverrai jamais<br>les horreurs de la guerre.|
-|6|Je me suis fixé comme mission de protéger<br>les terres sauvages qui m'accueillent des<br>déprédations des êtres dits civilisés.|
+|1|Je fuis une personne, ou un groupe, qui me <!--br-->pourchasse. Voilà pourquoi je reste seul.|
+|2|Même si je vis hors de toute communauté, <!--br-->je m'estime responsable de la sécurité <!--br-->d'un village qui m'accueille quand je viens <!--br-->commercer avec eux.|
+|3|J'ai tout quitté à cause d'un scandale terrible. <!--br-->Mais ceux que j'aime restent dans mon coeur à <!--br-->chaque instant.|
+|4|J'ai vécu un événement traumatisant. Il m'a <!--br-->tant marqué que je reste seul, de peur d'en <!--br-->infliger les conséquences aux autres.|
+|5|J'ai été soldat autrefois. Je ne reverrai jamais <!--br-->les horreurs de la guerre.|
+|6|Je me suis fixé comme mission de protéger <!--br-->les terres sauvages qui m'accueillent des <!--br-->déprédations des êtres dits civilisés.|
 
 <!--/Generic-->
 
@@ -78,12 +78,12 @@ Vous avez choisi cette vie. Peut-être avez-vous été forcé par votre passé �
 
 |d6|Défaut|
 |---|---|
-|1|Je ne supporte pas la foule. Y être confronté<br>m'angoisse au plus haut point.|
-|2|Je prends les autres de haut. Nul ne mérite mon<br>attention.|
-|3|Ce que je sais, je le garde pour moi. Je n'ai pas à<br>dire ce que je ne veux pas dire.|
-|4|Je ne fais pas confiance aux citadins. Ils me<br>rebutent.|
-|5|Je prends parfois des risques inconsidérés par<br>simple curiosité.|
-|6|Quand je reviens à la civilisation, j'ai tendance<br>à m'abandonner aux plaisirs qu'elle m'offre. Un<br>peu trop, parfois.|
+|1|Je ne supporte pas la foule. Y être confronté <!--br-->m'angoisse au plus haut point.|
+|2|Je prends les autres de haut. Nul ne mérite mon <!--br-->attention.|
+|3|Ce que je sais, je le garde pour moi. Je n'ai pas à <!--br-->dire ce que je ne veux pas dire.|
+|4|Je ne fais pas confiance aux citadins. Ils me <!--br-->rebutent.|
+|5|Je prends parfois des risques inconsidérés par <!--br-->simple curiosité.|
+|6|Quand je reviens à la civilisation, j'ai tendance <!--br-->à m'abandonner aux plaisirs qu'elle m'offre. Un <!--br-->peu trop, parfois.|
 
 <!--/Generic-->
 

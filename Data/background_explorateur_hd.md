@@ -33,13 +33,13 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 
 |d8|Trait de personnalité|
 |---|---|
-|1|Je ne tiens pas en place, et il m'est impossible<br>de me concentrer plusieurs heures de suite sur<br>une même tâche.|
-|2|J'aime arpenter les rues d'une cité inconnue<br>et observer ses habitants vaquer à leurs<br>occupations.|
-|3|Rien ne vaut une taverne chaleureuse et<br>quelques chopines pour lier connaissance !|
-|4|Je suis loyal à mes amis, et ni la distance ni le<br>temps ne m'en éloignent vraiment.|
-|5|J'aime raconter de belles histoires de contrées<br>lointaines, quitte à déformer ou exagérer<br>lorsque c'est nécessaire.|
-|6|J'aime sentir le vent sur mon visage et la<br>chaleur du soleil sur ma peau.|
-|7|Un étranger est un ami qui m'est encore<br>inconnu.|
+|1|Je ne tiens pas en place, et il m'est impossible <!--br-->de me concentrer plusieurs heures de suite sur <!--br-->une même tâche.|
+|2|J'aime arpenter les rues d'une cité inconnue <!--br-->et observer ses habitants vaquer à leurs <!--br-->occupations.|
+|3|Rien ne vaut une taverne chaleureuse et <!--br-->quelques chopines pour lier connaissance !|
+|4|Je suis loyal à mes amis, et ni la distance ni le <!--br-->temps ne m'en éloignent vraiment.|
+|5|J'aime raconter de belles histoires de contrées <!--br-->lointaines, quitte à déformer ou exagérer <!--br-->lorsque c'est nécessaire.|
+|6|J'aime sentir le vent sur mon visage et la <!--br-->chaleur du soleil sur ma peau.|
+|7|Un étranger est un ami qui m'est encore <!--br-->inconnu.|
 |8|Je ne refuse jamais un nouveau défi.|
 
 <!--/Generic-->
@@ -50,12 +50,12 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 
 |d6|Idéal|
 |---|---|
-|1|**Liberté.** L'inconnu rime avec liberté et absence<br>de contrainte. (Chaotique)|
-|2|**Changement.** Rien n'est plus plaisant que<br>de franchir un obstacle et de découvrir une<br>nouvelle étendue au-delà. (Tous)|
-|3|**Bien commun.** Une route ou un chemin est un<br>trait d'union entre les peuples. (Bon)|
-|4|**Pouvoir.** Chaque peuple doit être asservi à nos<br>lois et à notre culture. (Mauvais)|
-|5|**Civilisation.** Explorer l'inconnu, c'est tracer un<br>chemin pour la civilisation. (Loyal)|
-|6|**Nature.** Rien n'égale l'attrait d'un paysage<br>sauvage et vierge de la civilisation. (Neutre)|
+|1|**Liberté.** L'inconnu rime avec liberté et absence <!--br-->de contrainte. (Chaotique)|
+|2|**Changement.** Rien n'est plus plaisant que <!--br-->de franchir un obstacle et de découvrir une <!--br-->nouvelle étendue au-delà. (Tous)|
+|3|**Bien commun.** Une route ou un chemin est un <!--br-->trait d'union entre les peuples. (Bon)|
+|4|**Pouvoir.** Chaque peuple doit être asservi à nos <!--br-->lois et à notre culture. (Mauvais)|
+|5|**Civilisation.** Explorer l'inconnu, c'est tracer un <!--br-->chemin pour la civilisation. (Loyal)|
+|6|**Nature.** Rien n'égale l'attrait d'un paysage <!--br-->sauvage et vierge de la civilisation. (Neutre)|
 
 <!--/Generic-->
 
@@ -65,12 +65,12 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 
 |d6|Lien|
 |---|---|
-|1|J'ai découvert une cité ou une vallée secrète, où<br>les habitants vivent complètement coupés de<br>la civilisation.|
-|2|En explorant une contrée sauvage, j'ai trouvé<br>un enfant élevé parmi les animaux. Je l'ai pris<br>sous mon aile et il dépend désormais de moi.|
-|3|J'ai été capturé avec mes compagnons par une<br>tribu cannibale. Je suis le seul à en être sorti<br>vivant, et j'ai juré de retrouver et détruire ces<br>sauvages.|
-|4|Je suis tombé par hasard sur une ancienne<br>carte qui semble indiquer l'emplacement d'un<br>trésor.|
-|5|Au cours de mes voyages, j'ai été sauvé et<br>adopté par un clan ou une tribu isolée. Après<br>plusieurs mois passés parmi eux, j'ai appris à<br>les considérer comme ma famille et j'ai juré de<br>faire mon possible pour les protéger.|
-|6|J'ai un(e) rival(e), et je cherche par tous les<br>moyens à prouver que je suis meilleur que lui/<br>elle.|
+|1|J'ai découvert une cité ou une vallée secrète, où <!--br-->les habitants vivent complètement coupés de <!--br-->la civilisation.|
+|2|En explorant une contrée sauvage, j'ai trouvé <!--br-->un enfant élevé parmi les animaux. Je l'ai pris <!--br-->sous mon aile et il dépend désormais de moi.|
+|3|J'ai été capturé avec mes compagnons par une <!--br-->tribu cannibale. Je suis le seul à en être sorti <!--br-->vivant, et j'ai juré de retrouver et détruire ces <!--br-->sauvages.|
+|4|Je suis tombé par hasard sur une ancienne <!--br-->carte qui semble indiquer l'emplacement d'un <!--br-->trésor.|
+|5|Au cours de mes voyages, j'ai été sauvé et <!--br-->adopté par un clan ou une tribu isolée. Après <!--br-->plusieurs mois passés parmi eux, j'ai appris à <!--br-->les considérer comme ma famille et j'ai juré de <!--br-->faire mon possible pour les protéger.|
+|6|J'ai un(e) rival(e), et je cherche par tous les <!--br-->moyens à prouver que je suis meilleur que lui/ <!--br-->elle.|
 
 <!--/Generic-->
 
@@ -80,11 +80,11 @@ Les explorateurs se laissent souvent porter par leur goût du risque et de l'inc
 
 |d6|Défaut|
 |---|---|
-|1|Je mens comme je respire. À force d'inventer<br>des histoires, je ne suis plus moi-même capable<br>de distinguer le vrai du faux.|
-|2|Je ne supporte pas l'odeur infecte des villes et<br>des cités.|
-|3|Je ne supporte pas la violence et je fais tout<br>mon possible pour éviter la confrontation.|
-|4|Je me montre paternaliste et condescendant<br>envers les peuples et cultures moins « civilisés »<br>que les miens.|
-|5|Je vois rouge lorsqu'on met en doute mon<br>courage.|
+|1|Je mens comme je respire. À force d'inventer <!--br-->des histoires, je ne suis plus moi-même capable <!--br-->de distinguer le vrai du faux.|
+|2|Je ne supporte pas l'odeur infecte des villes et <!--br-->des cités.|
+|3|Je ne supporte pas la violence et je fais tout <!--br-->mon possible pour éviter la confrontation.|
+|4|Je me montre paternaliste et condescendant <!--br-->envers les peuples et cultures moins « civilisés » <!--br-->que les miens.|
+|5|Je vois rouge lorsqu'on met en doute mon <!--br-->courage.|
 |6|Je ne supporte pas qu'on me donne des ordres.|
 
 <!--/Generic-->

@@ -19,12 +19,12 @@ Un événement est survenu dans votre vie, qui a radicalement altéré votre des
 
 |d6|Signe du destin|
 |---|---|
-|1|Vous êtes persuadé avoir été choisi par<br>l'une des divinités du panthéon afin d'être le<br>récipiendaire d'une vision prophétique.|
-|2|Vous avez été enrôlé de force dans une armée,<br>et y avez fait la preuve de vos capacités.|
-|3|Votre communauté a subi une épidémie ou une<br>invasion, que vous avez aidé à combattre.|
-|4|Vous avez participé à une révolte paysanne,<br>et vous vous êtes retrouvé propulsé parmi les<br>meneurs du soulèvement.|
-|5|Vous êtes parvenu à sauver des villageois d'une<br>mort certaine en bravant les éléments.|
-|6|Vous avez trouvé une arme ou un symbole qui<br>vous a mené sur votre nouvelle voie.|
+|1|Vous êtes persuadé avoir été choisi par <!--br-->l'une des divinités du panthéon afin d'être le <!--br-->récipiendaire d'une vision prophétique.|
+|2|Vous avez été enrôlé de force dans une armée, <!--br-->et y avez fait la preuve de vos capacités.|
+|3|Votre communauté a subi une épidémie ou une <!--br-->invasion, que vous avez aidé à combattre.|
+|4|Vous avez participé à une révolte paysanne, <!--br-->et vous vous êtes retrouvé propulsé parmi les <!--br-->meneurs du soulèvement.|
+|5|Vous êtes parvenu à sauver des villageois d'une <!--br-->mort certaine en bravant les éléments.|
+|6|Vous avez trouvé une arme ou un symbole qui <!--br-->vous a mené sur votre nouvelle voie.|
 
 <!--/Generic-->
 
@@ -49,13 +49,13 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 |d8|Trait de personnalité|
 |---|---|
 |1|Je ne supporte pas le travail bâclé ou inachevé.|
-|2|Je ne refuse jamais d'apporter mon aide<br>lorsqu'on me la demande.|
-|3|Je n'aime pas perdre de temps en vaines<br>réflexions.|
-|4|Je méprise ouvertement ceux qui ne savent pas<br>se salir les mains.|
-|5|Je ris fort, et souvent. La vie est trop courte pour<br>ne pas rire de tout.|
+|2|Je ne refuse jamais d'apporter mon aide <!--br-->lorsqu'on me la demande.|
+|3|Je n'aime pas perdre de temps en vaines <!--br-->réflexions.|
+|4|Je méprise ouvertement ceux qui ne savent pas <!--br-->se salir les mains.|
+|5|Je ris fort, et souvent. La vie est trop courte pour <!--br-->ne pas rire de tout.|
 |6|Je n'ai jamais été à l'aise avec les mots.|
-|7|Je m'emporte facilement, et je pardonne encore<br>plus facilement.|
-|8|Je m'arrange toujours pour travailler moins<br>que les autres.|
+|7|Je m'emporte facilement, et je pardonne encore <!--br-->plus facilement.|
+|8|Je m'arrange toujours pour travailler moins <!--br-->que les autres.|
 
 <!--/Generic-->
 
@@ -65,12 +65,12 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 
 |d6|Idéal|
 |---|---|
-|1|**Entraide.** Les patrons divisent pour mieux<br>régner. Les travailleurs doivent se serrer<br>les coudes et présenter un front uni pour se<br>défendre. (Loyal)|
-|2|**Honnêteté.** Travailler pour gagner sa vie vaut<br>mieux que de voler ou profiter. (Neutre)|
-|3|**Revanche.** Je compte bien faire payer à tous les<br>chefs de chantier, les officiers et les puissants<br>l'injustice de ma situation passée. (Mauvais)|
-|4|**Responsabilité.** Des gens comptent sur mon<br>travail pour vivre et je dois penser à eux avant<br>tout. (Bon)|
-|5|**Indépendance.** Le travail devrait être un<br>moyen de gagner sa liberté. (Chaotique)|
-|6|**Ambition.** Les événements m'ont prouvé que je<br>valais mieux que ce que je pensais. (Tous)|
+|1|**Entraide.** Les patrons divisent pour mieux <!--br-->régner. Les travailleurs doivent se serrer <!--br-->les coudes et présenter un front uni pour se <!--br-->défendre. (Loyal)|
+|2|**Honnêteté.** Travailler pour gagner sa vie vaut <!--br-->mieux que de voler ou profiter. (Neutre)|
+|3|**Revanche.** Je compte bien faire payer à tous les <!--br-->chefs de chantier, les officiers et les puissants <!--br-->l'injustice de ma situation passée. (Mauvais)|
+|4|**Responsabilité.** Des gens comptent sur mon <!--br-->travail pour vivre et je dois penser à eux avant <!--br-->tout. (Bon)|
+|5|**Indépendance.** Le travail devrait être un <!--br-->moyen de gagner sa liberté. (Chaotique)|
+|6|**Ambition.** Les événements m'ont prouvé que je <!--br-->valais mieux que ce que je pensais. (Tous)|
 
 <!--/Generic-->
 
@@ -80,12 +80,12 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 
 |d6|Lien|
 |---|---|
-|1|Un ancien collègue a subi un grave accident en<br>me sauvant d'une mort certaine, et je fais mon<br>possible pour subvenir à ses besoins.|
-|2|J'ai une famille et des bouches à nourrir, même<br>si elles sont loin de moi.|
-|3|J'ai juré de me venger d'un chef de chantier<br>particulièrement cruel.|
-|4|J'ai participé à une bagarre générale qui a<br>causé de gros dégâts, et je dois depuis de<br>l'argent au patron de la taverne.|
-|5|J'ai été déclaré hérétique par les prêtres d'un<br>temple qui n'étaient pas satisfaits de mes<br>services.|
-|6|Brièvement engagé de force dans une armée,<br>j'ai déserté et suis depuis recherché.|
+|1|Un ancien collègue a subi un grave accident en <!--br-->me sauvant d'une mort certaine, et je fais mon <!--br-->possible pour subvenir à ses besoins.|
+|2|J'ai une famille et des bouches à nourrir, même <!--br-->si elles sont loin de moi.|
+|3|J'ai juré de me venger d'un chef de chantier <!--br-->particulièrement cruel.|
+|4|J'ai participé à une bagarre générale qui a <!--br-->causé de gros dégâts, et je dois depuis de <!--br-->l'argent au patron de la taverne.|
+|5|J'ai été déclaré hérétique par les prêtres d'un <!--br-->temple qui n'étaient pas satisfaits de mes <!--br-->services.|
+|6|Brièvement engagé de force dans une armée, <!--br-->j'ai déserté et suis depuis recherché.|
 
 <!--/Generic-->
 
@@ -95,11 +95,11 @@ Les manouvriers constituent une large part de la main d'oeuvre bon marché dans 
 
 |d6|Défaut|
 |---|---|
-|1|J'ai pris goût au jeu, et notamment au jeu<br>d'argent, pour meubler les journées sans<br>travail.|
-|2|Je ne termine jamais une journée sans une ou<br>plusieurs bonnes pintes.|
-|3|J'ai aisément recours à la violence lorsque les<br>choses ne se passent pas comme je l'espère.|
-|4|Je me plains des agissements des chefs de<br>chantier et des puissants, mais je serais sans<br>doute pire encore si j'étais à leur place.|
-|5|Je suis extrêmement crédule, pour peu qu'on<br>me témoigne du respect.|
+|1|J'ai pris goût au jeu, et notamment au jeu <!--br-->d'argent, pour meubler les journées sans <!--br-->travail.|
+|2|Je ne termine jamais une journée sans une ou <!--br-->plusieurs bonnes pintes.|
+|3|J'ai aisément recours à la violence lorsque les <!--br-->choses ne se passent pas comme je l'espère.|
+|4|Je me plains des agissements des chefs de <!--br-->chantier et des puissants, mais je serais sans <!--br-->doute pire encore si j'étais à leur place.|
+|5|Je suis extrêmement crédule, pour peu qu'on <!--br-->me témoigne du respect.|
 |6|Je ne supporte pas de rester enfermé.|
 
 <!--/Generic-->

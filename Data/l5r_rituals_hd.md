@@ -140,12 +140,12 @@ Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant de
 |Éléments|Mod|
 |---|---|
 |**Test de compétence**
-|Nécessite des tests impliquant plus d'une<br>compétence|–1|
-|Nécessite une compétence n'appartenant pas<br>aux compétences d'Intelligence|–1|
+|Nécessite des tests impliquant plus d'une <!--br-->compétence|–1|
+|Nécessite une compétence n'appartenant pas <!--br-->aux compétences d'Intelligence|–1|
 |**Temps d'incantation**
 |1 heure entre les tests|–1|
-|Le rituel ne peut s'effectuer qu'à un moment<br>précis (ex : seulement pendant la pleine lune)|–4|
-|Le rituel ne peut s'effectuer qu'à un moment<br>précis et rare (ex : seulement pendant une<br>éclipse lunaire)|–8|
+|Le rituel ne peut s'effectuer qu'à un moment <!--br-->précis (ex : seulement pendant la pleine lune)|–4|
+|Le rituel ne peut s'effectuer qu'à un moment <!--br-->précis et rare (ex : seulement pendant une <!--br-->éclipse lunaire)|–8|
 |**Augmentation de portée**
 |Contact à courte|+2|
 |Courte à moyenne|+2|
@@ -157,8 +157,8 @@ Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant de
 |**Zone d'effet**
 |Zone d'effet doublée/Zone d'effet divisée par 2|+3/–3|
 |**Cibles**
-|Les cibles non consentantes doivent être sans<br>défense pour que le rituel fonctionne|–2|
-|Type de cibles limité (par indice de<br>dangerosité, type de créature, etc.)|–3|
+|Les cibles non consentantes doivent être sans <!--br-->défense pour que le rituel fonctionne|–2|
+|Type de cibles limité (par indice de <!--br-->dangerosité, type de créature, etc.)|–3|
 |De cible unique à cibles multiples|+4|
 |**Augmentation de durée**
 |De rounds à minutes|+2|
@@ -174,7 +174,7 @@ Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant de
 |D'instantané à jours|–4|
 |**Focaliseur et composantes matérielles**
 |Composante matérielle de petite puissance|–1|
-|Composante matérielle de puissance<br>moyenne|–2|
+|Composante matérielle de puissance <!--br-->moyenne|–2|
 |Composante matérielle de grande puissance|–4|
 |Focaliseur peu commun (5 000 po)|–1|
 |Focaliseur rare (25 000 po)|–2|
@@ -185,9 +185,9 @@ Il s'agit ensuite de déterminer les modifications au DD de base en rajoutant de
 |**Contrecoup**
 |Par tranche de 2d6 points de dégâts à l'invocateur|–1|
 |Par niveau d'épuisement subi par l'invocateur|–1|
-|L'invocateur est réduit à 0 point de vitalité<br>(choisir une blessure sérieuse permet de réduire<br>de moitié seulement les points de vitalité)|–3|
-|L'invocateur est infecté par une maladie,<br>même s'il est normalement immunisé|–4|
-|Le contrecoup affecte aussi les participants<br>secondaires|–1|
+|L'invocateur est réduit à 0 point de vitalité <!--br-->(choisir une blessure sérieuse permet de réduire <!--br-->de moitié seulement les points de vitalité)|–3|
+|L'invocateur est infecté par une maladie, <!--br-->même s'il est normalement immunisé|–4|
+|Le contrecoup affecte aussi les participants <!--br-->secondaires|–1|
 
 
 

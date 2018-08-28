@@ -74,7 +74,7 @@ Un piège gênant a peu de risques de tuer ou blesser grièvement un personnage 
 
 #### <!--Name-->Sévérité des dégâts par niveau<!--/Name-->
 
-|Niveau du<br>personnage|Gênant|Dangereux|Mortel|
+|Niveau du <!--br-->personnage|Gênant|Dangereux|Mortel|
 |---|---|---|---|
 |1-4|1d10|2d10|4d10|
 |5-10|2d10|4d10|10d10|

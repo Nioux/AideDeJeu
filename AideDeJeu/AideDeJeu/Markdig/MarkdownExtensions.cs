@@ -137,7 +137,11 @@ namespace AideDeJeu.Tools
                 if(inline is HtmlInline)
                 {
                     var tag = (inline as HtmlInline).Tag;
-                    if (tag.StartsWith("<!--/"))
+                    if(tag == "<!--br-->" || tag =="<br>")
+                    {
+
+                    }
+                    else if (tag.StartsWith("<!--/"))
                     {
                         prop = null;
                     }
@@ -165,14 +169,13 @@ namespace AideDeJeu.Tools
             if (htmlBlock.Type == HtmlBlockType.Comment)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
-                if (!string.IsNullOrEmpty(tag))
+                if (!string.IsNullOrEmpty(tag) && tag != "<!--br-->" && tag != "<br>")
                 {
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
                         return true;
                     }
                 }
-                App.Current.MainPage.DisplayAlert("erreur", tag, null);
             }
             return false;
         }
@@ -183,7 +186,7 @@ namespace AideDeJeu.Tools
             if (htmlBlock.Type == HtmlBlockType.Comment)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
-                if (!string.IsNullOrEmpty(tag))
+                if (!string.IsNullOrEmpty(tag) && tag != "<!--br-->" && tag != "<br>")
                 {
                     if (tag.StartsWith("<!--/"))
                     {
@@ -200,7 +203,7 @@ namespace AideDeJeu.Tools
             if (htmlBlock.Type == HtmlBlockType.Comment)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
-                if (!string.IsNullOrEmpty(tag) && tag != "<br>")
+                if (!string.IsNullOrEmpty(tag) && tag != "<!--br-->" && tag != "<br>")
                 {
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
@@ -210,7 +213,6 @@ namespace AideDeJeu.Tools
                         return instance;
                     }
                 }
-                App.Current.MainPage.DisplayAlert("erreur", tag, null);
             }
             return null;
         }

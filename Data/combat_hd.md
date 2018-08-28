@@ -281,7 +281,7 @@ Les créatures volantes bénéficient d'une grande mobilité. En revanche elles 
 
 Chaque créature occupe une surface plus ou moins importante en fonction de sa taille. Le tableau des catégories de tailles qui suit indique la taille de la surface occupée et contrôlée en combat par une créature d'une taille donnée. Les objets utilisent parfois les mêmes catégories de taille.
 
-|Catégories<br>de tailles|Taille|Espace occupé|
+|Catégories <!--br-->de tailles|Taille|Espace occupé|
 |---|---|---|
 |Très petit|TP|Carré de 0,75 mètre de côté|
 |Petit|P|Carré de 1,50 mètres de côté|

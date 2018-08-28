@@ -47,14 +47,14 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d8|Trait de personnalité|
 |---|---|
-|1|J'ai élevé au rang d'idole un héros de ma foi<br>et je passe mon temps à parler de ses actions<br>comme autant d'exemples à suivre.|
-|2|Je suis capable de trouver un terrain d'entente<br>entre les pires ennemis, à avoir de l'empathie<br>pour eux et j'oeuvre en permanence pour la<br>paix.|
-|3|Chaque événement, chaque action, est un<br>présage à mes yeux. Les dieux tentent de nous<br>parler, il nous suffit d'écouter.|
+|1|J'ai élevé au rang d'idole un héros de ma foi <!--br-->et je passe mon temps à parler de ses actions <!--br-->comme autant d'exemples à suivre.|
+|2|Je suis capable de trouver un terrain d'entente <!--br-->entre les pires ennemis, à avoir de l'empathie <!--br-->pour eux et j'oeuvre en permanence pour la <!--br-->paix.|
+|3|Chaque événement, chaque action, est un <!--br-->présage à mes yeux. Les dieux tentent de nous <!--br-->parler, il nous suffit d'écouter.|
 |4|Rien ne peut ébranler mon optimisme.|
-|5|Je ne perds pas une occasion de citer (ou<br>déformer) des textes sacrés et des proverbes.|
-|6|Je suis tolérant (ou intolérant) aux autres<br>religions et respecte (ou condamne) la<br>croyance en d'autres dieux.|
-|7|J'ai connu des nourritures et des boissons<br>raffinées et fréquenté la haute société parmi<br>l'élite de mon temple. Je supporte néanmoins<br>un mode de vie fruste.|
-|8|J'ai passé tellement de temps dans le temple<br>que je n'ai pas beaucoup d'expérience quand il<br>s'agit de traiter avec les gens de l'extérieur.|
+|5|Je ne perds pas une occasion de citer (ou <!--br-->déformer) des textes sacrés et des proverbes.|
+|6|Je suis tolérant (ou intolérant) aux autres <!--br-->religions et respecte (ou condamne) la <!--br-->croyance en d'autres dieux.|
+|7|J'ai connu des nourritures et des boissons <!--br-->raffinées et fréquenté la haute société parmi <!--br-->l'élite de mon temple. Je supporte néanmoins <!--br-->un mode de vie fruste.|
+|8|J'ai passé tellement de temps dans le temple <!--br-->que je n'ai pas beaucoup d'expérience quand il <!--br-->s'agit de traiter avec les gens de l'extérieur.|
 
 <!--/Generic-->
 
@@ -67,12 +67,12 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d6|Idéal|
 |---|---|
-|1|**Tradition.** Il faut préserver et respecter<br>les anciennes traditions religieuses et<br>sacrificielles. (Loyal)|
-|2|**Charité.** J'essaie toujours d'aider ceux qui sont<br>dans le besoin, peu importe ce qu'il m'en coûte.<br>(Bon)|
-|3|**Changement.** Nous devons mettre en oeuvre<br>les changements que les dieux apportent<br>constamment au monde. (Chaotique)|
-|4|**Pouvoir.** J'espère un jour être à la tête du<br>clergé de mon Église. (Loyal)|
-|5|**Foi.** Je sais que ma déité guide mes pas. Je sais<br>que si je suis fidèle à ses préceptes, tout ira<br>bien. (Loyal)|
-|6|**Aspiration.** Je dois me prouver digne de mon<br>dieu en agissant selon ses enseignements.<br>(N'importe lequel)|
+|1|**Tradition.** Il faut préserver et respecter <!--br-->les anciennes traditions religieuses et <!--br-->sacrificielles. (Loyal)|
+|2|**Charité.** J'essaie toujours d'aider ceux qui sont <!--br-->dans le besoin, peu importe ce qu'il m'en coûte. <!--br-->(Bon)|
+|3|**Changement.** Nous devons mettre en oeuvre <!--br-->les changements que les dieux apportent <!--br-->constamment au monde. (Chaotique)|
+|4|**Pouvoir.** J'espère un jour être à la tête du <!--br-->clergé de mon Église. (Loyal)|
+|5|**Foi.** Je sais que ma déité guide mes pas. Je sais <!--br-->que si je suis fidèle à ses préceptes, tout ira <!--br-->bien. (Loyal)|
+|6|**Aspiration.** Je dois me prouver digne de mon <!--br-->dieu en agissant selon ses enseignements. <!--br-->(N'importe lequel)|
 
 <!--/Generic-->
 
@@ -85,12 +85,12 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d6|Lien|
 |---|---|
-|1|Je suis prêt à mourir en tentant de récupérer<br>une ancienne relique liée à ma foi et qui a été<br>perdue il y a très longtemps.|
-|2|Un jour, je me vengerai de la hiérarchie<br>corrompue qui m'a accusé d'être un hérétique.|
-|3|Je dois ma vie au clerc qui m'a recueilli après la<br>mort de mes parents.|
+|1|Je suis prêt à mourir en tentant de récupérer <!--br-->une ancienne relique liée à ma foi et qui a été <!--br-->perdue il y a très longtemps.|
+|2|Un jour, je me vengerai de la hiérarchie <!--br-->corrompue qui m'a accusé d'être un hérétique.|
+|3|Je dois ma vie au clerc qui m'a recueilli après la <!--br-->mort de mes parents.|
 |4|Tout ce que je fais, je le fais pour le peuple.|
-|5|Je suis prêt à tout pour protéger le temple dans<br>lequel j'ai servi.|
-|6|Je dois protéger un texte sacré que mes<br>ennemis considèrent hérétique et cherchent à<br>détruire.|
+|5|Je suis prêt à tout pour protéger le temple dans <!--br-->lequel j'ai servi.|
+|6|Je dois protéger un texte sacré que mes <!--br-->ennemis considèrent hérétique et cherchent à <!--br-->détruire.|
 
 <!--/Generic-->
 
@@ -103,12 +103,12 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 |d6|Défaut|
 |---|---|
-|1|Je juge les autres sévèrement, mais je me juge<br>encore plus durement.|
-|2|J'accorde trop de confiance à ceux qui<br>détiennent le pouvoir dans la hiérarchie de<br>mon temple.|
-|3|Ma piété me pousse parfois à croire<br>aveuglément ceux qui professent croire en<br>mon dieu.|
-|4|Je n'ai aucune flexibilité dans ma manière de<br>penser.|
-|5|Je ne fais pas confiance aux étrangers et je<br>m'attends au pire de leur part.|
-|6|Une fois que je me suis fixé un objectif, je<br>deviens obsédé par celui-ci au détriment de<br>tout le reste.|
+|1|Je juge les autres sévèrement, mais je me juge <!--br-->encore plus durement.|
+|2|J'accorde trop de confiance à ceux qui <!--br-->détiennent le pouvoir dans la hiérarchie de <!--br-->mon temple.|
+|3|Ma piété me pousse parfois à croire <!--br-->aveuglément ceux qui professent croire en <!--br-->mon dieu.|
+|4|Je n'ai aucune flexibilité dans ma manière de <!--br-->penser.|
+|5|Je ne fais pas confiance aux étrangers et je <!--br-->m'attends au pire de leur part.|
+|6|Une fois que je me suis fixé un objectif, je <!--br-->deviens obsédé par celui-ci au détriment de <!--br-->tout le reste.|
 
 <!--/Generic-->
 

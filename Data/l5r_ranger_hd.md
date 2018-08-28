@@ -22,27 +22,27 @@ Comme le rôdeur du livre de règles de Héros & Dragons. Cependant, les aptitud
 
 - Source: <!--Source-->(L5R p53)<!--/Source-->
 
-|Niveau|bonus de<br>maîtrise|Aptitudes|
+|Niveau|bonus de <!--br-->maîtrise|Aptitudes|
 |---|---|---|
-|1|+2|[Ennemi juré],<br>[explorateur né]|
-|2|+2|[Style de combat],<br>**[fils de la nature]**|
-|3|+2|[Archétype de rôdeur],<br>**[sens du danger]**|
-|4|+2|[Amélioration de<br>caractéristique]|
-|5|+3|[Attaque supplémentaire],<br>**[fils de la nature]**|
-|6|+3|Amélioration<br>d'[ennemi juré] et<br>d'[explorateur né]|
-|7|+3|[Aptitude d'archétype<br>de rôdeur]|
-|8|+3|[Amélioration de<br>caractéristique],<br>[traversée de terrains]|
+|1|+2|[Ennemi juré], <!--br-->[explorateur né]|
+|2|+2|[Style de combat], <!--br-->**[fils de la nature]**|
+|3|+2|[Archétype de rôdeur], <!--br-->**[sens du danger]**|
+|4|+2|[Amélioration de <!--br-->caractéristique]|
+|5|+3|[Attaque supplémentaire], <!--br-->**[fils de la nature]**|
+|6|+3|Amélioration <!--br-->d'[ennemi juré] et <!--br-->d'[explorateur né]|
+|7|+3|[Aptitude d'archétype <!--br-->de rôdeur]|
+|8|+3|[Amélioration de <!--br-->caractéristique], <!--br-->[traversée de terrains]|
 |9|+4|**[Fils de la nature]**|
-|10|+4|Amélioration<br>d'[explorateur né],<br>[camouflage naturel]|
-|11|+4|[Aptitude d'archétype<br>de rôdeur]|
-|12|+4|[Amélioration de<br>caractéristique]|
+|10|+4|Amélioration <!--br-->d'[explorateur né], <!--br-->[camouflage naturel]|
+|11|+4|[Aptitude d'archétype <!--br-->de rôdeur]|
+|12|+4|[Amélioration de <!--br-->caractéristique]|
 |13|+5|**[Fils de la nature]**|
-|14|+5|Amélioration d'[ennemi juré],<br>[disparition]|
-|15|+5|[Aptitude d'archétype<br>de rôdeur]|
-|16|+5|[Amélioration de<br>caractéristique]|
+|14|+5|Amélioration d'[ennemi juré], <!--br-->[disparition]|
+|15|+5|[Aptitude d'archétype <!--br-->de rôdeur]|
+|16|+5|[Amélioration de <!--br-->caractéristique]|
 |17|+6|**[Fils de la nature]**|
 |18|+6|[Sens sauvages]|
-|19|+6|[Amélioration de<br>caractéristique]|
+|19|+6|[Amélioration de <!--br-->caractéristique]|
 |20|+6|[Tueur d'ennemis]|
 
 
@@ -217,8 +217,8 @@ Cette option ne s'applique pas aux cinq royaumes.
 
 
 
-[Amélioration de<br>caractéristique]: ranger_hd.md#amélioration-de-caractéristiques
-[Aptitude d'archétype<br>de rôdeur]: ranger_hd.md#archétype-de-rôdeur
+[Amélioration de <!--br-->caractéristique]: ranger_hd.md#amélioration-de-caractéristiques
+[Aptitude d'archétype <!--br-->de rôdeur]: ranger_hd.md#archétype-de-rôdeur
 [Archétype de rôdeur]: ranger_hd.md#archétype-de-rôdeur
 [assourdi]: conditions_hd.md#assourdi
 [Attaque supplémentaire]: ranger_hd.md#attaque-supplémentaire

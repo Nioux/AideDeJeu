@@ -50,14 +50,14 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 |d8|Trait de personnalité|
 |---|---|
-|1|Je suis extrêmement méfiant. Ma confiance a<br>un prix, et ce prix est élevé.|
-|2|Je tourne toute situation en dérision, et fais fi<br>des sentiments des autres.|
-|3|Je ne suis à mon aise qu'avec le ciel étoilé<br>comme toit.|
-|4|Je ne recule jamais face à un défi, aussi<br>insurmontable soit-il.|
-|5|Je ne me soucie guère des problèmes des<br>autres.|
-|6|Ma parole est mon bien le plus précieux, je ne<br>la donne jamais à la légère.|
-|7|Je protège les miens comme une mère protège<br>ses petits.|
-|8|Je suis aussi impitoyable que la nature peut<br>l'être. La survie est à ce prix.|
+|1|Je suis extrêmement méfiant. Ma confiance a <!--br-->un prix, et ce prix est élevé.|
+|2|Je tourne toute situation en dérision, et fais fi <!--br-->des sentiments des autres.|
+|3|Je ne suis à mon aise qu'avec le ciel étoilé <!--br-->comme toit.|
+|4|Je ne recule jamais face à un défi, aussi <!--br-->insurmontable soit-il.|
+|5|Je ne me soucie guère des problèmes des <!--br-->autres.|
+|6|Ma parole est mon bien le plus précieux, je ne <!--br-->la donne jamais à la légère.|
+|7|Je protège les miens comme une mère protège <!--br-->ses petits.|
+|8|Je suis aussi impitoyable que la nature peut <!--br-->l'être. La survie est à ce prix.|
 
 <!--/Generic-->
 
@@ -67,12 +67,12 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 |d6|Idéal|
 |---|---|
-|1|**Honneur.** La société peut penser ce qu'elle veut<br>de vous. Ce qui vous importe avant tout, c'est<br>votre conscience. (Loyal)|
-|2|**Pouvoir.** Vous faites ce qui vous chante et<br>prenez ce dont vous avez besoin quand vous en<br>avez besoin. (Mauvais)|
-|3|**Nature.** Vous avez développé un lien<br>particulier avec la nature et souhaitez la<br>préserver de la corruption de la civilisation.<br>(Neutre)|
-|4|**Bien commun.** Vous avez développé un sens<br>élevé du partage, et vous mettez souvent<br>l'intérêt de la communauté avant le vôtre.<br>(Bon)|
-|5|**Liberté.** La vie en société est faite de chaînes<br>et de restrictions et vous ne comptez pas vous<br>laisser emprisonner. (Chaotique)|
-|6|**Autonomie.** Chacun doit pouvoir être en<br>mesure d'assurer sa propre survie. (Neutre)|
+|1|**Honneur.** La société peut penser ce qu'elle veut <!--br-->de vous. Ce qui vous importe avant tout, c'est <!--br-->votre conscience. (Loyal)|
+|2|**Pouvoir.** Vous faites ce qui vous chante et <!--br-->prenez ce dont vous avez besoin quand vous en <!--br-->avez besoin. (Mauvais)|
+|3|**Nature.** Vous avez développé un lien <!--br-->particulier avec la nature et souhaitez la <!--br-->préserver de la corruption de la civilisation. <!--br-->(Neutre)|
+|4|**Bien commun.** Vous avez développé un sens <!--br-->élevé du partage, et vous mettez souvent <!--br-->l'intérêt de la communauté avant le vôtre. <!--br-->(Bon)|
+|5|**Liberté.** La vie en société est faite de chaînes <!--br-->et de restrictions et vous ne comptez pas vous <!--br-->laisser emprisonner. (Chaotique)|
+|6|**Autonomie.** Chacun doit pouvoir être en <!--br-->mesure d'assurer sa propre survie. (Neutre)|
 
 <!--/Generic-->
 
@@ -82,12 +82,12 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 |d6|Lien|
 |---|---|
-|1|Certaines personnes dépendent de moi<br>(famille, bande, amis) et je veux être digne de<br>leur attachement.|
-|2|Ma région d'origine a une grande importance<br>à mes yeux, et je ferai tout ce qui est en mon<br>pouvoir pour la préserver.|
-|3|J'ai fait une promesse à l'un de mes proches<br>disparus, et je tiendrai parole.|
-|4|L'un des miens m'a été enlevé. Je suis persuadé<br>qu'il est encore en vie quelque part, et j'ai juré<br>de le retrouver et de le ramener chez lui.|
-|5|Ma région a été frappée par un désastre, et<br>c'est à moi qu'il revient de trouver le moyen de<br>restaurer ce qui peut l'être.|
-|6|J'ai déniché une information capitale<br>(secret, carte au trésor, etc.) qui pourrait<br>assurer définitivement la prospérité de ma<br>communauté, et je compte bien en profiter.|
+|1|Certaines personnes dépendent de moi <!--br-->(famille, bande, amis) et je veux être digne de <!--br-->leur attachement.|
+|2|Ma région d'origine a une grande importance <!--br-->à mes yeux, et je ferai tout ce qui est en mon <!--br-->pouvoir pour la préserver.|
+|3|J'ai fait une promesse à l'un de mes proches <!--br-->disparus, et je tiendrai parole.|
+|4|L'un des miens m'a été enlevé. Je suis persuadé <!--br-->qu'il est encore en vie quelque part, et j'ai juré <!--br-->de le retrouver et de le ramener chez lui.|
+|5|Ma région a été frappée par un désastre, et <!--br-->c'est à moi qu'il revient de trouver le moyen de <!--br-->restaurer ce qui peut l'être.|
+|6|J'ai déniché une information capitale <!--br-->(secret, carte au trésor, etc.) qui pourrait <!--br-->assurer définitivement la prospérité de ma <!--br-->communauté, et je compte bien en profiter.|
 
 <!--/Generic-->
 
@@ -97,12 +97,12 @@ Par méconnaissance ou par mépris des lois, vous vous êtes placé en marge de 
 
 |d6|Défaut|
 |---|---|
-|1|Je ne pardonne jamais une offense ou une<br>trahison.|
-|2|Par ignorance ou par mépris des conventions,<br>j'apparais souvent comme un rustre.|
-|3|J'ai tendance à penser que ma solution est<br>toujours la meilleure.|
+|1|Je ne pardonne jamais une offense ou une <!--br-->trahison.|
+|2|Par ignorance ou par mépris des conventions, <!--br-->j'apparais souvent comme un rustre.|
+|3|J'ai tendance à penser que ma solution est <!--br-->toujours la meilleure.|
 |4|Je parle souvent avant de réfléchir.|
-|5|Je n'accorde aucun crédit aux citadins et aux<br>nantis.|
-|6|J'ai une confiance excessive en mes propres<br>capacités.|
+|5|Je n'accorde aucun crédit aux citadins et aux <!--br-->nantis.|
+|6|J'ai une confiance excessive en mes propres <!--br-->capacités.|
 
 <!--/Generic-->
 

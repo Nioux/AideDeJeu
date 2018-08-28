@@ -798,26 +798,26 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 |---|---|
 |01-05|Vous lancez lenteur.|
 |06-10|Vous lancez lueurs féeriques.|
-|11-15|Vous êtes étourdi jusqu'à la fin de votre<br>prochain tour, mais vous croyez que quelque<br>chose d'incroyable vient tout juste d'arriver.|
+|11-15|Vous êtes étourdi jusqu'à la fin de votre <!--br-->prochain tour, mais vous croyez que quelque <!--br-->chose d'incroyable vient tout juste d'arriver.|
 |16-20|Vous lancez bourrasque.|
-|21-25|Vous lancez détection des pensées sur la<br>cible de votre choix. Vous subissez 1d6 dégâts<br>psychiques si vous ne ciblez aucune créature.|
+|21-25|Vous lancez détection des pensées sur la <!--br-->cible de votre choix. Vous subissez 1d6 dégâts <!--br-->psychiques si vous ne ciblez aucune créature.|
 |26-30|Vous lancez nuage puant.|
-|31-33|Une forte pluie tombe dans un rayon de 18<br>mètres centré sur la cible. La visibilité dans<br>cette zone est réduite. La pluie tombe ainsi<br>jusqu'au début de votre prochain tour.|
-|34-36|Un animal apparaît dans l'emplacement<br>inoccupé le plus proche de la cible. L'animal<br>n'est pas sous votre contrôle et agit comme<br>tout autre animal de son espèce. Lancez un<br>d100 pour déterminer quel animal apparaît.<br>Entre 01 et 25, un rhinocéros apparaît ; entre 26<br>et 50, un éléphant apparaît ; et entre 51 et 100,<br>un rat apparaît.|
+|31-33|Une forte pluie tombe dans un rayon de 18 <!--br-->mètres centré sur la cible. La visibilité dans <!--br-->cette zone est réduite. La pluie tombe ainsi <!--br-->jusqu'au début de votre prochain tour.|
+|34-36|Un animal apparaît dans l'emplacement <!--br-->inoccupé le plus proche de la cible. L'animal <!--br-->n'est pas sous votre contrôle et agit comme <!--br-->tout autre animal de son espèce. Lancez un <!--br-->d100 pour déterminer quel animal apparaît. <!--br-->Entre 01 et 25, un rhinocéros apparaît ; entre 26 <!--br-->et 50, un éléphant apparaît ; et entre 51 et 100, <!--br-->un rat apparaît.|
 |37-46|Vous lancez éclair.|
-|47-49|Une nuée de 600 gros papillons envahit une<br>zone de 9 mètres de rayon centrée sur la cible.<br>La visibilité dans cette zone est nulle. Les<br>papillons restent pendant 10 minutes.|
-|50-53|Vous agrandissez la cible comme si vous aviez<br>lancé agrandir/rétrécir. Vous devenez la cible<br>du sort si celle que vous avez désignée ne<br>peut être affectée ou si vous ne ciblez aucune<br>créature.|
+|47-49|Une nuée de 600 gros papillons envahit une <!--br-->zone de 9 mètres de rayon centrée sur la cible. <!--br-->La visibilité dans cette zone est nulle. Les <!--br-->papillons restent pendant 10 minutes.|
+|50-53|Vous agrandissez la cible comme si vous aviez <!--br-->lancé agrandir/rétrécir. Vous devenez la cible <!--br-->du sort si celle que vous avez désignée ne <!--br-->peut être affectée ou si vous ne ciblez aucune <!--br-->créature.|
 |54-58|Vous lancez ténèbres.|
-|59-62|De l'herbe pousse par terre dans une zone de<br>18 mètres de rayon centrée sur la cible. S'il y<br>a déjà de l'herbe, elle pousse pour atteindre<br>dix fois sa taille normale et conserve cette<br>nouvelle taille pendant 1 minute.|
-|63-65|Un objet au choix du MJ disparaît dans le plan<br>éthéré. L'objet ne doit être équipé ou porté<br>par personne, il doit se trouver à 36 mètres ou<br>moins de la cible et ses dimensions ne peuvent<br>dépasser 3 mètres.|
-|66-69|Vous rapetissez comme si vous aviez lancé le<br>sort agrandir/rétrécir sur vous-même.|
+|59-62|De l'herbe pousse par terre dans une zone de <!--br-->18 mètres de rayon centrée sur la cible. S'il y <!--br-->a déjà de l'herbe, elle pousse pour atteindre <!--br-->dix fois sa taille normale et conserve cette <!--br-->nouvelle taille pendant 1 minute.|
+|63-65|Un objet au choix du MJ disparaît dans le plan <!--br-->éthéré. L'objet ne doit être équipé ou porté <!--br-->par personne, il doit se trouver à 36 mètres ou <!--br-->moins de la cible et ses dimensions ne peuvent <!--br-->dépasser 3 mètres.|
+|66-69|Vous rapetissez comme si vous aviez lancé le <!--br-->sort agrandir/rétrécir sur vous-même.|
 |70-79|Vous lancez boule de feu.|
 |80-84|Vous lancez invisibilité sur vous-même.|
-|85-87|Des feuilles de plante poussent sur la cible. Si<br>vous prenez un point dans l'espace pour cible,<br>des feuilles poussent sur la créature la plus<br>proche de ce point. À moins d'être arrachées,<br>les feuilles se racornissent peu à peu et<br>tombent au bout de 24 heures.|
-|88-90|un flot de 1d4×10 pierres précieuses, avalant<br>1 po chacune, surgit de l'extrémité de la<br>baguette sur une ligne de 9 mètres de long et<br>1,50 mètre de large. Chaque pierre précieuse<br>inflige 1 dégât contondant et les dégâts totaux<br>infligés par ces pierres sont divisés à parts<br>égales entre toutes les cibles sur la ligne.|
-|91-95|Une explosion de lumière scintillante s'étend<br>autour de vous sur un rayon de 9 mètres.<br>Vous, et les créatures dans la zone qui peuvent<br>vous voir, devez chacune réussir un jet de<br>sauvegarde de Constitution DD 15 pour ne pas<br>être aveuglées pendant 1 minute. Une créature<br>peut retenter le jet de sauvegarde à la fin de<br>chacun de ses tours et mettre fin à l'effet dont<br>elle est victime en cas de réussite.|
-|96-97|La peau de la cible devient bleue et<br>luminescente pendant 1d10 jours. Si vous avez<br>pris un point dans l'espace pour cible, c'est<br>la créature la plus proche de ce point qui est<br>affectée.|
-|98-00|Si vous avez pris une créature pour cible,<br>celle-ci doit effectuer un jet de sauvegarde de<br>Constitution DD 15. Si vous n'avez pris aucune<br>créature pour cible, c'est vous la cible du sort,<br>et vous devez effectuer le jet de sauvegarde. Si<br>le jet de sauvegarde rate de 5 points ou plus,<br>la cible est instantanément pétrifiée. Tous<br>les autres jets de sauvegarde ratés signifient<br>que la cible est entravée et commence à se<br>transformer en pierre. Entravée de cette façon,<br>la cible doit retenter le jet de sauvegarde à<br>la fin de son prochain tour ; elle est pétrifiée<br>en cas d'échec ou met fin à l'effet en cas de<br>réussite. La pétrification dure tant que la cible<br>n'est pas libérée par un sort de restauration<br>supérieure ou une magie similaire.|
+|85-87|Des feuilles de plante poussent sur la cible. Si <!--br-->vous prenez un point dans l'espace pour cible, <!--br-->des feuilles poussent sur la créature la plus <!--br-->proche de ce point. À moins d'être arrachées, <!--br-->les feuilles se racornissent peu à peu et <!--br-->tombent au bout de 24 heures.|
+|88-90|un flot de 1d4×10 pierres précieuses, avalant <!--br-->1 po chacune, surgit de l'extrémité de la <!--br-->baguette sur une ligne de 9 mètres de long et <!--br-->1,50 mètre de large. Chaque pierre précieuse <!--br-->inflige 1 dégât contondant et les dégâts totaux <!--br-->infligés par ces pierres sont divisés à parts <!--br-->égales entre toutes les cibles sur la ligne.|
+|91-95|Une explosion de lumière scintillante s'étend <!--br-->autour de vous sur un rayon de 9 mètres. <!--br-->Vous, et les créatures dans la zone qui peuvent <!--br-->vous voir, devez chacune réussir un jet de <!--br-->sauvegarde de Constitution DD 15 pour ne pas <!--br-->être aveuglées pendant 1 minute. Une créature <!--br-->peut retenter le jet de sauvegarde à la fin de <!--br-->chacun de ses tours et mettre fin à l'effet dont <!--br-->elle est victime en cas de réussite.|
+|96-97|La peau de la cible devient bleue et <!--br-->luminescente pendant 1d10 jours. Si vous avez <!--br-->pris un point dans l'espace pour cible, c'est <!--br-->la créature la plus proche de ce point qui est <!--br-->affectée.|
+|98-00|Si vous avez pris une créature pour cible, <!--br-->celle-ci doit effectuer un jet de sauvegarde de <!--br-->Constitution DD 15. Si vous n'avez pris aucune <!--br-->créature pour cible, c'est vous la cible du sort, <!--br-->et vous devez effectuer le jet de sauvegarde. Si <!--br-->le jet de sauvegarde rate de 5 points ou plus, <!--br-->la cible est instantanément pétrifiée. Tous <!--br-->les autres jets de sauvegarde ratés signifient <!--br-->que la cible est entravée et commence à se <!--br-->transformer en pierre. Entravée de cette façon, <!--br-->la cible doit retenter le jet de sauvegarde à <!--br-->la fin de son prochain tour ; elle est pétrifiée <!--br-->en cas d'échec ou met fin à l'effet en cas de <!--br-->réussite. La pétrification dure tant que la cible <!--br-->n'est pas libérée par un sort de restauration <!--br-->supérieure ou une magie similaire.|
 
 <!--/Generic-->
 
@@ -979,9 +979,9 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 |Distance du point d'origine|Dégâts|
 |---|---|
-|< ou = à 3 m|8 × nombre de charges<br>restantes du bâton|
-|> à 3 m et < ou = à 6 m|6 × nombre de charges<br>restantes du bâton|
-|> à 6 m et < ou = à 9 m|4 × nombre de charges<br>restantes du bâton|
+|< ou = à 3 m|8 × nombre de charges <!--br-->restantes du bâton|
+|> à 3 m et < ou = à 6 m|6 × nombre de charges <!--br-->restantes du bâton|
+|> à 6 m et < ou = à 9 m|4 × nombre de charges <!--br-->restantes du bâton|
 
 <!--/Generic-->
 
@@ -1083,9 +1083,9 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 |Distance du point d'origine|Dégâts|
 |---|---|
-|< ou = à 3 m|8 × nombre de charges<br>restantes du bâton|
-|> à 3 et < ou = à 6 m|6 × nombre de charges<br>restantes du bâton|
-|> à 6 m et < ou = à 9 m|4 × nombre de charges<br>restantes du bâton|
+|< ou = à 3 m|8 × nombre de charges <!--br-->restantes du bâton|
+|> à 3 et < ou = à 6 m|6 × nombre de charges <!--br-->restantes du bâton|
+|> à 6 m et < ou = à 9 m|4 × nombre de charges <!--br-->restantes du bâton|
 
 <!--/Generic-->
 
@@ -1293,9 +1293,9 @@ Le MJ lance un dé dans la table suivante quand quelqu'un ouvre la bouteille pou
 
 |D100|Effet|
 |---|---|
-|01-10|L'éfrit vous attaque. Il disparaît après 5 rounds<br>de combat et la bouteille perd sa magie.|
-|11-90|L'éfrit vous sert pendant 1 heure et obéit à<br>vos ordres puis il retourne dans la bouteille<br>qu'un nouveau bouchon vient sceller. Il<br>est impossible de la déboucher pendant 24<br>heures. Il se produit la même chose lorsque<br>l'on ouvre la bouteille les deux fois suivantes.<br>À la quatrième ouverture, l'éfrit s'échappe et<br>disparaît et la bouteille perd toute magie.|
-|91-100|L'éfrit peut lancer le sort de souhait à trois<br>reprises pour vous. Il disparaît quand il a<br>accordé le dernier souhait ou au bout d'une<br>heure et la bouteille perd sa magie.|
+|01-10|L'éfrit vous attaque. Il disparaît après 5 rounds <!--br-->de combat et la bouteille perd sa magie.|
+|11-90|L'éfrit vous sert pendant 1 heure et obéit à <!--br-->vos ordres puis il retourne dans la bouteille <!--br-->qu'un nouveau bouchon vient sceller. Il <!--br-->est impossible de la déboucher pendant 24 <!--br-->heures. Il se produit la même chose lorsque <!--br-->l'on ouvre la bouteille les deux fois suivantes. <!--br-->À la quatrième ouverture, l'éfrit s'échappe et <!--br-->disparaît et la bouteille perd toute magie.|
+|91-100|L'éfrit peut lancer le sort de souhait à trois <!--br-->reprises pour vous. Il disparaît quand il a <!--br-->accordé le dernier souhait ou au bout d'une <!--br-->heure et la bouteille perd sa magie.|
 
 <!--/Generic-->
 
@@ -1720,7 +1720,7 @@ Il existe six types de grains magiques. C'est au MJ de décider du type de chaqu
 |d20|Grain de…|Sort|
 |---|---|---|
 |1-6|Bénédiction|Bénédiction|
-|7-12|Guérison|Soin des blessures (niveau 2)<br>ou restauration inférieure|
+|7-12|Guérison|Soin des blessures (niveau 2) <!--br-->ou restauration inférieure|
 |13-16|Faveur|Restauration supérieure|
 |17-18|Châtiment|Frappe lumineuse|
 |19|Convocations|Allié planaire|
@@ -1860,12 +1860,12 @@ Si vous utilisez une action pour souffler dans ce cor, des esprits guerriers du 
 
 Il existe quatre types connus de cors du Valhalla, chacun conçu dans un métal différent. C'est le type du cor qui définit le nombre d'esprits qui répondent à son appel mais aussi les conditions à remplir pour utiliser l'instrument. Le MJ choisit le type de cor ou le détermine au hasard.
 
-|d100|Type de cor|Fous de<br>guerre<br>invoqués|Conditions<br>requises|
+|d100|Type de cor|Fous de <!--br-->guerre <!--br-->invoqués|Conditions <!--br-->requises|
 |---|---|---|---|
 |01-40|Argent|2d4+2|Aucune|
-|41-75|Cuivre|3d4+3|Maîtrise de toutes<br>les armes courantes|
-|76-90|Bronze|4d4+4|Maîtrise de toutes<br>les armures<br>intermédiaires|
-|91-100|Fer|5d4+5|Maîtrise de toutes<br>les armes de guerre|
+|41-75|Cuivre|3d4+3|Maîtrise de toutes <!--br-->les armes courantes|
+|76-90|Bronze|4d4+4|Maîtrise de toutes <!--br-->les armures <!--br-->intermédiaires|
+|91-100|Fer|5d4+5|Maîtrise de toutes <!--br-->les armes de guerre|
 
 Si vous soufflez dans le cor alors que vous ne remplissez pas les conditions requises, les fous de guerre invoqués vous attaquent. Si vous les remplissez, ils se montrent amicaux envers vous et vos compagnons et obéissent à vos ordres.
 
@@ -1921,11 +1921,11 @@ Faces du cube de force
 
 |Face|Charges|Effet|
 |---|---|---|
-|1|1|Les gaz, le vent et le brouillard ne<br>peuvent pas franchir la barrière.|
-|2|2|La matière non-vivante ne peut pas<br>franchir la barrière. Si vous le désirez,<br>les murs, le sol et le plafond peuvent<br>la traverser.|
-|3|3|La matière vivante ne peut pas<br>franchir la barrière.|
-|4|4|Les effets de sort ne peuvent pas<br>franchir la barrière.|
-|5|5|Rien ne peut traverser la barrière. Si<br>vous le désirez, les murs, le sol et le<br>plafond peuvent la traverser.|
+|1|1|Les gaz, le vent et le brouillard ne <!--br-->peuvent pas franchir la barrière.|
+|2|2|La matière non-vivante ne peut pas <!--br-->franchir la barrière. Si vous le désirez, <!--br-->les murs, le sol et le plafond peuvent <!--br-->la traverser.|
+|3|3|La matière vivante ne peut pas <!--br-->franchir la barrière.|
+|4|4|Les effets de sort ne peuvent pas <!--br-->franchir la barrière.|
+|5|5|Rien ne peut traverser la barrière. Si <!--br-->vous le désirez, les murs, le sol et le <!--br-->plafond peuvent la traverser.|
 |6|0|La barrière se désactive.|
 
 Le cube perd des charges quand la barrière est la cible de certains sorts ou entre en contact avec certains effets issus de sorts ou d'objets magiques, comme indiqué dans la table suivante.
@@ -2848,9 +2848,9 @@ Le niveau du sort inscrit sur le parchemin détermine le DD des jets de sauvegar
 
 Parchemins magiques
 
-|Niveau du sort|Rareté|DD du jet de<br>sauvegarde|Bonus à<br>l'attaque|
+|Niveau du sort|Rareté|DD du jet de <!--br-->sauvegarde|Bonus à <!--br-->l'attaque|
 |---|---|---|---|
-|Tour de<br>magie|Courant|13|+5|
+|Tour de <!--br-->magie|Courant|13|+5|
 |1er|Courant|13|+5|
 |2e|Peu courant|13|+5|
 |3e|Peu courant|15|+7|
@@ -3470,17 +3470,17 @@ En outre, la robe se compose de 4d4 autres pièces. Le MJ choisit ces pièces ou
 |d100|Pièce|
 |---|---|
 |01-08|100 po dans un sac|
-|09-15|Coffre en argent (30 centimètres de long,<br>15 centimètres de large et de profondeur)<br>d'une valeur de 500 po|
-|16-22|Porte en fer (d'une largeur et d'une hauteur<br>maximales de 3 mètres, barrée du côté de<br>votre choix) que vous pouvez placer dans une<br>ouverture à votre portée ; la taille s'adapte<br>aux dimensions de l'ouverture et s'y fixe d'ellemême.|
-|23-30|10 pierres précieuses d'une valeur de 100 po<br>chacune|
+|09-15|Coffre en argent (30 centimètres de long, <!--br-->15 centimètres de large et de profondeur) <!--br-->d'une valeur de 500 po|
+|16-22|Porte en fer (d'une largeur et d'une hauteur <!--br-->maximales de 3 mètres, barrée du côté de <!--br-->votre choix) que vous pouvez placer dans une <!--br-->ouverture à votre portée ; la taille s'adapte <!--br-->aux dimensions de l'ouverture et s'y fixe d'ellemême.|
+|23-30|10 pierres précieuses d'une valeur de 100 po <!--br-->chacune|
 |31-44|Échelle en bois de 7,30 mètres de long|
 |45-51|Cheval de selle avec fontes|
-|52-59|Fosse (cube de 3 mètres d'arête) que vous<br>pouvez placer dans le sol à 3 mètres ou moins<br>de vous|
+|52-59|Fosse (cube de 3 mètres d'arête) que vous <!--br-->pouvez placer dans le sol à 3 mètres ou moins <!--br-->de vous|
 |60-68|4 potions de soins|
 |69-75|Barque (3,60 mètres de long)|
-|76-83|Parchemin magique contenant un sort de<br>niveau 1 à 3|
+|76-83|Parchemin magique contenant un sort de <!--br-->niveau 1 à 3|
 |84-90|2 molosses|
-|91-96|Fenêtre (60 centimètres sur 1,20 mètre et<br>jusqu'à 60 centimètres d'épaisseur) que vous<br>pouvez placer sur une surface verticale à votre<br>portée|
+|91-96|Fenêtre (60 centimètres sur 1,20 mètre et <!--br-->jusqu'à 60 centimètres d'épaisseur) que vous <!--br-->pouvez placer sur une surface verticale à votre <!--br-->portée|
 |97-00|Bélier portable|
 
 <!--/Generic-->
@@ -3576,18 +3576,18 @@ Si vous sortez un haricot du sac, le plantez dans la terre ou le sable et l'arro
 
 |d100|Effet|
 |---|---|
-|01|5d4 champignons vénéneux poussent soudain.<br>Si une créature en mange un, lancez un dé. Sur<br>un nombre impair, elle doit réussir un jet de<br>sauvegarde de Constitution DD 15, sans quoi<br>elle subit 5d6 dégâts de poison et se retrouve<br>empoisonnée pendant 1 heure. Sur un nombre<br>pair, elle gagne 5d6 points de vie temporaires<br>pendant 1 heure.|
-|02-10|Un geyser crache de l'eau, de la bière, du jus de<br>fruit, du thé, du vinaigre, du vin ou de l'huile<br>(au choix du MJ) à 9 mètres de haut pendant<br>1d12 rounds.|
-|11-20|Un sylvanien germe du haricot, sachant qu'il y<br>a 50 % de chances qu'il soit chaotique mauvais<br>et attaque.|
-|21-30|Une statue pousse. Elle est animée, en pierre,<br>immobile et à votre effigie. Elle vous lance des<br>menaces verbales. Si vous la quittez et que<br>d'autres créatures approchent, elle vous décrit<br>comme étant le pire des scélérats et charge les<br>nouveaux-venus de vous retrouver et de vous<br>éliminer. Si vous vous trouvez sur le même<br>plan d'existence que la statue, elle sait où vous<br>vous trouvez. Elle devient inanimée au bout de<br>24 heures.|
-|31-40|Un feu de camp aux flammes bleues apparaît<br>et brûle pendant 24 heures (ou jusqu'à ce que<br>quelqu'un l'éteigne).|
+|01|5d4 champignons vénéneux poussent soudain. <!--br-->Si une créature en mange un, lancez un dé. Sur <!--br-->un nombre impair, elle doit réussir un jet de <!--br-->sauvegarde de Constitution DD 15, sans quoi <!--br-->elle subit 5d6 dégâts de poison et se retrouve <!--br-->empoisonnée pendant 1 heure. Sur un nombre <!--br-->pair, elle gagne 5d6 points de vie temporaires <!--br-->pendant 1 heure.|
+|02-10|Un geyser crache de l'eau, de la bière, du jus de <!--br-->fruit, du thé, du vinaigre, du vin ou de l'huile <!--br-->(au choix du MJ) à 9 mètres de haut pendant <!--br-->1d12 rounds.|
+|11-20|Un sylvanien germe du haricot, sachant qu'il y <!--br-->a 50 % de chances qu'il soit chaotique mauvais <!--br-->et attaque.|
+|21-30|Une statue pousse. Elle est animée, en pierre, <!--br-->immobile et à votre effigie. Elle vous lance des <!--br-->menaces verbales. Si vous la quittez et que <!--br-->d'autres créatures approchent, elle vous décrit <!--br-->comme étant le pire des scélérats et charge les <!--br-->nouveaux-venus de vous retrouver et de vous <!--br-->éliminer. Si vous vous trouvez sur le même <!--br-->plan d'existence que la statue, elle sait où vous <!--br-->vous trouvez. Elle devient inanimée au bout de <!--br-->24 heures.|
+|31-40|Un feu de camp aux flammes bleues apparaît <!--br-->et brûle pendant 24 heures (ou jusqu'à ce que <!--br-->quelqu'un l'éteigne).|
 |41-50|1d6+6 criards apparaissent.|
-|51-60|1d4+8 crapauds sortent de terre. Ils sont d'un<br>beau rose vif et, dès qu'on en touche un, il se<br>transforme en monstre de taille G ou inférieure<br>choisi par le MJ. Le monstre reste 1 minute puis<br>disparaît dans un nuage de fumée rose.|
+|51-60|1d4+8 crapauds sortent de terre. Ils sont d'un <!--br-->beau rose vif et, dès qu'on en touche un, il se <!--br-->transforme en monstre de taille G ou inférieure <!--br-->choisi par le MJ. Le monstre reste 1 minute puis <!--br-->disparaît dans un nuage de fumée rose.|
 |61-70|Une bulette affamée sort de terre et attaque.|
-|71-80|Un arbre fruitier sort de terre. Il porte<br>1d10+20 fruits, dont 1d8 agissent comme une<br>potion magique aléatoire tandis qu'un seul<br>agit comme un poison par voie d'ingestion que<br>choisit le MJ. L'arbre disparaît au bout d'une<br>heure. Les fruits déjà cueillis ne s'évanouissent<br>pas et conservent leur magie pendant 30 jours.|
-|81-90|Un nid sort de terre, contenant 1d4+3 oeufs. Une<br>créature qui mange l'un d'eux doit faire un jet<br>de sauvegarde de Constitution DD 20. Si elle<br>le réussit, sa valeur de caractéristique la plus<br>basse augmente définitivement de 1. En cas<br>d'égalité entre plusieurs caractéristique, c'est<br>le hasard qui décide de celle qui augmente.<br>Si la créature rate son jet de sauvegarde, elle<br>subit 10d6 dégâts de force suite à une explosion<br>magique interne.|
-|91-99|Une pyramide dotée d'une base de 5 mètres de<br>côté jaillit du sol. Elle contient le sarcophage<br>d'une momie auguste. La pyramide fonctionne<br>comme l'antre de la momie et le sarcophage<br>contient un trésor à choisir par le MJ.|
-|100|Un pied de haricot géant pousse soudain et<br>grimpe à une hauteur à définir par le MJ. Le<br>sommet débouche là où le MJ le souhaite : il<br>offre une vue magnifique sur le paysage, donne<br>accès au château d'un géant des nuages ou<br>rejoint un autre plan d'existence.|
+|71-80|Un arbre fruitier sort de terre. Il porte <!--br-->1d10+20 fruits, dont 1d8 agissent comme une <!--br-->potion magique aléatoire tandis qu'un seul <!--br-->agit comme un poison par voie d'ingestion que <!--br-->choisit le MJ. L'arbre disparaît au bout d'une <!--br-->heure. Les fruits déjà cueillis ne s'évanouissent <!--br-->pas et conservent leur magie pendant 30 jours.|
+|81-90|Un nid sort de terre, contenant 1d4+3 oeufs. Une <!--br-->créature qui mange l'un d'eux doit faire un jet <!--br-->de sauvegarde de Constitution DD 20. Si elle <!--br-->le réussit, sa valeur de caractéristique la plus <!--br-->basse augmente définitivement de 1. En cas <!--br-->d'égalité entre plusieurs caractéristique, c'est <!--br-->le hasard qui décide de celle qui augmente. <!--br-->Si la créature rate son jet de sauvegarde, elle <!--br-->subit 10d6 dégâts de force suite à une explosion <!--br-->magique interne.|
+|91-99|Une pyramide dotée d'une base de 5 mètres de <!--br-->côté jaillit du sol. Elle contient le sarcophage <!--br-->d'une momie auguste. La pyramide fonctionne <!--br-->comme l'antre de la momie et le sarcophage <!--br-->contient un trésor à choisir par le MJ.|
+|100|Un pied de haricot géant pousse soudain et <!--br-->grimpe à une hauteur à définir par le MJ. Le <!--br-->sommet débouche là où le MJ le souhaite : il <!--br-->offre une vue magnifique sur le paysage, donne <!--br-->accès au château d'un géant des nuages ou <!--br-->rejoint un autre plan d'existence.|
 
 <!--/Generic-->
 
@@ -3753,8 +3753,8 @@ Si la sphère entre en contact avec un portail planaire, tel que ceux créés pa
 |d100|Résultat|
 |---|---|
 |01-50|La sphère est détruite.|
-|51-85|La sphère traverse le portail ou entre dans<br>l'espace extradimensionnel.|
-|86-00|Une faille spatiale envoie chaque créature et<br>objet situés à 54 mètres ou moins de la sphère,<br>y compris la sphère elle-même, vers un plan<br>d'existence déterminé au hasard.|
+|51-85|La sphère traverse le portail ou entre dans <!--br-->l'espace extradimensionnel.|
+|86-00|Une faille spatiale envoie chaque créature et <!--br-->objet situés à 54 mètres ou moins de la sphère, <!--br-->y compris la sphère elle-même, vers un plan <!--br-->d'existence déterminé au hasard.|
 
 <!--/Generic-->
 
@@ -3797,15 +3797,15 @@ Leviers du submersible du crabe
 
 |Levier|Haut|Bas|
 |---|---|---
-|1|Déploiement de la queue et des pattes, ce qui permet<br>au submersible de marcher et nager.|Repliement de la queue et des pattes, ce qui réduit<br>la vitesse du submersible à 0 et l'empêche de profiter d'éventuels bonus de vitesse.|
+|1|Déploiement de la queue et des pattes, ce qui permet <!--br-->au submersible de marcher et nager.|Repliement de la queue et des pattes, ce qui réduit <!--br-->la vitesse du submersible à 0 et l'empêche de profiter d'éventuels bonus de vitesse.|
 |2|Ouverture du volet de la fenêtre avant.|Fermeture du volet de la fenêtre avant.|
-|3|Ouverture des volets des fenêtres latérales (deux de<br>chaque côté).|Fermeture des volets des fenêtres latérales (deux<br>de chaque côté).|
-|4|Deux pinces se déploient de chaque côté du<br>submersible.|Les deux pinces se rétractent.|
-|5|Chaque pince dépliée est considérée comme une arme de<br>corps à corps et porte l'attaque suivante : +8 pour<br>toucher, allonge 1,50 m, une cible. Coup: 7 (2d6) dégâts<br>contondants.
-|6|Le submersible avance en marchant ou en nageant.|Le submersible recule en marchant ou en<br>nageant.|
+|3|Ouverture des volets des fenêtres latérales (deux de <!--br-->chaque côté).|Fermeture des volets des fenêtres latérales (deux <!--br-->de chaque côté).|
+|4|Deux pinces se déploient de chaque côté du <!--br-->submersible.|Les deux pinces se rétractent.|
+|5|Chaque pince dépliée est considérée comme une arme de <!--br-->corps à corps et porte l'attaque suivante : +8 pour <!--br-->toucher, allonge 1,50 m, une cible. Coup: 7 (2d6) dégâts <!--br-->contondants.
+|6|Le submersible avance en marchant ou en nageant.|Le submersible recule en marchant ou en <!--br-->nageant.|
 |7|L'appareil tourne de 90° sur la gauche.|L'appareil tourne de 90° sur la droite.|
-|8|Des pièces d'équipement semblables à des yeux<br>émettent une vive lumière dans un rayon de 9 mètres et<br>une lumière faible dans un rayon de 9 mètres de plus.|Les lumières s'éteignent.|
-|9|Le submersible s'enfonce d'au maximum 6 mètres dans<br>un liquide.|Le submersible remonte d'au maximum 6 mètres<br>dans un liquide.|
+|8|Des pièces d'équipement semblables à des yeux <!--br-->émettent une vive lumière dans un rayon de 9 mètres et <!--br-->une lumière faible dans un rayon de 9 mètres de plus.|Les lumières s'éteignent.|
+|9|Le submersible s'enfonce d'au maximum 6 mètres dans <!--br-->un liquide.|Le submersible remonte d'au maximum 6 mètres <!--br-->dans un liquide.|
 |10|La trappe arrière se descelle et s'ouvre.|La trappe arrière se ferme et se scelle.|
 
 <!--/Generic-->

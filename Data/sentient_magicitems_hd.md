@@ -37,9 +37,9 @@ Un objet intelligent peut communiquer d'une façon une d'une autre, que ce soit 
 
 |d100|Communication|
 |---|---|
-|01-60|L'objet communique par le biais d'émotions qu'il<br>fait ressentir à la personne qui le porte ou le manie.|
-|61-90|L'objet parle, lit et comprend une ou plusieurs<br>langues.|
-|91-00|L'objet parle, lit et comprend une ou plusieurs<br>langues. De plus, il peut communiquer par<br>télépathie avec la créature qui le porte ou le manie.|
+|01-60|L'objet communique par le biais d'émotions qu'il <!--br-->fait ressentir à la personne qui le porte ou le manie.|
+|61-90|L'objet parle, lit et comprend une ou plusieurs <!--br-->langues.|
+|91-00|L'objet parle, lit et comprend une ou plusieurs <!--br-->langues. De plus, il peut communiquer par <!--br-->télépathie avec la créature qui le porte ou le manie.|
 
 <!--/Generic-->
 
@@ -86,16 +86,16 @@ Vous pouvez doter l'objet intelligent d'un objectif qu'il cherchera à remplir, 
 
 |d10|Dessein spécial|
 |---|---|
-|1|Aligné : l'objet cherche à vaincre ou détruire les<br>créatures dont l'alignement est diamétralement<br>opposé au sien (un tel objet n'est jamais neutre).|
-|2|Fléau : l'objet cherche à vaincre ou à détruire<br>une catégorie spécifique de créatures, telles que<br>les fiélons, les métamorphes, les trolls ou les<br>magiciens.|
-|3|Protecteur : l'objet cherche à défendre une race<br>ou une catégorie particulière de créatures, telles<br>que les elfes ou les druides.|
-|4|Croisé : l'objet cherche à vaincre, affaiblir ou<br>détruire les serviteurs d'une divinité particulière.|
-|5|Templier : l'objet cherche à défendre les serviteurs<br>et les intérêts d'une divinité particulière.|
-|6|Destructeur : l'objet se nourrit de destruction et<br>pousse son utilisateur à combattre de manière<br>arbitraire.|
-|7|En quête de gloire : l'objet cherche la renommée<br>et veut devenir l'objet magique le plus connu<br>dans le monde en poussant son utilisateur à<br>devenir une personnalité réputée et fameuse.|
-|8|En quête de savoir : l'objet se nourrit de<br>connaissances ou cherche à résoudre un mystère,<br>à apprendre un secret ou à comprendre une<br>énigmatique prophétie.|
-|9|En quête de son destin : l'objet est persuadé que<br>lui et son utilisateur ont des rôles cruciaux à jouer<br>à l'avenir.|
-|10|En quête de son créateur : l'objet cherche son<br>créateur et veut savoir pourquoi il a été créé.|
+|1|Aligné : l'objet cherche à vaincre ou détruire les <!--br-->créatures dont l'alignement est diamétralement <!--br-->opposé au sien (un tel objet n'est jamais neutre).|
+|2|Fléau : l'objet cherche à vaincre ou à détruire <!--br-->une catégorie spécifique de créatures, telles que <!--br-->les fiélons, les métamorphes, les trolls ou les <!--br-->magiciens.|
+|3|Protecteur : l'objet cherche à défendre une race <!--br-->ou une catégorie particulière de créatures, telles <!--br-->que les elfes ou les druides.|
+|4|Croisé : l'objet cherche à vaincre, affaiblir ou <!--br-->détruire les serviteurs d'une divinité particulière.|
+|5|Templier : l'objet cherche à défendre les serviteurs <!--br-->et les intérêts d'une divinité particulière.|
+|6|Destructeur : l'objet se nourrit de destruction et <!--br-->pousse son utilisateur à combattre de manière <!--br-->arbitraire.|
+|7|En quête de gloire : l'objet cherche la renommée <!--br-->et veut devenir l'objet magique le plus connu <!--br-->dans le monde en poussant son utilisateur à <!--br-->devenir une personnalité réputée et fameuse.|
+|8|En quête de savoir : l'objet se nourrit de <!--br-->connaissances ou cherche à résoudre un mystère, <!--br-->à apprendre un secret ou à comprendre une <!--br-->énigmatique prophétie.|
+|9|En quête de son destin : l'objet est persuadé que <!--br-->lui et son utilisateur ont des rôles cruciaux à jouer <!--br-->à l'avenir.|
+|10|En quête de son créateur : l'objet cherche son <!--br-->créateur et veut savoir pourquoi il a été créé.|
 
 <!--/Generic-->
 

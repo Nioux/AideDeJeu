@@ -33,14 +33,14 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 
 |d8|Trait de personnalité|
 |---|---|
-|1|Je n'aime pas laisser un travail inachevé, quitte<br>à y sacrifier ma santé ou mon intérêt.|
-|2|J'aime partager les secrets de ma profession<br>avec des collègues, des heures durant.|
-|3|Je ramène tous les sujets, même les plus<br>incongrus, à ce que je connais et pratique.|
-|4|J'associe toujours tout à une valeur<br>marchande, et je vois le monde à travers ce<br>filtre.|
-|5|J'apparais comme arrogant et imbu de ma<br>personne à tous ceux qui n'appartiennent pas<br>à la même confrérie que moi.|
-|6|J'aime partager l'amour du travail bien fait en<br>toutes occasions.|
-|7|J'ai un profond respect pour l'ancienneté et<br>l'expérience, et une déférence naturelle pour<br>mes aînés.|
-|8|Je peux oublier tout ce qui me préoccupait un<br>instant plus tôt lorsque je me trouve face à une<br>oeuvre de qualité.|
+|1|Je n'aime pas laisser un travail inachevé, quitte <!--br-->à y sacrifier ma santé ou mon intérêt.|
+|2|J'aime partager les secrets de ma profession <!--br-->avec des collègues, des heures durant.|
+|3|Je ramène tous les sujets, même les plus <!--br-->incongrus, à ce que je connais et pratique.|
+|4|J'associe toujours tout à une valeur <!--br-->marchande, et je vois le monde à travers ce <!--br-->filtre.|
+|5|J'apparais comme arrogant et imbu de ma <!--br-->personne à tous ceux qui n'appartiennent pas <!--br-->à la même confrérie que moi.|
+|6|J'aime partager l'amour du travail bien fait en <!--br-->toutes occasions.|
+|7|J'ai un profond respect pour l'ancienneté et <!--br-->l'expérience, et une déférence naturelle pour <!--br-->mes aînés.|
+|8|Je peux oublier tout ce qui me préoccupait un <!--br-->instant plus tôt lorsque je me trouve face à une <!--br-->oeuvre de qualité.|
 
 <!--/Generic-->
 
@@ -50,12 +50,12 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 
 |d6|Idéal|
 |---|---|
-|1|**Bien commun.** Mes talents et mes<br>connaissances ne valent que s'ils sont transmis<br>à d'autres. (Bon)|
-|2|**Égalité.** Chacun devrait se voir rémunéré selon<br>son seul mérite. (Neutre)|
-|3|**Indépendance.** Les guildes sont bien plus<br>aptes à gouverner que tous les princes et<br>intrigants. (Chaotique)|
-|4|**Devoir.** Je dois rendre à ma guilde et à ma<br>communauté tout ce qu'elles m'ont apporté.<br>(Loyal)|
-|5|**Pouvoir.** Les concurrents doivent être éliminés<br>par tous les moyens afin d'assurer la primauté<br>de la guilde. (Mauvais)|
-|6|**Ambition.** Il n'y a qu'un seul objectif<br>acceptable : être le meilleur. (Tous)|
+|1|**Bien commun.** Mes talents et mes <!--br-->connaissances ne valent que s'ils sont transmis <!--br-->à d'autres. (Bon)|
+|2|**Égalité.** Chacun devrait se voir rémunéré selon <!--br-->son seul mérite. (Neutre)|
+|3|**Indépendance.** Les guildes sont bien plus <!--br-->aptes à gouverner que tous les princes et <!--br-->intrigants. (Chaotique)|
+|4|**Devoir.** Je dois rendre à ma guilde et à ma <!--br-->communauté tout ce qu'elles m'ont apporté. <!--br-->(Loyal)|
+|5|**Pouvoir.** Les concurrents doivent être éliminés <!--br-->par tous les moyens afin d'assurer la primauté <!--br-->de la guilde. (Mauvais)|
+|6|**Ambition.** Il n'y a qu'un seul objectif <!--br-->acceptable : être le meilleur. (Tous)|
 
 <!--/Generic-->
 
@@ -65,12 +65,12 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 
 |d6|Lien|
 |---|---|
-|1|J'ai un(e) rival(e) au sein même de ma propre<br>guilde, et je suis prêt à tout pour prouver que je<br>vaux mieux.|
-|2|Je me suis pris d'une affection particulière pour<br>l'un de mes anciens élèves, que je considère<br>comme mon propre fils.|
-|3|La guilde m'a autrefois sauvé d'un mauvais<br>pas, mais certains de ses membres ont depuis<br>des informations sur moi que je souhaite<br>garder secrètes.|
-|4|J'ai été banni d'une guilde par le passé, et je fais<br>tout mon possible pour démontrer leur erreur<br>à mes anciens associés.|
-|5|Je me suis approprié le travail d'un autre<br>artisan sans qu'il le sache, et ce secret me<br>ronge.|
-|6|Je n'ai pas d'autre foyer que le siège de ma<br>guilde.|
+|1|J'ai un(e) rival(e) au sein même de ma propre <!--br-->guilde, et je suis prêt à tout pour prouver que je <!--br-->vaux mieux.|
+|2|Je me suis pris d'une affection particulière pour <!--br-->l'un de mes anciens élèves, que je considère <!--br-->comme mon propre fils.|
+|3|La guilde m'a autrefois sauvé d'un mauvais <!--br-->pas, mais certains de ses membres ont depuis <!--br-->des informations sur moi que je souhaite <!--br-->garder secrètes.|
+|4|J'ai été banni d'une guilde par le passé, et je fais <!--br-->tout mon possible pour démontrer leur erreur <!--br-->à mes anciens associés.|
+|5|Je me suis approprié le travail d'un autre <!--br-->artisan sans qu'il le sache, et ce secret me <!--br-->ronge.|
+|6|Je n'ai pas d'autre foyer que le siège de ma <!--br-->guilde.|
 
 <!--/Generic-->
 
@@ -80,12 +80,12 @@ Les membres de guilde font partie des rouages essentiels de la vie des cités, e
 
 |d6|Défaut|
 |---|---|
-|1|Je recherche la perfection, à tel point que je ne<br>me contente jamais de ce que j'obtiens.|
-|2|Je ne sais pas résister à une occasion de<br>démontrer mes talents.|
-|3|Je méprise celles et ceux qui ne savent pas quoi<br>faire de leurs dix doigts.|
-|4|J'ambitionne de devenir chef de ma guilde,<br>et perçois comme des ennemis tous ceux qui<br>voudraient m'en dissuader.|
-|5|Toutes mes actions visent à acquérir une<br>reconnaissance que j'estime m'être due.|
-|6|L'or est la seule chose qui ait de la valeur à mes<br>yeux.|
+|1|Je recherche la perfection, à tel point que je ne <!--br-->me contente jamais de ce que j'obtiens.|
+|2|Je ne sais pas résister à une occasion de <!--br-->démontrer mes talents.|
+|3|Je méprise celles et ceux qui ne savent pas quoi <!--br-->faire de leurs dix doigts.|
+|4|J'ambitionne de devenir chef de ma guilde, <!--br-->et perçois comme des ennemis tous ceux qui <!--br-->voudraient m'en dissuader.|
+|5|Toutes mes actions visent à acquérir une <!--br-->reconnaissance que j'estime m'être due.|
+|6|L'or est la seule chose qui ait de la valeur à mes <!--br-->yeux.|
 
 <!--/Generic-->
 
@@ -99,14 +99,14 @@ Les artisans sont le coeur et l'âme de la plupart des guildes. Ils sont souvent
 
 |d8|Artisanat|
 |---|---|
-|1|Travail du bois (charpentier, menuisier,<br>tonnelier, etc.)|
+|1|Travail du bois (charpentier, menuisier, <!--br-->tonnelier, etc.)|
 |2|Travail de la pierre (maçon, tailleur de pierre, etc.)|
-|3|Travail du cuir (maroquinier, tanneur,<br>cordonnier, etc.)|
+|3|Travail du cuir (maroquinier, tanneur, <!--br-->cordonnier, etc.)|
 |4|Travail du tissu (tisserand, teinturier, etc.)|
-|5|Travail du métal (armurier, forgeron, rétameur,<br>etc.)|
+|5|Travail du métal (armurier, forgeron, rétameur, <!--br-->etc.)|
 |6|Travail du verre (vitrier, verrier, etc.)|
-|7|Travail de précision (orfèvre, joaillier,<br>enlumineur, etc.)|
-|8|Autre (potier, peintre, boulanger, apothicaire,<br>etc.)|
+|7|Travail de précision (orfèvre, joaillier, <!--br-->enlumineur, etc.)|
+|8|Autre (potier, peintre, boulanger, apothicaire, <!--br-->etc.)|
 
 **Compétences :** Athlétisme, Perspicacité.
 
@@ -148,14 +148,14 @@ Les commerçants forment la colonne vertébrale de la vie urbaine médiévale, e
 
 |d8|Négoce|
 |---|---|
-|1|Matériaux de construction (bois, pierres, fer,<br>marbre, etc.)|
-|2|Aliments de première nécessité (céréales,<br>viande, sel, etc.)|
+|1|Matériaux de construction (bois, pierres, fer, <!--br-->marbre, etc.)|
+|2|Aliments de première nécessité (céréales, <!--br-->viande, sel, etc.)|
 |3|Vin, bière et autres alcools|
-|4|Cuirs, peaux et tissus (laine, coton, soie,<br>étoffes, etc.)|
-|5|Métaux précieux et joaillerie (or, gemmes,<br>bijoux, etc.)|
-|6|Curiosités (porcelaine, fourrures, oeuvres<br>d'art, etc.)|
-|7|Aliments exotiques (cacao, thé, poivre, sucre,<br>épices, etc.)|
-|8|Esclaves, contrebande, recel, produits<br>interdits|
+|4|Cuirs, peaux et tissus (laine, coton, soie, <!--br-->étoffes, etc.)|
+|5|Métaux précieux et joaillerie (or, gemmes, <!--br-->bijoux, etc.)|
+|6|Curiosités (porcelaine, fourrures, oeuvres <!--br-->d'art, etc.)|
+|7|Aliments exotiques (cacao, thé, poivre, sucre, <!--br-->épices, etc.)|
+|8|Esclaves, contrebande, recel, produits <!--br-->interdits|
 
 **Compétences :** Perspicacité, Persuasion.
 

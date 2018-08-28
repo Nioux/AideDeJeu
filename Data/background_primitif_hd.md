@@ -35,14 +35,14 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 
 |d8|Trait de personnalité|
 |---|---|
-|1|Les gens me voient comme un sauvage, et<br>j'aime entrer dans leur jeu.|
-|2|Rien ne me plaît plus que de regarder les étoiles<br>la nuit, d'écouter le vent dans les arbres et<br>d'entendre le chant de la terre.|
+|1|Les gens me voient comme un sauvage, et <!--br-->j'aime entrer dans leur jeu.|
+|2|Rien ne me plaît plus que de regarder les étoiles <!--br-->la nuit, d'écouter le vent dans les arbres et <!--br-->d'entendre le chant de la terre.|
 |3|Rien ne peut me retenir, ni clan, ni maison.|
-|4|Je veille toujours sur mes compagnons : tel est<br>le prix de la survie.|
-|5|Je me sens toujours mal à l'aise quand je<br>pénètre dans les villes, et cela se voit sur mon<br>visage.|
-|6|Les animaux sont de meilleure compagnie que<br>les êtres soi-disant civilisés.|
+|4|Je veille toujours sur mes compagnons : tel est <!--br-->le prix de la survie.|
+|5|Je me sens toujours mal à l'aise quand je <!--br-->pénètre dans les villes, et cela se voit sur mon <!--br-->visage.|
+|6|Les animaux sont de meilleure compagnie que <!--br-->les êtres soi-disant civilisés.|
 |7|Je ferais tout pour mon clan, quitte à en mourir.|
-|8|Je n'accorde aucune valeur aux pierres<br>précieuses et aux métaux. C'est une obsession<br>de citadin.|
+|8|Je n'accorde aucune valeur aux pierres <!--br-->précieuses et aux métaux. C'est une obsession <!--br-->de citadin.|
 
 <!--/Generic-->
 
@@ -52,12 +52,12 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 
 |d6|Idéal|
 |---|---|
-|1|**Honneur.** Nos ancêtres nous ont appris la<br>puissance de la parole donnée. C'est en la<br>respectant que l'on se respecte soi-même.<br>(Loyal)|
-|2|**Autonomie.** Survivre signifie savoir faire<br>les sacrifices nécessaires, tout en évitant les<br>sacrifices inutiles. (Neutre)|
-|3|**Liberté.** Nul ne peut entraver qui que ce soit.<br>Les chaînes doivent êtres brisées. (Chaotique)|
-|4|**Force.** En la nature règne la loi du plus fort. Il<br>en va ainsi. (Mauvais)|
-|5|**Tradition.** Nos coutumes nous ont été<br>transmises par nos ancêtres et nous devons les<br>respecter. (Loyal)|
-|6|**Entraide.** C'est ensemble que nous avançons<br>en dépit de la puissance de la nature. Je dois<br>mon aide à ceux qui ne peuvent subvenir à<br>leurs besoins. (Bon)|
+|1|**Honneur.** Nos ancêtres nous ont appris la <!--br-->puissance de la parole donnée. C'est en la <!--br-->respectant que l'on se respecte soi-même. <!--br-->(Loyal)|
+|2|**Autonomie.** Survivre signifie savoir faire <!--br-->les sacrifices nécessaires, tout en évitant les <!--br-->sacrifices inutiles. (Neutre)|
+|3|**Liberté.** Nul ne peut entraver qui que ce soit. <!--br-->Les chaînes doivent êtres brisées. (Chaotique)|
+|4|**Force.** En la nature règne la loi du plus fort. Il <!--br-->en va ainsi. (Mauvais)|
+|5|**Tradition.** Nos coutumes nous ont été <!--br-->transmises par nos ancêtres et nous devons les <!--br-->respecter. (Loyal)|
+|6|**Entraide.** C'est ensemble que nous avançons <!--br-->en dépit de la puissance de la nature. Je dois <!--br-->mon aide à ceux qui ne peuvent subvenir à <!--br-->leurs besoins. (Bon)|
 
 <!--/Generic-->
 
@@ -67,12 +67,12 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 
 |d6|Lien|
 |---|---|
-|1|J'ai été abandonné dans la nature à ma<br>naissance. Élevé par des animaux, je n'aspire<br>qu'à retrouver mes vrais parents.|
-|2|Je me sens le devoir de protéger les espaces<br>sauvages contre la corruption civilisatrice.|
-|3|Mon clan est mort. Je suis le dernier à pouvoir<br>le venger et faire enfin respecter son nom.|
-|4|Je suis en harmonie avec les puissances de<br>la nature qui me murmurent la progression<br>(ou l'approche) d'un mal terrifiant. Je dois le<br>trouver et le combattre en leur nom.|
-|5|Ma tribu est plus importante que tout, je la<br>protégerai à tous prix.|
-|6|Un être aimé a disparu, enlevé par les cavaliers<br>d'une terre lointaine. Je le retrouverai.|
+|1|J'ai été abandonné dans la nature à ma <!--br-->naissance. Élevé par des animaux, je n'aspire <!--br-->qu'à retrouver mes vrais parents.|
+|2|Je me sens le devoir de protéger les espaces <!--br-->sauvages contre la corruption civilisatrice.|
+|3|Mon clan est mort. Je suis le dernier à pouvoir <!--br-->le venger et faire enfin respecter son nom.|
+|4|Je suis en harmonie avec les puissances de <!--br-->la nature qui me murmurent la progression <!--br-->(ou l'approche) d'un mal terrifiant. Je dois le <!--br-->trouver et le combattre en leur nom.|
+|5|Ma tribu est plus importante que tout, je la <!--br-->protégerai à tous prix.|
+|6|Un être aimé a disparu, enlevé par les cavaliers <!--br-->d'une terre lointaine. Je le retrouverai.|
 
 <!--/Generic-->
 
@@ -82,12 +82,12 @@ Vous avez toujours vécu en pleine nature, et c'est là que vous vous êtes touj
 
 |d6|Défaut|
 |---|---|
-|1|J'ai appris à succomber aux plaisirs interdits de<br>la cité. Je ne saurais m'en passer.|
-|2|La nature est violente. Je réponds comme elle à<br>chaque affront.|
-|3|Les forts survivent, les faibles succombent.<br>N'attendez pas d'aide de ma part.|
-|4|Comme la roche, je suis impassible. Il m'est<br>difficile de laisser transparaître mes émotions,<br>même quand cela est nécessaire.|
-|5|Je suis aussi impétueux que le félin le plus<br>sauvage.|
-|6|Chaque action doit être mesurée. Je préfère<br>prendre mon temps et observer la situation<br>avant de décider d'agir, même si cela veut dire<br>agir trop tard.|
+|1|J'ai appris à succomber aux plaisirs interdits de <!--br-->la cité. Je ne saurais m'en passer.|
+|2|La nature est violente. Je réponds comme elle à <!--br-->chaque affront.|
+|3|Les forts survivent, les faibles succombent. <!--br-->N'attendez pas d'aide de ma part.|
+|4|Comme la roche, je suis impassible. Il m'est <!--br-->difficile de laisser transparaître mes émotions, <!--br-->même quand cela est nécessaire.|
+|5|Je suis aussi impétueux que le félin le plus <!--br-->sauvage.|
+|6|Chaque action doit être mesurée. Je préfère <!--br-->prendre mon temps et observer la situation <!--br-->avant de décider d'agir, même si cela veut dire <!--br-->agir trop tard.|
 
 <!--/Generic-->
 

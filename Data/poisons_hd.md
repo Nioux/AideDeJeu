@@ -20,7 +20,7 @@
 
 #### <!--Name-->Les poisons<!--/Name-->
 
-|Objet|Type|Prix pour<br>une dose|
+|Objet|Type|Prix pour <!--br-->une dose|
 |---|---|---|
 |Sang d'assassin|ingestion|150 po|
 |Fumées d'othur|inhalation|500 po|

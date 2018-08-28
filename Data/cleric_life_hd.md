@@ -12,13 +12,13 @@ Le domaine de la vie est centré sur l’énergie de vie positive, une des force
 
 ## <!--Name-->Sorts du domaine de la vie<!--/Name-->
 
-|Niveau<br>de<br>clerc|Sorts|
+|Niveau <!--br-->de <!--br-->clerc|Sorts|
 |---|---|
-|1|[bénédiction],<br>[soin des blessures]|
-|3|[arme spirituelle],<br>[restauration inférieure]|
-|5|[lueur d’espoir],<br>[revigorer]|
-|7|[gardien de la foi],<br>[protection contre la mort]|
-|9|[rappel à la vie],<br>[soin des blessures de groupe]|
+|1|[bénédiction], <!--br-->[soin des blessures]|
+|3|[arme spirituelle], <!--br-->[restauration inférieure]|
+|5|[lueur d’espoir], <!--br-->[revigorer]|
+|7|[gardien de la foi], <!--br-->[protection contre la mort]|
+|9|[rappel à la vie], <!--br-->[soin des blessures de groupe]|
 
 <!--/Generic-->
 

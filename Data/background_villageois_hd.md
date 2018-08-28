@@ -31,14 +31,14 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 
 |d8|Trait de personnalité|
 |---|---|
-|1|Ce sont nos actions qui nous définissent en<br>tant que personne.|
-|2|Si un membre de ma communauté ou de ma<br>famille (de sang ou de coeur) est en difficulté, je<br>me fais toujours un devoir de l'aider.|
-|3|J'ai du mal à faire confiance aux étrangers. Ils<br>sont une source d'incertitude et, qui sait, de<br>danger.|
+|1|Ce sont nos actions qui nous définissent en <!--br-->tant que personne.|
+|2|Si un membre de ma communauté ou de ma <!--br-->famille (de sang ou de coeur) est en difficulté, je <!--br-->me fais toujours un devoir de l'aider.|
+|3|J'ai du mal à faire confiance aux étrangers. Ils <!--br-->sont une source d'incertitude et, qui sait, de <!--br-->danger.|
 |4|J'agis d'abord, je pense après.|
-|5|J'ai toujours du mal avec les mots ampoulés.<br>Alors je parle simplement.|
-|6|J'ai toujours un dicton approprié à la situation.<br>Rien ne vaut la sagesse populaire.|
-|7|Mieux vaut sourire que de se laisser abattre. Je<br>vois toujours le bon côté de la situation.|
-|8|Je ne comprends pas toujours les subtilités des<br>situations compliquées, mais j'ai souvent des<br>éclairs de génie.|
+|5|J'ai toujours du mal avec les mots ampoulés. <!--br-->Alors je parle simplement.|
+|6|J'ai toujours un dicton approprié à la situation. <!--br-->Rien ne vaut la sagesse populaire.|
+|7|Mieux vaut sourire que de se laisser abattre. Je <!--br-->vois toujours le bon côté de la situation.|
+|8|Je ne comprends pas toujours les subtilités des <!--br-->situations compliquées, mais j'ai souvent des <!--br-->éclairs de génie.|
 
 <!--/Generic-->
 
@@ -48,12 +48,12 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 
 |d6|Idéal|
 |---|---|
-|1|**Loi.** Nul n'est au-dessus de la loi, ni seigneur, ni<br>serf. Et nul ne peut rompre un serment. (Loyal)|
-|2|**Respect.** Personne n'a le droit de traiter les<br>autres comme des esclaves. Je veillerai à ce que<br>tous soient traités avec dignité et respect. (Bon)|
-|3|**Liberté.** Vivre dominé n'est pas vraiment vivre.<br>Je briserai les chaîne du peuple de l'oppression<br>des puissants. (Chaotique)|
-|4|**Destinée.** Mon destin m'a été révélé en rêve, et<br>rien ne pourra se mettre en travers de ma route<br>pour le réaliser. (Tous)|
-|5|**Pouvoir.** Je m'élèverai au-dessus de mes<br>contemporains et deviendrai à mon tour un<br>seigneur. (Mauvais)|
-|6|**Vérité.** Il ne sert à rien de vouloir être ce que<br>l'on n'est pas. (Neutre)|
+|1|**Loi.** Nul n'est au-dessus de la loi, ni seigneur, ni <!--br-->serf. Et nul ne peut rompre un serment. (Loyal)|
+|2|**Respect.** Personne n'a le droit de traiter les <!--br-->autres comme des esclaves. Je veillerai à ce que <!--br-->tous soient traités avec dignité et respect. (Bon)|
+|3|**Liberté.** Vivre dominé n'est pas vraiment vivre. <!--br-->Je briserai les chaîne du peuple de l'oppression <!--br-->des puissants. (Chaotique)|
+|4|**Destinée.** Mon destin m'a été révélé en rêve, et <!--br-->rien ne pourra se mettre en travers de ma route <!--br-->pour le réaliser. (Tous)|
+|5|**Pouvoir.** Je m'élèverai au-dessus de mes <!--br-->contemporains et deviendrai à mon tour un <!--br-->seigneur. (Mauvais)|
+|6|**Vérité.** Il ne sert à rien de vouloir être ce que <!--br-->l'on n'est pas. (Neutre)|
 
 <!--/Generic-->
 
@@ -63,12 +63,12 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 
 |d6|Lien|
 |---|---|
-|1|Tout ce que je fais, je le fais par amour. Un jour<br>je reviendrai auprès de l'être aimé en lui ayant<br>prouvé ma valeur.|
-|2|Rien n'est plus important à mes yeux que les<br>terres qui m'ont vu naître.|
-|3|Par ma faute, les habitants de mon village ont<br>été massacrés ou réduits à l'esclavage. J'ai juré<br>de rectifier les choses.|
-|4|J'ai été spolié par mon seigneur. Il m'a tout pris,<br>mais je reprendrai ce qui était à moi.|
-|5|Je suis parti loin de ma famille pour la protéger.<br>Mais elle reste constamment présente dans<br>mon coeur et mon esprit.|
-|6|Le peuple a besoin d'être protégé. C'est la<br>mission que je me suis fixée.|
+|1|Tout ce que je fais, je le fais par amour. Un jour <!--br-->je reviendrai auprès de l'être aimé en lui ayant <!--br-->prouvé ma valeur.|
+|2|Rien n'est plus important à mes yeux que les <!--br-->terres qui m'ont vu naître.|
+|3|Par ma faute, les habitants de mon village ont <!--br-->été massacrés ou réduits à l'esclavage. J'ai juré <!--br-->de rectifier les choses.|
+|4|J'ai été spolié par mon seigneur. Il m'a tout pris, <!--br-->mais je reprendrai ce qui était à moi.|
+|5|Je suis parti loin de ma famille pour la protéger. <!--br-->Mais elle reste constamment présente dans <!--br-->mon coeur et mon esprit.|
+|6|Le peuple a besoin d'être protégé. C'est la <!--br-->mission que je me suis fixée.|
 
 <!--/Generic-->
 
@@ -78,11 +78,11 @@ D'aucun diraient que vous êtes un peu rude, voire fruste. Mais vous savez que c
 
 |d6|Défaut|
 |---|---|
-|1|Un secret terrible et honteux m'empêche de<br>retourner chez moi.|
-|2|Je suis persuadé que tout ce que je fais, je le fais<br>pour le bien d'autrui, quitte à ignorer le danger.|
-|3|Un noble persuadé que j'ai causé la mort de<br>son fils (ou sa fille) veut ma tête.|
+|1|Un secret terrible et honteux m'empêche de <!--br-->retourner chez moi.|
+|2|Je suis persuadé que tout ce que je fais, je le fais <!--br-->pour le bien d'autrui, quitte à ignorer le danger.|
+|3|Un noble persuadé que j'ai causé la mort de <!--br-->son fils (ou sa fille) veut ma tête.|
 |4|Je ne résiste jamais à un joli minois.|
-|5|Je fais trop confiance aux autres, cela pourrait<br>me nuire.|
+|5|Je fais trop confiance aux autres, cela pourrait <!--br-->me nuire.|
 |6|Je suis confiant en mes capacités. Trop, parfois.|
 
 <!--/Generic-->

@@ -80,18 +80,18 @@ Quand vous gagnez votre premier niveau dans une classe qui n'est pas votre class
 
 | Classe      | Maîtrises obtenues |
 | ---         | --- |
-| Barbare     | Boucliers,<br>armes courantes,<br>armes de guerre |
-| Barde       | Armures légères,<br>une compétence de votre choix,<br>un instrument de musique de votre choix |
-| Clerc       | Armures légères,<br>armures intermédiaires,<br>boucliers |
-| Druide      | Armures légères,<br>armures intermédiaires,<br>boucliers (les druides n'utilisent pas<br>d'armure ou de bouclier en métal) |
+| Barbare     | Boucliers, <!--br-->armes courantes, <!--br-->armes de guerre |
+| Barde       | Armures légères, <!--br-->une compétence de votre choix, <!--br-->un instrument de musique de votre choix |
+| Clerc       | Armures légères, <!--br-->armures intermédiaires, <!--br-->boucliers |
+| Druide      | Armures légères, <!--br-->armures intermédiaires, <!--br-->boucliers (les druides n'utilisent pas <!--br-->d'armure ou de bouclier en métal) |
 | Ensorceleur | _ |
-| Guerrier    | Armures légères,<br>armures intermédiaires,<br>boucliers,<br>armes courantes,<br>armes de guerre |
+| Guerrier    | Armures légères, <!--br-->armures intermédiaires, <!--br-->boucliers, <!--br-->armes courantes, <!--br-->armes de guerre |
 | Magicien    | _ |
-| Moine       | Armes courantes,<br>épées courtes |
-| Paladin     | Armures légères,<br>armures intermédiaires,<br>boucliers,<br>armes courantes,<br>armes de guerre |
-| Rôdeur      | Armures légères,<br>armures intermédiaires,<br>boucliers,<br>armes courantes,<br>armes de guerre,<br>une compétence au choix parmi celles<br>proposées pour cette classe |
-| Roublard    | Armures légères,<br>une compétence au choix parmi celles<br>proposées pour cette classe,<br>outils de voleur |
-| Sorcier     | Armures légères,<br>armes courantes |
+| Moine       | Armes courantes, <!--br-->épées courtes |
+| Paladin     | Armures légères, <!--br-->armures intermédiaires, <!--br-->boucliers, <!--br-->armes courantes, <!--br-->armes de guerre |
+| Rôdeur      | Armures légères, <!--br-->armures intermédiaires, <!--br-->boucliers, <!--br-->armes courantes, <!--br-->armes de guerre, <!--br-->une compétence au choix parmi celles <!--br-->proposées pour cette classe |
+| Roublard    | Armures légères, <!--br-->une compétence au choix parmi celles <!--br-->proposées pour cette classe, <!--br-->outils de voleur |
+| Sorcier     | Armures légères, <!--br-->armes courantes |
 
 
 <!--/Generic-->

@@ -39,7 +39,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |---|---|---|
 |Abyssal|Démons|Infernal|
 |Céleste|Aasimars, Célestes|Céleste|
-|Commun des<br>profondeurs|Habitants du<br>monde souterrain|Elfique|
+|Commun des <!--br-->profondeurs|Habitants du <!--br-->monde souterrain|Elfique|
 |Draconique|Dragons, sangdragons|Draconique|
 |Infernal|Diables, Tieffelins|Infernal|
 |Primordial|Élémentaires|Runique|

@@ -187,8 +187,8 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 
 |Conditions|Regain de vitalité pour une nuit de repos|
 |---|---|
-|Activité intense|1 point, ou 0 si le modificateur de Constitution du personnage est<br>inférieur à +2|
-|Activité modérée (repos complet sur<br>une demi-journée)|Modificateur de Constitution divisé par deux (minimum 1).|
+|Activité intense|1 point, ou 0 si le modificateur de Constitution du personnage est <!--br-->inférieur à +2|
+|Activité modérée (repos complet sur <!--br-->une demi-journée)|Modificateur de Constitution divisé par deux (minimum 1).|
 |Repos complet|Modificateur de Constitution (minimum 2)|
 |Jet de Médecine réussi|Doubler le nombre de points récupérés|
 
@@ -214,7 +214,7 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 |9|Nez cassé|Désavantage sur les tests liés à un effort intense|
 |10|Plaie superficielle|Désavantage sur les jets de sauvegarde de Charisme|
 |11|Gorge écrasée|Désavantage sur tous les tests liés à l'interaction sociale|
-|12|Hématome à la<br>nuque|Désavantage sur les jets de sauvegarde d'Intelligence et de Sagesse|
+|12|Hématome à la <!--br-->nuque|Désavantage sur les jets de sauvegarde d'Intelligence et de Sagesse|
 
 <!--/Generic-->
 
@@ -227,17 +227,17 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 |1d12|Blessure sérieuse|Technique|
 |---|---|---|
 |1|Commotion sévère|Désavantage sur tous les tests de Sagesse et d'Intelligence|
-|2|Bras cassé|Désavantage sur tous les tests de Force, impossibilité de porter une seconde arme ou<br> un bouclier.|
-|3|Éventration|Désavantage sur tous les tests de Constitution et les jets de sauvegarde de<br> Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.|
+|2|Bras cassé|Désavantage sur tous les tests de Force, impossibilité de porter une seconde arme ou <!--br-->un bouclier.|
+|3|Éventration|Désavantage sur tous les tests de Constitution et les jets de sauvegarde de <!--br-->Constitution. Les ennemis ont l'avantage lorsqu'ils attaquent le personnage.|
 |4|Jambe fracturée|Désavantage sur tous les tests de Dextérité et les jets de sauvegarde de Dextérité.|
-|5|Épaule brisée|Désavantage sur tous les tests de Force, impossibilité de rajouter son bonus de Force<br> aux dégâts.|
-|6|Main broyée|Désavantage sur tous les tests d'attaque impliquant la Dextérité, impossibilité de<br> rajouter son bonus de caractéristique aux dégâts.|
+|5|Épaule brisée|Désavantage sur tous les tests de Force, impossibilité de rajouter son bonus de Force <!--br-->aux dégâts.|
+|6|Main broyée|Désavantage sur tous les tests d'attaque impliquant la Dextérité, impossibilité de <!--br-->rajouter son bonus de caractéristique aux dégâts.|
 |7|Côtes cassées|Désavantage sur tous les tests de Constitution et de Dextérité.|
-|8|OEil balafré|Désavantage aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux<br> tests de Charisme (sauf Charisme (Intimidation)).|
+|8|OEil balafré|Désavantage aux tests d'attaque et aux tests de Sagesse (Perception), ainsi qu'aux <!--br-->tests de Charisme (sauf Charisme (Intimidation)).|
 |9|Hanche éclatée|Désavantage sur tous les tests de Dextérité et Force|
-|10|Torse tailladé|Désavantage sur tous les tests de Dextérité et sur les jets de sauvegarde de<br> Constitution.|
+|10|Torse tailladé|Désavantage sur tous les tests de Dextérité et sur les jets de sauvegarde de <!--br-->Constitution.|
 |11|Mâchoire brisée|Désavantage sur tous les tests de Charisme.|
-|12|Pied transpercé|Désavantage sur tous les tests de Dextérité et les adversaires ont l'avantage sur leurs<br> tests d'attaque.|
+|12|Pied transpercé|Désavantage sur tous les tests de Dextérité et les adversaires ont l'avantage sur leurs <!--br-->tests d'attaque.|
 
 <!--/Generic-->
 
@@ -249,18 +249,18 @@ Quand un monstre ou un PNJ arrive à 0 PVit, vous avez trois options.
 
 |1d12|Séquelle|Technique|
 |---|---|---|
-|1|Crâne fendu|Le personnage a des problèmes de mémoire. Une fois par séance, le Meneur de Jeu peut<br> décréter que le personnage ne se souvient pas d'une information ou d'une scène.|
-|2|Tendons<br> d'une main<br> coupés|Le personnage ne peut plus saisir avec la main concernée. Cela compromet son utilisation<br> d'armes nécessitant deux mains, et le combat à deux armes. Il peut toujours tirer avec<br> un arc en utilisant un accessoire lui permettant de tenir arc ou corde, mais est affublé du<br> désavantage à l'attaque.|
-|3|Main<br> tranchée|Le personnage ne peut plus utiliser la main tranchée. Ses tests de caractéristique concernant<br> des actions physiques requérant deux mains ont le désavantage.|
-|4|Rotule<br> éclatée|La vitesse du personnage est divisée par deux. Ses tests de caractéristique concernant des<br> actions physiques requérant l'usage actif des jambes ont le désavantage.|
+|1|Crâne fendu|Le personnage a des problèmes de mémoire. Une fois par séance, le Meneur de Jeu peut <!--br-->décréter que le personnage ne se souvient pas d'une information ou d'une scène.|
+|2|Tendons <!--br-->d'une main <!--br-->coupés|Le personnage ne peut plus saisir avec la main concernée. Cela compromet son utilisation <!--br-->d'armes nécessitant deux mains, et le combat à deux armes. Il peut toujours tirer avec <!--br-->un arc en utilisant un accessoire lui permettant de tenir arc ou corde, mais est affublé du <!--br-->désavantage à l'attaque.|
+|3|Main <!--br-->tranchée|Le personnage ne peut plus utiliser la main tranchée. Ses tests de caractéristique concernant <!--br-->des actions physiques requérant deux mains ont le désavantage.|
+|4|Rotule <!--br-->éclatée|La vitesse du personnage est divisée par deux. Ses tests de caractéristique concernant des <!--br-->actions physiques requérant l'usage actif des jambes ont le désavantage.|
 |5|OEil percé|Le personnage subit un désavantage aux tests d'attaque.|
-|6|Doigts<br> sectionnés|Le personnage ne peut plus utiliser d'arc. Il tient difficilement ses armes et le dé de dégâts de<br> ces dernières est réduit d'un cran (1d10 devient 1d8 par exemple, ou 2d6 deviennent 1d10)|
-|7|Poumon<br> transpercé|Le personnage ne peut plus faire d'efforts comme avant. Tous les tests et jets de sauvegarde<br> impliquant la Force ou la Constitution ont le désavantage.|
-|8|Cheville<br> disloquée|Le personnage n'a presque plus rien pour tenir sa cheville. Tous les tests impliquant les jambes<br> subissent le désavantage. De plus, le personnage boite et tout test réalisé afin de passer<br> inaperçu subit aussi un désavantage.|
-|9|Pied<br> sectionné|Le personnage a un pied en moins, qu'il devra remplacer par une prothèse grossière. Tous les<br> tests impliquant la course, l'escalade ou les acrobaties subissent le désavantage. Espérons<br> qu'il n'en perde pas un second !|
-|10|Visage<br> écrasé|Le visage du personnage a été littéralement brisé. Même sa mère ne saurait le reconnaître.<br> Malheureusement, il est plus ridicule qu'effrayant. Les gens le fuient ou le harcèlent, et surtout<br> ne lui portent plus crédit. Tous les tests de caractéristique en lien avec la sociabilité et le<br> Charisme sont affublés du désavantage.|
-|11|Dos brisé|La structure osseuse même du dos a été atteinte. La colonne n'est pas sectionnée, mais le<br> personnage a perdu une immense partie de sa souplesse. Tous ses tests liés à la dextérité<br> subissent le désavantage. De plus, il ne peut plus ajouter sa dextérité à la CA.|
-|12|Trippes<br> sectionnées|Le personnage est sujet à des douleurs chroniques qui lui gâchent la vie, voire le mettent en<br> danger. Une fois par séance, le MJ peut décider que les douleurs se réveillent. Le personnage a<br> le désavantage sur tous ses tests de caractéristique et jets de sauvegarde. Cependant, dès la<br> fin de la scène, le personnage gagne l'inspiration.|
+|6|Doigts <!--br-->sectionnés|Le personnage ne peut plus utiliser d'arc. Il tient difficilement ses armes et le dé de dégâts de <!--br-->ces dernières est réduit d'un cran (1d10 devient 1d8 par exemple, ou 2d6 deviennent 1d10)|
+|7|Poumon <!--br-->transpercé|Le personnage ne peut plus faire d'efforts comme avant. Tous les tests et jets de sauvegarde <!--br-->impliquant la Force ou la Constitution ont le désavantage.|
+|8|Cheville <!--br-->disloquée|Le personnage n'a presque plus rien pour tenir sa cheville. Tous les tests impliquant les jambes <!--br-->subissent le désavantage. De plus, le personnage boite et tout test réalisé afin de passer <!--br-->inaperçu subit aussi un désavantage.|
+|9|Pied <!--br-->sectionné|Le personnage a un pied en moins, qu'il devra remplacer par une prothèse grossière. Tous les <!--br-->tests impliquant la course, l'escalade ou les acrobaties subissent le désavantage. Espérons <!--br-->qu'il n'en perde pas un second !|
+|10|Visage <!--br-->écrasé|Le visage du personnage a été littéralement brisé. Même sa mère ne saurait le reconnaître. <!--br-->Malheureusement, il est plus ridicule qu'effrayant. Les gens le fuient ou le harcèlent, et surtout <!--br-->ne lui portent plus crédit. Tous les tests de caractéristique en lien avec la sociabilité et le <!--br-->Charisme sont affublés du désavantage.|
+|11|Dos brisé|La structure osseuse même du dos a été atteinte. La colonne n'est pas sectionnée, mais le <!--br-->personnage a perdu une immense partie de sa souplesse. Tous ses tests liés à la dextérité <!--br-->subissent le désavantage. De plus, il ne peut plus ajouter sa dextérité à la CA.|
+|12|Trippes <!--br-->sectionnées|Le personnage est sujet à des douleurs chroniques qui lui gâchent la vie, voire le mettent en <!--br-->danger. Une fois par séance, le MJ peut décider que les douleurs se réveillent. Le personnage a <!--br-->le désavantage sur tous ses tests de caractéristique et jets de sauvegarde. Cependant, dès la <!--br-->fin de la scène, le personnage gagne l'inspiration.|
 
 
 <!--/Generic-->

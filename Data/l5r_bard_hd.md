@@ -21,27 +21,27 @@ Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras da
 
 - Source: <!--Source-->(L5R p56)<!--/Source-->
 
-|Niveau|bonus de<br>maîtrise|Aptitudes|
+|Niveau|bonus de <!--br-->maîtrise|Aptitudes|
 |---|---|---|
-|1|+2|[Inspiration bardique] (d6),<br>**[maître des ombres]**|
-|2|+2|[Touche-à-tout],<br>[Chant reposant] (d6)|
-|3|+2|[Collège bardique],<br>[expertise],<br>**[présence amicale]**|
-|4|+2|[Amélioration de<br>caractéristique]|
-|5|+3|[Inspiration bardique] (d8),<br>[source d'inspiration],<br>**[esprit insondable]**|
-|6|+3|[Aptitude de<br>collège bardique],<br>[contre-charme]|
+|1|+2|[Inspiration bardique] (d6), <!--br-->**[maître des ombres]**|
+|2|+2|[Touche-à-tout], <!--br-->[Chant reposant] (d6)|
+|3|+2|[Collège bardique], <!--br-->[expertise], <!--br-->**[présence amicale]**|
+|4|+2|[Amélioration de <!--br-->caractéristique]|
+|5|+3|[Inspiration bardique] (d8), <!--br-->[source d'inspiration], <!--br-->**[esprit insondable]**|
+|6|+3|[Aptitude de <!--br-->collège bardique], <!--br-->[contre-charme]|
 |7|+3|**[Maître des ombres]**|
-|8|+3|[Amélioration de<br>caractéristique]|
-|9|+4|[Chant reposant] (d8),<br>**[présence amicale]**|
-|10|+4|[Inspiration bardique] (d10),<br>[expertise],<br>**[maître espion]**|
+|8|+3|[Amélioration de <!--br-->caractéristique]|
+|9|+4|[Chant reposant] (d8), <!--br-->**[présence amicale]**|
+|10|+4|[Inspiration bardique] (d10), <!--br-->[expertise], <!--br-->**[maître espion]**|
 |11|+4|**[Distraction]**|
-|12|+4|[Amélioration de<br>caractéristique]|
-|13|+5|[Chant reposant] (d8),<br>**[manipulation de l'esprit]**|
-|14|+5|**[Maître espion]**,<br>[aptitude de<br>Collège bardique]|
+|12|+4|[Amélioration de <!--br-->caractéristique]|
+|13|+5|[Chant reposant] (d8), <!--br-->**[manipulation de l'esprit]**|
+|14|+5|**[Maître espion]**, <!--br-->[aptitude de <!--br-->Collège bardique]|
 |15|+5|[Inspiration bardique] (d12)|
-|16|+5|[Amélioration de<br>caractéristique]|
+|16|+5|[Amélioration de <!--br-->caractéristique]|
 |17|+6|[Chant reposant] (d12)|
-|18|+6|**[Maître espion]**,<br>**[manipulation de l'esprit]**|
-|19|+6|[Amélioration de<br>caractéristique]|
+|18|+6|**[Maître espion]**, <!--br-->**[manipulation de l'esprit]**|
+|19|+6|[Amélioration de <!--br-->caractéristique]|
 |20|+6|[Inspiration supérieure]|
 
 
@@ -181,10 +181,10 @@ Au niveau 14, la capacité [manipulateur subtil] est modifiée de la manière su
 
 <!--/Items-->
 
-[Amélioration de<br>caractéristique]: bard_hd.md#amélioration-de-caractéristiques
+[Amélioration de <!--br-->caractéristique]: bard_hd.md#amélioration-de-caractéristiques
 [apaisement des émotions]: spells_hd.md#apaisement-des-émotions
-[aptitude de<br>Collège bardique]: bard_hd.md#collège-bardique
-[Aptitude de<br>collège bardique]: bard_hd.md#collège-bardique
+[aptitude de <!--br-->Collège bardique]: bard_hd.md#collège-bardique
+[Aptitude de <!--br-->collège bardique]: bard_hd.md#collège-bardique
 [arsenal diplomatique]: bard_diplomats_hd.md#arsenal-diplomatique
 [Augure]: spells_hd.md#augure
 [avantage]: #avantage
