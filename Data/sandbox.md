@@ -1,12 +1,12 @@
 
-<Items>
+- <Items>
 
 # <Name>Sandbox</Name>
 
 - SRD: <AltName>Races</AltName>
 - Book: <Book>(MDR p36)(SRD p3)</Book>
 
-<Spell>
+- <Spell>
 
 # <Name>Agrandir/rétrécir</Name>
 - SRD: <AltName>[Enlarge/Reduce](spells_vo.md#enlargereduce)</AltName>
@@ -29,9 +29,9 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 **_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de [Force] et des [jets de sauvegarde] de [Force] jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
-</Spell>
+- </Spell>
 
-<Spell>
+- <Spell>
 
 # <Name>Agrandir/rétrécir</Name>
 
@@ -55,9 +55,9 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 **_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de [Force] et des [jets de sauvegarde] de [Force] jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
-</Spell>
+- </Spell>
 
-<Spell>
+- <Spell>
 
 # <Name>Agrandir/rétrécir</Name>
 
@@ -81,6 +81,6 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 **_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de [Force] et des [jets de sauvegarde] de [Force] jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
-</Spell>
+- </Spell>
 
-</Items>
+- </Items>
