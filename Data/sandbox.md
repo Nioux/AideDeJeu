@@ -4,20 +4,20 @@
 # <Name>Sandbox</Name>
 
 - SRD: <AltName>Races</AltName>
-- Source: <Source>(MDR p36)(SRD p3)</Source>
+- Book: <Book>(MDR p36)(SRD p3)</Book>
 
 <Spell>
 
 # <Name>Agrandir/rétrécir</Name>
 - SRD: <AltName>[Enlarge/Reduce](spells_vo.md#enlargereduce)</AltName>
-- Source: <Source>(MDR p36)(SRD p3)</Source>
+- Book: <Book>(MDR p36)(SRD p3)</Book>
 - <Type>Transmutation</Type> de niveau <Level>2</Level>
 - **Temps d'incantation :** <CastingTime>1 action</CastingTime>
 - **Portée :** <Range>9 mètres</Range>
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD p)</Source>
+- Book: <Book>(HD)(SRD p)</Book>
 
 ### Description
 
@@ -43,7 +43,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD p)</Source>
+- Book: <Book>(HD)(SRD p)</Book>
 
 ### Description
 
@@ -69,7 +69,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 - **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
 - **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
 - Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(HD)(SRD p)</Source>
+- Book: <Book>(HD)(SRD p)</Book>
 
 ### Description
 
