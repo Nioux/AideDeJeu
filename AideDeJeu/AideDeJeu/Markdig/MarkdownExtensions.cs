@@ -137,13 +137,13 @@ namespace AideDeJeu.Tools
                 if(inline is HtmlInline)
                 {
                     var tag = (inline as HtmlInline).Tag;
-                    if (tag.StartsWith("</"))
+                    if (tag.StartsWith("<!--/"))
                     {
                         prop = null;
                     }
-                    else if (tag.StartsWith("<") && !tag.StartsWith("</"))
+                    else if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
-                        var propertyName = tag.Substring(1, tag.Length - 2);
+                        var propertyName = tag.Substring(4, tag.Length - 7);
                         prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
                     }
                 }
@@ -162,16 +162,17 @@ namespace AideDeJeu.Tools
         public static bool IsNewItem(this Block block)
         {
             var htmlBlock = block as HtmlBlock;
-            if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
+            if (htmlBlock.Type == HtmlBlockType.Comment)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
                 if (!string.IsNullOrEmpty(tag))
                 {
-                    if (tag.StartsWith("<") && !tag.StartsWith("</"))
+                    if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
                         return true;
                     }
                 }
+                App.Current.MainPage.DisplayAlert("erreur", tag, null);
             }
             return false;
         }
@@ -179,12 +180,12 @@ namespace AideDeJeu.Tools
         public static bool IsClosingItem(this Block block)
         {
             var htmlBlock = block as HtmlBlock;
-            if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
+            if (htmlBlock.Type == HtmlBlockType.Comment)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
                 if (!string.IsNullOrEmpty(tag))
                 {
-                    if (tag.StartsWith("</"))
+                    if (tag.StartsWith("<!--/"))
                     {
                         return true;
                     }
@@ -196,19 +197,20 @@ namespace AideDeJeu.Tools
         public static Item GetNewItem(this Block block)
         {
             var htmlBlock = block as HtmlBlock;
-            if (htmlBlock.Type == HtmlBlockType.NonInterruptingBlock)
+            if (htmlBlock.Type == HtmlBlockType.Comment)
             {
                 var tag = htmlBlock.Lines.Lines.FirstOrDefault().Slice.ToString();
                 if (!string.IsNullOrEmpty(tag) && tag != "<br>")
                 {
-                    if (tag.StartsWith("<") && !tag.StartsWith("</"))
+                    if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
-                        var name = $"AideDeJeuLib.{tag.Substring(1, tag.Length - 2)}, AideDeJeu";
+                        var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
                         var type = Type.GetType(name);
                         var instance = Activator.CreateInstance(type) as Item;
                         return instance;
                     }
                 }
+                App.Current.MainPage.DisplayAlert("erreur", tag, null);
             }
             return null;
         }

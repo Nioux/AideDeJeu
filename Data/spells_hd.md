@@ -1,23 +1,23 @@
 ﻿
-<SpellsHD>
+<!--SpellsHD-->
 
-# <Name>Sorts (H&D)</Name>
+# <!--Name-->Sorts (H&D)<!--/Name-->
 
-- SRD: <AltName>[Spells](spells_vo.md)</AltName>
+- SRD: <!--AltName-->[Spells](spells_vo.md)<!--/AltName-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Agrandir/rétrécir</Name>
+# <!--Name-->Agrandir/rétrécir<!--/Name-->
 
-- SRD: <AltName>[Enlarge/Reduce](spells_vo.md#enlargereduce)</AltName>
+- SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de limaille de fer)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de limaille de fer)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -29,21 +29,21 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 **_Rétrécir._** La cible réduit de moitié dans toutes les dimensions et son poids est divisé par huit. Ce rétrécissement réduit sa catégorie de taille d'un cran, de M à P par exemple. La cible subit un désavantage lors des tests de [Force] et des [jets de sauvegarde] de [Force] jusqu'à la fin du sort. Les armes de la cible rétrécissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi réduites, elles infligent 1d4 dégâts de moins (avec un minimum de 1 dégât).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Aide</Name>
+# <!--Name-->Aide<!--/Name-->
 
-- SRD: <AltName>[Aid](spells_vo.md#aid)</AltName>
+- SRD: <!--AltName-->[Aid](spells_vo.md#aid)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une minuscule bandelette de tissu blanc)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une minuscule bandelette de tissu blanc)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -51,21 +51,21 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 
 **_À plus haut niveau._** Quand vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 points supplémentaires pour chaque niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Alarme</Name>
+# <!--Name-->Alarme<!--/Name-->
 
-- SRD: <AltName>[Alarm](spells_vo.md#alarm)</AltName>
+- SRD: <!--AltName-->[Alarm](spells_vo.md#alarm)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une minuscule clochette et un filament en argent)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une minuscule clochette et un filament en argent)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -75,21 +75,21 @@ Une alarme mentale vous avertit d'un tintement dans votre tête tant que vous vo
 
 Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes et retentit dans un rayon de 18 mètres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Allié planaire</Name>
+# <!--Name-->Allié planaire<!--/Name-->
 
-- SRD: <AltName>[Planar Ally](spells_vo.md#planar-ally)</AltName>
+- SRD: <!--AltName-->[Planar Ally](spells_vo.md#planar-ally)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -109,21 +109,21 @@ Si vous êtes incapable de vous mettre d'accord avec la créature sur le prix de
 
 Une telle créature enrôlée dans votre groupe compte comme un membre à part entière et reçoit sa part de points d'expérience.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Amélioration de caractéristique</Name>
+# <!--Name-->Amélioration de caractéristique<!--/Name-->
 
-- SRD: <AltName>[Enhance Ability](spells_vo.md#enhance-ability)</AltName>
+- SRD: <!--AltName-->[Enhance Ability](spells_vo.md#enhance-ability)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (des poils ou des plumes venant d'un animal)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (des poils ou des plumes venant d'un animal)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -143,21 +143,21 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez prendre une créature de plus pour cible par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Amitié avec les animaux</Name>
+# <!--Name-->Amitié avec les animaux<!--/Name-->
 
-- SRD: <AltName>[Animal Friendship](spells_vo.md#animal-friendship)</AltName>
+- SRD: <!--AltName-->[Animal Friendship](spells_vo.md#animal-friendship)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un peu de nourriture)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu de nourriture)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -165,21 +165,21 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Animation des morts</Name>
+# <!--Name-->Animation des morts<!--/Name-->
 
-- SRD: <AltName>[Animate Dead](spells_vo.md#animate-dead)</AltName>
+- SRD: <!--AltName-->[Animate Dead](spells_vo.md#animate-dead)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -193,21 +193,21 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous animez ou réaffirmez votre contrôle sur deux créatures de plus par niveau au-delà du niveau 3. Chaque créature doit provenir d'un tas d'os ou d'un cadavre différent.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Animation des objets</Name>
+# <!--Name-->Animation des objets<!--/Name-->
 
-- SRD: <AltName>[Animate Objects](spells_vo.md#animate-objects)</AltName>
+- SRD: <!--AltName-->[Animate Objects](spells_vo.md#animate-objects)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -231,21 +231,21 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez animer deux objets supplémentaires par emplacement au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Apaisement des émotions</Name>
+# <!--Name-->Apaisement des émotions<!--/Name-->
 
-- SRD: <AltName>[Calm Emotions](spells_vo.md#calm-emotions)</AltName>
+- SRD: <!--AltName-->[Calm Emotions](spells_vo.md#calm-emotions)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -255,21 +255,21 @@ Profil technique des objets animés Taille PV CA Attaque For Dex Très petite 20
 
 * Vous rendez la cible indifférente vis-à-vis des créatures de votre choix, envers lesquelles elle était auparavant hostile. Cette indifférence prend fin si la cible est attaquée ou affectée par un sort néfaste, ou bien si elle voit l'un de ses amis être ainsi agressé. La cible redevient hostile dès que le sort se termine, à moins que le MJ n'en décide autrement.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Apparence trompeuse</Name>
+# <!--Name-->Apparence trompeuse<!--/Name-->
 
-- SRD: <AltName>[Seeming](spells_vo.md#seeming)</AltName>
+- SRD: <!--AltName-->[Seeming](spells_vo.md#seeming)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -285,21 +285,21 @@ Les changements apportés par le sort ne résistent pas à un examen physique. P
 
 Une créature peut utiliser son action pour examiner une cible et faire un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] du sort. Si elle le réussit, elle comprend que la cible est déguisée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Appel de familier</Name>
+# <!--Name-->Appel de familier<!--/Name-->
 
-- SRD: <AltName>[Find Familiar](spells_vo.md#find-familiar)</AltName>
+- SRD: <!--AltName-->[Find Familiar](spells_vo.md#find-familiar)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (10 po de charbon, d'encens et d'herbe à faire brûler dans un brasero en laiton)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -317,21 +317,21 @@ Vous ne pouvez avoir qu'un seul familier à la fois. Si vous lancez ce sort alor
 
 Enfin, quand vous lancez un sort avec une portée de « contact », votre familier peut livrer le sort comme si c'était lui qui le lançait. Il doit se trouver à 30 mètres ou moins de vous et utiliser sa réaction pour transmettre le sort au moment où vous le lancez. Si le sort exige un jet d'attaque, vous utilisez votre propre modificateur d'attaque lors du jet.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Appel de la foudre</Name>
+# <!--Name-->Appel de la foudre<!--/Name-->
 
-- SRD: <AltName>[Call Lightning](spells_vo.md#call-lightning)</AltName>
+- SRD: <!--AltName-->[Call Lightning](spells_vo.md#call-lightning)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -343,19 +343,19 @@ Si, au moment de l'incantation, vous vous trouvez en extérieur et que les condi
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Arc enchanté</Name>
+# <!--Name-->Arc enchanté<!--/Name-->
 
-- <Type>Enchantement</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un arc)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un arc)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -365,21 +365,21 @@ Personne d'autre que vous ne peut l'utiliser et, si vous relâchez la corde sans
 
 Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plus, vous pouvez utiliser une action bonus afin d'effectuer une attaque à distance supplémentaire avec l'arc (ou l'arbalète).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Arme magique</Name>
+# <!--Name-->Arme magique<!--/Name-->
 
-- SRD: <AltName>[Magic Weapon](spells_vo.md#magic-weapon)</AltName>
+- SRD: <!--AltName-->[Magic Weapon](spells_vo.md#magic-weapon)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Magicien], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -387,19 +387,19 @@ Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le bonus passe à +2, et à +3 si vous utilisez un emplacement de niveau 6 ou plus.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Arme sainte</Name>
+# <!--Name-->Arme sainte<!--/Name-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -407,21 +407,21 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le bonus de dégâts passe à 2d8.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Arme spirituelle</Name>
+# <!--Name-->Arme spirituelle<!--/Name-->
 
-- SRD: <AltName>[Spiritual Weapon](spells_vo.md#spiritual-weapon)</AltName>
+- SRD: <!--AltName-->[Spiritual Weapon](spells_vo.md#spiritual-weapon)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -435,41 +435,41 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 tous les 2 niveaux au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Armure du mage</Name>
+# <!--Name-->Armure du mage<!--/Name-->
 
-- SRD: <AltName>[Mage Armor](spells_vo.md#mage-armor)</AltName>
+- SRD: <!--AltName-->[Mage Armor](spells_vo.md#mage-armor)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un bout de cuir tanné)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de cuir tanné)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La CA de base de la cible passe à 13 + son modificateur de [Dextérité]. Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Arrêt du temps</Name>
+# <!--Name-->Arrêt du temps<!--/Name-->
 
-- SRD: <AltName>[Time Stop](spells_vo.md#time-stop)</AltName>
+- SRD: <!--AltName-->[Time Stop](spells_vo.md#time-stop)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -477,21 +477,21 @@ Vous arrêtez brièvement le cours du temps pour tout le monde sauf vous. Le tem
 
 Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de temps ou l'un des effets que vous créez lors de ce laps de temps affecte une créature autre que vous ou un objet porté ou transporté par une créature autre que vous. Le sort se termine également si vous vous éloignez à plus de 300 mètres de l'endroit où vous l'avez lancé.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Aspersion acide</Name>
+# <!--Name-->Aspersion acide<!--/Name-->
 
-- SRD: <AltName>[Acid Splash](spells_vo.md#acid-splash)</AltName>
+- SRD: <!--AltName-->[Acid Splash](spells_vo.md#acid-splash)<!--/AltName-->
 
-- <Type>Invocation</Type> , <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> , <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -499,21 +499,21 @@ Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux cré
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Assassin imaginaire</Name>
+# <!--Name-->Assassin imaginaire<!--/Name-->
 
-- SRD: <AltName>[Phantasmal Killer](spells_vo.md#phantasmal-killer)</AltName>
+- SRD: <!--AltName-->[Phantasmal Killer](spells_vo.md#phantasmal-killer)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -525,41 +525,41 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Assistance</Name>
+# <!--Name-->Assistance<!--/Name-->
 
-- SRD: <AltName>[Guidance](spells_vo.md#guidance)</AltName>
+- SRD: <!--AltName-->[Guidance](spells_vo.md#guidance)<!--/AltName-->
 
-- <Type>Divination</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer 1d4 et ajouter le résultat obtenu au test de caractéristique de son choix. Elle peut lancer le dé avant ou après le test. Le sort se termine alors.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Augure</Name>
+# <!--Name-->Augure<!--/Name-->
 
-- SRD: <AltName>[Augury](spells_vo.md#augury)</AltName>
+- SRD: <!--AltName-->[Augury](spells_vo.md#augury)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (bâtonnets, os ou petits objets similaires d'une valeur minimale de 25 po, portant des marques spéciales)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -577,37 +577,37 @@ Le sort ne tient pas compte d'une éventuelle modification des circonstances, co
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d'une prémonition fiable. C'est au MJ de faire ce jet en secret.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Aura de force</Name>
+# <!--Name-->Aura de force<!--/Name-->
 
-- <Type>Abjuration</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>Concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->Concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un avantage à tous les tests et les [jets de sauvegarde] de [Force].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Aura du héros</Name>
+# <!--Name-->Aura du héros<!--/Name-->
 
-- <Type>Enchantement</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -615,21 +615,21 @@ Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéfici
 
 Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Aura magique de l'arcaniste</Name>
+# <!--Name-->Aura magique de l'arcaniste<!--/Name-->
 
-- SRD: <AltName>[Arcanist's Magic Aura](spells_vo.md#arcanists-magic-aura)</AltName>
+- SRD: <!--AltName-->[Arcanist's Magic Aura](spells_vo.md#arcanists-magic-aura)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un petit carré de soie)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit carré de soie)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -641,21 +641,21 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 
 **_Masque._** Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme le sens divin d'un paladin ou le déclencheur d'un sort de [symbole]. Vous choisissez un type de créatures : les autres sorts et effets magiques traitent la cible comme si elle appartenait au type ou à l'alignement choisi.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Aura sacrée</Name>
+# <!--Name-->Aura sacrée<!--/Name-->
 
-- SRD: <AltName>[Holy Aura](spells_vo.md#holy-aura)</AltName>
+- SRD: <!--AltName-->[Holy Aura](spells_vo.md#holy-aura)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit reliquaire d'une valeur minimum de 1 000 po contenant une relique sacrée, comme un bout de la robe d'un saint ou un morceau de parchemin prélevé sur un texte sacré)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -663,41 +663,41 @@ Une lumière divine émane de votre personne dans un rayon de 9 mètres et forme
 
 Les créatures de votre choix qui se trouvent dans cette zone au moment où vous lancez ce sort émettent une faible lumière dans un rayon de 1,50 mètre. De plus, jusqu'à la fin du sort, elles ont l'avantage lors des [jets de sauvegarde] tandis que les autres créatures subissent un désavantage quand elles effectuent un jet d'attaque contre elles. Quand un fiélon ou un mort-vivant touche une créature affectée avec une attaque au corps-à-corps, l'aura qui enveloppe la créature flamboie soudain. L'assaillant doit réussir un [jet de sauvegarde] de [Constitution] ou se retrouver [aveuglé] jusqu'à la fin du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bagou</Name>
+# <!--Name-->Bagou<!--/Name-->
 
-- SRD: <AltName>[Glibness](spells_vo.md#glibness)</AltName>
+- SRD: <!--AltName-->[Glibness](spells_vo.md#glibness)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme], vous pouvez remplacer le nombre obtenu au dé par un 15. De plus, quoi que vous disiez, la magie visant à déterminer si vous dites la vérité vous identifie toujours comme sincère.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Baies nourricières</Name>
+# <!--Name-->Baies nourricières<!--/Name-->
 
-- SRD: <AltName>[Goodberry](spells_vo.md#goodberry)</AltName>
+- SRD: <!--AltName-->[Goodberry](spells_vo.md#goodberry)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un brin de gui)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un brin de gui)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -707,21 +707,21 @@ Une créature peut utiliser son action pour manger une baie, ce qui lui rend 1 p
 
 Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures qui suivent l'incantation.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Balisage</Name>
+# <!--Name-->Balisage<!--/Name-->
 
-- SRD: <AltName>[Guiding Bolt](spells_vo.md#guiding-bolt)</AltName>
+- SRD: <!--AltName-->[Guiding Bolt](spells_vo.md#guiding-bolt)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -729,21 +729,21 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bannissement</Name>
+# <!--Name-->Bannissement<!--/Name-->
 
-- SRD: <AltName>[Banishment](spells_vo.md#banishment)</AltName>
+- SRD: <!--AltName-->[Banishment](spells_vo.md#banishment)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un objet qui répugne à la cible)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Ensorceleur], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un objet qui répugne à la cible)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Ensorceleur], [Magicien], [Paladin], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -759,21 +759,21 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Barrière de lames</Name>
+# <!--Name-->Barrière de lames<!--/Name-->
 
-- SRD: <AltName>[Blade Barrier](spells_vo.md#blade-barrier)</AltName>
+- SRD: <!--AltName-->[Blade Barrier](spells_vo.md#blade-barrier)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -781,21 +781,21 @@ Vous créez un mur vertical constitué de lames tournoyantes faites d'énergie m
 
 Quand une créature pénètre dans la zone du mur pour la première fois au cours de son tour ou quand elle commence son tour dans cette zone, elle doit faire un [jet de sauvegarde] de [Dextérité]. Si elle le rate, elle subit 6d10 dégâts tranchants ; si elle le réussit, elle en subit seulement la moitié.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bénédiction</Name>
+# <!--Name-->Bénédiction<!--/Name-->
 
-- SRD: <AltName>[Bless](spells_vo.md#bless)</AltName>
+- SRD: <!--AltName-->[Bless](spells_vo.md#bless)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un peu d'eau bénite à asperger)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite à asperger)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -803,39 +803,39 @@ Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Qua
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bénédiction héroïque</Name>
+# <!--Name-->Bénédiction héroïque<!--/Name-->
 
-- <Type>Divination</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un avantage au jet d'attaque sur la première attaque de chacun de vos tours pour toute la durée du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Blessure</Name>
+# <!--Name-->Blessure<!--/Name-->
 
-- SRD: <AltName>[Inflict Wounds](spells_vo.md#inflict-wounds)</AltName>
+- SRD: <!--AltName-->[Inflict Wounds](spells_vo.md#inflict-wounds)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -843,21 +843,21 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bouche magique</Name>
+# <!--Name-->Bouche magique<!--/Name-->
 
-- SRD: <AltName>[Magic Mouth](spells_vo.md#magic-mouth)</AltName>
+- SRD: <!--AltName-->[Magic Mouth](spells_vo.md#magic-mouth)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un rayon de miel et de la poussière de jade d'une valeur de 10 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -869,41 +869,41 @@ Quand les conditions de déclenchement sont remplies, une bouche magique appara�
 
 Ces dernières peuvent être aussi génériques ou spécifiques que vous le désirez, mais elles doivent se baser sur des données visuelles ou audibles, perceptibles dans un rayon de 9 mètres autour de l'objet. Par exemple, vous pouvez ordonner à la bouche de parler dès qu'une créature approche à 9 mètres ou moins de l'objet ou quand une cloche d'argent retentit dans un rayon de 9 mètres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bouclier</Name>
+# <!--Name-->Bouclier<!--/Name-->
 
-- SRD: <AltName>[Shield](spells_vo.md#shield)</AltName>
+- SRD: <!--AltName-->[Shield](spells_vo.md#shield)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 réaction à effectuer lorsque vous êtes touché par une attaque ou un sort de _[projectile magique]_<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Une barrière [invisible] faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la CA, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort _[projectile magique]_.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bouclier de feu</Name>
+# <!--Name-->Bouclier de feu<!--/Name-->
 
-- SRD: <AltName>[Fire Shield](spells_vo.md#fire-shield)</AltName>
+- SRD: <!--AltName-->[Fire Shield](spells_vo.md#fire-shield)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un morceau de phosphore ou une luciole)</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un morceau de phosphore ou une luciole)<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -913,41 +913,41 @@ Les flammes vous offrent un bouclier chaud ou froid, comme bon vous semble. Le b
 
 De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous vous touche avec une attaque au corps-à-corps, le bouclier génère une gerbe de flammes. Si le bouclier est chaud, il inflige 2d8 dégâts de feu à l'assaillant, s'il est froid, il lui inflige 2d8 dégâts de froid.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bouclier de la foi</Name>
+# <!--Name-->Bouclier de la foi<!--/Name-->
 
-- SRD: <AltName>[Shield of Faith](spells_vo.md#shield-of-faith)</AltName>
+- SRD: <!--AltName-->[Shield of Faith](spells_vo.md#shield-of-faith)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit parchemin avec un extrait de texte sacré)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit parchemin avec un extrait de texte sacré)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la CA pendant toute la durée du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bouffée de poison</Name>
+# <!--Name-->Bouffée de poison<!--/Name-->
 
-- SRD: <AltName>[Poison Spray](spells_vo.md#poison-spray)</AltName>
+- SRD: <!--AltName-->[Poison Spray](spells_vo.md#poison-spray)<!--/AltName-->
 
-- <Type>Invocation</Type> , <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> , <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -955,21 +955,21 @@ Vous tendez la main en direction d'une créature située à portée et dans votr
 
 Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12), 11 (3d12) et 17 (4d12).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Boule de feu</Name>
+# <!--Name-->Boule de feu<!--/Name-->
 
-- SRD: <AltName>[Fireball](spells_vo.md#fireball)</AltName>
+- SRD: <!--AltName-->[Fireball](spells_vo.md#fireball)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite boule de guano de chauve-souris et du soufre)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -979,21 +979,21 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Boule de feu à explosion retardée</Name>
+# <!--Name-->Boule de feu à explosion retardée<!--/Name-->
 
-- SRD: <AltName>[Delayed Blast Fireball](spells_vo.md#delayed-blast-fireball)</AltName>
+- SRD: <!--AltName-->[Delayed Blast Fireball](spells_vo.md#delayed-blast-fireball)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (une petite boule de guano de chauve-souris et du soufre)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite boule de guano de chauve-souris et du soufre)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1009,21 +1009,21 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 8 ou supérieur, les dégâts de base augmentent de 1d6 par niveau au-delà du niveau 7.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Bourrasque</Name>
+# <!--Name-->Bourrasque<!--/Name-->
 
-- SRD: <AltName>[Gust of Wind](spells_vo.md#gust-of-wind)</AltName>
+- SRD: <!--AltName-->[Gust of Wind](spells_vo.md#gust-of-wind)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (ligne de 18 mètres)</Range>
-- **Composantes :** <Components>V, S, M (une graine de légume)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (ligne de 18 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une graine de légume)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1035,21 +1035,21 @@ La bourrasque disperse les gaz et les vapeurs et éteint les bougies, les torche
 
 Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'une action bonus à chacun de vos tours jusqu'à la fin du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Briser</Name>
+# <!--Name-->Briser<!--/Name-->
 
-- SRD: <AltName>[Shatter](spells_vo.md#shatter)</AltName>
+- SRD: <!--AltName-->[Shatter](spells_vo.md#shatter)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un éclat de mica)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un éclat de mica)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1061,19 +1061,19 @@ Un objet non magique que personne ne porte ni ne transporte subit aussi ces dég
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Brûlure du juste</Name>
+# <!--Name-->Brûlure du juste<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1087,21 +1087,21 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Cage de force</Name>
+# <!--Name-->Cage de force<!--/Name-->
 
-- SRD: <AltName>[Forcecage](spells_vo.md#forcecage)</AltName>
+- SRD: <!--AltName-->[Forcecage](spells_vo.md#forcecage)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>30 mètres</Range>
-- **Composantes :** <Components>V, S, M (poussière de rubis d'une valeur de 1 500 po)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->30 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (poussière de rubis d'une valeur de 1 500 po)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1117,21 +1117,21 @@ Une créature enfermée dans la cage ne peut pas la quitter par des moyens non-m
 
 La _[dissipation de la magie]_ est sans effet sur ce sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Caresse du vampire</Name>
+# <!--Name-->Caresse du vampire<!--/Name-->
 
-- SRD: <AltName>[Vampiric Touch](spells_vo.md#vampiric-touch)</AltName>
+- SRD: <!--AltName-->[Vampiric Touch](spells_vo.md#vampiric-touch)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1139,19 +1139,19 @@ Le simple contact de votre main enveloppée d'ombres peut siphonner la force vit
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Catalepsie</Name>
+# <!--Name-->Catalepsie<!--/Name-->
 
-- <Type>Nécromancie</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit morceau de linceul)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit morceau de linceul)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1165,21 +1165,21 @@ Il ne ressent aucune blessure ou autre mauvais traitement et aucune réaction co
 
 Au niveau 9, la cible doit réussir un [jet de sauvegarde] de constitution difficulté 8 + 1 tous les dix ans écoulés lorsqu'elle sort du sommeil, ou mourir immédiatement.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Cécité/surdité</Name>
+# <!--Name-->Cécité/surdité<!--/Name-->
 
-- SRD: <AltName>[Blindness/Deafness](spells_vo.md#blindnessdeafness)</AltName>
+- SRD: <!--AltName-->[Blindness/Deafness](spells_vo.md#blindnessdeafness)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1189,21 +1189,21 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Cercle de mort</Name>
+# <!--Name-->Cercle de mort<!--/Name-->
 
-- SRD: <AltName>[Circle of Death](spells_vo.md#circle-of-death)</AltName>
+- SRD: <!--AltName-->[Circle of Death](spells_vo.md#circle-of-death)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (la poudre d'une perle noire broyée d'une valeur minimale de 500 po)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1211,21 +1211,21 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 2d6 par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Cercle de téléportation</Name>
+# <!--Name-->Cercle de téléportation<!--/Name-->
 
-- SRD: <AltName>[Teleportation Circle](spells_vo.md#teleportation-circle)</AltName>
+- SRD: <!--AltName-->[Teleportation Circle](spells_vo.md#teleportation-circle)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, M (des craies et des encres rares contenant des extraits de pierres précieuses pour une valeur de 50 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1239,21 +1239,21 @@ Chacun de ces cercles utilise une séquence de symboles uniques : une série de 
 
 Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au même endroit tous les jours pendant un an. Vous n'avez pas besoin d'utiliser le cercle pour vous téléporter quand vous lancez ce sort pour cela.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Cercle magique</Name>
+# <!--Name-->Cercle magique<!--/Name-->
 
-- SRD: <AltName>[Magic Circle](spells_vo.md#magic-circle)</AltName>
+- SRD: <!--AltName-->[Magic Circle](spells_vo.md#magic-circle)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Clerc], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien], [Paladin], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1273,21 +1273,21 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, la durée du sort augmente d'une heure par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Chaîne d'éclairs</Name>
+# <!--Name-->Chaîne d'éclairs<!--/Name-->
 
-- SRD: <AltName>[Chain Lightning](spells_vo.md#chain-lightning)</AltName>
+- SRD: <!--AltName-->[Chain Lightning](spells_vo.md#chain-lightning)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>450 mètres</Range>
-- **Composantes :** <Components>V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->450 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1301,21 +1301,21 @@ Chaque cible doit faire un [jet de sauvegarde] de [Dextérité] et subit 10d8 d�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, un éclair de plus rebondit de la première cible vers une autre pour chaque niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Champ antimagie</Name>
+# <!--Name-->Champ antimagie<!--/Name-->
 
-- SRD: <AltName>[Antimagic Field](spells_vo.md#antimagic-field)</AltName>
+- SRD: <!--AltName-->[Antimagic Field](spells_vo.md#antimagic-field)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (sphère de 3 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poudre de fer ou de limaille)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (sphère de 3 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poudre de fer ou de limaille)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1339,21 +1339,21 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 
 **_Dissipation de la magie._** Les sorts et les effets magiques comme _[dissipation de la magie]_ n'ont aucun effet sur la sphère. De même, les sphères issues de divers sorts de _[champ antimagie]_ ne s'annulent pas les unes les autres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Changement de forme</Name>
+# <!--Name-->Changement de forme<!--/Name-->
 
-- SRD: <AltName>[Shapechange](spells_vo.md#shapechange)</AltName>
+- SRD: <!--AltName-->[Shapechange](spells_vo.md#shapechange)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un diadème de jade d'une valeur minimale de 1 500 po, que vous devez coiffer avant de lancer le sort)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1373,21 +1373,21 @@ Quand vous vous transformez, vous choisissez si votre équipement tombe au sol, 
 
 Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une nouvelle forme répondant aux mêmes critères et aux mêmes règles que précédemment, à une exception : si votre nouvelle forme possède plus de points de vie que la précédente, votre nombre de points de vie reste tel qu'il était.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Changement de plan</Name>
+# <!--Name-->Changement de plan<!--/Name-->
 
-- SRD: <AltName>[Plane Shift](spells_vo.md#plane-shift)</AltName>
+- SRD: <!--AltName-->[Plane Shift](spells_vo.md#plane-shift)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1399,21 +1399,21 @@ S'il est trop étroit pour accueillir toutes les créatures qui voyagent avec vo
 
 Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur un autre plan. Choisissez une créature à votre portée et faites une attaque de sort au corps-à-corps contre elle. Si vous touchez, elle doit réussir un [jet de sauvegarde] de [Charisme] ou être transporté en un endroit aléatoire du plan d'existence que vous nommez. Une fois à cet endroit, c'est à elle de trouver un moyen de rentrer sur son plan d'origine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Charme-personne</Name>
+# <!--Name-->Charme-personne<!--/Name-->
 
-- SRD: <AltName>[Charm Person](spells_vo.md#charm-person)</AltName>
+- SRD: <!--AltName-->[Charm Person](spells_vo.md#charm-person)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1421,21 +1421,21 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez charmer une créature de plus par niveau au-delà du niveau 1. Toutes les cibles doivent se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Chauffer le métal</Name>
+# <!--Name-->Chauffer le métal<!--/Name-->
 
-- SRD: <AltName>[Heat Metal](spells_vo.md#heat-metal)</AltName>
+- SRD: <!--AltName-->[Heat Metal](spells_vo.md#heat-metal)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de fer et une flamme)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de fer et une flamme)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1449,21 +1449,21 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Chien de garde</Name>
+# <!--Name-->Chien de garde<!--/Name-->
 
-- SRD: <AltName>[Faithful Hound](spells_vo.md#faithful-hound)</AltName>
+- SRD: <!--AltName-->[Faithful Hound](spells_vo.md#faithful-hound)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit sifflet en argent, un éclat d'os et une ficelle)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1473,39 +1473,39 @@ Le chien est [invisible] pour tout le monde sauf pour vous, et il est impossible
 
 Au début de votre tour, le chien tente de mordre une créature qui vous est hostile, située dans un rayon de 1,50 mètre autour de lui. Son bonus d'attaque est égal à votre modificateur de caractéristique d'incantation + votre bonus de maîtrise. S'il touche, il inflige 4d8 dégâts perforants.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Choc des titans</Name>
+# <!--Name-->Choc des titans<!--/Name-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un avantage à votre première attaque à chacun de vos tours.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Clairvoyance</Name>
+# <!--Name-->Clairvoyance<!--/Name-->
 
-- SRD: <AltName>[Clairvoyance](spells_vo.md#clairvoyance)</AltName>
+- SRD: <!--AltName-->[Clairvoyance](spells_vo.md#clairvoyance)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>1,5 kilomètre</Range>
-- **Composantes :** <Components>V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->1,5 kilomètre<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un oeil de verre pour la vue)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1517,21 +1517,21 @@ Vous pouvez dépenser une action pour passer de la vue à l'ouïe ou inversement
 
 Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple de voir l'invisible ou de vision parfaite) le perçoit comme un orbe lumineux intangible de la taille de votre poing.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Clignotement</Name>
+# <!--Name-->Clignotement<!--/Name-->
 
-- SRD: <AltName>[Blink](spells_vo.md#blink)</AltName>
+- SRD: <!--AltName-->[Blink](spells_vo.md#blink)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1539,21 +1539,21 @@ Pendant toute la durée du sort, vous lancez 1d20 à la fin de chacun de vos tou
 
 Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se passe sur le plan d'où vous venez, qui apparaît sous forme d'ombres grises, mais votre vision ne porte pas au-delà de 18 mètres. Vous pouvez seulement affecter des créatures se trouvant sur le plan éthéré et elles sont les seules à pouvoir vous affecter. Les créatures qui ne se trouvent pas sur ce plan ne peuvent ni vous percevoir, ni interagir avec vous, à moins qu'elles ne disposent d'un pouvoir le leur permettant.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Clone</Name>
+# <!--Name-->Clone<!--/Name-->
 
-- SRD: <AltName>[Clone](spells_vo.md#clone)</AltName>
+- SRD: <!--AltName-->[Clone](spells_vo.md#clone)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un diamant valant au moins 1 000 po et un cube d'au moins 2,5 centimètres d'arête de chair de la créature à cloner, le sort consommant ces deux composantes, ainsi qu'un réceptacle d'une valeur minimale de 2 000 po qui dispose d'un couvercle susceptible d'être scellé, et assez grand pour contenir une créature de taille M, comme une grande urne, un cercueil, un cavité remplie de boue creusée dans la terre ou un récipient de cristal rempli d'eau salée)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1561,21 +1561,21 @@ Ce sort génère la réplique inerte d'une créature vivante, pour la protéger 
 
 Une fois que le clone est arrivé à maturité, si la créature originale meurt, son âme se transfère dans le clone, à condition que cette âme soit libre et désireuse de revenir à la vie. D'un point de vue physique, le clone est identique à l'original. De plus, il possède la même personnalité, les mêmes souvenirs et les mêmes capacités, mais il n'hérite pas de son équipement. Les restes physiques de la créature originale ne disparaissent pas. S'ils ne sont pas détruits, ils deviennent inertes et ne peuvent pas servir à ramener la créature à la vie puisque son âme se trouve ailleurs.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Coercition mystique</Name>
+# <!--Name-->Coercition mystique<!--/Name-->
 
-- SRD: <AltName>[Geas](spells_vo.md#geas)</AltName>
+- SRD: <!--AltName-->[Geas](spells_vo.md#geas)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>30 jours</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->30 jours<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1591,21 +1591,21 @@ Vous pouvez mettre prématurément fin au sort en dépensant une action pour le 
 
 Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un le dissipe avec l'un des sorts mentionnés précédemment.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Coffre secret</Name>
+# <!--Name-->Coffre secret<!--/Name-->
 
-- SRD: <AltName>[Secret Chest](spells_vo.md#secret-chest)</AltName>
+- SRD: <!--AltName-->[Secret Chest](spells_vo.md#secret-chest)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5 000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1617,19 +1617,19 @@ Au bout de 60 jours, il y a 5 % de chances cumulatifs par jour que les effets du
 
 Si le sort se termine alors que le grand coffre est encore sur le plan éthéré, ce coffre est irrémédiablement perdu.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Colère des damnés</Name>
+# <!--Name-->Colère des damnés<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>30 mètres</Range>
-- **Composantes :** <Components>V, S, M (un peu de cendre et de poussière d'os)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->30 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu de cendre et de poussière d'os)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1637,19 +1637,19 @@ Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Collet magique</Name>
+# <!--Name-->Collet magique<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>12 mètres</Range>
-- **Composantes :** <Components>V, S, M (une ficelle)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->12 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une ficelle)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1661,21 +1661,21 @@ Une créature [entravée] peut utiliser son action à chaque tour pour faire un 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, le sort affecte une cible supplémentaire par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Colonne de flamme</Name>
+# <!--Name-->Colonne de flamme<!--/Name-->
 
-- SRD: <AltName>[Flame Strike](spells_vo.md#flame-strike)</AltName>
+- SRD: <!--AltName-->[Flame Strike](spells_vo.md#flame-strike)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de soufre)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de soufre)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1685,41 +1685,41 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts de feu ou les dégâts radiants (à vous de choisir) augmentent de 1d6 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Communication avec les animaux</Name>
+# <!--Name-->Communication avec les animaux<!--/Name-->
 
-- SRD: <AltName>[Speak with Animals](spells_vo.md#speak-with-animals)</AltName>
+- SRD: <!--AltName-->[Speak with Animals](spells_vo.md#speak-with-animals)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec elles pendant toute la durée du sort. Les connaissances et le degré de conscience de nombreuses bêtes sont limités par leur intelligence réduite, mais elles peuvent au moins vous renseigner sur les environs et les monstres aux alentours, ainsi que sur ce qu'elles perçoivent aujourd'hui ou ont perçu la veille. Si le MJ accepte, vous pouvez convaincre une bête de vous accorder une petite faveur.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Communication avec les morts</Name>
+# <!--Name-->Communication avec les morts<!--/Name-->
 
-- SRD: <AltName>[Speak with Dead](spells_vo.md#speak-with-dead)</AltName>
+- SRD: <!--AltName-->[Speak with Dead](spells_vo.md#speak-with-dead)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S, M (encens incandescent)</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (encens incandescent)<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1727,21 +1727,21 @@ Vous donnez un semblant de vie et d'intelligence à un cadavre de votre choix si
 
 Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les connaissances du cadavre se limitent à ce qu'il savait de son vivant, y compris au niveau des langues qu'il est capable de parler. Les réponses sont souvent brèves, cryptiques ou répétitives et le cadavre n'est absolument pas obligé de vous donner une réponse sincère si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne ramène pas l'âme de la cible dans son corps, juste l'esprit qui l'animait ; le cadavre ne peut donc pas apprendre de nouvelles informations, ne comprend rien de ce qui s'est passé après sa mort et est incapable de faire des spéculations sur l'avenir.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Communication avec les plantes</Name>
+# <!--Name-->Communication avec les plantes<!--/Name-->
 
-- SRD: <AltName>[Speak with Plants](spells_vo.md#speak-with-plants)</AltName>
+- SRD: <!--AltName-->[Speak with Plants](spells_vo.md#speak-with-plants)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (9 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (9 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1755,21 +1755,21 @@ Si une créature végétale se trouve dans la zone, vous pouvez communiquer avec
 
 Ce sort permet de libérer une créature [entravée] par les plantes nées d'un sort d'_[enchevêtrement]_.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Communion</Name>
+# <!--Name-->Communion<!--/Name-->
 
-- SRD: <AltName>[Commune](spells_vo.md#commune)</AltName>
+- SRD: <!--AltName-->[Commune](spells_vo.md#commune)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>5</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (de l'encens et une fiole d'eau bénite ou maudite)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->5<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de l'encens et une fiole d'eau bénite ou maudite)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1779,21 +1779,21 @@ Les êtres divins ne sont pas forcément omniscients, il se peut donc que vous o
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances (cumulables) que chaque incantation en sus de la première ne reçoive pas de réponse. Le MJ effectue ce jet en secret.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Communion avec la nature</Name>
+# <!--Name-->Communion avec la nature<!--/Name-->
 
-- SRD: <AltName>[Commune with Nature](spells_vo.md#commune-with-nature)</AltName>
+- SRD: <!--AltName-->[Commune with Nature](spells_vo.md#commune-with-nature)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>5</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->5<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1817,19 +1817,19 @@ Vous obtenez instantanément des informations sur un maximum de trois éléments
 
 Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résidant dans la zone, savoir où se trouvent les points d'eau potable majeurs et où se trouvent les villages les plus proches.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Compagnon animal</Name>
+# <!--Name-->Compagnon animal<!--/Name-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>12 mètres</Range>
-- **Composantes :** <Components>V, S, M (un peu de nourriture adaptée à l'animal)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->12 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu de nourriture adaptée à l'animal)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -1857,21 +1857,21 @@ Chaque jour, vous pouvez conserver le même compagnon animal sans devoir à nouv
 
 Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie aussi.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Compréhension des langues</Name>
+# <!--Name-->Compréhension des langues<!--/Name-->
 
-- SRD: <AltName>[Comprehend Languages](spells_vo.md#comprehend-languages)</AltName>
+- SRD: <!--AltName-->[Comprehend Languages](spells_vo.md#comprehend-languages)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une pincée de suie et de sel)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de suie et de sel)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1879,21 +1879,21 @@ Pendant toute la durée du sort, vous comprenez le sens littéral de tout langag
 
 Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un _[symbole]_ magique.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Compulsion</Name>
+# <!--Name-->Compulsion<!--/Name-->
 
-- SRD: <AltName>[Compulsion](spells_vo.md#compulsion)</AltName>
+- SRD: <!--AltName-->[Compulsion](spells_vo.md#compulsion)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1901,21 +1901,21 @@ Les créatures de votre choix, situées à portée, dans votre champ de vision e
 
 Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dangereuse, comme un brasier ou une fosse béante, mais elle est prête à provoquer des attaques d'opportunité pour se déplacer dans la direction indiquée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Cône de froid</Name>
+# <!--Name-->Cône de froid<!--/Name-->
 
-- SRD: <AltName>[Cone of Cold](spells_vo.md#cone-of-cold)</AltName>
+- SRD: <!--AltName-->[Cone of Cold](spells_vo.md#cone-of-cold)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (cône de 18 mètres)</Range>
-- **Composantes :** <Components>V, S, M (un petit cône de cristal ou de verre)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (cône de 18 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit cône de cristal ou de verre)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1925,21 +1925,21 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Confusion</Name>
+# <!--Name-->Confusion<!--/Name-->
 
-- SRD: <AltName>[Confusion](spells_vo.md#confusion)</AltName>
+- SRD: <!--AltName-->[Confusion](spells_vo.md#confusion)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (trois coquilles de noix)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (trois coquilles de noix)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1960,21 +1960,21 @@ Une créature affectée peut faire un [jet de sauvegarde] de [Sagesse] à la fin
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, le rayon de la sphère augmente de 1,50 mètre par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contact glacial</Name>
+# <!--Name-->Contact glacial<!--/Name-->
 
-- SRD: <AltName>[Chill Touch](spells_vo.md#chill-touch)</AltName>
+- SRD: <!--AltName-->[Chill Touch](spells_vo.md#chill-touch)<!--/AltName-->
 
-- <Type>Nécromancie</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -1986,21 +1986,21 @@ Si votre cible est un mort-vivant, il subit en plus un désavantage lors des jet
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contacter un autre plan</Name>
+# <!--Name-->Contacter un autre plan<!--/Name-->
 
-- SRD: <AltName>[Contact Other Plane](spells_vo.md#contact-other-plane)</AltName>
+- SRD: <!--AltName-->[Contact Other Plane](spells_vo.md#contact-other-plane)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>5</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->5<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2010,21 +2010,21 @@ En cas d'échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusq
 
 Si vous réussissez votre [jet de sauvegarde], vous pouvez poser jusqu'à cinq questions à l'entité. Vous devez les poser avant la fin du sort. C'est le MJ qui répond à chacune d'entre elles avec un mot, comme « oui », « non », « peutêtre », « jamais », « hors sujet » ou « incertain » (si l'entité ignore la réponse à votre question). Si une réponse limitée à un seul mot risque de se révéler trompeuse, le MJ peut la remplacer par une courte phrase.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contagion</Name>
+# <!--Name-->Contagion<!--/Name-->
 
-- SRD: <AltName>[Contagion](spells_vo.md#contagion)</AltName>
+- SRD: <!--AltName-->[Contagion](spells_vo.md#contagion)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>7 jours</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->7 jours<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2052,41 +2052,41 @@ Elle subit un désavantage lors des tests de [Sagesse] et des [jets de sauvegard
 
 Elle subit un désavantage lors des tests de [Charisme] et devient vulnérable à tous les dégâts.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contamination</Name>
+# <!--Name-->Contamination<!--/Name-->
 
-- SRD: <AltName>[Harm](spells_vo.md#harm)</AltName>
+- SRD: <!--AltName-->[Harm](spells_vo.md#harm)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous transmettez une maladie virulente à une créature située à portée et dans votre champ de vision. La cible doit faire un [jet de sauvegarde] de [Constitution]. Si elle échoue, elle subit 14d6 dégâts nécrotiques, la moitié seulement si elle réussit. Ces dégâts ne peuvent pas faire passer les points de vie de la cible au-dessous de 1. Si la cible rate son [jet de sauvegarde], son total de points de vie maximum est réduit, pendant 1 heure, d'un montant égal aux dégâts nécrotiques reçus. Tout effet qui guérit les maladies ramène le maximum de points de vie de la cible à la normale sans avoir besoin d'attendre 1 heure.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contingence</Name>
+# <!--Name-->Contingence<!--/Name-->
 
-- SRD: <AltName>[Contingency](spells_vo.md#contingency)</AltName>
+- SRD: <!--AltName-->[Contingency](spells_vo.md#contingency)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)</Components>
-- **Durée :** <Duration>10 jours</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1 500 po)<!--/Components-->
+- **Durée :** <!--Duration-->10 jours<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2098,21 +2098,21 @@ Le sort contingent affecte uniquement votre personne, même s'il peut normalemen
 
 Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en lancez un second, les effets du précédent se dissipent. De plus, la contingence prend fin si sa composante matérielle n'est plus sur votre personne.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contresort</Name>
+# <!--Name-->Contresort<!--/Name-->
 
-- SRD: <AltName>[Counterspell](spells_vo.md#counterspell)</AltName>
+- SRD: <!--AltName-->[Counterspell](spells_vo.md#counterspell)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 réaction à utiliser quand vous voyez une créature située dans un rayon de 18 mètres autour de vous lancer un sort<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2122,21 +2122,21 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort à interrompre est automatiquement sans effet s'il est d'un niveau égal ou inférieur à celui de l'emplacement de sort utilisé.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contrôle de l'eau</Name>
+# <!--Name-->Contrôle de l'eau<!--/Name-->
 
-- SRD: <AltName>[Control Water](spells_vo.md#control-water)</AltName>
+- SRD: <!--AltName-->[Control Water](spells_vo.md#control-water)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>90 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte d'eau et une pincée de poussière)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->90 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte d'eau et une pincée de poussière)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2156,21 +2156,21 @@ Le niveau de l'eau reste plus élevé jusqu'à la fin du sort ou jusqu'à ce que
 
 Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un [jet de sauvegarde] de [Force]. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un désavantage lors de son test de [Force (Athlétisme)]. À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Contrôle du climat</Name>
+# <!--Name-->Contrôle du climat<!--/Name-->
 
-- SRD: <AltName>[Control Weather](spells_vo.md#control-weather)</AltName>
+- SRD: <!--AltName-->[Control Weather](spells_vo.md#control-weather)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>personnelle (rayon de 7,5 kilomètres)</Range>
-- **Composantes :** <Components>V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 8 heures</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (rayon de 7,5 kilomètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2213,21 +2213,21 @@ Vent
 |4|Grand vent|
 |5|Tempête|
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Convocations instantanées</Name>
+# <!--Name-->Convocations instantanées<!--/Name-->
 
-- SRD: <AltName>[Instant Summons](spells_vo.md#instant-summons)</AltName>
+- SRD: <!--AltName-->[Instant Summons](spells_vo.md#instant-summons)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un saphir d'une valeur de 1 000 po)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un saphir d'une valeur de 1 000 po)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2241,21 +2241,21 @@ Si l'objet est actuellement porté ou transporté par quelqu'un d'autre, il n'ar
 
 _[Dissipation de la magie]_ ou un effet similaire appliqué sur le saphir met un terme à l'effet du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Coquille antivie</Name>
+# <!--Name-->Coquille antivie<!--/Name-->
 
-- SRD: <AltName>[Antilife Shell](spells_vo.md#antilife-shell)</AltName>
+- SRD: <!--AltName-->[Antilife Shell](spells_vo.md#antilife-shell)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (3 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2265,21 +2265,21 @@ La barrière empêche les créatures affectées de la franchir ou de passer un m
 
 Si vous vous déplacez de telle manière qu'une créature affectée est contrainte de traverser la barrière, le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Corde enchantée</Name>
+# <!--Name-->Corde enchantée<!--/Name-->
 
-- SRD: <AltName>[Rope Trick](spells_vo.md#rope-trick)</AltName>
+- SRD: <!--AltName-->[Rope Trick](spells_vo.md#rope-trick)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (extrait de maïs en poudre et boucle de parchemin torsadé)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2293,21 +2293,21 @@ Les attaques et les sorts ne peuvent traverser l'entrée de l'espace extradimens
 
 Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quand le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Couleurs dansantes</Name>
+# <!--Name-->Couleurs dansantes<!--/Name-->
 
-- SRD: <AltName>[Color Spray](spells_vo.md#color-spray)</AltName>
+- SRD: <!--AltName-->[Color Spray](spells_vo.md#color-spray)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (cône de 4,50 mètres)</Range>
-- **Composantes :** <Components>V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (cône de 4,50 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une poignée de poudre ou de sable, colorée en rouge, jaune et bleu)<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2317,21 +2317,21 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d10 supplémentaires par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Création</Name>
+# <!--Name-->Création<!--/Name-->
 
-- SRD: <AltName>[Creation](spells_vo.md#creation)</AltName>
+- SRD: <!--AltName-->[Creation](spells_vo.md#creation)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)</Components>
-- **Durée :** <Duration>spéciale</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit bout de matière de même type que l'objet que vous voulez créer)<!--/Components-->
+- **Durée :** <!--Duration-->spéciale<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2353,21 +2353,21 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, l'arête du cube augmente de 1,50 mètre par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Création de mort-vivant</Name>
+# <!--Name-->Création de mort-vivant<!--/Name-->
 
-- SRD: <AltName>[Create Undead](spells_vo.md#create-undead)</AltName>
+- SRD: <!--AltName-->[Create Undead](spells_vo.md#create-undead)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2385,41 +2385,41 @@ Quand vous le lancez à partir d'un emplacement de niveau 8, vous pouvez animer 
 
 Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer ou maintenir votre contrôle sur six goules ou trois blêmes ou trois nécrophages ou deux momies.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Création de nourriture et d'eau</Name>
+# <!--Name-->Création de nourriture et d'eau<!--/Name-->
 
-- SRD: <AltName>[Create Food and Water](spells_vo.md#create-food-and-water)</AltName>
+- SRD: <!--AltName-->[Create Food and Water](spells_vo.md#create-food-and-water)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Cela suffit à nourrir et abreuver un maximum de quinze humanoïdes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Création ou destruction d'eau</Name>
+# <!--Name-->Création ou destruction d'eau<!--/Name-->
 
-- SRD: <AltName>[Create or Destroy Water](spells_vo.md#create-or-destroy-water)</AltName>
+- SRD: <!--AltName-->[Create or Destroy Water](spells_vo.md#create-or-destroy-water)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2433,21 +2433,21 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous créez ou détruisez 40 litres d'eau de plus, ou bien l'arête du cube affecté augmente de 1,50 mètre par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Croissance d'épines</Name>
+# <!--Name-->Croissance d'épines<!--/Name-->
 
-- SRD: <AltName>[Spike Growth](spells_vo.md#spike-growth)</AltName>
+- SRD: <!--AltName-->[Spike Growth](spells_vo.md#spike-growth)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (sept épines acérées ou sept brindilles taillées en pointe)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (sept épines acérées ou sept brindilles taillées en pointe)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2455,21 +2455,21 @@ Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se 
 
 La transformation du sol est camouflée, de manière à ce que le terrain ait l'air naturel. Une créature dans l'incapacité de voir la zone au moment de l'incantation doit réussir un test de [Sagesse (Perception)] contre le DD du [jet de sauvegarde] de votre sort pour remarquer que le terrain est dangereux avant d'y entrer.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Croissance végétale</Name>
+# <!--Name-->Croissance végétale<!--/Name-->
 
-- SRD: <AltName>[Plant Growth](spells_vo.md#plant-growth)</AltName>
+- SRD: <!--AltName-->[Plant Growth](spells_vo.md#plant-growth)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action ou 8 heures</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action ou 8 heures<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2483,21 +2483,21 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 
 **_Si vous lancez le sort sur une période de huit heures, vous enrichissez la terre._** Toute la végétation dans un rayon de 800 mètres autour d'un point de votre choix situé à portée devient luxuriante pendant un an. Elle donne deux fois plus de nourriture que la normale lors de la récolte.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Danse irrésistible</Name>
+# <!--Name-->Danse irrésistible<!--/Name-->
 
-- SRD: <AltName>[Irresistible Dance](spells_vo.md#irresistible-dance)</AltName>
+- SRD: <!--AltName-->[Irresistible Dance](spells_vo.md#irresistible-dance)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2507,21 +2507,21 @@ Une fois que la créature s'est mise à danser, elle doit dépenser la totalité
 
 Tant que la cible est affectée par ce sort, les autres créatures bénéficient d'un avantage lors de leurs jets d'attaque contre elle. Une créature en train de danser peut utiliser son action pour effectuer un [jet de sauvegarde] de [Sagesse] et reprendre le contrôle de son corps. Si elle réussit, le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Déblocage</Name>
+# <!--Name-->Déblocage<!--/Name-->
 
-- SRD: <AltName>[Knock](spells_vo.md#knock)</AltName>
+- SRD: <!--AltName-->[Knock](spells_vo.md#knock)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2531,21 +2531,21 @@ Une cible fermée par une serrure ordinaire, coincée ou bloquée par une barre 
 
 Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu'on l'entend dans un rayon de 90 mètres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Déguisement</Name>
+# <!--Name-->Déguisement<!--/Name-->
 
-- SRD: <AltName>[Disguise Self](spells_vo.md#disguise-self)</AltName>
+- SRD: <!--AltName-->[Disguise Self](spells_vo.md#disguise-self)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2555,21 +2555,21 @@ Les changements qu'apporte le sort ne résistent pas à un examen physique. Par 
 
 Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Demi-plan</Name>
+# <!--Name-->Demi-plan<!--/Name-->
 
-- SRD: <AltName>[Demiplane](spells_vo.md#demiplane)</AltName>
+- SRD: <!--AltName-->[Demiplane](spells_vo.md#demiplane)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>S</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->S<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2577,21 +2577,21 @@ Vous créez une porte floue sur une surface plate et solide située à portée e
 
 Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relier la porte à un demi-plan que vous avez précédemment créé via ce sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan qu'une autre créature a créé grâce à ce sort, vous pouvez lui relier votre propre porte.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Déplacer la terre</Name>
+# <!--Name-->Déplacer la terre<!--/Name-->
 
-- SRD: <AltName>[Move Earth](spells_vo.md#move-earth)</AltName>
+- SRD: <!--AltName-->[Move Earth](spells_vo.md#move-earth)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 2 heures</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 2 heures<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2603,21 +2603,21 @@ Ce sort est incapable de manipuler la pierre naturelle et les constructions de p
 
 De même, le sort n'affecte pas directement la croissance des plantes. La terre déplacée emporte les végétaux avec elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Désintégration</Name>
+# <!--Name-->Désintégration<!--/Name-->
 
-- SRD: <AltName>[Disintegrate](spells_vo.md#disintegrate)</AltName>
+- SRD: <!--AltName-->[Disintegrate](spells_vo.md#disintegrate)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (de la magnétite et une pincée de poussière)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de la magnétite et une pincée de poussière)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2631,19 +2631,19 @@ Ce sort désintègre automatiquement les objets non magiques de taille G ou inf�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 3d6 par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Dessiccation</Name>
+# <!--Name-->Dessiccation<!--/Name-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte d'eau)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte d'eau)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2653,21 +2653,21 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez affecter une cible supplémentaire par niveau d'emplacement au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Détection de la magie</Name>
+# <!--Name-->Détection de la magie<!--/Name-->
 
-- SRD: <AltName>[Detect Magic](spells_vo.md#detect-magic)</AltName>
+- SRD: <!--AltName-->[Detect Magic](spells_vo.md#detect-magic)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2675,21 +2675,21 @@ Pendant toute la durée du sort, vous percevez la présence de magie dans un ray
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Détection des pensées</Name>
+# <!--Name-->Détection des pensées<!--/Name-->
 
-- SRD: <AltName>[Detect Thoughts](spells_vo.md#detect-thoughts)</AltName>
+- SRD: <!--AltName-->[Detect Thoughts](spells_vo.md#detect-thoughts)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une pièce de cuivre)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pièce de cuivre)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2711,21 +2711,21 @@ Vous pouvez chercher les pensées qui se trouvent dans un rayon de 9 mètres aut
 
 Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez lire ses pensées pendant le reste de la durée du sort, comme expliqué plus haut, même si vous ne la voyez pas, mais elle doit tout de même se trouver à portée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Détection du mal et du bien</Name>
+# <!--Name-->Détection du mal et du bien<!--/Name-->
 
-- SRD: <AltName>[Detect Evil and Good](spells_vo.md#detect-evil-and-good)</AltName>
+- SRD: <!--AltName-->[Detect Evil and Good](spells_vo.md#detect-evil-and-good)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2733,21 +2733,21 @@ Pendant toute la durée du sort, vous savez s'il y a une aberration, un céleste
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Détection du poison et des maladies</Name>
+# <!--Name-->Détection du poison et des maladies<!--/Name-->
 
-- SRD: <AltName>[Detect Poison and Disease](spells_vo.md#detect-poison-and-disease)</AltName>
+- SRD: <!--AltName-->[Detect Poison and Disease](spells_vo.md#detect-poison-and-disease)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un brin d'if)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un brin d'if)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2755,21 +2755,21 @@ Pendant toute la durée du sort, vous percevez la présence de poisons, de créa
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Disque flottant</Name>
+# <!--Name-->Disque flottant<!--/Name-->
 
-- SRD: <AltName>[Floating Disk](spells_vo.md#floating-disk)</AltName>
+- SRD: <!--AltName-->[Floating Disk](spells_vo.md#floating-disk)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte de mercure)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte de mercure)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -2781,21 +2781,21 @@ Le disque reste immobile tant que vous vous tenez à moins de 6 mètres. Si vous
 
 Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il ne peut pas contourner un obstacle pour vous suivre), le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Dissipation de la magie</Name>
+# <!--Name-->Dissipation de la magie<!--/Name-->
 
-- SRD: <AltName>[Dispel Magic](spells_vo.md#dispel-magic)</AltName>
+- SRD: <!--AltName-->[Dispel Magic](spells_vo.md#dispel-magic)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Ombrelame], [Paladin], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2803,21 +2803,21 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous mettez automatiquement un terme à un sort affectant la cible quand le niveau de ce sort est égal ou inférieur au niveau de l'emplacement de sort que vous utilisez.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Dissipation du mal et du bien</Name>
+# <!--Name-->Dissipation du mal et du bien<!--/Name-->
 
-- SRD: <AltName>[Dispel Evil and Good](spells_vo.md#dispel-evil-and-good)</AltName>
+- SRD: <!--AltName-->[Dispel Evil and Good](spells_vo.md#dispel-evil-and-good)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (eau bénite ou poudre d'argent et de fer)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre d'argent et de fer)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2829,21 +2829,21 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 
 **_Renvoi._** Vous utilisez votre action pour faire une attaque de sort au corps-à-corps contre un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant situé à une distance inférieure ou égale à votre allonge. Si vous touchez la créature, vous tentez de la renvoyer sur son plan natal. Elle doit réussir un [jet de sauvegarde] de [Charisme] ou retourner sur son plan natal (si elle ne s'y trouve pas déjà). Si un mort-vivant ne se trouve pas sur son plan natal, il est renvoyé dans les plans inférieurs, tandis qu'une fée sera expulsée sur son plan d'origine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Divination</Name>
+# <!--Name-->Divination<!--/Name-->
 
-- SRD: <AltName>[Divination](spells_vo.md#divination)</AltName>
+- SRD: <!--AltName-->[Divination](spells_vo.md#divination)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>4</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->4<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de l'encens et une offrande sacrificielle adaptée à votre religion, l'ensemble valant au moins 25 po, et le sort consume les deux)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2853,21 +2853,21 @@ Le sort ne tient pas compte d'une éventuelle modification des circonstances sus
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d'une prémonition fiable. C'est au MJ de faire ce jet en secret.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Doigt de mort</Name>
+# <!--Name-->Doigt de mort<!--/Name-->
 
-- SRD: <AltName>[Finger of Death](spells_vo.md#finger-of-death)</AltName>
+- SRD: <!--AltName-->[Finger of Death](spells_vo.md#finger-of-death)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2875,21 +2875,21 @@ Vous envoyez de l'énergie négative dans le corps d'une créature située à po
 
 Si ce sort achève un humanoïde, ce dernier se relève au début de votre prochain tour sous forme de zombi à jamais sous votre contrôle. Il suit vos ordres verbaux au mieux de ses capacités.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Dominer un humanoïde</Name>
+# <!--Name-->Dominer un humanoïde<!--/Name-->
 
-- SRD: <AltName>[Dominate Person](spells_vo.md#dominate-person)</AltName>
+- SRD: <!--AltName-->[Dominate Person](spells_vo.md#dominate-person)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2909,21 +2909,21 @@ Si elle le réussit, le sort prend fin.
 
 Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devient « concentration, jusqu'à 8 heures ».
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Dominer un monstre</Name>
+# <!--Name-->Dominer un monstre<!--/Name-->
 
-- SRD: <AltName>[Dominate Monster](spells_vo.md#dominate-monster)</AltName>
+- SRD: <!--AltName-->[Dominate Monster](spells_vo.md#dominate-monster)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2941,21 +2941,21 @@ Si elle le réussit, le sort prend fin.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 9, la durée devient « concentration, jusqu'à 8 heures ».
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Dominer une bête</Name>
+# <!--Name-->Dominer une bête<!--/Name-->
 
-- SRD: <AltName>[Dominate Beast](spells_vo.md#dominate-beast)</AltName>
+- SRD: <!--AltName-->[Dominate Beast](spells_vo.md#dominate-beast)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2973,21 +2973,21 @@ Si elle le réussit, le sort prend fin.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5, la durée devient « concentration, jusqu'à 10 minutes ». Si vous lancez ce sort en utilisant un emplacement de niveau 6, la durée devient « concentration, jusqu'à 1 heure ». Si vous lancez ce sort en utilisant un emplacement de niveau 7, la durée devient « concentration, jusqu'à 8 heures ».
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Doux repos</Name>
+# <!--Name-->Doux repos<!--/Name-->
 
-- SRD: <AltName>[Gentle Repose](spells_vo.md#gentle-repose)</AltName>
+- SRD: <!--AltName-->[Gentle Repose](spells_vo.md#gentle-repose)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>2</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)</Components>
-- **Durée :** <Duration>10 jours</Duration>
-- Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de sel et une pièce de cuivre à poser sur chaque oeil du cadavre et qui doivent rester en place pendant toute la durée du sort)<!--/Components-->
+- **Durée :** <!--Duration-->10 jours<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -2995,21 +2995,21 @@ Vous touchez un cadavre ou des restes. Pendant toute la durée du sort, la cible
 
 Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'entre les morts, car les jours passés sous l'influence de ce sort ne sont pas décomptés de la période pendant laquelle on peut utiliser des sorts comme rappel à la vie.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Druidisme</Name>
+# <!--Name-->Druidisme<!--/Name-->
 
-- SRD: <AltName>[Druidcraft](spells_vo.md#druidcraft)</AltName>
+- SRD: <!--AltName-->[Druidcraft](spells_vo.md#druidcraft)<!--/AltName-->
 
-- <Type>Transmutation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3023,21 +3023,21 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 
 * Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Éclair</Name>
+# <!--Name-->Éclair<!--/Name-->
 
-- SRD: <AltName>[Lightning Bolt](spells_vo.md#lightning-bolt)</AltName>
+- SRD: <!--AltName-->[Lightning Bolt](spells_vo.md#lightning-bolt)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (ligne de 30 mètres)</Range>
-- **Composantes :** <Components>V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (ligne de 30 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu de fourrure et une baguette en ambre, en cristal ou en verre)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3049,19 +3049,19 @@ La foudre embrase les objets inflammables de la zone qui ne sont ni portés ni t
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Éclat de bois</Name>
+# <!--Name-->Éclat de bois<!--/Name-->
 
-- <Type>Invocation</Type> , <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une écharde de bois)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> , <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une écharde de bois)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3071,21 +3071,21 @@ Vous devez réussir une attaque de sort à distance pour toucher votre cible. En
 
 Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les niveaux 5, 11 et 17. Ces éclats peuvent viser différentes cibles à portée du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Éclat du soleil</Name>
+# <!--Name-->Éclat du soleil<!--/Name-->
 
-- SRD: <AltName>[Sunburst](spells_vo.md#sunburst)</AltName>
+- SRD: <!--AltName-->[Sunburst](spells_vo.md#sunburst)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (du feu et un éclat d'héliotrope)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (du feu et un éclat d'héliotrope)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3097,21 +3097,21 @@ Une créature [aveuglée] par le sort fait un autre jet de [Constitution] à la 
 
 Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Embruns prismatiques</Name>
+# <!--Name-->Embruns prismatiques<!--/Name-->
 
-- SRD: <AltName>[Prismatic Spray](spells_vo.md#prismatic-spray)</AltName>
+- SRD: <!--AltName-->[Prismatic Spray](spells_vo.md#prismatic-spray)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (cône de 18 mètres)</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (cône de 18 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3131,21 +3131,21 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 
 **_7. Violet._** La cible est [aveuglée] si elle rate son [jet de sauvegarde]. Elle doit alors faire un [jet de sauvegarde] de [Sagesse] au début de votre prochain tour. Si elle le réussit, elle recouvre la vue ; si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) 8. Spécial. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 8.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Emprisonnement</Name>
+# <!--Name-->Emprisonnement<!--/Name-->
 
-- SRD: <AltName>[Imprisonment](spells_vo.md#imprisonment)</AltName>
+- SRD: <!--AltName-->[Imprisonment](spells_vo.md#imprisonment)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3175,21 +3175,21 @@ _[Dissipation de la magie]_ peut mettre fin au sort à condition d'être lancée
 
 Vous pouvez utiliser une composante spéciale pour créer une prison à la fois seulement. Si vous relancez ce sort en utilisant la même composante, la cible de la première incantation est libérée sur-le-champ.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Enchevêtrement</Name>
+# <!--Name-->Enchevêtrement<!--/Name-->
 
-- SRD: <AltName>[Entangle](spells_vo.md#entangle)</AltName>
+- SRD: <!--AltName-->[Entangle](spells_vo.md#entangle)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3199,21 +3199,21 @@ Une créature qui se trouve dans la zone affectée lorsque vous lancez le sort d
 
 Quand le sort se termine, les plantes invoquées flétrissent.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Entrave planaire</Name>
+# <!--Name-->Entrave planaire<!--/Name-->
 
-- SRD: <AltName>[Planar Binding](spells_vo.md#planar-binding)</AltName>
+- SRD: <!--AltName-->[Planar Binding](spells_vo.md#planar-binding)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bijou d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3223,21 +3223,21 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau supérieur, la durée augmente : 10 jours au niveau 6, 30 au niveau 7, 180 au niveau 8 et 1 an et 1 jour au niveau 9.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Envoi de message</Name>
+# <!--Name-->Envoi de message<!--/Name-->
 
-- SRD: <AltName>[Sending](spells_vo.md#sending)</AltName>
+- SRD: <!--AltName-->[Sending](spells_vo.md#sending)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>illimitée</Range>
-- **Composantes :** <Components>V, S, M (un petit bout de fil de cuivre)</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->illimitée<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit bout de fil de cuivre)<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3245,79 +3245,79 @@ Vous envoyez un court message d'au maximum vingtcinq mots à une créature qui v
 
 Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un autre plan d'existence, mais il y a 5 % de chances, si la cible est sur un autre plan, que le message ne lui parvienne pas.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Envoûtement</Name>
+# <!--Name-->Envoûtement<!--/Name-->
 
-- SRD: <AltName>[Enthrall](spells_vo.md#enthrall)</AltName>
+- SRD: <!--AltName-->[Enthrall](spells_vo.md#enthrall)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Barde], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un [jet de sauvegarde] de [Sagesse]. Une créature qui ne peut pas être [charmée] réussit automatiquement ce [jet de sauvegarde]. Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un avantage lors du [jet de sauvegarde]. Si la créature rate son jet, elle subit un désavantage lors des tests de [Sagesse (Perception)] destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [neutralisé] ou dans l'incapacité de parler.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Épargner les mourants</Name>
+# <!--Name-->Épargner les mourants<!--/Name-->
 
-- SRD: <AltName>[Spare the Dying](spells_vo.md#spare-the-dying)</AltName>
+- SRD: <!--AltName-->[Spare the Dying](spells_vo.md#spare-the-dying)<!--/AltName-->
 
-- <Type>Nécromancie</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Épée du juste</Name>
+# <!--Name-->Épée du juste<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Votre épée devient une épée de justice pour toute la durée du sort. Elle bénéficie donc d'un bonus de +3 aux jets d'attaque et aux dégâts, inflige 2d10 dégâts radiants supplémentaires contre les fiélons et les morts-vivants, et crée une aura de 3 mètres de rayon octroyant à vos alliés qui s'y trouvent un avantage aux [jets de sauvegarde] contre les sorts et effets magiques. De plus, lorsque l'épée de justice blesse pour la première fois un fiélon ayant un nombre de DV inférieur ou égal au vôtre, celui-ci doit réussir un [jet de sauvegarde] de [Charisme] sous peine de disparaître aussitôt et d'être contraint de retourner à son plan d'origine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Épée magique</Name>
+# <!--Name-->Épée magique<!--/Name-->
 
-- SRD: <AltName>[Arcane Sword](spells_vo.md#arcane-sword)</AltName>
+- SRD: <!--AltName-->[Arcane Sword](spells_vo.md#arcane-sword)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une épée en platine miniature avec le pommeau et la poignée en cuivre et zinc, d'une valeur de 250 po)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3325,21 +3325,21 @@ Vous créez un plan de force en forme d'épée qui plane à portée et persiste 
 
 Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps contre une cible de votre choix située dans un rayon de 1,50 mètre autour de l'épée. Si l'épée touche, la cible subit 3d10 dégâts de force. Tant que le sort n'est pas terminé, vous pouvez dépenser une action bonus à chacun de vos tours pour déplacer l'épée d'un maximum de 6 mètres afin de la conduire à un endroit situé dans votre champ de vision, puis répéter l'attaque contre la même cible ou une autre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Esprit faible</Name>
+# <!--Name-->Esprit faible<!--/Name-->
 
-- SRD: <AltName>[Feeblemind](spells_vo.md#feeblemind)</AltName>
+- SRD: <!--AltName-->[Feeblemind](spells_vo.md#feeblemind)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une poignée de sphères en argile, en cristal, en verre ou minérales)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3349,41 +3349,41 @@ Si la cible rate son jet, son [Intelligence] et son [Charisme] tombent à 1. Ell
 
 La créature peut refaire un [jet de sauvegarde] tous les 30 jours. Le sort se termine dès qu'elle réussit. On peut aussi mettre un terme à ce sort grâce à l'un des sorts suivants : _[restauration supérieure]_, _[guérison]_ ou _[souhait]_.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Esprit impénétrable</Name>
+# <!--Name-->Esprit impénétrable<!--/Name-->
 
-- SRD: <AltName>[Mind Blank](spells_vo.md#mind-blank)</AltName>
+- SRD: <!--AltName-->[Mind Blank](spells_vo.md#mind-blank)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l'état [charmé]. Ce sort déjoue même les _[souhaits]_ et les sorts et effets de même puissance qui cherchent à affecter l'esprit de la cible ou à obtenir des informations à son propos.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Esprits gardiens</Name>
+# <!--Name-->Esprits gardiens<!--/Name-->
 
-- SRD: <AltName>[Spirit Guardians](spells_vo.md#spirit-guardians)</AltName>
+- SRD: <!--AltName-->[Spirit Guardians](spells_vo.md#spirit-guardians)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (4,5 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S M (un symbole sacré)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (4,5 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S M (un symbole sacré)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3395,41 +3395,41 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Étrangeté</Name>
+# <!--Name-->Étrangeté<!--/Name-->
 
-- SRD: <AltName>[Weird](spells_vo.md#weird)</AltName>
+- SRD: <!--AltName-->[Weird](spells_vo.md#weird)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous puisez dans les peurs les plus profondes d'un groupe de créatures et créez des êtres illusoires dans leurs esprits, qu'elles sont les seules à voir. Chaque créature située dans une sphère de 9 mètres de rayon centrée sur un point de votre choix situé à portée doit réussir un [jet de sauvegarde] de [Sagesse] ou être [terrorisée] pendant toute la durée du sort. Les illusions se basent sur les peurs enfouies en chaque cible et transforment leurs pires cauchemars en menace implacable. À la fin de chacun de ses tours, une créature [terrorisée] doit effectuer un [jet de sauvegarde] de [Sagesse]. Si elle échoue, elle subit 4d10 dégâts psychiques. Si elle réussit, le sort se termine pour elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Éveil</Name>
+# <!--Name-->Éveil<!--/Name-->
 
-- SRD: <AltName>[Awaken](spells_vo.md#awaken)</AltName>
+- SRD: <!--AltName-->[Awaken](spells_vo.md#awaken)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>8 heures</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->8 heures<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une agate d'une valeur minimale de 1 000 po, que le sort consomme)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3439,57 +3439,57 @@ C'est au MJ de choisir les caractéristiques appropriées à la plante éveillé
 
 La bête ou la plante éveillée est considérée [charmée] par vous pendant 30 jours ou jusqu'à ce que vous ou l'un de vos compagnons la blessiez. Une fois que cet effet se termine, la créature éveillée décide seule si elle reste amicale envers vous, selon la façon dont vous l'avez traitée lorsqu'elle était [charmée].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Excavation</Name>
+# <!--Name-->Excavation<!--/Name-->
 
-- <Type>Transmutation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une cuillère)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une cuillère)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous créez un passage de 1,50 mètre de côté et de 15 mètres de profondeur dans la pierre ou la terre (de la roche ou un mur) et dans le bois, mais pas dans le métal. Le passage créé est permanent et l'effet du sort ne peut être dissipé. Plusieurs incantations du sort permettent de de former des tunnels souterrains ne nécessitant pas d'étaiement. Vous pouvez orienter le tunnel dans la direction de votre choix.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Expiation du juste</Name>
+# <!--Name-->Expiation du juste<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, vous lancez un ordre de repentir sur la créature que vous frappez. Sur cette attaque, elle subit 3d8 dégâts psychiques, écrasée par le poids de ses péchés et la culpabilité. En outre, elle doit réussir un [jet de sauvegarde] de [Sagesse] ou être [étourdie] jusqu'à la fin de son prochain tour et subir un désavantage à tous ses tests de [Sagesse] pour une minute.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Explosion occulte</Name>
+# <!--Name-->Explosion occulte<!--/Name-->
 
-- SRD: <AltName>[Eldritch Blast](spells_vo.md#eldritch-blast)</AltName>
+- SRD: <!--AltName-->[Eldritch Blast](spells_vo.md#eldritch-blast)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3497,21 +3497,21 @@ Un éclair d'énergie crépitante file vers une créature à portée. Faites un 
 
 Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux : deux rayons au niveau 5, trois au niveau 11 et quatre au niveau 17. Vous pouvez diriger tous les rayons sur une même cible ou les répartir entre plusieurs. Faites un jet d'attaque distinct pour chacun.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Fabrication</Name>
+# <!--Name-->Fabrication<!--/Name-->
 
-- SRD: <AltName>[Fabricate](spells_vo.md#fabricate)</AltName>
+- SRD: <!--AltName-->[Fabricate](spells_vo.md#fabricate)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3521,41 +3521,41 @@ Choisissez des matériaux bruts situés à portée et dans votre champ de vision
 
 Il est impossible de créer ou de transmuter des créatures ou des objets magiques à l'aide de ce sort. Vous ne pouvez pas non plus y recourir pour fabriquer des objets demandant un haut degré d'expertise, comme des bijoux, des armes, du verre ou une armure, à moins que vous n'ayez la maîtrise des outils d'artisan nécessaires à l'élaboration de tels objets.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Façonnage de la pierre</Name>
+# <!--Name-->Façonnage de la pierre<!--/Name-->
 
-- SRD: <AltName>[Stone Shape](spells_vo.md#stone-shape)</AltName>
+- SRD: <!--AltName-->[Stone Shape](spells_vo.md#stone-shape)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (argile molle, à façonner pour lui donner approximativement la forme de l'objet de pierre désiré)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez un objet de pierre de taille M ou inférieure ou une section de pierre d'un maximum de 1,50 mètre dans toutes les dimensions et lui donnez la forme que vous désirez. Vous pouvez, par exemple, façonner un gros caillou de manière à en faire une arme, une idole ou un coffre, ou bien creuser un étroit passage dans un mur, à condition que ce dernier ne fasse pas plus de 1,50 mètre d'épaisseur. Vous pouvez façonner une porte de pierre ou son chambranle pour la sceller. L'objet créé peut avoir au maximum deux charnières et un loquet, mais il est impossible de créer des mécanismes plus complexes.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Faveur divine</Name>
+# <!--Name-->Faveur divine<!--/Name-->
 
-- SRD: <AltName>[Divine Favor](spells_vo.md#divine-favor)</AltName>
+- SRD: <!--AltName-->[Divine Favor](spells_vo.md#divine-favor)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3563,21 +3563,21 @@ Vos prières vous imprègnent d'une aura radieuse.
 
 Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d4 dégâts radiants supplémentaires en cas de coup au but.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Festin des héros</Name>
+# <!--Name-->Festin des héros<!--/Name-->
 
-- SRD: <AltName>[Heroes' Feast](spells_vo.md#heroes-feast)</AltName>
+- SRD: <!--AltName-->[Heroes' Feast](spells_vo.md#heroes-feast)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bol incrusté de gemmes d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3587,19 +3587,19 @@ Une créature qui participe au festin en retire plusieurs bénéfices. Elle est 
 
 Son maximum de points de vie augmente de 2d10 et elle gagne le même nombre de points de vie. Ces bénéfices persistent pendant 24 heures.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Flamboiement funeste</Name>
+# <!--Name-->Flamboiement funeste<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (morceau d'onyx)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (morceau d'onyx)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3609,41 +3609,41 @@ Chaque créature dans la zone doit réussir un [jet de sauvegarde] de [Dextérit
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque emplacement au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Flamme éternelle</Name>
+# <!--Name-->Flamme éternelle<!--/Name-->
 
-- SRD: <AltName>[Continual Flame](spells_vo.md#continual-flame)</AltName>
+- SRD: <!--AltName-->[Continual Flame](spells_vo.md#continual-flame)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (poussière de rubis d'une valeur de 50 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Une flamme à la luminosité égale à celle d'une torche embrase soudain l'objet que vous touchez. L'effet du sort ressemble à une flamme ordinaire, mais ne dégage pas de chaleur et ne consomme pas d'oxygène. On peut couvrir ou cacher la flamme éternelle, mais pas l'étouffer ni l'éteindre avec de l'eau.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Flamme sacrée</Name>
+# <!--Name-->Flamme sacrée<!--/Name-->
 
-- SRD: <AltName>[Sacred Flame](spells_vo.md#sacred-flame)</AltName>
+- SRD: <!--AltName-->[Sacred Flame](spells_vo.md#sacred-flame)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3653,21 +3653,21 @@ Même si elle se trouve derrière un abri, la cible ne bénéficie pas d'un avan
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Fléau</Name>
+# <!--Name-->Fléau<!--/Name-->
 
-- SRD: <AltName>[Bane](spells_vo.md#bane)</AltName>
+- SRD: <!--AltName-->[Bane](spells_vo.md#bane)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte de sang)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte de sang)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3677,21 +3677,21 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Fléau d'insectes</Name>
+# <!--Name-->Fléau d'insectes<!--/Name-->
 
-- SRD: <AltName>[Insect Plague](spells_vo.md#insect-plague)</AltName>
+- SRD: <!--AltName-->[Insect Plague](spells_vo.md#insect-plague)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>90 mètres</Range>
-- **Composantes :** <Components>V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->90 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu de sucre en poudre, quelques graines de céréales et une tache de graisse)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3703,21 +3703,21 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Flèche acide</Name>
+# <!--Name-->Flèche acide<!--/Name-->
 
-- SRD: <AltName>[Acid Arrow](spells_vo.md#acid-arrow)</AltName>
+- SRD: <!--AltName-->[Acid Arrow](spells_vo.md#acid-arrow)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (poudre de feuille de rhubarbe et estomac de vipère)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (poudre de feuille de rhubarbe et estomac de vipère)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3725,21 +3725,21 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 
 **_À plus haut niveau._** Quand vous utilisez ce sort via un emplacement de niveau 3 ou supérieur, les dégâts initiaux et secondaires augmentent de 1d4 par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Flétrissement</Name>
+# <!--Name-->Flétrissement<!--/Name-->
 
-- SRD: <AltName>[Blight](spells_vo.md#blight)</AltName>
+- SRD: <!--AltName-->[Blight](spells_vo.md#blight)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3749,41 +3749,41 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Flou</Name>
+# <!--Name-->Flou<!--/Name-->
 
-- SRD: <AltName>[Blur](spells_vo.md#blur)</AltName>
+- SRD: <!--AltName-->[Blur](spells_vo.md#blur)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un désavantage lorsqu'elles font un jet d'attaque contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Forme éthérée</Name>
+# <!--Name-->Forme éthérée<!--/Name-->
 
-- SRD: <AltName>[Etherealness](spells_vo.md#etherealness)</AltName>
+- SRD: <!--AltName-->[Etherealness](spells_vo.md#etherealness)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>jusqu'à 8 heures</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à 8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3799,21 +3799,21 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 8 ou supérieur, vous pouvez affecter jusqu'à trois créatures consentantes (vous y compris) par niveau au-delà du niveau 7. Toutes ces créatures doivent se trouver dans un rayon de 3 mètres autour de vous quand vous lancez le sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Forme gazeuse</Name>
+# <!--Name-->Forme gazeuse<!--/Name-->
 
-- SRD: <AltName>[Gaseous Form](spells_vo.md#gaseous-form)</AltName>
+- SRD: <!--AltName-->[Gaseous Form](spells_vo.md#gaseous-form)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un morceau de gaze et une volute de fumée)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un morceau de gaze et une volute de fumée)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3825,21 +3825,21 @@ En revanche, les liquides équivalent pour elle à des surfaces solides. Elle ne
 
 Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. Il lui est impossible de lâcher les objets qu'elle portait et qu'elle transportait, et personne ne peut les utiliser ni interagir avec eux. Elle ne peut pas attaquer ni lancer de sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Formes animales</Name>
+# <!--Name-->Formes animales<!--/Name-->
 
-- SRD: <AltName>[Animal Shapes](spells_vo.md#animal-shapes)</AltName>
+- SRD: <!--AltName-->[Animal Shapes](spells_vo.md#animal-shapes)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 24 heures</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3849,21 +3849,21 @@ La transformation persiste pour chaque cible pendant toute la durée du sort ou 
 
 L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas activer ni manier la moindre pièce d'équipement et n'obtient pas les bénéfices qui en découlent habituellement.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Fou rire</Name>
+# <!--Name-->Fou rire<!--/Name-->
 
-- SRD: <AltName>[Hideous Laughter](spells_vo.md#hideous-laughter)</AltName>
+- SRD: <!--AltName-->[Hideous Laughter](spells_vo.md#hideous-laughter)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (de minuscules tartes et une plume à agiter dans les airs)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de minuscules tartes et une plume à agiter dans les airs)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3871,19 +3871,19 @@ Une créature de votre choix située à portée et dans votre champ de vision tr
 
 À la fin de chacun de ses tours et à chaque fois qu'elle subit des dégâts, la cible a droit à un nouveau [jet de sauvegarde] de [Sagesse]. Elle bénéficie d'un avantage lors de ce jet si ce sont des dégâts qui l'ont provoqué. Si le jet est réussi, le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Frappe du juste</Name>
+# <!--Name-->Frappe du juste<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3899,21 +3899,21 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous infligez 1d6 points de dégât par niveau d'emplacement de sort au-dessus du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Frappe lumineuse</Name>
+# <!--Name-->Frappe lumineuse<!--/Name-->
 
-- SRD: <AltName>[Branding Smite](spells_vo.md#branding-smite)</AltName>
+- SRD: <!--AltName-->[Branding Smite](spells_vo.md#branding-smite)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3921,21 +3921,21 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d6 par emplacement de sort au-dessus du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Fusion dans la pierre</Name>
+# <!--Name-->Fusion dans la pierre<!--/Name-->
 
-- SRD: <AltName>[Meld into Stone](spells_vo.md#meld-into-stone)</AltName>
+- SRD: <!--AltName-->[Meld into Stone](spells_vo.md#meld-into-stone)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3947,21 +3947,21 @@ Vous restez conscient du temps qui passe et vous pouvez lancer des sorts à port
 
 Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle est partiellement détruite ou change de forme (au point que vous ne tenez plus entièrement à l'intérieur), elle vous expulse et vous subissez 6d6 dégâts contondants. Si la pierre est complètement détruite (ou transmutée en une substance différente), elle vous expulse et vous subissez 50 dégâts contondants. Si vous vous faites expulser de la pierre, vous vous retrouvez à terre dans l'emplacement inoccupé le plus proche de celui par lequel vous êtes entré dans la roche.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Gardien de la foi</Name>
+# <!--Name-->Gardien de la foi<!--/Name-->
 
-- SRD: <AltName>[Guardian of Faith](spells_vo.md#guardian-of-faith)</AltName>
+- SRD: <!--AltName-->[Guardian of Faith](spells_vo.md#guardian-of-faith)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -3969,19 +3969,19 @@ Durée d'incantation : 1 action Un gardien spectral de taille G apparaît et flo
 
 Toute créature hostile envers vous qui entre dans un emplacement situé dans un rayon de 3 mètres autour du gardien pour la première fois de son tour doit réussir un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 20 dégâts radiant, la moitié seulement si elle réussit. Le gardien disparaît dès qu'il a infligé un total de 60 dégâts.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Geyser d'énergie</Name>
+# <!--Name-->Geyser d'énergie<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (une petite poire remplie d'air)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite poire remplie d'air)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -3991,21 +3991,21 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d8 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Globe d'invulnérabilité</Name>
+# <!--Name-->Globe d'invulnérabilité<!--/Name-->
 
-- SRD: <AltName>[Globe of Invulnerability](spells_vo.md#globe-of-invulnerability)</AltName>
+- SRD: <!--AltName-->[Globe of Invulnerability](spells_vo.md#globe-of-invulnerability)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (3 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une perle de verre ou de cristal qui explose à la fin du sort)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -4015,21 +4015,21 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la barrière bloque les sorts d'un niveau de plus par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Glyphe de protection</Name>
+# <!--Name-->Glyphe de protection<!--/Name-->
 
-- SRD: <AltName>[Glyph of Warding](spells_vo.md#glyph-of-warding)</AltName>
+- SRD: <!--AltName-->[Glyph of Warding](spells_vo.md#glyph-of-warding)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation ou déclenchement</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (encens et poudre de diamant d'une valeur minimale de 200 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation ou déclenchement<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4051,41 +4051,41 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts des runes explosives augmentent de 1d8 par niveau au-delà du niveau 3. Si vous créez un glyphe à sort, vous pouvez stocker un sort d'un niveau égal ou inférieur à celui employé pour lancer le glyphe.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Gourdin magique</Name>
+# <!--Name-->Gourdin magique<!--/Name-->
 
-- SRD: <AltName>[Shillelagh](spells_vo.md#shillelagh)</AltName>
+- SRD: <!--AltName-->[Shillelagh](spells_vo.md#shillelagh)<!--/AltName-->
 
-- <Type>Transmutation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre [Force] pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Le dé de dégâts de l'arme devient un d8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Graisse</Name>
+# <!--Name-->Graisse<!--/Name-->
 
-- SRD: <AltName>[Grease](spells_vo.md#grease)</AltName>
+- SRD: <!--AltName-->[Grease](spells_vo.md#grease)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (de la couenne de porc ou du beurre)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de la couenne de porc ou du beurre)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4093,21 +4093,21 @@ Une couche de graisse particulièrement glissante recouvre le sol dans une zone 
 
 Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affectée doit réussir un [jet de sauvegarde] de [Dextérité] ou tomber à terre. Une créature qui entre dans la zone ou y termine son tour doit aussi réussir ce jet sous peine de se retrouver à terre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Grande foulée</Name>
+# <!--Name-->Grande foulée<!--/Name-->
 
-- SRD: <AltName>[Longstrider](spells_vo.md#longstrider)</AltName>
+- SRD: <!--AltName-->[Longstrider](spells_vo.md#longstrider)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poussière)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Druide], [Magicien], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poussière)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Magicien], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4115,21 +4115,21 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Guérison</Name>
+# <!--Name-->Guérison<!--/Name-->
 
-- SRD: <AltName>[Heal](spells_vo.md#heal)</AltName>
+- SRD: <!--AltName-->[Heal](spells_vo.md#heal)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4137,21 +4137,21 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la quantité de soins prodigués augmente de 10 points par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Guérison de groupe</Name>
+# <!--Name-->Guérison de groupe<!--/Name-->
 
-- SRD: <AltName>[Mass Heal](spells_vo.md#mass-heal)</AltName>
+- SRD: <!--AltName-->[Mass Heal](spells_vo.md#mass-heal)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4159,19 +4159,19 @@ Un flot d'énergie curative émane de vous et enveloppe les créatures blessées
 
 Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des états [assourdi] ou [aveuglé]. Ce sort n'a aucun effet sur les morts-vivants et sur les créatures artificielles.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Harmonique miraculeuse</Name>
+# <!--Name-->Harmonique miraculeuse<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>12 mètres</Range>
-- **Composantes :** <Components>V, S, M (un verre en cristal d'une valeur de 500 po)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->12 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un verre en cristal d'une valeur de 500 po)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -4179,21 +4179,21 @@ Vous effleurez le bord d'un verre, et le corps de vos alliés à portée et capa
 
 Enfin, le sort met un terme aux effets de réduction des points de vie maximum provoqué par certaines créatures (momie, spectre, vampire, etc.) ainsi qu'aux états [charmé] et [pétrifié].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Hâte</Name>
+# <!--Name-->Hâte<!--/Name-->
 
-- SRD: <AltName>[Haste](spells_vo.md#haste)</AltName>
+- SRD: <!--AltName-->[Haste](spells_vo.md#haste)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un copeau de racine de réglisse)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un copeau de racine de réglisse)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4201,21 +4201,21 @@ Choisissez une créature consentante située à portée et dans votre champ de v
 
 Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une action avant que son prochain tour ne se soit écoulé, car une vague de léthargie déferle sur elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Héroïsme</Name>
+# <!--Name-->Héroïsme<!--/Name-->
 
-- SRD: <AltName>[Heroism](spells_vo.md#heroism)</AltName>
+- SRD: <!--AltName-->[Heroism](spells_vo.md#heroism)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4223,21 +4223,21 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Identification</Name>
+# <!--Name-->Identification<!--/Name-->
 
-- SRD: <AltName>[Identify](spells_vo.md#identify)</AltName>
+- SRD: <!--AltName-->[Identify](spells_vo.md#identify)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une perle d'une valeur minimale de 100 po et une plume de hibou)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4245,21 +4245,21 @@ Vous choisissez un objet avec lequel vous devez rester en contact pendant toute 
 
 Si, à la place, vous touchez une créature pendant toute l'incantation, vous découvrez quels sorts l'affectent présentement, le cas échéant.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Illusion mineure</Name>
+# <!--Name-->Illusion mineure<!--/Name-->
 
-- SRD: <AltName>[Minor Illusion](spells_vo.md#minor-illusion)</AltName>
+- SRD: <!--AltName-->[Minor Illusion](spells_vo.md#minor-illusion)<!--/AltName-->
 
-- <Type>Illusion</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>S, M (un morceau de toison)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->S, M (un morceau de toison)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4271,21 +4271,21 @@ Si vous créez une image (comme une chaise, des empreintes boueuses ou un petit 
 
 Si une créature utilise son action pour examiner le son ou l'image, elle comprend qu'il s'agit d'une illusion si elle réussit un test d'[Intelligence (Investigation)] opposé au DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, celle-ci perd toute substance pour elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Illusion programmée</Name>
+# <!--Name-->Illusion programmée<!--/Name-->
 
-- SRD: <AltName>[Programmed Illusion](spells_vo.md#programmed-illusion)</AltName>
+- SRD: <!--AltName-->[Programmed Illusion](spells_vo.md#programmed-illusion)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un morceau de toison et de la poussière de jade d'une valeur de 25 po)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4297,21 +4297,21 @@ Les conditions de déclenchement peuvent être aussi génériques ou détaillée
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Image majeure</Name>
+# <!--Name-->Image majeure<!--/Name-->
 
-- SRD: <AltName>[Major Image](spells_vo.md#major-image)</AltName>
+- SRD: <!--AltName-->[Major Image](spells_vo.md#major-image)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un morceau de toison)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un morceau de toison)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4323,21 +4323,21 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, le sort persiste jusqu'à dissipation, sans que vous ayez besoin de vous concentrer.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Image miroir</Name>
+# <!--Name-->Image miroir<!--/Name-->
 
-- SRD: <AltName>[Mirror Image](spells_vo.md#mirror-image)</AltName>
+- SRD: <!--AltName-->[Mirror Image](spells_vo.md#mirror-image)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4355,21 +4355,21 @@ Le sort se termine si les trois répliques sont détruites.
 
 Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se sert d'un mode de perception autre que la vue (comme la vision aveugle) ou encore si elle perçoit les illusions comme telles, avec vision parfaite, par exemple.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Image projetée</Name>
+# <!--Name-->Image projetée<!--/Name-->
 
-- SRD: <AltName>[Project Image](spells_vo.md#project-image)</AltName>
+- SRD: <!--AltName-->[Project Image](spells_vo.md#project-image)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>750 kilomètres</Range>
-- **Composantes :** <Components>V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 jour</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->750 kilomètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite réplique de votre personne construite avec des matériaux valant au moins 5 po)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 jour<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4381,21 +4381,21 @@ Vous pouvez entendre et voir par l'intermédiaire des oreilles et des yeux de vo
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion, à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image et les sons produits par l'illusion sonnent creux à ses oreilles.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Image silencieuse</Name>
+# <!--Name-->Image silencieuse<!--/Name-->
 
-- SRD: <AltName>[Silent Image](spells_vo.md#silent-image)</AltName>
+- SRD: <!--AltName-->[Silent Image](spells_vo.md#silent-image)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un morceau de toison)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un morceau de toison)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4405,21 +4405,21 @@ Vous pouvez utiliser votre action pour déplacer l'image vers un autre point à 
 
 Les interactions physiques révèlent que l'image n'est qu'une illusion, car les objets la traversent. Si une créature utilise son action pour examiner l'image, elle comprend que c'est une illusion à condition de réussir un test d'[Intelligence (Investigation)] contre le DD du [jet de sauvegarde] de votre sort. Si une créature perce l'illusion à jour, elle voit à travers l'image.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Immobiliser un humanoïde</Name>
+# <!--Name-->Immobiliser un humanoïde<!--/Name-->
 
-- SRD: <AltName>[Hold Person](spells_vo.md#hold-person)</AltName>
+- SRD: <!--AltName-->[Hold Person](spells_vo.md#hold-person)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit morceau de fer bien droit)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit morceau de fer bien droit)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4427,21 +4427,21 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser un humanoïde de plus par niveau au-delà du niveau 2. Les humanoïdes visés doivent se trouver à 9 mètres ou moins les uns des autres au moment où vous lancez le sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Immobiliser un monstre</Name>
+# <!--Name-->Immobiliser un monstre<!--/Name-->
 
-- SRD: <AltName>[Hold Monster](spells_vo.md#hold-monster)</AltName>
+- SRD: <!--AltName-->[Hold Monster](spells_vo.md#hold-monster)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit morceau de fer bien droit)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit morceau de fer bien droit)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4451,21 +4451,21 @@ Choisissez une créature située à portée et dans votre champ de vision. Elle 
 
 Les créatures visées doivent se trouver à 9 mètres ou moins les unes des autres au moment où vous lancez le sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Injonction</Name>
+# <!--Name-->Injonction<!--/Name-->
 
-- SRD: <AltName>[Command](spells_vo.md#command)</AltName>
+- SRD: <!--AltName-->[Command](spells_vo.md#command)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4485,21 +4485,21 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau 1. Ces créatures doivent toutes se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Insecte géant</Name>
+# <!--Name-->Insecte géant<!--/Name-->
 
-- SRD: <AltName>[Giant Insect](spells_vo.md#giant-insect)</AltName>
+- SRD: <!--AltName-->[Giant Insect](spells_vo.md#giant-insect)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4513,19 +4513,19 @@ Le MJ peut vous autoriser à choisir une cible différente.
 
 Par exemple, si vous transformez une abeille, sa version géante peut disposer du même profil technique qu'une guêpe géante.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Instrument fantomatique</Name>
+# <!--Name-->Instrument fantomatique<!--/Name-->
 
-- <Type>Illusion</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un archet et un morceau d'os)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un archet et un morceau d'os)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -4535,21 +4535,21 @@ Au début de chacun de ses tours, la créature doit réussir un [jet de sauvegar
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Interdiction</Name>
+# <!--Name-->Interdiction<!--/Name-->
 
-- SRD: <AltName>[Forbiddance](spells_vo.md#forbiddance)</AltName>
+- SRD: <!--AltName-->[Forbiddance](spells_vo.md#forbiddance)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>6</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)</Components>
-- **Durée :** <Duration>1 jour</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->6<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1 000 po)<!--/Components-->
+- **Durée :** <!--Duration-->1 jour<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4565,21 +4565,21 @@ Vous pouvez décider d'un mot de passe lors de l'incantation du sort. Si une cr�
 
 La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'interdiction. Si vous lancez interdiction tous les jours pendant 30 jours au même endroit, le sort persiste jusqu'à dissipation et les composantes matérielles sont consommées lors de la dernière incantation.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Inversion de la gravité</Name>
+# <!--Name-->Inversion de la gravité<!--/Name-->
 
-- SRD: <AltName>[Reverse Gravity](spells_vo.md#reverse-gravity)</AltName>
+- SRD: <!--AltName-->[Reverse Gravity](spells_vo.md#reverse-gravity)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>30 mètres</Range>
-- **Composantes :** <Components>V, S, M (de la magnétite et de la limaille de fer)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->30 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de la magnétite et de la limaille de fer)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4589,21 +4589,21 @@ Si un objet solide (comme un plafond) se trouve sur la trajectoire de la chute, 
 
 Une fois la durée du sort écoulée, les objets et les créatures affectés retombent au sol.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invisibilité</Name>
+# <!--Name-->Invisibilité<!--/Name-->
 
-- SRD: <AltName>[Invisibility](spells_vo.md#invisibility)</AltName>
+- SRD: <!--AltName-->[Invisibility](spells_vo.md#invisibility)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un cil enrobé de gomme arabique)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un cil enrobé de gomme arabique)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4611,41 +4611,41 @@ La créature que vous touchez devient [invisible] jusqu'à la fin du sort. Tout 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invisibilité supérieure</Name>
+# <!--Name-->Invisibilité supérieure<!--/Name-->
 
-- SRD: <AltName>[Greater Invisibility](spells_vo.md#greater-invisibility)</AltName>
+- SRD: <!--AltName-->[Greater Invisibility](spells_vo.md#greater-invisibility)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous devenez [invisible] jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [invisible] tant que les objets restent sur sa personne.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invoquer des animaux</Name>
+# <!--Name-->Invoquer des animaux<!--/Name-->
 
-- SRD: <AltName>[Conjure Animals](spells_vo.md#conjure-animals)</AltName>
+- SRD: <!--AltName-->[Conjure Animals](spells_vo.md#conjure-animals)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4669,21 +4669,21 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 5, trois fois plus pour un emplacement de niveau 7 et quatre fois plus pour un emplacement de niveau 9.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invoquer des élémentaires mineurs</Name>
+# <!--Name-->Invoquer des élémentaires mineurs<!--/Name-->
 
-- SRD: <AltName>[Conjure Minor Elementals](spells_vo.md#conjure-minor-elementals)</AltName>
+- SRD: <!--AltName-->[Conjure Minor Elementals](spells_vo.md#conjure-minor-elementals)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4705,21 +4705,21 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 6 et trois fois plus pour un emplacement de niveau 8.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invoquer des êtres des bois</Name>
+# <!--Name-->Invoquer des êtres des bois<!--/Name-->
 
-- SRD: <AltName>[Conjure Woodland Beings](spells_vo.md#conjure-woodland-beings)</AltName>
+- SRD: <!--AltName-->[Conjure Woodland Beings](spells_vo.md#conjure-woodland-beings)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une baie de houx par créature invoquée)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une baie de houx par créature invoquée)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4741,21 +4741,21 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau 6, et trois fois plus pour un emplacement de niveau 8.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invoquer un céleste</Name>
+# <!--Name-->Invoquer un céleste<!--/Name-->
 
-- SRD: <AltName>[Conjure Celestial](spells_vo.md#conjure-celestial)</AltName>
+- SRD: <!--AltName-->[Conjure Celestial](spells_vo.md#conjure-celestial)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4771,21 +4771,21 @@ C'est le MJ qui dispose du profil technique du céleste.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 9 ou supérieur, vous invoquez un céleste doté d'un indice de dangerosité inférieur ou égal à 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invoquer un élémentaire</Name>
+# <!--Name-->Invoquer un élémentaire<!--/Name-->
 
-- SRD: <AltName>[Conjure Elemental](spells_vo.md#conjure-elemental)</AltName>
+- SRD: <!--AltName-->[Conjure Elemental](spells_vo.md#conjure-elemental)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4801,21 +4801,21 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Invoquer une fée</Name>
+# <!--Name-->Invoquer une fée<!--/Name-->
 
-- SRD: <AltName>[Conjure Fey](spells_vo.md#conjure-fey)</AltName>
+- SRD: <!--AltName-->[Conjure Fey](spells_vo.md#conjure-fey)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4829,21 +4829,21 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Jeter une malédiction</Name>
+# <!--Name-->Jeter une malédiction<!--/Name-->
 
-- SRD: <AltName>[Bestow curse](spells_vo.md#bestow-curse)</AltName>
+- SRD: <!--AltName-->[Bestow curse](spells_vo.md#bestow-curse)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4863,39 +4863,39 @@ Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, le sort fait effet tant que vous vous concentrez, sans dépasser un maximum de 10 minutes. Si vous utilisez un emplacement de niveau 5 ou supérieur, la durée est de 8 heures, tandis qu'elle passe à 24 heures si vous utilisez un emplacement de sort de niveau 7 ou plus. Si vous utilisez un emplacement de niveau 9, le sort persiste jusqu'à ce qu'il soit dissipé. L'utilisation d'un emplacement de niveau 5 ou plus vous dispense de vous concentrer.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Jugement dernier</Name>
+# <!--Name-->Jugement dernier<!--/Name-->
 
-- <Type>Nécromancie</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 m</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 m<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de votre choix à portée. Toute créature située dans la sphère doit réussir un [jet de sauvegarde] de [Charisme] ou subir 4d8 points de dégâts radiants. Si la créature est une créature céleste, un fiélon ou un mort-vivant les dégâts sont doublées et la créature est [aveuglée] pour 1 round. En cas de réussite, la cible subit seulement la moitié des dégâts et n'est pas [aveuglée].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Labyrinthe</Name>
+# <!--Name-->Labyrinthe<!--/Name-->
 
-- SRD: <AltName>[Maze](spells_vo.md#maze)</AltName>
+- SRD: <!--AltName-->[Maze](spells_vo.md#maze)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4909,21 +4909,21 @@ Pour cela, elle effectue un test d'[Intelligence] DD 20. Si elle le réussit, el
 
 Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitté ou, s'il est occupé, dans l'emplacement libre le plus proche.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lame de feu</Name>
+# <!--Name-->Lame de feu<!--/Name-->
 
-- SRD: <AltName>[Flame Blade](spells_vo.md#flame-blade)</AltName>
+- SRD: <!--AltName-->[Flame Blade](spells_vo.md#flame-blade)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (feuille de sumac)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (feuille de sumac)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4935,19 +4935,19 @@ La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une fai
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts augmentent de 1d6 tous les deux niveaux au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lance du juste</Name>
+# <!--Name-->Lance du juste<!--/Name-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -4955,21 +4955,21 @@ La lumière ambiante se concentre dans votre main et prend la forme d'un rayon e
 
 De plus, la créature touchée se retrouve [aveuglée]. Elle doit effectuer un [jet de sauvegarde] de [Constitution] à chacun de ses tours suivants jusqu'à réussite pour ne plus être [aveuglée].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Langues</Name>
+# <!--Name-->Langues<!--/Name-->
 
-- SRD: <AltName>[Tongues](spells_vo.md#tongues)</AltName>
+- SRD: <!--AltName-->[Tongues](spells_vo.md#tongues)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, M (un modèle réduit de ziggourat en argile)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, M (un modèle réduit de ziggourat en argile)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -4977,21 +4977,21 @@ Ce sort permet à la créature que vous touchez de comprendre toutes les langues
 
 De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Légende</Name>
+# <!--Name-->Légende<!--/Name-->
 
-- SRD: <AltName>[Legend Lore](spells_vo.md#legend-lore)</AltName>
+- SRD: <!--AltName-->[Legend Lore](spells_vo.md#legend-lore)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de l'encens d'une valeur minimale de 250 po que le sort consume et quatre bandelettes d'ivoire valant au moins 50 po chaque)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5003,41 +5003,41 @@ Plus vous possédez d'informations sur cette chose, plus celles que vous recevez
 
 Les informations obtenues sont exactes, mais susceptibles de se présenter dans un langage figuré. Par exemple, si vous avez une mystérieuse hache en main, le sort peut vous donner les renseignements suivants : « Malheur au malfaisant qui pose la main sur cette hache, car même son manche peut entailler la main des mécréants. Seul un véritable enfant de la pierre, un être qui aime Gorom et en est aimé en retour, pourra éveiller la véritable puissance de cette hache, à condition de prononcer le mot sacré Rudnogg. » 
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Léger comme une plume</Name>
+# <!--Name-->Léger comme une plume<!--/Name-->
 
-- SRD: <AltName>[Feather Fall](spells_vo.md#feather-fall)</AltName>
+- SRD: <!--AltName-->[Feather Fall](spells_vo.md#feather-fall)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, M (une petite plume ou un peu de duvet)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, M (une petite plume ou un peu de duvet)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute de chacune passe à 18 mètres par round jusqu'à la fin du sort. Si une créature atterrit avant la fin du sort, elle ne subit pas de dégât de chute et se reçoit sur ses pieds, le sort se terminant alors pour elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lenteur</Name>
+# <!--Name-->Lenteur<!--/Name-->
 
-- SRD: <AltName>[Slow](spells_vo.md#slow)</AltName>
+- SRD: <!--AltName-->[Slow](spells_vo.md#slow)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte de mélasse)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte de mélasse)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5051,41 +5051,41 @@ Si la créature affectée tente de lancer un sort doté d'un temps d'incantation
 
 Une créature affectée par ce sort fait un nouveau [jet de sauvegarde] de [Sagesse] à la fin de chacun de ses tours. Si elle le réussit, le sort se termine pour elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lever une malédiction</Name>
+# <!--Name-->Lever une malédiction<!--/Name-->
 
-- SRD: <AltName>[Remove Curse](spells_vo.md#remove-curse)</AltName>
+- SRD: <!--AltName-->[Remove Curse](spells_vo.md#remove-curse)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien], [Paladin], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 À votre contact, toutes les malédictions qui affectent une créature ou un objet disparaissent. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort rompt l'harmonisation entre l'objet et son détenteur, ce qui permet à ce dernier de l'ôter ou de s'en débarrasser.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lévitation</Name>
+# <!--Name-->Lévitation<!--/Name-->
 
-- SRD: <AltName>[Levitate](spells_vo.md#levitate)</AltName>
+- SRD: <!--AltName-->[Levitate](spells_vo.md#levitate)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5097,19 +5097,19 @@ En dehors de cela, vous devez dépenser une action pour déplacer la cible qui d
 
 Si la cible est encore en l'air quand le sort se termine, elle flotte délicatement jusqu'au sol.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Liane chasseresse</Name>
+# <!--Name-->Liane chasseresse<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5119,21 +5119,21 @@ La victime doit réussir un [jet de sauvegarde] de [Force] ou subir 1d6+7 dégâ
 
 La liane a le profil suivant : CA 15, points de vie 30, [Force] 20 (+5), résistance au feu et au froid, immunité à la foudre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Liberté de mouvement</Name>
+# <!--Name-->Liberté de mouvement<!--/Name-->
 
-- SRD: <AltName>[Freedom of Movement](spells_vo.md#freedom-of-movement)</AltName>
+- SRD: <!--AltName-->[Freedom of Movement](spells_vo.md#freedom-of-movement)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un lien de cuir enroulé autour d'un bras ou d'un appendice similaire)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5141,21 +5141,21 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, ses dé
 
 La cible peut également dépenser 1,50 mètre de déplacement pour échapper automatiquement à des liens non magiques, comme des menottes ou la prise d'une créature qui l'empoigne. Enfin, sous l'eau, elle ne subit pas de malus aux déplacements ni aux attaques.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lien de protection</Name>
+# <!--Name-->Lien de protection<!--/Name-->
 
-- SRD: <AltName>[Warding Bond](spells_vo.md#warding-bond)</AltName>
+- SRD: <!--AltName-->[Warding Bond](spells_vo.md#warding-bond)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une paire d'anneaux de platine valant chacun au moins 50 po, que la cible et vous devez porter pendant toute la durée)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5165,21 +5165,21 @@ Tant que la cible se trouve dans un rayon de 18 mètres autour de vous, elle bé
 
 Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous êtes séparés de plus 18 mètres. Il se termine aussi si vous le lancez de nouveau le sort. Vous pouvez également révoquer le sort par une action.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lien télépathique</Name>
+# <!--Name-->Lien télépathique<!--/Name-->
 
-- SRD: <AltName>[Telepathic Bond](spells_vo.md#telepathic-bond)</AltName>
+- SRD: <!--AltName-->[Telepathic Bond](spells_vo.md#telepathic-bond)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>5</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->5<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (bouts de coquille d'oeuf issus de deux espèces de créatures différentes)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5189,41 +5189,41 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 6, la durée passe à 12 heures. Au niveau 7, vous pouvez transmettre des images, sons et autres perceptions sensorielles aux créatures ciblées. Enfin, au niveau 8, la portée devient illimitée tant que vous êtes sur le même plan et que vous connaissez les créatures ciblées.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Localiser des animaux ou des plantes</Name>
+# <!--Name-->Localiser des animaux ou des plantes<!--/Name-->
 
-- SRD: <AltName>[Locate Animals or Plants](spells_vo.md#locate-animals-or-plants)</AltName>
+- SRD: <!--AltName-->[Locate Animals or Plants](spells_vo.md#locate-animals-or-plants)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>2</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (des poils de chien de chasse)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (des poils de chien de chasse)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous concentrez sur la voix de la nature qui vous entoure et découvrez dans quelle direction et à quelle distance se trouve le spécimen le plus proche, s'il y en a, dans un rayon de 7,5 kilomètres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Localiser un objet</Name>
+# <!--Name-->Localiser un objet<!--/Name-->
 
-- SRD: <AltName>[Locate Object](spells_vo.md#locate-object)</AltName>
+- SRD: <!--AltName-->[Locate Object](spells_vo.md#locate-object)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une branche fourchue)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Ombrelame], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une branche fourchue)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Ombrelame], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5235,21 +5235,21 @@ Le sort permet de localiser un objet spécifique de votre connaissance à condit
 
 Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince soit-elle, bloque une trajectoire directe entre vous et l'objet.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Localiser une créature</Name>
+# <!--Name-->Localiser une créature<!--/Name-->
 
-- SRD: <AltName>[Locate Creature](spells_vo.md#locate-creature)</AltName>
+- SRD: <!--AltName-->[Locate Creature](spells_vo.md#locate-creature)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (des poils de chien de chasse)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (des poils de chien de chasse)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5261,21 +5261,21 @@ Le sort permet de localiser une créature spécifique de votre connaissance ou l
 
 Le sort ne parvient pas à localiser la créature si le chemin qui vous relie directement est coupé par une étendue d'eau courante d'au moins 3 mètres de large.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lueur d'espoir</Name>
+# <!--Name-->Lueur d'espoir<!--/Name-->
 
-- SRD: <AltName>[Beacon of Hope](spells_vo.md#beacon-of-hope)</AltName>
+- SRD: <!--AltName-->[Beacon of Hope](spells_vo.md#beacon-of-hope)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5283,21 +5283,21 @@ Ce sort offre espoir et robustesse. Choisissez autant de créatures consentantes
 
 Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jets de sauvegarde] de [Sagesse] et des [jets de sauvegarde] contre la mort. De plus, elles récupèrent le maximum de points de vie possible dès qu'elles reçoivent des soins.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lueurs féeriques</Name>
+# <!--Name-->Lueurs féeriques<!--/Name-->
 
-- SRD: <AltName>[Faerie Fire](spells_vo.md#faerie-fire)</AltName>
+- SRD: <!--AltName-->[Faerie Fire](spells_vo.md#faerie-fire)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Druide], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5305,21 +5305,21 @@ Tous les objets contenus dans un cube de 6 mètres d'arête situé à portée so
 
 Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il peut la voir. Les créatures et les objets affectés ne peuvent pas bénéficier de l'état [invisible].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lumière</Name>
+# <!--Name-->Lumière<!--/Name-->
 
-- SRD: <AltName>[Light](spells_vo.md#light)</AltName>
+- SRD: <!--AltName-->[Light](spells_vo.md#light)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, M (une luciole ou de la mousse phosphorescente)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, M (une luciole ou de la mousse phosphorescente)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5331,21 +5331,21 @@ Il suffit de recouvrir complètement l'objet avec quelque chose d'opaque pour bl
 
 Si vous visez un objet porté ou transporté par une créature hostile, cette dernière doit réussir un [jet de sauvegarde] de [Dextérité] pour éviter les effets du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lumière du jour</Name>
+# <!--Name-->Lumière du jour<!--/Name-->
 
-- SRD: <AltName>[Daylight](spells_vo.md#daylight)</AltName>
+- SRD: <!--AltName-->[Daylight](spells_vo.md#daylight)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Ensorceleur], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5355,21 +5355,21 @@ Si le point que vous avez choisi est un objet en votre possession ou un objet qu
 
 Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres issue d'un sort de niveau 3 ou moins, elle dissipe le sort en question.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Lumières dansantes</Name>
+# <!--Name-->Lumières dansantes<!--/Name-->
 
-- SRD: <AltName>[Dancing Lights](spells_vo.md#dancing-lights)</AltName>
+- SRD: <!--AltName-->[Dancing Lights](spells_vo.md#dancing-lights)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5383,21 +5383,21 @@ Quelle que soit l'option choisie, chaque source lumineuse offre une lumière fai
 
 Elle s'éteint si elle passe hors de portée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Main du mage</Name>
+# <!--Name-->Main du mage<!--/Name-->
 
-- SRD: <AltName>[Mage Hand](spells_vo.md#mage-hand)</AltName>
+- SRD: <!--AltName-->[Mage Hand](spells_vo.md#mage-hand)<!--/AltName-->
 
-- <Type>Invocation</Type> , <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> , <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5407,21 +5407,21 @@ Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour
 
 La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Main magique</Name>
+# <!--Name-->Main magique<!--/Name-->
 
-- SRD: <AltName>[Arcane Hand](spells_vo.md#arcane-hand)</AltName>
+- SRD: <!--AltName-->[Arcane Hand](spells_vo.md#arcane-hand)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (une coquille d'oeuf et un gant en peau de serpent)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une coquille d'oeuf et un gant en peau de serpent)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5445,21 +5445,21 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts de l'option poing serré augmentent de 2d8 et ceux de la main agrippeuse de 2d6 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mains brûlantes</Name>
+# <!--Name-->Mains brûlantes<!--/Name-->
 
-- SRD: <AltName>[Burning Hands](spells_vo.md#burning-hands)</AltName>
+- SRD: <!--AltName-->[Burning Hands](spells_vo.md#burning-hands)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (cône de 4,50 mètres)</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (cône de 4,50 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5471,21 +5471,21 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Manoir somptueux</Name>
+# <!--Name-->Manoir somptueux<!--/Name-->
 
-- SRD: <AltName>[Magnificent Mansion](spells_vo.md#magnificent-mansion)</AltName>
+- SRD: <!--AltName-->[Magnificent Mansion](spells_vo.md#magnificent-mansion)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>90 mètres</Range>
-- **Composantes :** <Components>V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->90 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5503,19 +5503,19 @@ Ils peuvent se rendre partout dans la demeure, mais sont incapables de la quitte
 
 Quand le sort se termine, toutes les créatures qui se trouvent dans l'espace extradimensionnel sont expulsées dans les emplacements libres les plus proches de l'entrée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Manteau de givre</Name>
+# <!--Name-->Manteau de givre<!--/Name-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un peu d'eau)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu d'eau)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5523,21 +5523,21 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Marche sur l'eau</Name>
+# <!--Name-->Marche sur l'eau<!--/Name-->
 
-- SRD: <AltName>[Water Walk](spells_vo.md#water-walk)</AltName>
+- SRD: <!--AltName-->[Water Walk](spells_vo.md#water-walk)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de liège)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Ensorceleur], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de liège)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -5545,21 +5545,21 @@ Ce sort permet de se déplacer sur n'importe quelle surface liquide (comme de l'
 
 Si vous prenez pour cible une créature immergée dans un liquide, le sort la ramène à la surface du liquide à une vitesse de 18 mètres par round.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Marche sur le vent</Name>
+# <!--Name-->Marche sur le vent<!--/Name-->
 
-- SRD: <AltName>[Wind Walk](spells_vo.md#wind-walk)</AltName>
+- SRD: <!--AltName-->[Wind Walk](spells_vo.md#wind-walk)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (du feu et de l'eau bénite)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (du feu et de l'eau bénite)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5567,21 +5567,21 @@ Vous et un maximum de dix créatures consentantes, situées à portée et dans v
 
 Si une créature est sous forme de nuage et en plein vol quand le sort se termine, elle descend de 18 mètres par round pendant 1 minute, jusqu'à ce qu'elle atterrisse, en parfaite sécurité. Si elle n'arrive pas à atterrir avant la fin de cette minute, elle tombe sur la distance qui lui reste à parcourir.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Marque du chasseur</Name>
+# <!--Name-->Marque du chasseur<!--/Name-->
 
-- SRD: <AltName>[Hunter's Mark](spells_vo.md#hunters-mark)</AltName>
+- SRD: <!--AltName-->[Hunter's Mark](spells_vo.md#hunters-mark)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5589,21 +5589,21 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou 4, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mauvais oeil</Name>
+# <!--Name-->Mauvais oeil<!--/Name-->
 
-- SRD: <AltName>[Eyebite](spells_vo.md#eyebite)</AltName>
+- SRD: <!--AltName-->[Eyebite](spells_vo.md#eyebite)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5615,21 +5615,21 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 
 **_Paniqué._** Vous terrorisez la cible. À chacun de ses tours, la cible [terrorisée] doit utiliser l'action se précipiter et s'éloigner de vous via l'itinéraire le plus rapide et le plus sûr, à moins qu'elle n'ait nulle part où aller. Cet effet se termine si la cible gagne un emplacement situé à au moins 18 mètres de vous et d'où elle ne vous voit plus.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Message</Name>
+# <!--Name-->Message<!--/Name-->
 
-- SRD: <AltName>[Message](spells_vo.md#message)</AltName>
+- SRD: <!--AltName-->[Message](spells_vo.md#message)<!--/AltName-->
 
-- <Type>Transmutation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit bout de fil de cuivre)</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit bout de fil de cuivre)<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5637,21 +5637,21 @@ Vous pointez du doigt une créature à portée et murmurez un message. La cible 
 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Messager animal</Name>
+# <!--Name-->Messager animal<!--/Name-->
 
-- SRD: <AltName>[Animal Messenger](spells_vo.md#animal-messenger)</AltName>
+- SRD: <!--AltName-->[Animal Messenger](spells_vo.md#animal-messenger)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un peu de nourriture)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu de nourriture)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5665,21 +5665,21 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, la durée du sort augmente de 48 heures par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Métamorphose</Name>
+# <!--Name-->Métamorphose<!--/Name-->
 
-- SRD: <AltName>[Polymorph](spells_vo.md#polymorph)</AltName>
+- SRD: <!--AltName-->[Polymorph](spells_vo.md#polymorph)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un cocon de chenille)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un cocon de chenille)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5693,21 +5693,21 @@ La nouvelle forme de la créature limite les actions qu'elle peut entreprendre e
 
 L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas activer, utiliser ni manier la moindre pièce d'équipement et ne peut pas non plus bénéficier de ses effets.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Métamorphose suprême</Name>
+# <!--Name-->Métamorphose suprême<!--/Name-->
 
-- SRD: <AltName>[True Polymorph](spells_vo.md#true-polymorph)</AltName>
+- SRD: <!--AltName-->[True Polymorph](spells_vo.md#true-polymorph)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5739,21 +5739,21 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 
 **_Créature en objet._** Si vous transformez une créature en objet, tous les objets qu'elle porte et transporte se métamorphosent avec elle. Le profil technique de l'objet remplace celui de la créature qui, une fois revenue à sa forme d'origine à la fin du sort, n'a aucun souvenir de la période pendant laquelle elle a été métamorphosée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mirage</Name>
+# <!--Name-->Mirage<!--/Name-->
 
-- SRD: <AltName>[Mirage Arcane](spells_vo.md#mirage-arcane)</AltName>
+- SRD: <!--AltName-->[Mirage Arcane](spells_vo.md#mirage-arcane)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>vision</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>10 jours</Duration>
-- Classes: <Classes>[Barde], [Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->vision<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->10 jours<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5763,21 +5763,21 @@ L'illusion comprend des composantes auditives, visuelles, tactiles et olfactives
 
 Les créatures dotées de vision parfaite distinguent le véritable terrain derrière l'illusion, mais les autres composantes restent en place ; elles savent donc qu'elles ont affaire à une illusion, mais peuvent toujours interagir physiquement avec celle-ci.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Modification de mémoire</Name>
+# <!--Name-->Modification de mémoire<!--/Name-->
 
-- SRD: <AltName>[Modify Memory](spells_vo.md#modify-memory)</AltName>
+- SRD: <!--AltName-->[Modify Memory](spells_vo.md#modify-memory)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute </Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute <!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5793,21 +5793,21 @@ Un sort _[lever une malédiction]_ ou _[restauration supérieure]_ permet à la 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, vous pouvez modifier les souvenirs d'un événement remontant à 7 jours (niveau 6), 30 jours (niveau 7), 1 an (niveau 8) ou issus de n'importe quelle période du passé de la cible (niveau 9).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Modifier son apparence</Name>
+# <!--Name-->Modifier son apparence<!--/Name-->
 
-- SRD: <AltName>[Alter Self](spells_vo.md#alter-self)</AltName>
+- SRD: <!--AltName-->[Alter Self](spells_vo.md#alter-self)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5819,21 +5819,21 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 
 **_Changer d'apparence._** Vous modifiez votre apparence et choisissez votre taille, votre poids, vos traits, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et toute caractéristique distinctive désirée. Vous pouvez vous faire passer pour un membre d'une autre race, mais vos caractéristiques ne changent pas. Vous ne pouvez pas vous faire passer pour une créature d'une catégorie de taille différente de la vôtre, et votre silhouette générale doit rester la même (par exemple, si vous êtes un bipède, vous ne pouvez pas utiliser ce sort pour prendre l'apparence d'un quadrupède). À tout moment lors de la durée du sort, vous pouvez dépenser une action pour modifier de nouveau votre apparence de cette manière.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Monture fantôme</Name>
+# <!--Name-->Monture fantôme<!--/Name-->
 
-- SRD: <AltName>[Phantom Steed](spells_vo.md#phantom-steed)</AltName>
+- SRD: <!--AltName-->[Phantom Steed](spells_vo.md#phantom-steed)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>3</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->3<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5843,21 +5843,21 @@ Une créature équine de taille G quasi réelle apparaît dans un emplacement au
 
 Pendant toute la durée du sort, vous et une créature de votre choix pouvez chevaucher la monture. Cette dernière possède le même profil technique qu'un cheval de selle, excepté sa vitesse, de 30 mètres. En 1 heure, elle peut parcourir 15 kilomètres, ou 20 kilomètres au galop. Quand le sort se termine, la monture s'estompe progressivement, ce qui laisse 1 minute au cavalier pour mettre pied à terre. Le sort se termine si vous utilisez une action pour le révoquer ou si la monture subit le moindre dégât.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Moquerie cruelle</Name>
+# <!--Name-->Moquerie cruelle<!--/Name-->
 
-- SRD: <AltName>[Vicious Mockery](spells_vo.md#vicious-mockery)</AltName>
+- SRD: <!--AltName-->[Vicious Mockery](spells_vo.md#vicious-mockery)<!--/AltName-->
 
-- <Type>Enchantement</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5865,21 +5865,21 @@ Vous lancez une bordée d'insultes empreintes d'un subtil enchantement à une cr
 
 Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mot de guérison</Name>
+# <!--Name-->Mot de guérison<!--/Name-->
 
-- SRD: <AltName>[Healing Word](spells_vo.md#healing-word)</AltName>
+- SRD: <!--AltName-->[Healing Word](spells_vo.md#healing-word)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5887,21 +5887,21 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les soins augmentent de 1d4 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mot de guérison de groupe</Name>
+# <!--Name-->Mot de guérison de groupe<!--/Name-->
 
-- SRD: <AltName>[Mass Healing Word](spells_vo.md#mass-healing-word)</AltName>
+- SRD: <!--AltName-->[Mass Healing Word](spells_vo.md#mass-healing-word)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5909,21 +5909,21 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les soins augmentent de 1d4 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mot de pouvoir étourdissant</Name>
+# <!--Name-->Mot de pouvoir étourdissant<!--/Name-->
 
-- SRD: <AltName>[Power Word Stun](spells_vo.md#power-word-stun)</AltName>
+- SRD: <!--AltName-->[Power Word Stun](spells_vo.md#power-word-stun)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5931,41 +5931,41 @@ Vous prononcez un mot de pouvoir capable de submerger l'esprit d'une créature s
 
 Une cible [étourdie] a droit à un [jet de sauvegarde] de [Constitution] à la fin de chacun de ses tours. L'effet d'étourdissement se termine dès qu'elle en réussit un.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mot de pouvoir mortel</Name>
+# <!--Name-->Mot de pouvoir mortel<!--/Name-->
 
-- SRD: <AltName>[Power Word Kill](spells_vo.md#power-word-kill)</AltName>
+- SRD: <!--AltName-->[Power Word Kill](spells_vo.md#power-word-kill)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mot de retour</Name>
+# <!--Name-->Mot de retour<!--/Name-->
 
-- SRD: <AltName>[Word of Recall](spells_vo.md#word-of-recall)</AltName>
+- SRD: <!--AltName-->[Word of Recall](spells_vo.md#word-of-recall)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>1,5 mètre</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->1,5 mètre<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5973,21 +5973,21 @@ Vous et un maximum de cinq créatures consentantes situées dans un rayon de 1,5
 
 Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à votre divinité, comme un temple, ou entretenant des liens étroits avec elle. Si vous tentez de lancer ainsi le sort dans une zone qui n'est pas dédiée à votre divinité, il n'a aucun effet.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Motif hypnotique</Name>
+# <!--Name-->Motif hypnotique<!--/Name-->
 
-- SRD: <AltName>[Hypnotic Pattern](spells_vo.md#hypnotic-pattern)</AltName>
+- SRD: <!--AltName-->[Hypnotic Pattern](spells_vo.md#hypnotic-pattern)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une matière phosphorescente)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -5997,21 +5997,21 @@ Le motif apparaît pendant un bref instant avant de s'évanouir. Chaque créatur
 
 Le sort se termine pour une créature donnée si elle subit le moindre dégât ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur d'épines</Name>
+# <!--Name-->Mur d'épines<!--/Name-->
 
-- SRD: <AltName>[Wall of Thorns](spells_vo.md#wall-of-thorns)</AltName>
+- SRD: <!--AltName-->[Wall of Thorns](spells_vo.md#wall-of-thorns)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (une poignée d'épines)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une poignée d'épines)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6025,21 +6025,21 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les deux types de dégâts augmentent chacun de 1d8 par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur de feu</Name>
+# <!--Name-->Mur de feu<!--/Name-->
 
-- SRD: <AltName>[Wall of Fire](spells_vo.md#wall-of-fire)</AltName>
+- SRD: <!--AltName-->[Wall of Fire](spells_vo.md#wall-of-fire)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un éclat de phosphore)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un éclat de phosphore)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6053,21 +6053,21 @@ L'autre face du mur n'inflige pas de dégâts.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur de force</Name>
+# <!--Name-->Mur de force<!--/Name-->
 
-- SRD: <AltName>[Wall of Force](spells_vo.md#wall-of-force)</AltName>
+- SRD: <!--AltName-->[Wall of Force](spells_vo.md#wall-of-force)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poudre de gemme translucide)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poudre de gemme translucide)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6075,21 +6075,21 @@ Un mur de force [invisible] se matérialise soudain en un point de votre choix s
 
 Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre tous les dégâts et résiste à toute _[dissipation de la magie]_. En revanche, on peut le détruire instantanément avec une _[désintégration]_. Le mur s'étend également sur le plan éthéré, ce qui empêche de le franchir sous forme éthérée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur de glace</Name>
+# <!--Name-->Mur de glace<!--/Name-->
 
-- SRD: <AltName>[Wall of Ice](spells_vo.md#wall-of-ice)</AltName>
+- SRD: <!--AltName-->[Wall of Ice](spells_vo.md#wall-of-ice)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un éclat de quartz)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un éclat de quartz)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6101,21 +6101,21 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts que le mur inflige en apparaissant augmentent de 2d6 et les dégâts provoqués par un passage dans la zone d'air glacé augmentent de 1d6 par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur de pierre</Name>
+# <!--Name-->Mur de pierre<!--/Name-->
 
-- SRD: <AltName>[Wall of Stone](spells_vo.md#wall-of-stone)</AltName>
+- SRD: <!--AltName-->[Wall of Stone](spells_vo.md#wall-of-stone)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit bloc de granite)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit bloc de granite)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6131,21 +6131,21 @@ Le mur est un objet de pierre que l'on peut endommager et on peut donc y ouvrir 
 
 Si vous restez concentré sur le sort pendant toute sa durée, le mur devient une structure permanente et ne peut plus être dissipé, sinon il disparaît à la fin du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur de vent</Name>
+# <!--Name-->Mur de vent<!--/Name-->
 
-- SRD: <AltName>[Wind Wall](spells_vo.md#wind-wall)</AltName>
+- SRD: <!--AltName-->[Wind Wall](spells_vo.md#wind-wall)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit éventail et une plume exotique)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit éventail et une plume exotique)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6155,21 +6155,21 @@ Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un 
 
 Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les créatures et objets volants de taille P ou inférieure ne peuvent pas traverser le mur. Les matériaux libres et légers s'envolent si on les apporte dans le mur. Les flèches, les carreaux et autres projectiles ordinaires visant une cible située derrière le mur sont systématiquement détournés vers le haut et ratent automatiquement leur cible. (Ce phénomène n'affecte pas les rochers que lancent les géants ou les engins de siège, ni les projectiles similaires.) Les créatures sous forme gazeuse ne peuvent pas franchir le mur.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Mur prismatique</Name>
+# <!--Name-->Mur prismatique<!--/Name-->
 
-- SRD: <AltName>[Prismatic Wall](spells_vo.md#prismatic-wall)</AltName>
+- SRD: <!--AltName-->[Prismatic Wall](spells_vo.md#prismatic-wall)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6201,21 +6201,21 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 
 **_7. Violet._** La cible est [aveuglée] si elle rate son [jet de sauvegarde]. Elle doit alors faire un [jet de sauvegarde] de [Sagesse] au début de votre prochain tour. Si elle le réussit, elle recouvre la vue, si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas, tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.) On peut détruire cette couche avec une _[dissipation de la magie]_ ou un sort similaire de niveau identique ou supérieur, capable de mettre un terme à un sort ou à un effet magique.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nappe de brouillard</Name>
+# <!--Name-->Nappe de brouillard<!--/Name-->
 
-- SRD: <AltName>[Fog Cloud](spells_vo.md#fog-cloud)</AltName>
+- SRD: <!--AltName-->[Fog Cloud](spells_vo.md#fog-cloud)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6223,19 +6223,19 @@ Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un poin
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nimbe de bienfaisance</Name>
+# <!--Name-->Nimbe de bienfaisance<!--/Name-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6243,21 +6243,21 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 5 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Non-détection</Name>
+# <!--Name-->Non-détection<!--/Name-->
 
-- SRD: <AltName>[Nondetection](spells_vo.md#nondetection)</AltName>
+- SRD: <!--AltName-->[Nondetection](spells_vo.md#nondetection)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poussière de diamant d'une valeur de 25 po, que le sort consume une fois saupoudrée sur la cible)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6265,21 +6265,21 @@ Pour toute la durée du sort, vous dissimulez la cible que vous touchez aux yeux
 
 Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet ne mesurant pas plus de 3 mètres dans chaque dimension. La magie de divination ne peut plus viser votre cible et les organes de scrutation magiques ne la perçoivent plus.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nuage incendiaire</Name>
+# <!--Name-->Nuage incendiaire<!--/Name-->
 
-- SRD: <AltName>[Incendiary Cloud](spells_vo.md#incendiary-cloud)</AltName>
+- SRD: <!--AltName-->[Incendiary Cloud](spells_vo.md#incendiary-cloud)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6291,21 +6291,21 @@ Celles qui échouent subissent 10d8 dégâts de feu, les autres la moitié seule
 
 Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au début de chacun de vos tours.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nuage mortel</Name>
+# <!--Name-->Nuage mortel<!--/Name-->
 
-- SRD: <AltName>[Cloudkill](spells_vo.md#cloudkill)</AltName>
+- SRD: <!--AltName-->[Cloudkill](spells_vo.md#cloudkill)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6319,21 +6319,21 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nuage puant</Name>
+# <!--Name-->Nuage puant<!--/Name-->
 
-- SRD: <AltName>[Stinking Cloud](spells_vo.md#stinking-cloud)</AltName>
+- SRD: <!--AltName-->[Stinking Cloud](spells_vo.md#stinking-cloud)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (un oeuf pourri ou des feuilles de chou pourri)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un oeuf pourri ou des feuilles de chou pourri)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6343,21 +6343,21 @@ Chaque créature entièrement englobée dans le nuage au début de son tour doit
 
 Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (au moins 30 km/h) le disperse au bout de seulement 1 round.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nuée de météores</Name>
+# <!--Name-->Nuée de météores<!--/Name-->
 
-- SRD: <AltName>[Meteor Swarm](spells_vo.md#meteor-swarm)</AltName>
+- SRD: <!--AltName-->[Meteor Swarm](spells_vo.md#meteor-swarm)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>1,5 kilomètre</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->1,5 kilomètre<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6367,39 +6367,39 @@ Les sphères s'étendent en contournant les angles. Une créature qui rate son [
 
 Le sort abîme et embrase les objets inflammables de la zone s'ils ne sont pas portés ou transportés.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Nuée de projectiles</Name>
+# <!--Name-->Nuée de projectiles<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>selon l'arme utilisée</Range>
-- **Composantes :** <Components>V, S, M (un projectile)</Components>
-- **Durée :** <Duration>instantané</Duration>
-- Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->selon l'arme utilisée<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
+- **Durée :** <!--Duration-->instantané<!--/Duration-->
+- Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort. Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 6 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul jet d'attaque à distance, chaque créature dans la zone subit automatiquement les dégâts habituels de l'arme. Celles dont votre attaque permet d'atteindre ou de dépasser la CA subissent le double des dégâts. Vous ajoutez normalement votre modificateur de [Dextérité] aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégât sont magiques (du type approprié aux projectiles).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Oeil magique</Name>
+# <!--Name-->Oeil magique<!--/Name-->
 
-- SRD: <AltName>[Arcane Eye](spells_vo.md#arcane-eye)</AltName>
+- SRD: <!--AltName-->[Arcane Eye](spells_vo.md#arcane-eye)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (des poils de chauve-souris)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (des poils de chauve-souris)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6407,19 +6407,19 @@ Vous créez un oeil magique [invisible] à portée, qui flotte dans les airs pen
 
 Par une action, vous pouvez déplacer l'oeil d'un maximum de 9 mètres dans la direction de votre choix. Il peut s'éloigner de vous sur une distance illimitée, mais il ne peut pas entrer dans un autre plan d'existence. Une barrière solide l'empêche de passer, mais il peut se glisser à travers une ouverture d'au minimum 2,5 centimètres de diamètre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Offrande inéluctable</Name>
+# <!--Name-->Offrande inéluctable<!--/Name-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6427,19 +6427,19 @@ Une créature vivante à portée et dans votre champ de vision doit réussir un 
 
 Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'elle doit vous donner et ne peut donc pas s'en servir pour attaquer ni pour se défendre et subit par ailleurs d'un désavantage sur ses jets d'attaques Le sort prend fin si vous ou vos alliés blessez la cible ou lui lancez un sort néfaste, ou si vous vous trouvez au-delà de la portée du sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Ombres imaginaires</Name>
+# <!--Name-->Ombres imaginaires<!--/Name-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un morceau de charbon)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un morceau de charbon)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6447,39 +6447,39 @@ Vous désignez une cible à portée et dans votre champ de vision. Vous créez d
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le sort persiste jusqu'à la fin de sa durée normale sans nécessiter de concentration.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Panacée</Name>
+# <!--Name-->Panacée<!--/Name-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (3 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>Instantanée</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (3 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->Instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux maladies, poisons et états spéciaux suivants qui affectent vos alliés situés dans la zone : [assourdi], [aveuglé], [charmé], [empoisonné], [étourdi], [neutralisé], [pétrifié] et [terrorisé]. Elle annule également les effets de sommeil et les effets du sort esprit faible.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Parole divine</Name>
+# <!--Name-->Parole divine<!--/Name-->
 
-- SRD: <AltName>[Divine Word](spells_vo.md#divine-word)</AltName>
+- SRD: <!--AltName-->[Divine Word](spells_vo.md#divine-word)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6497,39 +6497,39 @@ Choisissez autant de créatures situées à portée et dans votre champ de visio
 
 Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fiélon rate son [jet de sauvegarde], il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un _[souhait]_.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Pas brumeux</Name>
+# <!--Name-->Pas brumeux<!--/Name-->
 
-- SRD: <AltName>[Misty Step](spells_vo.md#misty-step)</AltName>
+- SRD: <!--AltName-->[Misty Step](spells_vo.md#misty-step)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Passage dimensionnel</Name>
+# <!--Name-->Passage dimensionnel<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>150 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->150 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6545,21 +6545,21 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le diamètre de l'ouverture augmente de 1,50 mètre par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Passage par les arbres</Name>
+# <!--Name-->Passage par les arbres<!--/Name-->
 
-- SRD: <AltName>[Tree Stride](spells_vo.md#tree-stride)</AltName>
+- SRD: <!--AltName-->[Tree Stride](spells_vo.md#tree-stride)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6567,21 +6567,21 @@ Vous êtes soudain capable d'entrer dans un arbre et de passer de son sein à ce
 
 Vous pouvez utiliser cette capacité de transport une fois par round pendant toute la durée du sort. Vous devez terminer chaque tour en dehors d'un arbre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Passage sans trace</Name>
+# <!--Name-->Passage sans trace<!--/Name-->
 
-- SRD: <AltName>[Pass without Trace](spells_vo.md#pass-without-trace)</AltName>
+- SRD: <!--AltName-->[Pass without Trace](spells_vo.md#pass-without-trace)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (cendres d'une feuille de gui et une brindille d'épicéa)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6591,21 +6591,21 @@ Pendant toute la durée du sort, chaque créature que vous choisissez et qui se 
 
 Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni aucun autre indice de son passage.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Passe-muraille</Name>
+# <!--Name-->Passe-muraille<!--/Name-->
 
-- SRD: <AltName>[Passwall](spells_vo.md#passwall)</AltName>
+- SRD: <!--AltName-->[Passwall](spells_vo.md#passwall)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de graines de sésame)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de graines de sésame)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6613,81 +6613,81 @@ Un passage apparaît en un point de votre choix situé à portée et dans votre 
 
 Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient encore sont expulsés en toute sécurité dans l'emplacement inoccupé le plus proche de la surface sur laquelle vous avez lancé le sort.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Pattes d'araignée</Name>
+# <!--Name-->Pattes d'araignée<!--/Name-->
 
-- SRD: <AltName>[Spider Climb](spells_vo.md#spider-climb)</AltName>
+- SRD: <!--AltName-->[Spider Climb](spells_vo.md#spider-climb)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une goutte de bitume et une araignée)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une goutte de bitume et une araignée)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Jusqu'à la fin du sort, une créature consentante que vous touchez devient capable de se déplacer sur les surfaces verticales, et même au plafond la tête en bas, tout en gardant les mains libres. La cible bénéficie aussi d'une vitesse d'escalade égale à sa vitesse de marche.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Peau d'écorce</Name>
+# <!--Name-->Peau d'écorce<!--/Name-->
 
-- SRD: <AltName>[Barkskin](spells_vo.md#barkskin)</AltName>
+- SRD: <!--AltName-->[Barkskin](spells_vo.md#barkskin)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une poignée d'écorce de chêne)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une poignée d'écorce de chêne)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau prend la consistance et l'apparence de l'écorce, et sa CA ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Peau de pierre</Name>
+# <!--Name-->Peau de pierre<!--/Name-->
 
-- SRD: <AltName>[Stoneskin](spells_vo.md#stoneskin)</AltName>
+- SRD: <!--AltName-->[Stoneskin](spells_vo.md#stoneskin)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (poussière de diamant d'une valeur de 100 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure que de la pierre. Jusqu'à la fin du sort, la cible est résistante aux dégâts non magiques contondants, perforants et tranchants.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Petite hutte</Name>
+# <!--Name-->Petite hutte<!--/Name-->
 
-- SRD: <AltName>[Tiny Hut](spells_vo.md#tiny-hut)</AltName>
+- SRD: <!--AltName-->[Tiny Hut](spells_vo.md#tiny-hut)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle (hémisphère de 3 mètres de rayon)</Range>
-- **Composantes :** <Components>V, S, M (une petite perle de cristal)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (hémisphère de 3 mètres de rayon)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite perle de cristal)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6697,21 +6697,21 @@ Le dôme peut abriter un maximum de neuf créatures de taille M ou inférieure, 
 
 Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé ou plongé dans le noir. Vu de l'extérieur, le dôme est opaque, de la couleur que vous désirez, mais vu de l'intérieur, il est transparent.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Pétrification</Name>
+# <!--Name-->Pétrification<!--/Name-->
 
-- SRD: <AltName>[Flesh to Stone](spells_vo.md#flesh-to-stone)</AltName>
+- SRD: <!--AltName-->[Flesh to Stone](spells_vo.md#flesh-to-stone)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de chaux, de l'eau et de la terre)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de chaux, de l'eau et de la terre)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6723,21 +6723,21 @@ Si quelqu'un brise le corps physique de la cible alors qu'elle est [pétrifiée]
 
 Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée maximale, la cible est définitivement changée en pierre jusqu'à ce que quelqu'un dissipe l'effet.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Peur</Name>
+# <!--Name-->Peur<!--/Name-->
 
-- SRD: <AltName>[Fear](spells_vo.md#fear)</AltName>
+- SRD: <!--AltName-->[Fear](spells_vo.md#fear)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (cône de 9 mètres)</Range>
-- **Composantes :** <Components>V, S, M (une plume blanche ou un coeur de poule)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute.</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (cône de 9 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une plume blanche ou un coeur de poule)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute.<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6745,19 +6745,19 @@ Vous projetez une image fantasmagorique des pires terreurs d'une créature. Chaq
 
 Tant qu'une créature est [terrorisée] par ce sort, elle est obligée d'utiliser l'action se précipiter à chacun de ses tours et de s'éloigner de vous par l'itinéraire le plus sûr, à moins qu'elle n'ait nulle part où aller. Si elle termine son tour en un endroit où vous ne figurez plus dans son champ de vision, elle peut faire un [jet de sauvegarde] de [Sagesse]. Si elle le réussit, le sort se termine pour elle.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Pluie de projectiles</Name>
+# <!--Name-->Pluie de projectiles<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>selon l'arme utilisée</Range>
-- **Composantes :** <Components>V, S, M (un projectile)</Components>
-- **Durée :** <Duration>instantané</Duration>
-- Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->selon l'arme utilisée<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
+- **Durée :** <!--Duration-->instantané<!--/Duration-->
+- Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6765,21 +6765,21 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 
 Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 3 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul test d'attaque à distance, chaque créature dans la zone subit les dégâts habituels de votre attaque, la moitié seulement si le résultat du test d'attaque n'a pas atteint la CA de la créature. Vous ajoutez normalement votre modificateur de [Dextérité] aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégâts sont magiques (du type approprié aux projectiles).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Poigne électrique</Name>
+# <!--Name-->Poigne électrique<!--/Name-->
 
-- SRD: <AltName>[Shocking Grasp](spells_vo.md#shocking-grasp)</AltName>
+- SRD: <!--AltName-->[Shocking Grasp](spells_vo.md#shocking-grasp)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6787,19 +6787,19 @@ La foudre jaillit de votre main et bondit sur la créature que vous tentez de to
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Poison naturel</Name>
+# <!--Name-->Poison naturel<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -6807,21 +6807,21 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Portail</Name>
+# <!--Name-->Portail<!--/Name-->
 
-- SRD: <AltName>[Gate](spells_vo.md#gate)</AltName>
+- SRD: <!--AltName-->[Gate](spells_vo.md#gate)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un diamant d'une valeur minimale de 5 000 po)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 5 000 po)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6833,21 +6833,21 @@ Les divinités et autres dirigeants planaires peuvent empêcher un portail né d
 
 Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifique (sachant que les pseudonymes, les titres et les surnoms ne fonctionnent pas). Si cette créature se trouve sur un autre plan que celui sur lequel vous vous trouvez, le portail s'ouvre dans ses environs immédiats et attire la créature en son sein. Elle réapparaît de votre côté du portail, dans l'espace inoccupé le plus proche. Cela ne vous donne aucun contrôle sur la créature, qui agit librement, comme le MJ le désire. Elle peut s'en aller, vous attaquer ou vous aider.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Porte dimensionnelle</Name>
+# <!--Name-->Porte dimensionnelle<!--/Name-->
 
-- SRD: <AltName>[Dimension Door](spells_vo.md#dimension-door)</AltName>
+- SRD: <!--AltName-->[Dimension Door](spells_vo.md#dimension-door)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>150 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->150 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6859,39 +6859,39 @@ Vous pouvez amener des objets avec vous, tant que leur poids ne dépasse pas la 
 
 Si vous deviez arriver dans un emplacement déjà occupé par un objet ou une créature, vous et la créature qui voyage avec vous subissez chacun 4d6 dégâts de force tandis que le sort s'avère incapable de vous téléporter.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Porte-bonheur</Name>
+# <!--Name-->Porte-bonheur<!--/Name-->
 
-- <Type>Abjuration</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnel</Range>
-- **Composantes :** <Components>V, S, M (objet porte-bonheur)</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnel<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (objet porte-bonheur)<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Possession</Name>
+# <!--Name-->Possession<!--/Name-->
 
-- SRD: <AltName>[Magic Jar](spells_vo.md#magic-jar)</AltName>
+- SRD: <!--AltName-->[Magic Jar](spells_vo.md#magic-jar)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6921,21 +6921,21 @@ Si le réceptacle est détruit ou que le sort se termine, votre âme regagne imm
 
 Le réceptacle est détruit quand le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Prémonition</Name>
+# <!--Name-->Prémonition<!--/Name-->
 
-- SRD: <AltName>[Foresight](spells_vo.md#foresight)</AltName>
+- SRD: <!--AltName-->[Foresight](spells_vo.md#foresight)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une plume d'oiseau chanteur)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Barde], [Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une plume d'oiseau chanteur)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6943,21 +6943,21 @@ Vous touchez une créature consentante et lui conférez une aptitude limitée à
 
 Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de sa durée.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Prestidigitation</Name>
+# <!--Name-->Prestidigitation<!--/Name-->
 
-- SRD: <AltName>[Prestidigitation](spells_vo.md#prestidigitation)</AltName>
+- SRD: <!--AltName-->[Prestidigitation](spells_vo.md#prestidigitation)<!--/AltName-->
 
-- <Type>Transmutation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6977,21 +6977,21 @@ Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner
 
 Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de trois effets non instantanés actifs à la fois. Vous pouvez révoquer un tel effet par une action.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Prière de soins</Name>
+# <!--Name-->Prière de soins<!--/Name-->
 
-- SRD: <AltName>[Prayer of Healing](spells_vo.md#prayer-of-healing)</AltName>
+- SRD: <!--AltName-->[Prayer of Healing](spells_vo.md#prayer-of-healing)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -6999,21 +6999,21 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Produire une flamme</Name>
+# <!--Name-->Produire une flamme<!--/Name-->
 
-- SRD: <AltName>[Produce Flame](spells_vo.md#produce-flame)</AltName>
+- SRD: <!--AltName-->[Produce Flame](spells_vo.md#produce-flame)<!--/AltName-->
 
-- <Type>Invocation</Type> , <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> , <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7025,21 +7025,21 @@ Vous pouvez attaquer avec la flamme, mais cela met fin au sort. Pour cela, quand
 
 Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Projectile magique</Name>
+# <!--Name-->Projectile magique<!--/Name-->
 
-- SRD: <AltName>[Magic Missile](spells_vo.md#magic-missile)</AltName>
+- SRD: <!--AltName-->[Magic Missile](spells_vo.md#magic-missile)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7047,19 +7047,19 @@ Vous créez trois fléchettes faites d'énergie magique brillante. Chacune touch
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort crée une fléchette de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Projectile toxique</Name>
+# <!--Name-->Projectile toxique<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>selon l'arme utilisée</Range>
-- **Composantes :** <Components>V, S, M (un projectile)</Components>
-- **Durée :** <Duration>instantané</Duration>
-- Classes: <Classes>[Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->selon l'arme utilisée<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un projectile)<!--/Components-->
+- **Durée :** <!--Duration-->instantané<!--/Duration-->
+- Classes: <!--Classes-->[Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -7069,21 +7069,21 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Projection astrale</Name>
+# <!--Name-->Projection astrale<!--/Name-->
 
-- SRD: <AltName>[Astral Projection](spells_vo.md#astral-projection)</AltName>
+- SRD: <!--AltName-->[Astral Projection](spells_vo.md#astral-projection)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)</Components>
-- **Durée :** <Duration>spéciale</Duration>
-- Classes: <Classes>[Clerc], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un zircon jaune d'une valeur minimale de 1 000 po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)<!--/Components-->
+- **Durée :** <!--Duration-->spéciale<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7099,21 +7099,21 @@ Le sort peut se terminer plus tôt pour vous ou pour l'un de vos camarades. Si q
 
 Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons restent sous forme astrale et doivent se débrouiller seuls pour regagner leur corps physique, en général en se laissant tomber à 0 point de vie.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Protection contre la mort</Name>
+# <!--Name-->Protection contre la mort<!--/Name-->
 
-- SRD: <AltName>[Death Ward](spells_vo.md#death-ward)</AltName>
+- SRD: <!--AltName-->[Death Ward](spells_vo.md#death-ward)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7121,21 +7121,21 @@ Vous touchez une créature et lui donnez une protection relative contre la mort.
 
 Si le sort est encore actif quand la cible est soumise à un effet qui devrait la tuer sur-le-champ sans lui infliger de dégâts, l'effet est annulé contre cette cible et le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Protection contre le mal et le bien</Name>
+# <!--Name-->Protection contre le mal et le bien<!--/Name-->
 
-- SRD: <AltName>[Protection from Evil and Good](spells_vo.md#protection-from-evil-and-good)</AltName>
+- SRD: <!--AltName-->[Protection from Evil and Good](spells_vo.md#protection-from-evil-and-good)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Clerc], [Magicien], [Paladin], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (eau bénite ou poudre de fer et d'argent, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Magicien], [Paladin], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7145,21 +7145,21 @@ Cette protection se traduit par plusieurs bénéfices.
 
 Les créatures des types précédemment nommés subissent un désavantage lors des jets d'attaque contre la cible, et cette dernière ne peut être [charmée], [terrorisée] ou possédée par elles. Si la cible est déjà sous l'effet d'un tel état spécial émanant d'une telle créature, elle obtient un avantage lors d'un éventuel nouveau [jet de sauvegarde] contre l'effet en question.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Protection contre le poison</Name>
+# <!--Name-->Protection contre le poison<!--/Name-->
 
-- SRD: <AltName>[Protection from Poison](spells_vo.md#protection-from-poison)</AltName>
+- SRD: <!--AltName-->[Protection from Poison](spells_vo.md#protection-from-poison)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7167,41 +7167,41 @@ Vous touchez une créature. Si elle est [empoisonnée], vous neutralisez ce pois
 
 Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [jets de sauvegarde] contre le poison et se montre résistante aux dégâts de poison.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Protection contre les énergies</Name>
+# <!--Name-->Protection contre les énergies<!--/Name-->
 
-- SRD: <AltName>[Protection from Energy](spells_vo.md#protection-from-energy)</AltName>
+- SRD: <!--AltName-->[Protection from Energy](spells_vo.md#protection-from-energy)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Ombrelame]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Ombrelame]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Protections et sceaux</Name>
+# <!--Name-->Protections et sceaux<!--/Name-->
 
-- SRD: <AltName>[Guards and Wards](spells_vo.md#guards-and-wards)</AltName>
+- SRD: <!--AltName-->[Guards and Wards](spells_vo.md#guards-and-wards)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (encens incandescent, petite dose de soufre et d'huile, cordelette avec des noeuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7235,39 +7235,39 @@ Toute la zone protégée émet une aura magique. Si quelqu'un lance avec succès
 
 Vous pouvez protéger une structure en permanence si vous lancez ce sort tous les jours pendant un an.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Purification de la nourriture et de l'eau</Name>
+# <!--Name-->Purification de la nourriture et de l'eau<!--/Name-->
 
-- SRD: <AltName>[Purify Food and Drink](spells_vo.md#purify-food-and-drink)</AltName>
+- SRD: <!--AltName-->[Purify Food and Drink](spells_vo.md#purify-food-and-drink)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Putréfaction</Name>
+# <!--Name-->Putréfaction<!--/Name-->
 
-- <Type>Nécromancie</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>30 mètres</Range>
-- **Composantes :** <Components>V, S, M</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->30 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -7279,21 +7279,21 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3, les victimes subissent 2d4 dégâts. Les dégâts passent à 3d4 au niveau 5, 4d4 au niveau 6 et 5d4 au niveau 9.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rappel à la vie</Name>
+# <!--Name-->Rappel à la vie<!--/Name-->
 
-- SRD: <AltName>[Raise Dead](spells_vo.md#raise-dead)</AltName>
+- SRD: <!--AltName-->[Raise Dead](spells_vo.md#raise-dead)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 500 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -7305,21 +7305,21 @@ Ce sort referme les plaies mortelles, mais ne restaure pas les parties manquante
 
 Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux tests de caractéristique. À chaque fois que la cible termine un repos long, ce malus se réduit de 1 jusqu'à disparaître.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rayon affaiblissant</Name>
+# <!--Name-->Rayon affaiblissant<!--/Name-->
 
-- SRD: <AltName>[Ray of Enfeeblement](spells_vo.md#ray-of-enfeeblement)</AltName>
+- SRD: <!--AltName-->[Ray of Enfeeblement](spells_vo.md#ray-of-enfeeblement)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7327,21 +7327,21 @@ Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d
 
 La cible a droit à un [jet de sauvegarde] de [Constitution] contre le sort à la fin de chacun de ses tours. Le sort se termine si elle réussit.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rayon ardent</Name>
+# <!--Name-->Rayon ardent<!--/Name-->
 
-- SRD: <AltName>[Scorching Ray](spells_vo.md#scorching-ray)</AltName>
+- SRD: <!--AltName-->[Scorching Ray](spells_vo.md#scorching-ray)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7349,21 +7349,21 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous créez un rayon de plus par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rayon de givre</Name>
+# <!--Name-->Rayon de givre<!--/Name-->
 
-- SRD: <AltName>[Ray of Frost](spells_vo.md#ray-of-frost)</AltName>
+- SRD: <!--AltName-->[Ray of Frost](spells_vo.md#ray-of-frost)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7371,21 +7371,21 @@ Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Fait
 
 Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11 (3d8) et 17 (4d8).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rayon de lune</Name>
+# <!--Name-->Rayon de lune<!--/Name-->
 
-- SRD: <AltName>[Moonbeam](spells_vo.md#moonbeam)</AltName>
+- SRD: <!--AltName-->[Moonbeam](spells_vo.md#moonbeam)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7399,21 +7399,21 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d10 par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rayon de soleil</Name>
+# <!--Name-->Rayon de soleil<!--/Name-->
 
-- SRD: <AltName>[Sunbeam](spells_vo.md#sunbeam)</AltName>
+- SRD: <!--AltName-->[Sunbeam](spells_vo.md#sunbeam)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (ligne de 18 mètres)</Range>
-- **Composantes :** <Components>V, S, M (une loupe)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (ligne de 18 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une loupe)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7425,21 +7425,21 @@ Vous pouvez créer une nouvelle ligne de lumière en dépensant votre action à 
 
 Pendant toute la durée du sort, une boule de lumière brille dans votre main. Elle émet une lumière vive dans un rayon de 9 mètres et une lumière faible dans un rayon de 9 mètres supplémentaires. Cette lumière est de la même nature que la lumière du soleil.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Régénération</Name>
+# <!--Name-->Régénération<!--/Name-->
 
-- SRD: <AltName>[Regenerate](spells_vo.md#regenerate)</AltName>
+- SRD: <!--AltName-->[Regenerate](spells_vo.md#regenerate)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un moulin à prières et de l'eau bénite)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un moulin à prières et de l'eau bénite)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7449,21 +7449,21 @@ Si la cible a des membres sectionnés (des doigts, des jambes, une queue, etc.),
 
 Si vous disposez de la partie amputée et la maintenez contre le moignon, le sort ressoude instantanément le membre au moignon.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Réincarnation</Name>
+# <!--Name-->Réincarnation<!--/Name-->
 
-- SRD: <AltName>[Reincarnate](spells_vo.md#reincarnate)</AltName>
+- SRD: <!--AltName-->[Reincarnate](spells_vo.md#reincarnate)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (huiles et onguents rares d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7495,21 +7495,21 @@ La magie façonne un nouveau corps pour accueillir l'âme, ce qui risque de modi
 
 La créature réincarnée se souvient de son ancienne vie et de ses expériences passées. Elle conserve les capacités dont elle disposait sous sa forme d'origine, mais échange sa race précédente contre la nouvelle et modifie ses traits raciaux en conséquence.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Réparation</Name>
+# <!--Name-->Réparation<!--/Name-->
 
-- SRD: <AltName>[Mending](spells_vo.md#mending)</AltName>
+- SRD: <!--AltName-->[Mending](spells_vo.md#mending)<!--/AltName-->
 
-- <Type>Transmutation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (deux magnétites)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (deux magnétites)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7519,41 +7519,41 @@ Pour cela, vous devez toucher l'objet et la cassure ou la déchirure ne doit pas
 
 Le sort permet de réparer un objet magique ou une créature artificielle, mais pas de restaurer sa magie.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Repli expéditif</Name>
+# <!--Name-->Repli expéditif<!--/Name-->
 
-- SRD: <AltName>[Expeditious Retreat](spells_vo.md#expeditious-retreat)</AltName>
+- SRD: <!--AltName-->[Expeditious Retreat](spells_vo.md#expeditious-retreat)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action se précipiter quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Représailles infernales</Name>
+# <!--Name-->Représailles infernales<!--/Name-->
 
-- SRD: <AltName>[Hellish Rebuke](spells_vo.md#hellish-rebuke)</AltName>
+- SRD: <!--AltName-->[Hellish Rebuke](spells_vo.md#hellish-rebuke)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 réaction en réponse aux dégâts que vous inﬂige une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7561,21 +7561,21 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 
 **_À plus haut niveau._**Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d10 par emplacement de sort au-dessus du 1er.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Répulsion/attirance</Name>
+# <!--Name-->Répulsion/attirance<!--/Name-->
 
-- SRD: <AltName>[Antipathy/Sympathy](spells_vo.md#antipathysympathy)</AltName>
+- SRD: <!--AltName-->[Antipathy/Sympathy](spells_vo.md#antipathysympathy)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)</Components>
-- **Durée :** <Duration>10 jours</Duration>
-- Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)<!--/Components-->
+- **Durée :** <!--Duration-->10 jours<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7595,21 +7595,21 @@ Tant que la cible l'effraie, la créature doit impérativement utiliser son dép
 
 Une créature qui réussit son [jet de sauvegarde] contre l'effet est immunisée contre lui pendant 1 minute, après quoi, il peut de nouveau l'affecter.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Résistance</Name>
+# <!--Name-->Résistance<!--/Name-->
 
-- SRD: <AltName>[Resistance](spells_vo.md#resistance)</AltName>
+- SRD: <!--AltName-->[Resistance](spells_vo.md#resistance)<!--/AltName-->
 
-- <Type>Abjuration</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une cape miniature)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une cape miniature)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7617,61 +7617,61 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, elle peut
 
 Le sort se termine alors.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Respiration aquatique</Name>
+# <!--Name-->Respiration aquatique<!--/Name-->
 
-- SRD: <AltName>[Water Breathing](spells_vo.md#water-breathing)</AltName>
+- SRD: <!--AltName-->[Water Breathing](spells_vo.md#water-breathing)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit roseau ou un brin de paille)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit roseau ou un brin de paille)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Restauration inférieure</Name>
+# <!--Name-->Restauration inférieure<!--/Name-->
 
-- SRD: <AltName>[Lesser Restoration](spells_vo.md#lesser-restoration)</AltName>
+- SRD: <!--AltName-->[Lesser Restoration](spells_vo.md#lesser-restoration)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [aveuglé], [assourdi], [paralysé] ou [empoisonné].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Restauration supérieure</Name>
+# <!--Name-->Restauration supérieure<!--/Name-->
 
-- SRD: <AltName>[Greater Restoration](spells_vo.md#greater-restoration)</AltName>
+- SRD: <!--AltName-->[Greater Restoration](spells_vo.md#greater-restoration)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (poussière de diamant d'une valeur minimale de 100 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7685,21 +7685,21 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 
 * Un effet réduisant le maximum de points de vie de la cible.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Résurrection</Name>
+# <!--Name-->Résurrection<!--/Name-->
 
-- SRD: <AltName>[Resurrection](spells_vo.md#resurrection)</AltName>
+- SRD: <!--AltName-->[Resurrection](spells_vo.md#resurrection)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un diamant d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7715,21 +7715,21 @@ Si ce sort est destiné à une créature décédée depuis un an ou plus, son in
 
 Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavantage lors des jets d'attaque et de sauvegarde et des tests de caractéristique jusqu'à ce que vous ayez terminé un repos long.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Résurrection suprême</Name>
+# <!--Name-->Résurrection suprême<!--/Name-->
 
-- SRD: <AltName>[True Resurrection](spells_vo.md#true-resurrection)</AltName>
+- SRD: <!--AltName-->[True Resurrection](spells_vo.md#true-resurrection)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 heure</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 heure<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7739,21 +7739,21 @@ Si son âme est libre et consentante, elle revient à la vie avec tous ses point
 
 Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes les maladies et lève toutes les malédictions qui affectaient éventuellement la cible à sa mort. Il remplace les organes et les membres abîmés ou manquants. Il peut même fournir un nouveau corps à la cible si l'original n'existe plus, mais dans ce cas, vous devez prononcer le nom de la créature à ressusciter. Elle apparaît alors dans un emplacement inoccupé de votre choix dans un rayon de 3 mètres autour de vous.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Rêve</Name>
+# <!--Name-->Rêve<!--/Name-->
 
-- SRD: <AltName>[Dream](spells_vo.md#dream)</AltName>
+- SRD: <!--AltName-->[Dream](spells_vo.md#dream)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>spéciale</Range>
-- **Composantes :** <Components>V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->spéciale<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7765,41 +7765,41 @@ Vous pouvez affubler le messager d'une apparence que la cible trouvera monstrueu
 
 Si vous êtes en possession d'un élément corporel de la cible, comme une mèche de cheveux, des rognures d'ongles ou autre, elle subit un désavantage lors de son [jet de sauvegarde].
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Revigorer</Name>
+# <!--Name-->Revigorer<!--/Name-->
 
-- SRD: <AltName>[Revivify](spells_vo.md#revivify)</AltName>
+- SRD: <!--AltName-->[Revivify](spells_vo.md#revivify)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (diamant d'une valeur de 300 po, que le sort consume)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (diamant d'une valeur de 300 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature morte au cours de la minute précédente. Elle revient à la vie avec 1 point de vie. Ce sort ne ramène pas à la vie les créatures mortes de vieillesse et ne restaure pas les parties manquantes du corps.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sanctification</Name>
+# <!--Name-->Sanctification<!--/Name-->
 
-- SRD: <AltName>[Hallow](spells_vo.md#hallow)</AltName>
+- SRD: <!--AltName-->[Hallow](spells_vo.md#hallow)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>24 heures</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->24 heures<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (herbes, huiles et encens d'une valeur minimale de 1 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7833,21 +7833,21 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 
 **_Terreur._** Les créatures affectées sont [terrorisées] tant qu'elles se trouvent dans la zone.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sanctuaire</Name>
+# <!--Name-->Sanctuaire<!--/Name-->
 
-- SRD: <AltName>[Sanctuary](spells_vo.md#sanctuary)</AltName>
+- SRD: <!--AltName-->[Sanctuary](spells_vo.md#sanctuary)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un petit miroir en argent)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un petit miroir en argent)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7857,21 +7857,21 @@ Jusqu'à la fin du sort, toute créature qui vise la cible avec une attaque ou u
 
 Ce sort se termine si la créature protégée attaque ou lance un sort affectant une créature ennemie.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sanctuaire privé</Name>
+# <!--Name-->Sanctuaire privé<!--/Name-->
 
-- SRD: <AltName>[Private Sanctum](spells_vo.md#private-sanctum)</AltName>
+- SRD: <!--AltName-->[Private Sanctum](spells_vo.md#private-sanctum)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -7895,19 +7895,19 @@ Si on lance ce sort tous les jours au même endroit pendant un an, ses effets de
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, vous pouvez augmenter la taille du cube de 30 mètres par niveau au-delà du niveau 4. Ainsi, avec un emplacement de niveau 5, vous pouvez protéger une zone de 60 mètres de côté.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sang du démon</Name>
+# <!--Name-->Sang du démon<!--/Name-->
 
-- <Type>Nécromancie</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une fiole d'un mélange de sang et d'acide)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une fiole d'un mélange de sang et d'acide)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -7915,41 +7915,41 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Saut</Name>
+# <!--Name-->Saut<!--/Name-->
 
-- SRD: <AltName>[Jump](spells_vo.md#jump)</AltName>
+- SRD: <!--AltName-->[Jump](spells_vo.md#jump)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une patte arrière de sauterelle)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une patte arrière de sauterelle)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Scrutation</Name>
+# <!--Name-->Scrutation<!--/Name-->
 
-- SRD: <AltName>[Scrying](spells_vo.md#scrying)</AltName>
+- SRD: <!--AltName-->[Scrying](spells_vo.md#scrying)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un focaliseur d'une valeur minimale de 1 000 po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7973,21 +7973,21 @@ Si elle rate son jet, le sort crée un organe sensoriel [invisible] dans un rayo
 
 Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vous avez déjà vu. L'organe sensoriel apparaît alors à cet endroit et n'en bouge pas.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Séquestration</Name>
+# <!--Name-->Séquestration<!--/Name-->
 
-- SRD: <AltName>[Sequester](spells_vo.md#sequester)</AltName>
+- SRD: <!--AltName-->[Sequester](spells_vo.md#sequester)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -7997,21 +7997,21 @@ Si la cible est une créature, elle entre en état d'animation suspendue. Le tem
 
 Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce peut être ce que vous voulez, mais ce doit être visible ou se produire dans un rayon de 1,5 kilomètre autour de la cible. Par exemple, « au bout de 1 000 ans » ou « quand la tarasque se réveillera ». Ce sort se termine également si la cible subit le moindre dégât.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Serviteur invisible</Name>
+# <!--Name-->Serviteur invisible<!--/Name-->
 
-- SRD: <AltName>[Unseen Servant](spells_vo.md#unseen-servant)</AltName>
+- SRD: <!--AltName-->[Unseen Servant](spells_vo.md#unseen-servant)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de ficelle et un morceau de bois)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de ficelle et un morceau de bois)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8021,21 +8021,21 @@ Une fois à chacun de vos tours, vous pouvez utiliser une action bonus pour ordo
 
 Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plus de 18 mètres de vous, le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Silence</Name>
+# <!--Name-->Silence<!--/Name-->
 
-- SRD: <AltName>[Silence](spells_vo.md#silence)</AltName>
+- SRD: <!--AltName-->[Silence](spells_vo.md#silence)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>2</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->2<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8043,21 +8043,21 @@ Pendant toute la durée du sort, aucun son ne peut se créer au sein d'une sphè
 
 Une créature ou un objet entièrement contenu dans la sphère sont immunisés contre les dégâts de tonnerre, et les créatures entièrement contenues dans la sphère sont [assourdies]. Il est impossible de lancer un sort à composante verbale depuis la sphère.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Simulacre</Name>
+# <!--Name-->Simulacre<!--/Name-->
 
-- SRD: <AltName>[Simulacrum](spells_vo.md#simulacrum)</AltName>
+- SRD: <!--AltName-->[Simulacrum](spells_vo.md#simulacrum)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>12 heures</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->12 heures<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1 500 po que le sort consume, à saupoudrer sur le double)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8071,21 +8071,21 @@ Si le simulacre est endommagé, vous pouvez le réparer dans un laboratoire d'al
 
 Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà en activité est détruit sur-lechamp.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Simulacre de vie</Name>
+# <!--Name-->Simulacre de vie<!--/Name-->
 
-- SRD: <AltName>[False Life](spells_vo.md#false-life)</AltName>
+- SRD: <!--AltName-->[False Life](spells_vo.md#false-life)<!--/AltName-->
 
-- <Type>Nécromancie</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une petite quantité d'alcool ou de spiritueux)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Nécromancie<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite quantité d'alcool ou de spiritueux)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8093,21 +8093,21 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Soin des blessures</Name>
+# <!--Name-->Soin des blessures<!--/Name-->
 
-- SRD: <AltName>[Cure Wounds](spells_vo.md#cure-wounds)</AltName>
+- SRD: <!--AltName-->[Cure Wounds](spells_vo.md#cure-wounds)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide], [Paladin], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide], [Paladin], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8115,21 +8115,21 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Soin des blessures de groupe</Name>
+# <!--Name-->Soin des blessures de groupe<!--/Name-->
 
-- SRD: <AltName>[Mass Cure Wounds](spells_vo.md#mass-cure-wounds)</AltName>
+- SRD: <!--AltName-->[Mass Cure Wounds](spells_vo.md#mass-cure-wounds)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8137,21 +8137,21 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 6 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sommeil</Name>
+# <!--Name-->Sommeil<!--/Name-->
 
-- SRD: <AltName>[Sleep](spells_vo.md#sleep)</AltName>
+- SRD: <!--AltName-->[Sleep](spells_vo.md#sleep)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de sable fin, des pétales de rose ou un criquet)<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8163,21 +8163,21 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, lancez 2d8 de plus par niveau au-delà du niveau 1.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Souhait</Name>
+# <!--Name-->Souhait<!--/Name-->
 
-- SRD: <AltName>[Wish](spells_vo.md#wish)</AltName>
+- SRD: <!--AltName-->[Wish](spells_vo.md#wish)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8205,21 +8205,21 @@ Formulez votre souhait à votre MJ de la manière la plus précise possible. Le 
 
 Le stress lié à l'incantation d'un souhait pour faire autre chose que répliquer un autre sort vous affaiblit grandement. À tel point que vous subissez 1d10 dégâts nécrotiques par niveau de sort à chaque fois que vous lancez un autre sort par la suite, et ce jusqu'à ce que vous ayez terminé un repos long. Il est absolument impossible de réduire ces dégâts ou de les empêcher, de quelque manière que ce soit. De plus, votre [Force] tombe à 3 (si elle n'est pas déjà de 3 ou moins) pendant 2d4 jours. À chaque fois que vous passez une de ces journées à vous reposer et ne rien faire de plus que des activités légères, le temps de récupération qui vous reste diminue de 2 jours. Enfin, suite à ce stress, il y a 33 % de chances que vous ne puissiez plus jamais lancer souhait.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sphère de feu</Name>
+# <!--Name-->Sphère de feu<!--/Name-->
 
-- SRD: <AltName>[Flaming Sphere](spells_vo.md#flaming-sphere)</AltName>
+- SRD: <!--AltName-->[Flaming Sphere](spells_vo.md#flaming-sphere)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de suif, une pincée de soufre et un peu de poudre de fer)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8231,21 +8231,21 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sphère glacée</Name>
+# <!--Name-->Sphère glacée<!--/Name-->
 
-- SRD: <AltName>[Freezing Sphere](spells_vo.md#freezing-sphere)</AltName>
+- SRD: <!--AltName-->[Freezing Sphere](spells_vo.md#freezing-sphere)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>90 mètres</Range>
-- **Composantes :** <Components>V, S, M (une petite sphère de cristal)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->90 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une petite sphère de cristal)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8263,21 +8263,21 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau 6.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Sphère résiliente</Name>
+# <!--Name-->Sphère résiliente<!--/Name-->
 
-- SRD: <AltName>[Resilient Sphere](spells_vo.md#resilient-sphere)</AltName>
+- SRD: <!--AltName-->[Resilient Sphere](spells_vo.md#resilient-sphere)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de cristal transparent hémisphérique et son équivalent en gomme arabique)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8291,19 +8291,19 @@ Une créature enfermée dans la sphère peut utiliser son action pour exercer un
 
 Un sort de _[désintégration]_ visant la sphère la détruit sans endommager ce qu'elle contient.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Stalagmites fulgurantes</Name>
+# <!--Name-->Stalagmites fulgurantes<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>30 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute.</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->30 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute.<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8311,19 +8311,19 @@ Vous faites jaillir du sol des stalagmites de pierre d'une hauteur de 3 mètres 
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, les dégâts perforants augmentent de 2d4 pour chaque niveau au-delà du niveau 2.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Strangulation</Name>
+# <!--Name-->Strangulation<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 m</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 m<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8331,21 +8331,21 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 3, vous infligez 2d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par tranche de 2 niveaux de plus (jusqu'à 5d6 au niveau 9).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Suggestion</Name>
+# <!--Name-->Suggestion<!--/Name-->
 
-- SRD: <AltName>[Suggestion](spells_vo.md#suggestion)</AltName>
+- SRD: <!--AltName-->[Suggestion](spells_vo.md#suggestion)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 8 heures</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8361,21 +8361,21 @@ Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pe
 
 Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Suggestion de groupe</Name>
+# <!--Name-->Suggestion de groupe<!--/Name-->
 
-- SRD: <AltName>[Mass Suggestion](spells_vo.md#mass-suggestion)</AltName>
+- SRD: <!--AltName-->[Mass Suggestion](spells_vo.md#mass-suggestion)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, M (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8389,21 +8389,21 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la durée du sort est de 10 jours. Si vous utilisez un emplacement de niveau 8, elle est de 30 jours et si vous utilisez un emplacement de niveau 9, elle est de 1 an et 1 jour.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Symbole</Name>
+# <!--Name-->Symbole<!--/Name-->
 
-- SRD: <AltName>[Symbol](spells_vo.md#symbol)</AltName>
+- SRD: <!--AltName-->[Symbol](spells_vo.md#symbol)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation ou déclenchement</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1 000 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation ou déclenchement<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8437,21 +8437,21 @@ Pendant tout ce temps, elles sont incapables de tenir une conversation sensée e
 
 Une telle créature se réveille si elle subit des dégâts ou si quelqu'un utilise son action pour la réveiller en la secouant ou la giflant.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Télékinésie</Name>
+# <!--Name-->Télékinésie<!--/Name-->
 
-- SRD: <AltName>[Telekinesis](spells_vo.md#telekinesis)</AltName>
+- SRD: <!--AltName-->[Telekinesis](spells_vo.md#telekinesis)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8467,21 +8467,21 @@ Si l'objet est porté ou transporté par une créature, faites un test de caract
 
 Vous exercez un contrôle précis sur les objets pris dans votre étreinte télékinétique, vous pouvez donc manipuler un outil basique, ouvrir une porte ou un récipient, déposer un objet dans un récipient ou en retirer un, ou encore verser le contenu d'une fiole.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Téléportation</Name>
+# <!--Name-->Téléportation<!--/Name-->
 
-- SRD: <AltName>[Teleport](spells_vo.md#teleport)</AltName>
+- SRD: <!--AltName-->[Teleport](spells_vo.md#teleport)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8515,21 +8515,21 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 
 **_Incident._** La magie imprévisible du sort complique le voyage. Chaque créature téléportée (ou l'objet téléporté) subit 3d10 dégâts de force tandis que le MJ relance le dé pour savoir où vous arrivez (sachant qu'il peut se produire plusieurs incidents, chacun infligeant ses propres dégâts).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tempête de feu</Name>
+# <!--Name-->Tempête de feu<!--/Name-->
 
-- SRD: <AltName>[Fire Storm](spells_vo.md#fire-storm)</AltName>
+- SRD: <!--AltName-->[Fire Storm](spells_vo.md#fire-storm)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>7</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->7<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8539,21 +8539,21 @@ Celles qui échouent subissent 7d10 dégâts de feu, les autres la moitié seule
 
 Le feu endommage les objets présents dans la zone et embrase les objets inflammables de la zone que personne ne porte ou ne transporte. Si vous le désirez, les flammes peuvent épargner la végétation présente dans la zone.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tempête de grêle</Name>
+# <!--Name-->Tempête de grêle<!--/Name-->
 
-- SRD: <AltName>[Ice Storm](spells_vo.md#ice-storm)</AltName>
+- SRD: <!--AltName-->[Ice Storm](spells_vo.md#ice-storm)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>90 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->90 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poussière et quelques gouttes d'eau)<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8565,21 +8565,21 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 5 ou supérieur, les dégâts contondants augmentent de 1d8 par niveau au-delà du niveau 4.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tempête de neige</Name>
+# <!--Name-->Tempête de neige<!--/Name-->
 
-- SRD: <AltName>[Sleet Storm](spells_vo.md#sleet-storm)</AltName>
+- SRD: <!--AltName-->[Sleet Storm](spells_vo.md#sleet-storm)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>45 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poussière et quelques gouttes d'eau)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->45 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poussière et quelques gouttes d'eau)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8589,19 +8589,19 @@ Le sol de la zone est couvert d'une couche de verglas si glissante que le terrai
 
 Si une créature se concentre dans la zone d'effet du sort, elle doit réussir un [jet de sauvegarde] de [Constitution] contre le DD du [jet de sauvegarde] de votre sort, ou perdre sa concentration.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tempête de sable</Name>
+# <!--Name-->Tempête de sable<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>1 kilomètre</Range>
-- **Composantes :** <Components>V, S, M (une rose des sables)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->1 kilomètre<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une rose des sables)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8611,21 +8611,21 @@ Une fois la direction fixée, il n'est plus possible d'en modifier la course. La
 
 Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dégâts supplémentaires (qui sont divisés par deux en cas de [jet de sauvegarde] de [Force] réussi).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tempête vengeresse</Name>
+# <!--Name-->Tempête vengeresse<!--/Name-->
 
-- SRD: <AltName>[Storm of Vengeance](spells_vo.md#storm-of-vengeance)</AltName>
+- SRD: <!--AltName-->[Storm of Vengeance](spells_vo.md#storm-of-vengeance)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>9</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>champ de vision</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->9<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->champ de vision<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8643,21 +8643,21 @@ De menaçantes nuées orageuses se forment en un point situé dans votre champ d
 
 Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit de se concentrer sur un sort. Enfin, des bourrasques de vent fort (de 30 à 75 kilomètres par heure) dispersent automatiquement le brouillard, la brume et les phénomènes similaires stagnant dans la zone, qu'ils soient d'origine ordinaire ou magique.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Ténèbres</Name>
+# <!--Name-->Ténèbres<!--/Name-->
 
-- SRD: <AltName>[Darkness](spells_vo.md#darkness)</AltName>
+- SRD: <!--AltName-->[Darkness](spells_vo.md#darkness)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, M (des poils de chauve-souris et une goutte de poix ou un bout de charbon)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8667,21 +8667,21 @@ Si le point que vous avez choisi est un objet en votre possession ou un objet qu
 
 Si une partie de la zone affectée par ce sort chevauche une zone de lumière issue d'un sort de niveau 2 ou moins, elle dissipe le sort de lumière.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tentacules noirs</Name>
+# <!--Name-->Tentacules noirs<!--/Name-->
 
-- SRD: <AltName>[Black Tentacles](spells_vo.md#black-tentacles)</AltName>
+- SRD: <!--AltName-->[Black Tentacles](spells_vo.md#black-tentacles)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>27 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->27 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de tentacule appartenant à une pieuvre ou un calmar géant)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8691,21 +8691,21 @@ Quand une créature pénètre dans la zone affectée pour la première fois au c
 
 Une créature [entravée] par les tentacules peut utiliser son action pour effectuer un test de [Force] ou de [Dextérité] (à elle de choisir) contre le DD de sauvegarde de votre sort. Si elle le réussit, elle parvient à se libérer.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Terrain hallucinatoire</Name>
+# <!--Name-->Terrain hallucinatoire<!--/Name-->
 
-- SRD: <AltName>[Hallucinatory Terrain](spells_vo.md#hallucinatory-terrain)</AltName>
+- SRD: <!--AltName-->[Hallucinatory Terrain](spells_vo.md#hallucinatory-terrain)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>4</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>90 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pierre, une brindille et un bout de plante verte)</Components>
-- **Durée :** <Duration>24 heures</Duration>
-- Classes: <Classes>[Barde], [Druide], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->4<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->90 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pierre, une brindille et un bout de plante verte)<!--/Components-->
+- **Durée :** <!--Duration-->24 heures<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8717,21 +8717,21 @@ Les caractéristiques tactiles de la zone ne changent pas, les créatures qui y 
 
 Une fois qu'une créature a compris l'illusion, elle la voit comme une image floue superposée au terrain réel.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Texte illusoire</Name>
+# <!--Name-->Texte illusoire<!--/Name-->
 
-- SRD: <AltName>[Illusory Script](spells_vo.md#illusory-script)</AltName>
+- SRD: <!--AltName-->[Illusory Script](spells_vo.md#illusory-script)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>1</Level> (<Ritual>rituel</Ritual>)
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)</Components>
-- **Durée :** <Duration>10 jours</Duration>
-- Classes: <Classes>[Barde], [Magicien], [Ombrelame], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->1<!--/Level--> (<!--Ritual-->rituel<!--/Ritual-->)
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->S, M (de l'encre à base de plomb valant au minimum 10 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->10 jours<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien], [Ombrelame], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8741,21 +8741,21 @@ Vous écrivez sur un papier, un parchemin ou un autre matériau adapté à l'éc
 
 Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original aussi. Une créature dotée de vision parfaite est capable de lire le message original.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Thaumaturgie</Name>
+# <!--Name-->Thaumaturgie<!--/Name-->
 
-- SRD: <AltName>[Thaumaturgy](spells_vo.md#thaumaturgy)</AltName>
+- SRD: <!--AltName-->[Thaumaturgy](spells_vo.md#thaumaturgy)<!--/AltName-->
 
-- <Type>Transmutation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8777,21 +8777,21 @@ Si vous lancez ce sort à plusieurs reprises, vous ne pouvez avoir que trois eff
 
 Vous pouvez révoquer un tel effet par une action.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Toile d'araignée</Name>
+# <!--Name-->Toile d'araignée<!--/Name-->
 
-- SRD: <AltName>[Web](spells_vo.md#web)</AltName>
+- SRD: <!--AltName-->[Web](spells_vo.md#web)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S, M (un bout de toile d'araignée)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un bout de toile d'araignée)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8807,21 +8807,21 @@ Une créature [entravée] par les toiles peut utiliser son action pour effectuer
 
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu brûle en 1 round, infligeant 2d4 dégâts de feu à toute créature qui commence son tour dans les flammes.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Trait de feu</Name>
+# <!--Name-->Trait de feu<!--/Name-->
 
-- SRD: <AltName>[Fire Bolt](spells_vo.md#fire-bolt)</AltName>
+- SRD: <!--AltName-->[Fire Bolt](spells_vo.md#fire-bolt)<!--/AltName-->
 
-- <Type>Évocation</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8829,19 +8829,19 @@ Vous lancez un trait enflammé sur une créature ou un objet à portée. Faites 
 
 Les dégâts du sort augmentent de 1d10 quand vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Transpercer</Name>
+# <!--Name-->Transpercer<!--/Name-->
 
-- <Type>Invocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action bonus</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Rôdeur]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action bonus<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8851,41 +8851,41 @@ Retirer l'arme lui inflige 2d4 dégâts, ou la moitié si elle réussit un [jet 
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2, remplacez les d4 par des d6. Pour chaque niveau de sort supérieur augmentez le dé utilisé, jusqu'au d12 pour un emplacement de niveau 5.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Transport végétal</Name>
+# <!--Name-->Transport végétal<!--/Name-->
 
-- SRD: <AltName>[Transport via Plants](spells_vo.md#transport-via-plants)</AltName>
+- SRD: <!--AltName-->[Transport via Plants](spells_vo.md#transport-via-plants)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>3 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 round</Duration>
-- Classes: <Classes>[Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->3 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 round<!--/Duration-->
+- Classes: <!--Classes-->[Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure située à portée et une autre plante de mêmes dimensions, située à n'importe quelle distance mais sur le même plan d'existence. Vous devez impérativement avoir vu ou touché la plante de destination au moins une fois auparavant. Pendant toute la durée du sort, n'importe quelle créature peut entrer par la plante de départ et ressortir par celle d'arrivée en dépensant 1,50 mètre de déplacement.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tremblement de terre</Name>
+# <!--Name-->Tremblement de terre<!--/Name-->
 
-- SRD: <AltName>[Earthquake](spells_vo.md#earthquake)</AltName>
+- SRD: <!--AltName-->[Earthquake](spells_vo.md#earthquake)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>8</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>150 mètres</Range>
-- **Composantes :** <Components>V, S, M (une pincée de poussière, un caillou et un peu d'argile)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 minute</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Ensorceleur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->8<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->150 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de poussière, un caillou et un peu d'argile)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Ensorceleur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8907,21 +8907,21 @@ Une structure s'effondre automatiquement si une fissure s'ouvre sous elle (voir 
 
 Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un [jet de sauvegarde] de [Dextérité]. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe à terre et elle est ensevelie sous les décombres. Il faut réussir un test de [Force (Athlétisme)] DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son [jet de sauvegarde], elle subit seulement la moitié des dégâts, ne tombe pas à terre et n'est pas ensevelie.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Tromperie</Name>
+# <!--Name-->Tromperie<!--/Name-->
 
-- SRD: <AltName>[Mislead](spells_vo.md#mislead)</AltName>
+- SRD: <!--AltName-->[Mislead](spells_vo.md#mislead)<!--/AltName-->
 
-- <Type>Illusion</Type> de niveau <Level>5</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 heure</Duration>
-- Classes: <Classes>[Barde], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Illusion<!--/Type--> de niveau <!--Level-->5<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -8933,21 +8933,21 @@ Vous pouvez voir par les yeux et entendre par les oreilles de votre double comme
 
 Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à ce qui se passe directement autour de vous.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Trouver les pièges</Name>
+# <!--Name-->Trouver les pièges<!--/Name-->
 
-- SRD: <AltName>[Find Traps](spells_vo.md#find-traps)</AltName>
+- SRD: <!--AltName-->[Find Traps](spells_vo.md#find-traps)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>36 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Clerc], [Druide], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->36 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Clerc], [Druide], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8955,21 +8955,21 @@ Vous percevez la présence de tout piège se trouvant à portée et dans votre c
 
 Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vous donne une idée générale de la nature du danger qu'il représente.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Trouver un chemin</Name>
+# <!--Name-->Trouver un chemin<!--/Name-->
 
-- SRD: <AltName>[Find the Path](spells_vo.md#find-the-path)</AltName>
+- SRD: <!--AltName-->[Find the Path](spells_vo.md#find-the-path)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 minute</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 jour</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Druide]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 minute<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un ensemble d'instruments de divination comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées d'une valeur de 100 po et un objet venant de l'endroit que vous cherchez)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 jour<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Druide]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -8977,21 +8977,21 @@ Ce sort vous permet de trouver le chemin physique le plus direct et le plus cour
 
 Tant que le sort persiste et que vous êtes sur le même plan d'existence que votre destination, vous savez dans quelle direction et à quelle distance elle se trouve. Tant que vous faites route vers votre destination, à chaque fois que vous avez le choix entre plusieurs itinéraires, vous déterminez automatiquement celui qui sera le plus court et le plus direct (mais pas forcément le plus sûr).
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Trouver une monture</Name>
+# <!--Name-->Trouver une monture<!--/Name-->
 
-- SRD: <AltName>[Find Steed](spells_vo.md#find-steed)</AltName>
+- SRD: <!--AltName-->[Find Steed](spells_vo.md#find-steed)<!--/AltName-->
 
-- <Type>Invocation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>10 minutes</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Invocation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->10 minutes<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -9009,21 +9009,21 @@ Vous pouvez communiquer par télépathie avec votre monture tant qu'elle se trou
 
 Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vous pouvez libérer la monture du lien quand vous le désirez, par une action qui la fait disparaître.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Vague tonnante</Name>
+# <!--Name-->Vague tonnante<!--/Name-->
 
-- SRD: <AltName>[Thunderwave](spells_vo.md#thunderwave)</AltName>
+- SRD: <!--AltName-->[Thunderwave](spells_vo.md#thunderwave)<!--/AltName-->
 
-- <Type>Évocation</Type> de niveau <Level>1</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle (cube de 4,50 mètres)</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>instantanée</Duration>
-- Classes: <Classes>[Barde], [Druide], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->1<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle (cube de 4,50 mètres)<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->instantanée<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Druide], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -9037,21 +9037,21 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les dégâts augmentent de 1d8 par niveau au-delà du premier.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Verrou magique</Name>
+# <!--Name-->Verrou magique<!--/Name-->
 
-- SRD: <AltName>[Arcane Lock](spells_vo.md#arcane-lock)</AltName>
+- SRD: <!--AltName-->[Arcane Lock](spells_vo.md#arcane-lock)<!--/AltName-->
 
-- <Type>Abjuration</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)</Components>
-- **Durée :** <Duration>jusqu'à dissipation</Duration>
-- Classes: <Classes>[Magicien]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Abjuration<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (poussière d'or d'une valeur minimum de 25 po, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->jusqu'à dissipation<!--/Duration-->
+- Classes: <!--Classes-->[Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -9059,61 +9059,61 @@ Vous touchez une ouverture fermée, comme une porte, une fenêtre, un portail, u
 
 Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser ou à ouvrir de force : le DD pour le briser ou crocheter ses éventuelles serrures augmente de 10.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Viser juste</Name>
+# <!--Name-->Viser juste<!--/Name-->
 
-- SRD: <AltName>[True Strike](spells_vo.md#true-strike)</AltName>
+- SRD: <!--AltName-->[True Strike](spells_vo.md#true-strike)<!--/AltName-->
 
-- <Type>Divination</Type>, <Level>tour de magie</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>S</Components>
-- **Durée :** <Duration>concentration, jusqu'à 1 round</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type-->, <!--Level-->tour de magie<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->S<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 1 round<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'avantage lors de votre premier jet d'attaque contre elle, à condition que le sort ne se soit pas terminé avant.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Vision dans le noir</Name>
+# <!--Name-->Vision dans le noir<!--/Name-->
 
-- SRD: <AltName>[Darkvision](spells_vo.md#darkvision)</AltName>
+- SRD: <!--AltName-->[Darkvision](spells_vo.md#darkvision)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une pincée de carotte séchée ou une agate)</Components>
-- **Durée :** <Duration>8 heures</Duration>
-- Classes: <Classes>[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de carotte séchée ou une agate)<!--/Components-->
+- **Durée :** <!--Duration-->8 heures<!--/Duration-->
+- Classes: <!--Classes-->[Druide], [Ensorceleur], [Magicien], [Ombrelame], [Rôdeur]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
 Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Vision suprême</Name>
+# <!--Name-->Vision suprême<!--/Name-->
 
-- SRD: <AltName>[True Seeing](spells_vo.md#true-seeing)</AltName>
+- SRD: <!--AltName-->[True Seeing](spells_vo.md#true-seeing)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>6</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->6<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -9121,19 +9121,19 @@ Grâce à ce sort, la créature consentante que vous touchez est capable de voir
 
 Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repère les portes dérobées cachées par magie et voit le plan éthéré, tout cela dans un rayon de 36 mètres.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Vitalité</Name>
+# <!--Name-->Vitalité<!--/Name-->
 
-- <Type>Évocation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>9 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>1 minute</Duration>
-- Classes: <Classes>[Paladin]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Évocation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->9 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->1 minute<!--/Duration-->
+- Classes: <!--Classes-->[Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
@@ -9141,41 +9141,41 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 
 **_À plus haut niveau._** Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, vous augmentez le nombre de points de vie récupéré par round de 1 point par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Voir l'invisible</Name>
+# <!--Name-->Voir l'invisible<!--/Name-->
 
-- SRD: <AltName>[See Invisibility](spells_vo.md#see-invisibility)</AltName>
+- SRD: <!--AltName-->[See Invisibility](spells_vo.md#see-invisibility)<!--/AltName-->
 
-- <Type>Divination</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>personnelle</Range>
-- **Composantes :** <Components>V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)</Components>
-- **Durée :** <Duration>1 heure</Duration>
-- Classes: <Classes>[Barde], [Ensorceleur], [Magicien]</Classes>
-- Source: <Source>(MDR p)</Source>
+- Sort: <!--Type-->Divination<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->personnelle<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une pincée de talc et un saupoudrage de poudre d'argent)<!--/Components-->
+- **Durée :** <!--Duration-->1 heure<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Ensorceleur], [Magicien]<!--/Classes-->
+- Source: <!--Source-->(MDR p)<!--/Source-->
 
 ### Description
 
 Pendant toute la durée du sort, vous voyez les créatures et les objets [invisibles] comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Vol</Name>
+# <!--Name-->Vol<!--/Name-->
 
-- SRD: <AltName>[Fly](spells_vo.md#fly)</AltName>
+- SRD: <!--AltName-->[Fly](spells_vo.md#fly)<!--/AltName-->
 
-- <Type>Transmutation</Type> de niveau <Level>3</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>contact</Range>
-- **Composantes :** <Components>V, S, M (une rémige)</Components>
-- **Durée :** <Duration>concentration, jusqu'à 10 minutes</Duration>
-- Classes: <Classes>[Ensorceleur], [Magicien], [Sorcier]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->3<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->contact<!--/Range-->
+- **Composantes :** <!--Components-->V, S, M (une rémige)<!--/Components-->
+- **Durée :** <!--Duration-->concentration, jusqu'à 10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Ensorceleur], [Magicien], [Sorcier]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -9183,21 +9183,21 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 
 **_À plus haut niveau._** Si vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau 3.
 
-</Spell>
+<!--/Spell-->
 
-<Spell>
+<!--Spell-->
 
-# <Name>Zone de vérité</Name>
+# <!--Name-->Zone de vérité<!--/Name-->
 
-- SRD: <AltName>[Zone of Truth](spells_vo.md#zone-of-truth)</AltName>
+- SRD: <!--AltName-->[Zone of Truth](spells_vo.md#zone-of-truth)<!--/AltName-->
 
-- <Type>Enchantement</Type> de niveau <Level>2</Level>
-- **Temps d'incantation :** <CastingTime>1 action</CastingTime>
-- **Portée :** <Range>18 mètres</Range>
-- **Composantes :** <Components>V, S</Components>
-- **Durée :** <Duration>10 minutes</Duration>
-- Classes: <Classes>[Barde], [Clerc], [Paladin]</Classes>
-- Source: <Source>(MDR p)(SRD p)</Source>
+- Sort: <!--Type-->Enchantement<!--/Type--> de niveau <!--Level-->2<!--/Level-->
+- **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
+- **Portée :** <!--Range-->18 mètres<!--/Range-->
+- **Composantes :** <!--Components-->V, S<!--/Components-->
+- **Durée :** <!--Duration-->10 minutes<!--/Duration-->
+- Classes: <!--Classes-->[Barde], [Clerc], [Paladin]<!--/Classes-->
+- Source: <!--Source-->(MDR p)(SRD p)<!--/Source-->
 
 ### Description
 
@@ -9205,9 +9205,9 @@ Vous créez une zone magique capable de protéger contre la duplicité, de la fo
 
 Une créature affectée est consciente du sort qui la limite et peut donc soigneusement éviter de répondre aux questions qui susciteraient normalement un mensonge de sa part. Une telle créature peut rester évasive dans ses réponses, tant qu'elle reste dans les limites de la vérité.
 
-</Spell>
+<!--/Spell-->
 
-</SpellsHD>
+<!--/SpellsHD-->
 
 [à terre]: conditions_hd.md#À-terre
 [assourdi]: conditions_hd.md#assourdi
