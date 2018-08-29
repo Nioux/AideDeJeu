@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.Tools;
+using AideDeJeu.ViewModels;
 using AideDeJeuLib;
 using Markdig;
 using System;
@@ -45,8 +46,7 @@ namespace AideDeJeuCmd
                     .Build();
                 //var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
-
-                var monsters = AideDeJeu.Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
+                var monsters = AideDeJeu.ViewModels.StoreViewModel.ToItem(md) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
                 //document.Dump();
                 Console.WriteLine("ok");
                 //var md2 = monsters.ToMarkdownString();
@@ -64,7 +64,7 @@ namespace AideDeJeuCmd
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
-            var items = AideDeJeu.Tools.MarkdownExtensions.ToItem(md) as IEnumerable<Spell>;
+            var items = StoreViewModel.ToItem(md) as IEnumerable<Spell>;
 
             var classes = new string[]
             {
@@ -130,7 +130,7 @@ namespace AideDeJeuCmd
                 //if (name.Contains("_hd."))
                 //{
                     var md = await Helpers.GetResourceStringAsync(name);
-                    var item = AideDeJeu.Tools.MarkdownExtensions.ToItem(md);
+                    var item = StoreViewModel.ToItem(md);
                     allitems.Add(name, item);
                 //}
             }

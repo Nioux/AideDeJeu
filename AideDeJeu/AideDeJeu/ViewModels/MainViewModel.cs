@@ -18,7 +18,7 @@ namespace AideDeJeu.ViewModels
             get => _isLoading;
             set => SetProperty(ref _isLoading, value);
         }
-
+        /*
         void AddAnchor(string source, Dictionary<string, Item> anchors, Item item)
         {
             if (item != null && item.Name != null)
@@ -164,7 +164,7 @@ namespace AideDeJeu.ViewModels
             }
             return itemWithAnchors.Item;
         }
-
+        */
         public Command LoadItemsCommand { get; private set; }
 
         private Navigator _Navigator = null;

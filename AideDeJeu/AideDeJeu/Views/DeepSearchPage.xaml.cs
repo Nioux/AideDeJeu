@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using static AideDeJeu.ViewModels.DeepSearchViewModel;
 
 namespace AideDeJeu.Views
 {
@@ -30,7 +31,7 @@ namespace AideDeJeu.Views
 
         private async void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            var searchedItem = e.Item as MainViewModel.SearchedItem;
+            var searchedItem = e.Item as SearchedItem;
             await Main.Navigator.GotoItemDetailPageAsync(searchedItem.Item);
         }
     }

@@ -16,6 +16,7 @@ namespace AideDeJeu.Tools
 {
     public static class MarkdownExtensions
     {
+        /*
         public static Item ToItem(string md)
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
@@ -216,7 +217,7 @@ namespace AideDeJeu.Tools
             }
             return null;
         }
-
+        */
 
         /*
         public static Item ToItem(string md)
