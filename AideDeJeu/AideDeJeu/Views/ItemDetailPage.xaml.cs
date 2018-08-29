@@ -35,7 +35,7 @@ namespace AideDeJeu.Views
         {
             InitializeComponent();
 
-            BindingContext = this.viewModel = new ItemDetailViewModel(new HomeItem()) { Title = "Bibliothèque" };
+            BindingContext = this.viewModel = new ItemDetailViewModel(new HomeItem() { Name = "Bibliothèque", Id = "index.md" }) { Title = "Bibliothèque" };
             //var item = new Item
             //{
             //    Name = "",

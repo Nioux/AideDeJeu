@@ -1,49 +1,90 @@
 ﻿using AideDeJeuLib;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.IO;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Forms.Internals;
 
 namespace AideDeJeu.ViewModels
 {
-    public class BookmarksViewModel //: BaseViewModel
+    public class BookmarksViewModel : BaseViewModel
     {
         public BookmarksViewModel()
         {
-            LoadBookmarks();
+            LoadBookmarkCollection();
         }
 
-        public List<KeyValuePair<string, List<Item>>> BookmarksKeyValues { get; set; } = new List<KeyValuePair<string, List<Item>>>()
+        public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
         {
-            new KeyValuePair<string, List<Item>>("Général", new List<Item>()),
-            new KeyValuePair<string, List<Item>>("Grimoire", new List<Item>()),
-            new KeyValuePair<string, List<Item>>("Bestiaire", new List<Item>()),
-            new KeyValuePair<string, List<Item>>("Sac", new List<Item>()),
+            "Général",
+            "Grimoire",
+            "Bestiaire",
+            "Sac",
         };
-        public int BookmarksIndex { get; set; } = 0;
-        public List<Item> Bookmarks { get; set; }
-        public int BookmarksCount { get; set; } = 0;
-
-        public void LoadBookmarks()
+        private int _BookmarkCollectionIndex = 0;
+        public int BookmarkCollectionIndex
         {
-            foreach(var key in App.Current.Properties.Keys)
+            get
             {
-                var property = App.Current.Properties[key] as string;
-                if(property != null)
-                {
-                    BookmarksKeyValues.Add(new KeyValuePair<string, List<Item>>(key, ToItems(property)));
-                }
+                return _BookmarkCollectionIndex;
+            }
+            set
+            {
+                SetProperty(ref _BookmarkCollectionIndex, value);
+                LoadBookmarkCollection();
+            }
+        }
+        private ObservableCollection<Item> _BookmarkCollection = new ObservableCollection<Item>();
+        public ObservableCollection<Item> BookmarkCollection
+        {
+            get
+            {
+                return _BookmarkCollection;
+            }
+            set
+            {
+                SetProperty(ref _BookmarkCollection, value);
+            }
+        } 
+
+        public List<Item> GetBookmarkCollection(string key)
+        {
+            var property = App.Current.Properties[key] as string;
+            if (property != null)
+            {
+                return ToItems(property);
+            }
+            return null;
+        }
+        public void LoadBookmarkCollection()
+        {
+            var items = GetBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            BookmarkCollection.Clear();
+            if (items != null)
+            {
+                items.ForEach(item => BookmarkCollection.Add(item));
             }
         }
 
-        public async Task SaveBookmarksAsync()
+        public async Task AddBookmarkAsync(string key, Item item)
         {
-            foreach(var keyValues in BookmarksKeyValues)
+            var linkItem = new LinkItem() { Name = item.Name, AltName = item.AltName, Link = item.Id };
+            var items = GetBookmarkCollection(key);
+            if(items == null)
             {
-                App.Current.Properties[keyValues.Key] = ToString(keyValues.Value);
+                items = new List<Item>();
             }
+            items.Add(linkItem);
+            await SaveBookmarksAsync(key, items);
+            LoadBookmarkCollection();
+        }
+
+        public async Task SaveBookmarksAsync(string key, List<Item> items)
+        {
+            App.Current.Properties[key] = ToString(items);
             await App.Current.SavePropertiesAsync();
         }
 

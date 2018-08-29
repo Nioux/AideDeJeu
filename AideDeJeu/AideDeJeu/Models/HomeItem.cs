@@ -10,18 +10,6 @@ namespace AideDeJeuLib
     public class HomeItem : Item
     {
         [DataMember]
-        public override string Id
-        {
-            get
-            {
-                return "index.md";
-            }
-            set
-            {
-            }
-        }
-
-        [DataMember]
         public override string Markdown
         {
             get
