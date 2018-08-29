@@ -14,7 +14,7 @@ namespace AideDeJeu.ViewModels
     {
         public BookmarksViewModel()
         {
-            LoadBookmarkCollection();
+            LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
         }
 
         public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
@@ -34,7 +34,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _BookmarkCollectionIndex, value);
-                LoadBookmarkCollection();
+                LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
             }
         }
         private ObservableCollection<Item> _BookmarkCollection = new ObservableCollection<Item>();
@@ -59,9 +59,9 @@ namespace AideDeJeu.ViewModels
             }
             return null;
         }
-        public void LoadBookmarkCollection()
+        public void LoadBookmarkCollection(string key)
         {
-            var items = GetBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            var items = GetBookmarkCollection(key);
             BookmarkCollection.Clear();
             if (items != null)
             {
@@ -79,7 +79,7 @@ namespace AideDeJeu.ViewModels
             }
             items.Add(linkItem);
             await SaveBookmarksAsync(key, items);
-            LoadBookmarkCollection();
+            BookmarkCollectionIndex = BookmarkCollectionNames.IndexOf(key);
         }
 
         public async Task SaveBookmarksAsync(string key, List<Item> items)
