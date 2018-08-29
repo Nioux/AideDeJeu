@@ -52,10 +52,13 @@ namespace AideDeJeu.ViewModels
 
         public List<Item> GetBookmarkCollection(string key)
         {
-            var property = App.Current.Properties[key] as string;
-            if (property != null)
+            if (App.Current.Properties.ContainsKey(key))
             {
-                return ToItems(property);
+                var property = App.Current.Properties[key] as string;
+                if (property != null)
+                {
+                    return ToItems(property);
+                }
             }
             return null;
         }
