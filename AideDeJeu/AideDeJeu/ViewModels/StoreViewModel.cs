@@ -16,7 +16,7 @@ namespace AideDeJeu.ViewModels
 {
     public class StoreViewModel : BaseViewModel
     {
-        public static Item ToItem(string md)
+        public Item ToItem(string source, string md)
         {
             var pipeline = new MarkdownPipelineBuilder().UsePipeTables().Build();
             var document = MarkdownParser.Parse(md, pipeline);
@@ -33,7 +33,7 @@ namespace AideDeJeu.ViewModels
                     {
                         if (IsNewItem(block))
                         {
-                            var item = ParseItem(ref enumerator);
+                            var item = ParseItem(source, ref enumerator);
                             return item;
                         }
                     }
@@ -48,7 +48,7 @@ namespace AideDeJeu.ViewModels
             return null;
         }
 
-        public static Item ParseItem(ref ContainerBlock.Enumerator enumerator)
+        public Item ParseItem(string source, ref ContainerBlock.Enumerator enumerator)
         {
             var currentItem = GetNewItem(enumerator.Current);
 
@@ -63,11 +63,13 @@ namespace AideDeJeu.ViewModels
                     {
                         if (IsClosingItem(block))
                         {
+                            currentItem.Id = GetNewAnchorId(source, currentItem.Name);
+                            _AllItems[currentItem.Id] = currentItem;
                             return currentItem;
                         }
                         else if (IsNewItem(block))
                         {
-                            var subItem = ParseItem(ref enumerator);
+                            var subItem = ParseItem(source, ref enumerator);
 
                             var propertyName = subItem.GetType().Name;
 
@@ -89,7 +91,7 @@ namespace AideDeJeu.ViewModels
 
                     else // if (block is ContainerBlock)
                     {
-                        ParseItemProperties(currentItem, block);
+                        ParseItemProperties(source, currentItem, block);
                     }
 
                     currentItem.Markdown += enumerator.Current.ToMarkdownString();
@@ -98,34 +100,36 @@ namespace AideDeJeu.ViewModels
                 }
             }
 
+            currentItem.Id = GetNewAnchorId(source, currentItem.Name);
+            _AllItems[currentItem.Id] = currentItem;
             return currentItem;
         }
 
-        public static void ParseItemProperties(Item item, Block block)
+        public void ParseItemProperties(string source, Item item, Block block)
         {
             switch (block)
             {
                 case Markdig.Extensions.Tables.Table table:
-                    ParseItemProperties(item, table);
+                    ParseItemProperties(source, item, table);
                     break;
                 case ContainerBlock blocks:
-                    ParseItemProperties(item, blocks);
+                    ParseItemProperties(source, item, blocks);
                     break;
                 case LeafBlock leaf:
-                    ParseItemProperties(item, leaf.Inline);
+                    ParseItemProperties(source, item, leaf.Inline);
                     break;
             }
         }
 
-        public static void ParseItemProperties(Item item, ContainerBlock blocks)
+        public void ParseItemProperties(string source, Item item, ContainerBlock blocks)
         {
             foreach (var block in blocks)
             {
-                ParseItemProperties(item, block);
+                ParseItemProperties(source, item, block);
             }
         }
 
-        public static void ParseItemProperties(Item item, ContainerInline inlines)
+        public void ParseItemProperties(string source, Item item, ContainerInline inlines)
         {
             if (inlines == null)
             {
@@ -163,7 +167,7 @@ namespace AideDeJeu.ViewModels
 
 
 
-        public static bool IsNewItem(Block block)
+        public bool IsNewItem(Block block)
         {
             var htmlBlock = block as HtmlBlock;
             if (htmlBlock.Type == HtmlBlockType.Comment)
@@ -180,7 +184,7 @@ namespace AideDeJeu.ViewModels
             return false;
         }
 
-        public static bool IsClosingItem(Block block)
+        public bool IsClosingItem(Block block)
         {
             var htmlBlock = block as HtmlBlock;
             if (htmlBlock.Type == HtmlBlockType.Comment)
@@ -197,7 +201,7 @@ namespace AideDeJeu.ViewModels
             return false;
         }
 
-        public static Item GetNewItem(Block block)
+        public Item GetNewItem(Block block)
         {
             var htmlBlock = block as HtmlBlock;
             if (htmlBlock.Type == HtmlBlockType.Comment)
@@ -221,14 +225,29 @@ namespace AideDeJeu.ViewModels
 
 
 
-
+        public string GetNewAnchorId(string source, string name)
+        {
+            var baseid = Helpers.IdFromName(name);
+            var id = $"{source}.md#{baseid}";
+            int index = 0;
+            while (true)
+            {
+                if (!_AllItems.ContainsKey(name))
+                {
+                    return id;
+                }
+                index++;
+                name = $"{source}.md#{baseid}{index}";
+            }
+        }
+        /*
         void AddAnchor(string source, Dictionary<string, Item> anchors, Item item)
         {
             if (item != null && item.Name != null)
             {
                 var basename = Helpers.IdFromName(item.Name);
-                //var name = $"{source}.md#{basename}";
-                var name = $"{basename}";
+                var name = $"{source}.md#{basename}";
+                //var name = $"{basename}";
                 int index = 0;
                 while (true)
                 {
@@ -239,8 +258,8 @@ namespace AideDeJeu.ViewModels
                         return;
                     }
                     index++;
-                    //name = $"{source}.md#{basename}{index}";
-                    name = $"{basename}{index}";
+                    name = $"{source}.md#{basename}{index}";
+                    //name = $"{basename}{index}";
                 }
             }
         }
@@ -261,8 +280,8 @@ namespace AideDeJeu.ViewModels
             public Item Item { get; set; }
             public Dictionary<string, Item> Anchors { get; set; } = new Dictionary<string, Item>();
         }
-
-        public Dictionary<string, ItemWithAnchors> _AllItems = new Dictionary<string, ItemWithAnchors>();
+        */
+        public Dictionary<string, Item> _AllItems = new Dictionary<string, Item>();
 
         public async Task PreloadAllItemsAsync()
         {
@@ -278,12 +297,12 @@ namespace AideDeJeu.ViewModels
                         var md = await Tools.Helpers.GetResourceStringAsync(resourceName);
                         if (md != null)
                         {
-                            var item = ToItem(md);
+                            var item = ToItem(source, md);
                             if (item != null)
                             {
                                 var anchors = new Dictionary<string, Item>();
-                                MakeAnchors(source, anchors, item);
-                                _AllItems[source] = new ItemWithAnchors() { Item = item, Anchors = anchors };
+                                //MakeAnchors(source, anchors, item);
+                                _AllItems[source] = item;
                             }
                         }
                     }
@@ -293,19 +312,20 @@ namespace AideDeJeu.ViewModels
 
         public async Task<Item> GetItemFromDataAsync(string source, string anchor)
         {
+            var id = $"{source}.md#{anchor}";
             //await Task.Delay(3000);
-            if (!_AllItems.ContainsKey(source))
+            if (!_AllItems.ContainsKey(id))
             {
                 //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{source}.md");
                 var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{source}.md");
                 if (md != null)
                 {
-                    var item = ToItem(md);
+                    var item = ToItem(source, md);
                     if (item != null)
                     {
                         var anchors = new Dictionary<string, Item>();
-                        MakeAnchors(source, anchors, item);
-                        _AllItems[source] = new ItemWithAnchors() { Item = item, Anchors = anchors };
+                        //MakeAnchors(source, anchors, item);
+                        _AllItems[source] = item;
                     }
                     else
                     {
@@ -317,15 +337,15 @@ namespace AideDeJeu.ViewModels
                     return null;
                 }
             }
-            var itemWithAnchors = _AllItems[source];
-            if (!string.IsNullOrEmpty(anchor))
+            if (_AllItems.ContainsKey(id))
             {
-                if (itemWithAnchors.Anchors.ContainsKey(anchor))
-                {
-                    return itemWithAnchors.Anchors[anchor];
-                }
+                return _AllItems[id];
             }
-            return itemWithAnchors.Item;
+            else if (_AllItems.ContainsKey(source))
+            {
+                return _AllItems[source];
+            }
+            return null;
         }
 
 
