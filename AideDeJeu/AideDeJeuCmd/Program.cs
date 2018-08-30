@@ -11,6 +11,7 @@ using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using Xamarin.Forms;
 
 namespace AideDeJeuCmd
 {
@@ -46,7 +47,7 @@ namespace AideDeJeuCmd
                     .Build();
                 //var document = Markdig.Parsers.MarkdownParser.Parse(md, pipeline);
                 //DumpMarkdownDocument(document);
-                var monsters = AideDeJeu.ViewModels.StoreViewModel.ToItem(md) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
+                var monsters = DependencyService.Get<StoreViewModel>().ToItem(filename, md) as IEnumerable<Monster>; // document.ToMonsters<MonsterHD>();
                 //document.Dump();
                 Console.WriteLine("ok");
                 //var md2 = monsters.ToMarkdownString();
@@ -64,7 +65,7 @@ namespace AideDeJeuCmd
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
-            var items = StoreViewModel.ToItem(md) as IEnumerable<Spell>;
+            var items = DependencyService.Get<StoreViewModel>().ToItem("spells_hd", md) as IEnumerable<Spell>;
 
             var classes = new string[]
             {
@@ -130,7 +131,7 @@ namespace AideDeJeuCmd
                 //if (name.Contains("_hd."))
                 //{
                     var md = await Helpers.GetResourceStringAsync(name);
-                    var item = StoreViewModel.ToItem(md);
+                    var item = DependencyService.Get<StoreViewModel>().ToItem(name, md);
                     allitems.Add(name, item);
                 //}
             }
