@@ -87,23 +87,26 @@ namespace AideDeJeu.Tools
         public static string IdFromName(string name)
         {
             string id = string.Empty;
-            foreach(var c in name)
+            if (name != null)
             {
-                if(c >= 'A' && c <= 'Z')
+                foreach (var c in name)
                 {
-                    id += c.ToString().ToLower();
-                }
-                else if(c == ' ')
-                {
-                    id += '-';
-                }
-                else if(c== '\'' || c == '/' || c == '(' || c ==')' || c == ':' || c == '+' || c == ',')
-                {
-                    // vide
-                }
-                else
-                {
-                    id += c;
+                    if (c >= 'A' && c <= 'Z')
+                    {
+                        id += c.ToString().ToLower();
+                    }
+                    else if (c == ' ')
+                    {
+                        id += '-';
+                    }
+                    else if (c == '\'' || c == '/' || c == '(' || c == ')' || c == ':' || c == '+' || c == ',')
+                    {
+                        // vide
+                    }
+                    else
+                    {
+                        id += c;
+                    }
                 }
             }
             return id;

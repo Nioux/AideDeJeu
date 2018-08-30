@@ -9,6 +9,14 @@ namespace AideDeJeuLib
 {
     public class LinkItem : Item
     {
+        public override string Markdown
+        {
+            get
+            {
+                return $"\n\n<!--LinkItem-->\n\n{new string('#', NameLevel + 1)} {NameLink}\n\n<!--/LinkItem-->\n\n";
+            }
+            set => base.Markdown = value;
+        }
         public string Link { get; set; }
         public string NameLink
         {
@@ -16,7 +24,7 @@ namespace AideDeJeuLib
             {
                 if (Name != null && Link != null)
                 {
-                    return $"[{Name}]({Link})";
+                    return $"<!--NameLink-->[{Name}]({Link})<!--/NameLink-->";
                 }
                 return null;
             }

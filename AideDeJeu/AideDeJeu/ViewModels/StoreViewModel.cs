@@ -64,7 +64,10 @@ namespace AideDeJeu.ViewModels
                         if (IsClosingItem(block))
                         {
                             currentItem.Id = GetNewAnchorId(source, currentItem.Name);
-                            _AllItems[currentItem.Id] = currentItem;
+                            if (currentItem.Id != null)
+                            {
+                                _AllItems[currentItem.Id] = currentItem;
+                            }
                             return currentItem;
                         }
                         else if (IsNewItem(block))
@@ -227,18 +230,22 @@ namespace AideDeJeu.ViewModels
 
         public string GetNewAnchorId(string source, string name)
         {
-            var baseid = Helpers.IdFromName(name);
-            var id = $"{source}.md#{baseid}";
-            int index = 0;
-            while (true)
+            if (name != null)
             {
-                if (!_AllItems.ContainsKey(name))
+                var baseid = Helpers.IdFromName(name);
+                var id = $"{source}.md#{baseid}";
+                int index = 0;
+                while (true)
                 {
-                    return id;
+                    if (!_AllItems.ContainsKey(name))
+                    {
+                        return id;
+                    }
+                    index++;
+                    name = $"{source}.md#{baseid}{index}";
                 }
-                index++;
-                name = $"{source}.md#{baseid}{index}";
             }
+            return null;
         }
         /*
         void AddAnchor(string source, Dictionary<string, Item> anchors, Item item)

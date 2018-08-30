@@ -140,7 +140,7 @@ namespace AideDeJeu.ViewModels
         {
             if (s != null)
             {
-                var regex = new Regex("/(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
+                var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
                 var match = regex.Match(s);
                 var file = match.Groups["file"].Value;
                 var anchor = match.Groups["anchor"].Value;
@@ -181,6 +181,10 @@ namespace AideDeJeu.ViewModels
                     {
                         await GotoItemDetailPageAsync(item);
                     }
+                    var tabbedPage = App.Current.MainPage as MainTabbedPage;
+                    tabbedPage.SelectedItem = null;
+                    tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
+
                 }
                 else
                 {

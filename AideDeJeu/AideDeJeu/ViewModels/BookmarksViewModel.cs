@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
+using System.Linq;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Threading.Tasks;
@@ -93,48 +94,73 @@ namespace AideDeJeu.ViewModels
 
         public string ToString(List<Item> items)
         {
-            var serializer = ItemJsonSerializer;
-            using(var stream = new MemoryStream())
+            string md = string.Empty;
+            md += "\n<!--Items-->\n\n";
+            foreach(var item in items)
             {
-                serializer.WriteObject(stream, items);
-                stream.Seek(0, SeekOrigin.Begin);
-                using (StreamReader reader = new StreamReader(stream))
+                md += item.Markdown;
+            }
+            md += "\n\n<!--/Items-->\n";
+            return md;
+        }
+
+        public List<Item> ToItems(string md)
+        {
+            var item = Store.ToItem("", md);
+            if(item is Items)
+            {
+                var items = item as Items;
+                return items.ToList();
+            }
+            return new List<Item> { item };
+        }
+
+            /*
+            public string ToString(List<Item> items)
+            {
+                var serializer = ItemJsonSerializer;
+                using(var stream = new MemoryStream())
                 {
-                    return reader.ReadToEnd();
+                    serializer.WriteObject(stream, items);
+                    stream.Seek(0, SeekOrigin.Begin);
+                    using (StreamReader reader = new StreamReader(stream))
+                    {
+                        return reader.ReadToEnd();
+                    }
                 }
             }
-        }
 
-        public List<Item> ToItems(string str)
-        {
-            var serializer = ItemJsonSerializer;
-            byte[] byteArray = Encoding.UTF8.GetBytes(str);
-            using (var stream = new MemoryStream(byteArray))
+            public List<Item> ToItems(string str)
             {
-                return serializer.ReadObject(stream) as List<Item>;
-            }
-        }
-
-        public DataContractJsonSerializer ItemJsonSerializer
-        {
-            get
-            {
-                var settings = new DataContractJsonSerializerSettings();
-                settings.KnownTypes = new List<Type>()
+                var serializer = ItemJsonSerializer;
+                byte[] byteArray = Encoding.UTF8.GetBytes(str);
+                using (var stream = new MemoryStream(byteArray))
                 {
-                    typeof(HomeItem),
-                    typeof(Spell),
-                    typeof(Monster),
-                    //typeof(Items),
-                    typeof(LinkItem),
-                    typeof(Equipment),
-                    //typeof(Spells),
-                    //typeof(Monsters),
-                    //typeof(Equipments),
-                    typeof(PageItem),
-                };
-                return new DataContractJsonSerializer(typeof(List<Item>), settings);
+                    return serializer.ReadObject(stream) as List<Item>;
+                }
             }
+
+            public DataContractJsonSerializer ItemJsonSerializer
+            {
+                get
+                {
+                    var settings = new DataContractJsonSerializerSettings();
+                    settings.KnownTypes = new List<Type>()
+                    {
+                        typeof(HomeItem),
+                        typeof(Spell),
+                        typeof(Monster),
+                        //typeof(Items),
+                        typeof(LinkItem),
+                        typeof(Equipment),
+                        //typeof(Spells),
+                        //typeof(Monsters),
+                        //typeof(Equipments),
+                        typeof(PageItem),
+                    };
+                    return new DataContractJsonSerializer(typeof(List<Item>), settings);
+                }
+            }
+            */
         }
     }
-}
