@@ -106,7 +106,7 @@ namespace AideDeJeu.ViewModels
 
         public List<Item> ToItems(string md)
         {
-            var item = Store.ToItem("", md);
+            var item = Store.ToItem(null, md);
             if(item is Items)
             {
                 var items = item as Items;
