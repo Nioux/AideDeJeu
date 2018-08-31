@@ -321,7 +321,7 @@ namespace AideDeJeu.ViewModels
         {
             var id = $"{source}.md#{anchor}";
             //await Task.Delay(3000);
-            if (!_AllItems.ContainsKey(id))
+            if (!_AllItems.ContainsKey(id) && !_AllItems.ContainsKey(source))
             {
                 //var md = await Tools.Helpers.GetStringFromUrl($"https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Data/{source}.md");
                 var md = await Tools.Helpers.GetResourceStringAsync($"AideDeJeu.Data.{source}.md");
