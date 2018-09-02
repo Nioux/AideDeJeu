@@ -7,7 +7,7 @@ using Markdig.Syntax;
 
 namespace AideDeJeuLib
 {
-    public class Equipment : Item
+    public class Equipment : Items
     {
         public string Type { get; set; }
         public string Price { get; set; }

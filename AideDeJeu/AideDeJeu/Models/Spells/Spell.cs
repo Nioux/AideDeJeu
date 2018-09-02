@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 namespace AideDeJeuLib
 {
-    public class Spell : Item
+    public class Spell : Items
     {
         public string Level { get; set; }
         public string Type { get; set; }
@@ -21,7 +21,7 @@ namespace AideDeJeuLib
         public string Components { get; set; }
         public string Duration { get; set; }
         public string DescriptionHtml { get; set; }
-        public string Source { get; set; }
+        //public string Source { get; set; }
         public string Classes { get; set; }
     }
 }

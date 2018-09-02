@@ -10,13 +10,13 @@ using System.Xml;
 
 namespace AideDeJeuLib
 {
-    public class Monster : Item
+    public class Monster : Items
     {
         public string Type { get; set; }
         public string Size { get; set; }
         public string Alignment { get; set; }
         public string Legendary { get; set; }
-        public string Source { get; set; }
+        //public string Source { get; set; }
         public string ArmorClass { get; set; }
         public string HitPoints { get; set; }
         public string Speed { get; set; }
