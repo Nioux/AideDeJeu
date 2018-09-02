@@ -89,17 +89,20 @@ namespace AideDeJeu.ViewModels
                                 var items = currentItem as Items;
                                 items.Add(subItem);
                             }
+                            enumerator.MoveNext();
+                        }
+                        else
+                        {
+                            currentItem.Markdown += enumerator.Current.ToMarkdownString();
+                            enumerator.MoveNext();
                         }
                     }
-
-                    else // if (block is ContainerBlock)
+                    else
                     {
                         ParseItemProperties(source, currentItem, block);
+                        currentItem.Markdown += enumerator.Current.ToMarkdownString();
+                        enumerator.MoveNext();
                     }
-
-                    currentItem.Markdown += enumerator.Current.ToMarkdownString();
-
-                    enumerator.MoveNext();
                 }
             }
 
