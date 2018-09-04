@@ -43,7 +43,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niveau|Bonus de maîtrise|Aptitudes|
+|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|
 |---|---|---|
 |1|+2|[Style de combat], [Second souffle]|
 |2|+2|[Sursaut d'activité] (x1)|

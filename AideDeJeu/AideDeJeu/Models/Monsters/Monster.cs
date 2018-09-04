@@ -10,7 +10,7 @@ using System.Xml;
 
 namespace AideDeJeuLib
 {
-    public class Monster : Items
+    public class Monster : Item
     {
         public string Type { get; set; }
         public string Size { get; set; }

@@ -6,19 +6,21 @@ using AideDeJeu.ViewModels;
 
 namespace AideDeJeuLib
 {
+
     public class Items : Item //, IList<Item>
     {
-        public Items(List<Item> items) : base(items)
-        {
-        }
+    }
+        //public Items(List<Item> items) : base(items)
+        //{
+        //}
 
-        public Items(IEnumerable<Item> items) : base(items)
-        {
-        }
+        //public Items(IEnumerable<Item> items) : base(items)
+        //{
+        //}
 
-        public Items() : base()
-        {
-        }
+        //public Items() : base()
+        //{
+        //}*/
         /*        private List<Item> _Items;
 
                 public Items(List<Item> items)
@@ -98,5 +100,5 @@ namespace AideDeJeuLib
                 {
                     throw new NotImplementedException();
                 }*/
-    }
+    //}
 }

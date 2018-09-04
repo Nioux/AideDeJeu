@@ -42,7 +42,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
+|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|[Druidique], [Incantations]|2|2|-|-|-|-|-|-|-|-|
 |2|+2|[Forme sauvage], [Cercle druidique]|2|3|-|-|-|-|-|-|-|-|

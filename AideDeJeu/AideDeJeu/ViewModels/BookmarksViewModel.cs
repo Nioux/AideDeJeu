@@ -107,12 +107,12 @@ namespace AideDeJeu.ViewModels
         public List<Item> ToItems(string md)
         {
             var item = Store.ToItem(null, md);
-            if(item is Items)
-            {
-                var items = item as Items;
+            //if(item is Items)
+            //{
+            var items = item; // as Items;
                 return items.ToList();
-            }
-            return new List<Item> { item };
+            //}
+            //return new List<Item> { item };
         }
 
             /*

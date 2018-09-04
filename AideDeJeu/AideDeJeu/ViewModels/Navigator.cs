@@ -86,9 +86,9 @@ namespace AideDeJeu.ViewModels
             if (item == null)
                 return;
 
-            if (item is Items)
-            {
-                var items = item as Items;
+            //if (item is Items)
+            //{
+            var items = item as Item;
                 var filterViewModel = items.GetNewFilterViewModel();
                 var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
                 itemsViewModel.LoadItemsCommand.Execute(null);
@@ -100,12 +100,12 @@ namespace AideDeJeu.ViewModels
                 {
                     await GotoFilteredItemsPageAsync(itemsViewModel);
                 }
-            }
-            else
-            { 
-                var vm = new ItemDetailViewModel(item);
-                await Navigation.PushAsync(new ItemDetailPage(vm));
-            }
+            //}
+            //else
+            //{ 
+            //    var vm = new ItemDetailViewModel(item);
+            //    await Navigation.PushAsync(new ItemDetailPage(vm));
+            //}
             var tabbedPage = App.Current.MainPage as MainTabbedPage;
             tabbedPage.SelectedItem = null;
             tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;
@@ -152,9 +152,9 @@ namespace AideDeJeu.ViewModels
                 Main.IsLoading = false;
                 if (item != null)
                 {
-                    if (item is Items)
-                    {
-                        var items = item as Items;
+                    //if (item is Items)
+                    //{
+                    var items = item; // as Items;
                         var filterViewModel = items.GetNewFilterViewModel();
                         var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
                         itemsViewModel.LoadItemsCommand.Execute(null);
@@ -176,11 +176,11 @@ namespace AideDeJeu.ViewModels
                         {
                             await GotoFilteredItemsPageAsync(itemsViewModel);
                         }
-                    }
-                    else
-                    {
-                        await GotoItemDetailPageAsync(item);
-                    }
+                    //}
+                    //else
+                    //{
+                    //    await GotoItemDetailPageAsync(item);
+                    //}
                     var tabbedPage = App.Current.MainPage as MainTabbedPage;
                     tabbedPage.SelectedItem = null;
                     tabbedPage.SelectedItem = tabbedPage.MainNavigationPage;

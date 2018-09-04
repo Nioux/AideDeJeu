@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class Monsters : Items
+    public class Monsters : Item
     {
     }
 }

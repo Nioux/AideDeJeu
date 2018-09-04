@@ -45,8 +45,8 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public Items _Items = new Items();
-        public Items Items
+        public Item _Items = new Item();
+        public Item Items
         {
             get
             {
@@ -82,8 +82,8 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        private Items _AllItems;
-        public Items AllItems
+        private Item _AllItems;
+        public Item AllItems
         {
             get
             {
@@ -107,7 +107,7 @@ namespace AideDeJeu.ViewModels
                 if (Filter != null)
                 {
                     var items = await Filter.FilterItems(AllItems, cancellationToken: cancellationToken);
-                    Items = new Items(items.ToList());
+                    Items = new Item(items.ToList());
                 }
                 else
                 {

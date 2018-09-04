@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class Spells : Items
+    public class Spells : Item
     {
     }
 }

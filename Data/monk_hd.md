@@ -41,7 +41,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niveau|Bonus de maîtrise|Arts martiaux|Points de ki|Mouvement sans armure|Aptitudes|
+|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Arts <!--br-->martiaux|Points <!--br-->de <!--br-->ki|Mouvement <!--br-->sans <!--br-->armure|Aptitudes|
 |---|---|---|---|---|---|
 |1|+2|1d4|_|_|[Défense sans armure], [Arts martiaux]|
 |2|+2|1d4|2|+3 m|[Ki], [Déplacement sans armure]|

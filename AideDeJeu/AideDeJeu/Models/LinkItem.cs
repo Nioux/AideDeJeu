@@ -7,7 +7,7 @@ using Markdig.Syntax;
 
 namespace AideDeJeuLib
 {
-    public class LinkItem : Items
+    public class LinkItem : Item
     {
         public override string Markdown
         {

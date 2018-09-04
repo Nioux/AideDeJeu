@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AideDeJeuLib
 {
-    public class PageItem : Items
+    public class PageItem : Item
     {
     }
 }

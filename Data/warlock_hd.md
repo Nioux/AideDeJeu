@@ -43,7 +43,7 @@ Vous commencez avec l'équipement suivant, en plus de celui accordé par votre h
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Emplacements de sorts|Niveau des emplacements|Invocations occultes|
+|Niv.|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|Sorts <!--br-->connus|Emplacements <!--br-->de <!--br-->sorts|Niveau <!--br-->des <!--br-->emplacements|Invocations <!--br-->occultes|
 |---|---|---|---|---|---|---|---|
 |1|+2|[Protecteur de l'outremonde], [Magie de pacte]|2|2|1|1|_|
 |2|+2|[Invocations occultes]|2|3|2|1|2|

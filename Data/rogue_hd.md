@@ -43,7 +43,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niveau|Bonus de maîtrise|Attaque sournoise|Aptitudes|
+|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Attaque <!--br-->sournoise|Aptitudes|
 |---|---|---|---|
 |1|+2|1d6|[Expertise], [Attaque sournoise], [Argot des voleurs]|
 |2|+2|1d6|[Ruse]|

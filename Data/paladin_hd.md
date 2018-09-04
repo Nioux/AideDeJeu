@@ -44,7 +44,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niveau|Bonus de maîtrise|Aptitudes|1|2|3|4|5|
+|Niveau|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|
 |1|+2|[Sens divin], [Imposition des mains]|-|-|-|-|-|
 |2|+2|[Style de combat], [Incantations], [Châtiment divin]|2|-|-|-|-|

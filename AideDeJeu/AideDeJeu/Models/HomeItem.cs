@@ -7,7 +7,7 @@ using Markdig.Syntax;
 namespace AideDeJeuLib
 {
     [DataContract]
-    public class HomeItem : Items
+    public class HomeItem : Item
     {
         [DataMember]
         public override string Markdown

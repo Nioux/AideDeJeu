@@ -43,7 +43,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niv.|Bonus de maîtrise|Aptitudes|Sorts connus|1|2|3|4|5|
+|Niv.|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Sorts <!--br-->connus|1|2|3|4|5|
 |---|---|---|---|---|---|---|---|---|
 |1|+2|[Ennemi juré], [Explorateur-né]|_|-|-|-|-|-|
 |2|+2|[Style de combat], [Incantations]|2|2|-|-|-|-|

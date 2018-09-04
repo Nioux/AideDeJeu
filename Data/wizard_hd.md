@@ -43,7 +43,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 
 # <!--Name-->Tableau d'évolution<!--/Name-->
 
-|Niv.|Bonus de maîtrise|Aptitudes|Tours de magie connus|1|2|3|4|5|6|7|8|9|
+|Niv.|Bonus <!--br-->de <!--br-->maîtrise|Aptitudes|Tours <!--br-->de <!--br-->magie <!--br-->connus|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |1|+2|[Incantations], [Restauration magique]|3|2|-|-|-|-|-|-|-|-|
 |2|+2|[Tradition arcanique]|3|3|-|-|-|-|-|-|-|-|
