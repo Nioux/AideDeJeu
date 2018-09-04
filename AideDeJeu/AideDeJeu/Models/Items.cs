@@ -6,86 +6,97 @@ using AideDeJeu.ViewModels;
 
 namespace AideDeJeuLib
 {
-    public class Items : Item, IList<Item>
+    public class Items : Item //, IList<Item>
     {
-        private List<Item> _Items;
-
-        public Items(List<Item> items)
+        public Items(List<Item> items) : base(items)
         {
-            _Items = items;
         }
 
-        public Items(IEnumerable<Item> items)
+        public Items(IEnumerable<Item> items) : base(items)
         {
-            _Items = items.ToList();
         }
 
-        public Items()
+        public Items() : base()
         {
-            _Items = new List<Item>();
         }
+        /*        private List<Item> _Items;
 
-        public string Header { get; set; }
+                public Items(List<Item> items)
+                {
+                    _Items = items;
+                }
 
-        public int Count => _Items.Count();
+                public Items(IEnumerable<Item> items)
+                {
+                    _Items = items.ToList();
+                }
 
-        public bool IsReadOnly => false;
+                public Items()
+                {
+                    _Items = new List<Item>();
+                }
 
-        public Item this[int index] { get => _Items[index]; set => _Items[index] = value; }
+                public string Header { get; set; }
 
-        public IEnumerator<Item> GetEnumerator()
-        {
-            return _Items?.GetEnumerator();
-        }
+                public int Count => _Items.Count();
 
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return _Items?.GetEnumerator();
-        }
+                public bool IsReadOnly => false;
 
-        public virtual FilterViewModel GetNewFilterViewModel()
-        {
-            return null;
-        }
+                public Item this[int index] { get => _Items[index]; set => _Items[index] = value; }
 
-        public int IndexOf(Item item)
-        {
-            return _Items.IndexOf(item);
-        }
+                public IEnumerator<Item> GetEnumerator()
+                {
+                    return _Items?.GetEnumerator();
+                }
 
-        public void Insert(int index, Item item)
-        {
-            _Items.Insert(index, item);
-        }
+                IEnumerator IEnumerable.GetEnumerator()
+                {
+                    return _Items?.GetEnumerator();
+                }
 
-        public void RemoveAt(int index)
-        {
-            _Items.RemoveAt(index);
-        }
+                public virtual FilterViewModel GetNewFilterViewModel()
+                {
+                    return null;
+                }
 
-        public void Add(Item item)
-        {
-            _Items.Add(item);
-        }
+                public int IndexOf(Item item)
+                {
+                    return _Items.IndexOf(item);
+                }
 
-        public void Clear()
-        {
-            _Items.Clear();
-        }
+                public void Insert(int index, Item item)
+                {
+                    _Items.Insert(index, item);
+                }
 
-        public bool Contains(Item item)
-        {
-            return _Items.Contains(item);
-        }
+                public void RemoveAt(int index)
+                {
+                    _Items.RemoveAt(index);
+                }
 
-        public void CopyTo(Item[] array, int arrayIndex)
-        {
-            _Items.CopyTo(array, arrayIndex);
-        }
+                public void Add(Item item)
+                {
+                    _Items.Add(item);
+                }
 
-        public bool Remove(Item item)
-        {
-            throw new NotImplementedException();
-        }
+                public void Clear()
+                {
+                    _Items.Clear();
+                }
+
+                public bool Contains(Item item)
+                {
+                    return _Items.Contains(item);
+                }
+
+                public void CopyTo(Item[] array, int arrayIndex)
+                {
+                    _Items.CopyTo(array, arrayIndex);
+                }
+
+                public bool Remove(Item item)
+                {
+                    throw new NotImplementedException();
+                }*/
     }
 }
