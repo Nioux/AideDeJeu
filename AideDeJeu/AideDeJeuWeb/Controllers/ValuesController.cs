@@ -20,7 +20,7 @@ namespace AideDeJeuWeb.Controllers
             var md = await AideDeJeu.Tools.Helpers.GetResourceStringAsync("AideDeJeu.Data.spells_hd.md");
             var store = new StoreViewModel();
             var item = store.ToItem(null, md);
-            var items = item as Items;
+            var items = await item.GetChildrenAsync();
 
             var fitems = items.Where(it => (it as Spell).Source.Contains(classe)).OrderBy(it => (it as Spell).Level).ThenBy(it => it.Name);
 

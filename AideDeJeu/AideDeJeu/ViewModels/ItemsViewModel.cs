@@ -58,6 +58,19 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public IEnumerable<Item> _Children = new List<Item>();
+        public IEnumerable<Item> Children
+        {
+            get
+            {
+                return _Children;
+            }
+            set
+            {
+                SetProperty(ref _Children, value);
+            }
+        }
+
         private Item _SelectedItem;
         public Item SelectedItem
         {
@@ -106,12 +119,14 @@ namespace AideDeJeu.ViewModels
             {
                 if (Filter != null)
                 {
-                    var items = await Filter.FilterItems(AllItems, cancellationToken: cancellationToken);
+                    var items = await Filter.FilterItems(await AllItems.GetChildrenAsync(), cancellationToken: cancellationToken);
                     Items = new Item(items.ToList());
+                    Children = items;
                 }
                 else
                 {
                     Items = AllItems;
+                    Children = await AllItems.GetChildrenAsync();
                 }
             }
             catch (OperationCanceledException ex)

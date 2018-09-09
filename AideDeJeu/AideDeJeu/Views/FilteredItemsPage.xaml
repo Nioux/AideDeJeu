@@ -53,7 +53,7 @@
                         <tools:TextChangedBehavior />
                     </SearchBar.Behaviors>
                 </SearchBar>
-                <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">

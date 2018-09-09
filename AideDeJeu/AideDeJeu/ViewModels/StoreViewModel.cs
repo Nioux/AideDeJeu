@@ -87,7 +87,7 @@ namespace AideDeJeu.ViewModels
                             else //if (currentItem is Items)
                             {
                                 var items = currentItem; // as Items;
-                                items.Add(subItem);
+                                items.AddChild(subItem);
                             }
                             enumerator.MoveNext();
                         }

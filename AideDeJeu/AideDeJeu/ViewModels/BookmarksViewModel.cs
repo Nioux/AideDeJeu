@@ -51,21 +51,21 @@ namespace AideDeJeu.ViewModels
             }
         } 
 
-        public List<Item> GetBookmarkCollection(string key)
+        public async Task<IEnumerable<Item>> GetBookmarkCollection(string key)
         {
             if (App.Current.Properties.ContainsKey(key))
             {
                 var property = App.Current.Properties[key] as string;
                 if (property != null)
                 {
-                    return ToItems(property);
+                    return await ToItems(property);
                 }
             }
             return null;
         }
-        public void LoadBookmarkCollection(string key)
+        public async Task LoadBookmarkCollection(string key)
         {
-            var items = GetBookmarkCollection(key);
+            var items = await GetBookmarkCollection(key);
             BookmarkCollection.Clear();
             if (items != null)
             {
@@ -76,7 +76,7 @@ namespace AideDeJeu.ViewModels
         public async Task AddBookmarkAsync(string key, Item item)
         {
             var linkItem = new LinkItem() { Name = item.Name, AltName = item.AltName, Link = item.Id };
-            var items = GetBookmarkCollection(key);
+            var items = (await GetBookmarkCollection(key)).ToList();
             if(items == null)
             {
                 items = new List<Item>();
@@ -104,13 +104,13 @@ namespace AideDeJeu.ViewModels
             return md;
         }
 
-        public List<Item> ToItems(string md)
+        public async Task<IEnumerable<Item>> ToItems(string md)
         {
             var item = Store.ToItem(null, md);
             //if(item is Items)
             //{
             var items = item; // as Items;
-                return items.ToList();
+                return await items.GetChildrenAsync();
             //}
             //return new List<Item> { item };
         }
