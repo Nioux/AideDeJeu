@@ -13,7 +13,23 @@
             <views:ItemDetailPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:BookmarksPage Icon="stars_stack">
+    <views:MainNavigationPage Icon="stars_stack">
+        <views:MainNavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
+        </views:MainNavigationPage.Title>
+        <x:Arguments>
+            <views:BookmarksPage />
+        </x:Arguments>
+    </views:MainNavigationPage>
+    <views:MainNavigationPage Icon="crystal_ball">
+        <views:MainNavigationPage.Title>
+            <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche"/>
+        </views:MainNavigationPage.Title>
+        <x:Arguments>
+            <views:DeepSearchPage />
+        </x:Arguments>
+    </views:MainNavigationPage>
+    <!--<views:BookmarksPage Icon="stars_stack">
         <views:BookmarksPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
         </views:BookmarksPage.Title>
@@ -22,7 +38,7 @@
         <views:DeepSearchPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche" />
         </views:DeepSearchPage.Title>
-    </views:DeepSearchPage>
+    </views:DeepSearchPage>-->
     <views:AboutPage Title="?" Icon="wooden_sign">
         <views:AboutPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="À propos de..." WinPhone="À propos de..." />

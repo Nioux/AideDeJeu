@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.BookmarksPage"
-             x:Name="This">
+             x:Name="This"
+             Title="Favoris">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
