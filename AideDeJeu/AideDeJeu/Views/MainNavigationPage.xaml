@@ -3,8 +3,9 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     x:Class="AideDeJeu.Views.MainNavigationPage"
-    BackgroundColor="{StaticResource bgtan}"
-    BarBackgroundColor="{StaticResource rulered}"
-    BarTextColor="{StaticResource bgtan}">
+    BackgroundColor="{StaticResource HDWhite}"
+    BarBackgroundColor="{StaticResource HDWhite}"
+    BarTextColor="{StaticResource HDRed}">
+    
 
 </NavigationPage>

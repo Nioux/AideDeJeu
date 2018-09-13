@@ -4,6 +4,18 @@
              x:Class="AideDeJeu.App">
     <Application.Resources>
         <ResourceDictionary>
+
+            <Color x:Key="HDRed">#9B1C47</Color>
+            <Color x:Key="HDGrey">#563F5A</Color>
+            <Color x:Key="HDMidGrey">#6F5B73</Color>
+            <Color x:Key="HDLightGrey">#7C7B7B</Color>
+            <Color x:Key="HDLightBlack">#3A213C</Color>
+            <Color x:Key="HDBackMidGrey">#B5AAB9</Color>
+            <Color x:Key="HDBackLightGrey">#EDEDED</Color>
+            <Color x:Key="HDWhite">#FFFFFF</Color>
+            <Color x:Key="HDBlack">#000000</Color>
+            
+            
             <Color x:Key="Primary">#2196F3</Color>
             <Color x:Key="PrimaryDark">#1976D2</Color>
             <Color x:Key="Accent">#96d1ff</Color>
@@ -48,7 +60,7 @@
             <Color x:Key="tablecolor">#E0E5C1</Color>       <!--% table even row background-->
 
             <!--% Element colors that do not respond to \setthemecolor-->
-            <Color x:Key="quoteboxcolor">#F7F2E5</Color>             <!--% quotebox background-->
+            <Color x:Key="quoteboxcolor">#FFFFFF</Color>             <!--% quotebox background-->
             <Color x:Key="statblockribbon">#E69A28</Color> <!--% stat block top/bottom borders (gold)-->
             <Color x:Key="statblockbg">#FDF1DC</Color>     <!--% stat block background (tan)-->
 
@@ -68,13 +80,13 @@
             <Color x:Key="monstertandark">#F0DBB5</Color>
 
             <Style TargetType="ContentPage">
-                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
             <Style TargetType="StackLayout">
-                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
             <Style TargetType="ScrollView">
-                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
 
             <OnPlatform x:Key="LinuxLibertineCapitals" x:TypeArguments="x:String">
@@ -221,9 +233,10 @@
 
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource titlered}" />
-                <Setter Property="BarTextColor" Value="{StaticResource bgtan}" />
-                <Setter Property="BackgroundColor" Value="{StaticResource bgtan}" />
+                <Setter Property="BarTextColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
+            
         </ResourceDictionary>
     </Application.Resources>
 </Application>

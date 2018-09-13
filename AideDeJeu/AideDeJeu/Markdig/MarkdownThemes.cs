@@ -43,7 +43,7 @@ namespace AideDeJeu.Tools
             this.Separator.BorderColor = DefaultSeparatorColor;
         }
 
-        public static readonly Color DefaultBackgroundColor = Color.FromHex("#F7F2E5");
+        public static readonly Color DefaultBackgroundColor = Color.FromHex("#FFFFFF");
 
         public static readonly Color DefaultAccentColor = Color.FromHex("#0366d6");
 

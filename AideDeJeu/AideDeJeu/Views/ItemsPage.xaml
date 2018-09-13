@@ -21,7 +21,7 @@
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />-->
     </ContentPage.ToolbarItems>
     <Grid>
-        <ListView BackgroundColor="{StaticResource bgtan}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+        <ListView BackgroundColor="{StaticResource HDWhite}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
