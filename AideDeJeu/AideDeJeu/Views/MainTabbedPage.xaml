@@ -13,33 +13,21 @@
     xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
     android:TabbedPage.ToolbarPlacement="Bottom">
 
-    <views:MainNavigationPage x:Name="NavigationPage" Icon="spell_book.png">
-        <views:MainNavigationPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="Bibliothèque" WinPhone="Bibliothèque"/>
-        </views:MainNavigationPage.Title>
+    <views:MainNavigationPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
         <x:Arguments>
             <views:ItemDetailPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:MainNavigationPage Icon="stars_stack.png">
-        <views:MainNavigationPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
-        </views:MainNavigationPage.Title>
+    <views:MainNavigationPage Title="Favoris" Icon="stars_stack.png">
         <x:Arguments>
             <views:BookmarksPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:MainNavigationPage Icon="crystal_ball.png">
-        <views:MainNavigationPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche"/>
-        </views:MainNavigationPage.Title>
+    <views:MainNavigationPage Title="Recherche" Icon="crystal_ball.png">
         <x:Arguments>
             <views:DeepSearchPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:AboutPage Title="?" Icon="wooden_sign.png">
-        <views:AboutPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="À propos de..." WinPhone="À propos de..." />
-        </views:AboutPage.Title>
+    <views:AboutPage Title="À propos de..." Icon="wooden_sign.png">
     </views:AboutPage>
 </TabbedPage>
