@@ -131,6 +131,10 @@
   <ItemGroup>
     <None Include="Package.StoreAssociation.xml" />
     <Content Include="crystal_ball.png" />
+    <Content Include="dragon_head.png" />
+    <Content Include="funnel.png" />
+    <Content Include="icon.png" />
+    <Content Include="ic_launcher.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-100.png" />
     <Content Include="Assets\LockScreenLogo.scale-125.png" />
@@ -163,6 +167,11 @@
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="round_star.png" />
+    <Content Include="settings_knobs.png" />
+    <Content Include="spell_book.png" />
+    <Content Include="stars_stack.png" />
+    <Content Include="wooden_sign.png" />
     <Content Include="xamarin_logo.png" />
   </ItemGroup>
   <ItemGroup>

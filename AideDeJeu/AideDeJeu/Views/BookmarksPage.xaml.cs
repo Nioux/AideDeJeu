@@ -28,9 +28,9 @@ namespace AideDeJeu.Views
             await Main.Navigator.NavigateToLinkAsync(item.Link);
         }
 
-        private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+        private async void TapGestureRecognizer_Tapped(object sender, EventArgs e)
         {
-
+            await Navigation.PushAsync(new BookmarksEditPage());
         }
     }
 }

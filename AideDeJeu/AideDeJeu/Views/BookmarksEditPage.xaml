@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
-             x:Class="AideDeJeu.Views.BookmarksPage"
+             x:Class="AideDeJeu.Views.BookmarksEditPage"
              x:Name="This"
              Title="Favoris">
     <ContentPage.Resources>
@@ -20,8 +20,8 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            
-            <Picker Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
+
+            <Entry Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="FillAndExpand" />
 
             <Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png">
                 <Image.GestureRecognizers>
@@ -29,16 +29,18 @@
                 </Image.GestureRecognizers>
             </Image>
 
-            <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
-
             <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
-                            <StackLayout Padding="10" Orientation="Vertical">
-                                <Label Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
-                                <Label Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
-                            </StackLayout>
+                        <ViewCell>
+                            <Grid Padding="10">
+                                
+                                <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
+                                <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                                <Image Grid.Column="0" Grid.Row="2" BackgroundColor="#FF0000" WidthRequest="20" HeightRequest="20" />
+                                <Image Grid.Column="1" Grid.Row="2" BackgroundColor="#00FF00" WidthRequest="20" HeightRequest="20" />
+                                <Image Grid.Column="2" Grid.Row="2" BackgroundColor="#0000FF" WidthRequest="20" HeightRequest="20" />
+                            </Grid>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

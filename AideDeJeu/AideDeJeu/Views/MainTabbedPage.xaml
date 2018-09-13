@@ -3,9 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:views="clr-namespace:AideDeJeu.Views"
             x:Class="AideDeJeu.Views.MainTabbedPage"
-            Padding="0">
+            Padding="0"
+            BackgroundColor="{StaticResource bgtan}"
+            BarBackgroundColor="{StaticResource rulered}"
+            BarTextColor="{StaticResource bgtan}"
+            xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
+            windows:TabbedPage.HeaderIconsEnabled="true">
   <!--Pages can be added as references or inline-->
-    <views:MainNavigationPage x:Name="NavigationPage" Icon="spell_book">
+    <views:MainNavigationPage x:Name="NavigationPage" Icon="spell_book.png">
         <views:MainNavigationPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Bibliothèque" WinPhone="Bibliothèque"/>
         </views:MainNavigationPage.Title>
@@ -13,7 +18,7 @@
             <views:ItemDetailPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:MainNavigationPage Icon="stars_stack">
+    <views:MainNavigationPage Icon="stars_stack.png">
         <views:MainNavigationPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
         </views:MainNavigationPage.Title>
@@ -21,7 +26,7 @@
             <views:BookmarksPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <views:MainNavigationPage Icon="crystal_ball">
+    <views:MainNavigationPage Icon="crystal_ball.png">
         <views:MainNavigationPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche"/>
         </views:MainNavigationPage.Title>
@@ -29,17 +34,7 @@
             <views:DeepSearchPage />
         </x:Arguments>
     </views:MainNavigationPage>
-    <!--<views:BookmarksPage Icon="stars_stack">
-        <views:BookmarksPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="Favoris" WinPhone="Favoris"/>
-        </views:BookmarksPage.Title>
-    </views:BookmarksPage>
-    <views:DeepSearchPage Icon="crystal_ball">
-        <views:DeepSearchPage.Title>
-            <OnPlatform x:TypeArguments="x:String" Android="" Default="Recherche" WinPhone="Recherche" />
-        </views:DeepSearchPage.Title>
-    </views:DeepSearchPage>-->
-    <views:AboutPage Title="?" Icon="wooden_sign">
+    <views:AboutPage Title="?" Icon="wooden_sign.png">
         <views:AboutPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="À propos de..." WinPhone="À propos de..." />
         </views:AboutPage.Title>

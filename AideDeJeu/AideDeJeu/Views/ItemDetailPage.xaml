@@ -5,6 +5,7 @@
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              x:Class="AideDeJeu.Views.ItemDetailPage"
              Title="{Binding Title}"
+             Icon="spell_book.png"
              x:Name="This">
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -13,7 +14,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
+        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
         <!--<ToolbarItem Name="DeepSearch" Text="Rechercher..." Order="Primary" Icon="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />-->
     </ContentPage.ToolbarItems>
