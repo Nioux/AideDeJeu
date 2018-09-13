@@ -49,7 +49,7 @@
                     Grid.Column="0" Grid.Row="0" 
                     VerticalOptions="StartAndExpand"
                     HorizontalOptions="End"
-                    Color="{StaticResource titlered}"
+                    Color="{StaticResource HDRed}"
                     IsRunning="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}" 
                     IsVisible="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}">
                 <ActivityIndicator.WidthRequest>

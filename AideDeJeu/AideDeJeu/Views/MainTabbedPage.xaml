@@ -11,7 +11,11 @@
     xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
     windows:TabbedPage.HeaderIconsEnabled="true"
     xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-    android:TabbedPage.ToolbarPlacement="Bottom">
+    android:TabbedPage.ToolbarPlacement="Bottom"
+    android:TabbedPage.IsSwipePagingEnabled="False"
+    android:TabbedPage.BarItemColor="#FF0000"
+    android:TabbedPage.BarSelectedItemColor="#00FF00"
+    >
 
     <views:MainNavigationPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
         <x:Arguments>

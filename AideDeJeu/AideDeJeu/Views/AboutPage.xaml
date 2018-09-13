@@ -16,15 +16,15 @@
             <ColumnDefinition Width="Auto" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <StackLayout BackgroundColor="{StaticResource titlered}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout BackgroundColor="{StaticResource titlered}" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
-                <ContentView BackgroundColor="{StaticResource titlered}" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
-                    <Image BackgroundColor="{StaticResource titlered}" Source="black_book.png" VerticalOptions="Center" HeightRequest="64" />
+        <StackLayout BackgroundColor="{StaticResource HDRed}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout BackgroundColor="{StaticResource HDRed}" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView BackgroundColor="{StaticResource HDRed}" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
+                    <Image BackgroundColor="{StaticResource HDRed}" Source="black_book.png" VerticalOptions="Center" HeightRequest="64" />
                 </ContentView>
             </StackLayout>
         </StackLayout>
-        <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="{StaticResource titlered}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout BackgroundColor="{StaticResource titlered}" Padding="20,20,20,20" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+        <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="{StaticResource HDRed}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout BackgroundColor="{StaticResource HDRed}" Padding="20,20,20,20" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
                 <Label Text="Haches &amp; Dés " Style="{StaticResource heading1}" FontSize="32" FontAttributes="Bold" TextColor="{StaticResource HDWhite}" HorizontalOptions="Center"/>
                 <Label Text="{Binding Version, StringFormat='Version {0}'}" TextColor="{StaticResource HDWhite}" HorizontalOptions="Center"/>
             </StackLayout>

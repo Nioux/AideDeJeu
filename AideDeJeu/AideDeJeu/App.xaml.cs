@@ -20,7 +20,7 @@ namespace AideDeJeu
             var vm = DependencyService.Get<MainViewModel>();
             var tabbeddPage = new AideDeJeu.Views.MainTabbedPage();
             //var mainPage = new ItemDetailPage(new ItemDetailViewModel(new HomeItem()) { Title = "Haches & Dés" });
-            var titlered = (Color)Resources["titlered"];
+            var titlered = (Color)Resources["HDRed"];
             var bgtan = (Color)Resources["HDWhite"];
             //var navigationPage = new MainNavigationPage(mainPage) { BarBackgroundColor = titlered, BarTextColor = bgtan };
             //tabbeddPage.MainNavigationPage = navigationPage;

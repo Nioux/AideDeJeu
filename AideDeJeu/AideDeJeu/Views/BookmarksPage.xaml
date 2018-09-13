@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              x:Class="AideDeJeu.Views.BookmarksPage"
              x:Name="This"
@@ -23,7 +24,9 @@
             
             <Picker Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
 
-            <Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png">
+            <Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png"
+                android:VisualElement.Elevation="10"
+                   >
                 <Image.GestureRecognizers>
                     <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
                 </Image.GestureRecognizers>
@@ -47,7 +50,7 @@
                     Grid.Column="0" Grid.Row="0" 
                     VerticalOptions="StartAndExpand"
                     HorizontalOptions="End"
-                    Color="{StaticResource titlered}"
+                    Color="{StaticResource HDRed}"
                     IsRunning="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}" 
                     IsVisible="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}">
                 <ActivityIndicator.WidthRequest>

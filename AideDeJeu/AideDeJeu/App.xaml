@@ -5,6 +5,13 @@
     <Application.Resources>
         <ResourceDictionary>
 
+            <ControlTemplate x:Key="HDNavigationPageTemplate">
+                <StackLayout>
+                    <Label Text="Header Content" FontSize="24" />
+                    <ContentPresenter />
+                </StackLayout>
+            </ControlTemplate>
+
             <Color x:Key="HDRed">#9B1C47</Color>
             <Color x:Key="HDGrey">#563F5A</Color>
             <Color x:Key="HDMidGrey">#6F5B73</Color>
@@ -15,7 +22,7 @@
             <Color x:Key="HDWhite">#FFFFFF</Color>
             <Color x:Key="HDBlack">#000000</Color>
             
-            
+            <!--
             <Color x:Key="Primary">#2196F3</Color>
             <Color x:Key="PrimaryDark">#1976D2</Color>
             <Color x:Key="Accent">#96d1ff</Color>
@@ -23,46 +30,46 @@
             <Color x:Key="DarkBackgroundColor">#C0C0C0</Color>
             <Color x:Key="MediumGrayTextColor">#4d4d4d</Color>
             <Color x:Key="LightTextColor">#999999</Color>
-
+            -->
 
 
             <!-- https://github.com/evanbergeron/DND-5e-LaTeX-Template/blob/master/lib/dndcolors.sty -->
 
-            <Color x:Key="bgtan">#F7F2E5</Color> <!--% background and quotebox-->
-            <Color x:Key="pagegold">#B89A67</Color>  <!--% pagenumbers and footer-->
+            <!--<Color x:Key="bgtan">#F7F2E5</Color> --><!--% background and quotebox--><!--
+            <Color x:Key="pagegold">#B89A67</Color>  --><!--% pagenumbers and footer-->
 
             <!--% Type-->
-            <Color x:Key="titlered">#58180D</Color>	<!--% titles-->
-            <Color x:Key="titlegold">#C9AD6A</Color> <!--% titlerules-->
-            <Color x:Key="rulered">#9C2B1B</Color>		<!--% triangular rule in statsblock-->
-            <Color x:Key="contentblack">#000000</Color> <!--% ajout -->
+            <!--<Color x:Key="titlered">#58180D</Color>	--><!--% titles--><!--
+            <Color x:Key="titlegold">#C9AD6A</Color> --><!--% titlerules--><!--
+            <Color x:Key="rulered">#9C2B1B</Color>		--><!--% triangular rule in statsblock--><!--
+            <Color x:Key="contentblack">#000000</Color> --><!--% ajout -->
 
 
             <!--% Trim (affects tables and paperboxes)-->
-            <Color x:Key="PhbLightGreen">#E0E5C1</Color> <!--% PHB Part 1-->
-            <Color x:Key="PhbLightCyan">#B5CEB8</Color>  <!--% PHB Part 2-->
-            <Color x:Key="PhbMauve">#DCCCC5</Color>      <!--% PHB Part 3-->
-            <Color x:Key="PhbTan">#E5D5AC</Color>        <!--% PHB appendix-->
-            <Color x:Key="DmgLavender">#E3CED3</Color>   <!--% DMG Part 1-->
-            <Color x:Key="DmgCoral">#F3D7C1</Color>      <!--% DMG Part 2-->
-            <Color x:Key="DmgSlateGray">#DBE4E4</Color>  <!--% DMG Part 3-->
-            <Color x:Key="DmgLilac">#D7D4D6</Color>      <!--% DMG appendix-->
+            <!--<Color x:Key="PhbLightGreen">#E0E5C1</Color> --><!--% PHB Part 1--><!--
+            <Color x:Key="PhbLightCyan">#B5CEB8</Color>  --><!--% PHB Part 2--><!--
+            <Color x:Key="PhbMauve">#DCCCC5</Color>      --><!--% PHB Part 3--><!--
+            <Color x:Key="PhbTan">#E5D5AC</Color>        --><!--% PHB appendix--><!--
+            <Color x:Key="DmgLavender">#E3CED3</Color>   --><!--% DMG Part 1--><!--
+            <Color x:Key="DmgCoral">#F3D7C1</Color>      --><!--% DMG Part 2--><!--
+            <Color x:Key="DmgSlateGray">#DBE4E4</Color>  --><!--% DMG Part 3--><!--
+            <Color x:Key="DmgLilac">#D7D4D6</Color>      --><!--% DMG appendix-->
 
-            <!--% Trim aliases-->
+            <!--% Trim aliases--><!--
             <Color x:Key="DmgSlateGrey">#DBE4E4</Color>
 
-            <!--% The color used in \setthemecolor when a new color is not set-->
-            <Color x:Key="themecolor">#E0E5C1</Color>    <!--% Set the default theme to Part 1 of the PHB.-->
+            --><!--% The color used in \setthemecolor when a new color is not set--><!--
+            <Color x:Key="themecolor">#E0E5C1</Color>    --><!--% Set the default theme to Part 1 of the PHB.-->
 
-            <!--% Element colors that change when \setthemecolor is used-->
-            <Color x:Key="commentboxcolor">#E0E5C1</Color> <!--% commentbox background-->
-            <Color x:Key="paperboxcolor">#E0E5C1</Color>    <!--% paperbox background-->
-            <Color x:Key="tablecolor">#E0E5C1</Color>       <!--% table even row background-->
+            <!--% Element colors that change when \setthemecolor is used--><!--
+            <Color x:Key="commentboxcolor">#E0E5C1</Color> --><!--% commentbox background--><!--
+            <Color x:Key="paperboxcolor">#E0E5C1</Color>    --><!--% paperbox background--><!--
+            <Color x:Key="tablecolor">#E0E5C1</Color>       --><!--% table even row background-->
 
-            <!--% Element colors that do not respond to \setthemecolor-->
-            <Color x:Key="quoteboxcolor">#FFFFFF</Color>             <!--% quotebox background-->
-            <Color x:Key="statblockribbon">#E69A28</Color> <!--% stat block top/bottom borders (gold)-->
-            <Color x:Key="statblockbg">#FDF1DC</Color>     <!--% stat block background (tan)-->
+            <!--% Element colors that do not respond to \setthemecolor--><!--
+            <Color x:Key="quoteboxcolor">#FFFFFF</Color>             --><!--% quotebox background--><!--
+            <Color x:Key="statblockribbon">#E69A28</Color> --><!--% stat block top/bottom borders (gold)--><!--
+            <Color x:Key="statblockbg">#FDF1DC</Color>     --><!--% stat block background (tan)-->
 
             <!--% Sets the themecolor and colors for all themed elements
             % If called without the optional color, resets the color of all themed elements to the current themecolor
@@ -73,11 +80,11 @@
               \colorlet{tablecolor}{#1}
             }-->
 
-            <!--% Backwards-compatible aliases and colours-->
+            <!--% Backwards-compatible aliases and colours--><!--
             <Color x:Key="commentgreen">#E0E5C1</Color>
             <Color x:Key="itemtablepink">#F3D7C1</Color>
             <Color x:Key="monstertan">#FDF1DC</Color>
-            <Color x:Key="monstertandark">#F0DBB5</Color>
+            <Color x:Key="monstertandark">#F0DBB5</Color>-->
 
             <Style TargetType="ContentPage">
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
@@ -143,96 +150,96 @@
 
             <Style TargetType="Label"  x:Key="section">
                 <Setter Property="FontSize" Value="Large" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 
             <Style TargetType="Label" x:Key="subsection">
                 <Setter Property="FontSize" Value="Large" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 
             <Style TargetType="Label" x:Key="subsubsection">
                 <Setter Property="FontSize" Value="Large" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 
             <Style TargetType="Label" x:Key="content">
                 <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
 
             <Style TargetType="Label" x:Key="contentbold">
                 <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBold}" />
             </Style>
 
             <Style TargetType="Label" x:Key="contentital">
                 <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineItal}" />
             </Style>
 
             <Style TargetType="Label" x:Key="contentboldital">
                 <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource contentblack}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBoldItal}" />
             </Style>
 
             <Style TargetType="Label"  x:Key="paragraph">
                 <Setter Property="FontSize" Value="16" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading1">
                 <Setter Property="FontSize" Value="26" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading2">
                 <Setter Property="FontSize" Value="22" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading3">
                 <Setter Property="FontSize" Value="20" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading4">
                 <Setter Property="FontSize" Value="18" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading5">
                 <Setter Property="FontSize" Value="16" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading6">
                 <Setter Property="FontSize" Value="14" />
-                <Setter Property="TextColor" Value="{StaticResource titlered}" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="NavigationPage">
-                <Setter Property="BarBackgroundColor" Value="{StaticResource titlered}" />
+                <Setter Property="BarBackgroundColor" Value="{StaticResource HDRed}" />
                 <Setter Property="BarTextColor" Value="{StaticResource HDWhite}" />
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
