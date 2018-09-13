@@ -51,14 +51,17 @@ namespace AideDeJeu.ViewModels
             }
         } 
 
-        public async Task<IEnumerable<Item>> GetBookmarkCollection(string key)
+        public async Task<List<Item>> GetBookmarkCollection(string key)
         {
-            if (App.Current.Properties.ContainsKey(key))
+            if (key != null)
             {
-                var property = App.Current.Properties[key] as string;
-                if (property != null)
+                if (App.Current.Properties.ContainsKey(key))
                 {
-                    return await ToItems(property);
+                    var property = App.Current.Properties[key] as string;
+                    if (property != null)
+                    {
+                        return (await ToItems(property)).ToList();
+                    }
                 }
             }
             return null;
@@ -76,7 +79,7 @@ namespace AideDeJeu.ViewModels
         public async Task AddBookmarkAsync(string key, Item item)
         {
             var linkItem = new LinkItem() { Name = item.Name, AltName = item.AltName, Link = item.Id };
-            var items = (await GetBookmarkCollection(key)).ToList();
+            var items = await GetBookmarkCollection(key);
             if(items == null)
             {
                 items = new List<Item>();

@@ -27,5 +27,10 @@ namespace AideDeJeu.Views
             var Main = DependencyService.Get<MainViewModel>();
             await Main.Navigator.NavigateToLinkAsync(item.Link);
         }
+
+        private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+        {
+
+        }
     }
 }

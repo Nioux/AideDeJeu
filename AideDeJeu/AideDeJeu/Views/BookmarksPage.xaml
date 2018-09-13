@@ -12,16 +12,26 @@
     </ContentPage.Resources>
     <ContentPage.Content>
         <Grid BackgroundColor="{StaticResource bgtan}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
             
-            <Picker Style="{StaticResource heading1}" HorizontalOptions="FillAndExpand" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
+            <Picker Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="FillAndExpand" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
 
-            <Label Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
+            <Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Image.GestureRecognizers>
+            </Image>
 
-            <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+            <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
+
+            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">

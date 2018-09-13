@@ -40,19 +40,24 @@
         <ContentPage Title="">
             <Grid VerticalOptions="Fill" HorizontalOptions="Fill">
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="auto" />
                     <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="auto" />
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="auto" />
                     <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
-                <Button Grid.Column="0" Grid.Row="0" Text="=" Clicked="Button_Clicked"/>
-                <SearchBar Grid.Column="1" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+                <!--<Button Grid.Column="0" Grid.Row="0" Text="=" Clicked="Button_Clicked"/>-->
+                <SearchBar Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
                     <SearchBar.Behaviors>
                         <tools:TextChangedBehavior />
                     </SearchBar.Behaviors>
                 </SearchBar>
+                <Image Grid.Column="1" Grid.Row="0" Source="funnel.png">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Button_Clicked" />
+                    </Image.GestureRecognizers>
+                </Image>
                 <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>

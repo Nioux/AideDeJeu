@@ -78,7 +78,18 @@ namespace AideDeJeu.ViewModels
             //await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
             var vm = Main.Bookmarks;
             var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarkCollectionNames.ToArray<string>());
-            await vm.AddBookmarkAsync(result, item);
+            if (result != "Annuler")
+            {
+                if(result == "Nouvelle liste")
+                {
+                    int i = 1;
+                    while(vm.BookmarkCollectionNames.Contains(result = $"Nouvelle liste ({i})"))
+                    {
+                        i++;
+                    }
+                }
+                await vm.AddBookmarkAsync(result, item);
+            }
         }
 
         public async Task GotoItemDetailPageAsync(Item item)
