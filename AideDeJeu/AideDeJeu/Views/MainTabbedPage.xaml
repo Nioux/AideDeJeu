@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            xmlns:views="clr-namespace:AideDeJeu.Views"
-            x:Class="AideDeJeu.Views.MainTabbedPage"
-            Padding="0"
-            BackgroundColor="{StaticResource bgtan}"
-            BarBackgroundColor="{StaticResource rulered}"
-            BarTextColor="{StaticResource bgtan}"
-            xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
-            windows:TabbedPage.HeaderIconsEnabled="true">
-  <!--Pages can be added as references or inline-->
+<TabbedPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:AideDeJeu.Views"
+    x:Class="AideDeJeu.Views.MainTabbedPage"
+    Padding="0"
+    BackgroundColor="{StaticResource bgtan}"
+    BarBackgroundColor="{StaticResource rulered}"
+    BarTextColor="{StaticResource bgtan}"
+    xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
+    windows:TabbedPage.HeaderIconsEnabled="true"
+    xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+    android:TabbedPage.ToolbarPlacement="Bottom">
+
     <views:MainNavigationPage x:Name="NavigationPage" Icon="spell_book.png">
         <views:MainNavigationPage.Title>
             <OnPlatform x:TypeArguments="x:String" Android="" Default="Bibliothèque" WinPhone="Bibliothèque"/>
