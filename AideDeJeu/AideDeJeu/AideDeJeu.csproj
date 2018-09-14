@@ -19,10 +19,12 @@
 
   <ItemGroup>
     <None Remove="OGL.txt" />
+    <None Remove="test.svg" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="OGL.txt" />
+    <EmbeddedResource Include="test.svg" />
   </ItemGroup>
 
   <ItemGroup>

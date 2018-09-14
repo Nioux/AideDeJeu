@@ -7,6 +7,9 @@ using System.Text;
 using System.Xml;
 using Xamarin.Forms;
 using System.Linq;
+using SkiaSharp;
+using System.IO;
+using System.Reflection;
 
 namespace AideDeJeu.Tools
 {
@@ -72,6 +75,52 @@ namespace AideDeJeu.Tools
                 return Application.Current.Resources[$"heading{level.Value+1}"];
             }
             return Application.Current.Resources["paragraph"];
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return null;
+        }
+    }
+
+    public class SVGToBitmapConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            SkiaSharp.Extended.Svg.SKSvg svg = new SkiaSharp.Extended.Svg.SKSvg();
+            var assembly = typeof(Helpers).GetTypeInfo().Assembly;
+            using (var stream = assembly.GetManifestResourceStream("AideDeJeu.test.svg"))
+            {
+                svg.Load(stream);
+                //svg.Load(**Your SVG stream or file * *);
+                using (SKBitmap bitmap = new SKBitmap((int)svg.CanvasSize.Width, (int)svg.CanvasSize.Height))
+                using (SKCanvas canvas = new SKCanvas(bitmap))
+                {
+                    canvas.DrawPicture(svg.Picture);
+                    canvas.Flush();
+                    canvas.Save();
+
+                    using (SKImage image = SKImage.FromBitmap(bitmap))
+                    {
+                        var encoded = image.Encode();
+                        var sstream = encoded.AsStream();
+                        var source = ImageSource.FromStream(() => sstream);
+
+                        return source;
+                    }
+                    //using (SKData data = image.Encode(SKEncodedImageFormat.Png, 100))
+                    //using (MemoryStream memStream = new MemoryStream())
+                    //{
+                    //    data.SaveTo(memStream);
+                    //    memStream.Seek(0, SeekOrigin.Begin);
+                    //    return memStream;
+                    //    //using (SKManagedStream skStream = new SKManagedStream(memStream))
+                    //    //{
+                    //    //    return SKBitmap.Decode(skStream);
+                    //    //}
+                    //}
+                }
+            }
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

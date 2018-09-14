@@ -14,7 +14,6 @@
         <Grid BackgroundColor="{StaticResource HDWhite}">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
-                <ColumnDefinition Width="Auto" />
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
@@ -23,13 +22,13 @@
 
             <Entry Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="FillAndExpand" />
 
-            <Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png">
+            <!--<Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png">
                 <Image.GestureRecognizers>
                     <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
                 </Image.GestureRecognizers>
-            </Image>
+            </Image>-->
 
-            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+            <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

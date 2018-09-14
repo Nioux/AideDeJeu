@@ -8,12 +8,12 @@
     x:Name="This" 
     Title="{Binding Title}">
     <MasterDetailPage.ToolbarItems>
+        <ToolbarItem Name="Filter" Text="Filtrer" Order="Primary" Icon="funnel.png" Clicked="Button_Clicked" />
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
-        <!--<ToolbarItem Name="DeepSearch" Text="Rechercher..." Order="Primary" Icon="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
-        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />-->
     </MasterDetailPage.ToolbarItems>
     <MasterDetailPage.Resources>
         <ResourceDictionary>
+            <tools:SVGToBitmapConverter x:Key="SVGToBitmapConverter" />
         </ResourceDictionary>
     </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
@@ -41,24 +41,17 @@
             <Grid VerticalOptions="Fill" HorizontalOptions="Fill">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*" />
-                    <ColumnDefinition Width="auto" />
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="auto" />
                     <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
-                <!--<Button Grid.Column="0" Grid.Row="0" Text="=" Clicked="Button_Clicked"/>-->
                 <SearchBar Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
                     <SearchBar.Behaviors>
                         <tools:TextChangedBehavior />
                     </SearchBar.Behaviors>
                 </SearchBar>
-                <Image Grid.Column="1" Grid.Row="0" Source="funnel.png">
-                    <Image.GestureRecognizers>
-                        <TapGestureRecognizer Tapped="Button_Clicked" />
-                    </Image.GestureRecognizers>
-                </Image>
-                <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+                <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">

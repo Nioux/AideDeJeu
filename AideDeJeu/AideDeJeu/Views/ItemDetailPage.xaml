@@ -19,7 +19,7 @@
         <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />-->
     </ContentPage.ToolbarItems>
     <Grid>
-        <ScrollView Orientation="Vertical" BackgroundColor="#fdf1dc">
+        <ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
             <mdview:MarkdownView 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
                 Markdown="{Binding Item.Markdown}" 

@@ -19,7 +19,7 @@
         <StackLayout BackgroundColor="{StaticResource HDRed}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
             <StackLayout BackgroundColor="{StaticResource HDRed}" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
                 <ContentView BackgroundColor="{StaticResource HDRed}" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
-                    <Image BackgroundColor="{StaticResource HDRed}" Source="black_book.png" VerticalOptions="Center" HeightRequest="64" />
+                  <Image BackgroundColor="{StaticResource HDRed}" VerticalOptions="Center" HeightRequest="64" Source="black_book.png" />
                 </ContentView>
             </StackLayout>
         </StackLayout>

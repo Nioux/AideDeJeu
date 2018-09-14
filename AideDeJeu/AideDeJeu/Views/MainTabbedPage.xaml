@@ -7,16 +7,23 @@
     Padding="0"
     BackgroundColor="{StaticResource HDWhite}"
     BarBackgroundColor="{StaticResource HDWhite}"
-    BarTextColor="{StaticResource HDGrey}"
+    BarTextColor="{StaticResource HDMidGrey}"
     xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
     windows:TabbedPage.HeaderIconsEnabled="true"
     xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
     android:TabbedPage.ToolbarPlacement="Bottom"
     android:TabbedPage.IsSwipePagingEnabled="False"
-    android:TabbedPage.BarItemColor="#FF0000"
-    android:TabbedPage.BarSelectedItemColor="#00FF00"
+    android:TabbedPage.BarItemColor="{StaticResource HDMidGrey}"
+    android:TabbedPage.BarSelectedItemColor="{StaticResource HDRed}"
     >
-
+    <windows:TabbedPage.HeaderIconsSize>
+        <Size>
+            <x:Arguments>
+                <x:Double>48</x:Double>
+                <x:Double>48</x:Double>
+            </x:Arguments>
+        </Size>
+    </windows:TabbedPage.HeaderIconsSize>
     <views:MainNavigationPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
         <x:Arguments>
             <views:ItemDetailPage />

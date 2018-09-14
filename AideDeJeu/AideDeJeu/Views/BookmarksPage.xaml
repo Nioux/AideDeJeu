@@ -11,6 +11,9 @@
             <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
         </ResourceDictionary>
     </ContentPage.Resources>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Settings" Text="Paramètres" Order="Primary" Icon="settings_knobs.png" Clicked="TapGestureRecognizer_Tapped" />
+    </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <Grid BackgroundColor="{StaticResource HDWhite}">
             <Grid.ColumnDefinitions>
@@ -21,16 +24,8 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            
-            <Picker Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
 
-            <Image Grid.Column="1" Grid.Row="0" Source="settings_knobs.png"
-                android:VisualElement.Elevation="10"
-                   >
-                <Image.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
-                </Image.GestureRecognizers>
-            </Image>
+            <Picker Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
 
             <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
