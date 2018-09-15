@@ -1,8 +1,8 @@
 
 # Manuel des règles
-<!--
-## [Création du personnage]
--->
+
+<!-- ## [Création du personnage] -->
+
 ## [Races](races_hd.md)
 
 ## [Personnalité et Historique](personnality_background_hd.md)

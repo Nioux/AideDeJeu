@@ -77,7 +77,7 @@ Votre étude exhaustive des différentes traditions et théories magiques vous p
 
 <!--Generic-->
 
-Nombre de sorts de clercs connus
+### <!--Name-->Nombre de sorts de clercs connus<!--/Name-->
 
 |Niveau|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|

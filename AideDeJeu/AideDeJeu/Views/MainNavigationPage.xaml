@@ -6,6 +6,6 @@
     BackgroundColor="{StaticResource HDWhite}"
     BarBackgroundColor="{StaticResource HDWhite}"
     BarTextColor="{StaticResource HDRed}">
-    
+
 
 </NavigationPage>

@@ -104,10 +104,10 @@ namespace AideDeJeu.ViewModels
                         enumerator.MoveNext();
                     }
                 }
+                currentItem.Id = GetNewAnchorId(source, currentItem.Name);
+                _AllItems[currentItem.Id] = currentItem;
             }
 
-            currentItem.Id = GetNewAnchorId(source, currentItem.Name);
-            _AllItems[currentItem.Id] = currentItem;
             return currentItem;
         }
 
@@ -183,7 +183,12 @@ namespace AideDeJeu.ViewModels
                 {
                     if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
-                        return true;
+                        var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
+                        var type = Type.GetType(name);
+                        if (type != null)
+                        {
+                            return true;
+                        }
                     }
                 }
             }
@@ -219,8 +224,11 @@ namespace AideDeJeu.ViewModels
                     {
                         var name = $"AideDeJeuLib.{tag.Substring(4, tag.Length - 7)}, AideDeJeu";
                         var type = Type.GetType(name);
-                        var instance = Activator.CreateInstance(type) as Item;
-                        return instance;
+                        if (type != null)
+                        {
+                            var instance = Activator.CreateInstance(type) as Item;
+                            return instance;
+                        }
                     }
                 }
             }
