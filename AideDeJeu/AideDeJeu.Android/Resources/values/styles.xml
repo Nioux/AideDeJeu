@@ -25,6 +25,19 @@
     <item name="windowActionModeOverlay">true</item>
 
     <item name="android:datePickerDialogTheme">@style/AppCompatDialogStyle</item>
+
+    <item name="colorControlNormal">#FF0000</item>
+    <item name="colorControlActivated">#FFFF00</item>
+    <item name="colorControlHighlight">#00FF00</item>
+    <item name="colorSwitchThumbNormal">#0000FF</item>
+
+
+      <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+  </style>
+
+  <style name="DrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+    <item name="spinBars">true</item>
+    <item name="color">#FF0000</item>
   </style>
 
   <style name="AppCompatDialogStyle" parent="Theme.AppCompat.Light.Dialog">
