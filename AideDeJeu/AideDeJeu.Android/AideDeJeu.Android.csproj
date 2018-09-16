@@ -221,5 +221,8 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\wooden_sign.png" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\colors.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

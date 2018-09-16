@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <item name="HDRed" type="color">#9B1C47</item>
+  <item name="HDGrey" type="color">#563F5A</item>
+  <item name="HDMidGrey" type="color">#6F5B73</item>
+  <item name="HDLightGrey" type="color">#7C7B7B</item>
+  <item name="HDLightBlack" type="color">#3A213C</item>
+  <item name="HDBackMidGrey" type="color">#B5AAB9</item>
+  <item name="HDBackLightGrey" type="color">#EDEDED</item>
+  <item name="HDWhite" type="color">#FFFFFF</item>
+  <item name="HDBlack" type="color">#000000</item>
+</resources>
