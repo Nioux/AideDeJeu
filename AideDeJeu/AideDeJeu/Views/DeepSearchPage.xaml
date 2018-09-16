@@ -21,7 +21,7 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            <SearchBar Style="{StaticResource subsubsection}"  Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+            <SearchBar Style="{StaticResource heading3}"  Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
                 <!--<SearchBar.Behaviors>
                     <tools:TextChangedBehavior />
                 </SearchBar.Behaviors>-->
@@ -29,15 +29,15 @@
 
             <!--<Label Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="Lancez une recherche pour voir ici vos résultats !\n\n(Notez que la première recherche peut être assez longue)" IsVisible="{Binding Bookmarks.Count, Converter={StaticResource IntToBooleanConverter}}" />-->
 
-            <Label Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource subsubsection}" Text="{x:Static properties:Resource.EmptySearchAltText}" IsVisible="{Binding Bookmarks.Count, Converter={StaticResource IntToBooleanConverter}}" />
+            <Label Grid.Column="0" Grid.Row="1" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="{x:Static properties:Resource.EmptySearchAltText}" IsVisible="{Binding Bookmarks.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
             <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding Items}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
                             <StackLayout Padding="10" Orientation="Vertical">
-                                <Label Text="{Binding Preview}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
-                                <Label Text="{Binding Item.Name}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                                <Label Text="{Binding Preview}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
+                                <Label Text="{Binding Item.Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>

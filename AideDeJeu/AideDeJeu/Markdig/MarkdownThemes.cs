@@ -14,8 +14,13 @@ namespace AideDeJeu.Tools
             var fdHeading1 = FormatedTextHelpers.FontData.FromResource("heading1");
             var fdHeading2 = FormatedTextHelpers.FontData.FromResource("heading2");
             var fdHeading3 = FormatedTextHelpers.FontData.FromResource("heading3");
-            //this.Paragraph.FontFamily = fd.FontFamily;
-            //this.Paragraph.FontFamily = "Droid Serif";
+            var fdHeading4 = FormatedTextHelpers.FontData.FromResource("heading4");
+            var fdHeading5 = FormatedTextHelpers.FontData.FromResource("heading5");
+            var fdHeading6 = FormatedTextHelpers.FontData.FromResource("heading6");
+            var fdLink = FormatedTextHelpers.FontData.FromResource("link");
+            var fdTableHeader = FormatedTextHelpers.FontData.FromResource("tableheader");
+            var fdTableCell = FormatedTextHelpers.FontData.FromResource("tablecell");
+
             this.Paragraph.FontFamily = fdParagraph.FontFamily;
             this.Paragraph.FontSize = (float)fdParagraph.FontSize;
             this.Paragraph.Attributes = fdParagraph.FontAttributes;
@@ -23,24 +28,54 @@ namespace AideDeJeu.Tools
 
             this.Paragraph.BackgroundColor = DefaultBackgroundColor;
             this.BackgroundColor = DefaultBackgroundColor;
-            //this.Paragraph.ForegroundColor = DefaultTextColor;
+
             this.Heading1.ForegroundColor = fdHeading1.TextColor;
             this.Heading1.BorderColor = DefaultSeparatorColor;
             this.Heading1.FontFamily = fdHeading1.FontFamily;
+
             this.Heading2.ForegroundColor = fdHeading2.TextColor;
             this.Heading2.BorderColor = DefaultSeparatorColor;
             this.Heading2.FontFamily = fdHeading2.FontFamily;
+
             this.Heading3.ForegroundColor = fdHeading3.TextColor;
+            this.Heading3.BorderColor = DefaultSeparatorColor;
             this.Heading3.FontFamily = fdHeading3.FontFamily;
-            this.Heading4.ForegroundColor = DefaultTextColor;
-            this.Heading5.ForegroundColor = DefaultTextColor;
-            this.Heading6.ForegroundColor = DefaultTextColor;
-            this.Link.ForegroundColor = DefaultAccentColor;
+
+            this.Heading4.ForegroundColor = fdHeading4.TextColor;
+            this.Heading4.BorderColor = DefaultSeparatorColor;
+            this.Heading4.FontFamily = fdHeading4.FontFamily;
+
+            this.Heading5.ForegroundColor = fdHeading5.TextColor;
+            this.Heading5.BorderColor = DefaultSeparatorColor;
+            this.Heading5.FontFamily = fdHeading5.FontFamily;
+
+            this.Heading6.ForegroundColor = fdHeading6.TextColor;
+            this.Heading6.BorderColor = DefaultSeparatorColor;
+            this.Heading6.FontFamily = fdHeading6.FontFamily;
+
+            this.Link.FontFamily = fdLink.FontFamily;
+            this.Link.FontSize = (float)fdLink.FontSize;
+            this.Link.Attributes = fdLink.FontAttributes;
+            this.Link.ForegroundColor = fdLink.TextColor;
+
+            this.TableHeader.FontFamily = fdTableHeader.FontFamily;
+            this.TableHeader.FontSize = (float)fdTableHeader.FontSize;
+            this.TableHeader.Attributes = fdTableHeader.FontAttributes;
+            this.TableHeader.ForegroundColor = fdTableHeader.TextColor;
+
+            this.TableCell.FontFamily = fdTableCell.FontFamily;
+            this.TableCell.FontSize = (float)fdTableCell.FontSize;
+            this.TableCell.Attributes = fdTableCell.FontAttributes;
+            this.TableCell.ForegroundColor = fdTableCell.TextColor;
+
+            //this.Link.ForegroundColor = DefaultAccentColor;
             this.Code.ForegroundColor = DefaultTextColor;
             this.Code.BackgroundColor = DefaultCodeBackground;
             this.Quote.ForegroundColor = DefaultQuoteTextColor;
             this.Quote.BorderColor = DefaultQuoteBorderColor;
             this.Separator.BorderColor = DefaultSeparatorColor;
+
+
         }
 
         public static readonly Color DefaultBackgroundColor = Color.FromHex("#FFFFFF");

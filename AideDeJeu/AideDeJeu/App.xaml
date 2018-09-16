@@ -150,7 +150,7 @@
             <Style TargetType="Label">
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
-
+<!--
             <Style TargetType="Label"  x:Key="section">
                 <Setter Property="FontSize" Value="Large" />
                 <Setter Property="TextColor" Value="{StaticResource HDRed}" />
@@ -168,34 +168,16 @@
                 <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
-
+-->
             <Style TargetType="Label" x:Key="content">
                 <Setter Property="FontSize" Value="Medium" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
 
-            <Style TargetType="Label" x:Key="contentbold">
-                <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBold}" />
-            </Style>
-
-            <Style TargetType="Label" x:Key="contentital">
-                <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineItal}" />
-            </Style>
-
-            <Style TargetType="Label" x:Key="contentboldital">
-                <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineBoldItal}" />
-            </Style>
-
             <Style TargetType="Label"  x:Key="paragraph">
-                <Setter Property="FontSize" Value="16" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
@@ -208,37 +190,60 @@
 
             <Style TargetType="Label"  x:Key="heading2">
                 <Setter Property="FontSize" Value="22" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading3">
                 <Setter Property="FontSize" Value="20" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading4">
                 <Setter Property="FontSize" Value="18" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading5">
                 <Setter Property="FontSize" Value="16" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading6">
                 <Setter Property="FontSize" Value="14" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="link">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="tableheader">
+                <Setter Property="FontSize" Value="12" />
+                <Setter Property="Margin" Value="1" />
+                <Setter Property="TextColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDGrey}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+
+            <Style TargetType="Label"  x:Key="tablecell">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Margin" Value="1" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
 
             <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">

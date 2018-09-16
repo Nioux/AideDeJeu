@@ -32,7 +32,7 @@
                     <ViewCell>
                         <StackLayout Padding="10" Orientation="Vertical">
                             <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="#0366d6" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}}" />
-                            <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                            <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

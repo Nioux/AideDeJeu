@@ -20,7 +20,7 @@
                             <ViewCell>
                                 <ViewCell.View>
                                     <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
-                                        <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=subsubsection}" />
+                                        <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
                                         <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
                                     </StackLayout>
                                 </ViewCell.View>
@@ -51,8 +51,8 @@
                         <DataTemplate>
                             <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
                                 <StackLayout Padding="10" Orientation="Vertical">
-                                    <Label Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
-                                    <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                                    <Label Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
+                                    <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
                                 </StackLayout>
                             </ViewCell>
                         </DataTemplate>

@@ -28,8 +28,8 @@
                         <ViewCell>
                             <Grid Padding="10">
                                 
-                                <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
-                                <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />
+                                <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
+                                <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
                                 <Image Grid.Column="0" Grid.Row="2" BackgroundColor="#FF0000" WidthRequest="20" HeightRequest="20" />
                                 <Image Grid.Column="1" Grid.Row="2" BackgroundColor="#00FF00" WidthRequest="20" HeightRequest="20" />
                                 <Image Grid.Column="2" Grid.Row="2" BackgroundColor="#0000FF" WidthRequest="20" HeightRequest="20" />
