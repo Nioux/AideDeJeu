@@ -89,13 +89,13 @@
             <Color x:Key="monstertan">#FDF1DC</Color>
             <Color x:Key="monstertandark">#F0DBB5</Color>-->
 
-            <Style TargetType="ContentPage">
+            <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
-            <Style TargetType="StackLayout">
+            <Style TargetType="StackLayout" ApplyToDerivedTypes="True">
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
-            <Style TargetType="ScrollView">
+            <Style TargetType="ScrollView" ApplyToDerivedTypes="True">
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
 
@@ -169,11 +169,11 @@
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
             </Style>
 -->
-            <Style TargetType="Label" x:Key="content">
+            <!--<Style TargetType="Label" x:Key="content">
                 <Setter Property="FontSize" Value="Medium" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
-            </Style>
+            </Style>-->
 
             <Style TargetType="Label"  x:Key="paragraph">
                 <Setter Property="FontSize" Value="12" />
