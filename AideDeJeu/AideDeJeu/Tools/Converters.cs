@@ -72,7 +72,18 @@ namespace AideDeJeu.Tools
             var level = value as int?;
             if(level.HasValue)
             {
-                return Application.Current.Resources[$"heading{level.Value+1}"];
+                int finallevel = level.Value;
+                int baselevel = 1;
+                if(int.TryParse(parameter as string, out baselevel))
+                {
+                    finallevel += baselevel;
+                }
+                finallevel = Math.Max(1, Math.Min(6, finallevel));
+                var heading = $"heading{finallevel}";
+                if (Application.Current.Resources.ContainsKey(heading))
+                {
+                    return Application.Current.Resources[heading];
+                }
             }
             return Application.Current.Resources["paragraph"];
         }

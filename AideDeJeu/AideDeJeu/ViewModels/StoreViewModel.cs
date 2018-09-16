@@ -111,35 +111,45 @@ namespace AideDeJeu.ViewModels
             return currentItem;
         }
 
-        public void ParseItemProperties(string source, Item item, Block block)
+        public bool ParseItemProperties(string source, Item item, Block block)
         {
             switch (block)
             {
                 case Markdig.Extensions.Tables.Table table:
-                    ParseItemProperties(source, item, table);
-                    break;
+                    return ParseItemProperties(source, item, table);
                 case ContainerBlock blocks:
-                    ParseItemProperties(source, item, blocks);
-                    break;
+                    return ParseItemProperties(source, item, blocks);
                 case LeafBlock leaf:
-                    ParseItemProperties(source, item, leaf.Inline);
-                    break;
+                    bool isname = ParseItemProperties(source, item, leaf.Inline);
+                    if(isname)
+                    {
+                        if(leaf is HeadingBlock)
+                        {
+                            var headingBlock = leaf as HeadingBlock;
+                            item.NameLevel = headingBlock.Level;
+                        }
+                    }
+                    return isname;
             }
+            return false;
         }
 
-        public void ParseItemProperties(string source, Item item, ContainerBlock blocks)
+        public bool ParseItemProperties(string source, Item item, ContainerBlock blocks)
         {
+            bool isname = false;
             foreach (var block in blocks)
             {
-                ParseItemProperties(source, item, block);
+                isname |= ParseItemProperties(source, item, block);
             }
+            return isname;
         }
 
-        public void ParseItemProperties(string source, Item item, ContainerInline inlines)
+        public bool ParseItemProperties(string source, Item item, ContainerInline inlines)
         {
+            bool isname = false;
             if (inlines == null)
             {
-                return;
+                return isname;
             }
             PropertyInfo prop = null;
             foreach (var inline in inlines)
@@ -158,6 +168,10 @@ namespace AideDeJeu.ViewModels
                     else if (tag.StartsWith("<!--") && !tag.StartsWith("<!--/"))
                     {
                         var propertyName = tag.Substring(4, tag.Length - 7);
+                        if(propertyName == "Name")
+                        {
+                            isname = true;
+                        }
                         prop = item.GetType().GetProperty(propertyName, BindingFlags.Public | BindingFlags.Instance);
                     }
                 }
@@ -169,6 +183,7 @@ namespace AideDeJeu.ViewModels
                     }
                 }
             }
+            return isname;
         }
 
 

@@ -13,6 +13,7 @@
             </ControlTemplate>
 
             <Color x:Key="HDRed">#9B1C47</Color>
+            <Color x:Key="HDBlue">#5B61FF</Color>
             <Color x:Key="HDGrey">#563F5A</Color>
             <Color x:Key="HDMidGrey">#6F5B73</Color>
             <Color x:Key="HDLightGrey">#7C7B7B</Color>
@@ -225,7 +226,7 @@
 
             <Style TargetType="Label"  x:Key="link">
                 <Setter Property="FontSize" Value="14" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlue}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
 

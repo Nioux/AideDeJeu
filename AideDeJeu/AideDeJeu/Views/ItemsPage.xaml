@@ -31,8 +31,8 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Padding="10" Orientation="Vertical">
-                            <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="#0366d6" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}}" />
-                            <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
+                            <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=1}" />
+                            <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" TextColor="{StaticResource HDLightGrey}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=4}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
