@@ -11,11 +11,6 @@
         <ToolbarItem Name="Filter" Text="Filtrer" Order="Primary" Icon="funnel.png" Clicked="Button_Clicked" />
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
     </MasterDetailPage.ToolbarItems>
-    <MasterDetailPage.Resources>
-        <ResourceDictionary>
-            <tools:SVGToBitmapConverter x:Key="SVGToBitmapConverter" />
-        </ResourceDictionary>
-    </MasterDetailPage.Resources>
     <MasterDetailPage.Master>
         <ContentPage Title=" ">
             <StackLayout Orientation="Vertical">

@@ -21,7 +21,10 @@
             <Color x:Key="HDBackLightGrey">#EDEDED</Color>
             <Color x:Key="HDWhite">#FFFFFF</Color>
             <Color x:Key="HDBlack">#000000</Color>
-            
+
+            <!--<Color x:Key="ParagraphBackgroundColor">{StaticResource HDWhite}</Color>
+            <Color x:Key="ParagraphForegroundColor">HDBlack</Color>-->
+
             <!--
             <Color x:Key="Primary">#2196F3</Color>
             <Color x:Key="PrimaryDark">#1976D2</Color>
@@ -238,12 +241,18 @@
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="NavigationPage">
-                <Setter Property="BarBackgroundColor" Value="{StaticResource HDRed}" />
-                <Setter Property="BarTextColor" Value="{StaticResource HDWhite}" />
+            <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">
+                <Setter Property="BarBackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BarTextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
             </Style>
-            
+
+            <Style TargetType="TabbedPage" ApplyToDerivedTypes="True">
+                <Setter Property="BarBackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BarTextColor" Value="{StaticResource HDMidGrey}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+            </Style>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

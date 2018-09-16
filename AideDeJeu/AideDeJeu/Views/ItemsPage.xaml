@@ -17,8 +17,6 @@
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
-        <!--<ToolbarItem Name="DeepSearch" Text="Rechercher..." Order="Primary" Icon="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
-        <ToolbarItem Name="About" Text="À propos de..." Order="Secondary" Icon="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />-->
     </ContentPage.ToolbarItems>
     <Grid>
         <ListView BackgroundColor="{StaticResource HDWhite}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
@@ -31,7 +29,7 @@
             </ListView.Header>
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
+                    <ViewCell>
                         <StackLayout Padding="10" Orientation="Vertical">
                             <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="#0366d6" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}}" />
                             <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />

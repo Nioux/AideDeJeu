@@ -32,7 +32,7 @@
             <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <ViewCell AutomationProperties.IsInAccessibleTree="True" AutomationId="machin" AutomationProperties.Name="hop">
+                        <ViewCell>
                             <StackLayout Padding="10" Orientation="Vertical">
                                 <Label Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="16" />
                                 <Label Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource subsubsection}" FontSize="12" />

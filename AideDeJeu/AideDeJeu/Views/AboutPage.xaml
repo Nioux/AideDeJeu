@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AideDeJeu.Views.AboutPage"
-             xmlns:vm="clr-namespace:AideDeJeu.ViewModels;"
+             xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
              Title="{Binding Title}">
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
@@ -16,17 +16,17 @@
             <ColumnDefinition Width="Auto" />
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
-        <StackLayout BackgroundColor="{StaticResource HDRed}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout BackgroundColor="{StaticResource HDRed}" Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
-                <ContentView BackgroundColor="{StaticResource HDRed}" Padding="20,20,20,20" VerticalOptions="FillAndExpand">
-                  <Image BackgroundColor="{StaticResource HDRed}" VerticalOptions="Center" HeightRequest="64" Source="black_book.png" />
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView Padding="20,20,20,20" VerticalOptions="FillAndExpand">
+                  <Image VerticalOptions="Center" HeightRequest="64" Source="black_book.png" />
                 </ContentView>
             </StackLayout>
         </StackLayout>
-        <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="{StaticResource HDRed}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout BackgroundColor="{StaticResource HDRed}" Padding="20,20,20,20" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
-                <Label Text="Haches &amp; Dés " Style="{StaticResource heading1}" FontSize="32" FontAttributes="Bold" TextColor="{StaticResource HDWhite}" HorizontalOptions="Center"/>
-                <Label Text="{Binding Version, StringFormat='Version {0}'}" TextColor="{StaticResource HDWhite}" HorizontalOptions="Center"/>
+        <StackLayout Grid.Column="1" Grid.Row="0" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout Padding="20,20,20,20" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="Haches &amp; Dés " Style="{StaticResource heading1}" FontSize="32" FontAttributes="Bold" HorizontalOptions="Center"/>
+                <Label Text="{Binding Version, StringFormat='Version {0}'}" HorizontalOptions="Center"/>
             </StackLayout>
         </StackLayout>
         <ScrollView Grid.Row="1" Grid.ColumnSpan="2">

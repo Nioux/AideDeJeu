@@ -3,19 +3,15 @@
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:views="clr-namespace:AideDeJeu.Views"
+    xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
     x:Class="AideDeJeu.Views.MainTabbedPage"
     Padding="0"
-    BackgroundColor="{StaticResource HDWhite}"
-    BarBackgroundColor="{StaticResource HDWhite}"
-    BarTextColor="{StaticResource HDMidGrey}"
-    xmlns:windows="clr-namespace:Xamarin.Forms.PlatformConfiguration.WindowsSpecific;assembly=Xamarin.Forms.Core"
-    windows:TabbedPage.HeaderIconsEnabled="true"
-    xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
     android:TabbedPage.ToolbarPlacement="Bottom"
     android:TabbedPage.IsSwipePagingEnabled="False"
     android:TabbedPage.BarItemColor="{StaticResource HDMidGrey}"
     android:TabbedPage.BarSelectedItemColor="{StaticResource HDRed}"
-    >
+    windows:TabbedPage.HeaderIconsEnabled="true">
     <windows:TabbedPage.HeaderIconsSize>
         <Size>
             <x:Arguments>
