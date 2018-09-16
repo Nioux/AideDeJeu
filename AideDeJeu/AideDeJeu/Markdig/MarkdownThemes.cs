@@ -20,6 +20,7 @@ namespace AideDeJeu.Tools
             var fdLink = FormatedTextHelpers.FontData.FromResource("link");
             var fdTableHeader = FormatedTextHelpers.FontData.FromResource("tableheader");
             var fdTableCell = FormatedTextHelpers.FontData.FromResource("tablecell");
+            var fdTableCellAlt = FormatedTextHelpers.FontData.FromResource("tablecellalt");
 
             this.Paragraph.FontFamily = fdParagraph.FontFamily;
             this.Paragraph.FontSize = (float)fdParagraph.FontSize;
@@ -67,6 +68,11 @@ namespace AideDeJeu.Tools
             this.TableCell.FontSize = (float)fdTableCell.FontSize;
             this.TableCell.Attributes = fdTableCell.FontAttributes;
             this.TableCell.ForegroundColor = fdTableCell.TextColor;
+
+            this.TableCellAlt.FontFamily = fdTableCellAlt.FontFamily;
+            this.TableCellAlt.FontSize = (float)fdTableCellAlt.FontSize;
+            this.TableCellAlt.Attributes = fdTableCellAlt.FontAttributes;
+            this.TableCellAlt.ForegroundColor = fdTableCellAlt.TextColor;
 
             //this.Link.ForegroundColor = DefaultAccentColor;
             this.Code.ForegroundColor = DefaultTextColor;

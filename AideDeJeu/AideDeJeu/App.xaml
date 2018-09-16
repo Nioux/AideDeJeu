@@ -246,6 +246,14 @@
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
 
+            <Style TargetType="Label"  x:Key="tablecellalt">
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Margin" Value="1" />
+                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource HDLightGrey}" />
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
+            </Style>
+
             <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource HDWhite}" />
                 <Setter Property="BarTextColor" Value="{StaticResource HDRed}" />
