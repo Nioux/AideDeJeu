@@ -54,8 +54,8 @@ namespace AideDeJeu.Tools
             this.Heading6.BorderColor = DefaultSeparatorColor;
             this.Heading6.FontFamily = fdHeading6.FontFamily;
 
-            this.Link.FontFamily = fdLink.FontFamily;
-            this.Link.FontSize = (float)fdLink.FontSize;
+            //this.Link.FontFamily = fdLink.FontFamily;
+            //this.Link.FontSize = (float)fdLink.FontSize;
             this.Link.Attributes = fdLink.FontAttributes;
             this.Link.ForegroundColor = fdLink.TextColor;
 
