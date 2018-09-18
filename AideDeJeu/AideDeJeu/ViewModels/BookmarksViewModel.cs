@@ -7,6 +7,8 @@ using System.Linq;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
+using Xamarin.Forms;
 using Xamarin.Forms.Internals;
 
 namespace AideDeJeu.ViewModels
@@ -25,6 +27,7 @@ namespace AideDeJeu.ViewModels
             "Bestiaire",
             "Sac",
         };
+
         private int _BookmarkCollectionIndex = 0;
         public int BookmarkCollectionIndex
         {
@@ -49,7 +52,63 @@ namespace AideDeJeu.ViewModels
             {
                 SetProperty(ref _BookmarkCollection, value);
             }
-        } 
+        }
+
+
+        private ICommand _RemoveItemCommand = null;
+        public ICommand RemoveItemCommand
+        {
+            get
+            {
+                return _RemoveItemCommand ?? (_RemoveItemCommand = new Command<Item>(ExecuteRemoveItemCommand));
+            }
+        }
+
+        private void ExecuteRemoveItemCommand(Item item)
+        {
+            BookmarkCollection.Remove(item);
+        }
+
+        private ICommand _MoveUpItemCommand = null;
+        public ICommand MoveUpItemCommand
+        {
+            get
+            {
+                return _MoveUpItemCommand ?? (_MoveUpItemCommand = new Command<Item>(ExecuteMoveUpItemCommand));
+            }
+        }
+
+        private void ExecuteMoveUpItemCommand(Item item)
+        {
+            var index = BookmarkCollection.IndexOf(item);
+            if (index > 0)
+            {
+                BookmarkCollection.RemoveAt(index);
+                BookmarkCollection.Insert(index - 1, item);
+            }
+        }
+
+        private ICommand _MoveDownItemCommand = null;
+        public ICommand MoveDownItemCommand
+        {
+            get
+            {
+                return _MoveDownItemCommand ?? (_MoveDownItemCommand = new Command<Item>(ExecuteMoveDownItemCommand));
+            }
+        }
+
+        private void ExecuteMoveDownItemCommand(Item item)
+        {
+            var index = BookmarkCollection.IndexOf(item);
+            if (index < BookmarkCollection.Count - 1)
+            {
+                BookmarkCollection.RemoveAt(index);
+                BookmarkCollection.Insert(index + 1, item);
+            }
+        }
+
+
+
 
         public async Task<List<Item>> GetBookmarkCollection(string key)
         {
