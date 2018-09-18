@@ -83,8 +83,9 @@ namespace AideDeJeu.ViewModels
             var index = BookmarkCollection.IndexOf(item);
             if (index > 0)
             {
-                BookmarkCollection.RemoveAt(index);
-                BookmarkCollection.Insert(index - 1, item);
+                BookmarkCollection.Move(index, index - 1);
+                //BookmarkCollection.RemoveAt(index);
+                //BookmarkCollection.Insert(index - 1, item);
             }
         }
 
@@ -102,8 +103,9 @@ namespace AideDeJeu.ViewModels
             var index = BookmarkCollection.IndexOf(item);
             if (index < BookmarkCollection.Count - 1)
             {
-                BookmarkCollection.RemoveAt(index);
-                BookmarkCollection.Insert(index + 1, item);
+                BookmarkCollection.Move(index, index + 1);
+                //BookmarkCollection.RemoveAt(index);
+                //BookmarkCollection.Insert(index + 1, item);
             }
         }
 
