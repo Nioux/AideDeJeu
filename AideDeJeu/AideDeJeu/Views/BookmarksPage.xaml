@@ -13,7 +13,6 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Settings" Text="Paramètres" Order="Primary" Icon="settings_knobs.png" Clicked="TapGestureRecognizer_Tapped" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <Grid BackgroundColor="{StaticResource HDWhite}">
@@ -30,7 +29,7 @@
 
             <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
-            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -42,7 +41,11 @@
                                     <ColumnDefinition Width="auto" />
                                 </Grid.ColumnDefinitions>
 
-                                <Label Grid.Column="0" Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=1}" />
+                                <Label Grid.Column="0" Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=2}" HorizontalOptions="Fill">
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding BindingContext.GotoItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
+                                    </Label.GestureRecognizers>
+                                </Label>
 
                                 <Image Grid.Column="1" Source="trash_can.png" WidthRequest="32" HeightRequest="32">
                                     <Image.GestureRecognizers>

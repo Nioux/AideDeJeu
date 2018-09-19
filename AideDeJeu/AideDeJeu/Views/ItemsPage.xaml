@@ -12,6 +12,7 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:NullOrEmptyToFalseConverter x:Key="NullOrEmptyToFalseConverter" />
             <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -31,8 +32,8 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Padding="10" Orientation="Vertical">
-                            <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=1}" />
-                            <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" TextColor="{StaticResource HDLightGrey}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=4}" />
+                            <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=2}" />
+                            <Label IsVisible="{Binding AltNameText, Converter={StaticResource NullOrEmptyToFalseConverter}}" Text="{Binding AltNameText}" LineBreakMode="WordWrap" TextColor="{StaticResource HDLightGrey}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=4}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

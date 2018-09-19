@@ -135,6 +135,8 @@
     <Content Include="funnel.png" />
     <Content Include="icon.png" />
     <Content Include="ic_launcher.png" />
+    <Content Include="plain_arrow_down.png" />
+    <Content Include="plain_arrow_up.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-100.png" />
     <Content Include="Assets\LockScreenLogo.scale-125.png" />
@@ -171,6 +173,7 @@
     <Content Include="settings_knobs.png" />
     <Content Include="spell_book.png" />
     <Content Include="stars_stack.png" />
+    <Content Include="trash_can.png" />
     <Content Include="wooden_sign.png" />
     <Content Include="xamarin_logo.png" />
   </ItemGroup>

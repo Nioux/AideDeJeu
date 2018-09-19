@@ -55,6 +55,23 @@ namespace AideDeJeu.ViewModels
         }
 
 
+        private ICommand _GotoItemCommand = null;
+        public ICommand GotoItemCommand
+        {
+            get
+            {
+                return _GotoItemCommand ?? (_GotoItemCommand = new Command<Item>(async(item) => await ExecuteGotoItemCommand(item)));
+            }
+        }
+
+        private async Task ExecuteGotoItemCommand(Item item)
+        {
+            var litem = item as LinkItem;
+            var Main = DependencyService.Get<MainViewModel>();
+            await Main.Navigator.NavigateToLinkAsync(litem.Link);
+
+        }
+
         private ICommand _RemoveItemCommand = null;
         public ICommand RemoveItemCommand
         {

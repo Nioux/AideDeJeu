@@ -102,20 +102,20 @@
             <!-- MarkdownView -->
 
             <Style TargetType="Label"  x:Key="paragraph">
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading1">
-                <Setter Property="FontSize" Value="26" />
+                <Setter Property="FontSize" Value="30" />
                 <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading2">
-                <Setter Property="FontSize" Value="22" />
+                <Setter Property="FontSize" Value="25" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
@@ -143,14 +143,14 @@
             </Style>
 
             <Style TargetType="Label"  x:Key="heading6">
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="link">
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlue}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
@@ -165,7 +165,7 @@
             </Style>
 
             <Style TargetType="Label"  x:Key="tablecell">
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
@@ -173,7 +173,7 @@
             </Style>
 
             <Style TargetType="Label"  x:Key="tablecellalt">
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="BackgroundColor" Value="{StaticResource HDLightGrey}" />

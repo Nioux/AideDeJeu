@@ -39,6 +39,28 @@ namespace AideDeJeu.Tools
         }
     }
 
+    public class NullOrEmptyToFalseConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value == null) return false;
+            if (value is string)
+            {
+                var svalue = value as string;
+                if(svalue.Length == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return null;
+        }
+    }
+
     public class IntToValueConverter<T> : IValueConverter
     {
         public T NullOrZeroValue { get; set; }

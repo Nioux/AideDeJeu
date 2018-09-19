@@ -20,17 +20,5 @@ namespace AideDeJeu.Views
 
             BindingContext = DependencyService.Get<BookmarksViewModel>();
 		}
-
-        private async void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
-        {
-            var item = e.Item as LinkItem;
-            var Main = DependencyService.Get<MainViewModel>();
-            await Main.Navigator.NavigateToLinkAsync(item.Link);
-        }
-
-        private async void TapGestureRecognizer_Tapped(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new BookmarksEditPage());
-        }
     }
 }
