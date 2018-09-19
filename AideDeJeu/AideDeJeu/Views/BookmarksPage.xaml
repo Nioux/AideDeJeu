@@ -9,6 +9,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
+            <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
@@ -29,14 +30,40 @@
 
             <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
-            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <StackLayout Padding="10" Orientation="Vertical">
-                                <Label Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
-                                <Label Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
-                            </StackLayout>
+                            <Grid Padding="10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="auto" />
+                                    <ColumnDefinition Width="auto" />
+                                    <ColumnDefinition Width="auto" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Column="0" Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=1}" />
+
+                                <Image Grid.Column="1" Source="trash_can.png" WidthRequest="32" HeightRequest="32">
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding BindingContext.RemoveItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                                <Image Grid.Column="2" Source="plain_arrow_up.png" WidthRequest="32" HeightRequest="2">
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding BindingContext.MoveUpItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                                <Image Grid.Column="3" Source="plain_arrow_down.png" WidthRequest="32" HeightRequest="32">
+                                    <Image.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding BindingContext.MoveDownItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
+                                    </Image.GestureRecognizers>
+                                </Image>
+                            </Grid>
+                            <!--<StackLayout Padding="10" Orientation="Vertical">
+                                <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=1}" />
+                                --><!--<Label Text="{Binding Link}" LineBreakMode="WordWrap" TextColor="{StaticResource HDLightGrey}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=4}" />--><!--
+                            </StackLayout>-->
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

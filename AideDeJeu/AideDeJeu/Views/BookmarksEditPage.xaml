@@ -22,7 +22,7 @@
 
             <Entry Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="FillAndExpand" />
 
-            <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand">
+            <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -34,7 +34,7 @@
                                 </Grid.RowDefinitions>
                                 <Label Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Text="{Binding Name}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="16" />
                                 <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3" Text="{Binding Link}" LineBreakMode="WordWrap" Style="{DynamicResource heading3}" FontSize="12" />
-                                <Button Grid.Column="0" Grid.Row="2" Text="Sypprimer" Command="{Binding BindingContext.RemoveItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
+                                <Button Grid.Column="0" Grid.Row="2" Text="Supprimer" Command="{Binding BindingContext.RemoveItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
                                 <Button Grid.Column="1" Grid.Row="2" Text="Monter" Command="{Binding BindingContext.MoveUpItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
                                 <Button Grid.Column="2" Grid.Row="2" Text="Descendre" Command="{Binding BindingContext.MoveDownItemCommand, Source={x:Reference This}}" CommandParameter="{Binding}" />
                             </Grid>

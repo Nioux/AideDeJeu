@@ -69,21 +69,28 @@ namespace AideDeJeu.Tools
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            var level = value as int?;
-            if(level.HasValue)
+            try
             {
-                int finallevel = level.Value;
-                int baselevel = 1;
-                if(int.TryParse(parameter as string, out baselevel))
+                var level = value as int?;
+                if (level.HasValue)
                 {
-                    finallevel += baselevel;
+                    int finallevel = level.Value;
+                    int baselevel = 1;
+                    if (int.TryParse(parameter as string, out baselevel))
+                    {
+                        finallevel += baselevel;
+                    }
+                    finallevel = Math.Max(1, Math.Min(6, finallevel));
+                    var heading = $"heading{finallevel}";
+                    if (Application.Current.Resources.ContainsKey(heading))
+                    {
+                        return Application.Current.Resources[heading];
+                    }
                 }
-                finallevel = Math.Max(1, Math.Min(6, finallevel));
-                var heading = $"heading{finallevel}";
-                if (Application.Current.Resources.ContainsKey(heading))
-                {
-                    return Application.Current.Resources[heading];
-                }
+            }
+            catch(Exception)
+            {
+
             }
             return Application.Current.Resources["paragraph"];
         }
