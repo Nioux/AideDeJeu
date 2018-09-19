@@ -36,7 +36,7 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 
 ### <!--Name-->Ascendance <!--/Name-->
 
-|Dragon|Type de dégâts|Souffle|[Jet de sauvegarde]|
+|Dragon|Type <!--br-->de <!--br-->dégâts|Souffle|[Jet <!--br-->de <!--br-->sauvegarde]|
 |---|---|---|---|
 |Airain|Feu|Ligne de 1,50 m sur 9 m|[Dextérité]|
 |Argent|Froid|Cône de 4,50 m|[Constitution]|
@@ -57,6 +57,7 @@ Une fois que vous avez utilisé votre souffle, vous ne pouvez plus l'utiliser av
 [Charisme]: abilities_charisma_hd.md
 [jet de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 [jets de sauvegarde]: abilities_hd.md#jets-de-sauvegarde
+[Jet <!--br-->de <!--br-->sauvegarde]: abilities_hd.md#jets-de-sauvegarde
 
 <!--/Generic-->
 

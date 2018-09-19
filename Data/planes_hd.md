@@ -22,7 +22,7 @@ Les mondes du plan matériel sont d’une diversité infinie, car ils reflètent
 
 <!--Generic-->
 
-### <!--Name-->Au-delà du plan ma tériel<!--/Name-->
+### <!--Name-->Au-delà du plan matériel<!--/Name-->
 
 Au-delà du plan matériel, les divers plans d’existence sont faits de mythes et de mystères. Ce ne sont pas seulement des mondes différents, ils présentent des qualités d’existence complètement étrangères et sont formés et gouvernés par des principes élémentaires et spirituels abstraits pour notre monde ordinaire.
 
