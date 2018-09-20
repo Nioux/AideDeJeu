@@ -10,6 +10,7 @@
         <ResourceDictionary>
             <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
             <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
+            <tools:EventToCommandBehavior x:Key="EventToCommandBehavior" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
@@ -25,7 +26,11 @@
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
-            <Picker Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}" />
+            <Picker x:Name="BookmarkCollectionPicker" Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}">
+                <Picker.Behaviors>
+                    <tools:EventToCommandBehavior EventName="SelectedIndexChanged" Command="{Binding BindingContext.SelectedIndexChangedCommand, Source={x:Reference This}}" />
+                </Picker.Behaviors>
+            </Picker>
 
             <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
