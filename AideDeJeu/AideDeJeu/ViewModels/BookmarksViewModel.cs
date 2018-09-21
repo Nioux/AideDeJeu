@@ -38,7 +38,7 @@ namespace AideDeJeu.ViewModels
             set
             {
                 SetProperty(ref _BookmarkCollectionIndex, value);
-                LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+                //LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
             }
         }
         private ObservableCollection<Item> _BookmarkCollection = new ObservableCollection<Item>();
@@ -54,6 +54,23 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private ICommand _SelectedIndexChangedCommand = null;
+        public ICommand SelectedIndexChangedCommand
+        {
+            get
+            {
+                return _SelectedIndexChangedCommand ?? (_SelectedIndexChangedCommand = new Command(async() => await ExecuteSelectedIndexChangedCommand()));
+            }
+        }
+
+        private async Task ExecuteSelectedIndexChangedCommand()
+        {
+            if (BookmarkCollectionIndex >= 0 && BookmarkCollectionIndex < BookmarkCollectionNames.Count)
+            {
+                //BookmarkCollectionIndex = index;
+                await LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            }
+        }
 
         private ICommand _GotoItemCommand = null;
         public ICommand GotoItemCommand
