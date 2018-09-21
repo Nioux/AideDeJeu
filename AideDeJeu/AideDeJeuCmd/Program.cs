@@ -140,7 +140,7 @@ namespace AideDeJeuCmd
                 if (allitem.Value is Items)
                 {
                     var items = allitem.Value as Items;
-                    foreach (var item in items)
+                    foreach (var item in await items.GetChildrenAsync())
                     {
                         if (!string.IsNullOrWhiteSpace(item.Name))
                         {
