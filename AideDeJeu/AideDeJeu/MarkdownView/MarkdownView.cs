@@ -103,48 +103,55 @@
             if (links.Any())
             {
                 var blockLinks = links.Distinct().OrderBy(l => l.Key).ToList();
-                view.GestureRecognizers.Add(new TapGestureRecognizer
+                if (blockLinks.Count > 1)
                 {
-                    Command = new Command(async () => 
+                    //view.GestureRecognizers.Add(new TapGestureRecognizer
+                    //{
+                    //    Command = new Command(async () =>
+                    //    {
+                    //        try
+                    //        { 
+                    //            var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
+                    //            var link = blockLinks.FirstOrDefault(x => x.Key == result);
+                    //            NavigateToLinkCommand?.Execute(link.Value);
+                    //        }
+                    //        catch (Exception) { }
+                    //    }),
+                    //});
+                }
+                else
+                {
+                    view.GestureRecognizers.Add(new TapGestureRecognizer
                     {
-                        try
+                        Command = new Command(() =>
                         {
-                            if (blockLinks.Count > 1)
+                            try
                             {
-                                var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
-                                var link = blockLinks.FirstOrDefault(x => x.Key == result);
-                                //await NavigateToLink(link.Value);
-                                NavigateToLinkCommand?.Execute(link.Value);
-                            }
-                            else
-                            {
-                                //await NavigateToLink(blockLinks.First().Value);
                                 NavigateToLinkCommand?.Execute(blockLinks.First().Value);
                             }
-                        }
-                        catch (Exception) { }
-                    }),
-                });
-
+                            catch (Exception) { }
+                        }),
+                    });
+                }
                 links = new List<KeyValuePair<string, string>>();
             } 
         }
 
         private void AttachLink(Span span, KeyValuePair<string, string> link)
         {
-            //span.GestureRecognizers.Add(new TapGestureRecognizer
-            //{
-            //    Command = new Command(async () =>
-            //    {
-            //        try
-            //        {
-            //            await NavigateToLink(link.Value);
-            //        }
-            //        catch (Exception)
-            //        {
-            //        }
-            //    }),
-            //});
+            span.GestureRecognizers.Add(new TapGestureRecognizer
+            {
+                Command = new Command(() =>
+                {
+                    try
+                    {
+                        NavigateToLinkCommand?.Execute(link.Value);
+                    }
+                    catch (Exception)
+                    {
+                    }
+                }),
+            });
         }
 
         #region Rendering blocks
