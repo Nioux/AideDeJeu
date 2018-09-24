@@ -26,6 +26,7 @@ namespace AideDeJeu.ViewModels
             "Grimoire",
             "Bestiaire",
             "Sac",
+            "Nouvelle liste",
         };
 
         private int _BookmarkCollectionIndex = 0;
@@ -65,10 +66,14 @@ namespace AideDeJeu.ViewModels
 
         private async Task ExecuteSelectedIndexChangedCommand()
         {
-            if (BookmarkCollectionIndex >= 0 && BookmarkCollectionIndex < BookmarkCollectionNames.Count)
+            if (BookmarkCollectionIndex >= 0 && BookmarkCollectionIndex < BookmarkCollectionNames.Count - 1)
             {
                 //BookmarkCollectionIndex = index;
                 await LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            }
+            else if(BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
+            {
+                await Main.Navigator.OpenCancellableTextInputAlertDialog("");
             }
         }
 
