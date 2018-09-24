@@ -188,6 +188,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Rg.Plugins.Popup">
+      <Version>1.1.4.168</Version>
+    </PackageReference>
     <PackageReference Include="SkiaSharp.Svg">
       <Version>1.60.0</Version>
     </PackageReference>

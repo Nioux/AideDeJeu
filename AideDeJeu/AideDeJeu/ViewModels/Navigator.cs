@@ -1,5 +1,6 @@
 ﻿using AideDeJeu.Views;
 using AideDeJeuLib;
+using Rg.Plugins.Popup.Services;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -202,6 +203,55 @@ namespace AideDeJeu.ViewModels
                     await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
                 }
             }
+        }
+
+
+
+
+        public async Task<string> OpenCancellableTextInputAlertDialog(string inputText)
+        {
+            // create the TextInputView
+            var inputView = new TextInputCancellableView(
+                "Nom de la liste ?", "Nouveau nom...", inputText, "Enregistrer", "Annuler", "Le nom ne peut pas être vide.");
+
+            // create the Transparent Popup Page
+            // of type string since we need a string return
+            var popup = new InputAlertDialogBase<string>(inputView);
+            
+
+            // subscribe to the TextInputView's Button click event
+            inputView.SaveButtonEventHandler +=
+                (sender, obj) =>
+                {
+                    if (!string.IsNullOrEmpty(((TextInputCancellableView)sender).TextInputResult))
+                    {
+                        ((TextInputCancellableView)sender).IsValidationLabelVisible = false;
+                        popup.PageClosedTaskCompletionSource.SetResult(((TextInputCancellableView)sender).TextInputResult);
+                    }
+                    else
+                    {
+                        ((TextInputCancellableView)sender).IsValidationLabelVisible = true;
+                    }
+                };
+
+            // subscribe to the TextInputView's Button click event
+            inputView.CancelButtonEventHandler +=
+                (sender, obj) =>
+                {
+                    popup.PageClosedTaskCompletionSource.SetResult(null);
+                };
+
+            // Push the page to Navigation Stack
+            await PopupNavigation.Instance.PushAsync(popup);
+
+            // await for the user to enter the text input
+            var result = await popup.PageClosedTask;
+
+            // Pop the page from Navigation Stack
+            await PopupNavigation.Instance.PopAsync();
+
+            // return user inserted text value
+            return result;
         }
 
     }

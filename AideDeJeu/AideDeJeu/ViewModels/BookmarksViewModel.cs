@@ -143,6 +143,20 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private ICommand _ConfigureCommand = null;
+        public ICommand ConfigureCommand
+        {
+            get
+            {
+                return _ConfigureCommand ?? (_ConfigureCommand = new Command(async () => await ExecuteConfigureCommand()));
+            }
+        }
+
+        private async Task ExecuteConfigureCommand()
+        {
+            await Main.Navigator.OpenCancellableTextInputAlertDialog(BookmarkCollectionNames[BookmarkCollectionIndex]);
+
+        }
 
 
 
