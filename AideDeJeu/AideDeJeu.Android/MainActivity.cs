@@ -31,6 +31,7 @@ namespace AideDeJeu.Droid
             if (Rg.Plugins.Popup.Popup.SendBackPressed(base.OnBackPressed))
             {
                 // Do something if there are some pages in the `PopupStack`
+                Rg.Plugins.Popup.Services.PopupNavigation.Instance.PopAsync();
             }
             else
             {
