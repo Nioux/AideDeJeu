@@ -20,6 +20,8 @@ namespace AideDeJeu.Views
         // the Cancel button's click event
         public EventHandler CancelButtonEventHandler { get; set; }
 
+        public EventHandler DeleteButtonEventHandler { get; set; }
+
         // public string to expose the 
         // text Entry input's value
         public string TextInputResult { get; set; }
@@ -60,21 +62,23 @@ namespace AideDeJeu.Views
         }
 
         public TextInputCancellableView(string titleText, string placeHolderText, string inputText,
-            string saveButtonText, string cancelButtonText, string validationText)
+            string saveButtonText, string cancelButtonText, string deleteButtonText, string validationText)
         {
             InitializeComponent();
 
             // update the Element's textual values
             TitleLabel.Text = titleText;
-            InputEntry.Text = inputText;
+            TextInputResult = InputEntry.Text = inputText;
             InputEntry.Placeholder = placeHolderText;
             SaveButton.Text = saveButtonText;
             CancelButton.Text = cancelButtonText;
+            DeleteButton.Text = deleteButtonText;
             ValidationLabel.Text = validationText;
 
             // handling events to expose to public
             SaveButton.Clicked += SaveButton_Clicked;
             CancelButton.Clicked += CancelButton_Clicked;
+            DeleteButton.Clicked += DeleteButton_Clicked;
             InputEntry.TextChanged += InputEntry_TextChanged;
         }
 
@@ -88,6 +92,12 @@ namespace AideDeJeu.Views
         {
             // invoke the event handler if its being subscribed
             CancelButtonEventHandler?.Invoke(this, e);
+        }
+
+        private void DeleteButton_Clicked(object sender, EventArgs e)
+        {
+            // invoke the event handler if its being subscribed
+            DeleteButtonEventHandler?.Invoke(this, e);
         }
 
         private void InputEntry_TextChanged(object sender,

@@ -73,7 +73,7 @@ namespace AideDeJeu.ViewModels
             }
             else if(BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
             {
-                await Main.Navigator.OpenCancellableTextInputAlertDialog("");
+                var result = await Main.Navigator.OpenCancellableTextInputAlertDialog("");
             }
         }
 
@@ -159,7 +159,11 @@ namespace AideDeJeu.ViewModels
 
         private async Task ExecuteConfigureCommand()
         {
-            await Main.Navigator.OpenCancellableTextInputAlertDialog(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            var result = await Main.Navigator.OpenCancellableTextInputAlertDialog(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            if (result.Item2 == Navigator.PopupResultEnum.Delete)
+            {
+                var confirm = await App.Current.MainPage.DisplayAlert("Supprimer ?", "Etes vous sûr de vouloir supprimer la liste ?", "Supprimer", "Annuler");
+            }
 
         }
 

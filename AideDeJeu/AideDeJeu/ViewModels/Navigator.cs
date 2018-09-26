@@ -1,6 +1,7 @@
 ﻿using AideDeJeu.Views;
 using AideDeJeuLib;
 using Rg.Plugins.Popup.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -207,16 +208,21 @@ namespace AideDeJeu.ViewModels
 
 
 
-
-        public async Task<string> OpenCancellableTextInputAlertDialog(string inputText)
+        public enum PopupResultEnum
+        {
+            Save,
+            Cancel,
+            Delete
+        }
+        public async Task<Tuple<string, PopupResultEnum>> OpenCancellableTextInputAlertDialog(string inputText)
         {
             // create the TextInputView
             var inputView = new TextInputCancellableView(
-                "Nom de la liste ?", "Nouveau nom...", inputText, "Enregistrer", "Annuler", "Le nom ne peut pas être vide.");
+                "Nom de la liste ?", "Nouveau nom...", inputText, "Enregistrer", "Annuler", "Supprimer", "Le nom ne peut pas être vide.");
 
             // create the Transparent Popup Page
             // of type string since we need a string return
-            var popup = new InputAlertDialogBase<string>(inputView);
+            var popup = new InputAlertDialogBase<Tuple<string, PopupResultEnum>>(inputView);
             
 
             // subscribe to the TextInputView's Button click event
@@ -226,7 +232,7 @@ namespace AideDeJeu.ViewModels
                     if (!string.IsNullOrEmpty(((TextInputCancellableView)sender).TextInputResult))
                     {
                         ((TextInputCancellableView)sender).IsValidationLabelVisible = false;
-                        popup.PageClosedTaskCompletionSource.SetResult(((TextInputCancellableView)sender).TextInputResult);
+                        popup.PageClosedTaskCompletionSource.SetResult(new Tuple<string, PopupResultEnum>(((TextInputCancellableView)sender).TextInputResult, PopupResultEnum.Save));
                     }
                     else
                     {
@@ -238,7 +244,13 @@ namespace AideDeJeu.ViewModels
             inputView.CancelButtonEventHandler +=
                 (sender, obj) =>
                 {
-                    popup.PageClosedTaskCompletionSource.SetResult(null);
+                    popup.PageClosedTaskCompletionSource.SetResult(new Tuple<string, PopupResultEnum>(null, PopupResultEnum.Cancel));
+                };
+
+            inputView.DeleteButtonEventHandler +=
+                (sender, obj) =>
+                {
+                    popup.PageClosedTaskCompletionSource.SetResult(new Tuple<string, PopupResultEnum>(null, PopupResultEnum.Delete));
                 };
 
             // Push the page to Navigation Stack
