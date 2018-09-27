@@ -21,6 +21,13 @@
 
 ### Description {: attrib='machin' }
 
+{# test comment #}
+
+{% comment %}
+autre test comment
+en plusieurs lignes
+{% endcomment %}
+
 Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et dans votre champ de vision pendant toute la durée du sort. Choisissez soit une créature, soit un objet qui n'est ni porté ni transporté. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde] de [Constitution]. Si elle le réussit, le sort est sans effet.
 
 Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transporte change de taille avec elle. En revanche, si elle lâche un objet, il reprend sa taille normale sur-le-champ.
