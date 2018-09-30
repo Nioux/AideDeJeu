@@ -130,6 +130,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Package.StoreAssociation.xml" />
+    <Content Include="battle_axe.png" />
     <Content Include="crystal_ball.png" />
     <Content Include="dragon_head.png" />
     <Content Include="funnel.png" />
