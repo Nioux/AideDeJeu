@@ -17,7 +17,7 @@ namespace AideDeJeu.ViewModels
     {
         public BookmarksViewModel()
         {
-            LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
         }
 
         public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
@@ -68,7 +68,7 @@ namespace AideDeJeu.ViewModels
         {
             if (BookmarkCollectionIndex >= 0 && BookmarkCollectionIndex < BookmarkCollectionNames.Count - 1)
             {
-                await LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+                await LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
             }
             else if(BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
             {
@@ -184,7 +184,7 @@ namespace AideDeJeu.ViewModels
             }
             else if (result.Item2 == Navigator.PopupResultEnum.Save)
             {
-                var items = await GetBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+                var items = await GetBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
                 await SaveBookmarksAsync(BookmarkCollectionNames[BookmarkCollectionIndex], null);
                 BookmarkCollectionNames[BookmarkCollectionIndex] = result.Item1;
                 await SaveBookmarksAsync(BookmarkCollectionNames[BookmarkCollectionIndex], items);
@@ -193,7 +193,7 @@ namespace AideDeJeu.ViewModels
 
 
 
-            public async Task<List<Item>> GetBookmarkCollection(string key)
+        public async Task<List<Item>> GetBookmarkCollectionAsync(string key)
         {
             if (key != null)
             {
@@ -208,9 +208,9 @@ namespace AideDeJeu.ViewModels
             }
             return null;
         }
-        public async Task LoadBookmarkCollection(string key)
+        public async Task LoadBookmarkCollectionAsync(string key)
         {
-            var items = await GetBookmarkCollection(key);
+            var items = await GetBookmarkCollectionAsync(key);
             BookmarkCollection.Clear();
             if (items != null)
             {
@@ -221,7 +221,7 @@ namespace AideDeJeu.ViewModels
         public async Task AddBookmarkAsync(string key, Item item)
         {
             var linkItem = new LinkItem() { Name = item.Name, AltName = item.AltName, Link = item.Id };
-            var items = await GetBookmarkCollection(key);
+            var items = await GetBookmarkCollectionAsync(key);
             if(items == null)
             {
                 items = new List<Item>();
@@ -229,6 +229,7 @@ namespace AideDeJeu.ViewModels
             items.Add(linkItem);
             await SaveBookmarksAsync(key, items);
             BookmarkCollectionIndex = BookmarkCollectionNames.IndexOf(key);
+            await LoadBookmarkCollectionAsync(key);
         }
 
         public async Task SaveBookmarksAsync()
