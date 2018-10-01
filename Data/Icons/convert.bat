@@ -21,7 +21,9 @@ call convertone.bat plain_arrow_up.png plain-arrow-up.svg
 
 call convertone.bat trash_can.png trash-can.svg
 
-:nouveau
 call convertone.bat battle_axe.png battle-axe.svg
+
+:nouveau
+call convertmain.bat battle_axe.png battle-axe.svg
 
 pause
