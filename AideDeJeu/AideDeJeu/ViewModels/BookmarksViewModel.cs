@@ -60,15 +60,14 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _SelectedIndexChangedCommand ?? (_SelectedIndexChangedCommand = new Command(async() => await ExecuteSelectedIndexChangedCommand()));
+                return _SelectedIndexChangedCommand ?? (_SelectedIndexChangedCommand = new Command(async() => await ExecuteSelectedIndexChangedCommandAsync()));
             }
         }
 
-        private async Task ExecuteSelectedIndexChangedCommand()
+        private async Task ExecuteSelectedIndexChangedCommandAsync()
         {
             if (BookmarkCollectionIndex >= 0 && BookmarkCollectionIndex < BookmarkCollectionNames.Count - 1)
             {
-                //BookmarkCollectionIndex = index;
                 await LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
             }
             else if(BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
@@ -82,11 +81,11 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _GotoItemCommand ?? (_GotoItemCommand = new Command<Item>(async(item) => await ExecuteGotoItemCommand(item)));
+                return _GotoItemCommand ?? (_GotoItemCommand = new Command<Item>(async(item) => await ExecuteGotoItemCommandAsync(item)));
             }
         }
 
-        private async Task ExecuteGotoItemCommand(Item item)
+        private async Task ExecuteGotoItemCommandAsync(Item item)
         {
             var litem = item as LinkItem;
             var Main = DependencyService.Get<MainViewModel>();
@@ -99,13 +98,14 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _RemoveItemCommand ?? (_RemoveItemCommand = new Command<Item>(ExecuteRemoveItemCommand));
+                return _RemoveItemCommand ?? (_RemoveItemCommand = new Command<Item>(async(item) => await ExecuteRemoveItemCommandAsync(item)));
             }
         }
 
-        private void ExecuteRemoveItemCommand(Item item)
+        private async Task ExecuteRemoveItemCommandAsync(Item item)
         {
             BookmarkCollection.Remove(item);
+            await SaveBookmarksAsync();
         }
 
         private ICommand _MoveUpItemCommand = null;
@@ -113,18 +113,17 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _MoveUpItemCommand ?? (_MoveUpItemCommand = new Command<Item>(ExecuteMoveUpItemCommand));
+                return _MoveUpItemCommand ?? (_MoveUpItemCommand = new Command<Item>(async(item) => await ExecuteMoveUpItemCommandAsync(item)));
             }
         }
 
-        private void ExecuteMoveUpItemCommand(Item item)
+        private async Task ExecuteMoveUpItemCommandAsync(Item item)
         {
             var index = BookmarkCollection.IndexOf(item);
             if (index > 0)
             {
                 BookmarkCollection.Move(index, index - 1);
-                //BookmarkCollection.RemoveAt(index);
-                //BookmarkCollection.Insert(index - 1, item);
+                await SaveBookmarksAsync();
             }
         }
 
@@ -133,18 +132,17 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _MoveDownItemCommand ?? (_MoveDownItemCommand = new Command<Item>(ExecuteMoveDownItemCommand));
+                return _MoveDownItemCommand ?? (_MoveDownItemCommand = new Command<Item>(async(item) => await ExecuteMoveDownItemCommandAsync(item)));
             }
         }
 
-        private void ExecuteMoveDownItemCommand(Item item)
+        private async Task ExecuteMoveDownItemCommandAsync(Item item)
         {
             var index = BookmarkCollection.IndexOf(item);
             if (index < BookmarkCollection.Count - 1)
             {
                 BookmarkCollection.Move(index, index + 1);
-                //BookmarkCollection.RemoveAt(index);
-                //BookmarkCollection.Insert(index + 1, item);
+                await SaveBookmarksAsync();
             }
         }
 
@@ -153,11 +151,11 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return _ConfigureCommand ?? (_ConfigureCommand = new Command(async () => await ExecuteConfigureCommand()));
+                return _ConfigureCommand ?? (_ConfigureCommand = new Command(async () => await ExecuteConfigureCommandAsync()));
             }
         }
 
-        private async Task ExecuteConfigureCommand()
+        private async Task ExecuteConfigureCommandAsync()
         {
             var result = await Main.Navigator.OpenCancellableTextInputAlertDialog(BookmarkCollectionNames[BookmarkCollectionIndex]);
             if (result.Item2 == Navigator.PopupResultEnum.Delete)
@@ -207,13 +205,19 @@ namespace AideDeJeu.ViewModels
             BookmarkCollectionIndex = BookmarkCollectionNames.IndexOf(key);
         }
 
+        public async Task SaveBookmarksAsync()
+        {
+            App.Current.Properties[BookmarkCollectionNames[BookmarkCollectionIndex]] = ToString(BookmarkCollection);
+            await App.Current.SavePropertiesAsync();
+        }
+
         public async Task SaveBookmarksAsync(string key, List<Item> items)
         {
             App.Current.Properties[key] = ToString(items);
             await App.Current.SavePropertiesAsync();
         }
 
-        public string ToString(List<Item> items)
+        public string ToString(IEnumerable<Item> items)
         {
             string md = string.Empty;
             md += "\n<!--Items-->\n\n";
