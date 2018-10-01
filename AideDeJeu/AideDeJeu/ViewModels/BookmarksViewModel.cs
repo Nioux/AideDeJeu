@@ -73,6 +73,18 @@ namespace AideDeJeu.ViewModels
             else if(BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
             {
                 var result = await Main.Navigator.OpenCancellableTextInputAlertDialog("");
+                if(result.Item2 == Navigator.PopupResultEnum.Save)
+                {
+                    var index = BookmarkCollectionNames.Count - 1;
+                    BookmarkCollectionNames.Insert(index, result.Item1);
+                    //BookmarkCollectionIndex = index;
+                    BookmarkCollectionIndex = 0;
+                    await SaveBookmarksAsync();
+                }
+                else
+                {
+                    BookmarkCollectionIndex = 0;
+                }
             }
         }
 
@@ -161,13 +173,27 @@ namespace AideDeJeu.ViewModels
             if (result.Item2 == Navigator.PopupResultEnum.Delete)
             {
                 var confirm = await App.Current.MainPage.DisplayAlert("Supprimer ?", "Etes vous sûr de vouloir supprimer la liste ?", "Supprimer", "Annuler");
+                if (confirm)
+                {
+                    var index = BookmarkCollectionIndex;
+                    var name = BookmarkCollectionNames[BookmarkCollectionIndex];
+                    await SaveBookmarksAsync(name, null);
+                    BookmarkCollectionNames.Remove(name);
+                    BookmarkCollectionIndex = 0;
+                }
             }
-
+            else if (result.Item2 == Navigator.PopupResultEnum.Save)
+            {
+                var items = await GetBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+                await SaveBookmarksAsync(BookmarkCollectionNames[BookmarkCollectionIndex], null);
+                BookmarkCollectionNames[BookmarkCollectionIndex] = result.Item1;
+                await SaveBookmarksAsync(BookmarkCollectionNames[BookmarkCollectionIndex], items);
+            }
         }
 
 
 
-        public async Task<List<Item>> GetBookmarkCollection(string key)
+            public async Task<List<Item>> GetBookmarkCollection(string key)
         {
             if (key != null)
             {
@@ -213,7 +239,14 @@ namespace AideDeJeu.ViewModels
 
         public async Task SaveBookmarksAsync(string key, List<Item> items)
         {
-            App.Current.Properties[key] = ToString(items);
+            if (items == null)
+            {
+                App.Current.Properties.Remove(key);
+            }
+            else
+            {
+                App.Current.Properties[key] = ToString(items);
+            }
             await App.Current.SavePropertiesAsync();
         }
 
