@@ -179,7 +179,7 @@ namespace AideDeJeu.ViewModels
                 {
                     if (null != prop && prop.CanWrite)
                     {
-                        prop.SetValue(item, inline.ToMarkdownString(), null);
+                        prop.SetValue(item, prop.GetValue(item) + inline.ToMarkdownString(), null);
                     }
                 }
             }
