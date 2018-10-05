@@ -105,19 +105,22 @@
                 var blockLinks = links.Distinct().OrderBy(l => l.Key).ToList();
                 if (blockLinks.Count > 1)
                 {
-                    //view.GestureRecognizers.Add(new TapGestureRecognizer
-                    //{
-                    //    Command = new Command(async () =>
-                    //    {
-                    //        try
-                    //        { 
-                    //            var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
-                    //            var link = blockLinks.FirstOrDefault(x => x.Key == result);
-                    //            NavigateToLinkCommand?.Execute(link.Value);
-                    //        }
-                    //        catch (Exception) { }
-                    //    }),
-                    //});
+                    if (Device.RuntimePlatform == Device.GTK)
+                    {
+                        view.GestureRecognizers.Add(new TapGestureRecognizer
+                        {
+                            Command = new Command(async () =>
+                            {
+                                try
+                                {
+                                    var result = await Application.Current.MainPage.DisplayActionSheet("Ouvrir le lien", "Annuler", null, blockLinks.Select(x => x.Key).ToArray());
+                                    var link = blockLinks.FirstOrDefault(x => x.Key == result);
+                                    NavigateToLinkCommand?.Execute(link.Value);
+                                }
+                                catch (Exception) { }
+                            }),
+                        });
+                    }
                 }
                 else
                 {
