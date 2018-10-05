@@ -216,7 +216,7 @@ L'apparence de votre grimoire. Votre grimoire est une compilation unique de sort
 
 <!--/Items-->
 
-[Académicien]: wizard_acadelician_hd.md
+[Académicien]: wizard_academician_hd.md
 [Arpenteur]: wizard_surveyor_hd.md
 [Élémentaliste]: wizard_elementalist_hd.md
 [Éminence grise]: wizard_eminence_hd.md
