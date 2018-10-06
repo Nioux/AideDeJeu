@@ -20,7 +20,14 @@
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
     </ContentPage.ToolbarItems>
     <Grid>
-        <ListView BackgroundColor="{StaticResource HDWhite}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+        <ScrollView Orientation="Vertical">
+            <mdview:MarkdownView 
+                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Markdown="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" 
+                    NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
+                    />
+        </ScrollView>
+        <!--<ListView BackgroundColor="{StaticResource HDWhite}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
@@ -38,7 +45,7 @@
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>
+        </ListView>-->
         <ActivityIndicator 
             VerticalOptions="StartAndExpand"
             HorizontalOptions="End"

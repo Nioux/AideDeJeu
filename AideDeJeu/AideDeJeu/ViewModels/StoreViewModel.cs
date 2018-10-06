@@ -86,8 +86,21 @@ namespace AideDeJeu.ViewModels
                             }
                             else //if (currentItem is Items)
                             {
-                                var items = currentItem; // as Items;
-                                items.AddChild(subItem);
+                                if (currentItem.GetNewFilterViewModel() == null)
+                                {
+                                    var level = Math.Max(1, Math.Min(6, subItem.NameLevel));
+                                    currentItem.Markdown += $"\n\n{new String('#', level)} [{subItem.Name}]({(subItem is LinkItem ? (subItem as LinkItem).Link : subItem.Id)})\n\n";
+                                    if(!string.IsNullOrEmpty(subItem.AltNameText))
+                                    {
+                                        var altlevel = Math.Max(1, Math.Min(6, subItem.NameLevel + 2));
+                                        currentItem.Markdown += $"{new String('#', altlevel)} {subItem.AltNameText}\n\n";
+                                    }
+                                }
+                                else
+                                {
+                                    var items = currentItem; // as Items;
+                                    items.AddChild(subItem);
+                                }
                             }
                             enumerator.MoveNext();
                         }
